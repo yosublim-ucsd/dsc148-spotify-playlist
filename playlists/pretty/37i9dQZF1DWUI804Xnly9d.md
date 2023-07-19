@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 
 > Magic of acoustic poured into your Chai
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,607 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,686 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI804Xnly9d.md) - [plain]
 | 74 | [Alag Aasmaan \(Acoustic\)](https://open.spotify.com/track/1gxmaTGnxEgZuV8485tevN) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Alag Aasmaan \(Acoustic\)](https://open.spotify.com/album/6o0udgyHVEdegUKzU2sh89) | 3:31 |
 | 75 | [Dhalti Rahe \- Stripped.](https://open.spotify.com/track/24LQNvRzHvO1hVve07K2jj) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Dhalti Rahe \(Stripped.\)](https://open.spotify.com/album/4lrfG38M3vK2gBlfvLXGTu) | 4:16 |
 
-Snapshot ID: `MCwwMDQwMGExMzY5MzVmYjU3ZmI2NDI2M2VhNzc2MmViN2QwNWFjZTg0`
+Snapshot ID: `MCw3YzA3OWY2ZDMyNmY2YTg4ZTg1Y2Q3ZTZlZmI0ZDI4ZDFiNTliNzA0`

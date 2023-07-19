@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 425288,
+  "num_followers": 425462,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzc3NWU1ZTIxNWZhNTRmMjkxNTc2ODA4N2UwZjEwMjg4ZTYxMjkw",
+  "snapshot_id": "MCxiYTgyYWFiMDg1Njk2ZTBkMGY1YTk5M2JlN2Q1YzdkOTQ2YWZkZDBh",
   "tracks": [
     {
       "added_at": "2023-07-14 03:03:00",
@@ -1463,6 +1463,26 @@
     {
       "added_at": "2023-07-14 03:03:00",
       "album": {
+        "name": "Oh! Chuva",
+        "url": "https://open.spotify.com/album/12uCk8CZOUFgd4KdBeCCkU"
+      },
+      "artists": [
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        },
+        {
+          "name": "Falamansa",
+          "url": "https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk"
+        }
+      ],
+      "duration_ms": 144796,
+      "name": "Oh! Chuva",
+      "url": "https://open.spotify.com/track/1MpLC1n2AenlVxynucQINf"
+    },
+    {
+      "added_at": "2023-07-14 03:03:00",
+      "album": {
         "name": "Lovezinho",
         "url": "https://open.spotify.com/album/5DcJcjPxI78aGL7LCvbMsx"
       },
@@ -1503,30 +1523,6 @@
       "duration_ms": 191712,
       "name": "Praia (Sem Sair de Casa) [Remix]",
       "url": "https://open.spotify.com/track/6Dz51jWucpeq8NF8b9uYaa"
-    },
-    {
-      "added_at": "2023-07-14 03:03:00",
-      "album": {
-        "name": "Evoluiu (Rakka & Onabeat Remix)",
-        "url": "https://open.spotify.com/album/50yBv8IH7yh1az9WApeLQr"
-      },
-      "artists": [
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        },
-        {
-          "name": "Rakka",
-          "url": "https://open.spotify.com/artist/2GNfI7g7glAR1JBuvU0vL5"
-        },
-        {
-          "name": "Sodr\u00e9",
-          "url": "https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc"
-        }
-      ],
-      "duration_ms": 172918,
-      "name": "Evoluiu - Rakka & Onabeat Remix",
-      "url": "https://open.spotify.com/track/6NwcscnUNdlBsPzGgZeObZ"
     }
   ],
   "unique_name": "Festa na Praia",

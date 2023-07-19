@@ -1,12 +1,12 @@
 {
   "description": "Celebrating ten years of Tiwa Savage's Debut Album; Once Upon a Time. Cover: Tiwa Savage.  ",
-  "num_followers": 115707,
+  "num_followers": 115846,
   "original_name": "Timeless Afro ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNzQ2YmI0NWRiOGU0NmJjZTZlOWU2OTBmMTRmYmE2ZjFjMzU5Mjk2",
+  "snapshot_id": "MCwzZTg5ZTU0ZDczNGZjY2ViNWI0ZjE0M2Q4MmQ5OTNjNWQ5MTUwNzAy",
   "tracks": [
     {
       "added_at": "2023-07-03 15:34:16",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-07-03 15:34:16",
       "album": {
-        "name": "Blackmagic (Version 2.0)",
-        "url": "https://open.spotify.com/album/0nepGl4m2TfanN9B9LYZDW"
-      },
-      "artists": [
-        {
-          "name": "Blackmagic",
-          "url": "https://open.spotify.com/artist/711uESshM9OxGFc3lT8CL8"
-        }
-      ],
-      "duration_ms": 218186,
-      "name": "Repete",
-      "url": "https://open.spotify.com/track/2IgwxE5qvqb6LoP36mHa8G"
-    },
-    {
-      "added_at": "2023-07-03 15:34:16",
-      "album": {
         "name": "Gentleman",
         "url": "https://open.spotify.com/album/56UAK81XOvDgAcTsI0Olpk"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 881240,
       "name": "Gentleman",
       "url": "https://open.spotify.com/track/1HC6o3lTQvNmtH3ejYG4hs"
+    },
+    {
+      "added_at": "2023-07-03 15:34:16",
+      "album": {
+        "name": "Blackmagic (Version 2.0)",
+        "url": "https://open.spotify.com/album/0nepGl4m2TfanN9B9LYZDW"
+      },
+      "artists": [
+        {
+          "name": "Blackmagic",
+          "url": "https://open.spotify.com/artist/711uESshM9OxGFc3lT8CL8"
+        }
+      ],
+      "duration_ms": 218186,
+      "name": "Repete",
+      "url": "https://open.spotify.com/track/2IgwxE5qvqb6LoP36mHa8G"
     },
     {
       "added_at": "2023-07-03 15:34:16",
@@ -707,18 +707,18 @@
     {
       "added_at": "2023-07-03 15:34:16",
       "album": {
-        "name": "HITSVILLE",
-        "url": "https://open.spotify.com/album/011e7IuzQ1YLl5TfM6rsU7"
+        "name": "Expensive Shit",
+        "url": "https://open.spotify.com/album/20IklXmkirz07Lpv6jnLNB"
       },
       "artists": [
         {
-          "name": "Paul Play",
-          "url": "https://open.spotify.com/artist/6swbkgPRm0Gxw4jBo3ykUB"
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
         }
       ],
-      "duration_ms": 303124,
-      "name": "ANGEL OF MY LIFE",
-      "url": "https://open.spotify.com/track/1sGpwnVX1UT7KQC8UEn7BJ"
+      "duration_ms": 793200,
+      "name": "Expensive Shit",
+      "url": "https://open.spotify.com/track/6sNNtFKdCz0bnjx7IEXyl2"
     }
   ],
   "unique_name": "Timeless Afro ",

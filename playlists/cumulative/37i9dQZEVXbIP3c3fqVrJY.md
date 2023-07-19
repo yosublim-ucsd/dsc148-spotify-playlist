@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Czech Republic.
 
-1,064 songs - 2 day 6 hr 37 min
+1,065 songs - 2 day 6 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Believe What I Say](https://open.spotify.com/track/73uxnSsFMeJ15POpd3zgrV) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:02 | 2021-08-31 | 2021-09-01 |
 | [Believer](https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:24 | 2022-06-06 | 2022-07-17 |
 | [Belly Dancer](https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil) | [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Belly Dancer](https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn) | 2:31 | 2022-07-14 | 2023-04-25 |
-| [Benz](https://open.spotify.com/track/1iOXr3xZSuF62boF7ygB6L) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [ROADTRIP](https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc) | 2:04 | 2023-02-04 | 2023-07-17 |
+| [Benz](https://open.spotify.com/track/1iOXr3xZSuF62boF7ygB6L) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [ROADTRIP](https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc) | 2:04 | 2023-02-04 |  |
 | [Berlín](https://open.spotify.com/track/1mDgpMsz6fDE7DDZIV9kW3) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [ROADTRIP](https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc) | 2:42 | 2023-02-04 | 2023-05-30 |
 | [Bezos I](https://open.spotify.com/track/0Kdj7nwaYQmvhxnqZaIQuW) | [Bo Burnham](https://open.spotify.com/artist/2Waw2sSbqvAwK8NwACNjVo) | [Inside \(The Songs\)](https://open.spotify.com/album/1e5OlE0EY5fucq6GIU1xi3) | 0:58 | 2021-07-27 | 2021-08-04 |
 | [Biely kvet](https://open.spotify.com/track/7fTuPhyzHOLsPX2S91xtpe) | [Miro Žbirka](https://open.spotify.com/artist/38vf1Wys8uNYdbZQwtGpmr) | [Sezónne lásky](https://open.spotify.com/album/0887mjuNIfIt1hbTuysTvf) | 3:28 | 2021-11-12 | 2021-11-14 |
@@ -791,8 +791,9 @@
 | [Run](https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Run](https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI) | 2:49 | 2021-05-19 | 2021-08-29 |
 | [Runaway](https://open.spotify.com/track/1v1oIWf2Xgh54kIWuKsDf6) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me As A Friend \(Deluxe\)](https://open.spotify.com/album/6YMSXPIHkA2jPIlFHuejXW) | 4:08 | 2021-04-08 | 2021-06-03 |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-05-30 | 2022-10-12 |
+| [Rush](https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Rush](https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf) | 2:36 | 2023-07-18 |  |
 | [Ryba Rybě](https://open.spotify.com/track/7zTFcEEtyeKxvRUrPIHT49) | [Janek Ledecky](https://open.spotify.com/artist/79bOGlqgcX5k0XF1giVvNO) | [Sliby Se Maj Plnit O Vánocích \(20 Let\)](https://open.spotify.com/album/4n0Y3AciirHfoyIEDvfvGn) | 4:09 | 2021-11-30 | 2022-12-27 |
-| [Růže](https://open.spotify.com/track/54H0xbH1zRSpIooA56rHva) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [STEIN27](https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb) | [Svědomí](https://open.spotify.com/album/671IMix7dK4HR0b2XDZqOk) | 4:15 | 2023-04-24 |  |
+| [Růže](https://open.spotify.com/track/54H0xbH1zRSpIooA56rHva) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [STEIN27](https://open.spotify.com/artist/2A3rmRL2kja5NoroAGdZPb) | [Svědomí](https://open.spotify.com/album/671IMix7dK4HR0b2XDZqOk) | 4:15 | 2023-04-24 | 2023-07-19 |
 | [S láskou, Lukáš](https://open.spotify.com/track/1ke6pjpooJymwb1AXoPwhG) | [Pil C](https://open.spotify.com/artist/2U1l35agymGrBDFeMIxVLG) | [S láskou, Lukáš.](https://open.spotify.com/album/3fuDMexJaDX4XIfOiAMI9t) | 2:25 | 2023-02-15 | 2023-02-17 |
 | [S.P.J.D.](https://open.spotify.com/track/7wvhiIXKMCeE39WpRDnLHT) | [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h) | [Jsem v pohodě, sem v prdeli.](https://open.spotify.com/album/2TZX9mElJ86xfdSEGtUsLr) | 2:08 | 2021-08-01 | 2022-02-14 |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-01-08 | 2022-01-21 |
@@ -887,7 +888,7 @@
 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 | 2022-05-14 | 2022-06-12 |
 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 | 2023-01-07 | 2023-02-04 |
 | [Svatební materiál](https://open.spotify.com/track/3r1Daj1GAwfUUIGjSUGRI2) | [Sergei Barracuda](https://open.spotify.com/artist/1hwvc8bcyy9ruXXXRLcfko), [Mishala Orth](https://open.spotify.com/artist/3XfYmn43TUqyNgeq4eFJ5c) | [Finesa](https://open.spotify.com/album/6mDThweCb6pZxqwfThAw8Q) | 3:40 | 2022-06-14 | 2022-06-30 |
-| [Svaz českých bohémů](https://open.spotify.com/track/0twbASvGKPDvbWviKZcpyy) | [Wohnout](https://open.spotify.com/artist/0ZDbrXYXNaO94VjgXjdFh7) | [Našim klientům](https://open.spotify.com/album/51cRAfvSPuvSkNwZvrpxfb) | 4:16 | 2021-03-27\* |  |
+| [Svaz českých bohémů](https://open.spotify.com/track/0twbASvGKPDvbWviKZcpyy) | [Wohnout](https://open.spotify.com/artist/0ZDbrXYXNaO94VjgXjdFh7) | [Našim klientům](https://open.spotify.com/album/51cRAfvSPuvSkNwZvrpxfb) | 4:16 | 2021-03-27\* | 2023-07-19 |
 | [svet je tvoj](https://open.spotify.com/track/1I20637Fn2WHxQ9L1EEggS) | [Samey](https://open.spotify.com/artist/0p0V7LW8i3S22J7xErqdmt), [Zayo](https://open.spotify.com/artist/0lf8LVkrjg9GudchoppC5q) | [Anarchia](https://open.spotify.com/album/4zqBS3OrQBtBconkN08EXW) | 1:37 | 2021-09-03 | 2021-09-04 |
 | [Sweater Weather](https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [I Love You.](https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI) | 4:00 | 2021-03-30 | 2023-06-11 |
 | [Sweet Nothing](https://open.spotify.com/track/0wavGRldH0AWyu2zvTz8zb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:08 | 2022-10-22 | 2022-10-24 |

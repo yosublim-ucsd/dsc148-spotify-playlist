@@ -28376,7 +28376,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 118000,
       "name": "Dust & Sparkles",
       "url": "https://open.spotify.com/track/4Luprz2j3NKRjiEcajDK6E"
@@ -32165,6 +32165,24 @@
     },
     {
       "album": {
+        "name": "Fantastic Science Fictions",
+        "url": "https://open.spotify.com/album/6QtQK1qWzkTfdKtNxE6Yau"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Coltrane",
+          "url": "https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142968,
+      "name": "Fantastic Science Fictions",
+      "url": "https://open.spotify.com/track/571yI9Y6m4eXbKAajNGn9C"
+    },
+    {
+      "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/6XneqEjUvrX9Z6fCycv2bf"
       },
@@ -34708,7 +34726,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 152368,
       "name": "Floating",
       "url": "https://open.spotify.com/track/7DLYX2PrlPxM5qLsh00Pp9"
@@ -38876,7 +38894,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 107081,
       "name": "Glory",
       "url": "https://open.spotify.com/track/3F7VdgQCmDTXscfrvnBdkJ"
@@ -48354,7 +48372,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-06",
+      "date_removed": null,
       "duration_ms": 137750,
       "name": "Island Observatory",
       "url": "https://open.spotify.com/track/7L6psy6Uxo4LM16qj8TiaT"
@@ -107520,7 +107538,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-15",
+      "date_removed": null,
       "duration_ms": 121500,
       "name": "Watchtower dreams",
       "url": "https://open.spotify.com/track/0fATOmeL4L27d2TOSZjPYv"

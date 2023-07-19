@@ -1,12 +1,12 @@
 {
   "description": "Female artists of Philadelphia International Records which is especially known for Philly Soul. Cover: The Jones Girls:\n",
-  "num_followers": 30511,
+  "num_followers": 30540,
   "original_name": "Women of Philly Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDNmZDNkZDY1MDhhYjRjOGMxNmU2MWQzNzYxYTg1NGQ1NmUxMGI5",
+  "snapshot_id": "MCxkMWUwODNjM2UxMDQ2OTUxYTc2NWI1YTUwNmUzZjA2YjZkNWQzNmE0",
   "tracks": [
     {
       "added_at": "2022-03-03 11:43:39",
@@ -223,22 +223,18 @@
     {
       "added_at": "2022-03-03 11:43:39",
       "album": {
-        "name": "What Color Is Love",
-        "url": "https://open.spotify.com/album/5zHHNHuj08nKoaoseKTuDF"
+        "name": "Sing About Life",
+        "url": "https://open.spotify.com/album/6QkVNYrUsPdhcPwtFILX3r"
       },
       "artists": [
         {
-          "name": "Dee Dee Sharp Gamble",
-          "url": "https://open.spotify.com/artist/6yca6zFWEYjAzjrcch66IK"
-        },
-        {
-          "name": "Dee Dee Sharp",
-          "url": "https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT"
+          "name": "The Ebonys",
+          "url": "https://open.spotify.com/artist/5lIu3yk3Vz3a2dVSoBHJDt"
         }
       ],
-      "duration_ms": 236480,
-      "name": "I Believe in Love",
-      "url": "https://open.spotify.com/track/38xyVKgU4XvfO4LRHIdiJ9"
+      "duration_ms": 330400,
+      "name": "A Love of Your Own",
+      "url": "https://open.spotify.com/track/7BDhzQJpWmQU0fBRdv2pDM"
     },
     {
       "added_at": "2022-03-03 11:43:39",
@@ -323,18 +319,22 @@
     {
       "added_at": "2022-03-03 11:43:39",
       "album": {
-        "name": "Sing About Life",
-        "url": "https://open.spotify.com/album/6QkVNYrUsPdhcPwtFILX3r"
+        "name": "What Color Is Love",
+        "url": "https://open.spotify.com/album/5zHHNHuj08nKoaoseKTuDF"
       },
       "artists": [
         {
-          "name": "The Ebonys",
-          "url": "https://open.spotify.com/artist/5lIu3yk3Vz3a2dVSoBHJDt"
+          "name": "Dee Dee Sharp Gamble",
+          "url": "https://open.spotify.com/artist/6yca6zFWEYjAzjrcch66IK"
+        },
+        {
+          "name": "Dee Dee Sharp",
+          "url": "https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT"
         }
       ],
-      "duration_ms": 330400,
-      "name": "A Love of Your Own",
-      "url": "https://open.spotify.com/track/7BDhzQJpWmQU0fBRdv2pDM"
+      "duration_ms": 236480,
+      "name": "I Believe in Love",
+      "url": "https://open.spotify.com/track/38xyVKgU4XvfO4LRHIdiJ9"
     },
     {
       "added_at": "2022-03-03 11:43:39",
@@ -371,22 +371,18 @@
     {
       "added_at": "2022-03-03 11:43:39",
       "album": {
-        "name": "What Color Is Love",
-        "url": "https://open.spotify.com/album/5zHHNHuj08nKoaoseKTuDF"
+        "name": "Frantique",
+        "url": "https://open.spotify.com/album/1Xn2SYwx4PCz5v4K9yNSJn"
       },
       "artists": [
         {
-          "name": "Dee Dee Sharp Gamble",
-          "url": "https://open.spotify.com/artist/6yca6zFWEYjAzjrcch66IK"
-        },
-        {
-          "name": "Dee Dee Sharp",
-          "url": "https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT"
+          "name": "Frantique",
+          "url": "https://open.spotify.com/artist/64FQb5lUDKS72l9d8OjDLT"
         }
       ],
-      "duration_ms": 298160,
-      "name": "Nobody Could Take Your Place",
-      "url": "https://open.spotify.com/track/4873dV93AQTyB57RMqbVUA"
+      "duration_ms": 441666,
+      "name": "Disco Dancer",
+      "url": "https://open.spotify.com/track/00uxI8BWoA3p7ikapcnEzd"
     },
     {
       "added_at": "2022-03-03 11:43:39",
@@ -471,6 +467,26 @@
     {
       "added_at": "2022-03-03 11:43:39",
       "album": {
+        "name": "What Color Is Love",
+        "url": "https://open.spotify.com/album/5zHHNHuj08nKoaoseKTuDF"
+      },
+      "artists": [
+        {
+          "name": "Dee Dee Sharp Gamble",
+          "url": "https://open.spotify.com/artist/6yca6zFWEYjAzjrcch66IK"
+        },
+        {
+          "name": "Dee Dee Sharp",
+          "url": "https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT"
+        }
+      ],
+      "duration_ms": 298160,
+      "name": "Nobody Could Take Your Place",
+      "url": "https://open.spotify.com/track/4873dV93AQTyB57RMqbVUA"
+    },
+    {
+      "added_at": "2022-03-03 11:43:39",
+      "album": {
         "name": "Frantique",
         "url": "https://open.spotify.com/album/1Xn2SYwx4PCz5v4K9yNSJn"
       },
@@ -480,33 +496,9 @@
           "url": "https://open.spotify.com/artist/64FQb5lUDKS72l9d8OjDLT"
         }
       ],
-      "duration_ms": 441666,
-      "name": "Disco Dancer",
-      "url": "https://open.spotify.com/track/00uxI8BWoA3p7ikapcnEzd"
-    },
-    {
-      "added_at": "2022-03-03 11:43:39",
-      "album": {
-        "name": "The Women of Philadelphia International Records - The Remixes",
-        "url": "https://open.spotify.com/album/0Zhm6kMdeBa2iv48QhnYSu"
-      },
-      "artists": [
-        {
-          "name": "Dee Dee Sharp Gamble",
-          "url": "https://open.spotify.com/artist/6yca6zFWEYjAzjrcch66IK"
-        },
-        {
-          "name": "Dexter Wansel",
-          "url": "https://open.spotify.com/artist/7azp9wRyXcxIq5vZnJgYvt"
-        },
-        {
-          "name": "David Todd",
-          "url": "https://open.spotify.com/artist/5OYReAyrBw6qS3vOtMCaZA"
-        }
-      ],
-      "duration_ms": 420608,
-      "name": "Breaking and Entering - 12\" Version",
-      "url": "https://open.spotify.com/track/7EeTRmNCoGhvN1CM3qbMOu"
+      "duration_ms": 508893,
+      "name": "Night People These Days",
+      "url": "https://open.spotify.com/track/5QFF9FaSmMGrG56ldscScG"
     },
     {
       "added_at": "2022-03-03 11:43:39",

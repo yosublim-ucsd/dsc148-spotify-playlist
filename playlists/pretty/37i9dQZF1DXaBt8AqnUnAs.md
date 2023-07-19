@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 
 > aqueles papo de amor, tlgd não?
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,889 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,018 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 13 | [Manda Áudio](https://open.spotify.com/track/40bBt1gFvO5WF53zsH6S6T) | [Penedo](https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T), [Vice\-Versa](https://open.spotify.com/artist/3uFYZKcA0ABjsnxzgEBhKX) | [Manda Áudio](https://open.spotify.com/album/2JdlnM25JoATKsHTckZwDM) | 2:18 |
 | 14 | [Peito Aberto](https://open.spotify.com/track/6dptMKifBnKoekCrSzbN4v) | [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO) | [Peito Aberto](https://open.spotify.com/album/5N9N3J9bVEOCgXw6Oa1T3u) | 2:36 |
 | 15 | [Calma, Bebê!](https://open.spotify.com/track/0dEaaQY4pj0DB89Nx51OVJ) | [Magrão AllFavela](https://open.spotify.com/artist/1TBurupOpaxZ5iA4uMXEo1), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di) | [Calma, Bebê!](https://open.spotify.com/album/1r9wCZceI3QoeuSU2ledD1) | 2:39 |
-| 16 | [Rosé](https://open.spotify.com/track/4XNWomgt4j2BnsdIDwxHAx) | [Shamilla](https://open.spotify.com/artist/5jZSvXknZbgk0gdObdTnh2), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB) | [Rosé](https://open.spotify.com/album/0DFmqa5mM1tTDfJZ8lpsI1) | 2:33 |
+| 16 | [Rosé](https://open.spotify.com/track/4XNWomgt4j2BnsdIDwxHAx) | [Shamilla](https://open.spotify.com/artist/5jZSvXknZbgk0gdObdTnh2), [FELL](https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB), [WALL](https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY) | [Rosé](https://open.spotify.com/album/0DFmqa5mM1tTDfJZ8lpsI1) | 2:33 |
 | 17 | [Vírus Love](https://open.spotify.com/track/3GqfiXU4HTfSJ3TL30QrNs) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Victor Sabri](https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q) | [Virus Love](https://open.spotify.com/album/3Q8N5qG3Eq9mcSgAAXgIrn) | 3:11 |
 | 18 | [Romance Bandido](https://open.spotify.com/track/2mQHoKjr60kHEjX4D3C2Fd) | [Altamira](https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu) | [Romance Bandido](https://open.spotify.com/album/4yut8XdV9iFwzCwNLsO7zA) | 2:43 |
 | 19 | [''mentiras sobre amor"](https://open.spotify.com/track/6ow4OxRf2Sy3gsIv86WFsn) | [L3ozz](https://open.spotify.com/artist/2re8PPjIT5xydo7CAYQb02) | [''mentiras sobre amor"](https://open.spotify.com/album/26wv6zrlKHABNe1gR4IPrW) | 2:31 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaBt8AqnUnAs.md) - [plain]
 | 74 | [Meu Grande Amor](https://open.spotify.com/track/7uOsXEncaOxLBeq0rvU4oJ) | [YOÙN](https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi) | [BXD IN JAZZ](https://open.spotify.com/album/7Kgm5bcggxWaBRBNFs9ItX) | 2:53 |
 | 75 | [Abre a porta](https://open.spotify.com/track/4ispiK8sx7pBgNlYjXunZm) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Abre a porta](https://open.spotify.com/album/6gsClmogCvPBWKy5JeaDxd) | 2:22 |
 
-Snapshot ID: `MCw0MDJjODkwOGFmZjMwOGY5YWIxZDgzYWQ1ODc4ZTBkYmFhOTZjMmM0`
+Snapshot ID: `MCw5YzMwOTEzMDFjOTNkNTIwY2I3YWY2YTUwMGJlNzc2YTY4NGNjM2E3`

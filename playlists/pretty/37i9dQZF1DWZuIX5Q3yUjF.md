@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: MANDORLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,013 likes - 65 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,016 likes - 65 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 64 | [ASTRI](https://open.spotify.com/track/2mMOheK07cYOUraIRTz4g9) | [HERMES](https://open.spotify.com/artist/7w59Z3nldYeBSD1E2eJRWm) | [ASTRI](https://open.spotify.com/album/48YXu3TSa7dFY6Bnw0qqr9) | 3:26 |
 | 65 | [Semafori arancioni](https://open.spotify.com/track/2Y4vL02kpV1CyBz25JZxrB) | [Luca Notaro](https://open.spotify.com/artist/1rDD8vsbYTzd3DBR5etA5p), [Moder](https://open.spotify.com/artist/7q6vzSdJeqaTHBrSgvT7cZ) | [Semafori arancioni](https://open.spotify.com/album/2NsuCCAAJEVjEeSOqtoE6R) | 2:34 |
 
-Snapshot ID: `MCwyNzgyOWIyYTMxMGEzOTlkZmEyOGUwZGE0MjBkNDYzMjFkNTY5ZGE0`
+Snapshot ID: `MCxjNjZhZjgxZWVmNDk3MWViYTMyOGI0M2RhMmFmNjRjMmViZDdiY2Q5`

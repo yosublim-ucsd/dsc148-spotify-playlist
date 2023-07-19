@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-389 songs - 1 day 4 hr 29 min
+390 songs - 1 day 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Angel Dust](https://open.spotify.com/track/7yEDXWnJtWkHnVsclNuklc) | [Solardo](https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ) | [Angel Dust](https://open.spotify.com/album/26RgtRfY7tfyCOM88PrLAr) | 4:03 | 2022-10-28 | 2023-05-08 |
 | [Animals \- Original Mix](https://open.spotify.com/track/6zWvzwaUh4pTQdRPhuIfA8) | [Dr Honey](https://open.spotify.com/artist/2ancfz442teYM3RI1zUcNr) | [Animals](https://open.spotify.com/album/2j6ldD5rJrksFT9RXAiVsm) | 3:31 | 2022-04-15 | 2022-04-21 |
 | [Annihilation](https://open.spotify.com/track/0TzkG2s7nhpZs0RNSBsAlF) | [i\_o](https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Annihilation](https://open.spotify.com/album/36BFn54Z3fFYVBXMCG99qZ) | 4:07 | 2021-05-07 | 2022-10-13 |
-| [Annihilation](https://open.spotify.com/track/3vLhUrc9h8fFIH7Lq9QDM5) | [i\_o](https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Annihilation](https://open.spotify.com/album/0Ft2j2EP2dEYwxQgDQUleW) | 4:07 | 2022-07-01 |  |
+| [Annihilation](https://open.spotify.com/track/3vLhUrc9h8fFIH7Lq9QDM5) | [i\_o](https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Annihilation](https://open.spotify.com/album/0Ft2j2EP2dEYwxQgDQUleW) | 4:07 | 2022-07-01 | 2023-07-19 |
 | [Antigone \- Yotto Remix](https://open.spotify.com/track/3bRqVtAGCNBRSGupmykCjY) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Antigone \(Yotto Remix\)](https://open.spotify.com/album/3v6ghYAfBsyboRfxXXOFp8) | 4:02 | 2021-05-07 | 2022-07-29 |
 | [Apricus](https://open.spotify.com/track/6AWDF8tp10KFkTZE33VVC4) | [STANDERWICK](https://open.spotify.com/artist/6mLXfZ1OfXde8Iy9BfKoHE) | [Apricus](https://open.spotify.com/album/4DUrEKUrYClLVtMfDqiOiC) | 4:39 | 2021-05-07 | 2022-07-29 |
 | [Artefact](https://open.spotify.com/track/4s5YiAfgPWyq37WukmceRI) | [Paul van Dyk](https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR), [Fuenka](https://open.spotify.com/artist/20LsNbfhofBFByG5kuRKvK) | [Artefact](https://open.spotify.com/album/3JygQ7vwR0sa8OEXEN1Rj3) | 3:40 | 2022-08-12 | 2023-05-30 |
@@ -322,6 +322,7 @@
 | [Synthetism](https://open.spotify.com/track/0UrJe2qd5b0mgcnwcLYIxm) | [Andrea Martini](https://open.spotify.com/artist/1ys1VqaDEFMz5iN74MuQMr), [Hrederik](https://open.spotify.com/artist/0MMK5cprMIDRCFgrREotPG) | [Unified Vol.15](https://open.spotify.com/album/2BZH50oUwtFvkkCBZEJAvC) | 3:24 | 2021-12-10 | 2022-07-24 |
 | [Take Me Higher](https://open.spotify.com/track/5RrhrF2WdWsFexwj7LXHvr) | [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y), [NBLM](https://open.spotify.com/artist/3y03cacOqPS9hc4UN2U9rc) | [Take Me Higher](https://open.spotify.com/album/7L0E4Y6UGHBACLLxiBikR8) | 3:19 | 2021-05-07 | 2023-02-04 |
 | [Take Me There](https://open.spotify.com/track/2EeNjDGRMgtFfDbwqVVKbs) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw) | [Take Me There](https://open.spotify.com/album/67c9idGRZEMdOXjWhbhLcj) | 3:08 | 2022-03-04 | 2022-07-29 |
+| [Take Me Up](https://open.spotify.com/track/1lY2Uhz2R15ks7kqDc0tGD) | [PALASTIC](https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y) | [Take Me Up](https://open.spotify.com/album/7os08OWk7r3JfGw78VXMNh) | 2:27 | 2023-07-14 |  |
 | [Tantrum](https://open.spotify.com/track/4CMsK9RIEcJEUwUkSvmBxQ) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Tantrum](https://open.spotify.com/album/2xnR6OX1P3XleZQUbT7MCF) | 3:49 | 2021-10-01 | 2023-05-20 |
 | [Tell Me Why \- MEDUZA Remix](https://open.spotify.com/track/7jrMFjEq0t09f7m3HnnWXl) | [Supermode](https://open.spotify.com/artist/7urnl0uH1w3NCoErxw7AUK), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Tell Me Why \(MEDUZA Remix\)](https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM) | 2:51 | 2022-09-30 |  |
 | [Temper Temper \(feat\. ONR\)](https://open.spotify.com/track/4muUXLYIrhCXtFsPogjIcn) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz), [ONR](https://open.spotify.com/artist/1BGDL6ycDCoa3STlZtCnHi) | [Temper Temper \(feat\. ONR\)](https://open.spotify.com/album/78cHKcaJ2agjy5arczangj) | 3:33 | 2021-05-07 | 2023-05-06 |

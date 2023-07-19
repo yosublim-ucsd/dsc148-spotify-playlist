@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 
 > The hottest Japanese anime song playlist curated by<a href="https://www.lisani.jp/"> LisAni</a>！ アニメ音楽メディア「<a href="https://www.lisani.jp/">リスアニ！</a>」が贈る最強のアニソンプレイリストです。新旧の名曲を随時更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,478 likes - 45 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,486 likes - 45 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 | 38 | [キラキラしちゃって My True Love!](https://open.spotify.com/track/3R7GmHmuDA1hPfmZ5nPrAy) | [Kanako Miyamoto](https://open.spotify.com/artist/0bJzcs8fztcxmrDfVAK1Sc) | [Yes!プリキュア5 オープニング&エンディングテーマ プリキュア5、スマイル go go! / キラキラしちゃって My True Love!](https://open.spotify.com/album/0Rfwpd6mpxLyrtY6ZPGda5) | 3:08 |
 | 39 | [ワンダフル↑パワフル↑ミュージック!!](https://open.spotify.com/track/6wO32VL9mcai7nvBDuQSJh) | [池田彩](https://open.spotify.com/artist/7LeJxu5o5HLfq4nBdBgFfr) | [スイートプリキュア♪ ボーカルアルバム1\~とどけ!愛と希望のシンフォニー\~](https://open.spotify.com/album/52Tauxep9OnB9PpGPwWzsO) | 3:41 |
 | 40 | [ひろがるスカイ!プリキュア \~Hero Girls\~\(TVサイズ\)](https://open.spotify.com/track/7KdlVT2DjdyQ96ohgXrBCJ) | [石井あみ](https://open.spotify.com/artist/6RNBmAAY3e0sC1Ne0iXnsV) | [「ひろがるスカイ!プリキュア」主題歌シングル\(TVサイズ\)](https://open.spotify.com/album/2WiLsMSAHVd3ckEHBqUCKO) | 1:34 |
-| 41 | [Decisive Battle](https://open.spotify.com/track/0b4VXGGERGs9PyvIEJRDnI) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [Neon Genesis Evangelion \(Original Series Soundtrack\)](https://open.spotify.com/album/4vwgTxjKwiSWfEoGOqhiWa) | 2:25 |
+| 41 | [DECISIVE BATTLE](https://open.spotify.com/track/0b4VXGGERGs9PyvIEJRDnI) | [Shiro SAGISU](https://open.spotify.com/artist/5k3NfhEeZHpouIGDpjKOPo) | [NEON GENESIS EVANGELION \(Original Series Soundtrack\)](https://open.spotify.com/album/4vwgTxjKwiSWfEoGOqhiWa) | 2:25 |
 | 42 | [Timeless Shooting Star](https://open.spotify.com/track/33svvagvZcmKa0GRyo3a4O) | [ストレイライト](https://open.spotify.com/artist/493MBQPclwtXx4zWgCalzd) | [THE IDOLM@STER SHINY COLORS L@YERED WING 06](https://open.spotify.com/album/0zgAxjnwrYfek0bxi2aISp) | 3:32 |
 | 43 | [あのバンド](https://open.spotify.com/track/4Ji17AjAdjf83FsIDcXe0J) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 3:33 |
 | 44 | [なにが悪い](https://open.spotify.com/track/2Ifn0MXm7x9ddBQPUabV9a) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 3:47 |
 | 45 | [転がる岩、君に朝が降る](https://open.spotify.com/track/6wH2RsJUO8oypx8c5PG0bP) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 4:31 |
 
-Snapshot ID: `MCwwNDA5ZmE1YjcxODRiNDE3MDNhNDI5YTI5N2U4YzQyN2I0N2U3Zjhm`
+Snapshot ID: `MCxkZGU1OWI2MmMxM2U4N2RiZjYwMzAyZjEwMDgzZDQ4MjRlMzAxMjc3`

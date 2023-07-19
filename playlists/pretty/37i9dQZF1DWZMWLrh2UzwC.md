@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Jung Kook
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,590 likes - 82 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,600 likes - 82 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 50 | [FESTIVAL](https://open.spotify.com/track/5c1g69A9A2P9N6yCV4xvUo) | [Sandara Park](https://open.spotify.com/artist/3LKVw6XQYcot0OZMFmf4IP) | [SANDARA PARK](https://open.spotify.com/album/4OlfPaq5wGuzXHXioUAM4O) | 3:10 |
 | 51 | [S91](https://open.spotify.com/track/7EpOXgSRgnglRWr86pZfGU) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [S91](https://open.spotify.com/album/0bgvd5Xd52TX61R8uhaISK) | 2:53 |
 | 52 | [One More Night](https://open.spotify.com/track/6J7xh4aPkn9rQ0gIcCsiL5) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [Revelación](https://open.spotify.com/album/5YwCKAv35Zi9YY99RY7ZGb) | 4:11 |
-| 53 | [Good Life \- feat\. Mimiko](https://open.spotify.com/track/15vktwvhLlloOkXlyvxZn1) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [mimiko](https://open.spotify.com/artist/455lBfYUwxeXcAnya8Aa9M) | [Traveling Without Moving](https://open.spotify.com/album/6VHlFWg2dznxkqwj6TadSZ) | 3:47 |
+| 53 | [Good Life \- feat\. mimiko](https://open.spotify.com/track/15vktwvhLlloOkXlyvxZn1) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [mimiko](https://open.spotify.com/artist/455lBfYUwxeXcAnya8Aa9M) | [Traveling Without Moving](https://open.spotify.com/album/6VHlFWg2dznxkqwj6TadSZ) | 3:47 |
 | 54 | [How Could We Know \(feat\. Simon Climie & Daniel Santiago\)](https://open.spotify.com/track/3pG0Hh8ANhVjFmFOe0yd5x) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [Judith Hill](https://open.spotify.com/artist/04ka9403wgTxmWFMY1PD5t), [Simon Climie](https://open.spotify.com/artist/3HISkAiDX0gaSSUDZej38A), [Daniel Santiago](https://open.spotify.com/artist/7xk2FyMhjJrRvT8MNuBrUi) | [Moon River / How Could We Know](https://open.spotify.com/album/1qEvo5oupbjyJt2tdgnAZT) | 4:19 |
 | 55 | [Rigor Mortis Radio](https://open.spotify.com/track/006xBsccJhHkcrdUILF1cP) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Rigor Mortis Radio](https://open.spotify.com/album/5c8XabOTIVdkm39NkdAUJv) | 2:28 |
 | 56 | [Different \(Demo\)](https://open.spotify.com/track/1xY16wZWhPXeH2xJi29enJ) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Aftershock \(Deluxe\)](https://open.spotify.com/album/3z2cnNE3r5qNjTQCeovM4W) | 3:31 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 81 | [Wasted Love](https://open.spotify.com/track/5KsDSE4NZWcQ8mlZDBddB3) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Crazy Donkey](https://open.spotify.com/artist/4FFIm6lcL4VDCTWteKwspi), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Wasted Love](https://open.spotify.com/album/367AlFAsBmmsmtSFrKzc80) | 2:10 |
 | 82 | [Fliccin Up](https://open.spotify.com/track/4SGqmuv6pxaei3Silq8qaK) | [MBNel](https://open.spotify.com/artist/2aqdy2BLMhGFHhRb1ZbDCF) | [Fliccin Up](https://open.spotify.com/album/6C2rgMF06Uwkm9yokUo7X0) | 2:07 |
 
-Snapshot ID: `MCxmNzM0YjExYTk3MmEyZTM0MTgxZGUxMTJkNzA1NDY3YTJkZDc2Yzhl`
+Snapshot ID: `MCxhNzZhZjQ2NmQ2ZWI2ODBmYzMzMTg5OGUzODVkYmI1M2UzMGJhOWNk`

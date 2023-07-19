@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1380114,
+  "num_followers": 1380532,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMmNiYWQzOTJiNzBmYThiNTYyZmEwODcyN2E4OGYwNjIzMjk2ZGY2",
+  "snapshot_id": "MCxlZjgzMjhmNDc3ODI5Nzk3OWE2OTU4OTlhODkyNTFkMGY4MTQxZTM2",
   "tracks": [
     {
       "added_at": "2023-03-22 14:00:00",
@@ -735,26 +735,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Western Dream",
-        "url": "https://open.spotify.com/album/4HLy8ci70oGBja4DAgaCzq"
-      },
-      "artists": [
-        {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
-        },
-        {
-          "name": "Steve Edwards",
-          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
-        }
-      ],
-      "duration_ms": 401360,
-      "name": "World, Hold On",
-      "url": "https://open.spotify.com/track/6yeO8fapOJGqL8Hr0Da2l3"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Pop Life",
         "url": "https://open.spotify.com/album/6zJcDGIgURV28s5IdA9pSG"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 208026,
       "name": "Baby When the Light (feat. Cozi)",
       "url": "https://open.spotify.com/track/5bJ3imTI0ErWNsFWEgi5F8"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Western Dream",
+        "url": "https://open.spotify.com/album/4HLy8ci70oGBja4DAgaCzq"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "Steve Edwards",
+          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
+        }
+      ],
+      "duration_ms": 401360,
+      "name": "World, Hold On",
+      "url": "https://open.spotify.com/track/6yeO8fapOJGqL8Hr0Da2l3"
     },
     {
       "added_at": "2023-03-22 14:00:00",
@@ -1439,26 +1439,6 @@
     {
       "added_at": "2023-03-22 14:00:00",
       "album": {
-        "name": "Somewhere (feat. Sarah Lynn)",
-        "url": "https://open.spotify.com/album/4VaFDtAeI7PxJoyPreGWjH"
-      },
-      "artists": [
-        {
-          "name": "DJ Mog",
-          "url": "https://open.spotify.com/artist/1hi6iazfUhvaqpt9f0kCcF"
-        },
-        {
-          "name": "Sarah Lynn",
-          "url": "https://open.spotify.com/artist/2uJPnLW3muLMdYB3H61h5K"
-        }
-      ],
-      "duration_ms": 235866,
-      "name": "Somewhere (feat. Sarah Lynn) - Radio Edit",
-      "url": "https://open.spotify.com/track/35cYPqBXqob7yitjk4Cx3M"
-    },
-    {
-      "added_at": "2023-03-22 14:00:00",
-      "album": {
         "name": "Vocal Trance Hits - The Anthems",
         "url": "https://open.spotify.com/album/3HfYOQb0MhTtvzUKEKk61m"
       },
@@ -1475,6 +1455,26 @@
       "duration_ms": 151621,
       "name": "Find Yourself",
       "url": "https://open.spotify.com/track/3pVwawYlhHg9cLKWpeaN3l"
+    },
+    {
+      "added_at": "2023-03-22 14:00:00",
+      "album": {
+        "name": "Somewhere (feat. Sarah Lynn)",
+        "url": "https://open.spotify.com/album/4VaFDtAeI7PxJoyPreGWjH"
+      },
+      "artists": [
+        {
+          "name": "DJ Mog",
+          "url": "https://open.spotify.com/artist/1hi6iazfUhvaqpt9f0kCcF"
+        },
+        {
+          "name": "Sarah Lynn",
+          "url": "https://open.spotify.com/artist/2uJPnLW3muLMdYB3H61h5K"
+        }
+      ],
+      "duration_ms": 235866,
+      "name": "Somewhere (feat. Sarah Lynn) - Radio Edit",
+      "url": "https://open.spotify.com/track/35cYPqBXqob7yitjk4Cx3M"
     },
     {
       "added_at": "2023-03-22 14:00:00",

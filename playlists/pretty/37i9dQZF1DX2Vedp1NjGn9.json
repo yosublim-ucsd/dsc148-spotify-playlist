@@ -1,12 +1,12 @@
 {
   "description": "2011 highlights from the home of indie music.",
-  "num_followers": 96924,
+  "num_followers": 97026,
   "original_name": "Best of Indie 2011",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1N2ExMWU2ODA1ZWYzMDJhMWI2MjhjNDZkOWFmODc2NDNhYjVhOGUy",
+  "snapshot_id": "MCxmYzkxMTJjZTQwMGZlM2FiNWY4OTdlZGYyMjVmN2IwNzc1M2QyMzRj",
   "tracks": [
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1065,6 +1065,30 @@
       "url": "https://open.spotify.com/track/0V8jGgK39sLsj2yAHHPigU"
     },
     {
+      "added_at": "2022-01-03 14:20:47",
+      "album": {
+        "name": "Rome",
+        "url": "https://open.spotify.com/album/2nBo5nFoszkjuY0bxv1y0A"
+      },
+      "artists": [
+        {
+          "name": "Danger Mouse",
+          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
+        },
+        {
+          "name": "Daniele Luppi",
+          "url": "https://open.spotify.com/artist/1TY8JzETLheB4vm5QblKsF"
+        },
+        {
+          "name": "Jack White",
+          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
+        }
+      ],
+      "duration_ms": 140960,
+      "name": "Two Against One (feat. Jack White)",
+      "url": "https://open.spotify.com/track/0CIvOZBEQmVtePr3dHZMPO"
+    },
+    {
       "added_at": "2021-09-02 08:15:11",
       "album": {
         "name": "Era Extra\u00f1a",
@@ -1095,30 +1119,6 @@
       "duration_ms": 303386,
       "name": "Helplessness Blues",
       "url": "https://open.spotify.com/track/02VdHwnGhy5fTW2CTZkYsb"
-    },
-    {
-      "added_at": "2022-01-03 14:20:47",
-      "album": {
-        "name": "Rome",
-        "url": "https://open.spotify.com/album/2nBo5nFoszkjuY0bxv1y0A"
-      },
-      "artists": [
-        {
-          "name": "Danger Mouse",
-          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
-        },
-        {
-          "name": "Daniele Luppi",
-          "url": "https://open.spotify.com/artist/1TY8JzETLheB4vm5QblKsF"
-        },
-        {
-          "name": "Jack White",
-          "url": "https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf"
-        }
-      ],
-      "duration_ms": 140960,
-      "name": "Two Against One (feat. Jack White)",
-      "url": "https://open.spotify.com/track/0CIvOZBEQmVtePr3dHZMPO"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1201,20 +1201,28 @@
       "url": "https://open.spotify.com/track/5qaLfqAUiqvsoL0l4T05Yx"
     },
     {
-      "added_at": "2021-09-02 08:15:11",
+      "added_at": "2022-01-03 14:20:47",
       "album": {
-        "name": "Helplessness Blues",
-        "url": "https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb"
+        "name": "Rome",
+        "url": "https://open.spotify.com/album/2nBo5nFoszkjuY0bxv1y0A"
       },
       "artists": [
         {
-          "name": "Fleet Foxes",
-          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
+          "name": "Danger Mouse",
+          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
+        },
+        {
+          "name": "Daniele Luppi",
+          "url": "https://open.spotify.com/artist/1TY8JzETLheB4vm5QblKsF"
+        },
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
         }
       ],
-      "duration_ms": 216604,
-      "name": "Montezuma",
-      "url": "https://open.spotify.com/track/5Civg4JEWHLe2gqMG5vW6E"
+      "duration_ms": 211506,
+      "name": "Black (feat. Norah Jones)",
+      "url": "https://open.spotify.com/track/5H43dazn2x2O9dkDVvaiDS"
     },
     {
       "added_at": "2021-09-02 08:15:11",
@@ -1265,28 +1273,20 @@
       "url": "https://open.spotify.com/track/73C8W2PBSEbfoNIi1J93MN"
     },
     {
-      "added_at": "2022-01-03 14:20:47",
+      "added_at": "2021-09-02 08:15:11",
       "album": {
-        "name": "Rome",
-        "url": "https://open.spotify.com/album/2nBo5nFoszkjuY0bxv1y0A"
+        "name": "Helplessness Blues",
+        "url": "https://open.spotify.com/album/7D0rCfJjFj9x0bdgRKtvzb"
       },
       "artists": [
         {
-          "name": "Danger Mouse",
-          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
-        },
-        {
-          "name": "Daniele Luppi",
-          "url": "https://open.spotify.com/artist/1TY8JzETLheB4vm5QblKsF"
-        },
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+          "name": "Fleet Foxes",
+          "url": "https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb"
         }
       ],
-      "duration_ms": 211506,
-      "name": "Black (feat. Norah Jones)",
-      "url": "https://open.spotify.com/track/5H43dazn2x2O9dkDVvaiDS"
+      "duration_ms": 216604,
+      "name": "Montezuma",
+      "url": "https://open.spotify.com/track/5Civg4JEWHLe2gqMG5vW6E"
     },
     {
       "added_at": "2021-09-02 08:15:11",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Frank Ray
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,234 likes - 217 songs - 11 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,271 likes - 217 songs - 11 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 57 | [What I Live For](https://open.spotify.com/track/1HQjfkdG1vpYj5xvfgisrJ) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT) | [What I Live For](https://open.spotify.com/album/34k79papXhI4IyY8Zyiwba) | 3:10 |
 | 58 | [First To Hit The Road](https://open.spotify.com/track/28ts2TK2GX1kbdNlbPtUrM) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [First To Hit The Road](https://open.spotify.com/album/6ODxCsyXlnbwqB5CEXuiNr) | 3:18 |
 | 59 | [Nowhere](https://open.spotify.com/track/4Y6zHUQrt3Eqbl7nuH5T5F) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm) | [Nowhere](https://open.spotify.com/album/31BI5ZtanpM4GAwV3nYjvc) | 3:10 |
-| 60 | [Magnolia](https://open.spotify.com/track/3x5jkS931VvNRg4tLIqzvL) | [Austin McNeill](https://open.spotify.com/artist/7mYDpUarg1iQgonYRRwpMR) | [Carolina](https://open.spotify.com/album/5PiWlfUUUYB8gMqAEZbrRC) | 2:56 |
+| 60 | [Magnolia \(Acoustic\)](https://open.spotify.com/track/3x5jkS931VvNRg4tLIqzvL) | [Austin McNeill](https://open.spotify.com/artist/7mYDpUarg1iQgonYRRwpMR) | [Carolina](https://open.spotify.com/album/5PiWlfUUUYB8gMqAEZbrRC) | 2:56 |
 | 61 | [Raise My Voice](https://open.spotify.com/track/6ZzMl0gTRQZwbbHqi6IXYh) | [Macy Krew](https://open.spotify.com/artist/2kVn00QTLUfduENEmJAWTG) | [Raise My Voice](https://open.spotify.com/album/6AJBAFd6cYwUgSygsBYTdJ) | 3:04 |
 | 62 | [Last Time](https://open.spotify.com/track/2J1k24tO3WGF1p7zAt7eVx) | [Drake McCain](https://open.spotify.com/artist/55zx7AihSM91XuqPqofoct) | [Last Time](https://open.spotify.com/album/5MqVnqJrqhhSHtRumW4cNv) | 2:40 |
 | 63 | [To Be Continued...](https://open.spotify.com/track/5uDdDHlKGLpnDwi6eqrzjr) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG), [Shaylen](https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ) | [To Be Continued...](https://open.spotify.com/album/5SUf4g6rZ80k4KDtMqn69W) | 3:14 |
@@ -226,4 +226,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 216 | [Adam's Song](https://open.spotify.com/track/5J5YyGh055rlYQMq298bz9) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [Teenage Angst](https://open.spotify.com/album/1VoaFBLj3xWmGXzARjTpQT) | 2:26 |
 | 217 | [Yep](https://open.spotify.com/track/5RDKGEIYh4Q4G7Qs0lnaoZ) | [Drew Green](https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP) | [Yep](https://open.spotify.com/album/0DtVgJeRg9ZbbFSjWKfis0) | 3:03 |
 
-Snapshot ID: `MCxkODE2OTY4NTJlMmFhZTQ5OGQ1ZTc5MDM1NGE3MzM4YjEzOTc5NjFl`
+Snapshot ID: `MCw1OGFkYjEwOGYwNjRmMTUxZDMwZjU2MTcxZWVhNjcwZjkzMjg0NzVj`

@@ -256,7 +256,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 219428,
       "name": "astronimals",
       "url": "https://open.spotify.com/track/63SurArpGSwUlVB8KwYFVy"
@@ -984,7 +984,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 107407,
       "name": "DO NOT RESUSCITATE",
       "url": "https://open.spotify.com/track/6J0pQxIy3vFORwI8MTqByk"
@@ -1298,6 +1298,24 @@
       "duration_ms": 88750,
       "name": "Funk of the Damned",
       "url": "https://open.spotify.com/track/3kVH8rQUOgL9IINKm3H4hw"
+    },
+    {
+      "album": {
+        "name": "Fuzz n' Fury",
+        "url": "https://open.spotify.com/album/03nDmrKEZOZ9QH13TjTSro"
+      },
+      "artists": [
+        {
+          "name": "Plushtoi",
+          "url": "https://open.spotify.com/artist/5DQFsltBXoxMM7KlXPBKaj"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Fuzz n' Fury",
+      "url": "https://open.spotify.com/track/5nkiEnTMx6bLKWRJ20S5Ej"
     },
     {
       "album": {
@@ -1768,7 +1786,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 173114,
       "name": "IN THE END",
       "url": "https://open.spotify.com/track/5cRYL7w9PxnHYeEPkW1ECG"
@@ -3128,7 +3146,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 206400,
       "name": "Revelations",
       "url": "https://open.spotify.com/track/30rWGQPZb3yNrzLL5bLBrd"
@@ -3544,7 +3562,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 250344,
       "name": "Skyline",
       "url": "https://open.spotify.com/track/3GTNPbq9ycUnBfIZBq7ko1"
@@ -4103,6 +4121,24 @@
     },
     {
       "album": {
+        "name": "Till I Die",
+        "url": "https://open.spotify.com/album/6rnPKMZOljYUCtxOBNBLyV"
+      },
+      "artists": [
+        {
+          "name": "Robot Sunrise",
+          "url": "https://open.spotify.com/artist/2a5BAb3QDA2XYo5CBHj45r"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295326,
+      "name": "Till I Die",
+      "url": "https://open.spotify.com/track/2t9EIMjoL3kXKeoYEIj79x"
+    },
+    {
+      "album": {
         "name": "Shimmer / Total Annihilation",
         "url": "https://open.spotify.com/album/7hRfChEEypuOdLCKn9pUSy"
       },
@@ -4538,7 +4574,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 111000,
       "name": "YODAWGIHEARDYOULIKETRENCHCOATS - $KILLHOLLOW REMIX",
       "url": "https://open.spotify.com/track/4DpnnjxMqwh6BFx5ZUP5fh"

@@ -355,6 +355,24 @@
     },
     {
       "album": {
+        "name": "70 \u0110\u01b0\u1eddng 30 \u0110\u00e1",
+        "url": "https://open.spotify.com/album/1CRnbzlRJasuRigSFjXj9h"
+      },
+      "artists": [
+        {
+          "name": "H\u00edu",
+          "url": "https://open.spotify.com/artist/2J5B9kGwZXEaP7Ys4ai9Qz"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166736,
+      "name": "70 \u0110\u01b0\u1eddng 30 \u0110\u00e1",
+      "url": "https://open.spotify.com/track/1O76Hce05DedwWQmlD3xbg"
+    },
+    {
+      "album": {
         "name": "A GIFT FROM \"DAD\"",
         "url": "https://open.spotify.com/album/1acow2ptcXIcqUXcyr4Hea"
       },
@@ -20000,6 +20018,24 @@
       "duration_ms": 187826,
       "name": "V\u00ec Ta Gi\u1ed1ng Nhau",
       "url": "https://open.spotify.com/track/0U5bXDm522NFxgbalL1qXn"
+    },
+    {
+      "album": {
+        "name": "V\u00ec T\u00f4i Tin H\u1ebft",
+        "url": "https://open.spotify.com/album/4kjfT54kb8doV7mhJmqOPD"
+      },
+      "artists": [
+        {
+          "name": "S\u00e1o",
+          "url": "https://open.spotify.com/artist/0CkuQCslREF7yuvAqJXVuz"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "V\u00ec T\u00f4i Tin H\u1ebft",
+      "url": "https://open.spotify.com/track/0ZSUs2r3TpD4V5lsVdf6rI"
     },
     {
       "album": {

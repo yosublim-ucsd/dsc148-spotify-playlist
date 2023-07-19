@@ -933,6 +933,24 @@
     },
     {
       "album": {
+        "name": "Dame Dearest (Pilot)",
+        "url": "https://open.spotify.com/album/4XbrkI4jqtyaUr7cBnwz4L"
+      },
+      "artists": [
+        {
+          "name": "Emma Sehested H\u00f8eg",
+          "url": "https://open.spotify.com/artist/0MyW1l0mSMSCicpUcxdr6C"
+        }
+      ],
+      "date_added": "2022-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183183,
+      "name": "Mirror Dance",
+      "url": "https://open.spotify.com/track/6SXfklnxW14O5gKqkBNaMm"
+    },
+    {
+      "album": {
         "name": "Mirror Dance",
         "url": "https://open.spotify.com/album/6nALYgw7hvos7748RSFf7V"
       },
@@ -944,7 +962,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 183183,
       "name": "Mirror Dance",
       "url": "https://open.spotify.com/track/6wkEVMI1r7p1GbWWVts8kv"

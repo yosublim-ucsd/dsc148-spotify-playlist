@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > New songs from some of the latest and greatest Gospel music artists\.  Cover:  <a href="https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO?si=d079a51326cd4422">Blanca</a> and <a href="https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH?si=rYUS2jTBQ1yWfrJupQeHlg">Jekalyn Carr</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,479 likes - 100 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,633 likes - 100 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 99 | [So Good to Me](https://open.spotify.com/track/7lsHTcbrV6XkSIbTmBCoeN) | [Brent Jones](https://open.spotify.com/artist/2b9paaAwb2Xd3iR1LSnCDN) | [Nothing Else Matters \(Instead of Complaining, Praise Him\)](https://open.spotify.com/album/2gpmw0WN8nQTmDxKfczPEE) | 4:00 |
 | 100 | [Waiting \(Reimagined\)](https://open.spotify.com/track/1eX6ayUcyZbvuQLyqZG6zu) | [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl) | [Waiting \(Reimagined\)](https://open.spotify.com/album/1MD6xmLqXiKeuruRTskDur) | 3:45 |
 
-Snapshot ID: `MCxkN2E0M2NhMmJmOTI2OTZiY2RjZjJmM2YzMWU2NmQ3YWU4ZGViY2E2`
+Snapshot ID: `MCxkYzlmNjZhNGUwZjJhNjhlNDRmNDNkNWNmZTc1ZDAzNjc0NDRmYjY0`

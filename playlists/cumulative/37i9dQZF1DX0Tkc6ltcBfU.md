@@ -4,7 +4,7 @@
 
 > The hottest out the south\. Cover: Young Nudy
 
-765 songs - 1 day 12 hr 46 min
+766 songs - 1 day 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [Deadicated](https://open.spotify.com/track/7BaipfgQs3gWGjttLAt8wN) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Deadicated](https://open.spotify.com/album/6NaFv2sq5u2mDT2R8rA7E2) | 3:21 | 2023-02-10 | 2023-02-25 |
 | [Dear God \(feat\. Kevin Gates\)](https://open.spotify.com/track/1oPdIqXhjswpTnA5PPQs0K) | [FL Dusa](https://open.spotify.com/artist/1l39BupEDqsioWGVDXluVG), [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Dear God \(feat\. Kevin Gates\)](https://open.spotify.com/album/3AocIGXpIRlNgd2BSoETUH) | 3:01 | 2021-12-10 | 2022-02-19 |
 | [Demon Time](https://open.spotify.com/track/2zWkxKrUj8GfsUMi0MczgE) | [FN DaDealer](https://open.spotify.com/artist/1bqJuNMz1iBqWo9B0BdIiM), [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO) | [Demon Time](https://open.spotify.com/album/5kKKmFlOzZCYVEXyVQDV9e) | 3:08 | 2022-08-26 | 2022-10-22 |
-| [Demons](https://open.spotify.com/track/0bgHaekoNA5WT3oSHxRlw0) | [OG Bobby Billions](https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Demons](https://open.spotify.com/album/23cyGrIH9iVKlngeTnndpr) | 3:06 | 2023-06-23 |  |
+| [Demons](https://open.spotify.com/track/0bgHaekoNA5WT3oSHxRlw0) | [OG Bobby Billions](https://open.spotify.com/artist/6bS1ddLkqrK5Jl6GyKK4j2), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [Demons](https://open.spotify.com/album/23cyGrIH9iVKlngeTnndpr) | 3:06 | 2023-06-23 | 2023-07-19 |
 | [Denial](https://open.spotify.com/track/4MQnXVR8DJvsySuXYuzUtf) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Denial](https://open.spotify.com/album/7pU5A0t0YLo1BMH5OE67Uc) | 3:00 | 2022-06-10 | 2022-07-02 |
 | [Dennis](https://open.spotify.com/track/2gGMDFXw9d4IRM06cdZ2et) | [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Dennis](https://open.spotify.com/album/6ypJpUZrayAtN25CvGngsP) | 2:16 | 2023-02-03 | 2023-02-18 |
 | [Detox](https://open.spotify.com/track/7fSM2taFBEB1WNZl8AOIoo) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Detox](https://open.spotify.com/album/4y77zrDMRkZznufMBScSal) | 2:41 | 2022-09-02 | 2022-10-15 |
@@ -339,6 +339,7 @@
 | [JIGGA DAME](https://open.spotify.com/track/5XZu7BrTTyjzqOzr38sGg3) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv) | [JIGGA DAME](https://open.spotify.com/album/4za5Cq5ARxUp6sCtegfJFm) | 1:44 | 2022-05-20 | 2022-06-11 |
 | [Jigsaw](https://open.spotify.com/track/3Wqs6XFKsKcTjaWhmB8VCP) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [PRE5L](https://open.spotify.com/album/50DbtjQmnPnB92Mf7yxQt4) | 2:32 | 2022-11-18 | 2023-02-25 |
 | [JOC IN '06](https://open.spotify.com/track/4ZyivnzrvDWRjihgqxvXK8) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [JOC IN '06](https://open.spotify.com/album/1MKP8nlWJpWP5iaeorPkfr) | 2:50 | 2023-01-27 | 2023-04-09 |
+| [Johnny Dang \(with Paul Wall & DRODi\)](https://open.spotify.com/track/1kwPxt35W7cG3rryxR48PO) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [DRODi](https://open.spotify.com/artist/7xsuKSqVVN2JzUIpZV0GeW) | [Johnny Dang \(with Paul Wall & DRODi\)](https://open.spotify.com/album/005G0y1M64Y9LmPRuHcD0U) | 3:12 | 2023-07-18 |  |
 | [Jump Out \(feat\. Hotboy Wes\)](https://open.spotify.com/track/3W4YwvwzqDqcnUrfF2sDfO) | [Trapboy Freddy](https://open.spotify.com/artist/2ZF0d4lkHLE6MIbVmpN6nN), [Hotboy Wes](https://open.spotify.com/artist/2Lgyk37aJufoDDSoU4S5nO) | [Jump Out \(feat\. Hotboy Wes\)](https://open.spotify.com/album/1YtxPcwSI5vt4uBFfRbsiu) | 2:58 | 2021-12-10 | 2022-02-05 |
 | [Jumpin \(feat\. Polo G\)](https://open.spotify.com/track/1z7LV5wkExwW8YJk0IrPUA) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Jumpin \(feat\. Polo G\)](https://open.spotify.com/album/24t0q0pqu7y9udfr89qf42) | 3:01 | 2021-11-05 | 2022-01-08 |
 | [JUST SAY THAT \(feat\. GLORILLA\)](https://open.spotify.com/track/1GumJnMqknYzRT9pyGOU7Z) | [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [CRUNKSTAR](https://open.spotify.com/album/6DRGmsZ3SeLptqU9aFEUQV) | 3:35 | 2022-06-17 | 2022-08-06 |

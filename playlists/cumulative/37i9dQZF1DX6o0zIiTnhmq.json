@@ -512,10 +512,36 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 350146,
       "name": "Krishna",
       "url": "https://open.spotify.com/track/6g57S5SIlzmWBru2l6uFjM"
+    },
+    {
+      "album": {
+        "name": "Krishna Chants",
+        "url": "https://open.spotify.com/album/4Xxi2o5Z8g2On0XrNQcSyp"
+      },
+      "artists": [
+        {
+          "name": "Utkarsh Sharma",
+          "url": "https://open.spotify.com/artist/3rVL53vjNj2z3QVZLg8mOE"
+        },
+        {
+          "name": "Rajshree Agarwal",
+          "url": "https://open.spotify.com/artist/1xplyUBGhB2VU3bkIWI05C"
+        },
+        {
+          "name": "Vibhuti Vaity",
+          "url": "https://open.spotify.com/artist/2ou5DGQBNMTiks8rkMtowx"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237999,
+      "name": "Krishna Chants",
+      "url": "https://open.spotify.com/track/2eAQbiQFn6OZ5TxNOC791s"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : Jailer",
-  "num_followers": 547188,
+  "num_followers": 547865,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTgxZjE1MGRhMzYzZWU0NWU5YTUzNzVmNzNmYThjZTBjZDVmMjE4",
+  "snapshot_id": "MCxjYmQzNmQ1ZTA0MGZjOGI2NzZjMjI1ZDMyMTU1NDM3YjM3NDMxYjlm",
   "tracks": [
     {
       "added_at": "2023-07-17 12:34:23",
@@ -597,22 +597,6 @@
       "url": "https://open.spotify.com/track/2866dwDrdw61Z92FNpOvoW"
     },
     {
-      "added_at": "2023-07-04 11:46:53",
-      "album": {
-        "name": "Bumper (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4ptCtZkGcwG0URQidQrRPv"
-      },
-      "artists": [
-        {
-          "name": "Sithara Krishnakumar",
-          "url": "https://open.spotify.com/artist/6fvMFyB3RMPEyKyLJAS79c"
-        }
-      ],
-      "duration_ms": 137181,
-      "name": "Lottery Kanni Lottery Kanni.",
-      "url": "https://open.spotify.com/track/21glqvrpCdBaGdRpxshNK1"
-    },
-    {
       "added_at": "2023-03-28 08:45:53",
       "album": {
         "name": "Osarattum Pathu Thala (From \"Pathu Thala\")",
@@ -765,26 +749,6 @@
       "url": "https://open.spotify.com/track/5Z0K5b68hblpK0P9MdG14V"
     },
     {
-      "added_at": "2023-07-03 12:42:09",
-      "album": {
-        "name": "Sweet Kaaram Coffee (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/3N29wpPW6HTgYr8t6N7QV6"
-      },
-      "artists": [
-        {
-          "name": "Govind Vasantha",
-          "url": "https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB"
-        },
-        {
-          "name": "Kapil Kapilan",
-          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
-        }
-      ],
-      "duration_ms": 119999,
-      "name": "Minmini",
-      "url": "https://open.spotify.com/track/4H65icyKRxSfuJZ0PMz5ig"
-    },
-    {
       "added_at": "2023-03-19 07:47:00",
       "album": {
         "name": "Pathu Thala (Original Motion Picture Soundtrack)",
@@ -911,34 +875,6 @@
       "duration_ms": 198348,
       "name": "Kaali vs Gramam - From \"Harkara\"",
       "url": "https://open.spotify.com/track/06PwjYHYIPVJarVSGQwW1w"
-    },
-    {
-      "added_at": "2023-07-05 04:47:50",
-      "album": {
-        "name": "Jhoom Jhoom (From \"Spy\")",
-        "url": "https://open.spotify.com/album/6580D3GpSQ4VwXflEH5NJ4"
-      },
-      "artists": [
-        {
-          "name": "Anurag Kulkarni",
-          "url": "https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om"
-        },
-        {
-          "name": "Ramya Behara",
-          "url": "https://open.spotify.com/artist/4svvMm4TQnkphZJfhLCzzv"
-        },
-        {
-          "name": "Vishal Chandrashekar",
-          "url": "https://open.spotify.com/artist/48roov0SxmfsyG07Z4lWPB"
-        },
-        {
-          "name": "Kittu Vissapragada",
-          "url": "https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy"
-        }
-      ],
-      "duration_ms": 286399,
-      "name": "Jhoom Jhoom (From \"Spy\")",
-      "url": "https://open.spotify.com/track/3hX6uJV2RoDs1POWofzHeA"
     },
     {
       "added_at": "2023-05-27 06:00:01",

@@ -1,12 +1,12 @@
 {
   "description": "Walk the threshold into the netherworld...",
-  "num_followers": 120295,
+  "num_followers": 120383,
   "original_name": "Hauntology",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTE2N2I4MjcyMDM2MTFlOWUzNWE5ODZhMjY1N2E5ZWYzYmVhNzA2",
+  "snapshot_id": "MCw0OTg2YWU5YWMxMmNlZmM1NTYyNGE3MTIyNzJhMTkxMmQ0M2NlZmQ2",
   "tracks": [
     {
       "added_at": "2021-10-27 14:20:30",
@@ -153,22 +153,6 @@
       "url": "https://open.spotify.com/track/1I63q5aYjoyai9CI8QXDrn"
     },
     {
-      "added_at": "2023-05-09 00:58:52",
-      "album": {
-        "name": "4:23",
-        "url": "https://open.spotify.com/album/0ACtwMaMVewYM4hFu9FXhZ"
-      },
-      "artists": [
-        {
-          "name": "MIKE DEAN",
-          "url": "https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc"
-        }
-      ],
-      "duration_ms": 216665,
-      "name": "118k",
-      "url": "https://open.spotify.com/track/2zQPgkGPNxiCrbaBXKfBn1"
-    },
-    {
       "added_at": "2021-10-27 14:20:30",
       "album": {
         "name": "The Pacific Visions of Martin Glass",
@@ -287,6 +271,22 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
+        "name": "Music for an Empty Metropolis",
+        "url": "https://open.spotify.com/album/06Wy4Ua6OmrTNqK4n7BZJo"
+      },
+      "artists": [
+        {
+          "name": "\u00d8rdop Wolkenscheidt",
+          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
+        }
+      ],
+      "duration_ms": 278095,
+      "name": "Acid Rain on Broken Rooftops",
+      "url": "https://open.spotify.com/track/6JwqoBUyhDrkrhDcPxohUM"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
         "name": "Stranger Things 2 (Soundtrack from the Netflix Original Series)",
         "url": "https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B"
       },
@@ -317,36 +317,20 @@
       "url": "https://open.spotify.com/track/2waF939RizyTNhrDoq7ePY"
     },
     {
-      "added_at": "2021-10-27 14:20:30",
+      "added_at": "2023-07-18 19:07:28",
       "album": {
-        "name": "Music for an Empty Metropolis",
-        "url": "https://open.spotify.com/album/06Wy4Ua6OmrTNqK4n7BZJo"
+        "name": "Tinnitus",
+        "url": "https://open.spotify.com/album/1Ql9iOzse7nbLemXldLd1J"
       },
       "artists": [
         {
-          "name": "\u00d8rdop Wolkenscheidt",
-          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
+          "name": "David Boulter",
+          "url": "https://open.spotify.com/artist/5VUBJKfJCbFqezm6lHrLHp"
         }
       ],
-      "duration_ms": 278095,
-      "name": "Acid Rain on Broken Rooftops",
-      "url": "https://open.spotify.com/track/6JwqoBUyhDrkrhDcPxohUM"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
-        "name": "Geogaddi",
-        "url": "https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE"
-      },
-      "artists": [
-        {
-          "name": "Boards of Canada",
-          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
-        }
-      ],
-      "duration_ms": 258586,
-      "name": "The Beach At Redpoint",
-      "url": "https://open.spotify.com/track/7FKPc0Xx4r3SJR1IwrQfxF"
+      "duration_ms": 122368,
+      "name": "Tinnitus Titles (Tinnitus OST)",
+      "url": "https://open.spotify.com/track/41raaLWyqsMOStu9sYqJPK"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -367,18 +351,18 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "The Secret Cosmic Music of the East German Olympic Program 1972-83, Vol. 3",
-        "url": "https://open.spotify.com/album/4ZAtlPjTyeQeptFlp38oez"
+        "name": "Geogaddi",
+        "url": "https://open.spotify.com/album/4T7JGfRryhw5POaXalkApE"
       },
       "artists": [
         {
-          "name": "Kosmischer L\u00e4ufer",
-          "url": "https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B"
+          "name": "Boards of Canada",
+          "url": "https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1"
         }
       ],
-      "duration_ms": 136160,
-      "name": "In der Stadt und auf dem Land",
-      "url": "https://open.spotify.com/track/5RpoUzFpBM0EMSet3Mzldw"
+      "duration_ms": 258586,
+      "name": "The Beach At Redpoint",
+      "url": "https://open.spotify.com/track/7FKPc0Xx4r3SJR1IwrQfxF"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -399,18 +383,18 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "Traces of Time",
-        "url": "https://open.spotify.com/album/2HnWEjopC87eePuc3NAbqr"
+        "name": "The Secret Cosmic Music of the East German Olympic Program 1972-83, Vol. 3",
+        "url": "https://open.spotify.com/album/4ZAtlPjTyeQeptFlp38oez"
       },
       "artists": [
         {
-          "name": "Emerald Web",
-          "url": "https://open.spotify.com/artist/4pXW1cANcBgMaLvVwCfsMe"
+          "name": "Kosmischer L\u00e4ufer",
+          "url": "https://open.spotify.com/artist/4ZRufjj25YMXohtTIlg44B"
         }
       ],
-      "duration_ms": 716373,
-      "name": "Valley of the Birds",
-      "url": "https://open.spotify.com/track/02Zatp9qpcjzaO6JdjWLRK"
+      "duration_ms": 136160,
+      "name": "In der Stadt und auf dem Land",
+      "url": "https://open.spotify.com/track/5RpoUzFpBM0EMSet3Mzldw"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -427,6 +411,22 @@
       "duration_ms": 110680,
       "name": "Theme Number Sixty Eight",
       "url": "https://open.spotify.com/track/3j42kvMTc7rDaxrt0vFMwt"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "Traces of Time",
+        "url": "https://open.spotify.com/album/2HnWEjopC87eePuc3NAbqr"
+      },
+      "artists": [
+        {
+          "name": "Emerald Web",
+          "url": "https://open.spotify.com/artist/4pXW1cANcBgMaLvVwCfsMe"
+        }
+      ],
+      "duration_ms": 716373,
+      "name": "Valley of the Birds",
+      "url": "https://open.spotify.com/track/02Zatp9qpcjzaO6JdjWLRK"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -459,6 +459,22 @@
       "duration_ms": 253066,
       "name": "Vacuum",
       "url": "https://open.spotify.com/track/1jmfCG7E5dzJgzwhZ0ISyR"
+    },
+    {
+      "added_at": "2023-05-09 00:58:52",
+      "album": {
+        "name": "4:23",
+        "url": "https://open.spotify.com/album/0ACtwMaMVewYM4hFu9FXhZ"
+      },
+      "artists": [
+        {
+          "name": "MIKE DEAN",
+          "url": "https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc"
+        }
+      ],
+      "duration_ms": 216665,
+      "name": "118k",
+      "url": "https://open.spotify.com/track/2zQPgkGPNxiCrbaBXKfBn1"
     },
     {
       "added_at": "2022-09-19 17:55:47",
@@ -595,6 +611,22 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
+        "name": "Across The Meridian",
+        "url": "https://open.spotify.com/album/1JVx6dlk7PKc5kbplLJdZg"
+      },
+      "artists": [
+        {
+          "name": "Pram",
+          "url": "https://open.spotify.com/artist/2aFm5gM8lQefcKzOvP2eH8"
+        }
+      ],
+      "duration_ms": 195346,
+      "name": "Shimmer and Disappear",
+      "url": "https://open.spotify.com/track/0dUmodeLcQowf3YZAdOoTW"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
         "name": "Inter-Dimensional Music",
         "url": "https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr"
       },
@@ -609,20 +641,20 @@
       "url": "https://open.spotify.com/track/0TaGZcPrNl0ewkCgdjF7wt"
     },
     {
-      "added_at": "2021-10-27 14:20:30",
+      "added_at": "2022-09-03 03:46:33",
       "album": {
-        "name": "Across The Meridian",
-        "url": "https://open.spotify.com/album/1JVx6dlk7PKc5kbplLJdZg"
+        "name": "Kommissar Brenkstrupp: Fragments of a Troubled Detective",
+        "url": "https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC"
       },
       "artists": [
         {
-          "name": "Pram",
-          "url": "https://open.spotify.com/artist/2aFm5gM8lQefcKzOvP2eH8"
+          "name": "\u00d8rdop Wolkenscheidt",
+          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
         }
       ],
-      "duration_ms": 195346,
-      "name": "Shimmer and Disappear",
-      "url": "https://open.spotify.com/track/0dUmodeLcQowf3YZAdOoTW"
+      "duration_ms": 160441,
+      "name": "Kommissar Brenkstrupp (Main Titles)",
+      "url": "https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -655,22 +687,6 @@
       "duration_ms": 254624,
       "name": "Mannequin Metric",
       "url": "https://open.spotify.com/track/6t45daSIcmRzYeJBB0x3ve"
-    },
-    {
-      "added_at": "2022-09-03 03:46:33",
-      "album": {
-        "name": "Kommissar Brenkstrupp: Fragments of a Troubled Detective",
-        "url": "https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC"
-      },
-      "artists": [
-        {
-          "name": "\u00d8rdop Wolkenscheidt",
-          "url": "https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON"
-        }
-      ],
-      "duration_ms": 160441,
-      "name": "Kommissar Brenkstrupp (Main Titles)",
-      "url": "https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN"
     },
     {
       "added_at": "2022-02-25 03:58:22",
@@ -753,10 +769,10 @@
       "url": "https://open.spotify.com/track/2OdF7JWprGAps570PA57dS"
     },
     {
-      "added_at": "2022-03-18 05:45:26",
+      "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "Microtronics - Volumes 1 & 2",
-        "url": "https://open.spotify.com/album/3nk4c7gVqXNGzkCiVvpLQx"
+        "name": "Work And Non Work",
+        "url": "https://open.spotify.com/album/6BwEy6Zz4U5y09nbSJQE2j"
       },
       "artists": [
         {
@@ -764,9 +780,9 @@
           "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
         }
       ],
-      "duration_ms": 95084,
-      "name": "Microtronics 20",
-      "url": "https://open.spotify.com/track/1AmWCQ6yHUOnWb0wKwhzaa"
+      "duration_ms": 211933,
+      "name": "Phantom",
+      "url": "https://open.spotify.com/track/3nwOKUn3QuT4UxJnB3dR8r"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -803,22 +819,6 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "Black Mass",
-        "url": "https://open.spotify.com/album/32EFJNagV5NXoVUAu6WyG8"
-      },
-      "artists": [
-        {
-          "name": "Lucifer",
-          "url": "https://open.spotify.com/artist/2RpuZ69WQJXU2YMl0oAw1m"
-        }
-      ],
-      "duration_ms": 205026,
-      "name": "Solomon's Rising",
-      "url": "https://open.spotify.com/track/15QDc2N1Uo2FM8oYV6IA1J"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
         "name": "Succour (Redux)",
         "url": "https://open.spotify.com/album/0ZFh0hss22TukAygB7LufU"
       },
@@ -847,6 +847,22 @@
       "duration_ms": 252146,
       "name": "Lueena Coast",
       "url": "https://open.spotify.com/track/6JR1XlStv1gnRLT7sNek4q"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "Black Mass",
+        "url": "https://open.spotify.com/album/32EFJNagV5NXoVUAu6WyG8"
+      },
+      "artists": [
+        {
+          "name": "Lucifer",
+          "url": "https://open.spotify.com/artist/2RpuZ69WQJXU2YMl0oAw1m"
+        }
+      ],
+      "duration_ms": 205026,
+      "name": "Solomon's Rising",
+      "url": "https://open.spotify.com/track/15QDc2N1Uo2FM8oYV6IA1J"
     },
     {
       "added_at": "2022-07-15 05:23:56",
@@ -883,8 +899,24 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "Work And Non Work",
-        "url": "https://open.spotify.com/album/6BwEy6Zz4U5y09nbSJQE2j"
+        "name": "Sleep Games",
+        "url": "https://open.spotify.com/album/3nnoTf0rwR6uhkLne621Ec"
+      },
+      "artists": [
+        {
+          "name": "Pye Corner Audio",
+          "url": "https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL"
+        }
+      ],
+      "duration_ms": 309334,
+      "name": "The Black Mill Video Tape",
+      "url": "https://open.spotify.com/track/4AAmFIGUbQ4xnht6tyCOVk"
+    },
+    {
+      "added_at": "2022-03-18 05:45:26",
+      "album": {
+        "name": "Microtronics - Volumes 1 & 2",
+        "url": "https://open.spotify.com/album/3nk4c7gVqXNGzkCiVvpLQx"
       },
       "artists": [
         {
@@ -892,9 +924,9 @@
           "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
         }
       ],
-      "duration_ms": 211933,
-      "name": "Phantom",
-      "url": "https://open.spotify.com/track/3nwOKUn3QuT4UxJnB3dR8r"
+      "duration_ms": 95084,
+      "name": "Microtronics 20",
+      "url": "https://open.spotify.com/track/1AmWCQ6yHUOnWb0wKwhzaa"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -927,22 +959,6 @@
       "duration_ms": 313424,
       "name": "Leaving The Park",
       "url": "https://open.spotify.com/track/4svWhqInElR6EybNv6UKRT"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
-        "name": "Sleep Games",
-        "url": "https://open.spotify.com/album/3nnoTf0rwR6uhkLne621Ec"
-      },
-      "artists": [
-        {
-          "name": "Pye Corner Audio",
-          "url": "https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL"
-        }
-      ],
-      "duration_ms": 309334,
-      "name": "The Black Mill Video Tape",
-      "url": "https://open.spotify.com/track/4AAmFIGUbQ4xnht6tyCOVk"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -993,22 +1009,6 @@
       "url": "https://open.spotify.com/track/0zAQd8HPcb720jtBnU4YMF"
     },
     {
-      "added_at": "2022-09-29 00:53:08",
-      "album": {
-        "name": "\u00a1Ay!",
-        "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
-      },
-      "artists": [
-        {
-          "name": "Lucrecia Dalt",
-          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
-        }
-      ],
-      "duration_ms": 243435,
-      "name": "Enviada",
-      "url": "https://open.spotify.com/track/7a6Wi2bVkphjCOfLfQeaTr"
-    },
-    {
       "added_at": "2021-10-27 14:20:30",
       "album": {
         "name": "The Power (Original Motion Picture Soundtrack)",
@@ -1029,20 +1029,20 @@
       "url": "https://open.spotify.com/track/4jqVZEFZJPpSdnwPKPAdg3"
     },
     {
-      "added_at": "2021-10-27 14:20:30",
+      "added_at": "2022-09-29 00:53:08",
       "album": {
-        "name": "Berberian Sound Studio",
-        "url": "https://open.spotify.com/album/4uYqcc2NK0s0Zfieyt3w7C"
+        "name": "\u00a1Ay!",
+        "url": "https://open.spotify.com/album/6g5Cioj39K7ix89q2xAtsh"
       },
       "artists": [
         {
-          "name": "Broadcast",
-          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
+          "name": "Lucrecia Dalt",
+          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
         }
       ],
-      "duration_ms": 217133,
-      "name": "Teresa, Lark of Ascension",
-      "url": "https://open.spotify.com/track/0rJdenp3eMqCGuMsx6gv34"
+      "duration_ms": 243435,
+      "name": "Enviada",
+      "url": "https://open.spotify.com/track/7a6Wi2bVkphjCOfLfQeaTr"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1075,6 +1075,22 @@
       "duration_ms": 249023,
       "name": "Hamburger Lady - Remastered",
       "url": "https://open.spotify.com/track/7eAewwhDIvqRKaIuRp71Sv"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "Berberian Sound Studio",
+        "url": "https://open.spotify.com/album/4uYqcc2NK0s0Zfieyt3w7C"
+      },
+      "artists": [
+        {
+          "name": "Broadcast",
+          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
+        }
+      ],
+      "duration_ms": 217133,
+      "name": "Teresa, Lark of Ascension",
+      "url": "https://open.spotify.com/track/0rJdenp3eMqCGuMsx6gv34"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1129,22 +1145,6 @@
       "url": "https://open.spotify.com/track/01OqcCMrDvoVvNdIPAy92B"
     },
     {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
-        "name": "Broadcast And The Focus Group Investigate Witch Cults Of The Radio Age",
-        "url": "https://open.spotify.com/album/6LjY0vS5SEQfk8hjdWhCVV"
-      },
-      "artists": [
-        {
-          "name": "Broadcast And The Focus Group",
-          "url": "https://open.spotify.com/artist/7eYaQFJFmY2XYlZyf8SZhv"
-        }
-      ],
-      "duration_ms": 271853,
-      "name": "the be colony",
-      "url": "https://open.spotify.com/track/4Eqp1Eo7niTd574CMKpJGr"
-    },
-    {
       "added_at": "2022-03-11 05:43:05",
       "album": {
         "name": "The Seed (Original Score)",
@@ -1161,6 +1161,22 @@
       "url": "https://open.spotify.com/track/14zU712whThn4ZtSmz8vil"
     },
     {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "Broadcast And The Focus Group Investigate Witch Cults Of The Radio Age",
+        "url": "https://open.spotify.com/album/6LjY0vS5SEQfk8hjdWhCVV"
+      },
+      "artists": [
+        {
+          "name": "Broadcast And The Focus Group",
+          "url": "https://open.spotify.com/artist/7eYaQFJFmY2XYlZyf8SZhv"
+        }
+      ],
+      "duration_ms": 271853,
+      "name": "the be colony",
+      "url": "https://open.spotify.com/track/4Eqp1Eo7niTd574CMKpJGr"
+    },
+    {
       "added_at": "2023-02-27 18:31:54",
       "album": {
         "name": "Origen",
@@ -1175,6 +1191,22 @@
       "duration_ms": 313600,
       "name": "Francis K.",
       "url": "https://open.spotify.com/track/7EIlPzBmqzRRUdriseY4XP"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "Flowers Of Evil",
+        "url": "https://open.spotify.com/album/0XB4eado6AWXas8Z98FmG6"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "duration_ms": 848256,
+      "name": "Flowers Of Evil",
+      "url": "https://open.spotify.com/track/39yNHxks286iIcWLmQCg2m"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1207,22 +1239,6 @@
       "duration_ms": 254955,
       "name": "Dance of the Mince Pie Martians",
       "url": "https://open.spotify.com/track/1SciwnxrXz7WNUfcqH6lqF"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
-        "name": "Flowers Of Evil",
-        "url": "https://open.spotify.com/album/0XB4eado6AWXas8Z98FmG6"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        }
-      ],
-      "duration_ms": 848256,
-      "name": "Flowers Of Evil",
-      "url": "https://open.spotify.com/track/39yNHxks286iIcWLmQCg2m"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1577,6 +1593,22 @@
       "url": "https://open.spotify.com/track/4Tqxf3WLxqmYaiRIcDVxQ7"
     },
     {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "Other Channels",
+        "url": "https://open.spotify.com/album/5e8pjxQuuRyMf6FjjaQT3D"
+      },
+      "artists": [
+        {
+          "name": "The Advisory Circle",
+          "url": "https://open.spotify.com/artist/6W0YlZ9EupJ8kSsW97KG6S"
+        }
+      ],
+      "duration_ms": 176973,
+      "name": "Mogadon Coffee Morning",
+      "url": "https://open.spotify.com/track/4qM00ki1r0Y94lqUkuedia"
+    },
+    {
       "added_at": "2023-02-14 04:48:37",
       "album": {
         "name": "The Crow-Cyan Lake \u9e26\u9752\u6e56\u7554",
@@ -1595,22 +1627,6 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "Other Channels",
-        "url": "https://open.spotify.com/album/5e8pjxQuuRyMf6FjjaQT3D"
-      },
-      "artists": [
-        {
-          "name": "The Advisory Circle",
-          "url": "https://open.spotify.com/artist/6W0YlZ9EupJ8kSsW97KG6S"
-        }
-      ],
-      "duration_ms": 176973,
-      "name": "Mogadon Coffee Morning",
-      "url": "https://open.spotify.com/track/4qM00ki1r0Y94lqUkuedia"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
         "name": "Succour (Redux)",
         "url": "https://open.spotify.com/album/0ZFh0hss22TukAygB7LufU"
       },
@@ -1623,26 +1639,6 @@
       "duration_ms": 354813,
       "name": "Fracture",
       "url": "https://open.spotify.com/track/43R1YRNyjXK09pFBRpZjxM"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
-        "name": "Dissident Remixed",
-        "url": "https://open.spotify.com/album/0bW31meEWG6J1iENLaxXYn"
-      },
-      "artists": [
-        {
-          "name": "GLOK",
-          "url": "https://open.spotify.com/artist/2G3iuzeOomS2Qcryfa2NWq"
-        },
-        {
-          "name": "Andrew Weatherall",
-          "url": "https://open.spotify.com/artist/5J85JTgIYIUP276hmuIozn"
-        }
-      ],
-      "duration_ms": 387973,
-      "name": "Cloud Cover - Andrew Weatherall Remix",
-      "url": "https://open.spotify.com/track/1GEFOTr5SvRK0tlsiDKaam"
     }
   ],
   "unique_name": "Hauntology",

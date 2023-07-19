@@ -1,12 +1,12 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: TOBi",
-  "num_followers": 6068,
+  "num_followers": 6078,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmQyNTg0ZWVhMzQ3YzZjNmExMDYzY2Q5YTc0ZTVhMGRmYTBmOWEx",
+  "snapshot_id": "MCw3NzU1YTBlNTdiOTMzNDgyNWFjMDg3YTk2ZjY3ZmEyZWRlZjczMjQz",
   "tracks": [
     {
       "added_at": "2023-07-14 04:01:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "BECAUSE WE'RE ALIVE",
-        "url": "https://open.spotify.com/album/6wZMRN2p4tG53w6ixx16wS"
-      },
-      "artists": [
-        {
-          "name": "DillanPonders",
-          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
-        }
-      ],
-      "duration_ms": 151310,
-      "name": "KING OF THE TOWN",
-      "url": "https://open.spotify.com/track/7h1t1cI0DOSZQ0jHm3u0zA"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
         "name": "Trust Your Gut",
         "url": "https://open.spotify.com/album/5DmoSgxVksKJj8BizPuhfN"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 229624,
       "name": "Way Down",
       "url": "https://open.spotify.com/track/6uX0BTiAfFYBCm2zWBZbgd"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "BECAUSE WE'RE ALIVE",
+        "url": "https://open.spotify.com/album/6wZMRN2p4tG53w6ixx16wS"
+      },
+      "artists": [
+        {
+          "name": "DillanPonders",
+          "url": "https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef"
+        }
+      ],
+      "duration_ms": 151310,
+      "name": "KING OF THE TOWN",
+      "url": "https://open.spotify.com/track/7h1t1cI0DOSZQ0jHm3u0zA"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1071,6 +1071,30 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
+        "name": "All Aces",
+        "url": "https://open.spotify.com/album/5soFx6s5E0fpGrrAEvSaVg"
+      },
+      "artists": [
+        {
+          "name": "Prem Dhillon",
+          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
+        },
+        {
+          "name": "Byg Byrd",
+          "url": "https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT"
+        },
+        {
+          "name": "Blamo",
+          "url": "https://open.spotify.com/artist/217YiebQLxLOSubsItInzR"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "All Aces",
+      "url": "https://open.spotify.com/track/0uDfuXjHlSQaSAFELqqk7p"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
         "name": "Dear America",
         "url": "https://open.spotify.com/album/4ph77Ne0Z4oktYiXHDSH3G"
       },
@@ -1095,22 +1119,6 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "DUSK to DAWN",
-        "url": "https://open.spotify.com/album/79YZv5y3Heiw4QZ6i77FTE"
-      },
-      "artists": [
-        {
-          "name": "Boslen",
-          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
-        }
-      ],
-      "duration_ms": 150292,
-      "name": "VULTURES",
-      "url": "https://open.spotify.com/track/0gTmo8jEPfVnAFBKN0jndQ"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
         "name": "30,000 ft",
         "url": "https://open.spotify.com/album/4pe6ylc2vjCU7zQ6EI8ayn"
       },
@@ -1131,26 +1139,18 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "All Aces",
-        "url": "https://open.spotify.com/album/5soFx6s5E0fpGrrAEvSaVg"
+        "name": "DUSK to DAWN",
+        "url": "https://open.spotify.com/album/79YZv5y3Heiw4QZ6i77FTE"
       },
       "artists": [
         {
-          "name": "Prem Dhillon",
-          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
-        },
-        {
-          "name": "Byg Byrd",
-          "url": "https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT"
-        },
-        {
-          "name": "Blamo",
-          "url": "https://open.spotify.com/artist/217YiebQLxLOSubsItInzR"
+          "name": "Boslen",
+          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
         }
       ],
-      "duration_ms": 201600,
-      "name": "All Aces",
-      "url": "https://open.spotify.com/track/0uDfuXjHlSQaSAFELqqk7p"
+      "duration_ms": 150292,
+      "name": "VULTURES",
+      "url": "https://open.spotify.com/track/0gTmo8jEPfVnAFBKN0jndQ"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
+        "name": "Dwayne Carter Flow",
+        "url": "https://open.spotify.com/album/0DN87LYvjreENZHFUCbk6d"
+      },
+      "artists": [
+        {
+          "name": "Nate Husser",
+          "url": "https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4"
+        }
+      ],
+      "duration_ms": 130560,
+      "name": "Dwayne Carter Flow",
+      "url": "https://open.spotify.com/track/570V1YeIjY18g0OgQViBCg"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
         "name": "BECAUSE WE'RE ALIVE",
         "url": "https://open.spotify.com/album/6wZMRN2p4tG53w6ixx16wS"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 154994,
       "name": "JUNGLE",
       "url": "https://open.spotify.com/track/2XHUkLHYKnkBzV4xppzeOx"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "Dwayne Carter Flow",
-        "url": "https://open.spotify.com/album/0DN87LYvjreENZHFUCbk6d"
-      },
-      "artists": [
-        {
-          "name": "Nate Husser",
-          "url": "https://open.spotify.com/artist/5o4gKYJ99ROV1yye1v9Sh4"
-        }
-      ],
-      "duration_ms": 130560,
-      "name": "Dwayne Carter Flow",
-      "url": "https://open.spotify.com/track/570V1YeIjY18g0OgQViBCg"
     },
     {
       "added_at": "2023-07-14 04:01:00",

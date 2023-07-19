@@ -1,12 +1,12 @@
 {
   "description": "Stomping Blues Rock for cooking and eating with friends. ",
-  "num_followers": 5859,
+  "num_followers": 5862,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZjYyYTU4MzllZDk1YTdhZGRiNThmNzViZmY3ZTNmNDFmODY5ZmY4",
+  "snapshot_id": "MCxmY2RlNzgxNjBlNWQ5NTVkNmI4NzQzNzdiZDIzNjNlMzk1NGQxYzY2",
   "tracks": [
     {
       "added_at": "2023-07-14 00:01:00",
@@ -59,6 +59,22 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
+        "name": "Every Chance I Get (I Want You In The Flesh)",
+        "url": "https://open.spotify.com/album/3rmzLWCXi8PNt5kVKf9O7D"
+      },
+      "artists": [
+        {
+          "name": "Dan Auerbach",
+          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+        }
+      ],
+      "duration_ms": 248004,
+      "name": "Every Chance I Get (I Want You In The Flesh)",
+      "url": "https://open.spotify.com/track/6nWLyTkbR9xsmmY1jioPTV"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
         "name": "I Want To Shout About It",
         "url": "https://open.spotify.com/album/4msee0HokeDJun37ZYZLLl"
       },
@@ -87,22 +103,6 @@
       "duration_ms": 174124,
       "name": "Sho Been Worse",
       "url": "https://open.spotify.com/track/2Qg9TUOmezQXfKV1NrT8bx"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
-        "name": "Every Chance I Get (I Want You In The Flesh)",
-        "url": "https://open.spotify.com/album/3rmzLWCXi8PNt5kVKf9O7D"
-      },
-      "artists": [
-        {
-          "name": "Dan Auerbach",
-          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
-        }
-      ],
-      "duration_ms": 248004,
-      "name": "Every Chance I Get (I Want You In The Flesh)",
-      "url": "https://open.spotify.com/track/6nWLyTkbR9xsmmY1jioPTV"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -179,22 +179,6 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "Nothing But The Blues (Live and Stripped)",
-        "url": "https://open.spotify.com/album/6y4oUZWYGTXZ9trTICFIqY"
-      },
-      "artists": [
-        {
-          "name": "The Cold Stares",
-          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
-        }
-      ],
-      "duration_ms": 182613,
-      "name": "Nothing But The Blues - Live and Stripped",
-      "url": "https://open.spotify.com/track/06oCAdvcSLV8S8SMt1UaOA"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
         "name": "Well, I Done Got Over It",
         "url": "https://open.spotify.com/album/4ftRZ5GU9UPwhRhs7JXMp7"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 174560,
       "name": "Well, I Done Got Over It",
       "url": "https://open.spotify.com/track/1lcBFiv1gUfSGtKSmrVwkn"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
+        "name": "Nothing But The Blues (Live and Stripped)",
+        "url": "https://open.spotify.com/album/6y4oUZWYGTXZ9trTICFIqY"
+      },
+      "artists": [
+        {
+          "name": "The Cold Stares",
+          "url": "https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln"
+        }
+      ],
+      "duration_ms": 182613,
+      "name": "Nothing But The Blues - Live and Stripped",
+      "url": "https://open.spotify.com/track/06oCAdvcSLV8S8SMt1UaOA"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -227,6 +227,22 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
+        "name": "Bring Me Back Home Again",
+        "url": "https://open.spotify.com/album/6oCO7UmbZkLKXohZmBDgwe"
+      },
+      "artists": [
+        {
+          "name": "Robert Jon & the Wreck",
+          "url": "https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC"
+        }
+      ],
+      "duration_ms": 223173,
+      "name": "Bring Me Back Home Again",
+      "url": "https://open.spotify.com/track/1pHrkja5Iv5ymMHSkVIQNe"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
         "name": "Hey God",
         "url": "https://open.spotify.com/album/0cDZQ20DYbQMmnN5N9sA4L"
       },
@@ -243,18 +259,18 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "Bring Me Back Home Again",
-        "url": "https://open.spotify.com/album/6oCO7UmbZkLKXohZmBDgwe"
+        "name": "Devil Claims His Prize",
+        "url": "https://open.spotify.com/album/0gNnjuMyQ6pbFDoartJbUI"
       },
       "artists": [
         {
-          "name": "Robert Jon & the Wreck",
-          "url": "https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC"
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
         }
       ],
-      "duration_ms": 223173,
-      "name": "Bring Me Back Home Again",
-      "url": "https://open.spotify.com/track/1pHrkja5Iv5ymMHSkVIQNe"
+      "duration_ms": 162176,
+      "name": "Devil Claims His Prize",
+      "url": "https://open.spotify.com/track/0TUjdjNNsFG7z4EXpQz17o"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -275,22 +291,6 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "What Can I Do?",
-        "url": "https://open.spotify.com/album/3i6rQ2wYM1ipMzmnaTlM3b"
-      },
-      "artists": [
-        {
-          "name": "The Black Belles",
-          "url": "https://open.spotify.com/artist/01cQa0auzKLHTiwg3R2Zg1"
-        }
-      ],
-      "duration_ms": 186013,
-      "name": "What Can I Do?",
-      "url": "https://open.spotify.com/track/34I2GUwYdxXNjXvtHeLy8A"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
         "name": "Death Wish Blues",
         "url": "https://open.spotify.com/album/1V6NLZLBvncmstnaziEQ4C"
       },
@@ -307,6 +307,22 @@
       "duration_ms": 261064,
       "name": "Rippin' And Runnin'",
       "url": "https://open.spotify.com/track/5s0ZgnSyYuVejBMtrkDmIH"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
+        "name": "What Can I Do?",
+        "url": "https://open.spotify.com/album/3i6rQ2wYM1ipMzmnaTlM3b"
+      },
+      "artists": [
+        {
+          "name": "The Black Belles",
+          "url": "https://open.spotify.com/artist/01cQa0auzKLHTiwg3R2Zg1"
+        }
+      ],
+      "duration_ms": 186013,
+      "name": "What Can I Do?",
+      "url": "https://open.spotify.com/track/34I2GUwYdxXNjXvtHeLy8A"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -339,22 +355,6 @@
       "duration_ms": 229696,
       "name": "Coal Black Mattie",
       "url": "https://open.spotify.com/track/180C2riJpRHFruOPpYTPIn"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
-        "name": "Devil Claims His Prize",
-        "url": "https://open.spotify.com/album/0gNnjuMyQ6pbFDoartJbUI"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 162176,
-      "name": "Devil Claims His Prize",
-      "url": "https://open.spotify.com/track/0TUjdjNNsFG7z4EXpQz17o"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
+        "name": "Last Train To Nowhere",
+        "url": "https://open.spotify.com/album/194b6KWWEOdwDe19wO13eh"
+      },
+      "artists": [
+        {
+          "name": "Ghost Hounds",
+          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
+        }
+      ],
+      "duration_ms": 216613,
+      "name": "Last Train To Nowhere",
+      "url": "https://open.spotify.com/track/4qx1YtrtGyG4sRrYx6PgKR"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
         "name": "GrandVille",
         "url": "https://open.spotify.com/album/1EUWaDMADkPz9hVbCRVCCY"
       },
@@ -459,22 +475,6 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "Sweet Tooth",
-        "url": "https://open.spotify.com/album/7z0GDDiEqbWYNVRve5OBzq"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Plevyak",
-          "url": "https://open.spotify.com/artist/6LHGZBGYsT54ePlkIUZwpO"
-        }
-      ],
-      "duration_ms": 131354,
-      "name": "Sweet Tooth",
-      "url": "https://open.spotify.com/track/1gheUHWhVFwBHwBoJe5RV5"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
         "name": "She Moved On",
         "url": "https://open.spotify.com/album/3k1lHrl8ftWsnFcoYjVCoU"
       },
@@ -491,18 +491,34 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "Last Train To Nowhere",
-        "url": "https://open.spotify.com/album/194b6KWWEOdwDe19wO13eh"
+        "name": "Sweet Tooth",
+        "url": "https://open.spotify.com/album/7z0GDDiEqbWYNVRve5OBzq"
       },
       "artists": [
         {
-          "name": "Ghost Hounds",
-          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
+          "name": "Jonathan Plevyak",
+          "url": "https://open.spotify.com/artist/6LHGZBGYsT54ePlkIUZwpO"
         }
       ],
-      "duration_ms": 216613,
-      "name": "Last Train To Nowhere",
-      "url": "https://open.spotify.com/track/4qx1YtrtGyG4sRrYx6PgKR"
+      "duration_ms": 131354,
+      "name": "Sweet Tooth",
+      "url": "https://open.spotify.com/track/1gheUHWhVFwBHwBoJe5RV5"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
+        "name": "Mexico (I Want You Back)",
+        "url": "https://open.spotify.com/album/1PNl7EfjLqZ00OVwnDzQP3"
+      },
+      "artists": [
+        {
+          "name": "The Deadbeat Cousins",
+          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
+        }
+      ],
+      "duration_ms": 170769,
+      "name": "Deal With the Devil (You'll Get Yours)",
+      "url": "https://open.spotify.com/track/1Oo7e5ftsJirLN6ToqRDbr"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -523,22 +539,6 @@
       "duration_ms": 214500,
       "name": "Gotta Bleed - Remix",
       "url": "https://open.spotify.com/track/5bbYD8wu2XFNyG76R41IAt"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
-        "name": "Mexico (I Want You Back)",
-        "url": "https://open.spotify.com/album/1PNl7EfjLqZ00OVwnDzQP3"
-      },
-      "artists": [
-        {
-          "name": "The Deadbeat Cousins",
-          "url": "https://open.spotify.com/artist/1NLpUEmI57tHPTH9GSDA40"
-        }
-      ],
-      "duration_ms": 170769,
-      "name": "Deal With the Devil (You'll Get Yours)",
-      "url": "https://open.spotify.com/track/1Oo7e5ftsJirLN6ToqRDbr"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
+        "name": "Hazel Eyes",
+        "url": "https://open.spotify.com/album/7q56kadwG66VudB8GIGC6T"
+      },
+      "artists": [
+        {
+          "name": "Ash Lambe & The 32-20's",
+          "url": "https://open.spotify.com/artist/1PYQHnrVYww26xUopjV3s2"
+        }
+      ],
+      "duration_ms": 294327,
+      "name": "Hazel Eyes",
+      "url": "https://open.spotify.com/track/6wJcz18omAZIhiZvFFvBQs"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
         "name": "Go Down Swinging",
         "url": "https://open.spotify.com/album/2SAYfi2HiMRUpa7c8C5IyC"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 162612,
       "name": "Dynamite A Tribute to Muddy Waters - Radio Edit",
       "url": "https://open.spotify.com/track/5AU2HPhPRtg7NG8RBacSeP"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
-        "name": "Hazel Eyes",
-        "url": "https://open.spotify.com/album/7q56kadwG66VudB8GIGC6T"
-      },
-      "artists": [
-        {
-          "name": "Ash Lambe & The 32-20's",
-          "url": "https://open.spotify.com/artist/1PYQHnrVYww26xUopjV3s2"
-        }
-      ],
-      "duration_ms": 294327,
-      "name": "Hazel Eyes",
-      "url": "https://open.spotify.com/track/6wJcz18omAZIhiZvFFvBQs"
     },
     {
       "added_at": "2023-07-14 00:01:00",

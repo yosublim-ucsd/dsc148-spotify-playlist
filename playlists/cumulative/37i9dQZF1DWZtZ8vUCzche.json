@@ -504,7 +504,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 512826,
       "name": "Bad Man's Song",
       "url": "https://open.spotify.com/track/6g76vDAlF0NjRbYypWmwUM"
@@ -2736,6 +2736,28 @@
       "duration_ms": 497466,
       "name": "Leave Them All Behind - 2001 Remaster",
       "url": "https://open.spotify.com/track/0t4JQeO8qLKzQFcXuTitgk"
+    },
+    {
+      "album": {
+        "name": "SOAR",
+        "url": "https://open.spotify.com/album/4EYDGs1XVGoNaL9vSA246G"
+      },
+      "artists": [
+        {
+          "name": "Seckou Keita",
+          "url": "https://open.spotify.com/artist/3iT2a4ug1Z4miaWS0HINdc"
+        },
+        {
+          "name": "Catrin Finch",
+          "url": "https://open.spotify.com/artist/5YHCN15OUsjGAg1az5m818"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266252,
+      "name": "Listen to the Grass Grow",
+      "url": "https://open.spotify.com/track/4wVo6hMUpsrjcxrmeYWvdQ"
     },
     {
       "album": {

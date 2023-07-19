@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,193 songs - 2 day 13 hr 42 min
+1,194 songs - 2 day 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -382,6 +382,7 @@
 | [fuck me up](https://open.spotify.com/track/1tfqdVGiQ5os93SV0N7V5W) | [Ballinciaga](https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv) | [postkort alicante](https://open.spotify.com/album/2lfr1tJAGLtJVuWPFhzVcq) | 1:52 | 2023-05-27 | 2023-06-02 |
 | [Fuck Off](https://open.spotify.com/track/49leKemQPx49ZjfxDR4pZn) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Fuck Off](https://open.spotify.com/album/1gFN4ttXiVTwWHKgJd74eZ) | 2:52 | 2023-03-18 | 2023-04-09 |
 | [Fuckboy](https://open.spotify.com/track/1GGk3Q73VX2eBLQ2Yp5Kr2) | [Martine Lunde](https://open.spotify.com/artist/22viLaDXyY28fd1WvDraoZ), [Norges Nye Megahit](https://open.spotify.com/artist/35kBMx0nauaGZIhWESWrc5) | [Fuckboy](https://open.spotify.com/album/3uXPhrZpwbQPSHjnWRV1cl) | 2:13 | 2021-12-06 | 2022-04-29 |
+| [fukumean](https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:05 | 2023-07-18 |  |
 | [Fy Faen Så Deilig](https://open.spotify.com/track/7Kbnj5tbe6b0N8u0uRgiSW) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg) | [Fy Faen Så Deilig](https://open.spotify.com/album/1j6xIUm9WZ4K9uTojnvFC0) | 2:36 | 2023-05-13 | 2023-05-18 |
 | [Fylla](https://open.spotify.com/track/4h47HjuI6PJI3RmnH6Adbc) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Fylla](https://open.spotify.com/album/6yOXDFHawCOMlFQpOKKyiv) | 2:33 | 2021-08-22 | 2021-08-29 |
 | [Fylleangst](https://open.spotify.com/track/1gcTGGDqXQWe97FMTUxPP9) | [Oskar Westerlin](https://open.spotify.com/artist/0oXnxfuBoIz4DlUCbvxWxd), [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [Fylleangst](https://open.spotify.com/album/5qBlO7VFJFPzDet3AZ1Q74) | 1:58 | 2022-07-23 | 2022-07-31 |
@@ -551,7 +552,7 @@
 | [Idiot](https://open.spotify.com/track/1dD5RfTAEDEk19GhAz9hUG) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [PandaPanda](https://open.spotify.com/artist/3bprEfGCk6tljbWjtvGQH5) | [Idiot](https://open.spotify.com/album/4mn6Db6CFWf05QqKKTsSS1) | 1:58 | 2023-05-27 | 2023-06-07 |
 | [Idiot](https://open.spotify.com/track/5vLOM6xp1c2B1vqCpQf6oo) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [PandaPanda](https://open.spotify.com/artist/3bprEfGCk6tljbWjtvGQH5) | [Idiot](https://open.spotify.com/album/12GMWOXclPuWUmygCmvKrk) | 1:58 | 2023-06-06 | 2023-07-04 |
 | [Idiot](https://open.spotify.com/track/7tfoIzmMZ7baGJEYmHtajI) | [Broiler](https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC), [PandaPanda](https://open.spotify.com/artist/3bprEfGCk6tljbWjtvGQH5) | [Idiot](https://open.spotify.com/album/1quZHmo8Sdp0AJDG3Vrh3n) | 1:58 | 2023-07-03 |  |
-| [Idyll](https://open.spotify.com/track/6ZB1dFgdUW6I9qzW7Oap6o) | [Postgirobygget](https://open.spotify.com/artist/3DdqT0OIZY3arBWnZ3NJeb) | [Melis](https://open.spotify.com/album/37OHrXXHZRIiKlxbHzOalj) | 3:23 | 2023-06-11 |  |
+| [Idyll](https://open.spotify.com/track/6ZB1dFgdUW6I9qzW7Oap6o) | [Postgirobygget](https://open.spotify.com/artist/3DdqT0OIZY3arBWnZ3NJeb) | [Melis](https://open.spotify.com/album/37OHrXXHZRIiKlxbHzOalj) | 3:23 | 2023-06-11 | 2023-07-19 |
 | [If I Were You](https://open.spotify.com/track/1W90AsFODVp6SbRitqmpc6) | [Victoria Nadine](https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K) | [If I Were You](https://open.spotify.com/album/33lhloR9jksZUrSIpJYo1R) | 3:12 | 2022-03-05 | 2022-03-21 |
 | [If We Ever Broke Up](https://open.spotify.com/track/6maTPqynTmrkWIralgGaoP) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [If We Ever Broke Up](https://open.spotify.com/album/4eadTzshRApGna6Ppz5XwO) | 2:22 | 2023-02-11 | 2023-03-19 |
 | [If You Want Me](https://open.spotify.com/track/2HlcsGwSitKqHOaR3FjssK) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Profound Mysteries](https://open.spotify.com/album/1zkMAbOocqRPTdBx7A6h4U) | 5:39 | 2022-04-30 | 2022-05-02 |

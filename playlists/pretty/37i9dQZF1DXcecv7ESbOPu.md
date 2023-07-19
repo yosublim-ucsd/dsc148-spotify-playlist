@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag! Lyssna på veckans hetaste nya releaser i New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,701 likes - 113 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,716 likes - 113 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 112 | [Good Girls Ain't No Fun](https://open.spotify.com/track/0eVVwxPYBzVMFOGDUpaw2f) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Good Girls Ain't No Fun](https://open.spotify.com/album/2mcP7rL0a2kooZeNjax91u) | 2:22 |
 | 113 | [Wotcha Call Strength](https://open.spotify.com/track/7yhLOvUMQJkwiKEr6pekpF) | [Boot Camp Clik](https://open.spotify.com/artist/3ho167y1Ac7ANj2qkbJUCJ), [Ruste Juxx](https://open.spotify.com/artist/34jkD9MaYCGeY9V1zqDGEP), [Rockness Monsta](https://open.spotify.com/artist/0RgXcM4uOS7jTIKu54U6Fw), [Smif\-N\-Wessun](https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0), [O.G.C.](https://open.spotify.com/artist/73h5znw4QchoWo2FJXBvp5), [Buckshot](https://open.spotify.com/artist/5Fc4E9FtAoP4UHXWh6oLpS), [The Arcitype](https://open.spotify.com/artist/06l5ehprKkOCp9kI9eYCik) | [Wotcha Call Strength](https://open.spotify.com/album/5NjJwIELNVce2k2HSQ51pf) | 5:33 |
 
-Snapshot ID: `MCxhODgwYTAwMmIwMDFiOWI0ZjkyMGU0NWQ2MmJlNTczYTkzMjg5ZjE2`
+Snapshot ID: `MCxkMDNmZmE5NWYzMTQ3NjI3NTQzMjc2ZTllNTg2MWFiZDMzYzk4MWYw`

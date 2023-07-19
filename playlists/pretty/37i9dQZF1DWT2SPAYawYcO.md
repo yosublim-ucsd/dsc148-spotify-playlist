@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week!  Cover: Troye Sivan
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,587 likes - 79 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,606 likes - 79 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 78 | [Ogaranya](https://open.spotify.com/track/0tC86sTgoU5BXkV7iucdcS) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Ogaranya](https://open.spotify.com/album/6LUgn0kuzaQMhvKNorb5rG) | 2:48 |
 | 79 | [Eastcoaster](https://open.spotify.com/track/47l9cHK0ju8jqL90fXyMWR) | [Meg Washington](https://open.spotify.com/artist/5AHMfr68CzfjKxMU7MQAeZ) | [Eastcoaster](https://open.spotify.com/album/0kuJMeAFeuWNbPWg5MwejI) | 2:36 |
 
-Snapshot ID: `MCxhZDQ4MmY0OTE2NmQ5YTE0MjhlMmVkODgwMTEyN2EwMjQzZWQwZWM5`
+Snapshot ID: `MCw5MjBmODg0NzU0NWZlNGUzNDhlMTQyNzNjYTU3YzIzZTdhZGQ1OWE2`

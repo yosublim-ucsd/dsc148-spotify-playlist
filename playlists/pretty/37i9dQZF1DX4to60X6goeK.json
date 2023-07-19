@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: Tsuki",
-  "num_followers": 45375,
+  "num_followers": 45410,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODBmNWUwMDg2MWUzODU0ZTExNDQ3OWJhNGE0ZTEzMGI3ZDBkYTNk",
+  "snapshot_id": "MCxhOTZmNmNiODNkM2Y4YmMzMTRhYWIyZDk2NmYxNGE3Yzc4YmQ3N2Jm",
   "tracks": [
     {
       "added_at": "2022-08-12 16:34:51",
@@ -351,30 +351,6 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
-        "name": "Absolute",
-        "url": "https://open.spotify.com/album/43KV6XPxBs3Th6EvhTXyJ9"
-      },
-      "artists": [
-        {
-          "name": "Mr Traumatik",
-          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
-        },
-        {
-          "name": "Local",
-          "url": "https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2"
-        },
-        {
-          "name": "Fernquest",
-          "url": "https://open.spotify.com/artist/7vUiDGA4jzsPS8RSTaiFrL"
-        }
-      ],
-      "duration_ms": 184270,
-      "name": "Absolute",
-      "url": "https://open.spotify.com/track/6eCNeilo1YaFuxSWHQYBg9"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
         "name": "IFTK (Vibe Chemistry Remix)",
         "url": "https://open.spotify.com/album/62F2vp2ZSP3o2hbv75MzjQ"
       },
@@ -395,6 +371,30 @@
       "duration_ms": 193643,
       "name": "IFTK - Vibe Chemistry Remix",
       "url": "https://open.spotify.com/track/7lXkhek4aKD6v01Rq8fotO"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
+        "name": "Absolute",
+        "url": "https://open.spotify.com/album/43KV6XPxBs3Th6EvhTXyJ9"
+      },
+      "artists": [
+        {
+          "name": "Mr Traumatik",
+          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
+        },
+        {
+          "name": "Local",
+          "url": "https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2"
+        },
+        {
+          "name": "Fernquest",
+          "url": "https://open.spotify.com/artist/7vUiDGA4jzsPS8RSTaiFrL"
+        }
+      ],
+      "duration_ms": 184270,
+      "name": "Absolute",
+      "url": "https://open.spotify.com/track/6eCNeilo1YaFuxSWHQYBg9"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -463,6 +463,22 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
+        "name": "Offender",
+        "url": "https://open.spotify.com/album/0HGC8S4h6lsfrPw2lWWbZh"
+      },
+      "artists": [
+        {
+          "name": "Dimension",
+          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
+        }
+      ],
+      "duration_ms": 223448,
+      "name": "Offender",
+      "url": "https://open.spotify.com/track/39dkTH7uL26INRkJYxmPmz"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
         "name": "Polarity (VIP)",
         "url": "https://open.spotify.com/album/7l3Vsu0LVvrOdpUdCv1ucN"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 202971,
       "name": "Polarity - VIP",
       "url": "https://open.spotify.com/track/0rNuA5fTJDDvQ4oa421WM9"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
-        "name": "Offender",
-        "url": "https://open.spotify.com/album/0HGC8S4h6lsfrPw2lWWbZh"
-      },
-      "artists": [
-        {
-          "name": "Dimension",
-          "url": "https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S"
-        }
-      ],
-      "duration_ms": 223448,
-      "name": "Offender",
-      "url": "https://open.spotify.com/track/39dkTH7uL26INRkJYxmPmz"
     },
     {
       "added_at": "2022-08-12 16:34:51",
@@ -931,6 +931,26 @@
     {
       "added_at": "2022-08-12 16:34:51",
       "album": {
+        "name": "Shaolin Fist",
+        "url": "https://open.spotify.com/album/2qmrtp1vQ4AFI0rms52Bip"
+      },
+      "artists": [
+        {
+          "name": "Original Sin",
+          "url": "https://open.spotify.com/artist/3D71zH4KfjyILeWehJheDV"
+        },
+        {
+          "name": "Eksman",
+          "url": "https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7"
+        }
+      ],
+      "duration_ms": 241687,
+      "name": "Headshot",
+      "url": "https://open.spotify.com/track/69rb5Dk1Ivg386QQhyzrUX"
+    },
+    {
+      "added_at": "2022-08-12 16:34:51",
+      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/6GMcUsOe9eqEtlm1KAkFIR"
       },
@@ -959,26 +979,6 @@
       "duration_ms": 327945,
       "name": "Void",
       "url": "https://open.spotify.com/track/5bRZR2TRxH4xoZAb9O126q"
-    },
-    {
-      "added_at": "2022-08-12 16:34:51",
-      "album": {
-        "name": "Shaolin Fist",
-        "url": "https://open.spotify.com/album/2qmrtp1vQ4AFI0rms52Bip"
-      },
-      "artists": [
-        {
-          "name": "Original Sin",
-          "url": "https://open.spotify.com/artist/3D71zH4KfjyILeWehJheDV"
-        },
-        {
-          "name": "Eksman",
-          "url": "https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7"
-        }
-      ],
-      "duration_ms": 241687,
-      "name": "Headshot",
-      "url": "https://open.spotify.com/track/69rb5Dk1Ivg386QQhyzrUX"
     },
     {
       "added_at": "2022-08-12 16:34:51",

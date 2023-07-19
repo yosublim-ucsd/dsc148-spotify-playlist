@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3wjPs3pZiBROjNC2sgWJbN.md) - [plain]
 
 > A collection of R&amp;B jams and viral trends feat Rihanna, Mary J\. Blige &amp; Coco Jones! Cover: Coco Jones
 
-[Digster](https://open.spotify.com/user/digster.fm) - 8,171 likes - 60 songs - 3 hr 28 min
+[Digster](https://open.spotify.com/user/digster.fm) - 8,172 likes - 60 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

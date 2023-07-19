@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 
 > Keep your finger on the pulse of pop\. Cover: Blusher
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,767 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,770 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50KNyX4Fc9O.md) - [plain]
 | 99 | [Split Enz](https://open.spotify.com/track/5YdORq6pAR5FurHWdIn1mq) | [THE DALS](https://open.spotify.com/artist/5OsNJOHr8bPLl4ct41ZeUE) | [Split Enz](https://open.spotify.com/album/13UbOiqgESzJKguCCJuils) | 2:59 |
 | 100 | [Stuck On You](https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When We Were Younger](https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w) | 2:39 |
 
-Snapshot ID: `MCwwZWRmNDFlNzlmNDFmM2NkYmE4NDVmZWQ0NjVjYmVlZTM3ODg1ZjVk`
+Snapshot ID: `MCw2ZjI2NDNlZTRlZjFlODJhNGY5OTljNzY5YzM2MDFkNzU1YjcwMGMx`

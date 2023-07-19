@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels, featuring MAGNA\. Updates every Wednesday.
 
-1,256 songs - 2 day 21 hr 3 min
+1,257 songs - 2 day 21 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -744,6 +744,7 @@
 | [Muérete.](https://open.spotify.com/track/46pSBPlTJOZooaXUzxxVZu) | [Manda](https://open.spotify.com/artist/6qoRJ8ch8quJZ7Xyite5Fd) | [Mi Subconsciente](https://open.spotify.com/album/79j0MBfIXuia06vJ2q5bzz) | 2:03 | 2023-07-12 |  |
 | [Muñeca \(Sin Pilas Incluidas\)](https://open.spotify.com/track/60uCZaPtkdQ5XXLYSLjLon) | [ADRIANAH](https://open.spotify.com/artist/4qqpXhZ0OApTtS6cOOaPHn) | [Muñeca \(Sin Pilas Incluidas\)](https://open.spotify.com/album/5f8tUSpNqjENnKf3oKIGMU) | 3:29 | 2022-08-24 | 2022-09-22 |
 | [My Way](https://open.spotify.com/track/2VqqW1hLIvtYblXcSpZXlp) | [Augusto Yepes](https://open.spotify.com/artist/4Fii6zdHW1hbQw0LS4qeTs), [Sounds Of Rituals](https://open.spotify.com/artist/1s7o0js6ITLMl4EN2m9YvK) | [My Way](https://open.spotify.com/album/5pPhjLZrcujOBLjiKkFDyJ) | 3:33 | 2023-05-10 | 2023-05-24 |
+| [MÁQUINA CULONA](https://open.spotify.com/track/5tBNafAkXWrLDQa8SOeat9) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [MÁQUINA CULONA](https://open.spotify.com/album/6rceA1LV2503KinfXAGF1v) | 3:12 | 2023-07-18 |  |
 | [Más allá](https://open.spotify.com/track/4hL8lYIFnh7HX6ockssqjf) | [María de la Flor](https://open.spotify.com/artist/0kQpC0wjuUoy6ppyXWgYH3) | [Hilanderas](https://open.spotify.com/album/5cCQC8jxZdDvmmMVD8sq3S) | 3:22 | 2022-06-08 | 2022-07-14 |
 | [Más guapa que la Luna](https://open.spotify.com/track/2Fe7RO3U1SMJTqqp55xnfz) | [Chuly](https://open.spotify.com/artist/45kuhXFTdXfr8uEajF7hJN), [Mvrtin](https://open.spotify.com/artist/6dEsU8r0lN4KVr2zSCzCH5) | [Más guapa que la Luna](https://open.spotify.com/album/2OTiB2gBqEpM0vtE7LgIQf) | 2:35 | 2023-04-12 | 2023-04-20 |
 | [Más Que Tu Amiga](https://open.spotify.com/track/35QH7O0GC9Ftm3iKAkeLJB) | [MAR](https://open.spotify.com/artist/07z2rbjbFEmLhSxD1ZD7wu) | [Más Que Tu Amiga](https://open.spotify.com/album/4C4uBUqKQpDM8I8Vg84Pca) | 3:11 | 2023-01-18 | 2023-02-02 |
@@ -982,7 +983,7 @@
 | [Ribelli](https://open.spotify.com/track/4ElZMZM9imovaP3WeKPSWy) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [Ribelli](https://open.spotify.com/album/3m8CH7rmsnU7giyuGuf0CB) | 3:05 | 2022-03-23 | 2022-04-07 |
 | [Rien de Gratuit](https://open.spotify.com/track/15ADBflaWuW4SjL6iDhIdS) | [Mango Flow](https://open.spotify.com/artist/31GJoOOSo8GvnOqT5Wyn9w), [Möre Beats](https://open.spotify.com/artist/5DVyNUkITuc6f16kpEivmg), [PCL](https://open.spotify.com/artist/2cvJjcIAUzPDKRFEUL4WBg) | [Rien de Gratuit](https://open.spotify.com/album/5cxFUUtscaXNxkugoZGycO) | 3:34 | 2022-02-02 | 2022-02-17 |
 | [Roberto](https://open.spotify.com/track/4SSs1ohUHZk8RNAOdzr85M) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [Roberto](https://open.spotify.com/album/0K4ErZkCIFIz0L6Jtvp2a5) | 2:47 | 2022-03-16 | 2022-03-24 |
-| [Rojo Rubí \- Rompiendo La Cadera](https://open.spotify.com/track/00vDTKx0x8foQnP4NfCR1D) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO) | [Rojo Rubí \(Rompiendo La Cadera\)](https://open.spotify.com/album/4A9lQhzAsRXLZ8LnArdAUs) | 3:25 | 2023-07-05 |  |
+| [Rojo Rubí \- Rompiendo La Cadera](https://open.spotify.com/track/00vDTKx0x8foQnP4NfCR1D) | [Letón Pé](https://open.spotify.com/artist/76LJ0AYW9sxNGRfKnag1vO) | [Rojo Rubí \(Rompiendo La Cadera\)](https://open.spotify.com/album/4A9lQhzAsRXLZ8LnArdAUs) | 3:25 | 2023-07-05 | 2023-07-19 |
 | [Roma Caerá](https://open.spotify.com/track/0FnIpAGL4Q0ugFbQbKtAl6) | [Anabel Lee](https://open.spotify.com/artist/5RUY9JzWtxRY6oRqH3xTIW) | [Roma Caerá](https://open.spotify.com/album/2WRClQRuoA2KUQD54ONnHM) | 3:09 | 2022-02-09 | 2022-02-24 |
 | [romance 2009](https://open.spotify.com/track/2dlzU9pSpChjyIshfuNwet) | [GAMBOA](https://open.spotify.com/artist/6vNjkmZB4B8C9isC2GgjD9) | [romance 2009](https://open.spotify.com/album/0cpxbk2ltX5vNZnQ4UIt5v) | 3:25 | 2023-04-19 | 2023-05-04 |
 | [Rs5](https://open.spotify.com/track/76lq8oJbdWxbczUAlqC2pJ) | [EL NAGO](https://open.spotify.com/artist/2ZOvUFl38SrMZ4H2pzO5lg) | [Rs5](https://open.spotify.com/album/3QE3LdwskDdy1v8BMiCT12) | 2:25 | 2023-01-12 | 2023-02-09 |

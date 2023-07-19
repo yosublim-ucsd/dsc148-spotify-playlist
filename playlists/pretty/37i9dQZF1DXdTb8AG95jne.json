@@ -1,12 +1,12 @@
 {
   "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: Ahn Heesu(\uc548\ud76c\uc218)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 446518,
+  "num_followers": 446691,
   "original_name": "In The K-Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzU5YjY0NmM1OWY4ZmExYWI4NzEyMzQxOTM2ODk2ZDlmOTM1NTZl",
+  "snapshot_id": "MCxiZDZjZmM5ZTJkYzE0NTcxYzJlM2VkZTM0ZThjNzU2YmE5ZDA1MDAw",
   "tracks": [
     {
       "added_at": "2023-07-17 06:54:49",
@@ -359,6 +359,22 @@
     {
       "added_at": "2023-07-17 06:54:49",
       "album": {
+        "name": "I can't tell you everything",
+        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Today's Mood",
+      "url": "https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx"
+    },
+    {
+      "added_at": "2023-07-17 06:54:49",
+      "album": {
         "name": "Puberty Book\u2161 Pum",
         "url": "https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 188000,
       "name": "Leo (feat. BAEKHYUN)",
       "url": "https://open.spotify.com/track/0kvtiq8qll4OTfDXvrkXEF"
-    },
-    {
-      "added_at": "2023-07-17 06:54:49",
-      "album": {
-        "name": "I can't tell you everything",
-        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
-      },
-      "artists": [
-        {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Today's Mood",
-      "url": "https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx"
     },
     {
       "added_at": "2023-07-17 06:54:49",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-07-17 06:54:49",
       "album": {
-        "name": "Koh",
-        "url": "https://open.spotify.com/album/6W50Ympy4qBEahumF57RyF"
-      },
-      "artists": [
-        {
-          "name": "92914",
-          "url": "https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF"
-        }
-      ],
-      "duration_ms": 299428,
-      "name": "Koh",
-      "url": "https://open.spotify.com/track/17U7z9PG0iOa7YfR5pzZ6m"
-    },
-    {
-      "added_at": "2023-07-17 06:54:49",
-      "album": {
         "name": "pony",
         "url": "https://open.spotify.com/album/0Fqg5u1mP8d8VJZmhIWkpc"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 181266,
       "name": "pony",
       "url": "https://open.spotify.com/track/6pZIsf4z5iFsueGtlHn35V"
+    },
+    {
+      "added_at": "2023-07-17 06:54:49",
+      "album": {
+        "name": "Koh",
+        "url": "https://open.spotify.com/album/6W50Ympy4qBEahumF57RyF"
+      },
+      "artists": [
+        {
+          "name": "92914",
+          "url": "https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF"
+        }
+      ],
+      "duration_ms": 299428,
+      "name": "Koh",
+      "url": "https://open.spotify.com/track/17U7z9PG0iOa7YfR5pzZ6m"
     },
     {
       "added_at": "2023-07-17 06:54:49",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-07-17 06:54:49",
       "album": {
-        "name": "Summer",
-        "url": "https://open.spotify.com/album/3CuJaVDNEUI9zxc94tD2K0"
-      },
-      "artists": [
-        {
-          "name": "92914",
-          "url": "https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF"
-        }
-      ],
-      "duration_ms": 181046,
-      "name": "Summer",
-      "url": "https://open.spotify.com/track/6wcsMzquKNG2hsfDPjX5Cp"
-    },
-    {
-      "added_at": "2023-07-17 06:54:49",
-      "album": {
         "name": "Hate Everything",
         "url": "https://open.spotify.com/album/4NV2SxuesqKwcBdDgACH9R"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 205759,
       "name": "Hate Everything - Korean Version",
       "url": "https://open.spotify.com/track/6GX6ky9XJINogCHQ1c3UUx"
+    },
+    {
+      "added_at": "2023-07-17 06:54:49",
+      "album": {
+        "name": "Summer",
+        "url": "https://open.spotify.com/album/3CuJaVDNEUI9zxc94tD2K0"
+      },
+      "artists": [
+        {
+          "name": "92914",
+          "url": "https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF"
+        }
+      ],
+      "duration_ms": 181046,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/6wcsMzquKNG2hsfDPjX5Cp"
     },
     {
       "added_at": "2023-07-17 06:54:49",

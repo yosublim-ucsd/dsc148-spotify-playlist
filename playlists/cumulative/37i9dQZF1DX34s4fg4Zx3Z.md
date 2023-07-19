@@ -4,7 +4,7 @@
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: dNam; thiết kế: Isu Kim
 
-1,116 songs - 2 day 17 hr 36 min
+1,118 songs - 2 day 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [245](https://open.spotify.com/track/4AZHGHvEbOOUe3lpA4t8Ko) | [NP.2](https://open.spotify.com/artist/0FqdaYWdo1r4esDdZ4wA8n) | [245](https://open.spotify.com/album/3RD9kn96OvrvM6GEls35xF) | 2:46 | 2023-06-06 |  |
 | [30 Ngày Lạnh](https://open.spotify.com/track/6Xa8B4aLfRDvaUmugocG4u) | [Thế Anh Shinichi](https://open.spotify.com/artist/6KVon2JPHz5A89ID6Ckzjt), [Q.u](https://open.spotify.com/artist/705UWfpP9e1di3LqxtbJML), [Melomix](https://open.spotify.com/artist/6rLm6yMYaTHSlixXSpuPfw) | [30 Ngày Lạnh](https://open.spotify.com/album/4JcKI3TO3yHUlMx3nckWbo) | 3:32 | 2022-09-07 | 2022-10-07 |
 | [3ndL0ve](https://open.spotify.com/track/6vN7IFarWhlU6SRHD8xrIO) | [NHK](https://open.spotify.com/artist/7tCGXYgNqLsNCyE3MAB7WZ), [SP](https://open.spotify.com/artist/4kujYsVRLxNzt3gT8NKYQq) | [3ndL0ve](https://open.spotify.com/album/56dpTy5e4SRHIW8ZnxFipQ) | 3:38 | 2023-06-26 |  |
+| [70 Đường 30 Đá](https://open.spotify.com/track/1O76Hce05DedwWQmlD3xbg) | [Híu](https://open.spotify.com/artist/2J5B9kGwZXEaP7Ys4ai9Qz) | [70 Đường 30 Đá](https://open.spotify.com/album/1CRnbzlRJasuRigSFjXj9h) | 2:46 | 2023-07-18 |  |
 | [A GIFT FROM "DAD"](https://open.spotify.com/track/7qOZTK2aEmyAtG6dXAf8Jg) | [Midwayy](https://open.spotify.com/artist/65vPZgKXFWcDKDvDMUEg4x), [JO](https://open.spotify.com/artist/264XKPxpdurEuWIL21UgvK) | [A GIFT FROM "DAD"](https://open.spotify.com/album/1acow2ptcXIcqUXcyr4Hea) | 3:02 | 2022-11-17 | 2023-04-06 |
 | [Adrenaline](https://open.spotify.com/track/4fol1mRfChVQotmqksmytV) | [Young Draco](https://open.spotify.com/artist/601J3nke3wUjbOx0hWY9uA), [Young Bo5](https://open.spotify.com/artist/3IKIHkOCcJqWpM3fYMqk6o), [Ozee Kxng](https://open.spotify.com/artist/17vAfc5ZHLo0FHmutTI46A) | [Adrenaline](https://open.spotify.com/album/2l9z4aAx7R3K3KQWru1tvw) | 3:28 | 2022-10-10 | 2022-10-21 |
 | [ai dau can anh...?](https://open.spotify.com/track/5XCwP3NH8XiqukfUSh8Pjr) | [Vxllish](https://open.spotify.com/artist/27RxVUWFswWxJaZzF1R3CT), [Nie](https://open.spotify.com/artist/11fKQT0P9kw4T6XLsQ2a06) | [ai dau can anh...?](https://open.spotify.com/album/4xLv7DVlNFKiaz5BeqIE4F) | 5:20 | 2023-04-13 | 2023-05-18 |
@@ -981,6 +982,7 @@
 | [Vì Sao Em Lại Thức Đêm](https://open.spotify.com/track/0333AP2YyQ9x3IDp809S5O) | [FreshlyRC](https://open.spotify.com/artist/6WMNTpBmbvK4a7yikMwZDn) | [Vì Sao Em Lại Thức Đêm](https://open.spotify.com/album/4OkeDpULcrXzjTi20uPoW1) | 2:31 | 2023-03-17 | 2023-04-01 |
 | [Vì Sao Em Đi](https://open.spotify.com/track/1F8J0ccYNaDPznNjLKZ4Yz) | [Clow](https://open.spotify.com/artist/340QB5yIg8bZoi4uJyTB30) | [Vì Sao Em Đi](https://open.spotify.com/album/6hctpY6wF9PB6VUhPcyiTx) | 3:26 | 2023-02-15 | 2023-03-16 |
 | [Vì Ta Giống Nhau](https://open.spotify.com/track/0U5bXDm522NFxgbalL1qXn) | [DATB](https://open.spotify.com/artist/20awixItwowpS8dY2wBGRN), [Kriss Ngo](https://open.spotify.com/artist/3tHHuAuhXiCc1HneD1iytJ) | [Vì Ta Giống Nhau](https://open.spotify.com/album/1DCEycd7x9YwMpVUN5wEbp) | 3:07 | 2022-06-22 | 2022-08-01 |
+| [Vì Tôi Tin Hết](https://open.spotify.com/track/0ZSUs2r3TpD4V5lsVdf6rI) | [Sáo](https://open.spotify.com/artist/0CkuQCslREF7yuvAqJXVuz) | [Vì Tôi Tin Hết](https://open.spotify.com/album/4kjfT54kb8doV7mhJmqOPD) | 3:32 | 2023-07-18 |  |
 | [Vòng Xoay](https://open.spotify.com/track/6vpBwdPBDQwGmcXSw35RhP) | [KoQuet](https://open.spotify.com/artist/0byMH77phBn6NVdV44rXvv) | [Vòng Xoay](https://open.spotify.com/album/4rnUxTfcedtf8mMwmrQyFE) | 2:56 | 2023-02-17 | 2023-03-30 |
 | [Vô Cực Nhớ Em](https://open.spotify.com/track/1WS11AeGT9BQ7nrrKHT9GS) | [Lil Zpoet](https://open.spotify.com/artist/0T8DkuhhFhdWAMN0bdeLL7) | [Vô Cực Nhớ Em](https://open.spotify.com/album/01fM98W1HGDAZRTC6YoMW7) | 4:00 | 2022-08-08 | 2022-09-28 |
 | [Vô Thường](https://open.spotify.com/track/0Wqxp4vGLSFzBXvPEApigk) | [FSRio](https://open.spotify.com/artist/066RIM4xKxX0yCCBtg3NYY), [Young N](https://open.spotify.com/artist/2LavRswnUDiEi4r2qn006Q) | [Vô Thường](https://open.spotify.com/album/3FZs1sCTsee9pErIGhAYKf) | 3:22 | 2022-08-04 | 2022-08-18 |

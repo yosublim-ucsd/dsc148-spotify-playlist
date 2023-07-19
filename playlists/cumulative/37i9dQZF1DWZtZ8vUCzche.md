@@ -4,7 +4,7 @@
 
 > Enjoy your perfect headphones jam with this eclectic collection of brilliantly produced and recorded tracks\. These can serve as audiophile reference tracks, but they are great music that can be enjoyed on any headphones or stereo as well!  <a href="spotify:user:spotify:playlist:37i9dQZF1DWWISLnAIWyCZ">Classical version here</a>.
 
-332 songs - 1 day 3 hr 22 min
+333 songs - 1 day 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Bad Kingdom](https://open.spotify.com/track/1mCmHiSivRYNDghiq1lfnz) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [II](https://open.spotify.com/album/4mMJMXxteSxAVtAswHN0ky) | 4:22 | 2021-10-15 | 2022-07-05 |
 | [Bad Kingdom](https://open.spotify.com/track/52sUt1HsFxScRUbOxnBQRP) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [II](https://open.spotify.com/album/3WFNF1Hp0UBPswcawDHpUS) | 4:22 | 2022-10-14 |  |
 | [Bad Man's Song](https://open.spotify.com/track/1UNbomPtEUsAAT7hIgV989) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Seeds Of Love \(Remastered with bonus tracks\)](https://open.spotify.com/album/79XgUw5U86BeIiMnZ4Rrht) | 8:32 | 2021-10-15 | 2022-07-29 |
-| [Bad Man's Song](https://open.spotify.com/track/6g76vDAlF0NjRbYypWmwUM) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Seeds Of Love](https://open.spotify.com/album/4oel5wcfKxpWxJuC4VbtuO) | 8:32 | 2022-07-20 |  |
+| [Bad Man's Song](https://open.spotify.com/track/6g76vDAlF0NjRbYypWmwUM) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Seeds Of Love](https://open.spotify.com/album/4oel5wcfKxpWxJuC4VbtuO) | 8:32 | 2022-07-20 | 2023-07-19 |
 | [Barbados](https://open.spotify.com/track/20QLmcD7Gc5AXuvN3jLr9u) | [Arne Domnérus](https://open.spotify.com/artist/1ouwdRCWsw9IBhPoDMrhFv), [Georg Riedel](https://open.spotify.com/artist/3Z1yaFUknAq52KBVmrYpqy), [Bengt Hallberg](https://open.spotify.com/artist/5q3Zh4BS8gJVpcrcGOhk8J), [Lars Erstrand](https://open.spotify.com/artist/5aUwhctK3ivNtJp3DY8bdL), [Egil Johansen](https://open.spotify.com/artist/5o4LY9qwazUWeGPKh52JLw) | [Jazz at the Pawnshop](https://open.spotify.com/album/65NqpWjm4nMMeb8feGIheP) | 8:17 | 2021-10-15 | 2023-02-08 |
 | [Beata viscera \(monophonic conductus\)](https://open.spotify.com/track/1gB7qtssuV9OCnlUnqhoYh) | [Pérotin](https://open.spotify.com/artist/2xeXoF8arRZILlw5MKR2f2), [Tonus Peregrinus](https://open.spotify.com/artist/0K8Dhx1lhmDJaD0kSFyCa8), [Antony Pitts](https://open.spotify.com/artist/5S0hA6Bm22OipedKMmBuyJ) | [Leonin / Perotin: Sacred Music From Notre\-Dame Cathedral](https://open.spotify.com/album/0Bb5GQ7nB7ig8EzjbXr4Kv) | 6:14 | 2021-10-15 |  |
 | [Big Sur Moon](https://open.spotify.com/track/3F7Z3u2gMiTFff8UoUSaFw) | [Buckethead](https://open.spotify.com/artist/0fDF0jjmdouCIeWhNnblwV) | [Colma](https://open.spotify.com/album/0LBQdWnuV0CAXyPIngb0UX) | 1:13 | 2021-10-15 |  |
@@ -153,6 +153,7 @@
 | [Leave](https://open.spotify.com/track/5lpaTYULgbKAwtvpkPjyrZ) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [New Adventures In Hi\-Fi](https://open.spotify.com/album/3pPyHBRk2RvmNn4Cg1Asv6) | 7:17 | 2022-07-20 |  |
 | [Leave Them All Behind](https://open.spotify.com/track/3YJyRIunGnzVfxoMPEld1v) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Going Blank Again \(Remastered\)](https://open.spotify.com/album/6vnwJBMzIGfh8TxAmgBQAU) | 8:17 | 2021-10-15 | 2022-07-29 |
 | [Leave Them All Behind \- 2001 Remaster](https://open.spotify.com/track/0t4JQeO8qLKzQFcXuTitgk) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Going Blank Again \(Expanded\)](https://open.spotify.com/album/5l70cCHX1QzN680J68rblF) | 8:17 | 2022-07-20 |  |
+| [Listen to the Grass Grow](https://open.spotify.com/track/4wVo6hMUpsrjcxrmeYWvdQ) | [Seckou Keita](https://open.spotify.com/artist/3iT2a4ug1Z4miaWS0HINdc), [Catrin Finch](https://open.spotify.com/artist/5YHCN15OUsjGAg1az5m818) | [SOAR](https://open.spotify.com/album/4EYDGs1XVGoNaL9vSA246G) | 4:26 | 2023-07-13 |  |
 | [Little Fluffy Clouds \- 7" Edit](https://open.spotify.com/track/0SiXUBgqtFRk8rGKd0z3LH) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [The Orb \- History Of The Future \(Deluxe Edition\)](https://open.spotify.com/album/7cUZK5ii1GJqR4rYoVflfi) | 4:09 | 2021-10-15 |  |
 | [Lonesome Tears](https://open.spotify.com/track/67mU5cleylyJ0QBP0hlmuG) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Sea Change](https://open.spotify.com/album/5ieP11rJQvuYz0Ov3k03cy) | 5:37 | 2023-02-02 |  |
 | [Los Angeles](https://open.spotify.com/track/4loXMor75kKVBB03ygwDlh) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Days of Thunder](https://open.spotify.com/album/54xM746igJkdPJenRhW1za) | 6:29 | 2022-07-20 |  |

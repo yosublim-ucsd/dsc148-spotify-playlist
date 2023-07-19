@@ -77,6 +77,28 @@
     },
     {
       "album": {
+        "name": "Aku Memilihmu",
+        "url": "https://open.spotify.com/album/4Eupz9BkITuFqlHttMeu9K"
+      },
+      "artists": [
+        {
+          "name": "Brisia Jodie",
+          "url": "https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb"
+        },
+        {
+          "name": "Fabio Asher",
+          "url": "https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231700,
+      "name": "Aku Memilihmu",
+      "url": "https://open.spotify.com/track/7EKp3CMq9Eb0TF8TLsDne4"
+    },
+    {
+      "album": {
         "name": "Aku Terluka",
         "url": "https://open.spotify.com/album/2JPX9QMY45CetMKK8xk3TH"
       },
@@ -350,6 +372,24 @@
       "duration_ms": 187164,
       "name": "Berkunjung Di Hari Raya",
       "url": "https://open.spotify.com/track/6bWQZ2rQR71qPr59MGZurE"
+    },
+    {
+      "album": {
+        "name": "Berona",
+        "url": "https://open.spotify.com/album/0VXwE7HnJZ0HIv6SXuOMh2"
+      },
+      "artists": [
+        {
+          "name": "Rizky Febian",
+          "url": "https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Berona",
+      "url": "https://open.spotify.com/track/5w4u2NiaTnBmiCFZSyQxYY"
     },
     {
       "album": {
@@ -936,7 +976,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 268970,
       "name": "Di Sebalik Rahsia",
       "url": "https://open.spotify.com/track/7yJtvZjco9VZKE22DJTjmu"
@@ -2143,6 +2183,24 @@
     },
     {
       "album": {
+        "name": "Ku Lamar Dia",
+        "url": "https://open.spotify.com/album/2NxMQ93bNHEXz3tHWzbU7i"
+      },
+      "artists": [
+        {
+          "name": "Rizal Rasid",
+          "url": "https://open.spotify.com/artist/0N5dq4m7PRgUGNGdOtuGh8"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241666,
+      "name": "Ku Lamar Dia",
+      "url": "https://open.spotify.com/track/2BQVAvekyCpR2UD4IfySnq"
+    },
+    {
+      "album": {
         "name": "KUDRAT",
         "url": "https://open.spotify.com/album/1ooRJcpC7LJ67yvcXTXN1v"
       },
@@ -2360,6 +2418,24 @@
       "duration_ms": 298290,
       "name": "LOTUS",
       "url": "https://open.spotify.com/track/4CdSVeRvrteDBAyHD4Cruc"
+    },
+    {
+      "album": {
+        "name": "Luarbiasa",
+        "url": "https://open.spotify.com/album/1KZaQnfO2XgQRj75cMtEej"
+      },
+      "artists": [
+        {
+          "name": "Sezairi",
+          "url": "https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214500,
+      "name": "Luarbiasa",
+      "url": "https://open.spotify.com/track/35gZphaBnnB6DuEtpKVK5g"
     },
     {
       "album": {
@@ -2994,7 +3070,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 208746,
       "name": "OVERTHINK",
       "url": "https://open.spotify.com/track/141yK5v32Vw0OsMtkRs8Zo"
@@ -3234,6 +3310,28 @@
       "duration_ms": 320000,
       "name": "Rayuan Perempuan Gila",
       "url": "https://open.spotify.com/track/1nYdkPCbHdYi4w7s2L6SHA"
+    },
+    {
+      "album": {
+        "name": "Rela",
+        "url": "https://open.spotify.com/album/2TrXqIhYVcngGVn74JPfwb"
+      },
+      "artists": [
+        {
+          "name": "Fieya Julia",
+          "url": "https://open.spotify.com/artist/568FFnkRaJ2ZotzzrffSyW"
+        },
+        {
+          "name": "Siti Nur Qhadijah",
+          "url": "https://open.spotify.com/artist/0snfNyT5NgGJoydxmXsdjS"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269743,
+      "name": "Rela",
+      "url": "https://open.spotify.com/track/6WGhlCp1VjXho2pyDvMLbF"
     },
     {
       "album": {
@@ -3582,7 +3680,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 213632,
       "name": "Sampai Syurga - Reimagined",
       "url": "https://open.spotify.com/track/6HCiEHQcv6Cifve8CtM0cl"
@@ -3728,7 +3826,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 213151,
       "name": "Sayunk I Love You",
       "url": "https://open.spotify.com/track/5Fb2E9eZ6I3S8h4Vh4NvSO"
@@ -3768,7 +3866,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 186722,
       "name": "Sebentar",
       "url": "https://open.spotify.com/track/2HkOiHX8LEhuT6eDHYbyYZ"

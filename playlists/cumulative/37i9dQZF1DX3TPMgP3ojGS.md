@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,722 songs - 3 day 5 hr 13 min
+1,723 songs - 3 day 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [All of Me](https://open.spotify.com/track/6p711pj5pLIa6mVJrk2PAx) | [Ellen Courtois](https://open.spotify.com/artist/0N004UmHNdbv2HVHjEDxXa) | [All of Me \(Piano Cover\)](https://open.spotify.com/album/179clPJ1V3pIm47VYmTVs2) | 3:54 | 2021-05-25 | 2022-04-02 |
 | [All the Same](https://open.spotify.com/track/5xy2cj5d2WOTjPkkHuVH84) | [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [All the Same](https://open.spotify.com/album/4l6gpd836O7OwWEj8Pekfo) | 1:53 | 2022-12-24 | 2022-12-29 |
 | [Alle ting treng si tid](https://open.spotify.com/track/0Ove61vF7Mr9YYWTb4ltgN) | [Sigrid Asphaug](https://open.spotify.com/artist/7LHMgCDlLhDqsQYCIRmp1d) | [Alle ting treng si tid](https://open.spotify.com/album/7MMZSlDq6oEv8vqWnpo99f) | 1:55 | 2022-04-14 | 2022-04-18 |
-| [Allena](https://open.spotify.com/track/4xO3mTbZDnaDSJtRdgzXQc) | [M\. Ljungström](https://open.spotify.com/artist/1IkemcErqAi4s4qpJ5J3kT) | [Nostalgia](https://open.spotify.com/album/5m9MHYPBagBRk4rMt26lpN) | 1:39 | 2022-12-22 |  |
+| [Allena](https://open.spotify.com/track/4xO3mTbZDnaDSJtRdgzXQc) | [M\. Ljungström](https://open.spotify.com/artist/1IkemcErqAi4s4qpJ5J3kT) | [Nostalgia](https://open.spotify.com/album/5m9MHYPBagBRk4rMt26lpN) | 1:39 | 2022-12-22 | 2023-07-19 |
 | [Aller Anfang ist schwer](https://open.spotify.com/track/2XVccQz5rm9Uti3hrTmBoB) | [Jens Wechsler](https://open.spotify.com/artist/5BsoSlrs9ny1GMWKpESjyZ) | [Aller Anfang ist schwer](https://open.spotify.com/album/4Yscf6h8fgFnsq5Rbbnofn) | 2:01 | 2021-03-06\* | 2022-04-17 |
 | [Almeda \- The Afterstorm](https://open.spotify.com/track/0zFzeFBStkbUw8yLAsfX8z) | [Almeda](https://open.spotify.com/artist/2X4HKfgm5M8uwMWDLSauFE) | [The Afterstorm](https://open.spotify.com/album/5jeDCmcLvf8Byf8CF7LpvO) | 2:10 | 2022-09-29 | 2023-01-01 |
 | [Almost Here](https://open.spotify.com/track/69hsrgK6UtDli2C17OWO5v) | [Marta Cascales Alimbau](https://open.spotify.com/artist/5xXWh6pIT6H8NzENvUU9HN) | [Almost Here](https://open.spotify.com/album/4L04FqosazM9DVYEwObAUF) | 2:57 | 2021-03-08 | 2021-03-15 |
@@ -1099,6 +1099,7 @@
 | [Peace Within](https://open.spotify.com/track/1Wfu5TKZ6B6B7rkpIEmrUE) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Nocturne](https://open.spotify.com/album/7b2fxYSSumh0ViCuTTUQOc) | 3:48 | 2021-04-02 | 2021-11-16 |
 | [Peaceful Thoughts](https://open.spotify.com/track/5xm1Ot6JDIp5r9SFM6XQrW) | [Listening Wind](https://open.spotify.com/artist/1kgG3gkwM4b5riMk7GVKSz) | [Peaceful Thoughts](https://open.spotify.com/album/0F5GQBM8fyRwcTi3KSU3Ip) | 2:20 | 2023-04-15 | 2023-07-18 |
 | [Pearly White](https://open.spotify.com/track/32e2eC33BCyektlkaYjYIS) | [Adam Fincher](https://open.spotify.com/artist/0PmeWY74IzTbfmYPC3Fsq6) | [Pearly White](https://open.spotify.com/album/5JkhzfBjn2jzwTozpuCrS9) | 2:25 | 2021-04-23 | 2022-04-16 |
+| [Peggy's Cove](https://open.spotify.com/track/7yplIuBnFYA8eUje0Vi0UP) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Peggy's Cove](https://open.spotify.com/album/6u1kaq0ueouDEcdpyyvsFM) | 2:15 | 2023-07-06 |  |
 | [Peinture](https://open.spotify.com/track/4qgftOOU3U9AuzH8Cidlbm) | [Rachmano](https://open.spotify.com/artist/1GRFB3CNdhiQTCVLOMgW4I) | [Peinture](https://open.spotify.com/album/2qrNNJcWzPFI8TmpwkxZZG) | 2:34 | 2022-03-24 | 2022-03-30 |
 | [Pensierino](https://open.spotify.com/track/2r4aYjCB1TuQXVgRIPb3Oe) | [Maura Bellucci](https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW) | [Pensierino](https://open.spotify.com/album/4EpQQNXnD33xDH6Oaw6T8q) | 2:29 | 2022-03-29 | 2022-04-07 |
 | [Pensive](https://open.spotify.com/track/6bYu9TU2rm2rYvlalCReDa) | [Ina Lawson](https://open.spotify.com/artist/6gv5zYOQsJ4vQNAHkGTmLP) | [Pensive](https://open.spotify.com/album/4Ug4sq5SSNzBxx9wgNY2yF) | 2:35 | 2022-03-29 | 2022-04-02 |

@@ -1,12 +1,12 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! \u6b21\u4e16\u4ee3\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u300eBanG Dream!\uff08\u30d0\u30f3\u30c9\u30ea\uff01\uff09\u300f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002",
-  "num_followers": 58638,
+  "num_followers": 58667,
   "original_name": "BanG Dream! \u30d0\u30f3\u30c9\u30ea\uff01\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3\uff01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyM2JlMzQ5YzRmYTU2ZjI5MGIwNDc1ZmRhY2ZlZTkyNjM0NzJmYTU5",
+  "snapshot_id": "MCxjYjg2NTliOTlhOTMxNTI1OTIzOWZjY2QxYjA1NjRhMDk0ZGQ3NzVl",
   "tracks": [
     {
       "added_at": "2023-06-29 16:03:25",
@@ -587,54 +587,6 @@
     {
       "added_at": "2023-06-29 16:03:25",
       "album": {
-        "name": "\u30d4\u30b3\u3063\u3068!\u30d1\u30d4\u3063\u3068!!\u30ac\u30eb\u30d1\u2606\u30d4\u30b3!!!",
-        "url": "https://open.spotify.com/album/1LohNjqaHsQkrLcNZJJjCN"
-      },
-      "artists": [
-        {
-          "name": "\u9999\u6f84",
-          "url": "https://open.spotify.com/artist/2sgl0Q7BtpEJyBTvfZfgaV"
-        },
-        {
-          "name": "\u862d",
-          "url": "https://open.spotify.com/artist/7Is8KdfbbtdKXXaSz61Jeu"
-        },
-        {
-          "name": "\u5f69",
-          "url": "https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69"
-        },
-        {
-          "name": "\u53cb\u5e0c\u90a3",
-          "url": "https://open.spotify.com/artist/0FSUZ6pfjMsJRtrCNOOJkw"
-        },
-        {
-          "name": "\u3053\u3053\u308d",
-          "url": "https://open.spotify.com/artist/71qaQP4Hq29ERluMIIUdyM"
-        }
-      ],
-      "duration_ms": 259466,
-      "name": "\u30d4\u30b3\u3063\u3068!\u30d1\u30d4\u3063\u3068!!\u30ac\u30eb\u30d1\u2606\u30d4\u30b3!!!",
-      "url": "https://open.spotify.com/track/3wQLAbD6vZqRM1RjCKgDVd"
-    },
-    {
-      "added_at": "2023-06-29 16:03:25",
-      "album": {
-        "name": "Breakthrough!",
-        "url": "https://open.spotify.com/album/31WVyzxbAYQTeduFneMNi3"
-      },
-      "artists": [
-        {
-          "name": "Poppin'Party",
-          "url": "https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6"
-        }
-      ],
-      "duration_ms": 323168,
-      "name": "Returns",
-      "url": "https://open.spotify.com/track/3V8PvJTL3QUenvsUHcNFj1"
-    },
-    {
-      "added_at": "2023-06-29 16:03:25",
-      "album": {
         "name": "BanG Dream! Dreamer's Best",
         "url": "https://open.spotify.com/album/7qNDMsNGMiVOrl7psHRxp0"
       },
@@ -663,6 +615,54 @@
       "duration_ms": 262902,
       "name": "CATASTROPHE BANQUET",
       "url": "https://open.spotify.com/track/3Y7Mw5Yj5P3nMfzBwHR6OS"
+    },
+    {
+      "added_at": "2023-06-29 16:03:25",
+      "album": {
+        "name": "Breakthrough!",
+        "url": "https://open.spotify.com/album/31WVyzxbAYQTeduFneMNi3"
+      },
+      "artists": [
+        {
+          "name": "Poppin'Party",
+          "url": "https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6"
+        }
+      ],
+      "duration_ms": 323168,
+      "name": "Returns",
+      "url": "https://open.spotify.com/track/3V8PvJTL3QUenvsUHcNFj1"
+    },
+    {
+      "added_at": "2023-06-29 16:03:25",
+      "album": {
+        "name": "\u30d4\u30b3\u3063\u3068!\u30d1\u30d4\u3063\u3068!!\u30ac\u30eb\u30d1\u2606\u30d4\u30b3!!!",
+        "url": "https://open.spotify.com/album/1LohNjqaHsQkrLcNZJJjCN"
+      },
+      "artists": [
+        {
+          "name": "\u9999\u6f84",
+          "url": "https://open.spotify.com/artist/2sgl0Q7BtpEJyBTvfZfgaV"
+        },
+        {
+          "name": "\u862d",
+          "url": "https://open.spotify.com/artist/7Is8KdfbbtdKXXaSz61Jeu"
+        },
+        {
+          "name": "\u5f69",
+          "url": "https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69"
+        },
+        {
+          "name": "\u53cb\u5e0c\u90a3",
+          "url": "https://open.spotify.com/artist/0FSUZ6pfjMsJRtrCNOOJkw"
+        },
+        {
+          "name": "\u3053\u3053\u308d",
+          "url": "https://open.spotify.com/artist/71qaQP4Hq29ERluMIIUdyM"
+        }
+      ],
+      "duration_ms": 259466,
+      "name": "\u30d4\u30b3\u3063\u3068!\u30d1\u30d4\u3063\u3068!!\u30ac\u30eb\u30d1\u2606\u30d4\u30b3!!!",
+      "url": "https://open.spotify.com/track/3wQLAbD6vZqRM1RjCKgDVd"
     },
     {
       "added_at": "2023-06-29 16:03:25",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-06-29 16:03:25",
       "album": {
-        "name": "ROZEN HORIZON",
-        "url": "https://open.spotify.com/album/6M4B2rkX3eByOIpi9DQaiz"
-      },
-      "artists": [
-        {
-          "name": "Roselia",
-          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
-        }
-      ],
-      "duration_ms": 218602,
-      "name": "\u9583\u5149",
-      "url": "https://open.spotify.com/track/10TQk2XVEhrTxODRemdsxT"
-    },
-    {
-      "added_at": "2023-06-29 16:03:25",
-      "album": {
         "name": "THRONE OF ROSE",
         "url": "https://open.spotify.com/album/5T9zAW5eBxScqxJAp12b4S"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 232433,
       "name": "\u4e00\u9022\u306eFull Glory",
       "url": "https://open.spotify.com/track/7fdvlp4OsE80nmu6zE17UV"
+    },
+    {
+      "added_at": "2023-06-29 16:03:25",
+      "album": {
+        "name": "ROZEN HORIZON",
+        "url": "https://open.spotify.com/album/6M4B2rkX3eByOIpi9DQaiz"
+      },
+      "artists": [
+        {
+          "name": "Roselia",
+          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
+        }
+      ],
+      "duration_ms": 218602,
+      "name": "\u9583\u5149",
+      "url": "https://open.spotify.com/track/10TQk2XVEhrTxODRemdsxT"
     },
     {
       "added_at": "2023-06-29 16:03:25",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-06-29 16:03:25",
       "album": {
-        "name": "\u5287\u5834\u7248\u300cBanG Dream! Episode of Roselia\u300dTheme Songs Collection",
-        "url": "https://open.spotify.com/album/5u6E8FwjrbRDYrVh0SVHlS"
-      },
-      "artists": [
-        {
-          "name": "Roselia",
-          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
-        }
-      ],
-      "duration_ms": 235766,
-      "name": "Proud of oneself",
-      "url": "https://open.spotify.com/track/4DzmwPT3R4WvNK3uoZUti0"
-    },
-    {
-      "added_at": "2023-06-29 16:03:25",
-      "album": {
         "name": "Poppin\u2019on!",
         "url": "https://open.spotify.com/album/4zb8XgVyapzSvGKBdvO5sI"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 257665,
       "name": "\u3068\u304d\u3081\u304d\u30a8\u30af\u30b9\u30da\u30ea\u30a8\u30f3\u30b9!",
       "url": "https://open.spotify.com/track/02BsKsy19crntOUIhTG8Si"
+    },
+    {
+      "added_at": "2023-06-29 16:03:25",
+      "album": {
+        "name": "\u5287\u5834\u7248\u300cBanG Dream! Episode of Roselia\u300dTheme Songs Collection",
+        "url": "https://open.spotify.com/album/5u6E8FwjrbRDYrVh0SVHlS"
+      },
+      "artists": [
+        {
+          "name": "Roselia",
+          "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
+        }
+      ],
+      "duration_ms": 235766,
+      "name": "Proud of oneself",
+      "url": "https://open.spotify.com/track/4DzmwPT3R4WvNK3uoZUti0"
     }
   ],
   "unique_name": "BanG Dream! \u30d0\u30f3\u30c9\u30ea\uff01\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3\uff01",

@@ -1,12 +1,12 @@
 {
   "description": "Work or rest with these gems from the 80s.",
-  "num_followers": 204605,
+  "num_followers": 204687,
   "original_name": "Chilled 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTUwYzVkOTZjYWUyZmVkMGEzODE5YTliZjNlZGQyOWYxNDQxZWU5",
+  "snapshot_id": "MCwxOGZjNGNkYTRhMDFkOGRjYWQ2NTI3ZGNjZGZjMGNkNmNiMzJjZmE3",
   "tracks": [
     {
       "added_at": "2018-12-12 11:36:39",
@@ -135,26 +135,6 @@
       "duration_ms": 249533,
       "name": "Night Nurse",
       "url": "https://open.spotify.com/track/4DQttwipnILl88cru3BRZx"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
-        "name": "The Seeds Of Love",
-        "url": "https://open.spotify.com/album/4oel5wcfKxpWxJuC4VbtuO"
-      },
-      "artists": [
-        {
-          "name": "Tears For Fears",
-          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
-        },
-        {
-          "name": "Oleta Adams",
-          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
-        }
-      ],
-      "duration_ms": 391000,
-      "name": "Woman In Chains",
-      "url": "https://open.spotify.com/track/5jmwL2MniQj9ldptIm1h1B"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -303,22 +283,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "The Final",
-        "url": "https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 302600,
-      "name": "Careless Whisper",
-      "url": "https://open.spotify.com/track/2R7858bg0GHuBBxjTyOL7N"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Ultimate Air Supply",
         "url": "https://open.spotify.com/album/5PXeBHFjvr8EykHfFxJMje"
       },
@@ -331,6 +295,22 @@
       "duration_ms": 241373,
       "name": "All Out of Love",
       "url": "https://open.spotify.com/track/6Nq8YtPAHuL1outooeiFde"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "The Final",
+        "url": "https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 302600,
+      "name": "Careless Whisper",
+      "url": "https://open.spotify.com/track/2R7858bg0GHuBBxjTyOL7N"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -399,22 +379,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "The Joshua Tree (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 257365,
-      "name": "Running To Stand Still",
-      "url": "https://open.spotify.com/track/4MLPCRYNhDIKcRjzS54ceu"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Stay on These Roads",
         "url": "https://open.spotify.com/album/6lka22PtQOmCt5ri8GPSZm"
       },
@@ -427,6 +391,22 @@
       "duration_ms": 171573,
       "name": "There's Never a Forever Thing",
       "url": "https://open.spotify.com/track/5OWV0zaieHKpIW5O2EbRjy"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 257365,
+      "name": "Running To Stand Still",
+      "url": "https://open.spotify.com/track/4MLPCRYNhDIKcRjzS54ceu"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -655,22 +635,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Stronger Than Pride",
-        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 253200,
-      "name": "I Never Thought I'd See the Day",
-      "url": "https://open.spotify.com/track/6Y3h8CAOKtFSKGN1hTRA1D"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Thirty Thousand Feet Over China",
         "url": "https://open.spotify.com/album/5Obv3KwOfysf310dXYqXQH"
       },
@@ -699,6 +663,22 @@
       "duration_ms": 189760,
       "name": "Mystified - 2017 Remaster",
       "url": "https://open.spotify.com/track/524nCOIQg9fi0pETVnbpv8"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Stronger Than Pride",
+        "url": "https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 253200,
+      "name": "I Never Thought I'd See the Day",
+      "url": "https://open.spotify.com/track/6Y3h8CAOKtFSKGN1hTRA1D"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -803,22 +783,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Chariots Of Fire (Original Motion Picture Soundtrack / Remastered)",
-        "url": "https://open.spotify.com/album/2G0x71VHZ7XLJlm56LzVX2"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 200466,
-      "name": "Abraham's Theme",
-      "url": "https://open.spotify.com/track/463b8SF7KXrU5oqHgZKSOc"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "The Immaculate Collection",
         "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
       },
@@ -831,6 +795,22 @@
       "duration_ms": 318773,
       "name": "Live to Tell",
       "url": "https://open.spotify.com/track/4osrEm2iY3QcTUcQuFUtfW"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Chariots Of Fire (Original Motion Picture Soundtrack / Remastered)",
+        "url": "https://open.spotify.com/album/2G0x71VHZ7XLJlm56LzVX2"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 200466,
+      "name": "Abraham's Theme",
+      "url": "https://open.spotify.com/track/463b8SF7KXrU5oqHgZKSOc"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -1031,22 +1011,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Gentlemen Take Polaroids",
-        "url": "https://open.spotify.com/album/0RhywRDYdXYC5Qzk0iIprW"
-      },
-      "artists": [
-        {
-          "name": "Japan",
-          "url": "https://open.spotify.com/artist/7vPXrGlSGukcwpaPxUfKKR"
-        }
-      ],
-      "duration_ms": 419173,
-      "name": "Nightporter - Remastered 2003",
-      "url": "https://open.spotify.com/track/5Wj1LsuKos3wyQNnWZqJTz"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Red",
         "url": "https://open.spotify.com/album/2Av2EXgkvzZbq3sJqQAUaE"
       },
@@ -1059,6 +1023,22 @@
       "duration_ms": 303293,
       "name": "For a Friend",
       "url": "https://open.spotify.com/track/6Cfvxx7v5MxCzGQOXjxo35"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Gentlemen Take Polaroids",
+        "url": "https://open.spotify.com/album/0RhywRDYdXYC5Qzk0iIprW"
+      },
+      "artists": [
+        {
+          "name": "Japan",
+          "url": "https://open.spotify.com/artist/7vPXrGlSGukcwpaPxUfKKR"
+        }
+      ],
+      "duration_ms": 419173,
+      "name": "Nightporter - Remastered 2003",
+      "url": "https://open.spotify.com/track/5Wj1LsuKos3wyQNnWZqJTz"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -1255,22 +1235,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Paris, Texas - Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/4ojAu7ZFZzFmBDiyR25sBy"
-      },
-      "artists": [
-        {
-          "name": "Ry Cooder",
-          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
-        }
-      ],
-      "duration_ms": 172560,
-      "name": "Paris, Texas",
-      "url": "https://open.spotify.com/track/3PxtlY1d9VbTMkveVdbMYI"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Hats",
         "url": "https://open.spotify.com/album/4pLVvQiysxBwbUuSB3ceQv"
       },
@@ -1287,6 +1251,22 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
+        "name": "Paris, Texas - Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/4ojAu7ZFZzFmBDiyR25sBy"
+      },
+      "artists": [
+        {
+          "name": "Ry Cooder",
+          "url": "https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx"
+        }
+      ],
+      "duration_ms": 172560,
+      "name": "Paris, Texas",
+      "url": "https://open.spotify.com/track/3PxtlY1d9VbTMkveVdbMYI"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
         "name": "Avalon Sunset",
         "url": "https://open.spotify.com/album/2vE3SSFPxYt7jRu93j6rsi"
       },
@@ -1299,6 +1279,22 @@
       "duration_ms": 298826,
       "name": "Contacting My Angel",
       "url": "https://open.spotify.com/track/3oy4xC2pSV0ieFvd7RAYAH"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Clutching at Straws",
+        "url": "https://open.spotify.com/album/7M6qdztBAZADkaYJ6bIEhF"
+      },
+      "artists": [
+        {
+          "name": "Marillion",
+          "url": "https://open.spotify.com/artist/7ai5TWiOG8g9Hds5AATS28"
+        }
+      ],
+      "duration_ms": 167200,
+      "name": "Going Under - 1999 Remaster",
+      "url": "https://open.spotify.com/track/6kA1l7KGrDD9DD1h3oZZLc"
     }
   ],
   "unique_name": "Chilled 80s",

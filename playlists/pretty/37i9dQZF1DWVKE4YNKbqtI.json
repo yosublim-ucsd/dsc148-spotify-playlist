@@ -1,12 +1,12 @@
 {
   "description": "Little Walter, Junior Wells, James Cotton the finest blues harmonica players.",
-  "num_followers": 9065,
+  "num_followers": 9071,
   "original_name": "Blues Harp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmQwOWYzNGJhYjA5ODE4NGMxOTc1MDg4ZGNmZWE4OGMzYjRiZGIz",
+  "snapshot_id": "MCwzMjYzMjVmZmFlZWVkZjM2OTZiNjM0NzZmNTUzNjkyYzQ1Nzc3N2Ji",
   "tracks": [
     {
       "added_at": "2022-02-04 05:02:00",
@@ -299,6 +299,22 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
+        "name": "Harpslinger",
+        "url": "https://open.spotify.com/album/324FrIkjqOJ7rwTS4vGarw"
+      },
+      "artists": [
+        {
+          "name": "Carey Bell",
+          "url": "https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs"
+        }
+      ],
+      "duration_ms": 184600,
+      "name": "What My Mama Told Me",
+      "url": "https://open.spotify.com/track/7HLVfPFYRba4she3c0qIAp"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
         "name": "Harp Attack!",
         "url": "https://open.spotify.com/album/1zivuph8N0dHpL4k0SA94b"
       },
@@ -323,22 +339,6 @@
       "duration_ms": 383933,
       "name": "Down Home Blues",
       "url": "https://open.spotify.com/track/3OHj5SY6j7Ftmfa7qZJWoa"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
-        "name": "Harpslinger",
-        "url": "https://open.spotify.com/album/324FrIkjqOJ7rwTS4vGarw"
-      },
-      "artists": [
-        {
-          "name": "Carey Bell",
-          "url": "https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs"
-        }
-      ],
-      "duration_ms": 184600,
-      "name": "What My Mama Told Me",
-      "url": "https://open.spotify.com/track/7HLVfPFYRba4she3c0qIAp"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -391,22 +391,6 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "Deep In The Blues",
-        "url": "https://open.spotify.com/album/1oH2NSqTzggdoVlUcUxLvU"
-      },
-      "artists": [
-        {
-          "name": "James Cotton",
-          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Play With Your Poodle",
-      "url": "https://open.spotify.com/track/3HR1zeLxoPmGuFD8Qxu0Jq"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
         "name": "No Mercy In This Land (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6iwWWapZi9KtLsdfoGG3X4"
       },
@@ -427,6 +411,22 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
+        "name": "Heartaches And Pain",
+        "url": "https://open.spotify.com/album/7hmhwWISoILoobUdovmoxC"
+      },
+      "artists": [
+        {
+          "name": "Carey Bell",
+          "url": "https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs"
+        }
+      ],
+      "duration_ms": 211426,
+      "name": "Carey Bell Rocks",
+      "url": "https://open.spotify.com/track/0vZun5MdpB8oEjq2Ekw4K9"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
         "name": "Shoulder To Shoulder",
         "url": "https://open.spotify.com/album/6mHbgI7rA71VIDAgy2z1YV"
       },
@@ -443,18 +443,18 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "Heartaches And Pain",
-        "url": "https://open.spotify.com/album/7hmhwWISoILoobUdovmoxC"
+        "name": "Deep In The Blues",
+        "url": "https://open.spotify.com/album/1oH2NSqTzggdoVlUcUxLvU"
       },
       "artists": [
         {
-          "name": "Carey Bell",
-          "url": "https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs"
+          "name": "James Cotton",
+          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
         }
       ],
-      "duration_ms": 211426,
-      "name": "Carey Bell Rocks",
-      "url": "https://open.spotify.com/track/0vZun5MdpB8oEjq2Ekw4K9"
+      "duration_ms": 219000,
+      "name": "Play With Your Poodle",
+      "url": "https://open.spotify.com/track/3HR1zeLxoPmGuFD8Qxu0Jq"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -527,26 +527,6 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "Cotton Mouth Man",
-        "url": "https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS"
-      },
-      "artists": [
-        {
-          "name": "James Cotton",
-          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
-        },
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 227373,
-      "name": "Cotton Mouth Man",
-      "url": "https://open.spotify.com/track/05OUC91VXFLsMddV7yKaZC"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
         "name": "Dirty Memory",
         "url": "https://open.spotify.com/album/2UXZqPLmcmB6aa9T8AJFxn"
       },
@@ -583,22 +563,6 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "One Wrong Turn",
-        "url": "https://open.spotify.com/album/4cJ6p2UKcmZwOSHppR4CXl"
-      },
-      "artists": [
-        {
-          "name": "Rick Estrin & The Nightcats",
-          "url": "https://open.spotify.com/artist/0uo6ltSYsMbp4go8nPQ80U"
-        }
-      ],
-      "duration_ms": 313680,
-      "name": "Callin' All Fools",
-      "url": "https://open.spotify.com/track/43J5N4yyxOSCrTZ9PD7dpF"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
         "name": "Alone With The Blues",
         "url": "https://open.spotify.com/album/3BhmnjO4QezeG8TVE6dRfJ"
       },
@@ -615,6 +579,42 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
+        "name": "Cotton Mouth Man",
+        "url": "https://open.spotify.com/album/6U2Fh67Pk4hme1KoSJlrdS"
+      },
+      "artists": [
+        {
+          "name": "James Cotton",
+          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
+        },
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 227373,
+      "name": "Cotton Mouth Man",
+      "url": "https://open.spotify.com/track/05OUC91VXFLsMddV7yKaZC"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
+        "name": "One Wrong Turn",
+        "url": "https://open.spotify.com/album/4cJ6p2UKcmZwOSHppR4CXl"
+      },
+      "artists": [
+        {
+          "name": "Rick Estrin & The Nightcats",
+          "url": "https://open.spotify.com/artist/0uo6ltSYsMbp4go8nPQ80U"
+        }
+      ],
+      "duration_ms": 313680,
+      "name": "Callin' All Fools",
+      "url": "https://open.spotify.com/track/43J5N4yyxOSCrTZ9PD7dpF"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
         "name": "Code Blue",
         "url": "https://open.spotify.com/album/6MEW2dr1ze84kOgFtPi4uD"
       },
@@ -627,26 +627,6 @@
       "duration_ms": 548440,
       "name": "Bad Boys Heaven",
       "url": "https://open.spotify.com/track/4xfJSNaQN5eRUL78mor3nj"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
-        "name": "Dirty Memory",
-        "url": "https://open.spotify.com/album/2UXZqPLmcmB6aa9T8AJFxn"
-      },
-      "artists": [
-        {
-          "name": "JJ Appleton",
-          "url": "https://open.spotify.com/artist/5c2q4cX88ZOW2uVL47EKwE"
-        },
-        {
-          "name": "Jason Ricci",
-          "url": "https://open.spotify.com/artist/7EV8gsN4cvguOI67kcnYAN"
-        }
-      ],
-      "duration_ms": 217376,
-      "name": "Can't Believe It's This Good",
-      "url": "https://open.spotify.com/track/32HudsU4xtWFuNWnmb6XPe"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -679,6 +659,26 @@
       "duration_ms": 253133,
       "name": "Mood Room Boogie",
       "url": "https://open.spotify.com/track/71Vue1WdbaB8aP79Nmhd76"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
+        "name": "Dirty Memory",
+        "url": "https://open.spotify.com/album/2UXZqPLmcmB6aa9T8AJFxn"
+      },
+      "artists": [
+        {
+          "name": "JJ Appleton",
+          "url": "https://open.spotify.com/artist/5c2q4cX88ZOW2uVL47EKwE"
+        },
+        {
+          "name": "Jason Ricci",
+          "url": "https://open.spotify.com/artist/7EV8gsN4cvguOI67kcnYAN"
+        }
+      ],
+      "duration_ms": 217376,
+      "name": "Can't Believe It's This Good",
+      "url": "https://open.spotify.com/track/32HudsU4xtWFuNWnmb6XPe"
     },
     {
       "added_at": "2020-10-22 17:19:34",
@@ -755,22 +755,6 @@
     {
       "added_at": "2020-10-22 17:19:34",
       "album": {
-        "name": "Jazz Gillum Vol. 2 1938-1941",
-        "url": "https://open.spotify.com/album/6wY2gJuBm2BMJHpD1svDN6"
-      },
-      "artists": [
-        {
-          "name": "Jazz Gillum",
-          "url": "https://open.spotify.com/artist/6GFrr6eHPyDtqguamN8vLg"
-        }
-      ],
-      "duration_ms": 163527,
-      "name": "Key To The Highway",
-      "url": "https://open.spotify.com/track/4wGcFx9voRJ51U989ty9wp"
-    },
-    {
-      "added_at": "2020-10-22 17:19:34",
-      "album": {
         "name": "Harpbreaker",
         "url": "https://open.spotify.com/album/0HGQj36FzCKitSWq3jy2lX"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 224613,
       "name": "Harpoventilatin'",
       "url": "https://open.spotify.com/track/0hMR8CTSJLrRjOgoE7apDR"
+    },
+    {
+      "added_at": "2020-10-22 17:19:34",
+      "album": {
+        "name": "Jazz Gillum Vol. 2 1938-1941",
+        "url": "https://open.spotify.com/album/6wY2gJuBm2BMJHpD1svDN6"
+      },
+      "artists": [
+        {
+          "name": "Jazz Gillum",
+          "url": "https://open.spotify.com/artist/6GFrr6eHPyDtqguamN8vLg"
+        }
+      ],
+      "duration_ms": 163527,
+      "name": "Key To The Highway",
+      "url": "https://open.spotify.com/track/4wGcFx9voRJ51U989ty9wp"
     },
     {
       "added_at": "2020-10-22 17:19:34",

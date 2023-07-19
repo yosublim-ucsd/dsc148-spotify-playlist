@@ -1,12 +1,12 @@
 {
   "description": "From Annakili to Viduthalai - all the essential tracks of Isaignani!",
-  "num_followers": 86897,
+  "num_followers": 86943,
   "original_name": "Raaja Rules!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTYyMjkyOTE4OGU5NGIzNmQzMGJmODgzM2FhMDliNjZmYzJmZjFm",
+  "snapshot_id": "MCwyY2YwNjgyMzM1MjBjMDljNzU1MWMxM2YyODMyNThmZjYyZjIzNDM1",
   "tracks": [
     {
       "added_at": "2023-04-10 07:53:03",
@@ -583,8 +583,8 @@
     {
       "added_at": "2021-11-01 22:30:53",
       "album": {
-        "name": "Kadalukku Mariyadai (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6xLO2UUJAOFyxtuBg025zz"
+        "name": "Nayagan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6tvR1AlRK1z0nw0o7XuRyl"
       },
       "artists": [
         {
@@ -592,13 +592,13 @@
           "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
         },
         {
-          "name": "Palani Bharathi",
-          "url": "https://open.spotify.com/artist/6zG98UhwxKWvhuhHk47Nrb"
+          "name": "Kamal Haasan",
+          "url": "https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6"
         }
       ],
-      "duration_ms": 304920,
-      "name": "Ennai Thalatta Varuvala (Duet)",
-      "url": "https://open.spotify.com/track/4MezfRc3Yw4m7PvFPF85o8"
+      "duration_ms": 272639,
+      "name": "Thenpandi Cheemayile",
+      "url": "https://open.spotify.com/track/4b5m9ozBsFjIhDbg0IRpbL"
     },
     {
       "added_at": "2021-11-01 22:30:53",
@@ -899,8 +899,8 @@
     {
       "added_at": "2021-11-01 22:30:53",
       "album": {
-        "name": "Geethanjali (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/38ihouw8K3hrn1E1Z6rmdE"
+        "name": "Vettri Vizhaa (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4B9wkh8i4A5AfLFIjsXhcP"
       },
       "artists": [
         {
@@ -908,13 +908,13 @@
           "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
         },
         {
-          "name": "Ilaiyaraaja",
-          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
+          "name": "S. P. Balasubrahmanyam",
+          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
         }
       ],
-      "duration_ms": 306625,
-      "name": "Thulli Ezhunthathu",
-      "url": "https://open.spotify.com/track/0zTfBFzN5UEK228S2bVLob"
+      "duration_ms": 274293,
+      "name": "Pungatru Un Peru Solla",
+      "url": "https://open.spotify.com/track/2UGInlOrb02vWNZJPGJe0C"
     },
     {
       "added_at": "2021-11-01 22:30:53",
@@ -1055,8 +1055,8 @@
     {
       "added_at": "2021-11-01 22:30:53",
       "album": {
-        "name": "Vettri Vizhaa (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4B9wkh8i4A5AfLFIjsXhcP"
+        "name": "Geethanjali (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/38ihouw8K3hrn1E1Z6rmdE"
       },
       "artists": [
         {
@@ -1064,13 +1064,13 @@
           "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
         },
         {
-          "name": "S. P. Balasubrahmanyam",
-          "url": "https://open.spotify.com/artist/2ae6PxICSOZHvjqiCcgon8"
+          "name": "Ilaiyaraaja",
+          "url": "https://open.spotify.com/artist/3m49WVMU4zCkaVEKb8kFW7"
         }
       ],
-      "duration_ms": 274293,
-      "name": "Pungatru Un Peru Solla",
-      "url": "https://open.spotify.com/track/2UGInlOrb02vWNZJPGJe0C"
+      "duration_ms": 306625,
+      "name": "Thulli Ezhunthathu",
+      "url": "https://open.spotify.com/track/0zTfBFzN5UEK228S2bVLob"
     },
     {
       "added_at": "2021-11-01 22:30:53",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2021-11-01 22:30:53",
       "album": {
+        "name": "Naan Kadavul (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4kAj5WokSO4FziRRSaeu68"
+      },
+      "artists": [
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        }
+      ],
+      "duration_ms": 367438,
+      "name": "Om Shiva Hom",
+      "url": "https://open.spotify.com/track/77erMdZh4xXwtFs3HgPBBT"
+    },
+    {
+      "added_at": "2021-11-01 22:30:53",
+      "album": {
         "name": "Kummi Paattu (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4jEi1Bws5dSu3I1CICWHhp"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 302497,
       "name": "Aasai Machaan",
       "url": "https://open.spotify.com/track/2S5utQE6my0qj3N5G69pTj"
-    },
-    {
-      "added_at": "2021-11-01 22:30:53",
-      "album": {
-        "name": "Naan Kadavul (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4kAj5WokSO4FziRRSaeu68"
-      },
-      "artists": [
-        {
-          "name": "Vijay Prakash",
-          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
-        }
-      ],
-      "duration_ms": 367438,
-      "name": "Om Shiva Hom",
-      "url": "https://open.spotify.com/track/77erMdZh4xXwtFs3HgPBBT"
     },
     {
       "added_at": "2021-11-01 22:30:53",
@@ -1325,6 +1325,26 @@
       "url": "https://open.spotify.com/track/6qGIumgcINzxPT2Rm7T0Ai"
     },
     {
+      "added_at": "2021-11-01 22:30:53",
+      "album": {
+        "name": "Hits Of Ilaiyaraaja Vol. 2",
+        "url": "https://open.spotify.com/album/2QUw3iVfKwOqqRuhJW7Bwk"
+      },
+      "artists": [
+        {
+          "name": "Jency",
+          "url": "https://open.spotify.com/artist/3M6HYnxCfbI1Szo8zxnh1K"
+        },
+        {
+          "name": "B. Vasantha",
+          "url": "https://open.spotify.com/artist/5j6UDoyTWhR7ZQIixEnVsN"
+        }
+      ],
+      "duration_ms": 272583,
+      "name": "Thamthananam",
+      "url": "https://open.spotify.com/track/3zVDnsM7aJ0IqvgbURkiHj"
+    },
+    {
       "added_at": "2022-03-29 06:20:24",
       "album": {
         "name": "Enga Ooru Kavalkaran (Original Motion Picture Soundtrack)",
@@ -1347,26 +1367,6 @@
     {
       "added_at": "2021-11-01 22:30:53",
       "album": {
-        "name": "Nayagan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6tvR1AlRK1z0nw0o7XuRyl"
-      },
-      "artists": [
-        {
-          "name": "Jamuna Rani",
-          "url": "https://open.spotify.com/artist/4t60yWsKCyYh5o5Wh0XjIC"
-        },
-        {
-          "name": "M. S. Rajeswari",
-          "url": "https://open.spotify.com/artist/3I3pFXPrajmohKbRvtRZUt"
-        }
-      ],
-      "duration_ms": 286619,
-      "name": "Naan Sirithal Deepavali",
-      "url": "https://open.spotify.com/track/1sltnqtXHIFNCexkoZQMQI"
-    },
-    {
-      "added_at": "2021-11-01 22:30:53",
-      "album": {
         "name": "Panakkaran (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1Td4SX8bkZeh9EI3o4KtnB"
       },
@@ -1383,22 +1383,22 @@
     {
       "added_at": "2021-11-01 22:30:53",
       "album": {
-        "name": "Hits Of Ilaiyaraaja Vol. 2",
-        "url": "https://open.spotify.com/album/2QUw3iVfKwOqqRuhJW7Bwk"
+        "name": "Nayagan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6tvR1AlRK1z0nw0o7XuRyl"
       },
       "artists": [
         {
-          "name": "Jency",
-          "url": "https://open.spotify.com/artist/3M6HYnxCfbI1Szo8zxnh1K"
+          "name": "Jamuna Rani",
+          "url": "https://open.spotify.com/artist/4t60yWsKCyYh5o5Wh0XjIC"
         },
         {
-          "name": "B. Vasantha",
-          "url": "https://open.spotify.com/artist/5j6UDoyTWhR7ZQIixEnVsN"
+          "name": "M. S. Rajeswari",
+          "url": "https://open.spotify.com/artist/3I3pFXPrajmohKbRvtRZUt"
         }
       ],
-      "duration_ms": 272583,
-      "name": "Thamthananam",
-      "url": "https://open.spotify.com/track/3zVDnsM7aJ0IqvgbURkiHj"
+      "duration_ms": 286619,
+      "name": "Naan Sirithal Deepavali",
+      "url": "https://open.spotify.com/track/1sltnqtXHIFNCexkoZQMQI"
     },
     {
       "added_at": "2021-11-01 22:30:53",
@@ -1439,26 +1439,6 @@
     {
       "added_at": "2021-11-01 22:30:53",
       "album": {
-        "name": "Rajathi Raja (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6CUMZcymEySiKKbNxEG6nO"
-      },
-      "artists": [
-        {
-          "name": "P. Susheela",
-          "url": "https://open.spotify.com/artist/0aFGod7DM6b3O5l1AmvFwK"
-        },
-        {
-          "name": "K. S. Chithra",
-          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
-        }
-      ],
-      "duration_ms": 281347,
-      "name": "Un Nenja Thottu Sollu",
-      "url": "https://open.spotify.com/track/4pASa5bZEoPsFoA2YTt8ji"
-    },
-    {
-      "added_at": "2021-11-01 22:30:53",
-      "album": {
         "name": "Friends (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3GpvBVv3o7npAx0be4ZMc9"
       },
@@ -1475,6 +1455,26 @@
       "duration_ms": 356310,
       "name": "Thendral Varum",
       "url": "https://open.spotify.com/track/41cIjsCqb0tAobmvSUGGmw"
+    },
+    {
+      "added_at": "2021-11-01 22:30:53",
+      "album": {
+        "name": "Rajathi Raja (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6CUMZcymEySiKKbNxEG6nO"
+      },
+      "artists": [
+        {
+          "name": "P. Susheela",
+          "url": "https://open.spotify.com/artist/0aFGod7DM6b3O5l1AmvFwK"
+        },
+        {
+          "name": "K. S. Chithra",
+          "url": "https://open.spotify.com/artist/2IUtwMti1OiT3lkW6RubgH"
+        }
+      ],
+      "duration_ms": 281347,
+      "name": "Un Nenja Thottu Sollu",
+      "url": "https://open.spotify.com/track/4pASa5bZEoPsFoA2YTt8ji"
     },
     {
       "added_at": "2021-11-01 22:30:53",
@@ -1571,22 +1571,18 @@
     {
       "added_at": "2021-11-01 22:30:53",
       "album": {
-        "name": "Darling Darling Darling",
-        "url": "https://open.spotify.com/album/7fDgBrJyR2FY92kKljM0Fy"
+        "name": "Kaasi",
+        "url": "https://open.spotify.com/album/2XnITBsPXdedwMdxBZAJCL"
       },
       "artists": [
         {
-          "name": "P. Susheela",
-          "url": "https://open.spotify.com/artist/0aFGod7DM6b3O5l1AmvFwK"
-        },
-        {
-          "name": "T. M. Soundararajan",
-          "url": "https://open.spotify.com/artist/4y01WeCT5mNIAYRPjJ4sgj"
+          "name": "Hariharan",
+          "url": "https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu"
         }
       ],
-      "duration_ms": 274007,
-      "name": "Neramithu",
-      "url": "https://open.spotify.com/track/5eMWYZadSh7zAonGaD3pVj"
+      "duration_ms": 272326,
+      "name": "Naan Kaanum",
+      "url": "https://open.spotify.com/track/2ej7V9WfBhUpwbFwJHdG4Z"
     },
     {
       "added_at": "2022-03-31 16:28:48",
@@ -1651,24 +1647,8 @@
     {
       "added_at": "2021-11-01 22:30:53",
       "album": {
-        "name": "Kaasi",
-        "url": "https://open.spotify.com/album/2XnITBsPXdedwMdxBZAJCL"
-      },
-      "artists": [
-        {
-          "name": "Hariharan",
-          "url": "https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu"
-        }
-      ],
-      "duration_ms": 272326,
-      "name": "Naan Kaanum",
-      "url": "https://open.spotify.com/track/2ej7V9WfBhUpwbFwJHdG4Z"
-    },
-    {
-      "added_at": "2022-03-29 06:20:24",
-      "album": {
-        "name": "Rasave Unnai Nambi (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0nB6JRzo1pdOKUtSGz33zX"
+        "name": "Darling Darling Darling",
+        "url": "https://open.spotify.com/album/7fDgBrJyR2FY92kKljM0Fy"
       },
       "artists": [
         {
@@ -1676,13 +1656,13 @@
           "url": "https://open.spotify.com/artist/0aFGod7DM6b3O5l1AmvFwK"
         },
         {
-          "name": "Mano",
-          "url": "https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um"
+          "name": "T. M. Soundararajan",
+          "url": "https://open.spotify.com/artist/4y01WeCT5mNIAYRPjJ4sgj"
         }
       ],
-      "duration_ms": 313026,
-      "name": "Raasathi Manasule",
-      "url": "https://open.spotify.com/track/5QFxNEwwavWuRNratP6AKJ"
+      "duration_ms": 274007,
+      "name": "Neramithu",
+      "url": "https://open.spotify.com/track/5eMWYZadSh7zAonGaD3pVj"
     },
     {
       "added_at": "2021-11-01 22:30:53",
@@ -1731,6 +1711,22 @@
       "duration_ms": 333479,
       "name": "Anjali Anjali",
       "url": "https://open.spotify.com/track/782KVimYTgfA62855WXVTn"
+    },
+    {
+      "added_at": "2021-11-01 22:30:53",
+      "album": {
+        "name": "Hariharan Hits at Ilayaraja Music",
+        "url": "https://open.spotify.com/album/4GhVQ52u91qu4JbAAZHLWn"
+      },
+      "artists": [
+        {
+          "name": "Hariharan",
+          "url": "https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu"
+        }
+      ],
+      "duration_ms": 361613,
+      "name": "Nilavupattu (From Kannukul Nilavu)",
+      "url": "https://open.spotify.com/track/63O01jaB9fCijeYZOtIXe7"
     },
     {
       "added_at": "2021-11-01 22:30:53",
@@ -1827,22 +1823,6 @@
     {
       "added_at": "2021-11-01 22:30:53",
       "album": {
-        "name": "Darling Darling Darling",
-        "url": "https://open.spotify.com/album/7fDgBrJyR2FY92kKljM0Fy"
-      },
-      "artists": [
-        {
-          "name": "P. Susheela",
-          "url": "https://open.spotify.com/artist/0aFGod7DM6b3O5l1AmvFwK"
-        }
-      ],
-      "duration_ms": 284119,
-      "name": "Darling Darling",
-      "url": "https://open.spotify.com/track/22vmzlHuJnpAJwVe20U7qe"
-    },
-    {
-      "added_at": "2021-11-01 22:30:53",
-      "album": {
         "name": "Kavikkuyil (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/66fr6TrP8uBgnrgAm1jAXC"
       },
@@ -1859,22 +1839,6 @@
     {
       "added_at": "2021-11-01 22:30:53",
       "album": {
-        "name": "Hariharan Hits at Ilayaraja Music",
-        "url": "https://open.spotify.com/album/4GhVQ52u91qu4JbAAZHLWn"
-      },
-      "artists": [
-        {
-          "name": "Hariharan",
-          "url": "https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu"
-        }
-      ],
-      "duration_ms": 361613,
-      "name": "Nilavupattu (From Kannukul Nilavu)",
-      "url": "https://open.spotify.com/track/63O01jaB9fCijeYZOtIXe7"
-    },
-    {
-      "added_at": "2021-11-01 22:30:53",
-      "album": {
         "name": "Naan Vaazha Vaippen (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4kjsvwiandohHIFayQIAiG"
       },
@@ -1887,6 +1851,46 @@
       "duration_ms": 243560,
       "name": "Endhan Ponvanname - Male Vocals",
       "url": "https://open.spotify.com/track/2byOUFBzsm2CpyrDvJYe8v"
+    },
+    {
+      "added_at": "2022-03-29 06:20:24",
+      "album": {
+        "name": "Rasave Unnai Nambi (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0nB6JRzo1pdOKUtSGz33zX"
+      },
+      "artists": [
+        {
+          "name": "P. Susheela",
+          "url": "https://open.spotify.com/artist/0aFGod7DM6b3O5l1AmvFwK"
+        },
+        {
+          "name": "Mano",
+          "url": "https://open.spotify.com/artist/3NzhVoa20crNtp1p4zE8um"
+        }
+      ],
+      "duration_ms": 313026,
+      "name": "Raasathi Manasule",
+      "url": "https://open.spotify.com/track/5QFxNEwwavWuRNratP6AKJ"
+    },
+    {
+      "added_at": "2021-11-01 22:30:53",
+      "album": {
+        "name": "Devar Magan",
+        "url": "https://open.spotify.com/album/5o3RgTQpbSjQeMvVlpXeU6"
+      },
+      "artists": [
+        {
+          "name": "Kamal Haasan",
+          "url": "https://open.spotify.com/artist/5asJ8jtjk36r5PW5upyJm6"
+        },
+        {
+          "name": "S. Janaki",
+          "url": "https://open.spotify.com/artist/5Xpg6PBSUOoho2lI9qLjiu"
+        }
+      ],
+      "duration_ms": 209031,
+      "name": "Inji Idupazhagi",
+      "url": "https://open.spotify.com/track/4LSvEyv1uzh8i80fTeJ4GB"
     }
   ],
   "unique_name": "Raaja Rules!",

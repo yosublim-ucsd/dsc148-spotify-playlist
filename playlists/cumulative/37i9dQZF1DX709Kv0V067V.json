@@ -608,7 +608,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 124059,
       "name": "Crickets in the Wind",
       "url": "https://open.spotify.com/track/4hsxjFmfCKjrWmaTEMZc8D"
@@ -1800,6 +1800,24 @@
       "duration_ms": 186000,
       "name": "Sounds of the Marsh",
       "url": "https://open.spotify.com/track/35pJ70xy53RXCaysuKumAa"
+    },
+    {
+      "album": {
+        "name": "Soothing Whisper of the Nature",
+        "url": "https://open.spotify.com/album/17gsr7SNhadiLwYLGf9rwu"
+      },
+      "artists": [
+        {
+          "name": "Mother Earth Sounds",
+          "url": "https://open.spotify.com/artist/682dFb5qW5sDv3urY7IEqp"
+        }
+      ],
+      "date_added": "2023-06-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203988,
+      "name": "Spirit of the Forest",
+      "url": "https://open.spotify.com/track/6wswaTqL7R7WoQLtv9X4mi"
     },
     {
       "album": {

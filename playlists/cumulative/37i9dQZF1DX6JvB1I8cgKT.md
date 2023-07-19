@@ -2,7 +2,7 @@
 
 ### [The Idol Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX6JvB1I8cgKT)
 
-> We all crave things that aren't good for us\. Listen to music from the HBO Original series The Idol, new episodes streaming Sundays on Max.
+> We all crave things that aren't good for us\. Listen to music from the HBO Original series The Idol, streaming on Max.
 
 42 songs - 2 hr 59 min
 

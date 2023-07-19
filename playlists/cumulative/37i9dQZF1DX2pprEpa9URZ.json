@@ -3276,7 +3276,7 @@
       ],
       "date_added": "2020-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 391511,
       "name": "Jendayi",
       "url": "https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp"
@@ -3894,6 +3894,24 @@
       "duration_ms": 402782,
       "name": "Losing My Impatience - Alvaro Suarez Remix",
       "url": "https://open.spotify.com/track/0OuXJfHcnyjiWraFGw0Gpw"
+    },
+    {
+      "album": {
+        "name": "Facets",
+        "url": "https://open.spotify.com/album/5hw2DVYE662RU72H2Fy4kM"
+      },
+      "artists": [
+        {
+          "name": "Lassjo",
+          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286746,
+      "name": "Lost Tales",
+      "url": "https://open.spotify.com/track/3UB5dEBt70jOj7xNDARvar"
     },
     {
       "album": {

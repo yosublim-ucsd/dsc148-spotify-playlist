@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 
 > Enjoy game soundtracks from Capcom! 最新作から過去まで、多数の人気作品を生み出したカプコンのゲームサントラをお届け！©CAPCOM CO., LTD\. ALL RIGHTS RESERVED.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,186 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,253 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Prologue](https://open.spotify.com/track/1qxpKgPsS1is1o4Ha15VfH) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [biohazard SOUND CHRONICLE BEST TRACK BOX](https://open.spotify.com/album/1MGsZkc3qudBr8rjhWu8k0) | 2:21 |
 | 2 | [Bury the Light](https://open.spotify.com/track/6tUcFEXos6TGhESFlkAyCm) | [Casey Edwards](https://open.spotify.com/artist/1hGdQOfaZ5saQ6JWVuxVDZ), [Victor Borba](https://open.spotify.com/artist/2yMgp5XJfvhpTgAg7wZqRF) | [Bury the Light](https://open.spotify.com/album/55RULuYZGg7QUBqYQePPR7) | 9:42 |
 | 3 | [Escape](https://open.spotify.com/track/0CnoyKNuuo5kuUNqtw1Tkg) | [Masami Ueda](https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU) | [Resident Evil 3 Special Soundtrack](https://open.spotify.com/album/7pQYu8IdEDcvmlhCTCSsaP) | 4:38 |
-| 4 | [銀翼の凶星 〜 バルファルク](https://open.spotify.com/track/0dVYVD6E0K9Gk9eo4f7y9k) | [裏谷玲央](https://open.spotify.com/artist/50lUudPsXCGEe4dn6aKTdb) | [モンスターハンター 狩猟音楽集XX](https://open.spotify.com/album/2ulugdM6t8iLBYNuoYTyG8) | 3:13 |
-| 5 | [Crimson Cloud](https://open.spotify.com/track/0Uiqplbhwnvl9txEppdWJv) | [Jeff Rona](https://open.spotify.com/artist/7EVrVA4VnT3DGeyIZjWLRZ), [Rachel Fannan](https://open.spotify.com/artist/45NEcLQE6r8oramtHa7tAe) | [Crimson Cloud](https://open.spotify.com/album/2V1hViF311H8XX1104K3i4) | 4:49 |
+| 4 | [Crimson Cloud](https://open.spotify.com/track/0Uiqplbhwnvl9txEppdWJv) | [Jeff Rona](https://open.spotify.com/artist/7EVrVA4VnT3DGeyIZjWLRZ), [Rachel Fannan](https://open.spotify.com/artist/45NEcLQE6r8oramtHa7tAe) | [Crimson Cloud](https://open.spotify.com/album/2V1hViF311H8XX1104K3i4) | 4:49 |
+| 5 | [銀翼の凶星 〜 バルファルク](https://open.spotify.com/track/0dVYVD6E0K9Gk9eo4f7y9k) | [裏谷玲央](https://open.spotify.com/artist/50lUudPsXCGEe4dn6aKTdb) | [モンスターハンター 狩猟音楽集XX](https://open.spotify.com/album/2ulugdM6t8iLBYNuoYTyG8) | 3:13 |
 | 6 | [Devil Trigger](https://open.spotify.com/track/7I8MCiM3A4xvnM6zIiuMZn) | [Casey Edwards](https://open.spotify.com/artist/1hGdQOfaZ5saQ6JWVuxVDZ), [Ali Edwards](https://open.spotify.com/artist/5biLuWkauLRAlX5O5VX5oi) | [Devil Trigger](https://open.spotify.com/album/6FhOlyDHHOYjBGOkPtstla) | 6:45 |
 | 7 | [Serenity](https://open.spotify.com/track/14gmEW2jRMFzBnj3Fo8ZLZ) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Resident Evil 4 Sound Collection](https://open.spotify.com/album/17E5tbNHce6M2Le73VpoUY) | 1:21 |
 | 8 | [Devil Trigger \- Opening Remix](https://open.spotify.com/track/0yEmW37PXwTC9li00YrIOS) | [Yoshiya Terayama](https://open.spotify.com/artist/6QqEt1hkxnHA0sYiVrU0Dq), [Casey Edwards](https://open.spotify.com/artist/1hGdQOfaZ5saQ6JWVuxVDZ) | [DEVIL MAY CRY 5 Original SoundTrack](https://open.spotify.com/album/1moJ6fFO8yD6itUlDZXlwe) | 2:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6CfJlSXEcCA.md) - [plain]
 | 49 | [The Time Has Come \(Nero's Combat\)](https://open.spotify.com/track/1Dj5GDB9BIF5eSujItZhs3) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Devil May Cry 4 Original Soundtrack](https://open.spotify.com/album/1tNWUMsxLIT92wZcrYWkyT) | 3:51 |
 | 50 | [Shall Never Surrender \(End Credits\)](https://open.spotify.com/track/11s4cDWdCABvn9Xkg4eHl2) | [Capcom Sound Team](https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL) | [Devil May Cry 4 Original Soundtrack](https://open.spotify.com/album/1tNWUMsxLIT92wZcrYWkyT) | 4:58 |
 
-Snapshot ID: `MCw0NjRmNDgzMTM3ZTY0MDA3NjFmNGI3MTEyYmM5YzhmMmQyMzU4ZmM1`
+Snapshot ID: `MCxjZTc1NzdkOGI4NGU2NzhhNGQzOWQ4ZmQxNTFmNmI5NTkyMzczYWQx`

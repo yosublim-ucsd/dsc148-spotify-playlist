@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,288 likes - 70 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,462 likes - 70 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 65 | [Paradise \- Vintage Culture Remix](https://open.spotify.com/track/3L6ky4onXXulYqKf8jZ433) | [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Paradise \(Vintage Culture Remix\)](https://open.spotify.com/album/4Ze0gz9LZNKKMVcLfReoh5) | 4:01 |
 | 66 | [Que Dia](https://open.spotify.com/track/4JLk3WmaRmMmYe4HQBoz6H) | [Zabot](https://open.spotify.com/artist/0THJM1gyjt92ogxB0A9SrB), [Serginho Moah](https://open.spotify.com/artist/3P8z5gushp1EfF1FndSRw1) | [Que Dia](https://open.spotify.com/album/046LEmjGDEolXA3K5zxDFl) | 2:55 |
 | 67 | [Imprevisível \- Overdriver Duo e Guz Zanotto Remix](https://open.spotify.com/track/3z51kAmAca2StfedNebGNe) | [Jota Quest](https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6), [Overdriver Duo](https://open.spotify.com/artist/37knAlDxPb6FSnBQJNzM18), [Guz Zanotto](https://open.spotify.com/artist/4s2oHxyGNA3QZBeWELgBJI) | [Imprevisível \(Overdriver Duo e Guz Zanotto Remix\)](https://open.spotify.com/album/1qa0nujY9Mf2HdbL86o7GW) | 3:35 |
-| 68 | [Lovezinho](https://open.spotify.com/track/7kjfe7IZeVHpBDaa4ftu7K) | [Santti](https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj), [Malifoo](https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5), [Treyce](https://open.spotify.com/artist/2CxOaVqRvTLZAZ7nFnJhsU) | [Lovezinho](https://open.spotify.com/album/5DcJcjPxI78aGL7LCvbMsx) | 2:52 |
-| 69 | [Praia \(Sem Sair de Casa\) \[Remix\]](https://open.spotify.com/track/6Dz51jWucpeq8NF8b9uYaa) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH), [Helen Sancho](https://open.spotify.com/artist/5eLgTktL12pRSvOKnGLbYa) | [Praia \(Sem Sair de Casa\) \[Remix\]](https://open.spotify.com/album/5Lega6xw98Kmv2058Qml4D) | 3:11 |
-| 70 | [Evoluiu \- Rakka & Onabeat Remix](https://open.spotify.com/track/6NwcscnUNdlBsPzGgZeObZ) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Rakka](https://open.spotify.com/artist/2GNfI7g7glAR1JBuvU0vL5), [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc) | [Evoluiu \(Rakka & Onabeat Remix\)](https://open.spotify.com/album/50yBv8IH7yh1az9WApeLQr) | 2:52 |
+| 68 | [Oh! Chuva](https://open.spotify.com/track/1MpLC1n2AenlVxynucQINf) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Falamansa](https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk) | [Oh! Chuva](https://open.spotify.com/album/12uCk8CZOUFgd4KdBeCCkU) | 2:24 |
+| 69 | [Lovezinho](https://open.spotify.com/track/7kjfe7IZeVHpBDaa4ftu7K) | [Santti](https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj), [Malifoo](https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5), [Treyce](https://open.spotify.com/artist/2CxOaVqRvTLZAZ7nFnJhsU) | [Lovezinho](https://open.spotify.com/album/5DcJcjPxI78aGL7LCvbMsx) | 2:52 |
+| 70 | [Praia \(Sem Sair de Casa\) \[Remix\]](https://open.spotify.com/track/6Dz51jWucpeq8NF8b9uYaa) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH), [Helen Sancho](https://open.spotify.com/artist/5eLgTktL12pRSvOKnGLbYa) | [Praia \(Sem Sair de Casa\) \[Remix\]](https://open.spotify.com/album/5Lega6xw98Kmv2058Qml4D) | 3:11 |
 
-Snapshot ID: `MCxiYzc3NWU1ZTIxNWZhNTRmMjkxNTc2ODA4N2UwZjEwMjg4ZTYxMjkw`
+Snapshot ID: `MCxiYTgyYWFiMDg1Njk2ZTBkMGY1YTk5M2JlN2Q1YzdkOTQ2YWZkZDBh`

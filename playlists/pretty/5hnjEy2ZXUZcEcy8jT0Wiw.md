@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5hnjEy2ZXUZcEcy8jT0Wiw.md) - [plain]
 
 > Epic playlist full of amazing cyperpunk\-themed Synthwave &\#x2F; Retrowave\. Updated regularly.
 
-[Squares](https://open.spotify.com/user/t14vcl92sxsigc03414n3uyht) - 9,435 likes - 313 songs - 21 hr 42 min
+[Squares](https://open.spotify.com/user/t14vcl92sxsigc03414n3uyht) - 9,434 likes - 313 songs - 21 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/5hnjEy2ZXUZcEcy8jT0Wiw.md) - [plain]
 | 42 | [Magnatron Engaged](https://open.spotify.com/track/52xeom8gqH8s3WRtARlF3k) | [Absolute Valentine](https://open.spotify.com/artist/0ntJWEv4bwPUp16SabEbKM) | [Magnatron Engaged](https://open.spotify.com/album/3ILkH5ZVKysWlfmaiyN9mL) | 3:13 |
 | 43 | [Dream FX](https://open.spotify.com/track/03dim3IEyLQGzKq8Yu641y) | [Daniel Deluxe](https://open.spotify.com/artist/0OTY72l7CC7ynKzp6N2o5b) | [Exile](https://open.spotify.com/album/2FObixyCMUYQoTdp2INbNv) | 3:12 |
 | 44 | [Paradigm Shift](https://open.spotify.com/track/6S2iWk3tnRuwLJgRjplJtH) | [LukHash](https://open.spotify.com/artist/3hvgLXeDFNiqDOVXl0xTge) | [Transient Offworld](https://open.spotify.com/album/01ybaBILfyIhgFFbFNe0gF) | 4:00 |
-| 45 | [FCKD](https://open.spotify.com/track/6w9zusNDxi0gmcH6FrHRtE) | [Hyper](https://open.spotify.com/artist/6DFJfhZxwWe1yKQvRDJmdl) | [Cyberpunk EP](https://open.spotify.com/album/7i8tKtIKPpKUo8LfilzRFc) | 3:26 |
+| 45 | [FCKD](https://open.spotify.com/track/6w9zusNDxi0gmcH6FrHRtE) | [Hyper](https://open.spotify.com/artist/6DFJfhZxwWe1yKQvRDJmdl), [Mark Arn](https://open.spotify.com/artist/5xBqBIu7ESuIlJ4cLsS1B8) | [Cyberpunk EP](https://open.spotify.com/album/7i8tKtIKPpKUo8LfilzRFc) | 3:26 |
 | 46 | [Biomechanoid](https://open.spotify.com/track/6Lb2UZv6h3gUSeaCOs9aoS) | [Wraithwalker](https://open.spotify.com/artist/3jCaxDDk5tcGOHsX4x0HxE) | [Blackest Night](https://open.spotify.com/album/2Dn29pRHaR0z1zYezVllGV) | 3:31 |
 | 47 | [TYRAEL](https://open.spotify.com/track/3FPNuTquIJbhqG0LX4atqi) | [TOKYO ROSE](https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N) | [TYRAEL](https://open.spotify.com/album/5KNPf1L0u6WRgVhlLR0mOl) | 3:28 |
 | 48 | [Human Hardware](https://open.spotify.com/track/0BN0PJBuz4tJTQldzQNQGo) | [Miles Matrix](https://open.spotify.com/artist/4QOOUiO32hTatHTKVrIlHZ) | [Androids Anonymous](https://open.spotify.com/album/5UKblNtIsmZVDtsrOHTqn8) | 4:37 |

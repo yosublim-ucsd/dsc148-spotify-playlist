@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 ### [Armada Today](https://open.spotify.com/playlist/3PCZEuLpGKpsEHeaQ6cKEN)
 
-> The biggest Armada tracks of the moment! \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! \| Updated weekly on Friday \| Cover: Punctual
+> The biggest Armada tracks of the moment! \| Including Dance, Dance\-Pop, Chill, House, Deep House, Melodic House &amp; Techno and other Club Music\. With tracks from Armin van Buuren, Matoma, Loud Luxury, ARTY, Brando and many more! \| Updated weekly on Friday \| Cover: D.O.D
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 285,375 likes - 150 songs - 7 hr 56 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 285,367 likes - 150 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 149 | [Universal Nation](https://open.spotify.com/track/0R9HeQV9kiNxI9Q84mpwaB) | [KASIA](https://open.spotify.com/artist/7eHoBIirKPLD1FtgLZnjFV) | [Universal Nation](https://open.spotify.com/album/2WgrGPwpI1D63jmKbdn0SL) | 3:48 |
 | 150 | [Rhythm Inside](https://open.spotify.com/track/6gHrZyT1FH8HUqIhbZ0iiy) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Ahmed Helmy](https://open.spotify.com/artist/00k5zSa7jWCoEZ0e6tly9m) | [Feel Again](https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM) | 3:14 |
 
-Snapshot ID: `NTI4ODMsZmE0N2E5YWM1MjI0NzNiYWE3ZjEyNDZmMzE4MGY1Y2JkYjM1MzdhMg==`
+Snapshot ID: `NTI4ODUsYWI5NGFjN2RiZTE3ZmY4MjljMjQ0ZjVjOWUxMTZkNmZmZGI5YTNkYQ==`

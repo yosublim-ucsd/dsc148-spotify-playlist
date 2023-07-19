@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: 2Rare
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,380,242 likes - 99 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,380,683 likes - 99 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 37 | [9am in Calabasas](https://open.spotify.com/track/6EdVTOk5e4RApmwHNBJew9) | [Adrian](https://open.spotify.com/artist/5uK6fW2LmljRHZEmHKv9tA) | [9am in Calabasas](https://open.spotify.com/album/22K5cEZXysmiRSU7WCC0Ed) | 1:54 |
 | 38 | [9:25pm](https://open.spotify.com/track/6OCww5ebJEH0fvMHr8ZTfC) | [Mazelfyre](https://open.spotify.com/artist/0qJT0SswFi8QQbibca7Lni) | [9:25pm](https://open.spotify.com/album/6vyri6xhmE1ygAJC4gRTbq) | 1:49 |
 | 39 | [too many times](https://open.spotify.com/track/4Z9evC61ZmIE8axxRJwyfR) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj) | [Yard Work Volume.1](https://open.spotify.com/album/7DH3BEDSzGVU4p7NjG8Jxu) | 3:20 |
-| 40 | [FIGURE IT OUT](https://open.spotify.com/track/0RQDBCsED70Qfq1CdRvavd) | [Chandler](https://open.spotify.com/artist/7hKEIXWtAS2LHVE8FK4kQx), [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF), [Stafford Beats](https://open.spotify.com/artist/4qqIES4SbIokB88LtwFGyr) | [FIGURE IT OUT](https://open.spotify.com/album/2BVEQwM4nRjkVEgEXu8C0L) | 2:30 |
+| 40 | [FIGURE IT OUT](https://open.spotify.com/track/0RQDBCsED70Qfq1CdRvavd) | [Chandler](https://open.spotify.com/artist/7hKEIXWtAS2LHVE8FK4kQx), [Stafford Beats](https://open.spotify.com/artist/4qqIES4SbIokB88LtwFGyr), [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [FIGURE IT OUT](https://open.spotify.com/album/2BVEQwM4nRjkVEgEXu8C0L) | 2:30 |
 | 41 | [I Know \- PR1SVX Edit](https://open.spotify.com/track/3vcLw8QA3yCOkrj9oLSZNs) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [PR1ISVX](https://open.spotify.com/artist/0QdSoQy4EwwOACmhZobTQu) | [I Know \(PR1SVX Edit\)](https://open.spotify.com/album/0U2gygUYvl2y1aPQiQZg1h) | 2:13 |
 | 42 | [PETTY \(feat\. TiaCorine\)](https://open.spotify.com/track/4WAwwhUc54CHYksDvVP8Zt) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U), [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW) | [BAD SON](https://open.spotify.com/album/2ykrqWTfqZ1ltn6n0ooFIf) | 3:06 |
 | 43 | [Kosher Certified \(feat\. BLP KOSHER\)](https://open.spotify.com/track/6MGu2IEwvttpvXD4z65W7L) | [Certified Trapper](https://open.spotify.com/artist/7gABnNCiNJBaT8KkaHGK13), [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI) | [Kosher Certified \(feat\. BLP KOSHER\)](https://open.spotify.com/album/5votJ1LnPrD68Nei5nISbH) | 2:24 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 98 | [FOLD](https://open.spotify.com/track/2EP8akKOQ8sQ9MAqrnhml0) | [THOTTWAT](https://open.spotify.com/artist/16SkmlqKt2Xf6mqurZgpdt) | [FOLD](https://open.spotify.com/album/1iCT7O5zAGYGyoi3EpfoVa) | 3:07 |
 | 99 | [F&F](https://open.spotify.com/track/2RtPfdY7tlSCH1lObqppYx) | [Coults](https://open.spotify.com/artist/1wssEB4lovC6SFyCOQr2XQ) | [COULTURE](https://open.spotify.com/album/65rfeH5KpPd6DvQgt3v3gi) | 2:01 |
 
-Snapshot ID: `MCw4YzBjMmFlNDI1MjM3YjU2YTc0ZmVmMjVmOTgyODg5YmViNmE0Yjk0`
+Snapshot ID: `MCwyYjFiMzRkNjFjMTM3MjNiYjc3Mzc0NTkxYTUxNDlmZDY1M2VlZGM5`

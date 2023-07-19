@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 
 > Your go\-to playlist for this week's hottest music featuring Lil Tjay, Dominic Fike, Harry Styles &amp; more! Cover: Lil Tjay
 
-[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,676 likes - 37 songs - 2 hr 2 min
+[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,675 likes - 37 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

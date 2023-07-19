@@ -2,12 +2,13 @@
 
 ### [Rap en Español](https://open.spotify.com/playlist/37i9dQZF1DX40O80BIPklU)
 
-> Nuestro hip\-hop se escribe con Ñ, aquí los que dominan el juego de las rimas\. Residente en portada.
+> Nuestro hip\-hop se escribe con Ñ, aquí los que dominan el juego de las rimas\. Cosculluela en portada.
 
-210 songs - 11 hr 59 min
+211 songs - 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\#B2B](https://open.spotify.com/track/4Jp9fqZoO1CVctAPJB29eC) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [\#B2B](https://open.spotify.com/album/4SXhzfcLwMl2sTSOkGBx5t) | 3:16 | 2023-07-18 |  |
 | [\#LQMQ](https://open.spotify.com/track/6FCB0OEs5XTCtdywDhAnsE) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [\#LQMQ](https://open.spotify.com/album/5aOEkoqeFndGKRtFPWTyrk) | 3:35 | 2022-02-10 | 2022-04-19 |
 | [\#RichieRich \- Extended](https://open.spotify.com/track/1sy7y8mhsHfhgWk2EiKk2U) | [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [\#RichieRich](https://open.spotify.com/album/0F3fs9LNLVDEOQzEsYbKCG) | 8:16 | 2023-07-17 |  |
 | [0880](https://open.spotify.com/track/3a1iaFg2FLSqzl42BtIldv) | [Hemphil Otra Nota](https://open.spotify.com/artist/60fXztK8e403cLtMzAl0C9), [DJ Quik](https://open.spotify.com/artist/0b2XeWDPeBiLeskT6RFqMb) | [0880](https://open.spotify.com/album/4CxxPMxN8t7LKKz9izpwhZ) | 2:13 | 2023-03-24 |  |
@@ -105,7 +106,7 @@
 | [La Pistola](https://open.spotify.com/track/7xZKsJJriFzemuLslrkXx5) | [Lito MC Cassidy](https://open.spotify.com/artist/0zgbk1EdcU6tt6QUOnCC5o), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [La Jaula De Los Vivos](https://open.spotify.com/album/1oevsEOqgdZRJtHFLTLS3o) | 3:28 | 2021-12-30 | 2022-03-04 |
 | [La Profecía \(The Eagle & The Condor\)](https://open.spotify.com/track/4gJD13mp8IhO7PtTkbmaaX) | [BIGG B](https://open.spotify.com/artist/3qFYbL5KyojWPNOp7jPNqK), [Eduardo Rico](https://open.spotify.com/artist/5nhTZIp9cOhQ1ArBJZwEPz) | [La Profecía \(The Eagle & The Condor\)](https://open.spotify.com/album/23oTd0d19ex5sQWEEt3xma) | 3:21 | 2023-04-28 |  |
 | [Laberintos](https://open.spotify.com/track/0mfkVo9p68LCmMxHNXUALt) | [Horus](https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf) | [Laberintos](https://open.spotify.com/album/6hOSzcQRoySsrbAZ5JkEuF) | 3:22 | 2023-03-24 |  |
-| [Las Horas Pasan](https://open.spotify.com/track/6VfEl5KFBWnzFNn80GPw6a) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS) | [Las Horas Pasan](https://open.spotify.com/album/2IMKclyqbfhWC6DhobY1Qi) | 3:30 | 2023-05-05 |  |
+| [Las Horas Pasan](https://open.spotify.com/track/6VfEl5KFBWnzFNn80GPw6a) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Sandro Malandro](https://open.spotify.com/artist/40FmJcZFhzbd6P9w4eXqgS) | [Las Horas Pasan](https://open.spotify.com/album/2IMKclyqbfhWC6DhobY1Qi) | 3:30 | 2023-05-05 | 2023-07-19 |
 | [Lastima](https://open.spotify.com/track/7LK6f8PSEBdVHxFky21fYv) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Selected Music](https://open.spotify.com/artist/4JfavcBZEpY1vMW8Xqcc6y) | [Lastima](https://open.spotify.com/album/2M3EmYAlbA52gefdceSa05) | 3:43 | 2021-12-30 | 2022-04-22 |
 | [Le Pido a DIOS](https://open.spotify.com/track/4TFNKnMWjcMWzpkSwQrrcu) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [SIXDO](https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa) | 2:45 | 2023-01-13 |  |
 | [Lejos de Ti](https://open.spotify.com/track/5B26ba8DVAD18tstVEwcOW) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Lejos de Ti](https://open.spotify.com/album/1dWLpH4Z7QFzSTyjEM5WIi) | 3:40 | 2022-08-15 | 2023-01-14 |

@@ -1,12 +1,12 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Carol Biazin\n",
-  "num_followers": 428327,
+  "num_followers": 428374,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMGJlZWQwYjU3MjNhZDJhYzBkMDc0MDA1MmY4M2E3MzcwMmE5N2Iy",
+  "snapshot_id": "MCw0NmU2Y2EwZDY2MjNjYmE1OGYzZDkwYmE1MjU4ZDc5YjE0MjY1MjFh",
   "tracks": [
     {
       "added_at": "2023-07-14 03:00:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
+        "name": "Dias Claros",
+        "url": "https://open.spotify.com/album/0i53V3hMoZsMJqUzz02nO9"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        }
+      ],
+      "duration_ms": 151874,
+      "name": "Dias Claros",
+      "url": "https://open.spotify.com/track/6Npj5ItEySUyXSx2H5pSzy"
+    },
+    {
+      "added_at": "2023-07-14 03:00:00",
+      "album": {
         "name": "A M\u00e1gica Por Tr\u00e1s Da Forma",
         "url": "https://open.spotify.com/album/7JVWJYX1Bjq1eIzzexh8mE"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 133806,
       "name": "Meu Bem",
       "url": "https://open.spotify.com/track/5kp9aP8zXokT6xVU10ZOXJ"
-    },
-    {
-      "added_at": "2023-07-14 03:00:00",
-      "album": {
-        "name": "Dias Claros",
-        "url": "https://open.spotify.com/album/0i53V3hMoZsMJqUzz02nO9"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        }
-      ],
-      "duration_ms": 151874,
-      "name": "Dias Claros",
-      "url": "https://open.spotify.com/track/6Npj5ItEySUyXSx2H5pSzy"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -815,46 +815,6 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "Eu, Voc\u00ea e Essa Can\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/2g2U9irgi6o746zVeLHkJg"
-      },
-      "artists": [
-        {
-          "name": "Pedro Pascual",
-          "url": "https://open.spotify.com/artist/2BnK5sGhQzbij0I5BWTYm4"
-        },
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        }
-      ],
-      "duration_ms": 167424,
-      "name": "Eu, Voc\u00ea e Essa Can\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/5AJPQJQpB3FKZgxNIciFwC"
-    },
-    {
-      "added_at": "2023-07-14 03:00:00",
-      "album": {
-        "name": "Terminei",
-        "url": "https://open.spotify.com/album/32kgvxWFy0tKgXUpxdy77g"
-      },
-      "artists": [
-        {
-          "name": "OUTROEU",
-          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
-        },
-        {
-          "name": "Anna P\u00eago",
-          "url": "https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ"
-        }
-      ],
-      "duration_ms": 167687,
-      "name": "Terminei",
-      "url": "https://open.spotify.com/track/6ddpGpxAawAtX4mV2X85ys"
-    },
-    {
-      "added_at": "2023-07-14 03:00:00",
-      "album": {
         "name": "Amanh\u00e3",
         "url": "https://open.spotify.com/album/7D5BKQFmv0YGEYul18avdT"
       },
@@ -871,6 +831,26 @@
       "duration_ms": 158861,
       "name": "Amanh\u00e3",
       "url": "https://open.spotify.com/track/2o6PDQqMyZ9d66IxwFM0xs"
+    },
+    {
+      "added_at": "2023-07-14 03:00:00",
+      "album": {
+        "name": "Eu, Voc\u00ea e Essa Can\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/2g2U9irgi6o746zVeLHkJg"
+      },
+      "artists": [
+        {
+          "name": "Pedro Pascual",
+          "url": "https://open.spotify.com/artist/2BnK5sGhQzbij0I5BWTYm4"
+        },
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        }
+      ],
+      "duration_ms": 167424,
+      "name": "Eu, Voc\u00ea e Essa Can\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/5AJPQJQpB3FKZgxNIciFwC"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -923,6 +903,26 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
+        "name": "Terminei",
+        "url": "https://open.spotify.com/album/32kgvxWFy0tKgXUpxdy77g"
+      },
+      "artists": [
+        {
+          "name": "OUTROEU",
+          "url": "https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo"
+        },
+        {
+          "name": "Anna P\u00eago",
+          "url": "https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ"
+        }
+      ],
+      "duration_ms": 167687,
+      "name": "Terminei",
+      "url": "https://open.spotify.com/track/6ddpGpxAawAtX4mV2X85ys"
+    },
+    {
+      "added_at": "2023-07-14 03:00:00",
+      "album": {
         "name": "n\u00f3s",
         "url": "https://open.spotify.com/album/7ywwCTGhvOCMSFL78TtShC"
       },
@@ -935,6 +935,22 @@
       "duration_ms": 166874,
       "name": "n\u00f3s",
       "url": "https://open.spotify.com/track/1yzJsmZJwSS436yameVwGH"
+    },
+    {
+      "added_at": "2023-07-14 03:00:00",
+      "album": {
+        "name": "Paix\u00e3o Nacional",
+        "url": "https://open.spotify.com/album/0lDsFWezOlZNYWFOsCZuYz"
+      },
+      "artists": [
+        {
+          "name": "Mateus Carrilho",
+          "url": "https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT"
+        }
+      ],
+      "duration_ms": 187133,
+      "name": "Boate Qualquer",
+      "url": "https://open.spotify.com/track/2c3jFb4lwRXLBfOxzRmbMr"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -955,22 +971,6 @@
       "duration_ms": 166542,
       "name": "Por Que Voc\u00ea N\u00e3o Vem?",
       "url": "https://open.spotify.com/track/6HdrdBpN6Y8sMzEK4scQNx"
-    },
-    {
-      "added_at": "2023-07-14 03:00:00",
-      "album": {
-        "name": "Paix\u00e3o Nacional",
-        "url": "https://open.spotify.com/album/0lDsFWezOlZNYWFOsCZuYz"
-      },
-      "artists": [
-        {
-          "name": "Mateus Carrilho",
-          "url": "https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT"
-        }
-      ],
-      "duration_ms": 187133,
-      "name": "Boate Qualquer",
-      "url": "https://open.spotify.com/track/2c3jFb4lwRXLBfOxzRmbMr"
     },
     {
       "added_at": "2023-07-14 03:00:00",

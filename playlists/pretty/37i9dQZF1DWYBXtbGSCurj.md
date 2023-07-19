@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: LEALL, Derek, Big Bllakk
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,336 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,547 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [Coração de Gelo](https://open.spotify.com/track/7nFvKgVumc9FcU97zGjjei) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Manual de Como Amar Errado](https://open.spotify.com/album/7wUbINCiBbmMPH50g1bg3I) | 2:48 |
 | 75 | [Vida Cara](https://open.spotify.com/track/0XHJ2LfnrETLopLCt6xBY6) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [DomLaike](https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic) | [Vida Cara](https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy) | 5:07 |
 
-Snapshot ID: `MCw1MzdmOGQyN2NhMDU3OWMyNThlZDU2Yjk0YmM4YzliNmE3NzU5MGNm`
+Snapshot ID: `MCxjZTQ5Mzc4ODFhZDIxODU4MmI5N2U0NWM2OWRjNWNiZDAyZDBhNDk3`

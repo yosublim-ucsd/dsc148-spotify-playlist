@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1MmXcTuWbvBApvUMIgxDhV.md) - [plain]
 
 > 
 
-[Dave Barnes](https://open.spotify.com/user/thedavebarnes) - 6,370 likes - 81 songs - 4 hr 45 min
+[Dave Barnes](https://open.spotify.com/user/thedavebarnes) - 6,372 likes - 81 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/1MmXcTuWbvBApvUMIgxDhV.md) - [plain]
 | 76 | [Want Me Back](https://open.spotify.com/track/64zfaCPwuuPkEtoNt1jzFx) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT), [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Dynamo](https://open.spotify.com/artist/111nt9iSSDDF16KPSSLC5g) | [08.26.18](https://open.spotify.com/album/4C9AD9aNoNs0wXmQT7bbIv) | 4:03 |
 | 77 | [Lovin' You Is Easy](https://open.spotify.com/track/5gymzsD0vPHUNAcQioB1Zv) | [Vanmiran](https://open.spotify.com/artist/7AQmzPYke7fmBDOvTCIxPO) | [Lovin' You Is Easy](https://open.spotify.com/album/5jqhttN809Cz2orcp04RHE) | 2:57 |
 | 78 | [Love Like This](https://open.spotify.com/track/06JmNnH3iXKENNRKifqu0v) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [Magic](https://open.spotify.com/album/1FmtmLnB1KrXjK0uWLkyhq) | 3:34 |
-| 79 | [Dreaming in Electric Blue](https://open.spotify.com/track/2aX7dnPxhMp5kyV6bRD78t) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq), [La Felix](https://open.spotify.com/artist/3PoWaGWGbWmC3DrCOyGXOj) | [Dreaming in Electric Blue](https://open.spotify.com/album/1h7FuiTWs5IP88uQNLDfrr) | 3:12 |
+| 79 | [Dreaming in Electric Blue](https://open.spotify.com/track/2aX7dnPxhMp5kyV6bRD78t) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq), [La Felix](https://open.spotify.com/artist/0DUnNI76VRzVoht3t9FrIV) | [Dreaming in Electric Blue](https://open.spotify.com/album/1h7FuiTWs5IP88uQNLDfrr) | 3:12 |
 | 80 | [June](https://open.spotify.com/track/0o9YSdVpcQTPppyDwDeWY9) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq), [Suzy Jones](https://open.spotify.com/artist/09LV3PoRCBuphbxYFEx8eh) | [Notes from Paris](https://open.spotify.com/album/2ESaulPvwyTuw8IRjty9cE) | 3:21 |
 | 81 | [Workin' on Lovin'](https://open.spotify.com/track/31FE5PNTIS51l1OR8Jb2cy) | [Juice](https://open.spotify.com/artist/0Rq1n6pHHHUQwXnCO8IF4E) | [Workin' on Lovin'](https://open.spotify.com/album/4GSCxebidDdcCIMgljn7gq) | 3:54 |
 

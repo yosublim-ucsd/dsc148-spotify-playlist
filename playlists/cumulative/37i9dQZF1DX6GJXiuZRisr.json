@@ -654,7 +654,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 247384,
       "name": "Annihilation",
       "url": "https://open.spotify.com/track/3vLhUrc9h8fFIH7Lq9QDM5"
@@ -6566,6 +6566,24 @@
       "duration_ms": 188440,
       "name": "Take Me There",
       "url": "https://open.spotify.com/track/2EeNjDGRMgtFfDbwqVVKbs"
+    },
+    {
+      "album": {
+        "name": "Take Me Up",
+        "url": "https://open.spotify.com/album/7os08OWk7r3JfGw78VXMNh"
+      },
+      "artists": [
+        {
+          "name": "PALASTIC",
+          "url": "https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147360,
+      "name": "Take Me Up",
+      "url": "https://open.spotify.com/track/1lY2Uhz2R15ks7kqDc0tGD"
     },
     {
       "album": {

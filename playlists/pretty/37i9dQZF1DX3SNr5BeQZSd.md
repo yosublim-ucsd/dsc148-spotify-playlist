@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 
 > Trending lofi beats from across the World Wide Web.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,236 likes - 115 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,359 likes - 115 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 70 | [Controlla](https://open.spotify.com/track/1FlY15vdP570PJucy6JdYm) | [Idealism](https://open.spotify.com/artist/6YJ4EgQzDfJnIHRbqIHAdD) | [rainy evening](https://open.spotify.com/album/2QfC7NDknouUOjSPm12OxQ) | 1:48 |
 | 71 | [Affection](https://open.spotify.com/track/3ukklzkdKjDzqkroiXTvf4) | [Jinsang](https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt) | [Life](https://open.spotify.com/album/0N0l3JnVMd4hFhS5V2d1iY) | 1:57 |
 | 72 | [Maine Royaan \(Lofi Remix\)](https://open.spotify.com/track/3khiYRqf3tjb6PSGBhkfl4) | [Tanveer Evan](https://open.spotify.com/artist/4OUraoZcwg1SsMHFjuaajw), [Ahmed Shakib](https://open.spotify.com/artist/2pXBuKCgIX7qJEa2Dfm21a) | [Maine Royaan \(Lofi Remix\)](https://open.spotify.com/album/7E96Jeo9E1LDYsg2hKrDcZ) | 5:04 |
-| 73 | [falling down](https://open.spotify.com/track/39BjmE63Oum0jR2QpHYSJv) | [Nohidea](https://open.spotify.com/artist/5b0XQwyoJBFd3MwL2YxEPO) | [Esuna](https://open.spotify.com/album/2Axz58Fwff2SSeCsmjz1TH) | 1:36 |
+| 73 | [Falling Down](https://open.spotify.com/track/2tIo8XVR4pfI3EYzi1kTWT) | [Ayparia](https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r), [Percy](https://open.spotify.com/artist/5KJD39tFeCCTo3bXyQSnSb), [unxbected](https://open.spotify.com/artist/5Jv8vC2RoInNR3CsxANXhS), [Chappo](https://open.spotify.com/artist/3G7pRLSS9s5h09hdaluISz), [Liodré](https://open.spotify.com/artist/1iFnL18VjckiZ512wVFapI) | [Falling Down](https://open.spotify.com/album/41ZBuhcLt5p5bnp2vcDwPZ) | 1:36 |
 | 74 | [Saibo \- Lofi Flip](https://open.spotify.com/track/1E16f7KcZmuXuhlenRwA2m) | [VIBIE](https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh) | [Saibo \(Lofi Flip\)](https://open.spotify.com/album/4c9FRN0aGll1nzuNwQ68HU) | 2:26 |
 | 75 | [Sakura Trees](https://open.spotify.com/track/3F0mcxksBp33QrL6oyjvLN) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Buena Vista](https://open.spotify.com/album/5mgVRRHjtl9fSY3rUHysJx) | 1:39 |
 | 76 | [Laaree Chootee](https://open.spotify.com/track/0HnbfIzOu6eLF8Kb1mT9Wl) | [WORMONO](https://open.spotify.com/artist/5osbiefpwljgv3pRQNmbFO), [Tejas R.H](https://open.spotify.com/artist/4cP3ymK1Xo0dqBLp98g95J) | [Laaree Chootee](https://open.spotify.com/album/6DRQUIGYsV228eyPt9VokG) | 2:10 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SNr5BeQZSd.md) - [plain]
 | 114 | [Maiyya Mainu \(Lofi\)](https://open.spotify.com/track/3wtqgOJaW0l7bQ2ksSRcNH) | [Akshit Ravat](https://open.spotify.com/artist/47aFMArtTqGAFZifNLuBSy) | [Maiyya Mainu \(Lofi\)](https://open.spotify.com/album/3QcxJXrQK4b6cUDNtjm2Z9) | 2:51 |
 | 115 | [Drifting Off](https://open.spotify.com/track/2QwNQx4UWhwDb5kVKWJ8jD) | [Laffey](https://open.spotify.com/artist/7LWdcPFBFcRaamGjIJbPV7) | [The Moon and the Mind](https://open.spotify.com/album/0Zif3jQ3zI0yipteA8XZiw) | 2:33 |
 
-Snapshot ID: `MCwxOGM5MjI5YjQxMGI0MzM2YzRhMDVlNTI3YTY2ZGZkNTExOGRkYTZk`
+Snapshot ID: `MCw1YWZmYzk5ZTc0ZWNiMDQ2MzFiZTc0ZGJiYjkyZGZhNTFlNDRmNDFh`

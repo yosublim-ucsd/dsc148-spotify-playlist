@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Billie Eilish, KAROL G, Post Malone, Troye Sivan, Lil Tjay & Summer Walker, Dan + Shay and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,139,021 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,148,248 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [Beach](https://open.spotify.com/track/591OojQCkyOLyMqmJRVyyc) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Risk](https://open.spotify.com/album/1slDbdhOlw9i2XDsaEVQeo) | 2:06 |
 | 100 | [back in time](https://open.spotify.com/track/2wfwhyErdQVfXGPwPTUhht) | [wilo wilde](https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc) | [back in time](https://open.spotify.com/album/5pgSw0cqiPHDtSwjMK2d0o) | 2:36 |
 
-Snapshot ID: `MCxjNDljZDYwNzBlYjk1NWU5YmUwOTVjYjI0NWZhYTM5NWI0MjI3MDEx`
+Snapshot ID: `MCw4ZDRkYTkxNDU4ZDE0ZTk4Y2M0YTQ2ZjQzODA1Y2IxZGIxOWIxNDk1`

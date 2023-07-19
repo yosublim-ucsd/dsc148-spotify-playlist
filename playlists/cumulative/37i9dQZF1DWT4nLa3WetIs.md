@@ -4,7 +4,7 @@
 
 > Celebrating ten years of Tiwa Savage's Debut Album; Once Upon a Time\. Cover: Tiwa Savage.
 
-181 songs - 12 hr 31 min
+182 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Alkayida \(Boy Abre\)](https://open.spotify.com/track/7xAHWYJhJQLM83eDaerhS2) | [Guru](https://open.spotify.com/artist/1c9Ya9GKcFOLh4gixxivdk) | [Alkayida \(Boy Abre\)](https://open.spotify.com/album/3ejLKMcv8zl0FKgv1QBzGn) | 3:38 | 2020-11-06 | 2022-07-29 |
 | [Alkayida \(Boys Abre\)](https://open.spotify.com/track/6poPF57AAibYYvIHaujZjt) | [Guru Nkz](https://open.spotify.com/artist/02erLj5S8dJEjZyFYug3Ck) | [Alkayida \(Boys Abre\)](https://open.spotify.com/album/3hBDd8jdTb6jCaX8QENZRR) | 3:38 | 2020-11-06 | 2023-03-22 |
 | [Amorawa \- Bonus Track](https://open.spotify.com/track/1XD2smsByGKUCgHhyZyVtF) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla) | [Wanted](https://open.spotify.com/album/6fSgSpssVi7fMqMXhxGcbL) | 4:02 | 2020-11-06 | 2023-03-22 |
-| [ANGEL OF MY LIFE](https://open.spotify.com/track/1sGpwnVX1UT7KQC8UEn7BJ) | [Paul Play](https://open.spotify.com/artist/6swbkgPRm0Gxw4jBo3ykUB) | [HITSVILLE](https://open.spotify.com/album/011e7IuzQ1YLl5TfM6rsU7) | 5:03 | 2023-03-21 |  |
+| [ANGEL OF MY LIFE](https://open.spotify.com/track/1sGpwnVX1UT7KQC8UEn7BJ) | [Paul Play](https://open.spotify.com/artist/6swbkgPRm0Gxw4jBo3ykUB) | [HITSVILLE](https://open.spotify.com/album/011e7IuzQ1YLl5TfM6rsU7) | 5:03 | 2023-03-21 | 2023-07-19 |
 | [Antenna \- UK Club Mix](https://open.spotify.com/track/6NeLjyLTlygTDu34MdolgQ) | [Fuse ODG](https://open.spotify.com/artist/374sWpAJsbZckf98df2jJJ) | [T.I.N.A.](https://open.spotify.com/album/3v9NqDh72DLPjhPVBo4oh1) | 3:42 | 2020-11-06 | 2023-03-22 |
 | [Away](https://open.spotify.com/track/4tkRfb5PUoJ7d8epDatZ7g) | [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Progress](https://open.spotify.com/album/5Tq5ATKhOia0vW66dX8syT) | 5:04 | 2020-11-06 | 2023-02-24 |
 | [Aye](https://open.spotify.com/track/7wh3ROxsX7i6GflbQGhGo7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Aye](https://open.spotify.com/album/54KREqr92Gm0dbTLGHp0JE) | 3:55 | 2020-11-06 | 2023-03-22 |
@@ -70,6 +70,7 @@
 | [E No Easy Ft\. J.Martins](https://open.spotify.com/track/6VAiSBmVmsCPtcx5K1wAp5) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Danger](https://open.spotify.com/album/0QD5tgva79HHdRl79AJMSU) | 4:27 | 2020-11-06 | 2022-07-29 |
 | [Eminado \(feat\. Don Jazzy\)](https://open.spotify.com/track/3Gxold2xHisD55irEJ7du7) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [Once Upon a Time](https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG) | 3:50 | 2020-11-06 |  |
 | [Essence \(feat\. Tems\)](https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 4:08 | 2023-03-21 |  |
+| [Expensive Shit](https://open.spotify.com/track/6sNNtFKdCz0bnjx7IEXyl2) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Expensive Shit](https://open.spotify.com/album/20IklXmkirz07Lpv6jnLNB) | 13:13 | 2023-07-03 |  |
 | [Fall](https://open.spotify.com/track/1hEXElwyPez2z7m5dZ56Mc) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [A Good Time](https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n) | 4:00 | 2023-03-21 |  |
 | [Fall in Love](https://open.spotify.com/track/6TARhI06IcFdWyVuuizLy1) | [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C) | [D'banj Essentials](https://open.spotify.com/album/6W7HwjGhnQoo68CeL0Bz1L) | 4:16 | 2020-11-06 | 2023-03-22 |
 | [Fi Mi Le](https://open.spotify.com/track/2EEfDcnf7LwZ9RStGusyDn) | [Kas](https://open.spotify.com/artist/3hisQT4sa8NR0vqzDDg6gq) | [a.k.a Fi Mi Le](https://open.spotify.com/album/3iJirt7tZ9ZMBtGewxs7r5) | 3:38 | 2023-03-21 | 2023-06-22 |

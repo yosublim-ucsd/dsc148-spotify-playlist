@@ -4,7 +4,7 @@
 
 > The hardest songs, loud\. Very loud\. Cover: Mammoth WVH
 
-868 songs - 2 day 4 hr 1 min
+869 songs - 2 day 4 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,7 @@
 | [Anomaly](https://open.spotify.com/track/1nLWr0rKTLTZNEcgU5WEdD) | [I See Stars](https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe) | [Anomaly / Drift](https://open.spotify.com/album/6vity2EshIvo6kgYCxl98A) | 3:18 | 2023-05-22 |  |
 | [Another Celebration at the End of the World](https://open.spotify.com/track/4k6NV1b3icM8BRCkT57oPV) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Another Celebration at the End of the World](https://open.spotify.com/album/3LOcvq0COUOnftohINoJAD) | 4:35 | 2023-03-24 |  |
 | [Another Last Time](https://open.spotify.com/track/3IzeRtUTIeMMHYxWpjEm4P) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [Dirty Honey](https://open.spotify.com/album/0vyPTdAxmOLpOHHAkWJAa0) | 4:50 | 2022-06-10 | 2022-10-08 |
-| [Another Way](https://open.spotify.com/track/2F0nY9fBUjceQEhH7L48zK) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Another Way](https://open.spotify.com/album/6V7n8Wl01gSsYOAlZwudcq) | 3:37 | 2023-04-07 |  |
+| [Another Way](https://open.spotify.com/track/2F0nY9fBUjceQEhH7L48zK) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Another Way](https://open.spotify.com/album/6V7n8Wl01gSsYOAlZwudcq) | 3:37 | 2023-04-07 | 2023-07-19 |
 | [Antagonist](https://open.spotify.com/track/3XRknZ0U5NKW8r5g44ptA6) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Supernova](https://open.spotify.com/album/41ycYGcnhkDb3pFkL8vSPJ) | 3:06 | 2023-01-13 | 2023-04-09 |
 | [Antagonist](https://open.spotify.com/track/76NdeyUe2IEANeAopr4V31) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Antagonist](https://open.spotify.com/album/4cAKhG7S3jOL53LaGMtdNw) | 3:06 | 2022-01-14 | 2022-02-05 |
 | [Antidote](https://open.spotify.com/track/0Rrf0IzuiJzthkbjvwCnhm) | [Solence](https://open.spotify.com/artist/4fnono0JCZFAeeaecrI7kg) | [Antidote](https://open.spotify.com/album/4HiUvBkIhOpAl9Td6OVYzB) | 3:28 | 2023-01-13 | 2023-06-17 |
@@ -527,6 +527,7 @@
 | [Nobody Wants to Die](https://open.spotify.com/track/4A7kc0SQCu6btugusS2cYx) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Nobody Wants to Die](https://open.spotify.com/album/4AWOxOI6D5iH8VuVWY1Fbe) | 3:43 | 2022-10-21 | 2023-04-09 |
 | [NOCTURNAL](https://open.spotify.com/track/0cGRxex1Zgi7NW9yeDa5PQ) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nocturnal](https://open.spotify.com/album/6kbFVipGkUglf9eerXBlN3) | 2:46 | 2022-07-01 | 2022-12-03 |
 | [Nothing Ever After](https://open.spotify.com/track/2foma3XC28Wk4Fcthqu7lk) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 3:55 | 2023-04-28 |  |
+| [Numb](https://open.spotify.com/track/3huUzljK6ZcZ22XUvubeC0) | [Sleep Theory](https://open.spotify.com/artist/26eBHxdouBH2KB7P6Oi9HN) | [Numb](https://open.spotify.com/album/6QHccEtF5S0WqUsraPvziw) | 3:35 | 2023-07-18 |  |
 | [Numb](https://open.spotify.com/track/3P937TrYRrGCbjgOIYzhnm) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Numb](https://open.spotify.com/album/0pMPESagsPgcSkGrFtIIvI) | 2:54 | 2023-04-21 | 2023-07-08 |
 | [Numb](https://open.spotify.com/track/4xOZuV9hKj0uaRgegNaE5F) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Numb](https://open.spotify.com/album/0vf69q9LJRJ6MK8OTJPIbZ) | 3:41 | 2021-12-10 | 2022-01-15 |
 | [Obey](https://open.spotify.com/track/5qIZ1FlFioNdPOn2cFb2EC) | [Throw The Fight](https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7) | [Obey](https://open.spotify.com/album/6lzrWtHIQWRGRhUayfLucA) | 2:40 | 2023-04-28 |  |

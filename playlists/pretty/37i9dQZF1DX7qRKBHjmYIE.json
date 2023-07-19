@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1. Un poquito de todo. Cover: Sinego",
-  "num_followers": 765045,
+  "num_followers": 765031,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OGE1ODc4MTYyNDE2Yjg0N2NkMWI5OWE3MzJjZDBlOGQ4OGUxNTY3",
+  "snapshot_id": "MCw3ODExNmUzMDdmMDU1YzJlNzUzMmI4ZTM0NTc1NGRlNmY1ZTU0NDhk",
   "tracks": [
     {
       "added_at": "2023-07-07 16:29:52",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-07-07 16:29:52",
       "album": {
+        "name": "Me Estoy Enamorando",
+        "url": "https://open.spotify.com/album/290mTa3886xNkEyOVtC53k"
+      },
+      "artists": [
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+        }
+      ],
+      "duration_ms": 215866,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC"
+    },
+    {
+      "added_at": "2023-07-07 16:29:52",
+      "album": {
         "name": "Bah\u00eda",
         "url": "https://open.spotify.com/album/7KzRg7ILqnaKK3XtxtgGp3"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 181000,
       "name": "Bah\u00eda",
       "url": "https://open.spotify.com/track/03qTulY2kLiHtDAPle9Kni"
-    },
-    {
-      "added_at": "2023-07-07 16:29:52",
-      "album": {
-        "name": "Me Estoy Enamorando",
-        "url": "https://open.spotify.com/album/290mTa3886xNkEyOVtC53k"
-      },
-      "artists": [
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 215866,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/56IhOJAcMc28qxDqjmuwJC"
     },
     {
       "added_at": "2023-07-07 16:29:52",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-07-07 16:29:52",
       "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd"
-      },
-      "artists": [
-        {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
-        }
-      ],
-      "duration_ms": 179191,
-      "name": "Kaleidoscope",
-      "url": "https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4"
-    },
-    {
-      "added_at": "2023-07-07 16:29:52",
-      "album": {
         "name": "Contraluz",
         "url": "https://open.spotify.com/album/3Gxm7cLKDllPSHUR1sEDyA"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 212869,
       "name": "Contraluz",
       "url": "https://open.spotify.com/track/1sVBiZA6OMCQYAaryp5Gbe"
+    },
+    {
+      "added_at": "2023-07-07 16:29:52",
+      "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/79xNVQyhJnZpOZj6hrABvd"
+      },
+      "artists": [
+        {
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+        }
+      ],
+      "duration_ms": 179191,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/0kJqmEL3UbprAkBSFBdZY4"
     },
     {
       "added_at": "2023-07-07 16:29:52",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-07-07 16:29:52",
       "album": {
+        "name": "S\u00ed o No?",
+        "url": "https://open.spotify.com/album/4tPyW25KWkV4kedG4OsQgf"
+      },
+      "artists": [
+        {
+          "name": "K!ngdom",
+          "url": "https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4"
+        }
+      ],
+      "duration_ms": 181133,
+      "name": "S\u00ed o No?",
+      "url": "https://open.spotify.com/track/3Tap6ssIsXNmfRfnO5eRwK"
+    },
+    {
+      "added_at": "2023-07-07 16:29:52",
+      "album": {
         "name": "Maybe Baby",
         "url": "https://open.spotify.com/album/4tnEnvRN4d6GE6JpKzZNZe"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 227736,
       "name": "Maybe Baby",
       "url": "https://open.spotify.com/track/0qKCO9DXAH7kqc2JF3U5jd"
-    },
-    {
-      "added_at": "2023-07-07 16:29:52",
-      "album": {
-        "name": "S\u00ed o No?",
-        "url": "https://open.spotify.com/album/4tPyW25KWkV4kedG4OsQgf"
-      },
-      "artists": [
-        {
-          "name": "K!ngdom",
-          "url": "https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4"
-        }
-      ],
-      "duration_ms": 181133,
-      "name": "S\u00ed o No?",
-      "url": "https://open.spotify.com/track/3Tap6ssIsXNmfRfnO5eRwK"
     },
     {
       "added_at": "2023-07-07 16:29:52",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-07-07 16:29:52",
       "album": {
-        "name": "Underbelly",
-        "url": "https://open.spotify.com/album/4XLa5dOLRPaDejB8s4CRmW"
-      },
-      "artists": [
-        {
-          "name": "Kiltro",
-          "url": "https://open.spotify.com/artist/27CC3tpq7WQR25M03jKTZm"
-        }
-      ],
-      "duration_ms": 358217,
-      "name": "Softy",
-      "url": "https://open.spotify.com/track/2M4WucvfjKMFGX6YqNSK4F"
-    },
-    {
-      "added_at": "2023-07-07 16:29:52",
-      "album": {
         "name": "Love Letters From Houston",
         "url": "https://open.spotify.com/album/1i0V76TeMcJdy8G5jcMjkI"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 172092,
       "name": "Someone Like You",
       "url": "https://open.spotify.com/track/4zWRy2rJL6sdy7k8XBq7lb"
+    },
+    {
+      "added_at": "2023-07-07 16:29:52",
+      "album": {
+        "name": "Underbelly",
+        "url": "https://open.spotify.com/album/4XLa5dOLRPaDejB8s4CRmW"
+      },
+      "artists": [
+        {
+          "name": "Kiltro",
+          "url": "https://open.spotify.com/artist/27CC3tpq7WQR25M03jKTZm"
+        }
+      ],
+      "duration_ms": 358217,
+      "name": "Softy",
+      "url": "https://open.spotify.com/track/2M4WucvfjKMFGX6YqNSK4F"
     },
     {
       "added_at": "2023-07-07 16:29:52",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-07-07 16:29:52",
       "album": {
+        "name": "Cortada en la Frente",
+        "url": "https://open.spotify.com/album/2XTHHhHJJiOWmx3ptLnOGy"
+      },
+      "artists": [
+        {
+          "name": "M\u00e9ne",
+          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
+        }
+      ],
+      "duration_ms": 200240,
+      "name": "Cortada en la Frente",
+      "url": "https://open.spotify.com/track/6q2zT7E0nsAhLggEVeCv96"
+    },
+    {
+      "added_at": "2023-07-07 16:29:52",
+      "album": {
         "name": "Eterno Verano",
         "url": "https://open.spotify.com/album/40LKXLc5JwGyVQ85mvdcEI"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 205000,
       "name": "Rojo Rub\u00ed - Rompiendo La Cadera",
       "url": "https://open.spotify.com/track/00vDTKx0x8foQnP4NfCR1D"
-    },
-    {
-      "added_at": "2023-07-07 16:29:52",
-      "album": {
-        "name": "Cortada en la Frente",
-        "url": "https://open.spotify.com/album/2XTHHhHJJiOWmx3ptLnOGy"
-      },
-      "artists": [
-        {
-          "name": "M\u00e9ne",
-          "url": "https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd"
-        }
-      ],
-      "duration_ms": 200240,
-      "name": "Cortada en la Frente",
-      "url": "https://open.spotify.com/track/6q2zT7E0nsAhLggEVeCv96"
     },
     {
       "added_at": "2023-07-07 16:29:52",

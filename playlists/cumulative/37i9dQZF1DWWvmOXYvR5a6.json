@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Trendy x Chill K-Hip Hop.  (Cover: \bDynamic Duo(\ub2e4\uc774\ub098\ubbf9 \ub4c0\uc624)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
+  "description": "Trendy x Chill K-Hip Hop.  (Cover: Sasha(\uc0ac\uc0e4)) (\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
   "name": "TrenChill K-Hip Hop",
   "tracks": [
     {
@@ -1962,6 +1962,28 @@
       "duration_ms": 182013,
       "name": "Chingchingching (Feat. DeVita)",
       "url": "https://open.spotify.com/track/6jKbZh8WfA2dgkdZ6lPaI8"
+    },
+    {
+      "album": {
+        "name": "Chuck Taylor",
+        "url": "https://open.spotify.com/album/2druPo87qWabadsHUYZIOu"
+      },
+      "artists": [
+        {
+          "name": "Skinny Brown",
+          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
+        },
+        {
+          "name": "h3hyeon",
+          "url": "https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188162,
+      "name": "Chuck Taylor (Feat. h3hyeon)",
+      "url": "https://open.spotify.com/track/5DK0Sa8LnaitE7CjyGUTti"
     },
     {
       "album": {
@@ -4866,7 +4888,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 200900,
       "name": "Have A Little Fun",
       "url": "https://open.spotify.com/track/1F3QFP6UXUPUbgo1stlc0x"
@@ -5770,6 +5792,28 @@
       "duration_ms": 213532,
       "name": "INTRO (Feat. Jay Park)",
       "url": "https://open.spotify.com/track/7tk4qEuY7cWeso5WyXgvqN"
+    },
+    {
+      "album": {
+        "name": "iPod NANO (feat. Ji Chanel)",
+        "url": "https://open.spotify.com/album/4NSTsq0YEPuM0oA5HXSiiQ"
+      },
+      "artists": [
+        {
+          "name": "Sasha",
+          "url": "https://open.spotify.com/artist/6avsZQ2pnMpzZimJAn5dFN"
+        },
+        {
+          "name": "Ji Chanel",
+          "url": "https://open.spotify.com/artist/48iTyl4MallIyN0R89N8u3"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171653,
+      "name": "iPod NANO (feat. Ji Chanel)",
+      "url": "https://open.spotify.com/track/19RFI7k27iXe4Eitec1nX2"
     },
     {
       "album": {
@@ -7854,7 +7898,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 162653,
       "name": "muse",
       "url": "https://open.spotify.com/track/2Pc2vLBzVmhHuTMpxYfwZq"
@@ -9112,7 +9156,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 185729,
       "name": "Pick up your phone (Feat. MOON)",
       "url": "https://open.spotify.com/track/5FMPLl79EfOnRZ4xn2Mck0"
@@ -12058,6 +12102,24 @@
       "duration_ms": 206640,
       "name": "Treasure (Feat. Kvsh, CHOILB)",
       "url": "https://open.spotify.com/track/7icNK4lve2yPlM1NuN6cJ4"
+    },
+    {
+      "album": {
+        "name": "Trigger",
+        "url": "https://open.spotify.com/album/7EwaTWAEHRVi2dvqrdCO5R"
+      },
+      "artists": [
+        {
+          "name": "J'Kyun",
+          "url": "https://open.spotify.com/artist/0WIKW2eVuPbK5vQ0AIDtMQ"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156733,
+      "name": "Trigger",
+      "url": "https://open.spotify.com/track/4sR5cIxhgpCuQ3ERxrx5My"
     },
     {
       "album": {

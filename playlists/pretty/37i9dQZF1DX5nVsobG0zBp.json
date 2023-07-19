@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Mizzy Miles, Deejay Telio, Gson e Teto.  ",
-  "num_followers": 48292,
+  "num_followers": 48335,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZGQwZjU4NDc4YTllYzhlNzIyYzNhZjhlNmU5NjgxYTc2OTY2NWU2",
+  "snapshot_id": "MCw1ZjdhODQwZTE4ODJiZmU3Mzk0YWY5MDE5YzJjNjQyYWY1NGJkODA5",
   "tracks": [
     {
       "added_at": "2023-06-29 23:00:00",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-06-29 23:00:00",
       "album": {
+        "name": "PRA MIM",
+        "url": "https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ"
+      },
+      "artists": [
+        {
+          "name": "T-Rex",
+          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
+        }
+      ],
+      "duration_ms": 153858,
+      "name": "PRA MIM",
+      "url": "https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J"
+    },
+    {
+      "added_at": "2023-06-29 23:00:00",
+      "album": {
         "name": "O que \u00e9 que tens feito?",
         "url": "https://open.spotify.com/album/7o3GVre0rpEWG7309P7q6v"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 191988,
       "name": "O que \u00e9 que tens feito?",
       "url": "https://open.spotify.com/track/5cGy4NKlMprapxERb9AZk6"
-    },
-    {
-      "added_at": "2023-06-29 23:00:00",
-      "album": {
-        "name": "PRA MIM",
-        "url": "https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ"
-      },
-      "artists": [
-        {
-          "name": "T-Rex",
-          "url": "https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk"
-        }
-      ],
-      "duration_ms": 153858,
-      "name": "PRA MIM",
-      "url": "https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J"
     },
     {
       "added_at": "2023-06-29 23:00:00",

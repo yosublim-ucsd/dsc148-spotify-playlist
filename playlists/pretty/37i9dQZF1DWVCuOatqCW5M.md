@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- KING
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,156 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,359 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Yaad Teri Aaye Baar Baar](https://open.spotify.com/track/5TRrW7Ja6brZDMdvty5PI0) | [Saaj Bhatt](https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj) | [Yaad Teri Aaye Baar Baar](https://open.spotify.com/album/7nS42Por4qjEHtzaXnRv3Q) | 3:31 |
 | 50 | [Hasi Ban Gaye](https://open.spotify.com/track/7HExkRyYBly0RMz47kzgS5) | [Ami Mishra](https://open.spotify.com/artist/5ugsiK49gIkIVh8U93EO0z), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx), [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP), [VIBIE](https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh) | [Hasi Ban Gaye](https://open.spotify.com/album/2BbxHq6N8pt8jHM5uv7Enh) | 2:45 |
 
-Snapshot ID: `MCwyY2U3MDQxMTBkNjFmZTU1YzcxYjkyMmJmYjEyNWZlMjY0MmUyMTU3`
+Snapshot ID: `MCxhYjk5NGRlOGU5OTc0NGY1OTcwZTM2NWVlY2JkNGEzMzQzMTMyN2M1`

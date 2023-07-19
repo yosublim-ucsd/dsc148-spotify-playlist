@@ -422,7 +422,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 303124,
       "name": "ANGEL OF MY LIFE",
       "url": "https://open.spotify.com/track/1sGpwnVX1UT7KQC8UEn7BJ"
@@ -1246,6 +1246,24 @@
       "duration_ms": 248040,
       "name": "Essence (feat. Tems)",
       "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"
+    },
+    {
+      "album": {
+        "name": "Expensive Shit",
+        "url": "https://open.spotify.com/album/20IklXmkirz07Lpv6jnLNB"
+      },
+      "artists": [
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        }
+      ],
+      "date_added": "2023-07-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 793200,
+      "name": "Expensive Shit",
+      "url": "https://open.spotify.com/track/6sNNtFKdCz0bnjx7IEXyl2"
     },
     {
       "album": {

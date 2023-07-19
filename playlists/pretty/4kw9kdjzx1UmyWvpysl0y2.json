@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127242,
+  "num_followers": 127246,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDMxOCwwZDc2NTA4ZmM0YjU2MmU0MWI2MWZiNDVmMDQyNDRmZmJiOTZiOTZm",
+  "snapshot_id": "NDMxOSw2ZjRiODQ2OWI1MjI0OWE0ZWYyNDk4NGUwMTc5NzIzNzhkMzZjZmM5",
   "tracks": [
+    {
+      "added_at": "2023-07-18 19:52:30",
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/0GDqyCePdn98PHuMoWCuMJ"
+      },
+      "artists": [
+        {
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+        }
+      ],
+      "duration_ms": 172991,
+      "name": "High",
+      "url": "https://open.spotify.com/track/2Ej2CTyhrhOg0AXY1LkWNT"
+    },
     {
       "added_at": "2023-07-17 19:13:04",
       "album": {

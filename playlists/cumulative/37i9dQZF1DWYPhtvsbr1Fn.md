@@ -2,7 +2,7 @@
 
 ### [reheat](https://open.spotify.com/playlist/37i9dQZF1DWYPhtvsbr1Fn)
 
-> resurging tracks coming in hot\. cover: Smooth Operator era Sade
+> resurging tracks coming in hot\. cover: Fast Car era Tracy Chapman
 
 108 songs - 7 hr 5 min
 

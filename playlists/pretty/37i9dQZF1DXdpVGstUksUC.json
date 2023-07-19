@@ -1,12 +1,12 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 519106,
+  "num_followers": 519299,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjAyZjM5NTE1M2JiOTQwMjVlZTRjNmNmNmVjZmM5Y2VjMWZlOGQy",
+  "snapshot_id": "MCw2ZmFiM2NkNDJiYTgwZWRiNTZmYTU4YzM0YjAyYTIxM2JkZTM3MWE3",
   "tracks": [
     {
       "added_at": "2023-07-14 04:01:00",
@@ -347,18 +347,18 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Stoner Witch",
-        "url": "https://open.spotify.com/album/1Ft1QQbUOCgSqumZKYuWhw"
+        "name": "Tame Impala",
+        "url": "https://open.spotify.com/album/2aoEKkx2CaybhYNiu4o2rQ"
       },
       "artists": [
         {
-          "name": "Melvins",
-          "url": "https://open.spotify.com/artist/6aVjo0xHSiuW5hkasoYSR3"
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
         }
       ],
-      "duration_ms": 72800,
-      "name": "Skweetis",
-      "url": "https://open.spotify.com/track/4M5tx88gLsiXSbxpPUAULe"
+      "duration_ms": 266920,
+      "name": "Half Full Glass Of Wine",
+      "url": "https://open.spotify.com/track/0TeHvhaNBSuv7yGQ9dLouv"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -379,18 +379,18 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Tame Impala",
-        "url": "https://open.spotify.com/album/2aoEKkx2CaybhYNiu4o2rQ"
+        "name": "Stoner Witch",
+        "url": "https://open.spotify.com/album/1Ft1QQbUOCgSqumZKYuWhw"
       },
       "artists": [
         {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+          "name": "Melvins",
+          "url": "https://open.spotify.com/artist/6aVjo0xHSiuW5hkasoYSR3"
         }
       ],
-      "duration_ms": 266920,
-      "name": "Half Full Glass Of Wine",
-      "url": "https://open.spotify.com/track/0TeHvhaNBSuv7yGQ9dLouv"
+      "duration_ms": 72800,
+      "name": "Skweetis",
+      "url": "https://open.spotify.com/track/4M5tx88gLsiXSbxpPUAULe"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Nothing as the Ideal",
-        "url": "https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd"
-      },
-      "artists": [
-        {
-          "name": "All Them Witches",
-          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
-        }
-      ],
-      "duration_ms": 320350,
-      "name": "41",
-      "url": "https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
         "name": "Witch",
         "url": "https://open.spotify.com/album/5LcBa7FlZORQ1RQRJtlxFz"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 477920,
       "name": "Seer",
       "url": "https://open.spotify.com/track/0RGtMGYaz9esrHsFiC8TJR"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Nothing as the Ideal",
+        "url": "https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd"
+      },
+      "artists": [
+        {
+          "name": "All Them Witches",
+          "url": "https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65"
+        }
+      ],
+      "duration_ms": 320350,
+      "name": "41",
+      "url": "https://open.spotify.com/track/6L3qfBftLvlKn1abLExMgp"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "GAUPA",
-        "url": "https://open.spotify.com/album/1zCtx2csLzFU3cLdsCplyC"
-      },
-      "artists": [
-        {
-          "name": "GAUPA",
-          "url": "https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg"
-        }
-      ],
-      "duration_ms": 447680,
-      "name": "Febersvan",
-      "url": "https://open.spotify.com/track/176O5r9pRLRv8yj1IvLBoQ"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
         "name": "Dead Roots Stirring",
         "url": "https://open.spotify.com/album/4N5iqXMXJUZMUzhxDqYQxp"
       },
@@ -747,18 +731,18 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Dead Rock Commandos",
-        "url": "https://open.spotify.com/album/4BhPnZbzvNlm4pmIIFaXvK"
+        "name": "GAUPA",
+        "url": "https://open.spotify.com/album/1zCtx2csLzFU3cLdsCplyC"
       },
       "artists": [
         {
-          "name": "Nightstalker",
-          "url": "https://open.spotify.com/artist/4lypnrJxM8l7ZLtLVucEvk"
+          "name": "GAUPA",
+          "url": "https://open.spotify.com/artist/2xODNufQxAtc0gmDIhsjkg"
         }
       ],
-      "duration_ms": 196853,
-      "name": "Dead Rock Commandos",
-      "url": "https://open.spotify.com/track/4qBh3lrE2YiD3qlc3quiJZ"
+      "duration_ms": 447680,
+      "name": "Febersvan",
+      "url": "https://open.spotify.com/track/176O5r9pRLRv8yj1IvLBoQ"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -779,22 +763,6 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Macho Libre",
-        "url": "https://open.spotify.com/album/00mzkzyLCpZOaNXwZHpQjO"
-      },
-      "artists": [
-        {
-          "name": "Planet of Zeus",
-          "url": "https://open.spotify.com/artist/1oxVf6OeX1x5R9VxuHZmFG"
-        }
-      ],
-      "duration_ms": 230653,
-      "name": "Leftovers",
-      "url": "https://open.spotify.com/track/7IM5tvokhddITGFOrbZZGk"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
         "name": "Our Mother Electricity",
         "url": "https://open.spotify.com/album/5tUZdF1iAbmvs0GnXln2Gg"
       },
@@ -807,6 +775,38 @@
       "duration_ms": 352073,
       "name": "Elk.Blood.Heart",
       "url": "https://open.spotify.com/track/5PMpxJQfyrMPTfdEmyohky"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Dead Rock Commandos",
+        "url": "https://open.spotify.com/album/4BhPnZbzvNlm4pmIIFaXvK"
+      },
+      "artists": [
+        {
+          "name": "Nightstalker",
+          "url": "https://open.spotify.com/artist/4lypnrJxM8l7ZLtLVucEvk"
+        }
+      ],
+      "duration_ms": 196853,
+      "name": "Dead Rock Commandos",
+      "url": "https://open.spotify.com/track/4qBh3lrE2YiD3qlc3quiJZ"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Macho Libre",
+        "url": "https://open.spotify.com/album/00mzkzyLCpZOaNXwZHpQjO"
+      },
+      "artists": [
+        {
+          "name": "Planet of Zeus",
+          "url": "https://open.spotify.com/artist/1oxVf6OeX1x5R9VxuHZmFG"
+        }
+      ],
+      "duration_ms": 230653,
+      "name": "Leftovers",
+      "url": "https://open.spotify.com/track/7IM5tvokhddITGFOrbZZGk"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -923,18 +923,18 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Tempel",
-        "url": "https://open.spotify.com/album/5KuXPHPuYVisNCwUgunWG5"
+        "name": "Burning Village",
+        "url": "https://open.spotify.com/album/0qinwYpDyZYL9qQWLU0VY3"
       },
       "artists": [
         {
-          "name": "Colour Haze",
-          "url": "https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8"
+          "name": "Mountain Witch",
+          "url": "https://open.spotify.com/artist/5DVeLSoqvtSpVfkWSaTa5y"
         }
       ],
-      "duration_ms": 526293,
-      "name": "Aquamaria",
-      "url": "https://open.spotify.com/track/6s5BwPPzz4bdY5aUHWzqAE"
+      "duration_ms": 282217,
+      "name": "The Dead Won't Sleep",
+      "url": "https://open.spotify.com/track/19xNtqVB4lUKusLrU4VzFQ"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -955,18 +955,18 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Burning Village",
-        "url": "https://open.spotify.com/album/0qinwYpDyZYL9qQWLU0VY3"
+        "name": "Tempel",
+        "url": "https://open.spotify.com/album/5KuXPHPuYVisNCwUgunWG5"
       },
       "artists": [
         {
-          "name": "Mountain Witch",
-          "url": "https://open.spotify.com/artist/5DVeLSoqvtSpVfkWSaTa5y"
+          "name": "Colour Haze",
+          "url": "https://open.spotify.com/artist/5UzFfn3lNMWSm4PHCzBDi8"
         }
       ],
-      "duration_ms": 282217,
-      "name": "The Dead Won't Sleep",
-      "url": "https://open.spotify.com/track/19xNtqVB4lUKusLrU4VzFQ"
+      "duration_ms": 526293,
+      "name": "Aquamaria",
+      "url": "https://open.spotify.com/track/6s5BwPPzz4bdY5aUHWzqAE"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Wolfmother",
-        "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
-      },
-      "artists": [
-        {
-          "name": "Wolfmother",
-          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
-        }
-      ],
-      "duration_ms": 304600,
-      "name": "Colossal",
-      "url": "https://open.spotify.com/track/0voGuQpNWWj6EuIN8jluyM"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
         "name": "The No. 6 Dance",
         "url": "https://open.spotify.com/album/3V1vwPwJmuY0hJHf8Qac5J"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 214600,
       "name": "Mississippi King",
       "url": "https://open.spotify.com/track/44MBgTjYSZUIqq6KoBEcsD"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Wolfmother",
+        "url": "https://open.spotify.com/album/5ywynDHLHT3l8QSu41TcmC"
+      },
+      "artists": [
+        {
+          "name": "Wolfmother",
+          "url": "https://open.spotify.com/artist/3yEnArbNHyTCwMRvD9SBy4"
+        }
+      ],
+      "duration_ms": 304600,
+      "name": "Colossal",
+      "url": "https://open.spotify.com/track/0voGuQpNWWj6EuIN8jluyM"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
+        "name": "Head Smashed In",
+        "url": "https://open.spotify.com/album/0ISNJ9yB6tvbXX995axuv5"
+      },
+      "artists": [
+        {
+          "name": "We Hunt Buffalo",
+          "url": "https://open.spotify.com/artist/6Bz2ZeTKI0cyJwt7tBKoUU"
+        }
+      ],
+      "duration_ms": 290949,
+      "name": "Heavy Low",
+      "url": "https://open.spotify.com/track/1tc9LPy7w9C58Vs4dqgB9T"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
         "name": "From the Ages",
         "url": "https://open.spotify.com/album/3H0DAHNLi9Jp6fs5YnVPv9"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 387668,
       "name": "Tired Old Dog",
       "url": "https://open.spotify.com/track/7qRKONExTItyXpvgXh187M"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "Head Smashed In",
-        "url": "https://open.spotify.com/album/0ISNJ9yB6tvbXX995axuv5"
-      },
-      "artists": [
-        {
-          "name": "We Hunt Buffalo",
-          "url": "https://open.spotify.com/artist/6Bz2ZeTKI0cyJwt7tBKoUU"
-        }
-      ],
-      "duration_ms": 290949,
-      "name": "Heavy Low",
-      "url": "https://open.spotify.com/track/1tc9LPy7w9C58Vs4dqgB9T"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "The Sun",
-        "url": "https://open.spotify.com/album/1mXIpeKgPMWEwwngZqNlj8"
-      },
-      "artists": [
-        {
-          "name": "Somali Yacht Club",
-          "url": "https://open.spotify.com/artist/4sgZ0Kad8DGhIP422wLArV"
-        }
-      ],
-      "duration_ms": 492508,
-      "name": "Up in the Sky",
-      "url": "https://open.spotify.com/track/2fUIBCRyraS8L7JhRFlaoY"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
         "name": "Trance States in Tongues",
         "url": "https://open.spotify.com/album/3XRs4R7TrBDAAfWk4cGIZa"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 301973,
       "name": "Moonage Daydream",
       "url": "https://open.spotify.com/track/7cUnYzb4Hf1dg0LmYIY0QG"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "The Sun",
+        "url": "https://open.spotify.com/album/1mXIpeKgPMWEwwngZqNlj8"
+      },
+      "artists": [
+        {
+          "name": "Somali Yacht Club",
+          "url": "https://open.spotify.com/artist/4sgZ0Kad8DGhIP422wLArV"
+        }
+      ],
+      "duration_ms": 492508,
+      "name": "Up in the Sky",
+      "url": "https://open.spotify.com/track/2fUIBCRyraS8L7JhRFlaoY"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Dopesmoker",
-        "url": "https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q"
-      },
-      "artists": [
-        {
-          "name": "Sleep",
-          "url": "https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI"
-        }
-      ],
-      "duration_ms": 505196,
-      "name": "Hot Lava Man",
-      "url": "https://open.spotify.com/track/2QqCtTAAt8WaQW1cxzLcgT"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
         "name": "Into Submission",
         "url": "https://open.spotify.com/album/4B9cytDNyVkzr4PFtN1SSq"
       },
@@ -1339,6 +1323,22 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
+        "name": "Dopesmoker",
+        "url": "https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q"
+      },
+      "artists": [
+        {
+          "name": "Sleep",
+          "url": "https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI"
+        }
+      ],
+      "duration_ms": 505196,
+      "name": "Hot Lava Man",
+      "url": "https://open.spotify.com/track/2QqCtTAAt8WaQW1cxzLcgT"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
         "name": "The Witching Hour",
         "url": "https://open.spotify.com/album/418aQ2VfNFXGwIChNwpC9q"
       },
@@ -1367,6 +1367,22 @@
       "duration_ms": 349466,
       "name": "Acid Roulette",
       "url": "https://open.spotify.com/track/4QcnjybQIat20pZFqiDgbt"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Old Gods",
+        "url": "https://open.spotify.com/album/5cFsLTBGGzrVYtUY89XmQM"
+      },
+      "artists": [
+        {
+          "name": "Valley of the Sun",
+          "url": "https://open.spotify.com/artist/3OX4skiU9o7fxdi5Li7k5l"
+        }
+      ],
+      "duration_ms": 360800,
+      "name": "Old Gods",
+      "url": "https://open.spotify.com/track/203vkEu6B8lrR1cyLgKp80"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1415,22 +1431,6 @@
       "duration_ms": 371983,
       "name": "Too Stoned",
       "url": "https://open.spotify.com/track/3i5Z1K6f6E1OcVQ8DZqkyQ"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "Old Gods",
-        "url": "https://open.spotify.com/album/5cFsLTBGGzrVYtUY89XmQM"
-      },
-      "artists": [
-        {
-          "name": "Valley of the Sun",
-          "url": "https://open.spotify.com/artist/3OX4skiU9o7fxdi5Li7k5l"
-        }
-      ],
-      "duration_ms": 360800,
-      "name": "Old Gods",
-      "url": "https://open.spotify.com/track/203vkEu6B8lrR1cyLgKp80"
     },
     {
       "added_at": "2023-07-14 04:01:00",

@@ -502,7 +502,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 94625,
       "name": "A Winged Heart",
       "url": "https://open.spotify.com/track/46UHODsqv95qRmMomRGRt3"
@@ -2198,7 +2198,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 110742,
       "name": "Clara",
       "url": "https://open.spotify.com/track/0HxXK1CbIiWLlv9zxb2Kka"
@@ -3362,7 +3362,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 105455,
       "name": "Esperanza",
       "url": "https://open.spotify.com/track/4LSDE4CTLMe2W0iUiCZWxC"
@@ -3452,7 +3452,7 @@
       ],
       "date_added": "2022-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 97334,
       "name": "Evening",
       "url": "https://open.spotify.com/track/1O20Wf66xnmyiFITgfq0no"
@@ -3510,6 +3510,24 @@
       "duration_ms": 139250,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/3ljvffjEqf4o0gvOcvxF4O"
+    },
+    {
+      "album": {
+        "name": "Evoke",
+        "url": "https://open.spotify.com/album/6C8bQ1SVXBEbc2bTJDndJH"
+      },
+      "artists": [
+        {
+          "name": "Michael Frankenberger",
+          "url": "https://open.spotify.com/artist/4LKXdZFgLqP1Yozo8I28jJ"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134004,
+      "name": "Evoke",
+      "url": "https://open.spotify.com/track/5nH4IicA1G7pxIfgHPZNp0"
     },
     {
       "album": {
@@ -3874,6 +3892,24 @@
       "duration_ms": 182613,
       "name": "Flock of birds",
       "url": "https://open.spotify.com/track/1IX1OcHSP4orBnAijqa7gT"
+    },
+    {
+      "album": {
+        "name": "Flourish",
+        "url": "https://open.spotify.com/album/3ZZa5qPd2XsANxEP7Aypnp"
+      },
+      "artists": [
+        {
+          "name": "Vincent Pino",
+          "url": "https://open.spotify.com/artist/6jemOV5J9N3xXXhXwaY5fR"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151124,
+      "name": "Flourish",
+      "url": "https://open.spotify.com/track/64FQyOZ9XEu8BOjSLdKSxP"
     },
     {
       "album": {
@@ -5830,7 +5866,7 @@
       ],
       "date_added": "2022-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 104788,
       "name": "Kungsholmen",
       "url": "https://open.spotify.com/track/4C3azLvXWbIhtyxfgkAByq"
@@ -7454,6 +7490,24 @@
       "duration_ms": 115374,
       "name": "M\u00e9lange",
       "url": "https://open.spotify.com/track/2knwTrCOAR61eCReFMJ03z"
+    },
+    {
+      "album": {
+        "name": "M\u00e9lange Weaved",
+        "url": "https://open.spotify.com/album/1h991c5WZCjEVDxBsdF8Rq"
+      },
+      "artists": [
+        {
+          "name": "Maya Sarfatto",
+          "url": "https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126778,
+      "name": "M\u00e9lange Weaved",
+      "url": "https://open.spotify.com/track/4xmr3ICJGqZFJAOTWWo5ZV"
     },
     {
       "album": {
@@ -9088,7 +9142,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 103591,
       "name": "Return of the swans",
       "url": "https://open.spotify.com/track/28a8DXnFlTHUSGC9UuTwBM"
@@ -9232,7 +9286,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 82872,
       "name": "Rise",
       "url": "https://open.spotify.com/track/2OQ6G0qZfRq0bCCRI6R0yi"
@@ -10057,6 +10111,24 @@
     },
     {
       "album": {
+        "name": "Smile in the wind",
+        "url": "https://open.spotify.com/album/0uQE309NUZTFs9jfLV4KSp"
+      },
+      "artists": [
+        {
+          "name": "Noemi Lucas",
+          "url": "https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125603,
+      "name": "Smile in the wind",
+      "url": "https://open.spotify.com/track/1qb6AsW7Y4kXTQpExCW2xm"
+    },
+    {
+      "album": {
         "name": "Solace",
         "url": "https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj"
       },
@@ -10342,6 +10414,24 @@
       "duration_ms": 142500,
       "name": "Spruces and pines",
       "url": "https://open.spotify.com/track/7kE18LIKowFAQL4eOwBbNi"
+    },
+    {
+      "album": {
+        "name": "Starry Night",
+        "url": "https://open.spotify.com/album/3yF2Uz0nbLkrSmli3CcevE"
+      },
+      "artists": [
+        {
+          "name": "Sarah Watson",
+          "url": "https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128907,
+      "name": "Starry Night",
+      "url": "https://open.spotify.com/track/20xYxo5QO7JqSeZ1V1WUiE"
     },
     {
       "album": {
@@ -11254,7 +11344,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 110465,
       "name": "The Moon Tells Me a Secret",
       "url": "https://open.spotify.com/track/04sY6I7jwWcQzFTbCBqN64"

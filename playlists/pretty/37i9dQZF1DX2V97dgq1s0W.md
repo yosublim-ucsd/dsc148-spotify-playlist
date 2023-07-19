@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 
 > Beautifully chilled vocals from around the world\. Cover: FLO
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,147 likes - 83 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,242 likes - 83 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 | 82 | [Outside](https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Outside](https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY) | 3:25 |
 | 83 | [LaSenza](https://open.spotify.com/track/4ekb6cQpOOjAGqmFpzu2J6) | [Jordel](https://open.spotify.com/artist/6Wwdgvn4VyRAFwlcJTm92h) | [LaSenza](https://open.spotify.com/album/4vrxfbyeurYiKLySHODPWc) | 2:10 |
 
-Snapshot ID: `MCxhMWYwYzlhODVhYWExMzY2YTcwNDk4ZWFmNzdkOWQ1MDIxYzcwYzk5`
+Snapshot ID: `MCwwMDdmMjlkMzI5NmYxN2JkYzUzNWFmNTgzNWY3MTQ1MjM5MDQ3YmZi`

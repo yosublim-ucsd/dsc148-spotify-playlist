@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DLB6M8zkNk.md) - [plain]
 
 > POV: you're the main character in a romance novel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 206,158 likes - 46 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 206,582 likes - 46 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DLB6M8zkNk.md) - [plain]
 | 45 | [Stay with Me](https://open.spotify.com/track/4lWYROZtRMgHmDpdUtTI22) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2014, Vol\. 2](https://open.spotify.com/album/3kXPzEHhPKArQtzlQmPR9N) | 2:55 |
 | 46 | [The Princess Diaries Waltz \- Score](https://open.spotify.com/track/60vDJQPOMYUkL388zPpuNT) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ) | [The Princess Diaries](https://open.spotify.com/album/5kLlsgivbVFDYAngLjfEZZ) | 2:09 |
 
-Snapshot ID: `MCw0YTA3MTFmYWNkYjk1OGQ4NmYyNzk1MDIyYjFiMTQ1MGQ5NjdmOGVm`
+Snapshot ID: `MCxmZGQ2YWFkOTE5MjZmYWE2ODVjNjczYWY0MzE2N2YyMmQ5ZjEzZGI3`

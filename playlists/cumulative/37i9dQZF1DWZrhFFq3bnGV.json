@@ -269,6 +269,28 @@
     },
     {
       "album": {
+        "name": "32",
+        "url": "https://open.spotify.com/album/1VW732WmXOw1xSGZoI77Jr"
+      },
+      "artists": [
+        {
+          "name": "Aditya Ong Trio",
+          "url": "https://open.spotify.com/artist/4kkP9EmggHO2TIDcSOOZI4"
+        },
+        {
+          "name": "Alfado Jacob",
+          "url": "https://open.spotify.com/artist/5SYx8g5qg29QfBZHj455XT"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 624000,
+      "name": "Against The World",
+      "url": "https://open.spotify.com/track/6xdE66P9m2ybnbRqWduLVF"
+    },
+    {
+      "album": {
         "name": "Ah Pusing!",
         "url": "https://open.spotify.com/album/7p3GoqgdlYtTxIiUWFyoBt"
       },
@@ -992,7 +1014,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-14",
+      "date_removed": null,
       "duration_ms": 156466,
       "name": "Even Rain",
       "url": "https://open.spotify.com/track/5pBoKlrqqOqi3jMwa29jfD"
@@ -1874,7 +1896,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-14",
+      "date_removed": null,
       "duration_ms": 196363,
       "name": "Memories",
       "url": "https://open.spotify.com/track/0RwY80gFnRo9noKMipeFXi"

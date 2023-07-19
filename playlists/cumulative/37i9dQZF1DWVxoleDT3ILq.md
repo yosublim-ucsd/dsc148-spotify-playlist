@@ -4,7 +4,7 @@
 
 > Todo el sonido indie de Chile\. Foto: Marineros
 
-374 songs - 22 hr 42 min
+376 songs - 22 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Amatista](https://open.spotify.com/track/5KWGNOFCtfTARv9wuA9d60) | [Jurel Sónico & Los Impuros](https://open.spotify.com/artist/5E82IAvqChVXuyo2cDUxPN) | [Amatista](https://open.spotify.com/album/7gmY5yKaExOsSURwSFoaM1) | 4:39 | 2022-04-15 | 2022-07-19 |
 | [Amigos Imaginarios](https://open.spotify.com/track/0m7eJFkULhiip0NjjNN9vj) | [Todos Me Caen Bien](https://open.spotify.com/artist/39V0OLIFDw1VdBaasv2nIb) | [Amigos Imaginarios](https://open.spotify.com/album/1wXNkNVWA8sro1KO5cd6qV) | 3:13 | 2022-04-15 | 2022-07-26 |
 | [Amor De Metro](https://open.spotify.com/track/22ZvGUwEROSoctCybSXWSs) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [Amor De Metro](https://open.spotify.com/album/5dBilg3BLttmKUXofemJdW) | 2:15 | 2022-04-15 | 2023-01-28 |
-| [AMOR MINIMAL](https://open.spotify.com/track/3gydgoR0OGDNJNhkY0337b) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [AMOR MINIMAL](https://open.spotify.com/album/0OACOxBHoNzyA36x7au0bo) | 3:27 | 2023-01-27 |  |
+| [AMOR MINIMAL](https://open.spotify.com/track/3gydgoR0OGDNJNhkY0337b) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [AMOR MINIMAL](https://open.spotify.com/album/0OACOxBHoNzyA36x7au0bo) | 3:27 | 2023-01-27 | 2023-07-19 |
 | [Anatta](https://open.spotify.com/track/6mBiUBEIfOhpJB9bnlQspd) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF), [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Anatta](https://open.spotify.com/album/6d8WkEhkPtYhj7rms84hpG) | 6:38 | 2022-12-09 | 2023-05-13 |
 | [Antes que el sol nos queme](https://open.spotify.com/track/5In0QvvpyuKt8FHVviuRre) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Antes que el sol nos queme](https://open.spotify.com/album/1s5MJq7KIQpR5z5clJ0ixU) | 4:15 | 2023-04-21 |  |
 | [Apuesto Que el Mundo No Dura](https://open.spotify.com/track/6VDCmJpts1sUhJ7AwB90EZ) | [Azotea Bulnes](https://open.spotify.com/artist/0pQb15WbZCDXx5Ou5GxAxF) | [Apuesto Que el Mundo No Dura](https://open.spotify.com/album/7Euakry7vjtya8RrClYF8s) | 3:03 | 2022-04-15 | 2022-07-28 |
@@ -80,7 +80,7 @@
 | [Cómplices](https://open.spotify.com/track/1DZ7dNA91HPDKPG44KS5t9) | [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Cómplices](https://open.spotify.com/album/1RDaotWeaxCyVp40sbRfbE) | 3:48 | 2023-05-19 |  |
 | [Cóseme alas](https://open.spotify.com/track/7Isq8Q1UfIAvrETQ0gPJcG) | [GomaSlash](https://open.spotify.com/artist/2V381Id0YlUspiQorutUmP) | [Cóseme alas](https://open.spotify.com/album/26Z0dQVE6UDS8NPUUjXluJ) | 3:09 | 2022-04-15 | 2022-07-28 |
 | [DA2](https://open.spotify.com/track/7dRm6XxlK8c9ug3kt4AJjL) | [Caravana](https://open.spotify.com/artist/5v0U5GjJ43wx2ZAM02oOoa) | [DA2](https://open.spotify.com/album/4BjDWUTvXjfN1nwxwKkSCY) | 3:33 | 2022-04-15 | 2023-04-01 |
-| [Dame Una Señal](https://open.spotify.com/track/3QuuNFeiWyDbUrRKpw8Ksq) | [Natalia Montenegro](https://open.spotify.com/artist/2UFybBcjbipkbyftHLfq8C), [Mariana Montenegro](https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm) | [Dame Una Señal](https://open.spotify.com/album/6i15JANt80vWGTIm1zEtzF) | 3:14 | 2023-04-28 |  |
+| [Dame Una Señal](https://open.spotify.com/track/3QuuNFeiWyDbUrRKpw8Ksq) | [Natalia Montenegro](https://open.spotify.com/artist/2UFybBcjbipkbyftHLfq8C), [Mariana Montenegro](https://open.spotify.com/artist/5ukVsGwdu2xaIWF4ytxBtm) | [Dame Una Señal](https://open.spotify.com/album/6i15JANt80vWGTIm1zEtzF) | 3:14 | 2023-04-28 | 2023-07-19 |
 | [Danza](https://open.spotify.com/track/1FujFNI2naG0XkDCf0fdJz) | [Keyo Catto](https://open.spotify.com/artist/2LlKHzvYJMeJuwdk02KUec) | [Danza](https://open.spotify.com/album/4zrP2XzPDDB4WuouYnTIee) | 3:45 | 2022-07-08 | 2022-08-17 |
 | [Darkside](https://open.spotify.com/track/5LBlK0wPg9skXJPDzJUtdJ) | [Vale Castillo](https://open.spotify.com/artist/3kQFg1b6dX3GfuQL58ANpF), [Cuatrobeats](https://open.spotify.com/artist/5VH4yORLdFVHVSqCYAjjoh) | [Darkside](https://open.spotify.com/album/6dMrlT3y9pTZlGvIK3m7KY) | 3:24 | 2022-04-15 | 2022-07-14 |
 | [De Cerca](https://open.spotify.com/track/1eYOUJWh7BADGKPxhXCM7u) | [Los Días Silvestres](https://open.spotify.com/artist/51ewyZ0SAKgCG9dqme1Rff) | [Cautiverio](https://open.spotify.com/album/7hfyFpnxxzKZGG8fnzwCJ7) | 5:35 | 2022-04-15 | 2022-07-26 |
@@ -100,6 +100,7 @@
 | [Déjame](https://open.spotify.com/track/5M6tbiFcXlmUsExGACcB2W) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Déjame](https://open.spotify.com/album/0bMqqQFF8RH3HF44FLcsde) | 3:46 | 2022-04-15 | 2022-12-10 |
 | [Días Que No Lloro](https://open.spotify.com/track/31Dmo6pBMAWANUuM5i81zc) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Días Que No Lloro](https://open.spotify.com/album/5kmZJiLAcepWRBg6sDWH14) | 2:41 | 2022-04-15 |  |
 | [Ea Dem \(Demo 2009\)](https://open.spotify.com/track/24l4gnnZhsfEDQsKntUFQX) | [Astro](https://open.spotify.com/artist/0V2YTCyeeSs4sivZL99x3g) | [Ea Dem \(Demo 2009\)](https://open.spotify.com/album/0wCC8j4kfKZwrDR4OeHcns) | 3:05 | 2022-04-15 | 2022-12-13 |
+| [Eclipse](https://open.spotify.com/track/1R7gBYQqlNLekdOjQzg4OC) | [Proyectosolo](https://open.spotify.com/artist/1FSq5ATUMKNRLCxwWwpELa) | [Eclipse](https://open.spotify.com/album/4Ow8TLqbx5F78a9ZOrUGzf) | 3:16 | 2023-07-14 |  |
 | [Eco](https://open.spotify.com/track/7w4yG9ADQ6yUFR1RwX3hwi) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF), [Martín Berríos](https://open.spotify.com/artist/3EQz0AUS2CMV6lOu3Zplm2) | [Eco](https://open.spotify.com/album/4oCOfG3dcH3CmyA2Qd4XkU) | 4:37 | 2023-07-07 |  |
 | [El Bosque](https://open.spotify.com/track/0apd5UoECzHEwxVivWILV1) | [Adolescentes Sin Edad](https://open.spotify.com/artist/6HBntxIY4gRjp8syM0IEYV) | [Hits para Morir](https://open.spotify.com/album/3UfoBjgBDZo3NQSLWKVLzg) | 3:26 | 2022-04-15 | 2022-07-29 |
 | [El Calor Nos Confundió](https://open.spotify.com/track/1eqDrhKuCrdcFID3cAY9vw) | [Fármacos](https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M) | [Manual de una Pérdida](https://open.spotify.com/album/1w7Z6fBFMBHsVGs6mVA2QV) | 3:27 | 2022-04-15 | 2022-12-10 |
@@ -166,6 +167,7 @@
 | [Inventar](https://open.spotify.com/track/77puljFXglT7MBdWQbNIZQ) | [José Vicentes](https://open.spotify.com/artist/1IjFBSOVrbTedyO0yIJg39) | [Inventar](https://open.spotify.com/album/1plfdtztYYMJbP8doxVywr) | 3:42 | 2023-03-24 |  |
 | [Invierno](https://open.spotify.com/track/53Pcbz7MYvm4JX0cKXeMzn) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Invierno](https://open.spotify.com/album/1owF920lLxiiTuV7sdGrLk) | 4:15 | 2022-04-15 | 2022-12-10 |
 | [Juliana](https://open.spotify.com/track/4ofA2Txy2wWZdHwc4O8gO5) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF), [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [Juliana](https://open.spotify.com/album/2DwYhEkb9K1hixzLbQ1T40) | 4:39 | 2022-04-15 | 2022-07-29 |
+| [Junio](https://open.spotify.com/track/45pOC2Od71kyeZpWu9Do5o) | [Antonia Navarro](https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt) | [Insana y Salva](https://open.spotify.com/album/5TR2BOJGqJATv53IlerpdY) | 4:16 | 2023-07-14 |  |
 | [Karma](https://open.spotify.com/track/2XxJKaZNhPanBkpGSMoApE) | [Charly Benavente](https://open.spotify.com/artist/38RtVKKRJwYGkKJDuZtHJP) | [Karma](https://open.spotify.com/album/7kP9AmZtw94OKJ9WwCbcs4) | 3:16 | 2022-10-14 | 2023-03-26 |
 | [Karma](https://open.spotify.com/track/7nJzvoXmzFfKH0XupDiBzV) | [Charly Benavente](https://open.spotify.com/artist/38RtVKKRJwYGkKJDuZtHJP) | [Karma](https://open.spotify.com/album/5qJlhQrdU7GFAvn8w48ukg) | 3:16 | 2023-03-24 | 2023-06-10 |
 | [Klapaucius](https://open.spotify.com/track/00tq3tSdLI9zOn3ctd3OlQ) | [Al Menos Se Intenta](https://open.spotify.com/artist/6iXVwJ4tstSPx7zMv24ChX), [Aquiestawally](https://open.spotify.com/artist/6cM3ql6as318GpwefoKVIl) | [Klapaucius](https://open.spotify.com/album/2s8fH3h5DAarJXn7jlzBHW) | 3:34 | 2022-04-15 | 2022-07-29 |

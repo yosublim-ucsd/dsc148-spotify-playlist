@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-1,165 songs - 2 day 20 hr 15 min
+1,166 songs - 2 day 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -954,7 +954,8 @@
 | [Swimming In Your Eyes](https://open.spotify.com/track/1clNueVAJ6a3orfLksJ1Sk) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n) | [Swimming In Your Eyes](https://open.spotify.com/album/3s00JsMokTyY89ZERHP2QL) | 3:16 | 2021-11-13 | 2022-04-29 |
 | [Synapse Dynamics](https://open.spotify.com/track/7149PzASMowluOarCWzZcv) | [Mat Zo](https://open.spotify.com/artist/2n7USVO8fO8FF8zq4kG2N1) | [Lucky Strike / Synapse Dynamics](https://open.spotify.com/album/3qRLXFFbdLa2Sirhp8J1BO) | 3:52 | 2019-08-09\* | 2019-08-27 |
 | [Take](https://open.spotify.com/track/07HrxwZqh0R2QGg0mABuYA) | [Echos](https://open.spotify.com/artist/6SnMMbLQ4iS8WIyt3ksmCR) | [Echos](https://open.spotify.com/album/0IMs2SyGSyl3fVRtFNeQdx) | 3:16 | 2019-08-09\* | 2019-09-14 |
-| [Take A Chance](https://open.spotify.com/track/75Nq7k2qnyeOlXIOiJ56HN) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Greatest Tits](https://open.spotify.com/album/3NV7lasFnUDfE4ZMvYKwQx) | 4:24 | 2023-06-30 |  |
+| [Take A Chance](https://open.spotify.com/track/6KJBwR1yrqviwL31XRpu3n) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Greatest Tits](https://open.spotify.com/album/3yZSOcz06tt6XFh5sWGnkI) | 4:24 | 2023-07-14 |  |
+| [Take A Chance](https://open.spotify.com/track/75Nq7k2qnyeOlXIOiJ56HN) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Greatest Tits](https://open.spotify.com/album/3NV7lasFnUDfE4ZMvYKwQx) | 4:24 | 2023-06-30 | 2023-07-19 |
 | [Take Me There](https://open.spotify.com/track/6cirkf76kYPUsdzQfjAFRw) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Take Me There](https://open.spotify.com/album/1u4DytoOvqrGjqVMfemZyY) | 4:28 | 2019-08-09\* | 2019-09-14 |
 | [Take Me To The Sunshine \(feat\. BullySongs\)](https://open.spotify.com/track/4peF3yGZAZfeOFDahi6Ig5) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE), [BullySongs](https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5) | [Take Me To The Sunshine \(feat\. BullySongs\)](https://open.spotify.com/album/20AY41HrcfdjRmHSpLLSgd) | 2:57 | 2022-02-04 |  |
 | [Take My Hand](https://open.spotify.com/track/1Z650q7rTHtlSWi17dvDFo) | [Janji](https://open.spotify.com/artist/5VXPJC0PNpJbzB10A39G8E), [OLAVI](https://open.spotify.com/artist/2m5zXSeaN8U33bgGG2XlYi) | [Take My Hand](https://open.spotify.com/album/08yGtFtsjppMCvfHUBGkYZ) | 3:14 | 2019-08-09\* | 2020-03-29 |

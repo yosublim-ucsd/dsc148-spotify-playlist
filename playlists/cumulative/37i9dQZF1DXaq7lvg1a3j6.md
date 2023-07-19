@@ -4,7 +4,7 @@
 
 > Let these songs soundtrack your busy wedding season.
 
-56 songs - 3 hr 18 min
+57 songs - 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Chote Chote Bhaiyon Ke Bade Bhaiya](https://open.spotify.com/track/6LJhtkzikhMyIBMFWr5TNX) | [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K), [Kavita Krishnamurthy](https://open.spotify.com/artist/6WPmTGeeoymoVlXVtsCwz7), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Hum Saath \- Saath Hain \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0V8O6S0S6mYdyPch6DdW8g) | 4:15 | 2021-10-29 |  |
 | [Cutiepie \(From "Ae Dil Hai Mushkil"\)](https://open.spotify.com/track/7hXnhouVPnOnFwCGrQMHvB) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Pardeep Singh Sran](https://open.spotify.com/artist/2dnnS3sjCk9OHns6kAYI19), [Nakash Aziz](https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB) | [Ae Dil Hai Mushkil \(Original Motion Picture Soundtrack\) \[Deluxe Edition\]](https://open.spotify.com/album/5xjaz957o6YGSXmlfd2tex) | 3:51 | 2021-10-29 |  |
 | [Dil Chori](https://open.spotify.com/track/6zojSFiUNySBy3Kd1JVCXb) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1), [Ishers](https://open.spotify.com/artist/1UHgzvQ7MJB9U2qlRtUJGo) | [Sonu Ke Titu Ki Sweety](https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX) | 3:46 | 2021-10-29 |  |
+| [Dilon Ki Doriyan \(From "Bawaal"\)](https://open.spotify.com/track/1S6LtcjRzG5uONe3v6I0IT) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Zahrah S Khan](https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh) | [Dilon Ki Doriyan \(From "Bawaal"\)](https://open.spotify.com/album/0weAJmsM6oa2aJAv2TBsPc) | 3:00 | 2023-07-18 |  |
 | [Din Shagna Da](https://open.spotify.com/track/20rwogC6aE369YsxFb5aRp) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c) | [Phillauri](https://open.spotify.com/album/0VcufnK1aFnUCIQR2j9cFE) | 3:35 | 2021-10-29 |  |
 | [Don't Be Shy Again](https://open.spotify.com/track/09NOgtne4jBlEBKQfF71wD) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz), [Gurdeep Mehndi](https://open.spotify.com/artist/3ZeKRqvjWodGs3IenNQXio) | [Bala \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3eqqSmPlC78OQpQoAnkt7z) | 2:44 | 2021-10-29 |  |
 | [Dulhe Ka Sehra \- Male Version](https://open.spotify.com/track/1VDOo2IV62R7Po62XJZlST) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Dhadkan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3fP94oJh2aZzegj1DZtfUv) | 8:32 | 2021-10-29 |  |

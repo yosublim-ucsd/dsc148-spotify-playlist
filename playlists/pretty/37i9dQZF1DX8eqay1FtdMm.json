@@ -1,12 +1,12 @@
 {
   "description": "Meet the vocalists representing Korea! (Cover:\u001dKim Min Seok(\uae40\ubbfc\uc11d)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 323182,
+  "num_followers": 323275,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNWYzM2Q5ZDc1YWJmNWI2YTkyMjc1NWI2NDU1YTdhODA2YTExMzA2",
+  "snapshot_id": "MCwzMjA5MmQ4ZjMzNDBmNjZiODM2Yzk0Y2RiMmM4YzI2NmYxMzUxYjc5",
   "tracks": [
     {
       "added_at": "2023-07-17 06:37:20",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-07-17 06:37:20",
       "album": {
+        "name": "18 again, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2BLtLWe1K6HZm0NjKuYjCV"
+      },
+      "artists": [
+        {
+          "name": "Sohyang",
+          "url": "https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg"
+        }
+      ],
+      "duration_ms": 244213,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/0RRJ2PHFSCyBaaydDHOv1u"
+    },
+    {
+      "added_at": "2023-07-17 06:37:20",
+      "album": {
         "name": "HANGANG",
         "url": "https://open.spotify.com/album/3VF7eXNnX3jEgJVAPcC7BM"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 199133,
       "name": "HANGANG (Feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/25QGSFaB28MnIp7CIX1Nkk"
-    },
-    {
-      "added_at": "2023-07-17 06:37:20",
-      "album": {
-        "name": "18 again, Pt. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/2BLtLWe1K6HZm0NjKuYjCV"
-      },
-      "artists": [
-        {
-          "name": "Sohyang",
-          "url": "https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg"
-        }
-      ],
-      "duration_ms": 244213,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/0RRJ2PHFSCyBaaydDHOv1u"
     },
     {
       "added_at": "2023-07-17 06:37:20",
@@ -851,6 +851,22 @@
     {
       "added_at": "2023-07-17 06:37:20",
       "album": {
+        "name": "Diamond",
+        "url": "https://open.spotify.com/album/58T3Mkgs37IjcximP129MP"
+      },
+      "artists": [
+        {
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
+        }
+      ],
+      "duration_ms": 179253,
+      "name": "Diamond",
+      "url": "https://open.spotify.com/track/1OjybWpjWBMDxOPNerlmDw"
+    },
+    {
+      "added_at": "2023-07-17 06:37:20",
+      "album": {
         "name": "Alchemy of Souls, Pt. 6 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/6ORZQE6DlroG3iYfnv1kLa"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 228369,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/5kHAdANv7GJ4YuX55WVG8I"
-    },
-    {
-      "added_at": "2023-07-17 06:37:20",
-      "album": {
-        "name": "Diamond",
-        "url": "https://open.spotify.com/album/58T3Mkgs37IjcximP129MP"
-      },
-      "artists": [
-        {
-          "name": "Rothy",
-          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
-        }
-      ],
-      "duration_ms": 179253,
-      "name": "Diamond",
-      "url": "https://open.spotify.com/track/1OjybWpjWBMDxOPNerlmDw"
     },
     {
       "added_at": "2023-07-17 06:37:20",
@@ -935,6 +935,22 @@
       "duration_ms": 232586,
       "name": "Mother Nature (H\u2082O)",
       "url": "https://open.spotify.com/track/7KZThhMaRjQpB9x6yIJvZ8"
+    },
+    {
+      "added_at": "2023-07-17 06:37:20",
+      "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/0Kjrj9VlwLkuAWb1FugHoi"
+      },
+      "artists": [
+        {
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
+        }
+      ],
+      "duration_ms": 260264,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/5vMmRDWrRsogNA6xm916nq"
     },
     {
       "added_at": "2023-07-17 06:37:20",
@@ -1003,22 +1019,6 @@
       "duration_ms": 238853,
       "name": "Way",
       "url": "https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5"
-    },
-    {
-      "added_at": "2023-07-17 06:37:20",
-      "album": {
-        "name": "Stars",
-        "url": "https://open.spotify.com/album/0Kjrj9VlwLkuAWb1FugHoi"
-      },
-      "artists": [
-        {
-          "name": "Rothy",
-          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
-        }
-      ],
-      "duration_ms": 260264,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/5vMmRDWrRsogNA6xm916nq"
     },
     {
       "added_at": "2023-07-17 06:37:20",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-07-17 06:37:20",
       "album": {
-        "name": "YOUNHA Studio Live Album 'MINDSET'",
-        "url": "https://open.spotify.com/album/3pY7uXFrbq96BhWXcomLIi"
-      },
-      "artists": [
-        {
-          "name": "Younha",
-          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
-        }
-      ],
-      "duration_ms": 331600,
-      "name": "Kaze",
-      "url": "https://open.spotify.com/track/686EAFs0uJRvVTHaOhkP1u"
-    },
-    {
-      "added_at": "2023-07-17 06:37:20",
-      "album": {
         "name": "my life",
         "url": "https://open.spotify.com/album/1JzvEZ8BtBvjwrqOj0OdLS"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 174990,
       "name": "my life",
       "url": "https://open.spotify.com/track/53Iv4XnDyFKnMXVaiiCcdv"
+    },
+    {
+      "added_at": "2023-07-17 06:37:20",
+      "album": {
+        "name": "YOUNHA Studio Live Album 'MINDSET'",
+        "url": "https://open.spotify.com/album/3pY7uXFrbq96BhWXcomLIi"
+      },
+      "artists": [
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        }
+      ],
+      "duration_ms": 331600,
+      "name": "Kaze",
+      "url": "https://open.spotify.com/track/686EAFs0uJRvVTHaOhkP1u"
     },
     {
       "added_at": "2023-07-17 06:37:20",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-07-17 06:37:20",
       "album": {
-        "name": "Everytime",
-        "url": "https://open.spotify.com/album/2ULjjijtg6HcO3jakMRqf0"
-      },
-      "artists": [
-        {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
-        }
-      ],
-      "duration_ms": 162586,
-      "name": "Everytime",
-      "url": "https://open.spotify.com/track/11E8tSev2NIRvBY0R8Occq"
-    },
-    {
-      "added_at": "2023-07-17 06:37:20",
-      "album": {
         "name": "Rookie Historian GooHaeRyung (Original Television Soundtrack), Pt. 2",
         "url": "https://open.spotify.com/album/7vvT1Lt9uuSjV7rdYeeIDt"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 234269,
       "name": "My Dream",
       "url": "https://open.spotify.com/track/6KH01MmdV1vsprqge5pWUc"
+    },
+    {
+      "added_at": "2023-07-17 06:37:20",
+      "album": {
+        "name": "Everytime",
+        "url": "https://open.spotify.com/album/2ULjjijtg6HcO3jakMRqf0"
+      },
+      "artists": [
+        {
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+        }
+      ],
+      "duration_ms": 162586,
+      "name": "Everytime",
+      "url": "https://open.spotify.com/track/11E8tSev2NIRvBY0R8Occq"
     },
     {
       "added_at": "2023-07-17 06:37:20",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2023-07-17 06:37:20",
       "album": {
+        "name": "My Liberation Notes OST Part 1",
+        "url": "https://open.spotify.com/album/05gkwvfw8flLmPLx6rkmbJ"
+      },
+      "artists": [
+        {
+          "name": "HEN",
+          "url": "https://open.spotify.com/artist/3Cit2bKhLzwUJPmP6jnXDC"
+        }
+      ],
+      "duration_ms": 218621,
+      "name": "Deeply",
+      "url": "https://open.spotify.com/track/43SfjbiRYF7jhZKNiFPCVG"
+    },
+    {
+      "added_at": "2023-07-17 06:37:20",
+      "album": {
         "name": "Wish & Wind",
         "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 212146,
       "name": "Because of You",
       "url": "https://open.spotify.com/track/5jZYTT8lSXiVzkpiBTQGTj"
-    },
-    {
-      "added_at": "2023-07-17 06:37:20",
-      "album": {
-        "name": "My Liberation Notes OST Part 1",
-        "url": "https://open.spotify.com/album/05gkwvfw8flLmPLx6rkmbJ"
-      },
-      "artists": [
-        {
-          "name": "HEN",
-          "url": "https://open.spotify.com/artist/3Cit2bKhLzwUJPmP6jnXDC"
-        }
-      ],
-      "duration_ms": 218621,
-      "name": "Deeply",
-      "url": "https://open.spotify.com/track/43SfjbiRYF7jhZKNiFPCVG"
     },
     {
       "added_at": "2023-07-17 06:37:20",

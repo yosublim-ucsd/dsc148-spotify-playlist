@@ -3413,6 +3413,32 @@
     },
     {
       "album": {
+        "name": "Barbie World (with Aqua) [From Barbie The Album]",
+        "url": "https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109750,
+      "name": "Barbie World (with Aqua) [From Barbie The Album]",
+      "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
+    },
+    {
+      "album": {
         "name": "Meus Sucessos",
         "url": "https://open.spotify.com/album/32DoB68Ds3Tqfj7DuQPEEW"
       },
@@ -3428,6 +3454,24 @@
       "duration_ms": 181077,
       "name": "Barreiras",
       "url": "https://open.spotify.com/track/3C9UhmFQwhmRta08SCnPDm"
+    },
+    {
+      "album": {
+        "name": "Escolhas, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3a6T0jJ6mF4KpBYvKH5o7Z"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133546,
+      "name": "Barulho Do Foguete - Ao Vivo",
+      "url": "https://open.spotify.com/track/42JNab8NPeCADJ9D3Cl5wS"
     },
     {
       "album": {
@@ -5036,7 +5080,7 @@
       ],
       "date_added": "2023-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 226476,
       "name": "Cad\u00ea Seu Namorado Mo\u00e7a?",
       "url": "https://open.spotify.com/track/6F0ldIcRC6oCcn3hDukg9T"
@@ -5510,7 +5554,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 187080,
       "name": "Carolina Vai no Ch\u00e3o",
       "url": "https://open.spotify.com/track/0PiSjdemgmwE5Rat1AEX42"
@@ -5740,7 +5784,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 137500,
       "name": "Cavalgada",
       "url": "https://open.spotify.com/track/4XwHH6lqTBsQ1TTW4Iq7er"
@@ -6024,7 +6068,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 309865,
       "name": "Cinco Estrelas, Pt. 2",
       "url": "https://open.spotify.com/track/1bbrMO2BBU9kcrZTnU1D5s"
@@ -6126,7 +6170,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 232195,
       "name": "Close Friends",
       "url": "https://open.spotify.com/track/4v6TGGmgoJC3P2gqToqJLr"
@@ -8916,7 +8960,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 83156,
       "name": "Ela Sabe Que \u00c9 o Henry N\u00e9?",
       "url": "https://open.spotify.com/track/3Er8so9d9DSxhgOF5Bcgc3"
@@ -9208,7 +9252,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 188497,
       "name": "Engana Dizendo Que Ama",
       "url": "https://open.spotify.com/track/39xOREhViooEYFpmnKTdrl"
@@ -10027,6 +10071,28 @@
     },
     {
       "album": {
+        "name": "Traia V\u00e9ia (Ao Vivo em Goi\u00e2nia)",
+        "url": "https://open.spotify.com/album/73lR6Nivc8Qwu3Jym41CKg"
+      },
+      "artists": [
+        {
+          "name": "Traia V\u00e9ia",
+          "url": "https://open.spotify.com/artist/0FMBXfGasuAjdpsCs7zgju"
+        },
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134932,
+      "name": "Eu N\u00e3o Previ - Ao Vivo em Goi\u00e2nia",
+      "url": "https://open.spotify.com/track/3S8M3mZGIc10IdtmNTsrjQ"
+    },
+    {
+      "album": {
         "name": "Eu Sou Muito Humilde: Disputa Pra Bbotar Na Pipokinha",
         "url": "https://open.spotify.com/album/5ffjC0eUq0RrZvnMSGmspZ"
       },
@@ -10180,6 +10246,36 @@
       "duration_ms": 471285,
       "name": "Eu Tenho Voc\u00ea (Ao Vivo)",
       "url": "https://open.spotify.com/track/2FG6DJRP9URLUHWn8GDYex"
+    },
+    {
+      "album": {
+        "name": "Eu Vou Cair na Noite",
+        "url": "https://open.spotify.com/album/1sCX9he2eSwF1OcE3wWwOW"
+      },
+      "artists": [
+        {
+          "name": "DJ RENAN DA BL",
+          "url": "https://open.spotify.com/artist/13VVAjO14WSrctkGL7U3xc"
+        },
+        {
+          "name": "Dj Jl Do Tp",
+          "url": "https://open.spotify.com/artist/4mBT8Rbk2WUxiVxdRpX5hW"
+        },
+        {
+          "name": "Mc Pretchako",
+          "url": "https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv"
+        },
+        {
+          "name": "Mc Menor Thalis",
+          "url": "https://open.spotify.com/artist/3qjoOrsHcxhgKyBsh4ZOEn"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125422,
+      "name": "Eu Vou Cair na Noite",
+      "url": "https://open.spotify.com/track/7z2hqtAyf6FR39ZZmVkvcO"
     },
     {
       "album": {
@@ -10628,6 +10724,50 @@
       "duration_ms": 493425,
       "name": "Favela Vive 5",
       "url": "https://open.spotify.com/track/5svioJ5BlJIYfQFPT1eq7v"
+    },
+    {
+      "album": {
+        "name": "Faz completo chefe",
+        "url": "https://open.spotify.com/album/33hROE0H92lTqbo4j44Tmi"
+      },
+      "artists": [
+        {
+          "name": "mc menor vt",
+          "url": "https://open.spotify.com/artist/4L2XiRy01sO21hxRgo8qk7"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144285,
+      "name": "Faz completo chefe",
+      "url": "https://open.spotify.com/track/2U6m5xkQRzwU1Z9FJRyPVJ"
+    },
+    {
+      "album": {
+        "name": "Faz o Teu Nome",
+        "url": "https://open.spotify.com/album/5TW9EKpA3iQoRMy8JdlP5B"
+      },
+      "artists": [
+        {
+          "name": "Os Quebradeiras",
+          "url": "https://open.spotify.com/artist/4ttjWi3eElnVE8qPjqhj9x"
+        },
+        {
+          "name": "DJ Zullu",
+          "url": "https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE"
+        },
+        {
+          "name": "Stefan Baby",
+          "url": "https://open.spotify.com/artist/0SmhJO6Nt4XdUaVwycMRn3"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99701,
+      "name": "Faz o Teu Nome",
+      "url": "https://open.spotify.com/track/2SFc3dFgkPvADsqz84MYi6"
     },
     {
       "album": {
@@ -11594,7 +11734,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-18",
+      "date_removed": null,
       "duration_ms": 125040,
       "name": "fukumean",
       "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
@@ -13568,7 +13708,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 135000,
       "name": "Inten\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/3n0dpExJy6g8z74zkBECOI"
@@ -15691,6 +15831,44 @@
     },
     {
       "album": {
+        "name": "Mal Intencionada (J\u00e1 Foi, J\u00e1 Era)",
+        "url": "https://open.spotify.com/album/4rNuycR489JZenIDq4Fz5h"
+      },
+      "artists": [
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228571,
+      "name": "Mal Intencionada (J\u00e1 Foi, J\u00e1 Era)",
+      "url": "https://open.spotify.com/track/4TvKjqrk0Hp6k0vsbxyXjK"
+    },
+    {
+      "album": {
         "name": "Exagerado",
         "url": "https://open.spotify.com/album/6WvN5lJoLYNXc8HYLuxjeX"
       },
@@ -15888,6 +16066,28 @@
       "duration_ms": 151579,
       "name": "Mam\u00e3e Eu Quero Ser, Papai N\u00e3o Deixa",
       "url": "https://open.spotify.com/track/5TtpWNrcvGvkwjSI9vfgPm"
+    },
+    {
+      "album": {
+        "name": "Manda \u00c1udio",
+        "url": "https://open.spotify.com/album/2JdlnM25JoATKsHTckZwDM"
+      },
+      "artists": [
+        {
+          "name": "Penedo",
+          "url": "https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T"
+        },
+        {
+          "name": "Vice-Versa",
+          "url": "https://open.spotify.com/artist/3uFYZKcA0ABjsnxzgEBhKX"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138715,
+      "name": "Manda \u00c1udio",
+      "url": "https://open.spotify.com/track/40bBt1gFvO5WF53zsH6S6T"
     },
     {
       "album": {
@@ -19553,6 +19753,28 @@
     },
     {
       "album": {
+        "name": "Novidade na \u00c1rea",
+        "url": "https://open.spotify.com/album/1ehFLXfMUcEfTksKeFP0cl"
+      },
+      "artists": [
+        {
+          "name": "Mc Livinho",
+          "url": "https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3"
+        },
+        {
+          "name": "DJ Matt D",
+          "url": "https://open.spotify.com/artist/1rIc4yTieeRq25NA3T8RQ5"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120014,
+      "name": "Novidade na \u00c1rea",
+      "url": "https://open.spotify.com/track/2uhw2oYbugGJbn10wipNX5"
+    },
+    {
+      "album": {
         "name": "Novinha de 15 (feat. Luan no Beat) [Brega Funk]",
         "url": "https://open.spotify.com/album/2Hg1YHhqbUhgCu8mVY71eI"
       },
@@ -20586,7 +20808,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 67729,
       "name": "Oi Oi Vs Na Onda do Black Vs Beat Street Fighter",
       "url": "https://open.spotify.com/track/0wCmIFoHGoKPwUPh3Uzf0p"
@@ -20986,7 +21208,7 @@
       ],
       "date_added": "2023-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 119736,
       "name": "Orquestra Maldita",
       "url": "https://open.spotify.com/track/5yNcl0KUSPv78Erf26ul5A"
@@ -28366,7 +28588,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 105454,
       "name": "Toma Toma Pau",
       "url": "https://open.spotify.com/track/353gM5AZL8OWRoBYR2JxDs"
@@ -29014,7 +29236,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 92093,
       "name": "T\u00e1 OK",
       "url": "https://open.spotify.com/track/0fABszUFNbNq9IW503Gj8v"
@@ -30425,6 +30647,44 @@
     },
     {
       "album": {
+        "name": "Voc\u00ea N\u00e3o Ama Ningu\u00e9m 3",
+        "url": "https://open.spotify.com/album/3lcotBig7d3eKn3cQo5BwE"
+      },
+      "artists": [
+        {
+          "name": "Knust",
+          "url": "https://open.spotify.com/artist/7Ceg1mJmu4lAzuhQU9hQFJ"
+        },
+        {
+          "name": "Cesar Mc",
+          "url": "https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347000,
+      "name": "Voc\u00ea N\u00e3o Ama Ningu\u00e9m 3",
+      "url": "https://open.spotify.com/track/6hfek8BveIwDtAtZuIVFij"
+    },
+    {
+      "album": {
         "name": "VOC\u00ca SE ENTREGA PRA MIM, DESCE S\u00d3 MAIS UM POUQUINHO x BEAT RISADINHA",
         "url": "https://open.spotify.com/album/44K9gZCrMa2B7TPz9Qt9AJ"
       },
@@ -31400,6 +31660,24 @@
       "duration_ms": 194206,
       "name": "You're On Your Own, Kid",
       "url": "https://open.spotify.com/track/4D7BCuvgdJlYvlX5WlN54t"
+    },
+    {
+      "album": {
+        "name": "YUM YUM",
+        "url": "https://open.spotify.com/album/7Bc7xEWvkW01bvq5jAhCQS"
+      },
+      "artists": [
+        {
+          "name": "LXNGVX",
+          "url": "https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154236,
+      "name": "YUM YUM - Slowed",
+      "url": "https://open.spotify.com/track/7eLiel6UxoNWPGJoSfrq46"
     },
     {
       "album": {

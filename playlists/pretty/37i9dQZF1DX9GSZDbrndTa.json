@@ -1,12 +1,12 @@
 {
   "description": "The bluesy side of jazz",
-  "num_followers": 86404,
+  "num_followers": 86471,
   "original_name": "Jazz-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDJmMWI1OGI2NzdhMmFhNjVhNjljMmQ1OTRjZDZjYTEyOTIxZjBm",
+  "snapshot_id": "MCxiMmM4MDg5NjQ0N2YyNjA2YjVmMjk4ZTFiN2U0OWQ2ZjI2Y2FmZGIw",
   "tracks": [
     {
       "added_at": "2020-10-12 18:15:54",
@@ -791,6 +791,22 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
+        "name": "Bird 100",
+        "url": "https://open.spotify.com/album/28J5TDJB3TLEh9fCCzXHWW"
+      },
+      "artists": [
+        {
+          "name": "Charlie Parker Quartet",
+          "url": "https://open.spotify.com/artist/5GBe2GMfPm3IFagD5XuKKs"
+        }
+      ],
+      "duration_ms": 182866,
+      "name": "Chi Chi",
+      "url": "https://open.spotify.com/track/5FzhjFoN3ND1tvndL6rAOj"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
         "name": "Coltrane '58: The Prestige Recordings",
         "url": "https://open.spotify.com/album/04sQeDrLHPx83hfP9A6S22"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 440083,
       "name": "Freight Trane",
       "url": "https://open.spotify.com/track/4AkebkAOIiVfpmQj8LDpAy"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
-        "name": "Bird 100",
-        "url": "https://open.spotify.com/album/28J5TDJB3TLEh9fCCzXHWW"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker Quartet",
-          "url": "https://open.spotify.com/artist/5GBe2GMfPm3IFagD5XuKKs"
-        }
-      ],
-      "duration_ms": 182866,
-      "name": "Chi Chi",
-      "url": "https://open.spotify.com/track/5FzhjFoN3ND1tvndL6rAOj"
     },
     {
       "added_at": "2020-10-12 18:15:54",

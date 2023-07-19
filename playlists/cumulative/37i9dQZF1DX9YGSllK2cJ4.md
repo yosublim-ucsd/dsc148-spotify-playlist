@@ -4,7 +4,7 @@
 
 > Take comfort in these sad piano songs.
 
-331 songs - 14 hr 52 min
+335 songs - 15 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,6 +241,7 @@
 | [Serenity](https://open.spotify.com/track/0rSwr6MHxlu6A22OMptCO1) | [Sven Grimm](https://open.spotify.com/artist/0Yg8xlGiBpP2gdXx24nTlj) | [Serenity](https://open.spotify.com/album/2pymoaxhmNVZSlS10YZrvn) | 2:23 | 2023-06-20 |  |
 | [Serpentéa](https://open.spotify.com/track/5GyjHp84kMfV0ecHLNd8WD) | [Sophie Reubke](https://open.spotify.com/artist/1hRJhDiDX1SEUpnGH7rrKZ) | [Serpentéa](https://open.spotify.com/album/7JxFbGeswuSp6j03f2hpRM) | 2:30 | 2022-08-01 | 2022-12-06 |
 | [Silentness](https://open.spotify.com/track/1WAUBllQeB7ujdoSehgoiu) | [Jasmin Lambert](https://open.spotify.com/artist/0HLA85Q8hIRYUY0qJO2gnk) | [Silentness](https://open.spotify.com/album/6iPO8Vy1ivrDbJT4b6qqmZ) | 2:58 | 2022-08-01 |  |
+| [Silhouette de minuit](https://open.spotify.com/track/1Zv1x5a9DQMLUH7yrwAfBm) | [Vox Pacis](https://open.spotify.com/artist/5gu1Bq9TsFRfNLweos0T1Z) | [Silhouette de minuit](https://open.spotify.com/album/6hurG95Yjphk5tixXBaPhe) | 2:23 | 2023-07-18 |  |
 | [Sincero](https://open.spotify.com/track/2Vvwncoakogkxiq9HQCfFn) | [Isidret](https://open.spotify.com/artist/15fWBJeHIPIGbepQRrmISq) | [Sincero](https://open.spotify.com/album/31IAQeGcnIUlhKpk16mSmx) | 2:38 | 2022-08-25 |  |
 | [Skagerrak](https://open.spotify.com/track/4RBuB7D4zW3dy6ZvuQgN7c) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Arvid Holst](https://open.spotify.com/artist/51QTBtxREzZTTSqmwmPgpl) | [Skagerrak](https://open.spotify.com/album/7xowqViuD6mAYR6kTWZJ31) | 2:10 | 2022-08-25 |  |
 | [Slow Retrieve](https://open.spotify.com/track/2Fw8qNX783GsOjRGPF4Diq) | [Joseph Stanley](https://open.spotify.com/artist/1qW4m07516Q5lMSerc7mr9) | [Slow Retrieve](https://open.spotify.com/album/6YsrFsOvySKWa7ye5xyTGl) | 4:03 | 2022-08-01 | 2023-03-23 |
@@ -264,6 +265,7 @@
 | [Soul Lotion](https://open.spotify.com/track/3Wybg2sLkq2ZrA364KfQfz) | [Cadet de l'espace](https://open.spotify.com/artist/3kbDzg7IazEzF0DSWhHK5Z) | [Soul Lotion](https://open.spotify.com/album/1LnLzyOQPr9EmlWm2hsumv) | 3:30 | 2022-08-01 | 2023-03-23 |
 | [Stairs](https://open.spotify.com/track/72teFT1ytQk4x8ODngRCqR) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP) | [Stairs](https://open.spotify.com/album/5hOMKILMnEbJkSXbrO3Ok8) | 2:14 | 2023-05-03 |  |
 | [Steady The Ship](https://open.spotify.com/track/4tZrXQIEgv3dydaHjKL6Le) | [Ragnar Seaholm](https://open.spotify.com/artist/6GETMwt7rbOZRXFnivRObG) | [Steady The Ship](https://open.spotify.com/album/2fqZv1JTdNdpJj399PdLuH) | 2:36 | 2022-08-01 | 2023-04-05 |
+| [Stretch](https://open.spotify.com/track/4KQlV2TCwuN2GwHQ8fsFrB) | [Hearth Mason](https://open.spotify.com/artist/5AOB5inMqu92bUZuE6q9L7) | [Stretch](https://open.spotify.com/album/4iXA4CDdh5Z4jiXRdGU3fd) | 3:30 | 2023-07-18 |  |
 | [Stuff We Did \(from "Up"\)](https://open.spotify.com/track/7iZnEeSfrwAlAESBw62SL8) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr), [Olga Scheps](https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp) | [Stuff We Did \(from "Up"\)](https://open.spotify.com/album/30s8i8n6SXEM5w5w1DiKlp) | 2:12 | 2022-11-14 |  |
 | [Subitum](https://open.spotify.com/track/4MiTIkXSAqWTkZlUvA5QJ2) | [Nordiska Piano](https://open.spotify.com/artist/5u56NAhIzusR5Q8dfFpdtq) | [Subitum](https://open.spotify.com/album/1DErexZVlUw9bBneZGEJUO) | 2:47 | 2022-08-01 |  |
 | [Sunday Morning](https://open.spotify.com/track/1KkOMxw7qpYrwdY9ll2HCC) | [Jacopo Croci](https://open.spotify.com/artist/1bSkNeskReaGAMmsHDfp4G), [Luca Mazzillo](https://open.spotify.com/artist/2nS5SNSV4Cc7Es2WsCElmm) | [Sunday Morning](https://open.spotify.com/album/2kSQFXnxl0aYFUHyCLtQmG) | 2:42 | 2023-05-09 |  |
@@ -334,6 +336,8 @@
 | [Wistful](https://open.spotify.com/track/1tQuVJ6KIUM9pgJwDMI0N0) | [Familiaris](https://open.spotify.com/artist/5XKC3Edakdi6gf5V8z07Sr) | [Wistful](https://open.spotify.com/album/4qCBDI7XSyOkKljhwHorqY) | 2:34 | 2023-01-19 |  |
 | [With you](https://open.spotify.com/track/3saXbQ6vzfvSYTUcpBBm2t) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [With you](https://open.spotify.com/album/4DmiOhynq2H08YRRz2KEIf) | 2:17 | 2022-08-01 |  |
 | [Wordless](https://open.spotify.com/track/1uPUd2SfgzHtiK9BoTZOKt) | [antinode](https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3) | [Midnight Improvisations // Songs From Home](https://open.spotify.com/album/54VCz99ZaV868ym0fbKyDI) | 1:51 | 2022-08-25 |  |
+| [Words Unspoken](https://open.spotify.com/track/6SDXe5YGDRwYncOl7pAEcu) | [Tomas Wilhelm](https://open.spotify.com/artist/6qibUXoNUClS6TmVSMHQ29) | [Words Unspoken](https://open.spotify.com/album/22IKWQ82aEqdzZWNF4MgD8) | 2:56 | 2023-07-18 |  |
+| [XV...with gravitas](https://open.spotify.com/track/2fE6qaDpRnn3dImpGar0g6) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [XV...with gravitas](https://open.spotify.com/album/5SJa52VZuA7tAEBB8KJjtW) | 2:22 | 2023-07-18 |  |
 | [You And I](https://open.spotify.com/track/7suanns4dc723GDVQ1V3MH) | [Matthew Rai](https://open.spotify.com/artist/5BqSUu52p300lc3r4riijz) | [You And I](https://open.spotify.com/album/1Ayycq9VDkdqrhj4UbQP3D) | 2:52 | 2023-02-06 |  |
 | [Your Heart Will Mend](https://open.spotify.com/track/60bojdGBpwUfilmhILcPsK) | [Donald Kutcher](https://open.spotify.com/artist/5UvqlmBYi8RQyIyNZPiHTh) | [Your Heart Will Mend](https://open.spotify.com/album/35YyAwBX2Ft3ZJArG1Y2DG) | 2:26 | 2022-08-01 | 2022-12-06 |
 | [À Cheval](https://open.spotify.com/track/48tmOujKv21Ej498FCYjXI) | [Lake Isabel](https://open.spotify.com/artist/1O7IHNwUuOSOnMIS1ueGEJ) | [À Cheval](https://open.spotify.com/album/4S05QzDmpuZ5DvZiod7p27) | 2:54 | 2022-08-01 | 2022-10-25 |

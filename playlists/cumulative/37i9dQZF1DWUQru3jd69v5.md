@@ -4,7 +4,7 @@
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Niky Savage in cover.
 
-655 songs - 1 day 4 hr 33 min
+656 songs - 1 day 4 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [Finta di niente](https://open.spotify.com/track/4iicf5JOcfrr3uSBucgxo3) | [Not Good](https://open.spotify.com/artist/1PG5WX3LZJHM4p6HO4qMq8) | [Finta di niente](https://open.spotify.com/album/5Pk7h4An85JI29zvO5qOzA) | 2:36 | 2023-07-13 |  |
 | [Fogli strappati](https://open.spotify.com/track/5ETvYjfhCSHcCSYVTco7oP) | [Naver](https://open.spotify.com/artist/5uAeyLL0e4StdJe6JvhLep) | [Fogli strappati](https://open.spotify.com/album/5rQJ4922Vw9chnwYjabaG3) | 2:02 | 2022-09-22 | 2022-11-08 |
 | [Forget About It](https://open.spotify.com/track/65N24i1XlJavtiNqzuO6xt) | [Tommy Brillante](https://open.spotify.com/artist/3h4O6TeqWlerxYOmNvXQ4A) | [Forget About It](https://open.spotify.com/album/1rNPIhIOpCalGoL0Eh275T) | 2:30 | 2022-09-15 | 2022-09-23 |
+| [Formentera](https://open.spotify.com/track/12IR65dUPwMXxB7Y3HGw1c) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Formentera](https://open.spotify.com/album/4iUG3rZBWlkeCgfVAmIA65) | 2:58 | 2023-07-18 |  |
 | [Fottere la K](https://open.spotify.com/track/4Ilbu463uXsh1UzwUxCreO) | [DAYTONA KK](https://open.spotify.com/artist/5027tm2USoMfZicCl3mYFw), [Beak On The Night](https://open.spotify.com/artist/3nW7Xw52V74rD3XkfTKC56) | [Principe](https://open.spotify.com/album/6HS943ul32GHHQjj5rC4Uq) | 2:21 | 2023-06-15 | 2023-06-30 |
 | [Freddo](https://open.spotify.com/track/0JTSwPtqZ4Aesj6fIlnnYJ) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU) | [Freddo](https://open.spotify.com/album/7KLikaUXpm72gqhUQV8OkA) | 2:02 | 2023-03-16 | 2023-04-07 |
 | [FREDDO AD AGOSTO](https://open.spotify.com/track/6WTZTKzfegWUhn6XsFLbJC) | [Digital Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq), [Sadturs](https://open.spotify.com/artist/4SRpFyqwIrO0xMX39HJnaU) | [TEMPESTA DI LACRIME](https://open.spotify.com/album/0cE7IGkRpzgEgr88JOcZ2Q) | 2:55 | 2022-05-12 | 2022-06-23 |
@@ -455,7 +456,7 @@
 | [Papavero](https://open.spotify.com/track/2em60ChXtDHc886blbb98K) | [Dot Valentino](https://open.spotify.com/artist/4kDz1hBY5vGKKH5QYdS9uA) | [Papavero](https://open.spotify.com/album/3x3uQKwz4xU6zuWzliQvGD) | 2:39 | 2022-07-14 | 2022-07-27 |
 | [Pappone](https://open.spotify.com/track/318VJBfV0eQarH5Bmq0NtV) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Fri2](https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v) | [Gesù Bambino](https://open.spotify.com/album/73o3cVQvCogUq8jVRJ8DU4) | 2:26 | 2022-10-06 | 2022-10-28 |
 | [Paradiso & Inferno](https://open.spotify.com/track/4jmdFKP6vJlEOgTXTftaHW) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Paradiso & Inferno](https://open.spotify.com/album/5pS1WGsTET4iAXgeueFCM9) | 2:16 | 2022-06-02 | 2022-06-23 |
-| [Pararara](https://open.spotify.com/track/5Vio7g8p9zDEdJY03cDF2G) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Pararara](https://open.spotify.com/album/3wy6SeCkIKp1AipBNAJx8q) | 2:43 | 2023-01-25 |  |
+| [Pararara](https://open.spotify.com/track/5Vio7g8p9zDEdJY03cDF2G) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Pararara](https://open.spotify.com/album/3wy6SeCkIKp1AipBNAJx8q) | 2:43 | 2023-01-25 | 2023-07-19 |
 | [Parenti](https://open.spotify.com/track/5rFDHjPEP1CvNufa70VoUV) | [Dot Valentino](https://open.spotify.com/artist/4kDz1hBY5vGKKH5QYdS9uA) | [Parenti](https://open.spotify.com/album/5fvdfPY8mllbK4d4vDODmI) | 2:24 | 2022-09-22 | 2022-09-30 |
 | [Pas De Salam](https://open.spotify.com/track/4odaNK2WriH7cXdTOaOxKH) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv), [Keta](https://open.spotify.com/artist/0noBqdN1IGlVyoYkpd6Vrn) | [Pas De Salam](https://open.spotify.com/album/3XmmEZ7dvQw18C8KsRKWhf) | 2:39 | 2023-06-08 |  |
 | [Passaggi Di Mano](https://open.spotify.com/track/4J1mgFkAYXbDV2Zm2X1LlB) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Passaggi Di Mano](https://open.spotify.com/album/078xzTGG29Ef2GowUOGWDt) | 2:24 | 2023-06-01 |  |

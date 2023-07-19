@@ -4,7 +4,7 @@
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-277 songs - 1 day 0 hr 59 min
+278 songs - 1 day 1 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Hindsight](https://open.spotify.com/track/36Vwqyg0LO1q0aRfAuZkFU) | [Phil Woods](https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f), [Space Jazz Trio](https://open.spotify.com/artist/2sLufQ8lc6cZL6YIO1oD65) | [Phil's Mood](https://open.spotify.com/album/4syA9XxPp63SXbiygEsh43) | 6:31 | 2020-03-31 |  |
 | [Honest Waltz](https://open.spotify.com/track/6XV1s4qGZM3BoPnatmOxzV) | [Eve](https://open.spotify.com/artist/4cN4lpxFzicMaQn2Qb9bBJ), [Michael Blicher](https://open.spotify.com/artist/63pT7P8TZCJmvsEbCbE0sZ) | [Honest Waltz](https://open.spotify.com/album/0Dc8OxbbSCNlfTdvCRzA8L) | 5:25 | 2022-04-21 | 2022-09-04 |
 | [Honeysuckle Rose](https://open.spotify.com/track/37fKuIYSd67vF8mPpkgKyS) | [Ray Bryant](https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR) | [Key One Up](https://open.spotify.com/album/3zEVfXNe9G370rdfKxoVhM) | 6:23 | 2020-03-31 | 2022-04-28 |
+| [How Deep Is The Ocean?](https://open.spotify.com/track/23bHL6vXe6ckwnwK1yFqC4) | [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df) | [How Deep Is The Ocean](https://open.spotify.com/album/5JqlpeLZmzlnXv59xcYSUJ) | 4:40 | 2023-06-21 |  |
 | [How Deep Is the Ocean?](https://open.spotify.com/track/3d8vUViUV2NpB37JhxnTcH) | [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df) | [How Deep Is the Ocean](https://open.spotify.com/album/4O7jV7aCfbf9vFJEqfWblQ) | 4:40 | 2022-02-18 | 2023-07-04 |
 | [How High The Moon](https://open.spotify.com/track/0OXt9xqBmwPwDXIbioz38B) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [How High The Moon](https://open.spotify.com/album/20V8WVUaQLHsBpmvkQzIrM) | 3:02 | 2022-11-24 | 2022-12-02 |
 | [How I Sing](https://open.spotify.com/track/77eZBHfUgVSPqatPpsdY1m) | [Baker St.](https://open.spotify.com/artist/0k4UL5tOqUHXxJpxM4Wyae) | [How I Sing](https://open.spotify.com/album/3MjBszHfA4TdioPXyDoKR4) | 3:36 | 2022-11-12 | 2022-12-24 |
@@ -273,7 +274,7 @@
 | [Velvet moon](https://open.spotify.com/track/4LFrDaeeAzS9blLZhRpqZ6) | [Kupiers & Winter](https://open.spotify.com/artist/7GNJojOvDmfEwn4Dq5fm8g) | [Velvet moon](https://open.spotify.com/album/3dCXLtgEvQxmKzda1QeQUu) | 3:32 | 2023-02-16 |  |
 | [Very Early](https://open.spotify.com/track/5KtdndjjwcRPMO6kl129TG) | [Jazz At Lincoln Center Orchestra](https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb), [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7), [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Very Early](https://open.spotify.com/album/0fPVsQec9DfwuSfWSNdp7d) | 8:05 | 2020-03-31 | 2023-05-26 |
 | [Very Late](https://open.spotify.com/track/62nSghHUT2LHaMukgWuyCx) | [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF) | [Visitor](https://open.spotify.com/album/4syZHZiuvbXt0nWb9QT39A) | 5:14 | 2022-04-07 |  |
-| [Walking With You](https://open.spotify.com/track/7EwokoNF4KoWS1lVnGw8cs) | [Hanbeen Park](https://open.spotify.com/artist/3XZBufPlf8pHAt9g6Rkx5f) | [Scratch](https://open.spotify.com/album/0sJ01VN22iocwWroEiPhfh) | 5:49 | 2022-06-02 |  |
+| [Walking With You](https://open.spotify.com/track/7EwokoNF4KoWS1lVnGw8cs) | [Hanbeen Park](https://open.spotify.com/artist/3XZBufPlf8pHAt9g6Rkx5f) | [Scratch](https://open.spotify.com/album/0sJ01VN22iocwWroEiPhfh) | 5:49 | 2022-06-02 | 2023-07-19 |
 | [What Are You Doing the Rest of Your Life?](https://open.spotify.com/track/3ZnPVp4Frub6UadiiiGDD9) | [Rolf Kühn](https://open.spotify.com/artist/73xPAo16RiiVu6X90p7UVb) | [Yellow + Blue](https://open.spotify.com/album/4HENgrWOdYVohdxPJXIK0H) | 7:56 | 2020-03-31 |  |
 | [What's Up](https://open.spotify.com/track/3TdiCaHISm2x7waIHKC9Ms) | [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6) | [Relaxin'](https://open.spotify.com/album/7mbbHojRg6i6tGjKrMogsJ) | 4:38 | 2022-06-02 |  |
 | [When It's Sleepytime Down South](https://open.spotify.com/track/0ZO3xca4fN38Be1un20nc9) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Standard Time Vol\. 2: Intimacy Calling](https://open.spotify.com/album/4cmRWv6XOmC9sRryBkeU8U) | 5:09 | 2020-03-31 | 2023-04-14 |

@@ -4,7 +4,7 @@
 
 > Chaos in electronic form.
 
-188 songs - 12 hr 50 min
+189 songs - 12 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Blood Moon](https://open.spotify.com/track/4NOSwJBGgNDpcuI3dc0zwp) | [Two Fingers](https://open.spotify.com/artist/2AminfyJLRagEeHO6H6bCS), [Muadeep](https://open.spotify.com/artist/4qHnmeK70n1w0eCt7xWzOw), [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Blood Moon](https://open.spotify.com/album/7yLtrbUalAsZNeLRiv18sU) | 3:46 | 2022-03-28 | 2023-04-16 |
 | [Blooming \(In C Minor\)](https://open.spotify.com/track/0BnYI0cKJ5swDRNWYVJvxg) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI) | [Blooming \(In C Minor\)](https://open.spotify.com/album/14LNonSePOWcZ2NFDHtvq8) | 4:00 | 2021-10-06 | 2023-04-16 |
 | [Blooming \(In C Minor\)](https://open.spotify.com/track/7ouFj4hwlNMt0IAUdb0ubG) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI) | [Blooming \(In C Minor\)](https://open.spotify.com/album/0JnzlYdAgJ4fpkNxizmuOu) | 4:00 | 2021-10-06 | 2022-07-29 |
+| [Blow Up Yr Life \(U Need To\)](https://open.spotify.com/track/5c56mfcwKfh788koF3CCRy) | [Nina Keith](https://open.spotify.com/artist/1nuCYFGzi0e4xb8lE18m2i), [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g), [Qur'an Shaheed](https://open.spotify.com/artist/6zYf3M745APT179QsjrlB4) | [Blow Up Yr Life \(U Need To\)](https://open.spotify.com/album/0Hn0apOsWV86eg8YDjsMAB) | 4:46 | 2023-07-19 |  |
 | [Bright Curse](https://open.spotify.com/track/5alGyitAXv0hCk5aRw5JZP) | [Fenella](https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R) | [Fenella](https://open.spotify.com/album/2sN4bZ62m6lmfZp9J3JqDg) | 3:50 | 2021-10-06 |  |
 | [Bright Curse \- Edit](https://open.spotify.com/track/0kVNpc8MOTj8ZPFKePVfm5) | [Fenella](https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R) | [Bright Curse \(Edit\)](https://open.spotify.com/album/1NYDPhWgF8PKVtJ30rBVky) | 3:49 | 2021-10-06 | 2023-02-08 |
 | [Broken Melody](https://open.spotify.com/track/0laa1rK5dPLXwF1Qi4Vu4b) | [Caterina Barbieri](https://open.spotify.com/artist/61WgG5fz5ilJrMne7tE1zu) | [Broken Melody](https://open.spotify.com/album/4gzeLQvhfZ5vjnblYDMBqn) | 4:26 | 2022-04-20 | 2022-09-22 |
@@ -79,7 +80,7 @@
 | [Island Birdy](https://open.spotify.com/track/2MchMFQ0BSYrIWd5eMqIpy) | [Howie Lee](https://open.spotify.com/artist/5y2TmxjZITDjLsfUxjlkcD) | [Birdy Island](https://open.spotify.com/album/2Juy4gK69leZMQohtTDJKv) | 4:18 | 2021-10-06 |  |
 | [Island Birdy](https://open.spotify.com/track/31KtWQ6CBduMVw3KLJrTVi) | [Howie Lee](https://open.spotify.com/artist/5y2TmxjZITDjLsfUxjlkcD) | [Island Birdy](https://open.spotify.com/album/3V4h47zHcBOXLZW5QeqWLQ) | 4:18 | 2021-10-06 | 2022-11-13 |
 | [Island Birdy](https://open.spotify.com/track/4gKCchpPdZVQDJsDUxl7bf) | [Howie Lee](https://open.spotify.com/artist/5y2TmxjZITDjLsfUxjlkcD) | [Birdy Island](https://open.spotify.com/album/0A5wO1obJKJsdQN0kFqUEf) | 4:18 | 2021-10-06 | 2023-05-06 |
-| [Jennifer Calling](https://open.spotify.com/track/6l22VxrbgYAV8tnWUbsHje) | [Jennifer Vanilla](https://open.spotify.com/artist/2Itr8TQK5dkOjUpreaamWP) | [Castle In The Sky](https://open.spotify.com/album/4z2WEOYZ7w5kOO0LVfMTWS) | 2:04 | 2022-08-09 |  |
+| [Jennifer Calling](https://open.spotify.com/track/6l22VxrbgYAV8tnWUbsHje) | [Jennifer Vanilla](https://open.spotify.com/artist/2Itr8TQK5dkOjUpreaamWP) | [Castle In The Sky](https://open.spotify.com/album/4z2WEOYZ7w5kOO0LVfMTWS) | 2:04 | 2022-08-09 | 2023-07-19 |
 | [Joy Squad](https://open.spotify.com/track/3Y8T9RXnsJFjz9OgieBnyP) | [Koreless](https://open.spotify.com/artist/3TsEEdpuuCN1G0dPxV4uOA) | [Joy Squad](https://open.spotify.com/album/31my8IdGlu4Sti63ivmuje) | 4:31 | 2021-10-06 | 2023-04-16 |
 | [Keep On Believing](https://open.spotify.com/track/3x2DTlRCnyMw1KvQRB7h8W) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [The Sun Made For A Soft Landing](https://open.spotify.com/album/3B6dGhUHAqAS4BEbqMqDgG) | 4:34 | 2022-03-11 | 2023-04-16 |
 | [Keep On Believing](https://open.spotify.com/track/5jaFbirGVgy7WZLHreowqP) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [The Sun Made For A Soft Landing](https://open.spotify.com/album/3H2J52qEjLVYx2hgs26vkQ) | 4:34 | 2022-03-11 | 2022-07-29 |

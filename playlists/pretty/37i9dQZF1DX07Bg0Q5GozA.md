@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: DJ Koze, Sophia Kennedy
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,067 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,124 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Better Without You](https://open.spotify.com/track/3WURRexuZzg92BEcAGtfdr) | [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq), [Nazzereene](https://open.spotify.com/artist/3juwo4sTF5okJNvCfQpArZ) | [Stimulate](https://open.spotify.com/album/2G52gPPh0xnOCjbcHRJv4e) | 2:56 |
 | 75 | [Because of You \(feat\. Isaac Delusion\)](https://open.spotify.com/track/46HKDN72dkLckTwFV8TrLd) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf), [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Dance'O'Drome](https://open.spotify.com/album/2zdjOPQrOLi0n2DRUPLJm7) | 3:28 |
 
-Snapshot ID: `MCw2ZGJiMTdlYzE0ODNiMGJhNGE0NjFhN2MxYWVhYTFkMTY4NWQxMmY2`
+Snapshot ID: `MCw1MzRmZTQwM2QwM2ZhNjhiMzNhY2UzNmY3YzM3NTZhMzQzZTViNzVm`

@@ -4,7 +4,7 @@
 
 > Mantras for meditation
 
-80 songs - 23 hr 30 min
+81 songs - 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Kar Darshanam](https://open.spotify.com/track/46Uvk0oU8R4iQSM8OMCdVv) | [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Morning Mantras](https://open.spotify.com/album/7rZWkCmz3Eli2Q9WkOXV0W) | 1:01 | 2022-01-24 |  |
 | [Kar Darshanam](https://open.spotify.com/track/4fY8FE3Pd1VgIyMvrBcr61) | [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Sunrise to Sunset, Vol\. 1](https://open.spotify.com/album/4FDIr0MnhY9R9YKaqOwdBa) | 1:01 | 2022-08-05 | 2022-11-13 |
 | [Kirtan Kriya \(Short Version\)](https://open.spotify.com/track/3buZNBqLqmrcCZuJZbtRUD) | [Nirinjan Kaur](https://open.spotify.com/artist/13XMB4VG3ioT5OfHLOy22R) | [Meditations for Transformation: Kirtan Kriya](https://open.spotify.com/album/0TQ8rdpksSSe9j0jNNjc7s) | 11:31 | 2023-05-23 |  |
-| [Krishna](https://open.spotify.com/track/6g57S5SIlzmWBru2l6uFjM) | [Colonial Cousins](https://open.spotify.com/artist/5gPmyKuAUQRa75lvYq5x5P) | [Colonial Cousins](https://open.spotify.com/album/7id1SVPPWJwE62WmPEhCOC) | 5:50 | 2023-05-23 |  |
+| [Krishna](https://open.spotify.com/track/6g57S5SIlzmWBru2l6uFjM) | [Colonial Cousins](https://open.spotify.com/artist/5gPmyKuAUQRa75lvYq5x5P) | [Colonial Cousins](https://open.spotify.com/album/7id1SVPPWJwE62WmPEhCOC) | 5:50 | 2023-05-23 | 2023-07-19 |
+| [Krishna Chants](https://open.spotify.com/track/2eAQbiQFn6OZ5TxNOC791s) | [Utkarsh Sharma](https://open.spotify.com/artist/3rVL53vjNj2z3QVZLg8mOE), [Rajshree Agarwal](https://open.spotify.com/artist/1xplyUBGhB2VU3bkIWI05C), [Vibhuti Vaity](https://open.spotify.com/artist/2ou5DGQBNMTiks8rkMtowx) | [Krishna Chants](https://open.spotify.com/album/4Xxi2o5Z8g2On0XrNQcSyp) | 3:57 | 2023-07-18 |  |
 | [Krishna Mahamantra](https://open.spotify.com/track/6HaQSjTVMgoP8su4Pe7jOo) | [Vipin Aneja](https://open.spotify.com/artist/019iJ3BZtBNRA4y3ZmbGS1) | [Krishna Mahamantra](https://open.spotify.com/album/1355u11U7qgSL4pRBEVhKF) | 5:29 | 2022-01-24 | 2023-07-06 |
 | [Lakshmi Kuber Mantra for Wealth](https://open.spotify.com/track/121hBveqClHdxGw2nFBkvH) | [Adarsh Kumar](https://open.spotify.com/artist/1K4uZRg2n9J2tglA7VrQSe) | [Lakshmi Kuber Mantra for Wealth \(Original\)](https://open.spotify.com/album/5lhFAsLy6Ym3Qiz03HUPr5) | 36:33 | 2022-01-24 | 2022-07-29 |
 | [Laxmi Mantra 108 Times](https://open.spotify.com/track/659rdNcG2Ldqhg6azH0XRa) | [Nipun Aggarwal](https://open.spotify.com/artist/5yp0kBtdnmEAqQE02L7Wox) | [Laxmi Mantra 108 Times](https://open.spotify.com/album/4OkDBv1NEa6MgxffSMF3mz) | 14:56 | 2023-05-23 |  |

@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-552 songs - 1 day 13 hr 42 min
+553 songs - 1 day 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -421,6 +421,7 @@
 | [Sam and Jeanie McGreagor](https://open.spotify.com/track/4GZxOH1P8EdjJyEZY0SfPo) | [James Yorkston](https://open.spotify.com/artist/53aQwuzlyn4vxxUs6Edlqw), [Nina Persson](https://open.spotify.com/artist/4nHhXbMpzESguKp9QHap0c), [The Second Hand Orchestra](https://open.spotify.com/artist/452vqsM2fVxZN37P1BZEFh) | [The Great White Sea Eagle](https://open.spotify.com/album/3sE3Ya11uxwRYdeMQNkePS) | 1:55 | 2023-01-13 | 2023-02-23 |
 | [Sandrail Silhouette](https://open.spotify.com/track/1wanXEOnOjtVk93VFv0xIQ) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Sandrail Silhouette](https://open.spotify.com/album/2vBvUI6HDD4bClYmKl16yw) | 4:29 | 2023-03-01 | 2023-04-13 |
 | [Savage](https://open.spotify.com/track/4NbMXm5xAFuWMrUfVPwTV3) | [Au Suisse](https://open.spotify.com/artist/3XAL5NyYViYaYU8ZDaAEhX), [Morgan Geist](https://open.spotify.com/artist/3rheA53cr3B53FI9xbn4x7), [Kelley Polar](https://open.spotify.com/artist/5EF80OgEZjCLwEoii0RlEp) | [Savage](https://open.spotify.com/album/4oYK7yg0y8Kw1fHTF96NdS) | 3:57 | 2022-06-08 | 2022-07-14 |
+| [Screaming In The Rain Again](https://open.spotify.com/track/0jsh4swhkkj6L4MAnwGWqS) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Screaming In The Rain Again](https://open.spotify.com/album/3jpkNQcDMg94XMxtj4Lk3m) | 3:07 | 2023-07-18 |  |
 | [Scrounger](https://open.spotify.com/track/561JQqQcNb1FGiTKQ52WlY) | [Tom Emlyn](https://open.spotify.com/artist/4SUeh0VD2ptXpef6PhQoJG) | [Scrounger \- EP](https://open.spotify.com/album/0LJ97OlLoeqoofOdjKOI3b) | 1:51 | 2023-02-08 | 2023-03-09 |
 | [Seaforth](https://open.spotify.com/track/0ws8eQLYkwVWWw6oizEtmy) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Seaforth](https://open.spotify.com/album/42PzjjlMNrWtKbZW7gseqr) | 4:05 | 2023-04-19 | 2023-05-24 |
 | [Seed](https://open.spotify.com/track/2taAXpP5azRBLZxOCJGC3U) | [Just Mustard](https://open.spotify.com/artist/0wXaC3fHGVXbhwn5iLZMMi) | [Heart Under](https://open.spotify.com/album/6zVROv27567N68Hu6EVbxb) | 4:48 | 2022-06-08 | 2022-07-07 |

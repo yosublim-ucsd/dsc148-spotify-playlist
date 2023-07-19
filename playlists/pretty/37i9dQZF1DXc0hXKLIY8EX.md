@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0hXKLIY8EX.md) - [plain]
 
 ### [Ripple Effect: Tri\-State](https://open.spotify.com/playlist/37i9dQZF1DXc0hXKLIY8EX)
 
-> New York, Jersey, and Conneticut music breaking waves\. Cover: Ice Spice & Nicki Minaj
+> New York, Jersey, and Connecticut music breaking waves\. Cover: Coco & Breezy
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,573 likes - 66 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,606 likes - 66 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0hXKLIY8EX.md) - [plain]
 | 52 | [No Secrets](https://open.spotify.com/track/1QJmDEhYFLTM9PQMSzeVe3) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y) | [Sorry 4 The Wait...](https://open.spotify.com/album/1HBvyOsrKAiw0RfzfTRBL7) | 1:51 |
 | 53 | [What To Do With Me](https://open.spotify.com/track/2UKyKDjIGBB32GvXbyF6UU) | [Shani Boni](https://open.spotify.com/artist/1tzZtJUaD3xPSetRFaP5Ae) | [What To Do With Me](https://open.spotify.com/album/6gJj61dySFJoFnQWn4PLtJ) | 2:16 |
 | 54 | [FlyGod Jr \(feat\. DJ Drama\)](https://open.spotify.com/track/5KXvG7j3Uvs9yyORfjxPv8) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [10](https://open.spotify.com/album/138M0lORis5tDxurpIbd7V) | 3:22 |
-| 55 | [Good 2 Me](https://open.spotify.com/track/7nTVDv34MBZWGbvAvY76Cv) | [Kelz](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [Good 2 Me](https://open.spotify.com/album/3d8jyHquBpXpVwCr1ykcgb) | 2:36 |
+| 55 | [Good 2 Me](https://open.spotify.com/track/7nTVDv34MBZWGbvAvY76Cv) | [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [Good 2 Me](https://open.spotify.com/album/3d8jyHquBpXpVwCr1ykcgb) | 2:36 |
 | 56 | [PURPLE APE](https://open.spotify.com/track/0ZpKseo8xDyCcX9SVmZHRm) | [CONNIE](https://open.spotify.com/artist/1DevMHY3GQWCIDWbkoaHQe), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [PURPLE APE](https://open.spotify.com/album/4m5vlm9Ov71ASdcwUQYYLj) | 3:10 |
 | 57 | [Sailor Moon](https://open.spotify.com/track/2RHPq8fADOfM0XANORv8Ow) | [LAYA](https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X) | [Sailor Moon \(2.0\)](https://open.spotify.com/album/2LA9W3pM9YWTtfQjAScZnz) | 3:27 |
 | 58 | [Enough Is Enough \(feat\. Rayy Balla & Cito Blick\)](https://open.spotify.com/track/0HRa1A7vxuVVxL2g85EkKD) | [Kenzo Balla](https://open.spotify.com/artist/7J7r6Srf58AAPsTJrEXMCp), [Rayy Balla](https://open.spotify.com/artist/4jgpkZGVmMusMmTYJkZPnM), [Cito Blick](https://open.spotify.com/artist/4DKs9UVIaSIUFEfNU6RIgL) | [Enough Is Enough \(feat\. Rayy Balla & Cito Blick\)](https://open.spotify.com/album/4foZGjME7jJwgggKXNUece) | 3:03 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0hXKLIY8EX.md) - [plain]
 | 65 | [Petty](https://open.spotify.com/track/1Tk4wX36rFsZZbwbIsS6t6) | [Liana Banks](https://open.spotify.com/artist/7zE0g2ogqJrvSFW9sQQMBe), [Cleotrapa](https://open.spotify.com/artist/7sgo4MkWeGVIuR6D4cO8oc), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Petty](https://open.spotify.com/album/0Vz0s198pFdXnXtoZDCEtQ) | 3:25 |
 | 66 | [WYA](https://open.spotify.com/track/4K7pG4OeQ3LRDlPFB2ht2Y) | [Steph G](https://open.spotify.com/artist/1AjUSwDb1g2P9RqiCHLVeY) | [WYA](https://open.spotify.com/album/43nmGMEscmLqW5MGa6Sy04) | 1:41 |
 
-Snapshot ID: `MCw4ODM0NmZmMmRiNWUzOWIzMjI2YTQ1MzMxMWI1OWJmMmYzMGRmNDgw`
+Snapshot ID: `MCw1ZTAxNjdkMzg2ODM4NmEzOTRkYjczMzEzNjY1OGVhZTA3ZjM1Yjg3`

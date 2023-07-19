@@ -1550,7 +1550,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 109565,
       "name": "Casa luminosa",
       "url": "https://open.spotify.com/track/3JxLzqk5HisNeh5I03Mx22"
@@ -1586,7 +1586,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 93288,
       "name": "Catching The Light",
       "url": "https://open.spotify.com/track/57PkNLZYgqsIFKtzQ8R0A6"
@@ -1802,7 +1802,7 @@
       ],
       "date_added": "2022-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 97285,
       "name": "Clear Air",
       "url": "https://open.spotify.com/track/1WmJtAYlrss3fI2jn5NF2R"
@@ -2126,7 +2126,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 109874,
       "name": "dans le Bleu",
       "url": "https://open.spotify.com/track/0f8fnzecrwlGZYOWOHTMz0"
@@ -3308,7 +3308,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 100934,
       "name": "Flow",
       "url": "https://open.spotify.com/track/73HWFNQQwgTMWv13iGEfte"
@@ -3330,7 +3330,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 108461,
       "name": "Fluttering",
       "url": "https://open.spotify.com/track/5w1FbQ4wRjRkzw9IXv30GW"
@@ -4558,7 +4558,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 100351,
       "name": "In Silence",
       "url": "https://open.spotify.com/track/2FgDZyz1kz7fEsKQCvkDJY"
@@ -7550,7 +7550,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 90835,
       "name": "Paris la Nuit",
       "url": "https://open.spotify.com/track/0oaMtNH7PDUA1RIf17TDad"
@@ -8180,7 +8180,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 108000,
       "name": "Quantum Leap",
       "url": "https://open.spotify.com/track/5rhEwaIiy4GVfJIb9G5SOU"
@@ -8198,7 +8198,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 97000,
       "name": "Quiet",
       "url": "https://open.spotify.com/track/7BAYXTkbNmlBT0wmq5GWtX"
@@ -9188,7 +9188,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 106271,
       "name": "seulement vous",
       "url": "https://open.spotify.com/track/7k0Bl76i5qEYv3lTDwvQBC"
@@ -9699,6 +9699,24 @@
     },
     {
       "album": {
+        "name": "Souvenir des Alpes",
+        "url": "https://open.spotify.com/album/2xhn6cHDxsaGhMWrRaKRLe"
+      },
+      "artists": [
+        {
+          "name": "Adrien de la Salle",
+          "url": "https://open.spotify.com/artist/24qlcGFRlSIGVpvWmWkCFN"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Souvenir des Alpes",
+      "url": "https://open.spotify.com/track/3L3jNg0Hvd1MF81aDgnCNC"
+    },
+    {
+      "album": {
         "name": "Spring",
         "url": "https://open.spotify.com/album/4edmrPlqJ175RiZfKxnEpX"
       },
@@ -9786,7 +9804,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 105643,
       "name": "Suddenly",
       "url": "https://open.spotify.com/track/7hy60O24UQtAaocRRt15aC"
@@ -10290,7 +10308,7 @@
       ],
       "date_added": "2022-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 105191,
       "name": "The Last Opening",
       "url": "https://open.spotify.com/track/4giGWcqJCtpXnQHyLd4xmh"
@@ -10960,7 +10978,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 110259,
       "name": "Unfinished Letter",
       "url": "https://open.spotify.com/track/5qjp7GhgW7HW0fy5JXRs3l"
@@ -11706,6 +11724,24 @@
       "duration_ms": 125522,
       "name": "Wonder",
       "url": "https://open.spotify.com/track/6F5ZyJQDBTBL7JPT6JjC3R"
+    },
+    {
+      "album": {
+        "name": "Words Unspoken",
+        "url": "https://open.spotify.com/album/22IKWQ82aEqdzZWNF4MgD8"
+      },
+      "artists": [
+        {
+          "name": "Tomas Wilhelm",
+          "url": "https://open.spotify.com/artist/6qibUXoNUClS6TmVSMHQ29"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176444,
+      "name": "Words Unspoken",
+      "url": "https://open.spotify.com/track/6SDXe5YGDRwYncOl7pAEcu"
     },
     {
       "album": {

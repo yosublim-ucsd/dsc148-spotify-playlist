@@ -4,12 +4,12 @@
 
 > Gazing at pedals, soaring celestially high\. Slowdive on cover.
 
-384 songs - 1 day 1 hr 44 min
+385 songs - 1 day 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(image for\) drawing on canvas](https://open.spotify.com/track/6h0YR0kt5KfVlT6N9HTLkQ) | [SPOOL](https://open.spotify.com/artist/741byU7Mazqx3tGmciUzcK) | [\(image for\) drawing on canvas](https://open.spotify.com/album/1mKYFaGZsIIjC3NFuQfNyg) | 4:33 | 2022-11-25 | 2022-12-13 |
-| [1999](https://open.spotify.com/track/0YvG1SZHHjzEpCMCUhB3Vf) | [Dreams on Tape](https://open.spotify.com/artist/0AFGPuSQHul71WUKnoUUhy) | [1999](https://open.spotify.com/album/0tY4FzgCmvJPgDaeyBwbNV) | 3:30 | 2023-02-17 |  |
+| [1999](https://open.spotify.com/track/0YvG1SZHHjzEpCMCUhB3Vf) | [Dreams on Tape](https://open.spotify.com/artist/0AFGPuSQHul71WUKnoUUhy) | [1999](https://open.spotify.com/album/0tY4FzgCmvJPgDaeyBwbNV) | 3:30 | 2023-02-17 | 2023-07-19 |
 | [23](https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy) | 5:18 | 2021-10-19 | 2023-06-08 |
 | [23](https://open.spotify.com/track/4h9pwQbHEz9HSGeOE8UMf4) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [23](https://open.spotify.com/album/7iOloZrq72k9GsuJUUo1pO) | 5:18 | 2021-10-19 | 2022-07-29 |
 | [2g ether](https://open.spotify.com/track/2IVBzvAP4xcMJk7pGnNjxo) | [Full Body 2](https://open.spotify.com/artist/4hCh0DfO21IV18sFffmTqw) | [demo 02](https://open.spotify.com/album/5WFz5GnwnfjtdSx1StnGAG) | 3:42 | 2023-02-17 |  |
@@ -105,6 +105,7 @@
 | [Daisy Chain](https://open.spotify.com/track/2jAxKLW8lw39joDZ4LtUq3) | [Muted Color](https://open.spotify.com/artist/4wZ8VQ73g7CdsFdo4VXDJD) | [Pastel](https://open.spotify.com/album/4atzYhVGosCXHuxvf2GEEy) | 4:01 | 2022-08-03 | 2023-06-08 |
 | [Dance AM](https://open.spotify.com/track/0P57tdDD56YOrjkYSpfBKS) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Miserable Miracles](https://open.spotify.com/album/2ZDCgglH89doOQH4UVoM0S) | 4:32 | 2021-10-19 | 2023-01-14 |
 | [dark out](https://open.spotify.com/track/0IxDs5fNQvQXm4fKbrZwe9) | [Max Fry](https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy) | [dark out](https://open.spotify.com/album/2WobrgmAwkqkh8iCKEoMa7) | 2:25 | 2023-06-20 |  |
+| [Daydreaming](https://open.spotify.com/track/1m4ZGzVWW9Z6J96THHBJMj) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Daydreaming](https://open.spotify.com/album/1Q8BDjqStLsJa9fhlp5yjv) | 3:35 | 2023-07-18 |  |
 | [Daylighter](https://open.spotify.com/track/2Nfv9rms6Q7uloTk2KYU8k) | [Relay Tapes](https://open.spotify.com/artist/7xIrG2TmYRzrigiWJXznFp) | [Debris](https://open.spotify.com/album/5m9bsX1WJMuAtN2d4ssMHS) | 4:26 | 2023-03-31 |  |
 | [DEAR FUTURE '18](https://open.spotify.com/track/2dwIC1Ls0pAWxIrDbpsMhD) | [Coaltar Of The Deepers](https://open.spotify.com/artist/2S5Vk5knCxjALFqlMnULmZ) | [RABBIT EP](https://open.spotify.com/album/6bNKwYjohWbpVaFOU8z5um) | 5:09 | 2022-12-15 | 2023-01-14 |
 | [death wish](https://open.spotify.com/track/0oCtO4wLUisjOusLalamVW) | [Teen Suicide](https://open.spotify.com/artist/2cAvReLDmjFQtCJFDJbHBU) | [honeybee table at the butterfly feast](https://open.spotify.com/album/7240kGNKtkhUSkYy9MPrRB) | 2:44 | 2023-02-17 | 2023-07-18 |

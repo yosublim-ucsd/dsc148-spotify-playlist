@@ -4,7 +4,7 @@
 
 > Listen to Indian women, at full volume\. Cover: Rashmeet Kaur
 
-203 songs - 11 hr 43 min
+204 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [Ranjha \(From "Shershaah"\)](https://open.spotify.com/track/72zHuDxFQTjbL51qJQSA7j) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh), [Anvita Dutt](https://open.spotify.com/artist/4nJ0kto93jDLHQKmpGeYS8) | [Ranjha \(From "Shershaah"\)](https://open.spotify.com/album/0Z1zYMwJRpvq0d9rdqTOYo) | 3:48 | 2021-12-10 | 2023-01-04 |
 | [Ranjha \- Sid X Kiara Version](https://open.spotify.com/track/1nvvaiJbrhCkM3Az74N1pM) | [Jasleen Royal](https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c), [Prerna Arora](https://open.spotify.com/artist/44OCqb4De16h6EY5QfzYp7), [Ashwani Basoya](https://open.spotify.com/artist/37Zo1pexxNhKlFtkYTGngm) | [Ranjha \(Sid X Kiara Version\)](https://open.spotify.com/album/0BJ8hGiNXBa38eAUHRB3Mm) | 1:58 | 2023-03-02 |  |
 | [Ranjha Tere Naal](https://open.spotify.com/track/2XYoYW8FbIK8aKJirxrevy) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Ranjha Tere Naal](https://open.spotify.com/album/0diPLupHYMFojFKXjtpfZv) | 2:56 | 2021-12-10 | 2022-02-02 |
+| [Rasiya](https://open.spotify.com/track/7cjgBIq8uvAz9uKv27mMCQ) | [Srushti Tawade](https://open.spotify.com/artist/1fhSwtJ9X5HrqaK9vfCV2M) | [Rasiya](https://open.spotify.com/album/7a5jf2Rhak081lCBY0dPD9) | 2:14 | 2023-07-18 |  |
 | [Rasiya \(From "Brahmastra"\)](https://open.spotify.com/track/4Hv055xg1SZZgwwGBx8Cr5) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [TUSHAR JOSHI](https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH) | [Rasiya \(From "Brahmastra"\)](https://open.spotify.com/album/5pjSP9gi3qIDK9NvI0uY88) | 4:25 | 2022-11-09 |  |
 | [Rehne Dena Tha](https://open.spotify.com/track/2dZLTQPMdPVqX2DD252AND) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Rehne Dena Tha](https://open.spotify.com/album/2HkwDjkMnuVJ6SOgmj2SC0) | 3:25 | 2022-01-04 | 2022-02-02 |
 | [Rihaa Rihaa](https://open.spotify.com/track/6PiX99SqLYPd6TvYvM9PYe) | [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz), [Hussain Haidry](https://open.spotify.com/artist/2iABRD4RXxrhfiO1TPdFvy) | [I Love You \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7HFZIV8Jzpsvf63xInX6e6) | 3:45 | 2023-06-20 |  |

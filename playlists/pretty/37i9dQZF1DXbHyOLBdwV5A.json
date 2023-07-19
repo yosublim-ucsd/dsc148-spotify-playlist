@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 107168,
+  "num_followers": 107294,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYTQ3YzQ3ZDUxM2Q2NzZiZDE1NjU1OWZmNzZiYWVkNDkzNTFkZWZi",
+  "snapshot_id": "MCxlOWMxNTJlYjhmMWM2MWQzZDczMzE5YTA1ZmRhNGEzYmUxZjVkOWU4",
   "tracks": [
     {
       "added_at": "2023-06-02 03:00:00",
@@ -215,22 +215,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "A Sertaneja de Jesus",
-        "url": "https://open.spotify.com/album/4N0iYUZGRme50QiJrrKYZg"
-      },
-      "artists": [
-        {
-          "name": "Carina Garay",
-          "url": "https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz"
-        }
-      ],
-      "duration_ms": 158733,
-      "name": "A Sertaneja de Jesus",
-      "url": "https://open.spotify.com/track/2REa2fqSPwSsqLnlHCWH55"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "Voc\u00ea Me Mudou",
         "url": "https://open.spotify.com/album/40lCRRvzjvPOfyZysE62B1"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 183682,
       "name": "Voc\u00ea Me Mudou",
       "url": "https://open.spotify.com/track/0SuLvgwwnkbJSNKgSs8MBl"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "A Sertaneja de Jesus",
+        "url": "https://open.spotify.com/album/4N0iYUZGRme50QiJrrKYZg"
+      },
+      "artists": [
+        {
+          "name": "Carina Garay",
+          "url": "https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz"
+        }
+      ],
+      "duration_ms": 158733,
+      "name": "A Sertaneja de Jesus",
+      "url": "https://open.spotify.com/track/2REa2fqSPwSsqLnlHCWH55"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -375,6 +375,30 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
+        "name": "Passando pela Prova (Remix)",
+        "url": "https://open.spotify.com/album/6YqMXzETgPEmlzcTpaXe75"
+      },
+      "artists": [
+        {
+          "name": "DJ Matheus Lazaretti",
+          "url": "https://open.spotify.com/artist/15UHShL0oNS8JNoavnMiyI"
+        },
+        {
+          "name": "MC Jamil",
+          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
+        },
+        {
+          "name": "Jacobnew",
+          "url": "https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI"
+        }
+      ],
+      "duration_ms": 123995,
+      "name": "Passando pela Prova - Remix",
+      "url": "https://open.spotify.com/track/2B7grlH1c3eXEBCrBdX85D"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
         "name": "Joquebede (Remix)",
         "url": "https://open.spotify.com/album/0I5KP5Tn7qAiXyZ5bnPwga"
       },
@@ -391,22 +415,6 @@
       "duration_ms": 142285,
       "name": "Joquebede - Remix",
       "url": "https://open.spotify.com/track/3qsLU0X41Wv9UODSn5ZmbZ"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "Resist\u00eancia",
-        "url": "https://open.spotify.com/album/2cyyp5ehD6aC3kzjv4zmnl"
-      },
-      "artists": [
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        }
-      ],
-      "duration_ms": 167691,
-      "name": "Resist\u00eancia",
-      "url": "https://open.spotify.com/track/6CtxpRx3PlkprhB6DkwbUy"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -431,26 +439,18 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Passando pela Prova (Remix)",
-        "url": "https://open.spotify.com/album/6YqMXzETgPEmlzcTpaXe75"
+        "name": "Resist\u00eancia",
+        "url": "https://open.spotify.com/album/2cyyp5ehD6aC3kzjv4zmnl"
       },
       "artists": [
         {
-          "name": "DJ Matheus Lazaretti",
-          "url": "https://open.spotify.com/artist/15UHShL0oNS8JNoavnMiyI"
-        },
-        {
-          "name": "MC Jamil",
-          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
-        },
-        {
-          "name": "Jacobnew",
-          "url": "https://open.spotify.com/artist/4iYksQazRciVcfz7EKjkHI"
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
         }
       ],
-      "duration_ms": 123995,
-      "name": "Passando pela Prova - Remix",
-      "url": "https://open.spotify.com/track/2B7grlH1c3eXEBCrBdX85D"
+      "duration_ms": 167691,
+      "name": "Resist\u00eancia",
+      "url": "https://open.spotify.com/track/6CtxpRx3PlkprhB6DkwbUy"
     },
     {
       "added_at": "2023-06-02 03:00:00",

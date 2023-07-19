@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 > Hot & new K\-Drama OSTs are here! \(Cover: King the Land\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: 킹더랜드\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,525,236 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,525,544 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 2 | [You Are My](https://open.spotify.com/track/6MA2KOOiWZAgUmqADg3YWF) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [KING THE LAND \(Original Television Soundtrack\), Pt.6](https://open.spotify.com/album/7doqvezlVYzWzPDf9Ad37h) | 3:01 |
 | 3 | [Secret](https://open.spotify.com/track/5LW6IBFQka3WDsaloVlEVj) | [YELO](https://open.spotify.com/artist/2SIjieAwLcihB5fZ7HfHmD) | [See You in My 19th Life, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/5ioEeRp7FN6LmV41jLFGV5) | 3:07 |
 | 4 | [Lonely night](https://open.spotify.com/track/0zXc2LsLvQ60jDNObvqTRk) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [Revenant \(Original Soundtrack\), Pt.2](https://open.spotify.com/album/74CGZ2pNfAzzGhLKVyteAS) | 3:54 |
-| 5 | [History and Mystery](https://open.spotify.com/track/2n3cXoq7AcfsUOLtD5OmLl) | [Ra.L](https://open.spotify.com/artist/2TICrL7vZOMidetbsKrbfv) | [Miraculous Brothers \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/4YmT7KcTu1bi01GhJvR2cR) | 3:47 |
+| 5 | [History and Mystery](https://open.spotify.com/track/5LdGNC63ufqSFe4RauOToR) | [Ra.L](https://open.spotify.com/artist/2TICrL7vZOMidetbsKrbfv) | [Miraculous Brothers \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/6IZiIOATwawTOCLvKDRk8K) | 3:47 |
 | 6 | [Keep Me Busy](https://open.spotify.com/track/6RQJn6zIOXt57vvkT1bjSc) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [KING THE LAND \(Original Television Soundtrack\), Pt.5](https://open.spotify.com/album/0vGw0u1ZbPJJEgOsH9ZKbQ) | 3:32 |
 | 7 | [I’ll Embrace Your Past](https://open.spotify.com/track/068TBg8PXTiiTmPogHDQRi) | [Bo Hyun Ahn](https://open.spotify.com/artist/5a4haPw0HQ1YDUp18ViA0b) | [See You in My 19th Life, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/4C4ljgvqD2CGev9gHoV3Li) | 3:25 |
 | 8 | [love condition](https://open.spotify.com/track/6HcbotM1ErtNzmT3zuiwKj) | [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy), [DUT2](https://open.spotify.com/artist/4YCMBr9I1zesFyMMyoc4pX) | [Nomovie OST PART3](https://open.spotify.com/album/5J6WnRII8NapBBP5BbvczP) | 2:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 99 | [Love Without Pain](https://open.spotify.com/track/114JstNdrTd5rsVce9lrpQ) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Call It Love, Part 4 \(Original Soundtrack from the Disney+ Original Series\)](https://open.spotify.com/album/1bRYXvLc2G48EXhCxwxfyp) | 3:38 |
 | 100 | [Trying too hard](https://open.spotify.com/track/3BNSZOeVDkxVfawEaMqj5l) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Delivery Man, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/1zDIqmrLYyO5HK7hEzcITV) | 4:02 |
 
-Snapshot ID: `MCxjMmFhYjI5MjRjM2Q0MWViY2ExY2RhMzRlN2MyYjQ2YTBhYjlhNTgx`
+Snapshot ID: `MCwzYTRiODBlNjU2OWY2NTUwYzNiZjIxODk2YzNmN2Q1NzhkNTNhNTli`

@@ -4,7 +4,7 @@
 
 > La playlist che è come andare ai concerti\. Kuni in cover questa settimana!
 
-503 songs - 1 day 3 hr 57 min
+504 songs - 1 day 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,6 +186,7 @@
 | [Ghibli](https://open.spotify.com/track/034Z4bIOzqWhWaQNxOZMDU) | [Savana Funk](https://open.spotify.com/artist/2t3g4JYFXvXMcvPaVw6BnG) | [Ghibli](https://open.spotify.com/album/2pqPnxT0Gw26Ikoucjm3As) | 3:55 | 2022-08-25 | 2022-09-30 |
 | [Ghicci ghicci](https://open.spotify.com/track/5QHlPJcnobVjeh4JkeGoBf) | [Brucherò nei pascoli](https://open.spotify.com/artist/39tpK31mZUPajAHF86AHsg) | [Ghicci ghicci](https://open.spotify.com/album/2YYvugvmBJXu5fD8fr2Jy7) | 2:29 | 2023-05-18 | 2023-06-15 |
 | [Giovane Distratta](https://open.spotify.com/track/5HVNmsurfkqtCs6Wkj2TEQ) | [MILLE](https://open.spotify.com/artist/2X5RjwWkxAg9WBce3BLoJj) | [Quanti Me Ne Dai](https://open.spotify.com/album/7CixYqA6aKwMXEGcaHq3Lr) | 3:08 | 2023-04-27 |  |
+| [Giovedì al fiume](https://open.spotify.com/track/4VVVxQnFbWbsyrAmH2KDKp) | [Liquami](https://open.spotify.com/artist/7wyIRmUWGF1G4b0E2ZuHAa) | [PRIMI DUE](https://open.spotify.com/album/0sb4eecDOevF7nhZCP1Nni) | 4:15 | 2023-07-18 |  |
 | [Giro Classico](https://open.spotify.com/track/0nXaOtKNdmdsTcIY7Z9UQ1) | [SPEAKEASY](https://open.spotify.com/artist/3LsUtrsqgBVVNELtKFZALx) | [Giro Classico](https://open.spotify.com/album/6u0UqTIYgswW7qdhockYF3) | 3:24 | 2023-06-29 |  |
 | [Go Fuck Yourself](https://open.spotify.com/track/6VT9pC5hzmIMRxuzpnkOzm) | [Mutonia](https://open.spotify.com/artist/1l9tfz6AVS1Q0QuTlaDRER) | [Go Fuck Yourself](https://open.spotify.com/album/3B0Ijyl3qisEw6fYXmG2fT) | 2:21 | 2022-07-07 | 2022-08-05 |
 | [Graphiti :\)](https://open.spotify.com/track/5xx9ZowEw4pbbdvI9qnNNP) | [Monday Comes Twice](https://open.spotify.com/artist/1v7zsqw6ZnRbq8nVDUuDru) | [Graphiti :\)](https://open.spotify.com/album/2QLcmqN7nP9zJRFhdXE3QR) | 3:16 | 2022-05-09 | 2022-05-13 |
@@ -292,7 +293,7 @@
 | [Mondo](https://open.spotify.com/track/73WScEsNUM9ayo0ahYJDPO) | [Generic Animal](https://open.spotify.com/artist/6758RYtQUoFGOvE0jUxQvK) | [Mondo Rosso](https://open.spotify.com/album/2bXLMo4qdbJpgLt3IZ283I) | 3:04 | 2023-03-31 | 2023-05-04 |
 | [Mondo Cane](https://open.spotify.com/track/7a8r6vINl5QByT6ktCadYK) | [Methos](https://open.spotify.com/artist/6EgN0y0qGF6ifXnc35B33h) | [Mondo Cane](https://open.spotify.com/album/4eTP3mLT8xxizGeaahzXJ8) | 2:14 | 2023-04-06 | 2023-05-12 |
 | [Montese](https://open.spotify.com/track/6plgbXWnR6fv3bE2H4yJSu) | [Baseball Gregg](https://open.spotify.com/artist/7MXsu694gc1X8K6s7XPmw4) | [Pastimes](https://open.spotify.com/album/4ep2PpS27FYkcXqje4ibyE) | 3:41 | 2022-09-22 | 2022-10-07 |
-| [Moulin Rouge](https://open.spotify.com/track/73cjReNmAtBDm59fuTNzaF) | [Forse Danzica](https://open.spotify.com/artist/7gRc1OIKFcDAlp6e3fVhAT) | [Moulin Rouge](https://open.spotify.com/album/5GdM5uruWJCaGL525mNNhU) | 2:50 | 2023-06-15 |  |
+| [Moulin Rouge](https://open.spotify.com/track/73cjReNmAtBDm59fuTNzaF) | [Forse Danzica](https://open.spotify.com/artist/7gRc1OIKFcDAlp6e3fVhAT) | [Moulin Rouge](https://open.spotify.com/album/5GdM5uruWJCaGL525mNNhU) | 2:50 | 2023-06-15 | 2023-07-19 |
 | [Multiculti supermarket](https://open.spotify.com/track/1B2enYYrBLeUfDKBFv1faT) | [Management](https://open.spotify.com/artist/5RRnJxnVoqmFFqZBXkAW3F) | [Multiculti supermarket](https://open.spotify.com/album/4yxX7IQ7lT1njmkVgzCXtw) | 3:19 | 2022-05-09 | 2022-05-13 |
 | [Musica per aeroporti](https://open.spotify.com/track/2k4D2XNzM0VfRnUl9ts1RY) | [Federico Dragogna](https://open.spotify.com/artist/4oFI4JmGg9miIDYczoKIIm) | [Musica per aeroporti](https://open.spotify.com/album/2dDHNcqTbZMleDaLNpcqL6) | 2:41 | 2023-04-13 | 2023-05-12 |
 | [My Best](https://open.spotify.com/track/1UEWOpc2PUrzwPOP4X9UPd) | [I'm Not a Blonde](https://open.spotify.com/artist/2kYPuOngkMzjFdCl4dz8EO) | [This Is Light](https://open.spotify.com/album/2csk5nXDfK75W5NMNpGoQD) | 3:38 | 2022-05-09 | 2022-10-21 |

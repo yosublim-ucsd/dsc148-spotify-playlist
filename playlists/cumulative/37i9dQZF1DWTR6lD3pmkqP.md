@@ -4,7 +4,7 @@
 
 > The sound of the new era of Jazz\. Cover: Esperanza Spalding
 
-503 songs - 1 day 18 hr 30 min
+504 songs - 1 day 18 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Dribble](https://open.spotify.com/track/3HEJptfJ3taABLi2klHspp) | [Anomalie](https://open.spotify.com/artist/2ev6Cd0yJVCcpf2zezEQ8Z) | [Dribble](https://open.spotify.com/album/6oTehHEgaJ9YXQcKH0miuc) | 3:30 | 2021-12-21 |  |
 | [Durban Poison 19](https://open.spotify.com/track/7h757UHOqWOei8OunNrnQc) | [Bobby Rausch](https://open.spotify.com/artist/7Ac3BjcxFq01tJlrdx0Neh) | [Durban Poison 19](https://open.spotify.com/album/4G63XNZEeBFcBC88fQfvPq) | 3:34 | 2021-12-16 | 2023-05-18 |
 | [Dusk](https://open.spotify.com/track/55z90vMs98qGROIPgzYFn6) | [Andrew Hill](https://open.spotify.com/artist/4ORSNkNYSzva169PBZCzvy) | [Dusk](https://open.spotify.com/album/7lw1w4ErqC5qob1cbXTLEp) | 12:05 | 2022-04-01 | 2022-07-20 |
-| [Dédalo De Concreto \- Single Version](https://open.spotify.com/track/3wOJMc1ZfyADUmuiwUIz1C) | [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2) | [Dédalo De Concreto](https://open.spotify.com/album/5eEK0KN6FwX0al3T1NskPc) | 4:01 | 2022-02-10 |  |
+| [Dédalo De Concreto \- Single Version](https://open.spotify.com/track/3wOJMc1ZfyADUmuiwUIz1C) | [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2) | [Dédalo De Concreto](https://open.spotify.com/album/5eEK0KN6FwX0al3T1NskPc) | 4:01 | 2022-02-10 | 2023-07-19 |
 | [Dédalo De Concreto \- Single Version](https://open.spotify.com/track/6PfUV08i2dfwa5FYsTkZiT) | [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr), [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2) | [Dédalo De Concreto \(Single Version\)](https://open.spotify.com/album/5EL379oEpD5fBdlU8xydPb) | 4:01 | 2022-02-03 | 2022-09-12 |
 | [EAST CROYDON feat\. James Maddren](https://open.spotify.com/track/350BnjEWhEBFeY5djjWmXq) | [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx), [James Maddren](https://open.spotify.com/artist/6ke4GTfhO9er0IPiwHW1Zw) | [Projekt Drums Vol\. 1](https://open.spotify.com/album/7y71YM77RqFPGtgIrrLcGH) | 6:22 | 2021-12-16 |  |
 | [Ekuté](https://open.spotify.com/track/5pnRPRVNAnT90B3xR4mPKj) | [Pino Palladino](https://open.spotify.com/artist/5vjTuHApbJQOo9L3Ro2KM8), [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Ekuté](https://open.spotify.com/album/2nbEJaz1IfXxWt4C7xNsTf) | 5:30 | 2021-12-16 |  |
@@ -137,6 +137,7 @@
 | [Ethiopian Sunshower](https://open.spotify.com/track/75CX3f4OzPcS1qpKbX2OoV) | [Brian Jackson](https://open.spotify.com/artist/2UXhlYaVdXWvO950p0wwrU), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Brian Jackson JID008](https://open.spotify.com/album/2dwDeg0FDSN2Q1xv0dbv84) | 3:07 | 2022-02-10 |  |
 | [Existential Being](https://open.spotify.com/track/0GSc04FDZiOY7DVJ3Ya1z8) | [Elusive](https://open.spotify.com/artist/3omtF8ft7xflvmvfO5WUjI) | [Virtual Essence](https://open.spotify.com/album/6lTeR0g2ksvePonTWXQ0U8) | 2:38 | 2022-01-27 | 2023-06-23 |
 | [Fall](https://open.spotify.com/track/0Yau80OnN4AaTe2NyzjG8y) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv), [The E\-Collective](https://open.spotify.com/artist/3mLYbLsEXzIgdvikrVRK46), [Turtle Island String Quartet](https://open.spotify.com/artist/5ofemHoNWTjeADvzFTAhy2) | [Fall](https://open.spotify.com/album/5pNQjRKnPdHccZXSifEUJ7) | 5:37 | 2021-12-16 | 2022-07-26 |
+| [False Choice](https://open.spotify.com/track/1rMSGDMUWZ7UGn1pQml6n7) | [Josh Johnson](https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf) | [Freedom Exercise](https://open.spotify.com/album/2tIRMfpJTKnohm2FX8iBlN) | 4:54 | 2022-02-10 |  |
 | [False Choice](https://open.spotify.com/track/6oyVjoSodrvB9Vz8iM3H34) | [Josh Johnson](https://open.spotify.com/artist/6E2QUbsHDVzmrf1TVfGdwf) | [Freedom Exercise](https://open.spotify.com/album/501assmGyiYAl2u9PGUNEL) | 4:54 | 2021-12-21 | 2023-05-01 |
 | [Feed Infinite](https://open.spotify.com/track/3VfcWdXUfDgGTwqKgHdQcp) | [Binker and Moses](https://open.spotify.com/artist/7mKZJ0SITREZQovQF6Qeb4), [Max Luthert](https://open.spotify.com/artist/0SY44UCwBAxIo3mrKixXRB) | [Feed Infinite](https://open.spotify.com/album/17yMp67fx7IRXilG2RMgNH) | 8:49 | 2021-12-21 | 2022-07-29 |
 | [Filthy and Triumphant](https://open.spotify.com/track/0XVjAMG5rLF0ZdlgigB5bG) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Filthy and Triumphant](https://open.spotify.com/album/0HKKzHJ95DwaAdcFDY28sf) | 3:00 | 2021-12-21 | 2022-07-25 |

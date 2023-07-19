@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG?si=mLn5w4yJTKSWv\-tW5T4p4w">Riley Clemmons</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,366 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,511 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 6 | [Amen](https://open.spotify.com/track/5TXkeZoZwOYNcNKi3G3cEb) | [Natalie Layne](https://open.spotify.com/artist/6N1l2HIYtw3RhoJ2wzLYaB) | [Amen](https://open.spotify.com/album/6aMiOQz7b0cCgCPodzJxo5) | 3:15 |
 | 7 | [You Can Let Go](https://open.spotify.com/track/6pXZZFklknM2X5x3sDFtHY) | [Jordan Janzen](https://open.spotify.com/artist/1F02L0YGC3v6gOqgvdPrg1) | [You Can Let Go](https://open.spotify.com/album/7v7kAzvgnJhsjfBcSCMKDA) | 3:16 |
 | 8 | [All My Boast Is In Jesus](https://open.spotify.com/track/1AJJ8QxRij3zU5K61dLT1R) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Matt Boswell](https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm), [Matt Papa](https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d) | [All My Boast Is In Jesus](https://open.spotify.com/album/3e0ImMEgxpGAdnKf9ysnhe) | 3:42 |
-| 9 | [Not Like Mine](https://open.spotify.com/track/5m9MRKQR3A7eYTzwLQDfcg) | [The Rock Music](https://open.spotify.com/artist/0c8xYlEYETimOaLlGZcMVk) | [The Future Is Sure](https://open.spotify.com/album/4HL3RgFqjym2N7zLsOy18A) | 3:47 |
+| 9 | [Not Like Mine](https://open.spotify.com/track/5m9MRKQR3A7eYTzwLQDfcg) | [The Rock Music](https://open.spotify.com/artist/0c8xYlEYETimOaLlGZcMVk), [Steele Croswhite](https://open.spotify.com/artist/1EqgZg4Y6LDJPlkbi7mWcF) | [The Future Is Sure](https://open.spotify.com/album/4HL3RgFqjym2N7zLsOy18A) | 3:47 |
 | 10 | [There's No Way](https://open.spotify.com/track/4W1VnLhislRPhU7vOsyytP) | [Red Rocks Worship](https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr) | [Ascend](https://open.spotify.com/album/5l2mPzW2yGGsQNmYZiUaoB) | 5:30 |
 | 11 | [All Yours \- Live At The Grove](https://open.spotify.com/track/29X2uDbELTCtDNHVPORiDq) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Melody Noel](https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi), [Matt Gilman](https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P), [Larry James Walker II](https://open.spotify.com/artist/40mCMtbBpXpBwDQvigLKwN), [Whitney Medina](https://open.spotify.com/artist/2aEALllrzX6yHYGQkQ3jgZ) | [Long Live The King \(Live At The Grove\)](https://open.spotify.com/album/0gAnoymSmz8fqLnNqjKzFW) | 4:27 |
 | 12 | [He Calls Me Friend](https://open.spotify.com/track/5v87gR2P18X12GfElLTPHc) | [CityAlight](https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg) | [He Calls Me Friend](https://open.spotify.com/album/22VvLGmescoVzuxUOj5M1G) | 4:20 |
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 55 | [No Turning Back](https://open.spotify.com/track/1HvmrH54shSA0a1bwK91R0) | [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [The Narrow Way](https://open.spotify.com/album/5dnEn1RrHFx1tjG6ARSdw0) | 6:30 |
 | 56 | [Plead The Blood \- Live](https://open.spotify.com/track/0m1AnoBBUwVg5r5SOSyVrN) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Plead The Blood + The Dove \(Live\)](https://open.spotify.com/album/39du73MQ23fX3ts4CqMFqE) | 7:21 |
 | 57 | [All In \- Live](https://open.spotify.com/track/3MHZjcYk9GpBrbEgR3MjID) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Brett Lee Miller](https://open.spotify.com/artist/4yPKSKUdN0ah5213zrmEKF) | [All In \(Live\)](https://open.spotify.com/album/4y9fpBs2yhCjdeXPLhPXyW) | 7:06 |
-| 58 | [I Believe](https://open.spotify.com/track/0XlwlhLvtkFHTBLdKECNaK) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/4fOZdPNeiis8aa6o5jC4QS) | 5:02 |
+| 58 | [I Believe](https://open.spotify.com/track/5Y6VqU5vb76dqASewlUm3L) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/0MjPjh3R0oKhQgXVkeBagu) | 5:02 |
 | 59 | [Mercy of Jesus](https://open.spotify.com/track/48NzNbO7ZpwKFQd1BWgHgy) | [Phil King](https://open.spotify.com/artist/1M7IqeW8EcYmcuuPkiwVDz), [Daniel Doss](https://open.spotify.com/artist/5KUNK8C0taPJnUD0xvPQaC), [People & Songs](https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8) | [Mercy of Jesus](https://open.spotify.com/album/0F0k3W69o4FfVWvybl0oHh) | 5:21 |
 | 60 | [In Surrender](https://open.spotify.com/track/6klXBxgQT8g4jsG1vzSMfw) | [Equippers Worship](https://open.spotify.com/artist/1eswTstCzVURi1R8PeAmE1) | [In Surrender](https://open.spotify.com/album/096jTx1VevoVEXnlVxh18N) | 4:36 |
 | 61 | [Son Of The Living God \- Live](https://open.spotify.com/track/3YdIYiH4cEVphXWWGeIuSB) | [SANCTUARY Worship](https://open.spotify.com/artist/6Z3OFQNHCSFAwBNK51qKBz), [Breona Lawrence](https://open.spotify.com/artist/7JZIPmI6XxeDJiHiiT1aME), [Emoni Wiggins](https://open.spotify.com/artist/56G2W0QzY4V2xDMzyaMtwj), [Lindsay Lynette Boyko](https://open.spotify.com/artist/0DwUdiQITtm1P3MJZ0Ow7O) | [The Sanctuary: Atlanta \(Live\)](https://open.spotify.com/album/4udXKiyBX5ThjK1OnCWfX7) | 7:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Making More](https://open.spotify.com/track/5X5FulFbzGLspiz1l4CPNh) | [2'Live Bre](https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F) | [Making More](https://open.spotify.com/album/2UEM8q7L2UtmI2SeXzgYYu) | 2:05 |
 | 100 | [My Worship](https://open.spotify.com/track/6YJdaaNqDeks5Q0zYuTAw7) | [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [My Worship](https://open.spotify.com/album/1QzUNxdSUQ1cWY0Q7wzP3v) | 3:21 |
 
-Snapshot ID: `MCw1Nzc5ODA4ODgwM2EyOGEwMGYwMDI1NzQ5MGRiMGVkYmY3MjVjZjU0`
+Snapshot ID: `MCw5ODA0YjUxNGFiOWEwNzhjNjVlODYxMmM0NTdkOTM5OGY4NWYwYTBi`

@@ -4,7 +4,7 @@
 
 > Deep House in all its shapes and colours.
 
-339 songs - 1 day 7 hr 54 min
+340 songs - 1 day 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Ceremony](https://open.spotify.com/track/5eGHURckWZgrlb88GTkoPD) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Body Language, Vol\. 24](https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If) | 7:00 | 2022-11-25 |  |
 | [Changes](https://open.spotify.com/track/0BmCeSYUthdYE4LbJx1qYj) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Changes EP](https://open.spotify.com/album/6brECbf1Kr7MPAk1lay37J) | 5:41 | 2021-11-26 | 2023-06-22 |
 | [Circle of Life](https://open.spotify.com/track/2ckwGlnXK4PZ8mo7JYkJ5L) | [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI) | [Circle of Life](https://open.spotify.com/album/5lUuBsteQKFCLKeHNnZhwe) | 8:03 | 2022-11-15 | 2022-11-26 |
-| [Clifton 4th](https://open.spotify.com/track/6Lw8lTHizNmiOwwg0xI9qh) | [Markus Gardeweg](https://open.spotify.com/artist/61Z2VOSs2wa7II0ex4jcEu) | [Clifton 4th](https://open.spotify.com/album/3VJ5jQ3WVcs9Lf6PvzGBYz) | 2:27 | 2023-06-30 |  |
+| [Clifton 4th](https://open.spotify.com/track/3254V9C9vYkbHl80x1fxU0) | [Markus Gardeweg](https://open.spotify.com/artist/61Z2VOSs2wa7II0ex4jcEu) | [Clifton 4th](https://open.spotify.com/album/5cBojypYJP4UwbCtWRgwVD) | 2:27 | 2023-06-30 |  |
+| [Clifton 4th](https://open.spotify.com/track/6Lw8lTHizNmiOwwg0xI9qh) | [Markus Gardeweg](https://open.spotify.com/artist/61Z2VOSs2wa7II0ex4jcEu) | [Clifton 4th](https://open.spotify.com/album/3VJ5jQ3WVcs9Lf6PvzGBYz) | 2:27 | 2023-06-30 | 2023-07-19 |
 | [Close](https://open.spotify.com/track/4PjQnCqdF2VmzGsFp2IRAt) | [Jesper Ryom](https://open.spotify.com/artist/6QAXPFWafsrhltnhogrQ1P) | [Close](https://open.spotify.com/album/77RSDxlKlExpQzlphu88eC) | 6:16 | 2021-11-26 | 2022-04-05 |
 | [Close to Me](https://open.spotify.com/track/4mM8UJEAUHyPb6wa129GRf) | [Ryan Murgatroyd](https://open.spotify.com/artist/3eWIVs6R1YgnA5FZSI3xiU), [Amy Jones](https://open.spotify.com/artist/7fQm8t9kG15pcP3BFVqXQk) | [Close to Me](https://open.spotify.com/album/6Fb13O3OiO6JCEqBbr2n97) | 4:57 | 2021-11-26 | 2022-07-29 |
 | [Closer To Closure \- Andre Lodemann Remix](https://open.spotify.com/track/1ZD0ciZ5RJaZty3EAC5QXi) | [Carlos Barbero](https://open.spotify.com/artist/4OV4wJGy1jN0fCTiMFOXO0), [Dom Fricot](https://open.spotify.com/artist/4O4jSSDSarGDFwSNdq83Nr), [Andre Lodemann](https://open.spotify.com/artist/1Em6QNi57qzKBsy0r4ZPXN) | [Closer To Closure \(Andre Lodemann Remix\)](https://open.spotify.com/album/6ujv9XxF3WIx2l2f5MGJrT) | 7:25 | 2022-04-15 | 2022-07-19 |

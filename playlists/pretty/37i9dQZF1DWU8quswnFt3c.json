@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: CLAUDIA ",
-  "num_followers": 916432,
+  "num_followers": 916395,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkN2VhYWZkNDBjMDE4ZDA5N2Y2OGI5MTZlOWE1NjZmODBiMjExZDhl",
+  "snapshot_id": "MCw5YWY3ZGRlNjU1MGY3MmE4ODhhNmMzZmI5NGFkYmJiMjFkNjFhNDBj",
   "tracks": [
     {
       "added_at": "2023-07-07 18:52:48",
@@ -175,6 +175,22 @@
     {
       "added_at": "2023-07-07 18:52:48",
       "album": {
+        "name": "Derni\u00e8re fois",
+        "url": "https://open.spotify.com/album/1SYhFcpQJ1CU6s6KraTiCv"
+      },
+      "artists": [
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        }
+      ],
+      "duration_ms": 198698,
+      "name": "Derni\u00e8re fois",
+      "url": "https://open.spotify.com/track/0udfbNVYXI0vJkSPqnHvvY"
+    },
+    {
+      "added_at": "2023-07-07 18:52:48",
+      "album": {
         "name": "SUKA",
         "url": "https://open.spotify.com/album/6HMVNohYiUCt2igg0wPBKp"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 390033,
       "name": "SUKA",
       "url": "https://open.spotify.com/track/1eb2pZlRqGLndvOj8MHaTD"
-    },
-    {
-      "added_at": "2023-07-07 18:52:48",
-      "album": {
-        "name": "Derni\u00e8re fois",
-        "url": "https://open.spotify.com/album/1SYhFcpQJ1CU6s6KraTiCv"
-      },
-      "artists": [
-        {
-          "name": "Nej",
-          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
-        }
-      ],
-      "duration_ms": 198698,
-      "name": "Derni\u00e8re fois",
-      "url": "https://open.spotify.com/track/0udfbNVYXI0vJkSPqnHvvY"
     },
     {
       "added_at": "2023-07-07 18:52:48",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-07-07 18:52:48",
       "album": {
-        "name": "Pao Sto Nisi",
-        "url": "https://open.spotify.com/album/1hSA2yesJuKQeEfhzWxkwD"
-      },
-      "artists": [
-        {
-          "name": "Katerina Lioliou",
-          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
-        }
-      ],
-      "duration_ms": 178705,
-      "name": "Pao Sto Nisi",
-      "url": "https://open.spotify.com/track/3gPB5PoS0A1tVb6mBAy3D0"
-    },
-    {
-      "added_at": "2023-07-07 18:52:48",
-      "album": {
         "name": "radar",
         "url": "https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei"
       },
@@ -607,18 +591,18 @@
     {
       "added_at": "2023-07-07 18:52:48",
       "album": {
-        "name": "happy for you",
-        "url": "https://open.spotify.com/album/3vgatBi7QrQDi0McNPwlnL"
+        "name": "Pao Sto Nisi",
+        "url": "https://open.spotify.com/album/1hSA2yesJuKQeEfhzWxkwD"
       },
       "artists": [
         {
-          "name": "judith",
-          "url": "https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA"
+          "name": "Katerina Lioliou",
+          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
         }
       ],
-      "duration_ms": 174633,
-      "name": "happy for you",
-      "url": "https://open.spotify.com/track/1k8AXX52293tVBANnrEFg1"
+      "duration_ms": 178705,
+      "name": "Pao Sto Nisi",
+      "url": "https://open.spotify.com/track/3gPB5PoS0A1tVb6mBAy3D0"
     },
     {
       "added_at": "2023-07-07 18:52:48",
@@ -639,22 +623,18 @@
     {
       "added_at": "2023-07-07 18:52:48",
       "album": {
-        "name": "WICKED GYAL",
-        "url": "https://open.spotify.com/album/0qbhpOqIGOMnwveNz9Ljwb"
+        "name": "happy for you",
+        "url": "https://open.spotify.com/album/3vgatBi7QrQDi0McNPwlnL"
       },
       "artists": [
         {
-          "name": "BAMBII",
-          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
-        },
-        {
-          "name": "Lady Lykez",
-          "url": "https://open.spotify.com/artist/2G7c1PLHP1kGjq6XAol0MS"
+          "name": "judith",
+          "url": "https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA"
         }
       ],
-      "duration_ms": 213973,
-      "name": "WICKED GYAL",
-      "url": "https://open.spotify.com/track/1iwXGYb4uYrRxO9mErMcj6"
+      "duration_ms": 174633,
+      "name": "happy for you",
+      "url": "https://open.spotify.com/track/1k8AXX52293tVBANnrEFg1"
     },
     {
       "added_at": "2023-07-07 18:52:48",
@@ -671,6 +651,26 @@
       "duration_ms": 179253,
       "name": "Diamond",
       "url": "https://open.spotify.com/track/1OjybWpjWBMDxOPNerlmDw"
+    },
+    {
+      "added_at": "2023-07-07 18:52:48",
+      "album": {
+        "name": "WICKED GYAL",
+        "url": "https://open.spotify.com/album/0qbhpOqIGOMnwveNz9Ljwb"
+      },
+      "artists": [
+        {
+          "name": "BAMBII",
+          "url": "https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95"
+        },
+        {
+          "name": "Lady Lykez",
+          "url": "https://open.spotify.com/artist/2G7c1PLHP1kGjq6XAol0MS"
+        }
+      ],
+      "duration_ms": 213973,
+      "name": "WICKED GYAL",
+      "url": "https://open.spotify.com/track/1iwXGYb4uYrRxO9mErMcj6"
     },
     {
       "added_at": "2023-07-07 18:52:48",
@@ -907,22 +907,6 @@
     {
       "added_at": "2023-07-07 18:52:48",
       "album": {
-        "name": "Good Luck in Chicago",
-        "url": "https://open.spotify.com/album/2QwDNTUJ3DzUcoVvXE5OA0"
-      },
-      "artists": [
-        {
-          "name": "Juliet",
-          "url": "https://open.spotify.com/artist/4kFlZCpQ9vLFSlqsqs24HP"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Good Luck in Chicago",
-      "url": "https://open.spotify.com/track/4mn98j9Ep10XpG9zjbkgQk"
-    },
-    {
-      "added_at": "2023-07-07 18:52:48",
-      "album": {
         "name": "No problem",
         "url": "https://open.spotify.com/album/3XlMqFZVcQqlseAiJ5cXrt"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 163795,
       "name": "No Problem",
       "url": "https://open.spotify.com/track/5U4GsYIJtI495ulVPGqPfE"
+    },
+    {
+      "added_at": "2023-07-07 18:52:48",
+      "album": {
+        "name": "Good Luck in Chicago",
+        "url": "https://open.spotify.com/album/2QwDNTUJ3DzUcoVvXE5OA0"
+      },
+      "artists": [
+        {
+          "name": "Juliet",
+          "url": "https://open.spotify.com/artist/4kFlZCpQ9vLFSlqsqs24HP"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Good Luck in Chicago",
+      "url": "https://open.spotify.com/track/4mn98j9Ep10XpG9zjbkgQk"
     },
     {
       "added_at": "2023-07-07 18:52:48",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2023-07-07 18:52:48",
       "album": {
+        "name": "No me arrepiento de nada",
+        "url": "https://open.spotify.com/album/015ZqggE3HgaHHhM6CJldk"
+      },
+      "artists": [
+        {
+          "name": "Julieta Laso",
+          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
+        }
+      ],
+      "duration_ms": 158700,
+      "name": "No me arrepiento de nada",
+      "url": "https://open.spotify.com/track/7Hv3OYXAvrEQGPutmehZz0"
+    },
+    {
+      "added_at": "2023-07-07 18:52:48",
+      "album": {
         "name": "LIVE ARCHIVE",
         "url": "https://open.spotify.com/album/61SLmgZrabr4zY2QcUN9I6"
       },
@@ -1191,34 +1207,18 @@
     {
       "added_at": "2023-07-07 18:52:48",
       "album": {
-        "name": "No me arrepiento de nada",
-        "url": "https://open.spotify.com/album/015ZqggE3HgaHHhM6CJldk"
+        "name": "El Muro",
+        "url": "https://open.spotify.com/album/61ncSl5eA5WIdTxMvieAIw"
       },
       "artists": [
         {
-          "name": "Julieta Laso",
-          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
+          "name": "Juana Aguirre",
+          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
         }
       ],
-      "duration_ms": 158700,
-      "name": "No me arrepiento de nada",
-      "url": "https://open.spotify.com/track/7Hv3OYXAvrEQGPutmehZz0"
-    },
-    {
-      "added_at": "2023-07-07 18:52:48",
-      "album": {
-        "name": "blank",
-        "url": "https://open.spotify.com/album/1dwWkxy42aiaNqR2ikiibz"
-      },
-      "artists": [
-        {
-          "name": "OYEON",
-          "url": "https://open.spotify.com/artist/70Bw6088swdPQR9ryUJ8Q9"
-        }
-      ],
-      "duration_ms": 215666,
-      "name": "blank",
-      "url": "https://open.spotify.com/track/7dhNbI7JqdUvdqVY8uCmHV"
+      "duration_ms": 193953,
+      "name": "El Muro",
+      "url": "https://open.spotify.com/track/71hFIxMRthZAvbpnbLwpn5"
     },
     {
       "added_at": "2023-07-07 18:52:48",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2023-07-07 18:52:48",
       "album": {
-        "name": "El Muro",
-        "url": "https://open.spotify.com/album/61ncSl5eA5WIdTxMvieAIw"
+        "name": "blank",
+        "url": "https://open.spotify.com/album/1dwWkxy42aiaNqR2ikiibz"
       },
       "artists": [
         {
-          "name": "Juana Aguirre",
-          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
+          "name": "OYEON",
+          "url": "https://open.spotify.com/artist/70Bw6088swdPQR9ryUJ8Q9"
         }
       ],
-      "duration_ms": 193953,
-      "name": "El Muro",
-      "url": "https://open.spotify.com/track/71hFIxMRthZAvbpnbLwpn5"
+      "duration_ms": 215666,
+      "name": "blank",
+      "url": "https://open.spotify.com/track/7dhNbI7JqdUvdqVY8uCmHV"
     },
     {
       "added_at": "2023-07-07 18:52:48",

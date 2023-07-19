@@ -4,7 +4,7 @@
 
 > Hip hop and rap music from Nigeria\. Cover:<a href="https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr?si=t7JJXl1yQUCioA8ywXwUaA"> Psycho YP</a>
 
-238 songs - 11 hr 35 min
+239 songs - 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,7 +200,8 @@
 | [Soro](https://open.spotify.com/track/6q85h6RomSM8STj1Qbpk3E) | [Bizzonthetrack](https://open.spotify.com/artist/7mwUCvs44HG9Bh9yW3NUiG), [Bliizzy](https://open.spotify.com/artist/5bTtiKQwOpHRD5Mf5TTyPN) | [Crescendo](https://open.spotify.com/album/3TZIgQWteQktQ1HLS5776X) | 3:16 | 2023-03-25 | 2023-04-12 |
 | [Stacks](https://open.spotify.com/track/2EbyVRYATEEvyc6T23wrlO) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Stacks](https://open.spotify.com/album/13RRd735LR5ZlRK6RzKS4u) | 2:57 | 2022-06-09 | 2022-12-03 |
 | [STAMINA](https://open.spotify.com/track/6I7hrUazMFnJgMRFGlf2gZ) | [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B) | [STAMINA](https://open.spotify.com/album/0IVPvx3l7SAbf0XmcGkgPw) | 2:32 | 2023-06-22 |  |
-| [STAND ATTENTION](https://open.spotify.com/track/5oJXi8943xjgqoYUtdhiPS) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW) | [Osapa London](https://open.spotify.com/album/3n2FErZXaPynvMQcjaceCw) | 3:06 | 2023-07-13 |  |
+| [Stand Attention](https://open.spotify.com/track/2ff1ZzgSQdHDkD3dCKBiEm) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW) | [Osapa London](https://open.spotify.com/album/0GOFqam9eSaFZ3gVdQ7PP3) | 3:06 | 2023-07-13 |  |
+| [STAND ATTENTION](https://open.spotify.com/track/5oJXi8943xjgqoYUtdhiPS) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW) | [Osapa London](https://open.spotify.com/album/3n2FErZXaPynvMQcjaceCw) | 3:06 | 2023-07-13 | 2023-07-19 |
 | [Still Up](https://open.spotify.com/track/72FcNQ4PJNAWEaNS2lgpty) | [Zilla Oaks](https://open.spotify.com/artist/6jPUH69mRQVWQH6jdCfLDU) | [NO ZZZZ 2](https://open.spotify.com/album/17gL7RXMOp0Advfm0L7th9) | 2:56 | 2022-10-14 | 2022-10-29 |
 | [Stronger](https://open.spotify.com/track/1IWNI9NFFieHtzhgW9ghK5) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Stronger](https://open.spotify.com/album/2mfO2Esi28FBUHFoYuujZA) | 2:53 | 2022-10-28 |  |
 | [Suliya](https://open.spotify.com/track/3ezKYRrXqBGsBqunV5fTcd) | [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Suliya](https://open.spotify.com/album/2oU8UmMT3RnvNDFjJSPgVm) | 2:11 | 2022-06-09 |  |

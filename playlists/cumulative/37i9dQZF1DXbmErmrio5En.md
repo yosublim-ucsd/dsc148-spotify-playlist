@@ -4,7 +4,7 @@
 
 > \-8 LUFS if you can\. Ft\. mykel online
 
-232 songs - 10 hr 14 min
+233 songs - 10 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Alive](https://open.spotify.com/track/27XTTUlL99G8lcfuaetPij) | [CHRIS YONGE](https://open.spotify.com/artist/4jMGAL2SLFl8ZAEWhwORjT), [bloom](https://open.spotify.com/artist/3cXtMPyjj49G5dfZiO7W7Q) | [Alive](https://open.spotify.com/album/2udKLu1JEzjTssCifkxxRJ) | 2:21 | 2022-12-16 | 2023-02-18 |
 | [alone](https://open.spotify.com/track/7B0UsAj5qR6NeYQq3y74rF) | [Babebee](https://open.spotify.com/artist/719aYkabpmAmY7DAQamb8h) | [alone](https://open.spotify.com/album/0C1DeypOQyvRbU7Eg7917n) | 3:13 | 2022-12-04 |  |
 | [another night on the edge](https://open.spotify.com/track/4BE1RiDAUPdO7cknzaVHQf) | [fats'e](https://open.spotify.com/artist/6XFt0iOyYmGY19gn8upF5t) | [im sorry i never texted u back](https://open.spotify.com/album/0Uv6EaqO8PWeJxMoAwc7Nv) | 1:45 | 2023-03-20 | 2023-06-24 |
+| [anything u want](https://open.spotify.com/track/3PvsmNvUhhIaAeMK2PFe6p) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [anything u want](https://open.spotify.com/album/7nPPo0dyXrRFscTHV4k0yY) | 2:26 | 2023-05-05 |  |
 | [anything u want](https://open.spotify.com/track/4iV9i4oVWpJdwnI86VPh5o) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [anything u want](https://open.spotify.com/album/73CV9zUvuDoKWkBCnBFzIV) | 2:26 | 2023-05-05 | 2023-07-14 |
 | [apartmnt](https://open.spotify.com/track/0dOY28G8B0lshppMnrs8vS) | [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [apartmnt](https://open.spotify.com/album/1mqj22B6EL8FsqVOBfRtFJ) | 1:34 | 2022-12-04 | 2023-02-18 |
 | [areyouhome?](https://open.spotify.com/track/44WqG6hr6gOyUkGtbHeKF5) | [juno](https://open.spotify.com/artist/5YfZjShz51htJsfQP0YceU) | [teeth](https://open.spotify.com/album/2kwMpS2boGu2KgvT4UIxCh) | 1:34 | 2023-06-23 |  |
@@ -79,7 +80,7 @@
 | [Flowers & Chocolate](https://open.spotify.com/track/3ne8gcrNZD2lJihBGl5RC5) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Flowers & Chocolate](https://open.spotify.com/album/3Ir7nA3B734XS42NL5HfCW) | 3:15 | 2023-06-09 |  |
 | [FlySolo](https://open.spotify.com/track/1OCSVSRG9udIgyZQGTnRgq) | [heavn](https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz) | [FlySolo](https://open.spotify.com/album/1fPetlgE9MxlziP9R7J1G7) | 1:38 | 2023-06-23 |  |
 | [fuckboy](https://open.spotify.com/track/7cELheBXF3jIShGuewCy44) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [punk2](https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og) | 2:37 | 2022-12-04 | 2023-01-14 |
-| [fullmoonblood \(feat\. Extra Large Holiday Card & Genosky\)](https://open.spotify.com/track/4GCSIu06v7vp1a8htqMc3X) | [93FEETOFSMOKE](https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79), [Extra Large Holiday Card](https://open.spotify.com/artist/2jfvYlfqx5eA71jqycOYUe), [Genosky](https://open.spotify.com/artist/6WH867Ul1iFFTCsM1sFn8k) | [ALTAR74](https://open.spotify.com/album/1i12M4uoJJqRNsZrvFMG85) | 2:26 | 2023-06-23 |  |
+| [fullmoonblood \(feat\. Extra Large Holiday Card & Genosky\)](https://open.spotify.com/track/4GCSIu06v7vp1a8htqMc3X) | [93FEETOFSMOKE](https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79), [Extra Large Holiday Card](https://open.spotify.com/artist/2jfvYlfqx5eA71jqycOYUe), [Genosky](https://open.spotify.com/artist/6WH867Ul1iFFTCsM1sFn8k) | [ALTAR74](https://open.spotify.com/album/1i12M4uoJJqRNsZrvFMG85) | 2:26 | 2023-06-23 | 2023-07-19 |
 | [Fun and Forget](https://open.spotify.com/track/3cZ1SjHd0QIVRgGXiJfb5n) | [SSJ Twiin](https://open.spotify.com/artist/6XvELv4pue2ll8vImdm6ts), [thekid.ACE](https://open.spotify.com/artist/4GqTDpyDAWrxQ9bVCtWIDM) | [Fun and Forget](https://open.spotify.com/album/4fOAgauRwqgTolmLomauv9) | 2:38 | 2023-03-16 | 2023-04-09 |
 | [fuzz](https://open.spotify.com/track/2ctn0r5FOaCMKNC3JPojaG) | [re6ce](https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK) | [fuzz](https://open.spotify.com/album/45jK0xCxf13uNLUKfpPMyR) | 2:46 | 2023-06-23 |  |
 | [gluttony](https://open.spotify.com/track/6OCFifBlii2D7QN2upt6mg) | [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em), [Voda Fuji](https://open.spotify.com/artist/5jEpeMsWMRhprOFhAkIWIO) | [gluttony](https://open.spotify.com/album/3i0pG4o0WzP4qxYQ9wdlg7) | 1:57 | 2023-06-23 |  |

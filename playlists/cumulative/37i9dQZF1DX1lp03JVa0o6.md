@@ -2,7 +2,7 @@
 
 ### [Dance Generation](https://open.spotify.com/playlist/37i9dQZF1DX1lp03JVa0o6)
 
-> Today's biggest Dance hits! Cover: PinkPantheress
+> Today's biggest Dance hits! Cover: PinkPantheress, Destroy Lonely
 
 288 songs - 14 hr 58 min
 

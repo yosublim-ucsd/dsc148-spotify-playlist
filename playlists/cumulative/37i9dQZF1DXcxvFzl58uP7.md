@@ -4,7 +4,7 @@
 
 > Dreamy jams from the best bedroom producers\. Cover: Joji
 
-850 songs - 1 day 20 hr 10 min
+851 songs - 1 day 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [BERNADETTE](https://open.spotify.com/track/1Vr58OrTTkru2xyFEwEf6z) | [Zack Villere](https://open.spotify.com/artist/5jLbQGcvxehi2Z6qkUP9Rh), [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [BERNADETTE](https://open.spotify.com/album/753cAFVuIEKz16wM8K7B38) | 2:24 | 2021-03-19 | 2022-04-29 |
 | [Best Friend](https://open.spotify.com/track/6YM4q2BaSNMQZgSVsMT2ar) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Para Mi](https://open.spotify.com/album/6e8eJS3DUWZ9SAjHE5AD5m) | 2:30 | 2020-06-12 | 2021-03-21 |
 | [Best Person You Know](https://open.spotify.com/track/4lGu6pGvisz3Zvv1ThCEPd) | [Lowertown](https://open.spotify.com/artist/1yI0RRPnOA9BFJmiZ6cEzw) | [Best Person You Know](https://open.spotify.com/album/40f3HSi3lKHsv84Cu15xYX) | 4:21 | 2022-01-11 | 2022-07-27 |
+| [Better](https://open.spotify.com/track/0Z94dtWElamDwU4NrcGoUR) | [sign crushes motorist](https://open.spotify.com/artist/02vrwnrNEeDRV96o9iPSYP) | [i'll be okay](https://open.spotify.com/album/3yLxcdaNKhpogNECAju75d) | 1:38 | 2023-07-18 |  |
 | [better off alone](https://open.spotify.com/track/41C5pt0dZL4YxjjbChlrGV) | [Besphrenz](https://open.spotify.com/artist/0VVJ5bIx1zXlBLi1GiP4yX) | [better off alone](https://open.spotify.com/album/4ca1s27Cfk7KSgz1d8Gntg) | 3:18 | 2020-05-04 | 2021-08-27 |
 | [Big House](https://open.spotify.com/track/24avAUqwBIaGnr1MkbSrTH) | [Besphrenz](https://open.spotify.com/artist/0VVJ5bIx1zXlBLi1GiP4yX) | [Big House](https://open.spotify.com/album/503bF1Y3R7YVCTFD62XVJd) | 3:06 | 2021-06-04 | 2022-04-18 |
 | [Big Tex](https://open.spotify.com/track/2mDv8WCXIg5JD1J7TyIOQt) | [Blue Wilson](https://open.spotify.com/artist/2sw2UaTtDQzgWd7CPWKDsW) | [Future Street](https://open.spotify.com/album/6HwDO9qabmM2QgkXrwLeXW) | 3:39 | 2022-04-08 | 2022-07-15 |
@@ -605,7 +606,7 @@
 | [roll the dice](https://open.spotify.com/track/2TX7IPBBgfq4zL4TSZTp0D) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [roll the dice](https://open.spotify.com/album/54S0bDLXUsFIzxBssBkrul) | 2:14 | 2021-03-26 | 2022-04-21 |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-12-14 | 2023-04-18 |
 | [Romantic Lover](https://open.spotify.com/track/44pBlSEASFjEdU3qEHhbFs) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Let's Skip to the Wedding](https://open.spotify.com/album/02U2T90QXPo4XaFUvYURaf) | 1:26 | 2021-05-12 | 2022-04-08 |
-| [rugburn](https://open.spotify.com/track/0SzeLGLcyhzqoOANw7dRWu) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [rugburn](https://open.spotify.com/album/63bgr5IeQqGJlZBlYpgcsW) | 2:19 | 2023-04-17 |  |
+| [rugburn](https://open.spotify.com/track/0SzeLGLcyhzqoOANw7dRWu) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [rugburn](https://open.spotify.com/album/63bgr5IeQqGJlZBlYpgcsW) | 2:19 | 2023-04-17 | 2023-07-19 |
 | [Runnin'](https://open.spotify.com/track/5fHKmuV7ynN0l0stAcihSU) | [The Bops](https://open.spotify.com/artist/1fyRvkJhv7HM7M481LqsYX) | [WideSteppin](https://open.spotify.com/album/6J7Dz8p9tgza1x0zBbxqmL) | 2:55 | 2021-04-30 | 2021-06-09 |
 | [Running](https://open.spotify.com/track/3Dtr5e9OQGML2f48A6mw9P) | [Nicotine's Famous Honey](https://open.spotify.com/artist/111M3zZe92O4PHvKBl8nCT), [Nicotine](https://open.spotify.com/artist/0tpIaEojsimd2hK4Y3nZIX) | [An Open Letter](https://open.spotify.com/album/2o2FwH5tC3U3KmcyrqqCI4) | 4:07 | 2019-07-31 | 2021-05-27 |
 | [Running](https://open.spotify.com/track/4pbZ4wFXjGa92CsOlrscDL) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Running](https://open.spotify.com/album/5PYHrR4SV1E7ZwTmhyQGw3) | 2:38 | 2020-05-17 | 2022-04-20 |

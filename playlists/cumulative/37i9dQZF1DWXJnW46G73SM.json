@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629\ud83e\udd29 \u0627\u0644\u063a\u0644\u0627\u0641: <a href=\"https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID?si=VsX541TiREeZvWldvVY2MQ\">\u0631\u0627\u0645\u064a \u062c\u0645\u0627\u0644 </a>",
+  "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0647\u0646\u0627\ud83e\udd29 \u0627\u0644\u063a\u0644\u0627\u0641: <a href=\"https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V?si=_W-B2kvUTFeRbAOSHAPq4g\"> \u0627\u062d\u0645\u062f \u0633\u0639\u062f </a> \u0648 <a href=\"https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814?si=Ql5U58LxTguGr2c5ooJOYg\"> \u0631\u0648\u0628\u064a </a>",
   "name": "\u0645\u0635\u0631\u064a \u062c\u062f\u064a\u062f",
   "tracks": [
     {
@@ -1884,6 +1884,24 @@
       "duration_ms": 201874,
       "name": "El Baghdada",
       "url": "https://open.spotify.com/track/3yDim9SxoE7Pdy6kTncHdl"
+    },
+    {
+      "album": {
+        "name": "El Dalaa",
+        "url": "https://open.spotify.com/album/2FdayiAJ0mgrFNERd5AOx5"
+      },
+      "artists": [
+        {
+          "name": "Bahaa Sultan",
+          "url": "https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166999,
+      "name": "El Dalaa",
+      "url": "https://open.spotify.com/track/7wue5LasVYYkXBBmblfavk"
     },
     {
       "album": {
@@ -6919,6 +6937,28 @@
     },
     {
       "album": {
+        "name": "Ya Layaly",
+        "url": "https://open.spotify.com/album/3p1T8i6PfyTuZkaXMBQGX7"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Saad",
+          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+        },
+        {
+          "name": "Ruby",
+          "url": "https://open.spotify.com/artist/1Q81kV2ciL8ysasZdViLI9"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190714,
+      "name": "Ya Layaly",
+      "url": "https://open.spotify.com/track/5hCAs0OsDpCy6kZxEAI3aw"
+    },
+    {
+      "album": {
         "name": "Ya Leil Ya Ein",
         "url": "https://open.spotify.com/album/2Euy1OmiFdS02tYAG6fdvL"
       },
@@ -9298,7 +9338,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 269664,
       "name": "\u0648\u0633\u0637 \u0627\u0644\u0648\u0634\u0648\u0634 - \u062a\u062a\u0631 \u0645\u0633\u0644\u0633\u0644 \u0628\u0646\u0648\u0646",
       "url": "https://open.spotify.com/track/6jVUA2W2YcGnTJsV2YGajs"

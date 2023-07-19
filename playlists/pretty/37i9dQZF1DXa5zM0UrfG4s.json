@@ -1,12 +1,12 @@
 {
   "description": "b\u00f8gdebangers du kan spelle i kjerra! ",
-  "num_followers": 101182,
+  "num_followers": 101220,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOWZhN2VhOTc5ZjBmMWFiY2IzNGI1YjZmMmYyYzllMDg1MzA3YzI2",
+  "snapshot_id": "MCwyZDVmZTY4MzAzOWExY2EzNWQ0MzA0OTZlYjczNGIyYzZlZmUxMDhk",
   "tracks": [
     {
       "added_at": "2023-07-17 13:12:31",
@@ -495,6 +495,30 @@
     {
       "added_at": "2023-07-17 13:12:31",
       "album": {
+        "name": "Mawbys",
+        "url": "https://open.spotify.com/album/43BorH9aWDTNcbCWGreg0I"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
+        },
+        {
+          "name": "Thomskalle",
+          "url": "https://open.spotify.com/artist/2roRgovbg60YolEmVRRYwn"
+        },
+        {
+          "name": "Ginger Joe",
+          "url": "https://open.spotify.com/artist/309wPjSGQsRMlEBHrVcDtS"
+        }
+      ],
+      "duration_ms": 184508,
+      "name": "Mawbys",
+      "url": "https://open.spotify.com/track/0afgcFu473Mm5dyKQgNQGq"
+    },
+    {
+      "added_at": "2023-07-17 13:12:31",
+      "album": {
         "name": "TANTE",
         "url": "https://open.spotify.com/album/6XTc3QIanjhLFRlTk62SkU"
       },
@@ -527,30 +551,6 @@
       "duration_ms": 190466,
       "name": "Granada",
       "url": "https://open.spotify.com/track/2P1WIh8npDPmEiG0f2OICO"
-    },
-    {
-      "added_at": "2023-07-17 13:12:31",
-      "album": {
-        "name": "Mawbys",
-        "url": "https://open.spotify.com/album/43BorH9aWDTNcbCWGreg0I"
-      },
-      "artists": [
-        {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/7krakxeyEmge6pzTthKNyg"
-        },
-        {
-          "name": "Thomskalle",
-          "url": "https://open.spotify.com/artist/2roRgovbg60YolEmVRRYwn"
-        },
-        {
-          "name": "Ginger Joe",
-          "url": "https://open.spotify.com/artist/309wPjSGQsRMlEBHrVcDtS"
-        }
-      ],
-      "duration_ms": 184508,
-      "name": "Mawbys",
-      "url": "https://open.spotify.com/track/0afgcFu473Mm5dyKQgNQGq"
     },
     {
       "added_at": "2023-07-17 13:12:31",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-07-17 13:12:31",
       "album": {
+        "name": "Aldri tilbake",
+        "url": "https://open.spotify.com/album/2MkG4qjOniaUJCUbmIPE3O"
+      },
+      "artists": [
+        {
+          "name": "Rotlaus",
+          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+        }
+      ],
+      "duration_ms": 201920,
+      "name": "Aldri tilbake",
+      "url": "https://open.spotify.com/track/6qBJhWis1EGlcDvC74PTyS"
+    },
+    {
+      "added_at": "2023-07-17 13:12:31",
+      "album": {
         "name": "FREDAG",
         "url": "https://open.spotify.com/album/6zBuRXhywr33CSy1QXxd46"
       },
@@ -927,18 +943,22 @@
     {
       "added_at": "2023-07-17 13:12:31",
       "album": {
-        "name": "Aldri tilbake",
-        "url": "https://open.spotify.com/album/2MkG4qjOniaUJCUbmIPE3O"
+        "name": "Push, pust",
+        "url": "https://open.spotify.com/album/0AHo6fEk8qd21fvIEqFs1a"
       },
       "artists": [
         {
-          "name": "Rotlaus",
-          "url": "https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT"
+          "name": "Ar0n & Gaaseby",
+          "url": "https://open.spotify.com/artist/30iaefs4LI6mdylk3mFs73"
+        },
+        {
+          "name": "Daskeladden",
+          "url": "https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb"
         }
       ],
-      "duration_ms": 201920,
-      "name": "Aldri tilbake",
-      "url": "https://open.spotify.com/track/6qBJhWis1EGlcDvC74PTyS"
+      "duration_ms": 123013,
+      "name": "Push, pust",
+      "url": "https://open.spotify.com/track/2eSs4TwXEwKDz3KCkMnCyv"
     },
     {
       "added_at": "2023-07-17 13:12:31",
@@ -959,26 +979,6 @@
       "duration_ms": 147600,
       "name": "Eventyr",
       "url": "https://open.spotify.com/track/2Fo7dvlTHm2wRVeddiY5vV"
-    },
-    {
-      "added_at": "2023-07-17 13:12:31",
-      "album": {
-        "name": "Push, pust",
-        "url": "https://open.spotify.com/album/0AHo6fEk8qd21fvIEqFs1a"
-      },
-      "artists": [
-        {
-          "name": "Ar0n & Gaaseby",
-          "url": "https://open.spotify.com/artist/30iaefs4LI6mdylk3mFs73"
-        },
-        {
-          "name": "Daskeladden",
-          "url": "https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb"
-        }
-      ],
-      "duration_ms": 123013,
-      "name": "Push, pust",
-      "url": "https://open.spotify.com/track/2eSs4TwXEwKDz3KCkMnCyv"
     },
     {
       "added_at": "2023-07-17 13:12:31",

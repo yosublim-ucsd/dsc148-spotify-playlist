@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > it's a generation ⛓ ft\. hot milk
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,905 likes - 85 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,897 likes - 85 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 84 | [I Love Myself](https://open.spotify.com/track/0ObrhGyCklNz4yM6OBsbMk) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [I Love Myself](https://open.spotify.com/album/4DhPfoDuwknZjkQPFPiEEo) | 2:25 |
 | 85 | [DOWN BAD](https://open.spotify.com/track/0tvKYDs3fTQeBKMLYhSElW) | [Red Leather](https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1) | [DOWN BAD](https://open.spotify.com/album/14tgVsMWL28HnQBxmqV6Io) | 2:57 |
 
-Snapshot ID: `MCxiNDJlODVlNjA5YWNjYjZhNmEwZjljZWZjN2UxZmQyZDdmN2U2Y2M3`
+Snapshot ID: `MCxlZDkwMmQ3MWE2YTk0OTA0MTNmYTU1NDhlNTIyNGY4ZGJhM2MwMzZh`

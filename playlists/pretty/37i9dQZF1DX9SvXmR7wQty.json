@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Loud, Ya Cetidon",
-  "num_followers": 37199,
+  "num_followers": 37202,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTZmOWUzNTYzNjQ5M2I1YjZmNmRhY2MyMWI5YjVkODE0NDJkMGU2",
+  "snapshot_id": "MCxhYTM1NzExMmIyMDlkZmU3MDc1OGNiNDRhNDUzOGI3OTYwMmNiZWYw",
   "tracks": [
     {
       "added_at": "2023-07-14 15:47:31",
@@ -443,6 +443,22 @@
     {
       "added_at": "2023-07-14 15:47:31",
       "album": {
+        "name": "Les choses qu'on fait",
+        "url": "https://open.spotify.com/album/5O3zWrtW5Gaj9yIvwpq9pc"
+      },
+      "artists": [
+        {
+          "name": "Vitaa",
+          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
+        }
+      ],
+      "duration_ms": 196725,
+      "name": "Les choses qu'on fait",
+      "url": "https://open.spotify.com/track/0Phj7ixjnkGM8aahaEgrTC"
+    },
+    {
+      "added_at": "2023-07-14 15:47:31",
+      "album": {
         "name": "Salement",
         "url": "https://open.spotify.com/album/1aYMtmu2bfmxGqggmMjSnk"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 163034,
       "name": "Salement",
       "url": "https://open.spotify.com/track/5YcUFycFAyWzPs94nnP63O"
-    },
-    {
-      "added_at": "2023-07-14 15:47:31",
-      "album": {
-        "name": "Les choses qu'on fait",
-        "url": "https://open.spotify.com/album/5O3zWrtW5Gaj9yIvwpq9pc"
-      },
-      "artists": [
-        {
-          "name": "Vitaa",
-          "url": "https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht"
-        }
-      ],
-      "duration_ms": 196725,
-      "name": "Les choses qu'on fait",
-      "url": "https://open.spotify.com/track/0Phj7ixjnkGM8aahaEgrTC"
     },
     {
       "added_at": "2023-07-14 15:47:31",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-07-14 15:47:31",
       "album": {
+        "name": "Roly",
+        "url": "https://open.spotify.com/album/0WNbPgSGD0Csc2XVihcrpS"
+      },
+      "artists": [
+        {
+          "name": "Timal",
+          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
+        }
+      ],
+      "duration_ms": 225996,
+      "name": "Roly",
+      "url": "https://open.spotify.com/track/0TjodbaIbejaVOY2uQnCxO"
+    },
+    {
+      "added_at": "2023-07-14 15:47:31",
+      "album": {
         "name": "La Centrale",
         "url": "https://open.spotify.com/album/6f8fSoo94Jbu6QBAKkYk1O"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 166385,
       "name": "\u00c9ternel",
       "url": "https://open.spotify.com/track/4c21nWt1yyheyxXQAXxp6q"
-    },
-    {
-      "added_at": "2023-07-14 15:47:31",
-      "album": {
-        "name": "Roly",
-        "url": "https://open.spotify.com/album/0WNbPgSGD0Csc2XVihcrpS"
-      },
-      "artists": [
-        {
-          "name": "Timal",
-          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
-        }
-      ],
-      "duration_ms": 225996,
-      "name": "Roly",
-      "url": "https://open.spotify.com/track/0TjodbaIbejaVOY2uQnCxO"
     },
     {
       "added_at": "2023-07-14 15:47:31",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-07-14 15:47:31",
       "album": {
+        "name": "Femmes",
+        "url": "https://open.spotify.com/album/14I7PjywH21Zptb8VxDG3u"
+      },
+      "artists": [
+        {
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+        }
+      ],
+      "duration_ms": 131399,
+      "name": "Femmes",
+      "url": "https://open.spotify.com/track/6k6Orw2NCDFuTiyyRYAcRB"
+    },
+    {
+      "added_at": "2023-07-14 15:47:31",
+      "album": {
         "name": "Chrome",
         "url": "https://open.spotify.com/album/7bMtSweR1dLda9bbLUq51b"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 126506,
       "name": "Barcelona",
       "url": "https://open.spotify.com/track/1h72CQREsC9fW7VhR7bW0x"
-    },
-    {
-      "added_at": "2023-07-14 15:47:31",
-      "album": {
-        "name": "Femmes",
-        "url": "https://open.spotify.com/album/14I7PjywH21Zptb8VxDG3u"
-      },
-      "artists": [
-        {
-          "name": "Kerchak",
-          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
-        }
-      ],
-      "duration_ms": 131399,
-      "name": "Femmes",
-      "url": "https://open.spotify.com/track/6k6Orw2NCDFuTiyyRYAcRB"
     },
     {
       "added_at": "2023-07-14 15:47:31",

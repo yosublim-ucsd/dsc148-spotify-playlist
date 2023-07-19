@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Mahmundi e mais mulheres para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,319 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,334 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,17 +36,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 26 | [Azul Moderno](https://open.spotify.com/track/01JLpmg9UguUoJS7AmlzqA) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW) | [Azul Moderno](https://open.spotify.com/album/3ocMFmdWIfjrfNdHVFQ41I) | 3:54 |
 | 27 | [Arrepiada](https://open.spotify.com/track/5lxf7rlWtF1ervIHlG6GFF) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [ARREPIADA](https://open.spotify.com/album/7CEH5SQ6yP5MUlunhS8kH0) | 3:35 |
 | 28 | [Rasta](https://open.spotify.com/track/3xOxeGRwF4p5fg56wE28al) | [Anelis Assumpção](https://open.spotify.com/artist/18XQILNxVCcvcU1VhwNJJv), [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Sal](https://open.spotify.com/album/5ANLgj5VLYICZwGRE7AXZ7) | 3:26 |
-| 29 | [Ovelha Negra \- Acústico MTV](https://open.spotify.com/track/4clkTFycF1E07dwJWabbBF) | [Manu Gavassi](https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Ovelha Negra \(Acústico MTV\)](https://open.spotify.com/album/0B6gdwQjkzQu48ZZhOUdoS) | 4:55 |
-| 30 | [eu posso ser quem eu quiser](https://open.spotify.com/track/6f3WB59mrHJi8UC7hdxJbs) | [Nina Fernandes](https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP) | [eu posso ser quem eu quiser](https://open.spotify.com/album/4rxVNWH6cDqxacHwreoDZQ) | 3:47 |
+| 29 | [eu posso ser quem eu quiser](https://open.spotify.com/track/6f3WB59mrHJi8UC7hdxJbs) | [Nina Fernandes](https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP) | [eu posso ser quem eu quiser](https://open.spotify.com/album/4rxVNWH6cDqxacHwreoDZQ) | 3:47 |
+| 30 | [Ovelha Negra \- Acústico MTV](https://open.spotify.com/track/4clkTFycF1E07dwJWabbBF) | [Manu Gavassi](https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Ovelha Negra \(Acústico MTV\)](https://open.spotify.com/album/0B6gdwQjkzQu48ZZhOUdoS) | 4:55 |
 | 31 | [Pimenta De Cheiro](https://open.spotify.com/track/2cxDLP3uI9ovuHbrNqY3fr) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [ARRISCA](https://open.spotify.com/album/7yvlnTu9zTkkrRGCwUICXc) | 3:27 |
 | 32 | [BEIJANDO TODOS VOCÊS](https://open.spotify.com/track/16poXW1cNYhezYtBC29OZJ) | [Ava Rocha](https://open.spotify.com/artist/68KlLCPyeiNtzy741tAwhQ) | [BEIJANDO TODOS VOCÊS](https://open.spotify.com/album/3EoLEi5MJW0QnAB44RwZCD) | 3:15 |
-| 33 | [Se Você Não Me Queria](https://open.spotify.com/track/7dtv689PA2U8naN1kUQC5h) | [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [Se Você Não Me Queria](https://open.spotify.com/album/5s8ET4e3AxTXSQDHtVRnHi) | 3:26 |
+| 33 | [Paraíso](https://open.spotify.com/track/5qIHD6tx7bb0iLKg5GccWw) | [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO), [Bella Kahun](https://open.spotify.com/artist/6HBV7RzsoXsLeNMvkh1raa) | [Paraíso](https://open.spotify.com/album/7jNNEGtVZQVmUVkYSrhulP) | 2:53 |
 | 34 | [Las Brujas](https://open.spotify.com/track/0oCgqwVPhmu2dOzMspIlxU) | [Alice Caymmi](https://open.spotify.com/artist/3ExGkIKgqWpIr2hr0nepRp) | [Las Brujas](https://open.spotify.com/album/7sbc6cD2frAlXquTA71fQs) | 3:26 |
 | 35 | [Agolonã](https://open.spotify.com/track/4Yj2m1IuKy85gEk40t89LB) | [Mc Tha](https://open.spotify.com/artist/0fpg4Y7Q6ZRDSppLLt7G0n) | [Meu Santo É Forte](https://open.spotify.com/album/5Wl3slNLngCEEmoziB0GzP) | 4:21 |
 | 36 | [Por Aqui Tá Tudo Bem](https://open.spotify.com/track/7G52l43cuNJxyVu5ciMKy1) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Por Aqui Tá Tudo Bem](https://open.spotify.com/album/4I7A1KErUent5Uk1jg7uaj) | 3:00 |
 | 37 | [Dois Dedim](https://open.spotify.com/track/0966GppNs2SRwr4T1HbIpN) | [Bia Ferreira](https://open.spotify.com/artist/0Aj4m8El9TdnqyVHhkuloa) | [Faminta](https://open.spotify.com/album/6ekaLRjzflYYAS7qFBgNCj) | 5:14 |
 | 38 | [Rude](https://open.spotify.com/track/3rdUXvGBzH97grQewH9AtO) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [EVEHIVE](https://open.spotify.com/artist/3FuxqwSNXMltSpqe8Dpe8h) | [Rude](https://open.spotify.com/album/68UOEAyDvW6kxhDDMF5NOC) | 2:54 |
-| 39 | [Paraíso](https://open.spotify.com/track/5qIHD6tx7bb0iLKg5GccWw) | [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO), [Bella Kahun](https://open.spotify.com/artist/6HBV7RzsoXsLeNMvkh1raa) | [Paraíso](https://open.spotify.com/album/7jNNEGtVZQVmUVkYSrhulP) | 2:53 |
+| 39 | [Se Você Não Me Queria](https://open.spotify.com/track/7dtv689PA2U8naN1kUQC5h) | [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [Se Você Não Me Queria](https://open.spotify.com/album/5s8ET4e3AxTXSQDHtVRnHi) | 3:26 |
 | 40 | [Deusa Inebriante](https://open.spotify.com/track/5jokszjIdX0MXseaJrpAWJ) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [ARREPIADA](https://open.spotify.com/album/7CEH5SQ6yP5MUlunhS8kH0) | 3:18 |
 | 41 | [Renascer](https://open.spotify.com/track/2MdJeuNgolwPRA18MTIc5I) | [Xênia França](https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D) | [Em Nome da Estrela](https://open.spotify.com/album/5wZ83t7Di8TmoUP6uc6IC5) | 4:54 |
 | 42 | [Sei Lá](https://open.spotify.com/track/0Jr1f3iDAZkmdyzjxQyMTk) | [Jade Baraldo](https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45) | [Sei Lá](https://open.spotify.com/album/4sefq8JCoswaBqteH6foqq) | 4:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Uva Niágara](https://open.spotify.com/track/7MKKA2t5XffoOxksp0m1vH) | [Anelis Assumpção](https://open.spotify.com/artist/18XQILNxVCcvcU1VhwNJJv), [Larissa Luz](https://open.spotify.com/artist/14pUxO8NDxospQBy9W1aIq) | [Uva Niágara](https://open.spotify.com/album/0NZcfKoQQpQIBxqgAkkIyd) | 3:05 |
 | 50 | [Miragem](https://open.spotify.com/track/78u4YOG1RMUXZcj6UH1LMv) | [Xênia França](https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D) | [Xenia](https://open.spotify.com/album/5x930Gsxzg0cWr6TThqmXS) | 3:51 |
 
-Snapshot ID: `MCwwOWQzYzc1NmE4OGJkZGZjYTkxYmVkNmY3NGI4ZTdlYjEwODViZGVk`
+Snapshot ID: `MCwwNWY3ZGQwYjc4ZjE0ODJjMjBlZjYxNmZhNWJjMTQyMDc5ZDZkNjli`

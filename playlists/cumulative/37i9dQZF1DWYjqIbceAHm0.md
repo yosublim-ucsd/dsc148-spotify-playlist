@@ -4,7 +4,7 @@
 
 > Meet the soundtrack and exclusive unreleased videos of JTBC's global idol audition 'Peak Time'! \(JTBC의 글로벌 아이돌 오디션 '피크타임'의 사운드 트랙과 독점 미공개 영상들을 만나보세요!\)
 
-48 songs - 2 hr 25 min
+49 songs - 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,5 +56,6 @@
 | [WAVE \(prod\. GroovyRoom\)](https://open.spotify.com/track/20fjmNYvcr8L14A9VqkOkI) | [MASC](https://open.spotify.com/artist/58HJi7yFLO4Q2Qu0m7XmTQ) | [PEAK TIME \- <FINAL ROUND>](https://open.spotify.com/album/1Tu7d4nUGvhcLt2rbERfm4) | 3:12 | 2023-04-21 |  |
 | [Way Back Home](https://open.spotify.com/track/03gv7SwS0qm9dCfuuKgBYv) | [Vocal C Unit](https://open.spotify.com/artist/08CajDfHSx3HVYfOxteGSX) | [PEAK TIME \- 2Round <Union match> Pt.1](https://open.spotify.com/album/4TSFzktISNsCCWURiE7MKc) | 3:01 | 2023-03-12 |  |
 | [You Are](https://open.spotify.com/track/7Eqlekbk5iiYs6DHwheKjk) | [TEAM 7:00](https://open.spotify.com/artist/2UFo4oEsxKVnhEGgVon9hS) | [PEAK TIME \- 1 Round <Rival match> Pt.2](https://open.spotify.com/album/6ccuc2PTwaIdohch6Cam0K) | 2:56 | 2023-03-10 |  |
+| [YOUR TIME](https://open.spotify.com/track/4dSp0RtgeLkoZpjgN8f9Lb) | [PEAK TIME TOP6](https://open.spotify.com/artist/3VTia3pbTP2XEaOWJRQtoY) | [YOUR TIME](https://open.spotify.com/album/6vkd9JWoW9yyyewCfs8dBY) | 4:09 | 2023-07-18 |  |
 
 \*This playlist was first scraped on 2023-02-17. Prior content cannot be recovered.

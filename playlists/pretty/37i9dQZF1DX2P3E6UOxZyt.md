@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星星！Cover: LÜCY
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,703 likes - 67 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,711 likes - 67 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 66 | [for all this savin’](https://open.spotify.com/track/7LVsxInZbRLYucWpNCgx7A) | [Soph T.](https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP) | [for all this savin’](https://open.spotify.com/album/0HYTco54WqzpbJiiZJ3ym0) | 3:26 |
 | 67 | [Black Panther](https://open.spotify.com/track/6OHNx1ADztv9b8mCBi2Y5s) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [Black Panther](https://open.spotify.com/album/1SSH4FrbiCFmlkMeUNQ7I8) | 3:30 |
 
-Snapshot ID: `MCw1ZTkxNWYxNzU0MDU2YTgwZDRlMjNkMjk0YmRlYjU2NmQwNjhhOGY3`
+Snapshot ID: `MCw1NDgwMmZiZWZiZjNlYjQwYjM0NjUzMDBhMzQ3OWFlZTI0MTVhMWMy`

@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 89902,
       "name": "Abstractions",
       "url": "https://open.spotify.com/track/7lvOQc9v9ybktcebHIaIFs"
@@ -1021,6 +1021,24 @@
     },
     {
       "album": {
+        "name": "Charcoaled Walls",
+        "url": "https://open.spotify.com/album/6wxHC0jzaRgpbscPfafecz"
+      },
+      "artists": [
+        {
+          "name": "Jean-Marie Bussiere",
+          "url": "https://open.spotify.com/artist/1hZuEKockN0pWOxGImbcUF"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124105,
+      "name": "Charcoaled Walls",
+      "url": "https://open.spotify.com/track/0XWMf2z7iX2p8E5kNNRzX3"
+    },
+    {
+      "album": {
         "name": "Chasing lights",
         "url": "https://open.spotify.com/album/2hD5lpDeL7dOU3EQGxkfGX"
       },
@@ -1687,6 +1705,24 @@
     },
     {
       "album": {
+        "name": "Evoke",
+        "url": "https://open.spotify.com/album/6C8bQ1SVXBEbc2bTJDndJH"
+      },
+      "artists": [
+        {
+          "name": "Michael Frankenberger",
+          "url": "https://open.spotify.com/artist/4LKXdZFgLqP1Yozo8I28jJ"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134004,
+      "name": "Evoke",
+      "url": "https://open.spotify.com/track/5nH4IicA1G7pxIfgHPZNp0"
+    },
+    {
+      "album": {
         "name": "Exhaler",
         "url": "https://open.spotify.com/album/6cSN1nY7uHi9jgLEkLI6yN"
       },
@@ -1824,7 +1860,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 74737,
       "name": "Ficelles",
       "url": "https://open.spotify.com/track/132Kp4GGfpNCDwiIOWygrg"
@@ -1932,7 +1968,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 96052,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/0udVYSGaMFWLUafXmTNbKI"
@@ -1972,7 +2008,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 108461,
       "name": "Fluttering",
       "url": "https://open.spotify.com/track/5w1FbQ4wRjRkzw9IXv30GW"
@@ -2098,7 +2134,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 80625,
       "name": "Furrows",
       "url": "https://open.spotify.com/track/6mJlUy0xm4ua1WH1jYFF7n"
@@ -3142,7 +3178,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 98625,
       "name": "La Prima",
       "url": "https://open.spotify.com/track/49rfMXXDmIDL7fDovPJ5BR"
@@ -3626,7 +3662,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 87520,
       "name": "Luminescent",
       "url": "https://open.spotify.com/track/0nWuxLLVxkGJ9n8IxhMDr7"
@@ -3734,7 +3770,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 107585,
       "name": "Maybe One Day",
       "url": "https://open.spotify.com/track/07Er4NE1N681p2e6uHvEVI"
@@ -4152,6 +4188,24 @@
       "duration_ms": 166000,
       "name": "Must",
       "url": "https://open.spotify.com/track/5Z9LClwDtSCjaRoeaG7QmQ"
+    },
+    {
+      "album": {
+        "name": "M\u00e9lange Weaved",
+        "url": "https://open.spotify.com/album/1h991c5WZCjEVDxBsdF8Rq"
+      },
+      "artists": [
+        {
+          "name": "Maya Sarfatto",
+          "url": "https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126778,
+      "name": "M\u00e9lange Weaved",
+      "url": "https://open.spotify.com/track/4xmr3ICJGqZFJAOTWWo5ZV"
     },
     {
       "album": {
@@ -5513,6 +5567,24 @@
     },
     {
       "album": {
+        "name": "Scrim-covered",
+        "url": "https://open.spotify.com/album/6ts1khMZNkMStZLJ2u1PgF"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Austin",
+          "url": "https://open.spotify.com/artist/3RyXWAkPxxntDFBAeGst6K"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123738,
+      "name": "Scrim-covered",
+      "url": "https://open.spotify.com/track/2aXJs8TTJKtOdpqDShkXDk"
+    },
+    {
+      "album": {
         "name": "Sea Change",
         "url": "https://open.spotify.com/album/1jqlahQiSw1r4Leg6IQp3S"
       },
@@ -5614,7 +5686,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 92000,
       "name": "Seraphic",
       "url": "https://open.spotify.com/track/1zIZWC0MW1PXp9lZRbZSZE"
@@ -6994,7 +7066,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 109019,
       "name": "Waltz for Lizzy",
       "url": "https://open.spotify.com/track/70xS3AcW7idZcUrvFEzMln"
@@ -7120,7 +7192,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 108250,
       "name": "When We Were Young",
       "url": "https://open.spotify.com/track/4jbI0eDFCJ6gdjp50IMrAQ"

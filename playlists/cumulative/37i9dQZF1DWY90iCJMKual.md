@@ -4,7 +4,7 @@
 
 > Groove to the rhythm of OPM's R&B tunes\. Cover: Nadine Lustre
 
-123 songs - 7 hr 20 min
+124 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Indigo Haze](https://open.spotify.com/track/3IfVZPWLxmE6qJNRpT72r6) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Indigo Haze](https://open.spotify.com/album/7pGbtJZVxIUGawI3LwwU8x) | 2:59 | 2022-10-25 |  |
 | [Infinity](https://open.spotify.com/track/0RpPFZ6DkjdCHEUzvfJyo0) | [Quest](https://open.spotify.com/artist/4N7VMCvYd9Reh5bJLnRVzY), [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y) | [Infinity](https://open.spotify.com/album/6tgIge8laKuwvRXCvmdbka) | 4:32 | 2022-10-12 |  |
 | [Kahit Saglit](https://open.spotify.com/track/2xdQcpEQa9TgINvnoV1OwM) | [SV Squad](https://open.spotify.com/artist/3ahPeyV1LjlV6yLElntHXP), [Allegra](https://open.spotify.com/artist/4yW3zpc71yAWvetCxsE9nU), [SV3](https://open.spotify.com/artist/5xt5G0G86DWjAoVW3zmY54), [MSTRYOVERSE](https://open.spotify.com/artist/5UrbDafjmKdIIZirS8zM3I) | [Kahit Saglit](https://open.spotify.com/album/3CJM4TUV7T6a6XMxq5ohsm) | 3:10 | 2023-04-06 |  |
+| [Kailangan](https://open.spotify.com/track/6T4S0dtryTeI5TOqhTYWHP) | [Johann Regaya](https://open.spotify.com/artist/3PID0KJW9zSuISzVtbBBpJ) | [Kailangan](https://open.spotify.com/album/6x8VAVkEo2VlH4ATAFhKgl) | 3:01 | 2023-07-18 |  |
 | [Kailangan ko ng…](https://open.spotify.com/track/3adl1iFtTa7KU31A7s1DtR) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j) | [Kailangan ko ng…](https://open.spotify.com/album/4vSgXSM5OqxanzpJQqhFET) | 3:45 | 2022-10-12 |  |
 | [Katabi](https://open.spotify.com/track/3Ey3JBGEBcGFc7zbnSZwji) | [a.v.d.i](https://open.spotify.com/artist/5PWqgLVse2O4ANi7UDk3nV) | [Katabi](https://open.spotify.com/album/2HfhCh4lth0Z4tjZv7iqI2) | 3:44 | 2022-10-12 |  |
 | [Kulang](https://open.spotify.com/track/6uGRcwf0z3FV9CGC5jOrxX) | [Ace Banzuelo](https://open.spotify.com/artist/3f0X043zSojego7Qn4Yi6U) | [Kulang](https://open.spotify.com/album/43yikgeYnQWXUzMfqN4j9i) | 4:00 | 2022-12-14 |  |

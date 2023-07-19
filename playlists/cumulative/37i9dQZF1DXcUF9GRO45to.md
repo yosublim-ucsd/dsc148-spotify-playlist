@@ -4,7 +4,7 @@
 
 > French scene makes some noise!
 
-269 songs - 17 hr 13 min
+270 songs - 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,10 +50,11 @@
 | [Control](https://open.spotify.com/track/74pxHiAt5sdA1mutii3Nki) | [Shake Shake Go](https://open.spotify.com/artist/1FmnkGJ5KDt1eCHJQVyAbk) | [Homesick](https://open.spotify.com/album/0cFm4edaIWvQN1gTYbpWmL) | 3:09 | 2021-12-15 | 2022-04-05 |
 | [Cooloroonie](https://open.spotify.com/track/0xPWtI7B3euPNezaoofc0B) | [DYE CRAP](https://open.spotify.com/artist/5dACJsbbSkmY4tC7kPpd5x) | [Cooloroonie](https://open.spotify.com/album/3EqYMG7A0Z0EKYkYiN7NTS) | 2:38 | 2021-12-15 | 2022-07-28 |
 | [Core](https://open.spotify.com/track/3KQFoQcHhnVwt8x8CFD7Td) | [Dead Horse One](https://open.spotify.com/artist/0CIGn7O0TtfeO2SNeD3rE7) | [Core](https://open.spotify.com/album/3PcIsTBU9umNzP1Ejz3s2g) | 4:28 | 2022-06-30 | 2023-06-30 |
-| [Cristaux liquides](https://open.spotify.com/track/34oTtDnMwgAbmZd9J6XAKt) | [Pogo Car Crash Control](https://open.spotify.com/artist/5wPxorJlp9dg5u4l3L3ITD) | [Fréquence violence](https://open.spotify.com/album/3UZqjG3zx72rh6lnzOrJg3) | 2:50 | 2022-11-28 |  |
+| [Cristaux liquides](https://open.spotify.com/track/34oTtDnMwgAbmZd9J6XAKt) | [Pogo Car Crash Control](https://open.spotify.com/artist/5wPxorJlp9dg5u4l3L3ITD) | [Fréquence violence](https://open.spotify.com/album/3UZqjG3zx72rh6lnzOrJg3) | 2:50 | 2022-11-28 | 2023-07-19 |
 | [Crystal Glass](https://open.spotify.com/track/6g6kaanB0CkHwZVizWUaGj) | [Mad Foxes](https://open.spotify.com/artist/0DNV4wMtnm1dZG7VLwdjCC) | [Ashamed](https://open.spotify.com/album/2AVURS4qCdrIZkqriAelGo) | 2:59 | 2021-12-15 |  |
 | [Daddy Is Drunk Again](https://open.spotify.com/track/5LsRmuc3NJgGEsJSNY6dgf) | [Cheap Teen](https://open.spotify.com/artist/0X6Rbb4fyZbLfdz3oNhnOX) | [Daddy Is Drunk Again](https://open.spotify.com/album/5jmkzwcqR2q6gqbsfOvC8R) | 2:56 | 2022-06-30 | 2022-07-23 |
 | [Damn Cool](https://open.spotify.com/track/4QjK0ypdnS8svTlDQEbnGy) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB) | [Past & Future](https://open.spotify.com/album/49zarwVKLAbwUXnbHtgHxc) | 3:23 | 2021-12-31 | 2022-04-18 |
+| [Daydreaming](https://open.spotify.com/track/1m4ZGzVWW9Z6J96THHBJMj) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Daydreaming](https://open.spotify.com/album/1Q8BDjqStLsJa9fhlp5yjv) | 3:35 | 2023-07-18 |  |
 | [Death Sound](https://open.spotify.com/track/3jcqQv97hJOLA9CaHyEMBZ) | [Headcharger](https://open.spotify.com/artist/34M4LcAKFb4852Iigq7BNv) | [Rise from the Ashes](https://open.spotify.com/album/1esrQ31gmJpt7c1I4inyFn) | 4:03 | 2023-03-30 | 2023-05-04 |
 | [Death Sound](https://open.spotify.com/track/0BFNt26WzWcIkVyn6yPPD5) | [Headcharger](https://open.spotify.com/artist/34M4LcAKFb4852Iigq7BNv) | [Death Sound](https://open.spotify.com/album/59WBiX12rBMJkVXpStVGWe) | 4:03 | 2021-12-15 | 2022-07-27 |
 | [Despite](https://open.spotify.com/track/129whHjHOOX5AyxEXGwh9N) | [W!ZARD](https://open.spotify.com/artist/3E7Z5zzigflRAScfu3gigd) | [Despite](https://open.spotify.com/album/7CIoj4MTGannSHp7Tp7dCa) | 4:46 | 2022-11-28 | 2023-01-27 |
@@ -110,7 +111,7 @@
 | [Hello](https://open.spotify.com/track/3UX2rt7dWNVxEGO9LQzkMb) | [I Love My Neighbours](https://open.spotify.com/artist/0OnS3g7UIU366z6CpbhCfz) | [Anthology](https://open.spotify.com/album/37m8Xof3RWkngHVxbfbN8c) | 3:26 | 2021-12-31 | 2022-04-21 |
 | [Here Comes the Sun](https://open.spotify.com/track/6JJxwlsFONGLquIJYdb2U2) | [Blue Orchid](https://open.spotify.com/artist/5dZJijmLhkahYRvLTrkq1j) | [Blue Orchid](https://open.spotify.com/album/0cHEMaf7pPhVVGv6fZX9VB) | 5:14 | 2021-12-15 | 2022-07-28 |
 | [High Pride](https://open.spotify.com/track/6GwKtbgJw0pT0un2mHiT0h) | [The Last Target](https://open.spotify.com/artist/2U34HnOfkQ7yEmbkTeb4V8) | [High Pride](https://open.spotify.com/album/5w6LR3OgeI08ybRXYsYvym) | 6:47 | 2021-12-31 | 2022-07-22 |
-| [Homecoming](https://open.spotify.com/track/0EEwKVe65Zg558NmnyMtCu) | [Noiseheads](https://open.spotify.com/artist/596tCSFtWm3PP3YHKtid6Q) | [Sitcoms for Aliens](https://open.spotify.com/album/5m60bag09WvO4KA2skUXV6) | 3:05 | 2021-12-31 |  |
+| [Homecoming](https://open.spotify.com/track/0EEwKVe65Zg558NmnyMtCu) | [Noiseheads](https://open.spotify.com/artist/596tCSFtWm3PP3YHKtid6Q) | [Sitcoms for Aliens](https://open.spotify.com/album/5m60bag09WvO4KA2skUXV6) | 3:05 | 2021-12-31 | 2023-07-19 |
 | [Hope](https://open.spotify.com/track/4aHrl8py7CwMO4rJJ6KzXN) | [Caesaria](https://open.spotify.com/artist/3GWHmhaBl7Lx4hygni7di3), [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [Hope](https://open.spotify.com/album/2eJyTdACTIslhQB92NZzWt) | 3:01 | 2023-05-11 | 2023-07-08 |
 | [Hope](https://open.spotify.com/track/6GpL98Krq2to6uvzaUGmy1) | [Caesaria](https://open.spotify.com/artist/3GWHmhaBl7Lx4hygni7di3), [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [Afterparty \- All We Have Is Now](https://open.spotify.com/album/0ldHemZlZBRsIDJ1p6F6LU) | 3:01 | 2023-07-05 |  |
 | [HORIZON](https://open.spotify.com/track/6G6gPGeURYWsCsjiByoedl) | [The Inspector Cluzo](https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg) | [HORIZON](https://open.spotify.com/album/40qu8vLitjOTHYBKIWGpeU) | 3:48 | 2023-01-26 |  |
@@ -169,7 +170,7 @@
 | [Negativity](https://open.spotify.com/track/0hwG6egZXGibubr52Av5df) | [Yvet Garden](https://open.spotify.com/artist/7km2jyK5bwl0DwikA4Ndd7) | [Negativity](https://open.spotify.com/album/66f2nh2ampcaZgeN2Qqw5t) | 3:57 | 2023-06-29 |  |
 | [Neil Perry](https://open.spotify.com/track/4pdUfdZIwUVRFCl5k9Eiyl) | [Cheap Teen](https://open.spotify.com/artist/0X6Rbb4fyZbLfdz3oNhnOX) | [Neil Perry](https://open.spotify.com/album/6fXYtRQI3s2u6ne7q6jJTX) | 2:49 | 2022-06-30 | 2022-11-06 |
 | [Never Let You Go](https://open.spotify.com/track/0GK8EEqEtmkWk3l0oktBgH) | [The Bad News](https://open.spotify.com/artist/6kH8meMNRgXiIpF8vMqQkc) | [The Bad News](https://open.spotify.com/album/5LcGP2S4Of0XmCDtsQalCb) | 2:56 | 2021-12-31 | 2022-07-29 |
-| [Newspapers](https://open.spotify.com/track/0T6LqY3Cgi6xleNezgWgUE) | [A VOID](https://open.spotify.com/artist/3ha9mtXhb0Ia40lnrU2cOI) | [Newspapers](https://open.spotify.com/album/6f7SIfP6rVwLqEGQ3z1hBl) | 3:08 | 2022-04-17 | 2023-07-17 |
+| [Newspapers](https://open.spotify.com/track/0T6LqY3Cgi6xleNezgWgUE) | [A VOID](https://open.spotify.com/artist/3ha9mtXhb0Ia40lnrU2cOI) | [Newspapers](https://open.spotify.com/album/6f7SIfP6rVwLqEGQ3z1hBl) | 3:08 | 2022-04-17 |  |
 | [No Brain No Shame](https://open.spotify.com/track/634Xqm8fG8J1cGymJ51Khy) | [J.C\. Satàn](https://open.spotify.com/artist/3YdIpKk40myJ3aC29izFRW) | [Centaur Desire](https://open.spotify.com/album/0Fjb0kM75nMYhktmSTj4np) | 3:29 | 2021-12-15 | 2023-05-08 |
 | [No Love](https://open.spotify.com/track/19njmJxhmdDqtR7YiFbm9v) | [Greyfell](https://open.spotify.com/artist/5spUgqt548nWET38ueJ7Kq) | [Horsepower](https://open.spotify.com/album/521jPvDr9aRITcZICFdTmc) | 6:12 | 2022-01-03 | 2022-07-27 |
 | [No Matter What](https://open.spotify.com/track/0XBjcu4H7ZHD7nZykpX2cN) | [Movement At Night](https://open.spotify.com/artist/3npdUd8ZD22EJkpwOG47fE) | [No Matter What](https://open.spotify.com/album/6YqquSBeAfT3M0znCqQnr5) | 4:20 | 2021-12-31 | 2022-07-22 |

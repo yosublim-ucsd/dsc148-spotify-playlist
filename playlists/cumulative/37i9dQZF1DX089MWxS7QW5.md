@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The hottest K\-R&B is here\. \(Cover: Choi HEART\(최하트\)\)
 
-213 songs - 12 hr 6 min
+214 songs - 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -216,6 +216,7 @@
 | [Yooou \(Feat\. BIG Naughty\)](https://open.spotify.com/track/2iQ77ftQFhdxyBt1DET8Xf) | [PARK HYEON JIN](https://open.spotify.com/artist/3xaGsC8Wew467UpEKhjXNZ), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Yooou \(Feat\. BIG Naughty\)](https://open.spotify.com/album/6MLmMlHFNJp5GqZuI7Fwga) | 4:04 | 2023-04-28 |  |
 | [YOU AND I](https://open.spotify.com/track/0t1MauhY0fE0dV1M7V9tnd) | [GRAM](https://open.spotify.com/artist/2qKhaMe5cOdQinPWBXyCHF) | [LOVE](https://open.spotify.com/album/7f3n6Mk3cgGHLtKbveKgE8) | 3:46 | 2023-01-13 | 2023-07-08 |
 | [You Are The Sea](https://open.spotify.com/track/6lTD3lLyCXNojKvse242Fb) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [The Bridge](https://open.spotify.com/album/0CGBkyLZW3izWrGZDcMz7u) | 3:35 | 2023-05-05 |  |
+| [YOUR TIME](https://open.spotify.com/track/4dSp0RtgeLkoZpjgN8f9Lb) | [PEAK TIME TOP6](https://open.spotify.com/artist/3VTia3pbTP2XEaOWJRQtoY) | [YOUR TIME](https://open.spotify.com/album/6vkd9JWoW9yyyewCfs8dBY) | 4:09 | 2023-07-18 |  |
 | [Zero gravity \(feat\. Blueday\)](https://open.spotify.com/track/4CHZmHfpzinqUwWiSYWPn7) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [Blueday](https://open.spotify.com/artist/0eJldGKbkQF8duavnqq9hx) | [Zero gravity](https://open.spotify.com/album/1EyyquQhOTZzRuuwcN1VCF) | 3:16 | 2022-10-04 | 2023-03-28 |
 | [겨울길 \(feat\. 영준\)](https://open.spotify.com/track/7s9ueFmPRPZvu2WnKJPeI9) | [Ray Hill](https://open.spotify.com/artist/37Ez82I2tYUegLiKXfOkUw), [Young Jun](https://open.spotify.com/artist/7n7p8oXuygFVSkrCO9FvAt) | [나의 겨울](https://open.spotify.com/album/7m8rPBnClStMMpVT7BXt9y) | 3:59 | 2022-12-15 | 2023-07-08 |
 | [상자 Box](https://open.spotify.com/track/5G9tvHT1pkXLuBoSkBWZkm) | [leanon](https://open.spotify.com/artist/3gvoNqJHWxCZfZALAQt4WQ) | [상자 Box](https://open.spotify.com/album/0omnobec3mXOettF99CQTu) | 3:03 | 2023-01-10 | 2023-07-08 |

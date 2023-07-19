@@ -1,12 +1,12 @@
 {
   "description": "Breathe deep, and relax with the softer side of Christian music.",
-  "num_followers": 316355,
+  "num_followers": 316539,
   "original_name": "Calming Christian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZGI2NWZkYzQxZmEzMTIyNjhjNTg4ZjlkZjI2MTVkOWU1ZDk4ZGYy",
+  "snapshot_id": "MCxkMjI0MWQ0NGE0MjMyMTQ0NTNmMzg5OTUyYzUzMTA2Y2FjMzBiZDI5",
   "tracks": [
     {
       "added_at": "2023-02-07 17:43:02",
@@ -215,22 +215,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Same God",
-        "url": "https://open.spotify.com/album/294x9L2GHOfyL9k0Ufo1qh"
-      },
-      "artists": [
-        {
-          "name": "Hannah Kerr",
-          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
-        }
-      ],
-      "duration_ms": 229480,
-      "name": "Same God",
-      "url": "https://open.spotify.com/track/3kHh1th3S2di1tg5XoZTzU"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Wake Up",
         "url": "https://open.spotify.com/album/3OMCDx9TtoSUZTYwQ6MxBe"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 237179,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/2K3XPhPtmPjlpjSdIXM5Gs"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Same God",
+        "url": "https://open.spotify.com/album/294x9L2GHOfyL9k0Ufo1qh"
+      },
+      "artists": [
+        {
+          "name": "Hannah Kerr",
+          "url": "https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq"
+        }
+      ],
+      "duration_ms": 229480,
+      "name": "Same God",
+      "url": "https://open.spotify.com/track/3kHh1th3S2di1tg5XoZTzU"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -643,22 +643,18 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/2wka6tv9YcVMl9MCHhmFii"
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/5DhIZm5AX92oYAFlZzj05T"
       },
       "artists": [
         {
-          "name": "Jeremiah Paltan",
-          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
-        },
-        {
-          "name": "Faith Lofi",
-          "url": "https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463"
+          "name": "John Mark Pantana",
+          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
         }
       ],
-      "duration_ms": 219272,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/2AmHhr6CvjpvYqdXy02VgU"
+      "duration_ms": 170119,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/1U9teJ7N3lMrDzued877qU"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -695,18 +691,22 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/5DhIZm5AX92oYAFlZzj05T"
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/2wka6tv9YcVMl9MCHhmFii"
       },
       "artists": [
         {
-          "name": "John Mark Pantana",
-          "url": "https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG"
+          "name": "Jeremiah Paltan",
+          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
+        },
+        {
+          "name": "Faith Lofi",
+          "url": "https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463"
         }
       ],
-      "duration_ms": 170119,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/1U9teJ7N3lMrDzued877qU"
+      "duration_ms": 219272,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/2AmHhr6CvjpvYqdXy02VgU"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Psalm 42 (Loudest Praise)",
-        "url": "https://open.spotify.com/album/7lRjBY8NzfbMvNYijKMVgB"
-      },
-      "artists": [
-        {
-          "name": "Shane & Shane",
-          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
-        }
-      ],
-      "duration_ms": 355820,
-      "name": "Psalm 42 (Loudest Praise)",
-      "url": "https://open.spotify.com/track/6x8yjJaCVAzjoSCD3MEOaJ"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Graves Into Gardens (Acoustic)",
         "url": "https://open.spotify.com/album/2lgBs5Jkwh9k8LvRxCaNmF"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 278035,
       "name": "Graves Into Gardens - Acoustic",
       "url": "https://open.spotify.com/track/0yMTBqAAAtjNtCkphns47E"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Psalm 42 (Loudest Praise)",
+        "url": "https://open.spotify.com/album/7lRjBY8NzfbMvNYijKMVgB"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "duration_ms": 355820,
+      "name": "Psalm 42 (Loudest Praise)",
+      "url": "https://open.spotify.com/track/6x8yjJaCVAzjoSCD3MEOaJ"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -967,26 +967,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Be My Shalom",
-        "url": "https://open.spotify.com/album/5Q3pr1K8HU2taEjuQavQac"
-      },
-      "artists": [
-        {
-          "name": "Evan Craft",
-          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
-        },
-        {
-          "name": "Meredith Andrews",
-          "url": "https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY"
-        }
-      ],
-      "duration_ms": 187943,
-      "name": "Be My Shalom",
-      "url": "https://open.spotify.com/track/6eGFb1mib8IH3F6QGirRIG"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Now More Than Ever",
         "url": "https://open.spotify.com/album/6enJJMJXMoy92TQZvM8Bxf"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 280413,
       "name": "Take This",
       "url": "https://open.spotify.com/track/6B7rm411U4hSvIwRFSXwvq"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Be My Shalom",
+        "url": "https://open.spotify.com/album/5Q3pr1K8HU2taEjuQavQac"
+      },
+      "artists": [
+        {
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        },
+        {
+          "name": "Meredith Andrews",
+          "url": "https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY"
+        }
+      ],
+      "duration_ms": 187943,
+      "name": "Be My Shalom",
+      "url": "https://open.spotify.com/track/6eGFb1mib8IH3F6QGirRIG"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
+        "name": "Quiet Talk",
+        "url": "https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW"
+      },
+      "artists": [
+        {
+          "name": "Jillian Edwards",
+          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Quiet Talk",
+      "url": "https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
         "name": "Omnipotent Yet Intimate",
         "url": "https://open.spotify.com/album/4qUDEpOHh14cpHgKrFLabN"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 279107,
       "name": "Omnipotent Yet Intimate",
       "url": "https://open.spotify.com/track/6gveqMRdyw6wxWgmSKW4vT"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
-        "name": "Quiet Talk",
-        "url": "https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW"
-      },
-      "artists": [
-        {
-          "name": "Jillian Edwards",
-          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Quiet Talk",
-      "url": "https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg"
     },
     {
       "added_at": "2023-02-07 17:43:02",

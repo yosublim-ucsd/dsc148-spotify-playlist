@@ -443,6 +443,40 @@
     },
     {
       "album": {
+        "name": "Falling Down",
+        "url": "https://open.spotify.com/album/41ZBuhcLt5p5bnp2vcDwPZ"
+      },
+      "artists": [
+        {
+          "name": "Ayparia",
+          "url": "https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r"
+        },
+        {
+          "name": "Percy",
+          "url": "https://open.spotify.com/artist/5KJD39tFeCCTo3bXyQSnSb"
+        },
+        {
+          "name": "unxbected",
+          "url": "https://open.spotify.com/artist/5Jv8vC2RoInNR3CsxANXhS"
+        },
+        {
+          "name": "Chappo",
+          "url": "https://open.spotify.com/artist/3G7pRLSS9s5h09hdaluISz"
+        },
+        {
+          "name": "Liodr\u00e9",
+          "url": "https://open.spotify.com/artist/1iFnL18VjckiZ512wVFapI"
+        }
+      ],
+      "date_added": "2023-03-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96107,
+      "name": "Falling Down",
+      "url": "https://open.spotify.com/track/2tIo8XVR4pfI3EYzi1kTWT"
+    },
+    {
+      "album": {
         "name": "Esuna",
         "url": "https://open.spotify.com/album/1QcMDjbzVWyju8NQaptAll"
       },
@@ -472,7 +506,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 96053,
       "name": "falling down",
       "url": "https://open.spotify.com/track/39BjmE63Oum0jR2QpHYSJv"

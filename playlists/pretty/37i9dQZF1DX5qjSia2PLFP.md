@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 
 > New music breaking waves\.  Cover:  <a href="https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA?si=b865adea41ab4b5d">July 7</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,900 likes - 100 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,894 likes - 100 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5qjSia2PLFP.md) - [plain]
 | 93 | [Hand Her The Gun](https://open.spotify.com/track/2m7vIOdJPH5eqDKYJmuJpN) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4), [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby), [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35) | [The Revive \(The Ascension 2 Prelude\)](https://open.spotify.com/album/6ClVoXk3JiQ8r6csDtxiXz) | 2:38 |
 | 94 | [I Ain't Going Lie](https://open.spotify.com/track/42DXWvSX2Sr2rY1Dg4JcEQ) | [MoneyMarr](https://open.spotify.com/artist/7Hol8IRGqnkUgWM21PHDhN) | [I Ain't Going Lie](https://open.spotify.com/album/3VT1FKvrbCv2FHIu5SdTCs) | 2:13 |
 | 95 | [Haku](https://open.spotify.com/track/1USaSmbCC4U80jbN7ZrqeN) | [Auxxk](https://open.spotify.com/artist/2SVrysB8sFET2DutqpqCj5) | [Auxxk Airdrop v4](https://open.spotify.com/album/0FJWZQQ2ozu62YkflVUjWj) | 2:32 |
-| 96 | [One Track Minded](https://open.spotify.com/track/7IA8ksXrY276otudaP7knL) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35), [Kelz](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [One Track Minded](https://open.spotify.com/album/0JOrjRfvBbK6ybLhbea7zr) | 2:19 |
+| 96 | [One Track Minded](https://open.spotify.com/track/7IA8ksXrY276otudaP7knL) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35), [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [One Track Minded](https://open.spotify.com/album/0JOrjRfvBbK6ybLhbea7zr) | 2:19 |
 | 97 | [CASINO](https://open.spotify.com/track/1YdKiPqNZCZ2bgwy1kPKvo) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [BOY ANONYMOUS](https://open.spotify.com/album/3ErmhbEFnhCLRqKibj245w) | 2:21 |
 | 98 | [I CAN'T STAND Y'ALL](https://open.spotify.com/track/1Y2qbVBSXXFKmlLtANA3FG) | [NASCAR P 13k](https://open.spotify.com/artist/06tQPaqB8PniGzJoXlby0R) | [I CAN'T STAND Y'ALL](https://open.spotify.com/album/3boh4YIOlTWCWy1rDSirSt) | 2:00 |
 | 99 | [Ain't On None \(feat\. 21 Savage\)](https://open.spotify.com/track/6tdIXKADoiJMTG5buEqxp3) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [After The Curse](https://open.spotify.com/album/4CRTKSVnGwpFAaSX2Ycinl) | 2:50 |
 | 100 | [Pelicans](https://open.spotify.com/track/1N4BtJIjNoaEtoBMjgri7j) | [ALLBLACK](https://open.spotify.com/artist/1cutd8e41XvxXnFPOFIxMD), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Pelicans](https://open.spotify.com/album/70ORb8kKxoDAXwdSADTVII) | 3:50 |
 
-Snapshot ID: `MCwxYjJiMjU2ZDRiMDQ2YTNiMjg1MzZkMmNkYTA4OTE4YTU1OTU5OGQ1`
+Snapshot ID: `MCw4M2U1OTViNDlmYTFlOGUyMDBhYmQxZTQ5MzRlNDY0NzMyOWQ2YjA5`

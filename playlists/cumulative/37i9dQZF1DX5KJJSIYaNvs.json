@@ -3577,6 +3577,24 @@
     },
     {
       "album": {
+        "name": "Rasiya",
+        "url": "https://open.spotify.com/album/7a5jf2Rhak081lCBY0dPD9"
+      },
+      "artists": [
+        {
+          "name": "Srushti Tawade",
+          "url": "https://open.spotify.com/artist/1fhSwtJ9X5HrqaK9vfCV2M"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134600,
+      "name": "Rasiya",
+      "url": "https://open.spotify.com/track/7cjgBIq8uvAz9uKv27mMCQ"
+    },
+    {
+      "album": {
         "name": "Rasiya (From \"Brahmastra\")",
         "url": "https://open.spotify.com/album/5pjSP9gi3qIDK9NvI0uY88"
       },

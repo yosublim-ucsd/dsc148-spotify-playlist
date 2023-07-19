@@ -4,7 +4,7 @@
 
 > All the best new songs from the pop punk scene\. Cover: KennyHoopla
 
-313 songs - 15 hr 20 min
+314 songs - 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [cages](https://open.spotify.com/track/6zmpq82Tlev82M7BIl5V8b) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [SUCKERPUNCH](https://open.spotify.com/album/0EIqEFEc82T70pVTKh7w1k) | 2:31 | 2022-09-15 |  |
 | [Call Me Never](https://open.spotify.com/track/4No3g1xYAXAyxYU4LQLZEq) | [Hoodie Allen](https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl) | [Call Me Never](https://open.spotify.com/album/0BfKHzKddDMfm0G3Ou3qUS) | 3:02 | 2022-07-18 | 2023-07-07 |
 | [Careless Kind](https://open.spotify.com/track/3h8L8qrK6GzE5JoHjOU9Oz) | [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo) | [is this what i look like?](https://open.spotify.com/album/4u11pDt06OqbpvUoauvrSH) | 2:34 | 2022-07-18 | 2023-07-07 |
-| [Carousel](https://open.spotify.com/track/3ye4K0Wa24jqnSCPDY1OzT) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Carousel](https://open.spotify.com/album/5elvn4fS1S65dAaMSR3V9o) | 3:05 | 2023-01-13 |  |
+| [Carousel](https://open.spotify.com/track/3ye4K0Wa24jqnSCPDY1OzT) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Carousel](https://open.spotify.com/album/5elvn4fS1S65dAaMSR3V9o) | 3:05 | 2023-01-13 | 2023-07-19 |
 | [Catching Fire \(feat\. nothing,nowhere.\)](https://open.spotify.com/track/0M0iDfjwyJwRWBS1Wpocd5) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Catching Fire \(feat\. nothing,nowhere.\)](https://open.spotify.com/album/5ezmrxI0U874BTigubbQWb) | 4:01 | 2021-12-20 | 2022-04-05 |
 | [Cavalier](https://open.spotify.com/track/4N9LPYE07fGLDK2EfCpVpn) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [Cavalier](https://open.spotify.com/album/4MAxgehGTojMbNagyFBIpL) | 2:55 | 2022-10-13 | 2023-05-16 |
 | [cherry cigarettes](https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [cherry cigarettes](https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti) | 2:18 | 2023-01-20 |  |
@@ -235,6 +235,7 @@
 | [Remedy for Reality](https://open.spotify.com/track/6VL1ikOTJscKBHRgV686ug) | [Real Friends](https://open.spotify.com/artist/6dEtLwgmSI0hmfwTSjy8cw) | [Torn in Two](https://open.spotify.com/album/7FD1Yk6byTdKJQh0fXX6nN) | 2:44 | 2021-12-20 | 2022-09-10 |
 | [Rescue Me](https://open.spotify.com/track/77ZScCO741T2SAvsXcwga2) | [Nothing Serious](https://open.spotify.com/artist/1rOAHaTjrL6vMCxnq7k6FO), [Sundown Superhero](https://open.spotify.com/artist/3gZyCE7ifVFcvZ12TEKvsA) | [Rescue Me](https://open.spotify.com/album/777RRe1mp4kKhUCdZWodL3) | 2:17 | 2021-12-20 | 2022-01-15 |
 | [Right Now \(feat\. Travis Barker\)](https://open.spotify.com/track/1GlaDUecMXdHig5D1tgY8p) | [Jasiah](https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [Right Now \(feat\. Travis Barker\)](https://open.spotify.com/album/2d28oUb7mIuWnjuZk7TSE2) | 2:33 | 2021-12-20 | 2022-09-10 |
+| [ROUGAROU \(i've become the monster\)](https://open.spotify.com/track/1GAXnQAb4GsTLBwszE0he4) | [DUCKBOY](https://open.spotify.com/artist/7LcRxOTDhbQ19ulgIVOWpu) | [tragic love songs to study to \(vol\. 5\)](https://open.spotify.com/album/5t1WhjJFLi5avb8t68AHCf) | 3:22 | 2023-07-18 |  |
 | [Ruin My Life \(feat\. Deryck Whibley\)](https://open.spotify.com/track/0HBJYdY4dsF6vd7xqLLWxH) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ), [Deryck Whibley](https://open.spotify.com/artist/4qJK4cVUMM04auRU8oa4bf) | [Ruin My Life \(feat\. Deryck Whibley\)](https://open.spotify.com/album/0ff0J1jhzWqDJDv5Cv03Dp) | 3:19 | 2022-02-21 | 2022-07-29 |
 | [Ruin My Life \(feat\. Deryck Whibley\)](https://open.spotify.com/track/0g4Nl4tH0jef0wApjV5sfH) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ), [Deryck Whibley](https://open.spotify.com/artist/4qJK4cVUMM04auRU8oa4bf) | [Harder Than It Looks](https://open.spotify.com/album/0NgcYDpxXtgTADvZdVTLtP) | 3:19 | 2022-07-18 | 2023-07-07 |
 | [SABOTAGE//](https://open.spotify.com/track/4Wkk6Soil0Oq5HZkbx73rd) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [SABOTAGE//](https://open.spotify.com/album/6jcWmC5b2IRM8RL04bGe4e) | 3:20 | 2023-06-20 | 2023-07-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: Friday\*\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,627 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,653 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 81 | [G\-SHOCK](https://open.spotify.com/track/5oWNnvoFLH5dRu56carDpq) | [Shady Nasty](https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx) | [G\-SHOCK](https://open.spotify.com/album/1GonweWEWhZjMxdxI7db3A) | 2:11 |
 | 82 | [The Colour Blue](https://open.spotify.com/track/0YNAMN8I2wgoanEeCykWWz) | [Mim Jensen](https://open.spotify.com/artist/7L4lg0Xa7QyV1isN000LEg) | [The Colour Blue](https://open.spotify.com/album/4dETXX23X6A2glKdZOmwjB) | 5:10 |
 | 83 | [Ant Song](https://open.spotify.com/track/14pKJylfHHYfuQAsNjPHrs) | [aleksiah](https://open.spotify.com/artist/2zQnvTW2xp6dVyK6qFqht9) | [Ant Song](https://open.spotify.com/album/0jvkMCzeX2unbAw7YoXzXC) | 3:01 |
-| 84 | [WHANTS](https://open.spotify.com/track/6llOcEpxJIyiPBD0ymZVgN) | [J.B.T](https://open.spotify.com/artist/5gKnvVFJ2mabvIcKNFiT8e) | [Burn SZN II: Higher Learrning](https://open.spotify.com/album/6XN9d358SzEVdnjuuWRpo5) | 2:19 |
+| 84 | [WHANTS](https://open.spotify.com/track/6llOcEpxJIyiPBD0ymZVgN) | [J.B.T](https://open.spotify.com/artist/5gKnvVFJ2mabvIcKNFiT8e) | [Burn SZN II: Higher Learning](https://open.spotify.com/album/6XN9d358SzEVdnjuuWRpo5) | 2:19 |
 | 85 | [The World Is Here For You](https://open.spotify.com/track/26KHeStct1X9bFpWSCOhjb) | [Immy Owusu](https://open.spotify.com/artist/5gmKrR6QTu7AfVN7u1uPwO) | [The World Is Here For You](https://open.spotify.com/album/5aDnjZgPThp7hgOXVAaGeI) | 5:30 |
 | 86 | [DNTBSHY](https://open.spotify.com/track/0UjwkABFxrQ1pZZG1RK7P5) | [Kid Heron](https://open.spotify.com/artist/2ugYHO95XGp2W7LW3DvmDx), [Squidgenini](https://open.spotify.com/artist/0XLJ5ey68Qg726cnVNOc2r) | [DNTBSHY](https://open.spotify.com/album/3COVHstBkQqdusjTfYhsc4) | 4:32 |
 | 87 | [Dizzee](https://open.spotify.com/track/6GY4aSoW8OiAseARRhI4UK) | [JDG](https://open.spotify.com/artist/7oqJesfsNfHYYN6bEKR6UP) | [Dizzee](https://open.spotify.com/album/0jtXQWRDZpR5Z7HxHl85Gk) | 2:43 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 99 | [Pulse](https://open.spotify.com/track/6LLvkAyDL6Yv6gHI8SF7Bw) | [HANDSOME](https://open.spotify.com/artist/57pf34Iuz55tqsKYxa3BOf), [St\. South](https://open.spotify.com/artist/1n3X60xWCyL1zytSiKeu4D) | [Pulse](https://open.spotify.com/album/7GCTjtsPVA8BSaFsUycCjf) | 4:55 |
 | 100 | [Way2On](https://open.spotify.com/track/0aKdbwU0YE4q8P25kITiG6) | [Rei](https://open.spotify.com/artist/09eBKIxIhMym3kxJyDnVXh) | [Way2On](https://open.spotify.com/album/5jQsohFIoNwCFjGfyMtrke) | 2:54 |
 
-Snapshot ID: `MCxiMDEzZDNjMzk0ZmQ4M2U0MzZkZmNhZTcwYzk3MDZkYjZlYjI5ZTU3`
+Snapshot ID: `MCxlYWVjNmU3NjQ0OThmMmQwNzY4OGNkYmZhOTJlMTVlMjUzODczMjJl`

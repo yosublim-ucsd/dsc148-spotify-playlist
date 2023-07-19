@@ -1,12 +1,12 @@
 {
   "description": "A mix of electric roots rock and folk-infused alternative. Cover: Nathaniel Rateliff & the Night Sweats",
-  "num_followers": 492247,
+  "num_followers": 492283,
   "original_name": "Folk Rock Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YmNmMTkxMTI5YTdlNjg3ZDlkYmZhNDI4MTc5MGFlNTg4YWNmYjI5",
+  "snapshot_id": "MCwxMDUzNDBiMzZkZjY1ZGQyMGQ2ZTA1MTk4NWNmZmM3YTM3NjMwM2M2",
   "tracks": [
     {
       "added_at": "2023-06-23 04:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "I Don\u2019t Live Here Anymore",
-        "url": "https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB"
-      },
-      "artists": [
-        {
-          "name": "The War On Drugs",
-          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
-        }
-      ],
-      "duration_ms": 293866,
-      "name": "Living Proof",
-      "url": "https://open.spotify.com/track/4VhvGhj8pdAqFJBuAfUW38"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Joy'All",
         "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 191280,
       "name": "Puppy and a Truck",
       "url": "https://open.spotify.com/track/3fBnNVgVVGDWWvVMCH6f0z"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "I Don\u2019t Live Here Anymore",
+        "url": "https://open.spotify.com/album/69jQsPvJzMvcb2fGqI2qaB"
+      },
+      "artists": [
+        {
+          "name": "The War On Drugs",
+          "url": "https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU"
+        }
+      ],
+      "duration_ms": 293866,
+      "name": "Living Proof",
+      "url": "https://open.spotify.com/track/4VhvGhj8pdAqFJBuAfUW38"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "My Entire Life",
-        "url": "https://open.spotify.com/album/5iKXNvSOGKgbaaGkiPNl2e"
-      },
-      "artists": [
-        {
-          "name": "Susto",
-          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
-        }
-      ],
-      "duration_ms": 166080,
-      "name": "My Entire Life",
-      "url": "https://open.spotify.com/track/5xfU0gNPSUqHkD6LkrHpAH"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Imaginary Man",
         "url": "https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 223440,
       "name": "Mr. Rodriguez",
       "url": "https://open.spotify.com/track/5aXYNj2v1ut661U0HLT6fP"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "My Entire Life",
+        "url": "https://open.spotify.com/album/5iKXNvSOGKgbaaGkiPNl2e"
+      },
+      "artists": [
+        {
+          "name": "Susto",
+          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
+        }
+      ],
+      "duration_ms": 166080,
+      "name": "My Entire Life",
+      "url": "https://open.spotify.com/track/5xfU0gNPSUqHkD6LkrHpAH"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Inwards & Onwards",
-        "url": "https://open.spotify.com/album/0VEMheeFHsdgqFY9sFqvYO"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 138939,
-      "name": "How Come My Body",
-      "url": "https://open.spotify.com/track/0x7OMTKyisoB40neHlnJ8H"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Happy Birthday, Ratboy",
         "url": "https://open.spotify.com/album/2MJKg2QIVQtkOSUAme4hjO"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 169066,
       "name": "Go Outside",
       "url": "https://open.spotify.com/track/2OnKQdktx8Ri0Fhto8lYTk"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Inwards & Onwards",
+        "url": "https://open.spotify.com/album/0VEMheeFHsdgqFY9sFqvYO"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 138939,
+      "name": "How Come My Body",
+      "url": "https://open.spotify.com/track/0x7OMTKyisoB40neHlnJ8H"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Good For You",
-        "url": "https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m"
-      },
-      "artists": [
-        {
-          "name": "Houndmouth",
-          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
-        }
-      ],
-      "duration_ms": 222680,
-      "name": "Las Vegas",
-      "url": "https://open.spotify.com/track/6dnrxlk3s3we2lqMvckukJ"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "From Dreams to Dust",
         "url": "https://open.spotify.com/album/4Dv3k5qKbTAOM777tJKo1s"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 272346,
       "name": "Jazz on the Autobahn",
       "url": "https://open.spotify.com/track/5IObx9f9zVxTGfzyRQWYSe"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Good For You",
+        "url": "https://open.spotify.com/album/7pDkPWgwrc2weqXdL0ID6m"
+      },
+      "artists": [
+        {
+          "name": "Houndmouth",
+          "url": "https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5"
+        }
+      ],
+      "duration_ms": 222680,
+      "name": "Las Vegas",
+      "url": "https://open.spotify.com/track/6dnrxlk3s3we2lqMvckukJ"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Get Down",
-        "url": "https://open.spotify.com/album/4li8nEW2egUoMBzWkKbHHQ"
+        "name": "Animals With Religion",
+        "url": "https://open.spotify.com/album/1tgxoOZbeY2AlmqFOmdImr"
       },
       "artists": [
         {
-          "name": "Susto",
-          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
+          "name": "Bee Caves",
+          "url": "https://open.spotify.com/artist/28rNZfNFHhZt6yYOmUzYVK"
         }
       ],
-      "duration_ms": 151515,
-      "name": "Get Down",
-      "url": "https://open.spotify.com/track/5NFHQLN5tdjkTdUBkNGDEo"
+      "duration_ms": 235264,
+      "name": "Running Home to You",
+      "url": "https://open.spotify.com/track/6SC9DUmZnaNyrmARkM0wu5"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Animals With Religion",
-        "url": "https://open.spotify.com/album/1tgxoOZbeY2AlmqFOmdImr"
+        "name": "Get Down",
+        "url": "https://open.spotify.com/album/4li8nEW2egUoMBzWkKbHHQ"
       },
       "artists": [
         {
-          "name": "Bee Caves",
-          "url": "https://open.spotify.com/artist/28rNZfNFHhZt6yYOmUzYVK"
+          "name": "Susto",
+          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
         }
       ],
-      "duration_ms": 235264,
-      "name": "Running Home to You",
-      "url": "https://open.spotify.com/track/6SC9DUmZnaNyrmARkM0wu5"
+      "duration_ms": 151515,
+      "name": "Get Down",
+      "url": "https://open.spotify.com/track/5NFHQLN5tdjkTdUBkNGDEo"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Absolute Zero",
-        "url": "https://open.spotify.com/album/1kqlpogKhHGn8zJTXUtZbW"
-      },
-      "artists": [
-        {
-          "name": "Little Green Cars",
-          "url": "https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy"
-        }
-      ],
-      "duration_ms": 291920,
-      "name": "The John Wayne",
-      "url": "https://open.spotify.com/track/08RiqittsiyAXB9VmrSErU"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "The Waves, The Wake",
         "url": "https://open.spotify.com/album/4Bj3F7hjjfJm5XW2LY1wXi"
       },
@@ -1383,18 +1367,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Cheers",
-        "url": "https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB"
+        "name": "Absolute Zero",
+        "url": "https://open.spotify.com/album/1kqlpogKhHGn8zJTXUtZbW"
       },
       "artists": [
         {
-          "name": "The Wild Reeds",
-          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
+          "name": "Little Green Cars",
+          "url": "https://open.spotify.com/artist/2Vz3AN2wY3xjS2jCaGMVsy"
         }
       ],
-      "duration_ms": 228707,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS"
+      "duration_ms": 291920,
+      "name": "The John Wayne",
+      "url": "https://open.spotify.com/track/08RiqittsiyAXB9VmrSErU"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1411,6 +1395,22 @@
       "duration_ms": 241866,
       "name": "Turn Your Love",
       "url": "https://open.spotify.com/track/2lCTLnaQOc73eG5UFls7QE"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Cheers",
+        "url": "https://open.spotify.com/album/449AwHLbBwEzRvAqIQr5mB"
+      },
+      "artists": [
+        {
+          "name": "The Wild Reeds",
+          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
+        }
+      ],
+      "duration_ms": 228707,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/7djjzziCovlTf0yXGIArWS"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Quietly Blowing It",
-        "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
-      },
-      "artists": [
-        {
-          "name": "Hiss Golden Messenger",
-          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
-        }
-      ],
-      "duration_ms": 197305,
-      "name": "Hardlytown",
-      "url": "https://open.spotify.com/track/346UuSw3CRabhoqCpnC1a6"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Neptune",
         "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 195213,
       "name": "River Wider",
       "url": "https://open.spotify.com/track/5ucRrHQrCGDeUdL5bKFWk1"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Quietly Blowing It",
+        "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
+      },
+      "artists": [
+        {
+          "name": "Hiss Golden Messenger",
+          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
+        }
+      ],
+      "duration_ms": 197305,
+      "name": "Hardlytown",
+      "url": "https://open.spotify.com/track/346UuSw3CRabhoqCpnC1a6"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Topaz",
-        "url": "https://open.spotify.com/album/0jvcLSp8mVWIEgcoTVqeM2"
-      },
-      "artists": [
-        {
-          "name": "Israel Nash",
-          "url": "https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7"
-        }
-      ],
-      "duration_ms": 214944,
-      "name": "Down in the Country",
-      "url": "https://open.spotify.com/track/53XNcCqYctEXLvT8XvumCC"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Why Are You OK",
         "url": "https://open.spotify.com/album/4xBayAng8qIv3227mj3xjN"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 253560,
       "name": "Whatever, Wherever",
       "url": "https://open.spotify.com/track/3IURvsSAiD5EmqZLjtyJsS"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Topaz",
+        "url": "https://open.spotify.com/album/0jvcLSp8mVWIEgcoTVqeM2"
+      },
+      "artists": [
+        {
+          "name": "Israel Nash",
+          "url": "https://open.spotify.com/artist/5skM4jc4QoEpHiWWl6OoW7"
+        }
+      ],
+      "duration_ms": 214944,
+      "name": "Down in the Country",
+      "url": "https://open.spotify.com/track/53XNcCqYctEXLvT8XvumCC"
     }
   ],
   "unique_name": "Folk Rock Favorites",

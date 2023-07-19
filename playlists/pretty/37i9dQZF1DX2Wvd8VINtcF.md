@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,872 likes - 99 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,887 likes - 99 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 29 | [Super 8](https://open.spotify.com/track/0PKtiwZX73i0TedkfDH7qs) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [Super 8](https://open.spotify.com/album/30wFpy1u4wjNpAxOcqD6Mq) | 2:58 |
 | 30 | [Vibrant](https://open.spotify.com/track/3Z8V7mdG2LQNNWnT8GQM6C) | [Valee](https://open.spotify.com/artist/4hRL2QmahOYxXNmNKtG1AI), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Vibrant](https://open.spotify.com/album/2CKPE9pWUWW4OeMFqDRUq1) | 2:03 |
 | 31 | [Stay \(Alive\)](https://open.spotify.com/track/1jsYWDXBIo1AobhSzJu9rG) | [boerd](https://open.spotify.com/artist/5E5cEevLYdQHU04gIkA3ff), [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Stay \(Alive\)](https://open.spotify.com/album/4ABgrSwqFC5lowwcUEj8pv) | 5:11 |
-| 32 | [Take A Chance](https://open.spotify.com/track/75Nq7k2qnyeOlXIOiJ56HN) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Greatest Tits](https://open.spotify.com/album/3NV7lasFnUDfE4ZMvYKwQx) | 4:24 |
+| 32 | [Take A Chance](https://open.spotify.com/track/6KJBwR1yrqviwL31XRpu3n) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Greatest Tits](https://open.spotify.com/album/3yZSOcz06tt6XFh5sWGnkI) | 4:24 |
 | 33 | [Spiral Dive](https://open.spotify.com/track/5q5ZZJ0hELI7caZwS7sj4n) | [Quartermaster](https://open.spotify.com/artist/1MUakDk1Xh3bfow45GJR1o), [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Crystal Heaven](https://open.spotify.com/album/7IlxNAL3tudrv4pbOY5OV6) | 2:48 |
 | 34 | [Gotta Go](https://open.spotify.com/track/2GVPTJkPnWhv9eLujeOiBv) | [Varas](https://open.spotify.com/artist/7cqV19335f0Yhf76d76D8I) | [Gotta Go](https://open.spotify.com/album/5lYfkbaTOoxTvyMi7qozJ7) | 3:17 |
 | 35 | [You're The One](https://open.spotify.com/track/7rjtSHViWOy8fiA6s8Oxkp) | [Say Lou Lou](https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj) | [You're The One](https://open.spotify.com/album/4yziUadPCx0ChZWQyXXAV0) | 3:55 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 98 | [6am \- DJ\_Dave Edit](https://open.spotify.com/track/1MeYPXGfxZLjX2ZApzaJMn) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [6am \(Remixes\)](https://open.spotify.com/album/6BC8XFfI3Kmm5mCiFvX1zR) | 2:47 |
 | 99 | [CONSTELLATIONS \(feat\. NAO\)](https://open.spotify.com/track/6B6FxQxSSVwvSgcNUe5QZQ) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [THE ONE AFTER ME](https://open.spotify.com/album/1CpAZ5SVa6llHILfePxjRq) | 2:52 |
 
-Snapshot ID: `MCxiMzNmMmE1NzY1Nzk3ZDJiNGM1NTc5YjU1YzAzZjVlNGRkNzVkZDRh`
+Snapshot ID: `MCxmNDI4ZTgwMWMwNzY4MGM5MTQ2ZTdmODI0OWFhMjRlMjAyYThiOTNk`

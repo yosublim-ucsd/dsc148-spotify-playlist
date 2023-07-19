@@ -956,7 +956,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 280808,
       "name": "Mi\u1ec1n Trung \u01a0i, \u0110au X\u00f3t N\u00e0o V\u01a1i",
       "url": "https://open.spotify.com/track/6DrxsO0iyuIa07P0m2UUTD"
@@ -974,7 +974,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 294224,
       "name": "Mi\u1ec1n T\u00e2y Qu\u00ea T\u00f4i",
       "url": "https://open.spotify.com/track/7pPsm5WzEYap5U9BgbWJGU"
@@ -1191,6 +1191,24 @@
     },
     {
       "album": {
+        "name": "N\u00edu D\u1ea3i L\u1ee5a \u0110\u00e0o",
+        "url": "https://open.spotify.com/album/53AirYx8RCAvBBGhB74AGr"
+      },
+      "artists": [
+        {
+          "name": "T\u00e2n Nh\u00e0n",
+          "url": "https://open.spotify.com/artist/7iNm30XThXWgpRFoqFKHal"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328385,
+      "name": "Ng\u1ed3i T\u1ef1a Song \u0110\u00e0o",
+      "url": "https://open.spotify.com/track/3Byc00SnrpBp7daqXivXyw"
+    },
+    {
+      "album": {
         "name": "H\u1eb9n M\u1ed9t M\u00f9a Xu\u00e2n",
         "url": "https://open.spotify.com/album/3l5r6RHKTImEGEkmSSwLdQ"
       },
@@ -1224,6 +1242,24 @@
       "duration_ms": 247626,
       "name": "Ng\u1ee3i Ca Qu\u00ea H\u01b0\u01a1ng",
       "url": "https://open.spotify.com/track/5Z9tpCdp7AhRGTvwFHoZGg"
+    },
+    {
+      "album": {
+        "name": "Nh\u1edb Qu\u00ea",
+        "url": "https://open.spotify.com/album/2ItU4rDAiq5vrm1YGpZpkv"
+      },
+      "artists": [
+        {
+          "name": "T\u1eeb Nh\u01b0 T\u00e0i",
+          "url": "https://open.spotify.com/artist/4FIoUZ4oxNciUpioxvVRom"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287245,
+      "name": "Nh\u1edb Qu\u00ea",
+      "url": "https://open.spotify.com/track/0z5riOGlFSp6umUxbsH63I"
     },
     {
       "album": {
@@ -1456,7 +1492,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 375000,
       "name": "Ru T\u00ecnh M\u1ed9t Mi\u1ec1n Qu\u00ea",
       "url": "https://open.spotify.com/track/2thB18vvCvv9ZuTB54ulOc"
@@ -2070,6 +2106,24 @@
       "duration_ms": 196759,
       "name": "\u0102n T\u1ebft L\u1edbn Nha",
       "url": "https://open.spotify.com/track/2brbcKwOMh6aW0OIQKALnQ"
+    },
+    {
+      "album": {
+        "name": "Say C\u00f9ng Lan T\u00edm",
+        "url": "https://open.spotify.com/album/0FwkrJwKDOh5anXfqEy1PT"
+      },
+      "artists": [
+        {
+          "name": "Ng\u1ecdc Li\u00ean",
+          "url": "https://open.spotify.com/artist/7DJMiXpr6bRhOvkvMO479r"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284700,
+      "name": "\u0110i Trong H\u01b0\u01a1ng Tr\u00e0m",
+      "url": "https://open.spotify.com/track/7kSQKyDhD70OQ2QC3725sR"
     },
     {
       "album": {

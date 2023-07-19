@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: Franglish
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,930 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,965 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [Yessika](https://open.spotify.com/track/1oNAj4KjfCqqGppXhPbtYv) | [Kay Slice](https://open.spotify.com/artist/1mPNT5YwLcCKfjdTwOfSC8) | [Yessika](https://open.spotify.com/album/72gi5YK4kSOg5j7lYWHbwx) | 3:45 |
 | 50 | [My Baby](https://open.spotify.com/track/4QI32cLrF64ZTPfIHwIH5w) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [My Baby](https://open.spotify.com/album/19gij56nUFKFWEffBT4hy2) | 3:10 |
 
-Snapshot ID: `MCw2YTJkZWZkMTI3M2ZiZDE5YWNmNTA1YTQ4NTk4MjZjMjNkN2FjMDZl`
+Snapshot ID: `MCwyZjdiZTEyOGM1MTEwYzM2MDllOWRmMmFjYTNkNjNlMmFjODhiNDM1`

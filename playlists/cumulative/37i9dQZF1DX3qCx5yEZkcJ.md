@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-480 songs - 19 hr 39 min
+481 songs - 19 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,7 @@
 | [Fanatic \- Instrumental](https://open.spotify.com/track/2616QFNwHldTARXR2PHS7k) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [Life After Dennison \(Instrumentals\)](https://open.spotify.com/album/6Adv0cRSeQrUWUYACknTpS) | 3:30 | 2020-01-14 | 2022-10-15 |
 | [Fanatic \- Instrumental](https://open.spotify.com/track/6WMHFhxkozjDKYX9ILRiB0) | [Funky DL](https://open.spotify.com/artist/3V35H6xv4eium9zl8CQeG5) | [Life After Dennison \(Instrumentals\)](https://open.spotify.com/album/7yyrASe6ss185AT0ucT35n) | 3:30 | 2022-11-17 | 2023-01-24 |
 | [Far Away](https://open.spotify.com/track/1bW8IKNqSmC4RHihpGaYoc) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE), [dcxv](https://open.spotify.com/artist/0joMqsMoTtZ8blx2CHKMj1) | [Far Away](https://open.spotify.com/album/1SUebSHdAuvfEHSPu9BScz) | 3:28 | 2019-05-26\* |  |
-| [Far Out](https://open.spotify.com/track/2crQWI8jYzwflThvDAcKyj) | [Joe Nora](https://open.spotify.com/artist/2ShIqcIbteAk5jwdZzF2NZ), [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Far Out](https://open.spotify.com/album/3vbGdnRuTBfaVyqOZdx0Ux) | 2:33 | 2021-10-10 |  |
+| [Far Out](https://open.spotify.com/track/2crQWI8jYzwflThvDAcKyj) | [Joe Nora](https://open.spotify.com/artist/2ShIqcIbteAk5jwdZzF2NZ), [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Far Out](https://open.spotify.com/album/3vbGdnRuTBfaVyqOZdx0Ux) | 2:33 | 2021-10-10 | 2023-07-19 |
 | [Favorite Sause](https://open.spotify.com/track/2uUNTBmq2VBW1UMJcAqOEn) | [DJ Garlik](https://open.spotify.com/artist/0N2on1pgu8mv01ch9Cs9XF), [Bertholet](https://open.spotify.com/artist/2igm2vmbeYibaElfyvj9XQ) | [Favorite Sause](https://open.spotify.com/album/5mdVpX2SpB24YHfRXhcm8G) | 1:48 | 2020-01-14 | 2021-10-28 |
 | [Feel the Blast](https://open.spotify.com/track/5zSAxoEErEWzQwwBi7z5sb) | [Herring Franky](https://open.spotify.com/artist/27jcQeXU6S0eCLVpnNZjy0) | [Dippin' in the Lab](https://open.spotify.com/album/6rZaUidBL0s3O7jotodjlt) | 1:23 | 2019-05-26\* | 2020-01-14 |
 | [Flor de Terciopelo](https://open.spotify.com/track/4Rl3L5PjoT813YQQW6w4J1) | [Ruth de las Plantas](https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP), [Daniel Ordóñez](https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Flor de Terciopelo](https://open.spotify.com/album/5MhACAv7eEF8vSZurky3t6) | 2:15 | 2021-10-31 | 2022-08-06 |
@@ -153,6 +153,7 @@
 | [Fogào Love](https://open.spotify.com/track/0sJ6oCjiYDCk0LH5ZpEQ4Y) | [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0), [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [Couch Business](https://open.spotify.com/album/6AR8RyloFDRFf30SCzPB3x) | 1:44 | 2022-12-01 |  |
 | [Fogào Love](https://open.spotify.com/track/6MchsyWFhj6EAiD1nY0y5J) | [FLKS](https://open.spotify.com/artist/0su9f9WdmaeYFON6XEaXb0), [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [Fogào Love](https://open.spotify.com/album/4Xjr5RmALk2CSpiXlY1gmi) | 1:44 | 2021-10-30 | 2022-11-27 |
 | [Fondue](https://open.spotify.com/track/7EExHTWWXsZxhugGaGGh1O) | [Dweeb](https://open.spotify.com/artist/1ziop6MvACsEsogEf7Qqd4) | [Untitled VIII](https://open.spotify.com/album/3IFbzO8kMa6Lmx3R8HGjFN) | 1:08 | 2019-05-26\* | 2020-03-27 |
+| [Forever](https://open.spotify.com/track/53cGF33DzLDkkEd3miPsXb) | [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O), [Ornithology](https://open.spotify.com/artist/1EpXwbpQDflfGg6juJz89j) | [Forever](https://open.spotify.com/album/1usxVaF7JxC8feu6ppND24) | 1:14 | 2023-07-13 |  |
 | [fortune cookie](https://open.spotify.com/track/5yVj39dpZ4jThGXf2mEhYI) | [B0nds](https://open.spotify.com/artist/7ocYXGSTBnpzj74JufFDWB) | [fortune cookie](https://open.spotify.com/album/4zTohprqCBPHuw04qvVNEs) | 1:47 | 2019-06-14 | 2021-10-12 |
 | [Fractals](https://open.spotify.com/track/4ijwRNrJHhEPt1CNIzNG5E) | [The Deli](https://open.spotify.com/artist/1EJzWKVDeysgbyuZGfEFde), [Lungfulls](https://open.spotify.com/artist/4abFxakbctOvcH4kwan0ET) | [Jazz Cat](https://open.spotify.com/album/4VWW7BeHlH0jlMPQFtNSsu) | 2:59 | 2019-05-26\* | 2022-04-21 |
 | [Freedom](https://open.spotify.com/track/67srAaUUWCfeCz4TFzmmC2) | [Allgood](https://open.spotify.com/artist/27axU7fE93Z7h8OhRFrD4r), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Freedom](https://open.spotify.com/album/66ncBKTGIriA52zkGJ3P7R) | 2:08 | 2022-05-26 |  |

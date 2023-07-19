@@ -6,8 +6,24 @@
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "MzcyMSxkYWMwMTE4NmY0YWRlZDMzYzYyMzA0ZTk3NWE1NDI0ZDY4OTA5MjNj",
+  "snapshot_id": "MzcyMiw2Mjk4NWI3NmE4OTg3ZWI4ZDRjNjdmMTg4ZWU2MzczOGQ4NDEwODli",
   "tracks": [
+    {
+      "added_at": "2023-07-18 16:43:26",
+      "album": {
+        "name": "Screaming In The Rain Again",
+        "url": "https://open.spotify.com/album/3jpkNQcDMg94XMxtj4Lk3m"
+      },
+      "artists": [
+        {
+          "name": "Sorry",
+          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
+        }
+      ],
+      "duration_ms": 187686,
+      "name": "Screaming In The Rain Again",
+      "url": "https://open.spotify.com/track/0jsh4swhkkj6L4MAnwGWqS"
+    },
     {
       "added_at": "2023-07-12 14:36:56",
       "album": {

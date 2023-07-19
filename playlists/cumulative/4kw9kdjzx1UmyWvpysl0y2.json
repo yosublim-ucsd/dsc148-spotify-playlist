@@ -4267,6 +4267,24 @@
     },
     {
       "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/0GDqyCePdn98PHuMoWCuMJ"
+      },
+      "artists": [
+        {
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172991,
+      "name": "High",
+      "url": "https://open.spotify.com/track/2Ej2CTyhrhOg0AXY1LkWNT"
+    },
+    {
+      "album": {
         "name": "Higher Ground (Part 2)",
         "url": "https://open.spotify.com/album/5qNseEHrO1JH7H8iDVm3J6"
       },

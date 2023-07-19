@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,155 songs - 2 day 5 hr 25 min
+1,156 songs - 2 day 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -451,6 +451,7 @@
 | [Run](https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Run](https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI) | 2:49 | 2021-05-09 | 2021-05-21 |
 | [Run BTS](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:24 | 2022-06-11 | 2022-06-18 |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-06-01 | 2022-08-30 |
+| [Rush](https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Rush](https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf) | 2:36 | 2023-07-18 |  |
 | [S\-Class](https://open.spotify.com/track/3gTQwwDNJ42CCLo3Sf4JDd) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) | 3:15 | 2023-06-03 | 2023-06-22 |
 | [S\-Class](https://open.spotify.com/track/6LuvVxHXQDtsPxtE07Ycbe) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/5ZO7GSyxmHa2qwET9zsEe4) | 3:15 | 2023-06-04 | 2023-06-07 |
 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 | 2022-01-08 | 2022-01-23 |
@@ -936,7 +937,7 @@
 | [она хочет быть моделью](https://open.spotify.com/track/4NSljHZ9Uwr8uBwKgFisR1) | [HammAli & Navai](https://open.spotify.com/artist/6o7TsOGOEF5Mqpiz2KCyWE), [MACAN](https://open.spotify.com/artist/5VKufGMVAZ6fs111xYNKnU) | [она хочет быть моделью](https://open.spotify.com/album/6I62WtFZ2fLH3RpNVAwzzn) | 2:38 | 2021-12-12 | 2021-12-13 |
 | [ОРГАНИЗАЦИЯ](https://open.spotify.com/track/4DJNY0uEuywTgtw3E2jMdp) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB) | [ОРГАНИЗАЦИЯ](https://open.spotify.com/album/5St0qj8abyGoSO8V4zD2OZ) | 3:21 | 2021-11-11 | 2021-11-14 |
 | [Организация](https://open.spotify.com/track/18OGgA3bRnZEQEj2ri3ZPf) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB) | [miXXXtape III: Смутное Время](https://open.spotify.com/album/0Nz1pnSwMM4FNRtHznneNS) | 3:21 | 2021-11-14 | 2021-11-22 |
-| [Остров](https://open.spotify.com/track/0uhI1APF1D4scWNrOUCMIw) | [My](https://open.spotify.com/artist/3WGL5CRtgYd8Tm5elcbsdV) | [Ближе Part2](https://open.spotify.com/album/01uAUykKCf6D42apWGMxhk) | 2:26 | 2023-07-03 |  |
+| [Остров](https://open.spotify.com/track/0uhI1APF1D4scWNrOUCMIw) | [My](https://open.spotify.com/artist/3WGL5CRtgYd8Tm5elcbsdV) | [Ближе Part2](https://open.spotify.com/album/01uAUykKCf6D42apWGMxhk) | 2:26 | 2023-07-03 | 2023-07-19 |
 | [ОСУЖДАЮ \[prod\. by Heroinwater\]](https://open.spotify.com/track/5XQyOhhFN6LbRg49MLw3Wv) | [SODA LUV](https://open.spotify.com/artist/3TikHXhctY4FUIMlkl0tzR), [Buster](https://open.spotify.com/artist/0wK21X7PTt89qH2aNCkXlA) | [КОТЬ! КОТЬ!](https://open.spotify.com/album/67llcOfrH7DmC5yMmRd4UB) | 1:59 | 2021-04-03 | 2021-04-11 |
 | [Отключаю телефон](https://open.spotify.com/track/6F81SMHDIUMRyBb9bJ2ZRL) | [INSTASAMKA](https://open.spotify.com/artist/2SeRP5iAIhVec4azKHJzjX) | [Отключаю телефон](https://open.spotify.com/album/77f6ZvKlnGovMndd1XwnCp) | 2:33 | 2023-02-18 | 2023-03-25 |
 | [Отпускаю](https://open.spotify.com/track/0vkYzoY1ukPTWAqD4yuCXL) | [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb), [MakSim](https://open.spotify.com/artist/0skU3bkFwP0sFmUIb03q82) | [Отпускаю](https://open.spotify.com/album/1nkPwyQL2v4ARuV6otnzmo) | 3:12 | 2022-02-12 | 2022-02-26 |
@@ -1086,7 +1087,7 @@
 | [Увечье](https://open.spotify.com/track/49RVLaeoDZPOQtAr929OUK) | [KRBK](https://open.spotify.com/artist/0E56Ncr2I37JQhW71UJALE) | [Увечье](https://open.spotify.com/album/1jdcbR2FrqBkUeVn2gxEcd) | 2:33 | 2022-06-25 | 2022-06-27 |
 | [Улет](https://open.spotify.com/track/6pEIEGMb3Bbpew09gGR7Gx) | [Oxxxymiron](https://open.spotify.com/artist/1gCOYbJNUa1LBVO5rlx0jB) | [Красота и Уродство](https://open.spotify.com/album/37GqOfeuzBtpj32ZG28SqH) | 2:30 | 2021-12-04 | 2021-12-10 |
 | [Улицы без фонарей](https://open.spotify.com/track/63zZclNUcyodnySewFn5Pi) | [Max Korzh](https://open.spotify.com/artist/5meD8C7oGK5yUEY2T7ZZ7W) | [Психи попадают в топ](https://open.spotify.com/album/1P6SeYoLzFyj0tBhSxK3t1) | 3:22 | 2021-12-18 | 2021-12-23 |
-| [Файна \(feat\. Skofka\)](https://open.spotify.com/track/3EkGH0yreaWUFAXBil8rmH) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842), [SKOFKA](https://open.spotify.com/artist/0Aj4ZvDgwd9DSs7E2nrox0) | [ЙО\-ЙО \(feat\. Skofka\)](https://open.spotify.com/album/75JDz9NzMLWYsw3K9aYXXc) | 2:36 | 2022-05-02 |  |
+| [Файна \(feat\. Skofka\)](https://open.spotify.com/track/3EkGH0yreaWUFAXBil8rmH) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842), [SKOFKA](https://open.spotify.com/artist/0Aj4ZvDgwd9DSs7E2nrox0) | [ЙО\-ЙО \(feat\. Skofka\)](https://open.spotify.com/album/75JDz9NzMLWYsw3K9aYXXc) | 2:36 | 2022-05-02 | 2023-07-19 |
 | [Федерико Феллини](https://open.spotify.com/track/7Eyfmn0zcgcjGUrWlFdgqa) | [Galibri & Mavik](https://open.spotify.com/artist/3GOI8AbB8KMYk20rWy38X5) | [Федерико Феллини](https://open.spotify.com/album/1a4uBgKOUZK6dommd01kja) | 2:16 | 2021-07-12 | 2021-09-21 |
 | [Фиеста](https://open.spotify.com/track/0qyeRF33qX9pNm16m4Yykb) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [Yanix](https://open.spotify.com/artist/7gmUEqRjXK144s5jQMVc8c), [SEEMEE](https://open.spotify.com/artist/2ngiK5FQchV4i7eOyXOXKt) | [AA LANGUAGE](https://open.spotify.com/album/5FU5AT1bUt4YrkrNI8eZ9q) | 1:51 | 2022-08-13 | 2022-08-20 |
 | [Флинтана](https://open.spotify.com/track/7GJk4rWua5xYPCiYaHKWgW) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW), [163ONMYNECK](https://open.spotify.com/artist/0ne2rg2JwZmIy7X1aVNq7y) | [FREERIO 2](https://open.spotify.com/album/4Bxc3xz4eRLzZBfluYRfiP) | 2:18 | 2022-04-30 | 2022-05-03 |
@@ -1162,6 +1163,6 @@
 | [Ящик](https://open.spotify.com/track/7uzOXyjNgbyYjrYpmeAjsN) | [ATL](https://open.spotify.com/artist/2n6CVwo43YvjiTgcPxYWrf) | [Ящик](https://open.spotify.com/album/3jY7BEOadfEujvpG2g2lm6) | 3:27 | 2021-11-21 | 2021-11-25 |
 | [Імперії впадуть](https://open.spotify.com/track/1t0gvj21K9Fscs5fxm4UJ9) | [Boombox](https://open.spotify.com/artist/2c3PFZtun8HemDbDfRPV6G) | [Імперії впадуть](https://open.spotify.com/album/1TqtbPIimI2tdzotfacuku) | 5:05 | 2021-11-21 | 2021-11-22 |
 | [інша любов](https://open.spotify.com/track/24s8SuDR01re1GxkELG7d0) | [ENLEO](https://open.spotify.com/artist/09trukw4HlMz8i6TAn5Xpu) | [інша любов](https://open.spotify.com/album/4zcUoQhejdz93W8CS1Yzsx) | 4:08 | 2022-07-16 | 2022-10-18 |
-| [інша любов](https://open.spotify.com/track/6JrGELYUIbZvBV74j4Q5LN) | [ENLEO](https://open.spotify.com/artist/09trukw4HlMz8i6TAn5Xpu) | [інша любов](https://open.spotify.com/album/1v4P2Q4F6T31loiqLmREFg) | 4:08 | 2022-10-17 | 2023-07-18 |
+| [інша любов](https://open.spotify.com/track/6JrGELYUIbZvBV74j4Q5LN) | [ENLEO](https://open.spotify.com/artist/09trukw4HlMz8i6TAn5Xpu) | [інша любов](https://open.spotify.com/album/1v4P2Q4F6T31loiqLmREFg) | 4:08 | 2022-10-17 |  |
 
 \*This playlist was first scraped on 2021-03-27. Prior content cannot be recovered.

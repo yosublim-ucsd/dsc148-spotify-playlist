@@ -1,12 +1,12 @@
 {
   "description": "Country Music that ROCKS! Cover: Bryan Martin",
-  "num_followers": 540675,
+  "num_followers": 540872,
   "original_name": "Country Rocks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ODlmNWNlODNlMGI0ZDZjYjYxMWU2NGRjZTRiMjUzMGVlZjZlYzRm",
+  "snapshot_id": "MCw2MGJkMGUxYjI3Mjk2NDgxNDcxM2U3ZDk0NmQ0YjhjZjMzMGY1NWEy",
   "tracks": [
     {
       "added_at": "2023-07-14 14:26:08",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2023-07-14 14:26:08",
       "album": {
-        "name": "Last Thing I Remember",
-        "url": "https://open.spotify.com/album/3pAkHifq83S5S9ptOS5p36"
+        "name": "April Showers",
+        "url": "https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX"
       },
       "artists": [
         {
-          "name": "Pecos & the Rooftops",
-          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 154724,
-      "name": "Last Thing I Remember",
-      "url": "https://open.spotify.com/track/1AbTzIzTbqu1GJsERdlsO3"
+      "duration_ms": 182346,
+      "name": "April Showers",
+      "url": "https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK"
     },
     {
       "added_at": "2023-07-14 14:26:08",
@@ -1211,18 +1211,22 @@
     {
       "added_at": "2023-07-14 14:26:08",
       "album": {
-        "name": "April Showers",
-        "url": "https://open.spotify.com/album/35DYE0Y5qdxojyBA2CXVYX"
+        "name": "Ain't Nothin' to It",
+        "url": "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
       },
       "artists": [
         {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        },
+        {
+          "name": "The Rockin' CJB",
+          "url": "https://open.spotify.com/artist/29MrkEEHOU5icmFXxLe0OV"
         }
       ],
-      "duration_ms": 182346,
-      "name": "April Showers",
-      "url": "https://open.spotify.com/track/0E2VoyCHqPn47yGMVgQmrK"
+      "duration_ms": 257079,
+      "name": "Long Haired Country Boy (feat. The Rockin' CJB)",
+      "url": "https://open.spotify.com/track/4j6mrg4fGP1MVfOPN740VJ"
     },
     {
       "added_at": "2023-07-14 14:26:08",
@@ -1259,22 +1263,18 @@
     {
       "added_at": "2023-07-14 14:26:08",
       "album": {
-        "name": "Ain't Nothin' to It",
-        "url": "https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob"
+        "name": "Last Thing I Remember",
+        "url": "https://open.spotify.com/album/3pAkHifq83S5S9ptOS5p36"
       },
       "artists": [
         {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        },
-        {
-          "name": "The Rockin' CJB",
-          "url": "https://open.spotify.com/artist/29MrkEEHOU5icmFXxLe0OV"
+          "name": "Pecos & the Rooftops",
+          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
         }
       ],
-      "duration_ms": 257079,
-      "name": "Long Haired Country Boy (feat. The Rockin' CJB)",
-      "url": "https://open.spotify.com/track/4j6mrg4fGP1MVfOPN740VJ"
+      "duration_ms": 154724,
+      "name": "Last Thing I Remember",
+      "url": "https://open.spotify.com/track/1AbTzIzTbqu1GJsERdlsO3"
     },
     {
       "added_at": "2023-07-14 14:26:08",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-07-14 14:26:08",
       "album": {
-        "name": "Bricks",
-        "url": "https://open.spotify.com/album/6fQDqpUjTb5BZ1DEs25zdd"
-      },
-      "artists": [
-        {
-          "name": "Pecos & the Rooftops",
-          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
-        }
-      ],
-      "duration_ms": 215086,
-      "name": "Bricks",
-      "url": "https://open.spotify.com/track/5ogBdwMrYSUpoQDLyqFptS"
-    },
-    {
-      "added_at": "2023-07-14 14:26:08",
-      "album": {
         "name": "Straw in the Wind",
         "url": "https://open.spotify.com/album/4qaAjhI72YFVMbusfwiO6x"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 199773,
       "name": "Let the Rain Come Down",
       "url": "https://open.spotify.com/track/7aQWQSrLhPuRbHUewe6HLB"
+    },
+    {
+      "added_at": "2023-07-14 14:26:08",
+      "album": {
+        "name": "LOSER",
+        "url": "https://open.spotify.com/album/2lofvNiQCqRcPpMzNDR6Fq"
+      },
+      "artists": [
+        {
+          "name": "Lakeview",
+          "url": "https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD"
+        }
+      ],
+      "duration_ms": 194896,
+      "name": "LOSER",
+      "url": "https://open.spotify.com/track/5hggNU5pVbB5bLUdg3kCeH"
     },
     {
       "added_at": "2023-07-14 14:26:08",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2023-07-14 14:26:08",
       "album": {
-        "name": "LOSER",
-        "url": "https://open.spotify.com/album/2lofvNiQCqRcPpMzNDR6Fq"
+        "name": "Bricks",
+        "url": "https://open.spotify.com/album/6fQDqpUjTb5BZ1DEs25zdd"
       },
       "artists": [
         {
-          "name": "Lakeview",
-          "url": "https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD"
+          "name": "Pecos & the Rooftops",
+          "url": "https://open.spotify.com/artist/5KbiLoVLLIHM5vZ0RM9WMU"
         }
       ],
-      "duration_ms": 194896,
-      "name": "LOSER",
-      "url": "https://open.spotify.com/track/5hggNU5pVbB5bLUdg3kCeH"
+      "duration_ms": 215086,
+      "name": "Bricks",
+      "url": "https://open.spotify.com/track/5ogBdwMrYSUpoQDLyqFptS"
     },
     {
       "added_at": "2023-07-14 14:26:08",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-07-14 14:26:08",
       "album": {
-        "name": "Never Change",
-        "url": "https://open.spotify.com/album/0c4zjlkdnOEYt5sfrLuJee"
-      },
-      "artists": [
-        {
-          "name": "Rvshvd",
-          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
-        }
-      ],
-      "duration_ms": 190677,
-      "name": "Never Change",
-      "url": "https://open.spotify.com/track/6PuM7qkapYCJsN45KMMOwR"
-    },
-    {
-      "added_at": "2023-07-14 14:26:08",
-      "album": {
         "name": "Brothers Osborne",
         "url": "https://open.spotify.com/album/7xiDBY4VdkEgAp5Ua60MBi"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 213826,
       "name": "Shoot From The Hip",
       "url": "https://open.spotify.com/track/4F880Aeo2WO7N0lULjWgzm"
+    },
+    {
+      "added_at": "2023-07-14 14:26:08",
+      "album": {
+        "name": "Never Change",
+        "url": "https://open.spotify.com/album/0c4zjlkdnOEYt5sfrLuJee"
+      },
+      "artists": [
+        {
+          "name": "Rvshvd",
+          "url": "https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ"
+        }
+      ],
+      "duration_ms": 190677,
+      "name": "Never Change",
+      "url": "https://open.spotify.com/track/6PuM7qkapYCJsN45KMMOwR"
     },
     {
       "added_at": "2023-07-14 14:26:08",

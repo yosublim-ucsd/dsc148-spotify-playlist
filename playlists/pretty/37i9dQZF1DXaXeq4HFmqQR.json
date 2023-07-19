@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que la rompen feat. Aura BAE.\nDales PLAY, dales POWER.",
-  "num_followers": 12316,
+  "num_followers": 12322,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTMwNTIwZDMzYjQyYmIzMDgwY2YzZjI3MDViZmYyOGFiNjljMzVk",
+  "snapshot_id": "MCw3MTZjN2IyZjY1MTZlMWU3NjhkODk4OWRkMzY4NzZhMDZkOWYyMjBm",
   "tracks": [
     {
       "added_at": "2023-07-05 03:00:00",
@@ -319,26 +319,6 @@
     {
       "added_at": "2023-07-05 03:00:00",
       "album": {
-        "name": "abracadabra",
-        "url": "https://open.spotify.com/album/1apxjXLkQtoN1xZbmpOVQo"
-      },
-      "artists": [
-        {
-          "name": "J18",
-          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
-        },
-        {
-          "name": "xsickboi",
-          "url": "https://open.spotify.com/artist/1CSAOVFE6aJkH9RgbNZCvC"
-        }
-      ],
-      "duration_ms": 194357,
-      "name": "abracadabra",
-      "url": "https://open.spotify.com/track/5Kq1WilU4CfoJBJgHwPtJn"
-    },
-    {
-      "added_at": "2023-07-05 03:00:00",
-      "album": {
         "name": "Depura",
         "url": "https://open.spotify.com/album/3vjJyFUnFaBtNwKxJkWmoI"
       },
@@ -351,6 +331,22 @@
       "duration_ms": 98000,
       "name": "Purga",
       "url": "https://open.spotify.com/track/0N40SPBpzzLUEbLhyWa3xA"
+    },
+    {
+      "added_at": "2023-07-05 03:00:00",
+      "album": {
+        "name": "Soy una Gerla",
+        "url": "https://open.spotify.com/album/5Dtr4425ZrOdNdH8dKVMqR"
+      },
+      "artists": [
+        {
+          "name": "Almeyda",
+          "url": "https://open.spotify.com/artist/3ScIhY1EejsIFbTsU87XwF"
+        }
+      ],
+      "duration_ms": 116412,
+      "name": "Soy una Gerla",
+      "url": "https://open.spotify.com/track/197ZZGvA3mTwIZ6V2dtat1"
     },
     {
       "added_at": "2023-07-05 03:00:00",
@@ -371,18 +367,22 @@
     {
       "added_at": "2023-07-05 03:00:00",
       "album": {
-        "name": "Soy una Gerla",
-        "url": "https://open.spotify.com/album/5Dtr4425ZrOdNdH8dKVMqR"
+        "name": "abracadabra",
+        "url": "https://open.spotify.com/album/1apxjXLkQtoN1xZbmpOVQo"
       },
       "artists": [
         {
-          "name": "Almeyda",
-          "url": "https://open.spotify.com/artist/3ScIhY1EejsIFbTsU87XwF"
+          "name": "J18",
+          "url": "https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q"
+        },
+        {
+          "name": "xsickboi",
+          "url": "https://open.spotify.com/artist/1CSAOVFE6aJkH9RgbNZCvC"
         }
       ],
-      "duration_ms": 116412,
-      "name": "Soy una Gerla",
-      "url": "https://open.spotify.com/track/197ZZGvA3mTwIZ6V2dtat1"
+      "duration_ms": 194357,
+      "name": "abracadabra",
+      "url": "https://open.spotify.com/track/5Kq1WilU4CfoJBJgHwPtJn"
     },
     {
       "added_at": "2023-07-05 03:00:00",
@@ -443,6 +443,22 @@
     {
       "added_at": "2023-07-05 03:00:00",
       "album": {
+        "name": "Bad Girl",
+        "url": "https://open.spotify.com/album/1IrgrmAm6yJfDT57EYs7lC"
+      },
+      "artists": [
+        {
+          "name": "Amikiraa",
+          "url": "https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Bad Girl",
+      "url": "https://open.spotify.com/track/6VGKiViDS17F5EgjOUyh9M"
+    },
+    {
+      "added_at": "2023-07-05 03:00:00",
+      "album": {
         "name": "Chucky",
         "url": "https://open.spotify.com/album/0aSiYjQzNvFBPaferPAlvR"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 208010,
       "name": "Chucky",
       "url": "https://open.spotify.com/track/0RSCcsA7LCN5emaGOotAWY"
-    },
-    {
-      "added_at": "2023-07-05 03:00:00",
-      "album": {
-        "name": "Bad Girl",
-        "url": "https://open.spotify.com/album/1IrgrmAm6yJfDT57EYs7lC"
-      },
-      "artists": [
-        {
-          "name": "Amikiraa",
-          "url": "https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Bad Girl",
-      "url": "https://open.spotify.com/track/6VGKiViDS17F5EgjOUyh9M"
     },
     {
       "added_at": "2023-07-05 03:00:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-07-05 03:00:00",
       "album": {
+        "name": "Velos",
+        "url": "https://open.spotify.com/album/1CkWDvK6wJREcoWD3ePxOn"
+      },
+      "artists": [
+        {
+          "name": "Zencilla",
+          "url": "https://open.spotify.com/artist/6HTmcY8nEuA0mtHutXteMw"
+        }
+      ],
+      "duration_ms": 174767,
+      "name": "Velos",
+      "url": "https://open.spotify.com/track/5tQpaKf3sKFkJnmMX7cKyk"
+    },
+    {
+      "added_at": "2023-07-05 03:00:00",
+      "album": {
         "name": "KEIKEI",
         "url": "https://open.spotify.com/album/1r8joyTxLUu1MaTbg84zED"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 106954,
       "name": "KEIKEI",
       "url": "https://open.spotify.com/track/14WU2Do99uBtErqgFvnI7t"
-    },
-    {
-      "added_at": "2023-07-05 03:00:00",
-      "album": {
-        "name": "Velos",
-        "url": "https://open.spotify.com/album/1CkWDvK6wJREcoWD3ePxOn"
-      },
-      "artists": [
-        {
-          "name": "Zencilla",
-          "url": "https://open.spotify.com/artist/6HTmcY8nEuA0mtHutXteMw"
-        }
-      ],
-      "duration_ms": 174767,
-      "name": "Velos",
-      "url": "https://open.spotify.com/track/5tQpaKf3sKFkJnmMX7cKyk"
     },
     {
       "added_at": "2023-07-05 03:00:00",
@@ -667,26 +667,6 @@
     {
       "added_at": "2023-07-05 03:00:00",
       "album": {
-        "name": "Bla",
-        "url": "https://open.spotify.com/album/6kFEaWWaU8j8LslrPMtMUB"
-      },
-      "artists": [
-        {
-          "name": "Nihla",
-          "url": "https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf"
-        },
-        {
-          "name": "Bdilla",
-          "url": "https://open.spotify.com/artist/25AdttfBeDkaglOlR4WdBo"
-        }
-      ],
-      "duration_ms": 179478,
-      "name": "Bla",
-      "url": "https://open.spotify.com/track/6XD2MtoHHVVjyF748XHS8U"
-    },
-    {
-      "added_at": "2023-07-05 03:00:00",
-      "album": {
         "name": "Suelta (Respira)",
         "url": "https://open.spotify.com/album/4RHMIK2HdzZHKs8LT1F2H4"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 160333,
       "name": "Suelta (Respira)",
       "url": "https://open.spotify.com/track/6LBB4oU8fxcgjuk6LC4Uur"
+    },
+    {
+      "added_at": "2023-07-05 03:00:00",
+      "album": {
+        "name": "Bla",
+        "url": "https://open.spotify.com/album/6kFEaWWaU8j8LslrPMtMUB"
+      },
+      "artists": [
+        {
+          "name": "Nihla",
+          "url": "https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf"
+        },
+        {
+          "name": "Bdilla",
+          "url": "https://open.spotify.com/artist/25AdttfBeDkaglOlR4WdBo"
+        }
+      ],
+      "duration_ms": 179478,
+      "name": "Bla",
+      "url": "https://open.spotify.com/track/6XD2MtoHHVVjyF748XHS8U"
     },
     {
       "added_at": "2023-07-05 03:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-07-05 03:00:00",
       "album": {
-        "name": "Msn",
-        "url": "https://open.spotify.com/album/5LR238ZmUP553oIWEKj2e4"
-      },
-      "artists": [
-        {
-          "name": "Rata-K1000",
-          "url": "https://open.spotify.com/artist/3z0z7MsvxXwSCpbjAG4OJd"
-        }
-      ],
-      "duration_ms": 129349,
-      "name": "Msn",
-      "url": "https://open.spotify.com/track/1kY9IUzSMSfRdH4QP7Dgye"
-    },
-    {
-      "added_at": "2023-07-05 03:00:00",
-      "album": {
         "name": "Suerte",
         "url": "https://open.spotify.com/album/0KpjvvxnXUb05nPESLiNQT"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 155757,
       "name": "Suerte",
       "url": "https://open.spotify.com/track/1gO1fK9xXLsHgrze8gkUCk"
+    },
+    {
+      "added_at": "2023-07-05 03:00:00",
+      "album": {
+        "name": "Msn",
+        "url": "https://open.spotify.com/album/5LR238ZmUP553oIWEKj2e4"
+      },
+      "artists": [
+        {
+          "name": "Rata-K1000",
+          "url": "https://open.spotify.com/artist/3z0z7MsvxXwSCpbjAG4OJd"
+        }
+      ],
+      "duration_ms": 129349,
+      "name": "Msn",
+      "url": "https://open.spotify.com/track/1kY9IUzSMSfRdH4QP7Dgye"
     },
     {
       "added_at": "2023-07-05 03:00:00",
@@ -843,6 +843,26 @@
     {
       "added_at": "2023-07-05 03:00:00",
       "album": {
+        "name": "\u00c0 plus",
+        "url": "https://open.spotify.com/album/0IG3DVhsvBbHuXFCFVUfEn"
+      },
+      "artists": [
+        {
+          "name": "Catana",
+          "url": "https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90"
+        },
+        {
+          "name": "Ambar Luna",
+          "url": "https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML"
+        }
+      ],
+      "duration_ms": 159933,
+      "name": "NDN",
+      "url": "https://open.spotify.com/track/0xTG6dCzDIbyMKNlRQNf7F"
+    },
+    {
+      "added_at": "2023-07-05 03:00:00",
+      "album": {
         "name": "RID\u00cdCULO",
         "url": "https://open.spotify.com/album/45rmLIIeU5aamqjcTKQ1Kb"
       },
@@ -875,26 +895,6 @@
       "duration_ms": 198620,
       "name": "DETOXXX",
       "url": "https://open.spotify.com/track/5LeJOc72vBnf8xDrvuN1XS"
-    },
-    {
-      "added_at": "2023-07-05 03:00:00",
-      "album": {
-        "name": "\u00c0 plus",
-        "url": "https://open.spotify.com/album/0IG3DVhsvBbHuXFCFVUfEn"
-      },
-      "artists": [
-        {
-          "name": "Catana",
-          "url": "https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90"
-        },
-        {
-          "name": "Ambar Luna",
-          "url": "https://open.spotify.com/artist/3cJV9VzS3qt2MU60ilzNML"
-        }
-      ],
-      "duration_ms": 159933,
-      "name": "NDN",
-      "url": "https://open.spotify.com/track/0xTG6dCzDIbyMKNlRQNf7F"
     },
     {
       "added_at": "2023-07-05 03:00:00",

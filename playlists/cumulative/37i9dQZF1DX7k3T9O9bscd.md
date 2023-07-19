@@ -4,7 +4,7 @@
 
 > Psyched\-out bands from the four corners of the world\. L.A Priest on cover.
 
-288 songs - 23 hr 15 min
+289 songs - 23 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Bulls](https://open.spotify.com/track/53wEWsjRb8gjZ7xr8BLzZu) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Sleeping Through the War \(Deluxe Edition\)](https://open.spotify.com/album/1oc26cvGUrojmXC0C4CmYl) | 6:40 | 2021-11-12 | 2022-07-29 |
 | [Bulls](https://open.spotify.com/track/5pbFvRZ7uS8hkkAtbj5bvX) | [All Them Witches](https://open.spotify.com/artist/29Wmfm1CojrjQ3aQP0FI65) | [Sleeping Through The War](https://open.spotify.com/album/6Yse0GPuOHRksNWmrEZQSw) | 6:40 | 2021-11-12 |  |
 | [Burial](https://open.spotify.com/track/1VkhH0SytxPrHqBYWG2R7o) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [Burial](https://open.spotify.com/album/6vqfy51SMG4lTk4TvXIGg8) | 6:04 | 2021-11-12 | 2022-06-18 |
-| [Burial](https://open.spotify.com/track/39OK2v0ZYohVbvqg4X4uDE) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [Ghost Tapes \#10](https://open.spotify.com/album/19Jy4bfbeWkmKAy7qA97oR) | 6:04 | 2021-11-12 |  |
+| [Burial](https://open.spotify.com/track/39OK2v0ZYohVbvqg4X4uDE) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [Ghost Tapes \#10](https://open.spotify.com/album/19Jy4bfbeWkmKAy7qA97oR) | 6:04 | 2021-11-12 | 2023-07-19 |
 | [Busca Ayuda](https://open.spotify.com/track/60zGVY9oWBrgvR4dMOyYjy) | [Los Mundos](https://open.spotify.com/artist/5LuE4v1MFy7hynf3safSE2) | [Busca Ayuda](https://open.spotify.com/album/4sPthmuHoRguvoxG4KkOMi) | 3:51 | 2023-03-16 | 2023-03-25 |
 | [Caballerango](https://open.spotify.com/track/5k8NaRExvqn0ob1MrvU8Kf) | [Dorotheo](https://open.spotify.com/artist/7Bqd6UDHfc6xlAC4nOmITW) | [Caballerango](https://open.spotify.com/album/1X3BkJvSoJehqCpxpb3B6V) | 4:25 | 2021-11-12 | 2022-07-29 |
 | [Cap.4: El Sabbath de las Brujas](https://open.spotify.com/track/5BnzY7dZ0Ws2SPXeuQlAFZ) | [Yo Diablo](https://open.spotify.com/artist/5Z38kr6DZXdvG4A3fQVu2W) | [Häxan](https://open.spotify.com/album/73dHfYxUCu6FCSJJOfgsUW) | 4:07 | 2023-01-07 | 2023-06-27 |
@@ -191,14 +191,14 @@
 | [Panic In The Isles Of Splendor](https://open.spotify.com/track/78GtNy3hQhoZVh4Gn2s0Zs) | [Ghost Power](https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8) | [Ghost Power](https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d) | 3:41 | 2023-01-12 |  |
 | [Paraphernalia](https://open.spotify.com/track/19hgVvXQ8RyP5RtCkoUk5C) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Paraphernalia](https://open.spotify.com/album/5lAMuAXEsJekTC4MbBRax1) | 4:23 | 2021-11-12 |  |
 | [Pascuales](https://open.spotify.com/track/5xuuZipGp3riNIiYDLKnXM) | [Bobui](https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse) | [Pascuales](https://open.spotify.com/album/4wOdqXvqgAWeUtGOyaTNNz) | 3:37 | 2022-09-30 |  |
-| [Patience](https://open.spotify.com/track/2drEUEg0TYQR6dDEHkpuPE) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Patience](https://open.spotify.com/album/65siSh34OjZPMx0obk0YRj) | 4:52 | 2021-11-12 | 2023-06-28 |
+| [Patience](https://open.spotify.com/track/2drEUEg0TYQR6dDEHkpuPE) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Patience](https://open.spotify.com/album/65siSh34OjZPMx0obk0YRj) | 4:52 | 2021-11-12 |  |
 | [Phase Modulation Shuffle \(Edit\)](https://open.spotify.com/track/2eipVzPVCl3N2gWMXoEU1h) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [Phase Modulation Shuffle \(Edit\)](https://open.spotify.com/album/2W4XzDl8g1aXA3mgQ14GKF) | 3:39 | 2021-11-12 |  |
 | [Phase Modulation Shuffle \(Edit\)](https://open.spotify.com/track/6P3wuqOj57ljpXpSHOy8fH) | [Cavern of Anti\-Matter](https://open.spotify.com/artist/71th4FPdhGaAHVeng0LfRt) | [Phase Modulation Shuffle \(Edit\)](https://open.spotify.com/album/30MHkRh4rQIwdFDopFGTbC) | 3:39 | 2021-11-12 | 2022-07-29 |
 | [Planet Caravan](https://open.spotify.com/track/0drFLipk0M6e8Oj9mSeiFx) | [Moon Duo](https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu) | [Planet Caravan](https://open.spotify.com/album/5sZzZ9CXT4b9dMBIvuVRji) | 9:11 | 2021-11-12 | 2022-07-29 |
 | [Planet Caravan](https://open.spotify.com/track/5QBzorRtkUglhnTQBzNJMU) | [Moon Duo](https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu) | [Planet Caravan](https://open.spotify.com/album/34ybO2ipCxno1JatWdXnsS) | 9:11 | 2021-11-12 |  |
 | [Plea From The Soul](https://open.spotify.com/track/3IroBaDGAzIty2iPEdVX1F) | [Phafner](https://open.spotify.com/artist/4DfFBzcBgZvLafLxiLhHci) | [Overdrive](https://open.spotify.com/album/1uk2d7U9mHyflSmcPxkhV5) | 5:29 | 2021-11-12 |  |
 | [Pollution Rise](https://open.spotify.com/track/4vGQm0QW07GtI44ks50qp0) | [Red Belmont](https://open.spotify.com/artist/0V5q8bb8VlZqaHh6TpEDx6) | [Into My Own](https://open.spotify.com/album/2FZTKvIax4NkqVHEOdV7Sw) | 4:17 | 2021-11-12 | 2022-07-07 |
-| [Posthumous Forgiveness](https://open.spotify.com/track/1KcOU0q9AMXV9xi4tSzzCc) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 6:06 | 2021-11-12 |  |
+| [Posthumous Forgiveness](https://open.spotify.com/track/1KcOU0q9AMXV9xi4tSzzCc) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 6:06 | 2021-11-12 | 2023-07-19 |
 | [Posthumous Forgiveness](https://open.spotify.com/track/3rQ0ZaLrkLv8HhAAKSbAC0) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Posthumous Forgiveness](https://open.spotify.com/album/0AA8MiQS9djcrznNT83ViG) | 6:06 | 2021-11-12 | 2022-07-27 |
 | [premonition / ‚óØ / it shines through](https://open.spotify.com/track/1oQrm94AgXdhDE0wusgKrc) | [HOLY](https://open.spotify.com/artist/6TNGPJ14slujZq0YSywpsQ) | [premonition](https://open.spotify.com/album/22ccKxifv1lmzw5C9pdznt) | 6:37 | 2021-11-12 | 2022-07-29 |
 | [Put Your Thing On Me](https://open.spotify.com/track/55uKi2bQPxwGgFkxOiMicQ) | [The Grodeck Whipperjenny](https://open.spotify.com/artist/644ywfAXoGkPjOOxg2nZPE) | [The Grodeck Whipperjenny](https://open.spotify.com/album/2wdDKLGzrJ0SR1Q3ydZ4P0) | 4:36 | 2021-11-12 | 2023-01-16 |
@@ -294,6 +294,7 @@
 | [Youth Accomplished](https://open.spotify.com/track/3obRU5bTNnd6UObMPi7CoL) | [Seabiscuit](https://open.spotify.com/artist/2E8Y3HIsOudSYPxSYmhQGc) | [Youth Accomplished](https://open.spotify.com/album/4pvmTcWTeIIoVaSwNizPji) | 3:45 | 2022-04-23 |  |
 | [Yègellé Tezeta](https://open.spotify.com/track/0fxjsll9jmmRgMFbwdp4Xg) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [New York \- Addis \- London: The Story of Ethio Jazz 1965\-1975](https://open.spotify.com/album/3MHdUsf9wX9WffvOP59RBz) | 3:14 | 2021-11-12 |  |
 | [Zeppelin](https://open.spotify.com/track/2pKX8ad4udW2XIbka2P3fe) | [Aladin Fox](https://open.spotify.com/artist/1vl07Fu7VoBoAQQwtg490l) | [Aladin Fox](https://open.spotify.com/album/39ubZMkaMKwvNTnPLkmArp) | 2:33 | 2022-07-01 | 2022-08-04 |
+| [Zionic Mud](https://open.spotify.com/track/0ZSHpB8Pu03xqE0yKGJArS) | [JJUUJJUU](https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ) | [Zionic Mud](https://open.spotify.com/album/0KKFfLUKikbVd8lCL4iz1l) | 5:21 | 2023-07-18 |  |
 | [Çarşambayı Sel Aldı](https://open.spotify.com/track/4Rvx92J5G9D840uqgZiLvD) | [Mustafa Özkent](https://open.spotify.com/artist/7AIG5iIr8bQomw1pGrwZZ4) | [Mustafa Özkent Ve Orkestrası Gençlik İle El Ele](https://open.spotify.com/album/3bnqPaNk1lbje5XwhZuPwz) | 2:18 | 2021-11-12 | 2022-07-25 |
 | [新常態](https://open.spotify.com/track/1MEWYQi6lFbpsvwrFrAGSn) | [黄鶯睍睆\(uguisu\-naku\)](https://open.spotify.com/artist/6XUG7F74W7f7j36VzVPlSl) | [新常態](https://open.spotify.com/album/0gJn9nbQwbyKyRTQ7mrFN5) | 2:49 | 2022-11-25 | 2023-01-07 |
 

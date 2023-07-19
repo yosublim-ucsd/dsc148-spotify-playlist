@@ -4,7 +4,7 @@
 
 > Which is going to be the next Song of the Summer!? \(Includes the 2022 &amp; 2021 edition + bonus tracks\)
 
-2,425 songs - 5 day 18 hr 53 min
+2,426 songs - 5 day 18 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -416,6 +416,7 @@
 | [Chimes](https://open.spotify.com/track/4K1xINi3pb720zaJxu7In8) | [De Rien](https://open.spotify.com/artist/1cXMEOMaLm3TNWP8lo4AsS) | [Chimes](https://open.spotify.com/album/2OhtIYaw2PbX3v4MIqSMCk) | 2:52 | 2020-01-15 | 2020-12-26 |
 | [Choke](https://open.spotify.com/track/0ZnmdsKeOEKyOOm43qykb1) | [Judah Holiday](https://open.spotify.com/artist/3NihBgwdjSCeqqQYVWb5Xm) | [Choke](https://open.spotify.com/album/0lwKGHS6fxUdhqZjgibSWz) | 3:07 | 2020-04-12 | 2020-04-22 |
 | [Cicada](https://open.spotify.com/track/3bBmaQvVmFSpsZwuYjKiBq) | [Barton Stanley David](https://open.spotify.com/artist/0zhZht91OLGevVhrVNYCxf) | [Crest](https://open.spotify.com/album/55eHzru66y5np8Kbyn9sAI) | 3:12 | 2022-11-08 | 2022-11-27 |
+| [Cinnamon](https://open.spotify.com/track/256uHLUvFNH6EwhFH5Q9fd) | [Ashton Nyte](https://open.spotify.com/artist/7J66VKvTZxYiFeI2n0PWed) | [Cinnamon](https://open.spotify.com/album/0gZ640kdt6ifs49HRF8nRh) | 2:46 | 2023-07-18 |  |
 | [Cinnamon Skies](https://open.spotify.com/track/63KeW4iebmf2ZXvi6dRLbC) | [Landon Tewers](https://open.spotify.com/artist/3j4ihH7xANVDGQhcDFJby7), [Waynewood](https://open.spotify.com/artist/46Ae99tK8EgcCpVFSAdkxQ), [JavyDade](https://open.spotify.com/artist/5x2MghffUs9Ypcb9pOsrWH) | [Cinnamon Skies](https://open.spotify.com/album/4U8bPqTuYLM7ZU1XvkdbRT) | 2:13 | 2023-04-28 | 2023-05-16 |
 | [Circle](https://open.spotify.com/track/0hsPzVl4CBhg9yCUsv9ahJ) | [Phephi](https://open.spotify.com/artist/3zHVwEtxAyULbGwTkJYkn1) | [Nocturnal](https://open.spotify.com/album/4ftSRo0hrwKAbGj5UaXP63) | 3:18 | 2023-01-13 | 2023-02-12 |
 | [Circles](https://open.spotify.com/track/7otM2899LBDzr051hxJqyx) | [Braunsy](https://open.spotify.com/artist/6NtI2LVlpaN2PryOeSF13u) | [Circles](https://open.spotify.com/album/0uYF0K7LrkGxLzmVhQGt1M) | 3:09 | 2022-08-18 | 2022-09-04 |

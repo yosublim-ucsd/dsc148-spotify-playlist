@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Jai Wolf
 
-477 songs - 1 day 2 hr 29 min
+478 songs - 1 day 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Ceremony](https://open.spotify.com/track/4DmqWDZUtoxBX7wg9eCgzF) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Don’t Get Too Close](https://open.spotify.com/album/5TG8nNzWlr4lsL6XBURDs0) | 3:12 | 2023-02-19 |  |
 | [Chakra](https://open.spotify.com/track/53AwseSWWvXuBtcXUR42Ad) | [Fakear](https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT) | [All Glows](https://open.spotify.com/album/62YytsweQ1OBHaYdcqRw2q) | 4:08 | 2021-08-06 | 2023-02-11 |
 | [Chalk 1.3.3 \[2017 Export Wav\]](https://open.spotify.com/track/4cNVAgyBsekhIftQjrAdys) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Arrived Anxious, Left Bored](https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK) | 3:32 | 2023-05-05 |  |
-| [CHAMELEON](https://open.spotify.com/track/7bz3aBvfS99RkIumQnM7Fo) | [Saint Sinner](https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y), [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7) | [CHAMELEON](https://open.spotify.com/album/6fNxqFoLyiGMpiKc68tN0i) | 3:06 | 2023-05-12 |  |
+| [CHAMELEON](https://open.spotify.com/track/7bz3aBvfS99RkIumQnM7Fo) | [Saint Sinner](https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y), [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7) | [CHAMELEON](https://open.spotify.com/album/6fNxqFoLyiGMpiKc68tN0i) | 3:06 | 2023-05-12 | 2023-07-19 |
 | [Chandelier \(camoufly Remix\)](https://open.spotify.com/track/6LIpZXwxDxR2iWiPYFBBnx) | [Paquin](https://open.spotify.com/artist/2UGaFqTFNMtYGTrVznQksD), [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Chandelier \(camoufly Remix\)](https://open.spotify.com/album/61Kux9RkSUm0LXx09IqRIZ) | 2:34 | 2021-09-24 | 2022-07-25 |
 | [Change Your Mind](https://open.spotify.com/track/1vGnntJePL1MqpRfEftegV) | [Arcando](https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy), [Justin J\. Moore](https://open.spotify.com/artist/5a3lC3q5ngxoZVcIf1nryN) | [Change Your Mind](https://open.spotify.com/album/5k37kXx5kzICr5V32vDz9P) | 2:47 | 2023-06-09 |  |
 | [Chemical \(feat\. Ahsha & Lemay\) \- Hex Cougar Remix](https://open.spotify.com/track/6dO718ifYwuMljavDSLTTD) | [KRANE](https://open.spotify.com/artist/2aOoD3zsuYforFcDvUpZoH), [Lemay](https://open.spotify.com/artist/7zySlNgrPI1dWfMBIjTIKD), [Ahsha](https://open.spotify.com/artist/318Hgipp6taFiCWfOcNOq2), [Hex Cougar](https://open.spotify.com/artist/0AlNB0yIoyxdKloLmK9AOR) | [Fallout \(The Remixes\)](https://open.spotify.com/album/4Cu81bSfAU70eRUmDi6qoY) | 3:56 | 2021-08-06 | 2023-02-04 |
@@ -370,6 +370,7 @@
 | [Skin](https://open.spotify.com/track/7FrNn25zSxlaJ3WjGTUE6e) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG) | [Skin](https://open.spotify.com/album/1XzCvvEsWUok9DB37jEgDq) | 2:49 | 2023-04-13 |  |
 | [SKY SKY 1.3 \[2016 Export Wav\]](https://open.spotify.com/track/4rpJr9FHgUofV6HllNWmcq) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Arrived Anxious, Left Bored](https://open.spotify.com/album/5ezxjgdqnqTr3aTff07RGK) | 2:44 | 2023-05-05 |  |
 | [skyscraper](https://open.spotify.com/track/2DJcpcaK67nhs4kKo1lZpv) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [‎cath](https://open.spotify.com/album/4zuXPp6XnpbC0GzhmCkkr5) | 1:15 | 2023-05-12 | 2023-05-15 |
+| [skyscraper](https://open.spotify.com/track/3kksDDFnR3kis8B3C1g6yu) | [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [kinder opposites](https://open.spotify.com/album/0ThEJ7ZMDyj44WRjbRBYuT) | 1:25 | 2023-06-30 |  |
 | [Sleeptalking](https://open.spotify.com/track/1L6KXZpo1fKZcAtqsD3p9i) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Greta Stanley](https://open.spotify.com/artist/3lkwqHO5vO9jUlmJd0N5aC) | [Sleeptalking](https://open.spotify.com/album/2NUKhQaSu80QqTaDQaLUl0) | 3:42 | 2021-12-10 | 2023-03-16 |
 | [SLIT](https://open.spotify.com/track/1wHsT97qhIpq4UmTCGESVF) | [Herzeloyde](https://open.spotify.com/artist/2AmAO3IlqP2zaCoh98msPC), [chromonicci](https://open.spotify.com/artist/746nA9NSKsqBDRk343UtkE) | [SLIT](https://open.spotify.com/album/1KQnrhiXdR7JhDEai0vz1b) | 3:19 | 2021-09-24 | 2022-07-27 |
 | [slomo \(with Tohji & Midas The Jagaban\)](https://open.spotify.com/track/1siKLsvJLmVM8fBzJrpBNy) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF), [Midas the Jagaban](https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd) | [demon time](https://open.spotify.com/album/2B8rBYLpIJNkP4OsN16yRm) | 3:12 | 2023-02-10 |  |

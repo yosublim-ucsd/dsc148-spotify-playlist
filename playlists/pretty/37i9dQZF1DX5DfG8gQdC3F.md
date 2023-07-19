@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Lauren Spencer Smith, Billie Eilish, Troye Sivan and Charlotte Cardin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,940 likes - 100 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,960 likes - 100 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 99 | [house cats](https://open.spotify.com/track/1P2VyW7kOOppI7HEiWs9hq) | [shy kids](https://open.spotify.com/artist/1ttJm0dfyxCPbCJCRDzjAv) | [house cats](https://open.spotify.com/album/4H3JdnArFbaRHfjEinbS0C) | 2:48 |
 | 100 | [Kill The Noise \(The Valley\)](https://open.spotify.com/track/5XDqSzO7cz1mCEAHUclvf4) | [Charlie Noiir](https://open.spotify.com/artist/3jAbhB16sbyvBKSpvQzRdO), [City Fidelia](https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB) | [Kill The Noise \(The Valley\)](https://open.spotify.com/album/1jGQhseDXcB04DNkgSc8Hu) | 2:50 |
 
-Snapshot ID: `MCw3YmYyZGI5OTI4ZDQ5NWI4NmIwYzAyOTY1ODVjNGQ0ZDc2MzQyY2Q0`
+Snapshot ID: `MCw1ZWM1ZWE4YmQyMWFkNDYxMDAyMjdlZmViN2I4YTY5MWQ3MmE5Mjk1`

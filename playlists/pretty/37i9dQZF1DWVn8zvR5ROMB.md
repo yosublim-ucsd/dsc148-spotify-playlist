@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Mickey Guyton, Kane Brown, Dan + Shay and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,290 likes - 76 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,445 likes - 76 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 19 | [Million Little Bandaids \(feat\. Zac Brown Band\)](https://open.spotify.com/track/2HjVYqDNCtSzaeZVeRmOqu) | [Caroline Jones](https://open.spotify.com/artist/3xl6isKUFqJNui79kpdT0Y), [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [Million Little Bandaids \(feat\. Zac Brown Band\)](https://open.spotify.com/album/1jYMEpxUQ0DBMc3gBfufXQ) | 3:14 |
 | 20 | [Didn't Do](https://open.spotify.com/track/1KGKhPQSpC1JTPmgYXyLjH) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG), [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb) | [Didn't Do](https://open.spotify.com/album/3BThYmLXHTa6F0lQIIn65Y) | 3:17 |
 | 21 | [Way I'm Living](https://open.spotify.com/track/3rgFJUx3Oz7Siwgts4Giwz) | [Sam Grow](https://open.spotify.com/artist/4cFA9cxl7v3CrFYxOOXsSs) | [Way I'm Living](https://open.spotify.com/album/3HiGwG7lkGc2CyEXjCPOQQ) | 2:16 |
-| 22 | [NORTH OF HELL](https://open.spotify.com/track/4FvkmfUkspuOMpH6CitWtV) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [NORTH OF HELL – EP](https://open.spotify.com/album/6UYWfJPwXfySX1Cu12l7k1) | 3:12 |
+| 22 | [NORTH OF HELL](https://open.spotify.com/track/4FvkmfUkspuOMpH6CitWtV) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [NORTH OF HELL](https://open.spotify.com/album/6UYWfJPwXfySX1Cu12l7k1) | 3:12 |
 | 23 | [Mighty Beast](https://open.spotify.com/track/4tyP3hJbZSD26PTo3K5PW5) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Mighty Beast / All the Wars from Now On](https://open.spotify.com/album/2H053931olSuzHhdvxpfcm) | 4:31 |
 | 24 | [Son of a Fireman](https://open.spotify.com/track/3d6exZClIqWL9rmtutmRpe) | [Ben Burgess](https://open.spotify.com/artist/7pnTkKShdYS8BnmTHhcEaa) | [Son of a Fireman](https://open.spotify.com/album/1tbPnE7calsvtBKGD7wkgT) | 3:36 |
 | 25 | [Drinkin and Thinkin](https://open.spotify.com/track/2wIIAlomGMcfYdLpbyjwaK) | [Track45](https://open.spotify.com/artist/1XgAKSqhg2XN2qrmhc3FJT) | [Grew Up On](https://open.spotify.com/album/3XsYV5nBQnguaDaPeOHoVa) | 3:32 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 75 | [I've Been Prayin'](https://open.spotify.com/track/4oldEeb01wrjmo8LjcKedD) | [Nick Hickman](https://open.spotify.com/artist/54dy3kYqGy3V4obgZZP08h) | [I've Been Prayin'](https://open.spotify.com/album/367MNg3uWgVibIA9rGyQH6) | 3:45 |
 | 76 | [Always a Girl](https://open.spotify.com/track/5sBvqQEsxQwTfw2Zopn98y) | [Matt Jordan](https://open.spotify.com/artist/42o4AcPbHwxBYJm1MK7OqC) | [Always a Girl](https://open.spotify.com/album/5basJuQxjMhwFmeM17ydvz) | 3:10 |
 
-Snapshot ID: `MCw2OTMxMzI0MTU0Mjg4NTI2OWI3MjY5OWM5ODRjMDI1OTFmZjk4YmVi`
+Snapshot ID: `MCwxMTNiZjMzZmI3YjNkZmY0ZmQ2OTQ1NjEyNWMxYjM0ZTA4YjcxNjJh`

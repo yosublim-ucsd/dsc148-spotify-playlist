@@ -52,7 +52,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 173760,
       "name": "22",
       "url": "https://open.spotify.com/track/5JCqQhNm1yk64c8mumKn1a"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 265453,
       "name": "4runner",
       "url": "https://open.spotify.com/track/1RaF9xwakfao1RRknWyYB5"
@@ -632,7 +632,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 208120,
       "name": "Company",
       "url": "https://open.spotify.com/track/61uyGDPJ06MkxJtHgPmuyO"
@@ -1320,6 +1320,24 @@
       "duration_ms": 214866,
       "name": "Gyal You A Party Animal",
       "url": "https://open.spotify.com/track/7rj8aNwZqTvrUeLlAyNWtZ"
+    },
+    {
+      "album": {
+        "name": "Koningsdag 2022",
+        "url": "https://open.spotify.com/album/0Ag7wvNwmOYh8CugoVh6Jl"
+      },
+      "artists": [
+        {
+          "name": "Vieze Asbak",
+          "url": "https://open.spotify.com/artist/66FZq0wsY6770bc4O9Dlig"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131433,
+      "name": "Hardcore Will Never Die",
+      "url": "https://open.spotify.com/track/2EMMqD9aKPLx1DJ90JHnaJ"
     },
     {
       "album": {
@@ -2408,7 +2426,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 266344,
       "name": "My Barn My Rules",
       "url": "https://open.spotify.com/track/1bXW9UIZWmXtoSGXJvyyAm"
@@ -2712,7 +2730,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 139041,
       "name": "Outta Love",
       "url": "https://open.spotify.com/track/5dlnBde2bY8vxNDE4sUQbA"
@@ -2840,7 +2858,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 274320,
       "name": "Past Lives",
       "url": "https://open.spotify.com/track/1Dr5JexwA15wmKe7Y7maA9"
@@ -3116,7 +3134,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 214586,
       "name": "Radio",
       "url": "https://open.spotify.com/track/3QhfFRPkhPCR1RMJWV1gde"
@@ -3334,7 +3352,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 259627,
       "name": "Se Grita",
       "url": "https://open.spotify.com/track/55Q180Og5mkW2XeGPjB7yn"
@@ -3906,7 +3924,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 188411,
       "name": "Watching You (feat. Tory Lanez)",
       "url": "https://open.spotify.com/track/3zNwMVpQyijGbU9HibxAZP"

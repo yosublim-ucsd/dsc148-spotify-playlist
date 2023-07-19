@@ -481,6 +481,36 @@
     },
     {
       "album": {
+        "name": "Barrio",
+        "url": "https://open.spotify.com/album/1JFOBnADmbdY7CKxYqRAKx"
+      },
+      "artists": [
+        {
+          "name": "Cheb Bilal",
+          "url": "https://open.spotify.com/artist/59N7N5tX53jyPhAmsRi4or"
+        },
+        {
+          "name": "Foufa Torino",
+          "url": "https://open.spotify.com/artist/5DAc1d8izRCmkzEP23NJGh"
+        },
+        {
+          "name": "Didine Canon 16",
+          "url": "https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF"
+        },
+        {
+          "name": "Kofs",
+          "url": "https://open.spotify.com/artist/5RaQ9nmVGoTye2SI76x3yw"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277365,
+      "name": "Barrio",
+      "url": "https://open.spotify.com/track/3fy5goGOStCVTzQFqEhBFR"
+    },
+    {
+      "album": {
         "name": "Bebe D\u2019amour",
         "url": "https://open.spotify.com/album/1iae8kQ4cp3lgl70jd5CUS"
       },
@@ -1870,7 +1900,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 197560,
       "name": "Mazal Mazal",
       "url": "https://open.spotify.com/track/2YSsSIVvoOtuXfbTUp3X71"

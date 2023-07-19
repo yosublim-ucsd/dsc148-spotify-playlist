@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Ozuna & Omah Lay",
-  "num_followers": 111336,
+  "num_followers": 111391,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOGY0NzdmODUwMjAyMWFmOGI5MmIyMDQ0NmM1MGUwZmRiYWRlYzNh",
+  "snapshot_id": "MCw4ODhkZDA5OTAwODJkMTY0ZjI1YjBjNGU5ZjZkZGNkY2Q3YTNiMzQw",
   "tracks": [
     {
       "added_at": "2023-07-14 04:00:00",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
+        "name": "Zendaya",
+        "url": "https://open.spotify.com/album/6UtvT0ykAvHbGIg940gNKF"
+      },
+      "artists": [
+        {
+          "name": "Cyril Kamer",
+          "url": "https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf"
+        }
+      ],
+      "duration_ms": 152542,
+      "name": "Zendaya",
+      "url": "https://open.spotify.com/track/7zZZjSsDfiiMeZHKO0WgiF"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
         "name": "Rotate",
         "url": "https://open.spotify.com/album/5FlP8dwJCTGLFk38tHDEiX"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 164081,
       "name": "Sempe - Remix",
       "url": "https://open.spotify.com/track/27aOnrAdyXMNTDInNoXcYj"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Zendaya",
-        "url": "https://open.spotify.com/album/6UtvT0ykAvHbGIg940gNKF"
-      },
-      "artists": [
-        {
-          "name": "Cyril Kamer",
-          "url": "https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf"
-        }
-      ],
-      "duration_ms": 152542,
-      "name": "Zendaya",
-      "url": "https://open.spotify.com/track/7zZZjSsDfiiMeZHKO0WgiF"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -663,26 +663,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Baila Kumi",
-        "url": "https://open.spotify.com/album/7Bpb7mSPr0iJE7MyHqeVav"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 206808,
-      "name": "Baila Kumi",
-      "url": "https://open.spotify.com/track/6MDegdCkEiUjE7ftt5GcPU"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "b\u00e1ilame en los besos (with Danny Ocean & Daramola)",
         "url": "https://open.spotify.com/album/42xtXqJiVEqAHLCXbKhSVX"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 207980,
       "name": "b\u00e1ilame en los besos (with Danny Ocean & Daramola)",
       "url": "https://open.spotify.com/track/2Ux9T8N2b0GRTOSfenwxlr"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Baila Kumi",
+        "url": "https://open.spotify.com/album/7Bpb7mSPr0iJE7MyHqeVav"
+      },
+      "artists": [
+        {
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 206808,
+      "name": "Baila Kumi",
+      "url": "https://open.spotify.com/track/6MDegdCkEiUjE7ftt5GcPU"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
+        "name": "Yoyo",
+        "url": "https://open.spotify.com/album/6kclTdKcY1qZxG0MiXEyZR"
+      },
+      "artists": [
+        {
+          "name": "El Gerard",
+          "url": "https://open.spotify.com/artist/6xGOuZE1ShpnIkO2JwHK0P"
+        }
+      ],
+      "duration_ms": 156850,
+      "name": "Yoyo",
+      "url": "https://open.spotify.com/track/6a9e8biVcbRP8dcaolJQbQ"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
         "name": "iluminada",
         "url": "https://open.spotify.com/album/50HmpTkK9ryM9PMnIRAOGr"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 186000,
       "name": "Sabi na Sabura",
       "url": "https://open.spotify.com/track/2Nq4ZaYNPniFCA1DOGJGLk"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Yoyo",
-        "url": "https://open.spotify.com/album/6kclTdKcY1qZxG0MiXEyZR"
-      },
-      "artists": [
-        {
-          "name": "El Gerard",
-          "url": "https://open.spotify.com/artist/6xGOuZE1ShpnIkO2JwHK0P"
-        }
-      ],
-      "duration_ms": 156850,
-      "name": "Yoyo",
-      "url": "https://open.spotify.com/track/6a9e8biVcbRP8dcaolJQbQ"
     },
     {
       "added_at": "2023-07-14 04:00:00",

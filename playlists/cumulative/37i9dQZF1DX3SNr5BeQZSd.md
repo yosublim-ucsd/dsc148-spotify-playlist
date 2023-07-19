@@ -4,7 +4,7 @@
 
 > Trending lofi beats from across the World Wide Web.
 
-153 songs - 6 hr 0 min
+154 songs - 6 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,8 +31,9 @@
 | [Ek Ladki Ko Dekha Toh Aisa Laga \- LoFi](https://open.spotify.com/track/43jB9FPXf9b9XS87zoqRkW) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Rochak Kohli](https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe) | [Lofi Chill Mix](https://open.spotify.com/album/08jWY4k9XmTk5msKl2COHc) | 2:38 | 2022-09-09 |  |
 | [Eternal Youth](https://open.spotify.com/track/0ytvsZOerGzUWfHXVT2Sgy) | [RŮDE](https://open.spotify.com/artist/4CWpoyuE7e9NvBkUSTmJfq) | [Eternal Youth](https://open.spotify.com/album/6STwjBCu3CTEViSxJChKlV) | 3:25 | 2022-09-09 |  |
 | [Fairy Fountain](https://open.spotify.com/track/7fD72waADOZymEpuQfbiDE) | [Mikel](https://open.spotify.com/artist/5MboRLcEpLbsshOx64OdA6), [GameChops](https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp) | [Zelda & Chill](https://open.spotify.com/album/3oNO1P0Qlr4oSlMA2MIj67) | 2:44 | 2022-09-09 |  |
+| [Falling Down](https://open.spotify.com/track/2tIo8XVR4pfI3EYzi1kTWT) | [Ayparia](https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r), [Percy](https://open.spotify.com/artist/5KJD39tFeCCTo3bXyQSnSb), [unxbected](https://open.spotify.com/artist/5Jv8vC2RoInNR3CsxANXhS), [Chappo](https://open.spotify.com/artist/3G7pRLSS9s5h09hdaluISz), [Liodré](https://open.spotify.com/artist/1iFnL18VjckiZ512wVFapI) | [Falling Down](https://open.spotify.com/album/41ZBuhcLt5p5bnp2vcDwPZ) | 1:36 | 2023-03-10 |  |
 | [falling down](https://open.spotify.com/track/7hFLiKigpVlcmFSryIEff8) | [Nohidea](https://open.spotify.com/artist/5b0XQwyoJBFd3MwL2YxEPO) | [Esuna](https://open.spotify.com/album/1QcMDjbzVWyju8NQaptAll) | 1:36 | 2023-03-10 | 2023-06-21 |
-| [falling down](https://open.spotify.com/track/39BjmE63Oum0jR2QpHYSJv) | [Nohidea](https://open.spotify.com/artist/5b0XQwyoJBFd3MwL2YxEPO) | [Esuna](https://open.spotify.com/album/2Axz58Fwff2SSeCsmjz1TH) | 1:36 | 2022-09-09 |  |
+| [falling down](https://open.spotify.com/track/39BjmE63Oum0jR2QpHYSJv) | [Nohidea](https://open.spotify.com/artist/5b0XQwyoJBFd3MwL2YxEPO) | [Esuna](https://open.spotify.com/album/2Axz58Fwff2SSeCsmjz1TH) | 1:36 | 2022-09-09 | 2023-07-19 |
 | [First Date](https://open.spotify.com/track/733hyyG8U8kxxebds98nc6) | [frad](https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL) | [First Date](https://open.spotify.com/album/1nU6zoYEGCPBe6qTjbxwYH) | 2:53 | 2022-09-09 |  |
 | [Flowers](https://open.spotify.com/track/5VnaOLeK1lKfULuNwet8ck) | [In Love With a Ghost](https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O), [Nori](https://open.spotify.com/artist/1ZVchQJoK0CP4PR7bgr2Lo) | [Let's Go](https://open.spotify.com/album/7A1vIevZg3nz7jOjbfNh6R) | 4:12 | 2022-09-09 |  |
 | [french inhale](https://open.spotify.com/track/0zNEiQuUejW9MZTY5bSDvx) | [\[bsd.u\]](https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk) | [Lighter](https://open.spotify.com/album/51b2EmDXX5Q3EnqT1YLHGQ) | 1:48 | 2022-11-11 | 2023-07-07 |

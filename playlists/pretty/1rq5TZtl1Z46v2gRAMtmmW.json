@@ -1,13 +1,33 @@
 {
   "description": "",
-  "num_followers": 28149,
+  "num_followers": 28155,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzQwNiwyZDcxNWE3MDU2NzAzZTA1OTk3ZGM2NTc4MjZmNGRkZWFiMGI0Njdk",
+  "snapshot_id": "MzQxMSw4NDYxNGNhNzkxM2EyNjU5MWI1Y2Y0YmM5ZjU2MjYwMGZlYjdiNGFk",
   "tracks": [
+    {
+      "added_at": "2023-07-18 16:19:25",
+      "album": {
+        "name": "You Knew",
+        "url": "https://open.spotify.com/album/4n3meu86cgj7FIwe0xvYKc"
+      },
+      "artists": [
+        {
+          "name": "R\u00f3is\u00edn Murphy",
+          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
+        },
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 436484,
+      "name": "You Knew",
+      "url": "https://open.spotify.com/track/3tYTLCvnS63hpobSK3tRsR"
+    },
     {
       "added_at": "2023-07-12 16:04:46",
       "album": {
@@ -101,6 +121,26 @@
       "url": "https://open.spotify.com/track/0pPOYxRMPT2puunY57ZFnH"
     },
     {
+      "added_at": "2023-07-18 15:48:01",
+      "album": {
+        "name": "Thinkin Of U",
+        "url": "https://open.spotify.com/album/4rS5b9Btr6I3JPhqVCO7BS"
+      },
+      "artists": [
+        {
+          "name": "Mona Yim",
+          "url": "https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv"
+        },
+        {
+          "name": "Memphis LK",
+          "url": "https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe"
+        }
+      ],
+      "duration_ms": 121682,
+      "name": "Thinkin Of U",
+      "url": "https://open.spotify.com/track/00jNEiTver5Y7bNOasESLa"
+    },
+    {
       "added_at": "2023-07-07 18:29:26",
       "album": {
         "name": "Now U Do",
@@ -119,22 +159,6 @@
       "duration_ms": 158882,
       "name": "Now U Do - Edit",
       "url": "https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF"
-    },
-    {
-      "added_at": "2023-07-13 09:35:49",
-      "album": {
-        "name": "Ordinary Love",
-        "url": "https://open.spotify.com/album/5NHYBRIZD2rHpQzs9rss0y"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 263349,
-      "name": "Ordinary Love",
-      "url": "https://open.spotify.com/track/7phe09VoYnIJ1X4AAWBYSu"
     },
     {
       "added_at": "2023-07-10 22:43:19",
@@ -691,22 +715,6 @@
       "duration_ms": 335383,
       "name": "Fold",
       "url": "https://open.spotify.com/track/3yaAqfGcXeC02j88iaoebG"
-    },
-    {
-      "added_at": "2022-11-17 19:43:21",
-      "album": {
-        "name": "Give It 2 Me",
-        "url": "https://open.spotify.com/album/5dWfeTqZw7wL8JR0KuKD33"
-      },
-      "artists": [
-        {
-          "name": "I. JORDAN",
-          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
-        }
-      ],
-      "duration_ms": 228066,
-      "name": "Give It 2 Me - Edit",
-      "url": "https://open.spotify.com/track/0mQUq0nuO4NOxkCElgp2Y9"
     }
   ],
   "unique_name": "Ninja Tune - New Releases",

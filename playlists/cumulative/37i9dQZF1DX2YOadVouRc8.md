@@ -4,7 +4,7 @@
 
 > Slow jams from West Africa that unwind and relax
 
-227 songs - 11 hr 35 min
+228 songs - 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,8 @@
 | [Sometimes \- Remix](https://open.spotify.com/track/6rDbIKxHWteL6TnhLtj634) | [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Sometimes \(Remix\)](https://open.spotify.com/album/0CP8QDMjNwtWkIcQ30P2pc) | 3:08 | 2022-06-09 | 2022-10-01 |
 | [SPACE COWBOY](https://open.spotify.com/track/5f68045DHI297ti1WI8qUr) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [SPACE COWBOY](https://open.spotify.com/album/6dWdz1zf7BXz9mtNW2tjHX) | 3:21 | 2023-03-03 | 2023-03-27 |
 | [Spell \- Remix](https://open.spotify.com/track/1rgpvUOxnI0Mno6OTsXTFh) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Spell \(Remix\)](https://open.spotify.com/album/1PkHJwwi8qhvfT7f5UDPfW) | 2:53 | 2023-03-17 |  |
-| [STAND ATTENTION](https://open.spotify.com/track/5oJXi8943xjgqoYUtdhiPS) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW) | [Osapa London](https://open.spotify.com/album/3n2FErZXaPynvMQcjaceCw) | 3:06 | 2023-07-14 |  |
+| [Stand Attention](https://open.spotify.com/track/2ff1ZzgSQdHDkD3dCKBiEm) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW) | [Osapa London](https://open.spotify.com/album/0GOFqam9eSaFZ3gVdQ7PP3) | 3:06 | 2023-07-14 |  |
+| [STAND ATTENTION](https://open.spotify.com/track/5oJXi8943xjgqoYUtdhiPS) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [King Perryy](https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW) | [Osapa London](https://open.spotify.com/album/3n2FErZXaPynvMQcjaceCw) | 3:06 | 2023-07-14 | 2023-07-19 |
 | [STAND FIRM](https://open.spotify.com/track/6RdiVqVhiAw0kknKupfjEV) | [99 PHACES](https://open.spotify.com/artist/2l1fCZcDvjN6Bvvea40p1p), [Freddie Gambini](https://open.spotify.com/artist/4fuRrfCxlAdAUEB0dkLlAg), [CozyPols](https://open.spotify.com/artist/6lAhQepj0Huol204o3M9rL), [Moffy](https://open.spotify.com/artist/3kimFDAjJ9z2uZuOhl4mK9) | [SO WE MADE A TAPE](https://open.spotify.com/album/0TvIfSAal3iru3cED1l0ng) | 2:33 | 2023-03-17 | 2023-03-31 |
 | [STAR PLAYER](https://open.spotify.com/track/0rwITaQrtUGTb4NwihJihM) | [Suté Iwar](https://open.spotify.com/artist/7MDpxR0Wzmqg7Ty7aJ77lu), [kadiata](https://open.spotify.com/artist/3fRPt5kKn2lETY48z6kigv) | [STAR PLAYER](https://open.spotify.com/album/14B8S82MKCRFcA702ontrD) | 3:34 | 2023-03-24 | 2023-04-27 |
 | [Start Me Up](https://open.spotify.com/track/6Ls2C5eTT6QC54FH2pYYnX) | [Not3s](https://open.spotify.com/artist/40NRiKuuhj1pgGYppptlBO) | [Start Me Up](https://open.spotify.com/album/5GZeyHEYLp13qFIJOyHVVJ) | 3:03 | 2023-06-22 |  |

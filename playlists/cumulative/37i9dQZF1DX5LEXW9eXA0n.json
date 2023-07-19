@@ -7699,6 +7699,28 @@
     },
     {
       "album": {
+        "name": "Life's still Good",
+        "url": "https://open.spotify.com/album/2E7fy0z18imBJEWYMfZWMi"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Boy",
+          "url": "https://open.spotify.com/artist/305pg6Bs6Mz9Tm2zK66psY"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197973,
+      "name": "It\u2019s you",
+      "url": "https://open.spotify.com/track/6UoFQyPJg4e1QSXumsGggx"
+    },
+    {
+      "album": {
         "name": ",and",
         "url": "https://open.spotify.com/album/5fJXjW9On6vPk1f58kMQNP"
       },
@@ -11878,6 +11900,24 @@
       "duration_ms": 225440,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/76KSPDz7KSs1DKchBCW3ys"
+    },
+    {
+      "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/2bXXaGKeEvYUghrCaNWCTF"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO+",
+          "url": "https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196933,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/253vMOP9LPVdYNgOqwAhAi"
     },
     {
       "album": {

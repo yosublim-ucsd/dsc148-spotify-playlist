@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,553 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,665 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 | 99 | [Pode Tentar](https://open.spotify.com/track/2vFjbIf5sKoXsXdBG2E9Xf) | [Maninho](https://open.spotify.com/artist/0c1Tiu4dJze8OTzxJ7Yowr) | [Pode Tentar](https://open.spotify.com/album/7tqfs2HS7LyVIKS6u8hTgS) | 2:35 |
 | 100 | [LOUCA](https://open.spotify.com/track/0FJpeAT75XI6LImeMhpdU3) | [MC Kevinho](https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi), [Mc Pedrinho](https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m) | [LOUCA](https://open.spotify.com/album/2sltTO7QbcvucXFetVbccJ) | 2:22 |
 
-Snapshot ID: `MCwxNDU1ZTBiYTM2NDkyM2E2ZDc3OTZjY2EzN2Q2ZmQzYWNjN2FkMThl`
+Snapshot ID: `MCw1ZGNmZTZlOWFmNTcyMTkxYmEyODRjN2Q0Yzk2N2QyMGMzNGY5ZjM2`

@@ -1,12 +1,12 @@
 {
   "description": "A playlist of Christian summer camp favorites, past and present.",
-  "num_followers": 7116,
+  "num_followers": 7142,
   "original_name": "Christian Summer Camp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTU1YWJiNzA4ZmU1ZDY0NWY3NjcyYzkwMWQ3MjM0ZDAwNGEzNWRm",
+  "snapshot_id": "MCw5ZTM0ZDg4OTcwZjM1Y2M2Y2JhYTgyOTJlN2RkZDc1ZmMwYTU1Nzcx",
   "tracks": [
     {
       "added_at": "2021-06-29 13:36:02",
@@ -311,18 +311,18 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Sunday School Songs",
-        "url": "https://open.spotify.com/album/4YSuzBvt9mppuiha44U2dX"
+        "name": "Don't Censor Me",
+        "url": "https://open.spotify.com/album/19QwRyfvFmQiIudO3x5m1C"
       },
       "artists": [
         {
-          "name": "Cedarmont Kids",
-          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
+          "name": "Audio Adrenaline",
+          "url": "https://open.spotify.com/artist/01PBXLThJADrhufsPS5tER"
         }
       ],
-      "duration_ms": 93786,
-      "name": "I've Got Peace Like A River",
-      "url": "https://open.spotify.com/track/2CuTb9Tks9eeAmjHGm5vAC"
+      "duration_ms": 211666,
+      "name": "Big House",
+      "url": "https://open.spotify.com/track/6j2rwn2MWg4VU9B1GEgqfs"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -343,18 +343,18 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Don't Censor Me",
-        "url": "https://open.spotify.com/album/19QwRyfvFmQiIudO3x5m1C"
+        "name": "Sunday School Songs",
+        "url": "https://open.spotify.com/album/4YSuzBvt9mppuiha44U2dX"
       },
       "artists": [
         {
-          "name": "Audio Adrenaline",
-          "url": "https://open.spotify.com/artist/01PBXLThJADrhufsPS5tER"
+          "name": "Cedarmont Kids",
+          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
         }
       ],
-      "duration_ms": 211666,
-      "name": "Big House",
-      "url": "https://open.spotify.com/track/6j2rwn2MWg4VU9B1GEgqfs"
+      "duration_ms": 93786,
+      "name": "I've Got Peace Like A River",
+      "url": "https://open.spotify.com/track/2CuTb9Tks9eeAmjHGm5vAC"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -499,18 +499,22 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Action Bible Songs",
-        "url": "https://open.spotify.com/album/6Xg4hDKUL9qvivx83Fhgsv"
+        "name": "Great Big God",
+        "url": "https://open.spotify.com/album/0Y36IFn8h2NS5afQZXpnTT"
       },
       "artists": [
         {
-          "name": "Cedarmont Kids",
-          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
+          "name": "Vineyard Worship",
+          "url": "https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL"
+        },
+        {
+          "name": "Vineyard Kids",
+          "url": "https://open.spotify.com/artist/2PwunoNd5k6WstyyC67xhH"
         }
       ],
-      "duration_ms": 127800,
-      "name": "Rise And Shine (Arky, Arky)",
-      "url": "https://open.spotify.com/track/2DjWrLnmKSWl6ri5EtzVNv"
+      "duration_ms": 171773,
+      "name": "Great Big God",
+      "url": "https://open.spotify.com/track/4vLiBeWve4L9llDzGdpWsM"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -535,22 +539,18 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Great Big God",
-        "url": "https://open.spotify.com/album/0Y36IFn8h2NS5afQZXpnTT"
+        "name": "Action Bible Songs",
+        "url": "https://open.spotify.com/album/6Xg4hDKUL9qvivx83Fhgsv"
       },
       "artists": [
         {
-          "name": "Vineyard Worship",
-          "url": "https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL"
-        },
-        {
-          "name": "Vineyard Kids",
-          "url": "https://open.spotify.com/artist/2PwunoNd5k6WstyyC67xhH"
+          "name": "Cedarmont Kids",
+          "url": "https://open.spotify.com/artist/0MCU2OpgnSB7rm5UPUMHgt"
         }
       ],
-      "duration_ms": 171773,
-      "name": "Great Big God",
-      "url": "https://open.spotify.com/track/4vLiBeWve4L9llDzGdpWsM"
+      "duration_ms": 127800,
+      "name": "Rise And Shine (Arky, Arky)",
+      "url": "https://open.spotify.com/track/2DjWrLnmKSWl6ri5EtzVNv"
     },
     {
       "added_at": "2021-06-29 13:36:02",

@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 49373,
+  "num_followers": 49449,
   "original_name": "Hardcore Rage 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZTgyZWZmNTA0ZDdmNmZhNjgwNzY0YjQwOWMyZjJiYzBiNTE5OTEy",
+  "snapshot_id": "MCwwZDMzYTRjNTE3NjViZGNmNjg0ZDkyNjQ4MjY5YzVhNDU1MTU0ZjI1",
   "tracks": [
     {
       "added_at": "2023-07-13 22:00:00",
@@ -155,18 +155,18 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Feed Your Soul",
-        "url": "https://open.spotify.com/album/5VjPS4lmtkEC5VY08cIloC"
+        "name": "Hard Knock Life",
+        "url": "https://open.spotify.com/album/0pbwFymA94rgfOGDEcRdPZ"
       },
       "artists": [
         {
-          "name": "Bloodlust",
-          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
+          "name": "Gunz For Hire",
+          "url": "https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW"
         }
       ],
-      "duration_ms": 193500,
-      "name": "Feed Your Soul",
-      "url": "https://open.spotify.com/track/7mTyKvhmh3SiW0uOuqzRPZ"
+      "duration_ms": 215684,
+      "name": "Hard Knock Life",
+      "url": "https://open.spotify.com/track/3aD91A4Lk9uGAcyk3fhYsW"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -211,18 +211,18 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Hard Knock Life",
-        "url": "https://open.spotify.com/album/0pbwFymA94rgfOGDEcRdPZ"
+        "name": "Feed Your Soul",
+        "url": "https://open.spotify.com/album/5VjPS4lmtkEC5VY08cIloC"
       },
       "artists": [
         {
-          "name": "Gunz For Hire",
-          "url": "https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW"
+          "name": "Bloodlust",
+          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
         }
       ],
-      "duration_ms": 215684,
-      "name": "Hard Knock Life",
-      "url": "https://open.spotify.com/track/3aD91A4Lk9uGAcyk3fhYsW"
+      "duration_ms": 193500,
+      "name": "Feed Your Soul",
+      "url": "https://open.spotify.com/track/7mTyKvhmh3SiW0uOuqzRPZ"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -331,22 +331,18 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Cryexgenic",
-        "url": "https://open.spotify.com/album/1wVCfLLSlUP2zprjVCYKR9"
+        "name": "Broken Inside",
+        "url": "https://open.spotify.com/album/07ibnMCRSY45wLqlWETuW8"
       },
       "artists": [
         {
-          "name": "Cryex",
-          "url": "https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b"
-        },
-        {
-          "name": "Cryogenic",
-          "url": "https://open.spotify.com/artist/3JkD7HM6gEzgOMm9kwzunN"
+          "name": "Namara",
+          "url": "https://open.spotify.com/artist/50PTSnRJgyVGs9O6Kj9Jd1"
         }
       ],
-      "duration_ms": 223215,
-      "name": "Cryexgenic",
-      "url": "https://open.spotify.com/track/1UACIXnIw1AVHyodV4wbhv"
+      "duration_ms": 205339,
+      "name": "Broken Inside",
+      "url": "https://open.spotify.com/track/6LvC4nm62BQGESBPhwgpgg"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -371,18 +367,22 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Broken Inside",
-        "url": "https://open.spotify.com/album/07ibnMCRSY45wLqlWETuW8"
+        "name": "Cryexgenic",
+        "url": "https://open.spotify.com/album/1wVCfLLSlUP2zprjVCYKR9"
       },
       "artists": [
         {
-          "name": "Namara",
-          "url": "https://open.spotify.com/artist/50PTSnRJgyVGs9O6Kj9Jd1"
+          "name": "Cryex",
+          "url": "https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b"
+        },
+        {
+          "name": "Cryogenic",
+          "url": "https://open.spotify.com/artist/3JkD7HM6gEzgOMm9kwzunN"
         }
       ],
-      "duration_ms": 205339,
-      "name": "Broken Inside",
-      "url": "https://open.spotify.com/track/6LvC4nm62BQGESBPhwgpgg"
+      "duration_ms": 223215,
+      "name": "Cryexgenic",
+      "url": "https://open.spotify.com/track/1UACIXnIw1AVHyodV4wbhv"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -423,26 +423,6 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Go Insane",
-        "url": "https://open.spotify.com/album/4R8s9MjRlSZvddk9uleGeG"
-      },
-      "artists": [
-        {
-          "name": "Anime",
-          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
-        },
-        {
-          "name": "Broken Minds",
-          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Go Insane",
-      "url": "https://open.spotify.com/track/1oe3wAz4XvMtn6nFoldM1w"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
         "name": "Choose Life",
         "url": "https://open.spotify.com/album/78oFO3EBoHwZEyyzqMJu9n"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 188210,
       "name": "Choose Life",
       "url": "https://open.spotify.com/track/2EHSBfC2epl3BXYR2uYrFd"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "Go Insane",
+        "url": "https://open.spotify.com/album/4R8s9MjRlSZvddk9uleGeG"
+      },
+      "artists": [
+        {
+          "name": "Anime",
+          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
+        },
+        {
+          "name": "Broken Minds",
+          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Go Insane",
+      "url": "https://open.spotify.com/track/1oe3wAz4XvMtn6nFoldM1w"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -835,26 +835,6 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Psychopath",
-        "url": "https://open.spotify.com/album/1lDlO2niOnrZPbzGwMez5e"
-      },
-      "artists": [
-        {
-          "name": "Tha Playah",
-          "url": "https://open.spotify.com/artist/6MUXMQLSPFynFBwF2Qz2CU"
-        },
-        {
-          "name": "Alee",
-          "url": "https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9"
-        }
-      ],
-      "duration_ms": 217411,
-      "name": "Psychopath",
-      "url": "https://open.spotify.com/track/5BQxtpXiJFMCqjKFklX7xo"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
         "name": "Burn MF",
         "url": "https://open.spotify.com/album/3xQTtEFddnUR8jjHR36RUh"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 183000,
       "name": "Burn MF",
       "url": "https://open.spotify.com/track/2r6w2d3ehFw7BZ5yDLcroq"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "Psychopath",
+        "url": "https://open.spotify.com/album/1lDlO2niOnrZPbzGwMez5e"
+      },
+      "artists": [
+        {
+          "name": "Tha Playah",
+          "url": "https://open.spotify.com/artist/6MUXMQLSPFynFBwF2Qz2CU"
+        },
+        {
+          "name": "Alee",
+          "url": "https://open.spotify.com/artist/07E7avQ9K8W8Gr6BCx8aU9"
+        }
+      ],
+      "duration_ms": 217411,
+      "name": "Psychopath",
+      "url": "https://open.spotify.com/track/5BQxtpXiJFMCqjKFklX7xo"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Blow Up",
-        "url": "https://open.spotify.com/album/6m5sNwYESSevGMnqRJHImH"
-      },
-      "artists": [
-        {
-          "name": "Anime",
-          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
-        }
-      ],
-      "duration_ms": 204439,
-      "name": "Blow Up",
-      "url": "https://open.spotify.com/track/3GfmmpnJql1SqFBmJNPYVd"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
         "name": "I'm A Raver",
         "url": "https://open.spotify.com/album/6ZGaPeQGX4vnaSu5bOHzEu"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 205664,
       "name": "I'm A Raver",
       "url": "https://open.spotify.com/track/1zdCuA3OezPXkK2raYt0BY"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "Blow Up",
+        "url": "https://open.spotify.com/album/6m5sNwYESSevGMnqRJHImH"
+      },
+      "artists": [
+        {
+          "name": "Anime",
+          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
+        }
+      ],
+      "duration_ms": 204439,
+      "name": "Blow Up",
+      "url": "https://open.spotify.com/track/3GfmmpnJql1SqFBmJNPYVd"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -1143,26 +1143,6 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Attack",
-        "url": "https://open.spotify.com/album/3bbvFPegYo9XTjaaWQXZ9i"
-      },
-      "artists": [
-        {
-          "name": "Paul Elstak",
-          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
-        },
-        {
-          "name": "Psycho Boys Club",
-          "url": "https://open.spotify.com/artist/17NhTFMWDCB9nU8eDbRWiu"
-        }
-      ],
-      "duration_ms": 194117,
-      "name": "Attack",
-      "url": "https://open.spotify.com/track/5cfYYPJJku0DQI22bKJ2og"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
         "name": "Fvcking One",
         "url": "https://open.spotify.com/album/26DXvklEuDelfT7fLjyRCj"
       },
@@ -1183,6 +1163,26 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
+        "name": "Attack",
+        "url": "https://open.spotify.com/album/3bbvFPegYo9XTjaaWQXZ9i"
+      },
+      "artists": [
+        {
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
+        },
+        {
+          "name": "Psycho Boys Club",
+          "url": "https://open.spotify.com/artist/17NhTFMWDCB9nU8eDbRWiu"
+        }
+      ],
+      "duration_ms": 194117,
+      "name": "Attack",
+      "url": "https://open.spotify.com/track/5cfYYPJJku0DQI22bKJ2og"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
         "name": "Shadows in the Dark",
         "url": "https://open.spotify.com/album/39LODywZvMhYTjECv7poxU"
       },
@@ -1195,22 +1195,6 @@
       "duration_ms": 288398,
       "name": "Shadows in the Dark",
       "url": "https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
-        "name": "Force Of Salvation (Official Masters of Hardcore Austria 2023 Anthem)",
-        "url": "https://open.spotify.com/album/3frDN1XwkMYXIB504jjoKY"
-      },
-      "artists": [
-        {
-          "name": "GridKiller",
-          "url": "https://open.spotify.com/artist/7njBiH1Uy0qNA8VvPPtEG7"
-        }
-      ],
-      "duration_ms": 322666,
-      "name": "Force Of Salvation - Official Masters of Hardcore Austria 2023 Anthem",
-      "url": "https://open.spotify.com/track/56tEduBCyWPZ3gVAWONJCu"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -1231,6 +1215,22 @@
       "duration_ms": 138500,
       "name": "Outta Here",
       "url": "https://open.spotify.com/track/5rNTq1vr12Iat2C34SuJ35"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "Force Of Salvation (Official Masters of Hardcore Austria 2023 Anthem)",
+        "url": "https://open.spotify.com/album/3frDN1XwkMYXIB504jjoKY"
+      },
+      "artists": [
+        {
+          "name": "GridKiller",
+          "url": "https://open.spotify.com/artist/7njBiH1Uy0qNA8VvPPtEG7"
+        }
+      ],
+      "duration_ms": 322666,
+      "name": "Force Of Salvation - Official Masters of Hardcore Austria 2023 Anthem",
+      "url": "https://open.spotify.com/track/56tEduBCyWPZ3gVAWONJCu"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Ride With Me",
-        "url": "https://open.spotify.com/album/6lMQKunBm9GKk6QQfhRJQ4"
-      },
-      "artists": [
-        {
-          "name": "Vandal!sm",
-          "url": "https://open.spotify.com/artist/34gGWxDix1DnDFwFWg4tn4"
-        }
-      ],
-      "duration_ms": 237818,
-      "name": "Ride With Me",
-      "url": "https://open.spotify.com/track/6QIvDOYiy1DiayGxMaPK6C"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
         "name": "Go Wild Now",
         "url": "https://open.spotify.com/album/5SyasrNQvjgKmVuEPuyrH1"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 173100,
       "name": "Go Wild Now",
       "url": "https://open.spotify.com/track/4bLBf2HAZj2X8ENelaqWnW"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "Ride With Me",
+        "url": "https://open.spotify.com/album/6lMQKunBm9GKk6QQfhRJQ4"
+      },
+      "artists": [
+        {
+          "name": "Vandal!sm",
+          "url": "https://open.spotify.com/artist/34gGWxDix1DnDFwFWg4tn4"
+        }
+      ],
+      "duration_ms": 237818,
+      "name": "Ride With Me",
+      "url": "https://open.spotify.com/track/6QIvDOYiy1DiayGxMaPK6C"
     },
     {
       "added_at": "2023-07-13 22:00:00",

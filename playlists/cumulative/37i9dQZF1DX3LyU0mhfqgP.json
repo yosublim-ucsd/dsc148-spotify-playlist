@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest songs from LGBTQIA+ artists. Cover: MNEK",
+  "description": "The hottest songs from LGBTQIA+ artists. Cover: ANOHNI",
   "name": "GLOW",
   "tracks": [
     {
@@ -270,6 +270,24 @@
       "duration_ms": 255389,
       "name": "A Girl Like This",
       "url": "https://open.spotify.com/track/69uEwXoA8PmBMvJy5Rrs8O"
+    },
+    {
+      "album": {
+        "name": "Supermodels",
+        "url": "https://open.spotify.com/album/2YszPdalHkFnXxqMPrHlhm"
+      },
+      "artists": [
+        {
+          "name": "Claud",
+          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165916,
+      "name": "A Good Thing",
+      "url": "https://open.spotify.com/track/520Ri2FiyuSI9qw1XP0CA3"
     },
     {
       "album": {
@@ -1578,6 +1596,24 @@
       "duration_ms": 212160,
       "name": "Bella Don",
       "url": "https://open.spotify.com/track/5mFyLCpEEKACqpmohDNK1M"
+    },
+    {
+      "album": {
+        "name": "Better (Edit)",
+        "url": "https://open.spotify.com/album/6R34iy63JPKrzmIUxCHnW7"
+      },
+      "artists": [
+        {
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211800,
+      "name": "Better - Edit",
+      "url": "https://open.spotify.com/track/6NIrjH865NExM8juniJlLY"
     },
     {
       "album": {
@@ -3324,7 +3360,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 131050,
       "name": "Cuntelectual",
       "url": "https://open.spotify.com/track/39UIGfLXmKgetqGJRvYpGF"
@@ -4154,7 +4190,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 184803,
       "name": "ENAMORADODE",
       "url": "https://open.spotify.com/track/5hyK4QP2bFAZbmySwCnQLO"
@@ -6134,7 +6170,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 156696,
       "name": "Hello Hello",
       "url": "https://open.spotify.com/track/3ASVJOZFgksyINCAEKBHaA"
@@ -13375,6 +13411,24 @@
     },
     {
       "album": {
+        "name": "Talk Too Much",
+        "url": "https://open.spotify.com/album/5rsy1T9egnzYvl4wpfyXPw"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196679,
+      "name": "Talk Too Much",
+      "url": "https://open.spotify.com/track/7haim7EewbN5RnByO5GtWV"
+    },
+    {
+      "album": {
         "name": "Traviarca",
         "url": "https://open.spotify.com/album/0snvLqi4RB3CSATwu9M51v"
       },
@@ -14462,7 +14516,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 141600,
       "name": "Vet Diamante",
       "url": "https://open.spotify.com/track/68ixoIiKpbBXvJISsQUqAa"
@@ -14828,6 +14882,24 @@
       "duration_ms": 163043,
       "name": "What You Do To Me",
       "url": "https://open.spotify.com/track/4oG6Y8TNNMGaXqnAPJiQYz"
+    },
+    {
+      "album": {
+        "name": "Where Do All The Good Kids Go?",
+        "url": "https://open.spotify.com/album/0joBCSKi5bl55YSbvMSVd3"
+      },
+      "artists": [
+        {
+          "name": "Maddie Zahm",
+          "url": "https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196053,
+      "name": "Where Do All The Good Kids Go?",
+      "url": "https://open.spotify.com/track/3QmlsVA1wJJv5w8GqVxVdw"
     },
     {
       "album": {

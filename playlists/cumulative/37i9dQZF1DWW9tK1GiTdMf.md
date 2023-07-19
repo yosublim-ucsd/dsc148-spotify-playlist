@@ -4,7 +4,7 @@
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°）╯︵ ┻━┻  Simone Panetti in cover!
 
-576 songs - 1 day 2 hr 25 min
+577 songs - 1 day 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -430,6 +430,7 @@
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2022-10-27 | 2023-01-13 |
 | [Rossa](https://open.spotify.com/track/3piSmKNs61q6u8McTiIxJS) | [K beezy 28](https://open.spotify.com/artist/5SbWJnRRbZQU024VlOPWly) | [Rossa](https://open.spotify.com/album/7aqLZcG6sIb8AVIYjEdvS0) | 3:40 | 2022-12-01 | 2022-12-16 |
 | [Rosso](https://open.spotify.com/track/1dCoLitotcRABlWlOOZcTs) | [Generic Animal](https://open.spotify.com/artist/6758RYtQUoFGOvE0jUxQvK) | [Rosso](https://open.spotify.com/album/7wl8O8kzkACKcaiWrmXKEV) | 3:35 | 2023-03-16 | 2023-05-12 |
+| [ROUGAROU \(i've become the monster\)](https://open.spotify.com/track/1GAXnQAb4GsTLBwszE0he4) | [DUCKBOY](https://open.spotify.com/artist/7LcRxOTDhbQ19ulgIVOWpu) | [tragic love songs to study to \(vol\. 5\)](https://open.spotify.com/album/5t1WhjJFLi5avb8t68AHCf) | 3:22 | 2023-07-18 |  |
 | [Running Out Of Time](https://open.spotify.com/track/5NRtdsFFlmyE8qDMgS08PE) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:12 | 2023-02-16 | 2023-02-24 |
 | [Russian roulette](https://open.spotify.com/track/78HTk9Utv4Kh5C0QIUv2q8) | [Barkee Bay](https://open.spotify.com/artist/72KRmtW8IrP6D8FwG8Boi8) | [Russian roulette](https://open.spotify.com/album/1GRYhGhcPDLHnzmwY43uQq) | 4:10 | 2023-04-13 | 2023-05-19 |
 | [SABBIE MOBILI](https://open.spotify.com/track/6SOtdbnV35PwIVLpFhMfnu) | [Daria Huber](https://open.spotify.com/artist/0K0IoIF0ARUBsCeRrIs6iw) | [SABBIE MOBILI](https://open.spotify.com/album/17d7difDoVQ3pjgbURerM0) | 2:21 | 2022-05-06 | 2022-06-03 |

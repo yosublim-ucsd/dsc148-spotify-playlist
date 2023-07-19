@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EFbXknq73d.md) - [plain]
 
 > Hand\-picked tasty jams\. Cover: Grateful Dead
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,957 likes - 75 songs - 10 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,104 likes - 75 songs - 10 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EFbXknq73d.md) - [plain]
 | 27 | [Bouncing Around the Room \- Live Version \- Clifford Ball, 1994](https://open.spotify.com/track/639B1pi6YZJvLMA1DAzYTo) | [Phish](https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz) | [A Live One](https://open.spotify.com/album/4UTjy2dLYT8i8ItyboijlW) | 4:08 |
 | 28 | [Bubblehouse](https://open.spotify.com/track/2YtX5xh7y5FoQywRmsGCeK) | [Medeski, Martin & Wood](https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw) | [Shack\-man](https://open.spotify.com/album/7zGVnFiNNe6rvoPutZPCBe) | 4:31 |
 | 29 | [Tennessee Jed \- 2001 Remaster](https://open.spotify.com/track/1ae0SQx8MpBXo6QsmrpsEj) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Europe '72 \(Live; 2001 Remaster\)](https://open.spotify.com/album/09fKoRSQnIP9SAWKSZkWa9) | 7:10 |
-| 30 | [West L.A\. Fade Away](https://open.spotify.com/track/3er5f95wRt5vE2JSHqaAcb) | [Keller Williams](https://open.spotify.com/artist/5de5W8sgXIMq9dgMR0Wml0) | [Funk](https://open.spotify.com/album/2qKwJ4uMaAjz7AUSe5cX3X) | 6:19 |
-| 31 | [Gilbert's Groove \(feat\. Neal Casal\)](https://open.spotify.com/track/2cFNOtx58YL3FmIdL29tOl) | [Circles Around The Sun](https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH), [Neal Casal](https://open.spotify.com/artist/0rZpNCCYOe06am554MyKRu) | [Interludes For The Dead \(feat\. Neal Casal\)](https://open.spotify.com/album/2BsLSSEQrjxOBCdNLyqzfh) | 12:20 |
+| 30 | [Gilbert's Groove \(feat\. Neal Casal\)](https://open.spotify.com/track/2cFNOtx58YL3FmIdL29tOl) | [Circles Around The Sun](https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH), [Neal Casal](https://open.spotify.com/artist/0rZpNCCYOe06am554MyKRu) | [Interludes For The Dead \(feat\. Neal Casal\)](https://open.spotify.com/album/2BsLSSEQrjxOBCdNLyqzfh) | 12:20 |
+| 31 | [West L.A\. Fade Away](https://open.spotify.com/track/3er5f95wRt5vE2JSHqaAcb) | [Keller Williams](https://open.spotify.com/artist/5de5W8sgXIMq9dgMR0Wml0) | [Funk](https://open.spotify.com/album/2qKwJ4uMaAjz7AUSe5cX3X) | 6:19 |
 | 32 | [Keep On Growing \- Live](https://open.spotify.com/track/1vkMtRDV3rtqwjM9KH9WIy) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Live From The Fox Oakland](https://open.spotify.com/album/5N08TYY1GFOsd8apSoIeZ0) | 10:50 |
 | 33 | [Thorazine Shuffle](https://open.spotify.com/track/1nkMih9NE9Ha0hH9aTGYCI) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Dose](https://open.spotify.com/album/6mHPsYzCmBV7nMEsPnDkj6) | 6:47 |
 | 34 | [Greatest Story Ever Told](https://open.spotify.com/track/3vlBIfY2xbdZXfJcS5m51S) | [Bob Weir](https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC) | [Ace](https://open.spotify.com/album/5T5wlwOxqtPVIqxoY9MjzT) | 3:43 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EFbXknq73d.md) - [plain]
 | 74 | [Tomorrow Might As Well Be Today \- Live](https://open.spotify.com/track/6QL1b46J3pHl4MfUUjludg) | [Chris Forsyth](https://open.spotify.com/artist/2WEGGlb0R1izEtTE5YTaTc), [Garcia Peoples](https://open.spotify.com/artist/4UDV6e9Xh5m3yQeGsrnWLP) | [Peoples Motel Band](https://open.spotify.com/album/3nMKWIIpLZs2Hzkz9yhF3d) | 4:00 |
 | 75 | [Less Than Five Miles Away \(Live From An Evening With Dawes\)](https://open.spotify.com/track/5LjlDL2G46kQrAcofckZgn) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [We're All Gonna Live](https://open.spotify.com/album/6EcOXh4NhGg7oqwStcQn1a) | 8:11 |
 
-Snapshot ID: `MCwwYTI5NTMxNTc4MGEyMjBiNmFhNGI1NzM2MmQyMDFmOTc2YzU5ZmI5`
+Snapshot ID: `MCw5NDdmYjcxYTE0ZTYyODJhYzRkNWFlZmEzOGZjZDA3NGUyYjU0OGQx`

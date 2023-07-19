@@ -4,7 +4,7 @@
 
 > A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.
 
-371 songs - 1 day 16 hr 56 min
+372 songs - 1 day 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [Izivunguvungu \- Chloé Remix](https://open.spotify.com/track/4smPVWbEXf5aq92BcNevXu) | [Urban Village](https://open.spotify.com/artist/60UHsALAJRgTJdAxZGAZDg), [Chloé \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Izivunguvungu \(Chloé Remix\)](https://open.spotify.com/album/4WMhthWOI1jzCIuRoP0jwB) | 6:24 | 2020-07-24 | 2023-06-29 |
 | [Izvor](https://open.spotify.com/track/4z7tWC9yzgcCD23hY8uQaV) | [Tebra](https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P) | [Izvor](https://open.spotify.com/album/7zfqQQ0mzEutNin8LTuW71) | 6:40 | 2022-09-30 | 2023-06-25 |
 | [Jangal](https://open.spotify.com/track/3IdFbXj1lsIXJmvESPmFFL) | [Mikah](https://open.spotify.com/artist/3jPTUhclHgDcj0RdPcWaqJ) | [Jangal EP](https://open.spotify.com/album/6LnZlCh9FixolLKG28HGLY) | 6:48 | 2020-01-01 | 2020-01-04 |
-| [Jendayi](https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp) | [Anber](https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc) | [Jendayi EP](https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks) | 6:31 | 2020-08-20 |  |
+| [Jendayi](https://open.spotify.com/track/0bdNsriJUCQUX4w1LbMKxp) | [Anber](https://open.spotify.com/artist/1d4RYfh3ZkMNamEAST8JLc) | [Jendayi EP](https://open.spotify.com/album/6qoVUCC8JnvxUbsox7MGks) | 6:31 | 2020-08-20 | 2023-07-19 |
 | [Kabsa](https://open.spotify.com/track/5QAnwHfL5QsI8fcUzvlBBJ) | [Auntie Flo](https://open.spotify.com/artist/6XYOjW5wxf5V9hwAR58o4d) | [Kabsa](https://open.spotify.com/album/3rsx9zNkL5gBM6njN11P0n) | 5:21 | 2019-08-02\* | 2021-07-06 |
 | [Kairosmind](https://open.spotify.com/track/0wmsIEMUdPD7NUfS5LzsJ3) | [Geju](https://open.spotify.com/artist/33AlE9XaZmnAtfWFhjNL5e), [Waxwood](https://open.spotify.com/artist/6Yu6Z8MkOoeLpHtTU0IE3c) | [Water Elements](https://open.spotify.com/album/2pSt4WkO1z5pyNM673d9g9) | 8:34 | 2019-08-02\* | 2021-01-18 |
 | [Kali Koi](https://open.spotify.com/track/50qzFvOVwaTmsmF8fxq1fF) | [Drega](https://open.spotify.com/artist/1Gj6W2RfGpl6ebJGle93VG) | [Kali Koi](https://open.spotify.com/album/0liy6uyX169BMp5UpEqVST) | 5:44 | 2020-02-11 | 2020-03-05 |
@@ -200,6 +200,7 @@
 | [Lingala \- Original Mix](https://open.spotify.com/track/5GvQL9DAEAsHzKDz32boXW) | [Lee Burridge](https://open.spotify.com/artist/0334oJHhRSKJRHKpE9i62h), [Lost Desert](https://open.spotify.com/artist/6N2bCZFo999TqhtdPTnLyq), [Junior](https://open.spotify.com/artist/3gW7PKtk41S7b9xqHIFeVA) | [Lingala](https://open.spotify.com/album/4R2egWth0idZxRYWBJ9DMs) | 9:58 | 2019-08-02\* | 2019-09-20 |
 | [Lit](https://open.spotify.com/track/057dSG3J2yUkg6qvCpLEWJ) | [Hezarfen](https://open.spotify.com/artist/0dPdqLZLFoyW8btQ3Z9vZx) | [Lit](https://open.spotify.com/album/7J7YPXiCDdTaKHdfFSPXSP) | 6:00 | 2022-11-25 | 2023-02-01 |
 | [Losing My Impatience \- Alvaro Suarez Remix](https://open.spotify.com/track/0OuXJfHcnyjiWraFGw0Gpw) | [Persian Electro Orchestra](https://open.spotify.com/artist/0a8cZDsBGT9Oj1OJqs05Qz), [Alvaro Suarez](https://open.spotify.com/artist/6zfwxQQjoCU9uSsrwckyZv) | [Losing My Impatience \(Alvaro Suarez Remix\)](https://open.spotify.com/album/62C8T1Rp36AFG0tr5Rx3iO) | 6:42 | 2021-02-11 | 2021-03-19 |
+| [Lost Tales](https://open.spotify.com/track/3UB5dEBt70jOj7xNDARvar) | [Lassjo](https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth) | [Facets](https://open.spotify.com/album/5hw2DVYE662RU72H2Fy4kM) | 4:46 | 2023-06-30 |  |
 | [Lotus \- Radio Edit](https://open.spotify.com/track/3tx2LWG7qvk51C8A6d3qdg) | [Slow Nomaden](https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K) | [Lotus \(Radio Edit\)](https://open.spotify.com/album/4T9DDQJLabUvrjfAucsNjg) | 3:43 | 2020-08-08 | 2023-03-25 |
 | [Love And Hate](https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Love And Hate](https://open.spotify.com/album/1NEZ9FtarC6DX5hbnC7H1c) | 4:27 | 2023-04-20 |  |
 | [Lutar \- Chronical Deep Clap Back](https://open.spotify.com/track/3O1VFIfue3HJskTTPUou7g) | [Hypaphonik](https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP), [Offkey](https://open.spotify.com/artist/6ufQp4V8xUqJphvbke0j97) | [Lutar](https://open.spotify.com/album/5bKM4dE8NKTYCg6bvWTYAl) | 7:22 | 2022-04-04 | 2022-04-21 |

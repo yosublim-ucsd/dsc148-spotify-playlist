@@ -4,7 +4,7 @@
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG?si=mLn5w4yJTKSWv\-tW5T4p4w">Riley Clemmons</a>
 
-3,950 songs - 11 day 1 hr 15 min
+3,951 songs - 11 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1517,7 +1517,8 @@
 | [I Am Witness](https://open.spotify.com/track/2yml4lRz4yBA2I4wzrOjpi) | [Alexa Sunshine Rose](https://open.spotify.com/artist/1EicV0pIrtOsnszBgno6SB), [Insingizi](https://open.spotify.com/artist/6FcmgYayMAYjPOeH3YRc2w), [Marya Stark](https://open.spotify.com/artist/2lntMaVHOro0wJYMYHco9d) | [I Am Witness](https://open.spotify.com/album/5B1ig971BkcOwaRMyDtEzq) | 3:41 | 2023-07-14 |  |
 | [I Answered](https://open.spotify.com/track/7HjWd7w6HWKERYGDsLRA8Q) | [Efua B](https://open.spotify.com/artist/2riRmRvp7gZlWqkNUWGJjF), [Becca Folkes](https://open.spotify.com/artist/6gNm3KPTOr2uiejwae6rHb) | [I Answered](https://open.spotify.com/album/6wQYiITqb3LLzfpyGYbwr2) | 2:42 | 2023-05-26 | 2023-06-10 |
 | [I Believe](https://open.spotify.com/track/4CG0XPNBUUaHnLt7JBZX5z) | [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6) | [Introspection](https://open.spotify.com/album/1ZMlfIdC2hbPPthzqe4dnR) | 2:58 | 2023-04-14 | 2023-04-22 |
-| [I Believe](https://open.spotify.com/track/0XlwlhLvtkFHTBLdKECNaK) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/4fOZdPNeiis8aa6o5jC4QS) | 5:02 | 2023-07-08 |  |
+| [I Believe](https://open.spotify.com/track/0XlwlhLvtkFHTBLdKECNaK) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/4fOZdPNeiis8aa6o5jC4QS) | 5:02 | 2023-07-08 | 2023-07-19 |
+| [I Believe](https://open.spotify.com/track/5Y6VqU5vb76dqASewlUm3L) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [I Believe](https://open.spotify.com/album/0MjPjh3R0oKhQgXVkeBagu) | 5:02 | 2023-07-14 |  |
 | [I Believe](https://open.spotify.com/track/07i9grlktadLuWDbfOwVTG) | [Point Of Grace](https://open.spotify.com/artist/5y1gFSVnE4DGxUxHeKrGk6), [Wes King](https://open.spotify.com/artist/0mv7taBJWmKVK7KVZs2Yep) | [I Believe](https://open.spotify.com/album/1Jx6RxYgQJX9pHBNLHhWMQ) | 3:11 | 2023-02-17 | 2023-02-25 |
 | [I Believe \- Live At Shepherd Church](https://open.spotify.com/track/1NPlveoW4PT55ifwkj8i8y) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [I Believe \(Live At Shepherd Church\)](https://open.spotify.com/album/55TjmmV2j8S0WFRnGWpt4q) | 4:46 | 2023-03-17 | 2023-03-25 |
 | [I Believe God](https://open.spotify.com/track/33VfUGMjszgfYoUT301B9F) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [I Believe God](https://open.spotify.com/album/33GxwGNiIBJX4uKSzzvPrG) | 4:56 | 2023-02-10 | 2023-02-25 |
@@ -2442,7 +2443,7 @@
 | [Not Forgotten](https://open.spotify.com/track/4qWKcYBCgtY1fhVkC6v9Lo) | [Be Amplified](https://open.spotify.com/artist/0M9z0hJwlhOvDLlMy4jE7W), [Anaysha Figueroa\-Cooper](https://open.spotify.com/artist/2ZM5AiydGQHpCdkkwS9dOB) | [Not Forgotten](https://open.spotify.com/album/0NQK05D18EsBmnCsPo4ynv) | 4:44 | 2022-04-15 | 2022-04-23 |
 | [Not Gonna Wait \- Live](https://open.spotify.com/track/7DifP5qD58ONBEs0Qy9vtu) | [Saddleback Worship](https://open.spotify.com/artist/3bYfSxyg0MnYn3KhZiR0nD) | [Not Gonna Wait \(Live\)](https://open.spotify.com/album/0x6LenMSZeFjRfLEZT1T3I) | 5:57 | 2022-09-16 | 2022-10-01 |
 | [Not Home Yet // Summer Sessions](https://open.spotify.com/track/0P4FJ0N1txPgSr2Ehd68np) | [The Gray Havens](https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC) | [Not Home Yet // Summer Sessions](https://open.spotify.com/album/4nYUVYkuycU7QXvBzztctO) | 3:29 | 2022-08-26 | 2022-09-10 |
-| [Not Like Mine](https://open.spotify.com/track/5m9MRKQR3A7eYTzwLQDfcg) | [The Rock Music](https://open.spotify.com/artist/0c8xYlEYETimOaLlGZcMVk) | [The Future Is Sure](https://open.spotify.com/album/4HL3RgFqjym2N7zLsOy18A) | 3:47 | 2023-07-14 |  |
+| [Not Like Mine](https://open.spotify.com/track/5m9MRKQR3A7eYTzwLQDfcg) | [The Rock Music](https://open.spotify.com/artist/0c8xYlEYETimOaLlGZcMVk), [Steele Croswhite](https://open.spotify.com/artist/1EqgZg4Y6LDJPlkbi7mWcF) | [The Future Is Sure](https://open.spotify.com/album/4HL3RgFqjym2N7zLsOy18A) | 3:47 | 2023-07-14 |  |
 | [Not Moved](https://open.spotify.com/track/6bvQPwpiGkvhwXq12f429q) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Not Moved](https://open.spotify.com/album/11WIHYBbynfg1VwUlmHshG) | 4:33 | 2022-05-27 | 2022-06-11 |
 | [Not My Jesus](https://open.spotify.com/track/0rmWRzZVloFBLK9vxXGT9C) | [Story Slaughter](https://open.spotify.com/artist/5xAkUnkKTboVog0nTDtGZY) | [Not My Jesus](https://open.spotify.com/album/0mhjMrfRmYQA8hyyfrIFfF) | 2:45 | 2023-06-24 | 2023-07-08 |
 | [Not Ready](https://open.spotify.com/track/6D048RKHsytV9beHsE0A5S) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Not Ready](https://open.spotify.com/album/5fxIWLwV8ugU5hvPkOJHcf) | 3:56 | 2022-05-27 | 2022-06-11 |

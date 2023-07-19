@@ -1,12 +1,12 @@
 {
   "description": "A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 - Possible Musics'.",
-  "num_followers": 15580,
+  "num_followers": 15595,
   "original_name": "Planetary Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZmQwNWVmMzJmZGYzNjJjNjUwY2YyZTM2NmIwOTFiMjhiOTU2MmYx",
+  "snapshot_id": "MCw1MDRhYjkzYTg2MDI4MmI1MjBhY2E1MmRiNjAyZTEyZDllZTU2Yzlh",
   "tracks": [
     {
       "added_at": "2021-10-20 18:30:26",
@@ -73,6 +73,22 @@
       "url": "https://open.spotify.com/track/3rkJH9BaiCWpRY718WTkBP"
     },
     {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Substrata + Man with a Movie Camera",
+        "url": "https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ"
+      },
+      "artists": [
+        {
+          "name": "Biosphere",
+          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
+        }
+      ],
+      "duration_ms": 251066,
+      "name": "Poa Alpina",
+      "url": "https://open.spotify.com/track/4K4kedXFAuW6gn8iwgGFTw"
+    },
+    {
       "added_at": "2022-12-21 06:00:00",
       "album": {
         "name": "Alaskan Dream",
@@ -95,22 +111,6 @@
       "duration_ms": 320965,
       "name": "Alaskan Dream",
       "url": "https://open.spotify.com/track/40VHrQeS00gz6vcGPoJuBA"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Substrata + Man with a Movie Camera",
-        "url": "https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ"
-      },
-      "artists": [
-        {
-          "name": "Biosphere",
-          "url": "https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr"
-        }
-      ],
-      "duration_ms": 251066,
-      "name": "Poa Alpina",
-      "url": "https://open.spotify.com/track/4K4kedXFAuW6gn8iwgGFTw"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -405,22 +405,6 @@
       "url": "https://open.spotify.com/track/7x1ct7s9fVqkIWwbah9NO1"
     },
     {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Fen",
-        "url": "https://open.spotify.com/album/0VcztgRrk8OU2PjCPfXpVk"
-      },
-      "artists": [
-        {
-          "name": "Wac\u0142aw Zimpel",
-          "url": "https://open.spotify.com/artist/124sGtDIjkbuOt1uDcZ2Lz"
-        }
-      ],
-      "duration_ms": 295500,
-      "name": "Fen",
-      "url": "https://open.spotify.com/track/7bJCb3xNp7R3hwo1HDWTYx"
-    },
-    {
       "added_at": "2022-01-14 00:06:38",
       "album": {
         "name": "Cabara\u00fa",
@@ -435,6 +419,22 @@
       "duration_ms": 392107,
       "name": "Cabara\u00fa",
       "url": "https://open.spotify.com/track/0DbDPy9K2mLuIBE6ai2XaU"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Fen",
+        "url": "https://open.spotify.com/album/0VcztgRrk8OU2PjCPfXpVk"
+      },
+      "artists": [
+        {
+          "name": "Wac\u0142aw Zimpel",
+          "url": "https://open.spotify.com/artist/124sGtDIjkbuOt1uDcZ2Lz"
+        }
+      ],
+      "duration_ms": 295500,
+      "name": "Fen",
+      "url": "https://open.spotify.com/track/7bJCb3xNp7R3hwo1HDWTYx"
     },
     {
       "added_at": "2021-11-25 22:14:03",
@@ -781,20 +781,20 @@
       "url": "https://open.spotify.com/track/6zH4JhuFvC8Fe6DSGv61cC"
     },
     {
-      "added_at": "2022-02-12 01:31:39",
+      "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Sequences",
-        "url": "https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B"
+        "name": "SUNDAYS",
+        "url": "https://open.spotify.com/album/4WRizgwOwSZzABpVHBMriq"
       },
       "artists": [
         {
-          "name": "Idee Du Femelle",
-          "url": "https://open.spotify.com/artist/7456KsYCY7hMaTuLvtZPtm"
+          "name": "Nate Mercereau",
+          "url": "https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X"
         }
       ],
-      "duration_ms": 457487,
-      "name": "Come Back To Bali",
-      "url": "https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi"
+      "duration_ms": 294000,
+      "name": "I've Got What I Need",
+      "url": "https://open.spotify.com/track/0ImUE2UGVyi9E35qqwjlZQ"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -813,20 +813,20 @@
       "url": "https://open.spotify.com/track/6kVv525s4LlVtZ75f74Bc1"
     },
     {
-      "added_at": "2021-11-12 02:58:17",
+      "added_at": "2022-02-12 01:31:39",
       "album": {
-        "name": "Plant Music, Vol. 1",
-        "url": "https://open.spotify.com/album/4BrxiBiX85qOxYPbZXXl3c"
+        "name": "Sequences",
+        "url": "https://open.spotify.com/album/0BhgTe2K6uO37VjJAtjD7B"
       },
       "artists": [
         {
-          "name": "Modern Biology",
-          "url": "https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o"
+          "name": "Idee Du Femelle",
+          "url": "https://open.spotify.com/artist/7456KsYCY7hMaTuLvtZPtm"
         }
       ],
-      "duration_ms": 231760,
-      "name": "Fairy Creek Alder in the Evening (Raag Kafi)",
-      "url": "https://open.spotify.com/track/1YwE8ioksrrIOjndQMtofC"
+      "duration_ms": 457487,
+      "name": "Come Back To Bali",
+      "url": "https://open.spotify.com/track/5bMRA7SYWh3tpeij7yH8zi"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -845,20 +845,20 @@
       "url": "https://open.spotify.com/track/1an4tDLE2eH2a21bBpuBh5"
     },
     {
-      "added_at": "2021-10-20 18:30:26",
+      "added_at": "2021-11-12 02:58:17",
       "album": {
-        "name": "SUNDAYS",
-        "url": "https://open.spotify.com/album/4WRizgwOwSZzABpVHBMriq"
+        "name": "Plant Music, Vol. 1",
+        "url": "https://open.spotify.com/album/4BrxiBiX85qOxYPbZXXl3c"
       },
       "artists": [
         {
-          "name": "Nate Mercereau",
-          "url": "https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X"
+          "name": "Modern Biology",
+          "url": "https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o"
         }
       ],
-      "duration_ms": 294000,
-      "name": "I've Got What I Need",
-      "url": "https://open.spotify.com/track/0ImUE2UGVyi9E35qqwjlZQ"
+      "duration_ms": 231760,
+      "name": "Fairy Creek Alder in the Evening (Raag Kafi)",
+      "url": "https://open.spotify.com/track/1YwE8ioksrrIOjndQMtofC"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -1173,24 +1173,20 @@
       "url": "https://open.spotify.com/track/5y7kD1xehhdOzrVA4mODuj"
     },
     {
-      "added_at": "2021-10-20 18:30:26",
+      "added_at": "2023-03-07 03:31:30",
       "album": {
-        "name": "Habitat",
-        "url": "https://open.spotify.com/album/784eJcaYZn3cQXHkpQuqLN"
+        "name": "Mirrored Solitude",
+        "url": "https://open.spotify.com/album/4bd0O6ioCKu3uh3d89rtpB"
       },
       "artists": [
         {
-          "name": "J Foerster",
-          "url": "https://open.spotify.com/artist/4sRdSdPKzOOJa9WgBfTz6i"
-        },
-        {
-          "name": "N KRAMER",
-          "url": "https://open.spotify.com/artist/6pY5KhflZwSO9L6Iq2A77t"
+          "name": "Kalia Vandever",
+          "url": "https://open.spotify.com/artist/2eFIJMz1OPMcyyqxVbh8tL"
         }
       ],
-      "duration_ms": 295544,
-      "name": "Air Flows",
-      "url": "https://open.spotify.com/track/0pYwlehWNQ50iyQdZJFbZu"
+      "duration_ms": 206863,
+      "name": "Mirrored Solitude",
+      "url": "https://open.spotify.com/track/52vNlD5YZT1yUmZUnukAbT"
     }
   ],
   "unique_name": "Planetary Soul",

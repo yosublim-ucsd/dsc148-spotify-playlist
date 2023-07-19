@@ -14005,6 +14005,28 @@
     },
     {
       "album": {
+        "name": "M\u00c1QUINA CULONA",
+        "url": "https://open.spotify.com/album/6rceA1LV2503KinfXAGF1v"
+      },
+      "artists": [
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        },
+        {
+          "name": "Mura Masa",
+          "url": "https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "M\u00c1QUINA CULONA",
+      "url": "https://open.spotify.com/track/5tBNafAkXWrLDQa8SOeat9"
+    },
+    {
+      "album": {
         "name": "Hilanderas",
         "url": "https://open.spotify.com/album/5cCQC8jxZdDvmmMVD8sq3S"
       },
@@ -18544,7 +18566,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 205000,
       "name": "Rojo Rub\u00ed - Rompiendo La Cadera",
       "url": "https://open.spotify.com/track/00vDTKx0x8foQnP4NfCR1D"

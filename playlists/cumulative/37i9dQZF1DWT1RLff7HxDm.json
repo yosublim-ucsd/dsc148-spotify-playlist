@@ -70,7 +70,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-19",
+      "date_removed": null,
       "duration_ms": 277666,
       "name": "Backwater Blues - Live",
       "url": "https://open.spotify.com/track/4ScrL9E0Ifv2dL1liFqnf7"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 303168,
       "name": "Born Under A Bad Sign (Live)",
       "url": "https://open.spotify.com/track/2HYJOHiFxEnNDiXx80ZYkj"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-24",
+      "date_removed": null,
       "duration_ms": 152553,
       "name": "By My Lonesome - Live",
       "url": "https://open.spotify.com/track/0RtMoXD1q8opjELLbBb45i"
@@ -250,7 +250,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-12",
+      "date_removed": null,
       "duration_ms": 352013,
       "name": "Can't Let Go - Live (Remastered)",
       "url": "https://open.spotify.com/track/4CCWEuncGYBFd46UOk3FHO"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-26",
+      "date_removed": null,
       "duration_ms": 320618,
       "name": "Can't Walk Away From It Now - Live",
       "url": "https://open.spotify.com/track/4HRWEbyWYP5iyt2u7fMOhD"
@@ -398,7 +398,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-05-13",
+      "date_removed": null,
       "duration_ms": 256986,
       "name": "Cry a Little - Live",
       "url": "https://open.spotify.com/track/1jpJAC3fQxjU46UkOCzeDW"
@@ -470,7 +470,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 256398,
       "name": "Damn Right, I've Got The Blues - Live at New Orleans Jazz & Heritage Festival, 2014",
       "url": "https://open.spotify.com/track/0Jt849xbK5RTJt8UORof5A"
@@ -524,7 +524,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-27",
+      "date_removed": null,
       "duration_ms": 215540,
       "name": "Do You Wanna - Live",
       "url": "https://open.spotify.com/track/4dHpgdH4HNPTDxOrTFKnhy"
@@ -560,7 +560,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 447360,
       "name": "Drive - Live",
       "url": "https://open.spotify.com/track/3IJK87Vhge7dnpcVmIeV5v"
@@ -578,7 +578,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 192638,
       "name": "Dyin' To Know (Live)",
       "url": "https://open.spotify.com/track/0zlqZgeOekI8MFUfigTHR8"
@@ -618,6 +618,24 @@
       "duration_ms": 281866,
       "name": "Everyday I Have The Blues - Live (San Quentin)",
       "url": "https://open.spotify.com/track/0rTmNc15RZrI9EzBM7cE0L"
+    },
+    {
+      "album": {
+        "name": "Live at the Roxy",
+        "url": "https://open.spotify.com/album/4H8vrtg99Qxjz7kwlC9yqw"
+      },
+      "artists": [
+        {
+          "name": "The Sheepdogs",
+          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232388,
+      "name": "Feeling Good - Live",
+      "url": "https://open.spotify.com/track/3315kMG6PdeNdwKMGxNTxn"
     },
     {
       "album": {
@@ -675,6 +693,24 @@
     },
     {
       "album": {
+        "name": "Frosty (Live)",
+        "url": "https://open.spotify.com/album/4X8u9qDAj8Gk8E58ExF7KY"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354013,
+      "name": "Frosty - Live",
+      "url": "https://open.spotify.com/track/69Vo5KVrgmyq3pqqjBpF6c"
+    },
+    {
+      "album": {
         "name": "TRY! - Live In Concert",
         "url": "https://open.spotify.com/album/0X9bvQYYtrAYdkO4OKtYwz"
       },
@@ -704,7 +740,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-26",
+      "date_removed": null,
       "duration_ms": 267893,
       "name": "Gunslinger - Live",
       "url": "https://open.spotify.com/track/3pU28LbuY6LpaAwHGehN8d"
@@ -752,6 +788,32 @@
       "duration_ms": 290693,
       "name": "Hideaway",
       "url": "https://open.spotify.com/track/2T9rTwHMIOmXmoh2dVqs1g"
+    },
+    {
+      "album": {
+        "name": "70th Birthday Concert (Live)",
+        "url": "https://open.spotify.com/album/1vRKL1uMdXWFzFdiGRtd25"
+      },
+      "artists": [
+        {
+          "name": "John Mayall & The Bluesbreakers",
+          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Chris Barber",
+          "url": "https://open.spotify.com/artist/22La2Rm0bDntXkMXGhNQgU"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290693,
+      "name": "Hideaway - Live",
+      "url": "https://open.spotify.com/track/2ITCE00HMJT7FzThIwpJkg"
     },
     {
       "album": {
@@ -892,7 +954,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-22",
+      "date_removed": null,
       "duration_ms": 275033,
       "name": "Keep Coming Back - Live",
       "url": "https://open.spotify.com/track/5QeCzQycqCWaPu3kTyOhdw"
@@ -1018,7 +1080,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 335955,
       "name": "Let Me Love You Baby - Live",
       "url": "https://open.spotify.com/track/1QDdgLrFe1sVpWNsCWaSGu"
@@ -1058,7 +1120,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 413617,
       "name": "Little Wing - Live at LOCKN' / 2019",
       "url": "https://open.spotify.com/track/4mBSlDtxKBtfean9muzN3d"
@@ -1098,9 +1160,9 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 261874,
-      "name": "Lonesome Whistle Blues - Live",
+      "name": "Lonesome Whistle Blues (Live)",
       "url": "https://open.spotify.com/track/75QEITVgnbtUomK27erkds"
     },
     {
@@ -1160,7 +1222,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-13",
+      "date_removed": null,
       "duration_ms": 421219,
       "name": "Mainline Florida - Live",
       "url": "https://open.spotify.com/track/0NRX4unLHXXFrZtFfSmHu6"
@@ -1214,7 +1276,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-02",
+      "date_removed": null,
       "duration_ms": 259584,
       "name": "Morning Glory - Live",
       "url": "https://open.spotify.com/track/6hMLpRbSEw1RMHoNWZZkUL"
@@ -1258,7 +1320,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-01-15",
+      "date_removed": null,
       "duration_ms": 298777,
       "name": "Night Train - Live",
       "url": "https://open.spotify.com/track/3FDFofxSBPv1hzSZdKvAuh"
@@ -1392,10 +1454,28 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 477786,
       "name": "Open Hearted Woman - Live",
       "url": "https://open.spotify.com/track/3Phzwv994YsLZSSU7B2Q6P"
+    },
+    {
+      "album": {
+        "name": "Live in Nashville (Deluxe)",
+        "url": "https://open.spotify.com/album/2YFYcJ3gMqHgvzUVTb2eOe"
+      },
+      "artists": [
+        {
+          "name": "John Oates",
+          "url": "https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 509607,
+      "name": "Pallet Soft and Low (Live)",
+      "url": "https://open.spotify.com/track/3uhAfoYMM8sra1CXBDHqcK"
     },
     {
       "album": {
@@ -1428,7 +1508,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-28",
+      "date_removed": null,
       "duration_ms": 497133,
       "name": "Pocket Full of Dust (Live)",
       "url": "https://open.spotify.com/track/0QpLq6RybVWoVvhmC1PCeW"
@@ -1570,7 +1650,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-11",
+      "date_removed": null,
       "duration_ms": 446206,
       "name": "Rocket 88 - Live",
       "url": "https://open.spotify.com/track/0iYKF3S7mkSdxSek8dzHRA"
@@ -1588,7 +1668,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-26",
+      "date_removed": null,
       "duration_ms": 287813,
       "name": "Roll With Me - Live in California - September 1975",
       "url": "https://open.spotify.com/track/5NmsAu22qNYcF2BI9jRY9R"
@@ -1642,7 +1722,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-27",
+      "date_removed": null,
       "duration_ms": 272160,
       "name": "Soul Salvation - Live",
       "url": "https://open.spotify.com/track/6n4svbYjxBPTnDvitXKrhq"
@@ -1696,7 +1776,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-10",
+      "date_removed": null,
       "duration_ms": 212732,
       "name": "Step By Step - Live",
       "url": "https://open.spotify.com/track/1MMcAvzf5cGgQ9hLt0Y0WA"
@@ -1960,7 +2040,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-23",
+      "date_removed": null,
       "duration_ms": 394106,
       "name": "The Loyal Kind (Live)",
       "url": "https://open.spotify.com/track/3VlxQrEaQAehaxvPUpN9Gi"
@@ -1978,7 +2058,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-11",
+      "date_removed": null,
       "duration_ms": 215478,
       "name": "The Reformation - Live in Camden",
       "url": "https://open.spotify.com/track/2RoGW61xbJEidDVhGmawVN"
@@ -2140,7 +2220,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-18",
+      "date_removed": null,
       "duration_ms": 354880,
       "name": "True Lies - Live",
       "url": "https://open.spotify.com/track/3OHFCFO7Upo0z0gYtWTTDQ"
@@ -2158,7 +2238,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 324440,
       "name": "Up Your Sleeve - Live",
       "url": "https://open.spotify.com/track/3kEIR6eH1rL9GWQi1bayCG"
@@ -2237,6 +2317,24 @@
     },
     {
       "album": {
+        "name": "Road Chronicles: Live!",
+        "url": "https://open.spotify.com/album/2A4kEXoGNdaZiAlWb4njWq"
+      },
+      "artists": [
+        {
+          "name": "Supersonic Blues Machine",
+          "url": "https://open.spotify.com/artist/4Q4I3c5ixM1EqJ9svcleRD"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329840,
+      "name": "Watchagonnado - Live",
+      "url": "https://open.spotify.com/track/3dbmtHrcXvJu6i1TcLzP81"
+    },
+    {
+      "album": {
         "name": "Ina Forsman, Layla Zoe, Tasha Taylor",
         "url": "https://open.spotify.com/album/4SnOh8hWz3RH4CEb31wXh3"
       },
@@ -2266,10 +2364,32 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-11",
+      "date_removed": null,
       "duration_ms": 771564,
       "name": "West L.A. Fadeaway - Live",
       "url": "https://open.spotify.com/track/34zdlQdUyUOecOuWsCUWrj"
+    },
+    {
+      "album": {
+        "name": "Live In Concert",
+        "url": "https://open.spotify.com/album/6TOF0HspY35bCInZMhcPjw"
+      },
+      "artists": [
+        {
+          "name": "Michael Kaeshammer",
+          "url": "https://open.spotify.com/artist/1CqTkHB5MbbY4SQjy7Qr07"
+        },
+        {
+          "name": "Colin James",
+          "url": "https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j"
+        }
+      ],
+      "date_added": "2020-10-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252106,
+      "name": "Who Are You",
+      "url": "https://open.spotify.com/track/3ELWEa23WwNkAHrosWjy8d"
     },
     {
       "album": {

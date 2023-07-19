@@ -1,12 +1,12 @@
 {
   "description": "The best of electronic trap. Cover: RL Grime",
-  "num_followers": 887132,
+  "num_followers": 887204,
   "original_name": "Trap Mojito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Yzk4OTEzMzE4MmQ0NmQyZmYwNDk5NzY4MTUyZTI1ZjE4MjhjN2Fk",
+  "snapshot_id": "MCxhMGU0Y2YyNTFlMzVkNzg0NjFkZjY0MmFhYmExODg5NjdhMjdlODhl",
   "tracks": [
     {
       "added_at": "2023-07-07 16:31:53",
@@ -663,26 +663,6 @@
     {
       "added_at": "2023-07-07 16:31:53",
       "album": {
-        "name": "The Return of House Music",
-        "url": "https://open.spotify.com/album/4lsszip8gEvULzZTTThGnS"
-      },
-      "artists": [
-        {
-          "name": "Moksi",
-          "url": "https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011"
-        },
-        {
-          "name": "Elayna Boynton",
-          "url": "https://open.spotify.com/artist/5wr3WZArcItaxXddR07nJv"
-        }
-      ],
-      "duration_ms": 244302,
-      "name": "Slow Burn",
-      "url": "https://open.spotify.com/track/1AfA0K7BLxceH7PjzcZdZc"
-    },
-    {
-      "added_at": "2023-07-07 16:31:53",
-      "album": {
         "name": "Better With You",
         "url": "https://open.spotify.com/album/4CoLHunP23dUcORSP1Nfzb"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 192941,
       "name": "Better With You",
       "url": "https://open.spotify.com/track/3D37T7euWvVJ45evRmriIh"
+    },
+    {
+      "added_at": "2023-07-07 16:31:53",
+      "album": {
+        "name": "The Return of House Music",
+        "url": "https://open.spotify.com/album/4lsszip8gEvULzZTTThGnS"
+      },
+      "artists": [
+        {
+          "name": "Moksi",
+          "url": "https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011"
+        },
+        {
+          "name": "Elayna Boynton",
+          "url": "https://open.spotify.com/artist/5wr3WZArcItaxXddR07nJv"
+        }
+      ],
+      "duration_ms": 244302,
+      "name": "Slow Burn",
+      "url": "https://open.spotify.com/track/1AfA0K7BLxceH7PjzcZdZc"
     },
     {
       "added_at": "2023-07-07 16:31:53",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-07-07 16:31:53",
       "album": {
-        "name": "V!BEZ, Vol. 4",
-        "url": "https://open.spotify.com/album/1FJ7kXrCmyFtR2B1NBpYDu"
-      },
-      "artists": [
-        {
-          "name": "TroyBoi",
-          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Bellz",
-      "url": "https://open.spotify.com/track/753DZsGGXlasRCp48FmOhH"
-    },
-    {
-      "added_at": "2023-07-07 16:31:53",
-      "album": {
         "name": "Eden (feat. fussy)",
         "url": "https://open.spotify.com/album/5PFB53TFWypfqXhOjXi6Lj"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 176761,
       "name": "Eden (feat. fussy)",
       "url": "https://open.spotify.com/track/0dCtaEXGzrVxlqteDis4vP"
+    },
+    {
+      "added_at": "2023-07-07 16:31:53",
+      "album": {
+        "name": "V!BEZ, Vol. 4",
+        "url": "https://open.spotify.com/album/1FJ7kXrCmyFtR2B1NBpYDu"
+      },
+      "artists": [
+        {
+          "name": "TroyBoi",
+          "url": "https://open.spotify.com/artist/0tvpihdAsKiNnP6sWS3jUI"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Bellz",
+      "url": "https://open.spotify.com/track/753DZsGGXlasRCp48FmOhH"
     },
     {
       "added_at": "2023-07-07 16:31:53",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2023-07-07 16:31:53",
       "album": {
+        "name": "REDloop",
+        "url": "https://open.spotify.com/album/0tPEC1IBHLBrXMwWDDCJpq"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        }
+      ],
+      "duration_ms": 225230,
+      "name": "REDloop",
+      "url": "https://open.spotify.com/track/1KANhRF0eNmr13rT4t3I4X"
+    },
+    {
+      "added_at": "2023-07-07 16:31:53",
+      "album": {
         "name": "Lights Go Down (Peekaboo Remix)",
         "url": "https://open.spotify.com/album/5dqobhABvWXbytvUKbPpnB"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 325720,
       "name": "Lights Go Down - Peekaboo Remix",
       "url": "https://open.spotify.com/track/0RJgmCUXLIDQ2kMMAD5cGs"
-    },
-    {
-      "added_at": "2023-07-07 16:31:53",
-      "album": {
-        "name": "REDloop",
-        "url": "https://open.spotify.com/album/0tPEC1IBHLBrXMwWDDCJpq"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        }
-      ],
-      "duration_ms": 225230,
-      "name": "REDloop",
-      "url": "https://open.spotify.com/track/1KANhRF0eNmr13rT4t3I4X"
     },
     {
       "added_at": "2023-07-07 16:31:53",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2023-07-07 16:31:53",
       "album": {
-        "name": "Yesterdays",
-        "url": "https://open.spotify.com/album/0nJdQHNPSOjR6BpZ3fViUu"
-      },
-      "artists": [
-        {
-          "name": "Effin",
-          "url": "https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH"
-        }
-      ],
-      "duration_ms": 210206,
-      "name": "Yesterdays",
-      "url": "https://open.spotify.com/track/2ROhaolQOaQ0TQR09OEANW"
-    },
-    {
-      "added_at": "2023-07-07 16:31:53",
-      "album": {
         "name": "PHASE III",
         "url": "https://open.spotify.com/album/4zY1gyzLYtfBYLHw9pEFzo"
       },
@@ -1927,22 +1911,18 @@
     {
       "added_at": "2023-07-07 16:31:53",
       "album": {
-        "name": "SIDE2SIDE",
-        "url": "https://open.spotify.com/album/7xxCTEBeps1NmxZFnCRXaH"
+        "name": "Yesterdays",
+        "url": "https://open.spotify.com/album/0nJdQHNPSOjR6BpZ3fViUu"
       },
       "artists": [
         {
-          "name": "Flosstradamus",
-          "url": "https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j"
-        },
-        {
-          "name": "TRXGGX",
-          "url": "https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A"
+          "name": "Effin",
+          "url": "https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH"
         }
       ],
-      "duration_ms": 233600,
-      "name": "SIDE2SIDE",
-      "url": "https://open.spotify.com/track/3eVpZak8vjR4MFWRgXSE80"
+      "duration_ms": 210206,
+      "name": "Yesterdays",
+      "url": "https://open.spotify.com/track/2ROhaolQOaQ0TQR09OEANW"
     },
     {
       "added_at": "2023-07-07 16:31:53",
@@ -1963,6 +1943,26 @@
       "duration_ms": 165350,
       "name": "Twitter",
       "url": "https://open.spotify.com/track/45NRSkN11nKunCO8gwswug"
+    },
+    {
+      "added_at": "2023-07-07 16:31:53",
+      "album": {
+        "name": "SIDE2SIDE",
+        "url": "https://open.spotify.com/album/7xxCTEBeps1NmxZFnCRXaH"
+      },
+      "artists": [
+        {
+          "name": "Flosstradamus",
+          "url": "https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j"
+        },
+        {
+          "name": "TRXGGX",
+          "url": "https://open.spotify.com/artist/1JnzIVfoK5jO7HhyHJuk9A"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "SIDE2SIDE",
+      "url": "https://open.spotify.com/track/3eVpZak8vjR4MFWRgXSE80"
     }
   ],
   "unique_name": "Trap Mojito",

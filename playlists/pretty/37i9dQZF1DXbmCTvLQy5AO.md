@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmCTvLQy5AO.md) - [plain]
 
 > Empowered rhymes and vibes\. Cover: Janelle Monáe
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,430 likes - 92 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,877 likes - 92 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmCTvLQy5AO.md) - [plain]
 | 91 | [LGBT](https://open.spotify.com/track/2PSuZ7k5bBmhkuH5vbfFPc) | [Deebo2x](https://open.spotify.com/artist/0hyMnB9nY24uy6Pc3NtKXO) | [LGBT](https://open.spotify.com/album/1rAo1kxsd4R89TWJnMVxqn) | 3:12 |
 | 92 | [Kill the Bill](https://open.spotify.com/track/0VhMuCqy24zbdnroEMVj07) | [Angel Maxine](https://open.spotify.com/artist/1BqJRTcbSEMJRm2eD4PRoU), [Wanlov The Kubolor](https://open.spotify.com/artist/2XLD6g0IGqvFw7BLedIZqV), [Sister Deborah](https://open.spotify.com/artist/3RM7YoeiC3yijn8k8uCGA7) | [Kill the Bill](https://open.spotify.com/album/2InjgVxw0CJbU20NsbYOty) | 3:36 |
 
-Snapshot ID: `MCxlNmM3NjAwMDAzOTc2NzcyOTY5NjZkNzY4ZWEyZjIzYWUwYjVkOWE4`
+Snapshot ID: `MCw0NGYyNDNjNjM4OTY4MWIzZTI2ODA1MDIyM2M5NjFjYmU3NjBlYjg2`

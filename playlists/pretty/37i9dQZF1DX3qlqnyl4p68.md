@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qlqnyl4p68.md) - [plain]
 
 > Spooky sounds from your favorite horror features on Netflix\. Cover: Wednesday
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,936 likes - 41 songs - 1 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,029 likes - 41 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qlqnyl4p68.md) - [plain]
 | 40 | [Reflection](https://open.spotify.com/track/5CqtCYt0pFAS5H2hS0hNJW) | [Marco Beltrami](https://open.spotify.com/artist/7yAPsqNhqqsTGsuOSZJg0i), [Anna Drubich](https://open.spotify.com/artist/3Hhf33NhkCphsWxzngs0rE) | [Fear Street Part Three: 1666 \(Music from the Netflix Trilogy\)](https://open.spotify.com/album/7qzk7Jz68VemYwOKe3PLdz) | 1:15 |
 | 41 | [Go Tomorrow](https://open.spotify.com/track/4gBHzGriOL9bhAH5H5TcvI) | [The Newton Brothers](https://open.spotify.com/artist/7dlJy6RJTqYprtHmWYBOv3) | [The Haunting of Hill House \(Music from the Netflix Horror Series\)](https://open.spotify.com/album/0YaL8yncru0Wo7HufZqjDd) | 2:37 |
 
-Snapshot ID: `MCw2YjYwMjc4NzE1YWIwOTlhYjU3MTc4MmJjYjMwZjIxODE4YzY3OWE3`
+Snapshot ID: `MCxmZTdkYzVkYzIxOWI4YzA0OGEyZjI0NDMxMDM3YzRmYTVlNmU4NTJh`

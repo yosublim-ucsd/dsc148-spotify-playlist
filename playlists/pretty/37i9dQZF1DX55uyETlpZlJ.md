@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Sanjith Hegde
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,114 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,141 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 6 | [Nav Irodh Hinge](https://open.spotify.com/track/1DDxP3kzCvAAJpOPkdvjv5) | [Chirayu](https://open.spotify.com/artist/6ATwCoaGJH1ah0xWbhpaBZ), [dixit](https://open.spotify.com/artist/3wlPT5A93NA3xtwjmKIeRy), [Jack Michael](https://open.spotify.com/artist/7eRsFT88i7QL8HAW10raWF) | [Nav Irodh Hinge](https://open.spotify.com/album/7jHQnws1IKppTlbm4INuPj) | 3:02 |
 | 7 | [Thirugo Bhoomi](https://open.spotify.com/track/3eRyegkZdRNpIK4YJw8V6p) | [Sai Sharan P Hiremath](https://open.spotify.com/artist/6cenV56xwYF9NLMZetncWP) | [Thirugo Bhoomi](https://open.spotify.com/album/3x8jU3iLh8wwLf9AX2HpDa) | 3:46 |
 | 8 | [Maleya Hani](https://open.spotify.com/track/2wNNoAxQb1VRqKxQMdlwAU) | [KALKITHENAME](https://open.spotify.com/artist/6i4yRb0QVrd54djWJoxbUk), [Thrupthi Rai](https://open.spotify.com/artist/34jjiK70L2t44kp4uTSsxU) | [Maleya Hani](https://open.spotify.com/album/66cC20oPPvP02A2ToTGeaT) | 3:13 |
-| 9 | [QUICK FIX](https://open.spotify.com/track/3k6XUW5YqaTYhnvnakgubB) | [Shastra](https://open.spotify.com/artist/6L0zcPmoJp0r8YIsSYmu34), [NUMB\-URGH](https://open.spotify.com/artist/3zPtAKDN5Ldh5BAVPbzVlD) | [QUICK FIX](https://open.spotify.com/album/7e9S5JfIKYhjglqdcb1XGP) | 2:06 |
+| 9 | [QUICK FIX](https://open.spotify.com/track/3k6XUW5YqaTYhnvnakgubB) | [Shastra](https://open.spotify.com/artist/6L0zcPmoJp0r8YIsSYmu34), [NUMB\-URGH](https://open.spotify.com/artist/3zPtAKDN5Ldh5BAVPbzVlD), [John On The Beat](https://open.spotify.com/artist/6LlGGD8vKtcraxhCCPkRaS) | [QUICK FIX](https://open.spotify.com/album/7e9S5JfIKYhjglqdcb1XGP) | 2:06 |
 | 10 | [Pakshi](https://open.spotify.com/track/58Ph4B4HN833bvtQqguiBJ) | [Karlow](https://open.spotify.com/artist/18JUdO0CqLXXPs4WlqPpnx) | [Pakshi](https://open.spotify.com/album/3zHwN65sNNAvlgZBPWzCyc) | 2:57 |
 | 11 | [Queen](https://open.spotify.com/track/3ZwA5XT8yNMktFl41qfwfu) | [The Aura](https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N) | [God Movess](https://open.spotify.com/album/16x5VIDSCWPmpSCjt06v5K) | 2:45 |
 | 12 | [Sutta Mutta Fake](https://open.spotify.com/track/2knMkLeGVyUo4veV8c89Po) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Manu Rao](https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ) | [Sutta Mutta Fake](https://open.spotify.com/album/0Csh20Wjh4dn1l54d8zkSc) | 1:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55uyETlpZlJ.md) - [plain]
 | 74 | [Barede Na](https://open.spotify.com/track/1GiJHRuSGenOtOaTCD4qIJ) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Barede Na](https://open.spotify.com/album/7yhwdOnfpHsGSQfGiW2Bi6) | 3:30 |
 | 75 | [Legacy](https://open.spotify.com/track/1OgAf9ByjzHnZ23Ydy8RU4) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ), [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Legacy](https://open.spotify.com/album/1RkCyQuBZqB9RbHUOouEJL) | 2:56 |
 
-Snapshot ID: `MCwyYmU1ODM2OTkzNzdiOTBhNTUxMmFjNjNiNTA5MmIzM2IzMWE2Y2Vk`
+Snapshot ID: `MCw3Y2VhNGYwYmMxNjc0NzczNjc5MzFjNjBmMjllMzc3OGI1NjgwZTY3`

@@ -4,7 +4,7 @@
 
 > Solo il meglio dello street rap italiano\. Cover: Paky
 
-328 songs - 15 hr 11 min
+329 songs - 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Fernando \(con Side Baby, Pyrex & MamboLosco\)](https://open.spotify.com/track/0A7UmfvTFoafzrRgUD8qS1) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT), [Pyrex](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [Botox](https://open.spotify.com/album/4nhZUFV7XuVY3hfsXB7EMt) | 2:58 | 2022-10-06 | 2022-10-25 |
 | [Fernando \(con Side Baby, Pyrex & MamboLosco\)](https://open.spotify.com/track/352us8qyK7W2TiSFaNi1vg) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Side Baby](https://open.spotify.com/artist/6PXiPeUVFrlaC1n8511ijT), [Pyrex](https://open.spotify.com/artist/7h1amg0X7Q5d0D5KfuyKTg), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [Botox](https://open.spotify.com/album/2USgyeK0BDI7xE8Xhk19PY) | 2:58 | 2022-10-03 | 2022-10-08 |
 | [Fidèle](https://open.spotify.com/track/04nSLIugSHc12J7v4ansEL) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D) | [Fidèle](https://open.spotify.com/album/1sMos7HLI4co6zgJ0loIM3) | 2:37 | 2023-05-11 | 2023-06-09 |
+| [Formentera](https://open.spotify.com/track/12IR65dUPwMXxB7Y3HGw1c) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Formentera](https://open.spotify.com/album/4iUG3rZBWlkeCgfVAmIA65) | 2:58 | 2023-07-18 |  |
 | [Fratello mio \(feat\. Baby Gang & Simba La Rue\)](https://open.spotify.com/track/3viRyhRcXI4Jc1KX1Y9o8w) | [Escomar](https://open.spotify.com/artist/6o4HwHVQqXnSxpHxII3KJw), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO) | [Fratello mio \(feat\. Baby Gang & Simba La Rue\)](https://open.spotify.com/album/0mBnAfPBOCyX7Uzvzuvo0w) | 3:43 | 2022-07-27 | 2022-08-01 |
 | [Freestyle](https://open.spotify.com/track/2iu3TLcZuQwchIvhiN22ma) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [Freestyle](https://open.spotify.com/album/04Z6YSQyZmwz15nrj3l0Ad) | 1:28 | 2022-07-21 | 2022-08-30 |
 | [Freestyle\#2](https://open.spotify.com/track/3GWunIYzxXspSGD7lzj0F1) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [Freestyle\#2](https://open.spotify.com/album/4RJSyh82Vs7fi6e6EibCSN) | 2:12 | 2023-03-16 | 2023-05-11 |
@@ -225,7 +226,7 @@
 | [Paradiso Artificiale \(feat\. Baby Gang & Kid Yugi\)](https://open.spotify.com/track/5omIW7YOPhA6CULhkdz6jE) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [La Divina Commedia](https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl) | 2:42 | 2023-06-01 |  |
 | [Paranoia](https://open.spotify.com/track/4ZPmb48JaAysD1OdQEt5LL) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J) | [Paranoia](https://open.spotify.com/album/2zj6RUMudqC6Y6le04Axcs) | 3:02 | 2022-05-11 | 2022-06-21 |
 | [Pararara](https://open.spotify.com/track/5Vio7g8p9zDEdJY03cDF2G) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Pararara](https://open.spotify.com/album/3wy6SeCkIKp1AipBNAJx8q) | 2:43 | 2023-01-26 | 2023-07-14 |
-| [Pas De Salam](https://open.spotify.com/track/4odaNK2WriH7cXdTOaOxKH) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv), [Keta](https://open.spotify.com/artist/0noBqdN1IGlVyoYkpd6Vrn) | [Pas De Salam](https://open.spotify.com/album/3XmmEZ7dvQw18C8KsRKWhf) | 2:39 | 2023-06-08 |  |
+| [Pas De Salam](https://open.spotify.com/track/4odaNK2WriH7cXdTOaOxKH) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv), [Keta](https://open.spotify.com/artist/0noBqdN1IGlVyoYkpd6Vrn) | [Pas De Salam](https://open.spotify.com/album/3XmmEZ7dvQw18C8KsRKWhf) | 2:39 | 2023-06-08 | 2023-07-19 |
 | [Passaggi Di Mano](https://open.spotify.com/track/4J1mgFkAYXbDV2Zm2X1LlB) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Passaggi Di Mano](https://open.spotify.com/album/078xzTGG29Ef2GowUOGWDt) | 2:24 | 2023-06-01 | 2023-06-30 |
 | [Pelé](https://open.spotify.com/track/3UYr4TdhtCthMH9ujhx0BA) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Pelé](https://open.spotify.com/album/329aNexZnIOYq7GaNHCxSC) | 2:13 | 2023-03-16 |  |
 | [PIOVE \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/6BUueuMQR4k7CuoMEsnGou) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:35 | 2022-05-11 | 2022-12-16 |

@@ -4,7 +4,7 @@
 
 > Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Littlefingers
 
-147 songs - 10 hr 22 min
+148 songs - 10 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Ada Anak Bertanya Pada Bapaknya](https://open.spotify.com/track/0GFhrPONPqxv8z1p03lx4R) | [Tompi](https://open.spotify.com/artist/3FxQst3IlItxaNPGzjl17G) | [Ada Anak Bertanya Pada Bapaknya](https://open.spotify.com/album/7CCGnASUZMKV90hDmbWaAR) | 4:42 | 2023-03-24 |  |
 | [Affirmation \- Studio Version Radio Edit](https://open.spotify.com/track/5T51qyxzXcjClnLStmoyFW) | [Batavia Collective](https://open.spotify.com/artist/5codNlJ0krrWfPHbRMKHEJ), [Kamga](https://open.spotify.com/artist/2dMAOuIpuE5eb55qzpKC9O) | [Affirmation](https://open.spotify.com/album/3wV1gSC2bANRjc3E4oK2AP) | 3:29 | 2022-09-02 | 2023-03-25 |
 | [Afterthought](https://open.spotify.com/track/3cXwYQyvPCwNoWPDisoBOy) | [Anastasya Poetri](https://open.spotify.com/artist/6e2MbJs1OWfSbaCCkJybNt) | [Afterthought](https://open.spotify.com/album/44mPYEF7jEnGsvsA0TFceA) | 3:44 | 2022-09-02 |  |
+| [Against The World](https://open.spotify.com/track/6xdE66P9m2ybnbRqWduLVF) | [Aditya Ong Trio](https://open.spotify.com/artist/4kkP9EmggHO2TIDcSOOZI4), [Alfado Jacob](https://open.spotify.com/artist/5SYx8g5qg29QfBZHj455XT) | [32](https://open.spotify.com/album/1VW732WmXOw1xSGZoI77Jr) | 10:24 | 2023-07-18 |  |
 | [Ah Pusing!](https://open.spotify.com/track/0BMHVxay9JQa4Retru9Jau) | [Orkes Kedai Sarinah](https://open.spotify.com/artist/1yoNr5aPC0EEcQfyTcCGcZ) | [Ah Pusing!](https://open.spotify.com/album/7p3GoqgdlYtTxIiUWFyoBt) | 3:12 | 2022-09-02 | 2022-11-25 |
 | [Ah Pusing!](https://open.spotify.com/track/4Cx5uUfWwjl8kJ0ffFCQih) | [Orkes Kedai Sarinah](https://open.spotify.com/artist/1yoNr5aPC0EEcQfyTcCGcZ) | [Mari Bahagia](https://open.spotify.com/album/7FJlmFABalYgok0ws9aEyS) | 3:12 | 2022-09-22 | 2022-11-13 |
 | [As We Talk](https://open.spotify.com/track/1xNoiDKbPQnPZknnOxLT6m) | [Azimah Fada](https://open.spotify.com/artist/7xVCVjiZvaQ2zjAKS5Jkt9), [Leca Percussion](https://open.spotify.com/artist/3w7VheCMgx50I3vsFlmL2q), [Rhesa Siregar](https://open.spotify.com/artist/3QhzGBK0sLrqAnHMOI2YVS) | [Scars Souvenir](https://open.spotify.com/album/1qvid202eOiUz6vI8xFca0) | 2:59 | 2023-03-09 |  |
@@ -54,7 +55,7 @@
 | [Dream Lulubye](https://open.spotify.com/track/14BlgC34sdKKTEvcuhMPOv) | [Adi Darmawan](https://open.spotify.com/artist/4tf4XhhTlovrEj01je6ozX), [Agam Hamzah](https://open.spotify.com/artist/0Q93JEJbQhqMkTZOvC764M) | [Dream Lulubye](https://open.spotify.com/album/1i43dJTiD4TFpcQ5p35J6g) | 6:30 | 2023-03-24 |  |
 | [Entah](https://open.spotify.com/track/5c8tb3bS3KtR0H56OnDKwj) | [Sisasa](https://open.spotify.com/artist/3xC683HyOA5mFKwuCyJDc1) | [Sisi Lain](https://open.spotify.com/album/49VL4XUeqZHjzOiWOxzi8R) | 4:36 | 2023-03-09 |  |
 | [Euphoria](https://open.spotify.com/track/1G9BVTcFvYDVihnGZ6DoEU) | [Littlefingers](https://open.spotify.com/artist/7lNcVBJDzjh6sKNIiuh9kU), [Imelda Lizal](https://open.spotify.com/artist/72gtPHfqhqo0xm9QKZnrIL) | [EUPHORIA](https://open.spotify.com/album/4j91PSb0jkfbXVr6RAPL3X) | 4:02 | 2022-09-02 |  |
-| [Even Rain](https://open.spotify.com/track/5pBoKlrqqOqi3jMwa29jfD) | [Adi Darmawan](https://open.spotify.com/artist/4tf4XhhTlovrEj01je6ozX), [Teguh Sukarelawanto](https://open.spotify.com/artist/4J8wGo6gMLJq73e3qdLMhX) | [Perspektif](https://open.spotify.com/album/57LCW4mUge5Y4YWMsOjOXz) | 2:36 | 2023-06-08 | 2023-07-14 |
+| [Even Rain](https://open.spotify.com/track/5pBoKlrqqOqi3jMwa29jfD) | [Adi Darmawan](https://open.spotify.com/artist/4tf4XhhTlovrEj01je6ozX), [Teguh Sukarelawanto](https://open.spotify.com/artist/4J8wGo6gMLJq73e3qdLMhX) | [Perspektif](https://open.spotify.com/album/57LCW4mUge5Y4YWMsOjOXz) | 2:36 | 2023-06-08 |  |
 | [fake optics](https://open.spotify.com/track/6claTdKnG2FOnikFadYeno) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd) | [fake optics](https://open.spotify.com/album/4PNP4xTW095tbZZinDRbXw) | 3:25 | 2022-09-02 |  |
 | [Feeling](https://open.spotify.com/track/0lKHpAK3ybZxuX7K5KuOnm) | [Adrian Setiawan](https://open.spotify.com/artist/39XX7BNu95xOOxusr1BzFn), [Diona Dewiriana](https://open.spotify.com/artist/5TCbrPG4VAeoypYoHsLsAf) | [Feeling](https://open.spotify.com/album/6utFX9YFFC48mhZrlUcK9i) | 3:52 | 2022-09-02 | 2023-01-27 |
 | [Fonk in the City](https://open.spotify.com/track/0QQKhBgzF6SLBgzWYeEgnm) | [Saxx in the City](https://open.spotify.com/artist/3dTx0MCeatvtqmdV7vYecG) | [Fonk in the City](https://open.spotify.com/album/5o5IiiD5liCqOuJe9ez356) | 4:10 | 2023-03-03 |  |
@@ -97,7 +98,7 @@
 | [Makna Nostalgia](https://open.spotify.com/track/5UzwDbdDqEyU7pQc9kh1Bu) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Detik Waktu \#2 : Perjalanan Karya Cipta Candra Darusman](https://open.spotify.com/album/4HnAERSlErB6VxHNkUZrhB) | 5:16 | 2022-09-02 |  |
 | [Mata Kuru Made](https://open.spotify.com/track/2jUNYwyUqAU9ScJTGos3Be) | [Balawan](https://open.spotify.com/artist/3aKNBxiNR6YBHvOoi6f9Cm) | [Mata Kuru Made](https://open.spotify.com/album/5pU0oolHQu8XOxAZEjtxd8) | 4:33 | 2023-03-24 | 2023-06-30 |
 | [Melawan Takdir](https://open.spotify.com/track/5NT81HlBEmoi8IEhL5jV8m) | [Hezky Jo](https://open.spotify.com/artist/4xJoIawErbqny2Yj6X6xdy), [Azizah Hanum](https://open.spotify.com/artist/5mEePWMgxiwAULqU0nrQig) | [Melawan Takdir](https://open.spotify.com/album/32Rr9t1JgFxjFAXLXY1vmQ) | 3:09 | 2022-09-02 | 2023-06-30 |
-| [Memories](https://open.spotify.com/track/0RwY80gFnRo9noKMipeFXi) | [Koko Wijanarko](https://open.spotify.com/artist/0c26hbkWSxPK07pXEzTvFK) | [Memories](https://open.spotify.com/album/2FFpls5cmtoeWBotbKWiBx) | 3:16 | 2023-05-25 | 2023-07-14 |
+| [Memories](https://open.spotify.com/track/0RwY80gFnRo9noKMipeFXi) | [Koko Wijanarko](https://open.spotify.com/artist/0c26hbkWSxPK07pXEzTvFK) | [Memories](https://open.spotify.com/album/2FFpls5cmtoeWBotbKWiBx) | 3:16 | 2023-05-25 |  |
 | [Miles to Go](https://open.spotify.com/track/2jOfskbjbh28WE5NwGmDkm) | [Daniel Dyonisius](https://open.spotify.com/artist/3rFQcgQRZYIe2VOuY5XlLV) | [Miles to Go](https://open.spotify.com/album/6lkLDekAYpvRIlph4rOGEX) | 6:40 | 2022-09-02 |  |
 | [moonlight](https://open.spotify.com/track/6xCB26Dg9hVNE76hJ774aU) | [dilasarah](https://open.spotify.com/artist/2U2xHTxh2E1Y4GX9deASV3) | [moonlight](https://open.spotify.com/album/66VclcKcfP5LZzoC4Su0eA) | 3:23 | 2022-09-02 |  |
 | [Move on Up](https://open.spotify.com/track/1vVtj478XlTqGZb95kc17B) | [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz), [The Rhythm Service](https://open.spotify.com/artist/4E9QPvg1uafJ5yak7f5019), [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [Move on Up](https://open.spotify.com/album/6JaGgDnhepnvGhuyGDOmzF) | 3:37 | 2022-09-02 | 2023-06-09 |

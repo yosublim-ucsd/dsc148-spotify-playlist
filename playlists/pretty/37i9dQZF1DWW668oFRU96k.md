@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Dubdogz x Crazy Donkey x Brando
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,680 likes - 68 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,707 likes - 68 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 11 | [Freefall](https://open.spotify.com/track/42F7QCFDqnpsfEQIJbth7H) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg), [Joyia](https://open.spotify.com/artist/5XmuPCMjLwYLKWvOCyh6jK) | [Freefall / Era](https://open.spotify.com/album/2C17GwXJdDsEy0Zsg9d2m0) | 4:20 |
 | 12 | [back in time](https://open.spotify.com/track/2wfwhyErdQVfXGPwPTUhht) | [wilo wilde](https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc) | [back in time](https://open.spotify.com/album/5pgSw0cqiPHDtSwjMK2d0o) | 2:36 |
 | 13 | [Don't Get My Hopes Up](https://open.spotify.com/track/5SjB72oQVhVI2QSwmSmRup) | [Chace](https://open.spotify.com/artist/5kPhAZL6iV8iDywUmIPC3g) | [Don't Get My Hopes Up](https://open.spotify.com/album/5blqBnpp6Z4oMRAdBWu5Hl) | 3:16 |
-| 14 | [Good Life \- feat\. Mimiko](https://open.spotify.com/track/15vktwvhLlloOkXlyvxZn1) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [mimiko](https://open.spotify.com/artist/455lBfYUwxeXcAnya8Aa9M) | [Traveling Without Moving](https://open.spotify.com/album/6VHlFWg2dznxkqwj6TadSZ) | 3:47 |
+| 14 | [Good Life \- feat\. mimiko](https://open.spotify.com/track/15vktwvhLlloOkXlyvxZn1) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [mimiko](https://open.spotify.com/artist/455lBfYUwxeXcAnya8Aa9M) | [Traveling Without Moving](https://open.spotify.com/album/6VHlFWg2dznxkqwj6TadSZ) | 3:47 |
 | 15 | [Find My Way](https://open.spotify.com/track/1xRbnHh3GidD6vzuOrTQeT) | [Giorgio Leone \(IT\)](https://open.spotify.com/artist/6zPCGqSL5ALIAZ8bbRU0b7), [Haas](https://open.spotify.com/artist/4ciEvewBAH4vOV7Lv4QITZ), [Kris Kiss](https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg) | [Find My Way](https://open.spotify.com/album/1hpiUpq67G7Y2aj5K9YCfX) | 3:50 |
 | 16 | [Delilah](https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm) | [Mikolas Josef](https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR), [Mark Neve](https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH) | [Delilah](https://open.spotify.com/album/1SFAJGQ2ix6WpYCPVlF1jh) | 2:21 |
 | 17 | [Better Time](https://open.spotify.com/track/4VNitd6KZNDlAabGK4gK7c) | [Hurshel](https://open.spotify.com/artist/6z6uBfaMCKFCDIuHNYhRra) | [Better Time](https://open.spotify.com/album/7JI2ltlFmlDYzS51Q0j80n) | 3:16 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 67 | [Bad Boy Sound](https://open.spotify.com/track/2HBgPTVKANqdFYXISTYNnG) | [Gellero](https://open.spotify.com/artist/58jPAfXWaSoySAn8cL1U37), [Richie Loop](https://open.spotify.com/artist/0fwGtEcJ4v3H0btcbM0KWc), [Bashment Yc](https://open.spotify.com/artist/4TJKZVZaype5bnSZYy66Q4) | [Bad Boy Sound](https://open.spotify.com/album/18WX8020TlfZXIoNSjkVKU) | 2:16 |
 | 68 | [We Go So Far \(Don’t Stop Believin'\)](https://open.spotify.com/track/1sbcMH8P8zhtaESyGSNqGo) | [Jordiz](https://open.spotify.com/artist/5xUW4ugFxRJtCe7RLIdKvV), [Narcyz](https://open.spotify.com/artist/6bXKU7upMry4vNzi4jvgjq), [Drean](https://open.spotify.com/artist/0fIg6a2SOYU1IY9GOh7wTq) | [We Go So Far \(Don’t Stop Believin'\)](https://open.spotify.com/album/4iqR1gG0R7QdH8TWKCCyrK) | 3:47 |
 
-Snapshot ID: `MCwxNDllNjNmZDllNjhlNmY5NzgwOGEyNTA4YzFhMDlkZTY4YmFlNGM0`
+Snapshot ID: `MCxhY2MxYmEwMjE2OTYxN2Y1NTI0OWRjODM2NmYxYzViMjlmMTc4NWRl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d55mkkrzwq.md) - [plain]
 
 > Get moving with these family\-friendly dance hits!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,046 likes - 42 songs - 2 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,045 likes - 42 songs - 2 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8d55mkkrzwq.md) - [plain]
 | 41 | [Stomp & Clap Dance](https://open.spotify.com/track/2MqNNuzgYmoTBMbylhF2Wm) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [Stomp & Clap Dance](https://open.spotify.com/album/0jeMm22JOSNZl6l2UYHuFd) | 2:30 |
 | 42 | [Let's Samba](https://open.spotify.com/track/5BaCOocC0d5SPUtqs4GLKm) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Laurie Berkner's Movement Songs](https://open.spotify.com/album/3WZZS7mxHy9gedlgUD0e3i) | 2:41 |
 
-Snapshot ID: `MCw0NTdkNDQ2NmVmMDlkNDAzOGNlMWEwYzM3ZWE0NTVjMjYwYTliZjI1`
+Snapshot ID: `MCwxZDE5ZTEyNTNiYWRkNGU0M2EyODdmYjQ3ZjhmNzE3NGE1MTdhNTk5`

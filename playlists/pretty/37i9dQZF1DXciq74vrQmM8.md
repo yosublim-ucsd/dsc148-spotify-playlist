@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. WARGASM \(UK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 491,325 likes - 84 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 491,480 likes - 84 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 83 | [Don't Date The Devil](https://open.spotify.com/track/32XvkBX22ALeqMutaCZtQw) | [BEX](https://open.spotify.com/artist/3uqAKGSytLJJuLy4BPlY38) | [Don't Date The Devil](https://open.spotify.com/album/62emvRyHGLkEYQctxBA1Pi) | 2:50 |
 | 84 | [I Want Attention](https://open.spotify.com/track/4ZVXl0izo6Gz3cGf1uXGQF) | [ZELA](https://open.spotify.com/artist/4Hq5SvV1YpZIDBVaygsGVg) | [I Want Attention](https://open.spotify.com/album/1H3SqVXlAOxhEf1RrU4gJf) | 2:45 |
 
-Snapshot ID: `MCwwNDJkYzcwNWQ3NjUxYTRiMjgwNTUzZjc2MWNhNDc0NzIwMDA1NGFk`
+Snapshot ID: `MCxlMDA2MmMwOGExNWYzYWQ2ODEwYjViNmI2YmRjNDUzYTNjNjg2NjEy`

@@ -4,7 +4,7 @@
 
 > Just try not to move to this mix of recent hits\. Cover: Kx5
 
-281 songs - 14 hr 30 min
+282 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Love Me Better \(with Shift K3Y & Marc E\. Bassy\)](https://open.spotify.com/track/5zHRrkIk98Adfqh25kMZFU) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM), [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa) | [Love Me Better](https://open.spotify.com/album/1FCqo8PHzNgQsxpFUd7VeZ) | 2:30 | 2022-05-27 | 2022-07-29 |
 | [Love The Way You Move \(feat\. Sara Diamond\)](https://open.spotify.com/track/5hMxY2lnop8kCVkNfSycMz) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [Sara Diamond](https://open.spotify.com/artist/4azg4dtpH6PiewGHFzQEj0) | [Restart EP](https://open.spotify.com/album/2vQkBAkvDqzJND57bwMEMr) | 2:44 | 2022-05-27 | 2022-07-29 |
 | [LOVELIFE \(with Jeremih\)](https://open.spotify.com/track/27ITlhgZIx0ZYwaLYYDBsi) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [LOVELIFE \(with Jeremih\)](https://open.spotify.com/album/20z68r2DFjrTCCLLA9xTXM) | 2:31 | 2022-05-27 | 2022-07-19 |
+| [Lullaby](https://open.spotify.com/track/0LRYbMHrBXkXNUBhRkENT1) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [The Wave](https://open.spotify.com/album/51xuEhCDa3SJsvBIWvII8a) | 2:40 | 2023-03-24 |  |
 | [Make Me Feel](https://open.spotify.com/track/4vgP9RNzsXEUcW7Ws50VrI) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [Make Me Feel](https://open.spotify.com/album/4UIF595KTWQs5H1NHDinJI) | 3:21 | 2022-05-27 | 2022-07-27 |
 | [MAMI](https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh) | [Chris Lorenzo](https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [MAMI](https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB) | 4:07 | 2022-10-28 | 2023-07-09 |
 | [Matter of Time](https://open.spotify.com/track/3IuxYZUQ6J9yfqcVtk5h6b) | [Vandelux](https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k), [Alex Maher](https://open.spotify.com/artist/1fdvv0i3DqRnlrpHVBH1ek) | [Matter of Time](https://open.spotify.com/album/0RgsG1zTZxKqOTsRrHWqDh) | 4:00 | 2023-03-24 |  |
@@ -188,7 +189,7 @@
 | [Piece Of Your Heart](https://open.spotify.com/track/1DFD5Fotzgn6yYXkYsKiGs) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Piece Of Your Heart](https://open.spotify.com/album/0cqRGWD3uc5Lggpducn5nD) | 2:32 | 2022-05-27 |  |
 | [Pieces](https://open.spotify.com/track/1RN6ECX6SLW9216rxg3DYG) | [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK), [Tyler Mann](https://open.spotify.com/artist/0Le735jx9ovswbNnEB7zDz) | [Pieces](https://open.spotify.com/album/7heNpsmRYF99QCmdiIYdsY) | 3:00 | 2022-05-27 | 2022-07-29 |
 | [pogo](https://open.spotify.com/track/404b6bC4GIxPsNssJmfC1f) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [pogo](https://open.spotify.com/album/2fq3wurBOOLw6TQBrP3jcw) | 3:27 | 2022-10-14 | 2022-11-13 |
-| [Polaroid](https://open.spotify.com/track/49COPp81lGS9Hl9OwKlsKl) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 3:13 | 2022-05-27 |  |
+| [Polaroid](https://open.spotify.com/track/49COPp81lGS9Hl9OwKlsKl) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Blue](https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L) | 3:13 | 2022-05-27 | 2023-07-19 |
 | [Praise \(feat\. Gunna\)](https://open.spotify.com/track/6VfKN3j3Cqb7nMWZPIX3bJ) | [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Praise \(feat\. Gunna\)](https://open.spotify.com/album/0JMIjyiKXqKUSdCB7mXcJB) | 3:30 | 2022-05-27 | 2022-07-21 |
 | [Pump The Brakes](https://open.spotify.com/track/553gYUFBUpXSQM8CSZcEhg) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [Pump The Brakes](https://open.spotify.com/album/3uOsZZHVaqdfMaZBeGnbYZ) | 3:40 | 2022-05-27 | 2022-07-14 |
 | [Rapture](https://open.spotify.com/track/5Q8uxf5IIGcvB18tRXu0Rp) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Daniel Blume](https://open.spotify.com/artist/7pbay7w0V7OdIr3jzSRkHj) | [Rapture](https://open.spotify.com/album/4lyMqsR3T6SEFEgqzOHgMu) | 2:46 | 2022-05-27 | 2022-07-19 |

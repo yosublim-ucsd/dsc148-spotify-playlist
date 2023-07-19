@@ -2,7 +2,7 @@
 
 ### [Ripple Effect: Tri\-State](https://open.spotify.com/playlist/37i9dQZF1DXc0hXKLIY8EX)
 
-> New York, Jersey, and Conneticut music breaking waves\. Cover: Ice Spice & Nicki Minaj
+> New York, Jersey, and Connecticut music breaking waves\. Cover: Coco & Breezy
 
 99 songs - 4 hr 42 min
 
@@ -39,7 +39,7 @@
 | [Fetty](https://open.spotify.com/track/1lDG57wZSMVbtQ0mDSTNpL) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Fetty](https://open.spotify.com/album/1b73Y5x7ck02CFVDLk4iml) | 2:33 | 2023-06-23 |  |
 | [FlyGod Jr \(feat\. DJ Drama\)](https://open.spotify.com/track/5KXvG7j3Uvs9yyORfjxPv8) | [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [10](https://open.spotify.com/album/138M0lORis5tDxurpIbd7V) | 3:22 | 2023-05-18 |  |
 | [Forever On That](https://open.spotify.com/track/655gj59E31LDwfkWED2SIs) | [Dougie B](https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj) | [Nobody Bigger](https://open.spotify.com/album/5KqaAhpU2mJQf1DlRJfN6G) | 2:01 | 2023-05-18 | 2023-06-12 |
-| [Good 2 Me](https://open.spotify.com/track/7nTVDv34MBZWGbvAvY76Cv) | [Kelz](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [Good 2 Me](https://open.spotify.com/album/3d8jyHquBpXpVwCr1ykcgb) | 2:36 | 2023-05-18 |  |
+| [Good 2 Me](https://open.spotify.com/track/7nTVDv34MBZWGbvAvY76Cv) | [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [Good 2 Me](https://open.spotify.com/album/3d8jyHquBpXpVwCr1ykcgb) | 2:36 | 2023-05-18 |  |
 | [Good Sleep](https://open.spotify.com/track/4CYXhNPah2gj7QLlsNUMBI) | [Eastside Lenny](https://open.spotify.com/artist/2lxvM5XpyeeB108c1KcIXU) | [Good Sleep](https://open.spotify.com/album/1cm1BNxz9XRTy5I5y5wVMP) | 3:00 | 2023-06-11 |  |
 | [High Price \(with Lil Tjay\)](https://open.spotify.com/track/2OvqbosjvY48JgqmySJ2l2) | [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [High Price \(with Lil Tjay\)](https://open.spotify.com/album/0e72MQklCxJo0IJXGmbz8Y) | 3:12 | 2023-05-18 | 2023-06-24 |
 | [Hot Sauce](https://open.spotify.com/track/0Mtk1CAT9lAISJjvBY8CbT) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Hot Sauce](https://open.spotify.com/album/6jeeHsOvUDczcJ17R7ozlc) | 2:57 | 2023-05-18 | 2023-06-12 |

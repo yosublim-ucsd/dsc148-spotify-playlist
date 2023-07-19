@@ -865,6 +865,24 @@
     },
     {
       "album": {
+        "name": "The Nacometers",
+        "url": "https://open.spotify.com/album/3myNHID9PdwczFnrP1300m"
+      },
+      "artists": [
+        {
+          "name": "Nacomi Tanaka",
+          "url": "https://open.spotify.com/artist/4Y9g5hFkVDEPNtwH619a3P"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234176,
+      "name": "Down South In New Orleans",
+      "url": "https://open.spotify.com/track/5PENTfZs9qEAnmzpRv6YkT"
+    },
+    {
+      "album": {
         "name": "Elsewhere",
         "url": "https://open.spotify.com/album/4K1vuIiWDUTu8tr9BCwyH9"
       },
@@ -1230,7 +1248,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 214335,
       "name": "From Gold",
       "url": "https://open.spotify.com/track/3ePd4K8tcdfr7KmbuOTrKK"
@@ -1847,6 +1865,24 @@
     },
     {
       "album": {
+        "name": "I Told You That I Was Afraid (Acoustic)",
+        "url": "https://open.spotify.com/album/1hIGg6MAd0unvfdCRpqCVU"
+      },
+      "artists": [
+        {
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191253,
+      "name": "I Told You That I Was Afraid - Acoustic",
+      "url": "https://open.spotify.com/track/2xI0fHshnUbLnKGB66Mc3c"
+    },
+    {
+      "album": {
         "name": "I'm So Happy",
         "url": "https://open.spotify.com/album/2n9fao5PGUvIayJehrdHf7"
       },
@@ -2416,7 +2452,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 233576,
       "name": "Lovely Day, Lovely Place.",
       "url": "https://open.spotify.com/track/53PNdyacMlicwrlb3JCcJd"
@@ -2546,7 +2582,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 301184,
       "name": "Milk tea",
       "url": "https://open.spotify.com/track/6AA62UWsygs2OxTXdRd5Nz"
@@ -2958,7 +2994,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 189247,
       "name": "reckless driving",
       "url": "https://open.spotify.com/track/5GpEHUNI0T7L7H3DnAaBXh"
@@ -3751,6 +3787,24 @@
     },
     {
       "album": {
+        "name": "the way things go",
+        "url": "https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187800,
+      "name": "the way things go",
+      "url": "https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv"
+    },
+    {
+      "album": {
         "name": "Thinking About You",
         "url": "https://open.spotify.com/album/6Av9V14GQ4dIqQj9QLBhec"
       },
@@ -4076,7 +4130,7 @@
       ],
       "date_added": "2022-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 193146,
       "name": "We Are Never Ever Getting Back Together",
       "url": "https://open.spotify.com/track/0VwNdo84DaVYLIkbVO86ND"
@@ -4527,6 +4581,24 @@
     },
     {
       "album": {
+        "name": "All Time Best \u30cf\u30bf\u30e2\u30c8\u30d2\u30ed",
+        "url": "https://open.spotify.com/album/0JacmVkCsfYIAUSwVXfc7q"
+      },
+      "artists": [
+        {
+          "name": "Motohiro Hata",
+          "url": "https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347280,
+      "name": "\u50d5\u3089\u3092\u3064\u306a\u3050\u3082\u306e",
+      "url": "https://open.spotify.com/track/75eIqRpFLznGV8eKJhXe4e"
+    },
+    {
+      "album": {
         "name": "\u6625\u3092\u5f85\u3064\u50d5\u30894",
         "url": "https://open.spotify.com/album/29dDBzJz0UQAnFy7m0wExv"
       },
@@ -4574,7 +4646,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-03",
+      "date_removed": null,
       "duration_ms": 277293,
       "name": "\u5bb6\u65cf\u306e\u98a8\u666f",
       "url": "https://open.spotify.com/track/0WGw7KgRWqX6WrhsQvYdJE"

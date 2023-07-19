@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-401 songs - 1 day 11 hr 17 min
+402 songs - 1 day 11 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [2daBeat](https://open.spotify.com/track/1BpG59DLyW6jZxN2PYiUA3) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Musik 3](https://open.spotify.com/album/7vHtRLKLA8ZkNBN3kNwlT6) | 5:29 | 2022-02-21 |  |
 | [A Distance Inwards](https://open.spotify.com/track/3zPV4wjfvVAkBM1JMHOyFN) | [Fatima Njai](https://open.spotify.com/artist/2ZsFEqTaZHuETRbQfgBsQS), [Jerome Sydenham](https://open.spotify.com/artist/4e7xQaHgOjyFZtSic0Nk9B) | [Brooklyn Zoo](https://open.spotify.com/album/4ngyeGZoZZN0HGC2uwUHDM) | 5:28 | 2021-12-08 | 2022-07-16 |
 | [A Downpour Of Blessings](https://open.spotify.com/track/13ofhF3akKSze47em3ihua) | [Yone\-ko](https://open.spotify.com/artist/5lpbbYojKrSoU2FoNlah10) | [Dial 2020 \(II\)](https://open.spotify.com/album/2rwZVVj0gLRL7z1D09QmYE) | 6:59 | 2022-02-21 | 2022-07-25 |
+| [A Power Over Me](https://open.spotify.com/track/3uPjbqezNTMIxRTaHYy5di) | [Joseph Ray](https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX), [Elliot Vast](https://open.spotify.com/artist/2hJtwaX9JEp7l8EjigYkaA) | [A Power Over Me EP](https://open.spotify.com/album/78uWTRjStnaxMpfeFj9MR1) | 5:34 | 2023-07-14 |  |
 | [A Sheltered Place \- Phaeleh Remix](https://open.spotify.com/track/38CngZw3TDi2XDCQPMKHJR) | [Way Out West](https://open.spotify.com/artist/3HghjRl8Mo6OJWG0WElY2z), [Phaeleh](https://open.spotify.com/artist/5NkUpXWkeXspvu7iQQOHhP) | [Tuesday Maybe \(Remixed\)](https://open.spotify.com/album/5hZJq3tQTNmLd7uZm3ljZw) | 3:48 | 2021-12-08 | 2023-01-06 |
 | [Ahmed](https://open.spotify.com/track/1rIxb5rv6BUWXT6xmLt91x) | [Acid Pauli](https://open.spotify.com/artist/3LHqODf1hGAgZ5LTw1Gf4C) | [Mainacht](https://open.spotify.com/album/1iPW3GbDkNYheqeyWjMDn8) | 6:48 | 2021-12-08 |  |
 | [Air](https://open.spotify.com/track/2tVifODuxy46RFMDFzYMkI) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc) | [Air](https://open.spotify.com/album/7KGE6G4CQDvAoWpCg8vjFS) | 3:46 | 2023-05-12 |  |
@@ -174,7 +175,7 @@
 | [Karizma](https://open.spotify.com/track/6oTrSmQUsvndDDQSMjqcyM) | [Moe Turk](https://open.spotify.com/artist/12rv3gD3SpWQRRkswqlwvF) | [Karizma](https://open.spotify.com/album/012jKWKp9G69I3jQXhvh4C) | 5:52 | 2022-10-28 |  |
 | [Keep Going](https://open.spotify.com/track/0JDSAbpZjlSMP2fpFjtiuN) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Keep Going](https://open.spotify.com/album/6QehqXj90f0dAm6IqMPtRo) | 3:44 | 2023-02-03 |  |
 | [Keep On](https://open.spotify.com/track/5Zm8huZ4tzDm7eLKFScrE8) | [Seb Wildblood](https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Keep On](https://open.spotify.com/album/1H43fXF8GpLEXaWk2raqxO) | 3:38 | 2022-05-03 |  |
-| [Keep On Reachin \- Main Mix](https://open.spotify.com/track/56Dv87Nbnwx9TLMxUkYbLG) | [Junior Sanchez](https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni) | [Keep on Reachin](https://open.spotify.com/album/2ZaDoH0PAeavRtIvmPKwq3) | 5:24 | 2021-12-08 |  |
+| [Keep On Reachin \- Main Mix](https://open.spotify.com/track/56Dv87Nbnwx9TLMxUkYbLG) | [Junior Sanchez](https://open.spotify.com/artist/31ZNfGVEEcI9CyicPVJQni) | [Keep on Reachin](https://open.spotify.com/album/2ZaDoH0PAeavRtIvmPKwq3) | 5:24 | 2021-12-08 | 2023-07-19 |
 | [Keramas](https://open.spotify.com/track/6QYthxincEvqQzGkfAOAiK) | [Moon Boots](https://open.spotify.com/artist/3cIXmCH7iNcslTbwrwS7zy) | [Keramas / Harpanet](https://open.spotify.com/album/3d6TLlQimQZIXeQyhMFQq4) | 3:44 | 2021-12-08 | 2023-07-07 |
 | [Kunzite](https://open.spotify.com/track/4zEbnQ59YXDeCC8Cc81pjc) | [Hosini](https://open.spotify.com/artist/3DQ7WGIfJ4z4aQzNE1bNFF) | [8 Hours, Still No Rain EP](https://open.spotify.com/album/0BOaheOSk6cpvXPm3spOx0) | 4:27 | 2021-12-08 |  |
 | [L'owè L'owè](https://open.spotify.com/track/2kvJDwV4Mfm2ItUUMmkzSx) | [DJ Qness](https://open.spotify.com/artist/6VT3tPkf65cNEp8vOdpWZ0), [Dele Sosimi](https://open.spotify.com/artist/2HHFbP3OFh0bOgdnMYfqsc) | [L'owe L'owe](https://open.spotify.com/album/6sIfcPlPmIZDFytI1m0qGG) | 7:29 | 2021-12-08 |  |

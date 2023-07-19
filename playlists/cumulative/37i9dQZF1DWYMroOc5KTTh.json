@@ -2703,24 +2703,6 @@
     },
     {
       "album": {
-        "name": "Feel Good",
-        "url": "https://open.spotify.com/album/7bV4wxsjlnAq7hJ4y4MTQm"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "date_added": "2021-12-03",
-      "date_added_asterisk": false,
-      "date_removed": "2022-04-17",
-      "duration_ms": 238465,
-      "name": "Feel Good",
-      "url": "https://open.spotify.com/track/3NMFWhIDAdDGX3xmXOxHyo"
-    },
-    {
-      "album": {
         "name": "Kingdoms In Colour",
         "url": "https://open.spotify.com/album/70FGsJuLXPQHYdKmEZZFq9"
       },
@@ -2738,8 +2720,26 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 267200,
-      "name": "Feel Good (feat. Khruangbin)",
+      "name": "Feel Good",
       "url": "https://open.spotify.com/track/3PURbsY67tLMyausOABtit"
+    },
+    {
+      "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/7bV4wxsjlnAq7hJ4y4MTQm"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "date_added": "2021-12-03",
+      "date_added_asterisk": false,
+      "date_removed": "2022-04-17",
+      "duration_ms": 238465,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/3NMFWhIDAdDGX3xmXOxHyo"
     },
     {
       "album": {

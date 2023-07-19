@@ -4,7 +4,7 @@
 
 > Music from and inspired by Stranger Things\. Watch Season 4 now on Netflix.
 
-288 songs - 17 hr 13 min
+289 songs - 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,7 +259,8 @@
 | [Travelin' Man](https://open.spotify.com/track/0ud4DLDefQPNjvVEydOJhJ) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Stranger Things: Soundtrack from the Netflix Series, Season 4](https://open.spotify.com/album/62YEXS8uOu8fUlCrU3ideq) | 2:20 | 2022-05-27 | 2022-07-29 |
 | [Travelin' Man \- Remastered](https://open.spotify.com/track/1sM0yZDxUhPQhkDh2CLd6l) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Rick Is 21](https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe) | 2:23 | 2022-05-27 |  |
 | [Travelin' Man \- Remastered 2005](https://open.spotify.com/track/0aeT5q3E5l7XGo0By8vayQ) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Greatest Hits \(Remastered 2005\)](https://open.spotify.com/album/4HkxQSHkmiVbHqvurMFXG8) | 2:20 | 2022-05-27 | 2022-11-14 |
-| [Twilight's Fires](https://open.spotify.com/track/42oCqSWKMxVnBZlJqm5YZU) | [The Red Army Choir](https://open.spotify.com/artist/4yNluGAiPbYXLwlA9KspbG) | [The CCCP Years](https://open.spotify.com/album/0VxATEaN6KiKbszFYcrPyB) | 3:19 | 2022-07-01 |  |
+| [Twilight's Fires](https://open.spotify.com/track/42oCqSWKMxVnBZlJqm5YZU) | [The Red Army Choir](https://open.spotify.com/artist/4yNluGAiPbYXLwlA9KspbG) | [The CCCP Years](https://open.spotify.com/album/0VxATEaN6KiKbszFYcrPyB) | 3:19 | 2022-07-01 | 2023-07-19 |
+| [Twilight's Fires](https://open.spotify.com/track/66P8SexTZUf1H9iM5d7GDJ) | [The Red Army Choir](https://open.spotify.com/artist/4yNluGAiPbYXLwlA9KspbG) | [The Greatest Hits](https://open.spotify.com/album/2Rtq1xIH9jCNFCliXhbrjw) | 3:19 | 2023-02-27 |  |
 | [Twist of Fate](https://open.spotify.com/track/7k7i5YHJSLTbBSuwnWtSBn) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Stranger Things \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/0CTCk1eshEadFqZ4NBfe9N) | 3:37 | 2017-12-20 |  |
 | [Up Around The Bend](https://open.spotify.com/track/36gPq8WG7tDxrblyGVUCiT) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Cosmo's Factory \(Expanded Edition\)](https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK) | 2:41 | 2022-07-01 |  |
 | [Violin Concerto In D Major, Op\. 35: III\. Finale: Allegro assai vivace](https://open.spotify.com/track/7hOLwSaTSkrqxSMzj4bXI1) | [Erich Wolfgang Korngold](https://open.spotify.com/artist/3UaJz1tq0BBPzJBPgkBarb), [Anne\-Sophie Mutter](https://open.spotify.com/artist/6pzfUmBsQAKxOhy0NSi8zn), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [André Previn](https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq) | [Tchaikovsky / Korngold: Violin Concertos](https://open.spotify.com/album/7ElG4lGHDAAgYjvzL9gxFL) | 7:04 | 2022-05-27 |  |

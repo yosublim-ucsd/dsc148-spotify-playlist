@@ -4,7 +4,7 @@
 
 > maybe it's punk, maybe it's not\. Cover: FEVER 333
 
-227 songs - 11 hr 40 min
+228 songs - 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [f\*ck everything! \- Spotify Singles \(feat\. The Drums\)](https://open.spotify.com/track/3oE4zL430c18NuiRWDHRLY) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH), [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [f\*ck everything! \- Spotify Singles \(feat\. The Drums\)](https://open.spotify.com/album/4pH6JKPaFwEyuSfw6IPEQ8) | 3:01 | 2021-12-20 | 2022-08-29 |
 | [FAMOUS ON THE INTERNET](https://open.spotify.com/track/2Bv5kb0dgXjWMu0kujn0TD) | [Ekoh](https://open.spotify.com/artist/5lC7N2Mm9i92KSfW4opawO) | [FAMOUS ON THE INTERNET](https://open.spotify.com/album/4SKKceJCjDXlUx8NG3UHHG) | 2:54 | 2022-08-05 | 2023-03-08 |
 | [Feel Nothing](https://open.spotify.com/track/2xLhpVdgziewWHydp0csEn) | [Amen Dunes](https://open.spotify.com/artist/1jwOuEBcOKq0BeudSarbEM), [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Feel Nothing](https://open.spotify.com/album/2KYtRpM7ONr6kRJnta41Pf) | 5:31 | 2021-12-20 | 2022-08-06 |
-| [Fight Alone](https://open.spotify.com/track/3zMFgPNhMu2Em1E4HvNcqw) | [Motive Black](https://open.spotify.com/artist/1cCTbyI3umMlxOoqjt7uDw) | [Fight Alone](https://open.spotify.com/album/6C1DNopbfI128o0pc2iahx) | 3:40 | 2022-12-08 |  |
+| [Fight Alone](https://open.spotify.com/track/3zMFgPNhMu2Em1E4HvNcqw) | [Motive Black](https://open.spotify.com/artist/1cCTbyI3umMlxOoqjt7uDw) | [Fight Alone](https://open.spotify.com/album/6C1DNopbfI128o0pc2iahx) | 3:40 | 2022-12-08 | 2023-07-19 |
 | [Finger My Heart](https://open.spotify.com/track/4P2dzCa69sLHk1QmlAVayX) | [mirabelle.](https://open.spotify.com/artist/5TMUjYIR8pxt2p1JIJeEl0) | [Finger My Heart](https://open.spotify.com/album/0S7mEp3sUtWTU4GXIcrDQt) | 3:13 | 2022-06-15 | 2022-12-25 |
 | [Flawed Guy](https://open.spotify.com/track/38L0QwyBMuqWlpC4oBl4UV) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Flawed Guy](https://open.spotify.com/album/57KOzUqReaxjaZG6czVlzf) | 2:06 | 2022-12-08 | 2022-12-17 |
 | [Flux](https://open.spotify.com/track/39limMlZ5B25XM1FhNqa02) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [Flux](https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC) | 5:00 | 2022-09-29 |  |
@@ -192,6 +192,7 @@
 | [Sand Fight](https://open.spotify.com/track/0krlA3U69xTFIrbEAwALak) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Sand Fight](https://open.spotify.com/album/5I4VwcRRbnDPOZC0wFt4IU) | 3:36 | 2021-12-20 | 2022-08-06 |
 | [Satanic Slumber Party Part 2 \(Midnight In Sodom\)](https://open.spotify.com/track/1uMcy6dDlrQby1nD6xwKOw) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL), [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Satanic Slumber Party](https://open.spotify.com/album/2xRTFyydYap0kAWPfJwU2i) | 5:42 | 2022-03-18 | 2022-08-26 |
 | [say what u mean \(with Riovaz\)](https://open.spotify.com/track/3898X5xiidWYtAm4LeDveB) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD), [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [say what u mean \(with Riovaz\)](https://open.spotify.com/album/5Y314Kdl6PFqQq0e8BHJt9) | 2:31 | 2022-11-18 |  |
+| [Security](https://open.spotify.com/track/2MYFQY0BKWPdgqnIYses9T) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/1zAAQOVEfxCNmtPDtbLC9c) | 3:47 | 2023-06-02 |  |
 | [Security](https://open.spotify.com/track/3JN0tKB2SQsrZINcSkVM09) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Comfort To Me](https://open.spotify.com/album/24JeT9uxcmqL227jId3Pci) | 3:47 | 2022-07-07 | 2023-07-16 |
 | [Security](https://open.spotify.com/track/4q52YCaquqmKBqVpwVNSjg) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Security](https://open.spotify.com/album/01cMFHnfw6GGrg8djMAzwN) | 3:47 | 2021-12-20 | 2022-07-29 |
 | [Self\-care 101](https://open.spotify.com/track/0nWXMjeGtC8P0bNBly9oo9) | [Lazy Queen](https://open.spotify.com/artist/1U9zqBUEcScanms647YanK) | [Get Home Or Die Trying](https://open.spotify.com/album/1FsVH5o3NvtOCQDuCyEZgv) | 5:20 | 2021-12-20 | 2022-07-29 |

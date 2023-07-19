@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Slings, Villabanks, Niky Savage e tanti altri.
 
-2,086 songs - 3 day 23 hr 8 min
+2,087 songs - 3 day 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -683,6 +683,7 @@
 | [Force Uno](https://open.spotify.com/track/1bN6BbnnFOUN3m5EpLP3h1) | [Fella Clockers](https://open.spotify.com/artist/6jtarVKNvaomAUXbBJZjob), [Ric de Large](https://open.spotify.com/artist/6It8QDcivbTwJ46Gk9WUvu) | [Force Uno](https://open.spotify.com/album/0PUD4A0Py8GrPv2c9wXtMB) | 2:07 | 2023-04-06 | 2023-04-21 |
 | [Forever](https://open.spotify.com/track/3e0SaoZjexCbK9e3jHZFNQ) | [Affu Jr.](https://open.spotify.com/artist/7r4XAvbJLZD9jxBPSllXTJ) | [Forever](https://open.spotify.com/album/26B39SDLCc8rQcBVC8NUQL) | 3:02 | 2022-10-20 | 2022-10-28 |
 | [Forget About It](https://open.spotify.com/track/65N24i1XlJavtiNqzuO6xt) | [Tommy Brillante](https://open.spotify.com/artist/3h4O6TeqWlerxYOmNvXQ4A) | [Forget About It](https://open.spotify.com/album/1rNPIhIOpCalGoL0Eh275T) | 2:30 | 2022-09-22 | 2022-09-30 |
+| [Formentera](https://open.spotify.com/track/12IR65dUPwMXxB7Y3HGw1c) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Formentera](https://open.spotify.com/album/4iUG3rZBWlkeCgfVAmIA65) | 2:58 | 2023-07-18 |  |
 | [Forte](https://open.spotify.com/track/4UU9WRiyPVrmXO3FgwXEDD) | [44Moca](https://open.spotify.com/artist/5mE5vxk4MlRxhcAHgbPKpQ), [Nelson](https://open.spotify.com/artist/4GvQ2vmzbBgRXhjGlgYeYR) | [Forte](https://open.spotify.com/album/3VXmoEv0zYB2K40UxP6yS6) | 2:51 | 2022-05-10 | 2022-05-13 |
 | [Fossa Di Serpi](https://open.spotify.com/track/3UAQC8vTiBPw2RV8LrEbZX) | [Tony 2Milli](https://open.spotify.com/artist/4L9l063lRlIevWZ7UMpqlf) | [Fossa Di Serpi](https://open.spotify.com/album/4l46vEqMDGiIMgrfszVgq2) | 1:35 | 2022-11-24 | 2022-12-02 |
 | [FOTO DI NOI \(feat\. Drast\)](https://open.spotify.com/track/5HTeJX7LmoMwAwvXOOQcH4) | [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ), [Drast](https://open.spotify.com/artist/4e250LmaRPGcp0rbUbJtJm) | [FOTO DI NOI \(feat\. Drast\)](https://open.spotify.com/album/5itMdt8FnxYp7JKS75ypHh) | 3:13 | 2022-05-12 | 2022-05-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bJXtym592H.md) - [plain]
 
 > n3xt l3v3l gaming beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,632 likes - 133 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,652 likes - 133 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bJXtym592H.md) - [plain]
 | 72 | [The Obsidian](https://open.spotify.com/track/6txq59sHEmYV0AQ44WMz5X) | [Bored Mango](https://open.spotify.com/artist/5eo18c4KyYfalNC4LuCX7g) | [Take Me Anywhere](https://open.spotify.com/album/07NkbnWE7rwiykelukepYY) | 1:50 |
 | 73 | [Peach Sky](https://open.spotify.com/track/553ntYSPcu70QIRXtBjAHD) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Echo Cliff](https://open.spotify.com/album/5iPfYQFToHZYZMQHVZf9el) | 2:04 |
 | 74 | [Never Wing](https://open.spotify.com/track/6Ex7cCiMaj2mML0BCOG26H) | [DHN Missile](https://open.spotify.com/artist/188QXbK4VlrMgI7jleq5XF) | [Never Wing](https://open.spotify.com/album/1eRT425XrXde5hqIgQgkZ9) | 2:16 |
-| 75 | [Sometime](https://open.spotify.com/track/5wlLF3893tOtvLR6pSkodi) | [Natural Yoghurt](https://open.spotify.com/artist/4TeR99t1Oz0dXu0xTFAt5J) | [Can't make it without U](https://open.spotify.com/album/6oGnAtyHgkZdXYfHl6LzDf) | 1:58 |
+| 75 | [Sometime](https://open.spotify.com/track/5wlLF3893tOtvLR6pSkodi) | [Bending Lights](https://open.spotify.com/artist/6P02YGhZmko2kdalxsmctl) | [Can't make it without U](https://open.spotify.com/album/6oGnAtyHgkZdXYfHl6LzDf) | 1:58 |
 | 76 | [Out Of Nowhere](https://open.spotify.com/track/1X7SwXy7095XlufeAKwAfP) | [robomoque](https://open.spotify.com/artist/2ebmZztT6aXM00u6MEnD5v) | [Out Of Nowhere](https://open.spotify.com/album/2Xda4z1VMnhUT5EUa94m9q) | 2:01 |
 | 77 | [Blunt](https://open.spotify.com/track/74azkm1oJ7QdoYz8UOa590) | [Dilly the Great](https://open.spotify.com/artist/4FWZ21Ecu54GTSmdWUutVG) | [Blunt](https://open.spotify.com/album/3zWxZYmlPTJfC1a35Qr4O4) | 3:08 |
 | 78 | [Rusty Chain](https://open.spotify.com/track/0FFHsPKHp3XxJBg7T7reCM) | [Groovemover](https://open.spotify.com/artist/6SZYCLTc21zHQPl8wKkB9d) | [Like That](https://open.spotify.com/album/4krDnUTuZ7hoQhkhUezU4U) | 2:36 |
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1bJXtym592H.md) - [plain]
 | 132 | [Animal Lounge](https://open.spotify.com/track/0NksmvvLWEDGbMBfl2Uyqi) | [Inue](https://open.spotify.com/artist/2zD22BN6MTdYyJ1vETMZ2k) | [Marble Man](https://open.spotify.com/album/6NEtdVFyAVtH2IJJz1YGOa) | 2:51 |
 | 133 | [Willow Whip](https://open.spotify.com/track/11NjsqNM0Kwnqop5rCYlpq) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Willow Whip](https://open.spotify.com/album/5G7mHOpSZbzMi857KYssc5) | 3:07 |
 
-Snapshot ID: `MCxjZWMyZTEyNTA0MzI2MDM1ZTQwN2M1MzBjMmYzZDQzZGMyYTI2Zjdj`
+Snapshot ID: `MCxjNTJlNjA1YmI4NWFiM2I2ZGY2NTc2ZGU2MzZjZWFiZmNjYTM4ZGMz`

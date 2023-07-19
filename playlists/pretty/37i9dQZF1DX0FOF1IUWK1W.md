@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 
 > Ana Castela e os maiores hits do país\. O que tá bombando tá aqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,716,727 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,718,767 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 49 | [DONA DE MIM](https://open.spotify.com/track/7sopDXkuzXtHt8AQpdBxmT) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [DONA DE MIM](https://open.spotify.com/album/6gUUHKk5qcIHyffnbfApNO) | 2:25 |
 | 50 | [Desejo Imortal \(It Must Have Been Love\)](https://open.spotify.com/track/1L7hWEc3tVjvmbw48ShktM) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Desejo Imortal \(It Must Have Been Love\)](https://open.spotify.com/album/5dJzuxTgkvdhSlgInkqMqC) | 3:04 |
 
-Snapshot ID: `MCxjNTQ0ZWZhMzM1YjdhOWYzNGVkOTI0YjRjZjhjMzk0YzQzMGZmNzMx`
+Snapshot ID: `MCxlYjY1ZjNjMzczMGI5N2MyMTU2YjRiNGMyYWM1ZjE5ZGQwNjZiOGNl`

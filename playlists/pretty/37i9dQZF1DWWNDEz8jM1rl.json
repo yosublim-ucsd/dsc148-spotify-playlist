@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 113247,
+  "num_followers": 113292,
   "original_name": "Baila Con Dios",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MmM4Njc1OGZmNTdiMzc0OWFlYzJiZGIyYjQzMTQ2YTk3ODNmMjQy",
+  "snapshot_id": "MCxkNmZlMWYwMTdiNTg4MTVmNzhkMmU3MzRiMmY4ZjBjZTQ0MGMzMTFl",
   "tracks": [
     {
       "added_at": "2020-09-18 05:02:00",
@@ -435,22 +435,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Contigo Todo Es Posible",
-        "url": "https://open.spotify.com/album/71ocNlRBhhM7EPMUxDX7g2"
-      },
-      "artists": [
-        {
-          "name": "Redimidos",
-          "url": "https://open.spotify.com/artist/09J01ekgESe5aPS6Dgr2F7"
-        }
-      ],
-      "duration_ms": 245173,
-      "name": "Vivo por Cristo",
-      "url": "https://open.spotify.com/track/1uqbbNbQf2vpYEXeLR5W5d"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "30 Bachatas Cristianas Pegaditas",
         "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
       },
@@ -467,34 +451,18 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Vivo Enamorado",
-        "url": "https://open.spotify.com/album/5weYqhXk45tTuKTB5LRSJ5"
+        "name": "Contigo Todo Es Posible",
+        "url": "https://open.spotify.com/album/71ocNlRBhhM7EPMUxDX7g2"
       },
       "artists": [
         {
-          "name": "Richard Cepeda",
-          "url": "https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq"
+          "name": "Redimidos",
+          "url": "https://open.spotify.com/artist/09J01ekgESe5aPS6Dgr2F7"
         }
       ],
-      "duration_ms": 244426,
-      "name": "Digan Lo Que Diga",
-      "url": "https://open.spotify.com/track/0uWS9oivRA7qh4nexcZho3"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "Soy Sonero",
-        "url": "https://open.spotify.com/album/2mJmN2QxAygva8MwukonqS"
-      },
-      "artists": [
-        {
-          "name": "Jose \"Papo\" Rivera",
-          "url": "https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY"
-        }
-      ],
-      "duration_ms": 255242,
-      "name": "Salsa del Cielo",
-      "url": "https://open.spotify.com/track/402sqB8gweQGnKTPEWsmJe"
+      "duration_ms": 245173,
+      "name": "Vivo por Cristo",
+      "url": "https://open.spotify.com/track/1uqbbNbQf2vpYEXeLR5W5d"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -515,6 +483,38 @@
       "duration_ms": 195459,
       "name": "Dependo de Ti",
       "url": "https://open.spotify.com/track/6V6BQzogQ4WtHBtGKYpCZ8"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Soy Sonero",
+        "url": "https://open.spotify.com/album/2mJmN2QxAygva8MwukonqS"
+      },
+      "artists": [
+        {
+          "name": "Jose \"Papo\" Rivera",
+          "url": "https://open.spotify.com/artist/3lp74D745VvTN1w5ZH8IbY"
+        }
+      ],
+      "duration_ms": 255242,
+      "name": "Salsa del Cielo",
+      "url": "https://open.spotify.com/track/402sqB8gweQGnKTPEWsmJe"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Vivo Enamorado",
+        "url": "https://open.spotify.com/album/5weYqhXk45tTuKTB5LRSJ5"
+      },
+      "artists": [
+        {
+          "name": "Richard Cepeda",
+          "url": "https://open.spotify.com/artist/5Ss0gsyIYSgFgt6l6hjcqq"
+        }
+      ],
+      "duration_ms": 244426,
+      "name": "Digan Lo Que Diga",
+      "url": "https://open.spotify.com/track/0uWS9oivRA7qh4nexcZho3"
     },
     {
       "added_at": "2020-09-18 05:02:00",

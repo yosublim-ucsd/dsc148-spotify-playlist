@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 
 > Descubre los nuevos álbumes del año\. Hit shuffle for a mixed listening experience\. Cover: Maikel Delacalle
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,579 likes - 200 songs - 10 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,610 likes - 200 songs - 10 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxf0LotrLLG.md) - [plain]
 | 199 | [Exclusivos](https://open.spotify.com/track/34gWBtM3kKSd3VPx1x9qy1) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Capitulaciones](https://open.spotify.com/album/3S4DjtnPJlQVD2ChDjF3xx) | 2:40 |
 | 200 | [La Putivuelta](https://open.spotify.com/track/2oxdVeloBJzEM8LueRI1WR) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Capitulaciones](https://open.spotify.com/album/3S4DjtnPJlQVD2ChDjF3xx) | 2:27 |
 
-Snapshot ID: `MCw4ZmI4MzI3YjlkOTkwMDdmNmU5ZWNkMjJhMTExMTBlMmY0MjYxZDA4`
+Snapshot ID: `MCxkMWQxNGEwMmUyM2RmNDEyOTBkNzZlZTcyYjk0MjM5NjI5MDViYTQ3`

@@ -1378,7 +1378,7 @@
       ],
       "date_added": "2023-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 163157,
       "name": "The Door",
       "url": "https://open.spotify.com/track/0aud7NouD28YTcD7WJzioD"
@@ -1654,6 +1654,24 @@
       "duration_ms": 91134,
       "name": "Trapped",
       "url": "https://open.spotify.com/track/7mQVOtmBlOQXJr3A95nkOR"
+    },
+    {
+      "album": {
+        "name": "Chernobyl (Music from the Original TV Series)",
+        "url": "https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156665,
+      "name": "Turbine Hall",
+      "url": "https://open.spotify.com/track/1cS7AxpJiwDhCh7v2B0LRd"
     },
     {
       "album": {

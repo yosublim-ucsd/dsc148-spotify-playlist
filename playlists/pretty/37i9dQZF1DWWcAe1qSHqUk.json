@@ -1,12 +1,12 @@
 {
   "description": "\u7235\u58eb\u5c31\u662f\u4e00\u500b\u8072\u97f3\u7684\u7d33\u58eb\uff0c\u6709\u6b4c\u8072\u52d5\u4eba\u3001\u6709\u6f14\u594f\u512a\u96c5\uff0c\u65cb\u5f8b\u7f8e\u5999\u4e4b\u9918\u9084\u6fc3\u6fc3\u60c5\u610f\uff01",
-  "num_followers": 56224,
+  "num_followers": 56236,
   "original_name": "\u7235\u58eb\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTVjN2QzOGRiZDhmMmE2NWJjZDliZGM0ODJjNGE0YjljMGJlOTRi",
+  "snapshot_id": "MCxhM2M2OWU1NGRiYjNjYmI2NzQyN2ZiNDViNDA4ZDNkMTM3ZWNmZTlh",
   "tracks": [
     {
       "added_at": "2023-07-17 03:54:29",
@@ -395,22 +395,6 @@
     {
       "added_at": "2023-07-17 03:54:29",
       "album": {
-        "name": "Travelin' Light",
-        "url": "https://open.spotify.com/album/3C1Lr4lVx6EGTiWljHCfSD"
-      },
-      "artists": [
-        {
-          "name": "Shirley Horn",
-          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
-        }
-      ],
-      "duration_ms": 149640,
-      "name": "And I Love Him",
-      "url": "https://open.spotify.com/track/02y0x44un8HW3zsxrS1oQL"
-    },
-    {
-      "added_at": "2023-07-17 03:54:29",
-      "album": {
         "name": "This Guy's In Love",
         "url": "https://open.spotify.com/album/6CvJ1nkaBFnqfK1JSJ60Jy"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 223066,
       "name": "This Guy's In Love With You",
       "url": "https://open.spotify.com/track/3l91QxfQ9vyxq5AJU4D1FC"
+    },
+    {
+      "added_at": "2023-07-17 03:54:29",
+      "album": {
+        "name": "Travelin' Light",
+        "url": "https://open.spotify.com/album/3C1Lr4lVx6EGTiWljHCfSD"
+      },
+      "artists": [
+        {
+          "name": "Shirley Horn",
+          "url": "https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd"
+        }
+      ],
+      "duration_ms": 149640,
+      "name": "And I Love Him",
+      "url": "https://open.spotify.com/track/02y0x44un8HW3zsxrS1oQL"
     },
     {
       "added_at": "2023-07-17 03:54:29",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-07-17 03:54:29",
       "album": {
+        "name": "Michael Bubl\u00e9",
+        "url": "https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 276440,
+      "name": "Kissing a Fool",
+      "url": "https://open.spotify.com/track/2gXTiVrPqj5ys67xrOXZCs"
+    },
+    {
+      "added_at": "2023-07-17 03:54:29",
+      "album": {
         "name": "Grover's Hat Project",
         "url": "https://open.spotify.com/album/03h6Ue9jM1mPnOpwx5PdE0"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 296586,
       "name": "That\u2019s My Desire",
       "url": "https://open.spotify.com/track/76UAKQQF3AylDr39Sm9uY6"
-    },
-    {
-      "added_at": "2023-07-17 03:54:29",
-      "album": {
-        "name": "Michael Bubl\u00e9",
-        "url": "https://open.spotify.com/album/3rpSksJSFdNFqk5vne8at2"
-      },
-      "artists": [
-        {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
-        }
-      ],
-      "duration_ms": 276440,
-      "name": "Kissing a Fool",
-      "url": "https://open.spotify.com/track/2gXTiVrPqj5ys67xrOXZCs"
     },
     {
       "added_at": "2023-07-17 03:54:29",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-07-17 03:54:29",
       "album": {
-        "name": "In Blue",
-        "url": "https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp"
-      },
-      "artists": [
-        {
-          "name": "Karrin Allyson",
-          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
-        }
-      ],
-      "duration_ms": 339893,
-      "name": "How Long Has This Been Going On?",
-      "url": "https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV"
-    },
-    {
-      "added_at": "2023-07-17 03:54:29",
-      "album": {
         "name": "The Very Thought of You",
         "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 316453,
       "name": "Make It Last",
       "url": "https://open.spotify.com/track/69Di4YxK4PB1ivkRdeglt5"
+    },
+    {
+      "added_at": "2023-07-17 03:54:29",
+      "album": {
+        "name": "In Blue",
+        "url": "https://open.spotify.com/album/7h7XHPDvoFxE7MswAuDvgp"
+      },
+      "artists": [
+        {
+          "name": "Karrin Allyson",
+          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
+        }
+      ],
+      "duration_ms": 339893,
+      "name": "How Long Has This Been Going On?",
+      "url": "https://open.spotify.com/track/7ByMl8ACN6rkAbN5c8T8BV"
     },
     {
       "added_at": "2023-07-17 03:54:29",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-07-17 03:54:29",
       "album": {
-        "name": "Easy Does It",
-        "url": "https://open.spotify.com/album/0htWsoC4ORq9URJmrBEiCI"
-      },
-      "artists": [
-        {
-          "name": "Isabelle Antena",
-          "url": "https://open.spotify.com/artist/4EuW5xabgZbQPLvJI9ksgZ"
-        }
-      ],
-      "duration_ms": 173293,
-      "name": "Moonlight Dancer",
-      "url": "https://open.spotify.com/track/7qnGOq6WC4rxe7tdYqTbUC"
-    },
-    {
-      "added_at": "2023-07-17 03:54:29",
-      "album": {
         "name": "Memories of You: A Tribute to Benny Goodman",
         "url": "https://open.spotify.com/album/6HkIihEq6W1ScwbmyC5gH9"
       },
@@ -947,18 +931,18 @@
     {
       "added_at": "2023-07-17 03:54:29",
       "album": {
-        "name": "Marshall (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3L4djDxGf9l7mF39CGlHOZ"
+        "name": "Easy Does It",
+        "url": "https://open.spotify.com/album/0htWsoC4ORq9URJmrBEiCI"
       },
       "artists": [
         {
-          "name": "Marcus Miller",
-          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+          "name": "Isabelle Antena",
+          "url": "https://open.spotify.com/artist/4EuW5xabgZbQPLvJI9ksgZ"
         }
       ],
-      "duration_ms": 152106,
-      "name": "For the Love of Freedom",
-      "url": "https://open.spotify.com/track/2yuDexdINZo3jxbFHf5fLw"
+      "duration_ms": 173293,
+      "name": "Moonlight Dancer",
+      "url": "https://open.spotify.com/track/7qnGOq6WC4rxe7tdYqTbUC"
     },
     {
       "added_at": "2023-07-17 03:54:29",
@@ -975,6 +959,22 @@
       "duration_ms": 197626,
       "name": "Rat In My Kitchen",
       "url": "https://open.spotify.com/track/5L9AhlWonCDOuv5frdT0bn"
+    },
+    {
+      "added_at": "2023-07-17 03:54:29",
+      "album": {
+        "name": "Marshall (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3L4djDxGf9l7mF39CGlHOZ"
+      },
+      "artists": [
+        {
+          "name": "Marcus Miller",
+          "url": "https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9"
+        }
+      ],
+      "duration_ms": 152106,
+      "name": "For the Love of Freedom",
+      "url": "https://open.spotify.com/track/2yuDexdINZo3jxbFHf5fLw"
     },
     {
       "added_at": "2023-07-17 03:54:29",

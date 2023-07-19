@@ -2975,6 +2975,24 @@
     },
     {
       "album": {
+        "name": "In Surrender",
+        "url": "https://open.spotify.com/album/096jTx1VevoVEXnlVxh18N"
+      },
+      "artists": [
+        {
+          "name": "Equippers Worship",
+          "url": "https://open.spotify.com/artist/1eswTstCzVURi1R8PeAmE1"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276247,
+      "name": "In Surrender",
+      "url": "https://open.spotify.com/track/6klXBxgQT8g4jsG1vzSMfw"
+    },
+    {
+      "album": {
         "name": "In The Mighty Name",
         "url": "https://open.spotify.com/album/67GOpBBrbPkSnz7LHQBMXW"
       },
@@ -5886,6 +5904,24 @@
       "duration_ms": 190736,
       "name": "What A Good God",
       "url": "https://open.spotify.com/track/2655uqZtu3w2O1ffwE9srv"
+    },
+    {
+      "album": {
+        "name": "What A Life (Live)",
+        "url": "https://open.spotify.com/album/6zIH9RSZIw8jYK9bQGQx0e"
+      },
+      "artists": [
+        {
+          "name": "Futures",
+          "url": "https://open.spotify.com/artist/6CZGjSCwsv967PAK4MfqC3"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226486,
+      "name": "What A Life - Live",
+      "url": "https://open.spotify.com/track/4l9ILkQtnoGmYkEri6LPN6"
     },
     {
       "album": {

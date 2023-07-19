@@ -1,12 +1,12 @@
 {
   "description": "The sound and soul that keeps Mauritius jamming",
-  "num_followers": 1047,
+  "num_followers": 1051,
   "original_name": "Sega Hitlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTEzNzg3NzNmNGRmNWRkMWVjNWFiMmU5MGVhZjgyYThhNGEyOTc0",
+  "snapshot_id": "MCw2MzFiZDY1Nzc1OTIyZWQ4ODlmMDE4ZDhjYTkyNzQ1ZmEwNmY4MmFl",
   "tracks": [
     {
       "added_at": "2022-08-11 10:05:16",
@@ -63,22 +63,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Le meilleur de Cassiya avec D\u00e9sir\u00e9 Fran\u00e7ois (Best Of, vol. 1)",
-        "url": "https://open.spotify.com/album/6KeVT9o7E0gqnyhugESYnh"
-      },
-      "artists": [
-        {
-          "name": "Cassiya",
-          "url": "https://open.spotify.com/artist/2OIKHs5XFIbEcwpLaIdLSo"
-        }
-      ],
-      "duration_ms": 273240,
-      "name": "Rev nou anc\u00e9tres",
-      "url": "https://open.spotify.com/track/2Bqtk3rEMJNCLGoGY52Xkd"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Elle danse",
         "url": "https://open.spotify.com/album/6Vzxd84ITvDqoJSZGchxYV"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 202185,
       "name": "Pomper",
       "url": "https://open.spotify.com/track/2h7nEq7C0QwAQ75GAZzyhv"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Le meilleur de Cassiya avec D\u00e9sir\u00e9 Fran\u00e7ois (Best Of, vol. 1)",
+        "url": "https://open.spotify.com/album/6KeVT9o7E0gqnyhugESYnh"
+      },
+      "artists": [
+        {
+          "name": "Cassiya",
+          "url": "https://open.spotify.com/artist/2OIKHs5XFIbEcwpLaIdLSo"
+        }
+      ],
+      "duration_ms": 273240,
+      "name": "Rev nou anc\u00e9tres",
+      "url": "https://open.spotify.com/track/2Bqtk3rEMJNCLGoGY52Xkd"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -143,6 +143,22 @@
       "duration_ms": 220714,
       "name": "La force l'amour",
       "url": "https://open.spotify.com/track/0JIvxiw7QnoNeyQSo9PV5D"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Alim\u00e9 dif\u00e9 (Ile Maurice)",
+        "url": "https://open.spotify.com/album/70LlYn7WYSI6QLSBUCAjFb"
+      },
+      "artists": [
+        {
+          "name": "Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/0DZpMT7NzKkrCPjYBtT3K0"
+        }
+      ],
+      "duration_ms": 313000,
+      "name": "Alim\u00e9 dif\u00e9 - Version originale",
+      "url": "https://open.spotify.com/track/1eW6Go45BRf63uRPsZ3XeJ"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -207,22 +223,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Alim\u00e9 dif\u00e9 (Ile Maurice)",
-        "url": "https://open.spotify.com/album/70LlYn7WYSI6QLSBUCAjFb"
-      },
-      "artists": [
-        {
-          "name": "Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/0DZpMT7NzKkrCPjYBtT3K0"
-        }
-      ],
-      "duration_ms": 313000,
-      "name": "Alim\u00e9 dif\u00e9 - Version originale",
-      "url": "https://open.spotify.com/track/1eW6Go45BRf63uRPsZ3XeJ"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "S\u00e9paration (Zenfants perdi sim\u00e9)",
         "url": "https://open.spotify.com/album/6kF1jWTjju83CRUsy8ITBY"
       },
@@ -279,6 +279,22 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
+        "name": "ZENFAN LAKAZ TOL",
+        "url": "https://open.spotify.com/album/1GBg8Y6eqNGic3rLWVg5DR"
+      },
+      "artists": [
+        {
+          "name": "Bigg Frankii",
+          "url": "https://open.spotify.com/artist/2Xi6Sscx1ZPJ3opKWFm8ya"
+        }
+      ],
+      "duration_ms": 252933,
+      "name": "Ena Ennta Zetwal",
+      "url": "https://open.spotify.com/track/7dMsbTGUUg06S0j75VdbQT"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
         "name": "Elle danse",
         "url": "https://open.spotify.com/album/6Vzxd84ITvDqoJSZGchxYV"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 209128,
       "name": "Longanis",
       "url": "https://open.spotify.com/track/5ychRz2LtFOqD5phpKVlEM"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "ZENFAN LAKAZ TOL",
-        "url": "https://open.spotify.com/album/1GBg8Y6eqNGic3rLWVg5DR"
-      },
-      "artists": [
-        {
-          "name": "Bigg Frankii",
-          "url": "https://open.spotify.com/artist/2Xi6Sscx1ZPJ3opKWFm8ya"
-        }
-      ],
-      "duration_ms": 252933,
-      "name": "Ena Ennta Zetwal",
-      "url": "https://open.spotify.com/track/7dMsbTGUUg06S0j75VdbQT"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Sega Ar Pwa",
-        "url": "https://open.spotify.com/album/5m1fAvzB5et9ka6sjSlVSn"
-      },
-      "artists": [
-        {
-          "name": "Sky to Be",
-          "url": "https://open.spotify.com/artist/7uWVHfDA75struQziMT7Ch"
-        }
-      ],
-      "duration_ms": 287316,
-      "name": "Sega Ar Pwa",
-      "url": "https://open.spotify.com/track/2SS0rS7nObBiXaAv7iAoZ2"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Music from Mauritius",
         "url": "https://open.spotify.com/album/1DRPsjliENVvsUKDZ469x3"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 174497,
       "name": "Ambalaba",
       "url": "https://open.spotify.com/track/4gU7d2ZymujNKYeEFsuKaS"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Sega Ar Pwa",
+        "url": "https://open.spotify.com/album/5m1fAvzB5et9ka6sjSlVSn"
+      },
+      "artists": [
+        {
+          "name": "Sky to Be",
+          "url": "https://open.spotify.com/artist/7uWVHfDA75struQziMT7Ch"
+        }
+      ],
+      "duration_ms": 287316,
+      "name": "Sega Ar Pwa",
+      "url": "https://open.spotify.com/track/2SS0rS7nObBiXaAv7iAoZ2"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -723,6 +723,22 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
+        "name": "Coul\u00e8r M\u00e9lanz\u00e9",
+        "url": "https://open.spotify.com/album/4BmxLIj92iDtmHAuOnAiiB"
+      },
+      "artists": [
+        {
+          "name": "B.I.G",
+          "url": "https://open.spotify.com/artist/4D3nkiM1EzSlazZIsUhebu"
+        }
+      ],
+      "duration_ms": 262976,
+      "name": "Mo ti poule",
+      "url": "https://open.spotify.com/track/7AONWpNhMoNmpkr6RSNn9P"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
         "name": "The Best of Jean-Marc Volcy",
         "url": "https://open.spotify.com/album/7E3SJyFvagSztOt0RxFcMh"
       },
@@ -743,18 +759,18 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Coul\u00e8r M\u00e9lanz\u00e9",
-        "url": "https://open.spotify.com/album/4BmxLIj92iDtmHAuOnAiiB"
+        "name": "Le Roi du s\u00e9ga",
+        "url": "https://open.spotify.com/album/5yIOf6ROItIpkpc8f5Uo9h"
       },
       "artists": [
         {
-          "name": "B.I.G",
-          "url": "https://open.spotify.com/artist/4D3nkiM1EzSlazZIsUhebu"
+          "name": "Luc Donat",
+          "url": "https://open.spotify.com/artist/6L1SxgKXrIel5yitflGBxm"
         }
       ],
-      "duration_ms": 262976,
-      "name": "Mo ti poule",
-      "url": "https://open.spotify.com/track/7AONWpNhMoNmpkr6RSNn9P"
+      "duration_ms": 192200,
+      "name": "S\u00e9ga Jacquot",
+      "url": "https://open.spotify.com/track/4BjTvikquZufEHDjxJMBxm"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -771,22 +787,6 @@
       "duration_ms": 213531,
       "name": "To Kontan Koze",
       "url": "https://open.spotify.com/track/1kJAI7Qd3v25lsfHWr5Lxr"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "Le Roi du s\u00e9ga",
-        "url": "https://open.spotify.com/album/5yIOf6ROItIpkpc8f5Uo9h"
-      },
-      "artists": [
-        {
-          "name": "Luc Donat",
-          "url": "https://open.spotify.com/artist/6L1SxgKXrIel5yitflGBxm"
-        }
-      ],
-      "duration_ms": 192200,
-      "name": "S\u00e9ga Jacquot",
-      "url": "https://open.spotify.com/track/4BjTvikquZufEHDjxJMBxm"
     },
     {
       "added_at": "2022-08-11 10:05:16",

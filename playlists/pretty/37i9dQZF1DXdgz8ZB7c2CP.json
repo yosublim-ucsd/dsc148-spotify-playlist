@@ -1,12 +1,12 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Jai Wolf",
-  "num_followers": 757955,
+  "num_followers": 758004,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDY5MWU3ZTgzNzUwMGU2YjZmYjY1NjA1NWIwMmQ4NjFkNDUxNjJm",
+  "snapshot_id": "MCw4ODU1NzdkMDliNmVhNmQ0NTU0YzM4NTRiYmE2N2U4ZGM4ZjkyZTQ1",
   "tracks": [
     {
       "added_at": "2023-06-30 04:01:00",
@@ -431,26 +431,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Selfish Soul (ODESZA Remix)",
-        "url": "https://open.spotify.com/album/4aJcCRF4B3Tjefsu0aZKu2"
-      },
-      "artists": [
-        {
-          "name": "Sudan Archives",
-          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
-        },
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        }
-      ],
-      "duration_ms": 206210,
-      "name": "Selfish Soul - ODESZA Remix",
-      "url": "https://open.spotify.com/track/6N5thJ3UQMpHdf2fYOB3XL"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Rushing Back",
         "url": "https://open.spotify.com/album/4d2YOjyPDopVhOkksaALJj"
       },
@@ -467,6 +447,26 @@
       "duration_ms": 231663,
       "name": "Rushing Back",
       "url": "https://open.spotify.com/track/2zoNNEAyPK2OGDfajardlY"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Selfish Soul (ODESZA Remix)",
+        "url": "https://open.spotify.com/album/4aJcCRF4B3Tjefsu0aZKu2"
+      },
+      "artists": [
+        {
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+        },
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        }
+      ],
+      "duration_ms": 206210,
+      "name": "Selfish Soul - ODESZA Remix",
+      "url": "https://open.spotify.com/track/6N5thJ3UQMpHdf2fYOB3XL"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -541,6 +541,26 @@
       "url": "https://open.spotify.com/track/1Th5zTsBnM0cudrHfvE8Qt"
     },
     {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Silent Assassin",
+        "url": "https://open.spotify.com/album/3k43PKBEHl7UzO1NyARKo2"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        },
+        {
+          "name": "Flume",
+          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
+        }
+      ],
+      "duration_ms": 127880,
+      "name": "Silent Assassin",
+      "url": "https://open.spotify.com/track/34Tg1jTHYdWlSMXYthAoL0"
+    },
+    {
       "added_at": "2023-06-30 04:01:00",
       "album": {
         "name": "Ripple",
@@ -563,26 +583,6 @@
       "duration_ms": 214539,
       "name": "Ripple",
       "url": "https://open.spotify.com/track/6oEC3xbIgUG2TEUXZXUFCv"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Silent Assassin",
-        "url": "https://open.spotify.com/album/3k43PKBEHl7UzO1NyARKo2"
-      },
-      "artists": [
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        },
-        {
-          "name": "Flume",
-          "url": "https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer"
-        }
-      ],
-      "duration_ms": 127880,
-      "name": "Silent Assassin",
-      "url": "https://open.spotify.com/track/34Tg1jTHYdWlSMXYthAoL0"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Good Lies",
-        "url": "https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp"
-      },
-      "artists": [
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        }
-      ],
-      "duration_ms": 169050,
-      "name": "Feelings Plain",
-      "url": "https://open.spotify.com/track/4tBJ2LiCwMs1ARUmu1Nhi8"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Heart On Fire",
         "url": "https://open.spotify.com/album/7uoWQOCpw0VSBVQgY1egad"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 230400,
       "name": "Heart On Fire",
       "url": "https://open.spotify.com/track/3Gyk1QfuK1318hUsCMttjM"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Good Lies",
+        "url": "https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "duration_ms": 169050,
+      "name": "Feelings Plain",
+      "url": "https://open.spotify.com/track/4tBJ2LiCwMs1ARUmu1Nhi8"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "DOJA",
-        "url": "https://open.spotify.com/album/2F0MtotAFhIaMTIk4cLVuL"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        }
-      ],
-      "duration_ms": 157916,
-      "name": "DOJA",
-      "url": "https://open.spotify.com/track/2OcgucDdE5RffQXc5bLm1x"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/5m0WcSOSi4wFGpV7RMqOzR"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 183445,
       "name": "Better",
       "url": "https://open.spotify.com/track/4Dug0HsHzITLyGGJz6xZct"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "DOJA",
+        "url": "https://open.spotify.com/album/2F0MtotAFhIaMTIk4cLVuL"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        }
+      ],
+      "duration_ms": 157916,
+      "name": "DOJA",
+      "url": "https://open.spotify.com/track/2OcgucDdE5RffQXc5bLm1x"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -2351,46 +2351,34 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "CHAMELEON",
-        "url": "https://open.spotify.com/album/6fNxqFoLyiGMpiKc68tN0i"
+        "name": "kinder opposites",
+        "url": "https://open.spotify.com/album/0ThEJ7ZMDyj44WRjbRBYuT"
       },
       "artists": [
         {
-          "name": "Saint Sinner",
-          "url": "https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y"
-        },
-        {
-          "name": "ATYYA",
-          "url": "https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7"
+          "name": "Laxcity",
+          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
         }
       ],
-      "duration_ms": 186093,
-      "name": "CHAMELEON",
-      "url": "https://open.spotify.com/track/7bz3aBvfS99RkIumQnM7Fo"
+      "duration_ms": 85000,
+      "name": "skyscraper",
+      "url": "https://open.spotify.com/track/3kksDDFnR3kis8B3C1g6yu"
     },
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Pillow Talk",
-        "url": "https://open.spotify.com/album/6G17XnBNHd4CuPsOVQk1dR"
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/5MqGg9nHzeU9QPujPYKJAG"
       },
       "artists": [
         {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
-        },
-        {
-          "name": "Wingtip",
-          "url": "https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI"
-        },
-        {
-          "name": "What So Not",
-          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
         }
       ],
-      "duration_ms": 180000,
-      "name": "Pillow Talk",
-      "url": "https://open.spotify.com/track/2rw2SOQ3KDCLOXugoKLfPx"
+      "duration_ms": 284444,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/4WlSrA0dALD8NXSOTNhjNT"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -2415,18 +2403,26 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Demons",
-        "url": "https://open.spotify.com/album/5MqGg9nHzeU9QPujPYKJAG"
+        "name": "Pillow Talk",
+        "url": "https://open.spotify.com/album/6G17XnBNHd4CuPsOVQk1dR"
       },
       "artists": [
         {
-          "name": "DROELOE",
-          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        },
+        {
+          "name": "Wingtip",
+          "url": "https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI"
+        },
+        {
+          "name": "What So Not",
+          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
         }
       ],
-      "duration_ms": 284444,
-      "name": "Demons",
-      "url": "https://open.spotify.com/track/4WlSrA0dALD8NXSOTNhjNT"
+      "duration_ms": 180000,
+      "name": "Pillow Talk",
+      "url": "https://open.spotify.com/track/2rw2SOQ3KDCLOXugoKLfPx"
     }
   ],
   "unique_name": "creamy",

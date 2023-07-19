@@ -1,12 +1,12 @@
 {
   "description": "Keep your night easy and light with this acoustic mix.",
-  "num_followers": 1325071,
+  "num_followers": 1325048,
   "original_name": "Evening Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODdmOTNlZWEyM2EyYTU5ZDNlYWZiZDhjYmI4ODkzZjE0Yzg2NTky",
+  "snapshot_id": "MCw0YmYxMTA5NDdiMGUzYzE5YjE2N2Q0MGY4NWUzZWYyM2Q4NjE2YTU3",
   "tracks": [
     {
       "added_at": "2023-07-14 04:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Nocturne EP",
-        "url": "https://open.spotify.com/album/3KeZeDLfggA5icZ8HG9FHm"
-      },
-      "artists": [
-        {
-          "name": "Blanco White",
-          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
-        }
-      ],
-      "duration_ms": 268626,
-      "name": "Nocturne",
-      "url": "https://open.spotify.com/track/2fv4O0H2EdMqliyEAUAEST"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "On Hold",
         "url": "https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 216252,
       "name": "Top to Toe",
       "url": "https://open.spotify.com/track/3Dtg7OR2EYGI5zZuuRpFKT"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Nocturne EP",
+        "url": "https://open.spotify.com/album/3KeZeDLfggA5icZ8HG9FHm"
+      },
+      "artists": [
+        {
+          "name": "Blanco White",
+          "url": "https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5"
+        }
+      ],
+      "duration_ms": 268626,
+      "name": "Nocturne",
+      "url": "https://open.spotify.com/track/2fv4O0H2EdMqliyEAUAEST"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Golden (Acoustic)",
-        "url": "https://open.spotify.com/album/1UNOe4qTfiSoUNVtFKQ5br"
-      },
-      "artists": [
-        {
-          "name": "Becca Mancari",
-          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
-        }
-      ],
-      "duration_ms": 307312,
-      "name": "Golden (Acoustic)",
-      "url": "https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Bedouine (Deluxe)",
         "url": "https://open.spotify.com/album/5xkDtosZAm6qiGyRFc6ocB"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 231066,
       "name": "Nice and Quiet",
       "url": "https://open.spotify.com/track/1BWOUFGSAbPzrhZxDMno2K"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Golden (Acoustic)",
+        "url": "https://open.spotify.com/album/1UNOe4qTfiSoUNVtFKQ5br"
+      },
+      "artists": [
+        {
+          "name": "Becca Mancari",
+          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
+        }
+      ],
+      "duration_ms": 307312,
+      "name": "Golden (Acoustic)",
+      "url": "https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
+        "name": "Joy of Nothing",
+        "url": "https://open.spotify.com/album/2NvXp1Yq7mslZYfZiRmGUq"
+      },
+      "artists": [
+        {
+          "name": "Foy Vance",
+          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 352240,
+      "name": "Guiding Light",
+      "url": "https://open.spotify.com/track/1rwFqSVH8k9ovPHgAxThkN"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
         "name": "Jericho",
         "url": "https://open.spotify.com/album/4GMmnvoe8QZMYK97JDCna2"
       },
@@ -1043,22 +1063,18 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Joy of Nothing",
-        "url": "https://open.spotify.com/album/2NvXp1Yq7mslZYfZiRmGUq"
+        "name": "Every Kingdom (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1nJsbWm3Yy2DW1KIc1OKle"
       },
       "artists": [
         {
-          "name": "Foy Vance",
-          "url": "https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
         }
       ],
-      "duration_ms": 352240,
-      "name": "Guiding Light",
-      "url": "https://open.spotify.com/track/1rwFqSVH8k9ovPHgAxThkN"
+      "duration_ms": 331173,
+      "name": "I Will Be Blessed",
+      "url": "https://open.spotify.com/track/4PFhGZLzpWQk7CumiCyNH7"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1075,22 +1091,6 @@
       "duration_ms": 319213,
       "name": "Rest (Acoustic)",
       "url": "https://open.spotify.com/track/54zNVHj8N3wjCb4UpqSvKw"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Every Kingdom (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1nJsbWm3Yy2DW1KIc1OKle"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 331173,
-      "name": "I Will Be Blessed",
-      "url": "https://open.spotify.com/track/4PFhGZLzpWQk7CumiCyNH7"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Still I Wait",
-        "url": "https://open.spotify.com/album/6FWJCsTKkSXcnf4LjwVdUi"
-      },
-      "artists": [
-        {
-          "name": "Anna Leone",
-          "url": "https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj"
-        }
-      ],
-      "duration_ms": 229880,
-      "name": "Still I Wait",
-      "url": "https://open.spotify.com/track/2PxnTu2sRwHWEU40frBGCo"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Folding Leaves",
         "url": "https://open.spotify.com/album/1BL9HsiqZUc4IXFT3LKwzr"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 332360,
       "name": "Wake Me",
       "url": "https://open.spotify.com/track/6tBTW1d7ikxXEfkhGQjPHi"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Still I Wait",
+        "url": "https://open.spotify.com/album/6FWJCsTKkSXcnf4LjwVdUi"
+      },
+      "artists": [
+        {
+          "name": "Anna Leone",
+          "url": "https://open.spotify.com/artist/7tGGprmubBZNvpTST8qQTj"
+        }
+      ],
+      "duration_ms": 229880,
+      "name": "Still I Wait",
+      "url": "https://open.spotify.com/track/2PxnTu2sRwHWEU40frBGCo"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "There's Always Glimmer (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3tWAl6LlBWM46Ck9bA9A6y"
-      },
-      "artists": [
-        {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
-        }
-      ],
-      "duration_ms": 152320,
-      "name": "Smoke - Acoustic",
-      "url": "https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/6wPsaRI9Oz9Cd8lysOgIAe"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 241946,
       "name": "Silk (feat. Thelma Plum)",
       "url": "https://open.spotify.com/track/2smKkz9SSKxe16NuscYxq5"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "There's Always Glimmer (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3tWAl6LlBWM46Ck9bA9A6y"
+      },
+      "artists": [
+        {
+          "name": "Gia Margaret",
+          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
+        }
+      ],
+      "duration_ms": 152320,
+      "name": "Smoke - Acoustic",
+      "url": "https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Sweet Return",
-        "url": "https://open.spotify.com/album/3SVbamqXTzLhP9x6yDeHSK"
-      },
-      "artists": [
-        {
-          "name": "Diamond Thug",
-          "url": "https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX"
-        }
-      ],
-      "duration_ms": 135077,
-      "name": "Sweet Return",
-      "url": "https://open.spotify.com/track/5nLX5d1k44smyu9OT7tydf"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Adaptations",
         "url": "https://open.spotify.com/album/75KCEmU9IxlwClwPnM4KEC"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 206015,
       "name": "Wilderness",
       "url": "https://open.spotify.com/track/2qw3TJxd8Wn2ZVGHkf8YaW"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Sweet Return",
+        "url": "https://open.spotify.com/album/3SVbamqXTzLhP9x6yDeHSK"
+      },
+      "artists": [
+        {
+          "name": "Diamond Thug",
+          "url": "https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX"
+        }
+      ],
+      "duration_ms": 135077,
+      "name": "Sweet Return",
+      "url": "https://open.spotify.com/track/5nLX5d1k44smyu9OT7tydf"
     },
     {
       "added_at": "2023-07-14 04:00:00",

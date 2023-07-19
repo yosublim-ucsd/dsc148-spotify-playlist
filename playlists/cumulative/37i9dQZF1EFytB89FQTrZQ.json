@@ -4815,6 +4815,24 @@
     },
     {
       "album": {
+        "name": "Ridin'",
+        "url": "https://open.spotify.com/album/2n7HRnPxZ00DhaoMZTecpU"
+      },
+      "artists": [
+        {
+          "name": "Kash Doll",
+          "url": "https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170944,
+      "name": "Ridin'",
+      "url": "https://open.spotify.com/track/6Dmh4KuXLhzqnU2BPTbtB2"
+    },
+    {
+      "album": {
         "name": "Get Some Courage, Vol. 2",
         "url": "https://open.spotify.com/album/36nvnnATd0JaiVU4F2w5PI"
       },

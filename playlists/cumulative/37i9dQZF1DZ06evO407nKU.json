@@ -767,6 +767,24 @@
     },
     {
       "album": {
+        "name": "Vuelvo A Emborracharme",
+        "url": "https://open.spotify.com/album/0NclQA7R8qZWp2ARikl4iQ"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192294,
+      "name": "Me Gusta Tal Cual",
+      "url": "https://open.spotify.com/track/6Bicjkygoy4ZQ8nAeFF9we"
+    },
+    {
+      "album": {
         "name": "Me Hubieras Cobrado",
         "url": "https://open.spotify.com/album/6X0DECa6FMHcB7oRvbNINW"
       },
@@ -1176,7 +1194,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-19",
       "duration_ms": 238690,
       "name": "Ojal\u00e1 (En Vivo)",
       "url": "https://open.spotify.com/track/1E0SK05wwn7LUqDE0A8YJ9"

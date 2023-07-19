@@ -1,12 +1,12 @@
 {
   "description": "Take a break from distorted guitars and enjoy punk's mellow side. Cover: Avril Lavigne",
-  "num_followers": 326632,
+  "num_followers": 326662,
   "original_name": "Punk Unplugged",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZmJjODFhY2MzMzVlMmMwY2Q0Y2I2MDBiMGYwZTUxZWQ2ZTljNDI5",
+  "snapshot_id": "MCxjMDQ5NTA4MTBmMjBiZGE3MTQxMzg5NzNmNmUyZTE5ZjkwOGQ1NTA3",
   "tracks": [
     {
       "added_at": "2022-04-04 15:03:53",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Put Up or Shut Up (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3xuCwUsfeMX6roY0s9SSmJ"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 213986,
-      "name": "Jasey Rae (Acoustic)",
-      "url": "https://open.spotify.com/track/1LrjSX2lQ7CeLb611nmqi7"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Skinny Dipping",
         "url": "https://open.spotify.com/album/5SsU0tZD4YMXJZqHzUsd0F"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 215186,
       "name": "Toothpick",
       "url": "https://open.spotify.com/track/6mJcgp0qBS1sGqgYsOIpvr"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Put Up or Shut Up (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3xuCwUsfeMX6roY0s9SSmJ"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 213986,
+      "name": "Jasey Rae (Acoustic)",
+      "url": "https://open.spotify.com/track/1LrjSX2lQ7CeLb611nmqi7"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "FANDOM",
-        "url": "https://open.spotify.com/album/6W5NAcsq5dV2vMcxPFWXTb"
-      },
-      "artists": [
-        {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
-        }
-      ],
-      "duration_ms": 212358,
-      "name": "Never Bloom Again",
-      "url": "https://open.spotify.com/track/72zItS5KsVxNyoedmGo2Q7"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Lips Like Oxygen Reimagined",
         "url": "https://open.spotify.com/album/1v6ISjeumbCrVJ3FEOyOoX"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 191938,
       "name": "You Were The Letdown (Chasing California)",
       "url": "https://open.spotify.com/track/2NAbdrFwUnXIxBIcl86SZo"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "FANDOM",
+        "url": "https://open.spotify.com/album/6W5NAcsq5dV2vMcxPFWXTb"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "duration_ms": 212358,
+      "name": "Never Bloom Again",
+      "url": "https://open.spotify.com/track/72zItS5KsVxNyoedmGo2Q7"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -591,18 +591,18 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Stay Beautiful",
-        "url": "https://open.spotify.com/album/08fP12tMKq9moZ0LgJtpkd"
+        "name": "Dammit (Acoustic)",
+        "url": "https://open.spotify.com/album/7dzGdgUEuBvX2EGFhGDjxC"
       },
       "artists": [
         {
-          "name": "Moose Blood",
-          "url": "https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q"
+          "name": "FigureItOut",
+          "url": "https://open.spotify.com/artist/1IuyjI3FTndgSAXk2cMXXV"
         }
       ],
-      "duration_ms": 227349,
-      "name": "Knuckles (Acoustic)",
-      "url": "https://open.spotify.com/track/3HhBtAj2VzPfZMMklUIIed"
+      "duration_ms": 241714,
+      "name": "Dammit (Acoustic)",
+      "url": "https://open.spotify.com/track/79GykTeyQ2NdUCMayMZBsj"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -623,18 +623,18 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Dammit (Acoustic)",
-        "url": "https://open.spotify.com/album/7dzGdgUEuBvX2EGFhGDjxC"
+        "name": "Stay Beautiful",
+        "url": "https://open.spotify.com/album/08fP12tMKq9moZ0LgJtpkd"
       },
       "artists": [
         {
-          "name": "FigureItOut",
-          "url": "https://open.spotify.com/artist/1IuyjI3FTndgSAXk2cMXXV"
+          "name": "Moose Blood",
+          "url": "https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q"
         }
       ],
-      "duration_ms": 241714,
-      "name": "Dammit (Acoustic)",
-      "url": "https://open.spotify.com/track/79GykTeyQ2NdUCMayMZBsj"
+      "duration_ms": 227349,
+      "name": "Knuckles (Acoustic)",
+      "url": "https://open.spotify.com/track/3HhBtAj2VzPfZMMklUIIed"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Fashion Forward (Acoustic)",
-        "url": "https://open.spotify.com/album/6N4FN2emskAPc2OVbErRnj"
-      },
-      "artists": [
-        {
-          "name": "The Home Team",
-          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
-        }
-      ],
-      "duration_ms": 222840,
-      "name": "Fashion Forward (Acoustic)",
-      "url": "https://open.spotify.com/track/3dat7ilaCtUw5uqHbZs8Vc"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Transient (acoustic)",
         "url": "https://open.spotify.com/album/6hArGQoERO4x7t1QLtUzXs"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 260209,
       "name": "Transient (acoustic)",
       "url": "https://open.spotify.com/track/5tVtDLvrpsn4hhpMkipK1j"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Fashion Forward (Acoustic)",
+        "url": "https://open.spotify.com/album/6N4FN2emskAPc2OVbErRnj"
+      },
+      "artists": [
+        {
+          "name": "The Home Team",
+          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
+        }
+      ],
+      "duration_ms": 222840,
+      "name": "Fashion Forward (Acoustic)",
+      "url": "https://open.spotify.com/track/3dat7ilaCtUw5uqHbZs8Vc"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -815,22 +815,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Worn Down / Leave It Alone",
-        "url": "https://open.spotify.com/album/5b47suEormD9CM5lKhrDQq"
-      },
-      "artists": [
-        {
-          "name": "Rarity",
-          "url": "https://open.spotify.com/artist/2EIhbnEc2cvYIAsXXbo9tg"
-        }
-      ],
-      "duration_ms": 205440,
-      "name": "Worn Down",
-      "url": "https://open.spotify.com/track/6HtKofQvSs7htcFVKz5IbA"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Blue in the Dark",
         "url": "https://open.spotify.com/album/0az0AGSzb0oS9KFnqm6S42"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 159553,
       "name": "Tide",
       "url": "https://open.spotify.com/track/1FiwIDi6Vi3a0jXg2CvEkn"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Worn Down / Leave It Alone",
+        "url": "https://open.spotify.com/album/5b47suEormD9CM5lKhrDQq"
+      },
+      "artists": [
+        {
+          "name": "Rarity",
+          "url": "https://open.spotify.com/artist/2EIhbnEc2cvYIAsXXbo9tg"
+        }
+      ],
+      "duration_ms": 205440,
+      "name": "Worn Down",
+      "url": "https://open.spotify.com/track/6HtKofQvSs7htcFVKz5IbA"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Unplugged",
-        "url": "https://open.spotify.com/album/0PEFBp4wzBigHBO36a8ETV"
-      },
-      "artists": [
-        {
-          "name": "State Champs",
-          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
-        }
-      ],
-      "duration_ms": 214275,
-      "name": "10 Am",
-      "url": "https://open.spotify.com/track/104sjKzfCfEVL3ppGjOah2"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "sleepwalking",
         "url": "https://open.spotify.com/album/7iNFE8xqEEOBl6gOwcDFoI"
       },
@@ -1015,6 +999,22 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
+        "name": "Unplugged",
+        "url": "https://open.spotify.com/album/0PEFBp4wzBigHBO36a8ETV"
+      },
+      "artists": [
+        {
+          "name": "State Champs",
+          "url": "https://open.spotify.com/artist/1qqdO7xMptucPDMopsOdkr"
+        }
+      ],
+      "duration_ms": 214275,
+      "name": "10 Am",
+      "url": "https://open.spotify.com/track/104sjKzfCfEVL3ppGjOah2"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
         "name": "All Out",
         "url": "https://open.spotify.com/album/2Yzoe2L70kwHWcDenjmrJm"
       },
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Punk Goes Acoustic, Vol. 3",
-        "url": "https://open.spotify.com/album/51ltci877NFn74Zi9NCVy6"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 252466,
-      "name": "A Decade Under The Influence - Acoustic",
-      "url": "https://open.spotify.com/track/6c6vG7r3RWpiuIrawHNpd7"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Letters to Our Former Selves Acoustic E.P.",
         "url": "https://open.spotify.com/album/1RgTSS7BC4kNunc2knqTWY"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 204538,
       "name": "Deadlocked - Acoustic",
       "url": "https://open.spotify.com/track/7weLkyN1t7GP8A6uD9YJnO"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Punk Goes Acoustic, Vol. 3",
+        "url": "https://open.spotify.com/album/51ltci877NFn74Zi9NCVy6"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 252466,
+      "name": "A Decade Under The Influence - Acoustic",
+      "url": "https://open.spotify.com/track/6c6vG7r3RWpiuIrawHNpd7"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
+        "name": "Cruel Summer",
+        "url": "https://open.spotify.com/album/39LK9oMDY5DT0MRhYR1vED"
+      },
+      "artists": [
+        {
+          "name": "Miss Fortune",
+          "url": "https://open.spotify.com/artist/5kx19W2Z47r0eF76IIRG7l"
+        }
+      ],
+      "duration_ms": 199431,
+      "name": "Fentanyl - Stripped",
+      "url": "https://open.spotify.com/track/5Ut3opgBBOXRnQmN4XmJXZ"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
         "name": "I'll Be a Mess Without You",
         "url": "https://open.spotify.com/album/5OzUFzQTXROxNoSgRIBb6Z"
       },
@@ -1139,6 +1155,22 @@
       "duration_ms": 156010,
       "name": "Smokestack",
       "url": "https://open.spotify.com/track/6uRRWR5s0vOofSzL7UPB8d"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Letters to Our Former Selves",
+        "url": "https://open.spotify.com/album/7KyHbEE4nF7sQVXUcJ81oO"
+      },
+      "artists": [
+        {
+          "name": "Youth Fountain",
+          "url": "https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD"
+        }
+      ],
+      "duration_ms": 113210,
+      "name": "Ache",
+      "url": "https://open.spotify.com/track/0pscI7F5QXePuu2mLYSAA6"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -1187,38 +1219,6 @@
       "duration_ms": 208204,
       "name": "Teeth",
       "url": "https://open.spotify.com/track/2MFsaQN0JMrAoQDmpIDv0C"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
-        "name": "Hailey (Acoustic)",
-        "url": "https://open.spotify.com/album/2b6OV22b3VFWeWyEcKNC2n"
-      },
-      "artists": [
-        {
-          "name": "ANSON",
-          "url": "https://open.spotify.com/artist/4F0mwtDsLi4dKzug5JB5gn"
-        }
-      ],
-      "duration_ms": 204253,
-      "name": "Hailey - Acoustic",
-      "url": "https://open.spotify.com/track/2VPq0IUugnOWLcAT5MbFIu"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
-        "name": "Letters to Our Former Selves",
-        "url": "https://open.spotify.com/album/7KyHbEE4nF7sQVXUcJ81oO"
-      },
-      "artists": [
-        {
-          "name": "Youth Fountain",
-          "url": "https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD"
-        }
-      ],
-      "duration_ms": 113210,
-      "name": "Ache",
-      "url": "https://open.spotify.com/track/0pscI7F5QXePuu2mLYSAA6"
     }
   ],
   "unique_name": "Punk Unplugged",

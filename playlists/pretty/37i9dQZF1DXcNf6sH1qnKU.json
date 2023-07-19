@@ -1,12 +1,12 @@
 {
   "description": "Glimmering, warm, and bright memories: Broadcast on the cover.",
-  "num_followers": 448850,
+  "num_followers": 449280,
   "original_name": "Dreampop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZTU1YzY2OGU1ZjNhZTc1NDFiZTI0ODY5YTBjNTA3ZWYwN2ZmZTZi",
+  "snapshot_id": "MCwzZTA0ZThlM2MxYzg1YTFlM2JkMWZiM2M5NzUyZGNiZWFhMmM3ODNm",
   "tracks": [
     {
       "added_at": "2021-10-01 10:38:06",
@@ -411,22 +411,6 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Work And Non Work",
-        "url": "https://open.spotify.com/album/6BwEy6Zz4U5y09nbSJQE2j"
-      },
-      "artists": [
-        {
-          "name": "Broadcast",
-          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
-        }
-      ],
-      "duration_ms": 289626,
-      "name": "The Book Lovers",
-      "url": "https://open.spotify.com/track/1c8L2UYpJp0EkilO1duOK8"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
         "name": "Winks & Kisses: Melted",
         "url": "https://open.spotify.com/album/3CMsAHPmMOWfmDKL7ZGwfE"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 566466,
       "name": "In Your Room",
       "url": "https://open.spotify.com/track/7c7XYwFipX776UmPzHNYIa"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
+        "name": "Work And Non Work",
+        "url": "https://open.spotify.com/album/6BwEy6Zz4U5y09nbSJQE2j"
+      },
+      "artists": [
+        {
+          "name": "Broadcast",
+          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
+        }
+      ],
+      "duration_ms": 289626,
+      "name": "The Book Lovers",
+      "url": "https://open.spotify.com/track/1c8L2UYpJp0EkilO1duOK8"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -539,22 +539,6 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Misery Is a Butterfly",
-        "url": "https://open.spotify.com/album/2IOkphZwsrRk1nWRkikEgK"
-      },
-      "artists": [
-        {
-          "name": "Blonde Redhead",
-          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
-        }
-      ],
-      "duration_ms": 307666,
-      "name": "Misery Is a Butterfly",
-      "url": "https://open.spotify.com/track/0tm9m5pv01Toj3nt3LESdZ"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
         "name": "The Noise Made By People",
         "url": "https://open.spotify.com/album/10nM1bEq6nBmY5CvK9gDVI"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 191893,
       "name": "Echo's Answer",
       "url": "https://open.spotify.com/track/0mpKGswMW2MypC6kryHQmL"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
+        "name": "Misery Is a Butterfly",
+        "url": "https://open.spotify.com/album/2IOkphZwsrRk1nWRkikEgK"
+      },
+      "artists": [
+        {
+          "name": "Blonde Redhead",
+          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
+        }
+      ],
+      "duration_ms": 307666,
+      "name": "Misery Is a Butterfly",
+      "url": "https://open.spotify.com/track/0tm9m5pv01Toj3nt3LESdZ"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -685,20 +685,20 @@
       "url": "https://open.spotify.com/track/5tujK4iuRbqaDQv94ZRH98"
     },
     {
-      "added_at": "2021-10-01 10:38:06",
+      "added_at": "2022-03-18 05:40:30",
       "album": {
-        "name": "Melody of Certain Damaged Lemons",
-        "url": "https://open.spotify.com/album/6wRDKCpKw3ap6dhkpdXNIN"
+        "name": "Maida Vale Sessions",
+        "url": "https://open.spotify.com/album/7dCYsWwOlURGcomJrgncEe"
       },
       "artists": [
         {
-          "name": "Blonde Redhead",
-          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
+          "name": "Broadcast",
+          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
         }
       ],
-      "duration_ms": 365533,
-      "name": "In Particular",
-      "url": "https://open.spotify.com/track/4rz3AwWL2wbJoye11pbULz"
+      "duration_ms": 203848,
+      "name": "Come On Let's Go",
+      "url": "https://open.spotify.com/track/0e3zNp2pKzbgzTGWMwnyKG"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -717,20 +717,20 @@
       "url": "https://open.spotify.com/track/3Mp4lDIGyCBVWDSF6ALaEd"
     },
     {
-      "added_at": "2022-03-18 05:40:30",
+      "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Maida Vale Sessions",
-        "url": "https://open.spotify.com/album/7dCYsWwOlURGcomJrgncEe"
+        "name": "Melody of Certain Damaged Lemons",
+        "url": "https://open.spotify.com/album/6wRDKCpKw3ap6dhkpdXNIN"
       },
       "artists": [
         {
-          "name": "Broadcast",
-          "url": "https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU"
+          "name": "Blonde Redhead",
+          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
         }
       ],
-      "duration_ms": 203848,
-      "name": "Come On Let's Go",
-      "url": "https://open.spotify.com/track/0e3zNp2pKzbgzTGWMwnyKG"
+      "duration_ms": 365533,
+      "name": "In Particular",
+      "url": "https://open.spotify.com/track/4rz3AwWL2wbJoye11pbULz"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -751,22 +751,6 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "Blood (Remastered)",
-        "url": "https://open.spotify.com/album/1wHBJPXwl19a4xNgPaCDq9"
-      },
-      "artists": [
-        {
-          "name": "This Mortal Coil",
-          "url": "https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO"
-        }
-      ],
-      "duration_ms": 194226,
-      "name": "You And Your Sister - Remastered",
-      "url": "https://open.spotify.com/track/6y234mJkt0DEh39NxZ4uZ6"
-    },
-    {
-      "added_at": "2021-10-01 10:38:06",
-      "album": {
         "name": "Morning Light",
         "url": "https://open.spotify.com/album/3BcDdBU8cdW1iaBuWBQ9lk"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 401111,
       "name": "No-One in the World",
       "url": "https://open.spotify.com/track/4eCgoHGTLuZshiHWitgAtT"
+    },
+    {
+      "added_at": "2021-10-01 10:38:06",
+      "album": {
+        "name": "Blood (Remastered)",
+        "url": "https://open.spotify.com/album/1wHBJPXwl19a4xNgPaCDq9"
+      },
+      "artists": [
+        {
+          "name": "This Mortal Coil",
+          "url": "https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO"
+        }
+      ],
+      "duration_ms": 194226,
+      "name": "You And Your Sister - Remastered",
+      "url": "https://open.spotify.com/track/6y234mJkt0DEh39NxZ4uZ6"
     },
     {
       "added_at": "2021-10-01 10:38:06",
@@ -799,18 +799,18 @@
     {
       "added_at": "2021-10-01 10:38:06",
       "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/018fr4NxxsR6o5TbVpzsIy"
+        "name": "Sub Versions",
+        "url": "https://open.spotify.com/album/0Hwtd4hmlTu6aG3bFHVQ7z"
       },
       "artists": [
         {
-          "name": "Blonde Redhead",
-          "url": "https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF"
+          "name": "YACHT",
+          "url": "https://open.spotify.com/artist/57anmI1X2hXWPrNagFdzZr"
         }
       ],
-      "duration_ms": 318800,
-      "name": "23",
-      "url": "https://open.spotify.com/track/2RaGRh57p4OtzpXtr65Nws"
+      "duration_ms": 130063,
+      "name": "Avril 14th",
+      "url": "https://open.spotify.com/track/4BN4eqlL0VzTBW0QUo9ChQ"
     }
   ],
   "unique_name": "Dreampop Classics",

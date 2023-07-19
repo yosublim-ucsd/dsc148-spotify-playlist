@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRIPBpg9WV1.md) - [plain]
 
 > Relax and unwind with gentle guitar covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,453 likes - 135 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,587 likes - 135 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRIPBpg9WV1.md) - [plain]
 | 86 | [The Logical Song](https://open.spotify.com/track/512iMWdhSUeNybYdEIP9bt) | [Alan Jameson](https://open.spotify.com/artist/6Bvte6kob0IxSHFkIK3tZw) | [The Logical Song](https://open.spotify.com/album/2hlyrbussE0P3Ocxzu68vC) | 2:58 |
 | 87 | [La Isla Bonita](https://open.spotify.com/track/1tBe56PF0tk8GsNkMMWZqN) | [Diego Bellucci](https://open.spotify.com/artist/1wkbTJShPHkMwIWUaMY6KZ) | [La Isla Bonita](https://open.spotify.com/album/6XnAqlJtTxYW1X6MtQJ7B4) | 3:15 |
 | 88 | [TRUSTFALL](https://open.spotify.com/track/06riG7sQ4Oy5rM6rsxTyar) | [Leonardo Reyes](https://open.spotify.com/artist/5dK2EQpJRKs9eQbZ0PLnJG) | [TRUSTFALL](https://open.spotify.com/album/6rADWJpE4iU6o2a0STDQqZ) | 3:59 |
-| 89 | [Just Like Heaven](https://open.spotify.com/track/7iQMgK17jJNkaPzSWp1CgF) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Guitar Pop Covers, Vol\. 1](https://open.spotify.com/album/7ijQQwrViFIZWVJKor2NWy) | 3:24 |
+| 89 | [Just Like Heaven \- Guitar Solo](https://open.spotify.com/track/7iQMgK17jJNkaPzSWp1CgF) | [Edy Hafler](https://open.spotify.com/artist/6i9IwqxrIrIQZKJbBOBc3T) | [Guitar Pop Covers, Vol\. 1](https://open.spotify.com/album/7ijQQwrViFIZWVJKor2NWy) | 3:24 |
 | 90 | [Everybody's Got To Learn Sometime](https://open.spotify.com/track/1qeKntoqzWCSYvPOujhn5E) | [Beau Hayes](https://open.spotify.com/artist/2iojhDr0D5zVL3xhPb401I) | [Everybody's Got To Learn Sometime](https://open.spotify.com/album/4qAcqCEeAmy2xIrAqpjXs8) | 2:40 |
 | 91 | [At This Point](https://open.spotify.com/track/6ENVQhWISAF4em1AMU08Gm) | [Vera Stockhaus](https://open.spotify.com/artist/3zelFu7VpEQ4gAlbOl8C28) | [At This Point](https://open.spotify.com/album/0E5DSqASdf05sO5F3zJffo) | 2:50 |
 | 92 | [She's Always a Woman \(Instrumental\)](https://open.spotify.com/track/5k5nFDMGaG5EZIsGJTqYcL) | [Joseph Sullinger](https://open.spotify.com/artist/6mNAxWgMw0EjVXUNhHpRpM) | [She's Always a Woman \(Instrumental\)](https://open.spotify.com/album/4nO8YfywgUOyvYBounouqr) | 3:25 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRIPBpg9WV1.md) - [plain]
 | 134 | [Tears in Heaven](https://open.spotify.com/track/4CRNGEGOrfp43WzgHbBpm6) | [Abel Davies](https://open.spotify.com/artist/3Hd9jQTGq8jm9lMDSnWkvn) | [Tears in Heaven](https://open.spotify.com/album/6JOFI6MEbHB7M759AhH66P) | 2:37 |
 | 135 | [True colors](https://open.spotify.com/track/3bVwh1aRQAnMyrNDI9sjW0) | [Tim Raymond](https://open.spotify.com/artist/4kYHqjNdzbIyg2EsqY0nWe) | [True colors](https://open.spotify.com/album/13QfkW5FCtLmYBUq9Izmwr) | 3:38 |
 
-Snapshot ID: `MCxjMzY0NTY3ZDlhOGU5OTE1ZjJjNmYwOTA0YmVlNTVlNDI0ZWE1MjAw`
+Snapshot ID: `MCxkMzk0NDhkZWQzYzcyNDdiZDhmYzQxYjJhMTg5OGY0M2U3ZmFlYjlm`

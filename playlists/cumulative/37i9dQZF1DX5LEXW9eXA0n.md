@@ -4,7 +4,7 @@
 
 > Mellow & sentimental K\-Pop ballads\. \(Cover:ZIA\(지아\)\) \(당신의 감성에 발라드, 려요\)
 
-948 songs - 2 day 13 hr 37 min
+950 songs - 2 day 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -423,6 +423,7 @@
 | [It's love that I missed even the pain](https://open.spotify.com/track/1tlgpCAaywWUQVTEjYCDoU) | [Yeon Kyoo Seong](https://open.spotify.com/artist/0HuGdUxGEptCnucoZr32rH) | [It's love that I missed even the pain](https://open.spotify.com/album/3x62no3krQg9gByimPI8ql) | 3:34 | 2023-01-10 | 2023-02-25 |
 | [It's Not By You](https://open.spotify.com/track/6D2CBNy9dfynxT3fzHSS31) | [Boramiyu](https://open.spotify.com/artist/4CWuEFVuRfUm7LrGmMBMrN) | [It's Not By You](https://open.spotify.com/album/2ShQW0ln6IiAiC2UGs3iXx) | 3:29 | 2023-06-22 |  |
 | [It's Okay If It's Dawn](https://open.spotify.com/track/7o8RDTHEkUpe8cnM05rdYW) | [LimJi](https://open.spotify.com/artist/07iBNkDjwUvp70cKJj3K6Z) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.26](https://open.spotify.com/album/4I5LlmyI6K0n6oC6JnzPZZ) | 3:33 | 2023-01-10 | 2023-02-25 |
+| [It’s you](https://open.spotify.com/track/6UoFQyPJg4e1QSXumsGggx) | [Cosmic Boy](https://open.spotify.com/artist/305pg6Bs6Mz9Tm2zK66psY), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Life's still Good](https://open.spotify.com/album/2E7fy0z18imBJEWYMfZWMi) | 3:17 | 2023-07-18 |  |
 | [It′ll Be Alright](https://open.spotify.com/track/4xrLFswrUOP8MHJaTHHD8T) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [,and](https://open.spotify.com/album/5fJXjW9On6vPk1f58kMQNP) | 4:18 | 2022-10-26 | 2023-01-21 |
 | [It′s You \- YERI of Red Velvet Version](https://open.spotify.com/track/1QPxmlMI3UuaMa0eZomhnz) | [YERI](https://open.spotify.com/artist/4xzwjGxzfKglU0cNW4q4l1) | [It's You \(YERI of Red Velvet\)](https://open.spotify.com/album/1TntT6QwLz97YzItvpyLKf) | 3:15 | 2022-03-24 | 2022-04-15 |
 | [I’ll Never Know You](https://open.spotify.com/track/3W3DMcutGcZan4KnpNrkw9) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [Parting](https://open.spotify.com/album/4ffRADPvsTjnATr8zCg2Ta) | 4:03 | 2021-12-23 | 2022-07-08 |
@@ -650,6 +651,7 @@
 | [Sad farewell](https://open.spotify.com/track/730T7Z3S1jZQA3MeNs3VW1) | [Yeon Kyoo Seong](https://open.spotify.com/artist/0HuGdUxGEptCnucoZr32rH) | [Sad farewell](https://open.spotify.com/album/64vB9es0rMYiWA1qPC9Z9d) | 4:20 | 2022-09-05 | 2022-11-04 |
 | [Same as Your Ex](https://open.spotify.com/track/4ofRVjFZ7PWdFxwp2RmyiZ) | [이화명](https://open.spotify.com/artist/6gkwLpOhRKekMHrlThg9Y5) | [Same as Your Ex \(Marriage Or Death X Leehwamyeong\)](https://open.spotify.com/album/3vjIEUPuHBfWmp7CBXPSzq) | 3:41 | 2022-07-07 | 2022-10-15 |
 | [Save Me](https://open.spotify.com/track/76KSPDz7KSs1DKchBCW3ys) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Save Me](https://open.spotify.com/album/3NuWeE7Zroxt50f1c3Z45g) | 3:45 | 2022-11-07 | 2023-01-21 |
+| [Save Me](https://open.spotify.com/track/253vMOP9LPVdYNgOqwAhAi) | [MAMAMOO+](https://open.spotify.com/artist/2uGx10VkBrI3GBvnQl81du) | [Save Me](https://open.spotify.com/album/2bXXaGKeEvYUghrCaNWCTF) | 3:16 | 2023-07-18 |  |
 | [Say hello](https://open.spotify.com/track/5VkWxt21vUAkhShLYLZ2Kb) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Say hello](https://open.spotify.com/album/3KL1ALTLwYaCcxzxNIRrWK) | 3:25 | 2022-03-24 | 2022-04-20 |
 | [Say Yes \(Feat\. Moon Byul of MAMAMOO\)](https://open.spotify.com/track/39pKhfHJONQXFPCiduswZA) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm), [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [Say hello](https://open.spotify.com/album/3KL1ALTLwYaCcxzxNIRrWK) | 3:24 | 2021-12-20 | 2022-07-08 |
 | [Say You Love Me, Please](https://open.spotify.com/track/2j4wvCivrFmYCJdCVXnAeI) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [Say You Love Me, Please](https://open.spotify.com/album/2OmpCFrEM7MlskEEBbrOA2) | 4:34 | 2023-02-24 | 2023-04-27 |

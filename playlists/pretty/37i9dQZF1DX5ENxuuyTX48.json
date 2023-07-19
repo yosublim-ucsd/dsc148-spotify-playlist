@@ -1,12 +1,12 @@
 {
   "description": "wru? OTW! Cover: Sezairi",
-  "num_followers": 12735,
+  "num_followers": 12758,
   "original_name": "OTW ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGZhNDllMDU1MzNhYmJlNThlODYzMzdmOGQ4ZmVlMjgwZjk4ZDQ5",
+  "snapshot_id": "MCw0NTA0OWM3MmI2YmIxYTZjOTc0ODEyNjBlZWFiZDgwNjkwYzIyZjJm",
   "tracks": [
     {
       "added_at": "2023-07-13 16:00:00",
@@ -699,6 +699,26 @@
     {
       "added_at": "2023-07-13 16:00:00",
       "album": {
+        "name": "Ekspektasi",
+        "url": "https://open.spotify.com/album/3MEdsfqraSQMApYPGNYv4M"
+      },
+      "artists": [
+        {
+          "name": "Aruma",
+          "url": "https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1"
+        },
+        {
+          "name": "Raim Laode",
+          "url": "https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN"
+        }
+      ],
+      "duration_ms": 299210,
+      "name": "Ekspektasi",
+      "url": "https://open.spotify.com/track/5DEur1IK5rtQx90C0DcHpz"
+    },
+    {
+      "added_at": "2023-07-13 16:00:00",
+      "album": {
         "name": "Renung Resah",
         "url": "https://open.spotify.com/album/5RmCmfzSDQLUl8YAKO7Akj"
       },
@@ -731,22 +751,18 @@
     {
       "added_at": "2023-07-13 16:00:00",
       "album": {
-        "name": "Ekspektasi",
-        "url": "https://open.spotify.com/album/3MEdsfqraSQMApYPGNYv4M"
+        "name": "no more you and i",
+        "url": "https://open.spotify.com/album/5KIKGZwMCqvxlj29yJ8rSK"
       },
       "artists": [
         {
-          "name": "Aruma",
-          "url": "https://open.spotify.com/artist/7G0kstl7VjhDSgFYOBaUS1"
-        },
-        {
-          "name": "Raim Laode",
-          "url": "https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN"
+          "name": "Aziz Hedra",
+          "url": "https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD"
         }
       ],
-      "duration_ms": 299210,
-      "name": "Ekspektasi",
-      "url": "https://open.spotify.com/track/5DEur1IK5rtQx90C0DcHpz"
+      "duration_ms": 200360,
+      "name": "no more you and i",
+      "url": "https://open.spotify.com/track/7H6r6d4vum3mzN47bKG0sN"
     },
     {
       "added_at": "2023-07-13 16:00:00",
@@ -763,22 +779,6 @@
       "duration_ms": 222500,
       "name": "Buru-Buru",
       "url": "https://open.spotify.com/track/0qvgnnPJsK2AF2B3RyVDW6"
-    },
-    {
-      "added_at": "2023-07-13 16:00:00",
-      "album": {
-        "name": "no more you and i",
-        "url": "https://open.spotify.com/album/5KIKGZwMCqvxlj29yJ8rSK"
-      },
-      "artists": [
-        {
-          "name": "Aziz Hedra",
-          "url": "https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD"
-        }
-      ],
-      "duration_ms": 200360,
-      "name": "no more you and i",
-      "url": "https://open.spotify.com/track/7H6r6d4vum3mzN47bKG0sN"
     },
     {
       "added_at": "2023-07-13 16:00:00",

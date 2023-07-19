@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Loud, Ya Cetidon
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,199 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,202 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,26 +31,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 21 | [Vibes](https://open.spotify.com/track/5Ewrq10sWq0WYTSW6Br57l) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [Vibes](https://open.spotify.com/album/6MHJuglMIWFJBIc9J0MWUG) | 2:14 |
 | 22 | [Cités de France](https://open.spotify.com/track/3g3YCqJbfTBhUbvmOauugY) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [ZEG P](https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc) | [Chef D'orchestre](https://open.spotify.com/album/65Zsfpx3BX9uriUQ5Nvuq7) | 3:09 |
 | 23 | [Macabre](https://open.spotify.com/track/2M2YBN8AvH6FQJC0IsLErX) | [Dosseh](https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Macabre](https://open.spotify.com/album/3ZNPSkZKy9kPESBBrx54us) | 3:28 |
-| 24 | [Salement](https://open.spotify.com/track/5YcUFycFAyWzPs94nnP63O) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [Salement](https://open.spotify.com/album/1aYMtmu2bfmxGqggmMjSnk) | 2:43 |
-| 25 | [Les choses qu'on fait](https://open.spotify.com/track/0Phj7ixjnkGM8aahaEgrTC) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Les choses qu'on fait](https://open.spotify.com/album/5O3zWrtW5Gaj9yIvwpq9pc) | 3:16 |
+| 24 | [Les choses qu'on fait](https://open.spotify.com/track/0Phj7ixjnkGM8aahaEgrTC) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Les choses qu'on fait](https://open.spotify.com/album/5O3zWrtW5Gaj9yIvwpq9pc) | 3:16 |
+| 25 | [Salement](https://open.spotify.com/track/5YcUFycFAyWzPs94nnP63O) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [Salement](https://open.spotify.com/album/1aYMtmu2bfmxGqggmMjSnk) | 2:43 |
 | 26 | [BORZ](https://open.spotify.com/track/6TmTT5LTgRhUJnrcVxEQbu) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [BORZ](https://open.spotify.com/album/5FqBAMucRODTGofbdZhEGo) | 2:16 |
 | 27 | [25 G](https://open.spotify.com/track/7udslQ5whyH3BrDvk0Fj1j) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [25 G](https://open.spotify.com/album/7cFIpmcYcJWnGGPa5Z6ZhP) | 4:10 |
 | 28 | [Dernière danse](https://open.spotify.com/track/3UYc8Rc0hskiAzyvczieGl) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok), [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Dernière danse](https://open.spotify.com/album/59Aeo4d7E0FVfHH5wZVi3Q) | 3:11 |
 | 29 | [Cardio](https://open.spotify.com/track/2Wwfp0rHRrqKQycll6hKAH) | [Mig](https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [21](https://open.spotify.com/album/2kijC7xwqi9HD27xluOLBm) | 3:13 |
 | 30 | [Molo \(feat\. Dadju\)](https://open.spotify.com/track/4ZhuivUPhDFWj9rjImvyYM) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Daddy 9](https://open.spotify.com/album/7myGxTlSrRIav4gOCybgsa) | 2:56 |
 | 31 | [Météo](https://open.spotify.com/track/59r6qkD72YECQbXxegOU5A) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Météo](https://open.spotify.com/album/7ziEaNko5qSnlsZsXRK44J) | 3:02 |
-| 32 | [Éternel](https://open.spotify.com/track/4c21nWt1yyheyxXQAXxp6q) | [SLK](https://open.spotify.com/artist/6CBm5KPNnurK4hFutVDIpz), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [La Centrale](https://open.spotify.com/album/6f8fSoo94Jbu6QBAKkYk1O) | 2:46 |
-| 33 | [Roly](https://open.spotify.com/track/0TjodbaIbejaVOY2uQnCxO) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Roly](https://open.spotify.com/album/0WNbPgSGD0Csc2XVihcrpS) | 3:45 |
+| 32 | [Roly](https://open.spotify.com/track/0TjodbaIbejaVOY2uQnCxO) | [Timal](https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi) | [Roly](https://open.spotify.com/album/0WNbPgSGD0Csc2XVihcrpS) | 3:45 |
+| 33 | [Éternel](https://open.spotify.com/track/4c21nWt1yyheyxXQAXxp6q) | [SLK](https://open.spotify.com/artist/6CBm5KPNnurK4hFutVDIpz), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [La Centrale](https://open.spotify.com/album/6f8fSoo94Jbu6QBAKkYk1O) | 2:46 |
 | 34 | [Freestyle LVL UP 3](https://open.spotify.com/track/5WAqZjhyquaFf8zBZ1Stfd) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Freestyle LVL UP 3](https://open.spotify.com/album/2g47iUsGXrIMZTGqMgGFyE) | 3:20 |
 | 35 | [Eyes Contact](https://open.spotify.com/track/1LU5LqBOgdJIQvNIjV41Ky) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW) | [Eyes Contact](https://open.spotify.com/album/670uKRQ9Io0xWqQ98lS9rK) | 2:18 |
 | 36 | [Je partirai](https://open.spotify.com/track/4rsGnKtuQrxMBHQGt1z3FP) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Je partirai](https://open.spotify.com/album/1AvWJglFWzSCpttEKrsbku) | 3:15 |
 | 37 | [G.O.A.T](https://open.spotify.com/track/35uhSqOfD0qWtKb4GvYFRp) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [G.O.A.T](https://open.spotify.com/album/3V8hEKBXGm4Xb0yFCR9cKc) | 2:56 |
 | 38 | [Charlotte](https://open.spotify.com/track/54tEUkmdz2zHxkiT8OtddV) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Charlotte](https://open.spotify.com/album/3hvXxrBdRqUlZEdPylmdh0) | 3:34 |
 | 39 | [Alabama](https://open.spotify.com/track/06Z0L1RlAkbcjL0IWKYLNQ) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Alabama](https://open.spotify.com/album/0Jhq4X18BLRTmVBSLuKM7b) | 3:34 |
-| 40 | [Halla](https://open.spotify.com/track/7FQsPOtlNa9iIFasNg6fNv) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Chrome](https://open.spotify.com/album/7bMtSweR1dLda9bbLUq51b) | 3:12 |
-| 41 | [Le stade](https://open.spotify.com/track/4zIWUQcXL5olW32MRz5WOq) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Le stade](https://open.spotify.com/album/6SWRSgHDlJtI5RnzTQewpu) | 2:23 |
-| 42 | [Barcelona](https://open.spotify.com/track/1h72CQREsC9fW7VhR7bW0x) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Barcelona](https://open.spotify.com/album/1PTDr2pnlagzOXRBtkd6KK) | 2:06 |
-| 43 | [Femmes](https://open.spotify.com/track/6k6Orw2NCDFuTiyyRYAcRB) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Femmes](https://open.spotify.com/album/14I7PjywH21Zptb8VxDG3u) | 2:11 |
+| 40 | [Femmes](https://open.spotify.com/track/6k6Orw2NCDFuTiyyRYAcRB) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Femmes](https://open.spotify.com/album/14I7PjywH21Zptb8VxDG3u) | 2:11 |
+| 41 | [Halla](https://open.spotify.com/track/7FQsPOtlNa9iIFasNg6fNv) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Chrome](https://open.spotify.com/album/7bMtSweR1dLda9bbLUq51b) | 3:12 |
+| 42 | [Le stade](https://open.spotify.com/track/4zIWUQcXL5olW32MRz5WOq) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Le stade](https://open.spotify.com/album/6SWRSgHDlJtI5RnzTQewpu) | 2:23 |
+| 43 | [Barcelona](https://open.spotify.com/track/1h72CQREsC9fW7VhR7bW0x) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Barcelona](https://open.spotify.com/album/1PTDr2pnlagzOXRBtkd6KK) | 2:06 |
 | 44 | [VIDA LOCA](https://open.spotify.com/track/3m4e1Cr5hTz4iF2bU9QTz6) | [Dinor rdt](https://open.spotify.com/artist/3RJNCnIkqvVwEicgGo2nqJ), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [VIDA LOCA](https://open.spotify.com/album/19SQT2btnkRb7De5XkfpLM) | 2:49 |
 | 45 | [Colors](https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Colors](https://open.spotify.com/album/2lecuAW041jFGznJIATbhz) | 4:08 |
 | 46 | [Et si ?](https://open.spotify.com/track/59Ej6X1MZD00tL8roBI9hx) | [Krisy](https://open.spotify.com/artist/6RwBaA9wZC0BPWZfmGeWMo) | [Et si ?](https://open.spotify.com/album/7cmRDU8mSCgoZKEC8nmr9f) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 49 | [Un Deux Trois](https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Hello Hi / Un Deux Trois](https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA) | 3:30 |
 | 50 | [Danser](https://open.spotify.com/track/6jFQdmWsFYbVC2D305dOik) | [KRN](https://open.spotify.com/artist/3qbqyAhAkU804siT3gPzK5), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Solstice](https://open.spotify.com/album/0LrWKEX0dz4489hqkPdD5S) | 3:03 |
 
-Snapshot ID: `MCxmZTZmOWUzNTYzNjQ5M2I1YjZmNmRhY2MyMWI5YjVkODE0NDJkMGU2`
+Snapshot ID: `MCxhYTM1NzExMmIyMDlkZmU3MDc1OGNiNDRhNDUzOGI3OTYwMmNiZWYw`

@@ -4,7 +4,7 @@
 
 > Hot & new K\-Drama OSTs are here! \(Cover: King the Land\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: 킹더랜드\)
 
-682 songs - 1 day 17 hr 22 min
+683 songs - 1 day 17 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,7 +225,8 @@
 | [Here Always \(SEUNGMIN of Stray Kids\)](https://open.spotify.com/track/2WdnAdw7zpgU0FRkGiRV8n) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [Hometown Cha\-Cha\-Cha, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/1XQ5HDkh5xYjyQZl9sQfhc) | 4:14 | 2021-12-19 | 2022-02-04 |
 | [Hide and Seek](https://open.spotify.com/track/33WQ0yZfjfhDRxJ8lMZCOW) | [VROMANCE](https://open.spotify.com/artist/5YPW3OmiqnqnQaFjloAvA7) | [The King's Affection OST Part.5](https://open.spotify.com/album/1N8RnNTxWS9TW7oHuKFqfe) | 3:39 | 2021-12-19 | 2022-03-04 |
 | [High](https://open.spotify.com/track/7yRYNoUosgDPpyL5noRFQ6) | [THEIA](https://open.spotify.com/artist/1SF9zCNjbChZTiIkxjgJXa) | [Cheer Up \(Original Soundtrack Part.6\)](https://open.spotify.com/album/3bZkd2ztBDVeJjKkmYsEaE) | 3:28 | 2022-11-16 | 2023-02-25 |
-| [History and Mystery](https://open.spotify.com/track/2n3cXoq7AcfsUOLtD5OmLl) | [Ra.L](https://open.spotify.com/artist/2TICrL7vZOMidetbsKrbfv) | [Miraculous Brothers \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/4YmT7KcTu1bi01GhJvR2cR) | 3:47 | 2023-07-17 |  |
+| [History and Mystery](https://open.spotify.com/track/2n3cXoq7AcfsUOLtD5OmLl) | [Ra.L](https://open.spotify.com/artist/2TICrL7vZOMidetbsKrbfv) | [Miraculous Brothers \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/4YmT7KcTu1bi01GhJvR2cR) | 3:47 | 2023-07-17 | 2023-07-19 |
+| [History and Mystery](https://open.spotify.com/track/5LdGNC63ufqSFe4RauOToR) | [Ra.L](https://open.spotify.com/artist/2TICrL7vZOMidetbsKrbfv) | [Miraculous Brothers \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/6IZiIOATwawTOCLvKDRk8K) | 3:47 | 2023-07-17 |  |
 | [Hold My Hand](https://open.spotify.com/track/7brPjLpvlaYLnPGCA9U6y7) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Now, We Are Breaking Up \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/7yfqRYBQmoNZqoeGe4kPeM) | 3:30 | 2021-12-19 | 2022-03-10 |
 | [Home](https://open.spotify.com/track/4IYkOXspUW61nJUetcqkpJ) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [EXY](https://open.spotify.com/artist/3QFf0wwzpLiSmC4hx7lhER), [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ) | [IDOL: The Coup \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/0fWGwOtbOLZfG6ZIBQRpAv) | 3:12 | 2021-12-19 | 2022-03-04 |
 | [Hoping](https://open.spotify.com/track/22rtD7Zhn5BkBsDQ1dpAIW) | [JAEMAN](https://open.spotify.com/artist/0rDXlxrKhbgdatdiiSFgf7) | [Our Blooming Youth \(Original Television Soundtrack\), Pt.4](https://open.spotify.com/album/06bikQasyy5VVcAJI6UTF5) | 4:29 | 2023-03-31 | 2023-07-18 |

@@ -7769,6 +7769,24 @@
     },
     {
       "album": {
+        "name": "Cinnamon",
+        "url": "https://open.spotify.com/album/0gZ640kdt6ifs49HRF8nRh"
+      },
+      "artists": [
+        {
+          "name": "Ashton Nyte",
+          "url": "https://open.spotify.com/artist/7J66VKvTZxYiFeI2n0PWed"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166789,
+      "name": "Cinnamon",
+      "url": "https://open.spotify.com/track/256uHLUvFNH6EwhFH5Q9fd"
+    },
+    {
+      "album": {
         "name": "Cinnamon Skies",
         "url": "https://open.spotify.com/album/4U8bPqTuYLM7ZU1XvkdbRT"
       },

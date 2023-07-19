@@ -4,7 +4,7 @@
 
 > Instrumental bliss beyond genre classification.
 
-231 songs - 18 hr 21 min
+232 songs - 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Advertised](https://open.spotify.com/track/6Nleh9HiXzeIMQiMg80WCp) | [Stigma](https://open.spotify.com/artist/7fyEvBoniWpROAH5Pfo0jP), [Taylor E Burch](https://open.spotify.com/artist/7s9kEXLVgrXSgTI0LzPKaQ) | [Too Long](https://open.spotify.com/album/5BvcAtZUW02PRkxjlmE68I) | 8:00 | 2021-10-15 | 2022-01-13 |
 | [Affection](https://open.spotify.com/track/3fTxLcPR2i8b9yIrvNScuC) | [yunè pinku](https://open.spotify.com/artist/2sY4BbYrbvNVgsNzo6HddD) | [Affection](https://open.spotify.com/album/2mz3UwcraODF5DIF7AnpDE) | 3:39 | 2022-02-01 | 2022-08-20 |
 | [Age of Phase](https://open.spotify.com/track/0xIo8d1CLxARzQhaZwJ1RM) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 5:42 | 2022-01-14 | 2022-05-07 |
+| [Alcyone](https://open.spotify.com/track/4krxkDBSFWRhvogjeVgN6Q) | [AINO](https://open.spotify.com/artist/7vU8gqDFkKNP0hYtLERGiu) | [Pleiades](https://open.spotify.com/album/3020KpkLo9yLDjngEMEMIi) | 8:28 | 2023-07-18 |  |
 | [Amethblowl](https://open.spotify.com/track/6XU1Alhsjuo1UC9ezgkeVw) | [John Frusciante](https://open.spotify.com/artist/7rN3Agir6FaZNfhf5V7mfN) | [Amethblowl](https://open.spotify.com/album/6XOFp3c6AO2gPB9BB0DHGi) | 4:39 | 2021-10-15 | 2022-01-20 |
 | [Amor](https://open.spotify.com/track/2WpH0prggUSJDJnpeItMep) | [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Amor/Seasonal FX](https://open.spotify.com/album/3MQmXy3mHKBBCwDHbBCSNY) | 5:08 | 2021-10-15 | 2022-01-14 |
 | [AMORE AMARO](https://open.spotify.com/track/31nc249wHrOrgoxXOA0dmE) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [AMORE AMARO](https://open.spotify.com/album/4dij1DQUNPbQyWLdTK7nif) | 5:02 | 2021-10-15 | 2022-02-26 |
@@ -221,7 +222,7 @@
 | [Vale Da Lua](https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz) | [LAZA](https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D) | [Chamas Do Cerrado](https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h) | 3:33 | 2022-03-30 |  |
 | [Vibrations on a String](https://open.spotify.com/track/6UdhadB8RTc9cVGIljWdqv) | [Rival Consoles](https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC) | [Articulation](https://open.spotify.com/album/6gcAUc2LUZfbHwZZJLgvtm) | 6:09 | 2021-10-15 | 2022-01-20 |
 | [Vocoder](https://open.spotify.com/track/4nT9x3zgwomLhyuc6ZXPeD) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Vocoder](https://open.spotify.com/album/7nlHOrNbeFFid40EuBoTsN) | 7:35 | 2022-03-11 | 2022-08-04 |
-| [Wall of Sleep](https://open.spotify.com/track/1zii8HjrZpVEIsAECYGwrV) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Ultra Truth](https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI) | 4:47 | 2022-11-11 |  |
+| [Wall of Sleep](https://open.spotify.com/track/1zii8HjrZpVEIsAECYGwrV) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Ultra Truth](https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI) | 4:47 | 2022-11-11 | 2023-07-19 |
 | [Warm Electronics Box](https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC) | [RX\-101](https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651) | [Dopamine](https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui) | 5:49 | 2021-10-15 |  |
 | [Warm Fuzzies: The Glory](https://open.spotify.com/track/3NuV0mFdhmGDXMlyeXCIHA) | [Bon\-Psy](https://open.spotify.com/artist/5Vv4f9pucnXPVExpBKfBXn) | [Order](https://open.spotify.com/album/2pnHsON4bWzSzB7Vl6Juer) | 3:26 | 2022-08-19 | 2022-11-20 |
 | [Warm Fuzzies: The Glory](https://open.spotify.com/track/7f765rA8dhcnqpu8N9yHyd) | [Bon\-Psy](https://open.spotify.com/artist/5Vv4f9pucnXPVExpBKfBXn) | [Order](https://open.spotify.com/album/6OYR86XQE5NItKcLtBEfPA) | 3:26 | 2022-08-19 |  |

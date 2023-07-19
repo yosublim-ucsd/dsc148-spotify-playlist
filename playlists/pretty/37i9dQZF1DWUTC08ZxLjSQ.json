@@ -1,15 +1,135 @@
 {
-  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: ZOHUD. Artwork: Isu Kim",
-  "num_followers": 6571,
+  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Mvndila. Artwork: Isu Kim",
+  "num_followers": 6579,
   "original_name": "Fresh Finds Arabia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZDVmYzUyMTExMTFkZmZkN2VlZTZmM2I1N2EzY2U0Y2JhYjFjOTAx",
+  "snapshot_id": "MCw3ZWUzYmM5Njg3Y2VlM2ZjZThmOTc3ZWU4Njc1MTc1MDI5YjlhNmY1",
   "tracks": [
     {
-      "added_at": "2023-07-05 05:08:43",
+      "added_at": "2023-07-18 21:05:00",
+      "album": {
+        "name": "HYDR",
+        "url": "https://open.spotify.com/album/2vOm3Yvo9VjTU73WJRfLyA"
+      },
+      "artists": [
+        {
+          "name": "Mvndila",
+          "url": "https://open.spotify.com/artist/4xChDGJOSeebJva9pcvmSJ"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "sxcbnda",
+      "url": "https://open.spotify.com/track/6RK9RIMO12fdRKVfzxN5JH"
+    },
+    {
+      "added_at": "2023-07-18 21:05:00",
+      "album": {
+        "name": "Crutches",
+        "url": "https://open.spotify.com/album/28pjOtvzvniaep1CDAruej"
+      },
+      "artists": [
+        {
+          "name": "Kafv",
+          "url": "https://open.spotify.com/artist/6ockHR6Tj6gqR9fx7Uo0vb"
+        },
+        {
+          "name": "Da Architecht",
+          "url": "https://open.spotify.com/artist/2XrCvqyEa877ypi4UwgTkd"
+        }
+      ],
+      "duration_ms": 201664,
+      "name": "Crutches",
+      "url": "https://open.spotify.com/track/0OkQtz2Os6iXgEAhOD7ea7"
+    },
+    {
+      "added_at": "2023-07-18 21:05:00",
+      "album": {
+        "name": "STEADY",
+        "url": "https://open.spotify.com/album/5Db54OSHYcvnoB1n6EKcVS"
+      },
+      "artists": [
+        {
+          "name": "Zahraa",
+          "url": "https://open.spotify.com/artist/2dEne6fzRqdfeUce061gtr"
+        }
+      ],
+      "duration_ms": 189183,
+      "name": "STEADY",
+      "url": "https://open.spotify.com/track/5hypfnnKWAC4GBABJYQgvc"
+    },
+    {
+      "added_at": "2023-07-18 21:05:00",
+      "album": {
+        "name": "Kitchen",
+        "url": "https://open.spotify.com/album/5jTJVLDVNF5vBr1RL4txfl"
+      },
+      "artists": [
+        {
+          "name": "Beast",
+          "url": "https://open.spotify.com/artist/5DJLMjyosyNTiQZsdY44ED"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Kitchen",
+      "url": "https://open.spotify.com/track/5nRtylSD6JbhoC3DoFkinD"
+    },
+    {
+      "added_at": "2023-07-18 21:05:00",
+      "album": {
+        "name": "way too much",
+        "url": "https://open.spotify.com/album/1PkiCzZ4rpTLpcVRUqItrZ"
+      },
+      "artists": [
+        {
+          "name": "Kali-B",
+          "url": "https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j"
+        },
+        {
+          "name": "Grzzlee",
+          "url": "https://open.spotify.com/artist/07Efe4dMeeW6GMWB6Gkwi6"
+        }
+      ],
+      "duration_ms": 118074,
+      "name": "way too much",
+      "url": "https://open.spotify.com/track/4W64FXQzz1vEvs4xH3wOal"
+    },
+    {
+      "added_at": "2023-07-18 21:05:00",
+      "album": {
+        "name": "Summa Song",
+        "url": "https://open.spotify.com/album/5W1OQqSK6nEKh1iHjkmfkU"
+      },
+      "artists": [
+        {
+          "name": "Butternotes",
+          "url": "https://open.spotify.com/artist/3Mm7FLQW1CVB9cq9mAUtDh"
+        }
+      ],
+      "duration_ms": 211048,
+      "name": "Summa Song",
+      "url": "https://open.spotify.com/track/2dTo3ReCWQ1mWrtMjlNd9B"
+    },
+    {
+      "added_at": "2023-07-18 21:05:00",
+      "album": {
+        "name": "HARAM",
+        "url": "https://open.spotify.com/album/2uJsBXIDX2uAy1ksha2xNR"
+      },
+      "artists": [
+        {
+          "name": "Roxane",
+          "url": "https://open.spotify.com/artist/5VEztbwGyW1FTilouNEfuS"
+        }
+      ],
+      "duration_ms": 166153,
+      "name": "Haram",
+      "url": "https://open.spotify.com/track/3gLbNuU4c8Ja41DlkcBEE7"
+    },
+    {
+      "added_at": "2023-07-18 21:05:00",
       "album": {
         "name": "Seboni Nayem",
         "url": "https://open.spotify.com/album/5S5Sm9rWMVLgtghPbTuwKQ"
@@ -25,7 +145,7 @@
       "url": "https://open.spotify.com/track/309PcbE6Ve1UiPmtrhqoeq"
     },
     {
-      "added_at": "2023-07-05 05:08:43",
+      "added_at": "2023-07-18 21:05:00",
       "album": {
         "name": "Report to me",
         "url": "https://open.spotify.com/album/4MlUIh6YfD4E9mzd7K6ahh"
@@ -45,7 +165,7 @@
       "url": "https://open.spotify.com/track/4syYPLHQ9VwcEAu3BKIx2v"
     },
     {
-      "added_at": "2023-07-05 05:08:43",
+      "added_at": "2023-07-18 21:05:00",
       "album": {
         "name": "Lvl Up",
         "url": "https://open.spotify.com/album/37igg8BKQ3Ud3eYJmWnSmf"
@@ -61,7 +181,7 @@
       "url": "https://open.spotify.com/track/1Dy9svL4Bz12Tx9a0vv1xv"
     },
     {
-      "added_at": "2023-07-05 05:08:43",
+      "added_at": "2023-07-18 21:05:00",
       "album": {
         "name": "Seventeenth",
         "url": "https://open.spotify.com/album/7rsjWsaJzIAfYDUGNOWZwg"
@@ -77,7 +197,7 @@
       "url": "https://open.spotify.com/track/4So2mnPsaD3clOoqAWUKKM"
     },
     {
-      "added_at": "2023-07-05 05:08:43",
+      "added_at": "2023-07-18 21:05:00",
       "album": {
         "name": "Jah!",
         "url": "https://open.spotify.com/album/5yXt4Hx0Wx0sEaVZMfmJzN"
@@ -93,7 +213,7 @@
       "url": "https://open.spotify.com/track/3i7Rhc5SfwV7KxdOCJoMD1"
     },
     {
-      "added_at": "2023-07-05 05:08:43",
+      "added_at": "2023-07-18 21:05:00",
       "album": {
         "name": "Things You Don't Tell Yourself",
         "url": "https://open.spotify.com/album/6BtKroE9NthS2kTSsYv8dT"
@@ -113,7 +233,7 @@
       "url": "https://open.spotify.com/track/4VLws1htn1cLel6LpUe3D4"
     },
     {
-      "added_at": "2023-07-05 05:08:43",
+      "added_at": "2023-07-18 21:05:00",
       "album": {
         "name": "Kindir Surprise",
         "url": "https://open.spotify.com/album/3MO0fz7nWbv0cNybHu6DuM"
@@ -129,7 +249,7 @@
       "url": "https://open.spotify.com/track/5jjxs06EnkLIUajLPTAdqH"
     },
     {
-      "added_at": "2023-07-05 05:08:43",
+      "added_at": "2023-07-18 21:05:00",
       "album": {
         "name": "Ya Lel",
         "url": "https://open.spotify.com/album/48V722Zrn4nMGYWKrAFjk3"
@@ -145,7 +265,7 @@
       "url": "https://open.spotify.com/track/1I1YpnPKkgtt01ETAy2Ku6"
     },
     {
-      "added_at": "2023-07-05 05:08:43",
+      "added_at": "2023-07-18 21:05:00",
       "album": {
         "name": "FAR\u00c4GH",
         "url": "https://open.spotify.com/album/4xkFC5AuXCYO9ihuUwySbJ"
@@ -161,7 +281,7 @@
       "url": "https://open.spotify.com/track/3XqDXuI9p3HoNVC3Vh98Q8"
     },
     {
-      "added_at": "2023-07-05 05:08:43",
+      "added_at": "2023-07-18 21:05:00",
       "album": {
         "name": "Dream Merchant",
         "url": "https://open.spotify.com/album/2C0705Y1tvu30snlIOE1yT"
@@ -177,7 +297,7 @@
       "url": "https://open.spotify.com/track/12lCB896GPVWOTIAq0JAiY"
     },
     {
-      "added_at": "2023-07-05 05:08:43",
+      "added_at": "2023-07-18 21:05:00",
       "album": {
         "name": "Bedroom Promises",
         "url": "https://open.spotify.com/album/2C4WxtfztrmcPfWbMVjBql"
@@ -193,7 +313,7 @@
       "url": "https://open.spotify.com/track/0hzN7FYPW5bZpHKQpaHT1C"
     },
     {
-      "added_at": "2023-07-05 05:08:43",
+      "added_at": "2023-07-18 21:05:00",
       "album": {
         "name": "WATCH ME",
         "url": "https://open.spotify.com/album/6vDE9qfeYWY5IanJVm10LU"
@@ -209,7 +329,7 @@
       "url": "https://open.spotify.com/track/5VM0FGO5ekarRzA3Lx7TsR"
     },
     {
-      "added_at": "2023-07-05 05:08:43",
+      "added_at": "2023-07-18 21:05:00",
       "album": {
         "name": "Illbealright",
         "url": "https://open.spotify.com/album/7IT7FGfFe25oFkx4KQhJM6"
@@ -225,7 +345,7 @@
       "url": "https://open.spotify.com/track/1hr63UH982HEO8UqlOAZha"
     },
     {
-      "added_at": "2023-07-05 05:08:43",
+      "added_at": "2023-07-18 21:05:00",
       "album": {
         "name": "Toss & Turn",
         "url": "https://open.spotify.com/album/7LpkfIaPH6ehlMdmb5zmg4"
@@ -241,7 +361,7 @@
       "url": "https://open.spotify.com/track/67LrUhbuB4jsc9uafg6moE"
     },
     {
-      "added_at": "2023-07-05 05:08:43",
+      "added_at": "2023-07-18 21:05:00",
       "album": {
         "name": "Sawt El Aleb",
         "url": "https://open.spotify.com/album/65uxLg1sz6E9ZIomWT5auS"
@@ -257,7 +377,7 @@
       "url": "https://open.spotify.com/track/5RMIlXSlKaQn4v4KLLO68Z"
     },
     {
-      "added_at": "2023-07-05 05:08:43",
+      "added_at": "2023-07-18 21:05:00",
       "album": {
         "name": "One Memory",
         "url": "https://open.spotify.com/album/2Xx3thJVUjbTeWrw5m27YK"
@@ -273,7 +393,7 @@
       "url": "https://open.spotify.com/track/13tITmvKakoCoppUnggKX8"
     },
     {
-      "added_at": "2023-07-05 05:08:43",
+      "added_at": "2023-07-18 21:05:00",
       "album": {
         "name": "Come Down",
         "url": "https://open.spotify.com/album/25wKc0EMZYED26e4sFxeDO"
@@ -289,7 +409,7 @@
       "url": "https://open.spotify.com/track/4Y8do3pAd3udNB7I4UzCtG"
     },
     {
-      "added_at": "2023-07-05 05:08:43",
+      "added_at": "2023-07-18 21:05:00",
       "album": {
         "name": "Gone",
         "url": "https://open.spotify.com/album/5CoFXUrSCKTgIQKUOo3Mh8"
@@ -309,7 +429,7 @@
       "url": "https://open.spotify.com/track/5yf2fztisvgjZSoOQJVoZe"
     },
     {
-      "added_at": "2023-07-05 05:08:43",
+      "added_at": "2023-07-18 21:05:00",
       "album": {
         "name": "Catch Your Drift",
         "url": "https://open.spotify.com/album/3QGq5ih3bbRk0QJarBwNq3"
@@ -325,7 +445,7 @@
       "url": "https://open.spotify.com/track/2tyvEHHMM9cop4ZDTOCQKi"
     },
     {
-      "added_at": "2023-07-05 05:08:43",
+      "added_at": "2023-07-18 21:05:00",
       "album": {
         "name": "Remedy",
         "url": "https://open.spotify.com/album/1QkDJE5oZHxDdotlGgN9xy"
@@ -345,7 +465,7 @@
       "url": "https://open.spotify.com/track/0Vf2mGwLoYXmgv2IxgEPko"
     },
     {
-      "added_at": "2023-07-05 05:08:43",
+      "added_at": "2023-07-18 21:05:00",
       "album": {
         "name": "101",
         "url": "https://open.spotify.com/album/3BbCwU3PJTypB5bTQm20Y5"
@@ -361,7 +481,7 @@
       "url": "https://open.spotify.com/track/2aaa4A0g1XurnQfFC0dpoE"
     },
     {
-      "added_at": "2023-07-05 05:08:43",
+      "added_at": "2023-07-18 21:05:00",
       "album": {
         "name": "FO2 YA 3BIT",
         "url": "https://open.spotify.com/album/4qQI0tUcWS5Y6OYhyacuXs"
@@ -377,23 +497,7 @@
       "url": "https://open.spotify.com/track/2z3q0My73fl8nE1VEncMBU"
     },
     {
-      "added_at": "2023-07-05 05:08:43",
-      "album": {
-        "name": "RAS L'KHEIT",
-        "url": "https://open.spotify.com/album/2BL8Jg0gyzTxoJU5Qn679Y"
-      },
-      "artists": [
-        {
-          "name": "Fulan",
-          "url": "https://open.spotify.com/artist/4EUpixEhMIiyIPz8TzVpqk"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "RAS L'KHEIT",
-      "url": "https://open.spotify.com/track/15D5UNbf9SEnTElZVImhmo"
-    },
-    {
-      "added_at": "2023-07-05 05:08:43",
+      "added_at": "2023-07-18 21:05:00",
       "album": {
         "name": "Bashbah Emmbareh",
         "url": "https://open.spotify.com/album/2kmOdp6ZKij22qnBLhhcRj"
@@ -409,7 +513,7 @@
       "url": "https://open.spotify.com/track/2GXbUELoVg9MCAXh7ZyAwq"
     },
     {
-      "added_at": "2023-07-05 05:08:43",
+      "added_at": "2023-07-18 21:05:00",
       "album": {
         "name": "High Hopes",
         "url": "https://open.spotify.com/album/6JdHIz73iNQiexBQDk09Aj"
@@ -425,7 +529,7 @@
       "url": "https://open.spotify.com/track/6TmuUKIwlBkFzK6ryJmjy9"
     },
     {
-      "added_at": "2023-07-05 05:08:43",
+      "added_at": "2023-07-18 21:05:00",
       "album": {
         "name": "Scorsese",
         "url": "https://open.spotify.com/album/61Lt1vrqJn88KCCozyklla"
@@ -441,23 +545,7 @@
       "url": "https://open.spotify.com/track/750DwBev1112r16elo8Mom"
     },
     {
-      "added_at": "2023-07-05 05:08:43",
-      "album": {
-        "name": "Mtgish",
-        "url": "https://open.spotify.com/album/4CZkYILeBBtEHmQeJEqXli"
-      },
-      "artists": [
-        {
-          "name": "ZIG ZVG",
-          "url": "https://open.spotify.com/artist/5kSjizXafyuGDaIKvYHj4o"
-        }
-      ],
-      "duration_ms": 137268,
-      "name": "Mtgish",
-      "url": "https://open.spotify.com/track/6lcaJma2LGeeLZ37YNl1XS"
-    },
-    {
-      "added_at": "2023-07-05 05:08:43",
+      "added_at": "2023-07-18 21:05:00",
       "album": {
         "name": "Wana",
         "url": "https://open.spotify.com/album/4Z7upV3DSB9yslpIYDRNdm"
@@ -473,7 +561,7 @@
       "url": "https://open.spotify.com/track/6ygaR0OCPjB2YdBbbNKvss"
     },
     {
-      "added_at": "2023-07-05 05:08:43",
+      "added_at": "2023-07-18 21:05:00",
       "album": {
         "name": "Hindsight",
         "url": "https://open.spotify.com/album/54xZz8LpOA9gaYQLPRcE6M"
@@ -489,7 +577,7 @@
       "url": "https://open.spotify.com/track/1rOJRgBtDhbLpajg2j7U6h"
     },
     {
-      "added_at": "2023-07-05 05:08:43",
+      "added_at": "2023-07-18 21:05:00",
       "album": {
         "name": "Complicated",
         "url": "https://open.spotify.com/album/5S7iMl6Wfl4hHMKTzNxLPw"
@@ -505,7 +593,7 @@
       "url": "https://open.spotify.com/track/12tZyFvHuaiIbP80ukDWH5"
     },
     {
-      "added_at": "2023-07-05 05:08:43",
+      "added_at": "2023-07-18 21:05:00",
       "album": {
         "name": "Ode to life",
         "url": "https://open.spotify.com/album/1Drj3fSdeoRcfLOY5vGcQq"
@@ -521,7 +609,7 @@
       "url": "https://open.spotify.com/track/2qdDZJm6QkRLQfQ7ZmVCJc"
     },
     {
-      "added_at": "2023-07-05 05:08:43",
+      "added_at": "2023-07-18 21:05:00",
       "album": {
         "name": "Heat",
         "url": "https://open.spotify.com/album/2oAyoiJZwHEQWDrltRnJIz"
@@ -537,7 +625,7 @@
       "url": "https://open.spotify.com/track/42v0E7B6vsNtls6UrzC9ui"
     },
     {
-      "added_at": "2023-07-05 05:08:43",
+      "added_at": "2023-07-18 21:05:00",
       "album": {
         "name": "Something I Need",
         "url": "https://open.spotify.com/album/467mQuu2y4ISHnWMAMOHAX"
@@ -553,7 +641,7 @@
       "url": "https://open.spotify.com/track/5j3so8OA4ddWtvObRxy0zm"
     },
     {
-      "added_at": "2023-07-05 05:08:43",
+      "added_at": "2023-07-18 21:05:00",
       "album": {
         "name": "Fallen Angels",
         "url": "https://open.spotify.com/album/0ZjEgvsn7lMR0iaqT3aRJd"
@@ -569,7 +657,7 @@
       "url": "https://open.spotify.com/track/2Ppk0QHM7KqDzc9vOqbpH2"
     },
     {
-      "added_at": "2023-07-05 05:08:43",
+      "added_at": "2023-07-18 21:05:00",
       "album": {
         "name": "waht if_6",
         "url": "https://open.spotify.com/album/4uJ4jXQ3Ru5yTxCdS9A9Tf"
@@ -585,39 +673,7 @@
       "url": "https://open.spotify.com/track/02EIlu5QhjNIeLnwlQENS6"
     },
     {
-      "added_at": "2023-07-05 05:08:43",
-      "album": {
-        "name": "Open the Pit",
-        "url": "https://open.spotify.com/album/4IV6J4InJdrbAFVva0OtmP"
-      },
-      "artists": [
-        {
-          "name": "Nader Khalil",
-          "url": "https://open.spotify.com/artist/1rBA9ijYVAVzqbBCet7hDi"
-        }
-      ],
-      "duration_ms": 116923,
-      "name": "Open the Pit",
-      "url": "https://open.spotify.com/track/0wH4CxUFXPy8QjjJLZHass"
-    },
-    {
-      "added_at": "2023-07-05 05:08:43",
-      "album": {
-        "name": "Change Tomorrow",
-        "url": "https://open.spotify.com/album/65SFAWxelR0yqqgICyx6Mn"
-      },
-      "artists": [
-        {
-          "name": "Jay Abo",
-          "url": "https://open.spotify.com/artist/1Uad5DOAyWNd3yTUsF6mP7"
-        }
-      ],
-      "duration_ms": 241939,
-      "name": "Change Tomorrow",
-      "url": "https://open.spotify.com/track/0dItuN1tugzBIXMttqsuY7"
-    },
-    {
-      "added_at": "2023-07-05 05:08:43",
+      "added_at": "2023-07-18 21:05:00",
       "album": {
         "name": "Tmsa7",
         "url": "https://open.spotify.com/album/0H3iSplT0QyZQxoJ3v9NI8"
@@ -633,7 +689,7 @@
       "url": "https://open.spotify.com/track/1FC0frU9acXOQvkJRGeAD2"
     },
     {
-      "added_at": "2023-07-05 05:08:43",
+      "added_at": "2023-07-18 21:05:00",
       "album": {
         "name": "HYSTERIA",
         "url": "https://open.spotify.com/album/4EKOsj9YWElPfGuDNaxM48"
@@ -649,23 +705,7 @@
       "url": "https://open.spotify.com/track/0GBdCAzoO1nQdTl0ajJCul"
     },
     {
-      "added_at": "2023-07-05 05:08:43",
-      "album": {
-        "name": "Queen",
-        "url": "https://open.spotify.com/album/7d9o63pw979XngrDlHRrey"
-      },
-      "artists": [
-        {
-          "name": "Tasneem Elaidy",
-          "url": "https://open.spotify.com/artist/42FcAzSkkJgd5Gw8TjyaSU"
-        }
-      ],
-      "duration_ms": 185250,
-      "name": "Queen",
-      "url": "https://open.spotify.com/track/75GOJlE9TOU8LeHdMY5gba"
-    },
-    {
-      "added_at": "2023-07-05 05:08:43",
+      "added_at": "2023-07-18 21:05:00",
       "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/5p5RkbJwuXyM5lfmgfoPF6"
@@ -681,7 +721,7 @@
       "url": "https://open.spotify.com/track/6ijfznxnQ4bxt3aESRanLG"
     },
     {
-      "added_at": "2023-07-05 05:08:43",
+      "added_at": "2023-07-18 21:05:00",
       "album": {
         "name": "How stupid is this?",
         "url": "https://open.spotify.com/album/3ZxRnhdZ5hJbrrZfPveQDL"
@@ -697,23 +737,7 @@
       "url": "https://open.spotify.com/track/3dcRnj7wvnhpSdEE3fyTzL"
     },
     {
-      "added_at": "2023-07-05 05:08:43",
-      "album": {
-        "name": "Dodi and Diana",
-        "url": "https://open.spotify.com/album/5BDRacsQIb2OfWeyoz1mLi"
-      },
-      "artists": [
-        {
-          "name": "Bayou",
-          "url": "https://open.spotify.com/artist/09ff0T1Qio2d5f04uGKeL3"
-        }
-      ],
-      "duration_ms": 138681,
-      "name": "Dodi and Diana",
-      "url": "https://open.spotify.com/track/2qLXPJKlyq3AdL5BfkPLtJ"
-    },
-    {
-      "added_at": "2023-07-05 05:08:43",
+      "added_at": "2023-07-18 21:05:00",
       "album": {
         "name": "Gazing",
         "url": "https://open.spotify.com/album/3nkipMsCFqQ5OrX3aN6Qpz"
@@ -729,23 +753,7 @@
       "url": "https://open.spotify.com/track/6b7ob860TUCKrj1U5SrWEU"
     },
     {
-      "added_at": "2023-07-05 05:08:43",
-      "album": {
-        "name": "OBSESSED",
-        "url": "https://open.spotify.com/album/6E9QcKgzS7TYqFmENIBkiG"
-      },
-      "artists": [
-        {
-          "name": "Zahraa",
-          "url": "https://open.spotify.com/artist/2dEne6fzRqdfeUce061gtr"
-        }
-      ],
-      "duration_ms": 174550,
-      "name": "OBSESSED",
-      "url": "https://open.spotify.com/track/7k2nyUIUCK6lZGeA6zdj8Z"
-    },
-    {
-      "added_at": "2023-07-05 05:08:43",
+      "added_at": "2023-07-18 21:05:00",
       "album": {
         "name": "Leh Ya Hana ?",
         "url": "https://open.spotify.com/album/4uWS5ntd91UbXbekxpDdLN"
@@ -761,23 +769,7 @@
       "url": "https://open.spotify.com/track/4ZblA6ehlUEGgy3cpENRrx"
     },
     {
-      "added_at": "2023-07-05 05:08:43",
-      "album": {
-        "name": "ZIK",
-        "url": "https://open.spotify.com/album/1XnTTW2lDUzhq1WmSkOu9o"
-      },
-      "artists": [
-        {
-          "name": "Massyl A\u00efta",
-          "url": "https://open.spotify.com/artist/11k7ODo5tK9sRRseJMR90d"
-        }
-      ],
-      "duration_ms": 259721,
-      "name": "ZIK",
-      "url": "https://open.spotify.com/track/2KtjMjvG5ZMRlKTpFQB4eJ"
-    },
-    {
-      "added_at": "2023-07-05 05:08:43",
+      "added_at": "2023-07-18 21:05:00",
       "album": {
         "name": "Uncovered",
         "url": "https://open.spotify.com/album/66ZJVQmOhlQAcF7yUDLtXg"
@@ -793,7 +785,7 @@
       "url": "https://open.spotify.com/track/59aIHEHhiwvnlGCmwumfgH"
     },
     {
-      "added_at": "2023-07-05 05:08:43",
+      "added_at": "2023-07-18 21:05:00",
       "album": {
         "name": "FAG2A",
         "url": "https://open.spotify.com/album/7tRGdl7s0qbaWAi47qeZjQ"
@@ -811,30 +803,6 @@
       "duration_ms": 174076,
       "name": "FAG2A",
       "url": "https://open.spotify.com/track/7mokTKlzN0a3zlBGZeSsdM"
-    },
-    {
-      "added_at": "2023-07-05 05:08:43",
-      "album": {
-        "name": "In the Music",
-        "url": "https://open.spotify.com/album/5IjEWqasrST65LtDSo0gEJ"
-      },
-      "artists": [
-        {
-          "name": "B-Element",
-          "url": "https://open.spotify.com/artist/2sSKCGvBkxCr5LOXxYGtqa"
-        },
-        {
-          "name": "Shqzu",
-          "url": "https://open.spotify.com/artist/1aIKyRiP9H0H2IQ0RaWjbk"
-        },
-        {
-          "name": "Kali-B",
-          "url": "https://open.spotify.com/artist/62s7RLFRZJV8CcJWidmQ1j"
-        }
-      ],
-      "duration_ms": 170973,
-      "name": "In the Music",
-      "url": "https://open.spotify.com/track/5TQiZXRf45cJthdjbsmlYy"
     }
   ],
   "unique_name": "Fresh Finds Arabia",
