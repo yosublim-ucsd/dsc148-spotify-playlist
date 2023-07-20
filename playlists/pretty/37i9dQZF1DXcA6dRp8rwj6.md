@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: DDG\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,171 likes - 83 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,244 likes - 83 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 82 | [Temper 2.0](https://open.spotify.com/track/6E503KjwRFGvqlvK6PP1P1) | [Lil Joc](https://open.spotify.com/artist/1ZjFjZcPidokRavUYyltIo) | [Big Y10](https://open.spotify.com/album/7cZAw8j0S6U28cZM93iYHO) | 1:42 |
 | 83 | [Took My Breath Away \(feat\. Skye Morales\)](https://open.spotify.com/track/4rm5u0dOb7eVBpsB4hsP6g) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Skye Morales](https://open.spotify.com/artist/7aqNn14e0HTC6IU6yuGx4p) | [Took My Breath Away \(feat\. Skye Morales\)](https://open.spotify.com/album/0OvsEm90C9FfkKSNnDwhGw) | 3:00 |
 
-Snapshot ID: `MCw3OTYxMzhlMThiYTMzZGViNjA1NTYxNWJjMWQzNjhiMGU2YzUyNjZj`
+Snapshot ID: `MCxkYTlmMmQ4ZTIyOTA1NmVkZmYzNDc3NGZmNDE2MmM0NjFhZTcwZmRj`

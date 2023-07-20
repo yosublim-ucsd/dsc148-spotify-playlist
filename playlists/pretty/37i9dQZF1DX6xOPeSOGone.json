@@ -1,12 +1,12 @@
 {
   "description": "It's like rock, but softer. Cover: Fleetwood Mac",
-  "num_followers": 3589857,
+  "num_followers": 3589858,
   "original_name": "Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNWI5NDdiNzQzYzM1MzEyNDRmZmZiNDc5YThlZmU4MzEwZDNmOWU1",
+  "snapshot_id": "MCwxZDJhNDMzYWUxNTJjZDA1Y2M4YmYwNWRiMmI1ZWFlNzMwZTE4MTUz",
   "tracks": [
     {
       "added_at": "2023-03-20 17:07:41",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-03-20 17:07:41",
       "album": {
-        "name": "Arc Of A Diver",
-        "url": "https://open.spotify.com/album/6st1dtm8abvdd1S9vWLUQL"
-      },
-      "artists": [
-        {
-          "name": "Steve Winwood",
-          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
-        }
-      ],
-      "duration_ms": 313493,
-      "name": "While You See A Chance",
-      "url": "https://open.spotify.com/track/4tFumK7mnlcpNeHCNEQ4wc"
-    },
-    {
-      "added_at": "2023-03-20 17:07:41",
-      "album": {
         "name": "Takin' It Easy",
         "url": "https://open.spotify.com/album/7DnYwuOkSK6qoZmfzx5erL"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 200026,
       "name": "You're the Love",
       "url": "https://open.spotify.com/track/5Y67sAjZpir4N0PTBsIogb"
+    },
+    {
+      "added_at": "2023-03-20 17:07:41",
+      "album": {
+        "name": "Arc Of A Diver",
+        "url": "https://open.spotify.com/album/6st1dtm8abvdd1S9vWLUQL"
+      },
+      "artists": [
+        {
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+        }
+      ],
+      "duration_ms": 313493,
+      "name": "While You See A Chance",
+      "url": "https://open.spotify.com/track/4tFumK7mnlcpNeHCNEQ4wc"
     },
     {
       "added_at": "2023-03-20 17:07:41",

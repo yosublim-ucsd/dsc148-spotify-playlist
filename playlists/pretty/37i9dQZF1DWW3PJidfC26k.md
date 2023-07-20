@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW3PJidfC26k.md) - [plain]
 
 > <a href="https://www.hardlystrictlybluegrass.com/">Tune in</a> Oct\. 1\-3rd starting @ 1pm PT/4pm ET as HSB brings the music we all enjoy in the park to your living rooms and backyards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,286 likes - 60 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,300 likes - 60 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW3PJidfC26k.md) - [plain]
 | 59 | [I See It Now](https://open.spotify.com/track/4NhO8oJUelTgNmj3G6JZKr) | [Bachelor](https://open.spotify.com/artist/7B1OPA8Ttxfv3XBDCkw24E), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO), [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [I See It Now](https://open.spotify.com/album/5Gc1jfwEfaGaOq3QllW9rb) | 2:53 |
 | 60 | [The Long Goodbye](https://open.spotify.com/track/6gDnRavQGA28VqNb4ESX4c) | [Ceramic Dog](https://open.spotify.com/artist/2EKKgp12AZDmsFbMU59X0C), [Marc Ribot](https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn) | [Hope](https://open.spotify.com/album/2YNMXnSCNMOfv2bdYtthZu) | 10:02 |
 
-Snapshot ID: `MCwzZDg2M2E4MzQwNTRhMWZjYzFlYmEwMDcyYzU5OWJlN2NhYzI1MTQ1`
+Snapshot ID: `MCxlMjQwYjYyNDQ3NDE2ODJhMGU3Y2YzMjlhMjM2MWE1OTNkOTM1YTg4`

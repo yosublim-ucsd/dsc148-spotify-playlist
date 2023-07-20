@@ -4,7 +4,7 @@
 
 > Help your baby drift off to sleep with this soothing playlist of Disney favorites, including Frozen 2.
 
-191 songs - 9 hr 15 min
+193 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [He's A Pirate](https://open.spotify.com/track/6dAOMe5B3sXilEsSF4BvzA) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Ukulele Disney](https://open.spotify.com/album/3fauRA8wFr654t66TDvw8k) | 2:56 | 2022-04-15 |  |
 | [House at Pooh Corner](https://open.spotify.com/track/1AieZp5vImnCvbUapUyoFG) | [Fred Mollin](https://open.spotify.com/artist/0qPfO5FCAsfqK3pgqBSAJR) | [Disney Lullaby Album](https://open.spotify.com/album/3UvlJDMb3sEH8lUk83598i) | 3:04 | 2022-04-15 |  |
 | [How Does a Moment Last Forever](https://open.spotify.com/track/6MGFt4zPZjhlus6mU1lmYB) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Dream](https://open.spotify.com/album/6KvAEqxeFDVxFkCvE8gw0C) | 3:40 | 2022-04-15 |  |
+| [How Far I'll Go](https://open.spotify.com/track/4OJNQXj4BU4qZtaYZi0lWm) | [Disney Peaceful Ambient](https://open.spotify.com/artist/6aA9df0i0FwAwW8VWLiKFv) | [Disney Peaceful: Ambient](https://open.spotify.com/album/2Dlg5prvxTCsK98od04Hjm) | 3:12 | 2023-07-19 |  |
 | [How Far I'll Go](https://open.spotify.com/track/3TeDrql1cmJPIoo7fE39Hj) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Chill](https://open.spotify.com/album/3NLf3vFNYqC2idExmdILPP) | 3:09 | 2022-04-15 |  |
 | [How Far I'll Go](https://open.spotify.com/track/7hPHAXzlM5omRCBpeai7no) | [Disney Peaceful Strings](https://open.spotify.com/artist/1kjDZ3RgSHfx5VES0rF6e0) | [Disney Peaceful Strings: Relax](https://open.spotify.com/album/6cBNz6y4BwjCFKawzy55mW) | 2:40 | 2022-12-08 |  |
 | [How Far I'll Go \- Orgel Version](https://open.spotify.com/track/6HdakporMT8TEN1oBpCKl1) | [Disney Orgel](https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8) | [Disney Orgel/Oyasumi BGM](https://open.spotify.com/album/5xeEN43Vodm7fHSK29vBw9) | 3:48 | 2022-04-15 |  |
@@ -169,6 +170,7 @@
 | [Trust in Me](https://open.spotify.com/track/7zQejxywqVxvAB56WVlJV6) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Serenity](https://open.spotify.com/album/6yR9o27G8Cnxu8BLrOyKsN) | 1:50 | 2022-04-15 |  |
 | [Twinkle, Twinkle, Little Star](https://open.spotify.com/track/5lfSdkJDgfFWflXlPq5Gsx) | [Jackie Cusic](https://open.spotify.com/artist/6uANe2zVTu4iieBxdMpq6t) | [Disney Baby Lullaby](https://open.spotify.com/album/49OMKZqjoE2rQkDR0SrQ6A) | 1:34 | 2022-05-23 |  |
 | [Twinkle, Twinkle, Little Star](https://open.spotify.com/track/1BEtrQSOOb7jdffB6IoD3N) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Lullabies Vol\. 1](https://open.spotify.com/album/6CPPr8LjolXUFAiEMiLQgb) | 1:24 | 2022-04-15 |  |
+| [Under the Sea](https://open.spotify.com/track/4rzuVbEKzZdlQxbCueaQDo) | [Disney Peaceful Ambient](https://open.spotify.com/artist/6aA9df0i0FwAwW8VWLiKFv) | [Disney Peaceful: Ambient](https://open.spotify.com/album/2Dlg5prvxTCsK98od04Hjm) | 3:43 | 2023-07-19 |  |
 | [Under The Sea](https://open.spotify.com/track/2APVreU7PPG721p8xte07l) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Ukulele Disney](https://open.spotify.com/album/3fauRA8wFr654t66TDvw8k) | 2:49 | 2022-04-15 |  |
 | [Vampirina Theme](https://open.spotify.com/track/6UCJiPw3OdHbVY6o4kxQUW) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Lullabies Vol\. 1](https://open.spotify.com/album/6CPPr8LjolXUFAiEMiLQgb) | 1:24 | 2022-04-15 |  |
 | [Waiting On A Miracle](https://open.spotify.com/track/2HTYj5Z5LH7QXK4EcyBsWt) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Peace](https://open.spotify.com/album/2hlcGmPAJcc4MNzbF1e7vd) | 2:56 | 2022-04-15 |  |

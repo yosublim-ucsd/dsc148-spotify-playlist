@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Lukas Nelson and Promise of the Real
 
-[Spotify](https://open.spotify.com/user/spotify) - 612,923 likes - 149 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,005 likes - 149 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 75 | [Every Light](https://open.spotify.com/track/4i8j6kulj1ipa8srEE4LZT) | [Radio Company](https://open.spotify.com/artist/3qBdT7NKSOBogHhGiUVLiV) | [Keep On Ramblin'](https://open.spotify.com/album/2A2aFLVWZKdon9eXdcJu6x) | 4:15 |
 | 76 | [Have You A Heart](https://open.spotify.com/track/7AhVjOemVKsEiLSXvo9PHU) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Lover's Game](https://open.spotify.com/album/7AA6zNhoKZIJE2xJSDwd4W) | 4:20 |
 | 77 | [Please Don't Go](https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Please Don't Go](https://open.spotify.com/album/4K2htiCgz7DrhLOWepp3ru) | 3:01 |
-| 78 | [Paint the Town](https://open.spotify.com/track/6XRkxzvmtwlSz4d6Vn45st) | [Nate Fredrick](https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx), [Nate Fredrick and The Wholesome Boys](https://open.spotify.com/artist/0m5y5Le332rV9R18MVYR5F) | [Nate Fredrick and The Wholesome Boys](https://open.spotify.com/album/4Yya6t17r3oBdkdxDP6qtX) | 3:26 |
+| 78 | [Paint the Town](https://open.spotify.com/track/6XRkxzvmtwlSz4d6Vn45st) | [Nate Fredrick](https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx), [The Wholesome Boys](https://open.spotify.com/artist/6YYYuZSb4nyo3KUSSR1cpm) | [Nate Fredrick and The Wholesome Boys](https://open.spotify.com/album/4Yya6t17r3oBdkdxDP6qtX) | 3:26 |
 | 79 | [Back to You](https://open.spotify.com/track/0nf0prxGiJlvNomPmYxe86) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Paint Horse](https://open.spotify.com/album/6s0ZlMKxMLMAspUfTI2NzN) | 3:17 |
 | 80 | [I'm Just a Clown](https://open.spotify.com/track/4PHCjTOpWuaYDacBBNd7Ut) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [I'm Just a Clown](https://open.spotify.com/album/2oDPcHYdkOy9pP7advhkVS) | 4:13 |
 | 81 | [Everywhere I Go](https://open.spotify.com/track/2JHFr3SVvWSGoFKg3kvTgw) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/2oxTJw5q7KQZYxXipOCoa8) | 2:19 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 148 | [Broke Again](https://open.spotify.com/track/7etPAMAqtcun5pn5uW3zbC) | [Joshua Hedley](https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh) | [Neon Blue](https://open.spotify.com/album/4CHT5gYJygDJ1IzF1hPslk) | 2:31 |
 | 149 | [Out Loud](https://open.spotify.com/track/6xF4aRS6U3r7ZWIXUEkPMG) | [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA) | [Out Loud](https://open.spotify.com/album/0CDlc31GOpMUKyEU9pJX5X) | 4:20 |
 
-Snapshot ID: `MCwxNWIyYmNhOTRjNTE1ZWZkM2UzYmI0ZmU1MzcxOTcxYmQ1MjgwYzI4`
+Snapshot ID: `MCwwN2Y3NTA2YThjN2E3ZmJlNWFkNmVjNTNjMTFmNjdkMjBkODE1MDAz`

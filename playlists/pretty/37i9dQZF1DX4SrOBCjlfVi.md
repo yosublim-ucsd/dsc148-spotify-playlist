@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Quavo, King Von, and more\. Cover: Lil Tjay
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,471 likes - 49 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,512 likes - 49 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Bla Bla \(feat\. Fivio Foreign\)](https://open.spotify.com/track/1xHcIJHIHwr2PUyTmFTWTy) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [222](https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL) | 2:26 |
-| 2 | [Turn Yo Clic Up \(feat\. Future\)](https://open.spotify.com/track/7LTCmtMpf3JPfBE8gAl64z) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Turn Yo Clic Up \(feat\. Future\)](https://open.spotify.com/album/1LaC62xZdpsUF19kVBbPCy) | 3:50 |
+| 1 | [Turn Yo Clic Up \(feat\. Future\)](https://open.spotify.com/track/7LTCmtMpf3JPfBE8gAl64z) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Turn Yo Clic Up \(feat\. Future\)](https://open.spotify.com/album/1LaC62xZdpsUF19kVBbPCy) | 3:50 |
+| 2 | [Bla Bla \(feat\. Fivio Foreign\)](https://open.spotify.com/track/1xHcIJHIHwr2PUyTmFTWTy) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [222](https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL) | 2:26 |
 | 3 | [Phil Jackson](https://open.spotify.com/track/5myFWvWVb4ZZW91GiMgE8B) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Grandson](https://open.spotify.com/album/4tH03Y2xfQNtG0CXJ8eGYN) | 2:48 |
 | 4 | [child of GOD](https://open.spotify.com/track/4mkguQG08ITzkOuwxEEhDt) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Remble](https://open.spotify.com/artist/65s98MYZ4xFpgKlUYS5XKw) | [child of GOD](https://open.spotify.com/album/2tdQ8ymmQslIQTBSPO1xga) | 2:54 |
 | 5 | [Slump \(Never Broke Again feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/6njzTlnGXDeUSJ0hqBRmRe) | [Never Broke Again](https://open.spotify.com/artist/5YyTs9tUWqcdI9kIQb85P2), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Never Broke Again Presents: Green Flag Activity, Vol\. 2](https://open.spotify.com/album/2cdnrqesWQafIhaEGgBwCi) | 3:16 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 48 | [No Use \(feat\. 03 Greedo\)](https://open.spotify.com/track/4UbFDOCUqk3e9OYz1s2Ssy) | [Shady Blu](https://open.spotify.com/artist/0n23tjBSiGh9chOSKpgoqa), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [No Use \(feat\. 03 Greedo\)](https://open.spotify.com/album/4yeBzIQ3h6gpvHYXOD5qUp) | 2:21 |
 | 49 | [too many times](https://open.spotify.com/track/4Z9evC61ZmIE8axxRJwyfR) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj) | [Yard Work Volume.1](https://open.spotify.com/album/7DH3BEDSzGVU4p7NjG8Jxu) | 3:20 |
 
-Snapshot ID: `MCxmNmQwOWZiOTM5Njc2MWI0MjFmMmNjOGI1MTUzZDI0NGRjZDQ5NzEy`
+Snapshot ID: `MCwyMjIyZTFhNTM5ZTc3OWIwNGE5ZDMwMDNlZjE3NjA5NWY1NmI3YWNk`

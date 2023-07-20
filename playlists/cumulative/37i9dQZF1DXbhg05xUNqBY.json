@@ -278,7 +278,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 297546,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/5rKbWEBYZNIR3ep6pBOK0t"
@@ -900,6 +900,28 @@
       "duration_ms": 293440,
       "name": "No One Ever Cared for Me Like Jesus",
       "url": "https://open.spotify.com/track/2oIFaafMda5ATaMr2b9pK8"
+    },
+    {
+      "album": {
+        "name": "Nothing Else",
+        "url": "https://open.spotify.com/album/4ZbxrL9T8SPMUYlgj0tZMm"
+      },
+      "artists": [
+        {
+          "name": "Gatton",
+          "url": "https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE"
+        },
+        {
+          "name": "sxxnt.",
+          "url": "https://open.spotify.com/artist/4T0c560DVGr1cAtE3reOP1"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264332,
+      "name": "Nothing Else",
+      "url": "https://open.spotify.com/track/1noA1mip0whVmqAfOQGooU"
     },
     {
       "album": {

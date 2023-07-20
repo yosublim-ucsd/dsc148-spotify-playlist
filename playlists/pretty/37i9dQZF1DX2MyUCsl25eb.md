@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-[Spotify](https://open.spotify.com/user/spotify) - 983,123 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 983,156 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2MyUCsl25eb.md) - [plain]
 | 99 | [Normal](https://open.spotify.com/track/7j6r88KZPacrIqtTGO9jMG) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Red Sky](https://open.spotify.com/album/0b1Sv51qVCHVQJwv9J7UOY) | 3:51 |
 | 100 | [Another Heart](https://open.spotify.com/track/7hiX2B01zsQxzQn7Sc6UNV) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Another Heart](https://open.spotify.com/album/5LEkV58Pa82xSZsvBw3Acu) | 3:41 |
 
-Snapshot ID: `MCw4MmUxM2UyMDk2YWY3ZmUwOTM2Y2FlMGVkODU1ZGVmYThkMzFkYzE4`
+Snapshot ID: `MCxkNGFmNmMwMGQ2MGM1NzZmNjRkNzViOGQ4OTc1ODE5NzRhZTM3MWE3`

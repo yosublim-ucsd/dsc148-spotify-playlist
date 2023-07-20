@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Kushi",
-  "num_followers": 99025,
+  "num_followers": 99183,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Y2M3OGU5MGI5ZTFlMGQ2YTViZjM0MGRkYTJiMmViMWEyYmNjMzgw",
+  "snapshot_id": "MCw1MGY1ODQwYmMwODY2Zjc1NDlkZjIxOWM1MDkwMDBmYTcyODRiZGY4",
   "tracks": [
     {
       "added_at": "2023-07-12 10:52:00",
@@ -75,6 +75,26 @@
       "duration_ms": 277274,
       "name": "Holare Hola",
       "url": "https://open.spotify.com/track/0a9bofyF3tSrYRCu2uVVkI"
+    },
+    {
+      "added_at": "2023-07-19 11:50:12",
+      "album": {
+        "name": "Chukkalonchi (From \"Ustaad\")",
+        "url": "https://open.spotify.com/album/1e8FXhF6yf5xxfMaf3E7RP"
+      },
+      "artists": [
+        {
+          "name": "Akeeva B",
+          "url": "https://open.spotify.com/artist/1fNYNRO55U5MUxLBDbGduW"
+        },
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Chukkalonchi (From \"Ustaad\")",
+      "url": "https://open.spotify.com/track/0VSTX8eCOBgnBCseiu9PTM"
     },
     {
       "added_at": "2023-06-16 11:16:35",
@@ -236,16 +256,16 @@
       },
       "artists": [
         {
-          "name": "Aakanksha",
-          "url": "https://open.spotify.com/artist/2138Mjwm0gHzchDu1iBuEe"
+          "name": "Akanksha Bisht",
+          "url": "https://open.spotify.com/artist/7hVfqYdQ9vPCD8VEGxs2EZ"
         },
         {
           "name": "Pavan",
           "url": "https://open.spotify.com/artist/3DsYnBCj82o1618kqGdGKp"
         },
         {
-          "name": "Mahesh",
-          "url": "https://open.spotify.com/artist/2cgnYoXVBtVwiCZIaq6lVx"
+          "name": "Mahesh (Lyricist)",
+          "url": "https://open.spotify.com/artist/5NNYbJA0irrbbxgram8Q1f"
         }
       ],
       "duration_ms": 235625,

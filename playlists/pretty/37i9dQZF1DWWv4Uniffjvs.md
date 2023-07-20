@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 
 > <a href="spotify:artist:0zo109NM3S7CqHpvlXwqEN">VTSS</a>' favorite tracks\. Updated regularly\. Curated by VTSS\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,905 likes - 67 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,931 likes - 67 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv4Uniffjvs.md) - [plain]
 | 66 | [Ghetto Fabulous](https://open.spotify.com/track/4Al06vYvUi8uPCYzw2b80X) | [Tessa](https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J) | [Ghetto Fabulous](https://open.spotify.com/album/12RdOXRmO7y2OduonFSWdd) | 2:23 |
 | 67 | [Brick City](https://open.spotify.com/track/6cY0VkgAjxj4Bhe0rRnKrU) | [HONEY B](https://open.spotify.com/artist/2ydEO7mJmIYAeSr4V7y36W) | [Brick City](https://open.spotify.com/album/7aOTxMiQvikfCpIdtM9JaV) | 3:57 |
 
-Snapshot ID: `MCw5N2M2MmYwZGEwZTg3YThkM2NkNGFiYWQyNDY4MWE3OWEyZTI3MmQ3`
+Snapshot ID: `MCxiNGIzMzQ0NjZlYTQ0YzUxMTE3MzE2MzUyMjI4YTVmNGM4NmFjOTcx`

@@ -2,7 +2,7 @@
 
 ### [Mzansi Raps](https://open.spotify.com/playlist/37i9dQZF1DWVEcPtggpQMu)
 
-> Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/75bLIeHjeeS0eNfGAajaQd?si=5\-2yVSZdSL2L8Wrqb81iQQ">Wordz</a>
+> Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj?si=9LTt1F\_xQKax36ZbiICLsw">Nasty C</a>
 
 560 songs - 1 day 6 hr 40 min
 

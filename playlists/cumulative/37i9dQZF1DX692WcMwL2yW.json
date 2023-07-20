@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/3LaAHNAw7zf96iXMV6CPwH"
+      },
+      "artists": [
+        {
+          "name": "7hour flower",
+          "url": "https://open.spotify.com/artist/1WJElDa3ckdTDhvvbkkizK"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167852,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/7B7AENJRc28c8QkZy8kRBi"
+    },
+    {
+      "album": {
         "name": "Power",
         "url": "https://open.spotify.com/album/0ygj6ZCtEMvOHL2835FW3k"
       },
@@ -1238,6 +1256,28 @@
       "duration_ms": 98969,
       "name": "Dizzy Bluesy (smile)",
       "url": "https://open.spotify.com/track/2M8ns1WQYQbS0E6Xef6Vuv"
+    },
+    {
+      "album": {
+        "name": "Do Without",
+        "url": "https://open.spotify.com/album/14VEF8Y61dwpn5gEqTzuEA"
+      },
+      "artists": [
+        {
+          "name": "leaf beach",
+          "url": "https://open.spotify.com/artist/5fQYCNYjrT9c4ZssNrC0gh"
+        },
+        {
+          "name": "Flitz&Suppe",
+          "url": "https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152787,
+      "name": "Do Without",
+      "url": "https://open.spotify.com/track/7ClvOKw3NSzT4l6R9boROe"
     },
     {
       "album": {
@@ -2334,6 +2374,42 @@
       "duration_ms": 136766,
       "name": "Hear Me Now",
       "url": "https://open.spotify.com/track/42Le6tvNm5uoO2XLutwPeG"
+    },
+    {
+      "album": {
+        "name": "Love Me Never",
+        "url": "https://open.spotify.com/album/2RF0UxaOTtYlyaWEXi981U"
+      },
+      "artists": [
+        {
+          "name": "Pixel Souls",
+          "url": "https://open.spotify.com/artist/5RxIWnD6l41ftSFtaLvXLi"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153850,
+      "name": "Helicopter Highs",
+      "url": "https://open.spotify.com/track/6n50fVKjQ4bqdHscI2zfxM"
+    },
+    {
+      "album": {
+        "name": "Hideaway",
+        "url": "https://open.spotify.com/album/3a0bcSBh38m3om1SMHTlC7"
+      },
+      "artists": [
+        {
+          "name": "CL5K",
+          "url": "https://open.spotify.com/artist/2LLzw9sAUyp56Yknm8mTwp"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128218,
+      "name": "Hideaway",
+      "url": "https://open.spotify.com/track/1BtSADpQfAKO6EIvJCP2dU"
     },
     {
       "album": {
@@ -3847,6 +3923,24 @@
     },
     {
       "album": {
+        "name": "Onimous",
+        "url": "https://open.spotify.com/album/2ZC52vxVjtHsPoBuqaDb8l"
+      },
+      "artists": [
+        {
+          "name": "Fadez N Rizer",
+          "url": "https://open.spotify.com/artist/0Byvk0rx8JPDyTBHKnIfbP"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139105,
+      "name": "Onimous",
+      "url": "https://open.spotify.com/track/1URMoYHbn66BXWNoymgg0o"
+    },
+    {
+      "album": {
         "name": "Soul Waste",
         "url": "https://open.spotify.com/album/4ungK52Ght7QUuKwRc0rlF"
       },
@@ -4024,6 +4118,42 @@
       "duration_ms": 92800,
       "name": "Perfection",
       "url": "https://open.spotify.com/track/3cgmk4PnyagSVS0snpSHBf"
+    },
+    {
+      "album": {
+        "name": "PITS",
+        "url": "https://open.spotify.com/album/0S2NAqlM9yKiAaCYB6EGsp"
+      },
+      "artists": [
+        {
+          "name": "Nowhere Now Here",
+          "url": "https://open.spotify.com/artist/28VTxH3Tc2T5tamVQGYnI6"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140798,
+      "name": "PITS",
+      "url": "https://open.spotify.com/track/0mjK7y2U7jDEaQTrPytWpi"
+    },
+    {
+      "album": {
+        "name": "Anthony's Surprise",
+        "url": "https://open.spotify.com/album/6NXaEvZCo7hPLjsFWL4Zf6"
+      },
+      "artists": [
+        {
+          "name": "Takek",
+          "url": "https://open.spotify.com/artist/0g5pLf3taXGdGznIGtm01k"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183111,
+      "name": "Player Haters",
+      "url": "https://open.spotify.com/track/4CBaPRru0HxmZ5GHPBpdwQ"
     },
     {
       "album": {
@@ -5229,6 +5359,24 @@
     },
     {
       "album": {
+        "name": "Symbolic",
+        "url": "https://open.spotify.com/album/0pyqcOi22kCAB0pAXiZMgp"
+      },
+      "artists": [
+        {
+          "name": "hazze haze",
+          "url": "https://open.spotify.com/artist/66qLqHKDJ4nFiSWNea6NhV"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134177,
+      "name": "Symbolic",
+      "url": "https://open.spotify.com/track/7ibTPsP0pXpycs8HkPEZW8"
+    },
+    {
+      "album": {
         "name": "Sympathy",
         "url": "https://open.spotify.com/album/2yfxZKhk4V4NDHEQrQIx7t"
       },
@@ -5612,6 +5760,24 @@
       "duration_ms": 148965,
       "name": "To Infinity",
       "url": "https://open.spotify.com/track/2LERiA6p7DUc4HQi3UM1LW"
+    },
+    {
+      "album": {
+        "name": "Floaters",
+        "url": "https://open.spotify.com/album/0uEPaU0Svt417O1JlG4m99"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sitts",
+          "url": "https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Too Humid",
+      "url": "https://open.spotify.com/track/6UAJhAqQoX4w41WaCQgKGG"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 
 > Mujeres que la rompen feat\. Julieta Laso.<br/>Dales PLAY, dales POWER.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,438 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,440 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 11 | [Sueño de Barrilete](https://open.spotify.com/track/4zbh4bP8VTyVlhfKbJ9Tqn) | [Romina Balestrino](https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L), [Sandra Mihanovich](https://open.spotify.com/artist/34wPpdJXRno0eRFI5IAOYh) | [Mi Version de los Hechos](https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv) | 4:47 |
 | 12 | [Agüita de Manantial](https://open.spotify.com/track/4fTEJsSGo4jFc3AmULnvDt) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK) | [Formoseña](https://open.spotify.com/album/12C9DL2J39QMoWhorROrA2) | 4:06 |
 | 13 | [Buenos Aires Vos Quien Sos](https://open.spotify.com/track/1PstLt23zUfYKUpLFxPlAH) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [Martingala](https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc) | 4:44 |
-| 14 | [La Guada](https://open.spotify.com/track/5p62JsJMyb0qgHoPtNBZZ7) | [Mariana Baraj](https://open.spotify.com/artist/3kNByUYht34hI6ugWqMtCq) | [Churita](https://open.spotify.com/album/7pgzkHyoKg2QDTOiVG7j7e) | 3:03 |
-| 15 | [Vivir en la frontera](https://open.spotify.com/track/7dTn7A8km0PbhphAeadebH) | [Duratierra](https://open.spotify.com/artist/7efsaKgGf6hl8oOgLpJDO3) | [LA FUERZA](https://open.spotify.com/album/3ynXtOWXUAZTyjJ1QwxXVC) | 4:44 |
-| 16 | [Agua Dorada](https://open.spotify.com/track/16P5n6gLgvNhZ54D2Sz2YT) | [Noelia Recalde](https://open.spotify.com/artist/26O45xhjbZjSY8vubvACRv) | [P A L A B R A](https://open.spotify.com/album/5YOEvlFVR8UxB90TOvMHds) | 3:08 |
+| 14 | [Agua Dorada](https://open.spotify.com/track/16P5n6gLgvNhZ54D2Sz2YT) | [Noelia Recalde](https://open.spotify.com/artist/26O45xhjbZjSY8vubvACRv) | [P A L A B R A](https://open.spotify.com/album/5YOEvlFVR8UxB90TOvMHds) | 3:08 |
+| 15 | [La Guada](https://open.spotify.com/track/5p62JsJMyb0qgHoPtNBZZ7) | [Mariana Baraj](https://open.spotify.com/artist/3kNByUYht34hI6ugWqMtCq) | [Churita](https://open.spotify.com/album/7pgzkHyoKg2QDTOiVG7j7e) | 3:03 |
+| 16 | [Vivir en la frontera](https://open.spotify.com/track/7dTn7A8km0PbhphAeadebH) | [Duratierra](https://open.spotify.com/artist/7efsaKgGf6hl8oOgLpJDO3) | [LA FUERZA](https://open.spotify.com/album/3ynXtOWXUAZTyjJ1QwxXVC) | 4:44 |
 | 17 | [Tonada De La Luna Lena](https://open.spotify.com/track/4aiHcTqVmVA0JMINUg4EfG) | [Veronica Condomi](https://open.spotify.com/artist/0HRRgz3RdNIFJUaeo811Be) | [Remedio Pal Alma](https://open.spotify.com/album/7qSASpxrhn4SARBSSprDQi) | 2:33 |
 | 18 | [¿Quién? \- Remastered](https://open.spotify.com/track/3vURZUnew6TH2mNnD257D6) | [Juana Molina](https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3) | [Segundo \(Remastered\)](https://open.spotify.com/album/7HZ7QwrTe8N7aMaCEwe6AN) | 2:39 |
 | 19 | [Nada](https://open.spotify.com/track/6M4LFutTr0fgFMOWmN0kYh) | [Maria Graña](https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG), [Valeria Lynch](https://open.spotify.com/artist/60zawKIAJS16ul7OSY91wM) | [María](https://open.spotify.com/album/7jdQvnUjX988oU3jauUUmU) | 3:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ArBUudJwM5.md) - [plain]
 | 49 | [Lo Han Visto Con Otra](https://open.spotify.com/track/5zzno7W9kmkmS4SCKkpTQ6) | [Eliana Sosa](https://open.spotify.com/artist/4NfyeRrxTA78Gcem9Md9mO) | [Sinergia Tanguera](https://open.spotify.com/album/5t4PNgNZXuIJHKzttaDUjG) | 3:59 |
 | 50 | [Se Muere de Amor](https://open.spotify.com/track/3J448k2V1yvKrL9wj40r1Z) | [Natalia Martinez](https://open.spotify.com/artist/3bp15d1mykEwAxzmnYtoyF), [El Palermo Trío](https://open.spotify.com/artist/78daqV2Z2YTNFL49Ssz2UF) | [Te Ha Dado una Cita el Tango](https://open.spotify.com/album/4yZ4ZV70jwnklcdoApDuAD) | 2:59 |
 
-Snapshot ID: `MCw3ZGYwZTdlZTNiZWFhZDQ1YmU2MzA3N2FkMzcyNDlkMDcyMWQzYzk5`
+Snapshot ID: `MCw3NjZhY2EyMTkzMTczYTM0MjQ3MzJmZjJiODQwMWQzYzFhMjZjNWI3`

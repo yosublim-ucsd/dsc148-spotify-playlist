@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 
 > Solo il meglio dello street rap italiano\. Cover: Paky
 
-[Spotify](https://open.spotify.com/user/spotify) - 848,433 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 848,559 likes - 49 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXU2naFUn37x.md) - [plain]
 | 41 | [SON FATTO COSÌ](https://open.spotify.com/track/2Q79rIelEvPfzLfqYwGbLX) | [Simba La Rue](https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J) | [SON FATTO COSÌ](https://open.spotify.com/album/6wQFQlu9RJDpVd4OigS5nS) | 2:53 |
 | 42 | [NIKE \(feat\. Tony Boy, Digital Astro\)](https://open.spotify.com/track/5rKeKZlZ3u0bT7QvWMts7C) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk), [Digital Astro](https://open.spotify.com/artist/2pzFTbri7ew8mW2CbYpCNq) | [ASPETTANDO LA BELLA VITA](https://open.spotify.com/album/4yLaK5BMdKh7Pa6VefKjsh) | 2:40 |
 | 43 | [PLAYA](https://open.spotify.com/track/39ngG6CdkMkBgESiXc0lOx) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH) | [PLAYA](https://open.spotify.com/album/4BooiX3rbdDNh6uzJUMfRE) | 2:34 |
-| 44 | [POSA QUELLA GLOCK](https://open.spotify.com/track/2bLBg7CAcLodXLWbE3oBDX) | [Niko Pandetta](https://open.spotify.com/artist/5H5RWXYleho8amdspskcUb), [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF) | [CELLA 5](https://open.spotify.com/album/1x4jDsXkR5g4j8p72VIVoN) | 2:48 |
-| 45 | [Trafficante](https://open.spotify.com/track/1rpFM1ZbTZVS1fusCzmzg9) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Trafficante](https://open.spotify.com/album/2fqjaXJGRG5PuEqb0ftjkB) | 2:07 |
-| 46 | [UNO, DUE E TRE \(feat\. Neima Ezza\)](https://open.spotify.com/track/15wHsZvGEuT8W2KsEydgFu) | [Kilimoney](https://open.spotify.com/artist/01lVP0L85U9jYVREPOB8RG), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [UNO, DUE E TRE \(feat\. Neima Ezza\)](https://open.spotify.com/album/4IPtQv7AcN7ObxDQ8wX1B4) | 2:54 |
-| 47 | [Intrappolato](https://open.spotify.com/track/1sQMclTeT9jLoQ56XrqU8p) | [Kero](https://open.spotify.com/artist/0BY7xhioKfbWBEEViq4ds6) | [Intrappolato](https://open.spotify.com/album/1nyzvotDOn6DVTaIoWyB3N) | 2:49 |
-| 48 | [Tirana \(feat\. Finem\)](https://open.spotify.com/track/5OSdAnnPdKg2KvsUjL1uXl) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Finem](https://open.spotify.com/artist/4BdukbROt8qmkffXOpDW50) | [Salvatore Vive](https://open.spotify.com/album/7H6877riJIFSominCYGZx8) | 2:37 |
-| 49 | [Arai \(feat\. Capo Plaza\)](https://open.spotify.com/track/1la73rdzbQGNRFJyO9E71c) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Nove Chiamate](https://open.spotify.com/album/5r2DMxv3IGCkVIhksqgkFy) | 3:01 |
-| 50 | [Karma \(feat\. Rondodasosa\)](https://open.spotify.com/track/5O3JxKrBqIQais5ZgMx1Qp) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Karma \(feat\. Rondodasosa\)](https://open.spotify.com/album/70fx0AktGUG48bJp4vlh5Y) | 3:46 |
+| 44 | [Trafficante](https://open.spotify.com/track/1rpFM1ZbTZVS1fusCzmzg9) | [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Trafficante](https://open.spotify.com/album/2fqjaXJGRG5PuEqb0ftjkB) | 2:07 |
+| 45 | [UNO, DUE E TRE \(feat\. Neima Ezza\)](https://open.spotify.com/track/15wHsZvGEuT8W2KsEydgFu) | [Kilimoney](https://open.spotify.com/artist/01lVP0L85U9jYVREPOB8RG), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [UNO, DUE E TRE \(feat\. Neima Ezza\)](https://open.spotify.com/album/4IPtQv7AcN7ObxDQ8wX1B4) | 2:54 |
+| 46 | [Intrappolato](https://open.spotify.com/track/1sQMclTeT9jLoQ56XrqU8p) | [Kero](https://open.spotify.com/artist/0BY7xhioKfbWBEEViq4ds6) | [Intrappolato](https://open.spotify.com/album/1nyzvotDOn6DVTaIoWyB3N) | 2:49 |
+| 47 | [Tirana \(feat\. Finem\)](https://open.spotify.com/track/5OSdAnnPdKg2KvsUjL1uXl) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Finem](https://open.spotify.com/artist/4BdukbROt8qmkffXOpDW50) | [Salvatore Vive](https://open.spotify.com/album/7H6877riJIFSominCYGZx8) | 2:37 |
+| 48 | [Arai \(feat\. Capo Plaza\)](https://open.spotify.com/track/1la73rdzbQGNRFJyO9E71c) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Nove Chiamate](https://open.spotify.com/album/5r2DMxv3IGCkVIhksqgkFy) | 3:01 |
+| 49 | [Karma \(feat\. Rondodasosa\)](https://open.spotify.com/track/5O3JxKrBqIQais5ZgMx1Qp) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41), [Rondodasosa](https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3) | [Karma \(feat\. Rondodasosa\)](https://open.spotify.com/album/70fx0AktGUG48bJp4vlh5Y) | 3:46 |
 
-Snapshot ID: `MCxkOGJjZDQxMzRiMWZhMTZmZTY1Y2QzMzE2YjQ5MjE3MTIwZGRjMzE2`
+Snapshot ID: `MCwyZmU4YzFhYjdmMDhmYjZjMDM5YWNhMDhjZGZjODA2MzYxZTg1YTdh`

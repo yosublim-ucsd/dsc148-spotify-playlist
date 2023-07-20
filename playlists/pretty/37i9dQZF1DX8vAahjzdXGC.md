@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Rizky Febian
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,311 likes - 114 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,361 likes - 114 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Berona](https://open.spotify.com/track/5w4u2NiaTnBmiCFZSyQxYY) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Berona](https://open.spotify.com/album/0VXwE7HnJZ0HIv6SXuOMh2) | 2:15 |
 | 2 | [Aku Memilihmu](https://open.spotify.com/track/7EKp3CMq9Eb0TF8TLsDne4) | [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb), [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Aku Memilihmu](https://open.spotify.com/album/4Eupz9BkITuFqlHttMeu9K) | 3:51 |
-| 3 | [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 |
+| 3 | [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 |
 | 4 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 |
 | 5 | [Rush](https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Rush](https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf) | 2:36 |
 | 6 | [Wanita Terhebat](https://open.spotify.com/track/1Shzw78D2eaPDS92hmXJjF) | [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On), [Vania Larissa](https://open.spotify.com/artist/5T9nyx2U6P2H79tlcSFQA2), [Devina Elysia](https://open.spotify.com/artist/3zWEzoyypXl4eqA1sg9lag) | [Wanita Terhebat](https://open.spotify.com/album/7eQrFCgPjIIZyYNe9sTJ7Q) | 3:06 |
@@ -101,9 +101,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 91 | [In My Bag](https://open.spotify.com/track/3Hz7mhkeYyAG09l90fVKQo) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [IRL](https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh) | 3:49 |
 | 92 | [Where Do All The Good Kids Go?](https://open.spotify.com/track/3QmlsVA1wJJv5w8GqVxVdw) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Where Do All The Good Kids Go?](https://open.spotify.com/album/0joBCSKi5bl55YSbvMSVd3) | 3:16 |
 | 93 | [Perfect To Me](https://open.spotify.com/track/78BUPVJTd2XabF1tf6jEte) | [Sunny Lukas](https://open.spotify.com/artist/25htISTA2qcgslohjTAF2b), [王凯琪](https://open.spotify.com/artist/17iIfUcWYYNHIqD0Qvxf77) | [Perfect To Me](https://open.spotify.com/album/6kUg1kG1k9q9yiCmiCZA6L) | 3:00 |
-| 94 | [THUNDER N’ LIGHTNING ⛈️](https://open.spotify.com/track/0MyDQQ7v5WMb7PaQ0boFkL) | [Reub](https://open.spotify.com/artist/2VIpsUyYMf7opaz3dG4OiF) | [THUNDER N’ LIGHTNING ⛈️](https://open.spotify.com/album/41M8bkeuc5nEh3PrqtyRp5) | 3:41 |
+| 94 | [THUNDER N’ LIGHTNING](https://open.spotify.com/track/0MyDQQ7v5WMb7PaQ0boFkL) | [Reub](https://open.spotify.com/artist/2VIpsUyYMf7opaz3dG4OiF) | [THUNDER N’ LIGHTNING](https://open.spotify.com/album/41M8bkeuc5nEh3PrqtyRp5) | 3:41 |
 | 95 | [caffeine](https://open.spotify.com/track/1oE0STQy16PzQgEKWybJEf) | [blackvelvetz](https://open.spotify.com/artist/3LM41UKgiR9khIkg8FS1k3) | [caffeine](https://open.spotify.com/album/7pnjfVet3HMZz2kTEqM8MO) | 3:21 |
-| 96 | [Complicated](https://open.spotify.com/track/1zpEXCvXPtLdnGunF612Pu) | [Thanh](https://open.spotify.com/artist/3gm1Y1GDGjh8darbC6Vfmt) | [Complicated](https://open.spotify.com/album/0RB2cF5jXr4D16YryEq2Ad) | 2:22 |
+| 96 | [Complicated](https://open.spotify.com/track/1zpEXCvXPtLdnGunF612Pu) | [Thanh](https://open.spotify.com/artist/3gm1Y1GDGjh8darbC6Vfmt), [Gabe Sostre](https://open.spotify.com/artist/4uVnjRTCQIi0iXcNGegI0u) | [Complicated](https://open.spotify.com/album/0RB2cF5jXr4D16YryEq2Ad) | 2:22 |
 | 97 | [Don't Run](https://open.spotify.com/track/7oaDmhGFSRcGxiYDVhJsk1) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Don't Run](https://open.spotify.com/album/0g5eB1GST9apmmd1Mc1NWu) | 2:28 |
 | 98 | [Stressed \(feat\. Summer Walker\)](https://open.spotify.com/track/2mNaugzeRDyAq991bw4nqv) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [222](https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL) | 2:24 |
 | 99 | [Famous](https://open.spotify.com/track/5GwRqgaU2hHhl7WPD22jUw) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Maybe It's Me...](https://open.spotify.com/album/6WDECo2zMUYFcsNffGH6Gx) | 3:46 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 113 | [Wasted Love](https://open.spotify.com/track/5KsDSE4NZWcQ8mlZDBddB3) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Crazy Donkey](https://open.spotify.com/artist/4FFIm6lcL4VDCTWteKwspi), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Wasted Love](https://open.spotify.com/album/367AlFAsBmmsmtSFrKzc80) | 2:10 |
 | 114 | [Fliccin Up](https://open.spotify.com/track/4SGqmuv6pxaei3Silq8qaK) | [MBNel](https://open.spotify.com/artist/2aqdy2BLMhGFHhRb1ZbDCF) | [Fliccin Up](https://open.spotify.com/album/6C2rgMF06Uwkm9yokUo7X0) | 2:07 |
 
-Snapshot ID: `MCw0MDk4NGMyMTRhYTBhNmEyMDM5OWZhOTBjMjAxZTJiYjI2ZDY4OTQz`
+Snapshot ID: `MCw2YzFkYTk5M2E3ZjQ5ZjA2M2NiN2I1MjM3OTI0N2I4ZGVlYzI4N2Zh`

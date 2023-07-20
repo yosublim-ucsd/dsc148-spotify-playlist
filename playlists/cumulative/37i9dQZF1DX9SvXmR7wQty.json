@@ -1287,6 +1287,24 @@
     },
     {
       "album": {
+        "name": "Alg\u00e9rien F\u00e2ch\u00e9",
+        "url": "https://open.spotify.com/album/3O3dTqhhkmORFUULWIvxgb"
+      },
+      "artists": [
+        {
+          "name": "Kofs",
+          "url": "https://open.spotify.com/artist/5RaQ9nmVGoTye2SI76x3yw"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112941,
+      "name": "Alg\u00e9rien F\u00e2ch\u00e9",
+      "url": "https://open.spotify.com/track/131mNF7dZE1z4pGL1cgxOI"
+    },
+    {
+      "album": {
         "name": "Galactica",
         "url": "https://open.spotify.com/album/62Nz1sWexc4nBQsGDaJj4Z"
       },
@@ -8172,7 +8190,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 183555,
       "name": "Danser",
       "url": "https://open.spotify.com/track/6jFQdmWsFYbVC2D305dOik"

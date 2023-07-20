@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 
 > lofi beats by Latinxs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,258 likes - 50 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,289 likes - 50 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 | 2 | [Moonlight Juice](https://open.spotify.com/track/6UzKVwHnMR2rHjCfOl4XoX) | [Solo San](https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718), [Shetafacker](https://open.spotify.com/artist/5WU1vju2aPiVy4O56cOhk6) | [Moonlight Juice](https://open.spotify.com/album/438r9WwiloWn5BVNR07tS5) | 2:27 |
 | 3 | [spirits](https://open.spotify.com/track/19AiqwcVZDgbivDpLwZtG3) | [n o r m a l](https://open.spotify.com/artist/299YwUx9tIS10VkkAujnMt) | [spirits](https://open.spotify.com/album/1ZRT7cfPl8hIcOoALNiuBm) | 2:17 |
 | 4 | [Bossa De Flauta](https://open.spotify.com/track/4bURJNtMormiqKdJoq2vcu) | [Papi Churro](https://open.spotify.com/artist/4igGvshE0R9UvpobsKOsSK), [Smuv](https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Bossa De Flauta](https://open.spotify.com/album/5MwIh4cqWfS4U7XlStZU6e) | 1:54 |
-| 5 | [Todo Tranqui](https://open.spotify.com/track/560SjC0nXPxH9FXWvlfm7M) | [Don Raimundo](https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043) | [Todo Tranqui](https://open.spotify.com/album/6PwymJ9ctOXcJubwsSoBbP) | 1:40 |
-| 6 | [Patadas de Ahogado](https://open.spotify.com/track/1b9ceFMdUzFLEZ6blTPEks) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Patadas de Ahogado](https://open.spotify.com/album/10Q9ERvl1qCJZPPcPIrxtY) | 3:10 |
+| 5 | [Patadas de Ahogado](https://open.spotify.com/track/1b9ceFMdUzFLEZ6blTPEks) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Patadas de Ahogado](https://open.spotify.com/album/10Q9ERvl1qCJZPPcPIrxtY) | 3:10 |
+| 6 | [Todo Tranqui](https://open.spotify.com/track/560SjC0nXPxH9FXWvlfm7M) | [Don Raimundo](https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043) | [Todo Tranqui](https://open.spotify.com/album/6PwymJ9ctOXcJubwsSoBbP) | 1:40 |
 | 7 | [Like Coconut From The Tree](https://open.spotify.com/track/0PwWBtV1EUmg1TtKtJPM85) | [Burrito Eats](https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT) | [Like Coconut From The Tree](https://open.spotify.com/album/7bu1eXJ1qIb9sDC0Jq3AhC) | 2:02 |
 | 8 | [Vueltas](https://open.spotify.com/track/1eVE0xK0vChhI2Ey8vEN0s) | [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd), [Kebyn Moon](https://open.spotify.com/artist/1RdlOYPsbV6HIoQaoKmYlV) | [Vueltas](https://open.spotify.com/album/0GnzcCxFuBmx7VWXnHbLUK) | 1:55 |
 | 9 | [Confete e serpentina](https://open.spotify.com/track/7GloKOoI9fFgVdLyp5EDvh) | [LOFI LAND](https://open.spotify.com/artist/1pFOASn4amyKQUJm4SjeXe), [FaOut](https://open.spotify.com/artist/4yRJjgsEvPRqZOyNBOfZ9V), [Ricardo Schneider](https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv), [BOSSIFY](https://open.spotify.com/artist/7mhQk7Ki9ccyooQpecDQkR) | [Confete e serpentina](https://open.spotify.com/album/5SY6oIqvOTcjggKR4o13ZR) | 2:18 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUafkC32lvPY.md) - [plain]
 | 43 | [Nos Usamos](https://open.spotify.com/track/19MEAx5dkaKyFoCeSv6Kv9) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Uno Es Mínimo Dos](https://open.spotify.com/album/4LkiclyNpFe3akHcHzUAeK) | 4:29 |
 | 44 | [Happy To Help](https://open.spotify.com/track/6daTLzt1uhoximZNMKoqlG) | [Lofi Fruits Music](https://open.spotify.com/artist/1dABGukgZ8XKKOdd2rVSHM), [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv), [Orange Stick](https://open.spotify.com/artist/2Ie3P7oklbSFxfrGtrkT9W) | [Happy To Help](https://open.spotify.com/album/4EZ4dKI2uWAZgF7Gf21rfp) | 1:52 |
 | 45 | [Bolerodilla](https://open.spotify.com/track/0NpP5A5umjhW2o8XiclxA9) | [Pere George](https://open.spotify.com/artist/6Ydc7A5Y0e2hWwGo14HSIF) | [El Día Más Corto](https://open.spotify.com/album/1BuMj28ClePeBCfnfkm4RF) | 3:13 |
-| 46 | [Safe Place](https://open.spotify.com/track/5vWxZIYmcPSGsS4IMbEnCz) | [Fallen\_Kid](https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy) | [Safe Place](https://open.spotify.com/album/2b6YC0q6UuMn23dtiNzsDa) | 2:02 |
-| 47 | [Playa del Amor](https://open.spotify.com/track/3SL8twBcud5RDSqmwC1vVZ) | [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Playa del Amor](https://open.spotify.com/album/5LANlltyeFV9e2Waab8Jd7) | 2:09 |
+| 46 | [Playa del Amor](https://open.spotify.com/track/3SL8twBcud5RDSqmwC1vVZ) | [SanelliX](https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Playa del Amor](https://open.spotify.com/album/5LANlltyeFV9e2Waab8Jd7) | 2:09 |
+| 47 | [Safe Place](https://open.spotify.com/track/5vWxZIYmcPSGsS4IMbEnCz) | [Fallen\_Kid](https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy) | [Safe Place](https://open.spotify.com/album/2b6YC0q6UuMn23dtiNzsDa) | 2:02 |
 | 48 | [Ciudad de Papel](https://open.spotify.com/track/0I8Pn5LBI4TIydkOxOeEmE) | [Iván Rosa](https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF) | [Ciudad de Papel](https://open.spotify.com/album/5RvDhQ97SHNRWiuS2SgOVh) | 2:09 |
 | 49 | [La Selva Nos Llama](https://open.spotify.com/track/5TxJV8NHD8o0HaWE6j81g2) | [Lofi Cult](https://open.spotify.com/artist/50RQP8HILBQ3Dr9HG6L9U5) | [Lofi Latino, Vol\. 2](https://open.spotify.com/album/1yh52bY2XzrbPdVkJuOGBb) | 2:18 |
 | 50 | [Aguancó](https://open.spotify.com/track/58d00dZxEAMkLtkDOHB9L8) | [Kansado](https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW) | [Guaguansoul](https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka) | 2:30 |
 
-Snapshot ID: `MCw3YWE3MTYxNTgzMzM1Yjk0ZTY2ZTQ0OWUzMWJkMmY5ZmIwNjYxNWU3`
+Snapshot ID: `MCxhZmIyOWEzNDIzOGRjMzFhMDZkMjcwNDQyMmQyMGFiMjIyYzJkZGM3`

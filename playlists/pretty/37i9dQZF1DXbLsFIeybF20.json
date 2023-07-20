@@ -1,12 +1,12 @@
 {
   "description": "Get into the spirit of New Orleans",
-  "num_followers": 141544,
+  "num_followers": 141551,
   "original_name": "New Orleans Brass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTM2NGVlYmZhNGY2ZDhkY2UxYzAwY2EzOWMzMmMyOTZlNzNhMjY3",
+  "snapshot_id": "MCw5NmU4NWE5NTAzMzk0ZmUzM2RmOTIxNTY0NTVkOGU3YzEwY2U5YzIx",
   "tracks": [
     {
       "added_at": "2021-04-26 16:53:52",
@@ -315,22 +315,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "New New Orleans Jazz",
-        "url": "https://open.spotify.com/album/6zUIQ8O2SstCUlGHlw6N2K"
-      },
-      "artists": [
-        {
-          "name": "Wilbur De Paris",
-          "url": "https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo"
-        }
-      ],
-      "duration_ms": 294760,
-      "name": "Hot Lips",
-      "url": "https://open.spotify.com/track/5nHfuhtmBT6pXEYqzTr34U"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "Mr. New Orleans",
         "url": "https://open.spotify.com/album/0KgPSEolwNvsHHAwMnLFpH"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 169026,
       "name": "Walking Through New Orleans",
       "url": "https://open.spotify.com/track/3O9fAfK086HTifzfJRrzUK"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "New New Orleans Jazz",
+        "url": "https://open.spotify.com/album/6zUIQ8O2SstCUlGHlw6N2K"
+      },
+      "artists": [
+        {
+          "name": "Wilbur De Paris",
+          "url": "https://open.spotify.com/artist/2jHYUm5r73OV8CiKyMdYfo"
+        }
+      ],
+      "duration_ms": 294760,
+      "name": "Hot Lips",
+      "url": "https://open.spotify.com/track/5nHfuhtmBT6pXEYqzTr34U"
     },
     {
       "added_at": "2021-04-26 16:53:52",
@@ -423,22 +423,6 @@
     {
       "added_at": "2021-04-26 16:53:52",
       "album": {
-        "name": "Take It To The Street",
-        "url": "https://open.spotify.com/album/6hMiOI44jGhU1Z4IiPfPWM"
-      },
-      "artists": [
-        {
-          "name": "Rebirth Brass Band",
-          "url": "https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda"
-        }
-      ],
-      "duration_ms": 259533,
-      "name": "Take It To The Street",
-      "url": "https://open.spotify.com/track/7mGRGpeaHqgQ7xZrYOdCro"
-    },
-    {
-      "added_at": "2021-04-26 16:53:52",
-      "album": {
         "name": "New Orleans Brass Band Music - Memories Of The Fairview & Hurricane Band",
         "url": "https://open.spotify.com/album/7g5ipN6YggMrOeuswlAiIu"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 145841,
       "name": "Lord, Lord, Lord",
       "url": "https://open.spotify.com/track/1gj5KsGTtpB0dxdTzVv4ql"
+    },
+    {
+      "added_at": "2021-04-26 16:53:52",
+      "album": {
+        "name": "Take It To The Street",
+        "url": "https://open.spotify.com/album/6hMiOI44jGhU1Z4IiPfPWM"
+      },
+      "artists": [
+        {
+          "name": "Rebirth Brass Band",
+          "url": "https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda"
+        }
+      ],
+      "duration_ms": 259533,
+      "name": "Take It To The Street",
+      "url": "https://open.spotify.com/track/7mGRGpeaHqgQ7xZrYOdCro"
     },
     {
       "added_at": "2021-04-26 16:53:52",

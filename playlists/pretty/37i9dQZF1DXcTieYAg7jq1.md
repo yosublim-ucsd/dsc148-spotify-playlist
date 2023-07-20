@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 
 > Featuring that new vintage\. Cover: Jon Batiste
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,401 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,448 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcTieYAg7jq1.md) - [plain]
 | 99 | [Lagoon](https://open.spotify.com/track/4ZCjHrvSjyp7bltVJtGvNt) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [comfortably in pain](https://open.spotify.com/album/39vpTiloqw4kytVLU29AxS) | 2:33 |
 | 100 | [Chicken Little](https://open.spotify.com/track/5NzrfsIkCCexhDh2R9A2cG) | [Spencer Sutherland](https://open.spotify.com/artist/6mjz3NMhNE5SK7GsbJIg6C), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Chicken Little](https://open.spotify.com/album/54Pdjd4Q1XSYJqt2dAdYko) | 2:42 |
 
-Snapshot ID: `MCw2M2Y5ZDEwYmRjOWI5ZjgyMTM1NjgxNjExZWUxZDlmZDM5MTE2Njhi`
+Snapshot ID: `MCw3MjllZmE3ZjdmNWRkNzZlOTJiZGEwN2YzMjE3MzM3MTlkNDhiYmY0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Niky Savage in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,644 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,667 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 49 | [Nueva Obsesión \(160\)](https://open.spotify.com/track/0h3RNZ9dUAVrlqxJpDSdxs) | [Fuera](https://open.spotify.com/artist/2QkyIpne7IvLXt4jeBIxVC) | [Nueva Obsesión \(160\)](https://open.spotify.com/album/6WBkDIDZxkIOo3juYr9zKT) | 3:03 |
 | 50 | [GENOVA](https://open.spotify.com/track/1JcihIEZh4vFqJmN5sOpyD) | [Guesan](https://open.spotify.com/artist/1eMrj0akHMVF8HpxG1OrLD), [Zero Vicious](https://open.spotify.com/artist/23hTdxGu1uB9NLfW3KmABu) | [GENOVA](https://open.spotify.com/album/3bgpYSxIVHDXkimNFiwhbP) | 2:55 |
 
-Snapshot ID: `MCxkNzFiZjljNDZkMTQ2NGE0MDYzMzRkYjNjZDI3OTI0YWEzNjdjNzcw`
+Snapshot ID: `MCwxNWQ5NTJiYWZlZjFmODczMTJmYTU5YmUxNjMwNjE1MGQwYTUyNDlk`

@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que la rompen feat. Aura BAE.\nDales PLAY, dales POWER.",
-  "num_followers": 12322,
+  "num_followers": 12331,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MTZjN2IyZjY1MTZlMWU3NjhkODk4OWRkMzY4NzZhMDZkOWYyMjBm",
+  "snapshot_id": "MCxmZDRkZTUyZDcwMTcwMDFjZTRjNzkxYzc5NmYxNDE4MWFmNDhhMzQz",
   "tracks": [
     {
       "added_at": "2023-07-05 03:00:00",
@@ -123,6 +123,22 @@
     {
       "added_at": "2023-07-05 03:00:00",
       "album": {
+        "name": "Kintsugi",
+        "url": "https://open.spotify.com/album/6nMidcYOqTOBbbnBiwhe8J"
+      },
+      "artists": [
+        {
+          "name": "Seamoon",
+          "url": "https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Kintsugi",
+      "url": "https://open.spotify.com/track/6wKI2NwASglOeCVimzdeD6"
+    },
+    {
+      "added_at": "2023-07-05 03:00:00",
+      "album": {
         "name": "Mi Washa Loca",
         "url": "https://open.spotify.com/album/7f2lbcvKH9MMlwH9lc8APw"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 156734,
       "name": "Mi Washa Loca",
       "url": "https://open.spotify.com/track/60M7pe18zsjQ6vseWoi3PY"
-    },
-    {
-      "added_at": "2023-07-05 03:00:00",
-      "album": {
-        "name": "Kintsugi",
-        "url": "https://open.spotify.com/album/6nMidcYOqTOBbbnBiwhe8J"
-      },
-      "artists": [
-        {
-          "name": "Seamoon",
-          "url": "https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Kintsugi",
-      "url": "https://open.spotify.com/track/6wKI2NwASglOeCVimzdeD6"
     },
     {
       "added_at": "2023-07-05 03:00:00",
@@ -443,18 +443,18 @@
     {
       "added_at": "2023-07-05 03:00:00",
       "album": {
-        "name": "Bad Girl",
-        "url": "https://open.spotify.com/album/1IrgrmAm6yJfDT57EYs7lC"
+        "name": "Molly",
+        "url": "https://open.spotify.com/album/2GxFT2qN34pDypV0r4veRK"
       },
       "artists": [
         {
-          "name": "Amikiraa",
-          "url": "https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2"
+          "name": "Flowyn",
+          "url": "https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375"
         }
       ],
-      "duration_ms": 167000,
-      "name": "Bad Girl",
-      "url": "https://open.spotify.com/track/6VGKiViDS17F5EgjOUyh9M"
+      "duration_ms": 176249,
+      "name": "Molly",
+      "url": "https://open.spotify.com/track/4gfaPD5mHYGe792vAb1a2Z"
     },
     {
       "added_at": "2023-07-05 03:00:00",
@@ -487,18 +487,18 @@
     {
       "added_at": "2023-07-05 03:00:00",
       "album": {
-        "name": "Molly",
-        "url": "https://open.spotify.com/album/2GxFT2qN34pDypV0r4veRK"
+        "name": "Bad Girl",
+        "url": "https://open.spotify.com/album/1IrgrmAm6yJfDT57EYs7lC"
       },
       "artists": [
         {
-          "name": "Flowyn",
-          "url": "https://open.spotify.com/artist/5yVXomAAABiwOBUQVmo375"
+          "name": "Amikiraa",
+          "url": "https://open.spotify.com/artist/3xCoO7TgLAuhKkNz0uRwo2"
         }
       ],
-      "duration_ms": 176249,
-      "name": "Molly",
-      "url": "https://open.spotify.com/track/4gfaPD5mHYGe792vAb1a2Z"
+      "duration_ms": 167000,
+      "name": "Bad Girl",
+      "url": "https://open.spotify.com/track/6VGKiViDS17F5EgjOUyh9M"
     },
     {
       "added_at": "2023-07-05 03:00:00",
@@ -623,26 +623,6 @@
     {
       "added_at": "2023-07-05 03:00:00",
       "album": {
-        "name": "KEIKEI",
-        "url": "https://open.spotify.com/album/1r8joyTxLUu1MaTbg84zED"
-      },
-      "artists": [
-        {
-          "name": "KUINA",
-          "url": "https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb"
-        },
-        {
-          "name": "Viangogh",
-          "url": "https://open.spotify.com/artist/1Y0wxtA4ZbblGP75RLsFnJ"
-        }
-      ],
-      "duration_ms": 106954,
-      "name": "KEIKEI",
-      "url": "https://open.spotify.com/track/14WU2Do99uBtErqgFvnI7t"
-    },
-    {
-      "added_at": "2023-07-05 03:00:00",
-      "album": {
         "name": "Luni Tun",
         "url": "https://open.spotify.com/album/1cIeelqlUeS3al1jk4d1Hg"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 201237,
       "name": "Luni Tun",
       "url": "https://open.spotify.com/track/0YDV4jdHf8W6N9KvhrIh4d"
+    },
+    {
+      "added_at": "2023-07-05 03:00:00",
+      "album": {
+        "name": "KEIKEI",
+        "url": "https://open.spotify.com/album/1r8joyTxLUu1MaTbg84zED"
+      },
+      "artists": [
+        {
+          "name": "KUINA",
+          "url": "https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb"
+        },
+        {
+          "name": "Viangogh",
+          "url": "https://open.spotify.com/artist/1Y0wxtA4ZbblGP75RLsFnJ"
+        }
+      ],
+      "duration_ms": 106954,
+      "name": "KEIKEI",
+      "url": "https://open.spotify.com/track/14WU2Do99uBtErqgFvnI7t"
     },
     {
       "added_at": "2023-07-05 03:00:00",
@@ -863,18 +863,18 @@
     {
       "added_at": "2023-07-05 03:00:00",
       "album": {
-        "name": "RID\u00cdCULO",
-        "url": "https://open.spotify.com/album/45rmLIIeU5aamqjcTKQ1Kb"
+        "name": "Esencia",
+        "url": "https://open.spotify.com/album/21osvhpkanfXbwdN4WaijE"
       },
       "artists": [
         {
-          "name": "Lauvre",
-          "url": "https://open.spotify.com/artist/6acbf8kuCR1esVF1vo8L18"
+          "name": "Gloria Allel",
+          "url": "https://open.spotify.com/artist/0Kb00NhjS9AcABuMeUdCyX"
         }
       ],
-      "duration_ms": 153600,
-      "name": "RID\u00cdCULO",
-      "url": "https://open.spotify.com/track/2Gwdin34n5deWhLYb4oZOV"
+      "duration_ms": 162315,
+      "name": "Esencia",
+      "url": "https://open.spotify.com/track/7sXPPkefg9bnx8SvmFLM5e"
     },
     {
       "added_at": "2023-07-05 03:00:00",
@@ -899,18 +899,18 @@
     {
       "added_at": "2023-07-05 03:00:00",
       "album": {
-        "name": "Esencia",
-        "url": "https://open.spotify.com/album/21osvhpkanfXbwdN4WaijE"
+        "name": "RID\u00cdCULO",
+        "url": "https://open.spotify.com/album/45rmLIIeU5aamqjcTKQ1Kb"
       },
       "artists": [
         {
-          "name": "Gloria Allel",
-          "url": "https://open.spotify.com/artist/0Kb00NhjS9AcABuMeUdCyX"
+          "name": "Lauvre",
+          "url": "https://open.spotify.com/artist/6acbf8kuCR1esVF1vo8L18"
         }
       ],
-      "duration_ms": 162315,
-      "name": "Esencia",
-      "url": "https://open.spotify.com/track/7sXPPkefg9bnx8SvmFLM5e"
+      "duration_ms": 153600,
+      "name": "RID\u00cdCULO",
+      "url": "https://open.spotify.com/track/2Gwdin34n5deWhLYb4oZOV"
     },
     {
       "added_at": "2023-07-05 03:00:00",

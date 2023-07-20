@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: PK, IGOR, OIK
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,404 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,415 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 74 | [Vai Ficar Tudo Bem](https://open.spotify.com/track/67GVpPBMMLqXvmTufCNlcu) | [Mazzan](https://open.spotify.com/artist/4Z0ol0b5b8tpxDZpT2BMyL), [Zeca Baleiro](https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8) | [Vai Ficar Tudo Bem](https://open.spotify.com/album/1r8JVPiGk7fR69p96xjeBG) | 3:15 |
 | 75 | [Multiplica](https://open.spotify.com/track/7ezywxyTeabkjR7ZMNkeYZ) | [Meno Bom](https://open.spotify.com/artist/2becfxwincSfFiB1duhonS), [Lipinho Oficial](https://open.spotify.com/artist/3tgFm4QrXC1zIicYXUqi5q), [Medellin](https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd) | [Multiplica](https://open.spotify.com/album/34uoXwUOT5k3bG5z0RGFKu) | 3:31 |
 
-Snapshot ID: `MCw1ZTkzNTZjZDA2ZDlhY2JiMzkxMmZiZjU0NWJjNDliNDA3Yjg4MjE4`
+Snapshot ID: `MCw0MjIyMTRhMDhhOTEwYzJhZGViYWE0NDc5YjE1NmRlOWI5NWQzYTY2`

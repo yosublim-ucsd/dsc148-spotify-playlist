@@ -4,7 +4,7 @@
 
 > Lo nuevo del popetón y reggaetón emergente en MX, con Ghetto Kids, El Malilla y EMJAY
 
-300 songs - 15 hr 21 min
+301 songs - 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Facetime](https://open.spotify.com/track/5cU6y5Qztm60N2UrWE01vQ) | [Luxxo](https://open.spotify.com/artist/3otSlac6GaXERmCz9opbqS) | [Facetime](https://open.spotify.com/album/69EGNC4LO6dCs1DPAkhLi8) | 2:31 | 2022-03-02 | 2022-10-22 |
 | [FERNET](https://open.spotify.com/track/2GVahxIzxivfRZc8lR39Ms) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [FERNET](https://open.spotify.com/album/0UbxWnBpJKoUj4jmSFwUnc) | 3:12 | 2022-06-17 | 2023-06-10 |
 | [Flama](https://open.spotify.com/track/3qPl0LBkxkpC8dLBs8oxug) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [Mayki Graff](https://open.spotify.com/artist/7EiFezQrfthN6y5Aiiw0Q5) | [Flama](https://open.spotify.com/album/1NVzPKVN5FSqANSjAewanV) | 2:22 | 2023-03-10 | 2023-05-20 |
+| [Flashes](https://open.spotify.com/track/60BAHD2wgUvk1xcGFt5bnT) | [Steff](https://open.spotify.com/artist/0Gh7dmIj59Sa4JPy9x0yUt) | [Flashes](https://open.spotify.com/album/2X9T16fWPuVDVC3gzffIWe) | 2:45 | 2023-07-14 |  |
 | [FUGAZ](https://open.spotify.com/track/0EJOfbdV0cfKmKSJywNGL4) | [Typow](https://open.spotify.com/artist/4F7aNmQtNzDhEDqpilDRrw) | [EMOJI](https://open.spotify.com/album/2gTjDwNcjPGLMmy19qUw5u) | 3:44 | 2022-01-07 | 2022-02-16 |
 | [Fui Yo](https://open.spotify.com/track/0Bl9ZWdUxu7UMYAP97bhzw) | [Fernanda](https://open.spotify.com/artist/4ofHy9bcqR6gBvOBIvCyC0) | [Fui Yo](https://open.spotify.com/album/2IUadSzj9RfbKBoT2HEt5I) | 2:45 | 2023-05-19 |  |
 | [Fumale Y Siga](https://open.spotify.com/track/1AQeXJVSw6pqJWHJxtaAYO) | [Slam](https://open.spotify.com/artist/4IoNEWLZ0VzWmQ2ZRmwrts), [JL Boy](https://open.spotify.com/artist/6bWvG6kLaUol0stttO1a3l) | [Fumale Y Siga](https://open.spotify.com/album/1u5ybhx5zUye6Utkr1zD4N) | 2:50 | 2023-03-31 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: JAY\(김진환\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,391 likes - 597 songs - 1 day 9 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,668 likes - 597 songs - 1 day 9 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 21 | [It’s you](https://open.spotify.com/track/6UoFQyPJg4e1QSXumsGggx) | [Cosmic Boy](https://open.spotify.com/artist/305pg6Bs6Mz9Tm2zK66psY), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Life's still Good](https://open.spotify.com/album/2E7fy0z18imBJEWYMfZWMi) | 3:17 |
 | 22 | [Chuck Taylor \(Feat\. h3hyeon\)](https://open.spotify.com/track/5DK0Sa8LnaitE7CjyGUTti) | [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX), [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz) | [Chuck Taylor](https://open.spotify.com/album/2druPo87qWabadsHUYZIOu) | 3:08 |
 | 23 | [Tap Tap Tap \(feat\. BOBBY\)](https://open.spotify.com/track/0gZLrERC3cxIdQME2PNw6m) | [REDDY](https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v), [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [Tap Tap Tap \(feat\. BOBBY\)](https://open.spotify.com/album/1ZJGg7eDhUhlMegDGhGBmV) | 2:42 |
-| 24 | [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 |
+| 24 | [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 |
 | 25 | [TIE DYE](https://open.spotify.com/track/2GWUW5smk4RaqSG5VWhao7) | [JinE](https://open.spotify.com/artist/0GCWHNEMDSH4WQ1Ar5T5od) | [TIE DYE](https://open.spotify.com/album/7EJfgf03rqzYKnqjEe4CE7) | 3:11 |
 | 26 | [I Will Love You More](https://open.spotify.com/track/3wltPsJL8htIeOjgNkve0j) | [Ramit](https://open.spotify.com/artist/6Yn0YofUeeqrAserz1HDLW) | [Love Interference 2023 \(Original Television Soundtrack\), Pt\. 20](https://open.spotify.com/album/0VQZ2TKOI4IAoRVY7ePCOZ) | 4:07 |
 | 27 | [when it rains](https://open.spotify.com/track/259LsfFNwU8m45hEDdXR30) | [Jae Woo AN](https://open.spotify.com/artist/4xDwz6SwDRIFKshWYRjIL3), [Iamdl](https://open.spotify.com/artist/4vPZ9bJ0Jgu44Nbtm7iJUL) | [when it rains](https://open.spotify.com/album/5kGdEsvTNCndb6V0FlcTMk) | 2:47 |
@@ -228,7 +228,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 218 | [OVERDRIVE](https://open.spotify.com/track/5pGRo6KdVdD4LCg6A6awQT) | [I.M](https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd) | [OVERDRIVE](https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1) | 2:55 |
 | 219 | [19](https://open.spotify.com/track/5LGvVjkDajEdjaWDeovd3q) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [2 Kids On The Block \- Part.1](https://open.spotify.com/album/7KmTTJ8lFaNmGvqL8BJKRd) | 4:11 |
 | 220 | [Zero \(J.I.D Remix\)](https://open.spotify.com/track/12Yy0hZrUebGnr3IrppPnW) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Zero \(J.I.D Remix\)](https://open.spotify.com/album/45wwQll1Ay4A1Rz79wWuNt) | 3:44 |
-| 221 | [PARADISE](https://open.spotify.com/track/6I21rbY1midYeZQJYGkKwo) | [JAY](https://open.spotify.com/artist/0cfDzbuRREWQNBbINvCckB) | [PARADISE](https://open.spotify.com/album/6FxUemBUj46Sxug7cDBJ6n) | 2:48 |
+| 221 | [PARADISE](https://open.spotify.com/track/6fLsDr2i0qYZMAslttjFn8) | [JAY](https://open.spotify.com/artist/0cfDzbuRREWQNBbINvCckB) | [BLUE MOON](https://open.spotify.com/album/3dJWDvZt09Ri4ikTtjWzlh) | 2:48 |
 | 222 | [Because You Don't Love Me](https://open.spotify.com/track/4qSK8cVMEECClvHmFXUqdP) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Because You Don't Love Me](https://open.spotify.com/album/1I4k4k18DkFJBYBAhqW6v3) | 3:43 |
 | 223 | [Behind](https://open.spotify.com/track/31J3EB7lTTqXDuu2SDYGpR) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Battle for Happiness, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/3HNZ8hl6Y8925KOfNxi29R) | 3:30 |
 | 224 | [Ice Bottle](https://open.spotify.com/track/11FJ2T0g6InzdJNMulDJVh) | [HAHA & U\-KWON \(RBZ\)](https://open.spotify.com/artist/1AFu8Q1tPjDtQrIcb4tzXc) | [Ice Bottle](https://open.spotify.com/album/4TBRbdvg6FWkoK4vDFDOks) | 3:03 |
@@ -606,4 +606,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 596 | [WATERFALL](https://open.spotify.com/track/4QxTg2DuJPzY8pXNDWAcow) | [YOUNITE](https://open.spotify.com/artist/4l4eMvpA4K7X02j08cbkNV) | [BIT Part.1](https://open.spotify.com/album/1JIBD2xuWX2cdGLoHvBdoc) | 3:00 |
 | 597 | [LOVE YOU! \(Feat\. Tablo\)](https://open.spotify.com/track/2jhWyW4kNrVnN2wpu9jhVZ) | [Kim Feel](https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv) | [LOVE YOU!](https://open.spotify.com/album/6R6OuDp9PRzfVFNsdWuI1u) | 3:05 |
 
-Snapshot ID: `MCw3M2I1MTliN2MzYjViYzk3M2M3MjgwYmNjZjIyNWRhOTZjNDEzNjEw`
+Snapshot ID: `MCxjODg2YjMxMWE3MWY1ZjQyYzEzOWVhNGViZmRmNWVmNjgxMjM5YzU2`

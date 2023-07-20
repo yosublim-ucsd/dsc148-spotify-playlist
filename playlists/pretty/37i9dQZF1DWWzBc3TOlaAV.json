@@ -1,12 +1,12 @@
 {
   "description": "These songs rocked the '60s. Cover: Jimi Hendrix",
-  "num_followers": 859414,
+  "num_followers": 859659,
   "original_name": "60s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzNhNmUwZTEyYTI4MGM4OGRmZmM5ZjdjNGZmOTQzMTM1NWY2MzMw",
+  "snapshot_id": "MCwxOGViODMxYmU4ZjJlMGYzMTUyNjBhZmU4MTZhMTA1NzE1OTE1YmZj",
   "tracks": [
     {
       "added_at": "2023-01-18 21:00:56",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-01-18 21:00:56",
       "album": {
-        "name": "The History Of Blue Cheer: Good Times Are So Hard To Find",
-        "url": "https://open.spotify.com/album/7ecNoSQ9aRZnxAHwTCpVt9"
-      },
-      "artists": [
-        {
-          "name": "Blue Cheer",
-          "url": "https://open.spotify.com/artist/4PI5IHRvANLL76O5gRmGKL"
-        }
-      ],
-      "duration_ms": 226906,
-      "name": "Summertime Blues",
-      "url": "https://open.spotify.com/track/6iWaf45YIhj0YT8GFGxsw0"
-    },
-    {
-      "added_at": "2023-01-18 21:00:56",
-      "album": {
         "name": "The Anthology 1964 - 1971 (2014 Remastered Version)",
         "url": "https://open.spotify.com/album/1PuHheIgpNx5fye9dmhnmy"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 142480,
       "name": "All Day and All of the Night - 2014 Remastered Version",
       "url": "https://open.spotify.com/track/4rXSVEYOuJNicjAm3NiYK6"
+    },
+    {
+      "added_at": "2023-01-18 21:00:56",
+      "album": {
+        "name": "The History Of Blue Cheer: Good Times Are So Hard To Find",
+        "url": "https://open.spotify.com/album/7ecNoSQ9aRZnxAHwTCpVt9"
+      },
+      "artists": [
+        {
+          "name": "Blue Cheer",
+          "url": "https://open.spotify.com/artist/4PI5IHRvANLL76O5gRmGKL"
+        }
+      ],
+      "duration_ms": 226906,
+      "name": "Summertime Blues",
+      "url": "https://open.spotify.com/track/6iWaf45YIhj0YT8GFGxsw0"
     },
     {
       "added_at": "2023-01-18 21:00:56",

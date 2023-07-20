@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 
 > All new, all blues\. Cover: C.S\. Armstrong
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,740 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,808 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 | 42 | [The Anima](https://open.spotify.com/track/1zDPvPPoKIXqfwYR5eYkeE) | [Cullah](https://open.spotify.com/artist/5Emm04qPI9mTCoRI9XkHUz) | [The Anima](https://open.spotify.com/album/5gX48dDCJxNwgH80UPM7mD) | 3:03 |
 | 43 | [The Lows](https://open.spotify.com/track/7h0bST38vPZD0kC2Tw8byH) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Running Home](https://open.spotify.com/album/0x7Hr6i67SAQ4Kd4rclmPB) | 2:55 |
 | 44 | [Won't Be Fooled Again](https://open.spotify.com/track/21upjYqZ5PlQa7fcEiQe5Z) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7), [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Nobody's Fool](https://open.spotify.com/album/2TVQmqbf3TmucBYkl9pfg6) | 4:54 |
-| 45 | [On the Road \(with G Love & Special Sauce and Cas Haley\)](https://open.spotify.com/track/0vM8fRYfCtW3VRbant8FnC) | [Ries Brothers](https://open.spotify.com/artist/3n5TbZCCU3rnDcDy5n49nG), [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Cas Haley](https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy) | [The Ries Brothers](https://open.spotify.com/album/09eneEPZDcWiWd2x8Mkhyw) | 3:55 |
+| 45 | [On the Road \(with G Love & Special Sauce and Cas Haley\)](https://open.spotify.com/track/7srWCCNonVXruKp9FpciVD) | [Ries Brothers](https://open.spotify.com/artist/3n5TbZCCU3rnDcDy5n49nG), [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Cas Haley](https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy) | [The Ries Brothers](https://open.spotify.com/album/6SexAEAVGOjYvGBJxgiLdk) | 3:55 |
 | 46 | [World on Fire \- Warrior Remix](https://open.spotify.com/track/3CzTG4duyqR9YXXDK9k4pc) | [Micki Free](https://open.spotify.com/artist/5aH6fiMaVOktSbo2CBcK5l), [Karl Perazzo](https://open.spotify.com/artist/6YOWrQBPl6xB6yA73jqUny), [Andy Vargas](https://open.spotify.com/artist/3oqXjhbfHHAkNaZLsP8qZH), [Cindy Blackman Santana](https://open.spotify.com/artist/0sJ3AmpElEzlg5WjOHQYBF) | [World on Fire \(Warrior Remix\)](https://open.spotify.com/album/272hzAwKezSFfwYcH0uazk) | 5:13 |
 | 47 | [I'll Be Glad](https://open.spotify.com/track/7kLR5l2d7Vz5kiJujbmY40) | [John Németh](https://open.spotify.com/artist/3oMTO3MlDwAzROExBbqKPz) | [I'll Be Glad](https://open.spotify.com/album/3R5MPBDv5WTid04LeVj2l6) | 4:58 |
 | 48 | [They Go Low](https://open.spotify.com/track/1eitHDsIABJAY8TrL12pL2) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [They Go Low](https://open.spotify.com/album/0L58grRHcrow6YfYhckIxb) | 3:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3MZdETGqKB.md) - [plain]
 | 99 | [Biggest Little Secret](https://open.spotify.com/track/2AJmb5Lqh95kJqIKbc1WCw) | [Amber Woodhouse](https://open.spotify.com/artist/1stAB5sEtU4AD3MQ0cYOtJ), [Wilderwater](https://open.spotify.com/artist/7Jy5gvSozRdq1JCBIIksf4) | [Biggest Little Secret](https://open.spotify.com/album/6qq8yb9Xy2me2hh3VgcaSN) | 3:59 |
 | 100 | [Practice What You Preach](https://open.spotify.com/track/4AvhtXaiaH2Z4x0BmBdvfA) | [Chris St\. Hilaire](https://open.spotify.com/artist/4KHtHXeMdbkFjzI9rZ5oFn) | [Traveling Man](https://open.spotify.com/album/64rMgCug1OdOp98lGu5klK) | 2:45 |
 
-Snapshot ID: `MCwxMjI0Mzg2MzVjMTI3YWRhMTY3YjBlNmEyNmIyZmNlZTMxNzc2MDk2`
+Snapshot ID: `MCwzNGUzYWExNjYzMWI3NDA4MTA5NDYyMTQwNGJjMzNjYmRkZjc5ZDcw`

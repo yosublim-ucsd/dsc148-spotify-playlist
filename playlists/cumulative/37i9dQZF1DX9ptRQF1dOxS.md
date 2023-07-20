@@ -4,7 +4,7 @@
 
 > Listen to women at full volume\. Cover: Olivia Dean
 
-797 songs - 1 day 21 hr 10 min
+798 songs - 1 day 21 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [By The End Of The Night](https://open.spotify.com/track/0tYtfBFJLVn2ITE66FbaLT) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [By The End Of The Night](https://open.spotify.com/album/0cNb1JOALBpKIZtOxxSabq) | 3:08 | 2023-04-04 | 2023-05-03 |
 | [By Your Side](https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [By Your Side](https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg) | 6:07 | 2023-03-01 | 2023-04-05 |
 | [Call Me](https://open.spotify.com/track/2Mor2fdr6NYCHYetzXpnbx) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Call Me](https://open.spotify.com/album/3ReMdcPVTGwD2V4EwIZ4tn) | 3:28 | 2022-09-06 | 2022-10-06 |
+| [Call Me A Lioness \(feat\. Olivia Dean, Melanie C, Self Esteem, Ellie Rowsell, Al Greenwood, Marika Hackman, Rachel Chinouriri, Shura, Jasmine Jethwa, Rose Gray & Highlyy\)](https://open.spotify.com/track/6wGnnh7Vc9czrgxBstY8XM) | [Hope FC](https://open.spotify.com/artist/6nPAlz8Uh07L34qNbdGWRa), [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW), [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df), [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe), [Ellie Rowsell](https://open.spotify.com/artist/60t20hnY4HFbjM0sbJ07vc), [Al Greenwood](https://open.spotify.com/artist/4WiG3X3HhSrxA2WV0x3LSN), [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O), [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP), [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT), [Jasmine Jethwa](https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv), [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA), [Highlyy](https://open.spotify.com/artist/4JmaulM4hnNKJzvNgdxx3B) | [Call Me A Lioness \(feat\. Olivia Dean, Melanie C, Self Esteem, Ellie Rowsell, Al Greenwood, Marika Hackman, Rachel Chinouriri, Shura, Jasmine Jethwa, Rose Gray & Highlyy\)](https://open.spotify.com/album/3AHtV2oljDNgnvAWWOKVl7) | 3:33 | 2023-07-19 |  |
 | [Call me your maybe](https://open.spotify.com/track/66bxozS5A4dRBSNWNz6tFx) | [Maria Olsen](https://open.spotify.com/artist/6nROk16MDNiZPAgvsuC3uF) | [Call me your maybe](https://open.spotify.com/album/12g6X7E6iQWY8nsJIA4AfQ) | 2:23 | 2023-07-04 |  |
 | [Can I Get It](https://open.spotify.com/track/6w8ZPYdnGajyfPddTWdthN) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:30 | 2021-12-08 | 2022-03-09 |
 | [Can I Jump?](https://open.spotify.com/track/4xo2cd0kmp3GO1jZzAst1D) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Can I Jump?](https://open.spotify.com/album/2oRM1rJALdQfceK3i7SxG3) | 3:43 | 2023-04-04 | 2023-05-03 |

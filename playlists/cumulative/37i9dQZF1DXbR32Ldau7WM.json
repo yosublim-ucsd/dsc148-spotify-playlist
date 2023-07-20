@@ -413,6 +413,24 @@
     },
     {
       "album": {
+        "name": "Azabana",
+        "url": "https://open.spotify.com/album/4TB4oOpj0hs5ByhtCTLKzg"
+      },
+      "artists": [
+        {
+          "name": "Plastic Tree",
+          "url": "https://open.spotify.com/artist/5O4DsTkJ6z2eTSvIHZ6sDo"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352666,
+      "name": "Azabana",
+      "url": "https://open.spotify.com/track/7F7YKzplE0bMc98ktJvV9u"
+    },
+    {
+      "album": {
         "name": "B.O.Y.",
         "url": "https://open.spotify.com/album/5RJM7phpmtJ3dip8rA4cHK"
       },
@@ -1412,6 +1430,32 @@
     {
       "album": {
         "name": "Double Dealing Woman (Special version)",
+        "url": "https://open.spotify.com/album/2glHMV3aHpm7b4b60J4DPw"
+      },
+      "artists": [
+        {
+          "name": "Murasaki",
+          "url": "https://open.spotify.com/artist/0BsvYxgNA3g6Ko3Y00aFkv"
+        },
+        {
+          "name": "Char",
+          "url": "https://open.spotify.com/artist/6M4HwfIjf33RNtOjq3pIzf"
+        },
+        {
+          "name": "Kyoji Yamamoto",
+          "url": "https://open.spotify.com/artist/6ooCxd9UraYZd6PhE81ihr"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312346,
+      "name": "Double Dealing Woman - Special version",
+      "url": "https://open.spotify.com/track/4xlyAMpR2EfjMzniF2NvsF"
+    },
+    {
+      "album": {
+        "name": "Double Dealing Woman (Special version)",
         "url": "https://open.spotify.com/album/5CG7dNILgA79kP8ENoFKvg"
       },
       "artists": [
@@ -1430,7 +1474,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 312346,
       "name": "Double Dealing Woman - Special version",
       "url": "https://open.spotify.com/track/49831quLdIYoMxnpA1roBF"
@@ -12022,7 +12066,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 352666,
       "name": "\u75e3\u82b1",
       "url": "https://open.spotify.com/track/6QfvqC4DiR8beMeRlh03o8"

@@ -184,7 +184,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 215476,
       "name": "Banho de Folhas - Maz Remix",
       "url": "https://open.spotify.com/track/41TZ7YP0hzQLnZ3pL0x7uz"
@@ -308,7 +308,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 366008,
       "name": "Borderline - Catz 'n Dogz Remix",
       "url": "https://open.spotify.com/track/6xoZRqx40HdvSecJNvm5Lx"
@@ -366,7 +366,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 394576,
       "name": "Bumblebee",
       "url": "https://open.spotify.com/track/02IURSdiWMzg6D4GsFR9BM"
@@ -384,7 +384,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 435986,
       "name": "Choo Choo",
       "url": "https://open.spotify.com/track/5QvEgDwNSyPgEkpLNDlnj2"
@@ -572,7 +572,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 484918,
       "name": "Divination",
       "url": "https://open.spotify.com/track/0gmVwUFxKn2Q94rOi3ebJJ"
@@ -831,6 +831,28 @@
     },
     {
       "album": {
+        "name": "Give It Up",
+        "url": "https://open.spotify.com/album/1DHXplHJ1VtoETBNuQDj7U"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        },
+        {
+          "name": "Kyle Walker",
+          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Give It Up",
+      "url": "https://open.spotify.com/track/46j2gbguuzgeBEVyfNMDhG"
+    },
+    {
+      "album": {
         "name": "Born In The Echoes",
         "url": "https://open.spotify.com/album/3XUVUh6hisN43r2eZAOJRD"
       },
@@ -966,6 +988,24 @@
       "duration_ms": 317493,
       "name": "I Found U - Classic Mix",
       "url": "https://open.spotify.com/track/4ZnrkvpMAKNvT4ynKrxKKa"
+    },
+    {
+      "album": {
+        "name": "Imaginar",
+        "url": "https://open.spotify.com/album/6YUmGmq4R9rje3VGUDkGBz"
+      },
+      "artists": [
+        {
+          "name": "Alejando Alca",
+          "url": "https://open.spotify.com/artist/160qXy2dYaEfyI74SfSJbG"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 469000,
+      "name": "Imaginar",
+      "url": "https://open.spotify.com/track/2riey7bFfZ6Pak6IKHU0JZ"
     },
     {
       "album": {
@@ -1130,7 +1170,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 352000,
       "name": "La Mentira",
       "url": "https://open.spotify.com/track/6oso9qoKGgH8PmuLJ0jaV8"
@@ -1170,7 +1210,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 391233,
       "name": "La Musica",
       "url": "https://open.spotify.com/track/2RRb2pc95BX51ufCdYtHBZ"
@@ -1330,7 +1370,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 423602,
       "name": "Mentres Tant",
       "url": "https://open.spotify.com/track/0PFM3yjjDId6onZUrgJyjP"
@@ -1439,6 +1479,24 @@
     },
     {
       "album": {
+        "name": "Meteorology",
+        "url": "https://open.spotify.com/album/1UMr8nPkwRYIs5zS0Mbsc8"
+      },
+      "artists": [
+        {
+          "name": "Frivolous",
+          "url": "https://open.spotify.com/artist/3YlS5XmI6AzoEPSLe0tCZj"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186850,
+      "name": "One Fine Solstice",
+      "url": "https://open.spotify.com/track/6qUOK7RqW5atuGMMAdSOoP"
+    },
+    {
+      "album": {
         "name": "One Love (Nandu Remix)",
         "url": "https://open.spotify.com/album/2jWHwh8o0ekuZWXLmm3ZcG"
       },
@@ -1502,6 +1560,24 @@
       "duration_ms": 374688,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/13mvFJBCwtcLaH8OfOiNvf"
+    },
+    {
+      "album": {
+        "name": "Persona",
+        "url": "https://open.spotify.com/album/6my8D9w6cpBOyOVTRcMxOn"
+      },
+      "artists": [
+        {
+          "name": "Tal Fussman",
+          "url": "https://open.spotify.com/artist/6kZ2X9nu0o6eFilCWtufPb"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308694,
+      "name": "Persona",
+      "url": "https://open.spotify.com/track/033gWXBGVVmWxS8bULKY9j"
     },
     {
       "album": {
@@ -1705,6 +1781,32 @@
     },
     {
       "album": {
+        "name": "Rhyme Dust (Nic Fanciulli Remix)",
+        "url": "https://open.spotify.com/album/04lwFl9FZ6yIDVcSKabWFN"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181880,
+      "name": "Rhyme Dust - Nic Fanciulli Remix",
+      "url": "https://open.spotify.com/track/70v4yUr8Gv9192zZVclZiL"
+    },
+    {
+      "album": {
         "name": "Right Here",
         "url": "https://open.spotify.com/album/6YSDRNYbo6xFBGO4Rqdbar"
       },
@@ -1778,6 +1880,28 @@
       "duration_ms": 420495,
       "name": "Salgir Boyu - Bedouin Rework",
       "url": "https://open.spotify.com/track/4s5zbqVQebTLjloNLy3gpt"
+    },
+    {
+      "album": {
+        "name": "Voices Of Youth",
+        "url": "https://open.spotify.com/album/6NRMt9DJ5VYAopbXnyadl8"
+      },
+      "artists": [
+        {
+          "name": "Sascha Braemer",
+          "url": "https://open.spotify.com/artist/3egW8Pgmbjm5vS4EPXZond"
+        },
+        {
+          "name": "Liza Flume",
+          "url": "https://open.spotify.com/artist/2wE8kzwd3Ej3WDAtBESiQQ"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413114,
+      "name": "Say It",
+      "url": "https://open.spotify.com/track/1j6czimh8KUuWcf9NcKI5F"
     },
     {
       "album": {
@@ -2351,6 +2475,24 @@
     },
     {
       "album": {
+        "name": "Love Music",
+        "url": "https://open.spotify.com/album/0sGe4c9j1GvQwCSRzlsOCN"
+      },
+      "artists": [
+        {
+          "name": "Muteng",
+          "url": "https://open.spotify.com/artist/3HCYGD14p1jXgUP90Qc0Yc"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445440,
+      "name": "Yali Bachata",
+      "url": "https://open.spotify.com/track/4zfNuL0jrwRbVBqjzk2XoN"
+    },
+    {
+      "album": {
         "name": "Yauna",
         "url": "https://open.spotify.com/album/30clU1EXTshIDWwQjThY2u"
       },
@@ -2378,6 +2520,24 @@
       "duration_ms": 548146,
       "name": "Yauna",
       "url": "https://open.spotify.com/track/0c61iOnlEq1LPWfHdRQqqU"
+    },
+    {
+      "album": {
+        "name": "Yes",
+        "url": "https://open.spotify.com/album/0uDxZbREPCOFOjuT1CPlER"
+      },
+      "artists": [
+        {
+          "name": "Chambray",
+          "url": "https://open.spotify.com/artist/4FUZzDnu4gBue46G99hesO"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306086,
+      "name": "Yes - Club Version",
+      "url": "https://open.spotify.com/track/1gcPomDSpxuRptrxDv9KNx"
     },
     {
       "album": {

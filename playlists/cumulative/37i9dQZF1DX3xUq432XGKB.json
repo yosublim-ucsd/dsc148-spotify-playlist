@@ -192,7 +192,7 @@
     {
       "album": {
         "name": "Badman Sound",
-        "url": "https://open.spotify.com/album/7lkg1Kbn6G00QskjBlEVsR"
+        "url": "https://open.spotify.com/album/0sNvCkLgSii5M4lIpVlv6Y"
       },
       "artists": [
         {
@@ -203,6 +203,24 @@
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 176264,
+      "name": "Badman Sound",
+      "url": "https://open.spotify.com/track/2MAABKnxekkSL5hnVZ8RY1"
+    },
+    {
+      "album": {
+        "name": "Badman Sound",
+        "url": "https://open.spotify.com/album/7lkg1Kbn6G00QskjBlEVsR"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "date_added": "2023-05-03",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-20",
       "duration_ms": 176264,
       "name": "Badman Sound",
       "url": "https://open.spotify.com/track/7FcxEutyfHTCKlN2MltRAh"

@@ -34,7 +34,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 159933,
       "name": "(You Make Me Feel Like) A Natural Woman",
       "url": "https://open.spotify.com/track/29N4xnL6SpjkQiuPaTvQXA"
@@ -70,7 +70,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 191320,
       "name": "A Change Is Gonna Come",
       "url": "https://open.spotify.com/track/0YfOnJWqmAKaUvEL1QcNop"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 248600,
       "name": "A Song For You",
       "url": "https://open.spotify.com/track/2l9UM2IVGSulrohfekmKdr"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 236663,
       "name": "After the Thrill Is Gone - 2013 Remaster",
       "url": "https://open.spotify.com/track/73gx888k1raTwjFeuqIV5D"
@@ -128,6 +128,24 @@
       "duration_ms": 125093,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt"
+    },
+    {
+      "album": {
+        "name": "All Things Must Pass (50th Anniversary;Super Deluxe)",
+        "url": "https://open.spotify.com/album/1HOUPV73m7qwWoYw7m9Y56"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "date_added": "2021-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226866,
+      "name": "All Things Must Pass - 2020 Mix",
+      "url": "https://open.spotify.com/track/3R02p0Xtd3azbP3HPYgMuy"
     },
     {
       "album": {
@@ -358,7 +376,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-10",
+      "date_removed": null,
       "duration_ms": 154000,
       "name": "Carried Away",
       "url": "https://open.spotify.com/track/16LZtAsJhnyta6i2zmVCZL"
@@ -376,7 +394,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 261265,
       "name": "Copperline",
       "url": "https://open.spotify.com/track/0i1XtQ6hOET96dz5oG45zl"
@@ -538,7 +556,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 196466,
       "name": "Don't Think Twice, It's All Right",
       "url": "https://open.spotify.com/track/7IsXXgpowAB48crGjV1oGb"
@@ -614,7 +632,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-16",
+      "date_removed": null,
       "duration_ms": 184493,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/0j3GgpDSr6ROmp49hcocNR"
@@ -657,6 +675,24 @@
     },
     {
       "album": {
+        "name": "Sweet Baby James (2019 Remaster)",
+        "url": "https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx"
+      },
+      "artists": [
+        {
+          "name": "James Taylor",
+          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203613,
+      "name": "Fire and Rain - 2019 Remaster",
+      "url": "https://open.spotify.com/track/1oht5GevPN9t1T3kG1m1GO"
+    },
+    {
+      "album": {
         "name": "Fly Like An Eagle",
         "url": "https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC"
       },
@@ -686,7 +722,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2023-01-12",
+      "date_removed": null,
       "duration_ms": 288133,
       "name": "Fruits Of My Labor",
       "url": "https://open.spotify.com/track/31nItlXwgCCFpttS50Rbxf"
@@ -704,7 +740,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 254666,
       "name": "Gamble",
       "url": "https://open.spotify.com/track/4qBFhjcAsLFizQOccMOuzK"
@@ -726,7 +762,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 257040,
       "name": "Georgia on My Mind",
       "url": "https://open.spotify.com/track/4Mckv604NWFSw11g4iCgG0"
@@ -877,6 +913,24 @@
     },
     {
       "album": {
+        "name": "Sweet Forgiveness",
+        "url": "https://open.spotify.com/album/3hNmPJhslMBIBRlOD1iD0B"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208093,
+      "name": "Home - 2008 Remaster",
+      "url": "https://open.spotify.com/track/4SgIuqaMyQSckMOCrZBBPe"
+    },
+    {
+      "album": {
         "name": "Hotel California (2013 Remaster)",
         "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
       },
@@ -924,7 +978,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 289080,
       "name": "I Get Along Without You Very Well (Except Sometimes)",
       "url": "https://open.spotify.com/track/6zYfEsNOhv5hd6CfwPXjIY"
@@ -960,9 +1014,9 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 192104,
-      "name": "I Shall Be Released - Remastered",
+      "name": "I Shall Be Released - Remastered 2000",
       "url": "https://open.spotify.com/track/1IoRkyadylakMOukD7uN67"
     },
     {
@@ -978,7 +1032,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 200040,
       "name": "I Think It's Going to Rain Today",
       "url": "https://open.spotify.com/track/6GWLNfRviT4S82inkxvXV8"
@@ -1162,7 +1216,7 @@
       ],
       "date_added": "2021-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-26",
+      "date_removed": null,
       "duration_ms": 208026,
       "name": "Keep Me in Your Heart",
       "url": "https://open.spotify.com/track/1zSzJAosfqJugLx7mZl5xt"
@@ -1277,7 +1331,7 @@
     },
     {
       "album": {
-        "name": "Late for the Sky",
+        "name": "Late for the Sky (Remastered)",
         "url": "https://open.spotify.com/album/0aiTqo8YZI0dKDgcCnkkzP"
       },
       "artists": [
@@ -1288,9 +1342,9 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 341690,
-      "name": "Late for the Sky - 2014 Remaster",
+      "name": "Late for the Sky - Remastered",
       "url": "https://open.spotify.com/track/2WCoRl4kKbaZ6oGN6KD4HQ"
     },
     {
@@ -1306,7 +1360,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-22",
+      "date_removed": null,
       "duration_ms": 245240,
       "name": "Lately",
       "url": "https://open.spotify.com/track/1QFNF3quXkux7v4RbWfaaF"
@@ -1342,7 +1396,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2023-07-03",
+      "date_removed": null,
       "duration_ms": 257532,
       "name": "Lean on Me",
       "url": "https://open.spotify.com/track/5zCJvrT3C7cIfHsR5iG95l"
@@ -1360,7 +1414,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 236706,
       "name": "Leave a Tender Moment Alone",
       "url": "https://open.spotify.com/track/4Qw41GUmS4rF7GR3am9Rt6"
@@ -1385,6 +1439,28 @@
     },
     {
       "album": {
+        "name": "Ram (Archive Collection)",
+        "url": "https://open.spotify.com/album/3DTMsrNO6lEHNmDJ0fsN4v"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        },
+        {
+          "name": "Linda McCartney",
+          "url": "https://open.spotify.com/artist/6QEKXJs8gQCiyBq5L8knco"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365240,
+      "name": "Long Haired Lady - Remastered 2012",
+      "url": "https://open.spotify.com/track/6WLcfx5k7piKZWUm1SwFco"
+    },
+    {
+      "album": {
         "name": "Silk Purse",
         "url": "https://open.spotify.com/album/33w9uBzKNuGxvJwcMMNs2G"
       },
@@ -1400,6 +1476,24 @@
       "duration_ms": 263400,
       "name": "Long Long Time",
       "url": "https://open.spotify.com/track/1khA4hwhZD4HMecyE1e9U1"
+    },
+    {
+      "album": {
+        "name": "Give It Up (2008 Remaster)",
+        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "date_added": "2022-09-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228640,
+      "name": "Love Has No Pride - 2008 Remaster",
+      "url": "https://open.spotify.com/track/5IaEafAl7QJbxu9DG1usyb"
     },
     {
       "album": {
@@ -1594,7 +1688,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 230773,
       "name": "Never Letting Go",
       "url": "https://open.spotify.com/track/71fy2m4JJnqXMMWZHs3W8v"
@@ -1821,6 +1915,24 @@
     },
     {
       "album": {
+        "name": "The Stranger (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201373,
+      "name": "She's Always a Woman",
+      "url": "https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH"
+    },
+    {
+      "album": {
         "name": "Tapestry",
         "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
       },
@@ -1886,7 +1998,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 163560,
       "name": "Stoney End",
       "url": "https://open.spotify.com/track/0Wy0oCdhHxm2wxTDWUfOic"
@@ -2322,7 +2434,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 254253,
       "name": "We May Never Pass This Way (Again)",
       "url": "https://open.spotify.com/track/7H25ehG6xvB8K2ltLhbRJP"
@@ -2358,7 +2470,7 @@
       ],
       "date_added": "2022-04-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-03",
+      "date_removed": null,
       "duration_ms": 236906,
       "name": "Where Have All the Flowers Gone - 2004 Remaster",
       "url": "https://open.spotify.com/track/1V8BSBe2fB5Np30sXmUCNU"
@@ -2383,6 +2495,24 @@
     },
     {
       "album": {
+        "name": "What's Going On",
+        "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "date_added": "2021-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187866,
+      "name": "Wholy Holy",
+      "url": "https://open.spotify.com/track/4KyyKvKDgVYiwoGJOa0xVd"
+    },
+    {
+      "album": {
         "name": "Hot Rocks (1964-1971)",
         "url": "https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp"
       },
@@ -2394,7 +2524,7 @@
       ],
       "date_added": "2021-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-07",
+      "date_removed": null,
       "duration_ms": 342586,
       "name": "Wild Horses",
       "url": "https://open.spotify.com/track/4M4Q3JLsUbyTkd5WHty1WB"
@@ -2520,7 +2650,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 162466,
       "name": "You Send Me",
       "url": "https://open.spotify.com/track/5aivQ5CkXXHJoMLy0o92HL"

@@ -1,12 +1,12 @@
 {
   "description": "Experience the best of live worship here. This week we are featuring some of the favorite live worship tracks of our Guest Curators, <a href=\"https://open.spotify.com/artist/6ruMOwHKTLjGkGxpG32RTM?si=EwHmkSyiQ0mQ2r3x1bE4dA\">Pastor Steven Furtick</a> and <a href=\"https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix?si=fExbtuHsTv2HzZgvB0XlCw\">Elevation Worship</a>",
-  "num_followers": 878707,
+  "num_followers": 878789,
   "original_name": "Best of Live Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MmMzOTcwMjZhYzdhMjI4OTY2NDFiZmE4ZjY3Yzk2ZTJlM2ZkMDMy",
+  "snapshot_id": "MCw5ZTYxN2ZkM2EwZWEwMmY1YmM1ZDI0ZWVjZTJlMDcxYTI1ZDQ5YzQ5",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "The Blessing (Live)",
+        "url": "https://open.spotify.com/album/2pVOjdjBRafs3JAL0Q6o2b"
+      },
+      "artists": [
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        }
+      ],
+      "duration_ms": 599001,
+      "name": "Your Nature - Live",
+      "url": "https://open.spotify.com/track/6DCtHdNZJ1y4vmHBAKsAF3"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Sing! Christ Our Hope In Life And Death (Live At The Getty Music Worship Conference)",
         "url": "https://open.spotify.com/album/6Yc2IDSVhI1i0kxGYBtDTG"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 243800,
       "name": "The Lord Almighty Reigns - Live",
       "url": "https://open.spotify.com/track/01U4uDzyNXcNoLBGiCQeHF"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "The Blessing (Live)",
-        "url": "https://open.spotify.com/album/2pVOjdjBRafs3JAL0Q6o2b"
-      },
-      "artists": [
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        }
-      ],
-      "duration_ms": 599001,
-      "name": "Your Nature - Live",
-      "url": "https://open.spotify.com/track/6DCtHdNZJ1y4vmHBAKsAF3"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1387,26 +1387,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "God, Turn It Around",
-        "url": "https://open.spotify.com/album/20AhTaDSeFLbEz38z3rQjv"
-      },
-      "artists": [
-        {
-          "name": "Jon Reddick",
-          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
-        },
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 280086,
-      "name": "God, Turn It Around (feat. Matt Maher) - Live",
-      "url": "https://open.spotify.com/track/2YUrd0PHlus9bE7TFDc1Zc"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Forever & Amen",
         "url": "https://open.spotify.com/album/1pbtg4PdtxGJbVc1lUSnuB"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 340533,
       "name": "Behold Our God - Live at WorshipGod",
       "url": "https://open.spotify.com/track/4hQy5mspN7mLiQokKsR4WT"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "God, Turn It Around",
+        "url": "https://open.spotify.com/album/20AhTaDSeFLbEz38z3rQjv"
+      },
+      "artists": [
+        {
+          "name": "Jon Reddick",
+          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
+        },
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 280086,
+      "name": "God, Turn It Around (feat. Matt Maher) - Live",
+      "url": "https://open.spotify.com/track/2YUrd0PHlus9bE7TFDc1Zc"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Who Is This Man (Live)",
+        "url": "https://open.spotify.com/album/5iZ73RpnTvE3s952j9oAwK"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 599374,
+      "name": "Who Is This Man - Live",
+      "url": "https://open.spotify.com/track/4ZyKugiffVoGadDGowUQKv"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "SEVEN (Live)",
         "url": "https://open.spotify.com/album/6ZVXKVGiyL96L6pflgfWrt"
       },
@@ -1563,42 +1579,6 @@
       "duration_ms": 400897,
       "name": "Victory Of Jesus - Live",
       "url": "https://open.spotify.com/track/7ktXVe69SF3sZoTCo54VIX"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Who Is This Man (Live)",
-        "url": "https://open.spotify.com/album/5iZ73RpnTvE3s952j9oAwK"
-      },
-      "artists": [
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 599374,
-      "name": "Who Is This Man - Live",
-      "url": "https://open.spotify.com/track/4ZyKugiffVoGadDGowUQKv"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Long Live The King (Live At The Grove)",
-        "url": "https://open.spotify.com/album/0agzLXWxrapOwNXsGXx9nn"
-      },
-      "artists": [
-        {
-          "name": "Influence Music",
-          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
-        },
-        {
-          "name": "Matt Gilman",
-          "url": "https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P"
-        }
-      ],
-      "duration_ms": 421616,
-      "name": "Long Live The King - Live At The Grove",
-      "url": "https://open.spotify.com/track/59JtpavXIKPmHi4Z8PAbj3"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1675,6 +1655,26 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Faith in Our Time (Deluxe LP)",
+        "url": "https://open.spotify.com/album/0TsUGpX2YPmsuUBUoDyrhh"
+      },
+      "artists": [
+        {
+          "name": "River Valley Worship",
+          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
+        },
+        {
+          "name": "River Valley AGES",
+          "url": "https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h"
+        }
+      ],
+      "duration_ms": 414375,
+      "name": "Ask Seek Pray",
+      "url": "https://open.spotify.com/track/4vDSU4Cjulz9YMncj20TgZ"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Easy to Worship (Live in New Orleans)",
         "url": "https://open.spotify.com/album/6P0zTwQtWxOQJ5oLEG5hR8"
       },
@@ -1699,22 +1699,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Faith in Our Time (Deluxe LP)",
-        "url": "https://open.spotify.com/album/0TsUGpX2YPmsuUBUoDyrhh"
+        "name": "Long Live The King (Live At The Grove)",
+        "url": "https://open.spotify.com/album/0agzLXWxrapOwNXsGXx9nn"
       },
       "artists": [
         {
-          "name": "River Valley Worship",
-          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
+          "name": "Influence Music",
+          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
         },
         {
-          "name": "River Valley AGES",
-          "url": "https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h"
+          "name": "Matt Gilman",
+          "url": "https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P"
         }
       ],
-      "duration_ms": 414375,
-      "name": "Ask Seek Pray",
-      "url": "https://open.spotify.com/track/4vDSU4Cjulz9YMncj20TgZ"
+      "duration_ms": 421616,
+      "name": "Long Live The King - Live At The Grove",
+      "url": "https://open.spotify.com/track/59JtpavXIKPmHi4Z8PAbj3"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Revival Nights (Pt. 2) [Live]",
-        "url": "https://open.spotify.com/album/4ilCyBUGUzbgZ9AZlOJD21"
-      },
-      "artists": [
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
-        }
-      ],
-      "duration_ms": 390666,
-      "name": "Hurry - Live",
-      "url": "https://open.spotify.com/track/22E1XhnhvSi1NDbRmb5BDn"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Comfort (Live)",
         "url": "https://open.spotify.com/album/4z9gft4vDBoFF2Xtyu0enL"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 289398,
       "name": "Comfort - Live",
       "url": "https://open.spotify.com/track/36Ru7U9AKjnbNjtZGdhOYY"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Revival Nights (Pt. 2) [Live]",
+        "url": "https://open.spotify.com/album/4ilCyBUGUzbgZ9AZlOJD21"
+      },
+      "artists": [
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "duration_ms": 390666,
+      "name": "Hurry - Live",
+      "url": "https://open.spotify.com/track/22E1XhnhvSi1NDbRmb5BDn"
     },
     {
       "added_at": "2023-05-19 04:00:00",

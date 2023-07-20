@@ -4,7 +4,7 @@
 
 > These women rock our worlds with their music and influence\. Cover: Tina Turner
 
-247 songs - 14 hr 44 min
+248 songs - 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,8 @@
 | [Hit Me With Your Best Shot](https://open.spotify.com/track/0vOkmmJEtjuFZDzrQSFzEE) | [Pat Benatar](https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV) | [Crimes Of Passion](https://open.spotify.com/album/7HlWbMlmhASeeZ61ZiHpWJ) | 2:51 | 2020-03-11 | 2023-03-09 |
 | [Hit Me With Your Best Shot](https://open.spotify.com/track/1rCMzndNSm36yUAn2uHBPW) | [Pat Benatar](https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV) | [Trending Now Volume 19](https://open.spotify.com/album/5Slgz8afL8MBypBQzs1Lm6) | 2:52 | 2020-03-11 | 2022-11-13 |
 | [Hit Me With Your Best Shot \- 1999 Digital Remaster](https://open.spotify.com/track/7nrtHjt4Vk4Z5jMHOwaS8F) | [Pat Benatar](https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV) | [Synchronistic Wanderings](https://open.spotify.com/album/4CcLtOTSlV2389khMapisZ) | 2:51 | 2020-03-11 | 2022-07-29 |
-| [Hooves](https://open.spotify.com/track/3ywsOYMTPzAOgS9q0rI1Pg) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Hooves](https://open.spotify.com/album/5m21w5p5GuAVQVsEvVASzz) | 2:43 | 2023-03-08 |  |
+| [Hooves](https://open.spotify.com/track/3ywsOYMTPzAOgS9q0rI1Pg) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Hooves](https://open.spotify.com/album/5m21w5p5GuAVQVsEvVASzz) | 2:43 | 2023-03-08 | 2023-07-20 |
+| [Hooves](https://open.spotify.com/track/59gcuFEGvp32erxYFekyG4) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [I Am The Dog](https://open.spotify.com/album/0RjsbmAOQzWOq3fxQ002rX) | 2:43 | 2023-05-24 |  |
 | [Hung Up](https://open.spotify.com/track/1W3fMkViHndp2kv7PQNfAQ) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Reeling](https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh) | 3:24 | 2023-03-08 |  |
 | [Hurricane](https://open.spotify.com/track/35aNHKBZWXXbL9KQK7O5Nk) | [MS MR](https://open.spotify.com/artist/4XaUmUGjidSklcDHxv3XWf) | [Secondhand Rapture](https://open.spotify.com/album/3OzeRt6qBaj92n9yjiZBPt) | 3:46 | 2020-03-11 | 2022-03-09 |
 | [i can't get high](https://open.spotify.com/track/1tbGWHbbPihDSinp2Xg7Uz) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [searching for nirvana](https://open.spotify.com/album/6KvpjWttWb04l9Goe07g28) | 3:08 | 2022-03-08 | 2023-03-09 |

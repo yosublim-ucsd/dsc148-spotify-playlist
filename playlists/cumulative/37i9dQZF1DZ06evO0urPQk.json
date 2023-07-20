@@ -797,6 +797,24 @@
     },
     {
       "album": {
+        "name": "Destiny's Prelude",
+        "url": "https://open.spotify.com/album/4On0OykKYCMhJK4fGOySNs"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222626,
+      "name": "Poison Lily",
+      "url": "https://open.spotify.com/track/7hhCuCjerf7mNF7urHh3iH"
+    },
+    {
+      "album": {
         "name": "THE MUSEUM II",
         "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
       },
@@ -1136,7 +1154,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 266080,
       "name": "Trinity Cross",
       "url": "https://open.spotify.com/track/1fDNrXuIKfZ2PhIKcbbwa3"

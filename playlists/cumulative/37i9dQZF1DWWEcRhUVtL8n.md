@@ -2,9 +2,9 @@
 
 ### [Indie Pop](https://open.spotify.com/playlist/37i9dQZF1DWWEcRhUVtL8n)
 
-> New and approved indie pop\. Cover: Sarah Kinsley
+> New and approved indie pop\. Cover: Dominic Fike
 
-1,619 songs - 3 day 13 hr 26 min
+1,620 songs - 3 day 13 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [9 to 5](https://open.spotify.com/track/11dudYRtXcIapaSWEC2d9b) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [9 to 5](https://open.spotify.com/album/6rSPXk0OKSmGkFzZgD8wHD) | 3:16 | 2021-09-10 | 2022-07-23 |
 | [9teen](https://open.spotify.com/track/7fzDvKpwihEVm18rRgdmYi) | [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn), [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [9teen](https://open.spotify.com/album/62PVXROIVspBU0cScSq2hN) | 2:40 | 2020-10-13\* | 2021-05-23 |
 | [A Dangerous Thing](https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [A Dangerous Thing](https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj) | 3:35 | 2022-01-07 | 2022-04-19 |
-| [A Good Thing](https://open.spotify.com/track/520Ri2FiyuSI9qw1XP0CA3) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Supermodels](https://open.spotify.com/album/2YszPdalHkFnXxqMPrHlhm) | 2:45 | 2023-07-14 |  |
+| [A Good Thing](https://open.spotify.com/track/520Ri2FiyuSI9qw1XP0CA3) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Supermodels](https://open.spotify.com/album/2YszPdalHkFnXxqMPrHlhm) | 2:45 | 2023-07-14 | 2023-07-20 |
 | [a House is not a Home](https://open.spotify.com/track/6lutezh0veNlcMaHyFId73) | [Luke Chappell](https://open.spotify.com/artist/4TDrPLkCWxWt7FRCZ9h10U) | [a House is not a Home](https://open.spotify.com/album/04ZoLXMOUKgANljo2EvIRQ) | 2:32 | 2022-03-18 | 2022-05-14 |
 | [a message to myself](https://open.spotify.com/track/4IhZ4D5UMHq1CqjYPlXtlD) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [a message to myself](https://open.spotify.com/album/7tibvRsJAiviQUzI5TKUJI) | 2:08 | 2021-06-03 | 2021-06-04 |
 | [A Million Times](https://open.spotify.com/track/4pGoT7HzVjVZQ3VqHRV924) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Yesteryear](https://open.spotify.com/album/2E6mONgH562P0nB7gmb86j) | 3:39 | 2020-10-13\* | 2021-10-16 |
@@ -1453,6 +1453,7 @@
 | [The Walls Are Way Too Thin](https://open.spotify.com/track/29CDTN3TfjGr4f1yRQqAtV) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [The Walls Are Way Too Thin](https://open.spotify.com/album/4ZxaSVlcGYPFEqnP5KeqmE) | 3:40 | 2021-06-02 | 2022-06-15 |
 | [The Wave](https://open.spotify.com/track/4AmW5yhWe6CcQp5s80Ysdk) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [The Wave](https://open.spotify.com/album/3V6ocE8HwhNK3HY0w1adzF) | 2:32 | 2022-04-15 | 2022-07-29 |
 | [The Way My Friends Feel About You](https://open.spotify.com/track/3m564D0kt8IZ08YZ2WCPE3) | [Sawyer](https://open.spotify.com/artist/0kWDZRay8upBU5u89Kmc7F) | [The Way My Friends Feel About You](https://open.spotify.com/album/7JttdErJ14yQqhIiCI0Djq) | 2:54 | 2021-08-13 | 2022-04-16 |
+| [the way things go](https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [the way things go](https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk) | 3:07 | 2023-07-19 |  |
 | [The Woman I Am](https://open.spotify.com/track/1TGgecSsU9hwzNoiTb3yAO) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Woman I Am](https://open.spotify.com/album/6IfyuK6IvSfgwa39nFTg9S) | 3:13 | 2022-04-08 | 2022-06-03 |
 | [Then It All Goes Away](https://open.spotify.com/track/5RaThsdZpF9WWwoP00NjLI) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Then It All Goes Away](https://open.spotify.com/album/1WuvMjvT8P5oOpe51cQdO1) | 3:03 | 2022-06-24 | 2022-10-13 |
 | [Then It All Goes Away](https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [People In Motion](https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs) | 3:03 | 2022-10-07 | 2023-04-01 |

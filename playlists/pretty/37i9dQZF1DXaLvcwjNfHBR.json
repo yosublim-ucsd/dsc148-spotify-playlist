@@ -1,12 +1,12 @@
 {
   "description": "Your new favourite songs! Cover: Billie Eilish",
-  "num_followers": 59144,
+  "num_followers": 59184,
   "original_name": "Breaking Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZGJlODcxOTU2Y2ZiODI2OTVjNGI2NTAyOWFjMGJjYWFmODEzZDIw",
+  "snapshot_id": "MCw0ZmZkNTljYzI4MzM5NjQ3NTQ5ZDljNDUxYjE4NjM2Y2NmNGU1YWMz",
   "tracks": [
     {
       "added_at": "2023-07-19 00:40:07",
@@ -38,10 +38,6 @@
         {
           "name": "Latto",
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
       "duration_ms": 184400,

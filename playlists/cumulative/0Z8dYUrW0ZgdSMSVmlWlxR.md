@@ -4,7 +4,7 @@
 
 > The best TikTok Gym playlist\. Your new Release Radar\. Anime Hardstyle, AOT, anime phonk, tatli depression, zyzz, xqc, attack on titan, JCORE
 
-287 songs - 13 hr 53 min
+287 songs - 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Exhaust Sounds](https://open.spotify.com/track/4GIrEZEB8vGG5sWuXheo1F) | [rider](https://open.spotify.com/artist/5yupl8lnBJSsPJ9Jmujexl) | [Never Forget Vacation 2](https://open.spotify.com/album/51ujIX6Zd1QNMgyoHPR7Du) | 4:25 | 2022-02-24 |  |
 | [Exitium](https://open.spotify.com/track/6HRiFBbDjKD0RRnr7q6gCQ) | [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3) | [Exitium](https://open.spotify.com/album/1z8FbPDRGXEYq5nHJQePZa) | 2:20 | 2022-03-14 |  |
 | [Extra Mode](https://open.spotify.com/track/2ogHqV1tITu82cAGD2wl61) | [USAO](https://open.spotify.com/artist/25iPl8VJFDu38JMFF6uMXI) | [Kick's For Liberation 5](https://open.spotify.com/album/7vTX4h6yQnTby3Jx55BoPt) | 5:14 | 2022-02-01 | 2023-01-17 |
-| [Facedown](https://open.spotify.com/track/05CFj95QAb0rhWMc5Z9GHA) | [TVLLER](https://open.spotify.com/artist/00Q3jW41SIUjKPeAfcXkTC) | [Facedown](https://open.spotify.com/album/0t1MXKqSzPgcAu4MPU8kux) | 2:13 | 2023-01-11 |  |
+| [Facedown](https://open.spotify.com/track/05CFj95QAb0rhWMc5Z9GHA) | [TVLLER](https://open.spotify.com/artist/00Q3jW41SIUjKPeAfcXkTC) | [Facedown](https://open.spotify.com/album/0t1MXKqSzPgcAu4MPU8kux) | 2:21 | 2023-01-11 |  |
 | [Fairyland \- Reamp 2012](https://open.spotify.com/track/358y5FPR0zahtXileBXsa4) | [Francesco Zeta](https://open.spotify.com/artist/3xaT0giycjaFADjAnrezrd) | [Fairyland Reamp 2012](https://open.spotify.com/album/3hB3dxoLiLZ75FTVBQbiyM) | 4:38 | 2022-02-15 |  |
 | [FALLEN ANGEL](https://open.spotify.com/track/07scaBiqkrzXodZ7fJYErV) | [odneme](https://open.spotify.com/artist/3ltZJnCKsDyBdQGbPTyBnM) | [FALLEN ANGEL](https://open.spotify.com/album/0ezWogMlYPR5VXwtYEDhgK) | 2:48 | 2022-07-11 |  |
 | [Falling](https://open.spotify.com/track/2B5lwPmAoXsJ0DrtDl7Zhi) | [descent](https://open.spotify.com/artist/7LnxkP0AcgHvS1yX6xtFbR) | [Falling](https://open.spotify.com/album/1j2CdQL2eLZvYHFWZJQ8DC) | 3:01 | 2022-01-29 |  |

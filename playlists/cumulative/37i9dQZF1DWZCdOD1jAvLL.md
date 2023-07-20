@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: Nostalgix
 
-532 songs - 1 day 5 hr 28 min
+533 songs - 1 day 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,7 +304,7 @@
 | [Mirage](https://open.spotify.com/track/3ZWo7cjpmthm54fMaQkuMc) | [Will Clarke](https://open.spotify.com/artist/1OmOdgwIzub8DYPxQYbbbi) | [Mirage](https://open.spotify.com/album/4t1iukMZzxhyraFW9pMcFW) | 3:48 | 2022-05-06 | 2022-09-03 |
 | [Mirror Mirror \(feat\. TELLER\)](https://open.spotify.com/track/0oI9LJYGtAlT3m1D3hWqbA) | [Truth x Lies](https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0), [TELLER](https://open.spotify.com/artist/3hhmURITBjGyUKf4IuOCjt) | [Mirror Mirror \(feat\. TELLER\)](https://open.spotify.com/album/4ZiEHfXY1HiQTYBTTku6PE) | 4:32 | 2022-06-24 | 2022-09-24 |
 | [Mirrors](https://open.spotify.com/track/7wjf78oX4GzojIxxDTPSp8) | [Blunts & Blondes](https://open.spotify.com/artist/4XxIRZXk8xgrBmt0SNq7E3) | [Story Of A Stoner](https://open.spotify.com/album/645cxe4AcIaIxUiz6tdraC) | 4:03 | 2022-04-22 | 2022-07-16 |
-| [Miss Me](https://open.spotify.com/track/234EvBEkWgXtQhJOi9HSyp) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r) | [Miss Me](https://open.spotify.com/album/7cYTyU4gB9Ga5WDJ2uFwnX) | 2:51 | 2023-06-23 |  |
+| [Miss Me](https://open.spotify.com/track/234EvBEkWgXtQhJOi9HSyp) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r) | [Miss Me](https://open.spotify.com/album/7cYTyU4gB9Ga5WDJ2uFwnX) | 2:51 | 2023-06-23 | 2023-07-20 |
 | [Molotov](https://open.spotify.com/track/6FggaqcdwsE4pocJ5GaWxr) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn), [Malaa](https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS) | [Molotov](https://open.spotify.com/album/1EdnERTVSGKrVPNq7tb44e) | 2:58 | 2023-03-03 |  |
 | [Money](https://open.spotify.com/track/2AhKFNKiRxk2NZNF47bFjn) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Killfake](https://open.spotify.com/artist/5iQ5zOYomcR6F3gYon6GNW) | [Money](https://open.spotify.com/album/7jt2ZSsqgR2VG6s1XkWw7E) | 2:50 | 2022-01-14 | 2022-07-23 |
 | [monotony \(feat\. Party Nails\)](https://open.spotify.com/track/5OPRwpt3Bl41raaWphfW3q) | [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc), [Party Nails](https://open.spotify.com/artist/1PkfHC4LBy4o9UNU2k1yw4) | [fuck ya go us](https://open.spotify.com/album/3nD84oMa7zffmYcLEPkWZT) | 3:17 | 2022-05-06 | 2022-07-16 |
@@ -327,6 +327,7 @@
 | [New Gold \(feat\. Tame Impala and Bootie Brown\) \- Dom Dolla Remix](https://open.spotify.com/track/2c3KCGq6UojB2c8UAFrRON) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Bootie Brown](https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d) | [New Gold \(feat\. Tame Impala and Bootie Brown\) \[Dom Dolla Remix\]](https://open.spotify.com/album/7BVQ5jsPNkmQUnlOU0mg6e) | 4:34 | 2022-11-18 | 2023-06-06 |
 | [Next Round \(feat\. Tasha Kett\)](https://open.spotify.com/track/5A4106rCXJe4EDjbllmrJ3) | [Tasha Kett](https://open.spotify.com/artist/4NznHWlw5q1yaHk0admfg8), [Stund](https://open.spotify.com/artist/6nNP7Cm5qEpkL9sHNR5Zgk) | [Next Round \(feat\. Tasha Kett\)](https://open.spotify.com/album/4nsIE9Ovot8sqo7OwcaroA) | 3:54 | 2022-01-28 | 2022-03-26 |
 | [Night In Milan](https://open.spotify.com/track/5WZp98NX90Oqy2mAQcwleA) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif), [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Night In Milan](https://open.spotify.com/album/5mjEC5XuALfFLI7XlpnAXL) | 2:34 | 2023-06-05 |  |
+| [Night Rider](https://open.spotify.com/track/4rKQA3rD8ytaoaRABz9CL6) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Together](https://open.spotify.com/album/0IGWaTyOw4z04uUdh38QLf) | 3:35 | 2023-07-14 |  |
 | [Night Rider](https://open.spotify.com/track/7zGeirMz27zkaybnOd3TUD) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Night Rider](https://open.spotify.com/album/2gvSWSwYhvxGrTqZnjaSXT) | 3:35 | 2023-04-28 | 2023-07-14 |
 | [Night Shift](https://open.spotify.com/track/1wxgWPF7uUr9aHDC9QuMEO) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [MASTERIA](https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO) | [Night Shift](https://open.spotify.com/album/5bjUYlYhUdopRQw4Lq4cKT) | 3:50 | 2022-09-02 | 2022-10-01 |
 | [Nightbird](https://open.spotify.com/track/0CADZTEOUaMw9bHnKB59Ts) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Nightbird](https://open.spotify.com/album/2uZGmZtHVVcUNWzsNDdfUx) | 2:36 | 2022-11-11 |  |

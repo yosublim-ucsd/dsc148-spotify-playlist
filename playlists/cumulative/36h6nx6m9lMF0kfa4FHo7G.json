@@ -1481,6 +1481,24 @@
     },
     {
       "album": {
+        "name": "Rio (Collector's Edition)",
+        "url": "https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm"
+      },
+      "artists": [
+        {
+          "name": "Duran Duran",
+          "url": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240520,
+      "name": "Hold Back the Rain - 2009 Remaster",
+      "url": "https://open.spotify.com/track/25fQaP5GWQXhqHeLkcdPzO"
+    },
+    {
+      "album": {
         "name": "The Rise & Fall",
         "url": "https://open.spotify.com/album/0ff45kporrpU0rREwqevo1"
       },

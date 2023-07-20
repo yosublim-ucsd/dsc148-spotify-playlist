@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 
 > Music from Nashville's emerging Singers and Songwriters\. Cover: Dipper
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,062 likes - 159 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,086 likes - 159 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 15 | [I Hate Airplanes](https://open.spotify.com/track/14ZSuAaYFhkzndL7dl3dMe) | [Alexandra Kay](https://open.spotify.com/artist/67ZcPnEGiAlCx2O3sQarWV) | [I Hate Airplanes](https://open.spotify.com/album/04Esw3tpeyec7D9zxmEq7r) | 3:04 |
 | 16 | [Lonely Outta You](https://open.spotify.com/track/4K6Hx75Blpyb7ERrkhfBuv) | [HunterGirl](https://open.spotify.com/artist/44kkhQvtgI931bffRbSrMm) | [Lonely Outta You](https://open.spotify.com/album/0QmiHb5sXcfNzr0j07KKOB) | 3:16 |
 | 17 | [Say It](https://open.spotify.com/track/0KRIVhkwM3cP4etnY9Qm0o) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Say It](https://open.spotify.com/album/2Qt24wsU01H4Dn58cIsscS) | 3:05 |
-| 18 | [FLA](https://open.spotify.com/track/3OfHJVlzplAfCYjLsYOIVO) | [Jake Hill](https://open.spotify.com/artist/1NEfcP4od6Yb4Z5FteOSDx) | [FLA](https://open.spotify.com/album/6HYSYFgaJvuFzZykNkjdqU) | 3:11 |
+| 18 | [FLA](https://open.spotify.com/track/3OfHJVlzplAfCYjLsYOIVO) | [Jake Slaton](https://open.spotify.com/artist/1gxVEPVnQD8yWtdeSVGDAx) | [FLA](https://open.spotify.com/album/6HYSYFgaJvuFzZykNkjdqU) | 3:11 |
 | 19 | [Me Or My Hometown](https://open.spotify.com/track/3Pfbtcb3ZWJgZ0qExAapzq) | [Leah Marie Mason](https://open.spotify.com/artist/0fubiYogCTeBykbgV7HGf6) | [Me Or My Hometown](https://open.spotify.com/album/72SbgvMWSRI5S5PzlcDdHN) | 3:28 |
 | 20 | [God Only Knows](https://open.spotify.com/track/3Pazi0v8BKtpwp2qjkh3ra) | [Halle Kearns](https://open.spotify.com/artist/1qhXfHiXKvDP2563X2uFpY) | [God Only Knows](https://open.spotify.com/album/6tUWgnrqrDo001L5hDTnC6) | 3:00 |
 | 21 | [Good Days](https://open.spotify.com/track/48NLXTkqzEGtdfRYql36JJ) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [Good Days](https://open.spotify.com/album/1xg7t7Srm6QlWRjemRjY6X) | 3:00 |
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 158 | [You Can Have Him](https://open.spotify.com/track/6dEnXxziCl4UwUL3BZUE9g) | [Jillian Steele](https://open.spotify.com/artist/0pkLsR4G0gWsY5OyIXuXQz) | [You Can Have Him](https://open.spotify.com/album/4An9zUetG23BuNpjDVo28D) | 3:17 |
 | 159 | [Beautifully Broken](https://open.spotify.com/track/3EEnS5a2qAKgWNjNf9CspG) | [Onoleigh](https://open.spotify.com/artist/2k2ug0ceFkR3QzBmlMZsrt) | [Beautifully Broken](https://open.spotify.com/album/6iwv4JaUaiJdHXZuqfijvR) | 3:11 |
 
-Snapshot ID: `MCw0OGE0M2NhYTJkMDU0YjllNTk0MWEzMTYwYjI3YzgxZjg1YjQwYzQz`
+Snapshot ID: `MCxhZDk1MzNiM2UzYTIyNDAyODM5OWMxYjg5NDc3NDIwMjk0ZDlmMGUw`

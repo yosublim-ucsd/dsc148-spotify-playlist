@@ -499,6 +499,28 @@
     },
     {
       "album": {
+        "name": "Chukkalonchi (From \"Ustaad\")",
+        "url": "https://open.spotify.com/album/1e8FXhF6yf5xxfMaf3E7RP"
+      },
+      "artists": [
+        {
+          "name": "Akeeva B",
+          "url": "https://open.spotify.com/artist/1fNYNRO55U5MUxLBDbGduW"
+        },
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158769,
+      "name": "Chukkalonchi (From \"Ustaad\")",
+      "url": "https://open.spotify.com/track/0VSTX8eCOBgnBCseiu9PTM"
+    },
+    {
+      "album": {
         "name": "Bhoothaddam Bhaskar Narayana",
         "url": "https://open.spotify.com/album/5Xb3QbKLMWwDxmx9fpQgbI"
       },
@@ -588,16 +610,16 @@
       },
       "artists": [
         {
-          "name": "Aakanksha",
-          "url": "https://open.spotify.com/artist/2138Mjwm0gHzchDu1iBuEe"
+          "name": "Akanksha Bisht",
+          "url": "https://open.spotify.com/artist/7hVfqYdQ9vPCD8VEGxs2EZ"
         },
         {
           "name": "Pavan",
           "url": "https://open.spotify.com/artist/3DsYnBCj82o1618kqGdGKp"
         },
         {
-          "name": "Mahesh",
-          "url": "https://open.spotify.com/artist/2cgnYoXVBtVwiCZIaq6lVx"
+          "name": "Mahesh (Lyricist)",
+          "url": "https://open.spotify.com/artist/5NNYbJA0irrbbxgram8Q1f"
         }
       ],
       "date_added": "2023-07-03",

@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 286020,
+  "num_followers": 286091,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZmQ3ZDMzNGM5Y2Y3ODNhYzI3ZWEwMzBmZjQxZTY5Yzk3OGVjMzhj",
+  "snapshot_id": "MCw0MGRmNDZhYjJkNmZiY2FiMWQ1ZTEwMmJmMDdiMTgxYWE4NGYxMWE0",
   "tracks": [
     {
       "added_at": "2023-03-24 00:00:00",
@@ -585,6 +585,22 @@
       "url": "https://open.spotify.com/track/4mdZWoL6PJATO5gn1YGVdV"
     },
     {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
+        "name": "Deceiver",
+        "url": "https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 265466,
+      "name": "Skin Game",
+      "url": "https://open.spotify.com/track/2EDFBDvuRmq9T4uvU4A9eI"
+    },
+    {
       "added_at": "2023-05-10 14:00:57",
       "album": {
         "name": "Blister",
@@ -603,22 +619,6 @@
       "duration_ms": 229333,
       "name": "Blister",
       "url": "https://open.spotify.com/track/2wEJqjOi41VFRdDJkGm6Bx"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
-        "name": "Deceiver",
-        "url": "https://open.spotify.com/album/5FFuado5azIt5lxMLQjCPS"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 265466,
-      "name": "Skin Game",
-      "url": "https://open.spotify.com/track/2EDFBDvuRmq9T4uvU4A9eI"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -949,20 +949,24 @@
       "url": "https://open.spotify.com/track/3j3842JTc24dyCpeP3s2YL"
     },
     {
-      "added_at": "2023-03-24 00:00:00",
+      "added_at": "2023-05-10 14:00:57",
       "album": {
-        "name": "Flora",
-        "url": "https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku"
+        "name": "Future Falling",
+        "url": "https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj"
       },
       "artists": [
         {
-          "name": "atmos bloom",
-          "url": "https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3"
+          "name": "The Album Leaf",
+          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+        },
+        {
+          "name": "Bat For Lashes",
+          "url": "https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7"
         }
       ],
-      "duration_ms": 135375,
-      "name": "Daisy",
-      "url": "https://open.spotify.com/track/05EgVvYINhUHLomTjv5VKe"
+      "duration_ms": 340000,
+      "name": "Near",
+      "url": "https://open.spotify.com/track/7IK0y5ni8yyfxoOfOitxul"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -983,6 +987,22 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
+        "name": "Flora",
+        "url": "https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku"
+      },
+      "artists": [
+        {
+          "name": "atmos bloom",
+          "url": "https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3"
+        }
+      ],
+      "duration_ms": 135375,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/05EgVvYINhUHLomTjv5VKe"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
         "name": "Full Hand",
         "url": "https://open.spotify.com/album/7ufXylXlduqkezq4Yu5XcK"
       },
@@ -995,26 +1015,6 @@
       "duration_ms": 213480,
       "name": "Opportunity",
       "url": "https://open.spotify.com/track/2oxQ52yhbatXclzYyH75c7"
-    },
-    {
-      "added_at": "2023-05-10 14:00:57",
-      "album": {
-        "name": "Future Falling",
-        "url": "https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj"
-      },
-      "artists": [
-        {
-          "name": "The Album Leaf",
-          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
-        },
-        {
-          "name": "Bat For Lashes",
-          "url": "https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7"
-        }
-      ],
-      "duration_ms": 340000,
-      "name": "Near",
-      "url": "https://open.spotify.com/track/7IK0y5ni8yyfxoOfOitxul"
     },
     {
       "added_at": "2023-03-24 00:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-03-24 00:00:00",
       "album": {
-        "name": "Flora",
-        "url": "https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku"
-      },
-      "artists": [
-        {
-          "name": "atmos bloom",
-          "url": "https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3"
-        }
-      ],
-      "duration_ms": 195225,
-      "name": "Picnic In The Rain",
-      "url": "https://open.spotify.com/track/3tjTAQymCotMfHeoYqWjZh"
-    },
-    {
-      "added_at": "2023-03-24 00:00:00",
-      "album": {
         "name": "Memoria",
         "url": "https://open.spotify.com/album/7w5COkBSsfMksBbXnDVog2"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 259642,
       "name": "No More Kissing In The Rain",
       "url": "https://open.spotify.com/track/6euR55gwJ65nxIPeXLPPwo"
+    },
+    {
+      "added_at": "2023-03-24 00:00:00",
+      "album": {
+        "name": "Flora",
+        "url": "https://open.spotify.com/album/5MOsdLQs3Rx5ed7cnrH5Ku"
+      },
+      "artists": [
+        {
+          "name": "atmos bloom",
+          "url": "https://open.spotify.com/artist/5F6pjXWILFr4XnOngaKyo3"
+        }
+      ],
+      "duration_ms": 195225,
+      "name": "Picnic In The Rain",
+      "url": "https://open.spotify.com/track/3tjTAQymCotMfHeoYqWjZh"
     },
     {
       "added_at": "2023-03-24 00:00:00",

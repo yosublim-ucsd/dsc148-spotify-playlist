@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: wax
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,748 likes - 55 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 384,721 likes - 55 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 3 | [Colori](https://open.spotify.com/track/2DHilO16oyRXF7a4GHxWxO) | [wax](https://open.spotify.com/artist/0UYKwcrTJkzFpp5ozPPlMS) | [wax](https://open.spotify.com/album/615jw7ZM5CjeqDdatGrrq2) | 2:35 |
 | 4 | [Tutto con te](https://open.spotify.com/track/7CPbIZIGKE8tPLUuLMVujK) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Tutto con te](https://open.spotify.com/album/1kcuGFGOcoGsWi2GUTdwFJ) | 2:38 |
 | 5 | [Ancora](https://open.spotify.com/track/7kvQDzIegURcWHLC0fZfrQ) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4) | [Ancora](https://open.spotify.com/album/6ZEXxjoXce42TAPSQtzCs6) | 2:51 |
-| 6 | [TANGO](https://open.spotify.com/track/7CufDALaisOBzcT0nfeaZF) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [TANGO](https://open.spotify.com/album/2VeUug1nI8PtdE5996fhcs) | 3:29 |
+| 6 | [TANGO \- Sanremo 2023](https://open.spotify.com/track/7CufDALaisOBzcT0nfeaZF) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [TANGO](https://open.spotify.com/album/2VeUug1nI8PtdE5996fhcs) | 3:29 |
 | 7 | [ORIGAMI ALL'ALBA \- CLARA](https://open.spotify.com/track/3X6QTmtaKukOu5lISJYi4g) | [Matteo Paolillo \- Icaro](https://open.spotify.com/artist/1bzx15Bv1ioIaewP85ad5J), [Lolloflow](https://open.spotify.com/artist/6od7hFnrVLa1zCuSyQimic), [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [ORIGAMI ALL'ALBA](https://open.spotify.com/album/282p191UnQOp3i5NREMfYL) | 2:33 |
 | 8 | [Innamorato](https://open.spotify.com/track/1k3CKhRz8iK3GNfTQu32eH) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Innamorato](https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP) | 2:36 |
 | 9 | [Granita](https://open.spotify.com/track/70ZfnDxMxzFlCVdsZgpLSv) | [LDA](https://open.spotify.com/artist/5FwDaIGy29GQC5d0MR7fKf) | [Granita](https://open.spotify.com/album/7wAn4PdtIwEv9dhb78Ywbj) | 2:51 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 54 | [Non Piove Più](https://open.spotify.com/track/6CJC0Dgf1oMOr8dlQKKMOs) | [Aka 7even](https://open.spotify.com/artist/0lQtBhjEJpoOroQS6fbWMc) | [Non Piove Più](https://open.spotify.com/album/4z92PMJqC8PYduMcJu0Os3) | 3:10 |
 | 55 | [Chi Sono Veramente](https://open.spotify.com/track/5Xxz4XYpz2aViGUfW50Y4O) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [CHI SONO VERAMENTE EP](https://open.spotify.com/album/5fEPgkaJVP12LRMZ5T6fhI) | 2:50 |
 
-Snapshot ID: `MCxjZWQwOGVkZGQxYjkzZWZjZjRjNzI3OTMzNzQ1OTVhMDI5NWM3ZTc2`
+Snapshot ID: `MCwzZWUyNTM0ZmZjMDJhYjY1N2IwYTY4ODNmYWJlM2Y1OTJiNGFiOTE2`

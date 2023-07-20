@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Novidades e hits do pop nacional pra te deixar mais leve! Foto: Carol Biazin
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,374 likes - 70 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,411 likes - 70 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,13 +41,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 31 | [Pra Ser Nós Dois](https://open.spotify.com/track/3NiReFiFiszuUxrrVtmmOI) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [O Teatro Mágico](https://open.spotify.com/artist/3TbDeRrXw8SVnRWx9BkHeZ) | [Pra Ser Nós Dois](https://open.spotify.com/album/07dmfzKWDrSH4fBKc3TSXz) | 3:14 |
 | 32 | [Terezinha](https://open.spotify.com/track/6jZq2kwbo4pLsoREwTveq3) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Serour](https://open.spotify.com/artist/4L8osYNuWu9ggZONwYGGC8) | [Terezinha](https://open.spotify.com/album/6tk8iJGsL0xKCJ8zXbm20Z) | 2:22 |
 | 33 | [Vem Meu Amor](https://open.spotify.com/track/23Ck9V7ZwJYFYK7z46VdCA) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl) | [Vem Meu Amor](https://open.spotify.com/album/3wZxVvSQH4RlPOyF3p8sUw) | 2:35 |
-| 34 | [Te dizer que sim.](https://open.spotify.com/track/74RR6gAf69MEsUmSNOqmE4) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Te dizer que sim.](https://open.spotify.com/album/1bgwJ8nruUENGjcghivLcO) | 2:30 |
-| 35 | [Juntin](https://open.spotify.com/track/4T2QY2HaVaK8AGhN2pGblJ) | [Nós Dois](https://open.spotify.com/artist/43KMDeX4Bs6jlla2AS8Q0g) | [nósdois](https://open.spotify.com/album/07N7v9V7dpt4fm0Pl0OcPe) | 2:43 |
+| 34 | [Juntin](https://open.spotify.com/track/4T2QY2HaVaK8AGhN2pGblJ) | [Nós Dois](https://open.spotify.com/artist/43KMDeX4Bs6jlla2AS8Q0g) | [nósdois](https://open.spotify.com/album/07N7v9V7dpt4fm0Pl0OcPe) | 2:43 |
+| 35 | [Te dizer que sim.](https://open.spotify.com/track/74RR6gAf69MEsUmSNOqmE4) | [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK) | [Te dizer que sim.](https://open.spotify.com/album/1bgwJ8nruUENGjcghivLcO) | 2:30 |
 | 36 | [Lance ou Romance](https://open.spotify.com/track/4CklYjne6eks3KfBAW9MI8) | [Julies](https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN) | [Lance ou Romance](https://open.spotify.com/album/3KjkGGle84fgZbwHGvCnFc) | 2:42 |
 | 37 | [Resolvi Seguir](https://open.spotify.com/track/6xuf56zGxebdc1oilPOs7D) | [Nicolas Candido](https://open.spotify.com/artist/5Zv9YrrNkqX5FaaAHtw3E6) | [Resolvi Seguir](https://open.spotify.com/album/1nVWMOfIQ5X6ckw08cHQoU) | 2:41 |
 | 38 | [Coisas De Você](https://open.spotify.com/track/2zgYAkkDhKAm5ERlJXSTR9) | [AMARINA](https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG) | [Coisas De Você](https://open.spotify.com/album/5v9Kmw1Wun0wZJ1xpT1kNE) | 3:17 |
-| 39 | [Mesmo Se Você Mudar](https://open.spotify.com/track/0YzANCFgYRdDAWk23mg9SO) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [Mesmo Se Você Mudar](https://open.spotify.com/album/0coKC5Jns0QTkATFgbfYqG) | 3:05 |
-| 40 | [Tudo Certo](https://open.spotify.com/track/7CaiVx5RmFGvyHu1ZCy2g4) | [Gabriel Porto](https://open.spotify.com/artist/5NqRQrRdbVUKuwSjEq25dx) | [Tudo Certo](https://open.spotify.com/album/0OOge4WXl5bPFRMNLUsW2k) | 3:01 |
+| 39 | [Tudo Certo](https://open.spotify.com/track/7CaiVx5RmFGvyHu1ZCy2g4) | [Gabriel Porto](https://open.spotify.com/artist/5NqRQrRdbVUKuwSjEq25dx) | [Tudo Certo](https://open.spotify.com/album/0OOge4WXl5bPFRMNLUsW2k) | 3:01 |
+| 40 | [Mesmo Se Você Mudar](https://open.spotify.com/track/0YzANCFgYRdDAWk23mg9SO) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix) | [Mesmo Se Você Mudar](https://open.spotify.com/album/0coKC5Jns0QTkATFgbfYqG) | 3:05 |
 | 41 | [Por Você](https://open.spotify.com/track/5TfAXQ7sgpqVlG8ZfT2wPf) | [Lizandra](https://open.spotify.com/artist/3sxbfZzDDFlTIqJ8jBwLLl) | [Por Você](https://open.spotify.com/album/7gi0akHHXJgx8BmLgO6pgs) | 3:11 |
 | 42 | [Dias Claros](https://open.spotify.com/track/6Npj5ItEySUyXSx2H5pSzy) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp) | [Dias Claros](https://open.spotify.com/album/0i53V3hMoZsMJqUzz02nO9) | 2:31 |
 | 43 | [Meu Bem](https://open.spotify.com/track/5kp9aP8zXokT6xVU10ZOXJ) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo), [Nanno](https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3) | [A Mágica Por Trás Da Forma](https://open.spotify.com/album/7JVWJYX1Bjq1eIzzexh8mE) | 2:13 |
@@ -64,19 +64,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 54 | [Boate Qualquer](https://open.spotify.com/track/2c3jFb4lwRXLBfOxzRmbMr) | [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT) | [Paixão Nacional](https://open.spotify.com/album/0lDsFWezOlZNYWFOsCZuYz) | 3:07 |
 | 55 | [Por Que Você Não Vem?](https://open.spotify.com/track/6HdrdBpN6Y8sMzEK4scQNx) | [Zimbra](https://open.spotify.com/artist/11xX6bMCvpstEFOyx8lxYg), [Bruna Magalhães](https://open.spotify.com/artist/108y6vREhgAIvgvm1Cq54p) | [Por Que Você Não Vem?](https://open.spotify.com/album/0aBrzFzgTN18yJdycI1NHh) | 2:46 |
 | 56 | [O Que Eu Devia Ter Vivido](https://open.spotify.com/track/4PfAuk2op4WbQf2cYmPFc1) | [Anna Pêgo](https://open.spotify.com/artist/0K6zeBWMDprakZQYeuDzjJ) | [Frágil](https://open.spotify.com/album/3118Bv0QT2WFC6aCmnNX9U) | 2:25 |
-| 57 | [Saudade](https://open.spotify.com/track/42gnV9JE50pObR1USs9v4b) | [Fi Barreto](https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe) | [Saudade](https://open.spotify.com/album/4cK5SEawAvb3fL5lPlhJiX) | 2:39 |
-| 58 | [Esperando Cê Voltar](https://open.spotify.com/track/6T1MSY73AbfA2Kljx0x91g) | [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8) | [Esperando Cê Voltar](https://open.spotify.com/album/45VIWIfqIwMgElq0S8dF3Q) | 2:15 |
+| 57 | [Esperando Cê Voltar](https://open.spotify.com/track/6T1MSY73AbfA2Kljx0x91g) | [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8) | [Esperando Cê Voltar](https://open.spotify.com/album/45VIWIfqIwMgElq0S8dF3Q) | 2:15 |
+| 58 | [Saudade](https://open.spotify.com/track/42gnV9JE50pObR1USs9v4b) | [Fi Barreto](https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe) | [Saudade](https://open.spotify.com/album/4cK5SEawAvb3fL5lPlhJiX) | 2:39 |
 | 59 | [Contradição](https://open.spotify.com/track/7uff94i4ckT91Cw8Zj5AbX) | [MADÚ](https://open.spotify.com/artist/2tJ2rv15e4PIhS6SSnOkxR), [Nairo](https://open.spotify.com/artist/1D8czLMHw5DiZCQGd6xHXa) | [Contradição](https://open.spotify.com/album/3jG5jSEcouTayTmGZzLjXU) | 2:19 |
 | 60 | [Se Sêsse](https://open.spotify.com/track/3kkCaXUNvatoBoPnXEyo9u) | [Gabi Shima](https://open.spotify.com/artist/63wyJbKDl6uKOvoHfcgwHj) | [Se Sêsse](https://open.spotify.com/album/5wloPznM9sSe6X3wxNYViA) | 2:51 |
 | 61 | [Atalaia](https://open.spotify.com/track/3gx5LqxSuGGRdV8UvHTSZl) | [Vitor Soltau](https://open.spotify.com/artist/3e8zvncHL9bIvPszfa8amS), [Paulo Novaes](https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6) | [Atalaia](https://open.spotify.com/album/2dYMAlHoZot2yZG5X2M28Q) | 3:12 |
-| 62 | [foi no são joão](https://open.spotify.com/track/0CVlp2hDhmhkN5ugXDipFy) | [Filipe Toca](https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ) | [foi no são joão](https://open.spotify.com/album/1k1DFfnqkWOXKcUdWAllhl) | 3:10 |
-| 63 | [Como cê tá?](https://open.spotify.com/track/20WJwyOoDtxQQCBPLmxxEX) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Friozinho](https://open.spotify.com/album/4QQAQLiiShZ4Ft8ga5Ncb5) | 2:44 |
+| 62 | [Como cê tá?](https://open.spotify.com/track/20WJwyOoDtxQQCBPLmxxEX) | [ALMAR](https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI) | [Friozinho](https://open.spotify.com/album/4QQAQLiiShZ4Ft8ga5Ncb5) | 2:44 |
+| 63 | [foi no são joão](https://open.spotify.com/track/0CVlp2hDhmhkN5ugXDipFy) | [Filipe Toca](https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ) | [foi no são joão](https://open.spotify.com/album/1k1DFfnqkWOXKcUdWAllhl) | 3:10 |
 | 64 | [De Onde Eu Venho](https://open.spotify.com/track/0ghWZ2Lf2KX2m0j4esH1Ou) | [Doral](https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp) | [De Onde Eu Venho](https://open.spotify.com/album/3XKyRkEpNarQ7BQxLIzk5U) | 2:23 |
-| 65 | [Sanidade Mental](https://open.spotify.com/track/2tv39y2gT7pLwm593Dz6Sj) | [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8) | [Sanidade Mental](https://open.spotify.com/album/64zdSOzHBmznEM4x34f9nY) | 1:59 |
+| 65 | [elevador](https://open.spotify.com/track/0n5NRgLTUUfpyHn7rnSoZ5) | [zawa](https://open.spotify.com/artist/4YMg2Gmfs7YCiNQ48jMaN0) | [elevador](https://open.spotify.com/album/3UutSTPmjMboGfAaZprrMa) | 2:42 |
 | 66 | [Ser Eu](https://open.spotify.com/track/2ExyuObg4f2r7wTiM03rST) | [Tori](https://open.spotify.com/artist/4JnogHpZJqdZu7njKCOgch) | [Ser Eu](https://open.spotify.com/album/0RAQR6HW13BW5Q3ikBfc9M) | 2:41 |
-| 67 | [elevador](https://open.spotify.com/track/0n5NRgLTUUfpyHn7rnSoZ5) | [zawa](https://open.spotify.com/artist/4YMg2Gmfs7YCiNQ48jMaN0) | [elevador](https://open.spotify.com/album/3UutSTPmjMboGfAaZprrMa) | 2:42 |
+| 67 | [Sanidade Mental](https://open.spotify.com/track/2tv39y2gT7pLwm593Dz6Sj) | [Zant](https://open.spotify.com/artist/0GVaM9LtM51CEGq6FJ3MC8) | [Sanidade Mental](https://open.spotify.com/album/64zdSOzHBmznEM4x34f9nY) | 1:59 |
 | 68 | [Maldito Medo](https://open.spotify.com/track/6atSqj4VjdV5z9snjOfSLM) | [RAY](https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot), [VELINO](https://open.spotify.com/artist/734KHvgPkNca48JLXvidB3) | [Maldito Medo](https://open.spotify.com/album/2fastvrlnmHnYa1j6ljx9C) | 2:59 |
 | 69 | [águas do futuro](https://open.spotify.com/track/3i5iN6Y6DDelK1icYPM6VW) | [Santaella](https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p) | [águas do futuro](https://open.spotify.com/album/1M3d8DTK2f4OESQQR2j4tg) | 4:02 |
 | 70 | [sempre com você](https://open.spotify.com/track/5VHdxkb3y2gq8kzxKAGdOZ) | [Simão](https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34) | [sempre com você](https://open.spotify.com/album/23fIykV7AR3cqsBOzcW6rf) | 3:11 |
 
-Snapshot ID: `MCw0NmU2Y2EwZDY2MjNjYmE1OGYzZDkwYmE1MjU4ZDc5YjE0MjY1MjFh`
+Snapshot ID: `MCxiMGJlZWQwYjU3MjNhZDJhYzBkMDc0MDA1MmY4M2E3MzcwMmE5N2Iy`

@@ -1,12 +1,12 @@
 {
   "description": "Dreamy jams from the best bedroom producers. Cover: Joji",
-  "num_followers": 1082911,
+  "num_followers": 1083019,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2I4Yjg0ZTY3MDMzNWNkNjllYmQ2MThlMGMyYjMyYzA1NTViMmJm",
+  "snapshot_id": "MCwyNmVhZGI2NTA2NzJmZjljMTBjN2UyMDFlZjViNTYxM2ZkZWY4NGRm",
   "tracks": [
     {
       "added_at": "2023-04-17 19:26:13",
@@ -77,26 +77,6 @@
       "url": "https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi"
     },
     {
-      "added_at": "2023-07-07 18:32:34",
-      "album": {
-        "name": "DUBBLE BUBBLE",
-        "url": "https://open.spotify.com/album/3QJD2R7ZulglwWFICcVTgi"
-      },
-      "artists": [
-        {
-          "name": "Zack Villere",
-          "url": "https://open.spotify.com/artist/5jLbQGcvxehi2Z6qkUP9Rh"
-        },
-        {
-          "name": "454",
-          "url": "https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4"
-        }
-      ],
-      "duration_ms": 226295,
-      "name": "DUBBLE BUBBLE",
-      "url": "https://open.spotify.com/track/3QVYo25Sctw3gCNQTQ1iu5"
-    },
-    {
       "added_at": "2023-04-17 19:26:13",
       "album": {
         "name": "For Abby",
@@ -151,6 +131,22 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
+        "name": "4EVER",
+        "url": "https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9"
+      },
+      "artists": [
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 159595,
+      "name": "4EVER",
+      "url": "https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
         "name": "Immunity",
         "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
       },
@@ -163,6 +159,22 @@
       "duration_ms": 260519,
       "name": "Bags",
       "url": "https://open.spotify.com/track/6UFivO2zqqPFPoQYsEMuCc"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "Cherry Wine",
+        "url": "https://open.spotify.com/album/0m3xqY9mNxOakhzLMipjKl"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        }
+      ],
+      "duration_ms": 173286,
+      "name": "Cherry Wine",
+      "url": "https://open.spotify.com/track/5o5WaO9pzPhXSGIrTIYVce"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -183,22 +195,6 @@
       "duration_ms": 124000,
       "name": "Falling for U",
       "url": "https://open.spotify.com/track/2xhGZ3WzOa3tir28y7Cb88"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
-        "name": "Cherry Wine",
-        "url": "https://open.spotify.com/album/0m3xqY9mNxOakhzLMipjKl"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 173286,
-      "name": "Cherry Wine",
-      "url": "https://open.spotify.com/track/5o5WaO9pzPhXSGIrTIYVce"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -313,22 +309,6 @@
       "url": "https://open.spotify.com/track/1ElGmhauttS9p7LwmHG9uM"
     },
     {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
-        "name": "4EVER",
-        "url": "https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9"
-      },
-      "artists": [
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 159595,
-      "name": "4EVER",
-      "url": "https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q"
-    },
-    {
       "added_at": "2023-07-18 18:19:57",
       "album": {
         "name": "i'll be okay",
@@ -343,22 +323,6 @@
       "duration_ms": 98750,
       "name": "Better",
       "url": "https://open.spotify.com/track/0Z94dtWElamDwU4NrcGoUR"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
-        "name": "BALLADS 1",
-        "url": "https://open.spotify.com/album/34GQP3dILpyCN018y2k61L"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 209273,
-      "name": "SLOW DANCING IN THE DARK",
-      "url": "https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -379,6 +343,22 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
+        "name": "BALLADS 1",
+        "url": "https://open.spotify.com/album/34GQP3dILpyCN018y2k61L"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 209273,
+      "name": "SLOW DANCING IN THE DARK",
+      "url": "https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
         "name": "Needs",
         "url": "https://open.spotify.com/album/1QP3qNaDwOJByK4D0WHOFE"
       },
@@ -391,22 +371,6 @@
       "duration_ms": 177479,
       "name": "Needs",
       "url": "https://open.spotify.com/track/0WKmVAD4VWk5EdTyCFILi4"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
-        "name": "Fuzzybrain",
-        "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
-      },
-      "artists": [
-        {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
-        }
-      ],
-      "duration_ms": 278769,
-      "name": "Can I Call You Tonight?",
-      "url": "https://open.spotify.com/track/61OJxhoY3Ix50rYVKo8zRK"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -427,6 +391,22 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
+        "name": "Fuzzybrain",
+        "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 278769,
+      "name": "Can I Call You Tonight?",
+      "url": "https://open.spotify.com/track/61OJxhoY3Ix50rYVKo8zRK"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
         "name": "I Don't Know You",
         "url": "https://open.spotify.com/album/5L8VJO457GXReKVVfRhzyM"
       },
@@ -439,22 +419,6 @@
       "duration_ms": 209449,
       "name": "I Don't Know You",
       "url": "https://open.spotify.com/track/4cJOLN346rtOty3UPACsao"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
-        "name": "Prune, You Talk Funny",
-        "url": "https://open.spotify.com/album/3xS9J3Cg9d37Xo4tdnODjo"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 212701,
-      "name": "Prune, You Talk Funny",
-      "url": "https://open.spotify.com/track/3X8fDZL2mX4bz39SWWCl03"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -475,6 +439,22 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
+        "name": "Prune, You Talk Funny",
+        "url": "https://open.spotify.com/album/3xS9J3Cg9d37Xo4tdnODjo"
+      },
+      "artists": [
+        {
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "duration_ms": 212701,
+      "name": "Prune, You Talk Funny",
+      "url": "https://open.spotify.com/track/3X8fDZL2mX4bz39SWWCl03"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
         "name": "Roy Pablo",
         "url": "https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn"
       },
@@ -491,22 +471,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "Cotton Candy",
-        "url": "https://open.spotify.com/album/3XUxXmuRsKJAmzCUrBwKR4"
-      },
-      "artists": [
-        {
-          "name": "spill tab",
-          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
-        }
-      ],
-      "duration_ms": 93871,
-      "name": "Cotton Candy",
-      "url": "https://open.spotify.com/track/4FF0tP9mkoiFKLiXFeXm0q"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "pouring outside",
         "url": "https://open.spotify.com/album/6P5mONYxeYoklwHZa8VLFx"
       },
@@ -519,6 +483,22 @@
       "duration_ms": 156250,
       "name": "pouring outside",
       "url": "https://open.spotify.com/track/7g1251d41qVR8kq6yz9XXa"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "Cotton Candy",
+        "url": "https://open.spotify.com/album/3XUxXmuRsKJAmzCUrBwKR4"
+      },
+      "artists": [
+        {
+          "name": "spill tab",
+          "url": "https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r"
+        }
+      ],
+      "duration_ms": 93871,
+      "name": "Cotton Candy",
+      "url": "https://open.spotify.com/track/4FF0tP9mkoiFKLiXFeXm0q"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -731,22 +711,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "touch tank",
-        "url": "https://open.spotify.com/album/4XsixtHgUzRfUd9zrhX5eh"
-      },
-      "artists": [
-        {
-          "name": "quinnie",
-          "url": "https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e"
-        }
-      ],
-      "duration_ms": 179133,
-      "name": "touch tank",
-      "url": "https://open.spotify.com/track/1S3ZeV4CEdqbzBYwu0pxE7"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "Edits",
         "url": "https://open.spotify.com/album/6Ux5Oh3nIRkezubTZqNBdl"
       },
@@ -759,6 +723,22 @@
       "duration_ms": 214724,
       "name": "Talk to You",
       "url": "https://open.spotify.com/track/6suxUONtPxkEPL3JHGX9SX"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "touch tank",
+        "url": "https://open.spotify.com/album/4XsixtHgUzRfUd9zrhX5eh"
+      },
+      "artists": [
+        {
+          "name": "quinnie",
+          "url": "https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e"
+        }
+      ],
+      "duration_ms": 179133,
+      "name": "touch tank",
+      "url": "https://open.spotify.com/track/1S3ZeV4CEdqbzBYwu0pxE7"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -827,22 +807,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "The Shark in Your Water",
-        "url": "https://open.spotify.com/album/75nZGvjStgCUavXcsYsXf7"
-      },
-      "artists": [
-        {
-          "name": "Flower Face",
-          "url": "https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz"
-        }
-      ],
-      "duration_ms": 179815,
-      "name": "Spiracle",
-      "url": "https://open.spotify.com/track/6k7HtWuprjQmulpo4OpieI"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "Waltzing Back",
         "url": "https://open.spotify.com/album/5j49mR7hcvrACDJZNVTmpu"
       },
@@ -855,6 +819,22 @@
       "duration_ms": 192000,
       "name": "Waltzing Back",
       "url": "https://open.spotify.com/track/3JcvpTfI64SmXxUl7XUvQI"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "The Shark in Your Water",
+        "url": "https://open.spotify.com/album/75nZGvjStgCUavXcsYsXf7"
+      },
+      "artists": [
+        {
+          "name": "Flower Face",
+          "url": "https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz"
+        }
+      ],
+      "duration_ms": 179815,
+      "name": "Spiracle",
+      "url": "https://open.spotify.com/track/6k7HtWuprjQmulpo4OpieI"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1023,22 +1003,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "adios",
-        "url": "https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK"
-      },
-      "artists": [
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 203502,
-      "name": "adios",
-      "url": "https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "Seeds",
         "url": "https://open.spotify.com/album/16F9QOwv3lMvYiTscoFD4Q"
       },
@@ -1051,6 +1015,22 @@
       "duration_ms": 219286,
       "name": "Seeds",
       "url": "https://open.spotify.com/track/4BwGU8l91SQWeVqnWqWClh"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "adios",
+        "url": "https://open.spotify.com/album/3HfZG3EM11UpuzfQxWcHIK"
+      },
+      "artists": [
+        {
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
+        }
+      ],
+      "duration_ms": 203502,
+      "name": "adios",
+      "url": "https://open.spotify.com/track/3gfve6BgoTkZK3uBkqttz8"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1369,22 +1349,6 @@
       "url": "https://open.spotify.com/track/42kWSGSJu0tXXt3e2Guvsm"
     },
     {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
-        "name": "Forevermore",
-        "url": "https://open.spotify.com/album/6UppGVPzMsv9LJI2x4e0Qn"
-      },
-      "artists": [
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 174622,
-      "name": "Forevermore",
-      "url": "https://open.spotify.com/track/4r4uSdJJKV8RIcNKH7pX54"
-    },
-    {
       "added_at": "2023-04-28 05:06:47",
       "album": {
         "name": "You Tear Me Apart",
@@ -1399,6 +1363,22 @@
       "duration_ms": 177957,
       "name": "You Tear Me Apart",
       "url": "https://open.spotify.com/track/1KbCFCEee8ox0OHFH08nbG"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "Forevermore",
+        "url": "https://open.spotify.com/album/6UppGVPzMsv9LJI2x4e0Qn"
+      },
+      "artists": [
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 174622,
+      "name": "Forevermore",
+      "url": "https://open.spotify.com/track/4r4uSdJJKV8RIcNKH7pX54"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1463,6 +1443,22 @@
       "duration_ms": 153783,
       "name": "Punching Bag",
       "url": "https://open.spotify.com/track/09tYMZ38sfZRZmrN0basVJ"
+    },
+    {
+      "added_at": "2023-07-19 16:28:53",
+      "album": {
+        "name": "Nevertheless, (Original Television Soundtrack, Pt. 8)",
+        "url": "https://open.spotify.com/album/7uuHf9rwmvlkUS9AlxK6D2"
+      },
+      "artists": [
+        {
+          "name": "Say Sue Me",
+          "url": "https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby"
+        }
+      ],
+      "duration_ms": 268453,
+      "name": "So Tender",
+      "url": "https://open.spotify.com/track/1Qhcx4uDQ4RFy9m4mKdzUN"
     },
     {
       "added_at": "2023-04-17 19:26:13",

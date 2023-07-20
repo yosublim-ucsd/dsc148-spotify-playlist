@@ -6,7 +6,7 @@
     "name": "trin",
     "url": "https://open.spotify.com/user/tjoslin05"
   },
-  "snapshot_id": "NzksODNlOTA5YjNmN2FmOWJjMWNiYTNlOTQxNzQ5MjI4OTZlYTQ3Y2I4YQ==",
+  "snapshot_id": "ODAsZTE2M2Y5OTY2ZDFiY2Y4NTE1YzgzNjQ3NDRjYmE1MmE1MWY3ZTI2Ng==",
   "tracks": [
     {
       "added_at": "2022-01-17 03:36:39",
@@ -703,6 +703,22 @@
       "duration_ms": 146174,
       "name": "All You Gotta Be When You're 23 Is Yourself",
       "url": "https://open.spotify.com/track/0ppPrxfIry7uMvM7djyFX6"
+    },
+    {
+      "added_at": "2023-07-19 20:31:26",
+      "album": {
+        "name": "Crush on Me",
+        "url": "https://open.spotify.com/album/2Nr6Y9RNI7eehIi4YeSZDu"
+      },
+      "artists": [
+        {
+          "name": "Sir Babygirl",
+          "url": "https://open.spotify.com/artist/3Z9b1MnVKbJw8LpgQclsls"
+        }
+      ],
+      "duration_ms": 230160,
+      "name": "Flirting with Her",
+      "url": "https://open.spotify.com/track/2kDTgtrBqoEWNrdYte9hSo"
     }
   ],
   "unique_name": "hope is good",

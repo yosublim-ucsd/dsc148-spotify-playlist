@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock bands/artists in Japan right now! Cover: UVERWORLD
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,571 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,649 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 49 | [Seven Deadly Sins](https://open.spotify.com/track/2s2fORtcrwKwsmC4jNc8mJ) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [The World's On Fire](https://open.spotify.com/album/3YrPHd8CGlPBfLG4FgmQVy) | 3:27 |
 | 50 | [アイタイシタイ](https://open.spotify.com/track/0Vp8EpqhuD1DUP6wdCoqxC) | [HiGE](https://open.spotify.com/artist/0ryyELbQYYMklIxQmpH6xK) | [XX](https://open.spotify.com/album/1aTsna8FcJ1uh56XBeilNc) | 4:50 |
 | 51 | [Just Awake](https://open.spotify.com/track/1Gqpa08T7eBAvPQj9O9L2Q) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [All That We Have Now](https://open.spotify.com/album/5a8NyykjKg0IDUKHslgNgm) | 3:38 |
-| 52 | [痣花](https://open.spotify.com/track/6QfvqC4DiR8beMeRlh03o8) | [Plastic Tree](https://open.spotify.com/artist/5O4DsTkJ6z2eTSvIHZ6sDo) | [痣花](https://open.spotify.com/album/4rQf0w3pw3xTheLURpi0bB) | 5:52 |
+| 52 | [Azabana](https://open.spotify.com/track/7F7YKzplE0bMc98ktJvV9u) | [Plastic Tree](https://open.spotify.com/artist/5O4DsTkJ6z2eTSvIHZ6sDo) | [Azabana](https://open.spotify.com/album/4TB4oOpj0hs5ByhtCTLKzg) | 5:52 |
 | 53 | [新宝島](https://open.spotify.com/track/4a48lWUd64bZgHUDx0GZlj) | [sakanaction](https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq) | [834.194](https://open.spotify.com/album/5pLmzFu2ienSbr1SxBJvwB) | 5:05 |
-| 54 | [Double Dealing Woman \- Special version](https://open.spotify.com/track/49831quLdIYoMxnpA1roBF) | [紫](https://open.spotify.com/artist/4onNuyvKATWgbRmIOGPPNv), [Char](https://open.spotify.com/artist/6M4HwfIjf33RNtOjq3pIzf), [Kyoji Yamamoto](https://open.spotify.com/artist/6ooCxd9UraYZd6PhE81ihr) | [Double Dealing Woman \(Special version\)](https://open.spotify.com/album/5CG7dNILgA79kP8ENoFKvg) | 5:12 |
+| 54 | [Double Dealing Woman \- Special version](https://open.spotify.com/track/4xlyAMpR2EfjMzniF2NvsF) | [Murasaki](https://open.spotify.com/artist/0BsvYxgNA3g6Ko3Y00aFkv), [Char](https://open.spotify.com/artist/6M4HwfIjf33RNtOjq3pIzf), [Kyoji Yamamoto](https://open.spotify.com/artist/6ooCxd9UraYZd6PhE81ihr) | [Double Dealing Woman \(Special version\)](https://open.spotify.com/album/2glHMV3aHpm7b4b60J4DPw) | 5:12 |
 | 55 | [Devil in Your Heart](https://open.spotify.com/track/3w8qOAwbHF6zYeYT7pj7DI) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [THANK GOD, THERE ARE HUNDREDS OF WAYS TO KiLL ENEMiES](https://open.spotify.com/album/1NqQpcihfQEtMLJ3pz8Wi3) | 3:06 |
 | 56 | [儚くない](https://open.spotify.com/track/4oGe0AT9wDhwHfDTifSw0e) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [儚くない](https://open.spotify.com/album/5EEjxpKogAFBEgzf8Kjlv2) | 5:10 |
 | 57 | [Stray Hearts](https://open.spotify.com/track/3sqx01xjg7G7Fehge1YqUP) | [Koshi Inaba](https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls) | [Stray Hearts](https://open.spotify.com/album/4vBh1pUF953y5Sf6Y9A3Su) | 4:33 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 59 | [窓の中から](https://open.spotify.com/track/0R96nqU10shRzLcbpPiNA7) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [窓の中から](https://open.spotify.com/album/76Mm0RzfJr1jYsI1W33SHd) | 6:39 |
 | 60 | [Boys Jump The Midnight](https://open.spotify.com/track/3N6gdBZfDk9KDJAbPCU4g9) | [The Cro\-magnons](https://open.spotify.com/artist/2zznlBwNMFL1nlABMoqq0b) | [On The Street Again \-The Street Sliders Tribute & Origin\- \(Tribute\)](https://open.spotify.com/album/1Taz9x6U6gIihv3iElubeN) | 3:55 |
 
-Snapshot ID: `MCw2MzdmMGJlMjFjMGM4ZDM5M2QwNmQyZGIyOWIxODIwYTlhZjY3MmVi`
+Snapshot ID: `MCxjYTRmMTIwZTZmYTVmNTNiZTU1OGZkMzQyZmE4NTA5NzRhNDk4NGVl`

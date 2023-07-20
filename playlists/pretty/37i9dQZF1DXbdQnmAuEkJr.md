@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdQnmAuEkJr.md) - [plain]
 
 > Un viaje al país del amor a través de sus canciones más hermosas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,095 likes - 70 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,105 likes - 70 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Week\-end à Rome](https://open.spotify.com/track/5mAg6YTl8nEeLrEvwsHAst) | [Nouvelle Vague](https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0), [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Version française](https://open.spotify.com/album/4xYF6zXVizuxPv1ZsqLduY) | 4:39 |
+| 1 | [Week\-end à Rome](https://open.spotify.com/track/3oXh2E6aXHEwKVHhHLKjz2) | [Nouvelle Vague](https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0), [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Version Française](https://open.spotify.com/album/4O5Sc2AKeID5h5KPHjQ4bl) | 4:39 |
 | 2 | [Au coin du monde \- Streets Go Down](https://open.spotify.com/track/5aatN5XineCU8Ojv03q0gM) | [Keren Ann](https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA) | [La disparition](https://open.spotify.com/album/6B2pSu86xUIrXCCkRODVFd) | 3:21 |
 | 3 | [Comme des enfants](https://open.spotify.com/track/5H3ChVfItCaDpj1vPbigyX) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Cœur de pirate](https://open.spotify.com/album/7yuOxsQ525jlzWdKl05DJp) | 2:49 |
 | 4 | [Les Deux Printemps](https://open.spotify.com/track/0Nic6UN7Gkmc0KEGZeD5lL) | [Daniel Bélanger](https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW) | [Quatre Saisons Dans Le Désordre](https://open.spotify.com/album/5bbkmESAWYp9QuMzLCLpbe) | 3:14 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdQnmAuEkJr.md) - [plain]
 | 69 | [à quoi tu penses quand tu m'adores ?](https://open.spotify.com/track/6zI9QsktCCl9NLJ5Vdop7k) | [Mélodie Lauret](https://open.spotify.com/artist/4gceoi6b3eqGyx9dLQU1S4) | [à quoi tu penses quand tu m'adores ?](https://open.spotify.com/album/6on8d8g4VHiUM3AkT7ElJn) | 3:13 |
 | 70 | [Les eaux de mars](https://open.spotify.com/track/32FfL5hpFQdweMkxg8Z55o) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Jim Tomlinson](https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq), [Graham Harvey](https://open.spotify.com/artist/1x7a6AcM8lS9mfpkzfIgAt), [Matt Skelton](https://open.spotify.com/artist/1Ak5vW938xaMoVfXuHeZfA), [John Parricelli](https://open.spotify.com/artist/55Ib86Ob0dKLELhJ1gvUri), [Jeremy Brown](https://open.spotify.com/artist/2GryQVS8rv0VqHUGN4Ua3v) | [Raconte\-moi..\. \(Bonus Edition\)](https://open.spotify.com/album/3afGgL2rBWMuLYEWXScDFb) | 3:38 |
 
-Snapshot ID: `MCwyNTI0Y2UzM2M1ZTU3NTMyODk2MDZmMzU4YjViMWExNzhlNWU0NWZm`
+Snapshot ID: `MCxiNDQwODFiYjM0ZWVjY2U4Njk3N2FjZDU4YWNlZThkOGNjNzdhNjI0`

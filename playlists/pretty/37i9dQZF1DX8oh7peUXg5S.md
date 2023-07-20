@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Joaquín Sabina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,800 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,940 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 88 | [Aunque tú no lo sepas](https://open.spotify.com/track/2XXec5RwkNrjpBNfCjNhAv) | [Quique González](https://open.spotify.com/artist/0uCwhAtvXQlTGZJWDJQykZ) | [Ajuste de cuentas](https://open.spotify.com/album/7dzKozUpXXWYZb5ofCSLze) | 4:02 |
 | 89 | [Mi Problema](https://open.spotify.com/track/6PIRiVNVZk0vN9ZyUJTqKj) | [Ismael Serrano](https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34) | [La Llamada](https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21) | 6:05 |
 | 90 | [Y Nos Dieron Las Diez \(feat\. Zahara\) \- Tributo a Sabina](https://open.spotify.com/track/2p0ol5BlwQtbiioBGytxy4) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz), [Fito Cabrales](https://open.spotify.com/artist/6fmDy3xzOGfOVjFwa0BUkT), [Coque Malla](https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV), [Funambulista](https://open.spotify.com/artist/16UAI1WxiKCIKd4NHtFt2U), [Ismael Serrano](https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34), [Rubén Pozo](https://open.spotify.com/artist/65mqRAn8AEZjc4M2lZvtSz), [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT), [Lichis](https://open.spotify.com/artist/1Z6c0iLhCdsGm8mmm1OwLh), [Andrés Suárez](https://open.spotify.com/artist/1AaN24tRzIpDKK54IRtdIe), [Alejo Stivel](https://open.spotify.com/artist/7mGfdRd3PB4mRMPymFQM7n), [Mara Barros](https://open.spotify.com/artist/38YYADiV9iEYiZu22QuIJs), [Travis Birds](https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB), [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [Tributo a Sabina\. Ni Tan Joven Ni Tan Viejo](https://open.spotify.com/album/0aiLwoe2jZ7TWjbspnBn8K) | 5:09 |
-| 91 | [Algo contigo](https://open.spotify.com/track/5zuW9T5REjejF9tSEG0sxp) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Algo contigo](https://open.spotify.com/album/1SsMdo5QqpKYd8MSRtmDtI) | 2:50 |
-| 92 | [Luna](https://open.spotify.com/track/2MYTc4Y84bwo0c9bZmAOaM) | [Judit Neddermann](https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE) | [Luna](https://open.spotify.com/album/25Asvtoguv3oWHJ3yR91ea) | 3:17 |
+| 91 | [Luna](https://open.spotify.com/track/2MYTc4Y84bwo0c9bZmAOaM) | [Judit Neddermann](https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE) | [Luna](https://open.spotify.com/album/25Asvtoguv3oWHJ3yR91ea) | 3:17 |
+| 92 | [Algo contigo](https://open.spotify.com/track/5zuW9T5REjejF9tSEG0sxp) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Algo contigo](https://open.spotify.com/album/1SsMdo5QqpKYd8MSRtmDtI) | 2:50 |
 | 93 | [Quiéreme Bien \(feat\. Leiva\)](https://open.spotify.com/track/52kEfpan3auLao9pbnOJ6m) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Quiéreme Bien \(feat\. Leiva\)](https://open.spotify.com/album/1aUj6H7XCzFRRznXIsArqm) | 4:41 |
 | 94 | [Manifiesto](https://open.spotify.com/track/55ZrFdC27uqQC5WA8mdXSR) | [Victor Jara](https://open.spotify.com/artist/440MEFxEmF9othCXbz3Y6a) | [Manifiesto](https://open.spotify.com/album/10SO9wTdCvi8M9HMiJee3a) | 4:29 |
 | 95 | [Dama Dama \(Album Version\)](https://open.spotify.com/track/50tK3gc47HHVffxRehbRuC) | [Cecilia](https://open.spotify.com/artist/4J3cenBCGspvBrpmqQa7RR) | [Cecilia](https://open.spotify.com/album/50Pefah2v2rCOfXSdLNkg0) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 99 | [Al Alba](https://open.spotify.com/track/5zftYFI80oeA7UKfisvRUt) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Albanta](https://open.spotify.com/album/71bflvCi5VkZBS5IV81b8M) | 4:57 |
 | 100 | [Sacar La Rabia](https://open.spotify.com/track/7GUs1PDaklqH7gUJdx6Kd7) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV), [Los Locos Descalzos](https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS) | [Sacar La Rabia](https://open.spotify.com/album/6OUnHuMoShQK0wdTpBICMh) | 3:53 |
 
-Snapshot ID: `MCw5MzQ2Y2Q3ZTBhNGRhOTZkNTg2OGNhYjk2MDE4ZGQzNDA4MTMyODY0`
+Snapshot ID: `MCwyNjViNzcwODM2OTE2NTQ4ZjljNzJkMjQ1N2NhYzNlYTI0NzNlNzRj`

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWEzNDcwZmU0Njg4OTk1NmI3MThmNjEyNmE3ZDQ5OTM3MDM3ZjE3",
+  "snapshot_id": "MCxlZjkxZGI4NTBjNjkzNWJmYzIzYjkzZDQ3OWI4MGI3MzU1ZmE4MDdi",
   "tracks": [
     {
       "added_at": "2022-12-22 18:42:12",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2022-12-22 18:42:12",
       "album": {
+        "name": "Contigo En Navidad",
+        "url": "https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 257586,
+      "name": "Navidad Sin Ti",
+      "url": "https://open.spotify.com/track/04HcDTsj4KUQxRH0xXS9ex"
+    },
+    {
+      "added_at": "2022-12-22 18:42:12",
+      "album": {
         "name": "Lleg\u00f3 Navidad",
         "url": "https://open.spotify.com/album/1xF1Z0gC69q1fSYXPBO3gR"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 174933,
       "name": "Lleg\u00f3 Navidad",
       "url": "https://open.spotify.com/track/57uFE2xndHxWXXp1KkmTZO"
-    },
-    {
-      "added_at": "2022-12-22 18:42:12",
-      "album": {
-        "name": "Contigo En Navidad",
-        "url": "https://open.spotify.com/album/6NvSj0Qx9lgXnwWBXwRdxZ"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 257586,
-      "name": "Navidad Sin Ti",
-      "url": "https://open.spotify.com/track/04HcDTsj4KUQxRH0xXS9ex"
     },
     {
       "added_at": "2022-12-22 18:42:12",
@@ -1316,6 +1316,22 @@
       "added_at": "2022-12-22 18:42:12",
       "album": {
         "name": "Blanca Navidad",
+        "url": "https://open.spotify.com/album/0zV6NFZnGLuSrfKPQcupTc"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 149276,
+      "name": "Blanca Navidad",
+      "url": "https://open.spotify.com/track/6MM2yVmmVOtPKTDPGmmGy0"
+    },
+    {
+      "added_at": "2022-12-22 18:42:12",
+      "album": {
+        "name": "Blanca Navidad",
         "url": "https://open.spotify.com/album/5qrIYIBTF7uwabLCf6s5cC"
       },
       "artists": [
@@ -1351,22 +1367,6 @@
       "duration_ms": 186477,
       "name": "Amarga Navidad",
       "url": "https://open.spotify.com/track/70GSsd2TYikh9QMQy8BR2P"
-    },
-    {
-      "added_at": "2022-12-22 18:42:12",
-      "album": {
-        "name": "Blanca Navidad",
-        "url": "https://open.spotify.com/album/0zV6NFZnGLuSrfKPQcupTc"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 149276,
-      "name": "Blanca Navidad",
-      "url": "https://open.spotify.com/track/6MM2yVmmVOtPKTDPGmmGy0"
     },
     {
       "added_at": "2022-12-22 18:42:12",

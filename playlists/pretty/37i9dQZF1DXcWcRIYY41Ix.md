@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Feli Colina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,981 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,028 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,12 +75,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 65 | [Tu Casa](https://open.spotify.com/track/4mnFuqhIJ0IgSbEe3HymeU) | [Lola Parda](https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD) | [Tu Casa](https://open.spotify.com/album/6dSpLVlPWRBp09hNAIQrNH) | 3:20 |
 | 66 | [Niña de mis ojos](https://open.spotify.com/track/6VhLNiAEbawLpsUgBIZt5P) | [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Pasajeros](https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D) | 5:12 |
 | 67 | [Un Día Lo Encontré](https://open.spotify.com/track/6IPCxRPVXSXdfrubRNertw) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ), [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Lo Primero](https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q) | 3:00 |
-| 68 | [Paciencia](https://open.spotify.com/track/3hFiWmJ1UUeH5bljAr3ik0) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Bugambilia](https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK) | 2:14 |
-| 69 | [La Aguja](https://open.spotify.com/track/4SPsxVT36LRsAtk8QBlpWt) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [El Caminante](https://open.spotify.com/album/68F9zJS0lss2CwsrcR8HZK) | 3:08 |
+| 68 | [La Aguja](https://open.spotify.com/track/4SPsxVT36LRsAtk8QBlpWt) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [El Caminante](https://open.spotify.com/album/68F9zJS0lss2CwsrcR8HZK) | 3:08 |
+| 69 | [Paciencia](https://open.spotify.com/track/3hFiWmJ1UUeH5bljAr3ik0) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Bugambilia](https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK) | 2:14 |
 | 70 | [Cósmosis](https://open.spotify.com/track/3vttNxDd4DyFbOJqCsuklx) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [Cósmosis](https://open.spotify.com/album/6NESna540i2qvjwpeUmEhx) | 4:06 |
 | 71 | [Brindo](https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Brindo](https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn) | 3:18 |
-| 72 | [Diente de León](https://open.spotify.com/track/2Ha5vGs7uWxVhHx3O8xdNe) | [Anthony Escandón](https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [El Perro Feroz](https://open.spotify.com/album/1TTtA3l551GKHOZ2sROty0) | 2:20 |
-| 73 | [Un Golpe de Suerte](https://open.spotify.com/track/2p0oHRooKITKxv3UbjgDzg) | [Carmen Boza](https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u) | [Un Golpe de Suerte](https://open.spotify.com/album/6GYXrEPO9rtxkNeeDeTae4) | 4:29 |
+| 72 | [Un Golpe de Suerte](https://open.spotify.com/track/2p0oHRooKITKxv3UbjgDzg) | [Carmen Boza](https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u) | [Un Golpe de Suerte](https://open.spotify.com/album/6GYXrEPO9rtxkNeeDeTae4) | 4:29 |
+| 73 | [Diente de León](https://open.spotify.com/track/2Ha5vGs7uWxVhHx3O8xdNe) | [Anthony Escandón](https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [El Perro Feroz](https://open.spotify.com/album/1TTtA3l551GKHOZ2sROty0) | 2:20 |
 | 74 | [Solo Le Dije](https://open.spotify.com/track/4KGzk03tmRmFmujHBtvtzH) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk) | [Algo Ritmos](https://open.spotify.com/album/7t08JufrTZPsZnyI8p47nc) | 3:56 |
 | 75 | [La Malquerida \- En Vivo](https://open.spotify.com/track/4ad6yyRJHSd0AGUmXU1mvQ) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [La Malquerida](https://open.spotify.com/album/3DHUbCkvnVbIE6vCpgoh6n) | 8:05 |
 | 76 | [Las Bestias Que Me Acompañan](https://open.spotify.com/track/7u7dzBVfptwhsuNqKHMBXn) | [Andrea Santiago](https://open.spotify.com/artist/25ujYqJknNjORPPtUIDUXo) | [Las Bestias Que Me Acompañan](https://open.spotify.com/album/4VfTnbsFhguLzTTOCYUcO9) | 3:42 |
@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 86 | [Yo Soy](https://open.spotify.com/track/530CUFzf8pqO9cbSM0C5SB) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Yo Soy](https://open.spotify.com/album/6CO6GE3u3JTuxdcE10nE0e) | 3:36 |
 | 87 | [Trataré](https://open.spotify.com/track/5YFTXVQrrwNjykm9xMKdJK) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Laura Itandehui](https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot) | 4:50 |
 | 88 | [Limoneros](https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ) | [Borneo](https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz) | [Limoneros](https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb) | 2:55 |
-| 89 | [Al Margen de Ojalá](https://open.spotify.com/track/5cBArlwbcWbtM1bojUohLx) | [Andrés Iwasaki](https://open.spotify.com/artist/62uG1tWKBp8gheU91KT1Fj) | [Al Margen de Ojalá](https://open.spotify.com/album/1r5ZAPQ4xnDARkAXaTXDus) | 5:26 |
-| 90 | [Orquesta natural](https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Kumbayeo \(Lado A\)](https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid) | 3:17 |
+| 89 | [Orquesta natural](https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Kumbayeo \(Lado A\)](https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid) | 3:17 |
+| 90 | [Al Margen de Ojalá](https://open.spotify.com/track/5cBArlwbcWbtM1bojUohLx) | [Andrés Iwasaki](https://open.spotify.com/artist/62uG1tWKBp8gheU91KT1Fj) | [Al Margen de Ojalá](https://open.spotify.com/album/1r5ZAPQ4xnDARkAXaTXDus) | 5:26 |
 | 91 | [Coplas \(feat\. Perotá Chingó\)](https://open.spotify.com/track/2kkyLncwbTHKUL2JYmOmY9) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq), [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [La Sangre del Mundo](https://open.spotify.com/album/4evmLCkaMMRzMxZXHYHG3H) | 4:24 |
 | 92 | [Mundo Nuevo](https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Mundo Nuevo](https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG) | 3:21 |
 | 93 | [Chavela](https://open.spotify.com/track/0rZrzVHDc6k3EYnAnIhUel) | [Malva Vela](https://open.spotify.com/artist/42gMsjzIofZl8uTc1NmRHz) | [Rúbrica X](https://open.spotify.com/album/1NOmwE4eto86tiCnzwoWEq) | 3:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWcRIYY41Ix.md) - [plain]
 | 99 | [Despiértame Cuando Llegues](https://open.spotify.com/track/2DToZx80K6hIq6YjJ12ENl) | [Ulises Hadjis](https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH), [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [El Mundo y la Nada](https://open.spotify.com/album/4QnXUdR1egAQNBC2j4zAa1) | 2:02 |
 | 100 | [Volaré](https://open.spotify.com/track/0i63K6PMAQOw60aJRPV7lm) | [Chiki Lora](https://open.spotify.com/artist/6grE6CSOumB8bUQNh1RPtY), [Canteca de macao](https://open.spotify.com/artist/66xBjuCrzVfhXXvmLxF2UL), [Miryam Latrece](https://open.spotify.com/artist/3QcEeHjRSvL4aQBDaTDKi7) | [Pilares](https://open.spotify.com/album/2DgMUQX65M1iCN3dSW4R0e) | 3:15 |
 
-Snapshot ID: `MCxjZjM5Zjk4ZmI1YWQyZDYxZTU1OWM3YjQ2Y2E5MTViM2ZkZjQ2YzQz`
+Snapshot ID: `MCw5NjVkN2ZlNzE4ZTI2ZGMyNWVmNDA0N2ZlYmM5NTIyZTM3Njk1OTMy`

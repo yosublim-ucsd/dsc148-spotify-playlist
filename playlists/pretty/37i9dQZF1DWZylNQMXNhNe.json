@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits e novidades de artistas LGBTQIA+ est\u00e3o aqui. Foto: Lia Clark, Pabllo Vittar",
-  "num_followers": 221118,
+  "num_followers": 221155,
   "original_name": "AUGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OGFhMWQzNmFhNjZmYjM2MjgwOTNhMzM0YTc3NzdmZDJmOTgyNzI1",
+  "snapshot_id": "MCwyOWFiZmY4Y2U0ZmZkN2NiZGZmZmFmOTE3ZTYwOWI1YWEwNzY3NGFh",
   "tracks": [
     {
       "added_at": "2023-07-14 17:46:49",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-07-14 17:46:49",
       "album": {
-        "name": "PITAYAS",
-        "url": "https://open.spotify.com/album/0YsItDdtGBBHzROpoKYajk"
-      },
-      "artists": [
-        {
-          "name": "PITAYAS",
-          "url": "https://open.spotify.com/artist/6KXzBlb5GgUeAnmqNKut6R"
-        }
-      ],
-      "duration_ms": 169714,
-      "name": "Macetada",
-      "url": "https://open.spotify.com/track/51v7dQ3f2vGBOdYxIemOyY"
-    },
-    {
-      "added_at": "2023-07-14 17:46:49",
-      "album": {
         "name": "Traviarcado",
         "url": "https://open.spotify.com/album/29JRrndgwUbbGDjyEwre8y"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 142722,
       "name": "Pitbull Sem Coleira",
       "url": "https://open.spotify.com/track/01BOygx1zefZHjpmgkgqIA"
+    },
+    {
+      "added_at": "2023-07-14 17:46:49",
+      "album": {
+        "name": "PITAYAS",
+        "url": "https://open.spotify.com/album/0YsItDdtGBBHzROpoKYajk"
+      },
+      "artists": [
+        {
+          "name": "PITAYAS",
+          "url": "https://open.spotify.com/artist/6KXzBlb5GgUeAnmqNKut6R"
+        }
+      ],
+      "duration_ms": 169714,
+      "name": "Macetada",
+      "url": "https://open.spotify.com/track/51v7dQ3f2vGBOdYxIemOyY"
     },
     {
       "added_at": "2023-07-14 17:46:49",

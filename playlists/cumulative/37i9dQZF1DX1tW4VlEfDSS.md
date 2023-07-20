@@ -4,7 +4,7 @@
 
 > A feel\-good soulful house  and disco selection.
 
-190 songs - 13 hr 18 min
+191 songs - 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [50//50 \- Edit](https://open.spotify.com/track/40bj08VSaRDyZ2Z94ystNs) | [Vantage](https://open.spotify.com/artist/6owH8F2INpb18PhnISiVh2) | [50//50](https://open.spotify.com/album/1nQjkZ6oJDZDs60VWtdorn) | 2:09 | 2022-03-11 |  |
 | [A Second to Midnight](https://open.spotify.com/track/3WYqZhwammjFtFLfZfT38u) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [DISCO: Guest List Edition](https://open.spotify.com/album/48ausuYzcDZAqD7ML9sPcU) | 3:27 | 2022-03-11 |  |
 | [A Second To Midnight](https://open.spotify.com/track/3lwKYKDxE2tNDDC24WAYRT) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [A Second To Midnight](https://open.spotify.com/album/1y9DC2DMgsDKihwH0C0fU8) | 3:27 | 2021-12-07 | 2022-07-06 |
+| [Affirmations \(feat\. Anelisa Lamola\)](https://open.spotify.com/track/38SHfJCoV4jdpeqX5lcn6H) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [Anelisa Lamola](https://open.spotify.com/artist/4JQspweC9s9YK2H81Nylvi) | [Affirmations \(feat\. Anelisa Lamola\)](https://open.spotify.com/album/60OriTct3aVri7Q1btWjRo) | 3:21 | 2023-07-14 |  |
 | [Ain't No Other Man \- Rework](https://open.spotify.com/track/2arAYoniFUo3ojtcDEIhdl) | [Murphy's Law \(UK\)](https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1) | [Ain't No Other Man \(Rework\)](https://open.spotify.com/album/6iHOTd9FBBOLSDfJp8mFFq) | 2:34 | 2023-06-09 |  |
 | [All Along](https://open.spotify.com/track/3RPHlHhb6g0rqcMVwwfxcF) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [All Along](https://open.spotify.com/album/7m3BQyRSefzOAxElf6SCnt) | 3:23 | 2021-12-07 | 2023-03-04 |
 | [All For The Disco](https://open.spotify.com/track/5cxHKq2KRxwq8v6xQUQJq3) | [Louise DaCosta](https://open.spotify.com/artist/3AyRl6kw1IiwpXPMyhdcR5) | [All For The Disco](https://open.spotify.com/album/6ts93erLIrk0aRwE8h0ex0) | 3:13 | 2021-12-07 | 2022-07-29 |
@@ -22,7 +23,7 @@
 | [As The Night Moves In](https://open.spotify.com/track/66RBjymDyZBEwXeD4JpY65) | [MAXI MERAKI](https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm) | [As The Night Moves In](https://open.spotify.com/album/5OQOHoGN23J7aa1axV6gNv) | 5:40 | 2021-12-07 | 2023-01-29 |
 | [At Last Un Briquet](https://open.spotify.com/track/0vqpV8vk3oPPo3tjV49kx1) | [Donny Rotten](https://open.spotify.com/artist/542Fuv2U5rjcCdAu1ZCTaZ) | [At Last Un Briquet / Looks Like It Tastes](https://open.spotify.com/album/60fDwIkf9sGiCqiXDG56wH) | 3:43 | 2021-12-07 | 2022-07-14 |
 | [Back 2 Love \(feat\. Desmond 'DSP' Powell\)](https://open.spotify.com/track/6fjsLcQMJ0OfTMfy3wEYAs) | [Soul Clap](https://open.spotify.com/artist/0PEfTatx7R08s3nFrn9teD), [Desmond 'DSP' Powell](https://open.spotify.com/artist/4zFLlx7irg5GE7c9cluHFh) | [World](https://open.spotify.com/album/0oDXrBB4UcZZSWsPMbnZdc) | 5:18 | 2021-12-07 | 2022-07-29 |
-| [Back Tae Ayr](https://open.spotify.com/track/1AH6GkZnybM0R5WZZTj7GF) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Back Tae Ayr](https://open.spotify.com/album/6YGqlfu2U6aUkzPSViek27) | 5:32 | 2021-12-07 |  |
+| [Back Tae Ayr](https://open.spotify.com/track/1AH6GkZnybM0R5WZZTj7GF) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Back Tae Ayr](https://open.spotify.com/album/6YGqlfu2U6aUkzPSViek27) | 5:32 | 2021-12-07 | 2023-07-20 |
 | [Bad Company \- Edit](https://open.spotify.com/track/2TGts36e6e5c9z1FiJKuny) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Bad Company](https://open.spotify.com/album/3fU9sdHcs0PE746ecLsr0O) | 3:28 | 2023-06-09 |  |
 | [Believe In You](https://open.spotify.com/track/4jg1AyAqpMyNoSHNN6uw9P) | [Adelphi Music Factory](https://open.spotify.com/artist/27cAR2QA0zM5v0KL9JNWwe), [Reigns](https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG) | [Believe In You](https://open.spotify.com/album/2v0KpPRBm2rMYHMWIMeUJj) | 2:54 | 2022-03-11 | 2022-06-27 |
 | [Better Day \(feat\. Nile Rodgers & Josh Barry\)](https://open.spotify.com/track/3PdLMTut7spFf9leWqBrjK) | [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz), [Josh Barry](https://open.spotify.com/artist/6oruQTIjrgFYzOSKhp7Kt6) | [Better Day \(feat\. Nile Rodgers & Josh Barry\)](https://open.spotify.com/album/67B57RL961NRFHyce5dYEK) | 2:29 | 2021-12-07 |  |

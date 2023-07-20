@@ -16032,6 +16032,28 @@
     {
       "album": {
         "name": "sommer (feat. CRO)",
+        "url": "https://open.spotify.com/album/4UK5FLZLXuCFJwtNZg8l8L"
+      },
+      "artists": [
+        {
+          "name": "Casper",
+          "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
+        },
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "date_added": "2023-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171743,
+      "name": "sommer (feat. CRO)",
+      "url": "https://open.spotify.com/track/1SaSTeiR7cqi5fUXZlGr4e"
+    },
+    {
+      "album": {
+        "name": "sommer (feat. CRO)",
         "url": "https://open.spotify.com/album/0pfTadD9mPn1UeOMnMuYEC"
       },
       "artists": [
@@ -16046,7 +16068,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 171743,
       "name": "sommer (feat. CRO)",
       "url": "https://open.spotify.com/track/4VY7aTxsMypdajrZULZFtg"

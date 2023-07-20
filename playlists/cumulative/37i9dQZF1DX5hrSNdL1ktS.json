@@ -1803,6 +1803,24 @@
     },
     {
       "album": {
+        "name": "Flashes",
+        "url": "https://open.spotify.com/album/2X9T16fWPuVDVC3gzffIWe"
+      },
+      "artists": [
+        {
+          "name": "Steff",
+          "url": "https://open.spotify.com/artist/0Gh7dmIj59Sa4JPy9x0yUt"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165250,
+      "name": "Flashes",
+      "url": "https://open.spotify.com/track/60BAHD2wgUvk1xcGFt5bnT"
+    },
+    {
+      "album": {
         "name": "EMOJI",
         "url": "https://open.spotify.com/album/2gTjDwNcjPGLMmy19qUw5u"
       },

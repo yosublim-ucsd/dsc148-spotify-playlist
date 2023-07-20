@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: CRi
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,049 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,050 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 79 | [Rainy Summer](https://open.spotify.com/track/6Q9BxXLOidwHfjeN9qcn2G) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Rainy Summer](https://open.spotify.com/album/4PMKfFHNF1Pa6jbn0BLod3) | 4:08 |
 | 80 | [Salty](https://open.spotify.com/track/5lYubOsQ8GlApPS0m5jQLU) | [Sam Divine](https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ), [Dope Earth Alien](https://open.spotify.com/artist/2wajUFt1bQDrz8A73tQrkN) | [Salty](https://open.spotify.com/album/7EquGOpg65HBsSzLmPVGWM) | 2:56 |
 
-Snapshot ID: `MCwyOGVmNDRlNWIwNGVkYWQxMzhkZTBjYjYzOTk1MDVlNGVkMmJiMzY2`
+Snapshot ID: `MCwzYzM0NDdkYTQxMGQyZDkwZGE5ZmY0NGIxMDhkYjQwNDZkMWVhNGVl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  <a href="https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr?si=03c72ef39b2b4f21">Red Rocks Worship<a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 974,075 likes - 100 songs - 9 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 974,164 likes - 100 songs - 9 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 58 | [Bless His Name / To Him Who Sits On the Throne \- Live](https://open.spotify.com/track/3wpiepnrK0D74xa4sFqv4a) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Kyle Howard](https://open.spotify.com/artist/7dgtOfOriC8XNxk16McWuo) | [Bless His Name \(Live from Urbana\)](https://open.spotify.com/album/6Paas7aU7k5o05Q1yL4JP2) | 9:42 |
 | 59 | [My Soul Sings](https://open.spotify.com/track/2HRanyDAEkbZkVBSdyVAPI) | [Free Worship](https://open.spotify.com/artist/1isLgyF8G4bJdJzTrQPxV9) | [My Soul Sings](https://open.spotify.com/album/72LxQEwNtctTwLPkxJuCm3) | 6:00 |
 | 60 | [Jesus Does \- Live From The Ryman](https://open.spotify.com/track/3mVhKKWyw7Vs1PB1LiiyS1) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Live From The Ryman](https://open.spotify.com/album/6MIa1NpLwpjAHqaKK08XFI) | 6:12 |
-| 61 | [Fear is Not My Future \- Radio Version](https://open.spotify.com/track/6VCUTG3DbG8PpkqSvLogfa) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Fear is Not My Future \(Radio Version\)](https://open.spotify.com/album/4CuurdO1lDLMmHDjfzRdmk) | 4:02 |
+| 61 | [Fear is Not My Future \- Radio Version](https://open.spotify.com/track/6VCUTG3DbG8PpkqSvLogfa) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Fear is Not My Future \(Radio Version\)](https://open.spotify.com/album/4CuurdO1lDLMmHDjfzRdmk) | 4:02 |
 | 62 | [Surely \- Radio Version](https://open.spotify.com/track/75W7u2mAkFmbJFiBxsQArz) | [Fearless](https://open.spotify.com/artist/1KeuqYY2cbIHQLKp7YcTOD) | [Surely \(Radio Version\)](https://open.spotify.com/album/00cHb3HCdtsBW4EHO7QFdv) | 3:32 |
 | 63 | [Lead Me Down](https://open.spotify.com/track/2HyOtUp1vp7Fe4B9mHSMu5) | [Orphan No More Co](https://open.spotify.com/artist/7EYuj3Lwk6FkWeeIbXs87F) | [Lead Me Down](https://open.spotify.com/album/2oMI52ksV9OmXmoTeCfp7F) | 5:28 |
 | 64 | [Live Again](https://open.spotify.com/track/1K2dxpyTXiR5xcwo0ZrjBI) | [ONE HOUSE](https://open.spotify.com/artist/6RC9lZOZqIxeg4g38SXNLn), [Kyle McHargh](https://open.spotify.com/artist/6pKGdTf8wPcOSzeNGN1Or3), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk) | [Live Again](https://open.spotify.com/album/7N1EAGw0mr5jFoZ1acuPap) | 8:42 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 99 | [He Wears A Crown](https://open.spotify.com/track/5lNo4SMJW33l7Izhu6CY9b) | [Bryan McCleery](https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1) | [He Wears A Crown](https://open.spotify.com/album/1XgBnHO6xTm7Tzodli0rsZ) | 3:37 |
 | 100 | [Let It Out \- Live](https://open.spotify.com/track/130Z8jENclLxJuOzXuAAXc) | [Motion Worship](https://open.spotify.com/artist/4ghDIHGoTSl97sUXTjUQ1m) | [Let The River Flow \(Live\)](https://open.spotify.com/album/6pauFB6htKQaTjyiHOhmK2) | 5:37 |
 
-Snapshot ID: `MCxiOGI1ZDdlYWE3ZGZhNzYwZDI1ODg0MzA2ZmNmZTBhMTA1ZjRlN2Ri`
+Snapshot ID: `MCxjZTgxYWI4NzYwMjExZjJlMjJkNzU5OTgwNTY5NzJjN2UxNWZkZDM5`

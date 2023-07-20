@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,723 songs - 3 day 5 hr 16 min
+1,724 songs - 3 day 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1334,6 +1334,7 @@
 | [Solitudine](https://open.spotify.com/track/6YAlzxrja9WNcYHBukp1ZM) | [Guilliaume Om](https://open.spotify.com/artist/59TontIdB13G6OPjg6m7NN) | [Solitudine](https://open.spotify.com/album/613rQEf20H9ku0bsP2zFjs) | 2:37 | 2021-09-28 | 2021-09-29 |
 | [Solo](https://open.spotify.com/track/1sOjDGtITXtKYpKPpoeIZA) | [Andy Gbormittah](https://open.spotify.com/artist/2mIwIuVk0LJ3Yx1OF9oemI), [Jake Warren](https://open.spotify.com/artist/4qpQbtCd9KCxdSNHsiiYc2), [Silence & Air](https://open.spotify.com/artist/6nz1OqkcYolAH8NHMQEqAs) | [Solo](https://open.spotify.com/album/3mXuaukTVqChZzcgkOR7I6) | 1:46 | 2021-04-24 | 2022-04-15 |
 | [Something To Remember \- Piano Score](https://open.spotify.com/track/5DrArCnMeTvCrmfxIsvPCL) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Something To Remember \(Piano Score\)](https://open.spotify.com/album/5VQhkRSprjtaGMXC1j4phf) | 4:36 | 2021-03-08 | 2022-04-18 |
+| [Somewhere](https://open.spotify.com/track/1xR0V8wNOmGjNd9L6lo7wM) | [Elijah Reeves](https://open.spotify.com/artist/70bBmVAlNo8W2qGhWp1mR8) | [Somewhere](https://open.spotify.com/album/6OqeW7XaGyyQvz6BHGNeL7) | 3:05 | 2023-07-06 |  |
 | [Sommarvals](https://open.spotify.com/track/0tL0JB08d5De5zBko245Y8) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Midsommarnatt](https://open.spotify.com/album/3MGHKETrexY8Hl5lgry1uH) | 2:56 | 2022-09-29 |  |
 | [Sommernat](https://open.spotify.com/track/4S9rW1edmnJe2xBGSjvj49) | [Marta Lien](https://open.spotify.com/artist/0sUO8DtYY1h8PWvc2ymvuY) | [Sommernat](https://open.spotify.com/album/2Hoc65x31zXtnFP4zJoRc8) | 2:28 | 2021-07-10 | 2022-06-01 |
 | [Song for A](https://open.spotify.com/track/181ybi6b0dYJBcQzETKv67) | [Charlie Key](https://open.spotify.com/artist/7ELVHaQs7k7LmWozyBJXzM) | [Song for A](https://open.spotify.com/album/6txt6BEwqboOhGfyZk5XkY) | 2:25 | 2021-05-21 | 2022-04-20 |
@@ -1427,7 +1428,7 @@
 | [Tempo dell’Oceano](https://open.spotify.com/track/0ruAGzEvwR2YZOzqoXI0Hk) | [Baldo Aquila](https://open.spotify.com/artist/0CIRMCbCwPFFmfpBSWVqWa) | [Tempo dell’Oceano](https://open.spotify.com/album/7LDWDL66Jt2u1S9WaH2aVr) | 2:24 | 2022-03-24 | 2022-03-30 |
 | [Temptation](https://open.spotify.com/track/2RcOnnCmS9PEALbqPmP4EX) | [High Blue Sky](https://open.spotify.com/artist/59jD9qllQjcxvBMV5YqyUh) | [Temptation](https://open.spotify.com/album/4qdCbzbMXrzSALdA9ZICnE) | 3:09 | 2021-03-15 | 2022-04-03 |
 | [Tender](https://open.spotify.com/track/5HGaUs9OnozY3hTH4Uidnt) | [Lea Ardella](https://open.spotify.com/artist/0I5BqWqbu0DEpAgepIodnm) | [Tender](https://open.spotify.com/album/4iDJ3O7d2OIW2hIy7MDGpL) | 3:05 | 2021-04-21 | 2022-07-29 |
-| [Tenderly](https://open.spotify.com/track/7JMcuZdww7k1eQIRPbpRoG) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Tenderly](https://open.spotify.com/album/27y3rhrFPJOAIVMDJKE47t) | 2:25 | 2022-07-27 |  |
+| [Tenderly](https://open.spotify.com/track/7JMcuZdww7k1eQIRPbpRoG) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Tenderly](https://open.spotify.com/album/27y3rhrFPJOAIVMDJKE47t) | 2:25 | 2022-07-27 | 2023-07-20 |
 | [Testimony](https://open.spotify.com/track/1NgM2SEuhj7pAzeVTF6Oe5) | [Genevieve Melton](https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr) | [Testimony \(EP\)](https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq) | 2:44 | 2021-12-18 | 2022-12-18 |
 | [That day](https://open.spotify.com/track/6pvG7rCh9GQQTWUCkPVjDB) | [Leroy Bolander](https://open.spotify.com/artist/667m0gdFzATbXE189xJwOl) | [That day](https://open.spotify.com/album/5ygk6D7doJkoxOJs9uNLJp) | 1:58 | 2021-05-13 | 2022-04-21 |
 | [That kind of day](https://open.spotify.com/track/2HrQsRsCx8Pnv9BYNgmVwz) | [Cauã Cavalcanti Azevedo](https://open.spotify.com/artist/1FOppiOpSLfxmS2pYUWXal) | [That kind of day](https://open.spotify.com/album/0uOyOXBYsr53gf8Jnscb3K) | 2:28 | 2021-03-19 | 2022-03-27 |

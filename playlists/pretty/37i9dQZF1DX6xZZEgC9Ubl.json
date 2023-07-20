@@ -1,12 +1,12 @@
 {
   "description": "Emo feels for the misunderstood. Cover: Lil Peep",
-  "num_followers": 1489743,
+  "num_followers": 1489976,
   "original_name": "tear drop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNWQxZWFmZDljZjRkNmU3YTU5OTdlNTYxM2I3NGRiYmExMjVmZGYx",
+  "snapshot_id": "MCw2YjNkYzY4MzJmOGRmYjYyNjI5MGE1OTg5YTJlNTg1NDkwN2EyNDcz",
   "tracks": [
     {
       "added_at": "2023-04-12 16:57:33",
@@ -193,24 +193,20 @@
       "url": "https://open.spotify.com/track/33LizV83s7z1gwtmLiKlmv"
     },
     {
-      "added_at": "2023-06-30 07:33:00",
+      "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "I'm Not Human (feat. Lil Uzi Vert)",
-        "url": "https://open.spotify.com/album/5M1l0LVWP5xtaimoomh4MY"
+        "name": "nothings ever good enough",
+        "url": "https://open.spotify.com/album/5UHC2JN3ck4XPYPjngia2G"
       },
       "artists": [
         {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
         }
       ],
-      "duration_ms": 195853,
-      "name": "I'm Not Human",
-      "url": "https://open.spotify.com/track/1LWlpRhu9jUkDK47xzUzu1"
+      "duration_ms": 131213,
+      "name": "emotions",
+      "url": "https://open.spotify.com/track/5ls62WNKHUUrdF3r1cv83T"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -229,20 +225,24 @@
       "url": "https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz"
     },
     {
-      "added_at": "2023-04-12 16:57:33",
+      "added_at": "2023-06-30 07:33:00",
       "album": {
-        "name": "nothings ever good enough",
-        "url": "https://open.spotify.com/album/5UHC2JN3ck4XPYPjngia2G"
+        "name": "I'm Not Human (feat. Lil Uzi Vert)",
+        "url": "https://open.spotify.com/album/5M1l0LVWP5xtaimoomh4MY"
       },
       "artists": [
         {
-          "name": "iann dior",
-          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 131213,
-      "name": "emotions",
-      "url": "https://open.spotify.com/track/5ls62WNKHUUrdF3r1cv83T"
+      "duration_ms": 195853,
+      "name": "I'm Not Human",
+      "url": "https://open.spotify.com/track/1LWlpRhu9jUkDK47xzUzu1"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -413,22 +413,6 @@
       "url": "https://open.spotify.com/track/4vaxvNDaLSoD36iZX515ug"
     },
     {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
-        "name": "Mine",
-        "url": "https://open.spotify.com/album/5X1ugJYc0B57rw0OnTwBKE"
-      },
-      "artists": [
-        {
-          "name": "1nonly",
-          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
-        }
-      ],
-      "duration_ms": 154893,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/4O1UcKLwZ92kxNTn3u0voN"
-    },
-    {
       "added_at": "2023-05-23 18:50:26",
       "album": {
         "name": "I Won't Beg for You",
@@ -443,6 +427,22 @@
       "duration_ms": 123870,
       "name": "I Won't Beg for You",
       "url": "https://open.spotify.com/track/6krUUNp4e2mIOzNzRIexdY"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
+        "name": "Mine",
+        "url": "https://open.spotify.com/album/5X1ugJYc0B57rw0OnTwBKE"
+      },
+      "artists": [
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        }
+      ],
+      "duration_ms": 154893,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/4O1UcKLwZ92kxNTn3u0voN"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -481,22 +481,6 @@
       "url": "https://open.spotify.com/track/2zs3ErwfEyzI4K2H9vEnTD"
     },
     {
-      "added_at": "2023-04-25 17:32:56",
-      "album": {
-        "name": "WHERE DOES YOUR SPIRIT GO?",
-        "url": "https://open.spotify.com/album/2nWy6y7E2KXy5apVUftkRZ"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 201183,
-      "name": "WHERE DOES YOUR SPIRIT GO?",
-      "url": "https://open.spotify.com/track/63XetbuuKLMyjIaVdZtFP1"
-    },
-    {
       "added_at": "2023-04-12 16:57:33",
       "album": {
         "name": "The Search",
@@ -511,6 +495,22 @@
       "duration_ms": 269184,
       "name": "I Miss The Days",
       "url": "https://open.spotify.com/track/3ebfDw8WEbf0DxGh47R2lo"
+    },
+    {
+      "added_at": "2023-04-25 17:32:56",
+      "album": {
+        "name": "WHERE DOES YOUR SPIRIT GO?",
+        "url": "https://open.spotify.com/album/2nWy6y7E2KXy5apVUftkRZ"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 201183,
+      "name": "WHERE DOES YOUR SPIRIT GO?",
+      "url": "https://open.spotify.com/track/63XetbuuKLMyjIaVdZtFP1"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1149,6 +1149,22 @@
       "url": "https://open.spotify.com/track/2V1UjIW8DUV9jzpcOffRXk"
     },
     {
+      "added_at": "2023-05-24 19:35:11",
+      "album": {
+        "name": "kenopsia",
+        "url": "https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp"
+      },
+      "artists": [
+        {
+          "name": "quannnic",
+          "url": "https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu"
+        }
+      ],
+      "duration_ms": 245338,
+      "name": "snarky",
+      "url": "https://open.spotify.com/track/1PSKMHBHkR0nbxMWNauF9r"
+    },
+    {
       "added_at": "2023-04-12 16:57:33",
       "album": {
         "name": "Ethereal",
@@ -1169,20 +1185,20 @@
       "url": "https://open.spotify.com/track/3JIohlY3x8YLOGHdfoWxyR"
     },
     {
-      "added_at": "2023-05-24 19:35:11",
+      "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "kenopsia",
-        "url": "https://open.spotify.com/album/72ilxCJIul1iivwSTAdoNp"
+        "name": "LONEWOLF",
+        "url": "https://open.spotify.com/album/1WPjRp4G0l2DRKye8QiCMz"
       },
       "artists": [
         {
-          "name": "quannnic",
-          "url": "https://open.spotify.com/artist/6X9yxRiccMK40GHKfUFZEu"
+          "name": "convolk",
+          "url": "https://open.spotify.com/artist/3ddT1Q3KQAm1G7UcIfz5KJ"
         }
       ],
-      "duration_ms": 245338,
-      "name": "snarky",
-      "url": "https://open.spotify.com/track/1PSKMHBHkR0nbxMWNauF9r"
+      "duration_ms": 159149,
+      "name": "I fucked up",
+      "url": "https://open.spotify.com/track/6ue8qsdLrXbj9UDmhnYkEa"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -1199,22 +1215,6 @@
       "duration_ms": 121369,
       "name": "Kids Are Growing Up (Part 1)",
       "url": "https://open.spotify.com/track/6bVtAHmzr3X8pwJ2TpeF2G"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
-        "name": "LONEWOLF",
-        "url": "https://open.spotify.com/album/1WPjRp4G0l2DRKye8QiCMz"
-      },
-      "artists": [
-        {
-          "name": "convolk",
-          "url": "https://open.spotify.com/artist/3ddT1Q3KQAm1G7UcIfz5KJ"
-        }
-      ],
-      "duration_ms": 159149,
-      "name": "I fucked up",
-      "url": "https://open.spotify.com/track/6ue8qsdLrXbj9UDmhnYkEa"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "She Likes My Tattoos",
-        "url": "https://open.spotify.com/album/5K2xRnUFqZBB1FoWoegvp7"
-      },
-      "artists": [
-        {
-          "name": "Pardyalone",
-          "url": "https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG"
-        }
-      ],
-      "duration_ms": 164327,
-      "name": "She Likes My Tattoos",
-      "url": "https://open.spotify.com/track/2Lle3tbO97Dd4I3deOZ92g"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
         "name": "Violets",
         "url": "https://open.spotify.com/album/2VjD8t0WIbujLu8ksPd7yg"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 115263,
       "name": "Violets",
       "url": "https://open.spotify.com/track/3Ukt7NkeA9noJ8b0vU8sNO"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
+        "name": "She Likes My Tattoos",
+        "url": "https://open.spotify.com/album/5K2xRnUFqZBB1FoWoegvp7"
+      },
+      "artists": [
+        {
+          "name": "Pardyalone",
+          "url": "https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG"
+        }
+      ],
+      "duration_ms": 164327,
+      "name": "She Likes My Tattoos",
+      "url": "https://open.spotify.com/track/2Lle3tbO97Dd4I3deOZ92g"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -1479,8 +1479,8 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "PRIMADONA",
-        "url": "https://open.spotify.com/album/5CoC52wRzUgzrxgaxt5oMf"
+        "name": "It Was Fun While It Lasted (Deluxe)",
+        "url": "https://open.spotify.com/album/2LTrehfUzphv3iBocifvSY"
       },
       "artists": [
         {
@@ -1488,9 +1488,9 @@
           "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
         }
       ],
-      "duration_ms": 114200,
-      "name": "PRIMADONA",
-      "url": "https://open.spotify.com/track/2mM2XCzLaXtiKbqfFqtZOh"
+      "duration_ms": 163755,
+      "name": "Salt",
+      "url": "https://open.spotify.com/track/14SrQnUA5iuXscO2EwBGS7"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
+        "name": "thishouseisnotahome",
+        "url": "https://open.spotify.com/album/5luCmuvUUH79Vm21NB9de2"
+      },
+      "artists": [
+        {
+          "name": "surrenderdorothy",
+          "url": "https://open.spotify.com/artist/5DyJ1PzYEPstcP8m0q8bZp"
+        }
+      ],
+      "duration_ms": 80561,
+      "name": "whilesupplieslast",
+      "url": "https://open.spotify.com/track/2qG5bIQzb1oDwXu4aa2W4Y"
+    },
+    {
+      "added_at": "2023-04-12 16:57:33",
+      "album": {
         "name": "Disappointment (feat. Rxseboy)",
         "url": "https://open.spotify.com/album/505Jfs48Lucab9xT3Vklyd"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 142092,
       "name": "Disappointment (feat. Rxseboy)",
       "url": "https://open.spotify.com/track/4jU4Go8TPo3bkvRQSYbp8x"
-    },
-    {
-      "added_at": "2023-04-12 16:57:33",
-      "album": {
-        "name": "thishouseisnotahome",
-        "url": "https://open.spotify.com/album/5luCmuvUUH79Vm21NB9de2"
-      },
-      "artists": [
-        {
-          "name": "surrenderdorothy",
-          "url": "https://open.spotify.com/artist/5DyJ1PzYEPstcP8m0q8bZp"
-        }
-      ],
-      "duration_ms": 80561,
-      "name": "whilesupplieslast",
-      "url": "https://open.spotify.com/track/2qG5bIQzb1oDwXu4aa2W4Y"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -1599,8 +1599,8 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "It Was Fun While It Lasted (Deluxe)",
-        "url": "https://open.spotify.com/album/2LTrehfUzphv3iBocifvSY"
+        "name": "PRIMADONA",
+        "url": "https://open.spotify.com/album/5CoC52wRzUgzrxgaxt5oMf"
       },
       "artists": [
         {
@@ -1608,9 +1608,9 @@
           "url": "https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD"
         }
       ],
-      "duration_ms": 163755,
-      "name": "Salt",
-      "url": "https://open.spotify.com/track/14SrQnUA5iuXscO2EwBGS7"
+      "duration_ms": 114200,
+      "name": "PRIMADONA",
+      "url": "https://open.spotify.com/track/2mM2XCzLaXtiKbqfFqtZOh"
     },
     {
       "added_at": "2023-04-12 16:57:33",
@@ -1643,30 +1643,6 @@
       "duration_ms": 154482,
       "name": "Key To My Heart",
       "url": "https://open.spotify.com/track/3safBWMqYnBJtNA2428Hmz"
-    },
-    {
-      "added_at": "2023-05-26 04:00:00",
-      "album": {
-        "name": "wallflower (feat. Ouse & Sn\u00f8w)",
-        "url": "https://open.spotify.com/album/45ZhRluyUrfxPeRXlryi2L"
-      },
-      "artists": [
-        {
-          "name": "Powfu",
-          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
-        },
-        {
-          "name": "Ouse",
-          "url": "https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn"
-        },
-        {
-          "name": "Sn\u00f8w",
-          "url": "https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP"
-        }
-      ],
-      "duration_ms": 197316,
-      "name": "wallflower (feat. Ouse & Sn\u00f8w)",
-      "url": "https://open.spotify.com/track/09jtgaRGeRRhNqRiTpZQR5"
     },
     {
       "added_at": "2023-05-24 19:35:11",
@@ -1717,6 +1693,30 @@
       "url": "https://open.spotify.com/track/664cU3y63AUikovlndCaNE"
     },
     {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "wallflower (feat. Ouse & Sn\u00f8w)",
+        "url": "https://open.spotify.com/album/45ZhRluyUrfxPeRXlryi2L"
+      },
+      "artists": [
+        {
+          "name": "Powfu",
+          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        },
+        {
+          "name": "Ouse",
+          "url": "https://open.spotify.com/artist/6R29RU7eyQHSNc5kaHPWJn"
+        },
+        {
+          "name": "Sn\u00f8w",
+          "url": "https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP"
+        }
+      ],
+      "duration_ms": 197316,
+      "name": "wallflower (feat. Ouse & Sn\u00f8w)",
+      "url": "https://open.spotify.com/track/09jtgaRGeRRhNqRiTpZQR5"
+    },
+    {
       "added_at": "2023-06-30 07:33:00",
       "album": {
         "name": "Used and Abused",
@@ -1735,18 +1735,18 @@
     {
       "added_at": "2023-04-12 16:57:33",
       "album": {
-        "name": "get me high",
-        "url": "https://open.spotify.com/album/4MTI29E0eV4q2AvInfnqUA"
+        "name": "second thoughts EP",
+        "url": "https://open.spotify.com/album/5aygVeVAzYTGLf2vsNAaPQ"
       },
       "artists": [
         {
-          "name": "Marco Luka",
-          "url": "https://open.spotify.com/artist/4tjqHer0BFQbJ1FVyWhffM"
+          "name": "MICO",
+          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
         }
       ],
-      "duration_ms": 105257,
-      "name": "get me high",
-      "url": "https://open.spotify.com/track/4XJUPTlWg7AqgR5x50GRst"
+      "duration_ms": 171401,
+      "name": "lie lie lie",
+      "url": "https://open.spotify.com/track/7DnaDxRbjdhEp6GJRMKbVu"
     }
   ],
   "unique_name": "tear drop",

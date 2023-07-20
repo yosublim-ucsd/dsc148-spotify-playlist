@@ -1,12 +1,12 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: TOBi",
-  "num_followers": 6078,
+  "num_followers": 6092,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzU1YTBlNTdiOTMzNDgyNWFjMDg3YTk2ZjY3ZmEyZWRlZjczMjQz",
+  "snapshot_id": "MCxlYmQyNTg0ZWVhMzQ3YzZjNmExMDYzY2Q5YTc0ZTVhMGRmYTBmOWEx",
   "tracks": [
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1191,18 +1191,22 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "NightmareZ",
-        "url": "https://open.spotify.com/album/2Penu08dmmkH4PNmevsh4c"
+        "name": "Fleurever",
+        "url": "https://open.spotify.com/album/3eUG46qXFv43R7IzZARnPH"
       },
       "artists": [
         {
-          "name": "Duvy",
-          "url": "https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy"
+          "name": "Jazz Cartier",
+          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
+        },
+        {
+          "name": "KTOE",
+          "url": "https://open.spotify.com/artist/597u4DRndwoUDP5uJNOJ0L"
         }
       ],
-      "duration_ms": 109446,
-      "name": "NightmareZ",
-      "url": "https://open.spotify.com/track/6VY3ID6avXR4EyraG6SDKz"
+      "duration_ms": 142640,
+      "name": "\u2022 RIGHT NOW",
+      "url": "https://open.spotify.com/track/1L5iqYFGMpKnmNjMgtiq0k"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1223,22 +1227,18 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Fleurever",
-        "url": "https://open.spotify.com/album/3eUG46qXFv43R7IzZARnPH"
+        "name": "NightmareZ",
+        "url": "https://open.spotify.com/album/2Penu08dmmkH4PNmevsh4c"
       },
       "artists": [
         {
-          "name": "Jazz Cartier",
-          "url": "https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ"
-        },
-        {
-          "name": "KTOE",
-          "url": "https://open.spotify.com/artist/597u4DRndwoUDP5uJNOJ0L"
+          "name": "Duvy",
+          "url": "https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy"
         }
       ],
-      "duration_ms": 142640,
-      "name": "\u2022 RIGHT NOW",
-      "url": "https://open.spotify.com/track/1L5iqYFGMpKnmNjMgtiq0k"
+      "duration_ms": 109446,
+      "name": "NightmareZ",
+      "url": "https://open.spotify.com/track/6VY3ID6avXR4EyraG6SDKz"
     },
     {
       "added_at": "2023-07-14 04:01:00",

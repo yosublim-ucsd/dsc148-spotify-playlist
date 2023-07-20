@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag! Lyssna på veckans hetaste nya releaser i New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,716 likes - 113 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,719 likes - 113 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 26 | [You & I](https://open.spotify.com/track/1EuWkVH5tfxmvVNGVnNu1Y) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [You & I](https://open.spotify.com/album/5sXGarr3y9MdqxnO8MFlGz) | 3:00 |
 | 27 | [Främling 40](https://open.spotify.com/track/65oi0g8k5rMsr7KNMsJDbQ) | [Carola](https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt), [Nause](https://open.spotify.com/artist/4PVn1b2WnnXdq80C7uaZLZ) | [Främling 40](https://open.spotify.com/album/1HTbKjT9FlVHtsF8AAf5Xv) | 2:32 |
 | 28 | [Paradise \- Radio Cut](https://open.spotify.com/track/1yCSU0PHEuLaF8M0SCeoUe) | [Junge Junge](https://open.spotify.com/artist/721T2PETMLaAkijbYu05VD), [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Paradise](https://open.spotify.com/album/6sdF2cnRWSzhVCh28cuKVy) | 2:32 |
-| 29 | [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 |
+| 29 | [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 |
 | 30 | [S91](https://open.spotify.com/track/7EpOXgSRgnglRWr86pZfGU) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [S91](https://open.spotify.com/album/0bgvd5Xd52TX61R8uhaISK) | 2:53 |
 | 31 | [Molto Bella](https://open.spotify.com/track/5RlTxipuBJCbJoJG48CBQH) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp), [Shenzi Beats](https://open.spotify.com/artist/5WYsyPCS4zOpvqAtBgrGqg) | [Molto Bella](https://open.spotify.com/album/2iKg8SKdNTsQuPeQ254DMu) | 1:56 |
 | 32 | [Have Fun Forgetting About Me](https://open.spotify.com/track/532tXrhlAGohExwprUgERu) | [Lucas Nord](https://open.spotify.com/artist/4ZUg3IUvAPAl8coXQAxaXd), [Husky](https://open.spotify.com/artist/74AV853eXs56Dqe8TSahzk) | [Have Fun Forgetting About Me](https://open.spotify.com/album/0E0xCpOd2zUwQzNc6bmClu) | 2:49 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 112 | [Good Girls Ain't No Fun](https://open.spotify.com/track/0eVVwxPYBzVMFOGDUpaw2f) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Good Girls Ain't No Fun](https://open.spotify.com/album/2mcP7rL0a2kooZeNjax91u) | 2:22 |
 | 113 | [Wotcha Call Strength](https://open.spotify.com/track/7yhLOvUMQJkwiKEr6pekpF) | [Boot Camp Clik](https://open.spotify.com/artist/3ho167y1Ac7ANj2qkbJUCJ), [Ruste Juxx](https://open.spotify.com/artist/34jkD9MaYCGeY9V1zqDGEP), [Rockness Monsta](https://open.spotify.com/artist/0RgXcM4uOS7jTIKu54U6Fw), [Smif\-N\-Wessun](https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0), [O.G.C.](https://open.spotify.com/artist/73h5znw4QchoWo2FJXBvp5), [Buckshot](https://open.spotify.com/artist/5Fc4E9FtAoP4UHXWh6oLpS), [The Arcitype](https://open.spotify.com/artist/06l5ehprKkOCp9kI9eYCik) | [Wotcha Call Strength](https://open.spotify.com/album/5NjJwIELNVce2k2HSQ51pf) | 5:33 |
 
-Snapshot ID: `MCxkMDNmZmE5NWYzMTQ3NjI3NTQzMjc2ZTllNTg2MWFiZDMzYzk4MWYw`
+Snapshot ID: `MCxhODgwYTAwMmIwMDFiOWI0ZjkyMGU0NWQ2MmJlNTczYTkzMjg5ZjE2`

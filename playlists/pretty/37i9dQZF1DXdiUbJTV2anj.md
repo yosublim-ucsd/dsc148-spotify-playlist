@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 
 > Heavy new bands you need to have an eye on\. Cover: Static Dress
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,658 likes - 55 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,715 likes - 55 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Echolalia](https://open.spotify.com/track/0cXHEFaNtrgXuoBtOiaZDo) | [Faetooth](https://open.spotify.com/artist/6bAM7jeIX4pI5lZ0QoSZjt) | [Remnants of the Vessel](https://open.spotify.com/album/0LniiF1MjvYW8br5Eg7saD) | 5:06 |
-| 2 | [Courtney, just relax \(feat\. World Of Pleasure\)](https://open.spotify.com/track/5tX8mfhO1TJ0ItMtswEYNO) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi), [World of Pleasure](https://open.spotify.com/artist/3SR0KKxXYspg7mJwSUsGBb) | [Rouge Carpet Disaster \(Redux\)](https://open.spotify.com/album/4KNlsuhwErf5tjp1qh3iCn) | 2:55 |
+| 2 | [Courtney, just relax \(feat\. World Of Pleasure\)](https://open.spotify.com/track/5tX8mfhO1TJ0ItMtswEYNO) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi) | [Rouge Carpet Disaster \(Redux\)](https://open.spotify.com/album/4KNlsuhwErf5tjp1qh3iCn) | 2:55 |
 | 3 | [U L C E R](https://open.spotify.com/track/2qc0VskDDd30YhBibl8b5e) | [Spiritworld](https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE) | [DEATHWESTERN](https://open.spotify.com/album/2OLqIZlftkG4KRGqno7ScY) | 3:06 |
 | 4 | [Rip It Out](https://open.spotify.com/track/6FPIh5TqPtYNFUbNN4aJ4R) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [Rip It Out](https://open.spotify.com/album/5jJ05vdKJTQCd6QMsevIEg) | 3:15 |
 | 5 | [No Cure](https://open.spotify.com/track/2pWF2nlztAHuj9i2RAqCqM) | [Elwood Stray](https://open.spotify.com/artist/6n5DUGtIWYMurrtVt7IdZr), [The Narrator](https://open.spotify.com/artist/7d1ZGbsel9lq6hwvWhPFgk) | [No Cure](https://open.spotify.com/album/5vHJdRDbOXnlb2sGPe8c8t) | 3:22 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiUbJTV2anj.md) - [plain]
 | 54 | [Brick](https://open.spotify.com/track/0CLHbBycBGgFUQuRfISbg1) | [Oceanhoarse](https://open.spotify.com/artist/6NNanF6LZJW0RWlyyUC1Ys) | [Brick](https://open.spotify.com/album/0ycvVIQlpnp5tmi2SI4QrK) | 2:45 |
 | 55 | [you'll never be alone again](https://open.spotify.com/track/5cMB5jGfNCm6b65YXhSIEJ) | [newshapes](https://open.spotify.com/artist/6UuFVFmfZLUQy5blahNWDZ) | [alone again](https://open.spotify.com/album/1xEDDtwENUcM84zAbIwOdu) | 2:47 |
 
-Snapshot ID: `MCxhZDEzNDU1ZDE4MDJjMWZjM2ZjZWI2Nzg3MzRlNGQwMDVmMjE3ODQ0`
+Snapshot ID: `MCw1MmUwNDA2MDk2NDE3NzgxOWJjMGIyNmNlMzFiNDNlZTNiNTQxY2I5`

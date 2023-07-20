@@ -1,12 +1,12 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 519299,
+  "num_followers": 519523,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZmFiM2NkNDJiYTgwZWRiNTZmYTU4YzM0YjAyYTIxM2JkZTM3MWE3",
+  "snapshot_id": "MCw0YjAyZjM5NTE1M2JiOTQwMjVlZTRjNmNmNmVjZmM5Y2VjMWZlOGQy",
   "tracks": [
     {
       "added_at": "2023-07-14 04:01:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Woodland Rites",
-        "url": "https://open.spotify.com/album/2GKhNkbjC7jZqH2s4MDCro"
-      },
-      "artists": [
-        {
-          "name": "Green Lung",
-          "url": "https://open.spotify.com/artist/2MIoyDjdxCUdnV59UqbJGk"
-        }
-      ],
-      "duration_ms": 300226,
-      "name": "Let the Devil In",
-      "url": "https://open.spotify.com/track/4dePQcQTcRj4K4cHjwcC1v"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
         "name": "Peace",
         "url": "https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 158013,
       "name": "The Fox",
       "url": "https://open.spotify.com/track/4Ej7SloeEgarsCcsxK8VRL"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Woodland Rites",
+        "url": "https://open.spotify.com/album/2GKhNkbjC7jZqH2s4MDCro"
+      },
+      "artists": [
+        {
+          "name": "Green Lung",
+          "url": "https://open.spotify.com/artist/2MIoyDjdxCUdnV59UqbJGk"
+        }
+      ],
+      "duration_ms": 300226,
+      "name": "Let the Devil In",
+      "url": "https://open.spotify.com/track/4dePQcQTcRj4K4cHjwcC1v"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -747,18 +747,18 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Peace",
-        "url": "https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2"
+        "name": "Dead Rock Commandos",
+        "url": "https://open.spotify.com/album/4BhPnZbzvNlm4pmIIFaXvK"
       },
       "artists": [
         {
-          "name": "Graveyard",
-          "url": "https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL"
+          "name": "Nightstalker",
+          "url": "https://open.spotify.com/artist/4lypnrJxM8l7ZLtLVucEvk"
         }
       ],
-      "duration_ms": 252693,
-      "name": "Please Don't",
-      "url": "https://open.spotify.com/track/5lV0LPaRCJMd0Icb0SY3jX"
+      "duration_ms": 196853,
+      "name": "Dead Rock Commandos",
+      "url": "https://open.spotify.com/track/4qBh3lrE2YiD3qlc3quiJZ"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -779,18 +779,18 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Dead Rock Commandos",
-        "url": "https://open.spotify.com/album/4BhPnZbzvNlm4pmIIFaXvK"
+        "name": "Peace",
+        "url": "https://open.spotify.com/album/3xcnM2zA3T1M50sJMxHKN2"
       },
       "artists": [
         {
-          "name": "Nightstalker",
-          "url": "https://open.spotify.com/artist/4lypnrJxM8l7ZLtLVucEvk"
+          "name": "Graveyard",
+          "url": "https://open.spotify.com/artist/0hU5urLse5h1Z0b4zQkovL"
         }
       ],
-      "duration_ms": 196853,
-      "name": "Dead Rock Commandos",
-      "url": "https://open.spotify.com/track/4qBh3lrE2YiD3qlc3quiJZ"
+      "duration_ms": 252693,
+      "name": "Please Don't",
+      "url": "https://open.spotify.com/track/5lV0LPaRCJMd0Icb0SY3jX"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -827,18 +827,18 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Through The Eyes Of Heathens",
-        "url": "https://open.spotify.com/album/4AAhTWvtI6lxoFXwLgSVkc"
+        "name": "Love Like Machines",
+        "url": "https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez"
       },
       "artists": [
         {
-          "name": "Dozer",
-          "url": "https://open.spotify.com/artist/57VFYrmiB0eCM2qXZmV96N"
+          "name": "The Heavy Eyes",
+          "url": "https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ"
         }
       ],
-      "duration_ms": 508293,
-      "name": "Big Sky Theory",
-      "url": "https://open.spotify.com/track/4Xb0fGe9WMYxyxyxiDaEGX"
+      "duration_ms": 149973,
+      "name": "Late Night",
+      "url": "https://open.spotify.com/track/7jHHt8nH6Eli9ZzLWSZ8wO"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -859,34 +859,18 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Love Like Machines",
-        "url": "https://open.spotify.com/album/7Jb8xZhM5Fswg5i7Te6yez"
+        "name": "Through The Eyes Of Heathens",
+        "url": "https://open.spotify.com/album/4AAhTWvtI6lxoFXwLgSVkc"
       },
       "artists": [
         {
-          "name": "The Heavy Eyes",
-          "url": "https://open.spotify.com/artist/0zpMEtJmjRr1MKFveLQqeZ"
+          "name": "Dozer",
+          "url": "https://open.spotify.com/artist/57VFYrmiB0eCM2qXZmV96N"
         }
       ],
-      "duration_ms": 149973,
-      "name": "Late Night",
-      "url": "https://open.spotify.com/track/7jHHt8nH6Eli9ZzLWSZ8wO"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "Super Van Vacation",
-        "url": "https://open.spotify.com/album/0bXwIciESa6i0mcsXE4db8"
-      },
-      "artists": [
-        {
-          "name": "1000mods",
-          "url": "https://open.spotify.com/artist/7EgAHTw2PMP7a1tAEtue89"
-        }
-      ],
-      "duration_ms": 529232,
-      "name": "Road to Burn",
-      "url": "https://open.spotify.com/track/4kyesMU5MvTLGKczuhKnVn"
+      "duration_ms": 508293,
+      "name": "Big Sky Theory",
+      "url": "https://open.spotify.com/track/4Xb0fGe9WMYxyxyxiDaEGX"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -903,6 +887,22 @@
       "duration_ms": 256959,
       "name": "What Needs Must Be",
       "url": "https://open.spotify.com/track/5HR0UqvkEL1KhvaRtQVXFr"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Super Van Vacation",
+        "url": "https://open.spotify.com/album/0bXwIciESa6i0mcsXE4db8"
+      },
+      "artists": [
+        {
+          "name": "1000mods",
+          "url": "https://open.spotify.com/artist/7EgAHTw2PMP7a1tAEtue89"
+        }
+      ],
+      "duration_ms": 529232,
+      "name": "Road to Burn",
+      "url": "https://open.spotify.com/track/4kyesMU5MvTLGKczuhKnVn"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -971,18 +971,18 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Call of the Void",
-        "url": "https://open.spotify.com/album/4Ioa4MtCt5zTxYnf2Ak32G"
+        "name": "The No. 6 Dance",
+        "url": "https://open.spotify.com/album/3V1vwPwJmuY0hJHf8Qac5J"
       },
       "artists": [
         {
-          "name": "Mutoid Man",
-          "url": "https://open.spotify.com/artist/2KhRuej67LynneJthmMx8o"
+          "name": "Five Horse Johnson",
+          "url": "https://open.spotify.com/artist/4lFmtj9tVIuMIjUllILQPl"
         }
       ],
-      "duration_ms": 239961,
-      "name": "Call of the Void",
-      "url": "https://open.spotify.com/track/2lESBOYd1J2oBWVeLLSFdg"
+      "duration_ms": 214600,
+      "name": "Mississippi King",
+      "url": "https://open.spotify.com/track/44MBgTjYSZUIqq6KoBEcsD"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "The No. 6 Dance",
-        "url": "https://open.spotify.com/album/3V1vwPwJmuY0hJHf8Qac5J"
+        "name": "Call of the Void",
+        "url": "https://open.spotify.com/album/4Ioa4MtCt5zTxYnf2Ak32G"
       },
       "artists": [
         {
-          "name": "Five Horse Johnson",
-          "url": "https://open.spotify.com/artist/4lFmtj9tVIuMIjUllILQPl"
+          "name": "Mutoid Man",
+          "url": "https://open.spotify.com/artist/2KhRuej67LynneJthmMx8o"
         }
       ],
-      "duration_ms": 214600,
-      "name": "Mississippi King",
-      "url": "https://open.spotify.com/track/44MBgTjYSZUIqq6KoBEcsD"
+      "duration_ms": 239961,
+      "name": "Call of the Void",
+      "url": "https://open.spotify.com/track/2lESBOYd1J2oBWVeLLSFdg"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1031,6 +1031,22 @@
       "duration_ms": 304600,
       "name": "Colossal",
       "url": "https://open.spotify.com/track/0voGuQpNWWj6EuIN8jluyM"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Head Smashed In",
+        "url": "https://open.spotify.com/album/0ISNJ9yB6tvbXX995axuv5"
+      },
+      "artists": [
+        {
+          "name": "We Hunt Buffalo",
+          "url": "https://open.spotify.com/artist/6Bz2ZeTKI0cyJwt7tBKoUU"
+        }
+      ],
+      "duration_ms": 290949,
+      "name": "Heavy Low",
+      "url": "https://open.spotify.com/track/1tc9LPy7w9C58Vs4dqgB9T"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1083,22 +1099,6 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Head Smashed In",
-        "url": "https://open.spotify.com/album/0ISNJ9yB6tvbXX995axuv5"
-      },
-      "artists": [
-        {
-          "name": "We Hunt Buffalo",
-          "url": "https://open.spotify.com/artist/6Bz2ZeTKI0cyJwt7tBKoUU"
-        }
-      ],
-      "duration_ms": 290949,
-      "name": "Heavy Low",
-      "url": "https://open.spotify.com/track/1tc9LPy7w9C58Vs4dqgB9T"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
         "name": "From the Ages",
         "url": "https://open.spotify.com/album/3H0DAHNLi9Jp6fs5YnVPv9"
       },
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Only a Suggestion",
-        "url": "https://open.spotify.com/album/6g4e3epvCUwb3RZ3cJ3G7O"
-      },
-      "artists": [
-        {
-          "name": "Hermano",
-          "url": "https://open.spotify.com/artist/0x7UDEGg5P2hFiaQFHeXPy"
-        }
-      ],
-      "duration_ms": 282160,
-      "name": "The Bottle",
-      "url": "https://open.spotify.com/track/0CzGlQMDVxdHXxWpu0Yqbj"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
         "name": "Dopethrone",
         "url": "https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 389466,
       "name": "Barbarian",
       "url": "https://open.spotify.com/track/31M6kB16yl4F2Y82M7HrWa"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Only a Suggestion",
+        "url": "https://open.spotify.com/album/6g4e3epvCUwb3RZ3cJ3G7O"
+      },
+      "artists": [
+        {
+          "name": "Hermano",
+          "url": "https://open.spotify.com/artist/0x7UDEGg5P2hFiaQFHeXPy"
+        }
+      ],
+      "duration_ms": 282160,
+      "name": "The Bottle",
+      "url": "https://open.spotify.com/track/0CzGlQMDVxdHXxWpu0Yqbj"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Into Submission",
-        "url": "https://open.spotify.com/album/4B9cytDNyVkzr4PFtN1SSq"
+        "name": "Dopesmoker",
+        "url": "https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q"
       },
       "artists": [
         {
-          "name": "Astroqueen",
-          "url": "https://open.spotify.com/artist/1Zxl7JC5lyI1JAYZyiZhAo"
+          "name": "Sleep",
+          "url": "https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI"
         }
       ],
-      "duration_ms": 267493,
-      "name": "Superhuman God",
-      "url": "https://open.spotify.com/track/5LpchRWh4lgFh3uNThdKrh"
+      "duration_ms": 505196,
+      "name": "Hot Lava Man",
+      "url": "https://open.spotify.com/track/2QqCtTAAt8WaQW1cxzLcgT"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Dopesmoker",
-        "url": "https://open.spotify.com/album/4igTVyMjcnj2Wv29NZAa3Q"
+        "name": "Into Submission",
+        "url": "https://open.spotify.com/album/4B9cytDNyVkzr4PFtN1SSq"
       },
       "artists": [
         {
-          "name": "Sleep",
-          "url": "https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI"
+          "name": "Astroqueen",
+          "url": "https://open.spotify.com/artist/1Zxl7JC5lyI1JAYZyiZhAo"
         }
       ],
-      "duration_ms": 505196,
-      "name": "Hot Lava Man",
-      "url": "https://open.spotify.com/track/2QqCtTAAt8WaQW1cxzLcgT"
+      "duration_ms": 267493,
+      "name": "Superhuman God",
+      "url": "https://open.spotify.com/track/5LpchRWh4lgFh3uNThdKrh"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Acid Roulette",
-        "url": "https://open.spotify.com/album/1TqzlhvTZbVaovs67DvEQn"
-      },
-      "artists": [
-        {
-          "name": "Scorpion Child",
-          "url": "https://open.spotify.com/artist/4unllJ7RMbdpBbTELvKwys"
-        }
-      ],
-      "duration_ms": 349466,
-      "name": "Acid Roulette",
-      "url": "https://open.spotify.com/track/4QcnjybQIat20pZFqiDgbt"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
         "name": "Old Gods",
         "url": "https://open.spotify.com/album/5cFsLTBGGzrVYtUY89XmQM"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 360800,
       "name": "Old Gods",
       "url": "https://open.spotify.com/track/203vkEu6B8lrR1cyLgKp80"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Acid Roulette",
+        "url": "https://open.spotify.com/album/1TqzlhvTZbVaovs67DvEQn"
+      },
+      "artists": [
+        {
+          "name": "Scorpion Child",
+          "url": "https://open.spotify.com/artist/4unllJ7RMbdpBbTELvKwys"
+        }
+      ],
+      "duration_ms": 349466,
+      "name": "Acid Roulette",
+      "url": "https://open.spotify.com/track/4QcnjybQIat20pZFqiDgbt"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "There is Nothing New Under the Sun",
-        "url": "https://open.spotify.com/album/1kYS5uwUbtXG5MO9ugfRts"
-      },
-      "artists": [
-        {
-          "name": "Slomosa",
-          "url": "https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd"
-        }
-      ],
-      "duration_ms": 237424,
-      "name": "There is Nothing New Under the Sun",
-      "url": "https://open.spotify.com/track/18PDRZZZdLqTKPGN8aAihg"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
         "name": "Wilderness Heart",
         "url": "https://open.spotify.com/album/19zI1pAARSE3rV72vWX9Ak"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 315626,
       "name": "Rollercoaster",
       "url": "https://open.spotify.com/track/1ffTuRRrqqiDG0T1CPJse8"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "There is Nothing New Under the Sun",
+        "url": "https://open.spotify.com/album/1kYS5uwUbtXG5MO9ugfRts"
+      },
+      "artists": [
+        {
+          "name": "Slomosa",
+          "url": "https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd"
+        }
+      ],
+      "duration_ms": 237424,
+      "name": "There is Nothing New Under the Sun",
+      "url": "https://open.spotify.com/track/18PDRZZZdLqTKPGN8aAihg"
     },
     {
       "added_at": "2023-07-14 04:01:00",

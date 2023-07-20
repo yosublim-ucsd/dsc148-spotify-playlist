@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai
 
-137 songs - 7 hr 38 min
+139 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Mushkil Mein Jeena](https://open.spotify.com/track/3ApLFFuaXsKBnDhspuQrWj) | [Swarathma](https://open.spotify.com/artist/6spTcexl1jDSkDzuewoQbX) | [Mushkil Mein Jeena](https://open.spotify.com/album/4devqBSJu5bUYTi3eHUkr8) | 5:42 | 2023-05-17 | 2023-06-13 |
 | [Na Jaane Tu](https://open.spotify.com/track/4toWcCNqdFYcsfaiHGDOAe) | [Krishna Goel](https://open.spotify.com/artist/0TTxWgAwRewRgspfDFch7H) | [Na Jaane Tu](https://open.spotify.com/album/2lqPWPHZUo8wdkUImxmgCM) | 4:06 | 2023-06-26 |  |
 | [Na Neend Hai Na Khwaab](https://open.spotify.com/track/6btADb95DODidqb9HFkl9l) | [Raghav Sachar](https://open.spotify.com/artist/7nVsNB3N2S3AoAyvIPNXlj), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [Na Neend Hai Na Khwaab](https://open.spotify.com/album/0YYIAeWLRCzJfpDyRFiNJv) | 3:46 | 2023-05-17 |  |
+| [Nami Danam](https://open.spotify.com/track/21zVuAAjqefWyA27NWZTiY) | [Aditya Kambhampati](https://open.spotify.com/artist/00dVKOZFv0XpCJCunfFWEE) | [Nami Danam](https://open.spotify.com/album/1bVfwBHWZ7XEYBO4oottGQ) | 4:51 | 2023-07-19 |  |
 | [Pahadon Mein](https://open.spotify.com/track/1EuQFujqMzy76oZZ7R2xNO) | [Salman Elahi](https://open.spotify.com/artist/60X8hzDUpAbID7G8cU2FPT) | [Shaan](https://open.spotify.com/album/6tySE1kobA9LnKvCs9Sb0W) | 3:45 | 2023-05-17 | 2023-07-13 |
 | [Pal Behta Jaaye 2.0](https://open.spotify.com/track/5SHfxmcRM55HoxnhPJLcal) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Pal Behta Jaaye 2.0](https://open.spotify.com/album/7nCPsjpyUj4pY2HI4EhwLV) | 3:03 | 2023-05-17 |  |
 | [Panchi](https://open.spotify.com/track/1YMbppfdFjeEFaeAwMwzuK) | [Junoo](https://open.spotify.com/artist/6kn3V4aLbqDDEgVZlRMoph), [Hitika](https://open.spotify.com/artist/5e6KTgurn5MAFoHzAuBrGB), [Sunny](https://open.spotify.com/artist/7BGVCQBQVSbadM4IJMr06b) | [Panchi](https://open.spotify.com/album/6aHWbt2H7UxxhXa8AWcHeV) | 4:07 | 2023-06-30 |  |
@@ -133,8 +134,9 @@
 | [Tu Hai Yaari](https://open.spotify.com/track/67fBkM5CywtT9TD89iONW8) | [Tapas Relia](https://open.spotify.com/artist/0iBqHeUD0rnSWXbC9UAT5O) | [Tu Hai Yaari](https://open.spotify.com/album/0xGRQ51ajqJv5l4MX2C2AJ) | 2:41 | 2023-05-17 |  |
 | [Tu Hi](https://open.spotify.com/track/0G9h3LDKCk6Z3pLBFENznY) | [Akash Chopra](https://open.spotify.com/artist/2opKS25hOaAFziQ5PWNAWT) | [Tu Hi](https://open.spotify.com/album/39qaePyWjejpzWL4Yvy2l3) | 3:27 | 2023-05-17 | 2023-06-17 |
 | [Tu Hi Bataa](https://open.spotify.com/track/4fYXlzFQbUQtztEKRhZVZB) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Tu Hi Bataa](https://open.spotify.com/album/3CMJ3Av3LO1Dtmz4WlbMnn) | 2:27 | 2023-05-17 |  |
-| [Tu Jae Jahan](https://open.spotify.com/track/1X0ZbfKmPJHNCy385PH7z9) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK), [Sanchi](https://open.spotify.com/artist/6QxNIpuAHE6MqRUCHJdLt0) | [Tu Jae Jahan](https://open.spotify.com/album/1xi3ZzJ6rzFeTCvSaU1flo) | 2:55 | 2023-06-20 |  |
+| [Tu Jae Jahan](https://open.spotify.com/track/1X0ZbfKmPJHNCy385PH7z9) | [Osho Jain](https://open.spotify.com/artist/41Sw7HsskHGbJOJXhLUTEK), [Sanchi](https://open.spotify.com/artist/6QxNIpuAHE6MqRUCHJdLt0) | [Tu Jae Jahan](https://open.spotify.com/album/1xi3ZzJ6rzFeTCvSaU1flo) | 2:55 | 2023-06-20 | 2023-07-20 |
 | [Tu Jo Paas \(Raw\)](https://open.spotify.com/track/3i8GG9i2cUpNDIitAJ533b) | [Suzonn](https://open.spotify.com/artist/3xZ9z6k4Suc2O8cAiwMt7h) | [Tu Jo Paas \(Raw\)](https://open.spotify.com/album/6UUAbYF6ooSr9rqqW7rceU) | 3:34 | 2023-07-07 |  |
+| [Tum Aur Main](https://open.spotify.com/track/29O6kviQMumVmWZDO14QSB) | [Prateek Gandhi](https://open.spotify.com/artist/1QH7G1DjLYaY5EvqO1PA6w) | [Tum Aur Main](https://open.spotify.com/album/3uP0bCOGPkGSPKzfN3tJyU) | 2:43 | 2023-07-19 |  |
 | [TUM JO SAATH HO](https://open.spotify.com/track/4LoBM8A2XOuiQ4Ic3IVWeu) | [Archit Tak](https://open.spotify.com/artist/2j4zrtE8NNT2KgHpCoyoYA) | [TUM JO SAATH HO](https://open.spotify.com/album/6lR4XHAh3vVFzkp9otcMBs) | 4:01 | 2023-06-08 |  |
 | [Tum Mujhe Jaante Ho \- Ukulele Version](https://open.spotify.com/track/1kZZfGmtZHBd4cZOuov1k0) | [Trishita Recs](https://open.spotify.com/artist/4lB0A51UgKHZ00Uhuta9K4), [Luv](https://open.spotify.com/artist/1dEulvhhLRgnDn5DW1WNqe) | [Tum Mujhe Jaante Ho \(Ukulele Version\)](https://open.spotify.com/album/69hZQvIMjMIOEhgYmuWZua) | 3:50 | 2023-05-17 |  |
 | [Unke bina \(Raw\)](https://open.spotify.com/track/0S2VhMptqhyylEowrvMRRx) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS), [Hardik Sawhney](https://open.spotify.com/artist/1AeP2gkdtIPekU0HvEo3P5) | [Unke bina \(Raw\)](https://open.spotify.com/album/1zQdURnPPZXRLquGKTR5Qa) | 2:28 | 2023-05-17 | 2023-07-06 |

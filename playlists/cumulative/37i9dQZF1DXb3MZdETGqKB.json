@@ -2668,10 +2668,36 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 235781,
       "name": "On the Road (with G Love & Special Sauce and Cas Haley)",
       "url": "https://open.spotify.com/track/0vM8fRYfCtW3VRbant8FnC"
+    },
+    {
+      "album": {
+        "name": "The Ries Brothers",
+        "url": "https://open.spotify.com/album/6SexAEAVGOjYvGBJxgiLdk"
+      },
+      "artists": [
+        {
+          "name": "Ries Brothers",
+          "url": "https://open.spotify.com/artist/3n5TbZCCU3rnDcDy5n49nG"
+        },
+        {
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+        },
+        {
+          "name": "Cas Haley",
+          "url": "https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy"
+        }
+      ],
+      "date_added": "2022-08-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235781,
+      "name": "On the Road (with G Love & Special Sauce and Cas Haley)",
+      "url": "https://open.spotify.com/track/7srWCCNonVXruKp9FpciVD"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/4ufHiOJK9tL0y3QfNwGJ6l?si=OIg\_mIumQY\-yAohjU8OJ\_A">sGawD </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,569 likes - 74 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,627 likes - 74 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,6 +81,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 71 | [Catch Up!](https://open.spotify.com/track/6Ckhwztz0nfuS4XIZNpLeC) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Catch Up! // Lights](https://open.spotify.com/album/0nf3qQAlrY59xIDSV4ug7f) | 2:37 |
 | 72 | [NEW ID](https://open.spotify.com/track/7zabZXdxVjHycqcHEemmn4) | [Moyoswrld](https://open.spotify.com/artist/5qydyw9umzN1IlybYsgPzR), [Maison2500](https://open.spotify.com/artist/4LM7PNYtQtrHXnfQYr16mx) | [NEW ID](https://open.spotify.com/album/1hzM6lVI0sWXyYeGKZJAN3) | 2:30 |
 | 73 | [Counterfeit](https://open.spotify.com/track/6kCmpwaWFOODvxBVyFz1Ql) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:36 |
-| 74 | [Grown Ass Girl.](https://open.spotify.com/track/1oCtaFhWkV3Dvuuzy6DNE0) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Grown Ass Girl.](https://open.spotify.com/album/4KR4FghCCBGvhxvsgnRVe0) | 2:59 |
+| 74 | [Grown Ass Girl.](https://open.spotify.com/track/0Z8VkJm8To18FclbvmYVMn) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Grown Ass Girl.](https://open.spotify.com/album/2J9GQxJkFjgkkKC9O4O21g) | 2:59 |
 
-Snapshot ID: `MCwyYzhkN2Y4ZDFjZTNkZDViNTI2MjVjYWEyYjhmMTU1NDA2YjE1ZmMw`
+Snapshot ID: `MCxhZjE1ZjhjZmFhNGI4OTNhYjZlOWU4M2EyMDM4MzlkNmYzNWFjM2Mw`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 ### [Love Island USA Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DXabZmhTI9fOC)
 
-> Keep the vibes from the villa going with music from and inspired by the new season of Love Island USA, streaming only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2307spotifypkerndwbjny369&utm\_campaign=2307spotify&utm\_source=sptfy\_pk\_na&utm\_medium=ernd\_wbjny\_cobr\_deslnk&utm\_term=spotifyusers&utm\_content=na">Peacock</a>.
+> Keep the vibes from the villa going with music from & inspired by the new season of Love Island USA, only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2307spotifypkerndwbjny369&utm\_campaign=2307spotify&utm\_source=sptfy\_pk\_na&utm\_medium=ernd\_wbjny\_cobr\_deslnk&utm\_term=spotifyusers&utm\_content=na">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,471 likes - 20 songs - 1 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,605 likes - 27 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 16 | [Madness](https://open.spotify.com/track/5p1hYurxu5lJxORIDJDn3d) | [Tribal Blood](https://open.spotify.com/artist/1cHMjqPegtajC9rkMePxsq) | [Madness](https://open.spotify.com/album/3YHTRnUPk10KX3o5K2TSSg) | 4:08 |
 | 17 | [Say Something](https://open.spotify.com/track/25d67cENtRAzxKLu1eGEet) | [Josh Franklin](https://open.spotify.com/artist/6wCj7H435dTD7nFTl9PREo) | [Take Cover](https://open.spotify.com/album/6MZuB7goU0furttXld9zwA) | 4:01 |
 | 18 | [Show Me Love](https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF) | [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Show Me Love](https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8) | 4:12 |
-| 19 | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/track/3nqQXoyQOWXiESFLlDF1hG) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Unholy \(feat\. Kim Petras\)](https://open.spotify.com/album/0gX9tkL5njRax8ymWcXARi) | 2:36 |
-| 20 | [Kissing Strangers](https://open.spotify.com/track/1NkwZ9TnIs8js6G0M6M7RU) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Kissing Strangers](https://open.spotify.com/album/7FkWQV6ym8OMXBebTRI30R) | 3:22 |
+| 19 | [Hit the Road Jack](https://open.spotify.com/track/5PIpdcCquAoTWTUUjK1tbY) | [2WEI](https://open.spotify.com/artist/4SGDDnlwi5G42HTGzYl2Fc), [Bri Bryant](https://open.spotify.com/artist/3Ex7pM0HrUKWMuGoOJ0AnR) | [Hit the Road Jack](https://open.spotify.com/album/2JiWOGcnPYwlkQSdUn2ZGx) | 3:31 |
+| 20 | [About To Get Crazy](https://open.spotify.com/track/6L6ErHDSCYsDZ3RyFFRcTh) | [Oh The Larceny](https://open.spotify.com/artist/3p5nfUyEYsxx8izMCym07n) | [Move With It](https://open.spotify.com/album/6c40DRTEn1jyN3q07kAxfM) | 3:06 |
+| 21 | [Closer](https://open.spotify.com/track/4X7ZR0vFM3vrYUJnBLUeuY) | [Moyr](https://open.spotify.com/artist/1zTGzMUzAEGmGZkmPqX0s1), [Juneau Marie](https://open.spotify.com/artist/6Y36VDxkSTewsgrtSaWhNV) | [Feed The Fever](https://open.spotify.com/album/5aGDn1PfQ0b3cPup6cpe3d) | 3:20 |
+| 22 | [Gimme That Sunshine](https://open.spotify.com/track/3X3Q0i7IsINhaDSXt4lGqj) | [Animal Island](https://open.spotify.com/artist/0NQYbrCaGSmlf1u6Xs8Zix) | [Animalistic](https://open.spotify.com/album/3ysb5nxgkEyUTEL1H5FRZR) | 3:20 |
+| 23 | [Love is an Accident](https://open.spotify.com/track/1z8k5pP1Gtw5WQFSYOn5dL) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu) | [This Is Really Going To Hurt](https://open.spotify.com/album/5iiGOO5JlJQDNo37LrvLa0) | 3:05 |
+| 24 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 |
+| 25 | [Let It Loose](https://open.spotify.com/track/2HZ0S41I5LYmgkMRpZcdiP) | [Moyr](https://open.spotify.com/artist/1zTGzMUzAEGmGZkmPqX0s1), [Juneau Marie](https://open.spotify.com/artist/6Y36VDxkSTewsgrtSaWhNV) | [Feed The Fever](https://open.spotify.com/album/5aGDn1PfQ0b3cPup6cpe3d) | 3:40 |
+| 26 | [All We Need](https://open.spotify.com/track/6JylfydXyLzKfIqnqO7K6Y) | [Jai Nova](https://open.spotify.com/artist/7m0d5KbIfUlF3aY9KnTw5U) | [All We Need](https://open.spotify.com/album/3QKXK37j8kGebBThgykHoK) | 2:40 |
+| 27 | [Bad Things](https://open.spotify.com/track/7AXkLijaymM7ZfaO46FSRb) | [Summer Kennedy](https://open.spotify.com/artist/4zXwKatKsxYa8T9dAOzlgS) | [The Bright Side](https://open.spotify.com/album/5BM7D7Y62MfSrmWxjMxtKR) | 3:57 |
 
-Snapshot ID: `MCxhZWMyN2U0MzdjYmFiMzE3OWE2MmMyYzI5OGQxZGE5YWQ1NTMwYmZj`
+Snapshot ID: `MCxlYzdkZTYxMzBjNDkyZGJjYWFiOTkyMGEyMDhiZTZhMzI2NTNkYmUy`

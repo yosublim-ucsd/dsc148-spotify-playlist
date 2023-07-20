@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > The home for alternative electronic music\. Cover: Skrillex
 
-[Spotify](https://open.spotify.com/user/spotify) - 495,633 likes - 124 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 495,654 likes - 124 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,4 +133,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 | 123 | [Wait For Me](https://open.spotify.com/track/66U3OYYcVEdJo3HIzlRyzd) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [Love Disc](https://open.spotify.com/album/3UvDnhFvJ3BFlyZec8hJ0X) | 3:25 |
 | 124 | [Both](https://open.spotify.com/track/56rBmhBdKxLsFpfkMqRz5G) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn) | [Both](https://open.spotify.com/album/7q6KK2yQ6sGb3q3PJ0LiXY) | 2:53 |
 
-Snapshot ID: `MCwwNDliOTk5Y2EwZjg5ZTQ5MzJkNzEzMTNkYjNmNmY0Y2EwNDE1Zjhk`
+Snapshot ID: `MCxkMThmMTZhNTBjMGE3NzM1MTc0YjU4NzMzNDZkOTFjZDU0N2E5NzAw`

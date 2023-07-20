@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Loud, Ya Cetidon
 
-1,953 songs - 4 day 8 hr 23 min
+1,954 songs - 4 day 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Alchimie](https://open.spotify.com/track/4LbcM1JxYsuBEqLg8gtwEH) | [D\-Track](https://open.spotify.com/artist/6iCGxocdnrQ3pxNN1drzNu) | [Territoiredelours](https://open.spotify.com/album/4dc7lc9vGkSCogIKIPSXF6) | 3:33 | 2023-02-10 | 2023-02-25 |
 | [ALCHIMISTE](https://open.spotify.com/track/7qECazkIfcZ06HgjDRMwfr) | [Xone](https://open.spotify.com/artist/68TAqd3LgdVtgRez3IEwra) | [ALCHIMISTE](https://open.spotify.com/album/5gBZKJpC0M4qU66QkFPMkc) | 2:36 | 2022-04-15 | 2022-04-23 |
 | [Alex](https://open.spotify.com/track/26zBcpftrIo8tskR6tgB4d) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [Alex](https://open.spotify.com/album/3OcCtQyK3oWNJhsr4A3ZX4) | 3:16 | 2023-02-24 | 2023-03-11 |
+| [Algérien Fâché](https://open.spotify.com/track/131mNF7dZE1z4pGL1cgxOI) | [Kofs](https://open.spotify.com/artist/5RaQ9nmVGoTye2SI76x3yw) | [Algérien Fâché](https://open.spotify.com/album/3O3dTqhhkmORFUULWIvxgb) | 1:52 | 2023-07-14 |  |
 | [Alias](https://open.spotify.com/track/5aW9FVzbaezSPDn3f7nN2e) | [Leïla Lanova](https://open.spotify.com/artist/6vZaYrTbNPdkcxTBwfj9dI), [DENZO](https://open.spotify.com/artist/1pQtc9O0CKJYhvaICw39z9) | [Galactica](https://open.spotify.com/album/62Nz1sWexc4nBQsGDaJj4Z) | 2:58 | 2022-05-27 | 2022-06-11 |
 | [Alien 2, le retour](https://open.spotify.com/track/22s0cjtMDw4ZEnQFpcWgUV) | [Mudie](https://open.spotify.com/artist/2w3fLwwHa8qmeEVtw6Ulfr) | [Alien 2, le retour](https://open.spotify.com/album/5ZRpqhXgfBlFoIo8XsN4of) | 2:47 | 2023-01-27 | 2023-02-04 |
 | [All Night Long](https://open.spotify.com/track/6veDfkluTetAypC3SffZwr) | [Zoo Baby](https://open.spotify.com/artist/5cwwkrAy5dg58se1CLKuFO) | [Volume 2](https://open.spotify.com/album/0Nmzcz93BpG0Guc9mAd0qi) | 3:43 | 2023-02-10 | 2023-02-25 |
@@ -422,7 +423,7 @@
 | [Dans mon vieux truck](https://open.spotify.com/track/6D7rLkmngo9Rkr1ejIdhGk) | [Jace](https://open.spotify.com/artist/7KCD5IGwoH8rY19DZnOHpO) | [Dans mon vieux truck](https://open.spotify.com/album/7vsQCqosRjl2zDw3Llt2Rn) | 3:08 | 2023-02-17 | 2023-03-04 |
 | [Dans un fou rire](https://open.spotify.com/track/6Rnz3N2IgUJO7Hl1j8BmuJ) | [Fishbach](https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb) | [Dans un fou rire](https://open.spotify.com/album/30O5UTZO0crZdklnMZpQyX) | 3:51 | 2022-01-28 | 2022-02-12 |
 | [Danser](https://open.spotify.com/track/6AT0rc6dhB4f5cjULRyd7Z) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT) | [Danser](https://open.spotify.com/album/2U2w4Q9zSKSWdm4ROY0A55) | 2:56 | 2023-03-31 | 2023-04-23 |
-| [Danser](https://open.spotify.com/track/6jFQdmWsFYbVC2D305dOik) | [KRN](https://open.spotify.com/artist/3qbqyAhAkU804siT3gPzK5), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Solstice](https://open.spotify.com/album/0LrWKEX0dz4489hqkPdD5S) | 3:03 | 2023-07-14 |  |
+| [Danser](https://open.spotify.com/track/6jFQdmWsFYbVC2D305dOik) | [KRN](https://open.spotify.com/artist/3qbqyAhAkU804siT3gPzK5), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Solstice](https://open.spotify.com/album/0LrWKEX0dz4489hqkPdD5S) | 3:03 | 2023-07-14 | 2023-07-20 |
 | [Danser avec nobodé](https://open.spotify.com/track/3CMRjg9kIbzfwuiBfCNegZ) | [Bermuda](https://open.spotify.com/artist/7jIZ4xeHqq7ZJzhsHlorTe) | [Danser avec nobodé](https://open.spotify.com/album/6wnxZ6Ryr5oL4gcJtt7RPx) | 3:16 | 2022-08-19 | 2022-09-03 |
 | [Danser avec toi](https://open.spotify.com/track/2xKh3u2hY4vb4tZTp8mTDu) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Dance With You](https://open.spotify.com/album/433KYyQhv0BPTEjsZIKQTO) | 3:46 | 2022-09-09 | 2022-09-24 |
 | [De l'air](https://open.spotify.com/track/3RwiaS8Oala36KdO9mkRZU) | [blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x) | [De l'air](https://open.spotify.com/album/1y9oWG3buItRT8Ew4aRStV) | 3:05 | 2022-02-04 | 2022-02-19 |

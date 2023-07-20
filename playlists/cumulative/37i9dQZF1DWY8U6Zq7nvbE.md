@@ -4,7 +4,7 @@
 
 > The best from the world of acoustic songs and pop covers right now.
 
-395 songs - 21 hr 25 min
+396 songs - 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,6 +175,7 @@
 | [I ain't worried](https://open.spotify.com/track/7vaoU0TQjXGzOchBjOKWCj) | [middle of june](https://open.spotify.com/artist/3D9CUHd4Z9OaMGC5lLZWYm) | [I ain't worried](https://open.spotify.com/album/6T7RkNIqWCqueJnBvzroza) | 2:48 | 2022-11-11 |  |
 | [I Can't Sleep \- Acoustic Version](https://open.spotify.com/track/6laJcLUfg7c1fyt0oSDJGV) | [Olivera](https://open.spotify.com/artist/4iFfQpzvTJDhqmSi28EhYu) | [I Can't Sleep \(Acoustic Version\)](https://open.spotify.com/album/5w0lLWWDP7hvVz3a2KuLgb) | 3:03 | 2021-03-11 | 2022-11-26 |
 | [I Don't Care](https://open.spotify.com/track/68Vnmq4o96QQ0aVSZm43eK) | [Treadlights](https://open.spotify.com/artist/75lqw9jUFPanWhAqLVYIIK), [Aikani](https://open.spotify.com/artist/5pl9gF3NwPauryVFUyrjka) | [I Don't Care \(Acoustic Reggae\)](https://open.spotify.com/album/0WhYJlr2RggdNvYQ8075oD) | 3:49 | 2021-03-11 | 2022-11-26 |
+| [I Don't Want To Miss A Thing](https://open.spotify.com/track/28QoOJZgUI44vB0z9oThfH) | [Sarah Close](https://open.spotify.com/artist/5nQybVOGIy5TZ1XK9CaDiS) | [I Don't Want To Miss A Thing](https://open.spotify.com/album/6KvHrixwNkjbvDNeccvPcX) | 3:07 | 2023-06-22 |  |
 | [I Feel It In The Wind \- Acoustic Version](https://open.spotify.com/track/5ZP5JvgJCJfYAvELHhQIJV) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [I Feel It In The Wind \(Acoustic Version\)](https://open.spotify.com/album/2RTCy2LWLxVeAv7isUOh7D) | 3:48 | 2023-03-31 |  |
 | [i get high \(feat\. Joy Oladokun\)](https://open.spotify.com/track/1wq96gZHLUWNRwlevS99ru) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [i get high \(feat\. Joy Oladokun\)](https://open.spotify.com/album/0ajUz0nm6V1J4BLTX7h9Md) | 2:03 | 2023-01-20 |  |
 | [I Just Came To Dance \- Acoustic](https://open.spotify.com/track/2uBKT2Q7vsWXTekfdOlTvx) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [I Just Came To Dance \(Acoustic\)](https://open.spotify.com/album/3cWFS2rpY7eZpy9l0ynQou) | 2:28 | 2022-11-25 | 2023-06-27 |
@@ -182,7 +183,7 @@
 | [I Like Me Better](https://open.spotify.com/track/2GzvzxXnyJ9l3obE4JskC2) | [Ysabelle Cuevas](https://open.spotify.com/artist/323nxrsc0C5JSsmlN2srN8) | [Ysabelle](https://open.spotify.com/album/1LzchyMzJU8dRzQhlcy8n1) | 3:09 | 2022-08-31 |  |
 | [I Still Haven't Found Found What I'm Looking For](https://open.spotify.com/track/1gnOyb8vuF9bXz5eyjoBxh) | [Raye Mills](https://open.spotify.com/artist/29lrZvqticA8gLIBmbwtWe) | [I Still Haven't Found Found What I'm Looking For](https://open.spotify.com/album/4jD9KHz4ZOett4SMX9hPg3) | 4:13 | 2021-03-11 | 2023-03-10 |
 | [I Was Never There](https://open.spotify.com/track/2boE2b7Lrin4bf410UKhSe) | [Parker Clair](https://open.spotify.com/artist/5GYjNDee9n69Bb3qeaAKJr) | [I Was Never There](https://open.spotify.com/album/6bGak7iAgHBHdtz1wXuzyz) | 2:59 | 2023-06-22 |  |
-| [I'll Save A Place](https://open.spotify.com/track/5f1yZuAiLBdKVXzzBQ1g5j) | [Carly Rose](https://open.spotify.com/artist/0Z49rYPKsyCCLGq1UiHrBe) | [I'll Save A Place](https://open.spotify.com/album/673L0hxi8CysOnbBUot1fZ) | 3:01 | 2023-01-20 |  |
+| [I'll Save A Place](https://open.spotify.com/track/5f1yZuAiLBdKVXzzBQ1g5j) | [Carly Rose](https://open.spotify.com/artist/0Z49rYPKsyCCLGq1UiHrBe) | [I'll Save A Place](https://open.spotify.com/album/673L0hxi8CysOnbBUot1fZ) | 3:01 | 2023-01-20 | 2023-07-20 |
 | [I'm a Mess \- Acoustic](https://open.spotify.com/track/0GU7mjplm8DvhlBPPyB3VP) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [lifeline sad pop](https://open.spotify.com/album/522309wFWxwkT7FguIQqvG) | 2:33 | 2022-11-11 | 2023-02-11 |
 | [I'm a Mess \- Acoustic](https://open.spotify.com/track/1NbGvDjCF1s7pH62AjKUdJ) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Luv Starved \- Sad Pop](https://open.spotify.com/album/2jzJSgieL4xBi7Fq794ZTx) | 2:33 | 2023-01-20 | 2023-02-13 |
 | [I'm a Mess \- Acoustic](https://open.spotify.com/track/1RGcxEKlVL5TSMHqV13etr) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm a Mess \(Acoustic\)](https://open.spotify.com/album/6zmhW2TRItWgBM3WBVR9Gn) | 2:33 | 2023-01-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 
 > All new surf rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 490,990 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 490,986 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzpSJHStHHx.md) - [plain]
 | 49 | [Lonely Edinburgh](https://open.spotify.com/track/5mFwUCoZyiQ1qHvtIwfPwX) | [Gamma Ray](https://open.spotify.com/artist/2CdMQ0UoytYQZtNqiwlJRD) | [Lonely Edinburgh](https://open.spotify.com/album/7532lQ3Vsz1EeMW5cSnizc) | 2:46 |
 | 50 | [...Anyway](https://open.spotify.com/track/2QDB4p1vU4bMm2PQ1p6lWu) | [Ben Cook](https://open.spotify.com/artist/0oRMmFyViP7UxWZrEcJUYV) | [Bread For Your Broth](https://open.spotify.com/album/3GPwhfmSZSFyZhMTRxYDak) | 3:06 |
 
-Snapshot ID: `MCxhMzM0MmIyNjYzYTRhNDQ5NWM0MWZmMGRmOTQ4NzRkODNmNTE0NDY2`
+Snapshot ID: `MCxkOGQ1NGM4ZDZhZGE3NzZmMGQ4ODkxNTRlYmE1MWIzNzZhNDAzZGU5`

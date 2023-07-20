@@ -1,12 +1,12 @@
 {
   "description": "Trap de la isla, con YOVNGCHIMI en portada.",
-  "num_followers": 3316,
+  "num_followers": 3386,
   "original_name": "Trap Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZGE2MmFlNWFkMDYxNzVmZGU3YzlmNzA4ODhiOGQ4Yjk1M2VlMjk1",
+  "snapshot_id": "MCw3NGZiOGNiMWQyZjdhOGFjMWM1ZDcyNGQ4YTc1YmI3YWQ1YmViMDcw",
   "tracks": [
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1011,6 +1011,26 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
+        "name": "23",
+        "url": "https://open.spotify.com/album/1RdPNJjLXGZkHEUjROUoM0"
+      },
+      "artists": [
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 265749,
+      "name": "23",
+      "url": "https://open.spotify.com/track/4sWkZXLxb0lPCXNBzw5rsr"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
         "name": "Tacos Altos",
         "url": "https://open.spotify.com/album/5RiwLnLiHPWh5DfLqsfobN"
       },
@@ -1039,26 +1059,6 @@
       "duration_ms": 306946,
       "name": "Tacos Altos",
       "url": "https://open.spotify.com/track/66pK7thQ0yw1xlqw8AQSlw"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "23",
-        "url": "https://open.spotify.com/album/1RdPNJjLXGZkHEUjROUoM0"
-      },
-      "artists": [
-        {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 265749,
-      "name": "23",
-      "url": "https://open.spotify.com/track/4sWkZXLxb0lPCXNBzw5rsr"
     },
     {
       "added_at": "2023-07-14 04:00:00",

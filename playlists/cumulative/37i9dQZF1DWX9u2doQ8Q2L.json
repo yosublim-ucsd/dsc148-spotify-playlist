@@ -6,7 +6,7 @@
     {
       "album": {
         "name": "#Vaporwave",
-        "url": "https://open.spotify.com/album/782Ef4moKZo0Zxz4TnSUCY"
+        "url": "https://open.spotify.com/album/1qndI2fmhuy97xTGOV0XyV"
       },
       "artists": [
         {
@@ -17,6 +17,24 @@
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 186807,
+      "name": "#Vaporwave",
+      "url": "https://open.spotify.com/track/1vpLKf5eWGUFqTshcuL00R"
+    },
+    {
+      "album": {
+        "name": "#Vaporwave",
+        "url": "https://open.spotify.com/album/782Ef4moKZo0Zxz4TnSUCY"
+      },
+      "artists": [
+        {
+          "name": "\u65b0\u6771\u4eac",
+          "url": "https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-20",
       "duration_ms": 186807,
       "name": "#Vaporwave",
       "url": "https://open.spotify.com/track/2wKlJqTaV4xqvt7iMpRmfc"
@@ -5734,10 +5752,28 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 177999,
       "name": "Jurassic",
       "url": "https://open.spotify.com/track/0okYcNqMBFmSwf2xeECPpd"
+    },
+    {
+      "album": {
+        "name": "Jurassic",
+        "url": "https://open.spotify.com/album/6dgCSpkDbi4Y4WJpC24nZ8"
+      },
+      "artists": [
+        {
+          "name": "NIKO NIKO TAN TAN",
+          "url": "https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177999,
+      "name": "Jurassic",
+      "url": "https://open.spotify.com/track/7HcpoYSDvOks6YAE2A3JQn"
     },
     {
       "album": {
@@ -8435,6 +8471,28 @@
     },
     {
       "album": {
+        "name": "Paris feat. YELLOW Huang Hsuan",
+        "url": "https://open.spotify.com/album/4ADi6WTvZ4aXxwTNVjPpxj"
+      },
+      "artists": [
+        {
+          "name": "haruno",
+          "url": "https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u"
+        },
+        {
+          "name": "YELLOW\u9ec3\u5ba3",
+          "url": "https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171923,
+      "name": "Paris feat. YELLOW Huang Hsuan",
+      "url": "https://open.spotify.com/track/6zBZytsj3jzGJa8SFlyfKZ"
+    },
+    {
+      "album": {
         "name": "Paris feat. YELLOW\u9ec3\u5ba3",
         "url": "https://open.spotify.com/album/7dhqMV1UZ2D91FYikzFAwA"
       },
@@ -8450,7 +8508,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 171923,
       "name": "Paris feat. YELLOW\u9ec3\u5ba3",
       "url": "https://open.spotify.com/track/7wMrtVG3PZEdJ5RGxGrCGz"
@@ -8748,7 +8806,7 @@
     {
       "album": {
         "name": "PRESENCE",
-        "url": "https://open.spotify.com/album/5DQN4SJwFTBdPNYAVpCQv8"
+        "url": "https://open.spotify.com/album/0XOyANuaiYV0nICxcmDPSy"
       },
       "artists": [
         {
@@ -8759,6 +8817,24 @@
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 184242,
+      "name": "PRESENCE",
+      "url": "https://open.spotify.com/track/1skdpKroFzRuEMatb5D8lU"
+    },
+    {
+      "album": {
+        "name": "PRESENCE",
+        "url": "https://open.spotify.com/album/5DQN4SJwFTBdPNYAVpCQv8"
+      },
+      "artists": [
+        {
+          "name": "VivaOla",
+          "url": "https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-20",
       "duration_ms": 184242,
       "name": "PRESENCE",
       "url": "https://open.spotify.com/track/5UgicVH1jiloAIkjqjK7Ho"

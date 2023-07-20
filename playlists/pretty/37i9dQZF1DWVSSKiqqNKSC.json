@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 219156,
+  "num_followers": 219245,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YmUyZTMxMGE2OWUwMGIxNzJmMThjMTMyZmMzNGIzMTVlNmE3N2U4",
+  "snapshot_id": "MCw0YTc4Yjc0MGNlNjkwYTg0ODBlOWIxYzQ1ZThhOTc0NzdmNWRmY2Q4",
   "tracks": [
     {
       "added_at": "2022-12-30 18:20:45",
@@ -827,6 +827,22 @@
     {
       "added_at": "2022-12-30 18:20:45",
       "album": {
+        "name": "De Vuelta al Barrio",
+        "url": "https://open.spotify.com/album/0gVY0zm89oBzVfWSpAPUu8"
+      },
+      "artists": [
+        {
+          "name": "El Ni\u00f1o y la Verdad",
+          "url": "https://open.spotify.com/artist/5iarY4wc4dUF6b4SbDT95n"
+        }
+      ],
+      "duration_ms": 346266,
+      "name": "La Cosa Mala",
+      "url": "https://open.spotify.com/track/4xBGFG4pHD5hstJQDACxlQ"
+    },
+    {
+      "added_at": "2022-12-30 18:20:45",
+      "album": {
         "name": "Latin Trumpets - Bolero",
         "url": "https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 168866,
       "name": "Historia de un Amor",
       "url": "https://open.spotify.com/track/5YkbsYoT60QOccHeKbDnUY"
-    },
-    {
-      "added_at": "2022-12-30 18:20:45",
-      "album": {
-        "name": "De Vuelta al Barrio",
-        "url": "https://open.spotify.com/album/0gVY0zm89oBzVfWSpAPUu8"
-      },
-      "artists": [
-        {
-          "name": "El Ni\u00f1o y la Verdad",
-          "url": "https://open.spotify.com/artist/5iarY4wc4dUF6b4SbDT95n"
-        }
-      ],
-      "duration_ms": 346266,
-      "name": "La Cosa Mala",
-      "url": "https://open.spotify.com/track/4xBGFG4pHD5hstJQDACxlQ"
     }
   ],
   "unique_name": "Salsa Cubana",

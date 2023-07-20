@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Aanchal Tyagi , Artwork: Isu Kim",
+  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Shivam Grover , Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -502,7 +502,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 184663,
       "name": "Aastik",
       "url": "https://open.spotify.com/track/02TRI7tQI2vus2bCmudfyr"
@@ -788,7 +788,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 124081,
       "name": "All For You",
       "url": "https://open.spotify.com/track/5laeTeHJXLXAkeezJWWhKb"
@@ -1624,6 +1624,32 @@
       "duration_ms": 203154,
       "name": "Behre Log",
       "url": "https://open.spotify.com/track/5Ydt8lo5ifAw0GCk04m0fe"
+    },
+    {
+      "album": {
+        "name": "Behta Jaa Raha (feat. Glitchfolks)",
+        "url": "https://open.spotify.com/album/0tnZQ8rLJ5f5iqUhnpeSWv"
+      },
+      "artists": [
+        {
+          "name": "Futurex",
+          "url": "https://open.spotify.com/artist/2C5t4qjFeLsyYUp1vgpAfu"
+        },
+        {
+          "name": "Saadat",
+          "url": "https://open.spotify.com/artist/3pFUmC4hWGoYIKastLRYVc"
+        },
+        {
+          "name": "Glitchfolks",
+          "url": "https://open.spotify.com/artist/3RIPdDR0pe5TiwUrGrb1Vg"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260712,
+      "name": "Behta Jaa Raha (feat. Glitchfolks)",
+      "url": "https://open.spotify.com/track/3Dm2jnec9ayGNJYq6uOIja"
     },
     {
       "album": {
@@ -2652,7 +2678,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 131107,
       "name": "COFFEEHOUSE",
       "url": "https://open.spotify.com/track/2mGBSg4ppTk8rQM8u1HUhi"
@@ -3603,6 +3629,24 @@
     },
     {
       "album": {
+        "name": "Dost",
+        "url": "https://open.spotify.com/album/4XE7BpE1WiMrw5oNEQmAWa"
+      },
+      "artists": [
+        {
+          "name": "SidB",
+          "url": "https://open.spotify.com/artist/1y6bxUL1fVTzt3YSVBf0FG"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212279,
+      "name": "Dost",
+      "url": "https://open.spotify.com/track/59a2sxaBI3We2OQ0r5I8lR"
+    },
+    {
+      "album": {
         "name": "dream of us",
         "url": "https://open.spotify.com/album/6t6ErqxYEVxfvDKWdGjVJU"
       },
@@ -3720,6 +3764,24 @@
       "duration_ms": 196000,
       "name": "Dude Subdued",
       "url": "https://open.spotify.com/track/2kEoB8aptQIPK4eIi1OpzM"
+    },
+    {
+      "album": {
+        "name": "dunning cougar",
+        "url": "https://open.spotify.com/album/4bnihXv3KrNOiHf6PSCNAm"
+      },
+      "artists": [
+        {
+          "name": "papiere",
+          "url": "https://open.spotify.com/artist/6LWeq7qd9muNewabK9itfs"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284347,
+      "name": "dunning cougar",
+      "url": "https://open.spotify.com/track/6bmkwCTzX1FaNv3tnZJ0qz"
     },
     {
       "album": {
@@ -4240,7 +4302,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 231428,
       "name": "Find Me Find You",
       "url": "https://open.spotify.com/track/7G6oWYG2hDMX9PagdHFY32"
@@ -7130,7 +7192,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 236842,
       "name": "Kahan Main Chala",
       "url": "https://open.spotify.com/track/31CFa8laPBRJaCfeexfGRr"
@@ -8179,6 +8241,24 @@
     },
     {
       "album": {
+        "name": "Lapata",
+        "url": "https://open.spotify.com/album/3pNsNqKPlpd8GFNHCCCq9M"
+      },
+      "artists": [
+        {
+          "name": "Shivam Grover",
+          "url": "https://open.spotify.com/artist/7J7OU0Z2CbX61VuOiV6NHL"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258782,
+      "name": "Lapata",
+      "url": "https://open.spotify.com/track/2qpAjsUKXaTTfIdfdhbjqb"
+    },
+    {
+      "album": {
         "name": "Last Lullaby",
         "url": "https://open.spotify.com/album/7lGc1OmL2Om0b9IdzVd1Hp"
       },
@@ -9106,6 +9186,24 @@
       "duration_ms": 265881,
       "name": "Maula Mere",
       "url": "https://open.spotify.com/track/1JHcOGyKs5i3qp9fOI2KIh"
+    },
+    {
+      "album": {
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/5tToU1wFfMLG4MV5SfZ4Qb"
+      },
+      "artists": [
+        {
+          "name": "Lakshya Bihani",
+          "url": "https://open.spotify.com/artist/4eRCnLuSk0squITVWahz9S"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189051,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/6CoEEG4luZf5d12FIA598Y"
     },
     {
       "album": {
@@ -13160,7 +13258,7 @@
       ],
       "date_added": "2023-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 171043,
       "name": "Sohneya",
       "url": "https://open.spotify.com/track/7vBr7ROyaeg38hcGpueXRI"
@@ -15884,6 +15982,32 @@
       "duration_ms": 179185,
       "name": "When I'm with You",
       "url": "https://open.spotify.com/track/723efqIkMkWEHnF4EUO4ET"
+    },
+    {
+      "album": {
+        "name": "when it goes",
+        "url": "https://open.spotify.com/album/0tAHfo3OPIiOvzSDPdmubO"
+      },
+      "artists": [
+        {
+          "name": "Chris Zucker",
+          "url": "https://open.spotify.com/artist/0vHvMos2j5bXSH7Crae8UI"
+        },
+        {
+          "name": "notAbhi",
+          "url": "https://open.spotify.com/artist/3VQ2yUXpmLgV6w12WJx3aX"
+        },
+        {
+          "name": "Orxiid",
+          "url": "https://open.spotify.com/artist/2iCHg2F22S6xXcm5UqnjAc"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181668,
+      "name": "when it goes",
+      "url": "https://open.spotify.com/track/0Ci3XINuvCJiE8ZspwrBwT"
     },
     {
       "album": {

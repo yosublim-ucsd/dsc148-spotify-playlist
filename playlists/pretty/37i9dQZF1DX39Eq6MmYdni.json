@@ -1,12 +1,12 @@
 {
   "description": "Everything in Texas is best! Lo que suena in the Lone Star state. Cover: Grupo Frontera ",
-  "num_followers": 11367,
+  "num_followers": 11398,
   "original_name": "Rompiendo: Texas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxOTdmZjhjZTBmZmIzMjFmOWJiYmI1NDc3N2U3MjYwNzg4NTgyYmZj",
+  "snapshot_id": "MCw4YjJjMzlkZWViYjJmYmI0OTQyZWEwZTUyMDA1OGFkYjBlMWQ3ZjQ2",
   "tracks": [
     {
       "added_at": "2023-05-26 08:27:44",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-05-26 08:27:44",
       "album": {
-        "name": "Que nos Pas\u00f3?",
-        "url": "https://open.spotify.com/album/4Xyck3G0D1Rw2jkYmhqF6E"
-      },
-      "artists": [
-        {
-          "name": "La Zenda Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
-        }
-      ],
-      "duration_ms": 159519,
-      "name": "San Lucas",
-      "url": "https://open.spotify.com/track/2lFhc7gAK3koo59b1Y0WpD"
-    },
-    {
-      "added_at": "2023-05-26 08:27:44",
-      "album": {
         "name": "Chiquita Bonita",
         "url": "https://open.spotify.com/album/3Opmczjz0JKKUrX9LFJ0FB"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 156757,
       "name": "Chiquita Bonita",
       "url": "https://open.spotify.com/track/2OE3DPyc9S0IBLhy9S3vcn"
+    },
+    {
+      "added_at": "2023-05-26 08:27:44",
+      "album": {
+        "name": "Que nos Pas\u00f3?",
+        "url": "https://open.spotify.com/album/4Xyck3G0D1Rw2jkYmhqF6E"
+      },
+      "artists": [
+        {
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+        }
+      ],
+      "duration_ms": 159519,
+      "name": "San Lucas",
+      "url": "https://open.spotify.com/track/2lFhc7gAK3koo59b1Y0WpD"
     },
     {
       "added_at": "2023-05-26 08:27:44",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-05-26 08:27:44",
       "album": {
-        "name": "Pa Quererte",
-        "url": "https://open.spotify.com/album/0oBSqtS4zt2ZGSAiTZuHvF"
-      },
-      "artists": [
-        {
-          "name": "La Pocima Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
-        }
-      ],
-      "duration_ms": 197355,
-      "name": "Pa Quererte",
-      "url": "https://open.spotify.com/track/2nRx0se0bGzdFBqAjEmKce"
-    },
-    {
-      "added_at": "2023-05-26 08:27:44",
-      "album": {
         "name": "Beses a Quien Beses",
         "url": "https://open.spotify.com/album/3MQPEMiB4zdwh5BYQ38AQj"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 177845,
       "name": "Beses a Quien Beses",
       "url": "https://open.spotify.com/track/2NGXJSNQE4rsTts8TZfeS3"
+    },
+    {
+      "added_at": "2023-05-26 08:27:44",
+      "album": {
+        "name": "Pa Quererte",
+        "url": "https://open.spotify.com/album/0oBSqtS4zt2ZGSAiTZuHvF"
+      },
+      "artists": [
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+        }
+      ],
+      "duration_ms": 197355,
+      "name": "Pa Quererte",
+      "url": "https://open.spotify.com/track/2nRx0se0bGzdFBqAjEmKce"
     },
     {
       "added_at": "2023-05-26 08:27:44",

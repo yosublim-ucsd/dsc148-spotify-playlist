@@ -4,7 +4,7 @@
 
 > Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles\. Cover: Ezra Koenig
 
-245 songs - 15 hr 11 min
+246 songs - 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Circles \- Recorded at Electric Lady Studios NYC, 2020](https://open.spotify.com/track/2zpXEpZbAgQdhNyy6iwPwZ) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Spotify Singles](https://open.spotify.com/album/17z7tsbs0gZi7ASeae9saS) | 3:52 | 2022-03-30 |  |
 | [Circles \- Recorded at Electric Lady Studios NYC, 2020](https://open.spotify.com/track/31SdhreEaxPfyMJvWiw9R6) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Spotify Singles](https://open.spotify.com/album/31XFdluptfjbWjlvqGbegP) | 3:52 | 2021-10-27 | 2022-10-14 |
 | [Coloring Outside The Lines \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5jyqoi0sqigcLuce6XOXwa) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Spotify Singles](https://open.spotify.com/album/4HKJv2TGDJlUektNzVgFzQ) | 3:48 | 2021-10-27 | 2023-01-12 |
+| [Colors](https://open.spotify.com/track/5MRB560kWM0Zr9evG1YQ4t) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6), [Hypnotic Brass Ensemble](https://open.spotify.com/artist/4wvPcMJk7L9Rbw9Qh4kBeH) | [Black Pumas \(Expanded Deluxe Edition\)](https://open.spotify.com/album/1gn89OoC81JmZk95TMmOux) | 4:29 | 2023-01-11 |  |
 | [Colors](https://open.spotify.com/track/7opwYU8nShC7yZ6Ct4O5LD) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6), [Hypnotic Brass Ensemble](https://open.spotify.com/artist/4wvPcMJk7L9Rbw9Qh4kBeH) | [Black Pumas \(Expanded Deluxe Edition\)](https://open.spotify.com/album/3dgyglN3wrQu131OIjkdh7) | 4:29 | 2023-01-11 | 2023-07-16 |
 | [Come On Up To The House \(feat\. X Ambassadors\) \- Spotify Singles](https://open.spotify.com/track/2DVBF5MoZYTzxmfZl8ex2H) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Spotify Singles](https://open.spotify.com/album/5aWs6pUwG4gPNJxCF4wOwy) | 4:17 | 2023-01-11 |  |
 | [Complicated \- Spotify Singles](https://open.spotify.com/track/3NfykbNWo0nDR4aLdenRaO) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Spotify Singles](https://open.spotify.com/album/4cou0KtLPkdd5NbFFDyiio) | 3:58 | 2023-01-11 |  |
@@ -113,7 +114,7 @@
 | [I'll Call You Mine \- Spotify Singles](https://open.spotify.com/track/0hnpXKmUIqvgY0gj2Q1J7m) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Spotify Singles](https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c) | 2:26 | 2022-09-01 |  |
 | [I'll Call You Mine \- Spotify Singles](https://open.spotify.com/track/4xAozCywkOU2rkKn0lmZJv) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Spotify Singles](https://open.spotify.com/album/6lsdqhAPgBr4zykC1SXhW5) | 2:26 | 2022-09-01 | 2022-10-13 |
 | [I'm Goin' Down \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/4l7aryEsduuO7tQU8ZY46e) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Spotify Singles](https://open.spotify.com/album/7n2MqOxGeX7chH9Ld11cyA) | 3:27 | 2021-10-27 |  |
-| [If I Ever Was A Child \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/69eSem5Y1nrCaGi2FrQhVJ) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Spotify Singles](https://open.spotify.com/album/1VSf2rThMsBiBira4kH0Ak) | 3:12 | 2021-10-27 |  |
+| [If I Ever Was A Child \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/69eSem5Y1nrCaGi2FrQhVJ) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Spotify Singles](https://open.spotify.com/album/1VSf2rThMsBiBira4kH0Ak) | 3:12 | 2021-10-27 | 2023-07-20 |
 | [In Cold Blood \- Live from Spotify Studios, New York City, NY](https://open.spotify.com/track/4rqBVkiHkv7RovTm5CFyyt) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Spotify Singles](https://open.spotify.com/album/7vD0UV7p87sy5MnOhJqDDW) | 3:22 | 2021-10-27 | 2023-01-12 |
 | [J\-Boy \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0aSAkZFJXRPx4DmzanThFQ) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Spotify Singles](https://open.spotify.com/album/4Xw3godmGRmZfTB8DeCVHh) | 3:50 | 2022-10-26 | 2023-01-08 |
 | [J\-Boy \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/20fBriFnVXdyjj7IiESVUf) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Spotify Singles](https://open.spotify.com/album/6fyZpMCv7ynKO7qn9ZsGuS) | 3:50 | 2021-10-27 | 2022-07-29 |

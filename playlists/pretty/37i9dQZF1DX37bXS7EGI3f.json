@@ -1,12 +1,12 @@
 {
   "description": "Epic and melodic metal. Cover: Within Temptation",
-  "num_followers": 739106,
+  "num_followers": 739189,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjUwZDQzZDA3ZmRhNzU5Njk5NjNmN2I1MDAyZjAyMTc5ODY2YmRi",
+  "snapshot_id": "MCxhZDQ5ZTcxZDg3Yjk0YjY3YTg1ZjFiN2Q0YWJhZTMwODU0MDRiMWY1",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -387,6 +387,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Secrets Of The American Gods",
+        "url": "https://open.spotify.com/album/2VlGYrtrvRshFFEzBDRmD2"
+      },
+      "artists": [
+        {
+          "name": "Blind Guardian",
+          "url": "https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6"
+        }
+      ],
+      "duration_ms": 397026,
+      "name": "Secrets Of The American Gods - Single Edit",
+      "url": "https://open.spotify.com/track/59Zt3ljewoHZ0A2J6qayNo"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "Reincarnation",
         "url": "https://open.spotify.com/album/4yc9P5BoQkFrHlKPcW6UsQ"
       },
@@ -403,18 +419,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Secrets Of The American Gods",
-        "url": "https://open.spotify.com/album/2VlGYrtrvRshFFEzBDRmD2"
+        "name": "Diamanti",
+        "url": "https://open.spotify.com/album/0YFCj6Qvb78Ogj1NPZz1Cy"
       },
       "artists": [
         {
-          "name": "Blind Guardian",
-          "url": "https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6"
+          "name": "Temperance",
+          "url": "https://open.spotify.com/artist/0WHhPa7TmqQASabtpYsa5J"
         }
       ],
-      "duration_ms": 397026,
-      "name": "Secrets Of The American Gods - Single Edit",
-      "url": "https://open.spotify.com/track/59Zt3ljewoHZ0A2J6qayNo"
+      "duration_ms": 305506,
+      "name": "Pure Life Unfolds",
+      "url": "https://open.spotify.com/track/0UGIbrYl917NPgAazPIOJ2"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -439,22 +455,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Diamanti",
-        "url": "https://open.spotify.com/album/0YFCj6Qvb78Ogj1NPZz1Cy"
-      },
-      "artists": [
-        {
-          "name": "Temperance",
-          "url": "https://open.spotify.com/artist/0WHhPa7TmqQASabtpYsa5J"
-        }
-      ],
-      "duration_ms": 305506,
-      "name": "Pure Life Unfolds",
-      "url": "https://open.spotify.com/track/0UGIbrYl917NPgAazPIOJ2"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "On the Sea",
         "url": "https://open.spotify.com/album/6HF4boalvZJFeDAafJqCaR"
       },
@@ -467,26 +467,6 @@
       "duration_ms": 233343,
       "name": "On the Sea",
       "url": "https://open.spotify.com/track/140YrjpNRIohRgiUed4OIw"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Love Reign O'er Me",
-        "url": "https://open.spotify.com/album/4bYUQCRw0UMQaPdlMmPnce"
-      },
-      "artists": [
-        {
-          "name": "Edge Of Paradise",
-          "url": "https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY"
-        },
-        {
-          "name": "Judge & Jury",
-          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
-        }
-      ],
-      "duration_ms": 240106,
-      "name": "Love Reign O'er Me",
-      "url": "https://open.spotify.com/track/4iTx8xQFl22MH82TTrw8NQ"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -507,6 +487,26 @@
       "duration_ms": 347800,
       "name": "Opus of the Night (Ghost Requiem) (feat. Tina Guo)",
       "url": "https://open.spotify.com/track/08yNiukGEc21at2TakEvQT"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Love Reign O'er Me",
+        "url": "https://open.spotify.com/album/4bYUQCRw0UMQaPdlMmPnce"
+      },
+      "artists": [
+        {
+          "name": "Edge Of Paradise",
+          "url": "https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        }
+      ],
+      "duration_ms": 240106,
+      "name": "Love Reign O'er Me",
+      "url": "https://open.spotify.com/track/4iTx8xQFl22MH82TTrw8NQ"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Winter Is Coming",
-        "url": "https://open.spotify.com/album/1tWfmRuAlcjVu4utHgy3fN"
-      },
-      "artists": [
-        {
-          "name": "Beyond The Black",
-          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
-        }
-      ],
-      "duration_ms": 277493,
-      "name": "Winter Is Coming",
-      "url": "https://open.spotify.com/track/1BPFrXiyrInaCIWkuvVRny"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Glory for Salvation",
         "url": "https://open.spotify.com/album/4OfONg7cNiDlH9tpVNKN5i"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 346053,
       "name": "Son of Vengeance",
       "url": "https://open.spotify.com/track/0fNSEGMYMcJpQIcLpUq9FT"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Winter Is Coming",
+        "url": "https://open.spotify.com/album/1tWfmRuAlcjVu4utHgy3fN"
+      },
+      "artists": [
+        {
+          "name": "Beyond The Black",
+          "url": "https://open.spotify.com/artist/6swnqiL41Bd4gO2fnAXXrf"
+        }
+      ],
+      "duration_ms": 277493,
+      "name": "Winter Is Coming",
+      "url": "https://open.spotify.com/track/1BPFrXiyrInaCIWkuvVRny"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "My Soul's Demise",
-        "url": "https://open.spotify.com/album/4HaSyezw05cF8ujn3CS2Nz"
-      },
-      "artists": [
-        {
-          "name": "Blackbriar",
-          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
-        }
-      ],
-      "duration_ms": 264981,
-      "name": "My Soul's Demise",
-      "url": "https://open.spotify.com/track/1qdcekW1mcuwc193IutEFu"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "The Hanging Tree",
         "url": "https://open.spotify.com/album/3pl0dKJfqQ5GajM2Mvp2TG"
       },
@@ -679,18 +663,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Modern Primitive",
-        "url": "https://open.spotify.com/album/2Mys40rXrG4GNkRDeJMZ88"
+        "name": "Fairy of the Bog",
+        "url": "https://open.spotify.com/album/1JahUk68dOo6qgqppAkfk1"
       },
       "artists": [
         {
-          "name": "Septicflesh",
-          "url": "https://open.spotify.com/artist/5MlEt7qqXqNSReeX76xK6b"
+          "name": "Blackbriar",
+          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
         }
       ],
-      "duration_ms": 258838,
-      "name": "A Desert Throne",
-      "url": "https://open.spotify.com/track/3m3xlb2rdYGX5CZj0A8DBX"
+      "duration_ms": 276705,
+      "name": "Fairy of the Bog",
+      "url": "https://open.spotify.com/track/1bonbXXlT83xzDsyKIc0Am"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -711,6 +695,22 @@
       "duration_ms": 299076,
       "name": "Beneath (feat. Paolo Ribaldini)",
       "url": "https://open.spotify.com/track/0OjnAYGA3uGCN5XbD53dA5"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Modern Primitive",
+        "url": "https://open.spotify.com/album/2Mys40rXrG4GNkRDeJMZ88"
+      },
+      "artists": [
+        {
+          "name": "Septicflesh",
+          "url": "https://open.spotify.com/artist/5MlEt7qqXqNSReeX76xK6b"
+        }
+      ],
+      "duration_ms": 258838,
+      "name": "A Desert Throne",
+      "url": "https://open.spotify.com/track/3m3xlb2rdYGX5CZj0A8DBX"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Fairy of the Bog",
-        "url": "https://open.spotify.com/album/1JahUk68dOo6qgqppAkfk1"
-      },
-      "artists": [
-        {
-          "name": "Blackbriar",
-          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
-        }
-      ],
-      "duration_ms": 276705,
-      "name": "Fairy of the Bog",
-      "url": "https://open.spotify.com/track/1bonbXXlT83xzDsyKIc0Am"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Juokse Sin\u00e4 Humma",
         "url": "https://open.spotify.com/album/7iAwpnzJHBl22urMdnmaWN"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 196636,
       "name": "Juokse Sin\u00e4 Humma",
       "url": "https://open.spotify.com/track/0VuiLKm86hsS2DLDM2UVia"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "My Soul's Demise",
+        "url": "https://open.spotify.com/album/4HaSyezw05cF8ujn3CS2Nz"
+      },
+      "artists": [
+        {
+          "name": "Blackbriar",
+          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
+        }
+      ],
+      "duration_ms": 264981,
+      "name": "My Soul's Demise",
+      "url": "https://open.spotify.com/track/1qdcekW1mcuwc193IutEFu"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Drink with the Gods",
-        "url": "https://open.spotify.com/album/6NrEzBItZhPjJtvdyMnPPW"
-      },
-      "artists": [
-        {
-          "name": "Bloodbound",
-          "url": "https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Drink with the Gods",
-      "url": "https://open.spotify.com/track/03b3kwWJNx0QJUXVmG4WWk"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "A Heartless Portrait (The Orph\u00e9an Testament)",
         "url": "https://open.spotify.com/album/7ks1taIwddDv4bjFrujxn2"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 263853,
       "name": "Call out the Dark",
       "url": "https://open.spotify.com/track/5IqvKkwIqeqc2s8DF0avei"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Drink with the Gods",
+        "url": "https://open.spotify.com/album/6NrEzBItZhPjJtvdyMnPPW"
+      },
+      "artists": [
+        {
+          "name": "Bloodbound",
+          "url": "https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Drink with the Gods",
+      "url": "https://open.spotify.com/track/03b3kwWJNx0QJUXVmG4WWk"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -863,6 +863,22 @@
       "duration_ms": 364029,
       "name": "Vita Nova",
       "url": "https://open.spotify.com/track/2o7Exjn3bLrKOYS7rsJXlr"
+    },
+    {
+      "added_at": "2023-07-17 22:14:26",
+      "album": {
+        "name": "If I",
+        "url": "https://open.spotify.com/album/0WoNTHJEFm8AeH7sqtQomq"
+      },
+      "artists": [
+        {
+          "name": "Cyhra",
+          "url": "https://open.spotify.com/artist/6tkhw6PSVw7b2M7h5fLBLE"
+        }
+      ],
+      "duration_ms": 223760,
+      "name": "If I",
+      "url": "https://open.spotify.com/track/3JBx9llueWAJhpRNAzvPjZ"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -947,22 +963,6 @@
       "duration_ms": 209440,
       "name": "Krigsherren",
       "url": "https://open.spotify.com/track/5vKHU3aMlAzujMK2LcKPf7"
-    },
-    {
-      "added_at": "2023-07-17 22:14:26",
-      "album": {
-        "name": "If I",
-        "url": "https://open.spotify.com/album/0WoNTHJEFm8AeH7sqtQomq"
-      },
-      "artists": [
-        {
-          "name": "Cyhra",
-          "url": "https://open.spotify.com/artist/6tkhw6PSVw7b2M7h5fLBLE"
-        }
-      ],
-      "duration_ms": 223760,
-      "name": "If I",
-      "url": "https://open.spotify.com/track/3JBx9llueWAJhpRNAzvPjZ"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Summer Wine",
-        "url": "https://open.spotify.com/album/0zD0AziIE0AvM4cklnT7Bj"
-      },
-      "artists": [
-        {
-          "name": "Megaraptor",
-          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
-        }
-      ],
-      "duration_ms": 245444,
-      "name": "Summer Wine",
-      "url": "https://open.spotify.com/track/1FgRL0qBHeVu4iZnj3WP9r"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Not All Those Who Wander Are Lost",
         "url": "https://open.spotify.com/album/2Hdnxdxtbgbajj18nZcp65"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 286525,
       "name": "Not All Those Who Wander Are Lost",
       "url": "https://open.spotify.com/track/3BllrsBQnKlfb4rNDcllkt"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Summer Wine",
+        "url": "https://open.spotify.com/album/0zD0AziIE0AvM4cklnT7Bj"
+      },
+      "artists": [
+        {
+          "name": "Megaraptor",
+          "url": "https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA"
+        }
+      ],
+      "duration_ms": 245444,
+      "name": "Summer Wine",
+      "url": "https://open.spotify.com/track/1FgRL0qBHeVu4iZnj3WP9r"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1141,6 +1141,22 @@
       "url": "https://open.spotify.com/track/4LNkBt5ErMrbXHeCPoDhzZ"
     },
     {
+      "added_at": "2023-07-17 22:14:26",
+      "album": {
+        "name": "Ritter Tod und Teufel (Knightfall)",
+        "url": "https://open.spotify.com/album/0vim1HOPOljUal09szUN1p"
+      },
+      "artists": [
+        {
+          "name": "Serenity",
+          "url": "https://open.spotify.com/artist/3cdasOCLRe8dKjzjowtzNW"
+        }
+      ],
+      "duration_ms": 258737,
+      "name": "Ritter Tod und Teufel (Knightfall)",
+      "url": "https://open.spotify.com/track/6ioDj88eu8eqFuNuGv00tv"
+    },
+    {
       "added_at": "2023-05-19 04:00:00",
       "album": {
         "name": "Metamorphosis",
@@ -1171,22 +1187,6 @@
       "duration_ms": 378549,
       "name": "Now Is the Time",
       "url": "https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0"
-    },
-    {
-      "added_at": "2023-07-17 22:14:26",
-      "album": {
-        "name": "Ritter Tod und Teufel (Knightfall)",
-        "url": "https://open.spotify.com/album/0vim1HOPOljUal09szUN1p"
-      },
-      "artists": [
-        {
-          "name": "Serenity",
-          "url": "https://open.spotify.com/artist/3cdasOCLRe8dKjzjowtzNW"
-        }
-      ],
-      "duration_ms": 258737,
-      "name": "Ritter Tod und Teufel (Knightfall)",
-      "url": "https://open.spotify.com/track/6ioDj88eu8eqFuNuGv00tv"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Call of the North",
-        "url": "https://open.spotify.com/album/4w7w5ZXaUSAqY6qot06f5t"
-      },
-      "artists": [
-        {
-          "name": "Frozen Crown",
-          "url": "https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E"
-        }
-      ],
-      "duration_ms": 384066,
-      "name": "Call of the North",
-      "url": "https://open.spotify.com/track/4BS6jSRHgqNjL1eSlokBBd"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "My Father's Son",
         "url": "https://open.spotify.com/album/0qilzu3EIOuFZPvphDRJYr"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 303253,
       "name": "Breathing Divinity",
       "url": "https://open.spotify.com/track/2DYzExuijXK0C80vAGn8M8"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Call of the North",
+        "url": "https://open.spotify.com/album/4w7w5ZXaUSAqY6qot06f5t"
+      },
+      "artists": [
+        {
+          "name": "Frozen Crown",
+          "url": "https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E"
+        }
+      ],
+      "duration_ms": 384066,
+      "name": "Call of the North",
+      "url": "https://open.spotify.com/track/4BS6jSRHgqNjL1eSlokBBd"
     },
     {
       "added_at": "2023-05-19 04:00:00",

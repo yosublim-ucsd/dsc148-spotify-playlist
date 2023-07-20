@@ -1,12 +1,12 @@
 {
   "description": "Hottest bars coming live from the 233.  Cover: <a href=\"https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw?si=tLG-F3cnSCubrrFrRWIHhw\"> Jay Bahd</a> ",
-  "num_followers": 13578,
+  "num_followers": 13596,
   "original_name": "+233 Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTUwMDk5ZmUyMTFiM2UwMzEzYzNjOGFmOWNlNDhlZWM4NGFiY2Y4",
+  "snapshot_id": "MCwzMjQzYjg0YzFlOTk5OGM4Zjc5YmIxY2M1N2E2YjdlMmQ5MTg0M2U0",
   "tracks": [
     {
       "added_at": "2023-07-14 00:41:57",
@@ -92,10 +92,6 @@
       },
       "artists": [
         {
-          "name": "O'Kenneth",
-          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
-        },
-        {
           "name": "Jay Bahd",
           "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
         },
@@ -106,6 +102,10 @@
         {
           "name": "Kwaku DMC",
           "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+        },
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
         }
       ],
       "duration_ms": 176770,

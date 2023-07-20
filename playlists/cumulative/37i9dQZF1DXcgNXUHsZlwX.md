@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-411 songs - 1 day 0 hr 24 min
+412 songs - 1 day 0 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -235,7 +235,8 @@
 | [Les épousailles](https://open.spotify.com/track/3YBtUOXgW8FwxkAzphFAzx) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Petite plage](https://open.spotify.com/album/2YH5Fvzzf55VORIDHcTqmc) | 2:38 | 2021-01-15 | 2022-07-29 |
 | [Les épousailles](https://open.spotify.com/track/6t5R6YTK8d6n7wxjZI3JLp) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Petite plage](https://open.spotify.com/album/6GjRQbVrTgjbdNlSs7Plor) | 2:38 | 2022-07-08 |  |
 | [Lettre à un cowboy](https://open.spotify.com/track/20lTQxwyKRLUzycbzIl8kA) | [Rougemont](https://open.spotify.com/artist/1Q0JLPdGdwNf2gDJwTVQWY), [Michèle O](https://open.spotify.com/artist/6lcg8HLVsKOtnCydhSKMji), [L'indice](https://open.spotify.com/artist/2QGS6aI5UYUqorMVfo1MDm), [Le Husky](https://open.spotify.com/artist/5UKoCmzADSRKmREG2vUK8L) | [Lettre à un cowboy](https://open.spotify.com/album/0QVdiXqMe2QcVpuF8WZq2Y) | 3:49 | 2021-01-03\* | 2022-07-23 |
-| [Life As It Comes](https://open.spotify.com/track/4t8LId4jMs76b41wETklvD) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Life As It Comes](https://open.spotify.com/album/61XUeiskAi1ANHGLGBmz4I) | 4:19 | 2021-11-20 |  |
+| [Life as It Comes](https://open.spotify.com/track/2ri1XBMIOJLnCMzuzQyUml) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Live Slow Die Wise](https://open.spotify.com/album/2exje2s1zj4OX3qIToppco) | 4:19 | 2023-07-14 |  |
+| [Life As It Comes](https://open.spotify.com/track/4t8LId4jMs76b41wETklvD) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Life As It Comes](https://open.spotify.com/album/61XUeiskAi1ANHGLGBmz4I) | 4:19 | 2021-11-20 | 2023-07-20 |
 | [Loin, loin, loin \- Radio Edit](https://open.spotify.com/track/24pjVbHPz2vxwbBSVIVQkb) | [Joseph Edgar](https://open.spotify.com/artist/0hVqrbvEPj0tPpkOj9zFyD) | [Loin, loin, loin \(Radio Edit\) \- Single](https://open.spotify.com/album/4ApjGnbUOFXzIMlHebBR1C) | 2:40 | 2021-01-17 | 2021-01-28 |
 | [Looking At Me](https://open.spotify.com/track/0hrNXTJiypltvxA7NtvDDD) | [Willa Owen](https://open.spotify.com/artist/4530YXk5QycIMohu512pcC) | [Looking At Me](https://open.spotify.com/album/3hr3L6NI0FyqQOYMzUoOue) | 3:12 | 2023-04-02 |  |
 | [Lost River](https://open.spotify.com/track/7lNvSd4Tmx7UBfXljzsDhY) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Perséides](https://open.spotify.com/album/5xmDoybU1nIqKIevFsGIEG) | 2:55 | 2021-05-03 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Stay up to date with the freshest Arabic Pop Songs. Cover: <a href=\"https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc?si=Z60fJzqIQUagMSa0N4xfNA\">Ramy Sabry </a>",
-  "num_followers": 103116,
+  "num_followers": 103185,
   "original_name": "Fresh Arabic Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMzhmODQzZDgxODMxNTkxMjVmNjc4YWExN2M4MzViMDFmOTRjYWFh",
+  "snapshot_id": "MCwwNmJlNmI5MjhmZjJiYzFmMWEyMjA4MDc2ZTVmN2M5ODZjZDY5YzAw",
   "tracks": [
     {
       "added_at": "2023-07-17 15:45:15",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-07-17 15:45:15",
       "album": {
-        "name": "Ya Khabar",
-        "url": "https://open.spotify.com/album/3vUNaafLFHeKUOdDzM73O9"
-      },
-      "artists": [
-        {
-          "name": "Hussain Aljassmi",
-          "url": "https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D"
-        }
-      ],
-      "duration_ms": 172711,
-      "name": "Ya Khabar",
-      "url": "https://open.spotify.com/track/3FQFEFkm0aRQOTez0p5rrU"
-    },
-    {
-      "added_at": "2023-07-17 15:45:15",
-      "album": {
         "name": "Habibi",
         "url": "https://open.spotify.com/album/3PM8U6jiewiRInoRFVmqrx"
       },
@@ -291,18 +275,18 @@
     {
       "added_at": "2023-07-17 15:45:15",
       "album": {
-        "name": "Seebk Enta",
-        "url": "https://open.spotify.com/album/2L9QugHuAfWqw2rlG4CGPO"
+        "name": "Ya Khabar",
+        "url": "https://open.spotify.com/album/3vUNaafLFHeKUOdDzM73O9"
       },
       "artists": [
         {
-          "name": "Angham",
-          "url": "https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg"
+          "name": "Hussain Aljassmi",
+          "url": "https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D"
         }
       ],
-      "duration_ms": 240937,
-      "name": "Seebk Enta",
-      "url": "https://open.spotify.com/track/3PXha2Njo7liz76GW40Qqu"
+      "duration_ms": 172711,
+      "name": "Ya Khabar",
+      "url": "https://open.spotify.com/track/3FQFEFkm0aRQOTez0p5rrU"
     },
     {
       "added_at": "2023-07-17 15:45:15",
@@ -323,6 +307,22 @@
     {
       "added_at": "2023-07-17 15:45:15",
       "album": {
+        "name": "Seebk Enta",
+        "url": "https://open.spotify.com/album/2L9QugHuAfWqw2rlG4CGPO"
+      },
+      "artists": [
+        {
+          "name": "Angham",
+          "url": "https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg"
+        }
+      ],
+      "duration_ms": 240937,
+      "name": "Seebk Enta",
+      "url": "https://open.spotify.com/track/3PXha2Njo7liz76GW40Qqu"
+    },
+    {
+      "added_at": "2023-07-17 15:45:15",
+      "album": {
         "name": "\u0627\u0635\u062d\u0649 \u0644\u0644\u0643\u0644\u0627\u0645",
         "url": "https://open.spotify.com/album/0Fx94IBKPo7V7CCRwIVgH1"
       },
@@ -335,6 +335,22 @@
       "duration_ms": 194116,
       "name": "\u0627\u0635\u062d\u0649 \u0644\u0644\u0643\u0644\u0627\u0645",
       "url": "https://open.spotify.com/track/2UT9rAvXb95knln6VgVgtT"
+    },
+    {
+      "added_at": "2023-07-17 15:45:15",
+      "album": {
+        "name": "Andak (\u0639\u0646\u062f\u0627\u0643)",
+        "url": "https://open.spotify.com/album/5G7tHCfT95m6WYXtdpBQHM"
+      },
+      "artists": [
+        {
+          "name": "Mounim Slimani",
+          "url": "https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38"
+        }
+      ],
+      "duration_ms": 166624,
+      "name": "Andak - \u0639\u0646\u062f\u0627\u0643",
+      "url": "https://open.spotify.com/track/55ImWS9DvTTw0j4enHTbBx"
     },
     {
       "added_at": "2023-07-17 15:45:15",
@@ -367,22 +383,6 @@
       "duration_ms": 270811,
       "name": "Mezlaaj",
       "url": "https://open.spotify.com/track/19eghoyd6TxcIk5KR1AGes"
-    },
-    {
-      "added_at": "2023-07-17 15:45:15",
-      "album": {
-        "name": "Andak (\u0639\u0646\u062f\u0627\u0643)",
-        "url": "https://open.spotify.com/album/5G7tHCfT95m6WYXtdpBQHM"
-      },
-      "artists": [
-        {
-          "name": "Mounim Slimani",
-          "url": "https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38"
-        }
-      ],
-      "duration_ms": 166624,
-      "name": "Andak - \u0639\u0646\u062f\u0627\u0643",
-      "url": "https://open.spotify.com/track/55ImWS9DvTTw0j4enHTbBx"
     },
     {
       "added_at": "2023-07-17 15:45:15",
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-07-17 15:45:15",
       "album": {
-        "name": "Bas Bhebbak (\u0628\u0633 \u0628\u062d\u0628\u0643)",
-        "url": "https://open.spotify.com/album/4x4G2bwlUIS5whCvZMG6oJ"
-      },
-      "artists": [
-        {
-          "name": "Adam",
-          "url": "https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz"
-        }
-      ],
-      "duration_ms": 188207,
-      "name": "Bas Bhebbak - \u0628\u0633 \u0628\u062d\u0628\u0643",
-      "url": "https://open.spotify.com/track/1rqkWBdkIhusHfufWPzZv3"
-    },
-    {
-      "added_at": "2023-07-17 15:45:15",
-      "album": {
         "name": "Wala Bghiti",
         "url": "https://open.spotify.com/album/5pEvTUwO8EC0f3rxubqbKC"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 234000,
       "name": "Wala Bghiti",
       "url": "https://open.spotify.com/track/6MrdoWkAdnnlyVCd2qdriE"
+    },
+    {
+      "added_at": "2023-07-17 15:45:15",
+      "album": {
+        "name": "Bas Bhebbak (\u0628\u0633 \u0628\u062d\u0628\u0643)",
+        "url": "https://open.spotify.com/album/4x4G2bwlUIS5whCvZMG6oJ"
+      },
+      "artists": [
+        {
+          "name": "Adam",
+          "url": "https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz"
+        }
+      ],
+      "duration_ms": 188207,
+      "name": "Bas Bhebbak - \u0628\u0633 \u0628\u062d\u0628\u0643",
+      "url": "https://open.spotify.com/track/1rqkWBdkIhusHfufWPzZv3"
     },
     {
       "added_at": "2023-07-17 15:45:15",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-07-17 15:45:15",
       "album": {
-        "name": "Shabeah Rouhi",
-        "url": "https://open.spotify.com/album/0JCxGer8k83sCp2uBLZikd"
-      },
-      "artists": [
-        {
-          "name": "Assala Nasri",
-          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
-        }
-      ],
-      "duration_ms": 375833,
-      "name": "Shabeah Rouhi",
-      "url": "https://open.spotify.com/track/3Ewj9Gg9FIzfkoC6Wu9ISE"
-    },
-    {
-      "added_at": "2023-07-17 15:45:15",
-      "album": {
         "name": "Tetr Mosalsal Alnoon Wama Yalamoon",
         "url": "https://open.spotify.com/album/6Ei1CYvfA6SPfCP0LEFDvl"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 169172,
       "name": "Alnoon Wama Yalamoon",
       "url": "https://open.spotify.com/track/7p7dbDDQlz9pmiVeyZFOGi"
+    },
+    {
+      "added_at": "2023-07-17 15:45:15",
+      "album": {
+        "name": "Shabeah Rouhi",
+        "url": "https://open.spotify.com/album/0JCxGer8k83sCp2uBLZikd"
+      },
+      "artists": [
+        {
+          "name": "Assala Nasri",
+          "url": "https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl"
+        }
+      ],
+      "duration_ms": 375833,
+      "name": "Shabeah Rouhi",
+      "url": "https://open.spotify.com/track/3Ewj9Gg9FIzfkoC6Wu9ISE"
     },
     {
       "added_at": "2023-07-17 15:45:15",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-07-17 15:45:15",
       "album": {
-        "name": "\u0628\u062f\u064a\u062a \u0627\u0637\u064a\u0628",
-        "url": "https://open.spotify.com/album/5kPqppESqRCCXGEF9x0Fpq"
-      },
-      "artists": [
-        {
-          "name": "Majid Almohandis",
-          "url": "https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj"
-        }
-      ],
-      "duration_ms": 276010,
-      "name": "\u0628\u062f\u064a\u062a \u0627\u0637\u064a\u0628",
-      "url": "https://open.spotify.com/track/0WD009cqcJoOSaF8dsSh1s"
-    },
-    {
-      "added_at": "2023-07-17 15:45:15",
-      "album": {
         "name": "\u062d\u0643\u0627\u064a\u062a\u0646\u0627 \u0643\u0645\u0644\u062a",
         "url": "https://open.spotify.com/album/0Su6W3vrDEQcltG8oaAotv"
       },
@@ -647,6 +631,22 @@
     {
       "added_at": "2023-07-17 15:45:15",
       "album": {
+        "name": "\u0628\u062f\u064a\u062a \u0627\u0637\u064a\u0628",
+        "url": "https://open.spotify.com/album/5kPqppESqRCCXGEF9x0Fpq"
+      },
+      "artists": [
+        {
+          "name": "Majid Almohandis",
+          "url": "https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj"
+        }
+      ],
+      "duration_ms": 276010,
+      "name": "\u0628\u062f\u064a\u062a \u0627\u0637\u064a\u0628",
+      "url": "https://open.spotify.com/track/0WD009cqcJoOSaF8dsSh1s"
+    },
+    {
+      "added_at": "2023-07-17 15:45:15",
+      "album": {
         "name": "Ensan 2ali",
         "url": "https://open.spotify.com/album/7gm6nGEXUhSOKdQbm6cG2M"
       },
@@ -659,6 +659,22 @@
       "duration_ms": 208760,
       "name": "Ensan 2ali",
       "url": "https://open.spotify.com/track/0jmsuGduZnn5wE5LBfTQB1"
+    },
+    {
+      "added_at": "2023-07-17 15:45:15",
+      "album": {
+        "name": "GPS",
+        "url": "https://open.spotify.com/album/1aAzxjWZOSGO7TCHXhNCeD"
+      },
+      "artists": [
+        {
+          "name": "Ramy Gamal",
+          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
+        }
+      ],
+      "duration_ms": 197941,
+      "name": "GPS",
+      "url": "https://open.spotify.com/track/0cvB8z1iA7Xe82yPaFii7U"
     },
     {
       "added_at": "2023-07-17 15:45:15",
@@ -691,22 +707,6 @@
       "duration_ms": 204225,
       "name": "\u0627\u0644\u062d\u0628",
       "url": "https://open.spotify.com/track/0EM7yBpi3yoA5Vf6HVScgP"
-    },
-    {
-      "added_at": "2023-07-17 15:45:15",
-      "album": {
-        "name": "GPS",
-        "url": "https://open.spotify.com/album/1aAzxjWZOSGO7TCHXhNCeD"
-      },
-      "artists": [
-        {
-          "name": "Ramy Gamal",
-          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
-        }
-      ],
-      "duration_ms": 197941,
-      "name": "GPS",
-      "url": "https://open.spotify.com/track/0cvB8z1iA7Xe82yPaFii7U"
     },
     {
       "added_at": "2023-07-17 15:45:15",
@@ -813,7 +813,7 @@
       "artists": [
         {
           "name": "Sandy",
-          "url": "https://open.spotify.com/artist/4eAQYYrpDuYXiswOkJC9rA"
+          "url": "https://open.spotify.com/artist/2YvRrakSWfzyWwv8JCeeC5"
         }
       ],
       "duration_ms": 162000,

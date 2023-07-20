@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-445 songs - 1 day 4 hr 58 min
+446 songs - 1 day 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Blues For Mama \- Live](https://open.spotify.com/track/01spo6sDNqRWv2J1rr8aiR) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Blues For Mama \(Live\)](https://open.spotify.com/album/5b81x47sa8bCTS59nmocFR) | 4:44 | 2023-06-30 |  |
 | [Bodies \(Acoustic Version\)](https://open.spotify.com/track/6zBsRLDcGWhlvnZ2dUkys7) | [Leo](https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy) | [Bodies \(Acoustic Version\)](https://open.spotify.com/album/3VlgmPSPRwKZ4VzmymCjPX) | 3:23 | 2023-04-07 | 2023-04-15 |
 | [Bottle Episodes](https://open.spotify.com/track/4po80V0UADskVYWjH20GKk) | [The New Pornographers](https://open.spotify.com/artist/4mO4aGO6u29UyR6XLZR9XW) | [Continue as a Guest](https://open.spotify.com/album/4W7yoLgWewZv3rdhGjLB3B) | 4:12 | 2023-03-31 | 2023-04-09 |
-| [Box of Rain \(Live at RFK Stadium, Washington, DC, 6/10/73\)](https://open.spotify.com/track/1QA5senoc6Ff8yQtnnMGLu) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [RFK Stadium, Washington, DC, 6/10/73 \(Live\)](https://open.spotify.com/album/2Lxt0taVNc2Bv20rt0d21w) | 5:11 | 2023-07-14 |  |
+| [Box of Rain \(Live at RFK Stadium, Washington, DC, 6/10/73\)](https://open.spotify.com/track/1QA5senoc6Ff8yQtnnMGLu) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [RFK Stadium, Washington, DC, 6/10/73 \(Live\)](https://open.spotify.com/album/2Lxt0taVNc2Bv20rt0d21w) | 5:11 | 2023-07-14 | 2023-07-20 |
 | [Box of Rain \(Live at RFK Stadium, Washington, DC, 6/10/73\)](https://open.spotify.com/track/5jZH2OfS7QYxz7IGsFux23) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Box of Rain \(Live at RFK Stadium, Washington, DC, 6/10/73\)](https://open.spotify.com/album/6JWXD91cF3CJqcxTw5rXGV) | 5:11 | 2023-06-23 | 2023-07-16 |
 | [Broken](https://open.spotify.com/track/30nMa90oTf1bRnByWAPvQk) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Broken](https://open.spotify.com/album/7eaFOkg9K2iccAFK8mcRZT) | 2:57 | 2023-03-17 | 2023-03-25 |
 | [California](https://open.spotify.com/track/2tP1TRZs1sMhnS0WA3xVdo) | [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo) | [California](https://open.spotify.com/album/2LFtKHZpmGiB0u9KIHL7GY) | 2:25 | 2023-04-21 | 2023-04-29 |
@@ -395,6 +395,7 @@
 | [the ordinary is ordinary because it ordinarily repeats](https://open.spotify.com/track/449OoXofxirwe5w2YqRrQM) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [the ordinary is ordinary because it ordinarily repeats](https://open.spotify.com/album/1sLaCmkko1by5rgaqo15fv) | 6:17 | 2023-02-10 | 2023-02-19 |
 | [The Real A \(WHTA\) \[feat\. Skooly\]](https://open.spotify.com/track/4Yp8G0ryuun0v1dRHtMNcH) | [Yung Booke](https://open.spotify.com/artist/5WN6nHqU0WhBKCcbJXkSej), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [Skooly](https://open.spotify.com/artist/4gB2Nnsapxi4chX9f5zgku) | [The Real A \(WHTA\) \[feat\. Skooly\]](https://open.spotify.com/album/53Dw3Stif7Z9kGdDDBBJut) | 3:24 | 2023-03-17 | 2023-04-09 |
 | [The Star Room \(OG Version\) \- Bonus Track](https://open.spotify.com/track/3A1TIw1yMxj5OckDuqRtiT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu) | [Watching Movies with the Sound Off \(10th Anniversary\)](https://open.spotify.com/album/0Wf65emw9eAwbjJ45gMMqp) | 4:24 | 2023-06-23 | 2023-07-01 |
+| [They Love Each Other \(Live at RFK Stadium, Washington, DC, 6/10/73\)](https://open.spotify.com/track/5Ka80ETZbbaNCwRKVNbEGD) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [RFK Stadium, Washington, DC, 6/10/73 \(Live\)](https://open.spotify.com/album/2Lxt0taVNc2Bv20rt0d21w) | 5:23 | 2023-07-14 |  |
 | [Things I Like](https://open.spotify.com/track/7ibnBtLC00cf6AFJFYmUlv) | [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [Things I Like](https://open.spotify.com/album/77sn93da6cO2WivIKLaahQ) | 3:11 | 2023-03-10 | 2023-04-09 |
 | [Think Fast \(feat\. Weezer\)](https://open.spotify.com/track/4Z59a9hIn8EMsni3OiqGso) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Sunburn](https://open.spotify.com/album/2T7LuxZRr6SQMgABLtoYTH) | 3:42 | 2023-07-07 | 2023-07-15 |
 | [This Is Cali](https://open.spotify.com/track/1jkrHbPHxhcMi0k458R9Rz) | [Scar Lip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [This Is Cali](https://open.spotify.com/album/0lkOSHCA3BQhi0zXM0hVmP) | 2:20 | 2023-05-19 | 2023-05-27 |

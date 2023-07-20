@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: The Alchemist",
-  "num_followers": 1621834,
+  "num_followers": 1621887,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2ViZjQwOWZkMDFhOWExYjQ0MGQ5MjY2NmY2MjAyNWZlYjA1Yjk2",
+  "snapshot_id": "MCxmYzJhZWY5NjBjYjQ5NjBjMGMwMTQ3ZDgxNzYzOWQwMzMwYzFhNjc1",
   "tracks": [
     {
       "added_at": "2023-07-07 04:00:00",
@@ -387,18 +387,18 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Broski",
-        "url": "https://open.spotify.com/album/6pmNvWLb8NDdierueF4F07"
+        "name": "Making The Band (Danity Kane)",
+        "url": "https://open.spotify.com/album/4vHbgyJ6Gyt0JPoz75XAJr"
       },
       "artists": [
         {
-          "name": "Joyner Lucas",
-          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
         }
       ],
-      "duration_ms": 314067,
-      "name": "Broski",
-      "url": "https://open.spotify.com/track/63nolDQzy67C0vlyNXHfI7"
+      "duration_ms": 105999,
+      "name": "Making The Band (Danity Kane)",
+      "url": "https://open.spotify.com/track/2VSDVmmjXRy5PTGsbCJJvb"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -419,18 +419,18 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Making The Band (Danity Kane)",
-        "url": "https://open.spotify.com/album/4vHbgyJ6Gyt0JPoz75XAJr"
+        "name": "Broski",
+        "url": "https://open.spotify.com/album/6pmNvWLb8NDdierueF4F07"
       },
       "artists": [
         {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
         }
       ],
-      "duration_ms": 105999,
-      "name": "Making The Band (Danity Kane)",
-      "url": "https://open.spotify.com/track/2VSDVmmjXRy5PTGsbCJJvb"
+      "duration_ms": 314067,
+      "name": "Broski",
+      "url": "https://open.spotify.com/track/63nolDQzy67C0vlyNXHfI7"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -579,30 +579,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Don't Let The Devil [Feat. thankugoodsir]",
-        "url": "https://open.spotify.com/album/60rpMY5zgymbCEn7ICfi8M"
-      },
-      "artists": [
-        {
-          "name": "Killer Mike",
-          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
-        },
-        {
-          "name": "El-P",
-          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
-        },
-        {
-          "name": "thankugoodsir",
-          "url": "https://open.spotify.com/artist/64wFZ5RSArS1MwJ0N0nJhN"
-        }
-      ],
-      "duration_ms": 164894,
-      "name": "Don't Let The Devil [Feat. thankugoodsir] - Single Version",
-      "url": "https://open.spotify.com/track/2LBwRP4HSUTJiLobjhaaXp"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "F65",
         "url": "https://open.spotify.com/album/57iVWXgjdtxrgUH1snpz7i"
       },
@@ -623,6 +599,30 @@
       "duration_ms": 175834,
       "name": "Pinot Noir",
       "url": "https://open.spotify.com/track/4Z2hR3qjHR4r7dwt7dKd1s"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Don't Let The Devil [Feat. thankugoodsir]",
+        "url": "https://open.spotify.com/album/60rpMY5zgymbCEn7ICfi8M"
+      },
+      "artists": [
+        {
+          "name": "Killer Mike",
+          "url": "https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI"
+        },
+        {
+          "name": "El-P",
+          "url": "https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl"
+        },
+        {
+          "name": "thankugoodsir",
+          "url": "https://open.spotify.com/artist/64wFZ5RSArS1MwJ0N0nJhN"
+        }
+      ],
+      "duration_ms": 164894,
+      "name": "Don't Let The Devil [Feat. thankugoodsir] - Single Version",
+      "url": "https://open.spotify.com/track/2LBwRP4HSUTJiLobjhaaXp"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -755,30 +755,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Playa's Only (feat. Wiz Khalifa)",
-        "url": "https://open.spotify.com/album/5VcFT8jQVrava7H4QDuj8S"
-      },
-      "artists": [
-        {
-          "name": "Smoke DZA",
-          "url": "https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd"
-        },
-        {
-          "name": "The Smokers Club",
-          "url": "https://open.spotify.com/artist/0DSKJgPADvb4x1Bk3VETPr"
-        },
-        {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        }
-      ],
-      "duration_ms": 177771,
-      "name": "Playa's Only (feat. Wiz Khalifa)",
-      "url": "https://open.spotify.com/track/6U3j5OLotiJlHVdiq5hfSe"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "LALO (feat. 38 Spesh)",
         "url": "https://open.spotify.com/album/7Gi78mhePGXf2ILo3Kj7Tn"
       },
@@ -799,6 +775,30 @@
       "duration_ms": 280519,
       "name": "LALO (feat. 38 Spesh)",
       "url": "https://open.spotify.com/track/3EIlWD3juq0RGLIeRGFdYp"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Playa's Only (feat. Wiz Khalifa)",
+        "url": "https://open.spotify.com/album/5VcFT8jQVrava7H4QDuj8S"
+      },
+      "artists": [
+        {
+          "name": "Smoke DZA",
+          "url": "https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd"
+        },
+        {
+          "name": "The Smokers Club",
+          "url": "https://open.spotify.com/artist/0DSKJgPADvb4x1Bk3VETPr"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ],
+      "duration_ms": 177771,
+      "name": "Playa's Only (feat. Wiz Khalifa)",
+      "url": "https://open.spotify.com/track/6U3j5OLotiJlHVdiq5hfSe"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -855,6 +855,34 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
+        "name": "VICES",
+        "url": "https://open.spotify.com/album/2GnhuSP99eh6EWRUa8Owv6"
+      },
+      "artists": [
+        {
+          "name": "Curren$y",
+          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
+        },
+        {
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+        },
+        {
+          "name": "Jim Jones",
+          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "name": "Tommy Wright III",
+          "url": "https://open.spotify.com/artist/2BqDRvpxdBWHHJtWWFTVrw"
+        }
+      ],
+      "duration_ms": 158012,
+      "name": "Marcus Camby (feat. Jim Jones & Tommy Wright III)",
+      "url": "https://open.spotify.com/track/0TU4nYqx1m6NB9QRT5o0BS"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
         "name": "Win",
         "url": "https://open.spotify.com/album/5bncDKF5dQRBc1Ze0GbGUf"
       },
@@ -883,34 +911,6 @@
       "duration_ms": 234413,
       "name": "Rich Problems",
       "url": "https://open.spotify.com/track/5wCqSOUqA8orGqTVqei04h"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "VICES",
-        "url": "https://open.spotify.com/album/2GnhuSP99eh6EWRUa8Owv6"
-      },
-      "artists": [
-        {
-          "name": "Curren$y",
-          "url": "https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc"
-        },
-        {
-          "name": "Harry Fraud",
-          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
-        },
-        {
-          "name": "Jim Jones",
-          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
-        },
-        {
-          "name": "Tommy Wright III",
-          "url": "https://open.spotify.com/artist/2BqDRvpxdBWHHJtWWFTVrw"
-        }
-      ],
-      "duration_ms": 158012,
-      "name": "Marcus Camby (feat. Jim Jones & Tommy Wright III)",
-      "url": "https://open.spotify.com/track/0TU4nYqx1m6NB9QRT5o0BS"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -975,26 +975,22 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "What It Came Wit",
-        "url": "https://open.spotify.com/album/3Bv54tILGqaNq5xxyrwFbT"
+        "name": "Get A Ticket",
+        "url": "https://open.spotify.com/album/0idQETHpZfu6zCAqP5unBw"
       },
       "artists": [
         {
-          "name": "P.Gutter",
-          "url": "https://open.spotify.com/artist/32YCpkE0HALpF82ZcJxUeX"
+          "name": "Chase Fetti",
+          "url": "https://open.spotify.com/artist/4aAGG2cCHa15MPo795nJ97"
         },
         {
-          "name": "DJ Drama",
-          "url": "https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG"
-        },
-        {
-          "name": "Fat Joe",
-          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+          "name": "Benny The Butcher",
+          "url": "https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T"
         }
       ],
-      "duration_ms": 198183,
-      "name": "What It Came Wit",
-      "url": "https://open.spotify.com/track/7j9toA31XRMOsgA5x7m5UN"
+      "duration_ms": 172500,
+      "name": "Get A Ticket",
+      "url": "https://open.spotify.com/track/60PjmG1cTL2MRuDa8MRlkB"
     }
   ],
   "unique_name": "Spilled Ink",

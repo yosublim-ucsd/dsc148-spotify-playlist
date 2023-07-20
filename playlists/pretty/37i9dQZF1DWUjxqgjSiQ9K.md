@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto:   <a href="https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi?si=461e90d8ab2f47a4">Majo y Dan</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 576,973 likes - 100 songs - 7 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,156 likes - 100 songs - 7 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 23 | [Confía \- En Vivo](https://open.spotify.com/track/7DjUWgkFpJVrTDL5m2bmqt) | [New Wine](https://open.spotify.com/artist/5W9IQJnGvBYP8VOChmSpU6) | [Lugar Secreto \(En Vivo\)](https://open.spotify.com/album/2p9jYFk29y9u9STPyWaqns) | 4:30 |
 | 24 | [Aleluya](https://open.spotify.com/track/49pWfGhPqDuqK81qPbObx3) | [Harold y Elena](https://open.spotify.com/artist/01uLFuopGIW0WmZrbMLUfL) | [Nadie Como Él](https://open.spotify.com/album/5EEQ79w67vuuhSSu2EVKVz) | 4:10 |
 | 25 | [Solo en Cristo](https://open.spotify.com/track/5K7DKEJtKQJJgXbC8OfLNd) | [Adoración La IBI](https://open.spotify.com/artist/6qValgleME8pv861DLzupQ) | [Miraré al Rey](https://open.spotify.com/album/027pf1seCyz8BPhya74n2L) | 4:47 |
-| 26 | [Al Dios Altísimo](https://open.spotify.com/track/61NBtUadx9dLBw2Q3ezcAC) | [Vino Nuevo](https://open.spotify.com/artist/5Bqc3c0Op9Wvv0E5fhuLqX), [Canciones Cristianas](https://open.spotify.com/artist/49DuLm2HzOCTqyZg6nmJN9) | [La Casa Apostólica del Espíritu Santo – New Wine](https://open.spotify.com/album/5Esqf4d4jkOA5LR7Z9TAMW) | 4:00 |
+| 26 | [Al Dios Altísimo](https://open.spotify.com/track/61NBtUadx9dLBw2Q3ezcAC) | [Vino Nuevo](https://open.spotify.com/artist/5Bqc3c0Op9Wvv0E5fhuLqX), [Canciones Cristianas](https://open.spotify.com/artist/49DuLm2HzOCTqyZg6nmJN9), [Alabanzas Cristianas](https://open.spotify.com/artist/2QuvmDcAU2EFX08IoA8qIO) | [La Casa Apostólica del Espíritu Santo – New Wine](https://open.spotify.com/album/5Esqf4d4jkOA5LR7Z9TAMW) | 4:00 |
 | 27 | [A Quién Iremos](https://open.spotify.com/track/4CcH3kekkWh9KI2QfZqG3J) | [Son By Four](https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j) | [A Quién Iremos](https://open.spotify.com/album/06Pgluz92FVBeCOZg6mX74) | 4:58 |
 | 28 | [LA MESA](https://open.spotify.com/track/60uZkdyAXuJywgNWLBzPlf) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h), [Daniela Calveti](https://open.spotify.com/artist/5pZVqNscC5Q47N9qHH3UUy) | [LA MESA](https://open.spotify.com/album/0djoSU1ZtByuG6BqHdMJVh) | 7:23 |
 | 29 | [Bajo El Agua](https://open.spotify.com/track/4zEL9LHCQNPmDTc3dsOume) | [Marcos Vidal](https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd) | [Lo Que Vemos](https://open.spotify.com/album/0wkdE2eKcK4MBcfiphlEmC) | 4:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 99 | [Fuente](https://open.spotify.com/track/77HM9474iN1caGgAFSLsWX) | [Ale Fdz](https://open.spotify.com/artist/1m3YfDehEub35DvsmG9gMy) | [Fuente](https://open.spotify.com/album/2KI68yyvIzkthZi19LeFlX) | 3:36 |
 | 100 | [No Necesito Doctor.](https://open.spotify.com/track/4dsEUfpG1wyx1KTgBSOyxH) | [Josh Gamez](https://open.spotify.com/artist/7uCU7xpudVdCE7lUJQ7Fwr) | [No Necesito Doctor.](https://open.spotify.com/album/7lpoc4oeAmkRV2NY8uPqNg) | 3:22 |
 
-Snapshot ID: `MCwzMWExMWI0MGZkYmNmZTM5ZDdkYWNkNjcxMDY1NDhhYmQ2NTAxOTMy`
+Snapshot ID: `MCw0ZWRjYWE0M2YxOGIwNmM1MTljNDBkYTE1MWNhNTMxNjZkMWYyYjZi`

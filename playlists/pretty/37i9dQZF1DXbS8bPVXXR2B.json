@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 211541,
+  "num_followers": 211644,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzU0ZDM0MDgwZmZhMzY0NjQ1YjE5ODYwNDY3YzdjZGVmNGY4MTdm",
+  "snapshot_id": "MCw4ZGExODEwZTg3ODJmZmQ5NzNlODljNWRlMmIyM2NjMjBjYzY4YzRh",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/3kBttrxwsNFoNTtRGyhge1"
-      },
-      "artists": [
-        {
-          "name": "Indeep",
-          "url": "https://open.spotify.com/artist/50xejJlMNloQ4PUB7lGP9h"
-        }
-      ],
-      "duration_ms": 341426,
-      "name": "Last Night a D.J. Saved My Life",
-      "url": "https://open.spotify.com/track/6NSqiyQWIyZLouviktad9X"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Marcos Valle",
         "url": "https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 313493,
       "name": "Estrelar",
       "url": "https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/3kBttrxwsNFoNTtRGyhge1"
+      },
+      "artists": [
+        {
+          "name": "Indeep",
+          "url": "https://open.spotify.com/artist/50xejJlMNloQ4PUB7lGP9h"
+        }
+      ],
+      "duration_ms": 341426,
+      "name": "Last Night a D.J. Saved My Life",
+      "url": "https://open.spotify.com/track/6NSqiyQWIyZLouviktad9X"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -659,22 +659,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "I Want to Feel Your Love",
-        "url": "https://open.spotify.com/album/7snUwkG3Ke47yLJBbwbcfk"
-      },
-      "artists": [
-        {
-          "name": "Oby Onyioha",
-          "url": "https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY"
-        }
-      ],
-      "duration_ms": 378485,
-      "name": "Enjoy Your Life",
-      "url": "https://open.spotify.com/track/1UKk8v7T2IrpcLEP1KKqZb"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Disco Jazz",
         "url": "https://open.spotify.com/album/39VaqEkzu1GAw1pESi2tBt"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 479629,
       "name": "Aaj Shanibar",
       "url": "https://open.spotify.com/track/31KWQUc0jo0qjZeqduEovA"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "I Want to Feel Your Love",
+        "url": "https://open.spotify.com/album/7snUwkG3Ke47yLJBbwbcfk"
+      },
+      "artists": [
+        {
+          "name": "Oby Onyioha",
+          "url": "https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY"
+        }
+      ],
+      "duration_ms": 378485,
+      "name": "Enjoy Your Life",
+      "url": "https://open.spotify.com/track/1UKk8v7T2IrpcLEP1KKqZb"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Is It All Over My Face?",
-        "url": "https://open.spotify.com/album/5bAVzhdknkLZTmByjTJ14N"
-      },
-      "artists": [
-        {
-          "name": "Loose Joints",
-          "url": "https://open.spotify.com/artist/0eoOgNAKS0g3piTJlFY173"
-        }
-      ],
-      "duration_ms": 427990,
-      "name": "Is It All Over My Face? - Female Version",
-      "url": "https://open.spotify.com/track/0QIl1aNSEMQL7BryNIi6dB"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Silk Rhodes",
         "url": "https://open.spotify.com/album/3i1kIb5NncLgLIU86ju8jr"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 145646,
       "name": "Face 2 Face",
       "url": "https://open.spotify.com/track/16vd3YjKTmORE88HUl2gUR"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Is It All Over My Face?",
+        "url": "https://open.spotify.com/album/5bAVzhdknkLZTmByjTJ14N"
+      },
+      "artists": [
+        {
+          "name": "Loose Joints",
+          "url": "https://open.spotify.com/artist/0eoOgNAKS0g3piTJlFY173"
+        }
+      ],
+      "duration_ms": 427990,
+      "name": "Is It All Over My Face? - Female Version",
+      "url": "https://open.spotify.com/track/0QIl1aNSEMQL7BryNIi6dB"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Paradise (Remastered)",
-        "url": "https://open.spotify.com/album/0aVMTknKy6rbFESKvOlOV3"
-      },
-      "artists": [
-        {
-          "name": "Leroy Hutson",
-          "url": "https://open.spotify.com/artist/5YJjMGHVQj1IHBabXX8lH6"
-        }
-      ],
-      "duration_ms": 331893,
-      "name": "Classy Lady - Remastered Version",
-      "url": "https://open.spotify.com/track/2wSwWfqpMBkHBOkb6cCB7o"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Magical Night (Greatest Hits Special Price)",
         "url": "https://open.spotify.com/album/4oJxJx3YxgItQdfcihMD0f"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 268653,
       "name": "Hold Tight - Full Length Album Mix",
       "url": "https://open.spotify.com/track/3HmU74RIPV2LgkjJUeU7Cd"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Paradise (Remastered)",
+        "url": "https://open.spotify.com/album/0aVMTknKy6rbFESKvOlOV3"
+      },
+      "artists": [
+        {
+          "name": "Leroy Hutson",
+          "url": "https://open.spotify.com/artist/5YJjMGHVQj1IHBabXX8lH6"
+        }
+      ],
+      "duration_ms": 331893,
+      "name": "Classy Lady - Remastered Version",
+      "url": "https://open.spotify.com/track/2wSwWfqpMBkHBOkb6cCB7o"
     },
     {
       "added_at": "2022-09-05 16:54:43",

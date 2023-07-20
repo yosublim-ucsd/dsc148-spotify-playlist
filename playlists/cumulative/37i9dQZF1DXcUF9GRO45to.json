@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "A Hooded Witness",
+        "url": "https://open.spotify.com/album/66y40mYUKZuyBEtOzVRQA3"
+      },
+      "artists": [
+        {
+          "name": "Cemented Minds",
+          "url": "https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246853,
+      "name": "A Hooded Witness",
+      "url": "https://open.spotify.com/track/4x6eOkyTPUKM4BtSIRfVzp"
+    },
+    {
+      "album": {
         "name": "We The People Of The Soil",
         "url": "https://open.spotify.com/album/4dF2btv546wMUc49Tkh7RR"
       },
@@ -1458,7 +1476,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 173226,
       "name": "Flowers for Handcuffs",
       "url": "https://open.spotify.com/track/2sO7GZQ9FQOtB7XSRqkf33"
@@ -1804,6 +1822,24 @@
       "duration_ms": 204320,
       "name": "Haunted House",
       "url": "https://open.spotify.com/track/1sz7VUOwSA5ccLfU6VbjMn"
+    },
+    {
+      "album": {
+        "name": "The Devil You Know",
+        "url": "https://open.spotify.com/album/7zrq1fN6aANP2nDQZA2CtL"
+      },
+      "artists": [
+        {
+          "name": "SBRBS",
+          "url": "https://open.spotify.com/artist/4Ev1vDMIcytBZ84u8Hz2S3"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202580,
+      "name": "Heavy Hearted",
+      "url": "https://open.spotify.com/track/7HFZ2R5rLtboCK96OLTQag"
     },
     {
       "album": {
@@ -2658,7 +2694,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 322119,
       "name": "Lust of the Dead",
       "url": "https://open.spotify.com/track/2b1KKMDFJ4dnMyg5G9Zz5Y"
@@ -2964,7 +3000,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 188736,
       "name": "Newspapers",
       "url": "https://open.spotify.com/track/0T6LqY3Cgi6xleNezgWgUE"
@@ -4060,7 +4096,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-08",
+      "date_removed": null,
       "duration_ms": 216559,
       "name": "Spring Harvest",
       "url": "https://open.spotify.com/track/2BLfTfS66mjm0pIOHH4mrn"

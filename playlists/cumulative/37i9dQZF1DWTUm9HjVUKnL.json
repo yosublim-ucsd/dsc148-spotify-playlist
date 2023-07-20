@@ -12942,6 +12942,28 @@
     {
       "album": {
         "name": "OMOGE WA JO",
+        "url": "https://open.spotify.com/album/6PyyxJkmIZbybiMrOjpPNh"
+      },
+      "artists": [
+        {
+          "name": "Cruel Santino",
+          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
+        },
+        {
+          "name": "L0LA",
+          "url": "https://open.spotify.com/artist/5LkJ2e1N1SuXrUIWkw1r0o"
+        }
+      ],
+      "date_added": "2023-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145084,
+      "name": "OMOGE WA JO",
+      "url": "https://open.spotify.com/track/1r2aKropSpSFb37Nmtp8WT"
+    },
+    {
+      "album": {
+        "name": "OMOGE WA JO",
         "url": "https://open.spotify.com/album/0gZF6kUZ77XxQA23NkNp5K"
       },
       "artists": [
@@ -12960,28 +12982,6 @@
       "duration_ms": 145084,
       "name": "OMOGE WA JO",
       "url": "https://open.spotify.com/track/3ra7ztUfRIwxw0sO8PhmMC"
-    },
-    {
-      "album": {
-        "name": "OMOGE WA JO (Spotify Singles)",
-        "url": "https://open.spotify.com/album/6PyyxJkmIZbybiMrOjpPNh"
-      },
-      "artists": [
-        {
-          "name": "Cruel Santino",
-          "url": "https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih"
-        },
-        {
-          "name": "L0LA",
-          "url": "https://open.spotify.com/artist/5LkJ2e1N1SuXrUIWkw1r0o"
-        }
-      ],
-      "date_added": "2023-05-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 145084,
-      "name": "OMOGE WA JO (Spotify Singles)",
-      "url": "https://open.spotify.com/track/1r2aKropSpSFb37Nmtp8WT"
     },
     {
       "album": {

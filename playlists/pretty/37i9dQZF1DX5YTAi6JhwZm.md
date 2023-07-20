@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 
 > Uplifting and upbeat Jazz to get you in a good mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,227 likes - 101 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,246 likes - 101 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 | 100 | [Feeling](https://open.spotify.com/track/6mLWHZHMceU8qX8uQx8k8M) | [Hegge](https://open.spotify.com/artist/5EWX8RNmEZQNPmKQY4XU1G) | [Feeling](https://open.spotify.com/album/1I5B2Z0aFETAorqMcAO33u) | 6:46 |
 | 101 | [The People In Nassau](https://open.spotify.com/track/1x217IcZCRrvizzbwgPg6H) | [Blue Mitchell](https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW) | [Heads Up!](https://open.spotify.com/album/3pWwmaoyEy42Oac3pW3IPC) | 5:39 |
 
-Snapshot ID: `MCw3OTM0N2EzODYwMTFlYWQxNzQxZDBhOWQ1NTA5ZjVhMzJhYjAwODlj`
+Snapshot ID: `MCw2ODgwMGE2NTNhNzI0NWEzYzQzN2I2NGIzZmU0ZGUxYzQyMDRlZDEz`

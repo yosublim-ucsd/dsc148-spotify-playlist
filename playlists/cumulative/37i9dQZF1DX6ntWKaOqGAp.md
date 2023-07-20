@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: Saucy Dog
 
-611 songs - 1 day 14 hr 19 min
+613 songs - 1 day 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,8 @@
 | [innocent arrogance](https://open.spotify.com/track/7JgBlEV4AbeHVhaTczGdTg) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [innocent arrogance](https://open.spotify.com/album/1VoA8bMAIB5BRjSMqaFQkP) | 3:31 | 2023-04-06 | 2023-05-26 |
 | [Isshoukonomama](https://open.spotify.com/track/60cWyPsmoAicYR6UHQyqoI) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [Isshoukonomama](https://open.spotify.com/album/4HuZRJ6P8hZxYhQ7CsHfVh) | 4:43 | 2023-05-30 | 2023-07-05 |
 | [Journey](https://open.spotify.com/track/1k7idRCVXSQCDoE9de5ixM) | [Czecho No Republic](https://open.spotify.com/artist/1FdojLtbHge9K5DlOsHrkd) | [Journey](https://open.spotify.com/album/6XiWEl4R6EDfOuug8Pc5GU) | 4:12 | 2023-03-23 | 2023-04-20 |
-| [Jurassic](https://open.spotify.com/track/0okYcNqMBFmSwf2xeECPpd) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Jurassic](https://open.spotify.com/album/6XDBprGtBpzB7t0dHP85fs) | 2:57 | 2023-07-18 |  |
+| [Jurassic](https://open.spotify.com/track/0okYcNqMBFmSwf2xeECPpd) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Jurassic](https://open.spotify.com/album/6XDBprGtBpzB7t0dHP85fs) | 2:57 | 2023-07-18 | 2023-07-20 |
+| [Jurassic](https://open.spotify.com/track/7HcpoYSDvOks6YAE2A3JQn) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Jurassic](https://open.spotify.com/album/6dgCSpkDbi4Y4WJpC24nZ8) | 2:57 | 2023-07-18 |  |
 | [Just Be Alive](https://open.spotify.com/track/4OpfbKpEcLBFDFR5084S8q) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [Not Unusual](https://open.spotify.com/album/3gx3krICQA5Q62l56pEHcB) | 2:53 | 2023-02-14 | 2023-03-29 |
 | [Kagayaki](https://open.spotify.com/track/6HTszMxB3dpiwaAR5WXAGG) | [ZOOKARADERU](https://open.spotify.com/artist/0mkwliKa9Bf7kdXMV1iuMp) | [Kagayaki](https://open.spotify.com/album/5wpr3BhcqXTnBUIxlwsxcv) | 3:09 | 2023-05-16 | 2023-07-12 |
 | [kajitsukyoso](https://open.spotify.com/track/2lqAElAA0BEZcSe9wyKL8I) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [kajitsukyoso](https://open.spotify.com/album/15QuOefdY8WQ7Mcutatrt5) | 4:17 | 2023-05-30 | 2023-06-28 |
@@ -326,6 +327,7 @@
 | [Watashi Akinu Watashi](https://open.spotify.com/track/3DuZhfyQTHmityBjFugI6q) | [Kyuso Nekokami](https://open.spotify.com/artist/2ZlX1yKrkVz98AVtQCRJbb) | [Watashi Akinu Watashi](https://open.spotify.com/album/0SLWfFwN3psEdqNsS6qhIA) | 3:47 | 2023-01-17 | 2023-02-15 |
 | [Watashitachi no Journey](https://open.spotify.com/track/01b6Whwx7GswmnOOtKZC9c) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Watashitachi no Journey](https://open.spotify.com/album/5M5laQ3chroFtqUENoZaV8) | 4:07 | 2023-06-13 |  |
 | [We The Female!](https://open.spotify.com/track/2yagcsYdqa14jDsGAFJ2BP) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [We The Female!](https://open.spotify.com/album/139E2UjytWfbFIkf9BOyQU) | 3:04 | 2023-04-04 | 2023-05-17 |
+| [When dawn comes, we](https://open.spotify.com/track/3EFyfR4HLQ3daSEEK28xd3) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [happiness](https://open.spotify.com/album/6ycdKGWkXUzF6Aj7YQeovf) | 4:47 | 2023-07-18 |  |
 | [Where Do We Go?](https://open.spotify.com/track/3n2YaCic0C3gjCgkTkwfOz) | [OKAMOTO'S](https://open.spotify.com/artist/3X1afU2VL6MV0AJacARH7T) | [Where Do We Go?](https://open.spotify.com/album/13ukRIGlCs6RbRAvDVzhF8) | 3:22 | 2023-04-27 | 2023-06-21 |
 | [White Noise](https://open.spotify.com/track/1mY3E6zTjhjQD5SSy8ctgk) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [White Noise](https://open.spotify.com/album/5QFR0drgoyEhPvfFh5zulf) | 4:14 | 2023-01-13 | 2023-04-21 |
 | [White Rabbit](https://open.spotify.com/track/1BMhVGBje3qHKLCrFbLOwB) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [White Rabbit](https://open.spotify.com/album/7cKEIQl2vpLKajvEKLY7ys) | 4:35 | 2023-03-21 | 2023-05-10 |
@@ -510,7 +512,7 @@
 | [夏の夢は](https://open.spotify.com/track/7x6kyQTNiScCMXbEQlqF1u) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [夏の夢は](https://open.spotify.com/album/5g5omcP2NhrxMsQcMzyQWS) | 3:16 | 2023-07-18 |  |
 | [夏恋注意報](https://open.spotify.com/track/1AB5STSw5kjkOSmie1dkYb) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [夏恋注意報](https://open.spotify.com/album/2YPfXFSP0eiV5W0WnVyJUM) | 4:49 | 2023-06-27 |  |
 | [夏日狂想](https://open.spotify.com/track/4YiiwI9UXNTT51BwojLcR8) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [夏日狂想](https://open.spotify.com/album/3awrF7PnzLIDdQyJzlhrzx) | 4:17 | 2023-05-30 | 2023-06-01 |
-| [夜が明けたら私たち](https://open.spotify.com/track/7g7aXtGi28jYS7sEvjGIp7) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [いい気分さ](https://open.spotify.com/album/2XPA0PXFm2YHiweBeNphCe) | 4:47 | 2023-07-18 |  |
+| [夜が明けたら私たち](https://open.spotify.com/track/7g7aXtGi28jYS7sEvjGIp7) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [いい気分さ](https://open.spotify.com/album/2XPA0PXFm2YHiweBeNphCe) | 4:47 | 2023-07-18 | 2023-07-20 |
 | [夜間飛行](https://open.spotify.com/track/68YvkhqAt2SVQUCjjIjtyX) | [KAMI WA SAIKORO WO FURANAI](https://open.spotify.com/artist/2FqdskWqZqDdlSnAIo9BGA) | [夜間飛行](https://open.spotify.com/album/1AnR0C9gnRDw8qgV4wdWlU) | 3:00 | 2023-01-13 | 2023-02-17 |
 | [夜顔](https://open.spotify.com/track/4XH4ckpvd4q1MDFKyE4PEQ) | [Oisicle Melonpan](https://open.spotify.com/artist/7v7AOgHT3xwF4Z86hcCbsh) | [夜顔](https://open.spotify.com/album/6Z45gYtioGt7lLln8FsP14) | 3:20 | 2023-01-17 | 2023-02-15 |
 | [夢の10年後](https://open.spotify.com/track/22srVUYjt1uZ4H86ip36t4) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [夢の10年後](https://open.spotify.com/album/6pNnpUzUs7Bkn4DEBGMK5P) | 5:49 | 2023-07-11 |  |

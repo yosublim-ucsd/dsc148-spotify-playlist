@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Cassiane
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,289 likes - 40 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,431 likes - 40 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 39 | [Enquanto a Igreja Ora](https://open.spotify.com/track/7zr5HXsViII0gR1Iwcr0ed) | [Maria Marçal](https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk) | [Enquanto a Igreja Ora](https://open.spotify.com/album/2casb8zplapBFUHPOmTq3q) | 3:21 |
 | 40 | [Janeiro a Janeiro](https://open.spotify.com/track/6wd95nWKSGZMbnzfiPuYLr) | [Felipe Britto](https://open.spotify.com/artist/2dUz5rMQ6skoxPwUfngsSH) | [Janeiro a Janeiro](https://open.spotify.com/album/3uqpOSfCNa9jfFcgwBTM6I) | 2:43 |
 
-Snapshot ID: `MCwxZDA2YjEwZmRkZmIxZmFiMDZiZTc4YWUyNWZkYThlMmRjMjQ1YTdm`
+Snapshot ID: `MCw2NDQ5MDYxYWM3YjAzNmU5NTBiZmIzMmUwY2M5NmVlMjYxYWI0ZmU2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 
 > Cool vibes from the African continent.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,435 likes - 84 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,443 likes - 84 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 | 83 | [Bum Bum](https://open.spotify.com/track/4rPHUR75CuFBFlqIlRgTOw) | [BRUME](https://open.spotify.com/artist/0mF9O2cuTxRrGsutiPlcP1) | [Bum Bum](https://open.spotify.com/album/2Iv5glWz7CKCDtPU6HEorg) | 3:05 |
 | 84 | [My Baby](https://open.spotify.com/track/4QI32cLrF64ZTPfIHwIH5w) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [My Baby](https://open.spotify.com/album/19gij56nUFKFWEffBT4hy2) | 3:10 |
 
-Snapshot ID: `MCxmYThlYTI5MjlmZmFkZTliM2NjZjgyYTI2MWU3NjM2ZmEyZTJmZWYz`
+Snapshot ID: `MCw3Yzk5YmYyNmE0OGFlMGEzOGU4OTc3NjMxNzZmMmYyNTAwNTg5M2Yz`

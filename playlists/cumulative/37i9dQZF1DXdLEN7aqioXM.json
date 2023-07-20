@@ -6411,6 +6411,28 @@
     },
     {
       "album": {
+        "name": "Home (Remixed)",
+        "url": "https://open.spotify.com/album/3EftlF1eioHd4pxx6Lw3og"
+      },
+      "artists": [
+        {
+          "name": "StayLoose",
+          "url": "https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83"
+        },
+        {
+          "name": "Dream Fiend",
+          "url": "https://open.spotify.com/artist/5L6COTBfO2KjrJgFYe96Q7"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244285,
+      "name": "Spaceship Gurl - Dream Fiend Remix",
+      "url": "https://open.spotify.com/track/1ODc1DUTRidGBie9pZhTaS"
+    },
+    {
+      "album": {
         "name": "Algorithm Nation",
         "url": "https://open.spotify.com/album/1XFxC8GRoWcJI5wyqbyflY"
       },
@@ -7124,7 +7146,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 134666,
       "name": "The Mansion",
       "url": "https://open.spotify.com/track/2P8m9NgakN6EUBIyio0GuD"

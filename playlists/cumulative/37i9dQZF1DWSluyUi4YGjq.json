@@ -6564,7 +6564,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 208750,
       "name": "Virgo",
       "url": "https://open.spotify.com/track/555j37nNg3zppVNEBXHsAV"
@@ -6964,6 +6964,24 @@
       "duration_ms": 247946,
       "name": "Young Adult Friction",
       "url": "https://open.spotify.com/track/1FsvfszJ09tqBcino2JfCb"
+    },
+    {
+      "album": {
+        "name": "Jar",
+        "url": "https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw"
+      },
+      "artists": [
+        {
+          "name": "Superheaven",
+          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249514,
+      "name": "Youngest Daughter",
+      "url": "https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "\uc6b0\uc0b0\uc744 \ub358\uc9c0\uace0 \ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uace0 \uc2f6\uc740 \ub0a0\uc5d0 \ub4e4\uc73c\uc138\uc694!",
-  "num_followers": 2589,
+  "num_followers": 2587,
   "original_name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhM2FjNWZkMmYxMmNiNjIzMWJiMzQ2ZTZjNmQ5OTI2MjZlOWJjMzc5",
+  "snapshot_id": "MCxkYzc4ZTQxNGE2NjBlNmIxMzVjOThlM2FkOTcxMTJhODFiMjkzZGM3",
   "tracks": [
     {
       "added_at": "2023-07-17 06:14:28",
@@ -635,18 +635,18 @@
     {
       "added_at": "2023-07-17 06:14:28",
       "album": {
-        "name": "Fuzzy peach",
-        "url": "https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx"
+        "name": "The Blowing",
+        "url": "https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC"
       },
       "artists": [
         {
-          "name": "Lyn",
-          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
+          "name": "HIGHLIGHT",
+          "url": "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
         }
       ],
-      "duration_ms": 251653,
-      "name": "Fuzzy peach",
-      "url": "https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod"
+      "duration_ms": 190826,
+      "name": "Disconnected",
+      "url": "https://open.spotify.com/track/7FoSoIvql4oXc8I60L8Fqi"
     },
     {
       "added_at": "2023-07-17 06:14:28",
@@ -683,18 +683,18 @@
     {
       "added_at": "2023-07-17 06:14:28",
       "album": {
-        "name": "The Blowing",
-        "url": "https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC"
+        "name": "Fuzzy peach",
+        "url": "https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx"
       },
       "artists": [
         {
-          "name": "HIGHLIGHT",
-          "url": "https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr"
+          "name": "Lyn",
+          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
         }
       ],
-      "duration_ms": 190826,
-      "name": "Disconnected",
-      "url": "https://open.spotify.com/track/7FoSoIvql4oXc8I60L8Fqi"
+      "duration_ms": 251653,
+      "name": "Fuzzy peach",
+      "url": "https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod"
     },
     {
       "added_at": "2023-07-17 06:14:28",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-07-17 06:14:28",
       "album": {
-        "name": "Hundred Million Stars from the Sky (Original Television Soundtrack), Pt. 1",
-        "url": "https://open.spotify.com/album/00vsz6H264Nbmq4XXMgK7d"
-      },
-      "artists": [
-        {
-          "name": "Yi Sung Yol",
-          "url": "https://open.spotify.com/artist/1uwchldM1ngqs8xCZg0DK9"
-        }
-      ],
-      "duration_ms": 265000,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/6SHcJIhRWtiHGmWuAwlxUt"
-    },
-    {
-      "added_at": "2023-07-17 06:14:28",
-      "album": {
         "name": "YOU (feat .Beenzino)",
         "url": "https://open.spotify.com/album/3EDGzwwhumpoxgsqGwzpFn"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 255689,
       "name": "YOU (feat. Beenzino)",
       "url": "https://open.spotify.com/track/0U3rsGULd1uysrZo4B7bCj"
+    },
+    {
+      "added_at": "2023-07-17 06:14:28",
+      "album": {
+        "name": "Hundred Million Stars from the Sky (Original Television Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/00vsz6H264Nbmq4XXMgK7d"
+      },
+      "artists": [
+        {
+          "name": "Yi Sung Yol",
+          "url": "https://open.spotify.com/artist/1uwchldM1ngqs8xCZg0DK9"
+        }
+      ],
+      "duration_ms": 265000,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/6SHcJIhRWtiHGmWuAwlxUt"
     },
     {
       "added_at": "2023-07-17 06:14:28",

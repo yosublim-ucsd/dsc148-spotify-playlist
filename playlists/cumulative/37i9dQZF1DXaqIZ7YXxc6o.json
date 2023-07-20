@@ -305,6 +305,24 @@
     },
     {
       "album": {
+        "name": "A New Day (VIP Remix)",
+        "url": "https://open.spotify.com/album/6iklnOMee08sZyrzEwUH0K"
+      },
+      "artists": [
+        {
+          "name": "The Kite String Tangle",
+          "url": "https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311330,
+      "name": "A New Day - VIP Remix",
+      "url": "https://open.spotify.com/track/0IaGThDQNXHcA04xIZUrYl"
+    },
+    {
+      "album": {
         "name": "A New Light",
         "url": "https://open.spotify.com/album/3ImwhIT7SY1Cndhrdi0SCq"
       },

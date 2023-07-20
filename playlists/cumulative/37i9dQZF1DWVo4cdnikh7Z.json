@@ -4695,6 +4695,28 @@
     },
     {
       "album": {
+        "name": "His Name is John (From \"Dhruva Natchathiram\")",
+        "url": "https://open.spotify.com/album/2z2azuxHIVQ0InUluVQFz5"
+      },
+      "artists": [
+        {
+          "name": "Harris Jayaraj",
+          "url": "https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l"
+        },
+        {
+          "name": "Paal Dabba",
+          "url": "https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230741,
+      "name": "His Name is John (From \"Dhruva Natchathiram\")",
+      "url": "https://open.spotify.com/track/4ZMLhESqrX6ng6thaZ4M4a"
+    },
+    {
+      "album": {
         "name": "Hoonah (From \"Five Six Seven Eight\")",
         "url": "https://open.spotify.com/album/5mrfu9nprWNtl621RTfCzK"
       },
@@ -4720,10 +4742,6 @@
         {
           "name": "Anirudh Ravichander",
           "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
-        },
-        {
-          "name": "Super Subu",
-          "url": "https://open.spotify.com/artist/6sXT8Cggm4tmoxhVjaUVs0"
         }
       ],
       "date_added": "2023-07-17",

@@ -4,7 +4,7 @@
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Bonnie Raitt
 
-254 songs - 16 hr 16 min
+255 songs - 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Gone Gone Gone \(Done Moved On\)](https://open.spotify.com/track/7MRw8W5jZoG0SNNcHLgkEO) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Raising Sand](https://open.spotify.com/album/54GfJ3ZEY2b6PKmvETmj1n) | 3:32 | 2021-11-11 |  |
 | [Got Your Six](https://open.spotify.com/track/1qKoTpcKazw5AcLzYjgX7k) | [Mary Gauthier](https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS) | [Rifles and Rosary Beads](https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC) | 2:38 | 2021-11-11 |  |
 | [Grave Angels](https://open.spotify.com/track/0K40ThmS9MtWOSXDdLhK9e) | [Joe Henry](https://open.spotify.com/artist/0TeVWuc8Sw05X4Qkl3AA5r) | [Invisible Hour](https://open.spotify.com/album/661leSKXPxGy6C9u6T6K9k) | 5:31 | 2021-11-11 | 2022-07-27 |
+| [Great American Cities](https://open.spotify.com/track/21Pb8xDIDfBzNRqJuM6nE7) | [Joan Osborne](https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o) | [Great American Cities](https://open.spotify.com/album/3YcM9pEmKydxr0sF8KAz4i) | 4:38 | 2023-07-14 |  |
 | [Hanging up My Heart](https://open.spotify.com/track/1odrnCw1RmUcevfJz25NJS) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP), [Rodney Crowell](https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY) | [Old Yellow Moon](https://open.spotify.com/album/33CP9PApYibgmRsx7ux6sE) | 2:52 | 2021-11-11 |  |
 | [Hard to Be an Outlaw \(feat\. Willie Nelson\)](https://open.spotify.com/track/59WPFxAkd8RiMhQ25WYIf8) | [Billy Joe Shaver](https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Long in the Tooth](https://open.spotify.com/album/3sE0ZaVDdItWax4M1jmT7J) | 3:06 | 2021-11-11 |  |
 | [Have A Little Faith In Me](https://open.spotify.com/track/23EgnmfkdOsDK96ftbVv0Q) | [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV) | [Bring The Family](https://open.spotify.com/album/1S6p34YmdtR3KCSiSTjbgW) | 4:05 | 2021-11-11 |  |
@@ -175,7 +176,7 @@
 | [Paint This Town](https://open.spotify.com/track/0gdM5F5lfan6F7gPffEYwJ) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Paint This Town](https://open.spotify.com/album/5K3qVf67xePI7R4g3jJ5gw) | 3:57 | 2022-04-22 | 2022-07-29 |
 | [Paint This Town](https://open.spotify.com/track/5ttsg40x7Fjb3Yp0rPLXIc) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Paint This Town](https://open.spotify.com/album/5uDD3Cl1NypY8jtR1LI9Ex) | 3:57 | 2022-04-22 |  |
 | [People Get Old](https://open.spotify.com/track/2Tm7nXWJouomHeRN9bT6IK) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [The Tree](https://open.spotify.com/album/2Jv8rT6pudH0eIlgu90zKm) | 3:42 | 2021-11-11 |  |
-| [Place in My Heart](https://open.spotify.com/track/2XljwJ0zc1FsztnBq8T9uv) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Place in My Heart](https://open.spotify.com/album/3pwhHzAF1H5N2Uep9mhEpS) | 5:13 | 2021-11-11 |  |
+| [Place in My Heart](https://open.spotify.com/track/2XljwJ0zc1FsztnBq8T9uv) | [Lucinda Williams](https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP) | [Place in My Heart](https://open.spotify.com/album/3pwhHzAF1H5N2Uep9mhEpS) | 5:13 | 2021-11-11 | 2023-07-20 |
 | [Pure and Simple](https://open.spotify.com/track/5yFFBYWKFoVCKEma8Ox62B) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Pure and Simple](https://open.spotify.com/album/6oxHS4tiVLMi5uJy5Lv6Tm) | 2:43 | 2021-11-11 | 2022-07-24 |
 | [Pure and Simple](https://open.spotify.com/track/7szyzZ3J9ortisMHATOXCp) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Pure & Simple](https://open.spotify.com/album/09xuqHRVpQp8AI5Pz9Oq9M) | 2:43 | 2022-04-22 |  |
 | [Red Dirt Girl](https://open.spotify.com/track/41QWKQjT6riBhHAGYHU9Xu) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Hickory Wind](https://open.spotify.com/album/5rAT05WHdhzdiJMw9fsKSX) | 4:05 | 2021-11-11 |  |

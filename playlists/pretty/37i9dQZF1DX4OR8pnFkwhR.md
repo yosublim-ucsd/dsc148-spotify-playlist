@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: NIKO NIKO TAN TAN
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,645 likes - 70 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,653 likes - 70 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Jurassic](https://open.spotify.com/track/0okYcNqMBFmSwf2xeECPpd) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Jurassic](https://open.spotify.com/album/6XDBprGtBpzB7t0dHP85fs) | 2:57 |
+| 1 | [Jurassic](https://open.spotify.com/track/7HcpoYSDvOks6YAE2A3JQn) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Jurassic](https://open.spotify.com/album/6dgCSpkDbi4Y4WJpC24nZ8) | 2:57 |
 | 2 | [灰かぶり](https://open.spotify.com/track/1eHgJysShUOu4p4jnRdoi4) | [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [灰かぶり](https://open.spotify.com/album/5CltyRkCnztzDYVvi79WDW) | 3:40 |
 | 3 | [正論さん](https://open.spotify.com/track/3guBJ3pWlpOKxS6aGJH3OD) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [正論さん](https://open.spotify.com/album/0p8hciFFok7dzHLV0LukjH) | 3:39 |
 | 4 | [fake face dance music](https://open.spotify.com/track/4ayU74yaWEgHHpaf1WJ313) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [fake face dance music](https://open.spotify.com/album/1oSTnI41dwQQbO2GaYEL4I) | 2:31 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 30 | [角を探す人](https://open.spotify.com/track/78qoF0s9vf9twx2eOijPuq) | [浦上想起](https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze) | [角を探す人](https://open.spotify.com/album/7iMAmNtdF8KZZiyupPHhzo) | 5:56 |
 | 31 | [PEGASUS](https://open.spotify.com/track/4jw5Peb2XRx0cTYUZAPIkv) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [PEGASUS](https://open.spotify.com/album/1yCRkc8QiR6z5ekv0oCO1F) | 2:52 |
 | 32 | [Ball](https://open.spotify.com/track/0AXda5pFbkZJGPEZk5VJud) | [Nagakumo](https://open.spotify.com/artist/3iT7qp7T00Ot50wtDct8gw) | [Ball](https://open.spotify.com/album/1NFiOAGqdZdMfuG1uWeGtP) | 3:53 |
-| 33 | [君とランデヴー \(feat\. らず\)](https://open.spotify.com/track/1nHME5u0ZHBrG8qgmipWVS) | [MONONOKE](https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x), [らず](https://open.spotify.com/artist/1e9vsBdRg1R5X1HOgF4Gb0) | [Supply/Demand](https://open.spotify.com/album/6TB0X9L7GGcB4GcPYHcHwS) | 5:33 |
+| 33 | [Kimi to Rendezvous \(feat\. razu\)](https://open.spotify.com/track/1dBY8Q0MbYFT8b5Bw9ZLMd) | [MONONOKE](https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x), [razu](https://open.spotify.com/artist/6JNpg1OGnCJygBo7UMwtWq) | [Supply/Demand](https://open.spotify.com/album/66GKqO8pdJu5J32LyIqZ2v) | 5:33 |
 | 34 | [Branches](https://open.spotify.com/track/6FvsyhWILM1Z8EGvzJxM2w) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Branches](https://open.spotify.com/album/4GryMwKLBFPuUHnLlk85k2) | 4:33 |
 | 35 | [Dance like a monkey feat\. 森](https://open.spotify.com/track/3661hmTa7nvZVDAwMDXrps) | [SUNNY ONLY 1](https://open.spotify.com/artist/1PcuXbYDyLM8zEsZT1EQtc), [森](https://open.spotify.com/artist/1WogYMR7JvF1zRKLEjrp0I) | [Dance like a monkey feat\. 森](https://open.spotify.com/album/6o0QkzbPh2a7UsmOuEm7EP) | 3:00 |
 | 36 | [離れて](https://open.spotify.com/track/60wOdJK0GfXnsx1TASmHIq) | [Shunské G](https://open.spotify.com/artist/7nyrTOgHPowmRqSRPQML1B) | [離れて](https://open.spotify.com/album/1Mp9RCPcqnYSHVb6p4ArFE) | 3:59 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 45 | [惑星数珠つなぎ](https://open.spotify.com/track/4pGBhMzvWVCb4QU4EfjNJ5) | [カラコルムの山々](https://open.spotify.com/artist/3W8L2rrvTRtowpTBvPYDix) | [惑星数珠つなぎ](https://open.spotify.com/album/2ylCmkp17XjprjJSMoQvcE) | 4:27 |
 | 46 | [嘘だって](https://open.spotify.com/track/74zMAaCvLN676H91h1R9k6) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [嘘だって](https://open.spotify.com/album/6nVWOqetgZiIWuqIW0WIxu) | 3:32 |
 | 47 | [さらまっぽ](https://open.spotify.com/track/6f9Fl22sy1UhH788M7BkH3) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [さらまっぽ](https://open.spotify.com/album/0eWUONdRJ4WYpwcoh3D3hA) | 3:19 |
-| 48 | [とある夏](https://open.spotify.com/track/1pzjwiYpC7J5QMWl3zWalT) | [乃紫](https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl) | [とある夏](https://open.spotify.com/album/5koICQhiqStYjantXTwEoZ) | 3:48 |
-| 49 | [怪物](https://open.spotify.com/track/19uTrF6VZNaUUYsFIAE8nJ) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [怪物](https://open.spotify.com/album/0Dg5i9je3xQEBzDhvxZUCt) | 2:35 |
+| 48 | [One Summer's Day](https://open.spotify.com/track/0IUFZInFlcfSbVGM97LWLT) | [noa](https://open.spotify.com/artist/7nhWQxOMcfIv29SBPZEcgp) | [One Summer's Day](https://open.spotify.com/album/1wuimhObm670hxGPsDSQyb) | 3:48 |
+| 49 | [kaibutsu](https://open.spotify.com/track/0zBaLbvJbcZjErOL8OqdX8) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [kaibutsu](https://open.spotify.com/album/4SwTst06JhUkdd8KtOO6Rj) | 2:35 |
 | 50 | [潮風](https://open.spotify.com/track/1aX7o9KQGvj0ogr2esJktT) | [浦小雪](https://open.spotify.com/artist/5PHZ4PVOsKViz2yF868wUP) | [潮風](https://open.spotify.com/album/4XkrdSm52HgNHCzDv2o9UN) | 4:01 |
 | 51 | [misunderstanding](https://open.spotify.com/track/1L83QqUdy4uf6dwLuFPh8D) | [nozawadesu](https://open.spotify.com/artist/0RqNNlbG3uSGy2rFz4RO7F) | [misunderstanding](https://open.spotify.com/album/23k2d1ZEOCTJUCQQrPGlhM) | 4:54 |
 | 52 | [or.or.](https://open.spotify.com/track/6E6EqZBia9Ug3dgrg7vkkw) | [GLASGOW](https://open.spotify.com/artist/3FUuWzheFLPGP7tm5lpjxM) | [or.or.](https://open.spotify.com/album/3VkjctQEPVVJvBVCcfxwGU) | 3:35 |
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 62 | [FLYME](https://open.spotify.com/track/0GHyNMTRgD7fpVDeB1bpmN) | [dawgss](https://open.spotify.com/artist/4lERMAZbN3ikLhkJga3NHR) | [FLYME](https://open.spotify.com/album/590ETA5SyviYSbZOmAkmo5) | 3:41 |
 | 63 | [Cloud Watching](https://open.spotify.com/track/0cApcBHdycwHfHsorf0adA) | [Miyamoto](https://open.spotify.com/artist/3b0xrXMicUXOTmoV59Yx1F) | [Cloud Watching](https://open.spotify.com/album/1heRI7pdmMhQVGhMg6Ocmu) | 5:35 |
 | 64 | [Watashitachi no Journey](https://open.spotify.com/track/01b6Whwx7GswmnOOtKZC9c) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Watashitachi no Journey](https://open.spotify.com/album/5M5laQ3chroFtqUENoZaV8) | 4:07 |
-| 65 | [走水](https://open.spotify.com/track/0uw8Dmb7ilp6U1TNabgtX3) | [山二つ](https://open.spotify.com/artist/0VmvWJ3kETXL0UFmXYj2lB) | [走水](https://open.spotify.com/album/5j3KZK0vGCCdbFVRdBbCvm) | 6:26 |
+| 65 | [Hashirimizu](https://open.spotify.com/track/5fkYMB9PzML9A8QvoPfJB2) | [Yamafutatsu](https://open.spotify.com/artist/75mN0rbQkBImvS8yohWlnP) | [Hashirimizu](https://open.spotify.com/album/1vlaBwdpatZ4HsUBVH3vJe) | 6:26 |
 | 66 | [街のあかり](https://open.spotify.com/track/4PbF1HIB9qjdOKy6vOSWdm) | [ばするうむ](https://open.spotify.com/artist/7hTlNY3s2J4MX0hlnfIDKs) | [オレンジタウン](https://open.spotify.com/album/73BecDLUm7v77TMdSlFotL) | 3:54 |
 | 67 | [BORDER](https://open.spotify.com/track/4vRqGi0BbbecchqNA5PJMK) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [BORDER](https://open.spotify.com/album/21ptDmeuxNhWWmM0Hkp4y9) | 2:55 |
 | 68 | [Tears](https://open.spotify.com/track/5zYWxTEMDeydXj9Q4wZPSf) | [鉄風東京](https://open.spotify.com/artist/2dcQMsKiEfgJ9t7GolC4rn) | [Tears](https://open.spotify.com/album/3zEexxIy2ciEuhNjY0brkb) | 3:06 |
 | 69 | [とんぼ玉。](https://open.spotify.com/track/2IJ3Pt1bSxifAaFtNuxZeJ) | [近石涼](https://open.spotify.com/artist/0ZjetwSL2QOrWNJmMhl6AV) | [とんぼ玉。](https://open.spotify.com/album/5LlbA6Chr7ulmyhJiuTF0F) | 3:51 |
 | 70 | [Uptown](https://open.spotify.com/track/1kOZ0LYc74VXcCBAm9OJbk) | [S.A.R.](https://open.spotify.com/artist/34PVGf86Ys8Iso5hGXQcaW) | [Uptown](https://open.spotify.com/album/5tK5ucMwXHQQ6rv45J7ijl) | 3:52 |
 
-Snapshot ID: `MCw0OGU2YTYxNmExNDkwNmM5M2UwNDQ1YmQzZTg4NGFkY2Y4MDY2ZTY0`
+Snapshot ID: `MCw3ZDAyYWRlZDEyOGQzY2ZkZDk4NTYxMjIzN2NmZTljNzZjYTgzMzEy`

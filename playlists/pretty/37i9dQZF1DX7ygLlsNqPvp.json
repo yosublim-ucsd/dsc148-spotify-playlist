@@ -1,12 +1,12 @@
 {
   "description": "The most intense local drill music firing up the continent. Cover:  <a href=\"https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw?si=tLG-F3cnSCubrrFrRWIHhw\"> Jay Bahd</a>  ",
-  "num_followers": 19921,
+  "num_followers": 19939,
   "original_name": "Asakaa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YmI2MTkwZGU4NGY5ZmFkZGFjN2E2ZjM0ZDBjNGQzY2M3ZTNhNmNi",
+  "snapshot_id": "MCxlZmJkMjQxNmY3NWYyNTdlNjVjMWJiOWNlOWRhOWFjYjQ2ZTY0NjBl",
   "tracks": [
     {
       "added_at": "2023-06-22 14:04:39",
@@ -172,10 +172,6 @@
       },
       "artists": [
         {
-          "name": "O'Kenneth",
-          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
-        },
-        {
           "name": "Jay Bahd",
           "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
         },
@@ -186,6 +182,10 @@
         {
           "name": "Kwaku DMC",
           "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+        },
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
         }
       ],
       "duration_ms": 176770,

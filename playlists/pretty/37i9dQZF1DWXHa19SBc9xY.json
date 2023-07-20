@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 69268,
+  "num_followers": 69366,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODE4ODE0NWYzNTliYWU0N2ZmMGFiOGY2MjNmYjgxMzcyNjI4ZGVl",
+  "snapshot_id": "MCxjMzBkNjI4ODc0MjdjZWRhNGNkYjI1ODJlZDkxMzA0NGI1ZmU5MjU0",
   "tracks": [
     {
       "added_at": "2023-06-23 03:00:00",
@@ -975,22 +975,18 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Coisa de Contar",
-        "url": "https://open.spotify.com/album/3PNpuS5h9p94XBIYNZNnNI"
+        "name": "Simples Assim",
+        "url": "https://open.spotify.com/album/6znAgdIQOwEqEvYvymTWPa"
       },
       "artists": [
         {
-          "name": "Victor Mus",
-          "url": "https://open.spotify.com/artist/2chMd942hjEdCQWYDGVIXw"
-        },
-        {
-          "name": "Jota.p\u00ea",
-          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
+          "name": "Pedro Pond\u00e9",
+          "url": "https://open.spotify.com/artist/6vIvJUBbfQsBZ9NiWxWoSl"
         }
       ],
-      "duration_ms": 194198,
-      "name": "Coisa de Contar",
-      "url": "https://open.spotify.com/track/4OTk4Bb4In0msne2ctxD1Q"
+      "duration_ms": 217241,
+      "name": "Em Outro Lugar",
+      "url": "https://open.spotify.com/track/0ptLqVT3A8ZittU6I3qMvf"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1019,34 +1015,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Simples Assim",
-        "url": "https://open.spotify.com/album/6znAgdIQOwEqEvYvymTWPa"
+        "name": "Coisa de Contar",
+        "url": "https://open.spotify.com/album/3PNpuS5h9p94XBIYNZNnNI"
       },
       "artists": [
         {
-          "name": "Pedro Pond\u00e9",
-          "url": "https://open.spotify.com/artist/6vIvJUBbfQsBZ9NiWxWoSl"
-        }
-      ],
-      "duration_ms": 217241,
-      "name": "Em Outro Lugar",
-      "url": "https://open.spotify.com/track/0ptLqVT3A8ZittU6I3qMvf"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Entre Homens e Autom\u00f3veis",
-        "url": "https://open.spotify.com/album/2Wa5PKMLUefVYZWQomYHv6"
-      },
-      "artists": [
+          "name": "Victor Mus",
+          "url": "https://open.spotify.com/artist/2chMd942hjEdCQWYDGVIXw"
+        },
         {
-          "name": "Brolo Gonzalez",
-          "url": "https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg"
+          "name": "Jota.p\u00ea",
+          "url": "https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN"
         }
       ],
-      "duration_ms": 189882,
-      "name": "Mais Perto",
-      "url": "https://open.spotify.com/track/2CgP6wLHomU7h1sMGCXIBC"
+      "duration_ms": 194198,
+      "name": "Coisa de Contar",
+      "url": "https://open.spotify.com/track/4OTk4Bb4In0msne2ctxD1Q"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1067,6 +1051,22 @@
       "duration_ms": 173354,
       "name": "Aroeira",
       "url": "https://open.spotify.com/track/0s7VE3dMS68jvco0GNNR5s"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Entre Homens e Autom\u00f3veis",
+        "url": "https://open.spotify.com/album/2Wa5PKMLUefVYZWQomYHv6"
+      },
+      "artists": [
+        {
+          "name": "Brolo Gonzalez",
+          "url": "https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg"
+        }
+      ],
+      "duration_ms": 189882,
+      "name": "Mais Perto",
+      "url": "https://open.spotify.com/track/2CgP6wLHomU7h1sMGCXIBC"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Te Amar \u00c9 F\u00e1cil",
+        "url": "https://open.spotify.com/album/64AowMtxsyEOEC0LRueRsa"
+      },
+      "artists": [
+        {
+          "name": "Magi",
+          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
+        }
+      ],
+      "duration_ms": 158478,
+      "name": "Te Amar \u00c9 F\u00e1cil",
+      "url": "https://open.spotify.com/track/3VHrMZ3a3DuKb1dyxXmk5v"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "DAVI",
         "url": "https://open.spotify.com/album/1hHcAH6BfBuDtbP8BPTfuA"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 185865,
       "name": "Carnaval a Dois",
       "url": "https://open.spotify.com/track/18bAHsn4Lw747u40pwATOe"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Te Amar \u00c9 F\u00e1cil",
-        "url": "https://open.spotify.com/album/64AowMtxsyEOEC0LRueRsa"
-      },
-      "artists": [
-        {
-          "name": "Magi",
-          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
-        }
-      ],
-      "duration_ms": 158478,
-      "name": "Te Amar \u00c9 F\u00e1cil",
-      "url": "https://open.spotify.com/track/3VHrMZ3a3DuKb1dyxXmk5v"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "borboletas",
-        "url": "https://open.spotify.com/album/3AAl60MR90VjS70y5UvjOi"
-      },
-      "artists": [
-        {
-          "name": "VELINO",
-          "url": "https://open.spotify.com/artist/734KHvgPkNca48JLXvidB3"
-        }
-      ],
-      "duration_ms": 175038,
-      "name": "borboletas",
-      "url": "https://open.spotify.com/track/3ix7wwdLi4h36YJh45Ishf"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "L\u00edrios S\u00e3o Deusas",
         "url": "https://open.spotify.com/album/4c8ud8o7JRoiKEgEHRctss"
       },
@@ -1403,18 +1387,18 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "ARREPIADA",
-        "url": "https://open.spotify.com/album/7CEH5SQ6yP5MUlunhS8kH0"
+        "name": "borboletas",
+        "url": "https://open.spotify.com/album/3AAl60MR90VjS70y5UvjOi"
       },
       "artists": [
         {
-          "name": "Julia Mestre",
-          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+          "name": "VELINO",
+          "url": "https://open.spotify.com/artist/734KHvgPkNca48JLXvidB3"
         }
       ],
-      "duration_ms": 225400,
-      "name": "De Toda M\u00e3e",
-      "url": "https://open.spotify.com/track/2BHoY4Q7w2CHBfXj9z58Fo"
+      "duration_ms": 175038,
+      "name": "borboletas",
+      "url": "https://open.spotify.com/track/3ix7wwdLi4h36YJh45Ishf"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1439,6 +1423,22 @@
       "duration_ms": 261901,
       "name": "PREAMAR",
       "url": "https://open.spotify.com/track/5vXucjlEods0fafmWCudxU"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "ARREPIADA",
+        "url": "https://open.spotify.com/album/7CEH5SQ6yP5MUlunhS8kH0"
+      },
+      "artists": [
+        {
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+        }
+      ],
+      "duration_ms": 225400,
+      "name": "De Toda M\u00e3e",
+      "url": "https://open.spotify.com/track/2BHoY4Q7w2CHBfXj9z58Fo"
     },
     {
       "added_at": "2023-06-23 03:00:00",

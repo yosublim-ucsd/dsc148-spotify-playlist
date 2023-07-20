@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Miksu / Macloud, makko, t\-low
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,812 likes - 100 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 407,033 likes - 100 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 7 | [Tempo](https://open.spotify.com/track/4U4wfzEfxCHCiAdPg3oage) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9) | [Tempo](https://open.spotify.com/album/1xQnVy9txnqnRnbr2nlJf2) | 2:11 |
 | 8 | [Me Gustas Tu](https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM) | [Próxima Estación: Esperanza](https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo) | 3:59 |
 | 9 | [Go Solo](https://open.spotify.com/track/18ywhG9EvuMMUIdUWxEqp7) | [Tom Rosenthal](https://open.spotify.com/artist/1AgxgADPuRIW1wyaA4OKcB) | [The Pleasant Trees](https://open.spotify.com/album/30dSlleSaT1dEaK39OM5B4) | 2:22 |
-| 10 | [sommer \(feat\. CRO\)](https://open.spotify.com/track/4VY7aTxsMypdajrZULZFtg) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [sommer \(feat\. CRO\)](https://open.spotify.com/album/0pfTadD9mPn1UeOMnMuYEC) | 2:51 |
+| 10 | [sommer \(feat\. CRO\)](https://open.spotify.com/track/1SaSTeiR7cqi5fUXZlGr4e) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [sommer \(feat\. CRO\)](https://open.spotify.com/album/4UK5FLZLXuCFJwtNZg8l8L) | 2:51 |
 | 11 | [Nächte ohne Schlaf](https://open.spotify.com/track/4lgLsXygXaYzKU3IbUFP8Z) | [Yung Yury](https://open.spotify.com/artist/7tzELpzPjTq26pa5FT9ykz), [Damn Yury](https://open.spotify.com/artist/7oxHYIVHNg4JQdKnUe1HiQ) | [Nächte ohne Schlaf](https://open.spotify.com/album/1b3aXvWpPpFcw5cfAAXFCG) | 3:00 |
 | 12 | [EWIGKEIT \- REMIX](https://open.spotify.com/track/4kcgrgZhd4h8chSAJ86mIq) | [erobé](https://open.spotify.com/artist/2Reg4IlIHtEGZHnSD4pphn), [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx), [Lyfrix](https://open.spotify.com/artist/4TSAnyHn47PpS8S9ofOjYU) | [EWIGKEIT \(REMIX\)](https://open.spotify.com/album/7g9MhzAbsC7Z7Orsa0Z7Dz) | 2:17 |
 | 13 | [I'm Only a Fool for You](https://open.spotify.com/track/5yfnAsPrvrjiLOhWFycNP4) | [Dybbukk Covers](https://open.spotify.com/artist/65etXZIRd8KjC0pCYhD9wI), [Dybbukk](https://open.spotify.com/artist/0UAfgrYSLcjHNocndTNjhH), [Domingo Morales](https://open.spotify.com/artist/02jdatQ743BTSYp4wbNMA5) | [I'm Only a Fool for You](https://open.spotify.com/album/5FCGsaqNKaYRPkqGCLcefN) | 1:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [Moet](https://open.spotify.com/track/4Q51ZH2NEeO8n69tXT4m14) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Robin White](https://open.spotify.com/artist/3VzBBEtT4vel6khrAiFlwA), [bluesonus](https://open.spotify.com/artist/76ISBs1WkuQdgN28n99zv1) | [Moet](https://open.spotify.com/album/6NuCKvRLbeoKORuZOL6fwC) | 2:03 |
 | 100 | [Tanz In Deiner Wohnung](https://open.spotify.com/track/1HK0OkZNHBGUwG4BkcydKB) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [Tanz In Deiner Wohnung](https://open.spotify.com/album/4yzLVO788gfMjTO43aX3ws) | 3:04 |
 
-Snapshot ID: `MCw0NmU2MGQzOTY4ZjJlZDllMGI0YTNjMTM4YWU0NDA5ZTMxZDcxMmU0`
+Snapshot ID: `MCw4M2Q5MjAwYzEyMDBjNjMwYzJjYjNkZTE0MzkwYzA3MDdiODgwYmYw`

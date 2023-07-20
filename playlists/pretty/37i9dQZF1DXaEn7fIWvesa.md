@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEn7fIWvesa.md) - [plain]
 
 > A lo cubano 🔥 Con Descemer Bueno & Gente de Zona en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 229 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEn7fIWvesa.md) - [plain]
 | 33 | [Un Palo Como Tu](https://open.spotify.com/track/1FutDLeZnNdv36lpCq0Eb0) | [El Chulo](https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt), [El Kamel](https://open.spotify.com/artist/3YgwtcjB89K3jjvK0dvL34), [El Bacoco](https://open.spotify.com/artist/62pQLqF1sUAdFCpEGcVDHM), [Titiko](https://open.spotify.com/artist/2DQo6JG7p8BDza6EDNLTHG) | [Un Palo Como Tu](https://open.spotify.com/album/2fpQ5SJoudmJe0AP5fNdCY) | 3:25 |
 | 34 | [Guachineo](https://open.spotify.com/track/6Xwg7H3TScBF6Jy6RRG6on) | [Chocolate Mc](https://open.spotify.com/artist/15QmBDKjNXo007uqM3KnNb) | [GUACHINEO \(Cubaton \- Cuban Reggaeton 2015 \- Lo Que Mas Suena En Cuba\)](https://open.spotify.com/album/4Be7kxk3DvOv7rqiEoliSc) | 3:41 |
 | 35 | [Habla Matador](https://open.spotify.com/track/2Irk3JNIVcCxOEdw3jod7v) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [El Happy](https://open.spotify.com/artist/2cEDvM2O93CC2TxsgJczos) | [Habla Matador](https://open.spotify.com/album/55fG4qzp3qcKL8MWlHxWPa) | 2:43 |
-| 36 | [Descargame Pero No Me Quemes](https://open.spotify.com/track/3MOSqbVAlzqobNNdSOBhdx) | [Morito pks](https://open.spotify.com/artist/6Bn1EHf3buw7nSJ9wPWXB0) | [Descargame Pero No Me Quemes](https://open.spotify.com/album/217vR8hepUDCYZxQlMqMw5) | 3:45 |
-| 37 | [Todo Está Ok Remix \- Prod\. by Dj Cham](https://open.spotify.com/track/2nVhTUCK9KQ2Wq9Zyfy0iW) | [Fixty Ordara y Ja Rulay](https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Dj Cham](https://open.spotify.com/artist/6PopKfMnCk5W6hX8EsS0Eh) | [Todo Está Ok Remix](https://open.spotify.com/album/3xSgXDady9EgpjHkZ8rIf2) | 3:33 |
+| 36 | [Todo Está Ok Remix \- Prod\. by Dj Cham](https://open.spotify.com/track/2nVhTUCK9KQ2Wq9Zyfy0iW) | [Fixty Ordara y Ja Rulay](https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Dj Cham](https://open.spotify.com/artist/6PopKfMnCk5W6hX8EsS0Eh) | [Todo Está Ok Remix](https://open.spotify.com/album/3xSgXDady9EgpjHkZ8rIf2) | 3:33 |
+| 37 | [Descargame Pero No Me Quemes](https://open.spotify.com/track/3MOSqbVAlzqobNNdSOBhdx) | [Morito pks](https://open.spotify.com/artist/6Bn1EHf3buw7nSJ9wPWXB0) | [Descargame Pero No Me Quemes](https://open.spotify.com/album/217vR8hepUDCYZxQlMqMw5) | 3:45 |
 | 38 | [No Vas](https://open.spotify.com/track/5ZYqftcWxl6AOiE2HLToDc) | [Wow Popy](https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv) | [Música de Reyes](https://open.spotify.com/album/5gWr4Q8XrBrvxJiAMxLgvo) | 3:40 |
 | 39 | [A Mi Manera](https://open.spotify.com/track/54VYbUPPoGKGiM0ZJeNTFE) | [Dale Pututi](https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [Baby Lores](https://open.spotify.com/artist/5xRtCPL9lt9Gp1HP4JhAkl), [Los 4](https://open.spotify.com/artist/4HIOOPiZCJm2MPRU8Cs4MK), [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn), [Eddy K](https://open.spotify.com/artist/6OEL2dR4ggFGWGhuQZAzy1), [El Chulo](https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt) | [Epicentro](https://open.spotify.com/album/61q0ScDkIeFdYXnrpEpfRf) | 5:42 |
 | 40 | [Un Beso](https://open.spotify.com/track/74CNQ4u45e0XNWrdqBhG3w) | [El Kamel](https://open.spotify.com/artist/3YgwtcjB89K3jjvK0dvL34), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Un Beso](https://open.spotify.com/album/68d6YuPRSd9DkddCRQBl2R) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaEn7fIWvesa.md) - [plain]
 | 49 | [Descaradita](https://open.spotify.com/track/1gURkcy589Sa8Xl5r3EBAP) | [El Chulo](https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt), [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [Yoani Star](https://open.spotify.com/artist/6fjsWobMoPEAgXjDItU93E) | [Descaradita](https://open.spotify.com/album/5MAsXFNE1EwY2bUqGwQFTk) | 4:18 |
 | 50 | [Secuestro](https://open.spotify.com/track/5sK0UjjnF5STHk2wct5U9G) | [Fixty Ordara y Ja Rulay](https://open.spotify.com/artist/5NHJiPzOi1EFeCB8WBiVKH) | [Secuestro](https://open.spotify.com/album/14f6CGPw4pb4r5Las2cPM7) | 2:53 |
 
-Snapshot ID: `MCwyNDJlMGY5MWJkZGU5ZTVhMGQ0OGNhNmVjNTBmZWVlZmU5MmI4Mzk4`
+Snapshot ID: `MCxhODU5ODRiNzZiMjExZGM3ZTU3OGJlZjU1ZDAxOTdkOTdkMzI2ZDg2`

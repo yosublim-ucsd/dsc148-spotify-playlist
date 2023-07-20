@@ -4,7 +4,7 @@
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Provinz
 
-295 songs - 14 hr 29 min
+296 songs - 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,8 @@
 | [so wie du](https://open.spotify.com/track/2LMr8Uoxt0HC211XmThWAF) | [Alli Neumann](https://open.spotify.com/artist/2fUZ5QodNiQntWefUy6Jfh) | [so wie du](https://open.spotify.com/album/70uGKHgbl5Iwr9OQmBQbvE) | 3:19 | 2023-05-18 |  |
 | [Sofia](https://open.spotify.com/track/3iFcXNywcRrCFygcZ9Q2Zj) | [fiio](https://open.spotify.com/artist/5ry3g4hY2cILXJqqXIUIqZ) | [Sofia](https://open.spotify.com/album/3uZcXfb11YLqK9ZPb4IsV3) | 2:25 | 2023-06-15 | 2023-07-07 |
 | [Softpower](https://open.spotify.com/track/3B5oJyOZEX8AQTmPchvunh) | [Bilderbuch](https://open.spotify.com/artist/2ErWLckuGFl84nGmg5fwyG) | [Softpower](https://open.spotify.com/album/33ZTgCDONFEhukeh0NMWKc) | 4:02 | 2023-06-15 | 2023-07-07 |
-| [sommer \(feat\. CRO\)](https://open.spotify.com/track/4VY7aTxsMypdajrZULZFtg) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [sommer \(feat\. CRO\)](https://open.spotify.com/album/0pfTadD9mPn1UeOMnMuYEC) | 2:51 | 2023-07-06 |  |
+| [sommer \(feat\. CRO\)](https://open.spotify.com/track/1SaSTeiR7cqi5fUXZlGr4e) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [sommer \(feat\. CRO\)](https://open.spotify.com/album/4UK5FLZLXuCFJwtNZg8l8L) | 2:51 | 2023-07-13 |  |
+| [sommer \(feat\. CRO\)](https://open.spotify.com/track/4VY7aTxsMypdajrZULZFtg) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [sommer \(feat\. CRO\)](https://open.spotify.com/album/0pfTadD9mPn1UeOMnMuYEC) | 2:51 | 2023-07-06 | 2023-07-20 |
 | [sommernacht](https://open.spotify.com/track/3ycfNtMAv09Ul6qiTOcfWI) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [sommernacht](https://open.spotify.com/album/3S7EQ9i1CSXVn5C91wnSkP) | 2:15 | 2023-06-08 |  |
 | [Sommerregen](https://open.spotify.com/track/1Eo3f6FUUbsvFEVtpdVbqi) | [RAUM27](https://open.spotify.com/artist/4XYLofF5uTuAHIcuEBdNdr) | [Sommerregen](https://open.spotify.com/album/7KOpokcGiDbtOVfHY0srjl) | 3:45 | 2023-02-13 | 2023-02-15 |
 | [Songs for a lonely night](https://open.spotify.com/track/2ZXmuWfXTdSQYBdco2DkbK) | [Ann Can't Talk](https://open.spotify.com/artist/0EylhTdGUMAzDIthmoDoe9) | [Songs for a lonely night](https://open.spotify.com/album/3b2nRMB3mYChP32i5lApzo) | 2:55 | 2023-02-09 | 2023-03-03 |

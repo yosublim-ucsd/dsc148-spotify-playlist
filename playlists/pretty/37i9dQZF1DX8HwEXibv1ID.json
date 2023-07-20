@@ -1,12 +1,12 @@
 {
   "description": "Instrumental and vocal versions of the incredible Cole Porter. Cover: Cole Porter",
-  "num_followers": 28612,
+  "num_followers": 28640,
   "original_name": "The Cole Porter Songbook",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZTdiYzRjOTk3OTA3ZjA4N2E5NGRjNTk0MDYyZDdmZmQ0MDFkNjNl",
+  "snapshot_id": "MCwzZjEzMTc1ZTdiZWM1YTcxY2RhZTYxNTNmYzg1M2VhZDhjMWQ3NjUw",
   "tracks": [
     {
       "added_at": "2023-06-22 07:08:08",
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
         }
       ],
-      "duration_ms": 179466,
-      "name": "Don't Look At Me That Way",
-      "url": "https://open.spotify.com/track/7b2q8bdtVI0AaVBhhpMP2y"
+      "duration_ms": 133466,
+      "name": "It's Bad For Me",
+      "url": "https://open.spotify.com/track/3hhCXsdzrepMb1Hwjn822d"
     },
     {
       "added_at": "2023-06-22 07:08:08",
@@ -427,38 +427,6 @@
     {
       "added_at": "2023-06-22 07:08:08",
       "album": {
-        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
-        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 119426,
-      "name": "Ace In The Hole",
-      "url": "https://open.spotify.com/track/4zYrT1u1EtXxOmjgDi5Zad"
-    },
-    {
-      "added_at": "2023-06-22 07:08:08",
-      "album": {
-        "name": "Jeri Southern Meets Cole Porter",
-        "url": "https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O"
-      },
-      "artists": [
-        {
-          "name": "Jeri Southern",
-          "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
-        }
-      ],
-      "duration_ms": 133466,
-      "name": "It's Bad For Me",
-      "url": "https://open.spotify.com/track/3hhCXsdzrepMb1Hwjn822d"
-    },
-    {
-      "added_at": "2023-06-22 07:08:08",
-      "album": {
         "name": "Silk Stockings (Original Motion Picture Soundtrack) [Deluxe Edition]",
         "url": "https://open.spotify.com/album/3GOv0XaeZwCIKygJuKKOqg"
       },
@@ -479,18 +447,34 @@
     {
       "added_at": "2023-06-22 07:08:08",
       "album": {
-        "name": "You 'N Me",
-        "url": "https://open.spotify.com/album/1QURhs7n0kUYQMxShTxx2G"
+        "name": "Jeri Southern Meets Cole Porter",
+        "url": "https://open.spotify.com/album/4cryZN5d1BGiBkhtMPB05O"
       },
       "artists": [
         {
-          "name": "The Al Cohn - Zoot Sims Quintet",
-          "url": "https://open.spotify.com/artist/1Qmx2kZqWApAaXSxC5mojM"
+          "name": "Jeri Southern",
+          "url": "https://open.spotify.com/artist/53zwWZL3vLQ7fVfKrhrzaK"
         }
       ],
-      "duration_ms": 291693,
-      "name": "You'd Be So Nice To Come Home To",
-      "url": "https://open.spotify.com/track/7702NpFgDboVAIYvKvUQrY"
+      "duration_ms": 179466,
+      "name": "Don't Look At Me That Way",
+      "url": "https://open.spotify.com/track/7b2q8bdtVI0AaVBhhpMP2y"
+    },
+    {
+      "added_at": "2023-06-22 07:08:08",
+      "album": {
+        "name": "Ella Fitzgerald Sings The Cole Porter Song Book",
+        "url": "https://open.spotify.com/album/6nOxyYuddsKmHYRQccKSjM"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 119426,
+      "name": "Ace In The Hole",
+      "url": "https://open.spotify.com/track/4zYrT1u1EtXxOmjgDi5Zad"
     },
     {
       "added_at": "2023-06-22 07:08:08",
@@ -507,6 +491,22 @@
       "duration_ms": 174200,
       "name": "My Heart Belongs To Daddy",
       "url": "https://open.spotify.com/track/4il0mfrmW1vTctxmyyjsXT"
+    },
+    {
+      "added_at": "2023-06-22 07:08:08",
+      "album": {
+        "name": "You 'N Me",
+        "url": "https://open.spotify.com/album/1QURhs7n0kUYQMxShTxx2G"
+      },
+      "artists": [
+        {
+          "name": "The Al Cohn - Zoot Sims Quintet",
+          "url": "https://open.spotify.com/artist/1Qmx2kZqWApAaXSxC5mojM"
+        }
+      ],
+      "duration_ms": 291693,
+      "name": "You'd Be So Nice To Come Home To",
+      "url": "https://open.spotify.com/track/7702NpFgDboVAIYvKvUQrY"
     },
     {
       "added_at": "2023-06-22 07:08:08",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-06-22 07:08:08",
       "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 153866,
-      "name": "I Am In Love - Remastered",
-      "url": "https://open.spotify.com/track/3NXL2cWfgMtADlnh4nLrp7"
-    },
-    {
-      "added_at": "2023-06-22 07:08:08",
-      "album": {
         "name": "Great Songs From Stage And Screen",
         "url": "https://open.spotify.com/album/4y6GJcsPLnYDEBtOF7sknV"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 221962,
       "name": "Mind If I Make Love To You",
       "url": "https://open.spotify.com/track/3GD3m29NcArkb0AjtdBwM8"
+    },
+    {
+      "added_at": "2023-06-22 07:08:08",
+      "album": {
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 153866,
+      "name": "I Am In Love - Remastered",
+      "url": "https://open.spotify.com/track/3NXL2cWfgMtADlnh4nLrp7"
     },
     {
       "added_at": "2023-06-22 07:08:08",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-06-22 07:08:08",
       "album": {
-        "name": "Whatever Julie Wants",
-        "url": "https://open.spotify.com/album/60LVWAuMJJeRfuPzQAiJ3k"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 151213,
-      "name": "Always True To You (In My Fashion)",
-      "url": "https://open.spotify.com/track/1t5KCAy7riP1uPT4uCYdwN"
-    },
-    {
-      "added_at": "2023-06-22 07:08:08",
-      "album": {
         "name": "Bobby Short Loves Cole Porter",
         "url": "https://open.spotify.com/album/1xOxd51uf1Qq5iGtdS5jdP"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 159000,
       "name": "Rap Tap on Wood",
       "url": "https://open.spotify.com/track/7cds5KV5fDScPBvhbHWlpJ"
+    },
+    {
+      "added_at": "2023-06-22 07:08:08",
+      "album": {
+        "name": "Whatever Julie Wants",
+        "url": "https://open.spotify.com/album/60LVWAuMJJeRfuPzQAiJ3k"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 151213,
+      "name": "Always True To You (In My Fashion)",
+      "url": "https://open.spotify.com/track/1t5KCAy7riP1uPT4uCYdwN"
     },
     {
       "added_at": "2023-06-22 07:08:08",

@@ -1,12 +1,12 @@
 {
   "description": "Kick back and relax after a hard day.",
-  "num_followers": 59784,
+  "num_followers": 59871,
   "original_name": "Home at Last",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDA1ODQxYzM1MWU2YTZiOWMzYTY2Y2RhNWJmNDU2MGZmZjhkYWZm",
+  "snapshot_id": "MCw0Y2Q4NDkzOTVhZTNiNWU3ZGJlMDY4ZGRlNzM5ZjY5ODcxN2Q5NTFl",
   "tracks": [
     {
       "added_at": "2023-07-14 00:02:00",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-07-14 00:02:00",
       "album": {
-        "name": "Sticking With It",
-        "url": "https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95"
-      },
-      "artists": [
-        {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
-        }
-      ],
-      "duration_ms": 182813,
-      "name": "Sleep On It",
-      "url": "https://open.spotify.com/track/3BZqRfYykl706UFrdR7byF"
-    },
-    {
-      "added_at": "2023-07-14 00:02:00",
-      "album": {
         "name": "Country Ghetto",
         "url": "https://open.spotify.com/album/2Z4n6K4UZKC6EV6AhFgazV"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 268200,
       "name": "Mississippi",
       "url": "https://open.spotify.com/track/7AtzrTsXNFiSCpL9MTypSO"
+    },
+    {
+      "added_at": "2023-07-14 00:02:00",
+      "album": {
+        "name": "Sticking With It",
+        "url": "https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95"
+      },
+      "artists": [
+        {
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
+        }
+      ],
+      "duration_ms": 182813,
+      "name": "Sleep On It",
+      "url": "https://open.spotify.com/track/3BZqRfYykl706UFrdR7byF"
     },
     {
       "added_at": "2023-07-14 00:02:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-07-14 00:02:00",
       "album": {
-        "name": "A Man And The Blues",
-        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 339600,
-      "name": "One Room Country Shack",
-      "url": "https://open.spotify.com/track/40Gg9yXs1RSE7qcWAferU4"
-    },
-    {
-      "added_at": "2023-07-14 00:02:00",
-      "album": {
         "name": "Magnolia Blues",
         "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 208546,
       "name": "Magnolia Blues",
       "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
+    },
+    {
+      "added_at": "2023-07-14 00:02:00",
+      "album": {
+        "name": "A Man And The Blues",
+        "url": "https://open.spotify.com/album/3cx4CSrzwft7UVlsoZxbTZ"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 339600,
+      "name": "One Room Country Shack",
+      "url": "https://open.spotify.com/track/40Gg9yXs1RSE7qcWAferU4"
     },
     {
       "added_at": "2023-07-14 00:02:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-07-14 00:02:00",
       "album": {
-        "name": "Other Side of Goodbye",
-        "url": "https://open.spotify.com/album/1tDJWBen4t2O0QHOHsChrQ"
-      },
-      "artists": [
-        {
-          "name": "Matt Andersen",
-          "url": "https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5"
-        }
-      ],
-      "duration_ms": 154226,
-      "name": "Other Side of Goodbye",
-      "url": "https://open.spotify.com/track/36C3122Qre8AjCMdCQNeAe"
-    },
-    {
-      "added_at": "2023-07-14 00:02:00",
-      "album": {
         "name": "Done Come Too Far",
         "url": "https://open.spotify.com/album/3509A3ATMDnr5hYBji4RcV"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 210731,
       "name": "Barefoot In Heaven",
       "url": "https://open.spotify.com/track/2YJWdK1kvJksztXC9wzwM1"
+    },
+    {
+      "added_at": "2023-07-14 00:02:00",
+      "album": {
+        "name": "Other Side of Goodbye",
+        "url": "https://open.spotify.com/album/1tDJWBen4t2O0QHOHsChrQ"
+      },
+      "artists": [
+        {
+          "name": "Matt Andersen",
+          "url": "https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5"
+        }
+      ],
+      "duration_ms": 154226,
+      "name": "Other Side of Goodbye",
+      "url": "https://open.spotify.com/track/36C3122Qre8AjCMdCQNeAe"
     },
     {
       "added_at": "2023-07-14 00:02:00",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-07-14 00:02:00",
       "album": {
+        "name": "One Kind Favor (Deluxe)",
+        "url": "https://open.spotify.com/album/1w11S8oiPNJk06p6TgFVNV"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 268000,
+      "name": "Get These Blues Off Me",
+      "url": "https://open.spotify.com/track/0vEAbMF2dIx0NagNoiDdQf"
+    },
+    {
+      "added_at": "2023-07-14 00:02:00",
+      "album": {
         "name": "The Platinum Collection",
         "url": "https://open.spotify.com/album/7Kr5H7qAtXjsMxAeNvugTl"
       },
@@ -1327,18 +1343,18 @@
     {
       "added_at": "2023-07-14 00:02:00",
       "album": {
-        "name": "One Kind Favor (Deluxe)",
-        "url": "https://open.spotify.com/album/1w11S8oiPNJk06p6TgFVNV"
+        "name": "Real Contender",
+        "url": "https://open.spotify.com/album/73z0NmoqHCZyzO5kQPsor9"
       },
       "artists": [
         {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+          "name": "The Dip",
+          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
         }
       ],
-      "duration_ms": 268000,
-      "name": "Get These Blues Off Me",
-      "url": "https://open.spotify.com/track/0vEAbMF2dIx0NagNoiDdQf"
+      "duration_ms": 201933,
+      "name": "Real Contender",
+      "url": "https://open.spotify.com/track/5WUvMBugUOJOcsqhxZyrFE"
     },
     {
       "added_at": "2023-07-14 00:02:00",
@@ -1363,22 +1379,6 @@
     {
       "added_at": "2023-07-14 00:02:00",
       "album": {
-        "name": "Real Contender",
-        "url": "https://open.spotify.com/album/73z0NmoqHCZyzO5kQPsor9"
-      },
-      "artists": [
-        {
-          "name": "The Dip",
-          "url": "https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn"
-        }
-      ],
-      "duration_ms": 201933,
-      "name": "Real Contender",
-      "url": "https://open.spotify.com/track/5WUvMBugUOJOcsqhxZyrFE"
-    },
-    {
-      "added_at": "2023-07-14 00:02:00",
-      "album": {
         "name": "Things Happen That Way",
         "url": "https://open.spotify.com/album/4j2PonMiWYk1uBK6jXOKP2"
       },
@@ -1391,22 +1391,6 @@
       "duration_ms": 204800,
       "name": "Holy Water",
       "url": "https://open.spotify.com/track/3uHKEi9VopbcnCdPu3Akbk"
-    },
-    {
-      "added_at": "2023-07-14 00:02:00",
-      "album": {
-        "name": "West Coast Eyes",
-        "url": "https://open.spotify.com/album/5g126IZfaZ8Wm8KZuLe8uC"
-      },
-      "artists": [
-        {
-          "name": "Robert Jon & the Wreck",
-          "url": "https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC"
-        }
-      ],
-      "duration_ms": 245306,
-      "name": "West Coast Eyes",
-      "url": "https://open.spotify.com/track/30qwcdF8KTYzEF2lVkoGDN"
     },
     {
       "added_at": "2023-07-14 00:02:00",
@@ -1427,6 +1411,22 @@
     {
       "added_at": "2023-07-14 00:02:00",
       "album": {
+        "name": "Rise to the Grind",
+        "url": "https://open.spotify.com/album/1HeTtiW6mFOjTJVu7F3hk9"
+      },
+      "artists": [
+        {
+          "name": "Garrett Lebeau",
+          "url": "https://open.spotify.com/artist/7u4tQSAU9o2j0yFsJJe5xj"
+        }
+      ],
+      "duration_ms": 290453,
+      "name": "Eyes on You",
+      "url": "https://open.spotify.com/track/31lG2URaPvdi7atAM8Tu4V"
+    },
+    {
+      "added_at": "2023-07-14 00:02:00",
+      "album": {
         "name": "From the Cradle",
         "url": "https://open.spotify.com/album/5P2ZoNb6NJL7P5VexrQOeg"
       },
@@ -1443,18 +1443,18 @@
     {
       "added_at": "2023-07-14 00:02:00",
       "album": {
-        "name": "Rise to the Grind",
-        "url": "https://open.spotify.com/album/1HeTtiW6mFOjTJVu7F3hk9"
+        "name": "West Coast Eyes",
+        "url": "https://open.spotify.com/album/5g126IZfaZ8Wm8KZuLe8uC"
       },
       "artists": [
         {
-          "name": "Garrett Lebeau",
-          "url": "https://open.spotify.com/artist/7u4tQSAU9o2j0yFsJJe5xj"
+          "name": "Robert Jon & the Wreck",
+          "url": "https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC"
         }
       ],
-      "duration_ms": 290453,
-      "name": "Eyes on You",
-      "url": "https://open.spotify.com/track/31lG2URaPvdi7atAM8Tu4V"
+      "duration_ms": 245306,
+      "name": "West Coast Eyes",
+      "url": "https://open.spotify.com/track/30qwcdF8KTYzEF2lVkoGDN"
     },
     {
       "added_at": "2023-07-14 00:02:00",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2023-07-14 00:02:00",
       "album": {
+        "name": "The Complete Blue Horizon Sessions",
+        "url": "https://open.spotify.com/album/5mWAkFj5rHq3s6SR23vLK1"
+      },
+      "artists": [
+        {
+          "name": "Christine Perfect",
+          "url": "https://open.spotify.com/artist/1YTLOHyyXnaj7W1g1oSS56"
+        }
+      ],
+      "duration_ms": 180680,
+      "name": "And That's Saying a Lot",
+      "url": "https://open.spotify.com/track/6TrgkS1CCRs0RKJ3UGG5LZ"
+    },
+    {
+      "added_at": "2023-07-14 00:02:00",
+      "album": {
         "name": "Jigsaw Heart",
         "url": "https://open.spotify.com/album/1ypgfVxnEINJJpmIf3olHI"
       },
@@ -1579,22 +1595,6 @@
     {
       "added_at": "2023-07-14 00:02:00",
       "album": {
-        "name": "The Complete Blue Horizon Sessions",
-        "url": "https://open.spotify.com/album/5mWAkFj5rHq3s6SR23vLK1"
-      },
-      "artists": [
-        {
-          "name": "Christine Perfect",
-          "url": "https://open.spotify.com/artist/1YTLOHyyXnaj7W1g1oSS56"
-        }
-      ],
-      "duration_ms": 180680,
-      "name": "And That's Saying a Lot",
-      "url": "https://open.spotify.com/track/6TrgkS1CCRs0RKJ3UGG5LZ"
-    },
-    {
-      "added_at": "2023-07-14 00:02:00",
-      "album": {
         "name": "Dinah Washington Sings Bessie Smith",
         "url": "https://open.spotify.com/album/1Y8JyTROex2Hxgd3bN05PR"
       },
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2023-07-14 00:02:00",
       "album": {
-        "name": "What Happens Next",
-        "url": "https://open.spotify.com/album/5YPB4NSqjifClpCCbiNVXB"
-      },
-      "artists": [
-        {
-          "name": "Davy Knowles",
-          "url": "https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB"
-        }
-      ],
-      "duration_ms": 282253,
-      "name": "Hell To Pay",
-      "url": "https://open.spotify.com/track/1AEmEJjQ4ShPuXkT9vBjxu"
-    },
-    {
-      "added_at": "2023-07-14 00:02:00",
-      "album": {
         "name": "Picture In A Frame",
         "url": "https://open.spotify.com/album/0A0eP6PRENVryNshAfaWPc"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 257790,
       "name": "Picture In A Frame",
       "url": "https://open.spotify.com/track/1KnlgvH9CaSTZt6tpcjivh"
+    },
+    {
+      "added_at": "2023-07-14 00:02:00",
+      "album": {
+        "name": "What Happens Next",
+        "url": "https://open.spotify.com/album/5YPB4NSqjifClpCCbiNVXB"
+      },
+      "artists": [
+        {
+          "name": "Davy Knowles",
+          "url": "https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB"
+        }
+      ],
+      "duration_ms": 282253,
+      "name": "Hell To Pay",
+      "url": "https://open.spotify.com/track/1AEmEJjQ4ShPuXkT9vBjxu"
     },
     {
       "added_at": "2023-07-14 00:02:00",
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2023-07-14 00:02:00",
       "album": {
-        "name": "Get Behind the Wheel",
-        "url": "https://open.spotify.com/album/38uG2SenaORYitq26CJnh9"
+        "name": "White Jesus Black Problems",
+        "url": "https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i"
       },
       "artists": [
         {
-          "name": "Eilen Jewell",
-          "url": "https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M"
+          "name": "Fantastic Negrito",
+          "url": "https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13"
         }
       ],
-      "duration_ms": 163534,
-      "name": "Come Home Soon",
-      "url": "https://open.spotify.com/track/7eRtuwFqQMdzpNM6arbA5s"
+      "duration_ms": 227274,
+      "name": "Nibbadip",
+      "url": "https://open.spotify.com/track/6YPSs7nidM3FK5qFN0nJnh"
     }
   ],
   "unique_name": "Home at Last",

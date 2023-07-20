@@ -1,12 +1,12 @@
 {
   "description": "Songs of love, hope and positivity for the world.   Listen with Spirit!  Cover: Hannah Kerr",
-  "num_followers": 23934,
+  "num_followers": 23960,
   "original_name": "Spirit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTI0ZWJkNzMyYjg1ZTYzYTNkZGY2YmQzZDU2MjI0ZDM1Y2Q2NWFj",
+  "snapshot_id": "MCxkZDQzODY1YTdiZmZkNzc4YzI5ZWVkZjNmZDViMWMxZmQwNmI4MGRl",
   "tracks": [
     {
       "added_at": "2023-02-18 06:22:02",
@@ -463,6 +463,22 @@
     {
       "added_at": "2023-02-18 06:22:02",
       "album": {
+        "name": "Twenty Four Seven",
+        "url": "https://open.spotify.com/album/78W0lU34coKODcz3Ln3Vfn"
+      },
+      "artists": [
+        {
+          "name": "Zauntee",
+          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
+        }
+      ],
+      "duration_ms": 186513,
+      "name": "Fanatic",
+      "url": "https://open.spotify.com/track/7L1i9lKq51GNndddOR3joe"
+    },
+    {
+      "added_at": "2023-02-18 06:22:02",
+      "album": {
         "name": "Brighter",
         "url": "https://open.spotify.com/album/0uaNHO3Fg6eX9tAtUBxV8q"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 279272,
       "name": "Brighter",
       "url": "https://open.spotify.com/track/44u5ggF8jOttzk8XvPGyik"
-    },
-    {
-      "added_at": "2023-02-18 06:22:02",
-      "album": {
-        "name": "Twenty Four Seven",
-        "url": "https://open.spotify.com/album/78W0lU34coKODcz3Ln3Vfn"
-      },
-      "artists": [
-        {
-          "name": "Zauntee",
-          "url": "https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch"
-        }
-      ],
-      "duration_ms": 186513,
-      "name": "Fanatic",
-      "url": "https://open.spotify.com/track/7L1i9lKq51GNndddOR3joe"
     },
     {
       "added_at": "2023-02-18 06:22:02",
@@ -783,26 +783,6 @@
     {
       "added_at": "2023-02-18 06:22:02",
       "album": {
-        "name": "Safe (feat. Chris Cron)",
-        "url": "https://open.spotify.com/album/66sEcqKPI4ue0VubvW29qH"
-      },
-      "artists": [
-        {
-          "name": "Neon Feather",
-          "url": "https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD"
-        },
-        {
-          "name": "Chris Cron",
-          "url": "https://open.spotify.com/artist/3KOEKMUxngxpCbKGBk8giH"
-        }
-      ],
-      "duration_ms": 213997,
-      "name": "Safe (feat. Chris Cron)",
-      "url": "https://open.spotify.com/track/1b5Fw9OGITGQQ6u46coPy9"
-    },
-    {
-      "added_at": "2023-02-18 06:22:02",
-      "album": {
         "name": "NOT BY CHANCE",
         "url": "https://open.spotify.com/album/3b8v7puIRYD29jbCAlWWUP"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 230574,
       "name": "MAYBE",
       "url": "https://open.spotify.com/track/1jV1Y8adI8byyeBimWankc"
+    },
+    {
+      "added_at": "2023-02-18 06:22:02",
+      "album": {
+        "name": "Safe (feat. Chris Cron)",
+        "url": "https://open.spotify.com/album/66sEcqKPI4ue0VubvW29qH"
+      },
+      "artists": [
+        {
+          "name": "Neon Feather",
+          "url": "https://open.spotify.com/artist/2gKOyAK7jvza3CP58EcLKD"
+        },
+        {
+          "name": "Chris Cron",
+          "url": "https://open.spotify.com/artist/3KOEKMUxngxpCbKGBk8giH"
+        }
+      ],
+      "duration_ms": 213997,
+      "name": "Safe (feat. Chris Cron)",
+      "url": "https://open.spotify.com/track/1b5Fw9OGITGQQ6u46coPy9"
     },
     {
       "added_at": "2023-02-18 06:22:02",

@@ -4,7 +4,7 @@
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-95 songs - 10 hr 54 min
+96 songs - 11 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Don’t Get Me Wrong](https://open.spotify.com/track/2ntpd9lUjPovqyEFfbYwmK) | [Deepconsoul](https://open.spotify.com/artist/5i4JeNw6u1j4B6f8ezRHRf), [Freeman Gumede](https://open.spotify.com/artist/72TQ8KmrZj6SfF2SgDWWib) | [Don’t Get Me Wrong](https://open.spotify.com/album/6fuxtJsTxSzDWBpjkOGFsh) | 7:53 | 2022-09-29 | 2022-11-18 |
 | [Dusty Streets](https://open.spotify.com/track/0vrMIwW4ldO73eRMJAR10q) | [Eddvin](https://open.spotify.com/artist/4RzjxbWhQF6a1X922nntRq) | [Dusty Streets](https://open.spotify.com/album/0FzV8GEZEzQKoR3OA6Osf6) | 6:26 | 2022-09-14 |  |
 | [E.O.L \(Extraordinary Life\) \(Original LP Mix\)](https://open.spotify.com/track/7o0UkICXQlYARbMU6C4TTc) | [Nini Maluks](https://open.spotify.com/artist/4wt6OI7hl305rb96PueedT), [Pascale Yav](https://open.spotify.com/artist/73wxsmF4LKKCMsHJVIMH75) | [G.E.N.U.F.L.E.X.I.O.N](https://open.spotify.com/album/7l9FWrlJl4ANd95P9MC7RD) | 8:17 | 2022-09-29 | 2022-11-08 |
-| [Electronic Deep House King](https://open.spotify.com/track/0GguOx9XILJ3MXuKwE435W) | [Seventhi DJ](https://open.spotify.com/artist/0Ft03Su4IUoiKjyVOI2JR7) | [Electronic Deep House King](https://open.spotify.com/album/00eLGRfYqp78QhwWp7i5Bx) | 5:36 | 2023-03-17 |  |
+| [Electronic Deep House King](https://open.spotify.com/track/0GguOx9XILJ3MXuKwE435W) | [Seventhi DJ](https://open.spotify.com/artist/0Ft03Su4IUoiKjyVOI2JR7) | [Electronic Deep House King](https://open.spotify.com/album/00eLGRfYqp78QhwWp7i5Bx) | 5:36 | 2023-03-17 | 2023-07-20 |
+| [Emulate \- Original Mix](https://open.spotify.com/track/3cwnPmaqR2HPxnAbOiZQdk) | [Jason Scoble](https://open.spotify.com/artist/4Z0yLFzmYX8tOVel9skUdg) | [Emulate](https://open.spotify.com/album/3liHkkMMd2YHC8dstMQ8js) | 7:49 | 2023-05-12 |  |
 | [Eternal Existence \- Original Mix](https://open.spotify.com/track/5wUEnoCp5mbXXTAeQjXlsU) | [Echo Deep](https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU) | [New Beginning EP](https://open.spotify.com/album/6DiitXMyp0hYrOQLhAkUZ4) | 6:42 | 2022-09-14 | 2023-05-13 |
 | [False Facade](https://open.spotify.com/track/2JtWujMQf8l88eY7QMaFza) | [DRMZ](https://open.spotify.com/artist/0UJC0mzc3yjEUbUmqsPGYZ) | [False Facade](https://open.spotify.com/album/59Gcm4iMGayj6H09wpKhxs) | 6:56 | 2022-09-14 | 2023-03-18 |
 | [Far Away](https://open.spotify.com/track/3tccOazIpUXPTWh40u5ryq) | [DJ Odyccy](https://open.spotify.com/artist/28iJq14GBXZYFOMpl99uaf) | [Far Away](https://open.spotify.com/album/62T98SBUNdbswD0ESzcw4d) | 6:59 | 2023-03-23 |  |

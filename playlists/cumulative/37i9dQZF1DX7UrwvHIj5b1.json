@@ -447,6 +447,24 @@
     },
     {
       "album": {
+        "name": "Sensitivity 6.0",
+        "url": "https://open.spotify.com/album/7cZkjYF4onpWWy5ftfZFcM"
+      },
+      "artists": [
+        {
+          "name": "Soreab",
+          "url": "https://open.spotify.com/artist/3gDCHnajxKxIGUtweD6p9k"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327000,
+      "name": "Insomnias",
+      "url": "https://open.spotify.com/track/4nV6k7nnof6wV4tbXSZiKB"
+    },
+    {
+      "album": {
         "name": "Instinct EP",
         "url": "https://open.spotify.com/album/6T3y446mhfvtTtxXkLPLHr"
       },

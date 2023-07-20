@@ -1,12 +1,12 @@
 {
   "description": "Anthems from a new generation of party starters. Cover: venbee\n",
-  "num_followers": 25174,
+  "num_followers": 25184,
   "original_name": "Party Starters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyN2Q3YWZhZGJiMTdmZGZjYzE4YzIzMjc2ODdkZDhjNTc2ZmQwMTlk",
+  "snapshot_id": "MCw4M2MxYmZlYTg5YmExMzQ5NjE5NTRhNzA4YWExYTEyZjU1OGEwYWNi",
   "tracks": [
     {
       "added_at": "2023-06-02 15:32:09",
@@ -619,6 +619,26 @@
     {
       "added_at": "2023-06-02 15:32:09",
       "album": {
+        "name": "Stars On The Roof (feat. MoMo)",
+        "url": "https://open.spotify.com/album/6o2oXNriDnljYllyCIaL99"
+      },
+      "artists": [
+        {
+          "name": "Alcemist",
+          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
+        },
+        {
+          "name": "MoMo",
+          "url": "https://open.spotify.com/artist/1UjH8hHfaPKRnTg8FO0uaJ"
+        }
+      ],
+      "duration_ms": 242769,
+      "name": "Stars On The Roof (feat. MoMo)",
+      "url": "https://open.spotify.com/track/354Cv7huFJnlEdVAHvhH3Q"
+    },
+    {
+      "added_at": "2023-06-02 15:32:09",
+      "album": {
         "name": "All Of Me (Do For Love)",
         "url": "https://open.spotify.com/album/4ln6BUu9ajIKCntL6qGqCk"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 144003,
       "name": "All Of Me (Do For Love)",
       "url": "https://open.spotify.com/track/2fzqWz8fV05O1RA6PfHFYc"
-    },
-    {
-      "added_at": "2023-06-02 15:32:09",
-      "album": {
-        "name": "Stars On The Roof (feat. MoMo)",
-        "url": "https://open.spotify.com/album/6o2oXNriDnljYllyCIaL99"
-      },
-      "artists": [
-        {
-          "name": "Alcemist",
-          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
-        },
-        {
-          "name": "MoMo",
-          "url": "https://open.spotify.com/artist/1UjH8hHfaPKRnTg8FO0uaJ"
-        }
-      ],
-      "duration_ms": 242769,
-      "name": "Stars On The Roof (feat. MoMo)",
-      "url": "https://open.spotify.com/track/354Cv7huFJnlEdVAHvhH3Q"
     },
     {
       "added_at": "2023-06-02 15:32:09",
@@ -699,26 +699,6 @@
     {
       "added_at": "2023-06-02 15:32:09",
       "album": {
-        "name": "Twust",
-        "url": "https://open.spotify.com/album/1UfWIfP15xiwr1PuRoeqU6"
-      },
-      "artists": [
-        {
-          "name": "HStikkytokky",
-          "url": "https://open.spotify.com/artist/2bYWQ3rr9GraqM3Iyb7Rhb"
-        },
-        {
-          "name": "General G",
-          "url": "https://open.spotify.com/artist/4mZZNSta0MoJhUVaYSYPHO"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Twust",
-      "url": "https://open.spotify.com/track/5q3ch1Q32fKbKzdqOsi9Ij"
-    },
-    {
-      "added_at": "2023-06-02 15:32:09",
-      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/4IdRKmgd3lPeH5NuwDpi6i"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 209482,
       "name": "Only You",
       "url": "https://open.spotify.com/track/2gcgwomqMF4Z92EZAPv3Ic"
+    },
+    {
+      "added_at": "2023-06-02 15:32:09",
+      "album": {
+        "name": "Twust",
+        "url": "https://open.spotify.com/album/1UfWIfP15xiwr1PuRoeqU6"
+      },
+      "artists": [
+        {
+          "name": "HStikkytokky",
+          "url": "https://open.spotify.com/artist/2bYWQ3rr9GraqM3Iyb7Rhb"
+        },
+        {
+          "name": "General G",
+          "url": "https://open.spotify.com/artist/4mZZNSta0MoJhUVaYSYPHO"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Twust",
+      "url": "https://open.spotify.com/track/5q3ch1Q32fKbKzdqOsi9Ij"
     },
     {
       "added_at": "2023-06-02 15:32:09",

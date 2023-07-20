@@ -1,12 +1,12 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: The Oozes",
-  "num_followers": 155513,
+  "num_followers": 155662,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZDI1YjZhNjY5MGNkOWRjMWU5MDRlYmE4NTExOGMwYWQ5MzA1M2I3",
+  "snapshot_id": "MCxkNjU0ZjgxNzI1MTkzMTgwNmIxZDUxMzZkNzFkYjUyMGU0ZmZlMGI2",
   "tracks": [
     {
       "added_at": "2023-05-25 14:38:53",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-05-25 14:38:53",
       "album": {
-        "name": "Total 90",
-        "url": "https://open.spotify.com/album/4efq58i5lqhrDIigg4mGNj"
-      },
-      "artists": [
-        {
-          "name": "DITZ",
-          "url": "https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ"
-        }
-      ],
-      "duration_ms": 163867,
-      "name": "Total 90",
-      "url": "https://open.spotify.com/track/0wt9XdllRuII1YlWz0sPrR"
-    },
-    {
-      "added_at": "2023-05-25 14:38:53",
-      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/4h2iTWNASAecNc26mPncPx"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 192281,
       "name": "Baby, I Had an Abortion",
       "url": "https://open.spotify.com/track/5wzYAfUDyqRcC87J7JEG2V"
+    },
+    {
+      "added_at": "2023-05-25 14:38:53",
+      "album": {
+        "name": "Total 90",
+        "url": "https://open.spotify.com/album/4efq58i5lqhrDIigg4mGNj"
+      },
+      "artists": [
+        {
+          "name": "DITZ",
+          "url": "https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ"
+        }
+      ],
+      "duration_ms": 163867,
+      "name": "Total 90",
+      "url": "https://open.spotify.com/track/0wt9XdllRuII1YlWz0sPrR"
     },
     {
       "added_at": "2023-05-25 14:38:53",

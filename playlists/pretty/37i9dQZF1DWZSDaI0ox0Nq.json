@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que escriben la historia del Tango. Foto: Julieta Laso.",
-  "num_followers": 16101,
+  "num_followers": 16108,
   "original_name": "Mujeres del Tango",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NWE4ZDYyNzNlNjA2OTUzZDkwY2MyMzZlNjFjYmEyYzQ2YmU2YTg5",
+  "snapshot_id": "MCwwOTBlMjlkMDAxY2QwYWNhNmZjOGM3ZTM5NWY3MzFjYTc5YWQyYWQ2",
   "tracks": [
     {
       "added_at": "2022-07-08 03:00:00",
@@ -771,38 +771,18 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Patio De Tango",
-        "url": "https://open.spotify.com/album/1kOUXHJMkKuXur3xTBoKmS"
+        "name": "Pu\u00f1al de Sombra",
+        "url": "https://open.spotify.com/album/4Qw4CS0wFUX8k8ooezASnh"
       },
       "artists": [
         {
           "name": "Lidia Borda",
           "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
-        },
-        {
-          "name": "Brian Chambouleyron",
-          "url": "https://open.spotify.com/artist/4ItsXJStGq1NA4LkKSV6WJ"
-        },
-        {
-          "name": "Esteban Morgado",
-          "url": "https://open.spotify.com/artist/1pL3N36WdUgF8sdmLG8OMl"
-        },
-        {
-          "name": "Damian Bolotin",
-          "url": "https://open.spotify.com/artist/6K2DK1fVzvbY5oSx3xPajp"
-        },
-        {
-          "name": "Walter Castro",
-          "url": "https://open.spotify.com/artist/163oQfMweTcJsoOdYdDjNG"
-        },
-        {
-          "name": "Mono Hurtado",
-          "url": "https://open.spotify.com/artist/2SKGUiZZSPBgQ9ZgdBiUTL"
         }
       ],
-      "duration_ms": 270791,
-      "name": "Trenzas",
-      "url": "https://open.spotify.com/track/7jBfhA6e93EKL1BaoghORb"
+      "duration_ms": 213476,
+      "name": "Mano a Mano",
+      "url": "https://open.spotify.com/track/4IXkbRNf3zgmbSinjHlSKq"
     },
     {
       "added_at": "2022-07-08 03:00:00",
@@ -951,18 +931,38 @@
     {
       "added_at": "2022-07-08 03:00:00",
       "album": {
-        "name": "Pu\u00f1al de Sombra",
-        "url": "https://open.spotify.com/album/4Qw4CS0wFUX8k8ooezASnh"
+        "name": "Patio De Tango",
+        "url": "https://open.spotify.com/album/1kOUXHJMkKuXur3xTBoKmS"
       },
       "artists": [
         {
           "name": "Lidia Borda",
           "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
+        },
+        {
+          "name": "Brian Chambouleyron",
+          "url": "https://open.spotify.com/artist/4ItsXJStGq1NA4LkKSV6WJ"
+        },
+        {
+          "name": "Esteban Morgado",
+          "url": "https://open.spotify.com/artist/1pL3N36WdUgF8sdmLG8OMl"
+        },
+        {
+          "name": "Damian Bolotin",
+          "url": "https://open.spotify.com/artist/6K2DK1fVzvbY5oSx3xPajp"
+        },
+        {
+          "name": "Walter Castro",
+          "url": "https://open.spotify.com/artist/163oQfMweTcJsoOdYdDjNG"
+        },
+        {
+          "name": "Mono Hurtado",
+          "url": "https://open.spotify.com/artist/2SKGUiZZSPBgQ9ZgdBiUTL"
         }
       ],
-      "duration_ms": 213476,
-      "name": "Mano a Mano",
-      "url": "https://open.spotify.com/track/4IXkbRNf3zgmbSinjHlSKq"
+      "duration_ms": 270791,
+      "name": "Trenzas",
+      "url": "https://open.spotify.com/track/7jBfhA6e93EKL1BaoghORb"
     },
     {
       "added_at": "2022-07-08 03:00:00",

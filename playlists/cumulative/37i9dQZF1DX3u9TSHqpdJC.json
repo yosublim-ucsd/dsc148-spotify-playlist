@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best new music by independent artists and labels. Updates every Wednesday. Cover: Bentley Robles",
+  "description": "The best new music by independent artists and labels. Updates every Wednesday. Cover: Liza",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 173469,
       "name": "(not) a love song",
       "url": "https://open.spotify.com/track/7uFFeZoWKKSBUixCDWkxmI"
@@ -2260,7 +2260,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 190917,
       "name": "All We Got Is War",
       "url": "https://open.spotify.com/track/73KQjIjBCgBRxlCZiT52J1"
@@ -3792,7 +3792,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 205500,
       "name": "Bad As",
       "url": "https://open.spotify.com/track/33HaOM5zaYpwGMatWHwzpV"
@@ -4174,7 +4174,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 222500,
       "name": "Bandage",
       "url": "https://open.spotify.com/track/0bk37ffAvr9ILvj20IB1uZ"
@@ -9584,7 +9584,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 173375,
       "name": "Cold",
       "url": "https://open.spotify.com/track/2d5orsE02tsi1j0a0zHpxr"
@@ -11033,6 +11033,24 @@
     },
     {
       "album": {
+        "name": "cup!",
+        "url": "https://open.spotify.com/album/5gAQRdHjiDyojF1Er7FOwe"
+      },
+      "artists": [
+        {
+          "name": "Cassie Marin",
+          "url": "https://open.spotify.com/artist/1zrtALLG8cavle3fFQ0dFH"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134807,
+      "name": "cup!",
+      "url": "https://open.spotify.com/track/4DuLxRMYMFmawBRM9ZTJeL"
+    },
+    {
+      "album": {
         "name": "Cupidon / Cupids Games",
         "url": "https://open.spotify.com/album/3L7V1tnYa0rzaiTvhNUdQm"
       },
@@ -11694,6 +11712,24 @@
       "duration_ms": 151533,
       "name": "Dead Inside",
       "url": "https://open.spotify.com/track/4SPdHWbfIJh0VNsy2ZqnBs"
+    },
+    {
+      "album": {
+        "name": "Dead To Me",
+        "url": "https://open.spotify.com/album/6wjm5UATvraR2HRKwWoNWO"
+      },
+      "artists": [
+        {
+          "name": "Hayes Warner",
+          "url": "https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152492,
+      "name": "Dead To Me",
+      "url": "https://open.spotify.com/track/756sYvBPGREA5DVd9qUIUd"
     },
     {
       "album": {
@@ -14700,7 +14736,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 180500,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/0aeOa10DSMZqVh6C7aTHac"
@@ -22943,6 +22979,24 @@
     },
     {
       "album": {
+        "name": "Hungover",
+        "url": "https://open.spotify.com/album/3YP0m6tUpmP9Gtlf9TpUSr"
+      },
+      "artists": [
+        {
+          "name": "Wiley Beckett",
+          "url": "https://open.spotify.com/artist/6LEn9GuuJittj0IYppAYrr"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164532,
+      "name": "Hungover",
+      "url": "https://open.spotify.com/track/6InUsU3gQ6TF30X36vYSYa"
+    },
+    {
+      "album": {
         "name": "Hunnid Degrees",
         "url": "https://open.spotify.com/album/5bffJRJYDFarcqWfVAx47c"
       },
@@ -26618,7 +26672,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 173858,
       "name": "Karaoke Star",
       "url": "https://open.spotify.com/track/6vPIhvt1PC7ZBO1QyEvv2I"
@@ -26914,7 +26968,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 251265,
       "name": "King of Disappointment",
       "url": "https://open.spotify.com/track/2Iw07pDIocxjnRK4CpBNse"
@@ -31700,7 +31754,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 201948,
       "name": "Meadow",
       "url": "https://open.spotify.com/track/2HJbmKz5If0PHmOle6jr5B"
@@ -38181,6 +38235,24 @@
     },
     {
       "album": {
+        "name": "Plastic Ring",
+        "url": "https://open.spotify.com/album/7H753DfuLX1FmbALEsllU9"
+      },
+      "artists": [
+        {
+          "name": "Emelie Trahan",
+          "url": "https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226451,
+      "name": "Plastic Ring",
+      "url": "https://open.spotify.com/track/2YprJIzgd5mrlHrX57kOvO"
+    },
+    {
+      "album": {
         "name": "play",
         "url": "https://open.spotify.com/album/5eWbISaqF6BHZsUHwXkT9p"
       },
@@ -39050,7 +39122,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 175166,
       "name": "Proud of Me",
       "url": "https://open.spotify.com/track/6uIGK6p2c9GQk2AbmKEPFB"
@@ -41668,6 +41740,24 @@
       "duration_ms": 161629,
       "name": "Safeword",
       "url": "https://open.spotify.com/track/5YD8ZKRVx9au36tfplEi9S"
+    },
+    {
+      "album": {
+        "name": "Sage",
+        "url": "https://open.spotify.com/album/7v8Cj9MAnn70r7lU2x6bVj"
+      },
+      "artists": [
+        {
+          "name": "Jessica Andrea",
+          "url": "https://open.spotify.com/artist/3cxjLPoupULWAW15bgjkgl"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172031,
+      "name": "Sage",
+      "url": "https://open.spotify.com/track/538NTj2XofLaddz3jCm6Vh"
     },
     {
       "album": {
@@ -46768,7 +46858,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 200080,
       "name": "Super Mall Mannequin",
       "url": "https://open.spotify.com/track/4IaTh1fIDJ7NYjbK85sIYQ"
@@ -49112,7 +49202,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 237022,
       "name": "The Silence",
       "url": "https://open.spotify.com/track/2ydJqqTWwGVlNiixaL9yxu"
@@ -50100,7 +50190,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 166857,
       "name": "to the girls i never dated",
       "url": "https://open.spotify.com/track/6hEa65kTf0RLC1Yqj5w72S"
@@ -50590,7 +50680,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 187160,
       "name": "Trauma",
       "url": "https://open.spotify.com/track/3gwcexbPVeKJQ8cN8f3Ner"
@@ -52748,7 +52838,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 198000,
       "name": "Warning Signs",
       "url": "https://open.spotify.com/track/2CXJAqksi41e934nrqqXak"
@@ -54050,7 +54140,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 211133,
       "name": "When Nobody's Left",
       "url": "https://open.spotify.com/track/2FfmRe2nnFCNncEucJobL0"

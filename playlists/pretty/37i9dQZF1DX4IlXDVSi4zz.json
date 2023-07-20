@@ -1,12 +1,12 @@
 {
   "description": "Dance the night away and just blame it on Tulum!",
-  "num_followers": 206618,
+  "num_followers": 206843,
   "original_name": "Tulum Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYWI1MTQzZmNiYTI1NmJmMmUwNTdiY2FmZGI3MzBjOTllYWZhMWFj",
+  "snapshot_id": "MCw3MDQ3Mjk0NGE3MWQ2YWQ2OGQzYjlhZmM5NzkxODViYjdiMjg5ZmFh",
   "tracks": [
     {
       "added_at": "2022-10-12 15:41:51",
@@ -707,26 +707,6 @@
     {
       "added_at": "2022-10-12 15:41:51",
       "album": {
-        "name": "El Sueno",
-        "url": "https://open.spotify.com/album/67oNtjg4DE8CMeOtqcEwV7"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "El Sueno",
-      "url": "https://open.spotify.com/track/4DndSKZKWXbbBxi5lO4QUP"
-    },
-    {
-      "added_at": "2022-10-12 15:41:51",
-      "album": {
         "name": "Subconsciously",
         "url": "https://open.spotify.com/album/5zIPpR6ufwhSM0RV1wcrhw"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 191258,
       "name": "Drive - Edit",
       "url": "https://open.spotify.com/track/3XsNRi2cypsksscysYbyaF"
+    },
+    {
+      "added_at": "2022-10-12 15:41:51",
+      "album": {
+        "name": "El Sueno",
+        "url": "https://open.spotify.com/album/67oNtjg4DE8CMeOtqcEwV7"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "El Sueno",
+      "url": "https://open.spotify.com/track/4DndSKZKWXbbBxi5lO4QUP"
     },
     {
       "added_at": "2022-10-12 15:41:51",

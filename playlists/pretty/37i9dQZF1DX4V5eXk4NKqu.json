@@ -1,12 +1,12 @@
 {
   "description": "The best Latin Indie tracks right now, featuring Isla de Caras.",
-  "num_followers": 151577,
+  "num_followers": 151588,
   "original_name": "Ultimate Latin Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNGU0OWUwYTRlYWM5MTE1YTJkNDY0YTE1MTM3NGE2ZGI0OWI2YTUy",
+  "snapshot_id": "MCwzYzQ3NjgwNzNkMzZkNzJkOWE5ZDMzZWFmY2UzNTYxZWQ2NGZiYjBm",
   "tracks": [
     {
       "added_at": "2023-07-13 23:24:54",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-07-13 23:24:54",
       "album": {
-        "name": "Uh",
-        "url": "https://open.spotify.com/album/3L1yuiFJh0ylDphqb8JKFt"
-      },
-      "artists": [
-        {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
-        }
-      ],
-      "duration_ms": 211562,
-      "name": "Uh",
-      "url": "https://open.spotify.com/track/4O2kPvcDfNAJbCA2Lc8l3D"
-    },
-    {
-      "added_at": "2023-07-13 23:24:54",
-      "album": {
         "name": "Be Mine",
         "url": "https://open.spotify.com/album/0tzapKoaFjcoNf3smm1Stm"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 164708,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/2obd4xYbCzz5mj6PMED9RR"
+    },
+    {
+      "added_at": "2023-07-13 23:24:54",
+      "album": {
+        "name": "Uh",
+        "url": "https://open.spotify.com/album/3L1yuiFJh0ylDphqb8JKFt"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 211562,
+      "name": "Uh",
+      "url": "https://open.spotify.com/track/4O2kPvcDfNAJbCA2Lc8l3D"
     },
     {
       "added_at": "2023-07-13 23:24:54",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2023-07-13 23:24:54",
       "album": {
-        "name": "en la ciudad",
-        "url": "https://open.spotify.com/album/6FC9OVa2vFyot2dp23GdiM"
-      },
-      "artists": [
-        {
-          "name": "Mario Puglia",
-          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
-        },
-        {
-          "name": "d\u00f3ntia",
-          "url": "https://open.spotify.com/artist/6otFL2m5sOProVKidtkpyx"
-        }
-      ],
-      "duration_ms": 211986,
-      "name": "en la ciudad",
-      "url": "https://open.spotify.com/track/5smdosXwKG5czbMDXqRtc7"
-    },
-    {
-      "added_at": "2023-07-13 23:24:54",
-      "album": {
         "name": "MIMO",
         "url": "https://open.spotify.com/album/3mx6ZABLIkj5RjODUtQY21"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 258883,
       "name": "Muerta de Fr\u00edo",
       "url": "https://open.spotify.com/track/4jXfJMb6rEDc86zMC115pc"
+    },
+    {
+      "added_at": "2023-07-13 23:24:54",
+      "album": {
+        "name": "en la ciudad",
+        "url": "https://open.spotify.com/album/6FC9OVa2vFyot2dp23GdiM"
+      },
+      "artists": [
+        {
+          "name": "Mario Puglia",
+          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
+        },
+        {
+          "name": "d\u00f3ntia",
+          "url": "https://open.spotify.com/artist/6otFL2m5sOProVKidtkpyx"
+        }
+      ],
+      "duration_ms": 211986,
+      "name": "en la ciudad",
+      "url": "https://open.spotify.com/track/5smdosXwKG5czbMDXqRtc7"
     },
     {
       "added_at": "2023-07-13 23:24:54",

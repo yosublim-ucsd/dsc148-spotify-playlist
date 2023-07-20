@@ -1,12 +1,12 @@
 {
   "description": "Funk-inspired beats by latinos.",
-  "num_followers": 13755,
+  "num_followers": 13801,
   "original_name": "feels like latin funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDEwZDM0NjdjYTQ0NjhjZWIwMjk0YzQ1ZGM5YjZjZmFlYzM5MTA1",
+  "snapshot_id": "MCxjNGEyYjdiMzVlNjZhM2FlYTlhOTdlNjcwNGMxN2NmNDZjOThkMDgz",
   "tracks": [
     {
       "added_at": "2023-07-14 04:00:00",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Chango",
-        "url": "https://open.spotify.com/album/7AzXtthlLZjuqonhrl0Wwa"
-      },
-      "artists": [
-        {
-          "name": "Isla de Caras",
-          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
-        }
-      ],
-      "duration_ms": 185994,
-      "name": "Despacio",
-      "url": "https://open.spotify.com/track/2LWqH7TB7GY9Bvme8FF7Ac"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Funk Your Bones (Side B)",
         "url": "https://open.spotify.com/album/440X9FP6a7TTrQDZVR3vyT"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 196874,
       "name": "Young Girl",
       "url": "https://open.spotify.com/track/6MWaf0c7rvbvVH5V2zmHJn"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Chango",
+        "url": "https://open.spotify.com/album/7AzXtthlLZjuqonhrl0Wwa"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "duration_ms": 185994,
+      "name": "Despacio",
+      "url": "https://open.spotify.com/track/2LWqH7TB7GY9Bvme8FF7Ac"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -579,6 +579,30 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
+        "name": "In My Bones",
+        "url": "https://open.spotify.com/album/6dxeJJi4Sbj1k89jS0gRyp"
+      },
+      "artists": [
+        {
+          "name": "DJ Who",
+          "url": "https://open.spotify.com/artist/2MI03I2UxwCen2VjYktQA7"
+        },
+        {
+          "name": "Willy Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee"
+        },
+        {
+          "name": "Mr. Talkbox",
+          "url": "https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH"
+        }
+      ],
+      "duration_ms": 217082,
+      "name": "In My Bones",
+      "url": "https://open.spotify.com/track/79nl5WirZHBsWvTCy3s4iv"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
         "name": "Vida Cotidiana",
         "url": "https://open.spotify.com/album/1fHpKy8dfAplGSfcOsqtOm"
       },
@@ -611,22 +635,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "CAMALOVE",
-        "url": "https://open.spotify.com/album/7jJijowxod92mie0y9XAj7"
-      },
-      "artists": [
-        {
-          "name": "Cocofunka",
-          "url": "https://open.spotify.com/artist/2fZnIGcmeZuhplsTcCBmvD"
-        }
-      ],
-      "duration_ms": 254492,
-      "name": "Asturi\u00f3n",
-      "url": "https://open.spotify.com/track/7MCnLeI6m34DUyX1PfYpBJ"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "R\u00edo Salvaje",
         "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
       },
@@ -639,6 +647,22 @@
       "duration_ms": 326040,
       "name": "Tr\u00e1game Tierra",
       "url": "https://open.spotify.com/track/25w814wNZ7B0XoVBV5miTs"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "CAMALOVE",
+        "url": "https://open.spotify.com/album/7jJijowxod92mie0y9XAj7"
+      },
+      "artists": [
+        {
+          "name": "Cocofunka",
+          "url": "https://open.spotify.com/artist/2fZnIGcmeZuhplsTcCBmvD"
+        }
+      ],
+      "duration_ms": 254492,
+      "name": "Asturi\u00f3n",
+      "url": "https://open.spotify.com/track/7MCnLeI6m34DUyX1PfYpBJ"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -695,30 +719,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "In My Bones",
-        "url": "https://open.spotify.com/album/6dxeJJi4Sbj1k89jS0gRyp"
-      },
-      "artists": [
-        {
-          "name": "DJ Who",
-          "url": "https://open.spotify.com/artist/2MI03I2UxwCen2VjYktQA7"
-        },
-        {
-          "name": "Willy Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee"
-        },
-        {
-          "name": "Mr. Talkbox",
-          "url": "https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH"
-        }
-      ],
-      "duration_ms": 217082,
-      "name": "In My Bones",
-      "url": "https://open.spotify.com/track/79nl5WirZHBsWvTCy3s4iv"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Dicen",
         "url": "https://open.spotify.com/album/4UV2K61AHd7G9trxn3MBbP"
       },
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Solar",
-        "url": "https://open.spotify.com/album/3sgl0nsYzi67AAFoi23wp4"
-      },
-      "artists": [
-        {
-          "name": "MNKYBSNSS",
-          "url": "https://open.spotify.com/artist/7y93Bo1cpaMwqTCIxzVWFa"
-        }
-      ],
-      "duration_ms": 235000,
-      "name": "Mi Necedad",
-      "url": "https://open.spotify.com/track/359kqyd2FAX6XbGilJejYh"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Terciopelo",
         "url": "https://open.spotify.com/album/5ts7xYpW6igFn8lD1RYI9t"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 178064,
       "name": "Terciopelo",
       "url": "https://open.spotify.com/track/3BfkRtP5fDcHa9ebwIaGMY"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Solar",
+        "url": "https://open.spotify.com/album/3sgl0nsYzi67AAFoi23wp4"
+      },
+      "artists": [
+        {
+          "name": "MNKYBSNSS",
+          "url": "https://open.spotify.com/artist/7y93Bo1cpaMwqTCIxzVWFa"
+        }
+      ],
+      "duration_ms": 235000,
+      "name": "Mi Necedad",
+      "url": "https://open.spotify.com/track/359kqyd2FAX6XbGilJejYh"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
+        "name": "Ritmo Natural",
+        "url": "https://open.spotify.com/album/7c4DjcusI5Vv9AjQM2OhXu"
+      },
+      "artists": [
+        {
+          "name": "Plastical People",
+          "url": "https://open.spotify.com/artist/2CRgHQ611m9QPLCSN2G3k6"
+        }
+      ],
+      "duration_ms": 202080,
+      "name": "Ritmo Natural",
+      "url": "https://open.spotify.com/track/13h03rdDvweAVeunMnw8si"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
         "name": "Ritmo y Poes\u00eda",
         "url": "https://open.spotify.com/album/64UFcG14sdEZuIhUBfJdnF"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 218580,
       "name": "Ritmo y Poes\u00eda",
       "url": "https://open.spotify.com/track/1KAPPC7a9T8cLGR06LuknQ"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Ritmo Natural",
-        "url": "https://open.spotify.com/album/7c4DjcusI5Vv9AjQM2OhXu"
-      },
-      "artists": [
-        {
-          "name": "Plastical People",
-          "url": "https://open.spotify.com/artist/2CRgHQ611m9QPLCSN2G3k6"
-        }
-      ],
-      "duration_ms": 202080,
-      "name": "Ritmo Natural",
-      "url": "https://open.spotify.com/track/13h03rdDvweAVeunMnw8si"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Precipicio",
-        "url": "https://open.spotify.com/album/3Q3c0gC15QeKULsMy4v7eB"
+        "name": "Dame una se\u00f1al",
+        "url": "https://open.spotify.com/album/6q2Qh4xPwCHNNjAb0Jcj0r"
       },
       "artists": [
         {
-          "name": "Alex Anwandter",
-          "url": "https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02"
+          "name": "Lika Nova",
+          "url": "https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy"
         }
       ],
-      "duration_ms": 247430,
-      "name": "Precipicio",
-      "url": "https://open.spotify.com/track/30qoZqyK8luo3jwnWAbdYD"
+      "duration_ms": 233974,
+      "name": "Dame una se\u00f1al",
+      "url": "https://open.spotify.com/track/2N1TDOZLjpLLGwPiRoeuwT"
     }
   ],
   "unique_name": "feels like latin funk",

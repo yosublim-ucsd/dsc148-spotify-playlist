@@ -1,12 +1,12 @@
 {
   "description": "Boss music for boss people. Cover: Jamie T",
-  "num_followers": 112558,
+  "num_followers": 112613,
   "original_name": "Proper Belters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjUxNzhiYmM4MTY4NmJlMGQyNmJjNzg4NDQ0YTgyNzRhZDAxMWJh",
+  "snapshot_id": "MCxmMmNlODA0ZjVkZWRjZDg5NDZiMTJjYzdkYTgzNzM5NDE4ZjcyMWZm",
   "tracks": [
     {
       "added_at": "2023-06-13 08:58:04",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-06-13 08:58:04",
       "album": {
+        "name": "Do You Want It?",
+        "url": "https://open.spotify.com/album/3r1POBHLDuWzGaIqxtpKL4"
+      },
+      "artists": [
+        {
+          "name": "Corella",
+          "url": "https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe"
+        }
+      ],
+      "duration_ms": 190914,
+      "name": "Do You Want It?",
+      "url": "https://open.spotify.com/track/14Z6bWa5MGCXoRm8JCBxCs"
+    },
+    {
+      "added_at": "2023-06-13 08:58:04",
+      "album": {
         "name": "Reeling",
         "url": "https://open.spotify.com/album/1hkGVzxg3aKTSj1B6EMyRh"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 200482,
       "name": "Troubled Son",
       "url": "https://open.spotify.com/track/1NuOxTkp5SwxkT1K3yqcpm"
-    },
-    {
-      "added_at": "2023-06-13 08:58:04",
-      "album": {
-        "name": "Do You Want It?",
-        "url": "https://open.spotify.com/album/3r1POBHLDuWzGaIqxtpKL4"
-      },
-      "artists": [
-        {
-          "name": "Corella",
-          "url": "https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe"
-        }
-      ],
-      "duration_ms": 190914,
-      "name": "Do You Want It?",
-      "url": "https://open.spotify.com/track/14Z6bWa5MGCXoRm8JCBxCs"
     },
     {
       "added_at": "2023-06-13 08:58:04",
@@ -457,22 +457,6 @@
       "url": "https://open.spotify.com/track/39EFala3XXRculW4xXJyOg"
     },
     {
-      "added_at": "2023-06-13 08:58:04",
-      "album": {
-        "name": "Baggio",
-        "url": "https://open.spotify.com/album/039GsP3Uy8n0l7JlZcADEg"
-      },
-      "artists": [
-        {
-          "name": "Miles Kane",
-          "url": "https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn"
-        }
-      ],
-      "duration_ms": 221389,
-      "name": "Baggio",
-      "url": "https://open.spotify.com/track/56xBkDSJfpuWbQfRs9gVxw"
-    },
-    {
       "added_at": "2023-07-11 12:37:14",
       "album": {
         "name": "Yesterday Is Gone",
@@ -519,6 +503,22 @@
       "duration_ms": 160250,
       "name": "Cherish",
       "url": "https://open.spotify.com/track/2TfDppfA0KZ3rTQT0dgrTo"
+    },
+    {
+      "added_at": "2023-06-13 08:58:04",
+      "album": {
+        "name": "Baggio",
+        "url": "https://open.spotify.com/album/039GsP3Uy8n0l7JlZcADEg"
+      },
+      "artists": [
+        {
+          "name": "Miles Kane",
+          "url": "https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn"
+        }
+      ],
+      "duration_ms": 221389,
+      "name": "Baggio",
+      "url": "https://open.spotify.com/track/56xBkDSJfpuWbQfRs9gVxw"
     },
     {
       "added_at": "2023-06-13 08:58:04",
@@ -1017,22 +1017,6 @@
       "url": "https://open.spotify.com/track/76S510QtyiUVw0GS7S8AoJ"
     },
     {
-      "added_at": "2023-06-13 08:58:04",
-      "album": {
-        "name": "Jenny / Patsy Decline",
-        "url": "https://open.spotify.com/album/7iFb0X7ZlAVkeb917gi2CD"
-      },
-      "artists": [
-        {
-          "name": "RATS",
-          "url": "https://open.spotify.com/artist/0xS02ATWv2azbvKGV4Evc0"
-        }
-      ],
-      "duration_ms": 166698,
-      "name": "Patsy Decline",
-      "url": "https://open.spotify.com/track/5e0X1BgUtlx8930aZ2QWU0"
-    },
-    {
       "added_at": "2023-07-11 12:37:14",
       "album": {
         "name": "I'm Feeling It Now",
@@ -1051,6 +1035,22 @@
       "duration_ms": 183797,
       "name": "I'm Feeling it now",
       "url": "https://open.spotify.com/track/2cKCMoQu3dQ6y5QfT8rKRn"
+    },
+    {
+      "added_at": "2023-06-13 08:58:04",
+      "album": {
+        "name": "Jenny / Patsy Decline",
+        "url": "https://open.spotify.com/album/7iFb0X7ZlAVkeb917gi2CD"
+      },
+      "artists": [
+        {
+          "name": "RATS",
+          "url": "https://open.spotify.com/artist/0xS02ATWv2azbvKGV4Evc0"
+        }
+      ],
+      "duration_ms": 166698,
+      "name": "Patsy Decline",
+      "url": "https://open.spotify.com/track/5e0X1BgUtlx8930aZ2QWU0"
     },
     {
       "added_at": "2023-06-13 08:58:04",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-06-13 08:58:04",
       "album": {
-        "name": "SITUATIONS",
-        "url": "https://open.spotify.com/album/6gfhQtGei00j0uin1FSVm5"
-      },
-      "artists": [
-        {
-          "name": "Retro Video Club",
-          "url": "https://open.spotify.com/artist/3QLuhvmgX4ActVP2adB2l3"
-        }
-      ],
-      "duration_ms": 179618,
-      "name": "Boys Like Me",
-      "url": "https://open.spotify.com/track/75VuXKZxXIgoFxVuJSi8MS"
-    },
-    {
-      "added_at": "2023-06-13 08:58:04",
-      "album": {
         "name": "Fashion",
         "url": "https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 174379,
       "name": "Fashion",
       "url": "https://open.spotify.com/track/4SovnusZTVLsnd5SF9nVcZ"
+    },
+    {
+      "added_at": "2023-06-13 08:58:04",
+      "album": {
+        "name": "SITUATIONS",
+        "url": "https://open.spotify.com/album/6gfhQtGei00j0uin1FSVm5"
+      },
+      "artists": [
+        {
+          "name": "Retro Video Club",
+          "url": "https://open.spotify.com/artist/3QLuhvmgX4ActVP2adB2l3"
+        }
+      ],
+      "duration_ms": 179618,
+      "name": "Boys Like Me",
+      "url": "https://open.spotify.com/track/75VuXKZxXIgoFxVuJSi8MS"
     },
     {
       "added_at": "2023-06-13 08:58:04",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-06-13 08:58:04",
       "album": {
+        "name": "Wave",
+        "url": "https://open.spotify.com/album/4rE6Sesn2pz5kgehEYZe0V"
+      },
+      "artists": [
+        {
+          "name": "The Covasettes",
+          "url": "https://open.spotify.com/artist/5dDVWJvBFaoMJrOfI6xnOt"
+        }
+      ],
+      "duration_ms": 188744,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/1VsMlO01OCEbkw1GYXLcPu"
+    },
+    {
+      "added_at": "2023-06-13 08:58:04",
+      "album": {
         "name": "Slowly Break My Heart",
         "url": "https://open.spotify.com/album/6GPCijZTBrxaiEB2v7sVyF"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 194560,
       "name": "Slowly Break My Heart",
       "url": "https://open.spotify.com/track/7aTbJIgfkh5Hhq3C1309sD"
-    },
-    {
-      "added_at": "2023-06-13 08:58:04",
-      "album": {
-        "name": "Outside Of The Blue",
-        "url": "https://open.spotify.com/album/0FF4blsWcpcL8pnUYimqyf"
-      },
-      "artists": [
-        {
-          "name": "SPINN",
-          "url": "https://open.spotify.com/artist/3VRqGLyj4cnRers46I0Yk4"
-        }
-      ],
-      "duration_ms": 195240,
-      "name": "People Should Know Better",
-      "url": "https://open.spotify.com/track/4Bpbxr9vcHMeGli1o6kdfP"
     }
   ],
   "unique_name": "Proper Belters",

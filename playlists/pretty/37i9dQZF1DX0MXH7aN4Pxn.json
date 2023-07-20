@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzN2FmODAwOTZjY2IxMjRkMDlhNjU1ODQ5YzNkOTQxZWJkOGI3Yzgw",
+  "snapshot_id": "MCw3YjYyOWRhMjJlZjVjMjNlZmViOGZmMDdjMzEwMjM2ODhlZTlmMDY3",
   "tracks": [
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Bad",
-        "url": "https://open.spotify.com/album/7HwVfo5rkhtch7svEwFj00"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        },
-        {
-          "name": "Zak Abel",
-          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
-        }
-      ],
-      "duration_ms": 169910,
-      "name": "Bad",
-      "url": "https://open.spotify.com/track/1T4U8Q2DRfs6OUg8DEsRZf"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "God Is A Dancer (with Mabel)",
         "url": "https://open.spotify.com/album/2T0NPRcdhIt71ifDWm328R"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 168125,
       "name": "God Is A Dancer (with Mabel)",
       "url": "https://open.spotify.com/track/6fenHIxXuuzKB55wY4WCHP"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Bad",
+        "url": "https://open.spotify.com/album/7HwVfo5rkhtch7svEwFj00"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        },
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        }
+      ],
+      "duration_ms": 169910,
+      "name": "Bad",
+      "url": "https://open.spotify.com/track/1T4U8Q2DRfs6OUg8DEsRZf"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Love Me",
-        "url": "https://open.spotify.com/album/5zVpJaqg6fHGobl35lVYKz"
-      },
-      "artists": [
-        {
-          "name": "TeeDee",
-          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
-        }
-      ],
-      "duration_ms": 116554,
-      "name": "Love Me",
-      "url": "https://open.spotify.com/track/6t192M9A83w0sfFCCuW2ds"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Just Feels Tight",
         "url": "https://open.spotify.com/album/2Xz3H4wBkEFBNHqqxmw4nS"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 197977,
       "name": "Just Feels Tight",
       "url": "https://open.spotify.com/track/2cegJfpyiaWXclqj5HRsZG"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Love Me",
+        "url": "https://open.spotify.com/album/5zVpJaqg6fHGobl35lVYKz"
+      },
+      "artists": [
+        {
+          "name": "TeeDee",
+          "url": "https://open.spotify.com/artist/6ZzzrehTAdrM8y6saVjtoN"
+        }
+      ],
+      "duration_ms": 116554,
+      "name": "Love Me",
+      "url": "https://open.spotify.com/track/6t192M9A83w0sfFCCuW2ds"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1391,26 +1391,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "House Arrest",
-        "url": "https://open.spotify.com/album/5vZrYQsNJQgC2r7ioImfBx"
-      },
-      "artists": [
-        {
-          "name": "Sofi Tukker",
-          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
-        },
-        {
-          "name": "Gorgon City",
-          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
-        }
-      ],
-      "duration_ms": 216441,
-      "name": "House Arrest",
-      "url": "https://open.spotify.com/track/5QYKmxfPsl69GgeZKDAVSx"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Juliet & Romeo",
         "url": "https://open.spotify.com/album/4ndTH1x8j5zYaidYSO5MXh"
       },
@@ -1427,6 +1407,26 @@
       "duration_ms": 204514,
       "name": "Juliet & Romeo",
       "url": "https://open.spotify.com/track/1CRy08G60mS5jvhB27xMpS"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "House Arrest",
+        "url": "https://open.spotify.com/album/5vZrYQsNJQgC2r7ioImfBx"
+      },
+      "artists": [
+        {
+          "name": "Sofi Tukker",
+          "url": "https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q"
+        },
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        }
+      ],
+      "duration_ms": 216441,
+      "name": "House Arrest",
+      "url": "https://open.spotify.com/track/5QYKmxfPsl69GgeZKDAVSx"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1467,6 +1467,26 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
+        "name": "We Come 1",
+        "url": "https://open.spotify.com/album/6Tc47Ct756wIjmDPpRfrKW"
+      },
+      "artists": [
+        {
+          "name": "Ben Nicky",
+          "url": "https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA"
+        },
+        {
+          "name": "Distorted Dreams",
+          "url": "https://open.spotify.com/artist/5AbJRK8P9lWfeuVOl6HrgO"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "We Come 1",
+      "url": "https://open.spotify.com/track/0drzO94bmrMrel3GodCweJ"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
         "name": "For a Feeling (feat. RHODES)",
         "url": "https://open.spotify.com/album/0cBPK7AovyEBys5USO3MQ2"
       },
@@ -1487,26 +1507,6 @@
       "duration_ms": 296324,
       "name": "For a Feeling (feat. RHODES)",
       "url": "https://open.spotify.com/track/1wjQEAV31X26Za9KRAmqwz"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
-        "name": "We Come 1",
-        "url": "https://open.spotify.com/album/6Tc47Ct756wIjmDPpRfrKW"
-      },
-      "artists": [
-        {
-          "name": "Ben Nicky",
-          "url": "https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA"
-        },
-        {
-          "name": "Distorted Dreams",
-          "url": "https://open.spotify.com/artist/5AbJRK8P9lWfeuVOl6HrgO"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "We Come 1",
-      "url": "https://open.spotify.com/track/0drzO94bmrMrel3GodCweJ"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1587,6 +1587,26 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
+        "name": "Afraid",
+        "url": "https://open.spotify.com/album/0hxaNsjHneCKXSOijcqPVz"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "HARLEE",
+          "url": "https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy"
+        }
+      ],
+      "duration_ms": 142971,
+      "name": "Afraid (feat. HARLEE)",
+      "url": "https://open.spotify.com/track/4FUFk1uJuPtUJrDQ8ZSylK"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
         "name": "Everybody Dance",
         "url": "https://open.spotify.com/album/28V8NPwe6KoGs9t96i0WHD"
       },
@@ -1607,26 +1627,6 @@
       "duration_ms": 168289,
       "name": "Everybody Dance",
       "url": "https://open.spotify.com/track/5GiXra1IesFbyQxHsjWQ3M"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
-        "name": "Afraid",
-        "url": "https://open.spotify.com/album/0hxaNsjHneCKXSOijcqPVz"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "HARLEE",
-          "url": "https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy"
-        }
-      ],
-      "duration_ms": 142971,
-      "name": "Afraid (feat. HARLEE)",
-      "url": "https://open.spotify.com/track/4FUFk1uJuPtUJrDQ8ZSylK"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
+        "name": "tonight belongs to you",
+        "url": "https://open.spotify.com/album/5oEWotsYKfSnkN6Hp11yMS"
+      },
+      "artists": [
+        {
+          "name": "Bissett",
+          "url": "https://open.spotify.com/artist/4Mgx5TSeuT3wJwZYu6T7t7"
+        }
+      ],
+      "duration_ms": 147075,
+      "name": "tonight belongs to you",
+      "url": "https://open.spotify.com/track/2WG0gMuRku7LfFObheSXID"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
         "name": "Feel Again",
         "url": "https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 169108,
       "name": "Come Around Again",
       "url": "https://open.spotify.com/track/1PgWZgdROSbx0yRIRH078E"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
-        "name": "tonight belongs to you",
-        "url": "https://open.spotify.com/album/5oEWotsYKfSnkN6Hp11yMS"
-      },
-      "artists": [
-        {
-          "name": "Bissett",
-          "url": "https://open.spotify.com/artist/4Mgx5TSeuT3wJwZYu6T7t7"
-        }
-      ],
-      "duration_ms": 147075,
-      "name": "tonight belongs to you",
-      "url": "https://open.spotify.com/track/2WG0gMuRku7LfFObheSXID"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Call On Me",
-        "url": "https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 194880,
-      "name": "Call On Me",
-      "url": "https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "There For You",
         "url": "https://open.spotify.com/album/6NzQodogOTKSt76iDpZgpK"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 186493,
       "name": "There For You",
       "url": "https://open.spotify.com/track/4Qv71lFPCObf7zol1uWCJb"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Call On Me",
+        "url": "https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 194880,
+      "name": "Call On Me",
+      "url": "https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj"
     }
   ],
   "unique_name": "PARTY MODE",

@@ -1085,6 +1085,24 @@
     },
     {
       "album": {
+        "name": "Cara do Pai",
+        "url": "https://open.spotify.com/album/1kRPEJqYFVtHxXVWBkDZbR"
+      },
+      "artists": [
+        {
+          "name": "Argana\u00e7a",
+          "url": "https://open.spotify.com/artist/4i9YZ46se9VOp2eSLbCg4i"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189818,
+      "name": "Cara do Pai",
+      "url": "https://open.spotify.com/track/2CcZEYj1ef6k9JMunarSvT"
+    },
+    {
+      "album": {
         "name": "Carta",
         "url": "https://open.spotify.com/album/5ianhNvoxI4UlVnCT7Hyav"
       },
@@ -4652,7 +4670,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 213333,
       "name": "N\u00e3o Consigo",
       "url": "https://open.spotify.com/track/0RfXHQx7KHkH2zAqF5hB7l"

@@ -4,7 +4,7 @@
 
 > We're celebrating the 10th anniversary of <a href=https://splashhouse.com/>Splash House </a> with the announcement of their June line up!
 
-162 songs - 9 hr 57 min
+163 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,8 @@
 | [Back Then](https://open.spotify.com/track/2FiiP57BfhLGV8Hsej6Zkz) | [Maximo](https://open.spotify.com/artist/4cxLZekmoBwtIajEfv4avG), [SCHMIDT](https://open.spotify.com/artist/3BJ6pVuMNaBCxqZNrXgNwF), [Ben Yen](https://open.spotify.com/artist/2y3y5hX4Bw7iczaDEfHyId) | [Back Then](https://open.spotify.com/album/0yfY6LoKiil9cJXSsGekU4) | 3:10 | 2023-05-03 |  |
 | [Back To This \(feat\. SoShy\)](https://open.spotify.com/track/3NVCUMDnGDOPDM5jSHuVgt) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Soshy](https://open.spotify.com/artist/1LXdHdzVmQV1GJE0EUxjFp) | [Back To This \(feat\. SoShy\)](https://open.spotify.com/album/3BquZyD0gEAzZWJSYmLdm0) | 2:37 | 2023-05-03 |  |
 | [Bad Days](https://open.spotify.com/track/5doqdwpcmiAjHT423NS7qa) | [Monoky](https://open.spotify.com/artist/35fqprYtwqebSkrjHVXfxw), [Lee Wells](https://open.spotify.com/artist/0Q9UEU4EuF5eSWSMeIxCtX) | [Bad Days](https://open.spotify.com/album/7FlFMF1mmthW4aUhgpcIUi) | 6:15 | 2023-05-03 |  |
-| [Badman Sound](https://open.spotify.com/track/7FcxEutyfHTCKlN2MltRAh) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Badman Sound](https://open.spotify.com/album/7lkg1Kbn6G00QskjBlEVsR) | 2:56 | 2023-05-03 |  |
+| [Badman Sound](https://open.spotify.com/track/2MAABKnxekkSL5hnVZ8RY1) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Badman Sound](https://open.spotify.com/album/0sNvCkLgSii5M4lIpVlv6Y) | 2:56 | 2023-05-03 |  |
+| [Badman Sound](https://open.spotify.com/track/7FcxEutyfHTCKlN2MltRAh) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Badman Sound](https://open.spotify.com/album/7lkg1Kbn6G00QskjBlEVsR) | 2:56 | 2023-05-03 | 2023-07-20 |
 | [Be Nice 2 Me](https://open.spotify.com/track/7qqDKokSG1AdTT0co9TUhO) | [0505blade](https://open.spotify.com/artist/0Kz2acmNyU0C5qSucA0Ist) | [Be Nice 2 Me](https://open.spotify.com/album/7Anx02Gh6cudTssi1UVeD8) | 2:07 | 2022-10-21 | 2022-11-25 |
 | [Be Nice 2 Me](https://open.spotify.com/track/2TmqHjg7uhizGndzXQdFuf) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Icedancer](https://open.spotify.com/album/0cT1SQDE7wSh1eUJkGFXse) | 2:07 | 2022-10-18 | 2023-05-04 |
 | [Behold](https://open.spotify.com/track/6EGELxGGOmmYJ6kOJfdX9V) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Cry Sugar](https://open.spotify.com/album/5YoNp5U9MsUvXsTWhVhEFU) | 2:20 | 2022-10-18 | 2023-02-02 |

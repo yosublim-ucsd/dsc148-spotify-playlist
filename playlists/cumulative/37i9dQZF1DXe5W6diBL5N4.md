@@ -4,7 +4,7 @@
 
 > Enjoy the freshest K\-Pop new releases \(Cover: JAY\(김진환\)\)
 
-5,932 songs - 14 day 6 hr 27 min
+5,933 songs - 14 day 6 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3726,7 +3726,8 @@
 | [paper boat](https://open.spotify.com/track/2EHXqLKcjzkYCKAiDyP2bk) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [paper boat](https://open.spotify.com/album/39jkwBVutZlFtwgIQkj1UB) | 2:56 | 2022-04-28 | 2022-05-03 |
 | [PARADE \(Feat\. YOSEOP of Highlight\)](https://open.spotify.com/track/0L2gCHCtFZMGkfBb3bxKXB) | [Hy\-Five](https://open.spotify.com/artist/6M08tszLWmeZF3SnE2JU4h), [Yang Yoseob](https://open.spotify.com/artist/1fwMtpwCEJovQuyxSuHcAd) | [STILL GOING ON](https://open.spotify.com/album/3vb3poafSq1zUIE73QhU1r) | 3:10 | 2022-07-27 | 2022-08-10 |
 | [PARADISE](https://open.spotify.com/track/0cfBghUj5kK73HGA9Zewr2) | [Blow OF](https://open.spotify.com/artist/3lqgrAqJrAKQ3YckqLDQxV), [Yoontaehee](https://open.spotify.com/artist/1j4ZAG53Xht8NTOw3jicw2) | [PARADISE](https://open.spotify.com/album/2ZOynrLRRe9aGg3snTmJ3A) | 2:44 | 2022-05-02 | 2022-05-10 |
-| [PARADISE](https://open.spotify.com/track/6I21rbY1midYeZQJYGkKwo) | [JAY](https://open.spotify.com/artist/0cfDzbuRREWQNBbINvCckB) | [PARADISE](https://open.spotify.com/album/6FxUemBUj46Sxug7cDBJ6n) | 2:48 | 2023-06-21 |  |
+| [PARADISE](https://open.spotify.com/track/6I21rbY1midYeZQJYGkKwo) | [JAY](https://open.spotify.com/artist/0cfDzbuRREWQNBbINvCckB) | [PARADISE](https://open.spotify.com/album/6FxUemBUj46Sxug7cDBJ6n) | 2:48 | 2023-06-21 | 2023-07-20 |
+| [PARADISE](https://open.spotify.com/track/6fLsDr2i0qYZMAslttjFn8) | [JAY](https://open.spotify.com/artist/0cfDzbuRREWQNBbINvCckB) | [BLUE MOON](https://open.spotify.com/album/3dJWDvZt09Ri4ikTtjWzlh) | 2:48 | 2023-07-18 |  |
 | [Paradise](https://open.spotify.com/track/4dY8EDpzU1RavTcPBzZMiL) | [Yunsae](https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt) | [Paradise](https://open.spotify.com/album/08jlxAcP0OVDtYKscnWtUo) | 2:30 | 2022-08-01 | 2022-08-12 |
 | [PARKOUR](https://open.spotify.com/track/6yk6Un2eON2V9cXdOgVAN1) | [Khakii](https://open.spotify.com/artist/08c5z2rVpcPu7QylOxQCFA) | [PARKOUR](https://open.spotify.com/album/1vDdlqea7Y63QIiQSPzYOU) | 2:35 | 2023-02-16 | 2023-02-28 |
 | [Parrot](https://open.spotify.com/track/63RS97i4vGWc0Cp4APrQmC) | [DSEL](https://open.spotify.com/artist/57yCT0l4y1QPz1bzF2mQXx) | [2kzm.zip](https://open.spotify.com/album/4BSdhsbJeBvTRjAh9LSrrV) | 3:42 | 2022-05-04 | 2022-05-12 |
@@ -4212,7 +4213,7 @@
 | [SET ME FREE \(Lindgren Remix\) \(ENG\)](https://open.spotify.com/track/7K5LvTMS85SKWK6bYtHhAP) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Lindgren](https://open.spotify.com/artist/0vk7Ds4u6waswHkzrfACVg) | [SET ME FREE \(Remixes\)](https://open.spotify.com/album/6lEtnxGk1CMv0ZbhI6i0eD) | 3:31 | 2023-03-17 | 2023-04-02 |
 | [Set Me Free Pt.2](https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Set Me Free Pt.2](https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz) | 3:20 | 2023-03-17 | 2023-05-03 |
 | [SET THE BOMB](https://open.spotify.com/track/6gZwouBz7QcmyZOYkzO8b3) | [MC Meta](https://open.spotify.com/artist/6T2qBFOIht3LlcY16mdWHu), [ToX](https://open.spotify.com/artist/0anMFrnQd5mq7GxvyBy574), [RUFUS](https://open.spotify.com/artist/0xGAcU36wNvUsirecNYFyP), [SQUREL](https://open.spotify.com/artist/21nw4cCJRQKtoxBPCsVmaM), [promise](https://open.spotify.com/artist/5xCV0Nnn1DEHSn6qaZRT1e) | [ætas vol.1.5](https://open.spotify.com/album/2H47kg3E1O3fVRQHoEPju6) | 3:13 | 2022-07-04 | 2022-07-10 |
-| [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 | 2023-07-14 |  |
+| [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 | 2023-07-14 |  |
 | [SEVEN SINS](https://open.spotify.com/track/2byWFY0u4pFZSVbQbbFBA5) | [DRIPPIN](https://open.spotify.com/artist/5IVacR5tKgTu9HotcG8kkl) | [SEVEN SINS](https://open.spotify.com/album/4BUFd5miv3H0CmeQcKdHvg) | 3:35 | 2023-04-19 | 2023-05-03 |
 | [Seven, \(Prologue\) \- 위로](https://open.spotify.com/track/1ewzpN8UdeWkvxi8XBsJVG) | [Lim Jae Bum](https://open.spotify.com/artist/7cYFopPCh8aSpBHANLgLaV) | [Seven, \(Prologue\) \- 위로](https://open.spotify.com/album/7oWC3ZxT8Tb95JQJwNarxV) | 4:48 | 2022-06-16 | 2022-06-24 |
 | [Sex on The Beach](https://open.spotify.com/track/52ILwkaShafznwUn5fM7ne) | [YUMDDA](https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR) | [Sex on The Beach](https://open.spotify.com/album/68XrDqcH9A2YthveKZit3x) | 3:05 | 2023-01-24 | 2023-02-01 |

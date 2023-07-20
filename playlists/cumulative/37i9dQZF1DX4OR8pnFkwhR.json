@@ -3671,6 +3671,24 @@
     },
     {
       "album": {
+        "name": "Hashirimizu",
+        "url": "https://open.spotify.com/album/1vlaBwdpatZ4HsUBVH3vJe"
+      },
+      "artists": [
+        {
+          "name": "Yamafutatsu",
+          "url": "https://open.spotify.com/artist/75mN0rbQkBImvS8yohWlnP"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 386016,
+      "name": "Hashirimizu",
+      "url": "https://open.spotify.com/track/5fkYMB9PzML9A8QvoPfJB2"
+    },
+    {
+      "album": {
         "name": "TOMOSHIBI",
         "url": "https://open.spotify.com/album/1joJdTZveBD244bGKj994d"
       },
@@ -4504,10 +4522,28 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 177999,
       "name": "Jurassic",
       "url": "https://open.spotify.com/track/0okYcNqMBFmSwf2xeECPpd"
+    },
+    {
+      "album": {
+        "name": "Jurassic",
+        "url": "https://open.spotify.com/album/6dgCSpkDbi4Y4WJpC24nZ8"
+      },
+      "artists": [
+        {
+          "name": "NIKO NIKO TAN TAN",
+          "url": "https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177999,
+      "name": "Jurassic",
+      "url": "https://open.spotify.com/track/7HcpoYSDvOks6YAE2A3JQn"
     },
     {
       "album": {
@@ -4580,6 +4616,24 @@
       "duration_ms": 457786,
       "name": "kaeruganaita",
       "url": "https://open.spotify.com/track/5bnapoAO0zeRr3PImFCywz"
+    },
+    {
+      "album": {
+        "name": "kaibutsu",
+        "url": "https://open.spotify.com/album/4SwTst06JhUkdd8KtOO6Rj"
+      },
+      "artists": [
+        {
+          "name": "\u30d5\u30b8\u30bf \u30ab\u30b3",
+          "url": "https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "kaibutsu",
+      "url": "https://open.spotify.com/track/0zBaLbvJbcZjErOL8OqdX8"
     },
     {
       "album": {
@@ -4746,6 +4800,28 @@
       "duration_ms": 179066,
       "name": "KILLER,Muddy Greed",
       "url": "https://open.spotify.com/track/24YwAMhwJ6kqakYmQPs9aU"
+    },
+    {
+      "album": {
+        "name": "Supply/Demand",
+        "url": "https://open.spotify.com/album/66GKqO8pdJu5J32LyIqZ2v"
+      },
+      "artists": [
+        {
+          "name": "MONONOKE",
+          "url": "https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x"
+        },
+        {
+          "name": "razu",
+          "url": "https://open.spotify.com/artist/6JNpg1OGnCJygBo7UMwtWq"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333760,
+      "name": "Kimi to Rendezvous (feat. razu)",
+      "url": "https://open.spotify.com/track/1dBY8Q0MbYFT8b5Bw9ZLMd"
     },
     {
       "album": {
@@ -6438,6 +6514,24 @@
       "duration_ms": 182666,
       "name": "Omocha Teikoku",
       "url": "https://open.spotify.com/track/3WpKIipnEpE5hSDbjqTnne"
+    },
+    {
+      "album": {
+        "name": "One Summer's Day",
+        "url": "https://open.spotify.com/album/1wuimhObm670hxGPsDSQyb"
+      },
+      "artists": [
+        {
+          "name": "noa",
+          "url": "https://open.spotify.com/artist/7nhWQxOMcfIv29SBPZEcgp"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228433,
+      "name": "One Summer's Day",
+      "url": "https://open.spotify.com/track/0IUFZInFlcfSbVGM97LWLT"
     },
     {
       "album": {
@@ -11504,7 +11598,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 228433,
       "name": "\u3068\u3042\u308b\u590f",
       "url": "https://open.spotify.com/track/1pzjwiYpC7J5QMWl3zWalT"
@@ -14370,7 +14464,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 333760,
       "name": "\u541b\u3068\u30e9\u30f3\u30c7\u30f4\u30fc (feat. \u3089\u305a)",
       "url": "https://open.spotify.com/track/1nHME5u0ZHBrG8qgmipWVS"
@@ -15188,7 +15282,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 155076,
       "name": "\u602a\u7269",
       "url": "https://open.spotify.com/track/19uTrF6VZNaUUYsFIAE8nJ"
@@ -17412,7 +17506,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 386016,
       "name": "\u8d70\u6c34",
       "url": "https://open.spotify.com/track/0uw8Dmb7ilp6U1TNabgtX3"

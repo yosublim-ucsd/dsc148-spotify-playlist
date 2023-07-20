@@ -4,7 +4,7 @@
 
 > Cruise through Japanese “Neo” City Pop from the ’00s./ 渋谷系の系譜から、ボーダーレスに多様化に向かっていった’00年代。ネオ・シティポップ新時代の波はすぐそこに。
 
-68 songs - 5 hr 40 min
+69 songs - 5 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [beautiful life](https://open.spotify.com/track/3mwNJ7lUDPIKQgGGxYF7T6) | [Miki Imai](https://open.spotify.com/artist/64Y8hjY7esLUC8ucjtHYwZ) | [corridor](https://open.spotify.com/album/4ablWmXxoeKubRVlctBPUV) | 5:34 | 2021-08-01 |  |
 | [Doyou no yoru ni](https://open.spotify.com/track/74M5rVQTod4U1hIXBpbZ4C) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [LOVE CITY](https://open.spotify.com/album/7v4AQJ7pGrqqLGrC1XGnbn) | 7:43 | 2021-08-01 |  |
 | [Full Circle](https://open.spotify.com/track/5DBmGbbZM6u6q86yZT5sd7) | [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [A BIRD](https://open.spotify.com/album/4SskAJSmh7UojYEYllCz1d) | 5:15 | 2021-08-01 |  |
+| [Fuyu Kitari Naba](https://open.spotify.com/track/7z63xGTLW0OYW9aVgre6a0) | [Takaki Horigome](https://open.spotify.com/artist/7i3cIU0Izid4SRBfpe7YAh) | [CITY MUSIC TOKYO multiple](https://open.spotify.com/album/67wYPpAjZ6vlEGR9QMiiDw) | 5:59 | 2021-08-01 |  |
 | [God bless you!](https://open.spotify.com/track/4ByQJljgktiflk70HvM5Ue) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [Shipbuilding](https://open.spotify.com/album/3AaZ0g8PEvAbziKyvhsPai) | 4:49 | 2021-08-01 |  |
 | [KINDLY FEAT.MARI MIZUNO FROM PARIS MATCH、ANOTHER SIDE](https://open.spotify.com/track/6CIcrKGxk70WuhSqxTx0y5) | [FreeTEMPO](https://open.spotify.com/artist/31XOXmRJOp83N2kyVNRDy4), [Mari Mizuno from paris match](https://open.spotify.com/artist/54Yomu8IZ9KQkune9c76LK), [Another Side](https://open.spotify.com/artist/2oO4DrJjObGQHGnQWvm3oi) | [FreeTEMPO BEST ALBUM “TENSE”](https://open.spotify.com/album/0dC0jQ68Mx4knpZNMZrA7Z) | 5:58 | 2021-08-01 | 2022-09-24 |
 | [KINDLY FEAT.MARI MIZUNO FROM PARIS MATCH、ANOTHER SIDE](https://open.spotify.com/track/7KiOfl4nKAlq4wUtfBiLNc) | [FreeTEMPO](https://open.spotify.com/artist/31XOXmRJOp83N2kyVNRDy4), [Mari Mizuno from paris match](https://open.spotify.com/artist/54Yomu8IZ9KQkune9c76LK), [Another Side](https://open.spotify.com/artist/2oO4DrJjObGQHGnQWvm3oi) | [SOUNDS](https://open.spotify.com/album/3G4xM7Pt2SpeDc7HJM6wVJ) | 5:59 | 2021-08-01 |  |
@@ -48,7 +49,7 @@
 | [今夜も君にテレフォンコール](https://open.spotify.com/track/6Kock1KhJinf3qJ1pzSn7M) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [木洩陽通りにて](https://open.spotify.com/album/5E74hczbln3vnszAQ1wf2E) | 4:59 | 2021-08-01 |  |
 | [何もいらない](https://open.spotify.com/track/6Qbn6uxUcX31sNZvem4TGu) | [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM), [Hiyajo Atsuko](https://open.spotify.com/artist/4RM51G7sDVxP0jo5uGODKf) | [ナチュラル・ウーマン](https://open.spotify.com/album/6lCpLIlpthX9bCvYHbMxLj) | 3:17 | 2021-08-01 |  |
 | [何もいらない](https://open.spotify.com/track/5AUzZQtaC3M49no31nBvEO) | [流線形 & 比屋定篤子](https://open.spotify.com/artist/0x90ov8mPk5pLKOdYbOGrJ) | [ナチュラル・ウーマン](https://open.spotify.com/album/0ldetMVuLOhcTFaV7egM1f) | 3:17 | 2021-08-01 | 2022-07-29 |
-| [冬来たりなば](https://open.spotify.com/track/1AbAUvjrSfpdEfwJMQlG0e) | [Takaki Horigome](https://open.spotify.com/artist/7i3cIU0Izid4SRBfpe7YAh) | [Home Ground](https://open.spotify.com/album/0HXIBUt2IXmP5ahJv1btmH) | 6:01 | 2021-08-01 |  |
+| [冬来たりなば](https://open.spotify.com/track/1AbAUvjrSfpdEfwJMQlG0e) | [Takaki Horigome](https://open.spotify.com/artist/7i3cIU0Izid4SRBfpe7YAh) | [Home Ground](https://open.spotify.com/album/0HXIBUt2IXmP5ahJv1btmH) | 6:01 | 2021-08-01 | 2023-07-20 |
 | [土曜の夜に](https://open.spotify.com/track/5xXAxsrPDuDBdrZ5Fg9P1o) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [LOVE CITY](https://open.spotify.com/album/4dIKfsHcrQs20nVi2IRjHF) | 7:43 | 2021-08-01 | 2022-07-29 |
 | [土曜日の恋人](https://open.spotify.com/track/6QPxwu1ANmwojiIkMhw12L) | [NONA REEVES](https://open.spotify.com/artist/2C6HFF5xLM3rUfCEuZ3q2I) | [ENJOYEE! \(YOUR LIFETIME\)](https://open.spotify.com/album/3IUuDVlRHTRask5D6qM9Tf) | 3:22 | 2021-08-01 |  |
 | [夏の魔法](https://open.spotify.com/track/4TSuIRGTLoHeCz1Njv6dpB) | [KUCHIRORO](https://open.spotify.com/artist/13ABeGOEjgDMOp8rAAg1lA) | [TONIGHT](https://open.spotify.com/album/1mYzruTSwymSdYfe5ChiBp) | 4:46 | 2021-08-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG?si=mLn5w4yJTKSWv\-tW5T4p4w">Riley Clemmons</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,511 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,668 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 99 | [Making More](https://open.spotify.com/track/5X5FulFbzGLspiz1l4CPNh) | [2'Live Bre](https://open.spotify.com/artist/5dmGhAaINwsrzTyzQbDg0F) | [Making More](https://open.spotify.com/album/2UEM8q7L2UtmI2SeXzgYYu) | 2:05 |
 | 100 | [My Worship](https://open.spotify.com/track/6YJdaaNqDeks5Q0zYuTAw7) | [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [My Worship](https://open.spotify.com/album/1QzUNxdSUQ1cWY0Q7wzP3v) | 3:21 |
 
-Snapshot ID: `MCw5ODA0YjUxNGFiOWEwNzhjNjVlODYxMmM0NTdkOTM5OGY4NWYwYTBi`
+Snapshot ID: `MCw1Nzc5ODA4ODgwM2EyOGEwMGYwMDI1NzQ5MGRiMGVkYmY3MjVjZjU0`

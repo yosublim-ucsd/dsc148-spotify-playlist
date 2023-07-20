@@ -392,7 +392,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-19",
+      "date_removed": null,
       "duration_ms": 121306,
       "name": "Anxious",
       "url": "https://open.spotify.com/track/7E88f39Uum7WujbktVHUxM"
@@ -538,7 +538,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-08",
+      "date_removed": null,
       "duration_ms": 123480,
       "name": "Ayo (Jersey Club) [feat. DJ Bake]",
       "url": "https://open.spotify.com/track/6WkxSalI20tm60iy0M5zii"
@@ -578,7 +578,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 160016,
       "name": "Back It Up",
       "url": "https://open.spotify.com/track/4WrPZ198RawgV8uMVwkYWU"
@@ -924,7 +924,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 145185,
       "name": "bla bla bla",
       "url": "https://open.spotify.com/track/0rD2KNGhWAOrbmzHKSF4ey"
@@ -1132,7 +1132,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-06",
+      "date_removed": null,
       "duration_ms": 126955,
       "name": "Can You Bounce? - Remix",
       "url": "https://open.spotify.com/track/0NEFhpfDe0ObM1mg1J7paV"
@@ -1668,7 +1668,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-31",
+      "date_removed": null,
       "duration_ms": 123271,
       "name": "Dream (Jersey Club)",
       "url": "https://open.spotify.com/track/22XIrFI5WOVWPUv9kcz8zM"
@@ -1746,6 +1746,24 @@
       "duration_ms": 144003,
       "name": "Ella Quiere Pichi - Remix",
       "url": "https://open.spotify.com/track/2YKISUB15yPsgnrY9Vuaf9"
+    },
+    {
+      "album": {
+        "name": "Estoy",
+        "url": "https://open.spotify.com/album/1MhSVZU2jWIhCIyXwooKcB"
+      },
+      "artists": [
+        {
+          "name": "Destiny Marko",
+          "url": "https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159403,
+      "name": "Estoy",
+      "url": "https://open.spotify.com/track/403fJddYl1ib4ZhDzZ7cHR"
     },
     {
       "album": {
@@ -3036,7 +3054,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 229629,
       "name": "Level Up - Remix",
       "url": "https://open.spotify.com/track/3RzVr9cwWJUcSuPKE6Zo8N"
@@ -3718,7 +3736,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 164000,
       "name": "Need Your Body",
       "url": "https://open.spotify.com/track/4Z7YhHGk0gmipGgTc9PASI"
@@ -3776,7 +3794,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-16",
+      "date_removed": null,
       "duration_ms": 98208,
       "name": "Nobody's Perfect - Original Mix",
       "url": "https://open.spotify.com/track/5ZFheNvDDESgtsGCmiJt7A"
@@ -3926,7 +3944,7 @@
       ],
       "date_added": "2022-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 156800,
       "name": "PIANO (feat. Lay Bankz)",
       "url": "https://open.spotify.com/track/7ERd87EHVWn9585J4qXxPS"
@@ -4560,7 +4578,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 152727,
       "name": "Saint Laurent",
       "url": "https://open.spotify.com/track/2AHnUkgAkoOFnkvwRIezrK"
@@ -5509,6 +5527,28 @@
     },
     {
       "album": {
+        "name": "WOAH",
+        "url": "https://open.spotify.com/album/2KIwLYx6itepTddDMWhkoW"
+      },
+      "artists": [
+        {
+          "name": "KYLE",
+          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
+        },
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168727,
+      "name": "WOAH",
+      "url": "https://open.spotify.com/track/5tF9WEhxbT2hDzD1TN5yPo"
+    },
+    {
+      "album": {
         "name": "World Cup",
         "url": "https://open.spotify.com/album/3xmjwO8cc8XQ4hnFTgCVoE"
       },
@@ -5520,7 +5560,7 @@
       ],
       "date_added": "2022-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 256704,
       "name": "World Cup",
       "url": "https://open.spotify.com/track/22TFAU0e7WHAQFGzwneu1e"

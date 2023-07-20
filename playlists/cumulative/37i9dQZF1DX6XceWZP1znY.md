@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-775 songs - 2 day 3 hr 6 min
+776 songs - 2 day 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [HOLLOW HUNGER](https://open.spotify.com/track/77tBI3JCCnvJYLAH6j6Gy1) | [caleb982](https://open.spotify.com/artist/0hjUXdnmj0C9gVbmTvtsnm) | [HOLLOW HUNGER](https://open.spotify.com/album/450SRXXak0hHsMtwazOi0q) | 3:43 | 2023-05-01 | 2023-05-15 |
 | [HOLLOW HUNGER](https://open.spotify.com/track/355nQhlJ37CswXP54GZAz9) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [OPEING THEME FROM TV SERIES ”OVERLORD IV”](https://open.spotify.com/album/1iR5yhnaLHIIUEbXq5Zcxh) | 3:43 | 2022-08-11 | 2023-07-03 |
 | [HOLLOW HUNGER](https://open.spotify.com/track/4OJVRrXhEdvtUCL3jtpdla) | [Wxchi](https://open.spotify.com/artist/0QfAfi0YfXU5M6aWRAJcYy) | [HOLLOW HUNGER](https://open.spotify.com/album/0cCWAbgxj9xluHmdCx2lv7) | 3:43 | 2022-10-04 | 2022-10-08 |
-| [HOME](https://open.spotify.com/track/4FSejBjuCSqv0NsJskPShe) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [HOME](https://open.spotify.com/album/5fxto0FPkSBuYETRE5wT2d) | 4:51 | 2022-06-07 |  |
+| [HOME](https://open.spotify.com/track/4FSejBjuCSqv0NsJskPShe) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [HOME](https://open.spotify.com/album/5fxto0FPkSBuYETRE5wT2d) | 4:51 | 2022-06-07 | 2023-07-20 |
 | [HORIZON](https://open.spotify.com/track/0jNd21lxSmPCjSmtTyoNiG) | [TEAM SHACHI](https://open.spotify.com/artist/6PWtv6Ry0vlA2WkbFcQfro) | [HORIZON](https://open.spotify.com/album/27KWr8ETlrdCAR9doDdhSX) | 4:17 | 2022-06-07 | 2022-07-25 |
 | [Howling](https://open.spotify.com/track/2twCEq28Qw7FcsznfX4HNv) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [Howling](https://open.spotify.com/album/2XJrLMBNy1Ln56nHrW1Uic) | 4:09 | 2022-06-07 | 2022-07-29 |
 | [HUMAN](https://open.spotify.com/track/3ElWd9b7Cy4UvX7NqA25h7) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [HUMAN](https://open.spotify.com/album/0n5KYys0tXqkV1v83KZ5lJ) | 5:22 | 2023-03-11 | 2023-05-09 |
@@ -248,6 +248,7 @@
 | [ninelie](https://open.spotify.com/track/164YLgHJYhqOEYUcAc93Xz) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [Chelly](https://open.spotify.com/artist/7IYp1PwnGxaoNmljusPO8Z) | [daydream](https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw) | 4:21 | 2022-06-07 | 2022-12-24 |
 | [ninelie](https://open.spotify.com/track/6kQ9Os7x5LJ2jLHb8VWKaa) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [Chelly](https://open.spotify.com/artist/7IYp1PwnGxaoNmljusPO8Z) | [Daydream](https://open.spotify.com/album/0rzOTrywE0mNybhErlmD5e) | 4:21 | 2022-06-07 | 2022-06-28 |
 | [No Continue](https://open.spotify.com/track/5UKABRz7YlRofkc5KsOx2A) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [No Continue](https://open.spotify.com/album/3o0M6nYy5OvhUmtk6m7Gmn) | 4:05 | 2022-06-07 | 2022-07-26 |
+| [No Frontier](https://open.spotify.com/track/2zvNBZs38WZuQ1SgKdeKFk) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [No Frontier](https://open.spotify.com/album/5zYmpnx6MQc9OuV5qGcb8u) | 3:06 | 2023-07-07 |  |
 | [NO MAN'S DAWN](https://open.spotify.com/track/3w7j5vtYOyNoB2hewUgn0G) | [前島麻由](https://open.spotify.com/artist/0M0v61x8lN3rDLbmTnlYBg) | [ENDING THEME FROM TV SERIES ”OVERLORD IV”](https://open.spotify.com/album/6fiyEepRkKNW1rRZLVgt0P) | 3:53 | 2022-08-11 | 2023-05-15 |
 | [No Time to Cast Anchor](https://open.spotify.com/track/1fNDKKuErDdqMka5NhwkeF) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [No Time to Cast Anchor](https://open.spotify.com/album/6zeWOVv8Kt4iI5wqCR4eYt) | 3:12 | 2022-06-07 | 2022-11-13 |
 | [No.1](https://open.spotify.com/track/3GIhgMadHu26VHLEeXviGD) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [No.1 \-Special Edition\-](https://open.spotify.com/album/4FHIrNlHnVl4VDLnkiYfno) | 3:52 | 2022-06-07 |  |

@@ -750,7 +750,7 @@
     {
       "album": {
         "name": "The Purpose",
-        "url": "https://open.spotify.com/album/1bEa3iJLg3vYkn7EFFfn16"
+        "url": "https://open.spotify.com/album/1LkpGdl7984FchhlXBatS3"
       },
       "artists": [
         {
@@ -761,6 +761,24 @@
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 181754,
+      "name": "Big Stepper",
+      "url": "https://open.spotify.com/track/4CGCVuLvSxd1bIC09RMn2F"
+    },
+    {
+      "album": {
+        "name": "The Purpose",
+        "url": "https://open.spotify.com/album/1bEa3iJLg3vYkn7EFFfn16"
+      },
+      "artists": [
+        {
+          "name": "A Mose",
+          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-20",
       "duration_ms": 181754,
       "name": "Big Stepper",
       "url": "https://open.spotify.com/track/72JSWm64YEqWlCfAeFB6Xd"
@@ -2520,7 +2538,7 @@
     {
       "album": {
         "name": "The Purpose",
-        "url": "https://open.spotify.com/album/1bEa3iJLg3vYkn7EFFfn16"
+        "url": "https://open.spotify.com/album/1LkpGdl7984FchhlXBatS3"
       },
       "artists": [
         {
@@ -2535,6 +2553,28 @@
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 170291,
+      "name": "Groanings",
+      "url": "https://open.spotify.com/track/4BJEIAcglJHGTBsIcE2upX"
+    },
+    {
+      "album": {
+        "name": "The Purpose",
+        "url": "https://open.spotify.com/album/1bEa3iJLg3vYkn7EFFfn16"
+      },
+      "artists": [
+        {
+          "name": "A Mose",
+          "url": "https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X"
+        },
+        {
+          "name": "Greatman Takit",
+          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-20",
       "duration_ms": 170483,
       "name": "Groanings",
       "url": "https://open.spotify.com/track/39tTh4ptwHpq12peX61tYY"
@@ -5412,10 +5452,6 @@
         {
           "name": "K3ndrick",
           "url": "https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5"
-        },
-        {
-          "name": "LAMB CULTURE.",
-          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
         }
       ],
       "date_added": "2023-07-14",

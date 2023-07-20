@@ -1,33 +1,13 @@
 {
   "description": "All the New Joints featuring Quavo, King Von, and more. Cover: Lil Tjay",
-  "num_followers": 223471,
+  "num_followers": 223512,
   "original_name": "New Joints",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNmQwOWZiOTM5Njc2MWI0MjFmMmNjOGI1MTUzZDI0NGRjZDQ5NzEy",
+  "snapshot_id": "MCwyMjIyZTFhNTM5ZTc3OWIwNGE5ZDMwMDNlZjE3NjA5NWY1NmI3YWNk",
   "tracks": [
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "222",
-        "url": "https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL"
-      },
-      "artists": [
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        },
-        {
-          "name": "Fivio Foreign",
-          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
-        }
-      ],
-      "duration_ms": 146966,
-      "name": "Bla Bla (feat. Fivio Foreign)",
-      "url": "https://open.spotify.com/track/1xHcIJHIHwr2PUyTmFTWTy"
-    },
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
@@ -47,6 +27,26 @@
       "duration_ms": 230835,
       "name": "Turn Yo Clic Up (feat. Future)",
       "url": "https://open.spotify.com/track/7LTCmtMpf3JPfBE8gAl64z"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "222",
+        "url": "https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        },
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "duration_ms": 146966,
+      "name": "Bla Bla (feat. Fivio Foreign)",
+      "url": "https://open.spotify.com/track/1xHcIJHIHwr2PUyTmFTWTy"
     },
     {
       "added_at": "2023-07-14 04:00:00",

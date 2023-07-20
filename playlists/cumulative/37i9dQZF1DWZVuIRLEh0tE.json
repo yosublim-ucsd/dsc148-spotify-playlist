@@ -1146,7 +1146,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 248869,
       "name": "Doggy Doggy",
       "url": "https://open.spotify.com/track/54IHyBqqUjslbwtkSGVo4Z"
@@ -1172,6 +1172,28 @@
       "duration_ms": 248869,
       "name": "Doggy Doggy",
       "url": "https://open.spotify.com/track/5WOzZJJJIEuh0thdCS0LkF"
+    },
+    {
+      "album": {
+        "name": "Doggy Doggy",
+        "url": "https://open.spotify.com/album/39sExcZ7IdTppqyviPg2s8"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Braulio Fogon",
+          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248869,
+      "name": "Doggy Doggy",
+      "url": "https://open.spotify.com/track/5kDydFz5HSjsjAZFbj31Sp"
     },
     {
       "album": {
@@ -1858,6 +1880,24 @@
     {
       "album": {
         "name": "Helicoptero",
+        "url": "https://open.spotify.com/album/3XmNrq8rYZX54P2WGd1pQ7"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137014,
+      "name": "Helicoptero",
+      "url": "https://open.spotify.com/track/2Gt9PTqiQdE4ZGbsBwssqJ"
+    },
+    {
+      "album": {
+        "name": "Helicoptero",
         "url": "https://open.spotify.com/album/6OOgmb8FF0GxEH0FzttnLD"
       },
       "artists": [
@@ -1886,7 +1926,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 137014,
       "name": "Helicoptero",
       "url": "https://open.spotify.com/track/7dg8xRGRg5Az68XFDWaTqy"
@@ -2386,6 +2426,32 @@
     {
       "album": {
         "name": "LOS POBRES Y LOS RICOS",
+        "url": "https://open.spotify.com/album/0og8Wv6WAlWUUJT4Ub9IIe"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199304,
+      "name": "LOS POBRES Y LOS RICOS",
+      "url": "https://open.spotify.com/track/4RZnfeTGkJT251Ib4ikAjz"
+    },
+    {
+      "album": {
+        "name": "LOS POBRES Y LOS RICOS",
         "url": "https://open.spotify.com/album/6LDa3nMGDUFrNxGpXI21nV"
       },
       "artists": [
@@ -2430,7 +2496,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 199304,
       "name": "LOS POBRES Y LOS RICOS",
       "url": "https://open.spotify.com/track/7yR9JlVYTOvYPjycQpl4PW"

@@ -1,13 +1,73 @@
 {
   "description": "Listen to women at full volume. Cover: Olivia Dean",
-  "num_followers": 17243,
+  "num_followers": 17247,
   "original_name": "EQUAL UK & Ireland ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDQyY2Y3NzZkYTU0NDJlYWI2MjUwMzhkMTg1ZTk0MTUwYWU0YmFl",
+  "snapshot_id": "MCxkZmQ4M2QxZmM2ZGNhZWEyODJiMWJlYjUzMjU4OGM2MTU2NTcwMjBj",
   "tracks": [
+    {
+      "added_at": "2023-07-19 10:51:10",
+      "album": {
+        "name": "Call Me A Lioness (feat. Olivia Dean, Melanie C, Self Esteem, Ellie Rowsell, Al Greenwood, Marika Hackman, Rachel Chinouriri, Shura, Jasmine Jethwa, Rose Gray & Highlyy)",
+        "url": "https://open.spotify.com/album/3AHtV2oljDNgnvAWWOKVl7"
+      },
+      "artists": [
+        {
+          "name": "Hope FC",
+          "url": "https://open.spotify.com/artist/6nPAlz8Uh07L34qNbdGWRa"
+        },
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        },
+        {
+          "name": "Melanie C",
+          "url": "https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df"
+        },
+        {
+          "name": "Self Esteem",
+          "url": "https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe"
+        },
+        {
+          "name": "Ellie Rowsell",
+          "url": "https://open.spotify.com/artist/60t20hnY4HFbjM0sbJ07vc"
+        },
+        {
+          "name": "Al Greenwood",
+          "url": "https://open.spotify.com/artist/4WiG3X3HhSrxA2WV0x3LSN"
+        },
+        {
+          "name": "Marika Hackman",
+          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
+        },
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        },
+        {
+          "name": "Shura",
+          "url": "https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT"
+        },
+        {
+          "name": "Jasmine Jethwa",
+          "url": "https://open.spotify.com/artist/6FLqwgd1Ks0JvEmqpewIpv"
+        },
+        {
+          "name": "Rose Gray",
+          "url": "https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA"
+        },
+        {
+          "name": "Highlyy",
+          "url": "https://open.spotify.com/artist/4JmaulM4hnNKJzvNgdxx3B"
+        }
+      ],
+      "duration_ms": 213260,
+      "name": "Call Me A Lioness (feat. Olivia Dean, Melanie C, Self Esteem, Ellie Rowsell, Al Greenwood, Marika Hackman, Rachel Chinouriri, Shura, Jasmine Jethwa, Rose Gray & Highlyy)",
+      "url": "https://open.spotify.com/track/6wGnnh7Vc9czrgxBstY8XM"
+    },
     {
       "added_at": "2023-07-04 23:00:00",
       "album": {

@@ -613,6 +613,24 @@
     },
     {
       "album": {
+        "name": "Big Jon",
+        "url": "https://open.spotify.com/album/27sKUo532bzJ5pvOv32zGo"
+      },
+      "artists": [
+        {
+          "name": "Lou Lizza",
+          "url": "https://open.spotify.com/artist/64ExAUrTH26xYrVrCFEVH4"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230886,
+      "name": "Big Jon",
+      "url": "https://open.spotify.com/track/7FS9mcAHdV6OZYlpRrdR7a"
+    },
+    {
+      "album": {
         "name": "Birch",
         "url": "https://open.spotify.com/album/3QRUkSveMnmFIotjK9hivL"
       },
@@ -8292,6 +8310,24 @@
       "duration_ms": 130182,
       "name": "Whiskey Jazz",
       "url": "https://open.spotify.com/track/2sig8mxmjeVn3MUPn6NeAC"
+    },
+    {
+      "album": {
+        "name": "Wine & You",
+        "url": "https://open.spotify.com/album/5d5zS9upUeTAFV6GghOtr4"
+      },
+      "artists": [
+        {
+          "name": "Masuyu",
+          "url": "https://open.spotify.com/artist/6m6GTttiO1qLImlyNeXoz0"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129000,
+      "name": "Wine & You",
+      "url": "https://open.spotify.com/track/4VlopfgRJ11tEPbSTM7XoC"
     },
     {
       "album": {

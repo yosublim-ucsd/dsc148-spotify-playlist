@@ -4,7 +4,7 @@
 
 > Con licuachela en mano y perreando hasta el piso\. El Bogueto en portada
 
-220 songs - 10 hr 58 min
+221 songs - 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,8 +85,9 @@
 | [Gatita](https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Gatita](https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs) | 2:33 | 2022-12-22 | 2023-05-30 |
 | [Goldi Buena](https://open.spotify.com/track/0yKV1lGKbIOmWUDOoEu7PE) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [Goldi Buena](https://open.spotify.com/album/7mCziNGhAO2XFa0HwgZNSq) | 3:14 | 2022-01-17 | 2023-04-01 |
 | [Grábate](https://open.spotify.com/track/6GVQoE8F7UOoFctX6buQnD) | [Yoiker](https://open.spotify.com/artist/6Hg8CIS6vJg7gUi4kTzJEJ) | [Esto No Es Un Álbum](https://open.spotify.com/album/4oKUCAuCGykBVhBnn1VRUF) | 2:38 | 2023-03-10 |  |
+| [Helicoptero](https://open.spotify.com/track/2Gt9PTqiQdE4ZGbsBwssqJ) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Helicoptero](https://open.spotify.com/album/3XmNrq8rYZX54P2WGd1pQ7) | 2:17 | 2023-07-14 |  |
 | [Helicoptero](https://open.spotify.com/track/4xGuA6Amh6K4MVoxXgYrKU) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Helicoptero](https://open.spotify.com/album/6OOgmb8FF0GxEH0FzttnLD) | 2:17 | 2023-03-17 | 2023-06-30 |
-| [Helicoptero](https://open.spotify.com/track/7dg8xRGRg5Az68XFDWaTqy) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Dembow Worldwide Hits Teteo 42](https://open.spotify.com/album/2iRuPibbnUyit6NnqRBeUL) | 2:17 | 2023-06-23 |  |
+| [Helicoptero](https://open.spotify.com/track/7dg8xRGRg5Az68XFDWaTqy) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Dembow Worldwide Hits Teteo 42](https://open.spotify.com/album/2iRuPibbnUyit6NnqRBeUL) | 2:17 | 2023-06-23 | 2023-07-20 |
 | [Hora de Salir](https://open.spotify.com/track/6yv9it6siINSacVKHrgLmI) | [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Hora de Salir](https://open.spotify.com/album/4HAKrFKWngyiF8OsEdoS09) | 3:03 | 2023-06-30 |  |
 | [ID](https://open.spotify.com/track/0crVjW9Jz8ktVuVXoUi187) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [ID](https://open.spotify.com/album/1egkQ2UCu5EaokUNnDsvFL) | 3:55 | 2023-06-02 |  |
 | [Inocente](https://open.spotify.com/track/0IlwSd3IcgnHXPmRv89DSm) | [Michael G](https://open.spotify.com/artist/52vhIE7TjnC3Cxd7ZOWJZ3), [Daizak](https://open.spotify.com/artist/1CTQCLfayh8AF1ybuosMWZ), [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF) | [Inocente](https://open.spotify.com/album/2RLtOqXbqX6uqaNJ5eb3yC) | 3:22 | 2022-01-04 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: d4vd",
-  "num_followers": 441233,
+  "num_followers": 441370,
   "original_name": "Lo-fi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjJjNmU3ZjQxNWEzZjcwOTBkZWI4MTM1YTQzNTZjNWZiN2EzY2U3",
+  "snapshot_id": "MCwyZTlhODI0YTg4MTU0OTVkODgxMWEyN2E2NTFiMTQyYTBjNjI5N2Ji",
   "tracks": [
     {
       "added_at": "2023-05-18 14:29:48",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-05-18 14:29:48",
       "album": {
-        "name": "Huli Ka",
-        "url": "https://open.spotify.com/album/4TtzUdu7yLu0gWH7Nmoo9u"
-      },
-      "artists": [
-        {
-          "name": "Whatever, Dad",
-          "url": "https://open.spotify.com/artist/1wMNhhG8VUhDGZ249MZBtn"
-        }
-      ],
-      "duration_ms": 95000,
-      "name": "Death of the Phone Call",
-      "url": "https://open.spotify.com/track/15z5xDY6UAjEiWoMXhTK3Q"
-    },
-    {
-      "added_at": "2023-05-18 14:29:48",
-      "album": {
         "name": "Antisocialites",
         "url": "https://open.spotify.com/album/2Yy84EeclNVwFDem6yIB2s"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 196026,
       "name": "Dreams Tonite",
       "url": "https://open.spotify.com/track/6TcxxINfeaBEQ35sHMldTD"
+    },
+    {
+      "added_at": "2023-05-18 14:29:48",
+      "album": {
+        "name": "Huli Ka",
+        "url": "https://open.spotify.com/album/4TtzUdu7yLu0gWH7Nmoo9u"
+      },
+      "artists": [
+        {
+          "name": "Whatever, Dad",
+          "url": "https://open.spotify.com/artist/1wMNhhG8VUhDGZ249MZBtn"
+        }
+      ],
+      "duration_ms": 95000,
+      "name": "Death of the Phone Call",
+      "url": "https://open.spotify.com/track/15z5xDY6UAjEiWoMXhTK3Q"
     },
     {
       "added_at": "2023-05-18 14:29:48",
@@ -547,6 +547,22 @@
     {
       "added_at": "2023-05-18 14:29:48",
       "album": {
+        "name": "Ways to Go",
+        "url": "https://open.spotify.com/album/4g5q9uTpoq19HX1Ksm9CHe"
+      },
+      "artists": [
+        {
+          "name": "Zeph",
+          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
+        }
+      ],
+      "duration_ms": 127061,
+      "name": "Ways to Go",
+      "url": "https://open.spotify.com/track/0p973C7c3dry8DRq2mgYP3"
+    },
+    {
+      "added_at": "2023-05-18 14:29:48",
+      "album": {
         "name": "Human Condition",
         "url": "https://open.spotify.com/album/4cGpiQWYOPtHRB3mQLDWCC"
       },
@@ -579,38 +595,6 @@
     {
       "added_at": "2023-05-18 14:29:48",
       "album": {
-        "name": "Radio",
-        "url": "https://open.spotify.com/album/1ZaigXPBR3ve70vpWaP1jB"
-      },
-      "artists": [
-        {
-          "name": "Freak Slug",
-          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
-        }
-      ],
-      "duration_ms": 191527,
-      "name": "Radio",
-      "url": "https://open.spotify.com/track/1gyIYA98zceKTnjISviYRz"
-    },
-    {
-      "added_at": "2023-05-18 14:29:48",
-      "album": {
-        "name": "Ways to Go",
-        "url": "https://open.spotify.com/album/4g5q9uTpoq19HX1Ksm9CHe"
-      },
-      "artists": [
-        {
-          "name": "Zeph",
-          "url": "https://open.spotify.com/artist/502gYHkFCtLzBIcU4ctPLd"
-        }
-      ],
-      "duration_ms": 127061,
-      "name": "Ways to Go",
-      "url": "https://open.spotify.com/track/0p973C7c3dry8DRq2mgYP3"
-    },
-    {
-      "added_at": "2023-05-18 14:29:48",
-      "album": {
         "name": "Fake It Flowers",
         "url": "https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 260024,
       "name": "How Was Your Day?",
       "url": "https://open.spotify.com/track/1FnaRNR5YLddYYd6xwJ3DX"
+    },
+    {
+      "added_at": "2023-05-18 14:29:48",
+      "album": {
+        "name": "Radio",
+        "url": "https://open.spotify.com/album/1ZaigXPBR3ve70vpWaP1jB"
+      },
+      "artists": [
+        {
+          "name": "Freak Slug",
+          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
+        }
+      ],
+      "duration_ms": 191527,
+      "name": "Radio",
+      "url": "https://open.spotify.com/track/1gyIYA98zceKTnjISviYRz"
     },
     {
       "added_at": "2023-05-18 14:29:48",
@@ -919,22 +919,6 @@
     {
       "added_at": "2023-05-18 14:29:48",
       "album": {
-        "name": "I Clung to You Hoping We'd Both Drown",
-        "url": "https://open.spotify.com/album/6dwWUYV0MBZVcfSvzc27Ah"
-      },
-      "artists": [
-        {
-          "name": "Flatsound",
-          "url": "https://open.spotify.com/artist/4ze1UwMqtSlhTgnyk8LrW3"
-        }
-      ],
-      "duration_ms": 171261,
-      "name": "My Heart Goes Bum Bum Bum",
-      "url": "https://open.spotify.com/track/0RQbFGjt6FraX3WK8IK8QE"
-    },
-    {
-      "added_at": "2023-05-18 14:29:48",
-      "album": {
         "name": "Fade",
         "url": "https://open.spotify.com/album/7mvQaGNnewjly0RNWdfiNT"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 203444,
       "name": "Fade",
       "url": "https://open.spotify.com/track/56aGCgQHz0eRCNXcuNY99B"
+    },
+    {
+      "added_at": "2023-05-18 14:29:48",
+      "album": {
+        "name": "I Clung to You Hoping We'd Both Drown",
+        "url": "https://open.spotify.com/album/6dwWUYV0MBZVcfSvzc27Ah"
+      },
+      "artists": [
+        {
+          "name": "Flatsound",
+          "url": "https://open.spotify.com/artist/4ze1UwMqtSlhTgnyk8LrW3"
+        }
+      ],
+      "duration_ms": 171261,
+      "name": "My Heart Goes Bum Bum Bum",
+      "url": "https://open.spotify.com/track/0RQbFGjt6FraX3WK8IK8QE"
     },
     {
       "added_at": "2023-05-18 14:29:48",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-05-18 14:29:48",
       "album": {
-        "name": "dirt",
-        "url": "https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB"
-      },
-      "artists": [
-        {
-          "name": "Hand Habits",
-          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
-        }
-      ],
-      "duration_ms": 176268,
-      "name": "4th of july",
-      "url": "https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH"
-    },
-    {
-      "added_at": "2023-05-18 14:29:48",
-      "album": {
         "name": "Body Jumper (Deluxe)",
         "url": "https://open.spotify.com/album/6N3YPnYH8PeDpgNaeDMlAi"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 137400,
       "name": "Mystery Key - Eyedress Remix",
       "url": "https://open.spotify.com/track/3UjzLbZtsC7CT3Rhvj8faq"
+    },
+    {
+      "added_at": "2023-05-18 14:29:48",
+      "album": {
+        "name": "dirt",
+        "url": "https://open.spotify.com/album/1cnrZ3t6GI4S6JIiiEkVuB"
+      },
+      "artists": [
+        {
+          "name": "Hand Habits",
+          "url": "https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5"
+        }
+      ],
+      "duration_ms": 176268,
+      "name": "4th of july",
+      "url": "https://open.spotify.com/track/5U4u97LnLFFTKBAf9MaOdH"
     },
     {
       "added_at": "2023-05-18 14:29:48",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-05-18 14:29:48",
       "album": {
-        "name": "i want to die in your arms",
-        "url": "https://open.spotify.com/album/4TdNXt2F6mfD6ViYi2vt7f"
-      },
-      "artists": [
-        {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
-        }
-      ],
-      "duration_ms": 136506,
-      "name": "i want to die in your arms",
-      "url": "https://open.spotify.com/track/08KjCNJAIG6Y41ssp19yTn"
-    },
-    {
-      "added_at": "2023-05-18 14:29:48",
-      "album": {
         "name": "California Screaming",
         "url": "https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 197000,
       "name": "California Screaming",
       "url": "https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG"
+    },
+    {
+      "added_at": "2023-05-18 14:29:48",
+      "album": {
+        "name": "i want to die in your arms",
+        "url": "https://open.spotify.com/album/4TdNXt2F6mfD6ViYi2vt7f"
+      },
+      "artists": [
+        {
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+        }
+      ],
+      "duration_ms": 136506,
+      "name": "i want to die in your arms",
+      "url": "https://open.spotify.com/track/08KjCNJAIG6Y41ssp19yTn"
     },
     {
       "added_at": "2023-05-18 14:29:48",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-05-18 14:29:48",
       "album": {
-        "name": "Anti-glory",
-        "url": "https://open.spotify.com/album/64rQzBshwp5tyR7ExhJaAk"
-      },
-      "artists": [
-        {
-          "name": "Horsegirl",
-          "url": "https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra"
-        }
-      ],
-      "duration_ms": 210640,
-      "name": "Anti-glory",
-      "url": "https://open.spotify.com/track/7fDPgekQGJKkyyqjuhtNSG"
-    },
-    {
-      "added_at": "2023-05-18 14:29:48",
-      "album": {
         "name": "The Gaping Mouth",
         "url": "https://open.spotify.com/album/6VxWQqpTEfvaF96OlgO7DU"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 219010,
       "name": "Seaface",
       "url": "https://open.spotify.com/track/5VjWQLgZK3MD2pdDHG8UHO"
+    },
+    {
+      "added_at": "2023-05-18 14:29:48",
+      "album": {
+        "name": "Anti-glory",
+        "url": "https://open.spotify.com/album/64rQzBshwp5tyR7ExhJaAk"
+      },
+      "artists": [
+        {
+          "name": "Horsegirl",
+          "url": "https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra"
+        }
+      ],
+      "duration_ms": 210640,
+      "name": "Anti-glory",
+      "url": "https://open.spotify.com/track/7fDPgekQGJKkyyqjuhtNSG"
     },
     {
       "added_at": "2023-05-18 14:29:48",

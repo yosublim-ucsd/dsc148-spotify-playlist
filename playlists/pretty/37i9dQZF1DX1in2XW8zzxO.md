@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 
 > Amapiano tracks to fuel your beast mode!
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,398 likes - 79 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,560 likes - 79 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mnike \(UK Radio Edit\) \(feat\. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee\)](https://open.spotify.com/track/5OnDiLZlKXnBlBk2nCC9xE) | [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Tumelo\_za](https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Nandipha808](https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY), [Tyrondee](https://open.spotify.com/artist/4aNokzWeBL32vR7leBpUat) | [Mnike \(UK Radio Edit\) \(feat\. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee\)](https://open.spotify.com/album/6vEFTGVOAcke5UVOetvDWV) | 3:13 |
+| 1 | [Mnike \(Radio Edit\) \(feat\. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee\)](https://open.spotify.com/track/5OnDiLZlKXnBlBk2nCC9xE) | [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Tumelo\_za](https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Nandipha808](https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY), [Tyrondee](https://open.spotify.com/artist/4aNokzWeBL32vR7leBpUat) | [Mnike \(Radio Edit\) \(feat\. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee\)](https://open.spotify.com/album/6vEFTGVOAcke5UVOetvDWV) | 3:13 |
 | 2 | [La Maluka](https://open.spotify.com/track/7EJfaSvCBWNJwKYe7ol4D7) | [Blaqnick & MasterBlaq](https://open.spotify.com/artist/19qLtUQKu1KK3UrQtIoVXF), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb) | [La Maluka](https://open.spotify.com/album/32UflENeLioWm4rKSpyRvm) | 4:34 |
 | 3 | [Hamba Wena](https://open.spotify.com/track/1hsFJ92y0FU2cFOOLkEFVr) | [Deep London](https://open.spotify.com/artist/4WcuDDFGfo4j6VHqkGmjZ8), [Boohle](https://open.spotify.com/artist/6fHE8xZBCxzwer9DIbOmv4) | [Hamba Wena](https://open.spotify.com/album/4vwKHSXGmqA0Fe9u9NLt51) | 6:14 |
 | 4 | [Baja Ko Pele](https://open.spotify.com/track/6RzTv3JiPndZpv0Lq3kGHO) | [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [M.J](https://open.spotify.com/artist/7bbakrxOYa3yL8DDzjU98P), [Xduppy](https://open.spotify.com/artist/5QsdUm4JfKqNnFEplkhV1i), [Shaunmusiq](https://open.spotify.com/artist/1rz8BeoVHWRTcj2253dM85), [Ftears](https://open.spotify.com/artist/0DT7OuytIwr9CjLYdvLHq7) | [Baja Ko Pele](https://open.spotify.com/album/5rDVWC3IBpWunIKPEx5PXd) | 4:35 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 | 78 | [Bulldozer](https://open.spotify.com/track/63aJ6gi41fLZdmd29AMi01) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [Novelist](https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc) | [Bulldozer](https://open.spotify.com/album/3mmGpsFRLodEWkK3kmBsHt) | 5:01 |
 | 79 | [Bundle of Joy](https://open.spotify.com/track/63HL27uW6RXQq0vjL8XZIe) | [Vigro Deep](https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH) | [Baby Boy 2 Reloaded](https://open.spotify.com/album/1yWI355GWrXToRiwrP6osF) | 7:27 |
 
-Snapshot ID: `MCxmMTNmYzA1M2M2ZWQ4YjdkY2FmNzhlYjdmNGI4YTVkODRmNzRlYzM2`
+Snapshot ID: `MCw5ZDc2YWQ1ODQ4Nzc4YTNiNzQ3OGEwMWNkZWZkNDY5NmNmNTRmNzFj`

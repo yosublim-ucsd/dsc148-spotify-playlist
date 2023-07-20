@@ -1,12 +1,12 @@
 {
   "description": "A perfect rendezvous of funk, jazz, R&B, and soul. Cover: Eric Darius",
-  "num_followers": 214227,
+  "num_followers": 214264,
   "original_name": "Sax and the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTZiZjIzZmRkMGU5MDVmNmU1YmFjM2I1YjE2MDFmMjdhNWM2MzRj",
+  "snapshot_id": "MCxiMzY2NmY4YTM2Njg5ZDE4YTI5NTkzNDcyMjA5N2FhYzUwNzViYzBj",
   "tracks": [
     {
       "added_at": "2021-07-12 18:09:21",
@@ -353,24 +353,20 @@
       "url": "https://open.spotify.com/track/2q31jbhT4UKTd0hD79yPJQ"
     },
     {
-      "added_at": "2021-07-12 18:09:21",
+      "added_at": "2021-07-12 18:23:33",
       "album": {
-        "name": "Got 2 Be Groovin'",
-        "url": "https://open.spotify.com/album/4MRGWe9ughUgD0oqJaHjgA"
+        "name": "Livin' Large",
+        "url": "https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU"
       },
       "artists": [
         {
           "name": "Euge Groove",
           "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
-        },
-        {
-          "name": "Althea Rene",
-          "url": "https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY"
         }
       ],
-      "duration_ms": 289800,
-      "name": "Forever And A Day",
-      "url": "https://open.spotify.com/track/6P6HGa4StPd1NcPmBBR4b9"
+      "duration_ms": 271533,
+      "name": "Livin' Large",
+      "url": "https://open.spotify.com/track/5j9emKRjqGaJzwGZZbNO7X"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -533,20 +529,24 @@
       "url": "https://open.spotify.com/track/63XAVsskaasvNFwuX9bDrB"
     },
     {
-      "added_at": "2021-07-12 18:23:33",
+      "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Livin' Large",
-        "url": "https://open.spotify.com/album/67YB0aGHisJ89Q8UsT2yMU"
+        "name": "Got 2 Be Groovin'",
+        "url": "https://open.spotify.com/album/4MRGWe9ughUgD0oqJaHjgA"
       },
       "artists": [
         {
           "name": "Euge Groove",
           "url": "https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF"
+        },
+        {
+          "name": "Althea Rene",
+          "url": "https://open.spotify.com/artist/5FnGUGAaOtAqnk6Zxn6nFY"
         }
       ],
-      "duration_ms": 271533,
-      "name": "Livin' Large",
-      "url": "https://open.spotify.com/track/5j9emKRjqGaJzwGZZbNO7X"
+      "duration_ms": 289800,
+      "name": "Forever And A Day",
+      "url": "https://open.spotify.com/track/6P6HGa4StPd1NcPmBBR4b9"
     },
     {
       "added_at": "2022-09-23 04:01:00",
@@ -721,6 +721,22 @@
       "url": "https://open.spotify.com/track/7wsOL6S0gabDU2OW95qlSq"
     },
     {
+      "added_at": "2023-01-27 05:01:00",
+      "album": {
+        "name": "Lean Into It",
+        "url": "https://open.spotify.com/album/38AxIOTCXPAvFpkYqbhFwN"
+      },
+      "artists": [
+        {
+          "name": "Andrew Neu",
+          "url": "https://open.spotify.com/artist/2UvENYRkDPxhXmp92vkzhF"
+        }
+      ],
+      "duration_ms": 264148,
+      "name": "Lean Into It",
+      "url": "https://open.spotify.com/track/1efYoDcIHPzhYAvwO5gzqE"
+    },
+    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "True Stories",
@@ -739,22 +755,6 @@
       "duration_ms": 270133,
       "name": "Wild Tales (feat. Russ Freeman)",
       "url": "https://open.spotify.com/track/0JpSVTcs8PBLD5ZmOj26cF"
-    },
-    {
-      "added_at": "2023-01-27 05:01:00",
-      "album": {
-        "name": "Lean Into It",
-        "url": "https://open.spotify.com/album/38AxIOTCXPAvFpkYqbhFwN"
-      },
-      "artists": [
-        {
-          "name": "Andrew Neu",
-          "url": "https://open.spotify.com/artist/2UvENYRkDPxhXmp92vkzhF"
-        }
-      ],
-      "duration_ms": 264148,
-      "name": "Lean Into It",
-      "url": "https://open.spotify.com/track/1efYoDcIHPzhYAvwO5gzqE"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -947,6 +947,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "Main Street Beat",
+        "url": "https://open.spotify.com/album/0lLrGjwlJgeXhy3W1Z4v1N"
+      },
+      "artists": [
+        {
+          "name": "Jackiem Joyner",
+          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
+        }
+      ],
+      "duration_ms": 253426,
+      "name": "Trinity",
+      "url": "https://open.spotify.com/track/4d0TZ8gt6iAShHB7Y9nRM2"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "Limitless",
         "url": "https://open.spotify.com/album/2a558EhzWmryaB6ewwikZQ"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 233920,
       "name": "Limitless - Radio Edit",
       "url": "https://open.spotify.com/track/6EKw5whgxDjZzjBGV7i74H"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Breakin' thru",
-        "url": "https://open.spotify.com/album/4tUrzcR8b7PZGzInJNoOog"
-      },
-      "artists": [
-        {
-          "name": "Eric Darius",
-          "url": "https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8"
-        }
-      ],
-      "duration_ms": 270968,
-      "name": "Breakin' thru",
-      "url": "https://open.spotify.com/track/1qzYFva6wcTgmz12aDwSC7"
     },
     {
       "added_at": "2021-07-12 18:23:33",
@@ -995,18 +995,18 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Main Street Beat",
-        "url": "https://open.spotify.com/album/0lLrGjwlJgeXhy3W1Z4v1N"
+        "name": "Breakin' thru",
+        "url": "https://open.spotify.com/album/4tUrzcR8b7PZGzInJNoOog"
       },
       "artists": [
         {
-          "name": "Jackiem Joyner",
-          "url": "https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg"
+          "name": "Eric Darius",
+          "url": "https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8"
         }
       ],
-      "duration_ms": 253426,
-      "name": "Trinity",
-      "url": "https://open.spotify.com/track/4d0TZ8gt6iAShHB7Y9nRM2"
+      "duration_ms": 270968,
+      "name": "Breakin' thru",
+      "url": "https://open.spotify.com/track/1qzYFva6wcTgmz12aDwSC7"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Quintastic",
-        "url": "https://open.spotify.com/album/4LzFSL2q6GErS6Kq1PnOxS"
-      },
-      "artists": [
-        {
-          "name": "Deon Yates",
-          "url": "https://open.spotify.com/artist/7rRyjSFGUWRFh7UgN70MZO"
-        }
-      ],
-      "duration_ms": 243685,
-      "name": "Quintastic",
-      "url": "https://open.spotify.com/track/7CBCAj6NaFYKjFhIEMYtBf"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "M.P.3",
         "url": "https://open.spotify.com/album/5dHIYzhFckBVCZO7FTA5VN"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 199573,
       "name": "Gonna' Miss You",
       "url": "https://open.spotify.com/track/4TCscGfdcw4qamFgbtwBpA"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Quintastic",
+        "url": "https://open.spotify.com/album/4LzFSL2q6GErS6Kq1PnOxS"
+      },
+      "artists": [
+        {
+          "name": "Deon Yates",
+          "url": "https://open.spotify.com/artist/7rRyjSFGUWRFh7UgN70MZO"
+        }
+      ],
+      "duration_ms": 243685,
+      "name": "Quintastic",
+      "url": "https://open.spotify.com/track/7CBCAj6NaFYKjFhIEMYtBf"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1265,22 +1265,6 @@
       "url": "https://open.spotify.com/track/5Eug7AiCUq449ZsPpDae7P"
     },
     {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "City Beat",
-        "url": "https://open.spotify.com/album/2qh5ZiEghmYBPamiTUeO2z"
-      },
-      "artists": [
-        {
-          "name": "Michael J Thomas",
-          "url": "https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0"
-        }
-      ],
-      "duration_ms": 242933,
-      "name": "City Beat",
-      "url": "https://open.spotify.com/track/3T9bPsBqGslbXXKMcUBjMo"
-    },
-    {
       "added_at": "2021-08-13 04:01:00",
       "album": {
         "name": "On The Move",
@@ -1295,6 +1279,22 @@
       "duration_ms": 250093,
       "name": "On The Move",
       "url": "https://open.spotify.com/track/2Q6XPRLwgglQSYVAoCRaEI"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "City Beat",
+        "url": "https://open.spotify.com/album/2qh5ZiEghmYBPamiTUeO2z"
+      },
+      "artists": [
+        {
+          "name": "Michael J Thomas",
+          "url": "https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0"
+        }
+      ],
+      "duration_ms": 242933,
+      "name": "City Beat",
+      "url": "https://open.spotify.com/track/3T9bPsBqGslbXXKMcUBjMo"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "Sexy Saxy, Vol. 3",
+        "url": "https://open.spotify.com/album/4h6LnoIwO8rzt9XncM5bIQ"
+      },
+      "artists": [
+        {
+          "name": "Jarez",
+          "url": "https://open.spotify.com/artist/4QXyNrZiA9bnaEM1vrXBjr"
+        }
+      ],
+      "duration_ms": 263128,
+      "name": "What U Want, What U Need",
+      "url": "https://open.spotify.com/track/2OTBqWfzx08u2KbROvZlhZ"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "Eye Of The Storm",
         "url": "https://open.spotify.com/album/1evVKw0Y7cCwz5HUtBZq0d"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 256652,
       "name": "Eye Of The Storm",
       "url": "https://open.spotify.com/track/6O0FDghGmoL5w0WOVaoNIP"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Sexy Saxy, Vol. 3",
-        "url": "https://open.spotify.com/album/4h6LnoIwO8rzt9XncM5bIQ"
-      },
-      "artists": [
-        {
-          "name": "Jarez",
-          "url": "https://open.spotify.com/artist/4QXyNrZiA9bnaEM1vrXBjr"
-        }
-      ],
-      "duration_ms": 263128,
-      "name": "What U Want, What U Need",
-      "url": "https://open.spotify.com/track/2OTBqWfzx08u2KbROvZlhZ"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1407,6 +1407,22 @@
       "duration_ms": 236273,
       "name": "Play",
       "url": "https://open.spotify.com/track/2iYXWh7NuRye7OS5BsV3Aq"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Prime Time",
+        "url": "https://open.spotify.com/album/3eoSNLul2FSqaoQfsN7Gs1"
+      },
+      "artists": [
+        {
+          "name": "Paul Taylor",
+          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
+        }
+      ],
+      "duration_ms": 239506,
+      "name": "Prime Time",
+      "url": "https://open.spotify.com/track/73y1mF0koz768FqU0BkgK5"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1447,22 +1463,6 @@
       "duration_ms": 229640,
       "name": "Barack's Groove",
       "url": "https://open.spotify.com/track/5c0eXApbTE7SLZMhMFHtju"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Prime Time",
-        "url": "https://open.spotify.com/album/3eoSNLul2FSqaoQfsN7Gs1"
-      },
-      "artists": [
-        {
-          "name": "Paul Taylor",
-          "url": "https://open.spotify.com/artist/3wBSOZFd5KLsEZ1yoVSICQ"
-        }
-      ],
-      "duration_ms": 239506,
-      "name": "Prime Time",
-      "url": "https://open.spotify.com/track/73y1mF0koz768FqU0BkgK5"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1677,22 +1677,6 @@
       "url": "https://open.spotify.com/track/16SqVat33WWYI4ebWf2iJq"
     },
     {
-      "added_at": "2022-09-09 04:01:00",
-      "album": {
-        "name": "Juicy",
-        "url": "https://open.spotify.com/album/6WQeyUJsoPwFgZMRRmenOp"
-      },
-      "artists": [
-        {
-          "name": "J. White",
-          "url": "https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov"
-        }
-      ],
-      "duration_ms": 206451,
-      "name": "Juicy",
-      "url": "https://open.spotify.com/track/0li2WQSds4CUrTouznvIEv"
-    },
-    {
       "added_at": "2021-07-12 18:09:21",
       "album": {
         "name": "Carnival Fever",
@@ -1707,6 +1691,22 @@
       "duration_ms": 263083,
       "name": "Carnival Fever",
       "url": "https://open.spotify.com/track/7MB4RWR8LbYstvl2L9qFOQ"
+    },
+    {
+      "added_at": "2022-09-09 04:01:00",
+      "album": {
+        "name": "Juicy",
+        "url": "https://open.spotify.com/album/6WQeyUJsoPwFgZMRRmenOp"
+      },
+      "artists": [
+        {
+          "name": "J. White",
+          "url": "https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov"
+        }
+      ],
+      "duration_ms": 206451,
+      "name": "Juicy",
+      "url": "https://open.spotify.com/track/0li2WQSds4CUrTouznvIEv"
     },
     {
       "added_at": "2022-06-17 04:02:00",

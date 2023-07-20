@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Jung Kook
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,600 likes - 82 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,617 likes - 82 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 |
+| 1 | [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 |
 | 2 | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 |
 | 3 | [Rush](https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Rush](https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf) | 2:36 |
 | 4 | [Luarbiasa](https://open.spotify.com/track/35gZphaBnnB6DuEtpKVK5g) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [Luarbiasa](https://open.spotify.com/album/1KZaQnfO2XgQRj75cMtEej) | 3:34 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 36 | [Talk Too Much](https://open.spotify.com/track/7haim7EewbN5RnByO5GtWV) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Talk Too Much](https://open.spotify.com/album/5rsy1T9egnzYvl4wpfyXPw) | 3:16 |
 | 37 | [Screw Time](https://open.spotify.com/track/041KVEd5BQnsyZKdqdmE0r) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Screw Time](https://open.spotify.com/album/3XuJ6wvVTZyiMslESPVRJ7) | 3:05 |
 | 38 | [Wonder](https://open.spotify.com/track/6oYY9Y4OrcZQqk47DDcQCv) | [KHAi](https://open.spotify.com/artist/3CrHBVFqfWQ329LbxGeyj1) | [Wonder](https://open.spotify.com/album/7LEdcUn6HppJWJ1CpAgeE9) | 4:19 |
-| 39 | [THUNDER N’ LIGHTNING ⛈️](https://open.spotify.com/track/0MyDQQ7v5WMb7PaQ0boFkL) | [Reub](https://open.spotify.com/artist/2VIpsUyYMf7opaz3dG4OiF) | [THUNDER N’ LIGHTNING ⛈️](https://open.spotify.com/album/41M8bkeuc5nEh3PrqtyRp5) | 3:41 |
+| 39 | [THUNDER N’ LIGHTNING](https://open.spotify.com/track/0MyDQQ7v5WMb7PaQ0boFkL) | [Reub](https://open.spotify.com/artist/2VIpsUyYMf7opaz3dG4OiF) | [THUNDER N’ LIGHTNING](https://open.spotify.com/album/41M8bkeuc5nEh3PrqtyRp5) | 3:41 |
 | 40 | [For/Sure \- Prelude](https://open.spotify.com/track/5vCXGytKh9Uz2DNlVTkPC9) | [Mary Sue](https://open.spotify.com/artist/2vmWNXWLIWsf0mlVQoO251) | [For/Sure \(Prelude\)](https://open.spotify.com/album/2dadELALxCkJbEnb7Jio9E) | 2:49 |
 | 41 | [all the other earths](https://open.spotify.com/track/17v1n74rexnQAO4yuly52C) | [Lauren Ong](https://open.spotify.com/artist/1qXjkdOzaGvRcJJbRoy2IZ) | [hillcrest](https://open.spotify.com/album/2pNTEByotso0MHoMsjqmfK) | 2:49 |
 | 42 | [POV](https://open.spotify.com/track/0tfERIAVzJ7DukOL6Geda3) | [Alex Asha'ari](https://open.spotify.com/artist/4LtASP6NjE1xw9Zpw75EOH) | [POV](https://open.spotify.com/album/6YEEy6ULJJ8ElS25XaDo1T) | 2:12 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 62 | [Where Do All The Good Kids Go?](https://open.spotify.com/track/3QmlsVA1wJJv5w8GqVxVdw) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Where Do All The Good Kids Go?](https://open.spotify.com/album/0joBCSKi5bl55YSbvMSVd3) | 3:16 |
 | 63 | [Perfect To Me](https://open.spotify.com/track/78BUPVJTd2XabF1tf6jEte) | [Sunny Lukas](https://open.spotify.com/artist/25htISTA2qcgslohjTAF2b), [王凯琪](https://open.spotify.com/artist/17iIfUcWYYNHIqD0Qvxf77) | [Perfect To Me](https://open.spotify.com/album/6kUg1kG1k9q9yiCmiCZA6L) | 3:00 |
 | 64 | [caffeine](https://open.spotify.com/track/1oE0STQy16PzQgEKWybJEf) | [blackvelvetz](https://open.spotify.com/artist/3LM41UKgiR9khIkg8FS1k3) | [caffeine](https://open.spotify.com/album/7pnjfVet3HMZz2kTEqM8MO) | 3:21 |
-| 65 | [Complicated](https://open.spotify.com/track/1zpEXCvXPtLdnGunF612Pu) | [Thanh](https://open.spotify.com/artist/3gm1Y1GDGjh8darbC6Vfmt) | [Complicated](https://open.spotify.com/album/0RB2cF5jXr4D16YryEq2Ad) | 2:22 |
+| 65 | [Complicated](https://open.spotify.com/track/1zpEXCvXPtLdnGunF612Pu) | [Thanh](https://open.spotify.com/artist/3gm1Y1GDGjh8darbC6Vfmt), [Gabe Sostre](https://open.spotify.com/artist/4uVnjRTCQIi0iXcNGegI0u) | [Complicated](https://open.spotify.com/album/0RB2cF5jXr4D16YryEq2Ad) | 2:22 |
 | 66 | [Don't Run](https://open.spotify.com/track/7oaDmhGFSRcGxiYDVhJsk1) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Don't Run](https://open.spotify.com/album/0g5eB1GST9apmmd1Mc1NWu) | 2:28 |
 | 67 | [Stressed \(feat\. Summer Walker\)](https://open.spotify.com/track/2mNaugzeRDyAq991bw4nqv) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [222](https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL) | 2:24 |
 | 68 | [Famous](https://open.spotify.com/track/5GwRqgaU2hHhl7WPD22jUw) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm) | [Maybe It's Me...](https://open.spotify.com/album/6WDECo2zMUYFcsNffGH6Gx) | 3:46 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 81 | [Wasted Love](https://open.spotify.com/track/5KsDSE4NZWcQ8mlZDBddB3) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Crazy Donkey](https://open.spotify.com/artist/4FFIm6lcL4VDCTWteKwspi), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Wasted Love](https://open.spotify.com/album/367AlFAsBmmsmtSFrKzc80) | 2:10 |
 | 82 | [Fliccin Up](https://open.spotify.com/track/4SGqmuv6pxaei3Silq8qaK) | [MBNel](https://open.spotify.com/artist/2aqdy2BLMhGFHhRb1ZbDCF) | [Fliccin Up](https://open.spotify.com/album/6C2rgMF06Uwkm9yokUo7X0) | 2:07 |
 
-Snapshot ID: `MCxhNzZhZjQ2NmQ2ZWI2ODBmYzMzMTg5OGUzODVkYmI1M2UzMGJhOWNk`
+Snapshot ID: `MCxmNzM0YjExYTk3MmEyZTM0MTgxZGUxMTJkNzA1NDY3YTJkZDc2Yzhl`

@@ -4,7 +4,7 @@
 
 > Enjoy your perfect headphones jam with this eclectic collection of brilliantly produced and recorded tracks\. These can serve as audiophile reference tracks, but they are great music that can be enjoyed on any headphones or stereo as well!  <a href="spotify:user:spotify:playlist:37i9dQZF1DWWISLnAIWyCZ">Classical version here</a>.
 
-333 songs - 1 day 3 hr 26 min
+334 songs - 1 day 3 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Charmed](https://open.spotify.com/track/6DYLWAdxEJvwWmT7EkeDkX) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk) | 2:38 | 2023-04-24 |  |
 | [Clap Hands](https://open.spotify.com/track/4j6J4FK0fbAAnsUmKJFSTs) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Rain Dogs](https://open.spotify.com/album/4PVqDVjitmZwRx8JIs3HJP) | 3:46 | 2021-10-15 | 2022-07-29 |
 | [Clap Hands](https://open.spotify.com/track/5TeoCsHbzWo9UgMW3rv7JL) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Rain Dogs](https://open.spotify.com/album/5bbb7E51zaDCuD85uLyFkK) | 3:46 | 2022-07-20 | 2023-07-15 |
+| [Clap Hands \- 2023 Remaster](https://open.spotify.com/track/08kU4RDOriTDHzxNL90fLU) | [Tom Waits](https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM) | [Rain Dogs \(2023 Remaster\)](https://open.spotify.com/album/51CvLH7MxsLuFgTwVvzApx) | 3:47 | 2023-07-13 |  |
 | [Constant Craving](https://open.spotify.com/track/0wCrg1LhgPcGMw51qqpI6k) | [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [Recollection](https://open.spotify.com/album/22TXLyA5GOT19O9hIdAHLE) | 4:37 | 2021-10-15 |  |
 | [Cornflake Girl](https://open.spotify.com/track/1300POeOaj8qho30FRHjgf) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Under the Pink](https://open.spotify.com/album/6VNuZLF98tsRYgqlIXAVCD) | 5:05 | 2022-07-12 |  |
 | [Creole Moon](https://open.spotify.com/track/7uf7sRGi0DkGgTOTSjrBUG) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [Creole Moon](https://open.spotify.com/album/0Jzf95x1LjqhTda3HMH5ZU) | 8:34 | 2021-10-15 |  |
@@ -153,7 +154,7 @@
 | [Leave](https://open.spotify.com/track/5lpaTYULgbKAwtvpkPjyrZ) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [New Adventures In Hi\-Fi](https://open.spotify.com/album/3pPyHBRk2RvmNn4Cg1Asv6) | 7:17 | 2022-07-20 |  |
 | [Leave Them All Behind](https://open.spotify.com/track/3YJyRIunGnzVfxoMPEld1v) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Going Blank Again \(Remastered\)](https://open.spotify.com/album/6vnwJBMzIGfh8TxAmgBQAU) | 8:17 | 2021-10-15 | 2022-07-29 |
 | [Leave Them All Behind \- 2001 Remaster](https://open.spotify.com/track/0t4JQeO8qLKzQFcXuTitgk) | [Ride](https://open.spotify.com/artist/0WPY9nnBy01s5QOt4o4oQX) | [Going Blank Again \(Expanded\)](https://open.spotify.com/album/5l70cCHX1QzN680J68rblF) | 8:17 | 2022-07-20 |  |
-| [Listen to the Grass Grow](https://open.spotify.com/track/4wVo6hMUpsrjcxrmeYWvdQ) | [Seckou Keita](https://open.spotify.com/artist/3iT2a4ug1Z4miaWS0HINdc), [Catrin Finch](https://open.spotify.com/artist/5YHCN15OUsjGAg1az5m818) | [SOAR](https://open.spotify.com/album/4EYDGs1XVGoNaL9vSA246G) | 4:26 | 2023-07-13 |  |
+| [Listen to the Grass Grow](https://open.spotify.com/track/4wVo6hMUpsrjcxrmeYWvdQ) | [Seckou Keita](https://open.spotify.com/artist/3iT2a4ug1Z4miaWS0HINdc), [Catrin Finch](https://open.spotify.com/artist/5YHCN15OUsjGAg1az5m818) | [SOAR](https://open.spotify.com/album/4EYDGs1XVGoNaL9vSA246G) | 4:26 | 2023-07-13 | 2023-07-20 |
 | [Little Fluffy Clouds \- 7" Edit](https://open.spotify.com/track/0SiXUBgqtFRk8rGKd0z3LH) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [The Orb \- History Of The Future \(Deluxe Edition\)](https://open.spotify.com/album/7cUZK5ii1GJqR4rYoVflfi) | 4:09 | 2021-10-15 |  |
 | [Lonesome Tears](https://open.spotify.com/track/67mU5cleylyJ0QBP0hlmuG) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Sea Change](https://open.spotify.com/album/5ieP11rJQvuYz0Ov3k03cy) | 5:37 | 2023-02-02 |  |
 | [Los Angeles](https://open.spotify.com/track/4loXMor75kKVBB03ygwDlh) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Days of Thunder](https://open.spotify.com/album/54xM746igJkdPJenRhW1za) | 6:29 | 2022-07-20 |  |

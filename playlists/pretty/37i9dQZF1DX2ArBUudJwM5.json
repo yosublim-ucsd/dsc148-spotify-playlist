@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que la rompen feat. Julieta Laso.\nDales PLAY, dales POWER.",
-  "num_followers": 30438,
+  "num_followers": 30440,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZGYwZTdlZTNiZWFhZDQ1YmU2MzA3N2FkMzcyNDlkMDcyMWQzYzk5",
+  "snapshot_id": "MCw3NjZhY2EyMTkzMTczYTM0MjQ3MzJmZjJiODQwMWQzYzFhMjZjNWI3",
   "tracks": [
     {
       "added_at": "2023-07-05 14:25:33",
@@ -243,6 +243,22 @@
     {
       "added_at": "2023-07-05 14:25:33",
       "album": {
+        "name": "P A L A B R A",
+        "url": "https://open.spotify.com/album/5YOEvlFVR8UxB90TOvMHds"
+      },
+      "artists": [
+        {
+          "name": "Noelia Recalde",
+          "url": "https://open.spotify.com/artist/26O45xhjbZjSY8vubvACRv"
+        }
+      ],
+      "duration_ms": 188440,
+      "name": "Agua Dorada",
+      "url": "https://open.spotify.com/track/16P5n6gLgvNhZ54D2Sz2YT"
+    },
+    {
+      "added_at": "2023-07-05 14:25:33",
+      "album": {
         "name": "Churita",
         "url": "https://open.spotify.com/album/7pgzkHyoKg2QDTOiVG7j7e"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 284787,
       "name": "Vivir en la frontera",
       "url": "https://open.spotify.com/track/7dTn7A8km0PbhphAeadebH"
-    },
-    {
-      "added_at": "2023-07-05 14:25:33",
-      "album": {
-        "name": "P A L A B R A",
-        "url": "https://open.spotify.com/album/5YOEvlFVR8UxB90TOvMHds"
-      },
-      "artists": [
-        {
-          "name": "Noelia Recalde",
-          "url": "https://open.spotify.com/artist/26O45xhjbZjSY8vubvACRv"
-        }
-      ],
-      "duration_ms": 188440,
-      "name": "Agua Dorada",
-      "url": "https://open.spotify.com/track/16P5n6gLgvNhZ54D2Sz2YT"
     },
     {
       "added_at": "2023-07-05 14:25:33",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Nego Max, Kamau, Stefanie
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,861 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,881 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 60 | [Tamo Gigante](https://open.spotify.com/track/4TZb54H3UesQom2lskMF3B) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Chayco](https://open.spotify.com/artist/0titiXdcUTRXpX2CFeShdk) | [Tamo Gigante](https://open.spotify.com/album/6c53Ns7a0MfyZZfNw6hqZV) | 5:16 |
 | 61 | [Gratidão](https://open.spotify.com/track/0EYN8iQmNTIZz0avaUCfHC) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C) | [Hip Hop Rare](https://open.spotify.com/album/6x8GefrlUjATHW7ynbVqHC) | 4:07 |
 | 62 | [INTENÇÃO](https://open.spotify.com/track/3BSrkgc0HEM0dod45jmqyN) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4), [Dj Juninho da Espanha](https://open.spotify.com/artist/7v3YsPZy6l4QPJQ8RqnfZ4), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [LITTLE LOVE](https://open.spotify.com/album/0YSpRv5TQFxz2im8ijEglV) | 3:46 |
-| 63 | [Faça Dinheiro, Se Mantenha Vivo](https://open.spotify.com/track/6XGN9afKuLwmXEipg53yqz) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [KOPO](https://open.spotify.com/artist/3vSHkuSE00R9QBkm5SByaA) | [Faça Dinheiro, Se Mantenha Vivo](https://open.spotify.com/album/67FpK5RVgcIG9LexjpWHv4) | 2:18 |
+| 63 | [Faça Dinheiro, Se Mantenha Vivo](https://open.spotify.com/track/6XGN9afKuLwmXEipg53yqz) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [KOPO](https://open.spotify.com/artist/3vSHkuSE00R9QBkm5SByaA), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Faça Dinheiro, Se Mantenha Vivo](https://open.spotify.com/album/67FpK5RVgcIG9LexjpWHv4) | 2:18 |
 | 64 | [Zoião](https://open.spotify.com/track/7nallj5WoSmMjAaTZz4Lmp) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Salvador Da Rima](https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq) | [R&F: UltraSom](https://open.spotify.com/album/1aX7BghARSDAxshFvHOoZx) | 3:22 |
 | 65 | [Towner](https://open.spotify.com/track/1aNyb2vXdCSS21ooeDatUI) | [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Alaska](https://open.spotify.com/artist/1D8yVlgOfpn6lW5UfwOMj7), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Towner](https://open.spotify.com/album/0DHD5E2JbEYJ9qwza5ToCb) | 2:01 |
 | 66 | [Coração de Carro Forte](https://open.spotify.com/track/1Fhmi7jJSOP6GrStpJrj4t) | [Hungria Hip Hop](https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK) | [Coração de Carro Forte](https://open.spotify.com/album/2KW1zlCk6DMuDEHarANoVQ) | 4:57 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [F\* F\* M\*](https://open.spotify.com/track/0cHflpV8SSGbE0NKaasEfT) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Imaterial \(Deluxe\)](https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn) | 2:56 |
 | 75 | [Subiu o Voucher](https://open.spotify.com/track/3xYy4YTh4GC5ayMg5swQx6) | [Tubaína](https://open.spotify.com/artist/5aJbzurT6OT2V55swJzGpf), [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Subiu o Voucher](https://open.spotify.com/album/6DaCqBc20PZRMJw8qUbVTb) | 4:02 |
 
-Snapshot ID: `MCxlY2IyMTE5Yzc2M2JiY2ZjMjg1OGE4Y2E0Mjk3OTlkZDdhY2EzZDFm`
+Snapshot ID: `MCxhNGI0NjgyZTdkNDBlMDMwMWIxZDUzODY3ZWE4NzhkOTdkYTI4NmVk`

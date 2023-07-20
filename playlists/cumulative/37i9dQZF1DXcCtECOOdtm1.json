@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "CITY MUSIC TOKYO multiple",
+        "url": "https://open.spotify.com/album/67wYPpAjZ6vlEGR9QMiiDw"
+      },
+      "artists": [
+        {
+          "name": "Carnation",
+          "url": "https://open.spotify.com/artist/5NvPLoJWfBHkEvTsiwmEog"
+        }
+      ],
+      "date_added": "2021-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302280,
+      "name": "Edo River",
+      "url": "https://open.spotify.com/track/2Teorw7URQD0o6JBoLxIux"
+    },
+    {
+      "album": {
         "name": "EDO RIVER",
         "url": "https://open.spotify.com/album/1qFE5dkutI58p4UkN4Sho4"
       },
@@ -232,7 +250,7 @@
       ],
       "date_added": "2021-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 302453,
       "name": "Edo River",
       "url": "https://open.spotify.com/track/7fMzDKqXI1yLugVJNWyiwm"

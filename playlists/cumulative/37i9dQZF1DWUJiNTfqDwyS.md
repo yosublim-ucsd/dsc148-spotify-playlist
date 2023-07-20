@@ -4,7 +4,7 @@
 
 > A collection of the best Metal covers out there\. Cover: Metallica
 
-170 songs - 12 hr 0 min
+171 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Radioactive](https://open.spotify.com/track/41m0IIkRmasSewpmbQs9L0) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Gravity \(Deluxe Edition\)](https://open.spotify.com/album/6I860lOEvHfcHKD7qkFhfB) | 3:13 | 2023-02-19 |  |
 | [Rasputin](https://open.spotify.com/track/0W43LnKXzRivi0WPaoBLVO) | [Turisas](https://open.spotify.com/artist/0ykT1si9XRFPmEvWOnf4YI) | [Rasputin](https://open.spotify.com/album/5nUmL2EDOT3uoZQJOC2kYC) | 3:53 | 2023-02-19 |  |
 | [Raven's Flight](https://open.spotify.com/track/1Kjt2A5PjTSQO8n9wR7Nr9) | [Mob Rules](https://open.spotify.com/artist/13dxEWLoiRvGU1MK4nVUj4) | [Raven's Flight](https://open.spotify.com/album/3qjk9aZ92i9bDJCon9Xmlz) | 5:14 | 2022-05-25 | 2022-07-22 |
+| [Rebel Yell](https://open.spotify.com/track/2nbXgSw0D7llrE4N06FZcQ) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Rebels](https://open.spotify.com/album/1rtB3hzE9dbjJMP7dYy9rF) | 4:38 | 2023-06-22 |  |
 | [Remember Tomorrow](https://open.spotify.com/track/3f8ABUkSOvkpNHahBXBEA9) | [Opeth](https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E) | [My Arms, Your Hearse](https://open.spotify.com/album/4b7oroZfX3w5vaRaotvr6p) | 4:59 | 2022-05-25 | 2022-10-20 |
 | [Renegades](https://open.spotify.com/track/5oai3wfiVVahpFM7DGabRP) | [36 Crazyfists](https://open.spotify.com/artist/4ijGLY4dzlurDh7jqH3tW7) | [Renegades](https://open.spotify.com/album/46HotxPGrHmNBh9NeqOddy) | 3:28 | 2022-06-13 | 2022-07-29 |
 | [Renegades](https://open.spotify.com/track/66gXuXJx50t2a8XGwhDiHP) | [36 Crazyfists](https://open.spotify.com/artist/4ijGLY4dzlurDh7jqH3tW7) | [Renegades](https://open.spotify.com/album/387RMZLKNvf1s3ZPSIkYCM) | 3:28 | 2022-06-13 | 2023-02-20 |
@@ -134,7 +135,7 @@
 | [Shallow](https://open.spotify.com/track/1jRJ6mZwtu6mBU0FK2LfjH) | [Quor](https://open.spotify.com/artist/2t9O48sGKL9akw6mG879D5) | [Shallow](https://open.spotify.com/album/0lCdXI5pUEQSiUWzzxFczG) | 4:03 | 2022-05-25 | 2022-07-14 |
 | [Shape of You](https://open.spotify.com/track/54SMw8TnDcuieolVRXBmni) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Shape of You](https://open.spotify.com/album/4eYjV7ET5e8iOtyxg5CLNq) | 3:56 | 2023-02-19 |  |
 | [Shock the Monkey](https://open.spotify.com/track/55fRL1pNYMXgxLOHPCfLh5) | [Coal Chamber](https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ) | [Chamber Music](https://open.spotify.com/album/2cgzZlPUtj75UJlktSMbvM) | 3:42 | 2022-05-25 | 2022-10-13 |
-| [Shock the Monkey](https://open.spotify.com/track/5NXTDuDe0BQ8trPWGaE5ih) | [Coal Chamber](https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ) | [Chamber Music](https://open.spotify.com/album/3XqNiYuQRjJ6w3yTnt5B06) | 3:42 | 2022-10-03 |  |
+| [Shock the Monkey](https://open.spotify.com/track/5NXTDuDe0BQ8trPWGaE5ih) | [Coal Chamber](https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ) | [Chamber Music](https://open.spotify.com/album/3XqNiYuQRjJ6w3yTnt5B06) | 3:42 | 2022-10-03 | 2023-07-20 |
 | [Shout 2000](https://open.spotify.com/track/3iTGqLgYo57UjTHAieDOlA) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [The Sickness](https://open.spotify.com/album/6IvosVciDOQ9NAPaKwhtLY) | 4:18 | 2023-02-19 |  |
 | [Show Me How to Live](https://open.spotify.com/track/2idsFS0p8i9YzT3wbiYX5x) | [AVOID](https://open.spotify.com/artist/7rZJ1D1ERxrHNKTWwpZFVU) | [The Songs That Shaped Us](https://open.spotify.com/album/3LceUu4zS6MOGyt5zwjePI) | 5:08 | 2022-05-25 | 2022-07-29 |
 | [Simple Man \- 2005 Remaster](https://open.spotify.com/track/0OKl4ySuPS2VCuB0gby2pj) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Covers](https://open.spotify.com/album/7rLUzHOq0d0mRGGEIqKfli) | 6:20 | 2023-02-19 | 2023-06-23 |

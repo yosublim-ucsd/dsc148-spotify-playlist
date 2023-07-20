@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9?si=3E8PqnRfQVuofi4ElYPgYg">Marizu</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,543 likes - 100 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,636 likes - 100 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,11 +13,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 3 | [Big God](https://open.spotify.com/track/5XrGp2rDnZyJ8WXU9WITJS) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [Buchi](https://open.spotify.com/artist/2acXp50dMwFs1JGzQUxyiS) | [Big God](https://open.spotify.com/album/1jQxpQTljyULGzQIFzU2PP) | 2:30 |
 | 4 | [Higher](https://open.spotify.com/track/2g1hAEomKQ03UXpfgHmhyn) | [Jermaine Edwards](https://open.spotify.com/artist/2wUjzAPBw9nmHPSdyNG87K), [Rushawn](https://open.spotify.com/artist/7rL0vdXxFkfSWJ46p57yfB) | [Higher](https://open.spotify.com/album/1IbthdE8uINCVyFz4ydAGw) | 2:34 |
 | 5 | [Too Special](https://open.spotify.com/track/2Djud9ytT2Vopulu9UmKk7) | [MUNACHi4u](https://open.spotify.com/artist/6xOOLSoOB6VI4n6X5pexao) | [Too Special](https://open.spotify.com/album/737Yr1qi4z6hwtr93ULzl2) | 3:24 |
-| 6 | [Groanings](https://open.spotify.com/track/39tTh4ptwHpq12peX61tYY) | [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [The Purpose](https://open.spotify.com/album/1bEa3iJLg3vYkn7EFFfn16) | 2:50 |
+| 6 | [Groanings](https://open.spotify.com/track/4BJEIAcglJHGTBsIcE2upX) | [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [The Purpose](https://open.spotify.com/album/1LkpGdl7984FchhlXBatS3) | 2:50 |
 | 7 | [Go](https://open.spotify.com/track/34V4ubLVKPz1D4WYofFAvY) | [Still Blessed Music](https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd), [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [Go](https://open.spotify.com/album/1Vkwq1DmsTdpHKlL73bSwQ) | 2:48 |
 | 8 | [Emmanuel](https://open.spotify.com/track/1tF5T1gKPmTB6miKEsEAkA) | [Oba Reengy](https://open.spotify.com/artist/2p8Rrwmp4CLigLFsClVDVC) | [Emmanuel](https://open.spotify.com/album/3dm19G8VEc4IMMcQUCOn13) | 2:50 |
 | 9 | [RANDOM CHAPTER](https://open.spotify.com/track/62YgrP3kKNumc3BVX3rjwD) | [Lesynem Junior](https://open.spotify.com/artist/3wXe3E8A7Lwa1W08cYDsxU), [XLVI K](https://open.spotify.com/artist/25gWj8pjTtslFIsLHx31IT) | [RANDOM CHAPTER](https://open.spotify.com/album/63klHeWXnQ972Rz4jCtEm9) | 2:33 |
-| 10 | [Show Off](https://open.spotify.com/track/0RLtZNOdos0jJupetqD6GX) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Show Off](https://open.spotify.com/album/0pgOlKOERHMPFEHmLuWtvm) | 2:52 |
+| 10 | [Show Off](https://open.spotify.com/track/0RLtZNOdos0jJupetqD6GX) | [Spillz Ochai](https://open.spotify.com/artist/0ASeFVBo2nXByjUoyp1A5q), [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Show Off](https://open.spotify.com/album/0pgOlKOERHMPFEHmLuWtvm) | 2:52 |
 | 11 | [Catapult](https://open.spotify.com/track/2lM86aKtryhryetDt1fhYB) | [GodsNation](https://open.spotify.com/artist/2BSGdWUQycRUSvwojCsymt) | [Catapult](https://open.spotify.com/album/3zvzvISRTz2gBbNS1OjIUB) | 2:52 |
 | 12 | [Ke Tshepile Wena \- Acoustic Mix](https://open.spotify.com/track/3Ic9GoDkUiUm26M4j2NAin) | [Oufadafada](https://open.spotify.com/artist/0YNVwIZzcqd3AAktP7cCA7) | [Ke Tshepile Wena \(Acoustic Mix\)](https://open.spotify.com/album/6rRSVH0OBMMUKzQnItf1x8) | 2:16 |
 | 13 | [Nothing To Something](https://open.spotify.com/track/4IE9nQZmfNXVJCRau4PzTz) | [Grace Tena](https://open.spotify.com/artist/1W2fPbaUIDHflSKOe4S8QT) | [Nothing To Something](https://open.spotify.com/album/7xSHG5Qj1WZJ0ykFgnMwjY) | 4:17 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 31 | [CHADUA KE \(Pray\)](https://open.spotify.com/track/1RyIOET305HXBAPf3FRFWF) | [Minister Exalted](https://open.spotify.com/artist/2x9ZDrAnr2ZN46X0Gl6vqH) | [CHADUA KE \(Pray\)](https://open.spotify.com/album/5zmY88lcHtbHRne0gVY5ET) | 3:53 |
 | 32 | [No Longer a Captive](https://open.spotify.com/track/5zyAK7OFZwRqZbMDh36RJa) | [Dambassador](https://open.spotify.com/artist/0YFiexKRVtVG6tFQHQnLUl) | [No Longer a Captive](https://open.spotify.com/album/5m1WcGJm2uBheVsthub7hE) | 2:04 |
 | 33 | [GLORY HALLELUJAH](https://open.spotify.com/track/6N5dA6NN3qjfRLfWEKQ0xO) | [Freda Amoako](https://open.spotify.com/artist/6v8vcuYA1YfVfRDpss28sE) | [GLORY HALLELUJAH](https://open.spotify.com/album/04sY42oUwBhH6xyYd2hW3w) | 5:58 |
-| 34 | [Big Stepper](https://open.spotify.com/track/72JSWm64YEqWlCfAeFB6Xd) | [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [The Purpose](https://open.spotify.com/album/1bEa3iJLg3vYkn7EFFfn16) | 3:01 |
+| 34 | [Big Stepper](https://open.spotify.com/track/4CGCVuLvSxd1bIC09RMn2F) | [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X) | [The Purpose](https://open.spotify.com/album/1LkpGdl7984FchhlXBatS3) | 3:01 |
 | 35 | [Finally](https://open.spotify.com/track/7kTUNuFGGjLg4diI6mF9UF) | [K Praise](https://open.spotify.com/artist/73UGdLm5P1qECNSFuiP2eV) | [Finally](https://open.spotify.com/album/7tTI3bRn4pE6RGxy7oprSP) | 3:57 |
 | 36 | [Die Een Wat Ek Liefhet](https://open.spotify.com/track/4bNu09KaKRYXcOj5Ehd1Nl) | [RICHELLE GRANT](https://open.spotify.com/artist/5ngimDhvnW2WdAOASWoP9H) | [Die Een Wat Ek Liefhet](https://open.spotify.com/album/0TmmdquKZCcoGHAbNFLRjn) | 4:52 |
 | 37 | [New Dawn](https://open.spotify.com/track/0dfhEF6NFlhFwnBVvZn1nS) | [Tshepho Pale](https://open.spotify.com/artist/4veZUJuVvY2hn4qwpKO3kz) | [New Dawn](https://open.spotify.com/album/6Eh49IYRaoN12x2rd9DoKg) | 4:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 99 | [My Lover](https://open.spotify.com/track/0m0zQyM823lkGBmaPJGr0t) | [Elem C](https://open.spotify.com/artist/6kvQxADMdvRXh2M44dKNbd) | [My Lover](https://open.spotify.com/album/7j6Gaxe0IxFQHR4L2f78z4) | 3:12 |
 | 100 | [Teach Me Lord](https://open.spotify.com/track/7LzTDIYTxezdrlxBO43nkj) | [Frankodaflame](https://open.spotify.com/artist/0YEEOVbWwZ2xnkzphDR0Fy) | [Teach Me Lord](https://open.spotify.com/album/0OkR1TymjDnbSlBxtpayg6) | 4:19 |
 
-Snapshot ID: `MCw4YTNjZGQ1NDk5YmEyZjMxNjAzMTUxYTYxMDRjNWIwYTlkZjMwMTVi`
+Snapshot ID: `MCwwZjNkYmM2YjVkNDIwMjgxOTk5YTExYjNhOTU3MjA2ODQxMWQ3YjE5`

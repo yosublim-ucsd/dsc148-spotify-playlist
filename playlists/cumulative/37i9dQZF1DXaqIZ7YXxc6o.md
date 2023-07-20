@@ -4,7 +4,7 @@
 
 > Future Dance hits\. Cover: Becky Hill
 
-1,013 songs - 2 day 7 hr 53 min
+1,014 songs - 2 day 7 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [7 Minutes In Heaven \- Tyron Hapi Remix](https://open.spotify.com/track/1rgpdZzSVBiCFTDu6HFcNR) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec), [Tyron Hapi](https://open.spotify.com/artist/5aSBbBUbArJfyNKDg4KS1I) | [7 Minutes In Heaven \(Tyron Hapi Remix\)](https://open.spotify.com/album/6BeCmY9Y6oLy86uypv6Xdc) | 3:04 | 2023-06-29 |  |
 | [87 Yams](https://open.spotify.com/track/7weyjwy7ylvA14AQV7PjRQ) | [Mutant Joe](https://open.spotify.com/artist/3qJM7YRQVOYADVj132dyqs), [Apoc Krysis](https://open.spotify.com/artist/5FWqTrWj74TUJLstHwCDQE) | [Collapse](https://open.spotify.com/album/2UFGQuz3ycsUPCTlf2685M) | 4:24 | 2023-03-16 | 2023-04-07 |
 | [A New Day](https://open.spotify.com/track/3atjwnaXAuhLlKwfNYfSVS) | [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [A New Day](https://open.spotify.com/album/7gLxf9O3nzi5itOPEvHsNa) | 3:30 | 2023-06-01 | 2023-06-23 |
+| [A New Day \- VIP Remix](https://open.spotify.com/track/0IaGThDQNXHcA04xIZUrYl) | [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [A New Day \(VIP Remix\)](https://open.spotify.com/album/6iklnOMee08sZyrzEwUH0K) | 5:11 | 2023-07-13 |  |
 | [A New Light](https://open.spotify.com/track/6fn7tlBORXWaSLdACXVkuO) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [A New Light](https://open.spotify.com/album/3ImwhIT7SY1Cndhrdi0SCq) | 4:52 | 2023-03-09 | 2023-03-31 |
 | [Afterparty](https://open.spotify.com/track/4j5UF24fwzvkw6QtNH5YtK) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D) | [Afterparty](https://open.spotify.com/album/18wJD20Y5chJ424ffBdwV6) | 2:40 | 2022-12-08 | 2023-01-20 |
 | [Alegria](https://open.spotify.com/track/1WUgHCBCyORBL7xNgDagWL) | [Dave Winnel](https://open.spotify.com/artist/1K80Wcuuo13i28cVd68mxm) | [Alegria](https://open.spotify.com/album/6ORYPlWMiM54z2yQ5cPjnf) | 2:31 | 2023-06-22 | 2023-07-14 |

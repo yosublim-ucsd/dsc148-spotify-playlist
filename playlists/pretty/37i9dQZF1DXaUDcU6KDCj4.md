@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Blake Mills
 
-[Spotify](https://open.spotify.com/user/spotify) - 790,288 likes - 150 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 790,362 likes - 150 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Sweet Rainbow](https://open.spotify.com/track/3uFjMR6c3fmF6Us3phdVWI) | [Peter One](https://open.spotify.com/artist/0a2PWvcYoeN1ZCzpujQ0qo) | [Come Back To Me](https://open.spotify.com/album/561eKNmfenwaF1fZsVayMv) | 4:06 |
 | 150 | [That's on You, That's on Me](https://open.spotify.com/track/4NKrrhHXSyobZHMImI9izz) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [That's On You, That's On Me](https://open.spotify.com/album/5Ry6LXvOutD0knHfrZr0y0) | 3:09 |
 
-Snapshot ID: `MCxjY2E5MWUwZGQyNmY1OTc5MzZlZTkyMWE2YThkNmFhMjg4OWIzMmQ2`
+Snapshot ID: `MCxlMDhlNjA0OWEzNDM0Nzc5MGU2MDcyMDRlYmQzNWU2YThiMTAyNzky`

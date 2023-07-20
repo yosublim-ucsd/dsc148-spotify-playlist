@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0hXKLIY8EX.md) - [plain]
 
 > New York, Jersey, and Connecticut music breaking waves\. Cover: Coco & Breezy
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,606 likes - 66 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,614 likes - 66 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,10 +69,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc0hXKLIY8EX.md) - [plain]
 | 59 | [Poppin Shit](https://open.spotify.com/track/33cI3hZk8js6E4HIGw7ooy) | [Shani Boni](https://open.spotify.com/artist/1tzZtJUaD3xPSetRFaP5Ae) | [Poppin Shit](https://open.spotify.com/album/3l7sE84xUntHJrR2AXSW7L) | 2:28 |
 | 60 | [Naughty x Nature](https://open.spotify.com/track/20oNyC73DsAKMoHJuHnRGq) | [Rakiyah](https://open.spotify.com/artist/3EaMWS6JZsJwBICEFUsWPR) | [The Cosmic Queen](https://open.spotify.com/album/0LyMsoDZ2yICVL0ubOajgz) | 4:47 |
 | 61 | [Stop Worry!](https://open.spotify.com/track/5YRcm6uXR2Tx8HbPiJz0W9) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU), [Sister Nancy](https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB) | [Beware of the Monkey](https://open.spotify.com/album/52743dknIjnsCqQrKSIX5r) | 2:29 |
-| 62 | [You Got Me](https://open.spotify.com/track/2ZrpCgfRJnyyZVv7nAQACP) | [Lindsay Lucas](https://open.spotify.com/artist/4UZ5np9gtAXfRHR3gBSNVh), [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF), [Keenyn Omari](https://open.spotify.com/artist/30wyy77Ypzxj2B5C0faRS3) | [You Got Me](https://open.spotify.com/album/7iDgveax7vXamFIXemrYMN) | 3:25 |
+| 62 | [You Got Me](https://open.spotify.com/track/5ykfLaErZagVPL1N6movaf) | [Lindsay Lucas](https://open.spotify.com/artist/4UZ5np9gtAXfRHR3gBSNVh), [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF), [Keenyn Omari](https://open.spotify.com/artist/30wyy77Ypzxj2B5C0faRS3) | [Plans](https://open.spotify.com/album/3iWeg1PEveZ3sCs7ixmlFS) | 3:25 |
 | 63 | [Spend It](https://open.spotify.com/track/67r21HpmhEPrnP4HWxnCPw) | [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Spend It](https://open.spotify.com/album/3F1AGZ1Fk12cbw4aVfPS5J) | 3:20 |
 | 64 | [SWEET DISEASE](https://open.spotify.com/track/1Mkmfkox2uJmb29RdF7OF7) | [Tekowa Lakica](https://open.spotify.com/artist/26HeoqIprMyFI8AQZMjqJJ) | [SWEET DISEASE](https://open.spotify.com/album/18lDvKH0U0q4VPAGy3yWRM) | 2:15 |
 | 65 | [Petty](https://open.spotify.com/track/1Tk4wX36rFsZZbwbIsS6t6) | [Liana Banks](https://open.spotify.com/artist/7zE0g2ogqJrvSFW9sQQMBe), [Cleotrapa](https://open.spotify.com/artist/7sgo4MkWeGVIuR6D4cO8oc), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Petty](https://open.spotify.com/album/0Vz0s198pFdXnXtoZDCEtQ) | 3:25 |
 | 66 | [WYA](https://open.spotify.com/track/4K7pG4OeQ3LRDlPFB2ht2Y) | [Steph G](https://open.spotify.com/artist/1AjUSwDb1g2P9RqiCHLVeY) | [WYA](https://open.spotify.com/album/43nmGMEscmLqW5MGa6Sy04) | 1:41 |
 
-Snapshot ID: `MCw1ZTAxNjdkMzg2ODM4NmEzOTRkYjczMzEzNjY1OGVhZTA3ZjM1Yjg3`
+Snapshot ID: `MCxmOTI3YmE0ODYwOGZhMTNiNTI4ZjExNzY4YjIyMTNlNzAzZjAxMzQw`

@@ -1,12 +1,12 @@
 {
   "description": "A playlist of Christian summer camp favorites, past and present.",
-  "num_followers": 7142,
+  "num_followers": 7167,
   "original_name": "Christian Summer Camp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTM0ZDg4OTcwZjM1Y2M2Y2JhYTgyOTJlN2RkZDc1ZmMwYTU1Nzcx",
+  "snapshot_id": "MCw1YTU1YWJiNzA4ZmU1ZDY0NWY3NjcyYzkwMWQ3MjM0ZDAwNGEzNWRm",
   "tracks": [
     {
       "added_at": "2021-06-29 13:36:02",
@@ -499,22 +499,26 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Great Big God",
-        "url": "https://open.spotify.com/album/0Y36IFn8h2NS5afQZXpnTT"
+        "name": "Season One",
+        "url": "https://open.spotify.com/album/0SKZC7cvktjidQLucmftED"
       },
       "artists": [
         {
-          "name": "Vineyard Worship",
-          "url": "https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL"
+          "name": "All Sons & Daughters",
+          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
         },
         {
-          "name": "Vineyard Kids",
-          "url": "https://open.spotify.com/artist/2PwunoNd5k6WstyyC67xhH"
+          "name": "Leslie Jordan",
+          "url": "https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh"
+        },
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
         }
       ],
-      "duration_ms": 171773,
-      "name": "Great Big God",
-      "url": "https://open.spotify.com/track/4vLiBeWve4L9llDzGdpWsM"
+      "duration_ms": 352026,
+      "name": "Brokenness Aside",
+      "url": "https://open.spotify.com/track/6x02A6nSxBWlITXk3vNQmw"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -555,26 +559,22 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
-        "name": "Season One",
-        "url": "https://open.spotify.com/album/0SKZC7cvktjidQLucmftED"
+        "name": "Great Big God",
+        "url": "https://open.spotify.com/album/0Y36IFn8h2NS5afQZXpnTT"
       },
       "artists": [
         {
-          "name": "All Sons & Daughters",
-          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
+          "name": "Vineyard Worship",
+          "url": "https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL"
         },
         {
-          "name": "Leslie Jordan",
-          "url": "https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh"
-        },
-        {
-          "name": "David Leonard",
-          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+          "name": "Vineyard Kids",
+          "url": "https://open.spotify.com/artist/2PwunoNd5k6WstyyC67xhH"
         }
       ],
-      "duration_ms": 352026,
-      "name": "Brokenness Aside",
-      "url": "https://open.spotify.com/track/6x02A6nSxBWlITXk3vNQmw"
+      "duration_ms": 171773,
+      "name": "Great Big God",
+      "url": "https://open.spotify.com/track/4vLiBeWve4L9llDzGdpWsM"
     },
     {
       "added_at": "2021-06-29 13:36:02",
@@ -871,6 +871,22 @@
     {
       "added_at": "2021-06-29 13:36:02",
       "album": {
+        "name": "Sing 'Em Again: Favorite Vacation Bible School Songs for Families, Vol. 7",
+        "url": "https://open.spotify.com/album/2VdzXsV1FBxZT7ytoFLZHV"
+      },
+      "artists": [
+        {
+          "name": "GroupMusic",
+          "url": "https://open.spotify.com/artist/3ds0hlCcgdDJzoG9NgCxbF"
+        }
+      ],
+      "duration_ms": 178155,
+      "name": "The Golden Rule",
+      "url": "https://open.spotify.com/track/4W7djqunY8rq7pphJAdqrb"
+    },
+    {
+      "added_at": "2021-06-29 13:36:02",
+      "album": {
         "name": "Love Like You (Laudr8 Remix)",
         "url": "https://open.spotify.com/album/5JsuVLJIXwJcC1b0QG086M"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 161311,
       "name": "Love Like You (Laudr8 Remix)",
       "url": "https://open.spotify.com/track/2WFOLhpZmDGhl1xmwIIZrJ"
-    },
-    {
-      "added_at": "2021-06-29 13:36:02",
-      "album": {
-        "name": "Sing 'Em Again: Favorite Vacation Bible School Songs for Families, Vol. 7",
-        "url": "https://open.spotify.com/album/2VdzXsV1FBxZT7ytoFLZHV"
-      },
-      "artists": [
-        {
-          "name": "GroupMusic",
-          "url": "https://open.spotify.com/artist/3ds0hlCcgdDJzoG9NgCxbF"
-        }
-      ],
-      "duration_ms": 178155,
-      "name": "The Golden Rule",
-      "url": "https://open.spotify.com/track/4W7djqunY8rq7pphJAdqrb"
     },
     {
       "added_at": "2021-06-29 13:36:02",

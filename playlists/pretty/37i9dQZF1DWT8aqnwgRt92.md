@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 783,539 likes - 85 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 785,550 likes - 85 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 28 | [NAME \(TV Size ver.\)](https://open.spotify.com/track/3va1rkFz1ARYv4TffRBDfo) | [綴](https://open.spotify.com/artist/3HTtTxzWaohRIljJm3SpUB) | [NAME "TV Size ver."](https://open.spotify.com/album/3q9yB2HwObUmITSbTmdMV6) | 1:29 |
 | 29 | [今この瞬間を](https://open.spotify.com/track/3Qws2SXBbgEs1TyLoA1XFC) | [Little Glee Monster](https://open.spotify.com/artist/2N19kPGlqKY8GiyE4DkAtp) | [今この瞬間を](https://open.spotify.com/album/6cdk5VOBLQ2KpYu8ADzPwq) | 3:29 |
 | 30 | [光のない街](https://open.spotify.com/track/4sFFRTI8G2aKOyR8Nzh0VA) | [nano.RIPE](https://open.spotify.com/artist/1GQptL2kOEsfMXerW4OjMT) | [光のない街](https://open.spotify.com/album/6p4k2Cw0pgfk2BuYGmQUkK) | 4:13 |
-| 31 | [ミライ=テレポート](https://open.spotify.com/track/49TwZ7Jm2JUfuW1b0TtqEp) | [ねんね](https://open.spotify.com/artist/6N4L6jhhiQKd4ZPWKxbXFL) | [ミライ=テレポート](https://open.spotify.com/album/2NRZQEaZuHaMfaRzI6Hqpk) | 3:13 |
+| 31 | [Mirai=Teleport](https://open.spotify.com/track/0yNEe6VDJvBxEwzDCkfghN) | [ねんね](https://open.spotify.com/artist/6N4L6jhhiQKd4ZPWKxbXFL) | [Mirai=Teleport](https://open.spotify.com/album/41CiOjakS7smAEqxt8TTIo) | 3:13 |
 | 32 | [PRIDE](https://open.spotify.com/track/6YSiCQPEEEimysown5ad19) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [PRIDE](https://open.spotify.com/album/2NJhxr7Tt12VB7urrMuZmt) | 4:06 |
 | 33 | [憂う門には福来たる](https://open.spotify.com/track/3hjIbf3QrnS9kMV89RwIAK) | [somei](https://open.spotify.com/artist/0tVhHQ4UZHCOsvrd3wf0km) | [憂う門には福来たる](https://open.spotify.com/album/5pOYaTAysK2rjy8sDZ66an) | 4:16 |
 | 34 | [ユリイカ](https://open.spotify.com/track/4uB9A6eZj9ZU5rBT6SNStD) | [ARCANA PROJECT](https://open.spotify.com/artist/33nBmWfW7J3vL487uRL8Cz) | [ユリイカ](https://open.spotify.com/album/2qiU4QUOOJ1shIsurGPehp) | 4:04 |
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 75 | [...and Rescue Me](https://open.spotify.com/track/3v3D4RG9khRQjuJlyWSQOb) | [Rainy。](https://open.spotify.com/artist/2xhw0zn3geEHR4WX62KrAl) | [...and Rescue Me](https://open.spotify.com/album/76iuNXNI3u4JNyPcW8AsPH) | 4:07 |
 | 76 | [Chase Me](https://open.spotify.com/track/1nniq3yLXytUSibE2RUE6X) | [ノラ](https://open.spotify.com/artist/0D1NT8IXN0I2wrbVOb1NNj), [今夜、あの街から](https://open.spotify.com/artist/3CIypr428k5fChS6LK790Y) | [Chase Me](https://open.spotify.com/album/6XO0I9CHE8BpiFEOmFYkmI) | 2:59 |
 | 77 | [LIES GOES ON \- TVsize](https://open.spotify.com/track/5UB5NtHsXFA4DK7gqOsIra) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6) | [LIES GOES ON \(TVsize\)](https://open.spotify.com/album/3hwjiYR55oCUeQZRmw0OG7) | 1:29 |
-| 78 | [サプライズ](https://open.spotify.com/track/0zStZ471xNYcNM4sh5hzIM) | [中島怜](https://open.spotify.com/artist/7pQmC6NNs7KvWfrYKmqPbo) | [TVアニメ「シュガーアップル・フェアリーテイル」第2クールオープニングテーマ サプライズ](https://open.spotify.com/album/1krpjY1aTPLATC48GhTm7C) | 4:25 |
+| 78 | [Surprise](https://open.spotify.com/track/0fkfWgEkwmdDHms0V1JogP) | [中島怜](https://open.spotify.com/artist/7pQmC6NNs7KvWfrYKmqPbo) | [TV Animation "Sugar Apple Fairy Tale" 2nd Season Opening Theme Song "Surprise"](https://open.spotify.com/album/6EE5ge21vW9ehRzFfjFNRl) | 4:25 |
 | 79 | [A NEW DAY](https://open.spotify.com/track/6MLjkhdkMiC3IVpS9205Xf) | [中島由貴](https://open.spotify.com/artist/4VVL5VuNtNn5BhbqASUhj7) | [A NEW DAY](https://open.spotify.com/album/2Ng7IKU01WIZL0NkjYbr5q) | 3:35 |
 | 80 | [バグちゃん](https://open.spotify.com/track/6MjzbRuEpkmP7fwvwaUF4T) | [nasuo](https://open.spotify.com/artist/5ctRwRgDQ0lVKZRI83cMeq) | [バグちゃん\(TVアニメ「聖者無双\~サラリーマン、異世界で生き残るために歩む道\~オープニングテーマ\)](https://open.spotify.com/album/1TuhgrZsLfLks3CRShYoq7) | 3:37 |
 | 81 | [アイム \(feat\. つむぎしゃち\)](https://open.spotify.com/track/792UyynavOCo8iUoD8WcG0) | [夢見クジラ](https://open.spotify.com/artist/0utvO9BKKww2LIPIHiFztn), [つむぎしゃち](https://open.spotify.com/artist/4DwHYRFsgn4OgTzg6rqiBV) | [アイム \(feat\. つむぎしゃち\)](https://open.spotify.com/album/1FWp934PtHYG9EmC3uFZ9F) | 3:13 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [Kakuriyo](https://open.spotify.com/track/5AcpugY3aqM57SLVuTC3If) | [luz](https://open.spotify.com/artist/1i3YSQOJCGYeNKbSjEhqO9) | [Kakuriyo](https://open.spotify.com/album/6G2dCzjkvQTfdS1AtpXCSx) | 3:53 |
 | 85 | [Be as one!!!](https://open.spotify.com/track/3Cil1Zo5OJ9Oo1MVXxwUgG) | [ダイヤ\(CV.小宮有紗\)](https://open.spotify.com/artist/3uys3CJZKoRxBYyxz5dyV1), [ルビィ\(CV.降幡 愛\)](https://open.spotify.com/artist/7i71Jz4xNyVQ9BELptOa2i), [チカ\(CV.伊波杏樹\)](https://open.spotify.com/artist/3ogujBje6P7bPnrjnLrK8g) | [Be as one!!!](https://open.spotify.com/album/5ecRtDo4wKnugST8C9OKNR) | 4:13 |
 
-Snapshot ID: `MCxiY2NhZmY5YjI1Yzk2MzMxOWRmMjQyMGM1N2EwYTc3ODlhZmRjY2Fh`
+Snapshot ID: `MCxhMWRkNjNhNGZhZWY4ODhkMzBiMzhiYWM1YjQ1MWZjNDYxZTk5Zjhm`

@@ -4,7 +4,7 @@
 
 > Beach vibes and summer jams only.
 
-503 songs - 19 hr 23 min
+504 songs - 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,7 +261,7 @@
 | [Loose Waves](https://open.spotify.com/track/1MiNU5skQjRrPIc7WC77PT) | [kanves](https://open.spotify.com/artist/6xICg0uHM8M1I8AXgZcDBy), [middt](https://open.spotify.com/artist/3u78iBx7E3vzHHhc47gdTf) | [Loose Waves](https://open.spotify.com/album/4AS0cbIfDe0OKWEUFNglGx) | 2:06 | 2022-11-25 |  |
 | [Los días grises \(Remix\)](https://open.spotify.com/track/5HS4clb7EG8MeRGybBVPRY) | [Los Bosques](https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG), [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M) | [Remixes lofi del Regional Chill](https://open.spotify.com/album/0zYXLwvBFEYXKJg9bI8YAT) | 2:03 | 2023-06-15 |  |
 | [Lost in Rio](https://open.spotify.com/track/0Zxq7f36EGiRX56FRj64wA) | [middt](https://open.spotify.com/artist/3u78iBx7E3vzHHhc47gdTf) | [Lost in Rio](https://open.spotify.com/album/0cqzGd9WAqOckWYrGjlFBD) | 1:53 | 2022-06-24 | 2022-08-19 |
-| [Lou Fai Cumbia](https://open.spotify.com/track/4ZOUcA0HJ9QFWKKMDNWq7c) | [Ancestral Beats](https://open.spotify.com/artist/5s5I6gLsXrfTFt91nIznYb) | [Lou Fai Cumbia](https://open.spotify.com/album/3h2d994lqrDoh37pDRsoK5) | 2:36 | 2023-05-01 |  |
+| [Lou Fai Cumbia](https://open.spotify.com/track/4ZOUcA0HJ9QFWKKMDNWq7c) | [Ancestral Beats](https://open.spotify.com/artist/5s5I6gLsXrfTFt91nIznYb) | [Lou Fai Cumbia](https://open.spotify.com/album/3h2d994lqrDoh37pDRsoK5) | 2:36 | 2023-05-01 | 2023-07-20 |
 | [Low Key](https://open.spotify.com/track/2rdlNy8ioOeyHNzcgp5lRw) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Low Key](https://open.spotify.com/album/54hYfTvuY6nCGCV8E32qAP) | 2:35 | 2022-05-20 | 2022-11-27 |
 | [Low Key](https://open.spotify.com/track/7C1RaJ1b2WKJZq9Bvrgctj) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Koi Pond, Vol\. 2](https://open.spotify.com/album/4BhevKS4gtXsEUwoyB54ku) | 2:35 | 2022-11-25 |  |
 | [Lucy Dreamer](https://open.spotify.com/track/0JczY880Kt9FviLxsimJd6) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [Luscious](https://open.spotify.com/album/1d5DMrZe0OUFwXOnpnZUQF) | 1:32 | 2022-05-20 | 2023-05-02 |
@@ -474,6 +474,7 @@
 | [Trip Vibe](https://open.spotify.com/track/7K6XMQzUNiLQ3NIhCqBwU4) | [Monzzune](https://open.spotify.com/artist/1RWZV3rPwdheATWccxhAbp) | [Go To Kaua'i](https://open.spotify.com/album/25da3jJUKkKnkkWPL7Ozb8) | 2:14 | 2022-05-20 |  |
 | [Trippy](https://open.spotify.com/track/41V8oTrxIWOK9orYM2Aihk) | [Vice Bertha](https://open.spotify.com/artist/4fQorNG5OR6L1XCK9r1RJX) | [Trippy](https://open.spotify.com/album/3t6EB2gyotpjPcwQlh9s6j) | 2:04 | 2022-05-20 | 2022-07-01 |
 | [Tropical mood](https://open.spotify.com/track/5iFoZkbtZ0XWwMR5jL0sQK) | [Wataru Fujiwara](https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP) | [Tropical mood](https://open.spotify.com/album/7IAFfRZdoVslZYtJTuIaB0) | 1:16 | 2022-07-08 | 2022-09-30 |
+| [Tropics](https://open.spotify.com/track/7CyeuyJTmcqs0OnJJy53wA) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Leo Motta](https://open.spotify.com/artist/6ugB87XnwqEwHL5s6ovPAP), [Bernardo Massot](https://open.spotify.com/artist/64Rw1nS5vpvQHvuy9dKsRY) | [Tropics](https://open.spotify.com/album/7lCUNXvgCJhm6B0suFB0Oe) | 1:46 | 2023-07-19 |  |
 | [Trumpet On The Street](https://open.spotify.com/track/24mMhupEYd9fMpKM60MjVp) | [Turn.](https://open.spotify.com/artist/0EWNopBCU1Smyzg0IhiKVV) | [Trumpet On The Street](https://open.spotify.com/album/62uuJcDaUDeXUIXUbVMDKo) | 1:49 | 2022-05-20 |  |
 | [Try Again](https://open.spotify.com/track/7wrXYrhwg4MfjowXE87GsW) | [Lovetime Rhapsody](https://open.spotify.com/artist/1khPvt8OPAxBnQTIZ0kHJi) | [Sixth Degree](https://open.spotify.com/album/7lD5tqgt3RULe8A2YCSR1h) | 2:42 | 2022-05-20 | 2022-06-17 |
 | [Two Track](https://open.spotify.com/track/4W0IrD2VVLwxfsAgevJRgD) | [Siesta Beats](https://open.spotify.com/artist/7Ij0ol3KymmV235kMWnXiq) | [Two Track](https://open.spotify.com/album/3OdZfcUsE6QkrrVNoMmCLs) | 2:08 | 2022-05-20 |  |

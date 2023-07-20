@@ -4,7 +4,7 @@
 
 > Your go to Afrobeats workout playlist
 
-297 songs - 15 hr 25 min
+298 songs - 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Close Am](https://open.spotify.com/track/0GUwRRC0lE53Hrx5cqRw4S) | [Sheye Banks](https://open.spotify.com/artist/00LOJMXU6GdbTX8cA0RvJr) | [Close Am](https://open.spotify.com/album/5K4pHBWaJpYCh0DtgikpDS) | 2:04 | 2022-02-03 | 2022-07-28 |
 | [Colors \(My Baby\)](https://open.spotify.com/track/0lTUcfkmtQPp6mhjC6EBPq) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Colors \(My Baby\) / Loyal](https://open.spotify.com/album/3BNffda5IHaWQe5YVC986B) | 2:44 | 2023-03-30 |  |
 | [Comment Allez Vous](https://open.spotify.com/track/31rkhdlOuZLNpNseZHPbXS) | [Gerian](https://open.spotify.com/artist/07DL9OVC5jPi0d29RsF7xq), [Jamopyper](https://open.spotify.com/artist/7InYF1yp4vtlnMr1U4D3KZ) | [Comment Allez Vous](https://open.spotify.com/album/3O2folrgcbs5AktzGNpVUr) | 2:37 | 2022-04-28 | 2022-07-26 |
-| [Concussion](https://open.spotify.com/track/4WJaHwTA2AEveZJxycUUyp) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn) | [Concussion](https://open.spotify.com/album/01L0fw4AWHmnE7nAJmhAL9) | 2:37 | 2023-06-30 |  |
+| [Concussion](https://open.spotify.com/track/4WJaHwTA2AEveZJxycUUyp) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn) | [Concussion](https://open.spotify.com/album/01L0fw4AWHmnE7nAJmhAL9) | 2:37 | 2023-06-30 | 2023-07-20 |
 | [Dada](https://open.spotify.com/track/6SLhDU3r8FLmESRyWZypjT) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Dada](https://open.spotify.com/album/0ogWb5mN0ZG6U1aMX7r4ai) | 2:41 | 2022-04-18 | 2023-05-16 |
 | [Dagger](https://open.spotify.com/track/7BO9zcAuosnSwmSsXrgiw5) | [Senth](https://open.spotify.com/artist/0ZMEdbOY3ADh3qbia7kH2b) | [Dagger](https://open.spotify.com/album/5V3eRSdrs84Usrd1XAy39p) | 2:17 | 2023-02-10 | 2023-02-17 |
 | [Dambalektra](https://open.spotify.com/track/5phRz5C0lbK0y6JReywqCl) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [Back 2 Basics](https://open.spotify.com/album/35NrBizEFZV3nxcccD42XB) | 3:31 | 2022-07-25 | 2022-07-29 |
@@ -84,6 +84,7 @@
 | [Ego](https://open.spotify.com/track/6W79tvE9ZPzHtV2wPwwGUT) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Nataraja](https://open.spotify.com/album/70Maw3SbX3PPtRbgHc9VKj) | 3:02 | 2021-11-25 | 2022-08-04 |
 | [Electricity](https://open.spotify.com/track/6McBvfxgkVfREmQPwTKBUn) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Electricity](https://open.spotify.com/album/5vOpDVowekdCylaDIiV5We) | 2:12 | 2022-08-18 |  |
 | [Elon musk](https://open.spotify.com/track/1RnRPPu3XPtftOhs1qF1hY) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Elon musk](https://open.spotify.com/album/2hv0eXQfTmFgNZsEVATG8I) | 3:15 | 2023-04-14 |  |
+| [Elon Musk \- Remix](https://open.spotify.com/track/68KDqjQ5T2gS0Pk47Somna) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Elon Musk \(Remix\)](https://open.spotify.com/album/2ZSLKoKXOUxbCjX7QjWJkV) | 3:24 | 2023-07-14 |  |
 | [Elon Musk \- Remix](https://open.spotify.com/track/0XEWEGM2Y9C4JjiuRPPCRo) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Elon Musk \(Remix\)](https://open.spotify.com/album/4wvbOYAuOweDZZZsGPfpRA) | 3:00 | 2023-05-19 | 2023-06-17 |
 | [Emi Gan Gan](https://open.spotify.com/track/34WqWIoQyIA3hyt16vak0a) | [Meji](https://open.spotify.com/artist/3k78thgo5x5O8rr1kkPdkD), [Vader the Wildcard](https://open.spotify.com/artist/2hqg3nrEdtdSTiMMllWO2w) | [Emi Gan Gan](https://open.spotify.com/album/2A6yifMnyoRH9cbPCMyLl1) | 2:57 | 2022-02-11 | 2022-07-29 |
 | [Empini](https://open.spotify.com/track/2DAox48qc6LqTuujKSdQTf) | [Snow Deep](https://open.spotify.com/artist/31wydQx3Jc53Ql9whp9yP1), [Murumba Pitch](https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4), [DJ THE MXO](https://open.spotify.com/artist/3PE9L43fjymtOSiKNe7zJw) | [Empini](https://open.spotify.com/album/3LwVVWkBDijiVd6CSsEvED) | 5:48 | 2022-06-16 | 2022-07-26 |

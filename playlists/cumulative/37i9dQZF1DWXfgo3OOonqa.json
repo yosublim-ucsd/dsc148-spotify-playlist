@@ -238,7 +238,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 151000,
       "name": "17",
       "url": "https://open.spotify.com/track/0Apl0ndMj1fWIY6rnD7gnY"
@@ -9478,6 +9478,24 @@
     {
       "album": {
         "name": "In My Zone",
+        "url": "https://open.spotify.com/album/1PBx6uXL22msGAgcTckra6"
+      },
+      "artists": [
+        {
+          "name": "Macky",
+          "url": "https://open.spotify.com/artist/7yptUupX4aIIkXwXhggAgk"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161624,
+      "name": "In My Zone",
+      "url": "https://open.spotify.com/track/2qbIOwDRoPbuvahK6Fcghj"
+    },
+    {
+      "album": {
+        "name": "In My Zone",
         "url": "https://open.spotify.com/album/0MQ7E5EP5LqsftGfQyQPLd"
       },
       "artists": [
@@ -13854,7 +13872,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 138790,
       "name": "MONEY TALKS",
       "url": "https://open.spotify.com/track/6pUnTyUta8NreXEufzl2ii"
@@ -16527,6 +16545,28 @@
     },
     {
       "album": {
+        "name": "ROM & BACARDI",
+        "url": "https://open.spotify.com/album/6CaEhxaKnqtw6YzmGkCCH8"
+      },
+      "artists": [
+        {
+          "name": "Boogie dinero",
+          "url": "https://open.spotify.com/artist/5sOVX1TzQHg85L624KEOIH"
+        },
+        {
+          "name": "Jamkid",
+          "url": "https://open.spotify.com/artist/1AXqKV1nhx3eMcHzD5pNVx"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184851,
+      "name": "ROM & BACARDI",
+      "url": "https://open.spotify.com/track/2VCd1yhoWXyUmHcpQGMjqe"
+    },
+    {
+      "album": {
         "name": "ROSA MOLN",
         "url": "https://open.spotify.com/album/1grMSfRmWmCFsZdBvtCv4i"
       },
@@ -17890,6 +17930,32 @@
       "duration_ms": 141178,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/0uhBPPQzwOMXz49eTE2ZhX"
+    },
+    {
+      "album": {
+        "name": "SOSA",
+        "url": "https://open.spotify.com/album/7KbCBotL8Xz5a1WbpC9Q7C"
+      },
+      "artists": [
+        {
+          "name": "Z.E",
+          "url": "https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR"
+        },
+        {
+          "name": "LaStreet",
+          "url": "https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj"
+        },
+        {
+          "name": "ARB",
+          "url": "https://open.spotify.com/artist/3sWngyYPJ6ULlScChuyzUS"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "SOSA",
+      "url": "https://open.spotify.com/track/1LwQ8dJLLxnamr0EhKROax"
     },
     {
       "album": {
@@ -20484,7 +20550,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 160541,
       "name": "Vart Du \u00c4n G\u00e5r",
       "url": "https://open.spotify.com/track/6m7kCRnpgOtCMT3HEeX8g8"

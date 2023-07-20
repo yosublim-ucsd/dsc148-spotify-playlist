@@ -4,7 +4,7 @@
 
 > ☀️ it's a cruuuuueeeel summer ☀️ if you didnt get taylor swift tickets
 
-1,147 songs - 2 day 12 hr 9 min
+1,148 songs - 2 day 12 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -694,8 +694,8 @@
 | [Nail Tech](https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Nail Tech](https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP) | 3:26 | 2022-05-19 |  |
 | [Naked](https://open.spotify.com/track/1aXWzWjj5Lchfm44Uet9nZ) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Naked](https://open.spotify.com/album/35iaaK92DEDLcnG0aeG6iR) | 2:47 | 2022-05-19 |  |
 | [Narcissist](https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Narcissist](https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr) | 2:52 | 2022-07-28 |  |
-| [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/track/23bkmqAXxuId9FaUJvrP29) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/album/3OCnOKuifIlUkYkCaqlHfd) | 1:50 | 2023-05-04 | 2023-06-18 |
 | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/track/6lDJ0CkQ6LdQv5EUQ39rpg) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/album/10o52EY3moL562KKhd3Cet) | 1:50 | 2023-06-15 |  |
+| [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/track/23bkmqAXxuId9FaUJvrP29) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [NARCISSISTIC PERSONALITY DISORDER](https://open.spotify.com/album/3OCnOKuifIlUkYkCaqlHfd) | 1:50 | 2023-05-04 | 2023-06-18 |
 | [Nasty](https://open.spotify.com/track/1cQUCRdsZTnZtK9dD6u6ZD) | [adqm](https://open.spotify.com/artist/6Dbu7taFfsSGE3HhmRV1PA) | [Horny.4U \(From the Vault\)](https://open.spotify.com/album/2Wk7Ljl69U9X28a92GiTsG) | 2:15 | 2022-11-08 | 2022-11-10 |
 | [Nasty](https://open.spotify.com/track/2eWeACOtxwaVMfIhYBsAid) | [Ayesha Erotica](https://open.spotify.com/artist/6TMGw1UYn6DFEtn2f9mv8J) | [www.FuckMe.com](https://open.spotify.com/album/1b0DzzjaWd5PXhgcMvV6WT) | 2:15 | 2022-05-19 | 2022-10-24 |
 | [Nasty](https://open.spotify.com/track/5vQVca1ShutehX51ewkuPN) | [Ayesha Nicole Smith](https://open.spotify.com/artist/3rYlF5arfhYwRbxmNcicat), [Fraser](https://open.spotify.com/artist/0mDpXFOFb3Gz2sabUfP2Ka) | [www.FuckMe.com \(Deluxe\)](https://open.spotify.com/album/3r3s52Mk0KkwegBofKxAMr) | 2:14 | 2022-05-19 | 2023-01-06 |
@@ -763,7 +763,8 @@
 | [One Kiss X I Was Never There](https://open.spotify.com/track/7pFDzZ3YKWT3JcpcXzbrCS) | [Just Lowkey](https://open.spotify.com/artist/5dSbMNdPisHKz5waAlBGZ3) | [One Kiss X I Was Never There](https://open.spotify.com/album/6Gp1Tq29N4mPsCzFZTaYjQ) | 2:51 | 2022-09-15 | 2022-10-21 |
 | [One Kiss X I Was Never There](https://open.spotify.com/track/3twCduqZO2QJBSo0TveKSW) | [mxmy](https://open.spotify.com/artist/2b8lTkinW4n1MGXR6MTxYH) | [One Kiss X I Was Never There](https://open.spotify.com/album/7HcLFpwaJv1p6LPnHIaSMI) | 2:51 | 2023-03-09 | 2023-03-18 |
 | [One Kiss X I Was Never There \- Remix](https://open.spotify.com/track/6hSsTpn4DySkriItvjMRHJ) | [DJ Fronteo](https://open.spotify.com/artist/7bfMpDDy8DCZ0a3zU9p4X0), [Xanemusic](https://open.spotify.com/artist/6QSOpFwMSqDj21HVu34Wm1) | [One Kiss X I Was Never There](https://open.spotify.com/album/4YP2CvdJxP74ZJzjsWTMjr) | 2:51 | 2022-10-06 | 2022-10-26 |
-| [One Margarita \(Margarita Song\)](https://open.spotify.com/track/5YXLjznHYr6US2UN54AjRD) | [That Chick Angel](https://open.spotify.com/artist/3qhkjSaDQrlZVAg0hvVYfh), [Casa Di](https://open.spotify.com/artist/1yFh88WSoMOObwLi5GUwRp), [Steve Terrell](https://open.spotify.com/artist/0gmg6AYgqIGfQ0dVyr951p) | [One Margarita \(Margarita Song\)](https://open.spotify.com/album/5QYYGCtwz22XiUzuH1mA4G) | 1:59 | 2023-06-15 |  |
+| [One Margarita \(Margarita Song\)](https://open.spotify.com/track/17Um25RxAOpc2NgtDiYKl9) | [That Chick Angel](https://open.spotify.com/artist/3qhkjSaDQrlZVAg0hvVYfh), [Casa Di](https://open.spotify.com/artist/1yFh88WSoMOObwLi5GUwRp), [Steve Terrell](https://open.spotify.com/artist/0gmg6AYgqIGfQ0dVyr951p) | [One Margarita \(Margarita Song\)](https://open.spotify.com/album/60Prz6L3vopKOjd1RXLV1K) | 1:58 | 2023-07-14 |  |
+| [One Margarita \(Margarita Song\)](https://open.spotify.com/track/5YXLjznHYr6US2UN54AjRD) | [That Chick Angel](https://open.spotify.com/artist/3qhkjSaDQrlZVAg0hvVYfh), [Casa Di](https://open.spotify.com/artist/1yFh88WSoMOObwLi5GUwRp), [Steve Terrell](https://open.spotify.com/artist/0gmg6AYgqIGfQ0dVyr951p) | [One Margarita \(Margarita Song\)](https://open.spotify.com/album/5QYYGCtwz22XiUzuH1mA4G) | 1:59 | 2023-06-15 | 2023-07-20 |
 | [One More Hour](https://open.spotify.com/track/0mO6oS60RST2sWmN2FKknP) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 7:12 | 2022-07-04 |  |
 | [One of the Guys](https://open.spotify.com/track/4jXEvctpjLM9moyDwG8SGp) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [One of the Guys](https://open.spotify.com/album/3PMqsg6TJ2AaTCA00Y7Sjb) | 1:58 | 2022-09-01 |  |
 | [Only Love Can Hurt Like This](https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [A Perfect Contradiction \(Outsiders' Expanded Edition\)](https://open.spotify.com/album/3jRG3qOfsSSW3SBdeBiIfC) | 3:52 | 2022-05-19 |  |

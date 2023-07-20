@@ -1,12 +1,12 @@
 {
   "description": "Sin ataduras, pero con amor: la medida justa de romance independiente.",
-  "num_followers": 101925,
+  "num_followers": 101951,
   "original_name": "Amor Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjgxYzhiZGFlNzdiOGMwYTFmODEzNzY5YTE0M2ZiMGM1YzUxOGNh",
+  "snapshot_id": "MCxmNjYzNWRlOTgzMzc0MDFhZThlMzdlMTMxMWUxNTkxYTk3NTZiNzFk",
   "tracks": [
     {
       "added_at": "2023-07-14 03:00:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/0MLSi95me9YKHGrNdIVfXQ"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 204653,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/5nasO0nXcUNWriFdJR9Lp5"
-    },
-    {
-      "added_at": "2023-07-14 03:00:00",
-      "album": {
         "name": "Un Vaso de Agua",
         "url": "https://open.spotify.com/album/6mUautkWmj3z5Q1FJ68tUN"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 88957,
       "name": "Si No Es As\u00ed",
       "url": "https://open.spotify.com/track/687EDCtBggHXjS1HxfILjB"
+    },
+    {
+      "added_at": "2023-07-14 03:00:00",
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/0MLSi95me9YKHGrNdIVfXQ"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 204653,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/5nasO0nXcUNWriFdJR9Lp5"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
+        "name": "odio esta casa (cuando te vas)",
+        "url": "https://open.spotify.com/album/13BfMjOrCPVMQsaz89js8b"
+      },
+      "artists": [
+        {
+          "name": "Carlos Colosio",
+          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
+        }
+      ],
+      "duration_ms": 194048,
+      "name": "odio esta casa (cuando te vas)",
+      "url": "https://open.spotify.com/track/2gz0jf6QA7EhF8P29AUYbE"
+    },
+    {
+      "added_at": "2023-07-14 03:00:00",
+      "album": {
         "name": "Abriendo Latidos",
         "url": "https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 177368,
       "name": "Sue\u00f1o Tsunami",
       "url": "https://open.spotify.com/track/7sPvkpfMRl16G1AyYfNdtI"
-    },
-    {
-      "added_at": "2023-07-14 03:00:00",
-      "album": {
-        "name": "odio esta casa (cuando te vas)",
-        "url": "https://open.spotify.com/album/13BfMjOrCPVMQsaz89js8b"
-      },
-      "artists": [
-        {
-          "name": "Carlos Colosio",
-          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
-        }
-      ],
-      "duration_ms": 194048,
-      "name": "odio esta casa (cuando te vas)",
-      "url": "https://open.spotify.com/track/2gz0jf6QA7EhF8P29AUYbE"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -1591,6 +1591,26 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
+        "name": "Verano en Invierno",
+        "url": "https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5"
+      },
+      "artists": [
+        {
+          "name": "un muerto mas",
+          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
+        },
+        {
+          "name": "Renata Di Croce",
+          "url": "https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr"
+        }
+      ],
+      "duration_ms": 187653,
+      "name": "Puente",
+      "url": "https://open.spotify.com/track/6XzNlsxA4RMUWgYC0GP5aq"
+    },
+    {
+      "added_at": "2023-07-14 03:00:00",
+      "album": {
         "name": "T\u00fa Me Llevas",
         "url": "https://open.spotify.com/album/4JjieslqBeHEzoKD9259l0"
       },
@@ -1603,26 +1623,6 @@
       "duration_ms": 263650,
       "name": "T\u00fa Me Llevas",
       "url": "https://open.spotify.com/track/2aC2w4iVxpRjbUd9BDIa2y"
-    },
-    {
-      "added_at": "2023-07-14 03:00:00",
-      "album": {
-        "name": "Bailemos en la Sala",
-        "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
-      },
-      "artists": [
-        {
-          "name": "Adrian Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
-        },
-        {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
-        }
-      ],
-      "duration_ms": 216771,
-      "name": "Inteligencia Emocional",
-      "url": "https://open.spotify.com/track/2xCkOU6IDhwkOIcHO8wNNa"
     },
     {
       "added_at": "2023-07-14 03:00:00",
@@ -1643,22 +1643,22 @@
     {
       "added_at": "2023-07-14 03:00:00",
       "album": {
-        "name": "Verano en Invierno",
-        "url": "https://open.spotify.com/album/54NK5gk2Gx0fkycE2hUiM5"
+        "name": "Bailemos en la Sala",
+        "url": "https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W"
       },
       "artists": [
         {
-          "name": "un muerto mas",
-          "url": "https://open.spotify.com/artist/31BzLsWVOEfGQTDIe6atC0"
+          "name": "Adrian Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
         },
         {
-          "name": "Renata Di Croce",
-          "url": "https://open.spotify.com/artist/7AtG4USGdk9CSUcYD8lsdr"
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
         }
       ],
-      "duration_ms": 187653,
-      "name": "Puente",
-      "url": "https://open.spotify.com/track/6XzNlsxA4RMUWgYC0GP5aq"
+      "duration_ms": 216771,
+      "name": "Inteligencia Emocional",
+      "url": "https://open.spotify.com/track/2xCkOU6IDhwkOIcHO8wNNa"
     },
     {
       "added_at": "2023-07-14 03:00:00",

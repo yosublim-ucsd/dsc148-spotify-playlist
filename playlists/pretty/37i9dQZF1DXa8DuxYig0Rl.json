@@ -1,12 +1,12 @@
 {
   "description": "Tropical y refrescante. Con todo el sabor y tradici\u00f3n de M\u00e9xico.",
-  "num_followers": 19503,
+  "num_followers": 19522,
   "original_name": "Aguas Frescas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZmQ0NTViMDhmOGZjNjJmZmM2MjhjZWZjMjMwNTQ0MGZkZjhiMGNj",
+  "snapshot_id": "MCxjNTliZTY2ZTBjYWM4YTFhN2U3ZWY2ZjQ1MDEwYmUyMmVlY2FkNTE2",
   "tracks": [
     {
       "added_at": "2023-01-23 22:42:50",
@@ -191,22 +191,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Recordando Monterrey",
-        "url": "https://open.spotify.com/album/2n1CryXhnIVXisogTOd9JF"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 131013,
-      "name": "La Mucura",
-      "url": "https://open.spotify.com/track/43dLqTZtCewH26WBJdQZUS"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "'S Continental",
         "url": "https://open.spotify.com/album/2od6E7Hj5mVWeslfsRjtxq"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 153333,
       "name": "Tico-Tico",
       "url": "https://open.spotify.com/track/2vMWnjMI89KfMKhvUq4OnP"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "Recordando Monterrey",
+        "url": "https://open.spotify.com/album/2n1CryXhnIVXisogTOd9JF"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 131013,
+      "name": "La Mucura",
+      "url": "https://open.spotify.com/track/43dLqTZtCewH26WBJdQZUS"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -547,22 +547,18 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Canta Celia Cruz",
-        "url": "https://open.spotify.com/album/6fARm1KlseDeikTw6xYIop"
+        "name": "Serie Platino",
+        "url": "https://open.spotify.com/album/3fKm1pACTYGNXT5jWyYtYL"
       },
       "artists": [
         {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        },
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
         }
       ],
-      "duration_ms": 160866,
-      "name": "Burundanga",
-      "url": "https://open.spotify.com/track/396apIIwi2la2MY4vWDxOM"
+      "duration_ms": 173933,
+      "name": "Bonito y Sabroso",
+      "url": "https://open.spotify.com/track/2VdeSD30CXVoAKU4xHMBfV"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -583,18 +579,18 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Serie Platino",
-        "url": "https://open.spotify.com/album/3fKm1pACTYGNXT5jWyYtYL"
+        "name": "Popurries Tropicales Con Las Mejores",
+        "url": "https://open.spotify.com/album/2ZUWvcCfxghvKHugtjL1nH"
       },
       "artists": [
         {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+          "name": "Marimba Chiapas",
+          "url": "https://open.spotify.com/artist/4VLiwcutCWaTpmp2BnCjw5"
         }
       ],
-      "duration_ms": 173933,
-      "name": "Bonito y Sabroso",
-      "url": "https://open.spotify.com/track/2VdeSD30CXVoAKU4xHMBfV"
+      "duration_ms": 394213,
+      "name": "Popurri De Cumbias",
+      "url": "https://open.spotify.com/track/2Gm648VRiqOG6kp0tmN6Ka"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -615,18 +611,22 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Popurries Tropicales Con Las Mejores",
-        "url": "https://open.spotify.com/album/2ZUWvcCfxghvKHugtjL1nH"
+        "name": "Canta Celia Cruz",
+        "url": "https://open.spotify.com/album/6fARm1KlseDeikTw6xYIop"
       },
       "artists": [
         {
-          "name": "Marimba Chiapas",
-          "url": "https://open.spotify.com/artist/4VLiwcutCWaTpmp2BnCjw5"
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 394213,
-      "name": "Popurri De Cumbias",
-      "url": "https://open.spotify.com/track/2Gm648VRiqOG6kp0tmN6Ka"
+      "duration_ms": 160866,
+      "name": "Burundanga",
+      "url": "https://open.spotify.com/track/396apIIwi2la2MY4vWDxOM"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
-        "name": "Antolog\u00eda. . .Marimba Cuquita de los Hermanos Narvaez",
-        "url": "https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb"
-      },
-      "artists": [
-        {
-          "name": "Marimba Cuquita de los Hermanos Narvaez",
-          "url": "https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm"
-        }
-      ],
-      "duration_ms": 188946,
-      "name": "Pancha Baila en Turcos",
-      "url": "https://open.spotify.com/track/5PIPXjmhd1sApWvtnS4bKP"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
         "name": "Matamoros Querido",
         "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 191733,
       "name": "Vereda Tropical",
       "url": "https://open.spotify.com/track/6lno3T1Mgtr2Xt28nWVmUP"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
+        "name": "Antolog\u00eda. . .Marimba Cuquita de los Hermanos Narvaez",
+        "url": "https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb"
+      },
+      "artists": [
+        {
+          "name": "Marimba Cuquita de los Hermanos Narvaez",
+          "url": "https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm"
+        }
+      ],
+      "duration_ms": 188946,
+      "name": "Pancha Baila en Turcos",
+      "url": "https://open.spotify.com/track/5PIPXjmhd1sApWvtnS4bKP"
     },
     {
       "added_at": "2023-01-23 22:42:50",
@@ -971,6 +971,34 @@
     {
       "added_at": "2023-01-23 22:42:50",
       "album": {
+        "name": "Mariachi Vol. 2",
+        "url": "https://open.spotify.com/album/12k9uBRmZFFLMajKtlNKDu"
+      },
+      "artists": [
+        {
+          "name": "Mexican Music Factory",
+          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
+        },
+        {
+          "name": "Luis Alberto Ballesteros",
+          "url": "https://open.spotify.com/artist/3Yy1uofnPXBT03X7ZQBkg4"
+        },
+        {
+          "name": "Domingo Suarez",
+          "url": "https://open.spotify.com/artist/6keBbpvKC7Wrdq6x7ufCvx"
+        },
+        {
+          "name": "Julio Jaramillo",
+          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
+        }
+      ],
+      "duration_ms": 105117,
+      "name": "Huapango 2 El Violin",
+      "url": "https://open.spotify.com/track/72yAnJRLVJOjim7NUHa9XO"
+    },
+    {
+      "added_at": "2023-01-23 22:42:50",
+      "album": {
         "name": "12 Grandes exitos Vol. 2",
         "url": "https://open.spotify.com/album/7c4ECJUWnywBDAosMT4jhK"
       },
@@ -1003,34 +1031,6 @@
       "duration_ms": 176706,
       "name": "Yerbero Moderno",
       "url": "https://open.spotify.com/track/6DIjVmwlgVdSdHAYSkS5ga"
-    },
-    {
-      "added_at": "2023-01-23 22:42:50",
-      "album": {
-        "name": "Mariachi Vol. 2",
-        "url": "https://open.spotify.com/album/12k9uBRmZFFLMajKtlNKDu"
-      },
-      "artists": [
-        {
-          "name": "Mexican Music Factory",
-          "url": "https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb"
-        },
-        {
-          "name": "Luis Alberto Ballesteros",
-          "url": "https://open.spotify.com/artist/3Yy1uofnPXBT03X7ZQBkg4"
-        },
-        {
-          "name": "Domingo Suarez",
-          "url": "https://open.spotify.com/artist/6keBbpvKC7Wrdq6x7ufCvx"
-        },
-        {
-          "name": "Julio Jaramillo",
-          "url": "https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8"
-        }
-      ],
-      "duration_ms": 105117,
-      "name": "Huapango 2 El Violin",
-      "url": "https://open.spotify.com/track/72yAnJRLVJOjim7NUHa9XO"
     },
     {
       "added_at": "2023-01-23 22:42:50",

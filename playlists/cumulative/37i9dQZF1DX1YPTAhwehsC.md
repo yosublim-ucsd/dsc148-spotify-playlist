@@ -4,7 +4,7 @@
 
 > Up and down I\-95\. Cover: Lil Uzi Vert
 
-741 songs - 1 day 9 hr 52 min
+741 songs - 1 day 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -646,7 +646,7 @@
 | [Tear Gas \(feat\. Rick Ross & Lil Wayne\)](https://open.spotify.com/track/5UHGymgm6Okr0oSQOuFNiF) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [God Don't Make Mistakes](https://open.spotify.com/album/4w1BBgCcUVv54r3zJenKpG) | 4:13 | 2022-02-25 | 2022-04-02 |
 | [Telfy](https://open.spotify.com/track/4vj1VHAC9n8ZodCqdnauS7) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Telfy](https://open.spotify.com/album/6jzTgp5UKMbNgqbTbKbDZo) | 3:07 | 2022-10-14 | 2023-03-25 |
 | [Tell 'Em](https://open.spotify.com/track/6IuN5rqcAeHmzK5d5r0RWL) | [Rah Swish](https://open.spotify.com/artist/4FeLiFUPdxVfFo8oOfA4BH) | [Tell 'Em](https://open.spotify.com/album/3c2WIynmh2CpSvLz96KpKI) | 1:59 | 2022-05-06 | 2022-07-02 |
-| [TELL ME IM RIGHT](https://open.spotify.com/track/2ltbtk62BGf7AoWeVJYv72) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [TELL ME IM RIGHT](https://open.spotify.com/album/1nSlBADZLhwU0DlaNLU6MD) | 2:26 | 2023-05-05 |  |
+| [TELL ME IM RIGHT](https://open.spotify.com/track/2ltbtk62BGf7AoWeVJYv72) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [TELL ME IM RIGHT](https://open.spotify.com/album/1nSlBADZLhwU0DlaNLU6MD) | 2:47 | 2023-05-05 |  |
 | [That's It](https://open.spotify.com/track/6rMjVOGsrCVxqzlNAQQ0oP) | [Chinese Kitty](https://open.spotify.com/artist/6x3iaJYt5zLqKIfkrPQme9) | [That's It](https://open.spotify.com/album/00o8yMI5PN6DtEVz1iTkDm) | 2:28 | 2023-06-30 |  |
 | [THE BOOK OF ENOCH](https://open.spotify.com/track/038prP9D2SiSkE3RiDmkwa) | [Armani Jordan](https://open.spotify.com/artist/4IkyakBhoNUodZezlgxHmR) | [THE BOOK OF ENOCH](https://open.spotify.com/album/4HUGjaDcWNBQjMgMSCWKXo) | 2:29 | 2023-03-10 | 2023-04-22 |
 | [The Chosen](https://open.spotify.com/track/1Zo6ZeUSMDTrYICaunEW4y) | [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS), [Jae Skeese](https://open.spotify.com/artist/4DaFgJf7fynXYWpmyVnkAZ) | [The Chosen](https://open.spotify.com/album/1Xbrko0o19AaO2GzsNbWRE) | 2:55 | 2023-04-28 | 2023-07-01 |

@@ -4,7 +4,7 @@
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-276 songs - 15 hr 33 min
+277 songs - 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [31](https://open.spotify.com/track/4oBmGC76HpltDdr0mx2h2i) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht), [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [31](https://open.spotify.com/album/1gG4FphDb3kinYZ4oaEtu0) | 3:06 | 2022-05-03 | 2022-05-30 |
 | [A Night like tonight](https://open.spotify.com/track/6gmxkkVLw51az4M9a1tL49) | [BY THE MOON](https://open.spotify.com/artist/2g5MOIN60s8JoTb5sEeMNE) | [A Night like tonight](https://open.spotify.com/album/3GVYtIrETuLWBoLhfNVLD1) | 3:49 | 2022-04-12 | 2022-05-15 |
 | [About](https://open.spotify.com/track/1GDqEr1WJxWSTYfAbfa6af) | [SoKuen](https://open.spotify.com/artist/2Tgcxy7vxvGdplDC8P93ZG) | [MBTIng \(Original Soundtrack\)](https://open.spotify.com/album/66pnxv8pCPQR9dLQYBVJFY) | 2:42 | 2022-05-11 | 2022-06-10 |
-| [about you](https://open.spotify.com/track/4MYFwF0xZNoUjzVZDtuNMN) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [SOULBYSEL Compilation 04](https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm) | 2:35 | 2023-02-14 |  |
+| [about you](https://open.spotify.com/track/4MYFwF0xZNoUjzVZDtuNMN) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [SOULBYSEL Compilation 04](https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm) | 2:35 | 2023-02-14 | 2023-07-20 |
 | [Accent \(feat\. Leellamarz\)\[prod\. TOIL\]](https://open.spotify.com/track/7yEaRhLVtJWL37DSyMcWbi) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [Xydo](https://open.spotify.com/artist/0vcbn6MqAvgM8Gh6wh8d6X), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [DESSERT TAPE](https://open.spotify.com/album/28RGMQyntnzOoRtp0x9WXv) | 2:47 | 2022-07-04 | 2022-07-23 |
 | [After Love \(feat\. Han Yo Han\)](https://open.spotify.com/track/6Abz3v8mRTS9NJlyzLQIID) | [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb), [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P) | [After Love](https://open.spotify.com/album/4vAmITEtZcLh6BoB4THvcz) | 3:08 | 2023-01-26 | 2023-02-15 |
 | [AFTER THE LIGHT](https://open.spotify.com/track/7CAlzZZI89CpcNgw0rTIHh) | [YEJUN](https://open.spotify.com/artist/44YDdiwbvzPtVvKOA6uWS7) | [AFTER THE LIGHT](https://open.spotify.com/album/0o5EHrWY8OhObL2HwHNGpv) | 3:14 | 2022-04-12 | 2022-04-21 |
@@ -268,6 +268,7 @@
 | [With me](https://open.spotify.com/track/2MS6xZ1HG8Mur5AGrvuVUG) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [The Interest of Love \(Original Television Soundtrack, Pt\. 5\)](https://open.spotify.com/album/1g5n1707yYQ67EZHD8E65Q) | 3:46 | 2023-01-26 | 2023-05-17 |
 | [with you \(feat\. g0nny\)](https://open.spotify.com/track/32CXBkgJ0rRsvEvBPT5bYP) | [KOREA CRACKER](https://open.spotify.com/artist/0SciAzspUVXo1F4txGErsz), [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [with you \(feat\. g0nny\)](https://open.spotify.com/album/38jEKpk2q846icctNoaDKk) | 2:59 | 2023-07-07 | 2023-07-18 |
 | [Yeonnam\-dong \(feat\. lIlBOI\)](https://open.spotify.com/track/0A6CcQQ6Sa9MWqgjoSD8dL) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [it’s not your fault](https://open.spotify.com/album/1U0HUoza6VIPzqMIQL2BOw) | 3:32 | 2022-04-12 | 2022-07-24 |
+| [YOU AND I](https://open.spotify.com/track/1B82Lto0ciRfVwtTG3scSl) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [YOU AND I](https://open.spotify.com/album/5YK3qLjNjkCNx3OzQf5oIV) | 2:41 | 2023-07-17 |  |
 | [Your Dog Loves You](https://open.spotify.com/track/2XdyebP7KxClMOse2C5iyA) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Your Dog Loves You](https://open.spotify.com/album/2v90Yfew0Ajn5tXzxVhixI) | 4:30 | 2022-04-12 | 2022-07-29 |
 | [Your Dog Loves You \(Feat\. Crush\)](https://open.spotify.com/track/72cq3rZCIEYaq1TM8y5LBQ) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Your Dog Loves You](https://open.spotify.com/album/1oi1SJqMKp4jKrt3Paw6Tq) | 4:30 | 2022-07-22 |  |
 | [YOUR SONG \(with Lee Jin Ah, Jung Seung Hwan, Kwon Jin Ah\)](https://open.spotify.com/track/1paEGBBeqDYfb9AppAt7BO) | [Sam Kim](https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO) | [I AM SAM](https://open.spotify.com/album/0etVkROh5WOl6OdYqRHPP9) | 4:19 | 2022-04-21 | 2022-07-19 |

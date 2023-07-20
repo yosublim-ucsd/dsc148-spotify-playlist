@@ -1704,7 +1704,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 175764,
       "name": "A True Story",
       "url": "https://open.spotify.com/track/0FTKRr4nxCMdUPJcwJba8U"
@@ -38510,7 +38510,7 @@
       ],
       "date_added": "2022-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 158048,
       "name": "Give It Your All",
       "url": "https://open.spotify.com/track/5mY6A5FzUUVdTHKOom4ao0"
@@ -82950,7 +82950,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 160058,
       "name": "Salamander",
       "url": "https://open.spotify.com/track/7dUsHeAcBqjsMTi44q2mdL"
@@ -88629,6 +88629,24 @@
     },
     {
       "album": {
+        "name": "snowball cookies / burro noturno",
+        "url": "https://open.spotify.com/album/7jlPFVJN7fK02BZg805dsN"
+      },
+      "artists": [
+        {
+          "name": "Wun Two",
+          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "snowball cookies",
+      "url": "https://open.spotify.com/track/6QC1js3atn4g0smYZAySps"
+    },
+    {
+      "album": {
         "name": "SnowBluntz",
         "url": "https://open.spotify.com/album/4RVxBQk27Kmk6Nw7mduUcM"
       },
@@ -90759,6 +90777,24 @@
     },
     {
       "album": {
+        "name": "Spaghetti Effect",
+        "url": "https://open.spotify.com/album/30hw3vJM0yLkAgbQk2wS7j"
+      },
+      "artists": [
+        {
+          "name": "Peter Kind",
+          "url": "https://open.spotify.com/artist/1xMxQQ71TIGQgzH4NY0ECM"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123347,
+      "name": "Spaghetti Effect",
+      "url": "https://open.spotify.com/track/2jARTgsRMCOX9GLkWtkA2b"
+    },
+    {
+      "album": {
         "name": "Sparkelz \u2022 One",
         "url": "https://open.spotify.com/album/1bufVSYXiGv3W2Q7sfFpej"
       },
@@ -92818,6 +92854,24 @@
       "duration_ms": 130675,
       "name": "Stressed Out",
       "url": "https://open.spotify.com/track/428XVwBl5Fb7INjU72Po14"
+    },
+    {
+      "album": {
+        "name": "Stressofobia",
+        "url": "https://open.spotify.com/album/0oyfLqemDqa3uXK2RqeuUu"
+      },
+      "artists": [
+        {
+          "name": "Jimp Dino",
+          "url": "https://open.spotify.com/artist/1FWBtnVOD7fmzw3CG2gMUF"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "Stressofobia",
+      "url": "https://open.spotify.com/track/2lqELlcM5vOPypzwVwGU9B"
     },
     {
       "album": {

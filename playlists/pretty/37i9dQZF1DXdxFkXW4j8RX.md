@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 
 > La casa de lxs MC's\. Foto: Liricistas & Utopiko.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,285 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,305 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 | 23 | [Mi Camino](https://open.spotify.com/track/1YISfPUfbD2tc65QsFxlMT) | [Aerstame](https://open.spotify.com/artist/4L5QHhmkOdVWH91Kz0uLPg) | [Mi Camino](https://open.spotify.com/album/04SyXDhViUd6kJVBNUlfKq) | 3:23 |
 | 24 | [Amor de Rapper](https://open.spotify.com/track/2fVWpipkpZI5Zgpke12llF) | [Gran Rah](https://open.spotify.com/artist/6JjrF0EnCW3Ylj9gj3FXWZ), [Negro Sambo](https://open.spotify.com/artist/44D02T0aBZrnN7GKfB3VUk) | [Amor de Rapper](https://open.spotify.com/album/1BYbc7WeVIRr0SUCuxb7tW) | 3:31 |
 | 25 | [Hiphappy](https://open.spotify.com/track/4goIF0403hV5cXIPCZLCZ1) | [El Shaaki](https://open.spotify.com/artist/2ZCkSpm5VDWVqcO0DZJ7mu), [Nitro MC](https://open.spotify.com/artist/6fIgIbebL9YH2ZdRxur04y), [Donexprs](https://open.spotify.com/artist/6pAMH90rLFZxt5Vs5gVaCl), [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7), [Jimmy Fernandez](https://open.spotify.com/artist/0hkrROFgoSJxVamfIFyYdy), [Lechero Mon](https://open.spotify.com/artist/5M9hvwevD5Aax121KCeKPd), [Crea Beatbox](https://open.spotify.com/artist/50E6jiZFUumitVaBGH9kn2), [Sponer](https://open.spotify.com/artist/4m9HAF7gjrUC5WvteEXQQ3), [Gedos](https://open.spotify.com/artist/2OctHyTM4ghQ8WA2cB1cRQ) | [Is Back](https://open.spotify.com/album/7tGgQ1L2qr81Uw13k9UkDo) | 6:32 |
-| 26 | [MIS DESEOS \(feat\. Julianno Sosa\)](https://open.spotify.com/track/1vdSR8g0hmQ1V6iWx1XHCb) | [Jonas Sanche](https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9), [JOSE SPAACE](https://open.spotify.com/artist/2rNJ5aQFR3gAnEIbpqUtF6), [Lan](https://open.spotify.com/artist/7xWssG0O4bIc1vUhdqMWHg), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [MIS DESEOS \(feat\. Julianno Sosa\)](https://open.spotify.com/album/28oT8tOLNw1eJZ7TRNXLdB) | 3:21 |
+| 26 | [MIS DESEOS \(feat\. Julianno Sosa\)](https://open.spotify.com/track/1vdSR8g0hmQ1V6iWx1XHCb) | [Jonas Sanche](https://open.spotify.com/artist/4ddGNvJbt4sq3OaCCzAPV9), [JOSE SPAACE](https://open.spotify.com/artist/2rNJ5aQFR3gAnEIbpqUtF6), [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [MIS DESEOS \(feat\. Julianno Sosa\)](https://open.spotify.com/album/28oT8tOLNw1eJZ7TRNXLdB) | 3:21 |
 | 27 | [Libro Abierto \- Remix](https://open.spotify.com/track/5QkL07mCaEIJc34kD5RbUJ) | [Lenwa Dura](https://open.spotify.com/artist/6mV5lAVMELv6TOmkSzxjfG), [Sol](https://open.spotify.com/artist/0svIG0axNVK6pUoJtmI6pb) | [Libro Abierto \(Remix\)](https://open.spotify.com/album/6aDQLsdyYqTZjq3g3reNXb) | 2:53 |
 | 28 | [Fénix](https://open.spotify.com/track/3iZ0WTik4dDAdeeG4PUZtl) | [Liricistas](https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc), [Utopiko](https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT) | [Fénix \(Vol.1\)](https://open.spotify.com/album/4q2ZbgZ2tR0g0B0QnQOwse) | 2:46 |
 | 29 | [Rapto](https://open.spotify.com/track/2dBqqsAFDClCcze0nlwx0w) | [Laprea](https://open.spotify.com/artist/4Jjunoh7xu236kwZ7tVMF5), [Abominable](https://open.spotify.com/artist/7mfW3JmDxbXM5LqQgWbzv7), [ĐĐA](https://open.spotify.com/artist/3YSZNXaA6ZKE8WGrw4UTV7) | [Rapto](https://open.spotify.com/album/1MJIj7pfl8NMQjsE5mTH0F) | 3:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 | 99 | [De Donde Vengo](https://open.spotify.com/track/0B7YG0Rd4Jp3IMwaq6mAJL) | [Rapacortes](https://open.spotify.com/artist/4vpADGNWS3zDDxd2hQrOoM), [Kainos Mc](https://open.spotify.com/artist/24GzJuRlLgJhXKlIivLtFx) | [De Donde Vengo](https://open.spotify.com/album/7rmjij4qA9ZnOzZEPAwvAb) | 3:24 |
 | 100 | [III Figura](https://open.spotify.com/track/7aukVJcUSYzvbpyP3LhZwN) | [Como Asesinar a Felipes](https://open.spotify.com/artist/17WostYl0Ep0nyJmA0m2ds) | [III Figura](https://open.spotify.com/album/4zgFIrq7Nxsc5M3GDeax1d) | 3:32 |
 
-Snapshot ID: `MCw0NGYzNzcyMzkyNTJjNGMwNDY3OWU3ZmMwOWUyMjE0ODlhMzRkY2Rj`
+Snapshot ID: `MCw3YzZkNTVmYzQzYWUyNjNlMTQxOGYyNDIyMTk3NWMwMWM2MTNhYTYw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 
 > Nuevo rock alternativo argentino\. <br/>📷 Nina Suárez
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,246 likes - 70 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,255 likes - 70 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX309NIG5AnQn.md) - [plain]
 | 69 | [Hasta Siempre Amigo](https://open.spotify.com/track/2OhfXrj1TUxx6APfMwqHdN) | [Bestia Bebé](https://open.spotify.com/artist/3j7kmtxJ0aptdHr9ZCnEkp) | [Hasta siempre amigo](https://open.spotify.com/album/4cKAM2P37tkDQFkx7J1mNz) | 3:25 |
 | 70 | [Oro y Barro](https://open.spotify.com/track/3n3nEclXD69K27BqpqjXHB) | [Club de Haters](https://open.spotify.com/artist/5ViQWU29kpydoCB1UPAvRC) | [Oro y Barro](https://open.spotify.com/album/15txAv95srdrDAPnK1Clcc) | 3:29 |
 
-Snapshot ID: `MCxlM2UzYjE5NjFjNzg0ZmExNjc0YTEzYjg3YjI2NzM4MDAyNzcxZjFh`
+Snapshot ID: `MCwyYzdlNTJhZDQwYjU0YTM0NjlhMDU0NTI5YmYyMjVhYmE2MjZmOTNl`

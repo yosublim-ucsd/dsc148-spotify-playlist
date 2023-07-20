@@ -155,6 +155,24 @@
     },
     {
       "album": {
+        "name": "Corri Demais",
+        "url": "https://open.spotify.com/album/4Dlj7HusLNSwUWS2URvZIV"
+      },
+      "artists": [
+        {
+          "name": "Cau\u00ea Castro",
+          "url": "https://open.spotify.com/artist/5lAz5CTHn1cuYROHKmoAvB"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178470,
+      "name": "Corri Demais",
+      "url": "https://open.spotify.com/track/4g1YmClJHZJKdPgZkaXKzo"
+    },
+    {
+      "album": {
         "name": "Deixa O Amor Fluir",
         "url": "https://open.spotify.com/album/7DLZbNQrrloT2jeEJJJJmo"
       },
@@ -286,7 +304,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 242948,
       "name": "Flying High",
       "url": "https://open.spotify.com/track/7CJpiMB7cKSuV4BYgtkV6C"

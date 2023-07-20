@@ -4,7 +4,7 @@
 
 > The t\-shirt weather essentials.
 
-423 songs - 23 hr 52 min
+425 songs - 23 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [7/4 \(Shoreline\)](https://open.spotify.com/track/7HGBBNVV200K3WuIxJ561V) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [Broken Social Scene](https://open.spotify.com/album/69aHxu0DOft7YHLp9a0j6F) | 4:53 | 2022-08-18 | 2022-08-26 |
 | [9 to 5](https://open.spotify.com/track/11dudYRtXcIapaSWEC2d9b) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [9 to 5](https://open.spotify.com/album/6rSPXk0OKSmGkFzZgD8wHD) | 3:16 | 2022-03-24 | 2022-07-10 |
 | [>one \- greater than one](https://open.spotify.com/track/3zIcvn5r3QGea6a4M36MQr) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [>one \(greater than one\)](https://open.spotify.com/album/6GLcfMMmFXrfk9ydAjeLop) | 2:10 | 2023-05-25 | 2023-06-24 |
-| [a brief dream of sun](https://open.spotify.com/track/4NnhwPaaRAxYQNjf63jixW) | [dayaway](https://open.spotify.com/artist/6doiARNekKDdYtgBXIE5tX) | [a brief dream of sun](https://open.spotify.com/album/5m0OjAErvHNcREsNbY1SHG) | 3:26 | 2023-06-30 |  |
+| [a brief dream of sun](https://open.spotify.com/track/4NnhwPaaRAxYQNjf63jixW) | [dayaway](https://open.spotify.com/artist/6doiARNekKDdYtgBXIE5tX) | [a brief dream of sun](https://open.spotify.com/album/5m0OjAErvHNcREsNbY1SHG) | 3:26 | 2023-06-30 | 2023-07-20 |
 | [A\-Punk](https://open.spotify.com/track/3AydAydLzyyZutA0375XIz) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:17 | 2023-05-25 |  |
 | [About Work The Dancefloor \- Edit](https://open.spotify.com/track/2VrONWfzJ7aeWPuHSYeFnx) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3) | [About Work The Dancefloor](https://open.spotify.com/album/6PAFEzhZAfHGwzx9NswB0C) | 3:14 | 2022-03-24 | 2022-04-20 |
 | [Acting My Age](https://open.spotify.com/track/3kcX1eNaWhs3uqgwpRWgID) | [The Academic](https://open.spotify.com/artist/3VLf4DlBTN2ZRwygS3TNti) | [Acting My Age](https://open.spotify.com/album/2Ty2YnDFpPDqlclwEeNHVW) | 3:42 | 2021-08-13 | 2023-05-26 |
@@ -119,6 +119,7 @@
 | [Everytime](https://open.spotify.com/track/7KvmxwYZ76UIauFy8jvRIT) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Oblivion!](https://open.spotify.com/album/6y9rLPYIzbyxEAOIV3nXxz) | 3:10 | 2022-04-01 | 2022-06-12 |
 | [Feel Good](https://open.spotify.com/track/60crPH0AEVhi1ZxicgyR0W) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [Feel Good](https://open.spotify.com/album/79V11xrNVRaU5hSNgT2Lrs) | 4:30 | 2022-06-10 | 2022-07-29 |
 | [Feel Good](https://open.spotify.com/track/6JAB3Ip1fJvc0qQjJ72bJa) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [UGLY](https://open.spotify.com/album/0zKG6mYOsobBuhlBqgnGRs) | 2:04 | 2023-03-11 | 2023-05-20 |
+| [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/track/1cFZIDLjGngrmH6lnyprOA) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Roberta Flack](https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA) | [Feel Like Makin' Love \(feat\. Roberta Flack\)](https://open.spotify.com/album/7dCOSRS3SsbW3Uysq5yuHl) | 3:35 | 2023-07-07 |  |
 | [Feels Right](https://open.spotify.com/track/0BWBqb5XxraObLopqskk6D) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Feels Right](https://open.spotify.com/album/2p1ShoYCCYtOfyDXRS97Gn) | 3:19 | 2021-08-13 |  |
 | [Fine & Peachy](https://open.spotify.com/track/3pOlJ93rJ9Bm0WWhDkU8wr) | [Eliza Shaddad](https://open.spotify.com/artist/3B63aIfra43Vs4F33ecM9E) | [The Woman You Want](https://open.spotify.com/album/3tj0F758dlqS3TZjKmtgnM) | 2:52 | 2021-08-13 | 2022-07-28 |
 | [Forever at Last](https://open.spotify.com/track/1lN2of34AvQHcgRWfDfMXB) | [HighSchool](https://open.spotify.com/artist/7AG5dB8Dc3yFhzeQaAsxUb) | [Forever at Last](https://open.spotify.com/album/2ytKiQourWaysAlwUlkrnO) | 4:24 | 2022-05-06 | 2022-05-28 |
@@ -159,7 +160,7 @@
 | [Honeypie](https://open.spotify.com/track/6FfLg6FFqhCsrFOaHIGkg0) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [For Abby](https://open.spotify.com/album/7KHTE99FaDr8r7V8BZG7WN) | 2:15 | 2023-05-25 |  |
 | [Hope It's Not](https://open.spotify.com/track/3L42aM6tcSceGg7qGPHGKY) | [Stevan](https://open.spotify.com/artist/24RDdXWdq95PlTMTpFTvC6) | [Hope It's Not](https://open.spotify.com/album/2USkXE4xBKBL0K5cV2LK7B) | 2:42 | 2022-03-24 | 2022-05-23 |
 | [Hot Crush Lover](https://open.spotify.com/track/2cBvJkneFRqK62VDL3yr0c) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Hot Crush Lover](https://open.spotify.com/album/1KAtsKpFLwng34JEyge2hs) | 3:13 | 2022-05-06 | 2022-11-13 |
-| [Hotel](https://open.spotify.com/track/3xyr2xfbSZiZWWGsjLyMFh) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [6 Of A Billion](https://open.spotify.com/album/00XbpqjUL8dH40s3vGltsV) | 2:14 | 2023-05-25 |  |
+| [Hotel](https://open.spotify.com/track/3xyr2xfbSZiZWWGsjLyMFh) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [6 Of A Billion](https://open.spotify.com/album/00XbpqjUL8dH40s3vGltsV) | 2:14 | 2023-05-25 | 2023-07-20 |
 | [Houdini](https://open.spotify.com/track/5Fli1xRi01bvCjsZvKWro0) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Torches](https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT) | 3:22 | 2021-08-13 |  |
 | [How Dare You Want More \- Verdine White of Earth, Wind & Fire Remix](https://open.spotify.com/track/6xhRei2Te4AccMPnAFWven) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI), [Verdine White](https://open.spotify.com/artist/4tMJliVd96wXoMVNdcOBHp) | [Stop Making This Hurt \(A\. G\. Cook Remix\) / How Dare You Want More \(Verdine White of Earth, Wind & Fire Remix\)](https://open.spotify.com/album/4dphMEA8aTNDk07kNjKLqv) | 2:59 | 2022-06-17 | 2022-07-29 |
 | [How Do I Cry?](https://open.spotify.com/track/4nrkr6IA1mPqLOU4Co67Vc) | [Fake Dad](https://open.spotify.com/artist/1PdmgC2URr5bdLpcS5YBdk) | [How Do I Cry?](https://open.spotify.com/album/7B6DIZbDBAWNJ5vTSp1vkj) | 3:01 | 2022-06-10 | 2022-07-18 |
@@ -335,6 +336,7 @@
 | [sunburn](https://open.spotify.com/track/4gBkCqlITvat2A3aYPtMqS) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [sunburn](https://open.spotify.com/album/6Edd6ynhByESPwWdNgXCFP) | 2:53 | 2023-05-25 |  |
 | [Sunday Sunshine](https://open.spotify.com/track/4wkCy8ASVWRbVZNI2V13FG) | [Young Rising Sons](https://open.spotify.com/artist/6ZUjdwG0NvY6MT7vvmluhV) | [Sunday Sunshine](https://open.spotify.com/album/0AWEqh8xWb0BSLjPFi1V8y) | 4:09 | 2021-08-13 | 2022-06-17 |
 | [Sunflower](https://open.spotify.com/track/6C1u5c21S37nBvyu9d44YN) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M), [Max Pope](https://open.spotify.com/artist/1pW42WHCsBicnNoBkcbD7i) | [Sunflower](https://open.spotify.com/album/1tTLeFvFpXow2T6qAvVefB) | 2:45 | 2022-07-11 | 2022-07-29 |
+| [Sunny day](https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:40 | 2023-07-19 |  |
 | [Sunset](https://open.spotify.com/track/203bhpOhWluOytYjvwQfl7) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 2:42 | 2023-05-25 | 2023-06-03 |
 | [Sunshine \(feat\. Fousheé\)](https://open.spotify.com/track/2FPmvXIMpjgzJQbUeJo8Iv) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 4:53 | 2023-05-19 |  |
 | [Sunshine Baby](https://open.spotify.com/track/3vYv97XoLzoVhOhGCfs0lF) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Sunshine Baby](https://open.spotify.com/album/2ibWUZ1bIkVbwqCUV7ULtI) | 3:39 | 2023-05-19 |  |

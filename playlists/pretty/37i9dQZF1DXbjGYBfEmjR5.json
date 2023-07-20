@@ -1,12 +1,12 @@
 {
   "description": "Don't worry, we're back in the funk of it besties \u2728",
-  "num_followers": 283330,
+  "num_followers": 283503,
   "original_name": "Future Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGMzMDBjMmQ1OGM2MjIzNTZkMDZlODhmMmIxNzNhNDQyMTgzZWMx",
+  "snapshot_id": "MCxmN2NhYjVhNGRkMzg0NjkxNGJjNjgwOGFkMjlmOGNkZTJjOWZkYmEx",
   "tracks": [
     {
       "added_at": "2023-07-18 02:21:29",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Kanji Title",
-        "url": "https://open.spotify.com/album/1KmwXJfem9kqz9EDNwJMqo"
-      },
-      "artists": [
-        {
-          "name": "TANUKI",
-          "url": "https://open.spotify.com/artist/5n3X0T0RlvRxUR6l9dBwB8"
-        }
-      ],
-      "duration_ms": 199262,
-      "name": "Radiant Memories",
-      "url": "https://open.spotify.com/track/4F6gMvhls0kVKt4tV6egkZ"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Infinite Skies",
         "url": "https://open.spotify.com/album/59l4j2R7By9b0AyFocl1I2"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 157988,
       "name": "Cupcake Break",
       "url": "https://open.spotify.com/track/1fIZVfx61wPISv5WJ1lJQh"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Kanji Title",
+        "url": "https://open.spotify.com/album/1KmwXJfem9kqz9EDNwJMqo"
+      },
+      "artists": [
+        {
+          "name": "TANUKI",
+          "url": "https://open.spotify.com/artist/5n3X0T0RlvRxUR6l9dBwB8"
+        }
+      ],
+      "duration_ms": 199262,
+      "name": "Radiant Memories",
+      "url": "https://open.spotify.com/track/4F6gMvhls0kVKt4tV6egkZ"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Road Trip",
-        "url": "https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU"
-      },
-      "artists": [
-        {
-          "name": "AnTgry",
-          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
-        }
-      ],
-      "duration_ms": 103059,
-      "name": "Lovely Road",
-      "url": "https://open.spotify.com/track/5O9o9PRLq8xxhp1qcm0ZmH"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "REFRESH",
         "url": "https://open.spotify.com/album/1sH4R6pTreRYGoOwOnL35Y"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 132001,
       "name": "REFRESH",
       "url": "https://open.spotify.com/track/5TJ48UIvLKQnY3sUo0kH9M"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Road Trip",
+        "url": "https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU"
+      },
+      "artists": [
+        {
+          "name": "AnTgry",
+          "url": "https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL"
+        }
+      ],
+      "duration_ms": 103059,
+      "name": "Lovely Road",
+      "url": "https://open.spotify.com/track/5O9o9PRLq8xxhp1qcm0ZmH"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Can't Get Enough",
-        "url": "https://open.spotify.com/album/5TwC2I5mU6lD8meqxB3Yw0"
-      },
-      "artists": [
-        {
-          "name": "ZAKERY",
-          "url": "https://open.spotify.com/artist/1cuL5MwLZMsu4JWDz9Hf1k"
-        }
-      ],
-      "duration_ms": 248640,
-      "name": "Can't Get Enough",
-      "url": "https://open.spotify.com/track/0aIiMCOToNB5tlPBUYVsiA"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Miki Matsubara Night Tempo Presents the Showa Groove",
         "url": "https://open.spotify.com/album/4zUIo4G8FTJoWN9zEW5NoR"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 141873,
       "name": "DRENCH3D",
       "url": "https://open.spotify.com/track/7Cyanc2rFw2KE1tFevL1Sb"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/5TwC2I5mU6lD8meqxB3Yw0"
+      },
+      "artists": [
+        {
+          "name": "ZAKERY",
+          "url": "https://open.spotify.com/artist/1cuL5MwLZMsu4JWDz9Hf1k"
+        }
+      ],
+      "duration_ms": 248640,
+      "name": "Can't Get Enough",
+      "url": "https://open.spotify.com/track/0aIiMCOToNB5tlPBUYVsiA"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Saturn St.",
-        "url": "https://open.spotify.com/album/3zA540uSE3ht3kk2pcf4cW"
-      },
-      "artists": [
-        {
-          "name": "Lando Burch",
-          "url": "https://open.spotify.com/artist/1Dt8AV9iHIAqybj2AwNhZX"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "C'est La Vie",
-      "url": "https://open.spotify.com/track/14YdVfy61MPAebt7OptsCg"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Brighter Days",
         "url": "https://open.spotify.com/album/1nfqoJnQP69bUsawz806Ex"
       },
@@ -1195,18 +1179,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Starlight",
-        "url": "https://open.spotify.com/album/1rW2aeu9kpMpwi22OEfZBi"
+        "name": "Saturn St.",
+        "url": "https://open.spotify.com/album/3zA540uSE3ht3kk2pcf4cW"
       },
       "artists": [
         {
-          "name": "Andora",
-          "url": "https://open.spotify.com/artist/65UVZimR43krwnW1JaScHi"
+          "name": "Lando Burch",
+          "url": "https://open.spotify.com/artist/1Dt8AV9iHIAqybj2AwNhZX"
         }
       ],
-      "duration_ms": 183750,
-      "name": "Starlight",
-      "url": "https://open.spotify.com/track/0KNtj7KypVl6iwKxkkMaW0"
+      "duration_ms": 157500,
+      "name": "C'est La Vie",
+      "url": "https://open.spotify.com/track/14YdVfy61MPAebt7OptsCg"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1223,6 +1207,22 @@
       "duration_ms": 110313,
       "name": "Funk Express",
       "url": "https://open.spotify.com/track/5eDERoZV1cYRHokHNmI4dl"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/1rW2aeu9kpMpwi22OEfZBi"
+      },
+      "artists": [
+        {
+          "name": "Andora",
+          "url": "https://open.spotify.com/artist/65UVZimR43krwnW1JaScHi"
+        }
+      ],
+      "duration_ms": 183750,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/0KNtj7KypVl6iwKxkkMaW0"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "NONPLUSULTRA, Vol. 3",
-        "url": "https://open.spotify.com/album/2jgkMcesIlajgbaVDfaA0H"
+        "name": "Disco's Revenge",
+        "url": "https://open.spotify.com/album/3uR2ijqPipHSHibX4nM5uq"
       },
       "artists": [
         {
-          "name": "Android52",
-          "url": "https://open.spotify.com/artist/3D4WFT29xe0sfSkXNvpmRG"
+          "name": "Neon Vectors",
+          "url": "https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X"
         }
       ],
-      "duration_ms": 250000,
-      "name": "Impala",
-      "url": "https://open.spotify.com/track/2MyhQXOxGt8X0kKUzHV5dw"
+      "duration_ms": 80098,
+      "name": "Disco's Revenge",
+      "url": "https://open.spotify.com/track/7LGOHP1Sj6rtttWQgUvKwb"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1279,34 +1279,34 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "Disco's Revenge",
-        "url": "https://open.spotify.com/album/3uR2ijqPipHSHibX4nM5uq"
+        "name": "SAILORWAVE III",
+        "url": "https://open.spotify.com/album/7a6D1xwGdauIFgRlAmpW2V"
       },
       "artists": [
         {
-          "name": "Neon Vectors",
-          "url": "https://open.spotify.com/artist/4g5PqjCtAT5WppcucyRW8X"
+          "name": "Macross 82-99",
+          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
         }
       ],
-      "duration_ms": 80098,
-      "name": "Disco's Revenge",
-      "url": "https://open.spotify.com/track/7LGOHP1Sj6rtttWQgUvKwb"
+      "duration_ms": 164000,
+      "name": "Sailor Saturn",
+      "url": "https://open.spotify.com/track/08tQCLOGuvKxWedoR0Rqgs"
     },
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "My Gurl",
-        "url": "https://open.spotify.com/album/0PUnDsNY0lq6ua4LC6dwik"
+        "name": "NONPLUSULTRA, Vol. 3",
+        "url": "https://open.spotify.com/album/2jgkMcesIlajgbaVDfaA0H"
       },
       "artists": [
         {
-          "name": "Wealstarcks",
-          "url": "https://open.spotify.com/artist/5wTQg4WsivNx3LwPoM50Af"
+          "name": "Android52",
+          "url": "https://open.spotify.com/artist/3D4WFT29xe0sfSkXNvpmRG"
         }
       ],
-      "duration_ms": 197948,
-      "name": "My Gurl",
-      "url": "https://open.spotify.com/track/0ZSDS6ZUAIDyXzCiS7xfuH"
+      "duration_ms": 250000,
+      "name": "Impala",
+      "url": "https://open.spotify.com/track/2MyhQXOxGt8X0kKUzHV5dw"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1343,34 +1343,18 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "SAILORWAVE III",
-        "url": "https://open.spotify.com/album/7a6D1xwGdauIFgRlAmpW2V"
+        "name": "My Gurl",
+        "url": "https://open.spotify.com/album/0PUnDsNY0lq6ua4LC6dwik"
       },
       "artists": [
         {
-          "name": "Macross 82-99",
-          "url": "https://open.spotify.com/artist/5C8KyBfvAz9PSaOd30eIow"
+          "name": "Wealstarcks",
+          "url": "https://open.spotify.com/artist/5wTQg4WsivNx3LwPoM50Af"
         }
       ],
-      "duration_ms": 164000,
-      "name": "Sailor Saturn",
-      "url": "https://open.spotify.com/track/08tQCLOGuvKxWedoR0Rqgs"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "Sua Noite",
-        "url": "https://open.spotify.com/album/6YXNb4NfVrdQn0aKnW7sEx"
-      },
-      "artists": [
-        {
-          "name": "Remlarr",
-          "url": "https://open.spotify.com/artist/5nCSKWO1cpFa0U4YTS5AJQ"
-        }
-      ],
-      "duration_ms": 142612,
-      "name": "Sua Noite",
-      "url": "https://open.spotify.com/track/1F2LUInQ9RwsTShO88HFYH"
+      "duration_ms": 197948,
+      "name": "My Gurl",
+      "url": "https://open.spotify.com/track/0ZSDS6ZUAIDyXzCiS7xfuH"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1411,6 +1395,22 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
+        "name": "Sua Noite",
+        "url": "https://open.spotify.com/album/6YXNb4NfVrdQn0aKnW7sEx"
+      },
+      "artists": [
+        {
+          "name": "Remlarr",
+          "url": "https://open.spotify.com/artist/5nCSKWO1cpFa0U4YTS5AJQ"
+        }
+      ],
+      "duration_ms": 142612,
+      "name": "Sua Noite",
+      "url": "https://open.spotify.com/track/1F2LUInQ9RwsTShO88HFYH"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
         "name": "MOTORWAY",
         "url": "https://open.spotify.com/album/0e0HcWdJIS3zWPlyw5t5wQ"
       },
@@ -1423,22 +1423,6 @@
       "duration_ms": 158518,
       "name": "Facts",
       "url": "https://open.spotify.com/track/3M5MnYR9xqcnSMWJqyYZNF"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
-        "name": "PRESSURE PLAY!",
-        "url": "https://open.spotify.com/album/7emGsLmLXHdPMDY0qexcyf"
-      },
-      "artists": [
-        {
-          "name": "That's Matt",
-          "url": "https://open.spotify.com/artist/0JLZmhpMl3U0XsZYKaJfCo"
-        }
-      ],
-      "duration_ms": 211651,
-      "name": "PRESSURE PLAY!",
-      "url": "https://open.spotify.com/track/2mghQDtF5ilXk1yrESu8dD"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1459,6 +1443,22 @@
       "duration_ms": 155750,
       "name": "Ritmo.",
       "url": "https://open.spotify.com/track/21m6i6sl6adnCwRR9WKcBY"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "PRESSURE PLAY!",
+        "url": "https://open.spotify.com/album/7emGsLmLXHdPMDY0qexcyf"
+      },
+      "artists": [
+        {
+          "name": "That's Matt",
+          "url": "https://open.spotify.com/artist/0JLZmhpMl3U0XsZYKaJfCo"
+        }
+      ],
+      "duration_ms": 211651,
+      "name": "PRESSURE PLAY!",
+      "url": "https://open.spotify.com/track/2mghQDtF5ilXk1yrESu8dD"
     },
     {
       "added_at": "2023-07-18 02:21:29",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-07-18 02:21:29",
       "album": {
-        "name": "When I Look In Your Eyes",
-        "url": "https://open.spotify.com/album/0ocpSL2TppgTpNHWdLOj6K"
-      },
-      "artists": [
-        {
-          "name": "FederFunk",
-          "url": "https://open.spotify.com/artist/4fLtM8j2nBAfMjfE9SqxG9"
-        }
-      ],
-      "duration_ms": 269268,
-      "name": "When I Look In Your Eyes - Original Mix",
-      "url": "https://open.spotify.com/track/2TsEwTxQTyGRmHBPtNJnmG"
-    },
-    {
-      "added_at": "2023-07-18 02:21:29",
-      "album": {
         "name": "Dance Tonite",
         "url": "https://open.spotify.com/album/0QZSdm43Tuj9adxJiTYcgW"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 128032,
       "name": "Dancefloor Sneakers",
       "url": "https://open.spotify.com/track/2RI1BkIyJmGO27KlLg8zHk"
+    },
+    {
+      "added_at": "2023-07-18 02:21:29",
+      "album": {
+        "name": "When I Look In Your Eyes",
+        "url": "https://open.spotify.com/album/0ocpSL2TppgTpNHWdLOj6K"
+      },
+      "artists": [
+        {
+          "name": "FederFunk",
+          "url": "https://open.spotify.com/artist/4fLtM8j2nBAfMjfE9SqxG9"
+        }
+      ],
+      "duration_ms": 269268,
+      "name": "When I Look In Your Eyes - Original Mix",
+      "url": "https://open.spotify.com/track/2TsEwTxQTyGRmHBPtNJnmG"
     },
     {
       "added_at": "2023-07-18 02:21:29",

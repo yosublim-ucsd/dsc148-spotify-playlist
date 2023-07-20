@@ -4,7 +4,7 @@
 
 > Tune in, bliss out
 
-131 songs - 8 hr 28 min
+132 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Glory](https://open.spotify.com/track/18Cl5BaGPKOS493dgicNXC) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM), [mixed feelings](https://open.spotify.com/artist/6wnikTsr4A4y3Eiwpcmjh0) | [Glory](https://open.spotify.com/album/6R8SpkZFXLlWAdzWZHnB3j) | 2:24 | 2022-12-01 | 2023-03-07 |
 | [Golden](https://open.spotify.com/track/4ATL5bJmPMHl2mv1X1EwsE) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc), [Sahara Beck](https://open.spotify.com/artist/52eVN5OWWaV4fVShDeJIj3) | [Golden](https://open.spotify.com/album/7CGAMG5LYr2l7VrJE4WY8f) | 2:28 | 2023-04-06 |  |
 | [Gonna Be Good](https://open.spotify.com/track/42LSQpK6JdGjqRttkxIoy1) | [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [Gonna Be Good](https://open.spotify.com/album/13prcX73M9Gmy7ksaFPl5E) | 2:52 | 2023-06-22 |  |
+| [Good Life](https://open.spotify.com/track/1zs6RPYV3KmtTv1bj6dI1z) | [Good Life](https://open.spotify.com/artist/69zkVA1W5J06u0FZDfwdSe), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Good Life](https://open.spotify.com/album/4xG1xESLOJ8j2UGzrAFzaJ) | 2:47 | 2023-06-29 |  |
 | [Grapevine](https://open.spotify.com/track/2a2Yb7fc67EzRUVpYTUyZq) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Grapevine](https://open.spotify.com/album/1xfzt4iDjXUzsp3nGh0wHU) | 6:21 | 2022-12-01 |  |
 | [Greener](https://open.spotify.com/track/63m0IDtaFrriTDW9vDqoXy) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Carlos Santana](https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:54 | 2022-12-01 | 2023-06-02 |
 | [HAUNTED](https://open.spotify.com/track/0kWaEuv3fZXOPeBNMG6iGc) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW) | [HAUNTED](https://open.spotify.com/album/02TfV5DbvB82aAL0zVgZGj) | 5:15 | 2022-12-01 | 2023-01-16 |
@@ -134,7 +135,7 @@
 | [Walking on a Dream](https://open.spotify.com/track/1XYc5rKRlOk94IUJZr27Yu) | [Du0](https://open.spotify.com/artist/1nsfed7KDKnuVUMq0ug6NN) | [Walking on a Dream](https://open.spotify.com/album/1fhSLxltvhQQK1mvaEZy4j) | 3:24 | 2023-03-09 | 2023-03-31 |
 | [Walking on a Dream](https://open.spotify.com/track/1ifqHSKJZm62EUq00myuAM) | [Du0](https://open.spotify.com/artist/1nsfed7KDKnuVUMq0ug6NN) | [Walking on a Dream](https://open.spotify.com/album/5MBtjKrxEIhh2WROiZ6yru) | 3:24 | 2022-12-01 | 2023-03-22 |
 | [Waves](https://open.spotify.com/track/0i3Rqpse98mRgYSCk3uweM) | [Abroad](https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft) | [Waves](https://open.spotify.com/album/6SJ4vAeTsekxlFQDK4ciDu) | 4:02 | 2022-12-01 |  |
-| [Way Out](https://open.spotify.com/track/54vmnIj6yLipSrw1KMK3zg) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:20 | 2022-12-01 |  |
+| [Way Out](https://open.spotify.com/track/54vmnIj6yLipSrw1KMK3zg) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:20 | 2022-12-01 | 2023-07-20 |
 | [Weightless](https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:04 | 2022-12-01 |  |
 | [Yellow](https://open.spotify.com/track/34Jfxprxev4z3iF3R0wG0b) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB), [Amelia Magdalena](https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu), [Pop Goes Ambient](https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP) | [Yellow](https://open.spotify.com/album/3pC14s49yUVj2VJskAshde) | 4:22 | 2022-12-01 | 2023-03-30 |
 | [Yellow \- Lipless Remix](https://open.spotify.com/track/03SD3DTBn3opjfaJzGmalp) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA) | [Yellow \(Lipless Remix\)](https://open.spotify.com/album/5be16Dbwpe0lXP0RiDaETh) | 4:05 | 2022-12-01 | 2022-12-14 |

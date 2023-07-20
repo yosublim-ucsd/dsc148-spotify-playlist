@@ -1,12 +1,12 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 299081,
+  "num_followers": 299168,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjY5NTBmZjBiOThmMTI2ZWY2MmQxOGRjZjc1Zjg4ZTU3ZWYyMjEz",
+  "snapshot_id": "MCw1YWY2ZWVkNDhkNTgwNTY2OTI3ZGUxMjFmMjJlZDFkYWQ2MzMzZGE5",
   "tracks": [
     {
       "added_at": "2023-07-14 11:00:00",
@@ -71,26 +71,6 @@
     {
       "added_at": "2023-07-14 11:00:00",
       "album": {
-        "name": "Actual Life 3 (January 1 - September 9 2022)",
-        "url": "https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Clara Ward",
-          "url": "https://open.spotify.com/artist/0FNW4zTrB6JjDb5ctjbX28"
-        }
-      ],
-      "duration_ms": 278400,
-      "name": "Clara (the night is dark)",
-      "url": "https://open.spotify.com/track/1halfbhGjFShZwxmnbWE8u"
-    },
-    {
-      "added_at": "2023-07-14 11:00:00",
-      "album": {
         "name": "Your Voice (Adam Port Remix)",
         "url": "https://open.spotify.com/album/7i97hHLFqXAVFIIsUGw2Da"
       },
@@ -111,6 +91,26 @@
       "duration_ms": 260655,
       "name": "Your Voice - Adam Port Remix",
       "url": "https://open.spotify.com/track/1Rv6Lfdcny3Avjmpm4W4YM"
+    },
+    {
+      "added_at": "2023-07-14 11:00:00",
+      "album": {
+        "name": "Actual Life 3 (January 1 - September 9 2022)",
+        "url": "https://open.spotify.com/album/5q2iMctlDvEMYVIawF6Vop"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Clara Ward",
+          "url": "https://open.spotify.com/artist/0FNW4zTrB6JjDb5ctjbX28"
+        }
+      ],
+      "duration_ms": 278400,
+      "name": "Clara (the night is dark)",
+      "url": "https://open.spotify.com/track/1halfbhGjFShZwxmnbWE8u"
     },
     {
       "added_at": "2023-07-14 11:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-07-14 11:00:00",
       "album": {
-        "name": "Vanished",
-        "url": "https://open.spotify.com/album/51x6mmvl5ilrYHSO0nM3KI"
-      },
-      "artists": [
-        {
-          "name": "Ceas",
-          "url": "https://open.spotify.com/artist/6poVmwB0wQp0blleNlIUKM"
-        }
-      ],
-      "duration_ms": 356000,
-      "name": "Vanished",
-      "url": "https://open.spotify.com/track/5Fbo9zn7cgWNAsDabYeEL2"
-    },
-    {
-      "added_at": "2023-07-14 11:00:00",
-      "album": {
         "name": "High On Beat",
         "url": "https://open.spotify.com/album/61QEKzl5kfKSJwiJWB0dUP"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 206223,
       "name": "High On Beat",
       "url": "https://open.spotify.com/track/6Ak4IFVY8BhNPjcHYWlZAi"
+    },
+    {
+      "added_at": "2023-07-14 11:00:00",
+      "album": {
+        "name": "Vanished",
+        "url": "https://open.spotify.com/album/51x6mmvl5ilrYHSO0nM3KI"
+      },
+      "artists": [
+        {
+          "name": "Ceas",
+          "url": "https://open.spotify.com/artist/6poVmwB0wQp0blleNlIUKM"
+        }
+      ],
+      "duration_ms": 356000,
+      "name": "Vanished",
+      "url": "https://open.spotify.com/track/5Fbo9zn7cgWNAsDabYeEL2"
     },
     {
       "added_at": "2023-07-14 11:00:00",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-07-14 11:00:00",
       "album": {
+        "name": "Baume",
+        "url": "https://open.spotify.com/album/7v6fD9x1QdVMaIWKTYzoF9"
+      },
+      "artists": [
+        {
+          "name": "il:lo",
+          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
+        }
+      ],
+      "duration_ms": 260302,
+      "name": "Baume",
+      "url": "https://open.spotify.com/track/2EDg4ZWpHuR7R5u9UfGotf"
+    },
+    {
+      "added_at": "2023-07-14 11:00:00",
+      "album": {
         "name": "Oh, Lover (NTO Remix)",
         "url": "https://open.spotify.com/album/7sCU7QpAGHxxqvekykCm2N"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 316840,
       "name": "Oh, Lover - NTO Remix",
       "url": "https://open.spotify.com/track/2gWA2eWOso3Ncj5navWlmz"
-    },
-    {
-      "added_at": "2023-07-14 11:00:00",
-      "album": {
-        "name": "Baume",
-        "url": "https://open.spotify.com/album/7v6fD9x1QdVMaIWKTYzoF9"
-      },
-      "artists": [
-        {
-          "name": "il:lo",
-          "url": "https://open.spotify.com/artist/0Upbj4hHk4d4UJ0HhnVs4F"
-        }
-      ],
-      "duration_ms": 260302,
-      "name": "Baume",
-      "url": "https://open.spotify.com/track/2EDg4ZWpHuR7R5u9UfGotf"
     },
     {
       "added_at": "2023-07-14 11:00:00",
@@ -1231,18 +1231,26 @@
     {
       "added_at": "2023-07-14 11:00:00",
       "album": {
-        "name": "Diving for Lost Treasure",
-        "url": "https://open.spotify.com/album/44u9SqhF8InssPF7AjvLie"
+        "name": "Secret Places (Club Version)",
+        "url": "https://open.spotify.com/album/2es5Qr6rBI9eCUtitXbJ3i"
       },
       "artists": [
         {
-          "name": "Sailor & I",
-          "url": "https://open.spotify.com/artist/2RZbJDQz3gwJppZzfbuxTx"
+          "name": "Echonomist",
+          "url": "https://open.spotify.com/artist/3ujc8l2JVYwGgAPU7KRRl3"
+        },
+        {
+          "name": "Avangart Tabldot",
+          "url": "https://open.spotify.com/artist/0lX6dTDSYPoxf5OBZgJaZX"
+        },
+        {
+          "name": "Alexandros Miaris",
+          "url": "https://open.spotify.com/artist/3QCcMb3KxBsUjc89yD80xS"
         }
       ],
-      "duration_ms": 192386,
-      "name": "Best of Me - Album Mix",
-      "url": "https://open.spotify.com/track/79PRSXNzO80F9REh1zVPUh"
+      "duration_ms": 417453,
+      "name": "Secret Places - Club Version",
+      "url": "https://open.spotify.com/track/0eTCzX1GD26oRixREZSz96"
     },
     {
       "added_at": "2023-07-14 11:00:00",
@@ -1263,34 +1271,38 @@
     {
       "added_at": "2023-07-14 11:00:00",
       "album": {
-        "name": "Emerge As New",
-        "url": "https://open.spotify.com/album/7KUSyPorZaNXUhNjda6BFM"
+        "name": "Diving for Lost Treasure",
+        "url": "https://open.spotify.com/album/44u9SqhF8InssPF7AjvLie"
       },
       "artists": [
         {
-          "name": "Monvol",
-          "url": "https://open.spotify.com/artist/3AbpwdjSWkaLmsXyZhmIFl"
+          "name": "Sailor & I",
+          "url": "https://open.spotify.com/artist/2RZbJDQz3gwJppZzfbuxTx"
         }
       ],
-      "duration_ms": 310229,
-      "name": "Emerge As New",
-      "url": "https://open.spotify.com/track/4NHmMiu6zav9APbX1JNgU4"
+      "duration_ms": 192386,
+      "name": "Best of Me - Album Mix",
+      "url": "https://open.spotify.com/track/79PRSXNzO80F9REh1zVPUh"
     },
     {
       "added_at": "2023-07-14 11:00:00",
       "album": {
-        "name": "11am",
-        "url": "https://open.spotify.com/album/6O7SMt9EaEj5ReO3qmvpU7"
+        "name": "Blood Moon (Remixes)",
+        "url": "https://open.spotify.com/album/4TGKtivFRBZl4BymLiQTpK"
       },
       "artists": [
         {
-          "name": "Duke Boara",
-          "url": "https://open.spotify.com/artist/6EL8x2zkCRGzb32jvrSI56"
+          "name": "RY X",
+          "url": "https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV"
+        },
+        {
+          "name": "Enamour",
+          "url": "https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO"
         }
       ],
-      "duration_ms": 253500,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/5uDNFpDhvw65Jwc7F4UJJg"
+      "duration_ms": 289134,
+      "name": "A Thousand Knives (Enamour Remix) - Edit",
+      "url": "https://open.spotify.com/track/37Zi74wmcWpaFGogWQipqx"
     }
   ],
   "unique_name": "Afterhours",

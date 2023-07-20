@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada, elevate your aura with Liza.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,063 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,124 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 99 | [Self Talk](https://open.spotify.com/track/1QgRR1orkGMixuhjS1XV8D) | [LOKRE](https://open.spotify.com/artist/5GZK6iJt7jRO73C3zH5sho) | [ELIZABETH](https://open.spotify.com/album/4tzeckAWaM1QnimGXDD796) | 3:42 |
 | 100 | [First Thing Smokin'](https://open.spotify.com/track/34KULYCXgbVXWlRKBZTHcT) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [First Thing Smokin'](https://open.spotify.com/album/1atZaEjKOw9rJGD37Rosxt) | 3:43 |
 
-Snapshot ID: `MCw1N2E5ZTJiZGQ3YzhlYjA3NzdkYzg5NDJjNDk2ZDUzNTBlYjM1YTlh`
+Snapshot ID: `MCxlOTZmYjQxNjA4MTVjZTYxYjE1ZTViYWNjMmI2ZGNhNjVkOGZiMWVl`

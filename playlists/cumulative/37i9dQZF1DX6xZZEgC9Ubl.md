@@ -4,7 +4,7 @@
 
 > Emo feels for the misunderstood\. Cover: Lil Peep
 
-822 songs - 1 day 13 hr 18 min
+823 songs - 1 day 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,7 +265,7 @@
 | [FWM2](https://open.spotify.com/track/3eNwP64oXiB9xXIZMCFQ8v) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Sunset Visionary, Vol\. 2](https://open.spotify.com/album/1nEasgzWx61CJchM2eXNvM) | 2:04 | 2022-04-08 | 2022-10-05 |
 | [FWM2](https://open.spotify.com/track/7o7WupJer78gUUoaHzVxTq) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Sunset Visionary, Vol\. 2](https://open.spotify.com/album/2bySGKDxaoTCCs3KWShP3t) | 2:04 | 2023-04-12 |  |
 | [G n T](https://open.spotify.com/track/7bI1ljBRkTLgQExzKRcwdY) | [Lucid Kidd](https://open.spotify.com/artist/18fitAD50Su7lbUq5TvApN) | [G n T](https://open.spotify.com/album/15d8bNkv39geOBFQDBRoVF) | 3:25 | 2022-03-25 | 2022-04-21 |
-| [get me high](https://open.spotify.com/track/4XJUPTlWg7AqgR5x50GRst) | [Marco Luka](https://open.spotify.com/artist/4tjqHer0BFQbJ1FVyWhffM) | [get me high](https://open.spotify.com/album/4MTI29E0eV4q2AvInfnqUA) | 1:45 | 2021-07-24 |  |
+| [get me high](https://open.spotify.com/track/4XJUPTlWg7AqgR5x50GRst) | [Marco Luka](https://open.spotify.com/artist/4tjqHer0BFQbJ1FVyWhffM) | [get me high](https://open.spotify.com/album/4MTI29E0eV4q2AvInfnqUA) | 1:45 | 2021-07-24 | 2023-07-20 |
 | [Ghost Rider](https://open.spotify.com/track/3xXkIxNwHu4aP6VUtGKJc0) | [DC The Don](https://open.spotify.com/artist/3YYbAExunnHv5pW7GUZefk) | [Ghost Rider](https://open.spotify.com/album/2X9G26ucxdZzrpVOj72rtO) | 4:00 | 2021-06-12 | 2022-03-02 |
 | [Ghostrider](https://open.spotify.com/track/7wBR106AOaYxjx3TnAcpTT) | [TOKYO’S REVENGE](https://open.spotify.com/artist/5TbLOwv8BNnik3f03NZJlt) | [Ghostrider \(Clean\)](https://open.spotify.com/album/0ThUYc49NxSW6x1ZQQWCbE) | 2:12 | 2023-03-17 | 2023-04-09 |
 | [GIN N JUICE](https://open.spotify.com/track/7IeF3GYiOqsKQ97cchFod3) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [GIN N JUICE](https://open.spotify.com/album/31tl4xCfME9LBkMdCg0p0U) | 1:41 | 2021-01-21 | 2022-06-16 |
@@ -410,6 +410,7 @@
 | [Lie](https://open.spotify.com/track/4EmDZu8hvb6uTEWBrpwkIb) | [LIL DUSTY G](https://open.spotify.com/artist/3kBOtwy37e9fzJ3LFSnpbQ) | [Lie](https://open.spotify.com/album/3AZLZIXQOMKkv1J4jE5uVM) | 2:09 | 2021-04-03 | 2021-09-18 |
 | [lie lie lie](https://open.spotify.com/track/2axPahtulFuT9BY4z4QICd) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [second thoughts EP](https://open.spotify.com/album/4JABGiIQX35ozVocvay9ig) | 2:51 | 2023-04-12 | 2023-06-03 |
 | [lie lie lie](https://open.spotify.com/track/5epDtUg4s8do8chclldxpZ) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [lie lie lie](https://open.spotify.com/album/6cOsA7wYTgq1s2GHokQm16) | 2:51 | 2021-11-26 | 2022-04-16 |
+| [lie lie lie](https://open.spotify.com/track/7DnaDxRbjdhEp6GJRMKbVu) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [second thoughts EP](https://open.spotify.com/album/5aygVeVAzYTGLf2vsNAaPQ) | 2:51 | 2023-04-12 |  |
 | [life in a locker \(feat\. Jomie & Skinny Atlas\)](https://open.spotify.com/track/6QcdYU79Qhas0j96FCByb4) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g), [Skinny Atlas](https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a) | [life in a locker \(feat\. Jomie & Skinny Atlas\)](https://open.spotify.com/album/4IZzvKDT1esT4v6MZWwBAs) | 2:50 | 2023-02-10 | 2023-03-04 |
 | [Life Is but a Stream\~](https://open.spotify.com/track/5wRSnumY0x8O47QuxgqwhR) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Long Term Effects of SUFFERING](https://open.spotify.com/album/3dgsCZMswt6TWbsKcMgoO2) | 2:02 | 2021-08-18 |  |
 | [life waster](https://open.spotify.com/track/6TCKkbyGVo5uvTEfJvkcE3) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [life waster](https://open.spotify.com/album/3v3XnEkDxBDcRQhXy02e2Q) | 2:21 | 2022-06-03 | 2022-08-06 |

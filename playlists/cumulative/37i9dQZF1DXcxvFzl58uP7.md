@@ -4,7 +4,7 @@
 
 > Dreamy jams from the best bedroom producers\. Cover: Joji
 
-851 songs - 1 day 20 hr 12 min
+852 songs - 1 day 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,7 +221,7 @@
 | [Drowned](https://open.spotify.com/track/3Vfs62mxMMLjvj8Gza9p7w) | [babychair](https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [Drowned](https://open.spotify.com/album/04lf1eeiS7uDo9NR6WbCB5) | 4:05 | 2021-07-19 | 2022-04-13 |
 | [Drowsy](https://open.spotify.com/track/4yp90BbE4dxPXfGGSpbFwT) | [Banes World](https://open.spotify.com/artist/5BCnLrqpwYtufR1bDWn0hG) | [Drowsy](https://open.spotify.com/album/5bo68qHIH6DqSGqmJs6Yky) | 2:44 | 2019-07-30\* | 2020-07-02 |
 | [drunk at dinner](https://open.spotify.com/track/2lu8G4Qzunrn85yyDZkA24) | [remy](https://open.spotify.com/artist/4DsVKs4W72RTKOfD3CtTaw) | [drunk at dinner](https://open.spotify.com/album/6LugUwZTStmVJfJNJYVHjh) | 2:46 | 2022-03-04 | 2022-04-18 |
-| [DUBBLE BUBBLE](https://open.spotify.com/track/3QVYo25Sctw3gCNQTQ1iu5) | [Zack Villere](https://open.spotify.com/artist/5jLbQGcvxehi2Z6qkUP9Rh), [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4) | [DUBBLE BUBBLE](https://open.spotify.com/album/3QJD2R7ZulglwWFICcVTgi) | 3:46 | 2023-07-07 |  |
+| [DUBBLE BUBBLE](https://open.spotify.com/track/3QVYo25Sctw3gCNQTQ1iu5) | [Zack Villere](https://open.spotify.com/artist/5jLbQGcvxehi2Z6qkUP9Rh), [454](https://open.spotify.com/artist/29fUSOyH1ufr9HZbErHpc4) | [DUBBLE BUBBLE](https://open.spotify.com/album/3QJD2R7ZulglwWFICcVTgi) | 3:46 | 2023-07-07 | 2023-07-20 |
 | [East Coast](https://open.spotify.com/track/3lhsUIhg27AZDKcLqujAjN) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [East Coast](https://open.spotify.com/album/3BkjqERhr7hFzpZdkKU1Me) | 4:37 | 2019-10-13 | 2022-07-26 |
 | [Easy On Them Turns](https://open.spotify.com/track/5IvLhgNPWzi9fu9cINVsf9) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [Easy On Them Turns](https://open.spotify.com/album/6ljNbyPlF5xjrzIopEAqey) | 2:15 | 2021-10-25 | 2022-07-29 |
 | [Easy Peazy](https://open.spotify.com/track/6mob1ZesyFPqsNsIkaokjB) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS), [Dwyer](https://open.spotify.com/artist/0hDO4d5eFDFevAkXTvN2Mv) | [Easy Peazy](https://open.spotify.com/album/7kjSuNp3c5HWR8Lo7WuQ82) | 3:12 | 2021-02-27 | 2022-07-01 |
@@ -659,6 +659,7 @@
 | [Small Talk](https://open.spotify.com/track/28TYBszFL1DOaQ4nJymNAz) | [Teenage Priest](https://open.spotify.com/artist/4BzY7yI5iqNP7OmEtO0a34) | [Small Talk](https://open.spotify.com/album/3ukx49bzJnkwSgGyWjm2AC) | 3:13 | 2021-07-19 | 2022-07-29 |
 | [Smoke Break](https://open.spotify.com/track/1V0KZwcXiqtkbVnALn4MWw) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [Smoke Break](https://open.spotify.com/album/2468pxzGecAFEEp8xeSr16) | 3:27 | 2021-05-14 | 2022-07-28 |
 | [So Far](https://open.spotify.com/track/6RKE2FRFq9MDYI0L1HcXG9) | [FIG](https://open.spotify.com/artist/2pKRCZKuL3p3PDWMNCLAH8), [Huck](https://open.spotify.com/artist/6kyIFL5I0g0kWOBygAJCbu) | [So Far](https://open.spotify.com/album/1SWsuGzbGY1y0506omiR3E) | 3:14 | 2020-07-24 | 2021-08-03 |
+| [So Tender](https://open.spotify.com/track/1Qhcx4uDQ4RFy9m4mKdzUN) | [Say Sue Me](https://open.spotify.com/artist/4tvbo17gXpYgSr8sTlkaby) | [Nevertheless, \(Original Television Soundtrack, Pt\. 8\)](https://open.spotify.com/album/7uuHf9rwmvlkUS9AlxK6D2) | 4:28 | 2023-07-19 |  |
 | [Social Sites](https://open.spotify.com/track/0puyikpyVwe8TTv2tvMHeq) | [Cosmo Pyke](https://open.spotify.com/artist/1RKG6WXRzmTJtbLRZTPU0T) | [Social Sites](https://open.spotify.com/album/5CVh7KRau0zBDqKuM6G2ZU) | 4:49 | 2019-07-30\* | 2021-05-22 |
 | [soft shoulder](https://open.spotify.com/track/6lT4ytfJifyFJpZcHcJ4LP) | [Limbo](https://open.spotify.com/artist/13VunSzrVSmJBpUWxUajJF) | [soft shoulder](https://open.spotify.com/album/0oeYoGwlrzjeULXJDxhZAi) | 1:33 | 2021-03-19 | 2021-08-02 |
 | [Softer Side](https://open.spotify.com/track/5ccvhjleGt1Q619acW9lbF) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Softer Side](https://open.spotify.com/album/1IQwYEQjPzDLi291Mjpqoc) | 4:00 | 2021-06-25 | 2022-04-20 |

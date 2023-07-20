@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 
 > The smoothest Afro R&B out right now\. Cover:  <a href="https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6?si=lWYQvAmoTiCg3s5VX84gJA"> Nyashinski </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,427 likes - 83 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,475 likes - 83 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 | 74 | [Mère ya Palais](https://open.spotify.com/track/40XrmyoNFxG5KehHeFvrKT) | [Warren Saada](https://open.spotify.com/artist/1gqvlpGMzW0ynXNMlu6pIM) | [Mère ya Palais](https://open.spotify.com/album/6URO16cnGDleeYxQFZE8Yj) | 3:16 |
 | 75 | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/track/1ndeyZurGdaWqLh3srX0ia) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Antidote \(feat\. Adekunle Gold\)](https://open.spotify.com/album/3KQZiAYQg3kXCKPKKNDdbX) | 3:22 |
 | 76 | [Pour Me a Drink](https://open.spotify.com/track/1ebcm76NK3TarOZBvBRz3P) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [The Brother's Keeper](https://open.spotify.com/album/0g7K5tuXiGzf5K6umuzCRX) | 2:48 |
-| 77 | [Grown Ass Girl.](https://open.spotify.com/track/1oCtaFhWkV3Dvuuzy6DNE0) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Grown Ass Girl.](https://open.spotify.com/album/4KR4FghCCBGvhxvsgnRVe0) | 2:59 |
+| 77 | [Grown Ass Girl.](https://open.spotify.com/track/0Z8VkJm8To18FclbvmYVMn) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd) | [Grown Ass Girl.](https://open.spotify.com/album/2J9GQxJkFjgkkKC9O4O21g) | 2:59 |
 | 78 | [Better Than This \(feat\. Tellaman\)](https://open.spotify.com/track/50PMuNQuMKQHCzxonOeDHE) | [Select Play](https://open.spotify.com/artist/5bJTdzjq8dZRcVjJ8FkAiU), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ), [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW) | [Better Than This \(feat\. Tellaman\)](https://open.spotify.com/album/4gXWlYFDwStgusk7cnXv0A) | 3:54 |
 | 79 | [Lifeline](https://open.spotify.com/track/7cE3h9KJvSM1GUBAdms8Hy) | [Raytheboffin](https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r), [3kene](https://open.spotify.com/artist/17OB2zVYkeBD5fX4PG1eZv), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Lifeline](https://open.spotify.com/album/4fMsahuiYmcQrooQMouiY3) | 2:53 |
 | 80 | [Be Easy](https://open.spotify.com/track/3w2PO4US2zMxFDxEjWT9yB) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh), [brazy](https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b) | [Be Easy](https://open.spotify.com/album/5colQfMZet7a2Myxiz0XYl) | 2:12 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4DdJqbjPl5.md) - [plain]
 | 82 | [TAKE IT SLOW](https://open.spotify.com/track/1gUD4AvOAdEXbMfhTniGh2) | [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs), [Aida Lae](https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc) | [LOVE LETTERS](https://open.spotify.com/album/73NLTYVU0jEFiWLzwiGxY3) | 2:58 |
 | 83 | [Angelus](https://open.spotify.com/track/2g43A8NJ0VInfpqUjsb5R6) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [My Darling + Angelus](https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ) | 3:06 |
 
-Snapshot ID: `MCxkODk1NzI5MzgzNzMwY2MzNTA4ZWMwNmFlNzU2ZjMwNzEyZDU3ZDM2`
+Snapshot ID: `MCxmYzMxOGRjYmIyNmNkOTk5ZjFkZDQzZTM5NGUyNGRlZDQ2MTFlNmQ4`

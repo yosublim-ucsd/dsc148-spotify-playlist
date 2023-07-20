@@ -4,7 +4,7 @@
 
 > 부드럽고 고급스러운 재즈향이 가미된 힙합음악을 즐겨보세요.
 
-164 songs - 9 hr 26 min
+165 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [BASS](https://open.spotify.com/track/19QvAYMXYN4iQMlzer1JEC) | [Khakii](https://open.spotify.com/artist/08c5z2rVpcPu7QylOxQCFA), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [BASS](https://open.spotify.com/album/1h7jDj6mhlPnArM1blyqy4) | 3:20 | 2022-07-22 |  |
 | [BASS](https://open.spotify.com/track/25UCHfNEklg7Eqng7ErjFp) | [Khakii](https://open.spotify.com/artist/08c5z2rVpcPu7QylOxQCFA), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [BASS](https://open.spotify.com/album/4EC5TckDL3ChNIToRx3F52) | 3:20 | 2022-05-11 | 2022-07-29 |
 | [been](https://open.spotify.com/track/07sIlvEYyot9HZ4BoDqg6Z) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [u n u part\. 1](https://open.spotify.com/album/1uh4mxq9YJpKUAmX7eoTkB) | 3:13 | 2022-05-11 | 2022-07-29 |
+| [been](https://open.spotify.com/track/2MDyIYGyysalcAUI6hObMn) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [u n u, Pt\. 1](https://open.spotify.com/album/7mOkHhVubCkf42pkrazJxq) | 3:13 | 2023-07-07 |  |
 | [Black & White Film \(Prod\. BOYCOLD\)](https://open.spotify.com/track/0V9VGJZxsJYodarhAolMy9) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [Black & White Film](https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa) | 2:39 | 2022-05-11 |  |
 | [Black Swan \(Feat\. Leellamarz, DON MALIK\)](https://open.spotify.com/track/0rG31ihx1Jurb7hzc6ixc0) | [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [Don Malik](https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE) | [Beginning](https://open.spotify.com/album/7D1eIygExQO5kvrCWF9mf0) | 3:01 | 2022-05-11 |  |
 | [Blessin](https://open.spotify.com/track/2zGPJuadZyPGeVILObLb0o) | [NSW yoon](https://open.spotify.com/artist/6xlIFpRmRNDoVuFUqzuMFE) | [Blessin](https://open.spotify.com/album/5zOByi7iocKtWjuY8g0Q3v) | 1:53 | 2023-05-31 |  |
@@ -148,7 +149,7 @@
 | [the best](https://open.spotify.com/track/14hv5oFtKi8YjyBFWEYb0f) | [Won Jang](https://open.spotify.com/artist/0qygfMwBnBWSto1ty1FmXS) | [The Best](https://open.spotify.com/album/7IcrCpUgjSuVCougQxZWO0) | 3:59 | 2022-05-11 | 2022-07-20 |
 | [Thinking About You](https://open.spotify.com/track/1KlcEr0KYzpRehN79L7nBX) | [PEEJAY](https://open.spotify.com/artist/2cIhUulox4Ad0eXDJcWixY), [B\-Free](https://open.spotify.com/artist/5xHC23kCM6goKp7bDDXE3T) | [WALKIN', Vol.2](https://open.spotify.com/album/0w3HKEdCt5hUS9TBB8mt3H) | 3:53 | 2022-06-13 | 2022-07-22 |
 | [Today \(Prod\. The Quiett\)](https://open.spotify.com/track/2ldKEIaeRhSz3UVrrIFace) | [Owen](https://open.spotify.com/artist/5rP0axomfqfxm0QavWTdvO) | [P.O.E.M\. Ⅲ](https://open.spotify.com/album/0MD5NHw7hr1J1uwkp9S16C) | 2:34 | 2022-05-11 | 2022-07-29 |
-| [today also \(feat\. Paloalto & The Quiett\)](https://open.spotify.com/track/3o7GWQoDBexBtRZNHWDR8X) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [natural high](https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu) | 4:08 | 2022-05-11 |  |
+| [today also \(feat\. Paloalto & The Quiett\)](https://open.spotify.com/track/3o7GWQoDBexBtRZNHWDR8X) | [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy) | [natural high](https://open.spotify.com/album/64SeFnoePRFXfM32L2TJdu) | 4:08 | 2022-05-11 | 2023-07-20 |
 | [Too Far](https://open.spotify.com/track/4mO0TyLjh8skRzvTZdZI08) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Primary and the Messengers Pt.2](https://open.spotify.com/album/1icDrJd1dd2WGo7LUCMqCl) | 4:07 | 2022-05-11 | 2022-07-29 |
 | [Too Far](https://open.spotify.com/track/7q6ybjHEBBWwOTm7Y2xUCh) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Primary and the Messengers LP](https://open.spotify.com/album/20MnU7TMGi4OEPkPZjZxYA) | 4:07 | 2022-07-22 |  |
 | [Tourist](https://open.spotify.com/track/1dGEfJrH7z8upU8llXR8wn) | [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [Tourist](https://open.spotify.com/album/4GIweIC6Bx83JbXJmsbULR) | 3:09 | 2022-12-22 |  |

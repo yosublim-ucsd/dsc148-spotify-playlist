@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 > Future K\-Pop hits! Cover: ZEROBASEONE
 
-[Spotify](https://open.spotify.com/user/spotify) - 768,696 likes - 51 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 768,861 likes - 51 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 6 | [A Poem Titled You](https://open.spotify.com/track/4uW8imiqhAXandpeQk8Cnh) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [If, Vol\. 1](https://open.spotify.com/album/3D9DBNiWtmU37jYh0x5sPG) | 3:36 |
 | 7 | [Hate Rodrigo \(Feat\. YUQI\)](https://open.spotify.com/track/5ms7rcVKjBFUtoVh8hE0Y9) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [HATE XX](https://open.spotify.com/album/3aYLtPSWEqmcLTCfM0ZYl7) | 3:01 |
 | 8 | [Lover](https://open.spotify.com/track/4c9U62zMIjPzFffl5zhEIq) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Lover](https://open.spotify.com/album/67DAcmdQBv7JPRQODguSuT) | 2:49 |
-| 9 | [PARADISE](https://open.spotify.com/track/6I21rbY1midYeZQJYGkKwo) | [JAY](https://open.spotify.com/artist/0cfDzbuRREWQNBbINvCckB) | [PARADISE](https://open.spotify.com/album/6FxUemBUj46Sxug7cDBJ6n) | 2:48 |
+| 9 | [PARADISE](https://open.spotify.com/track/6fLsDr2i0qYZMAslttjFn8) | [JAY](https://open.spotify.com/artist/0cfDzbuRREWQNBbINvCckB) | [BLUE MOON](https://open.spotify.com/album/3dJWDvZt09Ri4ikTtjWzlh) | 2:48 |
 | 10 | [Dive Into](https://open.spotify.com/track/4i5Jxokc2PUjZDF3JPdzx5) | [Han Seungwoo](https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl) | [FRAME](https://open.spotify.com/album/5mrHp5MBbkAokYlDb41ere) | 3:04 |
 | 11 | [JUMP](https://open.spotify.com/track/4vTXBC7QOjEbi8DcJvCNE2) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [HARMONY : ALL IN](https://open.spotify.com/album/67nhgkEfNwdqQt7QFYHw0B) | 2:43 |
 | 12 | [I remember](https://open.spotify.com/track/3uXTRQ41tZ7xwGJ1NnKnUC) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [I remember](https://open.spotify.com/album/0mJpJJqa0HWqcEujcOF8zO) | 3:31 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 50 | [LEMON \(Feat\. SOLE, MINO\)](https://open.spotify.com/track/1NZDEgM9f7j5l447FAcHYq) | [Padi](https://open.spotify.com/artist/2SZEuuHNzveriZr2YtUFj5), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt), [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [LEMON](https://open.spotify.com/album/6zfZDAVgp6WPIKkg1b0tdF) | 3:20 |
 | 51 | [Buck](https://open.spotify.com/track/1BCONvj86ada7Wbr7v0irk) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [DIFF](https://open.spotify.com/album/6mU3As6giMDJU8kV6Hx65B) | 2:04 |
 
-Snapshot ID: `MCxlOWE5YzU2MTc5NzNiMGJjOThlMGNhY2JmOWI4Zjg0YjYzZGMzNzkw`
+Snapshot ID: `MCwwOTBmYzJkYWVjZTZjMDdhMzBiNGE3YmYzZmEwMDU5Y2Y5MDc4MGVm`

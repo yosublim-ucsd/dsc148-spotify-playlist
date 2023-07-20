@@ -4,7 +4,7 @@
 
 > Un viaje al país del amor a través de sus canciones más hermosas.
 
-97 songs - 5 hr 31 min
+98 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,8 @@
 | [Vendredi 12](https://open.spotify.com/track/21qOyFwwf1CUN55NRbsoVE) | [Benjamin Biolay](https://open.spotify.com/artist/26Kq9bSJsElA93PflKEB1A) | [Vendredi 12](https://open.spotify.com/album/3g03WWyAWVBwsidf4RWfJn) | 3:58 | 2021-10-13 |  |
 | [Vivre ou ne pas vivre \- Extrait du conte musical 'Les souliers rouges'](https://open.spotify.com/track/6ihP4nMuoYaTyTmXqVZx6a) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Arthur H](https://open.spotify.com/artist/2nYkI1rHgPRp95pTmO9GZR), [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf) | [Les souliers rouges](https://open.spotify.com/album/3r75Ktqz8HojAzEMzQq9Oy) | 4:11 | 2021-10-13 | 2022-07-29 |
 | [Vivre ou ne pas vivre \- Extrait du conte musical 'Les souliers rouges'](https://open.spotify.com/track/4jHHl40RW6ZwV7XacbTVoO) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA), [Arthur H](https://open.spotify.com/artist/2nYkI1rHgPRp95pTmO9GZR), [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf) | [Best Of \- Morceaux d’amour](https://open.spotify.com/album/7BauVijZ5bgc9J5qqbShce) | 4:12 | 2021-10-13 |  |
-| [Week\-end à Rome](https://open.spotify.com/track/5mAg6YTl8nEeLrEvwsHAst) | [Nouvelle Vague](https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0), [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Version française](https://open.spotify.com/album/4xYF6zXVizuxPv1ZsqLduY) | 4:39 | 2021-10-13 |  |
+| [Week\-end à Rome](https://open.spotify.com/track/3oXh2E6aXHEwKVHhHLKjz2) | [Nouvelle Vague](https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0), [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Version Française](https://open.spotify.com/album/4O5Sc2AKeID5h5KPHjQ4bl) | 4:39 | 2021-10-13 |  |
+| [Week\-end à Rome](https://open.spotify.com/track/5mAg6YTl8nEeLrEvwsHAst) | [Nouvelle Vague](https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0), [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Version française](https://open.spotify.com/album/4xYF6zXVizuxPv1ZsqLduY) | 4:39 | 2021-10-13 | 2023-07-20 |
 | [Week\-end à Rome](https://open.spotify.com/track/1bL4nBZJis84k1pycP1v7H) | [Nouvelle Vague](https://open.spotify.com/artist/4h7NLIlg1oYdEtfQJfyto0), [Vanessa Paradis](https://open.spotify.com/artist/1FmxE030Xe2H8Bn9bdv6Pd) | [Best Of & Variations](https://open.spotify.com/album/0wg9EB4O6kCJJJkrH25Vgh) | 4:42 | 2021-10-13 | 2022-07-29 |
 | [à quoi tu penses quand tu m'adores ?](https://open.spotify.com/track/6zI9QsktCCl9NLJ5Vdop7k) | [Mélodie Lauret](https://open.spotify.com/artist/4gceoi6b3eqGyx9dLQU1S4) | [à quoi tu penses quand tu m'adores ?](https://open.spotify.com/album/6on8d8g4VHiUM3AkT7ElJn) | 3:13 | 2021-10-13 |  |
 

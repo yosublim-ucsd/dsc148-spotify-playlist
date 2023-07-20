@@ -1,29 +1,13 @@
 {
-  "description": "The best new music by independent artists and labels. Updates every Wednesday. Cover: Bentley Robles",
-  "num_followers": 189538,
+  "description": "The best new music by independent artists and labels. Updates every Wednesday. Cover: Liza",
+  "num_followers": 189821,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDQ1NmJlNmI3YTFmMzY3MWM1ZTE0Y2JlMmM1ZGU5YjNkNjQ0Yzcy",
+  "snapshot_id": "MCw3MGEzODczMWVkZjAzZmI1ZTI5ODVkYzBiZTJiMzE4ZDQ4YWRlYTA0",
   "tracks": [
-    {
-      "added_at": "2023-07-12 13:07:57",
-      "album": {
-        "name": "HOPE U CRY",
-        "url": "https://open.spotify.com/album/6tyR9BZ9cpjVuLtIs6e2Ku"
-      },
-      "artists": [
-        {
-          "name": "Bentley Robles",
-          "url": "https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT"
-        }
-      ],
-      "duration_ms": 204895,
-      "name": "HOPE U CRY",
-      "url": "https://open.spotify.com/track/7aAdENPSgCLi9QBldQoep6"
-    },
     {
       "added_at": "2023-07-12 13:07:57",
       "album": {
@@ -39,6 +23,102 @@
       "duration_ms": 127963,
       "name": "BF",
       "url": "https://open.spotify.com/track/5RAYG4rkqeW3WE5zkVHgdv"
+    },
+    {
+      "added_at": "2023-07-19 04:00:00",
+      "album": {
+        "name": "Dead To Me",
+        "url": "https://open.spotify.com/album/6wjm5UATvraR2HRKwWoNWO"
+      },
+      "artists": [
+        {
+          "name": "Hayes Warner",
+          "url": "https://open.spotify.com/artist/2wJkFKzUxt9JR4wKXmwbmH"
+        }
+      ],
+      "duration_ms": 152492,
+      "name": "Dead To Me",
+      "url": "https://open.spotify.com/track/756sYvBPGREA5DVd9qUIUd"
+    },
+    {
+      "added_at": "2023-07-19 04:00:00",
+      "album": {
+        "name": "Hungover",
+        "url": "https://open.spotify.com/album/3YP0m6tUpmP9Gtlf9TpUSr"
+      },
+      "artists": [
+        {
+          "name": "Wiley Beckett",
+          "url": "https://open.spotify.com/artist/6LEn9GuuJittj0IYppAYrr"
+        }
+      ],
+      "duration_ms": 164532,
+      "name": "Hungover",
+      "url": "https://open.spotify.com/track/6InUsU3gQ6TF30X36vYSYa"
+    },
+    {
+      "added_at": "2023-07-19 04:00:00",
+      "album": {
+        "name": "Sage",
+        "url": "https://open.spotify.com/album/7v8Cj9MAnn70r7lU2x6bVj"
+      },
+      "artists": [
+        {
+          "name": "Jessica Andrea",
+          "url": "https://open.spotify.com/artist/3cxjLPoupULWAW15bgjkgl"
+        }
+      ],
+      "duration_ms": 172031,
+      "name": "Sage",
+      "url": "https://open.spotify.com/track/538NTj2XofLaddz3jCm6Vh"
+    },
+    {
+      "added_at": "2023-07-19 04:00:00",
+      "album": {
+        "name": "Plastic Ring",
+        "url": "https://open.spotify.com/album/7H753DfuLX1FmbALEsllU9"
+      },
+      "artists": [
+        {
+          "name": "Emelie Trahan",
+          "url": "https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq"
+        }
+      ],
+      "duration_ms": 226451,
+      "name": "Plastic Ring",
+      "url": "https://open.spotify.com/track/2YprJIzgd5mrlHrX57kOvO"
+    },
+    {
+      "added_at": "2023-07-19 04:00:00",
+      "album": {
+        "name": "cup!",
+        "url": "https://open.spotify.com/album/5gAQRdHjiDyojF1Er7FOwe"
+      },
+      "artists": [
+        {
+          "name": "Cassie Marin",
+          "url": "https://open.spotify.com/artist/1zrtALLG8cavle3fFQ0dFH"
+        }
+      ],
+      "duration_ms": 134807,
+      "name": "cup!",
+      "url": "https://open.spotify.com/track/4DuLxRMYMFmawBRM9ZTJeL"
+    },
+    {
+      "added_at": "2023-07-12 13:07:57",
+      "album": {
+        "name": "HOPE U CRY",
+        "url": "https://open.spotify.com/album/6tyR9BZ9cpjVuLtIs6e2Ku"
+      },
+      "artists": [
+        {
+          "name": "Bentley Robles",
+          "url": "https://open.spotify.com/artist/2LOSfMfEVu8XgmHqwuixWT"
+        }
+      ],
+      "duration_ms": 204895,
+      "name": "HOPE U CRY",
+      "url": "https://open.spotify.com/track/7aAdENPSgCLi9QBldQoep6"
     },
     {
       "added_at": "2023-07-12 13:07:57",
@@ -763,22 +843,6 @@
     {
       "added_at": "2023-06-07 12:22:16",
       "album": {
-        "name": "Meadow",
-        "url": "https://open.spotify.com/album/4XsjnIzDjD2Mf9ofduC15K"
-      },
-      "artists": [
-        {
-          "name": "Emelie Trahan",
-          "url": "https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq"
-        }
-      ],
-      "duration_ms": 201948,
-      "name": "Meadow",
-      "url": "https://open.spotify.com/track/2HJbmKz5If0PHmOle6jr5B"
-    },
-    {
-      "added_at": "2023-06-07 12:22:16",
-      "album": {
         "name": "mixed signals",
         "url": "https://open.spotify.com/album/3qM8DcOzjFyOh60GrE5il7"
       },
@@ -1243,54 +1307,6 @@
     {
       "added_at": "2023-05-24 04:00:00",
       "album": {
-        "name": "Proud of Me",
-        "url": "https://open.spotify.com/album/7JtGRXcNMOInkJ5TCY3WDJ"
-      },
-      "artists": [
-        {
-          "name": "Eva Westphal",
-          "url": "https://open.spotify.com/artist/32obs0w1xupMz2CXf5B9wb"
-        }
-      ],
-      "duration_ms": 175166,
-      "name": "Proud of Me",
-      "url": "https://open.spotify.com/track/6uIGK6p2c9GQk2AbmKEPFB"
-    },
-    {
-      "added_at": "2023-05-24 04:00:00",
-      "album": {
-        "name": "Bad As",
-        "url": "https://open.spotify.com/album/2iEkfpoW55DujblM5vdrIY"
-      },
-      "artists": [
-        {
-          "name": "Perfectly Human",
-          "url": "https://open.spotify.com/artist/1FwLHVoRVWlMFNt6zetMWo"
-        }
-      ],
-      "duration_ms": 205500,
-      "name": "Bad As",
-      "url": "https://open.spotify.com/track/33HaOM5zaYpwGMatWHwzpV"
-    },
-    {
-      "added_at": "2023-05-24 04:00:00",
-      "album": {
-        "name": "Warning Signs",
-        "url": "https://open.spotify.com/album/1q3gvs9kEmnIZ6hfzYYbOd"
-      },
-      "artists": [
-        {
-          "name": "Ellie Williams",
-          "url": "https://open.spotify.com/artist/5iHLwkkEmDSXpnyJR1jNJs"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Warning Signs",
-      "url": "https://open.spotify.com/track/2CXJAqksi41e934nrqqXak"
-    },
-    {
-      "added_at": "2023-05-24 04:00:00",
-      "album": {
         "name": "Dead Flowers",
         "url": "https://open.spotify.com/album/6FFJzCTgAFNDQZxk1q1ha4"
       },
@@ -1323,86 +1339,6 @@
     {
       "added_at": "2023-05-17 04:00:00",
       "album": {
-        "name": "Super Mall Mannequin",
-        "url": "https://open.spotify.com/album/0LYUDQdolDvnzps2eaKVCv"
-      },
-      "artists": [
-        {
-          "name": "Quotes From Movies",
-          "url": "https://open.spotify.com/artist/5WR0cJ1JElYsi0mmC7AJ4t"
-        }
-      ],
-      "duration_ms": 200080,
-      "name": "Super Mall Mannequin",
-      "url": "https://open.spotify.com/track/4IaTh1fIDJ7NYjbK85sIYQ"
-    },
-    {
-      "added_at": "2023-05-17 04:00:00",
-      "album": {
-        "name": "Karaoke Star",
-        "url": "https://open.spotify.com/album/15L21J2wHKkjcKBMtkBzFG"
-      },
-      "artists": [
-        {
-          "name": "Hunter Daily",
-          "url": "https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW"
-        }
-      ],
-      "duration_ms": 173858,
-      "name": "Karaoke Star",
-      "url": "https://open.spotify.com/track/6vPIhvt1PC7ZBO1QyEvv2I"
-    },
-    {
-      "added_at": "2023-05-17 04:00:00",
-      "album": {
-        "name": "When Nobody's Left",
-        "url": "https://open.spotify.com/album/4cKkPZIQQIzCJwobDkKi0A"
-      },
-      "artists": [
-        {
-          "name": "Keir Gibson",
-          "url": "https://open.spotify.com/artist/7ey2WoBWg8ibvFA69UNy0M"
-        }
-      ],
-      "duration_ms": 211133,
-      "name": "When Nobody's Left",
-      "url": "https://open.spotify.com/track/2FfmRe2nnFCNncEucJobL0"
-    },
-    {
-      "added_at": "2023-05-17 04:00:00",
-      "album": {
-        "name": "Trauma",
-        "url": "https://open.spotify.com/album/2EpAFTGVuWWnbdw3Z1mgcS"
-      },
-      "artists": [
-        {
-          "name": "Sierra Carson",
-          "url": "https://open.spotify.com/artist/5Q09kcqyq7Ova3Xwfv04RK"
-        }
-      ],
-      "duration_ms": 187160,
-      "name": "Trauma",
-      "url": "https://open.spotify.com/track/3gwcexbPVeKJQ8cN8f3Ner"
-    },
-    {
-      "added_at": "2023-05-17 04:00:00",
-      "album": {
-        "name": "to the girls i never dated",
-        "url": "https://open.spotify.com/album/7avqJFWYLytle38Syv3LmS"
-      },
-      "artists": [
-        {
-          "name": "ehren",
-          "url": "https://open.spotify.com/artist/4Rl5fXjUzKsp4dQQsvUYAw"
-        }
-      ],
-      "duration_ms": 166857,
-      "name": "to the girls i never dated",
-      "url": "https://open.spotify.com/track/6hEa65kTf0RLC1Yqj5w72S"
-    },
-    {
-      "added_at": "2023-05-17 04:00:00",
-      "album": {
         "name": "Popsicle",
         "url": "https://open.spotify.com/album/6LsfxTZih135bUPoObrD81"
       },
@@ -1415,54 +1351,6 @@
       "duration_ms": 110000,
       "name": "Popsicle",
       "url": "https://open.spotify.com/track/74NL5Ie5ggLQBIqJK1l1MF"
-    },
-    {
-      "added_at": "2023-05-17 04:00:00",
-      "album": {
-        "name": "the youth, emotions and everything in between (deluxe)",
-        "url": "https://open.spotify.com/album/2xW2KnET2GG2xHpgKXPcq8"
-      },
-      "artists": [
-        {
-          "name": "Ella Tiritiello",
-          "url": "https://open.spotify.com/artist/2Dpj2Fts5HbgdsjZ12khbp"
-        }
-      ],
-      "duration_ms": 237022,
-      "name": "The Silence",
-      "url": "https://open.spotify.com/track/2ydJqqTWwGVlNiixaL9yxu"
-    },
-    {
-      "added_at": "2023-05-17 04:00:00",
-      "album": {
-        "name": "King of Disappointment",
-        "url": "https://open.spotify.com/album/23fehF8H0YmZyTW6kPDN3X"
-      },
-      "artists": [
-        {
-          "name": "Jem Cassar-Daley",
-          "url": "https://open.spotify.com/artist/589TqkGa2orXeVV4EK653j"
-        }
-      ],
-      "duration_ms": 251265,
-      "name": "King of Disappointment",
-      "url": "https://open.spotify.com/track/2Iw07pDIocxjnRK4CpBNse"
-    },
-    {
-      "added_at": "2023-05-17 04:00:00",
-      "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/7oxgzFBrKobdBo9NeKX4Tl"
-      },
-      "artists": [
-        {
-          "name": "Medhanit",
-          "url": "https://open.spotify.com/artist/6d47pDeW16qbk4CiGFkmW7"
-        }
-      ],
-      "duration_ms": 173375,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/2d5orsE02tsi1j0a0zHpxr"
     },
     {
       "added_at": "2023-05-03 04:00:00",
@@ -1479,22 +1367,6 @@
       "duration_ms": 201515,
       "name": "Midnight Train From Marylebone",
       "url": "https://open.spotify.com/track/4AE4FWams3vyYkcObRAn7o"
-    },
-    {
-      "added_at": "2023-05-10 04:00:00",
-      "album": {
-        "name": "Euphoria",
-        "url": "https://open.spotify.com/album/6Pb81ahYdhNVwfElML7KQW"
-      },
-      "artists": [
-        {
-          "name": "Claudia Neuser",
-          "url": "https://open.spotify.com/artist/74p7Pm6wFtrqjANyjFyktq"
-        }
-      ],
-      "duration_ms": 180500,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/0aeOa10DSMZqVh6C7aTHac"
     },
     {
       "added_at": "2023-05-10 04:00:00",
@@ -1575,54 +1447,6 @@
       "duration_ms": 183167,
       "name": "Cosmos",
       "url": "https://open.spotify.com/track/361ZsvPDt9tqgNUPCG3nYl"
-    },
-    {
-      "added_at": "2023-05-03 04:00:00",
-      "album": {
-        "name": "Bandage",
-        "url": "https://open.spotify.com/album/74t4wSLpqs8bBlietxX4Zj"
-      },
-      "artists": [
-        {
-          "name": "Anabella Paige",
-          "url": "https://open.spotify.com/artist/3j5iqudGvWfmUxDIEgdYIa"
-        }
-      ],
-      "duration_ms": 222500,
-      "name": "Bandage",
-      "url": "https://open.spotify.com/track/0bk37ffAvr9ILvj20IB1uZ"
-    },
-    {
-      "added_at": "2023-05-03 04:00:00",
-      "album": {
-        "name": "All We Got Is War",
-        "url": "https://open.spotify.com/album/6Q14bhFV8tFCYknptH4SWX"
-      },
-      "artists": [
-        {
-          "name": "True Tides",
-          "url": "https://open.spotify.com/artist/6VeSUOPtZFMDtNte8IuO9C"
-        }
-      ],
-      "duration_ms": 190917,
-      "name": "All We Got Is War",
-      "url": "https://open.spotify.com/track/73KQjIjBCgBRxlCZiT52J1"
-    },
-    {
-      "added_at": "2023-05-03 14:40:32",
-      "album": {
-        "name": "(not) a love song",
-        "url": "https://open.spotify.com/album/1ScCNRdHvkfPOHDaQOIzka"
-      },
-      "artists": [
-        {
-          "name": "Liang Lawrence",
-          "url": "https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ"
-        }
-      ],
-      "duration_ms": 173469,
-      "name": "(not) a love song",
-      "url": "https://open.spotify.com/track/7uFFeZoWKKSBUixCDWkxmI"
     },
     {
       "added_at": "2023-05-03 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 
 > Americana's artists and hits of tomorrow\. Cover: Gabe Lee
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,327 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,340 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 24 | [Dreamer](https://open.spotify.com/track/3ao3WYYhnCFzds3Iz23lrP) | [Jack Barksdale](https://open.spotify.com/artist/0Xr86XoAGFGXZTAFjr3EMt) | [Dreamer](https://open.spotify.com/album/5YO19y0xmwn6XYKh64Nc1x) | 3:50 |
 | 25 | [Whooped If You Will](https://open.spotify.com/track/1uaCFn8AsypTLu9Y0wkS0T) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Whooped If You Will](https://open.spotify.com/album/0ni9VCUqBbFV1RJjpltgHa) | 4:00 |
 | 26 | [Never Be Another You](https://open.spotify.com/track/6UsLgUJiWSop2SjSqQuoBu) | [The Watson Twins](https://open.spotify.com/artist/0XJaZaoMBv3i7FoAr7Slg4) | [Never Be Another You](https://open.spotify.com/album/7ABeZH6hlS5VXmRgakp1ys) | 3:29 |
-| 27 | [Shortcut to Waco](https://open.spotify.com/track/5AwOZ4pd4OZmI5zrszXs7G) | [Nate Fredrick](https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx), [Nate Fredrick and The Wholesome Boys](https://open.spotify.com/artist/0m5y5Le332rV9R18MVYR5F) | [Shortcut To Waco](https://open.spotify.com/album/6epdq42NeRtfPormW8twzR) | 3:50 |
+| 27 | [Shortcut to Waco](https://open.spotify.com/track/5AwOZ4pd4OZmI5zrszXs7G) | [Nate Fredrick](https://open.spotify.com/artist/2X4fqHcy2QZM9MkITcNYYx), [The Wholesome Boys](https://open.spotify.com/artist/6YYYuZSb4nyo3KUSSR1cpm) | [Shortcut To Waco](https://open.spotify.com/album/6epdq42NeRtfPormW8twzR) | 3:50 |
 | 28 | [Early Morning Rising](https://open.spotify.com/track/5RAumrYJ1PTAbrHVemrgWv) | [Kassi Valazza](https://open.spotify.com/artist/4qIi20XYGNXcVvCzBZFumH) | [Early Morning Rising](https://open.spotify.com/album/37jSSdk11uBf4rRVcJ6IIt) | 4:49 |
 | 29 | [You Don't Know How Lucky You Are](https://open.spotify.com/track/0vwEIx0FBN9afds4oFQTWf) | [Madeleine Kelson](https://open.spotify.com/artist/7LFqrK5SqBpd0f1ctwpCYg) | [While I Was Away Deluxe](https://open.spotify.com/album/6qJZLKhDngOJvojgdWvwF2) | 2:58 |
 | 30 | [Boomerang Town](https://open.spotify.com/track/0nNm9Zf8DK34PM4hi912QM) | [Jaimee Harris](https://open.spotify.com/artist/7bDmybZmPCu9SCNvxMsTme) | [Boomerang Town](https://open.spotify.com/album/1sr75Z5hmmbiH62FLMfdwv) | 7:00 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WAExTTn6PI.md) - [plain]
 | 99 | [Highway](https://open.spotify.com/track/7rLHFoWhLEtyeJT4eNpMa7) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Highway](https://open.spotify.com/album/28DIYKUAZVKQUeXXT2aiA6) | 4:21 |
 | 100 | [At Least There's No Babies \(feat\. Dee White\)](https://open.spotify.com/track/6m3uv1GTiJQqNIGtyXHN9W) | [Brit Taylor](https://open.spotify.com/artist/5TEiV7NyfVSUuVGxTVEHYC), [Dee White](https://open.spotify.com/artist/44NXXiPYo5zuLYTyMKJBNU) | [At Least There's No Babies \(feat\. Dee White\)](https://open.spotify.com/album/1GW90bLLXpce59MOoYyz6B) | 3:48 |
 
-Snapshot ID: `MCw5OTcwODljODJiYzk2YTgyY2Q2Yzg3Y2I2OWFmOTUwNmIzZWNhYjhm`
+Snapshot ID: `MCxjOGY4OGY0NWZmMjhlMWQ4MjJhOTNiZGMyODM3YTk4OWE1NWIwNTFl`

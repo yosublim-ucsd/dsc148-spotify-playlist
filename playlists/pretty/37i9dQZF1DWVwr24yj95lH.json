@@ -1,12 +1,12 @@
 {
   "description": "The best Grunge heirs' songs. Cover: Staind",
-  "num_followers": 597728,
+  "num_followers": 598007,
   "original_name": "Post-Grunge Society",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjI2ZGQwYzljMTk3OTU3NjZkOTkzNzFkZjNkYTc3Y2ZkY2Y2ZmMw",
+  "snapshot_id": "MCwxOTU1MDVhMGFlMzcyM2JkNTlmMGE4M2YwODJmNGU4Y2Q4N2FmM2Rh",
   "tracks": [
     {
       "added_at": "2023-05-26 14:18:30",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-05-26 14:18:30",
       "album": {
-        "name": "Away From The Sun",
-        "url": "https://open.spotify.com/album/72olNArm75vOycSziqIX9Y"
-      },
-      "artists": [
-        {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
-        }
-      ],
-      "duration_ms": 232066,
-      "name": "Away From The Sun",
-      "url": "https://open.spotify.com/track/3THdexHRmED4euIY91Zrxc"
-    },
-    {
-      "added_at": "2023-05-26 14:18:30",
-      "album": {
         "name": "Ours Is Chrome",
         "url": "https://open.spotify.com/album/2D2fnA0gaDp5ITUIvsHCmE"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 267284,
       "name": "Poor Aileen",
       "url": "https://open.spotify.com/track/7fezQws2k5Fy98X4UScIbH"
+    },
+    {
+      "added_at": "2023-05-26 14:18:30",
+      "album": {
+        "name": "Away From The Sun",
+        "url": "https://open.spotify.com/album/72olNArm75vOycSziqIX9Y"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "duration_ms": 232066,
+      "name": "Away From The Sun",
+      "url": "https://open.spotify.com/track/3THdexHRmED4euIY91Zrxc"
     },
     {
       "added_at": "2023-05-26 14:18:30",

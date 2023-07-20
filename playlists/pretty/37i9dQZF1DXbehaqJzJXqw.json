@@ -1,12 +1,12 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 317333,
+  "num_followers": 317767,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMGUzNGFlMTkwYTFiZTRlZjY2OGEyNDdjYWFjOWFiODU1ZjVlZmU2",
+  "snapshot_id": "MCw5ZmVjZmQyYWYwNTc3MGFhMGE4ZmU5YjQzNzZmYjFlNmM0NmZhNjFh",
   "tracks": [
     {
       "added_at": "2023-06-20 12:03:24",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-06-20 12:03:24",
       "album": {
-        "name": "Haven't We Met?",
-        "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
-      },
-      "artists": [
-        {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
-        }
-      ],
-      "duration_ms": 173436,
-      "name": "Chez moi",
-      "url": "https://open.spotify.com/track/0oPbNzAAmWaKIcf5WQE6A0"
-    },
-    {
-      "added_at": "2023-06-20 12:03:24",
-      "album": {
         "name": "Deux",
         "url": "https://open.spotify.com/album/686Gdb8iAG6Wf1QE98fjlt"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 247333,
       "name": "Juste quelqu'un de bien",
       "url": "https://open.spotify.com/track/6mW4mrJtGsUNWXtO0rzg2i"
+    },
+    {
+      "added_at": "2023-06-20 12:03:24",
+      "album": {
+        "name": "Haven't We Met?",
+        "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
+      },
+      "artists": [
+        {
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+        }
+      ],
+      "duration_ms": 173436,
+      "name": "Chez moi",
+      "url": "https://open.spotify.com/track/0oPbNzAAmWaKIcf5WQE6A0"
     },
     {
       "added_at": "2023-06-20 12:03:24",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-06-20 12:03:24",
       "album": {
-        "name": "Miss Kitt To You",
-        "url": "https://open.spotify.com/album/2iWbUYKAbWPRV0XWL3W5IO"
-      },
-      "artists": [
-        {
-          "name": "Eartha Kitt",
-          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
-        }
-      ],
-      "duration_ms": 167866,
-      "name": "Je Cherche Un Homme",
-      "url": "https://open.spotify.com/track/3dlZQnkxnxZjTV860ixUHx"
-    },
-    {
-      "added_at": "2023-06-20 12:03:24",
-      "album": {
         "name": "Chambre avec vue",
         "url": "https://open.spotify.com/album/6M9b0h3mr9u46XCAgNsnNH"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 203066,
       "name": "Jazz M\u00e9diterran\u00e9e",
       "url": "https://open.spotify.com/track/2yHTFqjyTh32XPddASX3sV"
+    },
+    {
+      "added_at": "2023-06-20 12:03:24",
+      "album": {
+        "name": "Miss Kitt To You",
+        "url": "https://open.spotify.com/album/2iWbUYKAbWPRV0XWL3W5IO"
+      },
+      "artists": [
+        {
+          "name": "Eartha Kitt",
+          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
+        }
+      ],
+      "duration_ms": 167866,
+      "name": "Je Cherche Un Homme",
+      "url": "https://open.spotify.com/track/3dlZQnkxnxZjTV860ixUHx"
     },
     {
       "added_at": "2023-06-20 12:03:24",
@@ -715,18 +715,18 @@
     {
       "added_at": "2023-06-20 12:03:24",
       "album": {
-        "name": "Le premier bonheur du jour (Remastered)",
-        "url": "https://open.spotify.com/album/1FkZQWdx8y9ZeaBZwHA6iR"
+        "name": "Un homme et une femme (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4GU4TR3nIDycmrQyGE7wpk"
       },
       "artists": [
         {
-          "name": "Fran\u00e7oise Hardy",
-          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+          "name": "Pierre Barouh",
+          "url": "https://open.spotify.com/artist/2YjZP3rHnFiJNTw6ZkCJkl"
         }
       ],
-      "duration_ms": 110588,
-      "name": "Le premier bonheur du jour - Remastered",
-      "url": "https://open.spotify.com/track/69b0LLpQ926WY9blYcJAKb"
+      "duration_ms": 276720,
+      "name": "Samba Saravah",
+      "url": "https://open.spotify.com/track/2g86TduNPjOj3bRcgpQEpL"
     },
     {
       "added_at": "2023-06-20 12:03:24",
@@ -747,18 +747,18 @@
     {
       "added_at": "2023-06-20 12:03:24",
       "album": {
-        "name": "Un homme et une femme (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4GU4TR3nIDycmrQyGE7wpk"
+        "name": "Le premier bonheur du jour (Remastered)",
+        "url": "https://open.spotify.com/album/1FkZQWdx8y9ZeaBZwHA6iR"
       },
       "artists": [
         {
-          "name": "Pierre Barouh",
-          "url": "https://open.spotify.com/artist/2YjZP3rHnFiJNTw6ZkCJkl"
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
         }
       ],
-      "duration_ms": 276720,
-      "name": "Samba Saravah",
-      "url": "https://open.spotify.com/track/2g86TduNPjOj3bRcgpQEpL"
+      "duration_ms": 110588,
+      "name": "Le premier bonheur du jour - Remastered",
+      "url": "https://open.spotify.com/track/69b0LLpQ926WY9blYcJAKb"
     },
     {
       "added_at": "2023-06-20 12:03:24",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-06-20 12:03:24",
       "album": {
-        "name": "De La Chanson Et Puis C'Est Tout...",
-        "url": "https://open.spotify.com/album/2faqVrGpLKSPzqEpSsyxQe"
-      },
-      "artists": [
-        {
-          "name": "Makali",
-          "url": "https://open.spotify.com/artist/5LPtx0dSaHzNXSj8y6RLqO"
-        }
-      ],
-      "duration_ms": 150760,
-      "name": "Il Faut Du Temps Au Temps",
-      "url": "https://open.spotify.com/track/44yjkx2DymNJws5Md5olqD"
-    },
-    {
-      "added_at": "2023-06-20 12:03:24",
-      "album": {
         "name": "Paris Combo",
         "url": "https://open.spotify.com/album/7tIxpxvTzHJUYUKToeAkXb"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 247666,
       "name": "On N'a Pas Besoin",
       "url": "https://open.spotify.com/track/3Bv1eR7Q2AM6CZyBR1Ci7B"
+    },
+    {
+      "added_at": "2023-06-20 12:03:24",
+      "album": {
+        "name": "De La Chanson Et Puis C'Est Tout...",
+        "url": "https://open.spotify.com/album/2faqVrGpLKSPzqEpSsyxQe"
+      },
+      "artists": [
+        {
+          "name": "Makali",
+          "url": "https://open.spotify.com/artist/5LPtx0dSaHzNXSj8y6RLqO"
+        }
+      ],
+      "duration_ms": 150760,
+      "name": "Il Faut Du Temps Au Temps",
+      "url": "https://open.spotify.com/track/44yjkx2DymNJws5Md5olqD"
     },
     {
       "added_at": "2023-06-20 12:03:24",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-06-20 12:03:24",
       "album": {
-        "name": "Soir\u00e9e",
-        "url": "https://open.spotify.com/album/4lddlOYftwWpttdq2MRpVy"
-      },
-      "artists": [
-        {
-          "name": "Chantal Chamberland",
-          "url": "https://open.spotify.com/artist/1Bkw1ZbvkudC1lY4jTQSpU"
-        }
-      ],
-      "duration_ms": 189026,
-      "name": "Vous Qui Passez Sans Me Voir",
-      "url": "https://open.spotify.com/track/4GMWA6sqYzdDCma6oCBI1D"
-    },
-    {
-      "added_at": "2023-06-20 12:03:24",
-      "album": {
         "name": "Bossa Nova",
         "url": "https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 179706,
       "name": "Les eaux de Mars",
       "url": "https://open.spotify.com/track/3FopnRPK626Fbu4ErKdtUo"
+    },
+    {
+      "added_at": "2023-06-20 12:03:24",
+      "album": {
+        "name": "Soir\u00e9e",
+        "url": "https://open.spotify.com/album/4lddlOYftwWpttdq2MRpVy"
+      },
+      "artists": [
+        {
+          "name": "Chantal Chamberland",
+          "url": "https://open.spotify.com/artist/1Bkw1ZbvkudC1lY4jTQSpU"
+        }
+      ],
+      "duration_ms": 189026,
+      "name": "Vous Qui Passez Sans Me Voir",
+      "url": "https://open.spotify.com/track/4GMWA6sqYzdDCma6oCBI1D"
     },
     {
       "added_at": "2023-06-20 12:03:24",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-06-20 12:03:24",
       "album": {
-        "name": "Jamais Seule",
-        "url": "https://open.spotify.com/album/4iJ1Vo81qUMRLYKRmrUIRY"
-      },
-      "artists": [
-        {
-          "name": "Loane",
-          "url": "https://open.spotify.com/artist/1tuckVFkV6REMXZr5IQP19"
-        }
-      ],
-      "duration_ms": 187280,
-      "name": "Aim\u00e9",
-      "url": "https://open.spotify.com/track/7unsDj1BtTJMsRvkXMCktQ"
-    },
-    {
-      "added_at": "2023-06-20 12:03:24",
-      "album": {
         "name": "Nord Destin",
         "url": "https://open.spotify.com/album/6pmNJH43ZyjBR3wOsdCNHZ"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 247292,
       "name": "Je voudrais me divertir",
       "url": "https://open.spotify.com/track/0uaVqzoBegeh8lfOzf4uso"
+    },
+    {
+      "added_at": "2023-06-20 12:03:24",
+      "album": {
+        "name": "Jamais Seule",
+        "url": "https://open.spotify.com/album/4iJ1Vo81qUMRLYKRmrUIRY"
+      },
+      "artists": [
+        {
+          "name": "Loane",
+          "url": "https://open.spotify.com/artist/1tuckVFkV6REMXZr5IQP19"
+        }
+      ],
+      "duration_ms": 187280,
+      "name": "Aim\u00e9",
+      "url": "https://open.spotify.com/track/7unsDj1BtTJMsRvkXMCktQ"
     },
     {
       "added_at": "2023-06-20 12:03:24",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-06-20 12:03:24",
       "album": {
-        "name": "10 chansons pour l'\u00e9t\u00e9",
-        "url": "https://open.spotify.com/album/5KQM6djuZsifJQZY01mtY9"
-      },
-      "artists": [
-        {
-          "name": "Yves Montand",
-          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
-        }
-      ],
-      "duration_ms": 169143,
-      "name": "Quand on s'balade",
-      "url": "https://open.spotify.com/track/0Qo7NdtGc2pEVCmvJWhW9H"
-    },
-    {
-      "added_at": "2023-06-20 12:03:24",
-      "album": {
         "name": "Dans la peau",
         "url": "https://open.spotify.com/album/4tPSoyEzxWxVbXcM3sUYdG"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 257240,
       "name": "Mes pas dans la neige - Spanish Song Bird",
       "url": "https://open.spotify.com/track/09iBzIVcKTwLhg49ny9j0z"
+    },
+    {
+      "added_at": "2023-06-20 12:03:24",
+      "album": {
+        "name": "10 chansons pour l'\u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/5KQM6djuZsifJQZY01mtY9"
+      },
+      "artists": [
+        {
+          "name": "Yves Montand",
+          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
+        }
+      ],
+      "duration_ms": 169143,
+      "name": "Quand on s'balade",
+      "url": "https://open.spotify.com/track/0Qo7NdtGc2pEVCmvJWhW9H"
     },
     {
       "added_at": "2023-06-20 12:03:24",

@@ -1,12 +1,12 @@
 {
   "description": "The ever-evolving sound of Alt! Cover: Gable Price and Friends",
-  "num_followers": 231227,
+  "num_followers": 231264,
   "original_name": "Ultimate Christian Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YmY1ZDc4NjExNTBlMjc0MzRkZDRkYTI5YWQxYzJkMDA2MDRkMDIw",
+  "snapshot_id": "MCxlZWU1ZjVmNjU0MTYwNzYzNDA2MGI4ODUwZjAxZWEzZmIxOTc3OTNj",
   "tracks": [
     {
       "added_at": "2022-12-16 05:02:00",
@@ -199,26 +199,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "I Believe It Now",
-        "url": "https://open.spotify.com/album/4jiACLAncMZpfDbGuMkYkk"
-      },
-      "artists": [
-        {
-          "name": "Sidewalk Prophets",
-          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
-        },
-        {
-          "name": "Olivia Lane",
-          "url": "https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6"
-        }
-      ],
-      "duration_ms": 228886,
-      "name": "I Believe It Now",
-      "url": "https://open.spotify.com/track/1tfjjxTZZhNeiAAsgWtlNe"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Missing Piece",
         "url": "https://open.spotify.com/album/3cltdHvJPTK7hwtWCHgPz0"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 193007,
       "name": "Missing Piece",
       "url": "https://open.spotify.com/track/5qHg5XJtrqtHVvkkto4gYp"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "I Believe It Now",
+        "url": "https://open.spotify.com/album/4jiACLAncMZpfDbGuMkYkk"
+      },
+      "artists": [
+        {
+          "name": "Sidewalk Prophets",
+          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
+        },
+        {
+          "name": "Olivia Lane",
+          "url": "https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6"
+        }
+      ],
+      "duration_ms": 228886,
+      "name": "I Believe It Now",
+      "url": "https://open.spotify.com/track/1tfjjxTZZhNeiAAsgWtlNe"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Future",
-        "url": "https://open.spotify.com/album/250asL6HXVThavIF7t9rBc"
-      },
-      "artists": [
-        {
-          "name": "WE ARE ONE",
-          "url": "https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd"
-        }
-      ],
-      "duration_ms": 205377,
-      "name": "Future",
-      "url": "https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Searching For",
         "url": "https://open.spotify.com/album/7zY4HF5n4vHhlTp7hAuPPf"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 255118,
       "name": "Searching For",
       "url": "https://open.spotify.com/track/1c57E3GgckZveqzUkDzvqd"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Future",
+        "url": "https://open.spotify.com/album/250asL6HXVThavIF7t9rBc"
+      },
+      "artists": [
+        {
+          "name": "WE ARE ONE",
+          "url": "https://open.spotify.com/artist/3c45wqHSEIsm43MNvb5Ifd"
+        }
+      ],
+      "duration_ms": 205377,
+      "name": "Future",
+      "url": "https://open.spotify.com/track/1vvQwgin7rkd3PSzS0vPrE"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Calm Before the Storm",
-        "url": "https://open.spotify.com/album/3jWsaxV8HH7v4osDCriC6Q"
-      },
-      "artists": [
-        {
-          "name": "United Pursuit",
-          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
-        }
-      ],
-      "duration_ms": 235153,
-      "name": "Calm Before the Storm",
-      "url": "https://open.spotify.com/track/7wsBA8293E5O4SMS1nH350"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Anyway",
         "url": "https://open.spotify.com/album/5X2SncUK145UKSjcTvGWKW"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 313933,
       "name": "Anyway",
       "url": "https://open.spotify.com/track/5uz2zHutuRY8Rz8DEBsw6j"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Calm Before the Storm",
+        "url": "https://open.spotify.com/album/3jWsaxV8HH7v4osDCriC6Q"
+      },
+      "artists": [
+        {
+          "name": "United Pursuit",
+          "url": "https://open.spotify.com/artist/4YCpRzudpG6AeE0IvCjiGo"
+        }
+      ],
+      "duration_ms": 235153,
+      "name": "Calm Before the Storm",
+      "url": "https://open.spotify.com/track/7wsBA8293E5O4SMS1nH350"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -723,6 +723,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/0WP1SzAIHrXKAaNbCG8fYV"
+      },
+      "artists": [
+        {
+          "name": "Corey Voss",
+          "url": "https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa"
+        }
+      ],
+      "duration_ms": 249495,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/23VrO89DkfhYigoLPvEnm7"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "WILD THINGS",
         "url": "https://open.spotify.com/album/5XaKKyhMqIAie5hIND1f6i"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 232040,
       "name": "Still Mighty",
       "url": "https://open.spotify.com/track/7lNZVe64Do0fQIUR2AGli8"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/0WP1SzAIHrXKAaNbCG8fYV"
-      },
-      "artists": [
-        {
-          "name": "Corey Voss",
-          "url": "https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa"
-        }
-      ],
-      "duration_ms": 249495,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/23VrO89DkfhYigoLPvEnm7"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Heaven Is Everywhere",
-        "url": "https://open.spotify.com/album/5UeiyI4lj9FMmNQWymskL1"
-      },
-      "artists": [
-        {
-          "name": "Johnnyswim",
-          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
-        }
-      ],
-      "duration_ms": 234890,
-      "name": "Heaven Is Everywhere",
-      "url": "https://open.spotify.com/track/1rPFqJjK21mcwaT0C10EfS"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Something to Say",
         "url": "https://open.spotify.com/album/1JhB3kLc12K5AErDOxLDri"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 244172,
       "name": "Something to Say",
       "url": "https://open.spotify.com/track/4UsOfEep0czurJhxCjsn9o"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Heaven Is Everywhere",
+        "url": "https://open.spotify.com/album/5UeiyI4lj9FMmNQWymskL1"
+      },
+      "artists": [
+        {
+          "name": "Johnnyswim",
+          "url": "https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm"
+        }
+      ],
+      "duration_ms": 234890,
+      "name": "Heaven Is Everywhere",
+      "url": "https://open.spotify.com/track/1rPFqJjK21mcwaT0C10EfS"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "HOPE OR NOSTALGIA LIVE",
-        "url": "https://open.spotify.com/album/03mLh8NKcmNYxPW4mjIBz0"
-      },
-      "artists": [
-        {
-          "name": "Chris Renzema",
-          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
-        }
-      ],
-      "duration_ms": 189795,
-      "name": "Old Dreams - Live from Kansas City",
-      "url": "https://open.spotify.com/track/6vbM3xlbUdLxtcyDB5YKEC"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Keep Your Head Up (Radio Version)",
         "url": "https://open.spotify.com/album/0EqvE6md1QlGSu2qjYHc1r"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 215603,
       "name": "Keep Your Head Up - Radio Version",
       "url": "https://open.spotify.com/track/5MCclZ7cXNHyyAkvNqHYBm"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "HOPE OR NOSTALGIA LIVE",
+        "url": "https://open.spotify.com/album/03mLh8NKcmNYxPW4mjIBz0"
+      },
+      "artists": [
+        {
+          "name": "Chris Renzema",
+          "url": "https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT"
+        }
+      ],
+      "duration_ms": 189795,
+      "name": "Old Dreams - Live from Kansas City",
+      "url": "https://open.spotify.com/track/6vbM3xlbUdLxtcyDB5YKEC"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Pulp",
-        "url": "https://open.spotify.com/album/4nAhfRvtz1ZkTh0ivN5iHQ"
+        "name": "Where The Winter Was",
+        "url": "https://open.spotify.com/album/5aHds2df6eKrOirRI9895D"
       },
       "artists": [
         {
-          "name": "Love Ghost",
-          "url": "https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi"
+          "name": "Skye Peterson",
+          "url": "https://open.spotify.com/artist/4W0D3e2IbX3hZD27ooX3xZ"
         }
       ],
-      "duration_ms": 239655,
-      "name": "Pulp",
-      "url": "https://open.spotify.com/track/53hcnXo6HTK3fZTbh9DqPv"
+      "duration_ms": 210586,
+      "name": "Not So Sure",
+      "url": "https://open.spotify.com/track/50l0btNM2EyBEXJbAIri9U"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Pulp",
+        "url": "https://open.spotify.com/album/4nAhfRvtz1ZkTh0ivN5iHQ"
+      },
+      "artists": [
+        {
+          "name": "Love Ghost",
+          "url": "https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi"
+        }
+      ],
+      "duration_ms": 239655,
+      "name": "Pulp",
+      "url": "https://open.spotify.com/track/53hcnXo6HTK3fZTbh9DqPv"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Way, Truth, Life",
         "url": "https://open.spotify.com/album/34FQy01AMCNmDh2NJ4ustB"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 173500,
       "name": "Way, Truth, Life",
       "url": "https://open.spotify.com/track/5INCnWloUf354udWzwGgYs"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Where The Winter Was",
-        "url": "https://open.spotify.com/album/5aHds2df6eKrOirRI9895D"
-      },
-      "artists": [
-        {
-          "name": "Skye Peterson",
-          "url": "https://open.spotify.com/artist/4W0D3e2IbX3hZD27ooX3xZ"
-        }
-      ],
-      "duration_ms": 210586,
-      "name": "Not So Sure",
-      "url": "https://open.spotify.com/track/50l0btNM2EyBEXJbAIri9U"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Give My All",
+        "url": "https://open.spotify.com/album/6Uv2XAIAwMLVun8cvzK0nh"
+      },
+      "artists": [
+        {
+          "name": "Audacious Worship",
+          "url": "https://open.spotify.com/artist/7DeOhE2vpc4L1SebSy1gUe"
+        }
+      ],
+      "duration_ms": 199005,
+      "name": "Give My All",
+      "url": "https://open.spotify.com/track/6RUhMJ816rKag5trw0iiH1"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Rapzilla.com Presents: Freshmen 2021",
         "url": "https://open.spotify.com/album/4HtfMKAYg8lbnR1HKFZ03h"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 141177,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/3QMmsuQyB2m4XAkM3VkKTR"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Give My All",
-        "url": "https://open.spotify.com/album/6Uv2XAIAwMLVun8cvzK0nh"
-      },
-      "artists": [
-        {
-          "name": "Audacious Worship",
-          "url": "https://open.spotify.com/artist/7DeOhE2vpc4L1SebSy1gUe"
-        }
-      ],
-      "duration_ms": 199005,
-      "name": "Give My All",
-      "url": "https://open.spotify.com/track/6RUhMJ816rKag5trw0iiH1"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "War Going On",
-        "url": "https://open.spotify.com/album/0qxSyQTMLkMIktzp62IZaJ"
-      },
-      "artists": [
-        {
-          "name": "Port Duo",
-          "url": "https://open.spotify.com/artist/2dmTeILyALVCUMdrPQSMnP"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "War Going On",
-      "url": "https://open.spotify.com/track/6cIBuZ98m0KM51HOx18AcB"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Crisis Of Faith",
         "url": "https://open.spotify.com/album/1WUw7XicfoxqSif4iiFXOi"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 228333,
       "name": "Crisis Of Faith",
       "url": "https://open.spotify.com/track/6f6nJ6rTSOkv2FRFmUk6ha"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "War Going On",
+        "url": "https://open.spotify.com/album/0qxSyQTMLkMIktzp62IZaJ"
+      },
+      "artists": [
+        {
+          "name": "Port Duo",
+          "url": "https://open.spotify.com/artist/2dmTeILyALVCUMdrPQSMnP"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "War Going On",
+      "url": "https://open.spotify.com/track/6cIBuZ98m0KM51HOx18AcB"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Conversation",
-        "url": "https://open.spotify.com/album/5waJx72B7sI3cYPhVDfd7F"
-      },
-      "artists": [
-        {
-          "name": "Grace Graber",
-          "url": "https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Conversation",
-      "url": "https://open.spotify.com/track/0HgPrONoZRbbsRxsTJgtg3"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/4EFGJxZDk9XF6WuOd5IjNW"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 269353,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/3nLnyUoJEOPISomgrVqJw7"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
+        "name": "Conversation",
+        "url": "https://open.spotify.com/album/5waJx72B7sI3cYPhVDfd7F"
+      },
+      "artists": [
+        {
+          "name": "Grace Graber",
+          "url": "https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/0HgPrONoZRbbsRxsTJgtg3"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
+        "name": "Praise",
+        "url": "https://open.spotify.com/album/1w5KYaGwCBN3w6lYo8JFqY"
+      },
+      "artists": [
+        {
+          "name": "Gungor",
+          "url": "https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif"
+        }
+      ],
+      "duration_ms": 232703,
+      "name": "Here We Are",
+      "url": "https://open.spotify.com/track/0OP39BJAaQ2129up8OxmWO"
+    },
+    {
+      "added_at": "2022-12-16 05:02:00",
+      "album": {
         "name": "Can't Stop My Heart From Singing",
         "url": "https://open.spotify.com/album/7use7LdcOxZ2R7fgo7YyyG"
       },
@@ -1671,18 +1687,22 @@
     {
       "added_at": "2022-12-16 05:02:00",
       "album": {
-        "name": "Praise",
-        "url": "https://open.spotify.com/album/1w5KYaGwCBN3w6lYo8JFqY"
+        "name": "Somebody You Knew",
+        "url": "https://open.spotify.com/album/3V2XutQhnbyGFH8FSfqw5E"
       },
       "artists": [
         {
-          "name": "Gungor",
-          "url": "https://open.spotify.com/artist/4J4o73Oun7v0XXRjN8DPif"
+          "name": "Trey Pearson",
+          "url": "https://open.spotify.com/artist/5pjtpHRdrbbw9zZWx83zCF"
+        },
+        {
+          "name": "Semler",
+          "url": "https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g"
         }
       ],
-      "duration_ms": 232703,
-      "name": "Here We Are",
-      "url": "https://open.spotify.com/track/0OP39BJAaQ2129up8OxmWO"
+      "duration_ms": 198997,
+      "name": "Hey Jesus",
+      "url": "https://open.spotify.com/track/2Uo4QoDPsHkpUNSVJyJYts"
     },
     {
       "added_at": "2022-12-16 05:02:00",
@@ -1707,26 +1727,6 @@
       "duration_ms": 348714,
       "name": "Nothing is Wasted - Live",
       "url": "https://open.spotify.com/track/5WNl2SPKaMGaasoArkhmKv"
-    },
-    {
-      "added_at": "2022-12-16 05:02:00",
-      "album": {
-        "name": "Somebody You Knew",
-        "url": "https://open.spotify.com/album/3V2XutQhnbyGFH8FSfqw5E"
-      },
-      "artists": [
-        {
-          "name": "Trey Pearson",
-          "url": "https://open.spotify.com/artist/5pjtpHRdrbbw9zZWx83zCF"
-        },
-        {
-          "name": "Semler",
-          "url": "https://open.spotify.com/artist/1UPqLSmKOY8Ld8LoAuNA5g"
-        }
-      ],
-      "duration_ms": 198997,
-      "name": "Hey Jesus",
-      "url": "https://open.spotify.com/track/2Uo4QoDPsHkpUNSVJyJYts"
     }
   ],
   "unique_name": "Ultimate Christian Alternative",

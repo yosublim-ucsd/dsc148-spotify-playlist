@@ -700,7 +700,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-18",
+      "date_removed": null,
       "duration_ms": 192000,
       "name": "Afro Beat",
       "url": "https://open.spotify.com/track/1lfErXcHIp6Ail8bFuONMF"
@@ -2026,7 +2026,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 109750,
       "name": "Barbie World (with Aqua) [From Barbie The Album]",
       "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
@@ -11250,7 +11250,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 174000,
       "name": "LETN\u00cd BL\u00c1ZNI",
       "url": "https://open.spotify.com/track/4sXtmLy0BJA7q6YbWQnsDv"
@@ -13968,7 +13968,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 184033,
       "name": "Nalej mi - Mixtape",
       "url": "https://open.spotify.com/track/5qDOORaaVKFTfLJzlhOcdb"
@@ -15156,6 +15156,32 @@
     {
       "album": {
         "name": "One Margarita (Margarita Song)",
+        "url": "https://open.spotify.com/album/60Prz6L3vopKOjd1RXLV1K"
+      },
+      "artists": [
+        {
+          "name": "That Chick Angel",
+          "url": "https://open.spotify.com/artist/3qhkjSaDQrlZVAg0hvVYfh"
+        },
+        {
+          "name": "Casa Di",
+          "url": "https://open.spotify.com/artist/1yFh88WSoMOObwLi5GUwRp"
+        },
+        {
+          "name": "Steve Terrell",
+          "url": "https://open.spotify.com/artist/0gmg6AYgqIGfQ0dVyr951p"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118800,
+      "name": "One Margarita (Margarita Song)",
+      "url": "https://open.spotify.com/track/17Um25RxAOpc2NgtDiYKl9"
+    },
+    {
+      "album": {
+        "name": "One Margarita (Margarita Song)",
         "url": "https://open.spotify.com/album/5QYYGCtwz22XiUzuH1mA4G"
       },
       "artists": [
@@ -15748,7 +15774,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-19",
+      "date_removed": null,
       "duration_ms": 125861,
       "name": "party addict",
       "url": "https://open.spotify.com/track/1fp1tsLHqwy1Aj40GVyqVX"
@@ -16631,6 +16657,24 @@
     },
     {
       "album": {
+        "name": "1234",
+        "url": "https://open.spotify.com/album/5pbJgYTbGKbZiAkdOuNzam"
+      },
+      "artists": [
+        {
+          "name": "Alex G Offline",
+          "url": "https://open.spotify.com/artist/13UvTLo4dLIqInGJVttRtS"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359769,
+      "name": "Pretend",
+      "url": "https://open.spotify.com/track/0tGqk0HlYMQ16aj7yJwleF"
+    },
+    {
+      "album": {
         "name": "pretend",
         "url": "https://open.spotify.com/album/174daNnkp4NS1ipXkkl2Nj"
       },
@@ -16678,7 +16722,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 359774,
       "name": "Pretend",
       "url": "https://open.spotify.com/track/1g7v7ysXfWsxnTbZA3tMML"
@@ -17824,7 +17868,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 156781,
       "name": "S tebou",
       "url": "https://open.spotify.com/track/3hEkAArF6wAyQEWuR80YRr"
@@ -19074,7 +19118,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-19",
+      "date_removed": null,
       "duration_ms": 100779,
       "name": "SMASH",
       "url": "https://open.spotify.com/track/44xpUt2Ybry3wI3kf9W6bj"
@@ -19342,7 +19386,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 172548,
       "name": "SO TIRED",
       "url": "https://open.spotify.com/track/486SOuxGXX6CFNMwFXlGZs"
@@ -22082,7 +22126,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-19",
+      "date_removed": null,
       "duration_ms": 115054,
       "name": "Untitled #13",
       "url": "https://open.spotify.com/track/1YXV3fSpNgxXSfhsEgRmtb"

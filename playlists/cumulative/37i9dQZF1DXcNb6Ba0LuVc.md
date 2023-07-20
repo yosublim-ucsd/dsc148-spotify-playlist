@@ -4,7 +4,7 @@
 
 > Uplifting instrumental beats to brighten your day.
 
-443 songs - 17 hr 13 min
+445 songs - 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Beggin'](https://open.spotify.com/track/5eG41VMRPiEf4uIYGdXTc1) | [Pjuck](https://open.spotify.com/artist/4y7TV9mGqoi2fHB1RLhqZm) | [Beggin'](https://open.spotify.com/album/4UruVCOHP4j0PIBJ8yb2dJ) | 2:21 | 2022-06-03 | 2022-09-17 |
 | [Beneteau](https://open.spotify.com/track/3A4xiikel0UUzUKFo54Lkw) | [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [Garo](https://open.spotify.com/artist/2mDy8qGRydJwedzm47Ciqr) | [Beneteau](https://open.spotify.com/album/72OsMZasJ7VMqEiVKq3K28) | 2:13 | 2023-01-13 |  |
 | [Big Easy City](https://open.spotify.com/track/22JgzHfHyonKuvOSpvEKDz) | [Simber](https://open.spotify.com/artist/3x9DqcRsBAPD6oFZCnDxf0), [Lipoov](https://open.spotify.com/artist/3lbnDrswhXiVZDQswwSJ6t), [93Alekk](https://open.spotify.com/artist/6e0UHI8nGl5Y5DtYPrdaHu) | [Big Easy City](https://open.spotify.com/album/12GryY117JWWaGiywcZrdJ) | 2:00 | 2021-11-11 | 2022-11-26 |
+| [Big Jon](https://open.spotify.com/track/7FS9mcAHdV6OZYlpRrdR7a) | [Lou Lizza](https://open.spotify.com/artist/64ExAUrTH26xYrVrCFEVH4) | [Big Jon](https://open.spotify.com/album/27sKUo532bzJ5pvOv32zGo) | 3:50 | 2023-07-19 |  |
 | [Birch](https://open.spotify.com/track/3dOoEWVJqCZruubyO0W0Dt) | [Mama Gecko](https://open.spotify.com/artist/3hsIheKwar2G4DBVfH3FBh) | [Birch](https://open.spotify.com/album/3QRUkSveMnmFIotjK9hivL) | 1:52 | 2021-11-11 | 2022-05-20 |
 | [Birch Sap](https://open.spotify.com/track/5tiP9vXHi7Z12WkGyup8zV) | [ULMÄR](https://open.spotify.com/artist/7BJ1Z3VaSzoX2z4p6OtwFU) | [Beatology Vol\. 1](https://open.spotify.com/album/3PyZ6vA8aoyhW0nskqCZlj) | 2:37 | 2021-11-11 |  |
 | [Bloke](https://open.spotify.com/track/10hUkqbTHRVqoNiPHq8pdi) | [Sima Jones](https://open.spotify.com/artist/4vYSw95x1SISLFatLw6DcK) | [Butterfly Effect](https://open.spotify.com/album/7lneB2Lrh6GkVOUsvDGwtM) | 1:46 | 2021-11-11 | 2022-07-01 |
@@ -443,6 +444,7 @@
 | [What R U Takin'](https://open.spotify.com/track/7cziDoATAIL6MJiosqWkkG) | [Franky Newton](https://open.spotify.com/artist/4zrzZyQKgahX46AI1tP594) | [What R U Takin'](https://open.spotify.com/album/7MgGdtl8r5vwW2gBrBIWNg) | 2:49 | 2023-03-20 |  |
 | [Where the Sun Lives](https://open.spotify.com/track/1Q6Yq87dBVj1BYaiOsjKph) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [Chillin In Cabo](https://open.spotify.com/album/0R3G448YpmWiCpGRGfGgbo) | 2:21 | 2021-11-11 |  |
 | [Whiskey Jazz](https://open.spotify.com/track/2sig8mxmjeVn3MUPn6NeAC) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK), [Rosoul](https://open.spotify.com/artist/1adLE7QwwUcHTpPZu4av97), [Viktor Minsky](https://open.spotify.com/artist/5mS3l0prvJ5cpqzx8zz4GH) | [Whiskey Jazz](https://open.spotify.com/album/3gU8psGILcqNzKqDUEZx0m) | 2:10 | 2021-11-11 | 2022-05-27 |
+| [Wine & You](https://open.spotify.com/track/4VlopfgRJ11tEPbSTM7XoC) | [Masuyu](https://open.spotify.com/artist/6m6GTttiO1qLImlyNeXoz0) | [Wine & You](https://open.spotify.com/album/5d5zS9upUeTAFV6GghOtr4) | 2:09 | 2023-07-19 |  |
 | [Winter Keys](https://open.spotify.com/track/6NT3drJc597TCEIK8LMFka) | [Brief & Breezy](https://open.spotify.com/artist/5GHbufBgAO1POi50gQq1B7) | [Winter Keys](https://open.spotify.com/album/1PFHDWjFCyXHVI867KFcoy) | 2:36 | 2021-11-11 |  |
 | [Witching Hour](https://open.spotify.com/track/17uRVL0hDUqWwbF4KYSr48) | [Tin Ghosts](https://open.spotify.com/artist/5SkZxzEJm6ScRc4G4SAkwI) | [Witching Hour](https://open.spotify.com/album/1Nz6t4KOf741GhyFIKHAeF) | 2:31 | 2021-11-11 | 2022-09-03 |
 | [wolfram wonders](https://open.spotify.com/track/2SEnMRBzVNrfraOxbFKI2Q) | [ideal form](https://open.spotify.com/artist/2YhLgIJkYQpdzQqUoLE79a) | [lightbulb](https://open.spotify.com/album/7tlUo25yvN8n0JErn7ytSw) | 1:48 | 2021-11-11 |  |

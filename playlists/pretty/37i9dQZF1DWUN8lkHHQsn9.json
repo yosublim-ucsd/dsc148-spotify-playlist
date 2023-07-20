@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNzRlMDMxNTExZTFhODY0ZTM2OGNiMWZkNTk4NjQ4Njc3YWExNzZh",
+  "snapshot_id": "MCw3ODdkZTE5MjNlNzk5MGVmY2MyNTU5MjAxYmQxOTk4NmNjODgyYzY1",
   "tracks": [
     {
       "added_at": "2023-07-10 22:00:00",
@@ -291,18 +291,18 @@
     {
       "added_at": "2023-07-10 22:00:00",
       "album": {
-        "name": "\u015awi\u0119ta Betsy",
-        "url": "https://open.spotify.com/album/7iw76Co0zt3h9kDmhT3U6B"
+        "name": "bezdech",
+        "url": "https://open.spotify.com/album/33FAfgaa5ZMKsJElVNO16R"
       },
       "artists": [
         {
-          "name": "Aljas",
-          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+          "name": "livia lena",
+          "url": "https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9"
         }
       ],
-      "duration_ms": 169122,
-      "name": "\u015awi\u0119ta Betsy",
-      "url": "https://open.spotify.com/track/0XIIxpVMZGwXbS8ToJYCvQ"
+      "duration_ms": 199168,
+      "name": "bezdech",
+      "url": "https://open.spotify.com/track/19TK1sdgx6H2l4uTl7Ti50"
     },
     {
       "added_at": "2023-07-11 14:44:13",
@@ -339,18 +339,18 @@
     {
       "added_at": "2023-07-10 22:00:00",
       "album": {
-        "name": "bezdech",
-        "url": "https://open.spotify.com/album/33FAfgaa5ZMKsJElVNO16R"
+        "name": "\u015awi\u0119ta Betsy",
+        "url": "https://open.spotify.com/album/7iw76Co0zt3h9kDmhT3U6B"
       },
       "artists": [
         {
-          "name": "livia lena",
-          "url": "https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9"
+          "name": "Aljas",
+          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
         }
       ],
-      "duration_ms": 199168,
-      "name": "bezdech",
-      "url": "https://open.spotify.com/track/19TK1sdgx6H2l4uTl7Ti50"
+      "duration_ms": 169122,
+      "name": "\u015awi\u0119ta Betsy",
+      "url": "https://open.spotify.com/track/0XIIxpVMZGwXbS8ToJYCvQ"
     },
     {
       "added_at": "2023-07-10 22:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-07-10 22:00:00",
       "album": {
-        "name": "49 Groszy",
-        "url": "https://open.spotify.com/album/7evYzPUD456BPo5RYfeK66"
-      },
-      "artists": [
-        {
-          "name": "Aljas",
-          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "49 Groszy",
-      "url": "https://open.spotify.com/track/7E9o5ZkutleRx9BS6GWK9Q"
-    },
-    {
-      "added_at": "2023-07-10 22:00:00",
-      "album": {
         "name": "Better Place",
         "url": "https://open.spotify.com/album/5Ky0KyEN3TAoM4Ub9u0brG"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 181823,
       "name": "Better Place",
       "url": "https://open.spotify.com/track/2MlHGVbFRP1BUf0mP7Gm4p"
+    },
+    {
+      "added_at": "2023-07-10 22:00:00",
+      "album": {
+        "name": "49 Groszy",
+        "url": "https://open.spotify.com/album/7evYzPUD456BPo5RYfeK66"
+      },
+      "artists": [
+        {
+          "name": "Aljas",
+          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "49 Groszy",
+      "url": "https://open.spotify.com/track/7E9o5ZkutleRx9BS6GWK9Q"
     },
     {
       "added_at": "2023-07-10 22:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-07-10 22:00:00",
       "album": {
-        "name": "Maski",
-        "url": "https://open.spotify.com/album/2ySVc9A0CxOUm65gOsYFCK"
-      },
-      "artists": [
-        {
-          "name": "Mona Lizak",
-          "url": "https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb"
-        }
-      ],
-      "duration_ms": 254436,
-      "name": "Monsters",
-      "url": "https://open.spotify.com/track/5sFeA9E3XBROiOBTCOMfUa"
-    },
-    {
-      "added_at": "2023-07-10 22:00:00",
-      "album": {
         "name": "tw\u00f3j zapach",
         "url": "https://open.spotify.com/album/6p3kfcHv9XXnvY0yTMyq4K"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 180000,
       "name": "tw\u00f3j zapach",
       "url": "https://open.spotify.com/track/0irIpENIile1obCEpugDL1"
+    },
+    {
+      "added_at": "2023-07-10 22:00:00",
+      "album": {
+        "name": "Maski",
+        "url": "https://open.spotify.com/album/2ySVc9A0CxOUm65gOsYFCK"
+      },
+      "artists": [
+        {
+          "name": "Mona Lizak",
+          "url": "https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb"
+        }
+      ],
+      "duration_ms": 254436,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/5sFeA9E3XBROiOBTCOMfUa"
     },
     {
       "added_at": "2023-07-10 22:00:00",
@@ -683,18 +683,22 @@
     {
       "added_at": "2023-07-10 22:00:00",
       "album": {
-        "name": "Stamina",
-        "url": "https://open.spotify.com/album/698CpODMEheVL58NRNUKUE"
+        "name": "Dolce Vita",
+        "url": "https://open.spotify.com/album/1m0XMvYDp5d19yxvs4NblQ"
       },
       "artists": [
         {
-          "name": "Decadent Fun Club",
-          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
+          "name": "Lulu x Uaziuk",
+          "url": "https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O"
+        },
+        {
+          "name": "NIEB\u00d8",
+          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
         }
       ],
-      "duration_ms": 262014,
-      "name": "Stamina",
-      "url": "https://open.spotify.com/track/4yVnVhWGIN2E2Gl6GgFU6t"
+      "duration_ms": 234246,
+      "name": "Dolce Vita",
+      "url": "https://open.spotify.com/track/2IfNpjacG5irElu8VbHU9r"
     },
     {
       "added_at": "2023-07-10 22:00:00",
@@ -715,22 +719,18 @@
     {
       "added_at": "2023-07-10 22:00:00",
       "album": {
-        "name": "Dolce Vita",
-        "url": "https://open.spotify.com/album/1m0XMvYDp5d19yxvs4NblQ"
+        "name": "Stamina",
+        "url": "https://open.spotify.com/album/698CpODMEheVL58NRNUKUE"
       },
       "artists": [
         {
-          "name": "Lulu x Uaziuk",
-          "url": "https://open.spotify.com/artist/24J0nOvhaahlqmH5vugN3O"
-        },
-        {
-          "name": "NIEB\u00d8",
-          "url": "https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es"
+          "name": "Decadent Fun Club",
+          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
         }
       ],
-      "duration_ms": 234246,
-      "name": "Dolce Vita",
-      "url": "https://open.spotify.com/track/2IfNpjacG5irElu8VbHU9r"
+      "duration_ms": 262014,
+      "name": "Stamina",
+      "url": "https://open.spotify.com/track/4yVnVhWGIN2E2Gl6GgFU6t"
     },
     {
       "added_at": "2023-07-10 22:00:00",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2023-07-10 22:00:00",
       "album": {
-        "name": "Nie ma",
-        "url": "https://open.spotify.com/album/51M4DQti8EHFtBk7vNmM1M"
+        "name": "Glitterball",
+        "url": "https://open.spotify.com/album/0SB81B0hf9QUkm1klnP2si"
       },
       "artists": [
         {
-          "name": "Iwona Skv",
-          "url": "https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8"
+          "name": "Decadent Fun Club",
+          "url": "https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki"
         }
       ],
-      "duration_ms": 202419,
-      "name": "Nie ma",
-      "url": "https://open.spotify.com/track/3MFmVJjXCv6gQq5LkbMnqT"
+      "duration_ms": 306056,
+      "name": "Glitterball",
+      "url": "https://open.spotify.com/track/6J5TokKxTZPXCGzRRVEc4x"
     }
   ],
   "unique_name": "GLOW Polska",

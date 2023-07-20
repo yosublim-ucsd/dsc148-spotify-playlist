@@ -8393,6 +8393,24 @@
     },
     {
       "album": {
+        "name": "happiness",
+        "url": "https://open.spotify.com/album/6ycdKGWkXUzF6Aj7YQeovf"
+      },
+      "artists": [
+        {
+          "name": "INNER JOURNEY",
+          "url": "https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287013,
+      "name": "When dawn comes, we",
+      "url": "https://open.spotify.com/track/3EFyfR4HLQ3daSEEK28xd3"
+    },
+    {
+      "album": {
         "name": "White highlights",
         "url": "https://open.spotify.com/album/3OfEMtatKlKKJMhw5jliF4"
       },
@@ -14884,7 +14902,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 287013,
       "name": "\u591c\u304c\u660e\u3051\u305f\u3089\u79c1\u305f\u3061",
       "url": "https://open.spotify.com/track/7g7aXtGi28jYS7sEvjGIp7"

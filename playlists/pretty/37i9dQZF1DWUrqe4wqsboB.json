@@ -1,12 +1,12 @@
 {
   "description": "Indie, pop, alternativo... y un poco m\u00e1s all\u00e1. Cover: Buscabulla",
-  "num_followers": 1824,
+  "num_followers": 1852,
   "original_name": "Indie Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTdjNWQ2NDczZWZkNTIwMzViMjhkNWIyZTA5ZjBkODRmNjVkYzhk",
+  "snapshot_id": "MCw4ZTc3YzJlNmU1YWE4MDA4MzY1MGY5NzJiMmNlMTY1ODJjOTgyYWJj",
   "tracks": [
     {
       "added_at": "2023-07-07 18:28:55",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-07-07 18:28:55",
       "album": {
-        "name": "2:00 AM",
-        "url": "https://open.spotify.com/album/6fi3lhTQuBdlZ2MoyiB9yi"
-      },
-      "artists": [
-        {
-          "name": "Raquel Sof\u00eda",
-          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
-        }
-      ],
-      "duration_ms": 228413,
-      "name": "Tenemos Historia",
-      "url": "https://open.spotify.com/track/4v00NVNPRrqj7wMXT0VMrK"
-    },
-    {
-      "added_at": "2023-07-07 18:28:55",
-      "album": {
         "name": "M\u00e1s",
         "url": "https://open.spotify.com/album/4WTCqF2U70MdKiBK3RwbZ7"
       },
@@ -287,18 +271,18 @@
     {
       "added_at": "2023-07-07 18:28:55",
       "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/6C5Q7Ot0hYpCuIeV6v9jgB"
+        "name": "2:00 AM",
+        "url": "https://open.spotify.com/album/6fi3lhTQuBdlZ2MoyiB9yi"
       },
       "artists": [
         {
-          "name": "Chesca",
-          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+          "name": "Raquel Sof\u00eda",
+          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
         }
       ],
-      "duration_ms": 170175,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/0B96PPohQ9YmlvHFkGEfob"
+      "duration_ms": 228413,
+      "name": "Tenemos Historia",
+      "url": "https://open.spotify.com/track/4v00NVNPRrqj7wMXT0VMrK"
     },
     {
       "added_at": "2023-07-07 18:28:55",
@@ -319,6 +303,22 @@
       "duration_ms": 225000,
       "name": "Problema",
       "url": "https://open.spotify.com/track/1PD0pApsS3MqPgaQ0vnAPf"
+    },
+    {
+      "added_at": "2023-07-07 18:28:55",
+      "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/6C5Q7Ot0hYpCuIeV6v9jgB"
+      },
+      "artists": [
+        {
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+        }
+      ],
+      "duration_ms": 170175,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/0B96PPohQ9YmlvHFkGEfob"
     },
     {
       "added_at": "2023-07-07 18:28:55",
@@ -499,6 +499,22 @@
     {
       "added_at": "2023-07-07 18:28:55",
       "album": {
+        "name": "Tommy Bahama",
+        "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
+      },
+      "artists": [
+        {
+          "name": "Sebimor",
+          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
+        }
+      ],
+      "duration_ms": 229963,
+      "name": "Tommy Bahama",
+      "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
+    },
+    {
+      "added_at": "2023-07-07 18:28:55",
+      "album": {
         "name": "Circuito por Mil\u00e1n",
         "url": "https://open.spotify.com/album/7alsag6KDYqx8cF6QyDPbG"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 144958,
       "name": "Maldita Cach\u00e1",
       "url": "https://open.spotify.com/track/02OLbvjFRd9dCVNPbZCjXo"
-    },
-    {
-      "added_at": "2023-07-07 18:28:55",
-      "album": {
-        "name": "Tommy Bahama",
-        "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
-      },
-      "artists": [
-        {
-          "name": "Sebimor",
-          "url": "https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH"
-        }
-      ],
-      "duration_ms": 229963,
-      "name": "Tommy Bahama",
-      "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
     },
     {
       "added_at": "2023-07-07 18:28:55",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-07-07 18:28:55",
       "album": {
-        "name": "Watersport",
-        "url": "https://open.spotify.com/album/2fVylpcjB0l3QJV716RrXg"
-      },
-      "artists": [
-        {
-          "name": "Baby City Club",
-          "url": "https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h"
-        }
-      ],
-      "duration_ms": 241360,
-      "name": "Watersport",
-      "url": "https://open.spotify.com/track/4n088AKH0Qq0VUSvKV8F3D"
-    },
-    {
-      "added_at": "2023-07-07 18:28:55",
-      "album": {
         "name": "La Rareza",
         "url": "https://open.spotify.com/album/4JsDF0xy6ROvnIK4VN4YYh"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 161739,
       "name": "Tu Nunca Has Sentido",
       "url": "https://open.spotify.com/track/0ztfWr6DIlLJKJwGY3pDz6"
+    },
+    {
+      "added_at": "2023-07-07 18:28:55",
+      "album": {
+        "name": "Watersport",
+        "url": "https://open.spotify.com/album/2fVylpcjB0l3QJV716RrXg"
+      },
+      "artists": [
+        {
+          "name": "Baby City Club",
+          "url": "https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h"
+        }
+      ],
+      "duration_ms": 241360,
+      "name": "Watersport",
+      "url": "https://open.spotify.com/track/4n088AKH0Qq0VUSvKV8F3D"
     },
     {
       "added_at": "2023-07-07 18:28:55",

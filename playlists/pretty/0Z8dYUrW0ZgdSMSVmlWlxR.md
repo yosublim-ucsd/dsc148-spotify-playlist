@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 
 > The best TikTok Gym playlist\. Your new Release Radar\. Anime Hardstyle, AOT, anime phonk, tatli depression, zyzz, xqc, attack on titan, JCORE
 
-[ig @godmodearc](https://open.spotify.com/user/shihu) - 53,858 likes - 238 songs - 11 hr 40 min
+[ig @godmodearc](https://open.spotify.com/user/shihu) - 53,901 likes - 238 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 | 66 | [Nothing Divine](https://open.spotify.com/track/6VGwM2pIpiQzcaz8GYtgXv) | [Hatred City](https://open.spotify.com/artist/65jFZpzCwgyhmI0HPswalI) | [Nothing Divine](https://open.spotify.com/album/5U5nRsJ90TNWEBw3ssjhBV) | 3:19 |
 | 67 | [Bankai](https://open.spotify.com/track/0R9NWJxVK6J64fwqkWW9yO) | [RushLow](https://open.spotify.com/artist/5YJHeia6l8NPQGPsLZS5Mf), [Fyex](https://open.spotify.com/artist/7i7ddOIQP0uI3ktGxI0zkM), [Daisuke13](https://open.spotify.com/artist/32g8KsXVGsTYcbK43MZalS) | [Bankai](https://open.spotify.com/album/0KTqkGpYBjw9KApYFoMWLE) | 1:45 |
 | 68 | [ILLUSION](https://open.spotify.com/track/6Qr99c6Rw503swgRrC765q) | [$ebu](https://open.spotify.com/artist/1SZT3ojC36umMhxX22GI4C) | [ILLUSION](https://open.spotify.com/album/2MrcMUdd3QyVvVSqngwhTu) | 2:18 |
-| 69 | [Facedown](https://open.spotify.com/track/05CFj95QAb0rhWMc5Z9GHA) | [TVLLER](https://open.spotify.com/artist/00Q3jW41SIUjKPeAfcXkTC) | [Facedown](https://open.spotify.com/album/0t1MXKqSzPgcAu4MPU8kux) | 2:13 |
+| 69 | [Facedown](https://open.spotify.com/track/05CFj95QAb0rhWMc5Z9GHA) | [TVLLER](https://open.spotify.com/artist/00Q3jW41SIUjKPeAfcXkTC) | [Facedown](https://open.spotify.com/album/0t1MXKqSzPgcAu4MPU8kux) | 2:21 |
 | 70 | [TRAPMANE](https://open.spotify.com/track/0a44oU268eFv6twkw4C19p) | [icebabyluv](https://open.spotify.com/artist/1tINrUfJCcoV8AA0XWCkBw) | [TRAPMANE](https://open.spotify.com/album/4ieJl71S27itGUuNX7iiPv) | 1:52 |
 | 71 | [Soldiers Rage](https://open.spotify.com/track/1NIUhP10N800a420AK3aWM) | [Tha Mechanic](https://open.spotify.com/artist/4Nhqao0AUSRpuHCSVQA2my), [Darko](https://open.spotify.com/artist/6yHCkdydSuq3PUgfE5VZdF) | [Soldiers Rage](https://open.spotify.com/album/6qZYCiEanmLMRoEjwGtKBU) | 3:45 |
 | 72 | [Cathedrarhythm](https://open.spotify.com/track/6MMzWMj7pDFHIzJ85RQlSy) | [Team Grimoire](https://open.spotify.com/artist/3JL2xJoZQDP7NjNiEmVpfa), [Aoi Sumito](https://open.spotify.com/artist/1LYxLNWGFFHFsV2022FIgi) | [Cathedrarhythm](https://open.spotify.com/album/4w93O7rLUF0dpGY7lVr6e6) | 5:43 |

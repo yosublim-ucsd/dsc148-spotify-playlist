@@ -1,12 +1,12 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Jai Wolf",
-  "num_followers": 758004,
+  "num_followers": 758025,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ODU1NzdkMDliNmVhNmQ0NTU0YzM4NTRiYmE2N2U4ZGM4ZjkyZTQ1",
+  "snapshot_id": "MCw2ZDY5MWU3ZTgzNzUwMGU2YjZmYjY1NjA1NWIwMmQ4NjFkNDUxNjJm",
   "tracks": [
     {
       "added_at": "2023-06-30 04:01:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "Good Lies",
-        "url": "https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp"
-      },
-      "artists": [
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        }
-      ],
-      "duration_ms": 217369,
-      "name": "Cold Blooded",
-      "url": "https://open.spotify.com/track/6ULPq2iNWiykHX1acI2SGn"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Empty Room",
         "url": "https://open.spotify.com/album/6SJFvWHnjFWBRdEKxT3l7s"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 226978,
       "name": "Empty Room - Cabu Remix",
       "url": "https://open.spotify.com/track/64c7VPaG2oVXyhfq57peBd"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Good Lies",
+        "url": "https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "duration_ms": 217369,
+      "name": "Cold Blooded",
+      "url": "https://open.spotify.com/track/6ULPq2iNWiykHX1acI2SGn"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "JUNGLE",
+        "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
+      },
+      "artists": [
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        }
+      ],
+      "duration_ms": 197386,
+      "name": "BLOOM",
+      "url": "https://open.spotify.com/track/1tdLHkejJyiMiLjSxLFPcQ"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "Uh Uh",
         "url": "https://open.spotify.com/album/4jSCuNWv43WQQWngBGrIBC"
       },
@@ -1015,38 +1031,18 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "JUNGLE",
-        "url": "https://open.spotify.com/album/409STQlcajDkM1vdhM4Qxo"
+        "name": "On Your Mind",
+        "url": "https://open.spotify.com/album/5KF6bDZp9uMNs76hDlaVg0"
       },
       "artists": [
         {
-          "name": "The Blaze",
-          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+          "name": "MONSS",
+          "url": "https://open.spotify.com/artist/54cUSKoWHHsLuuX2JuCAKz"
         }
       ],
-      "duration_ms": 197386,
-      "name": "BLOOM",
-      "url": "https://open.spotify.com/track/1tdLHkejJyiMiLjSxLFPcQ"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "CATALYST",
-        "url": "https://open.spotify.com/album/5Il5xcMQhzdH6YFKZH3VGU"
-      },
-      "artists": [
-        {
-          "name": "DROELOE",
-          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
-        },
-        {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
-        }
-      ],
-      "duration_ms": 206746,
-      "name": "CATALYST",
-      "url": "https://open.spotify.com/track/3wPpMU6d8h9yxvBadDDr44"
+      "duration_ms": 197832,
+      "name": "On Your Mind",
+      "url": "https://open.spotify.com/track/6XCIwCmA4UtC2YObDv0851"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1075,18 +1071,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "On Your Mind",
-        "url": "https://open.spotify.com/album/5KF6bDZp9uMNs76hDlaVg0"
+        "name": "CATALYST",
+        "url": "https://open.spotify.com/album/5Il5xcMQhzdH6YFKZH3VGU"
       },
       "artists": [
         {
-          "name": "MONSS",
-          "url": "https://open.spotify.com/artist/54cUSKoWHHsLuuX2JuCAKz"
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+        },
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
         }
       ],
-      "duration_ms": 197832,
-      "name": "On Your Mind",
-      "url": "https://open.spotify.com/track/6XCIwCmA4UtC2YObDv0851"
+      "duration_ms": 206746,
+      "name": "CATALYST",
+      "url": "https://open.spotify.com/track/3wPpMU6d8h9yxvBadDDr44"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -2003,6 +2003,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "Arpeggio EP",
+        "url": "https://open.spotify.com/album/63ZlQUyHBjsi9qiF1a1iWu"
+      },
+      "artists": [
+        {
+          "name": "QUIX",
+          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
+        }
+      ],
+      "duration_ms": 223714,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/4LhFPew1CzHSZhLqdv6ZWq"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "sedatives",
         "url": "https://open.spotify.com/album/4GGM10hPG0dbjmbFbHfWaf"
       },
@@ -2035,22 +2051,6 @@
       "duration_ms": 92307,
       "name": "And then it came together",
       "url": "https://open.spotify.com/track/1rPq3J5LmVX78RjdzUqjZo"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Arpeggio EP",
-        "url": "https://open.spotify.com/album/63ZlQUyHBjsi9qiF1a1iWu"
-      },
-      "artists": [
-        {
-          "name": "QUIX",
-          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
-        }
-      ],
-      "duration_ms": 223714,
-      "name": "Oxygen",
-      "url": "https://open.spotify.com/track/4LhFPew1CzHSZhLqdv6ZWq"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -2167,26 +2167,6 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
-        "name": "am i dreaming?",
-        "url": "https://open.spotify.com/album/0ma37DevYTbH7lu4H7rUrr"
-      },
-      "artists": [
-        {
-          "name": "Nikita, the Wicked",
-          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
-        },
-        {
-          "name": "Fabian Mazur",
-          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
-        }
-      ],
-      "duration_ms": 142622,
-      "name": "am i dreaming?",
-      "url": "https://open.spotify.com/track/1RCIegmCrpQW4kBeKrMOi7"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
         "name": "Shellshock (Edit)",
         "url": "https://open.spotify.com/album/2ljDGMcczlIKC69aNczUno"
       },
@@ -2211,6 +2191,26 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "am i dreaming?",
+        "url": "https://open.spotify.com/album/0ma37DevYTbH7lu4H7rUrr"
+      },
+      "artists": [
+        {
+          "name": "Nikita, the Wicked",
+          "url": "https://open.spotify.com/artist/0Kc65Qv0ju9H2cMNnP3Tqd"
+        },
+        {
+          "name": "Fabian Mazur",
+          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
+        }
+      ],
+      "duration_ms": 142622,
+      "name": "am i dreaming?",
+      "url": "https://open.spotify.com/track/1RCIegmCrpQW4kBeKrMOi7"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "all you'll get from me is my company",
         "url": "https://open.spotify.com/album/6k8hkDKlAF6H1rUAJQXK6x"
       },
@@ -2223,26 +2223,6 @@
       "duration_ms": 159375,
       "name": "all you'll get from me is my company",
       "url": "https://open.spotify.com/track/6mA8UtKd79VPIQY6CmsWv9"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Dr. Phil",
-        "url": "https://open.spotify.com/album/3vmxLKxwiqXaXZc59T9BeP"
-      },
-      "artists": [
-        {
-          "name": "Koastle",
-          "url": "https://open.spotify.com/artist/3AqRITBdB7bKbE7aNOVx6g"
-        },
-        {
-          "name": "Sammy Adams",
-          "url": "https://open.spotify.com/artist/1S9WGrK7SZfXXQtHBYzDle"
-        }
-      ],
-      "duration_ms": 203181,
-      "name": "Dr. Phil",
-      "url": "https://open.spotify.com/track/2XJZf6npI2jDpM6vUpZ8rL"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -2263,6 +2243,26 @@
       "duration_ms": 247619,
       "name": "JIYO",
       "url": "https://open.spotify.com/track/3h0nO3M5ollNKRVmEnnUd4"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Dr. Phil",
+        "url": "https://open.spotify.com/album/3vmxLKxwiqXaXZc59T9BeP"
+      },
+      "artists": [
+        {
+          "name": "Koastle",
+          "url": "https://open.spotify.com/artist/3AqRITBdB7bKbE7aNOVx6g"
+        },
+        {
+          "name": "Sammy Adams",
+          "url": "https://open.spotify.com/artist/1S9WGrK7SZfXXQtHBYzDle"
+        }
+      ],
+      "duration_ms": 203181,
+      "name": "Dr. Phil",
+      "url": "https://open.spotify.com/track/2XJZf6npI2jDpM6vUpZ8rL"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -2307,6 +2307,22 @@
     {
       "added_at": "2023-06-30 04:01:00",
       "album": {
+        "name": "kinder opposites",
+        "url": "https://open.spotify.com/album/0ThEJ7ZMDyj44WRjbRBYuT"
+      },
+      "artists": [
+        {
+          "name": "Laxcity",
+          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
+        }
+      ],
+      "duration_ms": 85000,
+      "name": "skyscraper",
+      "url": "https://open.spotify.com/track/3kksDDFnR3kis8B3C1g6yu"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
         "name": "222\u2020 \u2202\u2206 \u00a7\u00a7\u00a7",
         "url": "https://open.spotify.com/album/7eYOa53TWuUcfRpf8f6Nar"
       },
@@ -2319,6 +2335,62 @@
       "duration_ms": 292527,
       "name": "222\u2020 \u2202\u2206 \u00a7\u00a7\u00a7",
       "url": "https://open.spotify.com/track/6vfkZpkACUVfUZlZOYbprt"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Demons",
+        "url": "https://open.spotify.com/album/5MqGg9nHzeU9QPujPYKJAG"
+      },
+      "artists": [
+        {
+          "name": "DROELOE",
+          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
+        }
+      ],
+      "duration_ms": 284444,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/4WlSrA0dALD8NXSOTNhjNT"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "CHAMELEON",
+        "url": "https://open.spotify.com/album/6fNxqFoLyiGMpiKc68tN0i"
+      },
+      "artists": [
+        {
+          "name": "Saint Sinner",
+          "url": "https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y"
+        },
+        {
+          "name": "ATYYA",
+          "url": "https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7"
+        }
+      ],
+      "duration_ms": 186093,
+      "name": "CHAMELEON",
+      "url": "https://open.spotify.com/track/7bz3aBvfS99RkIumQnM7Fo"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Let You Down",
+        "url": "https://open.spotify.com/album/53fvgmWkvP8FKGbdO4zWiI"
+      },
+      "artists": [
+        {
+          "name": "Tisoki",
+          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
+        },
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        }
+      ],
+      "duration_ms": 209500,
+      "name": "Let You Down",
+      "url": "https://open.spotify.com/track/4koJOexsJfCdpyiWPlu3K9"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -2347,82 +2419,6 @@
       "duration_ms": 237488,
       "name": "On Air",
       "url": "https://open.spotify.com/track/3r7g1BxqfQu1y5CLBkemdZ"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "kinder opposites",
-        "url": "https://open.spotify.com/album/0ThEJ7ZMDyj44WRjbRBYuT"
-      },
-      "artists": [
-        {
-          "name": "Laxcity",
-          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
-        }
-      ],
-      "duration_ms": 85000,
-      "name": "skyscraper",
-      "url": "https://open.spotify.com/track/3kksDDFnR3kis8B3C1g6yu"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Demons",
-        "url": "https://open.spotify.com/album/5MqGg9nHzeU9QPujPYKJAG"
-      },
-      "artists": [
-        {
-          "name": "DROELOE",
-          "url": "https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA"
-        }
-      ],
-      "duration_ms": 284444,
-      "name": "Demons",
-      "url": "https://open.spotify.com/track/4WlSrA0dALD8NXSOTNhjNT"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Let You Down",
-        "url": "https://open.spotify.com/album/53fvgmWkvP8FKGbdO4zWiI"
-      },
-      "artists": [
-        {
-          "name": "Tisoki",
-          "url": "https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64"
-        },
-        {
-          "name": "Pauline Herr",
-          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
-        }
-      ],
-      "duration_ms": 209500,
-      "name": "Let You Down",
-      "url": "https://open.spotify.com/track/4koJOexsJfCdpyiWPlu3K9"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Pillow Talk",
-        "url": "https://open.spotify.com/album/6G17XnBNHd4CuPsOVQk1dR"
-      },
-      "artists": [
-        {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
-        },
-        {
-          "name": "Wingtip",
-          "url": "https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI"
-        },
-        {
-          "name": "What So Not",
-          "url": "https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Pillow Talk",
-      "url": "https://open.spotify.com/track/2rw2SOQ3KDCLOXugoKLfPx"
     }
   ],
   "unique_name": "creamy",

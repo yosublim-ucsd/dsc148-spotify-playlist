@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: Lekan\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,448 likes - 423 songs - 21 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,868 likes - 423 songs - 21 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -221,7 +221,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 211 | [Amnesia](https://open.spotify.com/track/0qtEyHDZR52zOOdVCybDbu) | [Maurice Moore](https://open.spotify.com/artist/2r3A0lVppaYaTz2ttY1Jws) | [Amnesia](https://open.spotify.com/album/560adZ6I3nFZlZKGtN90Qp) | 2:50 |
 | 212 | [Closer](https://open.spotify.com/track/587C4Aldzk9IotCYASrIoR) | [Caleb Taylor](https://open.spotify.com/artist/2HlbEnU7PX3NEpeYlWwXTH) | [Closer](https://open.spotify.com/album/2lxRRDXLJk1dKVEdAIt3My) | 2:18 |
 | 213 | [Persuade Me](https://open.spotify.com/track/775RzkgZutFuIiqUttdo0Z) | [Naesia](https://open.spotify.com/artist/2InyKKvSXjsPZHDhAKrtZA) | [Persuade Me](https://open.spotify.com/album/3WzmMpUhESBLc6R8Z5aM57) | 3:02 |
-| 214 | [Purple Skies](https://open.spotify.com/track/0ToLN32qF8AChmMqRPkjlR) | [Abrina](https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58) | [Purple Skies](https://open.spotify.com/album/4JJjhiUJE60AAQJPLyX2W9) | 2:48 |
+| 214 | [Purple Skies](https://open.spotify.com/track/1pMcWLzjFpTv6u1r6P0Enx) | [Abrina](https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58) | [Purple Skies](https://open.spotify.com/album/42tU9SHtrKPBNstq3kHxkc) | 2:48 |
 | 215 | [State Of Mind](https://open.spotify.com/track/6UwxMsqDA9qMjNXl3HCvHG) | [Henri Gaston](https://open.spotify.com/artist/52y8QkoyGh5eYwpqU75fGa) | [State Of Mind](https://open.spotify.com/album/44x9FLjqOR4u3X08LJj0x2) | 3:13 |
 | 216 | [Libra Scale \- Acoustic](https://open.spotify.com/track/2ItSrjTOMkxejPBTncfj5c) | [Love Moor](https://open.spotify.com/artist/2YUbTUcCN7avxcXKrJGm71) | [Libra Scale \(Acoustic\)](https://open.spotify.com/album/3cKnZ69uhj7R4ZUcTNfRHX) | 3:24 |
 | 217 | [Girl Next Door](https://open.spotify.com/track/0E5O7kDSbiK4Ke6m259joQ) | [G.Ghost](https://open.spotify.com/artist/5oCxNLRlQnE00uhytRYYXi), [Tay D](https://open.spotify.com/artist/2xZVH2W4jaE7MJ6K04q43D) | [Girl Next Door](https://open.spotify.com/album/299qXkDZ9FVknrT6DMESFw) | 4:17 |
@@ -432,4 +432,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 422 | [on my way](https://open.spotify.com/track/4jyFBA3QwE3GLvbxPLC6cQ) | [wickbabi](https://open.spotify.com/artist/4CXwoMV6VkcZL9XymMaPoY) | [on my way](https://open.spotify.com/album/2zFLfmHfMVgE9uw0Yj18JH) | 1:24 |
 | 423 | [Lucky Girl](https://open.spotify.com/track/6f6SbYsZtqP3DpPjR5OLiB) | [Carlina](https://open.spotify.com/artist/0rhwS3z7tnZwt9UhyjyL77) | [Lucky Girl](https://open.spotify.com/album/77G5rwJ5sBhLpdIPsF1OVl) | 3:47 |
 
-Snapshot ID: `MCwyNmU5ZTBmYWU5YTkxNDYyOWUyYzRlN2Y5NDJjMjhjMDMzY2UzN2Ji`
+Snapshot ID: `MCw2MGZjMzk1ZDZmODZhODUxZjhhNTI2OGVlNzZkOWVlNmNmZjI0MjRk`

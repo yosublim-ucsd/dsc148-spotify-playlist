@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Raghavendra Stores",
-  "num_followers": 50186,
+  "num_followers": 50198,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDcyODc0ZTE0NTQ4NDQ4MGViZDE5YzRjODFlYmFmYzAzNGMwM2M0",
+  "snapshot_id": "MCwyZDk4MmE3YTRlNjFiMzUzZDQ4MjAwZjk2ODE2N2Y4MGVlNzI1YmQw",
   "tracks": [
     {
       "added_at": "2023-04-12 13:37:54",
@@ -153,28 +153,24 @@
       "url": "https://open.spotify.com/track/3tUfAAX3KOWnceR77QRzun"
     },
     {
-      "added_at": "2023-07-11 10:55:53",
+      "added_at": "2023-07-19 11:13:36",
       "album": {
-        "name": "Miss Shetty Mr Polishetty (Kannada)",
-        "url": "https://open.spotify.com/album/4EDeV6UjeSY1xSDt6zATNj"
+        "name": "Daredevil Musthafa (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6RED4wqTEbC9xTcEs9NGs2"
       },
       "artists": [
         {
-          "name": "Ranjith Govind",
-          "url": "https://open.spotify.com/artist/7zFlr6Y537SdALqy0Xfvth"
+          "name": "Sunidhi Ganesh",
+          "url": "https://open.spotify.com/artist/3PPHt5iBZRfDNbiy6saH7K"
         },
         {
-          "name": "Radhan",
-          "url": "https://open.spotify.com/artist/5FOhBMFQo0pDhvISlFmxdi"
-        },
-        {
-          "name": "Aniruddha Sastry",
-          "url": "https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa"
+          "name": "Varun Ramachandra",
+          "url": "https://open.spotify.com/artist/5UayLxcBFJpD03u2qihj84"
         }
       ],
-      "duration_ms": 167051,
-      "name": "Lady Luck",
-      "url": "https://open.spotify.com/track/6HhBDFjRAK28aqnb6Xyfc2"
+      "duration_ms": 132571,
+      "name": "Prarambha Payana",
+      "url": "https://open.spotify.com/track/5lJ9amDizjr5Z841zhFkeR"
     },
     {
       "added_at": "2023-07-14 06:06:30",
@@ -199,6 +195,30 @@
       "duration_ms": 249514,
       "name": "Ayyo Ayyo - From \"Namo Boothathma 2\"",
       "url": "https://open.spotify.com/track/46d10rq7F6Fqj1nzcdb9qR"
+    },
+    {
+      "added_at": "2023-07-19 11:13:36",
+      "album": {
+        "name": "Bengaluru's Suprabhata (From \"Aachar & Co.\")",
+        "url": "https://open.spotify.com/album/4miUtJs1eVVXmGx8NmsXQv"
+      },
+      "artists": [
+        {
+          "name": "Bindhumalini Narayanaswamy",
+          "url": "https://open.spotify.com/artist/2pZFH5Fo5vnXVpjjHsB2Ct"
+        },
+        {
+          "name": "Trilok Trivikrama",
+          "url": "https://open.spotify.com/artist/6MTe5fJI1DmWQXzfh9KHhw"
+        },
+        {
+          "name": "Rama Mani",
+          "url": "https://open.spotify.com/artist/1KZpMyxvBgMDJgDbs9Acps"
+        }
+      ],
+      "duration_ms": 164458,
+      "name": "Bengaluru's Suprabhata (From \"Aachar & Co.\")",
+      "url": "https://open.spotify.com/track/2Vw00Nw9SqkD0UxLfw3dy9"
     },
     {
       "added_at": "2023-07-13 11:19:20",
@@ -245,6 +265,34 @@
       "url": "https://open.spotify.com/track/3NYuouBxWcYGgon6DqgCJV"
     },
     {
+      "added_at": "2023-07-19 11:13:36",
+      "album": {
+        "name": "Dharaniye Daniyali (From \"Paramvah\")",
+        "url": "https://open.spotify.com/album/0LNcfuHfbAQQdKL68I8yNr"
+      },
+      "artists": [
+        {
+          "name": "Pancham Jeeva",
+          "url": "https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s"
+        },
+        {
+          "name": "Aparajith",
+          "url": "https://open.spotify.com/artist/3FxEjVe2C0MQXdfU46vCb7"
+        },
+        {
+          "name": "Jos Jossey",
+          "url": "https://open.spotify.com/artist/4cUt2kLK0SggEXpMpFLjOx"
+        },
+        {
+          "name": "Veeresh Shivamurthy",
+          "url": "https://open.spotify.com/artist/6lfRftP5Id63j85WRHjhTX"
+        }
+      ],
+      "duration_ms": 127540,
+      "name": "Dharaniye Daniyali (From \"Paramvah\")",
+      "url": "https://open.spotify.com/track/4c1OQoXJmwktgTNgPFQbVI"
+    },
+    {
       "added_at": "2023-07-12 11:22:29",
       "album": {
         "name": "Aasare (From \"Nimmellara Aashirvada \")",
@@ -267,6 +315,30 @@
       "duration_ms": 300948,
       "name": "Aasare - From \"Nimmellara Aashirvada \"",
       "url": "https://open.spotify.com/track/2fquawD0QH7ALTaY5B7R2o"
+    },
+    {
+      "added_at": "2023-07-19 11:13:36",
+      "album": {
+        "name": "Daredevil Musthafa (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6RED4wqTEbC9xTcEs9NGs2"
+      },
+      "artists": [
+        {
+          "name": "Sanju YBH",
+          "url": "https://open.spotify.com/artist/33U4qMXAW0LqZHdfThFaB5"
+        },
+        {
+          "name": "Swastik Karekad",
+          "url": "https://open.spotify.com/artist/5opIXtScAMSUYa3Z2wmUnI"
+        },
+        {
+          "name": "Navaneeth Sham",
+          "url": "https://open.spotify.com/artist/7o9uqL4spl1juQLR9jij8S"
+        }
+      ],
+      "duration_ms": 42000,
+      "name": "Naan Bidi Daredevil",
+      "url": "https://open.spotify.com/track/5SJTcmbqC6GFzA8rub40Ls"
     },
     {
       "added_at": "2023-05-20 08:05:14",
@@ -313,20 +385,36 @@
       "url": "https://open.spotify.com/track/7b1ZnYo1CjAquKJpX7J4vz"
     },
     {
-      "added_at": "2023-06-22 11:47:39",
+      "added_at": "2023-07-19 11:13:36",
       "album": {
-        "name": "Dhoomam (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/79yGylbaKAHKsNHsaxCPRo"
+        "name": "Snehada Kadalali (From \"Paramvah\")",
+        "url": "https://open.spotify.com/album/3wWlz3OBsOFpaFpZ9xiEVg"
       },
       "artists": [
         {
-          "name": "Poornachandra Tejaswi S.V.",
-          "url": "https://open.spotify.com/artist/6mTSfe5H7oo57NKuFSUoeX"
+          "name": "Naveen Sajju",
+          "url": "https://open.spotify.com/artist/2PxwriIRRPcrUf2YHU7Wzx"
+        },
+        {
+          "name": "Aparajith",
+          "url": "https://open.spotify.com/artist/3FxEjVe2C0MQXdfU46vCb7"
+        },
+        {
+          "name": "Jos Jossey",
+          "url": "https://open.spotify.com/artist/4cUt2kLK0SggEXpMpFLjOx"
+        },
+        {
+          "name": "Arjun Lewis",
+          "url": "https://open.spotify.com/artist/21v78VY5iBrav8FSP4B9EY"
+        },
+        {
+          "name": "Nagesh Kundapura",
+          "url": "https://open.spotify.com/artist/19FEhamBap1MSFCB34qt0s"
         }
       ],
-      "duration_ms": 289939,
-      "name": "Dhoomam Title Song (Kannada)",
-      "url": "https://open.spotify.com/track/0I1PahoPc90Isp0wSUHSec"
+      "duration_ms": 282541,
+      "name": "Snehada Kadalali (From \"Paramvah\")",
+      "url": "https://open.spotify.com/track/4KJvTL4XjJoKUb5CZIgEtz"
     },
     {
       "added_at": "2023-07-17 11:10:06",
@@ -351,30 +439,6 @@
       "duration_ms": 266785,
       "name": "Yaaru Yaaru - From \"Nimmellara Aashirvada \"",
       "url": "https://open.spotify.com/track/0U9so7ube4YJdIHgvBRq20"
-    },
-    {
-      "added_at": "2023-07-10 12:59:39",
-      "album": {
-        "name": "Jeevanada Jatreyali (From \"Nano Narayanappa\")",
-        "url": "https://open.spotify.com/album/0ibW7cOqA7TOUmqr2pZny3"
-      },
-      "artists": [
-        {
-          "name": "Keerthan Holla",
-          "url": "https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re"
-        },
-        {
-          "name": "Siddhu Kodipura",
-          "url": "https://open.spotify.com/artist/2oUm5xtgePIC1nQcIEdsSz"
-        },
-        {
-          "name": "Akash Parva",
-          "url": "https://open.spotify.com/artist/2LyrhBPTEuifocZjRarMW6"
-        }
-      ],
-      "duration_ms": 219676,
-      "name": "Jeevanada Jatreyali - From \"Nano Narayanappa\"",
-      "url": "https://open.spotify.com/track/1SXRBzjHxxHfoPne3ibmRL"
     },
     {
       "added_at": "2023-07-12 11:22:29",
@@ -415,26 +479,6 @@
       "duration_ms": 104511,
       "name": "Karago Chandrana Nambi (from \"Guilt\")",
       "url": "https://open.spotify.com/track/0yLHWDYyFi5dbJOBLQeuKm"
-    },
-    {
-      "added_at": "2023-07-06 12:25:07",
-      "album": {
-        "name": "Hariva Dhyana (From \"Aura\")",
-        "url": "https://open.spotify.com/album/1BUD8Ty4xttM4bKDE3eVzw"
-      },
-      "artists": [
-        {
-          "name": "Girish Hothur",
-          "url": "https://open.spotify.com/artist/29O31xO7j46cpvDLf7yOd0"
-        },
-        {
-          "name": "AR Rohit",
-          "url": "https://open.spotify.com/artist/69tKXP6iohK3uFB2vVcdlC"
-        }
-      ],
-      "duration_ms": 86332,
-      "name": "Hariva Dhyana - From \"Aura\"",
-      "url": "https://open.spotify.com/track/2KoQZgUu2lemQ3zvjbpPF5"
     },
     {
       "added_at": "2023-06-07 04:40:04",
@@ -503,30 +547,6 @@
       "duration_ms": 260570,
       "name": "Naane Raama Naane Raavana (from \"Kiraathaka 2\")",
       "url": "https://open.spotify.com/track/1ruiOa3vHHJGDEgcFUKzr3"
-    },
-    {
-      "added_at": "2023-06-16 10:54:15",
-      "album": {
-        "name": "Appa Ninnappugeyu (From \"Melody Drama\")",
-        "url": "https://open.spotify.com/album/6HqvV7tednMW0enQajBtJs"
-      },
-      "artists": [
-        {
-          "name": "Kiran Ravindranath",
-          "url": "https://open.spotify.com/artist/6DaLMiOobc3J5d4K82owip"
-        },
-        {
-          "name": "Hridaya Shiva",
-          "url": "https://open.spotify.com/artist/2XngmlAuc1ZpoMLCKU4Zjn"
-        },
-        {
-          "name": "Rihaana",
-          "url": "https://open.spotify.com/artist/3vQ1gr9Om8dIICjGZZUnEr"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Appa Ninnappugeyu (From \"Melody Drama\")",
-      "url": "https://open.spotify.com/track/7vREFU9tT4weQj3dE2xeAK"
     },
     {
       "added_at": "2023-06-09 06:29:08",
@@ -1011,30 +1031,6 @@
       "duration_ms": 264960,
       "name": "Ili Sanjeyu Mankagide",
       "url": "https://open.spotify.com/track/2fMdEkql4Od2To6bhpRxYT"
-    },
-    {
-      "added_at": "2023-04-27 11:58:16",
-      "album": {
-        "name": "Matte Maduve",
-        "url": "https://open.spotify.com/album/1einbNMBPIE9bVDDWJHiPW"
-      },
-      "artists": [
-        {
-          "name": "Suresh Bobbili",
-          "url": "https://open.spotify.com/artist/4TR1GJuGfGfrCLjNCI44eZ"
-        },
-        {
-          "name": "Santhosh Venky",
-          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
-        },
-        {
-          "name": "Varadaraju Chikkaballapura",
-          "url": "https://open.spotify.com/artist/49xagSHCtnXc62Ifkj7bCI"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "Urulo Kaalave",
-      "url": "https://open.spotify.com/track/4aBPuMlL74N21gC3HHS84T"
     },
     {
       "added_at": "2023-05-08 08:30:40",

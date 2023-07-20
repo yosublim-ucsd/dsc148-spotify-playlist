@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > zudizilla é AULAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,245,621 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,245,613 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pequenas Coisas](https://open.spotify.com/track/734Psmqq41D9bam2zPjY7z) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 3:16 |
-| 2 | [Faça Dinheiro, Se Mantenha Vivo](https://open.spotify.com/track/6XGN9afKuLwmXEipg53yqz) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [KOPO](https://open.spotify.com/artist/3vSHkuSE00R9QBkm5SByaA) | [Faça Dinheiro, Se Mantenha Vivo](https://open.spotify.com/album/67FpK5RVgcIG9LexjpWHv4) | 2:18 |
+| 2 | [Faça Dinheiro, Se Mantenha Vivo](https://open.spotify.com/track/6XGN9afKuLwmXEipg53yqz) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [KOPO](https://open.spotify.com/artist/3vSHkuSE00R9QBkm5SByaA), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Faça Dinheiro, Se Mantenha Vivo](https://open.spotify.com/album/67FpK5RVgcIG9LexjpWHv4) | 2:18 |
 | 3 | [Mil Motivos](https://open.spotify.com/track/46107kkgYPfPy8sC1WTJ6q) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV) | [Mil Motivos](https://open.spotify.com/album/3qTDI8YeiQAZjQVxxkILim) | 3:08 |
 | 4 | [Imprevisto](https://open.spotify.com/track/0oZrvoCYEbKGCsU7cQqNnw) | [Yago Oproprio](https://open.spotify.com/artist/7HoPy2YmahCCaYaFSFq497), [Rô Rosa](https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B), [Skeeter Beats](https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H) | [Imprevisto](https://open.spotify.com/album/4KbiGCm9vDI0dLXwGGXktY) | 2:19 |
 | 5 | [DRAKE DA CAPITAL](https://open.spotify.com/track/1zQY9PHUacBGt5tPnh41n0) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Rapper Gregory](https://open.spotify.com/artist/55XEJ5O0Gy6wAUANXfXpSS) | [Yin Yang](https://open.spotify.com/album/7IkkEKUavQSekkWD7vgOq3) | 4:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 | 49 | [Retrato \#1 \- O Que Eu Não Sei](https://open.spotify.com/track/07Kfl5a8EQdy2nxeQmQ2QZ) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [Akil](https://open.spotify.com/artist/3BRur6P9nSyn8rG6yB5nqv), [AZN Studio](https://open.spotify.com/artist/3mmQ2jRf2DDpkI844nTT1h) | [Retrato \#1 \- O Que Eu Não Sei](https://open.spotify.com/album/59vjYc18WBcUKa1wRl5bhH) | 2:20 |
 | 50 | [Liderança](https://open.spotify.com/track/7dKz6xy1ZMywmrrP5HMw8u) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [KIB7](https://open.spotify.com/artist/7lSYO6wq6ueSYYIEUbF92u), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX) | [Liderança](https://open.spotify.com/album/1VnaJPgFvfAzcQaegraRDc) | 3:30 |
 
-Snapshot ID: `MCw3MzIwYjBkZDMyZTFmYmEzMzZmYTBhYzc5NGJlNzNhNDRjYjUwMWNh`
+Snapshot ID: `MCw2NDU3YWQ3M2I3NjY4NTQxYTZjM2Y2ODY2YmJjOTJiZTQzZjNiNDAw`

@@ -1,12 +1,12 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Kant",
-  "num_followers": 131931,
+  "num_followers": 132127,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjQ3NGExZjFjMWZkMWI0ZTE4OGYzOGI1Y2M3NGIzMmJhNzg0OTBm",
+  "snapshot_id": "MCw5ODk1ZWU4YmM1NTdjM2Q3ZmU3MGIwYTJmM2ExZmVkYzg1Nzc1NTFk",
   "tracks": [
     {
       "added_at": "2023-07-14 16:53:45",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-07-14 16:53:45",
       "album": {
-        "name": "Se P\u00e1",
-        "url": "https://open.spotify.com/album/0j5Bk6mgPM0JfIeFXIIYWC"
-      },
-      "artists": [
-        {
-          "name": "Ney Moura",
-          "url": "https://open.spotify.com/artist/1Dx5NxeSB0BFeA2cX7i2C4"
-        }
-      ],
-      "duration_ms": 163794,
-      "name": "Se P\u00e1",
-      "url": "https://open.spotify.com/track/6fovcomKmYiwkIiULHDNFR"
-    },
-    {
-      "added_at": "2023-07-14 16:53:45",
-      "album": {
         "name": "Imersum",
         "url": "https://open.spotify.com/album/5s3jenCVda04NVBAIgQvRZ"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 170788,
       "name": "Imersum",
       "url": "https://open.spotify.com/track/5Z6bTfCwoh9767xNVGrV70"
+    },
+    {
+      "added_at": "2023-07-14 16:53:45",
+      "album": {
+        "name": "Se P\u00e1",
+        "url": "https://open.spotify.com/album/0j5Bk6mgPM0JfIeFXIIYWC"
+      },
+      "artists": [
+        {
+          "name": "Ney Moura",
+          "url": "https://open.spotify.com/artist/1Dx5NxeSB0BFeA2cX7i2C4"
+        }
+      ],
+      "duration_ms": 163794,
+      "name": "Se P\u00e1",
+      "url": "https://open.spotify.com/track/6fovcomKmYiwkIiULHDNFR"
     },
     {
       "added_at": "2023-07-14 16:53:45",
@@ -943,26 +943,26 @@
     {
       "added_at": "2023-07-14 16:53:45",
       "album": {
-        "name": "Amor \u00c1gape",
-        "url": "https://open.spotify.com/album/3e1uEOZv78o5VnfgWKqnkc"
+        "name": "Olho pro C\u00e9u",
+        "url": "https://open.spotify.com/album/34rhziCCOtspVNUED09xYb"
       },
       "artists": [
         {
-          "name": "Big Asher",
-          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
+          "name": "WC12",
+          "url": "https://open.spotify.com/artist/6dQkBBfff6UrkiFWmiPZhe"
         },
         {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+          "name": "Gem\u00e3o",
+          "url": "https://open.spotify.com/artist/1MDgpjNeVepTbDdQIjmbE2"
         },
         {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+          "name": "Z\u00c9ZIIN",
+          "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
         }
       ],
-      "duration_ms": 326028,
-      "name": "Amor \u00c1gape",
-      "url": "https://open.spotify.com/track/2AgIr2i9ygNU6IfZLiXduU"
+      "duration_ms": 228668,
+      "name": "Olho pro C\u00e9u",
+      "url": "https://open.spotify.com/track/5m4DYDaq07W0o2dIYGik0S"
     },
     {
       "added_at": "2023-07-14 16:53:45",
@@ -1003,26 +1003,26 @@
     {
       "added_at": "2023-07-14 16:53:45",
       "album": {
-        "name": "Olho pro C\u00e9u",
-        "url": "https://open.spotify.com/album/34rhziCCOtspVNUED09xYb"
+        "name": "Amor \u00c1gape",
+        "url": "https://open.spotify.com/album/3e1uEOZv78o5VnfgWKqnkc"
       },
       "artists": [
         {
-          "name": "WC12",
-          "url": "https://open.spotify.com/artist/6dQkBBfff6UrkiFWmiPZhe"
+          "name": "Big Asher",
+          "url": "https://open.spotify.com/artist/65ADuZ2uq8b2110UIBwCcU"
         },
         {
-          "name": "Gem\u00e3o",
-          "url": "https://open.spotify.com/artist/1MDgpjNeVepTbDdQIjmbE2"
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
         },
         {
-          "name": "Z\u00c9ZIIN",
-          "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
         }
       ],
-      "duration_ms": 228668,
-      "name": "Olho pro C\u00e9u",
-      "url": "https://open.spotify.com/track/5m4DYDaq07W0o2dIYGik0S"
+      "duration_ms": 326028,
+      "name": "Amor \u00c1gape",
+      "url": "https://open.spotify.com/track/2AgIr2i9ygNU6IfZLiXduU"
     },
     {
       "added_at": "2023-07-14 16:53:45",
@@ -1147,18 +1147,22 @@
     {
       "added_at": "2023-07-14 16:53:45",
       "album": {
-        "name": "Me Faz Bem",
-        "url": "https://open.spotify.com/album/2yccid2zOW2rcTqzjmVwj4"
+        "name": "Tempestade",
+        "url": "https://open.spotify.com/album/76wlxLNGpKzyTGItuvzMDU"
       },
       "artists": [
         {
-          "name": "MARCO AZAUSKI",
-          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
+          "name": "MC Jamil",
+          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
+        },
+        {
+          "name": "Insanou",
+          "url": "https://open.spotify.com/artist/44zmnvHV1E3qfpJzzjcLR3"
         }
       ],
-      "duration_ms": 186293,
-      "name": "Me Faz Bem",
-      "url": "https://open.spotify.com/track/332XZaNZUvAAsDsbtKknZE"
+      "duration_ms": 224529,
+      "name": "Tempestade",
+      "url": "https://open.spotify.com/track/1I57j6OTcEJWShxaa6xrS7"
     },
     {
       "added_at": "2023-07-14 16:53:45",
@@ -1199,18 +1203,18 @@
     {
       "added_at": "2023-07-14 16:53:45",
       "album": {
-        "name": "Fala pra eles que \u00e9 o Felipin",
-        "url": "https://open.spotify.com/album/4rkYtgLw1tpT4KjNweAZzB"
+        "name": "Me Faz Bem",
+        "url": "https://open.spotify.com/album/2yccid2zOW2rcTqzjmVwj4"
       },
       "artists": [
         {
-          "name": "Felipin",
-          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
+          "name": "MARCO AZAUSKI",
+          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
         }
       ],
-      "duration_ms": 179016,
-      "name": "Alian\u00e7a",
-      "url": "https://open.spotify.com/track/3ZzagOjGIFvKr6FoCOkybw"
+      "duration_ms": 186293,
+      "name": "Me Faz Bem",
+      "url": "https://open.spotify.com/track/332XZaNZUvAAsDsbtKknZE"
     },
     {
       "added_at": "2023-07-14 16:53:45",
@@ -1227,6 +1231,22 @@
       "duration_ms": 181090,
       "name": "CQC",
       "url": "https://open.spotify.com/track/4JkzJn1FnabMbGAmlQ3A4Y"
+    },
+    {
+      "added_at": "2023-07-14 16:53:45",
+      "album": {
+        "name": "Fala pra eles que \u00e9 o Felipin",
+        "url": "https://open.spotify.com/album/4rkYtgLw1tpT4KjNweAZzB"
+      },
+      "artists": [
+        {
+          "name": "Felipin",
+          "url": "https://open.spotify.com/artist/59OlFBt2uDnovmyVJGkiFP"
+        }
+      ],
+      "duration_ms": 179016,
+      "name": "Alian\u00e7a",
+      "url": "https://open.spotify.com/track/3ZzagOjGIFvKr6FoCOkybw"
     },
     {
       "added_at": "2023-07-14 16:53:45",
@@ -1251,26 +1271,6 @@
       "duration_ms": 208695,
       "name": "Diamante na Lama 2",
       "url": "https://open.spotify.com/track/5N48BDEsBrloyontAV7PHb"
-    },
-    {
-      "added_at": "2023-07-14 16:53:45",
-      "album": {
-        "name": "Tempestade",
-        "url": "https://open.spotify.com/album/3lFAimQkwVjoZsdet0fBH1"
-      },
-      "artists": [
-        {
-          "name": "Calbertini",
-          "url": "https://open.spotify.com/artist/1D8wO50htejQzCFByxytKH"
-        },
-        {
-          "name": "Isaac Folly",
-          "url": "https://open.spotify.com/artist/7FTroPF49wOzN6lIHGKBBB"
-        }
-      ],
-      "duration_ms": 204827,
-      "name": "Tempestade",
-      "url": "https://open.spotify.com/track/7LpZJm6gu1XGnNSkmRknbO"
     },
     {
       "added_at": "2023-07-14 16:53:45",
@@ -1332,37 +1332,41 @@
       "added_at": "2023-07-14 16:53:45",
       "album": {
         "name": "Tempestade",
-        "url": "https://open.spotify.com/album/76wlxLNGpKzyTGItuvzMDU"
+        "url": "https://open.spotify.com/album/3lFAimQkwVjoZsdet0fBH1"
       },
       "artists": [
         {
-          "name": "MC Jamil",
-          "url": "https://open.spotify.com/artist/1VRrBnMKsKrRZh7JV6Xmvc"
+          "name": "Calbertini",
+          "url": "https://open.spotify.com/artist/1D8wO50htejQzCFByxytKH"
         },
         {
-          "name": "Insanou",
-          "url": "https://open.spotify.com/artist/44zmnvHV1E3qfpJzzjcLR3"
+          "name": "Isaac Folly",
+          "url": "https://open.spotify.com/artist/7FTroPF49wOzN6lIHGKBBB"
         }
       ],
-      "duration_ms": 224529,
+      "duration_ms": 204827,
       "name": "Tempestade",
-      "url": "https://open.spotify.com/track/1I57j6OTcEJWShxaa6xrS7"
+      "url": "https://open.spotify.com/track/7LpZJm6gu1XGnNSkmRknbO"
     },
     {
       "added_at": "2023-07-14 16:53:45",
       "album": {
-        "name": "Fluindo no Esp\u00edrito",
-        "url": "https://open.spotify.com/album/1yqUIiSUAsVnDgxsePDGRE"
+        "name": "Dia de Show",
+        "url": "https://open.spotify.com/album/4j0KcSfGLfZnSJ8glD57Di"
       },
       "artists": [
         {
-          "name": "MJ",
-          "url": "https://open.spotify.com/artist/6u4UNi50tvp4DYnzcIiD1V"
+          "name": "Jess\u00e9 Alcantara",
+          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
+        },
+        {
+          "name": "Orelhv",
+          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
         }
       ],
-      "duration_ms": 196750,
-      "name": "Fluindo no Esp\u00edrito",
-      "url": "https://open.spotify.com/track/5RKMtFEbNtEn2wk6VssqP7"
+      "duration_ms": 146000,
+      "name": "Dia de Show",
+      "url": "https://open.spotify.com/track/6LsuOeGYEiRHuwZ5VTrjEd"
     },
     {
       "added_at": "2023-07-14 16:53:45",
@@ -1387,22 +1391,38 @@
     {
       "added_at": "2023-07-14 16:53:45",
       "album": {
-        "name": "Dia de Show",
-        "url": "https://open.spotify.com/album/4j0KcSfGLfZnSJ8glD57Di"
+        "name": "Fluindo no Esp\u00edrito",
+        "url": "https://open.spotify.com/album/1yqUIiSUAsVnDgxsePDGRE"
       },
       "artists": [
         {
-          "name": "Jess\u00e9 Alcantara",
-          "url": "https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X"
-        },
-        {
-          "name": "Orelhv",
-          "url": "https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS"
+          "name": "MJ",
+          "url": "https://open.spotify.com/artist/6u4UNi50tvp4DYnzcIiD1V"
         }
       ],
-      "duration_ms": 146000,
-      "name": "Dia de Show",
-      "url": "https://open.spotify.com/track/6LsuOeGYEiRHuwZ5VTrjEd"
+      "duration_ms": 196750,
+      "name": "Fluindo no Esp\u00edrito",
+      "url": "https://open.spotify.com/track/5RKMtFEbNtEn2wk6VssqP7"
+    },
+    {
+      "added_at": "2023-07-14 16:53:45",
+      "album": {
+        "name": "Cora\u00e7\u00e3o Quebrado",
+        "url": "https://open.spotify.com/album/349KT4LJKGKSgtajbT031W"
+      },
+      "artists": [
+        {
+          "name": "P. Oliveira",
+          "url": "https://open.spotify.com/artist/7fqc3O97h2bySMwdI2g9Zd"
+        },
+        {
+          "name": "SCampos",
+          "url": "https://open.spotify.com/artist/35Ec0e31nIQQ67eQqK0dhZ"
+        }
+      ],
+      "duration_ms": 122193,
+      "name": "Cora\u00e7\u00e3o Quebrado",
+      "url": "https://open.spotify.com/track/0zDsJEkQ9hITcgucojBQzt"
     },
     {
       "added_at": "2023-07-14 16:53:45",
@@ -1487,26 +1507,6 @@
       "duration_ms": 212057,
       "name": "Yeshua Vive",
       "url": "https://open.spotify.com/track/5N6onJmQDASt4PCeTUCidY"
-    },
-    {
-      "added_at": "2023-07-14 16:53:45",
-      "album": {
-        "name": "Cora\u00e7\u00e3o Quebrado",
-        "url": "https://open.spotify.com/album/349KT4LJKGKSgtajbT031W"
-      },
-      "artists": [
-        {
-          "name": "P. Oliveira",
-          "url": "https://open.spotify.com/artist/7fqc3O97h2bySMwdI2g9Zd"
-        },
-        {
-          "name": "SCampos",
-          "url": "https://open.spotify.com/artist/35Ec0e31nIQQ67eQqK0dhZ"
-        }
-      ],
-      "duration_ms": 122193,
-      "name": "Cora\u00e7\u00e3o Quebrado",
-      "url": "https://open.spotify.com/track/0zDsJEkQ9hITcgucojBQzt"
     },
     {
       "added_at": "2023-07-14 16:53:45",

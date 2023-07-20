@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Fernandinho",
-  "num_followers": 120328,
+  "num_followers": 120448,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTk0MDkyZmM2NTlkOGQ1NGViNjgzYjEyMGQ2NzM4MTk3Yjc3ODlm",
+  "snapshot_id": "MCw2OTc0ZWM4YzdmMmYxZWM5ZDUxYjljZjU4MWJkNDlkMTU0ZTg2NzRj",
   "tracks": [
     {
       "added_at": "2023-07-14 16:16:52",
@@ -27,22 +27,6 @@
     {
       "added_at": "2023-07-14 16:16:52",
       "album": {
-        "name": "Ele \u00c9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6iDiVYY9MniV45VytnW5MP"
-      },
-      "artists": [
-        {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
-        }
-      ],
-      "duration_ms": 382608,
-      "name": "OH! Se Fendesses - Ao Vivo",
-      "url": "https://open.spotify.com/track/5TJedk4fuUFoCy74qjIzlm"
-    },
-    {
-      "added_at": "2023-07-14 16:16:52",
-      "album": {
         "name": "Aviva-Nos / A Terra Clama / Fogo e Gl\u00f3ria",
         "url": "https://open.spotify.com/album/6gOZTR9GlaP1eOIBbvrT63"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 565039,
       "name": "Aviva-Nos / A Terra Clama / Fogo e Gl\u00f3ria",
       "url": "https://open.spotify.com/track/6zuKUWd8WI64enPMwPBsmE"
+    },
+    {
+      "added_at": "2023-07-14 16:16:52",
+      "album": {
+        "name": "Ele \u00c9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6iDiVYY9MniV45VytnW5MP"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "duration_ms": 382608,
+      "name": "OH! Se Fendesses - Ao Vivo",
+      "url": "https://open.spotify.com/track/5TJedk4fuUFoCy74qjIzlm"
     },
     {
       "added_at": "2023-07-14 16:16:52",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-07-14 16:16:52",
       "album": {
-        "name": "Lembre-se 80's",
-        "url": "https://open.spotify.com/album/29qCLrddHGIBvFBOu4almu"
-      },
-      "artists": [
-        {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
-        }
-      ],
-      "duration_ms": 296500,
-      "name": "Medley Le\u00e3o de Jud\u00e1",
-      "url": "https://open.spotify.com/track/0ejnofglgLxwmt24MSMlSe"
-    },
-    {
-      "added_at": "2023-07-14 16:16:52",
-      "album": {
         "name": "De Malas Prontas",
         "url": "https://open.spotify.com/album/0FYt1B473sCYjKI7cm1Dng"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 394353,
       "name": "De Malas Prontas",
       "url": "https://open.spotify.com/track/2C8aTCVZAiPad7Tb9CsVjD"
+    },
+    {
+      "added_at": "2023-07-14 16:16:52",
+      "album": {
+        "name": "Lembre-se 80's",
+        "url": "https://open.spotify.com/album/29qCLrddHGIBvFBOu4almu"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "duration_ms": 296500,
+      "name": "Medley Le\u00e3o de Jud\u00e1",
+      "url": "https://open.spotify.com/track/0ejnofglgLxwmt24MSMlSe"
     },
     {
       "added_at": "2023-07-14 16:16:52",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-07-14 16:16:52",
       "album": {
-        "name": "Lembre-se 80's",
-        "url": "https://open.spotify.com/album/29qCLrddHGIBvFBOu4almu"
-      },
-      "artists": [
-        {
-          "name": "MORADA",
-          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
-        }
-      ],
-      "duration_ms": 232191,
-      "name": "A Alegria / O Ex\u00e9rcito de Deus / Caiam por Terra / Autoridade e Poder",
-      "url": "https://open.spotify.com/track/1FA2ED4v1F9d15HviInZSO"
-    },
-    {
-      "added_at": "2023-07-14 16:16:52",
-      "album": {
         "name": "Onde Tem Lenha",
         "url": "https://open.spotify.com/album/47FqGv4uJ97rwJ6L894DJI"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 594705,
       "name": "Onde Tem Lenha",
       "url": "https://open.spotify.com/track/4C8R3nxWiBNaDqEMixBRKz"
+    },
+    {
+      "added_at": "2023-07-14 16:16:52",
+      "album": {
+        "name": "Lembre-se 80's",
+        "url": "https://open.spotify.com/album/29qCLrddHGIBvFBOu4almu"
+      },
+      "artists": [
+        {
+          "name": "MORADA",
+          "url": "https://open.spotify.com/artist/2tswayWsUGjUwpvN8KRwuN"
+        }
+      ],
+      "duration_ms": 232191,
+      "name": "A Alegria / O Ex\u00e9rcito de Deus / Caiam por Terra / Autoridade e Poder",
+      "url": "https://open.spotify.com/track/1FA2ED4v1F9d15HviInZSO"
     },
     {
       "added_at": "2023-07-14 16:16:52",
@@ -483,18 +483,18 @@
     {
       "added_at": "2023-07-14 16:16:52",
       "album": {
-        "name": "Eu Vou Amanhecer (ao Vivo)",
-        "url": "https://open.spotify.com/album/0puuCUbHqQAhodavAxZbkj"
+        "name": "Te Seguirei",
+        "url": "https://open.spotify.com/album/6WJ9CUymLjKJ2Xs9vW1S3E"
       },
       "artists": [
         {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+          "name": "Tarik Mohallem",
+          "url": "https://open.spotify.com/artist/1gRga6tLnfNeH5SvLkB4n5"
         }
       ],
-      "duration_ms": 341789,
-      "name": "Eu Vou Amanhecer - Ao Vivo",
-      "url": "https://open.spotify.com/track/7MUFfFp3Voeu9N8hBBm960"
+      "duration_ms": 290232,
+      "name": "Te Seguirei",
+      "url": "https://open.spotify.com/track/2mC1lYtVlPs8NEvqeszUh7"
     },
     {
       "added_at": "2023-07-14 16:16:52",
@@ -519,6 +519,22 @@
     {
       "added_at": "2023-07-14 16:16:52",
       "album": {
+        "name": "Eu Vou Amanhecer (ao Vivo)",
+        "url": "https://open.spotify.com/album/0puuCUbHqQAhodavAxZbkj"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 341789,
+      "name": "Eu Vou Amanhecer - Ao Vivo",
+      "url": "https://open.spotify.com/track/7MUFfFp3Voeu9N8hBBm960"
+    },
+    {
+      "added_at": "2023-07-14 16:16:52",
+      "album": {
         "name": "Resist\u00eancia",
         "url": "https://open.spotify.com/album/57xWhkSgOYO2BKU3KAVlZJ"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 261500,
       "name": "Resist\u00eancia",
       "url": "https://open.spotify.com/track/1xgOmlVKi42RFa0diXjjZM"
-    },
-    {
-      "added_at": "2023-07-14 16:16:52",
-      "album": {
-        "name": "Te Seguirei",
-        "url": "https://open.spotify.com/album/6WJ9CUymLjKJ2Xs9vW1S3E"
-      },
-      "artists": [
-        {
-          "name": "Tarik Mohallem",
-          "url": "https://open.spotify.com/artist/1gRga6tLnfNeH5SvLkB4n5"
-        }
-      ],
-      "duration_ms": 290232,
-      "name": "Te Seguirei",
-      "url": "https://open.spotify.com/track/2mC1lYtVlPs8NEvqeszUh7"
     },
     {
       "added_at": "2023-07-14 16:16:52",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-07-14 16:16:52",
       "album": {
-        "name": "Santo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3ZvYugynlgc6iZbK0esYQP"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 536192,
-      "name": "Santo - Ao Vivo",
-      "url": "https://open.spotify.com/track/7AT3T3FM5Beh4zlD9rVTHQ"
-    },
-    {
-      "added_at": "2023-07-14 16:16:52",
-      "album": {
         "name": "Na Terra Parte 2/3 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2REZbS8CQZnhrBdEhmTZ1d"
       },
@@ -687,6 +671,22 @@
     {
       "added_at": "2023-07-14 16:16:52",
       "album": {
+        "name": "Santo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3ZvYugynlgc6iZbK0esYQP"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 536192,
+      "name": "Santo - Ao Vivo",
+      "url": "https://open.spotify.com/track/7AT3T3FM5Beh4zlD9rVTHQ"
+    },
+    {
+      "added_at": "2023-07-14 16:16:52",
+      "album": {
         "name": "A Carta",
         "url": "https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba"
       },
@@ -699,22 +699,6 @@
       "duration_ms": 296500,
       "name": "A Carta",
       "url": "https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn"
-    },
-    {
-      "added_at": "2023-07-14 16:16:52",
-      "album": {
-        "name": "Palavrantiga Ao Vivo (Pt. 3)",
-        "url": "https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH"
-      },
-      "artists": [
-        {
-          "name": "Palavrantiga",
-          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
-        }
-      ],
-      "duration_ms": 250600,
-      "name": "Palavra Antiga - Ao Vivo",
-      "url": "https://open.spotify.com/track/4B9kNi47NnvwNjqQkpxCMH"
     },
     {
       "added_at": "2023-07-14 16:16:52",
@@ -743,6 +727,22 @@
     {
       "added_at": "2023-07-14 16:16:52",
       "album": {
+        "name": "Palavrantiga Ao Vivo (Pt. 3)",
+        "url": "https://open.spotify.com/album/0GlPY3Iv585YH09Np350yH"
+      },
+      "artists": [
+        {
+          "name": "Palavrantiga",
+          "url": "https://open.spotify.com/artist/6lt44Vvyv8XwLxX7jtQ92j"
+        }
+      ],
+      "duration_ms": 250600,
+      "name": "Palavra Antiga - Ao Vivo",
+      "url": "https://open.spotify.com/track/4B9kNi47NnvwNjqQkpxCMH"
+    },
+    {
+      "added_at": "2023-07-14 16:16:52",
+      "album": {
         "name": "Uma Carta de Amanh\u00e3",
         "url": "https://open.spotify.com/album/692vSdGYRKAYnqAoXQaEOJ"
       },
@@ -755,22 +755,6 @@
       "duration_ms": 231874,
       "name": "Uma Carta de Amanh\u00e3",
       "url": "https://open.spotify.com/track/5aySEnML7exs5wqd1eV58D"
-    },
-    {
-      "added_at": "2023-07-14 16:16:52",
-      "album": {
-        "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o / Santo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/42NjnTNuaIEGBsX3XACxGX"
-      },
-      "artists": [
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 274005,
-      "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/5UtV3TOSr21gcvSxKA0mhf"
     },
     {
       "added_at": "2023-07-14 16:16:52",
@@ -791,6 +775,22 @@
       "duration_ms": 307533,
       "name": "Mente Brilhante",
       "url": "https://open.spotify.com/track/7GJdlUbMQHcAS9ztW6YFZ7"
+    },
+    {
+      "added_at": "2023-07-14 16:16:52",
+      "album": {
+        "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o / Santo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/42NjnTNuaIEGBsX3XACxGX"
+      },
+      "artists": [
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 274005,
+      "name": "\u00c9 Tempo de Abrir o Cora\u00e7\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/5UtV3TOSr21gcvSxKA0mhf"
     },
     {
       "added_at": "2023-07-14 16:16:52",
@@ -947,8 +947,8 @@
     {
       "added_at": "2023-07-14 16:16:52",
       "album": {
-        "name": "Mais Amor",
-        "url": "https://open.spotify.com/album/4obYU290HHKYg15IaVTbuQ"
+        "name": "Cantem os Anjos",
+        "url": "https://open.spotify.com/album/3M0uJ7cTPCDAyaz6DXxviB"
       },
       "artists": [
         {
@@ -956,9 +956,9 @@
           "url": "https://open.spotify.com/artist/7AsSQROc0YPjmh4cVPP8S6"
         }
       ],
-      "duration_ms": 268786,
-      "name": "Mais Amor",
-      "url": "https://open.spotify.com/track/10Edr8Dp1dkeKFe08t2VLm"
+      "duration_ms": 194533,
+      "name": "Cantem os Anjos",
+      "url": "https://open.spotify.com/track/6inrfYpzde4Izw9ZVzVcqs"
     },
     {
       "added_at": "2023-07-14 16:16:52",
@@ -1043,38 +1043,6 @@
     {
       "added_at": "2023-07-14 16:16:52",
       "album": {
-        "name": "Fui Encontrado",
-        "url": "https://open.spotify.com/album/6PYsM3wcToQVTtmORA8Flu"
-      },
-      "artists": [
-        {
-          "name": "A Trilha",
-          "url": "https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk"
-        }
-      ],
-      "duration_ms": 193662,
-      "name": "Fui Encontrado",
-      "url": "https://open.spotify.com/track/5xt4nQwR2shCsbUr0HQN8T"
-    },
-    {
-      "added_at": "2023-07-14 16:16:52",
-      "album": {
-        "name": "Cantem os Anjos",
-        "url": "https://open.spotify.com/album/3M0uJ7cTPCDAyaz6DXxviB"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio M3",
-          "url": "https://open.spotify.com/artist/7AsSQROc0YPjmh4cVPP8S6"
-        }
-      ],
-      "duration_ms": 194533,
-      "name": "Cantem os Anjos",
-      "url": "https://open.spotify.com/track/6inrfYpzde4Izw9ZVzVcqs"
-    },
-    {
-      "added_at": "2023-07-14 16:16:52",
-      "album": {
         "name": "Me Ensina a Seguir",
         "url": "https://open.spotify.com/album/661NUWpdZwuHVZcyg9yXuq"
       },
@@ -1087,6 +1055,38 @@
       "duration_ms": 246333,
       "name": "Me Ensina a Seguir",
       "url": "https://open.spotify.com/track/53m9pJdNLAbNefsoA590sr"
+    },
+    {
+      "added_at": "2023-07-14 16:16:52",
+      "album": {
+        "name": "Mais Amor",
+        "url": "https://open.spotify.com/album/4obYU290HHKYg15IaVTbuQ"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio M3",
+          "url": "https://open.spotify.com/artist/7AsSQROc0YPjmh4cVPP8S6"
+        }
+      ],
+      "duration_ms": 268786,
+      "name": "Mais Amor",
+      "url": "https://open.spotify.com/track/10Edr8Dp1dkeKFe08t2VLm"
+    },
+    {
+      "added_at": "2023-07-14 16:16:52",
+      "album": {
+        "name": "Fui Encontrado",
+        "url": "https://open.spotify.com/album/6PYsM3wcToQVTtmORA8Flu"
+      },
+      "artists": [
+        {
+          "name": "A Trilha",
+          "url": "https://open.spotify.com/artist/3wHYVqzrG53DzO5mgwp0tk"
+        }
+      ],
+      "duration_ms": 193662,
+      "name": "Fui Encontrado",
+      "url": "https://open.spotify.com/track/5xt4nQwR2shCsbUr0HQN8T"
     },
     {
       "added_at": "2023-07-14 16:16:52",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2023-07-14 16:16:52",
       "album": {
+        "name": "At\u00e9 o Fim",
+        "url": "https://open.spotify.com/album/4u5AzbPL3LzLNcDFhcPf72"
+      },
+      "artists": [
+        {
+          "name": "Ana Diniz",
+          "url": "https://open.spotify.com/artist/4L8rEhWyGVcPhp4CZJNDqm"
+        }
+      ],
+      "duration_ms": 240805,
+      "name": "At\u00e9 o Fim",
+      "url": "https://open.spotify.com/track/2bGj7BEZEXSGpNh174GEow"
+    },
+    {
+      "added_at": "2023-07-14 16:16:52",
+      "album": {
         "name": "At\u00e9 Que Nada Mais Importe",
         "url": "https://open.spotify.com/album/5gxGnDzMwSGYbPhsgrlK5f"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 176487,
       "name": "At\u00e9 Que Nada Mais Importe",
       "url": "https://open.spotify.com/track/1mvvcOzlR3HGqj1Z9W2eKZ"
-    },
-    {
-      "added_at": "2023-07-14 16:16:52",
-      "album": {
-        "name": "At\u00e9 o Fim",
-        "url": "https://open.spotify.com/album/4u5AzbPL3LzLNcDFhcPf72"
-      },
-      "artists": [
-        {
-          "name": "Ana Diniz",
-          "url": "https://open.spotify.com/artist/4L8rEhWyGVcPhp4CZJNDqm"
-        }
-      ],
-      "duration_ms": 240805,
-      "name": "At\u00e9 o Fim",
-      "url": "https://open.spotify.com/track/2bGj7BEZEXSGpNh174GEow"
     },
     {
       "added_at": "2023-07-14 16:16:52",

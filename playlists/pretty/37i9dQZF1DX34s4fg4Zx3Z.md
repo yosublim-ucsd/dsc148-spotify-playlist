@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: dNam; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,666 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,671 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [Con tim bít iu](https://open.spotify.com/track/7KvMPaAFnHCDulukFliZaI) | [NhiiT](https://open.spotify.com/artist/5LuUfRA2eKyjdK8ucMOXwk), [mơ](https://open.spotify.com/artist/6T870Q2zfiDi7s4aAxk3rm), [Kart](https://open.spotify.com/artist/4qpeGhUog7p0HHP2ZQEoC3) | [Con tim bít iu](https://open.spotify.com/album/1faUhnW51CK3Q1qOr2xMiT) | 2:57 |
 | 100 | [Do Em Sai](https://open.spotify.com/track/44d3ALKvoOfRDuvLwPjg0R) | [Di Di](https://open.spotify.com/artist/2GFbIax8VZLFzOIUBSMaBg), [Changg](https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9), [Long.C](https://open.spotify.com/artist/25PilakcHJVYBi2onpxxtI) | [Do Em Sai](https://open.spotify.com/album/6jcTdVxIjAELzRd1SLyEMM) | 3:18 |
 
-Snapshot ID: `MCxhMzkxNTA2MDAyMGZiNDUyOWEzYzVjNGNlNzA4OWZiYjMxYzEwN2Nj`
+Snapshot ID: `MCwzODA0ZGRmOTc1OGQwZDIxYzc4MmJjOWM1ODJhNTVmYzNiNmJhYWU3`

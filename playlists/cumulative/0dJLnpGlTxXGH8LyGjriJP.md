@@ -4,7 +4,7 @@
 
 > 
 
-626 songs - 1 day 7 hr 16 min
+628 songs - 1 day 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,6 +285,7 @@
 | [King Size](https://open.spotify.com/track/3RggvsU6oGcPDh7kiB0JlT) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Feed Tha Streets III](https://open.spotify.com/album/2ZiBfBw770CJC0f4SI1Tji) | 3:09 | 2022-11-20 |  |
 | [Kingpen Ghostwriter \(feat\. Lil Baby\)](https://open.spotify.com/track/36T9bGjVxexCD1XJANfV7O) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Dope Don't Sell Itself](https://open.spotify.com/album/5IGnGTSdX9jMvEMostmUfu) | 2:22 | 2023-01-19 |  |
 | [Kirb in my cup](https://open.spotify.com/track/7jb5XsfhW5ZWsMBGO6eHE5) | [dedwrite](https://open.spotify.com/artist/475Cbg3KjcioXssl8x3AGP) | [Kirb in my cup](https://open.spotify.com/album/6hPysz861kQamIehN1LVZ4) | 1:23 | 2022-12-27 |  |
+| [KMT](https://open.spotify.com/track/2jTujnt0y344ai1rNOywgr) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [More Life](https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK) | 2:42 | 2023-07-19 |  |
 | [Knife Talk \(with 21 Savage ft\. Project Pat\)](https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:02 | 2022-05-25 |  |
 | [KNIGHT CRAWLER \(feat\. Juice WRLD\)](https://open.spotify.com/track/3fNMgjG8yXaSam46swhz7w) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [MANSION MUSIK](https://open.spotify.com/album/0F166z0TRwmSRuHBOId890) | 2:57 | 2023-01-20 |  |
 | [KOD](https://open.spotify.com/track/7yotKA30dwTKNEGomV9ZsI) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [KOD](https://open.spotify.com/album/4Wv5UAieM1LDEYVq5WmqDd) | 3:11 | 2023-05-31 |  |
@@ -472,6 +473,7 @@
 | [Red Opps](https://open.spotify.com/track/3cqZH3cqvfbV8wVbvHyPbG) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Red Opps](https://open.spotify.com/album/5vjDtsdTgQC7B5jsLvehaF) | 2:43 | 2022-05-25 |  |
 | [Regular](https://open.spotify.com/track/1E1TntoJJqcWWUS9765gME) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Me vs\. Myself](https://open.spotify.com/album/2iKQjWWBysdCf52lSiwA03) | 3:04 | 2022-12-09 |  |
 | [RELENTLESS \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/6nDSLDomNqfet6w0r1GHAz) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [WUNNA \(Deluxe\)](https://open.spotify.com/album/6FfYIKA59pCFs2d1FB79Pq) | 2:48 | 2022-12-28 |  |
+| [Ric Flair Drip \(with Metro Boomin\)](https://open.spotify.com/track/7sO5G9EABYOXQKNPNiE9NR) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [Without Warning](https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0) | 2:52 | 2023-07-19 |  |
 | [Rich Flex](https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:59 | 2022-11-04 |  |
 | [Rich Gangsta \(feat\. Tee Grizzley\)](https://open.spotify.com/track/6n7i8Ck86jIGsVz62fsrVM) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [What It Means To Be King](https://open.spotify.com/album/3nrdCjP7QGBqMEutGTtT1B) | 2:45 | 2022-12-12 |  |
 | [Right Foot Creep](https://open.spotify.com/track/6FiySur7YZL0Kff2YVGsEB) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Top](https://open.spotify.com/album/6MbQdX6OomgQhZU6QCqMKW) | 2:39 | 2022-09-22 |  |

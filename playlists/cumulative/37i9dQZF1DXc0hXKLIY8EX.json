@@ -2060,10 +2060,36 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 205949,
       "name": "You Got Me",
       "url": "https://open.spotify.com/track/2ZrpCgfRJnyyZVv7nAQACP"
+    },
+    {
+      "album": {
+        "name": "Plans",
+        "url": "https://open.spotify.com/album/3iWeg1PEveZ3sCs7ixmlFS"
+      },
+      "artists": [
+        {
+          "name": "Lindsay Lucas",
+          "url": "https://open.spotify.com/artist/4UZ5np9gtAXfRHR3gBSNVh"
+        },
+        {
+          "name": "Nailah Hunter",
+          "url": "https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF"
+        },
+        {
+          "name": "Keenyn Omari",
+          "url": "https://open.spotify.com/artist/30wyy77Ypzxj2B5C0faRS3"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205949,
+      "name": "You Got Me",
+      "url": "https://open.spotify.com/track/5ykfLaErZagVPL1N6movaf"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXc0hXKLIY8EX"

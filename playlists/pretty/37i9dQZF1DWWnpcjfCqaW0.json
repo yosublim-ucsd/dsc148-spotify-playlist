@@ -1,12 +1,12 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
-  "num_followers": 272737,
+  "num_followers": 272862,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNzFkNzZjMmNkZTk4M2YyYTg1NmNkMGE2NTk3NGJhNTgyZjRkNGE2",
+  "snapshot_id": "MCxjNzg3ZjhiODdmYTNiY2NjMTM0MzRkZDU0YzIyMmFmYmQwODg2Mjhl",
   "tracks": [
     {
       "added_at": "2023-01-02 21:32:07",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Pure... Country",
-        "url": "https://open.spotify.com/album/0voKCkfqWEnFaQ1TXsIdfR"
-      },
-      "artists": [
-        {
-          "name": "The Browns",
-          "url": "https://open.spotify.com/artist/6GDSMFwAQBfnrrZf981Yji"
-        }
-      ],
-      "duration_ms": 169573,
-      "name": "The Three Bells",
-      "url": "https://open.spotify.com/track/24SbmQo3XQkNLpSBYda4DA"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 139733,
       "name": "Am I Losing You",
       "url": "https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "Pure... Country",
+        "url": "https://open.spotify.com/album/0voKCkfqWEnFaQ1TXsIdfR"
+      },
+      "artists": [
+        {
+          "name": "The Browns",
+          "url": "https://open.spotify.com/artist/6GDSMFwAQBfnrrZf981Yji"
+        }
+      ],
+      "duration_ms": 169573,
+      "name": "The Three Bells",
+      "url": "https://open.spotify.com/track/24SbmQo3XQkNLpSBYda4DA"
     },
     {
       "added_at": "2023-01-02 21:32:07",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-01-02 21:32:07",
       "album": {
-        "name": "Golden Hits",
-        "url": "https://open.spotify.com/album/4kFxt2sEFkkbnFTXgsknQk"
-      },
-      "artists": [
-        {
-          "name": "Hank Locklin",
-          "url": "https://open.spotify.com/artist/46Unp6DY3Zmy7QS1Fx47yq"
-        }
-      ],
-      "duration_ms": 151419,
-      "name": "Send Me the Pillow You Dream On",
-      "url": "https://open.spotify.com/track/2gi4bCLcGReMHmnQw4icDg"
-    },
-    {
-      "added_at": "2023-01-02 21:32:07",
-      "album": {
         "name": "Buck Owens Country Legends",
         "url": "https://open.spotify.com/album/3aqXDRfnxd2LTsnVnuFKJT"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 159570,
       "name": "Under Your Spell Again",
       "url": "https://open.spotify.com/track/5NFZTWVwhc1NmPSqgiLZOq"
+    },
+    {
+      "added_at": "2023-01-02 21:32:07",
+      "album": {
+        "name": "Golden Hits",
+        "url": "https://open.spotify.com/album/4kFxt2sEFkkbnFTXgsknQk"
+      },
+      "artists": [
+        {
+          "name": "Hank Locklin",
+          "url": "https://open.spotify.com/artist/46Unp6DY3Zmy7QS1Fx47yq"
+        }
+      ],
+      "duration_ms": 151419,
+      "name": "Send Me the Pillow You Dream On",
+      "url": "https://open.spotify.com/track/2gi4bCLcGReMHmnQw4icDg"
     }
   ],
   "unique_name": "50s Country",

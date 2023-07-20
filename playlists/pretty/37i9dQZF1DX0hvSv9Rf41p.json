@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Zeds Dead & Hamdi.",
-  "num_followers": 970296,
+  "num_followers": 970309,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODBhMTE3MWU2MWNkNDIxMjkwNGRhNWU3NTk5ZTQzMjYxNTAxM2Nh",
+  "snapshot_id": "MCxhMzY4Mjg1OTcwNmFlNGI4ODc0YzM0YmI2MTU4YjEyMmI3MjdlOWM5",
   "tracks": [
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1507,6 +1507,22 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
+        "name": "On & On",
+        "url": "https://open.spotify.com/album/15mVxIt7C3Nd3XHtVpEdcf"
+      },
+      "artists": [
+        {
+          "name": "Saint Punk",
+          "url": "https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW"
+        }
+      ],
+      "duration_ms": 140196,
+      "name": "On & On",
+      "url": "https://open.spotify.com/track/5OBxgQAkvL5INmylerFSWv"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/1SXcW1GgimXzhgFF9AHUr2"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 228720,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/46brJGJA9VTxjTGVfw41gu"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "On & On",
-        "url": "https://open.spotify.com/album/15mVxIt7C3Nd3XHtVpEdcf"
-      },
-      "artists": [
-        {
-          "name": "Saint Punk",
-          "url": "https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW"
-        }
-      ],
-      "duration_ms": 140196,
-      "name": "On & On",
-      "url": "https://open.spotify.com/track/5OBxgQAkvL5INmylerFSWv"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1775,6 +1775,26 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
+        "name": "Mothership",
+        "url": "https://open.spotify.com/album/7bQMFsjUNd7QTMA6z8kHJE"
+      },
+      "artists": [
+        {
+          "name": "F.O.O.L",
+          "url": "https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2"
+        },
+        {
+          "name": "SKUM",
+          "url": "https://open.spotify.com/artist/3hXFd22CK7momnB40jiq9Z"
+        }
+      ],
+      "duration_ms": 243844,
+      "name": "Mothership",
+      "url": "https://open.spotify.com/track/4RcndKiQfqi78jtR3x7acx"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
         "name": "Mayday",
         "url": "https://open.spotify.com/album/15Pufc2qp5Wp0NVN9JOBaR"
       },
@@ -1795,26 +1815,6 @@
       "duration_ms": 183200,
       "name": "Mayday",
       "url": "https://open.spotify.com/track/1I4QzF6sT7yH3BZaaJ6npk"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Mothership",
-        "url": "https://open.spotify.com/album/7bQMFsjUNd7QTMA6z8kHJE"
-      },
-      "artists": [
-        {
-          "name": "F.O.O.L",
-          "url": "https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2"
-        },
-        {
-          "name": "SKUM",
-          "url": "https://open.spotify.com/artist/3hXFd22CK7momnB40jiq9Z"
-        }
-      ],
-      "duration_ms": 243844,
-      "name": "Mothership",
-      "url": "https://open.spotify.com/track/4RcndKiQfqi78jtR3x7acx"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "MIDHEAVEN: OPUS 03",
-        "url": "https://open.spotify.com/album/7ez4I4pNTSj2Dv5NEH6s3l"
-      },
-      "artists": [
-        {
-          "name": "Deathpact",
-          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
-        }
-      ],
-      "duration_ms": 147529,
-      "name": "BDASWY",
-      "url": "https://open.spotify.com/track/2tcP7gI5IbWf347fKSMh89"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "LEFT TO RIGHT (Subsonic Remix)",
         "url": "https://open.spotify.com/album/0bfCjB90W0daFxgDBt8mTm"
       },
@@ -2007,6 +1991,22 @@
       "duration_ms": 179310,
       "name": "LEFT TO RIGHT - Subsonic Remix",
       "url": "https://open.spotify.com/track/2GAsRV6TNEFPosAHtbIaxo"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "MIDHEAVEN: OPUS 03",
+        "url": "https://open.spotify.com/album/7ez4I4pNTSj2Dv5NEH6s3l"
+      },
+      "artists": [
+        {
+          "name": "Deathpact",
+          "url": "https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb"
+        }
+      ],
+      "duration_ms": 147529,
+      "name": "BDASWY",
+      "url": "https://open.spotify.com/track/2tcP7gI5IbWf347fKSMh89"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -2195,6 +2195,26 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
+        "name": "Along The Way",
+        "url": "https://open.spotify.com/album/3BskIApiATh6ffjlksP6mz"
+      },
+      "artists": [
+        {
+          "name": "12th Planet",
+          "url": "https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz"
+        },
+        {
+          "name": "BLKLBL",
+          "url": "https://open.spotify.com/artist/2MSTncOrtc0tGz5Dls7XIP"
+        }
+      ],
+      "duration_ms": 242986,
+      "name": "Along The Way",
+      "url": "https://open.spotify.com/track/0t5ba5bIUxBvwsHfC0XSSQ"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/6CuR1PACokH09J3x3tZzJF"
       },
@@ -2211,22 +2231,6 @@
       "duration_ms": 169180,
       "name": "Alive",
       "url": "https://open.spotify.com/track/4SMXofCR3LMXfslJkYiGPi"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Run Away!",
-        "url": "https://open.spotify.com/album/08Euo3LlOwNx8BC7vVdWtY"
-      },
-      "artists": [
-        {
-          "name": "Moore Kismet",
-          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
-        }
-      ],
-      "duration_ms": 238736,
-      "name": "Run Away!",
-      "url": "https://open.spotify.com/track/6jkNTZVkFwaoufxsZbPmX2"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -2275,6 +2279,38 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
+        "name": "In Your House",
+        "url": "https://open.spotify.com/album/73tX1UuJM9z5a0KcQsEKWn"
+      },
+      "artists": [
+        {
+          "name": "RIOT",
+          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
+        }
+      ],
+      "duration_ms": 164591,
+      "name": "In Your House",
+      "url": "https://open.spotify.com/track/4yhN31oCtIMfHutV6k42oa"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Run Away!",
+        "url": "https://open.spotify.com/album/08Euo3LlOwNx8BC7vVdWtY"
+      },
+      "artists": [
+        {
+          "name": "Moore Kismet",
+          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        }
+      ],
+      "duration_ms": 238736,
+      "name": "Run Away!",
+      "url": "https://open.spotify.com/track/6jkNTZVkFwaoufxsZbPmX2"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
         "name": "Fkdmeupinside",
         "url": "https://open.spotify.com/album/6qp9XlkYX0an6hceGaBWho"
       },
@@ -2311,58 +2347,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "DAMAGE",
-        "url": "https://open.spotify.com/album/6aCtnpIFYQIzSbH8suxXYR"
-      },
-      "artists": [
-        {
-          "name": "KUURO",
-          "url": "https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q"
-        }
-      ],
-      "duration_ms": 213722,
-      "name": "DAMAGE",
-      "url": "https://open.spotify.com/track/0afxbRf1Xy7IwYuzoJtDZy"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Along The Way",
-        "url": "https://open.spotify.com/album/3BskIApiATh6ffjlksP6mz"
-      },
-      "artists": [
-        {
-          "name": "12th Planet",
-          "url": "https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz"
-        },
-        {
-          "name": "BLKLBL",
-          "url": "https://open.spotify.com/artist/2MSTncOrtc0tGz5Dls7XIP"
-        }
-      ],
-      "duration_ms": 242986,
-      "name": "Along The Way",
-      "url": "https://open.spotify.com/track/0t5ba5bIUxBvwsHfC0XSSQ"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "In Your House",
-        "url": "https://open.spotify.com/album/73tX1UuJM9z5a0KcQsEKWn"
-      },
-      "artists": [
-        {
-          "name": "RIOT",
-          "url": "https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY"
-        }
-      ],
-      "duration_ms": 164591,
-      "name": "In Your House",
-      "url": "https://open.spotify.com/track/4yhN31oCtIMfHutV6k42oa"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Demon Time",
         "url": "https://open.spotify.com/album/3fp3RtecG7rFqMNmDHunBx"
       },
@@ -2383,6 +2367,22 @@
       "duration_ms": 193601,
       "name": "Demon Time",
       "url": "https://open.spotify.com/track/55zkLJT9xYtoGTjYOGp6pe"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "DAMAGE",
+        "url": "https://open.spotify.com/album/6aCtnpIFYQIzSbH8suxXYR"
+      },
+      "artists": [
+        {
+          "name": "KUURO",
+          "url": "https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q"
+        }
+      ],
+      "duration_ms": 213722,
+      "name": "DAMAGE",
+      "url": "https://open.spotify.com/track/0afxbRf1Xy7IwYuzoJtDZy"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -2411,6 +2411,22 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
+        "name": "Be Alright",
+        "url": "https://open.spotify.com/album/3hTztCPVLq2pPqQvQaAwSM"
+      },
+      "artists": [
+        {
+          "name": "Slippy",
+          "url": "https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG"
+        }
+      ],
+      "duration_ms": 178064,
+      "name": "Be Alright",
+      "url": "https://open.spotify.com/track/4UFIbMph43OWFu3A7fC4TI"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
         "name": "King",
         "url": "https://open.spotify.com/album/31BofjIuJwIht4LCcUmzDH"
       },
@@ -2423,6 +2439,26 @@
       "duration_ms": 175200,
       "name": "King",
       "url": "https://open.spotify.com/track/0zLwiYqZEwjS4p85V07uOh"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Commencement (feat. Gracie Van Brunt)",
+        "url": "https://open.spotify.com/album/0haPvOsTwtQ0GB329u57d7"
+      },
+      "artists": [
+        {
+          "name": "12th Planet",
+          "url": "https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz"
+        },
+        {
+          "name": "Gracie Van Brunt",
+          "url": "https://open.spotify.com/artist/61ehajEjCepvX1LehNWtKt"
+        }
+      ],
+      "duration_ms": 204800,
+      "name": "Commencement (feat. Gracie Van Brunt)",
+      "url": "https://open.spotify.com/track/6rlEjVPAJkvFOG2lPHzxhL"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -2467,22 +2503,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Be Alright",
-        "url": "https://open.spotify.com/album/3hTztCPVLq2pPqQvQaAwSM"
-      },
-      "artists": [
-        {
-          "name": "Slippy",
-          "url": "https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG"
-        }
-      ],
-      "duration_ms": 178064,
-      "name": "Be Alright",
-      "url": "https://open.spotify.com/track/4UFIbMph43OWFu3A7fC4TI"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Amateur",
         "url": "https://open.spotify.com/album/5Nd5bGBcXkr0hcgu59w3QF"
       },
@@ -2519,26 +2539,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Commencement (feat. Gracie Van Brunt)",
-        "url": "https://open.spotify.com/album/0haPvOsTwtQ0GB329u57d7"
-      },
-      "artists": [
-        {
-          "name": "12th Planet",
-          "url": "https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz"
-        },
-        {
-          "name": "Gracie Van Brunt",
-          "url": "https://open.spotify.com/artist/61ehajEjCepvX1LehNWtKt"
-        }
-      ],
-      "duration_ms": 204800,
-      "name": "Commencement (feat. Gracie Van Brunt)",
-      "url": "https://open.spotify.com/track/6rlEjVPAJkvFOG2lPHzxhL"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "JSYK",
         "url": "https://open.spotify.com/album/6wAxJ3vyMI6RVLeVdqJpHe"
       },
@@ -2551,6 +2551,22 @@
       "duration_ms": 228922,
       "name": "JSYK",
       "url": "https://open.spotify.com/track/3nOg31lPxRYK0Y0o1XoAf0"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "kinder opposites",
+        "url": "https://open.spotify.com/album/0ThEJ7ZMDyj44WRjbRBYuT"
+      },
+      "artists": [
+        {
+          "name": "Laxcity",
+          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
+        }
+      ],
+      "duration_ms": 96004,
+      "name": "catalyst",
+      "url": "https://open.spotify.com/track/40La981foZ1iPvfqfhgu7Y"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -2591,22 +2607,6 @@
       "duration_ms": 244248,
       "name": "Horizon - Moore Kismet Remix",
       "url": "https://open.spotify.com/track/7G4EdFJbcn05PmDvQnSKGX"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "kinder opposites",
-        "url": "https://open.spotify.com/album/0ThEJ7ZMDyj44WRjbRBYuT"
-      },
-      "artists": [
-        {
-          "name": "Laxcity",
-          "url": "https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB"
-        }
-      ],
-      "duration_ms": 96004,
-      "name": "catalyst",
-      "url": "https://open.spotify.com/track/40La981foZ1iPvfqfhgu7Y"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -2687,6 +2687,22 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
+        "name": "Crashing",
+        "url": "https://open.spotify.com/album/7fvqYjrOm2leglqnKmBtTC"
+      },
+      "artists": [
+        {
+          "name": "Godlands",
+          "url": "https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8"
+        }
+      ],
+      "duration_ms": 236800,
+      "name": "Crashing",
+      "url": "https://open.spotify.com/track/18G8jUP2uoOfUG2fspXF3a"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
         "name": "Spirit Showdown",
         "url": "https://open.spotify.com/album/0TyETORpxRBLifisOAJkvs"
       },
@@ -2703,22 +2719,6 @@
       "duration_ms": 201600,
       "name": "Spirit Showdown",
       "url": "https://open.spotify.com/track/0a1Bc8bJJ0xIZU4KMrO7et"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Crashing",
-        "url": "https://open.spotify.com/album/7fvqYjrOm2leglqnKmBtTC"
-      },
-      "artists": [
-        {
-          "name": "Godlands",
-          "url": "https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8"
-        }
-      ],
-      "duration_ms": 236800,
-      "name": "Crashing",
-      "url": "https://open.spotify.com/track/18G8jUP2uoOfUG2fspXF3a"
     },
     {
       "added_at": "2023-07-14 04:00:00",

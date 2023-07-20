@@ -1,12 +1,12 @@
 {
   "description": "The most exciting new artists on the rise from the African continent & diaspora. Cover: <a href=\"https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek?si=aTq65UEUTQOcsNZbdk8qaw\">Baaba J </a>",
-  "num_followers": 84856,
+  "num_followers": 84876,
   "original_name": "RADAR Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNmJjZWMwOTM0YzMxM2JkZDE2YmU4YjhiMTI1ZjBjZmI1ZWY3ZjAz",
+  "snapshot_id": "MCwzMTI3MzUzNDVhY2IyZjQ2NWU2ZjcyY2QzZjg3YjJmYTYzMjIwNTg0",
   "tracks": [
     {
       "added_at": "2023-07-14 00:12:45",
@@ -720,10 +720,6 @@
       },
       "artists": [
         {
-          "name": "O'Kenneth",
-          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
-        },
-        {
           "name": "Jay Bahd",
           "url": "https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw"
         },
@@ -734,6 +730,10 @@
         {
           "name": "Kwaku DMC",
           "url": "https://open.spotify.com/artist/4gP93834jVbocef9R42gQz"
+        },
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
         }
       ],
       "duration_ms": 176770,

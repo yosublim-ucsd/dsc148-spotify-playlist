@@ -1,12 +1,12 @@
 {
   "description": "All the new music you need to hear right now. Cover: Mahalia",
-  "num_followers": 545278,
+  "num_followers": 545309,
   "original_name": "All New All Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTAwNTYyOWVlOTlmOTAwM2VjMjZiNjE4OTFkZTgzMzdmOWI2NWRh",
+  "snapshot_id": "MCw5ODBmODVkNTk3ZjdmYTQ2ODc2NTJjODQwMmExNjA4MTAzMjQ3YjY4",
   "tracks": [
     {
       "added_at": "2023-07-18 17:00:00",
@@ -94,10 +94,6 @@
         {
           "name": "Latto",
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
       "duration_ms": 184400,

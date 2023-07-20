@@ -4,7 +4,7 @@
 
 > Japanese female rock icons\. 国内ロックシーンで活躍する女性アーティストたちを特集。Cover: インナージャーニー\(Innerjourney\)
 
-1,025 songs - 2 day 16 hr 49 min
+1,026 songs - 2 day 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -468,6 +468,7 @@
 | [WATASHIHA WATASHINARINO KOTOBADESIKA AISHITERUTO TUTAERUKOTOGADEKINAI](https://open.spotify.com/track/3sRnw37zxEhfl2zevR6npx) | [なきごと](https://open.spotify.com/artist/0TuzJGIGYfXb4jIlr4flYl) | [NAKIGOTO,](https://open.spotify.com/album/2OVSflRQ7zERLrLk3eAqmL) | 3:33 | 2023-01-10 | 2023-01-25 |
 | [Watashitachi no Journey](https://open.spotify.com/track/01b6Whwx7GswmnOOtKZC9c) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [Watashitachi no Journey](https://open.spotify.com/album/5M5laQ3chroFtqUENoZaV8) | 4:07 | 2023-06-13 |  |
 | [We The Female!](https://open.spotify.com/track/2yagcsYdqa14jDsGAFJ2BP) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [We The Female!](https://open.spotify.com/album/139E2UjytWfbFIkf9BOyQU) | 3:04 | 2023-04-04 | 2023-06-21 |
+| [When dawn comes, we](https://open.spotify.com/track/3EFyfR4HLQ3daSEEK28xd3) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [happiness](https://open.spotify.com/album/6ycdKGWkXUzF6Aj7YQeovf) | 4:47 | 2023-07-18 |  |
 | [White highlights](https://open.spotify.com/track/3JtEQffMAkuPrGzGs9G7fY) | [tiger bae](https://open.spotify.com/artist/0xH0kox7WzXayqGJRqIvEp) | [White highlights](https://open.spotify.com/album/3OfEMtatKlKKJMhw5jliF4) | 3:27 | 2023-01-31 | 2023-02-08 |
 | [Who Am I](https://open.spotify.com/track/17UcihyP4nJdrXWsenfJYw) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [Who Am I](https://open.spotify.com/album/74aqJf9J5uybLGJVv83bAR) | 4:20 | 2022-05-31 | 2022-07-04 |
 | [Whoopie is a Punkrocker](https://open.spotify.com/track/4NkzsLZjO02SDiWEd6afuo) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj), [Stephen Harrison](https://open.spotify.com/artist/366dKk1Th87zx5H1xXnXAH) | [Whoopie is a Punkrocker](https://open.spotify.com/album/4b3o9025OYso4WFmwwqzQh) | 2:22 | 2022-07-28 | 2023-02-22 |
@@ -826,7 +827,7 @@
 | [夏影、](https://open.spotify.com/track/6TNCjUqjCfNyhqZKqTFMeY) | [anna calla](https://open.spotify.com/artist/5Kjfw00jyKFzU8IwAmwAy0) | [夏影、](https://open.spotify.com/album/2x3IupbEeHXoOmL8Y73T3c) | 4:09 | 2022-06-23 | 2022-06-28 |
 | [夏恋注意報](https://open.spotify.com/track/1AB5STSw5kjkOSmie1dkYb) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [夏恋注意報](https://open.spotify.com/album/2YPfXFSP0eiV5W0WnVyJUM) | 4:49 | 2023-06-27 |  |
 | [夏日狂想](https://open.spotify.com/track/4YiiwI9UXNTT51BwojLcR8) | [クレナズム](https://open.spotify.com/artist/72PvGatrHUWZIbyyntvdpM) | [夏日狂想](https://open.spotify.com/album/3awrF7PnzLIDdQyJzlhrzx) | 4:17 | 2023-05-30 | 2023-06-01 |
-| [夜が明けたら私たち](https://open.spotify.com/track/7g7aXtGi28jYS7sEvjGIp7) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [いい気分さ](https://open.spotify.com/album/2XPA0PXFm2YHiweBeNphCe) | 4:47 | 2023-07-18 |  |
+| [夜が明けたら私たち](https://open.spotify.com/track/7g7aXtGi28jYS7sEvjGIp7) | [INNER JOURNEY](https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9) | [いい気分さ](https://open.spotify.com/album/2XPA0PXFm2YHiweBeNphCe) | 4:47 | 2023-07-18 | 2023-07-20 |
 | [夜に生まれたお姫様](https://open.spotify.com/track/7MCnpCGq28ysMbvJw6FxLx) | [Carnival](https://open.spotify.com/artist/6uXssdScTiNC7wYrQWl7fF) | [夜に生まれたお姫様](https://open.spotify.com/album/6CP3c39dturRDbXal1225w) | 3:41 | 2022-06-23 | 2022-07-09 |
 | [夜啼鶯](https://open.spotify.com/track/5xGnQbGzev2iqqBFVoDzlg) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [十二次元](https://open.spotify.com/album/54OOd6x03hdIYeHWYajNyP) | 2:18 | 2023-01-31 | 2023-04-21 |
 | [夜逃げ](https://open.spotify.com/track/6DtpRO1A0MRiGsWgKXlmzB) | [Ran](https://open.spotify.com/artist/79b158VP6p9yoQpqIqU4UR) | [夜逃げ](https://open.spotify.com/album/46sPxSwFOOq2zjACGq1grI) | 4:02 | 2022-05-26 | 2022-07-22 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 > Free to be! Musica dalla comunità LGBQTIA+ italiana\. Yosef, MYDRAMA, KAPUT, Evra e Blue Phelix in cover! ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,686 likes - 71 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,687 likes - 71 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 70 | [Parigi \(mi manchi\) \- Hey Cabrera! Remix](https://open.spotify.com/track/4yDG7Q9kemM7LS2AfxcFs9) | [Thomas Costantin](https://open.spotify.com/artist/0WKjXc8BCwyL9ds9cNRlWW), [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf) | [Le città](https://open.spotify.com/album/6VCWcupYXk4UdIeXJNjC07) | 4:24 |
 | 71 | [S.T.A.R.](https://open.spotify.com/track/4eH6eFLynzhPTxC52cAFV2) | [Playgirls from Caracas](https://open.spotify.com/artist/2DtlP0AAGRMHdesTux8mu9), [Lilith Primavera](https://open.spotify.com/artist/5rEatTNJ4Wg968RKZeE019) | [S.T.A.R.](https://open.spotify.com/album/2TdAEnj9JvAGLWJ3wVSvUw) | 3:38 |
 
-Snapshot ID: `MCwzOWRmMDJjYzU2YWMxZjYzMDFmYWEzNDI5MTMzNWJkZDU1MWZiMTY5`
+Snapshot ID: `MCwzNDI0MWIyNDk3NzYyNmVjYzM1MjgwZmM4N2Y3ZDYwN2U5NGJlYjg0`

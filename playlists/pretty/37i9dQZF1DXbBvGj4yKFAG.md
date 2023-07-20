@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 
 > may include sad indie rock songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,335 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,488 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBvGj4yKFAG.md) - [plain]
 | 99 | [lust](https://open.spotify.com/track/4Glfjo6o4dPmRLRi5HKYdf) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [liminal spaces](https://open.spotify.com/album/7KFoizTd1KGrJQBqFS58Z8) | 2:05 |
 | 100 | [Scaredy's World](https://open.spotify.com/track/3XOOdbkx0q2rjUxAPziH8S) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4), [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY) | [Scaredy's World](https://open.spotify.com/album/1IsvZYiU5FCpg4fDecerIX) | 2:31 |
 
-Snapshot ID: `MCwwZjJhNjdlZDFlNmQyMjM0YWY3ZmE0MjZlZDhkY2EzM2JjYzNmMDYw`
+Snapshot ID: `MCxkNDA4NTVhNjE1MjI0YjE0Nzg3ZTQyZTQ2M2Q3OTg2NjQ4M2QzMTI0`

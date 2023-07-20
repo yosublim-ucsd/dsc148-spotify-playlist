@@ -4,7 +4,7 @@
 
 > All new, all blues\. Cover: C.S\. Armstrong
 
-231 songs - 13 hr 32 min
+232 songs - 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,7 +142,8 @@
 | [Not the Blues Again](https://open.spotify.com/track/5hfrnLlkK3Q8sRja0GVlXc) | [Brianna Harness](https://open.spotify.com/artist/2gEHt3cr4osngnVx0KsNlQ), [Struggle Jennings](https://open.spotify.com/artist/7HnPsSFnXUJ8XiHt1UuQ23) | [Not the Blues Again](https://open.spotify.com/album/2FRKxEkUPDkztNFpCWovqv) | 3:09 | 2022-07-29 | 2022-08-06 |
 | [Off the Rails](https://open.spotify.com/track/42WticpVQhPU1H2seAjX9y) | [Cross Country Driver](https://open.spotify.com/artist/7yVGyHGB9ZrxNMBZK0mirb), [Rhonda Smith](https://open.spotify.com/artist/2uYKHg4WYpDVVxZVj7gFgN) | [The New Truth](https://open.spotify.com/album/20uVF4qSvDD7P7LvJ6jDoh) | 3:52 | 2023-03-17 |  |
 | [On Fire Like Zsa Zsa](https://open.spotify.com/track/1jkRCIT4lbw927QNmt0NGh) | [Robin Trower](https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3), [Maxi Priest](https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7), [Livingstone Brown](https://open.spotify.com/artist/31sc2XGm5zXKCGybwD0azD) | [United State of Mind](https://open.spotify.com/album/0M6vvqZo0MkpukkCikKpad) | 3:21 | 2021-02-05 | 2022-03-26 |
-| [On the Road \(with G Love & Special Sauce and Cas Haley\)](https://open.spotify.com/track/0vM8fRYfCtW3VRbant8FnC) | [Ries Brothers](https://open.spotify.com/artist/3n5TbZCCU3rnDcDy5n49nG), [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Cas Haley](https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy) | [The Ries Brothers](https://open.spotify.com/album/09eneEPZDcWiWd2x8Mkhyw) | 3:55 | 2022-08-26 |  |
+| [On the Road \(with G Love & Special Sauce and Cas Haley\)](https://open.spotify.com/track/0vM8fRYfCtW3VRbant8FnC) | [Ries Brothers](https://open.spotify.com/artist/3n5TbZCCU3rnDcDy5n49nG), [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Cas Haley](https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy) | [The Ries Brothers](https://open.spotify.com/album/09eneEPZDcWiWd2x8Mkhyw) | 3:55 | 2022-08-26 | 2023-07-20 |
+| [On the Road \(with G Love & Special Sauce and Cas Haley\)](https://open.spotify.com/track/7srWCCNonVXruKp9FpciVD) | [Ries Brothers](https://open.spotify.com/artist/3n5TbZCCU3rnDcDy5n49nG), [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Cas Haley](https://open.spotify.com/artist/2MrqCKzxfyDA2mqfNWEXKy) | [The Ries Brothers](https://open.spotify.com/album/6SexAEAVGOjYvGBJxgiLdk) | 3:55 | 2022-08-26 |  |
 | [One Day Closer To Home](https://open.spotify.com/track/38EnQxo9CZ5w9muuxNh1TJ) | [William Bell](https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR) | [One Day Closer To Home](https://open.spotify.com/album/2xBkirTkPauFlljvqJWClc) | 3:48 | 2022-08-26 |  |
 | [Only Woman](https://open.spotify.com/track/1iOAaTWVHSTnRTTyNOAIVg) | [Ed Staal](https://open.spotify.com/artist/34t2yk9P5vrHBWLXlZlGrC) | [Only Woman](https://open.spotify.com/album/5WDdEO0SxvJnhhq68N0wUw) | 2:58 | 2023-05-19 |  |
 | [Outrun](https://open.spotify.com/track/42Xl2G8iLEOaoBU6A3ezI3) | [WEARETHEGOOD](https://open.spotify.com/artist/1qnP6AwnlLdhTADeq09CZw), [Lynnea](https://open.spotify.com/artist/7f06QWoFAvtpEuho7NEDLN) | [Scores & Melodies Vol\. 1](https://open.spotify.com/album/6gwvqyqV3SLMlfNLU5bymG) | 3:15 | 2023-06-30 |  |

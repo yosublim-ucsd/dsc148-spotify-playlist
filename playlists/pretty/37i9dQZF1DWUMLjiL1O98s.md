@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMLjiL1O98s.md) - [plain]
 
 > La nueva generación del Afrobeat con un toque latino\. Rels B en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 144 likes - 74 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 153 likes - 74 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMLjiL1O98s.md) - [plain]
 | 73 | [Síntomas](https://open.spotify.com/track/2QBpWDBpXFHMqGDpzloz5O) | [Gotex](https://open.spotify.com/artist/5GxbVXNNU8HJA7JX6Z18tl) | [Latidos](https://open.spotify.com/album/5YiqfVXsekY2Vxb4MGtSCG) | 3:00 |
 | 74 | [OMA](https://open.spotify.com/track/2tnb6KLgg0e3NCtvLkoer1) | [ZERO](https://open.spotify.com/artist/66l0RF4YIJeNNTZzqdP6ew) | [OMA](https://open.spotify.com/album/2197Q17orIgTBhVYZ01PwU) | 2:24 |
 
-Snapshot ID: `MCwxYTI3ZjE3MDE2MWU2ODg3NDJlNmZmMDgwNzYxNzYyMmJlNWM1NTli`
+Snapshot ID: `MCxkYzI4MjgzNmVjMDA2OWE3MjliMGE2Nzg4NmRiOGM5MmY0ZGI3MTE2`

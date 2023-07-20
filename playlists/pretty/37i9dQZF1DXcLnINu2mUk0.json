@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Ivandro e Julinho Ksd.",
-  "num_followers": 35786,
+  "num_followers": 35853,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzg3OTAxNzU4NTc2OGRlYWE0MTA1Zjk4NWQ0ZGFiNGIzNjlmYzZl",
+  "snapshot_id": "MCxmMmIwZjc1YWJkODZjNDhiYWE1ZDZmYmE1NzhkYTYwMzgwY2Q2MGMy",
   "tracks": [
     {
       "added_at": "2023-07-13 23:00:00",
@@ -767,6 +767,22 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
+        "name": "Jony Driver",
+        "url": "https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM"
+      },
+      "artists": [
+        {
+          "name": "Papillon",
+          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
+        }
+      ],
+      "duration_ms": 257500,
+      "name": ".Sais e Minerais",
+      "url": "https://open.spotify.com/track/7AG0yXoN9odePnl0OJ2Mti"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
         "name": "+ do Mesmo - Parte 1",
         "url": "https://open.spotify.com/album/7DDasmVvLny9kVzO8AV3bD"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 288200,
       "name": "N\u00e3o Me Enganas (feat. Ivandro & Nayr Faquira)",
       "url": "https://open.spotify.com/track/6ghsknvRAMqCFmGlSfC7Tv"
-    },
-    {
-      "added_at": "2023-07-13 23:00:00",
-      "album": {
-        "name": "Jony Driver",
-        "url": "https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM"
-      },
-      "artists": [
-        {
-          "name": "Papillon",
-          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
-        }
-      ],
-      "duration_ms": 257500,
-      "name": ".Sais e Minerais",
-      "url": "https://open.spotify.com/track/7AG0yXoN9odePnl0OJ2Mti"
     },
     {
       "added_at": "2023-07-13 23:00:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
+        "name": "Faz T\u00e3o Bem",
+        "url": "https://open.spotify.com/album/5mBiwG6ByMHvlQfskaROfO"
+      },
+      "artists": [
+        {
+          "name": "MeLodee",
+          "url": "https://open.spotify.com/artist/20NGAx3Juv4HaGjwBM9bpj"
+        }
+      ],
+      "duration_ms": 179200,
+      "name": "Faz T\u00e3o Bem",
+      "url": "https://open.spotify.com/track/6q5DrAd4LELL2gPIoe5mDP"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
         "name": "\u00c0s Vezes",
         "url": "https://open.spotify.com/album/56Vhx9aOcc0uV7Evsrj0p3"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 163061,
       "name": "\u00c0s Vezes",
       "url": "https://open.spotify.com/track/7bmuMbInks7KmJJB6ewmF5"
-    },
-    {
-      "added_at": "2023-07-13 23:00:00",
-      "album": {
-        "name": "Faz T\u00e3o Bem",
-        "url": "https://open.spotify.com/album/5mBiwG6ByMHvlQfskaROfO"
-      },
-      "artists": [
-        {
-          "name": "MeLodee",
-          "url": "https://open.spotify.com/artist/20NGAx3Juv4HaGjwBM9bpj"
-        }
-      ],
-      "duration_ms": 179200,
-      "name": "Faz T\u00e3o Bem",
-      "url": "https://open.spotify.com/track/6q5DrAd4LELL2gPIoe5mDP"
     },
     {
       "added_at": "2023-07-13 23:00:00",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
-        "name": "T\u00e1 Pedir",
-        "url": "https://open.spotify.com/album/0vnUf6cZrbQ1KvcGR2f5XV"
+        "name": "Free to B",
+        "url": "https://open.spotify.com/album/2nfEWNNx4l34rISTpx55ZO"
       },
       "artists": [
         {
-          "name": "Clenny Mendes",
-          "url": "https://open.spotify.com/artist/28qaTTopCvGdqmcrWAKsOy"
+          "name": "James dos Reis",
+          "url": "https://open.spotify.com/artist/3t2APdbwougwRoiC0Vb3PF"
         }
       ],
-      "duration_ms": 147351,
-      "name": "T\u00e1 Pedir",
-      "url": "https://open.spotify.com/track/2m9cYbN5VmL4rfSZEocFgd"
+      "duration_ms": 146000,
+      "name": "Free to B",
+      "url": "https://open.spotify.com/track/7AQyiLHFNOttx9UW3kQkKz"
     },
     {
       "added_at": "2023-07-13 23:00:00",
@@ -1295,38 +1295,34 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
-        "name": "Free to B",
-        "url": "https://open.spotify.com/album/2nfEWNNx4l34rISTpx55ZO"
+        "name": "T\u00e1 Pedir",
+        "url": "https://open.spotify.com/album/0vnUf6cZrbQ1KvcGR2f5XV"
       },
       "artists": [
         {
-          "name": "James dos Reis",
-          "url": "https://open.spotify.com/artist/3t2APdbwougwRoiC0Vb3PF"
+          "name": "Clenny Mendes",
+          "url": "https://open.spotify.com/artist/28qaTTopCvGdqmcrWAKsOy"
         }
       ],
-      "duration_ms": 146000,
-      "name": "Free to B",
-      "url": "https://open.spotify.com/track/7AQyiLHFNOttx9UW3kQkKz"
+      "duration_ms": 147351,
+      "name": "T\u00e1 Pedir",
+      "url": "https://open.spotify.com/track/2m9cYbN5VmL4rfSZEocFgd"
     },
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
-        "name": "N\u00e3o Consigo",
-        "url": "https://open.spotify.com/album/73wkFM58mY6OoFB2hg8ve1"
+        "name": "Cara do Pai",
+        "url": "https://open.spotify.com/album/1kRPEJqYFVtHxXVWBkDZbR"
       },
       "artists": [
         {
-          "name": "Kamuya",
-          "url": "https://open.spotify.com/artist/3rv2srJPEeA1vW8vhjE2U7"
-        },
-        {
-          "name": "sheluvsHUGO",
-          "url": "https://open.spotify.com/artist/4fkojJvVGvyu6oh5cutj2g"
+          "name": "Argana\u00e7a",
+          "url": "https://open.spotify.com/artist/4i9YZ46se9VOp2eSLbCg4i"
         }
       ],
-      "duration_ms": 213333,
-      "name": "N\u00e3o Consigo",
-      "url": "https://open.spotify.com/track/0RfXHQx7KHkH2zAqF5hB7l"
+      "duration_ms": 189818,
+      "name": "Cara do Pai",
+      "url": "https://open.spotify.com/track/2CcZEYj1ef6k9JMunarSvT"
     }
   ],
   "unique_name": "Seda",

@@ -1,12 +1,12 @@
 {
   "description": "slowed, reverbed, chopped and screwed.",
-  "num_followers": 906240,
+  "num_followers": 907255,
   "original_name": "slowed and reverbed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjU2MjRjODUzMGU1MjBkM2Q0YzQzNDU4ZGJlZWEzMmNmZDYwMDdh",
+  "snapshot_id": "MCw1NWE4MmY1NjIzMjYyYzY5YTZmMGFmOWIxMjU1NzA5YjhkMjFjZjI3",
   "tracks": [
     {
       "added_at": "2023-07-13 19:40:25",
@@ -63,22 +63,6 @@
     {
       "added_at": "2023-07-13 19:40:25",
       "album": {
-        "name": "Close Eyes (Slowed + Reverb)",
-        "url": "https://open.spotify.com/album/12zL1YZJeADPb6hPdD9Mqm"
-      },
-      "artists": [
-        {
-          "name": "DVRST",
-          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
-        }
-      ],
-      "duration_ms": 143769,
-      "name": "Close Eyes - Slowed + Reverb",
-      "url": "https://open.spotify.com/track/5RE3w3M9g5vsotdIVtLONq"
-    },
-    {
-      "added_at": "2023-07-13 19:40:25",
-      "album": {
         "name": "Fluxxwave",
         "url": "https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 161765,
       "name": "Fluxxwave (Slowed + Reverb)",
       "url": "https://open.spotify.com/track/2cuBB96Fhr5o77iWnAwStS"
+    },
+    {
+      "added_at": "2023-07-13 19:40:25",
+      "album": {
+        "name": "Close Eyes (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/12zL1YZJeADPb6hPdD9Mqm"
+      },
+      "artists": [
+        {
+          "name": "DVRST",
+          "url": "https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5"
+        }
+      ],
+      "duration_ms": 143769,
+      "name": "Close Eyes - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/5RE3w3M9g5vsotdIVtLONq"
     },
     {
       "added_at": "2023-07-13 19:40:25",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-07-13 19:40:25",
       "album": {
-        "name": "The Arrival: Part I (Slowed + Reverb)",
-        "url": "https://open.spotify.com/album/015uRkdgy09DokRKmz0Scg"
-      },
-      "artists": [
-        {
-          "name": "Aaryan Shah",
-          "url": "https://open.spotify.com/artist/4RzbexUO843fc5SLqKEQCr"
-        }
-      ],
-      "duration_ms": 279250,
-      "name": "Renegade - (Slowed + Reverb)",
-      "url": "https://open.spotify.com/track/0hAoRx9cc7pcsqfE2BpF9Y"
-    },
-    {
-      "added_at": "2023-07-13 19:40:25",
-      "album": {
         "name": "3:15 (OG, Slowed Down + Reverb, Sped Up)",
         "url": "https://open.spotify.com/album/1RZQkYI9bib46kpfH9qSZV"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 195428,
       "name": "3:15 - Slowed Down + Reverb",
       "url": "https://open.spotify.com/track/4ooAEchlO6o6WL301WqIkP"
+    },
+    {
+      "added_at": "2023-07-13 19:40:25",
+      "album": {
+        "name": "The Arrival: Part I (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/015uRkdgy09DokRKmz0Scg"
+      },
+      "artists": [
+        {
+          "name": "Aaryan Shah",
+          "url": "https://open.spotify.com/artist/4RzbexUO843fc5SLqKEQCr"
+        }
+      ],
+      "duration_ms": 279250,
+      "name": "Renegade - (Slowed + Reverb)",
+      "url": "https://open.spotify.com/track/0hAoRx9cc7pcsqfE2BpF9Y"
     },
     {
       "added_at": "2023-07-13 19:40:25",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-07-13 19:40:25",
       "album": {
+        "name": "Killshot (Slowed + Reverb)",
+        "url": "https://open.spotify.com/album/4Ey0ngdLf4iXL84gdv0zjA"
+      },
+      "artists": [
+        {
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
+        }
+      ],
+      "duration_ms": 278074,
+      "name": "Killshot - Slowed + Reverb",
+      "url": "https://open.spotify.com/track/6pdyvJQkPkwo2WoDH7tFHO"
+    },
+    {
+      "added_at": "2023-07-13 19:40:25",
+      "album": {
         "name": "Married In Vegas (Matoma Remix)",
         "url": "https://open.spotify.com/album/4YqfRZEKP1rDqKK1LNBjbU"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 244797,
       "name": "All Night - Slowed N Reverb",
       "url": "https://open.spotify.com/track/1gk5o5yEXAsHeXMJoavmh3"
-    },
-    {
-      "added_at": "2023-07-13 19:40:25",
-      "album": {
-        "name": "Killshot (Slowed + Reverb)",
-        "url": "https://open.spotify.com/album/4Ey0ngdLf4iXL84gdv0zjA"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
-        }
-      ],
-      "duration_ms": 278074,
-      "name": "Killshot - Slowed + Reverb",
-      "url": "https://open.spotify.com/track/6pdyvJQkPkwo2WoDH7tFHO"
     },
     {
       "added_at": "2023-07-13 19:40:25",

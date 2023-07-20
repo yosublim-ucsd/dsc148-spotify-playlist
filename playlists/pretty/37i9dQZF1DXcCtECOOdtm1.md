@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCtECOOdtm1.md) - [plain]
 
 > Get fascinated by Japanese City Pop from the ‘90s with Shibuya\-kei flavor./ シティポップの発展が渋谷系へと向かう。多幸感に溢れる時代の空気と共に、モードな再構築が新たなカルチャーを生んだ。
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,500 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,528 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCtECOOdtm1.md) - [plain]
 | 7 | [Jolie](https://open.spotify.com/track/0JGEQ4bpgXwpwwEHfD4rL7) | [COSA NOSTRA](https://open.spotify.com/artist/3XTQoYcUS34mM1jloWW85u) | [Jolie](https://open.spotify.com/album/2vyEwx01MpkV5b5uXr6Zjq) | 5:00 |
 | 8 | [ENDLESS SUMMER NUDE](https://open.spotify.com/track/0yiMxEV6t1oJsDZDQaf7vB) | [Magokoro Brothers](https://open.spotify.com/artist/7vDBc24PdLxDQEF6tGHnzM) | [GOODDEST](https://open.spotify.com/album/2X3g1UYUiMk7xmhWcoj7pc) | 5:15 |
 | 9 | [BAD GIRL](https://open.spotify.com/track/6HQbJqm6M4YvZJd9acfIJm) | [NONA REEVES](https://open.spotify.com/artist/2C6HFF5xLM3rUfCEuZ3q2I) | [Friday Night](https://open.spotify.com/album/2XpP3oRuBudQhXZaNhsxWe) | 5:35 |
-| 10 | [Edo River](https://open.spotify.com/track/7fMzDKqXI1yLugVJNWyiwm) | [Carnation](https://open.spotify.com/artist/5NvPLoJWfBHkEvTsiwmEog) | [EDO RIVER](https://open.spotify.com/album/1qFE5dkutI58p4UkN4Sho4) | 5:02 |
+| 10 | [Edo River](https://open.spotify.com/track/2Teorw7URQD0o6JBoLxIux) | [Carnation](https://open.spotify.com/artist/5NvPLoJWfBHkEvTsiwmEog) | [CITY MUSIC TOKYO multiple](https://open.spotify.com/album/67wYPpAjZ6vlEGR9QMiiDw) | 5:02 |
 | 11 | [休日〜Holiday〜](https://open.spotify.com/track/54svovuyYwv8UFFYhqNbuE) | [The CHANG](https://open.spotify.com/artist/4TUK5uS3Y5yEMk1je8dvsU) | [ACTON](https://open.spotify.com/album/3Xwv5EJuTQ3rnZR8AAv6GC) | 4:26 |
 | 12 | [SILENT SNOW STREAM](https://open.spotify.com/track/1bhJKv7Ou9rN9RYVD6YXUP) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [The First Question Award](https://open.spotify.com/album/34R5kaIgo2RPsMS2tb4xjc) | 6:32 |
 | 13 | [幸せな結末](https://open.spotify.com/track/5osxC77ZVAIXIE5Q3DMUuu) | [大滝詠一](https://open.spotify.com/artist/0cFJWqLH2LZPzuTGS1ljV0) | [幸せな結末](https://open.spotify.com/album/0THQJwnRlNNmlxtoDMp5Rf) | 4:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCtECOOdtm1.md) - [plain]
 | 49 | [双子座グラフィティ \- 2014 Remaster](https://open.spotify.com/track/6SbhXWE47UAGZIYZNcZxkX) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [SINGLES BEST〜Archives〜 \(完全版\) \[リマスター\]](https://open.spotify.com/album/5aofoE06bWoCF43ZXHU4jk) | 4:50 |
 | 50 | [Girl Talk \~never fall in love again\~](https://open.spotify.com/track/2D2Z9gHas01CpA2ciEfDru) | [COSA NOSTRA](https://open.spotify.com/artist/3XTQoYcUS34mM1jloWW85u) | [SEVEN](https://open.spotify.com/album/6KPK1tNvB5qZTJeTBrji7X) | 4:20 |
 
-Snapshot ID: `MCwxYjNlMWZmODJmOGQ0MWJiNWQ3N2VkY2YwMzZhZjE4YjlmZDdiNzM4`
+Snapshot ID: `MCw5YmE3YmQ4OWM5ZDAyNTAzY2ZlMDEzY2E1OWZlYmFhNWYzMDFmMmFh`

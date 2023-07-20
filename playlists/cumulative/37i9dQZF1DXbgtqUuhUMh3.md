@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Balqees
 
-498 songs - 1 day 5 hr 6 min
+499 songs - 1 day 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,7 +130,8 @@
 | [El Koun](https://open.spotify.com/track/3GoBo3IeBnqaRZWMieW5xo) | [Dina El Wedidi](https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA), [DJ Totti](https://open.spotify.com/artist/6sm3nTKVNrdKN3iAo73oda) | [El Koun](https://open.spotify.com/album/47TSlsN85IYn25Armdr7iy) | 4:06 | 2022-10-27 | 2023-04-11 |
 | [El koun](https://open.spotify.com/track/6tBhitRgOcmxOjjBHNpep6) | [Dina El Wedidi](https://open.spotify.com/artist/4dejJ4Gg0YVjWRUdfpF3yA), [DJ Totti](https://open.spotify.com/artist/6sm3nTKVNrdKN3iAo73oda) | [El koun](https://open.spotify.com/album/6kwQCrZIz01woHNniUtNua) | 4:06 | 2022-03-01 | 2022-10-26 |
 | [El Mehwar](https://open.spotify.com/track/72Um6QDY59HCpgpNjFq14r) | [Gohary](https://open.spotify.com/artist/0YGskdvcglrOoyXsGbixRn) | [El Mehwar](https://open.spotify.com/album/0fIo6JnxKEyRToMfvIboAN) | 3:32 | 2021-12-23 | 2022-03-01 |
-| [El Raasha](https://open.spotify.com/track/1hnrSD9KAY06hOrpJbylAe) | [Sandy](https://open.spotify.com/artist/4eAQYYrpDuYXiswOkJC9rA) | [El Raasha](https://open.spotify.com/album/7zc6nx9VVqPeyubRtRPseV) | 2:42 | 2023-07-17 |  |
+| [El Qalb Hab](https://open.spotify.com/track/1OUQcMVeT1YkcsMLIOj1Au) | [Mona](https://open.spotify.com/artist/0XDedczfxD2nnwn1Fe0WRr) | [El Qalb Hab](https://open.spotify.com/album/1lDfJuWLlTq3staZDOF6i6) | 3:14 | 2023-07-18 |  |
+| [El Raasha](https://open.spotify.com/track/1hnrSD9KAY06hOrpJbylAe) | [Sandy](https://open.spotify.com/artist/2YvRrakSWfzyWwv8JCeeC5) | [El Raasha](https://open.spotify.com/album/7zc6nx9VVqPeyubRtRPseV) | 2:42 | 2023-07-17 |  |
 | [El Sa3a Tes3a](https://open.spotify.com/track/0vRNQJC5feiuVq99FruVL6) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [El Sa3a Tes3a](https://open.spotify.com/album/6C84DA6uO6CmULWHzZlUxO) | 3:25 | 2022-10-27 | 2023-02-24 |
 | [El Sa3a Tes3a](https://open.spotify.com/track/1M7N6cJY42AXOhpRwKzUFU) | [Perrie](https://open.spotify.com/artist/63S7oUGviUcivzyqrmiy78) | [El Sa3a Tes3a](https://open.spotify.com/album/1GJZhqPPsieEHz7nLKW17G) | 3:25 | 2022-03-07 | 2022-10-14 |
 | [El Sabr Gamel \-الصبر جميل](https://open.spotify.com/track/5DWgoXhsm5LjfyERSbaqzO) | [Maha Ftouni](https://open.spotify.com/artist/2alZWWB8btL8F9NCeoR1Xn) | [El Sabr Gamel \-الصبر جميل](https://open.spotify.com/album/5jnqYPsl7285qQeqUkYYlk) | 4:59 | 2023-05-10 |  |
@@ -301,7 +302,7 @@
 | [Nasskha Menni](https://open.spotify.com/track/6P2lURWGJdFnLDz0p1RUSS) | [Carole Samaha](https://open.spotify.com/artist/0CSSBwiYmYF569NxdQedQ3) | [Nasskha Menni](https://open.spotify.com/album/3ZfctpYyVO0LKI61ShOV1T) | 3:29 | 2023-06-22 |  |
 | [Nazele Big Champagne](https://open.spotify.com/track/3y6b0RXNW5edjwLxdvojMB) | [Blu Fiefer](https://open.spotify.com/artist/2JLEPctdP7utmaEBfRhK6H) | [Nazele Big Champagne](https://open.spotify.com/album/4d2GiRstJ8mVIMjtSwTRYb) | 2:30 | 2023-02-23 | 2023-03-25 |
 | [Nefodaha Seera](https://open.spotify.com/track/1MPi1UhG5kOwuuBtuhGWwj) | [Hla Roushdy](https://open.spotify.com/artist/7DAWcw9PdXb5IM1g7G8JzX) | [Nefodaha Seera](https://open.spotify.com/album/5zfS9qNEixg0dE4s8Wsfa3) | 3:10 | 2022-03-09 | 2022-07-27 |
-| [Nefrah Barsha \- Aswatna](https://open.spotify.com/track/4VuAVQzUkli3xSHeN957gR) | [Faia Younan](https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi) | [Nefrah Barsha \(Aswatna\)](https://open.spotify.com/album/5eLO5PfIjYC2wVmMGsZvud) | 3:50 | 2023-05-08 |  |
+| [Nefrah Barsha \- Aswatna](https://open.spotify.com/track/4VuAVQzUkli3xSHeN957gR) | [Faia Younan](https://open.spotify.com/artist/2myLHkpmmKy57Jx5CN52pi) | [Nefrah Barsha \(Aswatna\)](https://open.spotify.com/album/5eLO5PfIjYC2wVmMGsZvud) | 3:50 | 2023-05-08 | 2023-07-20 |
 | [Nefsy Feek](https://open.spotify.com/track/7LLBzHItdTa9wKmc5pyLZT) | [Mohamed Jamal](https://open.spotify.com/artist/6DvyWbIhN6sQwsUs1RYfug), [Reem Ezz El Din](https://open.spotify.com/artist/6mSMBrCQj2ad7P5aQEITUK) | [Nefsy Feek](https://open.spotify.com/album/1tf0XaSynbt5BhRw2iBWOy) | 4:18 | 2021-12-23 | 2022-03-02 |
 | [Nekhaby Leh](https://open.spotify.com/track/4oCxv2lDprvfCymsbT3JVB) | [Doaa El Sebaii](https://open.spotify.com/artist/3ax3M3WUxbcB4D7KgATtOZ), [Maher El Mallakh](https://open.spotify.com/artist/0t0o72DPDZpHBGARIzcqau) | [Nekhaby Leh](https://open.spotify.com/album/61s2rLWVqOKz3TJxUXcb30) | 1:46 | 2023-05-11 | 2023-06-07 |
 | [Nesait Esmo](https://open.spotify.com/track/3KPGXN0WOj9CwOuLctZo7z) | [El Jawhara](https://open.spotify.com/artist/2k5Q8DihfnjhLXPUej8A5l) | [Nesait Esmo](https://open.spotify.com/album/4DBTxotqYyYQhXVBjcwQxe) | 3:39 | 2021-12-23 | 2022-03-02 |

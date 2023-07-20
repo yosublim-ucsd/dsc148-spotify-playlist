@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. George Rhoads & RENEE en portada.",
-  "num_followers": 55401,
+  "num_followers": 55409,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OWI1YzA2Mzg0MzAxMDE3NDA3ZTJhZDI4ZGYzZTE1MWY4MjJmMTU5",
+  "snapshot_id": "MCw3N2FmNTMxOGYzZGFjMWM3YWJlODE2N2NiYzdkMmNjM2I2YTlhNzk5",
   "tracks": [
     {
       "added_at": "2023-07-07 06:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Descifrar",
-        "url": "https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 256885,
-      "name": "Hace Mucho Tiempo",
-      "url": "https://open.spotify.com/track/790myZFzSomT1B5MkFhuNT"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "Sin Rencor Ni Mal De Amores",
         "url": "https://open.spotify.com/album/2eRRcTldTt3VkELELtUAKE"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 198591,
       "name": "Sin Rencor Ni Mal De Amores",
       "url": "https://open.spotify.com/track/45upTL3P8UfS2jC2yvN9gr"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "Descifrar",
+        "url": "https://open.spotify.com/album/0iS5WqBx0TeI4duoxqk57F"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 256885,
+      "name": "Hace Mucho Tiempo",
+      "url": "https://open.spotify.com/track/790myZFzSomT1B5MkFhuNT"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Vete",
-        "url": "https://open.spotify.com/album/4JRHwnnjbcvbbzfrb8AhiK"
-      },
-      "artists": [
-        {
-          "name": "JR Torres",
-          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
-        }
-      ],
-      "duration_ms": 154546,
-      "name": "Mi Bello Angel",
-      "url": "https://open.spotify.com/track/5moNkvlkeMq5evkPWynyuH"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "El Ni\u00f1o De La Amapola",
         "url": "https://open.spotify.com/album/1rygGMDNJ46kjKiwRzGC9Y"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 214707,
       "name": "El Ni\u00f1o De La Amapola",
       "url": "https://open.spotify.com/track/76sWBFlOhZeChOSdrAfpCd"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "Vete",
+        "url": "https://open.spotify.com/album/4JRHwnnjbcvbbzfrb8AhiK"
+      },
+      "artists": [
+        {
+          "name": "JR Torres",
+          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
+        }
+      ],
+      "duration_ms": 154546,
+      "name": "Mi Bello Angel",
+      "url": "https://open.spotify.com/track/5moNkvlkeMq5evkPWynyuH"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1179,18 +1179,26 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "Estos D\u00edas",
-        "url": "https://open.spotify.com/album/28oQLDvOUhSoyyTZSkpwdh"
+        "name": "El Sello Adixion",
+        "url": "https://open.spotify.com/album/7pm9F84ZnvCQBEckBhniF6"
       },
       "artists": [
         {
-          "name": "Drupys",
-          "url": "https://open.spotify.com/artist/51v2O1Wdjz5ESexCePinre"
+          "name": "Proximo Nivel",
+          "url": "https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94"
+        },
+        {
+          "name": "Equipo Reforzado",
+          "url": "https://open.spotify.com/artist/79l11SbRoVI27ZHUMZ05Ru"
+        },
+        {
+          "name": "Inoboiz",
+          "url": "https://open.spotify.com/artist/72kfJ36enf8Xj9fHmxWvVJ"
         }
       ],
-      "duration_ms": 204826,
-      "name": "Estos D\u00edas",
-      "url": "https://open.spotify.com/track/2oIwJKdjg8amIYUupl4RUO"
+      "duration_ms": 176720,
+      "name": "El Sello Adixion",
+      "url": "https://open.spotify.com/track/2v6sGn3VKqssfoKQmhvwf7"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1215,26 +1223,18 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "El Sello Adixion",
-        "url": "https://open.spotify.com/album/7pm9F84ZnvCQBEckBhniF6"
+        "name": "Estos D\u00edas",
+        "url": "https://open.spotify.com/album/28oQLDvOUhSoyyTZSkpwdh"
       },
       "artists": [
         {
-          "name": "Proximo Nivel",
-          "url": "https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94"
-        },
-        {
-          "name": "Equipo Reforzado",
-          "url": "https://open.spotify.com/artist/79l11SbRoVI27ZHUMZ05Ru"
-        },
-        {
-          "name": "Inoboiz",
-          "url": "https://open.spotify.com/artist/72kfJ36enf8Xj9fHmxWvVJ"
+          "name": "Drupys",
+          "url": "https://open.spotify.com/artist/51v2O1Wdjz5ESexCePinre"
         }
       ],
-      "duration_ms": 176720,
-      "name": "El Sello Adixion",
-      "url": "https://open.spotify.com/track/2v6sGn3VKqssfoKQmhvwf7"
+      "duration_ms": 204826,
+      "name": "Estos D\u00edas",
+      "url": "https://open.spotify.com/track/2oIwJKdjg8amIYUupl4RUO"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
+        "name": "Peque\u00f1a y Frag\u00edl",
+        "url": "https://open.spotify.com/album/1dc7RVbqKhbUiAGYlG1E58"
+      },
+      "artists": [
+        {
+          "name": "grupo Supremo",
+          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
+        }
+      ],
+      "duration_ms": 173837,
+      "name": "Peque\u00f1a y Frag\u00edl",
+      "url": "https://open.spotify.com/track/57Bez4hgcPPFZaaxowL0il"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
         "name": "Pura Miel",
         "url": "https://open.spotify.com/album/6Lywn8yw96pZysojmn0Okz"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 191029,
       "name": "Pura Miel",
       "url": "https://open.spotify.com/track/4Zlq86DAtagKTQwjh90Ivp"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
-        "name": "Peque\u00f1a y Frag\u00edl",
-        "url": "https://open.spotify.com/album/1dc7RVbqKhbUiAGYlG1E58"
-      },
-      "artists": [
-        {
-          "name": "grupo Supremo",
-          "url": "https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C"
-        }
-      ],
-      "duration_ms": 173837,
-      "name": "Peque\u00f1a y Frag\u00edl",
-      "url": "https://open.spotify.com/track/57Bez4hgcPPFZaaxowL0il"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "AS\u00cd ME ENAMOR\u00c9",
-        "url": "https://open.spotify.com/album/5GX2SxB93AlOOcPM7DojMA"
-      },
-      "artists": [
-        {
-          "name": "Franco Rey",
-          "url": "https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3"
-        }
-      ],
-      "duration_ms": 164096,
-      "name": "\u00bfY que pensabas?",
-      "url": "https://open.spotify.com/track/3ZDhzlwp5xjRM3KQRKKCMh"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "7 Dias",
         "url": "https://open.spotify.com/album/11LDC0VyI6mfScuOCWXBLz"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 158953,
       "name": "7 D\u00edas",
       "url": "https://open.spotify.com/track/2VkO0XzFaHd6KCSFtFgth2"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "AS\u00cd ME ENAMOR\u00c9",
+        "url": "https://open.spotify.com/album/5GX2SxB93AlOOcPM7DojMA"
+      },
+      "artists": [
+        {
+          "name": "Franco Rey",
+          "url": "https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3"
+        }
+      ],
+      "duration_ms": 164096,
+      "name": "\u00bfY que pensabas?",
+      "url": "https://open.spotify.com/track/3ZDhzlwp5xjRM3KQRKKCMh"
     },
     {
       "added_at": "2023-06-23 06:00:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-06-23 06:00:00",
       "album": {
-        "name": "En Cada Trago",
-        "url": "https://open.spotify.com/album/49t2X1qvhPB5BthXTg6ujN"
-      },
-      "artists": [
-        {
-          "name": "Bajo Perfil",
-          "url": "https://open.spotify.com/artist/04CzckYeljqT6be7fR954D"
-        }
-      ],
-      "duration_ms": 172645,
-      "name": "En Cada Trago",
-      "url": "https://open.spotify.com/track/6ChBOorT76CVNHjorW0mQC"
-    },
-    {
-      "added_at": "2023-06-23 06:00:00",
-      "album": {
         "name": "Siendo El Mismo",
         "url": "https://open.spotify.com/album/5UVAYWkqxHhfnpt9Ft2lBi"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 134545,
       "name": "Siendo El Mismo",
       "url": "https://open.spotify.com/track/1dOWRtDey6atPaN3BP2shc"
+    },
+    {
+      "added_at": "2023-06-23 06:00:00",
+      "album": {
+        "name": "En Cada Trago",
+        "url": "https://open.spotify.com/album/49t2X1qvhPB5BthXTg6ujN"
+      },
+      "artists": [
+        {
+          "name": "Bajo Perfil",
+          "url": "https://open.spotify.com/artist/04CzckYeljqT6be7fR954D"
+        }
+      ],
+      "duration_ms": 172645,
+      "name": "En Cada Trago",
+      "url": "https://open.spotify.com/track/6ChBOorT76CVNHjorW0mQC"
     },
     {
       "added_at": "2023-06-23 06:00:00",

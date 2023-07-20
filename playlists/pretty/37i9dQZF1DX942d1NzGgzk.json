@@ -1,12 +1,12 @@
 {
   "description": "100% British - 100% R&B. Cover: No Guidnce",
-  "num_followers": 123234,
+  "num_followers": 123295,
   "original_name": "R&B UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMmRmNGU1NjBiODFhODIzNjg1YzM4ZGVkMTE5YmFmNjhhZTcwODNj",
+  "snapshot_id": "MCw0MTFmMzg4ZGQ1MGYwNDNjNjdhNzU0YzQ2YTRiMjUzNTNmMzRjZmEw",
   "tracks": [
     {
       "added_at": "2023-06-05 23:44:46",
@@ -295,18 +295,22 @@
     {
       "added_at": "2023-06-05 23:44:46",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/1NYpfhFgpcoMmADUQsaYQm"
+        "name": "Be Right Back",
+        "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
       },
       "artists": [
         {
-          "name": "Wes Nelson",
-          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "Shaybo",
+          "url": "https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy"
         }
       ],
-      "duration_ms": 159321,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/64CKrUSNUMzFHziTnJJzNG"
+      "duration_ms": 201942,
+      "name": "Bussdown (feat. Shaybo)",
+      "url": "https://open.spotify.com/track/2gP19KH3V5JlR5MycAIL3R"
     },
     {
       "added_at": "2023-06-05 23:44:46",
@@ -363,22 +367,18 @@
     {
       "added_at": "2023-06-05 23:44:46",
       "album": {
-        "name": "Be Right Back",
-        "url": "https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi"
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/1NYpfhFgpcoMmADUQsaYQm"
       },
       "artists": [
         {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "Shaybo",
-          "url": "https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy"
+          "name": "Wes Nelson",
+          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
         }
       ],
-      "duration_ms": 201942,
-      "name": "Bussdown (feat. Shaybo)",
-      "url": "https://open.spotify.com/track/2gP19KH3V5JlR5MycAIL3R"
+      "duration_ms": 159321,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/64CKrUSNUMzFHziTnJJzNG"
     },
     {
       "added_at": "2023-06-05 23:44:46",
@@ -587,18 +587,18 @@
     {
       "added_at": "2023-06-05 23:44:46",
       "album": {
-        "name": "Bag Of You",
-        "url": "https://open.spotify.com/album/4J2ZnI41Z9yElyzM2TzBrM"
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
       },
       "artists": [
         {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 197427,
-      "name": "Bag Of You",
-      "url": "https://open.spotify.com/track/3X7aFBB2ja4QT2XEuxKCIA"
+      "duration_ms": 339906,
+      "name": "Don't Let Me Fall",
+      "url": "https://open.spotify.com/track/0M8JJ42kXmyhSAZlzwWMP3"
     },
     {
       "added_at": "2023-06-05 23:44:46",
@@ -619,18 +619,18 @@
     {
       "added_at": "2023-06-05 23:44:46",
       "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
+        "name": "Bag Of You",
+        "url": "https://open.spotify.com/album/4J2ZnI41Z9yElyzM2TzBrM"
       },
       "artists": [
         {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
         }
       ],
-      "duration_ms": 339906,
-      "name": "Don't Let Me Fall",
-      "url": "https://open.spotify.com/track/0M8JJ42kXmyhSAZlzwWMP3"
+      "duration_ms": 197427,
+      "name": "Bag Of You",
+      "url": "https://open.spotify.com/track/3X7aFBB2ja4QT2XEuxKCIA"
     },
     {
       "added_at": "2023-06-05 23:44:46",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-06-05 23:44:46",
       "album": {
-        "name": "In The Club",
-        "url": "https://open.spotify.com/album/5KWKFjOuDQ0W7KUimRclNs"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 172946,
-      "name": "In The Club",
-      "url": "https://open.spotify.com/track/1MRvZ3PMsd86Kul6xINAze"
-    },
-    {
-      "added_at": "2023-06-05 23:44:46",
-      "album": {
         "name": "Closure Tapes",
         "url": "https://open.spotify.com/album/4rAj2yXfbuhHxR5ibpopF5"
       },
@@ -727,26 +711,6 @@
     {
       "added_at": "2023-06-05 23:44:46",
       "album": {
-        "name": "Glowin 4 Me Pt. 2 (feat. AMARIA BB)",
-        "url": "https://open.spotify.com/album/1i0f9QAp1jFbJSpL4dkfCh"
-      },
-      "artists": [
-        {
-          "name": "Eric IV",
-          "url": "https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc"
-        },
-        {
-          "name": "AMARIA BB",
-          "url": "https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5"
-        }
-      ],
-      "duration_ms": 145609,
-      "name": "Glowin 4 Me Pt. 2 (feat. AMARIA BB)",
-      "url": "https://open.spotify.com/track/40K5pLCfoUzZDWZwMFUZ7V"
-    },
-    {
-      "added_at": "2023-06-05 23:44:46",
-      "album": {
         "name": "Variables",
         "url": "https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6"
       },
@@ -767,6 +731,26 @@
     {
       "added_at": "2023-06-05 23:44:46",
       "album": {
+        "name": "Glowin 4 Me Pt. 2 (feat. AMARIA BB)",
+        "url": "https://open.spotify.com/album/1i0f9QAp1jFbJSpL4dkfCh"
+      },
+      "artists": [
+        {
+          "name": "Eric IV",
+          "url": "https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc"
+        },
+        {
+          "name": "AMARIA BB",
+          "url": "https://open.spotify.com/artist/1AC6rw8sH8VGrzMzgFUDG5"
+        }
+      ],
+      "duration_ms": 145609,
+      "name": "Glowin 4 Me Pt. 2 (feat. AMARIA BB)",
+      "url": "https://open.spotify.com/track/40K5pLCfoUzZDWZwMFUZ7V"
+    },
+    {
+      "added_at": "2023-06-05 23:44:46",
+      "album": {
         "name": "Outlines",
         "url": "https://open.spotify.com/album/567bIsxKHOqBqNCUCSI5KU"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 170882,
       "name": "Time To Lose",
       "url": "https://open.spotify.com/track/4ywdVPBmQr1PAkAQitNqyS"
+    },
+    {
+      "added_at": "2023-06-05 23:44:46",
+      "album": {
+        "name": "In The Club",
+        "url": "https://open.spotify.com/album/5KWKFjOuDQ0W7KUimRclNs"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 172946,
+      "name": "In The Club",
+      "url": "https://open.spotify.com/track/1MRvZ3PMsd86Kul6xINAze"
     },
     {
       "added_at": "2023-06-05 23:44:46",
@@ -891,26 +891,6 @@
     {
       "added_at": "2023-06-05 23:44:46",
       "album": {
-        "name": "Roadside (feat. AJ Tracey)",
-        "url": "https://open.spotify.com/album/6VDecxKGHUwHtGv8kKj3lm"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        },
-        {
-          "name": "AJ Tracey",
-          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
-        }
-      ],
-      "duration_ms": 206988,
-      "name": "Roadside (feat. AJ Tracey)",
-      "url": "https://open.spotify.com/track/3ARhN1R7vBVTEtN7ldAZvn"
-    },
-    {
-      "added_at": "2023-06-05 23:44:46",
-      "album": {
         "name": "Songs That Made Me Feel",
         "url": "https://open.spotify.com/album/3X8HsMV6AyN2RZp22JE7HR"
       },
@@ -927,6 +907,22 @@
       "duration_ms": 202500,
       "name": "You Comfort Me",
       "url": "https://open.spotify.com/track/6YT5x2mq6uSyhjjrmGEbir"
+    },
+    {
+      "added_at": "2023-06-05 23:44:46",
+      "album": {
+        "name": "Insensitive",
+        "url": "https://open.spotify.com/album/5tCDYQY3Yu2VYKSuuZUpax"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Insensitive",
+      "url": "https://open.spotify.com/track/3c1cNtcW4R8X54QOz86Lwi"
     },
     {
       "added_at": "2023-06-05 23:44:46",
@@ -951,22 +947,6 @@
     {
       "added_at": "2023-06-05 23:44:46",
       "album": {
-        "name": "Insensitive",
-        "url": "https://open.spotify.com/album/5tCDYQY3Yu2VYKSuuZUpax"
-      },
-      "artists": [
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Insensitive",
-      "url": "https://open.spotify.com/track/3c1cNtcW4R8X54QOz86Lwi"
-    },
-    {
-      "added_at": "2023-06-05 23:44:46",
-      "album": {
         "name": "Is This Real Love?",
         "url": "https://open.spotify.com/album/4DqyXB4M4KTJQkeK9vrYmq"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 180024,
       "name": "Is This Real Love?",
       "url": "https://open.spotify.com/track/2STIbgjW6oD4qc1odTNrqT"
+    },
+    {
+      "added_at": "2023-06-05 23:44:46",
+      "album": {
+        "name": "Roadside (feat. AJ Tracey)",
+        "url": "https://open.spotify.com/album/6VDecxKGHUwHtGv8kKj3lm"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        },
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        }
+      ],
+      "duration_ms": 206988,
+      "name": "Roadside (feat. AJ Tracey)",
+      "url": "https://open.spotify.com/track/3ARhN1R7vBVTEtN7ldAZvn"
     },
     {
       "added_at": "2023-06-05 23:44:46",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-06-05 23:44:46",
       "album": {
-        "name": "Ch. 1 Vs. 1",
-        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 217718,
-      "name": "I Might Be In Love With You",
-      "url": "https://open.spotify.com/track/1JXuz7eSjrpkI5FCdruZuN"
-    },
-    {
-      "added_at": "2023-06-05 23:44:46",
-      "album": {
         "name": "Sheet Music",
         "url": "https://open.spotify.com/album/6dZamUVfDA1r94i5PWQQfG"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 188333,
       "name": "Only You",
       "url": "https://open.spotify.com/track/3inov7UTS3ZHlq3RvDT5Ga"
+    },
+    {
+      "added_at": "2023-06-05 23:44:46",
+      "album": {
+        "name": "Ch. 1 Vs. 1",
+        "url": "https://open.spotify.com/album/0KeLt7XCGtfAKAbrmM59De"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 217718,
+      "name": "I Might Be In Love With You",
+      "url": "https://open.spotify.com/track/1JXuz7eSjrpkI5FCdruZuN"
     }
   ],
   "unique_name": "R&B UK",

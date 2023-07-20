@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Lenier, Jowell & Randy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,196 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,240 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 13 | [Punto Final \(Mátame Ahora\)](https://open.spotify.com/track/7BWmLV02gmPQ5ivOSLxRSn) | [El Bloque 8](https://open.spotify.com/artist/6nX2IctRER6z2UkUmJvpE9) | [Punto Final \(Mátame Ahora\)](https://open.spotify.com/album/4rbUna1Etiw47Fn9I7ayO6) | 2:54 |
 | 14 | [La Mitad](https://open.spotify.com/track/6fJNrrjfzU5xfVmeQ7U0An) | [Tyago Griffo](https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC), [ELÍAS](https://open.spotify.com/artist/1OO4dbmG9Fvz897JRIWiys) | [La Mitad](https://open.spotify.com/album/4xI0hYX8XvrLBJEHT3npCk) | 3:02 |
 | 15 | [Hola Que Tal](https://open.spotify.com/track/4KiO4BrxLyjp9KIooFnP5w) | [J Salez](https://open.spotify.com/artist/1k9LH8hJGdjr23xa8Gu7zU), [DerekVinci](https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu) | [Hola Que Tal](https://open.spotify.com/album/2Puqpe0xcg5BwCPLK5lsPF) | 3:05 |
-| 16 | [Vos de bebé](https://open.spotify.com/track/38WBgeP8cXm9I5Rr6kftyE) | [Los Gedes](https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf), [Búfalo Ortiz](https://open.spotify.com/artist/5j7kpHc00qZrSIxnSZ4YZj) | [Vos de bebé](https://open.spotify.com/album/60RFhH1hdv4XPfXO9UDwof) | 4:07 |
+| 16 | [Voz de bebé](https://open.spotify.com/track/38WBgeP8cXm9I5Rr6kftyE) | [Los Gedes](https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf), [Búfalo Ortiz](https://open.spotify.com/artist/5j7kpHc00qZrSIxnSZ4YZj) | [Voz de bebé](https://open.spotify.com/album/60RFhH1hdv4XPfXO9UDwof) | 4:07 |
 | 17 | [No Vale La Pena](https://open.spotify.com/track/1bSTv93pC2Jdm41tIUqW9c) | [Dare El Anunnaki](https://open.spotify.com/artist/35J41sj5meFpXTFC42ueWA), [Dollar Baby](https://open.spotify.com/artist/4GYf5z6XmcUYvuX61r2SlI), [Most Wanted La Familia](https://open.spotify.com/artist/57yFqDKqy5QnBIBAjy2qz6), [Yerandy Sanchez Santana](https://open.spotify.com/artist/1EZIcAHeRavuJtYXujYvqk) | [No Vale La Pena](https://open.spotify.com/album/0gFsVUxueeDlZLVRso7oWE) | 3:24 |
 | 18 | [No Dudes de Mi Amor](https://open.spotify.com/track/4Y7ufSUN24wjALZzESUjwo) | [Hey Hey Camaguey](https://open.spotify.com/artist/0DOadkS5Kr2hnrkkGCS9uo), [Aramis Galindo](https://open.spotify.com/artist/5MCeOn4ddcGJCdDwHmPa4O) | [No Dudes de Mi Amor](https://open.spotify.com/album/3DWK51Acs8Yf4LUAEOOBNW) | 4:26 |
 | 19 | [Ya Fuiste](https://open.spotify.com/track/1NnySF2hHrVSBdzJt1BGMr) | [Alexandra](https://open.spotify.com/artist/6sOhwBjVzpiEBAYEWYwDoX) | [Ya Fuiste](https://open.spotify.com/album/4T1nEPcrFUL79TM36SB8aA) | 3:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 49 | [COCO LOCO](https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [COCO LOCO](https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB) | 2:46 |
 | 50 | [Usted No Sabe / Me Dedique a Perderte](https://open.spotify.com/track/6QuN3DFuPuDwgVtU1WtRUB) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Usted No Sabe / Me Dedique a Perderte](https://open.spotify.com/album/1llNvkYgRo3WxyH3G7n06M) | 3:44 |
 
-Snapshot ID: `MCwyZjJjYmRlYWQ0ZGM3YWU5MWQyZWU1ZWFlMDliMGI1MmM5NTZiOTYw`
+Snapshot ID: `MCw0MDFlNTNkNDlmM2M2NjFkN2M5ODVkMzJhZTQ1NDVlNmZlMDgxNzcz`

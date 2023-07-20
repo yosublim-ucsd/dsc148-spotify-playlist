@@ -1,12 +1,12 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 455683,
+  "num_followers": 455737,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDg5NWUwZjYzMjgzNThiODhmM2JlMDBhYjJhMmNiMWM1ZGVlOTlm",
+  "snapshot_id": "MCxmNjc4YTMwNjA4ZWMyYzk1Y2M3OGE3Mjg4MGQ0NDJjY2FiYTIzZTUy",
   "tracks": [
     {
       "added_at": "2023-06-23 01:16:52",
@@ -357,6 +357,26 @@
       "url": "https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz"
     },
     {
+      "added_at": "2022-02-25 05:12:51",
+      "album": {
+        "name": "April Dub",
+        "url": "https://open.spotify.com/album/658oYwejSEjmja1ZLZjLWE"
+      },
+      "artists": [
+        {
+          "name": "Sancho Meiso Chaya",
+          "url": "https://open.spotify.com/artist/5R2atQNZwxCphuQxWh7LGn"
+        },
+        {
+          "name": "Koyas",
+          "url": "https://open.spotify.com/artist/74Ah80XOCgo68rRWaRWnnI"
+        }
+      ],
+      "duration_ms": 260006,
+      "name": "April Dub (Koyas Mix)",
+      "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
+    },
+    {
       "added_at": "2022-05-06 03:38:46",
       "album": {
         "name": "infina ad nausea: the remixes",
@@ -381,26 +401,6 @@
       "url": "https://open.spotify.com/track/7j15pOGVt7aHde9PWsrdCl"
     },
     {
-      "added_at": "2022-02-25 05:12:51",
-      "album": {
-        "name": "April Dub",
-        "url": "https://open.spotify.com/album/658oYwejSEjmja1ZLZjLWE"
-      },
-      "artists": [
-        {
-          "name": "Sancho Meiso Chaya",
-          "url": "https://open.spotify.com/artist/5R2atQNZwxCphuQxWh7LGn"
-        },
-        {
-          "name": "Koyas",
-          "url": "https://open.spotify.com/artist/74Ah80XOCgo68rRWaRWnnI"
-        }
-      ],
-      "duration_ms": 260006,
-      "name": "April Dub (Koyas Mix)",
-      "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
-    },
-    {
       "added_at": "2022-07-15 18:13:54",
       "album": {
         "name": "Eden Portal",
@@ -415,6 +415,46 @@
       "duration_ms": 366500,
       "name": "Eden Portal",
       "url": "https://open.spotify.com/track/0ihmZ14TyzjrjO390cP1Oo"
+    },
+    {
+      "added_at": "2022-12-16 06:00:00",
+      "album": {
+        "name": "Hondo (Remix)",
+        "url": "https://open.spotify.com/album/4U8wUMf1YW7sRhrAuVi2Mn"
+      },
+      "artists": [
+        {
+          "name": "Vesica Piscis",
+          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
+        },
+        {
+          "name": "Techno Para Dos",
+          "url": "https://open.spotify.com/artist/16KDZP134RdE0F1peBL56h"
+        },
+        {
+          "name": "issuesonissues",
+          "url": "https://open.spotify.com/artist/2dzJGWoV8Hdmq2ZnpbTGG0"
+        }
+      ],
+      "duration_ms": 321210,
+      "name": "Hondo (Remix)",
+      "url": "https://open.spotify.com/track/6EI5sPngX6pBttwOHya9j4"
+    },
+    {
+      "added_at": "2022-03-18 05:02:00",
+      "album": {
+        "name": "Trusted EP",
+        "url": "https://open.spotify.com/album/3fXh9MA7D3t2T4ir3R2tB9"
+      },
+      "artists": [
+        {
+          "name": "mach\u00ecna",
+          "url": "https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn"
+        }
+      ],
+      "duration_ms": 194358,
+      "name": "Trusted",
+      "url": "https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi"
     },
     {
       "added_at": "2022-07-15 05:34:07",
@@ -465,22 +505,6 @@
       "url": "https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4"
     },
     {
-      "added_at": "2022-03-18 05:02:00",
-      "album": {
-        "name": "Trusted EP",
-        "url": "https://open.spotify.com/album/3fXh9MA7D3t2T4ir3R2tB9"
-      },
-      "artists": [
-        {
-          "name": "mach\u00ecna",
-          "url": "https://open.spotify.com/artist/0WOOrXTvgnjErVjsXSOOxn"
-        }
-      ],
-      "duration_ms": 194358,
-      "name": "Trusted",
-      "url": "https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi"
-    },
-    {
       "added_at": "2022-07-08 04:48:31",
       "album": {
         "name": "Closer (Daniel Avery Edit)",
@@ -517,30 +541,6 @@
       "url": "https://open.spotify.com/track/3un8NWwFpSvbN0m0JZ29da"
     },
     {
-      "added_at": "2022-12-16 06:00:00",
-      "album": {
-        "name": "Hondo (Remix)",
-        "url": "https://open.spotify.com/album/4U8wUMf1YW7sRhrAuVi2Mn"
-      },
-      "artists": [
-        {
-          "name": "Vesica Piscis",
-          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
-        },
-        {
-          "name": "Techno Para Dos",
-          "url": "https://open.spotify.com/artist/16KDZP134RdE0F1peBL56h"
-        },
-        {
-          "name": "issuesonissues",
-          "url": "https://open.spotify.com/artist/2dzJGWoV8Hdmq2ZnpbTGG0"
-        }
-      ],
-      "duration_ms": 321210,
-      "name": "Hondo (Remix)",
-      "url": "https://open.spotify.com/track/6EI5sPngX6pBttwOHya9j4"
-    },
-    {
       "added_at": "2023-01-07 02:50:03",
       "album": {
         "name": "ITSAME",
@@ -559,22 +559,6 @@
     {
       "added_at": "2021-10-15 03:56:52",
       "album": {
-        "name": "So",
-        "url": "https://open.spotify.com/album/7azgAC2wWDEQwkFtH1oUxS"
-      },
-      "artists": [
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
-        }
-      ],
-      "duration_ms": 279501,
-      "name": "So",
-      "url": "https://open.spotify.com/track/55CCxcBWmurfDqbrJfphD0"
-    },
-    {
-      "added_at": "2021-10-15 03:56:52",
-      "album": {
         "name": "Put Your Head Above The Parakeets",
         "url": "https://open.spotify.com/album/6SJSwXUsU7XAuI32YfX2iC"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 436052,
       "name": "Head Above The Parakeets",
       "url": "https://open.spotify.com/track/1F7wFVvXwazyZdy4jq3Bj8"
+    },
+    {
+      "added_at": "2021-10-15 03:56:52",
+      "album": {
+        "name": "So",
+        "url": "https://open.spotify.com/album/7azgAC2wWDEQwkFtH1oUxS"
+      },
+      "artists": [
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "duration_ms": 279501,
+      "name": "So",
+      "url": "https://open.spotify.com/track/55CCxcBWmurfDqbrJfphD0"
     },
     {
       "added_at": "2023-06-01 23:13:49",

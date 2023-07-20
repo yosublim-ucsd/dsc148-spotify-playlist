@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > DISKOTEK DISKOTEKA!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,167 likes - 100 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,224 likes - 100 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 99 | [30 km/h \(Med Louise Andersson Bodin\)](https://open.spotify.com/track/52KOHfjlRyL84Q6WlSqpPT) | [250 kg kärlek](https://open.spotify.com/artist/4zLti6k7kpm9jwOVJv7wtT), [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE) | [30 km/h \(Med Louise Andersson Bodin\)](https://open.spotify.com/album/4MHaBwxuiDv3CVHaATzvcy) | 2:22 |
 | 100 | [Oj Oj](https://open.spotify.com/track/0beFqL93TrrK7EqeAsgKPN) | [Rivstart](https://open.spotify.com/artist/0NNJLiIAqTaLE1MMMgrBNj) | [Oj Oj](https://open.spotify.com/album/1oiVHgqFVsbooDcjgzzaYY) | 2:45 |
 
-Snapshot ID: `MCxiODA1MjNhMzVhODhiMzliYzUwYTFjNDg4ZDYxMjU4NDRiYTVjZTY4`
+Snapshot ID: `MCwyOGU1NmM5YTdiMWVmMjBmNmM3MGI2MjFmNTNmYTYwNGE1ZmE2NzMx`

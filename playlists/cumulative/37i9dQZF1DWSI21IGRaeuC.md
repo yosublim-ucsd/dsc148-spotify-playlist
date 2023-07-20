@@ -4,7 +4,7 @@
 
 > Dive into the deep end of the tech house spectrum.
 
-183 songs - 15 hr 35 min
+184 songs - 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Free](https://open.spotify.com/track/07JlZ8E9U8l1nH41vAIPSu) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Free / Love Me](https://open.spotify.com/album/7tlGEEHcWktB2dgYH1CzEB) | 7:01 | 2022-06-03 | 2022-07-29 |
 | [Free \- Bruno Furlan Remix](https://open.spotify.com/track/668AmdAkV6kzQIGs1iMWxS) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip), [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF), [Uncle Chucc](https://open.spotify.com/artist/0qmUElN0l9LfpXv3i4qIyR) | [Free \(Ferreck Dawn Remix\)](https://open.spotify.com/album/5trwxpbZkRZRB3t1q3ehZT) | 3:49 | 2023-03-17 | 2023-04-29 |
 | [Fuck The Regs](https://open.spotify.com/track/3krO0tblKXMBuIsSg5Yijv) | [Josh Butler](https://open.spotify.com/artist/0EAlTKO2HfATH766bVH1rX) | [Fuck The Regs EP](https://open.spotify.com/album/4haBApGeAHHH11EPiHaghy) | 3:24 | 2022-07-29 |  |
-| [Fuego](https://open.spotify.com/track/7HVwI8txOUrRdIGV5Z9lhP) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Fuego](https://open.spotify.com/album/4iHXJluidkU10vc0FmRqdc) | 3:10 | 2023-06-09 |  |
+| [Fuego](https://open.spotify.com/track/4r2xLZbF6dz6Sq3DkEQF7Z) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Fuego](https://open.spotify.com/album/1DI8trL5leqaA8twkT4H0h) | 3:10 | 2023-07-14 |  |
+| [Fuego](https://open.spotify.com/track/7HVwI8txOUrRdIGV5Z9lhP) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Fuego](https://open.spotify.com/album/4iHXJluidkU10vc0FmRqdc) | 3:10 | 2023-06-09 | 2023-07-20 |
 | [Gehörschadengenerator](https://open.spotify.com/track/3NfeXbPEafvsiPtwq5huQX) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 01](https://open.spotify.com/album/03zo0uqSccDlJjgWfUT5zk) | 8:38 | 2022-07-22 |  |
 | [Get Ur Freak On](https://open.spotify.com/track/6FSY2EEtEfW8Xj95dqw3UC) | [VOLAC](https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE) | [Freak With Us](https://open.spotify.com/album/5C6ite2nuxQ3FSKc161KAa) | 3:17 | 2022-09-16 | 2022-11-12 |
 | [Go To Sleep](https://open.spotify.com/track/1hgRPboYDiw2HYC4BOmuGp) | [Alexander Aurel](https://open.spotify.com/artist/6IISWtCeUiNuQ7jnsknnGF) | [Fall in Love EP](https://open.spotify.com/album/2h67Mn5VvLUWVNQnkUcTXg) | 6:25 | 2022-06-03 | 2022-06-12 |

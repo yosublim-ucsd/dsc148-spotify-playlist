@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Shaodree
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,536 likes - 75 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,589 likes - 75 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [Sobrenatural ;7](https://open.spotify.com/track/3QncTbkiAhGomFf0KHaqlf) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Sobrenatural ;7](https://open.spotify.com/album/2CJ5Vpgc8ibMiu0gchg4uL) | 3:12 |
 | 75 | [Jovens do Reggae](https://open.spotify.com/track/3HdEOUNuFuoWj06rXpQQ4o) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Jovens do Reggae](https://open.spotify.com/album/1GJLb6DW0nVTH9rcaCzKgp) | 3:03 |
 
-Snapshot ID: `MCxmYTA1Nzk4NWMwZjNiZWE4OGZmMzM1YmE5ZDBjNDY4ZTBlOTlkZjIw`
+Snapshot ID: `MCwyYThjMWUyYzMzM2ZmNWMyNTk4MjI0ZWEzZDlmN2YyMTFmYjAwMjZh`

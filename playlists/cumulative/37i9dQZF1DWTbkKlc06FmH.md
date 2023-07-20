@@ -4,7 +4,7 @@
 
 > 都会の空を見上げると聴こえてくる音楽。 cover painting: 永井博
 
-428 songs - 1 day 1 hr 56 min
+430 songs - 1 day 2 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,8 @@
 | [Gradate](https://open.spotify.com/track/04GV8JLkGPs2AOSrJjiOCX) | [U\-Key zone](https://open.spotify.com/artist/5UGa5DI6W2UrficTR8aZXj), [issei](https://open.spotify.com/artist/2qdOqduF7xgqSVd4153NdZ) | [Gradate](https://open.spotify.com/album/1LY3jOgcsqqu0cRFnWSMvj) | 3:49 | 2022-10-20 | 2022-11-30 |
 | [Greatest Hits](https://open.spotify.com/track/5eWKybWrLV0JyI2rU0NfA1) | [Jockstrap](https://open.spotify.com/artist/6S3Z6Me30mtdm526H17v8k) | [I Love You Jennifer B](https://open.spotify.com/album/4YFlC5Abaj48ERwaOPfpu8) | 4:27 | 2022-10-20 | 2022-10-26 |
 | [Grow](https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Untidy Soul](https://open.spotify.com/album/7u5uWlp5UV9mdr7Rokotod) | 3:00 | 2023-01-12 | 2023-01-15 |
-| [habilabi](https://open.spotify.com/track/4MfPAtRiq3dIOLsbHTbMqj) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt) | [habilabi](https://open.spotify.com/album/0cubnBwKraFJPbiuCz4Abz) | 3:52 | 2023-07-18 |  |
+| [habilabi](https://open.spotify.com/track/4EQx8YujNNZETd1LBhGKo5) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt) | [habilabi](https://open.spotify.com/album/14dw7FgjqtHRCeV2MaL6Mp) | 3:52 | 2023-07-18 |  |
+| [habilabi](https://open.spotify.com/track/4MfPAtRiq3dIOLsbHTbMqj) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt) | [habilabi](https://open.spotify.com/album/0cubnBwKraFJPbiuCz4Abz) | 3:52 | 2023-07-18 | 2023-07-20 |
 | [Hair Up High](https://open.spotify.com/track/2Yy2LQe91B18DxooUldFLm) | [H I N A N O](https://open.spotify.com/artist/6tO81LUACIiheJWoVBJ5PY) | [Tomorrow I'll Never Be Twenty\-Two](https://open.spotify.com/album/1P1WOWCim8bfcz6Z1Gqr8s) | 4:20 | 2022-10-20 | 2022-11-09 |
 | [Hearth](https://open.spotify.com/track/4g1AhmH1DOkwH4VXzGqBWz) | [Sam is Ohm](https://open.spotify.com/artist/3OFWImEAUL4Mqc0yH2A0Rg), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl), [Sagiri Sól](https://open.spotify.com/artist/7lMbNnC8YEcy8zZDekmhcb) | [Hearth](https://open.spotify.com/album/6cfjtQW2AhPur9ZZAVuTJx) | 3:26 | 2023-05-09 |  |
 | [Heat](https://open.spotify.com/track/0W9ZNXpTcdYrRFddGttATh) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [Heat](https://open.spotify.com/album/6YnhFXZM5tJcBCY7BehT8L) | 4:23 | 2023-02-21 | 2023-03-22 |
@@ -258,7 +259,8 @@
 | [Pale Rain](https://open.spotify.com/track/6YYC9PEH4T4rLTo5EcHgyF) | [imase with PUNPEE & Toby Fox](https://open.spotify.com/artist/0yiiGLiANIkpsBL3gvtqcC), [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6), [Toby Fox](https://open.spotify.com/artist/57DlMWmbVIf2ssJ8QBpBau) | [Pale Rain](https://open.spotify.com/album/1LtevBef4ZzFe4wYMpRHBm) | 3:41 | 2022-11-29 | 2022-12-02 |
 | [PARA PARA](https://open.spotify.com/track/29PEVvBaguhVOMMLkIVjDN) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [PARA PARA](https://open.spotify.com/album/3aCunvSQeBwKpfsAUTst6A) | 2:50 | 2023-06-13 | 2023-07-07 |
 | [Paradise \(feat\. Kan Sano\)](https://open.spotify.com/track/1rYIL0KBb2u19Vmnlcje4x) | [Pyramid](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy), [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [Paradise \(feat\. Kan Sano\)](https://open.spotify.com/album/6isB4u1HezmW9K8dMxr4Sw) | 4:31 | 2022-10-20 | 2022-12-07 |
-| [Paris feat\. YELLOW黃宣](https://open.spotify.com/track/7wMrtVG3PZEdJ5RGxGrCGz) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [YELLOW黃宣](https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM) | [Paris feat\. YELLOW黃宣](https://open.spotify.com/album/7dhqMV1UZ2D91FYikzFAwA) | 2:51 | 2023-07-18 |  |
+| [Paris feat\. YELLOW Huang Hsuan](https://open.spotify.com/track/6zBZytsj3jzGJa8SFlyfKZ) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [YELLOW黃宣](https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM) | [Paris feat\. YELLOW Huang Hsuan](https://open.spotify.com/album/4ADi6WTvZ4aXxwTNVjPpxj) | 2:51 | 2023-07-18 |  |
+| [Paris feat\. YELLOW黃宣](https://open.spotify.com/track/7wMrtVG3PZEdJ5RGxGrCGz) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [YELLOW黃宣](https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM) | [Paris feat\. YELLOW黃宣](https://open.spotify.com/album/7dhqMV1UZ2D91FYikzFAwA) | 2:51 | 2023-07-18 | 2023-07-20 |
 | [Passione](https://open.spotify.com/track/5kv3DjlfH5GLQAKHOsS7zv) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [Passione](https://open.spotify.com/album/1Lwc4869UaEXBv52G5yuUF) | 3:52 | 2023-06-01 |  |
 | [Pearls](https://open.spotify.com/track/6PUo33nojdU5hWhMR0zRuf) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Pearls](https://open.spotify.com/album/0hYPHftx8NuPLay4HGNnbX) | 4:03 | 2023-02-09 | 2023-05-26 |
 | [Pictures of You](https://open.spotify.com/track/04Ol1Crx7wXvJUR5d72SlG) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Pictures of You](https://open.spotify.com/album/4VykpJKWx1lQ0b4r9cRCTP) | 3:09 | 2022-10-25 | 2022-11-01 |

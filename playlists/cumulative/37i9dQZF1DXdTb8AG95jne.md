@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Ahn Heesu\(안희수\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-588 songs - 1 day 12 hr 1 min
+589 songs - 1 day 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,7 +214,7 @@
 | [How Can I \(feat\. Zoe Carovano\)](https://open.spotify.com/track/3L8NV1XmWMUdlSAttlJ5h5) | [Sentimental Scenery](https://open.spotify.com/artist/3tAtWjLnNyZqmvfLx2dDJ7), [Zoe Carovano](https://open.spotify.com/artist/58OjLCC4IqZGQBgN91m7DC) | [How Can I](https://open.spotify.com/album/4zxQtH7O7YqeBKh0ti0F22) | 3:23 | 2022-03-31 | 2022-04-11 |
 | [HOWL](https://open.spotify.com/track/10WHVzgIky5w6pIgG8tePU) | [Luli Lee](https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK) | [HOWL](https://open.spotify.com/album/5BzJygUNWvRFzkUBI460Ob) | 3:32 | 2022-03-31 | 2022-04-11 |
 | [Hug](https://open.spotify.com/track/1yzPbQYfMcuJMlpWi8npDQ) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅡ Pum](https://open.spotify.com/album/1wnPosDt7DsSYDDLQ2XBdh) | 3:06 | 2022-04-12 | 2022-04-18 |
-| [Hug](https://open.spotify.com/track/5IjEA99ADS6ERSh8Ck1OLq) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅡ Pum](https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp) | 3:06 | 2022-09-20 |  |
+| [Hug](https://open.spotify.com/track/5IjEA99ADS6ERSh8Ck1OLq) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅡ Pum](https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp) | 3:06 | 2022-09-20 | 2023-07-20 |
 | [Hug me tight](https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Hug me tight](https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF) | 3:47 | 2022-05-11 | 2022-07-27 |
 | [Hwi Hwi](https://open.spotify.com/track/1vx1TTe2ZZEkcGDXxpZrD1) | [HAYAN](https://open.spotify.com/artist/4qAzYmM90kRO5IX9MUhQjf) | [Hwi Hwi](https://open.spotify.com/album/2rPbOfaFDrb6WwzvLS98i6) | 3:10 | 2022-03-31 | 2022-04-16 |
 | [i](https://open.spotify.com/track/4h9jlv3tO0gm0i1mQ7o6hZ) | [Lee Aram](https://open.spotify.com/artist/3j0Q7sspsBVQm6SdlkqYp1) | [i](https://open.spotify.com/album/4bXJUWoEn4L5fk0hwE0BPD) | 2:40 | 2022-05-02 | 2022-07-29 |
@@ -351,6 +351,7 @@
 | [Night within you 어쩌면 이유가 필요한 밤](https://open.spotify.com/track/0XytXTd3EGup2Fqng4nxau) | [Krr](https://open.spotify.com/artist/2wCEpu2tMAildqH0BrJNT7) | [Night within you 어쩌면 이유가 필요한 밤](https://open.spotify.com/album/2RRB01nIint1XGgYhFVulM) | 4:14 | 2022-03-31 | 2022-04-18 |
 | [No Destination](https://open.spotify.com/track/62Mtv128QRn9peL7FQHoX8) | [9001](https://open.spotify.com/artist/0ucJPeq0vaU8dbHu0Tie6E) | [No Destination](https://open.spotify.com/album/6rGF5RhdjEzI9XXKaIZYqh) | 2:43 | 2022-05-11 | 2022-07-05 |
 | [No One Told Me Why](https://open.spotify.com/track/4p2F176QbCzx8tyxwGmpym) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [1](https://open.spotify.com/album/2uv3GEXDIyG4LQXdpjaeby) | 3:43 | 2021-12-12 | 2022-07-29 |
+| [No One Told Me Why](https://open.spotify.com/track/5toMPAVWtyrI1R6THYKhiE) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [1](https://open.spotify.com/album/1uBSQRIdCFLgfaipqfVXp2) | 3:43 | 2023-07-17 |  |
 | [No One Told Me Why](https://open.spotify.com/track/1z9iPDRjp1fZUoisaJiTcA) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [1](https://open.spotify.com/album/4IBGLlaW7yGfCRCrHj03Vx) | 3:43 | 2022-07-27 | 2023-07-03 |
 | [No Reason](https://open.spotify.com/track/2bFKSblSou0f9BnGsO1lSA) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [No Reason](https://open.spotify.com/album/0s2AqRLQOx2w57ZX4CfFWk) | 2:49 | 2022-03-31 | 2022-06-21 |
 | [Nobody \(With Mac curly\)](https://open.spotify.com/track/0mCOeuPYwQbEjReOmQhDhX) | [Vincent Park](https://open.spotify.com/artist/101RqEN906HsLFMCf1AOW7) | [PREVIEW \- Vincent Park](https://open.spotify.com/album/5SZJbfMzxp0QTJBhBm2eR0) | 3:07 | 2021-12-21 | 2022-06-02 |

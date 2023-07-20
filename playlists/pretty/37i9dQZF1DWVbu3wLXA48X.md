@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: grentperez
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,262 likes - 85 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,290 likes - 85 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 84 | [Tumbling Dice](https://open.spotify.com/track/7dkc32UFeMWMIhqpFvBS7H) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Tumbling Dice](https://open.spotify.com/album/5dqQWHakmh0qSdxpML9gbO) | 2:55 |
 | 85 | [Can I Talk My Shit?](https://open.spotify.com/track/52qozr06OygMerkZTWPQzL) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Can I Talk My Shit?](https://open.spotify.com/album/0KeGhMBEcPkKZZdwUtyMFU) | 3:25 |
 
-Snapshot ID: `MCxkZDcwMmQyNjMwMDNlNTBiZTgxM2ZiMmExN2UyNzRjMGVlMWY3ZWI4`
+Snapshot ID: `MCxkNWZhNzUyZTI1ZmJkZTNkNjY5Zjg3ZDJmM2NkOWJlMjc5NDI4ZTUx`

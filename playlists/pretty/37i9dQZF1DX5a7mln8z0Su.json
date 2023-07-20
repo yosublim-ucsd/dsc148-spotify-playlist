@@ -1,12 +1,12 @@
 {
   "description": "\ubb34\uc5b8\uac00 \uc774\uc0c1\ud55c \ub9c8\uc74c \uc18d \uc77c\ub801\uc784\uc744 \ub178\ub798\ub85c \ub290\uaef4\ubcf4\uc138\uc694.",
-  "num_followers": 5932,
+  "num_followers": 5934,
   "original_name": "\uad1c\ud788 \uc13c\uce58\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTIyNTAxMDc4MTcyMDhmNjA0OTA0N2VjN2E5NTEwMDQzOGU0ZGZl",
+  "snapshot_id": "MCwxNTI3ZTg4YWFkYTExODFiOWExZDRmN2JkNGM5ZjAwYjFmZTYxYzg2",
   "tracks": [
     {
       "added_at": "2023-07-17 06:16:03",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-07-17 06:16:03",
       "album": {
-        "name": "Write & Draw",
-        "url": "https://open.spotify.com/album/2uILChMZjGZ897DGnXeywE"
-      },
-      "artists": [
-        {
-          "name": "Kim Boa",
-          "url": "https://open.spotify.com/artist/6NJTdlLzuPZJg22hL0ku1p"
-        }
-      ],
-      "duration_ms": 232374,
-      "name": "Write & Draw",
-      "url": "https://open.spotify.com/track/2sV8dt5EihIImDnWrZYc34"
-    },
-    {
-      "added_at": "2023-07-17 06:16:03",
-      "album": {
         "name": "3 STEPS FORWARD, 2 STEPS BACK",
         "url": "https://open.spotify.com/album/7HqCUYofGfBGthmpxigQVY"
       },
@@ -643,6 +627,22 @@
     {
       "added_at": "2023-07-17 06:16:03",
       "album": {
+        "name": "Je N\u2032aime Que Toi",
+        "url": "https://open.spotify.com/album/7uVRKea8NWn4gkMSEyQjcX"
+      },
+      "artists": [
+        {
+          "name": "oftn",
+          "url": "https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf"
+        }
+      ],
+      "duration_ms": 196666,
+      "name": "Je N\u2032aime Que Toi",
+      "url": "https://open.spotify.com/track/5ziZpT9la4h3sjfvitLc1A"
+    },
+    {
+      "added_at": "2023-07-17 06:16:03",
+      "album": {
         "name": "#mood",
         "url": "https://open.spotify.com/album/5d5K0Jmy6346yBH2WGBatk"
       },
@@ -659,18 +659,18 @@
     {
       "added_at": "2023-07-17 06:16:03",
       "album": {
-        "name": "Je N\u2032aime Que Toi",
-        "url": "https://open.spotify.com/album/7uVRKea8NWn4gkMSEyQjcX"
+        "name": "Write & Draw",
+        "url": "https://open.spotify.com/album/2uILChMZjGZ897DGnXeywE"
       },
       "artists": [
         {
-          "name": "oftn",
-          "url": "https://open.spotify.com/artist/2uVkd9g6fvjvPnCQ6zkrhf"
+          "name": "Kim Boa",
+          "url": "https://open.spotify.com/artist/6NJTdlLzuPZJg22hL0ku1p"
         }
       ],
-      "duration_ms": 196666,
-      "name": "Je N\u2032aime Que Toi",
-      "url": "https://open.spotify.com/track/5ziZpT9la4h3sjfvitLc1A"
+      "duration_ms": 232374,
+      "name": "Write & Draw",
+      "url": "https://open.spotify.com/track/2sV8dt5EihIImDnWrZYc34"
     },
     {
       "added_at": "2023-07-17 06:16:03",
@@ -723,22 +723,6 @@
     {
       "added_at": "2023-07-17 06:16:03",
       "album": {
-        "name": "Space science",
-        "url": "https://open.spotify.com/album/4NcJaCZiWEYMJZRLAM3JHM"
-      },
-      "artists": [
-        {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
-        }
-      ],
-      "duration_ms": 233170,
-      "name": "Space science",
-      "url": "https://open.spotify.com/track/3RbCeYBZsEoMJX9ePu3vtd"
-    },
-    {
-      "added_at": "2023-07-17 06:16:03",
-      "album": {
         "name": "HOWEVER",
         "url": "https://open.spotify.com/album/6BgXAolghhnPuDIqCsTlmx"
       },
@@ -755,22 +739,34 @@
     {
       "added_at": "2023-07-17 06:16:03",
       "album": {
-        "name": "Like a Diamond",
-        "url": "https://open.spotify.com/album/4ml2faXdqnKJa7ZeeoM1VH"
+        "name": "Space science",
+        "url": "https://open.spotify.com/album/4NcJaCZiWEYMJZRLAM3JHM"
       },
       "artists": [
         {
-          "name": "KangHyeWon",
-          "url": "https://open.spotify.com/artist/7dwHrGGWiw44ny2dJcARu6"
-        },
-        {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
         }
       ],
-      "duration_ms": 196586,
-      "name": "Like a Diamond (With. Stella Jang)",
-      "url": "https://open.spotify.com/track/7l6Apaxjjt4cJgiBJ20kGG"
+      "duration_ms": 233170,
+      "name": "Space science",
+      "url": "https://open.spotify.com/track/3RbCeYBZsEoMJX9ePu3vtd"
+    },
+    {
+      "added_at": "2023-07-17 06:16:03",
+      "album": {
+        "name": "Like A Film : 4 Songs",
+        "url": "https://open.spotify.com/album/0fMEdEjJHaK4IAIZ7xM7pp"
+      },
+      "artists": [
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Smile, Wait For The Flash",
+      "url": "https://open.spotify.com/track/6G9XpQhn2iQhH8JHKMscBp"
     },
     {
       "added_at": "2023-07-17 06:16:03",
@@ -791,18 +787,22 @@
     {
       "added_at": "2023-07-17 06:16:03",
       "album": {
-        "name": "Like A Film : 4 Songs",
-        "url": "https://open.spotify.com/album/0fMEdEjJHaK4IAIZ7xM7pp"
+        "name": "Like a Diamond",
+        "url": "https://open.spotify.com/album/4ml2faXdqnKJa7ZeeoM1VH"
       },
       "artists": [
         {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+          "name": "KangHyeWon",
+          "url": "https://open.spotify.com/artist/7dwHrGGWiw44ny2dJcARu6"
+        },
+        {
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
         }
       ],
-      "duration_ms": 226000,
-      "name": "Smile, Wait For The Flash",
-      "url": "https://open.spotify.com/track/6G9XpQhn2iQhH8JHKMscBp"
+      "duration_ms": 196586,
+      "name": "Like a Diamond (With. Stella Jang)",
+      "url": "https://open.spotify.com/track/7l6Apaxjjt4cJgiBJ20kGG"
     },
     {
       "added_at": "2023-07-17 06:16:03",
@@ -859,18 +859,26 @@
     {
       "added_at": "2023-07-17 06:16:03",
       "album": {
-        "name": "bimil:ier vol.6 \"Cloudy\"",
-        "url": "https://open.spotify.com/album/3EO7FdK1ZK2Pb7TfIZGqhX"
+        "name": "To us (feat. wave to earth & WAVY)",
+        "url": "https://open.spotify.com/album/6XG56vDIbGbimJg3OiZJq3"
       },
       "artists": [
         {
-          "name": "PENOMECO",
-          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+          "name": "APRO",
+          "url": "https://open.spotify.com/artist/779Q9oJXqbVHN4DbtTYa6O"
+        },
+        {
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+        },
+        {
+          "name": "WAVY",
+          "url": "https://open.spotify.com/artist/1OFmtxGqmk075mMtlKWVRV"
         }
       ],
-      "duration_ms": 207293,
-      "name": "Cloudy",
-      "url": "https://open.spotify.com/track/4S3eMpe0adhssyj8N7nWoR"
+      "duration_ms": 254826,
+      "name": "To us (feat. wave to earth & WAVY)",
+      "url": "https://open.spotify.com/track/1EsJBtBizwxkRdnf8w6lZc"
     }
   ],
   "unique_name": "\uad1c\ud788 \uc13c\uce58\ud574",

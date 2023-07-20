@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Noth, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Ronja, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -352,7 +352,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 157762,
       "name": "AiR",
       "url": "https://open.spotify.com/track/5p1WBJ5sFy6pAvslMjh6FE"
@@ -482,7 +482,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 227082,
       "name": "Alle wollen Liebe",
       "url": "https://open.spotify.com/track/0GjDl76nzwVMxbCgsI52Ib"
@@ -584,7 +584,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 308000,
       "name": "Altbau",
       "url": "https://open.spotify.com/track/2bPB5aL4jH4CbSC0gbFSAC"
@@ -1434,6 +1434,28 @@
       "duration_ms": 249190,
       "name": "Bird's Life",
       "url": "https://open.spotify.com/track/3MLnJNgMdhx5chY6OSDEXY"
+    },
+    {
+      "album": {
+        "name": "Bist du verliebt?",
+        "url": "https://open.spotify.com/album/1BsVAEUvrS6xAk1Q5377GY"
+      },
+      "artists": [
+        {
+          "name": "Nosi",
+          "url": "https://open.spotify.com/artist/0mv36XaXX6I1mWH6tLdhIN"
+        },
+        {
+          "name": "Average",
+          "url": "https://open.spotify.com/artist/7aue9NOP9WSoWfLbbd8JGp"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156226,
+      "name": "Bist du verliebt?",
+      "url": "https://open.spotify.com/track/5UTxeElkgEQWC6jMoOU4Nx"
     },
     {
       "album": {
@@ -3150,7 +3172,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 202105,
       "name": "Dehydriert",
       "url": "https://open.spotify.com/track/3yhUlZhAtpZaDCMRAs6o7E"
@@ -3572,7 +3594,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 174616,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/5vk0PqoIwGhTZ4JKtQkxzg"
@@ -5125,6 +5147,28 @@
     },
     {
       "album": {
+        "name": "Give Me",
+        "url": "https://open.spotify.com/album/3ACgjQmdPKnYpYWeF1YdyH"
+      },
+      "artists": [
+        {
+          "name": "RCSE",
+          "url": "https://open.spotify.com/artist/2JfaT4Q3Tf0PasGbUgBuRT"
+        },
+        {
+          "name": "Samon Kawamura",
+          "url": "https://open.spotify.com/artist/4rq4prsgvKLOfOU0MIWycc"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192332,
+      "name": "Give Me",
+      "url": "https://open.spotify.com/track/4GTHQUI8z2EXUJEWLnBPme"
+    },
+    {
+      "album": {
         "name": "The Souloist",
         "url": "https://open.spotify.com/album/0sqrHGOyrnjgkOJd7AAKtN"
       },
@@ -5158,6 +5202,24 @@
       "duration_ms": 209973,
       "name": "Glamour",
       "url": "https://open.spotify.com/track/1S7HIid9Dj8Rl6xcD3O5yj"
+    },
+    {
+      "album": {
+        "name": "Glanz und Schimmer",
+        "url": "https://open.spotify.com/album/73SEy6GWwOtB6ffg4cY09Z"
+      },
+      "artists": [
+        {
+          "name": "Absteige",
+          "url": "https://open.spotify.com/artist/4rHMr7f5ejRK5PMhkH9n4L"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201951,
+      "name": "Glanz und Schimmer",
+      "url": "https://open.spotify.com/track/3jyay81l2lnGWBPUsaNr9C"
     },
     {
       "album": {
@@ -5628,6 +5690,28 @@
       "duration_ms": 240821,
       "name": "Half Hearted Lover",
       "url": "https://open.spotify.com/track/6jRJ4tj8PjGTrYwJtTvGCb"
+    },
+    {
+      "album": {
+        "name": "Half True",
+        "url": "https://open.spotify.com/album/637eTCDhSTbIyer5f1kgGR"
+      },
+      "artists": [
+        {
+          "name": "AIKON",
+          "url": "https://open.spotify.com/artist/7Aq2oT2xuzRxIqdiqjRESp"
+        },
+        {
+          "name": "Sobek",
+          "url": "https://open.spotify.com/artist/7id8eArvVd4finwH5fR2pL"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 434075,
+      "name": "Half True",
+      "url": "https://open.spotify.com/track/6gohiO1ONW1423soQhJJ55"
     },
     {
       "album": {
@@ -6896,7 +6980,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 153333,
       "name": "Introverted Extrovert",
       "url": "https://open.spotify.com/track/1VP5t5w2dkHqnBJkQMHaUR"
@@ -7798,7 +7882,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 140259,
       "name": "Licht",
       "url": "https://open.spotify.com/track/58z9x356iEUiX0huSmQ4ru"
@@ -8573,6 +8657,42 @@
     },
     {
       "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/7ojk9j5ljNkNk13FrzJtlD"
+      },
+      "artists": [
+        {
+          "name": "BAGAGE",
+          "url": "https://open.spotify.com/artist/2dJyAYCRkeCpa8H3sV3mh6"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152216,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/1DSv4BWoifizJcHYeYreR3"
+    },
+    {
+      "album": {
+        "name": "Monster on a Screen",
+        "url": "https://open.spotify.com/album/410tBRM2LeoM3W9anbxjWY"
+      },
+      "artists": [
+        {
+          "name": "Veigh Malow",
+          "url": "https://open.spotify.com/artist/3wHRJEtJVhuTWFIFZxgZ8G"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Monster on a Screen",
+      "url": "https://open.spotify.com/track/0LtWvhu3hN8iZ0jVRVqp7U"
+    },
+    {
+      "album": {
         "name": "Monsters",
         "url": "https://open.spotify.com/album/3DH7wdecxZlxvnthIN8MhU"
       },
@@ -9068,7 +9188,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 129724,
       "name": "NIE VERGESSEN",
       "url": "https://open.spotify.com/track/3PTERzpaTgiPr3oZF0f6lH"
@@ -9450,7 +9570,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 299213,
       "name": "Ode To T",
       "url": "https://open.spotify.com/track/21hzJoieDGFJtnelfEvWNF"
@@ -11044,7 +11164,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 175470,
       "name": "Save My Soul",
       "url": "https://open.spotify.com/track/4GEQaWchQApNxs9w2ecROe"
@@ -11650,6 +11770,24 @@
       "duration_ms": 177980,
       "name": "Solid Ground",
       "url": "https://open.spotify.com/track/3ZVMe1SodbwNnUp5GgxWvL"
+    },
+    {
+      "album": {
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/4eimjmsHiwS3nvAWj8hukq"
+      },
+      "artists": [
+        {
+          "name": "Almost Falling",
+          "url": "https://open.spotify.com/artist/7siR2cbExdWBx4fe6SAKb3"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175350,
+      "name": "Solitary Soldier",
+      "url": "https://open.spotify.com/track/2wilSU7OOKlpOQTsyHwZkn"
     },
     {
       "album": {
@@ -12473,6 +12611,24 @@
     },
     {
       "album": {
+        "name": "Tempelhof",
+        "url": "https://open.spotify.com/album/2rvobaAp5tVDQEi63ukyEE"
+      },
+      "artists": [
+        {
+          "name": "Ronja",
+          "url": "https://open.spotify.com/artist/7dl7jnssJ6pvKbrMpHw4KX"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173750,
+      "name": "Tempelhof",
+      "url": "https://open.spotify.com/track/2uVRcTm8tjQntOYcyr60J1"
+    },
+    {
+      "album": {
         "name": "Temptation",
         "url": "https://open.spotify.com/album/5nRhkyBupbJVorHbAzrcwV"
       },
@@ -13072,6 +13228,28 @@
       "duration_ms": 129160,
       "name": "Traffic Lights",
       "url": "https://open.spotify.com/track/3gqkIIyHeAwkP6eRMHdzhB"
+    },
+    {
+      "album": {
+        "name": "Trag Mich",
+        "url": "https://open.spotify.com/album/7r3gpLXB0CDIBVfn44P5UG"
+      },
+      "artists": [
+        {
+          "name": "MARA",
+          "url": "https://open.spotify.com/artist/67zxtspF6QzJlc2a99yKwB"
+        },
+        {
+          "name": "VELA",
+          "url": "https://open.spotify.com/artist/4UQF8SErsJMBFjJedVPLOw"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142052,
+      "name": "Trag Mich",
+      "url": "https://open.spotify.com/track/75bsJHvS8Rkz9RUty1Pf1F"
     },
     {
       "album": {
@@ -13710,7 +13888,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 204422,
       "name": "Von uns beiden",
       "url": "https://open.spotify.com/track/0oXo7COL6mO87GWR4aYNH6"
@@ -14489,6 +14667,24 @@
     },
     {
       "album": {
+        "name": "Wrong With It",
+        "url": "https://open.spotify.com/album/1JDHCXjrCfge13QEWmW720"
+      },
+      "artists": [
+        {
+          "name": "Kirmont",
+          "url": "https://open.spotify.com/artist/0ksAJkCLiR6U4wVFTAnUqn"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206894,
+      "name": "Wrong With It",
+      "url": "https://open.spotify.com/track/6OgIq8VLvlv9lJlu8eK8ug"
+    },
+    {
+      "album": {
         "name": "Xari",
         "url": "https://open.spotify.com/album/5os47ea7Ti24JiWWKx2f3x"
       },
@@ -14508,6 +14704,28 @@
       "duration_ms": 155294,
       "name": "Xari",
       "url": "https://open.spotify.com/track/5qaqvD5nZtGxtny6qOVIbz"
+    },
+    {
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/5lQQjXJ2sI9xZ5wVTVJtcJ"
+      },
+      "artists": [
+        {
+          "name": "Dentso",
+          "url": "https://open.spotify.com/artist/1tpCvTXdigEZWAl29gB5NX"
+        },
+        {
+          "name": "Dejago",
+          "url": "https://open.spotify.com/artist/2oQ8lsOgSIOntumJByTq7C"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302769,
+      "name": "You",
+      "url": "https://open.spotify.com/track/5GxGbqzO7k4PDwrA67uzEn"
     },
     {
       "album": {

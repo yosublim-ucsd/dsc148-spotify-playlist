@@ -348,7 +348,7 @@
       ],
       "date_added": "2020-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-07",
+      "date_removed": null,
       "duration_ms": 371944,
       "name": "Bertha (Live at the Capitol Theatre, Port Chester, NY 2/21/1971) - 2020 Remaster",
       "url": "https://open.spotify.com/track/60WbFKEF7bdhp1xtShZTcw"
@@ -989,6 +989,24 @@
     },
     {
       "album": {
+        "name": "Rocksession",
+        "url": "https://open.spotify.com/album/6IkSIELZhtmZKlnjwKTe91"
+      },
+      "artists": [
+        {
+          "name": "Embryo",
+          "url": "https://open.spotify.com/artist/71TXox3zeu8QPFAiv07Qf4"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 938613,
+      "name": "Entrances",
+      "url": "https://open.spotify.com/track/2ZS6MW6nzYbEgNh1Fi8JcK"
+    },
+    {
+      "album": {
         "name": "Wake of the Flood (2013 Remaster)",
         "url": "https://open.spotify.com/album/4wIEQMHtdye4aeSc2FYxI0"
       },
@@ -1330,7 +1348,7 @@
       ],
       "date_added": "2020-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-07",
+      "date_removed": null,
       "duration_ms": 768960,
       "name": "Harry Hood - Live at Hampton, 1998",
       "url": "https://open.spotify.com/track/3VSM3xBPjrTmeGFYG0Z2HA"
@@ -1402,7 +1420,7 @@
       ],
       "date_added": "2020-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 1019624,
       "name": "Hot Tea (8.10.19)",
       "url": "https://open.spotify.com/track/4lHsm2VyLBaw5RD8Hp6plw"
@@ -1660,7 +1678,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-04",
+      "date_removed": null,
       "duration_ms": 683773,
       "name": "In the Kitchen (Live)",
       "url": "https://open.spotify.com/track/0Bck8YlFXXNjqmEBHZzh4E"
@@ -1971,6 +1989,24 @@
     },
     {
       "album": {
+        "name": "Slip Stitch and Pass",
+        "url": "https://open.spotify.com/album/0XqQw46LxaITxNsIhZLYip"
+      },
+      "artists": [
+        {
+          "name": "Phish",
+          "url": "https://open.spotify.com/artist/5wbIWUzTPuTxTyG6ouQKqz"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 832533,
+      "name": "Mike's Song",
+      "url": "https://open.spotify.com/track/0zrLDKj4gTsE24T0vz1fCl"
+    },
+    {
+      "album": {
         "name": "tin cans & car tires",
         "url": "https://open.spotify.com/album/2GGOZsFF9dwK5LJ2kIdkl7"
       },
@@ -2252,7 +2288,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-16",
+      "date_removed": null,
       "duration_ms": 399345,
       "name": "Picture of a Man (Live From An Evening With Dawes)",
       "url": "https://open.spotify.com/track/79LdwSTuhVpBAL4vwiy3In"
@@ -2400,7 +2436,7 @@
       ],
       "date_added": "2020-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-07",
+      "date_removed": null,
       "duration_ms": 267186,
       "name": "Ripple - Live",
       "url": "https://open.spotify.com/track/31Ch2wIS1T0ZTZf13XFvfs"
@@ -2743,6 +2779,24 @@
     },
     {
       "album": {
+        "name": "Welsh Connection",
+        "url": "https://open.spotify.com/album/6IzAcGtChAHXlODbw1lFNC"
+      },
+      "artists": [
+        {
+          "name": "Man",
+          "url": "https://open.spotify.com/artist/6XNNAZyTxhw3IRa0xyRBeo"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 376786,
+      "name": "Something Is Happening",
+      "url": "https://open.spotify.com/track/64jiQxEndYnV0Zs1a5S9zn"
+    },
+    {
+      "album": {
         "name": "Sacred Fire: Santana Live In South America",
         "url": "https://open.spotify.com/album/4hGCMXt4KeynuQlGPmhZc0"
       },
@@ -2892,7 +2946,7 @@
       ],
       "date_added": "2020-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-30",
+      "date_removed": null,
       "duration_ms": 258482,
       "name": "Statesboro Blues - Live at Fillmore West, San Francisco, CA 1/30/71",
       "url": "https://open.spotify.com/track/5FkHxsvK4jSlElTMQVbte5"
@@ -3080,6 +3134,24 @@
       "duration_ms": 196880,
       "name": "That Girl Is You",
       "url": "https://open.spotify.com/track/3W1FUFK0mLvXDYRT0YGaiT"
+    },
+    {
+      "album": {
+        "name": "Anthem of the Sun",
+        "url": "https://open.spotify.com/album/4ZaIo647CyWAgow8oxqajh"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460133,
+      "name": "That's It for the Other One (Parts I-IV)",
+      "url": "https://open.spotify.com/track/7fKqC6dSmgdyuNY1NoJmvn"
     },
     {
       "album": {
@@ -3478,10 +3550,28 @@
       ],
       "date_added": "2020-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-07",
+      "date_removed": null,
       "duration_ms": 554304,
       "name": "Truckin' (Live at the Capitol Theatre, Port Chester, NY, 2/18/71)",
       "url": "https://open.spotify.com/track/5cc8TvVgYMX4YXfoEUFOi1"
+    },
+    {
+      "album": {
+        "name": "Live / Dead",
+        "url": "https://open.spotify.com/album/6E7JCQINTT4vwRF4wBcsYk"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 905133,
+      "name": "Turn on Your Love Light - Live at San Francisco; 2001 Remaster",
+      "url": "https://open.spotify.com/track/4XO4pQpx4lpKgbWMgbsQRK"
     },
     {
       "album": {
@@ -3734,6 +3824,24 @@
       "duration_ms": 243160,
       "name": "When It Rains It Poors",
       "url": "https://open.spotify.com/track/5JQuP833AF3KdWlES7yopX"
+    },
+    {
+      "album": {
+        "name": "American University 12/13/70 - Washington, DC",
+        "url": "https://open.spotify.com/album/4EF9tHP0XqXKbyUVbwMBNB"
+      },
+      "artists": [
+        {
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
+        }
+      ],
+      "date_added": "2023-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1240040,
+      "name": "Whippin' Post - Live",
+      "url": "https://open.spotify.com/track/6N9kwHuJHfKKEDha56w3TP"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules or boundaries\. The very best new alternative tracks\. Cover: Sueco
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,129,920 likes - 127 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,130,518 likes - 127 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 126 | [Cheerleader](https://open.spotify.com/track/2fxoNGEf4hMPfNKwxL7irU) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Cheerleader](https://open.spotify.com/album/0G7TZnfLKBjCBRksNsiN3P) | 2:27 |
 | 127 | [I Can Do Better Than You](https://open.spotify.com/track/1iXLSF3ubFsM6vQAIvWwvR) | [Little Hurt](https://open.spotify.com/artist/3QN1rAppoKbXhExveckTuO) | [Lovely Hours](https://open.spotify.com/album/6UNyLXllCgkdwuDuudZFYY) | 2:26 |
 
-Snapshot ID: `MCw4OTk4NWQxNzU0Mzk4NTEzMGRhY2E5NGVkNzJiZWZjNWNjZjJhYWE2`
+Snapshot ID: `MCxlNzQ3YjQ3YTllMTI1ZTViYTdmMWFhNzk4ZmQ0YTEzMTRiY2RkMTlj`

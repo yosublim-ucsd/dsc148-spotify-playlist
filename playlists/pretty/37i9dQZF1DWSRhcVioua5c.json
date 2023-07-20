@@ -1,12 +1,12 @@
 {
   "description": "Una selecci\u00f3n de baladas para suspirar de amor.",
-  "num_followers": 63501,
+  "num_followers": 63548,
   "original_name": "Folklore Rom\u00e1ntico ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYWExNmRlMDhlNTZjNmJiZjRhODI2ZDBlZTljY2ZlN2M4NDEzNjg0",
+  "snapshot_id": "MCwyZjAxN2NkMGU1YmEwZTVmYjUwMGJmNDY3YmZhMmNiZTlkYWRiNDQ2",
   "tracks": [
     {
       "added_at": "2023-06-09 03:00:00",
@@ -635,18 +635,22 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Eterno Amor",
-        "url": "https://open.spotify.com/album/12wekh0j8rkjGbzWejlU1X"
+        "name": "Hablan de Ti",
+        "url": "https://open.spotify.com/album/7gpv5WXgXoZlRpVso7o8yz"
       },
       "artists": [
         {
-          "name": "Los Alonsitos",
-          "url": "https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H"
+          "name": "Copla alta",
+          "url": "https://open.spotify.com/artist/60g9S4kJm1m9kbrt89H5CQ"
+        },
+        {
+          "name": "Chacho Ramos",
+          "url": "https://open.spotify.com/artist/7Bl9s8h4F1jcX1aJYHBpfm"
         }
       ],
-      "duration_ms": 236854,
-      "name": "Eterno Amor",
-      "url": "https://open.spotify.com/track/3x4TnooiGvW4itV28CVsV7"
+      "duration_ms": 242684,
+      "name": "Hablan de Ti",
+      "url": "https://open.spotify.com/track/4kXxLcxnzWUbpuRHI3gVH6"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -667,22 +671,18 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Hablan de Ti",
-        "url": "https://open.spotify.com/album/7gpv5WXgXoZlRpVso7o8yz"
+        "name": "Eterno Amor",
+        "url": "https://open.spotify.com/album/12wekh0j8rkjGbzWejlU1X"
       },
       "artists": [
         {
-          "name": "Copla alta",
-          "url": "https://open.spotify.com/artist/60g9S4kJm1m9kbrt89H5CQ"
-        },
-        {
-          "name": "Chacho Ramos",
-          "url": "https://open.spotify.com/artist/7Bl9s8h4F1jcX1aJYHBpfm"
+          "name": "Los Alonsitos",
+          "url": "https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H"
         }
       ],
-      "duration_ms": 242684,
-      "name": "Hablan de Ti",
-      "url": "https://open.spotify.com/track/4kXxLcxnzWUbpuRHI3gVH6"
+      "duration_ms": 236854,
+      "name": "Eterno Amor",
+      "url": "https://open.spotify.com/track/3x4TnooiGvW4itV28CVsV7"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
+        "name": "No Te Rindas",
+        "url": "https://open.spotify.com/album/6ogjTJpmQxnxaoOvyvajP6"
+      },
+      "artists": [
+        {
+          "name": "Destino San Javier",
+          "url": "https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW"
+        }
+      ],
+      "duration_ms": 219050,
+      "name": "No Te Rindas",
+      "url": "https://open.spotify.com/track/2duWyNfkGp0ve1VXPMjiwf"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
         "name": "Tal Como Siento",
         "url": "https://open.spotify.com/album/4RD7YJolJUp5VbNYGtawfn"
       },
@@ -827,18 +843,18 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "No Te Rindas",
-        "url": "https://open.spotify.com/album/6ogjTJpmQxnxaoOvyvajP6"
+        "name": "Los Del Portezuelo",
+        "url": "https://open.spotify.com/album/1TvdN3dnu3fV6ghx7s5k47"
       },
       "artists": [
         {
-          "name": "Destino San Javier",
-          "url": "https://open.spotify.com/artist/26EVG2B9cd0c1gAfDsA7uW"
+          "name": "Los del Portezuelo",
+          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
         }
       ],
-      "duration_ms": 219050,
-      "name": "No Te Rindas",
-      "url": "https://open.spotify.com/track/2duWyNfkGp0ve1VXPMjiwf"
+      "duration_ms": 203333,
+      "name": "Al So\u00f1arte",
+      "url": "https://open.spotify.com/track/13yPWigbj0YOadjdRJ942u"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -871,22 +887,6 @@
       "duration_ms": 180499,
       "name": "Devu\u00e9lveme el Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2dT7KgU7h8wzK7u6PT7IFA"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
-        "name": "Los Del Portezuelo",
-        "url": "https://open.spotify.com/album/1TvdN3dnu3fV6ghx7s5k47"
-      },
-      "artists": [
-        {
-          "name": "Los del Portezuelo",
-          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
-        }
-      ],
-      "duration_ms": 203333,
-      "name": "Al So\u00f1arte",
-      "url": "https://open.spotify.com/track/13yPWigbj0YOadjdRJ942u"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
+        "name": "Eterno Amor",
+        "url": "https://open.spotify.com/album/1Yxth9gcry4oASkewP9b6y"
+      },
+      "artists": [
+        {
+          "name": "Los del Portezuelo",
+          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
+        }
+      ],
+      "duration_ms": 190608,
+      "name": "Eterno Amor",
+      "url": "https://open.spotify.com/track/7r16iJ5dJcdqFQJeh08GPs"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
         "name": "Ven Por Mi",
         "url": "https://open.spotify.com/album/5iJ01M2dW7JSiUteLvn2D8"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 192266,
       "name": "Zambita pa' Enamorar",
       "url": "https://open.spotify.com/track/6TVKi26ExwcSdv7NhAi8Iq"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
-        "name": "Eterno Amor",
-        "url": "https://open.spotify.com/album/1Yxth9gcry4oASkewP9b6y"
-      },
-      "artists": [
-        {
-          "name": "Los del Portezuelo",
-          "url": "https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc"
-        }
-      ],
-      "duration_ms": 190608,
-      "name": "Eterno Amor",
-      "url": "https://open.spotify.com/track/7r16iJ5dJcdqFQJeh08GPs"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Origen",
-        "url": "https://open.spotify.com/album/2fRkKUdqsuAibqPjvxUBoK"
-      },
-      "artists": [
-        {
-          "name": "Los Alonsitos",
-          "url": "https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H"
-        }
-      ],
-      "duration_ms": 227082,
-      "name": "No Quisiera Quererte",
-      "url": "https://open.spotify.com/track/0HTIPqLDGZn7EPcyzBsulh"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "La Flor",
         "url": "https://open.spotify.com/album/77BmF14sQo1mHv4Xw4g6lv"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 190113,
       "name": "La Flor",
       "url": "https://open.spotify.com/track/5AvuHRAVgEIXCo85GRPZRx"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Origen",
+        "url": "https://open.spotify.com/album/2fRkKUdqsuAibqPjvxUBoK"
+      },
+      "artists": [
+        {
+          "name": "Los Alonsitos",
+          "url": "https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H"
+        }
+      ],
+      "duration_ms": 227082,
+      "name": "No Quisiera Quererte",
+      "url": "https://open.spotify.com/track/0HTIPqLDGZn7EPcyzBsulh"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Adi\u00f3s Amor M\u00edo",
-        "url": "https://open.spotify.com/album/7MUVVd533LyBquB8NNvvFt"
-      },
-      "artists": [
-        {
-          "name": "El Indio Lucio Rojas",
-          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
-        }
-      ],
-      "duration_ms": 149680,
-      "name": "Adi\u00f3s Amor M\u00edo",
-      "url": "https://open.spotify.com/track/60wdHeWRvtAJJkY8RzG7FQ"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "La \u00daltima Estrella",
         "url": "https://open.spotify.com/album/3ZRhNcfRj7QzjK9iDNPQDc"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 228388,
       "name": "No Me Quiero Olvidar",
       "url": "https://open.spotify.com/track/0pwdW67It2KSrOIRVqFLiQ"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Adi\u00f3s Amor M\u00edo",
+        "url": "https://open.spotify.com/album/7MUVVd533LyBquB8NNvvFt"
+      },
+      "artists": [
+        {
+          "name": "El Indio Lucio Rojas",
+          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
+        }
+      ],
+      "duration_ms": 149680,
+      "name": "Adi\u00f3s Amor M\u00edo",
+      "url": "https://open.spotify.com/track/60wdHeWRvtAJJkY8RzG7FQ"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1275,42 +1275,6 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Cerca del Sol",
-        "url": "https://open.spotify.com/album/08hGxQlLEPXYR3YUzrfvs5"
-      },
-      "artists": [
-        {
-          "name": "La Macha",
-          "url": "https://open.spotify.com/artist/65HBEmIhkJCkdAc2X9nrnc"
-        },
-        {
-          "name": "Los Nocheros",
-          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
-        }
-      ],
-      "duration_ms": 217020,
-      "name": "Cerca del Sol",
-      "url": "https://open.spotify.com/track/4KEm7GdjGYMpGdDrrwr5K2"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
-        "name": "Ella",
-        "url": "https://open.spotify.com/album/7D0Sn2AwvCRNM39eR8fu8J"
-      },
-      "artists": [
-        {
-          "name": "Canto Del Alma",
-          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
-        }
-      ],
-      "duration_ms": 185429,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/5tsmFR93fgtwVHxzwCOkpr"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
         "name": "Fe",
         "url": "https://open.spotify.com/album/3ecNmYNuN7GXoCP064taCu"
       },
@@ -1331,54 +1295,38 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Tu Respuesta",
-        "url": "https://open.spotify.com/album/74mQvYUykB3WUuHIq73qto"
+        "name": "Ella",
+        "url": "https://open.spotify.com/album/7D0Sn2AwvCRNM39eR8fu8J"
       },
       "artists": [
         {
-          "name": "Valeria Lopez Vila",
-          "url": "https://open.spotify.com/artist/1wShh3BrIgbCfHT7wsahOA"
+          "name": "Canto Del Alma",
+          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
         }
       ],
-      "duration_ms": 222908,
-      "name": "Tu Respuesta",
-      "url": "https://open.spotify.com/track/1g3uiL5MyoJwo7yHsxFJPA"
+      "duration_ms": 185429,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/5tsmFR93fgtwVHxzwCOkpr"
     },
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/6Pr25N5cC07hZZ2jHTEH1W"
+        "name": "Cerca del Sol",
+        "url": "https://open.spotify.com/album/08hGxQlLEPXYR3YUzrfvs5"
       },
       "artists": [
         {
-          "name": "Qiro",
-          "url": "https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO"
+          "name": "La Macha",
+          "url": "https://open.spotify.com/artist/65HBEmIhkJCkdAc2X9nrnc"
         },
         {
-          "name": "Ruben Ehizaguirre",
-          "url": "https://open.spotify.com/artist/3h6yxWTjzG3r3j7AePqz5Z"
+          "name": "Los Nocheros",
+          "url": "https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO"
         }
       ],
-      "duration_ms": 237957,
-      "name": "Vivo",
-      "url": "https://open.spotify.com/track/0Nvnd56uJQpOB104qIEcOM"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
-        "name": "Repechando la Senda",
-        "url": "https://open.spotify.com/album/4dqOO5Y53y5l2Xqgh51buW"
-      },
-      "artists": [
-        {
-          "name": "Los Puesteros",
-          "url": "https://open.spotify.com/artist/0wTashas0gzU0N4bKe7xxY"
-        }
-      ],
-      "duration_ms": 233561,
-      "name": "Nunca Olvides",
-      "url": "https://open.spotify.com/track/7uh4weyCU6SNgcNT4yyphY"
+      "duration_ms": 217020,
+      "name": "Cerca del Sol",
+      "url": "https://open.spotify.com/track/4KEm7GdjGYMpGdDrrwr5K2"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1399,6 +1347,38 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
+        "name": "Tu Respuesta",
+        "url": "https://open.spotify.com/album/74mQvYUykB3WUuHIq73qto"
+      },
+      "artists": [
+        {
+          "name": "Valeria Lopez Vila",
+          "url": "https://open.spotify.com/artist/1wShh3BrIgbCfHT7wsahOA"
+        }
+      ],
+      "duration_ms": 222908,
+      "name": "Tu Respuesta",
+      "url": "https://open.spotify.com/track/1g3uiL5MyoJwo7yHsxFJPA"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Repechando la Senda",
+        "url": "https://open.spotify.com/album/4dqOO5Y53y5l2Xqgh51buW"
+      },
+      "artists": [
+        {
+          "name": "Los Puesteros",
+          "url": "https://open.spotify.com/artist/0wTashas0gzU0N4bKe7xxY"
+        }
+      ],
+      "duration_ms": 233561,
+      "name": "Nunca Olvides",
+      "url": "https://open.spotify.com/track/7uh4weyCU6SNgcNT4yyphY"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
         "name": "Somos",
         "url": "https://open.spotify.com/album/4LTyGdxfClwg3KKJjBAqV3"
       },
@@ -1411,6 +1391,26 @@
       "duration_ms": 179800,
       "name": "Para Que Nunca Me Dejes",
       "url": "https://open.spotify.com/track/3h6h3alpLmhiI9U7DdODhp"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/6Pr25N5cC07hZZ2jHTEH1W"
+      },
+      "artists": [
+        {
+          "name": "Qiro",
+          "url": "https://open.spotify.com/artist/5IkUS6AF0FAuaEEVf84tAO"
+        },
+        {
+          "name": "Ruben Ehizaguirre",
+          "url": "https://open.spotify.com/artist/3h6yxWTjzG3r3j7AePqz5Z"
+        }
+      ],
+      "duration_ms": 237957,
+      "name": "Vivo",
+      "url": "https://open.spotify.com/track/0Nvnd56uJQpOB104qIEcOM"
     },
     {
       "added_at": "2023-06-09 03:00:00",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2023-06-09 03:00:00",
       "album": {
+        "name": "Bien o Mal",
+        "url": "https://open.spotify.com/album/3pyZz7IvHm4XMs7kNB5uYg"
+      },
+      "artists": [
+        {
+          "name": "El Indio Lucio Rojas",
+          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
+        }
+      ],
+      "duration_ms": 210818,
+      "name": "Bien o Mal",
+      "url": "https://open.spotify.com/track/0NmboziyhMxu5cJs0lQzgF"
+    },
+    {
+      "added_at": "2023-06-09 03:00:00",
+      "album": {
         "name": "Ansiado Encuentro",
         "url": "https://open.spotify.com/album/3Z3dyIUxHZfTlBarrWrHLR"
       },
@@ -1483,22 +1499,6 @@
       "duration_ms": 275563,
       "name": "Ansiado Encuentro",
       "url": "https://open.spotify.com/track/4bgaEcs1bsLuV49Q67DtRT"
-    },
-    {
-      "added_at": "2023-06-09 03:00:00",
-      "album": {
-        "name": "Bien o Mal",
-        "url": "https://open.spotify.com/album/3pyZz7IvHm4XMs7kNB5uYg"
-      },
-      "artists": [
-        {
-          "name": "El Indio Lucio Rojas",
-          "url": "https://open.spotify.com/artist/06qV3sqzafoEDLWWPOmHO3"
-        }
-      ],
-      "duration_ms": 210818,
-      "name": "Bien o Mal",
-      "url": "https://open.spotify.com/track/0NmboziyhMxu5cJs0lQzgF"
     },
     {
       "added_at": "2023-06-09 03:00:00",

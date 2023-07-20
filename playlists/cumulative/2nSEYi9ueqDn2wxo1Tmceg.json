@@ -247,6 +247,24 @@
     },
     {
       "album": {
+        "name": "Afternoon X",
+        "url": "https://open.spotify.com/album/0mU2UVjksTe5V9FBZcwTli"
+      },
+      "artists": [
+        {
+          "name": "Vanishing Twin",
+          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246466,
+      "name": "Afternoon X",
+      "url": "https://open.spotify.com/track/3xkwQ8TkQGHnB8EXIUth8G"
+    },
+    {
+      "album": {
         "name": "Agreeing For Two",
         "url": "https://open.spotify.com/album/4zL7YyyHC47HFDbLYgDEVB"
       },
@@ -460,7 +478,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 208836,
       "name": "Alright",
       "url": "https://open.spotify.com/track/21kja1h9ayN4AkETnVYHsz"
@@ -850,7 +868,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 383000,
       "name": "Audhumla Thaw",
       "url": "https://open.spotify.com/track/0jqwZXh6rd2bLQa7jRT3xf"
@@ -2436,7 +2454,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 156688,
       "name": "Dedicated to Tar Feather",
       "url": "https://open.spotify.com/track/1R8JYDFCXIL24j94ikm9dF"
@@ -2512,7 +2530,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 185124,
       "name": "Devil\u2019s Den",
       "url": "https://open.spotify.com/track/6QLTumcZQ3dHN8pUj9T9C7"
@@ -3134,7 +3152,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 226146,
       "name": "Evening Star Supercharger",
       "url": "https://open.spotify.com/track/5hoYYJeNbcXHU7olx4GY8s"
@@ -4112,7 +4130,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 233038,
       "name": "gothgirl1",
       "url": "https://open.spotify.com/track/5oie4LMrwBeiIuOJRRP6wK"
@@ -4304,6 +4322,24 @@
       "duration_ms": 266040,
       "name": "Hello Chic",
       "url": "https://open.spotify.com/track/3ryT08hgJsNIRKslnjdgeq"
+    },
+    {
+      "album": {
+        "name": "Off the Tongue",
+        "url": "https://open.spotify.com/album/7DpsVXfVOve5ClaNI0Fqvw"
+      },
+      "artists": [
+        {
+          "name": "Current Affairs",
+          "url": "https://open.spotify.com/artist/3b90N1caVIdfs8yLVJ7eX1"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275235,
+      "name": "Her Own Private Multiverse",
+      "url": "https://open.spotify.com/track/2vv0tPcJND6WCqTePT3gd2"
     },
     {
       "album": {
@@ -5238,7 +5274,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 214634,
       "name": "It's Euphoric - Georgia Remix",
       "url": "https://open.spotify.com/track/5IJ15LSmdUsmWnsRwcsth1"
@@ -5662,6 +5698,24 @@
       "duration_ms": 241946,
       "name": "Lilac Twilight",
       "url": "https://open.spotify.com/track/0qohNUSvGCeBHP4ho0Rzje"
+    },
+    {
+      "album": {
+        "name": "Limbo",
+        "url": "https://open.spotify.com/album/4Dl0aFNmh7JKpsiP321k3c"
+      },
+      "artists": [
+        {
+          "name": "Jessy Lanza",
+          "url": "https://open.spotify.com/artist/4b99uGDv75xD1n2QHuPRDN"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203426,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/0OovXUWpSLxNXzR14HsIii"
     },
     {
       "album": {
@@ -7935,6 +7989,28 @@
     },
     {
       "album": {
+        "name": "My Back Was A Bridge For You To Cross",
+        "url": "https://open.spotify.com/album/4g6x7cqgxfkuqA8lfvIKMf"
+      },
+      "artists": [
+        {
+          "name": "ANOHNI",
+          "url": "https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo"
+        },
+        {
+          "name": "Antony and the Johnsons",
+          "url": "https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322720,
+      "name": "Scapegoat",
+      "url": "https://open.spotify.com/track/72sw9ILibLxskMfroQfdqC"
+    },
+    {
+      "album": {
         "name": "Screaming In The Rain Again",
         "url": "https://open.spotify.com/album/3jpkNQcDMg94XMxtj4Lk3m"
       },
@@ -8428,6 +8504,24 @@
       "duration_ms": 340410,
       "name": "Something Better",
       "url": "https://open.spotify.com/track/68GhBQGD6zcd7voOlJJxAH"
+    },
+    {
+      "album": {
+        "name": "Sometimes Memory Fails Me Sometimes",
+        "url": "https://open.spotify.com/album/6H5Kj4DQ5EVQwlkSz0Twpl"
+      },
+      "artists": [
+        {
+          "name": "Everyone Asked About You",
+          "url": "https://open.spotify.com/artist/64ATDQsFeDvIJokVA2YVke"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284933,
+      "name": "Sometimes Memory Fails Me Sometimes",
+      "url": "https://open.spotify.com/track/1mGSG4Ad05O2MUIdgnSQ8V"
     },
     {
       "album": {

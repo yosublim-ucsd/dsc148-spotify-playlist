@@ -618,7 +618,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 185650,
       "name": "All I'm Seeing",
       "url": "https://open.spotify.com/track/2uGr25CqOjX0F0MgwNh0qp"
@@ -877,6 +877,24 @@
     },
     {
       "album": {
+        "name": "anymore",
+        "url": "https://open.spotify.com/album/2MqtjWSDMmd1f2zQSdVk68"
+      },
+      "artists": [
+        {
+          "name": "OC Saint",
+          "url": "https://open.spotify.com/artist/1W80xMiJWGfGsymfrjCCLa"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278884,
+      "name": "anymore",
+      "url": "https://open.spotify.com/track/3jWx8u8LTC4X0oB9tXGEdk"
+    },
+    {
+      "album": {
         "name": "Apple Juice",
         "url": "https://open.spotify.com/album/6xnJlESwo26qOCBlZbBDdO"
       },
@@ -1036,6 +1054,24 @@
       "duration_ms": 124375,
       "name": "ASTRONAUT",
       "url": "https://open.spotify.com/track/3RGQvTnIUzvSWJAMFy5Hg3"
+    },
+    {
+      "album": {
+        "name": "Athene",
+        "url": "https://open.spotify.com/album/6pqA7APcsNeUqI7Nqj9Vde"
+      },
+      "artists": [
+        {
+          "name": "The Velveteins",
+          "url": "https://open.spotify.com/artist/1jUEqf1F3oW4JGoMfYxCvN"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201746,
+      "name": "Athene",
+      "url": "https://open.spotify.com/track/02pXk68MbRpG26YFRxWzJh"
     },
     {
       "album": {
@@ -2206,7 +2242,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 188016,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/1Y7CkttJcXm6vSUTQbkPSe"
@@ -2224,7 +2260,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 223003,
       "name": "Born Leader",
       "url": "https://open.spotify.com/track/2Be5lCAsXS0cH8MBbPEN3E"
@@ -3348,6 +3384,24 @@
       "duration_ms": 158320,
       "name": "Cinnamon",
       "url": "https://open.spotify.com/track/4WBFBguZw3irFdhWlBemA3"
+    },
+    {
+      "album": {
+        "name": "Circuit City",
+        "url": "https://open.spotify.com/album/1MsPF28KBlG8PrBSiUmcIP"
+      },
+      "artists": [
+        {
+          "name": "Cloudland Canyon",
+          "url": "https://open.spotify.com/artist/6s5ScpNzol9psValU4HLHu"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380679,
+      "name": "Circuit City",
+      "url": "https://open.spotify.com/track/2cMTPO4ed2wpepaMuwkTLz"
     },
     {
       "album": {
@@ -9473,6 +9527,24 @@
     },
     {
       "album": {
+        "name": "Love Sick",
+        "url": "https://open.spotify.com/album/5PjKhLXDH9qKWcAv4Y8GqK"
+      },
+      "artists": [
+        {
+          "name": "Lavalove",
+          "url": "https://open.spotify.com/artist/3rqzavMb2twmjVAqvDyqq9"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187345,
+      "name": "Keep on",
+      "url": "https://open.spotify.com/track/2xmAT9gY7qZJlEStkbwT9j"
+    },
+    {
+      "album": {
         "name": "Keep Up!",
         "url": "https://open.spotify.com/album/4kXXloqfOzhOAxjyBtHZIw"
       },
@@ -10730,7 +10802,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 184863,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/6dc1x7ZqhF3Qy2O5lWEr6R"
@@ -11043,6 +11115,24 @@
     },
     {
       "album": {
+        "name": "Moon Knight",
+        "url": "https://open.spotify.com/album/2gF9fBwCIgUTygJblP78br"
+      },
+      "artists": [
+        {
+          "name": "Holywatr",
+          "url": "https://open.spotify.com/artist/0muUUrVzG2eMabJN2UHtZB"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Moon Knight",
+      "url": "https://open.spotify.com/track/6uX2EzpYn73MgcpCjQC1oe"
+    },
+    {
+      "album": {
         "name": "Morning View",
         "url": "https://open.spotify.com/album/5y6uzBy9o0NYH9aSy46jNX"
       },
@@ -11288,7 +11378,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 226666,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/2F4hcOckgAarYlBj6yG0nE"
@@ -11664,6 +11754,24 @@
       "duration_ms": 167547,
       "name": "Nightmares",
       "url": "https://open.spotify.com/track/0hX16noxRUL7QWQaEap1bg"
+    },
+    {
+      "album": {
+        "name": "Nights",
+        "url": "https://open.spotify.com/album/4UDrquliRcKFxg8xashC10"
+      },
+      "artists": [
+        {
+          "name": "Night Talks",
+          "url": "https://open.spotify.com/artist/2AtastUSfbudzZmPKQTsvz"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185424,
+      "name": "Nights",
+      "url": "https://open.spotify.com/track/1dPdbmrmqnZxSu4kU1ZBXj"
     },
     {
       "album": {
@@ -13122,7 +13230,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 107925,
       "name": "Psychopath",
       "url": "https://open.spotify.com/track/3ElA3Noem40LahcFSBkO3D"
@@ -13670,7 +13778,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 195373,
       "name": "Rip It Out",
       "url": "https://open.spotify.com/track/6FPIh5TqPtYNFUbNN4aJ4R"
@@ -14264,7 +14372,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 142893,
       "name": "Selfish",
       "url": "https://open.spotify.com/track/3KnU4XGpDjK2EMXEloIKXh"
@@ -15154,7 +15262,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 241456,
       "name": "Something In The Water",
       "url": "https://open.spotify.com/track/699fWFRaJXJeb0zSI8YdNU"
@@ -16084,6 +16192,24 @@
       "duration_ms": 218000,
       "name": "Take My Spirit Now",
       "url": "https://open.spotify.com/track/0caRIqeGpnO62H1lYJKILz"
+    },
+    {
+      "album": {
+        "name": "Taking Up Sports",
+        "url": "https://open.spotify.com/album/5ogRaa13BvMAVcxVnOnsSf"
+      },
+      "artists": [
+        {
+          "name": "Cherym",
+          "url": "https://open.spotify.com/artist/5HeMRsU1AunQINeEVHFdx5"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184622,
+      "name": "Taking Up Sports",
+      "url": "https://open.spotify.com/track/0dlGaLCdoDKcrK7v3tdBHb"
     },
     {
       "album": {
@@ -17075,6 +17201,24 @@
     },
     {
       "album": {
+        "name": "Pound For Pound",
+        "url": "https://open.spotify.com/album/7HW83aQ4OFpMsg6W8hmROw"
+      },
+      "artists": [
+        {
+          "name": "Ra Ra Viper",
+          "url": "https://open.spotify.com/artist/0YkVmTUYQdhgxE8vek7GId"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182019,
+      "name": "Tora",
+      "url": "https://open.spotify.com/track/2RdTAjuyXApYuZhQh7kypm"
+    },
+    {
+      "album": {
         "name": "Torn In Two",
         "url": "https://open.spotify.com/album/1xIYbrEYU3xK3XnkWde8xK"
       },
@@ -18024,6 +18168,24 @@
       "duration_ms": 221402,
       "name": "What's On My Mind?",
       "url": "https://open.spotify.com/track/0ygPeXlJQsPcWXxFOlKaPg"
+    },
+    {
+      "album": {
+        "name": "What's The Point In Life",
+        "url": "https://open.spotify.com/album/4rUczOIIrnjN06ezLBgt9l"
+      },
+      "artists": [
+        {
+          "name": "Coach Party",
+          "url": "https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138944,
+      "name": "What's The Point In Life",
+      "url": "https://open.spotify.com/track/18BRLFiAfy2GFQlVF62CFg"
     },
     {
       "album": {

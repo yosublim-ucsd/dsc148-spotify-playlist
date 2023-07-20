@@ -4,7 +4,7 @@
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-413 songs - 1 day 5 hr 30 min
+414 songs - 1 day 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,6 +343,7 @@
 | [Space Between Us](https://open.spotify.com/track/0RuQddbj6LGbMq1CzzPgGj) | [VHS Collection](https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH) | [Space Between Us](https://open.spotify.com/album/6ZoG8UIgbpue4NGJ3x9VS8) | 3:59 | 2022-04-01 |  |
 | [Space Love](https://open.spotify.com/track/5AamX2jl0VgeqZBxb3wMwO) | [Silenx](https://open.spotify.com/artist/52prKDZVNIMMwjH2OVQJxE) | [Space Love](https://open.spotify.com/album/07ElOFLsLx4La8qu48ahVs) | 5:16 | 2022-04-08 | 2022-04-20 |
 | [Spaceship Gurl \- Dream Fiend Remix](https://open.spotify.com/track/0g0oAeUKg8TDY5HrnUvzeh) | [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83), [Dream Fiend](https://open.spotify.com/artist/5L6COTBfO2KjrJgFYe96Q7) | [Home Remixed](https://open.spotify.com/album/29vsvULVaOYhiT8F1nyzva) | 4:04 | 2021-10-15 | 2022-07-29 |
+| [Spaceship Gurl \- Dream Fiend Remix](https://open.spotify.com/track/1ODc1DUTRidGBie9pZhTaS) | [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83), [Dream Fiend](https://open.spotify.com/artist/5L6COTBfO2KjrJgFYe96Q7) | [Home \(Remixed\)](https://open.spotify.com/album/3EftlF1eioHd4pxx6Lw3og) | 4:04 | 2023-06-30 |  |
 | [Speedboat Night Sweat](https://open.spotify.com/track/4nUMeyAW2t1Jj7Hnvh2jLs) | [Swimware](https://open.spotify.com/artist/4aoqU9IlofUpiw9CWk9siH) | [Algorithm Nation](https://open.spotify.com/album/1XFxC8GRoWcJI5wyqbyflY) | 3:49 | 2022-10-21 |  |
 | [Speedboat Night Sweat](https://open.spotify.com/track/3sgFYGElABoVcyPHNCKyki) | [Swimware](https://open.spotify.com/artist/4aoqU9IlofUpiw9CWk9siH) | [Speedboat Night Sweat](https://open.spotify.com/album/0Jd5r7NN4zeP20n1BXrs0r) | 3:51 | 2021-10-15 | 2022-10-20 |
 | [Star Hustler](https://open.spotify.com/track/1W8SQHV65hlZ7lj9XRQCnd) | [Lazerhawk](https://open.spotify.com/artist/3Fobin2AT6OcrkLNsACzt4) | [Visitors](https://open.spotify.com/album/0cG3hLxNXIBC4NX64AnoJK) | 4:43 | 2022-07-22 | 2022-10-29 |
@@ -380,7 +381,7 @@
 | [The Getaway](https://open.spotify.com/track/5boxsVqT2XsC2b1V2FUCsM) | [Miami Nights 1984](https://open.spotify.com/artist/18iQQOuyGlHunPVzmoLY20) | [Turbulence](https://open.spotify.com/album/1sjg3emGXcOFStmqIUvFeU) | 3:56 | 2022-07-22 |  |
 | [The Ladder](https://open.spotify.com/track/0mThH0uqT9pmj5cCS7Oeoj) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [The Ladder](https://open.spotify.com/album/42EOGihk8LGxmFHtTHPLSi) | 5:33 | 2022-04-01 | 2022-05-28 |
 | [The Last Day \- Remastered](https://open.spotify.com/track/10pgXAyLSj1Bitw7mmn4BV) | [Midnight Danger](https://open.spotify.com/artist/08oYIzltKqFzeg7pQg6hh4) | [The Singles\. Remastered.](https://open.spotify.com/album/7lMD5BhMgGingxB0JqnDrW) | 4:49 | 2023-01-13 |  |
-| [The Mansion](https://open.spotify.com/track/2P8m9NgakN6EUBIyio0GuD) | [LudoWic](https://open.spotify.com/artist/4iH5e8eV3hGNCzhFwr1cND) | [Lost Tracks Katana Zero](https://open.spotify.com/album/1JevHX8xxEtOlT4nOL8EcB) | 2:14 | 2021-10-15 |  |
+| [The Mansion](https://open.spotify.com/track/2P8m9NgakN6EUBIyio0GuD) | [LudoWic](https://open.spotify.com/artist/4iH5e8eV3hGNCzhFwr1cND) | [Lost Tracks Katana Zero](https://open.spotify.com/album/1JevHX8xxEtOlT4nOL8EcB) | 2:14 | 2021-10-15 | 2023-07-20 |
 | [The Navigator \- Slowed Version](https://open.spotify.com/track/7gjgdMt8037wwWY8QLiqF8) | [Echo\-Eclipse](https://open.spotify.com/artist/6KGpRKwr3IKBxeEeUW7DLc) | [Arcade Machine \(Slowed Edition\) \[Slowed Version\]](https://open.spotify.com/album/2bOCal2xHpluVKBBPANrcY) | 3:50 | 2022-04-01 | 2022-05-22 |
 | [The Night](https://open.spotify.com/track/5sK5X9xq2aIk9uFe85OEby) | [Droid Bishop](https://open.spotify.com/artist/0HPVHsbV2yIYPp2Pk4kdHe) | [The Night](https://open.spotify.com/album/74H6voYjugubDYisU8zarC) | 4:08 | 2022-05-20 | 2022-07-29 |
 | [The Perfect Girl \- The Motion Retrowave Remix](https://open.spotify.com/track/1UcyzhmBDfdw07DiuT7DEG) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo), [The Motion](https://open.spotify.com/artist/2Oa32CWdPcsW36MkDRjM5n) | [The Perfect Girl \(The Motion Retrowave Remix\)](https://open.spotify.com/album/6LtIcRhkNqGdXl2OESjDPE) | 3:01 | 2022-07-22 | 2023-07-01 |

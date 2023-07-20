@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 
 > Una eufórica dosis de urbano romántico en español.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,096 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,182 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 | 99 | [No Soy Tu Love](https://open.spotify.com/track/57yB8bNzHZGLtJDabybMux) | [KID FLEX](https://open.spotify.com/artist/3MG0nEhYET2TCkegY1QBP6) | [No Soy Tu Love](https://open.spotify.com/album/3F3e6r4cH03ZzXWA3wTVl6) | 2:02 |
 | 100 | [Nuestro Silencio](https://open.spotify.com/track/1zraV8Jxi9Srk1VN0rcPTn) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Nuestro Silencio](https://open.spotify.com/album/7zNgzMXxxXMfhMjBkUUnhq) | 3:20 |
 
-Snapshot ID: `MCw0ZTQ2MzI4OGY0Mjg4MmY3MDRhZjk4YTFiOGM2MDgxZmRjZmQ0ODIz`
+Snapshot ID: `MCw2YmNmNjMyNDcxZmNiMDliNzdhOWM0MjA2YzYwOTFiN2U3YzI2YjYz`

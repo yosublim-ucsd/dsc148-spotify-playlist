@@ -3640,10 +3640,28 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 177999,
       "name": "Jurassic",
       "url": "https://open.spotify.com/track/0okYcNqMBFmSwf2xeECPpd"
+    },
+    {
+      "album": {
+        "name": "Jurassic",
+        "url": "https://open.spotify.com/album/6dgCSpkDbi4Y4WJpC24nZ8"
+      },
+      "artists": [
+        {
+          "name": "NIKO NIKO TAN TAN",
+          "url": "https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177999,
+      "name": "Jurassic",
+      "url": "https://open.spotify.com/track/7HcpoYSDvOks6YAE2A3JQn"
     },
     {
       "album": {
@@ -6394,10 +6412,28 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 317887,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/1tqNarav4DXuN8je7w6GwP"
+    },
+    {
+      "album": {
+        "name": "Starlight / yoakemae",
+        "url": "https://open.spotify.com/album/0UiMGbnQYzC9kQYTpoaG6r"
+      },
+      "artists": [
+        {
+          "name": "\u9ad8\u4e95\u606f\u5439",
+          "url": "https://open.spotify.com/artist/7zfwhvxWePJ4CqKqkbndML"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317887,
+      "name": "Starlight",
+      "url": "https://open.spotify.com/track/1z39usGi4dXhcBoGGJz97c"
     },
     {
       "album": {
@@ -6564,7 +6600,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-19",
+      "date_removed": null,
       "duration_ms": 234106,
       "name": "Superior",
       "url": "https://open.spotify.com/track/4XJud2E6edl441erVAdBgh"
@@ -7601,6 +7637,24 @@
     },
     {
       "album": {
+        "name": "happiness",
+        "url": "https://open.spotify.com/album/6ycdKGWkXUzF6Aj7YQeovf"
+      },
+      "artists": [
+        {
+          "name": "INNER JOURNEY",
+          "url": "https://open.spotify.com/artist/19NLrvn6bFFk0R0UaSfGR9"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287013,
+      "name": "When dawn comes, we",
+      "url": "https://open.spotify.com/track/3EFyfR4HLQ3daSEEK28xd3"
+    },
+    {
+      "album": {
         "name": "When Your Bones Turn Into Opal",
         "url": "https://open.spotify.com/album/1uXCwJw3bQUanbvM9dIjdf"
       },
@@ -7868,7 +7922,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-19",
+      "date_removed": null,
       "duration_ms": 245527,
       "name": "yoru",
       "url": "https://open.spotify.com/track/2WeKnXuEF5TWJqsMJSimLG"
@@ -8392,7 +8446,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 151986,
       "name": "\u305f\u306e\u3057\u3044\u3072\u3068\u308a",
       "url": "https://open.spotify.com/track/6jtS7UUrQNrzz8rvycH70P"
@@ -9361,6 +9415,24 @@
     },
     {
       "album": {
+        "name": "XX",
+        "url": "https://open.spotify.com/album/1aTsna8FcJ1uh56XBeilNc"
+      },
+      "artists": [
+        {
+          "name": "HiGE",
+          "url": "https://open.spotify.com/artist/0ryyELbQYYMklIxQmpH6xK"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209295,
+      "name": "\u30d1\u30f3\u30c7\u30df\u30c3\u30af",
+      "url": "https://open.spotify.com/track/2yKphSroLPQ2vPZO5lcHqy"
+    },
+    {
+      "album": {
         "name": "\u30d1\u30f3\u30c7\u30df\u30c3\u30af",
         "url": "https://open.spotify.com/album/0IdY0aJAlMww8ki3Rh4WBo"
       },
@@ -9372,7 +9444,7 @@
       ],
       "date_added": "2023-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 209295,
       "name": "\u30d1\u30f3\u30c7\u30df\u30c3\u30af",
       "url": "https://open.spotify.com/track/362O8pwLinfFwPKUqxFhIg"
@@ -10166,7 +10238,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 287013,
       "name": "\u591c\u304c\u660e\u3051\u305f\u3089\u79c1\u305f\u3061",
       "url": "https://open.spotify.com/track/7g7aXtGi28jYS7sEvjGIp7"
@@ -10202,7 +10274,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 233071,
       "name": "\u5922",
       "url": "https://open.spotify.com/track/6sfO55yUSONmh8PT7wgcy5"

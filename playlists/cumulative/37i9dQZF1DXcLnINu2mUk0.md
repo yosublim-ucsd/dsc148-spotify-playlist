@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Ivandro e Julinho Ksd.
 
-371 songs - 20 hr 17 min
+372 songs - 20 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Calcular \(feat\. MDO \(Menino de Ouro\)](https://open.spotify.com/track/1YrCvngT0xfPKxTb1ycb4j) | [Rumi](https://open.spotify.com/artist/3yWoOPJIjQxiJeGQbNaSrL), [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1) | [Calcular \(feat\. MDO \(Menino de Ouro\)](https://open.spotify.com/album/6u6Qf0tOGmLW8JLDH7pgoL) | 3:25 | 2022-12-23 | 2023-01-06 |
 | [Calma](https://open.spotify.com/track/05t8u8aUPngMb4a0K35GUC) | [CP](https://open.spotify.com/artist/54FkNwUXQGoOXQF6nU3ZeB), [Maurex](https://open.spotify.com/artist/2h8Uc3bjHkRnEc2PVpO8Je) | [Calma](https://open.spotify.com/album/19zw55AIExi0SYdFJRBHGf) | 2:42 | 2022-10-13 | 2022-11-11 |
 | [Calor](https://open.spotify.com/track/0hJQmqriIYh2lL8nqOPQLq) | [Boss Proud](https://open.spotify.com/artist/3vECSGFRl5jThIfSAJEP6v) | [Calor](https://open.spotify.com/album/7bSGqZgFrAhPYWeZsVUjVk) | 3:41 | 2022-09-29 | 2022-10-28 |
+| [Cara do Pai](https://open.spotify.com/track/2CcZEYj1ef6k9JMunarSvT) | [Arganaça](https://open.spotify.com/artist/4i9YZ46se9VOp2eSLbCg4i) | [Cara do Pai](https://open.spotify.com/album/1kRPEJqYFVtHxXVWBkDZbR) | 3:09 | 2023-07-13 |  |
 | [Carta](https://open.spotify.com/track/3wkkrO3yKnqbC8XePMGMXD) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [DREYA](https://open.spotify.com/artist/34waUKLMZKUmfyRpWf4D38) | [Carta](https://open.spotify.com/album/5ianhNvoxI4UlVnCT7Hyav) | 2:33 | 2022-07-07 | 2023-07-07 |
 | [Cashh](https://open.spotify.com/track/4dQPcRiNXw6idTGWW4ngZF) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru), [FreshhhLife](https://open.spotify.com/artist/5RBV8O5vegqvKHF8tiCz4O) | [Cashh](https://open.spotify.com/album/4Mi08knLklj8pKdeFfvhF5) | 4:28 | 2022-09-29 | 2022-10-28 |
 | [Chakra Sacro](https://open.spotify.com/track/1odGLuCnWaAnODMu7rbjwr) | [AMAURA](https://open.spotify.com/artist/5DrNU0zLTxAAvoiLzftD8l) | [Chakra Sacro](https://open.spotify.com/album/1Bw2eHlvZON8dCx9bn8o8R) | 3:40 | 2022-09-16 | 2022-10-07 |
@@ -240,7 +241,7 @@
 | [Nunca Vou Deixar](https://open.spotify.com/track/7nakVmFtcM16ztz8iCN8cD) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp), [Mark Exodus](https://open.spotify.com/artist/5QuaUicw0RJdqHlUJdkQWz) | [Nunca Vou Deixar](https://open.spotify.com/album/72taV8uVUgA7ShvfQaNvG0) | 2:52 | 2023-06-22 |  |
 | [Nuvem](https://open.spotify.com/track/10AwYtKUb5h6nEbSiNlVvQ) | [YVNG CIRIUS](https://open.spotify.com/artist/49Vq1CEhXIzeNDnXPWYDzA) | [11](https://open.spotify.com/album/17i647lAXr88FRR46cWxJQ) | 2:51 | 2022-11-18 | 2022-12-24 |
 | [Não bebo](https://open.spotify.com/track/2Tx4rwrneiLlkngmgEwLMb) | [Projecto 51](https://open.spotify.com/artist/5kHEKWF1LxmEo7w9Lq3xus) | [Não bebo](https://open.spotify.com/album/3ehXRopMC58w8dI7SeEC4M) | 3:38 | 2023-06-29 |  |
-| [Não Consigo](https://open.spotify.com/track/0RfXHQx7KHkH2zAqF5hB7l) | [Kamuya](https://open.spotify.com/artist/3rv2srJPEeA1vW8vhjE2U7), [sheluvsHUGO](https://open.spotify.com/artist/4fkojJvVGvyu6oh5cutj2g) | [Não Consigo](https://open.spotify.com/album/73wkFM58mY6OoFB2hg8ve1) | 3:33 | 2023-07-06 |  |
+| [Não Consigo](https://open.spotify.com/track/0RfXHQx7KHkH2zAqF5hB7l) | [Kamuya](https://open.spotify.com/artist/3rv2srJPEeA1vW8vhjE2U7), [sheluvsHUGO](https://open.spotify.com/artist/4fkojJvVGvyu6oh5cutj2g) | [Não Consigo](https://open.spotify.com/album/73wkFM58mY6OoFB2hg8ve1) | 3:33 | 2023-07-06 | 2023-07-20 |
 | [Não Falo Nada](https://open.spotify.com/track/344G8K622EI1rYTPfgjhEx) | [Rennan da Penha](https://open.spotify.com/artist/7ecRwFks8F2vYad383BkKf), [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n), [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [Não Falo Nada](https://open.spotify.com/album/5ZA4uNOsiWN7j62XRFjN1Y) | 3:15 | 2022-07-07 | 2022-08-05 |
 | [Não há impossíveis](https://open.spotify.com/track/0KXCN5DoYmiPvP4JmoVYEP) | [Sippinpurpp](https://open.spotify.com/artist/6ngR2kHxjibH7bdDUBqL3z) | [Não há impossíveis](https://open.spotify.com/album/6H9LuYNh2URdrGk6IgajbI) | 2:34 | 2022-07-07 | 2022-08-19 |
 | [Não Me Enganas \(feat\. Ivandro & Nayr Faquira\)](https://open.spotify.com/track/6ghsknvRAMqCFmGlSfC7Tv) | [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Nayr Faquirá](https://open.spotify.com/artist/04UMTpKorelINdwYKsM9Tb) | [+ do Mesmo \- Parte 1](https://open.spotify.com/album/7DDasmVvLny9kVzO8AV3bD) | 4:48 | 2022-07-07 |  |

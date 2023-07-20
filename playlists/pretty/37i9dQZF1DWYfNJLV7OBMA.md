@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 
 > Trending Sinhalese pop hits\. Cover \- DILU Beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,229 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,252 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 99 | [Ma Ithin Yanna Yanawa](https://open.spotify.com/track/2VMr0vvGBKnciZwRxDMcRJ) | [Ridma Weerawardena](https://open.spotify.com/artist/03lEcjt6I9zmO8g0tJi4zT), [Rohana Weerasinghe](https://open.spotify.com/artist/7xtH99LIfTdFERRQE7kT8z), [Mahiru Senarathne](https://open.spotify.com/artist/3Od0SSFki2d6U1jnmoUaBC), [Rathna Sri Wijesinghe](https://open.spotify.com/artist/57HmXUi4GvSd5QzW8HHW3u) | [Ma Ithin Yanna Yanawa](https://open.spotify.com/album/04lZ6dK5I9TpzAtSbcy07g) | 3:21 |
 | 100 | [Boho De](https://open.spotify.com/track/4wAlwgiU1CuXMs1VIR2WkI) | [Yuki Navaratne](https://open.spotify.com/artist/00ZpGGB5F7Ytw781Qsr1sR) | [Boho De](https://open.spotify.com/album/5pscBsQIFkm3bruaDT2LaK) | 4:01 |
 
-Snapshot ID: `MCxlNzIxNTNmN2EyMmI4MjUwN2Q1NzA1MTJjYTU0YTgxMDRhNjBmN2Ey`
+Snapshot ID: `MCw3Mzg3ZTMxYTE0OTdmZGVmYTQxMjBmODAzNWIwMTAxNmJhM2FjZTcw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Lil Uzi Vert
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,860 likes - 99 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,916 likes - 99 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 53 | [What's That?](https://open.spotify.com/track/3NqKpLijeFLWflbXDj3Hra) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [What's That?](https://open.spotify.com/album/3VhrV608YO2YN2Z1tY879X) | 3:27 |
 | 54 | [Say Less \(feat\. Lil Durk & A Boogie Wit da Hoodie\)](https://open.spotify.com/track/6D4n6TkbC3Dce3c03FzrDM) | [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Hip Hop 50: Vol\. 2](https://open.spotify.com/album/2fMYrpzJCtJNhVTBQybhoz) | 2:54 |
 | 55 | [Still Movin' \(feat\. Fivio Foreign & Jay Critch\)](https://open.spotify.com/track/14feWRgz9wh0Z1OIFXcJGh) | [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4) | [Still Movin' \(feat\. Fivio Foreign & Jay Critch\)](https://open.spotify.com/album/6vEioFzvVWKZxcrXEpDAUZ) | 2:22 |
-| 56 | [TELL ME IM RIGHT](https://open.spotify.com/track/2ltbtk62BGf7AoWeVJYv72) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [TELL ME IM RIGHT](https://open.spotify.com/album/1nSlBADZLhwU0DlaNLU6MD) | 2:26 |
+| 56 | [TELL ME IM RIGHT](https://open.spotify.com/track/2ltbtk62BGf7AoWeVJYv72) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [TELL ME IM RIGHT](https://open.spotify.com/album/1nSlBADZLhwU0DlaNLU6MD) | 2:47 |
 | 57 | [Blind Em](https://open.spotify.com/track/4M7pQy4wQuIm41JVNWiVvQ) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Blind Em](https://open.spotify.com/album/5ClLuubF50Fie0XHH32FwM) | 2:14 |
 | 58 | [Fetty](https://open.spotify.com/track/1lDG57wZSMVbtQ0mDSTNpL) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8), [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Fetty](https://open.spotify.com/album/1b73Y5x7ck02CFVDLk4iml) | 2:33 |
 | 59 | [YUP!](https://open.spotify.com/track/51bDDKxzwJAc6zUtyYSyHL) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [HOURS AFTER THE CLUB](https://open.spotify.com/album/7LCH3EL2NaCmVegWM3dPBq) | 2:39 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 98 | [Tiimmy Turner 2](https://open.spotify.com/track/0eoVAYAp4mq7UjT3WW8QMP) | [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [Tiimmy Turner 2](https://open.spotify.com/album/6Bgdg8odR8SfvQMZ6lptXQ) | 2:30 |
 | 99 | [Pinot Noir](https://open.spotify.com/track/4Z2hR3qjHR4r7dwt7dKd1s) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Jucee Froot](https://open.spotify.com/artist/7BtDOCA9U1krM87JITg6bF), [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23) | [F65](https://open.spotify.com/album/57iVWXgjdtxrgUH1snpz7i) | 2:55 |
 
-Snapshot ID: `MCxlMGI3ZDdjZDkyODdjOGYyNDhmZTQ2ZmEyYWM4NGNmNWQ0NTNjYjgy`
+Snapshot ID: `MCxlMWQ5NzExYWJiY2ZiMzRkODMwYzQzMmE0MWEwZmU5NjhlYzY2NzNl`

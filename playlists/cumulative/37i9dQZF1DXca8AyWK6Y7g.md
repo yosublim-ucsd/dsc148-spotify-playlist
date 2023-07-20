@@ -4,7 +4,7 @@
 
 > livin' life in your 250 sq ft apt cover: Reneé Rapp
 
-1,726 songs - 3 day 15 hr 40 min
+1,727 songs - 3 day 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -606,6 +606,7 @@
 | [Good Looking](https://open.spotify.com/track/3L3G4XFQqtFe9a3azMacZ5) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/5dfLsxzcFhYFoihyaNZA3E) | 3:34 | 2022-05-10 | 2022-09-17 |
 | [Good Looking](https://open.spotify.com/track/5ZjV4yevHO1QhMw8AjyQbZ) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/59MoI7jSTPVw8udCpgbvw9) | 3:34 | 2022-05-10 | 2022-07-25 |
 | [Good Nights \(feat\. Mascolo\)](https://open.spotify.com/track/36fRbuu9QkKVDR1j7jTI2U) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Mascolo](https://open.spotify.com/artist/1hssO6mIBREUt4w6riUeBp) | [Good Nights \(feat\. Mascolo\)](https://open.spotify.com/album/59BiRraz8tTC4tKKRnZfNj) | 2:45 | 2019-05-26\* | 2019-06-15 |
+| [Good Now](https://open.spotify.com/track/18sjPSKxvGGIse9WGZC2y5) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Good Now EP](https://open.spotify.com/album/3Sw8pwNDP8TD80YhyvmoHA) | 2:22 | 2023-07-14 |  |
 | [Good Side](https://open.spotify.com/track/6c2t3MFFsSKO7DviyCLYzJ) | [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Good Side](https://open.spotify.com/album/55fUUqxBK76LDYAC6kiRkI) | 2:38 | 2022-04-08 | 2022-05-29 |
 | [Good Things Fall Apart \(with Jon Bellion\)](https://open.spotify.com/track/6pooRNiLyYpxZeIA5kJ5EX) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Good Things Fall Apart \(with Jon Bellion\)](https://open.spotify.com/album/4IYvXJnU8zPRzPPTu4dJUl) | 3:36 | 2019-06-21 | 2021-03-23 |
 | [Goodbye](https://open.spotify.com/track/0YWEkbBu0xE9QqnZ9TlJ4Q) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Goodbye](https://open.spotify.com/album/2AQ1mO4bFhb5jxYMExncrA) | 3:28 | 2019-05-26\* | 2019-08-13 |
@@ -1423,7 +1424,7 @@
 | [STFU](https://open.spotify.com/track/74I5Zaz3B2DQp5lAgvOA3V) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [STFU](https://open.spotify.com/album/5F6OtMKcioMKLCaUSgQchc) | 3:29 | 2019-06-15 | 2020-06-07 |
 | [stimulation](https://open.spotify.com/track/4bEUXJIYBbTsQRfkF5gIfq) | [wordsbyjuni](https://open.spotify.com/artist/0yLJt17DnD4o5Z7HQMFFhy) | [stimulation](https://open.spotify.com/album/5Dkr7XMmdh8zHGPfcHsbkS) | 2:40 | 2021-04-19 | 2021-08-15 |
 | [Stoned Nights](https://open.spotify.com/track/71rTViUIFq4eDyd8bWtjtJ) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5) | [Stoned Nights](https://open.spotify.com/album/63dmsjTvTlAgBRjXlDznF2) | 3:25 | 2021-12-03 | 2022-01-08 |
-| [Story of a Boy](https://open.spotify.com/track/6ePdWn39KoSXsanJvRXIjx) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [BOY](https://open.spotify.com/album/75Cps520layAjj3UTUMC9v) | 2:36 | 2023-04-22 |  |
+| [Story of a Boy](https://open.spotify.com/track/6ePdWn39KoSXsanJvRXIjx) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [BOY](https://open.spotify.com/album/75Cps520layAjj3UTUMC9v) | 2:36 | 2023-04-22 | 2023-07-20 |
 | [Story of a Boy](https://open.spotify.com/track/7atzImo7vWrKHrsqkFrMuQ) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [Story of a Boy](https://open.spotify.com/album/1emFHl6oXIJRrXS3yS4hj4) | 2:36 | 2023-01-27 | 2023-02-04 |
 | [Story of a Boy](https://open.spotify.com/track/7cbmG4OPQ9ghcewYIlNiuS) | [JORDY](https://open.spotify.com/artist/0p9SPN0Vhv6aDRZCz4W13E) | [Story of a Boy](https://open.spotify.com/album/2RUbaX7TWnJIKY3irozBP3) | 2:36 | 2023-02-03 | 2023-04-24 |
 | [stranger danger!](https://open.spotify.com/track/4yk0t3ZG8vkoligoo7iAQB) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [stranger danger!](https://open.spotify.com/album/2AaauDVv5L5MJE7Teus6xh) | 3:41 | 2023-01-13 | 2023-02-04 |

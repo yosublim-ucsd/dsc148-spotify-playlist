@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 62850,
+  "num_followers": 62879,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmRiNTRlY2U2MjFmZmY0NmFmMDJiZjRjY2FhMTA1OWFiY2I0NTIw",
+  "snapshot_id": "MCw4M2YxOWNmYTY4NmE2YTY3Y2U2NzI2NzZjMTM3YTA4M2E0MGY5YzU0",
   "tracks": [
     {
       "added_at": "2023-07-14 01:24:32",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-07-14 01:24:32",
       "album": {
-        "name": "Fantasmas",
-        "url": "https://open.spotify.com/album/6DXXRDiKXGvJ69FRjVykHZ"
-      },
-      "artists": [
-        {
-          "name": "Aurum",
-          "url": "https://open.spotify.com/artist/4c0Bp0wMrzxY4LbvrBQnHB"
-        }
-      ],
-      "duration_ms": 216296,
-      "name": "Fantasmas",
-      "url": "https://open.spotify.com/track/4p1fdScUiB1t9idEW5r3sW"
-    },
-    {
-      "added_at": "2023-07-14 01:24:32",
-      "album": {
         "name": "El B\u00e1lsamo para los Sabios y los Buenos Perdedores",
         "url": "https://open.spotify.com/album/4L41cXrG4RL5W63unJLi6A"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 214592,
       "name": "Espero Nadie Ocupe Mi Lugar",
       "url": "https://open.spotify.com/track/3dc5ORKPHJyI9DVEUNZtl9"
+    },
+    {
+      "added_at": "2023-07-14 01:24:32",
+      "album": {
+        "name": "Fantasmas",
+        "url": "https://open.spotify.com/album/6DXXRDiKXGvJ69FRjVykHZ"
+      },
+      "artists": [
+        {
+          "name": "Aurum",
+          "url": "https://open.spotify.com/artist/4c0Bp0wMrzxY4LbvrBQnHB"
+        }
+      ],
+      "duration_ms": 216296,
+      "name": "Fantasmas",
+      "url": "https://open.spotify.com/track/4p1fdScUiB1t9idEW5r3sW"
     },
     {
       "added_at": "2023-07-14 01:24:32",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-07-14 01:24:32",
       "album": {
-        "name": "Lugar Especial",
-        "url": "https://open.spotify.com/album/0gwPRpZuHJJh1lzCPnUDNT"
-      },
-      "artists": [
-        {
-          "name": "Finde",
-          "url": "https://open.spotify.com/artist/1F9nkzoHCrTN7e1tuJUXDC"
-        }
-      ],
-      "duration_ms": 204168,
-      "name": "Lugar Especial",
-      "url": "https://open.spotify.com/track/2fsGUc8CFRD0RT6OlkES1s"
-    },
-    {
-      "added_at": "2023-07-14 01:24:32",
-      "album": {
         "name": "Humanos Como T\u00fa",
         "url": "https://open.spotify.com/album/0HqeYIoIRBpQ9zt31b5VQY"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 228920,
       "name": "Humanos Como T\u00fa",
       "url": "https://open.spotify.com/track/3fvNWLnmratSXuqcVXIHyU"
+    },
+    {
+      "added_at": "2023-07-14 01:24:32",
+      "album": {
+        "name": "Lugar Especial",
+        "url": "https://open.spotify.com/album/0gwPRpZuHJJh1lzCPnUDNT"
+      },
+      "artists": [
+        {
+          "name": "Finde",
+          "url": "https://open.spotify.com/artist/1F9nkzoHCrTN7e1tuJUXDC"
+        }
+      ],
+      "duration_ms": 204168,
+      "name": "Lugar Especial",
+      "url": "https://open.spotify.com/track/2fsGUc8CFRD0RT6OlkES1s"
     },
     {
       "added_at": "2023-07-14 01:24:32",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-07-14 01:24:32",
       "album": {
-        "name": "Al infierno y de regreso",
-        "url": "https://open.spotify.com/album/7rW8Qb4gpmNMZkS4h6nCKa"
-      },
-      "artists": [
-        {
-          "name": "NUNO",
-          "url": "https://open.spotify.com/artist/3cvT82FVElcs4E8MBwKgV8"
-        }
-      ],
-      "duration_ms": 204500,
-      "name": "Diablo",
-      "url": "https://open.spotify.com/track/62mgkKxsHBxt1Hmd04GMai"
-    },
-    {
-      "added_at": "2023-07-14 01:24:32",
-      "album": {
         "name": "Y Si Patinan?",
         "url": "https://open.spotify.com/album/3AVCV6rOUqSxWt9YRf3IjD"
       },
@@ -827,18 +811,34 @@
     {
       "added_at": "2023-07-14 01:24:32",
       "album": {
-        "name": "Historias",
-        "url": "https://open.spotify.com/album/5NQsCrl81fPCQ1osysTxJg"
+        "name": "Al infierno y de regreso",
+        "url": "https://open.spotify.com/album/7rW8Qb4gpmNMZkS4h6nCKa"
       },
       "artists": [
         {
-          "name": "Diez Veces Yo",
-          "url": "https://open.spotify.com/artist/1WWCrSgufkJeqcEtYcSW4l"
+          "name": "NUNO",
+          "url": "https://open.spotify.com/artist/3cvT82FVElcs4E8MBwKgV8"
         }
       ],
-      "duration_ms": 198624,
-      "name": "Distancias",
-      "url": "https://open.spotify.com/track/7ERijR9hA3srvop0osPQCA"
+      "duration_ms": 204500,
+      "name": "Diablo",
+      "url": "https://open.spotify.com/track/62mgkKxsHBxt1Hmd04GMai"
+    },
+    {
+      "added_at": "2023-07-14 01:24:32",
+      "album": {
+        "name": "Siempre Resistir / Nunca Desistir",
+        "url": "https://open.spotify.com/album/05oaSmUNyPQMVeNgvfn8uS"
+      },
+      "artists": [
+        {
+          "name": "DON",
+          "url": "https://open.spotify.com/artist/4xRGF3S9AgY23sWuzKlUDR"
+        }
+      ],
+      "duration_ms": 234773,
+      "name": "Escribe Una Canci\u00f3n",
+      "url": "https://open.spotify.com/track/4Yrn59SQBNUiWywYLERLw2"
     }
   ],
   "unique_name": "Escena Pop Punk",

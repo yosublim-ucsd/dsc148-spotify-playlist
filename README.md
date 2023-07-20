@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6342\)
+## Playlists \(6343\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \-](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -1935,11 +1935,12 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Fuego \#051](/playlists/pretty/37i9dQZF1DWUS3v6xGxmx4.md)
 - [Fuego \#052 \- Regina's Fan Mixtape](/playlists/pretty/37i9dQZF1DWTwf6UlOz1Hs.md)
 - [Fuego \#053](/playlists/pretty/37i9dQZF1DX4haiJ8JmQpl.md)
-- [Fuego \#054](/playlists/pretty/37i9dQZF1DXaZZntfSWT0S.md)
+- [Fuego \#054 \- Santea's Mixtape](/playlists/pretty/37i9dQZF1DXaZZntfSWT0S.md)
 - [Fuego \#055](/playlists/pretty/37i9dQZF1DX0dDEyGmzjro.md)
 - [Fuego \#056 \- West's Fan Mixtape](/playlists/pretty/37i9dQZF1DX11Fugayzdtx.md)
 - [Fuego \#057](/playlists/pretty/37i9dQZF1DWXshWTGXBpIb.md)
 - [Fuego \#058](/playlists/pretty/37i9dQZF1DWZ44NwqwGeNt.md)
+- [Fuego \- \#059 Sofia Bella's Mixtape](/playlists/pretty/37i9dQZF1DWW9fd5h9dO0R.md)
 - [Full Volume](/playlists/pretty/37i9dQZF1DWUv0cTKdT8jJ.md)
 - [Fun Run](/playlists/pretty/37i9dQZF1DXadOVCgGhS7j.md)
 - [Funk & Disco Zamaan](/playlists/pretty/37i9dQZF1DX8SE5tIsUWTD.md)

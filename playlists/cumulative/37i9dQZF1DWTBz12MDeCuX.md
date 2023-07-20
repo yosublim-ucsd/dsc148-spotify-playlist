@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Miksu / Macloud, makko, t\-low
 
-1,042 songs - 2 day 1 hr 39 min
+1,043 songs - 2 day 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -813,7 +813,8 @@
 | [Softcore](https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 3:26 | 2022-11-03 | 2023-05-19 |
 | [soho witch](https://open.spotify.com/track/0zJDnKfWvCYufAG88CsA5r) | [pazzy](https://open.spotify.com/artist/5EytKInN6062ur6NQfWvBh) | [soho witch](https://open.spotify.com/album/48jfcfQ1E7GOsHK475Cxas) | 2:21 | 2023-06-29 | 2023-07-14 |
 | [Something In The Way](https://open.spotify.com/track/4gHnSNHs8RyVukKoWdS99f) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk) | 3:52 | 2022-07-14 | 2022-07-26 |
-| [sommer \(feat\. CRO\)](https://open.spotify.com/track/4VY7aTxsMypdajrZULZFtg) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [sommer \(feat\. CRO\)](https://open.spotify.com/album/0pfTadD9mPn1UeOMnMuYEC) | 2:51 | 2023-07-06 |  |
+| [sommer \(feat\. CRO\)](https://open.spotify.com/track/1SaSTeiR7cqi5fUXZlGr4e) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [sommer \(feat\. CRO\)](https://open.spotify.com/album/4UK5FLZLXuCFJwtNZg8l8L) | 2:51 | 2023-07-17 |  |
+| [sommer \(feat\. CRO\)](https://open.spotify.com/track/4VY7aTxsMypdajrZULZFtg) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [sommer \(feat\. CRO\)](https://open.spotify.com/album/0pfTadD9mPn1UeOMnMuYEC) | 2:51 | 2023-07-06 | 2023-07-20 |
 | [Sommergewitter](https://open.spotify.com/track/2H7jZg2HliuQhZjfBblLrZ) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [Sommergewitter](https://open.spotify.com/album/0y1jv7eymP0ZOITC6hQHyP) | 2:18 | 2022-06-13 | 2023-07-14 |
 | [sommernacht](https://open.spotify.com/track/3ycfNtMAv09Ul6qiTOcfWI) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [sommernacht](https://open.spotify.com/album/3S7EQ9i1CSXVn5C91wnSkP) | 2:15 | 2023-06-08 |  |
 | [Sommervibe](https://open.spotify.com/track/5sQqRC6wFJ2KpVEbUAsDSG) | [Mateo](https://open.spotify.com/artist/6cuTkD9BPQSLew4TKCFNQi) | [Sommervibe](https://open.spotify.com/album/2NyW0H39UnGfN06WFhvYGk) | 1:53 | 2022-08-15 | 2022-09-30 |

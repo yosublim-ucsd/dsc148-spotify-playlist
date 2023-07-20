@@ -4,7 +4,7 @@
 
 > The biggest rock bands/artists in Japan right now! Cover: UVERWORLD
 
-702 songs - 1 day 22 hr 26 min
+704 songs - 1 day 22 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [As long as I love](https://open.spotify.com/track/4Ffc5nmb7MkNyLLpSAH2er) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS), [Koshi Inaba](https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls) | [As long as I love / Scratch](https://open.spotify.com/album/0MSYKvvoxhGFpMykGLUCVF) | 4:10 | 2022-06-02 | 2022-07-28 |
 | [August](https://open.spotify.com/track/2iORIDxw0qWn5ezfmG4Crv) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [August](https://open.spotify.com/album/6jMFeJN63salxChERxBq2z) | 3:52 | 2022-09-15 | 2022-10-05 |
 | [AVALANCHE](https://open.spotify.com/track/5j5GxdQl506TDP8nSkRD8x) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [AVALANCHE](https://open.spotify.com/album/1rQTIzd2E969GJjCIv3sGR) | 4:13 | 2022-05-24 | 2022-08-31 |
+| [Azabana](https://open.spotify.com/track/7F7YKzplE0bMc98ktJvV9u) | [Plastic Tree](https://open.spotify.com/artist/5O4DsTkJ6z2eTSvIHZ6sDo) | [Azabana](https://open.spotify.com/album/4TB4oOpj0hs5ByhtCTLKzg) | 5:52 | 2023-07-18 |  |
 | [B.O.Y.](https://open.spotify.com/track/33UTmYJPlpkPFsKr29NI6K) | [Ivy to Fraudulent Game](https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX) | [B.O.Y.](https://open.spotify.com/album/5RJM7phpmtJ3dip8rA4cHK) | 4:02 | 2023-02-14 | 2023-04-06 |
 | [Baby's Alright](https://open.spotify.com/track/5jFKVJxMWo7ieMI6TZFkCO) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [Baby's Alright](https://open.spotify.com/album/6X4Uwd6AcExE9pK9yXymFy) | 2:43 | 2022-07-12 | 2023-06-28 |
 | [BackBeat](https://open.spotify.com/track/6ttx0DBQOzlAtPCuJUSP8V) | [DOES](https://open.spotify.com/artist/2zwGPEFviyaICCDiAWxLjy) | [BackBeat](https://open.spotify.com/album/20Kzp3sMbCnigdUkxbq6rj) | 3:50 | 2022-05-12 | 2023-05-31 |
@@ -85,7 +86,8 @@
 | [Do you wanna dance?](https://open.spotify.com/track/4M2sfOnI5o3VU6GyYoKPOf) | [HOTEI](https://open.spotify.com/artist/4cShXyYZpvnVZYeE3Oukns) | [Still Dreamin'](https://open.spotify.com/album/470wDFggB1BlolvYXsLFvj) | 4:26 | 2022-05-17 | 2022-07-08 |
 | [Dokodatteii](https://open.spotify.com/track/444UtyeTFdSZ7eRRfUJSnp) | [Keiichi Sokabe](https://open.spotify.com/artist/5L2Y03AcUOXCgvRMTy2Gwq) | [Dokodatteii](https://open.spotify.com/album/3siRKjFzd2RWPsiAX9E6Xv) | 3:29 | 2023-05-16 | 2023-05-31 |
 | [Don't Think Twice \(It's not over\)](https://open.spotify.com/track/0T3axpUT39q4DJ7aIzxYFN) | [syrup16g](https://open.spotify.com/artist/0nwTdEUuG7c1M3kR9CIIxm) | [Les Misé blue](https://open.spotify.com/album/1oNVgCta0qPtdwQEGESzYs) | 4:09 | 2022-11-22 | 2022-12-21 |
-| [Double Dealing Woman \- Special version](https://open.spotify.com/track/49831quLdIYoMxnpA1roBF) | [紫](https://open.spotify.com/artist/4onNuyvKATWgbRmIOGPPNv), [Char](https://open.spotify.com/artist/6M4HwfIjf33RNtOjq3pIzf), [Kyoji Yamamoto](https://open.spotify.com/artist/6ooCxd9UraYZd6PhE81ihr) | [Double Dealing Woman \(Special version\)](https://open.spotify.com/album/5CG7dNILgA79kP8ENoFKvg) | 5:12 | 2023-07-18 |  |
+| [Double Dealing Woman \- Special version](https://open.spotify.com/track/4xlyAMpR2EfjMzniF2NvsF) | [Murasaki](https://open.spotify.com/artist/0BsvYxgNA3g6Ko3Y00aFkv), [Char](https://open.spotify.com/artist/6M4HwfIjf33RNtOjq3pIzf), [Kyoji Yamamoto](https://open.spotify.com/artist/6ooCxd9UraYZd6PhE81ihr) | [Double Dealing Woman \(Special version\)](https://open.spotify.com/album/2glHMV3aHpm7b4b60J4DPw) | 5:12 | 2023-07-18 |  |
+| [Double Dealing Woman \- Special version](https://open.spotify.com/track/49831quLdIYoMxnpA1roBF) | [紫](https://open.spotify.com/artist/4onNuyvKATWgbRmIOGPPNv), [Char](https://open.spotify.com/artist/6M4HwfIjf33RNtOjq3pIzf), [Kyoji Yamamoto](https://open.spotify.com/artist/6ooCxd9UraYZd6PhE81ihr) | [Double Dealing Woman \(Special version\)](https://open.spotify.com/album/5CG7dNILgA79kP8ENoFKvg) | 5:12 | 2023-07-18 | 2023-07-20 |
 | [Drain Water](https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv) | [SHANK](https://open.spotify.com/artist/7xx0gYr6iMecpDbSynNzWF) | [STEADY](https://open.spotify.com/album/6a3SLIQtIoOTAUSRXRGq8w) | 2:11 | 2022-05-10 | 2023-05-12 |
 | [Dramatic](https://open.spotify.com/track/3pT5vtG177l2jrxpPy76jB) | [MASS OF THE FERMENTING DREGS](https://open.spotify.com/artist/14d5KCX9nprUcxnKIShrr1) | [Awakening:Sleeping](https://open.spotify.com/album/3CtgykVNQgaZ42o6f89PQy) | 3:47 | 2022-08-16 | 2023-06-28 |
 | [Dreaming of you](https://open.spotify.com/track/61AYCZrkESwuQKUULP0fgF) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [Dreaming of you](https://open.spotify.com/album/4QKClAPe6qbAsbioYnC20S) | 2:33 | 2022-05-10 | 2023-04-05 |
@@ -659,7 +661,7 @@
 | [物語のように](https://open.spotify.com/track/1B3x3AMvyCR1Ce5pjl56hM) | [Shintaro Sakamoto](https://open.spotify.com/artist/4U7i0wRZh9IIHbjuECMyIq) | [物語のように](https://open.spotify.com/album/5nCrvokzQ6dm6NhPLHZEAG) | 4:30 | 2022-05-19 | 2022-05-25 |
 | [瓶に入れた手紙](https://open.spotify.com/track/7EhW8U2IXJKE9eOIOu1NEx) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [The End of Yesterday](https://open.spotify.com/album/60ZYXQLKm2CcOrPD661eh9) | 3:46 | 2022-12-20 | 2023-03-27 |
 | [疾風怒濤](https://open.spotify.com/track/4JYrIuBfx1G0PjkMgapzsj) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [疾風怒濤](https://open.spotify.com/album/4dTOxbXSDpVGs4tR6ByCZQ) | 3:56 | 2022-05-10 | 2022-07-28 |
-| [痣花](https://open.spotify.com/track/6QfvqC4DiR8beMeRlh03o8) | [Plastic Tree](https://open.spotify.com/artist/5O4DsTkJ6z2eTSvIHZ6sDo) | [痣花](https://open.spotify.com/album/4rQf0w3pw3xTheLURpi0bB) | 5:52 | 2023-07-18 |  |
+| [痣花](https://open.spotify.com/track/6QfvqC4DiR8beMeRlh03o8) | [Plastic Tree](https://open.spotify.com/artist/5O4DsTkJ6z2eTSvIHZ6sDo) | [痣花](https://open.spotify.com/album/4rQf0w3pw3xTheLURpi0bB) | 5:52 | 2023-07-18 | 2023-07-20 |
 | [白](https://open.spotify.com/track/6v8y2xwJ1fEWfwYzO2BMeu) | [山内総一郎](https://open.spotify.com/artist/4UskpPBwqxbdjKYOVxSmp3) | [白](https://open.spotify.com/album/5CWAEKiWrNq2lvQ87R4TcD) | 5:03 | 2022-05-22 | 2022-07-27 |
 | [白い恋人達](https://open.spotify.com/track/5wfKPYODAr3aCGpOAopNZK) | [Keisuke Kuwata](https://open.spotify.com/artist/6YIqgghQqnkNne8BKQpW6v) | [白い恋人達](https://open.spotify.com/album/0eJgpR774HEMougzO27KpC) | 4:44 | 2022-11-22 | 2022-11-26 |
 | [白い紙飛行機](https://open.spotify.com/track/4jzo48ABs5PnEeQFoCVmtx) | [Magokoro Brothers](https://open.spotify.com/artist/7vDBc24PdLxDQEF6tGHnzM) | [白い紙飛行機](https://open.spotify.com/album/17YgrMGjan9sj159UUXWRO) | 3:40 | 2022-09-13 | 2022-09-28 |

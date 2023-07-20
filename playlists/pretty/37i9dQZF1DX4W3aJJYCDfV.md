@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from J Hus \(pictured\), Billie Eilish, Disclosure and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 834,916 likes - 130 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 834,943 likes - 130 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 10 | [Déjà Vu](https://open.spotify.com/track/1ofyA3yOVsQPQC3UnM6oIx) | [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3), [RiTchie](https://open.spotify.com/artist/7exHU37Tr2al1SGQDhqy3Z) | [Déjà Vu](https://open.spotify.com/album/0vhflFpjfFoc5idKhuw5Jw) | 2:51 |
 | 11 | [Troubled Waters](https://open.spotify.com/track/1Uuljx1HOfRmi3dvHJ6Yi6) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [Troubled Waters](https://open.spotify.com/album/4qGnakmFR0KXlnRoFgdb7h) | 3:54 |
 | 12 | [Scoreboard](https://open.spotify.com/track/1Dx7WrUk8TFGSuxKIRTAZO) | [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z), [Tiggs Da Author](https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT) | [Scoreboard](https://open.spotify.com/album/1vyZt4IduBURqZBerz1KUA) | 2:49 |
-| 13 | [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 |
+| 13 | [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 |
 | 14 | [What Do You Do?](https://open.spotify.com/track/2ZkYZj1DhaCbudwQf7eP3k) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [What Do You Do?](https://open.spotify.com/album/4QpZ6gFWGrDuPwByOcL6eU) | 3:10 |
 | 15 | [Pull Me Through](https://open.spotify.com/track/3l6RgZRKf4FfSc2FJlesEL) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Pull Me Through](https://open.spotify.com/album/74fPzfR0HUN9IFqgNlB1Ji) | 3:08 |
 | 16 | [Overdrive](https://open.spotify.com/track/3t0ic4mkhvhamrKDkulB8v) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Overdrive](https://open.spotify.com/album/4zHb7PAazMdVXw2sOCNJ1V) | 2:27 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 129 | [Faro Break](https://open.spotify.com/track/6UnbJeTAmgAimrDAZiDjQ6) | [DATSKO](https://open.spotify.com/artist/2b1Yc522In2BV3Q1fj2JzY) | [Faro Break](https://open.spotify.com/album/6OcxQNhA0oEVXUl8ipyhXt) | 5:36 |
 | 130 | [Imitate](https://open.spotify.com/track/47sMxb8rg2BWxMFtIoT0LA) | [Bava](https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U) | [Imitate](https://open.spotify.com/album/5urMxShvkeXU6IFlT33a2b) | 3:20 |
 
-Snapshot ID: `MCxmZTYwNWY5YjVkMGY3ZmQzY2NjZWIzNDQwY2IwY2E1OGNkNWU3NWE2`
+Snapshot ID: `MCxiM2FkMTU1ODlhY2ZiOWZkYWY1YWNiMzA2NzU4YjA2NTc2NTI2ZDZl`

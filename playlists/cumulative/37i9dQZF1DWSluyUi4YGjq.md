@@ -4,7 +4,7 @@
 
 > Gazing at pedals, soaring celestially high\. Slowdive on cover.
 
-385 songs - 1 day 1 hr 48 min
+386 songs - 1 day 1 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,7 +366,7 @@
 | [violence ii](https://open.spotify.com/track/5WVIDVgQfb3zO3IPRzNP1n) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [s](https://open.spotify.com/album/3Lj48iwzK7wF0oT4KCsDtV) | 2:43 | 2023-02-17 |  |
 | [Violet Blue](https://open.spotify.com/track/5h592bSBKLYagMFHZFhmiO) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [Violet Blue](https://open.spotify.com/album/57HFG0erzR0TqzULOVI3X4) | 4:24 | 2021-10-19 | 2022-08-04 |
 | [Violet Blue](https://open.spotify.com/track/6rnrsEZeAMsSl7biIauLSt) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [Violet Blue](https://open.spotify.com/album/6IPvQyKAQR7Ijmhwkd8oN4) | 4:24 | 2021-10-19 | 2022-07-29 |
-| [Virgo](https://open.spotify.com/track/555j37nNg3zppVNEBXHsAV) | [Bug Teeth](https://open.spotify.com/artist/3b90Lpnlon3MrNSPo1a0VD) | [Lucky Me, Lucky Mud](https://open.spotify.com/album/3kYFCZhHZEhPGdMYj12blw) | 3:28 | 2023-03-10 |  |
+| [Virgo](https://open.spotify.com/track/555j37nNg3zppVNEBXHsAV) | [Bug Teeth](https://open.spotify.com/artist/3b90Lpnlon3MrNSPo1a0VD) | [Lucky Me, Lucky Mud](https://open.spotify.com/album/3kYFCZhHZEhPGdMYj12blw) | 3:28 | 2023-03-10 | 2023-07-20 |
 | [Wait Up](https://open.spotify.com/track/79uDI5OnWIIj4Za02naBzE) | [Gloomer](https://open.spotify.com/artist/4SifZryJ3Vo6oijPAWTYas) | [Wait Up](https://open.spotify.com/album/4ZVhySJ3eOpZtRVcg2MPDR) | 2:53 | 2022-08-31 | 2022-09-29 |
 | [Wanting War](https://open.spotify.com/track/1hFjYgyZe58ZTNBK4mX6m1) | [Soft Kill](https://open.spotify.com/artist/58rIPw8uw8LW01eQH7Mi7m) | [Dead Kids R.I.P\. City](https://open.spotify.com/album/09GvIBV4cQDhvlL8rzTIy3) | 3:36 | 2021-10-19 | 2022-12-16 |
 | [Waste My Mind](https://open.spotify.com/track/6NP8HBlNKQzsq8K9O5dK0f) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [Waste My Mind](https://open.spotify.com/album/6HO2c5VcuxYJ8Akh9N0HUT) | 2:42 | 2023-06-16 | 2023-06-21 |
@@ -389,6 +389,7 @@
 | [You Lose!](https://open.spotify.com/track/6b39rpIiepKunZyFHwugZQ) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [You Lose!](https://open.spotify.com/album/2G1sZOFy7ReEHTLgpY5wzh) | 3:24 | 2021-10-19 | 2022-07-29 |
 | [Young Adult Friction](https://open.spotify.com/track/6DQdSxAihGualboMJt2vcg) | [The Pains Of Being Pure At Heart](https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek) | [The Pains of Being Pure at Heart](https://open.spotify.com/album/02JZJfj0sLbHBVRNi232XI) | 4:03 | 2021-10-19 | 2023-02-10 |
 | [Young Adult Friction](https://open.spotify.com/track/1FsvfszJ09tqBcino2JfCb) | [The Pains Of Being Pure At Heart](https://open.spotify.com/artist/3zmmBJseZelpVEHj8S6Dek) | [The Pains Of Being Pure At Heart](https://open.spotify.com/album/5uWuwlHON5texRWxdgtiS2) | 4:07 | 2021-10-19 | 2022-07-28 |
+| [Youngest Daughter](https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 4:09 | 2023-07-19 |  |
 | [Your face](https://open.spotify.com/track/5MRWG1owcChqkYFIzsYlMb) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Your face](https://open.spotify.com/album/6Bg53e6IAblHuVzRpESFvj) | 3:47 | 2023-05-24 |  |
 | [youth+](https://open.spotify.com/track/5mp28cmHRbaFqZI2p7OrVo) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | ["XCAPE", PT\. 1 JEAN DAWSON AS "PHOENIX"](https://open.spotify.com/album/35t22RmD7ABTV5HPA8bYeV) | 2:45 | 2023-05-12 |  |
 | [Песня о привязанности](https://open.spotify.com/track/3hezVtcUqncXSpBbV4dTCQ) | [Автоспорт](https://open.spotify.com/artist/17mNgaLxdoKUkbRNmiFFhE) | [Береги себя](https://open.spotify.com/album/1KbNZVoTjxjvC5uHS7CZMY) | 3:07 | 2022-12-15 | 2023-03-25 |

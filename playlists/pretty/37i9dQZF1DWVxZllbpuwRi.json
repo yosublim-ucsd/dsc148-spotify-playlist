@@ -1,12 +1,12 @@
 {
   "description": "Aqui o ver\u00e3o dura 365 dias! Passe o protetor solar, aumente o som e aperte o play!",
-  "num_followers": 628400,
+  "num_followers": 628383,
   "original_name": "Ver\u00e3o Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlN2RhMTY4NDhhNzUzNTNmNjM2MzczYTg2MjhlMTVlYjE5NWE1MTM4",
+  "snapshot_id": "MCwyMzQ3ODdlODFjN2YwZjlhN2FkZDc1MWJjYTlhYzU3Yjc1ZWUyMWI3",
   "tracks": [
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1315,26 +1315,6 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "Favela",
-        "url": "https://open.spotify.com/album/1s7ZwUeLcKAM4GqHY6PHcQ"
-      },
-      "artists": [
-        {
-          "name": "Ina Wroldsen",
-          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
-        },
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        }
-      ],
-      "duration_ms": 185104,
-      "name": "Favela",
-      "url": "https://open.spotify.com/track/0pKMDhDrQExUqF6SxUpTpb"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
         "name": "Carita Linda",
         "url": "https://open.spotify.com/album/1jUiXH21xkPzuRFI6Cghxu"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 227513,
       "name": "Angelito",
       "url": "https://open.spotify.com/track/5zm5Ra1DVCmujK882R7QSP"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
+        "name": "Favela",
+        "url": "https://open.spotify.com/album/1s7ZwUeLcKAM4GqHY6PHcQ"
+      },
+      "artists": [
+        {
+          "name": "Ina Wroldsen",
+          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "duration_ms": 185104,
+      "name": "Favela",
+      "url": "https://open.spotify.com/track/0pKMDhDrQExUqF6SxUpTpb"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -2007,26 +2007,6 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "CHAMA MEU NOME",
-        "url": "https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1"
-      },
-      "artists": [
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        }
-      ],
-      "duration_ms": 166400,
-      "name": "FORASTEIRO",
-      "url": "https://open.spotify.com/track/0Q42wrYlyvS9pBfBRuE5Dp"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
         "name": "Blue Sky",
         "url": "https://open.spotify.com/album/4LRZwEWDj6xdgFk8OBydmt"
       },
@@ -2043,6 +2023,26 @@
       "duration_ms": 201707,
       "name": "Blue Sky",
       "url": "https://open.spotify.com/track/4uK2F0ZB7ac1C296tWxwu8"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
+        "name": "CHAMA MEU NOME",
+        "url": "https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1"
+      },
+      "artists": [
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "duration_ms": 166400,
+      "name": "FORASTEIRO",
+      "url": "https://open.spotify.com/track/0Q42wrYlyvS9pBfBRuE5Dp"
     },
     {
       "added_at": "2023-02-17 03:00:00",

@@ -142,7 +142,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 497740,
       "name": "Am Rande der Dunkelheit",
       "url": "https://open.spotify.com/track/0ZnZp0Fo1Gxwx8dC8ol65F"
@@ -3038,7 +3038,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 363226,
       "name": "Hamartia",
       "url": "https://open.spotify.com/track/1pcwGdh6W1CX3i1oSgBSrA"
@@ -3135,6 +3135,24 @@
     },
     {
       "album": {
+        "name": "He Was a Good Man, He Was a Taxpayer",
+        "url": "https://open.spotify.com/album/11ytiC7J5KOK99Tp80uFGW"
+      },
+      "artists": [
+        {
+          "name": "KEN Mode",
+          "url": "https://open.spotify.com/artist/3I33pakU01BuYZ5UyQ2A0i"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304826,
+      "name": "He Was a Good Man, He Was a Taxpayer",
+      "url": "https://open.spotify.com/track/3doMKklOpBPLGBNHOhZO70"
+    },
+    {
+      "album": {
         "name": "Istok",
         "url": "https://open.spotify.com/album/6ZjiERTM8gvDyJFc49g4P9"
       },
@@ -3168,6 +3186,24 @@
       "duration_ms": 289133,
       "name": "Heavy Friends",
       "url": "https://open.spotify.com/track/2VEamv1GrepvxhStHkZAwE"
+    },
+    {
+      "album": {
+        "name": "Hell On Four Wheels",
+        "url": "https://open.spotify.com/album/4VqdaBRmNPTtFrAQIbpBo7"
+      },
+      "artists": [
+        {
+          "name": "Warmen",
+          "url": "https://open.spotify.com/artist/28pvPjZ2n9xUBEHnMgupmh"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219653,
+      "name": "Hell On Four Wheels",
+      "url": "https://open.spotify.com/track/6l4T6o2tH14GXfDBXOFW5C"
     },
     {
       "album": {
@@ -5822,7 +5858,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-15",
+      "date_removed": null,
       "duration_ms": 405866,
       "name": "Satan's Hunger",
       "url": "https://open.spotify.com/track/55ODw6itzdoQaHN6LjD3qS"
@@ -7638,7 +7674,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 353645,
       "name": "Warriors",
       "url": "https://open.spotify.com/track/2hqWQD8NaFvFJTDzVvON72"

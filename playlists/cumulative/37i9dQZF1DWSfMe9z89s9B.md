@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Jamila Woods
 
-896 songs - 2 day 0 hr 24 min
+897 songs - 2 day 0 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -502,6 +502,7 @@
 | [Midnight](https://open.spotify.com/track/6Gh6lzW6QeiXkFSfsvNS0b) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/5BAukn6AWk5tubfqjtN8gd) | 5:14 | 2022-04-01 | 2022-04-15 |
 | [Midnight](https://open.spotify.com/track/7pnVHbcqbmP7LA1ey3ydvu) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 5:14 | 2022-06-10 | 2022-08-06 |
 | [Midnight Charm](https://open.spotify.com/track/4KvwFkvB19nL2hWM096blY) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Midnight Charm](https://open.spotify.com/album/7IKdNQ7VckGnLhnp0y2eL2) | 2:58 | 2021-06-18 | 2022-04-26 |
+| [Mile End \- A COLORS SHOW](https://open.spotify.com/track/6mASxVYgPVdBdtAFxZZO21) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Mile End \- A COLORS SHOW](https://open.spotify.com/album/0KrUum0XYaw2JEErYAxLBE) | 2:33 | 2023-07-07 |  |
 | [Mine](https://open.spotify.com/track/1IxfE1rd0ngSFP8MSqYiv0) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Mine](https://open.spotify.com/album/0RJkdbyHeLAxKXCzIrpyOj) | 3:32 | 2021-03-19 | 2022-01-29 |
 | [mine](https://open.spotify.com/track/11Alrz5mSQvQNt6VYtCh4t) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0), [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi) | [soft thing](https://open.spotify.com/album/1iBeLmJBT417B8XHmIuctN) | 3:58 | 2021-06-25 | 2022-07-28 |
 | [Minotaur](https://open.spotify.com/track/0JPVY47L4Dwi0kjbVbEO6a) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Minotaur](https://open.spotify.com/album/7dHYk2N7AgCFh1eAfHpGlz) | 4:38 | 2022-04-01 | 2022-04-13 |
@@ -560,7 +561,7 @@
 | [On A Wave](https://open.spotify.com/track/4MDXu1BLDQ1ohHSCkl1AeE) | [Zilo](https://open.spotify.com/artist/3fcW2V4zOfFm0IsWCJUuzz), [El Train](https://open.spotify.com/artist/5q4pPTzefHs5kUuBSQSHbJ) | [On A Wave](https://open.spotify.com/album/5eAUBYI8HfXSV0WQCMD4Vz) | 2:46 | 2021-03-19 | 2022-01-19 |
 | [On God](https://open.spotify.com/track/6kW8TpvXiTp3Hwlx1JEpct) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Before I Speak](https://open.spotify.com/album/3ugySzNaCgNHNsxJXcqBa5) | 2:32 | 2021-03-19 | 2022-01-15 |
 | [On My Way](https://open.spotify.com/track/3RhEOUwqyGU0nKZ0AYgWSe) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy) | [On My Way](https://open.spotify.com/album/1t75KQZ01Bh6YrmBuqrLQs) | 2:43 | 2022-07-15 | 2022-08-20 |
-| [On My Way](https://open.spotify.com/track/1JrcjXpkAEIALeX9tqIAVA) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [On My Way](https://open.spotify.com/album/47fQUDWGQ9i5V4jp8zpKfT) | 3:00 | 2023-03-10 |  |
+| [On My Way](https://open.spotify.com/track/1JrcjXpkAEIALeX9tqIAVA) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [On My Way](https://open.spotify.com/album/47fQUDWGQ9i5V4jp8zpKfT) | 3:00 | 2023-03-10 | 2023-07-20 |
 | [On the Run](https://open.spotify.com/track/3IlfKc2D6TxTkWTX3xWsLt) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [On The Run](https://open.spotify.com/album/48fMFnwmGaqqt3iWtsoeH0) | 4:52 | 2022-11-18 | 2023-02-02 |
 | [On the Run](https://open.spotify.com/track/3vLUF1d9nsTP1zPGR5fIHN) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [On The Run](https://open.spotify.com/album/4pifFgf7SHj92WNg0g8HzG) | 4:52 | 2022-11-18 | 2023-02-13 |
 | [On the Run](https://open.spotify.com/track/4N9CjZCmixsudkya5a7MtW) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 4:52 | 2022-11-18 |  |

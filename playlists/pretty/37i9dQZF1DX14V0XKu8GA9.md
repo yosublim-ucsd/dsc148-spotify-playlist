@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos in Hip\-Hop from the U.S.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,018 likes - 30 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,042 likes - 30 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Gangsta Funktion \- Remix](https://open.spotify.com/track/77Xk5jfJbFFZIvqdLmCqgU) | [King Lil G](https://open.spotify.com/artist/6L3x3if9RVimruryD9LoFb), [Young Drummer Boy](https://open.spotify.com/artist/29AiXKmv12zkDsiVwzTDng) | [Gangsta Funktion \(Remix\)](https://open.spotify.com/album/0XBexpmsFCalxURogbHfJd) | 2:05 |
 | 2 | [Villain](https://open.spotify.com/track/0YPhOZrQjPdronY81nCO88) | [Conejo](https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j) | [Villain](https://open.spotify.com/album/4ddhv4i8wjaBfZWAN4g5LC) | 2:45 |
 | 3 | [Energy](https://open.spotify.com/track/4zvLzZLqsrWV1ehOnZSN3i) | [Chito Rana$](https://open.spotify.com/artist/7GZ4lesJqy9GNDhGORezoz) | [Energy](https://open.spotify.com/album/6vOJIzYk8BdX2c7BRgAMqY) | 3:07 |
-| 4 | [Already Rich](https://open.spotify.com/track/61eJ7HqXGyHfmHIqJApX7v) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Already Rich](https://open.spotify.com/album/6K1GUtpgDr2wYCnKf1JOed) | 2:25 |
-| 5 | [Johnny Dang \(with Paul Wall & DRODi\)](https://open.spotify.com/track/1kwPxt35W7cG3rryxR48PO) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [DRODi](https://open.spotify.com/artist/7xsuKSqVVN2JzUIpZV0GeW) | [Johnny Dang \(with Paul Wall & DRODi\)](https://open.spotify.com/album/005G0y1M64Y9LmPRuHcD0U) | 3:12 |
+| 4 | [Johnny Dang \(with Paul Wall & DRODi\)](https://open.spotify.com/track/1kwPxt35W7cG3rryxR48PO) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [DRODi](https://open.spotify.com/artist/7xsuKSqVVN2JzUIpZV0GeW) | [Johnny Dang \(with Paul Wall & DRODi\)](https://open.spotify.com/album/005G0y1M64Y9LmPRuHcD0U) | 3:12 |
+| 5 | [Already Rich](https://open.spotify.com/track/61eJ7HqXGyHfmHIqJApX7v) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Already Rich](https://open.spotify.com/album/6K1GUtpgDr2wYCnKf1JOed) | 2:25 |
 | 6 | [Apologies](https://open.spotify.com/track/0E1xO4LIXWBRxSaKVtls87) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [Apologies](https://open.spotify.com/album/3AhD9hkjE5CNI5fwA8iqOP) | 3:10 |
 | 7 | [Glock N Switches \(with DJ Drama\)](https://open.spotify.com/track/3054AeRkauPqoSjtxGHE3z) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [Gangsta Grillz: Mvrda Gvng](https://open.spotify.com/album/47SL6DJhs2qlFnP1CyCeos) | 2:56 |
 | 8 | [Down](https://open.spotify.com/track/0bETxFfD6956IoJfW5gEjz) | [Lil Maru](https://open.spotify.com/artist/6tfVJrqicGpxRbz7q6NJ0L) | [Down](https://open.spotify.com/album/6UN87ZXkg9pMcj4CvZ3PT3) | 1:49 |
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 26 | [Hometown \- Remix](https://open.spotify.com/track/7sqjINADShaCnrTjYvTpHj) | [Conejo](https://open.spotify.com/artist/3mndTMiP2EOug7cIjq177j), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [TEDIOUS](https://open.spotify.com/artist/1SVFYOra8X1PkHxidibFAV) | [Hometown \(Remix\)](https://open.spotify.com/album/6hhnhx8RqgkpvGtRlRoU1j) | 2:36 |
 | 27 | [Pozole](https://open.spotify.com/track/5gmXbYlKOJAZC8B3ZQsqBk) | [Kap G](https://open.spotify.com/artist/6JvU33PZ8MtZyeFTESr09O), [Brick Wolfpack](https://open.spotify.com/artist/7e4uf2N5gWV3z9yLRhRMUe), [Peso Peso](https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj) | [Pozole](https://open.spotify.com/album/7iXpohH3LXJ4oBs9drIEE3) | 2:28 |
 | 28 | [FENDI](https://open.spotify.com/track/0R810JwhuTEiU495n620FZ) | [Krystall Poppin](https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC) | [FENDI](https://open.spotify.com/album/6pq5JEiCrgTAvuONw4xWWn) | 2:11 |
-| 29 | [Are We Really Free](https://open.spotify.com/track/3XDJen8F9IIGdBNJp5SheH) | [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co), [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Are We Really Free](https://open.spotify.com/album/0bHzwbqG82wGGuxqSq9JRO) | 4:47 |
-| 30 | [What It Takes](https://open.spotify.com/track/0Kp6qc08PPUKw9VLWuknAT) | [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D), [Paul Wall](https://open.spotify.com/artist/1ANtdpqM2CM6NRoiD5ffS9) | [What It Takes](https://open.spotify.com/album/05IhGWbXt3O7Ny3GZxKqX0) | 2:29 |
+| 29 | [What It Takes](https://open.spotify.com/track/0Kp6qc08PPUKw9VLWuknAT) | [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D), [Paul Wall](https://open.spotify.com/artist/1ANtdpqM2CM6NRoiD5ffS9) | [What It Takes](https://open.spotify.com/album/05IhGWbXt3O7Ny3GZxKqX0) | 2:29 |
+| 30 | [Are We Really Free](https://open.spotify.com/track/3XDJen8F9IIGdBNJp5SheH) | [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co), [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Are We Really Free](https://open.spotify.com/album/0bHzwbqG82wGGuxqSq9JRO) | 4:47 |
 
-Snapshot ID: `MCxkMWYzMjE2ZTAwMzUxYzA2NmFjMDY0YjZmZWU4ZGRlMzNlMGE2ZDlj`
+Snapshot ID: `MCw3ZDg5NjNkZWM1Y2QyZTZhNmEyNmRmNjEyMTczODZhYzQ4NWVmYTU3`

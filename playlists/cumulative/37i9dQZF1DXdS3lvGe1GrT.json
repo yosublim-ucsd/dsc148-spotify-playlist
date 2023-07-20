@@ -178,7 +178,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 215426,
       "name": "A Feeling Called Lonesome",
       "url": "https://open.spotify.com/track/5IRqdOZB27vDFyxZrEeMzW"
@@ -546,7 +546,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 237473,
       "name": "all the time",
       "url": "https://open.spotify.com/track/4F1VPmnGNgqm0IYCQbxZAc"
@@ -636,7 +636,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 318916,
       "name": "Altar",
       "url": "https://open.spotify.com/track/1ZWAUuIKdEbe9VkcVpITJt"
@@ -787,6 +787,24 @@
     },
     {
       "album": {
+        "name": "Angel / Pick Me Up, Turn Me Upside Down",
+        "url": "https://open.spotify.com/album/6T1wxzzmOPB2wvVaQRGlvx"
+      },
+      "artists": [
+        {
+          "name": "Another Michael",
+          "url": "https://open.spotify.com/artist/4I29IR2MABOOQXGDdcYA2q"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226706,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/73XoWWr52ufo6IVAKOFlUC"
+    },
+    {
+      "album": {
         "name": "Angels Bowling",
         "url": "https://open.spotify.com/album/18IQDpZlz1jlYmnKy3graV"
       },
@@ -802,6 +820,24 @@
       "duration_ms": 138673,
       "name": "Angels Bowling",
       "url": "https://open.spotify.com/track/6i7nxi0UXihzEUoIaU9Mku"
+    },
+    {
+      "album": {
+        "name": "Animals",
+        "url": "https://open.spotify.com/album/387LkgkeFUsLkZc1U334RA"
+      },
+      "artists": [
+        {
+          "name": "Bastien Keb",
+          "url": "https://open.spotify.com/artist/3TVzK3Dw7UCXu2cEUEUj2x"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Animals",
+      "url": "https://open.spotify.com/track/2Hb1MzvICiLy239VWhBJPT"
     },
     {
       "album": {
@@ -928,7 +964,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 196278,
       "name": "Arkansas",
       "url": "https://open.spotify.com/track/053NeBCwPuKf7igx361GSL"
@@ -1750,7 +1786,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 249434,
       "name": "Can't Remember Happiness",
       "url": "https://open.spotify.com/track/5rgWrRHV3nivcGUhN6Larx"
@@ -4731,6 +4767,24 @@
     },
     {
       "album": {
+        "name": "Do A U E!",
+        "url": "https://open.spotify.com/album/3zKB9tOgVPJvww8ASi86UP"
+      },
+      "artists": [
+        {
+          "name": "Batty Jr.",
+          "url": "https://open.spotify.com/artist/2VYqve4kXlLX4OCB2xypHY"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115520,
+      "name": "Frandship Song",
+      "url": "https://open.spotify.com/track/2o8eORg7cVQnJly8TWxqx3"
+    },
+    {
+      "album": {
         "name": "Big in the USA",
         "url": "https://open.spotify.com/album/2EdNo7ykBjuHpFFx28O4dY"
       },
@@ -5109,6 +5163,24 @@
     },
     {
       "album": {
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/17nX6kQe2M2xM4fjpg6P9P"
+      },
+      "artists": [
+        {
+          "name": "Jules Olson",
+          "url": "https://open.spotify.com/artist/7MSHbuGM1HwwXpys6YpuA0"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232856,
+      "name": "Good Thing",
+      "url": "https://open.spotify.com/track/7hP9MILKl6QSI6eHlCtVC9"
+    },
+    {
+      "album": {
         "name": "Good Times are Hard to Fake",
         "url": "https://open.spotify.com/album/418T58xkec11QmDcwWhMfw"
       },
@@ -5316,7 +5388,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 210000,
       "name": "Grow",
       "url": "https://open.spotify.com/track/4dk0RxIacYPK5ue3RkK9Ih"
@@ -6658,6 +6730,24 @@
       "duration_ms": 290132,
       "name": "j's lullaby (darlin' i'd wait for you)",
       "url": "https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o"
+    },
+    {
+      "album": {
+        "name": "jane",
+        "url": "https://open.spotify.com/album/0E4Zg3sGwKwB4yBFFH8dIO"
+      },
+      "artists": [
+        {
+          "name": "Truman Sinclair",
+          "url": "https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "jane",
+      "url": "https://open.spotify.com/track/7jSXAEb7AKi1AZW4tOtFNG"
     },
     {
       "album": {
@@ -8190,6 +8280,24 @@
       "duration_ms": 179523,
       "name": "Moms Song",
       "url": "https://open.spotify.com/track/4t0qpQnjzOJLnbZMGw0nvy"
+    },
+    {
+      "album": {
+        "name": "Monogamy",
+        "url": "https://open.spotify.com/album/7hyiz1gYHPxc6WtJbJXcKl"
+      },
+      "artists": [
+        {
+          "name": "Taylah Carroll",
+          "url": "https://open.spotify.com/artist/5rrjNgalPfM94jRqm5RpFk"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205994,
+      "name": "Monogamy",
+      "url": "https://open.spotify.com/track/06FbMlhYsa4b97N1LUgAm8"
     },
     {
       "album": {
@@ -9800,7 +9908,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 179323,
       "name": "Promise",
       "url": "https://open.spotify.com/track/33xKazD1pl1Qm1w1H6hWEa"
@@ -9948,6 +10056,24 @@
       "duration_ms": 290706,
       "name": "Rebound",
       "url": "https://open.spotify.com/track/7ij9YUpNZYy1DpfRj8IiIV"
+    },
+    {
+      "album": {
+        "name": "Red Neck Yaught Club",
+        "url": "https://open.spotify.com/album/2cjhzkb743LHhIcyRFMIui"
+      },
+      "artists": [
+        {
+          "name": "Louisa Stancioff",
+          "url": "https://open.spotify.com/artist/57bd2dcysq88J5fleUcS57"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189169,
+      "name": "Red Neck Yaught Club",
+      "url": "https://open.spotify.com/track/39KGtlVBMQueYRKrGEDLHX"
     },
     {
       "album": {
@@ -11739,6 +11865,24 @@
     },
     {
       "album": {
+        "name": "Closer to the Bugs",
+        "url": "https://open.spotify.com/album/1qHR5exrMNcopkG74cWd8r"
+      },
+      "artists": [
+        {
+          "name": "Ava McCoy",
+          "url": "https://open.spotify.com/artist/1Hx2MmCDbn7kdUG70WT0xc"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121836,
+      "name": "The Great Equalizer",
+      "url": "https://open.spotify.com/track/2UxYjbXjsBvpgl5iSi0l4i"
+    },
+    {
+      "album": {
         "name": "Woman in Color",
         "url": "https://open.spotify.com/album/1VFybOfoUaQexs9OTabswg"
       },
@@ -11930,7 +12074,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 268250,
       "name": "The Waterford Song",
       "url": "https://open.spotify.com/track/08jiWnGXjMlBl2q4tgT53L"
@@ -12351,6 +12495,24 @@
     },
     {
       "album": {
+        "name": "Underdogs",
+        "url": "https://open.spotify.com/album/1Ck8vQiQptvphCgMMVRJTj"
+      },
+      "artists": [
+        {
+          "name": "His His",
+          "url": "https://open.spotify.com/artist/2TMWd2oE1MAzSt4V10lnVO"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181720,
+      "name": "Underdogs",
+      "url": "https://open.spotify.com/track/2DXCuZniSyeNnasWrcgtgj"
+    },
+    {
+      "album": {
         "name": "Unglow The",
         "url": "https://open.spotify.com/album/6LfVYMRFPAAmkg1YNbL9UJ"
       },
@@ -12503,6 +12665,24 @@
     },
     {
       "album": {
+        "name": "Walk Away",
+        "url": "https://open.spotify.com/album/2rjxMMrjeTFgorZ1F4wCnd"
+      },
+      "artists": [
+        {
+          "name": "buffchick",
+          "url": "https://open.spotify.com/artist/0bySwTrRN75nqs2vLS00zn"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232865,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/72SxbJ4G1EZvVwQUqLT96X"
+    },
+    {
+      "album": {
         "name": "Impermanence",
         "url": "https://open.spotify.com/album/43KzRiTjzUvIGSbmSx1J3C"
       },
@@ -12604,7 +12784,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 231346,
       "name": "Watch The Angel Go",
       "url": "https://open.spotify.com/track/2W7OhjLlzQMrO9YMSDd0ro"
@@ -12928,7 +13108,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 167604,
       "name": "Whiplash",
       "url": "https://open.spotify.com/track/1P46DYGK9HcpohUwwWP6Co"

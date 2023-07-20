@@ -4,11 +4,12 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-860 songs - 2 day 5 hr 15 min
+864 songs - 2 day 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\#Vaporwave](https://open.spotify.com/track/2wKlJqTaV4xqvt7iMpRmfc) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [\#Vaporwave](https://open.spotify.com/album/782Ef4moKZo0Zxz4TnSUCY) | 3:06 | 2023-07-18 |  |
+| [\#Vaporwave](https://open.spotify.com/track/1vpLKf5eWGUFqTshcuL00R) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [\#Vaporwave](https://open.spotify.com/album/1qndI2fmhuy97xTGOV0XyV) | 3:06 | 2023-07-18 |  |
+| [\#Vaporwave](https://open.spotify.com/track/2wKlJqTaV4xqvt7iMpRmfc) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [\#Vaporwave](https://open.spotify.com/album/782Ef4moKZo0Zxz4TnSUCY) | 3:06 | 2023-07-18 | 2023-07-20 |
 | [1/2 SLEEP \-半分寝てる\-](https://open.spotify.com/track/5Fm7NT5HjWONIM00j8ht2R) | [蓮沼執太フィル](https://open.spotify.com/artist/3l4KxDy6jXb9KjUhShbRR5) | [1/2 SLEEP \-半分寝てる\-](https://open.spotify.com/album/7zD8nN4p6Qsvg0E8CLPH7Y) | 2:51 | 2023-02-14 | 2023-02-22 |
 | [10000回のL.O.V.E\. <3](https://open.spotify.com/track/4NenrnLwNcpnvZqxpj4ivi) | [Mega Shinnosuke](https://open.spotify.com/artist/72owWXEwmyfKq3ajrajPAN) | [10000回のL.O.V.E\. <3](https://open.spotify.com/album/3Na0PrQ0J4tMJzRLrLcnaS) | 4:16 | 2022-06-29 | 2022-07-29 |
 | [1989's](https://open.spotify.com/track/1maEK0VKEFEGpP1QXmZb1R) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [1989's](https://open.spotify.com/album/14984DgT52EAK32llFN3w6) | 4:37 | 2022-05-26 | 2022-07-20 |
@@ -289,7 +290,8 @@
 | [Japanalog](https://open.spotify.com/track/6UvaD6jmG8NDUs5j0F0w6f) | [TESTSET](https://open.spotify.com/artist/5yNHyOo143SXywbGvCAXhD) | [1STST](https://open.spotify.com/album/2rrNP1v4yTJDxK4NdYAiZt) | 4:01 | 2023-07-11 |  |
 | [Jiga](https://open.spotify.com/track/5QrWk9AASs5BL65xYGlUhH) | [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR), [DJ SCRATCH NICE](https://open.spotify.com/artist/0MfeTyPtbuue9oZFIMD2wY) | [Jiga](https://open.spotify.com/album/6Lep1pUvwGR0SNhYRuE23m) | 4:03 | 2023-01-17 | 2023-04-05 |
 | [JUICY 2023](https://open.spotify.com/track/19i6b6c6C0UJ1OnHpBT6nJ) | [BAKU](https://open.spotify.com/artist/6UJ9anFCTizsVkXHg1uKgW), [chinzadopeness](https://open.spotify.com/artist/6DGXrg6MMq5E5rptfiMaNa), [CHAN\-MIKA](https://open.spotify.com/artist/1buzD2EAwSbAdZJHzcSjvw) | [JUICY 2023](https://open.spotify.com/album/19AO1LKYhDm0qfaq9l6WyG) | 3:47 | 2023-02-14 | 2023-02-22 |
-| [Jurassic](https://open.spotify.com/track/0okYcNqMBFmSwf2xeECPpd) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Jurassic](https://open.spotify.com/album/6XDBprGtBpzB7t0dHP85fs) | 2:57 | 2023-07-18 |  |
+| [Jurassic](https://open.spotify.com/track/0okYcNqMBFmSwf2xeECPpd) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Jurassic](https://open.spotify.com/album/6XDBprGtBpzB7t0dHP85fs) | 2:57 | 2023-07-18 | 2023-07-20 |
+| [Jurassic](https://open.spotify.com/track/7HcpoYSDvOks6YAE2A3JQn) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Jurassic](https://open.spotify.com/album/6dgCSpkDbi4Y4WJpC24nZ8) | 2:57 | 2023-07-18 |  |
 | [Just a moment](https://open.spotify.com/track/4B2duCzao3lvUAtex1R3CC) | [showmore](https://open.spotify.com/artist/5iISQR00Eel3mcB8eKlsRt), [Gimgigam](https://open.spotify.com/artist/1LHF7KKnogex2qYTumsGiY) | [Just a moment](https://open.spotify.com/album/5BPLqZrd0YicrOFMCWLlkv) | 3:22 | 2022-09-06 | 2022-10-26 |
 | [Just Wanna Live It Up](https://open.spotify.com/track/5cqsYIfTp31RBjyJURiku7) | [Sugar House](https://open.spotify.com/artist/688OLNQQtC0VGgYhVXCYVP) | [Just Wanna Live It Up](https://open.spotify.com/album/0ZovDMTQVxsIrCBffLVH49) | 4:46 | 2023-04-04 | 2023-04-12 |
 | [KANATA HALUKA](https://open.spotify.com/track/1ycf4u2wapkaVFHzScFmOv) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [KANATA HALUKA](https://open.spotify.com/album/46Oy9uAwHtsU4nQ4u0py9p) | 5:55 | 2022-10-27 | 2022-11-14 |
@@ -423,7 +425,8 @@
 | [Pacific Line](https://open.spotify.com/track/6yN1zbeAA8idD6IktDlEsi) | [Kidella](https://open.spotify.com/artist/3eCZ7jkNialvGc9YlHqWnE) | [Pacific Line](https://open.spotify.com/album/2RhKOKETT4qfGytcvGLqJx) | 4:11 | 2023-03-14 |  |
 | [PANORAMA WORLD](https://open.spotify.com/track/70rnHbHv0WkMF8oQgIrVDL) | [age](https://open.spotify.com/artist/4LUAh1USHuVZQZsEuovdLg) | [PANORAMA WORLD](https://open.spotify.com/album/0UAkGtvWjdX3SFoJnOh9Zx) | 4:33 | 2023-01-24 | 2023-02-15 |
 | [paradigm](https://open.spotify.com/track/7BDrycurDMB2OB5XSIQIWE) | [ame\_no\_parade](https://open.spotify.com/artist/5KSkFct0RkJYwStW7FGt28) | [paradigm](https://open.spotify.com/album/13usXSkWfKYDgD16x04n6M) | 3:33 | 2023-01-17 | 2023-03-15 |
-| [Paris feat\. YELLOW黃宣](https://open.spotify.com/track/7wMrtVG3PZEdJ5RGxGrCGz) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [YELLOW黃宣](https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM) | [Paris feat\. YELLOW黃宣](https://open.spotify.com/album/7dhqMV1UZ2D91FYikzFAwA) | 2:51 | 2023-07-18 |  |
+| [Paris feat\. YELLOW Huang Hsuan](https://open.spotify.com/track/6zBZytsj3jzGJa8SFlyfKZ) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [YELLOW黃宣](https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM) | [Paris feat\. YELLOW Huang Hsuan](https://open.spotify.com/album/4ADi6WTvZ4aXxwTNVjPpxj) | 2:51 | 2023-07-18 |  |
+| [Paris feat\. YELLOW黃宣](https://open.spotify.com/track/7wMrtVG3PZEdJ5RGxGrCGz) | [haruno](https://open.spotify.com/artist/0e38gC4yKt5f26icSfhP5u), [YELLOW黃宣](https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM) | [Paris feat\. YELLOW黃宣](https://open.spotify.com/album/7dhqMV1UZ2D91FYikzFAwA) | 2:51 | 2023-07-18 | 2023-07-20 |
 | [Passione](https://open.spotify.com/track/5kv3DjlfH5GLQAKHOsS7zv) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [Passione](https://open.spotify.com/album/1Lwc4869UaEXBv52G5yuUF) | 3:52 | 2023-06-01 |  |
 | [PATERSON](https://open.spotify.com/track/6sRmxO2jePREOaopMrQMZU) | [deadbundy](https://open.spotify.com/artist/0eyCHQwNGUndO4YsFz0Ns1) | [PATERSON](https://open.spotify.com/album/4ABSeOr9G5MWS2FKJhmAso) | 5:24 | 2023-06-27 | 2023-07-05 |
 | [Pearl](https://open.spotify.com/track/2m8m4d1g1bTdBRzduDnJqB) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [Pearl](https://open.spotify.com/album/5385uAAUhqqZOiTkgOFSuz) | 4:01 | 2022-07-26 | 2022-09-09 |
@@ -439,7 +442,8 @@
 | [Polaroid](https://open.spotify.com/track/7e1jexFzFNed1Ovw45S798) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [Polaroid](https://open.spotify.com/album/0VxTDHLoZJmKFCKsxUjBYf) | 3:14 | 2023-02-07 | 2023-02-15 |
 | [pop](https://open.spotify.com/track/7rYHykgHRTkilVc0tU4GXx) | [leift](https://open.spotify.com/artist/57gMLz4GGinuQk4YnwwNv3) | [pop](https://open.spotify.com/album/5GEDdOP4VyYSwS4qVoAulG) | 2:51 | 2023-01-10 | 2023-01-18 |
 | [popcorn nights](https://open.spotify.com/track/3zIg70E1b4dXlK2zFSPHlF) | [7co](https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p) | [popcorn nights](https://open.spotify.com/album/3c4Hal6qduUYmKYuz5ca3H) | 3:39 | 2022-10-27 | 2022-11-16 |
-| [PRESENCE](https://open.spotify.com/track/5UgicVH1jiloAIkjqjK7Ho) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [PRESENCE](https://open.spotify.com/album/5DQN4SJwFTBdPNYAVpCQv8) | 3:04 | 2023-07-18 |  |
+| [PRESENCE](https://open.spotify.com/track/1skdpKroFzRuEMatb5D8lU) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [PRESENCE](https://open.spotify.com/album/0XOyANuaiYV0nICxcmDPSy) | 3:04 | 2023-07-18 |  |
+| [PRESENCE](https://open.spotify.com/track/5UgicVH1jiloAIkjqjK7Ho) | [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [PRESENCE](https://open.spotify.com/album/5DQN4SJwFTBdPNYAVpCQv8) | 3:04 | 2023-07-18 | 2023-07-20 |
 | [Pulse](https://open.spotify.com/track/3n9eP96QDez9hRfEvlP91z) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Magnet](https://open.spotify.com/album/2mZuf80aYdleohrQAcdoqJ) | 3:41 | 2023-03-28 | 2023-04-05 |
 | [PUMP! feat.chelmico](https://open.spotify.com/track/4qpy0cXQehWHQCNNpMvijC) | [パソコン音楽クラブ](https://open.spotify.com/artist/5FiN9o11xTdr071qwSHyye), [chelmico](https://open.spotify.com/artist/6sAONleCsmAyP87OHsVAPV) | [FINE LINE](https://open.spotify.com/album/37XJRNnSBngM8e8Ejp3oQ7) | 3:00 | 2023-05-09 | 2023-05-24 |
 | [pure](https://open.spotify.com/track/4SnHenrEeKJgZA8j8h4fzb) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [pure](https://open.spotify.com/album/6sWvjpeac8oh7gfmEWHZYA) | 3:45 | 2022-06-21 | 2022-07-20 |

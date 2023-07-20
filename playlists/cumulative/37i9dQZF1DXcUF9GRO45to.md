@@ -4,13 +4,14 @@
 
 > French scene makes some noise!
 
-270 songs - 17 hr 17 min
+272 songs - 17 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2022](https://open.spotify.com/track/2psnj8L3LQG8N4KlRrrXuO) | [Nili Hadida](https://open.spotify.com/artist/6WEbJueFZyzOeg2O6oNPE9) | [2022](https://open.spotify.com/album/4TCcau3EhDdiBdWWL89BFN) | 2:45 | 2023-01-26 | 2023-02-07 |
 | [A Breach To The Cosmos](https://open.spotify.com/track/2u3GG2oC0rBnjCUbHkbRZv) | [FENCES \\\\\\\\](https://open.spotify.com/artist/52mzp7EISAFBNXsDnHHFwv) | [A Breach To The Cosmos](https://open.spotify.com/album/2n2jUjEaw8932DlBLoQsRC) | 3:45 | 2023-06-29 | 2023-07-16 |
 | [A Glorious Time](https://open.spotify.com/track/7DzUVGhT9MRSyjMU1Rkfwh) | [Team Ghost](https://open.spotify.com/artist/6BXXt6yD472LkV5F8LxeBW) | [You Never Did Anything Wrong to Me](https://open.spotify.com/album/3gjzvEMzw42tasgAH0rxuT) | 4:19 | 2021-12-31 |  |
+| [A Hooded Witness](https://open.spotify.com/track/4x6eOkyTPUKM4BtSIRfVzp) | [Cemented Minds](https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v) | [A Hooded Witness](https://open.spotify.com/album/66y40mYUKZuyBEtOzVRQA3) | 4:06 | 2023-07-19 |  |
 | [A Man Oustanding In His Field](https://open.spotify.com/track/75uFD148aefBQ3qrdwWn5i) | [The Inspector Cluzo](https://open.spotify.com/artist/5yxIIqWx8F0NfkXpyycTxg) | [We The People Of The Soil](https://open.spotify.com/album/4dF2btv546wMUc49Tkh7RR) | 3:53 | 2021-12-15 |  |
 | [Adventure Seeker](https://open.spotify.com/track/4whvO7lA5VMHddWlMfUMzO) | [South Berkeley](https://open.spotify.com/artist/7aDcmRytStIGyAB1FKKoWr) | [Too Slow](https://open.spotify.com/album/70fW6Kjyvp8RpWvwz9dIYv) | 2:51 | 2021-12-15 | 2022-07-21 |
 | [After Party](https://open.spotify.com/track/3XtzpIgrWXYgFZMKvbVjz1) | [Karaba F.C.](https://open.spotify.com/artist/6ypkB6GRxIVIWu09pFZDhh) | [Empty Rooms](https://open.spotify.com/album/5iB0BwdGPSTp2HwSPpp3YD) | 3:33 | 2021-12-31 | 2022-07-09 |
@@ -87,7 +88,7 @@
 | [Fixed It All](https://open.spotify.com/track/19UtO7hBxFYhqYMqFePsjv) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5F9Aavpfp58NVEnDqtNU6W) | 4:21 | 2022-06-30 |  |
 | [Fixed It All](https://open.spotify.com/track/1kfn8rDlkRsuHZCOBLSj26) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/2SU0zDS8TIZ1kVSYEaqq5w) | 4:21 | 2021-12-15 | 2022-07-29 |
 | [Flowers for Handcuffs](https://open.spotify.com/track/2BaRigwJhkVeIMVkbcnUYT) | [Cemented Minds](https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v) | [A Hooded Witness](https://open.spotify.com/album/6tqv1rfiDlcXARBcoCyDTz) | 2:53 | 2023-04-14 | 2023-05-23 |
-| [Flowers for Handcuffs](https://open.spotify.com/track/2sO7GZQ9FQOtB7XSRqkf33) | [Cemented Minds](https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v) | [The Future is the End](https://open.spotify.com/album/0OWblFWotbcUbnJlnvWvO7) | 2:53 | 2023-05-11 |  |
+| [Flowers for Handcuffs](https://open.spotify.com/track/2sO7GZQ9FQOtB7XSRqkf33) | [Cemented Minds](https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v) | [The Future is the End](https://open.spotify.com/album/0OWblFWotbcUbnJlnvWvO7) | 2:53 | 2023-05-11 | 2023-07-20 |
 | [Forces du désordre](https://open.spotify.com/track/12kdwvRR8sFDU4ddjw715I) | [No One Is Innocent](https://open.spotify.com/artist/3xYWXsDjB4Kfl6EY2hibO3) | [Ennemis](https://open.spotify.com/album/1Rgj6TYiSvZ107ZJWuvccu) | 4:43 | 2021-12-15 | 2022-07-29 |
 | [Forces du désordre](https://open.spotify.com/track/2hWlaul9Wj3tUBTmEPrv7i) | [No One Is Innocent](https://open.spotify.com/artist/3xYWXsDjB4Kfl6EY2hibO3) | [Ennemis](https://open.spotify.com/album/4j2DBhcF61htHI38bBp4UF) | 4:43 | 2022-09-12 | 2023-06-28 |
 | [From The Sea To Your Mind](https://open.spotify.com/track/7uCaXe0aBw5PdS19PmNDYF) | [SIZ](https://open.spotify.com/artist/1CtmxHZBoOqnM9fhtnODEo) | [From The Sea To Your Mind](https://open.spotify.com/album/2jGv5SpNA7IVPGMisdbrw9) | 5:29 | 2022-03-24 | 2022-07-29 |
@@ -107,6 +108,7 @@
 | [Half Hearted Smile](https://open.spotify.com/track/3b4dVyCb3B5oI0MqRP2P5z) | [Nevermind The Car](https://open.spotify.com/artist/1SOJpH7pCModrv4SsTQgoa) | [The Iron Whale](https://open.spotify.com/album/4riqRamFeZWiIZbSn5N2Hi) | 4:54 | 2022-04-04 | 2022-07-29 |
 | [Hangover](https://open.spotify.com/track/3DbgF86SyidgINXtIx1qnV) | [Nobody's Cult](https://open.spotify.com/artist/2u9TRDPmCOUfSsP0WTFp7R) | [Mood Disorders](https://open.spotify.com/album/0ckv05nXDPG8LxuvCr0mmt) | 3:21 | 2021-12-15 |  |
 | [Haunted House](https://open.spotify.com/track/1sz7VUOwSA5ccLfU6VbjMn) | [Cosmopaark](https://open.spotify.com/artist/29ArX70lbbZc2CfnbAAy5L) | [Haunted House](https://open.spotify.com/album/4qHnUTZiKs15yYJ8qjIg0W) | 3:24 | 2023-01-26 | 2023-03-11 |
+| [Heavy Hearted](https://open.spotify.com/track/7HFZ2R5rLtboCK96OLTQag) | [SBRBS](https://open.spotify.com/artist/4Ev1vDMIcytBZ84u8Hz2S3) | [The Devil You Know](https://open.spotify.com/album/7zrq1fN6aANP2nDQZA2CtL) | 3:22 | 2023-07-19 |  |
 | [Heedless](https://open.spotify.com/track/5Gp3ki8Tvqoop5f1AuvsXr) | [Howard](https://open.spotify.com/artist/3bwdCcoC0DQB3fpQn9fqnm) | [Event Horizon](https://open.spotify.com/album/0x0gdhe3A8aWCEMktBiQAY) | 3:00 | 2023-02-02 |  |
 | [Hello](https://open.spotify.com/track/3UX2rt7dWNVxEGO9LQzkMb) | [I Love My Neighbours](https://open.spotify.com/artist/0OnS3g7UIU366z6CpbhCfz) | [Anthology](https://open.spotify.com/album/37m8Xof3RWkngHVxbfbN8c) | 3:26 | 2021-12-31 | 2022-04-21 |
 | [Here Comes the Sun](https://open.spotify.com/track/6JJxwlsFONGLquIJYdb2U2) | [Blue Orchid](https://open.spotify.com/artist/5dZJijmLhkahYRvLTrkq1j) | [Blue Orchid](https://open.spotify.com/album/0cHEMaf7pPhVVGv6fZX9VB) | 5:14 | 2021-12-15 | 2022-07-28 |
@@ -153,7 +155,7 @@
 | [Lonesome Terror](https://open.spotify.com/track/1skBkyve9Nky67eYhtVUkS) | [Kamggarn](https://open.spotify.com/artist/6e3939Z4hNCDfAqYK6pYM2) | [Kamggarn](https://open.spotify.com/album/0EpGsx16qSKNr3IDeYhmTc) | 3:56 | 2021-12-15 |  |
 | [Long Before](https://open.spotify.com/track/6DRkAVGF7vumi1GSSKlTSu) | [Flèche](https://open.spotify.com/artist/5R5eFkv3lGzBuYpjU6w5qs) | [Do Not Return Fire](https://open.spotify.com/album/7uKL2DcETgQKxDlgaWj57q) | 3:49 | 2022-01-03 | 2022-04-21 |
 | [Long Life](https://open.spotify.com/track/2N2A6MMehPqIQ6w7keCUDc) | [Structures](https://open.spotify.com/artist/4uAJ9vbmemltkuu0D3gBHQ) | [Long Life](https://open.spotify.com/album/54xgrAyNTiSiVPXydgJPoF) | 3:02 | 2022-04-17 |  |
-| [Lust of the Dead](https://open.spotify.com/track/2b1KKMDFJ4dnMyg5G9Zz5Y) | [Pencey Sloe](https://open.spotify.com/artist/6LZ5lMO2burFwjCctFW6tn) | [Don't Believe, Watch Out](https://open.spotify.com/album/1zK3Na9JwlTeuhOyNGIkyV) | 5:22 | 2022-06-30 |  |
+| [Lust of the Dead](https://open.spotify.com/track/2b1KKMDFJ4dnMyg5G9Zz5Y) | [Pencey Sloe](https://open.spotify.com/artist/6LZ5lMO2burFwjCctFW6tn) | [Don't Believe, Watch Out](https://open.spotify.com/album/1zK3Na9JwlTeuhOyNGIkyV) | 5:22 | 2022-06-30 | 2023-07-20 |
 | [Lust of the Dead](https://open.spotify.com/track/5TE5sZsPuChH5PzVNJ0aBR) | [Pencey Sloe](https://open.spotify.com/artist/6LZ5lMO2burFwjCctFW6tn) | [Don't Believe, Watch Out](https://open.spotify.com/album/1PtMqNyEosuODf7dGJV2m7) | 5:22 | 2021-12-15 | 2022-07-23 |
 | [Léon](https://open.spotify.com/track/2PRjQpMbTBaerHD6QRktB5) | [Ottis Cœur](https://open.spotify.com/artist/0hLbUud67RYSocCdgLf6pR) | [Léon](https://open.spotify.com/album/469XU2UjBypsJUKNCARczN) | 4:31 | 2022-11-28 |  |
 | [Melancholic Rain](https://open.spotify.com/track/25A9I9SrAJ4uPeGO7lsN34) | [We Hate You Please Die](https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l) | [Kids Are Lo\-Fi](https://open.spotify.com/album/53IId7k0xkfOCTwsCF8lJY) | 2:42 | 2022-06-30 |  |
@@ -170,7 +172,7 @@
 | [Negativity](https://open.spotify.com/track/0hwG6egZXGibubr52Av5df) | [Yvet Garden](https://open.spotify.com/artist/7km2jyK5bwl0DwikA4Ndd7) | [Negativity](https://open.spotify.com/album/66f2nh2ampcaZgeN2Qqw5t) | 3:57 | 2023-06-29 |  |
 | [Neil Perry](https://open.spotify.com/track/4pdUfdZIwUVRFCl5k9Eiyl) | [Cheap Teen](https://open.spotify.com/artist/0X6Rbb4fyZbLfdz3oNhnOX) | [Neil Perry](https://open.spotify.com/album/6fXYtRQI3s2u6ne7q6jJTX) | 2:49 | 2022-06-30 | 2022-11-06 |
 | [Never Let You Go](https://open.spotify.com/track/0GK8EEqEtmkWk3l0oktBgH) | [The Bad News](https://open.spotify.com/artist/6kH8meMNRgXiIpF8vMqQkc) | [The Bad News](https://open.spotify.com/album/5LcGP2S4Of0XmCDtsQalCb) | 2:56 | 2021-12-31 | 2022-07-29 |
-| [Newspapers](https://open.spotify.com/track/0T6LqY3Cgi6xleNezgWgUE) | [A VOID](https://open.spotify.com/artist/3ha9mtXhb0Ia40lnrU2cOI) | [Newspapers](https://open.spotify.com/album/6f7SIfP6rVwLqEGQ3z1hBl) | 3:08 | 2022-04-17 |  |
+| [Newspapers](https://open.spotify.com/track/0T6LqY3Cgi6xleNezgWgUE) | [A VOID](https://open.spotify.com/artist/3ha9mtXhb0Ia40lnrU2cOI) | [Newspapers](https://open.spotify.com/album/6f7SIfP6rVwLqEGQ3z1hBl) | 3:08 | 2022-04-17 | 2023-07-20 |
 | [No Brain No Shame](https://open.spotify.com/track/634Xqm8fG8J1cGymJ51Khy) | [J.C\. Satàn](https://open.spotify.com/artist/3YdIpKk40myJ3aC29izFRW) | [Centaur Desire](https://open.spotify.com/album/0Fjb0kM75nMYhktmSTj4np) | 3:29 | 2021-12-15 | 2023-05-08 |
 | [No Love](https://open.spotify.com/track/19njmJxhmdDqtR7YiFbm9v) | [Greyfell](https://open.spotify.com/artist/5spUgqt548nWET38ueJ7Kq) | [Horsepower](https://open.spotify.com/album/521jPvDr9aRITcZICFdTmc) | 6:12 | 2022-01-03 | 2022-07-27 |
 | [No Matter What](https://open.spotify.com/track/0XBjcu4H7ZHD7nZykpX2cN) | [Movement At Night](https://open.spotify.com/artist/3npdUd8ZD22EJkpwOG47fE) | [No Matter What](https://open.spotify.com/album/6YqquSBeAfT3M0znCqQnr5) | 4:20 | 2021-12-31 | 2022-07-22 |
@@ -230,7 +232,7 @@
 | [Sometimes I Wanna Fight](https://open.spotify.com/track/1u0bagIS8x7BuGXnKm6aLr) | [Caesaria](https://open.spotify.com/artist/3GWHmhaBl7Lx4hygni7di3) | [Sometimes I Wanna Fight](https://open.spotify.com/album/45H1fFqhaQXwkz8ZNKU22I) | 3:22 | 2023-03-30 |  |
 | [Sometimes I Wanna Fight](https://open.spotify.com/track/55u6h5OS21Z7Zm0saxjpt4) | [Caesaria](https://open.spotify.com/artist/3GWHmhaBl7Lx4hygni7di3) | [Sometimes I Wanna Fight](https://open.spotify.com/album/1Mw2YPYz9Ed4TzjFo0pgSG) | 3:22 | 2021-12-15 | 2023-01-27 |
 | [Split Tongue](https://open.spotify.com/track/4AJWyrvgYnwXJVnCUrBEYe) | [Johnny Mafia](https://open.spotify.com/artist/7iM6UV8wXD4l2bS2QxdOPY) | [Sentimental](https://open.spotify.com/album/4vT2Fz8FEQMrKfuBoykbNO) | 1:41 | 2021-12-15 |  |
-| [Spring Harvest](https://open.spotify.com/track/2BLfTfS66mjm0pIOHH4mrn) | [Grandma's Ashes](https://open.spotify.com/artist/3njH8IdvpiDn8UIV0BoYoY) | [Spring Harvest](https://open.spotify.com/album/4PWaBK3aFNs1uKva8e02Ll) | 3:36 | 2023-01-26 | 2023-05-08 |
+| [Spring Harvest](https://open.spotify.com/track/2BLfTfS66mjm0pIOHH4mrn) | [Grandma's Ashes](https://open.spotify.com/artist/3njH8IdvpiDn8UIV0BoYoY) | [Spring Harvest](https://open.spotify.com/album/4PWaBK3aFNs1uKva8e02Ll) | 3:36 | 2023-01-26 |  |
 | [Stay Close To Me](https://open.spotify.com/track/58pV7RsaDG3rj2K3US9vJb) | [Mat Bastard](https://open.spotify.com/artist/3g6cGlqNvWcTGwvse4VQVB) | [LOOV](https://open.spotify.com/album/56ycgKlSswpmfEHsAcOjd8) | 2:45 | 2022-06-30 |  |
 | [Stay Close To Me](https://open.spotify.com/track/5GoywaDrYsNK1o6JkYuhoa) | [Mat Bastard](https://open.spotify.com/artist/3g6cGlqNvWcTGwvse4VQVB) | [LOOV](https://open.spotify.com/album/75O2sBD92mL8Gfn2qIoFY7) | 2:45 | 2021-12-15 | 2022-07-21 |
 | [Stepping On Snails](https://open.spotify.com/track/7ogd6ybezUKwYxeLWb2nvB) | [A VOID](https://open.spotify.com/artist/3ha9mtXhb0Ia40lnrU2cOI) | [Stepping On Snails](https://open.spotify.com/album/44swoQuSZ9KEMCUrVld286) | 4:21 | 2021-12-15 | 2023-02-03 |

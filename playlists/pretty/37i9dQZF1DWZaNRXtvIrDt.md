@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: Disclosure
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,327 likes - 80 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,332 likes - 80 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 79 | [Dreamscape](https://open.spotify.com/track/3Vj2GECLhHkxtEl86kzjlK) | [Loure](https://open.spotify.com/artist/0oj4QK4zH3lghS2Oa418zZ) | [Translucid Transit](https://open.spotify.com/album/7w2Tq5FbO7wcGmKz4pZfxb) | 5:50 |
 | 80 | [Feels Just Like it](https://open.spotify.com/track/1hEnVkgNq0t9WFO5Smzq5Y) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [Light Places](https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku) | 4:01 |
 
-Snapshot ID: `MCxlNjQ1NGNmY2UyZWMzMGRlMDBkOTY0YTk1OGQ3Mzg3YTU5ZTIzM2Ni`
+Snapshot ID: `MCwxYzk4ZGZjMjcyMmI4NGU0ZTBiNzlmODhmNzc1OTA3YmJhYTNhMDg4`

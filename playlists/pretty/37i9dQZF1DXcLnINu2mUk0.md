@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Ivandro e Julinho Ksd.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,786 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,853 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 40 | [Nunca Vou Deixar](https://open.spotify.com/track/7nakVmFtcM16ztz8iCN8cD) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp), [Mark Exodus](https://open.spotify.com/artist/5QuaUicw0RJdqHlUJdkQWz) | [Nunca Vou Deixar](https://open.spotify.com/album/72taV8uVUgA7ShvfQaNvG0) | 2:52 |
 | 41 | [Salto Alto](https://open.spotify.com/track/3sIXzuNgN9HrC7amkEQWiP) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Salto Alto](https://open.spotify.com/album/0uatAqfa3VviB7GZuUXd6l) | 3:39 |
 | 42 | [Sons de Amor](https://open.spotify.com/track/44PSI3qwDKTTBa4TbqpjnL) | [ANDREZO](https://open.spotify.com/artist/4gHzU6X4vIGR06pt7mlX60), [Gson](https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj) | [Sons de Amor](https://open.spotify.com/album/7sov1YBuhBoydHePYGr69s) | 4:14 |
-| 43 | [Não Me Enganas \(feat\. Ivandro & Nayr Faquira\)](https://open.spotify.com/track/6ghsknvRAMqCFmGlSfC7Tv) | [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Nayr Faquirá](https://open.spotify.com/artist/04UMTpKorelINdwYKsM9Tb) | [+ do Mesmo \- Parte 1](https://open.spotify.com/album/7DDasmVvLny9kVzO8AV3bD) | 4:48 |
-| 44 | [.Sais e Minerais](https://open.spotify.com/track/7AG0yXoN9odePnl0OJ2Mti) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Jony Driver](https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM) | 4:17 |
+| 43 | [.Sais e Minerais](https://open.spotify.com/track/7AG0yXoN9odePnl0OJ2Mti) | [Papillon](https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d) | [Jony Driver](https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM) | 4:17 |
+| 44 | [Não Me Enganas \(feat\. Ivandro & Nayr Faquira\)](https://open.spotify.com/track/6ghsknvRAMqCFmGlSfC7Tv) | [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm), [Nayr Faquirá](https://open.spotify.com/artist/04UMTpKorelINdwYKsM9Tb) | [+ do Mesmo \- Parte 1](https://open.spotify.com/album/7DDasmVvLny9kVzO8AV3bD) | 4:48 |
 | 45 | [PRA MIM](https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [PRA MIM](https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ) | 2:33 |
 | 46 | [Depois da Chuva](https://open.spotify.com/track/7eJD8Ed4FOCFrtDI5o4kKo) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj) | 4:39 |
 | 47 | [Conversas](https://open.spotify.com/track/0xtWY0uOW8JWyiCDD2RmGB) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Sacrifício: Sangue, Lágrimas, Suor](https://open.spotify.com/album/0idaWuicDvUkpA6I3NOJDN) | 5:14 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 60 | [Steppa](https://open.spotify.com/track/57pwN4FfZlab3sSf3rSG4O) | [DREYA](https://open.spotify.com/artist/34waUKLMZKUmfyRpWf4D38) | [Steppa](https://open.spotify.com/album/2sfhXcCFx07eM0QTl4prDT) | 2:10 |
 | 61 | [Bday](https://open.spotify.com/track/4Q33DciddcaPm26LovEGtL) | [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1) | [Bday](https://open.spotify.com/album/1Fs4VUYyU69F9PUS50iqe5) | 3:05 |
 | 62 | [Backstage](https://open.spotify.com/track/2tAFUpG2zbv2AINSMRcq1F) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Ngana Zambi](https://open.spotify.com/album/0c9jWuJxAVIWaut11l0Ppj) | 4:16 |
-| 63 | [Às Vezes](https://open.spotify.com/track/7bmuMbInks7KmJJB6ewmF5) | [Sien Flamuri](https://open.spotify.com/artist/3YGLE82LHhzAbPJxtitUDD), [mizt](https://open.spotify.com/artist/7dStrat5aeOH4dIBqaSOuc) | [Às Vezes](https://open.spotify.com/album/56Vhx9aOcc0uV7Evsrj0p3) | 2:43 |
-| 64 | [Faz Tão Bem](https://open.spotify.com/track/6q5DrAd4LELL2gPIoe5mDP) | [MeLodee](https://open.spotify.com/artist/20NGAx3Juv4HaGjwBM9bpj) | [Faz Tão Bem](https://open.spotify.com/album/5mBiwG6ByMHvlQfskaROfO) | 2:59 |
+| 63 | [Faz Tão Bem](https://open.spotify.com/track/6q5DrAd4LELL2gPIoe5mDP) | [MeLodee](https://open.spotify.com/artist/20NGAx3Juv4HaGjwBM9bpj) | [Faz Tão Bem](https://open.spotify.com/album/5mBiwG6ByMHvlQfskaROfO) | 2:59 |
+| 64 | [Às Vezes](https://open.spotify.com/track/7bmuMbInks7KmJJB6ewmF5) | [Sien Flamuri](https://open.spotify.com/artist/3YGLE82LHhzAbPJxtitUDD), [mizt](https://open.spotify.com/artist/7dStrat5aeOH4dIBqaSOuc) | [Às Vezes](https://open.spotify.com/album/56Vhx9aOcc0uV7Evsrj0p3) | 2:43 |
 | 65 | [Crime Scene](https://open.spotify.com/track/1F5WB5IbKy6EDMs85lWifk) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI) | [Crime Scene](https://open.spotify.com/album/0VPCMKPjFSI4x3tsTHh7r7) | 2:58 |
 | 66 | [Brio](https://open.spotify.com/track/6DuYI9CWcb5tlBCft2Bp50) | [L\-ALI](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy), [Lunn](https://open.spotify.com/artist/3DhbIvEFQyWMVbVJByMMfW) | [Brio](https://open.spotify.com/album/26nGzK7VQ4i5APQW3BfApY) | 2:38 |
 | 67 | [Teus Olhos](https://open.spotify.com/track/0AYMaZ4IE7EW6mdcAV2mC6) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Teus Olhos](https://open.spotify.com/album/0gk3GjtDUm8RrXIwiS2nhZ) | 3:20 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 69 | [Maluca](https://open.spotify.com/track/1xwsTjTxnxs0EDdCBTTPbY) | [D´Lucca](https://open.spotify.com/artist/6QJtFKFdjqKMKfpEriBX0x) | [Maluca](https://open.spotify.com/album/43PKnoAF9Eri6apOfUgfpC) | 2:28 |
 | 70 | [Saltamos](https://open.spotify.com/track/7p0g1c57FhodU6gG4rzuG6) | [TT](https://open.spotify.com/artist/4QUbv90mL5E8TqNKyRkrG0) | [U7](https://open.spotify.com/album/2YZY4nTMHwhKDuxcQ4lYoT) | 3:00 |
 | 71 | [Fazer\-te sonhar](https://open.spotify.com/track/7qIOPRcX7MtsMuxLzHADHJ) | [Westy](https://open.spotify.com/artist/0QHhjrJBxwATyeg2xXzwbN) | [Fazer\-te sonhar](https://open.spotify.com/album/7EpHrY72X20TG8IwV5IPwK) | 3:48 |
-| 72 | [Tá Pedir](https://open.spotify.com/track/2m9cYbN5VmL4rfSZEocFgd) | [Clenny Mendes](https://open.spotify.com/artist/28qaTTopCvGdqmcrWAKsOy) | [Tá Pedir](https://open.spotify.com/album/0vnUf6cZrbQ1KvcGR2f5XV) | 2:27 |
+| 72 | [Free to B](https://open.spotify.com/track/7AQyiLHFNOttx9UW3kQkKz) | [James dos Reis](https://open.spotify.com/artist/3t2APdbwougwRoiC0Vb3PF) | [Free to B](https://open.spotify.com/album/2nfEWNNx4l34rISTpx55ZO) | 2:26 |
 | 73 | [Pick Up The Phone](https://open.spotify.com/track/528QE0jkWkdZTzFmGg42LJ) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i) | [Pick Up The Phone](https://open.spotify.com/album/5imcIGu9iivXdWfpSGvlPr) | 3:35 |
-| 74 | [Free to B](https://open.spotify.com/track/7AQyiLHFNOttx9UW3kQkKz) | [James dos Reis](https://open.spotify.com/artist/3t2APdbwougwRoiC0Vb3PF) | [Free to B](https://open.spotify.com/album/2nfEWNNx4l34rISTpx55ZO) | 2:26 |
-| 75 | [Não Consigo](https://open.spotify.com/track/0RfXHQx7KHkH2zAqF5hB7l) | [Kamuya](https://open.spotify.com/artist/3rv2srJPEeA1vW8vhjE2U7), [sheluvsHUGO](https://open.spotify.com/artist/4fkojJvVGvyu6oh5cutj2g) | [Não Consigo](https://open.spotify.com/album/73wkFM58mY6OoFB2hg8ve1) | 3:33 |
+| 74 | [Tá Pedir](https://open.spotify.com/track/2m9cYbN5VmL4rfSZEocFgd) | [Clenny Mendes](https://open.spotify.com/artist/28qaTTopCvGdqmcrWAKsOy) | [Tá Pedir](https://open.spotify.com/album/0vnUf6cZrbQ1KvcGR2f5XV) | 2:27 |
+| 75 | [Cara do Pai](https://open.spotify.com/track/2CcZEYj1ef6k9JMunarSvT) | [Arganaça](https://open.spotify.com/artist/4i9YZ46se9VOp2eSLbCg4i) | [Cara do Pai](https://open.spotify.com/album/1kRPEJqYFVtHxXVWBkDZbR) | 3:09 |
 
-Snapshot ID: `MCxkNzg3OTAxNzU4NTc2OGRlYWE0MTA1Zjk4NWQ0ZGFiNGIzNjlmYzZl`
+Snapshot ID: `MCxmMmIwZjc1YWJkODZjNDhiYWE1ZDZmYmE1NzhkYTYwMzgwY2Q2MGMy`

@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Marshall Robinson
 
-106 songs - 6 hr 0 min
+108 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Kannaamoochi](https://open.spotify.com/track/3PsFYwXnytC7hR2Ev23oLq) | [Anand Sudhan](https://open.spotify.com/artist/7j3EpyzdP3GTNT1wEkqqMo), [Yajeevan](https://open.spotify.com/artist/70cWAz6LxWVbbYiTsMXTWr), [Krishna Kumary](https://open.spotify.com/artist/3HpH2sE2VtmIVGLEsYE0eI) | [Kannaamoochi](https://open.spotify.com/album/5UbrVTI1I3deiyXCa55X5s) | 3:36 | 2023-03-21 |  |
 | [Kannil Veesum](https://open.spotify.com/track/5Csa0chWVHlZAKDIGKmYkG) | [Nitin K Siva](https://open.spotify.com/artist/1ClekcsZ4VLBcjLiZ1ZUis) | [Kannil Veesum](https://open.spotify.com/album/0k9njB0P9brJuvg3tkEEcQ) | 4:00 | 2023-03-21 |  |
 | [Karpanai](https://open.spotify.com/track/5mHYekF6dYS1tngug0sKYm) | [Akhilesh Rajan](https://open.spotify.com/artist/2yNWhTumhIEaplBWzONC0I), [Krishna B](https://open.spotify.com/artist/75GR08Hbybw9eIFJbW1s9W), [On The Streets](https://open.spotify.com/artist/50ef72eTfmz8InSE1OErSu) | [Karpanai](https://open.spotify.com/album/63lmhSCepLlrKohnhi4NOg) | 3:31 | 2023-06-27 |  |
+| [Karupalagi](https://open.spotify.com/track/5WbO7n09uccYyjhF510EKz) | [Kishore krishnan](https://open.spotify.com/artist/7lCO7RX3b2d22J0OUMYRXj) | [Karupalagi](https://open.spotify.com/album/4tjkowdfpmhjMtRKAovi9N) | 3:29 | 2023-07-19 |  |
 | [Karuppu Thamizhan](https://open.spotify.com/track/213XAXx73s9XRJ38DJMlYH) | [Vidushaan](https://open.spotify.com/artist/6yr59RSWCxLvcjZIytt1OB), [Hust](https://open.spotify.com/artist/3CmUrno6q826poiuTNBuXG) | [Karuppu Thamizhan](https://open.spotify.com/album/3UBx6ayDK4ui8eTwIS4xna) | 3:16 | 2023-06-07 |  |
 | [Kaveri](https://open.spotify.com/track/0FALUhuD469ZTYOlnqfafA) | [PRI](https://open.spotify.com/artist/3SdB1D3HlBKxhy5kOOQvit), [Bak n 4th](https://open.spotify.com/artist/0XZDSZnm55oXsRvKSsnPyv) | [Kaveri](https://open.spotify.com/album/7DLxE3Yrve0ktJbHMnkgU7) | 4:11 | 2023-07-04 |  |
 | [Kavithai Nee](https://open.spotify.com/track/6UQdMKDC4kmfWo9LWbsWcw) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Kavithai Nee](https://open.spotify.com/album/5AKSWXaPZJKKbmXwgFsry3) | 3:39 | 2023-06-22 | 2023-06-27 |
@@ -87,6 +88,7 @@
 | [Oru Parvaiyaal](https://open.spotify.com/track/5kBR3mysdwcjR1fo792GER) | [Mysterix Infinity](https://open.spotify.com/artist/6JsH7HKaRCfSsRSHrLCAK3) | [Oru Parvaiyaal](https://open.spotify.com/album/3WEYvBWiMwhxmyG9MrJufN) | 5:43 | 2023-03-21 | 2023-06-24 |
 | [Oru Theniyin Kadhal](https://open.spotify.com/track/25pEd2JmX87sckTCxRFwDU) | [RK Vilasini](https://open.spotify.com/artist/01kF7XZb8f8B2aywaXOPXy) | [Oru Theniyin Kadhal](https://open.spotify.com/album/4RPjQ9C8VwrCvjzGNawgwX) | 4:11 | 2023-03-21 |  |
 | [Oru Uvamai](https://open.spotify.com/track/5UMeOW8eAD5XRI9JnqG1Ta) | [Rishi K](https://open.spotify.com/artist/43IKH64gsHdNOnpTcUbIQj) | [Oru Uvamai](https://open.spotify.com/album/1OJk6AwLsV8dqT4xLmDgAD) | 3:02 | 2023-03-21 |  |
+| [Pachai Theeyee](https://open.spotify.com/track/6Fk5Qx8BEqWXQscWFwO1ws) | [Joshua Surya](https://open.spotify.com/artist/23A4fV8TTszu4fVRgMkO9s), [Siva Suriya Prakash](https://open.spotify.com/artist/1KfAw91V43kU6vHZBPGaHJ), [Darloo](https://open.spotify.com/artist/5Ouj8oMhaXmvLHJvP4PhZ7), [Stan & Sam](https://open.spotify.com/artist/2zeEeBkAKWjSVenQDBHsGM) | [Pachai Theeyee](https://open.spotify.com/album/2OdFUCAvA9dVqO40q9VvFJ) | 3:32 | 2023-07-19 |  |
 | [Poidhana](https://open.spotify.com/track/4wVREm2fORlNJIm5FkxPHk) | [Rozario](https://open.spotify.com/artist/3y0YUGmWKQZyVnhUNYPchz), [Maalvika](https://open.spotify.com/artist/6UGmA04lkO3B7IyUbEE6sC) | [Poidhana](https://open.spotify.com/album/2vGdxvemzIKac1YXhLoEFP) | 2:55 | 2023-06-16 |  |
 | [Pona Pongadi](https://open.spotify.com/track/44EKpEa7RPINMRh70iJiRZ) | [Krish Manoj](https://open.spotify.com/artist/4QBfnrSmAZ9qCU14uPnxDT), [Sagishna Xavier](https://open.spotify.com/artist/6Jdi3gLwRWKNEyCQDUQnex) | [Pona Pongadi](https://open.spotify.com/album/30WzaLds8K34mD3vvVkaAg) | 3:18 | 2023-04-03 |  |
 | [Pongal Puliyodharai](https://open.spotify.com/track/68IkzGQnOjlfZBE9UxaJF1) | [Vetti Payan Venkat](https://open.spotify.com/artist/6ZeZplJoeBHwk1MwpIj18e), [RamGanesh K](https://open.spotify.com/artist/3qAXnWDWUgfGyD2TGS5t5M) | [Pongal Puliyodharai](https://open.spotify.com/album/5wViXAX88oexvwv18gE447) | 2:49 | 2023-04-03 |  |

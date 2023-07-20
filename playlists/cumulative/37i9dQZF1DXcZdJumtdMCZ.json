@@ -479,6 +479,28 @@
     },
     {
       "album": {
+        "name": "His Name is John (From \"Dhruva Natchathiram\")",
+        "url": "https://open.spotify.com/album/2z2azuxHIVQ0InUluVQFz5"
+      },
+      "artists": [
+        {
+          "name": "Harris Jayaraj",
+          "url": "https://open.spotify.com/artist/29aw5YCdIw2FEXYyAJZI8l"
+        },
+        {
+          "name": "Paal Dabba",
+          "url": "https://open.spotify.com/artist/0cQJg3qKYiogK9Qj1H0Qpx"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230741,
+      "name": "His Name is John (From \"Dhruva Natchathiram\")",
+      "url": "https://open.spotify.com/track/4ZMLhESqrX6ng6thaZ4M4a"
+    },
+    {
+      "album": {
         "name": "Rum (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7wOBAKgO7PkU1tsOMPI8LN"
       },
@@ -1176,7 +1198,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 144955,
       "name": "Por Por",
       "url": "https://open.spotify.com/track/1u3QxSAsiGj1XTAGJJMmQf"

@@ -1,12 +1,12 @@
 {
   "description": "A feel-good soulful house  and disco selection.",
-  "num_followers": 345159,
+  "num_followers": 345190,
   "original_name": "Groove Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMWE0MGE2ZjdmMzZhZDUxYjIzZGViOWRjZTU5NzI2MjM0ZDZmMzMx",
+  "snapshot_id": "MCw5MDBiNmQ1NjAwOGQyNjQ4NmZmMjhhZjRhYTdkOTdlYTIzMzEyNTc3",
   "tracks": [
     {
       "added_at": "2023-07-14 04:01:00",
@@ -231,6 +231,26 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
+        "name": "Streets (Disclosure Remix)",
+        "url": "https://open.spotify.com/album/6NQXnBKeDrpQGWPQsgIiwA"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        }
+      ],
+      "duration_ms": 254280,
+      "name": "Streets - Disclosure Remix",
+      "url": "https://open.spotify.com/track/4k6Emp6KJ4GNRyf6wUKODl"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
         "name": "Everybody Dance",
         "url": "https://open.spotify.com/album/28V8NPwe6KoGs9t96i0WHD"
       },
@@ -251,26 +271,6 @@
       "duration_ms": 168289,
       "name": "Everybody Dance",
       "url": "https://open.spotify.com/track/5GiXra1IesFbyQxHsjWQ3M"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "Streets (Disclosure Remix)",
-        "url": "https://open.spotify.com/album/6NQXnBKeDrpQGWPQsgIiwA"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 254280,
-      "name": "Streets - Disclosure Remix",
-      "url": "https://open.spotify.com/track/4k6Emp6KJ4GNRyf6wUKODl"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -439,26 +439,6 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "It Is What It Is (feat. Elise LeGrow)",
-        "url": "https://open.spotify.com/album/1d08A5A1LezktJMhoWCqDq"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        },
-        {
-          "name": "Elise LeGrow",
-          "url": "https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8"
-        }
-      ],
-      "duration_ms": 164516,
-      "name": "It Is What It Is (feat. Elise LeGrow)",
-      "url": "https://open.spotify.com/track/37V78aaqEliOSPJxVgxNfm"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
         "name": "My Own Way",
         "url": "https://open.spotify.com/album/6sgwScp59KuNiOPvexBNfA"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 141000,
       "name": "My Own Way",
       "url": "https://open.spotify.com/track/7Csd6ozp0Ci3ZDfvRgzrWz"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "It Is What It Is (feat. Elise LeGrow)",
+        "url": "https://open.spotify.com/album/1d08A5A1LezktJMhoWCqDq"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "Elise LeGrow",
+          "url": "https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8"
+        }
+      ],
+      "duration_ms": 164516,
+      "name": "It Is What It Is (feat. Elise LeGrow)",
+      "url": "https://open.spotify.com/track/37V78aaqEliOSPJxVgxNfm"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -651,18 +651,22 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Bourgie Bourgie",
-        "url": "https://open.spotify.com/album/6Gg2rwi5mAlzx1ws0Woxga"
+        "name": "Trouble\u2019s Coming (Purple Disco Machine Remix)",
+        "url": "https://open.spotify.com/album/5XlWzxdKFGCRDgok5j7UoJ"
       },
       "artists": [
         {
-          "name": "LF SYSTEM",
-          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
         }
       ],
-      "duration_ms": 392812,
-      "name": "Bourgie Bourgie",
-      "url": "https://open.spotify.com/track/1yiKEvsWURV5lAc2rs22Qq"
+      "duration_ms": 265570,
+      "name": "Trouble\u2019s Coming - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/7cpmk4IuNSWfg5XOrr2v8V"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -687,22 +691,18 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Trouble\u2019s Coming (Purple Disco Machine Remix)",
-        "url": "https://open.spotify.com/album/5XlWzxdKFGCRDgok5j7UoJ"
+        "name": "Bourgie Bourgie",
+        "url": "https://open.spotify.com/album/6Gg2rwi5mAlzx1ws0Woxga"
       },
       "artists": [
         {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
         }
       ],
-      "duration_ms": 265570,
-      "name": "Trouble\u2019s Coming - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/7cpmk4IuNSWfg5XOrr2v8V"
+      "duration_ms": 392812,
+      "name": "Bourgie Bourgie",
+      "url": "https://open.spotify.com/track/1yiKEvsWURV5lAc2rs22Qq"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1111,18 +1111,22 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Back Tae Ayr",
-        "url": "https://open.spotify.com/album/6YGqlfu2U6aUkzPSViek27"
+        "name": "Affirmations (feat. Anelisa Lamola)",
+        "url": "https://open.spotify.com/album/60OriTct3aVri7Q1btWjRo"
       },
       "artists": [
         {
-          "name": "Ewan McVicar",
-          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        },
+        {
+          "name": "Anelisa Lamola",
+          "url": "https://open.spotify.com/artist/4JQspweC9s9YK2H81Nylvi"
         }
       ],
-      "duration_ms": 332931,
-      "name": "Back Tae Ayr",
-      "url": "https://open.spotify.com/track/1AH6GkZnybM0R5WZZTj7GF"
+      "duration_ms": 201322,
+      "name": "Affirmations (feat. Anelisa Lamola)",
+      "url": "https://open.spotify.com/track/38SHfJCoV4jdpeqX5lcn6H"
     }
   ],
   "unique_name": "Groove Theory",

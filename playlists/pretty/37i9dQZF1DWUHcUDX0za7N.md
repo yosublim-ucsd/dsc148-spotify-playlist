@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 
 > Hip hop and rap music from Nigeria\. Cover:<a href="https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr?si=t7JJXl1yQUCioA8ywXwUaA"> Psycho YP</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,630 likes - 70 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,684 likes - 70 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 57 | [Awolowo](https://open.spotify.com/track/7LD1W44Y7IfcIfzWGLyvFg) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [DarkoVibes](https://open.spotify.com/artist/5a3kizlLAxR0P6qZEti8T8), [Zamir](https://open.spotify.com/artist/17AnjHQ3k75QgyzY97V15q) | [Gbagada Express](https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn) | 2:48 |
 | 58 | [Out There](https://open.spotify.com/track/292BMcWitjojrgMxZ3Zaj8) | [Dangbana Republik](https://open.spotify.com/artist/5ezmlxcj3HQvg2XZamXlZK), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [High Tension 2.0](https://open.spotify.com/album/43564usP2MXDmGPsjPHL8q) | 2:43 |
 | 59 | [Omo X 100](https://open.spotify.com/track/1QsW0pGtO2t6egswtRAHa8) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Omo X 100](https://open.spotify.com/album/2gakmjz9n1lsRSZdue5xUi) | 2:06 |
-| 60 | [STAMINA](https://open.spotify.com/track/6I7hrUazMFnJgMRFGlf2gZ) | [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B) | [STAMINA](https://open.spotify.com/album/0IVPvx3l7SAbf0XmcGkgPw) | 2:32 |
-| 61 | [Moving Mad](https://open.spotify.com/track/3NEm37oSILi153aS3mJGsd) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50) | [Moving Mad](https://open.spotify.com/album/1wqrmVrcBTus8veGMT2Nnq) | 2:22 |
+| 60 | [Moving Mad](https://open.spotify.com/track/3NEm37oSILi153aS3mJGsd) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50) | [Moving Mad](https://open.spotify.com/album/1wqrmVrcBTus8veGMT2Nnq) | 2:22 |
+| 61 | [STAMINA](https://open.spotify.com/track/6I7hrUazMFnJgMRFGlf2gZ) | [Teezee](https://open.spotify.com/artist/6qgNjbWXJ9mbqKwznBLj5B) | [STAMINA](https://open.spotify.com/album/0IVPvx3l7SAbf0XmcGkgPw) | 2:32 |
 | 62 | [Tycoon](https://open.spotify.com/track/6MzulmD5wofNSMmBTqNsba) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO), [Mojo](https://open.spotify.com/artist/7sCNOLD0NCCcWvWphFUKcF) | [Clone Wars Vol\. 5 \- The Algorhythm](https://open.spotify.com/album/3yUUyNXWF0CFwaCFIEYHzJ) | 3:58 |
 | 63 | [Soft Life](https://open.spotify.com/track/6JQWH9Kpcjp6RygaRwGnG2) | [Ajebutter22](https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW), [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu) | [Soundtrack To The Good Life](https://open.spotify.com/album/5JMesY6i8fM1d4Cg10NqYY) | 3:55 |
 | 64 | [Crown of Clay](https://open.spotify.com/track/4Zpa3krRpcTA7cPSb9vZ6l) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [M.I\. Abaga](https://open.spotify.com/artist/0obuUG86gXYcMtRMNKaYKL), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Crown of Clay](https://open.spotify.com/album/6GM6bkefoArXQbXYTJzRvT) | 3:25 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 69 | [Suliya](https://open.spotify.com/track/3ezKYRrXqBGsBqunV5fTcd) | [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj) | [Suliya](https://open.spotify.com/album/2oU8UmMT3RnvNDFjJSPgVm) | 2:11 |
 | 70 | [All I Please](https://open.spotify.com/track/02iADtPhGykqzm8bKLIvcz) | [Wale Turner](https://open.spotify.com/artist/65m9PcY3LaHyX12IpUrWaX), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [All I Please](https://open.spotify.com/album/1Yrnqzw7SWup7pkJaXxOvL) | 2:35 |
 
-Snapshot ID: `MCwwM2EyMGUzZDRjYjg1OGIzMjYwZGYwNDk0ZDgyNzQ2ZDJjNjM0MTQx`
+Snapshot ID: `MCwzZDY0YmNmNmYwOTEwOTdhZTEyZjY0MjVlOGZmNzYxZjcxMDJlMjc1`

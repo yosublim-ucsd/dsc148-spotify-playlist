@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Hailey Whitters
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,120,608 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,120,975 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Middle Of Nowhere Class](https://open.spotify.com/track/0hzkbUtBgEgMyfbymWuDKc) | [Drew Parker](https://open.spotify.com/artist/04roC3Teouu613zLDKvHpQ) | [Middle Of Nowhere Class](https://open.spotify.com/album/0zN8UMoWb3j1yIfdfjfzTE) | 3:41 |
 | 100 | [Match For My Memory](https://open.spotify.com/track/5sYsGGJ87apKstNPKgiZFo) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Match For My Memory](https://open.spotify.com/album/1btxskaPEUaAs39MnammfS) | 2:59 |
 
-Snapshot ID: `MCxiY2NiMzQ3M2RhN2RkZTVlZTM2YTk4NjRhYWZmYTQ4NmI1OWVjMTgw`
+Snapshot ID: `MCwzNDhmNjRlN2E5YTllYzVkYjBkZjViMThjODdlNzcxYmM2ZWU3YjIy`

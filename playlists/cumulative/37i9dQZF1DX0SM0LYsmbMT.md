@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,564 songs - 5 day 16 hr 48 min
+3,565 songs - 5 day 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,7 +220,7 @@
 | [Autumn Cruise](https://open.spotify.com/track/25fswsn2sJCSLFvqMn6L6N) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Kid Tarô](https://open.spotify.com/artist/5XD1vyL8naPVq2dvjetpiT) | [Autumn Cruise](https://open.spotify.com/album/6WQdaJzZDkktq9zAlI2Hhp) | 2:24 | 2020-10-09 | 2021-05-14 |
 | [autumn daze](https://open.spotify.com/track/3xhbFPgrYiWY7Oz3qovZuj) | [charlie toØ human](https://open.spotify.com/artist/2D8fHWnDV83da2aXmF1EaD) | [Ruins & Heart Blossoms \- Disc 1](https://open.spotify.com/album/7hCkPmM9Lf0ET9LgEAwI9D) | 2:37 | 2019-10-25 | 2020-04-24 |
 | [Autumn in My Heart](https://open.spotify.com/track/1lLL1Jo67MDc11t7dVfKFM) | [Mura Kami](https://open.spotify.com/artist/1UMKAtfbQKKYEp8mvAHRWE) | [Embre](https://open.spotify.com/album/3Nc8lNPdmG5cpcVrxKaYJW) | 2:28 | 2019-05-26\* | 2019-06-15 |
-| [Autumn Leaves](https://open.spotify.com/track/6rzBDEJ3V3VRuc42OeRe9f) | [mädmäx](https://open.spotify.com/artist/6e1SIZMnXuUFsXt7xMbkg0), [WOX](https://open.spotify.com/artist/7EyXYGmovTZWucKC0WahJ9) | [Autumn Leaves](https://open.spotify.com/album/5f9eCZ7zM4nymYWZzwH67x) | 2:22 | 2023-06-01 |  |
+| [Autumn Leaves](https://open.spotify.com/track/6rzBDEJ3V3VRuc42OeRe9f) | [mädmäx](https://open.spotify.com/artist/6e1SIZMnXuUFsXt7xMbkg0), [WOX](https://open.spotify.com/artist/7EyXYGmovTZWucKC0WahJ9) | [Autumn Leaves](https://open.spotify.com/album/5f9eCZ7zM4nymYWZzwH67x) | 2:22 | 2023-06-01 | 2023-07-20 |
 | [Autumn Ride](https://open.spotify.com/track/1TOHw1SZwZWX08ktFUei9T) | [Kid Tarô](https://open.spotify.com/artist/5XD1vyL8naPVq2dvjetpiT), [Kimmø](https://open.spotify.com/artist/0T2cWe3Y09qz2tp19oDLUz) | [Autumn Ride](https://open.spotify.com/album/0xFzw2ncYZYsBNd7Jyn33U) | 2:10 | 2022-10-13 |  |
 | [Autumn Sun](https://open.spotify.com/track/1L0hBjHsPmwT8vCEQYtAzi) | [Myríad](https://open.spotify.com/artist/5TGFw78FIV0hLV90O8A7an) | [Autumn Sun](https://open.spotify.com/album/5Y9Hpikz6PSimYw57mrOkt) | 2:02 | 2021-10-16 | 2023-03-10 |
 | [Autumn Sunset](https://open.spotify.com/track/5XBtGG0bWou5Bd3WUW1YMv) | [Georgy Whistler](https://open.spotify.com/artist/3OglhORwydCOlEd2vqwoIe) | [EXPEDITion Vol\. 24: Time Flies](https://open.spotify.com/album/35JhNrVbRuERASMqL31UVz) | 1:43 | 2019-10-02 | 2020-03-18 |
@@ -960,6 +960,7 @@
 | [Falling Away](https://open.spotify.com/track/0i6tkEYMLTGfPA1UZO2vou) | [softy](https://open.spotify.com/artist/0wcen0V8FgQu6xYupnZMbB), [Pointy Features](https://open.spotify.com/artist/2juH2VRAmfRlPlu1oaGsuH) | [Falling Away](https://open.spotify.com/album/2w2QPLEuyivUZneFF7E2hc) | 3:00 | 2021-03-19 | 2021-04-30 |
 | [Family](https://open.spotify.com/track/62FZ5BVFbxuUF58FKWrRTo) | [DECAP](https://open.spotify.com/artist/0YNQuoFHti0UjsFm94aaXL), [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J), [Kyla Moscovich](https://open.spotify.com/artist/4eo125E0BMCS4qi3xB4pTd) | [Family](https://open.spotify.com/album/5iYzJvoc8wvClT7PvwXoOb) | 2:25 | 2021-10-21 | 2021-10-22 |
 | [Fantasia](https://open.spotify.com/track/1pqkpQx65J0uwl5PbnUDuJ) | [El Jazzy Chavo](https://open.spotify.com/artist/46Pwdl99hYWTIpSLrraBet) | [Fantasia](https://open.spotify.com/album/7A4wJj58m8VZf2pjHGAAA9) | 2:33 | 2020-01-15 | 2020-05-01 |
+| [Fantastic Science Fictions](https://open.spotify.com/track/571yI9Y6m4eXbKAajNGn9C) | [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M) | [Fantastic Science Fictions](https://open.spotify.com/album/6QtQK1qWzkTfdKtNxE6Yau) | 2:22 | 2023-07-13 |  |
 | [far out](https://open.spotify.com/track/74PgnbUHVjG2YQO2R1JmMJ) | [upper class](https://open.spotify.com/artist/2NtGuhjeGjxetrptLSQHV0) | [boje / far out](https://open.spotify.com/album/1T3qr2dkBV2tUJbiuue5r0) | 1:48 | 2020-05-29 | 2020-08-04 |
 | [Farewell to Shaman](https://open.spotify.com/track/0nevZ2Ezq589BnYF5YXdjq) | [Spectateur](https://open.spotify.com/artist/1AZzFXI8C6JD8nMdcSLmgW), [La Cantina](https://open.spotify.com/artist/01iBYoUzhKZLQAGRDF0L9U) | [Farewell to Shaman](https://open.spotify.com/album/3pNrtCNDNq8MYTp0ZI05MX) | 2:08 | 2021-07-09 | 2021-11-25 |
 | [Fave Thing](https://open.spotify.com/track/6VCeEqyExn5hfV1dBsGDIm) | [Funky Notes](https://open.spotify.com/artist/6LSrnKA5oEVsLopxSMVGFR), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Fave Thing](https://open.spotify.com/album/0ecADXvGhKIWjKDwX37Aox) | 3:04 | 2019-11-01 | 2020-04-24 |

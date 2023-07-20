@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgcWoYFXZp.md) - [plain]
 
 > Cruise through Japanese “Neo” City Pop from the ’00s./ 渋谷系の系譜から、ボーダーレスに多様化に向かっていった’00年代。ネオ・シティポップ新時代の波はすぐそこに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,929 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,938 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgcWoYFXZp.md) - [plain]
 | 34 | [スウィートネス](https://open.spotify.com/track/55J50MIkkCPin2cDLtewXc) | [NONA REEVES](https://open.spotify.com/artist/2C6HFF5xLM3rUfCEuZ3q2I) | [Sweet Reaction](https://open.spotify.com/album/2XaEzIMc9LrExulIoG2gq4) | 5:05 |
 | 35 | [眠りの森](https://open.spotify.com/track/2CPlY5tdjvl05Uv6XdUugH) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [TOKYO \- CAFE \-](https://open.spotify.com/album/1rUpuTjwmWV50K9dP2uUfN) | 5:56 |
 | 36 | [ファンタジア](https://open.spotify.com/track/1CLdt3sHTa13JQ0Vf5Y8fU) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [TALKIN'](https://open.spotify.com/album/4FCZFT1bje03oXw2f7q5Po) | 6:27 |
-| 37 | [冬来たりなば](https://open.spotify.com/track/1AbAUvjrSfpdEfwJMQlG0e) | [Takaki Horigome](https://open.spotify.com/artist/7i3cIU0Izid4SRBfpe7YAh) | [Home Ground](https://open.spotify.com/album/0HXIBUt2IXmP5ahJv1btmH) | 6:01 |
+| 37 | [Fuyu Kitari Naba](https://open.spotify.com/track/7z63xGTLW0OYW9aVgre6a0) | [Takaki Horigome](https://open.spotify.com/artist/7i3cIU0Izid4SRBfpe7YAh) | [CITY MUSIC TOKYO multiple](https://open.spotify.com/album/67wYPpAjZ6vlEGR9QMiiDw) | 5:59 |
 | 38 | [虹の下のどしゃ降りで](https://open.spotify.com/track/3MLFTklefqLMP17AGX0O5P) | [Yumi Matsutoya](https://open.spotify.com/artist/1LQQtqc1vQ1neUgZrjYlEU) | [A GIRL IN SUMMER](https://open.spotify.com/album/6cdmOr7ACF6j7OZNkr0Avr) | 4:04 |
 | 39 | [春雨道中](https://open.spotify.com/track/3PQsf3jCUw9lGXuP3zC0OJ) | [Mamalaid Rag](https://open.spotify.com/artist/112Zt20SrWrXOrzlV2IzjJ) | [春雨道中](https://open.spotify.com/album/24yetVma2PeUIVqAwl8sqP) | 4:37 |
 | 40 | [Yoru no Melody](https://open.spotify.com/track/4N3i9n9Hl50KosMceQSGX3) | [Sunny Day Service](https://open.spotify.com/artist/4cSyPcpldERtF4eL3NB9dn) | [BEST SKY](https://open.spotify.com/album/6NGBmz6MkGlAVq2jtADTRm) | 4:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgcWoYFXZp.md) - [plain]
 | 49 | [あれから](https://open.spotify.com/track/2p88nkbBzmJLXpUdsp1BgG) | [bird](https://open.spotify.com/artist/5gn3mKyq8QM4TxKNX2nxXi) | [オアシス](https://open.spotify.com/album/1mDa5GUbu5jNDemBUJubux) | 5:47 |
 | 50 | [罌粟](https://open.spotify.com/track/6x1hT5lHXcraem8FQCPykz) | [Miyuki Hatakeyama](https://open.spotify.com/artist/1EoUchyiJeXQqhGBANhbiI) | [WILD AND GENTLE](https://open.spotify.com/album/2pBg1hE7WVqOLri4aQTepx) | 5:37 |
 
-Snapshot ID: `MCw5ZTI3ZDI5N2YwMDNhODJlOGRjNjQxNDUwNmVhZDBhMDFjY2E4M2Uz`
+Snapshot ID: `MCwyZGMxZDNhM2VjYzNjZDUwNzM1ZDE0MTRhMDJiNGI1YWY1Njk4YWQz`

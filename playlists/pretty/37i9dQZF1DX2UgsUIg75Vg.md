@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chilled R&B jams for your most relaxed moods\. Cover: Robert Glasper
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,344,780 likes - 160 songs - 8 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,344,910 likes - 160 songs - 8 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 52 | [Don't Pretend \- Acoustic](https://open.spotify.com/track/2sWL4tq39W5EMdC0ItdPTy) | [Kevin Ross](https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY) | [Don't Pretend \(Acoustic\)](https://open.spotify.com/album/1EVSU42vLvFmSjHt3TGmx1) | 2:21 |
 | 53 | [Fetish](https://open.spotify.com/track/5pfAGCLi2iva1TkooCFlPv) | [Josef Lamercier](https://open.spotify.com/artist/3T7YH8Lq7GMkrYLiWvaXgc), [Niko Oroc](https://open.spotify.com/artist/0hyAc4uL2daH73ehuYDLac), [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Fetish](https://open.spotify.com/album/6NJ7xeYsfNmfNTYvL1gm5N) | 3:02 |
 | 54 | [ORANGE WINE](https://open.spotify.com/track/6mvFSD5KNfWyQIsBrIRst2) | [BLK ODYSSY](https://open.spotify.com/artist/062tCT8GVioC9EMiI9jeOV) | [DIAMONDS & FREAKS](https://open.spotify.com/album/6do2sjAIStoojPhTMV3ETT) | 3:06 |
-| 55 | [BS](https://open.spotify.com/track/4c5VzowOXBYPveZPa51eRw) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT), [Rileyy Lanez](https://open.spotify.com/artist/1PmrYsZvpVB9ilWx0eZHdr) | [Full Circle : Sonic Book 1](https://open.spotify.com/album/0ZTwFe2keKG5kkROe5Unf7) | 3:25 |
+| 55 | [BS](https://open.spotify.com/track/4c5VzowOXBYPveZPa51eRw) | [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT), [Rileyy Lanez](https://open.spotify.com/artist/1PmrYsZvpVB9ilWx0eZHdr) | [Full Circle : Sonic Book One](https://open.spotify.com/album/0ZTwFe2keKG5kkROe5Unf7) | 3:25 |
 | 56 | [Too Far](https://open.spotify.com/track/3VW7KIvhdjJgTjy81i22XZ) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Grudges](https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2) | 2:54 |
 | 57 | [MUSE FREESTYLE](https://open.spotify.com/track/5QZ3Y4zHDEb8oTlRVmrizx) | [Ambré](https://open.spotify.com/artist/6gj3sMEZYP6IESIptoXnrP) | [who's loving you?](https://open.spotify.com/album/36SXVRBEeY8Zr46Jdo6YkR) | 3:58 |
 | 58 | [Fuck Your Friend](https://open.spotify.com/track/55TjrzpNTh67khSEpZ6BCq) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [When I Hear Your Name](https://open.spotify.com/album/4iJiu3yFSwRNPe7dJBwtPM) | 2:44 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 159 | [pieces](https://open.spotify.com/track/2o9aMaRxK62Nw8KdONNoZU) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [flora + fana](https://open.spotify.com/album/6IR4vr9w4hnRpFap54vOhg) | 2:44 |
 | 160 | [Good & Plenty \- Remix](https://open.spotify.com/track/6T3Ebo7EOh8cUOyE4OhFpp) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Good & Plenty \(Remix\)](https://open.spotify.com/album/3myUd2MqJKr3rfUrAf41Us) | 3:24 |
 
-Snapshot ID: `MCw5MTQ0NzRmNTJiZWQzMzMzZWViODc3MzBiMDVmM2M3ZjhmOWJjMDNm`
+Snapshot ID: `MCwxZWNhY2Y1M2VkZTAzNjUyMWQwNmJjNmZkMmMzNmNiNmVlNzBkMzQ3`

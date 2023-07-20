@@ -2285,13 +2285,31 @@
     },
     {
       "album": {
+        "name": "El Qalb Hab",
+        "url": "https://open.spotify.com/album/1lDfJuWLlTq3staZDOF6i6"
+      },
+      "artists": [
+        {
+          "name": "Mona",
+          "url": "https://open.spotify.com/artist/0XDedczfxD2nnwn1Fe0WRr"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194725,
+      "name": "El Qalb Hab",
+      "url": "https://open.spotify.com/track/1OUQcMVeT1YkcsMLIOj1Au"
+    },
+    {
+      "album": {
         "name": "El Raasha",
         "url": "https://open.spotify.com/album/7zc6nx9VVqPeyubRtRPseV"
       },
       "artists": [
         {
           "name": "Sandy",
-          "url": "https://open.spotify.com/artist/4eAQYYrpDuYXiswOkJC9rA"
+          "url": "https://open.spotify.com/artist/2YvRrakSWfzyWwv8JCeeC5"
         }
       ],
       "date_added": "2023-07-17",
@@ -5442,7 +5460,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 230400,
       "name": "Nefrah Barsha - Aswatna",
       "url": "https://open.spotify.com/track/4VuAVQzUkli3xSHeN957gR"

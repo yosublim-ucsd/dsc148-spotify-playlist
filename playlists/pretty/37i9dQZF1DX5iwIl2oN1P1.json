@@ -1,12 +1,12 @@
 {
   "description": "Get your Sunday sound right with this collection of current Gospel essentials.",
-  "num_followers": 86387,
+  "num_followers": 86449,
   "original_name": "Sundays Best",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxY2FlYWNmNWIyOTczNzlhODIxNjY3NDJlMTQ5YjI0MjAzMGVlOTU4",
+  "snapshot_id": "MCxhYWRhODU5NjlhZWFmZGJlYjZlZWUzODRjMDNmZDgwMWYzOWYyMjM3",
   "tracks": [
     {
       "added_at": "2020-06-03 14:33:10",
@@ -959,22 +959,6 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "Bigger Than Me",
-        "url": "https://open.spotify.com/album/4nTMAzLLBuB1YrKOEjcVe4"
-      },
-      "artists": [
-        {
-          "name": "Le'Andria Johnson",
-          "url": "https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh"
-        }
-      ],
-      "duration_ms": 259853,
-      "name": "Bigger Than Me",
-      "url": "https://open.spotify.com/track/1d4fH9BBbKwZmq2CJynsuL"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
         "name": "Beyond The Veil: Live At Bobby Jones Gospel Explosion XIII",
         "url": "https://open.spotify.com/album/4Fg8OaeE26o8IjZw03iRLo"
       },
@@ -991,18 +975,34 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "I'm All In",
-        "url": "https://open.spotify.com/album/2OGtoyigrfRs1h9TdZWlSK"
+        "name": "Bigger Than Me",
+        "url": "https://open.spotify.com/album/4nTMAzLLBuB1YrKOEjcVe4"
       },
       "artists": [
         {
-          "name": "Maranda Curtis",
-          "url": "https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502"
+          "name": "Le'Andria Johnson",
+          "url": "https://open.spotify.com/artist/5gpgMHIDzhdGccwJniIXrh"
         }
       ],
-      "duration_ms": 203911,
-      "name": "I'm All In",
-      "url": "https://open.spotify.com/track/1ijoiBbxkaeqsGO0Dnsssn"
+      "duration_ms": 259853,
+      "name": "Bigger Than Me",
+      "url": "https://open.spotify.com/track/1d4fH9BBbKwZmq2CJynsuL"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "I Am (Radio Edit)",
+        "url": "https://open.spotify.com/album/5xnXnNzG7FUUrIZdiTxYot"
+      },
+      "artists": [
+        {
+          "name": "Jason Nelson",
+          "url": "https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef"
+        }
+      ],
+      "duration_ms": 287674,
+      "name": "I Am - Radio Edit",
+      "url": "https://open.spotify.com/track/1X2DFg7sUV1ajTbsJFJKqx"
     }
   ],
   "unique_name": "Sundays Best",

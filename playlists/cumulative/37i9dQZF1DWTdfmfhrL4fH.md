@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2010s rock!  Cover: Papa Roach.
 
-537 songs - 1 day 9 hr 43 min
+538 songs - 1 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Congregation](https://open.spotify.com/track/40cLVGkjzcZ5FJ3vHkXB0e) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Sonic Highways](https://open.spotify.com/album/2qwN15acAl3sm3Idce5vK9) | 5:11 | 2022-05-25 | 2022-07-29 |
 | [Criticize](https://open.spotify.com/track/6NdavLbxlTaCGvB0eOoXZw) | [Adelitas Way](https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk) | [Home School Valedictorian](https://open.spotify.com/album/4wphpmpU7otsQnFEjIHcMT) | 3:02 | 2022-05-25 | 2022-07-29 |
 | [Crooked Teeth](https://open.spotify.com/track/1zZNqc8DRjJAUQYdHi6SL9) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth](https://open.spotify.com/album/77baLqvmf1QfIxfufvPwE7) | 3:03 | 2022-05-25 | 2022-07-29 |
+| [Cross Off](https://open.spotify.com/track/3EAeH1G0BoxQIX8SmgjqAy) | [Mark Morton](https://open.spotify.com/artist/5w09r1HW3Dc8BMYIvqbnnF), [Chester Bennington](https://open.spotify.com/artist/4P0eS4QK9qeUhqrapGsJKS) | [Anesthetic](https://open.spotify.com/album/6L6uIRjZySB3J96kZ974NR) | 4:13 | 2023-01-18 |  |
 | [Cross Off](https://open.spotify.com/track/3mpZzg6fdRM1uUlkLZafVH) | [Mark Morton](https://open.spotify.com/artist/5w09r1HW3Dc8BMYIvqbnnF), [Chester Bennington](https://open.spotify.com/artist/4P0eS4QK9qeUhqrapGsJKS) | [Anesthetic](https://open.spotify.com/album/65shF8hKjk7GqJVVSW8Z1G) | 4:13 | 2022-05-25 | 2022-07-29 |
 | [Crossroads](https://open.spotify.com/track/6sCGVAUwValfBkChJaFThx) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Heart Vs\. Mind](https://open.spotify.com/album/6bywSFiasl6HpfQLDvh0az) | 3:29 | 2022-05-25 | 2022-07-29 |
 | [Cry of Achilles](https://open.spotify.com/track/6njG9CbhFC2FrCEVroE0ma) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Fortress](https://open.spotify.com/album/14XXkmq6rjlKTxRkelMtZx) | 6:30 | 2022-05-25 | 2022-07-29 |
@@ -151,7 +152,7 @@
 | [Fallen Angels](https://open.spotify.com/track/1rgPXmgq1rOwglSwaTrq9S) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Set The World On Fire](https://open.spotify.com/album/3iTUq3CfkKcD5ZN4zgcDIA) | 3:44 | 2022-05-25 |  |
 | [Feels Like Summer](https://open.spotify.com/track/6tNQw4RAj7oYogHXVzKJg8) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Feels Like Summer](https://open.spotify.com/album/6xvakWG4IcWw45p7rzs3mS) | 3:15 | 2022-05-25 | 2022-07-15 |
 | [Feels Like Summer](https://open.spotify.com/track/2jz1bw1p0WQj0PDnVDP0uY) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Pacific Daydream](https://open.spotify.com/album/3EwfQtjvyRAXsPWAKO5FDP) | 3:15 | 2022-05-25 |  |
-| [Feet Don't Fail Me](https://open.spotify.com/track/4NVKpvX9pcSeoKiNvjmb5X) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Villains](https://open.spotify.com/album/7vuIN24G18PAUAvjnICyA6) | 5:41 | 2023-01-18 |  |
+| [Feet Don't Fail Me](https://open.spotify.com/track/4NVKpvX9pcSeoKiNvjmb5X) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Villains](https://open.spotify.com/album/7vuIN24G18PAUAvjnICyA6) | 5:41 | 2023-01-18 | 2023-07-20 |
 | [Find Me](https://open.spotify.com/track/2mwnYvlLVP465u9V9wjUGj) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 4:05 | 2022-05-25 |  |
 | [Floral & Fading](https://open.spotify.com/track/3Fnf4J72Y1ImGILcAh1Z2s) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Misadventures](https://open.spotify.com/album/4wIX07SiESzMbSLCK3qCWQ) | 3:29 | 2022-05-25 | 2022-07-08 |
 | [Flower Power](https://open.spotify.com/track/4SE1kjgRulcwjNcc7oFFg4) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [From The Fires](https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w) | 5:12 | 2022-05-25 |  |

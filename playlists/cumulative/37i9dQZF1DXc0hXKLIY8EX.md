@@ -4,7 +4,7 @@
 
 > New York, Jersey, and Connecticut music breaking waves\. Cover: Coco & Breezy
 
-99 songs - 4 hr 42 min
+100 songs - 4 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [WYA](https://open.spotify.com/track/4K7pG4OeQ3LRDlPFB2ht2Y) | [Steph G](https://open.spotify.com/artist/1AjUSwDb1g2P9RqiCHLVeY) | [WYA](https://open.spotify.com/album/43nmGMEscmLqW5MGa6Sy04) | 1:41 | 2023-06-23 |  |
 | [YOU & I \- DJ Smallz 732 Remix](https://open.spotify.com/track/0brIQcVVjqvkarkvBzwZgL) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [YOU & I \(DJ Smallz 732 Remix\)](https://open.spotify.com/album/6nOXRlIOq2zt1J2P8Ef4Ac) | 1:51 | 2023-05-18 |  |
 | [You Get A Hoe](https://open.spotify.com/track/3XbtTYDHsb3r1zLbz5IkJz) | [snowsa](https://open.spotify.com/artist/1CjeZeV3TnH5XUlUGMqedu) | [You Get A Hoe](https://open.spotify.com/album/3UcZ9ZDPcFrApdmSmK8hQw) | 2:33 | 2023-06-11 | 2023-07-15 |
-| [You Got Me](https://open.spotify.com/track/2ZrpCgfRJnyyZVv7nAQACP) | [Lindsay Lucas](https://open.spotify.com/artist/4UZ5np9gtAXfRHR3gBSNVh), [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF), [Keenyn Omari](https://open.spotify.com/artist/30wyy77Ypzxj2B5C0faRS3) | [You Got Me](https://open.spotify.com/album/7iDgveax7vXamFIXemrYMN) | 3:25 | 2023-07-14 |  |
+| [You Got Me](https://open.spotify.com/track/2ZrpCgfRJnyyZVv7nAQACP) | [Lindsay Lucas](https://open.spotify.com/artist/4UZ5np9gtAXfRHR3gBSNVh), [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF), [Keenyn Omari](https://open.spotify.com/artist/30wyy77Ypzxj2B5C0faRS3) | [You Got Me](https://open.spotify.com/album/7iDgveax7vXamFIXemrYMN) | 3:25 | 2023-07-14 | 2023-07-20 |
+| [You Got Me](https://open.spotify.com/track/5ykfLaErZagVPL1N6movaf) | [Lindsay Lucas](https://open.spotify.com/artist/4UZ5np9gtAXfRHR3gBSNVh), [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF), [Keenyn Omari](https://open.spotify.com/artist/30wyy77Ypzxj2B5C0faRS3) | [Plans](https://open.spotify.com/album/3iWeg1PEveZ3sCs7ixmlFS) | 3:25 | 2023-07-18 |  |
 
 \*This playlist was first scraped on 2023-05-19. Prior content cannot be recovered.

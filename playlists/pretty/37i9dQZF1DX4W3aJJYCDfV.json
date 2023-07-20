@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from J Hus (pictured), Billie Eilish, Disclosure and more!",
-  "num_followers": 834916,
+  "num_followers": 834943,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTYwNWY5YjVkMGY3ZmQzY2NjZWIzNDQwY2IwY2E1OGNkNWU3NWE2",
+  "snapshot_id": "MCxiM2FkMTU1ODlhY2ZiOWZkYWY1YWNiMzA2NzU4YjA2NTc2NTI2ZDZl",
   "tracks": [
     {
       "added_at": "2023-07-13 23:00:00",
@@ -238,10 +238,6 @@
         {
           "name": "Latto",
           "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
       "duration_ms": 184400,

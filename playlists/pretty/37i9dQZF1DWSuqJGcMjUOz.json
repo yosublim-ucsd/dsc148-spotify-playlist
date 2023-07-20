@@ -1,12 +1,12 @@
 {
   "description": "La liste de lecture officielle de l\u2019\u00e9dition 2023 des Francos de Montr\u00e9al!",
-  "num_followers": 3885,
+  "num_followers": 3890,
   "original_name": "Francos de Montr\u00e9al 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MWJmZjFkMjg5ZDY3ZGE4NzQwOWEwNWE1MjU4ZThmNzdiZDY5NzBk",
+  "snapshot_id": "MCwzOWIxNDg3OGYyNzhiMTE4MDRiM2E5MzY0OGMyMmQyMzU5YmIwMGZk",
   "tracks": [
     {
       "added_at": "2023-05-25 23:46:15",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Aux portes du matin",
-        "url": "https://open.spotify.com/album/16KeQd5pDMvrMI4Kt4NyHW"
-      },
-      "artists": [
-        {
-          "name": "Richard S\u00e9guin",
-          "url": "https://open.spotify.com/artist/4uaplzxgAkmohdv30bAFZo"
-        }
-      ],
-      "duration_ms": 337533,
-      "name": "Aux portes du matin",
-      "url": "https://open.spotify.com/track/7tPINSBzEWzNaw8Bw1d7pX"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Adieu les monstres",
         "url": "https://open.spotify.com/album/0UrbIea2sXlvZfMhD9PkFA"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 167186,
       "name": "Les gla\u00e7ons",
       "url": "https://open.spotify.com/track/2c5qBGUZBUm6g369hX6nSz"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Aux portes du matin",
+        "url": "https://open.spotify.com/album/16KeQd5pDMvrMI4Kt4NyHW"
+      },
+      "artists": [
+        {
+          "name": "Richard S\u00e9guin",
+          "url": "https://open.spotify.com/artist/4uaplzxgAkmohdv30bAFZo"
+        }
+      ],
+      "duration_ms": 337533,
+      "name": "Aux portes du matin",
+      "url": "https://open.spotify.com/track/7tPINSBzEWzNaw8Bw1d7pX"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Grand Eug\u00e8ne",
+        "url": "https://open.spotify.com/album/60doKMH86BYnApXvT5jeic"
+      },
+      "artists": [
+        {
+          "name": "Grand Eug\u00e8ne",
+          "url": "https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT"
+        }
+      ],
+      "duration_ms": 199719,
+      "name": "Celle-l\u00e0",
+      "url": "https://open.spotify.com/track/3hm9gts2ixxMsPEn0MiH9G"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Jos\u00e9 Louis And The Paradox Of Love",
         "url": "https://open.spotify.com/album/5tDp9bLRK35HVbFIG80lpf"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 184946,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/5HWsGUloryGa2IxSCofayo"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Grand Eug\u00e8ne",
-        "url": "https://open.spotify.com/album/60doKMH86BYnApXvT5jeic"
-      },
-      "artists": [
-        {
-          "name": "Grand Eug\u00e8ne",
-          "url": "https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT"
-        }
-      ],
-      "duration_ms": 199719,
-      "name": "Celle-l\u00e0",
-      "url": "https://open.spotify.com/track/3hm9gts2ixxMsPEn0MiH9G"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Danser",
-        "url": "https://open.spotify.com/album/2U2w4Q9zSKSWdm4ROY0A55"
-      },
-      "artists": [
-        {
-          "name": "Grand Eug\u00e8ne",
-          "url": "https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT"
-        }
-      ],
-      "duration_ms": 176626,
-      "name": "Danser",
-      "url": "https://open.spotify.com/track/6AT0rc6dhB4f5cjULRyd7Z"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Il faut partir maintenant",
         "url": "https://open.spotify.com/album/09rm9yyPoxbfjOXMFpwfhm"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 178405,
       "name": "Penses-tu rester encore?",
       "url": "https://open.spotify.com/track/6zwbqkwvMuqSLXGvQecKql"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Danser",
+        "url": "https://open.spotify.com/album/2U2w4Q9zSKSWdm4ROY0A55"
+      },
+      "artists": [
+        {
+          "name": "Grand Eug\u00e8ne",
+          "url": "https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT"
+        }
+      ],
+      "duration_ms": 176626,
+      "name": "Danser",
+      "url": "https://open.spotify.com/track/6AT0rc6dhB4f5cjULRyd7Z"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Soleil",
+        "url": "https://open.spotify.com/album/25Fs9y1TTVzAtTyxzUtJ7T"
+      },
+      "artists": [
+        {
+          "name": "Peanut Butter Sunday",
+          "url": "https://open.spotify.com/artist/4eDqyTTv3OAh7WDEO4yKWB"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Soleil",
+      "url": "https://open.spotify.com/track/1gyGXCiMFynb95T18Oc8yl"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Waska Matisiwin",
         "url": "https://open.spotify.com/album/0Tm5Exm8H4m2L1HoojSWBG"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 231093,
       "name": "V\u00e9nus",
       "url": "https://open.spotify.com/track/4E1oxvahPId9N9qjdBKX4M"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Soleil",
-        "url": "https://open.spotify.com/album/25Fs9y1TTVzAtTyxzUtJ7T"
-      },
-      "artists": [
-        {
-          "name": "Peanut Butter Sunday",
-          "url": "https://open.spotify.com/artist/4eDqyTTv3OAh7WDEO4yKWB"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Soleil",
-      "url": "https://open.spotify.com/track/1gyGXCiMFynb95T18Oc8yl"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Exposition individuelle",
-        "url": "https://open.spotify.com/album/07uNRE8HbeyOCSokU6Ve4X"
-      },
-      "artists": [
-        {
-          "name": "Hippie Hourrah",
-          "url": "https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj"
-        }
-      ],
-      "duration_ms": 206306,
-      "name": "Le temps des morts",
-      "url": "https://open.spotify.com/track/1OexP2LCoYK896qPpOyNOl"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Alexandre Martel",
         "url": "https://open.spotify.com/album/12gDz8t5kwGaQtuWrwVEsH"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 258215,
       "name": "Toune 9",
       "url": "https://open.spotify.com/track/6SIBHaXzFYw7NG98NnNbWL"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Exposition individuelle",
+        "url": "https://open.spotify.com/album/07uNRE8HbeyOCSokU6Ve4X"
+      },
+      "artists": [
+        {
+          "name": "Hippie Hourrah",
+          "url": "https://open.spotify.com/artist/3bleTECnmOHmAXDHp057aj"
+        }
+      ],
+      "duration_ms": 206306,
+      "name": "Le temps des morts",
+      "url": "https://open.spotify.com/track/1OexP2LCoYK896qPpOyNOl"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1815,6 +1815,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Lance-Flamme Lance-Glace",
+        "url": "https://open.spotify.com/album/4fdaBFDsJ1y7vJFgVMKvCR"
+      },
+      "artists": [
+        {
+          "name": "YOCTO",
+          "url": "https://open.spotify.com/artist/6oL1PKTxXeIYiobQD30O3n"
+        }
+      ],
+      "duration_ms": 181286,
+      "name": "Lance-Flamme Lance-Glace",
+      "url": "https://open.spotify.com/track/04mBqAXAqVpBSjMRlD2qrv"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "Or",
         "url": "https://open.spotify.com/album/7baidwdjs0YAGX4eKVMK7e"
       },
@@ -1835,18 +1851,18 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Lance-Flamme Lance-Glace",
-        "url": "https://open.spotify.com/album/4fdaBFDsJ1y7vJFgVMKvCR"
+        "name": "Grand Bleu",
+        "url": "https://open.spotify.com/album/78n0CAVpQ3GJJ148WSDRxz"
       },
       "artists": [
         {
-          "name": "YOCTO",
-          "url": "https://open.spotify.com/artist/6oL1PKTxXeIYiobQD30O3n"
+          "name": "Baie",
+          "url": "https://open.spotify.com/artist/1abqJO9ACBpOLxU9jugbcW"
         }
       ],
-      "duration_ms": 181286,
-      "name": "Lance-Flamme Lance-Glace",
-      "url": "https://open.spotify.com/track/04mBqAXAqVpBSjMRlD2qrv"
+      "duration_ms": 175388,
+      "name": "Grand Bleu",
+      "url": "https://open.spotify.com/track/3QLccDBR414z0qExgMp4FH"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1867,22 +1883,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Grand Bleu",
-        "url": "https://open.spotify.com/album/78n0CAVpQ3GJJ148WSDRxz"
-      },
-      "artists": [
-        {
-          "name": "Baie",
-          "url": "https://open.spotify.com/artist/1abqJO9ACBpOLxU9jugbcW"
-        }
-      ],
-      "duration_ms": 175388,
-      "name": "Grand Bleu",
-      "url": "https://open.spotify.com/track/3QLccDBR414z0qExgMp4FH"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Nouvelle administration",
         "url": "https://open.spotify.com/album/1PYQvFT5MWMb12M1EAKY7u"
       },
@@ -1895,22 +1895,6 @@
       "duration_ms": 198145,
       "name": "Nouvelle administration",
       "url": "https://open.spotify.com/track/3bh1iLjPXYSzeNRfnobnpu"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
-        "name": "Tous les jours printemps",
-        "url": "https://open.spotify.com/album/0lLG060tds4iQhGQHGAixA"
-      },
-      "artists": [
-        {
-          "name": "Original Gros Bonnet",
-          "url": "https://open.spotify.com/artist/3J6TngTFpTA7THynTV7BbX"
-        }
-      ],
-      "duration_ms": 249480,
-      "name": "Glace noire",
-      "url": "https://open.spotify.com/track/22FXAL3JiYeeYK8E54SLat"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -1935,6 +1919,22 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
+        "name": "Tous les jours printemps",
+        "url": "https://open.spotify.com/album/0lLG060tds4iQhGQHGAixA"
+      },
+      "artists": [
+        {
+          "name": "Original Gros Bonnet",
+          "url": "https://open.spotify.com/artist/3J6TngTFpTA7THynTV7BbX"
+        }
+      ],
+      "duration_ms": 249480,
+      "name": "Glace noire",
+      "url": "https://open.spotify.com/track/22FXAL3JiYeeYK8E54SLat"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
         "name": "La fable de la grenouille dor\u00e9e",
         "url": "https://open.spotify.com/album/2tcDyiKN4BWbQXgW494el5"
       },
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "L'\u00e9chec h\u00e9ro\u00efque",
-        "url": "https://open.spotify.com/album/4bGuS9lrPffg6tdu7xSO8Y"
-      },
-      "artists": [
-        {
-          "name": "Thick Glasses",
-          "url": "https://open.spotify.com/artist/0ooRDDFwWf2rnbgJ80VLGj"
-        }
-      ],
-      "duration_ms": 204461,
-      "name": "Mydriase",
-      "url": "https://open.spotify.com/track/08awCBhPzOaNwijJ6G50rN"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Hauterive",
         "url": "https://open.spotify.com/album/2T3H2zGJ0OAdpDDful41Bn"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 269173,
       "name": "Le temps d'avance",
       "url": "https://open.spotify.com/track/7sYhY4B6gKSH5XERKxS6UF"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "L'\u00e9chec h\u00e9ro\u00efque",
+        "url": "https://open.spotify.com/album/4bGuS9lrPffg6tdu7xSO8Y"
+      },
+      "artists": [
+        {
+          "name": "Thick Glasses",
+          "url": "https://open.spotify.com/artist/0ooRDDFwWf2rnbgJ80VLGj"
+        }
+      ],
+      "duration_ms": 204461,
+      "name": "Mydriase",
+      "url": "https://open.spotify.com/track/08awCBhPzOaNwijJ6G50rN"
     },
     {
       "added_at": "2023-05-25 23:46:15",
@@ -2163,22 +2163,6 @@
     {
       "added_at": "2023-05-25 23:46:15",
       "album": {
-        "name": "Pissenlit",
-        "url": "https://open.spotify.com/album/5lBRmRxZcZ6TiJojHxruCW"
-      },
-      "artists": [
-        {
-          "name": "Guillaume Bordel",
-          "url": "https://open.spotify.com/artist/27jvdhJdj3wXIiNX2nomDG"
-        }
-      ],
-      "duration_ms": 211935,
-      "name": "Pissenlit",
-      "url": "https://open.spotify.com/track/4nLXhQZ8SRe0lrHUupoycA"
-    },
-    {
-      "added_at": "2023-05-25 23:46:15",
-      "album": {
         "name": "Bad Vibrations",
         "url": "https://open.spotify.com/album/7yb4goAE9BXatz579m7XHO"
       },
@@ -2191,6 +2175,22 @@
       "duration_ms": 167851,
       "name": "Alien 2, le retour",
       "url": "https://open.spotify.com/track/36EOocCydeuIBIAsQjjSRR"
+    },
+    {
+      "added_at": "2023-05-25 23:46:15",
+      "album": {
+        "name": "Pissenlit",
+        "url": "https://open.spotify.com/album/5lBRmRxZcZ6TiJojHxruCW"
+      },
+      "artists": [
+        {
+          "name": "Guillaume Bordel",
+          "url": "https://open.spotify.com/artist/27jvdhJdj3wXIiNX2nomDG"
+        }
+      ],
+      "duration_ms": 211935,
+      "name": "Pissenlit",
+      "url": "https://open.spotify.com/track/4nLXhQZ8SRe0lrHUupoycA"
     },
     {
       "added_at": "2023-05-25 23:46:15",

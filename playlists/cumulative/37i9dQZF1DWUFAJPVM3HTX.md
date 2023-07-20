@@ -4,7 +4,7 @@
 
 > The best new R&B by independent artists and labels\. Cover: Lekan\. Updates every Wednesday.
 
-1,516 songs - 3 day 6 hr 10 min
+1,517 songs - 3 day 6 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1074,7 +1074,8 @@
 | [Puddles](https://open.spotify.com/track/6V1RPcnnpiw4WIFKNI1GWK) | [Nat Slater](https://open.spotify.com/artist/6aoPz3BFmcELxlTAx9xxts) | [Puddles](https://open.spotify.com/album/3KmHQqnBYtynGMt6ZW16FP) | 3:35 | 2022-01-12 | 2022-02-10 |
 | [Pull Up](https://open.spotify.com/track/0Awa71AbHNfZre7Wew1iYg) | [LANDEL](https://open.spotify.com/artist/6tvOxTM1eMfN1Cbpunm5Yp) | [Yours or Mine?](https://open.spotify.com/album/5nj3oGY7rQfgAk6DPfylOS) | 2:40 | 2022-01-26 | 2022-03-31 |
 | [Purple](https://open.spotify.com/track/7ahZCzpwtN2TNhpJQbkuI6) | [Kwamé](https://open.spotify.com/artist/1KIS0P3Qlw8evjLOQvxcAi), [Keagan](https://open.spotify.com/artist/3EVTqnnsjJwFRzjJsZgMPC) | [Purple](https://open.spotify.com/album/0co7dktZiSsW1KomkRXvAY) | 3:01 | 2022-08-26 | 2022-09-22 |
-| [Purple Skies](https://open.spotify.com/track/0ToLN32qF8AChmMqRPkjlR) | [Abrina](https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58) | [Purple Skies](https://open.spotify.com/album/4JJjhiUJE60AAQJPLyX2W9) | 2:48 | 2023-05-19 |  |
+| [Purple Skies](https://open.spotify.com/track/0ToLN32qF8AChmMqRPkjlR) | [Abrina](https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58) | [Purple Skies](https://open.spotify.com/album/4JJjhiUJE60AAQJPLyX2W9) | 2:48 | 2023-05-19 | 2023-07-20 |
+| [Purple Skies](https://open.spotify.com/track/1pMcWLzjFpTv6u1r6P0Enx) | [Abrina](https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58) | [Purple Skies](https://open.spotify.com/album/42tU9SHtrKPBNstq3kHxkc) | 2:48 | 2023-05-19 |  |
 | [Purple Skies](https://open.spotify.com/track/4PVfAPSQVK7wrnAJoXiBBp) | [Raelle](https://open.spotify.com/artist/6ryr8CPNOimXJHnbtyZKtc) | [Purple Skies](https://open.spotify.com/album/2ipCn0mz8VFKOnfNG9yvPZ) | 3:24 | 2021-12-01 | 2022-01-13 |
 | [Purpose](https://open.spotify.com/track/07v4ZQgNrBtRjTbPQbH9UL) | [Ayoni](https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6) | [Purpose](https://open.spotify.com/album/30FVhviyJzjAdMMXLfN0VD) | 3:49 | 2023-06-14 |  |
 | [Purpose](https://open.spotify.com/track/7MyBdp1o4VAIpQwzm96p4A) | [LÉA THE LEOX](https://open.spotify.com/artist/76yn7CZJcpG479LvqWHh8O) | [Purpose](https://open.spotify.com/album/2XvBrmoAQYXWVb4wsAyHFp) | 3:17 | 2023-03-10 | 2023-05-27 |

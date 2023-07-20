@@ -4862,7 +4862,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-20",
       "duration_ms": 156000,
       "name": "Lou Fai Cumbia",
       "url": "https://open.spotify.com/track/4ZOUcA0HJ9QFWKKMDNWq7c"
@@ -8890,6 +8890,32 @@
       "duration_ms": 76923,
       "name": "Tropical mood",
       "url": "https://open.spotify.com/track/5iFoZkbtZ0XWwMR5jL0sQK"
+    },
+    {
+      "album": {
+        "name": "Tropics",
+        "url": "https://open.spotify.com/album/7lCUNXvgCJhm6B0suFB0Oe"
+      },
+      "artists": [
+        {
+          "name": "Living Room",
+          "url": "https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK"
+        },
+        {
+          "name": "Leo Motta",
+          "url": "https://open.spotify.com/artist/6ugB87XnwqEwHL5s6ovPAP"
+        },
+        {
+          "name": "Bernardo Massot",
+          "url": "https://open.spotify.com/artist/64Rw1nS5vpvQHvuy9dKsRY"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106046,
+      "name": "Tropics",
+      "url": "https://open.spotify.com/track/7CyeuyJTmcqs0OnJJy53wA"
     },
     {
       "album": {

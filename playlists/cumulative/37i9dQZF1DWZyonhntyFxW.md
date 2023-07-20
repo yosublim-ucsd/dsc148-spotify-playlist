@@ -4,7 +4,7 @@
 
 > أقوى أغاني الراب المصري في مكان واحد 😎! غلاف: <a href="https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo?si=PWJjdqZgTbKUjDdKpRdIMA">دبل زوكش  </a>
 
-203 songs - 10 hr 23 min
+204 songs - 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,8 @@
 | [Narcos](https://open.spotify.com/track/3EVvQT3vvXiBHOQwbMJMEZ) | [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [Narcos](https://open.spotify.com/album/6vXFlldjH89AZJ1uFWcAG5) | 2:52 | 2022-05-10 | 2022-11-08 |
 | [Nargasa](https://open.spotify.com/track/6C3b22RiVowlAiv0aDHvRl) | [Shehab](https://open.spotify.com/artist/5764EiAfWT26wi1CdLcnwz) | [Nargasa](https://open.spotify.com/album/6auK24zM4t5RIKPC6cI17y) | 2:33 | 2022-05-10 | 2022-07-29 |
 | [Nazlet Seman](https://open.spotify.com/track/3kvFynFheCVVecaJLKketl) | [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Awdet El Ebn El Dal](https://open.spotify.com/album/6LF5pyZ6adBuv0jdmgtBwb) | 2:48 | 2023-05-04 |  |
-| [Negm](https://open.spotify.com/track/3PeiVnZUO7PFRqGjV2hCW8) | [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Negm](https://open.spotify.com/album/50hODkRSOKdbimK9moVDfJ) | 3:40 | 2023-06-15 |  |
+| [Negm](https://open.spotify.com/track/1PXtsjfRF9gTo49aKHvSky) | [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Negm](https://open.spotify.com/album/3ULU5GSdofZzkRbm4YQvbr) | 3:40 | 2023-07-17 |  |
+| [Negm](https://open.spotify.com/track/3PeiVnZUO7PFRqGjV2hCW8) | [Lil Baba](https://open.spotify.com/artist/0BoBtCqcbWMR0aa64eUuUa), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Negm](https://open.spotify.com/album/50hODkRSOKdbimK9moVDfJ) | 3:40 | 2023-06-15 | 2023-07-20 |
 | [No Problema](https://open.spotify.com/track/3ULltzFiFkQO1ojly0zUh3) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9), [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [No Problema](https://open.spotify.com/album/1LgemKfJ05vDyUePTOr1gv) | 2:18 | 2022-05-10 | 2023-02-12 |
 | [No Problema](https://open.spotify.com/track/5AjsPhrcGQdRdkqLRalRfw) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9), [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [No Problema](https://open.spotify.com/album/3PWZcOc8IeMcCq0tiSqdpZ) | 2:18 | 2023-02-10 | 2023-02-14 |
 | [Oghnya OldSchool Gdeda](https://open.spotify.com/track/5XM88BvsRPBqg5dgCueIT7) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj) | [Oghnya OldSchool Gdeda](https://open.spotify.com/album/3AFOSy3rF2dxso0lImNmIu) | 3:30 | 2023-03-06 | 2023-05-12 |

@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Bela Maria",
-  "num_followers": 161707,
+  "num_followers": 161735,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMmE0N2VkMjVjZGM5MGIzMmY2YjVhNDJhZGY1MDFiNmY1NTUxNjJk",
+  "snapshot_id": "MCw1MmZjYzZjMjMzZjgwMzVlN2ZkZmRiZTZjNzY5ODFiNzZmZDc1NTI0",
   "tracks": [
     {
       "added_at": "2023-07-14 03:01:00",
@@ -395,6 +395,22 @@
     {
       "added_at": "2023-07-14 03:01:00",
       "album": {
+        "name": "Por Mim J\u00e1 Deu",
+        "url": "https://open.spotify.com/album/3EBP1z3dhTcCpC5zFTGZjy"
+      },
+      "artists": [
+        {
+          "name": "Duda Kropf",
+          "url": "https://open.spotify.com/artist/5CoeMEElVJh6eFPtq2ahNJ"
+        }
+      ],
+      "duration_ms": 150500,
+      "name": "Por Mim J\u00e1 Deu",
+      "url": "https://open.spotify.com/track/1YLLdxzhlR4Fac5EL5XKJz"
+    },
+    {
+      "added_at": "2023-07-14 03:01:00",
+      "album": {
         "name": "perco o ar",
         "url": "https://open.spotify.com/album/2o8vquo00AThGJCJ4vbw4Z"
       },
@@ -415,18 +431,18 @@
     {
       "added_at": "2023-07-14 03:01:00",
       "album": {
-        "name": "Por Mim J\u00e1 Deu",
-        "url": "https://open.spotify.com/album/3EBP1z3dhTcCpC5zFTGZjy"
+        "name": "Fuder e Dormir Juntin",
+        "url": "https://open.spotify.com/album/53nXJdbxsoLg0BpJbOn3uA"
       },
       "artists": [
         {
-          "name": "Duda Kropf",
-          "url": "https://open.spotify.com/artist/5CoeMEElVJh6eFPtq2ahNJ"
+          "name": "Medulla",
+          "url": "https://open.spotify.com/artist/7CVOAoQbR9WM67A4ppOLAN"
         }
       ],
-      "duration_ms": 150500,
-      "name": "Por Mim J\u00e1 Deu",
-      "url": "https://open.spotify.com/track/1YLLdxzhlR4Fac5EL5XKJz"
+      "duration_ms": 180000,
+      "name": "Fuder e Dormir Juntin",
+      "url": "https://open.spotify.com/track/5SbtLc9nK4o1Y2QSMQG4JE"
     },
     {
       "added_at": "2023-07-14 03:01:00",
@@ -443,22 +459,6 @@
       "duration_ms": 170628,
       "name": "Gosto de Voc\u00ea",
       "url": "https://open.spotify.com/track/75YFJjfgVCM46P6UUfGhDx"
-    },
-    {
-      "added_at": "2023-07-14 03:01:00",
-      "album": {
-        "name": "Fuder e Dormir Juntin",
-        "url": "https://open.spotify.com/album/53nXJdbxsoLg0BpJbOn3uA"
-      },
-      "artists": [
-        {
-          "name": "Medulla",
-          "url": "https://open.spotify.com/artist/7CVOAoQbR9WM67A4ppOLAN"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Fuder e Dormir Juntin",
-      "url": "https://open.spotify.com/track/5SbtLc9nK4o1Y2QSMQG4JE"
     },
     {
       "added_at": "2023-07-14 03:01:00",
@@ -559,6 +559,26 @@
     {
       "added_at": "2023-07-14 03:01:00",
       "album": {
+        "name": "Sinal de Fuma\u00e7a",
+        "url": "https://open.spotify.com/album/5OkI6zKfhKzl1w3CjpvnOi"
+      },
+      "artists": [
+        {
+          "name": "Yas",
+          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
+        },
+        {
+          "name": "Thebosh",
+          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
+        }
+      ],
+      "duration_ms": 150833,
+      "name": "Sinal de Fuma\u00e7a",
+      "url": "https://open.spotify.com/track/76M93slEhL9Q9MEvbxycbe"
+    },
+    {
+      "added_at": "2023-07-14 03:01:00",
+      "album": {
         "name": "Ch\u00e1zinho",
         "url": "https://open.spotify.com/album/79mcJaBbFTsuDkOhOmFca6"
       },
@@ -579,26 +599,6 @@
       "duration_ms": 195291,
       "name": "Ch\u00e1zinho",
       "url": "https://open.spotify.com/track/65NHHBrdCc5PuZkSFyICC2"
-    },
-    {
-      "added_at": "2023-07-14 03:01:00",
-      "album": {
-        "name": "Sinal de Fuma\u00e7a",
-        "url": "https://open.spotify.com/album/5OkI6zKfhKzl1w3CjpvnOi"
-      },
-      "artists": [
-        {
-          "name": "Yas",
-          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
-        },
-        {
-          "name": "Thebosh",
-          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
-        }
-      ],
-      "duration_ms": 150833,
-      "name": "Sinal de Fuma\u00e7a",
-      "url": "https://open.spotify.com/track/76M93slEhL9Q9MEvbxycbe"
     },
     {
       "added_at": "2023-07-14 03:01:00",
@@ -699,26 +699,26 @@
     {
       "added_at": "2023-07-14 03:01:00",
       "album": {
-        "name": "Censura e Prazer",
-        "url": "https://open.spotify.com/album/6GVlO9fjTtVFxQFSIvODog"
+        "name": "\u00c1gua (Dj Nyack Remix)",
+        "url": "https://open.spotify.com/album/0RqBQ7jwjFzVVLt0Tsrrpx"
       },
       "artists": [
         {
-          "name": "Kiaz",
-          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+          "name": "Amanda Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
         },
         {
-          "name": "Nael",
-          "url": "https://open.spotify.com/artist/7Ma72ox89biP5cDxmysAFM"
+          "name": "Vico",
+          "url": "https://open.spotify.com/artist/57O39UjU77GwgwlCLqHnFC"
         },
         {
-          "name": "Anchietx",
-          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
+          "name": "Dj Nyack",
+          "url": "https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx"
         }
       ],
-      "duration_ms": 235135,
-      "name": "Censura e Prazer",
-      "url": "https://open.spotify.com/track/74YV7f17mNoqNleCiZ1CUi"
+      "duration_ms": 233142,
+      "name": "\u00c1gua - Dj Nyack Remix",
+      "url": "https://open.spotify.com/track/4GPV2BdcXmOWArbqlwwAgX"
     },
     {
       "added_at": "2023-07-14 03:01:00",
@@ -751,26 +751,26 @@
     {
       "added_at": "2023-07-14 03:01:00",
       "album": {
-        "name": "\u00c1gua (Dj Nyack Remix)",
-        "url": "https://open.spotify.com/album/0RqBQ7jwjFzVVLt0Tsrrpx"
+        "name": "Censura e Prazer",
+        "url": "https://open.spotify.com/album/6GVlO9fjTtVFxQFSIvODog"
       },
       "artists": [
         {
-          "name": "Amanda Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
         },
         {
-          "name": "Vico",
-          "url": "https://open.spotify.com/artist/57O39UjU77GwgwlCLqHnFC"
+          "name": "Nael",
+          "url": "https://open.spotify.com/artist/7Ma72ox89biP5cDxmysAFM"
         },
         {
-          "name": "Dj Nyack",
-          "url": "https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx"
+          "name": "Anchietx",
+          "url": "https://open.spotify.com/artist/0Ld8rJ0rdAEAi2oe6seDEp"
         }
       ],
-      "duration_ms": 233142,
-      "name": "\u00c1gua - Dj Nyack Remix",
-      "url": "https://open.spotify.com/track/4GPV2BdcXmOWArbqlwwAgX"
+      "duration_ms": 235135,
+      "name": "Censura e Prazer",
+      "url": "https://open.spotify.com/track/74YV7f17mNoqNleCiZ1CUi"
     },
     {
       "added_at": "2023-07-14 03:01:00",
@@ -827,6 +827,26 @@
     {
       "added_at": "2023-07-14 03:01:00",
       "album": {
+        "name": "Nessa Vida",
+        "url": "https://open.spotify.com/album/5SivaxB405MCGeZroyNpza"
+      },
+      "artists": [
+        {
+          "name": "IGOR",
+          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
+        },
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        }
+      ],
+      "duration_ms": 189233,
+      "name": "Nessa Vida",
+      "url": "https://open.spotify.com/track/4ryu7kty8u9SiA5Md11D0B"
+    },
+    {
+      "added_at": "2023-07-14 03:01:00",
+      "album": {
         "name": "Rec\u00edproco",
         "url": "https://open.spotify.com/album/2ci8q15b2oS4tn7uYImo3E"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 156000,
       "name": "Conex\u00e3o",
       "url": "https://open.spotify.com/track/162nE0evxH5RWNWIBPALmk"
-    },
-    {
-      "added_at": "2023-07-14 03:01:00",
-      "album": {
-        "name": "Nessa Vida",
-        "url": "https://open.spotify.com/album/5SivaxB405MCGeZroyNpza"
-      },
-      "artists": [
-        {
-          "name": "IGOR",
-          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
-        },
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        }
-      ],
-      "duration_ms": 189233,
-      "name": "Nessa Vida",
-      "url": "https://open.spotify.com/track/4ryu7kty8u9SiA5Md11D0B"
     },
     {
       "added_at": "2023-07-14 03:01:00",
@@ -1031,30 +1031,6 @@
     {
       "added_at": "2023-07-14 03:01:00",
       "album": {
-        "name": "Mais Um Pouco",
-        "url": "https://open.spotify.com/album/66BaEyvRh9L7VjGGMF0tgs"
-      },
-      "artists": [
-        {
-          "name": "Murilo Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A"
-        },
-        {
-          "name": "ALLIRA",
-          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
-        },
-        {
-          "name": "FELL",
-          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
-        }
-      ],
-      "duration_ms": 185263,
-      "name": "Mais Um Pouco",
-      "url": "https://open.spotify.com/track/5IyQlAH7GTfmZClRGGHBEh"
-    },
-    {
-      "added_at": "2023-07-14 03:01:00",
-      "album": {
         "name": "Sozinho",
         "url": "https://open.spotify.com/album/31NtdfxBPy3XzI0CpxuY7d"
       },
@@ -1075,26 +1051,26 @@
     {
       "added_at": "2023-07-14 03:01:00",
       "album": {
-        "name": "Me Liga",
-        "url": "https://open.spotify.com/album/1DcRWkDLJYYFAKL4zjk3YT"
+        "name": "Mais Um Pouco",
+        "url": "https://open.spotify.com/album/66BaEyvRh9L7VjGGMF0tgs"
       },
       "artists": [
         {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+          "name": "Murilo Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A"
         },
         {
-          "name": "Liu Beatz",
-          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
+          "name": "ALLIRA",
+          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
         },
         {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+          "name": "FELL",
+          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
         }
       ],
-      "duration_ms": 163404,
-      "name": "Me liga",
-      "url": "https://open.spotify.com/track/2RSDjtRv0o0eJ8GssaqfSh"
+      "duration_ms": 185263,
+      "name": "Mais Um Pouco",
+      "url": "https://open.spotify.com/track/5IyQlAH7GTfmZClRGGHBEh"
     },
     {
       "added_at": "2023-07-14 03:01:00",
@@ -1131,26 +1107,26 @@
     {
       "added_at": "2023-07-14 03:01:00",
       "album": {
-        "name": "Marcas",
-        "url": "https://open.spotify.com/album/0o45SHCsgRZeFg0MYhhtMh"
+        "name": "Me Liga",
+        "url": "https://open.spotify.com/album/1DcRWkDLJYYFAKL4zjk3YT"
       },
       "artists": [
         {
-          "name": "ALLIRA",
-          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
         },
         {
-          "name": "Izy Castelano",
-          "url": "https://open.spotify.com/artist/2rAYpmc0WnoH9zOcDMQwjq"
+          "name": "Liu Beatz",
+          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
         },
         {
-          "name": "FELL",
-          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
         }
       ],
-      "duration_ms": 226206,
-      "name": "Marcas",
-      "url": "https://open.spotify.com/track/29uluLs7czmA7gFCyyjxkS"
+      "duration_ms": 163404,
+      "name": "Me liga",
+      "url": "https://open.spotify.com/track/2RSDjtRv0o0eJ8GssaqfSh"
     },
     {
       "added_at": "2023-07-14 03:01:00",
@@ -1211,6 +1187,54 @@
     {
       "added_at": "2023-07-14 03:01:00",
       "album": {
+        "name": "O Que Eu Soul (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5DCyIxkkD7LSErRyBS26oC"
+      },
+      "artists": [
+        {
+          "name": "Camila Zasoul",
+          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
+        },
+        {
+          "name": "YOYOTRACKS",
+          "url": "https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA"
+        },
+        {
+          "name": "UGOTZ",
+          "url": "https://open.spotify.com/artist/3EfVngLKGjQiyjUP1sL625"
+        }
+      ],
+      "duration_ms": 199625,
+      "name": "O Que Eu Soul - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5nde5dfB24TXkLSrIHor51"
+    },
+    {
+      "added_at": "2023-07-14 03:01:00",
+      "album": {
+        "name": "Marcas",
+        "url": "https://open.spotify.com/album/0o45SHCsgRZeFg0MYhhtMh"
+      },
+      "artists": [
+        {
+          "name": "ALLIRA",
+          "url": "https://open.spotify.com/artist/1YaRssOooph4Aj4faAS8VS"
+        },
+        {
+          "name": "Izy Castelano",
+          "url": "https://open.spotify.com/artist/2rAYpmc0WnoH9zOcDMQwjq"
+        },
+        {
+          "name": "FELL",
+          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
+        }
+      ],
+      "duration_ms": 226206,
+      "name": "Marcas",
+      "url": "https://open.spotify.com/track/29uluLs7czmA7gFCyyjxkS"
+    },
+    {
+      "added_at": "2023-07-14 03:01:00",
+      "album": {
         "name": "Pra Mim N\u00e3o D\u00e1",
         "url": "https://open.spotify.com/album/6b9pPvAJf6rJZfikk7681K"
       },
@@ -1263,30 +1287,6 @@
       "duration_ms": 163201,
       "name": "1001 Motivos",
       "url": "https://open.spotify.com/track/58BRMUXVVwe3haP1jlZBuo"
-    },
-    {
-      "added_at": "2023-07-14 03:01:00",
-      "album": {
-        "name": "O Que Eu Soul (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5DCyIxkkD7LSErRyBS26oC"
-      },
-      "artists": [
-        {
-          "name": "Camila Zasoul",
-          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
-        },
-        {
-          "name": "YOYOTRACKS",
-          "url": "https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA"
-        },
-        {
-          "name": "UGOTZ",
-          "url": "https://open.spotify.com/artist/3EfVngLKGjQiyjUP1sL625"
-        }
-      ],
-      "duration_ms": 199625,
-      "name": "O Que Eu Soul - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5nde5dfB24TXkLSrIHor51"
     },
     {
       "added_at": "2023-07-14 03:01:00",
