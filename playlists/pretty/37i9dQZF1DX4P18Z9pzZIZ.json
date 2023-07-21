@@ -1,103 +1,15 @@
 {
   "description": "hop on board, nonstop bops only!! ",
-  "num_followers": 36735,
+  "num_followers": 36766,
   "original_name": "poppin' off",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMGEzMTgxMDhiY2NjODM3MjQzNWFlMTRmMWMxMzA0YmMyMDgxNmI0",
+  "snapshot_id": "MCxkOGU3ZDRiYzZiMTM3NjBjNTgyOTdmYzRmYmM2NTE5NzI1YzVlMWI0",
   "tracks": [
     {
-      "added_at": "2023-07-12 10:07:27",
-      "album": {
-        "name": "Giving Me",
-        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
-      },
-      "artists": [
-        {
-          "name": "Jazzy",
-          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Giving Me",
-      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
-    },
-    {
-      "added_at": "2023-07-12 10:07:27",
-      "album": {
-        "name": "Good Love",
-        "url": "https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48"
-      },
-      "artists": [
-        {
-          "name": "Hannah Laing",
-          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
-        },
-        {
-          "name": "RoRo",
-          "url": "https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff"
-        }
-      ],
-      "duration_ms": 169534,
-      "name": "Good Love",
-      "url": "https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP"
-    },
-    {
-      "added_at": "2023-07-12 10:07:27",
-      "album": {
-        "name": "(It Goes Like) Nanana [Edit]",
-        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 231545,
-      "name": "(It Goes Like) Nanana - Edit",
-      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
-    },
-    {
-      "added_at": "2023-07-12 10:07:27",
-      "album": {
-        "name": "Little Things x Gypsy Woman (L BEATS MASHUP)",
-        "url": "https://open.spotify.com/album/052c03LAr2euUtLKgvOKae"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 131000,
-      "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
-      "url": "https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP"
-    },
-    {
-      "added_at": "2023-07-12 10:07:27",
-      "album": {
-        "name": "Jam Inside Your Love (feat. Carla Monroe)",
-        "url": "https://open.spotify.com/album/7CfLWKrEPYYsJ46kWTKtUA"
-      },
-      "artists": [
-        {
-          "name": "Sam Green",
-          "url": "https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR"
-        },
-        {
-          "name": "Carla Monroe",
-          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
-        }
-      ],
-      "duration_ms": 147401,
-      "name": "Jam Inside Your Love (feat. Carla Monroe)",
-      "url": "https://open.spotify.com/track/1xFrwpp4li4MFpMr9KpTEK"
-    },
-    {
-      "added_at": "2023-07-12 10:07:27",
+      "added_at": "2023-07-20 23:00:00",
       "album": {
         "name": "So Much In Love",
         "url": "https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX"
@@ -113,7 +25,7 @@
       "url": "https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL"
     },
     {
-      "added_at": "2023-07-12 10:07:27",
+      "added_at": "2023-07-20 23:00:00",
       "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/41CcjIZFfcWfv7clVItCLA"
@@ -133,7 +45,63 @@
       "url": "https://open.spotify.com/track/0f97n6kmc8RYUwMyialr8y"
     },
     {
-      "added_at": "2023-07-12 10:07:27",
+      "added_at": "2023-07-20 23:00:00",
+      "album": {
+        "name": "Little Things x Gypsy Woman (L BEATS MASHUP)",
+        "url": "https://open.spotify.com/album/052c03LAr2euUtLKgvOKae"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 131000,
+      "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
+      "url": "https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP"
+    },
+    {
+      "added_at": "2023-07-20 23:00:00",
+      "album": {
+        "name": "Million Dollar Bill",
+        "url": "https://open.spotify.com/album/1vu51AVRSHyaS3D2GxzsF7"
+      },
+      "artists": [
+        {
+          "name": "Beyond Chicago",
+          "url": "https://open.spotify.com/artist/1fU8WO9zbHN8ylxhoh9ix7"
+        },
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "Alex Mills",
+          "url": "https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq"
+        }
+      ],
+      "duration_ms": 173561,
+      "name": "Million Dollar Bill",
+      "url": "https://open.spotify.com/track/33o5QF5ZEAllqV4jDnRYu7"
+    },
+    {
+      "added_at": "2023-07-20 23:00:00",
+      "album": {
+        "name": "(It Goes Like) Nanana [Edit]",
+        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        }
+      ],
+      "duration_ms": 231545,
+      "name": "(It Goes Like) Nanana - Edit",
+      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
+    },
+    {
+      "added_at": "2023-07-20 23:00:00",
       "album": {
         "name": "My Barn My Rules",
         "url": "https://open.spotify.com/album/0mJRlyJ18EPNEGXromb9d0"
@@ -153,163 +121,23 @@
       "url": "https://open.spotify.com/track/2y2FrM6flv3s5LNqpjGVgW"
     },
     {
-      "added_at": "2023-07-12 10:07:27",
+      "added_at": "2023-07-20 23:00:00",
       "album": {
-        "name": "Off Wiv Ya Headz",
-        "url": "https://open.spotify.com/album/5TZjI8gx4AhL4yIdW6o8DQ"
+        "name": "Giving Me",
+        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
       },
       "artists": [
         {
-          "name": "Nia Archives",
-          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
         }
       ],
-      "duration_ms": 206694,
-      "name": "Off Wiv Ya Headz",
-      "url": "https://open.spotify.com/track/29LpCEcWnk9lFfzR2o3YVW"
+      "duration_ms": 169000,
+      "name": "Giving Me",
+      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
     },
     {
-      "added_at": "2023-07-12 10:07:27",
-      "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/4gKjlcQiESI111lulR9jdJ"
-      },
-      "artists": [
-        {
-          "name": "Bazzyb",
-          "url": "https://open.spotify.com/artist/5OWNscJ67NG7PGsYogbQ97"
-        }
-      ],
-      "duration_ms": 137380,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/61xnXX4B0GJ5SW3AEzz6Xc"
-    },
-    {
-      "added_at": "2023-07-12 10:07:27",
-      "album": {
-        "name": "Push Up (Main Edit)",
-        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
-      },
-      "artists": [
-        {
-          "name": "Creeds",
-          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
-        }
-      ],
-      "duration_ms": 139300,
-      "name": "Push Up - Main Edit",
-      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
-    },
-    {
-      "added_at": "2023-07-12 10:07:27",
-      "album": {
-        "name": "Bittersweet Goodbye",
-        "url": "https://open.spotify.com/album/2n81J4HlMoEImWaC6OLeZh"
-      },
-      "artists": [
-        {
-          "name": "Issey Cross",
-          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
-        }
-      ],
-      "duration_ms": 166778,
-      "name": "Bittersweet Goodbye",
-      "url": "https://open.spotify.com/track/5RHIevCuoIZcY1AlnJ01fN"
-    },
-    {
-      "added_at": "2023-07-12 10:07:27",
-      "album": {
-        "name": "Dancing is Healing",
-        "url": "https://open.spotify.com/album/5g3JRPJKgjcc20lORFpaqp"
-      },
-      "artists": [
-        {
-          "name": "Rudimental",
-          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
-        },
-        {
-          "name": "Charlotte Plank",
-          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
-        },
-        {
-          "name": "Vibe Chemistry",
-          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
-        }
-      ],
-      "duration_ms": 177321,
-      "name": "Dancing is Healing",
-      "url": "https://open.spotify.com/track/5gqu7rZE6fTFwbN2metxv4"
-    },
-    {
-      "added_at": "2023-07-12 10:07:27",
-      "album": {
-        "name": "All Night Long",
-        "url": "https://open.spotify.com/album/6v4ZkEMI1Q20fX4Yrg7d2v"
-      },
-      "artists": [
-        {
-          "name": "Chris Stussy",
-          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
-        }
-      ],
-      "duration_ms": 234525,
-      "name": "All Night Long",
-      "url": "https://open.spotify.com/track/7b4twDZXjQf8gyQGSvySZd"
-    },
-    {
-      "added_at": "2023-07-12 10:07:27",
-      "album": {
-        "name": "Maria Maria",
-        "url": "https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd"
-      },
-      "artists": [
-        {
-          "name": "TECH IT DEEP",
-          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
-        }
-      ],
-      "duration_ms": 161801,
-      "name": "Maria Maria",
-      "url": "https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf"
-    },
-    {
-      "added_at": "2023-07-12 10:07:27",
-      "album": {
-        "name": "Good Lies",
-        "url": "https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd"
-      },
-      "artists": [
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        }
-      ],
-      "duration_ms": 160127,
-      "name": "Good Lies",
-      "url": "https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt"
-    },
-    {
-      "added_at": "2023-07-12 10:07:27",
-      "album": {
-        "name": "Don't Call Me Baby",
-        "url": "https://open.spotify.com/album/1ftEO2e4IeKrafQOczpfpC"
-      },
-      "artists": [
-        {
-          "name": "Billy Gillies",
-          "url": "https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO"
-        },
-        {
-          "name": "Madison Avenue",
-          "url": "https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh"
-        }
-      ],
-      "duration_ms": 187755,
-      "name": "Don't Call Me Baby",
-      "url": "https://open.spotify.com/track/1452RkqFM4VMMA8qdOTrnR"
-    },
-    {
-      "added_at": "2023-07-12 10:07:27",
+      "added_at": "2023-07-20 23:00:00",
       "album": {
         "name": "Rave Out",
         "url": "https://open.spotify.com/album/7HOsS5h3J7ddLvcOfX9RGX"
@@ -333,7 +161,223 @@
       "url": "https://open.spotify.com/track/0cIkdVvxT2lalJFH254lYA"
     },
     {
-      "added_at": "2023-07-12 10:07:27",
+      "added_at": "2023-07-20 23:00:00",
+      "album": {
+        "name": "Good Love",
+        "url": "https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48"
+      },
+      "artists": [
+        {
+          "name": "Hannah Laing",
+          "url": "https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o"
+        },
+        {
+          "name": "RoRo",
+          "url": "https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff"
+        }
+      ],
+      "duration_ms": 169534,
+      "name": "Good Love",
+      "url": "https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP"
+    },
+    {
+      "added_at": "2023-07-20 23:00:00",
+      "album": {
+        "name": "Jam Inside Your Love (feat. Carla Monroe)",
+        "url": "https://open.spotify.com/album/7CfLWKrEPYYsJ46kWTKtUA"
+      },
+      "artists": [
+        {
+          "name": "Sam Green",
+          "url": "https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR"
+        },
+        {
+          "name": "Carla Monroe",
+          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
+        }
+      ],
+      "duration_ms": 147401,
+      "name": "Jam Inside Your Love (feat. Carla Monroe)",
+      "url": "https://open.spotify.com/track/1xFrwpp4li4MFpMr9KpTEK"
+    },
+    {
+      "added_at": "2023-07-20 23:00:00",
+      "album": {
+        "name": "Off Wiv Ya Headz",
+        "url": "https://open.spotify.com/album/5TZjI8gx4AhL4yIdW6o8DQ"
+      },
+      "artists": [
+        {
+          "name": "Nia Archives",
+          "url": "https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ"
+        }
+      ],
+      "duration_ms": 206694,
+      "name": "Off Wiv Ya Headz",
+      "url": "https://open.spotify.com/track/29LpCEcWnk9lFfzR2o3YVW"
+    },
+    {
+      "added_at": "2023-07-20 23:00:00",
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/4gKjlcQiESI111lulR9jdJ"
+      },
+      "artists": [
+        {
+          "name": "Bazzyb",
+          "url": "https://open.spotify.com/artist/5OWNscJ67NG7PGsYogbQ97"
+        }
+      ],
+      "duration_ms": 137380,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/61xnXX4B0GJ5SW3AEzz6Xc"
+    },
+    {
+      "added_at": "2023-07-20 23:00:00",
+      "album": {
+        "name": "Push Up (Main Edit)",
+        "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
+      },
+      "artists": [
+        {
+          "name": "Creeds",
+          "url": "https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5"
+        }
+      ],
+      "duration_ms": 139300,
+      "name": "Push Up - Main Edit",
+      "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
+    },
+    {
+      "added_at": "2023-07-20 23:00:00",
+      "album": {
+        "name": "Adrenaline Rush",
+        "url": "https://open.spotify.com/album/49MtrlNhaTuqn3C1QGrU0c"
+      },
+      "artists": [
+        {
+          "name": "Sigma",
+          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
+        },
+        {
+          "name": "MORGAN",
+          "url": "https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI"
+        }
+      ],
+      "duration_ms": 184542,
+      "name": "Adrenaline Rush",
+      "url": "https://open.spotify.com/track/5HiEBFh2xlpS9HV729BxiX"
+    },
+    {
+      "added_at": "2023-07-20 23:00:00",
+      "album": {
+        "name": "Dancing is Healing",
+        "url": "https://open.spotify.com/album/5g3JRPJKgjcc20lORFpaqp"
+      },
+      "artists": [
+        {
+          "name": "Rudimental",
+          "url": "https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo"
+        },
+        {
+          "name": "Charlotte Plank",
+          "url": "https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO"
+        },
+        {
+          "name": "Vibe Chemistry",
+          "url": "https://open.spotify.com/artist/1L5GuSYb4gktP74dqFkJpi"
+        }
+      ],
+      "duration_ms": 177321,
+      "name": "Dancing is Healing",
+      "url": "https://open.spotify.com/track/5gqu7rZE6fTFwbN2metxv4"
+    },
+    {
+      "added_at": "2023-07-20 23:00:00",
+      "album": {
+        "name": "All Night Long",
+        "url": "https://open.spotify.com/album/6v4ZkEMI1Q20fX4Yrg7d2v"
+      },
+      "artists": [
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        }
+      ],
+      "duration_ms": 234525,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/7b4twDZXjQf8gyQGSvySZd"
+    },
+    {
+      "added_at": "2023-07-20 23:00:00",
+      "album": {
+        "name": "Maria Maria",
+        "url": "https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd"
+      },
+      "artists": [
+        {
+          "name": "TECH IT DEEP",
+          "url": "https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw"
+        }
+      ],
+      "duration_ms": 161801,
+      "name": "Maria Maria",
+      "url": "https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf"
+    },
+    {
+      "added_at": "2023-07-20 23:00:00",
+      "album": {
+        "name": "Don't Call Me Baby",
+        "url": "https://open.spotify.com/album/1ftEO2e4IeKrafQOczpfpC"
+      },
+      "artists": [
+        {
+          "name": "Billy Gillies",
+          "url": "https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO"
+        },
+        {
+          "name": "Madison Avenue",
+          "url": "https://open.spotify.com/artist/6otgz5gkB40UnWFwTy0VDh"
+        }
+      ],
+      "duration_ms": 187755,
+      "name": "Don't Call Me Baby",
+      "url": "https://open.spotify.com/track/1452RkqFM4VMMA8qdOTrnR"
+    },
+    {
+      "added_at": "2023-07-20 23:00:00",
+      "album": {
+        "name": "Good Lies",
+        "url": "https://open.spotify.com/album/7whc0AZT0radX0A08ZgbCd"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "duration_ms": 160127,
+      "name": "Good Lies",
+      "url": "https://open.spotify.com/track/59GW6EKtdyaJ10t2yQdqrt"
+    },
+    {
+      "added_at": "2023-07-20 23:00:00",
+      "album": {
+        "name": "Bittersweet Goodbye",
+        "url": "https://open.spotify.com/album/2n81J4HlMoEImWaC6OLeZh"
+      },
+      "artists": [
+        {
+          "name": "Issey Cross",
+          "url": "https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U"
+        }
+      ],
+      "duration_ms": 166778,
+      "name": "Bittersweet Goodbye",
+      "url": "https://open.spotify.com/track/5RHIevCuoIZcY1AlnJ01fN"
+    },
+    {
+      "added_at": "2023-07-20 23:00:00",
       "album": {
         "name": "0800 HEAVEN",
         "url": "https://open.spotify.com/album/40izf85UJ64znlhMKw2a6r"
@@ -357,7 +401,7 @@
       "url": "https://open.spotify.com/track/4YUgS4PGLSBI6sbKUxaD3D"
     },
     {
-      "added_at": "2023-07-12 10:07:27",
+      "added_at": "2023-07-20 23:00:00",
       "album": {
         "name": "Relax My Eyes",
         "url": "https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN"
@@ -377,7 +421,7 @@
       "url": "https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH"
     },
     {
-      "added_at": "2023-07-12 10:07:27",
+      "added_at": "2023-07-20 23:00:00",
       "album": {
         "name": "Padam Padam",
         "url": "https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV"
@@ -393,7 +437,7 @@
       "url": "https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac"
     },
     {
-      "added_at": "2023-07-12 10:07:27",
+      "added_at": "2023-07-20 23:00:00",
       "album": {
         "name": "The Cure & The Cause (Radio Edit)",
         "url": "https://open.spotify.com/album/4O082xEh8tgidqkcNKrVEN"
@@ -413,27 +457,7 @@
       "url": "https://open.spotify.com/track/2aYryJEl86lIZWCS6X1CUm"
     },
     {
-      "added_at": "2023-07-12 10:07:27",
-      "album": {
-        "name": "Adrenaline Rush",
-        "url": "https://open.spotify.com/album/49MtrlNhaTuqn3C1QGrU0c"
-      },
-      "artists": [
-        {
-          "name": "Sigma",
-          "url": "https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS"
-        },
-        {
-          "name": "MORGAN",
-          "url": "https://open.spotify.com/artist/7ltW5jYRnGOE4O1vcgW2DI"
-        }
-      ],
-      "duration_ms": 184542,
-      "name": "Adrenaline Rush",
-      "url": "https://open.spotify.com/track/5HiEBFh2xlpS9HV729BxiX"
-    },
-    {
-      "added_at": "2023-07-12 10:07:27",
+      "added_at": "2023-07-20 23:00:00",
       "album": {
         "name": "Fake ID (Coke & Rum Remix)",
         "url": "https://open.spotify.com/album/7pKuRGliZzRAHJaFED7y6Q"
@@ -457,7 +481,7 @@
       "url": "https://open.spotify.com/track/7cnS0EPwBnP9ZIdGOAOY7c"
     },
     {
-      "added_at": "2023-07-12 10:07:27",
+      "added_at": "2023-07-20 23:00:00",
       "album": {
         "name": "TMO (Turn Me On) [feat. Kevin Lyttle]",
         "url": "https://open.spotify.com/album/3RYTWuCl3BNAJSUkIo8Wnv"
@@ -481,7 +505,7 @@
       "url": "https://open.spotify.com/track/6WwzdsP1Y1bb4NYXpgn5CD"
     },
     {
-      "added_at": "2023-07-12 10:07:27",
+      "added_at": "2023-07-20 23:00:00",
       "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj"
@@ -501,7 +525,7 @@
       "url": "https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG"
     },
     {
-      "added_at": "2023-07-12 10:07:27",
+      "added_at": "2023-07-20 23:00:00",
       "album": {
         "name": "Give It To Me (Full Vocal Mix)",
         "url": "https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp"
@@ -517,7 +541,7 @@
       "url": "https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf"
     },
     {
-      "added_at": "2023-07-12 10:07:27",
+      "added_at": "2023-07-20 23:00:00",
       "album": {
         "name": "REACT",
         "url": "https://open.spotify.com/album/3opvHAj80TIQMZAg9a2FNv"
@@ -541,27 +565,7 @@
       "url": "https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi"
     },
     {
-      "added_at": "2023-07-12 10:07:27",
-      "album": {
-        "name": "My Barn My Rules",
-        "url": "https://open.spotify.com/album/0mJRlyJ18EPNEGXromb9d0"
-      },
-      "artists": [
-        {
-          "name": "MCR-T",
-          "url": "https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw"
-        },
-        {
-          "name": "horsegiirL",
-          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
-        }
-      ],
-      "duration_ms": 266344,
-      "name": "My Barn My Rules",
-      "url": "https://open.spotify.com/track/1bXW9UIZWmXtoSGXJvyyAm"
-    },
-    {
-      "added_at": "2023-07-12 10:07:27",
+      "added_at": "2023-07-20 23:00:00",
       "album": {
         "name": "Edge of Seventeen",
         "url": "https://open.spotify.com/album/6oeEtPWpOfed7plMHI5qef"
@@ -577,7 +581,7 @@
       "url": "https://open.spotify.com/track/5IFSvSEeCAvvBEQ85poqKB"
     },
     {
-      "added_at": "2023-07-12 10:07:27",
+      "added_at": "2023-07-20 23:00:00",
       "album": {
         "name": "Little Things (Nia Archives Remix)",
         "url": "https://open.spotify.com/album/6hvKJVCACQSgYJL3KMOAFb"
@@ -597,7 +601,7 @@
       "url": "https://open.spotify.com/track/2Fn1fXkRt03hV7uhrKfLh2"
     },
     {
-      "added_at": "2023-07-12 10:07:27",
+      "added_at": "2023-07-20 23:00:00",
       "album": {
         "name": "Make Me",
         "url": "https://open.spotify.com/album/3T7bNNnQ5b8BgsaF43jGku"
@@ -621,7 +625,7 @@
       "url": "https://open.spotify.com/track/6RaaQvkGUe8Je8yAkdwQNm"
     },
     {
-      "added_at": "2023-07-12 10:07:27",
+      "added_at": "2023-07-20 23:00:00",
       "album": {
         "name": "Be The One",
         "url": "https://open.spotify.com/album/5XtT7YyAjN783nSW9ZtNBo"
@@ -637,7 +641,7 @@
       "url": "https://open.spotify.com/track/63MBVrJ8nADdP4AXbBGlOj"
     },
     {
-      "added_at": "2023-07-12 10:07:27",
+      "added_at": "2023-07-20 23:00:00",
       "album": {
         "name": "Reason (with Paige Cavell)",
         "url": "https://open.spotify.com/album/5QWzNf3o2kqWwYeZo1ZKjE"
@@ -657,7 +661,7 @@
       "url": "https://open.spotify.com/track/4OQL3tmaCuh2j6K29GgT37"
     },
     {
-      "added_at": "2023-07-12 10:07:27",
+      "added_at": "2023-07-20 23:00:00",
       "album": {
         "name": "Mas Murder",
         "url": "https://open.spotify.com/album/4SkE5JHPFLZRiF9LCeUn0L"
@@ -677,7 +681,7 @@
       "url": "https://open.spotify.com/track/2aV0jGk1i8jIuZUpz8IcLk"
     },
     {
-      "added_at": "2023-07-12 10:07:27",
+      "added_at": "2023-07-20 23:00:00",
       "album": {
         "name": "I Found You",
         "url": "https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW"
@@ -697,7 +701,7 @@
       "url": "https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp"
     },
     {
-      "added_at": "2023-07-12 10:07:27",
+      "added_at": "2023-07-20 23:00:00",
       "album": {
         "name": "Voodoo",
         "url": "https://open.spotify.com/album/32JzuMXyPDs6ihDnRGh8vy"
@@ -713,7 +717,7 @@
       "url": "https://open.spotify.com/track/3JsH3qnwhYGs20PBMsCgNx"
     },
     {
-      "added_at": "2023-07-12 10:07:27",
+      "added_at": "2023-07-20 23:00:00",
       "album": {
         "name": "Never Miss A Beat",
         "url": "https://open.spotify.com/album/6jTdaQKWxgkfEO5gLPMRDC"
@@ -729,7 +733,7 @@
       "url": "https://open.spotify.com/track/1VJLgFrfKrckuOb0DrvcQn"
     },
     {
-      "added_at": "2023-07-12 10:07:27",
+      "added_at": "2023-07-20 23:00:00",
       "album": {
         "name": "Set You Free",
         "url": "https://open.spotify.com/album/4Jv5zqslHfbtEnu8eiX7SC"
@@ -745,7 +749,7 @@
       "url": "https://open.spotify.com/track/1dGDCmIYShi7xuaX2MuZtF"
     },
     {
-      "added_at": "2023-07-12 10:07:27",
+      "added_at": "2023-07-20 23:00:00",
       "album": {
         "name": "Amapiano",
         "url": "https://open.spotify.com/album/6SS3BYYRmatpgcIrmRCuI6"
@@ -765,7 +769,7 @@
       "url": "https://open.spotify.com/track/3GMdp6clyAh7wZWVYOtoS9"
     },
     {
-      "added_at": "2023-07-12 10:07:27",
+      "added_at": "2023-07-20 23:00:00",
       "album": {
         "name": "Twust",
         "url": "https://open.spotify.com/album/1UfWIfP15xiwr1PuRoeqU6"
@@ -785,7 +789,7 @@
       "url": "https://open.spotify.com/track/5q3ch1Q32fKbKzdqOsi9Ij"
     },
     {
-      "added_at": "2023-07-12 10:07:27",
+      "added_at": "2023-07-20 23:00:00",
       "album": {
         "name": "Miracle (with Ellie Goulding)",
         "url": "https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx"
@@ -805,7 +809,7 @@
       "url": "https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ"
     },
     {
-      "added_at": "2023-07-12 10:07:27",
+      "added_at": "2023-07-20 23:00:00",
       "album": {
         "name": "All Of Me (Do For Love)",
         "url": "https://open.spotify.com/album/4ln6BUu9ajIKCntL6qGqCk"
@@ -829,7 +833,7 @@
       "url": "https://open.spotify.com/track/2fzqWz8fV05O1RA6PfHFYc"
     },
     {
-      "added_at": "2023-07-12 10:07:27",
+      "added_at": "2023-07-20 23:00:00",
       "album": {
         "name": "Giving Me (Symmetrik Remix)",
         "url": "https://open.spotify.com/album/7lJ1GoLzmsEjpgznRve6nF"
@@ -849,7 +853,7 @@
       "url": "https://open.spotify.com/track/4LT65C6Ph9ZDj57luHC4HB"
     },
     {
-      "added_at": "2023-07-12 10:07:27",
+      "added_at": "2023-07-20 23:00:00",
       "album": {
         "name": "COULD BE WRONG",
         "url": "https://open.spotify.com/album/2aJE1EikJGFwNq0NdGHcZP"
@@ -865,7 +869,7 @@
       "url": "https://open.spotify.com/track/5zuex7tbGFz0gSHlrMvQdu"
     },
     {
-      "added_at": "2023-07-12 10:07:27",
+      "added_at": "2023-07-20 23:00:00",
       "album": {
         "name": "Be The One",
         "url": "https://open.spotify.com/album/03CJTIUvULKcMHjr0qjZtK"
@@ -881,7 +885,7 @@
       "url": "https://open.spotify.com/track/1cQld05IcUDw3RCFt7uymW"
     },
     {
-      "added_at": "2023-07-12 10:07:27",
+      "added_at": "2023-07-20 23:00:00",
       "album": {
         "name": "Stars On The Roof (feat. MoMo)",
         "url": "https://open.spotify.com/album/6o2oXNriDnljYllyCIaL99"
@@ -901,7 +905,7 @@
       "url": "https://open.spotify.com/track/354Cv7huFJnlEdVAHvhH3Q"
     },
     {
-      "added_at": "2023-07-12 10:07:27",
+      "added_at": "2023-07-20 23:00:00",
       "album": {
         "name": "messy in heaven",
         "url": "https://open.spotify.com/album/0a9uNlopPXGg37OC20qDk6"
@@ -921,7 +925,7 @@
       "url": "https://open.spotify.com/track/5RobAV5ROH5KARimi7n3cO"
     },
     {
-      "added_at": "2023-07-12 10:07:27",
+      "added_at": "2023-07-20 23:00:00",
       "album": {
         "name": "I See Colors",
         "url": "https://open.spotify.com/album/5uiaLZEuY2dKO91P5aFAoh"
@@ -941,7 +945,7 @@
       "url": "https://open.spotify.com/track/6CfcDeHk4tzSmkd97HRvM3"
     },
     {
-      "added_at": "2023-07-12 10:07:27",
+      "added_at": "2023-07-20 23:00:00",
       "album": {
         "name": "Angel (From Barbie The Album)",
         "url": "https://open.spotify.com/album/7zSG5WWbS0P7pXbk90gn5V"

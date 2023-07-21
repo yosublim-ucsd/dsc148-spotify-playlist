@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 
 > Strings and pianos to accompany your latest great read.
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,764 likes - 63 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,885 likes - 63 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hmlhGsyxU0.md) - [plain]
 | 62 | [Living Rooms](https://open.spotify.com/track/1bqUq2J07aWRk2Fu0QpAWy) | [Joshua Naranjo](https://open.spotify.com/artist/79umW4lywuQrIeeDrleqB5) | [Living Rooms](https://open.spotify.com/album/3XSU10axr4q7lPwiMXQPUe) | 2:55 |
 | 63 | [Things of the World \- Piano and Strings](https://open.spotify.com/track/5e7rOKu6CZxntaa8gKOihj) | [Amelie Bernard](https://open.spotify.com/artist/1VcWfPz5hcVdwJwmkzp37N), [Andy Muller](https://open.spotify.com/artist/3GJdStK9xNIA5iOpesGg4d) | [Things of the World \(Piano and Strings\)](https://open.spotify.com/album/2yxNHqEapsxfDnheg65zrI) | 1:40 |
 
-Snapshot ID: `MCw0YzZhNWJiNjJiYTNmYzE0ZTg0MWVhOGRhZjM2YmI2ZTViMDllOWY4`
+Snapshot ID: `MCxhNDNkYWIwNjY2MDUzMjdjMWM0Njc5ODBjNmViZmQ1MTA0MTczMWJh`

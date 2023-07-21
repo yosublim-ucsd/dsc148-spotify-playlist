@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 
 > Música navideña para celebrar el nacimiento de nuestro Salvador.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,860 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,861 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 | 99 | [Noche de Paz](https://open.spotify.com/track/7yrj2HSUr4JxqKO6SpiAGn) | [Susy Gonzalez](https://open.spotify.com/artist/5CTNrReVSQ2TyN3QC1M1VG), [Lucia Parker](https://open.spotify.com/artist/182rLxt7agQBKxEQ463u1G) | [Noche de Paz](https://open.spotify.com/album/7qEzUr4aVYEMV7IPgqnSmj) | 4:46 |
 | 100 | [Oh Pueblecito De Belen](https://open.spotify.com/track/4lKI5ZRZ1bDp0F1GcYD58J) | [Ricardo Rodriguez](https://open.spotify.com/artist/6Y9YmXDo4ikF3jSI1PfB6l) | [En Navidad](https://open.spotify.com/album/4i4hrs3pRUer7gc8TIR2sI) | 3:05 |
 
-Snapshot ID: `MCxmZTU4YzA5ZDBhZWNjNWYwZTBkN2ZjOGMyMTc5NWZmZTJkYjQ2MTIy`
+Snapshot ID: `MCwwMDFjOTBlYjA1ODc4ZGFjYzQ2MTBiNThiOGEzMmE2YzgxYmQ0Nzhl`

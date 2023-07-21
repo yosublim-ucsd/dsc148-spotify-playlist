@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Austria.
 
-1,573 songs - 3 day 6 hr 32 min
+1,574 songs - 3 day 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [6561](https://open.spotify.com/track/1NVl1sqBbWleKcOFnphxxr) | [AK AUSSERKONTROLLE](https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw), [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [6561](https://open.spotify.com/album/4SAKE4LkUVFMNuSpnWcqjD) | 2:31 | 2023-01-21 | 2023-01-25 |
 | [6561](https://open.spotify.com/track/6e180XtptMddkCejgq7o8K) | [AK AUSSERKONTROLLE](https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw), [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [6561](https://open.spotify.com/album/0QPQNmN5izrSFXX3VHpF2Z) | 2:31 | 2023-01-24 | 2023-02-11 |
 | [9 bis 9](https://open.spotify.com/track/5YWu6dt50Nieq8qi572RF8) | [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6) | [9 bis 9](https://open.spotify.com/album/00MoqsGjkjG0PS4GtYkSdb) | 2:11 | 2023-07-06 |  |
+| [9 bis 9 Sped Up \(Shirli Version\)](https://open.spotify.com/track/5FmcqoKNe4pZqWrCVlVASl) | [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA), [Bausa](https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV), [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6) | [9 bis 9 Sped Up \(Shirli Version\)](https://open.spotify.com/album/5MjrVXkV1bRv2wxuYCdPgq) | 1:41 | 2023-07-20 |  |
 | [A Holly Jolly Christmas](https://open.spotify.com/track/77khP2fIVhSW23NwxrRluh) | [Burl Ives](https://open.spotify.com/artist/0MHgLfmQdutffmvWe5XBTN) | [Have A Holly Jolly Christmas](https://open.spotify.com/album/6MvKUOSuPdfH0WLeQjR3eR) | 2:15 | 2021-12-24 | 2022-12-28 |
 | [a m a r i](https://open.spotify.com/track/2cnKST6T9qUo2i907lm8zX) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:28 | 2021-05-16 | 2021-05-17 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-11-16 | 2022-06-19 |
@@ -1517,7 +1518,7 @@
 | [Wenn ich will](https://open.spotify.com/track/5npUWsfEl4R2UOvPDlRjjZ) | [Jamule](https://open.spotify.com/artist/4sVieJlKgpZ2k9ESNS5IdN) | [Wenn ich will](https://open.spotify.com/album/4lKDtKvVHeMvyz7SnL7BPw) | 2:24 | 2023-03-11 | 2023-03-13 |
 | [Wer hat Angst](https://open.spotify.com/track/6clk3RFNYNhqhGdYV3Qon1) | [Bonez MC](https://open.spotify.com/artist/1aS5tqEs9ci5P9KD9tZWa6), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Bounty Killer](https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s) | [Palmen aus Plastik 3](https://open.spotify.com/album/6SZrGBrZZ77WqyMB2wsJQ9) | 3:08 | 2022-09-10 | 2022-09-25 |
 | [West Connect \(feat\. Central Cee\)](https://open.spotify.com/track/1Fb8gCHRkmNAaN8vytd5vg) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Majestic](https://open.spotify.com/album/7qNuJ1DoCy9au1vdip0f7o) | 3:32 | 2022-10-01 | 2022-10-31 |
-| [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 | 2023-07-15 |  |
+| [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [What Was I Made For? \[From The Motion Picture "Barbie"\]](https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd) | 3:42 | 2023-07-15 | 2023-07-21 |
 | [What's Love Got to Do with It \- 2015 Remaster](https://open.spotify.com/track/3ErsOxqe2RmXkR65wkygDz) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Private Dancer \(30th Anniversary Issue\)](https://open.spotify.com/album/7gVHUNPQr0AE2A0Yf5MjqR) | 3:50 | 2023-05-26 | 2023-05-28 |
 | [WHEN I DIE](https://open.spotify.com/track/61iL9OUfIipm3Udr0Zs1oe) | [Samra](https://open.spotify.com/artist/6h1s4i4XKIYv4ErDelLDN0), [Anonym](https://open.spotify.com/artist/5Azjcil94cSjssZgE0IKDe), [BOJAN](https://open.spotify.com/artist/0oxWjDXa2iXcVB11n8RY3U) | [WHEN I DIE](https://open.spotify.com/album/2RZnTMXOOrTMXnSR9TeyAc) | 2:53 | 2022-02-26 | 2022-02-28 |
 | [When You're Gone](https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone](https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp) | 2:52 | 2022-04-01 | 2022-04-18 |

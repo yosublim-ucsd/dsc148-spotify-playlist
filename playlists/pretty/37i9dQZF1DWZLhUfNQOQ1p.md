@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Start vibing! Musica da ascoltare con uno spritz in mano per questa estate 2023 🍹
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,890 likes - 75 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,969 likes - 75 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 74 | [Poundland Anthem](https://open.spotify.com/track/6WR6Rd2dCpnwDda3ehLEPX) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Manifesto](https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY) | 5:55 |
 | 75 | [I Go \- Edit](https://open.spotify.com/track/5VCx6BsBizs11OJvSnqDG4) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [I Go](https://open.spotify.com/album/6BaEmgJe4ryoOHQa3BI9dz) | 3:44 |
 
-Snapshot ID: `MCwyYjBlYzI4YjJiYmZkNTZkOWVkMzAzYzY2N2JhZjU4M2M2ZjdhY2Q2`
+Snapshot ID: `MCxkNmZlZDZlYTk0MjZmZjhlZTU4NjY2MzFlOTUwNTQ1NTQ3MWM1ZGNj`

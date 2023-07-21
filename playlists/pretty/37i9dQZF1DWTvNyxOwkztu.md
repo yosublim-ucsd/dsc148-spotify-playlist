@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 
 > Just lean back and enjoy relaxed beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,792,442 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,793,077 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvNyxOwkztu.md) - [plain]
 | 91 | [Still Need People](https://open.spotify.com/track/2uw0wMiRn72nMnHzTq4H5j) | [Camisade](https://open.spotify.com/artist/50bALOArnHOLUQgUPfhn5i) | [Still Need People](https://open.spotify.com/album/1GuBF595o35XrCVMdXvEP9) | 3:02 |
 | 92 | [White Dust](https://open.spotify.com/track/2zlmxxH4eHn2rmBZRQRwEY) | [Sun Mirage](https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4) | [It's all clear now](https://open.spotify.com/album/4nZ4IAl00PTqsNs0AmC0GA) | 4:02 |
 | 93 | [Santa Fe](https://open.spotify.com/track/46hBN101eELE1lhjYPauSx) | [Zoo Pool](https://open.spotify.com/artist/5Ltbrtf5VWNY2K8oLZzy4I) | [Santa Fe](https://open.spotify.com/album/5cUcn68RalhwwDcOWpOBQa) | 2:57 |
-| 94 | [Oasis](https://open.spotify.com/track/1ghrPNkNMayJr3MTLS3SJR) | [Adon](https://open.spotify.com/artist/7l7IyxqOyGDSU6iF4FzisA) | [Oasis](https://open.spotify.com/album/2kH9815MY3JaK71IEFENli) | 2:59 |
-| 95 | [rollacoasta](https://open.spotify.com/track/1CRcnpmLaXxdipLh4g0plB) | [Mateo Hill](https://open.spotify.com/artist/6ZwI5BEf3SVNDkdOKFpxKQ) | [rollacoasta](https://open.spotify.com/album/6oXbyjfKySarMAKjy6BCQr) | 2:42 |
-| 96 | [Ocean of Love](https://open.spotify.com/track/4iE8DGGs9r0C3tmtonhi67) | [Lemongrass](https://open.spotify.com/artist/6T4sT6axXOoIXP4cpaQtNk) | [Ocean of Love](https://open.spotify.com/album/73VsNWe5VmFl4ePU7NY4AF) | 4:11 |
-| 97 | [Love Tonight](https://open.spotify.com/track/7upogXdc53IaJBvkR4L0Vj) | [Together Alone](https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY) | [Love Tonight](https://open.spotify.com/album/2WdG47U5Pnd7sPZMkJh9hV) | 2:54 |
-| 98 | [Changes](https://open.spotify.com/track/7C5p1xQCbQHgaW1WtQI8w2) | [John Heart](https://open.spotify.com/artist/4IZpFlDTyIvuIcY4XPDRu0) | [Changes](https://open.spotify.com/album/5TaXMm4oQOa3LQ1MbiFZOF) | 2:15 |
-| 99 | [Solar Sun](https://open.spotify.com/track/5VErwAfMIPinJbosqnkBrf) | [Kate Paul](https://open.spotify.com/artist/1anQkfV3WidZBDrdAQwAsx) | [Solar Sun](https://open.spotify.com/album/5MZJD2cd91PXyxZmS6qUnh) | 3:52 |
-| 100 | [Vibrant Presence](https://open.spotify.com/track/3rvXYpm4BncYG1iZd2EDUk) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Vibrant Presence](https://open.spotify.com/album/25yfnORQ9evqQ3bdd0UpnL) | 3:35 |
+| 94 | [rollacoasta](https://open.spotify.com/track/1CRcnpmLaXxdipLh4g0plB) | [Mateo Hill](https://open.spotify.com/artist/6ZwI5BEf3SVNDkdOKFpxKQ) | [rollacoasta](https://open.spotify.com/album/6oXbyjfKySarMAKjy6BCQr) | 2:42 |
+| 95 | [Ocean of Love](https://open.spotify.com/track/4iE8DGGs9r0C3tmtonhi67) | [Lemongrass](https://open.spotify.com/artist/6T4sT6axXOoIXP4cpaQtNk) | [Ocean of Love](https://open.spotify.com/album/73VsNWe5VmFl4ePU7NY4AF) | 4:11 |
+| 96 | [Love Tonight](https://open.spotify.com/track/7upogXdc53IaJBvkR4L0Vj) | [Together Alone](https://open.spotify.com/artist/3iPXJMIRyXEqq4QWOQnRnY) | [Love Tonight](https://open.spotify.com/album/2WdG47U5Pnd7sPZMkJh9hV) | 2:54 |
+| 97 | [Changes](https://open.spotify.com/track/7C5p1xQCbQHgaW1WtQI8w2) | [John Heart](https://open.spotify.com/artist/4IZpFlDTyIvuIcY4XPDRu0) | [Changes](https://open.spotify.com/album/5TaXMm4oQOa3LQ1MbiFZOF) | 2:15 |
+| 98 | [Solar Sun](https://open.spotify.com/track/5VErwAfMIPinJbosqnkBrf) | [Kate Paul](https://open.spotify.com/artist/1anQkfV3WidZBDrdAQwAsx) | [Solar Sun](https://open.spotify.com/album/5MZJD2cd91PXyxZmS6qUnh) | 3:52 |
+| 99 | [Vibrant Presence](https://open.spotify.com/track/3rvXYpm4BncYG1iZd2EDUk) | [Dye O](https://open.spotify.com/artist/3AihmaPi9Wr3O7z578f6mH) | [Vibrant Presence](https://open.spotify.com/album/25yfnORQ9evqQ3bdd0UpnL) | 3:35 |
+| 100 | [Sueño Lúcido](https://open.spotify.com/track/1ayTVANYOoKTwwekSaRUmx) | [Ralf](https://open.spotify.com/artist/4UIhkghagHG8sGJ3GO75HR) | [Sueño Lúcido](https://open.spotify.com/album/1wHV1TO3GZcKhZGVVaKVPD) | 4:05 |
 
-Snapshot ID: `MCw0ODEwMDY3ODBhZDQ2ZDhlYzg2YTlmNDRkNTI1MTYyOThkOWM4ZjNm`
+Snapshot ID: `MCw2OTgxNmY4ZGY5ZDBlYjI1OTU0NmY0ZWZhYjIwMjQzMzBiNTE0Zjc3`

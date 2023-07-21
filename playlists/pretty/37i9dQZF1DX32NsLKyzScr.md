@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32NsLKyzScr.md) - [plain]
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,453,173 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,454,052 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX32NsLKyzScr.md) - [plain]
 | 99 | [See In Color](https://open.spotify.com/track/2RxDAFchouApF3yUwE6gxE) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R), [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs) | [See In Color](https://open.spotify.com/album/6JK0ooMtZxPQakH2bJJ5Yj) | 2:34 |
 | 100 | [Remember \(feat\. Stevie Appleton\)](https://open.spotify.com/track/5Cv9UBYh2VkiCspwh4Wog5) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Danny Howard](https://open.spotify.com/artist/14MtanGZe4G1fzC8raLFUK), [Stevie Appleton](https://open.spotify.com/artist/5qMHOzLlXeOEjOncWYtRfZ) | [Remember](https://open.spotify.com/album/3cgql1fqxswMfgrCfmsgcg) | 3:19 |
 
-Snapshot ID: `MCwwYTI3Yzc5NjU0NTczNGMyMDNmMTk1NmU2MzMyMThiMWUwZjc0ZmU3`
+Snapshot ID: `MCxiODYyZDlhOTIyMDVmMjdhOWQwMWM5YjZkYjY2MGUzZDE0ZmE2YzFm`

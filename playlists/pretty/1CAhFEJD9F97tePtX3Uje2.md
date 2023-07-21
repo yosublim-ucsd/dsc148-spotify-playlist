@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 
 > 
 
-[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 351 likes - 216 songs - 12 hr 53 min
+[leoyuki](https://open.spotify.com/user/8ug1wvv6pej0yayoa48by65pw) - 351 likes - 222 songs - 13 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -224,5 +224,11 @@ pretty - [cumulative](/playlists/cumulative/1CAhFEJD9F97tePtX3Uje2.md) - [plain]
 | 214 | [Excused](https://open.spotify.com/track/1dAUBCLkCrTbiOSk8iJ12b) | [Lowx](https://open.spotify.com/artist/2vSV4052CmG3RE9mLFXIrR) | [Excused](https://open.spotify.com/album/711t4AGqeMZkLio6N8e3up) | 2:23 |
 | 215 | [Walk Alone](https://open.spotify.com/track/5Pn0C5E7oYHLcsr2llYzaZ) | [Lowx](https://open.spotify.com/artist/2vSV4052CmG3RE9mLFXIrR), [TTM](https://open.spotify.com/artist/4lYmoxpTYZxC4uPmmK8XrE) | [Walk Alone](https://open.spotify.com/album/5EvWVv7sGSorTrLAQHRwvQ) | 2:51 |
 | 216 | [MUSIC DEALER](https://open.spotify.com/track/2P3AH23KTwpzusIFlPYqT1) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp), [Juicy J](https://open.spotify.com/artist/0kYf4ylD6mLtRa6s9vyscE) | [MUSIC DEALER](https://open.spotify.com/album/5t0koaV8MkNBU4IjcwTnfI) | 2:49 |
+| 217 | [Become Human](https://open.spotify.com/track/1e8XAV2CwnyR3h41Wg8v96) | [Unnholy](https://open.spotify.com/artist/5um0tGaoeKhLVjLjPFG0UX) | [Become Human](https://open.spotify.com/album/4fu1ygb3yJABq9cF07SE9M) | 3:43 |
+| 218 | [Unity](https://open.spotify.com/track/23Bf7ad1zer3oampzY6dqX) | [NVRLUV](https://open.spotify.com/artist/6O8B8YvVVfCAehzlfCVRuc), [Unnholy](https://open.spotify.com/artist/5um0tGaoeKhLVjLjPFG0UX) | [Unity](https://open.spotify.com/album/2YpevPLe8ISCKIZGliB6Lj) | 3:33 |
+| 219 | [Broken Scheme](https://open.spotify.com/track/1MuOETSfCubuhEqrL6xfOL) | [Unnholy](https://open.spotify.com/artist/5um0tGaoeKhLVjLjPFG0UX) | [Sound of Silence](https://open.spotify.com/album/6VCKrEWH8rwIzOJdry7FRR) | 3:16 |
+| 220 | [The Way I See](https://open.spotify.com/track/27wl7yIZ85rbVhbJRkaiZD) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [The Way I See](https://open.spotify.com/album/2vB7xuI4LkJEmGSY4TmoRu) | 5:27 |
+| 221 | [LIBERTY](https://open.spotify.com/track/2uZCji4OCULmOAJE8yxprw) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp) | [FORGOTTEN](https://open.spotify.com/album/64gLpVMi33iOIL7pC4kFNM) | 3:24 |
+| 222 | [GRAVE](https://open.spotify.com/track/38PjAxXt90vy4DQuYx9AtS) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp) | [FORGOTTEN](https://open.spotify.com/album/64gLpVMi33iOIL7pC4kFNM) | 2:24 |
 
-Snapshot ID: `MjMyLGQxODhjZGE5NTE0ZWQ2MmUzNzQ2ODdiODdhNGJmYmI1MGJjYTViOTU=`
+Snapshot ID: `MjM4LDkzODA1ZTYyNDBkNjUwZDA4NDI4YjBiMjkyMDUyMTU4NWEzNjQwMjc=`

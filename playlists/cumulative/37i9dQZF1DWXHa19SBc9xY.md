@@ -4,7 +4,7 @@
 
 > Música brasileira e as cores de um pôr do sol para completar o seu dia.
 
-85 songs - 4 hr 39 min
+86 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [samba do moço bonito](https://open.spotify.com/track/2RRSoVyvUIW7vNH9Ti3827) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [samba do moço bonito](https://open.spotify.com/album/79yWNPUh9pzwttJ4dTtlVQ) | 3:17 | 2023-06-23 |  |
 | [Se Não Fosse por Ontem](https://open.spotify.com/track/0dzjAcnlQ1zg8HPRIuuNbX) | [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg), [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Se Não Fosse por Ontem](https://open.spotify.com/album/6PTddNiDHAa40YBOh7SVPq) | 3:28 | 2023-06-23 |  |
 | [Sem Medo](https://open.spotify.com/track/72tsw7mnqDaCw6niFLnv7r) | [Mahmundi](https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7) | [Mundo Novo](https://open.spotify.com/album/5Mbvp3MgeFweJ4T1xrQ52N) | 4:12 | 2023-06-23 |  |
-| [Som de Alceu](https://open.spotify.com/track/5V09QKkoP6GbDLRl5TsBUg) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Falamansa](https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk) | [Som de Alceu](https://open.spotify.com/album/0aUxFYO1xNdVmAG23lPpCA) | 3:02 | 2023-06-23 |  |
+| [Som de Alceu](https://open.spotify.com/track/5V09QKkoP6GbDLRl5TsBUg) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Falamansa](https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk) | [Som de Alceu](https://open.spotify.com/album/0aUxFYO1xNdVmAG23lPpCA) | 3:02 | 2023-06-23 | 2023-07-21 |
+| [Som de Alceu](https://open.spotify.com/track/6ZMrnPndAh1UdZsHBAbAQo) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK), [Falamansa](https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk) | [Som de Alceu](https://open.spotify.com/album/7uabBRzUh7Mv3zQIEq8StJ) | 3:02 | 2023-06-23 |  |
 | [Somos Instantes \- Acústico](https://open.spotify.com/track/2QC2lDWjCrFRVpRNrYhF87) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Somos Instantes \(Acústico\)](https://open.spotify.com/album/4xgYuwgqMHm72Lm2FQ2YBd) | 3:44 | 2023-06-23 |  |
 | [Sorriso De Agogô](https://open.spotify.com/track/5GjXV8tRa3E75x2yT7hyHO) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Sorriso De Agogô](https://open.spotify.com/album/7p22uztBa6bw19hV7Jcqz9) | 3:16 | 2023-06-23 |  |
 | [Sou Daqui](https://open.spotify.com/track/3eUTsCeVdnA68g6PJ9kXQd) | [Lucas Felix](https://open.spotify.com/artist/4bdlQqQxa0NVjqHWkr5meV) | [Sou Daqui](https://open.spotify.com/album/6dlqVfrdENu9wZsrj38w0O) | 3:28 | 2023-06-23 |  |

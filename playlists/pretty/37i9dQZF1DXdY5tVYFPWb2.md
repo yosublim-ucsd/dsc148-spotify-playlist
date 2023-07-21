@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,352 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,417 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 | 99 | [MAGIC WAYS](https://open.spotify.com/track/783nZiDSXc4qLTXwx5t04g) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [MAGIC WAYS](https://open.spotify.com/album/6ABM2rD5JvdwPGZDQ3bNEw) | 4:29 |
 | 100 | [After Party](https://open.spotify.com/track/6ZmTUJTej1ObruiiUsrnrc) | [yonawo](https://open.spotify.com/artist/61VsO6rn8khCQDSRp8tTeZ) | [After Party](https://open.spotify.com/album/4EKE55nhtFpoxHdOJXKb1i) | 4:32 |
 
-Snapshot ID: `MCwzNTNkNTA2NWY3ODU4ZjEwMTVlMTRmNTQyNDVlMGFiMDM5YTdiZGFj`
+Snapshot ID: `MCwzYjE3YzJiNDE1YThkZDBmMzRjNDE1MDQyZGE3ODkwMmViOGFjM2Nl`

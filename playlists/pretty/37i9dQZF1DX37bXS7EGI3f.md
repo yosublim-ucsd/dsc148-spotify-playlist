@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Epic and melodic metal\. Cover: Within Temptation
 
-[Spotify](https://open.spotify.com/user/spotify) - 739,189 likes - 80 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 739,308 likes - 80 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 79 | [Call of the North](https://open.spotify.com/track/4BS6jSRHgqNjL1eSlokBBd) | [Frozen Crown](https://open.spotify.com/artist/6hbGneO1qRnmz6xflK4n8E) | [Call of the North](https://open.spotify.com/album/4w7w5ZXaUSAqY6qot06f5t) | 6:24 |
 | 80 | [Here We Stand](https://open.spotify.com/track/3PMyqW85Gvncxxup60MIie) | [In Victory](https://open.spotify.com/artist/56rg8R5k95tY2jT4cQPyK3) | [Here We Stand](https://open.spotify.com/album/47tmMof0okT3jCJteSF1rR) | 4:08 |
 
-Snapshot ID: `MCxhZDQ5ZTcxZDg3Yjk0YjY3YTg1ZjFiN2Q0YWJhZTMwODU0MDRiMWY1`
+Snapshot ID: `MCxmMjUwZDQzZDA3ZmRhNzU5Njk5NjNmN2I1MDAyZjAyMTc5ODY2YmRi`

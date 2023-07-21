@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOVU4mpMJjh.md) - [plain]
 
 > Relax to gentle vocal and instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 809,021 likes - 500 songs - 1 day 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 809,070 likes - 500 songs - 1 day 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOVU4mpMJjh.md) - [plain]
 | 499 | [Pretty Women](https://open.spotify.com/track/6qTF7EjSSecc1rip7xckgN) | [Connie Han](https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG) | [Crime Zone](https://open.spotify.com/album/45XJNADDsniF16VElBvwr8) | 6:21 |
 | 500 | [Dim](https://open.spotify.com/track/7M2CYOlGuAC73LnWPPbNGA) | [Davy Mooney](https://open.spotify.com/artist/4d73pkSAEvk4LdXH4DTyxq), [Ko Omura](https://open.spotify.com/artist/4emLm5IIufRxMupCYZB3DP) | [Benign Strangers](https://open.spotify.com/album/7AhaDHqyVLlmSxc5iAG5Nx) | 6:05 |
 
-Snapshot ID: `MCw4NDFkMjAxYzUyMzc4MzAxYmY2MjlkYmIxYmU4NWViYjJiM2ZmNGE5`
+Snapshot ID: `MCxjN2NhYTQ5NDRlNWYzNmEzZWFhM2U1ZDBmYzlmZTYxZWE4ZjQzODFm`

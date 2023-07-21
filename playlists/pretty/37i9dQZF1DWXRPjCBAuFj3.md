@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 
 > I rapper più forti del mondo in una sola playlist\. Cover: Gunna
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,040 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,055 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 | 99 | [PRESSURE](https://open.spotify.com/track/2xluJG2nDkkLeeb4qSiEqQ) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [PRESSURE](https://open.spotify.com/album/5izaq6SEl5fqhKPVCcFqO7) | 4:19 |
 | 100 | [Rover \(feat\. DTG\)](https://open.spotify.com/track/4slSrbTK1sNK4I1mDYEthf) | [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s), [DTG](https://open.spotify.com/artist/6kZWqUZqptyxb8Ki5DyBAg) | [Rover \(feat\. DTG\)](https://open.spotify.com/album/6XwFgPuBbmmfXEQhCcgPvd) | 2:47 |
 
-Snapshot ID: `MCwyZDZmNjE5NjM3ZjU5YzQ4YTU1Y2YxMjdmMTI1ZDQ3MzRjNjM0MDhl`
+Snapshot ID: `MCw1MjRkNTM5OTMyYzBkNzk4MmEzOGY4YjA4ZDZmZTAxYjQ4NzY2ZGFl`

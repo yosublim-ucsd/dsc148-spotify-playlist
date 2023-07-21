@@ -4,7 +4,7 @@
 
 > NYC DJ, The Loft founder, and Dance legend David Mancuso passed on Nov 14 2016\. This is a Tommie Sunshine, Spotify & Billboard Dance tribute\. Without Mancuso there would be no Rave scene, no House Music, no festival culture\. His legacy is vast; these are merely some of the classics born of The Loft.
 
-341 songs - 1 day 11 hr 43 min
+342 songs - 1 day 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,8 +225,9 @@
 | [Mystery of Love](https://open.spotify.com/track/1E8hMeQvfgvQPjN3BZ2viF) | [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [Amnesia](https://open.spotify.com/album/201nAW1V2QI2jDbGci7K3g) | 7:10 | 2018-02-27 |  |
 | [Mystery Of Love](https://open.spotify.com/track/6AvtRMA6AzFNYZ3qEMYpch) | [Mr\. Fingers](https://open.spotify.com/artist/0dRiUTGvNV17AMIULRYsvn) | [Amnesia](https://open.spotify.com/album/3qcIddqx4v69RvwyY5hfSH) | 7:10 | 2018-02-27 | 2022-07-29 |
 | [New York City](https://open.spotify.com/track/1OnC2WpS5VJQX4lcjkTaLB) | [Miroslav Vitous](https://open.spotify.com/artist/0ztzt6g8n0NBcnwMGwMlxD) | [Magical Shepherd](https://open.spotify.com/album/2VOK5aOHUyN28GGVb9IcIh) | 9:31 | 2018-02-27 |  |
+| [Next To You](https://open.spotify.com/track/1SqW8FgwhfIm5AO4wpNuZg) | [Harvey Presents Locussolus](https://open.spotify.com/artist/3evsK2HbED58ArIgeUYoAs) | [Trax 3 Lascivious Summer](https://open.spotify.com/album/0yohmYOsA27Wi9ZuwIa977) | 9:26 | 2018-02-27 |  |
 | [Next To You](https://open.spotify.com/track/5kWKsaR1hb7ydzOpcedCan) | [Harvey Presents Locussolus](https://open.spotify.com/artist/3evsK2HbED58ArIgeUYoAs) | [Trax 3lLascivious SummerlSelected by Eric Pajot](https://open.spotify.com/album/07wIue6WmLDZn9F2du3sHf) | 9:26 | 2018-02-27 | 2022-07-29 |
-| [Next To You](https://open.spotify.com/track/4vSYAyiXiFutrOQU0auPwf) | [Locussolus](https://open.spotify.com/artist/5YBkmI0Db3IWEG1EtGSSOK), [Heidi Lawden](https://open.spotify.com/artist/78kOxZT91FGSl9PJRc0YTS) | [Locussolus \(Expanded\)](https://open.spotify.com/album/2xlKMClOY0dMmZBsxZDHJ1) | 9:26 | 2018-02-27 |  |
+| [Next To You](https://open.spotify.com/track/4vSYAyiXiFutrOQU0auPwf) | [Locussolus](https://open.spotify.com/artist/5YBkmI0Db3IWEG1EtGSSOK), [Heidi Lawden](https://open.spotify.com/artist/78kOxZT91FGSl9PJRc0YTS) | [Locussolus \(Expanded\)](https://open.spotify.com/album/2xlKMClOY0dMmZBsxZDHJ1) | 9:26 | 2018-02-27 | 2023-07-21 |
 | [No Goodbyes](https://open.spotify.com/track/0wSLkfC9Dodm0NAyjEbt2O) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Do It All Night](https://open.spotify.com/album/0X8p4SwvCkH58bXUXV6gPb) | 7:43 | 2018-02-27 |  |
 | [No Goodbyes](https://open.spotify.com/track/17n9Es1MILggRcGkdFBldv) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Short Eyes / Do It All Night](https://open.spotify.com/album/09zsIKz1YLJK2DovF9FoTU) | 7:43 | 2018-02-27 | 2022-07-29 |
 | [Not Tonight \- Remix](https://open.spotify.com/track/07agkC4iApJmezuADTyMn2) | [Macho](https://open.spotify.com/artist/0UJ06Hqiumva8BYmUx6Tsh) | [Roll \(Original Album\)](https://open.spotify.com/album/6SJMPjoAcMPoCmWU8qQllM) | 6:32 | 2018-02-27 |  |

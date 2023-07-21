@@ -4,7 +4,7 @@
 
 > Descubre los nuevos talentos de Argentina, Chile y Uruguay\. Foto: Abril Olivera.
 
-152 songs - 7 hr 59 min
+153 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [La Oficial](https://open.spotify.com/track/74sIGoxUiqj5vLjry0zket) | [Pily García](https://open.spotify.com/artist/39oW9XDNK2MidsoRAyjXeB) | [La Oficial](https://open.spotify.com/album/49qL6ootmx7M0oJ8RVaDNI) | 3:18 | 2021-11-11 | 2023-06-02 |
 | [Las converse](https://open.spotify.com/track/3jnVYRB2mkTOinBWeLGEea) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Las converse](https://open.spotify.com/album/6igVxgZ2a2jX2nBQ1JHQnU) | 2:57 | 2023-06-01 |  |
 | [Las Naik](https://open.spotify.com/track/5vmYLoozbUNwcdVL2m3lHq) | [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy) | [Las Naik](https://open.spotify.com/album/1jJ7NdRUwzOxu3Pdmliyr3) | 2:55 | 2021-11-11 | 2022-06-28 |
-| [Leiti](https://open.spotify.com/track/1hsg0LlD4QT0fzhxjkvSZ7) | [Knak](https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C) | [Korta](https://open.spotify.com/album/46aFSdEdoJywxm59zrjZPq) | 1:36 | 2023-06-01 |  |
+| [Leiti](https://open.spotify.com/track/0dTtNCql4elZyZxHMsBP5e) | [Knak](https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C) | [Korta](https://open.spotify.com/album/7AEMstJEdLQUpP6BnsePpc) | 1:36 | 2023-06-01 |  |
+| [Leiti](https://open.spotify.com/track/1hsg0LlD4QT0fzhxjkvSZ7) | [Knak](https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C) | [Korta](https://open.spotify.com/album/46aFSdEdoJywxm59zrjZPq) | 1:36 | 2023-06-01 | 2023-07-21 |
 | [Liberarme](https://open.spotify.com/track/1uVMbb1alEeaZpT0xRhlYH) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Liberarme](https://open.spotify.com/album/2h8PU8Y32DnHwvMHXuaQLp) | 3:23 | 2022-12-22 | 2023-06-02 |
 | [Liberarme](https://open.spotify.com/track/6Zjcuz6NxB4DLt9b02ZV4B) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Liberarme](https://open.spotify.com/album/2RXzMbdC6uYKV4oTMXdbw3) | 3:23 | 2021-11-11 | 2023-04-15 |
 | [Lo Que No Te Conté](https://open.spotify.com/track/3Z452bjBcSY5lVXxlCCwSf) | [KMC](https://open.spotify.com/artist/6XRepE59HrVuIQgfWXdBJ4) | [Lo Que No Te Conté](https://open.spotify.com/album/6g5cG2wmNh2HPAW4oJXgS7) | 3:42 | 2021-11-11 | 2023-06-02 |

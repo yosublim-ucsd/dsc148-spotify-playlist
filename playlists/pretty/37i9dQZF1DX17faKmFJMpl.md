@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 
 > 한국 힙합의 뿌리, 올드스쿨 한국 힙합을 만나보세요\. \(커버: Tiger JK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,595 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,597 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 | 99 | [생긴대로 놀아 \(feat\. Juvie Train & Koonta\)](https://open.spotify.com/track/2sFF5YXdrsC39zLEERtmjV) | [DEEPFLOW](https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z), [Juvie Train](https://open.spotify.com/artist/2CEVA02kVlfCD2ASpvadw4), [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c) | [Heavy Deep](https://open.spotify.com/album/5BCPxcdCSPOy5MdLR9HN9S) | 4:23 |
 | 100 | [똑바로 걸어가 \(feat\. Redroc & 도끼\)](https://open.spotify.com/track/6LY8SLZE6WahwaAluvocrb) | [Leo Kekoa](https://open.spotify.com/artist/3EWpIFAuWBMDamEARiUikk), [Redroc](https://open.spotify.com/artist/1wwQDS0bLPNsiFFqWmCJNa), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [Ill Skill](https://open.spotify.com/album/3wluGULbyFDJrp41R7VdYf) | 3:38 |
 
-Snapshot ID: `MCwxMzU1YWE1YzFkNmZkYmIyOWE3OTQ3MTQwNDRiMTNhN2NhNDg0NTFl`
+Snapshot ID: `MCw5YjAzNDg0YWU2ZDQzNzFmYTljMWZmODViMGI0ODZmMDZmNzM0OWU5`

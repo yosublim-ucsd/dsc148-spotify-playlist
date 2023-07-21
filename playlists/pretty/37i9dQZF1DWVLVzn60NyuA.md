@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLVzn60NyuA.md) - [plain]
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,426 likes - 150 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,691 likes - 150 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLVzn60NyuA.md) - [plain]
 | 149 | [C'est Cuit \(feat\. Aya Nakamura & Swae Lee\)](https://open.spotify.com/track/5JfbkEPTaqnAVy9ITdphCl) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Music Is The Weapon \(Reloaded\)](https://open.spotify.com/album/40IcRv5uAg0lpafKsxnQ9g) | 2:36 |
 | 150 | [MYKILLI](https://open.spotify.com/track/3a9VWWcadXinOPMQzJS8uU) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [MYKILLI](https://open.spotify.com/album/4kxvEeZjpSgb5Ondj6UHuu) | 2:24 |
 
-Snapshot ID: `MCwzMzhmZmUzNjMzODdhNjhhYWMwZTJkZDdmNjVjMGQ2NDkxNjRhZjFm`
+Snapshot ID: `MCxkN2I4M2ZlYzY0YjY3NDQ0YWQ0MzAzMTcwOWJmYjJjY2NmNWY3M2Rj`

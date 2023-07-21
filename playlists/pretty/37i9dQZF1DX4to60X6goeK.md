@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: Tsuki
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,443 likes - 55 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,479 likes - 55 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 54 | [Operator](https://open.spotify.com/track/252DtNX0Mg9a0ldYbxC1ru) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [VOID LP](https://open.spotify.com/album/3Yn9wGvgJowYJwKubPrEYv) | 4:27 |
 | 55 | [3 Dots](https://open.spotify.com/track/09iyiGsA1NJ8GCHiog5fyj) | [The Sauce](https://open.spotify.com/artist/3pd9T0v8w1tURzhv7BQWRG), [Jakes](https://open.spotify.com/artist/2tEg1Ert1kIHmm55ayDUy7) | [3 Dots](https://open.spotify.com/album/787GjxTZlFUiU6d0CzSPQt) | 4:28 |
 
-Snapshot ID: `MCwyODBmNWUwMDg2MWUzODU0ZTExNDQ3OWJhNGE0ZTEzMGI3ZDBkYTNk`
+Snapshot ID: `MCxhOTZmNmNiODNkM2Y4YmMzMTRhYWIyZDk2NmYxNGE3Yzc4YmQ3N2Jm`

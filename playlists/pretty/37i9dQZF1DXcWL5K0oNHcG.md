@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: MELONYX Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,063 likes - 80 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,122 likes - 80 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 79 | [White Runway](https://open.spotify.com/track/6zuiGe5T1RW45DsUzO1c3V) | [EXOTIC SKATES](https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP), [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O) | [White Runway](https://open.spotify.com/album/2P0laiKlcFWjr8WUIbiXCe) | 4:42 |
 | 80 | [Nash](https://open.spotify.com/track/3v4frMlLHje5Vy9ZDOXBRy) | [Sawtooth](https://open.spotify.com/artist/0o65VjgHzvH72b5Bdhv1B8) | [Nash](https://open.spotify.com/album/2ud074dc1vr342FCevGj3B) | 2:22 |
 
-Snapshot ID: `MCw1MTgyZGY1YWQ5NTBhYzc4ZTlkZGM2ZDlhNWY1YTY4ZmY0ZGMxYTkw`
+Snapshot ID: `MTY4OTczOTIwMCwwMDAwMDAwMDVmMDYxYjNmMmU4MDk2YTlmNmQ1MDg1ZTlhYTM1YjUx`

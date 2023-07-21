@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 
 > The best instrumental versions of the american songbook classics\. Cover: Stan Getz
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,861 likes - 100 songs - 9 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,994 likes - 100 songs - 9 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5S7hzwhDSyV.md) - [plain]
 | 99 | [In A Mellow Tone](https://open.spotify.com/track/7ne7SWFZnES4KE2vwBc367) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [See You At The Fair](https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq) | 4:26 |
 | 100 | [Love For Sale \- Rudy Van Gelder Edition](https://open.spotify.com/track/31LoccJiEwfzHm72hDHLj0) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Go! \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet) | 7:37 |
 
-Snapshot ID: `MCxjYzM2ODQ2N2YzOGU1ZWVjYjM1MjUyZTVjM2Q4M2I1YzJlZjM4OTkz`
+Snapshot ID: `MCwxNzNmNDY4YTRiOTllYWFlY2VkMWU1ZTBjZWVlOTViMzc5NTFmNmQ2`

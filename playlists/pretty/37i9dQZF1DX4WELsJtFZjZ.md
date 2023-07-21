@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WELsJtFZjZ.md) - [plain]
 
 > Mellow songs from the 1980s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 723,904 likes - 150 songs - 11 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 724,521 likes - 150 songs - 11 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WELsJtFZjZ.md) - [plain]
 | 149 | [Angel Of The Morning](https://open.spotify.com/track/11y8GSP2ASv8S9n0FiiDva) | [Juice Newton](https://open.spotify.com/artist/4L1z1IcfK7lbqx8izGHaw5) | [Juice](https://open.spotify.com/album/13TOuCZy3QU2Tt1llKPUqc) | 4:10 |
 | 150 | [Live to Tell](https://open.spotify.com/track/095MMFhB9qxPx2VsmvjnUs) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 5:51 |
 
-Snapshot ID: `MCw5YTQ0NmI3MzFmOTcxNDZjNWJmMjU0N2JmOTY2MzY3NzE1MjIwYWM4`
+Snapshot ID: `MCxjYzRiY2Y1ZjYwZjBjMWIyNjBmYjEzMzUwMzdjMDUwZTk5ZjJmYjRm`

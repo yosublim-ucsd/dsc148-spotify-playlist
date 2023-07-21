@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 
 > Blue skies, nothing but blue skies\. Sun in your eyes and uplifting jazz in your ears on a sunny day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,904 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,004 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0tnKPLNG9Ld.md) - [plain]
 | 99 | [Cocktails For Two](https://open.spotify.com/track/12Iu4hfFdWbKE6nfVi1zKK) | [Toots Thielemans](https://open.spotify.com/artist/0KyolDFb1RjJQb4qXZKCqo) | [Harmonica Jazz](https://open.spotify.com/album/0xcPfuRMo0frd2Q36jCd8j) | 2:12 |
 | 100 | [Farmer's Market](https://open.spotify.com/track/0ajHKnwJuMptJqbhtxSuxU) | [Annie Ross](https://open.spotify.com/artist/53rc6pkiasAEVxO1VPpVOy) | [Improvisations for the Human Voice](https://open.spotify.com/album/6VztBHhA1uzWKMYo2QarJd) | 2:46 |
 
-Snapshot ID: `MCxmNjBmZjM4NTA1M2NiNGY1ZjZjZDcwZmMzMTVkM2VjZGJlNzkxOGRm`
+Snapshot ID: `MCxkYTU1Yjc4N2IzMTA0ZmE5OGQwODU2NmNhMTAxMmI3NWMwNzU2YTZk`

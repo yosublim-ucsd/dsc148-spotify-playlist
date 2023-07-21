@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5sGFwUJeqR.md) - [plain]
 
 > El género cubano cantable y bailable por excelencia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,522 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,644 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5sGFwUJeqR.md) - [plain]
 | 11 | [Soy El Rey](https://open.spotify.com/track/0TGLRGD4ZRp6sM5jy8EOjR) | [Pete Rodriguez](https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS) | [I Like It Like That](https://open.spotify.com/album/3jMsGvImaL1YxiTxNNIvvB) | 3:05 |
 | 12 | [Quimbara](https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia & Johnny](https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1) | 4:51 |
 | 13 | [Descarga Cubana](https://open.spotify.com/track/5zc2m1mCHseqrvjCDIcQTY) | [Cachao](https://open.spotify.com/artist/1Qa5p9ajnRIvq7bfsdtzqQ) | [Salsa Caliente \(Hot Rhythms\)](https://open.spotify.com/album/4ZsTBgwdo7Mb1UYOYM9aJB) | 3:03 |
-| 14 | [Dos Gardenias](https://open.spotify.com/track/3eg6Yi9x0gN3k4nD4h6il3) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi) | 3:02 |
+| 14 | [Dos Gardenias](https://open.spotify.com/track/3eg6Yi9x0gN3k4nD4h6il3) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi) | 3:04 |
 | 15 | [Mishugia Mambo](https://open.spotify.com/track/2tadAdX8nId1fdu4Re6gDE) | [La Playa Sextet](https://open.spotify.com/artist/2sOjbVJo60mStZl19NDcUn) | [Latin Gold Collection](https://open.spotify.com/album/2O8OijldTY0tq1lQSjg7xP) | 2:50 |
 | 16 | [Balcón de Santiago \- Remasterizado](https://open.spotify.com/track/285lxlgZjoNevIhRJiHHQx) | [Compay Segundo](https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1) | [The Real Cuban Music \(Remasterizado\)](https://open.spotify.com/album/0pYYKEQfYNYbZg4s8ScUVu) | 2:53 |
 | 17 | [Amorosa Guajira](https://open.spotify.com/track/5fHVlc1CeEnZIY8H1dRJeH) | [Guillermo Portabales](https://open.spotify.com/artist/5tU4QY77fd3PavzBZvM3bJ) | [Perlas Cubanas: La Guajira de Salón](https://open.spotify.com/album/2Biey1UqsHvQtI3RnT1BrK) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV5sGFwUJeqR.md) - [plain]
 | 49 | [Como Traigo La Yuca \- Live](https://open.spotify.com/track/4ZMlEw8pXvHuwQwem5kpGF) | [Chucho Valdés](https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp) | [Live At The Village Vanguard](https://open.spotify.com/album/2S1w7Sc9NukidqKfpylJDX) | 6:36 |
 | 50 | [Temba, Tumba Y Timba](https://open.spotify.com/track/0xzSgIVOg8ZjPCVvir36aO) | [Los Van Van](https://open.spotify.com/artist/4B5PkQ1wMjo1siTN9yD9Ds) | [Cuban All Stars Vol\. 2](https://open.spotify.com/album/0miSetdUZccRUKHH6M7OTf) | 6:53 |
 
-Snapshot ID: `MCxmOTgzMDQ1NTAwOTczMzE0ZTViMGFiOTg0Y2M0ZmI1ODZmZTc2YzNk`
+Snapshot ID: `MCw1ZTUwM2I3NDZlNDFmMGM5Mjg0NDFkMzQ2YmUwZjcxZTRjYWNhNTU2`

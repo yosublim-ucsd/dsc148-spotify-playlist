@@ -6467,7 +6467,7 @@
     },
     {
       "album": {
-        "name": "Canci\u00f3n para Ti <3",
+        "name": "Canci\u00f3n Para Ti <3",
         "url": "https://open.spotify.com/album/22JlpBD96eCM8D8Vuy5yGk"
       },
       "artists": [
@@ -6480,7 +6480,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 88355,
-      "name": "Canci\u00f3n para Ti <3",
+      "name": "Canci\u00f3n Para Ti <3",
       "url": "https://open.spotify.com/track/5kWRobeadEIT7AmGg55rpF"
     },
     {
@@ -9044,10 +9044,28 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 236500,
       "name": "Contento",
       "url": "https://open.spotify.com/track/2ck5ajcQXwcXWKQdyVrbFp"
+    },
+    {
+      "album": {
+        "name": "CLUB BOY",
+        "url": "https://open.spotify.com/album/5l2zFYxrUjY7t0knJlQN4N"
+      },
+      "artists": [
+        {
+          "name": "YUNG PRADO",
+          "url": "https://open.spotify.com/artist/0U0zpa0tZ4iAV6ypdDUm4I"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236500,
+      "name": "Contento",
+      "url": "https://open.spotify.com/track/4n8K2HMwYZptkns1qearhT"
     },
     {
       "album": {

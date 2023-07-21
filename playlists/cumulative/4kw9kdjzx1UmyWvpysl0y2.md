@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-522 songs - 1 day 6 hr 31 min
+524 songs - 1 day 6 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Duality](https://open.spotify.com/track/3SdDaIM1CjAEaFN9jmqfjf) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2) | [Duality](https://open.spotify.com/album/1y7jhXRTJG1kBi7ZftkjB8) | 3:30 | 2022-12-08 | 2023-03-09 |
 | [Eagle Rock](https://open.spotify.com/track/04XcibbkTGfV5dbUZ1e2FJ) | [Alex H](https://open.spotify.com/artist/3VJS76xe6UUj7Qo2S9gxvB) | [Eagle Rock](https://open.spotify.com/album/6uvex7L4oOshBeTbgtlzQN) | 4:04 | 2022-11-19 | 2022-11-22 |
 | [easier](https://open.spotify.com/track/6Nq8uEVMd328QWCXQoSuuM) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [clouds in my basement](https://open.spotify.com/album/5Vdqlk72QXWQSDMMrUaYTJ) | 2:44 | 2022-08-26 | 2022-11-02 |
+| [EAT SLEEP RAGE](https://open.spotify.com/track/2s7F8qjzm1XcMKG7O4GzCY) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [EAT SLEEP RAGE](https://open.spotify.com/album/3ACwIVqUsWkj9An9umbKmF) | 3:36 | 2023-07-20 |  |
 | [Echoes Of Silence](https://open.spotify.com/track/1MgjRb4bfIktunmJS6rqBN) | [OAI](https://open.spotify.com/artist/518xSxGVtLL5ck9r5xzasg), [Ra5im](https://open.spotify.com/artist/0tozaYWflIEZ3jaXOULWjk) | [Echoes Of Silence](https://open.spotify.com/album/3bAbk8cVmDJ5Q7J1IT6lVU) | 3:53 | 2022-07-15 | 2022-09-27 |
 | [El Refugio](https://open.spotify.com/track/6T8y2QBWEsOVjyRiJ45yVp) | [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K) | [El Refugio](https://open.spotify.com/album/7wu2zrPp9sRtA3iGbIExrf) | 2:49 | 2023-06-26 |  |
 | [Elixir](https://open.spotify.com/track/1at2wZ8lrkEn7zPAWtYxnz) | [Direct](https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi), [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY) | [Elixir / Nectar](https://open.spotify.com/album/6mrI14TDv5H4SKoYvcEPYA) | 3:03 | 2022-06-10 | 2022-08-24 |
@@ -262,6 +263,7 @@
 | [Lies and Deceptions \- Bad Computer Remix](https://open.spotify.com/track/3tV2l4rFMgzt5qoWrE6BlM) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI), [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk) | [Lies and Deceptions \(Bad Computer Remix\)](https://open.spotify.com/album/6w0bsHy2oXobGo8JndIPsP) | 3:27 | 2022-12-10 | 2023-03-14 |
 | [Life](https://open.spotify.com/track/1GEzNwN8v6S1ZzDeV5yTT5) | [Skua](https://open.spotify.com/artist/0VAx8r083HyvVoSSHhLyOM), [Cosmaks](https://open.spotify.com/artist/6IH6wRrcnOpOOPkQxO4ry8), [Anita Tatlow](https://open.spotify.com/artist/4hjXUEgdALesVBGGDx1hKB) | [Life](https://open.spotify.com/album/1FVq6Cn1lfE7IILYwwZ4eX) | 4:18 | 2022-06-15 | 2022-08-27 |
 | [Lifeline](https://open.spotify.com/track/13IZmcVnhtkMMGqO9P4IUU) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Lena Leon](https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7) | [Lifeline](https://open.spotify.com/album/2Ok5nuAXcRNMqYh9DRlahf) | 3:45 | 2023-07-05 |  |
+| [Lifted Me Up](https://open.spotify.com/track/34ZFf3epioP8dtD4lyu3aC) | [CloudNone](https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY), [Micah Martin](https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3) | [Lifted Me Up](https://open.spotify.com/album/2WAOkDsbaBt1EDYjia8aVE) | 3:48 | 2023-07-19 |  |
 | [Light of Mine](https://open.spotify.com/track/3jMeoTAxDrZfkVxMmWcWCg) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Jimorrow](https://open.spotify.com/artist/06qfSjDnOB1ZMdkynif9lv) | [Light of Mine](https://open.spotify.com/album/0CvAD6ngmCakv5MKuUtqYc) | 2:30 | 2021-11-19 | 2022-01-29 |
 | [Lightbringer](https://open.spotify.com/track/1LMuEvPbC5NvWIK2H9g4Ng) | [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3) | [Lightbringer](https://open.spotify.com/album/5FoXz8GMqoM0caVx9F7Izw) | 3:52 | 2023-04-06 | 2023-07-01 |
 | [Lights](https://open.spotify.com/track/1bI70ChgVQeRFWPlcf8Mjz) | [Melchi](https://open.spotify.com/artist/7LG5EbBmbQORP6SG9BDzSA) | [Lights](https://open.spotify.com/album/29OJjQm5SnnJqguRFVVvwi) | 3:51 | 2022-06-03 | 2022-08-13 |

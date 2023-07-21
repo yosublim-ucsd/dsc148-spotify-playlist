@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,358 likes - 50 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,389 likes - 50 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 49 | [Hallelujah \(feat\. Sini Dagana\) \[Gyration Version\]](https://open.spotify.com/track/22iQ6kNERAFyCOzzhM161U) | [Onos](https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0), [Sini Dagana](https://open.spotify.com/artist/4Qe3zkPW4YTQrde2Ef0dJb) | [Hallelujah \(feat\. Sini Dagana\) \[Gyration Version\]](https://open.spotify.com/album/2anNLVL6hppIExTm0C9IYm) | 2:18 |
 | 50 | [Now I See](https://open.spotify.com/track/0G0KrOjEhoBrcOCvFSCpn0) | [MUNACHi4u](https://open.spotify.com/artist/6xOOLSoOB6VI4n6X5pexao), [Mr\. DDavid](https://open.spotify.com/artist/7KIz93vDXB1hM19nB5vEvC) | [Now I See](https://open.spotify.com/album/5c3xz82NykD7mtk1lIVvu9) | 3:11 |
 
-Snapshot ID: `MCwzMmMyMzE1MjBlZTJhNDAyMDAyY2ExZjI2Njg4MGJmZmYxYmVhZmNk`
+Snapshot ID: `MCxiNmQ1YzQxYmZhYWRiZjQ0MzgzOTFkNzM2ZWJiYzYwNzU0YzNjZGRj`

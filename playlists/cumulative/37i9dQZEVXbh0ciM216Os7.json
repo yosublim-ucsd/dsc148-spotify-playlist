@@ -1078,7 +1078,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-15",
+      "date_removed": null,
       "duration_ms": 293371,
       "name": "Black Thunder - Acoustic",
       "url": "https://open.spotify.com/track/0EuK3oxiQyjmD8Bidug7oc"
@@ -1754,6 +1754,24 @@
       "duration_ms": 231057,
       "name": "Dancing to a New Groove",
       "url": "https://open.spotify.com/track/1Gt2YdremuGyPPi5wlDo4X"
+    },
+    {
+      "album": {
+        "name": "RFK Stadium, Washington, DC, 6/10/73 (Live)",
+        "url": "https://open.spotify.com/album/2Lxt0taVNc2Bv20rt0d21w"
+      },
+      "artists": [
+        {
+          "name": "Grateful Dead",
+          "url": "https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1596670,
+      "name": "Dark Star (Live at RFK Stadium, Washington, DC, 6/10/73)",
+      "url": "https://open.spotify.com/track/7ursvTTSnu6i3S5ZKqtynG"
     },
     {
       "album": {
@@ -7784,7 +7802,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 223827,
       "name": "Sunday Bloody Sunday (Metal Version)",
       "url": "https://open.spotify.com/track/63VxeCExz07CEXG95igB5k"
@@ -8378,7 +8396,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 323381,
       "name": "They Love Each Other (Live at RFK Stadium, Washington, DC, 6/10/73)",
       "url": "https://open.spotify.com/track/5Ka80ETZbbaNCwRKVNbEGD"
@@ -8484,7 +8502,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 212844,
       "name": "This Is Mongol - Acoustic",
       "url": "https://open.spotify.com/track/4GnWBQiFNtTRUX5jY8bb5B"
@@ -9638,6 +9656,24 @@
       "duration_ms": 197213,
       "name": "Yumi - edit",
       "url": "https://open.spotify.com/track/6bSOiR46KEKIMuudilMDKo"
+    },
+    {
+      "album": {
+        "name": "Yummy Yummy Yummy (Metal Version)",
+        "url": "https://open.spotify.com/album/1OyYNlaGs6LTBUlZCGkslU"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/5KWOCu1saEHAhPiLKlOLIy"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196872,
+      "name": "Yummy Yummy Yummy (Metal Version)",
+      "url": "https://open.spotify.com/track/7uaH0qza3XkbuT0sDLdRQl"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZEVXbh0ciM216Os7"

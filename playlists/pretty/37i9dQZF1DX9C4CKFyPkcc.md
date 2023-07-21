@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9C4CKFyPkcc.md) - [plain]
 
 > Enjoy the holidays with this fresh mix of new and classic Christmas songs!
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,735 likes - 150 songs - 8 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,724 likes - 150 songs - 8 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9C4CKFyPkcc.md) - [plain]
 | 149 | [Go Tell It On The Mountain](https://open.spotify.com/track/6MaTesDJBXPBsULCNSfTCB) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Go Tell It On The Mountain](https://open.spotify.com/album/6g9UTRdRELfFRrykZhZ0US) | 2:20 |
 | 150 | [Christmas Time Again](https://open.spotify.com/track/4fZOOTo7H9ralEE18IeIi0) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [Joy](https://open.spotify.com/album/0IJGoazlUcCQTWdL7BV1Oa) | 3:13 |
 
-Snapshot ID: `MCw4OTA3ZTdmMDliMDg2ZWMyMTUxZjkyYWQ5NzQwOTFiZmM3MzEzYWYz`
+Snapshot ID: `MCw1NTU4YTIwOWRmNzE5MTBkZGMwODRmMTU5NzEyZTY0NDY3MjZhM2Y2`

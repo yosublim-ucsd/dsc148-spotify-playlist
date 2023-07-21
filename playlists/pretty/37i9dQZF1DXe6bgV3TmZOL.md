@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 
 > If your workout doubles as an outlet for your aggression, this is the playlist for you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,258,028 likes - 150 songs - 9 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,258,716 likes - 150 songs - 9 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe6bgV3TmZOL.md) - [plain]
 | 149 | [Do You Really Want It](https://open.spotify.com/track/48gS3f9HDsXtlMBVdwvC2Z) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [The Stories We Tell Ourselves](https://open.spotify.com/album/4tEmy5QxiF1b65HxuGnkco) | 3:53 |
 | 150 | [Heretic](https://open.spotify.com/track/4whGYZQVkjI7r1hAyc4BFY) | [LANDMVRKS](https://open.spotify.com/artist/6G43CiunIxMwb2tQ12vNP6), [NOVELISTS](https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS) | [Déjà Vu](https://open.spotify.com/album/4aSQ7ZdevivIQFeSMWxPSW) | 3:22 |
 
-Snapshot ID: `MCw3MjViOTlmMWE0NTFkZWNhNTAzMDc4NzZmOTI2MTk4ZmMxZWUzZmI5`
+Snapshot ID: `MCw3N2NmZGJmOGEwMmU5YjQ2Y2IyNzA3M2M4NDQwZDQ4ZWVlZmU3MzFk`

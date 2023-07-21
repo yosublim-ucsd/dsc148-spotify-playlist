@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-655 songs - 1 day 13 hr 51 min
+656 songs - 1 day 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,8 +21,8 @@
 | [a m a r i](https://open.spotify.com/track/2cnKST6T9qUo2i907lm8zX) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:28 | 2021-05-16 | 2021-05-17 |
 | [A Tale By Quincy](https://open.spotify.com/track/759ndr57jb0URg4j9YSWml) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 1:36 | 2022-01-08 | 2022-01-11 |
 | [abcdefu](https://open.spotify.com/track/4fouWK6XVHhzl78KzQ1UjL) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abcdefu](https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI) | 2:48 | 2021-12-07 | 2022-02-03 |
-| [Abl Mawsalek](https://open.spotify.com/track/6382iMgZk6yyPg3htCkpB5) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Abl Mawsalek](https://open.spotify.com/album/5zJx8EKJIpZSjM1BH3FzYz) | 4:38 | 2021-11-23 |  |
-| [Abo Galum](https://open.spotify.com/track/1JgbWmgC9uDYHmedb91Tzd) | [Eldab3](https://open.spotify.com/artist/6vLkOAl2dLtfh5IDzZaMjh) | [3awdet Eldab3](https://open.spotify.com/album/3JtWRyNJQGsi9naZlMrOQv) | 2:13 | 2023-06-10 |  |
+| [Abl Mawsalek](https://open.spotify.com/track/6382iMgZk6yyPg3htCkpB5) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Abl Mawsalek](https://open.spotify.com/album/5zJx8EKJIpZSjM1BH3FzYz) | 4:38 | 2021-11-23 | 2023-07-21 |
+| [Abo Galum](https://open.spotify.com/track/1JgbWmgC9uDYHmedb91Tzd) | [Eldab3](https://open.spotify.com/artist/6vLkOAl2dLtfh5IDzZaMjh) | [3awdet Eldab3](https://open.spotify.com/album/3JtWRyNJQGsi9naZlMrOQv) | 2:13 | 2023-06-10 | 2023-07-21 |
 | [Abu Mecca](https://open.spotify.com/track/0kRVLXoBrU3IaKGUknzzJs) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [Abu Mecca](https://open.spotify.com/album/05YBYtyENG04UjhacVIy0Z) | 3:24 | 2021-03-27\* | 2021-06-23 |
 | [Ader Akmel](https://open.spotify.com/track/2IhPJapsl9WFLBFNhWZp7q) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Ader Akmel](https://open.spotify.com/album/393g3wXpkLzwfnewZVZ01n) | 4:13 | 2023-02-19 | 2023-07-12 |
 | [Adrenaline](https://open.spotify.com/track/4loPewUujVLd1Fn1dJFN0g) | [Arabic DJ](https://open.spotify.com/artist/0C8CVs1tRKlYN8FVEvsGlt) | [Arabic DJ](https://open.spotify.com/album/11khAHTlMzLut4KZ1FCkwE) | 3:14 | 2022-08-11 | 2022-08-25 |
@@ -481,6 +481,7 @@
 | [Tarantino](https://open.spotify.com/track/13E54FVYV7fzEfZhtrKn0K) | [Cairokee](https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK), [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [Roma](https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F) | 3:02 | 2022-09-24 | 2022-12-10 |
 | [Tarsh](https://open.spotify.com/track/5iuZ87tYtYAfd4VkuzN4Zl) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Ordne](https://open.spotify.com/artist/6eEgtjJ64JAlgjqyBPzkqH) | [Tarsh](https://open.spotify.com/album/30watsIksrxiSzUcTLC1FE) | 2:43 | 2021-12-24 | 2021-12-27 |
 | [Tayarat](https://open.spotify.com/track/55pEJb85n9e412CJtNugQN) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [Tayarat](https://open.spotify.com/album/5fYjVjlWvYHD08pjTC2ats) | 3:21 | 2021-03-27\* | 2021-05-03 |
+| [Tayer](https://open.spotify.com/track/6miRZdknknUzuQYZP3DTJz) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Tayer](https://open.spotify.com/album/5KjCWTgMVinKpmGRJXjkI7) | 2:54 | 2023-07-20 |  |
 | [TEGE GOAL](https://open.spotify.com/track/0TvMcVxIQaxZCkT4R6yjpS) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [SAN STEFANO](https://open.spotify.com/album/0AkGcmpMk9Ctaa8LgigTT1) | 3:16 | 2022-07-28 | 2022-08-01 |
 | [Tege Goal](https://open.spotify.com/track/5ptN0LBbIyZrxP9RLAwq5N) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [Tege Goal](https://open.spotify.com/album/4b8EdoD1qXfDm5yOcuED90) | 3:16 | 2022-01-05 | 2022-07-29 |
 | [Tegy Ntrahn](https://open.spotify.com/track/2NF0gMDLnJSaqIfj0SvrDi) | [Tamer Ashour](https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F) | [Tegy Ntrahn](https://open.spotify.com/album/45VciPIELkkQgWSkS2QLlq) | 4:00 | 2022-01-22 | 2022-05-08 |
@@ -506,7 +507,7 @@
 | [United In Grief](https://open.spotify.com/track/05zd5Nv0e02ZqrlC8A2cwx) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 4:15 | 2022-05-14 | 2022-05-17 |
 | [VALENTINO](https://open.spotify.com/track/3rvtomcmFFf3JJpxr5SRW1) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR), [DizzyTooSkinny](https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP) | [VALENTINO](https://open.spotify.com/album/7lWM0nd2rvZcPptTWFSqi4) | 2:37 | 2022-02-12 | 2022-03-24 |
 | [Vigilante Shit](https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 2:44 | 2022-10-22 | 2022-10-24 |
-| [W El 7al Eh](https://open.spotify.com/track/7d3jR3zhKm8i7aPQcxjiVB) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [W El 7al Eh](https://open.spotify.com/album/4BopfUXJgJhEUYefSdOXHs) | 2:59 | 2022-12-27 | 2023-07-20 |
+| [W El 7al Eh](https://open.spotify.com/track/7d3jR3zhKm8i7aPQcxjiVB) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [W El 7al Eh](https://open.spotify.com/album/4BopfUXJgJhEUYefSdOXHs) | 2:59 | 2022-12-27 |  |
 | [Wahshteeny](https://open.spotify.com/track/15dL61n1mPULn6XkY95eRj) | [Amir Eid](https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp) | [Wahshteeny](https://open.spotify.com/album/5tKmFSot2PxW7tRmrkWQQQ) | 2:28 | 2023-07-11 |  |
 | [Wala Leila Men Layalik](https://open.spotify.com/track/2E96jCCCFuYRqQ1ewBs736) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Ya Fatenny](https://open.spotify.com/album/3PiLAHM8hDtVxWkwg1LStr) | 4:05 | 2021-10-11 | 2021-10-22 |
 | [Wasa3 Wasa3](https://open.spotify.com/track/2hZb0DuHOlqka9VYhHlTpM) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Wasa3 Wasa3](https://open.spotify.com/album/4ejC21FFgQLYmMCm1OfSKh) | 3:58 | 2022-07-28 | 2023-07-03 |

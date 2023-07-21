@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 
 > unwind with these alternative favorites and new discoveries.
 
-[Spotify](https://open.spotify.com/user/spotify) - 442,698 likes - 125 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 442,792 likes - 125 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 124 | [Cinema Love](https://open.spotify.com/track/28yYvFeocTDYzao76YVB75) | [Patrick Martin](https://open.spotify.com/artist/0akke4ZfLeCMEwuSJX5yc8) | [Cinema Love](https://open.spotify.com/album/356ZbANcwXGXMpgOZePud7) | 3:48 |
 | 125 | [Fountain Of Youth](https://open.spotify.com/track/46exzPPGwXU9Xcoz5u618b) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Sunlit Youth](https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0) | 3:53 |
 
-Snapshot ID: `MCxlNmUyZDgwNjc5NDBjZmYyZWQ4OTc2NmIzOGU2MmMzNzY0ZTViZWQ2`
+Snapshot ID: `MCxkMzIyZmNkN2FkM2VhZDc0YzE4YTIyZGM4OWRhOWJiMjI2YTA0YzFi`

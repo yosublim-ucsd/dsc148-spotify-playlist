@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DtDmlyZ4X7.md) - [plain]
 
 > Musik som hjälper dig att fokusera vid intensiva studier.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,629 likes - 250 songs - 10 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,631 likes - 250 songs - 10 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6DtDmlyZ4X7.md) - [plain]
 | 249 | [Dancing Butterflies](https://open.spotify.com/track/4h5GTzoptGcmml3VwBkP6t) | [Remi Sinclair](https://open.spotify.com/artist/2e43Th3IHo39TLIcMpeFbn) | [Dancing Butterflies](https://open.spotify.com/album/0jS0WNnzijFTntrDJOJBRY) | 1:58 |
 | 250 | [I Know Him](https://open.spotify.com/track/4CeTYj1jcn4wVhh7HOHfeM) | [Errol Hayward](https://open.spotify.com/artist/5QqAOx4RRkDlVmHse16kNx) | [I Know Him](https://open.spotify.com/album/54o66y7C616cYs13urOgYx) | 2:37 |
 
-Snapshot ID: `MCxlYjcxMzkzZTNlZTZmN2NhNmE2MmUwY2JjMTk4YzEzNmEwNWYzM2Fi`
+Snapshot ID: `MCwwNWM1YjczZWMwYmQ5NTk5MzExNDNkOTJkNTJlZWNkNjQ1ZWUzMzZl`

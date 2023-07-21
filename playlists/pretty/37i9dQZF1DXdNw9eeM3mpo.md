@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 
 > 100% ska en español\. Los Fabulosos Cadillacs en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,141 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 431,224 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 99 | [Del Ayer](https://open.spotify.com/track/3jBY6x8LCx4X6ylaFWTMeR) | [Tropa 56](https://open.spotify.com/artist/7dQkBUbCHIHb5T5tjD8dQJ) | [Del Ayer](https://open.spotify.com/album/3FedNhiF6P9nE4P5CUEhCD) | 4:40 |
 | 100 | [Demasiada Presión \- Remasterizado 2008](https://open.spotify.com/track/1CwyfupBufLXfYdPr8LhDF) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Los Fabulosos Cadillacs \- Vol\. V](https://open.spotify.com/album/5yv3ZFKygQ7PtOe91V8H1L) | 4:12 |
 
-Snapshot ID: `MCxiZDRmNGU2ZmY2YTFjNTNjZDJkMzFjY2UwYzM0ODAyNGJjNmY5MGI0`
+Snapshot ID: `MCwyYTk0MDRkMjc0Njg1YzEzMzhlMmNiMWIyNTE1MGFmYjI5YzhmNGZk`

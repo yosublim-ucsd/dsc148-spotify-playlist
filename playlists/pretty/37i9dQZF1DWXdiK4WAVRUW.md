@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdiK4WAVRUW.md) - [plain]
 
 > We're celebrating the 5th anniversary of Dan + Shay's self\-titled record on 2010s Country!
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,418 likes - 200 songs - 11 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 504,758 likes - 200 songs - 11 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXdiK4WAVRUW.md) - [plain]
 | 199 | [Love Triangle](https://open.spotify.com/track/3YM0vEH7taFj7OLW3dWfiu) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [WildHorse](https://open.spotify.com/album/12TcV1G3QfZ48XweN8kyp4) | 3:45 |
 | 200 | [Drunk Last Night](https://open.spotify.com/track/4hnK8P3v7kE7T4PMBYwRhu) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv) | [10,000 Towns](https://open.spotify.com/album/6JXJKuUgJ3AKpU9gh9RJs6) | 3:39 |
 
-Snapshot ID: `MCw3MTJhNTAxMTVkZDA4YjliYjA0MDRkNWI3MzY0ZmJkY2RlODk2N2Q4`
+Snapshot ID: `MCw4MmU2YjBhNjMwNzA4Y2FiYjNmZjA2ODU3ZDE1NjJlYTZmYzhiNzcw`

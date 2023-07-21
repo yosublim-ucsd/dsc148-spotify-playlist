@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-402 songs - 1 day 0 hr 2 min
+403 songs - 1 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,6 +316,7 @@
 | [Take You Higher](https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Sunsetter](https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU) | 3:48 | 2022-07-28 | 2023-07-06 |
 | [Take You Higher](https://open.spotify.com/track/5Gj093wqSqVk6AEaAh28la) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Take You Higher](https://open.spotify.com/album/5W8X4NeQ4uVb2HFfqauzzB) | 3:48 | 2021-12-23 | 2022-07-25 |
 | [Talk About It](https://open.spotify.com/track/3mIK4mZ6dZbKNXU6yofkxB) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Talk About It](https://open.spotify.com/album/4VCxXlazmRGUPkMyir90Jr) | 3:24 | 2022-03-24 | 2022-04-18 |
+| [Talk To Me Nice](https://open.spotify.com/track/0k4C2siRScZQAb7eIEQDI5) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Talk To Me Nice](https://open.spotify.com/album/47SFbNznLU50PNraq3mIdn) | 3:49 | 2023-07-20 |  |
 | [Tangerine \- Channel Tres Remix](https://open.spotify.com/track/4xC3EWDjwlWS0L62QZO9F8) | [Aaron Childs](https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Tangerine \(Channel Tres Remix\)](https://open.spotify.com/album/2FuMGSJC5lI08kWandk65f) | 4:54 | 2021-12-23 | 2022-06-07 |
 | [Teleport](https://open.spotify.com/track/0Sl0DTpE41cXFwblnBt1UN) | [BAELY](https://open.spotify.com/artist/62ZRjfeyo7sLeth6Twkq6h) | [Teleport](https://open.spotify.com/album/7H4nESb8FK8bqb7g1e5x0I) | 3:45 | 2022-08-11 | 2022-08-26 |
 | [Tell Him](https://open.spotify.com/track/0XsVWP7NBrKrQpqPJQDVrc) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t), [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Starfruit](https://open.spotify.com/album/4JnOTToBfdGzJUP7Qy2nYL) | 3:54 | 2022-07-28 | 2022-08-12 |
@@ -355,7 +356,7 @@
 | [Together](https://open.spotify.com/track/06z7jpfrhxPSQ4QXnklazv) | [Louis Culture](https://open.spotify.com/artist/7k6jdEkR8FoKdOi0iW4VkR), [HALINA](https://open.spotify.com/artist/0PfUZvZ6c8KPCq3BSKiIpp) | [When Life Presents Obstacle](https://open.spotify.com/album/7ffQYP9KLpPkr73BW4hR8r) | 3:14 | 2022-11-24 | 2022-12-16 |
 | [Too Good](https://open.spotify.com/track/3i1bEZOg8cDNmQGptB4HSv) | [Moonchild](https://open.spotify.com/artist/1VgjAK52kjkQJQQRhTn02t) | [Too Good](https://open.spotify.com/album/1UHp6VpoVu9tCdc33Ulr4g) | 3:42 | 2021-12-23 | 2022-07-29 |
 | [Toothache](https://open.spotify.com/track/6plp1nJtm4Y3m87qmDCy61) | [Topaz Jones](https://open.spotify.com/artist/76bAuLD5jMIT1YDJ84KB8l) | [Toothache / Zoom](https://open.spotify.com/album/3c9W0mGNlgamPdlh1JfNj1) | 3:43 | 2021-12-23 | 2022-11-13 |
-| [Try Me](https://open.spotify.com/track/3htVhQPsTXWAkAXYRkfRSz) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Try Me](https://open.spotify.com/album/1zEHQu3XSlROYTbFdmISHx) | 3:33 | 2023-04-13 |  |
+| [Try Me](https://open.spotify.com/track/3htVhQPsTXWAkAXYRkfRSz) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Try Me](https://open.spotify.com/album/1zEHQu3XSlROYTbFdmISHx) | 3:33 | 2023-04-13 | 2023-07-21 |
 | [Tunnel](https://open.spotify.com/track/3ys5J8MAFYex3zO7n9VduT) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Tunnel](https://open.spotify.com/album/1HBAAAthpIYZLWtcr6NZUX) | 5:10 | 2022-03-31 | 2022-04-15 |
 | [Two Face](https://open.spotify.com/track/7eE8Doh8THjGp6Vpg3RdQ8) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [Two Face](https://open.spotify.com/album/52G5UzGDFImfKKpMiYzn1W) | 4:07 | 2022-03-24 | 2022-07-24 |
 | [Two Sides \(I’m So Gemini\) \- Single Version](https://open.spotify.com/track/36O9g4F0Zg9BviD6Hd2H2q) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Two Sides \(I’m So Gemini\)](https://open.spotify.com/album/4FuvzYPhSg46cqv6VPihzp) | 2:06 | 2023-02-16 | 2023-04-02 |

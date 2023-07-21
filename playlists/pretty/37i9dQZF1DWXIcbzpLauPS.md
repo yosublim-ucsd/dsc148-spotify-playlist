@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > Metalcore at its finest\. Cover: Imminence
 
-[Spotify](https://open.spotify.com/user/spotify) - 889,907 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 890,023 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 79 | [NEVERBLOOM](https://open.spotify.com/track/5AmwSEeKmk2ivpOJDsGz5x) | [DEADSKIN](https://open.spotify.com/artist/4a4jP87ETErMj9iUJHI507) | [NEVERBLOOM](https://open.spotify.com/album/7GxPF1osJdbgpN9TYn6HEi) | 4:10 |
 | 80 | [Reap](https://open.spotify.com/track/0sG0I67b53eGXCKryNCgmC) | [Shallowsky](https://open.spotify.com/artist/0OggfRsxbs119D8rf3rXvG) | [Reap](https://open.spotify.com/album/4cBmWgK6BWMuh5NakqcOIi) | 3:27 |
 
-Snapshot ID: `MCwwNmY0OGUzN2QyOTIzZDk5NTMxZTMwZmEyNTZlZWFlYjgyY2I0NTdh`
+Snapshot ID: `MCxhMmI4YmM0NjJlNDM5ODU0OGUyODVjOGU1MjQ2NGMzNmI0YTM5OGI4`

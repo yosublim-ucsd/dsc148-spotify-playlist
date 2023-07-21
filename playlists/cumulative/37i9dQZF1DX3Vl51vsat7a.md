@@ -2,9 +2,9 @@
 
 ### [RADAR GSA](https://open.spotify.com/playlist/37i9dQZF1DX3Vl51vsat7a)
 
-> Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Florentina
+> Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: Novaa, LIE NING
 
-217 songs - 11 hr 44 min
+220 songs - 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Breddaz](https://open.spotify.com/track/2f3Mn7wQBLthtljAg3pNtj) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W) | [Breddaz](https://open.spotify.com/album/5FT4AWmrf82orNUV9Y8EwD) | 2:26 | 2022-11-17 | 2023-03-18 |
 | [Bring The Good Mood Back](https://open.spotify.com/track/69dxNtRNHQknBIrXRgYvvt) | [Kellerkind](https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA) | [Bring The Good Mood Back](https://open.spotify.com/album/4oHJfzm4Snx1mvehq0a9RE) | 6:58 | 2022-05-19 |  |
 | [Broker](https://open.spotify.com/track/28eI53WyFJVjjQwSnWTh9K) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Broker](https://open.spotify.com/album/6mn6PbO5EXrQ4UzGpRP9qo) | 2:30 | 2023-02-09 | 2023-02-27 |
-| [Broker](https://open.spotify.com/track/0fmZFIfyvdcg6dVkczBpwF) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb) | [Broker](https://open.spotify.com/album/4syw0FRlDPOvhtxY9saHrk) | 2:30 | 2023-02-23 |  |
+| [Broker](https://open.spotify.com/track/0fmZFIfyvdcg6dVkczBpwF) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Dauner](https://open.spotify.com/artist/2E5bmPbkiGhZ3ZK798zFIb) | [Broker](https://open.spotify.com/album/4syw0FRlDPOvhtxY9saHrk) | 2:30 | 2023-02-23 | 2023-07-21 |
 | [Build Me A Bridge](https://open.spotify.com/track/07aDoPEceysLO98w5Jy5IK) | [ELI](https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR) | [Our Beautiful Mess](https://open.spotify.com/album/0ZkXgfTXWi2UsQGmKqCHQ3) | 2:42 | 2021-12-16 |  |
 | [Can't Take This Silence](https://open.spotify.com/track/1IihN2MXusofF69y5OCDNP) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [She's A Rose](https://open.spotify.com/album/51EEO2MvJmchRb0b4V9Ii7) | 4:08 | 2021-12-16 | 2022-03-18 |
 | [Cigarette](https://open.spotify.com/track/5Brzg5PdxEwUbwfS2looQf) | [FLØRE](https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD) | [Cigarette](https://open.spotify.com/album/4cVguILaTeTnjfcMhJx2Mz) | 3:18 | 2021-12-16 | 2022-04-08 |
@@ -121,7 +121,7 @@
 | [Lipsticks & Heartbreaks](https://open.spotify.com/track/5WX5hHwiJnFx9IIcCKxWWP) | [Kynda Gray](https://open.spotify.com/artist/3LPEGy5eAGPgKYJVrkRuSX) | [Lipsticks & Heartbreaks](https://open.spotify.com/album/5mkpbYUEBkj9tRJ3aKGUdc) | 2:10 | 2021-12-16 |  |
 | [Locker Room](https://open.spotify.com/track/3jjTNicCrPJFe0FyLWmSAR) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Locker Room](https://open.spotify.com/album/2MlvBenVNmFKfLvprpn194) | 3:43 | 2022-04-28 | 2022-09-02 |
 | [Lonely](https://open.spotify.com/track/6pyh4lkDS5FzWBz9y8Wu0S) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Lonely](https://open.spotify.com/album/7noXhmn3TF1aWpJpYH3cjw) | 3:12 | 2022-03-17 | 2022-07-08 |
-| [Look Around](https://open.spotify.com/track/5r1sF6bvYPtDMvb2rwJBn5) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [Look Around](https://open.spotify.com/album/2ppasYNU18BBmkLpaS0Tdn) | 3:21 | 2022-10-27 |  |
+| [Look Around](https://open.spotify.com/track/5r1sF6bvYPtDMvb2rwJBn5) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [Look Around](https://open.spotify.com/album/2ppasYNU18BBmkLpaS0Tdn) | 3:21 | 2022-10-27 | 2023-07-21 |
 | [Love Under The Influence](https://open.spotify.com/track/7zU7vNJiit9Ep9AtPyuKBl) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Love Under The Influence](https://open.spotify.com/album/11x2KmXabLf3gs30g7Wa5d) | 3:08 | 2023-04-06 | 2023-05-19 |
 | [Luna](https://open.spotify.com/track/2BCaas3HKVlNZAe2Lzfq7x) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi), [AKIRA](https://open.spotify.com/artist/0dErkhdd4nhGJhX2Hwi2vM) | [Dunes](https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB) | 2:50 | 2023-05-18 |  |
 | [Mach kaputt](https://open.spotify.com/track/5BYHix1INNkgiIjcnlewIh) | [Schmyt](https://open.spotify.com/artist/2DysK49GjODUdRupTMZrfb), [OG Keemo](https://open.spotify.com/artist/4gJT0OnBISFA5CPMNYBGIE) | [Mach kaputt](https://open.spotify.com/album/1YxQJI2BWCPeA48pKEyAW4) | 3:55 | 2022-04-21 | 2023-03-18 |
@@ -131,7 +131,9 @@
 | [mein Bestes](https://open.spotify.com/track/1jZRoK2NYNfJ714ZCUejZQ) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [Wind](https://open.spotify.com/album/2y7fLVS5J30B7CxzwDSdDf) | 3:01 | 2022-10-27 |  |
 | [Mercurial Vapor](https://open.spotify.com/track/5hWmJ3vuMbBHdJYpKXGdm3) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Mercurial Vapor](https://open.spotify.com/album/5PlEkgdwrcOFk7n9OPajCZ) | 3:05 | 2022-12-08 | 2023-04-07 |
 | [Mercy Stroke](https://open.spotify.com/track/45Me6oIEz4AlHq7E8cNfcF) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [Mercy Stroke](https://open.spotify.com/album/2gIICHzjGClgUbObjPauqK) | 2:45 | 2022-03-17 | 2022-06-10 |
+| [mietfrei](https://open.spotify.com/track/1CknK1sYAhoYxZEs5OfqEq) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [SIRA](https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA) | [mietfrei](https://open.spotify.com/album/3MWijTaxJrKLKeY1VmcwyH) | 2:21 | 2023-07-20 |  |
 | [MIND ACTRESS](https://open.spotify.com/track/6Vyw8E2SOTb5dUasc76bmH) | [Joplyn](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [PAPPELALLEE 01](https://open.spotify.com/album/5qcXQaYl5cwPi00ej8JWSF) | 3:53 | 2021-12-16 | 2022-04-29 |
+| [Mirror](https://open.spotify.com/track/3oEE9CTAWGucULUz6q9s7l) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [I Feel Alone These Days](https://open.spotify.com/album/3XUpS6zpdfyYvqLHktRXia) | 4:08 | 2023-07-20 |  |
 | [Mom&Dad](https://open.spotify.com/track/7nk2rwASLMnPTGMTrW0tqa) | [CÉLINE](https://open.spotify.com/artist/5ZYOlPpI9FZu2uIPkTB0UA) | [Mom&Dad](https://open.spotify.com/album/4XOL1wYfQ0bku2DDaoYMqn) | 3:01 | 2021-12-16 | 2022-07-29 |
 | [Morning Blue](https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Morning Blue](https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG) | 3:37 | 2022-07-14 |  |
 | [My Wife The Depression](https://open.spotify.com/track/4Izo6qdh1ypa33xz2Ez4Lf) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [My Wife The Depression](https://open.spotify.com/album/6vhpoAT5KHbsE5pxv7Mp9O) | 3:02 | 2021-12-16 | 2022-04-15 |
@@ -144,6 +146,7 @@
 | [Nirvana](https://open.spotify.com/track/5xl244VVxvCmvUEAJn40CW) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Nirvana](https://open.spotify.com/album/64l6m4xbHEHyiEeMkHlMk2) | 3:31 | 2022-12-01 | 2022-12-17 |
 | [No Future? No Thanks!](https://open.spotify.com/track/5wljLwi5DUKFyY2ASdvi8A) | [Pabst](https://open.spotify.com/artist/72fLLt8HNxQ2VwCbYFxQCD) | [No Future? No Thanks!](https://open.spotify.com/album/0p0ZCH8pVZBM0BlcgHJRpv) | 2:40 | 2022-06-09 | 2022-07-22 |
 | [Nothing to Me](https://open.spotify.com/track/2pVZpUlgPZSSfTP9nFs6kn) | [AVEC](https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf) | [Nothing to Me](https://open.spotify.com/album/7fiGgJfGWFRGHmNil6Wg7x) | 3:13 | 2022-04-14 | 2023-06-23 |
+| [Novaacation](https://open.spotify.com/track/6TO8fVn8D5jVyGOK7p1kjz) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm), [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [Novaacation](https://open.spotify.com/album/0Z0zEpXCB3RfEDTVQIfWm4) | 3:20 | 2023-07-20 |  |
 | [offline](https://open.spotify.com/track/4XaHwwjBXQ4yBKpR6P81jw) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs) | [offline](https://open.spotify.com/album/5BJ5BHSUdfIs4dFzu15iKX) | 3:21 | 2022-09-29 | 2023-02-03 |
 | [Ohrwurm](https://open.spotify.com/track/6y0pXmJTB6cCuOX66SiJal) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W) | [Ohrwurm](https://open.spotify.com/album/7e6YnkuG9g1hJg8sOOroUI) | 3:18 | 2023-04-06 | 2023-07-07 |
 | [Okay](https://open.spotify.com/track/15aRDEzbB28Sn1Dp2gBG9x) | [Ansu](https://open.spotify.com/artist/62TYO8MQIPGNVne59x3AqS) | [Okay](https://open.spotify.com/album/4N1IM89g7pW1RuI6rJRe6N) | 3:04 | 2021-12-16 | 2022-04-08 |
@@ -158,7 +161,7 @@
 | [Rimini](https://open.spotify.com/track/2JNIWfyUG8AXC2staqyay5) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [rimini tape](https://open.spotify.com/album/364XipkMF0Rp55oBjaHFtU) | 2:54 | 2023-04-13 |  |
 | [Run](https://open.spotify.com/track/3BZrNbP0EHxvdrB0MOM4Qi) | [2LADE](https://open.spotify.com/artist/2N5EUidcVv9pnicQFDeK5W) | [Run](https://open.spotify.com/album/1YhYELd70GE5d42z8mTz5U) | 2:25 | 2021-12-16 | 2022-03-25 |
 | [Running Round](https://open.spotify.com/track/2pzRkBRoIc2GBgZNQ8wYxY) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [Running Round](https://open.spotify.com/album/4RyaEcWmkekK6VnfCAb1ez) | 3:31 | 2023-02-16 | 2023-04-15 |
-| [Running Round](https://open.spotify.com/track/4dLYd0hKIAcs3C7hQpPCVD) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [2CRY4 \- a selection of sincere electronic ballads](https://open.spotify.com/album/4RvzwMe5M2CUenh2xw5T6K) | 3:31 | 2023-04-13 |  |
+| [Running Round](https://open.spotify.com/track/4dLYd0hKIAcs3C7hQpPCVD) | [Novaa](https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm) | [2CRY4 \- a selection of sincere electronic ballads](https://open.spotify.com/album/4RvzwMe5M2CUenh2xw5T6K) | 3:31 | 2023-04-13 | 2023-07-21 |
 | [Schnelle Brille](https://open.spotify.com/track/5Ig9ZFTfH6PIjjZxtY3iUw) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [Schnelle Brille](https://open.spotify.com/album/28ObxChs89xBac4j15Dt0e) | 2:16 | 2022-03-10 | 2022-11-20 |
 | [Schnelle Brille](https://open.spotify.com/track/03oGcuku4n7Lq4NTCixgYn) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC) | [Altbau](https://open.spotify.com/album/2auKjXyzl5jD6heDu160dA) | 2:18 | 2022-11-17 | 2022-11-25 |
 | [Schnelle Brille](https://open.spotify.com/track/0WujdAWFACZ7AKmxnFg52I) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC) | [Altbau](https://open.spotify.com/album/2qwFhDKCrCy5sYU6lqGC77) | 2:18 | 2022-11-17 | 2023-03-25 |

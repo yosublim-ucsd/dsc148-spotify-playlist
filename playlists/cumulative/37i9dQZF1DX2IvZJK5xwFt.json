@@ -501,6 +501,24 @@
     },
     {
       "album": {
+        "name": "The Ballad of Darren",
+        "url": "https://open.spotify.com/album/3DQnGjOrmXmGeShaBGz7SF"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248774,
+      "name": "Barbaric",
+      "url": "https://open.spotify.com/track/1vDnhuoFPLK3Vgf64yO8fG"
+    },
+    {
+      "album": {
         "name": "Beds are Burning (feat. Tim McIlrath of Rise Against)",
         "url": "https://open.spotify.com/album/1xrX7Y8XQzeZvBvC8V6INj"
       },
@@ -592,6 +610,24 @@
       "duration_ms": 258462,
       "name": "Bii Biyelgee",
       "url": "https://open.spotify.com/track/2m30WlnHkXQgUlQNyFizTL"
+    },
+    {
+      "album": {
+        "name": "Black Cat",
+        "url": "https://open.spotify.com/album/0oFgbSo34AeJFzuJt4TPeT"
+      },
+      "artists": [
+        {
+          "name": "Crobot",
+          "url": "https://open.spotify.com/artist/4ygqEKxbe61knnDaodGFmi"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233834,
+      "name": "Black Cat",
+      "url": "https://open.spotify.com/track/6CBgIMsaK45k4cK7y3VZEj"
     },
     {
       "album": {
@@ -790,7 +826,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 203560,
       "name": "Bum-Rush",
       "url": "https://open.spotify.com/track/6rzS2COWC6jbBY8ZrAYAo8"
@@ -834,6 +870,24 @@
       "duration_ms": 239872,
       "name": "Bygones (feat. Rob Halford)",
       "url": "https://open.spotify.com/track/7GJLTr8zeooanCE8RmZsie"
+    },
+    {
+      "album": {
+        "name": "Caffeine",
+        "url": "https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO"
+      },
+      "artists": [
+        {
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Caffeine",
+      "url": "https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx"
     },
     {
       "album": {
@@ -924,7 +978,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 229747,
       "name": "Champ (feat. Edgar Winter)",
       "url": "https://open.spotify.com/track/3OHYElP3QCFKfnReFTZ2nw"
@@ -1364,7 +1418,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 267800,
       "name": "Death Of An Executioner",
       "url": "https://open.spotify.com/track/3x8NQJlgdzI5aWMVkB3BIp"
@@ -2838,7 +2892,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 215601,
       "name": "Hold Me Like a Grudge",
       "url": "https://open.spotify.com/track/7u2nN6yhi4SfFyMHLE032Q"
@@ -3266,7 +3320,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 196000,
       "name": "If I Can Dream (From The Original Motion Picture Soundtrack ELVIS)",
       "url": "https://open.spotify.com/track/4yibMEwSzelLmFtyXwWwZs"
@@ -3992,6 +4046,24 @@
       "duration_ms": 122570,
       "name": "make up sex (feat. blackbear)",
       "url": "https://open.spotify.com/track/50eJOxJiGmJ7PBZaTKpje1"
+    },
+    {
+      "album": {
+        "name": "Origin",
+        "url": "https://open.spotify.com/album/31DAwVZhu0FRPdIpdicbMo"
+      },
+      "artists": [
+        {
+          "name": "510",
+          "url": "https://open.spotify.com/artist/298CtZa1wRSxNc38FmWbiX"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242474,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/4kiiNIJ6ADoqrTyHkWLuJa"
     },
     {
       "album": {
@@ -5042,7 +5114,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 443386,
       "name": "Phantom Of The Opera",
       "url": "https://open.spotify.com/track/4KNuTxGlUSb9hFm8asqWuZ"
@@ -5655,6 +5727,24 @@
     },
     {
       "album": {
+        "name": "MID AIR",
+        "url": "https://open.spotify.com/album/1ohUa4biJdcAhjnEbOOXYy"
+      },
+      "artists": [
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157501,
+      "name": "Sean-Jared",
+      "url": "https://open.spotify.com/track/0cqYejXSn0M37GXx4JB8RB"
+    },
+    {
+      "album": {
         "name": "Seasick",
         "url": "https://open.spotify.com/album/5WdjEWFKc0aznBIb01FHo7"
       },
@@ -6137,6 +6227,24 @@
     },
     {
       "album": {
+        "name": "Still There",
+        "url": "https://open.spotify.com/album/6hfCNvEvJYM2ZVsLp0KTfq"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189579,
+      "name": "Still There",
+      "url": "https://open.spotify.com/track/7uUCmwEwG2OAo1Q9rXis7E"
+    },
+    {
+      "album": {
         "name": "Story Of My Life (feat. Trippie Redd)",
         "url": "https://open.spotify.com/album/6C4DfusL8qEXmt6MFhAMU6"
       },
@@ -6549,6 +6657,24 @@
     },
     {
       "album": {
+        "name": "Starcatcher",
+        "url": "https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244216,
+      "name": "The Indigo Streak",
+      "url": "https://open.spotify.com/track/57bBIId9EiuZEMzNA54bKk"
+    },
+    {
+      "album": {
         "name": "the INVISIBLE",
         "url": "https://open.spotify.com/album/4XY59TAY7Oac5lCgmMQknq"
       },
@@ -6845,6 +6971,28 @@
     },
     {
       "album": {
+        "name": "Three Minutes More",
+        "url": "https://open.spotify.com/album/4Ht4iaL8A3DwlmiduQLWNX"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        },
+        {
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203536,
+      "name": "Three Minutes More",
+      "url": "https://open.spotify.com/track/08CL08RywVhA1HQteJHuT3"
+    },
+    {
+      "album": {
         "name": "The Gang's All Here",
         "url": "https://open.spotify.com/album/3CNgCf8Xnno0GH9EhXMMQR"
       },
@@ -7090,7 +7238,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 224141,
       "name": "Trouble",
       "url": "https://open.spotify.com/track/2QPW157Ms76KiW8rByD73h"
@@ -7148,7 +7296,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 411653,
       "name": "UNDER GOD'S PLAN",
       "url": "https://open.spotify.com/track/04gCHn28qdAxXudjuvLUMh"
@@ -7384,7 +7532,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 302346,
       "name": "Was It All Worth It - Original Take",
       "url": "https://open.spotify.com/track/0Yjv0kWNGUgfyRTjcmou6w"
@@ -7522,6 +7670,24 @@
       "duration_ms": 290301,
       "name": "What Would You Do? [Feat. Gavin Rossdale]",
       "url": "https://open.spotify.com/track/61bvjHRHHFB0gNab4kKqCK"
+    },
+    {
+      "album": {
+        "name": "White Horse",
+        "url": "https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267893,
+      "name": "White Horse",
+      "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
     },
     {
       "album": {

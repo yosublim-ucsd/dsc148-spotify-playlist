@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-[Spotify](https://open.spotify.com/user/spotify) - 290,614 likes - 200 songs - 15 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 290,845 likes - 200 songs - 15 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 2 | [Mister Magic](https://open.spotify.com/track/2fmXnPfzguSp3zKDibCBgv) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1) | [Mister Magic](https://open.spotify.com/album/3DnS9jBOXBVx6oPAbsQDGZ) | 9:01 |
 | 3 | [Degnan Dreams \(feat\. Keyon Harrold, Justin Tyson & Dominique Sanders\)](https://open.spotify.com/track/2Auq5wDqrTARXnp0a08wkE) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA), [Dominique Sanders](https://open.spotify.com/artist/17CyoltNZz638iotR5AAxt), [Justin Tyson](https://open.spotify.com/artist/1XZooYvCGv4XL9rX1kKDdI) | [Degnan Dreams \(feat\. Keyon Harrold, Justin Tyson & Dominique Sanders\)](https://open.spotify.com/album/6ipIcbUQYfajQa4GWZn5tL) | 3:46 |
 | 4 | [Black Crow](https://open.spotify.com/track/51zuwsjfn77J6NBQodv0WW) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [SuperBlue](https://open.spotify.com/artist/7AftUz1fechTzmkw8x7qYe) | [Black Crow](https://open.spotify.com/album/08GqtDhcOftdywr5cL1Buv) | 3:34 |
-| 5 | [Hizuru \- Jazztronik Remix](https://open.spotify.com/track/12ycPl7hDIiidFQYvDJHpU) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM), [Excursions](https://open.spotify.com/artist/7FODCxRhZUJPC12vufZjPB) | [Hizuru \(Jazztronik Remix\)](https://open.spotify.com/album/4VEyGOgf7K0eNBnASVugmd) | 4:01 |
+| 5 | [Hizuru \- Jazztronik Remix](https://open.spotify.com/track/12ycPl7hDIiidFQYvDJHpU) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM), [Excursions](https://open.spotify.com/artist/4RlSrid1rrUpTjjAByI99o) | [Hizuru \(Jazztronik Remix\)](https://open.spotify.com/album/4VEyGOgf7K0eNBnASVugmd) | 4:01 |
 | 6 | [I Got It Bad \(And That Ain't Good\)](https://open.spotify.com/track/3926LUvvXeRq024iTeNAnP) | [Reginald Chapman](https://open.spotify.com/artist/2LLzWNFHZJaRDqYLB6ExPB), [Kenneka Cook](https://open.spotify.com/artist/1SdMrNeKvyntOu9edUG4Zo), [DJ Harrison](https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK), [Tennishu](https://open.spotify.com/artist/4SNZv6dF06QGC335mAsXeg), [R4nd4zzo](https://open.spotify.com/artist/4TaM7yPjrpK39ZozZDP7tA), [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP) | [I Got It Bad \(And That Ain't Good\)](https://open.spotify.com/album/59I04ZfQXvABeo3Q99ZjP0) | 4:13 |
 | 7 | [Serpentine](https://open.spotify.com/track/3exot3dINaZOhGhw9kL9vX) | [Apollo Suns](https://open.spotify.com/artist/2QkgSnhat4djSXQA6EvQJW) | [Serpentine](https://open.spotify.com/album/3HDZIVNyEpxMEVYg2LGjgQ) | 3:48 |
 | 8 | [Iskhathi](https://open.spotify.com/track/6cK0RRZ0HA18cB7VxeMoTS) | [Nongoma](https://open.spotify.com/artist/3O7kSCL3mt0T0lBnvNyWwj), [Okvsho](https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9) | [Iskhathi](https://open.spotify.com/album/0atF8hOC4T98gG6BPRSk4y) | 5:46 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 199 | [Capture This](https://open.spotify.com/track/6qGx9ikckPPtDbD9L3gdmq) | [Gianni Brezzo](https://open.spotify.com/artist/3JJR0ExBP5G8uyhcViM14W) | [Tutto Passa](https://open.spotify.com/album/1OGUuP0QHICwXrX8GtNp4y) | 3:45 |
 | 200 | [Green Chimneys \- Juffie \- Instrumental](https://open.spotify.com/track/08eE1HMgTQ5Dsih5xAI43H) | [Sven Hammond](https://open.spotify.com/artist/3zSA1rBeAHp5NFDR4Q9lyn), [Akwasi](https://open.spotify.com/artist/31REX4WGmuDvtihynSCvly) | [Green Chimneys – Juffie](https://open.spotify.com/album/0U4Q2KC5lZA6woOZtzHM6T) | 3:31 |
 
-Snapshot ID: `MCwxZWZhMDUwMDFlYjhkYzhkNGM1NWE2NzIyNmRjYjdiMGI2OWU2MTJj`
+Snapshot ID: `MCwwMzk4ZTBkZjUxYTFlZDM4ODg0YjNkOWQxNjg4YzRkZGExNDVkMjFj`

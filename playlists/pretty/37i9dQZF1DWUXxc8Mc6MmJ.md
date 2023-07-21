@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 
 > Relive your favourite K\-Drama moments with these classic soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 662,547 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 663,053 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUXxc8Mc6MmJ.md) - [plain]
 | 49 | [All of My Days](https://open.spotify.com/track/2RBuzNyLuV1jXU8qi84Hiy) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 8](https://open.spotify.com/album/18CHwtIEjpfLZjWImSrjhu) | 3:58 |
 | 50 | [If](https://open.spotify.com/track/76do9IBWqoiwV3EyoP25Le) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Hong Gil Dong OST](https://open.spotify.com/album/5Efud8Wmo7vBQjSJI1WcJ7) | 4:25 |
 
-Snapshot ID: `MCw3MWQ1OTA1NGIxYzZiMTk2ZjdiMDBmZmQyNjA5MjM0NWI4NjJiZjE4`
+Snapshot ID: `MCxmZDY2ZDI2ZDMwNGM5MTg3YTg4ZTRlOGI2NTEzYWIwNjYxYTIzYzhl`

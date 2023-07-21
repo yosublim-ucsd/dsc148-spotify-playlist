@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5zUwdn6lPb.md) - [plain]
 
 > Enhance your focus with classical music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,942 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,004 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5zUwdn6lPb.md) - [plain]
 | 99 | [Lute Suite in E Minor, BWV 996: III\. Courante \- Arr\. for Harp](https://open.spotify.com/track/0DqjFJY7PF2f7lwO4n5pE3) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Isabelle Perrin](https://open.spotify.com/artist/6I57k3VAHWPm8e7TD7Nxp3) | [Bach: Isabelle Perrin & Shigenori Kudo](https://open.spotify.com/album/0uXYCRIhNHLApjONURxZC9) | 2:27 |
 | 100 | [Wachet auf, ruft uns die Stimme, BWV 645](https://open.spotify.com/track/5IWMAfQolGDofjvKTHpBsv) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [João Carlos Victor](https://open.spotify.com/artist/3jYxGu7wJYguUYCfK2sMWb) | [Wachet auf, ruft uns die Stimme, BWV 645](https://open.spotify.com/album/3z1uXzSAmlVJPlExDMYkV4) | 5:54 |
 
-Snapshot ID: `MCw5MDFiNTQyYjI0ZjJiODExZTEwMmUxZjk0MzNmYzRkZmZiNjA0ZDRh`
+Snapshot ID: `MCw2MjJmMzQ3ZjQyZDkxMmQ4YzY5M2ZiNTA4Yjg5N2ZkODdiZDljNDBj`

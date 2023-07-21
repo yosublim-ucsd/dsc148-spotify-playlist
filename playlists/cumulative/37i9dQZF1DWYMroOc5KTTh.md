@@ -4,7 +4,7 @@
 
 > 100% good vibes.
 
-447 songs - 1 day 6 hr 30 min
+448 songs - 1 day 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Alfa \- Original Mix](https://open.spotify.com/track/1UabDxiLk78adOCYuQzhpu) | [Crackazat](https://open.spotify.com/artist/2PagBkTVHoKFjuxtCJp3As) | [Alfa EP](https://open.spotify.com/album/6nHbGBXnZxCP0PAq2Wt4rd) | 4:45 | 2022-04-15 | 2022-04-18 |
 | [All I Need \(DJ\-Kicks\) \- Edit](https://open.spotify.com/track/52t3lx38kiruAIGY2gISfc) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [All I Need \(DJ\-Kicks\)](https://open.spotify.com/album/538fzgi7SpX9LWVFwR0bIw) | 3:39 | 2021-12-03 | 2022-07-27 |
 | [All Love](https://open.spotify.com/track/5CYtyWsyAEmPfn6OcbG921) | [2fox](https://open.spotify.com/artist/4E9diB5Z272adMK6Hnn5c0), [Nandi](https://open.spotify.com/artist/2gGDpCPFlzPUCUyrF8jXMH) | [All Love](https://open.spotify.com/album/01BTDb8xUH6RDHrVpfVANB) | 5:30 | 2022-04-06 | 2022-04-14 |
-| [All Night](https://open.spotify.com/track/7hpP2b7QO5eh0YjaJFmSvO) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [All Night](https://open.spotify.com/album/4f0YqTq3Akrmy36UjM88ry) | 3:34 | 2023-05-22 |  |
+| [All Night](https://open.spotify.com/track/5v44vaBk8hzii64jBFsmUJ) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI \(Mixtape\)](https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE) | 3:34 | 2023-05-22 |  |
+| [All Night](https://open.spotify.com/track/7hpP2b7QO5eh0YjaJFmSvO) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [All Night](https://open.spotify.com/album/4f0YqTq3Akrmy36UjM88ry) | 3:34 | 2023-05-22 | 2023-07-21 |
 | [All Night](https://open.spotify.com/track/04jqhpf3oV06HtlmthfcZZ) | [Romare](https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo) | [Love Songs: Part Two](https://open.spotify.com/album/324LXtvXAeKBeDIN1NkGuG) | 4:54 | 2022-04-06 | 2022-04-08 |
 | [All the Way Round \- Mr Beatnick Remix](https://open.spotify.com/track/09C0LTpn3BN542xdXSGTRg) | [Kelpe](https://open.spotify.com/artist/6D5qrT7NQXcdvFTtCJNszl), [Mr Beatnick](https://open.spotify.com/artist/3znZaFxK0ZZXSSrmBqmMIV) | [All the Way Round \(Mr Beatnick Remix\)](https://open.spotify.com/album/61tQwxFOCIndSvCeGvgVbF) | 3:57 | 2022-04-06 | 2022-04-12 |
 | [Angels \- Jacana People Remix](https://open.spotify.com/track/2m6OAkCtiL1axO79siLxNo) | [Paris Green](https://open.spotify.com/artist/5ECHe2MSGF8z12B7wv08x5), [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Angels \(Jacana People Remix\)](https://open.spotify.com/album/0hPU9q7zQCVKlD9LfRGlIl) | 3:59 | 2022-01-14 | 2022-07-13 |

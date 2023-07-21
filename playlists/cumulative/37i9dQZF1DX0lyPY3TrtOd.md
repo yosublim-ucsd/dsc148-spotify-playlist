@@ -4,7 +4,7 @@
 
 > FEEL GOOD ALERT 🌼🌻 Beetje indie, beetje alternative en alles wat nog meer goed voelt.
 
-125 songs - 7 hr 7 min
+127 songs - 7 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Dauw](https://open.spotify.com/track/1OkEUObkgoryzHRR29Zq2t) | [Jacht](https://open.spotify.com/artist/6idnmcf67erjR8vE9qLIoO) | [Dauw](https://open.spotify.com/album/3XWGHJ9EcBq1MliY4ZBPZO) | 3:30 | 2023-04-27 |  |
 | [Day By Day](https://open.spotify.com/track/79oft65PDY4LL7MoLQ6Nxp) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Trail Mix Tape](https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6) | 3:07 | 2023-02-23 | 2023-06-02 |
 | [Deadline](https://open.spotify.com/track/76pUPMbmu0ENmuAiaTPvIq) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [This Is This](https://open.spotify.com/album/4VhsCxjH2URMz5tmiFB4oz) | 3:38 | 2023-02-23 | 2023-03-03 |
-| [Disco](https://open.spotify.com/track/0bkcypOnee3Qfd7KR9rweZ) | [TESSEL](https://open.spotify.com/artist/4Q4DrlJOGIGwIq0OvPd69A) | [Together](https://open.spotify.com/album/3c9hv0xdD4uJRWvZsCRRZk) | 3:38 | 2023-02-23 |  |
+| [Disco](https://open.spotify.com/track/0bkcypOnee3Qfd7KR9rweZ) | [TESSEL](https://open.spotify.com/artist/4Q4DrlJOGIGwIq0OvPd69A) | [Together](https://open.spotify.com/album/3c9hv0xdD4uJRWvZsCRRZk) | 3:38 | 2023-02-23 | 2023-07-21 |
 | [Do What I Want](https://open.spotify.com/track/5qBanJS9VIUPY6Dj3WvvoM) | [The Chats](https://open.spotify.com/artist/1aQ7P3HtKOQFW16ebjiks1) | [High Risk Behaviour](https://open.spotify.com/album/0MHGKVzf6jX0hJ1gfgDwF7) | 2:50 | 2023-04-04 |  |
 | [Dog](https://open.spotify.com/track/7kHblZFLC4LZOF1lzMrR9I) | [Beachdog](https://open.spotify.com/artist/56or3ZOs3i4huOd0VwGEas) | [Dog](https://open.spotify.com/album/6Q4uKmTGuooDlVw6UZUG15) | 3:03 | 2023-04-04 | 2023-04-28 |
 | [Down](https://open.spotify.com/track/2O0SzeXQTcXFlGuFsY5JNH) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Down](https://open.spotify.com/album/2Ra7ZC8kZB8dWKveQYkaCt) | 3:52 | 2023-02-23 | 2023-04-21 |
@@ -80,6 +80,7 @@
 | [Live It Up](https://open.spotify.com/track/3EuQ0cCmo81wMxM2wTn5Yh) | [APRE](https://open.spotify.com/artist/16oEz0ihXl8elwxOS0YMNF) | [Always In My Head](https://open.spotify.com/album/5yNSrDrLVydHp5WjKAkKju) | 3:18 | 2023-02-23 | 2023-04-05 |
 | [Living In A Haze](https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze](https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ) | 2:53 | 2023-06-09 |  |
 | [Lots of Nothing \(feat\. BENEE\)](https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lots of Nothing \(feat\. BENEE\)](https://open.spotify.com/album/5mndQjQK3k72Mtx9XlDfdI) | 3:13 | 2023-04-13 |  |
+| [Love & Light](https://open.spotify.com/track/2tCW51NHWQmOCW2Yto4Web) | [Indian Askin](https://open.spotify.com/artist/0LMHkT69H40YY2x8GHJiD6) | [Love & Light](https://open.spotify.com/album/3ISa02QVkjbi6ybVOxTudV) | 3:06 | 2023-07-20 |  |
 | [Love, Surround Me In Everything I Do](https://open.spotify.com/track/7ishyqC45Wi3Fe3fXoAYeE) | [Girlhood](https://open.spotify.com/artist/1zmozsuAfLwrawutG7x9VA) | [Love, Surround Me In Everything I Do](https://open.spotify.com/album/6REkZRczH1l0zCrE7GmUte) | 4:00 | 2023-03-09 | 2023-07-01 |
 | [Lucky](https://open.spotify.com/track/1xbC6A2a6ecO9wcAkB1sc3) | [Mood Bored](https://open.spotify.com/artist/3MrcMcqcIqymHOmn3hhpIu) | [Lucky](https://open.spotify.com/album/3ha1LSA4HRtpmA6bLhM6tJ) | 3:15 | 2023-02-23 |  |
 | [Manifest](https://open.spotify.com/track/4PNvV0RKHaKgkVgqZCHkiE) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Manifest](https://open.spotify.com/album/3pmmi3IjlwZfKBoR3bMPbb) | 2:26 | 2023-06-30 |  |
@@ -110,7 +111,7 @@
 | [saudade \- Edit](https://open.spotify.com/track/3ecmX9cdy5NKeoE4GwLoV3) | [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [saudade \- Edit](https://open.spotify.com/album/71QyRx58NvssqPyzBQq9B3) | 4:32 | 2023-02-23 |  |
 | [SEROTONIN](https://open.spotify.com/track/77qco7OEBQKvM6uQvCcTlZ) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [SEROTONIN](https://open.spotify.com/album/6leBN3kkqUoHi9dgMOfMwo) | 1:35 | 2023-02-23 |  |
 | [She is Out](https://open.spotify.com/track/4BaquSwI7RbLtPhIU5fi9N) | [MICH](https://open.spotify.com/artist/4HDfVcO8QmARunFcBJofWQ) | [Nuts](https://open.spotify.com/album/7e1AWSMpCR9n2R8pC1gQ1i) | 2:06 | 2023-02-23 |  |
-| [Shut Up and Show Me](https://open.spotify.com/track/6XkhuBBmnX7bKcW3ErAy0g) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Shut Up and Show Me](https://open.spotify.com/album/2GHDnkClYnHnVlYr5b8EUL) | 3:30 | 2023-03-02 |  |
+| [Shut Up and Show Me](https://open.spotify.com/track/6XkhuBBmnX7bKcW3ErAy0g) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Shut Up and Show Me](https://open.spotify.com/album/2GHDnkClYnHnVlYr5b8EUL) | 3:30 | 2023-03-02 | 2023-07-21 |
 | [Six Hills](https://open.spotify.com/track/0DS6SAfdJWRmbAb1Ltl1Px) | [Lewsberg](https://open.spotify.com/artist/49q3PS0SzgbyvWDwZj7qg5) | [Six Hills](https://open.spotify.com/album/5e6m3OIy6GxGTJBqag8Nki) | 5:45 | 2023-02-23 | 2023-04-28 |
 | [Snap Out Of It](https://open.spotify.com/track/0NdTUS4UiNYCNn5FgVqKQY) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 3:13 | 2023-04-04 |  |
 | [So Cool](https://open.spotify.com/track/3GcueREEDYp44IT4JoTnY6) | [Great Gable](https://open.spotify.com/artist/1jZfA0AdL9iA5PPLwoVvy1) | [So Cool](https://open.spotify.com/album/5iUyvTHiC3DsrP7s1INsyY) | 3:05 | 2023-06-01 |  |
@@ -119,6 +120,7 @@
 | [Stubborn](https://open.spotify.com/track/4Iq71aDAJ4Uiqa3J0uXfoW) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Stubborn](https://open.spotify.com/album/61qaZAT9e9rhKLZ7r54AK2) | 3:08 | 2023-02-23 | 2023-04-05 |
 | [Stuck On You](https://open.spotify.com/track/1U675HGzKcVxVjdz522XYI) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [When We Were Younger](https://open.spotify.com/album/2G2NSV9SHG1WlgL4u5qZ9w) | 2:39 | 2023-06-01 |  |
 | [Sunshine](https://open.spotify.com/track/4ZRr2gW76pb3huK79JFts6) | [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4) | [Sunshine](https://open.spotify.com/album/4tAYC8O702Uag2ILdlPkqj) | 2:47 | 2023-07-13 |  |
+| [Sweet Tooth](https://open.spotify.com/track/4AV9YngrMvCchNw5d4lGzw) | [Surfer Girl](https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS) | [Sweet Tooth](https://open.spotify.com/album/27SFSbCBAE0bbvJEO7vQvL) | 2:04 | 2023-07-20 |  |
 | [Taking Over The Sun](https://open.spotify.com/track/0Ac5WPWNBr4p3xcllMMIbN) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Taking Over The Sun](https://open.spotify.com/album/73WU3UtIqgnGKhTR8Cj90l) | 3:49 | 2023-02-23 | 2023-05-13 |
 | [The Adults Are Talking](https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 5:09 | 2023-04-04 |  |
 | [The Hardest Cut](https://open.spotify.com/track/5QUhSXDrrX7euR87oeQevM) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [The Hardest Cut](https://open.spotify.com/album/4unaBMlRBFuOgX4OSXhkG6) | 3:13 | 2023-02-23 | 2023-04-28 |

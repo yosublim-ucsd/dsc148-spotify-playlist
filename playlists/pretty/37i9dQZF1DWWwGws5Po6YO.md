@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 
 > The women at the forefront of ambient and experimental music\. Cover: Whatever The Weather
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,833 likes - 100 songs - 10 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,850 likes - 100 songs - 10 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwGws5Po6YO.md) - [plain]
 | 99 | [Sleep Cycle](https://open.spotify.com/track/3jqcYNQZCNuPL7AHl5TbRQ) | [Leila Bordreuil](https://open.spotify.com/artist/6WEdmq6hhfnYZ21aJOaY35) | [Headflush](https://open.spotify.com/album/6OsI5ZkpP1IVCe1qUhAbQj) | 9:17 |
 | 100 | [Pipe Inversions](https://open.spotify.com/track/3v5j1m3shyqXPYNNxzmfUU) | [Kali Malone](https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9) | [The Harmonic Series Volume 2](https://open.spotify.com/album/6mgiYqLg5G1ByURg6yDpP2) | 14:28 |
 
-Snapshot ID: `MCxhNDk4NzQxM2MwOWE3YTgzYTQ4NzJlMzU1ZGJhNDI4M2NmOTNlNzRm`
+Snapshot ID: `MCxiMTIxODNkZmMwZmI3OWEwYjYwYmJmNmY4ZDQ3YmQwNmQzYzc4ZTU2`

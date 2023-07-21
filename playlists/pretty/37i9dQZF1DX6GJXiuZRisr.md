@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GJXiuZRisr.md) - [plain]
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,503,737 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,504,098 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6GJXiuZRisr.md) - [plain]
 | 99 | [My Stripes](https://open.spotify.com/track/0gT8d4DW5wDlJahSlLiuda) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [My Stripes](https://open.spotify.com/album/261Kgweh2NYQcLq6DHkUhp) | 4:27 |
 | 100 | [Annihilation](https://open.spotify.com/track/3vLhUrc9h8fFIH7Lq9QDM5) | [i\_o](https://open.spotify.com/artist/0y42IQBDFigO5mmEd1bGQG), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Annihilation](https://open.spotify.com/album/0Ft2j2EP2dEYwxQgDQUleW) | 4:07 |
 
-Snapshot ID: `MCwwNmM0NDEzYjE5NDcxMjg2ZDg1YWQ2NjY2MjdjYTI4MjA0M2NlN2E1`
+Snapshot ID: `MCw5MjI4MDE2Y2Y2MGQ3MDQxNmJjYTE5NWQ3N2JkYmYwZWE5YTdhYTUy`

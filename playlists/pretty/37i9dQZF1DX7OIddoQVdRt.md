@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 
 > Experience the powerful messages and sounds of the current hits and classic Gospel songs\.  Cover: The hosts of this year's <a href="https://www.thestellarawards.com/index.html">Stellar Awards</a> , <a href="https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx?si=ee37f97c830a42e7">Tasha Cobbs Leonard</a>  and <a href="https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9?si=719b1ebceaa64e4a">Jonathan McReynolds</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 624,061 likes - 100 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 624,169 likes - 100 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OIddoQVdRt.md) - [plain]
 | 99 | [Blak Sheep Freestyle](https://open.spotify.com/track/1AzvAbhRMCcebGkq6dkkx6) | [Pastor Mike Jr.](https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS) | [Impossible](https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai) | 3:05 |
 | 100 | [Good & Loved \(feat\. DOE\) \- Stellars 2020](https://open.spotify.com/track/2wxUXlPQSloOq0SGetICXD) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Good & Loved \(feat\. DOE\) \[Stellars 2020\]](https://open.spotify.com/album/7B5wHZpsUCI2Y7uQ3fWQVz) | 3:52 |
 
-Snapshot ID: `MCxjM2JiY2M2YWY0YTgzODMyNTJkNTM5NmEyMDQ0MmYyYjE0ZmUwMGFi`
+Snapshot ID: `MCw4Mjk0YTY0NmY2NGI4OTVlNzc5NmRhYWIwMjU0ZmM1MGI5ZGUzOTMx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 
 > O R&B com tempero e gostinho brasileiro para você ouvir\. Foto: Bela Maria
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,735 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,772 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EQe4DjJNfI.md) - [plain]
 | 74 | [Te Perdi](https://open.spotify.com/track/21oeNPukzLguNiO8UddvFh) | [Coimbra](https://open.spotify.com/artist/5LdNCH2d2i6B3wb7jSPEAy) | [Te Perdi](https://open.spotify.com/album/1v9CFk2cExFkxCL1HFqwUq) | 2:33 |
 | 75 | [Santa Melanina](https://open.spotify.com/track/3ztQ8cprZjCh4UhtAKY5Be) | [Binho Salles](https://open.spotify.com/artist/7gpp9MBWItl6BAF50050iB) | [Santa Melanina](https://open.spotify.com/album/0sqwjwOQEBlX0qs2oQizgT) | 2:21 |
 
-Snapshot ID: `MCw1MmZjYzZjMjMzZjgwMzVlN2ZkZmRiZTZjNzY5ODFiNzZmZDc1NTI0`
+Snapshot ID: `MCxmMmE0N2VkMjVjZGM5MGIzMmY2YjVhNDJhZGY1MDFiNmY1NTUxNjJk`

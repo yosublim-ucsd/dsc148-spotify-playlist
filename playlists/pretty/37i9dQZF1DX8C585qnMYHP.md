@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new Experimental by independent artists and labels, with JJUUJJUU on cover\. Artwork Thami Nabil\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,517 likes - 100 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,557 likes - 100 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 99 | [Eel II \(reduction\)](https://open.spotify.com/track/1nFCWcGCm6vYuOMsjptQgD) | [Hyunhye Seo](https://open.spotify.com/artist/1smQb0kXgM0YKw0cEnTLpO) | [Eel II \(reduction\)](https://open.spotify.com/album/4fl7flDLyBjDpFoBn4DKJ0) | 3:57 |
 | 100 | [Alcyone](https://open.spotify.com/track/4krxkDBSFWRhvogjeVgN6Q) | [AINO](https://open.spotify.com/artist/7vU8gqDFkKNP0hYtLERGiu) | [Pleiades](https://open.spotify.com/album/3020KpkLo9yLDjngEMEMIi) | 8:28 |
 
-Snapshot ID: `MCw5NzQxYzg3OTA1ZmRhMTcxMWRjOGE0ZWE3NjU4ZjAwMDBiMmNiMjQy`
+Snapshot ID: `MCw5MzFkZTIyMGUxM2Q4OGJkYWU1YmEwZGM4ZjM0MmZlMzFjOGI2ZGUz`

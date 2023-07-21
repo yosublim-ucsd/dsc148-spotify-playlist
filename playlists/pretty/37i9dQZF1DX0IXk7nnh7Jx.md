@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI?si=f757c25bb9da48e0">Madison Ryann Ward</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,279 likes - 150 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,358 likes - 150 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0IXk7nnh7Jx.md) - [plain]
 | 149 | [Loyal](https://open.spotify.com/track/5O6tu6yZQ60YdNggb5zh3j) | [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h), [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi) | [Loyal](https://open.spotify.com/album/00tW2c9qs1LwGuGkBKj8f4) | 2:45 |
 | 150 | [My Deliverer](https://open.spotify.com/track/0oTqpffMAdIcVD2QInfrIO) | [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm), [Chichi Onyekanne](https://open.spotify.com/artist/50gFsE5NXUZTs9Ystdog7B) | [My Deliverer](https://open.spotify.com/album/3dBEsJbJjAytRaLnBWWOr9) | 5:24 |
 
-Snapshot ID: `MCwzNTQxNWM0M2Y2Y2MzMmNlMWJhM2U0MGZiZDcyYWE0NjU2MTJjMjFm`
+Snapshot ID: `MCw4NTM4ODM3YzJmN2UxMWMxOTdiNjIxZmY4ZTk2ZTU1MTcyZWUzNTc5`

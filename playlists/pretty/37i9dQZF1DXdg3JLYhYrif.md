@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 
 > Hits brasileiros dos últimos anos para animar sua faxina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,472 likes - 60 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,632 likes - 60 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdg3JLYhYrif.md) - [plain]
 | 59 | [Hold On](https://open.spotify.com/track/6pA2g7vd1G2yWbOJg7SgPh) | [Legard](https://open.spotify.com/artist/1kj0x0ZeBM6Yd5mfVuRCnT) | [Hold On](https://open.spotify.com/album/14Ld5fK0KulZMN0GHnt0eN) | 2:59 |
 | 60 | [Aquele 1% \(feat\. Wesley Safadão\)](https://open.spotify.com/track/3m8Ndnhd8u1VuSlu75hy7D) | [Marcos & Belutti](https://open.spotify.com/artist/0NsJZ5PMjqghGDuMzY7CuT), [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Acústico \- Tão Feliz \(Deluxe\)](https://open.spotify.com/album/5zIF8gOoLkPouCjxiJJS9O) | 2:56 |
 
-Snapshot ID: `MCwxOGM1YWIxNjIxN2ZmOTQ3MGM1MTE2OWM4OTcxZjY0NTc5ZWUyMzAw`
+Snapshot ID: `MCxhMmU2MGQ0NTIzMjliN2VlMGM4ZjEwYWRjN2Q1NWY2ZTc2YmRhOWEy`

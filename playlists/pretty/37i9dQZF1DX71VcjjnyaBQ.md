@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 
 > Jazz for breakfast to start your day right.
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,635 likes - 100 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,695 likes - 100 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71VcjjnyaBQ.md) - [plain]
 | 99 | [June 2nd](https://open.spotify.com/track/6ljElurA01VdrVynPgZn4k) | [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik), [Carl Winther](https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R) | [Emotions](https://open.spotify.com/album/2dKEg2AOgzHVpL3GMbShxb) | 5:01 |
 | 100 | [Expansions](https://open.spotify.com/track/4bBAfTRTE1bkQUSL3gtmjb) | [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [The Shakedown](https://open.spotify.com/album/0nwD7e4CgjZZEQwq7ktI7q) | 6:54 |
 
-Snapshot ID: `MCw4OWIyZjFkZWJkMDgwZjM0YjA3MTAzMzI4ZjEwNDkyODU2NzY0YzUw`
+Snapshot ID: `MCw0YThkOTI1OTRjZmJjODEwYTQyOGFkODI2OWE4ZWZhOTgyMjZjNmQw`

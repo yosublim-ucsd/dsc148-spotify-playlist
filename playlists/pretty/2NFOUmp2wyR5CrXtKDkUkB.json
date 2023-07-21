@@ -1,6 +1,6 @@
 {
   "description": "Those were the days, this was the music...",
-  "num_followers": 17861,
+  "num_followers": 17859,
   "original_name": "1960s Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -947,6 +947,14 @@
         "url": "https://open.spotify.com/album/2tiqjQAPpu7wgGfbskbhaw"
       },
       "artists": [
+        {
+          "name": "Keith Richards",
+          "url": "https://open.spotify.com/artist/08avsqaGIlK2x3i2Cu7rKH"
+        },
+        {
+          "name": "Mick Jagger",
+          "url": "https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO"
+        },
         {
           "name": "The Rolling Stones",
           "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"

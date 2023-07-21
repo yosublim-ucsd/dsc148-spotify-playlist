@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 
 > Somehow heartbreak feels good in a place like this\. Cover: Lauren Spencer Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,552,475 likes - 150 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,553,268 likes - 150 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSqBruwoIXkA.md) - [plain]
 | 149 | [i wish u knew](https://open.spotify.com/track/56OcHDP7SgOY8hf4glCEDH) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [i wish u knew](https://open.spotify.com/album/4REQNLInKvPQtTVec1cLll) | 3:13 |
 | 150 | [Come Home](https://open.spotify.com/track/0le1GJUVrJW9MuWmKIjX68) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Come Home](https://open.spotify.com/album/24sHGSJO8DgLnYE1nxvC9L) | 3:18 |
 
-Snapshot ID: `MCw5NjNjYWVkYzJhNmExMTQ2MTRhNzY5MDIzOGFiODIzMDczYjhmYTNj`
+Snapshot ID: `MCxlOGViMjM2MmRhYjgyMWVhYWY3YmJmZDZjNDQxMDZjZTI4YjljMTQz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FJKV5EZtau.md) - [plain]
 
 > Electronic tunes for your virtual world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,785 likes - 125 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,822 likes - 125 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FJKV5EZtau.md) - [plain]
 | 124 | [Ninja Re Bang Bang \- Steve Aoki Remix](https://open.spotify.com/track/3M23gGWtJEE3CKe8jZWKMe) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Ninja Re Bang Bang \(Steve Aoki Remix\)](https://open.spotify.com/album/1eURWsLjOVmcHhayeMGGAK) | 3:36 |
 | 125 | [Never Be The Same \(feat\. Paige Duché\)](https://open.spotify.com/track/4fqdvb26zCuhu0DxQtpUHY) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC), [Paige Duché](https://open.spotify.com/artist/2tlmeCXC8LbHPgPZYDPgws) | [Never Be The Same \(feat\. Paige Duché\)](https://open.spotify.com/album/4bINJVM0T18YDd60Vl8GWN) | 2:42 |
 
-Snapshot ID: `MCwzZjdlNzMwN2YwZjA2ZDc2OGE2NWZjODQ1ZDFjNGMwMWI3OGU5MTIy`
+Snapshot ID: `MCw4NDk3ODlkYzZlY2QyMmQzODA4NGUzNmFkZmNlMjJjYmFkMjJhZGUy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,612 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,609 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 99 | [Never The Same](https://open.spotify.com/track/52V5wpCwxwzWgNZczk0xRB) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Never The Same](https://open.spotify.com/album/3YFUnFp5vvJDmGuepYiTgj) | 3:32 |
 | 100 | [Bad \(feat\. Aitch\)](https://open.spotify.com/track/4HTKztrMHpvn2sAl4HcK3J) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF) | [Bad \(feat\. Aitch\)](https://open.spotify.com/album/2yOlbpaUHBPXPq7cQJ563V) | 3:26 |
 
-Snapshot ID: `MCw4MWNjMjJjZjY5M2U2ZTZmNWVkMzQyYTY0OWQ5NTYwYWRlNTM0OWJm`
+Snapshot ID: `MCxkOGFhYWNhNWE0ZDc2NDEzNWFkZTZhYjk2YTNkN2Q5NWY3MDIxYjRh`

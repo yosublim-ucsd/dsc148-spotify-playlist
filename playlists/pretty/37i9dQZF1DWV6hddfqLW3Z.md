@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 
 > Pegue seu café, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 767,143 likes - 70 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 767,461 likes - 70 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 69 | [Abrigo](https://open.spotify.com/track/1eVwcm7KXmJ8cAfQ9jz2wm) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Abrigo](https://open.spotify.com/album/5YtOfqMu6MXmHOaSE5lI1E) | 3:43 |
 | 70 | [Janta](https://open.spotify.com/track/4utoXvhzZBIrsDKOEtApSl) | [Marcelo Camelo](https://open.spotify.com/artist/2HubQ6TEbD7HknCNrBsqhR) | [Sou](https://open.spotify.com/album/329FECZuSWB3DSS73KAT3A) | 3:24 |
 
-Snapshot ID: `MCw1NzBlMTE1OWJlMzA1ZDAxZjUxMzE1ZjI0OTAxYWQ0ZTAyZDliMTc3`
+Snapshot ID: `MCw0NzRjOGU4ZTFmODE5NGZhZTJiMmVjMmMzMDU1YTUzNWM4Mzc4YzJm`

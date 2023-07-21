@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 
 > Pass the sticks & press play.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,673,172 likes - 94 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,673,250 likes - 94 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT5MrZnPU1zD.md) - [plain]
 | 93 | [Today](https://open.spotify.com/track/0RsyC7kS5ObbfvX5CacLAr) | [Babyfxce E](https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw) | [Today](https://open.spotify.com/album/5QjfvDWQOTEgOQsblGTlrs) | 1:55 |
 | 94 | [Feelings](https://open.spotify.com/track/7bPY7SRKFhkQwsjfJUyH5m) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [Feelings](https://open.spotify.com/album/454OgvsugH7I6ltxO2jzvZ) | 2:38 |
 
-Snapshot ID: `MCwwZWM5ZTA0MjZiNzYyMzZkY2E0MTU4ODkyOWQ3OTM1ZGJlM2JmZjlh`
+Snapshot ID: `MCw5MzU0ZTE0ZDBlNzU2M2UxOWNiMWU0ODQ2Yjg1ZTEwODk1NTg0MjQ0`

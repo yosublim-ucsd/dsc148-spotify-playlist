@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,657,517 likes - 100 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,657,715 likes - 100 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXLeA8Omikj7.md) - [plain]
 | 99 | [Everything All at Once](https://open.spotify.com/track/2FCu1NM98eXCds1M0ikzWj) | [G Jones](https://open.spotify.com/artist/0gXx2aQ2mfovDfqCw10MQC) | [The Ineffable Truth](https://open.spotify.com/album/4wcUbqKSiZv4kNoJ3KOmrS) | 4:28 |
 | 100 | [Rising Urge \(Lost Tapes\) \- Original](https://open.spotify.com/track/4D2zAaCFuDMlIboD7UH8X5) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Rising Urge \(Lost Tapes\) \[Original\]](https://open.spotify.com/album/2d6veFrbZmMkQucorw6HhG) | 5:06 |
 
-Snapshot ID: `MCw5ZDc5YzVmODE3MGI4MDA2MDIxYjEyOWViNTQ2NjQxMDBhODJhM2Zk`
+Snapshot ID: `MCxlMmJjYWZhZjcyYjUzYjdkYzVkMTM5ODUwZGUxNzA5ZjA1Y2ZhMWRj`

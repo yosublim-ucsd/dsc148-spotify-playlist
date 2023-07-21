@@ -5567,24 +5567,6 @@
     },
     {
       "album": {
-        "name": "Arabian Nightscape",
-        "url": "https://open.spotify.com/album/202wC1NAiuNfz7VALhVoiu"
-      },
-      "artists": [
-        {
-          "name": "Enter Etherial",
-          "url": "https://open.spotify.com/artist/2NkdAoQipIsgUKqe3sLun2"
-        }
-      ],
-      "date_added": "2023-07-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 128371,
-      "name": "Arabian Nighscape",
-      "url": "https://open.spotify.com/track/2A1lmILl7Kr4obNVAkvWgS"
-    },
-    {
-      "album": {
         "name": "Arabian Nights",
         "url": "https://open.spotify.com/album/1kUcEbPsImFojP0O8DuBwN"
       },
@@ -5600,6 +5582,24 @@
       "duration_ms": 87000,
       "name": "Arabian Nights",
       "url": "https://open.spotify.com/track/0INpmrwJrtxvkByMZXvoLl"
+    },
+    {
+      "album": {
+        "name": "Arabian Nightscape",
+        "url": "https://open.spotify.com/album/202wC1NAiuNfz7VALhVoiu"
+      },
+      "artists": [
+        {
+          "name": "Enter Etherial",
+          "url": "https://open.spotify.com/artist/2NkdAoQipIsgUKqe3sLun2"
+        }
+      ],
+      "date_added": "2023-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128371,
+      "name": "Arabian Nightscape",
+      "url": "https://open.spotify.com/track/2A1lmILl7Kr4obNVAkvWgS"
     },
     {
       "album": {

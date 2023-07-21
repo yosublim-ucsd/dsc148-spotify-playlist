@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "Music that's hard to define but easy to love. Cover: Genesis Owusu",
+  "description": "Music that's hard to define but easy to love. Cover: Big Thief",
   "name": "Front Left",
   "tracks": [
     {
@@ -490,6 +490,24 @@
       "duration_ms": 177729,
       "name": "About U",
       "url": "https://open.spotify.com/track/5YbQiHdLvjDYxoycsViPXM"
+    },
+    {
+      "album": {
+        "name": "Adored",
+        "url": "https://open.spotify.com/album/5cKM0SNQAhmV2TFwGMynGW"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160786,
+      "name": "Adored",
+      "url": "https://open.spotify.com/track/4OzcX5qIMJay0GWEP5S6ui"
     },
     {
       "album": {
@@ -4760,7 +4778,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-26",
+      "date_removed": null,
       "duration_ms": 137440,
       "name": "Dumbest Girl Alive",
       "url": "https://open.spotify.com/track/0qMZXgcLfkl5RI3q50KHMH"
@@ -5162,7 +5180,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 216189,
       "name": "Every Day's A Lesson In Humility",
       "url": "https://open.spotify.com/track/0rUHnNylp4QiqLOx3hL2EY"
@@ -5758,7 +5776,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 239910,
       "name": "Flimsier",
       "url": "https://open.spotify.com/track/1tzww8WyoZheUB7wmZpTyW"
@@ -7939,6 +7957,24 @@
     },
     {
       "album": {
+        "name": "Home (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/1sNwCxUQOJNIPiWhXu6YBF"
+      },
+      "artists": [
+        {
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226057,
+      "name": "Home (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/1GPrL6feCYodRiYlZkXs5I"
+    },
+    {
+      "album": {
         "name": "Home By Now",
         "url": "https://open.spotify.com/album/6ua077NQRY18YA0Yhk5rVt"
       },
@@ -8044,7 +8080,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 190000,
       "name": "Hot Sauce",
       "url": "https://open.spotify.com/track/7hyb9nt5CLD1PzTEm8riBo"
@@ -10791,6 +10827,24 @@
     },
     {
       "album": {
+        "name": "Me & Me",
+        "url": "https://open.spotify.com/album/6zmMU4QN9I1a05rqCLuQpi"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147596,
+      "name": "Me & Me",
+      "url": "https://open.spotify.com/track/3VJqv26NK9cCRXsjDKJOGY"
+    },
+    {
+      "album": {
         "name": "Medicine",
         "url": "https://open.spotify.com/album/4PsV0TGDBHtMwcc3rMyYaP"
       },
@@ -10882,7 +10936,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 205870,
       "name": "Messed Up (feat. Kwame)",
       "url": "https://open.spotify.com/track/3nfHCaUgUFZaixJfUYcZVy"
@@ -12228,7 +12282,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 263986,
       "name": "OK",
       "url": "https://open.spotify.com/track/2RSAu3AGDi2sPhYEjSZmzv"
@@ -15222,7 +15276,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 156000,
       "name": "Sossaup",
       "url": "https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX"
@@ -16907,6 +16961,24 @@
     },
     {
       "album": {
+        "name": "the way things go",
+        "url": "https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187800,
+      "name": "the way things go",
+      "url": "https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv"
+    },
+    {
+      "album": {
         "name": "The Worst Person Alive",
         "url": "https://open.spotify.com/album/0gUEqoX8asLVh5Ugvu6Zxz"
       },
@@ -17074,6 +17146,28 @@
       "duration_ms": 222839,
       "name": "Think Fast (feat. Weezer)",
       "url": "https://open.spotify.com/track/4Z59a9hIn8EMsni3OiqGso"
+    },
+    {
+      "album": {
+        "name": "Thinkin Of U",
+        "url": "https://open.spotify.com/album/4rS5b9Btr6I3JPhqVCO7BS"
+      },
+      "artists": [
+        {
+          "name": "Mona Yim",
+          "url": "https://open.spotify.com/artist/48tTb8jCGVZ0XFqwovqFmv"
+        },
+        {
+          "name": "Memphis LK",
+          "url": "https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121682,
+      "name": "Thinkin Of U",
+      "url": "https://open.spotify.com/track/00jNEiTver5Y7bNOasESLa"
     },
     {
       "album": {
@@ -17866,6 +17960,24 @@
       "duration_ms": 154531,
       "name": "Valentina",
       "url": "https://open.spotify.com/track/0s7Z1RtnsmiYOfSIbB3btD"
+    },
+    {
+      "album": {
+        "name": "Vampire Empire",
+        "url": "https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192127,
+      "name": "Vampire Empire",
+      "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
     },
     {
       "album": {
@@ -18924,7 +19036,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 163049,
       "name": "WORTHLESS",
       "url": "https://open.spotify.com/track/26vDr5jgWQoJOTH4Bu3KCQ"

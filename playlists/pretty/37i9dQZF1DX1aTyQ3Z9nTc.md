@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 
 > That bouncy, groovy, dancey sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,670 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,728 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 | 49 | [Breathless \(with Alina Baraz\)](https://open.spotify.com/track/1BaNZOpKVM6OtBuMfpeGYX) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Breathless \(with Alina Baraz\)](https://open.spotify.com/album/2uESefirannUYEJxBVc9rQ) | 2:48 |
 | 50 | [Tighten It Up \- Barney Bones \- DRAMA Edit](https://open.spotify.com/track/5suNUnahl3rSictF1dBPei) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV) | [Tighten It Up \(Barney Bones \- DRAMA Edit\)](https://open.spotify.com/album/5H9wy1T7MHeY3JWnPN8Ply) | 2:52 |
 
-Snapshot ID: `MCxmMzlkMjYyMzJiN2QyMjZiNGQxNGI5NzQ0YzBiYzJmYzhhZTU1Mzky`
+Snapshot ID: `MCw0YmNhNGFjMWFlNDVkNzZhMzcyYjBiZmQwYjU5Zjg5ODVlNTlmMjJh`

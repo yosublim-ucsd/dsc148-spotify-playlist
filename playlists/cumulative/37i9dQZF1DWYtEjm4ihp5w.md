@@ -2,13 +2,14 @@
 
 ### [ABAT∑RA](https://open.spotify.com/playlist/37i9dQZF1DWYtEjm4ihp5w)
 
-> Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: ElGrandeToto
+> Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Draganov
 
-137 songs - 7 hr 13 min
+138 songs - 7 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100](https://open.spotify.com/track/62OHA0jRO6x5JFofdeZ5Tr) | [Rubio](https://open.spotify.com/artist/5LJX3D6BzDJkMGX7hFP1dl), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk), [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [100](https://open.spotify.com/album/6FJG9netL0WN7AtQlvh8z6) | 3:22 | 2022-11-14 | 2023-02-27 |
+| [3DABI](https://open.spotify.com/track/0e6eVGeec6asBnmE4gTYqA) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [3DABI](https://open.spotify.com/album/08ZFlBocogt3UFTyEN7Ob4) | 3:22 | 2023-07-20 |  |
 | [7bss Tmout](https://open.spotify.com/track/2ASaDtD5VRJBspXhAuXrjr) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [7bss Tmout](https://open.spotify.com/album/2QcczpbqmQvZI4lCCNyYv2) | 3:10 | 2023-06-01 |  |
 | [A](https://open.spotify.com/track/3PXHRtEZ3UErU6ByaJhSnd) | [Nessyou](https://open.spotify.com/artist/36K2nrm363VIEONhc2D5Mo) | [ABCÈS](https://open.spotify.com/album/4zvlxTPmMfSguMeIpeyjbj) | 2:42 | 2022-12-24 | 2023-01-01 |
 | [Alatif](https://open.spotify.com/track/5EziL9bwKacAPWAQSkl8Wh) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Alatif](https://open.spotify.com/album/12PmJ95M7wML8ievJRi0zx) | 3:16 | 2023-02-18 | 2023-06-23 |
@@ -43,7 +44,7 @@
 | [Faux Départ](https://open.spotify.com/track/26Skmv785i0ql4T3vJHgLe) | [Figoshin](https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS) | [Faux Départ](https://open.spotify.com/album/6qvNXxEmDlVAcplTG2ybPM) | 2:45 | 2022-11-14 | 2023-06-23 |
 | [Flouka](https://open.spotify.com/track/6er3lHDqA1L9IXtf8Nej9g) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Snor](https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN) | [Flouka](https://open.spotify.com/album/1z7XskxLNTlVN3fHS1HzuA) | 3:28 | 2022-11-14 | 2022-12-25 |
 | [Fly Emirates](https://open.spotify.com/track/3s6Z9HLFA5qrvIgYLEja91) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Fly Emirates](https://open.spotify.com/album/2Iph0X1zEA3L641k2M9ZXM) | 3:08 | 2023-06-13 | 2023-07-12 |
-| [FORSSA](https://open.spotify.com/track/4ERqimtfCADVUI256ishDr) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [FORSSA](https://open.spotify.com/album/3qTos6o4f2HQNRMaGR8a8x) | 3:17 | 2022-11-14 |  |
+| [FORSSA](https://open.spotify.com/track/4ERqimtfCADVUI256ishDr) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [FORSSA](https://open.spotify.com/album/3qTos6o4f2HQNRMaGR8a8x) | 3:17 | 2022-11-14 | 2023-07-21 |
 | [FTA](https://open.spotify.com/track/30zD5oO4RYcytTUZxjOdW3) | [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk), [Mixtape Madness](https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9) | [FTA](https://open.spotify.com/album/1u5Bd87EVRAabhPh4IkhnO) | 3:16 | 2023-05-27 |  |
 | [GEL](https://open.spotify.com/track/58dy49Z54lreezffBIugSd) | [Nessyou](https://open.spotify.com/artist/36K2nrm363VIEONhc2D5Mo) | [GEL](https://open.spotify.com/album/4clLEBezykev9vyaAlqrbB) | 2:51 | 2022-11-15 | 2022-11-24 |
 | [Ghi T9al \(Et2al\)](https://open.spotify.com/track/4MXfLQoPe89uPqVd7NApfn) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [٤in](https://open.spotify.com/album/0JtymU6pdB083UYEXKwOS9) | 3:38 | 2023-01-06 | 2023-02-12 |

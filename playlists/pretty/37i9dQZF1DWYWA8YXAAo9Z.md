@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 
 > Pushing the envelope; musicians at the forefront of modular synthesis.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,810 likes - 75 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,843 likes - 75 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYWA8YXAAo9Z.md) - [plain]
 | 74 | [Particulator](https://open.spotify.com/track/39tJ0zgXAG5PEpXCafPrI1) | [Jstory](https://open.spotify.com/artist/1qiizsxTENxbkqV9QQiPji) | [Good Sound](https://open.spotify.com/album/7gnK0GCEbW06yYVeaoAkOF) | 4:11 |
 | 75 | [Every Night](https://open.spotify.com/track/0uNy3DnZuVajMHDMDcFrIG) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [The Sparrow](https://open.spotify.com/album/2DLMVaEDhrEeAmhV9JCytt) | 5:57 |
 
-Snapshot ID: `MCxmMTgwZDQyZjI2NWMxN2YxOWE2OThkNDc4N2FhMDAzOGFiN2ZlM2Nj`
+Snapshot ID: `MCw2OWNlZjY5MjI4MjljZjlkMGE5ZTNlZTQzYjVhZTVlYjhmNzQ4ZTE4`

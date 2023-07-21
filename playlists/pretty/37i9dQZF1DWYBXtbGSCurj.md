@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: LEALL, Derek, Big Bllakk
 
-[Spotify](https://open.spotify.com/user/spotify) - 369,753 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,918 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 14 | [Mensagem](https://open.spotify.com/track/4wYwvNPxFyvUwItXJBWSek) | [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu), [Ribb](https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE), [TR3VAS](https://open.spotify.com/artist/5lZZfdDqp7XKRaTdZ1KUIO) | [Mensagem](https://open.spotify.com/album/09ddlyWlcrvkBSXTND5CWu) | 2:48 |
 | 15 | [JOGO](https://open.spotify.com/track/55xG3c4ySeDedKFpMnwTSE) | [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01), [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ), [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF) | [JOGO](https://open.spotify.com/album/7CFWYAzzPURDonZUQqZgCl) | 3:18 |
 | 16 | [Close Friends](https://open.spotify.com/track/4v6TGGmgoJC3P2gqToqJLr) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo), [Rocco](https://open.spotify.com/artist/5OvehyyUJ5edWaogL9o4Ka), [Viper](https://open.spotify.com/artist/7lr4WifTmPssQJgBmbjiJq), [A$IX](https://open.spotify.com/artist/2mxXr2xQSfM4JVO4pxhJjP) | [Virus Love](https://open.spotify.com/album/3Q8N5qG3Eq9mcSgAAXgIrn) | 3:52 |
-| 17 | [GIRA](https://open.spotify.com/track/7wavRIUmbOFmrvkNatnR27) | [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt), [Black](https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2) | [GIRA](https://open.spotify.com/album/0TsmytyacVRncISa3OKctK) | 3:11 |
+| 17 | [GIRA](https://open.spotify.com/track/7wavRIUmbOFmrvkNatnR27) | [Tibery](https://open.spotify.com/artist/2ECTJpRqtJ5BbavpnhHT01), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt), [Black](https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [GIRA](https://open.spotify.com/album/0TsmytyacVRncISa3OKctK) | 3:11 |
 | 18 | [Promessas](https://open.spotify.com/track/1LiJfEoNEjBBgvkAtdkzjg) | [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [Stick](https://open.spotify.com/artist/06DkLIR1RQFV7kEom04Frt), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Promessas](https://open.spotify.com/album/5FjKDSWjhBfEd1UgZsgPRp) | 2:17 |
 | 19 | [Manda Áudio](https://open.spotify.com/track/40bBt1gFvO5WF53zsH6S6T) | [Penedo](https://open.spotify.com/artist/0OOJauiKTaXELK8I3tP24T), [Vice\-Versa](https://open.spotify.com/artist/3uFYZKcA0ABjsnxzgEBhKX) | [Manda Áudio](https://open.spotify.com/album/2JdlnM25JoATKsHTckZwDM) | 2:18 |
 | 20 | [ELAS ACHA QUE EU SOU GRINGO](https://open.spotify.com/track/2Xb1ZmF2bsN1llZgdgr4Ag) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [TTF](https://open.spotify.com/artist/71YqA2qY3ZzGdPAEOf4k7A) | [ELAS ACHA QUE EU SOU GRINGO](https://open.spotify.com/album/3iFSc9CmYUUJGvi5Xxfjnp) | 3:35 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 74 | [Coração de Gelo](https://open.spotify.com/track/7nFvKgVumc9FcU97zGjjei) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7) | [Manual de Como Amar Errado](https://open.spotify.com/album/7wUbINCiBbmMPH50g1bg3I) | 2:48 |
 | 75 | [Vida Cara](https://open.spotify.com/track/0XHJ2LfnrETLopLCt6xBY6) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [DomLaike](https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic) | [Vida Cara](https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy) | 5:07 |
 
-Snapshot ID: `MCw1MzdmOGQyN2NhMDU3OWMyNThlZDU2Yjk0YmM4YzliNmE3NzU5MGNm`
+Snapshot ID: `MCxjZTQ5Mzc4ODFhZDIxODU4MmI5N2U0NWM2OWRjNWNiZDAyZDBhNDk3`

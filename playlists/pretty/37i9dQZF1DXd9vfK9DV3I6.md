@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 
 > Electronic music with Mediterranean and Eastern influences.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,203 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,457 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9vfK9DV3I6.md) - [plain]
 | 99 | [Mosaic](https://open.spotify.com/track/2pmAL5D3zml837nGeFOJly) | [Mehdi Yakin](https://open.spotify.com/artist/7fM7sc43IBD02ajJepUag1) | [Mosaic](https://open.spotify.com/album/2LNv8cym3j0pdJ8IqXqPyE) | 3:16 |
 | 100 | [Free](https://open.spotify.com/track/4BrDKhq9FEBPBXL8nPOq4u) | [Hisham Kharma](https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl) | [Free](https://open.spotify.com/album/3BauvnAExZD2jboFnhxsK0) | 3:04 |
 
-Snapshot ID: `MCxmMTI0YzdlMzdhZTZhMmQ5MTQwNWM5Y2NjN2QyMzFhMDRkN2I3NGEw`
+Snapshot ID: `MCw1YmI3NjQ0ZGQ0OTg4M2E1ODFlZWFhNDBkYzdkMGUxMDMzNTlmODFh`

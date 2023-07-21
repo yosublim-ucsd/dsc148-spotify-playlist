@@ -4,7 +4,7 @@
 
 > Wat kan het Nederlands toch mooi zijn\. Cover: Trijntje Oosterhuis
 
-115 songs - 7 hr 16 min
+116 songs - 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Lente '22](https://open.spotify.com/track/2XIp445YfKTy3VuHBpMkaj) | [Spinvis](https://open.spotify.com/artist/1Vxc40v4VtLpSWTF2bn8Y4) | [Lente '22](https://open.spotify.com/album/2wcWvAKYo3psSLnnMy78zi) | 4:35 | 2023-04-06 |  |
 | [Lente Me](https://open.spotify.com/track/1JSrkd77iGJMYwTUBdX5Xs) | [Toon Hermans](https://open.spotify.com/artist/3Uo8Ydn4TQ6Xq3W1oN4z0h) | [One Man Show 1993](https://open.spotify.com/album/0WK6NTWtpvHLBovgYFbdsS) | 4:54 | 2023-02-10 |  |
 | [Lied Van De Zevende Dag](https://open.spotify.com/track/6e50pXxK6eUgcH5wc3Z06W) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb), [Tjeerd Oosterhuis](https://open.spotify.com/artist/4fMW8mQKbMgeSKPmvQKbRi) | [Lied Van De Zevende Dag](https://open.spotify.com/album/0qZ53110VSvZHsHSYtk0vn) | 2:59 | 2023-04-20 |  |
+| [Los](https://open.spotify.com/track/35LMuMdS0uonMULXeGfQcV) | [Meis](https://open.spotify.com/artist/5F2t3lvOUglnG8ZqUUWDKW), [Klangstof](https://open.spotify.com/artist/25lIYhqIj0R1AnnmqsTrtO) | [Los](https://open.spotify.com/album/7tzQmiWfCA5vCFaaYMpBog) | 4:02 | 2023-07-20 |  |
 | [Luie Liefde](https://open.spotify.com/track/4afcjiDL53xe9M7eU4r74E) | [Vreemde Kostgangers](https://open.spotify.com/artist/5uLY3PL1Mrj4kusy2LOXMd) | [Luie Liefde](https://open.spotify.com/album/2zMMiH7rxlW1WbSqT2gsvn) | 3:02 | 2023-02-10 | 2023-04-26 |
 | [Mag ik dan bij jou \- Single Version](https://open.spotify.com/track/6jXoII9HpQpBvs4mxA7EGT) | [Claudia De Breij](https://open.spotify.com/artist/30bxeFCSr3KfbhE4KO5H2o) | [Mag ik dan bij jou](https://open.spotify.com/album/6YdAR6x5rHf846m5ZqZscr) | 3:23 | 2023-02-10 |  |
 | [Merk Je Het Niet](https://open.spotify.com/track/03ESD7EEMVNXLECAKr0wdE) | [De Dijk](https://open.spotify.com/artist/4jFkB3Lzjku9SFKUTP33WV) | [Merk Je Het Niet](https://open.spotify.com/album/5UReFwidgQkuPIsHnHRLh0) | 3:22 | 2023-02-10 | 2023-04-26 |
@@ -115,7 +116,7 @@
 | [Vrouw Van De Dominee \- Live @ Radio Veronica](https://open.spotify.com/track/5Lotjy3vbmJtH0DCIRxSDo) | [Thijs Boontjes](https://open.spotify.com/artist/7Hx2t9BIWDlr3Bpd6eWmei) | [Vrouw van de Dominee \(Live @ Radio Veronica\)](https://open.spotify.com/album/5AC8CHQPpGp4lNjq6NoWZT) | 2:56 | 2023-06-30 |  |
 | [Wat Als Later Nu Is](https://open.spotify.com/track/0jYNaO3cN6Fpkxe9VzYCUK) | [Rob De Nijs](https://open.spotify.com/artist/3u84EkSPrJYO4n5cipED9K) | [‘t Is Mooi Geweest](https://open.spotify.com/album/25TYuXkyQpV3ykpbggkGIj) | 3:38 | 2023-02-10 |  |
 | [Wat Een Dag](https://open.spotify.com/track/1w5D5Ib5VBJu94v6fyzw6w) | [Nol Havens](https://open.spotify.com/artist/7wPy6YZoLBYA5dBDpXEkqG) | [Wat Een Dag](https://open.spotify.com/album/74retVUCzvEwPP20Z2Jhle) | 2:45 | 2023-02-10 | 2023-03-09 |
-| [Wat rest van je tijd](https://open.spotify.com/track/690HQ2MncCTel24PljUIC9) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb), [Hans Vroomans](https://open.spotify.com/artist/2KvJJ4ntMldtYNia7SvlBb) | [De seizoenen van Legrand](https://open.spotify.com/album/3m5MsIbhHgMi5z2sAdxsvW) | 5:52 | 2023-02-10 |  |
+| [Wat rest van je tijd](https://open.spotify.com/track/690HQ2MncCTel24PljUIC9) | [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb), [Hans Vroomans](https://open.spotify.com/artist/2KvJJ4ntMldtYNia7SvlBb) | [De seizoenen van Legrand](https://open.spotify.com/album/3m5MsIbhHgMi5z2sAdxsvW) | 5:52 | 2023-02-10 | 2023-07-21 |
 | [Zeg Maar Niets Meer \- Hazes Is De Basis](https://open.spotify.com/track/4UC728tVjFpohnz0MD1iu9) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Hazes Is De Basis 4](https://open.spotify.com/album/47QWesQSFbgOTZ3ddb9Zjp) | 2:45 | 2023-02-10 |  |
 | [Zeg Met Dat Het Niet Zo Is](https://open.spotify.com/track/5c22NmaEpqXh2PFzCBDGRJ) | [Frank Boeijen Groep](https://open.spotify.com/artist/1HoWbJFK5RdH4OAtpoxbgR) | [Een Zomer Aan Het Eind Van De Twintigste Eeuw](https://open.spotify.com/album/2cExlOtCjJjz8xuuFobK9g) | 2:41 | 2023-02-10 |  |
 | [Zij Maakt Het Verschil](https://open.spotify.com/track/4ptF2Hvq7PdsDKXV0o7x2M) | [De Poema's](https://open.spotify.com/artist/27aNYoqLUzogd4oSliq1Md) | [Best Of De Poema's](https://open.spotify.com/album/7K7UuRdTTDFwLkiNrWN9dg) | 4:40 | 2023-02-10 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Kima",
+  "description": "Les hits dancehall du moment. Photo : Kalash",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -958,6 +958,32 @@
       "duration_ms": 206784,
       "name": "Bubble Up !",
       "url": "https://open.spotify.com/track/46ocF46SQZ1W0Nt3b5qnyc"
+    },
+    {
+      "album": {
+        "name": "BUBBLE WINE",
+        "url": "https://open.spotify.com/album/33uRvxDXykEZmCCuPLNHwK"
+      },
+      "artists": [
+        {
+          "name": "Dj Jackson",
+          "url": "https://open.spotify.com/artist/2GYAHdjq5ecEb71veYasKB"
+        },
+        {
+          "name": "Naamix",
+          "url": "https://open.spotify.com/artist/0mpw52i7RGRiSk9Ubh7oeG"
+        },
+        {
+          "name": "Natoxie",
+          "url": "https://open.spotify.com/artist/1Wqloe5S1i29Ff7YiWg0x5"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133216,
+      "name": "BUBBLE WINE",
+      "url": "https://open.spotify.com/track/0cSyH8ZRbaZFqPQvq1bzQv"
     },
     {
       "album": {
@@ -3364,7 +3390,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 190584,
       "name": "Mine",
       "url": "https://open.spotify.com/track/4cnoSXd1N69dEyf0TVsWyn"
@@ -3910,6 +3936,46 @@
       "duration_ms": 158952,
       "name": "Pa mang\u00e9 bli\u00e9",
       "url": "https://open.spotify.com/track/5qIfWnn2PZ18z3wcDYEXmB"
+    },
+    {
+      "album": {
+        "name": "Papi (Remix)",
+        "url": "https://open.spotify.com/album/70DgQ1a22wpuwmFJxpMijY"
+      },
+      "artists": [
+        {
+          "name": "Jessica Aire",
+          "url": "https://open.spotify.com/artist/1L654Q07t0sqiNCXi9VovM"
+        },
+        {
+          "name": "Fabio DMS",
+          "url": "https://open.spotify.com/artist/61FmbuuNnzSHkU9OapRB4C"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146740,
+      "name": "Papi (Remix)",
+      "url": "https://open.spotify.com/track/4FJjKKF6OyOZdgF4Y1Rczh"
+    },
+    {
+      "album": {
+        "name": "Party Gyal",
+        "url": "https://open.spotify.com/album/1adKXi8RKH3rbn3XKRunyH"
+      },
+      "artists": [
+        {
+          "name": "Bella Alubo",
+          "url": "https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184733,
+      "name": "Party Gyal",
+      "url": "https://open.spotify.com/track/09NJrSagWRwUCuVVRKhuCK"
     },
     {
       "album": {
@@ -4638,7 +4704,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 121488,
       "name": "Shatta Mood",
       "url": "https://open.spotify.com/track/5SJdzs81BfCgAHXmlM4xyg"
@@ -5129,6 +5195,28 @@
     },
     {
       "album": {
+        "name": "Talibans II",
+        "url": "https://open.spotify.com/album/4EouhaKTJkW8xRpLsCz7va"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Byron Messia",
+          "url": "https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176453,
+      "name": "Talibans II",
+      "url": "https://open.spotify.com/track/5zq5fYXIE7X842DD5HBiiB"
+    },
+    {
+      "album": {
         "name": "Talk Truth",
         "url": "https://open.spotify.com/album/1j9rsZkywpPez2M6xjXQCS"
       },
@@ -5308,7 +5396,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 160000,
       "name": "Titi (feat. Meiitod)",
       "url": "https://open.spotify.com/track/64g9eUfFLlqJ1rMVzPjuQI"
@@ -5652,7 +5740,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 160363,
       "name": "Voyage (Awa)",
       "url": "https://open.spotify.com/track/7pwoEsCWELhGg03eWFsfKX"

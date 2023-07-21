@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUqAW0dNPY2J.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUqAW0dNPY2J) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUqAW0dNPY2J)
 
-### [Mixtape: Suki Waterhouse "walking around NYC thinking about love"](https://open.spotify.com/playlist/37i9dQZF1DWUqAW0dNPY2J)
+### [Mixtape \#2 Suki Waterhouse "walking around NYC thinking about love"](https://open.spotify.com/playlist/37i9dQZF1DWUqAW0dNPY2J)
 
 > Songs that grace Suki Waterhouse's headphones whilst strolling NYC thinking about love\. Welcome to mixtape, a curator's playground.
 

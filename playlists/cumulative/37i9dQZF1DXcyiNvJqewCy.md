@@ -4,7 +4,7 @@
 
 > \~ have a lovely time \~
 
-314 songs - 18 hr 24 min
+315 songs - 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [Close To You](https://open.spotify.com/track/4ReJJcpW8HtVnqzhf6DwNV) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Close To You](https://open.spotify.com/album/4sRWmCgVULy1s2pMuw1uGY) | 3:14 | 2022-04-05 | 2022-07-29 |
 | [Close To You](https://open.spotify.com/track/50PyquzZ9BaBwLZZd1AuuV) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0brMHlMYz5t58uT1Q4bkdF) | 3:14 | 2022-09-29 |  |
 | [Clumsy Love](https://open.spotify.com/track/6EOwEp0a537SGJZxVk07Gp) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Better in Blak](https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34) | 3:07 | 2022-04-05 | 2022-07-23 |
-| [Cocopops](https://open.spotify.com/track/0tVvrV3Nzb8gqPT2UrhmCh) | [Ivoris](https://open.spotify.com/artist/7wuKa2bUMTCPspwY00Erji) | [Cocopops](https://open.spotify.com/album/77xbY0sN7ugzybMfQsb21I) | 2:31 | 2023-06-29 |  |
+| [Cocopops](https://open.spotify.com/track/0tVvrV3Nzb8gqPT2UrhmCh) | [Ivoris](https://open.spotify.com/artist/7wuKa2bUMTCPspwY00Erji) | [Cocopops](https://open.spotify.com/album/77xbY0sN7ugzybMfQsb21I) | 2:31 | 2023-06-29 | 2023-07-21 |
 | [Cold](https://open.spotify.com/track/3c7hHVpOsyFYWWwB958J8S) | [Lucy Park](https://open.spotify.com/artist/2ve69eWi8j7eGKEsKz2WLF) | [Cold](https://open.spotify.com/album/3gvgKKPnvzTO8QhhkQSl4o) | 3:49 | 2022-06-24 | 2022-06-30 |
 | [Come On Mess Me Up](https://open.spotify.com/track/35esL6crd33KHmrpVFHFj4) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [This Is Our Vice](https://open.spotify.com/album/1Sx23MziCsG194ibSs4Syb) | 3:23 | 2022-04-05 | 2022-07-29 |
 | [Cool For A Second](https://open.spotify.com/track/2Ll8htBMso0rvzp0bERRQJ) | [Yumi Zouma](https://open.spotify.com/artist/4tPyCwWrsvZ8OKYl7QRavL) | [Cool For A Second](https://open.spotify.com/album/0SwxySf2lXs6jHNO9mEY6o) | 3:09 | 2022-04-05 | 2022-07-29 |
@@ -169,6 +169,7 @@
 | [Last Time](https://open.spotify.com/track/5ctQUn7CnXhw5IN3ipcPUt) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Last Time](https://open.spotify.com/album/3E9bLoDvWxhJiBQ7Y71Asn) | 3:13 | 2022-04-05 | 2022-07-29 |
 | [Lauren](https://open.spotify.com/track/7vptmeNwSEVkcwDdqk7UQO) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Lauren](https://open.spotify.com/album/3rlpbpAzZUayIquPKgqpfX) | 3:38 | 2022-09-29 | 2022-11-13 |
 | [Let's Stay Together](https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0) | 3:19 | 2022-07-29 |  |
+| [Letting Go](https://open.spotify.com/track/2XHznZZIWLkh7xO3WQAjpp) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Letting Go](https://open.spotify.com/album/17bBeC2mAYnF4K9KL5ZvrI) | 3:30 | 2023-07-21 |  |
 | [letting go](https://open.spotify.com/track/5JKt1juGsS1rFnxAVEalys) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [letting go](https://open.spotify.com/album/0Itz1TtlN6ayjXgiwzCpQ6) | 4:28 | 2022-04-05 | 2022-07-29 |
 | [Life Goes On](https://open.spotify.com/track/6XrWIKoIwqomse4ZmBnjQd) | [E^ST](https://open.spotify.com/artist/7ASucWaI33cepJbo74Hlo0) | [Life Goes On](https://open.spotify.com/album/4R9XQ0jz7PgVJ82UtIZFaM) | 3:30 | 2022-06-24 | 2022-07-22 |
 | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC) | 3:08 | 2022-04-05 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Alan Walker
 
-332 songs - 16 hr 45 min
+334 songs - 16 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [The Rave](https://open.spotify.com/track/7cB1JVWbvr1xCuPtKierCZ) | [Toxic Joy](https://open.spotify.com/artist/6MS6Rb2iRyXYFpHyT0B5to) | [The Rave](https://open.spotify.com/album/7ejaovPspMQwffUKEc7zwp) | 2:56 | 2023-05-31 |  |
 | [The Raven](https://open.spotify.com/track/2w2iMR6n4qVqshzSqRvxb8) | [ATSMXN](https://open.spotify.com/artist/0SfWpeYPEYKn732iefQThW), [XTOM](https://open.spotify.com/artist/4zB6ahEJIuTVI5AgzqYrH5) | [The Raven](https://open.spotify.com/album/6RWjPQmoIP50S14aLXBS8E) | 1:55 | 2023-04-14 |  |
 | [The Time](https://open.spotify.com/track/4BBZYc1dqFnjg7Q0FBifkE) | [Tatsunoshin](https://open.spotify.com/artist/6dDL4IB1qW60paulrb2ZvP) | [The Time](https://open.spotify.com/album/5c4WYL7FNA1Q5CtkWURneS) | 3:30 | 2023-06-28 |  |
+| [Think About Me](https://open.spotify.com/track/58D90FJE3U4HMZG8yZT0Ha) | [Yancle](https://open.spotify.com/artist/4O1BpPjKtbmon4QJDaYFGM) | [Think About Me](https://open.spotify.com/album/4Vg4b2iTQKB2uGe5Isi1VI) | 3:07 | 2023-07-19 |  |
 | [To The Top](https://open.spotify.com/track/7jAzWNVwhqJLm7Y13t0mnp) | [Jay Eskar](https://open.spotify.com/artist/3gfKSkWsbRm1Iux4u3KhTh), [Srikar](https://open.spotify.com/artist/5hVmorOQNXeIwZa2MT3Tlv) | [To The Top](https://open.spotify.com/album/4Nrg9Rk5iLeiLnRgNVtkiX) | 2:40 | 2022-04-28 | 2023-04-28 |
 | [To The Top \- JJL Remix](https://open.spotify.com/track/57yxSNXHLMb3gREIFyEDqV) | [Jay Eskar](https://open.spotify.com/artist/3gfKSkWsbRm1Iux4u3KhTh), [Srikar](https://open.spotify.com/artist/5hVmorOQNXeIwZa2MT3Tlv), [JJL](https://open.spotify.com/artist/41QZ7uWNkyqF0PbJsd5nXv) | [To The Top \(JJL Remix\)](https://open.spotify.com/album/2iXwrkpbLaSpUBpTYwnc5p) | 3:02 | 2022-08-19 | 2023-04-28 |
 | [Tonight](https://open.spotify.com/track/5HButdKodhRVg82OnkeI3I) | [Facading](https://open.spotify.com/artist/3swqKb9ThB6V60oQEFyDu0) | [Tonight](https://open.spotify.com/album/11spxNqtn2Nz7Y3tJUPIyN) | 2:32 | 2022-09-06 | 2023-04-28 |
@@ -318,6 +319,7 @@
 | [War Machine](https://open.spotify.com/track/6SRBp5BQJJkuzMw9aSpb8t) | [Dryskill](https://open.spotify.com/artist/5llLxfNmypH6ujbtB5ZoVN), [Max Brhon](https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI) | [War Machine](https://open.spotify.com/album/2NIiZjKbDekTfPAtQSwujY) | 3:17 | 2022-10-25 |  |
 | [What I Say](https://open.spotify.com/track/2MYf47KmmKlnt8IVcvszkx) | [WATEVA](https://open.spotify.com/artist/68D0OoPnJ7buwHp1YGrckH) | [What I Say](https://open.spotify.com/album/3h0ZMafVpLo8FQFokxjilF) | 3:35 | 2022-11-18 | 2023-04-28 |
 | [What I Say \- Thorne Remix](https://open.spotify.com/track/1t54AP4CUYAG0gScKyWDlq) | [WATEVA](https://open.spotify.com/artist/68D0OoPnJ7buwHp1YGrckH), [Thorne](https://open.spotify.com/artist/03SaLEDbLBTYkO0sSyN791) | [What I Say \(Thorne Remix\)](https://open.spotify.com/album/3fA3glGee0K59Lm08CVElv) | 3:08 | 2023-03-10 |  |
+| [What I Want](https://open.spotify.com/track/4qpxyKNLO2NT6f5q5pefRI) | [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159), [Ray Le Fanue](https://open.spotify.com/artist/5KbHk9IwiIF0fdu1AOJx29) | [What I Want](https://open.spotify.com/album/5PBxydJZJ4dTwLuUB2F76K) | 2:10 | 2023-07-20 |  |
 | [WHAT THE HELL \- OBLVYN Remix](https://open.spotify.com/track/1FMdcepWuMtbyp7YbvCEjd) | [Johnning](https://open.spotify.com/artist/1yPdXrLhRc50YbwiwCr1uN), [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [WHAT THE HELL \(OBLVYN Remix\)](https://open.spotify.com/album/30WclCTrWqACvzWo9C8tBT) | 2:59 | 2022-08-25 | 2023-04-28 |
 | [What You Gonna Do](https://open.spotify.com/track/4vmgwpTfj1TsOwCNKnl6Ro) | [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K) | [What You Gonna Do](https://open.spotify.com/album/0QUZjVOZFGsf6xsCxbWXxn) | 3:05 | 2023-02-01 | 2023-04-28 |
 | [Whatever \(ft\. Jüri Pootsmann\)](https://open.spotify.com/track/5dodHFhVwBQjcULGlLFKVG) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Jüri Pootsmann](https://open.spotify.com/artist/7j6Zzcpz7gTNPh69USgO8C) | [Whatever \(ft\. Jüri Pootsmann\)](https://open.spotify.com/album/4UOWmedz9MLd15yKyDj5ME) | 3:25 | 2022-03-25 | 2023-04-28 |

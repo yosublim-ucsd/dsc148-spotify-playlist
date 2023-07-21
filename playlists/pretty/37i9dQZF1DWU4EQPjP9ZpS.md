@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 
 > get lost in the  a e s t h e t i c
 
-[Spotify](https://open.spotify.com/user/spotify) - 270,082 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 270,229 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 99 | [Vivid](https://open.spotify.com/track/5MwMvbUX8LFEjdA78fB28u) | [oDDling](https://open.spotify.com/artist/2zhOohLhIGzDcBhAqmBmuE) | [Vivid](https://open.spotify.com/album/43nHwXwoyMqTL8UlAWaaEW) | 2:50 |
 | 100 | [天使](https://open.spotify.com/track/4o9Qipr1uiFWiFytOCMECs) | [KyonPalm](https://open.spotify.com/artist/6D3vHFavzQh17AAnG4yLwt) | [CYBERIA](https://open.spotify.com/album/5Jh6Ky9eAwdixbs2BSANWa) | 3:47 |
 
-Snapshot ID: `MCwyYmNiODE3ZDYyNDQ5NWNlMjMwNjZmZWUzZmU3YTUyMzJjNmM3OTlh`
+Snapshot ID: `MCw5Mjg2MTdlM2E2ZjE1MGNiM2YwNDZiMGYyYjkzZmE0MzAxMWM4YmYw`

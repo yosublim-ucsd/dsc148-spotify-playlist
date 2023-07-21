@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 
 > Tu lista favorita de Bachata ❤️ Cover: Johnny Sky
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,912,285 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,912,409 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 99 | [Verdad O Reto](https://open.spotify.com/track/5qfKObjdXnUosQcls4IiqT) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Momentos de Cine](https://open.spotify.com/album/2jIIrvANQ31uMpNoPdPZIk) | 3:30 |
 | 100 | [7 Pecados](https://open.spotify.com/track/6xl0OFFGmvDd0MnmOT4zuj) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [7 Pecados](https://open.spotify.com/album/176s0aCeKMzCKl51vXul3X) | 3:24 |
 
-Snapshot ID: `MCw1MGE5YzgzMTEyYjA1ZGY2NzgyOGEwYmU1OTJlOWNkNTI1NzdiNTU5`
+Snapshot ID: `MCxiZmI5MjgxMzQ3M2Y5NTBlMTEyMjRkY2UzOWFkZjFmMWZmODUyODg2`

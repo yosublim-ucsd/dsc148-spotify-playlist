@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ExvoKgjMK2.md) - [plain](/playlists/plain/37i9dQZF1DX1ExvoKgjMK2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1ExvoKgjMK2)
 
-### [쿠키런: 킹덤 ‘섬머소다 락페스타’  \(Cookie Run: Kingdom ‘Summer Soda Rock Festa’\)](https://open.spotify.com/playlist/37i9dQZF1DX1ExvoKgjMK2)
+### [Cookie Run: Kingdom ‘Summer Soda Rock Festa \(’쿠키런: 킹덤 ‘섬머소다 락페스타’\)](https://open.spotify.com/playlist/37i9dQZF1DX1ExvoKgjMK2)
 
 > 마침내 파인애플 섬에서 열리는 '섬머소다 락페스타'! 그 생생한 현장과 함께 뮤지션 쿠키들의 추천곡을 만나보세요! \(Finally, 'Summer Soda Rock Festa' held on Pineapple Island! Meet the recommended songs of musician Cookies along with the vivid scene!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,768 likes - 36 songs - 1 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,800 likes - 36 songs - 1 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ExvoKgjMK2.md) - [plain]
 | 35 | [Drive](https://open.spotify.com/track/62RxVBrMVey7CjROBLsMIL) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Drive](https://open.spotify.com/album/0FvWAtuJrMGOd2UQ3sAvdI) | 4:00 |
 | 36 | [Half Clear](https://open.spotify.com/track/29OarHJDQN4Pm7SE1VmlQf) | [dosii](https://open.spotify.com/artist/41lcf5k3PkUdxupYLkcjCd) | [dosii](https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6) | 4:25 |
 
-Snapshot ID: `MCxiYzdhM2JkYWRlNDhmZjEyNDA4MTgyYmIwM2ZiZTA0N2M4OTQwMDc1`
+Snapshot ID: `MCw4NDljZDc5ZWVjYzQ3ZDAzYzQ0ZGNiOTY2NWViZDA0ZjhkZGUxNDI1`

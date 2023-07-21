@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpO97CaFM3p.md) - [plain]
 
 > when you decide societal constructs just aren’t the vibe anymore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 377,507 likes - 125 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 377,968 likes - 125 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpO97CaFM3p.md) - [plain]
 | 124 | [OK](https://open.spotify.com/track/2gBYjMXW65daBB1elr68JK) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [OK](https://open.spotify.com/album/6N6OAhnaaEAzXT6nd3kq3A) | 3:32 |
 | 125 | [Wonderland](https://open.spotify.com/track/29Eswc8MgqA24TyhmyM7Lf) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Wonderland](https://open.spotify.com/album/3Qg4NwL9X3k6EUDA6bQ5pC) | 3:32 |
 
-Snapshot ID: `MCwwMGE5NTA4ZWQyNGMyOGJhNjYwOTJlZmMyMDFiYmRhOWJkYzBlMmRm`
+Snapshot ID: `MCwzMDQwN2Y0MDIzM2NiNTFjMDYxMzFlMmEwZjdlZjA5YmMwNDM5MTY0`

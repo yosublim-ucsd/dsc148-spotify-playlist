@@ -1,12 +1,12 @@
 {
   "description": "Magic of acoustic poured into your Chai",
-  "num_followers": 120754,
+  "num_followers": 120844,
   "original_name": "Chai & Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNjczNGQyYmQ4NGMyNjBmNDUxYjdjYTZlYTk1MmFhNTI3MDlmYmU0",
+  "snapshot_id": "MCxiMWQ2ZGM3MDNhNmExMTM3YjFjODYzMWEwYWM4YzFmMWQ4Y2QwYzg4",
   "tracks": [
     {
       "added_at": "2023-07-19 06:53:08",
@@ -223,6 +223,22 @@
       "duration_ms": 214034,
       "name": "Tu Jo Paas (Raw)",
       "url": "https://open.spotify.com/track/3i8GG9i2cUpNDIitAJ533b"
+    },
+    {
+      "added_at": "2023-07-20 06:53:56",
+      "album": {
+        "name": "Tu",
+        "url": "https://open.spotify.com/album/5I7KqxcjKqJDX6Ne2yDLrR"
+      },
+      "artists": [
+        {
+          "name": "JEKS",
+          "url": "https://open.spotify.com/artist/6aXh2DuJMdQBtd235sTUrl"
+        }
+      ],
+      "duration_ms": 136261,
+      "name": "Tu",
+      "url": "https://open.spotify.com/track/7DlBboctH1CiJFC0chyOO2"
     },
     {
       "added_at": "2023-07-19 06:53:08",
@@ -899,26 +915,6 @@
     {
       "added_at": "2023-07-19 06:53:08",
       "album": {
-        "name": "Rahnuma",
-        "url": "https://open.spotify.com/album/1ZxPWhL6F5VY3ZuA279ihM"
-      },
-      "artists": [
-        {
-          "name": "Stefan Packianathan",
-          "url": "https://open.spotify.com/artist/0P5zcM5KLVBTlapyoESJIa"
-        },
-        {
-          "name": "Saurabh Shetye",
-          "url": "https://open.spotify.com/artist/5GXlDxOxHwWFutiCMOIQGN"
-        }
-      ],
-      "duration_ms": 226086,
-      "name": "Rahnuma",
-      "url": "https://open.spotify.com/track/7KbYD6BasraCSJ2fSp9MNW"
-    },
-    {
-      "added_at": "2023-07-19 06:53:08",
-      "album": {
         "name": "Dil Beparvah (The Dewarists, Season 5)",
         "url": "https://open.spotify.com/album/03CDp0VEvqgFEXoo8gXNru"
       },
@@ -1075,22 +1071,6 @@
       "duration_ms": 183636,
       "name": "Dil Teri Raah",
       "url": "https://open.spotify.com/track/5vVKNkvj6fXRAoE0St3KYm"
-    },
-    {
-      "added_at": "2023-07-19 06:53:08",
-      "album": {
-        "name": "Saregama Open Stage, Vol. 15",
-        "url": "https://open.spotify.com/album/32gAy0gxgW1ZEokDsNu76h"
-      },
-      "artists": [
-        {
-          "name": "Ashish Khandal",
-          "url": "https://open.spotify.com/artist/65XZEmEVa5U52jYJRQzuSF"
-        }
-      ],
-      "duration_ms": 94869,
-      "name": "Bade Achhe Lagte Hai",
-      "url": "https://open.spotify.com/track/65qGnOwNU4odSdjL4gzx48"
     },
     {
       "added_at": "2023-07-19 06:53:08",

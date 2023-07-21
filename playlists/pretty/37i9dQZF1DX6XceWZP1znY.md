@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XceWZP1znY.md) - [plain]
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,816 likes - 200 songs - 12 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,173 likes - 200 songs - 12 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XceWZP1znY.md) - [plain]
 | 199 | [New Page](https://open.spotify.com/track/2gApWgkuisXedOcS9Tligs) | [INTERSECTION](https://open.spotify.com/artist/5yzLjgtXt52UUcOO0y88ma) | [New Page](https://open.spotify.com/album/3IqJDQ3RL9oV6a91m9FCZE) | 4:30 |
 | 200 | [THE ANSWER](https://open.spotify.com/track/2TQRsVtJBQnD0y6rPRCIA1) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [86―エイティシックス― オリジナル・サウンドトラック](https://open.spotify.com/album/2SlW3LaVSzRseiFdXRmssc) | 3:46 |
 
-Snapshot ID: `MCw1MGM4MWQyNjZlZWNiMzAzMWQ1YmU4ZTA2ZTlhZmE5YzdkYWI3NmJl`
+Snapshot ID: `MCxlMjBhNmI4ODZkMTg0NjdlOWQyYjAxNTgzY2M0NTJhODIyNWY5NTQy`

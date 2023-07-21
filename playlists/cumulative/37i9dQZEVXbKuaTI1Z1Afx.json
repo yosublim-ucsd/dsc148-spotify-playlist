@@ -12625,6 +12625,28 @@
     },
     {
       "album": {
+        "name": "Highs & Lows",
+        "url": "https://open.spotify.com/album/3SNsgXJZISh5mWsElUjRZ6"
+      },
+      "artists": [
+        {
+          "name": "Prinz",
+          "url": "https://open.spotify.com/artist/0tOWWVeVRQUE7nS0J43Zm9"
+        },
+        {
+          "name": "Gabriela Bee",
+          "url": "https://open.spotify.com/artist/4z0EquFxDCtiHuPGiWDCq1"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124791,
+      "name": "Highs & Lows",
+      "url": "https://open.spotify.com/track/1jrjUPWrfMw8RBbZ9PlX0W"
+    },
+    {
+      "album": {
         "name": "Highway Boys",
         "url": "https://open.spotify.com/album/7jo54HwllkSXM0EVvEUurZ"
       },
@@ -17115,6 +17137,24 @@
     },
     {
       "album": {
+        "name": "listen! (sped up)",
+        "url": "https://open.spotify.com/album/6IkOB88aFkkxIJT8u46SYF"
+      },
+      "artists": [
+        {
+          "name": "hako",
+          "url": "https://open.spotify.com/artist/71UHb0juSLfDoktgvCELin"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88605,
+      "name": "listen!",
+      "url": "https://open.spotify.com/track/12eAtj918bpsB4Vts8pCMu"
+    },
+    {
+      "album": {
         "name": "Fresh Meat",
         "url": "https://open.spotify.com/album/7LOwB5wnnwLGckr8YWWdVl"
       },
@@ -17363,7 +17403,7 @@
     },
     {
       "album": {
-        "name": "LOOK DON\u2019T TOUCH (feat. cade clair)",
+        "name": "LOOK DON\u2019T TOUCH (w/ cade clair)",
         "url": "https://open.spotify.com/album/5MkgYSsxCsItpmkgkhDl0P"
       },
       "artists": [
@@ -17380,7 +17420,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 138240,
-      "name": "LOOK DON\u2019T TOUCH (feat. cade clair)",
+      "name": "LOOK DON\u2019T TOUCH (w/ cade clair)",
       "url": "https://open.spotify.com/track/7E9kejvFw8NDfuu4y3hqkp"
     },
     {
@@ -19286,7 +19326,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 186066,
       "name": "Mona Lisa",
       "url": "https://open.spotify.com/track/71DSaeKtXQaMAqnvMT7Uoc"
@@ -23324,7 +23364,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 359769,
       "name": "Pretend",
       "url": "https://open.spotify.com/track/0tGqk0HlYMQ16aj7yJwleF"
@@ -31093,6 +31133,24 @@
     },
     {
       "album": {
+        "name": "Try That In A Small Town",
+        "url": "https://open.spotify.com/album/4mYJYGql59RcwSLCyjYDNO"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180033,
+      "name": "Try That In A Small Town",
+      "url": "https://open.spotify.com/track/4ROknQyR1wOGPfmpTtB3z4"
+    },
+    {
+      "album": {
         "name": "Tubar\u00e3o Te Amo",
         "url": "https://open.spotify.com/album/78FttDdgy6bH90nSjINf2E"
       },
@@ -31548,7 +31606,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 280106,
       "name": "Unknown / Nth",
       "url": "https://open.spotify.com/track/0yyQOpUfKMOg1JpFQi2reh"

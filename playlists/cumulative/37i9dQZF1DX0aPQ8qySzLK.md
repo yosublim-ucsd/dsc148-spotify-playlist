@@ -4,7 +4,7 @@
 
 > Our editorial picks for Folk's best of 2021 in Canada\. Cover: Ocie Elliott
 
-139 songs - 8 hr 40 min
+140 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Childhood](https://open.spotify.com/track/4EJiWw5JfcPL2v6BkjZglo) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Childhood](https://open.spotify.com/album/3psPknmWDOZJlZUxj79tn7) | 5:46 | 2021-12-01 | 2022-07-29 |
 | [Childhood](https://open.spotify.com/track/6JC1pkbT55lB2ua2npguzN) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Nightjar and the Nightingale](https://open.spotify.com/album/3uqQVXRX8Yoq88qiXXJyjk) | 5:46 | 2021-12-01 | 2023-03-27 |
 | [Coal Mine](https://open.spotify.com/track/2r28OVJXaUWY5gkMdAzpeu) | [I, the Mountain](https://open.spotify.com/artist/0SpaSO2rguoxdzRV0Cnnaq) | [Coal Mine](https://open.spotify.com/album/1iV6yD61SdNZ4tkQcoUtJw) | 3:25 | 2021-12-01 |  |
-| [Cold World](https://open.spotify.com/track/2WxZsGInatsAG5Z2NCgCHN) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Cold World](https://open.spotify.com/album/2HJxiWkcVAbXuOMaY5wEor) | 3:44 | 2021-12-01 |  |
+| [Cold World](https://open.spotify.com/track/2WxZsGInatsAG5Z2NCgCHN) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Cold World](https://open.spotify.com/album/2HJxiWkcVAbXuOMaY5wEor) | 3:44 | 2021-12-01 | 2023-07-21 |
+| [Cold World](https://open.spotify.com/track/6vrfAwiU7e7pM8GSa3A75S) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Live Slow Die Wise](https://open.spotify.com/album/2exje2s1zj4OX3qIToppco) | 3:44 | 2021-12-01 |  |
 | [Collectors](https://open.spotify.com/track/5kF2AYhDtFksrQGkSbhRp3) | [Laura Reznek](https://open.spotify.com/artist/04nT28h1eTiq4zIw7iOFSz) | [Agrimony](https://open.spotify.com/album/79URNHwVs8f6mGB1dgyN7W) | 3:41 | 2021-12-01 |  |
 | [Damn \(Unstuck\)](https://open.spotify.com/track/67cdMsTo8WbOfLkiVOYiCO) | [Vox Rea](https://open.spotify.com/artist/4SRrbYd7KBkGdOCAekSnY1) | [Damn \(Unstuck\)](https://open.spotify.com/album/6NSUIZjhXFdM9hAEW6OxMl) | 3:37 | 2021-12-01 |  |
 | [Dear August](https://open.spotify.com/track/16gW9O8A4rIMx5OOVlzsSn) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [Dear August](https://open.spotify.com/album/6gaOMLivdMhiFaTuPqTmgj) | 3:20 | 2021-12-01 |  |

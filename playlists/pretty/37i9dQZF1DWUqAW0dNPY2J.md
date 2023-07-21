@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqAW0dNPY2J.md) - [plain](/playlists/plain/37i9dQZF1DWUqAW0dNPY2J) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUqAW0dNPY2J)
 
-### [Mixtape: Suki Waterhouse "walking around NYC thinking about love"](https://open.spotify.com/playlist/37i9dQZF1DWUqAW0dNPY2J)
+### [Mixtape \#2 Suki Waterhouse "walking around NYC thinking about love"](https://open.spotify.com/playlist/37i9dQZF1DWUqAW0dNPY2J)
 
 > Songs that grace Suki Waterhouse's headphones whilst strolling NYC thinking about love\. Welcome to mixtape, a curator's playground.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,858 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,003 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUqAW0dNPY2J.md) - [plain]
 | 74 | [Nancy From Now On](https://open.spotify.com/track/77RNVzAVwqWiZrZuWqMV2i) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS) | 3:54 |
 | 75 | [Problem With It](https://open.spotify.com/track/1lhQDa5Rit1iMpo4PQpIGO) | [Plains](https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [I Walked With You A Ways](https://open.spotify.com/album/7mdK7vYHrLMzPHGeGXQN0h) | 3:32 |
 
-Snapshot ID: `MCw0MzcyNjdkMjg4NjUyODc0Y2Y1OGU0YzMxMDViNzcwMmEwMzAxYmJj`
+Snapshot ID: `MCxmNjBkNDI3MjA5ZWJhNWM4MDNkZTYyODZjNmRjZmY5NDkwYjMxNDg1`

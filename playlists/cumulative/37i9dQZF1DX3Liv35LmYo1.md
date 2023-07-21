@@ -4,7 +4,7 @@
 
 > Moody electronica for the night shift
 
-148 songs - 11 hr 50 min
+150 songs - 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Affirmation Practice](https://open.spotify.com/track/2nArEaoCGtb6ws4wO4cI9a) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Affirmation Practice](https://open.spotify.com/album/2tnN5ey40OEsFKIurIWNsK) | 5:11 | 2023-01-26 | 2023-06-09 |
 | [Afterglow](https://open.spotify.com/track/1NhtY0fQV9pna3FW6YH6PK) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm), [Kendl](https://open.spotify.com/artist/70kLAtCzsMiSqLU8qY7QQC) | [Afterglow](https://open.spotify.com/album/3VLtsXibcVJSiiHbSu3DYY) | 4:26 | 2023-03-23 |  |
 | [All Good](https://open.spotify.com/track/0E1R3RC1YxQ6nIJ2ZDbDjF) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [All Good](https://open.spotify.com/album/4KyYJbYmodLczcw5HLkkzI) | 4:31 | 2023-03-02 | 2023-06-30 |
+| [All Good \- Jasper Tygner Remix](https://open.spotify.com/track/19FSj8Zq5ZUEF6C87rKPcH) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98), [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [All Good \(Jasper Tygner Remix\)](https://open.spotify.com/album/0l8JO6jLZBpLzcNe0vo4Ri) | 4:03 | 2023-07-20 |  |
 | [All Together, Here Together](https://open.spotify.com/track/1fUy3z7TaLqyUF3VDuBzLR) | [Adult Art Club](https://open.spotify.com/artist/74l1bnHa89Rs8yoMFUaLVl) | [All Together, Here Together](https://open.spotify.com/album/2PI5yWf4vvQUINMCTKHHkx) | 3:58 | 2022-12-01 | 2023-03-03 |
 | [All Ways](https://open.spotify.com/track/6FXo8XBPJVRVTnULgrMEVt) | [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5), [Mala](https://open.spotify.com/artist/0QTEYauMG3DrAVPXCYMseu) | [All Ways](https://open.spotify.com/album/2fSalddDJUxWeDeXl2yTwR) | 4:16 | 2023-03-16 | 2023-05-06 |
 | [Ante](https://open.spotify.com/track/6zcnsH77evVFfbfCkdpgMT) | [Cousin](https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q) | [Ante](https://open.spotify.com/album/0luWrdUTM961z0xjXPgJm7) | 4:20 | 2023-06-08 | 2023-06-30 |
@@ -97,7 +98,7 @@
 | [Leave Here](https://open.spotify.com/track/5FdiUDLORFvwxzTvqqOrcC) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Leave Here](https://open.spotify.com/album/5CmJspuJM6slYqdFEbvBX0) | 4:57 | 2022-12-01 | 2023-02-02 |
 | [Light Of Day \(feat\. Ólafur Arnalds\)](https://open.spotify.com/track/58sa3HUZL71gpMB6XvhaUo) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Light Of Day \(feat\. Ólafur Arnalds\)](https://open.spotify.com/album/0pGNoq6y7AGjILfzDzOZbu) | 6:40 | 2022-12-01 | 2023-03-03 |
 | [lights up](https://open.spotify.com/track/2r2axmwkkjt8LCfgfYh4YG) | [poolsideconvo](https://open.spotify.com/artist/2LSEjxlLwKF2YelaT0kiQJ) | [the come up](https://open.spotify.com/album/4qF743H2WwQod9UDSmZ6z1) | 4:31 | 2022-12-01 | 2023-03-25 |
-| [Memories In Flight](https://open.spotify.com/track/0c2mirf2nzleq4ctZ5vFKx) | [Sampology](https://open.spotify.com/artist/4si18qS80CBDvSo59qthZJ) | [Memories In Flight](https://open.spotify.com/album/581T6Mw7jPP4IGgFDrQAfE) | 3:49 | 2023-05-05 |  |
+| [Memories In Flight](https://open.spotify.com/track/0c2mirf2nzleq4ctZ5vFKx) | [Sampology](https://open.spotify.com/artist/4si18qS80CBDvSo59qthZJ) | [Memories In Flight](https://open.spotify.com/album/581T6Mw7jPP4IGgFDrQAfE) | 3:49 | 2023-05-05 | 2023-07-21 |
 | [meserole](https://open.spotify.com/track/0ZknBLwUkWexmyNLAukYpE) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [meserole](https://open.spotify.com/album/6IAjQJTXRLi7MdiE1KptlD) | 3:33 | 2023-01-13 |  |
 | [Mike \(desert island duvet\)](https://open.spotify.com/track/6cqcmtaxNL7YCKKsuYAPJo) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Mike \(desert island duvet\)](https://open.spotify.com/album/3lYzZoDorEtJsL3uRZ5dPa) | 4:24 | 2023-03-02 | 2023-03-25 |
 | [Moving Still \- Reprise](https://open.spotify.com/track/6Bb95rf8ewBdgcArC0iEJf) | [Oliver Henry](https://open.spotify.com/artist/5rrIGWOBnDYdcRz9FqdvfD) | [From The Ashes EP](https://open.spotify.com/album/4QTuY78vkmEXqpDDae2856) | 2:18 | 2023-04-20 |  |
@@ -149,12 +150,13 @@
 | [To You](https://open.spotify.com/track/38GS3GcRxHE9YXuIk21eaC) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [To You EP](https://open.spotify.com/album/3Anf3lNMU7cCesmckx62wI) | 5:06 | 2023-05-05 | 2023-06-30 |
 | [Ultra Truth](https://open.spotify.com/track/5XJbxQd5go9wRFpYq4fChY) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Ultra Truth](https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI) | 5:17 | 2022-12-01 |  |
 | [Us](https://open.spotify.com/track/63yVhTOpbvjkA4kvH1O2yi) | [Juno Mamba](https://open.spotify.com/artist/5RAHYRgJdI1D82IANP5yYL) | [Us](https://open.spotify.com/album/6pCGV4BvvjWT4uQJethJXF) | 4:51 | 2022-12-01 | 2023-05-06 |
-| [View from the Aeroplane Window](https://open.spotify.com/track/4mM9mgoDCa6NtWsHxe12pr) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [View from the Aeroplane Window](https://open.spotify.com/album/2sRxQH3FnEm4M0K8PnmQsH) | 3:53 | 2022-12-01 |  |
+| [View from the Aeroplane Window](https://open.spotify.com/track/4mM9mgoDCa6NtWsHxe12pr) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [View from the Aeroplane Window](https://open.spotify.com/album/2sRxQH3FnEm4M0K8PnmQsH) | 3:53 | 2022-12-01 | 2023-07-21 |
 | [Violet \- DJ Python Remix](https://open.spotify.com/track/6JijA1sJukJFkEXlOnK9ZI) | [The Range](https://open.spotify.com/artist/5xsSdtWHooM9IL5WnDWTdD), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Mercury Remixes](https://open.spotify.com/album/4dgG6jfRwyZyDLtB8F2yVZ) | 3:27 | 2023-04-05 | 2023-05-06 |
 | [Wall of Sleep](https://open.spotify.com/track/1zii8HjrZpVEIsAECYGwrV) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Ultra Truth](https://open.spotify.com/album/4qw8zs6nZyjpgPPBxZWpTI) | 4:47 | 2022-12-01 |  |
 | [Water](https://open.spotify.com/track/22QE1KHFMkl96UTjeDQ4GV) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Water](https://open.spotify.com/album/6Dao9eIV6CntMa9sH2YP2B) | 4:58 | 2022-12-01 | 2023-06-30 |
 | [Whatever Happens, Happens](https://open.spotify.com/track/7JCDUpvqoOsUI80cQezG7M) | [Loverground](https://open.spotify.com/artist/3SvoerawAn5RAZ2N9osc3z) | [Whatever Happens, Happens](https://open.spotify.com/album/1WJ9gGJIFiHEcAgTMMwtD8) | 3:47 | 2022-12-01 |  |
 | [Whipbird Dub](https://open.spotify.com/track/5yz7nwiWYy5CoXdJyNfllg) | [Subset](https://open.spotify.com/artist/7GmkyfxnMFA1ZSyb87dVNl) | [Call of the Whipbird](https://open.spotify.com/album/2o0UiAbeyt13UIlLZ5RUH1) | 6:28 | 2023-01-26 |  |
 | [Work It Out](https://open.spotify.com/track/4MLMdVDbghOxCSoOgwQ7Og) | [Acopia](https://open.spotify.com/artist/276EHqxzrJ8QJKoluzYjFr) | [Work It Out](https://open.spotify.com/album/6e3hBCINZWL2rhBWKrrpqK) | 4:02 | 2023-05-05 | 2023-06-30 |
+| [You Need Somebody](https://open.spotify.com/track/3MOOLHyOlR0lzcTwoXSci8) | [Puppy Mountain](https://open.spotify.com/artist/5uKqqVe2DRZMZBwV5wYYAH) | [You Need Somebody](https://open.spotify.com/album/4oSnGMfEK0NCZlTLsFDtdi) | 3:20 | 2023-07-20 |  |
 
 \*This playlist was first scraped on 2022-12-10. Prior content cannot be recovered.

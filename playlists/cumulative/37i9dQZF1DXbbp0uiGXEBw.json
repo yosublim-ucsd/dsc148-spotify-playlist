@@ -518,7 +518,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 179541,
       "name": "Duy\u00ean \u00c2m",
       "url": "https://open.spotify.com/track/5dZHey2U2xrNpvgyop8URS"
@@ -2508,6 +2508,24 @@
       "duration_ms": 214285,
       "name": "t\u00f3c ng\u1eafn",
       "url": "https://open.spotify.com/track/2wQwox4OOvt9Mr4PtFjs9F"
+    },
+    {
+      "album": {
+        "name": "T\u1eeb Khung C\u1eeda S\u1ed5 N\u00e0y",
+        "url": "https://open.spotify.com/album/3MP2DEC3eGwYHvBqmvlrMK"
+      },
+      "artists": [
+        {
+          "name": "Suni H\u1ea1 Linh",
+          "url": "https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218226,
+      "name": "T\u1eeb Khung C\u1eeda S\u1ed5 N\u00e0y",
+      "url": "https://open.spotify.com/track/6C1uzaA6dThCNQt89fk4kJ"
     },
     {
       "album": {

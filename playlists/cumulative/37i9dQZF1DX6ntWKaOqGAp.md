@@ -4,7 +4,7 @@
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: Saucy Dog
 
-613 songs - 1 day 14 hr 26 min
+615 songs - 1 day 14 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Bokurano](https://open.spotify.com/track/7F3R31tU4vNWrdsjNrURQX) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Bokurano](https://open.spotify.com/album/0dS6KlBzeDJQsWZ2Krmjhh) | 3:32 | 2023-01-13 | 2023-02-22 |
 | [Bongiri koiuta](https://open.spotify.com/track/0POtzhZLoUX2bsFatFD4rD) | [SOUTHERN ALL STARS](https://open.spotify.com/artist/6HqHB2AFBXUQHQFN026oYP) | [Bongiri koiuta](https://open.spotify.com/album/7bUQB59SHqlbzJsHg4lRlM) | 4:19 | 2023-07-18 |  |
 | [Booorn!!](https://open.spotify.com/track/48oPAi5Va2Qm3ep6q6506R) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [Booorn!!](https://open.spotify.com/album/5EQ83ifAXP6CnqWmb4oZm3) | 3:42 | 2023-05-30 | 2023-07-12 |
-| [BORDER](https://open.spotify.com/track/4vRqGi0BbbecchqNA5PJMK) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [BORDER](https://open.spotify.com/album/21ptDmeuxNhWWmM0Hkp4y9) | 2:55 | 2023-06-06 |  |
+| [BORDER](https://open.spotify.com/track/4vRqGi0BbbecchqNA5PJMK) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [BORDER](https://open.spotify.com/album/21ptDmeuxNhWWmM0Hkp4y9) | 2:55 | 2023-06-06 | 2023-07-21 |
 | [Break Together](https://open.spotify.com/track/1tOZqH9t898tBOOyDG695t) | [KANKAKU PIERO](https://open.spotify.com/artist/0y7gVi2MozEY4IyyDWKWqQ) | [Break Together](https://open.spotify.com/album/6cdmaCwRThLtqquRCLfESu) | 3:49 | 2023-06-22 |  |
 | [Bug](https://open.spotify.com/track/3fVMkGyOBs4Yy0DvlbdOTH) | [ART\-SCHOOL](https://open.spotify.com/artist/53qmbfZrKa81AKLdojnxBT) | [luminous](https://open.spotify.com/album/2Zjoq94O4pZZW1cpNxGl6V) | 3:40 | 2023-06-13 | 2023-06-28 |
 | [Bye\-Bye Show](https://open.spotify.com/track/7pBLnIBcAqIQ2NHVvJeNfA) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [Bye\-Bye Show](https://open.spotify.com/album/3kL7hk71Spv76STO0skLct) | 4:41 | 2023-02-21 | 2023-04-07 |
@@ -134,7 +134,7 @@
 | [Himegoto](https://open.spotify.com/track/5DKtqqUAFmBSq7gUoydsTm) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [Himegoto](https://open.spotify.com/album/4tHtEtjR2jOd7M0jDbPlzH) | 4:41 | 2023-06-27 |  |
 | [Himotoai](https://open.spotify.com/track/2MtTAPmEoGKUC0vDloY6nw) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Himotoai](https://open.spotify.com/album/0NSqWhZSLPVcgceCGpVV5O) | 2:42 | 2023-02-28 | 2023-03-18 |
 | [Himotoai](https://open.spotify.com/track/5J1ZyBPmRGD8uIoMw6tzvb) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita](https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb) | 2:42 | 2023-03-16 | 2023-04-15 |
-| [Hirune no Kuni](https://open.spotify.com/track/4dymwcfZ7u6irN77AqHsLG) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Hirune no Kuni](https://open.spotify.com/album/72oJRih7QCDNBPWVuUlIB5) | 3:06 | 2023-05-16 |  |
+| [Hirune no Kuni](https://open.spotify.com/track/4dymwcfZ7u6irN77AqHsLG) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Hirune no Kuni](https://open.spotify.com/album/72oJRih7QCDNBPWVuUlIB5) | 3:06 | 2023-05-16 | 2023-07-21 |
 | [Hitokoto](https://open.spotify.com/track/6uNXTZURZmtPKqSXItjmhd) | [Kyuso Nekokami](https://open.spotify.com/artist/2ZlX1yKrkVz98AVtQCRJbb) | [Watashi Akinu Watashi](https://open.spotify.com/album/4ZXu5KofuIygNs2SBwo9zR) | 4:21 | 2023-03-28 | 2023-04-28 |
 | [Honey](https://open.spotify.com/track/18DQ9iePAAoZUFjnAaDG88) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [Harvest](https://open.spotify.com/album/1PPS4w9sOJqNpTnUtUj4QZ) | 3:02 | 2023-01-13 | 2023-02-19 |
 | [Hontowane,](https://open.spotify.com/track/1p24ocb4bvCRId4cquDUHl) | [yangskinny](https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5) | [Utanishiteshimaeba,Donnakotodemoyurusarerutoomotteita](https://open.spotify.com/album/7dj8tTCDJt5KRM9rqCsPbb) | 3:21 | 2023-03-25 | 2023-03-29 |
@@ -316,6 +316,7 @@
 | [Us](https://open.spotify.com/track/2LvtKcNpyH9dIOynM3Xz3R) | [Homecomings](https://open.spotify.com/artist/3iyF2P8al32bYI6e3YF56K) | [New Neighbors](https://open.spotify.com/album/5brXjr8BORF46m2FHgY55a) | 5:18 | 2023-04-04 | 2023-04-19 |
 | [Vandalize](https://open.spotify.com/track/0zmOnwMT92MMZxfE04TbKt) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:14 | 2023-01-13 | 2023-01-25 |
 | [Vanilla](https://open.spotify.com/track/0ScnRmW5aehQSRTbHSBMS8) | [Shikao Suga](https://open.spotify.com/artist/3sddhwNhGabYSvzYKhB7qj) | [Vanilla](https://open.spotify.com/album/3gpNbqNmHS6M3jIrcg05DW) | 3:15 | 2023-01-17 | 2023-02-01 |
+| [VANILLA SKY](https://open.spotify.com/track/3ps5WSAXrgvjN4IxIPchsV) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI), [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [VANILLA SKY](https://open.spotify.com/album/7kaCg3NQesrLpfsOEGMCQd) | 2:47 | 2023-07-20 |  |
 | [VICTOSPIN](https://open.spotify.com/track/27BZgUvxWTBoiOXBoAxNn3) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [ENIGMASIS](https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT) | 4:20 | 2023-07-18 |  |
 | [Violet](https://open.spotify.com/track/6Z1Z26rgNr1NAiMVb0kkTt) | [Bubble Baby](https://open.spotify.com/artist/4g3C4VejuB09XqHyNhs1AC) | [Violet](https://open.spotify.com/album/4t5i51fqbIgTvH7x2wIEIA) | 3:15 | 2023-02-07 | 2023-02-15 |
 | [Vision](https://open.spotify.com/track/0GcPTSS0Jy1HAhfq1KPuiX) | [SCANDAL](https://open.spotify.com/artist/7hTZwqQILVH4bAbN67CeEz) | [Line of sight](https://open.spotify.com/album/7eqEaO6vnNqeAK7bUbkf7L) | 3:29 | 2023-05-09 | 2023-05-11 |
@@ -453,6 +454,7 @@
 | [プロミスザスター ’23](https://open.spotify.com/track/7KqTlO3F2ADdDbKZvbl3Yc) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [BiSH THE BEST](https://open.spotify.com/album/31ogU6hrmcIquFGKu9zcX3) | 4:29 | 2023-07-04 |  |
 | [ベルベット](https://open.spotify.com/track/5v8PxZrllAo7XL7nmZgnBB) | [Oisicle Melonpan](https://open.spotify.com/artist/7v7AOgHT3xwF4Z86hcCbsh) | [answer](https://open.spotify.com/album/5CySG9zBbWjSRVFlJSfhwB) | 3:25 | 2023-03-28 | 2023-04-19 |
 | [ペーパーバック・ストーリーズ](https://open.spotify.com/track/0T0xvB5dpZd7H3dl3bDLkY) | [THE BLACKBAND](https://open.spotify.com/artist/6Lr807YhK1HzQrNatDbd5y) | [ペーパーバック・ストーリーズ](https://open.spotify.com/album/7xnlElkpV6bOOVaZvfS3lT) | 3:13 | 2023-01-17 | 2023-01-27 |
+| [ボーイズ ドント クライ](https://open.spotify.com/track/2oZM29QXfk0Oi6d15PjoSp) | [YOAKE](https://open.spotify.com/artist/0psEe4IooMjolOPMrz9A5M) | [ボーイズ ドント クライ](https://open.spotify.com/album/2ukBR6yPc7n60KjGcXxy0V) | 3:01 | 2023-07-20 |  |
 | [マスカレードパレード](https://open.spotify.com/track/11yqHR8bPt3tiHNX3oYh9F) | [Qujila Yoluno Machi](https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq) | [マスカレードパレード](https://open.spotify.com/album/50VAoWVqSXcE2vGpJaSlbW) | 3:54 | 2023-07-11 | 2023-07-13 |
 | [マヨイガ \- PHIL REWORK](https://open.spotify.com/track/16j0i4b87epv1BYA7AU3P7) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n), [蓮沼執太フィル](https://open.spotify.com/artist/3l4KxDy6jXb9KjUhShbRR5), [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [マヨイガ \(PHIL REWORK\)](https://open.spotify.com/album/5vxYwjHklE4OKDpd7D0PwR) | 4:07 | 2023-02-23 | 2023-03-01 |
 | [マールム \-malum\-](https://open.spotify.com/track/0PhR2iDSWWu9jJ5tZmBvy1) | [Mr.ふぉるて](https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6) | [A disease called love](https://open.spotify.com/album/0YSWyHWIrioEnV5YQddyWB) | 3:11 | 2023-03-14 | 2023-03-16 |

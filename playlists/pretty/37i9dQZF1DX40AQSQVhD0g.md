@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40AQSQVhD0g.md) - [plain]
 
 > Buenas vibras para limpiar la casa! The best vibes to keep the house clean!
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,680 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,750 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX40AQSQVhD0g.md) - [plain]
 | 99 | [Quimbara](https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia & Johnny](https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1) | 4:51 |
 | 100 | [No Te Veo \- Digital Single](https://open.spotify.com/track/40EDOraCqoiMf14TzODihf) | [Casa De Leones](https://open.spotify.com/artist/26YAHs5On4KQDNsU2cYFdL) | [No Te Veo](https://open.spotify.com/album/2gSW9jTCv7OZgx8JKlkyE7) | 4:15 |
 
-Snapshot ID: `MCwxYTViNDJlZDQ4NzI1ZWJkY2Y0MzFjNWQ3YTkzMmI2ZTEzN2U2ZmYx`
+Snapshot ID: `MCw0Njg1ZGRhYWRhOTg5YjU4YjEwYTFjZWM5MTQ5MmVkNTZjY2UyZWI4`

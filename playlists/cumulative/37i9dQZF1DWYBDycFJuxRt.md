@@ -4,7 +4,7 @@
 
 > 今週も話題の新曲を最速で。 Cover: サザンオールスターズ \*👉 <a href="https://spice.eplus.jp/articles/320350?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-2,321 songs - 5 day 20 hr 37 min
+2,322 songs - 5 day 20 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1152,6 +1152,7 @@
 | [S.O.S\. Saitei Oyobi Saiaku](https://open.spotify.com/track/71ozKkId3VfVFpqT7T98cA) | [Zukai](https://open.spotify.com/artist/49yQ9JDtRuZ0kYf2ncmVoR) | [S.O.S\. Saitei Oyobi Saiaku](https://open.spotify.com/album/0oqiUTJKwoCEKjrbHpDfES) | 3:14 | 2023-05-17 | 2023-05-24 |
 | [S.O.S.\(さいていおよびさいあく\)](https://open.spotify.com/track/3Wq6qTf6EyS2ULINf2pcLv) | [Zukai](https://open.spotify.com/artist/49yQ9JDtRuZ0kYf2ncmVoR) | [S.O.S.\(さいていおよびさいあく\)](https://open.spotify.com/album/2OFlLpgYjRqSvo7CS8tdcg) | 3:14 | 2023-05-16 | 2023-05-18 |
 | [SAD B!TCH](https://open.spotify.com/track/4nfyxpiejEPrUHLnejED7i) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [SAD B!TCH](https://open.spotify.com/album/1YKrir8bqPzZKr6RyL2GTZ) | 2:12 | 2023-02-07 | 2023-02-15 |
+| [sad girl](https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [sad girl](https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN) | 2:28 | 2023-07-20 |  |
 | [SADjinx](https://open.spotify.com/track/1d6cIEgBq9tIeOtIoyWYFH) | [homarelanka](https://open.spotify.com/artist/0ZPTsITnaR34DZDx0W00RG) | [SADjinx](https://open.spotify.com/album/2BCEE4xVT3wjsF5MBewkoK) | 2:35 | 2023-06-13 | 2023-06-21 |
 | [Saki e](https://open.spotify.com/track/77mbaz4zACMQYNxg0suF8h) | [RYUTO KASAHARA](https://open.spotify.com/artist/3jBsOn36WAeFeq0c7qt8Oz) | [Saki e](https://open.spotify.com/album/5r5gnTGKTzOY6IwZnGAFFs) | 4:10 | 2023-06-14 | 2023-06-21 |
 | [Sakura furefure](https://open.spotify.com/track/4i32VDJhNyNYeRmuSSGVFQ) | [THE SUPER FRUIT](https://open.spotify.com/artist/3I0DG4uOeYNPq5MCyHPPer) | [Sakura furefure](https://open.spotify.com/album/1TXAzr199OFgyoMhtPhZz4) | 3:53 | 2023-03-01 | 2023-03-08 |

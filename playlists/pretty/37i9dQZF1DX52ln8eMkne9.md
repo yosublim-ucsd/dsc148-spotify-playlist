@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 
 > Soft and cozy vocal and instrumental Jazz\. Cover: Melody Gardot
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,157 likes - 200 songs - 15 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,215 likes - 200 songs - 15 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52ln8eMkne9.md) - [plain]
 | 199 | ['Round Midnight](https://open.spotify.com/track/33nFpxA8wfc2dKw5lFw7PF) | [Karrin Allyson](https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs) | ['Round Midnight](https://open.spotify.com/album/32lTnM9ph7JPKaFhzAXqty) | 5:51 |
 | 200 | [High, Wide and Handsome: The Folks Who Live on the Hill](https://open.spotify.com/track/2N8UU86Y1SOSMWpXtIqRV1) | [Paul Motian Trio 2000 + One](https://open.spotify.com/artist/6ablJgrdQ5HMaWKqxbGLSC) | [On Broadway, Vol\. 4: The Paradox of Continuity](https://open.spotify.com/album/5vy138qK08Tm7oqjBROeJn) | 4:56 |
 
-Snapshot ID: `MCw1ZjcwM2NiN2QyNDJlNTNmMzRlNDllYmExYmFiZWRmN2FlZDM5Yzgz`
+Snapshot ID: `MTY4NzMzNjk1MiwwMDAwMDAwMGU2MzIzZTRlYzdiNWQ3MzI5YjI5OGRkMWVhNDdkZTZm`

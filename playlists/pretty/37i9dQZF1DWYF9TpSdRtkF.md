@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 
 > Music from "THE IDOLM@STER MILLION LIVE!"\. アイドルマスター ミリオンライブ！の楽曲を1つのプレイリストで。<br/>THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,278 likes - 75 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,288 likes - 75 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYF9TpSdRtkF.md) - [plain]
 | 74 | [産声とクラブ](https://open.spotify.com/track/7nt9V516i7KBjlFpbjTLFa) | [Serika Hakozaki \(CV: Momo Asakura\)](https://open.spotify.com/artist/2wXugCbb6eeKZNQmvA9rY7), [三浦あずさ \(CV.たかはし智秋\)](https://open.spotify.com/artist/0JDHqVJ5LibV1fFKoEKEDv), [Umi Kousaka \(CV: Reina Ueda\)](https://open.spotify.com/artist/5HugNWoMM7VlmEB2Fc9njS), [Roco \(CV: Atsuki Nakamura\)](https://open.spotify.com/artist/2ACFwjHDE4QWxq1qCPBIKh) | [THE IDOLM@STER MILLION THE@TER SEASON](https://open.spotify.com/album/10BMqQ7XYkeypUTyVTvOYv) | 4:00 |
 | 75 | [アフタースクールパーリータイム](https://open.spotify.com/track/25DliXdeWLl2NFEKUYCYyP) | [所 恵美 \(CV.藤井ゆきよ\)](https://open.spotify.com/artist/1kKVN7e55Q0Xi3n2ydAh6G) | [THE IDOLM@STER LIVE THE@TER PERFORMANCE 04](https://open.spotify.com/album/6WKC6lYDjiHk38mSeuNOoW) | 3:21 |
 
-Snapshot ID: `MCwyMGU2YWI2MDBmNjQ5NzAwZDE0ZGMzZjQ5NGYxNzE1YTdiZmM3Yzgy`
+Snapshot ID: `MCxlYTdhNGNhNDNlOWFmNzRkN2E5YjA2NjVmOTlhYjNlNjg1ODE3MTgy`

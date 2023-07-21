@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: Periphery
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,501 likes - 200 songs - 14 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 507,610 likes - 200 songs - 14 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wgKYQVRARv.md) - [plain]
 | 199 | [Sardonyx](https://open.spotify.com/track/3nOClyLeIIC7YxpIsbjMkk) | [Windrunner](https://open.spotify.com/artist/7GqHmgqt4wkWHZr8fcc9P7), [Tobias Rische](https://open.spotify.com/artist/7GaKWK9w2lGfFhyYVjvhBe) | [Sardonyx](https://open.spotify.com/album/2IxnO3Vk8Ra2NZSkRlQort) | 4:29 |
 | 200 | [Lost in My Mind](https://open.spotify.com/track/0pvwcb7Uu6lVVW6Mq2jfnk) | [Lone Survivors](https://open.spotify.com/artist/4qm7V3zSCeJApeZhmSCLeh) | [Ground Zero](https://open.spotify.com/album/6a20nDS6Ark7CHoUunsiwU) | 4:28 |
 
-Snapshot ID: `MCwyZjQ5NWQ5ZjAwM2FiZWM1MTIyMjUxZmVlMTE0NjM2YzhmZmFiNmQy`
+Snapshot ID: `MCw3OTg4Yzk3ODljODY1YjRlZWY5NTczNTA5OWI0MTVjMWJlZGY3ZTli`

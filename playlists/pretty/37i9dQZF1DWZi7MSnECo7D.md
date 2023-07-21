@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 
 > Novidades e destaques do indie nacional\. Foto: Luiza Lian
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,685 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,692 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZi7MSnECo7D.md) - [plain]
 | 69 | [Pra Trás](https://open.spotify.com/track/6YMBLfjQilTvqdWpeUbySG) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Tanto](https://open.spotify.com/album/20EcuWdIk2tTveltWZm1Pc) | 3:11 |
 | 70 | [Tanto](https://open.spotify.com/track/1uoOXeZ1KGdtYshGvLhIOF) | [Tagua Tagua](https://open.spotify.com/artist/7hfRDZ2GLXzts759hMrdmt) | [Tanto](https://open.spotify.com/album/20EcuWdIk2tTveltWZm1Pc) | 3:33 |
 
-Snapshot ID: `MCw3YmIxNjAwMmNkNTAwYWFmYjEyY2M3ODU3MDkyMjkyODdiYTVmYzYx`
+Snapshot ID: `MCxlMWE4MTk0NzNkNTk2NmJjMjFiMGZjNGI0YmE4N2JhOGY5NDU1ZWU4`

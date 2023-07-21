@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 
 > A feel\-good soulful house  and disco selection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,190 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,235 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tW4VlEfDSS.md) - [plain]
 | 59 | [You Ain't Love \(feat\. Teni Tinks\)](https://open.spotify.com/track/3phnlxvLFtIwNo5ecUtLuN) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Teni Tinks](https://open.spotify.com/artist/4CeG8RL5NUdWJw8BeG5gQs) | [You Ain't Love \(feat\. Teni Tinks\)](https://open.spotify.com/album/1krEcbbjaM3WoCJq8FecTA) | 4:31 |
 | 60 | [Affirmations \(feat\. Anelisa Lamola\)](https://open.spotify.com/track/38SHfJCoV4jdpeqX5lcn6H) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [Anelisa Lamola](https://open.spotify.com/artist/4JQspweC9s9YK2H81Nylvi) | [Affirmations \(feat\. Anelisa Lamola\)](https://open.spotify.com/album/60OriTct3aVri7Q1btWjRo) | 3:21 |
 
-Snapshot ID: `MCw5MDBiNmQ1NjAwOGQyNjQ4NmZmMjhhZjRhYTdkOTdlYTIzMzEyNTc3`
+Snapshot ID: `MCxlMWE0MGE2ZjdmMzZhZDUxYjIzZGViOWRjZTU5NzI2MjM0ZDZmMzMx`

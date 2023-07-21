@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLEN7aqioXM.md) - [plain]
 
 > Equal parts nostalgic synthwave sounds and modern production.
 
-[Spotify](https://open.spotify.com/user/spotify) - 946,438 likes - 150 songs - 10 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 946,694 likes - 150 songs - 10 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLEN7aqioXM.md) - [plain]
 | 149 | [Nostalgie](https://open.spotify.com/track/7yO4fWo877xXUlizCP2Xn0) | [Atrey](https://open.spotify.com/artist/73S1zHIBGAuJyjdDIEELqw) | [Nostalgie](https://open.spotify.com/album/5sXsIIlGgRm5rTuA4bYycO) | 4:15 |
 | 150 | [Spaceship Gurl \- Dream Fiend Remix](https://open.spotify.com/track/1ODc1DUTRidGBie9pZhTaS) | [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83), [Dream Fiend](https://open.spotify.com/artist/5L6COTBfO2KjrJgFYe96Q7) | [Home \(Remixed\)](https://open.spotify.com/album/3EftlF1eioHd4pxx6Lw3og) | 4:04 |
 
-Snapshot ID: `MCxkM2Y2NmU4NmYyNDU4ZmMxYmEyZjZiM2Q0ZWMwNTc0YWVmY2Q2ZGQy`
+Snapshot ID: `MCwwZjdmNzU3MzM1MWNlYjU5ZmY2OGVhNTNjNGRjZWFjYjNiNzY2ODE4`

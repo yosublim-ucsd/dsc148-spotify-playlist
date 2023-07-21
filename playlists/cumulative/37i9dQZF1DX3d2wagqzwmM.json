@@ -400,7 +400,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 160000,
       "name": "Bassman",
       "url": "https://open.spotify.com/track/0X8PiJHcTFmmUwsGpvtFik"
@@ -1170,6 +1170,28 @@
       "duration_ms": 178783,
       "name": "Crazy World",
       "url": "https://open.spotify.com/track/4YmeoAEc1wWiHVNnnCcgeB"
+    },
+    {
+      "album": {
+        "name": "CRESCENDO",
+        "url": "https://open.spotify.com/album/1LPhoR8nlHZ5EuDhwd7go0"
+      },
+      "artists": [
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218020,
+      "name": "CRESCENDO",
+      "url": "https://open.spotify.com/track/3jVmXFC8HWaCGsXDvsD7Ic"
     },
     {
       "album": {
@@ -3490,6 +3512,28 @@
       "duration_ms": 225346,
       "name": "Mercury",
       "url": "https://open.spotify.com/track/25dFcH5EsCJLMSmFDDJLT3"
+    },
+    {
+      "album": {
+        "name": "Metro",
+        "url": "https://open.spotify.com/album/2PjqXRSqBqvHWArQRYCNbS"
+      },
+      "artists": [
+        {
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+        },
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239585,
+      "name": "Metro",
+      "url": "https://open.spotify.com/track/6kkf975GwERykpvOTu7IXZ"
     },
     {
       "album": {
@@ -6700,7 +6744,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 138923,
       "name": "Whiskey Is My Holy Water",
       "url": "https://open.spotify.com/track/06BqWvPX05oFRxpMlNZZjh"

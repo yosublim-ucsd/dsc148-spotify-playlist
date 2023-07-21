@@ -539,6 +539,28 @@
     },
     {
       "album": {
+        "name": "Arrepios",
+        "url": "https://open.spotify.com/album/1eZP6tFCIjsZSPwLa1y4jg"
+      },
+      "artists": [
+        {
+          "name": "Salah",
+          "url": "https://open.spotify.com/artist/4vx0e5kKIYBc7kCNqVjuef"
+        },
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/3ocjm34azq21UtebolrtKj"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205000,
+      "name": "Arrepios",
+      "url": "https://open.spotify.com/track/31QRnnkN7BO8WdWqAbCg53"
+    },
+    {
+      "album": {
         "name": "Assassino",
         "url": "https://open.spotify.com/album/3gmvUc2omtD0XSZapd9Mv0"
       },
@@ -602,7 +624,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 162000,
       "name": "Atchim",
       "url": "https://open.spotify.com/track/1mGAJomfAhEh9IB9wYkM0m"
@@ -1023,6 +1045,24 @@
     },
     {
       "album": {
+        "name": "Cafun\u00e9",
+        "url": "https://open.spotify.com/album/28nSJpg47bARr21Jija0f8"
+      },
+      "artists": [
+        {
+          "name": "Julinho Ksd",
+          "url": "https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175221,
+      "name": "Cafun\u00e9",
+      "url": "https://open.spotify.com/track/5f4gri8xbphuUM1zuU3FKe"
+    },
+    {
+      "album": {
         "name": "All Star (PRODIGIA-TE)",
         "url": "https://open.spotify.com/album/5b4pbI8mHAg5HeDJKWDyKE"
       },
@@ -1155,6 +1195,28 @@
     },
     {
       "album": {
+        "name": "CASTELOS DE AREIA",
+        "url": "https://open.spotify.com/album/2Ejc0zsiqVsyRZkSde2YIH"
+      },
+      "artists": [
+        {
+          "name": "Codie",
+          "url": "https://open.spotify.com/artist/6572dH5AjosTkf97tnQ4pm"
+        },
+        {
+          "name": "Wayn Dior",
+          "url": "https://open.spotify.com/artist/6XyLWVAcLW4CczaRsArj8n"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163350,
+      "name": "CASTELOS DE AREIA",
+      "url": "https://open.spotify.com/track/1QquirkrYcoenI0mA3FRSJ"
+    },
+    {
+      "album": {
         "name": "Cattiveiro Freestyle",
         "url": "https://open.spotify.com/album/7rltR9y9SVvhWb7S0kjI8t"
       },
@@ -1196,6 +1258,24 @@
       "duration_ms": 196384,
       "name": "Chakras",
       "url": "https://open.spotify.com/track/3dbWR5RYjRmbtY6QIGNUs4"
+    },
+    {
+      "album": {
+        "name": "EKLIPSE",
+        "url": "https://open.spotify.com/album/4yEYSYeHyAwpLVGPnpSNOR"
+      },
+      "artists": [
+        {
+          "name": "Kush",
+          "url": "https://open.spotify.com/artist/0CwAQrSu25Y0N4l7APfHKj"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164415,
+      "name": "CHAMA ACESA",
+      "url": "https://open.spotify.com/track/601OmwJ2gooPbZO16h8xy3"
     },
     {
       "album": {
@@ -1280,7 +1360,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 148800,
       "name": "Chega",
       "url": "https://open.spotify.com/track/1psUaDt0q79nmCYQFjrPfx"
@@ -3280,7 +3360,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 145100,
       "name": "Louca Life",
       "url": "https://open.spotify.com/track/5qzscOXVEdzhRw8cXe4Bso"
@@ -4700,7 +4780,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 192000,
       "name": "Paper",
       "url": "https://open.spotify.com/track/2eSHRVgM4kA1KcEzfSQaeA"
@@ -5846,6 +5926,24 @@
       "duration_ms": 157714,
       "name": "teach me how to love",
       "url": "https://open.spotify.com/track/6XksotmRPuJoJot5Po8THO"
+    },
+    {
+      "album": {
+        "name": "TELELE",
+        "url": "https://open.spotify.com/album/1wmBYJlqmqLKRUnShUYhOQ"
+      },
+      "artists": [
+        {
+          "name": "Kappa Jotta",
+          "url": "https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "TELELE",
+      "url": "https://open.spotify.com/track/6icQRKoMeolKYBV5WKIBv3"
     },
     {
       "album": {

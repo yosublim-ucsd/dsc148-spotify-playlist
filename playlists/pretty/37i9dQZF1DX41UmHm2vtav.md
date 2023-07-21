@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 
 > Entre na onda com hits tropicais e remixes para curtir a praia com amigos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,663 likes - 70 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 425,878 likes - 70 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX41UmHm2vtav.md) - [plain]
 | 69 | [Praia \(Sem Sair de Casa\) \[Remix\]](https://open.spotify.com/track/6Dz51jWucpeq8NF8b9uYaa) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH), [Helen Sancho](https://open.spotify.com/artist/5eLgTktL12pRSvOKnGLbYa) | [Praia \(Sem Sair de Casa\) \[Remix\]](https://open.spotify.com/album/5Lega6xw98Kmv2058Qml4D) | 3:11 |
 | 70 | [Evoluiu \- Rakka & Onabeat Remix](https://open.spotify.com/track/6NwcscnUNdlBsPzGgZeObZ) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Rakka](https://open.spotify.com/artist/2GNfI7g7glAR1JBuvU0vL5), [Sodré](https://open.spotify.com/artist/07qgzS86XBNsyrY6MAVDAc) | [Evoluiu \(Rakka & Onabeat Remix\)](https://open.spotify.com/album/50yBv8IH7yh1az9WApeLQr) | 2:52 |
 
-Snapshot ID: `MCxiYzc3NWU1ZTIxNWZhNTRmMjkxNTc2ODA4N2UwZjEwMjg4ZTYxMjkw`
+Snapshot ID: `MCxiYTgyYWFiMDg1Njk2ZTBkMGY1YTk5M2JlN2Q1YzdkOTQ2YWZkZDBh`

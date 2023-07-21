@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 
 > Future K\-Pop hits! Cover: ZEROBASEONE
 
-[Spotify](https://open.spotify.com/user/spotify) - 768,861 likes - 51 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 769,001 likes - 51 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FcAKI5Nhzq.md) - [plain]
 | 50 | [LEMON \(Feat\. SOLE, MINO\)](https://open.spotify.com/track/1NZDEgM9f7j5l447FAcHYq) | [Padi](https://open.spotify.com/artist/2SZEuuHNzveriZr2YtUFj5), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt), [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [LEMON](https://open.spotify.com/album/6zfZDAVgp6WPIKkg1b0tdF) | 3:20 |
 | 51 | [Buck](https://open.spotify.com/track/1BCONvj86ada7Wbr7v0irk) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [DIFF](https://open.spotify.com/album/6mU3As6giMDJU8kV6Hx65B) | 2:04 |
 
-Snapshot ID: `MCwwOTBmYzJkYWVjZTZjMDdhMzBiNGE3YmYzZmEwMDU5Y2Y5MDc4MGVm`
+Snapshot ID: `MCxlOWE5YzU2MTc5NzNiMGJjOThlMGNhY2JmOWI4Zjg0YjYzZGMzNzkw`

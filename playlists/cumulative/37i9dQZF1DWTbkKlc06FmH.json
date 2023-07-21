@@ -776,7 +776,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 259713,
       "name": "BETTY",
       "url": "https://open.spotify.com/track/1sZMEQ5l9HCmasdqtxd5hY"
@@ -1108,6 +1108,24 @@
       "duration_ms": 229536,
       "name": "Candle Light",
       "url": "https://open.spotify.com/track/1xsgBj3O1MchwVBa6ckwXx"
+    },
+    {
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7ChLJ2d4pLNKIrLSuGl8Df"
+      },
+      "artists": [
+        {
+          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
+          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201022,
+      "name": "Candlelight - Spotify Singles",
+      "url": "https://open.spotify.com/track/326EM9zAMPmr1JkGtzHnH6"
     },
     {
       "album": {
@@ -2206,7 +2224,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-19",
+      "date_removed": null,
       "duration_ms": 261122,
       "name": "First Love - 2022 Mix",
       "url": "https://open.spotify.com/track/0PvuVoqa1IHCnTrNnltS70"
@@ -4238,7 +4256,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-19",
+      "date_removed": null,
       "duration_ms": 148571,
       "name": "move",
       "url": "https://open.spotify.com/track/2Ryp5LkAWyJwRqoFd8N7Kk"
@@ -5198,7 +5216,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 232202,
       "name": "Passione",
       "url": "https://open.spotify.com/track/5kv3DjlfH5GLQAKHOsS7zv"
@@ -5614,6 +5632,28 @@
       "duration_ms": 351546,
       "name": "S.O.L",
       "url": "https://open.spotify.com/track/0g39c1wm3U7lTBTjmXF5II"
+    },
+    {
+      "album": {
+        "name": "sad girl",
+        "url": "https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        },
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "sad girl",
+      "url": "https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM"
     },
     {
       "album": {
@@ -6468,7 +6508,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 281053,
       "name": "Summum Bonum",
       "url": "https://open.spotify.com/track/1QYoKJcQyYDlXXrNRJMk6q"
@@ -7578,7 +7618,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 186000,
       "name": "WE'LL DIE THIS WAY",
       "url": "https://open.spotify.com/track/28nI6Aum8oazhOQ6tsbI7t"

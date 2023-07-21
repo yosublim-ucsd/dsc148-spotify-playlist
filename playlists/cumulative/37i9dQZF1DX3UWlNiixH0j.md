@@ -4,7 +4,7 @@
 
 > The freshest indie sounds from Japan\. 日本のインディー・サウンドを特集。Cover: Helsinki Lambda Club
 
-652 songs - 1 day 16 hr 43 min
+653 songs - 1 day 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [Ravel](https://open.spotify.com/track/4LGHishH8X6vGpF58Y8PCd) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [fab](https://open.spotify.com/album/7iCqvrw9Nrvh2199sUwzzT) | 3:39 | 2023-01-12 | 2023-01-25 |
 | [REACH!](https://open.spotify.com/track/3sVZBZLf3JfnTCHeuX0KeK) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [REACH!](https://open.spotify.com/album/0O6N7EfLklBJ6o4y2J7xb7) | 3:39 | 2023-01-12 | 2023-02-01 |
 | [Ready To Say Goodbye \- feat\. Misi Ke](https://open.spotify.com/track/7kx2HMEHrRyi3nhlhnDGot) | [Fake Creators](https://open.spotify.com/artist/61QSgy6VGii6CLMcAGJ685), [LITE](https://open.spotify.com/artist/0TF6B1cp2QZXLE0NjhTMT9), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [Misi Ke](https://open.spotify.com/artist/4rH8xGMB4dEATlRJVzPCvl) | [Ready To Say Goodbye \(feat\. Misi Ke\)](https://open.spotify.com/album/2wSTNJxMq78DSnNemgrk2D) | 3:23 | 2023-04-04 | 2023-05-08 |
+| [Reef Chorus](https://open.spotify.com/track/1NKE5EXQ6gucJtyl4WuLGJ) | [Half Mile Beach Club](https://open.spotify.com/artist/7B6BN3NuLRQHD9QMENwB8e) | [Reef Chorus](https://open.spotify.com/album/5mX6krPHBq8N2NQP3LtXjK) | 5:59 | 2023-07-20 |  |
 | [resist](https://open.spotify.com/track/6khuTEUHWdsmBP0mq4OPUK) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [resist](https://open.spotify.com/album/5Ra8mfJupN7wOuDJaCAdOi) | 3:26 | 2023-01-12 | 2023-02-08 |
 | [Rikka](https://open.spotify.com/track/23Iupm2PXlVn3bkwPBpHT5) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [SHITSURAI](https://open.spotify.com/album/2xHbUNFhiKHl8S0ap73LoK) | 3:19 | 2023-02-07 | 2023-02-22 |
 | [river relief](https://open.spotify.com/track/1ZntirEoxDFUdSpmuFWtEw) | [PAS TASTA](https://open.spotify.com/artist/38XISC5BMSTkAuKwniV2AS), [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [GOOD POP](https://open.spotify.com/album/0UZTyHGT18tMmP9fILvWpe) | 4:00 | 2023-03-16 | 2023-03-29 |
@@ -571,7 +572,7 @@
 | [微風](https://open.spotify.com/track/1Fu1Zhso5GXOqn7T2LN22x) | [影山朋子](https://open.spotify.com/artist/16RnOresj3KAOGUKXpyscp) | [微風](https://open.spotify.com/album/6aUCLekBUGPPdn71mfheiw) | 3:09 | 2023-02-21 | 2023-03-01 |
 | [心炉](https://open.spotify.com/track/0Dhw21dqYzexZQ8XiTRmpo) | [Houkago Hotal](https://open.spotify.com/artist/6CTXHqUj5LQSZXGIujgK0h) | [心炉](https://open.spotify.com/album/6Sin3DevPSzMdkW3zBWzYF) | 4:05 | 2023-07-11 | 2023-07-19 |
 | [忘れさせて](https://open.spotify.com/track/5IXxkcxGm9Tk0DmeH8YtV8) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [Indoor Newtown Collective](https://open.spotify.com/album/2bEq5HpMoGQRikWSVJEacq) | 4:07 | 2023-03-07 | 2023-03-25 |
-| [忘れたい](https://open.spotify.com/track/6iPgeH5Zk0sV2Fdh4cxcWf) | [mitsume](https://open.spotify.com/artist/59tUUyuaTFMty5kJE9Ojrq) | [忘れたい](https://open.spotify.com/album/2z3WbukYp2wJGxKXzU1u2k) | 3:22 | 2023-04-11 |  |
+| [忘れたい](https://open.spotify.com/track/6iPgeH5Zk0sV2Fdh4cxcWf) | [mitsume](https://open.spotify.com/artist/59tUUyuaTFMty5kJE9Ojrq) | [忘れたい](https://open.spotify.com/album/2z3WbukYp2wJGxKXzU1u2k) | 3:22 | 2023-04-11 | 2023-07-21 |
 | [急げ!!!](https://open.spotify.com/track/0CRf9ovluQV67yFMoVivTY) | [SATOH](https://open.spotify.com/artist/5JHlNfEowjO3TBglD42vAi) | [BORN IN ASIA](https://open.spotify.com/album/1hxqiqdMhB96Aq0uzgazNM) | 2:06 | 2023-03-14 | 2023-03-16 |
 | [恋するシーサイド](https://open.spotify.com/track/0al7KwZp5wowqSxcF1G7V5) | [sucola](https://open.spotify.com/artist/7L6CL6GiXxBDPeeV8eoWrZ), [お茶の間天国](https://open.spotify.com/artist/4CiBaomluFQBPUA9L0Sg9B) | [恋するシーサイド](https://open.spotify.com/album/0dVZvTD3E8jqySSUJfdh3X) | 4:36 | 2023-02-07 | 2023-02-22 |
 | [恋のジャーナル](https://open.spotify.com/track/7ue4j1Jq6f1xdgH5LXIxW6) | [THE 2](https://open.spotify.com/artist/668YZEv91Ux6vBKFwc3NLk) | [恋のジャーナル](https://open.spotify.com/album/1oRp7okGGR1nfSNBirPdwX) | 3:40 | 2023-06-02 |  |

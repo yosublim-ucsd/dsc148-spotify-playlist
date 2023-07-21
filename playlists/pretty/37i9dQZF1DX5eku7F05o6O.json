@@ -1,12 +1,12 @@
 {
   "description": "Le plus beau, le plus triste. Photo: Alexandra Streliski",
-  "num_followers": 3529,
+  "num_followers": 3532,
   "original_name": "Tout doux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5Y2ZiZDc3OGY5YTk0MzM5MzY4OTUwYjBmMDBmYzI3MDUwN2Y2YWIy",
+  "snapshot_id": "MCwwMWM4OGZlY2RiZmRlNDgxZGQyYWEwMDNhYWZhYzhhNjJmNjhkNzZj",
   "tracks": [
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Le plein de r\u00e9confort",
-        "url": "https://open.spotify.com/album/1KTXKn0b9CCX1jrK1fJ96Z"
-      },
-      "artists": [
-        {
-          "name": "Marie-Ange",
-          "url": "https://open.spotify.com/artist/2t76M9H9KJ4XazdAuVGaOR"
-        }
-      ],
-      "duration_ms": 215295,
-      "name": "Le plein de r\u00e9confort",
-      "url": "https://open.spotify.com/track/0zIxFGUFxSX6bsvi5rGpso"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Ta Chance",
         "url": "https://open.spotify.com/album/6FOgtlRxXBvZBVesqVYH6T"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 199812,
       "name": "Ce monde",
       "url": "https://open.spotify.com/track/2mUWSp5aSbvSCNeW18SE5I"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Le plein de r\u00e9confort",
+        "url": "https://open.spotify.com/album/3vkPYDNAcj1AeHtkrau0bd"
+      },
+      "artists": [
+        {
+          "name": "Marie-Ange",
+          "url": "https://open.spotify.com/artist/2t76M9H9KJ4XazdAuVGaOR"
+        }
+      ],
+      "duration_ms": 215295,
+      "name": "Le plein de r\u00e9confort",
+      "url": "https://open.spotify.com/track/5bK1QSJQr6bzmw14C38cB8"
     }
   ],
   "unique_name": "Tout doux",

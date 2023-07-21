@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX96miwkmVnVt.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX96miwkmVnVt) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX96miwkmVnVt)
 
-### [Mixtape: Arlo Parks "drum tones"](https://open.spotify.com/playlist/37i9dQZF1DX96miwkmVnVt)
+### [Mixtape \#1 Arlo Parks "drum tones"](https://open.spotify.com/playlist/37i9dQZF1DX96miwkmVnVt)
 
 > Arlo's selections "of the crunchiest and most singular drums on the planet"\. Welcome to mixtape, a curator's playground.
 

@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: Lukas Nelson and Promise of the Real
 
-483 songs - 1 day 5 hr 51 min
+484 songs - 1 day 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -382,7 +382,8 @@
 | [Step In](https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [I Be Trying](https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY) | 2:35 | 2022-07-22 | 2022-10-29 |
 | [Step In](https://open.spotify.com/track/3NG5DtW4VQT7DjNzWtVNTy) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Step In](https://open.spotify.com/album/3Ia0YigWnUyqgjoLgSnFCg) | 2:35 | 2021-12-17 | 2022-07-29 |
 | [Still Dreaming](https://open.spotify.com/track/58sTNGOgZvtVanBay1EStD) | [Daniel Romano](https://open.spotify.com/artist/2kTXvMOmrHVjVewErG5kHD) | [Cobra Poems](https://open.spotify.com/album/56iMOzpLs06QDhpkgxxDsb) | 3:03 | 2021-12-17 | 2022-01-22 |
-| [Still Here](https://open.spotify.com/track/4sFf1zh6NkOG3YyfE8LcBD) | [Rissi Palmer](https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ), [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs) | [Still Here](https://open.spotify.com/album/45f44m26ubro0tEMbeLV6T) | 3:42 | 2023-03-24 |  |
+| [Still Here](https://open.spotify.com/track/4WdIV3pE18PT2q7CzIB58l) | [Rissi Palmer](https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ), [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs) | [Still Here](https://open.spotify.com/album/2pqkDXu8l47coBQGzSnkhg) | 3:41 | 2023-07-14 |  |
+| [Still Here](https://open.spotify.com/track/4sFf1zh6NkOG3YyfE8LcBD) | [Rissi Palmer](https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ), [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs) | [Still Here](https://open.spotify.com/album/45f44m26ubro0tEMbeLV6T) | 3:42 | 2023-03-24 | 2023-07-21 |
 | [Straight and Narrow](https://open.spotify.com/track/40vKwNlXXKUmQMGceAoEpy) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Straight and Narrow](https://open.spotify.com/album/0floBXCzvTvVMR3gXWZBav) | 3:19 | 2023-05-19 |  |
 | [Strong](https://open.spotify.com/track/7aom4QAPfRe5loOwvUqT79) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [How the Mighty Fall](https://open.spotify.com/album/7jo6e3KUvEk7DqwfI9eS6w) | 4:31 | 2022-02-22 | 2023-03-11 |
 | [Struggle](https://open.spotify.com/track/6SAeWIxjMvNkzElv4cz43s) | [Leon Timbo](https://open.spotify.com/artist/5sh0bpSEIvnWiJxZKFhJ8S) | [Lovers And Fools, Vol\. 2](https://open.spotify.com/album/514CYU9q0GHkgm481oj3U6) | 4:40 | 2022-06-17 | 2023-04-15 |

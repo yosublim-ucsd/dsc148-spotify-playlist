@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "Exceptionally vivid Swahili love stories for you and yours. Cover: Platform",
+  "description": "Exceptionally vivid Swahili love stories for you and yours. Cover: Wanavokali",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -289,6 +289,24 @@
     },
     {
       "album": {
+        "name": "Hawataweza",
+        "url": "https://open.spotify.com/album/5DS0VEV7sltoi329nDx1I0"
+      },
+      "artists": [
+        {
+          "name": "Wanavokali",
+          "url": "https://open.spotify.com/artist/0JeZtZ5PnJVYLsXDZsKKMP"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "Hawataweza",
+      "url": "https://open.spotify.com/track/4P94MmzUvIwY3Jc6X4mzN0"
+    },
+    {
+      "album": {
         "name": "Hoi",
         "url": "https://open.spotify.com/album/2bzN3eovanDiVHhnW9afer"
       },
@@ -380,7 +398,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 223373,
       "name": "I Wish",
       "url": "https://open.spotify.com/track/4GIfPrNdScX8VS7uL931G4"
@@ -728,7 +746,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 141818,
       "name": "Matozo",
       "url": "https://open.spotify.com/track/2WPvGjnBdOcXGPW9qrNGY7"
@@ -1746,6 +1764,28 @@
       "duration_ms": 228705,
       "name": "Umeme",
       "url": "https://open.spotify.com/track/3CxpOg8kGPAJRFG3S0j1kr"
+    },
+    {
+      "album": {
+        "name": "Umenipata",
+        "url": "https://open.spotify.com/album/2oJobikik4V1YQ6hr4Wzpi"
+      },
+      "artists": [
+        {
+          "name": "Shetta",
+          "url": "https://open.spotify.com/artist/1UaXKMZaYJipBoWQS9XdCT"
+        },
+        {
+          "name": "Platform",
+          "url": "https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178290,
+      "name": "Umenipata",
+      "url": "https://open.spotify.com/track/1LRwzKCREJGQhQJm1XDGMN"
     },
     {
       "album": {

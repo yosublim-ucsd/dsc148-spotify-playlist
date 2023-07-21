@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 
 > The perfect soundtrack to the holiday season!
 
-[Spotify](https://open.spotify.com/user/spotify) - 133,649 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,638 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5T5XRP5VmUL.md) - [plain]
 | 99 | [What Child Is This](https://open.spotify.com/track/0lEEDHdUyqVQKClt7cVUcF) | [Natalie MacMaster](https://open.spotify.com/artist/4ybzO54FX2pbiKx209CB0t), [Donnell Leahy](https://open.spotify.com/artist/7zFuGV4X2lsYCF2QRZOCBu) | [A Celtic Family Christmas](https://open.spotify.com/album/5VK7arkKtcMJBTJOlB34cS) | 4:14 |
 | 100 | [Rockin’ Around the Christmas Tree](https://open.spotify.com/track/2JzGaiF4WNWJMidhrD37Dh) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Rockin’ Around the Christmas Tree](https://open.spotify.com/album/6W96XKVnsraRw75ST4PGMq) | 2:00 |
 
-Snapshot ID: `MCxhYmQyYTRlZWM4NTkzZDQ1NGZkNzBmNWUyYzc4ZjhiZGQ0OGIwNjU5`
+Snapshot ID: `MTY4NjkxOTczMiwwMDAwMDAwMDQxMzZiY2Q4ZWZmN2RjODg1MmEwYTBmMjliMTVlMDE4`

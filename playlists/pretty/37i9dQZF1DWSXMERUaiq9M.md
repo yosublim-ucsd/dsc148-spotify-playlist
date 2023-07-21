@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 ### [rave](https://open.spotify.com/playlist/37i9dQZF1DWSXMERUaiq9M)
 
-> celebrating a new generation of rave music feat\. southstar, DJ Gigola, Geo22, Charlotte Plank, TELESHOP & DJ Mell G
+> love peace techno
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,203 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,830 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 49 | [I Am Machine](https://open.spotify.com/track/7A8ec8nBw1BEwGgdSL5H90) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD), [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [I Am Machine](https://open.spotify.com/album/3m4demyPqalmJXRsKInCKi) | 6:17 |
 | 50 | [Addicted To Bass](https://open.spotify.com/track/1eF7w0zUVRMHPrcI1hGZcp) | [Farrago](https://open.spotify.com/artist/40dlsb5MBbRdrB2hf8XnvU), [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Addicted To Bass](https://open.spotify.com/album/2gb7HXKVgDTBhdlug0xnfR) | 5:51 |
 
-Snapshot ID: `MCxhNTdlNWEzMDcwMWFmNTA5ODEyMjg4ZDBiYmMzNjQzMTFiZmY1ZmFl`
+Snapshot ID: `MCw4ZTE3ZWVhNzk1YzAyNGE2Mzk4MzRiMGM3ZTE4ODQ4NDZkMmIwN2Y2`

@@ -4,7 +4,7 @@
 
 > 
 
-216 songs - 12 hr 53 min
+222 songs - 13 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,11 +25,13 @@
 | [Awake](https://open.spotify.com/track/6mm6wHRP4dAqQeIglbHeQg) | [Tomkillsjerry](https://open.spotify.com/artist/2eT3qZJw0CLj68fEjP9v2q) | [Narcoleptic Tendencies](https://open.spotify.com/album/3l9I2pyZBPXZv3fK2OWfDC) | 2:42 | 2020-08-10 |  |
 | [Away](https://open.spotify.com/track/7sUpgCrgATAA9dJdIYkXpt) | [Tokyo Tears](https://open.spotify.com/artist/4zEUlt3AmxKcL9CtFNIz32) | [Away](https://open.spotify.com/album/3yPvTWkWleNhX1iIvSa2G7) | 3:20 | 2021-09-27 |  |
 | [Azimuth](https://open.spotify.com/track/2S88ROKw2xsY0j1Uw2OxpS) | [Skit](https://open.spotify.com/artist/6ejpWdV51Wxr3azIpJXwoQ), [Klimeks](https://open.spotify.com/artist/5JQljNQvDpk1hhKpJHpwNU) | [wave 001](https://open.spotify.com/album/4r1pxotqP5m7dkc9j5kzn0) | 3:56 | 2018-11-28 |  |
+| [Become Human](https://open.spotify.com/track/1e8XAV2CwnyR3h41Wg8v96) | [Unnholy](https://open.spotify.com/artist/5um0tGaoeKhLVjLjPFG0UX) | [Become Human](https://open.spotify.com/album/4fu1ygb3yJABq9cF07SE9M) | 3:43 | 2023-07-20 |  |
 | [Before the Dawn](https://open.spotify.com/track/588vIX446PBPjGyYk2sTgH) | [Fraunhofer Diffraction](https://open.spotify.com/artist/3s001vzLUM01WSssGvHhXA) | [A Place to Drown the Dreams](https://open.spotify.com/album/66McoXxes1kWgoeq3Tu660) | 3:05 | 2018-11-27 |  |
 | [Beyond Evo](https://open.spotify.com/track/7fI6AXFogX1QMWFQ0aanI6) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Future Love Story](https://open.spotify.com/album/7wzFvKcmHu81lko3S4md1n) | 3:20 | 2019-12-30 |  |
 | [Blame](https://open.spotify.com/track/26bE28MknenbrYV9OFzJ6S) | [Divine](https://open.spotify.com/artist/6nsJ6vUJ9WqOlAzHiVv30v) | [Blame](https://open.spotify.com/album/3FKwFxzvXJLNhrRUy33pJV) | 3:34 | 2018-11-27 |  |
 | [Blindspot](https://open.spotify.com/track/5xXpd5FzXOVVCwCL2fgTxp) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp) | [Radical](https://open.spotify.com/album/4dn52eV4gt2YcYxcKd1HZl) | 2:19 | 2023-02-28 |  |
 | [Bloody Tear](https://open.spotify.com/track/0Al16Wsj4pkExUadvNLF7C) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp) | [Universe of the Past](https://open.spotify.com/album/1GX9tOFuNisK62WpFVKhbu) | 2:39 | 2019-11-05 |  |
+| [Broken Scheme](https://open.spotify.com/track/1MuOETSfCubuhEqrL6xfOL) | [Unnholy](https://open.spotify.com/artist/5um0tGaoeKhLVjLjPFG0UX) | [Sound of Silence](https://open.spotify.com/album/6VCKrEWH8rwIzOJdry7FRR) | 3:16 | 2023-07-20 |  |
 | [CARBON MIST](https://open.spotify.com/track/3RuWS8JiPtAjmEPW6pNB6Z) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp) | [CARBON MIST](https://open.spotify.com/album/2tnaIqXfakuKXpwvXQmi9G) | 2:40 | 2021-10-14 |  |
 | [Castle \(feat\. Madi Larson\)](https://open.spotify.com/track/7wTPOhjjOt02hjVUOaOD11) | [Trashlord](https://open.spotify.com/artist/4CRAZ1v62qreoYTNrbP5Yj), [Madi Larson](https://open.spotify.com/artist/2heDXXeSmrfHsjBATaCUXC) | [wave 002](https://open.spotify.com/album/0S1PNLnoLH1CdncU5H724W) | 3:37 | 2019-05-26 |  |
 | [Catch Your Breath \- Øfdream Remix](https://open.spotify.com/track/0XSy0griub1vc7iTwJISe4) | [Verasect](https://open.spotify.com/artist/0qGXgOeaVWc7PXMJzHMOHW), [Øfdream](https://open.spotify.com/artist/70P3LvwslDBQicUfL2Ix02) | [Awakenings](https://open.spotify.com/album/4OvNITf7iTLpNQdA3TW2vb) | 4:18 | 2021-06-05 |  |
@@ -84,6 +86,7 @@
 | [Geneva](https://open.spotify.com/track/2nNVyS2Q6SjekgeNaINwbi) | [Skeler](https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB) | [Geneva](https://open.spotify.com/album/7wlcYqBcp40M0G4URfXSxY) | 2:55 | 2018-11-27 |  |
 | [Glimpse of Light](https://open.spotify.com/track/64ipP0vsRdSqJvIMe9nAIV) | [Nastya Kazantseva](https://open.spotify.com/artist/3wF9SXMmYh6VkJYd357pjH) | [Glimpse of Light](https://open.spotify.com/album/3QWP1iwYKIX0uJLiH3W0zO) | 3:51 | 2022-01-17 |  |
 | [Going Home](https://open.spotify.com/track/7oyA6LqAPTwCTgI5ZOVPbf) | [Menual](https://open.spotify.com/artist/4GGRJDbyKd1ZnZizGpPoxi), [Spaceouters](https://open.spotify.com/artist/4WbV6iwik5OIUR9qfUF3h3) | [Affection](https://open.spotify.com/album/5N487WGwRxa6mrtiwhC7sZ) | 5:47 | 2019-02-10 |  |
+| [GRAVE](https://open.spotify.com/track/38PjAxXt90vy4DQuYx9AtS) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp) | [FORGOTTEN](https://open.spotify.com/album/64gLpVMi33iOIL7pC4kFNM) | 2:24 | 2023-07-20 |  |
 | [Half Light](https://open.spotify.com/track/0XYmQ1Mb8rsQgfwGt3qfYq) | [ÆSTRAL](https://open.spotify.com/artist/0WH6jkqBDDzQYQx3jSuNgL) | [Half Light](https://open.spotify.com/album/462bl0Nj38csKPFAGjRY1E) | 3:50 | 2018-11-27 |  |
 | [halon](https://open.spotify.com/track/2LnPKdEU56FEQ1Aj2zI0BK) | [niteboi](https://open.spotify.com/artist/2Ue601Op6mLGMwrQYjAOSW), [Halon](https://open.spotify.com/artist/6FsTyMvWygqPWyx4d1MvoT) | [halon](https://open.spotify.com/album/3TGEcdOhiA0jhfbThAyPif) | 3:23 | 2021-06-08 |  |
 | [Heal](https://open.spotify.com/track/065w89dQkaW7UAyhEy8SZG) | [Hnrk](https://open.spotify.com/artist/6DfFwDy29dLtFcmBA6qFYs), [foxwedding](https://open.spotify.com/artist/0DHLXYQowVvc8oQxp5Lrk3) | [wave 003](https://open.spotify.com/album/4DO3xx1RRiRaTHSTfIpBzt) | 2:59 | 2018-11-27 |  |
@@ -106,6 +109,7 @@
 | [Kyoto Nights](https://open.spotify.com/track/3HPPccmXhAPwA29y4CwI85) | [Ennja](https://open.spotify.com/artist/5VfsJtcTOUghb9eRPpif27) | [Kyoto Nights](https://open.spotify.com/album/1WxrAauUpnYNpY4QeAbXbq) | 3:31 | 2020-09-01 |  |
 | [Last Light](https://open.spotify.com/track/4vwRxp34m8TO3GCCG7o1Sl) | [Fraunhofer Diffraction](https://open.spotify.com/artist/3s001vzLUM01WSssGvHhXA) | [Fading](https://open.spotify.com/album/0W4JU95uzgoUkzxgAnpuMH) | 7:05 | 2018-11-27 |  |
 | [Let Off](https://open.spotify.com/track/600uPEYmDBWCzFf6fKz63H) | [Vacant](https://open.spotify.com/artist/30DoC8Ezpk2qU8yRMUzr1x) | [Let Off](https://open.spotify.com/album/6tDFLRJraBhBHwcUDRPD6N) | 3:20 | 2020-11-22 |  |
+| [LIBERTY](https://open.spotify.com/track/2uZCji4OCULmOAJE8yxprw) | [LXST CXNTURY](https://open.spotify.com/artist/4TS37lr3ZraUxBHS727sEp) | [FORGOTTEN](https://open.spotify.com/album/64gLpVMi33iOIL7pC4kFNM) | 3:24 | 2023-07-20 |  |
 | [Lifestream](https://open.spotify.com/track/4Ow784ahnFJQt86XNQiKbI) | [Skit](https://open.spotify.com/artist/6ejpWdV51Wxr3azIpJXwoQ) | [wave 003](https://open.spotify.com/album/4DO3xx1RRiRaTHSTfIpBzt) | 4:33 | 2018-11-27 |  |
 | [Lightspeed](https://open.spotify.com/track/4upMSh6rBk9W57VnpqMSHM) | [Noah B](https://open.spotify.com/artist/4F4w1Gkfja6wPJzuMKCLmk) | [South Hills](https://open.spotify.com/album/4FyBJF9NNfO9Irl0kD1XsV) | 4:49 | 2019-04-01 |  |
 | [Limit](https://open.spotify.com/track/5Fx4GDrdXHmfwmUdWVP839) | [Skeler](https://open.spotify.com/artist/7ks4LdnBvp6HUsmVJiKgsB), [Ytho](https://open.spotify.com/artist/5x0yHFCXMkXydFudgs6o3y) | [Limit](https://open.spotify.com/album/57C6FlZwT2L0p3pqemGmi5) | 3:25 | 2022-04-20 |  |
@@ -191,6 +195,7 @@
 | [The Colour](https://open.spotify.com/track/7hX9qdzPpw2CFYbj4LfCKE) | [Sibewest](https://open.spotify.com/artist/1GkZqUh9gC1kOFSwIFG5Hs) | [The Colour](https://open.spotify.com/album/4QGWNvtGBjBkLoQN0rT7gh) | 3:55 | 2018-11-27 |  |
 | [The Freedom Area \[3.3\]](https://open.spotify.com/track/2CIQ6X83rBDBU4vUERNaKd) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [The Freedom Area \[3.3\]](https://open.spotify.com/album/2NBJrq86LzbHhqbL8ehlDb) | 3:56 | 2018-11-27 |  |
 | [The Great Beast](https://open.spotify.com/track/7HQKsDrhyxWVflTFPSjZbD) | [Øfdream](https://open.spotify.com/artist/70P3LvwslDBQicUfL2Ix02) | [Anthology, Pt\. 2](https://open.spotify.com/album/3n4SeHfULyCQNQSOhsEUoY) | 4:00 | 2019-02-04 |  |
+| [The Way I See](https://open.spotify.com/track/27wl7yIZ85rbVhbJRkaiZD) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [The Way I See](https://open.spotify.com/album/2vB7xuI4LkJEmGSY4TmoRu) | 5:27 | 2023-07-20 |  |
 | [Thelema](https://open.spotify.com/track/098PU9y0wA153H6UI36uMy) | [Øfdream](https://open.spotify.com/artist/70P3LvwslDBQicUfL2Ix02) | [Øfdream: Anthology, Pt\. 1](https://open.spotify.com/album/5ErQ2Er5dxb26cG52Kizfj) | 3:29 | 2018-11-27 |  |
 | [These Words That I Can't Get Out](https://open.spotify.com/track/4p18yy3tvcpImMPyqcqN63) | [GENES](https://open.spotify.com/artist/6NWo7jtbACJUqqDCFtVfMx) | [These Words That I Can't Get Out](https://open.spotify.com/album/1SEllBq3SU29HDvWUZMEbv) | 4:25 | 2019-12-23 |  |
 | [Till We Fall](https://open.spotify.com/track/1seG2EJSgXLHCTPrCAdNXV) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Till We Fall](https://open.spotify.com/album/1T9CVQucGpQ1iGJGofzQVj) | 3:40 | 2020-12-08 |  |
@@ -207,6 +212,7 @@
 | [Undercover](https://open.spotify.com/track/1r3dIlrJgbGYmRh3mrzwNe) | [Lowly, Kim, Affectwave](https://open.spotify.com/artist/4W3IG9DQCjtsOzT6fiWcZV) | [MIDNIGHT2077](https://open.spotify.com/album/3dbVep2ee5uViw2rz6Dydj) | 3:21 | 2020-12-08 |  |
 | [UniRave](https://open.spotify.com/track/260sJHk2p9DYsAFjNiZld2) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [UniRave](https://open.spotify.com/album/20busc4osrQkmqjdShbqSP) | 4:03 | 2021-01-24 |  |
 | [Unit](https://open.spotify.com/track/2sm8BWfWikU7KySIiiflNj) | [Juche](https://open.spotify.com/artist/3GZ8Rfap7VxAOzABiZEXCL) | [Unit](https://open.spotify.com/album/5LZV7Y5AB4xV6drgi2BWRZ) | 3:28 | 2020-12-08 |  |
+| [Unity](https://open.spotify.com/track/23Bf7ad1zer3oampzY6dqX) | [NVRLUV](https://open.spotify.com/artist/6O8B8YvVVfCAehzlfCVRuc), [Unnholy](https://open.spotify.com/artist/5um0tGaoeKhLVjLjPFG0UX) | [Unity](https://open.spotify.com/album/2YpevPLe8ISCKIZGliB6Lj) | 3:33 | 2023-07-20 |  |
 | [Vacuum](https://open.spotify.com/track/6wi3qtoKT7v3dnXyxrEBDg) | [Woodju](https://open.spotify.com/artist/7iYTP3Gnpd8ZDFrr9gocBR) | [Undiscovered](https://open.spotify.com/album/1xwTjsaYZU4OhMbAPkWgZq) | 2:53 | 2018-12-01 |  |
 | [Vale](https://open.spotify.com/track/4FR2wKI8PXFMRJVsekEj64) | [Fraunhofer Diffraction](https://open.spotify.com/artist/3s001vzLUM01WSssGvHhXA) | [Scattering](https://open.spotify.com/album/1b0CSmlpQl7ztIcYe02wkM) | 4:13 | 2018-11-27 |  |
 | [Virus](https://open.spotify.com/track/4nVqKzVP6XPZPS4b34bHv1) | [Memphis.](https://open.spotify.com/artist/3ACzfvTTZISD00GrHxuGiv) | [Virus](https://open.spotify.com/album/5WxpjBOBwaoDlOCoIuh8G2) | 3:08 | 2020-06-27 |  |

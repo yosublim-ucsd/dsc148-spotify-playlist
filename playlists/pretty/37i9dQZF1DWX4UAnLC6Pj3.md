@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 
 > ¡Los éxitos de banda que necesitas! Virlán García & Panter Bélico en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,128,162 likes - 125 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,128,361 likes - 125 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 124 | [No Le Digas](https://open.spotify.com/track/6bSd8Ci51Q4AoBdhDNFuyG) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Edgardo Nuñez Con La Séptima Banda](https://open.spotify.com/album/23ZBJlR3UXpNAsYor1GzB4) | 3:25 |
 | 125 | [No Sé Qué Hacer](https://open.spotify.com/track/3deqAF6BY2oTiJgylyElNX) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Y Lo Volví a Hacer](https://open.spotify.com/album/5DtewXaWzI7IDVLeM58u0V) | 2:51 |
 
-Snapshot ID: `MCw2NTIwZGE2YzE2MjZhMGZmZDAzMDk4MjU3MDIyMjFkYWVhYzYzZjlh`
+Snapshot ID: `MCw1MDljZmEyZmExM2Q3OTZlZmQ3MmFmMTAxYzQ0YWY0ZmQ0MDMyNDA0`

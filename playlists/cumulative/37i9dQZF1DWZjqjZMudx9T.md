@@ -2,7 +2,7 @@
 
 ### [MANSIÓN REGGAETÓN](https://open.spotify.com/playlist/37i9dQZF1DWZjqjZMudx9T)
 
-> De la CALLE a la CIMA con Ryan Castro, Peso Pluma y SOG.
+> De la CALLE a la CIMA con Daddy Yankee, Feid & Yandel.
 
 250 songs - 14 hr 11 min
 

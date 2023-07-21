@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 
 > For all of us dancing on our own.
 
-[Spotify](https://open.spotify.com/user/spotify) - 550,548 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 550,749 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 | 74 | [My Kink Is Karma](https://open.spotify.com/track/17ikhYAxaFvhpRUJ52wtN4) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [My Kink Is Karma](https://open.spotify.com/album/4mZyB1ASr5fZA8vsG8jTLC) | 3:42 |
 | 75 | [Healing](https://open.spotify.com/track/2jgq1RlYLt4FZldm4KAfj2) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Healing](https://open.spotify.com/album/3sjbCpkd5bRaUuDMxKUy3s) | 3:07 |
 
-Snapshot ID: `MCw4ZTJmZDE5NThjNThmODg0NGU3YjAwMTFmNDI5NTUzYjk5ZTkzODUw`
+Snapshot ID: `MCxmYzNjMjAwOTk5MGUwM2Q5YjdjZTQ2ODk5YTgzOTFlYzY5MDkxZjll`

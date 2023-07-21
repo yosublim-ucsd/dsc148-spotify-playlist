@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8l0PIEOYVj.md) - [plain]
 
 > Future & melodic bass\. Cover: Dabin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,484 likes - 150 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,519 likes - 150 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8l0PIEOYVj.md) - [plain]
 | 149 | [Fight Or Flight](https://open.spotify.com/track/7L7pW3lHKv5TMKnygYq3a2) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY), [Bella Renee](https://open.spotify.com/artist/7od8NRvfdfAanx6IcY7JSa) | [Fight Or Flight](https://open.spotify.com/album/6i4ZtLtwQZj3BW4DIRIabC) | 3:10 |
 | 150 | [Sleepy Eyes](https://open.spotify.com/track/1xtQcZUH8YDKPEAGMgS41P) | [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159), [Ray Le Fanue](https://open.spotify.com/artist/5KbHk9IwiIF0fdu1AOJx29) | [Sleepy Eyes](https://open.spotify.com/album/2bIJRlNZNfuMacE6ZRIegc) | 2:43 |
 
-Snapshot ID: `MCxmYjM1NjA1YjE5NDgzYjc4NDc0NDFhMDFjOTE1NjZlNTYyNWIyNTdk`
+Snapshot ID: `MCw1Yjg4ZTVhYWViNWFiMDI0OGI1ZDM2MjY4MzA4ZjNhOTUyY2UxMmVm`

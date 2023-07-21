@@ -4,7 +4,7 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-812 songs - 2 day 3 hr 18 min
+813 songs - 2 day 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Blaze](https://open.spotify.com/track/5Pw2rjJVoTbMJlY8988bvn) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [Blaze](https://open.spotify.com/album/6mn2Cgy23BdXyC46L3bkiy) | 3:39 | 2022-05-28 | 2022-06-08 |
 | [BLESSLESS](https://open.spotify.com/track/1LYGHz2dPrAEsQqizcJRlP) | [Tielle](https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe) | [BLESSLESS](https://open.spotify.com/album/7GXg1ReGoputlT97XmOyvz) | 4:30 | 2022-06-23 | 2022-07-27 |
 | [Bloody Power Fame](https://open.spotify.com/track/6oshufDccwvnIwKCvKayb6) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Bloody Power Fame](https://open.spotify.com/album/4H9aESabZLTv3U8FEAxvsI) | 3:58 | 2022-06-30 | 2022-09-07 |
+| [bloomin'](https://open.spotify.com/track/7IGV9PfdVzqhdol3lgtnIs) | [Liyuu](https://open.spotify.com/artist/3KEJMe6WtlsRJP9qR3Juqn) | [bloomin'](https://open.spotify.com/album/0kRxrSqr36nVM58sq8vOPz) | 4:09 | 2023-07-21 |  |
 | [BLUE GIANT](https://open.spotify.com/track/6cNsewEICKlNmFT8q3i4b9) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [BLUE GIANT \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc) | 3:38 | 2023-02-16 | 2023-04-19 |
 | [BLUE GIANT \- 『BLUE GIANT』サウンドトラックより](https://open.spotify.com/track/1EKIT1QnEWYUlN3h20zZQF) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [BLUE GIANT \(『BLUE GIANT』サウンドトラックより\)](https://open.spotify.com/album/2bkSTglYLzxczTGUefP6U3) | 3:38 | 2023-02-16 | 2023-02-18 |
 | [Blue Velvet \- From CrosSing](https://open.spotify.com/track/1stcaK4Jiau9TzqkxujW8C) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Blue Velvet \- From CrosSing](https://open.spotify.com/album/6mjKUEAq098eWWgu5qze1Q) | 3:54 | 2022-12-20 | 2023-01-11 |
@@ -734,7 +735,7 @@
 | [暁光](https://open.spotify.com/track/4l4OxhHdAZuVcjoCHapPwk) | [Half time Old](https://open.spotify.com/artist/1zpGAwgdCoZw9CP4QlWq9l) | [暁光](https://open.spotify.com/album/3JX3ho78EjyYxBjLIOI0o1) | 3:29 | 2022-07-12 | 2022-09-30 |
 | [暴走少女愛伝茶茶](https://open.spotify.com/track/5XNm0oqvg9Fh9NHBWojXlx) | [アナーキー\(CV.ファイルーズあい\)](https://open.spotify.com/artist/3DmiPSqkarORlgPVa62WJQ), [ブルー\(CV.愛美\)](https://open.spotify.com/artist/7qVo7mbyWJKhs5yTB1c8LM), [ピンク\(CV.黒沢ともよ\)](https://open.spotify.com/artist/512onuaY0Mgx2C1JKf0AFG) | [Everything Happens for a reason/暴走少女愛伝茶茶](https://open.spotify.com/album/3JG61MSMf01PKs2rLv1GZn) | 1:33 | 2023-06-13 | 2023-07-07 |
 | [最果て](https://open.spotify.com/track/0GiepUHAIfTH1WzpHqtVXT) | [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [最果て](https://open.spotify.com/album/6JffqDdgFVwPOjHmLte6kC) | 3:00 | 2022-10-18 | 2023-01-13 |
-| [月の花](https://open.spotify.com/track/2ReyEk3kylmJ0YDC06xYp4) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [美少女戦士セーラームーンCosmos](https://open.spotify.com/artist/62m6gvhAcOlpnPTahsWXKe) | [月の花](https://open.spotify.com/album/2aY1P1qCT5zhsMaGDUKzwR) | 4:01 | 2023-05-25 |  |
+| [月の花](https://open.spotify.com/track/2ReyEk3kylmJ0YDC06xYp4) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [美少女戦士セーラームーンCosmos](https://open.spotify.com/artist/62m6gvhAcOlpnPTahsWXKe) | [月の花](https://open.spotify.com/album/2aY1P1qCT5zhsMaGDUKzwR) | 4:01 | 2023-05-25 | 2023-07-21 |
 | [未完成ドリーム!](https://open.spotify.com/track/3MVbG5259vPrYXUhX5JtQZ) | [SCHOOL IDOL MUSICAL](https://open.spotify.com/artist/0ac7G5NyL6NEnPTeozqUgd) | [未完成ドリーム!](https://open.spotify.com/album/1RnbfqigPmq2mFTikAHuDt) | 3:57 | 2022-12-13 | 2023-01-13 |
 | [械物](https://open.spotify.com/track/7KTFpmdmtPrLjJEwDzSXi7) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [械物](https://open.spotify.com/album/58Xglex1HKyErlO3VwkF45) | 3:43 | 2023-06-27 |  |
 | [楽園](https://open.spotify.com/track/6hjr5XVi41BRu8GSXZd6OZ) | [Soma Saito](https://open.spotify.com/artist/1O2VCqaEfk91iBO0Sgchvb) | [楽園](https://open.spotify.com/album/59Q8joj1UZPkJwLyD6c1te) | 5:20 | 2022-06-30 | 2022-07-29 |

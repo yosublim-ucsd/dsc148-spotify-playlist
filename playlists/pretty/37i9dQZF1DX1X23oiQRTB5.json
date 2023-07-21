@@ -1,35 +1,15 @@
 {
-  "description": "Ninho au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
-  "num_followers": 1419950,
+  "description": "Tiakola au top de la premi\u00e8re playlist de rap fran\u00e7ais !",
+  "num_followers": 1420626,
   "original_name": "PVNCHLNRS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNmY5ZjY5ZmMxNjEwOWZlMzlmZGViOTQ0OWFkZTI4M2U0YTU5Zjg2",
+  "snapshot_id": "MCwyZWY1NjMxYTI2NTZkMTM3MmJiYTQ4NWEwODlhNDZkMmQyNGIxZTUz",
   "tracks": [
     {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
-        "name": "NI",
-        "url": "https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad"
-      },
-      "artists": [
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 187057,
-      "name": "Eurostar (feat. Central Cee)",
-      "url": "https://open.spotify.com/track/3Iy4j2lCqW8BXGkFk21U6F"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
+      "added_at": "2023-07-20 22:00:00",
       "album": {
         "name": "M\u00e9lo",
         "url": "https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU"
@@ -45,7 +25,7 @@
       "url": "https://open.spotify.com/track/4wNyrbY6B2Okii8VeKo2B2"
     },
     {
-      "added_at": "2023-07-13 22:00:00",
+      "added_at": "2023-07-20 22:00:00",
       "album": {
         "name": "LA RUE",
         "url": "https://open.spotify.com/album/7IaBlF8e6NvoKSiE0SXRP1"
@@ -69,39 +49,27 @@
       "url": "https://open.spotify.com/track/7EO5oDxrq2dvYDgBjFvFYY"
     },
     {
-      "added_at": "2023-07-13 22:00:00",
+      "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "2069'",
-        "url": "https://open.spotify.com/album/50UFRkLAkzL731ZFWym4Vq"
+        "name": "NI",
+        "url": "https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad"
       },
       "artists": [
         {
-          "name": "PLK",
-          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
-        }
-      ],
-      "duration_ms": 183013,
-      "name": "Demain",
-      "url": "https://open.spotify.com/track/66TAAKeoOD0cFpVRug9IXZ"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
-        "name": "Carr\u00e9",
-        "url": "https://open.spotify.com/album/2oTwdgQB5duCr067NgoEOP"
-      },
-      "artists": [
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
         {
-          "name": "Werenoi",
-          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 162840,
-      "name": "Laboratoire",
-      "url": "https://open.spotify.com/track/2GMXeFK2Zz6DqUP5LT9NHz"
+      "duration_ms": 187057,
+      "name": "Eurostar (feat. Central Cee)",
+      "url": "https://open.spotify.com/track/3Iy4j2lCqW8BXGkFk21U6F"
     },
     {
-      "added_at": "2023-07-13 22:00:00",
+      "added_at": "2023-07-20 22:00:00",
       "album": {
         "name": "Liens du 100",
         "url": "https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2"
@@ -117,7 +85,39 @@
       "url": "https://open.spotify.com/track/0EzNyXyU7gHzj2TN8qYThj"
     },
     {
-      "added_at": "2023-07-13 22:00:00",
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "Carr\u00e9",
+        "url": "https://open.spotify.com/album/2oTwdgQB5duCr067NgoEOP"
+      },
+      "artists": [
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        }
+      ],
+      "duration_ms": 162840,
+      "name": "Laboratoire",
+      "url": "https://open.spotify.com/track/2GMXeFK2Zz6DqUP5LT9NHz"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "2069'",
+        "url": "https://open.spotify.com/album/50UFRkLAkzL731ZFWym4Vq"
+      },
+      "artists": [
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        }
+      ],
+      "duration_ms": 183013,
+      "name": "Demain",
+      "url": "https://open.spotify.com/track/66TAAKeoOD0cFpVRug9IXZ"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
       "album": {
         "name": "La faille",
         "url": "https://open.spotify.com/album/1jBSMXrJSzDX6GQnmqj5qL"
@@ -133,55 +133,7 @@
       "url": "https://open.spotify.com/track/4F1fVi7f1h1fN4FrwoyWMa"
     },
     {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
-        "name": "Finale - Nouvelle \u00c9cole",
-        "url": "https://open.spotify.com/album/0di4KeDALleQK2iV3R2YyS"
-      },
-      "artists": [
-        {
-          "name": "Dau",
-          "url": "https://open.spotify.com/artist/1UMnJFeGreEat6fHl5Ae1L"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Finale - Nouvelle \u00c9cole",
-      "url": "https://open.spotify.com/track/46NCn1HZ054Wy0o6H86teM"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
-        "name": "ALPHA (Parties 1 & 2)",
-        "url": "https://open.spotify.com/album/4z4PI0sYh7ynSU765oeHpS"
-      },
-      "artists": [
-        {
-          "name": "Djadja & Dinaz",
-          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
-        }
-      ],
-      "duration_ms": 155920,
-      "name": "Capitaine",
-      "url": "https://open.spotify.com/track/4f0ytSBF6dlKOIFQsfeemV"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
-        "name": "AMBER",
-        "url": "https://open.spotify.com/album/5WWOIsDogPoINEX7nEu6BD"
-      },
-      "artists": [
-        {
-          "name": "Zola",
-          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
-        }
-      ],
-      "duration_ms": 182067,
-      "name": "AMBER",
-      "url": "https://open.spotify.com/track/5UPpgOKi0UQMMMSzWWgJJe"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
+      "added_at": "2023-07-20 22:00:00",
       "album": {
         "name": "KMT",
         "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
@@ -201,59 +153,59 @@
       "url": "https://open.spotify.com/track/0i9RysNKssk6syOrKDX3U2"
     },
     {
-      "added_at": "2023-07-13 22:00:00",
+      "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "25 G",
-        "url": "https://open.spotify.com/album/7cFIpmcYcJWnGGPa5Z6ZhP"
+        "name": "ALPHA (Parties 1 & 2)",
+        "url": "https://open.spotify.com/album/4z4PI0sYh7ynSU765oeHpS"
       },
       "artists": [
         {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
         }
       ],
-      "duration_ms": 250120,
-      "name": "25 G",
-      "url": "https://open.spotify.com/track/7udslQ5whyH3BrDvk0Fj1j"
+      "duration_ms": 155920,
+      "name": "Capitaine",
+      "url": "https://open.spotify.com/track/4f0ytSBF6dlKOIFQsfeemV"
     },
     {
-      "added_at": "2023-07-13 22:00:00",
+      "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Liens du 100",
-        "url": "https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2"
-      },
-      "artists": [
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 226653,
-      "name": "Mr. Ocho",
-      "url": "https://open.spotify.com/track/1xLCwgQcF6bKncTJmRGGws"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
-        "name": "TOUTE LA JOURN\u00c9E (feat. Tiakola)",
-        "url": "https://open.spotify.com/album/6oi3iBbHDDAaAzMoG0UbgE"
+        "name": "AMBER",
+        "url": "https://open.spotify.com/album/5WWOIsDogPoINEX7nEu6BD"
       },
       "artists": [
         {
           "name": "Zola",
           "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
         }
       ],
-      "duration_ms": 168087,
-      "name": "TOUTE LA JOURN\u00c9E (feat. Tiakola)",
-      "url": "https://open.spotify.com/track/2nD4X3sHH2kZ1gWraTpe7u"
+      "duration_ms": 182067,
+      "name": "AMBER",
+      "url": "https://open.spotify.com/track/5UPpgOKi0UQMMMSzWWgJJe"
     },
     {
-      "added_at": "2023-07-13 22:00:00",
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "Carr\u00e9",
+        "url": "https://open.spotify.com/album/2oTwdgQB5duCr067NgoEOP"
+      },
+      "artists": [
+        {
+          "name": "Werenoi",
+          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "duration_ms": 216333,
+      "name": "Ciao",
+      "url": "https://open.spotify.com/track/3d7vLNeOXnzdBwUGbqklPE"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
       "album": {
         "name": "NO L\u00c8CHE \ud83d\udeab\ud83d\udc45 (feat. Fav\u00e9, Kerchak & Leto)",
         "url": "https://open.spotify.com/album/6HGMONyziFfUCEpMdwbzZn"
@@ -281,27 +233,23 @@
       "url": "https://open.spotify.com/track/6D1HiF2e3Z0F8FwQ5uLxwn"
     },
     {
-      "added_at": "2023-07-13 22:00:00",
+      "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Carr\u00e9",
-        "url": "https://open.spotify.com/album/2oTwdgQB5duCr067NgoEOP"
+        "name": "Liens du 100",
+        "url": "https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2"
       },
       "artists": [
         {
-          "name": "Werenoi",
-          "url": "https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh"
-        },
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
         }
       ],
-      "duration_ms": 216333,
-      "name": "Ciao",
-      "url": "https://open.spotify.com/track/3d7vLNeOXnzdBwUGbqklPE"
+      "duration_ms": 226653,
+      "name": "Mr. Ocho",
+      "url": "https://open.spotify.com/track/1xLCwgQcF6bKncTJmRGGws"
     },
     {
-      "added_at": "2023-07-13 22:00:00",
+      "added_at": "2023-07-20 22:00:00",
       "album": {
         "name": "Urus",
         "url": "https://open.spotify.com/album/00G85akdHnBoZJ3hSdjapJ"
@@ -317,27 +265,7 @@
       "url": "https://open.spotify.com/track/2A44J8NMBI9DKi0AZW2W84"
     },
     {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
-        "name": "Melvin de Paris",
-        "url": "https://open.spotify.com/album/75WnRZkxa6fotcpJgIlxUC"
-      },
-      "artists": [
-        {
-          "name": "Jok'air",
-          "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
-        },
-        {
-          "name": "Damso",
-          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
-        }
-      ],
-      "duration_ms": 202760,
-      "name": "Quoi de neuf b\u00e9b\u00e9",
-      "url": "https://open.spotify.com/track/69Nu2qG69WCvju2bZvrxlu"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
+      "added_at": "2023-07-20 22:00:00",
       "album": {
         "name": "La Gaule, Vol.1",
         "url": "https://open.spotify.com/album/0xkRuvISedgQKc7BesPxwP"
@@ -357,46 +285,10 @@
       "url": "https://open.spotify.com/track/16FTTvpIgihyei3EBNw1jd"
     },
     {
-      "added_at": "2023-07-13 22:00:00",
+      "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "M.A.N (Black Roses & Lost Feelings)",
-        "url": "https://open.spotify.com/album/0xGDZjmzBZfOUzn86WFPFE"
-      },
-      "artists": [
-        {
-          "name": "Josman",
-          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
-        }
-      ],
-      "duration_ms": 147720,
-      "name": "Intro",
-      "url": "https://open.spotify.com/track/6qvyN6NTUpdfOJRYjtSSd7"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
-        "name": "Mauvais",
-        "url": "https://open.spotify.com/album/539crVxyaWT2XJ5l3npt6c"
-      },
-      "artists": [
-        {
-          "name": "Mayo",
-          "url": "https://open.spotify.com/artist/4NYN8zAaPqtfM9MHFTmC0a"
-        },
-        {
-          "name": "Niska",
-          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
-        }
-      ],
-      "duration_ms": 166780,
-      "name": "Mauvais",
-      "url": "https://open.spotify.com/track/54UJEUIggHJVojkbMOtkZT"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
-        "name": "DIAMANT DU BLED",
-        "url": "https://open.spotify.com/album/2aSV2elXWxwezH9o71QOzo"
+        "name": "TOUTE LA JOURN\u00c9E (feat. Tiakola)",
+        "url": "https://open.spotify.com/album/6oi3iBbHDDAaAzMoG0UbgE"
       },
       "artists": [
         {
@@ -404,16 +296,68 @@
           "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
         },
         {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+        }
+      ],
+      "duration_ms": 168087,
+      "name": "TOUTE LA JOURN\u00c9E (feat. Tiakola)",
+      "url": "https://open.spotify.com/track/2nD4X3sHH2kZ1gWraTpe7u"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "Finale - Nouvelle \u00c9cole",
+        "url": "https://open.spotify.com/album/0di4KeDALleQK2iV3R2YyS"
+      },
+      "artists": [
+        {
+          "name": "Dau",
+          "url": "https://open.spotify.com/artist/1UMnJFeGreEat6fHl5Ae1L"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Finale - Nouvelle \u00c9cole",
+      "url": "https://open.spotify.com/track/46NCn1HZ054Wy0o6H86teM"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "25 G",
+        "url": "https://open.spotify.com/album/7cFIpmcYcJWnGGPa5Z6ZhP"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "duration_ms": 250120,
+      "name": "25 G",
+      "url": "https://open.spotify.com/track/7udslQ5whyH3BrDvk0Fj1j"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "Melvin de Paris",
+        "url": "https://open.spotify.com/album/75WnRZkxa6fotcpJgIlxUC"
+      },
+      "artists": [
+        {
+          "name": "Jok'air",
+          "url": "https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua"
+        },
+        {
           "name": "Damso",
           "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
         }
       ],
-      "duration_ms": 192213,
-      "name": "COEUR DE ICE (feat. Damso)",
-      "url": "https://open.spotify.com/track/6IGg7qsBvA5xbrwz3MNHWK"
+      "duration_ms": 202760,
+      "name": "Quoi de neuf b\u00e9b\u00e9",
+      "url": "https://open.spotify.com/track/69Nu2qG69WCvju2bZvrxlu"
     },
     {
-      "added_at": "2023-07-13 22:00:00",
+      "added_at": "2023-07-20 22:00:00",
       "album": {
         "name": "Carr\u00e9",
         "url": "https://open.spotify.com/album/2oTwdgQB5duCr067NgoEOP"
@@ -433,55 +377,79 @@
       "url": "https://open.spotify.com/track/41owO9tpVFmNAZ4IEpM2iK"
     },
     {
-      "added_at": "2023-07-13 22:00:00",
+      "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "C'est quand qu'il s'\u00e9teint ?",
-        "url": "https://open.spotify.com/album/6jOmhY1WNLOdrkbZD0o0rW"
+        "name": "M.A.N (Black Roses & Lost Feelings)",
+        "url": "https://open.spotify.com/album/0xGDZjmzBZfOUzn86WFPFE"
       },
       "artists": [
         {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+          "name": "Josman",
+          "url": "https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR"
         }
       ],
-      "duration_ms": 251266,
-      "name": "Entra\u00eenement",
-      "url": "https://open.spotify.com/track/10IQPICqgiB3TeUV2UcYqz"
+      "duration_ms": 147720,
+      "name": "Intro",
+      "url": "https://open.spotify.com/track/6qvyN6NTUpdfOJRYjtSSd7"
     },
     {
-      "added_at": "2023-07-13 22:00:00",
+      "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Freestyle LVL UP 2",
-        "url": "https://open.spotify.com/album/69poeNuEJvR2UGMqWDV8wF"
+        "name": "Mauvais",
+        "url": "https://open.spotify.com/album/539crVxyaWT2XJ5l3npt6c"
       },
       "artists": [
         {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+          "name": "Mayo",
+          "url": "https://open.spotify.com/artist/4NYN8zAaPqtfM9MHFTmC0a"
+        },
+        {
+          "name": "Niska",
+          "url": "https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV"
         }
       ],
-      "duration_ms": 149064,
-      "name": "Freestyle LVL UP 2",
-      "url": "https://open.spotify.com/track/7DOqkqVZuvPhKIAtVXjZo1"
+      "duration_ms": 166780,
+      "name": "Mauvais",
+      "url": "https://open.spotify.com/track/54UJEUIggHJVojkbMOtkZT"
     },
     {
-      "added_at": "2023-07-13 22:00:00",
+      "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Guapa",
-        "url": "https://open.spotify.com/album/11TrUfGHx1vsh3FsJuVYur"
+        "name": "Sign\u00e9",
+        "url": "https://open.spotify.com/album/0LQj4X4tGaXE4PwtZGQDuh"
       },
       "artists": [
         {
-          "name": "Guy2Bezbar",
-          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+          "name": "Booba",
+          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
         }
       ],
-      "duration_ms": 169593,
-      "name": "Guapa",
-      "url": "https://open.spotify.com/track/3Gl6hZ2HU7IRqPOF3r7xPd"
+      "duration_ms": 180968,
+      "name": "Sign\u00e9",
+      "url": "https://open.spotify.com/track/7gYpMsodGiFN0qMmz9FCTj"
     },
     {
-      "added_at": "2023-07-13 22:00:00",
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "DIAMANT DU BLED",
+        "url": "https://open.spotify.com/album/2aSV2elXWxwezH9o71QOzo"
+      },
+      "artists": [
+        {
+          "name": "Zola",
+          "url": "https://open.spotify.com/artist/54kCbQZaZWHnwwj9VP2hn4"
+        },
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "duration_ms": 192213,
+      "name": "COEUR DE ICE (feat. Damso)",
+      "url": "https://open.spotify.com/track/6IGg7qsBvA5xbrwz3MNHWK"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
       "album": {
         "name": "Maybach",
         "url": "https://open.spotify.com/album/2tuankgH55CwSsfXPTcMRu"
@@ -501,59 +469,39 @@
       "url": "https://open.spotify.com/track/2doTFAqat5o4dbFq9qUuLT"
     },
     {
-      "added_at": "2023-07-13 22:00:00",
+      "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "ALPHA",
-        "url": "https://open.spotify.com/album/6mHX3onyNT2xYveguxhrDm"
+        "name": "C'est quand qu'il s'\u00e9teint ?",
+        "url": "https://open.spotify.com/album/6jOmhY1WNLOdrkbZD0o0rW"
       },
       "artists": [
         {
-          "name": "Djadja & Dinaz",
-          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
         }
       ],
-      "duration_ms": 147000,
-      "name": "Pas l\u00e0",
-      "url": "https://open.spotify.com/track/2gH0sY8ATBTt01imXPZJdH"
+      "duration_ms": 251266,
+      "name": "Entra\u00eenement",
+      "url": "https://open.spotify.com/track/10IQPICqgiB3TeUV2UcYqz"
     },
     {
-      "added_at": "2023-07-13 22:00:00",
+      "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Sign\u00e9",
-        "url": "https://open.spotify.com/album/0LQj4X4tGaXE4PwtZGQDuh"
+        "name": "Guapa",
+        "url": "https://open.spotify.com/album/11TrUfGHx1vsh3FsJuVYur"
       },
       "artists": [
         {
-          "name": "Booba",
-          "url": "https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL"
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
         }
       ],
-      "duration_ms": 180968,
-      "name": "Sign\u00e9",
-      "url": "https://open.spotify.com/track/7gYpMsodGiFN0qMmz9FCTj"
+      "duration_ms": 169593,
+      "name": "Guapa",
+      "url": "https://open.spotify.com/track/3Gl6hZ2HU7IRqPOF3r7xPd"
     },
     {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
-        "name": "Peur (feat. Ziak)",
-        "url": "https://open.spotify.com/album/5eL561zvNW6ZwbuOxGMSvR"
-      },
-      "artists": [
-        {
-          "name": "Kerchak",
-          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
-        },
-        {
-          "name": "Ziak",
-          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
-        }
-      ],
-      "duration_ms": 190213,
-      "name": "Peur (feat. Ziak)",
-      "url": "https://open.spotify.com/track/7IXQrRgmHxWYWitSlyFY7z"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
+      "added_at": "2023-07-20 22:00:00",
       "album": {
         "name": "Philly",
         "url": "https://open.spotify.com/album/01dyrtieKEgLywMux9N9tP"
@@ -573,95 +521,43 @@
       "url": "https://open.spotify.com/track/0KZwbPHcktfHL3OCxXzoYu"
     },
     {
-      "added_at": "2023-07-13 22:00:00",
+      "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Sinc\u00e8rement",
-        "url": "https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y"
+        "name": "ALPHA",
+        "url": "https://open.spotify.com/album/6mHX3onyNT2xYveguxhrDm"
       },
       "artists": [
         {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
         }
       ],
-      "duration_ms": 143280,
-      "name": "Cod\u00e9ine 19",
-      "url": "https://open.spotify.com/track/3Q8qW4OUBQWLZaNLR9TxFr"
+      "duration_ms": 147000,
+      "name": "Pas l\u00e0",
+      "url": "https://open.spotify.com/track/2gH0sY8ATBTt01imXPZJdH"
     },
     {
-      "added_at": "2023-07-13 22:00:00",
+      "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Autobahn",
-        "url": "https://open.spotify.com/album/7IDykeUjRruv9YKVWt33KX"
+        "name": "Peur (feat. Ziak)",
+        "url": "https://open.spotify.com/album/5eL561zvNW6ZwbuOxGMSvR"
       },
       "artists": [
         {
-          "name": "SCH",
-          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
         },
         {
-          "name": "Laylow",
-          "url": "https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S"
+          "name": "Ziak",
+          "url": "https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2"
         }
       ],
-      "duration_ms": 193270,
-      "name": "Derni\u00e8re ligne droite (feat. Laylow)",
-      "url": "https://open.spotify.com/track/25ph3mbSI8iOkaNGPtrUwk"
+      "duration_ms": 190213,
+      "name": "Peur (feat. Ziak)",
+      "url": "https://open.spotify.com/track/7IXQrRgmHxWYWitSlyFY7z"
     },
     {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
-        "name": "SOIXVNT3 - Part. 3",
-        "url": "https://open.spotify.com/album/2ARWfDAm9ONe0vUxGznc6n"
-      },
-      "artists": [
-        {
-          "name": "Zed",
-          "url": "https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq"
-        }
-      ],
-      "duration_ms": 156600,
-      "name": "Joli",
-      "url": "https://open.spotify.com/track/2OFTQpmXnuVK1v6cFcqZuJ"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
-        "name": "2069'",
-        "url": "https://open.spotify.com/album/50UFRkLAkzL731ZFWym4Vq"
-      },
-      "artists": [
-        {
-          "name": "PLK",
-          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
-        },
-        {
-          "name": "Dinos",
-          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
-        }
-      ],
-      "duration_ms": 152440,
-      "name": "10 minutes",
-      "url": "https://open.spotify.com/track/3KLqY7E5dOgvfZ6qppQ9u7"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
-        "name": "Zaza",
-        "url": "https://open.spotify.com/album/4qtwEHbTm4hUnsa7F8EbLZ"
-      },
-      "artists": [
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        }
-      ],
-      "duration_ms": 148717,
-      "name": "Zaza",
-      "url": "https://open.spotify.com/track/3UCZaDvdrtT0qeVYpwUXum"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
+      "added_at": "2023-07-20 22:00:00",
       "album": {
         "name": "Cardio",
         "url": "https://open.spotify.com/album/2J98KFdCrWGuY3FP9mAenE"
@@ -681,7 +577,39 @@
       "url": "https://open.spotify.com/track/4sexM5K1L4lSviqpadSUGi"
     },
     {
-      "added_at": "2023-07-13 22:00:00",
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "Freestyle LVL UP 2",
+        "url": "https://open.spotify.com/album/69poeNuEJvR2UGMqWDV8wF"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "duration_ms": 149064,
+      "name": "Freestyle LVL UP 2",
+      "url": "https://open.spotify.com/track/7DOqkqVZuvPhKIAtVXjZo1"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "SOIXVNT3 - Part. 3",
+        "url": "https://open.spotify.com/album/2ARWfDAm9ONe0vUxGznc6n"
+      },
+      "artists": [
+        {
+          "name": "Zed",
+          "url": "https://open.spotify.com/artist/4reog9Hn84AuUWvGX5a2Yq"
+        }
+      ],
+      "duration_ms": 156600,
+      "name": "Joli",
+      "url": "https://open.spotify.com/track/2OFTQpmXnuVK1v6cFcqZuJ"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
       "album": {
         "name": "Sinc\u00e8rement",
         "url": "https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y"
@@ -701,7 +629,63 @@
       "url": "https://open.spotify.com/track/5eGid3rXirJcCoROMnTqg0"
     },
     {
-      "added_at": "2023-07-13 22:00:00",
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "Autobahn",
+        "url": "https://open.spotify.com/album/7IDykeUjRruv9YKVWt33KX"
+      },
+      "artists": [
+        {
+          "name": "SCH",
+          "url": "https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2"
+        },
+        {
+          "name": "Laylow",
+          "url": "https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S"
+        }
+      ],
+      "duration_ms": 193270,
+      "name": "Derni\u00e8re ligne droite (feat. Laylow)",
+      "url": "https://open.spotify.com/track/25ph3mbSI8iOkaNGPtrUwk"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "Zaza",
+        "url": "https://open.spotify.com/album/4qtwEHbTm4hUnsa7F8EbLZ"
+      },
+      "artists": [
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "duration_ms": 148717,
+      "name": "Zaza",
+      "url": "https://open.spotify.com/track/3UCZaDvdrtT0qeVYpwUXum"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "2069'",
+        "url": "https://open.spotify.com/album/50UFRkLAkzL731ZFWym4Vq"
+      },
+      "artists": [
+        {
+          "name": "PLK",
+          "url": "https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m"
+        },
+        {
+          "name": "Dinos",
+          "url": "https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2"
+        }
+      ],
+      "duration_ms": 152440,
+      "name": "10 minutes",
+      "url": "https://open.spotify.com/track/3KLqY7E5dOgvfZ6qppQ9u7"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
       "album": {
         "name": "Pena Duro",
         "url": "https://open.spotify.com/album/4QRHa49lkmVPuah27l2jaJ"
@@ -717,7 +701,23 @@
       "url": "https://open.spotify.com/track/0Bqj2Umn6ft60B2pWXKnLF"
     },
     {
-      "added_at": "2023-07-13 22:00:00",
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "Sinc\u00e8rement",
+        "url": "https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y"
+      },
+      "artists": [
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "duration_ms": 143280,
+      "name": "Cod\u00e9ine 19",
+      "url": "https://open.spotify.com/track/3Q8qW4OUBQWLZaNLR9TxFr"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
       "album": {
         "name": "Ali",
         "url": "https://open.spotify.com/album/1ce6cwzY7lHuCF6oCp1LId"

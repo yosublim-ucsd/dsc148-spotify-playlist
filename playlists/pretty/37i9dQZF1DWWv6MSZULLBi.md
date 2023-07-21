@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 
 > A laid\-back trip in the folk scene\. Cover: Hozier
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,533 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,528 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 23 | [Masterpiece](https://open.spotify.com/track/5SPraUiuMk5q53lG806MnB) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Wide Open Light](https://open.spotify.com/album/3jUnB5jMAiBbuKBuS6RVV7) | 2:44 |
 | 24 | [Everything Ends \(feat\. Lizzy McAlpine and Tiny Habits\)](https://open.spotify.com/track/5f2aqqLjBh5xRt35Ji2xq7) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Everything Ends \(feat\. Lizzy McAlpine and Tiny Habits\)](https://open.spotify.com/album/1TItTZNumF7HQTkxXoNROA) | 2:13 |
 | 25 | [Black & Thunder](https://open.spotify.com/track/67o1YjulbnuP5zSAuCKuFN) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Black & Thunder](https://open.spotify.com/album/5KyfBZXbi33Sl7Zn426t8L) | 5:01 |
-| 26 | [Honey](https://open.spotify.com/track/7KXox0OtaeI7iAadPc2dEw) | [Taylor Ashton](https://open.spotify.com/artist/53t38sKooUEyyENANtticX), [Jacob Sharp](https://open.spotify.com/artist/0Nr1cxK226tk7MxKVJYe1w) | [Honey](https://open.spotify.com/album/7CVVXHlbXtVb4AZnjVPulD) | 4:13 |
+| 26 | [Honey](https://open.spotify.com/track/7KXox0OtaeI7iAadPc2dEw) | [Taylor Ashton](https://open.spotify.com/artist/53t38sKooUEyyENANtticX), [Jacob Sharp](https://open.spotify.com/artist/7rAqCeLrJNATPpQ0uc3Y4S) | [Honey](https://open.spotify.com/album/7CVVXHlbXtVb4AZnjVPulD) | 4:13 |
 | 27 | [9beat](https://open.spotify.com/track/6K5TU8mqCOObdraAQ7e8u0) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Salt](https://open.spotify.com/album/1B7NRlfSFzUwUpEVSyUPTe) | 4:06 |
 | 28 | [Heart of Gold \(with Bon Iver\)](https://open.spotify.com/track/7zh9Phpu0GVQ6bCbPHiZAf) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Heart of Gold \(with Bon Iver\)](https://open.spotify.com/album/2dwZS75dB000xVnvUDBHYH) | 2:52 |
 | 29 | [Jenny](https://open.spotify.com/track/3SLfONUr1O6vT50WSMRyWQ) | [Slow Leaves](https://open.spotify.com/artist/1CNY3GA9jHEuZeQEOHx0r8) | [Meantime](https://open.spotify.com/album/1NgTFS7qGNpDq3XmnLk8MC) | 3:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv6MSZULLBi.md) - [plain]
 | 99 | [Fish Out of Water](https://open.spotify.com/track/2JllvSo4QmvmIQkHAbdWvg) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Wisconsin](https://open.spotify.com/album/31RR4pZy65rFv65pX37zyG) | 3:14 |
 | 100 | [This Far South](https://open.spotify.com/track/1BM4gkXiSUErxCHrrnzlFU) | [Tommy Prine](https://open.spotify.com/artist/73RtFjZdrVkWXAX3SohBtU) | [This Far South](https://open.spotify.com/album/6jOU3mwT8bJD6YVCWFRce9) | 3:15 |
 
-Snapshot ID: `MCw1ZTJjOGYwMDIzMDY2Y2RlZDIwNDMxNTZjODcxMWYxNGRlMWM0NGMw`
+Snapshot ID: `MCxiMGQ0ZmQwN2ZhZWUxZTJhZDIwZjU0NzUzYjkyMTRjMzY0MDYyNTZj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one!
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,183 likes - 80 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,240 likes - 80 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbqtyDNQsEFL.md) - [plain]
 | 79 | [Evidence](https://open.spotify.com/track/5l0XWHk6bUn5uAYuanbPfB) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Evidence](https://open.spotify.com/album/4boZNo27Ibsq6Y0ve3MZny) | 5:55 |
 | 80 | [Nsenkyerene Nyankopon \(Live\)](https://open.spotify.com/track/3qT1KUF5kuZAv8O7ulaRog) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Nsenkyerene Nyankopon \(Live\)](https://open.spotify.com/album/04JurPL7FdUajwYUG7pRI1) | 7:44 |
 
-Snapshot ID: `MCw0ZjI1MDgxYTEyOTBhYjdiNTBmODU4NDU0N2NmNDM5NTIyNDdlYWUw`
+Snapshot ID: `MTY4OTg5NzY2MCwwMDAwMDAwMGVhY2IwMDQ2NjQwMmQ3YzBiNzMzM2E1MjczMjIyYzg5`

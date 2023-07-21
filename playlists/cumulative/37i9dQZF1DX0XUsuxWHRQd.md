@@ -4,7 +4,7 @@
 
 > New music from Lil Tjay, Quavo and JT of City Girls.
 
-1,695 songs - 3 day 15 hr 28 min
+1,696 songs - 3 day 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1668,6 +1668,7 @@
 | [Woodlawn](https://open.spotify.com/track/4FFC7McrnnwAWKbAqbckTP) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Limbo](https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt) | 2:23 | 2020-08-07 | 2020-08-14 |
 | [Work Hard, Play Hard](https://open.spotify.com/track/1ms5tNNdPouTtcD2oVF9Oz) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [O.N.I.F.C\. \(Deluxe\)](https://open.spotify.com/album/5S4SuPHbaozi5PDedAONTG) | 3:39 | 2022-12-01 | 2022-12-03 |
 | [Work It](https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Under Construction](https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup) | 4:23 | 2022-11-24 | 2022-11-26 |
+| [Work REMIX \(feat\. A$AP Rocky, French Montana, Trinidad James & ScHoolboy Q\)](https://open.spotify.com/track/7xVLFuuYdAvcTfcP3IG3dS) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Trinidad James](https://open.spotify.com/artist/0I5HubncQ8E1MFZOlPDY4J), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Trap Lord](https://open.spotify.com/album/3smlfAmejcKMmAPg1G2Kki) | 4:43 | 2023-07-20 |  |
 | [Worst Day](https://open.spotify.com/track/70pwY1UfPmSVE3ybPjFy0p) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Worst Day](https://open.spotify.com/album/6dfL9bdRB7ACOlf9EJpcfT) | 3:04 | 2022-02-11 | 2022-04-29 |
 | [Worth It](https://open.spotify.com/track/4XiGKQqbmnMVxDzUj6j3f2) | [YK Osiris](https://open.spotify.com/artist/7meyrw7Or5DwteYxDJrkCM) | [Worth It](https://open.spotify.com/album/6xxdRevqix78TFbWJpO2AO) | 3:09 | 2019-06-21 | 2019-08-13 |
 | [Wow\. \- Remix](https://open.spotify.com/track/3IKRHd9ihUdGffgz4Mbgv0) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Wow\. \(Remix\)](https://open.spotify.com/album/3VEFGAVtQp8eHzVdvL5aGK) | 2:50 | 2019-05-26\* | 2019-06-15 |

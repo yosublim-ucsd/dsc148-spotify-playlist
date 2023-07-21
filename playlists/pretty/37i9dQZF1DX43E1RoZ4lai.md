@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43E1RoZ4lai.md) - [plain]
 
 > The best jazz pianists today\. Cover: Brad Mehldau
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,498 likes - 200 songs - 17 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,508 likes - 200 songs - 17 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43E1RoZ4lai.md) - [plain]
 | 199 | [L'Aventino](https://open.spotify.com/track/3gYiUNsqHikK1WbACGQm18) | [Giulio Gentile](https://open.spotify.com/artist/5dDXTI6O0vQfGOWQkHDUa9), [Pietro Pancella](https://open.spotify.com/artist/2uLDDucEurdu6oS7ZIUkmj), [Michele Santoleri](https://open.spotify.com/artist/0LPDkCFv1nMPT5GqDlwxKH) | [L'Aventino](https://open.spotify.com/album/43A04XzVyrDLNXMLoiyZpd) | 6:36 |
 | 200 | [Children Of Flint](https://open.spotify.com/track/2CbTrKGpzbpMex9ar5myCc) | [Vijay Iyer](https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6), [Linda May Han Oh](https://open.spotify.com/artist/3ItwOheFhoNjZRCpnY5O9I), [Tyshawn Sorey](https://open.spotify.com/artist/0j2falzYTCLSgKpGKQipQu) | [Children Of Flint](https://open.spotify.com/album/2NWNR2Vlz3lIOKfk7BGn7Y) | 6:26 |
 
-Snapshot ID: `MCw2N2MxZWQ5N2RjZjY1NzlmOGZhMDM5NmZkOGJmNDA4ZTVlNzZjYmVj`
+Snapshot ID: `MCw0OGNjNjlhYjg5ZTI5NDk0YTM0YmU5YzQyY2YwNjk5ZjY0Yzg2MDI2`

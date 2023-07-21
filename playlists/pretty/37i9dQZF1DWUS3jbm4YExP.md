@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 
 > Groovy sounds from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 651,081 likes - 100 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 651,392 likes - 100 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUS3jbm4YExP.md) - [plain]
 | 99 | [Limpio y Puro](https://open.spotify.com/track/0U6OFaJvJvmLLSlA3pbZoZ) | [Cristian de Moret](https://open.spotify.com/artist/0Lf8YxCqt0flPbiPlBDSPQ) | [Limpio y Puro](https://open.spotify.com/album/0GFNTdbAcpPmdTXPlAtoMg) | 3:38 |
 | 100 | [In The Middle](https://open.spotify.com/track/3OtxCmuaYCA8mX1sMcm7ba) | [Orlando Julius](https://open.spotify.com/artist/5nmP3vKUqynlECpm2ura7L), [The Heliocentrics](https://open.spotify.com/artist/6Gujb3D3UJuIBtTCCK2Hnv) | [Jaiyede Afro](https://open.spotify.com/album/6qbKpBTwlQw53EjMD0BLs5) | 4:52 |
 
-Snapshot ID: `MCw2NDM2YjUxM2RlN2ViNDBjNDVlN2MxYTRkODY4ZjU0MDdjNzViMTQ4`
+Snapshot ID: `MCxjMjc1M2EzMTY1MTQyNzIxODQ1N2JjYzczYWEwNzJjNjcyZjU0YWFk`

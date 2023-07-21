@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgA6FKKHSd6.md) - [plain]
 
 > A perfect rendezvous of funk, jazz, R&B, and soul\. Cover: Eric Darius
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,264 likes - 100 songs - 7 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,287 likes - 100 songs - 7 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgA6FKKHSd6.md) - [plain]
 | 99 | [Juicy](https://open.spotify.com/track/0li2WQSds4CUrTouznvIEv) | [J\. White](https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov) | [Juicy](https://open.spotify.com/album/6WQeyUJsoPwFgZMRRmenOp) | 3:26 |
 | 100 | [Essence](https://open.spotify.com/track/0UyiDNoxlWfrJIeNXGOE5I) | [Nathan Allen](https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce) | [Essence](https://open.spotify.com/album/3quqcEs11KQm0IpKDGBbsW) | 4:19 |
 
-Snapshot ID: `MCxiMzY2NmY4YTM2Njg5ZDE4YTI5NTkzNDcyMjA5N2FhYzUwNzViYzBj`
+Snapshot ID: `MCwwZTZiZjIzZmRkMGU5MDVmNmU1YmFjM2I1YjE2MDFmMjdhNWM2MzRj`

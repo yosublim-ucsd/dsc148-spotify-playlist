@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,457 likes - 125 songs - 10 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,755 likes - 125 songs - 10 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlskcBvOTt0.md) - [plain]
 | 124 | [Take Care \- Maz Remix](https://open.spotify.com/track/1oaDZf8tcQMGOeIBxelrs0) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS), [Maz \(BR\)](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn) | [Take Care \(Maz Remix\)](https://open.spotify.com/album/1A6cETJramuODrakRUSlWH) | 5:08 |
 | 125 | [Enjoy The Rain \(feat\. Nathan Daisy\)](https://open.spotify.com/track/7F6vxNOUuo6unbeEmB0BpJ) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Nathan Daisy](https://open.spotify.com/artist/2CtFUBZT6hZPF8fF4XDRGf) | [Temple Of Dreams](https://open.spotify.com/album/5s105s5HclJA4c6NlKm5hX) | 3:23 |
 
-Snapshot ID: `MCw1MjQ1MGQ2YTNiM2UyYmQ0OTE0YmZlYTNjNjUyOGI0MWJlYzc2NzVi`
+Snapshot ID: `MCw4NzEyOTg4NjgxMzMwMjZjMDNmNjA1NjI4NDkzNTI2YjQwZDUwM2Ix`

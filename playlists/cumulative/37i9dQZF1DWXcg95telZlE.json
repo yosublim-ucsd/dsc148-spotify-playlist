@@ -1635,6 +1635,24 @@
     },
     {
       "album": {
+        "name": "Pat Boone's Greatest Hits (Reissue)",
+        "url": "https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ"
+      },
+      "artists": [
+        {
+          "name": "Pat Boone",
+          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115200,
+      "name": "Sugar Moon",
+      "url": "https://open.spotify.com/track/6UM5WX0bgEkcv1CzKWyacv"
+    },
+    {
+      "album": {
         "name": "Backline Volume 57",
         "url": "https://open.spotify.com/album/297iVHqfvGBdDtjdaSQBBa"
       },
@@ -1650,24 +1668,6 @@
       "duration_ms": 116146,
       "name": "Sugar Moon",
       "url": "https://open.spotify.com/track/5wA9Arn1DhtyyfdcT6c6jt"
-    },
-    {
-      "album": {
-        "name": "Pat Boone's Greatest Hits (Reissue)",
-        "url": "https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ"
-      },
-      "artists": [
-        {
-          "name": "Pat Boone",
-          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
-        }
-      ],
-      "date_added": "2022-05-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 115200,
-      "name": "Sugar Moon - Single Version",
-      "url": "https://open.spotify.com/track/6UM5WX0bgEkcv1CzKWyacv"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The world's biggest Drum 'n' Bass playlist! Becky Hill",
+  "description": "The world's biggest Drum 'n' Bass playlist! Campbell & Alcemist ",
   "name": "Massive Drum & Bass",
   "tracks": [
     {
@@ -7252,7 +7252,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 164898,
       "name": "Special Powers",
       "url": "https://open.spotify.com/track/3dIKsuKDHXRfiZ56lm8g7T"
@@ -8930,6 +8930,28 @@
       "duration_ms": 241379,
       "name": "Work It",
       "url": "https://open.spotify.com/track/3k2FxhfLtS42E5WmPgBHru"
+    },
+    {
+      "album": {
+        "name": "Would You (go to bed with me?)",
+        "url": "https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1"
+      },
+      "artists": [
+        {
+          "name": "Campbell",
+          "url": "https://open.spotify.com/artist/5udgXJYWwK7cchnPSKqEkK"
+        },
+        {
+          "name": "Alcemist",
+          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120522,
+      "name": "Would You (go to bed with me?)",
+      "url": "https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX"
     },
     {
       "album": {

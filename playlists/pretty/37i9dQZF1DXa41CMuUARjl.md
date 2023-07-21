@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from Pryda.
 
-[Spotify](https://open.spotify.com/user/spotify) - 444,383 likes - 115 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 444,533 likes - 115 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,7 +89,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 79 | [Storm / Mom](https://open.spotify.com/track/0NDlsZ7UP5jNf9RjhLOZPA) | [Will Wiesenfeld](https://open.spotify.com/artist/2yAle6ZkLiTfqIndO18gmm), [Baths](https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO), [Geotic](https://open.spotify.com/artist/30wki8WYREGLQPm623vzkZ) | [Bee and PuppyCat \(Soundtrack from the Netflix Series\) Vol\. 2](https://open.spotify.com/album/6AsBQU7S9TYkTAc4AIRPQb) | 2:31 |
 | 80 | [Care About Me](https://open.spotify.com/track/2jUKbo2J6SALFDp0KsUNYU) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Care About Me](https://open.spotify.com/album/2xALPBccgQ8Ya0Jj59oMJs) | 3:33 |
 | 81 | [Che caldo](https://open.spotify.com/track/0pKlilwwUTxcbZsUFUouwP) | [ELASI](https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6), [Anoraak](https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC) | [Che Caldo](https://open.spotify.com/album/20QTEjaGNPvDhQpe1nPNCX) | 3:25 |
-| 82 | [Hollow Halls](https://open.spotify.com/track/43RZtrHtZ5sfHx5NDUvMBl) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Hollow Halls](https://open.spotify.com/album/4ndWBsQ73LjLtMKi1VSz47) | 6:25 |
+| 82 | [Hollow Halls feat\. Skye Love](https://open.spotify.com/track/43RZtrHtZ5sfHx5NDUvMBl) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB), [Skye Love](https://open.spotify.com/artist/1i7SjOXro7uU0x7HUqiHAz) | [Hollow Halls](https://open.spotify.com/album/4ndWBsQ73LjLtMKi1VSz47) | 6:25 |
 | 83 | [Devil's Chariot](https://open.spotify.com/track/6fuWVsb4n143IbetAMbFGI) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Devil's Chariot](https://open.spotify.com/album/3Roz5L5THohjKVr3xHen9p) | 2:12 |
 | 84 | [Circuit Current](https://open.spotify.com/track/2mZZ2QeDPoeJIePGbDmNjX) | [1tbsp](https://open.spotify.com/artist/6G01WYFYF91rjG5LtwMhY4) | [Circuit Current](https://open.spotify.com/album/1Io0KZKAK3f69QO9FpJWuK) | 4:07 |
 | 85 | [I Thought It Was You](https://open.spotify.com/track/07WiQdU9P6Ls9mo6QiJNju) | [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki), [Sex\-O\-Sonique](https://open.spotify.com/artist/15mCGBr5nv7PrK1xQQar0Q) | [I Thought It Was You](https://open.spotify.com/album/3Nuu9hDsOfhlxURffbd6Cm) | 2:44 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 | 114 | [Driving](https://open.spotify.com/track/0rMGSN9svPG49gwYJK4llV) | [Natural Wonder Beauty Concept](https://open.spotify.com/artist/0IakW8tnLMrxqDGCYDAkHk), [Ana Roxanne](https://open.spotify.com/artist/2fSBHYgZUSIQPolv5skG5I), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Natural Wonder Beauty Concept](https://open.spotify.com/album/5laVAiCfglBYJqfqxyx8az) | 4:02 |
 | 115 | [Infirmary](https://open.spotify.com/track/0irJjQla64N3d9MjgfP4Ax) | [Kode9](https://open.spotify.com/artist/5Z3GyWBvJZgJ35TS0cmXll) | [Infirmary](https://open.spotify.com/album/4xbT3Kgk4QENoeb4RUZQGt) | 5:39 |
 
-Snapshot ID: `MCwyMzNhYzcyNzU5MTg4NzUyOTQ5ODY2YjkxNzYwYjUwNzliMDQzNzg3`
+Snapshot ID: `MCw5OGM4MTU0ODViZWY4NzEyOWI3ZjMyYjZmOWU5N2FhNTk5ZWRhZmVk`

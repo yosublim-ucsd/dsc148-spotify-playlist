@@ -4,7 +4,7 @@
 
 > Press play and dance away to your favorite electronic hits\. Cover: GATTÜSO
 
-416 songs - 21 hr 49 min
+417 songs - 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,6 +326,7 @@
 | [Self Destruction Mode](https://open.spotify.com/track/05e1CoIPmXLy6aPBotZlTZ) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX) | [Self Destruction Mode](https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd) | 2:27 | 2023-06-02 |  |
 | [SexyBack](https://open.spotify.com/track/0dWdBtUyXGPwfGJAXvYMtH) | [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR), [Fella](https://open.spotify.com/artist/0dm0kGiPyhp2mps5nutUUa) | [SexyBack](https://open.spotify.com/album/2xPDZMLbA4poen2LaRfdAr) | 2:36 | 2023-03-24 |  |
 | [SH SH SH \(Hit That\) \(feat\. Wiz Khalifa, Urfavxboyfriend & Goldsoul\)](https://open.spotify.com/track/3ZlE2T9tLjbciy2BYpi7u3) | [DVBBS](https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Urfavxboyfriend](https://open.spotify.com/artist/7tnamWpipgTKkLQEFiOKb5), [Goldsoul](https://open.spotify.com/artist/2QlOPebAv6cRo3Lj53fKYk) | [SH SH SH \(Hit That\) \(feat\. Wiz Khalifa, Urfavxboyfriend & Goldsoul\)](https://open.spotify.com/album/1xHwoTd8QTaQyWKlMTdZ6J) | 2:13 | 2023-02-04 |  |
+| [She Knows \- With Akon](https://open.spotify.com/track/3zkb0907pOJqU7m3Qh5hB7) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [She Knows \(With Akon\)](https://open.spotify.com/album/0pj4zHdT9FsFOkpA9Qic4F) | 2:15 | 2023-07-14 |  |
 | [Shinigami Eyes](https://open.spotify.com/track/0YQEWdfq3ajtNtK106Dr0k) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Shinigami Eyes](https://open.spotify.com/album/4wsyyLWO72hZ39U6hrl31A) | 2:39 | 2022-06-03 | 2023-02-05 |
 | [Shit We Do For Love](https://open.spotify.com/track/2bIxNWvnynGGNq87gMbNcn) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Shit We Do For Love](https://open.spotify.com/album/1B9tQW1mpmwtahZ9EYrin7) | 2:47 | 2023-05-05 |  |
 | [Signals](https://open.spotify.com/track/3Zs7UPRJeoy3uycdPHVfwv) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Kwabs](https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog) | [Signals](https://open.spotify.com/album/51cQuF5mmlX5cHRVIbOBYE) | 2:47 | 2022-06-03 | 2023-02-05 |

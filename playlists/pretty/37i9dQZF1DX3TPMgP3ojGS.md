@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 361,422 likes - 100 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 361,550 likes - 100 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TPMgP3ojGS.md) - [plain]
 | 99 | [The stars are listening](https://open.spotify.com/track/4ZcUrMyRwkK3lH82VV6HbP) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [The stars are listening](https://open.spotify.com/album/2wMpHfuyIolPBa92hvHxjM) | 1:51 |
 | 100 | [As I Dream](https://open.spotify.com/track/3y3GMygxjeZ8VQDfEoyKh7) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [As I Dream](https://open.spotify.com/album/6Djgy4mo37pXQgBsLrdFYj) | 3:04 |
 
-Snapshot ID: `MCxkMzg0MWY2NmIyOTIxNDRmOWVjYzNkMWY1NDcwYmQ1YWE4ODIxM2Zm`
+Snapshot ID: `MCw0ZjUzNDI2MGVjODYxMTgxYzUzOTk5NGNmMzI3MTE2ODc0MTYxMTMy`

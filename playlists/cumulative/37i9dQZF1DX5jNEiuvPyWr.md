@@ -2,9 +2,9 @@
 
 ### [Cloud Rap](https://open.spotify.com/playlist/37i9dQZF1DX5jNEiuvPyWr)
 
-> Le meilleur du rap français version cloud\. Photo : HOUDI
+> Le meilleur du rap français version cloud\. Photo : Ashh
 
-244 songs - 12 hr 17 min
+246 songs - 12 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Cali](https://open.spotify.com/track/3kGMQAKHYYRTKBHnTKC63C) | [Wood](https://open.spotify.com/artist/0kf6QUZVdM4imfVvEmSnm9) | [Pas stable](https://open.spotify.com/album/7oTnxM3xUaU4J3C9LiRAnA) | 4:30 | 2022-11-17 | 2023-03-03 |
 | [CASCADE](https://open.spotify.com/track/2OBxlYIG1JCFQuCKdn2177) | [Karmen](https://open.spotify.com/artist/1EIQvc0qBhTAnZAcf5REtq) | [CASCADE](https://open.spotify.com/album/3Coi3CC35a80Y5WXwlHMo2) | 2:48 | 2023-02-02 | 2023-04-07 |
 | [CAUCHEMAR](https://open.spotify.com/track/7mknKRrpy73QgsaWM3vGsA) | [Moha MMZ](https://open.spotify.com/artist/13fQpdj4xMKM4gbQUcB00T) | [EUPHORIA](https://open.spotify.com/album/4xm2fWDB7cNXUsrZRBdCit) | 2:52 | 2022-07-14 | 2022-09-30 |
-| [Chance](https://open.spotify.com/track/34mOxGOvrQ9shQ2lbPs6Lk) | [HK La Paille](https://open.spotify.com/artist/4NSdzXHjbwdR28akJRT9KY) | [Chance](https://open.spotify.com/album/0q1e1w6uP6NBZAGuXR6RCr) | 3:01 | 2023-06-08 |  |
+| [Chance](https://open.spotify.com/track/34mOxGOvrQ9shQ2lbPs6Lk) | [HK La Paille](https://open.spotify.com/artist/4NSdzXHjbwdR28akJRT9KY) | [Chance](https://open.spotify.com/album/0q1e1w6uP6NBZAGuXR6RCr) | 3:01 | 2023-06-08 | 2023-07-21 |
 | [Cicatrice](https://open.spotify.com/track/7s97KyBEO1UJWAoFFlArGp) | [Rim'K](https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D), [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [Cicatrice](https://open.spotify.com/album/22CGW1ncY9rhzp7I98DZeo) | 2:39 | 2023-05-25 |  |
 | [Ciel](https://open.spotify.com/track/6k9hppqOss0k5rkHILHbsx) | [Chanje](https://open.spotify.com/artist/5BZQ1LKKtw3uu6NIJdlU4Y), [Sheldon](https://open.spotify.com/artist/6162ZDzd0LT28Lxdj52jjK) | [ADN](https://open.spotify.com/album/4IykJKeBlpC7MQaAaHRqA6) | 3:39 | 2022-07-14 | 2022-07-29 |
 | [Coeur abimé](https://open.spotify.com/track/6x40VT2kRXPiM8AiNt3txn) | [Jayel](https://open.spotify.com/artist/5kKxz4PDHgrpIt8LX3PPiF) | [Coeur abimé](https://open.spotify.com/album/50T8VXZfysf3dcpijH9sPK) | 2:50 | 2022-11-24 | 2023-04-28 |
@@ -72,6 +72,7 @@
 | [Demain c'est loin](https://open.spotify.com/track/1D7p8EN4kDXCUN0yN8KBr9) | [Blasko](https://open.spotify.com/artist/0fUBKEXCJYmCr9vrI66NEJ), [Softo](https://open.spotify.com/artist/58WoaFxsPISuJ0iCyfizNp) | [Demain c'est loin](https://open.spotify.com/album/2s95ruN0TdxyE8nXyZepeq) | 3:41 | 2022-08-25 | 2022-10-28 |
 | [Dennis Rodman \(feat\. Laylow\)](https://open.spotify.com/track/4Sg6iFX0yKvTO1aGKB8sWL) | [Binks Beatz](https://open.spotify.com/artist/7BO3t7j5tGn3OISCrYgLnJ), [Laylow](https://open.spotify.com/artist/0LnhY2fzptb0QEs5Q5gM7S) | [Drip Music 2](https://open.spotify.com/album/5eYz4YuKj5vLWzXdOqxL3d) | 3:57 | 2022-09-15 | 2023-03-03 |
 | [Dernier Etage](https://open.spotify.com/track/4cEmTY9s8re8z5Lg9u3uXH) | [Yaro](https://open.spotify.com/artist/09E5z6upwkmwTKX8LGQgMo), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Tout Droit](https://open.spotify.com/album/2wMNxWbAEvAiAuX6rPH5Ux) | 3:30 | 2022-07-14 | 2023-02-03 |
+| [Dernière page](https://open.spotify.com/track/6l3HLmhZkRi80m3ymQA8U5) | [Elh Kmer](https://open.spotify.com/artist/6DTpmzMa0Gz93kRKUo4JfQ) | [Vivaldi : Vík](https://open.spotify.com/album/1e3aP2KfgSCO2IwPDAM2DN) | 4:04 | 2023-07-20 |  |
 | [Donatello](https://open.spotify.com/track/751GmCqzetFYzJ7b3b0AZR) | [USKY](https://open.spotify.com/artist/0VbfTzGkMlei0XtibnO466) | [Donatello](https://open.spotify.com/album/3TRViBXHtceMD2nqlJkyL7) | 2:36 | 2023-03-02 | 2023-04-21 |
 | [Dope](https://open.spotify.com/track/50Iv0gsXTFbPQnrtbkHK85) | [Kekra](https://open.spotify.com/artist/20pbz4TbpkBUr5JwYfGgPS) | [Dope](https://open.spotify.com/album/2cs5rAaux06NIbxlogq5Ek) | 3:33 | 2022-07-14 | 2022-09-09 |
 | [DOPE & FLOW](https://open.spotify.com/track/2dOi529NdZixLZi28PtJg4) | [F430](https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG), [La Pépite](https://open.spotify.com/artist/2Ago4l6T5ldhK0qjc9iSvV) | [DOPE & FLOW](https://open.spotify.com/album/2biOQGpjx79yaXymKlJVcz) | 2:46 | 2022-07-28 | 2022-11-18 |
@@ -162,6 +163,7 @@
 | [MONSTRE](https://open.spotify.com/track/0ZZT2IPhWsLFrOgpkgEgGD) | [Chanje](https://open.spotify.com/artist/5BZQ1LKKtw3uu6NIJdlU4Y) | [MONSTRE](https://open.spotify.com/album/4uO4T4DRguciMPzatC7ceT) | 2:16 | 2023-06-08 |  |
 | [Moonrock](https://open.spotify.com/track/4ZfOtNtErg8RHq8B7E2iir) | [Tissmey](https://open.spotify.com/artist/6cL4mIBIA85TnOIzhhukZT), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [Noir & blanc \(Volume 1\)](https://open.spotify.com/album/6Wdhr6fo82OqCwifi45fI9) | 3:05 | 2023-03-16 | 2023-06-16 |
 | [Mémoire d'un presque rien](https://open.spotify.com/track/5lQTCLF6eeHJnkS03xzWmB) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [Mémoire d'un presque rien](https://open.spotify.com/album/589cZ1HYzFumBTBeFcK2pj) | 3:33 | 2023-01-19 | 2023-04-21 |
+| [nebula](https://open.spotify.com/track/4dWQt09nlBLh34No9tNA5o) | [Ashh](https://open.spotify.com/artist/4YUcg2ee9TxMNdjhAxzZBF) | [nebula](https://open.spotify.com/album/4FNFa5X1j7FhS3IRchDgqm) | 3:30 | 2023-07-20 |  |
 | [Neurasthenie](https://open.spotify.com/track/2bWzPmMqIeWVO3lCTKEDpv) | [Klem Schen](https://open.spotify.com/artist/2h5IzYxNFBtXa3PsnV370c) | [Neurasthenie](https://open.spotify.com/album/147jyWgnirPp1V7z2IUxVS) | 4:26 | 2022-09-22 | 2022-12-16 |
 | [New Flow](https://open.spotify.com/track/7wcvpuqOwffUGKXydc5Ngn) | [91 All Stars](https://open.spotify.com/artist/2NXFKDjgSuIyiUUH2PEVHG), [F430](https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG) | [91 ALL STARS](https://open.spotify.com/album/67RktnRUQzkN9ZM8VAsakU) | 3:05 | 2022-07-14 | 2022-10-21 |
 | [No Love](https://open.spotify.com/track/43s7xJq0iHdcn2eGfE4M2x) | [Enolevrai](https://open.spotify.com/artist/08tDZqfKfLCf5TXC8A2aNf) | [No Love](https://open.spotify.com/album/6oTrv1boqK0GsoqLXbnuu8) | 2:27 | 2023-05-04 | 2023-06-02 |

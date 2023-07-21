@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 
 > Rock independiente, pop alternativo y golden hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,560 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,569 likes - 100 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXWGZfG4d1b.md) - [plain]
 | 99 | [Fuera de Lugar](https://open.spotify.com/track/5GsulKJKdlX0fplKL8xoCY) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Fuera de Lugar](https://open.spotify.com/album/7k7pDs1peFehrsg3sVZHKh) | 3:23 |
 | 100 | [El Deseo](https://open.spotify.com/track/2lI9tqrNU63R4WTzgR3kZ8) | [Revistas](https://open.spotify.com/artist/7awcB0RMHO3U7R0u8AKkNp) | [El Deseo](https://open.spotify.com/album/63cy2g9SzS6wii2kdyl35W) | 2:44 |
 
-Snapshot ID: `MCxlM2U5ZGZkMTRjNjJhNDk3MDdlZmE5ZmRiNTNlYjY2Nzk3ZGEyMTEz`
+Snapshot ID: `MCwxZTkxMzQ1MzA5MTBlZjViMTlhMDA4OGRlNTkxMTBhY2EyODAwMTM1`

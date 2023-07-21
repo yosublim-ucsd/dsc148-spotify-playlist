@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: DIESEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,003,333 likes - 125 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,003,407 likes - 125 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Q27plkaOQ3.md) - [plain]
 | 124 | [Something Real](https://open.spotify.com/track/4Ui3ACpjMOzfMfMK0OnEZX) | [Bear Grillz](https://open.spotify.com/artist/04vdWVjgi45nrMAxeCEVQe), [Hairitage](https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK), [Mike's Dead](https://open.spotify.com/artist/6uLNznYVguXrwbIPj9qUb1) | [Prismata \(Dark\)](https://open.spotify.com/album/31ORya6l0IN8uBN7aIpiht) | 3:05 |
 | 125 | [Enigma](https://open.spotify.com/track/5tFlcAfwqHlfsDX88ZWMqT) | [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl) | [Enigma](https://open.spotify.com/album/5vVA18tA4NCfvCBDJd6YF5) | 3:01 |
 
-Snapshot ID: `MCwyMzY0YjkyOGUxNDg3OGI1NDkyZDFiNGU1MTNjNmYwOTdjZGUxODRm`
+Snapshot ID: `MCxmYWFiNWFhNzRiM2ExMWMyYjc0NmQ4OTc4MThmMGFkYWE0ZmFhZDBl`

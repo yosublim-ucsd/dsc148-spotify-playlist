@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2NFOUmp2wyR5CrXtKDkUkB.md) - [plain]
 
 > Those were the days, this was the music...
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,861 likes - 67 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,859 likes - 67 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/2NFOUmp2wyR5CrXtKDkUkB.md) - [plain]
 | 54 | [Come Fly With Me \- Live At The Sands Hotel And Casino/1966](https://open.spotify.com/track/4u4kBbeXn3mswdgllfzlfz) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Sinatra At The Sands](https://open.spotify.com/album/2m0W0n7zBYmRNs1QAgoa6Z) | 3:45 |
 | 55 | [Yester\-Me, Yester\-You, Yesterday](https://open.spotify.com/track/0l9RGwc48deJ6j61KXAAvs) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [My Cherie Amour](https://open.spotify.com/album/51DUbu4v2tjYXxgy4I8vrG) | 3:05 |
 | 56 | [The Way Young Lovers Do \- 1999 Remaster](https://open.spotify.com/track/6lFrlUB7dEKJXftFNCCR8A) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Astral Weeks](https://open.spotify.com/album/4pG3bKkbmReDt5QTDn3JDz) | 3:17 |
-| 57 | [Paint It, Black](https://open.spotify.com/track/1Xdhp215nsdETJ17AtC7ve) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Big Hits \(High Tide and Green Grass\)](https://open.spotify.com/album/2tiqjQAPpu7wgGfbskbhaw) | 3:22 |
+| 57 | [Paint It, Black](https://open.spotify.com/track/1Xdhp215nsdETJ17AtC7ve) | [Keith Richards](https://open.spotify.com/artist/08avsqaGIlK2x3i2Cu7rKH), [Mick Jagger](https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO), [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Big Hits \(High Tide and Green Grass\)](https://open.spotify.com/album/2tiqjQAPpu7wgGfbskbhaw) | 3:22 |
 | 58 | [I Want to Take You Higher](https://open.spotify.com/track/4qpIk2rvkmxJEVvt38tepd) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 5:22 |
 | 59 | [Don't Worry Baby \- Remastered 2001](https://open.spotify.com/track/1GLmaPfulP0BrfijohQpN5) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Shut Down, Vol\. 2 \(Remastered\)](https://open.spotify.com/album/1G8AfOjrE0FO9w1gfemIy1) | 2:49 |
 | 60 | [Black Magic Woman \- 2018 Remaster](https://open.spotify.com/track/7rea8oiI7zkZI5dbigK06f) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [The Pious Bird of Good Omen](https://open.spotify.com/album/2vykpF7BFnflpzjTCG52FU) | 2:52 |

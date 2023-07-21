@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 68 | [Bailar Contigo](https://open.spotify.com/track/1VeJWYnGSbHVhQyhSVq4ge) | [JENCARLOS](https://open.spotify.com/artist/3f4OfcNtgL9MLgiyOdIHC7) | [Jen](https://open.spotify.com/album/5MFFnpG6N8RIIdC5GSQ5w4) | 4:28 |
 | 69 | [Amor en Stereo](https://open.spotify.com/track/3WYqZJn6mZP0ACZl2wbpZV) | [Gemeliers](https://open.spotify.com/artist/3W50twtHMESiHoOf2wHgfw) | [Stereo](https://open.spotify.com/album/5G4X3SZkDl63ggFtOdQVuW) | 2:54 |
 | 70 | [En Las Manos De Dios](https://open.spotify.com/track/0oOnIriN6B7BoQXgAR5n1c) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose \(Expanded Edition\)](https://open.spotify.com/album/3Ca2ChPMHogU1scVKSEprg) | 4:13 |
-| 71 | [Las Cuentas](https://open.spotify.com/track/5R0QMYI3PJzXsDaSOyWtJO) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Index](https://open.spotify.com/album/0a70673Gb7q0uqWyoCRy4J) | 3:06 |
-| 72 | [Dime Si Hay Algo](https://open.spotify.com/track/4BfQiVrz0EnPjH1nNoAXez) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Dime Si Hay Algo](https://open.spotify.com/album/6qhosK2xnpgEL1PEtElNlz) | 2:40 |
+| 71 | [Dime Si Hay Algo](https://open.spotify.com/track/4BfQiVrz0EnPjH1nNoAXez) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Dime Si Hay Algo](https://open.spotify.com/album/6qhosK2xnpgEL1PEtElNlz) | 2:40 |
+| 72 | [Las Cuentas](https://open.spotify.com/track/5R0QMYI3PJzXsDaSOyWtJO) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Index](https://open.spotify.com/album/0a70673Gb7q0uqWyoCRy4J) | 3:06 |
 | 73 | [El Camino \(feat\. Ángela Torres\)](https://open.spotify.com/track/0BEIXJ00DmdrERdf1WwhI4) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [Buena Vida](https://open.spotify.com/album/1awXzHG1Y8xFuJQ75tnnO2) | 3:26 |
 | 74 | [Moon](https://open.spotify.com/track/2Pb0asnHvIdA3ucKxL6jDq) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Voice Memos \(Deluxe\)](https://open.spotify.com/album/2Q1Ztwj2QKxQ5QfKBTpjcs) | 3:28 |
 | 75 | [Es Natural](https://open.spotify.com/track/6oh2qSjZeP7TPWp2Ehh5MM) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Visceral](https://open.spotify.com/album/1PjeKcjUrPAK38U1aGtPep) | 3:55 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR5DqccfWxWe.md) - [plain]
 | 150 | [Remembering](https://open.spotify.com/track/2rMyOaFPZVqdHEsyUc8kB0) | [Claudia Albuquerque](https://open.spotify.com/artist/1hqcycgAMdUaZtAVpHwGVT) | [Music Freedom](https://open.spotify.com/album/6LZG3zFRBnR3tLom1WdMsU) | 3:37 |
 | 151 | [Talk](https://open.spotify.com/track/4wYJf3FB9m6XS2DjSZRbfk) | [Kreesha Turner](https://open.spotify.com/artist/5jrXeH1yhdshRakLMBtkdO) | [Talk](https://open.spotify.com/album/1ejesDMKJZle7bQDkScpeP) | 3:51 |
 
-Snapshot ID: `MjgxNjIyNzQsMDAwMDAwMDA4YmIzZDU3ZGJiY2I1ZDJiNTVlMjdlY2FhMzY5ODg2OQ==`
+Snapshot ID: `MjgxNjUwOTAsMDAwMDAwMDBmZDQ1YzliNzM2YmE3YTc2ZjQ2ZDlkMjE4YTVmZjUyZA==`

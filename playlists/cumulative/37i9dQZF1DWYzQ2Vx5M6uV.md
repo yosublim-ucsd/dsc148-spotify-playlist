@@ -2,9 +2,9 @@
 
 ### [Afro Ritmo](https://open.spotify.com/playlist/37i9dQZF1DWYzQ2Vx5M6uV)
 
-> Bringing you the hottest collaborations between Afro & Latin artists\. Cover: Ozuna & Omah Lay
+> Bringing you the hottest collaborations between Afro & Latin artists\. Cover: Kizz Daniel & Becky G
 
-122 songs - 6 hr 35 min
+123 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Chilli Pepper](https://open.spotify.com/track/3LaSa0jNnrYx693hh04y12) | [Lapili](https://open.spotify.com/artist/2LLoV50BjWiUio4K2t4fGN), [Twitch 4EVA](https://open.spotify.com/artist/1U9hi0kw9OcJiw7xvwE6go) | [Chilli Pepper](https://open.spotify.com/album/4xwG86hXwRfAC6IrDttb5z) | 2:57 | 2022-02-16 | 2022-07-29 |
 | [Claramente](https://open.spotify.com/track/3aDFCQQfwcL4aaYEjybAKh) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88) | [Claramente](https://open.spotify.com/album/4tOaBzNRKy3Dl0Kz6itXoH) | 3:02 | 2022-05-12 |  |
 | [COMO UN BEBÉ](https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 3:38 | 2022-02-16 |  |
+| [Cough](https://open.spotify.com/track/2SggWVBRvkOmtQRfbKh6sV) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Cough](https://open.spotify.com/album/0H0fVt4IgYrsTJGfWxPJfx) | 2:57 | 2023-07-20 |  |
 | [Del Mar](https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [ENOC](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:34 | 2022-02-16 |  |
 | [designer \(with Daramola\)](https://open.spotify.com/track/7cyUsEK6wnG7YLkTIdjYJ9) | [Dylan Fuentes](https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin), [Daramola](https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA) | [ARENA](https://open.spotify.com/album/2ypwm0uqa0yT100p8kVWq4) | 4:21 | 2022-02-16 | 2023-04-09 |
 | [Diggy Dee \- Remix](https://open.spotify.com/track/6WRoMvvjhKsJjWJHXNJxtq) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [Sak Noel](https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Tarik Jazzy T Thompson](https://open.spotify.com/artist/6sFoObgl1BzplimWTBt6sD) | [Diggy Dee \(Remix\)](https://open.spotify.com/album/1gcCnNk1xuCmeHW0v62ZoN) | 3:16 | 2022-02-16 | 2023-07-15 |
@@ -96,7 +97,7 @@
 | [Rollercoaster \(feat\. J Balvin\)](https://open.spotify.com/track/6UbWYuDxDYmYYhsNYuYPPC) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 3:07 | 2022-07-07 |  |
 | [Rosalia](https://open.spotify.com/track/0R9rf3OFri2zYFJssbkFyn) | [Dice Ailes](https://open.spotify.com/artist/6k96FH3t0HYJRLaMi3TNXa), [Kaydy Cain](https://open.spotify.com/artist/4nXXIxTneJksvGXrlmX8oA) | [Ladies First](https://open.spotify.com/album/5OXAbuAjAWGqE6sBQyRDJU) | 3:01 | 2022-06-03 | 2023-04-29 |
 | [Rotate](https://open.spotify.com/track/6wwT3PgG3eFuKCpxzjMJFs) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Rotate](https://open.spotify.com/album/5FlP8dwJCTGLFk38tHDEiX) | 3:21 | 2022-02-16 |  |
-| [Rover \(feat\. Piso 21\)](https://open.spotify.com/track/401WZ0HpjqSVtpCp6uVtij) | [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Rover \(feat\. Piso 21\)](https://open.spotify.com/album/3AKDxiGfoAbNFrEgi25vJV) | 3:31 | 2022-02-16 |  |
+| [Rover \(feat\. Piso 21\)](https://open.spotify.com/track/401WZ0HpjqSVtpCp6uVtij) | [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Rover \(feat\. Piso 21\)](https://open.spotify.com/album/3AKDxiGfoAbNFrEgi25vJV) | 3:31 | 2022-02-16 | 2023-07-21 |
 | [Sabi na Sabura](https://open.spotify.com/track/2Nq4ZaYNPniFCA1DOGJGLk) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Sabi na Sabura](https://open.spotify.com/album/2y3NCDaMNbMds9tBArt6y7) | 3:06 | 2022-02-16 |  |
 | [SAD GIRLZ LUV MONEY \- Remix](https://open.spotify.com/track/5ObrB4W0wtVZGV4UkmyJWP) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [Viral Hits Vol.1](https://open.spotify.com/album/4kpwhwvWEyjJ6jL6rdOlNT) | 3:24 | 2022-09-06 | 2022-11-13 |
 | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Moliy](https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK) | [SAD GIRLZ LUV MONEY Remix \(feat\. Kali Uchis and Moliy\)](https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC) | 3:24 | 2022-05-12 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,070 likes - 150 songs - 13 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,148 likes - 150 songs - 13 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTALrdBtcXjw.md) - [plain]
 | 149 | [How Deep Is The Ocean?](https://open.spotify.com/track/23bHL6vXe6ckwnwK1yFqC4) | [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df) | [How Deep Is The Ocean](https://open.spotify.com/album/5JqlpeLZmzlnXv59xcYSUJ) | 4:40 |
 | 150 | [What's Up](https://open.spotify.com/track/3TdiCaHISm2x7waIHKC9Ms) | [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6) | [Relaxin'](https://open.spotify.com/album/7mbbHojRg6i6tGjKrMogsJ) | 4:38 |
 
-Snapshot ID: `MCw2MGY1ODAxOTRhOTE4MjA2MzZmNTI4MzVkM2IxYzUyNTRkMDc1Njc5`
+Snapshot ID: `MCxmZjkzMWY1NDQ4YzAwM2RlZThhYjAxNzc1Y2ExNTNkMzIwMzgzODQ5`

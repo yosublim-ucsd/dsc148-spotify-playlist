@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cbNxuNYT3d.md) - [plain]
 
 > Some of the biggest french touch classics! Cover: Daft Punk
 
-[Spotify](https://open.spotify.com/user/spotify) - 394,942 likes - 50 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,013 likes - 50 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cbNxuNYT3d.md) - [plain]
 | 49 | [Veridis Quo](https://open.spotify.com/track/2LD2gT7gwAurzdQDQtILds) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Discovery](https://open.spotify.com/album/2noRn2Aes5aoNVsU6iWThc) | 5:45 |
 | 50 | [La ritournelle](https://open.spotify.com/track/0qG1teoBvooRo7Z5Z8edCk) | [Sébastien Tellier](https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z) | [Politics](https://open.spotify.com/album/05MRLgXFBdHFMww01vbvWY) | 7:34 |
 
-Snapshot ID: `MCw5ZDg1MGRjZTk3MzlkOTY4YWI4ZjQyZDY3MzBmZGI3YzI2ZWQzZjMw`
+Snapshot ID: `MCxkMDU1ODA5Y2I3MjgxYWUxODFmYTdiMDJkOWQxZWMwNWViNGU2Njg3`

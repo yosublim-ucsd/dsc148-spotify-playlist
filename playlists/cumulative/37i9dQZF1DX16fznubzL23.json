@@ -1049,6 +1049,24 @@
     },
     {
       "album": {
+        "name": "I'm Done + Powerful",
+        "url": "https://open.spotify.com/album/20yFqfgE1cJCC7QTCEXtp3"
+      },
+      "artists": [
+        {
+          "name": "Liya",
+          "url": "https://open.spotify.com/artist/2mq44nCfRU63sGf70HAPi0"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144146,
+      "name": "I'm Done",
+      "url": "https://open.spotify.com/track/7qp9S0FfyfCuFHV8MD9pQ6"
+    },
+    {
+      "album": {
         "name": "Festival of the Sun",
         "url": "https://open.spotify.com/album/4KBAvXtsBubhWTTdKy9lfD"
       },
@@ -1636,7 +1654,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 198518,
       "name": "Murvlana",
       "url": "https://open.spotify.com/track/0mTtZ8UbOySRQHkqaAA1CK"

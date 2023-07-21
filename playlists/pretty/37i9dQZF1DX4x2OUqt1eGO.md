@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 
 > Unwind and restore with the sounds of the Flute, from Indian maestros & modern geniuses.<br/>Cover : Naveen Kumar
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,932 likes - 75 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,969 likes - 75 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 | 74 | [Indian Bansuri Music](https://open.spotify.com/track/3Tx16FENfr2e6pYkOpDUts) | [Anjan Roy](https://open.spotify.com/artist/7HPchTb6N01giKeLztkPpZ) | [Flute Background Music Vol\- 7](https://open.spotify.com/album/1721UqSuW7UVNWsCMlBeaU) | 3:36 |
 | 75 | [Gokul Streets \- Original Mix](https://open.spotify.com/track/5cP04kLMxkCy9tAJ3q8fzp) | [Rupak Mukherjee](https://open.spotify.com/artist/7wbEfkEn8mdeWJqMdjTP5M) | [Classical Melodies Of Flute And Tabla](https://open.spotify.com/album/2O3fQR25SIk7vYla9dlchz) | 1:53 |
 
-Snapshot ID: `MCwzMjY0M2Y5NzdjMTNkN2RkMTU5MDIzYmYzNDkxYjM3OGM0NWYyYTdk`
+Snapshot ID: `MCxiODQ3MTE2MWE3NmQ1Njk5ZTJlODgxNjZhMWJhODIxMTMzNzA2ZWE4`

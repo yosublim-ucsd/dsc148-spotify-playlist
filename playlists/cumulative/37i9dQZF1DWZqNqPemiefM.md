@@ -4,7 +4,7 @@
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-472 songs - 1 day 13 hr 36 min
+473 songs - 1 day 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,7 @@
 | [Blessing day](https://open.spotify.com/track/34ngmxZZkoCX55nepWERjC) | [I.P.U](https://open.spotify.com/artist/3I1SIa0FykFwmby0dic6kD) | [Blessing day](https://open.spotify.com/album/6EUviBJfmgJuMzxpsPqWi8) | 3:05 | 2022-03-31 | 2022-07-29 |
 | [Blink](https://open.spotify.com/track/7d26IhLPUlL4oncFgsms22) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Music for Nine Post Cards](https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE) | 4:42 | 2022-04-07 |  |
 | [Blue](https://open.spotify.com/track/0Nkqva5H1flf1JtTPpnE84) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Low Power](https://open.spotify.com/album/5dauiDUmBugERmjvcdwRXz) | 3:59 | 2022-03-30 | 2022-07-17 |
-| [Blue](https://open.spotify.com/track/2riD9ftmTbvDyVCvTxMOxR) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Low Power](https://open.spotify.com/album/0Ht3fMdVTqXLXsBbuTpkTl) | 3:59 | 2022-12-22 |  |
+| [Blue](https://open.spotify.com/track/2riD9ftmTbvDyVCvTxMOxR) | [H.Takahashi](https://open.spotify.com/artist/3NOSJgRYEyW2zVyVRMbCSV) | [Low Power](https://open.spotify.com/album/0Ht3fMdVTqXLXsBbuTpkTl) | 3:59 | 2022-12-22 | 2023-07-21 |
 | [Blue Fox](https://open.spotify.com/track/7wN13OOw6TPVzgQWqGBykx) | [JPC Percussion Museum](https://open.spotify.com/artist/4DWc88I5cqkxIeIGKacNAq), [Midori Takada](https://open.spotify.com/artist/3fuab64Hf1xiRGocX1sT1n) | [JPC ENSEMBLE COLLECTION Vol.9](https://open.spotify.com/album/2e6voibBUPStD2BdbkgyCM) | 8:18 | 2022-04-07 | 2022-04-16 |
 | [Blue Sky And Yellow Sunflower](https://open.spotify.com/track/6Mk96t3t5qR5YJ8ftCW18V) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Symbol](https://open.spotify.com/album/0ntm3YaiXVkkGitWl2XASV) | 3:59 | 2022-07-28 |  |
 | [blue sky and yellow sunflower](https://open.spotify.com/track/3TSK1p0Vi6utUaMnfDWh7Y) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Symbol](https://open.spotify.com/album/1wvp8g8sgOXVeipPMt0UX4) | 3:59 | 2022-03-31 | 2022-07-24 |
@@ -90,6 +90,7 @@
 | [Colors of Sunlight](https://open.spotify.com/track/4XhbarqPfgJ4HjIlk22AU8) | [Motohiro Nakashima](https://open.spotify.com/artist/47PsFNDJiKR2giXf3ey9zG) | [Gathering the Light](https://open.spotify.com/album/1q9AAf9QiUTlgbvHeFM4Ax) | 3:33 | 2022-03-30 | 2022-07-19 |
 | [Conceal](https://open.spotify.com/track/77pBvxZnILh8tXBpmgINks) | [Joe Fujinoki](https://open.spotify.com/artist/3YWoOO5qwfVN0XgqP2tiOB) | [TENbient 3](https://open.spotify.com/album/2F31M0fEMChoZhulEOkprk) | 3:57 | 2022-03-31 | 2022-04-19 |
 | [Conflagration](https://open.spotify.com/track/4sg8rqEZgCPN8NXhJPeXbr) | [atnr](https://open.spotify.com/artist/0R5bJcPaQfjVxZYqfHsHd0) | [Discharge Notification](https://open.spotify.com/album/2ynJM1AQtMvM0nOqBalCIq) | 2:55 | 2022-03-31 | 2022-04-09 |
+| [Contrast](https://open.spotify.com/track/7F5kSxc7LxDdvq0XA9YYid) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Contrast](https://open.spotify.com/album/1Vm8ygfXCkpWTVX8accHWU) | 3:23 | 2023-07-20 |  |
 | [Country Living\(flute\)](https://open.spotify.com/track/4kMLA8TNe4zjL9VPkpY9su) | [SUBLIMINAL CALM](https://open.spotify.com/artist/0uc6sbUAp570r1iYr2ckTv) | [Hiroshi Fujiwara Best](https://open.spotify.com/album/1RPBrnkifhQLHBI1JCAmgF) | 4:21 | 2022-03-30 | 2022-07-02 |
 | [craftsman](https://open.spotify.com/track/0SSSXaBAxQaJV6RwXVggo0) | [Katsuhiro Chiba](https://open.spotify.com/artist/6U77Tsq69Bwi4ua36Y6NKx) | [Kicoel](https://open.spotify.com/album/1UBcGGIwDAuDmFdNBRHlT3) | 4:55 | 2022-04-07 | 2022-05-21 |
 | [Crystallize](https://open.spotify.com/track/0BT1eNctDQczcqHOlxVIfX) | [The Rainstick Orchestra](https://open.spotify.com/artist/6p7qoUSAQxyA4R3HLFjyKK) | [The Shape Of The Cloud](https://open.spotify.com/album/0uOsWKvD5Iy0Mdq1mXXpHr) | 5:10 | 2022-03-31 | 2022-07-13 |

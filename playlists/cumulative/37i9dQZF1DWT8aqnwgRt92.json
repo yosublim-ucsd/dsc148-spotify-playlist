@@ -897,6 +897,24 @@
     },
     {
       "album": {
+        "name": "bloomin'",
+        "url": "https://open.spotify.com/album/0kRxrSqr36nVM58sq8vOPz"
+      },
+      "artists": [
+        {
+          "name": "Liyuu",
+          "url": "https://open.spotify.com/artist/3KEJMe6WtlsRJP9qR3Juqn"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249480,
+      "name": "bloomin'",
+      "url": "https://open.spotify.com/track/7IGV9PfdVzqhdol3lgtnIs"
+    },
+    {
+      "album": {
         "name": "BLUE GIANT (\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af)",
         "url": "https://open.spotify.com/album/4GhDb60eJfeVCHJQdHWooc"
       },
@@ -13644,7 +13662,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 241152,
       "name": "\u6708\u306e\u82b1",
       "url": "https://open.spotify.com/track/2ReyEk3kylmJ0YDC06xYp4"

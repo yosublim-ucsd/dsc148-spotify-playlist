@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y4RhrZqHhr.md) - [plain]
 
 > The ocean, the sun, your friends, the music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 789,407 likes - 200 songs - 10 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 789,620 likes - 200 songs - 10 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -194,7 +194,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y4RhrZqHhr.md) - [plain]
 | 184 | [Like I Used To](https://open.spotify.com/track/6lDc44gzmoUCF9L8PL0KrA) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Like I Used To](https://open.spotify.com/album/5bRtAP2yHcZ7dW7tqkTmx6) | 3:06 |
 | 185 | [Astronomia \- Never Go Home](https://open.spotify.com/track/5WYB4aZkflwjAApBoDCYkz) | [Tony Igy](https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW) | [Astronomia \(Never Go Home\)](https://open.spotify.com/album/1bJePA8XUWVDi1e0w6FhWq) | 2:36 |
 | 186 | [Call on Me \- Ryan Riback Remix](https://open.spotify.com/track/2L6orAlH8tBhiFTumIfMyF) | [Starley](https://open.spotify.com/artist/02A3cEvlLLCbIMVDrK2GHV), [Ryan Riback](https://open.spotify.com/artist/33JQK4UoS2aMPYBfdB5Ftt) | [Call On Me \(Remixes\)](https://open.spotify.com/album/5G7go9EeotMk9RfLETBDgJ) | 3:42 |
-| 187 | [abc \(The Wild Remix\)](https://open.spotify.com/track/69P8aWFbgM3eD7UFSLPWsq) | [The Wild](https://open.spotify.com/artist/74lRkEloOvori8dZJjNEjd) | [abc \(The Wild Remix\)](https://open.spotify.com/album/0Zq00ywbUyDLVD8jN7XsOC) | 3:02 |
+| 187 | [abc \(The Wild Remix\)](https://open.spotify.com/track/69P8aWFbgM3eD7UFSLPWsq) | [The Wild](https://open.spotify.com/artist/74lRkEloOvori8dZJjNEjd), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abc \(The Wild Remix\)](https://open.spotify.com/album/0Zq00ywbUyDLVD8jN7XsOC) | 3:02 |
 | 188 | [La Cintura \(feat\. Flo Rida & Tini\) \- Remix](https://open.spotify.com/track/7cui0h7KoaifEFzekOl6zX) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Mar De Colores \(Versión Extendida\)](https://open.spotify.com/album/66IXFg1AukADK41CP0xANr) | 2:58 |
 | 189 | [Thank You \[Not So Bad\]](https://open.spotify.com/track/4AqN8IdKCfItCSbuaFch81) | [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Thank You \[Not So Bad\]](https://open.spotify.com/album/6alQudvAYx6VZMye1BFgFK) | 3:17 |
 | 190 | [I'll Be There \- Cahill Remix](https://open.spotify.com/track/7gEbuXht8gYcA5OdN9zUpy) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [Cahill](https://open.spotify.com/artist/02nqwOvmlIhYQtZ5kVqJZm) | [I'll Be There \(Cahill Remix\)](https://open.spotify.com/album/3jISdgH8X9apM1WUFLyvqe) | 3:03 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y4RhrZqHhr.md) - [plain]
 | 199 | [Beautiful People \(feat\. Khalid\) \- NOTD Remix](https://open.spotify.com/track/6J7WMB5GII6pEOzy687jhO) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy) | [Beautiful People \(feat\. Khalid\) \[NOTD Remix\]](https://open.spotify.com/album/2oEcytQ5u5QtR9VZc2XgE2) | 2:42 |
 | 200 | [Can't Bring Me Down](https://open.spotify.com/track/4amkoUyQJDBXvcysAVUPX5) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [Toby Gad](https://open.spotify.com/artist/2v4e16xkId2E5YbYEWgPP8), [Nicole Bus](https://open.spotify.com/artist/0IeB4swNmNetlaZUgdHqBX) | [Can't Bring Me Down](https://open.spotify.com/album/3AF5Dt2J8DGXMqbsYtIw4h) | 3:16 |
 
-Snapshot ID: `MCw5YzVjY2NlOWExYjExZTlmMWJhYWJiNTI5NWI4NzY2ZjNjZTM1OWI0`
+Snapshot ID: `MCxlYTBhMTc4ZjVlNTU4OGY4Y2NjOTg2ZmQyMDEwMDcwNWEyZTM2NGJh`

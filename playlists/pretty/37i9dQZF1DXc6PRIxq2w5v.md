@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: Kant
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,127 likes - 80 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,297 likes - 80 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 79 | [Reino de Deus \- Utopia](https://open.spotify.com/track/3AIYvoE2IlXmUFdSDU2MRX) | [MN MC](https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV), [Marina Silva](https://open.spotify.com/artist/0TzYOLMd9cjGNFgbWlkPhD) | [Reino de Deus \- Utopia](https://open.spotify.com/album/2uc3wyMkyQk63n0J9KR28f) | 2:57 |
 | 80 | [Meu Primeiro Amor](https://open.spotify.com/track/1HcrSEND8hKaRuFWRNzpfg) | [Boanerges](https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG), [Azero](https://open.spotify.com/artist/2ymuYQ5su4RqRntlGvCIVN) | [Meu Primeiro Amor](https://open.spotify.com/album/1zuvfkstemiK7OCAzef6rg) | 3:00 |
 
-Snapshot ID: `MCw5ODk1ZWU4YmM1NTdjM2Q3ZmU3MGIwYTJmM2ExZmVkYzg1Nzc1NTFk`
+Snapshot ID: `MCw1YjQ3NGExZjFjMWZkMWI0ZTE4OGYzOGI1Y2M3NGIzMmJhNzg0OTBm`

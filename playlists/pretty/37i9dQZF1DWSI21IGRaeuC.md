@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > Dive into the deep end of the tech house spectrum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,312 likes - 75 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,435 likes - 75 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 74 | [LOL](https://open.spotify.com/track/4UneXzywX6fsUZv4v4pflY) | [Marco Strous](https://open.spotify.com/artist/56HtyYJoZvYc5aVdqDd94i) | [LOL](https://open.spotify.com/album/5TnjkmrtNYmN4sURWdEGbX) | 5:21 |
 | 75 | [TRiiiBAILE](https://open.spotify.com/track/6hdJvYTJ27MdcsDSE2XaVv) | [Cour T.](https://open.spotify.com/artist/2800ldRznHIt29Q3cUdU5o) | [TRiiiBAILE](https://open.spotify.com/album/7imJNCJSuQwx37G2mTQFEE) | 5:32 |
 
-Snapshot ID: `MCxjNjQwYTk0MTg4ZDBiZTA1N2UyOTY5YzQ0ZmE1ZmUzZDU0MjY4YTkx`
+Snapshot ID: `MCxkMjc0NzhlOTg1MTIwZWVlZjMwZDhjZmZjOTdhZjc5ZWMwNWRlYWY0`

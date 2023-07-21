@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 
 > Soak up these laid\-back jams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,057,826 likes - 125 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,057,962 likes - 125 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83I5je4W4rP.md) - [plain]
 | 124 | [My Wave](https://open.spotify.com/track/5nVJ4fHxEMDex4dDHeKpGj) | [DENM](https://open.spotify.com/artist/6hrOM3yfx3SEtARzDWMikb) | [My Wave](https://open.spotify.com/album/44HTufgjuhdq34g3rAu3PD) | 3:09 |
 | 125 | [The Way I Feel](https://open.spotify.com/track/4dxXzVDR3iK0Kg0EzfiPR5) | [Katastro](https://open.spotify.com/artist/2CimT0aCxKVuJsKPVLG0j5) | [The Way I Feel](https://open.spotify.com/album/3i1p7gLZOZKAd9JcVZFVri) | 2:37 |
 
-Snapshot ID: `MCw4ZDcyZWQ4YTVjYmIzYjQ5MjlhMzE3N2VkM2VhMTUxN2ZhM2NmMDky`
+Snapshot ID: `MCxkOGFiNWE3ODg4MmMyYzJjMmM4ZDBhODUwY2NmZGRiODRjODM4MzBm`

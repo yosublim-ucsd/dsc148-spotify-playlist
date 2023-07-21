@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 
 > All the songs with more than 1 BILLION streams on Spotify\. Cover: ABBA
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,753 likes - 446 songs - 1 day 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,894 likes - 446 songs - 1 day 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -455,4 +455,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 | 445 | [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 |
 | 446 | [Last Christmas](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [LAST CHRISTMAS](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) | 4:22 |
 
-Snapshot ID: `MCw0ZjIyMjk0MzAzMzBiMDBmNjViZDg1OGVlNjJiMTQ4NWY3MDNmZTFk`
+Snapshot ID: `MCw3ZTY3YmY5OGM2Y2Q2NmQzOWFkNWMxN2QwN2RkNjJlNDdkMDVmNmM0`

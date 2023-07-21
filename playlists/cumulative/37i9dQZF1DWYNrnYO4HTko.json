@@ -953,6 +953,32 @@
     },
     {
       "album": {
+        "name": "More Hot Rocks (Big Hits & Fazed Cookies)",
+        "url": "https://open.spotify.com/album/58P2QxVBxqTLc3GIgoWTbz"
+      },
+      "artists": [
+        {
+          "name": "Redding",
+          "url": "https://open.spotify.com/artist/5w38blLwP3pX3wd624uqdm"
+        },
+        {
+          "name": "Butler",
+          "url": "https://open.spotify.com/artist/6fknqwgtDVPeqEs8R2W6EP"
+        },
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "date_added": "2021-10-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174133,
+      "name": "I've Been Loving You Too Long",
+      "url": "https://open.spotify.com/track/7ABA0eWzpQO0ZSZRWiSCaA"
+    },
+    {
+      "album": {
         "name": "Temazos Soul Cl\u00e1sico",
         "url": "https://open.spotify.com/album/4q1VzMFzlKKJGT2GhpXdzp"
       },
@@ -1004,24 +1030,6 @@
       "duration_ms": 186840,
       "name": "I've Been Loving You Too Long",
       "url": "https://open.spotify.com/track/5O1DssQ6fsYworXsH9voyN"
-    },
-    {
-      "album": {
-        "name": "More Hot Rocks (Big Hits & Fazed Cookies)",
-        "url": "https://open.spotify.com/album/58P2QxVBxqTLc3GIgoWTbz"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "date_added": "2021-10-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 174133,
-      "name": "I've Been Loving You Too Long",
-      "url": "https://open.spotify.com/track/7ABA0eWzpQO0ZSZRWiSCaA"
     },
     {
       "album": {

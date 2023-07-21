@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iVTU1bf67i.md) - [plain]
 
 > The warm sound and the cozy mood of classic Jazz\. A soundtrack in the background for relaxing, dinner or focus\. Cover: Hank Mobley
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,224 likes - 150 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,292 likes - 150 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iVTU1bf67i.md) - [plain]
 | 149 | [In Your Own Sweet Way](https://open.spotify.com/track/0gD78Kq5CLlc1j9e9G8Ejv) | [Phil Woods Quartet](https://open.spotify.com/artist/26wNMXNMK8k7TlGqIlTe6C) | [Warm Woods](https://open.spotify.com/album/4Wfr4INnLiPK2AV443vbvH) | 8:05 |
 | 150 | [That Old Feeling](https://open.spotify.com/track/245pAQ58ASfZuni9VedL7P) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Getz Meets Mulligan In Hi\-Fi](https://open.spotify.com/album/790iHphSpmNDWfcha7SAx0) | 5:59 |
 
-Snapshot ID: `MCwzZmM0YmUzNjhjNTFlOWQzYmIyYmE5ZmEwNDZiMzFiYjBiYWE1OWVl`
+Snapshot ID: `MCw4ODM4ZTc2OTYzYjRlOTZhNGNhYTIzMTg4MTE2YThjOTAxNjE1YWQx`

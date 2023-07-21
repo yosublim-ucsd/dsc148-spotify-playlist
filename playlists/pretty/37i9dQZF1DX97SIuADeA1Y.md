@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 
 > The bassline keeps you moving.
 
-[Spotify](https://open.spotify.com/user/spotify) - 310,047 likes - 60 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 310,160 likes - 60 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX97SIuADeA1Y.md) - [plain]
 | 59 | [Deep End](https://open.spotify.com/track/3zKAZWa3KinlGdhm41IG5A) | [MÖWE](https://open.spotify.com/artist/4S8NmgM7oJ188sKp1waZpy), [Croell](https://open.spotify.com/artist/2jMviokIIk0zT936PVqxW1) | [Deep End](https://open.spotify.com/album/3eC6ruJ9HUWNOoozy1GTC1) | 2:44 |
 | 60 | [Never Surrender \(feat\. H\. Kenneth\)](https://open.spotify.com/track/4N8XoCat9D67QHn7XDOHCZ) | [Mike Emilio](https://open.spotify.com/artist/0ijmTKTGsjqOXfL5mWgUXC), [Hypanda](https://open.spotify.com/artist/04SWu4kCwYK5DjY6V7KoEk), [H\. Kenneth](https://open.spotify.com/artist/5Nc1ukGfwNnaT3B56gGc4c) | [Never Surrender \(feat\. H\. Kenneth\)](https://open.spotify.com/album/3exvA9tTSdyyykWzLqCrCq) | 2:19 |
 
-Snapshot ID: `MCw2MjhhMDM5MzkyMWU2NmYyZjMxNDE0OGVkMDQzMDI4MzEzYzhmYzYw`
+Snapshot ID: `MCxlZWFmYjYzNTU2NGVhMTEzYzkxNDE4OTA2OGIxODZjZmY5MGZhNDJm`

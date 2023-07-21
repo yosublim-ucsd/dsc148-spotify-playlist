@@ -5682,10 +5682,28 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 189999,
       "name": "Tratar Bem",
       "url": "https://open.spotify.com/track/5Ypj0wxu8cOmefuzHkZZMw"
+    },
+    {
+      "album": {
+        "name": "Tratar Bem",
+        "url": "https://open.spotify.com/album/5pRNcez7yE2ytHjzlcm5Cu"
+      },
+      "artists": [
+        {
+          "name": "Anselmo Ralph",
+          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189999,
+      "name": "Tratar Bem",
+      "url": "https://open.spotify.com/track/7N1qiiMNnL9t4HxBtet1zr"
     },
     {
       "album": {

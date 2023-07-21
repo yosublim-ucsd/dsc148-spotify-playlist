@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F09JR.md) - [plain]
 
 > This is Alessandro Cortini\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,023 likes - 27 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,023 likes - 25 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,11 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F09JR.md) - [plain]
 | 19 | [Mourning the Fallen](https://open.spotify.com/track/5oblJwpXzETf1DGPAeXXOg) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 1:38 |
 | 20 | [Immediate Horizon 5](https://open.spotify.com/track/5XGszMhQLTPpMhvL5Q3EaU) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [Immediate Horizon](https://open.spotify.com/album/3OfaMEs4iao21q3YVnwLx2) | 6:23 |
 | 21 | [Inside The Ruins](https://open.spotify.com/track/35ZNF2MIZ0QsYK1tGcONKJ) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi) | 6:09 |
-| 22 | [Baresi](https://open.spotify.com/track/3X0GKQRNLjVjNs3E5z695C) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Baresi](https://open.spotify.com/album/0sBNgCtkmhq1eC7RR3UQ1y) | 4:54 |
-| 23 | [Splinter Hell](https://open.spotify.com/track/2fANF3hLT8mIQutYbyK9uL) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 4:06 |
+| 22 | [Fonus](https://open.spotify.com/track/4JcfBaIDwUqeIQVSw8m063) | [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [Drew McDowall](https://open.spotify.com/artist/3jAdN6k0KlW1X48AUizxn4), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Nordic Flora Series, Pt\. 3: Gore\-Tex City](https://open.spotify.com/album/02y1isyvMiP2I0no5y14aU) | 4:26 |
+| 23 | [Megalomania](https://open.spotify.com/track/6UCmtZZKwMKnzKcPEtUKcy) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 3:30 |
 | 24 | [Immediate Horizon 4](https://open.spotify.com/track/3sVoD2TNyGarLfFMKAHSVi) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Lawrence English](https://open.spotify.com/artist/0V1EXFlRy3LeOKB07YJucI) | [Immediate Horizon](https://open.spotify.com/album/3OfaMEs4iao21q3YVnwLx2) | 11:59 |
-| 25 | [Fonus](https://open.spotify.com/track/4JcfBaIDwUqeIQVSw8m063) | [Varg²™](https://open.spotify.com/artist/4g2EfgpanE2Z9LG1nQ9zNy), [Drew McDowall](https://open.spotify.com/artist/3jAdN6k0KlW1X48AUizxn4), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Nordic Flora Series, Pt\. 3: Gore\-Tex City](https://open.spotify.com/album/02y1isyvMiP2I0no5y14aU) | 4:26 |
-| 26 | [LET GO](https://open.spotify.com/track/1jHZ8q4QPVHaxunYsrScnR) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [VOLUME MASSIMO](https://open.spotify.com/album/21wC2FR62EbrsmfD1gpmhN) | 5:08 |
-| 27 | [AMARO AMORE](https://open.spotify.com/track/34aLJYyLaPXQoQEa2rls0a) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [VOLUME MASSIMO](https://open.spotify.com/album/21wC2FR62EbrsmfD1gpmhN) | 6:00 |
+| 25 | [Baresi](https://open.spotify.com/track/3X0GKQRNLjVjNs3E5z695C) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Baresi](https://open.spotify.com/album/0sBNgCtkmhq1eC7RR3UQ1y) | 4:54 |
 
-Snapshot ID: `MjgxNjEzODUsMDAwMDAwMDA2MDNjYzhlYzU0YzRjODZhMTA0YmRmYzgzMDNjYzk1ZQ==`
+Snapshot ID: `MjgxNjQzMDgsMDAwMDAwMDA1NjNkNGZlNTRiMTI1YjQ0MmU3MDI2MTgzNmZmMzVlYw==`

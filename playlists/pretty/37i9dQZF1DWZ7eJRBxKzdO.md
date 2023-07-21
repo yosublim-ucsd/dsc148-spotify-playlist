@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7eJRBxKzdO.md) - [plain]
 
 > The summer needs dance hits 😎☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,260 likes - 120 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,034 likes - 120 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,8 +125,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7eJRBxKzdO.md) - [plain]
 | 115 | [Stars](https://open.spotify.com/track/0L5dwOLG1xpw9oD5FcyQak) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Stars](https://open.spotify.com/album/3nShNINlg4p0DhOQAfIKQt) | 2:51 |
 | 116 | [Leave A Little Love](https://open.spotify.com/track/5pmbZWt1lYVMvZ12MSdtqF) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5) | [Leave A Little Love](https://open.spotify.com/album/7x6hV80YBk3pWE4of9Q23y) | 3:07 |
 | 117 | [Better Times](https://open.spotify.com/track/5PXZlm9dBDA8dBXxle5Da8) | [KC Lights](https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Better Times](https://open.spotify.com/album/02ie8m0VrTiwLr8NHMuo2T) | 3:19 |
-| 118 | [Ritmo \- HUGEL Edit](https://open.spotify.com/track/6U0NVioYt4nZARPNOKhExY) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Ritmo \(HUGEL Edit\)](https://open.spotify.com/album/6jl8AuIfgD8jznXf0Rjh1C) | 2:45 |
-| 119 | [Regardless](https://open.spotify.com/track/3DTqHfTGj1c6y2gDXsTez4) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Euphoric Sad Songs](https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB) | 3:17 |
-| 120 | [Howl](https://open.spotify.com/track/3360fzHkXtFCGSnTpyBMRA) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Howl](https://open.spotify.com/album/6IYBjFaUzMGNj6mptyYg66) | 4:17 |
+| 118 | [Can't Bring Me Down](https://open.spotify.com/track/4amkoUyQJDBXvcysAVUPX5) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [Toby Gad](https://open.spotify.com/artist/2v4e16xkId2E5YbYEWgPP8), [Nicole Bus](https://open.spotify.com/artist/0IeB4swNmNetlaZUgdHqBX) | [Can't Bring Me Down](https://open.spotify.com/album/3AF5Dt2J8DGXMqbsYtIw4h) | 3:16 |
+| 119 | [Ritmo \- HUGEL Edit](https://open.spotify.com/track/6U0NVioYt4nZARPNOKhExY) | [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5), [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By) | [Ritmo \(HUGEL Edit\)](https://open.spotify.com/album/6jl8AuIfgD8jznXf0Rjh1C) | 2:45 |
+| 120 | [Regardless](https://open.spotify.com/track/3DTqHfTGj1c6y2gDXsTez4) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Euphoric Sad Songs](https://open.spotify.com/album/7u2byARDMi8YgqSVhKArYB) | 3:17 |
 
-Snapshot ID: `MCw4YmEyOWYyNjE2MzQxY2UzMzYwYzA1ODg0NmNjMjg1NTQ1YWEzZjM5`
+Snapshot ID: `MCxmMzU5YzkzOTNhM2YyMWNhNGZkMWFhY2M3ZWMwNGJlODZkZTdkNGVl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aiWQDFamDa.md) - [plain]
 
 > Sad and gloomy instrumental Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,447 likes - 100 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,483 likes - 100 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aiWQDFamDa.md) - [plain]
 | 99 | [No Time To Lose](https://open.spotify.com/track/33PBF5x1QjBp3EjlMHVkqd) | [North West Trio](https://open.spotify.com/artist/6xEHf5bkAwi6XDbFwRwUpa) | [No Time To Lose](https://open.spotify.com/album/7JrQv5id6mbOlu2iWFc4Ob) | 4:31 |
 | 100 | [Skylark](https://open.spotify.com/track/2FRxAg2NEodIJdCoFqVzv0) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T), [Philip Catherine](https://open.spotify.com/artist/3MK08earaAAPhouY2WTvqn) | [Late Night Jazz \(Deluxe Edition\)](https://open.spotify.com/album/4R3CM1E0eEgn4RVAz7ve64) | 5:29 |
 
-Snapshot ID: `MCwyNGUyMTk4NDY3NjYyMzdiNzA5OWUyZmEwYjFhZDQxYTdiMmI4MjY4`
+Snapshot ID: `MCxhYmEyMmI1N2Y4NTZmYmJlMDI4YmFhYmQ0ZDE3NjAwMmU4MmJkYzBi`

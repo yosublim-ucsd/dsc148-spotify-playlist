@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-09",
-  "description": "The R&B and good vibe tracks for your current mood. Cover: tanny ng",
+  "description": "The R&B and good vibe tracks for your current mood. Cover: Sunset Rollercoaster",
   "name": "mood.",
   "tracks": [
     {
@@ -580,7 +580,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 200814,
       "name": "Be The One (with Khalid)",
       "url": "https://open.spotify.com/track/4jMbQ5H6KaSRPRCBuNnW16"
@@ -971,6 +971,24 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7ChLJ2d4pLNKIrLSuGl8Df"
+      },
+      "artists": [
+        {
+          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
+          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201022,
+      "name": "Candlelight - Spotify Singles",
+      "url": "https://open.spotify.com/track/326EM9zAMPmr1JkGtzHnH6"
+    },
+    {
+      "album": {
         "name": "Candy",
         "url": "https://open.spotify.com/album/61aZQufXnFfFPgufHyjALa"
       },
@@ -1226,7 +1244,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 149488,
       "name": "come around",
       "url": "https://open.spotify.com/track/4BpuI7wyccUv2uxyfJlMtq"
@@ -1636,7 +1654,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 239783,
       "name": "Dollhouse (with Lily Rose Depp)",
       "url": "https://open.spotify.com/track/5HUQPQ9E1a4er4UhB8C7Rc"
@@ -2566,7 +2584,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 221538,
       "name": "Ginger Love",
       "url": "https://open.spotify.com/track/4GQQIcVWrXKY0hZMx9V611"
@@ -2932,7 +2950,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 198181,
       "name": "headaches",
       "url": "https://open.spotify.com/track/5v2RDx3oCcHxToNSLOJ05y"
@@ -3392,7 +3410,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 199148,
       "name": "i know it\u2019s you",
       "url": "https://open.spotify.com/track/2gEUdv8NXw7D0AoUtb3srf"
@@ -3628,7 +3646,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 187113,
       "name": "Impala",
       "url": "https://open.spotify.com/track/1hSd9wVOZKN9bkctsRMSJM"
@@ -3788,7 +3806,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 212000,
       "name": "INTOXYCATED (feat. Dave)",
       "url": "https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV"
@@ -4812,7 +4830,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 216875,
       "name": "Mind Your Space",
       "url": "https://open.spotify.com/track/4Iao21dcXMdiUhg0bZupeI"
@@ -6044,7 +6062,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 224187,
       "name": "R e s e n t m e n t",
       "url": "https://open.spotify.com/track/4HISFDmENrT1reZ5nMUe4l"
@@ -6062,7 +6080,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 181533,
       "name": "Ready",
       "url": "https://open.spotify.com/track/1hWi7x6YYkpCt6aRlC2r6R"
@@ -6138,7 +6156,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 211738,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/6Oa0nJwDOkclkCQsiZh6ge"
@@ -6630,6 +6648,24 @@
       "duration_ms": 81029,
       "name": "SIDEWAYS",
       "url": "https://open.spotify.com/track/5IhciPDXGz7MGrHKJwexjr"
+    },
+    {
+      "album": {
+        "name": "Silver Platter (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/79RZZV5Z6Y3Is9716GwJOn"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165670,
+      "name": "Silver Platter (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/7ru8nP5fLduJ94O54K4Uhl"
     },
     {
       "album": {
@@ -7160,7 +7196,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 154392,
       "name": "Suite Life (Familiar) - Bonus Track",
       "url": "https://open.spotify.com/track/1bcuTWxBskaPXHwZdzZMkq"
@@ -7178,7 +7214,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 214000,
       "name": "Summer Fever",
       "url": "https://open.spotify.com/track/7tgGio1o6YS1VF8M7QHLJf"
@@ -7445,6 +7481,24 @@
     },
     {
       "album": {
+        "name": "Talk To Me Nice",
+        "url": "https://open.spotify.com/album/47SFbNznLU50PNraq3mIdn"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229844,
+      "name": "Talk To Me Nice",
+      "url": "https://open.spotify.com/track/0k4C2siRScZQAb7eIEQDI5"
+    },
+    {
+      "album": {
         "name": "LET IT RAIN EP",
         "url": "https://open.spotify.com/album/1FRADpPZsxmBMNXFa5Cg1D"
       },
@@ -7532,7 +7586,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 203360,
       "name": "TENNESSEE",
       "url": "https://open.spotify.com/track/2AFwCOahN4s0NlODlXLRFa"
@@ -7762,6 +7816,24 @@
       "duration_ms": 201469,
       "name": "There's No One At All (Another Version)",
       "url": "https://open.spotify.com/track/3Yfedn84e2VLXSVwmowqEn"
+    },
+    {
+      "album": {
+        "name": "There's Nothing Else",
+        "url": "https://open.spotify.com/album/3nVq24HfZtk38x8TgHHIVq"
+      },
+      "artists": [
+        {
+          "name": "Assia Keva",
+          "url": "https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222250,
+      "name": "There's Nothing Else",
+      "url": "https://open.spotify.com/track/15NKx0UmvfJEkuiyiHckTu"
     },
     {
       "album": {
@@ -8760,6 +8832,28 @@
       "duration_ms": 201026,
       "name": "Where I Go (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI"
+    },
+    {
+      "album": {
+        "name": "Where's My Fourleaf Clover Gone?",
+        "url": "https://open.spotify.com/album/4e5jCbx69ziZsT2uXi8FWF"
+      },
+      "artists": [
+        {
+          "name": "Jh4y",
+          "url": "https://open.spotify.com/artist/01yGyVB1FyqBdpe7usXZ9o"
+        },
+        {
+          "name": "JAKS",
+          "url": "https://open.spotify.com/artist/1sNWjZHgC7t467cyPzoDgG"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230869,
+      "name": "Where's My Fourleaf Clover Gone?",
+      "url": "https://open.spotify.com/track/2rALrQTKbTLG0Mic7f4Gkn"
     },
     {
       "album": {

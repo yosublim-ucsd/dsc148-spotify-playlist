@@ -4,7 +4,7 @@
 
 > This is Mr Eazi\. The essential tracks, all in one playlist.
 
-108 songs - 5 hr 28 min
+109 songs - 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Call Waiting](https://open.spotify.com/track/6E7inQoWgdOxhFw4GmNS4c) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [emPawa Africa](https://open.spotify.com/artist/4lJlIZfH7NKzwWizTDuYmN), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [Call Waiting](https://open.spotify.com/album/5JkpF4etIZ5IOrAPzCcfjI) | 2:30 | 2021-12-28 |  |
 | [Chicken Curry](https://open.spotify.com/track/0lAoKoYx3IlflMn8bo3ehR) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Sneakbo](https://open.spotify.com/artist/3EUM35RpJZkmptksMgQyj6) | [Life is Eazi, Vol\. 2 \- Lagos To London](https://open.spotify.com/album/6xCY9TWQBggZtKVoySGpEO) | 3:00 | 2022-05-01 | 2022-05-08 |
 | [Chicken Curry](https://open.spotify.com/track/6s7mVENVsuHRSDgoA0q5qq) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Sneakbo](https://open.spotify.com/artist/3EUM35RpJZkmptksMgQyj6) | [Life is Eazi, Vol\. 2 \- Lagos to London](https://open.spotify.com/album/76ONwEklilRE14yBV1e5td) | 3:00 | 2022-05-13 | 2022-10-13 |
+| [Chop Time, No Friend](https://open.spotify.com/track/5KtN5U2onYnm63oVCHkTNz) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Chop Time, No Friend](https://open.spotify.com/album/7lwDFyzcdCZpjUzpDku6dY) | 2:48 | 2023-07-20 |  |
 | [Come Online \(feat\. King Promise & Diquenza\) \- Remix](https://open.spotify.com/track/4si8WMTSHD5k9WP5DgV7ye) | [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Diquenza](https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV) | [Come Online \(feat\. King Promise & Diquenza\) \[Remix\]](https://open.spotify.com/album/274GoQpEkHY1xUELkKPEnr) | 2:36 | 2022-07-16 |  |
 | [Come Online \- Remix](https://open.spotify.com/track/1XJkSLSrzIlwxSm3SYxYSb) | [Chivv](https://open.spotify.com/artist/2hBfmHHnM4dS4pJgEJENCg), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Naira Marley](https://open.spotify.com/artist/2NoT9wKYbNqwZ9Kod3KP6c), [Diquenza](https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV), [King Promise](https://open.spotify.com/artist/4lPSCg8O38uALiBsjTeJZU) | [Come Online \(Remix\)](https://open.spotify.com/album/1eotNZ9P5imMktTagjngfJ) | 2:36 | 2021-12-28 | 2022-06-22 |
 | [COMO UN BEBÉ](https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 3:38 | 2021-12-28 |  |

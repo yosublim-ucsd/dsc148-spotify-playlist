@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 
 > Ritmos cálidos y alternativos para relajarte y tirarse bajo el sol \#IndieTropical 🌺☀️🌴🎶 Foudeqush y Jesse Baez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,846 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,866 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HSZzYIDgBB.md) - [plain]
 | 74 | [Juntos](https://open.spotify.com/track/5i0TwLP1YDj5ZCMYUGBbC0) | [Películas Geniales](https://open.spotify.com/artist/6TdUG7ecoZQ4y87MO9410f), [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W), [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [La Película](https://open.spotify.com/album/7JwKwYrxUD3UewbJ9nVFma) | 3:19 |
 | 75 | [La Noche](https://open.spotify.com/track/6NKV4jEVqmJ6tsoyNEg2SQ) | [G\-Flux](https://open.spotify.com/artist/746l1MMYehSycjviJJbe2Y), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Hey Cosmo](https://open.spotify.com/artist/0w7bkE6Qq1rmGIDSmC5xS9) | [La Noche](https://open.spotify.com/album/2kkgaiE2Qa9kLYNdnmm1lM) | 4:00 |
 
-Snapshot ID: `MCw0YmQxZDFhNGRhMGIzOTNjZThkM2U4ZDU2MTE4YjljNTUzODY4YTU3`
+Snapshot ID: `MCxmYzMzZDhlMzQ3ZGQyNGE5ZTdiZjI3MWRmZmRjZTUyYTlkYTU1ZTA2`

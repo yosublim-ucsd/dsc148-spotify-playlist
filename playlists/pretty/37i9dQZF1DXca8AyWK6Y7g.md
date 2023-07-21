@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > livin' life in your 250 sq ft apt cover: Reneé Rapp
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,478,918 likes - 150 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,479,225 likes - 150 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 | 149 | [The Last Song](https://open.spotify.com/track/7KsgocRFvvODH3K0ZHLHL4) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [The Last Songs I'll Write About You](https://open.spotify.com/album/1koaS0Hs1AGtDrGprHOqCf) | 4:09 |
 | 150 | [h4msterb0y](https://open.spotify.com/track/6KGPqS4xegcAszjtMF40ra) | [Virgin Miri](https://open.spotify.com/artist/4b9493bfuOM9WoRZU6X3Sm) | [h4msterb0y](https://open.spotify.com/album/3uy3LkqdF1axtXTw3QEexR) | 2:48 |
 
-Snapshot ID: `MCxmNzhiZDk2ODhiNjYwNzYzNmI0ZjdjMDJkOTkzMGM5NWFkODQyZmEx`
+Snapshot ID: `MCwzMTc5MTdlODA3ZDk0YWM5YTVjZTM4OGUxODlhYTQ2M2Y1OWM1NzZi`

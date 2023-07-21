@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists from UK&IE\. Cover: Cian Ducrot
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,770 likes - 152 songs - 8 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,761 likes - 152 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Heaven](https://open.spotify.com/track/0CE8tMkJlixcPcHSKAvTJZ) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Heaven](https://open.spotify.com/album/3aBKgZS47p6bqmSuWG5Hr6) | 3:52 |
+| 1 | [Everyone Who Falls In Love \(Has Someone Else They’re Thinking Of\)](https://open.spotify.com/track/56arqTWhgLtut9Ii9r3CiL) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Everyone Who Falls In Love \(Has Someone Else They’re Thinking Of\)](https://open.spotify.com/album/5fFkNwu56uYC6CB7Td6Rns) | 2:36 |
 | 2 | [Déjà Vu](https://open.spotify.com/track/1ofyA3yOVsQPQC3UnM6oIx) | [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3), [RiTchie](https://open.spotify.com/artist/7exHU37Tr2al1SGQDhqy3Z) | [Déjà Vu](https://open.spotify.com/album/0vhflFpjfFoc5idKhuw5Jw) | 2:51 |
 | 3 | [Poison](https://open.spotify.com/track/5DsPxrAjGRnJfRNUelP6ut) | [Downtown Kayoto](https://open.spotify.com/artist/1iq8YeJvyhHB44r0bJj8RR) | [Learning in public](https://open.spotify.com/album/18UujFD5TInXQX2mcwupKQ) | 2:31 |
 | 4 | [Bittersweet Goodbye](https://open.spotify.com/track/5RHIevCuoIZcY1AlnJ01fN) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Bittersweet Goodbye](https://open.spotify.com/album/2n81J4HlMoEImWaC6OLeZh) | 2:46 |
@@ -161,4 +161,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 | 151 | [Anyone But Me](https://open.spotify.com/track/40KxHanilxLVRq4DY5pnm7) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Anyone But Me](https://open.spotify.com/album/6DDUgkyC6tDXlSa3w4ua3q) | 3:02 |
 | 152 | [Don't Rush \(feat\. Headie One\)](https://open.spotify.com/track/0PXukVbYpvz40KcEFKnIw7) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Don't Rush \(feat\. Headie One\)](https://open.spotify.com/album/1UX0F7yksh3rHlEJKvliAT) | 3:27 |
 
-Snapshot ID: `MCwwYmRhMmQ0Mjg1YTg0NmY5ZTBjMzZiMmM1OTc0ZDE1YzI2ZDQzOTRk`
+Snapshot ID: `MTY4OTkwMTIwMCwwMDAwMDAwMGYzYzUyZjkwMjgyZDAzNzQ3NmRiNmVkZTI5NjZjODk4`

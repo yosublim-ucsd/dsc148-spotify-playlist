@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 
 > 한 줄, 한 줄 당신을 위로하는 가사와 따뜻한 비트.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,561 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,567 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZiWafrEIdA8.md) - [plain]
 | 49 | [WHISTLE](https://open.spotify.com/track/2T88RycrXWCgFsQoAGB7ut) | [SINCE](https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616) | [WHISTLE](https://open.spotify.com/album/5UpN1ZUe7a4HMEl6pMnqM6) | 2:52 |
 | 50 | [Stay Cool](https://open.spotify.com/track/2PTI0f4zBER1Rp87QnfrdS) | [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Simon Dominic Presents \`SNL LEAGUE BEGINS\`](https://open.spotify.com/album/6MorHjwkN577QPEPBNVUp5) | 4:34 |
 
-Snapshot ID: `MCw0NzI2MDY4NWJjMzdjODQ5N2U2NzE1NTRkNjY0MTdjNTQ1ZDdjYzFm`
+Snapshot ID: `MCxiOGYxMDc0YzJkYTdkMWZhYWE3MDQ2NzRmZWFmY2YxZTRhNGU0OTZm`

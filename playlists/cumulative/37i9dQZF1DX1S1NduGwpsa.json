@@ -57,6 +57,28 @@
     },
     {
       "album": {
+        "name": "You're Alike, You Two",
+        "url": "https://open.spotify.com/album/7d6bFLcHMa6ExxlPjzuAkz"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        },
+        {
+          "name": "Mark Limacher",
+          "url": "https://open.spotify.com/artist/2FyolspKay4voViiywFNFs"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253253,
+      "name": "A Fine Romance",
+      "url": "https://open.spotify.com/track/4DdjqjTARDbAvjELiHxuyn"
+    },
+    {
+      "album": {
         "name": "Inner Songs",
         "url": "https://open.spotify.com/album/3bHRe5o2d25MQm0M2LLhfA"
       },
@@ -380,7 +402,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 178173,
       "name": "Apho",
       "url": "https://open.spotify.com/track/6EMP27Iax2P3LrfFggIt1c"
@@ -1726,7 +1748,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 369626,
       "name": "Dou",
       "url": "https://open.spotify.com/track/42F16X6WRCAFwPyRY4nH7O"
@@ -1938,6 +1960,24 @@
       "duration_ms": 358720,
       "name": "Famous Blue Raincoat (feat. Nathaniel Rateliff)",
       "url": "https://open.spotify.com/track/6A30Bj33P8d4WWYfWeY6z8"
+    },
+    {
+      "album": {
+        "name": "Far Too Much (Edit)",
+        "url": "https://open.spotify.com/album/3lX0OPG0tJAgcNjsUCmKm2"
+      },
+      "artists": [
+        {
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195945,
+      "name": "Far Too Much - Edit",
+      "url": "https://open.spotify.com/track/7IwYXEY1pLVnoWlmvdmMU1"
     },
     {
       "album": {
@@ -2197,6 +2237,24 @@
     },
     {
       "album": {
+        "name": "Tumba la Timba",
+        "url": "https://open.spotify.com/album/1LdtoWgNhiJ5ETYj50Fl8x"
+      },
+      "artists": [
+        {
+          "name": "Harold L\u00f3pez-Nussa",
+          "url": "https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251888,
+      "name": "Funky",
+      "url": "https://open.spotify.com/track/0NDvVwfGDzAIw0jKa40dGg"
+    },
+    {
+      "album": {
         "name": "Funky",
         "url": "https://open.spotify.com/album/7xy8M1KIrImO3Z01v3CEYL"
       },
@@ -2226,7 +2284,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 251888,
       "name": "Funky",
       "url": "https://open.spotify.com/track/7pN5j3DyZ9IohLdCkX5cGM"
@@ -2312,7 +2370,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 114413,
       "name": "Gravy Waltz",
       "url": "https://open.spotify.com/track/1DEJ1CsHeZUHaXAULowcw5"
@@ -5234,7 +5292,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 183523,
       "name": "Sometimes Today Seems Like Yesterday",
       "url": "https://open.spotify.com/track/4suPwKFZtB6ztKoTzppeYR"
@@ -6025,6 +6083,24 @@
     },
     {
       "album": {
+        "name": "Transe",
+        "url": "https://open.spotify.com/album/4H6duHfqSqD9pLd2egTzvL"
+      },
+      "artists": [
+        {
+          "name": "Monsieur M\u00c2L\u00c2",
+          "url": "https://open.spotify.com/artist/5N5NNRHYscHxAzcCPCtj7t"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 383000,
+      "name": "Transe",
+      "url": "https://open.spotify.com/track/6o9JFWqgg1RiVoUqv5d0yk"
+    },
+    {
+      "album": {
         "name": "Unfolding",
         "url": "https://open.spotify.com/album/3OGyLTv3Ijupp1zRw88e7f"
       },
@@ -6786,6 +6862,36 @@
       "duration_ms": 233518,
       "name": "Wrap It Up",
       "url": "https://open.spotify.com/track/1WrDhpbwUcUO37U6jktT0L"
+    },
+    {
+      "album": {
+        "name": "Yesterday's Price",
+        "url": "https://open.spotify.com/album/7xPy90fuevpNsr4pSLRSmB"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        },
+        {
+          "name": "Joshua Karpeh",
+          "url": "https://open.spotify.com/artist/7Ld6G79PcddkizPC36ujEF"
+        },
+        {
+          "name": "Immanuel Wilkins",
+          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
+        },
+        {
+          "name": "Ambrose Akinmusire",
+          "url": "https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315561,
+      "name": "Yesterday's Price",
+      "url": "https://open.spotify.com/track/76w0UOermXSeAZIj0HfynR"
     },
     {
       "album": {

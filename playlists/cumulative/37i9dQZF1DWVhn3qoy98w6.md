@@ -4,7 +4,7 @@
 
 > Artistas independientes emergentes, cada miércoles\. Foto: MENTIRA.
 
-2,578 songs - 5 day 16 hr 8 min
+2,579 songs - 5 day 16 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -347,7 +347,7 @@
 | [Canción De Entretiempo](https://open.spotify.com/track/2WEf322SsDyS8spqG1O267) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Canción De Entretiempo](https://open.spotify.com/album/0FZgvz8zyqPwep5doos0xY) | 3:35 | 2022-06-21 | 2022-07-06 |
 | [Canción de Post\-Verano](https://open.spotify.com/track/3pZzaNp1k2eZQAjfeWTtoj) | [Sobrezero](https://open.spotify.com/artist/5shINgHUmPMcJFG3MivRZr), [Paula Becker](https://open.spotify.com/artist/04ZTxnvwV4jOWqGpRR2xLz) | [Canción de Post\-Verano](https://open.spotify.com/album/53faYYGAl0hzwj5kIhvKs4) | 3:24 | 2022-09-06 | 2022-09-21 |
 | [Canción Desesperada](https://open.spotify.com/track/48OariiK41ZAHpvXJHtx0y) | [Queidem](https://open.spotify.com/artist/1Rhh50B7hX1KLom9agA3Cf) | [Canción Desesperada](https://open.spotify.com/album/2CRH5EpnKq17L9zZfzmjsc) | 3:44 | 2022-06-21 | 2022-07-06 |
-| [Canción para Ti <3](https://open.spotify.com/track/5kWRobeadEIT7AmGg55rpF) | [Eterna Joventut](https://open.spotify.com/artist/34gsOKqivflpTmTRZ3SmGo) | [Canción para Ti <3](https://open.spotify.com/album/22JlpBD96eCM8D8Vuy5yGk) | 1:28 | 2023-07-18 |  |
+| [Canción Para Ti <3](https://open.spotify.com/track/5kWRobeadEIT7AmGg55rpF) | [Eterna Joventut](https://open.spotify.com/artist/34gsOKqivflpTmTRZ3SmGo) | [Canción Para Ti <3](https://open.spotify.com/album/22JlpBD96eCM8D8Vuy5yGk) | 1:28 | 2023-07-18 |  |
 | [Canción triste para decir adiós](https://open.spotify.com/track/5useSbPRtX0VpzaCtC6mai) | [Quirkyoddgirl](https://open.spotify.com/artist/4ATChaTwzMcY1FGJV2P7mo) | [Canción triste para decir adiós](https://open.spotify.com/album/4UhTzN8KfbKkexpFxOQzJW) | 3:21 | 2022-01-04 | 2022-01-27 |
 | [cansadita](https://open.spotify.com/track/4NATkh9Xgbs4LJWoM7RH1Q) | [Claudia Allmang](https://open.spotify.com/artist/4yhXgyV9rONKb4ywoq6UTh) | [cansadita](https://open.spotify.com/album/7qPNqYQjyF6vf5gRV9TRDM) | 2:14 | 2022-08-31 | 2022-09-15 |
 | [Cansado](https://open.spotify.com/track/0DD8pUXb9l5U67KGuIddgn) | [LA MILAGROSA](https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP) | [Cansado](https://open.spotify.com/album/7gIQbcHGEen2BcBLiOEL27) | 3:16 | 2022-03-22 | 2022-03-30 |
@@ -482,7 +482,8 @@
 | [Consuelo emocional](https://open.spotify.com/track/2NrqxE4TA84EWUPW55HmR8) | [Error 97](https://open.spotify.com/artist/0t8pleD8cLadWZNfaGQIz1) | [Consuelo emocional](https://open.spotify.com/album/3f9RkAtrO8CBet1e6o6SUe) | 2:09 | 2023-04-25 | 2023-05-03 |
 | [Contando Nubes](https://open.spotify.com/track/2bSFxfLF0OGFu7W7wymXJv) | [DaniDask](https://open.spotify.com/artist/1YIJrMkAoPxii7aNWXQlsd) | [Contando Nubes](https://open.spotify.com/album/7tPD4XbVo3Dmwe3UKM21i9) | 3:16 | 2022-11-22 | 2022-12-01 |
 | [Contento](https://open.spotify.com/track/46kBQV8eoh0pbVvYE4W4XZ) | [Tacho](https://open.spotify.com/artist/0iym7MctBjSQcYJH4kDKRp) | [Contento](https://open.spotify.com/album/7oQwIb1jy54ndL6TQBd99b) | 2:54 | 2023-01-24 | 2023-02-01 |
-| [Contento](https://open.spotify.com/track/2ck5ajcQXwcXWKQdyVrbFp) | [YUNG PRADO](https://open.spotify.com/artist/0U0zpa0tZ4iAV6ypdDUm4I) | [CLUB BOY](https://open.spotify.com/album/6ogvEzfgeLcSnhuE2jkk8b) | 3:56 | 2023-07-18 |  |
+| [Contento](https://open.spotify.com/track/2ck5ajcQXwcXWKQdyVrbFp) | [YUNG PRADO](https://open.spotify.com/artist/0U0zpa0tZ4iAV6ypdDUm4I) | [CLUB BOY](https://open.spotify.com/album/6ogvEzfgeLcSnhuE2jkk8b) | 3:56 | 2023-07-18 | 2023-07-21 |
+| [Contento](https://open.spotify.com/track/4n8K2HMwYZptkns1qearhT) | [YUNG PRADO](https://open.spotify.com/artist/0U0zpa0tZ4iAV6ypdDUm4I) | [CLUB BOY](https://open.spotify.com/album/5l2zFYxrUjY7t0knJlQN4N) | 3:56 | 2023-07-18 |  |
 | [Contigo](https://open.spotify.com/track/43VWKDG3vMa53zbXiQARxA) | [M\. Brownie](https://open.spotify.com/artist/58R76WyXcQrKORIzmJF9I8), [Disson](https://open.spotify.com/artist/5fWmHn9OoM4xO9sCDFaFFh) | [Contigo](https://open.spotify.com/album/3ET6ChtL1rf935ViEYiNNs) | 2:30 | 2022-03-29 | 2022-04-20 |
 | [Contigo](https://open.spotify.com/track/6z1K8EbIl5I5JQCWdgGQh1) | [Residentes Balearicos](https://open.spotify.com/artist/1cOrrxnHshhMoDDdjBfPSG), [Camilo Miranda](https://open.spotify.com/artist/6hhn1Jb43Ao5T5NWloxwAc) | [Contigo](https://open.spotify.com/album/12sjR4tNXhCv4ExCb505IB) | 5:44 | 2022-05-24 | 2022-06-01 |
 | [Contigo Sabe Mejor](https://open.spotify.com/track/7dYgKcbLXUvmyDSq0d48pr) | [Pavlenha](https://open.spotify.com/artist/3AbsiDlRF2eFggJ3DVaH6O) | [Contigo Sabe Mejor](https://open.spotify.com/album/3F7M14Bfeg4M7pRTsqXqxN) | 3:48 | 2023-06-27 | 2023-07-12 |

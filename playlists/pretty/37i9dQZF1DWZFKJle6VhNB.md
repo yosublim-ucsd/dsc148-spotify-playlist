@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFKJle6VhNB.md) - [plain]
 
 > Grandes hits pra enfrentar toda louça suja que insiste em brotar na pia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,837 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,075 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFKJle6VhNB.md) - [plain]
 | 99 | [Camarote](https://open.spotify.com/track/5Kk43IykGmtOxZ5CDzOlEU) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa) | [Camarote](https://open.spotify.com/album/5Mm5Cza05FHgoBsB2sIz2k) | 3:03 |
 | 100 | [Lepo Lepo](https://open.spotify.com/track/2rZFSXWR2B5YCASIFuD8gh) | [Psirico](https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv) | [Tá Quente \#Fiqueemcasa](https://open.spotify.com/album/1Q0nWUteLaA3a7bAqBjOzp) | 3:22 |
 
-Snapshot ID: `MCxiZjU3YjNhYWU2NGJhNjVhNDExN2I2YjMzMGE1NWE5YTY2NzNhZWVi`
+Snapshot ID: `MCw3ZGFlMjliZTI4NGJkYjFhNTVkODNjY2I2MDU1MGZmNzE3NjcxYzc5`

@@ -2,9 +2,9 @@
 
 ### [Bongo Flava](https://open.spotify.com/playlist/37i9dQZF1DX3EbcelyrZPd)
 
-> Get your fill of vibes straight out of Tanzania\. Cover: Jux & Diamond Platnumz
+> Get your fill of vibes straight out of Tanzania\. Cover: Rayvanny, Jux & Diamond Platnumz
 
-258 songs - 14 hr 41 min
+259 songs - 14 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [For You](https://open.spotify.com/track/0Lyi8av1zjqxqZXqoawwsW) | [Spyro](https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h) | [For You](https://open.spotify.com/album/58zIgNoklmDXs4ViNN5wYS) | 4:02 | 2023-07-06 |  |
 | [For Your Love \(feat\. Zuchu\)](https://open.spotify.com/track/1J6P9Dt1Ab8ZQTzWbDW8es) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [For Your Love \(feat\. Zuchu\)](https://open.spotify.com/album/0HD9bj3s370MOajfNWvzvx) | 3:53 | 2021-11-11 | 2023-01-20 |
 | [Forever](https://open.spotify.com/track/2mIBy2thG7ZiECOf7tkUuG) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J) | [Forever](https://open.spotify.com/album/1LRJODu1aDERRG75QiCpwH) | 4:22 | 2023-02-09 |  |
-| [Funga Kazi](https://open.spotify.com/track/34opJEgUasCJmsFKp2CVjY) | [Manengo](https://open.spotify.com/artist/340oRLVQms0ZR6ijh6mFGS), [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a) | [Funga Kazi](https://open.spotify.com/album/5Rwo0KZZrd0Dy4tSyhvE7j) | 3:06 | 2023-05-18 |  |
+| [Funga Kazi](https://open.spotify.com/track/34opJEgUasCJmsFKp2CVjY) | [Manengo](https://open.spotify.com/artist/340oRLVQms0ZR6ijh6mFGS), [Darassa](https://open.spotify.com/artist/34iDTihXiyRsnPa8dCF05a) | [Funga Kazi](https://open.spotify.com/album/5Rwo0KZZrd0Dy4tSyhvE7j) | 3:06 | 2023-05-18 | 2023-07-21 |
 | [Gidi](https://open.spotify.com/track/06bEwGenmg6cgbfDj6Jw7F) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Gidi](https://open.spotify.com/album/5sN7Aqocqc5gQ3p3vYVYQt) | 2:47 | 2022-02-24 | 2023-01-27 |
 | [Gimmie \(feat\. Rema\)](https://open.spotify.com/track/6s5wglU27mZ8yTjbEJXFRV) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Gimmie \(feat\. Rema\)](https://open.spotify.com/album/7smV0L7kT4G5UBvk7jfLWC) | 2:42 | 2021-10-21 | 2022-06-03 |
 | [Hadithi \(feat\. Diamond Platnumz\)](https://open.spotify.com/track/5TrEBfukZOp890EY750Ktn) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Love Sounds Different](https://open.spotify.com/album/7uUGjipQKNBau0C3KASL56) | 2:38 | 2022-08-19 | 2023-07-14 |
@@ -264,6 +264,7 @@
 | [Wote](https://open.spotify.com/track/7vYxNbbyISaUiZ3Q5wkGFG) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL) | [Made For Us](https://open.spotify.com/album/2H5LMQ3oXWcd2lxP3nW8NR) | 3:31 | 2023-01-12 |  |
 | [Yanga Anthem](https://open.spotify.com/track/4jRRo64OzwBCrnO1saAE0q) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Yanga Anthem](https://open.spotify.com/album/3adR7VXxB4rXdHQ3pQEEYJ) | 3:50 | 2022-09-01 | 2022-09-23 |
 | [Yatapita](https://open.spotify.com/track/5osJXf9jysiW72jZQ0tTKD) | [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Yatapita](https://open.spotify.com/album/5uTKAcHVaMTbaEfORUWZrD) | 4:59 | 2023-01-19 |  |
+| [Yaya \(feat\. Diamond Platnumz & Jux\)](https://open.spotify.com/track/15ObWtsj5TVgUybcGsHoIf) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW) | [Yaya \(feat\. Diamond Platnumz & Jux\)](https://open.spotify.com/album/4DukccL0dV6cqfWlJ8xqia) | 5:19 | 2023-07-20 |  |
 | [Zai](https://open.spotify.com/track/53fKnybx3p5MZj3KDYvzz2) | [Maua Sama](https://open.spotify.com/artist/5U8jnk47jb3p6wCtb6SgS2) | [Zai](https://open.spotify.com/album/2zo7BLeC2bPUkiKxrzXtwd) | 3:36 | 2021-11-04 | 2022-07-22 |
 | [Zanzibar \(feat\. Bruce Melodie\)](https://open.spotify.com/track/2pS94OiSyjKxyuGxGKZcdy) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Bruce Melodie](https://open.spotify.com/artist/2esEiOAGqbIDlRwwUK2wnP) | [Zanzibar \(feat\. Bruce Melodie\)](https://open.spotify.com/album/2lT31kHoWx4A1fjGBnd81m) | 2:57 | 2023-06-15 |  |
 

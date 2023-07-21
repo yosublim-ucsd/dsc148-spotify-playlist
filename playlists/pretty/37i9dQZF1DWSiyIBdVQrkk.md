@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 
 > The best in old & new Reggae\. Cover: Bob Marley.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,099,770 likes - 110 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,100,123 likes - 110 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSiyIBdVQrkk.md) - [plain]
 | 109 | [Mama](https://open.spotify.com/track/6YNKLxiWQhK2n06xI6gUg7) | [Christopher Martin](https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj) | [Perfect Key Riddim](https://open.spotify.com/album/1YyDLlEWKPAUCjUxWuTejl) | 3:25 |
 | 110 | [Tempted to Touch](https://open.spotify.com/track/24kv7kR0Cz8ZBWFx4Kq50A) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [A Love Affair](https://open.spotify.com/album/3NGkvceBnNk5cTDbb56unf) | 3:48 |
 
-Snapshot ID: `MCwyMjljYTE1NDZlNjY2ZTQ0MzE2YzM3NjFhMGZiMzliZjQwMjExZWU2`
+Snapshot ID: `MCwyMWQxYjM4MDMwYjg0MjdiOGVmMjZiZjg4NTQ5MGJkN2Q1ODFiYjRl`

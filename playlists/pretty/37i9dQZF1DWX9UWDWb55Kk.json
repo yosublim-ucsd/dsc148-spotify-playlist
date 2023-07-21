@@ -1,12 +1,12 @@
 {
   "description": "Escucha la m\u00fasica de las seis temporadas de \u00c9lite.",
-  "num_followers": 242659,
+  "num_followers": 242684,
   "original_name": "\u00c9lite - The Soundtrack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2E4ZTNhY2Q4YWZmZmRkMDQyMTU4MjZmOTJmNTU0NjkxZDNhOGQ0",
+  "snapshot_id": "MCwwODAwMWRmZWM4MzI3YzYwODI1ZDE3NTM0ZjVhMzg5MTczZDhiMjQx",
   "tracks": [
     {
       "added_at": "2022-11-24 22:38:42",
@@ -798,6 +798,26 @@
         {
           "name": "Moi Je",
           "url": "https://open.spotify.com/artist/2lmGTNC0PsE7j5KDO9POvW"
+        },
+        {
+          "name": "Antoine Lartigue",
+          "url": "https://open.spotify.com/artist/5XAKNFhA5yCx6rdbWAsbtd"
+        },
+        {
+          "name": "Simon Berard",
+          "url": "https://open.spotify.com/artist/6HR09922Xdqqnv6OKLeTRO"
+        },
+        {
+          "name": "Lo\u00efc Lassabli\u00e8re",
+          "url": "https://open.spotify.com/artist/2Z0Eh6F3CbtFaYfxaBVMGj"
+        },
+        {
+          "name": "Babil Lachheb",
+          "url": "https://open.spotify.com/artist/2oNBkWyfvINaEBFIhTHIxW"
+        },
+        {
+          "name": "CAPYAC",
+          "url": "https://open.spotify.com/artist/5QP5fl1l4e9NmKmkMUOTF5"
         }
       ],
       "duration_ms": 231990,

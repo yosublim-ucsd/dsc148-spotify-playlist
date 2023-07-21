@@ -945,6 +945,32 @@
     },
     {
       "album": {
+        "name": "Can't Bring Me Down",
+        "url": "https://open.spotify.com/album/3AF5Dt2J8DGXMqbsYtIw4h"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        },
+        {
+          "name": "Toby Gad",
+          "url": "https://open.spotify.com/artist/2v4e16xkId2E5YbYEWgPP8"
+        },
+        {
+          "name": "Nicole Bus",
+          "url": "https://open.spotify.com/artist/0IeB4swNmNetlaZUgdHqBX"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Can't Bring Me Down",
+      "url": "https://open.spotify.com/track/4amkoUyQJDBXvcysAVUPX5"
+    },
+    {
+      "album": {
         "name": "Car Keys (Ayla)",
         "url": "https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs"
       },
@@ -2606,7 +2632,7 @@
       ],
       "date_added": "2022-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 257430,
       "name": "Howl",
       "url": "https://open.spotify.com/track/3360fzHkXtFCGSnTpyBMRA"

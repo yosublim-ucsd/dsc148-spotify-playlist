@@ -1,12 +1,12 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf37",
-  "num_followers": 110498,
+  "num_followers": 110501,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODMxMTQ2ZWUyNjIyY2FkMTI1YWM5OTM5MTk3MzZmMGExNzA2MzIy",
+  "snapshot_id": "MCw1ZDI2ZDFiYjk4Y2RmY2I5OWMxNDlkNjU4MzQ4MWQxOTljZTU4OTk1",
   "tracks": [
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Cold World",
-        "url": "https://open.spotify.com/album/2HJxiWkcVAbXuOMaY5wEor"
-      },
-      "artists": [
-        {
-          "name": "Geoffroy",
-          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
-        }
-      ],
-      "duration_ms": 224520,
-      "name": "Cold World",
-      "url": "https://open.spotify.com/track/2WxZsGInatsAG5Z2NCgCHN"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "L'heure mauve",
         "url": "https://open.spotify.com/album/4iCEdP4X0yU7bLPMvAl9zL"
       },
@@ -1527,6 +1511,22 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
+        "name": "Ce que je te donne ne dispara\u00eet pas",
+        "url": "https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ"
+      },
+      "artists": [
+        {
+          "name": "St\u00e9phanie Boulay",
+          "url": "https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0"
+        }
+      ],
+      "duration_ms": 226586,
+      "name": "Des histoires qui ne seront jamais finies",
+      "url": "https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
         "name": "1969",
         "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
       },
@@ -1543,22 +1543,6 @@
       "duration_ms": 223733,
       "name": "Post Mortem",
       "url": "https://open.spotify.com/track/12jcVkf8DJREOy25MLS63v"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Ce que je te donne ne dispara\u00eet pas",
-        "url": "https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ"
-      },
-      "artists": [
-        {
-          "name": "St\u00e9phanie Boulay",
-          "url": "https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0"
-        }
-      ],
-      "duration_ms": 226586,
-      "name": "Des histoires qui ne seront jamais finies",
-      "url": "https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1591,6 +1575,22 @@
       "duration_ms": 239573,
       "name": "Maison ouverte",
       "url": "https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Live Slow Die Wise",
+        "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
+      },
+      "artists": [
+        {
+          "name": "Geoffroy",
+          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
+        }
+      ],
+      "duration_ms": 224520,
+      "name": "Cold World",
+      "url": "https://open.spotify.com/track/6vrfAwiU7e7pM8GSa3A75S"
     },
     {
       "added_at": "2023-07-14 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 
 > Smooth, relaxing as jazz can be, here's the soothing magic in the thick of night from the middle of the light...
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,457 likes - 150 songs - 11 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,564 likes - 150 songs - 11 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdwTUxmGKrdN.md) - [plain]
 | 149 | [Just Between Us](https://open.spotify.com/track/53Z6wHAS1oohnCSgLGmaLc) | [Tony Saunders](https://open.spotify.com/artist/5OLFOdnwdWsZry0VUo3b2Q) | [All About Love](https://open.spotify.com/album/4rxMMiNhCn8FeJiVnoiYxd) | 4:49 |
 | 150 | [Love Crazy](https://open.spotify.com/track/1D7EnBNWyqNaCUjoFlc9z9) | [Roberto Restuccia](https://open.spotify.com/artist/1XoDy200dmpFG0iG3tU3a6) | [With Every Turn](https://open.spotify.com/album/2Jw4nAqHycfds4vWYlVWEV) | 3:54 |
 
-Snapshot ID: `MCw4MGVlN2MyMjQxMjhiYzY3NDJhYTlmZDkyYWQ5YzVjMTI1ZmJiMTI3`
+Snapshot ID: `MCw5YTQxMjlhM2M5MTYwNWExMWI3NDY1OTk5YjZmODE3MTNhMTdkZWIx`

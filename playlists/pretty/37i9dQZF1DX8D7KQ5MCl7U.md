@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D7KQ5MCl7U.md) - [plain]
 
 > All Coke Studio Pakistan tracks in one place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,903 likes - 150 songs - 16 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,951 likes - 150 songs - 16 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D7KQ5MCl7U.md) - [plain]
 | 149 | [Shakar Wandaan Re](https://open.spotify.com/track/6nodKUGJaIO0fBtKZOuc93) | [Asrar](https://open.spotify.com/artist/2pLpp8LjPF5qJAj8T3zzPn) | [Coke Studio Season 7](https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv) | 5:53 |
 | 150 | [Gal Sunn](https://open.spotify.com/track/1phj6T3DxXAf1luwNP7PqQ) | [Ali Pervez Mehdi](https://open.spotify.com/artist/3HLmrqEDEHkQ7VFXwdKdKa), [Meesha Shafi](https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR) | [Gal Sunn](https://open.spotify.com/album/5Fcxf078ec2OYKvl9m8NgS) | 6:38 |
 
-Snapshot ID: `MCwyMDEzMzBhNGMyMDVjNjEyYmNiZjYwNDA2MDk1NDEwMmRhNDExMzQx`
+Snapshot ID: `MCw2M2Y0NmNhZmMyZjFlYjRiZGY5MDQ1ZDY4YmNhOWRmN2JmMzI4Mzhj`

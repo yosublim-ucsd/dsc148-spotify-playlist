@@ -1702,12 +1702,12 @@
       },
       "artists": [
         {
-          "name": "Goya Alfa",
-          "url": "https://open.spotify.com/artist/4nggYuFtlufqW2xXN8bz3Y"
-        },
-        {
           "name": "Joel Ney",
           "url": "https://open.spotify.com/artist/7eLqivRSAwxPAHKBlnLqVi"
+        },
+        {
+          "name": "Goya Alfa",
+          "url": "https://open.spotify.com/artist/4nggYuFtlufqW2xXN8bz3Y"
         }
       ],
       "date_added": "2023-05-25",

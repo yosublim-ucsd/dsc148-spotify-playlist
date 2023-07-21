@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 
 > Palos de ayer, clásicos para siempre\. Foto: Bad Bunny.
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,899 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,284 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JcH25923HT.md) - [plain]
 | 99 | [Jimmy Fallon \- Remix](https://open.spotify.com/track/3oyOEGQXpwXVwLSZb088bJ) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [Jimmy Fallon \(Remix\)](https://open.spotify.com/album/6ZodluiJtgoZDLMRnv8VkW) | 4:02 |
 | 100 | [Tú No Amas](https://open.spotify.com/track/5J64qSSq0VZuh0CiI9o9Nq) | [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Tú No Amas](https://open.spotify.com/album/3eFEGgySyFZSq66Mq43Jwh) | 4:33 |
 
-Snapshot ID: `MCxhYTRmNWUyZGE5MzY2NmVmMWQ1NTJlMjVkOTZhMDA4YTI4N2FiMjNk`
+Snapshot ID: `MCw2NjNkMmRjOTdmN2RmYWY3MTIxMThmZTE0MTBlYjJjNmFjZTRhMDEz`

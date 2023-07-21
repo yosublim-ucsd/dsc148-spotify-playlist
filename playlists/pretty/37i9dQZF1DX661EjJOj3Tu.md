@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 
 > The irresistible rhythms of Latin jazz\. Cover: Tito Puente
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,982 likes - 100 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,076 likes - 100 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX661EjJOj3Tu.md) - [plain]
 | 99 | [Mercy, Mercy, Mercy](https://open.spotify.com/track/0JPTBGMeIyIwH9Qq1KNuxE) | [Willie Bobo](https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr) | [Talkin' Verve](https://open.spotify.com/album/5tUnjO8Xd6oEhQ0E8Kp6WU) | 2:36 |
 | 100 | [My Father's Eyes](https://open.spotify.com/track/4j44KbgdZjKygQlGoDZaPc) | [Pedrito Martinez](https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh), [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Acertijos](https://open.spotify.com/album/5QdjpnZLDWDsSCzfgGADjF) | 5:11 |
 
-Snapshot ID: `MCw4ODUxMDQ2NmUyOTU0ZDIxMTEzNzBlMmQyOTc1NWJhZWNiY2I3ODhi`
+Snapshot ID: `MCw0NmExYTEyM2MzZDVkMjFjOTQxYzUzMjI4YTUzY2UzYzI3MWQ3MjEy`

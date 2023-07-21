@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 
 > I woke up this morning… to the chilled sound of the Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,248 likes - 120 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,290 likes - 120 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vfpJ74tSuo.md) - [plain]
 | 119 | [Good Morning Little School Girl](https://open.spotify.com/track/7d5qgjlsPTd1T2iSIALs4V) | [Mud Morganfield](https://open.spotify.com/artist/1MkszvLJgUVCskrRqCLbmn) | [Portrait](https://open.spotify.com/album/1UiKbtoGljMrS1yxGbeVhV) | 3:36 |
 | 120 | [Meet Me In The City](https://open.spotify.com/track/3Sb7h17Qy7WXTakdLyLacB) | [Duwayne Burnside](https://open.spotify.com/artist/7nJeSjRUD2PUN4aSYhXkA3) | [Acoustic Burnside](https://open.spotify.com/album/1LLHOFLIfGw0mebbkQrkHr) | 3:17 |
 
-Snapshot ID: `MCxkZTM3NDU2NzhkMzdkNTBjMzY0MTFmM2FmYjhkNDVjMDY0ZjNjMTE4`
+Snapshot ID: `MCwzMzAxNjAyZWQ1YmFmOGJjZDZkNzIyNTYwMTJkNGJkZDg2NDc2MWRi`

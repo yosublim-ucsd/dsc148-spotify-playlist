@@ -4,7 +4,7 @@
 
 > Spotify music editors' choice for the best Christian & Gospel songs of the past decade\. Cover: Lauren Daigle
 
-125 songs - 9 hr 43 min
+126 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,8 @@
 | [You Love Me Anyway](https://open.spotify.com/track/7KT088cs0FVVQum6IyT0X9) | [Sidewalk Prophets](https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U) | [These Simple Truths](https://open.spotify.com/album/6UtlWkAxBuVPSzFNwiIPqj) | 4:20 | 2019-12-09 |  |
 | [You Say](https://open.spotify.com/track/6Up545NUflOiXo8cEraH49) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 4:34 | 2019-12-09 |  |
 | [You're Bigger](https://open.spotify.com/track/2R5yGj0AjYJExnpJyop8k3) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [The Life Project](https://open.spotify.com/album/5oUhNjIeLgATnoKVIpUdQZ) | 7:26 | 2019-12-09 | 2022-07-29 |
-| [You're Bigger](https://open.spotify.com/track/5PiY1xNzD1YRtmZe3KRdln) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [The Life Project](https://open.spotify.com/album/5Sj4aY2HhAyAlzFXL6FUyY) | 7:26 | 2019-12-09 |  |
+| [You're Bigger](https://open.spotify.com/track/45a9yuzwLdXycJafkYTAjC) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Ultimate Gospel, Vol\. 1: Red](https://open.spotify.com/album/7GjJrwN3U8lGqPIAq3jkvo) | 7:26 | 2019-12-09 |  |
+| [You're Bigger](https://open.spotify.com/track/5PiY1xNzD1YRtmZe3KRdln) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [The Life Project](https://open.spotify.com/album/5Sj4aY2HhAyAlzFXL6FUyY) | 7:26 | 2019-12-09 | 2023-07-21 |
 | [Your Love](https://open.spotify.com/track/56ZNyOHknU78LEwq4IWMJ7) | [Brandon Heath](https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj) | [Leaving Eden](https://open.spotify.com/album/6LVll9TMx884kBnA9AcMtZ) | 3:35 | 2019-12-09 |  |
 
 \*This playlist was first scraped on 2022-03-01. Prior content cannot be recovered.

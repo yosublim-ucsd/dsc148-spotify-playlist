@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A collection of the biggest soul tracks from the 1970s.",
+  "description": "A collection of the biggest soul tracks from the 1970s. Cover: Roberta Flack",
   "name": "70s Soul Classics",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 198439,
       "name": "(Do The) Push And Pull - Pt. 1",
       "url": "https://open.spotify.com/track/1SwUqH8LELoY6SwldhOwr8"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 429371,
       "name": "Be Thankful for What You Got (Pt. 1 & Pt. 2)",
       "url": "https://open.spotify.com/track/7pN8GMLw3prWFn5nvJRM6O"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 333933,
       "name": "Bridge over Troubled Water",
       "url": "https://open.spotify.com/track/5YD86vWLu1YqR818b1GADO"
@@ -196,10 +196,28 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 205333,
       "name": "Bring The Boys Home",
       "url": "https://open.spotify.com/track/5EOSdLJhhq31GYCawQ5FTC"
+    },
+    {
+      "album": {
+        "name": "Can't Get Enough",
+        "url": "https://open.spotify.com/album/42Si9RbdXYGWQsfNTzjlnG"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "Can't Get Enough Of Your Love, Babe",
+      "url": "https://open.spotify.com/track/3mWpUEBYnv9SIFWfixSJFx"
     },
     {
       "album": {
@@ -387,6 +405,24 @@
     },
     {
       "album": {
+        "name": "Commodores",
+        "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256426,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
+    },
+    {
+      "album": {
         "name": "The Jacksons",
         "url": "https://open.spotify.com/album/4s3Piwh8AOoAl1VvskfwJF"
       },
@@ -434,7 +470,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 185533,
       "name": "Family Affair - Single Version",
       "url": "https://open.spotify.com/track/4f3u4Oy0JqJRIhMmTqRcxj"
@@ -506,7 +542,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 329466,
       "name": "Freddie's Dead",
       "url": "https://open.spotify.com/track/2ouFIPC3O1HNBcVTw1d9AN"
@@ -524,7 +560,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 204906,
       "name": "Got To Be There",
       "url": "https://open.spotify.com/track/5nU90wCMFO8sU0tVYDBvUN"
@@ -542,7 +578,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 184466,
       "name": "Groove Me",
       "url": "https://open.spotify.com/track/0gtTfaz5zzbJA28Ypu7k0W"
@@ -668,7 +704,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 377639,
       "name": "Hung Up On My Baby",
       "url": "https://open.spotify.com/track/7wEGeUzpPNnHKfOtSgYjG4"
@@ -744,6 +780,24 @@
       "duration_ms": 431506,
       "name": "I'm Gonna Love You Just A Little More Baby",
       "url": "https://open.spotify.com/track/7IXYWUdOuCYYKBV1xrHgJv"
+    },
+    {
+      "album": {
+        "name": "Caught Up",
+        "url": "https://open.spotify.com/album/0N8njZFmO3HE0kxRlTWPto"
+      },
+      "artists": [
+        {
+          "name": "Millie Jackson",
+          "url": "https://open.spotify.com/artist/27XI002zivG9xuzrZ9dIb1"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237800,
+      "name": "If Loving You Is Wrong I Don't Want to Be Right",
+      "url": "https://open.spotify.com/track/4rlG6QVRACECzJUKRhSMD2"
     },
     {
       "album": {
@@ -824,7 +878,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 209213,
       "name": "In The Rain",
       "url": "https://open.spotify.com/track/6aKFAhG7hCy71wLDMKjP5G"
@@ -932,7 +986,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 180466,
       "name": "Jody's Got Your Girl And Gone",
       "url": "https://open.spotify.com/track/4cuu41Cglk9Wb6bbKXaz97"
@@ -954,6 +1008,24 @@
       "duration_ms": 228160,
       "name": "Just My Imagination (Running Away With Me)",
       "url": "https://open.spotify.com/track/39Bd345OWEhRNyfayhp9gv"
+    },
+    {
+      "album": {
+        "name": "Killing Me Softly",
+        "url": "https://open.spotify.com/album/4GxrvKiysSiDU1HHifh1PA"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286920,
+      "name": "Killing Me Softly With His Song",
+      "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob"
     },
     {
       "album": {
@@ -993,6 +1065,24 @@
     },
     {
       "album": {
+        "name": "Still Bill",
+        "url": "https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258834,
+      "name": "Lean on Me",
+      "url": "https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2"
+    },
+    {
+      "album": {
         "name": "Let's Get It On (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3rDn7vWteVTxTbuLQXb6eC"
       },
@@ -1004,10 +1094,28 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 290933,
       "name": "Let's Get It On",
       "url": "https://open.spotify.com/track/39l1UORIhuHvUWfxG53tRZ"
+    },
+    {
+      "album": {
+        "name": "Let's Get It On (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6AmnVWOxXYucWxgidEgwhy"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290960,
+      "name": "Let's Get It On",
+      "url": "https://open.spotify.com/track/0jHkgTtTaqg5LNCiYDQPUB"
     },
     {
       "album": {
@@ -1134,7 +1242,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 198173,
       "name": "Make It Funky - Pt. 1",
       "url": "https://open.spotify.com/track/3pNfCtcbhWwa6TouKcMTGp"
@@ -1638,10 +1746,28 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 188746,
       "name": "Rock the Boat",
       "url": "https://open.spotify.com/track/0w4s0d8Qtu0K8dyMcB2tw1"
+    },
+    {
+      "album": {
+        "name": "Freedom for the Stallion (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3hXP4r93CpigdFy4BiwaqH"
+      },
+      "artists": [
+        {
+          "name": "Hues Corporation",
+          "url": "https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202573,
+      "name": "Rock the Boat",
+      "url": "https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW"
     },
     {
       "album": {
@@ -1674,7 +1800,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 200053,
       "name": "Rock Your Baby",
       "url": "https://open.spotify.com/track/16KwF7IrKHTVTitUKH58g3"
@@ -1699,6 +1825,24 @@
     },
     {
       "album": {
+        "name": "Rock Your Baby",
+        "url": "https://open.spotify.com/album/54pQsgqoXnkBZnWz8JdCdP"
+      },
+      "artists": [
+        {
+          "name": "George McCrae",
+          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201400,
+      "name": "Rock Your Baby",
+      "url": "https://open.spotify.com/track/39ZwPBjIPjXl1SlO8NKsWF"
+    },
+    {
+      "album": {
         "name": "Super 20 - Discoparty",
         "url": "https://open.spotify.com/album/2pGLHCFQ88rB92jw0pWlz7"
       },
@@ -1714,7 +1858,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 237973,
       "name": "Shame, Shame, Shame",
       "url": "https://open.spotify.com/track/1omsOCgn46ZJ2UfK84qheK"
@@ -1808,7 +1952,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 198546,
       "name": "Smiling Faces Sometimes",
       "url": "https://open.spotify.com/track/5Vdg4tP25ffeGEC5GGmCwm"
@@ -1826,7 +1970,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 213560,
       "name": "Spanish Harlem",
       "url": "https://open.spotify.com/track/0sQ594D1EuU66VDdtHBE6j"
@@ -1898,7 +2042,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 233600,
       "name": "Superfly",
       "url": "https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r"
@@ -1916,7 +2060,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 251560,
       "name": "Supernatural Thing, Pt. 1",
       "url": "https://open.spotify.com/track/62dhSmROhppvuWyeCeC730"
@@ -2028,7 +2172,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 459893,
       "name": "The Payback",
       "url": "https://open.spotify.com/track/5OcyX5eg7VrJuI833qOCUc"
@@ -2154,7 +2298,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 204160,
       "name": "Think (About It)",
       "url": "https://open.spotify.com/track/1kG2PZ8geznbDA8I6iWeDi"
@@ -2179,6 +2323,24 @@
     },
     {
       "album": {
+        "name": "The Story Of Cornelius Brothers & Sister Rose",
+        "url": "https://open.spotify.com/album/2DO7omBXXS8eGg1TyJ23iW"
+      },
+      "artists": [
+        {
+          "name": "Cornelius Brothers & Sister Rose",
+          "url": "https://open.spotify.com/artist/2GFB1Lc67mbqFXTPCM9XzT"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198693,
+      "name": "Too Late To Turn Back Now",
+      "url": "https://open.spotify.com/track/2OyaNAq8BcGstyzueloqpE"
+    },
+    {
+      "album": {
         "name": "On The Loose / Trapped By A Thing Called Love",
         "url": "https://open.spotify.com/album/03TYvSXimtWZMxhHUjDBzd"
       },
@@ -2190,7 +2352,7 @@
       ],
       "date_added": "2021-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 160626,
       "name": "Trapped By a Thing Called Love",
       "url": "https://open.spotify.com/track/2f1kaz9iKDa9aHwZMfdbti"
@@ -2306,7 +2468,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 199506,
       "name": "We Can Work It Out",
       "url": "https://open.spotify.com/track/41q8ZiB3LZl4HRmmzUTIo4"
@@ -2508,7 +2670,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 277973,
       "name": "Why Can't We Live Together",
       "url": "https://open.spotify.com/track/722E6CPY8biq4sUnf40u6Y"
@@ -2645,6 +2807,24 @@
     },
     {
       "album": {
+        "name": "Talking Book",
+        "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178200,
+      "name": "You Are The Sunshine Of My Life",
+      "url": "https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX"
+    },
+    {
+      "album": {
         "name": "You Know How to Love Me (Expanded Edition)",
         "url": "https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM"
       },
@@ -2656,7 +2836,7 @@
       ],
       "date_added": "2021-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 226840,
       "name": "You Know How to Love Me - 7\" Version",
       "url": "https://open.spotify.com/track/12nDGzwsNPNjULCy7VKGHx"
@@ -2728,7 +2908,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 208840,
       "name": "You To Me Are Everything",
       "url": "https://open.spotify.com/track/5g7gllIUbtPPDjHy0iZcJw"

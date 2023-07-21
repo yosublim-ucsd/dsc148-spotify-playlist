@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/6Skl2RueCJYKBBm1Yr6BBQ?si=114mRukaRMy6FHAipWDH8w\">Riana Nel</a> ",
+  "description": "Net die beste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41?si=rR1PpJXuSFO7jh3FvO-2Vw\">Franja Du Plessis</a> ",
   "name": "Afrikaanse Hits",
   "tracks": [
     {
@@ -644,7 +644,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 197828,
       "name": "Ek Ly Aan",
       "url": "https://open.spotify.com/track/5q7za64TQKzLN6qga093Jo"
@@ -908,6 +908,24 @@
       "duration_ms": 198995,
       "name": "Haai Haai",
       "url": "https://open.spotify.com/track/7oNaAYHagyDVzB8YoyhuMm"
+    },
+    {
+      "album": {
+        "name": "Hakahana",
+        "url": "https://open.spotify.com/album/1flV02HwwjK81hNI6jzNxS"
+      },
+      "artists": [
+        {
+          "name": "Franja Du Plessis",
+          "url": "https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185538,
+      "name": "Hakahana",
+      "url": "https://open.spotify.com/track/4CpYNgOR68YBngjZ1z1DFH"
     },
     {
       "album": {
@@ -1569,6 +1587,24 @@
     },
     {
       "album": {
+        "name": "Ligte Af",
+        "url": "https://open.spotify.com/album/15v3zObf0eumyFqXxEQNFe"
+      },
+      "artists": [
+        {
+          "name": "Ruan Josh",
+          "url": "https://open.spotify.com/artist/0laMRbnKacdf1ueMabXUPO"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206732,
+      "name": "Ligte Af",
+      "url": "https://open.spotify.com/track/2ZEYOx3O4BhTOrSZE36k6a"
+    },
+    {
+      "album": {
         "name": "Jona",
         "url": "https://open.spotify.com/album/2C70Ty4DGUj3nrSIAY16B3"
       },
@@ -1844,7 +1880,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 178705,
       "name": "NIKS OM OOR HUIS TOE TE SKRYF NIE",
       "url": "https://open.spotify.com/track/6rUJ1EiVhylKHZTEeqOV05"

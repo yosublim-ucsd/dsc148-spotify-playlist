@@ -16388,10 +16388,28 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 262456,
       "name": "Yeh Aawaaz",
       "url": "https://open.spotify.com/track/39IBuQdzSacBwV5Ji6yhFa"
+    },
+    {
+      "album": {
+        "name": "Chameleon World",
+        "url": "https://open.spotify.com/album/0W5BRKhmZrLpoIyokbnIzX"
+      },
+      "artists": [
+        {
+          "name": "Bryden & Parth",
+          "url": "https://open.spotify.com/artist/0xm9AriR5cmVDwMBWL2HHo"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262456,
+      "name": "Yeh Aawaaz",
+      "url": "https://open.spotify.com/track/6drnBPgMZws9STY3QdFzmP"
     },
     {
       "album": {

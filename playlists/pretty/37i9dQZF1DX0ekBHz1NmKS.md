@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 
 > Här hör du de bästa svenska låtarna just nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,068 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,071 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ekBHz1NmKS.md) - [plain]
 | 99 | [late night thoughts](https://open.spotify.com/track/3DZxxkVLybnofY4K2od9yW) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM) | [late night thoughts](https://open.spotify.com/album/6jjduNuyly6Y40kJWl5UZN) | 2:25 |
 | 100 | [Säg Nåt](https://open.spotify.com/track/4d6T28FYS3J9abyazo8EQT) | [Medina](https://open.spotify.com/artist/3HbP7OfT7PCV0BrR0ReUkC) | [Säg Nåt](https://open.spotify.com/album/7pm6ZggG5vTiwMZ4VcXWiY) | 2:46 |
 
-Snapshot ID: `MCw3N2E5ZDgzZmIwMzM1MTRiNTQ5OTI0NGM2MWI2MjE0Y2Q5YmJiZGI4`
+Snapshot ID: `MCwxYWU2ZDE0ZmU5MjI1YmNlNmI3OGRiMjhjMThiYTY0ODEzMWQ0MTU5`

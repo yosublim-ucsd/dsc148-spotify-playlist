@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy?si=31be8d0d68a64c36">Trip Lee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,627 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,698 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 99 | [Up](https://open.spotify.com/track/3bY6606BZNDJsMJiFUQ9qj) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Up](https://open.spotify.com/album/339EY1xqT4QUJvGHDbCxCq) | 2:53 |
 | 100 | [josiah.](https://open.spotify.com/track/0g6UbSmO8by3ecCSNmS7ca) | [Dillon Chase](https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8) | [josiah.](https://open.spotify.com/album/0cm3YLe7A3sNtFPEqix58J) | 2:09 |
 
-Snapshot ID: `MCxlN2Q3ZWNhOTA3OGUwM2E4MTQwMTBjMjExNTI5YzQ3OWExOGJjNjVh`
+Snapshot ID: `MCxhYWUyMDUzZWYyMDgxYTI4MDYzOTIwMTFmNzQ1NjQxYTAyMWJhOTVk`

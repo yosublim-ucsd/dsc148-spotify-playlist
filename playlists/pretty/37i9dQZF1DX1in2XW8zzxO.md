@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 
 > Amapiano tracks to fuel your beast mode!
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,560 likes - 79 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,695 likes - 79 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 | 73 | [Sandton \(feat\. Focalistic, Kamo Mphela & Bontle Smith\)](https://open.spotify.com/track/6VIlerY0Emf3oYWIVBIsMN) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Kamo Mphela](https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon), [Bontle Smith](https://open.spotify.com/artist/6xcF2N2Z4NFVEkLCZluCLC) | [The Return of the Scorpion Kings](https://open.spotify.com/album/3jVIkEFzkl5JuF4cLL1DKq) | 6:52 |
 | 74 | [Location](https://open.spotify.com/track/7ogZ485BlYFPUymcrTC0Is) | [Sje Konka](https://open.spotify.com/artist/1KAE5EFbVnz0RGnj9DdY1l), [Freddy K](https://open.spotify.com/artist/1okK7TdfTbLQbgSG1hejiY), [Robot Boii](https://open.spotify.com/artist/66MEUwWMZWL1PlTEHx8Grp) | [Location](https://open.spotify.com/album/73w9zUGjkV9TqlzROMOclV) | 5:44 |
 | 75 | [Nini Nannini \(feat\. Daliwonga & Howard Gomba\)](https://open.spotify.com/track/3MqIKE7r4Pjag6xaEgOHlD) | [Mas Musiq](https://open.spotify.com/artist/3fdFRgy3GmfiWQqeKbmFS8), [Daliwonga](https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn), [Howard Gomba](https://open.spotify.com/artist/6BxBeI7yJjq876ErPGPatm) | [NINI na NINI](https://open.spotify.com/album/0R4G8NI4IjNRcqqrCBRUCr) | 6:42 |
-| 76 | [Shaka Zulu \(feat\. Young Stunna\)](https://open.spotify.com/track/77pVhq7KrUYE3ZRd3XUi9F) | [J&S Projects](https://open.spotify.com/artist/66cOfMJH2FvpXFhJzGvvZP), [Dj Jaivane](https://open.spotify.com/artist/4F8OilWxRKQzg1Lw9sJ4Pl), [Young Stunna](https://open.spotify.com/artist/5G3BcC5c3OhfYsFMFUNUbS) | [XpensiveClections, Vol\. 41](https://open.spotify.com/album/3d2jVmROpZoUKqDAAnmG94) | 5:52 |
+| 76 | [Shaka Zulu \(feat\. Young Stunna\)](https://open.spotify.com/track/77pVhq7KrUYE3ZRd3XUi9F) | [J&S Projects](https://open.spotify.com/artist/66cOfMJH2FvpXFhJzGvvZP), [Dj Jaivane](https://open.spotify.com/artist/4F8OilWxRKQzg1Lw9sJ4Pl), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ) | [XpensiveClections, Vol\. 41](https://open.spotify.com/album/3d2jVmROpZoUKqDAAnmG94) | 5:52 |
 | 77 | [HANNAH MONTANA](https://open.spotify.com/track/15gpBjflmoEQ0Hpe8SqMud) | [Kamo Mphela](https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon), [BoiBizza](https://open.spotify.com/artist/1eEtFWkyKW60yUyVwvAeuR), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N), [Nobantu Vilakazi](https://open.spotify.com/artist/3qo2q05gFa09MXrEZltr7q), [Bontle Smith](https://open.spotify.com/artist/6xcF2N2Z4NFVEkLCZluCLC), [Visca](https://open.spotify.com/artist/4Ijr6oNjLibby38inghdKO), [Shaun MusiQ](https://open.spotify.com/artist/4GxjM4diRMDmrJgOBSeoBL), [Ftears](https://open.spotify.com/artist/0DT7OuytIwr9CjLYdvLHq7), [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz) | [HANNAH MONTANA](https://open.spotify.com/album/5vtEJHcUHSWXtv6rv52zM2) | 6:25 |
 | 78 | [Bulldozer](https://open.spotify.com/track/63aJ6gi41fLZdmd29AMi01) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [Novelist](https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc) | [Bulldozer](https://open.spotify.com/album/3mmGpsFRLodEWkK3kmBsHt) | 5:01 |
 | 79 | [Bundle of Joy](https://open.spotify.com/track/63HL27uW6RXQq0vjL8XZIe) | [Vigro Deep](https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH) | [Baby Boy 2 Reloaded](https://open.spotify.com/album/1yWI355GWrXToRiwrP6osF) | 7:27 |
 
-Snapshot ID: `MCw5ZDc2YWQ1ODQ4Nzc4YTNiNzQ3OGEwMWNkZWZkNDY5NmNmNTRmNzFj`
+Snapshot ID: `MCxmMTNmYzA1M2M2ZWQ4YjdkY2FmNzhlYjdmNGI4YTVkODRmNzRlYzM2`

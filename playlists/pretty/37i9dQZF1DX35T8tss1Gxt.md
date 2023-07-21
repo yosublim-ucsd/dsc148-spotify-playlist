@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover: Gene Moore
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,708 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,881 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 99 | [Learning to Forgive](https://open.spotify.com/track/5miGv60VQY9otU6fXpKmPw) | [Lloyd Nicks](https://open.spotify.com/artist/27PNOaBc3uYEgF3rrxeQjh) | [Learning to Forgive](https://open.spotify.com/album/5EeAaAloApOGtw0Nb2yvoP) | 3:04 |
 | 100 | [Another Day](https://open.spotify.com/track/72s5XT0NrfnntJguAKikwB) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta), [Moflo Music](https://open.spotify.com/artist/6MPy3PayvN8uNYA8Wm3Z4a), [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce) | [Another Day](https://open.spotify.com/album/6Oji73jLgqllCvYljE0Fbn) | 3:04 |
 
-Snapshot ID: `MCxmNWNiYjFiZjM5YmIzZGUxNTI1NTg0NjgwYWM1ZGJlNWVhOTljNDMx`
+Snapshot ID: `MCxjYTlkY2RhODA3NTBiNzEzYWIyZDk2YzU5MjY5YjYzYzAwOTU0YWQx`

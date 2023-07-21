@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Lisandro Cuxi.
 
-317 songs - 19 hr 6 min
+318 songs - 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,7 +289,8 @@
 | [Todos Dias](https://open.spotify.com/track/4tRMqP0yXZVCUTPHD4UMqR) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Filomena Maricoa](https://open.spotify.com/artist/6Q4EivaeYo4AYKQWlEVZq1) | [Todos Dias](https://open.spotify.com/album/0Df0CaHlnUZZd9f7LkDN8W) | 3:03 | 2022-07-22 | 2022-07-26 |
 | [Toquei](https://open.spotify.com/track/3OuhLAiyqxCeDj4FRsioIt) | [Kenny André](https://open.spotify.com/artist/5cYWf1PB3aglJRprDIcTWP) | [Toquei](https://open.spotify.com/album/7awa6wm7eSKfIdWSbErMEM) | 3:42 | 2022-03-25 | 2022-04-17 |
 | [Tou Nem Aí](https://open.spotify.com/track/5i9rk1inbBQiTU112UoLcv) | [MDO \(Menino de Ouro\)](https://open.spotify.com/artist/0hTrdral9FhNQTTNIXTno1), [Dreya](https://open.spotify.com/artist/4h2KoRtVUQKaWfa8E2dPPW) | [Tou Nem Aí](https://open.spotify.com/album/7CRh6bwRZjVeEnwcKXLwlG) | 3:39 | 2022-06-06 | 2022-06-17 |
-| [Tratar Bem](https://open.spotify.com/track/5Ypj0wxu8cOmefuzHkZZMw) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp) | [Tratar Bem](https://open.spotify.com/album/54KtaVeBmJolKnvcSWFUTs) | 3:09 | 2022-12-16 |  |
+| [Tratar Bem](https://open.spotify.com/track/5Ypj0wxu8cOmefuzHkZZMw) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp) | [Tratar Bem](https://open.spotify.com/album/54KtaVeBmJolKnvcSWFUTs) | 3:09 | 2022-12-16 | 2023-07-21 |
+| [Tratar Bem](https://open.spotify.com/track/7N1qiiMNnL9t4HxBtet1zr) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp) | [Tratar Bem](https://open.spotify.com/album/5pRNcez7yE2ytHjzlcm5Cu) | 3:09 | 2023-07-13 |  |
 | [Trompete](https://open.spotify.com/track/2PEIsEdhCs1ykvN9tY6erM) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L), [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Trompete](https://open.spotify.com/album/6xGbYgroEdQLyEMdSeQqeS) | 4:17 | 2022-11-11 |  |
 | [True Love\_Kizomba Remix USA](https://open.spotify.com/track/7wGFAdXmj2yauEi3lALthW) | [Royal Prince Kizzouk](https://open.spotify.com/artist/7B2F8kL63sle1wAO90d4fd) | [True Love\_Kizomba Remix USA](https://open.spotify.com/album/56FEjxW5D5T9m5mqlY9aFC) | 4:06 | 2021-12-10 | 2022-07-10 |
 | [Tu & Eu](https://open.spotify.com/track/7gY9rlvdVsS78HqngBwUr7) | [Mr\. Drackson](https://open.spotify.com/artist/57f2YS2CAMSJKg9365maDq), [Dj João Linho](https://open.spotify.com/artist/4acRfHNyBdaQgYypD4o8Dx) | [Tu & Eu](https://open.spotify.com/album/11iwzEkKB7L4duQXWW9ZK3) | 4:15 | 2022-04-29 | 2022-06-11 |

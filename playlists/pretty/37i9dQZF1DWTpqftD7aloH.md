@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpqftD7aloH.md) - [plain]
 
 > No caminho para igreja, trabalho ou voltando para casa, louve ao Senhor em todo o tempo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,863 likes - 120 songs - 11 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,197 likes - 120 songs - 11 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpqftD7aloH.md) - [plain]
 | 119 | [Rei da Glória \- Ao Vivo](https://open.spotify.com/track/5bkQg34pw8HgHEWIHVrR9a) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P), [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz) | [Noite de Adoração II \(Ao Vivo\)](https://open.spotify.com/album/2CeWFrnYgd41qj5qf7TXnp) | 8:33 |
 | 120 | [Tua Presença \- Ao Vivo](https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi) | [Tua Presença \(Ao Vivo\)](https://open.spotify.com/album/0eoHfKmCRrv79OQLJ7OthV) | 5:20 |
 
-Snapshot ID: `MCwxNzkwM2YyMTQwZjRjYmE0ZjcxOGMxMGY0M2E1ZWJlMzQ0NmJhZTdj`
+Snapshot ID: `MCxjZDY4MDBiMmI1MWJjODM4N2IzYWFjMzY5NTFiOWQ4NjAxODAyMzA4`

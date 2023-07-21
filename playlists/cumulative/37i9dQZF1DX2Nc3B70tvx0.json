@@ -576,7 +576,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 241661,
       "name": "A day in the water",
       "url": "https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt"
@@ -1646,7 +1646,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 224946,
       "name": "Amoeba - Recorded At Electric Lady Studios",
       "url": "https://open.spotify.com/track/04FtOyX3Gb1XPDiuioA3cN"
@@ -1826,7 +1826,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 126232,
       "name": "Ant Pile",
       "url": "https://open.spotify.com/track/6OrCWnvAja4n5IYdzchJlH"
@@ -2996,7 +2996,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-14",
+      "date_removed": null,
       "duration_ms": 173262,
       "name": "Best Disaster",
       "url": "https://open.spotify.com/track/6dmZu0IVmbT1rDIiYiRchg"
@@ -5726,7 +5726,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 238640,
       "name": "Creep",
       "url": "https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r"
@@ -6542,7 +6542,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 213817,
       "name": "Dial Drunk",
       "url": "https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5"
@@ -8166,7 +8166,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 176005,
       "name": "Everything Is Boring",
       "url": "https://open.spotify.com/track/0dCdc1vL6N9rbyQ89waSCx"
@@ -8286,6 +8286,24 @@
       "duration_ms": 142285,
       "name": "Exscape",
       "url": "https://open.spotify.com/track/5L1WMbYfNFkmlyG407ke6S"
+    },
+    {
+      "album": {
+        "name": "Eye On The Bat",
+        "url": "https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR"
+      },
+      "artists": [
+        {
+          "name": "Palehound",
+          "url": "https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176869,
+      "name": "Eye On The Bat",
+      "url": "https://open.spotify.com/track/7HRBGUCJQSjsPoYeB96OlM"
     },
     {
       "album": {
@@ -10406,7 +10424,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 214800,
       "name": "Good Looking",
       "url": "https://open.spotify.com/track/0j3mqDTK4Z6lvrLzFCUUz6"
@@ -11370,7 +11388,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-19",
+      "date_removed": null,
       "duration_ms": 191632,
       "name": "heavun",
       "url": "https://open.spotify.com/track/2gtEPlDqBTQ0uYMsaQebcH"
@@ -14024,7 +14042,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 239213,
       "name": "Infinity Repeating (2013 Demo) [feat. Julian Casablancas+The Voidz]",
       "url": "https://open.spotify.com/track/4r4fX4NZIqVIhGyDvERp0l"
@@ -14314,6 +14332,28 @@
       "duration_ms": 190960,
       "name": "It Might Take a Woman",
       "url": "https://open.spotify.com/track/59FVrD6JZb0PsF1Ok9AoPb"
+    },
+    {
+      "album": {
+        "name": "My Back Was A Bridge For You To Cross",
+        "url": "https://open.spotify.com/album/1dCATYrVa8hV0sbVGBGacz"
+      },
+      "artists": [
+        {
+          "name": "ANOHNI",
+          "url": "https://open.spotify.com/artist/6VJZYivuYJGCrPuOAnI7Qo"
+        },
+        {
+          "name": "Antony and the Johnsons",
+          "url": "https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295013,
+      "name": "It Must Change",
+      "url": "https://open.spotify.com/track/6IvbVGkQgz03zyOMR5eIkz"
     },
     {
       "album": {
@@ -15324,7 +15364,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 237434,
       "name": "kisses",
       "url": "https://open.spotify.com/track/2qUNrUbCYoUE6MsOR3tTD1"
@@ -17074,7 +17114,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-13",
+      "date_removed": null,
       "duration_ms": 210136,
       "name": "Maps",
       "url": "https://open.spotify.com/track/4CKRwn0AIG5Fmbf040suEj"
@@ -19652,7 +19692,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-15",
+      "date_removed": null,
       "duration_ms": 203876,
       "name": "Oh No Darling!",
       "url": "https://open.spotify.com/track/1PZhJNvdDjpsjZWrkfgff4"
@@ -19942,7 +19982,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 216426,
       "name": "Once Upon A Poolside (feat. Sufjan Stevens)",
       "url": "https://open.spotify.com/track/4xAHN13Q8MgKXO18rSyvzU"
@@ -22017,6 +22057,42 @@
     },
     {
       "album": {
+        "name": "Cub",
+        "url": "https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7"
+      },
+      "artists": [
+        {
+          "name": "Wunderhorse",
+          "url": "https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202653,
+      "name": "Purple",
+      "url": "https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz"
+    },
+    {
+      "album": {
+        "name": "Purple Moon",
+        "url": "https://open.spotify.com/album/52aESqgK1s1SwCZ91iA6u4"
+      },
+      "artists": [
+        {
+          "name": "Ilgen-Nur",
+          "url": "https://open.spotify.com/artist/4FjRuMCcbAdiYBr47QE3xX"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197203,
+      "name": "Purple Moon",
+      "url": "https://open.spotify.com/track/0O1S4dPj32c91BpyiHdo7L"
+    },
+    {
+      "album": {
         "name": "Push Me Away",
         "url": "https://open.spotify.com/album/4hlNGJ1p7zNa009uiFFFSQ"
       },
@@ -22184,7 +22260,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-20",
+      "date_removed": null,
       "duration_ms": 216851,
       "name": "Rabbit",
       "url": "https://open.spotify.com/track/6zOy33O1PzuGWzDnjsfXLe"
@@ -24078,7 +24154,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 162678,
       "name": "Sleeping On My Own",
       "url": "https://open.spotify.com/track/0zGSlVBKxnZM0lBZyBmjlP"
@@ -24956,7 +25032,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-18",
+      "date_removed": null,
       "duration_ms": 263571,
       "name": "Spitting Off the Edge of the World - Lush Version",
       "url": "https://open.spotify.com/track/2E69siDC6P2Rb2Cu3aITA3"
@@ -25754,7 +25830,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-14",
+      "date_removed": null,
       "duration_ms": 285586,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/2v9t4NAYMv9rQbc70VyIuG"
@@ -25794,7 +25870,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 219813,
       "name": "Sunshine Baby",
       "url": "https://open.spotify.com/track/3vYv97XoLzoVhOhGCfs0lF"
@@ -29562,6 +29638,28 @@
       "duration_ms": 214146,
       "name": "wachito rico",
       "url": "https://open.spotify.com/track/0OYf62rdwDouKohtCALD55"
+    },
+    {
+      "album": {
+        "name": "Wagging Tongue (Remixes)",
+        "url": "https://open.spotify.com/album/3Oc7qOr81qHQIfNMjdEU1H"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        },
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278081,
+      "name": "Wagging Tongue - Wet Leg Remix",
+      "url": "https://open.spotify.com/track/5yxtxZ7IfGO18XHbRJxtkd"
     },
     {
       "album": {

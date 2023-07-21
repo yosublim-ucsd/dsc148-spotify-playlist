@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 
 > De aquí y de allá\. Un poquito de todo\. Cover: Sinego
 
-[Spotify](https://open.spotify.com/user/spotify) - 765,023 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 765,012 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRKBHjmYIE.md) - [plain]
 | 59 | [Millionaire](https://open.spotify.com/track/1kKfYZ3Mpp4sLdUZsLSHFe) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV) | [Wandering Rebel](https://open.spotify.com/album/62UjZaiTdDtv3nbtjTxgj4) | 2:52 |
 | 60 | [Luna Villera](https://open.spotify.com/track/4ojdqJnTaFlR3FgBtY6DJN) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Luna Villera](https://open.spotify.com/album/5Vm7UF6GDOFqCNfOMDtxwi) | 3:57 |
 
-Snapshot ID: `MCw3OGE1ODc4MTYyNDE2Yjg0N2NkMWI5OWE3MzJjZDBlOGQ4OGUxNTY3`
+Snapshot ID: `MCw3ODExNmUzMDdmMDU1YzJlNzUzMmI4ZTM0NTc1NGRlNmY1ZTU0NDhk`

@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-864 songs - 2 day 5 hr 27 min
+866 songs - 2 day 5 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -484,6 +484,7 @@
 | [Running In The Dark \- Image Song for Arknights mobile game](https://open.spotify.com/track/3D46cXfwM4id5YfQbpTvKA) | [Monkey Majik](https://open.spotify.com/artist/6U2dgcU46Iy9pF3RQBj5hG) | [Running In The Dark \(Image Song for Arknights mobile game\)](https://open.spotify.com/album/16X7XTvj35X5fVmE8d8jnR) | 3:40 | 2022-10-25 |  |
 | [rush](https://open.spotify.com/track/0nwExdohc2fbpAyAXr0udo) | [monje](https://open.spotify.com/artist/5UqQ3L8MFnpqFHW2oUy56Y) | [衣](https://open.spotify.com/album/4WkdCPzpqwvJWQS5jTTDHR) | 4:32 | 2023-03-09 | 2023-03-15 |
 | [S.S.S.](https://open.spotify.com/track/48f0KSnaKBBM4v5Uo3NWKN) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [S.S.S.](https://open.spotify.com/album/6r7gBmCDMCHc0C61Jgm74X) | 3:21 | 2022-08-03 | 2022-09-07 |
+| [sad girl](https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [sad girl](https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN) | 2:28 | 2023-07-20 |  |
 | [Saki e](https://open.spotify.com/track/77mbaz4zACMQYNxg0suF8h) | [RYUTO KASAHARA](https://open.spotify.com/artist/3jBsOn36WAeFeq0c7qt8Oz) | [Saki e](https://open.spotify.com/album/5r5gnTGKTzOY6IwZnGAFFs) | 4:10 | 2023-06-13 | 2023-07-05 |
 | [Sapphire \- Holy Muscle Remix](https://open.spotify.com/track/4spLZfpGNZERQ4dNqIGdrk) | [The fin.](https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa), [Holy Muscle](https://open.spotify.com/artist/64cewrunqhi3A76o1pcQMT) | [Outer Ego \(Deluxe Edition\)](https://open.spotify.com/album/5PvZB11e1EfFSVAFHjqESB) | 6:29 | 2022-09-13 | 2022-10-21 |
 | [Sashiiro](https://open.spotify.com/track/21lckxUcSbNjXvevhrEmqt) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [Sashiiro](https://open.spotify.com/album/2N7EaA2edo7hIYqsAFmxbI) | 3:03 | 2022-07-28 | 2022-09-02 |
@@ -671,7 +672,7 @@
 | [Wrecked](https://open.spotify.com/track/68wXxnlnc3B5r5QrfwRiiH) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Wrecked](https://open.spotify.com/album/41NdOKlkYvk8FJL0Uj4el1) | 2:08 | 2023-06-27 |  |
 | [yet](https://open.spotify.com/track/4eZURtwRmcsguuhxocQJG4) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf) | [from here to there](https://open.spotify.com/album/17kSaiO4qU3vigvTKPUJWU) | 4:51 | 2022-09-27 | 2022-10-21 |
 | [yet](https://open.spotify.com/track/7nORjp0eLh1ioyFRZhdxci) | [Ryu Matsuyama](https://open.spotify.com/artist/59krd1xNH8IJFknx9wFiVf) | [from here to there](https://open.spotify.com/album/0DvvbZD0pcy07zdj2RZzSM) | 4:51 | 2022-09-27 | 2022-09-29 |
-| [yonaki](https://open.spotify.com/track/6K49hJ87qPnbK56389k5lJ) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [yonaki](https://open.spotify.com/album/4FNlB69LR1b8kvfRiC1EwR) | 3:50 | 2023-05-16 |  |
+| [yonaki](https://open.spotify.com/track/6K49hJ87qPnbK56389k5lJ) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [yonaki](https://open.spotify.com/album/4FNlB69LR1b8kvfRiC1EwR) | 3:50 | 2023-05-16 | 2023-07-21 |
 | [You Are Nobody \(feat\. ひかり\)](https://open.spotify.com/track/0L1gFquDz7MpLvlAH2J7KM) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [You Are Nobody \(feat\. ひかり\)](https://open.spotify.com/album/5GSwcNsaqH3YfxvrjTkjTw) | 3:58 | 2022-05-26 | 2022-06-01 |
 | [You Just Walked In My Life](https://open.spotify.com/track/7eRHytSFVvMRNk1at0HkWs) | [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [You Just Walked In My Life](https://open.spotify.com/album/3r6AKB3Zf1lTcG0et17Hdz) | 2:59 | 2023-03-07 |  |
 | [Your Next](https://open.spotify.com/track/7aj8CY9wmj9RFDjQKeWvJL) | [EMMA WAHLIN](https://open.spotify.com/artist/5vLM0jSwj4TMVhnWuocoaD) | [Your Next](https://open.spotify.com/album/3O5ElEKrcZgpCqPrNZXUl2) | 3:38 | 2022-05-26 | 2022-06-22 |
@@ -789,9 +790,10 @@
 | [夢中](https://open.spotify.com/track/4Gtnu9xFjyznf1za92wHqH) | [Ochunism](https://open.spotify.com/artist/3w5Y9qujoqMYzjk6aIgpnS) | [夢中](https://open.spotify.com/album/0YPwMGNvyNwXlp1W3Ug6T1) | 3:59 | 2022-05-26 | 2022-06-24 |
 | [大団円](https://open.spotify.com/track/5V7rGQWLQMvht6Gxk7DJLb) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [ZORN](https://open.spotify.com/artist/1HPfjeInjrDEMW1ffZv33C) | [大団円](https://open.spotify.com/album/0fjb2tnhAwn5sdN6KSXZbM) | 5:25 | 2023-07-04 |  |
 | [天国にいちばん近い島](https://open.spotify.com/track/67wpz675S04tMcORr36Psb) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [天国にいちばん近い島](https://open.spotify.com/album/4YPZiZnV40IFY4X3j8Jnta) | 4:43 | 2022-10-04 | 2023-07-07 |
-| [太陽が昇るまで](https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Inner Ocean](https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1) | 3:43 | 2023-01-11 |  |
+| [太陽が昇るまで](https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Inner Ocean](https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1) | 3:43 | 2023-01-11 | 2023-07-21 |
 | [失敗](https://open.spotify.com/track/5XwbJUBGiE0gNKvN7pOa2V) | [Summer Eye](https://open.spotify.com/artist/69rC8L85Qulb5g3aPbfYfy) | [失敗](https://open.spotify.com/album/6tszrSXPP1ARwhheTvqvU4) | 4:25 | 2023-01-31 | 2023-02-24 |
 | [安心と慢心](https://open.spotify.com/track/6zRR7wIb63JAY8FY7H5MGW) | [志摩陽立](https://open.spotify.com/artist/2XppGVZM0aitf8inKxorUG) | [安心と慢心](https://open.spotify.com/album/3zIWzQaUt0rdFDd5t5eJp6) | 4:54 | 2023-07-11 | 2023-07-19 |
+| [宝船](https://open.spotify.com/track/7kJ8JbfuFYKF1IUiyWUsvp) | [Nao'ymt](https://open.spotify.com/artist/5sqUW4XEHsGVQT6z5NGgJf) | [宝船](https://open.spotify.com/album/7o8SgwRmF7fLqKWyMDuSqK) | 4:33 | 2023-07-20 |  |
 | [差し色](https://open.spotify.com/track/2AE8eW32N5jimZ9wVO39Br) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [差し色](https://open.spotify.com/album/0osPjHgcenfbVxnPHuMZ4W) | 3:03 | 2022-05-26 | 2022-07-29 |
 | [帰り路 \- MONJOE Remix](https://open.spotify.com/track/2dwK6HnOEGCVbVOjCQtQGG) | [idom](https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx), [MONJOE](https://open.spotify.com/artist/5f9YLfnNCxH8NRdLHVh83P) | [帰り路 \(MONJOE Remix\)](https://open.spotify.com/album/4WlZLxlIrggvFJxZYDby6a) | 3:25 | 2022-05-26 | 2022-07-06 |
 | [幽霊](https://open.spotify.com/track/5aJwduSF9XWNHxBBEImSNc) | [YAJICO GIRL](https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4) | [幽霊](https://open.spotify.com/album/3kYcafDQ4uHEQKTB7VTXme) | 3:28 | 2022-11-08 | 2023-01-18 |

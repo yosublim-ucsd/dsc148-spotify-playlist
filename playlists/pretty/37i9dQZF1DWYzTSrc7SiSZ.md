@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzTSrc7SiSZ.md) - [plain]
 
 > Get the chill vibes going and flowing ✨ Las vibras tranqui que ocupas en tu vida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 662,549 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 662,627 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzTSrc7SiSZ.md) - [plain]
 | 99 | [Me Quiere No Me Quiere](https://open.spotify.com/track/3S78B1sxAChnS4IR9o29rA) | [Ana Mancebo](https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd) | [La Española](https://open.spotify.com/album/44oN5bmalA3nOV0TQfJD64) | 2:50 |
 | 100 | [Knock Out](https://open.spotify.com/track/1qkmBKxrpW2brB10WlqM99) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I) | [Escorpio](https://open.spotify.com/album/0S59LCu434GKMKElLFd8wO) | 2:58 |
 
-Snapshot ID: `MCxmMmNhYTgyMDRiODk3ZGRiMWY4YmRkODI2N2NiMTgyMDg0OWQ5MjNk`
+Snapshot ID: `MCw0ZTljODRkNDlkOTczYzExZGNjYTVhYjVhZDg3ZmZlZTIzYmVkNWZl`

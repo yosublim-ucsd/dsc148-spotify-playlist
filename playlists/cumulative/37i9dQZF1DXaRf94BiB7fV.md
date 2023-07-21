@@ -4,7 +4,7 @@
 
 > Emerging Indie artists on the rise, updated every Wednesday\. Cover: Shivam Grover , Artwork: Isu Kim
 
-846 songs - 2 day 2 hr 25 min
+847 songs - 2 day 2 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -838,7 +838,8 @@
 | [Ye Jhootha Samaa](https://open.spotify.com/track/0YQTrdP63BTZwjzaEHInx3) | [Antariksh](https://open.spotify.com/artist/4RzIOJu74yNYeSHL3ri60l), [Shruti Dhasmana](https://open.spotify.com/artist/6IWgkz5oMp5pJwM7T3drvr), [Abhay Sharma](https://open.spotify.com/artist/3MoObXWEFyxfYPWGCsViX3) | [Ye Jhootha Samaa](https://open.spotify.com/album/1AuAAzaGUeskDBb6tLeCAV) | 5:01 | 2022-07-06 | 2022-09-09 |
 | [Ye Kaisa Sheher Hai](https://open.spotify.com/track/5DzgfCZFMlHxss6C9xkReN) | [Goyell Saab](https://open.spotify.com/artist/2CN4nSMtSdnMyn6IGAttPF) | [Ye Kaisa Sheher Hai](https://open.spotify.com/album/5OFbPz6w8Q0I4YKOBdwwYH) | 2:49 | 2023-01-25 | 2023-03-23 |
 | [Ye Zindagaani](https://open.spotify.com/track/22jjOboNf9qB3xSCwXK5pt) | [Sanam Malik](https://open.spotify.com/artist/39bDtXEgvPfW2adoyRi4kI) | [Ye Zindagaani](https://open.spotify.com/album/0CuPuKKwwgTX4XOx1seZwr) | 3:37 | 2022-03-09 | 2022-05-05 |
-| [Yeh Aawaaz](https://open.spotify.com/track/39IBuQdzSacBwV5Ji6yhFa) | [Bryden & Parth](https://open.spotify.com/artist/0xm9AriR5cmVDwMBWL2HHo) | [Yeh Aawaaz](https://open.spotify.com/album/7wDY49G9uLEELKLrtghaY5) | 4:22 | 2023-07-05 |  |
+| [Yeh Aawaaz](https://open.spotify.com/track/39IBuQdzSacBwV5Ji6yhFa) | [Bryden & Parth](https://open.spotify.com/artist/0xm9AriR5cmVDwMBWL2HHo) | [Yeh Aawaaz](https://open.spotify.com/album/7wDY49G9uLEELKLrtghaY5) | 4:22 | 2023-07-05 | 2023-07-21 |
+| [Yeh Aawaaz](https://open.spotify.com/track/6drnBPgMZws9STY3QdFzmP) | [Bryden & Parth](https://open.spotify.com/artist/0xm9AriR5cmVDwMBWL2HHo) | [Chameleon World](https://open.spotify.com/album/0W5BRKhmZrLpoIyokbnIzX) | 4:22 | 2023-07-19 |  |
 | [Yeh Shaam](https://open.spotify.com/track/44e6LWMz011gq6QU45nw2P) | [Shubham Kabra](https://open.spotify.com/artist/2gxw2IBkHbDFpzqLqx3AQy) | [Yeh Shaam](https://open.spotify.com/album/1OsdoncZf5VeLCSw1tOF7w) | 3:54 | 2021-12-01 | 2022-01-13 |
 | [Yeh Tera Saath](https://open.spotify.com/track/48iuOjCiqD6sVNJTghdq3H) | [Ansh Chomal](https://open.spotify.com/artist/7x6pL8PMbtIp6zCNe2Lgss), [Malay Vyas](https://open.spotify.com/artist/5ZEpCNPTiseCgA10LUypSk) | [Yeh Tera Saath](https://open.spotify.com/album/4Rsb0HrQ7wmV3B05K1EXHE) | 3:04 | 2021-12-01 | 2022-01-13 |
 | [Yellow](https://open.spotify.com/track/6ckzGg7fAY5OnCA8KhN7mf) | [Alboe](https://open.spotify.com/artist/37c4lUIdM8JcXBoDYEDrmc) | [The Painter](https://open.spotify.com/album/7veN8Qz5XkCpHwxdeeF4c1) | 2:39 | 2021-12-01 | 2022-01-13 |

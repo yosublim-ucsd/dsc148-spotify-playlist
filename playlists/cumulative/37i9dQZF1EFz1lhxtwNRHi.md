@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5tDsz1WqJv1ZFSXeC453wy">Teddy Geiger</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-177 songs - 9 hr 42 min
+179 songs - 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,7 +164,8 @@
 | [Under the Blue](https://open.spotify.com/track/5XNiGICOo8gIjqhiauFYjM) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [LillyAnna](https://open.spotify.com/album/2tsAo6YXbFha5LKr8PuIgt) | 3:28 | 2022-09-08 | 2022-10-14 |
 | [Understand](https://open.spotify.com/track/4IiHCtnfw8tZasAeocWqVe) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 5:00 | 2022-09-08 |  |
 | [Unless It's With You](https://open.spotify.com/track/7fklxl8AxKiGz5fFZEglIm) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Liberation](https://open.spotify.com/album/7MfUiQkVEDkOSmU83A2C9q) | 4:17 | 2022-09-08 |  |
-| [Vampire](https://open.spotify.com/track/56WkfBKWfbvauMgeK8nivR) | [Nitemayor](https://open.spotify.com/artist/45KCfdrl8y47xRUtd3FZ5a) | [Vampire](https://open.spotify.com/album/7Gq6sRRezEa7QKpX4oXVjr) | 3:34 | 2022-09-08 |  |
+| [Vampire](https://open.spotify.com/track/4x6KNgwA99loNZcRYrFzod) | [Nitemayor](https://open.spotify.com/artist/45KCfdrl8y47xRUtd3FZ5a) | [Vampire](https://open.spotify.com/album/3eKNnH66JwNGWV5F3ZGP55) | 3:34 | 2023-07-20 |  |
+| [Vampire](https://open.spotify.com/track/56WkfBKWfbvauMgeK8nivR) | [Nitemayor](https://open.spotify.com/artist/45KCfdrl8y47xRUtd3FZ5a) | [Vampire](https://open.spotify.com/album/7Gq6sRRezEa7QKpX4oXVjr) | 3:34 | 2022-09-08 | 2023-07-21 |
 | [Voodoo](https://open.spotify.com/track/5Abiq1bL8hMcMh1JUawYQM) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [Beach House](https://open.spotify.com/album/34CM6goLL2v6OYsYpVtV80) | 3:59 | 2022-10-20 |  |
 | [Voodoo](https://open.spotify.com/track/6lhp2HxYk0dPxrKwWEuaWr) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [Beach House](https://open.spotify.com/album/5shnElSTugZ2ITzWUmDS5L) | 3:59 | 2022-09-08 | 2022-10-21 |
 | [Way Back](https://open.spotify.com/track/5yId5vztDqFdpYIMkDs4XV) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Cozi Zuehlsdorff](https://open.spotify.com/artist/5wMfct6VVvaVQ8xGCXxIUa) | [Way Back](https://open.spotify.com/album/1228EEKC3pUCGKsnhJs49Z) | 3:28 | 2022-09-08 |  |
@@ -184,6 +185,7 @@
 | [Work It Out \(feat\. Digital Farm Animals\)](https://open.spotify.com/track/2Zh7PQ1JFEsBclf7WIsfIV) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Digital Farm Animals](https://open.spotify.com/artist/5fyDppLDl1juIu1BcUT5zh) | [3](https://open.spotify.com/album/5RpkF55XZzzpWO0CnqcWw8) | 3:18 | 2022-09-08 |  |
 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 | 2022-09-08 |  |
 | [Youth \(feat\. Khalid\)](https://open.spotify.com/track/1h0yImRPIVAjhhHeNVlTuC) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Shawn Mendes](https://open.spotify.com/album/2VP96XdMOKTXefI8Nui23s) | 3:10 | 2022-09-08 |  |
-| [Zombie](https://open.spotify.com/track/4bhepnvYedYqxy51vCVEfU) | [Nitemayor](https://open.spotify.com/artist/45KCfdrl8y47xRUtd3FZ5a) | [Zombie](https://open.spotify.com/album/7JpCGs5WcyjXotan0fIIW4) | 2:55 | 2022-09-08 |  |
+| [Zombie](https://open.spotify.com/track/4bhepnvYedYqxy51vCVEfU) | [Nitemayor](https://open.spotify.com/artist/45KCfdrl8y47xRUtd3FZ5a) | [Zombie](https://open.spotify.com/album/7JpCGs5WcyjXotan0fIIW4) | 2:55 | 2022-09-08 | 2023-07-21 |
+| [Zombie](https://open.spotify.com/track/7HJ4JM7lxa3GthnRJZMmdD) | [Nitemayor](https://open.spotify.com/artist/45KCfdrl8y47xRUtd3FZ5a) | [Zombie](https://open.spotify.com/album/6OpYReQjMFsWyIJnkTdGCy) | 2:55 | 2023-07-20 |  |
 
 \*This playlist was first scraped on 2022-09-09. Prior content cannot be recovered.

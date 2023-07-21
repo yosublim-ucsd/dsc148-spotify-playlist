@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 
 > 一起來支持女性音樂人的精采表現！Cover: 楊乃文 \(Naiwen Yang\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,055 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,062 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [推開世界的門](https://open.spotify.com/track/7rYdfR1PHguFvfYUIs0ehf) | [Naiwen Yang](https://open.spotify.com/artist/2Vl4kZKeQslEl4P0ATWuue) | [離心力](https://open.spotify.com/album/2vRlV60YuFsgnMuvwrwyco) | 4:42 |
+| 1 | [A Dream of Bonnie and Clyde \(feat\. JADE\)](https://open.spotify.com/track/2IUXNnuWKre9DXp8nUpVDZ) | [Naiwen Yang](https://open.spotify.com/artist/2Vl4kZKeQslEl4P0ATWuue), [JADE](https://open.spotify.com/artist/2CP7We7wDMW76lotAw85aR) | [A Dream of Bonnie and Clyde](https://open.spotify.com/album/5Gk01vK87HZ4EQ52xTeyZ1) | 2:54 |
 | 2 | [親愛的對象 \- From THE FIRST TAKE](https://open.spotify.com/track/3DqUsFARdSFgGeBPOVM7OQ) | [Jolin Tsai](https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL) | [親愛的對象 \- From THE FIRST TAKE](https://open.spotify.com/album/655zW7iobyhpQhXePSOCnh) | 3:49 |
 | 3 | [離別總是那麼突然](https://open.spotify.com/track/3GA0mzpusqiNCeUZuPDqjg) | [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [離別總是那麼突然](https://open.spotify.com/album/5cUVq2mIwcOGEWZTDLNlZj) | 4:02 |
 | 4 | [扑火](https://open.spotify.com/track/4MzaOc1mOP988KxV3ppWGR) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [扑火](https://open.spotify.com/album/1EQw7iAPASpnBid4BkJxl3) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2hEEH7Yc5Au.md) - [plain]
 | 49 | [很愛很愛你](https://open.spotify.com/track/3QGCfNhrkC1H55inex8red) | [Rene Liu](https://open.spotify.com/artist/6qzfo7jiO4OrhxrvPFPlWX) | [很愛很愛你](https://open.spotify.com/album/0PzGTds00YDYDzdkQKBwtJ) | 4:43 |
 | 50 | [愛你](https://open.spotify.com/track/0n7Ij8XEDfYYFRgBQjNjnf) | [Kimberley Chen](https://open.spotify.com/artist/1dVbVQZjRGDjQmHD8oiS8k) | [Kimberley首张同名专辑](https://open.spotify.com/album/4SAbPUrnyw72WivjOA3n8i) | 3:27 |
 
-Snapshot ID: `MCxjOTZkNzhkOGYxYjI5Mjg3NjhkYmIzOTcwZmExNDA5ZTNlMDNjNzU3`
+Snapshot ID: `MCxmZDg5YWRkNGQ2N2E5YzJlMzYyMmUyNzQ0OTY5M2RmZmMzMzE3NzQz`

@@ -59,6 +59,24 @@
     },
     {
       "album": {
+        "name": "2\u6642\u9593\u306a\u3093\u3082\u3057\u306a\u304b\u3063\u305f",
+        "url": "https://open.spotify.com/album/68Nvqg30WnytdBgACaK9o3"
+      },
+      "artists": [
+        {
+          "name": "Wasureranneyo",
+          "url": "https://open.spotify.com/artist/7mhywHwc3ElwYwiMLEsduP"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84943,
+      "name": "2\u6642\u9593\u306a\u3093\u3082\u3057\u306a\u304b\u3063\u305f",
+      "url": "https://open.spotify.com/track/08u7tWny37haGGVHQBWF7z"
+    },
+    {
+      "album": {
         "name": "6:00 pm / No worries",
         "url": "https://open.spotify.com/album/33ueflCOOXK4zaEmaI4fqA"
       },
@@ -4078,7 +4096,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 182747,
       "name": "morning glow",
       "url": "https://open.spotify.com/track/3gKtZrjO0VUPZRr6yQCzGt"
@@ -7966,7 +7984,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 214100,
       "name": "\u304a\u524d\u306e\u8a71\u306f\u805e\u3044\u3066\u3044\u306a\u3044",
       "url": "https://open.spotify.com/track/57eiMqz3NKsE9wrQxQuBke"
@@ -8708,6 +8726,24 @@
       "duration_ms": 236000,
       "name": "\u30c6\u30a3\u30fc\u30f3\u30a8\u30a4\u30b8\u3058\u3083\u3044\u3089\u308c\u306a\u3044",
       "url": "https://open.spotify.com/track/0qKNyKMNO8yPOENW7OZojB"
+    },
+    {
+      "album": {
+        "name": "\u30c8\u30e9\u30a4\u30a2\u30f3\u30b0\u30eb",
+        "url": "https://open.spotify.com/album/0J9pydBaNaLxr4Et8E4TzH"
+      },
+      "artists": [
+        {
+          "name": "Heavenstamp",
+          "url": "https://open.spotify.com/artist/72Ejp7y60pGCASGkZ8ZAzI"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102599,
+      "name": "\u30c8\u30e9\u30a4\u30a2\u30f3\u30b0\u30eb",
+      "url": "https://open.spotify.com/track/0RWjmkpOBORnRYE9RmspiO"
     },
     {
       "album": {

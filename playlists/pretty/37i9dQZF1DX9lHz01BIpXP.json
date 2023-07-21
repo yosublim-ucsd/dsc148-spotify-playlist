@@ -1,12 +1,12 @@
 {
   "description": "Die beste in Afrikaanse Hip Hop. Cover: <a href=\"https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl?si=Sonc-mBXRpm5ut0itdUxVg\">Loufi</a> & <a href=\"https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN?si=21NaMlL9QGy6MUBpjSeKJg\">Van Pletzen</a>\n\n",
-  "num_followers": 1079,
+  "num_followers": 1078,
   "original_name": "Afrikaanse Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YjAxYjdhOTEzN2MxYzM3NWMwODQ0OGZjNTg1NDU3NTFjNzY3Yjc4",
+  "snapshot_id": "MTY4OTg5MDM0MCwwMDAwMDAwMDlmNmM5YmY2Mzc4OWM0MzI4MjFlNzIxMjYzNTNlOWU2",
   "tracks": [
     {
       "added_at": "2023-01-27 11:30:47",
@@ -25,6 +25,26 @@
       "url": "https://open.spotify.com/track/2om26qoDFKWkPlkh07FiE1"
     },
     {
+      "added_at": "2023-07-20 21:59:00",
+      "album": {
+        "name": "Dubbel of Niks",
+        "url": "https://open.spotify.com/album/4XpDHOUerLd2EokLmdAhO8"
+      },
+      "artists": [
+        {
+          "name": "RoYal King",
+          "url": "https://open.spotify.com/artist/25ebsUtKejuWF9RW98C81q"
+        },
+        {
+          "name": "Wani\u00e9",
+          "url": "https://open.spotify.com/artist/2DK7M4YhSoa13hcbBvUgyt"
+        }
+      ],
+      "duration_ms": 198456,
+      "name": "Dubbel of Niks",
+      "url": "https://open.spotify.com/track/7fnEBmFyCoqJKtDyLBCd4s"
+    },
+    {
       "added_at": "2023-07-13 21:59:00",
       "album": {
         "name": "My testimony",
@@ -39,26 +59,6 @@
       "duration_ms": 245764,
       "name": "My testimony",
       "url": "https://open.spotify.com/track/7M5PXbzMWgXp6e6C3Op8Ez"
-    },
-    {
-      "added_at": "2023-07-06 21:59:00",
-      "album": {
-        "name": "Letterkundig (7785 oordrom remix)",
-        "url": "https://open.spotify.com/album/5wjaUP6kmi3l4PkADryNx1"
-      },
-      "artists": [
-        {
-          "name": "DJ Azuhl",
-          "url": "https://open.spotify.com/artist/2jUdKSmS6qhZDwk9mXXWNF"
-        },
-        {
-          "name": "Niko10long",
-          "url": "https://open.spotify.com/artist/5AcApmewreZ8Rk8eXWvX2v"
-        }
-      ],
-      "duration_ms": 243353,
-      "name": "Letterkundig - 7785 oordrom remix",
-      "url": "https://open.spotify.com/track/792Q46TaZHAJWvto8A99vu"
     },
     {
       "added_at": "2023-05-05 04:30:19",
@@ -215,6 +215,26 @@
       "duration_ms": 184407,
       "name": "Moola",
       "url": "https://open.spotify.com/track/3WL45hKgftF4Ffc9GUlhIZ"
+    },
+    {
+      "added_at": "2023-07-06 21:59:00",
+      "album": {
+        "name": "Letterkundig (7785 oordrom remix)",
+        "url": "https://open.spotify.com/album/5wjaUP6kmi3l4PkADryNx1"
+      },
+      "artists": [
+        {
+          "name": "DJ Azuhl",
+          "url": "https://open.spotify.com/artist/2jUdKSmS6qhZDwk9mXXWNF"
+        },
+        {
+          "name": "Niko10long",
+          "url": "https://open.spotify.com/artist/5AcApmewreZ8Rk8eXWvX2v"
+        }
+      ],
+      "duration_ms": 243353,
+      "name": "Letterkundig - 7785 oordrom remix",
+      "url": "https://open.spotify.com/track/792Q46TaZHAJWvto8A99vu"
     },
     {
       "added_at": "2023-07-13 21:59:00",
@@ -843,26 +863,6 @@
       "duration_ms": 263340,
       "name": "Hou Jou Leka",
       "url": "https://open.spotify.com/track/2NQedw63Pr0NlLD2DU0gVK"
-    },
-    {
-      "added_at": "2023-05-05 04:30:19",
-      "album": {
-        "name": "Liewe Genade (feat. Loufi)",
-        "url": "https://open.spotify.com/album/01PgqcjuqlaxBSPpslFvSl"
-      },
-      "artists": [
-        {
-          "name": "John James",
-          "url": "https://open.spotify.com/artist/4YSLyAh8QLYsRCMKJFVB3n"
-        },
-        {
-          "name": "Loufi",
-          "url": "https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl"
-        }
-      ],
-      "duration_ms": 257316,
-      "name": "Liewe Genade (feat. Loufi)",
-      "url": "https://open.spotify.com/track/7jN2OX96qJCgyhiOPqK4BT"
     },
     {
       "added_at": "2022-09-08 21:59:00",

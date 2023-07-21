@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-04",
-  "description": "Music for when you've got your Jesus on and your swag up . \nCover:  <a href=\"https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V?si=pzNnGaQXQB2Dgc0WgWI7dw\">TBabz</a> and <a href=\"https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr?si=aPTZIvCmQnq6JMkSJy5DJw\">Naffymar</a>",
+  "description": "Music for when you've got your Jesus on and your swag up . \nCover:  <a href=\"https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j?si=HuGPDNdmRRe3F5eM_Va-vg\">Holy Drill</a> ",
   "name": "Youth Service",
   "tracks": [
     {
@@ -60,6 +60,24 @@
       "duration_ms": 216674,
       "name": "Able",
       "url": "https://open.spotify.com/track/4NDtKpWb0IpALyrOdZAeWW"
+    },
+    {
+      "album": {
+        "name": "Adore",
+        "url": "https://open.spotify.com/album/7BVdOV7Z0yeZ4HzQXMuSSW"
+      },
+      "artists": [
+        {
+          "name": "Kolade Onahill",
+          "url": "https://open.spotify.com/artist/6Wum5bzJyotOUOR5I0ftPQ"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326791,
+      "name": "Adore",
+      "url": "https://open.spotify.com/track/0v4Jmh6bdwvUgt6wpwBJdj"
     },
     {
       "album": {
@@ -509,6 +527,24 @@
     },
     {
       "album": {
+        "name": "Why Not",
+        "url": "https://open.spotify.com/album/2Al5aGkwsloF2jOfRnnTnM"
+      },
+      "artists": [
+        {
+          "name": "Kenani",
+          "url": "https://open.spotify.com/artist/5k3oBkYy3nm3hHoUreIJ3O"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201599,
+      "name": "Bijoux",
+      "url": "https://open.spotify.com/track/2F3bnonyhTUUL0kaI92RDb"
+    },
+    {
+      "album": {
         "name": "The Blessed of God EP",
         "url": "https://open.spotify.com/album/2FVUNeX5fQQBkahzryTIXM"
       },
@@ -828,7 +864,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 217051,
       "name": "Clear the Hold Up",
       "url": "https://open.spotify.com/track/0B13p89MT1WRgDsUMxV6pE"
@@ -1717,6 +1753,28 @@
     },
     {
       "album": {
+        "name": "FARAWAY",
+        "url": "https://open.spotify.com/album/7vzh1Y5yRLSXYyCBntsarr"
+      },
+      "artists": [
+        {
+          "name": "LC Beatz",
+          "url": "https://open.spotify.com/artist/5XkBrq2jCva8S9IKRphUVi"
+        },
+        {
+          "name": "Greatman Takit",
+          "url": "https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195398,
+      "name": "FARAWAY",
+      "url": "https://open.spotify.com/track/4sa4MQlHfm2n8EcFGCobcI"
+    },
+    {
+      "album": {
         "name": "Faraway (Sound Pack)",
         "url": "https://open.spotify.com/album/2TF29pXXxAAHfJrNXv0GCU"
       },
@@ -1868,10 +1926,28 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 161750,
       "name": "Follow - Remix",
       "url": "https://open.spotify.com/track/3gSkKzZ7eCZn6xOjUBbGTx"
+    },
+    {
+      "album": {
+        "name": "F-RIDE",
+        "url": "https://open.spotify.com/album/5BtHtv47dqH7JEsbZBPIH3"
+      },
+      "artists": [
+        {
+          "name": "Fega Michaels",
+          "url": "https://open.spotify.com/artist/1uWU1q5sI8SbB0R56zTj6I"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239669,
+      "name": "FOLO ME",
+      "url": "https://open.spotify.com/track/20yvrllaGPQeoBStuZGqHf"
     },
     {
       "album": {
@@ -1963,6 +2039,28 @@
     },
     {
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/6oeNMAEIvOiiPc4dRpwlkI"
+      },
+      "artists": [
+        {
+          "name": "Lapel J Datpastorboi",
+          "url": "https://open.spotify.com/artist/1XAFWrXyu7iWY0ZixxUYL6"
+        },
+        {
+          "name": "G ben",
+          "url": "https://open.spotify.com/artist/7gxmVlZ8xqNzB9Sup3rh21"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253022,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/41HYH4xwi9lv6ZiVsxTL3S"
+    },
+    {
+      "album": {
         "name": "Get Life",
         "url": "https://open.spotify.com/album/4ze6VirKRBFHmYcBUoeE0W"
       },
@@ -1992,7 +2090,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 161527,
       "name": "Gideon's army",
       "url": "https://open.spotify.com/track/1movLiE00VsRrfmtPgsRnT"
@@ -2010,7 +2108,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-20",
+      "date_removed": null,
       "duration_ms": 161527,
       "name": "Gideon's army",
       "url": "https://open.spotify.com/track/1q9LNcxOTfdrtk8XFB0eao"
@@ -2084,6 +2182,24 @@
       "duration_ms": 180687,
       "name": "Give Me Time (Gimme)",
       "url": "https://open.spotify.com/track/5xrlv9xFTnzqraUOtStgCD"
+    },
+    {
+      "album": {
+        "name": "Give Thanks (Mind Your Business)",
+        "url": "https://open.spotify.com/album/4XDXeM0pQ6Fk9BY61DtVQ4"
+      },
+      "artists": [
+        {
+          "name": "Majestic BN",
+          "url": "https://open.spotify.com/artist/55Hom9BeFlIN9hodrZHbCZ"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210217,
+      "name": "Give Thanks (Mind Your Business)",
+      "url": "https://open.spotify.com/track/6JFCC50ofWm7fpJ26T0CCh"
     },
     {
       "album": {
@@ -2360,6 +2476,24 @@
       "duration_ms": 304901,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/7IGCwf8COqsDoZsD8Lz5NT"
+    },
+    {
+      "album": {
+        "name": "Grey Is The New White",
+        "url": "https://open.spotify.com/album/5EuA4H1keh9f8xCFUWmT0G"
+      },
+      "artists": [
+        {
+          "name": "T-Danso",
+          "url": "https://open.spotify.com/artist/4uIplVsgSm9UaKgsboAPPg"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210731,
+      "name": "Grey Is The New White",
+      "url": "https://open.spotify.com/track/1y33Tdlnd5TT7p7Y5SvuKo"
     },
     {
       "album": {
@@ -2821,6 +2955,28 @@
     },
     {
       "album": {
+        "name": "Heaven's playlist",
+        "url": "https://open.spotify.com/album/6qWJBnwBUULd3bXie95VOw"
+      },
+      "artists": [
+        {
+          "name": "Cipeey",
+          "url": "https://open.spotify.com/artist/0LbWza96JU2RDtaufGfBzX"
+        },
+        {
+          "name": "Paul Rarity",
+          "url": "https://open.spotify.com/artist/1NIAd4wWEI2kYYBM0i9T48"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135080,
+      "name": "I Believe Yakata",
+      "url": "https://open.spotify.com/track/2o6Kl2zJpuR6Bi3fjCm3RO"
+    },
+    {
+      "album": {
         "name": "I Get",
         "url": "https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm"
       },
@@ -3094,6 +3250,24 @@
       "duration_ms": 160000,
       "name": "Imagine me",
       "url": "https://open.spotify.com/track/0VAqGWb9Q9MUqgGGbJZZ0E"
+    },
+    {
+      "album": {
+        "name": "Imaranma (Goodness of God)",
+        "url": "https://open.spotify.com/album/6RlDr8s19Ywpnw4ys3E0YD"
+      },
+      "artists": [
+        {
+          "name": "Enakeno",
+          "url": "https://open.spotify.com/artist/4TmyJqF1VO3ajOFLveUFWi"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177146,
+      "name": "Imaranma (Goodness of God)",
+      "url": "https://open.spotify.com/track/6iE8yzQZfpprLrE8lFOA1m"
     },
     {
       "album": {
@@ -3394,6 +3568,32 @@
       "duration_ms": 146456,
       "name": "Joy In Chaos",
       "url": "https://open.spotify.com/track/6wKeFoZA2ExBtFNcHdkqnI"
+    },
+    {
+      "album": {
+        "name": "Joy in Chaos (Extended)",
+        "url": "https://open.spotify.com/album/2WrTLuhddDoXzMO51aiBPv"
+      },
+      "artists": [
+        {
+          "name": "Holy drill",
+          "url": "https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j"
+        },
+        {
+          "name": "D6",
+          "url": "https://open.spotify.com/artist/4ZUFmEBBatVOgDKIQng6cj"
+        },
+        {
+          "name": "Stanley Ifenna",
+          "url": "https://open.spotify.com/artist/65aQElIwxRydi0DXqclTJA"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126923,
+      "name": "Joy in Chaos (Extended)",
+      "url": "https://open.spotify.com/track/6vbzWTJ7tvSOieADnVJXO5"
     },
     {
       "album": {
@@ -3865,6 +4065,46 @@
     },
     {
       "album": {
+        "name": "Most High.",
+        "url": "https://open.spotify.com/album/7szpxUJi1ojwTHOG1pF3e9"
+      },
+      "artists": [
+        {
+          "name": "Empire",
+          "url": "https://open.spotify.com/artist/7ojivdbJT5Lqnn7wJ2rbBU"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130377,
+      "name": "Most High.",
+      "url": "https://open.spotify.com/track/3Q7SXiJxtlkWhn369vdOls"
+    },
+    {
+      "album": {
+        "name": "Mowanbe (Mo wa\u2019nbe)",
+        "url": "https://open.spotify.com/album/7LFJV2qkgIxxGugI4VvP2T"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        },
+        {
+          "name": "Wande",
+          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150047,
+      "name": "Mowanbe (Mo wa\u2019nbe)",
+      "url": "https://open.spotify.com/track/0oONxPIqh6mWrFoS7jBiPq"
+    },
+    {
+      "album": {
         "name": "My Altar (Cover)",
         "url": "https://open.spotify.com/album/36hBmlMUEHL26OVG9JSJ9P"
       },
@@ -4022,6 +4262,28 @@
       "duration_ms": 417160,
       "name": "Next Fuji Thing (Bonus Track)",
       "url": "https://open.spotify.com/track/3AKztbzt8WzVRnVjwGhtk5"
+    },
+    {
+      "album": {
+        "name": "Niombee",
+        "url": "https://open.spotify.com/album/5vQw1PUxBTGLXhPh8e16MQ"
+      },
+      "artists": [
+        {
+          "name": "Nelly Tuikong",
+          "url": "https://open.spotify.com/artist/4L778NLbV7vlJI9NT5r9A0"
+        },
+        {
+          "name": "Abel Chungu Musuka",
+          "url": "https://open.spotify.com/artist/49LXAemdmdSqQ6yCo3UNlt"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304137,
+      "name": "Niombee",
+      "url": "https://open.spotify.com/track/3MSMphnBbz8QZMEPBr49dk"
     },
     {
       "album": {
@@ -4202,7 +4464,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 191451,
       "name": "Now I See",
       "url": "https://open.spotify.com/track/0G0KrOjEhoBrcOCvFSCpn0"
@@ -4224,7 +4486,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 233607,
       "name": "Nyame bi",
       "url": "https://open.spotify.com/track/1AVzWB52ITejheEP9lPbIS"
@@ -4392,7 +4654,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 226153,
       "name": "On my Mind",
       "url": "https://open.spotify.com/track/5qbE876DXDAM3QGjlaYyux"
@@ -4476,7 +4738,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 139655,
       "name": "One Touch",
       "url": "https://open.spotify.com/track/1SLryXRbuk9wORWjz5Ld1M"
@@ -4731,6 +4993,24 @@
     },
     {
       "album": {
+        "name": "Provider",
+        "url": "https://open.spotify.com/album/1sITlmcQXf1rY1L85dj285"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212687,
+      "name": "Provider",
+      "url": "https://open.spotify.com/track/7hllC9WneRH2JYVaVjSQNL"
+    },
+    {
+      "album": {
         "name": "Put It On God",
         "url": "https://open.spotify.com/album/1hGHJnNyDmxPXwxvKH6yr9"
       },
@@ -4768,7 +5048,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 153043,
       "name": "RANDOM CHAPTER",
       "url": "https://open.spotify.com/track/62YgrP3kKNumc3BVX3rjwD"
@@ -5385,6 +5665,28 @@
     },
     {
       "album": {
+        "name": "Testify",
+        "url": "https://open.spotify.com/album/5AdjxSTcgCQffFltZmKlMM"
+      },
+      "artists": [
+        {
+          "name": "Amichael Genre",
+          "url": "https://open.spotify.com/artist/7H7H3UJWKu4ZG4skm9R8MW"
+        },
+        {
+          "name": "Lilmizzy",
+          "url": "https://open.spotify.com/artist/5r7lPFWqzEAQu7RkzGYqPy"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157710,
+      "name": "Testify",
+      "url": "https://open.spotify.com/track/5Oep4LpOhQm0338vTTUhBt"
+    },
+    {
+      "album": {
         "name": "The way You love me",
         "url": "https://open.spotify.com/album/1uLxrxJXViOM2XMsj6PqPJ"
       },
@@ -5576,6 +5878,28 @@
       "duration_ms": 164336,
       "name": "Treasure",
       "url": "https://open.spotify.com/track/2tiJXvCCdGY2UbJOdrYe7M"
+    },
+    {
+      "album": {
+        "name": "Triumphant Entry",
+        "url": "https://open.spotify.com/album/7rTPcD1q9nO5Vt5cAzueJg"
+      },
+      "artists": [
+        {
+          "name": "GCAi",
+          "url": "https://open.spotify.com/artist/7hXNvWwPypGDier2cVAKFw"
+        },
+        {
+          "name": "Dee Minor",
+          "url": "https://open.spotify.com/artist/41wCdeBWGmu789VYulzdsV"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180062,
+      "name": "Triumphant Entry",
+      "url": "https://open.spotify.com/track/1Y0QKC3D9d4b7MvPhIlxls"
     },
     {
       "album": {
@@ -5816,6 +6140,24 @@
       "duration_ms": 248571,
       "name": "Wonder (Remix)",
       "url": "https://open.spotify.com/track/45LYGT6cLdMtHaZ56MMTLd"
+    },
+    {
+      "album": {
+        "name": "THE AFRO GOSPEL",
+        "url": "https://open.spotify.com/album/6rfsFUaUDBpajCxRjUZSry"
+      },
+      "artists": [
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228169,
+      "name": "Worship Afro",
+      "url": "https://open.spotify.com/track/06Wy8q5reyDMr0nfd0rxIR"
     },
     {
       "album": {

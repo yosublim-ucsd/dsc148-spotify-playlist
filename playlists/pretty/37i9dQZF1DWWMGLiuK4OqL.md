@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,667 likes - 200 songs - 13 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,736 likes - 200 songs - 13 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWMGLiuK4OqL.md) - [plain]
 | 199 | [Give My Charlest \(A Tribute to the Charleston\)](https://open.spotify.com/track/2WnL3BZV02fdXUVWVmOby2) | [Jazzy Sky](https://open.spotify.com/artist/3lYsqGJrmzAKm3WHc8zpE3) | [Give My Charlest \(A Tribute to the Charleston\)](https://open.spotify.com/album/0mB8mupcVZruSMADvYDCHz) | 2:50 |
 | 200 | [Thinker and a Fool](https://open.spotify.com/track/5yO7yyLiVsvBj1xrAvZLnR) | [Mathieu Soucy](https://open.spotify.com/artist/34EB0yXyCqgJZ9i0axQfes), [Caity Gyorgy](https://open.spotify.com/artist/0TSL0OGIj6V45IpatPaVZO) | [Thinker and a Fool](https://open.spotify.com/album/6WuEy5rVoYSdLWKBFA2REb) | 6:00 |
 
-Snapshot ID: `MCxkOGI3YTc4NmJmMjE3Y2Y0OTdkMjY5OTI1YmRiMjRlNzQ3YzhlYzBh`
+Snapshot ID: `MCwzYTRkOWI0YjJjNDFjMWM3ZjI0ZWU5OTg2ZjQ0MWI5Zjk0NTQ0MWY5`

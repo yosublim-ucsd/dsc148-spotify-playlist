@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXDsfv6nvZ5.md) - [plain]
 
 > The soulful tunes to ease you into your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 751,718 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 751,746 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXDsfv6nvZ5.md) - [plain]
 | 99 | [U](https://open.spotify.com/track/75w90hoCMVISvw80Kqbznq) | [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl), [Brayla](https://open.spotify.com/artist/42HxYNtPFMRHRqF9Ts1AHx) | [Forward](https://open.spotify.com/album/1Mp96vHPfKb0uDsDglRB2m) | 2:49 |
 | 100 | [Pineapple Cognac](https://open.spotify.com/track/6WWBltBaOkJ7qpcNVO4jeV) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Pineapple Cognac](https://open.spotify.com/album/29R9YV27YP2ZZI7P8x58mM) | 2:14 |
 
-Snapshot ID: `MCxmNjhmMzhkYzc5NWY4MjdiMjdjYWVmNjhkMzJlMTViYjY2NzM1NTMw`
+Snapshot ID: `MCwxOGE4MGFlYjIwMzI1MzY3MmRlNzJhZDQwNjUyYjI5YzkxNmFmYmNj`

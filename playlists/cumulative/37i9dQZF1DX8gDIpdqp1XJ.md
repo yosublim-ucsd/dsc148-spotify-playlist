@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-843 songs - 2 day 7 hr 23 min
+844 songs - 2 day 7 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -408,7 +408,8 @@
 | [Konami](https://open.spotify.com/track/4CJ4WBeEZZVFulKVS6zmqz) | [Pearl & The Oysters](https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs) | [Konami](https://open.spotify.com/album/5Jp2HWoJEBkYtNuZXFE1pB) | 2:48 | 2023-02-09 | 2023-03-25 |
 | [L.A.X.](https://open.spotify.com/track/0TVT444yn5d1J4m3KJfGeR) | [Das Kope](https://open.spotify.com/artist/7pE9Rkb1GpfiociOILnA1j) | [L.A.X.](https://open.spotify.com/album/49GFCoCISeuQCkFV14LtgJ) | 4:10 | 2021-04-02 | 2022-04-18 |
 | [Last Words \- Extended Edit](https://open.spotify.com/track/2088esDCuzCzbCpjaFKriO) | [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Last Words \(Extended Edit\)](https://open.spotify.com/album/4CaOaq3dNi7N0S6oZ7JbSW) | 2:04 | 2023-03-06 | 2023-07-14 |
-| [Late Riser](https://open.spotify.com/track/470eRO1gcvW3zVf3HMlKTQ) | [Okey Dokey](https://open.spotify.com/artist/3hSFS64223jyO9Ck66rLOf) | [Late Riser](https://open.spotify.com/album/7sDSRMs5TsaMdJa4e8PyAl) | 4:10 | 2023-03-24 |  |
+| [Late Riser](https://open.spotify.com/track/470eRO1gcvW3zVf3HMlKTQ) | [Okey Dokey](https://open.spotify.com/artist/3hSFS64223jyO9Ck66rLOf) | [Late Riser](https://open.spotify.com/album/7sDSRMs5TsaMdJa4e8PyAl) | 4:10 | 2023-03-24 | 2023-07-21 |
+| [Late Riser](https://open.spotify.com/track/49oTazxdKGoxGTq9ZmqpPV) | [Okey Dokey](https://open.spotify.com/artist/3hSFS64223jyO9Ck66rLOf) | [Late Riser](https://open.spotify.com/album/1vZoAnLWsTLhR6r4sussA0) | 4:10 | 2023-03-24 |  |
 | [Lately](https://open.spotify.com/track/08Q1EXipT8rCIiBy7k6ePX) | [j\. pastel](https://open.spotify.com/artist/4e0F3Bqyp0BpE3VmNh4qKS) | [Lately](https://open.spotify.com/album/14maTnZCS9S3FG0YZ21LyL) | 3:56 | 2023-05-26 |  |
 | [LATELY](https://open.spotify.com/track/4TkHi2kB3VMRaOEEv25K4W) | [SOPHIA](https://open.spotify.com/artist/0ozhP3YAft7a0pa2WFYJK3) | [LATELY](https://open.spotify.com/album/5i50TYmGy14TldvZ377mBH) | 3:17 | 2023-06-09 |  |
 | [Layla](https://open.spotify.com/track/6nMN0skRJ95zgzRlJnRCJs) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Layla](https://open.spotify.com/album/27DCicKUYuGiMN7keqhb7p) | 4:10 | 2023-03-06 |  |

@@ -2,7 +2,7 @@
 
 ### [Desi Indie ](https://open.spotify.com/playlist/37i9dQZF1DX9Kz7jBbxgYQ)
 
-> Home to the best of South Asian Indie scene\. Cover: Kaifi Khalil
+> Home to the best of South Asian Indie scene\. Cover: Bayaan
 
 193 songs - 10 hr 57 min
 
@@ -121,7 +121,7 @@
 | [Muskan](https://open.spotify.com/track/16ZcfVSuCcBDdlpvmEIA1i) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Muskan](https://open.spotify.com/album/3NLZpWHd23xx5YYveGbNlv) | 3:18 | 2022-09-01 |  |
 | [Muskurahat](https://open.spotify.com/track/6oURWs2pULRYC9JAhLEaw8) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Muskurahat](https://open.spotify.com/album/57G6FAPEMtXBDKEcsatBa1) | 4:18 | 2022-12-28 |  |
 | [Naakay](https://open.spotify.com/track/2mB3SEFZ883snaGO1lVGmA) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [Naakay](https://open.spotify.com/album/2Ql9w0m7BgXs69T6yZrIDb) | 2:38 | 2023-03-01 | 2023-03-18 |
-| [Nahin Milta](https://open.spotify.com/track/0cUdmruT6kjxa5KpteSdwc) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [4 Saal](https://open.spotify.com/album/5LiulhSHQrEXkYO63T5Z6Q) | 4:45 | 2022-11-23 | 2023-02-07 |
+| [Nahin Milta](https://open.spotify.com/track/0cUdmruT6kjxa5KpteSdwc) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [4 Saal](https://open.spotify.com/album/5LiulhSHQrEXkYO63T5Z6Q) | 4:45 | 2022-11-23 |  |
 | [Nasamjhi](https://open.spotify.com/track/43Tn1hBBsUtY8QBTiW2mcr) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Nasamjhi](https://open.spotify.com/album/2N7wAkruqvQadV0W7P7xSL) | 3:44 | 2023-05-15 | 2023-06-07 |
 | [nazar/surma](https://open.spotify.com/track/7LgOVDbOr2xAKrBwuEwGDw) | [Rutaba Yaqub](https://open.spotify.com/artist/1jA3YcX1zKWTaWL7wp3PqI), [Abhilasha Sinha](https://open.spotify.com/artist/3FJ13syehmla1ybPZYHYHW) | [nazar/surma](https://open.spotify.com/album/0zlUqmSdwGkEvp1KlITSbz) | 3:30 | 2022-09-01 | 2022-12-29 |
 | [Nightdriver](https://open.spotify.com/track/5LmvjYl6SZsea5QGdm4aN7) | [Eida](https://open.spotify.com/artist/3qskfyIRwZtp6uIfj6OFcL) | [Nightdriver](https://open.spotify.com/album/7EjeqIsIVy3DpV8LY5TJvE) | 4:36 | 2022-05-20 | 2022-09-02 |

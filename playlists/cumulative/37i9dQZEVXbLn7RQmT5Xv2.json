@@ -262,7 +262,7 @@
       ],
       "date_added": "2021-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 278000,
       "name": "Abl Mawsalek",
       "url": "https://open.spotify.com/track/6382iMgZk6yyPg3htCkpB5"
@@ -280,7 +280,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 133676,
       "name": "Abo Galum",
       "url": "https://open.spotify.com/track/1JgbWmgC9uDYHmedb91Tzd"
@@ -9263,6 +9263,24 @@
     },
     {
       "album": {
+        "name": "Tayer",
+        "url": "https://open.spotify.com/album/5KjCWTgMVinKpmGRJXjkI7"
+      },
+      "artists": [
+        {
+          "name": "Amir Eid",
+          "url": "https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174857,
+      "name": "Tayer",
+      "url": "https://open.spotify.com/track/6miRZdknknUzuQYZP3DTJz"
+    },
+    {
+      "album": {
         "name": "SAN STEFANO",
         "url": "https://open.spotify.com/album/0AkGcmpMk9Ctaa8LgigTT1"
       },
@@ -9748,7 +9766,7 @@
       ],
       "date_added": "2022-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-20",
+      "date_removed": null,
       "duration_ms": 179284,
       "name": "W El 7al Eh",
       "url": "https://open.spotify.com/track/7d3jR3zhKm8i7aPQcxjiVB"

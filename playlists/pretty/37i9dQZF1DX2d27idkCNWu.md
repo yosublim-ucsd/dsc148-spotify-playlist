@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 
 > Versões desplugadas do mundo pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,662 likes - 90 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 262,687 likes - 90 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 | 89 | [All I Want \- Live in Dublin / 2022](https://open.spotify.com/track/1uon8dTdFD7RrG8B1yGttV) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [Our Roots Run Deep \(Live\)](https://open.spotify.com/album/6XbVPI4jI8vUQ0W89cM5WR) | 8:55 |
 | 90 | [Don't Leave Me Lonely\(feat\. Elley Duhé\) \[Acoustic\]](https://open.spotify.com/track/1GuujOqZ23AhfrPq9lSTC4) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Don't Leave Me Lonely\(feat\. Elley Duhé\) \[Acoustic\]](https://open.spotify.com/album/50mXupxDu3jMSLoR5OX6ms) | 2:15 |
 
-Snapshot ID: `MCw0M2Q4ZjA3ZmQ4ZmVmM2MyNWRkOWZiZTQxNWU3NDFlYmIzNWNlZjVh`
+Snapshot ID: `MCwwMjk0MzkzZmQ0MDNkN2RiNjg4NDk4NGIzNmU3NWZlNWY2MGY3MWU4`

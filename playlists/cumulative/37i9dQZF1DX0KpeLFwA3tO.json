@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: Hot Milk",
+  "description": "The best new music from the wide world of punk. Cover: Magnolia Park",
   "name": "All New Punk",
   "tracks": [
     {
@@ -612,6 +612,24 @@
       "duration_ms": 217855,
       "name": "A Song Of Liberty",
       "url": "https://open.spotify.com/track/5X0fNaSAI8mI8iIMm4E66A"
+    },
+    {
+      "album": {
+        "name": "A Track In Orbit",
+        "url": "https://open.spotify.com/album/6z9DSUTU2QjEX91HR0R0Te"
+      },
+      "artists": [
+        {
+          "name": "Humane The Moon",
+          "url": "https://open.spotify.com/artist/0Xto4nOxUoniMdqKhyVJ2m"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151958,
+      "name": "A Track In Orbit",
+      "url": "https://open.spotify.com/track/33byUHbCWRpbgo6sd8dVro"
     },
     {
       "album": {
@@ -2693,6 +2711,28 @@
     },
     {
       "album": {
+        "name": "Breathing",
+        "url": "https://open.spotify.com/album/6bO8Aa7MD8XUQTm4WcH59U"
+      },
+      "artists": [
+        {
+          "name": "Magnolia Park",
+          "url": "https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY"
+        },
+        {
+          "name": "nothing,nowhere.",
+          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184292,
+      "name": "Breathing",
+      "url": "https://open.spotify.com/track/1HkOpqQDHMorS6LKl3qIPp"
+    },
+    {
+      "album": {
         "name": "'Til the Wheels Fall Off",
         "url": "https://open.spotify.com/album/02gGvRHn6goKCYrRv7xp1Y"
       },
@@ -3510,7 +3550,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 137733,
       "name": "Ched Man",
       "url": "https://open.spotify.com/track/6EEPiK1SwQ7ZqA2r5luaJQ"
@@ -3600,7 +3640,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 126926,
       "name": "chris farley",
       "url": "https://open.spotify.com/track/3H9GDH7SexMYhXPhzq58oh"
@@ -3644,6 +3684,24 @@
       "duration_ms": 156673,
       "name": "Cigarettes",
       "url": "https://open.spotify.com/track/3tl9B6c07WZujRH2FP5hKA"
+    },
+    {
+      "album": {
+        "name": "Circa '99",
+        "url": "https://open.spotify.com/album/0cG0MWqDLtOzeRLJ8N2nLk"
+      },
+      "artists": [
+        {
+          "name": "Wilmette",
+          "url": "https://open.spotify.com/artist/5LGLYHhrW7yPr4ubyBEJBq"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167700,
+      "name": "Circa '99",
+      "url": "https://open.spotify.com/track/7HXeqCwlAvfv2htwlc5viB"
     },
     {
       "album": {
@@ -5557,6 +5615,24 @@
     },
     {
       "album": {
+        "name": "Dream Big",
+        "url": "https://open.spotify.com/album/2weh9z7FGE4gchkThSgK8c"
+      },
+      "artists": [
+        {
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185060,
+      "name": "Dream Big",
+      "url": "https://open.spotify.com/track/0xvXVHHSdl0EjXFobmL6Ip"
+    },
+    {
+      "album": {
         "name": "Dream Born Again",
         "url": "https://open.spotify.com/album/680aZyr4pHGgUGXvgGLwlG"
       },
@@ -5940,7 +6016,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 138213,
       "name": "Et si",
       "url": "https://open.spotify.com/track/6aE0EyoWUhkpyaIbxJ9lsx"
@@ -7362,6 +7438,24 @@
       "duration_ms": 160411,
       "name": "Girls Don't Come with Instructions",
       "url": "https://open.spotify.com/track/0V5AL8U0DXS0GtWIJrhC2J"
+    },
+    {
+      "album": {
+        "name": "Give It Up",
+        "url": "https://open.spotify.com/album/2SHm3jnAHPZJwU1kLa5HfF"
+      },
+      "artists": [
+        {
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176137,
+      "name": "Give It Up",
+      "url": "https://open.spotify.com/track/21fSMdEQpQaJlqPkTPkH3t"
     },
     {
       "album": {
@@ -11597,6 +11691,28 @@
     },
     {
       "album": {
+        "name": "Love's Holiday",
+        "url": "https://open.spotify.com/album/4N6Tph5OONd8euaMbPUXDh"
+      },
+      "artists": [
+        {
+          "name": "Oxbow",
+          "url": "https://open.spotify.com/artist/4m47y2u5lJBKbakAv5YAh1"
+        },
+        {
+          "name": "Lingua Ignota",
+          "url": "https://open.spotify.com/artist/3Q2RrKEOBdkWI2MJQgdt84"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315640,
+      "name": "Lovely Murk",
+      "url": "https://open.spotify.com/track/0WXsyrecoo19Ce6tzN3S4J"
+    },
+    {
+      "album": {
         "name": "Low Budget Horror",
         "url": "https://open.spotify.com/album/1mfUf7rjQRTRGbMIc7vucK"
       },
@@ -11778,7 +11894,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 177559,
       "name": "Make Way",
       "url": "https://open.spotify.com/track/0l4s1zVinY9jEYJecDDlaQ"
@@ -12094,7 +12210,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 170823,
       "name": "medicine",
       "url": "https://open.spotify.com/track/0VplI6SpGj9EDZgI0ms9M4"
@@ -12948,7 +13064,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 150760,
       "name": "Never Ending Puppet Show",
       "url": "https://open.spotify.com/track/791yD7L9ZStZGFhGFVeKZr"
@@ -13020,7 +13136,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 157643,
       "name": "New American",
       "url": "https://open.spotify.com/track/0puOfy2IqL1fRF3wIFV09t"
@@ -16682,7 +16798,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 228666,
       "name": "Service Stationed",
       "url": "https://open.spotify.com/track/6LSBwxOEfsL76TrQOelvpX"
@@ -17968,6 +18084,24 @@
       "duration_ms": 187301,
       "name": "Startafight",
       "url": "https://open.spotify.com/track/30nqbZ1fDudZpIcONS5Y2P"
+    },
+    {
+      "album": {
+        "name": "Stay Up All Night",
+        "url": "https://open.spotify.com/album/3uRMevrGC00yUbjq19okHx"
+      },
+      "artists": [
+        {
+          "name": "MxPx",
+          "url": "https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178874,
+      "name": "Stay Up All Night",
+      "url": "https://open.spotify.com/track/3DoUIWxLgJXAlvrlMmtlZO"
     },
     {
       "album": {
@@ -19691,6 +19825,24 @@
     },
     {
       "album": {
+        "name": "There's No Place In This World For Me",
+        "url": "https://open.spotify.com/album/1em4sklvDHYVcQ466X2Nds"
+      },
+      "artists": [
+        {
+          "name": "The Menzingers",
+          "url": "https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202547,
+      "name": "There's No Place In This World For Me",
+      "url": "https://open.spotify.com/track/5xvpfknjWWBcINvOUNgeQV"
+    },
+    {
+      "album": {
         "name": "These Days",
         "url": "https://open.spotify.com/album/5h0mGckYgpxxLozsbbP4bH"
       },
@@ -19854,6 +20006,28 @@
       "duration_ms": 136521,
       "name": "Thought It Was Yoga but It Was Ketamine",
       "url": "https://open.spotify.com/track/5ZaQkQHXxEPWcj2uOehRBP"
+    },
+    {
+      "album": {
+        "name": "Three Minutes More",
+        "url": "https://open.spotify.com/album/4Ht4iaL8A3DwlmiduQLWNX"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        },
+        {
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203536,
+      "name": "Three Minutes More",
+      "url": "https://open.spotify.com/track/08CL08RywVhA1HQteJHuT3"
     },
     {
       "album": {
@@ -21356,7 +21530,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 100789,
       "name": "When The Band Breaks Up Again",
       "url": "https://open.spotify.com/track/00SjZFplLEDMtpFPNKRyHw"

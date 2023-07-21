@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 
 > The classic trumpet players in Jazz\. Cover: Miles Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,668 likes - 100 songs - 10 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,692 likes - 100 songs - 10 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 99 | [Re\-invention \- Live in Paris](https://open.spotify.com/track/428KqU3SjN3UxUe3pQoyB6) | [Jeremy Pelt](https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX) | [Noir en rouge \(Live in Paris\)](https://open.spotify.com/album/0xCalRdfS1AhMvGut4YniX) | 8:07 |
 | 100 | [Tales For A Girl, 12](https://open.spotify.com/track/6mrCNhpOJF3UuIdT2RB4VR) | [Tomasz Stanko Quartet](https://open.spotify.com/artist/1sP0KjKWioXmkh9vUKb1fP) | [Selected Recordings](https://open.spotify.com/album/58Fk2xFHvOkFaB23hbYEQg) | 9:12 |
 
-Snapshot ID: `MCxjMmM5Mjc4OGYxZDczYzdlMjJhZDBjZjVjNzVkNmUzZjAyNmYxOTkz`
+Snapshot ID: `MCxkNWI1ZjM3MTRlZjQ5MmM1NjM0N2I5ODQwOWNmYzFhNzY1NmIzZDA1`

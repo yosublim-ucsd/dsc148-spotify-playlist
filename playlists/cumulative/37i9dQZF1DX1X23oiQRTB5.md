@@ -2,7 +2,7 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> Ninho au top de la première playlist de rap français !
+> Tiakola au top de la première playlist de rap français !
 
 179 songs - 9 hr 12 min
 

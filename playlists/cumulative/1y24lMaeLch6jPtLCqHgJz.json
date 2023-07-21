@@ -1431,6 +1431,28 @@
     },
     {
       "album": {
+        "name": "Heartbeat",
+        "url": "https://open.spotify.com/album/1aWLROPBF29zW8hahI43J0"
+      },
+      "artists": [
+        {
+          "name": "KAAZE",
+          "url": "https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR"
+        },
+        {
+          "name": "Rory Hope",
+          "url": "https://open.spotify.com/artist/147kOGOemXIO7HPzrwoYSC"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179531,
+      "name": "Heartbeat",
+      "url": "https://open.spotify.com/track/39TcT0lUnag46B6eukkLlM"
+    },
+    {
+      "album": {
         "name": "Hello",
         "url": "https://open.spotify.com/album/4qdeHa7hXVujxBUftCIgDh"
       },

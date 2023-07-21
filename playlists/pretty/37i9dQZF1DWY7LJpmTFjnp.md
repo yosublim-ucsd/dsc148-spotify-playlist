@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 
 > Una dosis con lo más chingón pa'l gusto mexicano\. Los Bunkers en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,001,550 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,001,732 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 99 | [Te Odio y Te Quiero](https://open.spotify.com/track/2jezH0QQ6Eatu4xuP76Eir) | [Amandititita](https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [Pinche Amor](https://open.spotify.com/album/5eimAhBgq83zYg7C0vckXc) | 2:36 |
 | 100 | [Noticia Punk](https://open.spotify.com/track/5y5i9ysVFW0GmyTD6r0MGh) | [Rebel'd Punk](https://open.spotify.com/artist/0IdBNIZmMIhMIUk8lfIuY4) | [Delincuencia](https://open.spotify.com/album/1XdVn2Lq2ozGM2iuxBiJ7f) | 2:22 |
 
-Snapshot ID: `MCwyNDA1ODg4M2NhMjkxZjQzMjM3ZDk0MDVlZDMyNTcwNTI3NDBlZTlj`
+Snapshot ID: `MCw5OGYyYjRhYWU4Mjg3ZmY5NmY0MWVjYjhhZGQyYjY0NGE0YzU5NzU5`

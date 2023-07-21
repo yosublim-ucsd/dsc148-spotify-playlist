@@ -760,7 +760,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 175500,
       "name": "BORDER",
       "url": "https://open.spotify.com/track/4vRqGi0BbbecchqNA5PJMK"
@@ -2356,7 +2356,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 186666,
       "name": "Hirune no Kuni",
       "url": "https://open.spotify.com/track/4dymwcfZ7u6irN77AqHsLG"
@@ -5677,6 +5677,28 @@
     },
     {
       "album": {
+        "name": "VANILLA SKY",
+        "url": "https://open.spotify.com/album/7kaCg3NQesrLpfsOEGMCQd"
+      },
+      "artists": [
+        {
+          "name": "[Alexandros]",
+          "url": "https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI"
+        },
+        {
+          "name": "WurtS",
+          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167966,
+      "name": "VANILLA SKY",
+      "url": "https://open.spotify.com/track/3ps5WSAXrgvjN4IxIPchsV"
+    },
+    {
+      "album": {
         "name": "ENIGMASIS",
         "url": "https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT"
       },
@@ -8152,6 +8174,24 @@
       "duration_ms": 193719,
       "name": "\u30da\u30fc\u30d1\u30fc\u30d0\u30c3\u30af\u30fb\u30b9\u30c8\u30fc\u30ea\u30fc\u30ba",
       "url": "https://open.spotify.com/track/0T0xvB5dpZd7H3dl3bDLkY"
+    },
+    {
+      "album": {
+        "name": "\u30dc\u30fc\u30a4\u30ba \u30c9\u30f3\u30c8 \u30af\u30e9\u30a4",
+        "url": "https://open.spotify.com/album/2ukBR6yPc7n60KjGcXxy0V"
+      },
+      "artists": [
+        {
+          "name": "YOAKE",
+          "url": "https://open.spotify.com/artist/0psEe4IooMjolOPMrz9A5M"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181853,
+      "name": "\u30dc\u30fc\u30a4\u30ba \u30c9\u30f3\u30c8 \u30af\u30e9\u30a4",
+      "url": "https://open.spotify.com/track/2oZM29QXfk0Oi6d15PjoSp"
     },
     {
       "album": {

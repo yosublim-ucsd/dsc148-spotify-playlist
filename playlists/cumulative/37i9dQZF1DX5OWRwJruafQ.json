@@ -857,6 +857,24 @@
     },
     {
       "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/0fVMSMACe6VFfutsNwIwAa"
+      },
+      "artists": [
+        {
+          "name": "Gagan Kokri",
+          "url": "https://open.spotify.com/artist/2ECA51juFyrh4DAuc8FucP"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143505,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/4FYTPNiMWiY72Kvo1JKDt6"
+    },
+    {
+      "album": {
         "name": "Doaba Zone",
         "url": "https://open.spotify.com/album/7hkWGmP36F8gFpCshqK04g"
       },
@@ -1072,7 +1090,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 152352,
       "name": "Feem",
       "url": "https://open.spotify.com/track/40s6ANyxQ55OwyZ3jpH1Tw"
@@ -1664,7 +1682,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 148408,
       "name": "Jaan Vaardi",
       "url": "https://open.spotify.com/track/5vFYS7eKsrq4HdeKrzZhfu"
@@ -1901,6 +1919,32 @@
     },
     {
       "album": {
+        "name": "La La La La",
+        "url": "https://open.spotify.com/album/4emZDlp8foAyMAScjiZmjQ"
+      },
+      "artists": [
+        {
+          "name": "Shipra Goyal",
+          "url": "https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ"
+        },
+        {
+          "name": "Showkidd",
+          "url": "https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC"
+        },
+        {
+          "name": "Kavvy Riyaaz",
+          "url": "https://open.spotify.com/artist/4NQtFuGJoyFup7YPfqOInx"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159920,
+      "name": "La La La La",
+      "url": "https://open.spotify.com/track/07NxMfatGTEK0P5gZPFKd2"
+    },
+    {
+      "album": {
         "name": "Loaded Freestyle",
         "url": "https://open.spotify.com/album/3HLvVCZKSJ4ZRlgT1NV5q9"
       },
@@ -2010,7 +2054,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 148952,
       "name": "Mann Di Ni Tu",
       "url": "https://open.spotify.com/track/27hoh50gG4ls3RIyZeCqiA"
@@ -3364,7 +3408,7 @@
       ],
       "date_added": "2023-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 199205,
       "name": "We Rollin",
       "url": "https://open.spotify.com/track/6ZYxNjuAU9Vy3VtF6W1dtE"
@@ -3438,6 +3482,24 @@
       "duration_ms": 175999,
       "name": "White Brown Black",
       "url": "https://open.spotify.com/track/3nKQrVVlwbAQSnFbgZWdN0"
+    },
+    {
+      "album": {
+        "name": "Whose Like Me?",
+        "url": "https://open.spotify.com/album/09kYxPLZNnPt0NUWDXEl0C"
+      },
+      "artists": [
+        {
+          "name": "Gurnam Bhullar",
+          "url": "https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161739,
+      "name": "Whose Like Me?",
+      "url": "https://open.spotify.com/track/5lll5binzbUZayl3Mejxah"
     },
     {
       "album": {

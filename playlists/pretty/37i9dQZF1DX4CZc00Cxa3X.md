@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 
 > Inspired by Listening Bars around the world, a finely chosen selection of Ambient to create your very own.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,550 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,607 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CZc00Cxa3X.md) - [plain]
 | 99 | [To Love or Die Together](https://open.spotify.com/track/4ryimwBuu81PFtGzjEa1DM) | [City of Dawn](https://open.spotify.com/artist/16TKNLx6K4oJmIgSX0s4Y2), [Ross Christopher](https://open.spotify.com/artist/44jyylTQIB8qkPlQUHI614) | [Wider Than the Sky](https://open.spotify.com/album/3xQoblvBc5jHCmg2sWnJrv) | 4:13 |
 | 100 | [Elias](https://open.spotify.com/track/5byZDxGFoQymRppmeIMNXo) | [Johannes Repka](https://open.spotify.com/artist/1DnTEe1bd5bENrJAza9Iuz) | [All Russians Love Birch Trees EP \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3CzWO1N5s3LjN3EsH99F9C) | 2:10 |
 
-Snapshot ID: `MCwwODY0NjRjZTlmZmZhMzdiMTFiMzU1OWY4ZDYxNDVkYTc0YWMzMTk4`
+Snapshot ID: `MCxmYmFhZGIxYzdjYjA0OWM0YmE0Y2Y3MzUzMjZjZmI4ZDI0ZGI1OGVi`

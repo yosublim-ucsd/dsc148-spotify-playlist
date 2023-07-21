@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 
 > Listen to the best in AfroTech that was born in South Africa, as it travels the world's dancefloors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,958 likes - 50 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,993 likes - 50 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6pBzjNjXR1.md) - [plain]
 | 44 | [Maya](https://open.spotify.com/track/37aSg02eKxZMSueTi5qE89) | [Pierre Johnson](https://open.spotify.com/artist/2CUjvq6GOAGAMyN3zDyfXz) | [Maya](https://open.spotify.com/album/2hfNUwkRhfw7VjCWIQU4hZ) | 6:39 |
 | 45 | [Paradise \- Original Mix](https://open.spotify.com/track/53yxAa22DUXebnM9AgjIu2) | [MotiveSoul](https://open.spotify.com/artist/7vQ9Hj8uAGMPOaeIr8nUP2), [The Siege DJ](https://open.spotify.com/artist/39KVav2Jh3upmt7K4U5Dk1) | [Paradise](https://open.spotify.com/album/35AqDrNNmgk59eFfU1Awvf) | 7:49 |
 | 46 | [American Storyteller](https://open.spotify.com/track/4NpWFSt3bLD6OHpDGvztkV) | [Dlala Chass](https://open.spotify.com/artist/2BuFIwEOV547lKQhOapZU3) | [American Storyteller](https://open.spotify.com/album/4ZG5gs2kGSZIZNVunNinC2) | 6:35 |
-| 47 | [uGogo Wam](https://open.spotify.com/track/6Y6lWV8RTqgpyiDvzOFyzq) | [Hypaphonik](https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io), [Katlego](https://open.spotify.com/artist/06xUXxsZZQyC8QScmMSXi8), [Cowboy](https://open.spotify.com/artist/6s9gsFHF1kNgNbL7rpMydJ) | [uGogo Wam](https://open.spotify.com/album/4igIA8wBcC738PjZaRXrxf) | 6:49 |
+| 47 | [uGogo Wam](https://open.spotify.com/track/6Y6lWV8RTqgpyiDvzOFyzq) | [Hypaphonik](https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io), [Katlego](https://open.spotify.com/artist/7k9oCLrLEXe9bBNkLFboN9), [Cowboy](https://open.spotify.com/artist/6s9gsFHF1kNgNbL7rpMydJ) | [uGogo Wam](https://open.spotify.com/album/4igIA8wBcC738PjZaRXrxf) | 6:49 |
 | 48 | [Matasa](https://open.spotify.com/track/6G0od201NbSzN4Yutk2Ufc) | [Mobi Dixon](https://open.spotify.com/artist/5gVxephJtTx5uMF26ZVptW), [NaakMusiQ](https://open.spotify.com/artist/6xs8YWLAW2FdCpmzEE0loe), [Candy Man](https://open.spotify.com/artist/6jeexjc4jgw4TN9Ql7Ccor) | [Matasa](https://open.spotify.com/album/1r7Z8yvkt3sFRt7XK0jFR7) | 7:33 |
 | 49 | [Angimazi Ubabalo](https://open.spotify.com/track/35LVqbC4mflUDt9b9thC1C) | [Aero Manyelo](https://open.spotify.com/artist/637OrGlmcAsqUNdFQPj79Z), [Terrance Motsepe](https://open.spotify.com/artist/3TRjJTgBK1Mfb9exYwiq4C), [Eltonnick](https://open.spotify.com/artist/2vFVuGhKe7bJfuc9Oq3m9G) | [Angimazi Ubabalo](https://open.spotify.com/album/0zRbVHjRimy7UEN5cmWJZP) | 7:39 |
 | 50 | [Clarity \- Shredded Mix](https://open.spotify.com/track/5oAaNT8wiuSjHoGLIbJnRU) | [Shredder SA](https://open.spotify.com/artist/6hBPDqbndpJwIQjTXJRd7h) | [Clarity \(Shredded Mix\)](https://open.spotify.com/album/1u8BcbmT09Ue7dIYpamP1S) | 5:41 |
 
-Snapshot ID: `MCxkMTVkMzZjMWRlN2E0ZjM4NzQzNDIzMmNjODBhYjgxYzdlYzEwNWM4`
+Snapshot ID: `MTY4NjkyMDY2NSwwMDAwMDAwMDA4NTQzMTk4ZmM2MWE0Y2M5NjdmMmRiNDAwYmYwMjNl`

@@ -2033,6 +2033,28 @@
     },
     {
       "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV"
+      },
+      "artists": [
+        {
+          "name": "Crazibiza",
+          "url": "https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1"
+        },
+        {
+          "name": "House of Prayers",
+          "url": "https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284886,
+      "name": "Fresh - House of Prayers Poolside Edit",
+      "url": "https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01"
+    },
+    {
+      "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/4THASIy2X16riMpZINnTTz"
       },
@@ -2930,7 +2952,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 155714,
       "name": "In The Mood - Menesix Remix",
       "url": "https://open.spotify.com/track/4WeYmakpVCR9o1Pn3IH1Mt"
@@ -3731,6 +3753,24 @@
     },
     {
       "album": {
+        "name": "Love Me Right",
+        "url": "https://open.spotify.com/album/2KHcUTy2K9ZJnrpXrGKf16"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188671,
+      "name": "Love Me Right",
+      "url": "https://open.spotify.com/track/3SfytvcxqoQWgITH0r9QY0"
+    },
+    {
+      "album": {
         "name": "Love Nor Money",
         "url": "https://open.spotify.com/album/5bDSA6cISLFXwLOl5BdFZl"
       },
@@ -4092,10 +4132,36 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 161300,
       "name": "Move With Me",
       "url": "https://open.spotify.com/track/2Z97CJDXvzW9DpoUv5lMBY"
+    },
+    {
+      "album": {
+        "name": "Move With Me (Todd Terry Extended Remix)",
+        "url": "https://open.spotify.com/album/3hpoG2nJnwKPMfPlY207pp"
+      },
+      "artists": [
+        {
+          "name": "Mia More",
+          "url": "https://open.spotify.com/artist/5LokU7BD5Ue4oLzjtUWYGU"
+        },
+        {
+          "name": "Able Faces",
+          "url": "https://open.spotify.com/artist/7nL523vzwv24ad0oFf2VZ2"
+        },
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Move With Me - Todd Terry Remix",
+      "url": "https://open.spotify.com/track/1ml3JWTEvWUJNj5tovHz75"
     },
     {
       "album": {
@@ -6268,7 +6334,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 146675,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/1mMjjYg5ig6kC9LGWx9G54"

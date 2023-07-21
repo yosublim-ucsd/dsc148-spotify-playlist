@@ -214,7 +214,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 376242,
       "name": "Amaphutha (feat. Master KG, Lowsheen & Murumba Pitch)",
       "url": "https://open.spotify.com/track/0RTIcLHr6k9PWX7lizdyxM"
@@ -326,7 +326,7 @@
       ],
       "date_added": "2022-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 164571,
       "name": "ASE - A COLORS SHOW",
       "url": "https://open.spotify.com/track/5fM2O9Lz5T8yN9YiJJs2qp"
@@ -2085,6 +2085,24 @@
     },
     {
       "album": {
+        "name": "Good To Me",
+        "url": "https://open.spotify.com/album/4KqN0twvL6oWgpd2p1tuYY"
+      },
+      "artists": [
+        {
+          "name": "Nyashinski",
+          "url": "https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229894,
+      "name": "Good To Me",
+      "url": "https://open.spotify.com/track/7GtGplZ15uM6rGsG03bKYH"
+    },
+    {
+      "album": {
         "name": "Grown Ass Girl.",
         "url": "https://open.spotify.com/album/2J9GQxJkFjgkkKC9O4O21g"
       },
@@ -2096,7 +2114,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 179444,
       "name": "Grown Ass Girl.",
       "url": "https://open.spotify.com/track/0Z8VkJm8To18FclbvmYVMn"
@@ -2996,7 +3014,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 258113,
       "name": "Loving You",
       "url": "https://open.spotify.com/track/3wnvVFi4YQrMQBar9mjr2x"

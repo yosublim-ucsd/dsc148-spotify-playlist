@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Jung Kook
 
-[Spotify](https://open.spotify.com/user/spotify) - 384,804 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,170 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 44 | [ghost in my guitar \(feat\. Chris Stapleton\)](https://open.spotify.com/track/2tva3AvqXjPsMMLHknGGwe) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [TWENTY SOMETHING: Figuring It Out](https://open.spotify.com/album/1JcMkDyAk2OHljYXOmJpki) | 3:20 |
 | 45 | [Back To Love \[Feat\. SiR & Alex Isley\]](https://open.spotify.com/track/5Szrve8Y2ly9uxZupBIwgg) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As) | [Back To Love \[Feat\. SiR & Alex Isley\]](https://open.spotify.com/album/0MZOBJmTVwcxhlAkVmuhN7) | 3:21 |
 | 46 | [The Hard Way](https://open.spotify.com/track/1QLMHSO8A6DXPRTxFGJEnG) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [The Hard Way](https://open.spotify.com/album/1pwQ5Oq7QvtT1QAIoZDRJM) | 3:32 |
-| 47 | [PB&J](https://open.spotify.com/track/3piCGEtCAqwlUsbVYI3g2Y) | [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [PB&J](https://open.spotify.com/album/0iaBDYXLCmXrN6xUbJS7nJ) | 3:33 |
+| 47 | [PB&J \(feat\. Young Nudy\)](https://open.spotify.com/track/3piCGEtCAqwlUsbVYI3g2Y) | [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [PB&J \(feat\. Young Nudy\)](https://open.spotify.com/album/0iaBDYXLCmXrN6xUbJS7nJ) | 3:33 |
 | 48 | [Teen Mom](https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Teen Mom](https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea) | 3:42 |
 | 49 | [Sweet Bonita](https://open.spotify.com/track/6HeCWexSUG87Uok9hsrE83) | [Walter The Producer](https://open.spotify.com/artist/59QOcYlBSqJMi5rTHcwplJ) | [Sweet Bonita](https://open.spotify.com/album/3NWL1BcgIHGMj6oWozBLt0) | 3:09 |
 | 50 | [Flowers \(feat\. Lil Yachty\)](https://open.spotify.com/track/5GbWpauMGrsZUzHGsLqiY4) | [Zack Bia](https://open.spotify.com/artist/4B56PS5UUtnnRaGJvPvoyW), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Learn To Fly](https://open.spotify.com/album/2K6eQW8O363wCbz3uvy5Hq) | 3:14 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 66 | [Don't Run](https://open.spotify.com/track/7oaDmhGFSRcGxiYDVhJsk1) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Don't Run](https://open.spotify.com/album/0g5eB1GST9apmmd1Mc1NWu) | 2:28 |
 | 67 | [Guess What Bitch, We Back Hoe!](https://open.spotify.com/track/7uF9nK3u0OB1dWW5ee9qxC) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [SCARING THE HOES: DLC PACK](https://open.spotify.com/album/20KXgVL9yHtkk6Its2bmpO) | 2:58 |
 | 68 | [SOBER](https://open.spotify.com/track/5sFZ7F3b7LDdQTwt7UnNvZ) | [SIPHO.](https://open.spotify.com/artist/3qdhzmyZIDzgawvmSWLsGZ) | [SOBER](https://open.spotify.com/album/5nS6v4qdEL2h9lTasRmziy) | 2:35 |
-| 69 | [ASQUEROSO](https://open.spotify.com/track/1PSlMgsJ0V7pUeumk13fbs) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [ASQUEROSO](https://open.spotify.com/album/6QawDZdJyz7hiAkgw65BA3) | 2:39 |
+| 69 | [ASQUEROSO](https://open.spotify.com/track/1PSlMgsJ0V7pUeumk13fbs) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Zecca](https://open.spotify.com/artist/2FmE1yzXXBWKlRiOl0AqD8) | [ASQUEROSO](https://open.spotify.com/album/6QawDZdJyz7hiAkgw65BA3) | 2:39 |
 | 70 | [SALVAJE](https://open.spotify.com/track/0INArSC37ezsIj4b2G3S1L) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [SALVAJE](https://open.spotify.com/album/4Tb5qho45suRbRG3gPfA5L) | 3:25 |
 | 71 | [Chances](https://open.spotify.com/track/1rDN43rZK48pWElATbvyp3) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Chances](https://open.spotify.com/album/1BPGOwv0i7hNwRxBbrwkSr) | 3:53 |
 | 72 | [Marching Band \(feat\. Masego\)](https://open.spotify.com/track/1wWGkPC7eBVvDZoEhROvGv) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Marching Band \(feat\. Masego\)](https://open.spotify.com/album/7MTqfU7Opx2Z85w4HrFESt) | 4:44 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 99 | [back in time](https://open.spotify.com/track/2wfwhyErdQVfXGPwPTUhht) | [wilo wilde](https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc) | [back in time](https://open.spotify.com/album/5pgSw0cqiPHDtSwjMK2d0o) | 2:36 |
 | 100 | [Close To You](https://open.spotify.com/track/5NFCZQEma4ll0SD00lS6FQ) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Close To You](https://open.spotify.com/album/5IQSHIPD6Z8EBTTjHI8uUM) | 3:23 |
 
-Snapshot ID: `MCw4ZWRjZDdmOTE3MDM1ZGNhYzQ2ZjkzZTYwMGJlMDIzNjgzYjEzOWU3`
+Snapshot ID: `MCw4Mzc5OGVmYzQxZWJkMmM5YTRlNzY2NzI3N2IwZDg4OTJlMGZjMmVh`

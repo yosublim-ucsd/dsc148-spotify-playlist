@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 
 > Lo último y lo mejor de la salsa\. Cover: MOLY
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,835,573 likes - 100 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,835,731 likes - 100 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 | 99 | [Charrupi](https://open.spotify.com/track/3XvBsEsYSTITpQv21Rc5V9) | [Orquesta Calibre](https://open.spotify.com/artist/7kNW5VdRuuBqQ5phrTsrBB) | [La Foto, el Video, la Chicanería](https://open.spotify.com/album/0lmliOvYEdwKYUY8ozaBh4) | 5:41 |
 | 100 | [Lo Dudo \(feat\. Frankie Ruiz & Hector Trioche\)](https://open.spotify.com/track/3eT851yEUBZFxqVPxzO5pi) | [Tommy Olivencia y Su Orquesta](https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx), [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV), [Hector Trioche](https://open.spotify.com/artist/0dCUgh9eADnLsyDWCY2iNK) | [Celebrando Otro Aniversario \(feat\. Frankie Ruiz & Hector Trioche\)](https://open.spotify.com/album/5jNfI4zTzOYFdycIzK1pkQ) | 5:08 |
 
-Snapshot ID: `MCw0NzVlOWMxMmNhNWFkNjhkMTcyNjYwOWY0MGZiOTlmMzRlMDY3YTQx`
+Snapshot ID: `MCxhODc5NDJhOTI0ZDNmNWRlNzIwNmIwZDQyMzI0NDQ2NDgzZTRkY2Vk`

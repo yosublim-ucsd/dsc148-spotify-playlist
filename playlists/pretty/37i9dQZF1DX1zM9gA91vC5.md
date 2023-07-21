@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zM9gA91vC5.md) - [plain]
 
 > Concentração no máximo, sem distrações.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,468 likes - 250 songs - 10 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,520 likes - 250 songs - 10 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zM9gA91vC5.md) - [plain]
 | 249 | [Little Waltz](https://open.spotify.com/track/7wjFJYxBZgZE643XFyExK1) | [Landegren](https://open.spotify.com/artist/60De3BUZl4OerbDL1pOCqd) | [Little Waltz](https://open.spotify.com/album/2ZcIAV2uiIPCAcYKG9d30C) | 2:45 |
 | 250 | [Vaguely Reminiscent](https://open.spotify.com/track/6iK4gKiROE3gw0jfHxgBjU) | [Tomasz Kraal](https://open.spotify.com/artist/1XJ3PChclslYOOvJ7fJRkJ) | [Kraal Total](https://open.spotify.com/album/10TgvyPmbBmRjNA2j2w4jU) | 3:18 |
 
-Snapshot ID: `MCw4M2Q0NjQyNmU3YzkzMTI1MWI3ODhjODUxZTYzMmQ2ODU0OTNkNGRl`
+Snapshot ID: `MCw5MzhjNzdiMjA2ODQ1NWNlYzkwZmFhZDU3NWI2NGNiOGQzNmY5MjM3`

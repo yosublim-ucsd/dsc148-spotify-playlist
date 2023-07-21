@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 
 > Deep House in all its shapes and colours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 584,853 likes - 80 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 585,036 likes - 80 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 | 79 | [Diving Into Minds \- Club Mix](https://open.spotify.com/track/2DRUTKWuuWebFUXu6p1krH) | [Soichi Terada](https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9), [Masalo](https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53) | [Diving Into Minds](https://open.spotify.com/album/2MvKF44F9EhwL46cMgWE8z) | 6:27 |
 | 80 | [Dig Deep](https://open.spotify.com/track/35vMyIh6E7NZ50YtYb2Kxc) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [WAIRUNGA](https://open.spotify.com/album/4MAhJnzuVI9wuq16A2Jidk) | 10:30 |
 
-Snapshot ID: `MCxjZjAwZmEzYTBhNjQ5YTY0NGQ3NDgwYmI0YTU1MTk1YmRjZmI1NDNm`
+Snapshot ID: `MCwzZDJjMDA3ODAxNDFjMDE3ZmEzOThhZDlkYzI0OGI1ODJlMmY5ZmU0`

@@ -4,7 +4,7 @@
 
 > Écoute en boucle les hits tunisiens du moment.
 
-168 songs - 10 hr 22 min
+169 songs - 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [MCHEW !](https://open.spotify.com/track/5wXQE0LVpsiIELgQqCPwfe) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [MCHEW !](https://open.spotify.com/album/4eVpsLlYCq0Aeh0u6RhdTK) | 3:28 | 2022-12-27 |  |
 | [Mdayda](https://open.spotify.com/track/1ijxKmMQEF3gMcCW5irUUe) | [JenJoon](https://open.spotify.com/artist/5EueujjeEpYjmaQbAuaetK) | [Mdayda](https://open.spotify.com/album/03Ii9iQ6ScfiiliYXhjfaD) | 3:49 | 2021-12-10 | 2022-05-14 |
 | [Menghir Sbab](https://open.spotify.com/track/4iyabYY2AX4n7GmulnWPA6) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Menghir Sbab](https://open.spotify.com/album/5vS6p0a3VxniZIg3g98uIj) | 3:56 | 2023-03-22 |  |
+| [Mia Amore](https://open.spotify.com/track/6cSVVeutV5aqIlGf75EdtA) | [Artmasta](https://open.spotify.com/artist/5nIOjs6hpgOxasVYbKOAui), [Manel Amara](https://open.spotify.com/artist/2E6PtFWoDSwZ3VXTVCbdpN) | [Mia Amore](https://open.spotify.com/album/7kpHGEFLS5TX3gmDLJeb1w) | 2:50 | 2023-07-20 |  |
 | [Mouj El Bahar](https://open.spotify.com/track/2SL62n2nNp0dY332iKc8Th) | [Saif ElRezgui](https://open.spotify.com/artist/77oNTNdel3zaotNHdI4x65), [In\-s](https://open.spotify.com/artist/5JfeJl3VqY6UcwAKZVXKQM) | [Mouj El Bahar](https://open.spotify.com/album/1rcEdLVrSG3vaI3RnJqDu4) | 3:29 | 2021-12-10 | 2022-02-23 |
 | [Move](https://open.spotify.com/track/5XnU6fppfaCp8cJCM0SXxe) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Move](https://open.spotify.com/album/717IhcEaucsFqL7YlM3aUa) | 3:03 | 2021-12-10 | 2023-03-10 |
 | [Msamhek](https://open.spotify.com/track/7FDIp30RCD2dkjF7NbSglw) | [Raouf Maher](https://open.spotify.com/artist/2cSmvBKoZhM31paDXqjno2) | [Msamhek](https://open.spotify.com/album/52W0tdpkcWgyhSwyzHBiiN) | 3:35 | 2023-02-11 | 2023-02-21 |
@@ -146,7 +147,7 @@
 | [Va Bene](https://open.spotify.com/track/6NYQhiBDgiliWFSQzHqpmZ) | [Yousfi](https://open.spotify.com/artist/3Sbb6TiJ8LLT877N4BlAJj) | [Va Bene](https://open.spotify.com/album/45pTrdiBG1DmQ5YfZPmsgt) | 2:26 | 2023-06-27 |  |
 | [Vanille](https://open.spotify.com/track/4lrsCXwghvihHzjYKrB2uY) | [Lady Miro](https://open.spotify.com/artist/3xCulAs0FwT4sByJ8UVpjb), [Nordo](https://open.spotify.com/artist/4UNykXoF5SxUpgyX4nSOVC) | [Vanille](https://open.spotify.com/album/4JKKfV15KUKpoEGathW7np) | 2:27 | 2021-12-10 | 2022-02-26 |
 | [Wa7di](https://open.spotify.com/track/1Kcd7hb4w18W1VVDLkt5Kn) | [In\-s](https://open.spotify.com/artist/5JfeJl3VqY6UcwAKZVXKQM) | [Wa7di](https://open.spotify.com/album/2CiqwTgfyqPgK7bmSfCK0i) | 3:06 | 2023-01-04 | 2023-01-14 |
-| [Wakti Yejri](https://open.spotify.com/track/1dTyrSknaWlocx8T6Sd8go) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Wakti Yejri](https://open.spotify.com/album/6vHOhtV4MCv0ftAKZqPXAo) | 3:08 | 2023-03-30 |  |
+| [Wakti Yejri](https://open.spotify.com/track/1dTyrSknaWlocx8T6Sd8go) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Wakti Yejri](https://open.spotify.com/album/6vHOhtV4MCv0ftAKZqPXAo) | 3:08 | 2023-03-30 | 2023-07-21 |
 | [Wakti Yejri](https://open.spotify.com/track/2rdBSVBD6xMJOmCNrGniSr) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Wakti Yejri](https://open.spotify.com/album/7smElBnJjgj4vptmJx5OXo) | 3:08 | 2021-12-10 | 2023-04-01 |
 | [Warda \- وردة](https://open.spotify.com/track/5iv5BmdSI63MOkRaV95agi) | [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR) | [Warda \(وردة\)](https://open.spotify.com/album/3IulcYLJcCYEQyE0Ufthtl) | 4:29 | 2023-02-27 |  |
 | [Watani](https://open.spotify.com/track/6CSz8qjGxCVq2Effqj70n0) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [Watani](https://open.spotify.com/album/1AnLeUdRBSPUey9nVMsJYU) | 1:56 | 2022-12-21 | 2023-02-02 |

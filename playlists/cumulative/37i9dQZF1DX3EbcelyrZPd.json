@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Get your fill of vibes straight out of Tanzania. Cover: Jux & Diamond Platnumz",
+  "description": "Get your fill of vibes straight out of Tanzania. Cover: Rayvanny, Jux & Diamond Platnumz",
   "name": "Bongo Flava",
   "tracks": [
     {
@@ -1030,7 +1030,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 186411,
       "name": "Funga Kazi",
       "url": "https://open.spotify.com/track/34opJEgUasCJmsFKp2CVjY"
@@ -5254,6 +5254,32 @@
       "duration_ms": 299416,
       "name": "Yatapita",
       "url": "https://open.spotify.com/track/5osJXf9jysiW72jZQ0tTKD"
+    },
+    {
+      "album": {
+        "name": "Yaya (feat. Diamond Platnumz & Jux)",
+        "url": "https://open.spotify.com/album/4DukccL0dV6cqfWlJ8xqia"
+      },
+      "artists": [
+        {
+          "name": "Rayvanny",
+          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
+        },
+        {
+          "name": "Diamond Platnumz",
+          "url": "https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod"
+        },
+        {
+          "name": "Jux",
+          "url": "https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319285,
+      "name": "Yaya (feat. Diamond Platnumz & Jux)",
+      "url": "https://open.spotify.com/track/15ObWtsj5TVgUybcGsHoIf"
     },
     {
       "album": {

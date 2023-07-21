@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTujiC7wfofZ.md) - [plain]
 
 > All the indie disco platters that matter.
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,173 likes - 250 songs - 15 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,247 likes - 250 songs - 15 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTujiC7wfofZ.md) - [plain]
 | 249 | [Daffodils \(feat\. Kevin Parker\)](https://open.spotify.com/track/1v0ufp7FLTFcykUGOmFZKa) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Kevin Parker](https://open.spotify.com/artist/2Lt4GKzyW3WOMf3wvPDszQ) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 4:58 |
 | 250 | [Your Love \(Déjà Vu\)](https://open.spotify.com/track/5DYD4zlGiFlkpLaf2Bk8Vl) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Your Love \(Déjà Vu\)](https://open.spotify.com/album/7xz9Hi6y8KaYlLNSkvme0W) | 3:54 |
 
-Snapshot ID: `MCw4ZmFlY2EzZTZkZDdjMDBmZTMyZjBhNTU3YWViYjUwM2UyYmZiOGY5`
+Snapshot ID: `MCxmNWNjODZlNzdlNTFiNTUxM2E5ZjdhM2FiZGY2ZWIxNWY4NmQ0ZjE1`

@@ -4,7 +4,7 @@
 
 > The hottest alternative music from Nairobi to Dar!
 
-164 songs - 8 hr 32 min
+165 songs - 8 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Jaafari's 19th](https://open.spotify.com/track/7ChMpmVqd0NB1KL0vqFv8a) | [Caleb Awiti](https://open.spotify.com/artist/18QJYkUruunLIMqRIC1ljN) | [Love Letters II](https://open.spotify.com/album/4YPEUtBlXYKlVpxAezEElY) | 3:33 | 2022-01-27 |  |
 | [JAMES BOND](https://open.spotify.com/track/0Iq3j9CMUCsCi2j10BS4os) | [BAQABO](https://open.spotify.com/artist/2SxLNgtH8TxZFuxugFfycn) | [JAMES BOND](https://open.spotify.com/album/5CL0vcPX9aWVhD7lzrO4Cu) | 3:16 | 2021-10-29 | 2022-04-29 |
 | [Just Another Love Song](https://open.spotify.com/track/20u7hieXi6VV3t6p5s9ggJ) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Meghan](https://open.spotify.com/artist/48KeNSc5xrQvLgxGxIFvoI) | [Just Another Love Song](https://open.spotify.com/album/532BimGtZfjb35BXOSTnJe) | 2:57 | 2022-02-24 | 2023-04-16 |
-| [Just Another Love Song](https://open.spotify.com/track/2M78vle5sxhPTFN2wnrU0q) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Meghan](https://open.spotify.com/artist/48KeNSc5xrQvLgxGxIFvoI) | [Sorry](https://open.spotify.com/album/7hPdbpMDpAjhEyBlHtOv8P) | 2:57 | 2023-04-06 |  |
+| [Just Another Love Song](https://open.spotify.com/track/2M78vle5sxhPTFN2wnrU0q) | [M\. Rumbi](https://open.spotify.com/artist/6ToQowXRJ5GkBPHDECCEoP), [Meghan](https://open.spotify.com/artist/48KeNSc5xrQvLgxGxIFvoI) | [Sorry](https://open.spotify.com/album/7hPdbpMDpAjhEyBlHtOv8P) | 2:57 | 2023-04-06 | 2023-07-21 |
 | [Kampala](https://open.spotify.com/track/5XSx18sFrYAjINCcqcxz74) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Kampala](https://open.spotify.com/album/2KyDqnxPYOmxrhjvopJgIG) | 3:09 | 2022-08-25 |  |
 | [Kampala](https://open.spotify.com/track/0FApqdxGmmNO6ijZEYbNcH) | [Ill Gee](https://open.spotify.com/artist/3bsKojJ5YjloiR72zszfmW) | [Kampala](https://open.spotify.com/album/3sOQTISPW0P2fJIMq3AFPH) | 2:38 | 2021-10-15 | 2022-03-26 |
 | [Kanyoni](https://open.spotify.com/track/6UZcrzuokSStY50hAG20dX) | [Barbara Wangui](https://open.spotify.com/artist/1Q79hWCBC3dZSZmAcF5DrZ) | [Shorts \-EP](https://open.spotify.com/album/4ZxY4aQytI7Ydd1213HZRu) | 2:40 | 2021-10-15 | 2022-01-28 |
@@ -161,6 +161,7 @@
 | [Umenikaa](https://open.spotify.com/track/3oIwlyoOs4SOjRntoZlUdS) | [Tofa Jaxx](https://open.spotify.com/artist/1CThfFD9mffbXka0DLLWxq) | [Umenikaa](https://open.spotify.com/album/7v45xHHxfssCfbXswZZp8R) | 3:15 | 2021-10-15 | 2022-06-24 |
 | [Undecided](https://open.spotify.com/track/1UqEp3SM2PBTXlgXqURS2V) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ), [Don Gz](https://open.spotify.com/artist/4g6Xas4wNpTp3cA9Tm4ypK) | [Undecided](https://open.spotify.com/album/2pzZkaAv5t0mBpNv84VWjm) | 3:04 | 2022-11-10 | 2022-11-18 |
 | [Utamu](https://open.spotify.com/track/2EjQMKID7FnvokZw4jsrxL) | [Salma Munde](https://open.spotify.com/artist/7lCJm1afLs1UDUnk1GtriQ) | [Utamu](https://open.spotify.com/album/4e4CGnTY9p4BUKUaNMQO3F) | 3:29 | 2021-10-15 | 2022-06-03 |
+| [Vanity](https://open.spotify.com/track/7CT9KE85Muc2n7UG6JS0dv) | [capespring.](https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS) | [Vanity](https://open.spotify.com/album/07xgzcCcQz2uahUuO1xnkq) | 2:32 | 2023-07-20 |  |
 | [Vijana Wanataka Kazi](https://open.spotify.com/track/71QA3QXgNuJcSWcnUIN1qy) | [Flier](https://open.spotify.com/artist/4GG9mTTEeOa6zUYwO3YmgU) | [Vijana Wanataka Kazi](https://open.spotify.com/album/4dFU75ysafiICD8lfC6Rvf) | 2:50 | 2023-07-06 |  |
 | [Walk Away](https://open.spotify.com/track/6AkZmquckBmYmMh3bg4yCq) | [Mucyo](https://open.spotify.com/artist/3s38cQ7PO3JUUWYL7jasmi) | [Next Phase](https://open.spotify.com/album/6MUDZLoEXVwgZbLW30zVsE) | 3:04 | 2021-11-04 | 2022-05-06 |
 | [Weche \- Radio Edit](https://open.spotify.com/track/5FF4NmjTT0lMF2JTg8sgcM) | [Punk Mbedzi](https://open.spotify.com/artist/2QtRhwmMeDArLkKSwBHSvi), [Euggy](https://open.spotify.com/artist/0YptteJXaFS7w41fz81gsn), [Akoth Jumadi](https://open.spotify.com/artist/1yzpHN73mIqHg8uP8KnyYo) | [Weche](https://open.spotify.com/album/2ThbInwMUB3c1W6DlSkt29) | 3:37 | 2021-10-15 | 2022-04-28 |

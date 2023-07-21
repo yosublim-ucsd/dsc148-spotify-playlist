@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-170 songs - 15 hr 49 min
+171 songs - 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Barse Badariya](https://open.spotify.com/track/6bzSij587sWRb0KtBrtgId) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Barse Badariya](https://open.spotify.com/album/0eLSHpbVhqOiflg2rCm2zo) | 3:03 | 2022-05-17 |  |
 | [Barse More Naina](https://open.spotify.com/track/5uujAs6ESgsPXwUYvbwlON) | [KhoslaRaghu](https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS) | [Barse More Naina](https://open.spotify.com/album/0xVOTxx8rhWsD25L6sw6jg) | 3:18 | 2023-07-05 |  |
 | [Bhim](https://open.spotify.com/track/2CpX8zSTnl2yJIFyiXMgHx) | [Joel Veena](https://open.spotify.com/artist/1jHZD5DHGnhcb2XCmwx1pj) | [Bhim](https://open.spotify.com/album/1Mw4V0SJP9YBRyVJK8YsXT) | 4:38 | 2022-05-17 | 2023-06-22 |
-| [Blessing the Bride \(Baisa\)](https://open.spotify.com/track/79osQzagWc3CI97LvAXXWH) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Romy](https://open.spotify.com/artist/5bk4s1Xe4xxlrTcRC9Dwek) | [Shades of Cashmere](https://open.spotify.com/album/14rJsFPIXADiSOxf9uIrZo) | 3:49 | 2022-05-17 |  |
+| [Blessing the Bride \(Baisa\)](https://open.spotify.com/track/79osQzagWc3CI97LvAXXWH) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Romy](https://open.spotify.com/artist/5bk4s1Xe4xxlrTcRC9Dwek) | [Shades of Cashmere](https://open.spotify.com/album/14rJsFPIXADiSOxf9uIrZo) | 3:49 | 2022-05-17 | 2023-07-21 |
 | [Blue](https://open.spotify.com/track/4x2hfelYZwgaQqPZK6vRBV) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa) | [Shadow & Light](https://open.spotify.com/album/42xkHkLWrhCDUoHK90hyy2) | 3:53 | 2022-05-17 | 2023-03-10 |
 | [Bright Eyes](https://open.spotify.com/track/6YurAWZr1amWqDhkn3Yrc9) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU), [Alev Lenz](https://open.spotify.com/artist/5AbBmL35b74Ywd0sqILIdg) | [Bright Eyes & In This Mouth](https://open.spotify.com/album/0R3Gu22TJ3rjZIP6Fn7Iwo) | 6:24 | 2022-05-17 | 2022-07-29 |
 | [Bright Eyes \(feat\. Alev Lenz\)](https://open.spotify.com/track/5MaDXZxQUKRqGC3JAQIGpr) | [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU), [Alev Lenz](https://open.spotify.com/artist/5AbBmL35b74Ywd0sqILIdg) | [Love Letters P.S\. \(Deluxe\)](https://open.spotify.com/album/0qYDzUGVm3cROeMQ5IrGIC) | 6:24 | 2022-07-12 | 2023-05-24 |
@@ -118,6 +118,7 @@
 | [Ooch Apaar](https://open.spotify.com/track/0IAo2pRTsnIKeFqSBovtE6) | [Deepa Nair Rasiya](https://open.spotify.com/artist/7N1BsOs8z52ZdDxd8DI4aT) | [Ooch Apaar](https://open.spotify.com/album/6eiFWNVJ22uHrqHPqwHwkW) | 7:00 | 2022-07-12 | 2022-08-23 |
 | [Ooch Apaar](https://open.spotify.com/track/2WoPxsPKf6nnPSY1Gk5i6O) | [Deepa Nair Rasiya](https://open.spotify.com/artist/7N1BsOs8z52ZdDxd8DI4aT) | [Ooch Apaar](https://open.spotify.com/album/3pWzIncx5VZObkjD96UhMH) | 7:00 | 2022-05-17 | 2022-07-29 |
 | [Piya Ki Najariya](https://open.spotify.com/track/7ru5x9KkEvj2OJ6EQUzKbl) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Piya Ki Najariya](https://open.spotify.com/album/2JXX1LP63cd0b8Nkkkngz0) | 3:14 | 2023-06-21 |  |
+| [Piya Sawre](https://open.spotify.com/track/6NDzy3yUSghgEPm2fbPbkY) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Shilpa Aggarwal](https://open.spotify.com/artist/68Ei7hl4pXB8M4PxV7XYu9) | [Piya Sawre](https://open.spotify.com/album/1ZinsKlEsh9tvXfYm5Gqpz) | 5:03 | 2023-07-20 |  |
 | [Piya: Basant Mukhari](https://open.spotify.com/track/32w1dhGQnuAoH4QiqtIWkH) | [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ), [Junaid Bashir](https://open.spotify.com/artist/5LjIrV2myp40iKTOYOBcVa) | [Piya: Basant Mukhari](https://open.spotify.com/album/2u75yNIlGpJhdJ5zQfAxOl) | 5:41 | 2022-05-17 | 2023-07-06 |
 | [Purvayi](https://open.spotify.com/track/5poTkPZvxROL3RtuxRVtBU) | [Midival Punditz](https://open.spotify.com/artist/7GmnD2XZleQw8PPzRJV7FY), [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Purvayi](https://open.spotify.com/album/1O5bf4Rfj1Yhz2tq6lPmAp) | 5:10 | 2022-05-17 |  |
 | [Purvi](https://open.spotify.com/track/4o67UGDLbGPDPjD4ABcJSy) | [Naad](https://open.spotify.com/artist/0vk6S4KUi6MkvCr9npFoud) | [Purvi](https://open.spotify.com/album/4pxhyzACOXcpagXUOcU26V) | 4:24 | 2023-03-10 | 2023-05-24 |

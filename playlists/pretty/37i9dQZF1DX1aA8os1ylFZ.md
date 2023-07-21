@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > get into your feels with some r&b magic
 
-[Spotify](https://open.spotify.com/user/spotify) - 232,865 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,915 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 99 | [Selfish](https://open.spotify.com/track/6RjdyJoKIxX8eNbYE5WWBK) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [WHO HURT YOU? \(Deluxe\)](https://open.spotify.com/album/0Y5fofxLKT5mqVsprWjbn5) | 3:03 |
 | 100 | [Game Over \(with Queen Naija\)](https://open.spotify.com/track/1l6NtBAh7CHmV4OY4PZZs8) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Game Over \(with Queen Naija\)](https://open.spotify.com/album/6UtOcqphciSIZPqkl66UqR) | 3:28 |
 
-Snapshot ID: `MCwzNjM0Zjg3NDc4NTQ5OTg2OTM4NjQ4MTU0NzJkNmEyOTE0OTQ3ZmMz`
+Snapshot ID: `MCwwMjE4OGUwNWUwMDkzNDE4YzkzMmY3YzMyMDJhOTU3NGY1YzUxOWVj`

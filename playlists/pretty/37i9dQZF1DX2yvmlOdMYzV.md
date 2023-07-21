@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 
 > Indie soul that's highkey fire
 
-[Spotify](https://open.spotify.com/user/spotify) - 907,674 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 907,814 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2yvmlOdMYzV.md) - [plain]
 | 99 | [Times It By Two](https://open.spotify.com/track/5K1jIe2SWTGrm37SN0Crdo) | [Annie Tracy](https://open.spotify.com/artist/6tNKVWwIt2i6K7GoWIsycF) | [Times It By Two](https://open.spotify.com/album/1YY7YJ6m8z7SYv9UU9YQwp) | 3:25 |
 | 100 | [Only You](https://open.spotify.com/track/3inov7UTS3ZHlq3RvDT5Ga) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch) | [Sheet Music](https://open.spotify.com/album/6dZamUVfDA1r94i5PWQQfG) | 3:08 |
 
-Snapshot ID: `MCw5NmI1ZmIwMjU0ZmZhM2VjMzI4N2M2OTRhZDcwOTk0MjZiNzc5NDRi`
+Snapshot ID: `MCxmMTc2NWFkNzYwNjkyZTVlNmU2NGZhODk2NjI5NTdjNTcyYWM0NDM3`

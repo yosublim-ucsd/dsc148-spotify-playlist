@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Sanjith Hegde
 
-137 songs - 7 hr 37 min
+139 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Beesuva Gaali \- SKODA Deccan Beats](https://open.spotify.com/track/231S8vl1A717qGgydnSiWR) | [Carlok](https://open.spotify.com/artist/6UofxciyC7eixN2leI5SKs), [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Madhura Balaji](https://open.spotify.com/artist/5pDwaaFFLmBgmoz9kSZCWk) | [Beesuva Gaali \(SKODA Deccan Beats\)](https://open.spotify.com/album/5AQS0VpeL4yjO3CvMJmvjf) | 2:28 | 2022-10-14 | 2023-06-21 |
 | [Bhavanegalu](https://open.spotify.com/track/51ygWHeQ3xGDwKRgt7NeJF) | [Keerthi](https://open.spotify.com/artist/512xjcN5DPYZ16JpJ1GcWt) | [Bhavanegalu](https://open.spotify.com/album/0iQUBcMP8WMLXI4Qw2FGu9) | 2:32 | 2023-01-13 | 2023-06-08 |
 | [Careless](https://open.spotify.com/track/1JP69nFgf27iCGO3lnvAxh) | [Raakki](https://open.spotify.com/artist/27nxoPW1MD0nRL7ZMu2khf) | [Careless](https://open.spotify.com/album/4CqMVtBDarc1veEKP4NzVm) | 3:57 | 2023-07-03 | 2023-07-18 |
+| [Cash Race](https://open.spotify.com/track/0fyj6lCdRmakvild3EyarH) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Cyclone Og](https://open.spotify.com/artist/4yAKQB0twqPFlGwjF69epo) | [Cash Race](https://open.spotify.com/album/0V8riX9jaGWnVtBd9JbnW9) | 2:25 | 2023-07-20 |  |
 | [Chance eh illa](https://open.spotify.com/track/6IrzJUmkdrKSHq7KwHqnEh) | [Abhilash Gupta](https://open.spotify.com/artist/1BoGQCuyexXTqacYNHCN3M) | [Chance eh illa](https://open.spotify.com/album/3thZfo5zYTNdHrQ0NZHt7C) | 3:06 | 2023-01-31 | 2023-07-04 |
 | [Chitte](https://open.spotify.com/track/1iHkAPfRqSMDZsKfyYMWS2) | [John On The Beat](https://open.spotify.com/artist/6LlGGD8vKtcraxhCCPkRaS), [Shastra](https://open.spotify.com/artist/6L0zcPmoJp0r8YIsSYmu34) | [Chitte](https://open.spotify.com/album/1WcuUUmAg61253UiWMITVq) | 2:58 | 2023-02-08 |  |
 | [Chitte](https://open.spotify.com/track/11D2ENXpVlMasJbwPxcMEJ) | [K P Milan Kumar](https://open.spotify.com/artist/2qDNsvM0P9WXNOtqXT6HlJ) | [Chitte](https://open.spotify.com/album/18K3VnzpV5fSFZhivYSQei) | 3:28 | 2023-05-25 | 2023-06-08 |
@@ -36,6 +37,7 @@
 | [Ex Girlfriend](https://open.spotify.com/track/7luftFuLr8YjPPeXRz7jiq) | [BroGowda](https://open.spotify.com/artist/7bj1UtwFuY9v9GwHUlKT63), [Niveditha Gowda](https://open.spotify.com/artist/25waAm5irwNDoboeQT8C4C) | [Ex Girlfriend](https://open.spotify.com/album/5rFwvht6Lm25x9M7Q93hMt) | 3:12 | 2023-06-12 |  |
 | [FALLIN DOWN](https://open.spotify.com/track/59GlQNOE1faantvdcbI7JS) | [CHARLIE](https://open.spotify.com/artist/4lab8XoG0x9TbeClnEHmFA), [Siddharth](https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P) | [FALLIN DOWN](https://open.spotify.com/album/7cFamdmNjCGXSva5tg74Rh) | 3:08 | 2023-03-01 | 2023-07-04 |
 | [FLYHIGH](https://open.spotify.com/track/4xcu2aYgGXrcI8N9JBzh1j) | [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q) | [FLYHIGH \- Kannada](https://open.spotify.com/album/5I7FRC3Hy9Eg6CqKE29fvL) | 3:55 | 2023-06-29 |  |
+| [Free](https://open.spotify.com/track/2UzkwgstKyX5wZg6t9YzxL) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Free](https://open.spotify.com/album/2dVX6UPdVWKPKs8g4huCHG) | 3:48 | 2023-07-20 |  |
 | [Gadda](https://open.spotify.com/track/5NMcqtJ4MKHpFsHIvgWs7p) | [Arfaz Ullal](https://open.spotify.com/artist/0wuJzQOCtUNgXqrkkgsFoH), [Chikkesh Hamsabhimani](https://open.spotify.com/artist/4UT07rarVsghjWlBzj7iU9) | [Gadda](https://open.spotify.com/album/5HeVSXTlmUq9Rw8BuOZiGv) | 4:32 | 2023-02-13 |  |
 | [Geejaga Hakki](https://open.spotify.com/track/1u6vTH5nUSKaSTPJZJC81s) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Charan Raj](https://open.spotify.com/artist/5Oe7ToHpWN7t7nWtJvJ7gi), [Prassanna Hegde](https://open.spotify.com/artist/0GXTpJPW41OHk5rTZCRDDy) | [Geejaga Hakki](https://open.spotify.com/album/330gRfCGukj4u4WpucNpP4) | 3:25 | 2023-06-08 |  |
 | [Good Night](https://open.spotify.com/track/2on44Nj5lhjWRTcdJfVcu8) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV), [Aishwarya Rangarajan](https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO) | [Good Night](https://open.spotify.com/album/6zCkPLOYgZWOy2dPPkB7ac) | 3:52 | 2022-10-20 |  |

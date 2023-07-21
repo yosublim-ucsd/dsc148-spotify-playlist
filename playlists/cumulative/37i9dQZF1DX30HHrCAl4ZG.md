@@ -4,7 +4,7 @@
 
 > All new indie rock\. Featuring new music by Blur.
 
-1,074 songs - 2 day 10 hr 23 min
+1,075 songs - 2 day 10 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -825,7 +825,8 @@
 | [She Came Down From The Stars](https://open.spotify.com/track/7hx6Llz6nbZSMu1Bby1caB) | [Nathan Day](https://open.spotify.com/artist/3kEC0PwfYf8pGHiKFQk8OX) | [She Came Down From The Stars](https://open.spotify.com/album/3hQeldMOyAY7ojZCk27n9x) | 3:36 | 2021-08-27 | 2022-04-17 |
 | [She's on Fire](https://open.spotify.com/track/2BQc8Z6W3m6YWRolCzqY9z) | [Strange Ranger](https://open.spotify.com/artist/3psutwIiyR5tfTM1TTNxFv) | [She's On Fire](https://open.spotify.com/album/3CQ4NKe4v9ro6LFpeklmaY) | 4:25 | 2023-05-05 | 2023-06-17 |
 | [Shit Show](https://open.spotify.com/track/0t9X8kIUL4QqoWq6HM5o2G) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Shit Show](https://open.spotify.com/album/67Z2Ig6ut4g6d0MhxTKjfp) | 3:20 | 2021-09-03 | 2022-02-12 |
-| [Should I](https://open.spotify.com/track/5n2SP6R5k7LS3GdJEirPeM) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Should I](https://open.spotify.com/album/17tq1FC1vDQJkTRNCNYcXc) | 2:28 | 2023-05-19 |  |
+| [Should I](https://open.spotify.com/track/5n2SP6R5k7LS3GdJEirPeM) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Should I](https://open.spotify.com/album/17tq1FC1vDQJkTRNCNYcXc) | 2:28 | 2023-05-19 | 2023-07-21 |
+| [Should I](https://open.spotify.com/track/7pB8DoQuLCT6IbgSCXAmhG) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [I Am The Dog](https://open.spotify.com/album/0RjsbmAOQzWOq3fxQ002rX) | 2:28 | 2023-05-19 |  |
 | [Show Up](https://open.spotify.com/track/6ouWFK1glsWeCC5C0uw2KR) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Show Up](https://open.spotify.com/album/2eCZIIngA9bPYRUoKxd29z) | 3:21 | 2021-06-07 | 2022-06-09 |
 | [Shut Up and Show Me](https://open.spotify.com/track/6XkhuBBmnX7bKcW3ErAy0g) | [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S) | [Shut Up and Show Me](https://open.spotify.com/album/2GHDnkClYnHnVlYr5b8EUL) | 3:30 | 2022-07-15 | 2022-10-15 |
 | [Sick of Your Sound](https://open.spotify.com/track/6dLuuloMLdAQy6BJJTQnBl) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7) | [Sick of Your Sound](https://open.spotify.com/album/7xUfvvjZ4xx2GjLymbVz1V) | 3:30 | 2023-05-19 | 2023-07-01 |

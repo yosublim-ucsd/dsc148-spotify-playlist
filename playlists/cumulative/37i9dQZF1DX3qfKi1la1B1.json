@@ -561,6 +561,24 @@
     },
     {
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7ChLJ2d4pLNKIrLSuGl8Df"
+      },
+      "artists": [
+        {
+          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
+          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201022,
+      "name": "Candlelight - Spotify Singles",
+      "url": "https://open.spotify.com/track/326EM9zAMPmr1JkGtzHnH6"
+    },
+    {
+      "album": {
         "name": "Careful (From The Original Motion Picture \"Magic Mike's Last Dance\")",
         "url": "https://open.spotify.com/album/1TzD43H8N0nGO5GRIvlDge"
       },
@@ -2670,7 +2688,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 126902,
       "name": "Pink Moon",
       "url": "https://open.spotify.com/track/7fHzjaSpIqRPXP2s5hJS1M"
@@ -2932,6 +2950,28 @@
       "duration_ms": 274583,
       "name": "REFERENCE - Original Mix",
       "url": "https://open.spotify.com/track/67MF4RXq1oFbZMCVm65Xf3"
+    },
+    {
+      "album": {
+        "name": "repeat",
+        "url": "https://open.spotify.com/album/2cCFHDzbTGF2rYjLNKEHV7"
+      },
+      "artists": [
+        {
+          "name": "LHRHND",
+          "url": "https://open.spotify.com/artist/5Y4wI02HN3fDWmqO0OKGir"
+        },
+        {
+          "name": "Froya",
+          "url": "https://open.spotify.com/artist/1NNTp69Arw8ikxNNlKe8JI"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216521,
+      "name": "repeat",
+      "url": "https://open.spotify.com/track/6P4jmwL4M4LSa4JWdgAPx2"
     },
     {
       "album": {
@@ -3812,7 +3852,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 224725,
       "name": "Tip Toe",
       "url": "https://open.spotify.com/track/0MJ5wKsPEeihONNfugHGy7"

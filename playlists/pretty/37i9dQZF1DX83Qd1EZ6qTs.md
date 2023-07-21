@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83Qd1EZ6qTs.md) - [plain]
 
 > Ease out and balance your energies with the rhythmic sounds of the Tabla, from Indian maestros & modern geniuses.<br/>Cover : Anuradha Pal
 
-[Spotify](https://open.spotify.com/user/spotify) - 729 likes - 47 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 742 likes - 47 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83Qd1EZ6qTs.md) - [plain]
 | 46 | [Tabla](https://open.spotify.com/track/23YNrB4uagVVZICUBU3Jur) | [Jnan Prakash Ghosh](https://open.spotify.com/artist/6qFxz6UtYnStlnIiXbhJYg) | [Drums Of India \- Pt\. Jnan Prakash Ghosh](https://open.spotify.com/album/7zm1sLnuaWn5mEuuplPtrT) | 12:51 |
 | 47 | [Ardha Jai Taal \(Tabla solo in 6.5 beats\)](https://open.spotify.com/track/3EvGdsfkKcUChBnEuWCed1) | [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Ardha Jai Taal \(Tabla solo in 6.5 beats\)](https://open.spotify.com/album/3nSESdpvZodJSBiGPwHSN0) | 9:04 |
 
-Snapshot ID: `MCwwN2E4YTRiMDcxMGQ3MmUwNmJkNzJiMDAwMGNiMzA0NzBmZmEwNWI2`
+Snapshot ID: `MCxmMWQzZTA2NGEyNjJlZWI3MmM0NGQ3NzM3ODY4YTYzODk5ZTc0M2Jk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 
 > chill beats, lofi vibes, new tracks every week...
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,052,963 likes - 750 songs - 1 day 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,053,524 likes - 750 songs - 1 day 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 7 | [Delight](https://open.spotify.com/track/0OOfE9Fv5jWO7osHJHsWd1) | [Mad Keys](https://open.spotify.com/artist/542FKpIX73UoqWHne4D2E2), [Tamuz](https://open.spotify.com/artist/0PeJXwNht5Ty961mmQWJuA) | [Delight](https://open.spotify.com/album/3GxfroTubpNEbTenLl9kQW) | 2:29 |
 | 8 | [Sun City](https://open.spotify.com/track/4poYA348opb64P8kH4Sifl) | [Duan Wasi](https://open.spotify.com/artist/71aXcrNzVQBs4e3FLIlDVI) | [Sun City](https://open.spotify.com/album/6bVn91GIWHRj6wsugjz6nq) | 2:34 |
 | 9 | [Photosynthesis](https://open.spotify.com/track/6q83Nvky8wjB1iQCCJ45nQ) | [Eu93ne](https://open.spotify.com/artist/19lhY4E6GLxH337OZLfOV4), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Photosynthesis](https://open.spotify.com/album/5uQVrf9K3wCDh5PRdjupj1) | 2:06 |
-| 10 | [Arabian Nighscape](https://open.spotify.com/track/2A1lmILl7Kr4obNVAkvWgS) | [Enter Etherial](https://open.spotify.com/artist/2NkdAoQipIsgUKqe3sLun2) | [Arabian Nightscape](https://open.spotify.com/album/202wC1NAiuNfz7VALhVoiu) | 2:08 |
+| 10 | [Arabian Nightscape](https://open.spotify.com/track/2A1lmILl7Kr4obNVAkvWgS) | [Enter Etherial](https://open.spotify.com/artist/2NkdAoQipIsgUKqe3sLun2) | [Arabian Nightscape](https://open.spotify.com/album/202wC1NAiuNfz7VALhVoiu) | 2:08 |
 | 11 | [Cold Leftovers](https://open.spotify.com/track/4nd1Dzjir8lGYXTq5gPkgd) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Cherry Gummy](https://open.spotify.com/album/2zgJcyGollZV9lW0fyL1sX) | 2:14 |
 | 12 | [Placebo Effect](https://open.spotify.com/track/5xKnJdMJBsDem2LZL5xHIv) | [Kasimir](https://open.spotify.com/artist/0LCKyVSAzqhNLP4yTpnE5Z) | [Placebo Effect](https://open.spotify.com/album/3YpFqvNPZdmDrCBJwFZx0k) | 1:46 |
 | 13 | [Stargaze](https://open.spotify.com/track/62F1DaK23Thussd1U7f7db) | [Osive](https://open.spotify.com/artist/0xU9dnJU5OscWWwAZVJwtc) | [Stargaze](https://open.spotify.com/album/2dTYJ8TOXxAN0SRH9uBpK7) | 1:44 |
@@ -759,4 +759,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQRwui0ExPn.md) - [plain]
 | 749 | [My House, Your Rules](https://open.spotify.com/track/6qAFemH2WWhEM9ZNn5dcBN) | [Mean Dartin](https://open.spotify.com/artist/7LhBPxzi8fMrXFWz7Ezi2m) | [My House, Your Rules](https://open.spotify.com/album/0zCXJLvrl8SoUhS9yHOmbc) | 2:14 |
 | 750 | [going to college](https://open.spotify.com/track/4ZTLnoR5MrMyapCTu92UjA) | [sancy j](https://open.spotify.com/artist/3UVxi5LYbngFziA6ots019) | [going to college](https://open.spotify.com/album/67Ap9oSUgpti6J5L1LhrNM) | 2:33 |
 
-Snapshot ID: `MCxjYWVmOWNiNWJkNTdmZDVhNzk4NmEwYzEwNTMwNmE2MTRiNTUyYmQ5`
+Snapshot ID: `MCw0NTFjN2QwZmE3NTI2MTJlNTUzYjYwYTZmNzJmM2M5N2UyZmU2ODQ4`

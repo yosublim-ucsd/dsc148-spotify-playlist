@@ -4019,6 +4019,24 @@
     },
     {
       "album": {
+        "name": "Trax 3 Lascivious Summer",
+        "url": "https://open.spotify.com/album/0yohmYOsA27Wi9ZuwIa977"
+      },
+      "artists": [
+        {
+          "name": "Harvey Presents Locussolus",
+          "url": "https://open.spotify.com/artist/3evsK2HbED58ArIgeUYoAs"
+        }
+      ],
+      "date_added": "2018-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 566743,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/1SqW8FgwhfIm5AO4wpNuZg"
+    },
+    {
+      "album": {
         "name": "Trax 3lLascivious SummerlSelected by Eric Pajot",
         "url": "https://open.spotify.com/album/07wIue6WmLDZn9F2du3sHf"
       },
@@ -4052,7 +4070,7 @@
       ],
       "date_added": "2018-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 566743,
       "name": "Next To You",
       "url": "https://open.spotify.com/track/4vSYAyiXiFutrOQU0auPwf"

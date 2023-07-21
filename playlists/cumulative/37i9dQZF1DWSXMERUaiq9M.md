@@ -2,7 +2,7 @@
 
 ### [rave](https://open.spotify.com/playlist/37i9dQZF1DWSXMERUaiq9M)
 
-> celebrating a new generation of rave music feat\. southstar, DJ Gigola, Geo22, Charlotte Plank, TELESHOP & DJ Mell G
+> love peace techno
 
 134 songs - 9 hr 26 min
 

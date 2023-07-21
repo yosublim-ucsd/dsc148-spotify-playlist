@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 
 > Dulce y ácido: indie pop latino en estado natural\. Foto: Juku Ares
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,676 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,681 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LVkNunXMAU.md) - [plain]
 | 99 | [Amigos \(feat\. Cítrico\)](https://open.spotify.com/track/7zch2Pebu5SNBpglgHkjze) | [Dharma y Flora](https://open.spotify.com/artist/5jjs8LaABvB8WZpahQ0CwO), [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9) | [Conversaciones con tu Inteligencia Artificial](https://open.spotify.com/album/75TPQ7YXEBSHV5Xk4FvGWX) | 3:58 |
 | 100 | [Remolino](https://open.spotify.com/track/2hfo5s1hqllxzd1yUURhjR) | [Lalo Larrosa](https://open.spotify.com/artist/5RtjnEV9DhnyUsEOYv6Whw), [Sofía Campos](https://open.spotify.com/artist/2CDQX14Dm9L7YAyJKfLOe5) | [Remolino](https://open.spotify.com/album/0vJz6AFA0dM0Y0Fy6am5bp) | 3:39 |
 
-Snapshot ID: `MCwwOGQzMjk4NTcyYjJhOTU5MDY5ZTI2M2ViNGU1YTQyOGE1ZjllOGQx`
+Snapshot ID: `MCxhY2VhMmE5MGU1MjFmMDZhZTdhMjczMjA2MzI1ZjRiYWY0Y2M3MWZm`

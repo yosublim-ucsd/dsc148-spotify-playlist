@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2jEhW8ABFUBCiDxJs9q322">Emy Perez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-56 songs - 2 hr 54 min
+58 songs - 3 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,9 @@
 | [Everything I Need](https://open.spotify.com/track/1g9eAXqn01rtonJSVeSmPI) | [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [Get Ready To Dance](https://open.spotify.com/album/72L6q1LIFxsOWQK6fKzYI5) | 2:47 | 2023-06-07 |  |
 | [Firestarter](https://open.spotify.com/track/0QFq6Cgos9qVMGcPgC9fcs) | [Lennert Wolfs](https://open.spotify.com/artist/0T4Qr97ftW9NtSvoyqBvAt), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Firestarter](https://open.spotify.com/album/1qisOburOSHmodwNMGltzp) | 2:36 | 2022-06-04 |  |
 | [Get Loud](https://open.spotify.com/track/4Qc8QOOGFtxtnfIvG2QwXa) | [Mike Hawkins](https://open.spotify.com/artist/0eW2N88UpBG0giW7LJOaY2), [Kazu](https://open.spotify.com/artist/2OnRP9Tjxupbg23o1NekP0), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Family Matters, Vol\. 1](https://open.spotify.com/album/6D7ltbx4sEldooTWzlCGXX) | 2:54 | 2022-06-04 |  |
+| [Get Ready To Dance](https://open.spotify.com/track/0rcNmoaGUvToo8Br2itnSH) | [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [Get Ready To Dance](https://open.spotify.com/album/72L6q1LIFxsOWQK6fKzYI5) | 3:19 | 2023-07-20 |  |
 | [Ghetto Gossip](https://open.spotify.com/track/4MxzbBZw5fCFketoXuOTBM) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [The Return of House Music](https://open.spotify.com/album/4lsszip8gEvULzZTTThGnS) | 3:32 | 2022-06-04 |  |
+| [Glide](https://open.spotify.com/track/1aM6hLSZycwIfqXF8UQb1Y) | [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [Get Ready To Dance](https://open.spotify.com/album/72L6q1LIFxsOWQK6fKzYI5) | 2:44 | 2023-07-20 |  |
 | [Gold](https://open.spotify.com/track/4LpcOXk1mmEUqGoVORZ2lk) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Gold](https://open.spotify.com/album/7JXXX1QR2GLSONcFHSVp9v) | 2:49 | 2022-06-04 |  |
 | [GQOM](https://open.spotify.com/track/1XnurriC13rl5bdrjXhM59) | [Bang La Decks](https://open.spotify.com/artist/52gTlzX6XwOavvrAz8TxEz), [Wiwek](https://open.spotify.com/artist/4b2v3PBjJJCF2BX14lIAsT) | [GQOM](https://open.spotify.com/album/3EKcdo0Io0bA9ZqTeIA7Zy) | 3:14 | 2022-06-04 |  |
 | [Gypsy](https://open.spotify.com/track/1gtoJYq7yhISk72RRpK82q) | [LOthief](https://open.spotify.com/artist/3thMwq9J3a0UeLnPGhA4Qn), [Beowülf](https://open.spotify.com/artist/4H1rPQHJFk09XbKGYszUe2), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Gypsy](https://open.spotify.com/album/6ZIWLpoGHJWgAYjVPX4rAT) | 3:18 | 2022-06-04 | 2023-02-01 |

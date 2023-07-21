@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Lukas Nelson and Promise of the Real
 
-[Spotify](https://open.spotify.com/user/spotify) - 613,005 likes - 149 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 613,086 likes - 149 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 59 | [Rebel Child](https://open.spotify.com/track/6dXaVKAmAwZOkjZMAvXiqy) | [Kyle McKearney](https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz) | [A Traveler's Lament](https://open.spotify.com/album/5Y9jJvKOoXP2AtjrePET8o) | 3:49 |
 | 60 | [Hands On The Wheel \(Feat\. Particle Kid\) \(Recorded at Luck Reunion\) \- Spotify Singles](https://open.spotify.com/track/1c0PPeV09JNqhLsM4mC7Mx) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Particle Kid](https://open.spotify.com/artist/5dwBB4lz6Gmuo8v7cgaFli) | [Spotify Singles](https://open.spotify.com/album/1WTJCdZuGWrQcLJdv2jeVu) | 4:17 |
 | 61 | [Change Of Heart \[Feat\. Sierra Ferrell\]](https://open.spotify.com/track/3RMBqywLJEMrNIcFeasnme) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Change Of Heart \[Feat\. Sierra Ferrell\]](https://open.spotify.com/album/230BtBKWaVO3EkDhfyk3MB) | 3:43 |
-| 62 | [Still Here](https://open.spotify.com/track/4sFf1zh6NkOG3YyfE8LcBD) | [Rissi Palmer](https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ), [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs) | [Still Here](https://open.spotify.com/album/45f44m26ubro0tEMbeLV6T) | 3:42 |
+| 62 | [Still Here](https://open.spotify.com/track/4WdIV3pE18PT2q7CzIB58l) | [Rissi Palmer](https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ), [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs) | [Still Here](https://open.spotify.com/album/2pqkDXu8l47coBQGzSnkhg) | 3:41 |
 | 63 | [The Palace](https://open.spotify.com/track/1Knh1qiwsq5Rt0EUJC36MM) | [The Watson Twins](https://open.spotify.com/artist/0XJaZaoMBv3i7FoAr7Slg4) | [The Palace](https://open.spotify.com/album/4IFc8biACm7zTy9beSBB1z) | 3:11 |
 | 64 | [Blank Page](https://open.spotify.com/track/4JsWbDG96EO5ddZLERXoj5) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Blank Page](https://open.spotify.com/album/4gYrYFOyGDWQWw7payBfjX) | 5:35 |
 | 65 | [For Your Soul](https://open.spotify.com/track/0nCS9vXUbuD13169TCPCv2) | [Josh Ritter](https://open.spotify.com/artist/6igfLpd8s6DBBAuwebRUuo) | [Sawgrass / For Your Soul](https://open.spotify.com/album/7l2Z5C2MAkfKlU9xs3uNph) | 3:05 |
@@ -158,4 +158,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 148 | [Broke Again](https://open.spotify.com/track/7etPAMAqtcun5pn5uW3zbC) | [Joshua Hedley](https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh) | [Neon Blue](https://open.spotify.com/album/4CHT5gYJygDJ1IzF1hPslk) | 2:31 |
 | 149 | [Out Loud](https://open.spotify.com/track/6xF4aRS6U3r7ZWIXUEkPMG) | [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA) | [Out Loud](https://open.spotify.com/album/0CDlc31GOpMUKyEU9pJX5X) | 4:20 |
 
-Snapshot ID: `MCwwN2Y3NTA2YThjN2E3ZmJlNWFkNmVjNTNjMTFmNjdkMjBkODE1MDAz`
+Snapshot ID: `MCwxNWIyYmNhOTRjNTE1ZWZkM2UzYmI0ZmU1MzcxOTcxYmQ1MjgwYzI4`

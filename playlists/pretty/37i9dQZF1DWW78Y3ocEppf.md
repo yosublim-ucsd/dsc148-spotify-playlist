@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 
 > Let the songs speak\. Cover: Lehla Samia
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,125 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,140 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW78Y3ocEppf.md) - [plain]
 | 99 | [DOWN BAD](https://open.spotify.com/track/48pi6NxVvt4npqDnLBi0iK) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SATIN](https://open.spotify.com/album/14DbuWegTlHKKUW1WfUdny) | 2:21 |
 | 100 | [Smoke, Drink, Break Up \(feat\. Wale\)](https://open.spotify.com/track/3N70oAgwt9EKBPSvXDcwJ3) | [Nelccia](https://open.spotify.com/artist/0j6UADwVrUZ6SDdpl2uyfk), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Smoke, Drink, Break Up \(feat\. Wale\)](https://open.spotify.com/album/4w1pNr7PpV3zq6VgaqPHcx) | 2:11 |
 
-Snapshot ID: `MCw0Zjc1YTRjMGEwZGZiNjNmZmNmNmMyNWEzYzRjNDk2ZTZjOTZjNDY4`
+Snapshot ID: `MCxlZWU0Y2IyNzA5MTlmMjM1MTlkZjk2YmZjMzQxMmJkOGZkMGUzY2I4`

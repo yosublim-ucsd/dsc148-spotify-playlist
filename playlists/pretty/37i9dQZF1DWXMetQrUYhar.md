@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMetQrUYhar.md) - [plain]
 
 > Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles\. Cover: Ezra Koenig
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,775 likes - 125 songs - 7 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,793 likes - 125 songs - 7 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMetQrUYhar.md) - [plain]
 | 124 | [sex money feelings die \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/0MRGc7t0cM9mLlQlfM7LFI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Spotify Singles](https://open.spotify.com/album/7tkiGumdgkSm8gpsBmGDbe) | 2:39 |
 | 125 | [Medicine \- Recorded at RAK Studios, London](https://open.spotify.com/track/1A3NiaB0GaoMEknklRTuX9) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Spotify Singles](https://open.spotify.com/album/0VPhyqqDEary03vLt02DtZ) | 2:51 |
 
-Snapshot ID: `MCw4MWQ4ZmIzMjEwZWIyZWM0MzQ4MmZkYzY2NWNiMmZhYzJlMThmOWJj`
+Snapshot ID: `MCxjNmM0Y2FjMTA3NTg4MDFmODc0YTU4ZWZiZTdjYjBhNGUwZjNhMDVl`

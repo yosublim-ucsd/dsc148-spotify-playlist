@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 
 > La scène musicale montréalaise au premier plan\. Photo: MUNYA
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,958 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,976 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,12 +12,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 2 | [Looping](https://open.spotify.com/track/6p3qUiFmgLx3nVFJn7zhKn) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [Looping](https://open.spotify.com/album/7v1fF2heE7azqtCgG9viSk) | 3:13 |
 | 3 | [Aire de plastique](https://open.spotify.com/track/1FP93DO41UqI4THy99qo2L) | [Bon Enfant](https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb) | [Aire de plastique](https://open.spotify.com/album/054vgEJE8ErWurbHkyeCEw) | 4:07 |
 | 4 | [Sossaup](https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [KAYTRAMINÉ](https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW) | 2:36 |
-| 5 | [Pinstripe](https://open.spotify.com/track/7xgYhFywtEe1cGz7g92oLS) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [Pinstripe](https://open.spotify.com/album/2n6vul9nQeViq0dCmTyCE2) | 3:22 |
-| 6 | [M'enfer](https://open.spotify.com/track/5agKRH3QG3v68LbPZPNsqz) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [Bienvenue Au Pays](https://open.spotify.com/album/61H2tnO40ZtlVMvhVXdHRZ) | 3:10 |
-| 7 | [L'énorme chien très gentil](https://open.spotify.com/track/6svpIJIzxKMSpb7oieyN6p) | [Velours Velours](https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg) | [L'énorme chien très gentil](https://open.spotify.com/album/0H7KQjMqQ9IBJg6Wdupr3C) | 2:59 |
-| 8 | [Spring Bug](https://open.spotify.com/track/1m9B9sIeBibHosu4h5uae6) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Spring Bug](https://open.spotify.com/album/3KqVVm7Gwy3lbz12qFTf0L) | 3:27 |
-| 9 | [Un jour à la fois](https://open.spotify.com/track/4qqmNS35Y4cPKxBHxT2KTj) | [Cédrik St\-Onge](https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6) | [Un jour à la fois](https://open.spotify.com/album/4xl9cGtKZlJVan35sFpRKy) | 4:17 |
-| 10 | [Avant Elle](https://open.spotify.com/track/5ECN3yzsBiExzh5VLabINw) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Avant Elle](https://open.spotify.com/album/37HLuNvMsD3ibgohJHropW) | 3:20 |
+| 5 | [Avant Elle](https://open.spotify.com/track/5ECN3yzsBiExzh5VLabINw) | [Aliocha Schneider](https://open.spotify.com/artist/186IEnMYqWBPOAFn78wTPB) | [Avant Elle](https://open.spotify.com/album/37HLuNvMsD3ibgohJHropW) | 3:20 |
+| 6 | [Pinstripe](https://open.spotify.com/track/7xgYhFywtEe1cGz7g92oLS) | [pijama land](https://open.spotify.com/artist/4R5DOIzMI1Tv1Tqtmuh5NY) | [Pinstripe](https://open.spotify.com/album/2n6vul9nQeViq0dCmTyCE2) | 3:22 |
+| 7 | [M'enfer](https://open.spotify.com/track/5agKRH3QG3v68LbPZPNsqz) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [Bienvenue Au Pays](https://open.spotify.com/album/61H2tnO40ZtlVMvhVXdHRZ) | 3:10 |
+| 8 | [L'énorme chien très gentil](https://open.spotify.com/track/6svpIJIzxKMSpb7oieyN6p) | [Velours Velours](https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg) | [L'énorme chien très gentil](https://open.spotify.com/album/0H7KQjMqQ9IBJg6Wdupr3C) | 2:59 |
+| 9 | [Spring Bug](https://open.spotify.com/track/1m9B9sIeBibHosu4h5uae6) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Spring Bug](https://open.spotify.com/album/3KqVVm7Gwy3lbz12qFTf0L) | 3:27 |
+| 10 | [Un jour à la fois](https://open.spotify.com/track/4qqmNS35Y4cPKxBHxT2KTj) | [Cédrik St\-Onge](https://open.spotify.com/artist/2g0Adwuc91HneRGB8jbEq6) | [Un jour à la fois](https://open.spotify.com/album/4xl9cGtKZlJVan35sFpRKy) | 4:17 |
 | 11 | [blood pareil](https://open.spotify.com/track/3hoN17LR9d4dGNChOggCWU) | [comment debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [blood pareil](https://open.spotify.com/album/0dqVqqzi4fmWSheOnGv7js) | 4:24 |
 | 12 | [Intense City](https://open.spotify.com/track/1aYelCq6B5NHQI70OkTghr) | [Skiifall](https://open.spotify.com/artist/1Dy2JqZmbXPTvJdDOyytcP) | [WOIIYOIE VOL\. 2 \- INTENSE CITY](https://open.spotify.com/album/4B4j3UpvXRF26Vj579bDfJ) | 2:40 |
 | 13 | [Une autre vie](https://open.spotify.com/track/40HktbYQgbdvMlmlBCcu9M) | [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [Une autre vie](https://open.spotify.com/album/6vZcM8KNolN2HnF7BM6q7Z) | 3:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1F430ihQKsD.md) - [plain]
 | 99 | [Janet Planet](https://open.spotify.com/track/75nGdj0oz2EaRRVrlIKeiL) | [TOPS](https://open.spotify.com/artist/2SdK1QDmZIP2hk94rSaLl9) | [Empty Seats](https://open.spotify.com/album/5as79P2kyTlrSsHZoWJLDw) | 3:21 |
 | 100 | [Looking for Your Love](https://open.spotify.com/track/5XzjqjUNr7RnXofALrp8IN) | [FOXTROTT](https://open.spotify.com/artist/0fL7CM2Gv7L0r4Z2JsYtXu) | [The Motion / Looking for Your Love](https://open.spotify.com/album/0nJFWlwfiAbiXhyQizaJT9) | 4:34 |
 
-Snapshot ID: `MCxlYWQzMDY0NjljOGRjYWE1MzZiOGUyY2U0ZDAyZjI0OWJlZTM0MmFl`
+Snapshot ID: `MCw2NTI5MzYyNmNjN2E5YzcwNGY4OGNmNTVmYTkwYjQyOGJkZDRiMDNi`

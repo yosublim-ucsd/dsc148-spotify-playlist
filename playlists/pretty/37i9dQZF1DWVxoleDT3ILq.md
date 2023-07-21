@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 
 > Todo el sonido indie de Chile\. Foto: Marineros
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,110 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,115 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 | 99 | [Obsesión \- Remix](https://open.spotify.com/track/6KJxt62PFos3WanS2aaVfN) | [quediostesalve](https://open.spotify.com/artist/1CuvaTSsQNjeHU0abOUOZI), [Paco Miranda](https://open.spotify.com/artist/4ZzZixQllksRxAY79YoLOo), [Dani Ride](https://open.spotify.com/artist/3KKA5IFGqdkUw7i657IEL6) | [Obsesión \(Remix\)](https://open.spotify.com/album/3ll55HS0aY0jnK3UYrQRI9) | 3:30 |
 | 100 | [AMOR MINIMAL](https://open.spotify.com/track/3gydgoR0OGDNJNhkY0337b) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [AMOR MINIMAL](https://open.spotify.com/album/0OACOxBHoNzyA36x7au0bo) | 3:27 |
 
-Snapshot ID: `MCw5YzA3NmJmY2QyYmYwNDM3NjMxMDM0OTJjZjhjYzExNGQwNWVkMTg3`
+Snapshot ID: `MCxjY2VmNzNhZjg0M2Q5YjM1N2MxNmUwZDBkODg2M2FkMTgzMzYwMWE1`

@@ -47,6 +47,6 @@
 | [What A Wonderful World \- Single Version](https://open.spotify.com/track/2pp3RfqX5cb1BAnmNi4Nej) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [All Time Greatest Hits](https://open.spotify.com/album/16niuq7vcf4QvnnrJO7yFc) | 2:20 | 2015-07-23 |  |
 | [When Sunny Gets Blue](https://open.spotify.com/track/01HQIKjcODJCBRFoETqngE) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Today And Tomorrow](https://open.spotify.com/album/3wegWHg2NXUnWlOPwaqzUm) | 4:42 | 2015-07-23 |  |
 | [Where or When](https://open.spotify.com/track/2JR1WeETsXmFR1kRC2oXXq) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Standard Time Vol\. 3: The Resolution Of Romance](https://open.spotify.com/album/3ggRodyIM1r04IT4K3Ikho) | 2:48 | 2015-07-23 |  |
-| [Why Don't You Do Right \(Get Me Some Money Too\)](https://open.spotify.com/track/5bIcVAGdof8JGvFKtWlHnD) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [The Best Of Miss Peggy Lee](https://open.spotify.com/album/2tcpvSmBNYJEwVylN2YzK4) | 2:27 | 2015-07-23 |  |
+| [Why Don't You Do Right \(Get Me Some Money Too\) \- Remastered 1998](https://open.spotify.com/track/5bIcVAGdof8JGvFKtWlHnD) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [The Best Of Miss Peggy Lee](https://open.spotify.com/album/2tcpvSmBNYJEwVylN2YzK4) | 2:27 | 2015-07-23 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

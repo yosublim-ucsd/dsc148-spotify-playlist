@@ -2039,6 +2039,32 @@
     },
     {
       "album": {
+        "name": "Qualcosa da bere",
+        "url": "https://open.spotify.com/album/6LSWJbpX34FT3KbQS1CfI1"
+      },
+      "artists": [
+        {
+          "name": "CoCo",
+          "url": "https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM"
+        },
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "Geeno",
+          "url": "https://open.spotify.com/artist/2GyLz0gcl3zDPPql47YWEy"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190597,
+      "name": "Qualcosa da bere",
+      "url": "https://open.spotify.com/track/5exPVjfGC9CNztXOGp8pEI"
+    },
+    {
+      "album": {
         "name": "Eclissi",
         "url": "https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 
 > This is Megan Thee Stallion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,755 likes - 53 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,838 likes - 53 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 | 52 | [Freaky Girls \(feat\. SZA\)](https://open.spotify.com/track/4RAEVQeHanpXyK2lrEUkMk) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:46 |
 | 53 | [NASTY \(feat\. Ashanti & Megan Thee Stallion\)](https://open.spotify.com/track/3oHiR89Y8gn6xt3YGAAzFj) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [BLAME IT ON BABY](https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e) | 3:35 |
 
-Snapshot ID: `MjgxNjI4OTcsMDAwMDAwMDBiZDNjNmNmNzY4ZmY2MWFiMWFlOWY2Nzc0MmE2ZWY3MQ==`
+Snapshot ID: `MjgxNjQzMDgsMDAwMDAwMDBkZWUyMzNlNmNmNjYxYWIwNTM1ODQxNzBlNjFkZjg5Mg==`

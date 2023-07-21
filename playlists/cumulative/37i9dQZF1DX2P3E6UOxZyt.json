@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "2023 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u53f0\u7063\u51fa\u767c\uff0c \u5c55\u671b\u4e16\u754c\uff0c\u4ed6\u5011\u5c31\u662f\u672a\u4f86\u7684\u5de8\u661f\u661f\uff01Cover: L\u00dcCY",
+  "description": "2023 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01\u53f0\u7063\u51fa\u767c\uff0c \u5c55\u671b\u4e16\u754c\uff0c\u4ed6\u5011\u5c31\u662f\u672a\u4f86\u7684\u5de8\u661f\u661f\uff01Cover: LINION",
   "name": "RADAR \u65b0\u52e2\u529b",
   "tracks": [
     {
@@ -721,6 +721,28 @@
     },
     {
       "album": {
+        "name": "HIDEOUT",
+        "url": "https://open.spotify.com/album/7HEDhuRGJSCRS6oJ50i72L"
+      },
+      "artists": [
+        {
+          "name": "LINION",
+          "url": "https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT"
+        },
+        {
+          "name": "Pei-Yu Hung",
+          "url": "https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223293,
+      "name": "Friends Or ?",
+      "url": "https://open.spotify.com/track/6cd94309FnLgWru6RfSYR4"
+    },
+    {
+      "album": {
         "name": "\u85e5\u738b\u56de\u4f86\u5230 \"Asia\" Is Back",
         "url": "https://open.spotify.com/album/2dBgxYs9N266RNnRFoxXJ5"
       },
@@ -801,6 +823,24 @@
     },
     {
       "album": {
+        "name": "Hate Myself",
+        "url": "https://open.spotify.com/album/6wps8G72MkvfLlY1iLThn3"
+      },
+      "artists": [
+        {
+          "name": "Vicky Chen",
+          "url": "https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203424,
+      "name": "Hate Myself",
+      "url": "https://open.spotify.com/track/49CaHLWJB8Ot1vB2vAUcca"
+    },
+    {
+      "album": {
         "name": "L\u00dcCY",
         "url": "https://open.spotify.com/album/5GLdc5aIjdvyO0U1U9sJKX"
       },
@@ -870,7 +910,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 246315,
       "name": "Hold Me Tight",
       "url": "https://open.spotify.com/track/18U6DzjWgoMMYg14kJxCMu"
@@ -1370,7 +1410,7 @@
       ],
       "date_added": "2022-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 212181,
       "name": "Maybe Maybe",
       "url": "https://open.spotify.com/track/55e4I1RfHjQT1XAf7glB2J"
@@ -1436,7 +1476,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 221177,
       "name": "music",
       "url": "https://open.spotify.com/track/1my6WsRdwWkB8rNRL9U0wi"
@@ -4440,7 +4480,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 223636,
       "name": "\u60f3\u4e86\u59b36\u6b21",
       "url": "https://open.spotify.com/track/0z81zrkn4dqmRLJpRePjYc"
@@ -4886,7 +4926,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 195483,
       "name": "\u64c1\u6709\u4f46\u4e0d\u5c6c\u65bc",
       "url": "https://open.spotify.com/track/5t9UX4x1aujbr6moOh88KM"
@@ -5096,6 +5136,28 @@
       "duration_ms": 229523,
       "name": "\u6709\u4e9b",
       "url": "https://open.spotify.com/track/3V2v19gDm4rmRkMwcgS4X2"
+    },
+    {
+      "album": {
+        "name": "\u6709\u500b\u5ff5\u982d",
+        "url": "https://open.spotify.com/album/2z7Im0ebTIL8yI5NiH3uP7"
+      },
+      "artists": [
+        {
+          "name": "\u80e1\u5bb6\u8aa0",
+          "url": "https://open.spotify.com/artist/200pQawht4r55tBNrWTVpx"
+        },
+        {
+          "name": "\u6211\u81ea\u5df1",
+          "url": "https://open.spotify.com/artist/2FTpYI0kEf5BptgCYdmwfz"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246132,
+      "name": "\u6709\u500b\u5ff5\u982d",
+      "url": "https://open.spotify.com/track/1EWoavCgg7e5DHyWHSHFLE"
     },
     {
       "album": {
@@ -5939,6 +6001,24 @@
     },
     {
       "album": {
+        "name": "Life Buoy",
+        "url": "https://open.spotify.com/album/1tzRVINQei2GdrfHz6GvzU"
+      },
+      "artists": [
+        {
+          "name": "\u7fc1\u9756\u582fyao",
+          "url": "https://open.spotify.com/artist/6i8TiylkUFKqXajJM69a7N"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164287,
+      "name": "\u7a4d\u6c34",
+      "url": "https://open.spotify.com/track/4c6nW4uXXQqgyS0jHfh3lv"
+    },
+    {
+      "album": {
         "name": "\u7b49\u5f85\u88ab\u7406\u89e3\u7684\u4eba",
         "url": "https://open.spotify.com/album/21kTRBroWNrpXyp2IiYkrF"
       },
@@ -6557,6 +6637,24 @@
     },
     {
       "album": {
+        "name": "\u8f38\u4e86\u600e\u6a23",
+        "url": "https://open.spotify.com/album/64wfH7ifhnBn8YM9yiPUrx"
+      },
+      "artists": [
+        {
+          "name": "\u738bADEN",
+          "url": "https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212233,
+      "name": "\u8f38\u4e86\u600e\u6a23",
+      "url": "https://open.spotify.com/track/5CdiPjubMoVfyG08Bczktk"
+    },
+    {
+      "album": {
         "name": "\u9019\u4e16\u754c\u600e\u9ebc\u662f\u7070\u8272",
         "url": "https://open.spotify.com/album/0O05IZhGfD3lUkCnhQVVuj"
       },
@@ -6568,10 +6666,28 @@
       ],
       "date_added": "2022-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 280681,
       "name": "\u9019\u4e16\u754c\u600e\u9ebc\u662f\u7070\u8272",
       "url": "https://open.spotify.com/track/7xQAoVhPR41WnLv0mkMckf"
+    },
+    {
+      "album": {
+        "name": "Shangri-La Is Calling",
+        "url": "https://open.spotify.com/album/2nsfd4IK5uWFrr598bf9iK"
+      },
+      "artists": [
+        {
+          "name": "The Chairs",
+          "url": "https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165168,
+      "name": "\u9032\u5165\u4e0b\u4e00\u5c64\u65b0\u7684\u5922\u4e4b\u524d",
+      "url": "https://open.spotify.com/track/2LmNW7kMeYp2wUqMpIAge6"
     },
     {
       "album": {

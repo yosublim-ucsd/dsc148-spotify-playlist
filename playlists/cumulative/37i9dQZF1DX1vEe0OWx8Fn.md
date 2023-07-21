@@ -4,7 +4,7 @@
 
 > it was never just a phase
 
-172 songs - 8 hr 45 min
+173 songs - 8 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Another Kill For The Highlight Reel](https://open.spotify.com/track/42Zrm6dR3rios7W7I1NizE) | [Save Face](https://open.spotify.com/artist/5DpkPhxrNNiGAJPY5seREe) | [Another Kill For The Highlight Reel](https://open.spotify.com/album/39YX5r0mg91HGw2scZLm3x) | 3:07 | 2021-11-19 | 2022-07-28 |
 | [Backtrack](https://open.spotify.com/track/7qhLm7FPhf7OjuSQoezTgC) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Backtrack](https://open.spotify.com/album/1HhLhDSaSqWGTb9DEkCt68) | 2:38 | 2022-12-08 | 2023-05-20 |
 | [Battery Acid](https://open.spotify.com/track/0zpHZpndsCilIDv73NbA1r) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [Battery Acid](https://open.spotify.com/album/7vxAadu513Cj4xqDEsApDo) | 5:19 | 2022-08-16 | 2022-10-15 |
-| [Battery Acid](https://open.spotify.com/track/4PmaAXwZN8DrgnnJgyiiY3) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [Battery Acid](https://open.spotify.com/album/0zNko192Ppxps4hr8bcyXy) | 5:19 | 2022-08-16 |  |
+| [Battery Acid](https://open.spotify.com/track/1Z61fnfYnLiE9hvbKgqbxp) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [Battery Acid](https://open.spotify.com/album/3P9qDVbj3woeznS2EgkU2x) | 5:19 | 2022-08-16 |  |
+| [Battery Acid](https://open.spotify.com/track/4PmaAXwZN8DrgnnJgyiiY3) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [Battery Acid](https://open.spotify.com/album/0zNko192Ppxps4hr8bcyXy) | 5:19 | 2022-08-16 | 2023-07-21 |
 | [Be My End](https://open.spotify.com/track/7eLYhAB7GzyoO1kgZdNkOa) | [Creeper](https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj) | [Sex, Death & The Infinite Void](https://open.spotify.com/album/5SroqSFEbS5mfI2fYSS1v1) | 2:38 | 2022-03-04 | 2022-06-29 |
 | [BETTER](https://open.spotify.com/track/2QgZpszbkDWUYtf0Khmrge) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [IF I DIED WOULD ANYONE CARE](https://open.spotify.com/album/0Ze8BkvkvoZ9VmiIM7s2hQ) | 2:57 | 2022-02-04 | 2022-07-29 |
 | [Blood](https://open.spotify.com/track/6JLwxhDDut2jo7ZdvWJQe8) | [Aziya](https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW) | [We Speak of Tides](https://open.spotify.com/album/2PQlgNup9w07uItcHGcdPi) | 3:05 | 2022-03-04 | 2022-04-25 |

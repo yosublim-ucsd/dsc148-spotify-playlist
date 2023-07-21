@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPRADzDnbMq.md) - [plain]
 
 > Chill, beachy tunes to soundtrack your summer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,488 likes - 85 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,529 likes - 85 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPRADzDnbMq.md) - [plain]
 | 4 | [Good Day](https://open.spotify.com/track/76XWHO6yy7a097yBT7DXVm) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Sunday Drive](https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd) | 3:25 |
 | 5 | [Glad To Be Here \(feat\. Brent Cobb\)](https://open.spotify.com/track/6bXgRLGmrRCnue9R6MI1gF) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [The Dream: Living The Dream \(Deluxe\)](https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt) | 4:33 |
 | 6 | [Wave on Wave](https://open.spotify.com/track/7rS87NoPWbAkVURdVFbGH9) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [Wave On Wave](https://open.spotify.com/album/0HjdNkgyrUKC2ynRUNna7V) | 4:04 |
-| 7 | [Whatever Floats Your Boat \(feat\. The Boat Boys\)](https://open.spotify.com/track/501FhMCfSth5wUP8sLzbgt) | [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ), [The Boat Boys](https://open.spotify.com/artist/4yKHzSOKNfuhJr1QjgrU6v) | [Whatever Floats Your Boat \(feat\. The Boat Boys\)](https://open.spotify.com/album/0eRVSwCRmoc1ZYXm9FPFd4) | 2:35 |
+| 7 | [Whatever Floats Your Boat \(feat\. The Boat Boys\)](https://open.spotify.com/track/501FhMCfSth5wUP8sLzbgt) | [Brian Kelley](https://open.spotify.com/artist/794JQDjUHmLaN7dtsv4lL9), [The Boat Boys](https://open.spotify.com/artist/4yKHzSOKNfuhJr1QjgrU6v) | [Whatever Floats Your Boat \(feat\. The Boat Boys\)](https://open.spotify.com/album/0eRVSwCRmoc1ZYXm9FPFd4) | 2:35 |
 | 8 | [Golden Hour](https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:18 |
 | 9 | [Starting Over](https://open.spotify.com/track/3K07bGe8iljQ3mOKArHLDo) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 4:00 |
 | 10 | [Sailing Around the World](https://open.spotify.com/track/2gyP7VG0hXZZcvqeB7iCjX) | [Brandon Lay](https://open.spotify.com/artist/0H7XMkYygCyZGg8o1uqoZv) | [Sailing Around the World](https://open.spotify.com/album/2nyrsMC6MCpRTVp4xdoLEP) | 2:46 |
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPRADzDnbMq.md) - [plain]
 | 24 | [Tequila Does](https://open.spotify.com/track/2fmHMSaIadDzLPT4Im3Mze) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 4:01 |
 | 25 | [Wagon Wheel](https://open.spotify.com/track/2XgGdD5d2MW4RNx8KnIjVh) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [O.C.M.S.](https://open.spotify.com/album/71oM4BPgOOgdwTYJeUPush) | 3:52 |
 | 26 | [Mimosas](https://open.spotify.com/track/3HyDZ8rB0Wh6yF6q7PBa1r) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [27861](https://open.spotify.com/album/088ajVZOaklrQJP9k2IO2Q) | 3:03 |
-| 27 | [See You Next Summer](https://open.spotify.com/track/7Ez0QMtgIQ60BOHGHh3yPc) | [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [See You Next Summer](https://open.spotify.com/album/5HiDygOM1Jx8Crkko9AV1y) | 2:37 |
+| 27 | [See You Next Summer](https://open.spotify.com/track/7Ez0QMtgIQ60BOHGHh3yPc) | [Brian Kelley](https://open.spotify.com/artist/794JQDjUHmLaN7dtsv4lL9) | [See You Next Summer](https://open.spotify.com/album/5HiDygOM1Jx8Crkko9AV1y) | 2:37 |
 | 28 | [Bama Breeze](https://open.spotify.com/track/2Ql3AOQedeK5gFq8tM1tIY) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Take the Weather with You](https://open.spotify.com/album/5ysuQGWbJTDZZHULZIs1F0) | 3:11 |
 | 29 | [Strawberry Wine](https://open.spotify.com/track/5Pgwi0iizu96RHxJ4xL3SH) | [Deana Carter](https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt) | [Did I Shave My Legs For This?](https://open.spotify.com/album/3rVrwVrTgiFmCBZCmYBryn) | 4:51 |
 | 30 | [Gulf Coast Time](https://open.spotify.com/track/6Xoj0QuDzH6tpvVrtpxWy1) | [Roger Creager](https://open.spotify.com/artist/1DyywGnuzXGEzlZMXBcc0j) | [Gulf Coast Time](https://open.spotify.com/album/3UuH7RshuQMI3kFAQmhYr6) | 3:56 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUPRADzDnbMq.md) - [plain]
 | 84 | [Waves](https://open.spotify.com/track/1q3bxSdQF660hnNnNVtYwP) | [Phil Vassar](https://open.spotify.com/artist/1XhhO2dTs2fKyhILj0aam6) | [American Soul Summer \(Deluxe Edition\)](https://open.spotify.com/album/06PwRq6kGK8gE8mbu7yb6O) | 3:26 |
 | 85 | [Gettin' Down in a Pirate Town](https://open.spotify.com/track/0HbInFeaBStCiH4BJc6o1q) | [Jesse Rice](https://open.spotify.com/artist/053e8lWzA8BFhruid11TKQ) | [The Pirate Sessions](https://open.spotify.com/album/3AD64aLvBqR67GUefFM9Wj) | 4:16 |
 
-Snapshot ID: `MCxlNmFhYzQxYTBjYmFlODYxY2M2ZTBhMGQzMGY5NzM5ZjdmYmYxMGZk`
+Snapshot ID: `MCxhM2IxZGUwMDc2NWUwMTE3OWIwMTQ1OTMwNDlhODVhNDgxZGUwNWE3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 
 > Experience the best live performances\. Check out live soul albums <a href="spotify:genre:0JQ5IMCbQBLzm5vQYyTJnY">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,459 likes - 100 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,471 likes - 100 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IKP8YpqoNQ.md) - [plain]
 | 99 | [Let's Stay Together \- Live](https://open.spotify.com/track/474iAHLvDbXAQnEI82i4RW) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Tokyo..\. Live](https://open.spotify.com/album/5ON1SpKi7LFb8axFjAmpEJ) | 3:52 |
 | 100 | [Nobody Knows You When You're Down And Out \- Live In New York](https://open.spotify.com/track/3fNTedfPQEwQhBNxGHtR3F) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Gold](https://open.spotify.com/album/354Y9yarjWdghXxJVcXZho) | 2:38 |
 
-Snapshot ID: `MCw1ZGM2YzI5YmY4ZDAwMGUyOTIwZDBlNzdiZWMzYjJhMWViMGExMTMx`
+Snapshot ID: `MCw5MWEzZTEyNDRlMjBkNmNiNzQ3MmRlZGRjZDM5YTA3ZWUxZDEwMmRh`

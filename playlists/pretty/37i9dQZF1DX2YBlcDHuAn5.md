@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 
 > De mooiste muziek: Americana \| Country
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,557 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,566 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YBlcDHuAn5.md) - [plain]
 | 49 | [Bittersweet](https://open.spotify.com/track/4gitlSJ8ksxAMhmHxNKjNl) | [Rich McFeather](https://open.spotify.com/artist/1DGm9DpMlUDYqSYAbvfpqm) | [Bittersweet](https://open.spotify.com/album/3l4OdclVUWDKoS3G3qT1Rb) | 3:35 |
 | 50 | [Too Much Of A Woman](https://open.spotify.com/track/1kZno76kl0lVWni9SlncvW) | [Mell & Vintage Future](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Too Much Of A Woman](https://open.spotify.com/album/2bT1OG1ABW8NzsFfoyhu0d) | 3:13 |
 
-Snapshot ID: `MCw2ZTcwNGVjMDM2M2Y0ODg1ZjhjOWQwNzNjNGE0ODdkN2RlZjM0NTc4`
+Snapshot ID: `MCwzZWFkNDY2NTk3YmI3ODUyOWI0NzE0MTcxZGQxNzgyODJjZTFlODA0`

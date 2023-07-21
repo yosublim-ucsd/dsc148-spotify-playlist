@@ -2287,6 +2287,32 @@
     },
     {
       "album": {
+        "name": "Barbie World (with Aqua) [From Barbie The Album]",
+        "url": "https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        },
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109750,
+      "name": "Barbie World (with Aqua) [From Barbie The Album]",
+      "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
+    },
+    {
+      "album": {
         "name": "barranco",
         "url": "https://open.spotify.com/album/50pxxbdV74q105EwQhmkCz"
       },
@@ -4798,7 +4824,7 @@
       ],
       "date_added": "2023-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-11",
+      "date_removed": null,
       "duration_ms": 176579,
       "name": "Dance The Night (From Barbie The Album)",
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
@@ -13329,7 +13355,7 @@
     },
     {
       "album": {
-        "name": "LOOK DON\u2019T TOUCH (feat. cade clair)",
+        "name": "LOOK DON\u2019T TOUCH (w/ cade clair)",
         "url": "https://open.spotify.com/album/5MkgYSsxCsItpmkgkhDl0P"
       },
       "artists": [
@@ -13346,7 +13372,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 138240,
-      "name": "LOOK DON\u2019T TOUCH (feat. cade clair)",
+      "name": "LOOK DON\u2019T TOUCH (w/ cade clair)",
       "url": "https://open.spotify.com/track/7E9kejvFw8NDfuu4y3hqkp"
     },
     {
@@ -14726,7 +14752,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 239986,
       "name": "Me Gustas Tu",
       "url": "https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6"
@@ -18054,7 +18080,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 171810,
       "name": "Paraadna",
       "url": "https://open.spotify.com/track/5VEZQNZWsZaKb1Y2jB8SWJ"

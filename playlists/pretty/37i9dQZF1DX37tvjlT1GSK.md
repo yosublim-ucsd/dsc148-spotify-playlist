@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. El Fantasma en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 733,882 likes - 125 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 733,977 likes - 125 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37tvjlT1GSK.md) - [plain]
 | 124 | [Era El Único](https://open.spotify.com/track/6VeIZ7uUre0qageyX1dfBX) | [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [Era El Único](https://open.spotify.com/album/55HQrrWP6gAiURliVBYA6I) | 2:10 |
 | 125 | [Somos O No Somos](https://open.spotify.com/track/5NQbEl9mL00xD2uN5T0qsx) | [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn), [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ) | [Somos O No Somos](https://open.spotify.com/album/5qZ5iEC25heBt5NQpDHHQM) | 3:29 |
 
-Snapshot ID: `MCxlNDZlN2IzZDY0N2EyNjdmMGZjY2VkODliZWY0MWIwMzA3ZTgxNjBi`
+Snapshot ID: `MCwyY2YzMWFiMWU4MzAzMWY3ODhlOTg3MTVjNWRlNzg5M2QwNGRhNTIz`

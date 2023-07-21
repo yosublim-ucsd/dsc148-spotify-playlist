@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,115 likes - 80 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,170 likes - 80 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dzHXrANAir.md) - [plain]
 | 79 | [In Cold Light \(Alexandra Hamilton\-Ayres Rework\)](https://open.spotify.com/track/2ehINrB8wyWA58H8L8S6y4) | [Vanbur](https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj), [Alexandra Hamilton\-Ayres](https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp) | [Human Reworked](https://open.spotify.com/album/5teIPUqUyhOYb3Nlu64YYu) | 4:37 |
 | 80 | [La descente](https://open.spotify.com/track/5fdSOtVU9hePoYbQhcMcaB) | [MAGUIRE](https://open.spotify.com/artist/4AOwSeTJx05mkR3satgYG8) | [Variations](https://open.spotify.com/album/23KZFnhhIRJclDGwXNW92i) | 3:45 |
 
-Snapshot ID: `MCxhOTNhZWU2MjVmMzM3NjI2ODJjYmI3NWNiNGEyZmRiODg1MjBjNGE0`
+Snapshot ID: `MCwxYzg4ZWY4MTQ3OGE1MDYwMWVjZGRjZDJkY2FiZmMzNGJhYzU1YmVh`

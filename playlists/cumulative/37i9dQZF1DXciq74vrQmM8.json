@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. WARGASM (UK)",
+  "description": "welcome to our \ud835\udd9a\ud835\udd93\ud835\udd8e\ud835\udd9b\ud835\udd8a\ud835\udd97\ud835\udd98\ud835\udd8a ft. poppy",
   "name": "misfits 2.0",
   "tracks": [
     {
@@ -607,6 +607,24 @@
     },
     {
       "album": {
+        "name": "hawthorne81 / atoms",
+        "url": "https://open.spotify.com/album/38bkGByEc2erGS7XcApFgV"
+      },
+      "artists": [
+        {
+          "name": "Lauren Auder",
+          "url": "https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168324,
+      "name": "atoms",
+      "url": "https://open.spotify.com/track/139vV5MsZSsOgzz0CU6Mgk"
+    },
+    {
+      "album": {
         "name": "ATTENTION!",
         "url": "https://open.spotify.com/album/7zM6DDsuOyzy85DMg6Ktfh"
       },
@@ -922,6 +940,24 @@
       "duration_ms": 182106,
       "name": "BERLIN",
       "url": "https://open.spotify.com/track/1BaEm7lJxDtoRZ1QmPcBZr"
+    },
+    {
+      "album": {
+        "name": "BIRTH OF VENUS",
+        "url": "https://open.spotify.com/album/1VBKFrSZ7JSMAfBNz2nAcX"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "BIRTH OF VENUS",
+      "url": "https://open.spotify.com/track/1Q98DdOmQlFrIaldR4MOVl"
     },
     {
       "album": {
@@ -1772,6 +1808,24 @@
       "duration_ms": 114351,
       "name": "Church Outfit",
       "url": "https://open.spotify.com/track/0R13zftuNe1WECTSBeT6ri"
+    },
+    {
+      "album": {
+        "name": "CIGARETTES",
+        "url": "https://open.spotify.com/album/6iBfLlPGfEmgjF8HG9OkJd"
+      },
+      "artists": [
+        {
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124489,
+      "name": "CIGARETTES",
+      "url": "https://open.spotify.com/track/1xJBz9XFCMZJiy6Mc4XrgC"
     },
     {
       "album": {
@@ -2710,7 +2764,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 170445,
       "name": "Don't Date The Devil",
       "url": "https://open.spotify.com/track/32XvkBX22ALeqMutaCZtQw"
@@ -3636,7 +3690,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 154697,
       "name": "Freak Mode (SEBii & Slush Puppy Remix)",
       "url": "https://open.spotify.com/track/5bUNlgPdu5rbuCxe3momIc"
@@ -5052,7 +5106,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 165354,
       "name": "I Want Attention",
       "url": "https://open.spotify.com/track/4ZVXl0izo6Gz3cGf1uXGQF"
@@ -5776,6 +5830,24 @@
       "duration_ms": 143241,
       "name": "Knife Party (feat. Oli Sykes)",
       "url": "https://open.spotify.com/track/08DG2bPYn9GHQt5AITyRtD"
+    },
+    {
+      "album": {
+        "name": "Knockoff",
+        "url": "https://open.spotify.com/album/58BlShV5R0UwB7IRyZf96n"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184518,
+      "name": "Knockoff",
+      "url": "https://open.spotify.com/track/7Bc59U2nhCp608JlIEMEGl"
     },
     {
       "album": {
@@ -8620,7 +8692,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 83437,
       "name": "sassy bitch",
       "url": "https://open.spotify.com/track/1sPouNG3YxAXuK5yhLmmlj"

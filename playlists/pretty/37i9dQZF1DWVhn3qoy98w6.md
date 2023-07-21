@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: MENTIRA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,142 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,156 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,12 +19,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 9 | [LA S3NSEI](https://open.spotify.com/track/20gHRyY9KQtkMlkcY7IUW4) | [La Gocha](https://open.spotify.com/artist/3a5ySJMwsZvEiOJmLvQPAh), [Kike Falcon](https://open.spotify.com/artist/5vPhOvoDPXHPUEQ1C04HlN) | [LA S3NSEI](https://open.spotify.com/album/2JRrUMMkdA3YrCwXzSRewq) | 2:34 |
 | 10 | [MIRADA PISADA](https://open.spotify.com/track/3HBqBvIlLjKgFDHCuqtOJT) | [SEIRENA](https://open.spotify.com/artist/2GEDU6Hn1ciCoKsb6KobnB) | [MIRADA PISADA](https://open.spotify.com/album/5pFXjk2D7lg5JnsxM7SS3M) | 2:56 |
 | 11 | [gente cute](https://open.spotify.com/track/1Tv2ejPuqrsAv7sSFsV8cz) | [Cutter Cute](https://open.spotify.com/artist/72z72JMenShm382u8BgMLt) | [gente cute](https://open.spotify.com/album/7uIqVDgyzJdRcedURfh1yO) | 2:33 |
-| 12 | [Contento](https://open.spotify.com/track/2ck5ajcQXwcXWKQdyVrbFp) | [YUNG PRADO](https://open.spotify.com/artist/0U0zpa0tZ4iAV6ypdDUm4I) | [CLUB BOY](https://open.spotify.com/album/6ogvEzfgeLcSnhuE2jkk8b) | 3:56 |
+| 12 | [Contento](https://open.spotify.com/track/4n8K2HMwYZptkns1qearhT) | [YUNG PRADO](https://open.spotify.com/artist/0U0zpa0tZ4iAV6ypdDUm4I) | [CLUB BOY](https://open.spotify.com/album/5l2zFYxrUjY7t0knJlQN4N) | 3:56 |
 | 13 | [te contaría](https://open.spotify.com/track/14unpScppw4bi4wl9l6N5O) | [Carlo Frio](https://open.spotify.com/artist/2ZkSJkvuz5kzvPe4ff1jqc) | [te contaría](https://open.spotify.com/album/6LiZdQ7E6JQxr5yL7aqFiV) | 2:24 |
 | 14 | [¿Dudar?, quizás](https://open.spotify.com/track/3s98bp87vULSiflNILK3ti) | [Valancea](https://open.spotify.com/artist/0JGOGScJLAvwFoDjbjlD0h) | [Valancea](https://open.spotify.com/album/1DqYRmfuRZE6EkGZXNQmqs) | 3:15 |
 | 15 | [mi estrella se apaga](https://open.spotify.com/track/7F4LfvrrzSYetqYWN5e21T) | [Delilah](https://open.spotify.com/artist/6LHTZ3a8efP3ejEWf4T58N) | [Primer Círculo \(Limbo\)](https://open.spotify.com/album/6HYlLpW7CEM5tYga53Y5Ty) | 2:33 |
 | 16 | [p0pper](https://open.spotify.com/track/06BKn2S0alWLPcLHH0pkOe) | [Ruïnosa y las Strippers de Rahola](https://open.spotify.com/artist/6JcoLHQLRlm12My6cACmlT) | [p0pper](https://open.spotify.com/album/2WQgZmFIxitM7eGZ9HECWl) | 3:33 |
-| 17 | [Canción para Ti <3](https://open.spotify.com/track/5kWRobeadEIT7AmGg55rpF) | [Eterna Joventut](https://open.spotify.com/artist/34gsOKqivflpTmTRZ3SmGo) | [Canción para Ti <3](https://open.spotify.com/album/22JlpBD96eCM8D8Vuy5yGk) | 1:28 |
+| 17 | [Canción Para Ti <3](https://open.spotify.com/track/5kWRobeadEIT7AmGg55rpF) | [Eterna Joventut](https://open.spotify.com/artist/34gsOKqivflpTmTRZ3SmGo) | [Canción Para Ti <3](https://open.spotify.com/album/22JlpBD96eCM8D8Vuy5yGk) | 1:28 |
 | 18 | [Red Flags](https://open.spotify.com/track/7pMWVkILnDVwSlIxvcqFuj) | [Vanity Vercetti](https://open.spotify.com/artist/5bb5yrplAU2AJdhOCodw8w) | [Red Flags](https://open.spotify.com/album/75PVRRglCgu9PG7w1rlott) | 2:23 |
 | 19 | [No Sé Cómo Era Vivir Sin Ti](https://open.spotify.com/track/72wxzVPKDjFDr0OeTOovaj) | [Gloriosa Rotonda](https://open.spotify.com/artist/7pTiVLJMkhklyzE8yvPaaI) | [Fuera de Tiempo](https://open.spotify.com/album/7aaCaZkpqC7egmWGx8BBSG) | 3:10 |
 | 20 | [dicen la vida cambia ¡](https://open.spotify.com/track/3O2gPspgV89IIlO61t29Bs) | [Aren](https://open.spotify.com/artist/4RK7b5enfCZ7DmrZCChxoi), [Pau Roget](https://open.spotify.com/artist/4UeHkOvxioupNQ6PFa7uFb) | [dicen la vida cambia ¡](https://open.spotify.com/album/1L8rxVoPUdi5oLTcn6URkI) | 2:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [MUEREN LAS ESTRELLAS ☆](https://open.spotify.com/track/39GHO5eAortkl2St1TKnWi) | [Goldb](https://open.spotify.com/artist/6XoCMoXP0JgPXeSGdglEXt) | [MUEREN LAS ESTRELLAS ☆](https://open.spotify.com/album/5zPtmNQl4BBAGk4jcrWpJn) | 3:30 |
 | 50 | [PAY FOR IT](https://open.spotify.com/track/71PGzpNPZi05YnkeiyaXXw) | [BRAVA](https://open.spotify.com/artist/3O2c7Rx1wcqMVkq9pZn4WZ), [Dellachaouen](https://open.spotify.com/artist/42KvInQHbbKzmb8rsimvwv), [LaJoyeria](https://open.spotify.com/artist/0jhPpyUbC4zYPoNWJ0PQLt) | [PAY FOR IT](https://open.spotify.com/album/5Q79nemJLztzqYrdgJ4MOd) | 2:56 |
 
-Snapshot ID: `MCxkMWQ0NjU4YWEwMTFkYmI5NjkwMjU5ZmUyOTJkYzJiYzFmOGRiODMy`
+Snapshot ID: `MCw4ODY2ZWFiYmQ0Y2Y1NDYwZjhiNTMyZGNhYTAwNDNhYjI0Mjg2MjRl`

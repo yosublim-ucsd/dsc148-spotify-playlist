@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 
 > Uptempo jazz classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,391 likes - 100 songs - 10 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,486 likes - 100 songs - 10 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjJSRJPgSKT.md) - [plain]
 | 99 | [John S\. \- Remastered](https://open.spotify.com/track/461pkT8SLkwYk5r5FexNiy) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [The Bridge](https://open.spotify.com/album/4IUPjc5q4g3MlRC2TFHHOJ) | 7:46 |
 | 100 | [Ping Pong](https://open.spotify.com/track/1cjVMCYoLlzZ6AeC6fUvZJ) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [Roots And Herbs](https://open.spotify.com/album/6CZhhfK5gP6KOucByv9Hiy) | 7:06 |
 
-Snapshot ID: `MCw0YWVjNjZhOTBiOGVkNThiYmZjOWVmNTBlNjFmMDFhY2IyMmE3YzQz`
+Snapshot ID: `MCxlMDg0MGVjMzE4NDVhZGRlZDY5MzdmNGZkZjZjOWExYjE1NmMyOGY1`

@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-279 songs - 18 hr 27 min
+280 songs - 18 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Battery \(Remastered\)](https://open.spotify.com/track/7qRxAH7ZRB2Ita3mebXfR3) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master of Puppets \(Remastered\)](https://open.spotify.com/album/5gzLOflH95LkKYE6XSXE9k) | 5:12 | 2022-09-30 |  |
 | [Be Above It](https://open.spotify.com/track/2Gl1Qdx5Px5kVYe0PQoGI0) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:21 | 2023-06-24 |  |
 | [Beatopia Cultsong](https://open.spotify.com/track/2HnZ0YqhP2BxYQUhCd9Zov) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:31 | 2023-01-12 |  |
-| [Before Today](https://open.spotify.com/track/1Emw4zGXubKhKshl6U27Eb) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Walking Wounded](https://open.spotify.com/album/2mKMc9g06B2uYTaYRYqpAk) | 4:18 | 2023-06-24 |  |
+| [Before Today](https://open.spotify.com/track/1Emw4zGXubKhKshl6U27Eb) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Walking Wounded](https://open.spotify.com/album/2mKMc9g06B2uYTaYRYqpAk) | 4:18 | 2023-06-24 | 2023-07-21 |
 | [Better Git It in Your Soul](https://open.spotify.com/track/16nJl8NnriCJxraco5Zssm) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Ah Um](https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA) | 7:20 | 2022-04-21 |  |
 | [Better Together](https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:27 | 2023-05-22 | 2023-06-03 |
 | [Bird's Nest](https://open.spotify.com/track/5ms47HpSovxUpNrHVxaAs3) | [Jordaan Mason](https://open.spotify.com/artist/5zInXkhCwoT9HGWgeKjKS6), [Jordaan Mason & The Horse Museum](https://open.spotify.com/artist/5EQ6WS0sO77AIhthug6S0U) | [Divorce Lawyers I Shaved My Head](https://open.spotify.com/album/6uxDtA96cuZ2FbPCT3EL40) | 4:02 | 2023-06-09 |  |
@@ -225,6 +225,7 @@
 | [Sleeping Ute](https://open.spotify.com/track/2PoqnzWrZku3y90o50wVNi) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Shields](https://open.spotify.com/album/4whHK0lCoTKit2dkPB2nPX) | 4:35 | 2023-06-19 |  |
 | [Slide \(feat\. Frank Ocean & Migos\)](https://open.spotify.com/track/7tr2za8SQg2CI8EDgrdtNl) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Funk Wav](https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk) | [Funk Wav Bounces Vol.1](https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0) | 3:50 | 2023-05-21 | 2023-06-27 |
 | [Smells Like Teen Spirit](https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 5:01 | 2022-09-25 |  |
+| [Something That Feels Like Love](https://open.spotify.com/track/363tIu3XPLPKBpYpIfTQ8b) | [Joel Haver](https://open.spotify.com/artist/08fBiIiUIv7aWqPAlhLBIG) | [talk to me when you're ready if you want to please](https://open.spotify.com/album/3h6E2h1RbjJwv8HjNfjmJu) | 1:58 | 2023-07-20 |  |
 | [Sorrow Tears and Blood](https://open.spotify.com/track/7GtuZhIQ6EEpBQrJu05nIh) | [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR) | [Sorrow Tears and Blood](https://open.spotify.com/album/6rQL5co6IZLuTGxD5qsBmx) | 10:15 | 2023-06-14 | 2023-06-17 |
 | [Soulo Ho3 \(feat\. Jhene Aiko\)](https://open.spotify.com/track/15acC6GzjmD5NvpoS5jRdN) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Control System](https://open.spotify.com/album/26RLXRJA7aOOffZJGjUaSW) | 3:57 | 2022-12-29 |  |
 | [Southern Point](https://open.spotify.com/track/6abe1wtVmnCIGRYGAX0Kdl) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Veckatimest](https://open.spotify.com/album/3XQMgEnLQnOMkFaJA9w6sZ) | 5:02 | 2023-03-31 | 2023-07-02 |

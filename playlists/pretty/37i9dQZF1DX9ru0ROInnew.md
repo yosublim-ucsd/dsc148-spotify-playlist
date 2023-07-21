@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 
 > The best of Latin Trap\. Cover: Arcangel
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,005 likes - 120 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,061 likes - 120 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 | 82 | [Swaggy](https://open.spotify.com/track/4mrM7WY6TjTSaBfnPRwRFK) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Swaggy](https://open.spotify.com/album/4z0P1TXAPhZtWn7w3TR0HY) | 4:18 |
 | 83 | [ChuliGang](https://open.spotify.com/track/074SlodfrBibHYC0Y8Qata) | [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Los Chulitos](https://open.spotify.com/album/61OuBz5Vh5z1n8z6Yu8rlN) | 2:43 |
 | 84 | [Huracheee](https://open.spotify.com/track/5PAZQuUFI4JwQGJJ4dYjZS) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [EZ El Ezeta](https://open.spotify.com/artist/4nxZciIJ63XsyL0YfKCkgJ), [Lary Over](https://open.spotify.com/artist/1jSjfSgDjedJdi5MoyRu78), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Huracheee](https://open.spotify.com/album/1vlgEBezFraFDhkFPcUSbo) | 4:04 |
-| 85 | [Esclava](https://open.spotify.com/track/6aEB2VcMRyT33R6l2wFHJf) | [Goya Alfa](https://open.spotify.com/artist/4nggYuFtlufqW2xXN8bz3Y), [Joel Ney](https://open.spotify.com/artist/7eLqivRSAwxPAHKBlnLqVi) | [Real For Life](https://open.spotify.com/album/5Y3WjlGpIvICp5QvSi1udA) | 4:41 |
+| 85 | [Esclava](https://open.spotify.com/track/6aEB2VcMRyT33R6l2wFHJf) | [Joel Ney](https://open.spotify.com/artist/7eLqivRSAwxPAHKBlnLqVi), [Goya Alfa](https://open.spotify.com/artist/4nggYuFtlufqW2xXN8bz3Y) | [Real For Life](https://open.spotify.com/album/5Y3WjlGpIvICp5QvSi1udA) | 4:41 |
 | 86 | [Robinson Cano](https://open.spotify.com/track/22nhlBxAx3I1TVunOKPDoS) | [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7) | [Robinson Cano](https://open.spotify.com/album/0t8jeXWVB5YtvvfWnQYdqL) | 3:02 |
 | 87 | [All Star](https://open.spotify.com/track/1KNIPsXn3yVfV4JI6JFn7v) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [All Star](https://open.spotify.com/album/19tH8qoYrpC5cvnxfJZAxh) | 3:30 |
 | 88 | [La Calle](https://open.spotify.com/track/3ee5kkhVt22MCCOOkgvdx3) | [Filarmonick](https://open.spotify.com/artist/1I742yGdZ1y3EO5X6bKo0b), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Lito Kirino](https://open.spotify.com/artist/68w2t0wbrGnxSIUHzWs5bt) | [La Calle](https://open.spotify.com/album/1GaaDeoQbKR1VHPxiEiPWZ) | 4:01 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ru0ROInnew.md) - [plain]
 | 119 | [Triste](https://open.spotify.com/track/7narbj6zkSW1SnMhAPep0u) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [La Oscuridad](https://open.spotify.com/album/38QMtmbbl4jdpeQ29I8vMB) | 4:24 |
 | 120 | [Brindemos](https://open.spotify.com/track/5P8TXlZCMwru6DaMsIbbO3) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Real Hasta la Muerte](https://open.spotify.com/album/5pQwQRnQOuKrbVUVnGMEN4) | 3:36 |
 
-Snapshot ID: `MCw2MDU2OTVkYjhmMGE2MTVhYzBkYTA5N2JhY2EzMTZhYWQ1NjFkMzQ0`
+Snapshot ID: `MCxiZmYzZmI0ZjMzNjE2NjFiNDZiYjY2NzBmNzhkMzMwNTIzMzE3NWM1`

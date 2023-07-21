@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,342 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,495 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,7 +94,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 | 84 | [Suite in D IV \(Dreamland\)](https://open.spotify.com/track/28sw29g4kMAqnsWHQkqRhZ) | [Martin Bloch](https://open.spotify.com/artist/2WJ5Jh2DxFhkyA3xRoq77z) | [Suite in D IV \(Dreamland\)](https://open.spotify.com/album/58GxfMDdj40e0aqBKEXrQP) | 2:54 |
 | 85 | [Tramlines](https://open.spotify.com/track/10BepUUYRLzp0QV2NoEDAB) | [Neil Cowley](https://open.spotify.com/artist/3jrpFxybBbCCh7EGCXMfdB) | [Tramlines](https://open.spotify.com/album/0ktupZczFTrZjn4FJGu14r) | 3:46 |
 | 86 | [Escape \- Hania Rani Remix](https://open.spotify.com/track/16AWl9fFu1QfT0pGVJWudG) | [Skalpel](https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q), [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Escape \(Hania Rani Remix\)](https://open.spotify.com/album/4bTFMcePAn9y936gctFnfQ) | 4:27 |
-| 87 | [New Moon](https://open.spotify.com/track/0qRkkkqgsdebj5x62MV7uA) | [Pêtr Aleksänder](https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ), [Ian Burdge](https://open.spotify.com/artist/0cs87q4mrkIUnMqHVAf4eL), [Bruce White](https://open.spotify.com/artist/3pGqMoEIJ7ZLLEmAbq6XuT), [Oli Langford](https://open.spotify.com/artist/0uhCqZ52g1yCoxYis7hOuv), [Tom Piggott\-Smith](https://open.spotify.com/artist/2akPdZTSFJ49qgJgv3Zytg) | [Collage](https://open.spotify.com/album/1mBThT4Q1wQFs6heMlHVyW) | 2:55 |
+| 87 | [New Moon](https://open.spotify.com/track/0qRkkkqgsdebj5x62MV7uA) | [Pêtr Aleksänder](https://open.spotify.com/artist/6NXrsSyjmxtUrYh3kaAexZ), [Ian Burdge](https://open.spotify.com/artist/0cs87q4mrkIUnMqHVAf4eL), [Bruce White](https://open.spotify.com/artist/3pGqMoEIJ7ZLLEmAbq6XuT), [Oli Langford](https://open.spotify.com/artist/0uhCqZ52g1yCoxYis7hOuv), [Tom Pigott\-Smith](https://open.spotify.com/artist/7cDm7GQi00juXOwvOKZVbm) | [Collage](https://open.spotify.com/album/1mBThT4Q1wQFs6heMlHVyW) | 2:55 |
 | 88 | [Lost Time \- Strings Version](https://open.spotify.com/track/2TPWUyeSZvJRW80PizUZ6L) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT), [Francois Mathian](https://open.spotify.com/artist/4193s4Szb8oYEv2pZ8lgSX) | [Lost Time \- Strings Version](https://open.spotify.com/album/1oSV8sKOeJ32kc0cAYHcH9) | 2:21 |
 | 89 | [Timeless](https://open.spotify.com/track/6CWhGUsfC69T6E2IHrpmrO) | [Sisulu](https://open.spotify.com/artist/1RMoei5UVXMLSnenD8PMKC) | [Timeless](https://open.spotify.com/album/2IZYzC0D0efP2obfPhvClq) | 2:17 |
 | 90 | [Where Do We Go From Here](https://open.spotify.com/track/5rBLxJuvVdoO4PJZshFZZB) | [Njord](https://open.spotify.com/artist/3zYAcm7zUhWykFjAU4Oc0w) | [Where Do We Go From Here](https://open.spotify.com/album/09d4nYKC7KPz24j1poojCU) | 2:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSw8liJZcPOI.md) - [plain]
 | 99 | [Éclosion](https://open.spotify.com/track/5OySktqTcVI9raXKmrdGNr) | [Tony Anderson](https://open.spotify.com/artist/3aRscMJRah0QrvGE5rkvZl) | [Éclosion](https://open.spotify.com/album/1OKNFl8PygWSvMfIWwI7D9) | 4:55 |
 | 100 | [hundred00](https://open.spotify.com/track/0QWKituzXIFotLHfRFyGJG) | [Lara Somogyi](https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo) | [hundred00](https://open.spotify.com/album/0kBZkLsisJMS1n2WgbGo4C) | 4:49 |
 
-Snapshot ID: `MCw4NDFhZWJmODczYmZkOTA3NjRhOGVlZDAwOGFlZjc5NjM4MTBhNzdm`
+Snapshot ID: `MCw3NmQ4NjA2ZDZiZmMwNmY4NTBhOTE2ZmVhMDhiNDE3ZmFiOTA3ZGI4`

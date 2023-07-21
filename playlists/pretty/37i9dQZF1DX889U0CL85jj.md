@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 
 > Just chill.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,443,868 likes - 150 songs - 8 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,444,148 likes - 150 songs - 8 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 9 | [Orange Blood](https://open.spotify.com/track/2mKz0wGscPw1xnTvrTlQUi) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Orange Blood](https://open.spotify.com/album/2H1cK9wMY3GreIFvcNnice) | 3:46 |
 | 10 | [Kimosabè](https://open.spotify.com/track/06oSt0nOjewappkOBrsFME) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Kimosabè](https://open.spotify.com/album/3nZq3qWbHwdnTXZsk9DF5K) | 4:36 |
 | 11 | [Cerca De Ti](https://open.spotify.com/track/4LY7VZhDLlRpsUlBIOZ7Ew) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Hoy Como Ayer](https://open.spotify.com/album/28NDhMP2u9FUfp7grF1LhM) | 1:48 |
-| 12 | [sanctuary](https://open.spotify.com/track/5Co74QMPtwQU8LFS0zwRpL) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [sanctuary](https://open.spotify.com/album/1yB52fA6GbaGA8p1soKr2L) | 3:18 |
+| 12 | [SANCTUARY](https://open.spotify.com/track/5Co74QMPtwQU8LFS0zwRpL) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [SANCTUARY](https://open.spotify.com/album/1yB52fA6GbaGA8p1soKr2L) | 3:18 |
 | 13 | [Pistol](https://open.spotify.com/track/5g5XvfePSypMK6eiVL6BI7) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Pistol](https://open.spotify.com/album/681myoJD0vQ3rCpF15ECcP) | 3:54 |
 | 14 | [Diamonds](https://open.spotify.com/track/4410U1LBFEbAXKdWpclkkD) | [Luluc](https://open.spotify.com/artist/2Jtfa8vjvzAAGxDfgIkU72) | [Diamonds](https://open.spotify.com/album/0yMzpSlb7U4emqlTclNLbM) | 3:52 |
 | 15 | [Let The Light In \(feat\. Father John Misty\)](https://open.spotify.com/track/4qG7hWhljsqqENL5PaLA2z) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 4:38 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX889U0CL85jj.md) - [plain]
 | 149 | [Find Out](https://open.spotify.com/track/4Rkm2ThV0B7TZLEF9IN7RN) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Girl In The Half Pearl](https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w) | 2:28 |
 | 150 | [I'll make it better](https://open.spotify.com/track/2YmvgEuz7O8YpjclnGYDYn) | [Naji](https://open.spotify.com/artist/31QM5dBtewZL65p9hCnXKK) | [I'll make it better](https://open.spotify.com/album/6r8krYPEnO2XgQG98rXAuK) | 1:15 |
 
-Snapshot ID: `MCwwNDMyZTg4ZjBiZTlkN2FkZjM0YmYwYjJmOGM5OWJiODMwYmVkZTA3`
+Snapshot ID: `MCw3MDIwMWMyZGM4OWIwZmIzNjFlNmM4MTgyNDU3Mjg0NWZlMTJlOWEz`

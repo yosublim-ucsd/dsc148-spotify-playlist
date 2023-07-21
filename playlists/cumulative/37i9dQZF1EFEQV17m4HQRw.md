@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/40TymUMoWoqMrIV7VBRRAn">Jotta A</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-45 songs - 3 hr 21 min
+46 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Amor Impetuoso](https://open.spotify.com/track/6mnaqZnMNWgNsRKpfQxBYY) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Muéstrame Tu Gloria](https://open.spotify.com/album/1hdMxcb2eRzIuD2YJuDFTb) | 6:26 | 2022-06-04 |  |
 | [Apollo 11](https://open.spotify.com/track/2rtrHYY3AyUlpAB8M4GSAC) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Apollo 11](https://open.spotify.com/album/2twRkiHWXubukZhe4kp7cm) | 3:13 | 2022-07-06 |  |
 | [Aventurero](https://open.spotify.com/track/4ZwgnxVK1fxr58BEVo5sZ8) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Aventurero](https://open.spotify.com/album/6bWDNm3rA6TGfOLP9bB0pP) | 3:26 | 2022-06-04 |  |
+| [Cante Outra Vez](https://open.spotify.com/track/17mVv6aGrWt7ScrMWrVMXh) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Recomeçar](https://open.spotify.com/album/1Z6xceemw3XRL3F9mcyDnz) | 4:39 | 2023-07-20 |  |
 | [Chances](https://open.spotify.com/track/4W9AwjzkVUIvdZr4eOnMu6) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [La Drácula](https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV) | 3:28 | 2023-02-16 |  |
 | [El Camino](https://open.spotify.com/track/4oiAtbB2nWywnV6VaR5Fug) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y), [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Muéstrame Tu Gloria](https://open.spotify.com/album/1hdMxcb2eRzIuD2YJuDFTb) | 4:07 | 2022-06-04 |  |
 | [Ele Vem](https://open.spotify.com/track/2OQzta0fwH98eh2n6XGXRK) | [Jotta A](https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y) | [Recomeçar](https://open.spotify.com/album/1Z6xceemw3XRL3F9mcyDnz) | 4:19 | 2022-06-04 |  |

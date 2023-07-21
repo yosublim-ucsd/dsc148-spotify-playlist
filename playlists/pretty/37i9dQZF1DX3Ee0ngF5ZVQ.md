@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Turnpike Troubadours
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,454 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,553 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 99 | [We Ain't The Only Ones](https://open.spotify.com/track/60cBV9G1mutufLZ9J3uIIt) | [Randy Rogers](https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv), [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [We Ain't The Only Ones](https://open.spotify.com/album/2kQxMZAAEZlWdQBRb50qN0) | 3:24 |
 | 100 | [Varsity Type](https://open.spotify.com/track/5AyMwIlC0TrEXtECxqkwTD) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [Abstract Art of an Unstable Mind](https://open.spotify.com/album/6O5EG4fe0vKeINvGk0z2qW) | 3:22 |
 
-Snapshot ID: `MCxjNzVjNTczMTEzODRhNTQ4ZTFiZTk1ZmNlZjM4MmU1YTg2MjdkN2M3`
+Snapshot ID: `MCwxOGFmZTNmNDQ5Yjg5NjM4MzUwOTVjMTVjZWQzOWFmZGVhMzkzODhh`

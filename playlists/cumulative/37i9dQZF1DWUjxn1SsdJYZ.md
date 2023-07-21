@@ -2,9 +2,9 @@
 
 ### [Local Hype](https://open.spotify.com/playlist/37i9dQZF1DWUjxn1SsdJYZ)
 
-> The best drill, trap and genre bending rap from Australia and NZ\. Cover: Moses
+> The best drill, trap and genre bending rap from Australia and NZ\. Cover: AMARNI
 
-504 songs - 23 hr 38 min
+509 songs - 23 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [2 STEP](https://open.spotify.com/track/5kjAcTZuwCFQD5Fm6nCp8M) | [Ribby247](https://open.spotify.com/artist/6LZdwXjVBOMwkPgglULJKh), [Shadow](https://open.spotify.com/artist/0X8YsieGthCs1x2oIoDf0X) | [2 STEP](https://open.spotify.com/album/2uJx5YdXjaD81ymmWrNy8H) | 2:03 | 2023-02-23 |  |
 | [22 Packs](https://open.spotify.com/track/7c59JXGEQZAgNyh4od18xZ) | [Tbi$h](https://open.spotify.com/artist/6j7XK7KYc9Ie6pUqkFoS4U) | [22 Packs](https://open.spotify.com/album/3T9laywDWnN2UtXff4Adjk) | 2:46 | 2022-06-09 | 2022-10-21 |
 | [4CERTAIN](https://open.spotify.com/track/7127v7qeXWKa1ACWIJS9fo) | [XREDO](https://open.spotify.com/artist/2mwnvaTg1PpXVLTOV35uat) | [4CERTAIN](https://open.spotify.com/album/6zdsWREkyCF7iK4UKaPKyG) | 2:24 | 2023-05-04 |  |
+| [5 Star](https://open.spotify.com/track/2aDbC4CAVEMEVVmEjXOmP4) | [AMARNI](https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco) | [5 Star](https://open.spotify.com/album/1nrw868ik7UqmqxtnIJLxR) | 2:18 | 2023-07-21 |  |
 | [5FT FREESTYLE](https://open.spotify.com/track/6xYlZdAvzzkl5UAoySwc3Y) | [Tasman Keith](https://open.spotify.com/artist/3Pe4IIW9HoZsmBlKa5G6I1) | [5FT FREESTYLE](https://open.spotify.com/album/3lSf2OiUqvh5VQUHo27fxv) | 2:50 | 2022-03-21 | 2022-03-25 |
 | [64 Bars](https://open.spotify.com/track/51JUS47kJuTDQBDJfbNGV1) | [Nerve](https://open.spotify.com/artist/7BJleNy6CWKzS3nKtrsNuN) | [64 Bars](https://open.spotify.com/album/6wDzucPpFL4ODV0saHuOav) | 3:09 | 2022-03-21 | 2022-05-27 |
 | [64 Bars](https://open.spotify.com/track/4HrT0bSdtalmzfmoxiNE2Y) | [Nokz78](https://open.spotify.com/artist/4YpUneet1k2jaCfvCfUnZy) | [64 Bars](https://open.spotify.com/album/4lhZiRZudcm8eKSVnS11Aq) | 2:36 | 2022-03-21 | 2022-07-01 |
@@ -165,6 +166,7 @@
 | [FRIDAY](https://open.spotify.com/track/1qBbrjiU5ZWIA5NJUAV8b7) | [Th4 W3st](https://open.spotify.com/artist/49a6yPIQOQhPDL6e6d0hCB) | [FRIDAY](https://open.spotify.com/album/0zQvIfYMosxDoCVap48SkU) | 3:41 | 2022-03-21 | 2022-07-15 |
 | [FUSH AND CHIPS](https://open.spotify.com/track/39insgdUU1RB5CJZUdg8kE) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT) | [FUSH AND CHIPS](https://open.spotify.com/album/5U438YMyYMa55plD5tdsM8) | 1:53 | 2022-12-15 | 2023-03-18 |
 | [G Like Me](https://open.spotify.com/track/41yG2gsOzmWIMs4yZghZSj) | [DIBZ](https://open.spotify.com/artist/6zFwkIEBUP5ASaxlgpniej) | [G Like Me](https://open.spotify.com/album/3jtV7g2VYS2N4MctRQG5R3) | 2:42 | 2023-05-11 |  |
+| [G\-WAGON \(feat\. Wombat\)](https://open.spotify.com/track/56A51DVwMTzuzdqDpiXx8O) | [Tbi$h](https://open.spotify.com/artist/6j7XK7KYc9Ie6pUqkFoS4U), [Wombat](https://open.spotify.com/artist/001o475CIcdKHkvgKc9t8H) | [G\-WAGON \(feat\. Wombat\)](https://open.spotify.com/album/2ZocmqDOfpR1i9ZK27hpm3) | 3:10 | 2023-07-21 |  |
 | [Game Day Ritual](https://open.spotify.com/track/4LWjiqxih81T0MwcNwZMUZ) | [OTEEZY](https://open.spotify.com/artist/1xM0fxmeNse4TvBV5RsuwO) | [Game Day Ritual](https://open.spotify.com/album/7dw7qyNIQiJ2nTpU5acc39) | 3:00 | 2022-03-21 | 2022-12-09 |
 | [GEEBO](https://open.spotify.com/track/7GPPTnXZERnBml7MQtTZaw) | [Brothers](https://open.spotify.com/artist/5XJlnf7mD44GXWHmRGxt0I) | [GEEBO](https://open.spotify.com/album/28pMKZUWlE56kSUhuW5i8H) | 3:41 | 2023-06-16 |  |
 | [Get Like Me](https://open.spotify.com/track/3SOJHgd3Q0BWT2gVQ7bgoe) | [Mzuki](https://open.spotify.com/artist/1WXhw0PBeOUR46yQsXoXW9) | [Lifestyle](https://open.spotify.com/album/3WV4nJjBjiYqnXJheNkcOV) | 2:44 | 2022-11-24 | 2023-02-03 |
@@ -296,6 +298,7 @@
 | [Move It](https://open.spotify.com/track/36p1mFTJbbLycveV65mPFO) | [Rydah](https://open.spotify.com/artist/78arWeRSIBit1TYTcTOcAY) | [Move It](https://open.spotify.com/album/5F2oJ9LKv0Jqk40XTmSaVk) | 2:32 | 2022-11-10 | 2023-01-06 |
 | [Mr BNE](https://open.spotify.com/track/19eMPQIRS1As63QOfbVPKh) | [Chill Bne](https://open.spotify.com/artist/4BLQGMIFpY7oMCAJ1OD9fs) | [Mr BNE](https://open.spotify.com/album/5gye3hXQwijEVXahRznrb8) | 2:17 | 2023-05-25 |  |
 | [MR LUCKY](https://open.spotify.com/track/3QyF6ighoWEbCubJ4E0TuM) | [Day1](https://open.spotify.com/artist/0iFJbJ7jMv5QAmA6hWm6Ic) | [MR LUCKY](https://open.spotify.com/album/7M51f0iWJMOsBYWShOVYkb) | 2:38 | 2023-06-16 |  |
+| [mudboy](https://open.spotify.com/track/0DLMRXisEWpqGauuDdOwx5) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT) | [mudboy](https://open.spotify.com/album/0YLwlxIkAliUiTlfdpb5a2) | 1:53 | 2023-07-21 |  |
 | [MY CITY](https://open.spotify.com/track/62bsIzKQuiTnskD0DV3qku) | [88YAMI](https://open.spotify.com/artist/3H9X7CGiBMJTlz4ldD5SuF), [Yourboymars](https://open.spotify.com/artist/5ouiVfEBsyRSAGOZiJHYQD) | [MY CITY](https://open.spotify.com/album/6LPf2adSPT7Ne8FlpCPOrC) | 2:44 | 2022-03-21 | 2022-03-25 |
 | [MY TURN](https://open.spotify.com/track/67ymPK8GDCy5G0gtkNr7Tl) | [Mason Dane](https://open.spotify.com/artist/77vYj1iBHh1gao0yd7ryGl) | [MY TURN](https://open.spotify.com/album/1NhU3nH2zA2sLFUlUMlBoh) | 2:45 | 2022-12-08 | 2023-04-14 |
 | [Need it](https://open.spotify.com/track/5xi9havTvE7ELg0U5O5GsQ) | [Mistah Mez](https://open.spotify.com/artist/7FUiHb15jNoad8VZDsD44i), [Rops1](https://open.spotify.com/artist/2Vh9L0qPXJopMy6zzC7zce) | [Need it](https://open.spotify.com/album/3esciVJufbBSnNYs5YiZ2O) | 2:42 | 2022-03-21 | 2022-05-19 |
@@ -370,6 +373,7 @@
 | [Red Flags](https://open.spotify.com/track/30SeStbN8prR0nVaI3gY9C) | [Mwayz](https://open.spotify.com/artist/2EYr0y2iynxHcbb6fQ4Emg) | [Red Flags](https://open.spotify.com/album/4mZl5HnuvcEaPiA7mTqzLZ) | 2:46 | 2022-11-10 | 2023-07-19 |
 | [Relevant](https://open.spotify.com/track/7KU1UP6rNJacxyeVMKvMIQ) | [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np), [NASA NOVA](https://open.spotify.com/artist/06QjJe1vLugKmPVdMKVCUR) | [Relevant](https://open.spotify.com/album/2e2JiNp622FErYEGedLVwJ) | 1:51 | 2022-10-27 | 2023-01-20 |
 | [Relocate](https://open.spotify.com/track/7vYiIVj8fMlWuzKHomyNhr) | [Shadow](https://open.spotify.com/artist/0X8YsieGthCs1x2oIoDf0X) | [Relocate](https://open.spotify.com/album/4bk2h0Z3jnTAhAoZQLA8cJ) | 3:59 | 2022-03-21 | 2022-06-17 |
+| [Reminder](https://open.spotify.com/track/5Vv1E837CiMul7xAM9h5zC) | [Hp Boyz](https://open.spotify.com/artist/0JlQaGJZfrqYeZG1AQICxp), [HP ONIT](https://open.spotify.com/artist/3yclhvFQ2T4HgVpAjtckXG), [HP YJ](https://open.spotify.com/artist/5marR6RSTdYzvnGsHiH5rc) | [Reminder](https://open.spotify.com/album/0nhzGyj63ystksSTw5PwKJ) | 2:43 | 2023-07-21 |  |
 | [RICKY](https://open.spotify.com/track/2YXYSajbiZzJD5K49KUGon) | [Hooks](https://open.spotify.com/artist/3ByS6WHuxmY7mMp7HsVn3u) | [RICKY](https://open.spotify.com/album/4z94jJZUEw0ne7zNzozKLy) | 2:56 | 2022-04-07 | 2022-10-21 |
 | [rickys](https://open.spotify.com/track/5mn8rFWBcUN5T6eQ6uYyOI) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT) | [rickys](https://open.spotify.com/album/1HSFAnANvpf7T2hjolO0yc) | 2:08 | 2023-04-27 |  |
 | [Riding](https://open.spotify.com/track/4ybxvjfoI326eAGZJE13oe) | [Bently](https://open.spotify.com/artist/34TF5E7gj7N1kbgPovpD2M), [No Money Enterprise](https://open.spotify.com/artist/3cI6oSkDCirRNVAgBsGJyB) | [Riding](https://open.spotify.com/album/6iB7lGpfYILPXEWAG1RtzV) | 2:45 | 2022-03-24 | 2022-09-23 |
@@ -419,6 +423,7 @@
 | [Steady](https://open.spotify.com/track/2x87Aklz120dbM31TrH4Kd) | [Rydah](https://open.spotify.com/artist/78arWeRSIBit1TYTcTOcAY) | [Steady](https://open.spotify.com/album/71E26CGhROyl6RCXpathME) | 2:45 | 2022-03-21 | 2022-08-26 |
 | [Still G's](https://open.spotify.com/track/3jhXPxvc6iUvHPTW0Y6gyL) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [Still G's](https://open.spotify.com/album/22QUb1uvANqKLhU689vG9i) | 3:32 | 2022-12-08 | 2023-04-14 |
 | [STILL HERE](https://open.spotify.com/track/0igYALStTLq74Xo5OLiywe) | [Mac11](https://open.spotify.com/artist/2W3wMkNKFpC45vIpuFcjc0), [LELI SK](https://open.spotify.com/artist/45UPG7pWDca9zxljdJwjhl) | [STILL HERE](https://open.spotify.com/album/4LJsftEAwqLUPBlq7N3iCR) | 3:50 | 2022-03-21 | 2022-08-10 |
+| [STILL KNOCKING](https://open.spotify.com/track/0yn3t8ZRS50r8arNu6kH1b) | [Nice Flaco](https://open.spotify.com/artist/0iHJfju2zMmRbXBnVryn65) | [STILL KNOCKING](https://open.spotify.com/album/7Erw2XLKHGkM2lgTRZ6Mmb) | 3:02 | 2023-07-21 |  |
 | [Stuck In My Ways](https://open.spotify.com/track/4tIAySbbDf6SyvnGxRJaqO) | [Masi Rooc](https://open.spotify.com/artist/7lVylfM4gOIszKc9dr1EOc) | [Stuck In My Ways](https://open.spotify.com/album/102RiVASUdzi7goE5yclR7) | 2:37 | 2022-03-21 | 2022-03-25 |
 | [Suck My Toes](https://open.spotify.com/track/0lQQNH8mzqyXfPrfdWY9M0) | [Lauren.](https://open.spotify.com/artist/12FDfg23IYpKRIhMjLu9r3) | [Suck My Toes](https://open.spotify.com/album/2FroWce6wdvqLyKxnGy8vF) | 1:51 | 2022-12-15 | 2023-03-31 |
 | [Summer Jam](https://open.spotify.com/track/1xHePnG9oTTYWTkqd5dnN9) | [Sydney Yungins](https://open.spotify.com/artist/7pqRrWbKf5yMxy79G3YdKc) | [Summer Jam](https://open.spotify.com/album/5IGDqI2xqiTkVq9RBwYyFw) | 2:49 | 2022-10-27 | 2023-07-19 |

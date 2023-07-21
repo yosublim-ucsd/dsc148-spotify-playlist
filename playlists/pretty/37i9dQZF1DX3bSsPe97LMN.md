@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 
 > Esta es la plebada que está marcando tendencia en la Música Mexicana\. George Rhoads & RENEE en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,409 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,418 likes - 100 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSsPe97LMN.md) - [plain]
 | 99 | [Pa Mis Viejos](https://open.spotify.com/track/7gF5ozUnWcMIpnyIneQrZ7) | [Luis Cuadras](https://open.spotify.com/artist/0POrsz8AIjHbmjxkhNSHiR), [Elemece](https://open.spotify.com/artist/1duZu3bgjB12HTN7xIAFSJ), [Carlos Sarabia](https://open.spotify.com/artist/1aLC6PgrX4A5tfrpQozpQw), [Gael Morantes](https://open.spotify.com/artist/3ubpUHGn025g8Ixl5shRfw) | [Pa Mis Viejos](https://open.spotify.com/album/00hgw2O9cQzQkqvcSHm5i9) | 3:22 |
 | 100 | [Amarte Es Mi Destino](https://open.spotify.com/track/6gD4EQvtmbM7zGTPnKIFw5) | [Los De La Verde](https://open.spotify.com/artist/2OApbndSzlwqPTIUrxCGN2), [Juan Caly](https://open.spotify.com/artist/4SZsAATjInvAqWJ2aWm6l6) | [Amarte Es Mi Destino](https://open.spotify.com/album/61ScK3KMxnZt8nNq2vvAOR) | 3:00 |
 
-Snapshot ID: `MCw3N2FmNTMxOGYzZGFjMWM3YWJlODE2N2NiYzdkMmNjM2I2YTlhNzk5`
+Snapshot ID: `MCw4OWI1YzA2Mzg0MzAxMDE3NDA3ZTJhZDI4ZGYzZTE1MWY4MjJmMTU5`

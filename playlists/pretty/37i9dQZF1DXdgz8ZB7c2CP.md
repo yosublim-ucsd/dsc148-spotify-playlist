@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Jai Wolf
 
-[Spotify](https://open.spotify.com/user/spotify) - 758,025 likes - 125 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 758,087 likes - 125 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdgz8ZB7c2CP.md) - [plain]
 | 124 | [Let You Down](https://open.spotify.com/track/4koJOexsJfCdpyiWPlu3K9) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Let You Down](https://open.spotify.com/album/53fvgmWkvP8FKGbdO4zWiI) | 3:29 |
 | 125 | [On Air](https://open.spotify.com/track/3r7g1BxqfQu1y5CLBkemdZ) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Captain Cuts](https://open.spotify.com/artist/0rlKkLkpsCnJbZethGBfAk), [JRM](https://open.spotify.com/artist/1NbmG1Fj64qykEcJt1d43a) | [On Air](https://open.spotify.com/album/13czmHAij9ZlJaT9qh50gI) | 3:57 |
 
-Snapshot ID: `MCw2ZDY5MWU3ZTgzNzUwMGU2YjZmYjY1NjA1NWIwMmQ4NjFkNDUxNjJm`
+Snapshot ID: `MCw4ODU1NzdkMDliNmVhNmQ0NTU0YzM4NTRiYmE2N2U4ZGM4ZjkyZTQ1`

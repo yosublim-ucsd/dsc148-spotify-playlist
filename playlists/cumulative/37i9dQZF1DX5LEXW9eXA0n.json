@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Mellow & sentimental K-Pop ballads. (Cover:\bZIA(\uc9c0\uc544)) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
+  "description": "Mellow & sentimental K-Pop ballads. (Cover:\bJo Hyun Ah(\uc870\ud604\uc544)) (\ub2f9\uc2e0\uc758 \uac10\uc131\uc5d0 \ubc1c\ub77c\ub4dc, \ub824\uc694)",
   "name": "\ubc1c\ub77c\ub4dc, \ub824\uc694 (K-Pop Ballad Hits)",
   "tracks": [
     {
@@ -9145,6 +9145,24 @@
     },
     {
       "album": {
+        "name": "Love War",
+        "url": "https://open.spotify.com/album/59DdpwFqZnqs1Bz4bgKxW7"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240061,
+      "name": "Love War",
+      "url": "https://open.spotify.com/track/3ZLH3WCaGQ2mvynea5a29s"
+    },
+    {
+      "album": {
         "name": "Call It Love, Part 4 (Original Soundtrack from the Disney+ Original Series)",
         "url": "https://open.spotify.com/album/1bRYXvLc2G48EXhCxwxfyp"
       },
@@ -9304,6 +9322,24 @@
       "duration_ms": 238132,
       "name": "Marry Me",
       "url": "https://open.spotify.com/track/60XDBmcTUepDSF6CvCsUJQ"
+    },
+    {
+      "album": {
+        "name": "Marry Me (My love X Yang Da Il)",
+        "url": "https://open.spotify.com/album/7aezS6OsSSjloT2u2xD4AN"
+      },
+      "artists": [
+        {
+          "name": "Yang Da Il",
+          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256859,
+      "name": "Marry Me (My love X Yang Da Il)",
+      "url": "https://open.spotify.com/track/6UrHnv2u6riHP1wSZdL7aP"
     },
     {
       "album": {
@@ -10922,6 +10958,24 @@
       "duration_ms": 248586,
       "name": "One Day More",
       "url": "https://open.spotify.com/track/4qWFcJD1YKqNXDSP2BdeLp"
+    },
+    {
+      "album": {
+        "name": "One Late Night In 1994",
+        "url": "https://open.spotify.com/album/0MLfjnIKcI9hY4UhLI1e85"
+      },
+      "artists": [
+        {
+          "name": "Jo Hyun Ah",
+          "url": "https://open.spotify.com/artist/7aVeZFWXIC3g4b0Tn68ZtI"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "One Late Night In 1994",
+      "url": "https://open.spotify.com/track/1bHEMyPGu9H0NGlS9Vxpsf"
     },
     {
       "album": {

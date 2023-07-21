@@ -81,6 +81,28 @@
     },
     {
       "album": {
+        "name": "All Good (Jasper Tygner Remix)",
+        "url": "https://open.spotify.com/album/0l8JO6jLZBpLzcNe0vo4Ri"
+      },
+      "artists": [
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        },
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243853,
+      "name": "All Good - Jasper Tygner Remix",
+      "url": "https://open.spotify.com/track/19FSj8Zq5ZUEF6C87rKPcH"
+    },
+    {
+      "album": {
         "name": "All Together, Here Together",
         "url": "https://open.spotify.com/album/2PI5yWf4vvQUINMCTKHHkx"
       },
@@ -1774,7 +1796,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 229399,
       "name": "Memories In Flight",
       "url": "https://open.spotify.com/track/0c2mirf2nzleq4ctZ5vFKx"
@@ -2790,7 +2812,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 233346,
       "name": "View from the Aeroplane Window",
       "url": "https://open.spotify.com/track/4mM9mgoDCa6NtWsHxe12pr"
@@ -2914,6 +2936,24 @@
       "duration_ms": 242661,
       "name": "Work It Out",
       "url": "https://open.spotify.com/track/4MLMdVDbghOxCSoOgwQ7Og"
+    },
+    {
+      "album": {
+        "name": "You Need Somebody",
+        "url": "https://open.spotify.com/album/4oSnGMfEK0NCZlTLsFDtdi"
+      },
+      "artists": [
+        {
+          "name": "Puppy Mountain",
+          "url": "https://open.spotify.com/artist/5uKqqVe2DRZMZBwV5wYYAH"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200830,
+      "name": "You Need Somebody",
+      "url": "https://open.spotify.com/track/3MOOLHyOlR0lzcTwoXSci8"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3Liv35LmYo1"

@@ -4,7 +4,7 @@
 
 > feel it all\. Cover: My Chemical Romance
 
-149 songs - 8 hr 58 min
+150 songs - 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Absinthe Party At The Fly Honey Warehouse](https://open.spotify.com/track/6LkwIps8gLQKC4qX99NMrj) | [Minus the Bear](https://open.spotify.com/artist/0YQBN02bmZvwGNrrWsg2sT) | [Highly Refined Pirates](https://open.spotify.com/album/1UMubVNQuVVBG7T6Cuzc5w) | 5:24 | 2022-05-27 | 2022-06-15 |
 | [Alive With the Glory of Love](https://open.spotify.com/track/1va84KD7DrxZ8U09Per4L8) | [Say Anything](https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4) | [Is a Real Boy](https://open.spotify.com/album/6V00weqCQp55eUDYewW1cG) | 4:15 | 2021-12-16 | 2022-10-13 |
 | [Alive With the Glory of Love](https://open.spotify.com/track/6YEs8KWsFKQmULF5CUOz4n) | [Say Anything](https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4) | [Is a Real Boy](https://open.spotify.com/album/67GbWmsrvtIdOOUYRo7do7) | 4:15 | 2022-08-02 |  |
+| [All I Wanted](https://open.spotify.com/track/1Bv3h7Vc4AaYA2BcSM3rVd) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 3:45 | 2023-07-20 |  |
 | [All over You](https://open.spotify.com/track/4b9jRNwMUvABxTD1amyfA6) | [The Spill Canvas](https://open.spotify.com/artist/4W8SeWrRZUburGZyp5JwYj) | [No Really, I'm Fine \(Standard Version\)](https://open.spotify.com/album/5H8tKeqYgYZsMX99hGSHoj) | 3:22 | 2021-12-16 | 2022-07-29 |
 | [All That I've Got](https://open.spotify.com/track/6IxQ0PdozaZKch1m8tGCwb) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [In Love and Death](https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2) | 3:50 | 2021-12-16 |  |
 | [Always Ten Feet Tall](https://open.spotify.com/track/0sbSgjHNx80MxZ1QDWbwA0) | [Saves The Day](https://open.spotify.com/artist/5gWhlJBlLQGLOgYWO8lwCU) | [Can't Slow Down](https://open.spotify.com/album/1FAEtW270SEe5GmiJe2x1O) | 3:24 | 2022-05-27 | 2022-06-15 |
@@ -54,7 +55,7 @@
 | [Hands Down](https://open.spotify.com/track/6yVSp9H2STyLeOs7pjy2w4) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [A Mark, A Mission, A Brand, A Scar](https://open.spotify.com/album/3I4DmkyMBifLVwrCT3eQ82) | 3:06 | 2022-06-14 |  |
 | [Helena](https://open.spotify.com/track/5dTHtzHFPyi8TlTtzoz1J9) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [Three Cheers for Sweet Revenge](https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h) | 3:24 | 2021-12-16 |  |
 | [Holiday](https://open.spotify.com/track/0DHbBvRnc9SaiUJVYj6g48) | [The Get Up Kids](https://open.spotify.com/artist/54Bjxn26WsjfslQbNVtSCm) | [Something to Write Home About](https://open.spotify.com/album/3S0PabpZF2USPmwK8lIRZ8) | 3:29 | 2022-05-27 | 2022-08-03 |
-| [I Feel So](https://open.spotify.com/track/1Igy3egsujfV4WphlW0B7K) | [Box Car Racer](https://open.spotify.com/artist/0DK7FqcaL3ks9TfFn9y1sD) | [Box Car Racer](https://open.spotify.com/album/3gODo8aZ2dTVIaOr9SqeRE) | 4:30 | 2023-02-22 |  |
+| [I Feel So](https://open.spotify.com/track/1Igy3egsujfV4WphlW0B7K) | [Box Car Racer](https://open.spotify.com/artist/0DK7FqcaL3ks9TfFn9y1sD) | [Box Car Racer](https://open.spotify.com/album/3gODo8aZ2dTVIaOr9SqeRE) | 4:30 | 2023-02-22 | 2023-07-21 |
 | [I Just Wanna Run](https://open.spotify.com/track/2S4CfxZG29GZWwDeMtBq2R) | [The Downtown Fiction](https://open.spotify.com/artist/7MRDkEKtdsGcYn11A4qgUL) | [Best I Never Had](https://open.spotify.com/album/5fXNchpJ8jblaAsFQgVjLH) | 3:19 | 2022-02-03 | 2022-07-29 |
 | [I Miss You](https://open.spotify.com/track/1oTo3ijRbaDAtrjJrGAPSw) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [blink\-182](https://open.spotify.com/album/6DMUAqxiFfLdqXv0vqcrQA) | 3:47 | 2021-12-16 |  |
 | [I Woke Up In A Car](https://open.spotify.com/track/4HUwKG0yhZgoxG5ueclBP4) | [Something Corporate](https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD) | [Leaving Through The Window](https://open.spotify.com/album/1yTnFqlMOAi5zebiuqeroC) | 4:12 | 2022-06-14 | 2022-07-21 |

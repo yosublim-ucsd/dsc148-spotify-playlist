@@ -1969,6 +1969,28 @@
     },
     {
       "album": {
+        "name": "Mia Amore",
+        "url": "https://open.spotify.com/album/7kpHGEFLS5TX3gmDLJeb1w"
+      },
+      "artists": [
+        {
+          "name": "Artmasta",
+          "url": "https://open.spotify.com/artist/5nIOjs6hpgOxasVYbKOAui"
+        },
+        {
+          "name": "Manel Amara",
+          "url": "https://open.spotify.com/artist/2E6PtFWoDSwZ3VXTVCbdpN"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170135,
+      "name": "Mia Amore",
+      "url": "https://open.spotify.com/track/6cSVVeutV5aqIlGf75EdtA"
+    },
+    {
+      "album": {
         "name": "Mouj El Bahar",
         "url": "https://open.spotify.com/album/1rcEdLVrSG3vaI3RnJqDu4"
       },
@@ -2724,7 +2746,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 188666,
       "name": "Wakti Yejri",
       "url": "https://open.spotify.com/track/1dTyrSknaWlocx8T6Sd8go"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-28",
-  "description": "D\u00e9tendez-vous au son de titres R&B, Soul et Hip-Hop alternatif. Photo : Mahalia",
+  "description": "D\u00e9tendez-vous au son de titres R&B, Soul et Hip-Hop alternatif. Photo : Snoh Aalegra",
   "name": "Douces Vibes",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 163731,
       "name": "10,000 Hours",
       "url": "https://open.spotify.com/track/79kniixiy0c4pw3zhsqsEi"
@@ -321,6 +321,24 @@
     },
     {
       "album": {
+        "name": "Be My Summer",
+        "url": "https://open.spotify.com/album/1WStqZEbgRsqUNazxV7u9C"
+      },
+      "artists": [
+        {
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186540,
+      "name": "Be My Summer",
+      "url": "https://open.spotify.com/track/18QC5FsQ9FThInUrC6BScS"
+    },
+    {
+      "album": {
         "name": "bittersweet",
         "url": "https://open.spotify.com/album/3jAro2E2xP2trIuIcCPguO"
       },
@@ -386,7 +404,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 194906,
       "name": "Caught Me Running",
       "url": "https://open.spotify.com/track/1uEkWNy4InUrjWZaIEJDwT"
@@ -1711,6 +1729,24 @@
     },
     {
       "album": {
+        "name": "How Is Your Soul?",
+        "url": "https://open.spotify.com/album/1BFivKs3J5ghsnCx3yNo1X"
+      },
+      "artists": [
+        {
+          "name": "HILLARI",
+          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164863,
+      "name": "Loyal",
+      "url": "https://open.spotify.com/track/54gttLMcrX4u5UJYCF4lZR"
+    },
+    {
+      "album": {
         "name": "Don't Get Too Cozy",
         "url": "https://open.spotify.com/album/3fGURvjAC7mZz3nMfPRRBI"
       },
@@ -1856,7 +1892,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 238178,
       "name": "MUSE FREESTYLE",
       "url": "https://open.spotify.com/track/5QZ3Y4zHDEb8oTlRVmrizx"
@@ -1882,7 +1918,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 179508,
       "name": "My Phone Can Die",
       "url": "https://open.spotify.com/track/4RYsLFK1VLPtrwipmcAWoo"
@@ -2046,6 +2082,24 @@
       "duration_ms": 214026,
       "name": "November (feat. Stormzy)",
       "url": "https://open.spotify.com/track/7xkHbITyunC0rn47Gs8hS4"
+    },
+    {
+      "album": {
+        "name": "Now Forever",
+        "url": "https://open.spotify.com/album/2tbUZmGNUUBvDcOW6nNbCS"
+      },
+      "artists": [
+        {
+          "name": "Jackson Owens",
+          "url": "https://open.spotify.com/artist/33jhdrAHX9sSFzdKpYd2ke"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197500,
+      "name": "Now Forever",
+      "url": "https://open.spotify.com/track/0NJ9clbLSFyfxE2xZJxqA9"
     },
     {
       "album": {
@@ -2627,6 +2681,24 @@
     },
     {
       "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/2jQgJAsAIzvc0hGQVbqboI"
+      },
+      "artists": [
+        {
+          "name": "Ama Lou",
+          "url": "https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207946,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/0nczSj6as1uJ8fZ91xsOLr"
+    },
+    {
+      "album": {
         "name": "Since You've Been Gone",
         "url": "https://open.spotify.com/album/1SC9B04nmP42O8ckTuelR8"
       },
@@ -2748,7 +2820,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 198881,
       "name": "SMILE (feat. Xavier Om\u00e4r, DAISY WORLD & ROMderful)",
       "url": "https://open.spotify.com/track/0uwpYA2e1LrTS9MDS4p9q9"
@@ -2846,7 +2918,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 289962,
       "name": "Spirit 2.0",
       "url": "https://open.spotify.com/track/3JKRuo3KhL39T6XWAXPohj"
@@ -3186,6 +3258,24 @@
       "duration_ms": 258023,
       "name": "Through The Night (feat. Free Nationals)",
       "url": "https://open.spotify.com/track/6rVomZSCiNuuJmVlpgfZkt"
+    },
+    {
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/5DvGT5f0XU0wCCtUboAW47"
+      },
+      "artists": [
+        {
+          "name": "Dee Gatti",
+          "url": "https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194160,
+      "name": "Timeless",
+      "url": "https://open.spotify.com/track/4xs4pD7Piz2HyQgdMcobKd"
     },
     {
       "album": {
@@ -3558,6 +3648,24 @@
       "duration_ms": 168562,
       "name": "Wonder Woman",
       "url": "https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh"
+    },
+    {
+      "album": {
+        "name": "wondering",
+        "url": "https://open.spotify.com/album/0cCoIhU5P49fdKhbRgUuwV"
+      },
+      "artists": [
+        {
+          "name": "Olivia Escuyos",
+          "url": "https://open.spotify.com/artist/3PCJrL2hXcXraI9EXA2mYM"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136800,
+      "name": "wondering",
+      "url": "https://open.spotify.com/track/1j5IVgsUjkYrC6IeEgv9VV"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 
 > Today's Bluegrass and old time favorites Cover: Dan Tyminski
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,365 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,405 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2HpTqP3clz.md) - [plain]
 | 99 | [Alive With You](https://open.spotify.com/track/6zEJyiqP21mqaB0rnOKcO1) | [We Banjo 3](https://open.spotify.com/artist/10jo3zVGDsW6qs3JVs9tfD) | [Open The Road](https://open.spotify.com/album/2j5ouBQL6NuejKYQ6HlwRx) | 2:58 |
 | 100 | [The Trappings](https://open.spotify.com/track/0gzzJTHTrLcPl6dUwROF7Z) | [Stuart Duncan](https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2), [Edgar Meyer](https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD), [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Not Our First Goat Rodeo](https://open.spotify.com/album/4NDXeXypRq8YdFCKqg4sAn) | 3:39 |
 
-Snapshot ID: `MCxiMmM1MDU3MmQ4YmE4YjZjMGRjMThkNzFiYmEzMzFjMGQxOTBjMWFk`
+Snapshot ID: `MCw3YTVmY2EwNWJjMTljMWFhZmQ1ODU5YTg5YmYzYzUwMDBjOTAzMjYw`

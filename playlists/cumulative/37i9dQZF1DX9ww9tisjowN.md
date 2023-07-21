@@ -4,7 +4,7 @@
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. Cover: imase
 
-131 songs - 7 hr 30 min
+132 songs - 7 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [PEEK\-A\-BOO \- feat\. 鈴木優人 & かてぃん\(角野隼斗\) with 麻布学園OB+オーケストラ](https://open.spotify.com/track/0BghOAtqgizpuVtJFUCFxn) | [PIKOTARO](https://open.spotify.com/artist/37GBT1Lhfc2sgq4jZIt6n2), [鈴木優人](https://open.spotify.com/artist/5OcbTVDfV9qxI7va2CwpNX), [かてぃん\(角野隼斗\)](https://open.spotify.com/artist/3pFcOAkJezpIkzIFurpXA9) | [PEEK\-A\-BOO \[feat\. 鈴木優人 & かてぃん\(角野隼斗\) with 麻布学園OB+オーケストラ\]](https://open.spotify.com/album/0scNuFoGoUmCWEC8VNHZiM) | 2:20 | 2023-06-27 | 2023-07-05 |
 | [PING PONG! \(feat\. YMCK\)](https://open.spotify.com/track/3J7aROvcIXinMbZd2LzL3B) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx), [YMCK](https://open.spotify.com/artist/7ByfNcFxztbyKLEIVKmFVc) | [WINK](https://open.spotify.com/album/105329tEvmR4S5ofi0EZig) | 3:16 | 2023-05-09 | 2023-07-05 |
 | [plan](https://open.spotify.com/track/1vTx59PSh5jHw2WmEpTgWN) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [plan](https://open.spotify.com/album/1c7dUJR1HsiVLLLR901iMr) | 3:18 | 2023-07-11 | 2023-07-13 |
-| [plan](https://open.spotify.com/track/3LD7wvhxqh0Z8CWberSsBN) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [plan](https://open.spotify.com/album/6ZzOLipxchTFGwYeb0w6SS) | 3:18 | 2023-07-11 |  |
+| [plan](https://open.spotify.com/track/3LD7wvhxqh0Z8CWberSsBN) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [plan](https://open.spotify.com/album/6ZzOLipxchTFGwYeb0w6SS) | 3:18 | 2023-07-11 | 2023-07-21 |
 | [Please Play\-Bite](https://open.spotify.com/track/0aCqK1p6zd3HsI4dLxOpny) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [META](https://open.spotify.com/album/4iBwkssXTjrecC7MBKVJ6a) | 3:22 | 2023-05-16 |  |
 | [PUI PUI はとまらない](https://open.spotify.com/track/1uDXHWsB7EAPjHw8XKvm7c) | [Momoclochan Z](https://open.spotify.com/artist/0JUZrcVvxhJaCzc4mloocZ) | [PUI PUI はとまらない](https://open.spotify.com/album/2V1RiLuuBRbWoYRgdWc6bC) | 2:58 | 2023-05-09 |  |
 | [Q](https://open.spotify.com/track/51CXAV2GNNL3deCtcXpCeu) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8), [Gawr Gura](https://open.spotify.com/artist/1Spm887PTszc2AoNYpoCld) | [Q](https://open.spotify.com/album/2tY2MPx2BIAwqK93HLYkR0) | 2:39 | 2023-07-06 | 2023-07-19 |
@@ -112,6 +112,7 @@
 | [スマイルあげない](https://open.spotify.com/track/4LKpngNUdNSWMSewkMkKzL) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [スマイルあげない](https://open.spotify.com/album/0jQQr37kPhFRI6zjpP5Ys5) | 3:17 | 2023-06-22 |  |
 | [ダーリン](https://open.spotify.com/track/1dRZX4cj6zGKKylcAydIG1) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [Ghost Pop](https://open.spotify.com/album/6feQsJm7NRqr2ICMO4SDmB) | 2:28 | 2023-06-08 |  |
 | [ファジーサマー](https://open.spotify.com/track/3vzDJPjoY3rjBK27rHzi91) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [Kimochy Season](https://open.spotify.com/album/2jg0b7paauECp2dSraJqul) | 2:55 | 2023-07-06 |  |
+| [ファジーネーブル](https://open.spotify.com/track/7gUuCeZLFynSj28GCjoiGG) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [ファジーネーブル](https://open.spotify.com/album/4XCDzm6lz0QvcTVozUmNHe) | 3:57 | 2023-07-20 |  |
 | [ポリゴンウェイヴ \- Original Mix](https://open.spotify.com/track/6HPIILGgNy0a4zGnMdmBgv) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [ポリゴンウェイヴ EP](https://open.spotify.com/album/2LuuZaVVX5Bp7eX3PIV6B7) | 4:33 | 2023-05-09 |  |
 | [マーメイド](https://open.spotify.com/track/2E0zCVEO5yKPlWPSY7Rk5e) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [マーメイド](https://open.spotify.com/album/4E6w5h2440vYWD9xgub8Gq) | 3:55 | 2023-07-04 |  |
 | [メフィスト](https://open.spotify.com/track/45LUKiex0D78VuhP3Oz6mG) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [メフィスト](https://open.spotify.com/album/4GlhyWqXM0Ir8083Ue9Je0) | 3:47 | 2023-05-25 |  |

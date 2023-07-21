@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr0NUabOeCV.md) - [plain]
 
 > Para iniciar la fiesta\. ¡Salud!
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,277 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,282 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWr0NUabOeCV.md) - [plain]
 | 99 | [No Se Olvida](https://open.spotify.com/track/4q97rK525tPgSCuxs8FaKe) | [Jay Menez](https://open.spotify.com/artist/5RVuxgqu3esPo4LIrf4HUs), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [No Se Olvida](https://open.spotify.com/album/6Qs5LGli3TakgNFunsGJ3y) | 3:29 |
 | 100 | [Como Tu Me Querias \- Remix](https://open.spotify.com/track/3YuQh5QyxcoqrBI7xWFan3) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Como Tu Me Querias \(Remix\)](https://open.spotify.com/album/1WN0Pi20lOvJCIcmldZ7EZ) | 3:38 |
 
-Snapshot ID: `MCw5YzUwN2M1MmNlYWY3NzVmMTc5YTRlZTNiMmI1MTZlYTY2Y2M5YmY3`
+Snapshot ID: `MCw3NTYzYjJhNGE2YmUwYjg2NzI1ZjlkYjA5ZTc1MzE1ZWI5NTkwMzAx`

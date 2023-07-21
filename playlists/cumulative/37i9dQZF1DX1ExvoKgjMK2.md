@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX1ExvoKgjMK2.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX1ExvoKgjMK2) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX1ExvoKgjMK2)
 
-### [쿠키런: 킹덤 ‘섬머소다 락페스타’  \(Cookie Run: Kingdom ‘Summer Soda Rock Festa’\)](https://open.spotify.com/playlist/37i9dQZF1DX1ExvoKgjMK2)
+### [Cookie Run: Kingdom ‘Summer Soda Rock Festa \(’쿠키런: 킹덤 ‘섬머소다 락페스타’\)](https://open.spotify.com/playlist/37i9dQZF1DX1ExvoKgjMK2)
 
 > 마침내 파인애플 섬에서 열리는 '섬머소다 락페스타'! 그 생생한 현장과 함께 뮤지션 쿠키들의 추천곡을 만나보세요! \(Finally, 'Summer Soda Rock Festa' held on Pineapple Island! Meet the recommended songs of musician Cookies along with the vivid scene!\)
 

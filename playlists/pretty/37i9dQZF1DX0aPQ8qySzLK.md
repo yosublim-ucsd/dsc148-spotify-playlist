@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aPQ8qySzLK.md) - [plain]
 | 56 | [Hey You](https://open.spotify.com/track/1TTB0XzXDWd0OIwnhFe8yN) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [The Ghost and the Wall](https://open.spotify.com/album/5XY9DCBsTFRKm6EHhc2pGo) | 3:26 |
 | 57 | [Head On](https://open.spotify.com/track/3uulUpw6IvYkNlig8clyKS) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Local Valley](https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m) | 4:45 |
 | 58 | [My Father's Daughter](https://open.spotify.com/track/2LxglhGxGhHF4P11HPEFwu) | [Olivia Vedder](https://open.spotify.com/artist/1cALtYxOIn4uWAfNdwcP4E), [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [My Father's Daughter \(From The “Flag Day” Original Soundtrack\)](https://open.spotify.com/album/7alk37quFoAf91whDEJ8a1) | 2:50 |
-| 59 | [Cold World](https://open.spotify.com/track/2WxZsGInatsAG5Z2NCgCHN) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Cold World](https://open.spotify.com/album/2HJxiWkcVAbXuOMaY5wEor) | 3:44 |
+| 59 | [Cold World](https://open.spotify.com/track/6vrfAwiU7e7pM8GSa3A75S) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Live Slow Die Wise](https://open.spotify.com/album/2exje2s1zj4OX3qIToppco) | 3:44 |
 | 60 | [Weatherman](https://open.spotify.com/track/0v8iaQnFPT8qkicB880pAr) | [Wild Rivers](https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5) | [Sidelines](https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP) | 3:05 |
 | 61 | [In The Summertime](https://open.spotify.com/track/3FHJjJV7HzkZUU7XdMV9QB) | [Taletta](https://open.spotify.com/artist/6x1ce1K5GZWggCkYDVTZwP) | [Cruel Joke](https://open.spotify.com/album/3XHPwHimw4VjTMSIdNgPCv) | 3:38 |
 | 62 | [Childhood](https://open.spotify.com/track/5FUOnXsUv0Ls9PjY0O6n7f) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [The Summer Isles](https://open.spotify.com/album/05HEBowDsH1MMkERUsn6Tl) | 5:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0aPQ8qySzLK.md) - [plain]
 | 99 | [Glenfern](https://open.spotify.com/track/1iMPbubqiY90hj16Y69d1D) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Total Freedom](https://open.spotify.com/album/4r9JtN20velFMF1kKXdey3) | 4:30 |
 | 100 | [Full Size Render](https://open.spotify.com/track/0eNHKjlypkRo1v9HZ8UOdM) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Full Size Render](https://open.spotify.com/album/0n7Wt3JEnLARfOgdCFnxIC) | 2:58 |
 
-Snapshot ID: `MCwzNTEyYmQ1ZTVjNTU1NTk2YTU0NWIxOTk5ZDg1ZWYwZTU4YjAxNmM4`
+Snapshot ID: `MCxmNzcxYzg5MmFmYTBlYTVlYmNiY2NhNjQ0YTdiZGQwZDM1NTJjNjg2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of Latinos in Hip\-Hop from the U.S.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,042 likes - 30 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,069 likes - 30 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 29 | [What It Takes](https://open.spotify.com/track/0Kp6qc08PPUKw9VLWuknAT) | [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D), [Paul Wall](https://open.spotify.com/artist/1ANtdpqM2CM6NRoiD5ffS9) | [What It Takes](https://open.spotify.com/album/05IhGWbXt3O7Ny3GZxKqX0) | 2:29 |
 | 30 | [Are We Really Free](https://open.spotify.com/track/3XDJen8F9IIGdBNJp5SheH) | [Emilio Rojas](https://open.spotify.com/artist/0ph1WGujzlmeYdaHfGf1co), [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Are We Really Free](https://open.spotify.com/album/0bHzwbqG82wGGuxqSq9JRO) | 4:47 |
 
-Snapshot ID: `MCw3ZDg5NjNkZWM1Y2QyZTZhNmEyNmRmNjEyMTczODZhYzQ4NWVmYTU3`
+Snapshot ID: `MCxkMWYzMjE2ZTAwMzUxYzA2NmFjMDY0YjZmZWU4ZGRlMzNlMGE2ZDlj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMRmURm95Lk.md) - [plain]
 
 > Beat e rime, oggi come una volta\. Johnny Marsiglia in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,679 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,691 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMRmURm95Lk.md) - [plain]
 | 99 | [Dio lodato per sta chanche](https://open.spotify.com/track/114hZLY1cAfvd9gFaDAxoN) | [Joe Cassano](https://open.spotify.com/artist/5ZPb4m701cVcj87M0qbqtL) | [Dio lodato](https://open.spotify.com/album/1LYlr506rnjgDipxwXwkzV) | 4:20 |
 | 100 | [Treddepomeriggio](https://open.spotify.com/track/4rHpOyjCOminwSgwxdVVpP) | [Er Costa](https://open.spotify.com/artist/7zfnElBFcdWC87g9HANXQ1) | [Treddepomeriggio](https://open.spotify.com/album/6zyQlLxLYMpuxYSw4ABYCF) | 3:03 |
 
-Snapshot ID: `MCxkNWE0MGZiZDczZjc4NjNjZDRhYjVlZWEzYWU0YzQwZmFjOGY5ZWU4`
+Snapshot ID: `MCw5ZGFmZGQ0MTllMjM2ZDJhNzM0N2Y1ZmZiNzI2NGI0ZjhkZmE4Mjlh`

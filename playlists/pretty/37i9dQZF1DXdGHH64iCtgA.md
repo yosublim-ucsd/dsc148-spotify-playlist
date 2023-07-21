@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 
 > Strut to electronic tracks that grace runways in Paris, New York City and Milan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,277 likes - 100 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,312 likes - 100 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 99 | [Helix \- Gesaffelstein Vision Remix](https://open.spotify.com/track/7Crjmkp1INHKL6dY9ofSMe) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Helix](https://open.spotify.com/album/6eBYtM0UvlNlOz2CZf61DH) | 4:36 |
 | 100 | [3AM IN CHELSEA](https://open.spotify.com/track/78Y0MDNQJea7OsrUpcatF2) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [DIAMOND TAPE](https://open.spotify.com/album/5LxQdOjqtNNq8CLLC4cS5P) | 4:06 |
 
-Snapshot ID: `MCw2YmZmNTdjNThiYTEyMDNjYjBmYTAyZTJkZDc3NDFlZjc0ZTAyOTg0`
+Snapshot ID: `MCw3OTJjMTU2ZDM3OTQ2NzQ1MzAzOWU5YWUwNjUwYmRiMjU0YzdjNTkx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HIvDVo75RY.md) - [plain]
 
 > Coming to Nashville for CMA Fest? Come visit Spotify House at Ole Red on Broadway\. We've curated an entire week of live music and artists just for you!
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,266 likes - 120 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,287 likes - 120 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HIvDVo75RY.md) - [plain]
 | 19 | [Somethin' Bout You](https://open.spotify.com/track/2hsarLx1u2OgOmkcJ8ejBm) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Somethin' Bout You](https://open.spotify.com/album/4ejJyrAvRvhVRadKmVPByS) | 2:36 |
 | 20 | [Long Live Cowgirls \(with Cody Johnson\)](https://open.spotify.com/track/10zKthVfvrwqNrczUL8EjW) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn), [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [White Buffalo](https://open.spotify.com/album/3fZ3XCeb1byqYJSJrgOAMI) | 3:05 |
 | 21 | [If He Wanted To He Would](https://open.spotify.com/track/3nei8eHEdiwwSfyoOCHPZI) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [P.S.](https://open.spotify.com/album/5HLVKjqh4u4a3NQhnxpz7i) | 2:54 |
-| 22 | [Beach Cowboy](https://open.spotify.com/track/2VW91TBVCqRKfyBg13EZjO) | [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [Sunshine State Of Mind](https://open.spotify.com/album/2k0fbMU8bNeifFGP2TzEVO) | 2:18 |
+| 22 | [Beach Cowboy](https://open.spotify.com/track/2VW91TBVCqRKfyBg13EZjO) | [Brian Kelley](https://open.spotify.com/artist/794JQDjUHmLaN7dtsv4lL9) | [Sunshine State Of Mind](https://open.spotify.com/album/2k0fbMU8bNeifFGP2TzEVO) | 2:18 |
 | 23 | [running back](https://open.spotify.com/track/1EYSzrOCc5qrDAu06iu2Px) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [running back / dirt on ‘em](https://open.spotify.com/album/3FPofXNyRlSjcg4tRqFqjt) | 3:07 |
 | 24 | [Nobody's Nobody](https://open.spotify.com/track/1Q7kOSZkgeCkVpWRmNBAcI) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Nobody's Nobody](https://open.spotify.com/album/0aaO6RwzguktkvFY9CxQYg) | 3:09 |
 | 25 | [you don't deserve a country song](https://open.spotify.com/track/6Ucd3amMzVE9d4UeimUUUS) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [you don't deserve a country song](https://open.spotify.com/album/2bjwSohuICaxJuvKX9Fh0M) | 3:10 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HIvDVo75RY.md) - [plain]
 | 86 | [Jesus and Joan Jett](https://open.spotify.com/track/0S2e09dlc561hiVKan4sgY) | [Kasey Tyndall](https://open.spotify.com/artist/08fvWshbReeOVorxMtddh2) | [Jesus and Joan Jett](https://open.spotify.com/album/37ZzP3oNVYJtInVPt24SMl) | 3:01 |
 | 87 | [If I Die Young Pt\. 2](https://open.spotify.com/track/7LjN25ppKfSfjIPOJxbH7v) | [Kimberly Perry](https://open.spotify.com/artist/3JFfODb5r2GSdBlweDQUE2) | [If I Die Young Pt\. 2](https://open.spotify.com/album/5gV76M8FAHa7APtrOoQbpV) | 3:23 |
 | 88 | [Good Days](https://open.spotify.com/track/48NLXTkqzEGtdfRYql36JJ) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky) | [Good Days](https://open.spotify.com/album/1xg7t7Srm6QlWRjemRjY6X) | 3:00 |
-| 89 | [Made By The Water](https://open.spotify.com/track/1jjSX5hBltBcySvMwc7spb) | [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [Sunshine State Of Mind](https://open.spotify.com/album/2k0fbMU8bNeifFGP2TzEVO) | 2:56 |
+| 89 | [Made By The Water](https://open.spotify.com/track/1jjSX5hBltBcySvMwc7spb) | [Brian Kelley](https://open.spotify.com/artist/794JQDjUHmLaN7dtsv4lL9) | [Sunshine State Of Mind](https://open.spotify.com/album/2k0fbMU8bNeifFGP2TzEVO) | 2:56 |
 | 90 | [The Next One](https://open.spotify.com/track/0i1xvUGf7dZmdgVuHdZ1PR) | [Payton Smith](https://open.spotify.com/artist/4ZLKYFbf4KJWJR0MeQWLEt) | [What Colors Your Wild](https://open.spotify.com/album/4xJLsQ9mLE6PJz7L4CWzow) | 3:34 |
 | 91 | [Dance With You](https://open.spotify.com/track/5SIb4S2seQAeCHPXxiNHBL) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Dance With You](https://open.spotify.com/album/7rbVJCe9cnXniQ9cgJW7lp) | 3:03 |
 | 92 | [Villain](https://open.spotify.com/track/0Fu3jq4NeOLatOXiLWVLO3) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Stronger Than I Am](https://open.spotify.com/album/1nBPIUJHyWiD0bvhQ8lGIg) | 2:56 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HIvDVo75RY.md) - [plain]
 | 119 | [Mockingbird](https://open.spotify.com/track/6fS1CEMY4LlvQNWuUMoWEQ) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Dying Star](https://open.spotify.com/album/0HglC8wDUKL0VV5KI31bqU) | 4:37 |
 | 120 | [Bad Day To Be A Cold Beer](https://open.spotify.com/track/4uzPHLZaHi2r99YMo6GAeG) | [Chase Rice](https://open.spotify.com/artist/6pBNfggcZZDCmb0p92OnGn) | [I Hate Cowboys & All Dogs Go To Hell](https://open.spotify.com/album/1YKEpL3pNDCbYH2zW06u9i) | 3:03 |
 
-Snapshot ID: `MCxiMDkzODg3NTNmOGE0MzhhMjk4NTJmMzcyZDQ4OWVkODhkOTg3YTQ0`
+Snapshot ID: `MCxkOGE1MjY4NDFhYjFjMDBiMWZmMTY4NTVkMDAxNWEyODlkYmM3MTc0`

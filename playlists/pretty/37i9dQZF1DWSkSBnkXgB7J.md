@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 
 > Everything you need to hear from the most exciting artists\. Handpicked by our editors\. Cover: Mohammed Saeed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,885 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,897 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 | 3 | [بخاف](https://open.spotify.com/track/2zU9EApSRrWQuCOGTsPBFj) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [بخاف](https://open.spotify.com/album/6HVGI0FKmqVz8RmOO7p39l) | 3:39 |
 | 4 | [DRAILL](https://open.spotify.com/track/2UYZDBQ89KYUdU3CspLZJ2) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [DRAILL](https://open.spotify.com/album/4Sx9SrFQdcCD5pSY6bwU8M) | 3:40 |
 | 5 | [ديدي](https://open.spotify.com/track/5pr1lDwkRKvlUaqlLdA008) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [ديدي](https://open.spotify.com/album/2dsQxG9oNb139KGSePZ4Gv) | 3:25 |
-| 6 | [شفتها وعقلي راسا طار](https://open.spotify.com/track/7ypmlaEF73dkmyo6KKOgeL) | [Ghaith Sabah](https://open.spotify.com/artist/7ktjzPxDqpXT76PMmIHIyT) | [شفتها وعقلي راسا طار](https://open.spotify.com/album/6HIocR1nRFrIoK3lZn8YOV) | 1:45 |
+| 6 | [شفتها وعقلي راسا طار](https://open.spotify.com/track/2hXeiHmVkR1DNL99tr7Rf2) | [Ghaith Sabah](https://open.spotify.com/artist/7ktjzPxDqpXT76PMmIHIyT) | [شفتها وعقلي راسا طار](https://open.spotify.com/album/51jxRscBO8Hy26XA2zWIvq) | 1:45 |
 | 7 | [Mehtar](https://open.spotify.com/track/0HOuIvqIhg8gmLSmh8tbOD) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [Mehtar](https://open.spotify.com/album/0JuLiEE1xg9UPf9M6KHqC7) | 3:27 |
 | 8 | [عشانك](https://open.spotify.com/track/7M6I8pnU95G2iImrR0PjIR) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [عشانك](https://open.spotify.com/album/56AVpqfi0bb5Er9csg3gnk) | 3:07 |
 | 9 | [GTA](https://open.spotify.com/track/0B7mwv8jBRezE486YKjGit) | [Almena](https://open.spotify.com/artist/3dwnBsNq4R18t5SYNqJL37) | [GTA](https://open.spotify.com/album/0foaspvPQUgI5DvXXxHZ9T) | 3:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkSBnkXgB7J.md) - [plain]
 | 49 | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/track/4sofJiicQwKsRo3S1vpt39) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r), [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [Turning Me Up \(Hadal Ahbek\)](https://open.spotify.com/album/4iVUZYC6NjKXt4jOh14dTb) | 2:24 |
 | 50 | [Is It On](https://open.spotify.com/track/3eAbgCZEVjCswZQBx72mcP) | [AleXa](https://open.spotify.com/artist/4jCGRzuZkwo8CxboiANMEU), [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [Is It On](https://open.spotify.com/album/05OAVuzoOBqrhc0wnQjENW) | 3:44 |
 
-Snapshot ID: `MCwyMDY1NTgwYmMzOThlMzIwNWUwNzg1NWM3ZDFhZTM3NmYyY2U2Zjc1`
+Snapshot ID: `MCw5OWZjMjU1NDJjNmM4Y2I0MWU3NWFlMzM3NGEwNDFjYTNlMDA4NjJj`

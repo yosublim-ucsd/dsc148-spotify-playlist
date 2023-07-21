@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> Mellow & sentimental K\-Pop ballads\. \(Cover:ZIA\(지아\)\) \(당신의 감성에 발라드, 려요\)
+> Mellow & sentimental K\-Pop ballads\. \(Cover:Jo Hyun Ah\(조현아\)\) \(당신의 감성에 발라드, 려요\)
 
-950 songs - 2 day 13 hr 44 min
+953 songs - 2 day 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -502,6 +502,7 @@
 | [LOVE PROCESS Act 3:Farewell\(Woman's Story\) \- No More Love](https://open.spotify.com/track/6ZcntF0MCIZEzi1XHYiRjP) | [Ryeowon](https://open.spotify.com/artist/18N3eeeRpVuRfPuk6GF7rp) | [LOVE PROCESS Act 3:Farewell\(Woman's Story\) \- No More Love](https://open.spotify.com/album/5seo7nROqNTWa0l88SmDRn) | 3:59 | 2022-07-07 | 2022-08-13 |
 | [Love Story](https://open.spotify.com/track/1W1MrDI5YVuKb9pgCYH3iE) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [Love Story \(4 Season Project 季\) \- The 4th Mini Album](https://open.spotify.com/album/4mn3WfpV1xpo65yxoCdSgy) | 4:23 | 2022-01-25 | 2022-04-09 |
 | [Love Things](https://open.spotify.com/track/0XIy3jZASGk60aT8i8Ri2g) | [HYOJIN](https://open.spotify.com/artist/2ZSycsw08uAqPhM7j37Slg) | [Love Things](https://open.spotify.com/album/5BMWCz8yepMfdYuAWU9Yrz) | 3:57 | 2023-02-14 | 2023-04-27 |
+| [Love War](https://open.spotify.com/track/3ZLH3WCaGQ2mvynea5a29s) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Love War](https://open.spotify.com/album/59DdpwFqZnqs1Bz4bgKxW7) | 4:00 | 2023-07-20 |  |
 | [Love Without Pain](https://open.spotify.com/track/114JstNdrTd5rsVce9lrpQ) | [Choi Yuree](https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v) | [Call It Love, Part 4 \(Original Soundtrack from the Disney+ Original Series\)](https://open.spotify.com/album/1bRYXvLc2G48EXhCxwxfyp) | 3:38 | 2023-03-27 |  |
 | [Love\(2023\)](https://open.spotify.com/track/0lIJtNAYZctC1ikLeKRf4M) | [JEON WOO SUNG](https://open.spotify.com/artist/4wX95R4bzGztvCtWuRqJdH) | [Beginning is the First Kiss \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/3yPGbYR2KzFo6ycuAYOfoq) | 4:18 | 2023-05-03 |  |
 | [Love, ing](https://open.spotify.com/track/53NfwDBeFuzW8eDxEQyCJd) | [Sun Ye](https://open.spotify.com/artist/7CBvUrPXH5uzagKCfAS54Q) | [Love, ing](https://open.spotify.com/album/0Rx8VbEuZPctmQeeS3p8qL) | 4:33 | 2022-03-31 | 2022-04-19 |
@@ -511,6 +512,7 @@
 | [Luminous](https://open.spotify.com/track/3fQTr5geEQ2q8kgdqx44gl) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [Poong, the Joseon Psychiatrist OST Part.4](https://open.spotify.com/album/0K7sbRFoVG6tH1f52CfqMl) | 3:19 | 2022-08-25 | 2022-12-27 |
 | [Making a new ending of this story](https://open.spotify.com/track/6iFiFPKRQ2o8Uc6BmZjRXp) | [Tei](https://open.spotify.com/artist/0pnTDtr7r9ThLMVrEZ6byK) | [Making a new ending of this story](https://open.spotify.com/album/27CmqxjUNNVapmhp5ONnQy) | 4:25 | 2023-01-10 | 2023-02-25 |
 | [Marry Me](https://open.spotify.com/track/60XDBmcTUepDSF6CvCsUJQ) | [Hwang Inhyeock](https://open.spotify.com/artist/28OLqzxmCoA3k8XQQXU3To) | [Marry Me](https://open.spotify.com/album/1UyAxLJHTTbz6JXX3kFzn1) | 3:58 | 2023-07-17 |  |
+| [Marry Me \(My love X Yang Da Il\)](https://open.spotify.com/track/6UrHnv2u6riHP1wSZdL7aP) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Marry Me \(My love X Yang Da Il\)](https://open.spotify.com/album/7aezS6OsSSjloT2u2xD4AN) | 4:16 | 2023-07-20 |  |
 | [May I love you](https://open.spotify.com/track/4Q0abYbjqmNBC4KEd3JfnL) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [May I love you](https://open.spotify.com/album/6DEUPpKn8fR1m5sY0Yfwzv) | 3:29 | 2023-01-20 | 2023-03-28 |
 | [Maybe I am](https://open.spotify.com/track/6r6CGnSzirRWxfmzOQHQfw) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [I'm](https://open.spotify.com/album/085XU5PQYl7eUA97BkkE8Z) | 3:48 | 2021-12-23 | 2022-07-01 |
 | [Maybe love](https://open.spotify.com/track/0pHoqvvME1oHFSErpiLXmp) | [Bubble Sisters](https://open.spotify.com/artist/1jZ9R8RNpwVBJTf8Qg96a7) | [Maybe love](https://open.spotify.com/album/3gxYwjjvdkOWVwKCblRuSg) | 3:39 | 2022-09-05 | 2022-12-27 |
@@ -598,6 +600,7 @@
 | [One Day](https://open.spotify.com/track/7KxN7XkeoOZVHZReGEeO7y) | [Solji](https://open.spotify.com/artist/54EEMb9uR0v9PWoWtQhTEo) | [Find Me In Your Memory \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/6k1q8lFDc6AC6NTVzcZxFj) | 4:05 | 2022-03-31 | 2022-06-06 |
 | [One Day More](https://open.spotify.com/track/4nr85wYs3ZaCTSOm8oPa3J) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [One Day More](https://open.spotify.com/album/6LqipT57Al2ZKzFdhhcz68) | 4:07 | 2021-12-20 | 2022-07-08 |
 | [One Day More](https://open.spotify.com/track/4qWFcJD1YKqNXDSP2BdeLp) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Born \(本\)](https://open.spotify.com/album/4vqaCThesmLShHPsTJ38tO) | 4:08 | 2023-05-05 | 2023-05-16 |
+| [One Late Night In 1994](https://open.spotify.com/track/1bHEMyPGu9H0NGlS9Vxpsf) | [Jo Hyun Ah](https://open.spotify.com/artist/7aVeZFWXIC3g4b0Tn68ZtI) | [One Late Night In 1994](https://open.spotify.com/album/0MLfjnIKcI9hY4UhLI1e85) | 3:50 | 2023-07-20 |  |
 | [One More Time](https://open.spotify.com/track/0EjyI90qLsPr9CXO1kyjJQ) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Star](https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7) | 4:04 | 2022-06-15 | 2022-08-19 |
 | [ONE ROOM](https://open.spotify.com/track/6TeiNdpV8PMX4TAlf5fY4b) | [Lee Ki\-chan](https://open.spotify.com/artist/06lmDAKbe4tXjN9m7bRaQj) | [ONE ROOM](https://open.spotify.com/album/04EzWMvT1s3D2Q26JbDiKz) | 5:05 | 2021-12-23 | 2022-01-01 |
 | [One Small Day](https://open.spotify.com/track/0yWidm1JpKns67r0W3oTUc) | [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [Welcome to the Kicako House 2](https://open.spotify.com/album/24cIjlP36dlt3XsERLqrrE) | 4:12 | 2023-01-10 | 2023-02-25 |

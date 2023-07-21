@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 
 > Iconic instrumentals from the history of Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,767 likes - 80 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,844 likes - 80 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUXCbzCkRVP.md) - [plain]
 | 79 | [The Messiah Will Come](https://open.spotify.com/track/0slDISVZUMJaIB85uEYIAu) | [Jimmy Thackery And The Drivers](https://open.spotify.com/artist/00f9rh6qgLy3a4eYqugUyg) | [True Stories](https://open.spotify.com/album/6zOeNQ5ynaT2DwlRUiYDr9) | 9:24 |
 | 80 | [Dockside Boogie](https://open.spotify.com/track/0GJ71mJKG0FSPMS13GSFzD) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Long Way Home](https://open.spotify.com/album/2L0UmVlogWkTQL7WCatEha) | 5:40 |
 
-Snapshot ID: `MCwyYzY3NzlhY2M1NTBlYzQyMDc5NjUyMGI1Yzg2Zjk2ZWQyNjE0OWE0`
+Snapshot ID: `MCxiMGJjYWIyN2FiNDZkODIzMTQ2YTUwMjZlMTNhMzUwNmU2NDJiODJk`

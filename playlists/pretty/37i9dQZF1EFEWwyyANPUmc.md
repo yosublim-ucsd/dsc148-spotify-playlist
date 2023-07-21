@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEWwyyANPUmc.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2jEhW8ABFUBCiDxJs9q322">Emy Perez</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194 likes - 52 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 194 likes - 54 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEWwyyANPUmc.md) - [plain]
 | 46 | [Slow Motion \(feat\. Emy Perez\)](https://open.spotify.com/track/7tHB3Fd9rEOjinXVtU7OBH) | [Manuel Riva](https://open.spotify.com/artist/2hkGkEnyudpE42IU4DBt99), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Slow Motion \(feat\. Emy Perez\)](https://open.spotify.com/album/2NaOWLlq2QIQ8GFDDS8erp) | 3:46 |
 | 47 | [Laat Maar Van Je Houden](https://open.spotify.com/track/2bt1VOjF1jAgVj5UbTJpvR) | [Déon Leon](https://open.spotify.com/artist/3oaUkKeOrroHK6zxaMttCj) | [Laat Maar Van Je Houden](https://open.spotify.com/album/2wLv8ycuJ67wkFXFAVoWFm) | 2:56 |
 | 48 | [Get Loud](https://open.spotify.com/track/4Qc8QOOGFtxtnfIvG2QwXa) | [Mike Hawkins](https://open.spotify.com/artist/0eW2N88UpBG0giW7LJOaY2), [Kazu](https://open.spotify.com/artist/2OnRP9Tjxupbg23o1NekP0), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Family Matters, Vol\. 1](https://open.spotify.com/album/6D7ltbx4sEldooTWzlCGXX) | 2:54 |
-| 49 | [La Noche](https://open.spotify.com/track/2MurtNOTSzfR3UDmiM6qKu) | [Luca Rezza](https://open.spotify.com/artist/5dJQQmKFxJoEovL4YqImlJ), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Wobblestep EP](https://open.spotify.com/album/0O5np1Eu0H7DphgWg33g8N) | 3:06 |
-| 50 | [Everything I Need](https://open.spotify.com/track/1g9eAXqn01rtonJSVeSmPI) | [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [Get Ready To Dance](https://open.spotify.com/album/72L6q1LIFxsOWQK6fKzYI5) | 2:47 |
-| 51 | [Till The Sun Comes Down](https://open.spotify.com/track/0lXHqJQ08GGhJMQN0WQEgd) | [SOLR](https://open.spotify.com/artist/11XEv1va5mCLuFxuKMaOUh), [The Trixx](https://open.spotify.com/artist/3E3y0s1aMZIQYD9ExbitIT), [Emy](https://open.spotify.com/artist/1VFBjda5d9AXc2QUweoi85) | [Till The Sun Comes Down](https://open.spotify.com/album/6dElwID4F5wWBRGxXQJXP0) | 3:54 |
-| 52 | [Honest](https://open.spotify.com/track/1zfLmKG6W76HcNwfT8yI3G) | [Matt Florgan](https://open.spotify.com/artist/1hyFVrYjtDUnLJVzjMprlZ), [Davis Mallory](https://open.spotify.com/artist/36jYAd2YSZ3xc21LNvMPPV) | [Honest](https://open.spotify.com/album/2d1PTvc0fyrS9wDLGKyF6r) | 2:24 |
+| 49 | [Get Ready To Dance](https://open.spotify.com/track/0rcNmoaGUvToo8Br2itnSH) | [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [Get Ready To Dance](https://open.spotify.com/album/72L6q1LIFxsOWQK6fKzYI5) | 3:19 |
+| 50 | [La Noche](https://open.spotify.com/track/2MurtNOTSzfR3UDmiM6qKu) | [Luca Rezza](https://open.spotify.com/artist/5dJQQmKFxJoEovL4YqImlJ), [Emy Perez](https://open.spotify.com/artist/507dlbjxTi8gIAW8tPl5EF) | [Wobblestep EP](https://open.spotify.com/album/0O5np1Eu0H7DphgWg33g8N) | 3:06 |
+| 51 | [Glide](https://open.spotify.com/track/1aM6hLSZycwIfqXF8UQb1Y) | [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [Get Ready To Dance](https://open.spotify.com/album/72L6q1LIFxsOWQK6fKzYI5) | 2:44 |
+| 52 | [Everything I Need](https://open.spotify.com/track/1g9eAXqn01rtonJSVeSmPI) | [Gerard Joling](https://open.spotify.com/artist/5V2zReaoPvB7EsZ4160uLG) | [Get Ready To Dance](https://open.spotify.com/album/72L6q1LIFxsOWQK6fKzYI5) | 2:47 |
+| 53 | [Till The Sun Comes Down](https://open.spotify.com/track/0lXHqJQ08GGhJMQN0WQEgd) | [SOLR](https://open.spotify.com/artist/11XEv1va5mCLuFxuKMaOUh), [The Trixx](https://open.spotify.com/artist/3E3y0s1aMZIQYD9ExbitIT), [Emy](https://open.spotify.com/artist/1VFBjda5d9AXc2QUweoi85) | [Till The Sun Comes Down](https://open.spotify.com/album/6dElwID4F5wWBRGxXQJXP0) | 3:54 |
+| 54 | [Honest](https://open.spotify.com/track/1zfLmKG6W76HcNwfT8yI3G) | [Matt Florgan](https://open.spotify.com/artist/1hyFVrYjtDUnLJVzjMprlZ), [Davis Mallory](https://open.spotify.com/artist/36jYAd2YSZ3xc21LNvMPPV) | [Honest](https://open.spotify.com/album/2d1PTvc0fyrS9wDLGKyF6r) | 2:24 |
 
-Snapshot ID: `MjgxNjIyNzgsMDAwMDAwMDBlMmI1YjE3M2JhMDA3NmUxNzI0MmRmYmE1MzQ4NGNiZQ==`
+Snapshot ID: `MjgxNjUwOTAsMDAwMDAwMDA3MzZiMmM5YjkwNDg5NTczMWQ1ODNkNDhhN2YwYTE1Zg==`

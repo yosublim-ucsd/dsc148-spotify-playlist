@@ -955,6 +955,24 @@
     },
     {
       "album": {
+        "name": "DA PAURA",
+        "url": "https://open.spotify.com/album/2Q4126DBdA4sZV5X5xdoiW"
+      },
+      "artists": [
+        {
+          "name": "PRINCIPE",
+          "url": "https://open.spotify.com/artist/4HMDZbjY9Z61hRXh4ggzPH"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136068,
+      "name": "DA PAURA",
+      "url": "https://open.spotify.com/track/5RtW8gQnmnf2tI6XOaxVlb"
+    },
+    {
+      "album": {
         "name": "TAXI DRIVER",
         "url": "https://open.spotify.com/album/4D04TN7Kw7Bq98kfDjUmgh"
       },
@@ -1054,6 +1072,24 @@
       "duration_ms": 140272,
       "name": "diverso",
       "url": "https://open.spotify.com/track/4omys4THmkfq2t3NUSx14d"
+    },
+    {
+      "album": {
+        "name": "Domani ci passa",
+        "url": "https://open.spotify.com/album/1CxqsMftYqwpHFyV0llE5q"
+      },
+      "artists": [
+        {
+          "name": "Ludwig",
+          "url": "https://open.spotify.com/artist/5RXnKYBIxi8zcFNCz03T71"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145462,
+      "name": "Domani ci passa",
+      "url": "https://open.spotify.com/track/3elLXGwE5zaREuOzWdlRJ2"
     },
     {
       "album": {
@@ -2094,7 +2130,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 144183,
       "name": "Mi Manchi Per\u00f2",
       "url": "https://open.spotify.com/track/2k8MzzRiYNbjEvqFRJ666l"
@@ -2358,7 +2394,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 190589,
       "name": "Non Piove Pi\u00f9",
       "url": "https://open.spotify.com/track/6CJC0Dgf1oMOr8dlQKKMOs"
@@ -2376,7 +2412,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 164884,
       "name": "Non Ti Levo Dalla Testa",
       "url": "https://open.spotify.com/track/0i03V0gL4bx2EaGg2KVjPP"
@@ -2460,7 +2496,7 @@
       },
       "artists": [
         {
-          "name": "Matteo Paolillo - Icaro",
+          "name": "Matteo Paolillo",
           "url": "https://open.spotify.com/artist/1bzx15Bv1ioIaewP85ad5J"
         },
         {
@@ -2729,6 +2765,24 @@
     },
     {
       "album": {
+        "name": "Piango In Discoteca",
+        "url": "https://open.spotify.com/album/1anbRiJBO8gwQigkTZrtQD"
+      },
+      "artists": [
+        {
+          "name": "Mara Sattei",
+          "url": "https://open.spotify.com/artist/0zoMmzmyi8N8LwzhyXPvtk"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199845,
+      "name": "Piango In Discoteca",
+      "url": "https://open.spotify.com/track/3Pc1M4PKxL8LhZ6nDMLAWJ"
+    },
+    {
+      "album": {
         "name": "Piccoli ricordi",
         "url": "https://open.spotify.com/album/6EfIFS3aHzUkIgyLN8zmlg"
       },
@@ -2886,6 +2940,28 @@
       "duration_ms": 144278,
       "name": "Ricordarmi di scordarti",
       "url": "https://open.spotify.com/track/7HfIA6XWVZWsLC7SSBdavy"
+    },
+    {
+      "album": {
+        "name": "Rivoluzione!",
+        "url": "https://open.spotify.com/album/5jFiLe8UahShhjZyUhmnkM"
+      },
+      "artists": [
+        {
+          "name": "Sethu",
+          "url": "https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5"
+        },
+        {
+          "name": "Jiz",
+          "url": "https://open.spotify.com/artist/38CThoTDmXugNnfonW466d"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161269,
+      "name": "Rivoluzione!",
+      "url": "https://open.spotify.com/track/4OYZLVdGFBHJ8UQcRbU3Ny"
     },
     {
       "album": {
@@ -3124,7 +3200,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 137062,
       "name": "SISSI",
       "url": "https://open.spotify.com/track/64Rux1qrtoeSTrRxa0mzcI"
@@ -3334,7 +3410,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 209062,
-      "name": "TANGO - Sanremo 2023",
+      "name": "TANGO",
       "url": "https://open.spotify.com/track/7CufDALaisOBzcT0nfeaZF"
     },
     {

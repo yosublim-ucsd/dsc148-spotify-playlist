@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lkAsA4QOXG.md) - [plain]
 
 > Covers of classic songs with a touch of Jazz\. Cover: Jamie Cullum
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,348 likes - 150 songs - 11 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,442 likes - 150 songs - 11 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lkAsA4QOXG.md) - [plain]
 | 149 | [Exile](https://open.spotify.com/track/1FOYXwmCeH2CCgEKAdnBGw) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Exile](https://open.spotify.com/album/4xKKdNlF9w7oFoZiOc2WcH) | 3:45 |
 | 150 | [Something](https://open.spotify.com/track/4XbKuAikkAMr9V4DZXtIwm) | [J for Jazz](https://open.spotify.com/artist/7LJf4Jb42GSmUNGN2Zglk3) | [Something](https://open.spotify.com/album/0vGRBkBvjA07b06LVbLzSI) | 2:48 |
 
-Snapshot ID: `MCxkNzk2ZDVkMzA2YjQ5ODYxN2FhOWI4ZTM5ZGU3MTA2YmI3ZWQzYjcz`
+Snapshot ID: `MCxlMWI1MjM4ZDc1ZDhjYmRkMDExM2I2YzkxZTgyYWUxM2QyOTU1OTE5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 
 > Let's party with cheerful Korean trot medley\. Cover: Na Hoon\-a\(나훈아\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,164 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,167 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6i7txhF59QA.md) - [plain]
 | 99 | [Reverse life:Poor man](https://open.spotify.com/track/1cDXyQY46sDcMuWVOHVig0) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Music source of Mr.Trot FINAL BEST](https://open.spotify.com/album/0a0OP2lSNZKyiH8nsQ92bk) | 3:16 |
 | 100 | [I happened to see her](https://open.spotify.com/track/2dJWB9GmhYlQGSr2gbuH8q) | [Noh Jihun](https://open.spotify.com/artist/0hKPEEvGtYQOod7pjcaJ1D) | [Music source of Mr.Trot Trot Aid Best](https://open.spotify.com/album/14UvNhswZOXciZ2nH0d9uR) | 3:10 |
 
-Snapshot ID: `MCwwNDkwMGY5YTBlMGJiNGViNzcwNjNhNjA5ZjY1YmJkMDM5YTU3NmIy`
+Snapshot ID: `MCwwYTRlOTYzMzU1ODQwNThlYTU3ZjliNGZlN2JjYTRiOTIxZmM5YjY2`

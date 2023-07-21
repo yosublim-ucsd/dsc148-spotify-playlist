@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,199,905 likes - 214 songs - 11 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,200,246 likes - 214 songs - 11 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -223,4 +223,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRc3WJklgBs.md) - [plain]
 | 213 | [More Than A Feeling \(feat\. Grace Tither\)](https://open.spotify.com/track/55dEeQaniZNKnePkzZNJGg) | [Blinkie](https://open.spotify.com/artist/0nJcDqY6ox4kHB92AuRA8j), [Grace Tither](https://open.spotify.com/artist/0W2uPY2bPqyGxEYBJUuHfa) | [More Than A Feeling \(feat\. Grace Tither\)](https://open.spotify.com/album/2qkuefgzRm1yK8ckW9iR22) | 3:27 |
 | 214 | [Take A Chance](https://open.spotify.com/track/6KJBwR1yrqviwL31XRpu3n) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Greatest Tits](https://open.spotify.com/album/3yZSOcz06tt6XFh5sWGnkI) | 4:24 |
 
-Snapshot ID: `MCw3YWFmY2JhN2ViOGQxNGRjNGU0NzBlNWIwNDM3M2UwZGRhOTVhOTA4`
+Snapshot ID: `MCw5MTk2NzM3OTA4MWE4ODNiZThiZDliN2VmYTk3NzgzNjA1ZjJlMDI2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ8Cy8eCcjXW.md) - [plain]
 
 > The genre\-bending singer's essential hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 412,959 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 413,201 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ8Cy8eCcjXW.md) - [plain]
 | 47 | [Warm Winds \(feat\. Isaiah Rashad\)](https://open.spotify.com/track/0Kz9aGVgFvndWkcaiylIt5) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM) | [Z](https://open.spotify.com/album/2qCyMMQ785sPH4Yx25GQZ8) | 5:50 |
 | 48 | [West Savannah \(feat\. SZA\)](https://open.spotify.com/track/0Gt4nGWoATcQFL38a1NRao) | [Isaiah Rashad](https://open.spotify.com/artist/6aaMZ3fcfLv4tEbmY7bjRM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Cilvia Demo](https://open.spotify.com/album/6JF49ixyHmOgS0Rsda2k42) | 2:47 |
 | 49 | [Neva CHange](https://open.spotify.com/track/6tPDalwocS7zgeFpYi3xtr) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Blank Face LP](https://open.spotify.com/album/0YbpATCIng8Fz2JrfHmEf7) | 4:30 |
-| 50 | [Gods Reign \(feat\. Sza\)](https://open.spotify.com/track/5WqfumG2Ohc6ranjWl2n8i) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [These Days...](https://open.spotify.com/album/021zMZKO2pUA3yoUQFW2uy) | 4:18 |
+| 50 | [Gods Reign](https://open.spotify.com/track/4MaI1E1CQfm15THfV0WUIE) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [These Days...](https://open.spotify.com/album/36V9Nypcss9ybEKKmPBhin) | 4:18 |
 
-Snapshot ID: `MCxhNDc4Y2EwOTQ5ODQ4OTExM2JjOWE1YzYxODAwNjY1YWE3NTY4MDU5`
+Snapshot ID: `MCwyYzExMThmZGQ4NTFlMTRmZDU0OWFjNDMxYTU0YTlhZTU4YTc5YjU4`

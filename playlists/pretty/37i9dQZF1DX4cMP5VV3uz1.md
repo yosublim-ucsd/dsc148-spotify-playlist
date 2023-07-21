@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 
 > Filthy bass bangers to soundtrack your sesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,643 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,711 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 74 | [Freak](https://open.spotify.com/track/3N91W3DTKztqbzPbOEw4Pf) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki) | [Freak](https://open.spotify.com/album/7u1ntC7BodnMAw78I502bN) | 3:09 |
 | 75 | [Mash up the Dance \- Kings of the Rollers Remix](https://open.spotify.com/track/3hHgU7QO5ev5R6FZVsPsJZ) | [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ), [Kings Of The Rollers](https://open.spotify.com/artist/3OHnTiMsWYjSyj52aKmrBP) | [Mash up the Dance \(Kings of the Rollers Remix\)](https://open.spotify.com/album/6FS0y1f1pL45RPIWr6kYl0) | 2:57 |
 
-Snapshot ID: `MCxmZjdlOWM4Zjk4OGNiYzEyZDk2OWQ3ZmM4YzliNTNjNTNhOTg5MTNm`
+Snapshot ID: `MCw2OGM5YTUxNjAxY2ZmMzNiY2Q2ZTY3NzcyYWJlYjMyMTU5OGNiOWZi`

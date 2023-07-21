@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Pqxel6mitp.md) - [plain]
 
 > A cup of Joe and the raw Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,716 likes - 120 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,766 likes - 120 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Pqxel6mitp.md) - [plain]
 | 119 | [Rainy Day Blues](https://open.spotify.com/track/705dziPMwWKnhm3LPgn4o7) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Singles](https://open.spotify.com/album/7jpPnxy9JeYTcF2dHlpr4A) | 2:14 |
 | 120 | [Small Town Nashville Blues](https://open.spotify.com/track/40hxZyIGMPdymJB5DWiJei) | [Cristina Vane](https://open.spotify.com/artist/7lfl96v1nJCpVeAmr6lgJD) | [Make Myself Me Again](https://open.spotify.com/album/6MlhXUHL77RMMOhBw1OHre) | 2:49 |
 
-Snapshot ID: `MCw1NzM4NGNmNmIyNjFiZGQyMzRiYjk4ZWMxMGYyZDE4YmE2ZTcyODAw`
+Snapshot ID: `MCxlMTZkOTY3MmVmNmQyYzliOGEyNzlkMjQ5NGQ3ZGFiNjdmNjZmNTYx`

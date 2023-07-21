@@ -4,7 +4,7 @@
 
 > Let these happy tunes put a smile on your face\. Cover \- Jab Harry Met Sejal
 
-135 songs - 8 hr 30 min
+136 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Jaane Kyun](https://open.spotify.com/track/2XecqQiPVkouS73OYRzDC6) | [Aditi Singh Sharma](https://open.spotify.com/artist/4iW4xSfMEIvrXM0Iu3aFDY), [Reena Gilbert](https://open.spotify.com/artist/0MTZdlgu4KBHtWotp2ShV0) | [Jaane Kyun](https://open.spotify.com/album/35tiVpTGRw9i7dBL9wUZ6J) | 2:19 | 2023-03-15 | 2023-04-20 |
 | [Jaane Kyun](https://open.spotify.com/track/6M2UnI1LnXuXlWU54CKmKx) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Dostana \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4MzefJUmigFTnjful2wuum) | 4:37 | 2023-02-20 |  |
 | [Jaane Kyun \(From "Dostana"\)](https://open.spotify.com/track/4w90JoFrkoYfxe4S8DWD7T) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k) | [Best of Me Vishal Shekhar](https://open.spotify.com/album/6uxRlKbjePj7hvCiHV5y3k) | 4:37 | 2022-03-09 | 2023-02-21 |
+| [Janiye \(from the Netflix Film "Chor Nikal Ke Bhaga"\)](https://open.spotify.com/track/0645eBDehHcqfiF15hscQV) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Janiye \(from the Netflix Film "Chor Nikal Ke Bhaga"\)](https://open.spotify.com/album/0kZKLq2WZQWvXvbxvK6YoC) | 3:43 | 2023-07-20 |  |
 | [Jeet](https://open.spotify.com/track/2nEntnpNpsJNhw1wLY8O96) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Ved](https://open.spotify.com/album/7LPx9F9ZQWWvQlKgIQi1OZ) | 3:04 | 2022-07-17 | 2023-02-11 |
 | [Jeet](https://open.spotify.com/track/4ye8U0982eHtlhlvePpxtP) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Jeet](https://open.spotify.com/album/6OiuCvQifZVGD0DANTN2IL) | 3:04 | 2022-03-09 | 2022-07-29 |
 | [Jehda Nasha \(From "An Action Hero"\)](https://open.spotify.com/track/45C7tXCrmp3R5E65XUtLLj) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Faridkot](https://open.spotify.com/artist/6JUEjbhKiAZFmMRrudNHgL), [Yohani](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI), [Amar Jalal](https://open.spotify.com/artist/2zZ39d8KJqwu7TkF4dEh03), [Harjot Kaur](https://open.spotify.com/artist/4xPHVHq5B7BX0h8XCOYWQw) | [Jehda Nasha \(From "An Action Hero"\)](https://open.spotify.com/album/2ishN6ZECK81K6uRwPd7RH) | 3:42 | 2022-11-17 | 2023-05-31 |
@@ -141,7 +142,7 @@
 | [Woh Din \(From "Chhichhore"\)](https://open.spotify.com/track/6QPFWNUw9iGFZAXgqecunp) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [TUSHAR JOSHI](https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH) | [Woh Din \(From "Chhichhore"\)](https://open.spotify.com/album/6AO0pgr8j2uk3fQUmXR8lF) | 5:12 | 2022-03-09 |  |
 | [Yaara](https://open.spotify.com/track/0TVBV9UbyZWxELfzkCBLSP) | [Parashar Joshi](https://open.spotify.com/artist/7Bd5pUaYhC7HnLzgBAm0hr) | [Yaara](https://open.spotify.com/album/4HKTlVnLYqqJ0BOSVH3QQq) | 3:41 | 2023-02-13 | 2023-02-21 |
 | [Zinda Dili](https://open.spotify.com/track/1ZVM6nEcLkBQAawbYufNZI) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Zinda Dili](https://open.spotify.com/album/7prHHqIuqWWhUCExOQP9Jq) | 3:59 | 2022-03-09 | 2023-02-11 |
-| [Zinda Dili 2.0](https://open.spotify.com/track/5RPa4SX7owbixtbigFPcJZ) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Anshuman Sharma](https://open.spotify.com/artist/3rNr8T39bUi3dYfiqffp8w) | [Zinda Dili 2.0](https://open.spotify.com/album/6tGKLoPQFiuTbRS43Kuvd7) | 4:24 | 2023-05-24 |  |
+| [Zinda Dili 2.0](https://open.spotify.com/track/5RPa4SX7owbixtbigFPcJZ) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Anshuman Sharma](https://open.spotify.com/artist/3rNr8T39bUi3dYfiqffp8w) | [Zinda Dili 2.0](https://open.spotify.com/album/6tGKLoPQFiuTbRS43Kuvd7) | 4:24 | 2023-05-24 | 2023-07-21 |
 | [Zindagi Aa Raha Hoon Main](https://open.spotify.com/track/2I2NQ6nvVLKRHya5iB0rEB) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Amaal Mallik](https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6) | [Zindagi Aa Raha Hoon Main](https://open.spotify.com/album/5MpTGWKK2LOba6aLCXVKrr) | 4:47 | 2022-03-09 | 2023-05-19 |
 
 \*This playlist was first scraped on 2022-04-30. Prior content cannot be recovered.

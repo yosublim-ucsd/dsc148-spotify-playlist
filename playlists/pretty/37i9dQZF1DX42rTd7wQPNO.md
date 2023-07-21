@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42rTd7wQPNO.md) - [plain]
 
 > put a little yee haw in your laid back
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,728 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,180 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,7 +77,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42rTd7wQPNO.md) - [plain]
 | 67 | [Everywhere \- 2017 Remaster](https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:46 |
 | 68 | [Don't Let The Good Life Pass You By](https://open.spotify.com/track/4Z2PtqWOBXJOgQ7UCLO3py) | [Cass Elliot](https://open.spotify.com/artist/5jX7X3kRkfJTRqAdT7RcHk) | [Mama's Big Ones](https://open.spotify.com/album/3x44BijmAfm1N7Cs7yILL4) | 2:48 |
 | 69 | [Kiss Me](https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None the Richer](https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix) | 3:28 |
-| 70 | [Beach Cowboy](https://open.spotify.com/track/2VW91TBVCqRKfyBg13EZjO) | [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [Sunshine State Of Mind](https://open.spotify.com/album/2k0fbMU8bNeifFGP2TzEVO) | 2:18 |
+| 70 | [Beach Cowboy](https://open.spotify.com/track/2VW91TBVCqRKfyBg13EZjO) | [Brian Kelley](https://open.spotify.com/artist/794JQDjUHmLaN7dtsv4lL9) | [Sunshine State Of Mind](https://open.spotify.com/album/2k0fbMU8bNeifFGP2TzEVO) | 2:18 |
 | 71 | [Million Reasons \- Live Session at Sound Stage Studios, Nashville, TN](https://open.spotify.com/track/1tx3VJH2ThfGR0uYvcmkaK) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Spotify Singles](https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi) | 3:14 |
 | 72 | [Hold You in My Arms](https://open.spotify.com/track/1U1GtaJeYwGsPgqV9Me5bb) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Trouble](https://open.spotify.com/album/2DQHgaOMVOs2OKLaksiMx9) | 5:06 |
 | 73 | [Things A Man Oughta Know](https://open.spotify.com/track/5QS8PNEWbqTEZyQ6e9ZbJf) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin' What I'm Thinkin'](https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif) | 3:23 |
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42rTd7wQPNO.md) - [plain]
 | 90 | [Brand New Key](https://open.spotify.com/track/3tm6LVXZJg0lG4hQm5ytrT) | [Melanie](https://open.spotify.com/artist/6sOP8RUFR0q0nBOBOXGdBK) | [Beautiful People: The Greatest Hits of Melanie](https://open.spotify.com/album/0d0QHnq1JlNiBTQhC1eKRS) | 2:24 |
 | 91 | [Look At Us Now \(Honeycomb\)](https://open.spotify.com/track/7bSlafYF33JHLoB9NtsL9V) | [Daisy Jones & The Six](https://open.spotify.com/artist/0ZUdYzRCIrxbsd80MmGMqo) | [AURORA](https://open.spotify.com/album/4ouqACcnzsOvtUlnj5abyo) | 5:32 |
 | 92 | [Landslide](https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 3:19 |
-| 93 | [Made By The Water](https://open.spotify.com/track/1jjSX5hBltBcySvMwc7spb) | [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [Sunshine State Of Mind](https://open.spotify.com/album/2k0fbMU8bNeifFGP2TzEVO) | 2:56 |
+| 93 | [Made By The Water](https://open.spotify.com/track/1jjSX5hBltBcySvMwc7spb) | [Brian Kelley](https://open.spotify.com/artist/794JQDjUHmLaN7dtsv4lL9) | [Sunshine State Of Mind](https://open.spotify.com/album/2k0fbMU8bNeifFGP2TzEVO) | 2:56 |
 | 94 | [Doin' Time](https://open.spotify.com/track/0Oqc0kKFsQ6MhFOLBNZIGX) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 3:22 |
 | 95 | [You In A Honky Tonk](https://open.spotify.com/track/76DhLVnoczE6umkHKR2Ec6) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [You In A Honky Tonk](https://open.spotify.com/album/4UQUjGOmIqVh7mg0c7hYeJ) | 3:03 |
 | 96 | [Lost In California](https://open.spotify.com/track/1k3TEMaIeM0U80lxWe6UjK) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Breaker](https://open.spotify.com/album/2aQOzEjLzPkffXDwREXdAh) | 4:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42rTd7wQPNO.md) - [plain]
 | 99 | [Long Haul](https://open.spotify.com/track/7nERlpaH7QghaO7jC60Xtu) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Coyote Cry](https://open.spotify.com/album/5uQt9PVJIZvYjOL43EkOId) | 3:51 |
 | 100 | [Leaning On You](https://open.spotify.com/track/1BsEKaermhlrzSQpouxlmM) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Women In Music Pt\. III](https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM) | 3:21 |
 
-Snapshot ID: `MCw4MmQzYTE3NTIyY2FhYmU4ZjVmNWNhYjAwOTU2YTUxNTRiN2EwNDZj`
+Snapshot ID: `MCw0NjFhMzk0ZDAzMTc5MDhhYjUzZjQyN2M1YmRiYWQ5OTlkNTI5MGQy`

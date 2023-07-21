@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSThc8QnzIme.md) - [plain]
 
 > Breeze through your commute with these pop favorites\. Cover: P!nk
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,989 likes - 130 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,160 likes - 130 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSThc8QnzIme.md) - [plain]
 | 129 | [Without Me](https://open.spotify.com/track/5Oows4h53UGeAvJFyCMseY) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc) | 3:21 |
 | 130 | [Beacon](https://open.spotify.com/track/4Mk4PFcGjfU8Z0CSzzTz7u) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Beacon](https://open.spotify.com/album/3hdKiBU6Yxh42FJsyc0jF0) | 3:47 |
 
-Snapshot ID: `MCwwY2FmZGU1MTQ2NjExZGZhNGRmNWI4MzEwYjExYjRhMGNiNjEwN2Ux`
+Snapshot ID: `MCxkNDU0MDEzNjM3NGM3YTJhMWNlYjhlYjdjZjM3Y2U2NDJiYjYwY2Jj`

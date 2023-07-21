@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48szR2kmia8PcpVpxqI2o1">Gaby Music</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 978 likes - 166 songs - 9 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 980 likes - 166 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -175,4 +175,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLhxeP4NjhU5.md) - [plain]
 | 165 | [Fire](https://open.spotify.com/track/6fGjKSs0onPKmsjA4ZwDPp) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [Mr.Phillips](https://open.spotify.com/artist/500Pu8sBollg8xWSu9TR3E) | [The Last Album](https://open.spotify.com/album/30t1kkG1NrdaCnr4NppWzs) | 3:45 |
 | 166 | [If You Don't Mind](https://open.spotify.com/track/3l2NsSFabQYFCc4cWq48B7) | [Chanell](https://open.spotify.com/artist/5cDfQlhT80II3f2ECXm6oA), [Leebrian](https://open.spotify.com/artist/40lro6xpFS9TxV2uC7yvs4) | [No More Tears](https://open.spotify.com/album/11NIjsSjylCxpvRUbwiK2J) | 3:15 |
 
-Snapshot ID: `MjgxNjIyNzIsMDAwMDAwMDA2NDY5Y2JhMjUxOTE3ZGMzYzBmZDVjMzA0ZTc0NTA4OA==`
+Snapshot ID: `MjgxNjUwOTAsMDAwMDAwMDBiYTA2YTQ4MjkwYjZiMGI4OGRmYzVmMDk3NzU1NGEwNQ==`

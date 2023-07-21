@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Hailey Whitters
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,120,975 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,121,446 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,7 +83,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 73 | [Somebody Else's Whiskey](https://open.spotify.com/track/7vyBCh6EII2AB4Z2Q08o9U) | [Frank Ray](https://open.spotify.com/artist/0LsBi7JKqWFCiFi0FsTbXF) | [Getcha Some](https://open.spotify.com/album/0c0L1aGHLaPeh5v2Mk9tDU) | 3:54 |
 | 74 | [Outlaw Side Of Me](https://open.spotify.com/track/0ZFQExzpuRh8aZqbbYGMRJ) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [The Outlaw Side Of Me](https://open.spotify.com/album/4cp8Sbd4AguoCXt2qw4Dn2) | 3:26 |
 | 75 | [Psychopath](https://open.spotify.com/track/1pxzWiOrRbpXQkk4n0HRs3) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Psychopath](https://open.spotify.com/album/03nIJUuv47IXsP1oooCxPe) | 3:28 |
-| 76 | [See You Next Summer](https://open.spotify.com/track/7Ez0QMtgIQ60BOHGHh3yPc) | [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [See You Next Summer](https://open.spotify.com/album/5HiDygOM1Jx8Crkko9AV1y) | 2:37 |
+| 76 | [See You Next Summer](https://open.spotify.com/track/7Ez0QMtgIQ60BOHGHh3yPc) | [Brian Kelley](https://open.spotify.com/artist/794JQDjUHmLaN7dtsv4lL9) | [See You Next Summer](https://open.spotify.com/album/5HiDygOM1Jx8Crkko9AV1y) | 2:37 |
 | 77 | [After The Rain \(feat\. Tenille Arts\)](https://open.spotify.com/track/1BE14COOIAi5ZWUmDv0Cv6) | [Ray Fulcher](https://open.spotify.com/artist/7abk76xILIuWQIcPooclLp), [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [After The Rain \(feat\. Tenille Arts\)](https://open.spotify.com/album/1HhVL2289IZNqKseUGaybE) | 3:44 |
 | 78 | [Goin For Broke](https://open.spotify.com/track/5bu8p495FPdRySYSptdny2) | [Bryan Martin](https://open.spotify.com/artist/0ChjBYedhZTQnWZWQYg15U) | [Goin For Broke](https://open.spotify.com/album/0nC10tRxCwec2GHP6m9oau) | 3:22 |
 | 79 | [Strawberry Wine And A Cheap Six Pack](https://open.spotify.com/track/2rHH4cQyxEhJwvr0zmMVZV) | [Travis Denning](https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ) | [Strawberry Wine And A Cheap Six Pack](https://open.spotify.com/album/5yvBAGPbj3Hu0vxLu8jDoR) | 3:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Middle Of Nowhere Class](https://open.spotify.com/track/0hzkbUtBgEgMyfbymWuDKc) | [Drew Parker](https://open.spotify.com/artist/04roC3Teouu613zLDKvHpQ) | [Middle Of Nowhere Class](https://open.spotify.com/album/0zN8UMoWb3j1yIfdfjfzTE) | 3:41 |
 | 100 | [Match For My Memory](https://open.spotify.com/track/5sYsGGJ87apKstNPKgiZFo) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Match For My Memory](https://open.spotify.com/album/1btxskaPEUaAs39MnammfS) | 2:59 |
 
-Snapshot ID: `MCwzNDhmNjRlN2E5YTllYzVkYjBkZjViMThjODdlNzcxYmM2ZWU3YjIy`
+Snapshot ID: `MCxiY2NiMzQ3M2RhN2RkZTVlZTM2YTk4NjRhYWZmYTQ4NmI1OWVjMTgw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: ShaqIsDope
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,512 likes - 48 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,527 likes - 48 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 32 | [ON MY HIP](https://open.spotify.com/track/3I6TMODbR8DyawrBcPs2wF) | [Nuez](https://open.spotify.com/artist/2ALpGndOUdBkweskodNRK1), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [ON MY HIP](https://open.spotify.com/album/4IUpjh0s07j9X64knwDVCU) | 2:28 |
 | 33 | [Watermelon Automobile \(feat\. Saba & MAVI\)](https://open.spotify.com/track/3TRnftLxQ1MCHURtdAhThW) | [Valee](https://open.spotify.com/artist/4hRL2QmahOYxXNmNKtG1AI), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [Watermelon Automobile \(feat\. Saba & MAVI\)](https://open.spotify.com/album/7cV2R6BHfCov2U6fbmnxcP) | 3:23 |
 | 34 | [Ghana](https://open.spotify.com/track/4YvI1KzKxCNqeGgSkZaTfc) | [Ateyaba](https://open.spotify.com/artist/281AuR0rWkBECMeaAB0pSA), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [La vie en Violet](https://open.spotify.com/album/59lkROHi91rebqcWgAz00e) | 3:10 |
-| 35 | [PB&J](https://open.spotify.com/track/3piCGEtCAqwlUsbVYI3g2Y) | [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [PB&J](https://open.spotify.com/album/0iaBDYXLCmXrN6xUbJS7nJ) | 3:33 |
+| 35 | [PB&J \(feat\. Young Nudy\)](https://open.spotify.com/track/3piCGEtCAqwlUsbVYI3g2Y) | [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [PB&J \(feat\. Young Nudy\)](https://open.spotify.com/album/0iaBDYXLCmXrN6xUbJS7nJ) | 3:33 |
 | 36 | [Nowhere Fast](https://open.spotify.com/track/2ARGDIjMxUiJTj3v2sM6si) | [Evil Ebenezer](https://open.spotify.com/artist/1E1u1P7Fse6SKnETGdo6XK) | [Nowhere Fast](https://open.spotify.com/album/32XVJMpHACDdqasjPHKqrA) | 3:19 |
 | 37 | [Knee Deep](https://open.spotify.com/track/7mcR36AWiXCMuKSRdlX7fF) | [Wave Montega](https://open.spotify.com/artist/5cJigbet3Qaxt5rH4qDuQs) | [Knee Deep](https://open.spotify.com/album/403towgCYJ3QoEl8wTlDGA) | 2:15 |
 | 38 | [Parkour](https://open.spotify.com/track/1Guj49apIeoq7N1ZWnTFCS) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [Parkour](https://open.spotify.com/album/2nVf4do9ukMtdrATLjSyfU) | 3:21 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 47 | [DISTANCE](https://open.spotify.com/track/6Bf7cjpixSYnqQbX4rh4Jw) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [DISTANCE](https://open.spotify.com/album/6wTlSDRDjKrG796F3CrRy1) | 2:28 |
 | 48 | [Ox\-Tail & Brown Rice](https://open.spotify.com/track/2qAhrM9qadSqNTpTWFnPG7) | [ILLAH](https://open.spotify.com/artist/6Zt6Okr7X69mBzITYFPAPb) | [Ox\-Tail & Brown Rice](https://open.spotify.com/album/6Bjoa6FaD0ShPQ6Qei9u0G) | 3:50 |
 
-Snapshot ID: `MCw5MjBhNzkxNWJiOTZiNjI3ZTFlNjgxOTQwOWQxODM3MWRkZmExMTc1`
+Snapshot ID: `MCxiYmNkMDczZGRmYzg4ZWUzMmUxMjdmMDgzMTZkZWQyMzE2MzkxNjU0`

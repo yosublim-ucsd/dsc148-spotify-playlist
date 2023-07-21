@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 
 > Nothing but the best in modern country music\. Cover: Colter Wall
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,987 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 523,052 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 | 47 | [My Dad And His Truck](https://open.spotify.com/track/5A0ZaBJiX2I1iWrCl4ThBE) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb) | [My Dad And His Truck](https://open.spotify.com/album/6I1mXDYlhYNobaKVB0qStf) | 3:38 |
 | 48 | [Daylight Savings](https://open.spotify.com/track/4MQ3oCdmDXeXizWdYxdPM3) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM) | [Daylight Savings](https://open.spotify.com/album/7jsv9bvXyQpHw0fXynMtKf) | 2:47 |
 | 49 | [Traitor Joe](https://open.spotify.com/track/4EU5ykgudDvqTMhMzTSaAp) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 2:33 |
-| 50 | [See You Next Summer](https://open.spotify.com/track/7Ez0QMtgIQ60BOHGHh3yPc) | [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [See You Next Summer](https://open.spotify.com/album/5HiDygOM1Jx8Crkko9AV1y) | 2:37 |
+| 50 | [See You Next Summer](https://open.spotify.com/track/7Ez0QMtgIQ60BOHGHh3yPc) | [Brian Kelley](https://open.spotify.com/artist/794JQDjUHmLaN7dtsv4lL9) | [See You Next Summer](https://open.spotify.com/album/5HiDygOM1Jx8Crkko9AV1y) | 2:37 |
 | 51 | [Taking It Easy](https://open.spotify.com/track/4cymUHqMBOwxcI6HuaI4i0) | [Tim Hicks](https://open.spotify.com/artist/05kfnkzu8HdqnCdHHkJeci) | [Throw Down \(Deluxe Remastered\)](https://open.spotify.com/album/0DOWHM6JBa9U0agPsDQDXY) | 2:49 |
 | 52 | [Heartbreaker](https://open.spotify.com/track/6sbjfzdMGKmPN4SGVyKfzJ) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Heartbreaker](https://open.spotify.com/album/6tEC4MUUIa68TElIGBqPym) | 3:24 |
 | 53 | [Katie's Song](https://open.spotify.com/track/3RlHQSSqC8a6hX1WvZA9se) | [Robyn Ottolini](https://open.spotify.com/artist/2mAb9JDF63azaglqA7c9bb) | [Katie's Song](https://open.spotify.com/album/7EmpwNuutUbRVXItuf4eV7) | 3:34 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 | 74 | [Do This Life](https://open.spotify.com/track/20b1ZVJECgqoqGKYZtlYzv) | [High Valley](https://open.spotify.com/artist/5sQqZtsAbXAoAnvA8iN9kN), [Alison Krauss](https://open.spotify.com/artist/5J6L7N6B4nI1M5cwa29mQG) | [Do This Life](https://open.spotify.com/album/2AGbKNoFBqHgrfKjUOksc2) | 3:02 |
 | 75 | [Singing In A Beer](https://open.spotify.com/track/7gr4XUVtcogJ9ZmiLwc9Fe) | [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC) | [Singing In A Beer](https://open.spotify.com/album/2Rf3FtApcWOYcUSSUEc3v5) | 2:52 |
 
-Snapshot ID: `MCwxMWI2NzNkZmQyZmE3YTE1YTkzN2Y0Y2Q5Zjc5M2EyZGIxYmM2MmJh`
+Snapshot ID: `MCwzMDlhNjNiZjQ3NmEzNjI4NjU0ZGJiZjNhZjU5MTc5YjZlNDFhMTdh`

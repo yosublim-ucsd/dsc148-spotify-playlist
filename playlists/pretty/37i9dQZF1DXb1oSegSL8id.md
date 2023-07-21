@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 
 > Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 795,136 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 795,302 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1oSegSL8id.md) - [plain]
 | 99 | [Ousadia & Alegria \- Ao Vivo](https://open.spotify.com/track/1lSDZa3ZGnwx0YHd04seut) | [Thiaguinho](https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1), [Neymar](https://open.spotify.com/artist/2SnSnBn2zvkXGNqifnj5i2) | [Ousadia & Alegria \(Ao Vivo\)](https://open.spotify.com/album/6FQGBtXpHeJ8loDjSHfMbV) | 2:28 |
 | 100 | [Imagina A Sentada – Spotify Singles](https://open.spotify.com/track/2iJGrGll9mGg9pJCezwP85) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Imagina A Sentada – Spotify Singles](https://open.spotify.com/album/2hOfhy0hVRFPtuhMTaBNjg) | 3:04 |
 
-Snapshot ID: `MCw2NWM2NzdiOTJkOTIyNjNjNDQ5NjA5Y2RmNzFhZWU2MDdlNmYyYzA3`
+Snapshot ID: `MTY4NjkxOTM4MSwwMDAwMDAwMDAxNThjYzM4OWY3MDkwOTk3ZDAwNjRkMDUwYzYwNTVl`

@@ -9633,6 +9633,28 @@
     },
     {
       "album": {
+        "name": "sad girl",
+        "url": "https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        },
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148000,
+      "name": "sad girl",
+      "url": "https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM"
+    },
+    {
+      "album": {
         "name": "Saki e",
         "url": "https://open.spotify.com/album/5r5gnTGKTzOY6IwZnGAFFs"
       },
@@ -13378,7 +13400,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 230144,
       "name": "yonaki",
       "url": "https://open.spotify.com/track/6K49hJ87qPnbK56389k5lJ"
@@ -15694,7 +15716,7 @@
       ],
       "date_added": "2023-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 223808,
       "name": "\u592a\u967d\u304c\u6607\u308b\u307e\u3067",
       "url": "https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD"
@@ -15734,6 +15756,24 @@
       "duration_ms": 294626,
       "name": "\u5b89\u5fc3\u3068\u6162\u5fc3",
       "url": "https://open.spotify.com/track/6zRR7wIb63JAY8FY7H5MGW"
+    },
+    {
+      "album": {
+        "name": "\u5b9d\u8239",
+        "url": "https://open.spotify.com/album/7o8SgwRmF7fLqKWyMDuSqK"
+      },
+      "artists": [
+        {
+          "name": "Nao'ymt",
+          "url": "https://open.spotify.com/artist/5sqUW4XEHsGVQT6z5NGgJf"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273192,
+      "name": "\u5b9d\u8239",
+      "url": "https://open.spotify.com/track/7kJ8JbfuFYKF1IUiyWUsvp"
     },
     {
       "album": {

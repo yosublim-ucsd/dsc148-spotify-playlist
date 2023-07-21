@@ -506,7 +506,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 218893,
       "name": "Disco",
       "url": "https://open.spotify.com/track/0bkcypOnee3Qfd7KR9rweZ"
@@ -1345,6 +1345,24 @@
     },
     {
       "album": {
+        "name": "Love & Light",
+        "url": "https://open.spotify.com/album/3ISa02QVkjbi6ybVOxTudV"
+      },
+      "artists": [
+        {
+          "name": "Indian Askin",
+          "url": "https://open.spotify.com/artist/0LMHkT69H40YY2x8GHJiD6"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186897,
+      "name": "Love & Light",
+      "url": "https://open.spotify.com/track/2tCW51NHWQmOCW2Yto4Web"
+    },
+    {
+      "album": {
         "name": "Love, Surround Me In Everything I Do",
         "url": "https://open.spotify.com/album/6REkZRczH1l0zCrE7GmUte"
       },
@@ -1928,7 +1946,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 210773,
       "name": "Shut Up and Show Me",
       "url": "https://open.spotify.com/track/6XkhuBBmnX7bKcW3ErAy0g"
@@ -2076,6 +2094,24 @@
       "duration_ms": 167601,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/4ZRr2gW76pb3huK79JFts6"
+    },
+    {
+      "album": {
+        "name": "Sweet Tooth",
+        "url": "https://open.spotify.com/album/27SFSbCBAE0bbvJEO7vQvL"
+      },
+      "artists": [
+        {
+          "name": "Surfer Girl",
+          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124636,
+      "name": "Sweet Tooth",
+      "url": "https://open.spotify.com/track/4AV9YngrMvCchNw5d4lGzw"
     },
     {
       "album": {

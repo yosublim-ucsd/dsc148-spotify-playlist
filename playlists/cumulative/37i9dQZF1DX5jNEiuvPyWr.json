@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : HOUDI",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : Ashh",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -948,7 +948,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 181192,
       "name": "Chance",
       "url": "https://open.spotify.com/track/34mOxGOvrQ9shQ2lbPs6Lk"
@@ -1250,6 +1250,24 @@
       "duration_ms": 210000,
       "name": "Dernier Etage",
       "url": "https://open.spotify.com/track/4cEmTY9s8re8z5Lg9u3uXH"
+    },
+    {
+      "album": {
+        "name": "Vivaldi : V\u00edk",
+        "url": "https://open.spotify.com/album/1e3aP2KfgSCO2IwPDAM2DN"
+      },
+      "artists": [
+        {
+          "name": "Elh Kmer",
+          "url": "https://open.spotify.com/artist/6DTpmzMa0Gz93kRKUo4JfQ"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244395,
+      "name": "Derni\u00e8re page",
+      "url": "https://open.spotify.com/track/6l3HLmhZkRi80m3ymQA8U5"
     },
     {
       "album": {
@@ -2966,6 +2984,24 @@
       "duration_ms": 213068,
       "name": "M\u00e9moire d'un presque rien",
       "url": "https://open.spotify.com/track/5lQTCLF6eeHJnkS03xzWmB"
+    },
+    {
+      "album": {
+        "name": "nebula",
+        "url": "https://open.spotify.com/album/4FNFa5X1j7FhS3IRchDgqm"
+      },
+      "artists": [
+        {
+          "name": "Ashh",
+          "url": "https://open.spotify.com/artist/4YUcg2ee9TxMNdjhAxzZBF"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210256,
+      "name": "nebula",
+      "url": "https://open.spotify.com/track/4dWQt09nlBLh34No9tNA5o"
     },
     {
       "album": {

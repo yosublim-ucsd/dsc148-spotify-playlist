@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: Lay Bankz
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,486 likes - 75 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,576 likes - 75 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 74 | [Can You Bounce? \- Remix](https://open.spotify.com/track/0NEFhpfDe0ObM1mg1J7paV) | [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK), [DJ Blizz](https://open.spotify.com/artist/76fhX39W3Z3NnXvTphr3qh) | [Can You Bounce? \(Remix\)](https://open.spotify.com/album/73COd8PD1PZMDlOvVjVNW1) | 2:06 |
 | 75 | [Estoy](https://open.spotify.com/track/403fJddYl1ib4ZhDzZ7cHR) | [Destiny Marko](https://open.spotify.com/artist/3O82uyLK0yD0gQbqjrOoKa) | [Estoy](https://open.spotify.com/album/1MhSVZU2jWIhCIyXwooKcB) | 2:39 |
 
-Snapshot ID: `MCw4MmRiNDkyYmRjZjg4NzgyNjFkYTdhYTdmYmQ3YmQzYWM4ZTExYTEy`
+Snapshot ID: `MTY4OTgwMTMzNCwwMDAwMDAwMGViMGQzODg2NGIzMTE5MThkMmNkYTllODljOThiM2Qz`

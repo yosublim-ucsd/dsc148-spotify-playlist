@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Mickey Guyton, Kane Brown, Dan + Shay and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,575 likes - 76 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,743 likes - 76 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 75 | [I've Been Prayin'](https://open.spotify.com/track/4oldEeb01wrjmo8LjcKedD) | [Nick Hickman](https://open.spotify.com/artist/54dy3kYqGy3V4obgZZP08h) | [I've Been Prayin'](https://open.spotify.com/album/367MNg3uWgVibIA9rGyQH6) | 3:45 |
 | 76 | [Always a Girl](https://open.spotify.com/track/5sBvqQEsxQwTfw2Zopn98y) | [Matt Jordan](https://open.spotify.com/artist/42o4AcPbHwxBYJm1MK7OqC) | [Always a Girl](https://open.spotify.com/album/5basJuQxjMhwFmeM17ydvz) | 3:10 |
 
-Snapshot ID: `MCw2OTMxMzI0MTU0Mjg4NTI2OWI3MjY5OWM5ODRjMDI1OTFmZjk4YmVi`
+Snapshot ID: `MCwxMTNiZjMzZmI3YjNkZmY0ZmQ2OTQ1NjEyNWMxYjM0ZTA4YjcxNjJh`

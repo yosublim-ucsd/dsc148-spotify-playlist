@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,640,038 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,640,590 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6VdMW310YC7.md) - [plain]
 | 99 | [Oh, Miles](https://open.spotify.com/track/61Hn9ssQkVEWq4ZmPwHyzd) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Oh, Miles](https://open.spotify.com/album/4qf7IxbVrv9eLCGpCA8Asu) | 5:33 |
 | 100 | [Leave You](https://open.spotify.com/track/5AcCFMfAjIxq07cibmttEo) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1), [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY), [Jyll](https://open.spotify.com/artist/255QhVPytbdcbgCbHJ5rNe) | [Leave You](https://open.spotify.com/album/6vEHURkEouRIhVI5cZRWtd) | 3:54 |
 
-Snapshot ID: `MCw1MzUzNWRiYzRjNTBmOGUxZjYzN2VhMTRjNTIyNTAwMTdhM2FhOTM5`
+Snapshot ID: `MCw2ODMyYjBhNGMzZDhiNDdlMzU0NzNmZmVjNWMwNThlMDgwYTFkODE3`

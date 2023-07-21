@@ -970,7 +970,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 167303,
       "name": "As It Was",
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
@@ -5824,7 +5824,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 273186,
       "name": "I Can See You (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/5kHMfzgLZP95O9NBy0ku4v"
@@ -9556,7 +9556,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-20",
+      "date_removed": null,
       "duration_ms": 238473,
       "name": "Pergilah Cinta",
       "url": "https://open.spotify.com/track/1vfkegBOtAeEz9QL9TPe5q"
@@ -9780,7 +9780,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series",
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
@@ -10030,6 +10030,24 @@
       "duration_ms": 167200,
       "name": "Raya Raya Raya",
       "url": "https://open.spotify.com/track/5bu4tKnKyjBwQhLdDK7VWe"
+    },
+    {
+      "album": {
+        "name": "Rayuan Perempuan Gila",
+        "url": "https://open.spotify.com/album/7cCDE3ZZwmD94SKVKCLXAO"
+      },
+      "artists": [
+        {
+          "name": "Nadin Amizah",
+          "url": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 320000,
+      "name": "Rayuan Perempuan Gila",
+      "url": "https://open.spotify.com/track/1nYdkPCbHdYi4w7s2L6SHA"
     },
     {
       "album": {
@@ -12208,7 +12226,7 @@
       ],
       "date_added": "2023-05-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-16",
+      "date_removed": null,
       "duration_ms": 278500,
       "name": "Tak Ingin Usai",
       "url": "https://open.spotify.com/track/0OHr74BS1CEwyZsyY9kml2"

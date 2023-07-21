@@ -605,6 +605,32 @@
     },
     {
       "album": {
+        "name": "Belle Full",
+        "url": "https://open.spotify.com/album/6RWa45eSEJ9454G5dgA1dQ"
+      },
+      "artists": [
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "KTIZO",
+          "url": "https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191113,
+      "name": "Belle Full",
+      "url": "https://open.spotify.com/track/7ppSFPUTqVqp97SmOci4q8"
+    },
+    {
+      "album": {
         "name": "Bezos",
         "url": "https://open.spotify.com/album/0HWeesVXBwp4q78Ow2RFpx"
       },
@@ -1204,7 +1230,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 178144,
       "name": "Currency",
       "url": "https://open.spotify.com/track/59VpttBOjuFDpOOdqeTDiI"
@@ -1408,7 +1434,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 194742,
       "name": "Early Momo",
       "url": "https://open.spotify.com/track/30vg5dgv2jtW6LCjgLnRSd"
@@ -1448,6 +1474,24 @@
       "duration_ms": 156080,
       "name": "Ego",
       "url": "https://open.spotify.com/track/6XdAvTC80727JAI9HBAVLc"
+    },
+    {
+      "album": {
+        "name": "Ego Oyibo",
+        "url": "https://open.spotify.com/album/3eh4uQxSDuk3CWeXMEh3SB"
+      },
+      "artists": [
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183174,
+      "name": "Ego Oyibo",
+      "url": "https://open.spotify.com/track/0pqrP2OT0JMdHa5sPwpjr7"
     },
     {
       "album": {
@@ -1604,6 +1648,28 @@
       "duration_ms": 156771,
       "name": "Eye to Eye",
       "url": "https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz"
+    },
+    {
+      "album": {
+        "name": "I Know I Am",
+        "url": "https://open.spotify.com/album/0n8t233j9SxfeORXpC9msV"
+      },
+      "artists": [
+        {
+          "name": "Basiil",
+          "url": "https://open.spotify.com/artist/1KOeTyRjoGl0MPu4NRklMV"
+        },
+        {
+          "name": "Camidoh",
+          "url": "https://open.spotify.com/artist/6Z9Xe5mjocmPOhz2TLNrAi"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156961,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/4nZrMIPiY3Ti2OdsQkOb8I"
     },
     {
       "album": {
@@ -2516,7 +2582,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 150000,
       "name": "Into The Future",
       "url": "https://open.spotify.com/track/4G9bcrlr63uGJTOlJWyA5k"
@@ -2542,6 +2608,24 @@
       "duration_ms": 212000,
       "name": "INTOXYCATED (feat. Dave)",
       "url": "https://open.spotify.com/track/5YEVBJnnt2qMM67NGCjEdV"
+    },
+    {
+      "album": {
+        "name": "Iron Man",
+        "url": "https://open.spotify.com/album/7oag7V3A2z0M3hjWOdi2A9"
+      },
+      "artists": [
+        {
+          "name": "Pawzz",
+          "url": "https://open.spotify.com/artist/0SvA7XnKtaEkfIn7CVjTMU"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152052,
+      "name": "Iron Man",
+      "url": "https://open.spotify.com/track/643yJvJU3qlEOBmb6vje2N"
     },
     {
       "album": {
@@ -2582,6 +2666,24 @@
       "duration_ms": 190164,
       "name": "Jaiye Foreign",
       "url": "https://open.spotify.com/track/3iRKwxW8ZDjmL9nKk3nisz"
+    },
+    {
+      "album": {
+        "name": "Jo",
+        "url": "https://open.spotify.com/album/6I9D91lUwbSI1MHsqi0JbA"
+      },
+      "artists": [
+        {
+          "name": "Geoxpress",
+          "url": "https://open.spotify.com/artist/2te0zfHOaOT11OYBSwBzVV"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138374,
+      "name": "Jo",
+      "url": "https://open.spotify.com/track/1IPiMWs3g5UezRGUUwiXWz"
     },
     {
       "album": {
@@ -3084,7 +3186,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 165217,
       "name": "Love and Trust",
       "url": "https://open.spotify.com/track/2Vt3LIt6PTK8f0LeKt0DnQ"
@@ -3761,6 +3863,28 @@
     },
     {
       "album": {
+        "name": "Trench to Triumph",
+        "url": "https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal"
+      },
+      "artists": [
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221217,
+      "name": "Ngozi",
+      "url": "https://open.spotify.com/track/5mhM7bfzv52bzfCzlq8vH1"
+    },
+    {
+      "album": {
         "name": "No Closure",
         "url": "https://open.spotify.com/album/00zNoLWUcrXKUnstmShe6q"
       },
@@ -3926,6 +4050,28 @@
       "duration_ms": 236202,
       "name": "Odo Dede",
       "url": "https://open.spotify.com/track/5JB0EcpkbUsyaU9EvzK3bw"
+    },
+    {
+      "album": {
+        "name": "Ole",
+        "url": "https://open.spotify.com/album/1XPnkubgp63M9k5KsrMC7y"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Ole (feat. BNXN)",
+      "url": "https://open.spotify.com/track/1KR2V2DQwUWMrwYOhQ2LLx"
     },
     {
       "album": {
@@ -4194,7 +4340,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 120439,
       "name": "PARIWO",
       "url": "https://open.spotify.com/track/20fEWd3EZSTTLuHHllpRl9"
@@ -4510,7 +4656,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 191245,
       "name": "Running (To You)",
       "url": "https://open.spotify.com/track/5rTC3tKShDyYK0wk0rq96X"
@@ -4626,7 +4772,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 216699,
       "name": "Seek & Find (feat. Azanti)",
       "url": "https://open.spotify.com/track/77jghFtCt5TBqaK7gutlrf"
@@ -4682,6 +4828,24 @@
       "duration_ms": 200869,
       "name": "Shakara",
       "url": "https://open.spotify.com/track/6XPPB2eOwBid6EbveTmVYe"
+    },
+    {
+      "album": {
+        "name": "Sharpally",
+        "url": "https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163361,
+      "name": "Sharpally",
+      "url": "https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ"
     },
     {
       "album": {
@@ -5154,7 +5318,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 173304,
       "name": "Spell - Remix",
       "url": "https://open.spotify.com/track/1rgpvUOxnI0Mno6OTsXTFh"
@@ -5234,7 +5398,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 183529,
       "name": "Start Me Up",
       "url": "https://open.spotify.com/track/6Ls2C5eTT6QC54FH2pYYnX"
@@ -5300,6 +5464,28 @@
       "duration_ms": 176842,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/7yIsvwkZuWuskQrbtVWfrN"
+    },
+    {
+      "album": {
+        "name": "Terminator (feat. Young Jonn)",
+        "url": "https://open.spotify.com/album/1BICkuyzPn2IIQXjopKOXE"
+      },
+      "artists": [
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        },
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234024,
+      "name": "Terminator (feat. Young Jonn)",
+      "url": "https://open.spotify.com/track/4jyZRIiSAEkziHwhZsfmXc"
     },
     {
       "album": {

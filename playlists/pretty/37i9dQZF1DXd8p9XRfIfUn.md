@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: legallyrxx
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,129 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,146 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 59 | [HORÓSCOPO](https://open.spotify.com/track/39hGDe9XmX4EN11F6TFl8x) | [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [HORÓSCOPO](https://open.spotify.com/album/3P7WHmEMptKZ1mD7vQ9cGS) | 4:08 |
 | 60 | [Me Juquie](https://open.spotify.com/track/7jIcZC9pSpkAuokhCZOtLn) | [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Me Juquie](https://open.spotify.com/album/7uHa5H6yYjxgh0ek8Tc2Yk) | 2:38 |
 
-Snapshot ID: `MCxmYzMzMGNlMmE4MWY0OTBiY2EyZTY5NTVlMzI0MTE1MDg4ZmQ5Njhm`
+Snapshot ID: `MCxhMTI4OTZjNDg4N2EwNzM1NjE3MDE0YjBmNDY0MDBhMTYzNTE5ZTZk`

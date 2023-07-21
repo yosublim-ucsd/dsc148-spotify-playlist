@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSf2RDTDayIx.md) - [plain]
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,220,269 likes - 150 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,221,358 likes - 150 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSf2RDTDayIx.md) - [plain]
 | 149 | [Easy](https://open.spotify.com/track/4VVzgTike7FW8OiUIDN7hk) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [NIIKO X SWAE](https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz) | [Easy](https://open.spotify.com/album/3Jkk3mOfUiIcaJboZ77lkp) | 2:29 |
 | 150 | [Relight My Love](https://open.spotify.com/track/6dKDKwtdZtGlR8e1tZGEYS) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Relight My Love](https://open.spotify.com/album/4nPnujo6paeU0XbRMpYO40) | 2:57 |
 
-Snapshot ID: `MCxlYWNmYjA0MjhjNzhmNWE2YTBjYTM2MGVhNjU3MTBmNTAwMWM0MDk5`
+Snapshot ID: `MCwxNTg0NmZlOTAyNjVhNTY0MmFlYjgzODQ2ZTJlMWJmZjE4Y2RhMGEx`

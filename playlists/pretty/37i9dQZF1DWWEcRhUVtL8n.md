@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 
 > New and approved indie pop\. Cover: Dominic Fike
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,701,704 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,701,669 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWEcRhUVtL8n.md) - [plain]
 | 99 | [Twin Flame](https://open.spotify.com/track/5mcV609IhNtRv4piyKSbWs) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [Twin Flame](https://open.spotify.com/album/50YpMaIj4BoYL08Nu4wdiA) | 3:03 |
 | 100 | [Maybe I’m Lonely](https://open.spotify.com/track/3X3cftpXwcSXQM4fC5ihdo) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Maybe I’m Lonely](https://open.spotify.com/album/7cGahzr5hx2AfLnrd0aoKM) | 2:32 |
 
-Snapshot ID: `MCxiYTg3NmIyOWI3Y2I1MGJkMzFkYzgyN2RiZDA5NTQwNzZmMTk1MjY4`
+Snapshot ID: `MCw0MWU2YzM3ZDQ1MGE2YWE0MjQ3ZjM4Mjc1NTQ2MTZhYWIyZDk5MDYy`

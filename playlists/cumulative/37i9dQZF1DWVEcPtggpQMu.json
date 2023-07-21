@@ -2025,6 +2025,24 @@
     },
     {
       "album": {
+        "name": "CLOWN",
+        "url": "https://open.spotify.com/album/328alaY3n5WRAWkBzkBl7G"
+      },
+      "artists": [
+        {
+          "name": "The Big Hash",
+          "url": "https://open.spotify.com/artist/4NR8j34QrjVEIAqUP43SwL"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227688,
+      "name": "CLOWN",
+      "url": "https://open.spotify.com/track/4FqZJdnOhx9s2I6o8hmMsd"
+    },
+    {
+      "album": {
         "name": "cold",
         "url": "https://open.spotify.com/album/63i5srM7sJ6uh8RmYtCvR1"
       },
@@ -5852,7 +5870,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 153704,
       "name": "Love or War",
       "url": "https://open.spotify.com/track/4P6TW5cpZ9zvk9nAd4Rl0E"
@@ -7731,6 +7749,24 @@
     },
     {
       "album": {
+        "name": "POP IT",
+        "url": "https://open.spotify.com/album/40IIbxt8FGP2TpEnDZWu6F"
+      },
+      "artists": [
+        {
+          "name": "Lil Spielberg",
+          "url": "https://open.spotify.com/artist/4uFze5DWZone8IrG6km8er"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131768,
+      "name": "POP IT",
+      "url": "https://open.spotify.com/track/5ZT7FegY0IJQwgBQQtFsHo"
+    },
+    {
+      "album": {
         "name": "Potion No.9",
         "url": "https://open.spotify.com/album/6HyEnmxcHiDJ3mmAxp2ccF"
       },
@@ -7834,6 +7870,36 @@
       "duration_ms": 226324,
       "name": "Pride",
       "url": "https://open.spotify.com/track/4k12ggWuUFQ8wllmREXKTd"
+    },
+    {
+      "album": {
+        "name": "V I R A L.",
+        "url": "https://open.spotify.com/album/0KZh9zu8jUtpVa5YoY8KtG"
+      },
+      "artists": [
+        {
+          "name": "Dj Clen",
+          "url": "https://open.spotify.com/artist/5FeaMbq2LXxaIkEiigeAfo"
+        },
+        {
+          "name": "A-Reece",
+          "url": "https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP"
+        },
+        {
+          "name": "Frank Casino",
+          "url": "https://open.spotify.com/artist/7MF9LuUK0sWH8WXBoiPMNy"
+        },
+        {
+          "name": "Loatinover Pounds",
+          "url": "https://open.spotify.com/artist/7c3N4lOnDqTJiSK1bQoGXh"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263785,
+      "name": "PROBLEMZ",
+      "url": "https://open.spotify.com/track/4kzJuA1VCgbAUz8N8K2bk8"
     },
     {
       "album": {
@@ -7946,7 +8012,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 193253,
       "name": "R2P4",
       "url": "https://open.spotify.com/track/3KEXacrbpYkLymi5dKoa90"
@@ -8762,7 +8828,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 249533,
       "name": "SETE (feat. Young Stunna & Blxckie)",
       "url": "https://open.spotify.com/track/5mXZz0tXIToxu3HRohrdSK"
@@ -9552,7 +9618,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 205423,
       "name": "Sta Soft",
       "url": "https://open.spotify.com/track/1rc0ZjnYsncDh81BHyFRQ6"
@@ -11848,6 +11914,36 @@
       "duration_ms": 225250,
       "name": "WRONG TURN",
       "url": "https://open.spotify.com/track/3HjpW1DgAsj9jViqjdWtxL"
+    },
+    {
+      "album": {
+        "name": "V I R A L.",
+        "url": "https://open.spotify.com/album/0KZh9zu8jUtpVa5YoY8KtG"
+      },
+      "artists": [
+        {
+          "name": "Dj Clen",
+          "url": "https://open.spotify.com/artist/5FeaMbq2LXxaIkEiigeAfo"
+        },
+        {
+          "name": "L.Tido",
+          "url": "https://open.spotify.com/artist/3fDEZmUPhVchBxujIRuK2A"
+        },
+        {
+          "name": "Jay Jody",
+          "url": "https://open.spotify.com/artist/1S50LM0LZMa0AhCmLvYJdR"
+        },
+        {
+          "name": "A-Reece",
+          "url": "https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223396,
+      "name": "WROTE THE BOOK",
+      "url": "https://open.spotify.com/track/72tqZ49DhmveB3GNqngaXN"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZXf2SJxqPp.md) - [plain]
 
 > Musiquita riqui para chillear y echarla junto a la piscina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,185 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,207 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZXf2SJxqPp.md) - [plain]
 | 6 | [Feel Your Weight \- Poolside Remix](https://open.spotify.com/track/1hgX0ZmmP7IRRjUFCIBrnQ) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN), [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Blood Remixed](https://open.spotify.com/album/1AvkRISSdzC7cq7eLoS5w1) | 5:10 |
 | 7 | [beachin](https://open.spotify.com/track/3urYUGRvToBI4u87OzsSMZ) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [froge.mp3](https://open.spotify.com/album/4AueWk2dGXqbMFx7ogEAs7) | 3:15 |
 | 8 | [La Niña del Volcán \(Polocorp Remix\)](https://open.spotify.com/track/0aw4Dcu2XxEuLtXaepPTEA) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Polocorp](https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [La Niña del Volcán \(Polocorp Remix\)](https://open.spotify.com/album/4uQdPn1drtbUwDoYKfw99n) | 5:24 |
-| 9 | [Profite \- Kazy Lambist Remix](https://open.spotify.com/track/7fbdTbr12vcmJhWgp58dvO) | [Moi Je](https://open.spotify.com/artist/2lmGTNC0PsE7j5KDO9POvW) | [Profite \(Remixes\)](https://open.spotify.com/album/0r4TXEu7Lhl09VNfxThdC6) | 3:18 |
+| 9 | [Profite \- Kazy Lambist Remix](https://open.spotify.com/track/7fbdTbr12vcmJhWgp58dvO) | [Moi Je](https://open.spotify.com/artist/2lmGTNC0PsE7j5KDO9POvW), [Antoine Lartigue](https://open.spotify.com/artist/5XAKNFhA5yCx6rdbWAsbtd), [Simon Berard](https://open.spotify.com/artist/6HR09922Xdqqnv6OKLeTRO), [Loïc Lassablière](https://open.spotify.com/artist/2Z0Eh6F3CbtFaYfxaBVMGj), [Babil Lachheb](https://open.spotify.com/artist/2oNBkWyfvINaEBFIhTHIxW), [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH) | [Profite \(Remixes\)](https://open.spotify.com/album/0r4TXEu7Lhl09VNfxThdC6) | 3:18 |
 | 10 | [Sauvage](https://open.spotify.com/track/3ZUyQN89uCsjlLKIOvfYxb) | [Los Eclipses](https://open.spotify.com/artist/21EtvnD59JJJiUP0qZP7WY), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Dan Solo](https://open.spotify.com/artist/7E1ZwNnXreZgJpmTNUJva7) | [Sauvage](https://open.spotify.com/album/4MJxVWiDg1K9hs7QLeORHt) | 5:31 |
 | 11 | [Time \(You and I\)](https://open.spotify.com/track/0S3BtG3i5tkQmehJhIhHF3) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Mordechai](https://open.spotify.com/album/2IzUZlhtBvPQYs74KeG6fb) | 5:42 |
 | 12 | [Propaganda](https://open.spotify.com/track/5h2Ixexi6IEhlogUtfzD5P) | [Salami Rose Joe Louis](https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX), [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Akousmatikous](https://open.spotify.com/album/2rIjJDL6c2IlN8rrWOhwGD) | 2:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZXf2SJxqPp.md) - [plain]
 | 99 | [Discoman](https://open.spotify.com/track/5YpB83TMSxvNw3F7SMikHq) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Discoman](https://open.spotify.com/album/0A2nttPiJAdDfjkmt9l2vT) | 3:40 |
 | 100 | [I Won't Fade Away](https://open.spotify.com/track/6c2Sn6SZwKvFhJhsGnZPfD) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Alice Russell](https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc) | [I Won't Fade Away](https://open.spotify.com/album/0uhCqrWtrrLIVH7bz1I2R5) | 3:48 |
 
-Snapshot ID: `MCw2MmM2MDdlMDNiMWMyZTEyNjYzM2UwYTJjMzkyM2YzZTIyMjlkNDhh`
+Snapshot ID: `MCw3MTc3MWJkZGU1MmYwNGZlMGMwMTMzZTM5Nzg0YzYwZjU2YzQxMTMz`

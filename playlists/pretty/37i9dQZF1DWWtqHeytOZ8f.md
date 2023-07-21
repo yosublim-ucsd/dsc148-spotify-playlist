@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtqHeytOZ8f.md) - [plain]
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,395 likes - 200 songs - 17 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,432 likes - 200 songs - 17 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtqHeytOZ8f.md) - [plain]
 | 199 | [Far out](https://open.spotify.com/track/6KsHmpucGHj5rfYcxGQftL) | [Lunar Ship](https://open.spotify.com/artist/2oBpQUmHc0cQX0s1TsGL7U) | [Far out](https://open.spotify.com/album/3xOe5NLs8W2YFLZqAOjlAQ) | 4:02 |
 | 200 | [Tomb](https://open.spotify.com/track/6WTGLr26egcppsIEHeBuL3) | [Sebastián Escofet](https://open.spotify.com/artist/4YufEYOotwxOrZxtzdPgS3) | [Texturalista](https://open.spotify.com/album/3dRDX0QndBDdTIda56G5xy) | 2:15 |
 
-Snapshot ID: `MCxhMzkwOTY3OTIwMjcyZjhhNmQ5ZDkyZTFlMDM2OGJhZDU2ZWI2Y2Fh`
+Snapshot ID: `MCxlZWM2MzJmMTYyMzdhMTdiMDJiNzY3MzUzZDViOGYzZjhhOWY2MDZl`

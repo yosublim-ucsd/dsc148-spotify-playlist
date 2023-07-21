@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Meet the vocalists representing Korea! (Cover:\u001dKim Min Seok(\uae40\ubbfc\uc11d)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Meet the vocalists representing Korea! (Cover:\bSunwoojunga(\uc120\uc6b0\uc815\uc544)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "v o K a l",
   "tracks": [
     {
@@ -2384,7 +2384,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 223213,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4Ohe61evYAILzlyhSjd7Eq"
@@ -3815,6 +3815,24 @@
     },
     {
       "album": {
+        "name": "Love War",
+        "url": "https://open.spotify.com/album/59DdpwFqZnqs1Bz4bgKxW7"
+      },
+      "artists": [
+        {
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240061,
+      "name": "Love War",
+      "url": "https://open.spotify.com/track/3ZLH3WCaGQ2mvynea5a29s"
+    },
+    {
+      "album": {
         "name": "Love, ing",
         "url": "https://open.spotify.com/album/0Rx8VbEuZPctmQeeS3p8qL"
       },
@@ -3910,6 +3928,24 @@
       "duration_ms": 195893,
       "name": "Lucid Dream",
       "url": "https://open.spotify.com/track/6cLJ7dV0buAC5TfcfSVmcw"
+    },
+    {
+      "album": {
+        "name": "Marry Me (My love X Yang Da Il)",
+        "url": "https://open.spotify.com/album/7aezS6OsSSjloT2u2xD4AN"
+      },
+      "artists": [
+        {
+          "name": "Yang Da Il",
+          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256859,
+      "name": "Marry Me (My love X Yang Da Il)",
+      "url": "https://open.spotify.com/track/6UrHnv2u6riHP1wSZdL7aP"
     },
     {
       "album": {
@@ -4690,6 +4726,24 @@
       "duration_ms": 247986,
       "name": "One Day More",
       "url": "https://open.spotify.com/track/4nr85wYs3ZaCTSOm8oPa3J"
+    },
+    {
+      "album": {
+        "name": "One Late Night In 1994",
+        "url": "https://open.spotify.com/album/0MLfjnIKcI9hY4UhLI1e85"
+      },
+      "artists": [
+        {
+          "name": "Jo Hyun Ah",
+          "url": "https://open.spotify.com/artist/7aVeZFWXIC3g4b0Tn68ZtI"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "One Late Night In 1994",
+      "url": "https://open.spotify.com/track/1bHEMyPGu9H0NGlS9Vxpsf"
     },
     {
       "album": {
@@ -5612,7 +5666,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 205440,
       "name": "Starting Now",
       "url": "https://open.spotify.com/track/7rtD4GjoJkg0iFj0XmPfR1"
@@ -5760,7 +5814,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 195013,
       "name": "Sweet Lullaby",
       "url": "https://open.spotify.com/track/1NHf1Nuumrgje7lmuM2QVY"

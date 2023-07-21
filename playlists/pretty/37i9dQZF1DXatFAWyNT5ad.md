@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 
 > Let's mix it\. Cover: Bishop Briggs
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,849 likes - 100 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,910 likes - 100 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 | 99 | [Insanity](https://open.spotify.com/track/01Cbf3nijsIYjKcqdDGvqa) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [American Teeth](https://open.spotify.com/artist/4a9NXVL2Qxsst3B8ezK7nO) | [Insanity](https://open.spotify.com/album/5uaMyd4eWrWSXVPX6hPgBm) | 3:03 |
 | 100 | [Don't Get Me Wrong](https://open.spotify.com/track/386DEQx94L5LVXKw4HtSdN) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Don't Get Me Wrong](https://open.spotify.com/album/4uPRhzjEpqcKAHCFMW3YSm) | 2:53 |
 
-Snapshot ID: `MCxmYWNiYTBhYzBiNzFkZGEyM2EzZjQ1MjVmODMxODc5ZDRiNGZjN2M3`
+Snapshot ID: `MTY4NzU0MTU4MSwwMDAwMDAwMDdjZDVkZWM0YjVjOGM5NTVmNDYyNWJhYWJjYmFiMjU3`

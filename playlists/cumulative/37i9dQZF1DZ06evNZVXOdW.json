@@ -389,6 +389,28 @@
     },
     {
       "album": {
+        "name": "Kand",
+        "url": "https://open.spotify.com/album/1XWcnBDw4uUpquWF7slHF9"
+      },
+      "artists": [
+        {
+          "name": "Pawas",
+          "url": "https://open.spotify.com/artist/7njdkDUTQVVaAL0K4Mpk2u"
+        },
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 551334,
+      "name": "Kand",
+      "url": "https://open.spotify.com/track/76Ijr5E3UvOtzjaNcc3AXx"
+    },
+    {
+      "album": {
         "name": "Vulture Prince",
         "url": "https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH"
       },
@@ -498,6 +520,28 @@
       "duration_ms": 327373,
       "name": "Na Ja Balam",
       "url": "https://open.spotify.com/track/66ska8dvz4hRD4QVu0kg0M"
+    },
+    {
+      "album": {
+        "name": "Naja",
+        "url": "https://open.spotify.com/album/7MpNznYeg3ZmWOphysV7BU"
+      },
+      "artists": [
+        {
+          "name": "Pawas",
+          "url": "https://open.spotify.com/artist/7njdkDUTQVVaAL0K4Mpk2u"
+        },
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 542837,
+      "name": "Naja",
+      "url": "https://open.spotify.com/track/2DpDe6nEOF3ihFksRY7jKc"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > All new indie rock\. Featuring new music by Blur.
 
-[Spotify](https://open.spotify.com/user/spotify) - 846,932 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 846,919 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 45 | [Sidetracked Soundtrack \- Unreleased Demo](https://open.spotify.com/track/4DLQQb9DTPA04RYuHEn1ru) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism \(10 Year Anniversary Edition / Unreleased Demos\)](https://open.spotify.com/album/42ksrADRkYcr0OZP5VNR4s) | 4:19 |
 | 46 | [Sunburn Fades](https://open.spotify.com/track/5Y1syktNHkkg5dhbeoEBwX) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sunburn Fades](https://open.spotify.com/album/1YHBRdvhAcSDDV5DypIPia) | 3:53 |
 | 47 | [No Stranger](https://open.spotify.com/track/3huDFMmxqh8TfKTiHr89Xj) | [Pool Kids](https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f) | [Pool Kids // POOL](https://open.spotify.com/album/7l53P1GftnthQCpHQ3LwFX) | 3:44 |
-| 48 | [Should I](https://open.spotify.com/track/5n2SP6R5k7LS3GdJEirPeM) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Should I](https://open.spotify.com/album/17tq1FC1vDQJkTRNCNYcXc) | 2:28 |
+| 48 | [Should I](https://open.spotify.com/track/7pB8DoQuLCT6IbgSCXAmhG) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [I Am The Dog](https://open.spotify.com/album/0RjsbmAOQzWOq3fxQ002rX) | 2:28 |
 | 49 | [Lost](https://open.spotify.com/track/3fCo2ii087XnTUxGMY6bzZ) | [Telescreens](https://open.spotify.com/artist/2a5z6KAJm5HFFgMGUDeMVz) | [Lost](https://open.spotify.com/album/3hqIPUnrBY8BqOexjv9bML) | 2:51 |
 | 50 | [Floor](https://open.spotify.com/track/5uNmCseXcUDBmek5Lj69S1) | [Richie Quake](https://open.spotify.com/artist/5RmZclxIWvmctw5DNBJyo6) | [Birthday Party](https://open.spotify.com/album/3lhOHwgPD7a1dyaTNrZS8C) | 2:37 |
 | 51 | [Francesca](https://open.spotify.com/track/4LmOmWpjCQbC1VZvUuwPQu) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Francesca](https://open.spotify.com/album/2GS1K0RZ5SjtuT8bsX0xyv) | 4:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 99 | [Champ \(feat\. Edgar Winter\)](https://open.spotify.com/track/3OHYElP3QCFKfnReFTZ2nw) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Edgar Winter](https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk) | [Champ \(feat\. Edgar Winter\)](https://open.spotify.com/album/53Ss7QGhX8hDfymNXdSRtd) | 3:49 |
 | 100 | [Salad](https://open.spotify.com/track/04wGd81Dnp8M8gPqCQXs07) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y) | 4:34 |
 
-Snapshot ID: `MCw4MWQ0MWY0YmZjM2E0YzQzNmRjZmUwODVmZGZkY2FjMmU0ZDA4ZGM1`
+Snapshot ID: `MCw5Njc4YjE5OGM4MGM3NWY3ZDBhMmU3OWZkMTQ5NTk2MTQ0YjQ3OGY1`

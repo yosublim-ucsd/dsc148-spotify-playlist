@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 
 > That summer in the city feeling, any day of the week.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,169 likes - 50 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,270 likes - 50 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX572PAi3rtlM.md) - [plain]
 | 49 | [I Hear Music in the Streets](https://open.spotify.com/track/5HgE5eXfu0An2moseSM635) | [Unlimited Touch](https://open.spotify.com/artist/4VaFWblR1Rv24L8kAfhtxm) | [Searching to Find the One](https://open.spotify.com/album/31fKBqNpIIRDSiBoTv408q) | 6:53 |
 | 50 | [Easy](https://open.spotify.com/track/4uMEqidP5ndYrsaS1HxuBk) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx), [Ally McMahon](https://open.spotify.com/artist/5w7j2molEa1LERPdgAGxE8) | [Lucas](https://open.spotify.com/album/0JJjdrxiGhdo2JHVNCKC2N) | 4:12 |
 
-Snapshot ID: `MCw5YWZjMDYwYTg5YzA1ODgxYmIzMzQ4OWFiZDRmNWYzOTEyNTZiMzQx`
+Snapshot ID: `MCw1YWNhYTk2NTM3MjM2ODI2ZWNlZjc0MTczNTA5ZTczNDdlNDkzNTk4`

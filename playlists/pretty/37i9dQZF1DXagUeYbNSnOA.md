@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring La Clase Loka\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,304 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,335 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Escape](https://open.spotify.com/track/3scSdbvxyctahSceRXEqwJ) | [Chasing Nomads](https://open.spotify.com/artist/0zUgSPBFy9wuiq3Dcu0Qlb) | [Escape](https://open.spotify.com/album/4D6IpxlTYOy9Ttha3ooLwK) | 2:56 |
 | 50 | [VAPOREON.mp3](https://open.spotify.com/track/7nxhYPFor2yKZQH7LTbCd5) | [ZOMBI3X](https://open.spotify.com/artist/69ibXoT30zlJBV5b3NMtIf), [RIIP DIEGO](https://open.spotify.com/artist/6faQ0OraxrYdQotaRRgoFS), [Oskan](https://open.spotify.com/artist/2xoCPQQ8DkXM9snPiO1f40), [Loztt](https://open.spotify.com/artist/1X6549jfWP5mOzXH6aPvdX), [Konyu](https://open.spotify.com/artist/4ev84wnlNd7LEjovGmG0fA) | [VAPOREON.mp3](https://open.spotify.com/album/1T59ousWzvRAixEZIgSogz) | 3:40 |
 
-Snapshot ID: `MCw2ZGE3ZTA5MjRkNDYwZGRjZTEzMWEyYjVjYjAxYTc2ZmEwY2E0YzQx`
+Snapshot ID: `MCw3Y2ViY2M5OTgyNWFhMWVhNTFmMzNjMmVlNjVmZGMwOGRmNzA4YTk4`

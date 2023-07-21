@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 
 > Sweet gems to help you slow down and savor your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 408,308 likes - 125 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 408,441 likes - 125 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0611i4oGheJ.md) - [plain]
 | 124 | [Wake Me](https://open.spotify.com/track/6tBTW1d7ikxXEfkhGQjPHi) | [Message To Bears](https://open.spotify.com/artist/6MmQrV24zUeieNf027zkh3) | [Folding Leaves](https://open.spotify.com/album/1BL9HsiqZUc4IXFT3LKwzr) | 5:32 |
 | 125 | [Try to Make a Fire Burn Again](https://open.spotify.com/track/7BIcO9nvZ2AdIfhZcXnTS7) | [Dawn Landes](https://open.spotify.com/artist/1wvqnNcuPa2TpcFvfh3co5) | [Bluebird](https://open.spotify.com/album/6vGalAgGwYwgFhENJOeFuN) | 3:02 |
 
-Snapshot ID: `MCw2Yzc1OTE1Yzk0MjVlMDkxNzkxZmY0ZjE3NzZmMDA4ODJiNjY2YmJj`
+Snapshot ID: `MCw1NWIxMjkyMGI1MTUwZWIxZDRmYjhkZjhkNTJjZTQxNTFmYjg5YmU5`

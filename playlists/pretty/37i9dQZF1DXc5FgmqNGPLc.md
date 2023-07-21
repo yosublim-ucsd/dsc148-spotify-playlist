@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 
 > All live, all jazz\. Cover: John Coltrane & Eric Dolphy
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,348 likes - 100 songs - 15 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,351 likes - 100 songs - 15 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5FgmqNGPLc.md) - [plain]
 | 99 | [Juan](https://open.spotify.com/track/1q3Z0ZRmjLK32PvTFT9u2P) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [The Wynton Marsalis Quartet Live At Blues Alley](https://open.spotify.com/album/1LPznJ8gbsnXp3kWdMm9wd) | 7:33 |
 | 100 | [Giant Steps \- Live \(Remastered\)](https://open.spotify.com/track/6OMjeAy4dTJ02R2QQ38XdW) | [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g), [Sam Rivers](https://open.spotify.com/artist/0DNuWm5ZBKuCIXLNmrzuk5) | [Now's The Time \[Live \(Remastered\)\]](https://open.spotify.com/album/5t0yHmctZiaGUPWX8YYOEL) | 7:11 |
 
-Snapshot ID: `MCxjZDc5ZjczMWMyNjM3NDg3NzRiNjRhZDA4Y2U4OWJhYTE0NTlkMmVh`
+Snapshot ID: `MCwzZDIzNGVhYWQ5YmY1MzU0NmI4NDE3ZDA4ZDdjOWQyODZkNTg1NThl`

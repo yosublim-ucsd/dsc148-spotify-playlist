@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 
 > Grandes vozes da música brasileira de hoje e de ontem reunidas em uma única playlist\. Foto: Gal Costa
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,544 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,597 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zF9ZmsyHKt.md) - [plain]
 | 99 | [Acabou](https://open.spotify.com/track/0kyrKozPm9P5jbQhSvr9Ir) | [Maria](https://open.spotify.com/artist/1fcS44jH4wr0qwxSVdxWyX) | [Acabou](https://open.spotify.com/album/0aewO9DlpZuzF26qDduvqR) | 2:59 |
 | 100 | [Diz Que Fui Por Ai](https://open.spotify.com/track/28BSCtSAR6HQmdrt823rg4) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Nara \(1964\)](https://open.spotify.com/album/0DrdA7FNioWPk1wRaRuHn7) | 2:09 |
 
-Snapshot ID: `MCwxNDJkZjIxYjViNDc0ZTI3ZmJkYzY2ZTZhMGQ0ZDUwNzg4NGI4ZDBm`
+Snapshot ID: `MTY4NjgzNjEwOCwwMDAwMDAwMGM3MjgzZmNkNGFhMDBlMGRjYzJiNTFkZTllZmE3MDg2`

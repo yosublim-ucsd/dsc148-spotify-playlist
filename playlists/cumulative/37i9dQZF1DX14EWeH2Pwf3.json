@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: Icy Subzero, Medy",
+  "description": "La playlist urban pi\u00f9 grande d'Italia \ud83d\udd25 Cover: MV Killa, Gu\u00e8",
   "name": "Plus Ultra",
   "tracks": [
     {
@@ -160,6 +160,24 @@
       "duration_ms": 124195,
       "name": "A TE",
       "url": "https://open.spotify.com/track/28XXZdpUgIHIHlibEL3Pmu"
+    },
+    {
+      "album": {
+        "name": "Abbronzatissima",
+        "url": "https://open.spotify.com/album/2SqYx4suWqZ3FakytOVwRW"
+      },
+      "artists": [
+        {
+          "name": "Vale Pain",
+          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172888,
+      "name": "Abbronzatissima",
+      "url": "https://open.spotify.com/track/00oyMVy9fXV6M3X4BzLHld"
     },
     {
       "album": {
@@ -482,7 +500,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 158400,
       "name": "ASSISTE 2 (feat. Kilimoney)",
       "url": "https://open.spotify.com/track/6uJCQb6kWhXfWrIXnDP8mx"
@@ -5062,7 +5080,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 121666,
       "name": "Paky Freestyle 2",
       "url": "https://open.spotify.com/track/15G4MmllbiFIDNILzUFn0o"
@@ -5845,6 +5863,32 @@
     },
     {
       "album": {
+        "name": "Qualcosa da bere",
+        "url": "https://open.spotify.com/album/6LSWJbpX34FT3KbQS1CfI1"
+      },
+      "artists": [
+        {
+          "name": "CoCo",
+          "url": "https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM"
+        },
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "Geeno",
+          "url": "https://open.spotify.com/artist/2GyLz0gcl3zDPPql47YWEy"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190597,
+      "name": "Qualcosa da bere",
+      "url": "https://open.spotify.com/track/5exPVjfGC9CNztXOGp8pEI"
+    },
+    {
+      "album": {
         "name": "SEVEN 7oo Mixtape",
         "url": "https://open.spotify.com/album/5oKyvhBZaVBPVWUxIhsLAG"
       },
@@ -6330,7 +6374,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 156674,
       "name": "SEXY (feat. Gu\u00e8)",
       "url": "https://open.spotify.com/track/6iOZlieTgmYWDCQmq4Auu6"
@@ -6756,6 +6800,24 @@
       "duration_ms": 139571,
       "name": "Stylist (feat. Gu\u00e8)",
       "url": "https://open.spotify.com/track/7IGBoOaXAd5IbNZLv5rZFT"
+    },
+    {
+      "album": {
+        "name": "TAF TAF",
+        "url": "https://open.spotify.com/album/7zC0Ei12gFL8TnHgEgmu6u"
+      },
+      "artists": [
+        {
+          "name": "Simba La Rue",
+          "url": "https://open.spotify.com/artist/2PEMswqQspTSsAltdeF5kO"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183095,
+      "name": "TAF TAF",
+      "url": "https://open.spotify.com/track/6eJIQo4C9LR9sACJI5fP7O"
     },
     {
       "album": {

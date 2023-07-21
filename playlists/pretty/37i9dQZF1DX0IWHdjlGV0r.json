@@ -1,12 +1,12 @@
 {
   "description": "Certi amori bruciano di pi\u00f9. Cover: Shiva",
-  "num_followers": 97208,
+  "num_followers": 97310,
   "original_name": "Arsenico ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMDhhZDAxM2ZmNWFhOGIwYTkwZGM1MWY4OTg1OTk2NWE0ZDg2N2Yz",
+  "snapshot_id": "MCw1OGE2N2YzZWYzOTI1NGMyMWU1ZjZhZTVlY2Q3ZWM0N2FkMTBhM2Vh",
   "tracks": [
     {
       "added_at": "2023-07-13 22:01:00",
@@ -359,6 +359,30 @@
       "duration_ms": 188888,
       "name": "La Notte di San Lorenzo",
       "url": "https://open.spotify.com/track/79Fh7hxRa2QDiLN3VMrFjL"
+    },
+    {
+      "added_at": "2023-07-13 22:01:00",
+      "album": {
+        "name": "Qualcosa da bere",
+        "url": "https://open.spotify.com/album/6LSWJbpX34FT3KbQS1CfI1"
+      },
+      "artists": [
+        {
+          "name": "CoCo",
+          "url": "https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM"
+        },
+        {
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+        },
+        {
+          "name": "Geeno",
+          "url": "https://open.spotify.com/artist/2GyLz0gcl3zDPPql47YWEy"
+        }
+      ],
+      "duration_ms": 190597,
+      "name": "Qualcosa da bere",
+      "url": "https://open.spotify.com/track/5exPVjfGC9CNztXOGp8pEI"
     },
     {
       "added_at": "2023-07-13 22:01:00",

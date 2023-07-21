@@ -1,12 +1,12 @@
 {
   "description": "New music from Billie Eilish, KAROL G, Post Malone, Troye Sivan, Lil Tjay & Summer Walker, Dan + Shay and more! ",
-  "num_followers": 4149439,
+  "num_followers": 4150227,
   "original_name": "New Music Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDljZDYwNzBlYjk1NWU5YmUwOTVjYjI0NWZhYTM5NWI0MjI3MDEx",
+  "snapshot_id": "MCw4ZDRkYTkxNDU4ZDE0ZTk4Y2M0YTQ2ZjQzODA1Y2IxZGIxOWIxNDk1",
   "tracks": [
     {
       "added_at": "2023-07-14 04:00:00",
@@ -771,7 +771,7 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "PB&J",
+        "name": "PB&J (feat. Young Nudy)",
         "url": "https://open.spotify.com/album/0iaBDYXLCmXrN6xUbJS7nJ"
       },
       "artists": [
@@ -789,7 +789,7 @@
         }
       ],
       "duration_ms": 213333,
-      "name": "PB&J",
+      "name": "PB&J (feat. Young Nudy)",
       "url": "https://open.spotify.com/track/3piCGEtCAqwlUsbVYI3g2Y"
     },
     {
@@ -1218,6 +1218,10 @@
         {
           "name": "Tiago PZK",
           "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Zecca",
+          "url": "https://open.spotify.com/artist/2FmE1yzXXBWKlRiOl0AqD8"
         }
       ],
       "duration_ms": 159245,

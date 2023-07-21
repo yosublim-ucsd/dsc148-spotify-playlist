@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3QiPV2C1uJQ3L8sKaykshJ.md) - [plain]
 
 > Listen to A\-List tracks from RCA Records featuring music from Young Nudy, Latto, Tate McRae, Elle King, and more\. Cover: SZA
 
-[RCA Records](https://open.spotify.com/user/rcarecords) - 14,238 likes - 69 songs - 3 hr 45 min
+[RCA Records](https://open.spotify.com/user/rcarecords) - 14,236 likes - 69 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

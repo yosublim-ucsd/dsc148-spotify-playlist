@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjwbwZzTyfD.md) - [plain]
 
 > The official soundtrack of Nike's NYvsNY, curated by the players\. We Outside!
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,627 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,550 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjwbwZzTyfD.md) - [plain]
 | 99 | [Hellcats & Trackhawks](https://open.spotify.com/track/53tv6ZbyeAwfAUwFaxYbfO) | [Only The Family](https://open.spotify.com/artist/3IaKn0ExWTMPqa0mscUYw3), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Only The Family \- Lil Durk Presents: Loyal Bros](https://open.spotify.com/album/7HCh4HQHDNZkXphOzb6ugT) | 2:26 |
 | 100 | [The Race \- Remix](https://open.spotify.com/track/7d19457woBxmPRCq255YqM) | [Tay\-K](https://open.spotify.com/artist/2ODbg2404zUzTi02qIPEjB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [\#SantanaWorld \(+\)](https://open.spotify.com/album/1S7KWH0szrqutOvzsqxiBv) | 3:31 |
 
-Snapshot ID: `MCxmZjgzYTZkYmViMDk0MmEzMjcyZTVkNmY5ZmIxNDdlZDNhZWRkYTUw`
+Snapshot ID: `MCw5NmZlZDdhMDEwODcyODdlNjgxZjE1MjI4ZjBiYzYwOTQ3ZWQ5Yjlm`

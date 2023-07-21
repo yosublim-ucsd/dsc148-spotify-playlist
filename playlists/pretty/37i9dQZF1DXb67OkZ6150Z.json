@@ -1,12 +1,12 @@
 {
   "description": "Discover indie covers. Cover: Lovejoy",
-  "num_followers": 282640,
+  "num_followers": 282698,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjM2Mzg1ODEyNTgxZWIyNTVmMDJiN2M0Y2RiZGZiNzcxMWExZDU0",
+  "snapshot_id": "MCw5NjMxODE1OTJiYTM3ZTU0OTlhYTA3ZWFiMDhkYjVmMDk3ZDA4M2Rh",
   "tracks": [
     {
       "added_at": "2023-05-05 17:19:46",
@@ -61,22 +61,6 @@
       "url": "https://open.spotify.com/track/3GWaFFi6TlPcZLYmCCHZ9O"
     },
     {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Everybody Wants To Rule The World",
-        "url": "https://open.spotify.com/album/2cl1aT8KUor2XmO4WH6vOu"
-      },
-      "artists": [
-        {
-          "name": "flipturn",
-          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
-        }
-      ],
-      "duration_ms": 223060,
-      "name": "Everybody Wants To Rule The World",
-      "url": "https://open.spotify.com/track/6Io2LMAlssbMR1cjj9cGD7"
-    },
-    {
       "added_at": "2023-05-05 17:19:46",
       "album": {
         "name": "Music Sounds Better with You",
@@ -123,26 +107,6 @@
       "duration_ms": 190392,
       "name": "Truly Madly Deeply - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/0ApIlfcdY0hVdVEVUyS2Zf"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Under Control (Strokes Cover)",
-        "url": "https://open.spotify.com/album/0jq39NsPsDRs7ebeVMFrqp"
-      },
-      "artists": [
-        {
-          "name": "Aaron Taos",
-          "url": "https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66"
-        },
-        {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
-        }
-      ],
-      "duration_ms": 207872,
-      "name": "Under Control (Strokes Cover)",
-      "url": "https://open.spotify.com/track/54fnGU9oxD4sjJUBelvf9G"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -195,22 +159,6 @@
       "duration_ms": 162641,
       "name": "The Perfect Pair - Spotify Singles",
       "url": "https://open.spotify.com/track/3VlDt2YVRn91CJXc89AQEx"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Bruises",
-        "url": "https://open.spotify.com/album/2JvhdvKblz0NVv1G0HNsUN"
-      },
-      "artists": [
-        {
-          "name": "Anke Richards",
-          "url": "https://open.spotify.com/artist/02NDeY8bYIzxfZ4EGbemeF"
-        }
-      ],
-      "duration_ms": 212966,
-      "name": "Bruises",
-      "url": "https://open.spotify.com/track/065dXQK2VPxThlb9qoOljB"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -323,22 +271,6 @@
       "duration_ms": 274829,
       "name": "Just A Girl - From The Original Series \u201cYellowjackets\u201d",
       "url": "https://open.spotify.com/track/7DtbrNlYifGnJc7HY0fS9i"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Shivers",
-        "url": "https://open.spotify.com/album/4Ql9kb8CRPMMXjxLGDdk2T"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 303054,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/6xiXaXON1rAuatwgLhIVlJ"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -637,20 +569,40 @@
       "url": "https://open.spotify.com/track/1BZdaILVXGhuJbvlMFzBBD"
     },
     {
-      "added_at": "2023-05-05 17:19:46",
+      "added_at": "2023-07-20 17:51:58",
       "album": {
-        "name": "Someone You Loved",
-        "url": "https://open.spotify.com/album/2e5jps2AoZA1q89RCCocHR"
+        "name": "Coastline (Vancouver Sleep Clinic Remix)",
+        "url": "https://open.spotify.com/album/1n8JqMqXX3ojKrFCQHMHPR"
       },
       "artists": [
         {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        },
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
         }
       ],
-      "duration_ms": 179176,
-      "name": "Someone You Loved",
-      "url": "https://open.spotify.com/track/0voD3AU9IVGAyCXeV8GeSz"
+      "duration_ms": 186990,
+      "name": "Coastline - Vancouver Sleep Clinic Remix",
+      "url": "https://open.spotify.com/track/0zUTBKmEYRpJnNwbILo3mW"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Shivers",
+        "url": "https://open.spotify.com/album/4Ql9kb8CRPMMXjxLGDdk2T"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 303054,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/6xiXaXON1rAuatwgLhIVlJ"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -747,6 +699,22 @@
       "duration_ms": 209813,
       "name": "Dancing on My Own",
       "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Everybody Wants To Rule The World",
+        "url": "https://open.spotify.com/album/2cl1aT8KUor2XmO4WH6vOu"
+      },
+      "artists": [
+        {
+          "name": "flipturn",
+          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
+        }
+      ],
+      "duration_ms": 223060,
+      "name": "Everybody Wants To Rule The World",
+      "url": "https://open.spotify.com/track/6Io2LMAlssbMR1cjj9cGD7"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1011,22 +979,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Build Me Up Buttercup",
-        "url": "https://open.spotify.com/album/75pu09lJh763j3ymMi9Fn5"
-      },
-      "artists": [
-        {
-          "name": "Lara Anderson",
-          "url": "https://open.spotify.com/artist/0ijXDXPqvo3fzBrGpVjpV4"
-        }
-      ],
-      "duration_ms": 175560,
-      "name": "Build Me Up Buttercup",
-      "url": "https://open.spotify.com/track/5bt5mhA34P1Dncbik5EGeJ"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Thank You For Being Here",
         "url": "https://open.spotify.com/album/2eRWUCcignvwnWOMQTtarq"
       },
@@ -1115,26 +1067,6 @@
       "duration_ms": 150000,
       "name": "Everyone's In Love With You - Spotify Singles",
       "url": "https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
-        "name": "Sweater Weather (Acoustic)",
-        "url": "https://open.spotify.com/album/0BdJo2A39iIZxoJXZLLTkG"
-      },
-      "artists": [
-        {
-          "name": "Jada Facer",
-          "url": "https://open.spotify.com/artist/4k51JgB5G0e33QYVpbcPuf"
-        },
-        {
-          "name": "Kyson Facer",
-          "url": "https://open.spotify.com/artist/0c6DUuMDIsuhBUUgYRGI30"
-        }
-      ],
-      "duration_ms": 150517,
-      "name": "Sweater Weather (Acoustic)",
-      "url": "https://open.spotify.com/track/0BbV0fKqY3jxlXYbtzN2bO"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1625,6 +1557,26 @@
       "url": "https://open.spotify.com/track/5bLaUOpi4YlCY8F3txSKxN"
     },
     {
+      "added_at": "2023-07-20 17:51:58",
+      "album": {
+        "name": "Broken Glass, Vol. 1",
+        "url": "https://open.spotify.com/album/3ajA1SGBwUrVIaqaUZBiR8"
+      },
+      "artists": [
+        {
+          "name": "Miya Folick",
+          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
+        },
+        {
+          "name": "Goodwerks",
+          "url": "https://open.spotify.com/artist/1xoy2fP09MR6o1FW3jzCyM"
+        }
+      ],
+      "duration_ms": 215500,
+      "name": "Walking on Broken Glass",
+      "url": "https://open.spotify.com/track/0ZCs6DZnq2GifODJZsUZXV"
+    },
+    {
       "added_at": "2023-05-05 17:19:46",
       "album": {
         "name": "Nothing Else Matters",
@@ -1711,6 +1663,58 @@
       "duration_ms": 216440,
       "name": "Because The Night",
       "url": "https://open.spotify.com/track/32xJ7Ays4uyxMuZFxfH0Zj"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "The Version Suicides, Vol. 2",
+        "url": "https://open.spotify.com/album/1aRcn8SmEQOrEqzp4xbbJz"
+      },
+      "artists": [
+        {
+          "name": "Christian Lee Hutson",
+          "url": "https://open.spotify.com/artist/5B7NeaqVrmXPyF05C9tnZ3"
+        },
+        {
+          "name": "Shamir",
+          "url": "https://open.spotify.com/artist/7JgXEHI1oEiQICAMeCsKTj"
+        }
+      ],
+      "duration_ms": 206496,
+      "name": "Just Like Heaven",
+      "url": "https://open.spotify.com/track/58qeN1OusvLhFmygjsdFB8"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Back To Black",
+        "url": "https://open.spotify.com/album/594QOTgYUnFesTBYXPHWB7"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 242181,
+      "name": "Back To Black",
+      "url": "https://open.spotify.com/track/44Z41mjp6AgW2NaXD0OIaP"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Under The Milky Way",
+        "url": "https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS"
+      },
+      "artists": [
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "duration_ms": 260101,
+      "name": "Under The Milky Way",
+      "url": "https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL"
     }
   ],
   "unique_name": "Indie Covers",

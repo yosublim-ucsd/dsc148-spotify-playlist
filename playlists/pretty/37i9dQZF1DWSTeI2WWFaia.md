@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: The Alchemist
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,621,887 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,621,930 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 49 | [Brick By Brick \(feat\. Blu\)](https://open.spotify.com/track/4qAC5kMzIxpY3k40KrfvCd) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Statik Selektah](https://open.spotify.com/artist/5v0XTlB9FqNvfBfnw8n5b0), [Blu](https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT) | [To See A Sunset \(Deluxe\)](https://open.spotify.com/album/43DmATz8B7QzovFhSmNZGW) | 3:00 |
 | 50 | [Get A Ticket](https://open.spotify.com/track/60PjmG1cTL2MRuDa8MRlkB) | [Chase Fetti](https://open.spotify.com/artist/4aAGG2cCHa15MPo795nJ97), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Get A Ticket](https://open.spotify.com/album/0idQETHpZfu6zCAqP5unBw) | 2:52 |
 
-Snapshot ID: `MCxmYzJhZWY5NjBjYjQ5NjBjMGMwMTQ3ZDgxNzYzOWQwMzMwYzFhNjc1`
+Snapshot ID: `MCxiM2ViZjQwOWZkMDFhOWExYjQ0MGQ5MjY2NmY2MjAyNWZlYjA1Yjk2`

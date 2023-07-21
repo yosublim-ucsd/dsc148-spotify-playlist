@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpQS44qqLL.md) - [plain]
 
 > Siempre espectaculares\. Foto: Vicente Fernández
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,926 likes - 200 songs - 13 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,064 likes - 200 songs - 13 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpQS44qqLL.md) - [plain]
 | 199 | [El Día Que Puedas](https://open.spotify.com/track/5771xKcFZR5MT4HDzbSulB) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Intimamente](https://open.spotify.com/album/5K5nnSuTpYNG2dc4mtDiRY) | 4:00 |
 | 200 | [Lo Mejor de Mi](https://open.spotify.com/track/5cEGQnaurid1T3sI5LyIL1) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Lo Mejor De Mi](https://open.spotify.com/album/1lLfKvbH4T00XyWPg5grYF) | 3:55 |
 
-Snapshot ID: `MCwyMTZmMzE1MjI2YzQ4YWZmYTk0ZjUzZDY1MmZlMTljMWM3YjY2YTUw`
+Snapshot ID: `MCw3NjkwYTgwMzBlM2ZmYzlkMzY2ODc3MzFlZGVkNjY3YTY0YjU0OTkz`

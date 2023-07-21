@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0UXHUfHinR.md) - [plain]
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,534 likes - 500 songs - 1 day 15 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,710 likes - 500 songs - 1 day 15 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -509,4 +509,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe0UXHUfHinR.md) - [plain]
 | 499 | [It Ain’t Necessarily So](https://open.spotify.com/track/0vwTHK0RI01avuLIrAHp8C) | [Mary Lou Williams](https://open.spotify.com/artist/6hrEc1XqVcGLK0Di6zVADR) | [Mary Lou Williams Presents Black Christ of the Andes](https://open.spotify.com/album/35TchegKRAVtmhwSfDA8hy) | 4:45 |
 | 500 | [Foolin' Myself](https://open.spotify.com/track/1M0bEJicvT2qmdJej9wjyk) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [Motion](https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU) | 6:57 |
 
-Snapshot ID: `MCxjN2U5ZDhiNWZiZWQ0ODZmYTIyOWQxNWYwY2U1NjEzZTU4YjhhN2Zi`
+Snapshot ID: `MCw0OGY1MTAyNGIwYjMzZDdiYjk5YzQyYmE5ZTViY2RkYmE5YzNjODVj`

@@ -4,7 +4,7 @@
 
 > Zo klinkt de zomer van 2023!
 
-216 songs - 10 hr 54 min
+217 songs - 10 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [See, I'm Sorry](https://open.spotify.com/track/5lnlFi4cQ2klADNUAXYXdl) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [See, I'm Sorry](https://open.spotify.com/album/5Q6mUe7IdvCTOXzRQ1uPM9) | 3:34 | 2023-02-23 | 2023-04-28 |
 | [Self Control](https://open.spotify.com/track/40Ae5zby2T2LEnWmRSEUhN) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Lee Cabrera](https://open.spotify.com/artist/4h8hm6TjKsvgmLajBgaI9w) | [Self Control](https://open.spotify.com/album/3vpqwBpHTyoAxx9576yUCj) | 3:06 | 2023-04-21 | 2023-07-05 |
 | [Shatterproof](https://open.spotify.com/track/628oCsEqVPJIbmew7hpTno) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu) | [Shatterproof](https://open.spotify.com/album/3j4O2suuQmYN3VBq6QFpCv) | 2:29 | 2023-06-01 |  |
+| [She Knows \- With Akon](https://open.spotify.com/track/3zkb0907pOJqU7m3Qh5hB7) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [She Knows \(With Akon\)](https://open.spotify.com/album/0pj4zHdT9FsFOkpA9Qic4F) | 2:15 | 2023-07-20 |  |
 | [Side Effects](https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Lewis Thompson](https://open.spotify.com/artist/26OmQHradZrF0CS7DrgWDH) | [Side Effects](https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j) | 2:33 | 2023-05-15 |  |
 | [SIMPLY THE BEST](https://open.spotify.com/track/31rWRFlQyMpmF6hfN4vUFj) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [ELEVATION](https://open.spotify.com/album/1mXYeysTByG8rC6YCFNwpn) | 3:56 | 2023-02-23 | 2023-06-06 |
 | [Skyboy](https://open.spotify.com/track/2HFigR6saLng0ZUEr9ISCE) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Skyboy](https://open.spotify.com/album/1aBJUsmDLkDgfeZ2nCqHlm) | 3:31 | 2023-03-09 | 2023-07-05 |
@@ -210,7 +211,7 @@
 | [WAPAE \(feat\. Angel Dior, Lenier, & Bulin 47\)](https://open.spotify.com/track/556h1n7la5iyZHcrv4kJMC) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6), [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy) | [WAPAE \(feat\. Angel Dior, Lenier, & Bulin 47\)](https://open.spotify.com/album/2En0vH2nqSia8vj0y47Ora) | 2:57 | 2023-05-30 |  |
 | [Weapons](https://open.spotify.com/track/21JOYA45JFkrOjqNwI6g8E) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Weapons](https://open.spotify.com/album/2tjMJuZqFVUqHrvXTkhZzO) | 2:31 | 2023-02-23 | 2023-04-04 |
 | [Weekends](https://open.spotify.com/track/5x748P8u1DkAIbquBuYOjm) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Weekends](https://open.spotify.com/album/2HoOxD1R1cjXwJJzerB0Jc) | 3:20 | 2023-02-23 | 2023-05-01 |
-| [Weekends](https://open.spotify.com/track/6Ds7oySA4gvkLMMrUxLidj) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Blood Orange](https://open.spotify.com/album/3JX33V2KTmNWzqBOPRpjSJ) | 3:20 | 2023-04-27 |  |
+| [Weekends](https://open.spotify.com/track/6Ds7oySA4gvkLMMrUxLidj) | [Freya Ridings](https://open.spotify.com/artist/5pDjmC5mRl7vDJhsjVwNfk) | [Blood Orange](https://open.spotify.com/album/3JX33V2KTmNWzqBOPRpjSJ) | 3:20 | 2023-04-27 | 2023-07-21 |
 | [Welcome to the DCC](https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Welcome to the DCC](https://open.spotify.com/album/5Os5j39zKEfpvKL11TtfYE) | 3:18 | 2023-04-03 | 2023-05-26 |
 | [What It Is \(Solo Version\)](https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [What It Is \(Versions\)](https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5) | 3:09 | 2023-05-25 |  |
 | [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/track/4q05KbxYZ5JdkmrletgPjF) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Whistle \(feat\. Calum Scott\)](https://open.spotify.com/album/0kXUCfMDhIUoHOfZ7TLsoj) | 3:01 | 2023-03-23 |  |

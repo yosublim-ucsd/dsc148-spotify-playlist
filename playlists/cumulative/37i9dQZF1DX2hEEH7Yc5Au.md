@@ -4,10 +4,11 @@
 
 > 一起來支持女性音樂人的精采表現！Cover: 楊乃文 \(Naiwen Yang\)
 
-385 songs - 1 day 2 hr 31 min
+386 songs - 1 day 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Dream of Bonnie and Clyde \(feat\. JADE\)](https://open.spotify.com/track/2IUXNnuWKre9DXp8nUpVDZ) | [Naiwen Yang](https://open.spotify.com/artist/2Vl4kZKeQslEl4P0ATWuue), [JADE](https://open.spotify.com/artist/2CP7We7wDMW76lotAw85aR) | [A Dream of Bonnie and Clyde](https://open.spotify.com/album/5Gk01vK87HZ4EQ52xTeyZ1) | 2:54 | 2023-07-21 |  |
 | [A Merry Feeling](https://open.spotify.com/track/7qS5awG1zfGCIgTDfQnU1d) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Layton Wu](https://open.spotify.com/artist/0sbcEwgYwffJrmDZK22f9a) | [A Merry Feeling](https://open.spotify.com/album/7iDrybj4pmCwGkL8MNssOI) | 3:08 | 2022-01-04 | 2022-02-02 |
 | [Aim High](https://open.spotify.com/track/4447zXCsgDBPORAbbz3Pia) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [平庸之上](https://open.spotify.com/album/4Eo1RocFVm6yPQxRCFMuJO) | 3:43 | 2022-05-03 | 2022-06-01 |
 | [Aim High](https://open.spotify.com/track/4tGo8louHXYYJZT4dUuUyk) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH) | [Beyond Mediocrity](https://open.spotify.com/album/6gV2UvsUCLzOSpDa3OlFUH) | 3:43 | 2022-11-02 | 2023-01-04 |
@@ -245,7 +246,7 @@
 | [打了一把鑰匙給你](https://open.spotify.com/track/4hHG0xMZMZrXeemnQBssxz) | [Rene Liu](https://open.spotify.com/artist/6qzfo7jiO4OrhxrvPFPlWX) | [雨季](https://open.spotify.com/album/0qt8BCze6Uc2rWaa4xwTom) | 5:07 | 2022-02-01 | 2023-06-07 |
 | [拜你所傷](https://open.spotify.com/track/07H9zeiANoXHqgWVeGOocW) | [Claire Kuo](https://open.spotify.com/artist/6OiFtK426XJWnOJ2HYlSbf) | [我非獨自生活](https://open.spotify.com/album/1kJnrBLvAm5r1d8dZqxMbe) | 4:20 | 2022-05-31 | 2022-07-06 |
 | [捆縛](https://open.spotify.com/track/6Attg3Eg8FqrJ5uEb4S9uU) | [Sandee Chan](https://open.spotify.com/artist/50DjkxUjr341CAWEf6mEXS) | [調教](https://open.spotify.com/album/5pd7J7w4Ku29uN91bIrD5c) | 3:41 | 2022-05-31 | 2022-07-06 |
-| [推開世界的門](https://open.spotify.com/track/7rYdfR1PHguFvfYUIs0ehf) | [Naiwen Yang](https://open.spotify.com/artist/2Vl4kZKeQslEl4P0ATWuue) | [離心力](https://open.spotify.com/album/2vRlV60YuFsgnMuvwrwyco) | 4:42 | 2023-07-04 |  |
+| [推開世界的門](https://open.spotify.com/track/7rYdfR1PHguFvfYUIs0ehf) | [Naiwen Yang](https://open.spotify.com/artist/2Vl4kZKeQslEl4P0ATWuue) | [離心力](https://open.spotify.com/album/2vRlV60YuFsgnMuvwrwyco) | 4:42 | 2023-07-04 | 2023-07-21 |
 | [摯友](https://open.spotify.com/track/1bQHKplf5fkkecalhAgYp0) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [LINK](https://open.spotify.com/album/1nf7xBTx71de6f2EQtusMz) | 5:18 | 2022-05-31 | 2023-01-04 |
 | [撥接](https://open.spotify.com/track/1wIViXII7bGJ1fYJrUljG9) | [Julia Wu](https://open.spotify.com/artist/7pSH4sO2lXAxFKF6MkwORv) | [撥接](https://open.spotify.com/album/2bAqoFILJC2xKxbq3L9vWE) | 3:11 | 2022-08-02 | 2022-09-07 |
 | [放棄](https://open.spotify.com/track/5haSd5TSsrNR9G34J1W01V) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [放棄](https://open.spotify.com/album/2MD2XlJ9XntKndK3Pkhec7) | 2:41 | 2023-04-04 |  |

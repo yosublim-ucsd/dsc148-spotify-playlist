@@ -4,7 +4,7 @@
 
 > Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl?si=Sonc\-mBXRpm5ut0itdUxVg">Loufi</a> & <a href="https://open.spotify.com/artist/0mWmaYz3c8Y6aidiFPu3kN?si=21NaMlL9QGy6MUBpjSeKJg">Van Pletzen</a>
 
-95 songs - 5 hr 8 min
+96 songs - 5 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Die Way Sy](https://open.spotify.com/track/7DTDGP6pimtwH0vNBFXuw1) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Die Way Sy](https://open.spotify.com/album/56K7gcnWlZu5QKCbZT6Crc) | 2:38 | 2023-03-10 |  |
 | [Dis Jou Wyfie \(Remix\)](https://open.spotify.com/track/5S50YUkum96QOyjy08EFF9) | [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Dis Jou Wyfie \(Remix\)](https://open.spotify.com/album/6AeXo59JDG0JoJOppnOJxw) | 3:12 | 2022-09-08 | 2023-07-14 |
 | [Doen Jou Ding \(feat\. Early B & Justin Vega\)](https://open.spotify.com/track/0gWseyvxR8h0bAf1YjPBru) | [Cream Machine](https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx), [Early B](https://open.spotify.com/artist/6CzVcrDqwjvTDr3uxyNgWG), [Justin Vega](https://open.spotify.com/artist/2IzKTL47yQLnbkl5IvBhuU) | [Doen Jou Ding \(feat\. Early B & Justin Vega\)](https://open.spotify.com/album/1vqDxxjiPE1WfbSF8wfPsa) | 2:58 | 2022-09-08 |  |
+| [Dubbel of Niks](https://open.spotify.com/track/7fnEBmFyCoqJKtDyLBCd4s) | [RoYal King](https://open.spotify.com/artist/25ebsUtKejuWF9RW98C81q), [Wanié](https://open.spotify.com/artist/2DK7M4YhSoa13hcbBvUgyt) | [Dubbel of Niks](https://open.spotify.com/album/4XpDHOUerLd2EokLmdAhO8) | 3:18 | 2023-07-20 |  |
 | [Duidelik](https://open.spotify.com/track/0fzhyU8gk2lYMAzzyd2dg9) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7) | [Duidelik](https://open.spotify.com/album/7iZV2Pb6drsJNfwxwUgHDh) | 2:02 | 2023-07-13 |  |
 | [Ek Is Tussen](https://open.spotify.com/track/0XS9vnMfxqTuRDGeQroOKV) | [Hxnry](https://open.spotify.com/artist/5dtikmaABYcNvQG4d5zfUQ) | [Ek Is Tussen](https://open.spotify.com/album/04XFXVW4dNH67A1AttIeo0) | 1:32 | 2023-03-30 |  |
 | [Ek Is Tussen \- Remix](https://open.spotify.com/track/0WCKGTPqGTXl0wbaDHxY0t) | [Hxnry](https://open.spotify.com/artist/5dtikmaABYcNvQG4d5zfUQ), [Matt Levai](https://open.spotify.com/artist/63IYpzhMyrwUyUDPkHvR3B) | [AFRIKAANS GENOEG?](https://open.spotify.com/album/1CHHHkhWAPapUTfpxRbXsi) | 2:34 | 2023-04-13 | 2023-04-21 |
@@ -54,7 +55,7 @@
 | [Letterkundig \- 7785 oordrom remix](https://open.spotify.com/track/792Q46TaZHAJWvto8A99vu) | [DJ Azuhl](https://open.spotify.com/artist/2jUdKSmS6qhZDwk9mXXWNF), [Niko10long](https://open.spotify.com/artist/5AcApmewreZ8Rk8eXWvX2v) | [Letterkundig \(7785 oordrom remix\)](https://open.spotify.com/album/5wjaUP6kmi3l4PkADryNx1) | 4:03 | 2023-07-06 |  |
 | [Level Up](https://open.spotify.com/track/5cSoFnlKff1cC7IU1tOLq8) | [Jodas OwnWorld](https://open.spotify.com/artist/7DVvbmpw08wrjCXD8fsi1P) | [Own World III](https://open.spotify.com/album/7wOATZwAI4XFYHEuwoRXnj) | 3:03 | 2022-09-08 | 2023-01-28 |
 | [Lewe Soos 'n Laanie](https://open.spotify.com/track/4EVunkm2L0w4JBwRYUpzIs) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I), [GBOY](https://open.spotify.com/artist/6LEdpCJ1Ujtme4NqrH09s1) | [Lewe Soos 'n Laanie](https://open.spotify.com/album/5Pyrq0AWETv5yS49b6sFSb) | 3:21 | 2022-09-08 |  |
-| [Liewe Genade \(feat\. Loufi\)](https://open.spotify.com/track/7jN2OX96qJCgyhiOPqK4BT) | [John James](https://open.spotify.com/artist/4YSLyAh8QLYsRCMKJFVB3n), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Liewe Genade \(feat\. Loufi\)](https://open.spotify.com/album/01PgqcjuqlaxBSPpslFvSl) | 4:17 | 2022-09-08 |  |
+| [Liewe Genade \(feat\. Loufi\)](https://open.spotify.com/track/7jN2OX96qJCgyhiOPqK4BT) | [John James](https://open.spotify.com/artist/4YSLyAh8QLYsRCMKJFVB3n), [Loufi](https://open.spotify.com/artist/389tNFyrtFfDUOStmWjwOl) | [Liewe Genade \(feat\. Loufi\)](https://open.spotify.com/album/01PgqcjuqlaxBSPpslFvSl) | 4:17 | 2022-09-08 | 2023-07-21 |
 | [Mal](https://open.spotify.com/track/63Q6SWhpOsG1KnCZZTGPjy) | [KRO\-Barz](https://open.spotify.com/artist/6goTSFa3mfHHZwybNGIQEq) | [Mal](https://open.spotify.com/album/41DsSF0XlDJlNPaZTMRaTw) | 2:11 | 2022-09-08 |  |
 | [Meisies & Partytjies](https://open.spotify.com/track/1psMgy1yY92I0iEDmiEtmT) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [Meisies & Partytjies](https://open.spotify.com/album/6zuBf5TT5VdAvijbdb3oCT) | 3:42 | 2022-09-08 |  |
 | [Meisies & Partytjies](https://open.spotify.com/track/2gesUnuudnlfvTFeuIF8Rw) | [Jack Parow](https://open.spotify.com/artist/2zzOTg1SHx5vuqgcexJRxA), [Angie oeh](https://open.spotify.com/artist/7rzauTxOgwzrTkkPzi7aAY) | [There It Is](https://open.spotify.com/album/3lSkOBovZW9Ex1crkCF54B) | 3:42 | 2022-09-08 | 2022-11-10 |

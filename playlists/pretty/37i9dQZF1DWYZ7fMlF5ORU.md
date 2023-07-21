@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 
 > A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: Jéssica Augusto
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,354 likes - 80 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,402 likes - 80 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 79 | [Oh Glória](https://open.spotify.com/track/3XXjak71y3Keeg7KPhpO2A) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Aonde Está Deus?](https://open.spotify.com/album/3CXe90GxZOBmxZidCtkwjY) | 3:59 |
 | 80 | [Todos São Iguais \- Ao Vivo](https://open.spotify.com/track/1nvQzQaL7lEOtyGz3W3jgi) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V), [João Alexandre](https://open.spotify.com/artist/5kgQN9xPuWYGxVzsJb86Hx) | [Todos São Iguais \(Ao Vivo\)](https://open.spotify.com/album/7ejMECw1J8l2h7vv08H1JA) | 4:16 |
 
-Snapshot ID: `MCxkYzllYmFjNDQxMmQzZTgwYWM0NDVhNDdmN2NmMzlkMTM5NDVhNjlm`
+Snapshot ID: `MCxhNTBjMGQ5ZjVkODRhYWZhODQ2M2EwN2Q2YTRhODY1N2UzMWE3NjUw`

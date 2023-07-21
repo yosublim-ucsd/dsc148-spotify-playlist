@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 
 > Folksy takes on your favorite tracks\. Cover: Rufus Wainwright
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,832 likes - 115 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,848 likes - 115 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDxnC0UqHJa.md) - [plain]
 | 114 | [Mr\. Bojangles](https://open.spotify.com/track/6bgcdWNmvjbWys5bJSO5uP) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Mr\. Bojangles](https://open.spotify.com/album/1MjwfqR2h1WNd01VxPj0SC) | 4:03 |
 | 115 | [No Ordinary Love \(Live at Eddie's Attic\)](https://open.spotify.com/track/6RTF7UzUAtMqOpGbakgzGj) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Live at Eddie's Attic](https://open.spotify.com/album/40LvDRa8e5cdgUFsKgSUzq) | 3:29 |
 
-Snapshot ID: `MCw1MDQ1MjViYjdkYzE3YThhYmMwNjZlMDUyNDZlZjRiMDY2YjU4NDZj`
+Snapshot ID: `MCwxMTY4ZjZhZjA2YmFmOTEwNjBhYzAxMmEyOWNiYTJlZjg0YWIxNjM0`

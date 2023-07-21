@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWhA27mtRFK.md) - [plain]
 
 > Open your mind to these classics from the golden era of New Age music\. Deuter on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,970 likes - 55 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,036 likes - 55 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTWhA27mtRFK.md) - [plain]
 | 54 | [Rising Sun](https://open.spotify.com/track/3eFvPXHvHhjCbi48GaDVGq) | [Kitaro](https://open.spotify.com/artist/6CTNhXJKT6SdsQspUDIGiY) | [Oasis \[Remastered\]](https://open.spotify.com/album/3jjaMGNHEM7I4PyzryqmbA) | 6:24 |
 | 55 | [See My Wings Shining: Brow / 3rd Eye Chakra](https://open.spotify.com/track/55QGndKaKmUFSLGejUj6k1) | [Kay Gardner](https://open.spotify.com/artist/2oF8YcqibVMuuSPLwSmEQ3) | [A Rainbow Path](https://open.spotify.com/album/02DfyYuGqvXbVw5KcCcdqY) | 6:17 |
 
-Snapshot ID: `MCxjNzliNDM5MjBhMTNhMjkwZjMzNGJhNmYzMTZkMDA3ZWY3MGI2YTU3`
+Snapshot ID: `MCw1NjY3N2I0NjE1NjFhYjllYjUwMTMxZTE5MWRkZGQ3YTViMGQ0NzMz`

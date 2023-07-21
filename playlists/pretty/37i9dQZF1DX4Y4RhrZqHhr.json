@@ -1,12 +1,12 @@
 {
   "description": "The ocean, the sun, your friends, the music.",
-  "num_followers": 789407,
+  "num_followers": 789620,
   "original_name": "Beach Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzVjY2NlOWExYjExZTlmMWJhYWJiNTI5NWI4NzY2ZjNjZTM1OWI0",
+  "snapshot_id": "MCxlYTBhMTc4ZjVlNTU4OGY4Y2NjOTg2ZmQyMDEwMDcwNWEyZTM2NGJh",
   "tracks": [
     {
       "added_at": "2023-03-02 13:12:52",
@@ -3674,6 +3674,10 @@
         {
           "name": "The Wild",
           "url": "https://open.spotify.com/artist/74lRkEloOvori8dZJjNEjd"
+        },
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
         }
       ],
       "duration_ms": 182903,

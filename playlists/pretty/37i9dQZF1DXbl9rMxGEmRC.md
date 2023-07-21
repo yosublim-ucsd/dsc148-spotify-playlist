@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,821 likes - 100 songs - 8 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,058 likes - 100 songs - 8 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl9rMxGEmRC.md) - [plain]
 | 99 | [Haunted by Guilt](https://open.spotify.com/track/6vt2sAnAVzN0fPAa9hvFYU) | [Kalmah](https://open.spotify.com/artist/2YPVtFn6SsYNntkmrdDpGF) | [Haunted by Guilt](https://open.spotify.com/album/7KTsCcLQtB09OhpulYMTmB) | 3:45 |
 | 100 | [He Was a Good Man, He Was a Taxpayer](https://open.spotify.com/track/3doMKklOpBPLGBNHOhZO70) | [KEN Mode](https://open.spotify.com/artist/3I33pakU01BuYZ5UyQ2A0i) | [He Was a Good Man, He Was a Taxpayer](https://open.spotify.com/album/11ytiC7J5KOK99Tp80uFGW) | 5:04 |
 
-Snapshot ID: `MCw2ODRmZWFiNzA5NDRjOTI5Nzk3NDM3NGEyNTE0OWE2MmFiMzRlM2My`
+Snapshot ID: `MCxlMTc5ZWFmYzRjNjQ1NDJiYWZjMDgyNTgxYTAyZjA2MDcxMzFhOTRl`

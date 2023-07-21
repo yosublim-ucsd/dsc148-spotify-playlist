@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 
 > Indie, pop, alternativo..\. y un poco más allá\. Cover: Buscabulla
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,852 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,880 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 | 49 | [Perdí Tu Num :\(](https://open.spotify.com/track/2u7QYQ7rot9OWjJeaVubIu) | [Mørfy](https://open.spotify.com/artist/3xz62lFU8IOTCAwVXngADr) | [Perdí Tu Num :\(](https://open.spotify.com/album/5eqaPXb3m0F3YvecBxmo3k) | 2:42 |
 | 50 | [Venados y Artefactos](https://open.spotify.com/track/6FjYW3LQtsKgd7SYSy6zgw) | [MaryOla](https://open.spotify.com/artist/5kooQfRbaDYVBAVAaGrFCT) | [Venados y Artefactos](https://open.spotify.com/album/5mV2121bnc1MAZyEsqf7lp) | 3:50 |
 
-Snapshot ID: `MCw4ZTc3YzJlNmU1YWE4MDA4MzY1MGY5NzJiMmNlMTY1ODJjOTgyYWJj`
+Snapshot ID: `MCw2YTdjNWQ2NDczZWZkNTIwMzViMjhkNWIyZTA5ZjBkODRmNjVkYzhk`

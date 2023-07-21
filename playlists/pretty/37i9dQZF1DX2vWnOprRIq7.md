@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vWnOprRIq7.md) - [plain]
 
 > El lado fluorescente del indie latino featuring Manuel García & Denise Rosenthal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,036 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,040 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vWnOprRIq7.md) - [plain]
 | 99 | [Días](https://open.spotify.com/track/033LUswuPS3Hg1QYYd0lJm) | [Ino Guridi](https://open.spotify.com/artist/2VZdNAReEB4AWkJ5MPj3g7) | [Pasará](https://open.spotify.com/album/4dLe34FABKIx05p6u5ajHC) | 3:34 |
 | 100 | [La Luna de Madrid](https://open.spotify.com/track/3PK51yIv33XfpD3jfBxy76) | [DouleurDolor](https://open.spotify.com/artist/6vfKO3oqYLZffoexZveF6T) | [La Luna de Madrid](https://open.spotify.com/album/3Ji3Q5aaBM7kp3dmP5ALbu) | 3:39 |
 
-Snapshot ID: `MCw3MWNhN2EzMmQwZWNkNzJmYzQ4MWVmMjVlZWI3OGMzNTRkZWE5ZDZh`
+Snapshot ID: `MCwzNmI3OTIzYjUyNjk1N2QyNWJmNzViZWY1YzkxN2NkNDMzYmI0N2Jl`

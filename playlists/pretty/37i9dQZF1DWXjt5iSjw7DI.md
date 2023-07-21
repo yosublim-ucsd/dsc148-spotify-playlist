@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjt5iSjw7DI.md) - [plain]
 
 > Country Music legends recorded live\. Just like being there\. Cover: Willie Nelson
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,309 likes - 150 songs - 9 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,353 likes - 150 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjt5iSjw7DI.md) - [plain]
 | 149 | [Walking Shoes](https://open.spotify.com/track/5h6dIlsk8CBz0GHBp6EE0y) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Live At Billy Bob's Texas](https://open.spotify.com/album/42kmHCV3ySjOrkoW2H8orX) | 2:39 |
 | 150 | [You Ain't Woman Enough](https://open.spotify.com/track/2NXQc041qB3yqH6NUUI66C) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Queens Of Country Music Volume 1](https://open.spotify.com/album/7vTZKzTvbtNMfbjGhXKjeg) | 2:12 |
 
-Snapshot ID: `MCxjZTUzM2E4YTEzZDNiNGExODc2NWJjNjU4YTI4MzJkZmM4Y2U4ZGU3`
+Snapshot ID: `MCxjOTQ5YWQxMzcxM2JmMDA4MGIzOTJkNThmNTE2MTY4NWIzNDQxMzQ3`

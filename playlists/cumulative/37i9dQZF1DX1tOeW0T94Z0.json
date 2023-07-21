@@ -1435,6 +1435,28 @@
     },
     {
       "album": {
+        "name": "Pressure",
+        "url": "https://open.spotify.com/album/2eiHKaQos3omBLYWOZYde4"
+      },
+      "artists": [
+        {
+          "name": "Devon",
+          "url": "https://open.spotify.com/artist/6Ly03qEEwW4vIQJDOInukA"
+        },
+        {
+          "name": "Rated-R",
+          "url": "https://open.spotify.com/artist/0x4UFqj0tCrQwtnjdpMvPM"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243330,
+      "name": "Mind Over Matter",
+      "url": "https://open.spotify.com/track/34tZKRrp49Iox1kcMkBXEU"
+    },
+    {
+      "album": {
         "name": "What It Is.",
         "url": "https://open.spotify.com/album/1xI8g1hZhPF4eBEzwPQl9s"
       },
@@ -2458,7 +2480,7 @@
       ],
       "date_added": "2022-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 336040,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/3vaML1rAVord8FBk0XxzhR"

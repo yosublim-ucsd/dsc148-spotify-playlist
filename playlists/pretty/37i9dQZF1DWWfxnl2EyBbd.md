@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 
 > The soft sound of a Jazz piano trio to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,606 likes - 400 songs - 1 day 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,659 likes - 400 songs - 1 day 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -409,4 +409,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWfxnl2EyBbd.md) - [plain]
 | 399 | [Ruby, My Dear](https://open.spotify.com/track/53ROPqJRDrefqoLEGZ8khW) | [Eric Reed](https://open.spotify.com/artist/6aIBBSprVv4xXTT6vzONXU) | [The Dancing Monk](https://open.spotify.com/album/3MuW4a7hKYPEtj80iIVubV) | 6:02 |
 | 400 | [The Art of Flying \- Edit](https://open.spotify.com/track/38j4V8qkda6o4ta0BCJvKJ) | [Peter Nordahl Trio](https://open.spotify.com/artist/6Qar0oNt9IZSMyrBxMg7ok) | [The Art of Flying \(Edit\)](https://open.spotify.com/album/63PWCBZVpIcVFJkH3godc5) | 4:08 |
 
-Snapshot ID: `MCwyMmEzOTNlZmJlZjI5NmE0NDY2ZmE3MjI5ZDM4ZWRhN2U1NmUxNWRm`
+Snapshot ID: `MCxmYzI3ZWNhZTgzZDljYWZmZjE5MTUxZjk4OTRmMDIyNGUwN2M4OWU4`

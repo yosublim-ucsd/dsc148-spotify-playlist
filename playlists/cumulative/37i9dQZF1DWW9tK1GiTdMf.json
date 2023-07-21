@@ -1,8 +1,34 @@
 {
   "date_first_scraped": "2022-05-09",
-  "description": "canzoni che ti fanno ribaltare i tavoli (\u256f\u00b0\u25a1\u00b0\uff09\u256f\ufe35 \u253b\u2501\u253b  Simone Panetti in cover!",
+  "description": "canzoni che ti fanno ribaltare i tavoli (\u256f\u00b0\u25a1\u00b0\uff09\u256f\ufe35 \u253b\u2501\u253b  Sally Cruz in cover!",
   "name": "sanguegiovane",
   "tracks": [
+    {
+      "album": {
+        "name": "**** (Bravi A Perderci)",
+        "url": "https://open.spotify.com/album/7n0JpYPaPssYOOypmNWV5S"
+      },
+      "artists": [
+        {
+          "name": "Bipolar",
+          "url": "https://open.spotify.com/artist/36CoTQmA5QgZvVpG81y1di"
+        },
+        {
+          "name": "Cloud\u00ec",
+          "url": "https://open.spotify.com/artist/14F6TgN7IOUEReU7piFW82"
+        },
+        {
+          "name": "Sbale",
+          "url": "https://open.spotify.com/artist/4aAiKU8UocJHjZfxjQuaCU"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159958,
+      "name": "**** (Bravi A Perderci)",
+      "url": "https://open.spotify.com/track/0t7C6JJjqfNPtxZ1KbpaoB"
+    },
     {
       "album": {
         "name": "0 SENTIMENTO",
@@ -392,7 +418,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 187851,
       "name": "a me va bene",
       "url": "https://open.spotify.com/track/4vZhyOMWGhnh6YQkOyt7ms"
@@ -922,7 +948,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 155187,
       "name": "ANTIDOTO",
       "url": "https://open.spotify.com/track/5lFgaIQCOesP0LrW3sYgC2"
@@ -1060,6 +1086,24 @@
       "duration_ms": 124188,
       "name": "ay! (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/374EllG6WyKdKvklfanNZT"
+    },
+    {
+      "album": {
+        "name": "TEPPISTA",
+        "url": "https://open.spotify.com/album/0G6EDjdgrG8HuP2GPyheNC"
+      },
+      "artists": [
+        {
+          "name": "Delorean",
+          "url": "https://open.spotify.com/artist/6cOxMyXc6gp4WsI4vruk2h"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143588,
+      "name": "BABY DOLL",
+      "url": "https://open.spotify.com/track/1ujONgmMYCNm0xFDSZZBqP"
     },
     {
       "album": {
@@ -1362,6 +1406,28 @@
       "duration_ms": 197663,
       "name": "Blister",
       "url": "https://open.spotify.com/track/5CE7zszvQTyd0PseSB7DZm"
+    },
+    {
+      "album": {
+        "name": "Blocco",
+        "url": "https://open.spotify.com/album/57CACeG7E4wI3VnM3krbwY"
+      },
+      "artists": [
+        {
+          "name": "$aintandrea",
+          "url": "https://open.spotify.com/artist/1758DHEx8L79jwdOss3vNs"
+        },
+        {
+          "name": "SHIN",
+          "url": "https://open.spotify.com/artist/5gVfllO9mrhALdqC3mPN3n"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170909,
+      "name": "Blocco",
+      "url": "https://open.spotify.com/track/5lIPRFOQfMxzaebBamFhne"
     },
     {
       "album": {
@@ -1900,7 +1966,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 148907,
       "name": "Clara",
       "url": "https://open.spotify.com/track/3dZxdF4oBB0zayJuvQ01oN"
@@ -2387,6 +2453,32 @@
     },
     {
       "album": {
+        "name": "CUORE IN UNA BUSTA",
+        "url": "https://open.spotify.com/album/59jpMKXkosR9Z9H0TTFpBc"
+      },
+      "artists": [
+        {
+          "name": "WEZ",
+          "url": "https://open.spotify.com/artist/4vyMNshKeFNpOJSQViqjAi"
+        },
+        {
+          "name": "Noise",
+          "url": "https://open.spotify.com/artist/6D4EJfLuwDV686lAIvGvdR"
+        },
+        {
+          "name": "empty",
+          "url": "https://open.spotify.com/artist/0IOp28iZmU4zrgRR2ol34d"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141227,
+      "name": "CUORE IN UNA BUSTA",
+      "url": "https://open.spotify.com/track/0lh1NAgpJxdAtKTvRor2f3"
+    },
+    {
+      "album": {
         "name": "cuore sacro",
         "url": "https://open.spotify.com/album/3pN7FUikn54e0DYW1xPxi1"
       },
@@ -2590,7 +2682,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 132331,
       "name": "DETOX",
       "url": "https://open.spotify.com/track/3qWfrpqEpmQJMpytmXUsgb"
@@ -3070,7 +3162,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 162000,
       "name": "Dove e Quando RMX (feat. Finley)",
       "url": "https://open.spotify.com/track/1wJMSdhcsbz8edy6ZyCSaW"
@@ -4905,6 +4997,24 @@
     },
     {
       "album": {
+        "name": "in un secondo",
+        "url": "https://open.spotify.com/album/3Inl0YP3dhkUv8B7F9nBT7"
+      },
+      "artists": [
+        {
+          "name": "2802",
+          "url": "https://open.spotify.com/artist/1wGqWC44yC1hYxWBnyY2Us"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160725,
+      "name": "in un secondo",
+      "url": "https://open.spotify.com/track/6YzFWwCEuFrohOrYHr7UI5"
+    },
+    {
+      "album": {
         "name": "I RAGAZZI STANNO BENE",
         "url": "https://open.spotify.com/album/3oZ7hp7zsXsKhdPTmXjW4g"
       },
@@ -5580,7 +5690,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 212049,
       "name": "Lei parl\u00f2 di lui",
       "url": "https://open.spotify.com/track/6cIkmCUusVbw86Zs17wHKY"
@@ -5678,6 +5788,32 @@
       "duration_ms": 154285,
       "name": "Lividi",
       "url": "https://open.spotify.com/track/06jnGF7Oc1Dd2XEuLyzBA2"
+    },
+    {
+      "album": {
+        "name": "LIVIDI",
+        "url": "https://open.spotify.com/album/1M9045i9BvzDNFFvLDFMRx"
+      },
+      "artists": [
+        {
+          "name": "Sally Cruz",
+          "url": "https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc"
+        },
+        {
+          "name": "Mike Defunto",
+          "url": "https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx"
+        },
+        {
+          "name": "MILES",
+          "url": "https://open.spotify.com/artist/1gs79u8PKkWAW1yfymbkTt"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133549,
+      "name": "LIVIDI",
+      "url": "https://open.spotify.com/track/30TgUm0WPcCU7srcV29rBE"
     },
     {
       "album": {
@@ -6995,6 +7131,24 @@
     },
     {
       "album": {
+        "name": "NON MI VOGLIO FERMARE",
+        "url": "https://open.spotify.com/album/1cCHKvpHoFGhkrHWxXeyhW"
+      },
+      "artists": [
+        {
+          "name": "Zack",
+          "url": "https://open.spotify.com/artist/0digr9CIDd0VatlphDu3rO"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175693,
+      "name": "NON MI VOGLIO FERMARE",
+      "url": "https://open.spotify.com/track/5ClKWhaAANRK1BFERsAZuK"
+    },
+    {
+      "album": {
         "name": "Non Piangere",
         "url": "https://open.spotify.com/album/0leAdGkv75n8mgSd2VDgV9"
       },
@@ -7343,6 +7497,24 @@
     },
     {
       "album": {
+        "name": "One & Only",
+        "url": "https://open.spotify.com/album/46vi3TK1L8KjWArl67u3N9"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137391,
+      "name": "One & Only",
+      "url": "https://open.spotify.com/track/3lHIanYBxMNZPcRRu0WmWr"
+    },
+    {
+      "album": {
         "name": "RESPIRA",
         "url": "https://open.spotify.com/album/4oLtZPBDcpeJkzobTwkaS4"
       },
@@ -7587,6 +7759,50 @@
     },
     {
       "album": {
+        "name": "PHANTOM",
+        "url": "https://open.spotify.com/album/5csLhunCpT6Pptq0UVvNop"
+      },
+      "artists": [
+        {
+          "name": "sianlout",
+          "url": "https://open.spotify.com/artist/1wButoyfC3HvQ1ot1bpr8k"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203530,
+      "name": "PHANTOM",
+      "url": "https://open.spotify.com/track/33YuvneTdl6vhCLZGD5Nmw"
+    },
+    {
+      "album": {
+        "name": "PIAZZA LIBERT\u00c0",
+        "url": "https://open.spotify.com/album/5xUQYRjzvgZHRTjdhtjJX1"
+      },
+      "artists": [
+        {
+          "name": "Frada",
+          "url": "https://open.spotify.com/artist/1khPlpMPliiZeK53WWSWXY"
+        },
+        {
+          "name": "Joseph",
+          "url": "https://open.spotify.com/artist/55XdeSzaUSVeSfsnRCQrnR"
+        },
+        {
+          "name": "Agon",
+          "url": "https://open.spotify.com/artist/1LHVbos3OPyt6XN52RvTJK"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174525,
+      "name": "PIAZZA LIBERT\u00c0",
+      "url": "https://open.spotify.com/track/7obLS8mXOX0nGuhId299K7"
+    },
+    {
+      "album": {
         "name": "EMOTIVO",
         "url": "https://open.spotify.com/album/6sc3bvULuxvoUTMQon9GxG"
       },
@@ -7606,6 +7822,24 @@
       "duration_ms": 151409,
       "name": "PICCOLI",
       "url": "https://open.spotify.com/track/3F86TXXBuXxQWLF3Gl0Zqr"
+    },
+    {
+      "album": {
+        "name": "Pillole",
+        "url": "https://open.spotify.com/album/2LFoEjRvmHKzcstDPLPLUi"
+      },
+      "artists": [
+        {
+          "name": "TVB",
+          "url": "https://open.spotify.com/artist/05LOeuVeelln8qMq6s1Cz5"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167368,
+      "name": "Pillole",
+      "url": "https://open.spotify.com/track/7gBO9lts9MZomcwuZnIXTy"
     },
     {
       "album": {
@@ -7780,7 +8014,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 130701,
       "name": "Pomegrigio",
       "url": "https://open.spotify.com/track/1WDHzOERHvCs9OrsRsVcQv"
@@ -8328,6 +8562,28 @@
       "duration_ms": 174387,
       "name": "rituale",
       "url": "https://open.spotify.com/track/0YAKQqUzN083tPnjJnI1ui"
+    },
+    {
+      "album": {
+        "name": "Rivoluzione!",
+        "url": "https://open.spotify.com/album/5jFiLe8UahShhjZyUhmnkM"
+      },
+      "artists": [
+        {
+          "name": "Sethu",
+          "url": "https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5"
+        },
+        {
+          "name": "Jiz",
+          "url": "https://open.spotify.com/artist/38CThoTDmXugNnfonW466d"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161269,
+      "name": "Rivoluzione!",
+      "url": "https://open.spotify.com/track/4OYZLVdGFBHJ8UQcRbU3Ny"
     },
     {
       "album": {
@@ -9939,6 +10195,24 @@
     },
     {
       "album": {
+        "name": "Strongly Worded Letter",
+        "url": "https://open.spotify.com/album/0iJCgwJtJgoToVKta9NXk9"
+      },
+      "artists": [
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138506,
+      "name": "Strongly Worded Letter",
+      "url": "https://open.spotify.com/track/5BBHMxzR3vMZNlXDEpbIT8"
+    },
+    {
+      "album": {
         "name": "Stronza(te)",
         "url": "https://open.spotify.com/album/65XNiXVqx8dvXCk4WbPxfR"
       },
@@ -10382,7 +10656,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 181938,
       "name": "The Bridge",
       "url": "https://open.spotify.com/track/7MTHpsxtKVJaBL6e9WXzqD"
@@ -11228,6 +11502,42 @@
       "duration_ms": 153548,
       "name": "VANS",
       "url": "https://open.spotify.com/track/3FHWUwkxy8LRo4BAdNRgPP"
+    },
+    {
+      "album": {
+        "name": "Vans a scacchi",
+        "url": "https://open.spotify.com/album/0ESq9IxxAaYYGMWTtWndhL"
+      },
+      "artists": [
+        {
+          "name": "Stefy Evita",
+          "url": "https://open.spotify.com/artist/4Z04kBsbXXAHT9HnboyBiz"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188974,
+      "name": "Vans a scacchi",
+      "url": "https://open.spotify.com/track/1GENmcbWCrEMUqYMkWdZdM"
+    },
+    {
+      "album": {
+        "name": "ventiquattro",
+        "url": "https://open.spotify.com/album/1EuqOMLU1qZiUekCMnZA1E"
+      },
+      "artists": [
+        {
+          "name": "blame",
+          "url": "https://open.spotify.com/artist/2laf1Hnjue0go3xbkPpfT8"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150193,
+      "name": "ventiquattro",
+      "url": "https://open.spotify.com/track/36V1AlJgM7twP1LNJym8Xn"
     },
     {
       "album": {

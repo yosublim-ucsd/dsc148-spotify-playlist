@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 
 > Songs of positivity from some of today's leading inspiring artists\. Cover:  Tobe Nwigwe
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,636 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,733 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Bi6W3YuUlA.md) - [plain]
 | 99 | [Enemies and Foes](https://open.spotify.com/track/3oEedh41qZHd3dgjHnU158) | [J\. Monty](https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O), [TuKool Tiff](https://open.spotify.com/artist/50YX6wIj2UNBUvYs13U61H) | [Enemies and Foes](https://open.spotify.com/album/1JPLYPRrG4W639k02xAZ6a) | 4:49 |
 | 100 | [I Can't Let Up](https://open.spotify.com/track/3aschLk8c7vD1dUc92ytfV) | [Parris Chariz](https://open.spotify.com/artist/2Vt6gyhUH7Vj2cybfQWOqM) | [I Can't Let Up](https://open.spotify.com/album/057xUQ5V2b0sDty0YrRMCF) | 2:26 |
 
-Snapshot ID: `MCxmZjQ1NjlhYzRjYTM3YTBmNzI1M2U3M2FiZTFlZGM3ZTJkNWEwYzA5`
+Snapshot ID: `MCxiMjM3MWE4MDdiZjBhYjRmMzgwMmFlOTc4MjA2YzMwZWVmZDVhNDg3`

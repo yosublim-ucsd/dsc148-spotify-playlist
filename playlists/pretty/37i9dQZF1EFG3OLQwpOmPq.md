@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4e1uL7ct1eJLYsIEob5yEp">sad alex</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 998 likes - 77 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 997 likes - 77 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 9 | [Bitter](https://open.spotify.com/track/35NDUYJIRkuYsAw7h8Zbrr) | [Yoe Mase](https://open.spotify.com/artist/4IuWSIEfIed8aZb49YA4Cj), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Bitter](https://open.spotify.com/album/2e4yd8Fv3mYfpaIYeCAfzQ) | 3:17 |
 | 10 | [High Hopes](https://open.spotify.com/track/0N3FvAOPKg4oGJLVshk72Y) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [High Hopes](https://open.spotify.com/album/1J3tAErrryLAG4ymvG1LV6) | 2:59 |
 | 11 | [hypotheticals](https://open.spotify.com/track/1HI84AsI0wokonlV760TRT) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [hypotheticals](https://open.spotify.com/album/3VYNIeDemi3QCq5QDFwHo2) | 2:04 |
-| 12 | [Good Catch](https://open.spotify.com/track/1aM1vmUvj3ki6VvEPMhnyP) | [Win and Woo](https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Ten Years](https://open.spotify.com/album/6SsTlYzPQEcEXs3wB324sD) | 2:35 |
-| 13 | [rugburn](https://open.spotify.com/track/0SzeLGLcyhzqoOANw7dRWu) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [rugburn](https://open.spotify.com/album/63bgr5IeQqGJlZBlYpgcsW) | 2:19 |
+| 12 | [rugburn](https://open.spotify.com/track/0SzeLGLcyhzqoOANw7dRWu) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [rugburn](https://open.spotify.com/album/63bgr5IeQqGJlZBlYpgcsW) | 2:19 |
+| 13 | [Good Catch](https://open.spotify.com/track/1aM1vmUvj3ki6VvEPMhnyP) | [Win and Woo](https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Ten Years](https://open.spotify.com/album/6SsTlYzPQEcEXs3wB324sD) | 2:35 |
 | 14 | [Bipolar](https://open.spotify.com/track/7yzWKViihM9g9ISBmX7ypy) | [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Bipolar](https://open.spotify.com/album/0d0EAuRcevYRKmeyNGQfig) | 2:36 |
 | 15 | [lovesick \(feat\. ellise\)](https://open.spotify.com/track/3KMvDzhXsVzXtTkwTfyaKh) | [guccihighwaters](https://open.spotify.com/artist/7EIOmfcBRSR63ZaUptkD09), [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [joke's on you](https://open.spotify.com/album/7m81PtaaFgg72fNkVvU5gF) | 2:43 |
 | 16 | [nature](https://open.spotify.com/track/1a8BgdhsbE1a4tZfmKB6Qq) | [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [nature](https://open.spotify.com/album/1ojtegqub3YXbSq9YNj9lF) | 3:21 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 60 | [Still Healing](https://open.spotify.com/track/53VZW4XxtnqlMLI08YrmYb) | [is this Cam?](https://open.spotify.com/artist/3AHAHKIu0YYH3pWRo32PlS), [Jamiison](https://open.spotify.com/artist/1Agg6zZOXNBJiWNBrOGA9a) | [Waves](https://open.spotify.com/album/4DwTCENDrvdFJVB5odaxiI) | 2:15 |
 | 61 | [paper ceilings](https://open.spotify.com/track/40a9j0j933mlcCEgokySHT) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear, pt\. 2](https://open.spotify.com/album/4rpvugPj65oevcSZTqRDjZ) | 2:36 |
 | 62 | [Give Up the Gold](https://open.spotify.com/track/5j9jatJTdfmJKJ7tFYbf32) | [Dola](https://open.spotify.com/artist/7zV7uaFYItDZduoF0E9XRK) | [Give Up the Gold](https://open.spotify.com/album/0qpYNafkpUcFR6OFRCQcGL) | 2:03 |
-| 63 | [swerve](https://open.spotify.com/track/5bzOuMKNSQkZ06rr0ubaNF) | [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb) | [body](https://open.spotify.com/album/2lmOpm49RrXP4RA677VV95) | 2:45 |
-| 64 | [Don't Make Me Miss You](https://open.spotify.com/track/607gOHvtj1UmM6youCL7aG) | [Wayne Regretzky](https://open.spotify.com/artist/1afYZ4zkRfwrgjz0OVhy1v), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Don't Make Me Miss You](https://open.spotify.com/album/6JFoyy1Ndxe0dhjWROVmzP) | 2:06 |
+| 63 | [Don't Make Me Miss You](https://open.spotify.com/track/607gOHvtj1UmM6youCL7aG) | [Wayne Regretzky](https://open.spotify.com/artist/1afYZ4zkRfwrgjz0OVhy1v), [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [Don't Make Me Miss You](https://open.spotify.com/album/6JFoyy1Ndxe0dhjWROVmzP) | 2:06 |
+| 64 | [swerve](https://open.spotify.com/track/5bzOuMKNSQkZ06rr0ubaNF) | [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb) | [body](https://open.spotify.com/album/2lmOpm49RrXP4RA677VV95) | 2:45 |
 | 65 | [love notes and hate mail](https://open.spotify.com/track/7F25Xwb7FWYlx2GBj5i8Wv) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [songs that you'll probably never hear, pt\. 3](https://open.spotify.com/album/66MfxSBqQQD1NGyNY5mTs1) | 3:18 |
 | 66 | [body](https://open.spotify.com/track/1AOyWQleFNAagx0LPJQPUF) | [alxxa](https://open.spotify.com/artist/6joS5ruCz1MSCWxJb8Yqjb) | [body](https://open.spotify.com/album/2fvjwp4UBq2wsvU8sDsZZR) | 3:12 |
 | 67 | [Elouise](https://open.spotify.com/track/2XHyh3INyHUK48Ums6ShOt) | [Ian Nelson](https://open.spotify.com/artist/0Qz341hUw2KNrPpassp9HQ) | [Elouise](https://open.spotify.com/album/06SBSILEyeDpD3kucveNMf) | 3:34 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG3OLQwpOmPq.md) - [plain]
 | 76 | [The Heart Always Wins](https://open.spotify.com/track/3bNXPv2uIbtc9x8YnGmjiY) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:32 |
 | 77 | [It's All Good](https://open.spotify.com/track/7k4IoEjEyhWgITb1JoF3mO) | [True Babies](https://open.spotify.com/artist/3KcFt8EDGm7XBO9kPWt7sY) | [True Babies](https://open.spotify.com/album/1v8v5REyfAHmx0V202oTCk) | 2:15 |
 
-Snapshot ID: `MjgxNjIyODUsMDAwMDAwMDBiNTEwYWRjNWY3NTNkM2EzZDk0MjNjZGIwYTgwMTk1YQ==`
+Snapshot ID: `MjgxNjUxMDAsMDAwMDAwMDA0ZmQwZmU0NDM3MDFlZmJhNmM5Yjc1NjA2ODUyMTc4Mw==`

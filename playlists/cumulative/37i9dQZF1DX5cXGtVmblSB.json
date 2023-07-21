@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "Alchemy of Peace 528 Hz",
+        "url": "https://open.spotify.com/album/55Lus08VvD86i1ju4GWkX9"
+      },
+      "artists": [
+        {
+          "name": "Doctor Hz",
+          "url": "https://open.spotify.com/artist/1Vxb1AqblkYBW00JtLP2Re"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190500,
+      "name": "Alchemy of Peace 528 Hz",
+      "url": "https://open.spotify.com/track/3a9fMpm7q9I5HmovLUibEI"
+    },
+    {
+      "album": {
         "name": "Alternating Current",
         "url": "https://open.spotify.com/album/31yaFYn1OpYbqEUlcL1ssU"
       },
@@ -706,7 +724,7 @@
       ],
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 344937,
       "name": "Luna and June's Purrfect Harmony",
       "url": "https://open.spotify.com/track/7zqaY1x1PeKnFtLAhzYXtJ"
@@ -870,7 +888,7 @@
       ],
       "date_added": "2020-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 412500,
       "name": "Penelope's Nocturne",
       "url": "https://open.spotify.com/track/2DJehHvLodyXbp8W0glBNr"

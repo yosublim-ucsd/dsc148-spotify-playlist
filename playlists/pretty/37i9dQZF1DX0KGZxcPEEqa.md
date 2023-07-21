@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KGZxcPEEqa.md) - [plain]
 
 > Digging deep into the history of 10s pop\. Cover: Ellie Goulding.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,321 likes - 400 songs - 23 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,402 likes - 400 songs - 23 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -409,4 +409,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KGZxcPEEqa.md) - [plain]
 | 399 | [Come Closer](https://open.spotify.com/track/78grBouzwHBGAXf7wkffwq) | [Lou and Matthew](https://open.spotify.com/artist/43Ij4TGofSYrrATCUydG6Z) | [Come Closer](https://open.spotify.com/album/4bx5gP3WA2wpkpE5zUrQZp) | 3:40 |
 | 400 | [Dancing \(Mumbai Wedding\)](https://open.spotify.com/track/4QfUafNI4ezTRvlLeOWZVr) | [NONONO](https://open.spotify.com/artist/513t0jZUP0K98C4h7KHtEb) | [Dancing \(Mumbai Wedding\)](https://open.spotify.com/album/3Zioqc5SIZJUUFudy9zkRk) | 3:27 |
 
-Snapshot ID: `MCwxYjBkZmRjOGUxMTYwMjM5Yzc4ZTI5YTNjNGExMGVkMDhjZTJmMTI3`
+Snapshot ID: `MCwzOTc3NTEwOWEwN2I4OTZiNDllNTI5MWEzZTBjMzJmZmQ3NDliNmIz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 882,232 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 882,197 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 85 | [Oatmeal Pancakes](https://open.spotify.com/track/3Qazns0pMnqN6cbDJTxj9a) | [Sam Austins](https://open.spotify.com/artist/0zmnfFQX8LWVVZyRPHRx1V) | [Oatmeal Pancakes](https://open.spotify.com/album/68pGqsjvG8r4vvLBljvPuQ) | 3:06 |
 | 86 | [Petroglyph](https://open.spotify.com/track/2bzAmBp07YEFIxoc202Ug9) | [Vinyl Williams](https://open.spotify.com/artist/7GJ7lI9jmrNOuxBEcNQHPT) | [Petroglyph](https://open.spotify.com/album/1FUdKikHCOSBLxpSlR11nO) | 4:33 |
 | 87 | [Renegade](https://open.spotify.com/track/3SqMnzlS5KPE7wFFF4wBWa) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Renegade](https://open.spotify.com/album/05yGOGCNiN4vhRfOlX50oG) | 2:54 |
-| 88 | [Late Riser](https://open.spotify.com/track/470eRO1gcvW3zVf3HMlKTQ) | [Okey Dokey](https://open.spotify.com/artist/3hSFS64223jyO9Ck66rLOf) | [Late Riser](https://open.spotify.com/album/7sDSRMs5TsaMdJa4e8PyAl) | 4:10 |
+| 88 | [Late Riser](https://open.spotify.com/track/49oTazxdKGoxGTq9ZmqpPV) | [Okey Dokey](https://open.spotify.com/artist/3hSFS64223jyO9Ck66rLOf) | [Late Riser](https://open.spotify.com/album/1vZoAnLWsTLhR6r4sussA0) | 4:10 |
 | 89 | [Afterlife](https://open.spotify.com/track/5XfG0OjDoHFAOOBtPcSmX8) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Exotico](https://open.spotify.com/album/4rPbXiutTsGBMnkW9KESZQ) | 3:46 |
 | 90 | [Low Lights and Throwback Tunes](https://open.spotify.com/track/6p0uCWOGRJBm3Fh2g1gYzM) | [common goldfish](https://open.spotify.com/artist/6Mmv28h1DOKGQEPxJBqe8F) | [Low Lights and Throwback Tunes](https://open.spotify.com/album/7gKrqg4cpCrDFhApfYmnXF) | 4:07 |
 | 91 | [Wings Of Time \- From the Motion Picture Dungeons & Dragons: Honor Among Thieves](https://open.spotify.com/track/6FzhHrUtyl7jWFccWxNFSS) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Wings Of Time \(From the Motion Picture Dungeons & Dragons: Honor Among Thieves\)](https://open.spotify.com/album/65pBo4TdEz2AaxENDqw3qZ) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 99 | [Your Love](https://open.spotify.com/track/1ZvUKEzJM4s4LyPhj70oaP) | [Future Utopia](https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo), [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [Your Love](https://open.spotify.com/album/4tgaAuPBaVEPbUStoUNFSd) | 3:13 |
 | 100 | [No Ties](https://open.spotify.com/track/0a15Ha6ZMnjSiw15ySklwZ) | [Swimm](https://open.spotify.com/artist/0tLb7wQ0nbvoqx2ZOiLOfX) | [No Ties](https://open.spotify.com/album/6kRjmdctxNWgLm0x5Sj7Xw) | 3:37 |
 
-Snapshot ID: `MCxlZjE5YjkxNWU5ZjMwODk3ODU1YWJlZTA1N2YyNDkzOGNlZTIzYTEz`
+Snapshot ID: `MCwwMDI3NDgxYjg4MGRhYTAzNDVlNDViYWNjMzExZjM2YWIyODIxODlk`

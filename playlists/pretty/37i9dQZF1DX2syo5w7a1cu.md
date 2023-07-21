@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2syo5w7a1cu.md) - [plain]
 
 > Mellow songs from the 90s\. Cover: <a href="spotify:artist:0Ty63ceoRnnJKVEYP0VQpk">Sting</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,486 likes - 200 songs - 15 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 586,178 likes - 200 songs - 15 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2syo5w7a1cu.md) - [plain]
 | 199 | [Release Me](https://open.spotify.com/track/1rIy3lkFJnMsTLZpxFmYU8) | [Wilson Phillips](https://open.spotify.com/artist/1yMYjh77WgOVafRkI50mim) | [Wilson Phillips](https://open.spotify.com/album/1Xi55xFMaymXdSWshmxhw2) | 4:55 |
 | 200 | [I Will Come To You](https://open.spotify.com/track/6ZIuoDs3i1KjKurJf9miSs) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Middle Of Nowhere](https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h) | 4:11 |
 
-Snapshot ID: `MCxlZDQwYTg5YmM3OTU2Mjc4YjI2YzZkNmI0OTFiYmZkMzAzOTFiNmZl`
+Snapshot ID: `MCxiYzgzZDIzOTg3YjNkZDUxNmRmNTBlNjlmZDY5NTBjZTI3YzM1ZjBm`

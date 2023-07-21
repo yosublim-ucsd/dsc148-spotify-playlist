@@ -2,9 +2,9 @@
 
 ### [IndiEnglish](https://open.spotify.com/playlist/37i9dQZF1DX6sDj4CL6UK6)
 
-> Top English songs from Asia\. Cover\- Nikhil D'souza
+> Top English songs from Asia\. Cover\- Taba Chake
 
-219 songs - 12 hr 44 min
+220 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Give Up](https://open.spotify.com/track/41b1nydaPsdAn4R3sqoVWu) | [Avanti Nagral](https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y) | [Give Up](https://open.spotify.com/album/17GJjmUe6dkPDRN1DCOv3t) | 4:08 | 2022-05-13 |  |
 | [Go Grow](https://open.spotify.com/track/4XSTKp0ndMNj4RTvfOAlzW) | [Rachel Singh](https://open.spotify.com/artist/4yrsPV1KOPO7GTR1Dlds8V), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Go Grow](https://open.spotify.com/album/2m0HEB5QkPWqeaf4V133JM) | 3:47 | 2022-03-25 | 2023-05-24 |
 | [goodbye](https://open.spotify.com/track/73TI9VMC8u4UhlGQlsrh1A) | [Taarini](https://open.spotify.com/artist/7ha2CwInFLU6MVnKZoH2qv) | [goodbye](https://open.spotify.com/album/2jusN0A1JkUxGcSQaqNHde) | 3:11 | 2022-11-24 | 2023-05-24 |
+| [Halfway](https://open.spotify.com/track/3o3GYMcTzZi3bowHsoGAbi) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Halfway](https://open.spotify.com/album/7grcqqugy7VGt4GV72oxpC) | 3:28 | 2023-07-20 |  |
 | [Have You Been Told](https://open.spotify.com/track/5Lz6NqjGEBDNsDDxnygkUJ) | [Edwin Raphael](https://open.spotify.com/artist/44DUgsrbRUlhwfLyj4ySUB) | [Have You Been Told](https://open.spotify.com/album/5pHcP8GHanM9jb6k9sDris) | 3:01 | 2022-04-11 |  |
 | [Headrush](https://open.spotify.com/track/7oLdorBxa3NvbkOyoHi7Kf) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [adL](https://open.spotify.com/artist/4ERBh5R40XpUy1uk9aZzag) | [Headrush](https://open.spotify.com/album/0MExe2bXS8GwfAWLKAJPce) | 2:59 | 2022-09-26 | 2023-02-08 |
 | [Hello and Goodbye](https://open.spotify.com/track/1UXQnieFGCBAeiWM173eMX) | [Jeanne Merchant](https://open.spotify.com/artist/3JSGvZjELvoBZalvFCM6Zp), [Anshuman Sharma](https://open.spotify.com/artist/3rNr8T39bUi3dYfiqffp8w) | [Hello and Goodbye](https://open.spotify.com/album/3LpTSaMHbu8oo0CBxjgMJt) | 3:09 | 2022-08-05 | 2023-01-13 |
@@ -205,7 +206,7 @@
 | [tell me it ain't](https://open.spotify.com/track/04NiWHL3IRkNfKHfpFBdh6) | [Elttwo](https://open.spotify.com/artist/5JXwR7SVpsf4ZLWMKO8rRq) | [tell me it ain't](https://open.spotify.com/album/6iqEAgS9F4FP4aUVhWzhY1) | 2:24 | 2023-01-31 | 2023-04-17 |
 | [Tesla](https://open.spotify.com/track/3wUne0H6z9p8PdkXZqOKRs) | [The Simps](https://open.spotify.com/artist/1jsT4oqnLcCax2grWbuhL6), [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [Siblings](https://open.spotify.com/album/4s8ALi238WwLW0zphoLeF6) | 3:56 | 2023-05-24 | 2023-06-24 |
 | [That Guy](https://open.spotify.com/track/2RC78RMiwvHtZV2OP8CK2h) | [Aarya](https://open.spotify.com/artist/0hiGMrsjO7uwlfNq4NS7wf) | [That Guy](https://open.spotify.com/album/2mIp846Cag0BsUsUVQEH1N) | 3:54 | 2022-10-20 | 2023-03-05 |
-| [The End](https://open.spotify.com/track/0IkVhFaDqI39XlTRl5VPoK) | [Avanti Nagral](https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y) | [The End](https://open.spotify.com/album/7pT89w7mNXavMZjUZOz7qn) | 3:46 | 2022-09-02 |  |
+| [The End](https://open.spotify.com/track/0IkVhFaDqI39XlTRl5VPoK) | [Avanti Nagral](https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y) | [The End](https://open.spotify.com/album/7pT89w7mNXavMZjUZOz7qn) | 3:46 | 2022-09-02 | 2023-07-21 |
 | [The Hills Know Of You](https://open.spotify.com/track/0iDuVPiWspI7lcWRrFJ9LC) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [The Hills Know Of You](https://open.spotify.com/album/7bmnGlu7dJtSgACtv2cZNA) | 3:18 | 2022-09-30 |  |
 | [Through These Years](https://open.spotify.com/track/34OnHRNEwBUIzICP1FulTO) | [Semwal](https://open.spotify.com/artist/0uNhaTjKYwyBEKJoG7gPjq), [Sparsh Dangwal](https://open.spotify.com/artist/1SClATlfgXE2qlr4FcEhUS) | [Through These Years](https://open.spotify.com/album/2i4UWMCrYHyvV1pSllSDpu) | 3:43 | 2022-03-25 | 2023-05-20 |
 | [Tomorrow](https://open.spotify.com/track/7IrCTxnRCyhLhTYEf729Ni) | [Chai Lenin](https://open.spotify.com/artist/3yG7K52cBqJ7HPqrNKsAF3) | [Tomorrow](https://open.spotify.com/album/46ergrjBnO4VMGR4gc6HbS) | 3:59 | 2022-03-25 | 2022-09-10 |

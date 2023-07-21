@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > The home of rave worthy melodic techno and house\. Cover: Chris Stussy
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,252 likes - 100 songs - 7 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,449 likes - 100 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 | 99 | [Between Two Worlds](https://open.spotify.com/track/0uO5T7u4DkgfGif1wIeLNr) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Between Two Worlds](https://open.spotify.com/album/2e0Xq16PwrfYtznyso4lHy) | 7:44 |
 | 100 | [Moonlight \- Radio Edit](https://open.spotify.com/track/2XCHKQnCTDbfWueZzmHeX0) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY), [Angel Sanchez](https://open.spotify.com/artist/0CjuBuzouj2pTHrHba4AyC) | [Moonlight](https://open.spotify.com/album/5dJxuHqAVPrkq96UrZp8kt) | 4:48 |
 
-Snapshot ID: `MCw0ZjlkZWE1ZjI1YTFlZjQyN2ViZGUxODE3YzA4MTJiZmY0NWMwMzRm`
+Snapshot ID: `MCw2NzllOTdiMzU3MDllZWY0NGQ0ZmJhZjQzZWMxN2Y4YTRlMmRlYWEy`

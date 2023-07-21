@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gPDOAK0Yqv.md) - [plain]
 
 > A hypnotic journey through Melodic Techno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,128 likes - 75 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,285 likes - 75 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gPDOAK0Yqv.md) - [plain]
 | 74 | [Resonate](https://open.spotify.com/track/3uMmez8jeegK8HpgcwbA1V) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Resonate](https://open.spotify.com/album/0PcWgMMLJGtg1rdEtrF1fa) | 3:41 |
 | 75 | [Accordia](https://open.spotify.com/track/19pZBVcKIpZe6DqpzTEPCM) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8) | [All I Ever Wanted](https://open.spotify.com/album/79nKwdi5pP3PwYlaSmFqHT) | 6:08 |
 
-Snapshot ID: `MCxkMzJiZGFlYzJkOTRhNzc3Mjc3ZmJhYTNkY2MyNWIyMTlmMTAxMmZk`
+Snapshot ID: `MCw1MGVjNTM2ODJiNjljYjgyYjlmNWUyYTZmMmEzNGFhOTY3MzNlZDc1`

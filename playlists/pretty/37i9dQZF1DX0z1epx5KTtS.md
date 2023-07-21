@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > African dance party music from Paris to Abidjan\. Photo : Roseline Layo
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,635 likes - 40 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,697 likes - 40 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Môgô Fariman](https://open.spotify.com/track/6H9f90Md53mcvSyeBaPKGl) | [Roseline Layo](https://open.spotify.com/artist/3vrK28yYXzDOifqaD3YyEI) | [Môgô Fariman](https://open.spotify.com/album/6jmffQa8Asr8AOX0SE0yrl) | 4:18 |
-| 2 | [Chebaba](https://open.spotify.com/track/2GrBcbY5ui7yYD9cz1qalO) | [DOUPI PAPILLON](https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le) | [Chebaba](https://open.spotify.com/album/1oxFxatESpXiF5NxLToR74) | 3:22 |
-| 3 | [Môkôdô](https://open.spotify.com/track/6h8y0m2kxxmmpqWRnRIQ6h) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Môkôdô](https://open.spotify.com/album/0EyG4YFFoRm8WJyXvHRJfD) | 3:38 |
-| 4 | [Do Do Do](https://open.spotify.com/track/5wyf3C0w1PUynV1BwyCTp1) | [Debordo Leekunfa](https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [Do Do Do](https://open.spotify.com/album/6grnvx5NFLY3SyONFUCZsT) | 3:49 |
-| 5 | [E.T.T.E](https://open.spotify.com/track/7jrClCByvnAbD4WY8wFkcl) | [Suspect95](https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9), [Ovie Kan](https://open.spotify.com/artist/3nKWXc2kFHNOhjr37rkvqd) | [Société Suspecte](https://open.spotify.com/album/5FMEWZYb4HwWLKkCfv8luM) | 2:47 |
+| 2 | [E.T.T.E](https://open.spotify.com/track/7jrClCByvnAbD4WY8wFkcl) | [Suspect95](https://open.spotify.com/artist/1iOxNiCG89VJAPdTzJKKQ9), [Ovie Kan](https://open.spotify.com/artist/3nKWXc2kFHNOhjr37rkvqd) | [Société Suspecte](https://open.spotify.com/album/5FMEWZYb4HwWLKkCfv8luM) | 2:47 |
+| 3 | [Chebaba](https://open.spotify.com/track/2GrBcbY5ui7yYD9cz1qalO) | [DOUPI PAPILLON](https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le) | [Chebaba](https://open.spotify.com/album/1oxFxatESpXiF5NxLToR74) | 3:22 |
+| 4 | [Môkôdô](https://open.spotify.com/track/6h8y0m2kxxmmpqWRnRIQ6h) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [Môkôdô](https://open.spotify.com/album/0EyG4YFFoRm8WJyXvHRJfD) | 3:38 |
+| 5 | [Do Do Do](https://open.spotify.com/track/5wyf3C0w1PUynV1BwyCTp1) | [Debordo Leekunfa](https://open.spotify.com/artist/5FifERNGZjGW4axWwm0Q8f), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [Do Do Do](https://open.spotify.com/album/6grnvx5NFLY3SyONFUCZsT) | 3:49 |
 | 6 | [L'oracle](https://open.spotify.com/track/5ipGUUPcatXiBmrHhGJemN) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [L'oracle](https://open.spotify.com/album/2vKHZakByZuHKbitRaflRc) | 3:47 |
 | 7 | [Rein](https://open.spotify.com/track/5v3phnlqL1HJWobXYH0WHo) | [Obam's](https://open.spotify.com/artist/6MtWmIeWlDa4xvd5nWf5hq) | [Rein](https://open.spotify.com/album/6dkkDjeELnGdewas8yuB2E) | 3:11 |
-| 8 | [Tchoutchou Kpangor](https://open.spotify.com/track/5vkNdyVfPM2j7Coke8yIU3) | [DOUPI PAPILLON](https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le) | [Tchoutchou Kpangor](https://open.spotify.com/album/0ObUOMDhaZC9jlxdd4EU07) | 3:43 |
-| 9 | [Zambeleman](https://open.spotify.com/track/5QqYi2I1W5qWs492jukBhc) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq), [Bonigo](https://open.spotify.com/artist/6haKYR8zgWMWv4VK8TYBME) | [Cocktail](https://open.spotify.com/album/6a79UcGIGSIDsTPgKoKepN) | 4:29 |
-| 10 | [Dibango Dibanga](https://open.spotify.com/track/5JjlAXr0s5A1S9JSUBTN8U) | [Bello Falcao](https://open.spotify.com/artist/3bskvfAKK6Qmmzx5LDtP9R) | [Dibango Dibanga](https://open.spotify.com/album/1K8UMbxiHBMAfI5eGF7cuX) | 3:00 |
+| 8 | [Dibango Dibanga](https://open.spotify.com/track/5JjlAXr0s5A1S9JSUBTN8U) | [Bello Falcao](https://open.spotify.com/artist/3bskvfAKK6Qmmzx5LDtP9R) | [Dibango Dibanga](https://open.spotify.com/album/1K8UMbxiHBMAfI5eGF7cuX) | 3:00 |
+| 9 | [Tchoutchou Kpangor](https://open.spotify.com/track/5vkNdyVfPM2j7Coke8yIU3) | [DOUPI PAPILLON](https://open.spotify.com/artist/0Ndfw3wuP0M6OTL0jv96le) | [Tchoutchou Kpangor](https://open.spotify.com/album/0ObUOMDhaZC9jlxdd4EU07) | 3:43 |
+| 10 | [Zambeleman](https://open.spotify.com/track/5QqYi2I1W5qWs492jukBhc) | [Josey](https://open.spotify.com/artist/5Dd8Qrck8pEc9EucV9xdjq), [Bonigo](https://open.spotify.com/artist/6haKYR8zgWMWv4VK8TYBME) | [Cocktail](https://open.spotify.com/album/6a79UcGIGSIDsTPgKoKepN) | 4:29 |
 | 11 | [C'est dosé](https://open.spotify.com/track/0UWLz61FiuLAEcpLebbvZB) | [Serge Beynaud](https://open.spotify.com/artist/5ec33wcEQ79fGKDP3SK6D1) | [C'est dosé](https://open.spotify.com/album/5FY4VGL8QWWn3Vu6gNrKQ5) | 3:26 |
 | 12 | [1 à 1](https://open.spotify.com/track/4Mfk5H01xq6h8pcCvWnvvY) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [1 à 1](https://open.spotify.com/album/1oNW8cSIdBQvpupTuHRjZy) | 3:32 |
 | 13 | [Le Secret](https://open.spotify.com/track/09V5sBv2hhBXSRjXSAB3sb) | [Bebi Philip](https://open.spotify.com/artist/4DPAkF8h2JInYO0wOLQhRt) | [Le Secret](https://open.spotify.com/album/1h9Xp386wUIbffEgODh4ic) | 3:20 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [L'ARGENT](https://open.spotify.com/track/7scxQF1Vtekl1t8ZEQP8Rp) | [Mix Premier](https://open.spotify.com/artist/36gxOWwXw9Im9ZiVVMO0XY) | [L'ARGENT](https://open.spotify.com/album/1ddf374lK7mJLNirc8dvOS) | 3:52 |
 | 40 | [Copa](https://open.spotify.com/track/6DHB4gzkkIAtV4X5TruqoG) | [Kiko](https://open.spotify.com/artist/4P2zZ1OLqeeKDLXc34Yfsv) | [Agama](https://open.spotify.com/album/7JFbI2Bgh9U5QPN3NuuA4l) | 2:22 |
 
-Snapshot ID: `MCxkOTM3ODczZWE2MGQ1NGMwNjc0MjQ4NmVkMTVkODYzOTQ1YzRlNzgw`
+Snapshot ID: `MCxiMjAwY2JhNWFiOTIyM2M4ZGRhZWI4YTY2ZjI2YzNhMDQwM2Y4ODhm`

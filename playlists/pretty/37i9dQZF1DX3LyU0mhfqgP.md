@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > The hottest songs from LGBTQIA+ artists\. Cover: ANOHNI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,109,387 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,109,279 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [1st bite](https://open.spotify.com/track/6wi608n3NbkEa9CAObGS49) | [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv), [Antoniya](https://open.spotify.com/artist/5kA25TZjzmQtCEFCIAwlOE) | [i had this dream that you were my sister](https://open.spotify.com/album/18BLcbWC20YW2O3kRTxBwB) | 2:24 |
 | 50 | [Big Boom](https://open.spotify.com/track/38zUB1OyaTn98q8caO1MWt) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Big Boom](https://open.spotify.com/album/6KBWwX5kdgbmGe5ElXQXfz) | 2:14 |
 
-Snapshot ID: `MCw4YmU2NDJkMGY2MjY2OTVkY2I1MzVmZDMzMjIxNjM2NTVjNDJjODg3`
+Snapshot ID: `MCw3YzhmNmQwNjQxYzcyNGYyNjQzNTMzZGRhYTU1MmRkZDAxMDQzMzJh`

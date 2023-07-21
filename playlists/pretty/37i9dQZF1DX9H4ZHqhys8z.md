@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 
 > Άκου τις γυναίκες της Ελλάδας στη διαπασών\. Εξώφυλλο: Katerina Liouliou
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,047 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,059 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9H4ZHqhys8z.md) - [plain]
 | 49 | [Orevouar](https://open.spotify.com/track/45OXXyyTb3Nod36LQagMjw) | [Efi Thodi](https://open.spotify.com/artist/4OQYDjyFWR15nf0L7QKLAU) | [Orevouar](https://open.spotify.com/album/5plfR1CcE1RtmTfngwpOIq) | 3:05 |
 | 50 | [Oti Sterise](https://open.spotify.com/track/7BaVV6HvCp1HGCBroK0aYa) | [Xenia Gargali](https://open.spotify.com/artist/1ei2KEiexDEehzyu4oEddP), [Periklis Biskinis](https://open.spotify.com/artist/4ZmLaIa9DllCHlLdmfZpd3) | [Oti Sterise](https://open.spotify.com/album/0xuik4gfejXqiyyfm41tDc) | 3:39 |
 
-Snapshot ID: `MCxjNmRhOTg2YmVlZDg1NWQ3NjIxMWY2OWU2YjcwM2QyOTUzMDE2MjU5`
+Snapshot ID: `MCwwNDkyM2I0YzQzODI5ZDMyYmJlYjFlN2Q3MTAwNWNjNmQyMWJjMDg4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvXA824aCbn.md) - [plain]
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 581,488 likes - 150 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 581,516 likes - 150 songs - 9 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVvXA824aCbn.md) - [plain]
 | 149 | [Blue In Green](https://open.spotify.com/track/0YARnYOK8qs7kxhi73ksot) | [Lee Davis](https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp) | [Blue In Green](https://open.spotify.com/album/34IGwJvrYQpDzuM43iUknK) | 4:02 |
 | 150 | [Nothing Lasts Forever](https://open.spotify.com/track/0WHPnkjzE2wkLa06lL5cIX) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Honey, You Are My Everything](https://open.spotify.com/album/7bYo0AjbiwMLJJqYyVuGID) | 4:42 |
 
-Snapshot ID: `MCw0ZGFjOTBlYTAyZDlkNDE5NDExN2EzODNkMTgwYmRkZTkzZWRlZjdh`
+Snapshot ID: `MCxkMTc3ZmYzZGM5NjQ4ZjZmY2M3YWRiNmNkZTJmYTI0NmMyOTZlZGFi`

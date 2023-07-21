@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists from UK&IE\. Cover: Cian Ducrot
 
-216 songs - 11 hr 47 min
+217 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Empower](https://open.spotify.com/track/3j2HYjcIlxVhUT5Ioi1owY) | [Steam Down](https://open.spotify.com/artist/2dOnTAoXrpBwYAo1qIbemO), [Afronaut Zu](https://open.spotify.com/artist/7bToOjUrX6hknJQDN9NSsJ), [TINYMAN](https://open.spotify.com/artist/7HK3S4sk4NgXTFqvmbHlM9), [Ahnansé](https://open.spotify.com/artist/2Jz6SJ8o8G8lvZLB1U2Pfl) | [Empower](https://open.spotify.com/album/4gwsVmaHqOVMm2VDIuzQb8) | 4:45 | 2022-02-18 |  |
 | [Energy \(feat\. Mahalia\)](https://open.spotify.com/track/1KSz0dMTPwRq9OqLkNxcfd) | [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Send Them To Coventry](https://open.spotify.com/album/07XuUjDVxufzEQI5bGpzhT) | 3:08 | 2022-02-18 |  |
 | [Eugene](https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Eugene](https://open.spotify.com/album/7FJKoKn7zy2OET6KtiJJp7) | 3:41 | 2022-02-18 | 2023-07-14 |
+| [Everyone Who Falls In Love \(Has Someone Else They’re Thinking Of\)](https://open.spotify.com/track/56arqTWhgLtut9Ii9r3CiL) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Everyone Who Falls In Love \(Has Someone Else They’re Thinking Of\)](https://open.spotify.com/album/5fFkNwu56uYC6CB7Td6Rns) | 2:36 | 2023-07-21 |  |
 | [FAKE](https://open.spotify.com/track/3eImUEjfyVt2YtkyU6PNhB) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [FAKE](https://open.spotify.com/album/4jiGlNrQLme80dP2lS3bzg) | 3:35 | 2022-02-18 |  |
 | [Falling Asleep At The Wheel](https://open.spotify.com/track/5rqQv5jUcg58xsi1nuZDl9) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Falling Asleep At The Wheel](https://open.spotify.com/album/359BMiYkEMDC70gvpCVljg) | 3:23 | 2022-02-18 | 2023-07-14 |
 | [Filth](https://open.spotify.com/track/1U2WGdxYan1IYc70bY4jXJ) | [Zino Vinci](https://open.spotify.com/artist/5Dqzm9gLDtQhy9mUEck1cK) | [Filth](https://open.spotify.com/album/66qcdkRaTQ7gcIEcABTM4Q) | 2:50 | 2023-06-15 |  |
@@ -82,7 +83,7 @@
 | [HEART ATTACK](https://open.spotify.com/track/15w5MdxTlGiaeiaYiC821r) | [Alex Gough](https://open.spotify.com/artist/1rNNeas60ogZm9uhv1VZOh) | [HEART ATTACK](https://open.spotify.com/album/1ttzoKE3qsZqoQ20Acc2qN) | 3:02 | 2022-02-18 | 2022-10-16 |
 | [HEART ATTACK](https://open.spotify.com/track/3ZwM4sK8D23CYoXiZ8dguS) | [Alex Gough](https://open.spotify.com/artist/1rNNeas60ogZm9uhv1VZOh) | [FOREVER CLASSIC](https://open.spotify.com/album/6wFsRFuCL3IXmDXVN40BoD) | 3:02 | 2022-10-13 |  |
 | [HEART ATTACK](https://open.spotify.com/track/76EYkurEHDQIPBsoYoT1sT) | [Alex Gough](https://open.spotify.com/artist/1rNNeas60ogZm9uhv1VZOh) | [HEART ATTACK](https://open.spotify.com/album/2KZ8ZwkG1jERKvUXdZ0lL7) | 3:02 | 2022-11-11 | 2022-11-14 |
-| [Heaven](https://open.spotify.com/track/0CE8tMkJlixcPcHSKAvTJZ) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Heaven](https://open.spotify.com/album/3aBKgZS47p6bqmSuWG5Hr6) | 3:52 | 2023-07-19 |  |
+| [Heaven](https://open.spotify.com/track/0CE8tMkJlixcPcHSKAvTJZ) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Heaven](https://open.spotify.com/album/3aBKgZS47p6bqmSuWG5Hr6) | 3:52 | 2023-07-19 | 2023-07-21 |
 | [Hold Me](https://open.spotify.com/track/2FyKNGjjdGFY26MODQcR8s) | [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Hold Me](https://open.spotify.com/album/1lPP40l172ZtM0JK0wrfbC) | 3:34 | 2022-02-18 |  |
 | [Hotel Amour](https://open.spotify.com/track/46jFeLj6khIo9v5RJTpdPO) | [Tara Lily](https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy) | [Hotel Amour](https://open.spotify.com/album/2o0zdg8tAFcj8dN6cbjN1P) | 2:33 | 2022-08-18 |  |
 | [Hungover](https://open.spotify.com/track/2pHEFGVwMMcSDIVQ15aMMY) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Somewhere In\-Between](https://open.spotify.com/album/2ZM9VkZ1rsJsKgwW1V99Ju) | 3:36 | 2022-09-22 |  |

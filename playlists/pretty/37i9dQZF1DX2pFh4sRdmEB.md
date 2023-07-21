@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pFh4sRdmEB.md) - [plain]
 
 > Éxitos del Regional Mexicano de ayer y hoy para acompañarte en la troca.
 
-[Spotify](https://open.spotify.com/user/spotify) - 503,736 likes - 150 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 503,958 likes - 150 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pFh4sRdmEB.md) - [plain]
 | 149 | [Mi Meta Contigo](https://open.spotify.com/track/5DSreXbE3u1VUtVeSiqlnn) | [Banda Los Sebastianes De Saúl Plata](https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct) | [En Vida](https://open.spotify.com/album/4ERCLcA2hl98lbwkOeqcYz) | 3:08 |
 | 150 | [No Se Vuelve A Repetir](https://open.spotify.com/track/5S8bGN62F8XQfZo26caGjv) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [No Se Vuelve A Repetir](https://open.spotify.com/album/1LwEYfRvKkCQY1KojHlRYE) | 3:14 |
 
-Snapshot ID: `MCw5MjU1MTczZjEzNDRmNzVhODJkNWVkNzFiZjgyYjMwNmFjNGVmODg0`
+Snapshot ID: `MCwzM2YwOWNiMDg3YzhiZGFkNzhiN2MzZmU0NDQ1YTJkYzQzYzIwNDRh`

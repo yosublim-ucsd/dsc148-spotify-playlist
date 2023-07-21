@@ -4,7 +4,7 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Baani Sandhu
 
-59 songs - 3 hr 10 min
+60 songs - 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Shikayatan](https://open.spotify.com/track/4M0gBdxmNHpFql2o3lre9t) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Shikayatan](https://open.spotify.com/album/392bVyibCeU6hQJN494LoW) | 2:40 | 2023-03-18 |  |
 | [Sohna Lagda](https://open.spotify.com/track/3DIHLEEI2qMVvUi7HNFUWF) | [Divya Sharma](https://open.spotify.com/artist/6JbAd8GIWUoAwKjJfKx3oR) | [Sohna Lagda](https://open.spotify.com/album/50wVYIfIIi0TssIiqHcCxH) | 2:50 | 2023-03-18 |  |
 | [Supna Laavan Da](https://open.spotify.com/track/3tXRp4vdz8lFQNI3r2RAFM) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Supna Laavan Da](https://open.spotify.com/album/1QYyTRzohDG1fi1eUQzOGZ) | 3:32 | 2023-03-18 |  |
+| [Taur](https://open.spotify.com/track/7wk74Tjsm5TrWfiL2FMIWZ) | [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Life Mere Wargi](https://open.spotify.com/album/0dvqdE6NfoZB7FTFOpXReJ) | 2:23 | 2023-07-20 |  |
 | [Tere Na Viahi](https://open.spotify.com/track/0mHLk3UHmPjzHENMrhLoFq) | [PRIYA](https://open.spotify.com/artist/1DYZAMFzLj64clrOzfHHmX) | [Tere Na Viahi](https://open.spotify.com/album/4YL1opCeVh4laO5NTAYKu4) | 2:40 | 2023-04-19 |  |
 | [Teri Bewafai](https://open.spotify.com/track/67Wsd3HufSj49oZFz1cX11) | [Mannat Noor](https://open.spotify.com/artist/0TxBLummgAxRkxn21HrLDp) | [Teri Bewafai](https://open.spotify.com/album/32GB0B0w1MC5qOfU9jwzBi) | 3:41 | 2023-03-18 |  |
 | [Teri Jatti](https://open.spotify.com/track/0teB0ISjZA5hgT0AcxCSqg) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU) | [Teri Jatti](https://open.spotify.com/album/4AgxwN2tyjQzkgnsi7SMSr) | 3:30 | 2023-03-18 |  |

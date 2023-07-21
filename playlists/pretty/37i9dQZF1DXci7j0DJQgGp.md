@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 
 > The perfect playlist to just sit back and chill out with.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,809,654 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,809,672 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXci7j0DJQgGp.md) - [plain]
 | 99 | [Someday, Somewhere](https://open.spotify.com/track/75Ibf9kajH52v2uBNc7pkp) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Someday, Somewhere](https://open.spotify.com/album/161a4wcY3Lh9xN8OEF0RMr) | 3:12 |
 | 100 | [Rock Bottom](https://open.spotify.com/track/17ctpmqT0N9hGhXWWvOob5) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [This Is A Photograph](https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6) | 2:44 |
 
-Snapshot ID: `MCxlMmQ2NWEyM2M1YjU3NDA2ODRiNGNkMjdlNjgyMmVkODRjZGE5YjRi`
+Snapshot ID: `MCwwNTc4YzhlNDBkYzg5YmYzZWI1MThiNzg3YTU2MDljNmRiMTEzNjBh`

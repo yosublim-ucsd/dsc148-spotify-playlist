@@ -4,10 +4,11 @@
 
 > This is Rkive of RM\. Indigo\. 💜
 
-52 songs - 3 hr 1 min
+53 songs - 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Song Make to You Smile](https://open.spotify.com/track/5blZcMwtCrPa7bp7lMBiTt) | [Lee Seung Gi](https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Hareem](https://open.spotify.com/artist/5WWxAYrskMnRaWLDUbuY20) | [The Project](https://open.spotify.com/album/5ccCV9iNxUARYLfWDzALWn) | 3:09 | 2023-07-20 |  |
 | [All Day \(with Tablo\)](https://open.spotify.com/track/40SuiVcQ5NyDk48nZSADK3) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Indigo](https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU) | 3:06 | 2022-12-02 | 2022-12-19 |
 | [All Day \(with Tablo\)](https://open.spotify.com/track/3PgnXyzWXrEoE0oQdLMF3M) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [Tablo](https://open.spotify.com/artist/3NdOtTPPaXrCyC7Lpmzyhv) | [Indigo](https://open.spotify.com/album/2wGinO7YWLHN2sULIr4a7v) | 3:06 | 2022-12-06 |  |
 | [badbye](https://open.spotify.com/track/7L8JKDh4yB5rCcg2Rp4yvz) | [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs), [eAeon](https://open.spotify.com/artist/3ZSbXArE6mxOleJnsumK4u) | [mono.](https://open.spotify.com/album/4f9hYOZPtGfcUd1dT30G1H) | 1:52 | 2022-12-02 | 2022-12-19 |

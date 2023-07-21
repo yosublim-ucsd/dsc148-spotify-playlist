@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViXqZVTGO3Z.md) - [plain]
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,110 likes - 150 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,105 likes - 150 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViXqZVTGO3Z.md) - [plain]
 | 149 | [Jesus Is Alive](https://open.spotify.com/track/2yn5jZqkkHu7lQ7YE14N32) | [Josh Wilson](https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2) | [Noel](https://open.spotify.com/album/0fOV4DUZwtScuGK8Y2AOm4) | 3:42 |
 | 150 | [Angels We Have Heard on High](https://open.spotify.com/track/1ViTV7qA8Yxdnd3BWxoCGk) | [Jamie Kimmett](https://open.spotify.com/artist/6149cbbptDgml1rjD0qOUG) | [Angels We Have Heard on High](https://open.spotify.com/album/089uYze5fJAmXWCjpVDqOO) | 2:34 |
 
-Snapshot ID: `MCxlYjU5MTUzZDJiMzQyYWQyMTE0ZDY1YzFiNmMzZDI0YWZiMTI4MWIx`
+Snapshot ID: `MCwxMWFmMjhkYjc5OGU3Y2Q5YzUwYjg0OGQ5NGVmMDAwNzVkNzE2NGY2`

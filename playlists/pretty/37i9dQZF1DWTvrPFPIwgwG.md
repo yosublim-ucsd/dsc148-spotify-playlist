@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Maria Marçal
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,724 likes - 85 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,028 likes - 85 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 84 | [Foi Livramento](https://open.spotify.com/track/1JkvT03hdwgki1kT3qwcQi) | [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt) | [Foi Livramento](https://open.spotify.com/album/3MLc0qnl3LlKaCv3IYaaOq) | 3:39 |
 | 85 | [Vendavais](https://open.spotify.com/track/1kFTihWjdy8DCeSuxagORd) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Vendavais](https://open.spotify.com/album/1w5kjZKJAjcFQAbfvt0INc) | 4:44 |
 
-Snapshot ID: `MCwyMjA5YTJkMjQ3ZWRlOGFmZGJiMjM2NjIwMGE5YTFhNGJiZGE5NmVm`
+Snapshot ID: `MCwzNDM0N2MxZTVkYTQ3OTYwNjg3MjIyOTc5OGFhNWViOTVmODFhZGMy`

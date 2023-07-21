@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Proudly South African gospel goodness. Cover: <a href=\"https://open.spotify.com/artist/4WCFeHvuICo53VeafPoRpz?si=9hLt7nr6SYiMzYnQrXbkgA\">Lusanda Spiritual Group</a>\n",
+  "description": "Proudly South African gospel goodness. Cover: <a href=\"https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL?si=0XmLSTPMRw28DgCCiBeQkw\">Kingdmusic</a>\n",
   "name": "Sunday Praise",
   "tracks": [
     {
@@ -809,6 +809,24 @@
     },
     {
       "album": {
+        "name": "Ka Letsatsi (Live)",
+        "url": "https://open.spotify.com/album/3c1ewMB80rH1CBHLkL4U7N"
+      },
+      "artists": [
+        {
+          "name": "Omega Khunou",
+          "url": "https://open.spotify.com/artist/5kiRFLzxYedX55EwwIDuj3"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243712,
+      "name": "Ka Letsatsi (Live)",
+      "url": "https://open.spotify.com/track/1DTTtfBgaYraBfSE6PSy5L"
+    },
+    {
+      "album": {
         "name": "Ke Mang",
         "url": "https://open.spotify.com/album/2JBxdERjVMKSQVArIqKTcW"
       },
@@ -1006,6 +1024,24 @@
       "duration_ms": 381966,
       "name": "lona baratang ho Phela (Live)",
       "url": "https://open.spotify.com/track/6lgAf5YMMFzEcpXONtEfVf"
+    },
+    {
+      "album": {
+        "name": "Makabongwe: The Sound Of Revival (Live)",
+        "url": "https://open.spotify.com/album/5iaAx3ufPocZ1LD4XUcWc4"
+      },
+      "artists": [
+        {
+          "name": "Ntokozo Mbambo",
+          "url": "https://open.spotify.com/artist/3neEMGDQjPZ0DBCPKgW4og"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301579,
+      "name": "Makabongwe - Live",
+      "url": "https://open.spotify.com/track/0w1h3AKUanXXgMan3GlHh4"
     },
     {
       "album": {
@@ -1303,6 +1339,24 @@
     },
     {
       "album": {
+        "name": "Nithini Webantu (Ilizwi Lenkosi)",
+        "url": "https://open.spotify.com/album/2jQWjxTc0RNj8BeCDck1E6"
+      },
+      "artists": [
+        {
+          "name": "Mpumelelo Dumisa",
+          "url": "https://open.spotify.com/artist/7JE5R4Et8meMNLK64ENFmN"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348264,
+      "name": "Nithini Webantu (Ilizwi Lenkosi)",
+      "url": "https://open.spotify.com/track/2IvSE2xIirukcfM3pIOdlV"
+    },
+    {
+      "album": {
         "name": "After This",
         "url": "https://open.spotify.com/album/72vZlTX5LfYF5FT4DHIhGC"
       },
@@ -1452,6 +1506,24 @@
       "duration_ms": 235019,
       "name": "Prelude / The King on the Cross - Live",
       "url": "https://open.spotify.com/track/1GefA6yajI6Wr26r6D4VUj"
+    },
+    {
+      "album": {
+        "name": "Provider",
+        "url": "https://open.spotify.com/album/1sITlmcQXf1rY1L85dj285"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212687,
+      "name": "Provider",
+      "url": "https://open.spotify.com/track/7hllC9WneRH2JYVaVjSQNL"
     },
     {
       "album": {
@@ -1868,6 +1940,24 @@
       "duration_ms": 252000,
       "name": "Ukholo Lwam (A Song of Hope)",
       "url": "https://open.spotify.com/track/2dKn2FL2h5quCnyE9ccxiy"
+    },
+    {
+      "album": {
+        "name": "Ukuhlala Kuye",
+        "url": "https://open.spotify.com/album/5lPRiJ1iPpWyguZPZwYzLE"
+      },
+      "artists": [
+        {
+          "name": "Kea Studios",
+          "url": "https://open.spotify.com/artist/3Kfq2pa1z7SDX7nLOkNXkU"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241500,
+      "name": "Ukuhlala Kuye",
+      "url": "https://open.spotify.com/track/2l8fI1B2jMjFr4iWAaMLRI"
     },
     {
       "album": {

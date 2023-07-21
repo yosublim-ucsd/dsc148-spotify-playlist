@@ -4,7 +4,7 @@
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-412 songs - 1 day 0 hr 28 min
+413 songs - 1 day 0 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [Ciel ecchymose](https://open.spotify.com/track/574ZItG1oVejfxXj780D3E) | [Mat Vezio](https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X) | [Couleur Ciel Ecchymose](https://open.spotify.com/album/4yRwogj8YMENLtt3BtFgRa) | 3:48 | 2022-05-20 | 2022-07-14 |
 | [Claire](https://open.spotify.com/track/0Qs8tnF0BucrwNwjmYqLel) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Claire](https://open.spotify.com/album/4ahbK64Yz51dH0P6GT5gCg) | 3:43 | 2021-01-03\* | 2021-08-13 |
 | [Closely](https://open.spotify.com/track/08Sf05VZzVWXrBfUFX6fwa) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn) | [Encounter](https://open.spotify.com/album/0RkPGBq7HrHgcAhAoTKp75) | 3:39 | 2021-10-03 |  |
-| [Cold World](https://open.spotify.com/track/2WxZsGInatsAG5Z2NCgCHN) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Cold World](https://open.spotify.com/album/2HJxiWkcVAbXuOMaY5wEor) | 3:44 | 2021-10-04 |  |
+| [Cold World](https://open.spotify.com/track/2WxZsGInatsAG5Z2NCgCHN) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Cold World](https://open.spotify.com/album/2HJxiWkcVAbXuOMaY5wEor) | 3:44 | 2021-10-04 | 2023-07-21 |
+| [Cold World](https://open.spotify.com/track/6vrfAwiU7e7pM8GSa3A75S) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Live Slow Die Wise](https://open.spotify.com/album/2exje2s1zj4OX3qIToppco) | 3:44 | 2023-07-14 |  |
 | [Colors](https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Colors](https://open.spotify.com/album/2lecuAW041jFGznJIATbhz) | 4:08 | 2023-06-02 |  |
 | [Comme à tous les hivers](https://open.spotify.com/track/6ZaMggVJMXNUJ2mkKjeWon) | [Foisy](https://open.spotify.com/artist/6iESQOGvGZKWF6bRd3hlRt) | [Foisy.](https://open.spotify.com/album/4Ocw79Km6guKmt6suN8AyW) | 2:37 | 2021-01-15 | 2022-07-28 |
 | [Comme ça](https://open.spotify.com/track/2TIV4kRZerFo7yJHM3c0fq) | [Alicia Deschênes](https://open.spotify.com/artist/6cIkGaF2x3ZAZIlxElMvFu) | [Les mauvaises langues](https://open.spotify.com/album/0fxYcTmWrozW3bZB1dXdjE) | 2:35 | 2021-02-27 | 2021-10-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 
 > Enjoy new and classic releases from icons of folk and Americana\. Cover: Bonnie Raitt
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,053 likes - 150 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,102 likes - 150 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7tfbjVrTPnV.md) - [plain]
 | 149 | [The Killing Fields](https://open.spotify.com/track/4JvN6gikGBJ65KjEGEnAUP) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE), [John Leventhal](https://open.spotify.com/artist/04OYvH5KuCKUJqhw8LKGsH) | [The Killing Fields](https://open.spotify.com/album/5cEX0d8qgLfNjNT7yyOkxS) | 4:23 |
 | 150 | [You Give it All Away](https://open.spotify.com/track/5xFqksMAUocMpcHM8jKiO8) | [Dar Williams](https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK) | [I'll Meet You Here](https://open.spotify.com/album/2M0mZ8HDBsQtsoJhXgGnbA) | 2:47 |
 
-Snapshot ID: `MCxkOGZiMmMyMmE3ZWM4YjBhMGM0MzkxOGYxMWE3ZTVjNmExODE0MGRk`
+Snapshot ID: `MCxlNjVmNzkyMWVlMmNmMTMyZjU1MTI3M2NjNzIyNDhhODRkOWJiM2Zk`

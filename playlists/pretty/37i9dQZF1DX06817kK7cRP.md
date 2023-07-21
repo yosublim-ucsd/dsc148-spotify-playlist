@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06817kK7cRP.md) - [plain]
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,886 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,150 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX06817kK7cRP.md) - [plain]
 | 99 | [Heatwave](https://open.spotify.com/track/03gunYpOFHu4swpyry4QKX) | [Danny James](https://open.spotify.com/artist/2v04CAaxpr6sSELBPMOkoQ), [Es\-K](https://open.spotify.com/artist/0Ece4RFAFNTEpYaTHZWuhe), [John Culbreth](https://open.spotify.com/artist/1KfQchWVE79W6evo9dDBUN) | [Heatwave](https://open.spotify.com/album/5ifo18NW9f8DwVhvpTNJLg) | 3:11 |
 | 100 | [Mostly Toasted](https://open.spotify.com/track/067izDpCvzsbpGIgJNWDrz) | [G Mills](https://open.spotify.com/artist/0djvqMepj2XkHfvWTqkH1N) | [Mostly Toasted](https://open.spotify.com/album/4q5FfpWNKHAcsEZlouU0jc) | 1:41 |
 
-Snapshot ID: `MCwzMDFkNTY0NTVlYjk0NmQzMGZlZTBlNzY3MDFjNDI1NzJjYjIzOTVj`
+Snapshot ID: `MCwxMTU2M2M1MDhkZDk2ZWJkN2E2NTYzMWFhYzliNDk0MzgyMTRmY2E3`

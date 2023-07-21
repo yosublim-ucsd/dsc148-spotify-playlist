@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Make Them Suffer on top of the biggest Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,432,636 likes - 75 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,432,804 likes - 75 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 74 | [Fall Of Man \(feat\. Matthew K\. Heafy\)](https://open.spotify.com/track/2rCtd6DcWfIJIy7AFSlrdt) | [Sophie Lloyd](https://open.spotify.com/artist/6jOoEU2E2d2kGbxw33oJs3), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Fall Of Man \(feat\. Matthew K\. Heafy\)](https://open.spotify.com/album/30vZNuVyzbDmTBt1ftIFcE) | 3:38 |
 | 75 | [Ancestry](https://open.spotify.com/track/3DNfmRFXFO65rHKWz3XyQD) | [August Burns Red](https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu), [Jesse Leach](https://open.spotify.com/artist/1Lwi01HS3nSZxM9u9zr3CT) | [Death Below](https://open.spotify.com/album/7sgJqz584wJNJfJaC7S88U) | 4:50 |
 
-Snapshot ID: `MCw1NDU5YjMwYTMzMmU5NjMyYjdlYjMwNGFiZTQ1Y2E1ZWY5ZDY5ZjUw`
+Snapshot ID: `MCxmNWEzNGVhYjNmMTZmNmNjNmUxMjNmMTEyYmE3NzkwOGVjYzZmZTUy`

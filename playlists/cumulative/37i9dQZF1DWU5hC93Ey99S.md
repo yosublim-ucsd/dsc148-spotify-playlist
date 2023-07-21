@@ -4,7 +4,7 @@
 
 > all the stutter, all the feels
 
-184 songs - 10 hr 17 min
+186 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [About You](https://open.spotify.com/track/0pOpqk2Z7f10fkNfhBGiVv) | [Tim Sanders](https://open.spotify.com/artist/1E3ho9kLdNdFz1L1JISV82) | [About You](https://open.spotify.com/album/6zkqvF6ZZqC7NnGEuTBfdQ) | 2:26 | 2023-06-08 |  |
 | [All I Need](https://open.spotify.com/track/4qOErzIVJ5dGY9U0aAZhwz) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc) | [All I Need](https://open.spotify.com/album/2nCBGeudGkR5ZYFey8Ibix) | 3:06 | 2023-04-13 |  |
 | [All In My Head](https://open.spotify.com/track/0bTcsfvvELwAupgm0DxhjK) | [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [All In My Head](https://open.spotify.com/album/5XOshXQLbsax7zxKwMYS3F) | 2:33 | 2023-04-27 |  |
-| [All Night](https://open.spotify.com/track/7hpP2b7QO5eh0YjaJFmSvO) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [All Night](https://open.spotify.com/album/4f0YqTq3Akrmy36UjM88ry) | 3:34 | 2023-04-13 |  |
+| [All Night](https://open.spotify.com/track/5v44vaBk8hzii64jBFsmUJ) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI \(Mixtape\)](https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE) | 3:34 | 2023-07-07 |  |
+| [All Night](https://open.spotify.com/track/7hpP2b7QO5eh0YjaJFmSvO) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [All Night](https://open.spotify.com/album/4f0YqTq3Akrmy36UjM88ry) | 3:34 | 2023-04-13 | 2023-07-21 |
 | [all over my body](https://open.spotify.com/track/3TEKXl5Wdhi5oWrFbOoTF6) | [devin](https://open.spotify.com/artist/1nTDIsZa79wLRMZDfuVG3h) | [all over my body](https://open.spotify.com/album/614zD2PkAmJiq1kgmIztzn) | 2:16 | 2023-06-08 |  |
 | [Alone \- Stephan Jolk Remix](https://open.spotify.com/track/2nvfQ9c2pi8OFiYb59I1gu) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Alone \(Stephan Jolk Remix\)](https://open.spotify.com/album/6WqGjERSNf5IhAMwk2iKfs) | 3:32 | 2023-07-14 |  |
 | [AM:PM \- Sistek Remix](https://open.spotify.com/track/6Hqia0eaXtwLUpZEGAhhjv) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Maia Wright](https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk), [Sistek](https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu) | [AM:PM \(Remixes\)](https://open.spotify.com/album/5wYKHMd0BHO5z5lBiGcg0k) | 3:15 | 2023-06-08 |  |
@@ -179,7 +180,8 @@
 | [WASTED ON ME](https://open.spotify.com/track/6tXebnSmy1ZEZANFRHRoCO) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr) | [WASTED ON ME](https://open.spotify.com/album/5e08LQuzV5wcQlCcp9rs2g) | 3:02 | 2023-04-13 |  |
 | [Wasted On You](https://open.spotify.com/track/3HSf2e7s5Q9WQO16biu4U4) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64) | [Little Love](https://open.spotify.com/album/793CKt4Qo8QvaOx2uWkhst) | 4:23 | 2023-04-13 |  |
 | [We Don't Ever Stop](https://open.spotify.com/track/7tzsbAE9Md4tr8MAbK4h5i) | [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [We Don’t Ever Stop](https://open.spotify.com/album/0ZrhY3h9Flf23MIl5udSTV) | 2:40 | 2023-04-13 |  |
-| [What If](https://open.spotify.com/track/3vseyNLwyEmY8iRs1Jji4N) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [What If](https://open.spotify.com/album/3exQ4HL1e66YnZGd2bYNgz) | 3:25 | 2023-04-13 |  |
+| [What If](https://open.spotify.com/track/3vseyNLwyEmY8iRs1Jji4N) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [What If](https://open.spotify.com/album/3exQ4HL1e66YnZGd2bYNgz) | 3:25 | 2023-04-13 | 2023-07-21 |
+| [What If](https://open.spotify.com/track/6V2J1bvchhoi64ycvaxmDj) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI \(Mixtape\)](https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE) | 3:25 | 2023-07-07 |  |
 | [what we had](https://open.spotify.com/track/4acWKpRAAnUHa8t6Xgm9Cu) | [Player Dave](https://open.spotify.com/artist/1rQItbnVgtRiJkTxHRBUc0), [Georgie O'Brien](https://open.spotify.com/artist/4aWDnkVvzu9Tc68DGOyXHl) | [what we had](https://open.spotify.com/album/4T2dCGIPhCxl3soRdLJipb) | 4:52 | 2023-06-29 |  |
 | [what we had was real](https://open.spotify.com/track/7lPVC3ppoIixU2PH2KcvTK) | [Rommii](https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U) | [what we had was real](https://open.spotify.com/album/0mAxfupLpuSvfiHeaerkBV) | 2:16 | 2023-04-13 |  |
 | [What You Do To Me](https://open.spotify.com/track/74Sk5cVfVNhfKY9S7hDqrp) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [What You Do To Me](https://open.spotify.com/album/35Mc0p9KECg2XVfy1287pR) | 2:34 | 2023-04-13 |  |

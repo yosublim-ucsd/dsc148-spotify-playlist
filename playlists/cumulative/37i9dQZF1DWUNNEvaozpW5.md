@@ -4,7 +4,7 @@
 
 > Lo mejor del rock de aquí, como La Fuga.
 
-304 songs - 19 hr 42 min
+305 songs - 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Estrella del Rock](https://open.spotify.com/track/3WHLcEtthmT9upg1FSc2xK) | [LUIS BREA](https://open.spotify.com/artist/64PIeisw79uNk8zv5CrCyS), [Burning](https://open.spotify.com/artist/5nhDsJ4yNy8BD4LbGMsb1v) | [Estrella del Rock](https://open.spotify.com/album/4PSl0gmcVcS2rtgnl2GbJ8) | 3:44 | 2023-02-02 | 2023-02-17 |
 | [Feo Fuerte y Formal](https://open.spotify.com/track/24w139jhWNnuQjnlhlzLvi) | [Loquillo Y Los Trogloditas](https://open.spotify.com/artist/4EM1gc21UrYHQ3eal963Xl) | [Feo, Fuerte y Formal](https://open.spotify.com/album/4D4nUPgZckdsczheG6hYIF) | 4:02 | 2022-05-19 |  |
 | [Flaca](https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Alta Suciedad](https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6) | 4:37 | 2022-05-26 |  |
-| [Flojos de pantalón](https://open.spotify.com/track/5xEQItoulehU1apBfxqkM1) | [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N) | [Jugar Al Gua](https://open.spotify.com/album/5ibEXgq0ceSFbGT3P3cpl0) | 4:22 | 2022-05-26 |  |
+| [Flojos de pantalón](https://open.spotify.com/track/5xEQItoulehU1apBfxqkM1) | [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N) | [Jugar Al Gua](https://open.spotify.com/album/5ibEXgq0ceSFbGT3P3cpl0) | 4:22 | 2022-05-26 | 2023-07-21 |
 | [Flores de estiércol](https://open.spotify.com/track/4C7NxBIpbsLUNZy0lWpGjw) | [Casas y la Pistola](https://open.spotify.com/artist/0XRRf4mGKSrqxda5MXavdp), [Chencho Fernández](https://open.spotify.com/artist/47amZWlp7EeHxiEOeP6zM1) | [Flores de estiércol](https://open.spotify.com/album/37jmp40ij97t8aN6TCCFR4) | 3:12 | 2023-06-22 | 2023-07-07 |
 | [Frío \(con Fito y Fitipaldis, Tarque y Rosendo\)](https://open.spotify.com/track/2CEDonzkAIXcNpXKXfcq57) | [El Drogas](https://open.spotify.com/artist/5jJWnRLQeU7fe9VaDjpIWK), [Tarque](https://open.spotify.com/artist/0bbgHE4QN1vDZhkGJw8n9p), [Fito y Fitipaldis](https://open.spotify.com/artist/1tZ99AnqyjgrmPwLfGU5eo), [Rosendo](https://open.spotify.com/artist/0P4FkbP57uc9XBnJ9aoA3N) | [Un día nada más](https://open.spotify.com/album/4f3OQ1DIzm3Oszv2rD5c3x) | 4:09 | 2022-05-19 | 2022-07-29 |
 | [Fuegos](https://open.spotify.com/track/2CbDi0mlBlZs8H6n7qNuI9) | [Lucas Colman](https://open.spotify.com/artist/5fRFBYxLHk3yKoLS59obIq) | [Disco 3](https://open.spotify.com/album/45tNwQ4G4aoXdkVK9dd4zF) | 3:30 | 2023-06-15 | 2023-06-23 |
@@ -212,6 +212,7 @@
 | [Ni Yo para Ti, Ni Tú para Mí](https://open.spotify.com/track/0en5Nqka9QXEuUQGrHRO2g) | [Uge](https://open.spotify.com/artist/05JI76GAuZpyhT7W9y54Ut), [Pau Donés](https://open.spotify.com/artist/29g0ReLnpcvjzLZoAmAzKJ), [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Ni Yo para Ti, Ni Tú para Mí](https://open.spotify.com/album/0PfoFrcdQNDSPiAFCHpVoe) | 4:29 | 2022-06-23 | 2022-07-22 |
 | [No Hay Tregua](https://open.spotify.com/track/5fuiYDXvDMVqsa3o8B8KLR) | [Barricada](https://open.spotify.com/artist/5llr3wJl6JrJoHSJAR804R) | [Barricada](https://open.spotify.com/album/0TXXfuJy2zJ50x94VvCuqZ) | 2:55 | 2022-07-21 |  |
 | [No Hay Tregua](https://open.spotify.com/track/40lauWDcbFQgigWgrVyoqM) | [Barricada](https://open.spotify.com/artist/5llr3wJl6JrJoHSJAR804R) | [Todo Barricada](https://open.spotify.com/album/5dFoK9nYAxK0JXgDoSz61f) | 2:58 | 2022-05-19 | 2022-07-29 |
+| [No pasarán](https://open.spotify.com/track/19tQYmXLw10IJ6dguaSrJD) | [Jesús Cifuentes](https://open.spotify.com/artist/4ne6IMY0VZ8acKd2Rkv5fA), [Celtas Cortos](https://open.spotify.com/artist/3hIPQBm8PBt8B5aahP6cVP) | [No pasarán](https://open.spotify.com/album/0ujCMP1AojVi5qdzcNYZlf) | 2:36 | 2023-07-20 |  |
 | [No Puedo Vivir Sin Ti](https://open.spotify.com/track/1EC0JRoSi9YL5zExd3Euc3) | [Los Ronaldos](https://open.spotify.com/artist/1OTnb625gMBm5NsLYAdUEm) | [4 Canciones](https://open.spotify.com/album/1Pf7ot7MVaAulm4tve8Ax8) | 4:14 | 2022-05-19 |  |
 | [Noche Oscura \(feat\. Leiva\)](https://open.spotify.com/track/5YHKrFUEX8aQJRPCS1Yl9W) | [DePedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb), [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Noche Oscura \(feat\. Leiva\)](https://open.spotify.com/album/1jPnCEyNgE8SSiSZn3qq5b) | 3:50 | 2022-06-16 | 2022-06-21 |
 | [Nosotros sí](https://open.spotify.com/track/3NDgvziOHntnsMf5XmN0T7) | [Durden](https://open.spotify.com/artist/1yDmWUrmHWA7zyCXghkdrT) | [Nosotros sí](https://open.spotify.com/album/2G00vCurpjUunq6NPpgBqi) | 3:41 | 2022-10-20 | 2022-10-28 |

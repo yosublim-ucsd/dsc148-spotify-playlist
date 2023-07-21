@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 
 > Instrumental Smooth Jazz for relaxing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,438 likes - 100 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,690 likes - 100 songs - 7 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lttj7ulLd6.md) - [plain]
 | 99 | [I Feel You](https://open.spotify.com/track/5yqw56hswQdEZofRcIOUhd) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP) | [For Your Pleasure](https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw) | 4:18 |
 | 100 | [On Top Of Your Game](https://open.spotify.com/track/4vFLPCdcUNBoh0gNRreIhU) | [Sweet Spot Lab](https://open.spotify.com/artist/1PbqUXqRFkCIIKvm2048At) | [On Top Of Your Game](https://open.spotify.com/album/5h0gY72fOLWScMTejDedln) | 2:46 |
 
-Snapshot ID: `MCw4NDIzNmQzNWIxOWEzOWVlZmJlNWE1ZjgxNDVjYmI3M2EyNDU5OTk2`
+Snapshot ID: `MCxiNGU0Njk4YTRjZmZlOGQ5ZTMwNWU5MzA2YjU5ZDMyYzYyN2EwZThj`

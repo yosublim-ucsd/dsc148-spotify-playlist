@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 
 > An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 674,980 likes - 115 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 675,125 likes - 115 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbm6HfkbMtFZ.md) - [plain]
 | 114 | [Soulless Friends](https://open.spotify.com/track/4U5TPHqsmvVzc8CCZPLfzg) | [Peter Cat Recording Co.](https://open.spotify.com/artist/41Nu7NgAj9rJxjj7JDuXrV) | [Bismillah](https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd) | 3:47 |
 | 115 | [Ride with Me](https://open.spotify.com/track/2ARIyufUagbk2YXbqJXYOH) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Introducing...](https://open.spotify.com/album/5c1E5jFxDYivYtb6pr08qJ) | 3:52 |
 
-Snapshot ID: `MCxjNzVjNDJiOTI1OGE4NmJlZDdhMDEzYzY4OTg2Mzk5YTYwYWY5OTc3`
+Snapshot ID: `MCwzY2IyNDhiY2I0NmQyMTI4ZTQzNWYwZmQ5YmEwY2QzZGQ0NDc1NjI1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 495,497 likes - 75 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 495,752 likes - 75 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 | 74 | [Huna \(feat\. Ravid Kahalani\)](https://open.spotify.com/track/2MTosWcPKh92SAzZgZhVlc) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX), [Ravid Kahalani](https://open.spotify.com/artist/2H1fweQYJVHp6FKwzpye6s) | [Huna \(feat\. Ravid Kahalani\)](https://open.spotify.com/album/2zCbJe1hvzAZqkP4JIJMHc) | 2:25 |
 | 75 | [We Are One](https://open.spotify.com/track/6D5Ueh4E9uj7H67UV6FBJO) | [Fabio Fusco](https://open.spotify.com/artist/74QIWYXbKeKNYmdHB3nRJ7), [Joicey](https://open.spotify.com/artist/1WIFMGTZTCJGz8rrENkqcK) | [We Are One](https://open.spotify.com/album/3fldSmcRWqzfoe3QjmwmN6) | 6:00 |
 
-Snapshot ID: `MCwwOTdiYjgxNTFkNjQ2NzcxNjVhMDJkMmNjMGFhZGM2OTQyMjJkNzJl`
+Snapshot ID: `MCw1ODM3OGQ4ZTIyZTRkZWE4MmM1ZWZlZmEyOGFhMTllZGZkNDQ2ZTU5`

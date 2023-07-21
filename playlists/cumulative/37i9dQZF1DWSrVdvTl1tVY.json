@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest house bangers popping off in the UK, let's go! Cover: DJ Seinfeld & Confidence Man",
+  "description": "The biggest house bangers popping off in the UK, let's go! Cover: Gorgon City",
   "name": "UK House Music",
   "tracks": [
     {
@@ -250,6 +250,24 @@
       "duration_ms": 177524,
       "name": "Afraid To Feel",
       "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
+    },
+    {
+      "album": {
+        "name": "Ain't No Other Man (Rework)",
+        "url": "https://open.spotify.com/album/6iHOTd9FBBOLSDfJp8mFFq"
+      },
+      "artists": [
+        {
+          "name": "Murphy's Law (UK)",
+          "url": "https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154560,
+      "name": "Ain't No Other Man - Rework",
+      "url": "https://open.spotify.com/track/2arAYoniFUo3ojtcDEIhdl"
     },
     {
       "album": {
@@ -1644,7 +1662,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 180216,
       "name": "Can't Grumble",
       "url": "https://open.spotify.com/track/6r7CKP0iNCHkYxJYuiNjH7"
@@ -3134,7 +3152,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 228014,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/2A7TxPnKOVLdanZQGLmVoa"
@@ -3328,10 +3346,28 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 172173,
       "name": "Fever",
       "url": "https://open.spotify.com/track/0Mbxt2EcmRUnajQsMWLK3c"
+    },
+    {
+      "album": {
+        "name": "TANZPARTEI (Mixtape)",
+        "url": "https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172173,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/1KAZ7QTfcTzLSnKu5dtlmE"
     },
     {
       "album": {
@@ -3904,6 +3940,24 @@
       "duration_ms": 263986,
       "name": "Got Me (feat. Julia Stone)",
       "url": "https://open.spotify.com/track/7kUvMTkyNN8inOr53NQAVC"
+    },
+    {
+      "album": {
+        "name": "Groove Thang",
+        "url": "https://open.spotify.com/album/1PPPSHY19tixIaMCbDJihZ"
+      },
+      "artists": [
+        {
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220360,
+      "name": "Groove Thang",
+      "url": "https://open.spotify.com/track/6pyjUNNPUAHqRkvD0ZEDFz"
     },
     {
       "album": {
@@ -5531,6 +5585,32 @@
     },
     {
       "album": {
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/4Ihs3D52rXV5uNlQfsgkqh"
+      },
+      "artists": [
+        {
+          "name": "Arielle Free",
+          "url": "https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d"
+        },
+        {
+          "name": "GotSome",
+          "url": "https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX"
+        },
+        {
+          "name": "Icarus",
+          "url": "https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206875,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/3w0nFtVBa75tPHsSNZxWr6"
+    },
+    {
+      "album": {
         "name": "Life Is A Melody",
         "url": "https://open.spotify.com/album/0V6Mxb3GwhNoVGb4ijZr7Y"
       },
@@ -5550,7 +5630,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 158190,
       "name": "Life Is A Melody - Edit",
       "url": "https://open.spotify.com/track/4UOAUpEubJm3V66ZHRFuMx"
@@ -5568,7 +5648,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 150000,
       "name": "Lighters Up",
       "url": "https://open.spotify.com/track/1PyUqxaSw2sd7AmvHSkqci"
@@ -5882,7 +5962,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 234912,
       "name": "Love Cycle",
       "url": "https://open.spotify.com/track/7a8XrYg9KaSAR5subQIFBi"
@@ -7137,6 +7217,28 @@
     },
     {
       "album": {
+        "name": "Number 1",
+        "url": "https://open.spotify.com/album/0vkYGGLv8iwyQWdccl46j3"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145200,
+      "name": "Number 1",
+      "url": "https://open.spotify.com/track/5HadIAY3Oray8VKuv3shgQ"
+    },
+    {
+      "album": {
         "name": "Off Limits",
         "url": "https://open.spotify.com/album/53L1l0dtLblkuQZ7KaQAEF"
       },
@@ -7334,6 +7436,24 @@
       "duration_ms": 222361,
       "name": "Osmo",
       "url": "https://open.spotify.com/track/0a5BDMp06R0SVwH2WyQdnP"
+    },
+    {
+      "album": {
+        "name": "Our Love EP",
+        "url": "https://open.spotify.com/album/1W3eclwvQiEOPEt7M5o5Pn"
+      },
+      "artists": [
+        {
+          "name": "FLETCH",
+          "url": "https://open.spotify.com/artist/5HkPQOedMse24M2meekew4"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 396930,
+      "name": "Our Love",
+      "url": "https://open.spotify.com/track/5jSw4r7OVFleMIXSoyq6ht"
     },
     {
       "album": {
@@ -7800,6 +7920,28 @@
       "duration_ms": 206378,
       "name": "Poison",
       "url": "https://open.spotify.com/track/1MeYeeJV7BUmp3Kf0wEmQe"
+    },
+    {
+      "album": {
+        "name": "Salvation",
+        "url": "https://open.spotify.com/album/34yu5063EpoaKKir1m0q9e"
+      },
+      "artists": [
+        {
+          "name": "Gorgon City",
+          "url": "https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx"
+        },
+        {
+          "name": "NEZ",
+          "url": "https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191013,
+      "name": "Pose",
+      "url": "https://open.spotify.com/track/5LBemsCrsGqsXSGYA8i2z6"
     },
     {
       "album": {
@@ -9305,6 +9447,28 @@
     },
     {
       "album": {
+        "name": "Take My Hand (feat. Josh Barry)",
+        "url": "https://open.spotify.com/album/3FsMheFQtusAMlfV75Nbyc"
+      },
+      "artists": [
+        {
+          "name": "Sam Divine",
+          "url": "https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ"
+        },
+        {
+          "name": "Josh Barry",
+          "url": "https://open.spotify.com/artist/6oruQTIjrgFYzOSKhp7Kt6"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171670,
+      "name": "Take My Hand (feat. Josh Barry)",
+      "url": "https://open.spotify.com/track/78zqqw3oLhwiifmbqHoBaN"
+    },
+    {
+      "album": {
         "name": "Take You There",
         "url": "https://open.spotify.com/album/6R6zaKrh1Wg1GvO1kK1mLf"
       },
@@ -9616,7 +9780,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 182880,
       "name": "The Disco",
       "url": "https://open.spotify.com/track/3UVcnUYcL0aFWxHYYOJCbj"
@@ -10436,7 +10600,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 220817,
       "name": "Voices",
       "url": "https://open.spotify.com/track/4OGbM5ZtdaCFGVkX5Wr8Tw"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 
 > The world series of Ska\. Cover: Ska\-P
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,566 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,636 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 99 | [Call Your Bluff](https://open.spotify.com/track/5JyRxbCEEZvs4ezsY831Bb) | [Catbite](https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP) | [Nice One](https://open.spotify.com/album/1T21oXPF0l4y517iKc8uL3) | 2:32 |
 | 100 | [Solo vine a decirte](https://open.spotify.com/track/0yT3mg8eehQMq5uPF6MWir) | [Eskorzo](https://open.spotify.com/artist/766jwjrI3TM0rZvmNdzNx8) | [Solo vine a decirte](https://open.spotify.com/album/2JUQQN1J8VrKT0KZjS201R) | 3:34 |
 
-Snapshot ID: `MCxiZWU2OTAwOGYzM2ZkYmM4ZDUzYjcyOTY1Y2JjY2YzMzQzZmNhZTgz`
+Snapshot ID: `MCwyN2I0NjAwNmNkNGYzZThjN2E1ZTUyOTkyYWY3NWNlYWYxNDdhMThi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 
 > Top country hits you know and love! Cover: Jake Owen
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,107 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 507,200 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaJXCbmtHVHV.md) - [plain]
 | 99 | [Doing Life With Me](https://open.spotify.com/track/57YkkgxAiusJPMtiSG3w3c) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Doing Life With Me](https://open.spotify.com/album/1e8gOn7NtkL8F0pWJopnZ0) | 3:15 |
 | 100 | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/track/3HGnIIdHYIbkowzLk8UHbE) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii), [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Wishful Drinking \(with Sam Hunt\)](https://open.spotify.com/album/2vb8B3MYGjfYlGch4KlEfe) | 3:14 |
 
-Snapshot ID: `MCwyMjJiNmEyZmY4MWFmYjVmOTM1ZmZkNDM2NDYyMDc0YjExYmFhNTgw`
+Snapshot ID: `MTY4OTMwNzIwMCwwMDAwMDAwMGNlODIwOWQ1ODUwOGE2MjYwYzI2OTY5NGNjYzk4MzIx`

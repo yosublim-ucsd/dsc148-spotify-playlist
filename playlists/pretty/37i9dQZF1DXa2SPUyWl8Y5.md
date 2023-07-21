@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 
 > Focus with deep techno and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 463,580 likes - 80 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 463,756 likes - 80 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 79 | [Seige](https://open.spotify.com/track/3529YD03FoOJMRYBoQKwX2) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Seige](https://open.spotify.com/album/1KuP6R5M7dVYNJWbkhuo7M) | 7:13 |
 | 80 | [Lunar](https://open.spotify.com/track/1nawO2xKQj1haBWWhLpUfG) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ), [Galexis](https://open.spotify.com/artist/6ydngh1ULBhKlPd1ntB92h) | [Lunar](https://open.spotify.com/album/06R8GH8lr3HkN6amHyZU8w) | 3:12 |
 
-Snapshot ID: `MCw0ZGE2ZTEzOGQ5ZjBlMWJlMDIzZjBiMWYxN2Y5NTNlMTc2M2ViNzA5`
+Snapshot ID: `MCwyNmMwNmZhNTllZjkzM2M4NmFlNmQ3ZjEzYTlhZmY0OTgwYWZjNGZi`

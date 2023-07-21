@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music by independent artists in the UK + Ireland\. Cover: CLAVIS 7EVEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,675 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,681 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 79 | [Deserve You](https://open.spotify.com/track/0GBHsjb3suFGVegjuV8Duu) | [Lucy Blue](https://open.spotify.com/artist/2bhd3BPOa3430RfyyB6moo) | [Deserve You](https://open.spotify.com/album/1KTaZEpLQF8zoQNGolXuCP) | 3:43 |
 | 80 | [Don't Send For Your Dogs](https://open.spotify.com/track/7EphiZg9BolUZJwVpC97dp) | [Archy Moor](https://open.spotify.com/artist/6kOoogcZqvkw7PzeoG5gKY) | [Don't Send For Your Dogs](https://open.spotify.com/album/1Ua106UIUKk3i7iGNC3nsC) | 2:33 |
 
-Snapshot ID: `MCwzNWVlOGJlOTc1Y2I2ZTZmY2JiYzU2MTMyN2NiMjgzN2JiZTRiZDA0`
+Snapshot ID: `MCw5OWI1YjEzOWU1MDUwNTAzOTk1OGYwZTI5YTBmYThhYzg1ZjE4NDk3`

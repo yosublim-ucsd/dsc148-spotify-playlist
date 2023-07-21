@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Pryda.",
-  "num_followers": 444383,
+  "num_followers": 444533,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzNhYzcyNzU5MTg4NzUyOTQ5ODY2YjkxNzYwYjUwNzliMDQzNzg3",
+  "snapshot_id": "MCw5OGM4MTU0ODViZWY4NzEyOWI3ZjMyYjZmOWU5N2FhNTk5ZWRhZmVk",
   "tracks": [
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1618,10 +1618,14 @@
         {
           "name": "Jeremy Olander",
           "url": "https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB"
+        },
+        {
+          "name": "Skye Love",
+          "url": "https://open.spotify.com/artist/1i7SjOXro7uU0x7HUqiHAz"
         }
       ],
       "duration_ms": 385733,
-      "name": "Hollow Halls",
+      "name": "Hollow Halls feat. Skye Love",
       "url": "https://open.spotify.com/track/43RZtrHtZ5sfHx5NDUvMBl"
     },
     {

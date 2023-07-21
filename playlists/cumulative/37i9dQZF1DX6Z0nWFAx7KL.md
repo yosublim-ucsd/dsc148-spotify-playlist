@@ -4,7 +4,7 @@
 
 > You can dance or chill.
 
-159 songs - 7 hr 56 min
+160 songs - 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Break Up](https://open.spotify.com/track/6oCdAXZVWCaGfHlhRidpAM) | [twocolors](https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9), [Pascal Letoublon](https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a) | [Break Up](https://open.spotify.com/album/35VhV8ON5V6UBZSkmo8s01) | 2:37 | 2022-09-15 |  |
 | [Breathe](https://open.spotify.com/track/1rx0RK6hNBRFKAjeNrkVNn) | [Mateo](https://open.spotify.com/artist/0mws40fy6ixkpM247lUkIX) | [Breathe](https://open.spotify.com/album/7M96imYXi7PoL1hxboKUxZ) | 2:48 | 2022-09-29 | 2023-03-18 |
 | [Can't Let You Go](https://open.spotify.com/track/2bh7A1pUvpZMiwzck86oLQ) | [Mats Westbroek](https://open.spotify.com/artist/22bQJrUFkEHoC4Srw85AuA) | [Can't Let You Go](https://open.spotify.com/album/75EO9h5vhfNkTLGyMHyftF) | 3:22 | 2022-09-29 | 2022-10-22 |
-| [Carefree](https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [Carefree](https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT) | 2:51 | 2022-09-29 |  |
+| [Carefree](https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH) | [Cogitation](https://open.spotify.com/artist/03cw3islnFkglHBqaVuDMq) | [Carefree](https://open.spotify.com/album/5tkMleJ6r7RNXpDrzgE7vT) | 2:51 | 2022-09-29 | 2023-07-21 |
 | [Careless Whisper](https://open.spotify.com/track/4wyIAKiAc8Twh1jgzylZWo) | [Toby Rose](https://open.spotify.com/artist/0j6SFwrb6jmolrDLHRugcJ), [ALUR](https://open.spotify.com/artist/4IwYXGDh3e4LBKRxT9e623), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [Careless Whisper](https://open.spotify.com/album/1XjxeJw2RkvKoyj9ZQKqjI) | 2:52 | 2023-06-26 |  |
 | [Chasing Daydreams](https://open.spotify.com/track/45VICFveHN4B9Rigyh9WA1) | [DJ Licious](https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH), [PollyAnna](https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL) | [Chasing Daydreams](https://open.spotify.com/album/3Q1SershhxnM6HmiZy9bPw) | 2:45 | 2022-10-13 | 2023-03-02 |
 | [Close To Me](https://open.spotify.com/track/7ufA7tIRMoFd1jTKgAfgRF) | [Ryan Murgatroyd](https://open.spotify.com/artist/3eWIVs6R1YgnA5FZSI3xiU), [Amy Jones](https://open.spotify.com/artist/7fQm8t9kG15pcP3BFVqXQk) | [Close To Me](https://open.spotify.com/album/6puejdn1tcxwEHrxnjU5oj) | 4:57 | 2022-12-01 | 2022-12-18 |
@@ -134,6 +134,7 @@
 | [Scent of Wood \(Bound to Divide Remix\)](https://open.spotify.com/track/10ziUOuysPmpB3mNtCpNTA) | [UOAK](https://open.spotify.com/artist/4hYS3fIqfvtmZPbbggczYk), [Ceci](https://open.spotify.com/artist/0hCW0HH1liY8gpi5Mk2VK4), [Bound to Divide](https://open.spotify.com/artist/5nQ7llwdZYT6MWMeLLe8dc) | [Scent of Wood \(Bound to Divide Remix\)](https://open.spotify.com/album/3F5raVu3wkj29XJ8UKa9o3) | 3:28 | 2022-09-15 | 2023-06-09 |
 | [Second Hand Love](https://open.spotify.com/track/2VNyk9xmiWb3J0OPEasXHX) | [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp), [FC Commitments](https://open.spotify.com/artist/2ZDiyRudCpoSMiQTa5ZVOt), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [Second Hand Love](https://open.spotify.com/album/2tE6xUKn7UOdyHhjdh6G7V) | 3:42 | 2022-12-01 | 2023-01-13 |
 | [See You On The Other Side](https://open.spotify.com/track/1G4bK9Z8JtkXah973WlAGS) | [Mike D' Jais](https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq) | [See You On The Other Side](https://open.spotify.com/album/1epzNdkMhr8ERPKnYyUcqG) | 4:01 | 2022-09-29 |  |
+| [Shatterproof \- Sebastian Davidson Remix](https://open.spotify.com/track/3jkyGmk58RSeyTnhHDam7v) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu), [Sebastian Davidson](https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp) | [Shatterproof \(Sebastian Davidson Remix\)](https://open.spotify.com/album/74weVpLq86UNh1LlZjrcmu) | 2:46 | 2023-07-20 |  |
 | [Silent](https://open.spotify.com/track/7rBiqIWBp3cmSp7jsDFymE) | [Watching Colours](https://open.spotify.com/artist/2bxio5pnpNinV2qIl0vkeX) | [Silent](https://open.spotify.com/album/7nGMLIizQ4LoR9EQlaJAA2) | 2:04 | 2023-06-22 |  |
 | [Some Kind Of Love](https://open.spotify.com/track/4v8owgx9HzilDAf4oCyV8z) | [Drove](https://open.spotify.com/artist/6gqVaWZY9PVt1Lf42j4sZI), [Discrete](https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov), [Tudor](https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb) | [Some Kind Of Love](https://open.spotify.com/album/37iL6vHATQrHkE1Ku5Ucus) | 2:46 | 2022-09-15 | 2023-04-06 |
 | [Somebody Else](https://open.spotify.com/track/4AA5Bkykoy2Nx72VQsqlsW) | [Robby East](https://open.spotify.com/artist/4PVHdWG0LtOCDDXo3Vh2yW), [Jantine](https://open.spotify.com/artist/3Hlhy5mpM8cT1Guv1GOhQG) | [Somebody Else](https://open.spotify.com/album/2cJQqPgmFzcoCB8ENkHMVu) | 3:39 | 2022-09-29 | 2022-12-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCIzMYtzum.md) - [plain]
 
 > Home is where the main stage is\. 💗
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,276 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,510 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kCIzMYtzum.md) - [plain]
 | 99 | [U Ok?](https://open.spotify.com/track/7eHBDsqfqOMyzMhtnhytNB) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT), [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP) | [U Ok?](https://open.spotify.com/album/7KXw7os5bHmyb1LtfBFDY7) | 2:34 |
 | 100 | [Bright Lights \(feat\. AR/CO\)](https://open.spotify.com/track/7hz4FnANJOY7tR8eutPxIP) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7) | [Kx5](https://open.spotify.com/album/7krgzxFJr9YxsmyWlO5Ubg) | 3:23 |
 
-Snapshot ID: `MCw2MDU0Yjk3MDhjMjA2MjAwMjhlZDA3ZmNkM2QzZDBlYzgyYThjNDM1`
+Snapshot ID: `MCw5MjQwMzM2Y2Q3NmMxZjdhMmRjOWQyMjk2MDU4ZDdlMDMxNTlmYzRm`

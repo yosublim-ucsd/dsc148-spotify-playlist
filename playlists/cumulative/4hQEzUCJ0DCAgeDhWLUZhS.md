@@ -4,7 +4,7 @@
 
 > GUITARS\. BASS\. DRUMS\. That's all you need really\. Plugged In featured the latest and greatest rock, alternative, and metal coming out of Australia and around the world\. Cover: All Time Low
 
-385 songs - 22 hr 55 min
+386 songs - 23 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Asphalt Meadows](https://open.spotify.com/track/7xjbn0bhs7zx7E1s0lCqT3) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows](https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS) | 4:05 | 2022-09-16 |  |
 | [BACK2YOU \(feat\. blackbear\)](https://open.spotify.com/track/0Ih5m31aOTcaTL4PnvGgYS) | [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [BLOODLUST](https://open.spotify.com/album/78LoEWcpdvgRImtnfTZe0q) | 2:32 | 2020-10-10\* | 2021-02-25 |
 | [Banks](https://open.spotify.com/track/4zQVafVtpPQMVfe96ES3CS) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Banks](https://open.spotify.com/album/506L9syhCW4JNuMHjwtZ5D) | 4:00 | 2020-10-10\* | 2022-03-18 |
+| [Barbaric](https://open.spotify.com/track/71o2pLB6Xu62uVjqpwmiS9) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Ballad of Darren](https://open.spotify.com/album/0gIZSG9WUDO3TK0B5y7UtU) | 4:08 | 2023-07-20 |  |
 | [Beautiful James](https://open.spotify.com/track/1ntKR7JwE12hKJNjupLzhG) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Beautiful James](https://open.spotify.com/album/6JCSXagVYDarxrUZ18dw6b) | 4:08 | 2021-09-18 |  |
 | [Behave](https://open.spotify.com/track/6nzyBGYk6Env11uSGAlY5e) | [Jett Rebel](https://open.spotify.com/artist/1j8m5isW09lzbcz5kcUADT) | [Behave](https://open.spotify.com/album/4zZd900I8mnvrDouSXk8GH) | 3:24 | 2021-07-31 |  |
 | [Berrara](https://open.spotify.com/track/30N0hxlLlqc7DR6lqbcXUC) | [TOTTY](https://open.spotify.com/artist/5tOshqnaM41LBDj4eqANGf) | [Berrara](https://open.spotify.com/album/4FxznnLU3L7sjFH2K4eqOX) | 3:04 | 2020-11-03 | 2022-03-18 |

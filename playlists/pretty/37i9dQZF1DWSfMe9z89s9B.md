@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 
 > Leaders of the new school...Alternative R&B\. Cover: Jamila Woods
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,390,932 likes - 150 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,390,952 likes - 150 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSfMe9z89s9B.md) - [plain]
 | 149 | [Mile End \- A COLORS SHOW](https://open.spotify.com/track/6mASxVYgPVdBdtAFxZZO21) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Mile End \- A COLORS SHOW](https://open.spotify.com/album/0KrUum0XYaw2JEErYAxLBE) | 2:33 |
 | 150 | [All The Same](https://open.spotify.com/track/7mVDDe0DVooFn6G8dWdO85) | [Cisco Swank](https://open.spotify.com/artist/1LlKtmnluANdN9NzI1jsIp) | [All The Same](https://open.spotify.com/album/647eOV9vqw5QiTbbfYw5i5) | 3:28 |
 
-Snapshot ID: `MCw0OTU3MGQ5ZjRkNGM4ODU4MzA1OTYyMDZiYjhiN2M5NzI3NTkxZmZk`
+Snapshot ID: `MCw2MDk1ODNjMjExZGZjNmM4YzU0MmNkYWYwNjk2NmJkNmY3NTlmNWQy`

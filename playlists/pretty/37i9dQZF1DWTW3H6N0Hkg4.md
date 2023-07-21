@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTW3H6N0Hkg4.md) - [plain]
 
 > Cumbias de antaño para bailar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,233 likes - 125 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,501 likes - 125 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTW3H6N0Hkg4.md) - [plain]
 | 124 | [La Banda Borracha](https://open.spotify.com/track/2PffzUyZQeg5YTqVtzMjqb) | [Mike Laure](https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h) | [Lo Mejor De Mike Laure](https://open.spotify.com/album/4phadJG0y214V03sl93hIT) | 3:15 |
 | 125 | [Cumbia en el Monte](https://open.spotify.com/track/6WozspQ3YhGznIs4kXafnv) | [Pedro Laza Y Sus Pelayeros](https://open.spotify.com/artist/0CulHu6suXmBEZRI9pYgnk), [Pascual Rovira](https://open.spotify.com/artist/6gyi0MGsTAuGYSNeJ31ht4) | [Discos Fuentes Collection](https://open.spotify.com/album/3JNwdLqeNPHseXaXkyZtBs) | 2:34 |
 
-Snapshot ID: `MCxjYjhlNzc1OWIzNDAwNDI2OTNjNGY5MzYxNjkyZjUyZWVkMzJiMDM3`
+Snapshot ID: `MCw2YzZhMTE2N2RlODYxYzQwOTk5NTU0YzAzOWIyYzdiNjNjYzJmZGEz`

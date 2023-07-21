@@ -2282,7 +2282,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 182465,
       "name": "Get to Gettin\u2019 Gone",
       "url": "https://open.spotify.com/track/3C3ooMrQyhr0gouukZTGz4"
@@ -2744,6 +2744,32 @@
       "duration_ms": 203576,
       "name": "Heartbreak Hotel",
       "url": "https://open.spotify.com/track/37faWfUENSGfU9MxVwMbiM"
+    },
+    {
+      "album": {
+        "name": "Heartbroken (feat. Jessie Murph & Polo G)",
+        "url": "https://open.spotify.com/album/4cfA6cGpQSXr8jMMxfnNaS"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204325,
+      "name": "Heartbroken (feat. Jessie Murph & Polo G)",
+      "url": "https://open.spotify.com/track/6NdnvPwQvZb147DVa4x14h"
     },
     {
       "album": {
@@ -3946,7 +3972,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 190955,
       "name": "Mama's Eyes",
       "url": "https://open.spotify.com/track/3vDIOac07rO5yGTvNeNSh7"
@@ -4700,7 +4726,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 185681,
       "name": "Over For You",
       "url": "https://open.spotify.com/track/09igKkkm150rRZIxu1gjh3"
@@ -4906,7 +4932,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 231044,
       "name": "Raise Me",
       "url": "https://open.spotify.com/track/4TazvOlJBRopmxCN0aTiEA"
@@ -5058,6 +5084,24 @@
       "duration_ms": 178723,
       "name": "Religiously",
       "url": "https://open.spotify.com/track/0ec7EBr0mjWO6J7TRr09bN"
+    },
+    {
+      "album": {
+        "name": "Remember Me Well",
+        "url": "https://open.spotify.com/album/5lLxk2C7m4VjYFG1jmzd4c"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229106,
+      "name": "Remember Me Well",
+      "url": "https://open.spotify.com/track/1Eii2r1Y6Whb6U5URN1Ydm"
     },
     {
       "album": {
@@ -7139,6 +7183,24 @@
     },
     {
       "album": {
+        "name": "When You Walked Into The Room",
+        "url": "https://open.spotify.com/album/383wnELpfR8TZoQ48Tx7U1"
+      },
+      "artists": [
+        {
+          "name": "Bryce Sainty",
+          "url": "https://open.spotify.com/artist/6FzcOBH2gzC2UyGt6cme0t"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214040,
+      "name": "When You Walked Into The Room",
+      "url": "https://open.spotify.com/track/2sDQsJlSp9AZ9msGol5PMM"
+    },
+    {
+      "album": {
         "name": "Where Do We Go",
         "url": "https://open.spotify.com/album/0mhA076UonW1mofUE8HnGG"
       },
@@ -7266,6 +7328,24 @@
       "duration_ms": 209740,
       "name": "Whiskey Sour",
       "url": "https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL"
+    },
+    {
+      "album": {
+        "name": "White Horse",
+        "url": "https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267893,
+      "name": "White Horse",
+      "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Best of South Asian Music\. Cover: Diljit
 
-167 songs - 9 hr 29 min
+168 songs - 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Naah Goriye \(From "Bala"\)](https://open.spotify.com/track/1CM4rFDU9q4EoLy2K44qE6) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Harrdy Sandhu](https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo), [Swasti Mehul](https://open.spotify.com/artist/7r7WoKowe8dCfQCl9GACDM) | [Naah Goriye \(From "Bala"\)](https://open.spotify.com/album/60qxoftYE2VOmZwIL9N2Cu) | 3:04 | 2021-12-06 |  |
 | [Naatu Naatu \(From "Rrr"\)](https://open.spotify.com/track/4iKGu3xtvm90eBw0EIPWJP) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn), [Kala Bhairava](https://open.spotify.com/artist/4tejKImNVmDcORNBuZ1l14), [M\. M\. Keeravani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR) | [Naatu Naatu \(From "Rrr"\)](https://open.spotify.com/album/78zqKU9guNUoZFs7mn7TUG) | 3:34 | 2023-01-12 |  |
 | [Nadiyon Paar \(Let the Music Play Again\) \(From "Roohi"\)](https://open.spotify.com/track/2PEo8JQ48mfEv8a2HLqDvt) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Shamur](https://open.spotify.com/artist/6SZBqn91m2QZDcbzmHUFPP), [IP Singh](https://open.spotify.com/artist/7pauOFC9bRqioSX30AvNkG) | [Nadiyon Paar \(Let the Music Play Again\) \[From "Roohi"\]](https://open.spotify.com/album/2O5eyYEtqdbdixyQxDzCxi) | 2:44 | 2021-12-06 |  |
+| [Nahin Milta](https://open.spotify.com/track/0cUdmruT6kjxa5KpteSdwc) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP) | [4 Saal](https://open.spotify.com/album/5LiulhSHQrEXkYO63T5Z6Q) | 4:45 | 2023-07-20 |  |
 | [Najaa \(From "Sooryavanshi"\)](https://open.spotify.com/track/09vHbIezp9NP31CZWysk3v) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Pav Dharia](https://open.spotify.com/artist/0j2LQCxHNcJdkuJRa8KEp5), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Najaa \(From "Sooryavanshi"\)](https://open.spotify.com/album/5zP4OuD73f42dogIjNid68) | 3:11 | 2021-12-06 |  |
 | [No Love](https://open.spotify.com/track/08Isz2ETWSBhvIl8UpKYsp) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [No Love](https://open.spotify.com/album/5Zcgog7sQ79ISF32y9nABU) | 2:50 | 2022-08-30 |  |
 | [NO LOVE](https://open.spotify.com/track/5B4YQN1FCuADJ0o4phAtwC) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [NO LOVE](https://open.spotify.com/album/71z4Ni4FHsAUWpcy1oFmOT) | 2:50 | 2022-06-16 | 2022-09-04 |

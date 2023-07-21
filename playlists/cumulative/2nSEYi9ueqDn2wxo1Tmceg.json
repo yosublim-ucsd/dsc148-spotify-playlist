@@ -6411,6 +6411,54 @@
     },
     {
       "album": {
+        "name": "Mother (Remixes)",
+        "url": "https://open.spotify.com/album/4dkxdBbALMtQCORM3vne8u"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        },
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263990,
+      "name": "Mother - George FitzGerald Remix",
+      "url": "https://open.spotify.com/track/1vgxVLYzVL4OHbPMie9Ngu"
+    },
+    {
+      "album": {
+        "name": "Mother (Remixes)",
+        "url": "https://open.spotify.com/album/4dkxdBbALMtQCORM3vne8u"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        },
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        },
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350296,
+      "name": "Mother - Pretty Girl Remix",
+      "url": "https://open.spotify.com/track/2rGOL5VgjeJUjQEoRVSQ8o"
+    },
+    {
+      "album": {
         "name": "Folded Landscapes",
         "url": "https://open.spotify.com/album/38mhxC6TEoXfimNwed6MhD"
       },

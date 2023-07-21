@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgZcN2HVMoe.md) - [plain]
 
 > Grab your coffee and ease into the day with this light blend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,290 likes - 200 songs - 12 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,401 likes - 200 songs - 12 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgZcN2HVMoe.md) - [plain]
 | 199 | [Vanilla \(Stairwell Version\)](https://open.spotify.com/track/7yuecadXy2rAgc6Id2D6Qw) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Vanilla \(Stairwell Version\)](https://open.spotify.com/album/30AiPggrojM01hleb8j12f) | 4:06 |
 | 200 | [Seasons](https://open.spotify.com/track/5fkbOmiHN3RnG1qjzNFMyi) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Out of Body](https://open.spotify.com/album/65WwczdrIsAOeBwyL3EFxf) | 4:03 |
 
-Snapshot ID: `MCxjZTk5NzFkMWU3ZjBmNDE4MDExNTFiN2FjNjE4ZjM1OWUwOTE4NGM5`
+Snapshot ID: `MTY4OTc4MTUwMiwwMDAwMDAwMDgxNTFhMGUwNWQxZWQ5YjAwZWRmYjUzNWE0ZDMyZDc0`

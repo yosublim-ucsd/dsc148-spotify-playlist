@@ -6,8 +6,24 @@
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "MTcxOSw2Zjg0MWUyYmE3OTA3NWU0MmZmZmM4NmFmOTZhOGM1OTUzMjg3ZGVk",
+  "snapshot_id": "MTcyMCwxMjY5NGQ5ZDlmNTNhMjUyZmFlNjJlNjcwZDE1YWJmYWZiY2VjNDRm",
   "tracks": [
+    {
+      "added_at": "2023-07-20 23:09:09",
+      "album": {
+        "name": "The Ballad of Darren",
+        "url": "https://open.spotify.com/album/0gIZSG9WUDO3TK0B5y7UtU"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 248774,
+      "name": "Barbaric",
+      "url": "https://open.spotify.com/track/71o2pLB6Xu62uVjqpwmiS9"
+    },
     {
       "added_at": "2023-07-14 00:56:55",
       "album": {

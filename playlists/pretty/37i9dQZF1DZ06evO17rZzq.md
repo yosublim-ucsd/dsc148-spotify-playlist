@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 
 > This is Kaliii\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,609 likes - 36 songs - 1 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,616 likes - 36 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 | 21 | [Nasty Bitch](https://open.spotify.com/track/5nYb5BCEwJc9z88HFLrr1y) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [This Why They Mad Now](https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH) | 2:24 |
 | 22 | [Bout U](https://open.spotify.com/track/3QWiUcQwaFsR7a4U1zOKmX) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Bout U](https://open.spotify.com/album/3rvffEg9rXY78ubquxxwOX) | 2:39 |
 | 23 | [New Day](https://open.spotify.com/track/4w5dESJ47Q36FBlN6ga9Aa) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Toxic Chocolate](https://open.spotify.com/album/5X4gn5R6OOy34QpVRReCnh) | 2:34 |
-| 24 | [OOP](https://open.spotify.com/track/3ZZ2kSbVdgOhgoYFqQEsGB) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [OOP](https://open.spotify.com/album/2rUO2lLr9lVGLpmRmYOJBJ) | 2:10 |
+| 24 | [Bad Little Thing \(feat\. Kaliii\)](https://open.spotify.com/track/6RyWnQyBhjcfBsZyRTo9it) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Bad Little Thing \(feat\. Kaliii\)](https://open.spotify.com/album/636r6Fd2dfuot0iCcK4KfJ) | 2:23 |
 | 25 | [Bad Bad Bad](https://open.spotify.com/track/3cSupjEV8VcSxD6iChJ8MO) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [This Why They Mad Now](https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH) | 2:33 |
-| 26 | [Bad Little Thing \(feat\. Kaliii\)](https://open.spotify.com/track/6RyWnQyBhjcfBsZyRTo9it) | [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Bad Little Thing \(feat\. Kaliii\)](https://open.spotify.com/album/636r6Fd2dfuot0iCcK4KfJ) | 2:23 |
+| 26 | [OOP](https://open.spotify.com/track/3ZZ2kSbVdgOhgoYFqQEsGB) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [OOP](https://open.spotify.com/album/2rUO2lLr9lVGLpmRmYOJBJ) | 2:10 |
 | 27 | [Do A Bitch \- Club Mix](https://open.spotify.com/track/3fNi5BacqfuIzQnnJGOoe5) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Do A Bitch \(Club Mix\)](https://open.spotify.com/album/5TopiZPNkhEGjGntcv5gv3) | 2:36 |
 | 28 | [Y'all Want Me \(Remix\)](https://open.spotify.com/track/5Twf9Om6Y90LR24Ickm0SP) | [John'nay Lasha](https://open.spotify.com/artist/0vcMP4qw5S5V7D3YUgOuFG), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Y'all Want Me \(Remix\)](https://open.spotify.com/album/6cFfBIJZ4E71VVBOUkIUAr) | 3:15 |
 | 29 | [Spend Dat](https://open.spotify.com/track/3BketpGVPLcisLVw9ttWc5) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [This Why They Mad Now](https://open.spotify.com/album/3NkHARlSxnJOz6FpWr2uOH) | 2:18 |
@@ -45,4 +45,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17rZzq.md) - [plain]
 | 35 | [05\. Let 175](https://open.spotify.com/track/0NCuOXs7lRUE9hnKF9agg2) | [Jantar](https://open.spotify.com/artist/7hBmMi4z3lvc6zVdrueRxt), [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Jedna Ljubav A Kurva](https://open.spotify.com/album/23gGGCdVQH4ImEsZYaaz0t) | 3:26 |
 | 36 | [Where They At \(Intro\)](https://open.spotify.com/track/33TJ1Jh9qLrtijcbqno9CY) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL) | [Toxic Chocolate: Area Codes Edition](https://open.spotify.com/album/7yRZn5jOhhXNNZznGC2shD) | 0:25 |
 
-Snapshot ID: `MjgxNjI4OTcsMDAwMDAwMDA1ZjA0ODU3YjI5OWFiOTFlNzM5MWI0ODBiNDUyNmEwYg==`
+Snapshot ID: `MjgxNjQzMDgsMDAwMDAwMDBmYWJjMDUwZjU5NjBiMTgwYzE1OWU0YTEyMGE2NWMwZg==`

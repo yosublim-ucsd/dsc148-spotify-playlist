@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR6lD3pmkqP.md) - [plain]
 
 > The sound of the new era of Jazz\. Cover: Esperanza Spalding
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,121 likes - 250 songs - 20 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,195 likes - 250 songs - 20 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTR6lD3pmkqP.md) - [plain]
 | 249 | [Erzeben Koma](https://open.spotify.com/track/60WIf1xtLRatdSX1UQPzlR) | [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx), [Koma Saxo](https://open.spotify.com/artist/28Ua0GwMz73dcNeUZIXDq8), [Antti Lötjönen](https://open.spotify.com/artist/6uEOkKRkGPB7Z274RWBiCR), [Jonas Kullhammar](https://open.spotify.com/artist/3hHc4tqyPsRJOzzqaxkadB), [Mikko Innanen](https://open.spotify.com/artist/4HWtSGcRzJwM9qj21ODsIj), [Otis Sandsjö](https://open.spotify.com/artist/6diHo4GRFDIubnyPcfdt44), [Jussi Kannaste](https://open.spotify.com/artist/5MrinOzalbDrw6L1AvPmbV), [Christian Lillinger](https://open.spotify.com/artist/4qSlZL1HI3eqZ5oFP0ZR26), [Joonas Riippa](https://open.spotify.com/artist/21QtF2eJhE5KpCFib3zfqO), [Verneri Pohjola](https://open.spotify.com/artist/601yt0lWcEE1vS1bzAPwSX) | [Erzeben Koma](https://open.spotify.com/album/4L9VLs7hNMPmVABfTpOExT) | 4:12 |
 | 250 | [Game 5!](https://open.spotify.com/track/4NZZyhOsyhyFdDn2AFUFHI) | [Bob Juburi](https://open.spotify.com/artist/4LOhQlFTKM4iFTNlpueiqM), [monkeybars](https://open.spotify.com/artist/1iAcExmAigO44V6sIHkWyV) | [Game 5!](https://open.spotify.com/album/2gQeq8M64YQnyuMsOCowSk) | 2:12 |
 
-Snapshot ID: `MCwzNTE2MGNmODkxYzNiMmY1ZGFlNTgxM2Q4YmQzNmZlZTU5MjNkNTRi`
+Snapshot ID: `MCwxMjJhNGM5MjY4NzBhMWM1NDYyOWQ2MjBlMTNlZDE2ZDNmNmEzM2Y3`

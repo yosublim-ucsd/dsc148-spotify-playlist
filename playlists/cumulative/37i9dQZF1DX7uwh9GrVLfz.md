@@ -4,13 +4,14 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: 春ねむり\(Haru Nemuri\)
 
-590 songs - 1 day 7 hr 53 min
+592 songs - 1 day 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["Let it die \-Subete wa isutori game\-" \(Let it die \-All is musical chairs\-\)](https://open.spotify.com/track/2TAxUxm124Yt8hvtUS9oXi) | [PAN](https://open.spotify.com/artist/2YKxuLK7kkCTYnTkX4O17T) | [Goo Goo Goo](https://open.spotify.com/album/7xgE9X3dQw5GBMognMf1oE) | 3:12 | 2022-07-14 |  |
 | [1986](https://open.spotify.com/track/5d0XlR9EKCpbQHX8g0JbQh) | [DOTSUITARUNEN](https://open.spotify.com/artist/3AVCjqVpripxn9rQ1sC7Vb) | [1986](https://open.spotify.com/album/61uS7DM6h3la9sI1iTuuwS) | 5:56 | 2022-05-19 | 2022-07-27 |
 | [20th CENTURY BOY](https://open.spotify.com/track/4O2v3PvNY0BlVuq4oyAqMA) | [PET](https://open.spotify.com/artist/7GYpun631o8dGqDi1vpTJL) | [DANCE!DANCE!DANCE!](https://open.spotify.com/album/3vbuPOde056RverUHaTuBz) | 3:39 | 2022-12-20 | 2023-01-11 |
+| [2時間なんもしなかった](https://open.spotify.com/track/08u7tWny37haGGVHQBWF7z) | [Wasureranneyo](https://open.spotify.com/artist/7mhywHwc3ElwYwiMLEsduP) | [2時間なんもしなかった](https://open.spotify.com/album/68Nvqg30WnytdBgACaK9o3) | 1:24 | 2023-07-20 |  |
 | [6: 00 pm](https://open.spotify.com/track/4uHnBIr8EmJLe5c7keR3og) | [GIZMO](https://open.spotify.com/artist/1jH2XUfqilYR4F2oZ7gm2V) | [6:00 pm / No worries](https://open.spotify.com/album/33ueflCOOXK4zaEmaI4fqA) | 2:30 | 2022-06-07 | 2022-07-29 |
 | [8月。雨あがり](https://open.spotify.com/track/6R604O6V9iNbGLZjBHcAjx) | [バックドロップシンデレラ](https://open.spotify.com/artist/4v0uOC5uuIzkyGqYEdwTLI) | [8月。雨あがり](https://open.spotify.com/album/5f1PLWP9lsW664RhJULH6w) | 3:57 | 2022-05-19 | 2022-07-27 |
 | [A Beautiful Place](https://open.spotify.com/track/2HxcZPXuMyL1KQzHo5iEre) | [DRADNATS](https://open.spotify.com/artist/4lXsnr1wwEE51UvWLMJuTM) | [ONE HiT TO THE BODY](https://open.spotify.com/album/2MwaOSSA0ggOvgjtZ0X2EI) | 2:23 | 2022-06-07 | 2022-07-24 |
@@ -231,7 +232,7 @@
 | [Montage](https://open.spotify.com/track/2hpSNLEJiIGSq225w85rqN) | [04 Limited Sazabys](https://open.spotify.com/artist/6Gem5Nh6gd9PCtWdzR7Odh) | [Montage](https://open.spotify.com/album/0okyj8gFm6i5FQ8Dv8MCC0) | 3:10 | 2022-05-19 | 2023-02-15 |
 | [MORATORIUM](https://open.spotify.com/track/22BlETticZbVWRXTw8SKD2) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [FROM HERE TO EVERYWHERE](https://open.spotify.com/album/59Htpa3CGxlTNxHQI7skRV) | 2:30 | 2022-05-12 | 2022-07-29 |
 | [Morning](https://open.spotify.com/track/5XPXxsSl07ER8tufQ7mIfz) | [OWl](https://open.spotify.com/artist/0maedf6L3q44shFk35Bs9Y) | [KICKASS](https://open.spotify.com/album/3LF5paSFlt197Sq3EnRGLr) | 2:39 | 2022-06-14 | 2022-07-29 |
-| [morning glow](https://open.spotify.com/track/3gKtZrjO0VUPZRr6yQCzGt) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [morning glow](https://open.spotify.com/album/2Yt5IA6dZq0lm1n0BPsxik) | 3:02 | 2023-07-06 |  |
+| [morning glow](https://open.spotify.com/track/3gKtZrjO0VUPZRr6yQCzGt) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [morning glow](https://open.spotify.com/album/2Yt5IA6dZq0lm1n0BPsxik) | 3:02 | 2023-07-06 | 2023-07-21 |
 | [morning glow](https://open.spotify.com/track/7vRVeeoAMz9peuYiHkjRiN) | [SPARK!!SOUND!!SHOW!!](https://open.spotify.com/artist/1bFs9Etj0H2sq0vmmwmmDU) | [morning glow](https://open.spotify.com/album/1UGxYO35TP44XoyzE4QJ1g) | 3:02 | 2023-07-06 | 2023-07-08 |
 | [MUZIC](https://open.spotify.com/track/4Zxt7WB2E7qkyav5eiSYnj) | [EGG BRAIN](https://open.spotify.com/artist/7dmVux6qeQNS636kmtoUEI) | [AIN'T SEEN NOTHING YET](https://open.spotify.com/album/4RU5eq7GsGxKEo28TdOHUg) | 3:38 | 2022-05-12 | 2022-07-23 |
 | [MUZIC](https://open.spotify.com/track/1LrmWErruRbgfafzcilZNS) | [EGG BRAIN](https://open.spotify.com/artist/7dmVux6qeQNS636kmtoUEI) | [MUZIC](https://open.spotify.com/album/4UfnTbzbPnLbF6K1RttHp5) | 3:42 | 2022-05-12 | 2022-08-18 |
@@ -445,7 +446,7 @@
 | [おしえて \(アルプスの少女ハイジ\)](https://open.spotify.com/track/4DcbMiZEb8UQsCe9FcI1qS) | [バックドロップシンデレラ](https://open.spotify.com/artist/4v0uOC5uuIzkyGqYEdwTLI) | [ライブキッズのための名曲集](https://open.spotify.com/album/3Pk3AfSjOstY45u7g3VEnO) | 3:04 | 2022-05-17 | 2022-07-27 |
 | [おどるポンポコリン](https://open.spotify.com/track/5iJCFGrAHTYQjUWIaIjjMd) | [S.M.N.](https://open.spotify.com/artist/1D6MlbV9yHTOrlmMNhtEc5) | [TOON TUNES \-10 Favorite Japanese Anime Songs\-](https://open.spotify.com/album/3yeN8JjxqHtLhFMNwzgGMS) | 3:07 | 2022-06-02 | 2022-07-21 |
 | [お先明るすぎて何も見えない](https://open.spotify.com/track/6Ce1HBP51AdZB3RRzKzJTG) | [ド真ん中ズン](https://open.spotify.com/artist/1FUXGPuP9JUbQHC1CLX389) | [お先明るすぎて何も見えない](https://open.spotify.com/album/5aPkQLF2JqpO2qiB4p0sG0) | 2:45 | 2022-06-14 | 2022-07-18 |
-| [お前の話は聞いていない](https://open.spotify.com/track/57eiMqz3NKsE9wrQxQuBke) | [Wasureranneyo](https://open.spotify.com/artist/7mhywHwc3ElwYwiMLEsduP) | [お前の話は聞いていない](https://open.spotify.com/album/1f2hVzPb2h5NfkvGXY9DHR) | 3:34 | 2023-06-08 |  |
+| [お前の話は聞いていない](https://open.spotify.com/track/57eiMqz3NKsE9wrQxQuBke) | [Wasureranneyo](https://open.spotify.com/artist/7mhywHwc3ElwYwiMLEsduP) | [お前の話は聞いていない](https://open.spotify.com/album/1f2hVzPb2h5NfkvGXY9DHR) | 3:34 | 2023-06-08 | 2023-07-21 |
 | [くそったれ人生最悪の](https://open.spotify.com/track/2qty9Rb1JDsE0rFm07PDa8) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [くそったれ人生最悪の](https://open.spotify.com/album/6QNYEdBLvhpKEJEozaRH8M) | 4:24 | 2023-02-14 | 2023-07-12 |
 | [くそったれ人生最悪の](https://open.spotify.com/track/6io2UWI9uzsPdDK8FHtN6a) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [くそったれ人生最悪の](https://open.spotify.com/album/7nQ435Y6QnPyoigXh3CJx4) | 4:24 | 2023-02-14 | 2023-02-16 |
 | [こいのうた](https://open.spotify.com/track/2KPBIjQLE3tOGYQi6dyJEk) | [GO!GO!7188](https://open.spotify.com/artist/66ngkg99OYT8xfzYy660Wu) | [ベスト オブ ゴー!ゴー!](https://open.spotify.com/album/3BC0ULmefgz7GFXOUYGY7k) | 5:56 | 2022-05-19 |  |
@@ -487,6 +488,7 @@
 | [スモールワールド](https://open.spotify.com/track/5JQo1K1OYDpGLTw3dmVNvG) | [ジョズエ](https://open.spotify.com/artist/3hHyAPKqKkciTod3I07ofN) | [エレクとリック](https://open.spotify.com/album/7sevoP2cNy9VoTZ8gmGIWl) | 3:30 | 2022-06-07 | 2022-07-27 |
 | [タイムリミット](https://open.spotify.com/track/2chhBg7aGSGfxcmUjsAaKz) | [The Homesicks](https://open.spotify.com/artist/0U4GtZUDLZUvZdBWreoniH) | [タイムリミット](https://open.spotify.com/album/5yzKKgiw46sDS7uXqa0a8Q) | 3:49 | 2022-05-12 | 2022-07-29 |
 | [ティーンエイジじゃいられない](https://open.spotify.com/track/0qKNyKMNO8yPOENW7OZojB) | [ザ・暴動チャイルズ](https://open.spotify.com/artist/1rAfll9jPLKIllRhvevUMM) | [ティーンエイジじゃいられない](https://open.spotify.com/album/412bWzSB7KxVdzx8LZEqlO) | 3:56 | 2022-07-19 | 2022-08-10 |
+| [トライアングル](https://open.spotify.com/track/0RWjmkpOBORnRYE9RmspiO) | [Heavenstamp](https://open.spotify.com/artist/72Ejp7y60pGCASGkZ8ZAzI) | [トライアングル](https://open.spotify.com/album/0J9pydBaNaLxr4Et8E4TzH) | 1:42 | 2023-07-20 |  |
 | [ドブ川にサヨナラ](https://open.spotify.com/track/3omVAHBli472mnyUQ2xEKu) | [PROM](https://open.spotify.com/artist/2gv2xgqjo0hWWwmaF9ddQw) | [HYPER ACTIVE BLUES](https://open.spotify.com/album/51GLlQMiCQLluqWDYkH3e3) | 5:51 | 2022-05-31 | 2022-06-23 |
 | [ハイライト](https://open.spotify.com/track/0iMrvYZ2ULhJxSDUNYv8K9) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [アイラヴユー](https://open.spotify.com/album/3ZlJleq30vEcTfZBHq46fs) | 4:09 | 2022-07-21 | 2023-03-22 |
 | [ハイライト](https://open.spotify.com/track/5Npp3O30GPR0RrGGZv9wOl) | [SUPER BEAVER](https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU) | [ハイライト](https://open.spotify.com/album/1Yj1VMprH0iGbfy64WzopR) | 4:12 | 2022-05-24 | 2022-07-12 |

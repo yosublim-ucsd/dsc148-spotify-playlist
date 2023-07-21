@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Nubya Garcia
 
-[Spotify](https://open.spotify.com/user/spotify) - 890,613 likes - 100 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 890,730 likes - 100 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Jib Set](https://open.spotify.com/track/3h1Pl7YeuxQcwyoa0AR4LW) | [Daniel Hersog Jazz Orchestra](https://open.spotify.com/artist/4kw8f5dfYQrxXDJbKnTYXy), [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP), [Noah Preminger](https://open.spotify.com/artist/2WUAJpHBpYwRyY17woH3f0) | [Open Spaces \(Folk Songs Reimagined\)](https://open.spotify.com/album/1GR2qWrFdhwTK0BDg77ci0) | 8:27 |
 | 100 | [Contes de la nuit](https://open.spotify.com/track/2CuMHRqxncgEAGF5qaajHh) | [Uèle Lamore](https://open.spotify.com/artist/12jPinlyvDpbdEHwg0oXXl), [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm) | [Uèle Lamore & Theo Croker](https://open.spotify.com/album/3gjvzlYi5RBpptiEZ0md6e) | 3:34 |
 
-Snapshot ID: `MCxmZmM3YjdhOTQ3ZTFmZmM2YWFhZjU5YTc5MDQ1OWQxNzBmZTM0YmZk`
+Snapshot ID: `MCw3MTQzMTczMDRkYmYzOWQzZmQ3MjBlZjk2NTg4MmUyYzhiMTM5YTIx`

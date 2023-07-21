@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 
 > \-8 LUFS if you can\. Ft\. mykel online
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,585 likes - 100 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,646 likes - 100 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmErmrio5En.md) - [plain]
 | 99 | [‎mint ‎condition \(‎good ‎as ‎new\)](https://open.spotify.com/track/6MwqWsbeIZu4j2JNT4GjeN) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎mint ‎condition](https://open.spotify.com/album/1jboFFMPdvWimrI3ndqofk) | 2:17 |
 | 100 | [Vexed](https://open.spotify.com/track/1ygKweLJhtyXz51C5o0hij) | [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [Fortune Cookie](https://open.spotify.com/album/25hxrIRl5CcBV7nAoJFiW8) | 2:21 |
 
-Snapshot ID: `MCw3MDlkNTcyMGFmMzlhNDdkODU1NmE4NzNlYTlmODRlYzI5MTZkZTMy`
+Snapshot ID: `MCwwNDM0ZDNmNTVlOWY1NTAxOTFjOTFlZmE2MmU3MmMxMDBjMzVhNGQw`

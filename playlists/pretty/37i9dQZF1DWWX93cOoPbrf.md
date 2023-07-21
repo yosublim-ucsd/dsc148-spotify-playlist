@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2023\. Natanael Cano en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 767,807 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 768,033 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [Los Monje](https://open.spotify.com/track/5FnmsK0BvC3bmtx8jvSNra) | [Latigo Norteño](https://open.spotify.com/artist/0vXWmMdHURYAVAJD070bMg) | [Los Monje](https://open.spotify.com/album/10nWwIe0PhJfNarW2wFjY4) | 3:55 |
 | 75 | [un loquerón](https://open.spotify.com/track/2nlBvYdYnN16eJxG9DXFG2) | [vatocholo](https://open.spotify.com/artist/5lgauAo4BLN9PodnIxhxi8), [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [hecho en México](https://open.spotify.com/album/43Wmfa9FeM6va3dxNXn8NS) | 3:03 |
 
-Snapshot ID: `MCxkODQ1NDdjM2U1YWNiYTgwNTA5YTUyYTdjMWIwNWIzYTk0NGJjMjEw`
+Snapshot ID: `MCxjYTFkNzA0YzYwMzY1NzdhNGI3ODFhZTQ0YjIxZDUxNWI0OWYzYWQ3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 
 > Let the blessings come down and the weights go up\.  Get your beast mode on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,867 likes - 150 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,094 likes - 150 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXq6zX9dQEzo.md) - [plain]
 | 149 | [bounce back.](https://open.spotify.com/track/4tNgJIUHrkkHt6iFESuJRi) | [Wes Harris](https://open.spotify.com/artist/2X0bW6IUNbMDrTFoSX05W2), [Sarah Nathalié](https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni) | [bounce back.](https://open.spotify.com/album/748L8OCoABosEZF41AzgtM) | 3:07 |
 | 150 | [Sunrise 2 Sunset](https://open.spotify.com/track/7EJOV089sJE935qHobWmxA) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Vincent Charlow](https://open.spotify.com/artist/3r029EjQHmgQhmfN6J45O3), [ITM](https://open.spotify.com/artist/6QmwIBi7pzFs75SnQFX6Hn), [Royce Lovett](https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N), [Seaux Chill](https://open.spotify.com/artist/1m9azqggcxRtwUD9awNYTV) | [We Outside](https://open.spotify.com/album/67WCbBUMISteFiNbOZ2Yqw) | 3:42 |
 
-Snapshot ID: `MCw3MzVjYjkwOWQyYTg3ZmI5ODI1ODk4N2JmNDQxOTgxOTkxZThjODU5`
+Snapshot ID: `MCwwYTNlMWIzZGYzNGYwNjRmZTM3ZDg3NDg1NjVmZTM1MDNhNjhkMjI5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47ov4h4oSjW.md) - [plain]
 
 > Music to help you concentrate during your homework.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,078 likes - 100 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,080 likes - 100 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47ov4h4oSjW.md) - [plain]
 | 99 | [Lonely Leslie](https://open.spotify.com/track/1Y9CNCm8icZUaMtQV29NpC) | [Thomas Preber](https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79) | [Lonely Leslie](https://open.spotify.com/album/1AWQaoW4Zdiubdcb0H7BAg) | 2:39 |
 | 100 | [The Great Plains Hymn](https://open.spotify.com/track/0hdtz1o1UYIvQJmAdqGHL1) | [Charles Bolt](https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj) | [Seasons Changing](https://open.spotify.com/album/1LzFyb9q0hGiaSp6AlcaQu) | 1:59 |
 
-Snapshot ID: `MCw4NjQxMjM3YTYxY2EyYTA4N2IyZDkzOWY0NzM2MmFhZjhjYTc3MjI5`
+Snapshot ID: `MCwwMDZiYmEyYjAzNmRiMmVkNzFiZTc0MGU3MTk1MjJhOGFmNDgwMzI2`

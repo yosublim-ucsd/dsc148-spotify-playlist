@@ -362,10 +362,28 @@
       ],
       "date_added": "2021-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 224520,
       "name": "Cold World",
       "url": "https://open.spotify.com/track/2WxZsGInatsAG5Z2NCgCHN"
+    },
+    {
+      "album": {
+        "name": "Live Slow Die Wise",
+        "url": "https://open.spotify.com/album/2exje2s1zj4OX3qIToppco"
+      },
+      "artists": [
+        {
+          "name": "Geoffroy",
+          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
+        }
+      ],
+      "date_added": "2021-12-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224520,
+      "name": "Cold World",
+      "url": "https://open.spotify.com/track/6vrfAwiU7e7pM8GSa3A75S"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 
 > The original chill instrumental beats playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,156,639 likes - 300 songs - 10 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,156,901 likes - 300 songs - 10 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -309,4 +309,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0SM0LYsmbMT.md) - [plain]
 | 299 | [Ocio](https://open.spotify.com/track/3tV3Qb9XnPitAk81Q12tlo) | [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2), [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr) | [Ocio](https://open.spotify.com/album/2ISUjEQcW6QeqN66zfevHe) | 3:27 |
 | 300 | [Fantastic Science Fictions](https://open.spotify.com/track/571yI9Y6m4eXbKAajNGn9C) | [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M) | [Fantastic Science Fictions](https://open.spotify.com/album/6QtQK1qWzkTfdKtNxE6Yau) | 2:22 |
 
-Snapshot ID: `MCw2YTU3YWJmNjYwZWQ0ZTIzZmM5ZDdjNTRiNTQwZDNkYzQ4ZDY2OWYz`
+Snapshot ID: `MCw2M2NiYmM5MzY5ZWFmNWVlYmUyYjYxNTYwY2RiOTM3ZjRkNjVhMTcx`

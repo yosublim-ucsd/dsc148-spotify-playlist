@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZheHO7xislj.md) - [plain]
 
 > Classic and new soul music for the perfect dinner.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,408 likes - 200 songs - 12 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,418 likes - 200 songs - 12 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZheHO7xislj.md) - [plain]
 | 199 | [W.E.L.F.A.R.E](https://open.spotify.com/track/5tEBmzq26o1s6umHCvrpoF) | [Antonio Castro](https://open.spotify.com/artist/5YAOVRKnU0PD9gNMPcHI9Y) | [W.E.L.F.A.R.E](https://open.spotify.com/album/5ml124B4zTopEnWFW4hYYw) | 2:48 |
 | 200 | [Steal Away](https://open.spotify.com/track/6olcjo8bBSkin9fJtFj7hB) | [Johnnie Taylor](https://open.spotify.com/artist/4OGuNAnRFWZOgOA2d51taz) | [Chronicle: The 20 Greatest Hits](https://open.spotify.com/album/1QMVI7vXJxC2f4R65Mu1zd) | 3:28 |
 
-Snapshot ID: `MCw3NzE2ZjcxMDNkMGIyMTNjZGEyMGMwMjM5OTAzODE1YjEzMjZiOGZj`
+Snapshot ID: `MCwxNjVhOTc4NTJiZTBmMjY3Yjk3MGU3YWVjMGI4MDM5OTk1MWRlOWU2`

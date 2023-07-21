@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 
 > El don de cantar y componer, una playlist llena de talento\. Foto: Joaquín Sabina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,940 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,078 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8oh7peUXg5S.md) - [plain]
 | 99 | [Al Alba](https://open.spotify.com/track/5zftYFI80oeA7UKfisvRUt) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Albanta](https://open.spotify.com/album/71bflvCi5VkZBS5IV81b8M) | 4:57 |
 | 100 | [Sacar La Rabia](https://open.spotify.com/track/7GUs1PDaklqH7gUJdx6Kd7) | [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV), [Los Locos Descalzos](https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS) | [Sacar La Rabia](https://open.spotify.com/album/6OUnHuMoShQK0wdTpBICMh) | 3:53 |
 
-Snapshot ID: `MCwyNjViNzcwODM2OTE2NTQ4ZjljNzJkMjQ1N2NhYzNlYTI0NzNlNzRj`
+Snapshot ID: `MCw5MzQ2Y2Q3ZTBhNGRhOTZkNTg2OGNhYjk2MDE4ZGQzNDA4MTMyODY0`

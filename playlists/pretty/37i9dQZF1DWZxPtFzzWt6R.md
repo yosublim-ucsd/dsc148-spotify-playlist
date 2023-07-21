@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 
 > A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: Suellen Lima
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,130 likes - 60 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,169 likes - 60 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 59 | [Me Entrego](https://open.spotify.com/track/6j10JapIh1BVbUjjCVW9Tv) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Me Entrego](https://open.spotify.com/album/5MKW0jgUtpVcaBfIH1ndN3) | 3:29 |
 | 60 | [Surpresas](https://open.spotify.com/track/4om9ARGmgO7LGViqZoGyav) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Surpresas](https://open.spotify.com/album/4Xd5WSqlGucQbmi9qfn214) | 3:38 |
 
-Snapshot ID: `MCxlNWRjNjEzYTgxNjkxNmYyODA0OTg4ZjI5YTZhODYzOGEzMzVmNGJj`
+Snapshot ID: `MCw5ZTQ0MmMxNjE4NDk5NThjMDJlMjc5NzNkYTJlODQxODBjZGNhNGJl`

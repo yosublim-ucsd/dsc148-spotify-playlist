@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 
 > Tech house technicians, featuring Cloonee
 
-[Spotify](https://open.spotify.com/user/spotify) - 591,266 likes - 125 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 591,331 likes - 125 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVY4eLfA3XFQ.md) - [plain]
 | 124 | [Tuck & Duck](https://open.spotify.com/track/7iFSBk58wHiCFhx3ylTbmo) | [John Dahlbäck](https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv), [J Swey](https://open.spotify.com/artist/7qF6NAMsPdmVz0o8n5v1Ht), [Azide](https://open.spotify.com/artist/0jZCd5FFBIaaiXlIJX6I9h) | [Tuck & Duck](https://open.spotify.com/album/74mMIbgBtClSzUkt8HxRWc) | 2:51 |
 | 125 | [Love My House](https://open.spotify.com/track/7muGDRh89CHmI2vuexyWK4) | [Kapuzen](https://open.spotify.com/artist/33t6iueXWtstQC1Q0RdojN) | [Love My House](https://open.spotify.com/album/1DSAMWIcYeWOvVxzdZJ4Cw) | 3:42 |
 
-Snapshot ID: `MCxmODQxMThlYmU5ZDljODQxMDg2YTcxMmM4NjRmNDFlODQ4MWI4YTIx`
+Snapshot ID: `MCwxODJiYjlkMGUxYjZkNzhkZTM0YzIyYTNiNzNlYmE3Y2YyOTY5NmE2`

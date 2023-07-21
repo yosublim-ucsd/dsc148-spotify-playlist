@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 
 > The best indie tracks for just hanging out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 784,803 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 784,971 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9B1hu73DioC.md) - [plain]
 | 99 | [Another Lover](https://open.spotify.com/track/5duZe3kHUqNENd97WYqmYL) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [New Me, Same Us](https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF) | 4:26 |
 | 100 | [High](https://open.spotify.com/track/6r836ND98CjgLGESPNV9c9) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [High](https://open.spotify.com/album/3OI4BbvKr2O5KoehBvmqby) | 2:44 |
 
-Snapshot ID: `MCw0ZmMwNDNkMTY4MzViNWViMjc1MDc1ZGZjZGJmNWVkNDhiZGYxOTI0`
+Snapshot ID: `MCxmYWRkOGZhNTNiNWQ0ZjYzOTcwOGNmYTQyMTU1ZGE2MjA3NGQzOWEz`

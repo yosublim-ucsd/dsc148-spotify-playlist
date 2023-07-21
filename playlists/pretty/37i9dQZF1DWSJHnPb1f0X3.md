@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJHnPb1f0X3.md) - [plain]
 
 > Upbeat dance pop to keep your heart pumping.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,026,148 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,027,160 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSJHnPb1f0X3.md) - [plain]
 | 99 | [Everything But You \(feat\. A7S\)](https://open.spotify.com/track/2wVQcA1YCuGL6EW0QbgVoV) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Everything But You \(feat\. A7S\)](https://open.spotify.com/album/0pRwjoHpYyvVuf6cF3shYg) | 3:18 |
 | 100 | [Mad Love \- Blinkie Remix](https://open.spotify.com/track/5qiQbOa6AFEO3P111y9Jry) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Blinkie](https://open.spotify.com/artist/0nJcDqY6ox4kHB92AuRA8j) | [Mad Love \(Remixes\)](https://open.spotify.com/album/0o9d312clt8gVtz1uZZkBW) | 3:20 |
 
-Snapshot ID: `MCw2Y2M2NTliMDZkYjRiMzU3MDBhYWEyZTJkNzFiZTUwMjgwNzAxM2Vm`
+Snapshot ID: `MCw5NzFjMjg0M2Q2ZjViM2VkMWQ3NjU3ZjYwOTJkM2FjNTA5ZDViOTdh`

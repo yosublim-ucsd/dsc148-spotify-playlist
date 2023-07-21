@@ -6097,6 +6097,24 @@
     },
     {
       "album": {
+        "name": "Think About Me",
+        "url": "https://open.spotify.com/album/4Vg4b2iTQKB2uGe5Isi1VI"
+      },
+      "artists": [
+        {
+          "name": "Yancle",
+          "url": "https://open.spotify.com/artist/4O1BpPjKtbmon4QJDaYFGM"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187276,
+      "name": "Think About Me",
+      "url": "https://open.spotify.com/track/58D90FJE3U4HMZG8yZT0Ha"
+    },
+    {
+      "album": {
         "name": "To The Top",
         "url": "https://open.spotify.com/album/4Nrg9Rk5iLeiLnRgNVtkiX"
       },
@@ -6606,6 +6624,28 @@
       "duration_ms": 188571,
       "name": "What I Say - Thorne Remix",
       "url": "https://open.spotify.com/track/1t54AP4CUYAG0gScKyWDlq"
+    },
+    {
+      "album": {
+        "name": "What I Want",
+        "url": "https://open.spotify.com/album/5PBxydJZJ4dTwLuUB2F76K"
+      },
+      "artists": [
+        {
+          "name": "Britt Lari",
+          "url": "https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159"
+        },
+        {
+          "name": "Ray Le Fanue",
+          "url": "https://open.spotify.com/artist/5KbHk9IwiIF0fdu1AOJx29"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "What I Want",
+      "url": "https://open.spotify.com/track/4qpxyKNLO2NT6f5q5pefRI"
     },
     {
       "album": {

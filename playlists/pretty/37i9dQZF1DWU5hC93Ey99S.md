@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,987 likes - 173 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,103 likes - 173 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 52 | [Want U](https://open.spotify.com/track/2Mq6Gnoh4gomERaXGiwEYB) | [MOONBOY](https://open.spotify.com/artist/16r05v3b8WwDS2TYRSlBCm), [KORA](https://open.spotify.com/artist/3WhSCXkMRTSKS4jt43hick) | [MOONBOY](https://open.spotify.com/album/7nbl0sq2qrigt7BGmAcPc7) | 4:39 |
 | 53 | [SENSATIONS](https://open.spotify.com/track/0VLOrgzhF7tzlXLzN19u1Z) | [BOMBAYS](https://open.spotify.com/artist/7A4VOBpGKQHvPpbdNqQHmC) | [SENSATIONS](https://open.spotify.com/album/1QKqAirMDjFJtL2hwogEG7) | 3:40 |
 | 54 | [Paperplanes](https://open.spotify.com/track/3JWKhPP6muh6tjR8b7PDOb) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [Paperplanes](https://open.spotify.com/album/2trMonrsiuBQX7tE9ZiA6V) | 3:30 |
-| 55 | [All Night](https://open.spotify.com/track/7hpP2b7QO5eh0YjaJFmSvO) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [All Night](https://open.spotify.com/album/4f0YqTq3Akrmy36UjM88ry) | 3:34 |
+| 55 | [All Night](https://open.spotify.com/track/5v44vaBk8hzii64jBFsmUJ) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI \(Mixtape\)](https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE) | 3:34 |
 | 56 | [Clouds](https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj) | 2:38 |
 | 57 | [Quiver](https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Quiver](https://open.spotify.com/album/2VkVJMy7SwL3j758hgXbvO) | 3:01 |
 | 58 | [Youthful Kids](https://open.spotify.com/track/1YBvhB1094Q5Niw1GDSRY3) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC) | [Youthful Kids](https://open.spotify.com/album/6PcXHDSWeTupdzdabiuYZj) | 2:59 |
@@ -115,7 +115,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 105 | [See You](https://open.spotify.com/track/5xHFQvcmStd8e53BgXChlD) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [See You / Feel So Lonely](https://open.spotify.com/album/2zovU4jSBL8HL0SM0SnF5q) | 4:43 |
 | 106 | [Deny It](https://open.spotify.com/track/2G0pIL19syX70AXLc9ykPj) | [Jasper Tygner](https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh) | [Deny It](https://open.spotify.com/album/6lIxoZV2okhpBngVJvXi8i) | 4:02 |
 | 107 | [My Mistake](https://open.spotify.com/track/141LKU6Shr5ogV6hDYQeuf) | [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [My Mistake](https://open.spotify.com/album/2qq3PW9es1FCLr2CFKgqJN) | 3:15 |
-| 108 | [What If](https://open.spotify.com/track/3vseyNLwyEmY8iRs1Jji4N) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [What If](https://open.spotify.com/album/3exQ4HL1e66YnZGd2bYNgz) | 3:25 |
+| 108 | [What If](https://open.spotify.com/track/6V2J1bvchhoi64ycvaxmDj) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI \(Mixtape\)](https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE) | 3:25 |
 | 109 | [WASTED ON ME](https://open.spotify.com/track/6tXebnSmy1ZEZANFRHRoCO) | [Angrybaby](https://open.spotify.com/artist/5TAU3fcCF32FqKMrdbXfRr) | [WASTED ON ME](https://open.spotify.com/album/5e08LQuzV5wcQlCcp9rs2g) | 3:02 |
 | 110 | [Food for the Soul](https://open.spotify.com/track/7u0fz3V6cYeYTX91DMmIvQ) | [it's murph](https://open.spotify.com/artist/3zW0xazqnHoq9QV9zBROVC) | [Food for the Soul](https://open.spotify.com/album/3U20hCbqPM745vgo0PVcmw) | 3:30 |
 | 111 | [Danielle \(Smile on My Face\)](https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Danielle \(smile on my face\)](https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y) | 3:21 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 172 | [Liana](https://open.spotify.com/track/4m1BbY9mE352gfAVNa9Idz) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY), [Lawrence Hart](https://open.spotify.com/artist/2pQj31A8LgfwBTGmhHdRXa) | [Sunblind](https://open.spotify.com/album/4EN8YMJK0uaD5yfkhg6aNS) | 4:24 |
 | 173 | [Brave](https://open.spotify.com/track/2HI595p5wIHXoVgo4lOZ3f) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Brave](https://open.spotify.com/album/4KRRm0aGMm3lTCtMhoDPmk) | 3:50 |
 
-Snapshot ID: `MCw0ZThlYzViZjdjYTk3ODQxMTdhZjNjYjc1ZDA2MmZjNDQ4NTYzMjU4`
+Snapshot ID: `MCwxZDM4N2U0NTk2YmFjZjViOWRhM2FiZTA3MTY0NDc1YzcxZjdlYzQ5`

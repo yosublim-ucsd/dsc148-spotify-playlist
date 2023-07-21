@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > The highest quality alternative blend ft\. Local Natives
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,276 likes - 114 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,300 likes - 114 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 113 | [Flowers in Your Hair](https://open.spotify.com/track/3r8tN8h34miJWeu5VuVzk3) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [Flowers in Your Hair](https://open.spotify.com/album/18jqHWp5uH00u051RM58zQ) | 3:47 |
 | 114 | [Magical Touch](https://open.spotify.com/track/6H8z76IGQAki6BBvK2xZtQ) | [The Wans](https://open.spotify.com/artist/4uH9k7FTheXWBKwuML8kjn) | [Magical Touch](https://open.spotify.com/album/7mjpdXg6otVZ4MRLniB1YU) | 3:08 |
 
-Snapshot ID: `MCw4OTBjZTViYzQ2OWFkOWQzMzczOGY5Njg2YTkyYTdkNjBmZmZkMGQ0`
+Snapshot ID: `MCxjZjY1MjcwMmUzNzVlZmE2YWM3Mjc2Njg5ZjcyYjg0YmE5YTY0M2Zi`

@@ -4,7 +4,7 @@
 
 > Disfrutemos del amor en los tiempos del rock.
 
-187 songs - 11 hr 33 min
+188 songs - 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Dientes](https://open.spotify.com/track/74cqgSQGf1qznCiWyqu7w5) | [iiis](https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D), [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Dientes](https://open.spotify.com/album/0Lzfz2swBfJWGJIAzZRgMV) | 4:46 | 2023-06-30 |  |
 | [Dime](https://open.spotify.com/track/3kgBm26rI8faWMTxyzyJF3) | [Polaris](https://open.spotify.com/artist/4f8qDCXvGLNPj783d6PTWS) | [Dime](https://open.spotify.com/album/3Q8Wtw6UB5xLQQ15tb7z9B) | 3:01 | 2022-01-28 |  |
 | [Dime Como Tú Quieras](https://open.spotify.com/track/09uJJFpcg2q2zuiYRC4PZT) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Pangea](https://open.spotify.com/album/4ZXSSk6W16s3Jn7EXOnVFU) | 3:08 | 2022-01-28 | 2023-07-01 |
+| [Discomanía](https://open.spotify.com/track/3UXcPbwfPgYQjr7tH72p0Q) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Discomanía](https://open.spotify.com/album/24sgoyMdfp46v2N1gYcN2K) | 3:08 | 2023-07-21 |  |
 | [Dos Amantes](https://open.spotify.com/track/66lOJXZVLAIBFogLrXM4Z6) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk) | [Dos Amantes](https://open.spotify.com/album/58yZYSZWbW5RP5xMZTqsgM) | 4:10 | 2022-01-28 |  |
 | [EL FINAL](https://open.spotify.com/track/2v0HNNJ3mijsvzOgHq8EHO) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [EL FINAL](https://open.spotify.com/album/6InT8SPpU1AIUXcQsbMZ00) | 3:52 | 2023-05-19 |  |
 | [El Principal](https://open.spotify.com/track/38zXJ37YwjF6X6K5yP6640) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH), [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [El Principal](https://open.spotify.com/album/203WYe8y0NrDe7bBNGO28v) | 3:30 | 2023-05-05 |  |
@@ -91,7 +92,7 @@
 | [Góndola \- Live Session](https://open.spotify.com/track/1dOYmzJmvUTOAShmw6pT7V) | [Aceros del Pacífico](https://open.spotify.com/artist/4pF9TANr0OM6Ppf7Ejb91o), [Ana Rizo](https://open.spotify.com/artist/3jD6zAJRKQkylpOsaAVCiz) | [Góndola](https://open.spotify.com/album/4ETJicMeq2u0te2o6JxBdY) | 5:40 | 2022-05-12 |  |
 | [Hablando Lento](https://open.spotify.com/track/0KdTs8DIDALkkxmbqGJQvr) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Cambio Estacional](https://open.spotify.com/album/4l9pCun5O9jMUUqeJ7LiwU) | 3:36 | 2022-01-28 |  |
 | [Hablando Lento](https://open.spotify.com/track/3f2wEMtr710fw69GQHoq0i) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Cambio Estacional](https://open.spotify.com/album/7qo7uFnFwmf6otdyn4irRn) | 3:36 | 2022-01-28 | 2022-07-29 |
-| [Hasta Que Vuelvas](https://open.spotify.com/track/3tKHzGivXODnfEsjiOvU1h) | [Comandante Twin](https://open.spotify.com/artist/6MgIZuaJa0swshfLRDZMdw), [La Habitación Roja](https://open.spotify.com/artist/1PVE74Pf9ejCjOzdxlsHC6) | [Hasta Que Vuelvas](https://open.spotify.com/album/1uxN1bWUye6Wm7bIfGAwCM) | 4:04 | 2023-06-23 |  |
+| [Hasta Que Vuelvas](https://open.spotify.com/track/3tKHzGivXODnfEsjiOvU1h) | [Comandante Twin](https://open.spotify.com/artist/6MgIZuaJa0swshfLRDZMdw), [La Habitación Roja](https://open.spotify.com/artist/1PVE74Pf9ejCjOzdxlsHC6) | [Hasta Que Vuelvas](https://open.spotify.com/album/1uxN1bWUye6Wm7bIfGAwCM) | 4:04 | 2023-06-23 | 2023-07-21 |
 | [Hawái \(Post\-Punk\)](https://open.spotify.com/track/6QuHQ5AVWQwuO4Xssh7yz7) | [Saúl De los Santos](https://open.spotify.com/artist/3nlOVgapNG6OFRYxtTrIPA) | [Hawái \(Post\-Punk\)](https://open.spotify.com/album/71Igp4XPm15cNCXYdCVxmU) | 3:28 | 2022-04-26 | 2023-07-01 |
 | [Historia](https://open.spotify.com/track/0t0n9or0W1VHgxQmsM6gBt) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR), [Santi Balmes](https://open.spotify.com/artist/4ZvaqTTKRSOdPsuNBU9kSO) | [Cosmovisiones](https://open.spotify.com/album/1YUAGs2PPckzt55aL9Tzdm) | 3:17 | 2022-04-26 | 2022-07-29 |
 | [Historia](https://open.spotify.com/track/4NSZG57YtWfNbNH4ZUD7DE) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR), [Santi Balmes](https://open.spotify.com/artist/4ZvaqTTKRSOdPsuNBU9kSO) | [Cosmovisiones](https://open.spotify.com/album/2Jpnr6hBjbmSDrfWMWRYgZ) | 3:17 | 2022-04-26 | 2023-07-01 |
@@ -122,7 +123,7 @@
 | [Me Gustas](https://open.spotify.com/track/0JfsIu62NVXNQl2s7ATN37) | [Young Tender](https://open.spotify.com/artist/19g2jApswUTCNqXFxx2lAx) | [Rotos](https://open.spotify.com/album/1jRStAl5pbm9EpHLQsNnKz) | 3:22 | 2022-01-28 |  |
 | [Me Hago Mal](https://open.spotify.com/track/3XIaG3uGcewsKPmxauygJZ) | [Juanpalitoschinos](https://open.spotify.com/artist/2QznoP8SaZXOHkgZfvHlZa) | [Me Hago Mal](https://open.spotify.com/album/4E2l41cZXhRKXIi8gMKDe4) | 3:06 | 2023-04-14 |  |
 | [Medio Oriente](https://open.spotify.com/track/2c4bKlj1FMGd9Ftv8yxtX4) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Medio Oriente](https://open.spotify.com/album/2oI2xY2YwCMcp6yYdzGUIb) | 3:09 | 2022-01-28 | 2023-07-01 |
-| [MELANCOLÍA](https://open.spotify.com/track/5spLk611BNLAjZF4YHhn2r) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [MELANCOLÍA](https://open.spotify.com/album/59hsT0IGncAPHWmuhoDetX) | 4:22 | 2023-06-23 |  |
+| [MELANCOLÍA](https://open.spotify.com/track/5spLk611BNLAjZF4YHhn2r) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [MELANCOLÍA](https://open.spotify.com/album/59hsT0IGncAPHWmuhoDetX) | 4:22 | 2023-06-23 | 2023-07-21 |
 | [Miel](https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Miel](https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q) | 3:37 | 2023-06-02 |  |
 | [Monitor](https://open.spotify.com/track/7on4qNO1Iu5EX61mD80Cgv) | [Volován](https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA) | [Monitor](https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB) | 3:57 | 2022-01-28 |  |
 | [Movimiento](https://open.spotify.com/track/2pBkGJf561cHhTLHaImDns) | [Astronomía Interior](https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY) | [Astronomía Interior](https://open.spotify.com/album/0ozZh31IwYGhCVUOTvZaiu) | 3:23 | 2023-01-27 |  |

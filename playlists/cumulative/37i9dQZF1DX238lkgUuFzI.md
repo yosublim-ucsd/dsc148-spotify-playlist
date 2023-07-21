@@ -4,14 +4,15 @@
 
 > 2022 highlight from the misfits 2.0 universe\. Cover: Bring Me The Horizon
 
-111 songs - 5 hr 7 min
+112 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [4ÆM](https://open.spotify.com/track/3ffanCUFD0osXTvEghxZR9) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Miss Anthropocene \(Rave Edition\)](https://open.spotify.com/album/2FQYkZIuXLy222CVzgPbQ0) | 4:30 | 2021-12-01 | 2022-12-01 |
 | [A Villain's Monologue](https://open.spotify.com/track/1Kp80mQhmtLSJCJwzLrnXP) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [A Villain's Monologue](https://open.spotify.com/album/6jM1PfqatUmUVUxk0KrXgU) | 3:30 | 2021-12-01 | 2022-12-01 |
 | [ATTENTION!](https://open.spotify.com/track/0vg6GZpSxMG6h3xMhizRM6) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [ANXIETY](https://open.spotify.com/album/7kbCg4mVLUrbiVlEgDA3wM) | 2:41 | 2022-11-30 |  |
-| [Battery Acid](https://open.spotify.com/track/4PmaAXwZN8DrgnnJgyiiY3) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [Battery Acid](https://open.spotify.com/album/0zNko192Ppxps4hr8bcyXy) | 5:19 | 2022-11-30 |  |
+| [Battery Acid](https://open.spotify.com/track/1Z61fnfYnLiE9hvbKgqbxp) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [Battery Acid](https://open.spotify.com/album/3P9qDVbj3woeznS2EgkU2x) | 5:19 | 2022-11-30 |  |
+| [Battery Acid](https://open.spotify.com/track/4PmaAXwZN8DrgnnJgyiiY3) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [Battery Acid](https://open.spotify.com/album/0zNko192Ppxps4hr8bcyXy) | 5:19 | 2022-11-30 | 2023-07-21 |
 | [Believe the Hype](https://open.spotify.com/track/0YunvVUK70XaDeeTrOUcCt) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [Believe the Hype](https://open.spotify.com/album/4LrLxDQQA1MoxU9ZRyL95Q) | 2:47 | 2022-11-30 | 2023-03-13 |
 | [Believe the Hype](https://open.spotify.com/track/5LaT6csofzDEaFf8cmqoaQ) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [Let's Hope Heteros Fail, Learn and Retire](https://open.spotify.com/album/5YjuPPmMZy5VGjlesAPbHG) | 2:47 | 2022-11-30 |  |
 | [Black Punk](https://open.spotify.com/track/1irb49XkVPBjDpy0pckq5M) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Las Ruinas](https://open.spotify.com/album/6pyTFqxVk6Js8A8xfOg8ZO) | 2:30 | 2022-11-30 |  |

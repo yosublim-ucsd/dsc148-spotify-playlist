@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 
 > Keep the vibes from the villa going with music from & inspired by the new season of Love Island USA, only on <a href="https://www.peacocktv.com/stream\-tv/love\-island?cid=2307spotifypkerndwbjny369&utm\_campaign=2307spotify&utm\_source=sptfy\_pk\_na&utm\_medium=ernd\_wbjny\_cobr\_deslnk&utm\_term=spotifyusers&utm\_content=na">Peacock</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,605 likes - 27 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,751 likes - 27 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabZmhTI9fOC.md) - [plain]
 | 26 | [All We Need](https://open.spotify.com/track/6JylfydXyLzKfIqnqO7K6Y) | [Jai Nova](https://open.spotify.com/artist/7m0d5KbIfUlF3aY9KnTw5U) | [All We Need](https://open.spotify.com/album/3QKXK37j8kGebBThgykHoK) | 2:40 |
 | 27 | [Bad Things](https://open.spotify.com/track/7AXkLijaymM7ZfaO46FSRb) | [Summer Kennedy](https://open.spotify.com/artist/4zXwKatKsxYa8T9dAOzlgS) | [The Bright Side](https://open.spotify.com/album/5BM7D7Y62MfSrmWxjMxtKR) | 3:57 |
 
-Snapshot ID: `MCxlYzdkZTYxMzBjNDkyZGJjYWFiOTkyMGEyMDhiZTZhMzI2NTNkYmUy`
+Snapshot ID: `MCxkOTVlZTc3OWM1OTFlZDJlODhiZTk0ODMxMTBmNWQzODhiMGNkYzAw`

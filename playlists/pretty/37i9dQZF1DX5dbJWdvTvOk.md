@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dbJWdvTvOk.md) - [plain]
 
 > Canciones instrumentales de guitarra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,509 likes - 250 songs - 10 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,565 likes - 250 songs - 10 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dbJWdvTvOk.md) - [plain]
 | 249 | [White Sands](https://open.spotify.com/track/3ANFk4zuBdlLwF8Qf4ogIz) | [Argun North](https://open.spotify.com/artist/4jjr4BcdHYLSoU3Ba1pq9Q) | [White Sands](https://open.spotify.com/album/260yVwxBew0rLttW67e1ex) | 2:31 |
 | 250 | [Ao Clarear](https://open.spotify.com/track/3ZBVScPb6BlEwHruAWdhtx) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Mare](https://open.spotify.com/album/5TUcF5QXLj6Ola0lbnCFiy) | 3:17 |
 
-Snapshot ID: `MCxjYzY1OWI5ZTM0NjQyNmJlZTNmYWM3YzIxOGQ2MzdkNTEyNDJkMDY0`
+Snapshot ID: `MCxiY2EwY2M0ZDVjYTdhZWRkOWEwZjE2MzA2ZjQ2YTk3MjQzNjEzYWQy`

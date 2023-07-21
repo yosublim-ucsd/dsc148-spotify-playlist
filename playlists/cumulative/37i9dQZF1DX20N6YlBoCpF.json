@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Die varste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ?si=rD3Hdnv7R2ODs0awLsZH5g\">JAN JAN JAN</a> ",
+  "description": "Die varste Afrikaanse musiek. Cover: <a href=\"https://open.spotify.com/artist/4uNWMdfRm0Fd0qbOxBgFPL?si=xzVsivn2Ts6H0tGpwCXfFQ\">Deidr\u00e9 Barnard</a> ",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -739,6 +739,50 @@
     },
     {
       "album": {
+        "name": "Blom in Sy Wese",
+        "url": "https://open.spotify.com/album/3ZCWAhHgKYmlGAjhh0InlC"
+      },
+      "artists": [
+        {
+          "name": "Carma",
+          "url": "https://open.spotify.com/artist/3eoNK7024FiiwF99KkZ8z9"
+        },
+        {
+          "name": "CheraLee",
+          "url": "https://open.spotify.com/artist/1QdyIkX3y9FehlB86kCnCX"
+        },
+        {
+          "name": "Elm\u00e9 Churr",
+          "url": "https://open.spotify.com/artist/0DRudS1az4UIjbcQpWE9Xn"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216774,
+      "name": "Blom in Sy Wese",
+      "url": "https://open.spotify.com/track/7lYqU1zRCCEjrSDUxErfEv"
+    },
+    {
+      "album": {
+        "name": "BLOND IS",
+        "url": "https://open.spotify.com/album/53jGoGd36fqUtSpAKRI7TQ"
+      },
+      "artists": [
+        {
+          "name": "Deidr\u00e9 Barnard",
+          "url": "https://open.spotify.com/artist/4uNWMdfRm0Fd0qbOxBgFPL"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231430,
+      "name": "BLOND IS",
+      "url": "https://open.spotify.com/track/1gTgmq4M7U5VcG8Zgb5mJl"
+    },
+    {
+      "album": {
         "name": "Blou Diamant",
         "url": "https://open.spotify.com/album/3VXeNPLQoDdzKMuXRVSnsu"
       },
@@ -804,7 +848,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 210173,
       "name": "Boerejol in Afrikaans",
       "url": "https://open.spotify.com/track/4Sx5kZAfCgc9nJQl55uXv7"
@@ -1760,7 +1804,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 230531,
       "name": "Dorp Hotel",
       "url": "https://open.spotify.com/track/6Saog7H0mzme2ju8A3PKFw"
@@ -2393,6 +2437,24 @@
     },
     {
       "album": {
+        "name": "Hakahana",
+        "url": "https://open.spotify.com/album/1flV02HwwjK81hNI6jzNxS"
+      },
+      "artists": [
+        {
+          "name": "Franja Du Plessis",
+          "url": "https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185538,
+      "name": "Hakahana",
+      "url": "https://open.spotify.com/track/4CpYNgOR68YBngjZ1z1DFH"
+    },
+    {
+      "album": {
         "name": "Happy Family",
         "url": "https://open.spotify.com/album/578wRRxJyUWvqtvZTQ2V21"
       },
@@ -2712,7 +2774,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 197520,
       "name": "Hoor Jy My",
       "url": "https://open.spotify.com/track/4Y6Bcn8CLcPWMWusPWkpWE"
@@ -2730,10 +2792,28 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 243200,
       "name": "Hoor Jy My?",
       "url": "https://open.spotify.com/track/38WUT2eG38jFOue7NkyUQM"
+    },
+    {
+      "album": {
+        "name": "Hou Aan Seil",
+        "url": "https://open.spotify.com/album/3qtbcK4cy4mvZdwSUfuzI4"
+      },
+      "artists": [
+        {
+          "name": "Rikus Strauss",
+          "url": "https://open.spotify.com/artist/2FRLs29Jz8nJbt7jHZOdfr"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176727,
+      "name": "Hou Aan Seil",
+      "url": "https://open.spotify.com/track/7qETapAIiUsLxJxnUuezRC"
     },
     {
       "album": {
@@ -3148,7 +3228,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 282326,
       "name": "Judy",
       "url": "https://open.spotify.com/track/0XdKQSbxsx8xwisuVMlJmF"
@@ -3470,6 +3550,24 @@
       "duration_ms": 134269,
       "name": "KLOP",
       "url": "https://open.spotify.com/track/2Z5DRpvSghOFlLoIXmhlTK"
+    },
+    {
+      "album": {
+        "name": "Koe\u00eblvaste Hart",
+        "url": "https://open.spotify.com/album/2Raj0ch7nD63Cmvhfih7g6"
+      },
+      "artists": [
+        {
+          "name": "Leon-Ben Lamprecht",
+          "url": "https://open.spotify.com/artist/0XzcW2XE8WsTd4owKQnVuB"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200341,
+      "name": "Koe\u00eblvaste Hart",
+      "url": "https://open.spotify.com/track/2zenDiT9mFWBYOtP9aYTW3"
     },
     {
       "album": {
@@ -4863,6 +4961,28 @@
     },
     {
       "album": {
+        "name": "Nog Een",
+        "url": "https://open.spotify.com/album/6Li6a2FeU5k3hTd9SbTSSb"
+      },
+      "artists": [
+        {
+          "name": "Loki Rothman",
+          "url": "https://open.spotify.com/artist/2dRlORRtjS7XHuCdEbHrE3"
+        },
+        {
+          "name": "Die Heuwels Fantasties",
+          "url": "https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178329,
+      "name": "Nog Een",
+      "url": "https://open.spotify.com/track/1tWNpIFKCBUPWH8XRaNHry"
+    },
+    {
+      "album": {
         "name": "Nog Een (Vir die Seer)",
         "url": "https://open.spotify.com/album/14p7iAZkaKi5OUq2qYNonJ"
       },
@@ -5222,7 +5342,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 169714,
       "name": "Onveilig",
       "url": "https://open.spotify.com/track/1Atlx3XDoMHAtGBazrTiIy"
@@ -5244,6 +5364,24 @@
       "duration_ms": 196114,
       "name": "Oor te Begin",
       "url": "https://open.spotify.com/track/7fDLyEb8DtTKeKTwu8cmWk"
+    },
+    {
+      "album": {
+        "name": "Oos Wes Tuis Bes",
+        "url": "https://open.spotify.com/album/0ptY1dIsbOkJbWDSoKzM0J"
+      },
+      "artists": [
+        {
+          "name": "RAAF",
+          "url": "https://open.spotify.com/artist/66vg0qEPZEfpw4hZcrzsGi"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203390,
+      "name": "Oos Wes Tuis Bes",
+      "url": "https://open.spotify.com/track/1UviZtwpBCVxMLDJHjvjLq"
     },
     {
       "album": {
@@ -5550,7 +5688,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 214453,
       "name": "Prentjies - Demo Version",
       "url": "https://open.spotify.com/track/48TCyrkutHXyVwIP0C3N1U"
@@ -6335,6 +6473,24 @@
     },
     {
       "album": {
+        "name": "Spiere",
+        "url": "https://open.spotify.com/album/1MuHYrzZhD9StxbUvjXXKD"
+      },
+      "artists": [
+        {
+          "name": "Corra",
+          "url": "https://open.spotify.com/artist/4My68FFMdqNzlJljp7Fchv"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Spiere",
+      "url": "https://open.spotify.com/track/5F4S0gRlODQMGskiAc2oww"
+    },
+    {
+      "album": {
         "name": "Spie\u00ebl",
         "url": "https://open.spotify.com/album/7xYbXgNXXVkWclXADHn1xi"
       },
@@ -6470,6 +6626,24 @@
       "duration_ms": 215366,
       "name": "Sterre Brand",
       "url": "https://open.spotify.com/track/1xT34fo4r7js5GIDpybGgb"
+    },
+    {
+      "album": {
+        "name": "Stockholm Sindroom",
+        "url": "https://open.spotify.com/album/57ijDsuH6BoMrIRI76cGD7"
+      },
+      "artists": [
+        {
+          "name": "Ruhan Du Toit",
+          "url": "https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226979,
+      "name": "Stockholm Sindroom",
+      "url": "https://open.spotify.com/track/3rSBfEao6GYdf9UwzY4bPX"
     },
     {
       "album": {
@@ -6946,7 +7120,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 218398,
       "name": "Tyd",
       "url": "https://open.spotify.com/track/2gjF0eIvngzCHPCH0F86q0"
@@ -7442,7 +7616,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 321879,
       "name": "Vul Die Huis Met U Glorie (Remix)",
       "url": "https://open.spotify.com/track/3Vla3A850PaTwYYbGkQz7w"

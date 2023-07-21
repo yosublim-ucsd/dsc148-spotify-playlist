@@ -3366,7 +3366,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 263980,
       "name": "Delirium",
       "url": "https://open.spotify.com/track/7AQgdMSlaJCU1J75INPyK1"
@@ -8252,7 +8252,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 168800,
       "name": "Lej",
       "url": "https://open.spotify.com/track/3sUOONjFxjepoSXvKYrz5E"
@@ -15319,6 +15319,24 @@
     },
     {
       "album": {
+        "name": "Valamiben",
+        "url": "https://open.spotify.com/album/17JPyIdvqw7SdzkFG7rHLk"
+      },
+      "artists": [
+        {
+          "name": "ByeAlex \u00e9s a Slepp",
+          "url": "https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176718,
+      "name": "Valamiben",
+      "url": "https://open.spotify.com/track/7zO3NJ7ZLzbVbPA1VRE4IV"
+    },
+    {
+      "album": {
         "name": "vampire",
         "url": "https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9"
       },
@@ -16634,7 +16652,7 @@
       ],
       "date_added": "2021-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-19",
+      "date_removed": null,
       "duration_ms": 150277,
       "name": "\u00c9get a nap",
       "url": "https://open.spotify.com/track/63p0noYOc50p5KRUfJyukt"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 
 > We outside\. Cover: Alkaline
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,948 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,162 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9hay4VT07f.md) - [plain]
 | 99 | [Give Me the Light](https://open.spotify.com/track/4ClQZfGW2LsUKU38jMDaI9) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Buzz Riddim](https://open.spotify.com/album/5dCRcrUFvuD8D0MgYQ75Y9) | 3:46 |
 | 100 | [Forgive Me](https://open.spotify.com/track/6KDUXVgS7Fifk8NsBT7i9S) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [Govana](https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39) | [Forgive Me](https://open.spotify.com/album/3420tn1FpPedT6tGRhe01X) | 3:53 |
 
-Snapshot ID: `MCxiYjY4YWI4YjI2YzI3YjlmMzAyYjgzMjVlMDAzYzBkMTAzOTdhODBl`
+Snapshot ID: `MCwxMDA4YzRkYzFmNzAxOGZmMmNiMDJjMmE2MjgxYTFiY2IxNWUwNDE5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8Xx03D65RT.md) - [plain]
 
 > La sutileza del piano para enriquecer tu espacio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 445,584 likes - 250 songs - 10 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 445,593 likes - 250 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa8Xx03D65RT.md) - [plain]
 | 249 | [Unsere Reise](https://open.spotify.com/track/4jRsuq7knnW7zrooiI7UaC) | [Sabine Reiniger](https://open.spotify.com/artist/3Y3Uh170gXrWMDqx5w47RI) | [Unsere Reise](https://open.spotify.com/album/0zaxkAJPvoLq8OhHquRvxg) | 3:00 |
 | 250 | [Fall In Grace](https://open.spotify.com/track/7vMeKpR5hUoPo8nylUFO5x) | [Chris DiGiorgio](https://open.spotify.com/artist/2TzK3jTz6ETUS8ElO97lHl) | [Resting Grounds](https://open.spotify.com/album/6a1blpOosJ5ta9nG9eZSX5) | 2:24 |
 
-Snapshot ID: `MCxlNTZkOGJlMzcxODVhY2JjNmI0OTgyOTUxN2ZlOTA4MGEwMGEzMWYx`
+Snapshot ID: `MCxmZjljNmNmNWNjMTVjNzYwOTdjMmVhNTA2OGRjOTM3ZWIxZDg3NjI2`

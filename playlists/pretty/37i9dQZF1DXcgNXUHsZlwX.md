@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 
 > De la douceur pour accompagner votre journée\. 🌷
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,498 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,501 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,17 +96,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 86 | [Écoute](https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [Écoute](https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F) | 2:32 |
 | 87 | [Je retourne à la maison](https://open.spotify.com/track/1w0stJagOZUvxjsP5lEvSF) | [Meghan Oak](https://open.spotify.com/artist/0zcVg1Jym2sknaMn46kO2k), [Laurence Castera](https://open.spotify.com/artist/4lBTYV3dOG4aAFKyKmeHsx) | [Dans la lune](https://open.spotify.com/album/4yF9UgTFxwMbb4EzS3CDND) | 3:20 |
 | 88 | [Morceaux](https://open.spotify.com/track/5cEjAzmvWIQYF54kUTdRKY) | [Saratoga](https://open.spotify.com/artist/7cclLKr5Adggnygyq0ybOn) | [Ceci est une espèce aimée](https://open.spotify.com/album/1EFz0WbdlqvV50NkSxJoWq) | 4:59 |
-| 89 | [Cold World](https://open.spotify.com/track/2WxZsGInatsAG5Z2NCgCHN) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Cold World](https://open.spotify.com/album/2HJxiWkcVAbXuOMaY5wEor) | 3:44 |
-| 90 | [Les fleurs d’une autre dimension](https://open.spotify.com/track/4NR968l97Z5ozs8wk85IIL) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [L'heure mauve](https://open.spotify.com/album/4iCEdP4X0yU7bLPMvAl9zL) | 3:23 |
-| 91 | [Mères](https://open.spotify.com/track/3oT9wRGegiAcMp8T798k4e) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Mères](https://open.spotify.com/album/6QMvif9c8hUCi2Vp8dz7BY) | 4:33 |
-| 92 | [J'aurai les cheveux longs](https://open.spotify.com/track/6WL8nV3YgTlrIIlV5aQGyD) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Notre\-Dame\-des\-Sept\-Douleurs](https://open.spotify.com/album/4kNpkRG2YpK4jV9OoopVNh) | 3:55 |
+| 89 | [Les fleurs d’une autre dimension](https://open.spotify.com/track/4NR968l97Z5ozs8wk85IIL) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [L'heure mauve](https://open.spotify.com/album/4iCEdP4X0yU7bLPMvAl9zL) | 3:23 |
+| 90 | [Mères](https://open.spotify.com/track/3oT9wRGegiAcMp8T798k4e) | [Ingrid St\-Pierre](https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w) | [Mères](https://open.spotify.com/album/6QMvif9c8hUCi2Vp8dz7BY) | 4:33 |
+| 91 | [J'aurai les cheveux longs](https://open.spotify.com/track/6WL8nV3YgTlrIIlV5aQGyD) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Notre\-Dame\-des\-Sept\-Douleurs](https://open.spotify.com/album/4kNpkRG2YpK4jV9OoopVNh) | 3:55 |
+| 92 | [Des histoires qui ne seront jamais finies](https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu) | [Stéphanie Boulay](https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0) | [Ce que je te donne ne disparaît pas](https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ) | 3:46 |
 | 93 | [Post Mortem](https://open.spotify.com/track/12jcVkf8DJREOy25MLS63v) | [1969 Collective](https://open.spotify.com/artist/4pSblOY5JbkH00p2q8VQYL), [Claudia Bouvette](https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn) | [1969](https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q) | 3:43 |
-| 94 | [Des histoires qui ne seront jamais finies](https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu) | [Stéphanie Boulay](https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0) | [Ce que je te donne ne disparaît pas](https://open.spotify.com/album/6cD91XtPpIgoAxFttrH3kJ) | 3:46 |
-| 95 | [Beauté baroque \- Session live H2T](https://open.spotify.com/track/5xGaGuLLQX45z48bEbkiOw) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [SESSION LIVE H2T](https://open.spotify.com/album/2BrOs0tkhkaexfIGly8Csz) | 3:31 |
-| 96 | [Maison ouverte](https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [Maison ouverte](https://open.spotify.com/album/4CBp6ELEy0RCE6J2KjmVgD) | 3:59 |
+| 94 | [Beauté baroque \- Session live H2T](https://open.spotify.com/track/5xGaGuLLQX45z48bEbkiOw) | [Peter Peter](https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC) | [SESSION LIVE H2T](https://open.spotify.com/album/2BrOs0tkhkaexfIGly8Csz) | 3:31 |
+| 95 | [Maison ouverte](https://open.spotify.com/track/6y3a7T7IHodmrJrr48aBi0) | [Simon Kearney](https://open.spotify.com/artist/4ASltZkMZ5TIeu90OnHi1a) | [Maison ouverte](https://open.spotify.com/album/4CBp6ELEy0RCE6J2KjmVgD) | 3:59 |
+| 96 | [Cold World](https://open.spotify.com/track/6vrfAwiU7e7pM8GSa3A75S) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Live Slow Die Wise](https://open.spotify.com/album/2exje2s1zj4OX3qIToppco) | 3:44 |
 | 97 | [Derrière le bruit](https://open.spotify.com/track/124cRsjCieRBFKiwr0yPqV) | [Nicolas Gémus](https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj) | [Hiboux](https://open.spotify.com/album/4D7WHshT3h2wZngM9x4AzQ) | 4:05 |
 | 98 | [Rendez\-vous \(feat\. Camélia Jordana\)](https://open.spotify.com/track/0ICXb82u1L3CpYvYQI14xz) | [Charlie Winston](https://open.spotify.com/artist/7xQTON6uj7akAGzlanUzy3), [Camélia Jordana](https://open.spotify.com/artist/2XkCa3HcntokIgOP5N3QO7) | [Rendez\-vous \(feat\. Camélia Jordana\)](https://open.spotify.com/album/270Bbbh2dJynbVAV9qb3kO) | 3:07 |
 | 99 | [Tes yeux à Barcelone](https://open.spotify.com/track/45iROClNX8ebbkL95JK3x1) | [Salomé Leclerc](https://open.spotify.com/artist/5gBtHbwwn0bBfrXvs6SY5I) | [Mille ouvrages mon coeur](https://open.spotify.com/album/1KtRuRbQwDAV1OPYst3fDr) | 3:20 |
 | 100 | [La fumée des bougies](https://open.spotify.com/track/7IsofhSconuBgXO2cvpbVL) | [Marilou](https://open.spotify.com/artist/502LJ9OJfK5m2p1CGDx8vf) | [La fumée des bougies](https://open.spotify.com/album/0s5d7SHgMqa5EJlz24vsLp) | 3:57 |
 
-Snapshot ID: `MCxiODMxMTQ2ZWUyNjIyY2FkMTI1YWM5OTM5MTk3MzZmMGExNzA2MzIy`
+Snapshot ID: `MCw1ZDI2ZDFiYjk4Y2RmY2I5OWMxNDlkNjU4MzQ4MWQxOTljZTU4OTk1`

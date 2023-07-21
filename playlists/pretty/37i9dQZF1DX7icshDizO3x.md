@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7icshDizO3x.md) - [plain]
 
 > 2023年8月\~10月に開催される<a href="https://www.straykidsjapan.com/5stardometour/">Stray Kids 5\-STAR Dome Tour</a>に備えて、プレイリストで予習しよう!
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,324 likes - 43 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,382 likes - 43 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7icshDizO3x.md) - [plain]
 | 42 | [TASTE \(Lee Know, Hyunjin, Felix\)](https://open.spotify.com/track/05ib88vsMeLfwlAfrZyz99) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) | 3:36 |
 | 43 | [Can't Stop \(Seungmin, I.N\)](https://open.spotify.com/track/33vfE5bxDMHpOFHMSgxehR) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [MAXIDENT](https://open.spotify.com/album/0T6hYH0UyDjNraWZk2mZWi) | 3:29 |
 
-Snapshot ID: `MCxlMTFiMWNmNWU1MTlmYzViNDZmMmIyZTMxNDUzODFkMTlmMDkwZTJh`
+Snapshot ID: `MCxlZTdkNGQxNGFlNGJmMmJiODZlYjg0ODhlNjQ1MWY3MjZhNGViMmRj`

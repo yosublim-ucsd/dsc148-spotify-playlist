@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,519 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,605 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 99 | [Ruthless For Life](https://open.spotify.com/track/5nw5bT4RGTpXsqSISwQKuS) | [Chaos Project](https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT) | [Ruthless For Life](https://open.spotify.com/album/3rhZ9GJY55O4BxfxX0RP5i) | 2:48 |
 | 100 | [Schrik Van De Stad](https://open.spotify.com/track/02d1XpujNOPL5bqFLaCUbU) | [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6) | [Dominator 2022 \(Hell Of A Ride\)](https://open.spotify.com/album/0BWZ28qb6KwR4wD8Ms7MCA) | 3:31 |
 
-Snapshot ID: `MCwxZTgyZWZmNTA0ZDdmNmZhNjgwNzY0YjQwOWMyZjJiYzBiNTE5OTEy`
+Snapshot ID: `MCwwZDMzYTRjNTE3NjViZGNmNjg0ZDkyNjQ4MjY5YzVhNDU1MTU0ZjI1`

@@ -4,7 +4,7 @@
 
 > Nothing but precious sounds from the 90s & 2000s\. Cover: Jully Black
 
-135 songs - 8 hr 50 min
+136 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Lost Without U](https://open.spotify.com/track/4V2F0DZrAXOWq9hkwMMG3x) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [The Evolution of Robin Thicke](https://open.spotify.com/album/55ErdDg54WTAEySb0r7yzb) | 4:14 | 2022-07-01 | 2022-12-29 |
 | [Magic Touch \- Extended](https://open.spotify.com/track/1YnpOewGrWskSENwS05FON) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Magic Touch](https://open.spotify.com/album/3ulZv9agxM6bBn0cq1dzll) | 3:49 | 2022-09-02 |  |
 | [Man I Used To Be](https://open.spotify.com/track/1jVudwSMKdHz3Fod2dI5Ma) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Collected](https://open.spotify.com/album/6uNDNflKRjEjnEESQUQrXT) | 3:43 | 2022-07-01 |  |
+| [Mind Over Matter](https://open.spotify.com/track/34tZKRrp49Iox1kcMkBXEU) | [Devon](https://open.spotify.com/artist/6Ly03qEEwW4vIQJDOInukA), [Rated\-R](https://open.spotify.com/artist/0x4UFqj0tCrQwtnjdpMvPM) | [Pressure](https://open.spotify.com/album/2eiHKaQos3omBLYWOZYde4) | 4:03 | 2023-07-20 |  |
 | [Missed Your Chance](https://open.spotify.com/track/3uVUL7r2Z6kEIurmQURWCL) | [Ray Robinson](https://open.spotify.com/artist/2HSZwphXEa7hKWKnOCN0Dq) | [What It Is.](https://open.spotify.com/album/1xI8g1hZhPF4eBEzwPQl9s) | 4:15 | 2022-08-31 |  |
 | [Money or Love](https://open.spotify.com/track/6pkupgGf333srAF5a6nr7p) | [Saukrates](https://open.spotify.com/artist/4xvUHg4mIFbXo2caP0PO73) | [The Underground Tapes](https://open.spotify.com/album/6UIyK3wIpD8xxDn8XjTdLv) | 4:18 | 2022-07-01 | 2022-07-29 |
 | [Money Pt\. 1](https://open.spotify.com/track/3fBycIyaH4mugmXClwGgr9) | [Jelleestone](https://open.spotify.com/artist/21EIv4m5gbtWQLA9Al9em4) | [Jelleestone Thirteen](https://open.spotify.com/album/3Ce5BkWkseJCTCrKI9KPUA) | 4:19 | 2022-07-01 |  |
@@ -129,7 +130,7 @@
 | [Sunday Morning](https://open.spotify.com/track/5TridrikuB8m6Cc1Em7mKN) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Atlantis \- Hymns For Disco](https://open.spotify.com/album/2ZhDy6jEDhPznslp5BidBs) | 3:47 | 2022-07-01 |  |
 | [Sunday Morning](https://open.spotify.com/track/66HIKVRPx41akQmPu6iQ6O) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Now! 12](https://open.spotify.com/album/7soKb31c9JTxBllcJ0J2KT) | 3:49 | 2022-07-01 | 2022-07-29 |
 | [Sunday Morning](https://open.spotify.com/track/2KkXmo1V83sHTfLGTvbzmR) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Best Drinking Songs Ever](https://open.spotify.com/album/0oUqqKL6tROmngZlEysoF3) | 3:51 | 2022-10-28 | 2022-11-13 |
-| [Superstar](https://open.spotify.com/track/3vaML1rAVord8FBk0XxzhR) | [Ivana Santilli](https://open.spotify.com/artist/73yYSgzrqoynMAdhF2cEOr) | [Corduroy Boogie](https://open.spotify.com/album/326EQJeyBJOhrMvSX6uMAB) | 5:36 | 2022-08-31 |  |
+| [Superstar](https://open.spotify.com/track/3vaML1rAVord8FBk0XxzhR) | [Ivana Santilli](https://open.spotify.com/artist/73yYSgzrqoynMAdhF2cEOr) | [Corduroy Boogie](https://open.spotify.com/album/326EQJeyBJOhrMvSX6uMAB) | 5:36 | 2022-08-31 | 2023-07-21 |
 | [Take A Message](https://open.spotify.com/track/0hJPZ0v8QxRwGIKiMGKE1G) | [Remy Shand](https://open.spotify.com/artist/0uPJNqmDRzjZJZXXG6HDtt) | [The Way I Feel](https://open.spotify.com/album/7mSNyOFmQg80PGsrVxYpa2) | 4:03 | 2022-08-31 |  |
 | [The Radio Edit](https://open.spotify.com/track/3LucZMivE3CYFWGFgdao1Q) | [Sugar Jones](https://open.spotify.com/artist/3PDXxxiHRyqwU2GLg6zJHT), [Justin Grey For Big Boom Entertainment](https://open.spotify.com/artist/05JfwFiagvihkfnK64VP9g) | [Days Like That](https://open.spotify.com/album/3MCI6hWXIU3ViGaITU6yz3) | 3:49 | 2022-07-01 |  |
 | [The Things You Do](https://open.spotify.com/track/0jWEe6HAltIU9Jr1rTANSO) | [Jully Black](https://open.spotify.com/artist/781516XewTgtGAnpg6dlmd) | [This Is Me](https://open.spotify.com/album/5aCzPA20FepyLnjjgulmFv) | 4:14 | 2022-07-01 | 2022-07-29 |

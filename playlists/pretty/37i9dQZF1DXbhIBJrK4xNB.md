@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhIBJrK4xNB.md) - [plain]
 
 > A collection of Motown classics for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,233 likes - 59 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,267 likes - 59 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhIBJrK4xNB.md) - [plain]
 | 58 | [What Becomes Of The Brokenhearted](https://open.spotify.com/track/0wBaPbJ2qsbGqgnGbqBDgP) | [Jimmy Ruffin](https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy) | [Sings Top Ten](https://open.spotify.com/album/5zRvMt37YxCPddq09ivuPV) | 2:58 |
 | 59 | [Ain't Nothing Like The Real Thing](https://open.spotify.com/track/37soQoNhEEIrhhYgHWK1xU) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [You're All I Need](https://open.spotify.com/album/1i1HqvvJk7zGpNDygYlXQd) | 2:18 |
 
-Snapshot ID: `MCxhNTY4OTNmMmMyZjhhM2ZiNjFlOTk2MDg2NTFhOGMyYWU3OGI2MmI5`
+Snapshot ID: `MCw2NjQzNGFjYTRmYjlkMjcxOTU0MWU2ZmZjMDUwN2YyNTg5ZWUzZjhh`

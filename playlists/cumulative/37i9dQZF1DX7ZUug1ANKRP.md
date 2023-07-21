@@ -4,7 +4,7 @@
 
 > The biggest Dance hits and the ones to come\. Welcome to the Main Stage! Cover: twocolors, Safri Duo
 
-401 songs - 18 hr 45 min
+402 songs - 18 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [Clouds](https://open.spotify.com/track/2lWc1iJlz2NVcStV5fbtPG) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2ArRQNLxf9t0O0gvmG5Vsj) | 2:38 | 2023-02-08 |  |
 | [Clouds](https://open.spotify.com/track/5985LToyqbVWWNczsD9g5N) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/5ll0DBe2cSrSWiCSZ8IYXR) | 2:38 | 2023-03-15 | 2023-03-23 |
 | [Clouds](https://open.spotify.com/track/5UXlDFlgxnEKSgCnMQX9XM) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [Nate Traveller](https://open.spotify.com/artist/34qyuX5yO72yzL8Z4JclBc) | [Clouds](https://open.spotify.com/album/2TiAbGza4XIRoIovXNCrXM) | 2:38 | 2023-01-18 | 2023-02-11 |
-| [Cold as Ice](https://open.spotify.com/track/2sxhu1YjACa0HhEZAa0t8r) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [Cold as Ice](https://open.spotify.com/album/6ja1cpImdTFZdlNluWnTUL) | 2:17 | 2023-06-28 |  |
+| [Cold As Ice](https://open.spotify.com/track/13YCzjPziY4O1IKs8soJBo) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [Cold As Ice](https://open.spotify.com/album/7eFRForTufWEc3M2kqyBxf) | 2:17 | 2023-07-19 |  |
+| [Cold as Ice](https://open.spotify.com/track/2sxhu1YjACa0HhEZAa0t8r) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [Cold as Ice](https://open.spotify.com/album/6ja1cpImdTFZdlNluWnTUL) | 2:17 | 2023-06-28 | 2023-07-21 |
 | [Come With Me](https://open.spotify.com/track/1uIBzJWcxbUSMX4OFi7XwQ) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Special D.](https://open.spotify.com/artist/4EViwTsUibZWyo1K5EgrJt) | [Come With Me](https://open.spotify.com/album/1j0xzvGGOhTM4sxZ22IzDT) | 2:41 | 2022-07-13 | 2022-10-27 |
 | [Count to 10](https://open.spotify.com/track/6EKnLmVxgp2iSrRT8YPYPU) | [Séb Mont](https://open.spotify.com/artist/4lFWNwqQbywI4qCQ9PeL7V), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Phil The Beat](https://open.spotify.com/artist/35pKZ36ma78w8aE467fRO9) | [Count to 10](https://open.spotify.com/album/23eMDbvr2YtYqMuxiQrA9E) | 2:21 | 2021-12-15 | 2022-01-06 |
 | [Crazy What Love Can Do](https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Crazy What Love Can Do](https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707) | 2:49 | 2022-04-13 | 2022-07-21 |

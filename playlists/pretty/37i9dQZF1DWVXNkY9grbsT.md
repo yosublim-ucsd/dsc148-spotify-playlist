@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 
 > Genre\-defying artists pushing boundaries in electronic ambient music\. Cover: JakoJako
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,445 likes - 200 songs - 16 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,501 likes - 200 songs - 16 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVXNkY9grbsT.md) - [plain]
 | 199 | [Before the Sun](https://open.spotify.com/track/2b2AWoPByakgDUCYE7Zy6N) | [Araceae](https://open.spotify.com/artist/7rG4fiGiMXMiRol0Vp2TR6) | [Nothing Will Last](https://open.spotify.com/album/0yb48UxkZD93mHNWIIw8Cr) | 9:17 |
 | 200 | [Malady of duration](https://open.spotify.com/track/2RRDNHGUKYOqgsAJcVWRIT) | [Hiro Kone](https://open.spotify.com/artist/1BCUHvti8crTWtc0h0U4W4) | [Silvercoat the throng](https://open.spotify.com/album/3ffjoBGYEKoYSqc8XSDDvM) | 4:43 |
 
-Snapshot ID: `MCxmMTUwZGY0NDIzNDgyYWE3MDUyZmY5ZWVhYzA2NDY0ZWEwYTZkYWIx`
+Snapshot ID: `MCw3MTVkYzlkMjdhMzEzNjZkZThlNzg1OTA4YzJiMmYyY2Q4ZTc2ZDA5`

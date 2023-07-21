@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Cover: ARIA VEGA\. Artwork by Isu Kim\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,158,696 likes - 56 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,158,777 likes - 56 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 55 | [Your The One](https://open.spotify.com/track/5rzB3KJ2v3Br3XKjQPArxG) | [TAAYLEE G](https://open.spotify.com/artist/3UL3HL2fv69tDavqXTwDhM) | [Waiting To Exhale](https://open.spotify.com/album/66p0Gpgv4Tz6psDCNZputd) | 2:41 |
 | 56 | [Tenderness and Purity](https://open.spotify.com/track/3d7AppklPbBmKap2mBi6aM) | [The Purest Blue](https://open.spotify.com/artist/4gLOH9QcvymfFLcsiPuf7G) | [Tenderness and Purity](https://open.spotify.com/album/7saw3rJ7XbES6Iv2lGgk3q) | 2:08 |
 
-Snapshot ID: `MCxiMTNhMWYwZTk5ZTE3ZGZkMjM1NjU3MzUzZTFjYjM2NTA1MzZmNDdl`
+Snapshot ID: `MCwwMDY2YzNlODMwNmE4ODY4ZGQ5ODcyN2M5ZDM4YjJkZjM3ZmNjYmVm`

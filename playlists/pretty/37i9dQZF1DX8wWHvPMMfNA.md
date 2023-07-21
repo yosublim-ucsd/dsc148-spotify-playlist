@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wWHvPMMfNA.md) - [plain]
 
 > Soft instrumental Jazz for working or studying.
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,694 likes - 400 songs - 23 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,771 likes - 400 songs - 23 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -409,4 +409,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8wWHvPMMfNA.md) - [plain]
 | 399 | [The Single Petal Of A Rose](https://open.spotify.com/track/1Fn7dIAjR3bYpehwLQqwkb) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [See You At The Fair](https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq) | 3:20 |
 | 400 | [Pour It Out](https://open.spotify.com/track/7GZ7kYUBPNm9whqDDeod1r) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [Blue Mist](https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit) | 5:20 |
 
-Snapshot ID: `MCwzNjczMjJjMjAyYTlmYzI2MWIwZjliMjEwYjFiYTNiYTJiNDcwZmNm`
+Snapshot ID: `MCxiZGY5NGM3NGMxZWVmNzU1MDVjYWU3NjYyNTAyNjc4NDhjNDk0YTY5`

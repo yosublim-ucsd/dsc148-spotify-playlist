@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 
 > Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover: Zamilska
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,239 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,240 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 59 | [Przed siebie](https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7) | [Oskar Kucmann](https://open.spotify.com/artist/6QCsE5n2rSQiqzKS2DSQJK) | [Przed siebie](https://open.spotify.com/album/08met7OFAeiVa1eiwRUiHi) | 3:03 |
 | 60 | [Glitterball](https://open.spotify.com/track/6J5TokKxTZPXCGzRRVEc4x) | [Decadent Fun Club](https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki) | [Glitterball](https://open.spotify.com/album/0SB81B0hf9QUkm1klnP2si) | 5:06 |
 
-Snapshot ID: `MCw3ODdkZTE5MjNlNzk5MGVmY2MyNTU5MjAxYmQxOTk4NmNjODgyYzY1`
+Snapshot ID: `MCwxNzRlMDMxNTExZTFhODY0ZTM2OGNiMWZkNTk4NjQ4Njc3YWExNzZh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17ZoHNcnTgi.md) - [plain]
 
 > De costa a costa, de frontera a frontera..\.  un banquete de sonidos de México.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,755 likes - 150 songs - 9 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,779 likes - 150 songs - 9 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17ZoHNcnTgi.md) - [plain]
 | 149 | [La Mariquita](https://open.spotify.com/track/2patPkEu6eX1pnxUjldkms) | [Conjunto Póker de Ases](https://open.spotify.com/artist/0LmgeuEsmFxpYMeAnJhSmF) | [Antología del Son de México, Tierra Caliente](https://open.spotify.com/album/4lDZKQykqglMme0vYHoglY) | 4:02 |
 | 150 | [La Malagueña](https://open.spotify.com/track/1bAly1V5h0kfQmW4Gkjpg5) | [Los Marineros de Apatzingán](https://open.spotify.com/artist/6Fq4ZjgntUiJkLrJSgHBEE) | [Antología del Son de México, Tierra Caliente](https://open.spotify.com/album/4lDZKQykqglMme0vYHoglY) | 2:38 |
 
-Snapshot ID: `MCxlNTM1NWQwZjA3NTA5MDc1MzExNDBhODNhZGVjODFmYzBiNjc5ZmQx`
+Snapshot ID: `MCwwM2M2MzdlODg4OTQ1NTFkMTliNjYxNmYyYzdhMWJlMmFjODlmMGFj`

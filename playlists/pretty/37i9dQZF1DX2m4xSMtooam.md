@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,707 likes - 150 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,921 likes - 150 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2m4xSMtooam.md) - [plain]
 | 149 | [Estágio](https://open.spotify.com/track/2Z5CvWJ5kgga6l3g4WaTTL) | [da Suécia](https://open.spotify.com/artist/4oOtPyWe8TK5mn4gKJDNse) | [Estágio](https://open.spotify.com/album/5YpDYJcj7TWf8mxWD0DlQk) | 4:19 |
 | 150 | [So Nice \(Samba de Verao\)](https://open.spotify.com/track/4JP5ptajY7ON3UY8q6EMQ8) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Dreamer](https://open.spotify.com/album/5YfLvxcH8jCibShM4ogLUr) | 5:14 |
 
-Snapshot ID: `MCxlODJmNTY1MDk0MGFhMzA2MmYyYTNhNTY5MmFlODczYTZlMjliMzc5`
+Snapshot ID: `MCxjZGRkZjNjYWI3MzVhNzgyZGQ1ZTAxZjY2Yjk5NzU1YzM5YjIyNTFj`

@@ -4,7 +4,7 @@
 
 > Tengan a la mano las máscaras de lucha libre y la tabla de surf.
 
-232 songs - 11 hr 33 min
+234 songs - 11 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Haulin' Hearse](https://open.spotify.com/track/4A9dMvwGlocF9gxVesArPR) | [The Ghastly Ones](https://open.spotify.com/artist/2dOGUGTTR0vKcexJaOOLMy) | [A\-Haunting We Will Go\-Go](https://open.spotify.com/album/6bXNFJ3G3oq73vWW7uHvtk) | 2:22 | 2021-09-03 |  |
 | [Haunted Hipster](https://open.spotify.com/track/68SpOPs6SbGBK7WFTfsUB7) | [The Fleshtones](https://open.spotify.com/artist/3a9cSOmXeX3S8Tosfy9Dwv) | [Mondo Zombie Boogaloo](https://open.spotify.com/album/3D6VjAipDxmTrWtlqfEmlI) | 3:00 | 2021-09-03 | 2022-07-27 |
 | [Hawaii Five\-O](https://open.spotify.com/track/3UUwbJd2j4RORlalTUhaDk) | [The Ventures](https://open.spotify.com/artist/2GaayiIs1kcyNqRXQuzp35) | [Hawaii Five\-O](https://open.spotify.com/album/3Z2RefmmeYl2m3K2Vj4Yj1) | 1:53 | 2021-09-03 |  |
+| [Hay Una Cobra En Mi Sopa](https://open.spotify.com/track/4M8TgQwfRVsLEJfrd0kxkm) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Hay Una Cobra En Mi Sopa](https://open.spotify.com/album/1p3Z6K9Iei8L6RyaaFJUdr) | 2:20 | 2023-07-21 |  |
 | [Hey Lupe](https://open.spotify.com/track/1U0KCm09KsWCZjuEqQhctq) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB) | [Rock en Espanol, Vol\. 1](https://open.spotify.com/album/1i5umb6OsQrLPqWA84vKql) | 3:19 | 2021-09-03 | 2023-04-29 |
 | [Hey Lupe](https://open.spotify.com/track/1oyb4zsThmXB92wdKWcqXv) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB) | [Rock en Espanol, Vol\. 1](https://open.spotify.com/album/7izW2Pzyz1qLA2Z6Pc79xS) | 3:19 | 2021-09-03 |  |
 | [Hey Lupe](https://open.spotify.com/track/6DvXacvfWJMQjbf7svgLKV) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB) | [Rock En Espanol Vol\. 1](https://open.spotify.com/album/6gE8ol6OTdEFZ1N9UkEatE) | 3:19 | 2021-09-03 | 2022-07-29 |
@@ -122,7 +123,7 @@
 | [Jugo](https://open.spotify.com/track/0PJPcduHwXP4NUp2rd6Kk7) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Agua Ardiente](https://open.spotify.com/album/1ahdp3YzkgsUZZl3gJPYgL) | 3:57 | 2021-09-03 |  |
 | [Jugo](https://open.spotify.com/track/7GNjqqUVttsZHrcbJ62e3J) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Agua Ardiente](https://open.spotify.com/album/1U8NdMusp31P2BG59J1CEL) | 3:59 | 2021-09-03 | 2022-07-29 |
 | [Junto a Mi](https://open.spotify.com/track/1hHYV4GmMHkfYbM1EM9cGZ) | [Eddie y los Grasosos](https://open.spotify.com/artist/38WzKEi8tjrcKZ7i5CPHkP) | [Oh! Mi Nena](https://open.spotify.com/album/1wGh6QOj8g36KJHQT3VnfQ) | 2:55 | 2021-09-03 | 2022-07-28 |
-| [La Chica Rockabilly](https://open.spotify.com/track/4ioqGCkmubr8E86LaR80mv) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Abulon](https://open.spotify.com/artist/4rliI8lIAng1LA0hxWLjo6) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 1:55 | 2021-09-03 |  |
+| [La Chica Rockabilly](https://open.spotify.com/track/4ioqGCkmubr8E86LaR80mv) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Abulon](https://open.spotify.com/artist/4rliI8lIAng1LA0hxWLjo6) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 1:55 | 2021-09-03 | 2023-07-21 |
 | [La Dosis Perfecta](https://open.spotify.com/track/3pTHO0Q5QlixCL2eGbx1kl) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL) | [La Dosis Perfecta](https://open.spotify.com/album/6YCHADzZp1iYWHO1fpPjOn) | 3:21 | 2021-09-03 | 2022-07-29 |
 | [La Muerte](https://open.spotify.com/track/4s8gvZcmEgtWcZeYab6OqA) | [Suprahumanos](https://open.spotify.com/artist/5SxWoWsSzLQIjxpZOk8dWn) | [La Muerte](https://open.spotify.com/album/42XyZuqcGW7GiRYnBOYwSj) | 4:56 | 2021-09-03 | 2022-07-25 |
 | [La Resistida](https://open.spotify.com/track/2r4hxZxNQEOuQi4Eg7hLGF) | [Los Santísimos Snorkels](https://open.spotify.com/artist/02IE8Qe5Xg06EYMkIHoDJH) | [Sólo Queda Bailar](https://open.spotify.com/album/6EcCzapauwtF9hc705Poj5) | 2:46 | 2021-09-03 | 2022-07-14 |
@@ -162,7 +163,7 @@
 | [Ninf a Go Go](https://open.spotify.com/track/4JmGX2A5kRZgTTy9ZOhSLg) | [Thalasses](https://open.spotify.com/artist/27rXbt1Abog2vOpuBGUVKi) | [Ninf a Go Go](https://open.spotify.com/album/48PJjcWimMJfYuOaOha5Sl) | 1:42 | 2021-09-03 | 2022-07-28 |
 | [Nondum Me Amat](https://open.spotify.com/track/7eqAfyOfnjUFzTl1e0V4r9) | [Sys Malakian](https://open.spotify.com/artist/38HkiEfzlG45wSNIjjvyEk) | [Drifting With the Tide](https://open.spotify.com/album/4bytLC19pLgecnMd89bBfj) | 2:37 | 2021-09-03 | 2022-07-16 |
 | [Oleka](https://open.spotify.com/track/34nFpgw6nXA671xsmYpBAY) | [Fenomeno Fuzz](https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc) | [Oleka](https://open.spotify.com/album/02b1Y1XnXhQbXzFXLRDyaG) | 2:43 | 2021-09-03 | 2022-07-10 |
-| [Olvidemos el Romance .\. Cojamos Ya!](https://open.spotify.com/track/2xGPn1g68eJfGY4c3qEwlZ) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Perfume de Violetas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/03663WodvoLxswAm8iHB4r) | 2:15 | 2021-09-03 |  |
+| [Olvidemos el Romance .\. Cojamos Ya!](https://open.spotify.com/track/2xGPn1g68eJfGY4c3qEwlZ) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Perfume de Violetas \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/03663WodvoLxswAm8iHB4r) | 2:15 | 2021-09-03 | 2023-07-21 |
 | [Paganini / Sonido Amazonico \(Live](https://open.spotify.com/track/6Pxr5C7zo9TYbOvxAMBU6c) | [The Phantom Four](https://open.spotify.com/artist/7r7H47Ms0R8Pv8FMEjRCUo) | [Live at Pacific Parc \(Live\)](https://open.spotify.com/album/0PFbMv1Akk06PK9vSzWodW) | 6:41 | 2021-09-03 | 2022-07-23 |
 | [Pandilleros](https://open.spotify.com/track/5JSuJ89UuxDAWHeNzpLvdr) | [TELEKRIMEN](https://open.spotify.com/artist/2KEmsfx3vYhlcs0nATaFkC) | [El Rey de los Incendiarios](https://open.spotify.com/album/63R60NQDS2z8fE4nwOVQRx) | 3:35 | 2021-09-03 | 2022-07-04 |
 | [Perry Mason Theme](https://open.spotify.com/track/1ng1yPG1lzsLglT694fTb3) | [Danny Amis](https://open.spotify.com/artist/7j5eEtN2Q4L6xHTZfptI6l), [Twin Tones](https://open.spotify.com/artist/3iWXaK2ztxcwFVtCX3QsKV) | [Super Spy Western Tones](https://open.spotify.com/album/3yTwg2je3pzjphxsB1Q3eV) | 2:58 | 2021-09-03 | 2022-07-24 |
@@ -201,6 +202,7 @@
 | [Space Junket](https://open.spotify.com/track/1yKaipER1IDZhK7xlkG19G) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB) | [Space Junket](https://open.spotify.com/album/4eETDlaUPg9XS32qD66M34) | 2:56 | 2021-09-03 | 2022-07-22 |
 | [Space Oddity](https://open.spotify.com/track/1aqKNWVSHrdJNxYTtl8kZU) | [The Neanderthals](https://open.spotify.com/artist/3IEkhYN4pmmS1XFtB2cAT8), [Eddie Angel \(Los Straitjackets\)](https://open.spotify.com/artist/1vo1sJls2CJ26A7VcvWEqC) | [The Neanderthals In Space](https://open.spotify.com/album/18Q5PGVJ162yrxJvZD6Uei) | 2:59 | 2021-09-03 |  |
 | [Spy Cam](https://open.spotify.com/track/0zeMgUcxLn0KvXcC8hGZCA) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Las Mejores Olas](https://open.spotify.com/album/3ZWimjUwLvF5ONvMj2gWYt) | 3:05 | 2021-09-03 | 2022-07-29 |
+| [St James Infirmary Blues](https://open.spotify.com/track/3BdWsPOR6zmT9O5gNytgn4) | [Carlos Feral](https://open.spotify.com/artist/47g4ODAeiu5CZmybiIMclC) | [St James Infirmary Blues](https://open.spotify.com/album/16krZ9iXZUKtYxjGAGlUyA) | 1:51 | 2023-07-21 |  |
 | [Surf De L'amour](https://open.spotify.com/track/08qSIeJEOg3aQaDN4xii9C) | [Messer Chups](https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl) | [Taste the Blood of Guitaracula](https://open.spotify.com/album/36Zg5IWSFPezDutbYpwrfB) | 2:45 | 2021-09-03 |  |
 | [Surf Doll Dance](https://open.spotify.com/track/4Isv98YdD3jeYax5FBcm2r) | [Thalasses](https://open.spotify.com/artist/27rXbt1Abog2vOpuBGUVKi) | [Thalasses](https://open.spotify.com/album/2LvESFreiSdHXkc2QSCfi6) | 2:54 | 2021-09-03 | 2022-07-10 |
 | [Surf Mongol](https://open.spotify.com/track/1skML2AxX4glNCpqWdLWWE) | [Lost Acapulco](https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U) | [Acapulco Golden](https://open.spotify.com/album/54nY5IKYlpgFYYXbA5Y3hr) | 1:37 | 2021-09-03 |  |

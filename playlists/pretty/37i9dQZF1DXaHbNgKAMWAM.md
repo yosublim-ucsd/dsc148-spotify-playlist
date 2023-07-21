@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,039 likes - 60 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,052 likes - 60 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaHbNgKAMWAM.md) - [plain]
 | 59 | [SummerSweet](https://open.spotify.com/track/7I9Pu7IABwbwM9fEyOjAvi) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [SummerSweet](https://open.spotify.com/album/68weYmNQmhCr9BAgb9Oqgp) | 2:30 |
 | 60 | [I Will Be By Your Side](https://open.spotify.com/track/7gWKxBSrDUfs4dWaneLVKm) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [A Korean Odyssey \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/6AB63xLs034lp5hjjB3MJP) | 4:04 |
 
-Snapshot ID: `MCxlZDhjMjU3NGMzZmRmYzA0YTM0MDQyMGUyYmQ4ZGEyMzJiYTM2ZGZl`
+Snapshot ID: `MTY4ODc0NTE3OSwwMDAwMDAwMGE5ZGI2Y2EyYWEzYmU2ZTJkMDM2YTcwZWEwMGM4ZjJm`

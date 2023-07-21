@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajUXy2f1Dsi.md) - [plain]
 
 > Immerse yourself in the brilliant sounds of Latin composers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,827 likes - 100 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,832 likes - 100 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajUXy2f1Dsi.md) - [plain]
 | 99 | [Margaritena \- Live At Centro de Acción Social por la Música, Sala Simón Bolivar, Caracas / 2008](https://open.spotify.com/track/1vStbfxntBHDdI4jRmQhA4) | [Inocente Carreño](https://open.spotify.com/artist/2xCRnXoBFxV0a5GIslqKJI), [Simón Bolívar Youth Orchestra of Venezuela](https://open.spotify.com/artist/2U5rLdZ4ARUFcaSYw0shXn), [Gustavo Dudamel](https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY) | [Fiesta](https://open.spotify.com/album/16fJ94vjUFbTrtIZ4WgtMP) | 13:28 |
 | 100 | [Sérénade A Dulcinée](https://open.spotify.com/track/3Go4EoFh0Z9hSpHbQUjpi9) | [Ernesto Halffter](https://open.spotify.com/artist/2haoq62QRffBi42wBW8hWn), [Leticia Moreno](https://open.spotify.com/artist/3NqVtjj6GW1RvmCc1I56Ra), [Ana\-Maria Vera](https://open.spotify.com/artist/0MLMxpJmMPD5IEI40mBZG3) | [Spanish Landscapes](https://open.spotify.com/album/7GMGQCXnbSn30irLqgB9xE) | 5:26 |
 
-Snapshot ID: `MCxhOGE4OWYwY2EzOGUzMGYyM2VjYjlhZWNjNTFiZGM4Yzc1MzdmZGQ1`
+Snapshot ID: `MCxkZTIwNDQxMzliNjNiNDNkMjc5YzI1Yzc3Mzg2YTAwYWNjYjEzNTAw`

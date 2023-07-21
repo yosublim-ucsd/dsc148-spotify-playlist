@@ -1707,6 +1707,24 @@
     },
     {
       "album": {
+        "name": "Hay Una Cobra En Mi Sopa",
+        "url": "https://open.spotify.com/album/1p3Z6K9Iei8L6RyaaFJUdr"
+      },
+      "artists": [
+        {
+          "name": "Lost Acapulco",
+          "url": "https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140976,
+      "name": "Hay Una Cobra En Mi Sopa",
+      "url": "https://open.spotify.com/track/4M8TgQwfRVsLEJfrd0kxkm"
+    },
+    {
+      "album": {
         "name": "Rock en Espanol, Vol. 1",
         "url": "https://open.spotify.com/album/1i5umb6OsQrLPqWA84vKql"
       },
@@ -2104,7 +2122,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 115293,
       "name": "La Chica Rockabilly",
       "url": "https://open.spotify.com/track/4ioqGCkmubr8E86LaR80mv"
@@ -2840,7 +2858,7 @@
       ],
       "date_added": "2021-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 135440,
       "name": "Olvidemos el Romance .. Cojamos Ya!",
       "url": "https://open.spotify.com/track/2xGPn1g68eJfGY4c3qEwlZ"
@@ -3552,6 +3570,24 @@
       "duration_ms": 185813,
       "name": "Spy Cam",
       "url": "https://open.spotify.com/track/0zeMgUcxLn0KvXcC8hGZCA"
+    },
+    {
+      "album": {
+        "name": "St James Infirmary Blues",
+        "url": "https://open.spotify.com/album/16krZ9iXZUKtYxjGAGlUyA"
+      },
+      "artists": [
+        {
+          "name": "Carlos Feral",
+          "url": "https://open.spotify.com/artist/47g4ODAeiu5CZmybiIMclC"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111913,
+      "name": "St James Infirmary Blues",
+      "url": "https://open.spotify.com/track/3BdWsPOR6zmT9O5gNytgn4"
     },
     {
       "album": {

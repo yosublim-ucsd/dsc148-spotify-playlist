@@ -2215,6 +2215,32 @@
     },
     {
       "album": {
+        "name": "Hello",
+        "url": "https://open.spotify.com/album/0HC1CNPuRrW8rszIr6BsWe"
+      },
+      "artists": [
+        {
+          "name": "KLY",
+          "url": "https://open.spotify.com/artist/0B6F56wObkhER2AmTNfcl3"
+        },
+        {
+          "name": "Murumba Pitch",
+          "url": "https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4"
+        },
+        {
+          "name": "Mafikizolo",
+          "url": "https://open.spotify.com/artist/04Hrgux8cIaNJKUAX7WwJN"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220272,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/0wO0zrCfcfcaRmIWdMsqZc"
+    },
+    {
+      "album": {
         "name": "Hlala Nam",
         "url": "https://open.spotify.com/album/5fyL4XaKf3AI3L0Dp8p4r1"
       },
@@ -4508,7 +4534,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 471199,
       "name": "Mina NGithanda Wena",
       "url": "https://open.spotify.com/track/6DnOiFUlq40KLwsD8qfMkB"
@@ -7233,6 +7259,32 @@
     },
     {
       "album": {
+        "name": "Thath' Inhliziyo",
+        "url": "https://open.spotify.com/album/0SfowLi8TwYIDXGXwttyFD"
+      },
+      "artists": [
+        {
+          "name": "Kraizie",
+          "url": "https://open.spotify.com/artist/1tXUwhCT3Y3F1HSIcwC7M0"
+        },
+        {
+          "name": "Lungza G",
+          "url": "https://open.spotify.com/artist/2p481sT0c1MV7QowOMmagI"
+        },
+        {
+          "name": "LaSauce",
+          "url": "https://open.spotify.com/artist/7cb8ThGZh7FX75XcX64MKi"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245185,
+      "name": "Thath' Inhliziyo",
+      "url": "https://open.spotify.com/track/0sqGsainZvCqZFVPYHLyp1"
+    },
+    {
+      "album": {
         "name": "Spirit of Praise, Vol. 8 (Live)",
         "url": "https://open.spotify.com/album/4Z6tN4BRewPxqkuZqJzopt"
       },
@@ -8784,7 +8836,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 294000,
       "name": "World's Gone Crazy",
       "url": "https://open.spotify.com/track/4fF0vcZOgs1ijRkjNe4pY7"
@@ -8894,7 +8946,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 205512,
       "name": "You're Special - Ralf Gum Radio Edit",
       "url": "https://open.spotify.com/track/5X2P4CiV1nvQ64nQvBuPUQ"
@@ -8994,6 +9046,28 @@
       "duration_ms": 454369,
       "name": "Zinyanya Zami",
       "url": "https://open.spotify.com/track/0B0UNUK5N6bqtMYQBGd6oD"
+    },
+    {
+      "album": {
+        "name": "ZOJIKI IZINTO",
+        "url": "https://open.spotify.com/album/5s9e6m4cbXxrrtTry3EAyo"
+      },
+      "artists": [
+        {
+          "name": "Naledi Aphiwe",
+          "url": "https://open.spotify.com/artist/6zInR2bva7iaRKxeB5AjqN"
+        },
+        {
+          "name": "Fezeka Dlamini",
+          "url": "https://open.spotify.com/artist/3w6Mt5dBdn8iPH2PgdnbP7"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258665,
+      "name": "ZOJIKI IZINTO",
+      "url": "https://open.spotify.com/track/2up5Dd9llCPQT87KNaJ975"
     },
     {
       "album": {

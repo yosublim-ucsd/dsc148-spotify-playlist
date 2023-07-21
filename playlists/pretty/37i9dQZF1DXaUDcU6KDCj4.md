@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Blake Mills
 
-[Spotify](https://open.spotify.com/user/spotify) - 790,362 likes - 150 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 790,439 likes - 150 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 15 | [Worst Thoughts In The World](https://open.spotify.com/track/25jvLeMGFR1GZrLyoSPLEF) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [Worst Thoughts In The World](https://open.spotify.com/album/6koPonU48MJwNcLavraNV2) | 2:26 |
 | 16 | [Where Are Your Kids Tonight? \(feat\. John Grant\)](https://open.spotify.com/track/1yUlR1nyJfoXot9vivtlD0) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv), [John Grant](https://open.spotify.com/artist/3TScZ6zJkavDy0tqoGqiCf) | [Where Are Your Kids Tonight? \(feat\. John Grant\)](https://open.spotify.com/album/3zcyFcBDhb8rfthnlQnCPE) | 5:26 |
 | 17 | [Shinbone](https://open.spotify.com/track/5tqGsvI2mB9k4rA2ELxmLU) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Shinbone](https://open.spotify.com/album/5JzVleyf5QHPPCHOU9DvXl) | 3:46 |
-| 18 | [Honey](https://open.spotify.com/track/7KXox0OtaeI7iAadPc2dEw) | [Taylor Ashton](https://open.spotify.com/artist/53t38sKooUEyyENANtticX), [Jacob Sharp](https://open.spotify.com/artist/0Nr1cxK226tk7MxKVJYe1w) | [Honey](https://open.spotify.com/album/7CVVXHlbXtVb4AZnjVPulD) | 4:13 |
+| 18 | [Honey](https://open.spotify.com/track/7KXox0OtaeI7iAadPc2dEw) | [Taylor Ashton](https://open.spotify.com/artist/53t38sKooUEyyENANtticX), [Jacob Sharp](https://open.spotify.com/artist/7rAqCeLrJNATPpQ0uc3Y4S) | [Honey](https://open.spotify.com/album/7CVVXHlbXtVb4AZnjVPulD) | 4:13 |
 | 19 | [Memories](https://open.spotify.com/track/7raFiiAe2tfVTq4fCKhIhE) | [Margaret Glaspy](https://open.spotify.com/artist/13YVfXddjRIUrubItJjadb) | [Memories](https://open.spotify.com/album/7j4ymmtwxJP6icpbkWwYBh) | 4:13 |
 | 20 | [The Scull of Lucia](https://open.spotify.com/track/20bC86TdhHky8j8dkjVmpH) | [Sparklehorse](https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE) | [The Scull of Lucia](https://open.spotify.com/album/5RGqrKUuLfcRNMIN6iuBVy) | 4:11 |
 | 21 | [Cover You](https://open.spotify.com/track/2ieUJFsBqyqFY2ve0RuNyl) | [Phillip LaRue](https://open.spotify.com/artist/7gIDHAJ0iFOGSMTiqsNUZT) | [Colors](https://open.spotify.com/album/54czM290XrgPLNKfs5WChy) | 3:14 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 149 | [Sweet Rainbow](https://open.spotify.com/track/3uFjMR6c3fmF6Us3phdVWI) | [Peter One](https://open.spotify.com/artist/0a2PWvcYoeN1ZCzpujQ0qo) | [Come Back To Me](https://open.spotify.com/album/561eKNmfenwaF1fZsVayMv) | 4:06 |
 | 150 | [That's on You, That's on Me](https://open.spotify.com/track/4NKrrhHXSyobZHMImI9izz) | [Drew Holcomb & The Neighbors](https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9) | [That's On You, That's On Me](https://open.spotify.com/album/5Ry6LXvOutD0knHfrZr0y0) | 3:09 |
 
-Snapshot ID: `MCxlMDhlNjA0OWEzNDM0Nzc5MGU2MDcyMDRlYmQzNWU2YThiMTAyNzky`
+Snapshot ID: `MCxjY2E5MWUwZGQyNmY1OTc5MzZlZTkyMWE2YThkNmFhMjg4OWIzMmQ2`

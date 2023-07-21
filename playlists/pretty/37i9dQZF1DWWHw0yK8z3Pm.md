@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 
 > Fearless sounds at the crossroads of Country and Folk\. Cover: Colter Wall
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,245 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,272 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 99 | [Here If You Want Me](https://open.spotify.com/track/0kn4qAHwbV6EAgMrrduxtE) | [Aiden Ayers](https://open.spotify.com/artist/7yF4b51na3Wdeyiid9h4c2) | [Venus Copper Rose](https://open.spotify.com/album/6HBA4LzlkcTltssUdbvw95) | 3:01 |
 | 100 | [Hard to Build\. Easy to Break.](https://open.spotify.com/track/3fkC7dob8UbhKJznLGgzBZ) | [Cowboy Junkies](https://open.spotify.com/artist/3CYSRCHfilgR8DSbkCMp5j) | [Hard To Build\. Easy To Break.](https://open.spotify.com/album/0f28PbHkgYcNJ0xetd1mY6) | 4:18 |
 
-Snapshot ID: `MCw0NTI5NGJhMTk2ODIxMTc0YzJmNGE4OTA4ZTZhMjE0Y2U3NzI1YzBj`
+Snapshot ID: `MCw3ZjVmZTRkODQ1NzQ5NjAyYmU4OTExZjUxMzI1YTQyYjdiM2I2MmIw`

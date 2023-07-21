@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSbtdIJNST3R.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6oEa7f0DcvJhreGq1I3Zwe">Sigourney Korper</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96 likes - 33 songs - 1 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 96 likes - 37 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,6 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSbtdIJNST3R.md) - [plain]
 | 30 | [Piet Pyama Party](https://open.spotify.com/track/53ufLC1lzbZwvpUs4Sl6YA) | [De Club Van Sinterklaas](https://open.spotify.com/artist/4GaAzGCRu6rYPmVDn3iEJ1), [KADO](https://open.spotify.com/artist/3Q00kkvihGYh7ym4vMdpdZ) | [De Leukste Liedjes 2021](https://open.spotify.com/album/1czwYtZdav91HjwNmppicN) | 2:05 |
 | 31 | [Je Weet Ik Ben Een Slodder \(feat\. Sigourney\)](https://open.spotify.com/track/6OdeTOFYto4ZrHHFlpAJou) | [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m), [Sigourney](https://open.spotify.com/artist/2UVYTj2JBEFaIFSDbz2VuQ) | [Je Weet Ik Ben Een Slodder \- Single](https://open.spotify.com/album/79RMw8ONhRj4nghrgt26fJ) | 3:51 |
 | 32 | [Casual](https://open.spotify.com/track/4smMMm61FwuTB3Rjp0ztBQ) | [Carla Fernandes](https://open.spotify.com/artist/2PowY1osU1K9Qa8d1fn0PF) | [18](https://open.spotify.com/album/6CEPSxPykn7KwvQBVlhX2N) | 2:41 |
-| 33 | [Blockparty](https://open.spotify.com/track/41BMZK6aq3ZoDrRybQgxd5) | [Zirkus Zirkus](https://open.spotify.com/artist/746vTXKIR6HcTpyrdmQGPS) | [In De Tent](https://open.spotify.com/album/6x4ps0SwAk1EAxtJTFb3Yy) | 3:36 |
+| 33 | [Lovey Dovey](https://open.spotify.com/track/5rPh4RtiNHH6zGZVaPcYEw) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Echte Meisjes Huilen Niet](https://open.spotify.com/album/2RcaeG5ATd0CwPLNcYuTMx) | 2:45 |
+| 34 | [Als Ik Haar Was](https://open.spotify.com/track/5IBW1Rni8F0CRSCuHQhVRr) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Echte Meisjes Huilen Niet \(Als Ik Haar Was\)](https://open.spotify.com/album/1p2rvLp5vQklvWRDttx17I) | 2:45 |
+| 35 | [Blockparty](https://open.spotify.com/track/41BMZK6aq3ZoDrRybQgxd5) | [Zirkus Zirkus](https://open.spotify.com/artist/746vTXKIR6HcTpyrdmQGPS) | [In De Tent](https://open.spotify.com/album/6x4ps0SwAk1EAxtJTFb3Yy) | 3:36 |
+| 36 | [Kingsize Bed](https://open.spotify.com/track/6cauHAAEIPoCtfPG8dQJW3) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Echte Meisjes Huilen Niet \(Kingsize Bed\)](https://open.spotify.com/album/7ACJ5kj4bE4NKruP8Z5KPm) | 2:42 |
+| 37 | [Huilen In De Club](https://open.spotify.com/track/5V4SzzyB2G4eGn7LsYJQaF) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Echte Meisjes Huilen Niet \(Huilen In De Club\)](https://open.spotify.com/album/2mlIuSZyziihdNDRkaixBZ) | 2:55 |
 
-Snapshot ID: `MjgxNjIyODUsMDAwMDAwMDAwZTVmMTJjYzJkNzU5ZDY4MzgwZWIyYzhmOTU2MTE2NA==`
+Snapshot ID: `MjgxNjUxMDAsMDAwMDAwMDA4YzRmYjU5MmMzZGI3OTU4ZmE0N2QwZWIzMmIwNDM1NA==`

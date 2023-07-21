@@ -4,7 +4,7 @@
 
 > bøgdebangers du kan spelle i kjerra!
 
-307 songs - 14 hr 15 min
+308 songs - 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Bare så du vett det](https://open.spotify.com/track/7yRrAsBprcsSDtiENWVQds) | [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA) | [Stavangerkameratene](https://open.spotify.com/album/6HqEADSkVz5d70ZQgtfUUk) | 3:30 | 2022-07-28 |  |
 | [Bare så du vett det](https://open.spotify.com/track/0MPznfQfw2r2XWJlhPoyWN) | [Stavangerkameratene](https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA) | [Bare så du vett det](https://open.spotify.com/album/6vutuz8BvdPdSq7gy2xWgw) | 3:31 | 2021-12-16 | 2022-07-29 |
 | [Berre i natt](https://open.spotify.com/track/6zUYBBR8WX5Yi2dESzrsLR) | [Rotlaus](https://open.spotify.com/artist/4ivFOCSoFSwxPXQawDqylT) | [Berre i natt](https://open.spotify.com/album/0ozDhiimWIbVeYO0Pbbxgj) | 3:49 | 2021-12-16 |  |
-| [Besseggen](https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Besseggen](https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw) | 2:45 | 2021-12-16 |  |
+| [Besseggen](https://open.spotify.com/track/3evPFHyagVIQqNDKi6jkp8) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Besseggen](https://open.spotify.com/album/3hXvPMpfoGRSTb9DSoYQhw) | 2:45 | 2021-12-16 | 2023-07-21 |
 | [Best på fest](https://open.spotify.com/track/3qeetNg8dmL3KwYXT9R7wT) | [Carina Dahl](https://open.spotify.com/artist/3nuhBdXXO0mnjugdrDxkmt) | [Best på fest](https://open.spotify.com/album/2r8sm8wyxDUz1Isu8VE5ZG) | 2:40 | 2023-03-01 |  |
 | [Bjudar på](https://open.spotify.com/track/0gfP3em97H6T2ZhsLSMp2S) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Bjudar på](https://open.spotify.com/album/28kSTlOsS6yDQLpkXrDhFw) | 2:43 | 2021-12-16 | 2022-06-18 |
 | [Bli Med Meg Hjem](https://open.spotify.com/track/57bTCtZZib1OkelyBl10a1) | [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj), [Den BB](https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651) | [Bli Med Meg Hjem](https://open.spotify.com/album/3B0F6c5gFEgcUElAnr03pR) | 2:10 | 2022-05-05 | 2022-07-29 |
@@ -61,6 +61,7 @@
 | [Den fineste Tesla´n](https://open.spotify.com/track/0gmUYkN6BkOX0NvyKZ3qBq) | [Jon Niklas Rønning](https://open.spotify.com/artist/0vCcq1XpbBi4Ua9dUfGyPw), [Pernille Øiestad](https://open.spotify.com/artist/0PMBZhlGn0dN6rLrr9w9rJ), [Ole M\. Aagenæs](https://open.spotify.com/artist/32BWq2uNoF931LK2LRQd8P) | [Den fineste Tesla´n](https://open.spotify.com/album/7A94hHp8fWQF1cZ4IKb4th) | 3:04 | 2022-06-30 |  |
 | [Den Samme Jævla Sangen](https://open.spotify.com/track/5vkNNLnO28ZGA2QryYpXZU) | [Vidar Villa](https://open.spotify.com/artist/4ec09tknYr0531ivdBMNIg), [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Den Samme Jævla Sangen](https://open.spotify.com/album/3fXnuFvgiZvjCRef5uPmDt) | 2:20 | 2022-03-31 |  |
 | [Denne Sommer´n](https://open.spotify.com/track/0dYIw6tvRSscoGrBzXBZa2) | [Cir.Cuz](https://open.spotify.com/artist/2FHOS0GkJv3EyT8a9BhP9E) | [Denne Sommer´n](https://open.spotify.com/album/25oxLnwPO9oZQvmdHcQxNl) | 2:40 | 2022-04-28 |  |
+| [Der Jeg Hører Te \(Bygda\)](https://open.spotify.com/track/3ZtqqLjlfr5GOPxezSaFwX) | [Ole Hartz](https://open.spotify.com/artist/7J8OsnJjGfG1uHd348LZPI) | [Der Jeg Hører Te \(Bygda\)](https://open.spotify.com/album/6tqJgkJ5ap9ooOxd0TsTW3) | 2:17 | 2023-07-20 |  |
 | [Det finns bara en kung](https://open.spotify.com/track/4CwDkY1WcODvyuo0vw5lyI) | [F.E.S.T](https://open.spotify.com/artist/0QZbl0d87CNgrGgxi0DvkU) | [Det finns bara en kung](https://open.spotify.com/album/1pOgOOTULLBnySxhCQEh80) | 2:51 | 2022-05-19 | 2022-07-18 |
 | [Det regnar och regnar](https://open.spotify.com/track/6Id0DbZqrV9Vy64WlxU1ce) | [Lasse Stefanz](https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu) | [Röd Chevrolet](https://open.spotify.com/album/5urzDMt0XkBEwmGAZCtxYB) | 3:42 | 2021-12-16 |  |
 | [Det Ringer](https://open.spotify.com/track/2knRq4hvRNFwI8ilTBJXeS) | [Slæm Dønk](https://open.spotify.com/artist/0dei79O9i0uYwCGYniYGzZ) | [Det Ringer](https://open.spotify.com/album/2eCJ7T0MsfxttdEreBmBUN) | 2:42 | 2022-06-02 | 2022-06-13 |

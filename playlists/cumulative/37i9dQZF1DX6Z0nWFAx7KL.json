@@ -596,7 +596,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 171944,
       "name": "Carefree",
       "url": "https://open.spotify.com/track/079DiktOmAQiwoYwFYspSH"
@@ -2718,6 +2718,28 @@
       "duration_ms": 241061,
       "name": "See You On The Other Side",
       "url": "https://open.spotify.com/track/1G4bK9Z8JtkXah973WlAGS"
+    },
+    {
+      "album": {
+        "name": "Shatterproof (Sebastian Davidson Remix)",
+        "url": "https://open.spotify.com/album/74weVpLq86UNh1LlZjrcmu"
+      },
+      "artists": [
+        {
+          "name": "Nick Schilder",
+          "url": "https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu"
+        },
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166693,
+      "name": "Shatterproof - Sebastian Davidson Remix",
+      "url": "https://open.spotify.com/track/3jkyGmk58RSeyTnhHDam7v"
     },
     {
       "album": {

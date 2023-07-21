@@ -4,7 +4,7 @@
 
 > Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: Suni Hạ Linh
 
-153 songs - 9 hr 59 min
+154 songs - 10 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Cầu Hôn \- Happy Version](https://open.spotify.com/track/4p0oGfPJqrrmdBC2GG6iK2) | [Văn Mai Hương](https://open.spotify.com/artist/63SNH9m8M034lCGELVC1dm) | [hương](https://open.spotify.com/album/6q946F95PkIqzVIxMQVVdq) | 4:04 | 2021-12-07 |  |
 | [Da Lau Roi](https://open.spotify.com/track/6SiVDtUuESkBzjUl2raZkN) | [Cheung](https://open.spotify.com/artist/2CYz62cthPQ03xzOFpq683) | [Da Lau Roi](https://open.spotify.com/album/4BIytzT0MGjXs8nfrkF2FO) | 4:10 | 2021-12-07 | 2022-05-20 |
 | [Do You?](https://open.spotify.com/track/03m9ySk1by3w5w5sqhthiJ) | [Linh Cáo](https://open.spotify.com/artist/0vTUa2hbNHke3omoGxuKFm) | [Do You?](https://open.spotify.com/album/58oksYYTlFF652wUrMQpwE) | 2:39 | 2021-12-07 | 2022-01-01 |
-| [Duyên Âm](https://open.spotify.com/track/5dZHey2U2xrNpvgyop8URS) | [Hoàng Thùy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [Hoàng](https://open.spotify.com/album/4gfu67H8oClhhE4XT5JL2u) | 2:59 | 2021-12-07 |  |
+| [Duyên Âm](https://open.spotify.com/track/5dZHey2U2xrNpvgyop8URS) | [Hoàng Thùy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [Hoàng](https://open.spotify.com/album/4gfu67H8oClhhE4XT5JL2u) | 2:59 | 2021-12-07 | 2023-07-21 |
 | [dưới ánh đèn sân khấu \(feat\. Orange\)](https://open.spotify.com/track/7J9kDGkBf5BiWUCELfZdql) | [Hứa Kim Tuyền](https://open.spotify.com/artist/3Ufoo4BPShhahtCSjgpBLP), [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G) | [COLOURS](https://open.spotify.com/album/2eIFX7bSus6CHnQ6Ts5mCh) | 4:03 | 2022-06-01 | 2022-07-07 |
 | [Em Hát Ai Nghe](https://open.spotify.com/track/1SzlLbTE7hTs75M2R1a1Tg) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G) | [Em Hát Ai Nghe](https://open.spotify.com/album/484MnMltSafY73ocrCoKgv) | 4:39 | 2021-12-07 |  |
 | [Em Không Hiểu](https://open.spotify.com/track/1izPmgSW7FV6XFdEOiTvOY) | [Changg](https://open.spotify.com/artist/1nX1HVIUo1Zfs3e2v3lFb9), [Minh Huy](https://open.spotify.com/artist/5zT1Ku9mzzl6RW5y4z0hUK) | [Em Không Hiểu](https://open.spotify.com/album/1TAJ1v7uOXi6lzXQSF3wjn) | 3:57 | 2021-12-07 |  |
@@ -137,6 +137,7 @@
 | [trời giấu trời mang đi](https://open.spotify.com/track/1ecVks3GJX8U67DvhVDVBn) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [dreAMEE](https://open.spotify.com/album/4tHnhcKAaAaD83UfrTvUPt) | 4:13 | 2021-12-07 |  |
 | [Tìm Hành Tinh Khác \- Chill Version](https://open.spotify.com/track/08z0xgKfSQ4f9hfnCSPLHw) | [Vu Cat Tuong](https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A) | [Tìm Hành Tinh Khác \(Chill Version\)](https://open.spotify.com/album/4TjnVBXFRxvC4Yea3DDbkW) | 2:28 | 2021-12-07 | 2022-01-05 |
 | [tóc ngắn](https://open.spotify.com/track/2wQwox4OOvt9Mr4PtFjs9F) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G) | [Hương Mùa Hè](https://open.spotify.com/album/1w74ARpNNB3ybFNhs4qWmV) | 3:34 | 2022-08-02 | 2022-10-05 |
+| [Từ Khung Cửa Sổ Này](https://open.spotify.com/track/6C1uzaA6dThCNQt89fk4kJ) | [Suni Hạ Linh](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0) | [Từ Khung Cửa Sổ Này](https://open.spotify.com/album/3MP2DEC3eGwYHvBqmvlrMK) | 3:38 | 2023-07-20 |  |
 | [Từng Là Của Nhau](https://open.spotify.com/track/5KYv3kORBKUmVEoqbRRWxt) | [Bao Anh](https://open.spotify.com/artist/4fCHhderLwLacsIOIKgu3J), [Táo](https://open.spotify.com/artist/23xCr75lKvnFvKi8ImHE7S) | [Từng Là Của Nhau](https://open.spotify.com/album/59xrACzg1Ip2ellb2JSzCN) | 4:29 | 2022-08-30 | 2022-12-01 |
 | [Tự Sự \- Original Soundtrack from "Qua Bển Làm Chi"](https://open.spotify.com/track/5Fx8zxEEaPMkwzM00JFr3N) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G), [Thuan Nguyen](https://open.spotify.com/artist/0Tz9NpLMEwsdPcBurGdQh4) | [Tự Sự \(Original Soundtrack from "Qua Bển Làm Chi"\)](https://open.spotify.com/album/13x14kY27CueHj9F3OV6Mz) | 4:17 | 2022-05-27 | 2022-07-06 |
 | [vào hạ](https://open.spotify.com/track/6Bh5qRgU4AysQh3Vv2N5Nt) | [Suni Hạ Linh](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0) | [Hương Mùa Hè EP.01](https://open.spotify.com/album/7Do6GQrbmkYtOjg1S2HRe3) | 3:16 | 2022-08-02 | 2022-12-01 |

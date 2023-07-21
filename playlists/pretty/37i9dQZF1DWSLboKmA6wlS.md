@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > ผลงานจากศิลปินรุ่นใหม่ เพลงดีที่น่าลองฟัง อัพเดตทุกสัปดาห์!\. ศิลปิน: GeniePak\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,166 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,168 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 49 | [สายตาสั้น](https://open.spotify.com/track/7nkoAicGnw8b13m4XKu5VP) | [GRADE B](https://open.spotify.com/artist/31KIRfgeL0EiVN2dbu5Cip), [eeunguoey](https://open.spotify.com/artist/50UeMLP7XOcgbbCvN7Og6c) | [สายตาสั้น](https://open.spotify.com/album/1NKd3ibtweSjFKJqP2Jvts) | 3:34 |
 | 50 | [Rain](https://open.spotify.com/track/0hIOcZIBjXOQPIj3bSq0C6) | [Mister Leko](https://open.spotify.com/artist/0fCdboMqrEsn6JZZ1Uajic), [Jokey](https://open.spotify.com/artist/3KTwEsa0Zj9IRalzPxI5sO) | [Rain](https://open.spotify.com/album/10kbqcRUQSODzT7LveF2ZP) | 4:59 |
 
-Snapshot ID: `MCwzMmZiOGVlYWVjMzlkYjBiOGZmYjlkYTYyOTdjYTViNGE0OThjYzcx`
+Snapshot ID: `MCxkNzdiOTE4NjNhMmU4NGQ1NjgwMWViODU0ZTEwZTVhZmE3N2RhOTBl`

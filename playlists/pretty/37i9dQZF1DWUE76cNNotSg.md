@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 
 > Warm indie dance vibes, the music you need at golden hour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,776 likes - 80 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,007 likes - 80 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 | 79 | [I Can Change](https://open.spotify.com/track/4yhslVvynysGhexambPGcy) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [I Can Change](https://open.spotify.com/album/6tXJDrWCenq1PUDLi6eeQT) | 5:31 |
 | 80 | [Far Away Place](https://open.spotify.com/track/34XwEhXXTz6dVRUxr8BbEB) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m), [Vaarwell](https://open.spotify.com/artist/7jz4ptH9vUGJdMpKFryEEG) | [On the Quiet \(Expanded Edition\)](https://open.spotify.com/album/24qysXGTOB1x7iKbtgJouX) | 4:19 |
 
-Snapshot ID: `MCxiNTBhNzZiNTdiMjUwYzZkYWYyZjVmYzhiMzcyYWI3N2Q3ODBlYWFi`
+Snapshot ID: `MCxmYjYyMjA4ZmE0NmNmNWY4N2JiZTQ2NmQyMGRhYWEyYWY0N2M4YTEz`

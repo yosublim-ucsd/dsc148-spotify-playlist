@@ -4,7 +4,7 @@
 
 > when things just feel heavy.
 
-57 songs - 3 hr 11 min
+58 songs - 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Happy Song](https://open.spotify.com/track/1yYE8EyuIV0rrvQ1bA2Fyf) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:59 | 2023-05-03 |  |
 | [Heavy \(feat\. Kiiara\)](https://open.spotify.com/track/104buTcnP2AsxqB7U1FIZ4) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz), [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [One More Light](https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd) | 2:49 | 2023-05-03 |  |
 | [Hereafter](https://open.spotify.com/track/3VGheGbJrEnGvwteXNBDNt) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:15 | 2023-05-03 |  |
+| [Hospital](https://open.spotify.com/track/5aB6Q61qyaCEcvb7TfW3DH) | [American Teeth](https://open.spotify.com/artist/4a9NXVL2Qxsst3B8ezK7nO) | [Hospital](https://open.spotify.com/album/1hlyb891WyLS9RQKs2lgK2) | 3:02 | 2023-07-20 |  |
 | [i heard they found you face down inside your living room](https://open.spotify.com/track/10lsv64UUfs9OSZyRG4aeB) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [Thanks but No Thanks](https://open.spotify.com/album/67uepYH5WaYipVDJnkWXyT) | 3:06 | 2023-05-03 |  |
 | [I Never Loved Myself Like I Loved You](https://open.spotify.com/track/0wHkXSQBKPm0UxvdMffcJh) | [Dead Poet Society](https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe) | [\-!\- \(Deluxe\)](https://open.spotify.com/album/6tdWQvZKSlDcvEVO7Wtrek) | 4:21 | 2023-05-03 |  |
 | [If It Means A Lot To You](https://open.spotify.com/track/3rEwGRmPVVudVjqdgv0tRR) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Homesick](https://open.spotify.com/album/6MEv8dNtVbKDW1WG4Hk6WZ) | 4:03 | 2023-05-03 |  |

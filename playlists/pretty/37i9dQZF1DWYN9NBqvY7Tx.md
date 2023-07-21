@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 950,706 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 951,498 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 | 60 | [Embrace Me Now \- Techno Radio Edit](https://open.spotify.com/track/53IGqGELRPyyp6DfK2eeRT) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Embrace Me Now](https://open.spotify.com/album/26WVXNlx1rvdcgZBLdqH70) | 3:12 |
 | 61 | [Pour Your Heart Out \(feat\. 070 Shake\)](https://open.spotify.com/track/4p16E9c9Ig6xFMGS3Y82mT) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Pour Your Heart Out \(feat\. 070 Shake\)](https://open.spotify.com/album/3IqciDNeCpyycdfxs6AA6T) | 3:43 |
 | 62 | [Don't You Hold Me Down](https://open.spotify.com/track/0d1ujEcFwTqA4kWliTSJim) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Don't You Hold Me Down](https://open.spotify.com/album/5KQgg5bFgzVeQeZ0E4mxSQ) | 2:12 |
-| 63 | [abc \(The Wild Remix\)](https://open.spotify.com/track/69P8aWFbgM3eD7UFSLPWsq) | [The Wild](https://open.spotify.com/artist/74lRkEloOvori8dZJjNEjd) | [abc \(The Wild Remix\)](https://open.spotify.com/album/0Zq00ywbUyDLVD8jN7XsOC) | 3:02 |
+| 63 | [abc \(The Wild Remix\)](https://open.spotify.com/track/69P8aWFbgM3eD7UFSLPWsq) | [The Wild](https://open.spotify.com/artist/74lRkEloOvori8dZJjNEjd), [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [abc \(The Wild Remix\)](https://open.spotify.com/album/0Zq00ywbUyDLVD8jN7XsOC) | 3:02 |
 | 64 | [Other Side](https://open.spotify.com/track/2pHTtI2tvEjGJvwJyDyCpy) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [ILLENIUM](https://open.spotify.com/album/0ValflNlWce21wm5PlwV60) | 3:31 |
 | 65 | [Lonely With You](https://open.spotify.com/track/4Y5FAQrTSqI2mlDF5i8lTi) | [Skytech](https://open.spotify.com/artist/4CrDEHL7ysNabeYvL3xjUX), [Mingue](https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs) | [Lonely With You](https://open.spotify.com/album/37VdhrfrONjJFL21OinnZv) | 3:25 |
 | 66 | [Party Girl \- VIZE Remix](https://open.spotify.com/track/64vgWvPf41BreVeNomZ3nv) | [StaySolidRocky](https://open.spotify.com/artist/1XLWox9w1Yvbodui0SRhUQ), [VIZE](https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0) | [Party Girl \(VIZE Remix\)](https://open.spotify.com/album/7fqLVmRJezUeXbYhcoCE7V) | 2:34 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYN9NBqvY7Tx.md) - [plain]
 | 99 | [BLOOD](https://open.spotify.com/track/1JKhyE1kemLVv3on1QEKwA) | [KLOUD](https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu) | [AUTONOMY](https://open.spotify.com/album/4n7I9gnUF6ccMToWlIiG2v) | 3:14 |
 | 100 | [Something Comforting](https://open.spotify.com/track/5g7bsxCqNaucnXpexUoHg8) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM) | 4:41 |
 
-Snapshot ID: `MCwwYmFjYjEwOTU0NDJhM2QzMzhlMjdjN2Q3NmM5MDM3MTdmNzhjZDk1`
+Snapshot ID: `MCw5YWQ5Y2I4ODBjYjIyZjU3MDNjMDgzYTk1YjM3OGM1MDgxMjRmNDhh`

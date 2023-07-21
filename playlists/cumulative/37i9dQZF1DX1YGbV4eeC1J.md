@@ -2,9 +2,9 @@
 
 ### [Swahili Love ](https://open.spotify.com/playlist/37i9dQZF1DX1YGbV4eeC1J)
 
-> Exceptionally vivid Swahili love stories for you and yours\. Cover: Platform
+> Exceptionally vivid Swahili love stories for you and yours\. Cover: Wanavokali
 
-95 songs - 5 hr 29 min
+97 songs - 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,11 +22,12 @@
 | [Dusuma](https://open.spotify.com/track/35riG35oLwfgvv8j5tSY9V) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj), [Meddy](https://open.spotify.com/artist/1WryFbMe3DuToQGFN6Ke64) | [Just In Love](https://open.spotify.com/album/61iIaWu85Ga1TtnIqIM4M1) | 3:33 | 2022-05-26 |  |
 | [Enough](https://open.spotify.com/track/604EBEcVgETlw2yG0qH4Sr) | [Kinoti](https://open.spotify.com/artist/45KLKfGTZLK4BUZAv2l5sm) | [Enough](https://open.spotify.com/album/5GvLqmGHBeQ82Yo4TQ6Sgc) | 3:37 | 2022-07-15 | 2023-01-13 |
 | [Everybody \(feat\. Nadia Mukami\)](https://open.spotify.com/track/7F9u95UV1uLvGd2niJByiD) | [Lexsil](https://open.spotify.com/artist/6Hld2ORUmr5945JQVc3N5h), [Nadia Mukami](https://open.spotify.com/artist/5nnVpORg4Aha9aWRTZA5No) | [Love & Vibes](https://open.spotify.com/album/5siLX3JnBQwSCMUgPM3Gjp) | 3:11 | 2023-04-20 |  |
+| [Hawataweza](https://open.spotify.com/track/4P94MmzUvIwY3Jc6X4mzN0) | [Wanavokali](https://open.spotify.com/artist/0JeZtZ5PnJVYLsXDZsKKMP) | [Hawataweza](https://open.spotify.com/album/5DS0VEV7sltoi329nDx1I0) | 3:54 | 2023-07-20 |  |
 | [Hoi](https://open.spotify.com/track/5zhCjE9KiUCqZeKBwnsgIv) | [Hussein Machozi](https://open.spotify.com/artist/20okzd1cjkWwWOq4KvBszc), [Mr Blue](https://open.spotify.com/artist/1JPiOesbMiBVxVwjDYzOu2) | [Hoi](https://open.spotify.com/album/2bzN3eovanDiVHhnW9afer) | 3:06 | 2023-01-19 | 2023-06-16 |
 | [Huyu Hapa](https://open.spotify.com/track/20eKkFZ3C7N7saVxn7BfDR) | [Mbosso](https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa) | [Khan](https://open.spotify.com/album/3U9b6VslZuWzVmpxMLcPYO) | 2:57 | 2022-11-17 |  |
 | [I Miss You \(feat\. Zuchu\)](https://open.spotify.com/track/48jlHKY7uwSlqsTf1dnhsw) | [Rayvanny](https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J), [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [I Miss You \(feat\. Zuchu\)](https://open.spotify.com/album/1aqHzgNXXU3fuvrc2MRDBD) | 4:08 | 2022-05-26 |  |
 | [I Need You](https://open.spotify.com/track/65r5JlLLlCPfpAAQH1Nsv8) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [I Need You](https://open.spotify.com/album/3uRFdty1rcadmo53p0ydVZ) | 3:06 | 2022-08-04 | 2023-03-11 |
-| [I Wish](https://open.spotify.com/track/4GIfPrNdScX8VS7uL931G4) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [I Wish](https://open.spotify.com/album/3PHJ72Y8qHslPZ6gPIkj8V) | 3:43 | 2022-06-23 |  |
+| [I Wish](https://open.spotify.com/track/4GIfPrNdScX8VS7uL931G4) | [Kusah](https://open.spotify.com/artist/260q55nLIeMDgpXiUJYTRK) | [I Wish](https://open.spotify.com/album/3PHJ72Y8qHslPZ6gPIkj8V) | 3:43 | 2022-06-23 | 2023-07-21 |
 | [In Case You Don't Know](https://open.spotify.com/track/6gGmfPBMuAYZsm78uaW9Cg) | [Jux](https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW), [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [The Love Album](https://open.spotify.com/album/6oGApINTocokzfDCkgVfkT) | 3:30 | 2022-05-26 |  |
 | [Inauma](https://open.spotify.com/track/5o9Lrsb1ONwnFUoXs6yOav) | [Aslay](https://open.spotify.com/artist/2dAy5LichEXHjCkpzgcKJr) | [Inauma](https://open.spotify.com/album/6q5kvkKogPAOrzjYy3Y8mD) | 3:23 | 2023-01-26 |  |
 | [Inauma](https://open.spotify.com/track/3HlLqEWLhoKV9GVVOFerQb) | [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Inauma](https://open.spotify.com/album/2XucwpZyoKaEjM8lJyZCX5) | 3:30 | 2022-08-04 |  |
@@ -44,7 +45,7 @@
 | [Mapenzi Hisia](https://open.spotify.com/track/2NUmT9bkWTOKwXyphQgm1I) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Mapenzi Hisia](https://open.spotify.com/album/5swq13J3dliwnstBBplZ3I) | 3:42 | 2022-05-26 | 2023-06-09 |
 | [Maradonna](https://open.spotify.com/track/4KTHSeSyn3oo4dOqxheLPn) | [Tanasha Donna](https://open.spotify.com/artist/4pCGeC6vPX6UaEZhLSucym) | [Maradonna](https://open.spotify.com/album/2FWGVLe0Dk9jmc5upTmZs2) | 3:33 | 2022-07-07 | 2022-12-10 |
 | [Marry Me \(feat\. Marioo\)](https://open.spotify.com/track/0TS6oda4nNVHwn8k9V7SJu) | [Barnaba](https://open.spotify.com/artist/3ICwBdKVyEdVqFqZX0BAks), [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe) | [Love Sounds Different](https://open.spotify.com/album/7uUGjipQKNBau0C3KASL56) | 3:45 | 2022-08-25 |  |
-| [Matozo](https://open.spotify.com/track/2WPvGjnBdOcXGPW9qrNGY7) | [Lady Jaydee](https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS), [Rama Dee](https://open.spotify.com/artist/27hjsspOc6tklAwGEEciks) | [Love Sentence](https://open.spotify.com/album/6CdOVTHzrYXLoi501ZvreF) | 2:21 | 2023-05-11 |  |
+| [Matozo](https://open.spotify.com/track/2WPvGjnBdOcXGPW9qrNGY7) | [Lady Jaydee](https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS), [Rama Dee](https://open.spotify.com/artist/27hjsspOc6tklAwGEEciks) | [Love Sentence](https://open.spotify.com/album/6CdOVTHzrYXLoi501ZvreF) | 2:21 | 2023-05-11 | 2023-07-21 |
 | [Matozo](https://open.spotify.com/track/3JlUHb2FaiDc7eDBkzTjcZ) | [Lady Jaydee](https://open.spotify.com/artist/0ZKCb65YNJBoBaC3gMTijS), [Rama Dee](https://open.spotify.com/artist/27hjsspOc6tklAwGEEciks) | [Matozo](https://open.spotify.com/album/42JVY8b8306tmGSbdOwrog) | 2:21 | 2022-12-16 | 2023-05-14 |
 | [Mfalme Wa Mapenzi Album](https://open.spotify.com/track/2EL25q2ehIM0Xi0UKvOBoc) | [Sanaipei Tande](https://open.spotify.com/artist/3ZuB8qlh0K034nr5WH5EzB) | [MAHABA \- Swahili Love Story \- Vol 1](https://open.spotify.com/album/74VRwFLnAeHYqV40X3AwxI) | 4:44 | 2022-05-26 | 2022-10-28 |
 | [Mi Amor](https://open.spotify.com/track/0bk32GtgvGAgaShB0Hj5oV) | [Marioo](https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe), [Jovial](https://open.spotify.com/artist/0byBbjjMnPnPDMosIzKHO4) | [Mi Amor](https://open.spotify.com/album/5XWqrMOMNhND3bpeSHxjYm) | 3:05 | 2022-05-26 |  |
@@ -98,6 +99,7 @@
 | [Two](https://open.spotify.com/track/7L2rH4sJ94uom7MZxNybzr) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Two](https://open.spotify.com/album/1STmmjFUVBLJx2OcAvT5CX) | 3:33 | 2023-03-09 |  |
 | [U&I](https://open.spotify.com/track/5Cv3HDfY46xvnuotudaSfn) | [Abigail Chams](https://open.spotify.com/artist/3jFSzxz2HWuQ7fDishuCE8) | [U&I](https://open.spotify.com/album/6VATsDRPXpyWz3VEKvlnfZ) | 3:10 | 2022-06-16 | 2023-01-27 |
 | [Umeme](https://open.spotify.com/track/3CxpOg8kGPAJRFG3S0j1kr) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL) | [Umeme](https://open.spotify.com/album/6Jo1JePWZCM5YsSLFH9ppI) | 3:48 | 2023-01-12 |  |
+| [Umenipata](https://open.spotify.com/track/1LRwzKCREJGQhQJm1XDGMN) | [Shetta](https://open.spotify.com/artist/1UaXKMZaYJipBoWQS9XdCT), [Platform](https://open.spotify.com/artist/6b4FmhYEMo14E648KMF8Md) | [Umenipata](https://open.spotify.com/album/2oJobikik4V1YQ6hr4Wzpi) | 2:58 | 2023-07-20 |  |
 | [Unanifaa](https://open.spotify.com/track/3q81v91aFYkdrEYqJxB5PD) | [Taffa](https://open.spotify.com/artist/44lGZ9vJnHuATkGDWNB9vq) | [Unanifaa](https://open.spotify.com/album/1nTkTNj7XrcLcrGxkos0OG) | 3:16 | 2022-06-30 | 2023-03-03 |
 | [Unavyonipenda](https://open.spotify.com/track/6eAfkVy819EFu8xOdcwkFR) | [Charisma](https://open.spotify.com/artist/34FqcraaOV85NJMLNb4JQu), [Mbithi](https://open.spotify.com/artist/3M8x29mEaZklQcMDwHMgKH) | [Unavyonipenda](https://open.spotify.com/album/7y3gLS4YLeD5i9NhdTxvD6) | 3:44 | 2022-05-26 | 2022-09-30 |
 | [Utaniua](https://open.spotify.com/track/7DuHELJeETVPQsRfjHHJoh) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M) | [Utaniua](https://open.spotify.com/album/5TyVLtfv0jEnQ1Y7D0lcSb) | 3:36 | 2023-02-09 |  |

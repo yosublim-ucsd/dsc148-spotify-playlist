@@ -256,7 +256,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 188300,
       "name": "Amanojaku",
       "url": "https://open.spotify.com/track/2P8HxufC1uIUVFYGkyRkSm"
@@ -784,7 +784,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-28",
+      "date_removed": null,
       "duration_ms": 135789,
       "name": "ENVY BABY",
       "url": "https://open.spotify.com/track/7rPKtXBW35rSQH1i6QAvyk"
@@ -1177,6 +1177,28 @@
     },
     {
       "album": {
+        "name": "\u521d\u97f3\u30df\u30af\u300c\u30de\u30b8\u30ab\u30eb\u30df\u30e9\u30a4 2023\u300dOFFICIAL ALBUM",
+        "url": "https://open.spotify.com/album/3LnVCNSjdedP7hEmrrF7WR"
+      },
+      "artists": [
+        {
+          "name": "Ayase",
+          "url": "https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204166,
+      "name": "HERO (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/4oJVybTP5RihSfOn5sxf3W"
+    },
+    {
+      "album": {
         "name": "Hungry song",
         "url": "https://open.spotify.com/album/7y8rGTJsU438lkwIBINbfq"
       },
@@ -1474,6 +1496,24 @@
       "duration_ms": 202493,
       "name": "Lap Tap Love",
       "url": "https://open.spotify.com/track/7weaxG7FEqDVCyZsLsyaKX"
+    },
+    {
+      "album": {
+        "name": "Liar Dancer",
+        "url": "https://open.spotify.com/album/4P5WTqxveCHwel30kXJvoo"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30b5\u30e9\u30c0",
+          "url": "https://open.spotify.com/artist/7samVyTa42GWxA0DedqZL2"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242459,
+      "name": "Liar Dancer",
+      "url": "https://open.spotify.com/track/1YXuCccqCx4AM1PVekISj8"
     },
     {
       "album": {
@@ -1792,7 +1832,7 @@
       ],
       "date_added": "2023-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-07",
+      "date_removed": null,
       "duration_ms": 208991,
       "name": "Non-breath oblige",
       "url": "https://open.spotify.com/track/0LsKplOVgboKBm5MpJsX0H"
@@ -1980,7 +2020,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 219053,
       "name": "Posinega*Mistakers",
       "url": "https://open.spotify.com/track/2klkz5Ab8cFgekyiBv7Nez"
@@ -2158,7 +2198,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 157161,
       "name": "Requiem",
       "url": "https://open.spotify.com/track/2drddXvwwO2AUR7EooatUy"
@@ -2180,6 +2220,32 @@
       "duration_ms": 171026,
       "name": "Rhythm",
       "url": "https://open.spotify.com/track/5fRV7LbEAWHhQip59ay9XS"
+    },
+    {
+      "album": {
+        "name": "Rise (feat. Hatsune Miku) [Guiano Vocaloid Remix With \u0394]",
+        "url": "https://open.spotify.com/album/7EbKU7x7HiJDDbAvSw203I"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        },
+        {
+          "name": "Guiano",
+          "url": "https://open.spotify.com/artist/1gIxoB0mBUoPr7rPyy31xf"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230040,
+      "name": "Rise (feat. Hatsune Miku) - Guiano Vocaloid Remix With \u0394",
+      "url": "https://open.spotify.com/track/3TaNfmkBp2woaZ7HyEe0jt"
     },
     {
       "album": {
@@ -3308,7 +3374,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 159555,
       "name": "\u306c\u308b\u306c\u308b\u3046\u306a\u304e feat.\u97f3\u8857\u30a6\u30ca",
       "url": "https://open.spotify.com/track/0uhgoOt34CygC9P83MLt85"
@@ -4970,7 +5036,7 @@
       ],
       "date_added": "2022-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 160781,
       "name": "\u30c1\u30fc\u30ba",
       "url": "https://open.spotify.com/track/3bjyPSQqaxldKhMQuJ3U5v"
@@ -7216,7 +7282,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 223400,
       "name": "\u4e59\u5973\u89e3\u5256",
       "url": "https://open.spotify.com/track/7Lpm4GU78jmjSrQDhiAqzJ"
@@ -7896,6 +7962,24 @@
       "duration_ms": 192000,
       "name": "\u597d\u304d\u3063\u3066\u8a00\u3063\u3066",
       "url": "https://open.spotify.com/track/3vCLTwRBF4kSgmO6T6OS2I"
+    },
+    {
+      "album": {
+        "name": "\u5b87\u5b99\u6563\u6b69",
+        "url": "https://open.spotify.com/album/4Ee6f3Ezn7Kgxpo0MJnWHi"
+      },
+      "artists": [
+        {
+          "name": "DECO*27",
+          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156533,
+      "name": "\u5b87\u5b99\u6563\u6b69",
+      "url": "https://open.spotify.com/track/3I3A9V9uWlop9PYPM8LrlB"
     },
     {
       "album": {

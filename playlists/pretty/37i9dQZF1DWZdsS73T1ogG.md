@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: lil joujou, Hades66 & Chen
 
-[Spotify](https://open.spotify.com/user/spotify) - 520,822 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 520,890 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 41 | [Brinca](https://open.spotify.com/track/2T9GW5NdmBnz5ZlDkmMZZS) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Brinca](https://open.spotify.com/album/4jLqHMNoB6G1idIYYwrtgH) | 2:26 |
 | 42 | [Su Altura](https://open.spotify.com/track/3bclq6OXFKMmFaUoFLbO8E) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Su Altura](https://open.spotify.com/album/01Q6s2xUyvHYC2SAW1spjs) | 3:01 |
 | 43 | [Donde CRJ \- Remix](https://open.spotify.com/track/63RgY9Eph41dal0MYH4d6V) | [Karbeats](https://open.spotify.com/artist/3KdCAZSWpRrPO0GTPnzsYV), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [Donde CRJ \(Remix\)](https://open.spotify.com/album/4m0EGRYRzekBkg9pVRNrKN) | 4:16 |
-| 44 | [ASQUEROSO](https://open.spotify.com/track/1PSlMgsJ0V7pUeumk13fbs) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [ASQUEROSO](https://open.spotify.com/album/6QawDZdJyz7hiAkgw65BA3) | 2:39 |
+| 44 | [ASQUEROSO](https://open.spotify.com/track/1PSlMgsJ0V7pUeumk13fbs) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Zecca](https://open.spotify.com/artist/2FmE1yzXXBWKlRiOl0AqD8) | [ASQUEROSO](https://open.spotify.com/album/6QawDZdJyz7hiAkgw65BA3) | 2:39 |
 | 45 | [Pacto \(feat\. Luar La L\)](https://open.spotify.com/track/2whW1Q8KTOODkGDakLZa6V) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Emociones 1.5](https://open.spotify.com/album/1iggkqIrsfiO7RtEFGcaGr) | 4:44 |
 | 46 | [QUEVEDO \#49 AFTER HOUR THE MIXTAPE](https://open.spotify.com/track/4vJKFyVeEGydftAuefJe6Y) | [DJ Saot ST](https://open.spotify.com/artist/3L3OkLK1GPNoYh649m3nh7), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [BlueFire](https://open.spotify.com/artist/2sfOYs479VgaVHNPJKyG4n) | [QUEVEDO \#49 AFTER HOUR THE MIXTAPE](https://open.spotify.com/album/1LpolAKMQqxo1yAGg4IYVp) | 2:00 |
 | 47 | [Copas](https://open.spotify.com/track/0YHmnEkFZMrZgryi6yQfJh) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Copas](https://open.spotify.com/album/3ePBOZm5uPk39Gm1SLAaGs) | 3:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 99 | [No Traje Naki](https://open.spotify.com/track/6wZVFscvWZbJaTl4Ju5MOF) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [OG CITY](https://open.spotify.com/album/2tio4413w3hOjYmb6MlDVz) | 4:01 |
 | 100 | [Orgullo](https://open.spotify.com/track/1rWfFeGXyCsfpsWq5dz94Y) | [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ), [R.K.M & Ken\-Y](https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg) | [Orgullo](https://open.spotify.com/album/0Le1Lj2NyXlJZW02C706u3) | 3:43 |
 
-Snapshot ID: `MCw1NjJkNTYwMjEzZThkZWMzOGU4MzUyMmY5MjZmZDFkMzU5MGM4NWU1`
+Snapshot ID: `MCw3MDJiNjk3OTVmM2MxODY2MDEzMDgzOTkyZWEzN2IwMjJhNmI1OGNi`

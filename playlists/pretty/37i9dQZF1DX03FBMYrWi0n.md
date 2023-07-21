@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 
 > Le meilleur de la scène alternative québécoise actuelle\. Photo: Bon Enfant
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,242 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,251 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 | 74 | [See You Soon](https://open.spotify.com/track/02QiB7pfuiK2ifgG9n0bjR) | [Sasha Cay](https://open.spotify.com/artist/70PKezrSmt6UkxyZU6ueHc) | [See You Soon](https://open.spotify.com/album/0a3FIHk0VYBaRU7VcwBotl) | 5:28 |
 | 75 | [Auréole](https://open.spotify.com/track/2Tsl8BPilekrItPa2716qj) | [zouz](https://open.spotify.com/artist/7mjxrO1Me1ANeNOeAFXxzi) | [Vertiges](https://open.spotify.com/album/1xJBGMDXE3nHY5SvPS7ZCj) | 3:06 |
 
-Snapshot ID: `MCwxMjJmNTU5ZmNhZTM3MzMyM2RlMWZiZTg3ZGViNzk4NDMwZTNhMDYz`
+Snapshot ID: `MCwwOTQwZjNlYTcxY2I2NzczYmIxNzliMDJkNjM5MTA1NjllMzczZjI1`

@@ -636,7 +636,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 258532,
       "name": "Before Today",
       "url": "https://open.spotify.com/track/1Emw4zGXubKhKshl6U27Eb"
@@ -4048,6 +4048,24 @@
       "duration_ms": 301920,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
+    },
+    {
+      "album": {
+        "name": "talk to me when you're ready if you want to please",
+        "url": "https://open.spotify.com/album/3h6E2h1RbjJwv8HjNfjmJu"
+      },
+      "artists": [
+        {
+          "name": "Joel Haver",
+          "url": "https://open.spotify.com/artist/08fBiIiUIv7aWqPAlhLBIG"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118524,
+      "name": "Something That Feels Like Love",
+      "url": "https://open.spotify.com/track/363tIu3XPLPKBpYpIfTQ8b"
     },
     {
       "album": {

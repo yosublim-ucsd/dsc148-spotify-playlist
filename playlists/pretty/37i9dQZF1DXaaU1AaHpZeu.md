@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Mira Paula.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,752 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,760 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 31 | [SALIR](https://open.spotify.com/track/2Bzjajf785ie0TwouVWQLN) | [MENTIRA](https://open.spotify.com/artist/025KCrdT7Sl83OzsBfEhtu) | [SALIR](https://open.spotify.com/album/4Dd3pF02WX2Q21DoViCL6L) | 3:16 |
 | 32 | [Cuántas Veces](https://open.spotify.com/track/7xqVmgYINjUmLktnTxQqFY) | [Nova Caeli](https://open.spotify.com/artist/6RgIDy1x1vhGst77P2Wuts) | [Cuántas Veces](https://open.spotify.com/album/7igQKVqM29rwzZYHoV267G) | 2:41 |
 | 33 | [¿Dudar?, quizás](https://open.spotify.com/track/3s98bp87vULSiflNILK3ti) | [Valancea](https://open.spotify.com/artist/0JGOGScJLAvwFoDjbjlD0h) | [Valancea](https://open.spotify.com/album/1DqYRmfuRZE6EkGZXNQmqs) | 3:15 |
-| 34 | [Canción para Ti <3](https://open.spotify.com/track/5kWRobeadEIT7AmGg55rpF) | [Eterna Joventut](https://open.spotify.com/artist/34gsOKqivflpTmTRZ3SmGo) | [Canción para Ti <3](https://open.spotify.com/album/22JlpBD96eCM8D8Vuy5yGk) | 1:28 |
+| 34 | [Canción Para Ti <3](https://open.spotify.com/track/5kWRobeadEIT7AmGg55rpF) | [Eterna Joventut](https://open.spotify.com/artist/34gsOKqivflpTmTRZ3SmGo) | [Canción Para Ti <3](https://open.spotify.com/album/22JlpBD96eCM8D8Vuy5yGk) | 1:28 |
 | 35 | [Soltera \- Remix](https://open.spotify.com/track/73IXhWTLFCycLmvuAk33mY) | [Juanita La O](https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT), [quediostesalve](https://open.spotify.com/artist/1CuvaTSsQNjeHU0abOUOZI) | [Soltera \(Remix\)](https://open.spotify.com/album/6oduJOhQOBYZ8gnfSyUMvn) | 3:23 |
 | 36 | [Te he cuidado tanto](https://open.spotify.com/track/4HtYuTc2zcpDqHcBXBFU5t) | [Sita Rizzi](https://open.spotify.com/artist/5hu7ji1wlMCgZ3KRKJaEA3) | [Te he cuidado tanto](https://open.spotify.com/album/089AYO7JM9QXkbLHndquxG) | 2:33 |
 | 37 | [Trampas](https://open.spotify.com/track/5IxfOWrIQmioHViXiRq6Bv) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 49 | [No Soy Malo](https://open.spotify.com/track/6JfkEKgUCvxIRTEfBxqPHI) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [No Soy Malo](https://open.spotify.com/album/1R2KzwHSHHWktYlvJiwLaW) | 4:04 |
 | 50 | [Con otra cabeza](https://open.spotify.com/track/5KdVewdmh5VWkCSxXBcl8o) | [LA MILAGROSA](https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP) | [Con otra cabeza](https://open.spotify.com/album/1XhcGwZwWx0cZ6Fi62gAVV) | 2:29 |
 
-Snapshot ID: `MCw5OWM4NjExYmIxOGZkZGZiOTQ1NDIyZDZlNmExZGQ5NzQzMTE1MTRh`
+Snapshot ID: `MCwxMWVhYTcxNDU2MzM3NTNkNWE1ZWE2ZDM1YTRjYjc4NWVlNGRlMGYw`

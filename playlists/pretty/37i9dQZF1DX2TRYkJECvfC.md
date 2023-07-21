@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TRYkJECvfC.md) - [plain]
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,584,199 likes - 200 songs - 16 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,584,980 likes - 200 songs - 16 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2TRYkJECvfC.md) - [plain]
 | 199 | [Outro](https://open.spotify.com/track/2WlnczYDjRaMZNZCrCuxxo) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Sine Wave Party EP](https://open.spotify.com/album/03ZLi3ZFad1jYhw8eq35qm) | 4:24 |
 | 200 | [Cameo](https://open.spotify.com/track/1xltPGjeNgtjO8zLHZ6mCf) | [Guy Gerber](https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC) | [Cameo](https://open.spotify.com/album/67yxzpLfTndtBK2RD2yGvp) | 5:17 |
 
-Snapshot ID: `MCxiOTM0ZjU0MDQ0YjI3ODZlYTE2NWYwYmNiNTdiZDkzYjFhZWQyNWEw`
+Snapshot ID: `MCwwNTVjYmQ3MDBlM2E1OGM3ZTE5ZTgwNzk3M2FmNTE0ZDFhMmUyZjMw`

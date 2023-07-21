@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8nB8TGVGGF.md) - [plain]
 
 > The best Blues for a long trip behind the wheel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,267 likes - 118 songs - 7 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,311 likes - 118 songs - 7 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8nB8TGVGGF.md) - [plain]
 | 117 | [Lonesome Whistle Blues](https://open.spotify.com/track/0239B2zmduD88ZXOiBMOjj) | [Chicken Shack](https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi) | [40 Blue Fingers Freshly Packed & Ready to Serve](https://open.spotify.com/album/0KCRjNAQbHVTGACph3lXxV) | 3:04 |
 | 118 | [Wagon Wheel](https://open.spotify.com/track/1whAS4pUvFSaMpjbEI4bHQ) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Cracked Spanner Head](https://open.spotify.com/album/0LfIQxBC0oPOoLWxTmgOfk) | 3:54 |
 
-Snapshot ID: `MCxkYWYyYzA5MTRiZTdiMWI0YzlhMTJkOGE2MTJkYjljNTkwZDM3OTFm`
+Snapshot ID: `MCxjNTQyYjM0ZWU0ZWRkMWZlZjNiZDk4ZmYwMGQ0NjgxOTQzMzdkOWQx`

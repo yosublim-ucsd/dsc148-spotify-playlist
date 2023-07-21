@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,173 likes - 100 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,217 likes - 100 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnzeQw5ZMfu.md) - [plain]
 | 99 | [Hopelessly Devoted To You \- Live](https://open.spotify.com/track/5lLyFcjZbmQoBXJSqVCNtT) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [The Sydney Orchestra](https://open.spotify.com/artist/7CCAEuSzV238SuznJvgKju) | [Olivia's Live Hits](https://open.spotify.com/album/3cxKwjKZTtrLHxYnVYNQqV) | 3:00 |
 | 100 | [I'm Alive \- Live at The Colosseum at Caesars Palace, Las Vegas, Nevada \- November 2003](https://open.spotify.com/track/63MwPDxQx06Ie7EoiAhw6l) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [A New Day...Live In Las Vegas](https://open.spotify.com/album/0DCrLB20ycYZlBzTXX2AuM) | 4:16 |
 
-Snapshot ID: `MCw3ZTRjZDgwZTIzNDAwMDRmNDNjZjc4MDYwYmU0ZmJlNTc4NjgyNzI0`
+Snapshot ID: `MCxlMWM3OGE4MGMwYTdlMjVjYWVkN2M0NGMxN2FmMDE1MDQ0ODRhNjU2`

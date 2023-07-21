@@ -4,7 +4,7 @@
 
 > 爽やかな1日を、スロー〜ミッドテンポな音楽と共に心地よくスタートしませんか？？
 
-342 songs - 20 hr 45 min
+343 songs - 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -284,7 +284,7 @@
 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 | 2022-10-20 |  |
 | [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 | 2022-10-27 |  |
 | [Valerie \- Live At BBC Radio 1 Live Lounge, London / 2007](https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 3:53 | 2022-10-20 |  |
-| [Vanilla](https://open.spotify.com/track/0NksLiIx5lbWzFTYTCx4z7) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [VANILLA VILLA](https://open.spotify.com/album/6h4GjE3bNKg8cWOVzxdlW7) | 2:31 | 2023-06-30 |  |
+| [Vanilla](https://open.spotify.com/track/0NksLiIx5lbWzFTYTCx4z7) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [VANILLA VILLA](https://open.spotify.com/album/6h4GjE3bNKg8cWOVzxdlW7) | 2:31 | 2023-06-30 | 2023-07-21 |
 | [Vincent](https://open.spotify.com/track/6OkfJkVO5anGzXuSFzMBD7) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Vincent](https://open.spotify.com/album/61U8LRbEAiftr3xRri0rxS) | 3:43 | 2022-12-06 | 2023-02-22 |
 | [Wait](https://open.spotify.com/track/3hqJFkxeobh6Y9mOL37NLx) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:51 | 2023-04-20 | 2023-04-26 |
 | [Waiting for this Love to Die](https://open.spotify.com/track/34E2VmDjfqvmNayzDnBUBp) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [The Things We Talk About](https://open.spotify.com/album/0yacmHDg4T7bXiDtcf3Jlb) | 3:37 | 2023-07-06 |  |
@@ -318,6 +318,7 @@
 | [セラヴィ \-c'est la vie\-](https://open.spotify.com/track/1MDpjHl1plH4ZyQkVqIU4k) | [OAU](https://open.spotify.com/artist/2S6PiNmAaVVGO0YePSN3FB) | [セラヴィ \-c'est la vie\-](https://open.spotify.com/album/0egtsy2R72JXPLqyZVg3nm) | 4:15 | 2023-03-30 | 2023-04-21 |
 | [ドロップな朝](https://open.spotify.com/track/6CIOLsCQjbCLs47TSnrTFT) | [真舟とわ](https://open.spotify.com/artist/0NbUuPAkS2Dv0SK7857Cl4) | [ドロップな朝](https://open.spotify.com/album/3LVnhqOSV1xdCo5RezLkAf) | 4:27 | 2023-03-23 | 2023-04-21 |
 | [ナスティ・ハウス](https://open.spotify.com/track/5GmPGaSokdG5KAfiahOdeF) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [ナスティ・ハウス](https://open.spotify.com/album/2AMBIQoUR9oCq3Y5SJ5rXC) | 2:14 | 2023-02-14 | 2023-03-01 |
+| [ハローソング](https://open.spotify.com/track/07FLYYBSqru9qs5hFlMa2N) | [エンヤコーラーズ](https://open.spotify.com/artist/2VmYWki0mkdmHAgbacjdZE) | [ハローソング](https://open.spotify.com/album/1QPajmQ6wMNWfIlGLiPAt9) | 2:56 | 2023-07-20 |  |
 | [ブラスバンド \- Remastered](https://open.spotify.com/track/4qdmJJsYlpnRxdCWTkRhaE) | [豪起](https://open.spotify.com/artist/4dlhWjRj1R2K9PcfSzQQVQ) | [ブラスバンド \(Remastered\)](https://open.spotify.com/album/02Tgubit8DqujEzmTN8EY6) | 4:02 | 2023-01-24 | 2023-02-15 |
 | [ブルーグラス](https://open.spotify.com/track/7Lp7f1LepstiBcED0WZHXb) | [the hollows](https://open.spotify.com/artist/4WfM6bTmKWlemJydz5SHTA), [田中カズ](https://open.spotify.com/artist/57Gil4buf0JDxk8h29FGUw) | [ブルーグラス](https://open.spotify.com/album/2vkRImsgwYenvjNrw0c2Jw) | 4:28 | 2023-02-14 | 2023-03-01 |
 | [マシかもしれない](https://open.spotify.com/track/6UfkIgoZtKwj7U0vBES2EF) | [眞名子 新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [マシかもしれない](https://open.spotify.com/album/4BQ5ivnlanw4yUuqL3ugdA) | 3:15 | 2022-10-20 | 2022-11-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 
 > O trap nacional pra qualquer hora, daquele jeitão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,579 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,646 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbBJ8C1wekz.md) - [plain]
 | 99 | [Tipo Gta](https://open.spotify.com/track/3hCzQ8c7PCcPfa9qe95ITg) | [MC Caverinha](https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee) | [Tipo Gta](https://open.spotify.com/album/1ce4TgsWTS5N3fEdErXY44) | 3:41 |
 | 100 | [Aquela](https://open.spotify.com/track/6tTrBabjXkXU1xzjQiPsj3) | [ANAJU](https://open.spotify.com/artist/0OWvjDdxvQS2tF6VGAkHgN) | [Aquela](https://open.spotify.com/album/7nfk0v1E5ioLL9cSlABxqs) | 2:01 |
 
-Snapshot ID: `MCw2YWNkZDgzOGQwYTdmNmQwOThjNGUwZDYwYjM5NGE3MzU0ZmRkNWFi`
+Snapshot ID: `MTY4OTMwMzY2MCwwMDAwMDAwMGZjZmVmMmQ4NWRiNWFiZWM3NTZhOGI0OGUxYTQxOWE5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 
 > Emerging sounds in worship from everywhere.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,463 likes - 130 songs - 11 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,486 likes - 130 songs - 11 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7fPhUztqfIX.md) - [plain]
 | 129 | [How Deep](https://open.spotify.com/track/3OLozEYOpwDGOvpbE7LXPT) | [RNW Music](https://open.spotify.com/artist/4LfdYq6VdNIwj6Cs5x9EKi) | [When It Comes to You](https://open.spotify.com/album/7iEMna8XHGFwwiR17SqtkV) | 4:48 |
 | 130 | [Holy Holy Here With Me \- Live](https://open.spotify.com/track/6cHrjNno45mngfOIm2BGpn) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Kirby Kaple](https://open.spotify.com/artist/54P5WwDNRFfSzPEZ7p6Io1) | [Holy Holy Here With Me \(Live\)](https://open.spotify.com/album/68TklNlinz7o8hKvHc8YxL) | 4:57 |
 
-Snapshot ID: `MCxhNzFkN2NlMTIzYmQ0Y2EyOWNkNGQxMjE1MjY4NTlmNzI5MTdiMzM4`
+Snapshot ID: `MTY4NjkxODE2NywwMDAwMDAwMDViMDcwOWJlNjIwMTEwYzU3YWVlZjIwZjgwZTg3Yjkw`

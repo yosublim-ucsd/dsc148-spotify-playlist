@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 
 > Stomping Blues Rock for cooking and eating with friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,873 likes - 62 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,877 likes - 62 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX26pZI5rk3y9.md) - [plain]
 | 61 | [Cassanova Kirk Daniel](https://open.spotify.com/track/7c2L7LpGqN1ZXjgbFR6AH3) | [Mittch](https://open.spotify.com/artist/1MuW8Hbzbz2l2cx9wLx0gV) | [Cassanova Kirk Daniel](https://open.spotify.com/album/1id1eNB9jWS9GshEtzTsMR) | 3:23 |
 | 62 | [Make It Easy](https://open.spotify.com/track/43672cxt3zJGmbVMD5aWYw) | [Mike Lerman](https://open.spotify.com/artist/4MPoosgdIp2c3xJVKrAMgs) | [Make It Easy](https://open.spotify.com/album/2Z1XbDAlAnf5ijTZDi6n6V) | 3:24 |
 
-Snapshot ID: `MCw4ZjYyYTU4MzllZDk1YTdhZGRiNThmNzViZmY3ZTNmNDFmODY5ZmY4`
+Snapshot ID: `MCxmY2RlNzgxNjBlNWQ5NTVkNmI4NzQzNzdiZDIzNjNlMzk1NGQxYzY2`

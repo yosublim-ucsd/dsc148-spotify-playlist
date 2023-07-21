@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Solo il meglio dello street rap italiano. Cover: Paky",
+  "description": "Solo il meglio dello street rap italiano. Cover: Medy",
   "name": "Street Culto",
   "tracks": [
     {
@@ -1614,6 +1614,28 @@
       "duration_ms": 186613,
       "name": "Cella 4",
       "url": "https://open.spotify.com/track/0szf0BqOX6XXa2sHb8HtvC"
+    },
+    {
+      "album": {
+        "name": "Chakach\u00e0",
+        "url": "https://open.spotify.com/album/1a3jocnw41bCF7HsoHUXh9"
+      },
+      "artists": [
+        {
+          "name": "Disme",
+          "url": "https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p"
+        },
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167599,
+      "name": "Chakach\u00e0",
+      "url": "https://open.spotify.com/track/2y7MyvmXf54VAohtg6eb6s"
     },
     {
       "album": {
@@ -3250,7 +3272,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 139098,
       "name": "In Mezzo ai Guai (feat. Neima Ezza)",
       "url": "https://open.spotify.com/track/5BoXWVomF4aOi0VL2G71iF"
@@ -3484,7 +3506,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 226863,
       "name": "Karma (feat. Rondodasosa)",
       "url": "https://open.spotify.com/track/5O3JxKrBqIQais5ZgMx1Qp"
@@ -5012,7 +5034,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 154926,
       "name": "PLAYA",
       "url": "https://open.spotify.com/track/39ngG6CdkMkBgESiXc0lOx"
@@ -5136,6 +5158,24 @@
       "duration_ms": 168750,
       "name": "POSA QUELLA GLOCK",
       "url": "https://open.spotify.com/track/2bLBg7CAcLodXLWbE3oBDX"
+    },
+    {
+      "album": {
+        "name": "LYSSAVIRUS",
+        "url": "https://open.spotify.com/album/3MV2PMen1RMpu6CIcFHJJc"
+      },
+      "artists": [
+        {
+          "name": "Kilimoney",
+          "url": "https://open.spotify.com/artist/01lVP0L85U9jYVREPOB8RG"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "POTO",
+      "url": "https://open.spotify.com/track/52Z2uZEWw75QL8P4BDRinp"
     },
     {
       "album": {
@@ -6297,6 +6337,28 @@
     },
     {
       "album": {
+        "name": "TE QUIERO (feat. LJK)",
+        "url": "https://open.spotify.com/album/6jIMxY0YYVng0T2m6PrGZK"
+      },
+      "artists": [
+        {
+          "name": "Philip",
+          "url": "https://open.spotify.com/artist/0rq5wppHKGTFcdl8da5ODZ"
+        },
+        {
+          "name": "LJK",
+          "url": "https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174224,
+      "name": "TE QUIERO (feat. LJK)",
+      "url": "https://open.spotify.com/track/3iMyhsqTI6i7C55ihN5ejG"
+    },
+    {
+      "album": {
         "name": "TE STESSO",
         "url": "https://open.spotify.com/album/5hjiIwxMtHzmJakFskfNdJ"
       },
@@ -6522,6 +6584,28 @@
       "duration_ms": 147253,
       "name": "Tony Montana (feat. Gu\u00e8)",
       "url": "https://open.spotify.com/track/201JJbyPScX7NO7DnjhNnD"
+    },
+    {
+      "album": {
+        "name": "ASPETTANDO LA BELLA VITA",
+        "url": "https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "Sacky",
+          "url": "https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220255,
+      "name": "TOP G (feat. Sacky)",
+      "url": "https://open.spotify.com/track/7w3M35YQ9VD91c4Lpos8Zz"
     },
     {
       "album": {

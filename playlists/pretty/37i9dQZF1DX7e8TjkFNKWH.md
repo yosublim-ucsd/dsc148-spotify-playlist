@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e8TjkFNKWH.md) - [plain]
 
 > The biggest party hits of the 2000s\. Cover: Shakira.
 
-[Spotify](https://open.spotify.com/user/spotify) - 836,254 likes - 150 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 837,247 likes - 150 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e8TjkFNKWH.md) - [plain]
 | 149 | [Shackles \(Praise You\)](https://open.spotify.com/track/7JKEA8xYDoFp4q0QBW2PGg) | [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [Go Get It](https://open.spotify.com/album/20bME4IGNpUBm1Rk3TzuP9) | 3:18 |
 | 150 | [1 Thing](https://open.spotify.com/track/1mnqraQ8oV8MX92rdOFLWW) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [Touch](https://open.spotify.com/album/2PFK4dMZkqUQfxfSrK8WMf) | 3:58 |
 
-Snapshot ID: `MCw1YWNiNDhiZGZlZTg2M2RhMzc4ZjAzYzFmZDZmMmRkMGExODAzZDIx`
+Snapshot ID: `MCxmNDg2YWUyMGI0MmYyZjgyNzllY2ViOWNlNDIzMzFjNGNmZjBjNzI3`

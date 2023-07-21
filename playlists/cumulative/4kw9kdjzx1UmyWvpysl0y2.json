@@ -2789,6 +2789,24 @@
     },
     {
       "album": {
+        "name": "EAT SLEEP RAGE",
+        "url": "https://open.spotify.com/album/3ACwIVqUsWkj9An9umbKmF"
+      },
+      "artists": [
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "EAT SLEEP RAGE",
+      "url": "https://open.spotify.com/track/2s7F8qjzm1XcMKG7O4GzCY"
+    },
+    {
+      "album": {
         "name": "Echoes Of Silence",
         "url": "https://open.spotify.com/album/3bAbk8cVmDJ5Q7J1IT6lVU"
       },
@@ -5158,6 +5176,28 @@
       "duration_ms": 225000,
       "name": "Lifeline",
       "url": "https://open.spotify.com/track/13IZmcVnhtkMMGqO9P4IUU"
+    },
+    {
+      "album": {
+        "name": "Lifted Me Up",
+        "url": "https://open.spotify.com/album/2WAOkDsbaBt1EDYjia8aVE"
+      },
+      "artists": [
+        {
+          "name": "CloudNone",
+          "url": "https://open.spotify.com/artist/49vNfTzZU1nXv2xO34z5RY"
+        },
+        {
+          "name": "Micah Martin",
+          "url": "https://open.spotify.com/artist/4i8u1FZVapjZBcCyyrAnU3"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228923,
+      "name": "Lifted Me Up",
+      "url": "https://open.spotify.com/track/34ZFf3epioP8dtD4lyu3aC"
     },
     {
       "album": {

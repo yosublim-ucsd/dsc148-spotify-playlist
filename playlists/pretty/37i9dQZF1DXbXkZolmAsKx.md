@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 
 > The best Ambient tracks from 2010 to 2019.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,868 likes - 100 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,885 likes - 100 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXkZolmAsKx.md) - [plain]
 | 99 | [Red Gate Drifting](https://open.spotify.com/track/3qHpK90T5MYO5FMq3UD8Mq) | [Ian William Craig](https://open.spotify.com/artist/0romFcKJdf5jOe6S8row0Q) | [A Turn of Breath \- Extended](https://open.spotify.com/album/67ngwhDY2gWbP6MQugUnKJ) | 7:30 |
 | 100 | [Living Lens](https://open.spotify.com/track/34XEGa35sZyRS0qJb5hYdh) | [Mountains](https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV) | [Centralia](https://open.spotify.com/album/6fkI0lgbExJfl0q3wNI4sG) | 4:56 |
 
-Snapshot ID: `MCw0NGVhYmEyMzgzZDIyODM2OWRmYWU5ZDc4MDA4ZWU2Y2RmNGY3ODAx`
+Snapshot ID: `MTY4NjgzNzE1NCwwMDAwMDAwMDljZjBlNzI4NjM0NGZmNjNmYzIyOTQxYTNkZjA3NmQz`

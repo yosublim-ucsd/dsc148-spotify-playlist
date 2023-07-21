@@ -4,7 +4,7 @@
 
 > ¡Ska 100% Mexicano, círculos de paz y baile! Inspector en portada.
 
-175 songs - 10 hr 34 min
+176 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [Almas](https://open.spotify.com/track/2ghJikYE3GMJ2VAxmyBcRT) | [La Silueta Ska](https://open.spotify.com/artist/2yZDukL7Vwwai8IGPh3WuL), [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [Almas](https://open.spotify.com/album/4ZwuuEgoDjNmM58S91dA39) | 3:29 | 2023-02-24 |  |
 | [alo alo](https://open.spotify.com/track/4tXIQlSCFi0hTn85dS6MJl) | [La trenza De La Abuela](https://open.spotify.com/artist/6QU6mxgWdOOKNkUErSqEMM) | [Loco amor](https://open.spotify.com/album/2y2lRGqPNPT68MaClgU2FL) | 3:00 | 2023-02-03 |  |
 | [Amargo Adiós](https://open.spotify.com/track/0zCOT028cU3DeCqN1G18wE) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 3:48 | 2022-03-18 | 2023-02-04 |
-| [Amargo Adiós](https://open.spotify.com/track/4mQwxVqjcHdUEfwSWEOopx) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Video Rola](https://open.spotify.com/album/68LCD69EOv3P1Pdk8OI4Ew) | 3:49 | 2022-03-18 |  |
+| [Amargo Adiós](https://open.spotify.com/track/4mQwxVqjcHdUEfwSWEOopx) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Video Rola](https://open.spotify.com/album/68LCD69EOv3P1Pdk8OI4Ew) | 3:49 | 2022-03-18 | 2023-07-21 |
 | [Amnesia](https://open.spotify.com/track/4Uies5Apye1sR2TnH5pqhV) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Puro Rock \(CD3\)](https://open.spotify.com/album/6ILmoBtbVnAxn4U7ixVz3m) | 3:59 | 2022-03-18 | 2022-07-28 |
 | [Amnesia](https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 4:01 | 2022-03-18 |  |
 | [Amor Regresa \- Ska](https://open.spotify.com/track/3EttA2xMqB72QD0QKfdNFR) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi), [La Carlota](https://open.spotify.com/artist/2vAqVndpW6XjSNHwNr1mIS) | [Amor Regresa \(Ska\)](https://open.spotify.com/album/4JyL7lepDPnxaVkZBY22mO) | 3:17 | 2022-09-09 |  |
@@ -144,6 +144,7 @@
 | [Si Tu Boquita Fuera](https://open.spotify.com/track/32CYkcjOSCbiIoBeBheUx7) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [96 \- 05](https://open.spotify.com/album/0pwnHJD1my6WUATRg69Eag) | 2:11 | 2022-03-18 |  |
 | [Si Tu Boquito Fuera](https://open.spotify.com/track/662E0RMa6XGHqctB0F4SpW) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [96\-05](https://open.spotify.com/album/0K4u6F523q9hHjIZyduSK7) | 2:13 | 2022-03-18 | 2022-07-29 |
 | [Siempre Fingiste Amarme](https://open.spotify.com/track/6jJ2wofOeao3iQDxs2KkLp) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Siempre Fingiste Amarme](https://open.spotify.com/album/2TBWXP0umyVSYynjsaXwNw) | 3:57 | 2023-07-07 |  |
+| [Siente El Movimiento](https://open.spotify.com/track/1fzfB7aBWRIYBHVRD19Lp3) | [La Santísima Voladora](https://open.spotify.com/artist/4gRK50jqC4k8yGS2aEG2F0) | [Siente El Movimiento](https://open.spotify.com/album/10UTgoc7mdWI0YRpNq5MTC) | 3:06 | 2023-07-21 |  |
 | [Sin Rencor](https://open.spotify.com/track/5XlcdeVwKUz0iZhPQTeh0c) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 3:52 | 2022-03-18 | 2023-06-10 |
 | [Sirvala más](https://open.spotify.com/track/2JSEOpKXYQiIEkQNw3NP3p) | [THE MARGINADOS 2 TONE FROM L\. A.](https://open.spotify.com/artist/567IFwIs3pkx9T8AKHqf76) | [Sirvala más](https://open.spotify.com/album/6FswQydKb5MDSQ2vsEDeSj) | 3:44 | 2023-03-17 |  |
 | [Ska Voovee Boobie Baby](https://open.spotify.com/track/5Eq47jirNdRQFGilmUJMVe) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Unidad, Cerveza y Ska](https://open.spotify.com/album/54LTjGhFJR2kn8gqlQTgGd) | 3:23 | 2022-03-18 | 2023-05-20 |

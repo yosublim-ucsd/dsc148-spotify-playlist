@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Quavo, King Von, and more\. Cover: Lil Tjay
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,512 likes - 49 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,555 likes - 49 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 29 | [Watermelon Automobile \(feat\. Saba & MAVI\)](https://open.spotify.com/track/3TRnftLxQ1MCHURtdAhThW) | [Valee](https://open.spotify.com/artist/4hRL2QmahOYxXNmNKtG1AI), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [Watermelon Automobile \(feat\. Saba & MAVI\)](https://open.spotify.com/album/7cV2R6BHfCov2U6fbmnxcP) | 3:23 |
 | 30 | [Free Thugger](https://open.spotify.com/track/3dq4ieT4dscMyKFrTDZXTA) | [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [Free Thugger](https://open.spotify.com/album/0lNaXIo308coukzK8PQxQO) | 2:38 |
 | 31 | [Point Me 2 Tha Bitches](https://open.spotify.com/track/3hOJOKw2DrcGbXOJ0veQc2) | [Rucci](https://open.spotify.com/artist/7q836WTO8OHUS85E2RyxxA) | [Point Me 2 Tha Bitches](https://open.spotify.com/album/3qHQPDEM2EKf80NjYTjBML) | 2:43 |
-| 32 | [PB&J](https://open.spotify.com/track/3piCGEtCAqwlUsbVYI3g2Y) | [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [PB&J](https://open.spotify.com/album/0iaBDYXLCmXrN6xUbJS7nJ) | 3:33 |
+| 32 | [PB&J \(feat\. Young Nudy\)](https://open.spotify.com/track/3piCGEtCAqwlUsbVYI3g2Y) | [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [PB&J \(feat\. Young Nudy\)](https://open.spotify.com/album/0iaBDYXLCmXrN6xUbJS7nJ) | 3:33 |
 | 33 | [Parkour](https://open.spotify.com/track/1Guj49apIeoq7N1ZWnTFCS) | [Erick the Architect](https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK) | [Parkour](https://open.spotify.com/album/2nVf4do9ukMtdrATLjSyfU) | 3:21 |
 | 34 | [Stop Playin'](https://open.spotify.com/track/2z2ctSksThQQiV113DvZNL) | [G Perico](https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb) | [Stop Playin'](https://open.spotify.com/album/6ZBALbgsms8DpV0nDxm45q) | 2:06 |
 | 35 | [Pz Don't Trip](https://open.spotify.com/track/6w8Q0SRDEk7dtucfFbpzoq) | [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ), [Kal Banx](https://open.spotify.com/artist/2TYRz7cFNZNPLUWRijsJNL), [Charlie Heat](https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw) | [Pz Don't Trip](https://open.spotify.com/album/0cgRf1y5HysQvQJs63yLDp) | 2:59 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 48 | [No Use \(feat\. 03 Greedo\)](https://open.spotify.com/track/4UbFDOCUqk3e9OYz1s2Ssy) | [Shady Blu](https://open.spotify.com/artist/0n23tjBSiGh9chOSKpgoqa), [03 Greedo](https://open.spotify.com/artist/0FtsMKmZEq8fBWqdSOWtqp) | [No Use \(feat\. 03 Greedo\)](https://open.spotify.com/album/4yeBzIQ3h6gpvHYXOD5qUp) | 2:21 |
 | 49 | [too many times](https://open.spotify.com/track/4Z9evC61ZmIE8axxRJwyfR) | [Pote Baby](https://open.spotify.com/artist/1K2CImmhCW2QVfppHo4Nfj) | [Yard Work Volume.1](https://open.spotify.com/album/7DH3BEDSzGVU4p7NjG8Jxu) | 3:20 |
 
-Snapshot ID: `MCwyMjIyZTFhNTM5ZTc3OWIwNGE5ZDMwMDNlZjE3NjA5NWY1NmI3YWNk`
+Snapshot ID: `MCw3YjNhNDM0NDRhMzM1YjA4YzJmMmU2NzJlZTc4OTQzMDEwZmNlOGY2`

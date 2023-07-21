@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wIBbVnPvie.md) - [plain]
 
 > She's everything\. He's just Ken\. Listen to the music from and inspired by Barbie, curated by Mark Ronson.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,682 likes - 24 songs - 1 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,463 likes - 24 songs - 1 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0wIBbVnPvie.md) - [plain]
 | 23 | [Take My Breath Away \- Love Theme from "Top Gun"](https://open.spotify.com/track/15MJ5NThPjj6xhPcts8MiY) | [Berlin](https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM) | [Top Gun \- Motion Picture Soundtrack \(Special Expanded Edition\)](https://open.spotify.com/album/6K8iDZW8jPaoiqSzFFebJA) | 4:15 |
 | 24 | [Barbie Girl](https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Aquarium \(Special Edition\)](https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm) | 3:17 |
 
-Snapshot ID: `MCw4OTBkYmNjOTQ4MjNlOGQwMmU0YjI4YzJjYTMzMDFmNDgyNzcxZTFh`
+Snapshot ID: `MCw1MDFiOGJlM2Q4YzZiMWQ3ZmQ5YWNlYTVkZGIxZDU3MzIwY2UwZjQw`

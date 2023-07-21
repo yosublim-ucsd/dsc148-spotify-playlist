@@ -2130,7 +2130,7 @@
       ],
       "date_added": "2023-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-21",
+      "date_removed": null,
       "duration_ms": 151160,
       "name": "Baby Mama",
       "url": "https://open.spotify.com/track/4Y60H8heDsEpQ2hin2g6V5"
@@ -8838,7 +8838,7 @@
       ],
       "date_added": "2023-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 133266,
       "name": "Fantasmi (feat. Geolier)",
       "url": "https://open.spotify.com/track/0uXDSAM6q44glALKnQQyqW"
@@ -19294,7 +19294,7 @@
       },
       "artists": [
         {
-          "name": "Matteo Paolillo - Icaro",
+          "name": "Matteo Paolillo",
           "url": "https://open.spotify.com/artist/1bzx15Bv1ioIaewP85ad5J"
         },
         {
@@ -25022,7 +25022,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 209062,
-      "name": "TANGO - Sanremo 2023",
+      "name": "TANGO",
       "url": "https://open.spotify.com/track/74cyFjvgjyiFiQ3QxszFWq"
     },
     {

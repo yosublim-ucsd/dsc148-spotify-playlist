@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU22bsRQFqzj.md) - [plain]
 
 > La musica è la tua marcia in più! 🏃 Hit dance e pop per le tue sessioni di cardio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,117 likes - 75 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,152 likes - 75 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU22bsRQFqzj.md) - [plain]
 | 74 | [No Sleep](https://open.spotify.com/track/7uJFTdBaXuc1618uRuq7uB) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [No Sleep](https://open.spotify.com/album/6mf8HZ3jitYeIlejz9Lq9p) | 2:50 |
 | 75 | [Head Shoulders Knees & Toes \(feat\. Norma Jean Martine\)](https://open.spotify.com/track/6i7zAdNhzUN2k1HcrBxPHG) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Quarterhead](https://open.spotify.com/artist/2h6hAChW74hB9HvrNoK1RY), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Head Shoulders Knees & Toes \(feat\. Norma Jean Martine\)](https://open.spotify.com/album/1MZ3ZQqAV3wFjHjaOe6KFz) | 2:36 |
 
-Snapshot ID: `MCw3NWZjYjc3OWNiNWQ3YjBkNDM4NzljZDEwZjk3ZjUzYTk5NjQwNzU5`
+Snapshot ID: `MCw3OGIxNTg4M2FmZWRjZTQ0YTFkZDIwZDRiMDQ5N2NiNTYwMWJjODkz`

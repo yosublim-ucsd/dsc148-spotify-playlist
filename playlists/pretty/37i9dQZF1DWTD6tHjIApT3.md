@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 
 > 日本の女性アーティストの歌を特集。cover: フジタ カコ
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,139 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,157 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6tHjIApT3.md) - [plain]
 | 99 | [ひこうき雲 \- 2022 mix](https://open.spotify.com/track/3qM1bwuq5LssWDoHUNZAri) | [Yumi Arai](https://open.spotify.com/artist/5W7F9IM2vsR9EDCk5T2Uqz) | [ユーミン万歳!〜松任谷由実50周年記念ベストアルバム〜](https://open.spotify.com/album/0GDxYVgLWDfGYgPUbuZonO) | 3:25 |
 | 100 | [うそつき](https://open.spotify.com/track/5IBNmCgZO97b2wqgh8dQSf) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [うそつき](https://open.spotify.com/album/2JDz624JdZ8McGoKJAXPvX) | 4:57 |
 
-Snapshot ID: `MCw0Y2RjZmY2NzM3NzFhNzVkZjFjNjRmZDdhZjExYmY4NzliMTMzNjQ0`
+Snapshot ID: `MCw0MmFkZDY5MzQ0Y2UwYjgzYTk0ODhjYjlhMjMyNWQwNjA0YzAzZjUz`

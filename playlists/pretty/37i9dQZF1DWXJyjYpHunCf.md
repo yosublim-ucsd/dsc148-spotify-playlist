@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Noah Kahan
 
-[Spotify](https://open.spotify.com/user/spotify) - 836,647 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 836,939 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 | 99 | [If I Didn’t Love You](https://open.spotify.com/track/2Zy7SjGT12yzvFohfAKWDq) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [If I Didn’t Love You](https://open.spotify.com/album/3dS67NuXz81GhplmI45iEG) | 4:06 |
 | 100 | [The Hunt](https://open.spotify.com/track/1WPDc6h6igXcZMZn5zjjfq) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [The Hunt](https://open.spotify.com/album/0yVQpUiw9Zwc8magSmNf7h) | 3:22 |
 
-Snapshot ID: `MCw0NTFkZTIxMGMyMTBlYjVkN2FkZDdiNjEzOGYwM2VkNTgwY2I1NmRj`
+Snapshot ID: `MCw1ZTMwMTQwMTM4MmVkMzE5YzkwNzUxNjE4MTE1ODAxOTE1MDk4MGVi`

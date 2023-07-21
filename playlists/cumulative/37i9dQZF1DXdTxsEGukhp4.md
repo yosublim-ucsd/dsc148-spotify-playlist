@@ -4,7 +4,7 @@
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: 水曜日のカンパネラ
 
-186 songs - 10 hr 46 min
+188 songs - 10 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [slow down](https://open.spotify.com/track/7u7oJiGYQZ2Xef6hUKNZdb) | [Ame lil melo](https://open.spotify.com/artist/0ehnoPffH5qmZNAsvEm7MN), [LUSH CARABINER](https://open.spotify.com/artist/3qKsj7tkFGpQazRVfvxTsu) | [slow down](https://open.spotify.com/album/6Xru0jm5NpwERXQfG5eqM8) | 2:33 | 2023-03-30 | 2023-07-13 |
 | [something about kiss](https://open.spotify.com/track/6Zdso9pywHkrYbnsRFlWLv) | [noa](https://open.spotify.com/artist/3YFWyQgtNl7SbZVu26hCRY) | [something about kiss](https://open.spotify.com/album/2ReKtitdhRxSgXiRvFJlh0) | 4:09 | 2023-06-15 |  |
 | [Starry Night](https://open.spotify.com/track/4Cas7ylKKk8heuXXBSgIO9) | [RUI](https://open.spotify.com/artist/5BAHcrY8MyM2wmIt8aspaW) | [Starry Night](https://open.spotify.com/album/4WO7X2WTA8pjxxKbqRB6Nw) | 4:01 | 2023-01-26 | 2023-02-24 |
+| [STRAND](https://open.spotify.com/track/61Vx7YHbVM6gUOcqdPJLY5) | [JJJ](https://open.spotify.com/artist/4BuaC48pvatn5gWSqV45cR), [KEIJU](https://open.spotify.com/artist/7K3bqkZs0SVUS9K13bnwHL) | [MAKTUB](https://open.spotify.com/album/1VJhOQJIMs0eARPnI2UTyr) | 3:32 | 2023-07-20 |  |
 | [Suki Lie](https://open.spotify.com/track/45h7ZIjSfrPbhbl7EgwKwh) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [ICHIJIKIKOKU](https://open.spotify.com/album/6Ah0YGqpd7Dg6zB35ojUQz) | 3:15 | 2023-04-20 | 2023-06-16 |
 | [Sure Thing \- Sped Up](https://open.spotify.com/track/559SdaPI7mqy9IQiscuaMj) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sure Thing \(Sped Up\)](https://open.spotify.com/album/0IrjdFRneYtHj0CwmAphDT) | 2:30 | 2023-02-02 | 2023-02-24 |
 | [THE SOUND](https://open.spotify.com/track/2ovMFHvl5jWOZdhd9hL7uf) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [THE SOUND](https://open.spotify.com/album/4ZW5rXkLINHYqH2MIAhkP2) | 3:00 | 2023-02-23 | 2023-04-28 |
@@ -137,6 +138,7 @@
 | [Work from Home \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/4tCtwWceOPWzenK2HAIJSb) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [7/27 \(Deluxe\)](https://open.spotify.com/album/0pF0oyuPNdOObniB1Ng0kW) | 3:34 | 2023-06-08 |  |
 | [Yoidoreshirazu](https://open.spotify.com/track/26zbAdTJC4vqqpGwSzvh8Q) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [Yoidoreshirazu](https://open.spotify.com/album/32sf8CyAb7MtRbVTDJrWQA) | 2:14 | 2023-01-26 |  |
 | [いつのまに](https://open.spotify.com/track/1VZMySTb2Sqs30c0FaO9H0) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [いつのまに](https://open.spotify.com/album/6fWI3YkfSUUL5QY1yfTDyB) | 3:28 | 2023-01-26 | 2023-06-02 |
+| [ぎゅっとして、](https://open.spotify.com/track/7EgrXPzuIqfr4a3soz8Dwk) | [YUTORI\-SEDAI](https://open.spotify.com/artist/74ZODUscO84OjAiQwj4V9G) | [ぎゅっとして、](https://open.spotify.com/album/4LzD5Xdc0hq088OeuA0JCH) | 3:21 | 2023-07-20 |  |
 | [ぐらでーしょん](https://open.spotify.com/track/7a0XxV7vR9HwvbdhwQ5KSE) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd), [北澤ゆうほ](https://open.spotify.com/artist/16GairTgKufSywJwInf6O7) | [ぐらでーしょん](https://open.spotify.com/album/1YF3kyuNc1dpRorHlxqRu1) | 3:17 | 2023-04-03 | 2023-05-02 |
 | [ここにいよう](https://open.spotify.com/track/5krCrPrv0xU9ubHYRHLv6l) | [GADORO](https://open.spotify.com/artist/3PtANl80M9tOLrmGSdNLV2) | [ここにいよう](https://open.spotify.com/album/0DZRNjF72FT7w9plpPpZlK) | 3:43 | 2023-02-23 | 2023-03-31 |
 | [こころのこり](https://open.spotify.com/track/1cqKVIGbfrsy3BdQK0atQ8) | [Brown Basket](https://open.spotify.com/artist/2mJfqewA84cfTX6sUPIyna) | [ROLLING](https://open.spotify.com/album/1HFBae3WUx2X2RpKY87nEI) | 3:36 | 2023-04-27 | 2023-06-09 |
@@ -175,7 +177,7 @@
 | [万々歳](https://open.spotify.com/track/4ZPl090JODD2F8Yz0KAQV4) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [万々歳](https://open.spotify.com/album/77XpTzNk0bmSVsbsXl8c7R) | 3:58 | 2023-01-26 | 2023-04-28 |
 | [会いたいわ](https://open.spotify.com/track/5g1SvaEtzlKEqre9FbPQEc) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [life ep](https://open.spotify.com/album/2bJPkcW3Zi3tWizPcKiOkp) | 4:28 | 2023-01-26 | 2023-02-03 |
 | [俺は最高!!!](https://open.spotify.com/track/1ufjsJqgxVEugpPstfj4Qk) | [Hiromi Go](https://open.spotify.com/artist/0MYnDCY3ae0nSzoCmQiKzh) | [俺は最高!!!](https://open.spotify.com/album/6LaYjcUU8f4Y8aa4FNeQ1C) | 3:45 | 2023-06-08 | 2023-06-16 |
-| [凡人様](https://open.spotify.com/track/7HAHK002tQfVc9M8n6C7je) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [Gallery](https://open.spotify.com/album/5hLfzMZGHXrYAHA9UTxi1U) | 4:11 | 2023-06-08 |  |
+| [凡人様](https://open.spotify.com/track/7HAHK002tQfVc9M8n6C7je) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [Gallery](https://open.spotify.com/album/5hLfzMZGHXrYAHA9UTxi1U) | 4:11 | 2023-06-08 | 2023-07-21 |
 | [名前は片想い](https://open.spotify.com/track/0o3zVVGJkb1QIOMF9xySiu) | [indigo la End](https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU) | [名前は片想い](https://open.spotify.com/album/6S12v6NjkFLwQwLxxavHY9) | 3:33 | 2023-02-16 | 2023-07-14 |
 | [君の目も鼻も口も顎も眉も寝ても覚めても超素敵!!!](https://open.spotify.com/track/6Ovj4KMDE0X326qnynqQSO) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [恋を知っているすべてのあなたへ](https://open.spotify.com/album/6KE5rQedfMgEGFShffAQDd) | 3:36 | 2023-04-13 | 2023-06-30 |
 | [夏恋センセイション](https://open.spotify.com/track/4jWIn8qaXFAIBssMhJQMzu) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [夏恋センセイション](https://open.spotify.com/album/6N9JXrnY5nuf74KK25a4CN) | 2:16 | 2023-07-12 |  |
@@ -184,7 +186,7 @@
 | [大切な君へ](https://open.spotify.com/track/1w4kMFSzcpQj2knJGfF84s) | [Sonoko Inoue](https://open.spotify.com/artist/71hQB5jxdNiHk5gzZRhicQ) | [\#17](https://open.spotify.com/album/07ahKwKVmoFvybSvq8RvSa) | 4:15 | 2023-01-26 | 2023-02-10 |
 | [妄想アスパルテーム \- feat\. picco,初音ミク](https://open.spotify.com/track/5dcHPVb27nDK94mEFSSpug) | [ESHIKARA](https://open.spotify.com/artist/4VuUJ2V2aRxfQRlRdpC1ih), [picco](https://open.spotify.com/artist/5Ag3wuPOl3y5hJgqhhqVVM), [初音ミク](https://open.spotify.com/artist/0UlXuNuMZiSeVLFjhKQPIP) | [妄想アスパルテーム \(feat\. picco,初音ミク\)](https://open.spotify.com/album/1Cj7pQrNMkiO6dVTLT3uK4) | 2:27 | 2023-04-27 | 2023-05-26 |
 | [平成の乙女 feat.KENTY‐GROSS](https://open.spotify.com/track/0N1NEvQDYmG433dDJvIX3c) | [MINMI](https://open.spotify.com/artist/151w10AZKmL4a6iPwgxap3), [KENTY GROSS](https://open.spotify.com/artist/1FTagLQhl5cBi1focddx1e) | [MOTHER](https://open.spotify.com/album/1vXRAcEl2fOXHdjjwbTz0f) | 5:32 | 2023-03-30 | 2023-06-16 |
-| [愛してた\(feat.れん\)](https://open.spotify.com/track/2A9EvUkIWDDKWV6rcsM72a) | [Naoto Inti Raymi](https://open.spotify.com/artist/77SZmOd2zA3L3n9x697iWb), [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [愛してた\(feat.れん\)](https://open.spotify.com/album/0oeFfl5KVoC0EdDQisDLlt) | 4:23 | 2023-05-25 |  |
+| [愛してた\(feat.れん\)](https://open.spotify.com/track/2A9EvUkIWDDKWV6rcsM72a) | [Naoto Inti Raymi](https://open.spotify.com/artist/77SZmOd2zA3L3n9x697iWb), [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [愛してた\(feat.れん\)](https://open.spotify.com/album/0oeFfl5KVoC0EdDQisDLlt) | 4:23 | 2023-05-25 | 2023-07-21 |
 | [愛してみてよ減るもんじゃないし](https://open.spotify.com/track/4sCiH4LCVfHsMUmiK6GNGS) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [愛してみてよ減るもんじゃないし](https://open.spotify.com/album/19I3Qy0znrTCbXxoJLGOGH) | 3:18 | 2023-04-20 | 2023-06-02 |
 | [日常革命](https://open.spotify.com/track/1Ej4gvxiMMXtD8uDnADCTT) | [neguse.](https://open.spotify.com/artist/7jiFTNRWSw8zYgUj9wNJld) | [ワンダーランドに愛情を!](https://open.spotify.com/album/52s8JzniZA0dZA1D6sQOih) | 4:33 | 2023-04-06 | 2023-04-21 |
 | [燈](https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [燈](https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz) | 3:58 | 2023-07-13 |  |

@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 112941,
       "name": "$ix $ix",
       "url": "https://open.spotify.com/track/4b3gJ7fIKeo5Q3v5OSp9Ta"
@@ -748,7 +748,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 195242,
       "name": "Dawson's Creek",
       "url": "https://open.spotify.com/track/4J8kPd5rTr6KpcWhPcj3Ij"
@@ -824,6 +824,24 @@
       "duration_ms": 93622,
       "name": "DEMONS",
       "url": "https://open.spotify.com/track/7nYGVm34J2cSTYs55sEVNo"
+    },
+    {
+      "album": {
+        "name": "DETONATE",
+        "url": "https://open.spotify.com/album/45qbEnuQ6ar7MxS3JBz71N"
+      },
+      "artists": [
+        {
+          "name": "MONOWIRE",
+          "url": "https://open.spotify.com/artist/0ssyYSlMlTH7CWxonEhr12"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110000,
+      "name": "DETONATE",
+      "url": "https://open.spotify.com/track/09qoXB3aBTUINgb6wyONrz"
     },
     {
       "album": {
@@ -962,7 +980,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 199131,
       "name": "DO MY DANCE",
       "url": "https://open.spotify.com/track/1j9wfEnJlZtcv5Lb9n1ZWF"
@@ -1355,6 +1373,24 @@
     },
     {
       "album": {
+        "name": "Gangsta Ta",
+        "url": "https://open.spotify.com/album/49HgB6zsI20Np03wL6rNYd"
+      },
+      "artists": [
+        {
+          "name": "Kaito Shoma",
+          "url": "https://open.spotify.com/artist/3Tv1UzQAvn0v0hKTxisXnR"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "Gangsta Ta",
+      "url": "https://open.spotify.com/track/2GtB5pNYM70ndnTaGTJU9g"
+    },
+    {
+      "album": {
         "name": "Gangsta's Paradise",
         "url": "https://open.spotify.com/album/0fYctMs4EvoEqzDh8Kmg5g"
       },
@@ -1432,6 +1468,24 @@
       "duration_ms": 57244,
       "name": "Gotta Return Some Videotapes",
       "url": "https://open.spotify.com/track/6KgD9qmWE05bMPVGhFQNzL"
+    },
+    {
+      "album": {
+        "name": "GRAVEYARD",
+        "url": "https://open.spotify.com/album/5FLHVtZfUWswgR6WP2db4g"
+      },
+      "artists": [
+        {
+          "name": "BALGUR",
+          "url": "https://open.spotify.com/artist/3rDYe7oHDuFXqhC4RORn7G"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111600,
+      "name": "GRAVEYARD",
+      "url": "https://open.spotify.com/track/1MeMYjaQmo5bXQS2YP4i6U"
     },
     {
       "album": {
@@ -1663,6 +1717,28 @@
     },
     {
       "album": {
+        "name": "HOLLOW!",
+        "url": "https://open.spotify.com/album/6cSgx3g5fRwAx6MaAYp4Oz"
+      },
+      "artists": [
+        {
+          "name": "fkbambam",
+          "url": "https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6"
+        },
+        {
+          "name": "6YNTHMANE",
+          "url": "https://open.spotify.com/artist/24YUNOEuu3kf4OOtC8cQE5"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97879,
+      "name": "HOLLOW!",
+      "url": "https://open.spotify.com/track/3Xoev7ljloR0PYQu5FlzHz"
+    },
+    {
+      "album": {
         "name": "How It Goes",
         "url": "https://open.spotify.com/album/4KO7P5KriiKG9NxEvNetyU"
       },
@@ -1681,6 +1757,28 @@
     },
     {
       "album": {
+        "name": "HYSTERICAL",
+        "url": "https://open.spotify.com/album/3xiGbfnRgggZopEiWWX5tH"
+      },
+      "artists": [
+        {
+          "name": "LILAAX",
+          "url": "https://open.spotify.com/artist/3mKJdXTKRUXdNj8f8GrsLz"
+        },
+        {
+          "name": "$wedPR0D",
+          "url": "https://open.spotify.com/artist/4zbnM40l9xbOXRUlJWBgJ1"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137432,
+      "name": "HYSTERICAL",
+      "url": "https://open.spotify.com/track/6aHr2pS02pja61XXgHXyG1"
+    },
+    {
+      "album": {
         "name": "i love techno",
         "url": "https://open.spotify.com/album/62nDfCUYCcRXB0vZNlyJ1f"
       },
@@ -1692,7 +1790,7 @@
       ],
       "date_added": "2023-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 98223,
       "name": "i love techno",
       "url": "https://open.spotify.com/track/5QaUJb1TT12DtUWc7TyKq7"
@@ -1978,6 +2076,32 @@
       "duration_ms": 144019,
       "name": "knockin'",
       "url": "https://open.spotify.com/track/0OF8RxZPP7HZwkaPHoRqj8"
+    },
+    {
+      "album": {
+        "name": "Safe House",
+        "url": "https://open.spotify.com/album/20ZYCQ7oh70khsqTG33rRm"
+      },
+      "artists": [
+        {
+          "name": "Danny Towers",
+          "url": "https://open.spotify.com/artist/4e5oZygHeeRoTXc00gYWiu"
+        },
+        {
+          "name": "DJ Scheme",
+          "url": "https://open.spotify.com/artist/1m7LSAMIB1BErIHYSOn32W"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160309,
+      "name": "Kreepin (feat. Denzel Curry)",
+      "url": "https://open.spotify.com/track/2nFrlrdIJG0mRi1rTWTLIx"
     },
     {
       "album": {
@@ -2513,6 +2637,28 @@
     },
     {
       "album": {
+        "name": "MURDER FUNK",
+        "url": "https://open.spotify.com/album/20c20ohwMuZ3vnQ7pecFmo"
+      },
+      "artists": [
+        {
+          "name": "Kiraw",
+          "url": "https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4"
+        },
+        {
+          "name": "ICHIRO",
+          "url": "https://open.spotify.com/artist/5MUljcWL3VylwkBxs9xw0p"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101157,
+      "name": "MURDER FUNK",
+      "url": "https://open.spotify.com/track/4k5JXi9LFYoYXSraIXiLCw"
+    },
+    {
+      "album": {
         "name": "Murder In My Mind",
         "url": "https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y"
       },
@@ -2707,6 +2853,24 @@
     },
     {
       "album": {
+        "name": "OL\u00ca-OL\u00ca",
+        "url": "https://open.spotify.com/album/0GXVZJpGY2kpDr1EEuD03a"
+      },
+      "artists": [
+        {
+          "name": "DJ VIOLENCE",
+          "url": "https://open.spotify.com/artist/6lJ7jDXDZF5bhkRTNFk00m"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75677,
+      "name": "OL\u00ca-OL\u00ca",
+      "url": "https://open.spotify.com/track/1WoqsfjwDDlNpe3x45M2He"
+    },
+    {
+      "album": {
         "name": "One Chance",
         "url": "https://open.spotify.com/album/60MO7zUtQgy8pFxyDD43yY"
       },
@@ -2812,7 +2976,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 168562,
       "name": "PARALLAX",
       "url": "https://open.spotify.com/track/2C9PO9JCj3phRCPAJjTV1j"
@@ -2874,7 +3038,7 @@
       ],
       "date_added": "2023-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 163469,
       "name": "Phonk Nation",
       "url": "https://open.spotify.com/track/2IQJkefhgO2u8x9XPKMZQc"
@@ -2914,10 +3078,28 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 175949,
       "name": "Please Leave",
       "url": "https://open.spotify.com/track/2isrUMb1HgRyruhVpecl8l"
+    },
+    {
+      "album": {
+        "name": "POTENTIAL",
+        "url": "https://open.spotify.com/album/5QAXT0nuWjEr5ycgFLC83Z"
+      },
+      "artists": [
+        {
+          "name": "KUTE",
+          "url": "https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130500,
+      "name": "POTENTIAL",
+      "url": "https://open.spotify.com/track/5RHXmzn9HKFHZfz6MzMmJL"
     },
     {
       "album": {
@@ -3102,7 +3284,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-11",
+      "date_removed": null,
       "duration_ms": 97846,
       "name": "REI DO BRASIL",
       "url": "https://open.spotify.com/track/6Seth37t5I69wFbuGFrsiG"
@@ -3486,7 +3668,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 132413,
       "name": "SHEEESH",
       "url": "https://open.spotify.com/track/2vCJT0We2y2065mfddct7b"
@@ -3966,7 +4148,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 88476,
       "name": "Td Up",
       "url": "https://open.spotify.com/track/1ycQgsJvs81PKvCx1nVjSw"
@@ -4284,10 +4466,28 @@
       ],
       "date_added": "2023-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 165685,
       "name": "Undead",
       "url": "https://open.spotify.com/track/3GDRUoekeEGhN1oq3vELoh"
+    },
+    {
+      "album": {
+        "name": "Valiant Knight",
+        "url": "https://open.spotify.com/album/0DCfvCLlQ8Qq62j407XfLQ"
+      },
+      "artists": [
+        {
+          "name": "glichery",
+          "url": "https://open.spotify.com/artist/7xD76cR2sg2mAH29zBGnks"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125538,
+      "name": "Valiant Knight",
+      "url": "https://open.spotify.com/track/68m3oQr33jFQQSzTlf5Qhl"
     },
     {
       "album": {
@@ -4552,7 +4752,7 @@
       ],
       "date_added": "2023-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 128493,
       "name": "WRAITH",
       "url": "https://open.spotify.com/track/5Q9ZeDggWs7WFsIHBYXW6U"

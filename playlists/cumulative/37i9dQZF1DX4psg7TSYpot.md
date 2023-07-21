@@ -4,7 +4,7 @@
 
 > Acoustic pop songs for chill summer days or nights.
 
-169 songs - 9 hr 20 min
+170 songs - 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,8 @@
 | [In The Meantime](https://open.spotify.com/track/36bfoyLUV3h3UXZ7thFMhb) | [Nora Levario](https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw) | [In The Meantime](https://open.spotify.com/album/1th9BtaPuSyzyXHcXvqIZk) | 2:58 | 2022-03-10 |  |
 | [Irreplaceable](https://open.spotify.com/track/04dqYNkXUPAVc9ZfHYicW6) | [Zak Manley](https://open.spotify.com/artist/7lPHtt1VkCRiYgDji7FCq2) | [Irreplaceable](https://open.spotify.com/album/597cDRdmbPhqWq8GpaJk1o) | 3:09 | 2022-03-10 |  |
 | [Is This Love](https://open.spotify.com/track/0fBJCJyrMSnX7vZrvXKovG) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Is This Love](https://open.spotify.com/album/49R4sdFgr1sHH6RXXRdhPU) | 4:04 | 2022-03-10 | 2023-07-16 |
-| [Is This Love](https://open.spotify.com/track/4WYpFaBnPCxIw30nlc77XD) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [APART](https://open.spotify.com/album/7i97vd4smLer2gGBSvfjK6) | 4:04 | 2023-06-22 |  |
+| [Is This Love](https://open.spotify.com/track/0mu7b8QUACHrd6SzQHWhxy) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [Magic](https://open.spotify.com/album/2GZLxm0djV5NUNdes4kYv0) | 4:04 | 2023-06-22 |  |
+| [Is This Love](https://open.spotify.com/track/4WYpFaBnPCxIw30nlc77XD) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [APART](https://open.spotify.com/album/7i97vd4smLer2gGBSvfjK6) | 4:04 | 2023-06-22 | 2023-07-21 |
 | [Issues \- Acoustic](https://open.spotify.com/track/30AOB0nWOlkklLWXRLGjk5) | [Sara Farell](https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV) | [Issues \(Acoustic\)](https://open.spotify.com/album/4FY4L6DTrO5Z54usj8ZAT8) | 3:09 | 2022-03-10 | 2023-05-24 |
 | [Kiss Me \(Acoustic Cover\)](https://open.spotify.com/track/2j5pdzMKWf8eWNkNEjD6Ls) | [Penny Sweet](https://open.spotify.com/artist/0hZthAp1iTcXizd63szbku) | [Kiss Me \(Acoustic Cover\)](https://open.spotify.com/album/7i2px5Ba5T02NAwKdSNAW9) | 3:07 | 2023-05-23 | 2023-06-10 |
 | [Kiss the Girl](https://open.spotify.com/track/3ES0Q2d2dvNyPNGAtJVUqe) | [Brent Morgan](https://open.spotify.com/artist/272dr7ToE0VRsdxXlrx3PV) | [Kiss the Girl](https://open.spotify.com/album/6Rti5BJQ6LO7psnYtmUSI8) | 2:10 | 2022-03-10 | 2022-08-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 
 > Disfruta del más fino R&B creado en el continente y España\. Legallyrxx en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,776 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,825 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqxfWN3raU3.md) - [plain]
 | 99 | [ESQUE TÚ](https://open.spotify.com/track/3k5G92BpkhWVgNcZxrvkC8) | [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0), [El Santi](https://open.spotify.com/artist/6yhu1sXI2wFhro4s6OC75X) | [ESQUE TÚ](https://open.spotify.com/album/7iqzuLGUTuOXua0oKK9MP8) | 3:05 |
 | 100 | [A Mi Ritmo](https://open.spotify.com/track/51h83YT521kYxTLng0FyRv) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [A Mi Ritmo](https://open.spotify.com/album/0kZuOQA9W3hC6j3nhYxuUX) | 3:06 |
 
-Snapshot ID: `MCw2YjNiNWRmMDU2NDJiMTI1ZTBmNjk2MzQyOGQ3NTM2YzNiMWJiN2M2`
+Snapshot ID: `MCw4NDY2YWZjMWI1ZDFlMDNmMTRkNDQ5Y2VmYzA1MmRlZTMyZWY0YmMx`

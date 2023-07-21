@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 > Illuminating Asian artists everywhere & celebrating South Asian Heritage Month! Cover: Rhea Raj.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274,129 likes - 150 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 274,139 likes - 150 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 | 149 | [Billie Jean \- Spotify Singles](https://open.spotify.com/track/32vQdI6FztUhEAkHW4Alul) | [Mad Tsai](https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB) | [Spotify Singles](https://open.spotify.com/album/7Dl3AcJZRTySXqXXUUY9eQ) | 4:08 |
 | 150 | [the american dream](https://open.spotify.com/track/0eqRXQyzoNrwnDEvcQyXSR) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [the american dream](https://open.spotify.com/album/1eWQEBUje4iECPF2LNqw51) | 3:47 |
 
-Snapshot ID: `MCw5YzQxNDJhZTJhNTQ1ODY4NDFmYTM3ZDI2NzU1YTM1NjA3Y2M1MjU3`
+Snapshot ID: `MCxjZGQ1MTlkMmUzNDA1ZDcyOTYyYmYyYjEwNjhlMWQwM2JhNmE0OWM0`

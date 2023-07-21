@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 468,155 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 468,290 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 | 49 | [YOU AND I](https://open.spotify.com/track/1B82Lto0ciRfVwtTG3scSl) | [dori](https://open.spotify.com/artist/4Db1gte7TUAeZyRdo4FLE7) | [YOU AND I](https://open.spotify.com/album/5YK3qLjNjkCNx3OzQf5oIV) | 2:41 |
 | 50 | [Peach](https://open.spotify.com/track/3hbi6hayJ6OibzGe3fWLwf) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [The Spring of Twenty](https://open.spotify.com/album/2DSxe9W0Mv0IU2YMAbljYb) | 3:10 |
 
-Snapshot ID: `MCw4YThjNjdjYjA5ZTcyNTc1MjY0ODdlNTQzN2EzMjZhNDEyOTBjYTdk`
+Snapshot ID: `MCxhOTY4ZmU5NDgzOWE5NTUwMzNiYTMyZTk3ZmVlNjkyMDA1YTcwN2Mz`

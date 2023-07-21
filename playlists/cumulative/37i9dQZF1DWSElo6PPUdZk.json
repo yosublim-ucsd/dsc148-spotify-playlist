@@ -1031,6 +1031,32 @@
     },
     {
       "album": {
+        "name": "Life Mere Wargi",
+        "url": "https://open.spotify.com/album/0dvqdE6NfoZB7FTFOpXReJ"
+      },
+      "artists": [
+        {
+          "name": "Jasmeen Akhtar",
+          "url": "https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C"
+        },
+        {
+          "name": "Mani Longia",
+          "url": "https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura"
+        },
+        {
+          "name": "Starboy X",
+          "url": "https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143414,
+      "name": "Taur",
+      "url": "https://open.spotify.com/track/7wk74Tjsm5TrWfiL2FMIWZ"
+    },
+    {
+      "album": {
         "name": "Tere Na Viahi",
         "url": "https://open.spotify.com/album/4YL1opCeVh4laO5NTAYKu4"
       },

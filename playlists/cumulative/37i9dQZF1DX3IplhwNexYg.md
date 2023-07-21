@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: The Last Dinner Party
 
-439 songs - 1 day 0 hr 44 min
+440 songs - 1 day 0 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -340,7 +340,8 @@
 | [She Loves Me Not](https://open.spotify.com/track/2NqRNsah7TakalaozEJUkB) | [Troi Irons](https://open.spotify.com/artist/6jWwWbLoxKthbM8C6pi9cI) | [She Loves Me Not](https://open.spotify.com/album/7vPYFd75wPqJn9UjIfFkhY) | 2:38 | 2022-04-01 | 2022-08-19 |
 | [She Loves Me Not](https://open.spotify.com/track/5HQqtwfb3UtZSJUzvoSiVl) | [Troi Irons](https://open.spotify.com/artist/6jWwWbLoxKthbM8C6pi9cI) | [She Loves Me Not](https://open.spotify.com/album/7CKujk9GsIiPldom4TUvZN) | 2:38 | 2021-07-16 | 2022-07-29 |
 | [Shitshow](https://open.spotify.com/track/1PX8nxFjgtuKgANbNNmYcJ) | [Ailbhe Reddy](https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn) | [Shitshow](https://open.spotify.com/album/2EroPweOR6Pi1Zy9eT907V) | 3:51 | 2022-11-18 | 2022-11-30 |
-| [Should I](https://open.spotify.com/track/5n2SP6R5k7LS3GdJEirPeM) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Should I](https://open.spotify.com/album/17tq1FC1vDQJkTRNCNYcXc) | 2:28 | 2023-05-18 |  |
+| [Should I](https://open.spotify.com/track/5n2SP6R5k7LS3GdJEirPeM) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Should I](https://open.spotify.com/album/17tq1FC1vDQJkTRNCNYcXc) | 2:28 | 2023-05-18 | 2023-07-21 |
+| [Should I](https://open.spotify.com/track/7pB8DoQuLCT6IbgSCXAmhG) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [I Am The Dog](https://open.spotify.com/album/0RjsbmAOQzWOq3fxQ002rX) | 2:28 | 2023-07-13 |  |
 | [Show & Tell](https://open.spotify.com/track/5lKLRqfjytzxOGJtqOZqxF) | [Queen Cult](https://open.spotify.com/artist/3UAgcbjWTEC0xcEZEYNrQt) | [Show & Tell](https://open.spotify.com/album/6rlVrcewSVgwBENyMbu5Hj) | 3:27 | 2022-02-04 | 2022-09-09 |
 | [Sinner](https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Sinner](https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt) | 2:56 | 2023-06-30 |  |
 | [Six\-Pack](https://open.spotify.com/track/1bSJ7EeizSSw8oa6g2qVSi) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Food for Worms](https://open.spotify.com/album/6A3JJrCJO2TXZ9Vfy3tIbW) | 3:51 | 2023-04-13 |  |

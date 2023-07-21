@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Cordae
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,268,002 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,268,359 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 | 99 | [Late Night \(feat\. Dende\)](https://open.spotify.com/track/5m7PMAzoPQiLPTpRNFQPSU) | [Deante' Hitchcock](https://open.spotify.com/artist/5REHfa3YDopGOzrxwTsPvH), [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | [Once Upon A Time](https://open.spotify.com/album/2S5o9AUgMBEKjlqZ5wOrbw) | 3:40 |
 | 100 | [Goner!](https://open.spotify.com/track/7cmR3b3IPNVgUoqivTJmtj) | [Trent the HOOLiGAN](https://open.spotify.com/artist/2LqdHOzQiJd0WRn0dcTDe9), [Deniro Farrar](https://open.spotify.com/artist/3xXtYXTUWYuJpJXub1Up5p), [Emani](https://open.spotify.com/artist/4V45KUnlhpjQQjsGuh0dVd), [Breanna Burks](https://open.spotify.com/artist/65RKpATWQlBu3TY2G9z9XF) | [ALLGASNOBRAKEZ!](https://open.spotify.com/album/1L5443W7z7PRMLuhgdjy1t) | 4:37 |
 
-Snapshot ID: `MCwwMmIzMjk1YjQzMDczYWU0MjdkN2M1MTJjODdiOTQ3NTkxNzczOWQ3`
+Snapshot ID: `MCxiMmY2YjU0MWFhNjg1YjAwNjhhMGM4ZGVlMjI2ODYzZTc2MTNjMDFi`

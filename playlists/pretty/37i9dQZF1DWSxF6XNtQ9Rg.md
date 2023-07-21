@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 
 > Solo hit rap da ascoltare in loop\. Cover: Lazza
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,972 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 185,054 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 | 5 | [TU MI HAI CAPITO \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/2tIyoiGw4F82z2C8zb7eZB) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [MADAME](https://open.spotify.com/album/7oF6ed3aSHU6aDD4MD3LIr) | 3:31 |
 | 6 | [Capri Sun](https://open.spotify.com/track/1XpmMe95dk9jh3zuOMpeU2) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Hustle Mixtape](https://open.spotify.com/album/6LmhYmD5q0vflzqQhkfeN1) | 3:19 |
 | 7 | [M' Manc \(con Geolier & Sfera Ebbasta\)](https://open.spotify.com/track/0MLu1cFYL4ikdRTdasCQT9) | [Shablo](https://open.spotify.com/artist/6hkKbkZGvAXuvle2FhCnxy), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [M' Manc \(con Geolier & Sfera Ebbasta\)](https://open.spotify.com/album/4LPEPv5dG2Cu5aceakd1cm) | 3:00 |
-| 8 | [CENERE \- Sanremo 2023](https://open.spotify.com/track/1YSlNly5I4GAGg2Toc3snK) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [CENERE](https://open.spotify.com/album/3jbwWq0IsEUjrQ6wBUqYzh) | 3:28 |
+| 8 | [CENERE](https://open.spotify.com/track/1YSlNly5I4GAGg2Toc3snK) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [CENERE](https://open.spotify.com/album/3jbwWq0IsEUjrQ6wBUqYzh) | 3:28 |
 | 9 | [Hace Calor \- Remix](https://open.spotify.com/track/3h043RAJ7tKaG1HDFeet6w) | [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU) | [Hace Calor \(Remix\)](https://open.spotify.com/album/1ScrZWEue2DdYU8aj9AiSF) | 4:07 |
 | 10 | [Pleasantville](https://open.spotify.com/track/4T7nI6RllPyFPXJtIAtC7l) | [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP) | [Suicidol](https://open.spotify.com/album/2eLcG0rEYCIvG9yKdE18e6) | 5:49 |
 | 11 | [Non Abbiamo Età](https://open.spotify.com/track/0NwuXciw6eQc4edjwSBnV3) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Potere](https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM) | 3:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSxF6XNtQ9Rg.md) - [plain]
 | 99 | [Drippin' in Milano](https://open.spotify.com/track/1TrjxEcRPHvaLF3saKCSs4) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Drippin' in Milano](https://open.spotify.com/album/0yAArQfNMOEnB5G3KvTFcU) | 2:39 |
 | 100 | [Phi](https://open.spotify.com/track/0E5bmLyxyiHsmc82D5gsiY) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [68 \(Till The End\)](https://open.spotify.com/album/1F6aVwr0raeSt5YT02hARW) | 2:54 |
 
-Snapshot ID: `MCxhNWRkMTlmODk4YjlkYmJjYmJhMzdmYmMyYTZmMDE1OTEzNjBhMDUy`
+Snapshot ID: `MCw0ZGQ2MzQzZjkwY2QzYzU0ZGExOTBiNzM1MzY4ZmVhZGM1M2M2Yjll`

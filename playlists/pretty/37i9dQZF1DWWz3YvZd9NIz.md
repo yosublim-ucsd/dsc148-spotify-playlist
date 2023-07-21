@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 
 > The best remixes of popular tracks!
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,363 likes - 70 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,760 likes - 70 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWz3YvZd9NIz.md) - [plain]
 | 69 | [Use Somebody](https://open.spotify.com/track/0zXKokbGrtZe67VxYJYwN0) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0), [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS) | [Use Somebody](https://open.spotify.com/album/092vyskf9htiWRdTiGtTel) | 2:54 |
 | 70 | [Gangsta's Paradise](https://open.spotify.com/track/571VWSyuIpAB7HqrbbfGBO) | [JNXD](https://open.spotify.com/artist/4by5ENA6ZMNCQkOX3RIh0G), [Carola](https://open.spotify.com/artist/00d3cwrk9aduzfVDCG0Hgp) | [Gangsta's Paradise](https://open.spotify.com/album/6Ycm7LjOFQOzM0BpmynbmX) | 2:55 |
 
-Snapshot ID: `MCw0ZjI0ZmZlMWQ0ZGUxZTE2NTc4ZWZhYzBkZGVlYzNhNzI4ZjFlNjQx`
+Snapshot ID: `MCwyZTBlMDU2YTI3YjlkODA4YzBhNmMxNGI3MzkwZDg5ZmFjZWY4NWZk`

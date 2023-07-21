@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGZAMYFDM8S.md) - [plain]
 
 > Keep calm with this mix of laidback, acoustic tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 292,722 likes - 125 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 292,774 likes - 125 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYGZAMYFDM8S.md) - [plain]
 | 124 | [First Defeat](https://open.spotify.com/track/32R0JVo7IU4UlhkU3yNvEc) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Ledges](https://open.spotify.com/album/1JwNRXyWu4PxK13mp51p8y) | 4:03 |
 | 125 | [I Know You Know Me \(With Matt Berninger\)](https://open.spotify.com/track/3nQbf8wfMOkKeLRe45kNFc) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE), [Matt Berninger](https://open.spotify.com/artist/27jRNjIvlUcGN7FBRDnqhp) | [I Know You Know Me \(With Matt Berninger\)](https://open.spotify.com/album/1nwWS8W1o0Q0CE4SL7m8tW) | 3:19 |
 
-Snapshot ID: `MCw3MzM1MzQ3MjM1YzY5Nzc2Yjk3ODk3ZTMzNzdjNmQxYTI2MGIzZDM4`
+Snapshot ID: `MCxlMWUxYTY1NGNmZDU1YjMxMzljYzlhNWY1NWQwMDM0MGJlZjA0OTRh`

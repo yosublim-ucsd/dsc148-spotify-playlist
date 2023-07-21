@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyV9fxDBL8dp.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5F6lyb9cFqB4nUBjCeerIa">Luiz de Assis</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 321 likes - 71 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 323 likes - 71 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyV9fxDBL8dp.md) - [plain]
 | 26 | [Feel The Vibes](https://open.spotify.com/track/3m2QnDXrOSPc0HTUYAAwwR) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT), [Spiritual](https://open.spotify.com/artist/3iLfHHQQYFPgsT3XE58LbJ) | [Lei da Atração](https://open.spotify.com/album/2eY60QSLUWHtgwGV3egQ0B) | 3:37 |
 | 27 | [Essência Pura](https://open.spotify.com/track/4b3NtZfP4stIhX4x0i5f1X) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Rústico](https://open.spotify.com/album/1Z5mDrjO4QZfOXXhbvFTUS) | 4:24 |
 | 28 | [Apenas um Instrumento](https://open.spotify.com/track/2jBAQgqdQWT5G0c4yBebR4) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt) | 5:02 |
-| 29 | [Há Babilônia](https://open.spotify.com/track/6EDx91ASTLq4b5WBl8b52N) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt) | 4:08 |
-| 30 | [Paciência](https://open.spotify.com/track/3xIuG7kBU8x07pOzkPVmvW) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Rústico](https://open.spotify.com/album/1Z5mDrjO4QZfOXXhbvFTUS) | 2:59 |
+| 29 | [Paciência](https://open.spotify.com/track/3xIuG7kBU8x07pOzkPVmvW) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Rústico](https://open.spotify.com/album/1Z5mDrjO4QZfOXXhbvFTUS) | 2:59 |
+| 30 | [Há Babilônia](https://open.spotify.com/track/6EDx91ASTLq4b5WBl8b52N) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt) | 4:08 |
 | 31 | [Avante](https://open.spotify.com/track/5rJ3s9LiQjY7qQCrUSWlZ9) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/1zYjXI6X8yFyiwU78mo4dt) | 3:30 |
 | 32 | [Homens de Rapina](https://open.spotify.com/track/0qiDadSGKarBklcLv6rWl2) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 3:39 |
 | 33 | [A Nuvem Passará](https://open.spotify.com/track/4DJFyJsqbJcE1Kxy5cClWP) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Quilombagem](https://open.spotify.com/album/1HHUMs91CqVaVPIBMKNYco) | 3:22 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyV9fxDBL8dp.md) - [plain]
 | 70 | [Pedra Que Não Foi Polida](https://open.spotify.com/track/1RakbO7PwbaRHhwAM5wQy3) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 3:21 |
 | 71 | [Vítima](https://open.spotify.com/track/7jMUhDGu6D02gtw5WgLfrz) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/3UkWdgm7zfxjyGBWYobQZy) | 4:03 |
 
-Snapshot ID: `MjgxNjIyNzUsMDAwMDAwMDA4ZmViMDczMzg0Yzg5MTcyMjQ0N2M1YmU2NGE2MWIxOQ==`
+Snapshot ID: `MjgxNjUwOTAsMDAwMDAwMDAzYzBkMWQ5OTRlMWNmOTVhZDRkYjdlNjUzNmQ1NzhiMA==`

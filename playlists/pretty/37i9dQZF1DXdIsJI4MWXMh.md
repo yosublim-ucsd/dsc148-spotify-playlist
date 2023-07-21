@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena!
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,440 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,474 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIsJI4MWXMh.md) - [plain]
 | 99 | [La Fotografía](https://open.spotify.com/track/5goxogFSwtXWkbNnpz6iqW) | [Los Rancheros de Plata](https://open.spotify.com/artist/0EerYBBDe5gk594U6qGNRK) | [Vuelve la Mezcla Perfecta](https://open.spotify.com/album/2BPdd9wGkShuGrRClT60ou) | 2:23 |
 | 100 | [Mátame a Besos](https://open.spotify.com/track/3ONpHZJC9UxDsWhjx04yVV) | [Los Halcones Negros](https://open.spotify.com/artist/3gKLNRsPFUsiUA1gk9tXyS) | [Alma Enamorada](https://open.spotify.com/album/2BoTjs0a7IgcKXQNQqJgdg) | 3:02 |
 
-Snapshot ID: `MCwxZWJhYWJhODJkYWJkZjM0ZWMzNTQ4ZTliNzk3ZmZkODdhZmI4OWNm`
+Snapshot ID: `MCw5MGVjYzAzYjdhOWE2NzlkNzUxY2VlMjNiYjJmYzc5MjEwOWU4NzJk`

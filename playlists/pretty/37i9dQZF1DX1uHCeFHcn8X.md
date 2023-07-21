@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uHCeFHcn8X.md) - [plain]
 
 > Mellow songs from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 991,201 likes - 250 songs - 15 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 991,935 likes - 250 songs - 15 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uHCeFHcn8X.md) - [plain]
 | 249 | [You Let Me Walk Alone](https://open.spotify.com/track/07qlsG6DYRLBbovwca9Vbr) | [Michael Schulte](https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq) | [Dreamer](https://open.spotify.com/album/2t0sI2bIbjfGv6UmjEG3LP) | 2:57 |
 | 250 | [Say You Love Me](https://open.spotify.com/track/71AATBHZGo82EnjZnG53Zx) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Tough Love](https://open.spotify.com/album/0AQPyk27yOeG8L4KmtJ1xP) | 4:17 |
 
-Snapshot ID: `MCxmNDI5ZThmNDIyZWQxZGQzMTk4ZTQ2NDkxMDg2ZDA2MTM1NTA3NWI1`
+Snapshot ID: `MCw1OGU4NjU0OTJlODA5MDg1MzdhMWViNTZhMjI1Y2Y2MmQwY2NkODQ0`

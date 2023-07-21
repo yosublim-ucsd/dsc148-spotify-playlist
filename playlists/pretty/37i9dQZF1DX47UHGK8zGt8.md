@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 
 > Músicas calminhas pra começar o dia bem relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 464,546 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 465,019 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 | 49 | [Mais Que Ontem](https://open.spotify.com/track/1KshLJaAFxRowOEKgdgk9D) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ), [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Quintal](https://open.spotify.com/album/6PlVPenyP7YINcDxcPjRfW) | 2:57 |
 | 50 | [Dia Clarear](https://open.spotify.com/track/7JQet6yCd8rZX3oeVGqAyx) | [Banda do Mar](https://open.spotify.com/artist/1Gu3ALcPEx3FFGAfAbqQvD) | [Banda do Mar](https://open.spotify.com/album/1Jlhl64iUyVxFgApbvyCS4) | 3:41 |
 
-Snapshot ID: `MCwxMzFhODIzNWVkNTQ1OGJhOWQ1ZTFmODRiZThlZjY3ODIzYzQwZTIy`
+Snapshot ID: `MCw5YWQzNmI1MjBhYTk2MGZhMmE4ZjVlYmY4YWI2M2IxZmRiYjQ5MTcw`

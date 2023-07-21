@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Hot Mulligan
 
-[Spotify](https://open.spotify.com/user/spotify) - 451,892 likes - 125 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 451,957 likes - 125 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZkHEX2YHpDV.md) - [plain]
 | 124 | [Psyche!](https://open.spotify.com/track/5X46KFIG4wAwMTjaA0ZX2p) | [Say Anything](https://open.spotify.com/artist/3ImqpXKKgkH5VydfgX1hd4) | [Psyche!](https://open.spotify.com/album/3E1OO7KbqraYZYD8NuK4xr) | 5:34 |
 | 125 | [Say It \(To My Face\)](https://open.spotify.com/track/2UMeGWmUri9RVpmckPV9Jt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Say It \(To My Face\)](https://open.spotify.com/album/0zErHJ7vr4Ao9VgoX3RUYm) | 2:39 |
 
-Snapshot ID: `MCxmMGI2YjdkNmE2Y2RlYTA0ZTI3MmQ1NDg5ZDZmMWM4MzRmYWU3MWI0`
+Snapshot ID: `MCwyZGI0Y2M0OTVlMTFkNTBkYmVlOTJiYTQ3NTEyMDk0MWI0MmIzZjZm`

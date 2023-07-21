@@ -668,24 +668,6 @@
     {
       "album": {
         "name": "Buena Vista Social Club",
-        "url": "https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi"
-      },
-      "artists": [
-        {
-          "name": "Buena Vista Social Club",
-          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
-        }
-      ],
-      "date_added": "2022-03-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 182973,
-      "name": "Dos Gardenias",
-      "url": "https://open.spotify.com/track/3eg6Yi9x0gN3k4nD4h6il3"
-    },
-    {
-      "album": {
-        "name": "Buena Vista Social Club",
         "url": "https://open.spotify.com/album/6qeYhdDR0FH7IvvArQlMuW"
       },
       "artists": [
@@ -700,6 +682,24 @@
       "duration_ms": 182973,
       "name": "Dos Gardenias",
       "url": "https://open.spotify.com/track/6XPnsGksSwjcQXX7nfO5Wu"
+    },
+    {
+      "album": {
+        "name": "Buena Vista Social Club",
+        "url": "https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi"
+      },
+      "artists": [
+        {
+          "name": "Buena Vista Social Club",
+          "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW"
+        }
+      ],
+      "date_added": "2022-03-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184026,
+      "name": "Dos Gardenias",
+      "url": "https://open.spotify.com/track/3eg6Yi9x0gN3k4nD4h6il3"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3W8KBiALe.md) - [plain]
 
 > Chill to the familiar classical pieces featured in award\-winning films.
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,915 likes - 69 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,046 likes - 69 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,6 +76,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3W8KBiALe.md) - [plain]
 | 66 | [O Mio Babbino Caro](https://open.spotify.com/track/1oi7QvpgDkBFTROce7LkB8) | [Giacomo Puccini](https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR), [Kiri Te Kanawa](https://open.spotify.com/artist/3fcsflK8xu26XH4OYTcm5T), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA), [Sir John Pritchard](https://open.spotify.com/artist/5Zkrloooz9qNDnHUf0q1UP) | [A Room With A View](https://open.spotify.com/album/3GwfIkK7xr0bhdhobtZQdq) | 2:30 |
 | 67 | [Act 3 \[Rigoletto} \- Lili Marlene](https://open.spotify.com/track/6OHwbpm1yXEC5zUvTjsXyU) | [La Scala](https://open.spotify.com/artist/6oZI9eICogpYD87Vim2953), [Nuccio Siano](https://open.spotify.com/artist/1KHulTpYUzjm1KKlJxUw20) | [Captain Corelli's Mandolin \-Original Motion Picture Soundtrack](https://open.spotify.com/album/32gSHgSXx9oU5nwtgaGvcA) | 3:07 |
 | 68 | [Concerto For Clarinet & String Orchestra](https://open.spotify.com/track/7jmaYAqOm1jV782F84HeDI) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve), [Aaron Copland](https://open.spotify.com/artist/0nJvyjVTb8sAULPYyA1bqU) | [The War: A Ken Burns Film \- The Soundtrack](https://open.spotify.com/album/2hhJvyE5fXeLWYNiOhZFhv) | 7:42 |
-| 69 | [Adagio](https://open.spotify.com/track/1ChvXhm9HA2bwtYuwTx2ZM) | [Arcangelo Corelli](https://open.spotify.com/artist/5dmMpIyAVaH6b9FLFgWPrF), [Christopher Gordon](https://open.spotify.com/artist/2ysZkdT4RS1FePKkpQ0rKC) | [Master & Commander: Original Soundtrack](https://open.spotify.com/album/508jmMfd6u661YGVAYhayT) | 1:55 |
+| 69 | [Concerto grosso in G Minor, Op\. 6 No\. 8, "Christmas Concerto": Adagio \(Arr\. Davies, Gordon and Tognetti\)](https://open.spotify.com/track/53BYTz0hIZ8fYqLVZarA6R) | [Arcangelo Corelli](https://open.spotify.com/artist/5dmMpIyAVaH6b9FLFgWPrF), [Richard Tognetti](https://open.spotify.com/artist/0kdjTXFwhF9w9Cuscbgccu) | [Música Clásica Para Leer](https://open.spotify.com/album/3kHQIbIevRiOVVPxmBtA9M) | 1:55 |
 
-Snapshot ID: `MCwyNDk3MWQxODQwNWUwMmVkMjljMDJmZTRiY2U1NTZkN2Q4N2ZjZjg1`
+Snapshot ID: `MTY4NjkxODcxOSwwMDAwMDAwMGFhYmY3YjRmZjU5OTczMjQzZDkwNWJiZTA4MGE3Nzg2`

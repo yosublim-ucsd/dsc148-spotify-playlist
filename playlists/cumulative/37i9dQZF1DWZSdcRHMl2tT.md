@@ -4,7 +4,7 @@
 
 > Chill house beats for hanging out in the sun.
 
-382 songs - 19 hr 26 min
+383 songs - 19 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,7 +339,8 @@
 | [Sunset In Miami](https://open.spotify.com/track/3P1f3w1gl4K88om3T9WwOi) | [Modern Clouds](https://open.spotify.com/artist/37rhlYZVn3eZ0OfykQKOKe) | [Sunset In Miami](https://open.spotify.com/album/7zYANoblZ4Qvoupmc69vgJ) | 2:45 | 2022-08-19 |  |
 | [Sunset Serene](https://open.spotify.com/track/2qTWVbYFS5yFAI0fCF1S2B) | [Znoijk](https://open.spotify.com/artist/2NINUmgwSwe4logL3qBNVl) | [Sunset Serene](https://open.spotify.com/album/0pvv7It7LHOlqSOKEamkRG) | 2:06 | 2022-04-05 | 2022-07-29 |
 | [Sunspray](https://open.spotify.com/track/5cWUf5g6lRYT3R3zmxl8aU) | [Ran the Man](https://open.spotify.com/artist/69lVKiR03uaDrGqEgOC2gu) | [Sunspray](https://open.spotify.com/album/3Ce6BDYrT48XYj5qX8bIdo) | 3:10 | 2022-04-05 | 2022-07-29 |
-| [Supine](https://open.spotify.com/track/5Ko0o58lO7LJDsIl4vpLxy) | [P.A.V](https://open.spotify.com/artist/4pqyg42kTh4xrULdghsTGV) | [Supine](https://open.spotify.com/album/0r1YdNfM2IKLNDHxSuPZkM) | 2:34 | 2022-09-09 |  |
+| [Supine](https://open.spotify.com/track/1X8IcPJgn8FVCEuV3qVR2p) | [P.A.V](https://open.spotify.com/artist/4pqyg42kTh4xrULdghsTGV) | [Supine](https://open.spotify.com/album/4RtR2G0NXfEGxf768g3MeX) | 2:34 | 2023-07-14 |  |
+| [Supine](https://open.spotify.com/track/5Ko0o58lO7LJDsIl4vpLxy) | [P.A.V](https://open.spotify.com/artist/4pqyg42kTh4xrULdghsTGV) | [Supine](https://open.spotify.com/album/0r1YdNfM2IKLNDHxSuPZkM) | 2:34 | 2022-09-09 | 2023-07-21 |
 | [Sur Mer](https://open.spotify.com/track/3hyBObu11mMYg6XLJELC5J) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Calm Down Rewind](https://open.spotify.com/album/5DY4s62iEtBsEfwA7PKRqQ) | 4:33 | 2022-04-05 | 2022-05-11 |
 | [sweaty palms](https://open.spotify.com/track/4nRP3DPkiZICuDpYlliATw) | [Manic Twister](https://open.spotify.com/artist/2PhILsiPfdlMu8brbtXvh7) | [sweaty palms](https://open.spotify.com/album/00gsJW5JdlirXTyipA6XkX) | 2:40 | 2022-06-24 | 2022-07-29 |
 | [Sweet Summer Love](https://open.spotify.com/track/5uTweDW8y0Yd5MZpOEv3xT) | [Rocket Jr](https://open.spotify.com/artist/6OGkTrVt13n4C075wLe17B) | [Sweet Summer Love](https://open.spotify.com/album/6b1U1RvdMG52kJgBINSOJM) | 3:26 | 2022-12-09 |  |

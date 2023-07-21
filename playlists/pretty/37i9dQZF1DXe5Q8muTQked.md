@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5Q8muTQked.md) - [plain]
 
 > Kick back with the perfect mix of covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,175,754 likes - 250 songs - 15 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,175,945 likes - 250 songs - 15 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5Q8muTQked.md) - [plain]
 | 249 | [Don't Start Now](https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Spotify Singles](https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS) | 3:11 |
 | 250 | [Young Blood](https://open.spotify.com/track/55vRRMeqFHmqQ2uFbZ6bOL) | [Graeme James](https://open.spotify.com/artist/09b4q9Vfmuvxb8LuOrhp7W) | [Play One We All Know](https://open.spotify.com/album/091vPKWsx2zU6RSfD2FZcZ) | 3:40 |
 
-Snapshot ID: `MCxhYTYxOWFjYTY3NzNmZmExZWYyYTg5ZjQxNjJjYmE5YTViZmJjYjg0`
+Snapshot ID: `MCwzYzU5MzI2ZWEwYzk2ODgzZTc0ZmRhYzFjMmM2NDIxYmM1NTQ3YTRh`

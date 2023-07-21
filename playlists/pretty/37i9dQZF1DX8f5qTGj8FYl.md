@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 
 > When the funk is just too funky for words to keep up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 344,965 likes - 80 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,092 likes - 80 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 | 79 | [Don't Worry 'Bout What I Do](https://open.spotify.com/track/2NrgFbqq1uCovinEtTw3Mj) | [Delvon Lamarr Organ Trio](https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8) | [Cold As Weiss](https://open.spotify.com/album/39wAzMaFzTVEN0yqJXYyzK) | 5:14 |
 | 80 | [Sir Somebody](https://open.spotify.com/track/7aHHRCZdz4ZW9tCN3nX5uv) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0) | [Sir Somebody](https://open.spotify.com/album/4SQDM8myIkEa4MDA5hz5fH) | 4:02 |
 
-Snapshot ID: `MCw5YThiZDVkNTFiNTQ4ZWE3MTc3YjVmZjM0OWM5ZmQxMzVjYjg5MzM1`
+Snapshot ID: `MCw2MGRlYTA1ZTQ1NmI5YjgzYTQ4OGY4MzAxMmMyMDdlNzJmNGE0ODAy`

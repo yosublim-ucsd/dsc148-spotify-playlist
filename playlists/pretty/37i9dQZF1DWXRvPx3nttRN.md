@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 
 > Acoustic rock and pop that makes you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,972 likes - 237 songs - 13 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,102 likes - 237 songs - 13 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -246,4 +246,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRvPx3nttRN.md) - [plain]
 | 236 | [](https://open.spotify.com/track/6gp6sejiJXYU1i6xHPf8hh) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/1vRv2ehtwimsY7L34S6Rbd) | 0:00 |
 | 237 | [I Want You Back](https://open.spotify.com/track/1edPtZh5Mik6ULPiiJIAIB) | [Tyler Ward](https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg) | [Tyler Ward Covers, Vol\. 5](https://open.spotify.com/album/0btFx3XFaoLDkJArPlxWEt) | 2:10 |
 
-Snapshot ID: `MCw5MDhmMmJjZGExM2E0MzdkZDAxNGI0YjY5MTViOGM4MjkyOTNlMGYw`
+Snapshot ID: `MCwwMjhkMmE4YzkyNjI5YzQ3ZDZjYTAwMzliMGYxZGZiN2ZkYWE1NmM3`

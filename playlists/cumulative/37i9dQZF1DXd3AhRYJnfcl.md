@@ -4,7 +4,7 @@
 
 > أفضل الأغاني المصرية من قلب مصر إلى العالم🔥🔝\. الغلاف:<a href="https://open.spotify.com/artist/1dYkjdBHkbyolcShgkh2Vp?si=2X7kVrJMRAa4KbFirvfv6g"> أمير عيد </a>
 
-206 songs - 11 hr 59 min
+207 songs - 12 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [El Haraka de](https://open.spotify.com/track/1IhGkxXcW4vFBR9dHP5To9) | [Ahmed Helmy](https://open.spotify.com/artist/6weFHq6TU2aoz3eb6JNSbB) | [El Haraka de](https://open.spotify.com/album/4xoAvWYktjyTSA8lBuFIxJ) | 2:58 | 2022-05-13 | 2022-12-07 |
 | [El Melouk \- الملوك](https://open.spotify.com/track/04vHPXVGnb51q13NBoW22W) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [El Melouk \- الملوك](https://open.spotify.com/album/3eMTz433EZ3pEHtszeiIL2) | 3:15 | 2022-04-13 | 2023-01-03 |
 | [El Omr Kollo](https://open.spotify.com/track/4hgBNlMh0PF4S2VE0ejaM6) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [El Omr Kollo](https://open.spotify.com/album/3DY0Bt7zzSdaLx0i5VFZxh) | 4:20 | 2023-02-01 | 2023-02-24 |
-| [El Youm El Helw Dah](https://open.spotify.com/track/2HbrI0oakRE7qNXoK74zNR) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [El Youm El Helw Dah](https://open.spotify.com/album/2GwwqvLab4YiExMa8zFW1v) | 2:52 | 2022-08-08 |  |
+| [El Youm El Helw Dah](https://open.spotify.com/track/2HbrI0oakRE7qNXoK74zNR) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [El Youm El Helw Dah](https://open.spotify.com/album/2GwwqvLab4YiExMa8zFW1v) | 2:52 | 2022-08-08 | 2023-07-21 |
 | [Elghazala Ray2a \(feat\. Mohamed Osama\)](https://open.spotify.com/track/4xAYDw7NVSKkvMIE9vFTVu) | [Karim Mahmoud Abdelaziz](https://open.spotify.com/artist/0jDk5u8slIxP4B5AtbyZq6), [Mohamed Osama](https://open.spotify.com/artist/1cODd5riWEV19DpwGut4CN) | [Elghazala Ray2a \(feat\. Mohamed Osama\)](https://open.spotify.com/album/5jjujcUlw3FwkINsaodz71) | 2:41 | 2022-04-13 | 2022-11-29 |
 | [Enta Ekhtyar \- From Bhabak Movie](https://open.spotify.com/track/41THKTMbCeKcxnhNj1AeK7) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [بحبك](https://open.spotify.com/album/2BBf2DS8iEOLWD5qUVCBe2) | 4:48 | 2023-02-13 | 2023-05-06 |
 | [Enta Ekhtyar \- From Bhabak Movie](https://open.spotify.com/track/5bMArgC9c0qSHRoTL2NlLy) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Enta Ekhtyar \(From Bhabak Movie\)](https://open.spotify.com/album/0os60GScuoNH6G53ga73IE) | 4:48 | 2022-08-08 | 2023-02-16 |
@@ -157,6 +157,7 @@
 | [Ya Fatenny](https://open.spotify.com/track/268vuOQPZTwDjwS5SqrKC8) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Ya Fatenny](https://open.spotify.com/album/3PiLAHM8hDtVxWkwg1LStr) | 3:44 | 2022-04-13 | 2022-05-14 |
 | [Ya Habibi La](https://open.spotify.com/track/1367ZTVL5WmEQf4jviYm40) | [Amr Diab](https://open.spotify.com/artist/5abSRg0xN1NV3gLbuvX24M) | [Aktar Wahed Beihebak](https://open.spotify.com/album/3QDQnBiAmCcBndBaswQBk6) | 3:52 | 2023-02-23 | 2023-05-31 |
 | [Ya Khabar](https://open.spotify.com/track/3FQFEFkm0aRQOTez0p5rrU) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Ya Khabar](https://open.spotify.com/album/3vUNaafLFHeKUOdDzM73O9) | 2:52 | 2023-05-30 |  |
+| [Ya Layaly](https://open.spotify.com/track/5hCAs0OsDpCy6kZxEAI3aw) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [Ruby](https://open.spotify.com/artist/1Q81kV2ciL8ysasZdViLI9) | [Ya Layaly](https://open.spotify.com/album/3p1T8i6PfyTuZkaXMBQGX7) | 3:10 | 2023-07-20 |  |
 | [Ya Layaly](https://open.spotify.com/track/7ygixJ8FptOv80Ot2KadAN) | [Sherine](https://open.spotify.com/artist/2Wk167T0fY1fABsHM5qFcI) | [Ana Kteer](https://open.spotify.com/album/6Qbm7jzEzGqfZJqLaAUAdT) | 4:59 | 2023-03-16 |  |
 | [Ya Rab Tkoon Be Khair](https://open.spotify.com/track/7BHkU54RSmqhtd8TNKRKx6) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Ya Rab Tkoon Be Khair](https://open.spotify.com/album/6Uvz6FXsedSGbIJwTEGrVV) | 3:05 | 2023-01-03 | 2023-02-08 |
 | [Ya Salam \- Remix](https://open.spotify.com/track/7kFcz3xHq7hsOrfQWkipvP) | [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Ya Salam \(Remix\)](https://open.spotify.com/album/3hmV8luknujbOif3arzW4J) | 4:13 | 2022-04-13 | 2022-10-11 |

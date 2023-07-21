@@ -4,7 +4,7 @@
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: Bahati Bukuku
 
-99 songs - 9 hr 36 min
+104 songs - 9 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,9 +22,12 @@
 | [Bwana Unatawala \(Live\)](https://open.spotify.com/track/3O0Bvp1sMSdMVuLuRhe7yU) | [Essence Of Worship](https://open.spotify.com/artist/08DEnWbiZl4cLFGUjNzR39) | [Bwana Unatawala \(Live\)](https://open.spotify.com/album/2URrPzDAgysJCPyXImSEvs) | 18:46 | 2022-06-24 |  |
 | [Bwana Unatawala \(Live\)](https://open.spotify.com/track/3l7rEcUJ4AQF4jKpWaHG8p) | [Essence Of Worship](https://open.spotify.com/artist/08DEnWbiZl4cLFGUjNzR39) | [Bwana Unatawala \(Live\)](https://open.spotify.com/album/3koeYsqfzhwDXkmrHmdKna) | 18:46 | 2022-06-24 | 2023-04-03 |
 | [Chanzo \- Live](https://open.spotify.com/track/5iG9Kx1j49PZxAgr9G7CAw) | [Rehema Simfukwe](https://open.spotify.com/artist/7qVRVoyILJ5XLMChYXIkKu) | [Chanzo \(Live\)](https://open.spotify.com/album/3GuJna16plebttcjo2CWWG) | 9:42 | 2022-06-24 |  |
+| [Chezea Bwana](https://open.spotify.com/track/4UZjS4dPAxofHLryDjOOO7) | [Moji Shortbabaa](https://open.spotify.com/artist/75LES04hIh8qYY8Oqdp7rn) | [Chezea Bwana](https://open.spotify.com/album/6S0IW8AHo9sqOioUn7ECKy) | 3:42 | 2023-07-21 |  |
 | [Conduis mes pas](https://open.spotify.com/track/1zGlgkEa3sONbUQISvtGtO) | [LORD LOMBO](https://open.spotify.com/artist/7LYWtUyWFb2GIE5sjigMvX), [Princesse Betu](https://open.spotify.com/artist/6BbWSslst8GBiQQHtDiMST), [BEN MAVINGA](https://open.spotify.com/artist/3QekiUqMIPwFSYGcoOJWCQ) | [Conduis mes pas](https://open.spotify.com/album/3TxaM33oOiLSwIwS7JC15h) | 4:58 | 2023-04-21 |  |
+| [Dawa Yangu \(feat\. Bony Mwaitege\)](https://open.spotify.com/track/2Tk34qaKsggZJNRzBnoBlR) | [Bahati Bukuku](https://open.spotify.com/artist/3T46Acf655h1bG3Zb8kcsF), [Bony Mwaitege](https://open.spotify.com/artist/1vh543t6ipbRMe1shJp0j1) | [Dawa Yangu](https://open.spotify.com/album/4qXfLDC8acsrrp82x3nXY2) | 5:40 | 2023-07-21 |  |
 | [Ebenezer](https://open.spotify.com/track/0FMRioTf40f4KVHSeVvqLh) | [Angela Chibalonza](https://open.spotify.com/artist/6o1Crwek2BEtkfAsI204iR) | [Nimekutana Na Yesu](https://open.spotify.com/album/7uG3igTPfTvad0ePaGCWM2) | 4:55 | 2022-06-24 |  |
 | [Egemeo](https://open.spotify.com/track/03k9zseKZJ8mu2nTWHuoHQ) | [Godwill Babette](https://open.spotify.com/artist/787HVRJFIkDBhj7HeHCVsG) | [Umenibeba](https://open.spotify.com/album/7lKfLz5d1olqce9qgqK1jB) | 5:34 | 2022-06-24 | 2023-04-07 |
+| [Faraja ya Moyo](https://open.spotify.com/track/5Lbg6hYmEESv0ijPREbiwl) | [Money Magnet Aqui](https://open.spotify.com/artist/0nHRq547zFyGXHDsloSnV0) | [FARAJA YA MOYO](https://open.spotify.com/album/4R78v8Ol8gX8Zu2pX9ke88) | 4:42 | 2023-07-21 |  |
 | [Gharama](https://open.spotify.com/track/7smwyHlMEmutM4zl9UGInu) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ), [Rose Muhando](https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87) | [Gharama](https://open.spotify.com/album/636VoPFDMsGNC4E5MGRz1z) | 3:14 | 2023-04-21 |  |
 | [Hakuna Wakufanana](https://open.spotify.com/track/2iDJTL5XerzoErsduFYWVQ) | [Dan Em](https://open.spotify.com/artist/5UysAc77bsT1C6XJIZn1u1) | [Halleluya \(Worship 1\)](https://open.spotify.com/album/6iHWWsouuBWpKUzJlROoYr) | 5:06 | 2022-06-24 |  |
 | [Halal](https://open.spotify.com/track/4UdqbEzCQ7OqHqb8i8AlVF) | [Mathooko](https://open.spotify.com/artist/6JRgBJKwtMEnApK7bn1Svw) | [Halal](https://open.spotify.com/album/5Uqe1LZJyXpqBJuxZw2K90) | 2:18 | 2023-07-14 |  |
@@ -82,7 +85,9 @@
 | [Shusha Nyavu](https://open.spotify.com/track/4OWverqpwi4P1BstWOjlS1) | [Christina Shusho](https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL) | [Shusha Nyavu](https://open.spotify.com/album/2Tlcxf4JXImZRqiNnYCDKt) | 3:46 | 2023-06-16 |  |
 | [Shwari](https://open.spotify.com/track/4iI5RXEDegpckQPyZjRiYd) | [Samuel Thomas](https://open.spotify.com/artist/1Vw4G05iiTwoWHkrP1EvWw), [Henrick Mruma](https://open.spotify.com/artist/75HhdVUtJVRpYK4vRtClCU) | [Shwari](https://open.spotify.com/album/3Cd2sv9TL1MSOPn1yrbEGZ) | 6:42 | 2022-06-24 |  |
 | [Sijaona Kama Wewe](https://open.spotify.com/track/0tK6fl3y11GJcAmp94LV8C) | [Patrick Kubuya](https://open.spotify.com/artist/1FeMU8hvqFR7BqtKIQvsu2) | [Sijaona Kama Wewe](https://open.spotify.com/album/5uVEa8Deiqpir6q7iHE4yU) | 11:13 | 2022-06-24 |  |
+| [Taji](https://open.spotify.com/track/1Z6nxjk7F3J5h03zhruGQy) | [FMP Pan Da Beat](https://open.spotify.com/artist/073NcyQ3qYtj7rIZE762pW) | [Taji](https://open.spotify.com/album/2gdJZmV1BZO9YkqehjnyJo) | 2:40 | 2023-07-21 |  |
 | [Thankful](https://open.spotify.com/track/2CZNoaLPWNcIBjKkNlQ9GS) | [Ngalu P](https://open.spotify.com/artist/0WSlmwtEKyf4RwcuULH3K4) | [Thankful](https://open.spotify.com/album/6ViivhHL3tS4VQodPp4DQ9) | 3:38 | 2023-06-09 |  |
+| [Ubatili](https://open.spotify.com/track/3421nmVXwNgUUOlHoE1ZQO) | [The Berean Gospel Ministers](https://open.spotify.com/artist/1XGt0taV8k9DMayKng4lNC) | [Ubatili](https://open.spotify.com/album/0eW4o0appJhd1hllgT8uAM) | 6:05 | 2023-07-21 |  |
 | [Umejua Kunifurahisha](https://open.spotify.com/track/2PydoapfePzFzBc6CoVcru) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI), [Chris Shalom](https://open.spotify.com/artist/6yUXTmXtmFqVonxo7eRqBU) | [Umejua Kunifurahisha](https://open.spotify.com/album/0457zdsea1nLhcXW45GvLc) | 5:12 | 2022-06-24 |  |
 | [Umejua Kunifurahisha](https://open.spotify.com/track/1cHVVMDu1J9pCWGHHoMkIA) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI), [Chris Shalom](https://open.spotify.com/artist/6yUXTmXtmFqVonxo7eRqBU) | [Umejua Kunifurahisha](https://open.spotify.com/album/5xpGzNwYqlCRs1ViZqZG7w) | 5:12 | 2022-06-24 | 2023-03-26 |
 | [Umenitendea](https://open.spotify.com/track/5WhazdGfAcEAsdkFlPDrDv) | [Angaza Singers](https://open.spotify.com/artist/1TP3yP8t1j51qOgC1yFuMM) | [Tangu Mwanzo](https://open.spotify.com/album/70AH9ZkKrDBzoB8lRs6pL9) | 6:17 | 2022-06-24 | 2023-06-09 |

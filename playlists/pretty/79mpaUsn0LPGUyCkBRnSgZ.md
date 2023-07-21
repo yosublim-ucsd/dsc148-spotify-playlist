@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 232 songs - 15 hr 16 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 1 like - 232 songs - 15 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -234,11 +234,11 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 224 | [\#GAMIGANG](https://open.spotify.com/track/1Vfe6FT2Gba7Lz5fbgvyry) | [Origami Angel](https://open.spotify.com/artist/0cmSXx965Hnm6fP42oW6vY) | [GAMI GANG](https://open.spotify.com/album/2ohtZdoMSFtr2JrO3lJbB5) | 0:28 |
 | 225 | [Sketches Of Brunswick East I](https://open.spotify.com/track/2nuzFl7CdwhdTQEnmiqWW2) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn), [Mild High Club](https://open.spotify.com/artist/5J81VungUjSVHxlPpTI9KG) | [Sketches of Brunswick East](https://open.spotify.com/album/6eD0NNGuIdYPUbEPbUzLnE) | 1:20 |
 | 226 | [Empty](https://open.spotify.com/track/3T06rGO2dVEntMvym0vpQu) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Death Race For Love \(Bonus Track Version\)](https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F) | 4:08 |
-| 227 | [Before Today](https://open.spotify.com/track/1Emw4zGXubKhKshl6U27Eb) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy) | [Walking Wounded](https://open.spotify.com/album/2mKMc9g06B2uYTaYRYqpAk) | 4:18 |
-| 228 | [Be Above It](https://open.spotify.com/track/2Gl1Qdx5Px5kVYe0PQoGI0) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:21 |
-| 229 | [Defeat](https://open.spotify.com/track/1Vh0KfWMQV2U8e7PHISLXB) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Defeat](https://open.spotify.com/album/2zRMEsfxrnfSHYdRwbrnGd) | 21:58 |
-| 230 | [Love Song](https://open.spotify.com/track/6jKKaXL2jUTMfIGfRMijO2) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Sis\. He Wasn't the One](https://open.spotify.com/album/4qffm0dKWKgFOP3Wwfghq1) | 1:19 |
-| 231 | [Moonshine](https://open.spotify.com/track/3ruBXwL19x2aqvwLPWZd5F) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Wasteland](https://open.spotify.com/album/6A6M2w1PVPOPY8Jp8aV0Ao) | 4:00 |
-| 232 | [Searchin'](https://open.spotify.com/track/2HhzGAT66gogfukLzhC60W) | [Acid Dad](https://open.spotify.com/artist/3iqOjs2iwL6ywtcENg1ppm) | [Take It From The Dead](https://open.spotify.com/album/58jvwnt6gtTDDhNqH8jI48) | 3:23 |
+| 227 | [Be Above It](https://open.spotify.com/track/2Gl1Qdx5Px5kVYe0PQoGI0) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:21 |
+| 228 | [Defeat](https://open.spotify.com/track/1Vh0KfWMQV2U8e7PHISLXB) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Defeat](https://open.spotify.com/album/2zRMEsfxrnfSHYdRwbrnGd) | 21:58 |
+| 229 | [Love Song](https://open.spotify.com/track/6jKKaXL2jUTMfIGfRMijO2) | [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Sis\. He Wasn't the One](https://open.spotify.com/album/4qffm0dKWKgFOP3Wwfghq1) | 1:19 |
+| 230 | [Moonshine](https://open.spotify.com/track/3ruBXwL19x2aqvwLPWZd5F) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Wasteland](https://open.spotify.com/album/6A6M2w1PVPOPY8Jp8aV0Ao) | 4:00 |
+| 231 | [Searchin'](https://open.spotify.com/track/2HhzGAT66gogfukLzhC60W) | [Acid Dad](https://open.spotify.com/artist/3iqOjs2iwL6ywtcENg1ppm) | [Take It From The Dead](https://open.spotify.com/album/58jvwnt6gtTDDhNqH8jI48) | 3:23 |
+| 232 | [Something That Feels Like Love](https://open.spotify.com/track/363tIu3XPLPKBpYpIfTQ8b) | [Joel Haver](https://open.spotify.com/artist/08fBiIiUIv7aWqPAlhLBIG) | [talk to me when you're ready if you want to please](https://open.spotify.com/album/3h6E2h1RbjJwv8HjNfjmJu) | 1:58 |
 
-Snapshot ID: `OTUwLDc4NzcwZmU3ZWY4NTM0MWYzMzBhMWZmNTFlMzE5NmIwM2E2NTczOWQ=`
+Snapshot ID: `OTUyLGI2ZTJjYjBkMDAzNmNhNGEzMjJkYjEyOWQ2NDYzODBiMTM1ZDI1YjM=`

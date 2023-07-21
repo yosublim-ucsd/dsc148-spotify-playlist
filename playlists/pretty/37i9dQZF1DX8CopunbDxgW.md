@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 
 > The best indie dance tracks of the moment\. Cover: Roosevelt
 
-[Spotify](https://open.spotify.com/user/spotify) - 858,227 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 858,346 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8CopunbDxgW.md) - [plain]
 | 99 | [Is U](https://open.spotify.com/track/4Z3RGx7Be5plLoIw7i83wX) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Is U](https://open.spotify.com/album/4jO5B8uUoYusn8Yb8iSoVo) | 3:48 |
 | 100 | [GMT \- Jamie xx Remix](https://open.spotify.com/track/6kqAKtIZDTeBjLdJJ2jiTt) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm), [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ) | [GMT \(Jamie xx Remix\)](https://open.spotify.com/album/5D4DjxpROByDBBVtZyyA5R) | 9:32 |
 
-Snapshot ID: `MCxmYTY1MjZmNzc4OTkyYmRiYmIyNWE3ZmIwODc4YzJkNjgwM2EyM2Fl`
+Snapshot ID: `MCw2ZGMyODc3YjQ1ZGYzZmQ1NDA3YTM1YzQ0MTI1ZjEzYWIxM2E0OTVh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XfRr4cb6cr.md) - [plain]
 
 > Hymns for darker hours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,869 likes - 120 songs - 9 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,111 likes - 120 songs - 9 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XfRr4cb6cr.md) - [plain]
 | 119 | [Dark Winter](https://open.spotify.com/track/73orZD0yHBLs3WVNfPUHqU) | [J\. M\. Quintana Cámara](https://open.spotify.com/artist/17uGmjKhL5hlpn6e7dg2Vm) | [Dark Winter \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0htBWUZ75jV9nmlcqVOXwE) | 1:47 |
 | 120 | [Transcend](https://open.spotify.com/track/2M0EmEypUn9U1YHgNocVGi) | [Respira](https://open.spotify.com/artist/6u9COHFMoQroLZ3tfh9s7e), [Atmøsphäre](https://open.spotify.com/artist/4aGsKbTLPMWGYvIPWiqPhj) | [Transcend](https://open.spotify.com/album/38Sxp6afQ9t8zLWarjfWJ5) | 7:37 |
 
-Snapshot ID: `MCwzZmJiYTAwYmRiMjZiMzBkNTRmNzI4OTFhMjgxODZmMjE1OWE5NWRh`
+Snapshot ID: `MCwxYWVjNjZhZTI5MjQ2OWMwOTMxNTFmMWE4NWJkZWU2YTBlNGZhNWI5`

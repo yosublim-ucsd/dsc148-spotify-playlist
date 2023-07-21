@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 
 > Cool down with these chill beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,911 likes - 82 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,951 likes - 82 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 81 | [Still](https://open.spotify.com/track/5qal4ZbTdvyDSf2V8BLALE) | [GentleBeatz](https://open.spotify.com/artist/6SgXRhAHCIFsnfnkET5QTH), [w00ds](https://open.spotify.com/artist/5PgMKzd3GrAPFZUqxdX1jy) | [Still](https://open.spotify.com/album/5fyichdZZd9eay631EGKHj) | 2:21 |
 | 82 | [High Street](https://open.spotify.com/track/5AplAWSZV1rgGnfInTZ9h1) | [Saveo](https://open.spotify.com/artist/7iOOQNJZu3tS9qKUyuI7FH) | [High Street](https://open.spotify.com/album/5TybLyhvKouj1PPwWW4vY1) | 2:53 |
 
-Snapshot ID: `MCwxYWU0NzA1MjQ3NjY1Yjg1ZjhmNmFlMjAzODBmNTg3OTE4MjA0NDgz`
+Snapshot ID: `MCwyODAwZjYyYWQyYzU0YmMzNzM2Yzk5ZTY4YTM0ZmNkMWEyZGVlOWRh`

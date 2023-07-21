@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 
 > Get lifted by the waves of faith\-infused music\.  Cover: <a href="https://www.thestellarawards.com/index.html">Stellar Award</a> winning artist <a href="https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS?si=ba40ca816da6450e">Pastor Mike Jr.</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,674 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,746 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaod7SIWA11W.md) - [plain]
 | 99 | [It's You](https://open.spotify.com/track/401iOVzoxC7ZhhrwP2zh9h) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6) | [It's You](https://open.spotify.com/album/6aS85jgNXuGFYN190ytedS) | 2:15 |
 | 100 | [I Was Loved](https://open.spotify.com/track/1bVIWSmlFhGU5pAjY7weXM) | [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [I Was Loved](https://open.spotify.com/album/6vky6IC6laXzH5ZViLAJ68) | 4:41 |
 
-Snapshot ID: `MCxiZjVkODk1OGM1ZDcyMTg4NjBhZTRhOWJhOGNhNTdlYzA2YTQ0NzE1`
+Snapshot ID: `MCxlODM2MDlhYzE1NjZmOWI0ZjJhZjY4MTViZGE1ZjEzMWQ3N2ZlODU3`

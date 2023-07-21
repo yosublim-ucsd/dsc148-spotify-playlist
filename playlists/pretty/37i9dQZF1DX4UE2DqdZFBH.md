@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UE2DqdZFBH.md) - [plain]
 
 > Unwind to the real beauty of Instrumentals!
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,515 likes - 100 songs - 8 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,535 likes - 100 songs - 8 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UE2DqdZFBH.md) - [plain]
 | 99 | [Garden Lounge](https://open.spotify.com/track/5yYy5YAfL3KaheD5qlRAnp) | [Sharat Chandra Srivastava](https://open.spotify.com/artist/3CPeq5bCgG560Ixb2DcM8U) | [No Passport Control](https://open.spotify.com/album/3PJf1a7bCNUqdJSX28wb1I) | 9:42 |
 | 100 | [Bhatiyali Dhun](https://open.spotify.com/track/0MMPQrXP5jBN6jXhvyJaMP) | [Nayan Ghosh](https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF), [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Synergy](https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt) | 7:16 |
 
-Snapshot ID: `MCw0YWVjZjUwZGVmNjk4MmI5MzUyMmE4NjM3ZjBhMDdkNTBkMmJjNjQ2`
+Snapshot ID: `MCxiZmFhN2IxOTc5MTRjMWE4NjU0MjU0OTU3OGRhOTY1OGQzMWQ3MTcw`

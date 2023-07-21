@@ -4,7 +4,7 @@
 
 > Musicaliza tu sesión de videojuegos con estos versos de barrio.
 
-115 songs - 7 hr 2 min
+116 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [7](https://open.spotify.com/track/4xrsV0Sy36rxEYoyDoz11a) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [7](https://open.spotify.com/album/4AcTenx2Op3VL7XJ4zRLjl) | 3:26 | 2023-03-31 |  |
 | [77](https://open.spotify.com/track/7y2KhPccpkgRSMa3GDXjQq) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [77](https://open.spotify.com/album/7J0iDOtfo7qkB5sMNc8vbq) | 3:35 | 2023-05-12 |  |
 | [99'S](https://open.spotify.com/track/3MENAA3VWq5a5WxVYL9d6p) | [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ) | [99'S](https://open.spotify.com/album/1KZZLDSyLxEeyajPEm5DvH) | 3:53 | 2023-02-23 |  |
-| [Acelerado](https://open.spotify.com/track/0hUu9Q1KZ39VPDIRw9zZel) | [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Acelerado](https://open.spotify.com/album/4mU85sregrZKzAQQNiEe3Y) | 3:01 | 2023-06-02 |  |
+| [Acelerado](https://open.spotify.com/track/0hUu9Q1KZ39VPDIRw9zZel) | [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Acelerado](https://open.spotify.com/album/4mU85sregrZKzAQQNiEe3Y) | 3:01 | 2023-06-02 | 2023-07-21 |
 | [Activados y Prendidos](https://open.spotify.com/track/4AvpUGiEn0d9HQEPuvC7gt) | [Santa Estilo](https://open.spotify.com/artist/59XuCTeNNS0fVgBrFoPNfG) | [Activados y Prendidos](https://open.spotify.com/album/0bcrVkXzYnNahQtugk52pj) | 2:55 | 2023-02-23 |  |
 | [Adentro de la Disco \(feat\. Myke Towers\)](https://open.spotify.com/track/2QJQJEI9WvhqQViGS58gZ7) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Adentro de la Disco \(feat\. Myke Towers\)](https://open.spotify.com/album/2gRPPH31jHTGwhniJINHVr) | 3:12 | 2023-06-16 |  |
 | [Ahora Preguntan](https://open.spotify.com/track/4h4aLuUdPJQehnMCGyefCu) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Ahora Preguntan](https://open.spotify.com/album/0otZ6JXJ84JYCXbjAQh8lK) | 3:08 | 2023-02-23 |  |
@@ -23,6 +23,7 @@
 | [aPoLLo13](https://open.spotify.com/track/0DxzhQolKK8fd3y0BAAbf4) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [aPoLLo13](https://open.spotify.com/album/5L3TaonVe9Z6ZF2HtoKcvE) | 2:40 | 2023-05-05 |  |
 | [Arcángel: Bzrp Music Sessions, Vol\. 54](https://open.spotify.com/track/7cQ0LAxT5HHCLGbxcjaxac) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Arcángel: Bzrp Music Sessions, Vol\. 54](https://open.spotify.com/album/3Bj4v1YmWsctoEsSkEPg63) | 3:43 | 2023-03-31 |  |
 | [Bandido](https://open.spotify.com/track/5oWfTPK3ZFRuW82NsIXlEb) | [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Bandido](https://open.spotify.com/album/3qDY0aopQhxmECwnQOqPmR) | 3:24 | 2023-05-19 | 2023-06-03 |
+| [Barrio \(with Lefty Sm\)](https://open.spotify.com/track/4oxKEbn3OLrNCW5JciZKvn) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Barrio \(with Lefty Sm\)](https://open.spotify.com/album/1ymuLQZcpThyYLQHMd701v) | 2:24 | 2023-07-21 |  |
 | [Bendita Vida](https://open.spotify.com/track/5xZTPEfZTDS5AE3PGLyAYn) | [Richard Ahumada](https://open.spotify.com/artist/4oR06FdpsOJTcTnOkSzUsC) | [Exitos](https://open.spotify.com/album/1zt7d4HabQ37eIZjnpkhpe) | 3:48 | 2023-02-23 |  |
 | [Billetes Y Armas](https://open.spotify.com/track/422n4HBnGDQ9Dp1vz77G54) | [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [Los Billetes Ponen La Edad "JRE"](https://open.spotify.com/album/6JTgWswtPAaK7XyeqB1vGc) | 3:03 | 2023-06-09 | 2023-07-06 |
 | [Borracho Gacho \(feat\. Dharius\)](https://open.spotify.com/track/2f552XXwU9KIdxmXQQ4AqN) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [El Vicio y la Fama](https://open.spotify.com/album/1jY2gqdDwbRbtwIIwmcxqI) | 2:45 | 2023-02-23 |  |

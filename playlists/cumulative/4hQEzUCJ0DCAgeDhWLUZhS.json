@@ -413,6 +413,24 @@
     },
     {
       "album": {
+        "name": "The Ballad of Darren",
+        "url": "https://open.spotify.com/album/0gIZSG9WUDO3TK0B5y7UtU"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248774,
+      "name": "Barbaric",
+      "url": "https://open.spotify.com/track/71o2pLB6Xu62uVjqpwmiS9"
+    },
+    {
+      "album": {
         "name": "Beautiful James",
         "url": "https://open.spotify.com/album/6JCSXagVYDarxrUZ18dw6b"
       },

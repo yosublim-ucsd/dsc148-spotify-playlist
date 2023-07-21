@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: DJ Koze, Sophia Kennedy",
+  "description": "New music off the beaten track. Cover: Digitalism, Softee",
   "name": "OFF POP",
   "tracks": [
     {
@@ -776,7 +776,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 240742,
       "name": "Big Hammer",
       "url": "https://open.spotify.com/track/3tdxmSKTmtMLlohrIxZ2EG"
@@ -1317,6 +1317,24 @@
     },
     {
       "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/1FUsUNx84QqKg0fzyWfX4g"
+      },
+      "artists": [
+        {
+          "name": "Moglii",
+          "url": "https://open.spotify.com/artist/0lIIsJafIVVi3ruN2vFzpS"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152853,
+      "name": "Crush",
+      "url": "https://open.spotify.com/track/6rP3JtsrgWtcZ2jgebjO9M"
+    },
+    {
+      "album": {
         "name": "Cry Cry Cry",
         "url": "https://open.spotify.com/album/76swTUVCbbVU1pZHr2YMrO"
       },
@@ -1594,7 +1612,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 166125,
       "name": "Disco Dangerous",
       "url": "https://open.spotify.com/track/4WI0iKq8iHKZMQw0ZxH652"
@@ -2690,7 +2708,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 284000,
       "name": "Fusion Royale",
       "url": "https://open.spotify.com/track/0rJqFVbel8SRHrKhgylnvh"
@@ -2952,7 +2970,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 140837,
       "name": "Head Straight",
       "url": "https://open.spotify.com/track/3AX1DcrLUY03ipCMZCkjuL"
@@ -3128,6 +3146,28 @@
       "duration_ms": 164211,
       "name": "High",
       "url": "https://open.spotify.com/track/6r836ND98CjgLGESPNV9c9"
+    },
+    {
+      "album": {
+        "name": "Highlight",
+        "url": "https://open.spotify.com/album/2o7VImHx9FRyTy4gJfSsoP"
+      },
+      "artists": [
+        {
+          "name": "Digitalism",
+          "url": "https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl"
+        },
+        {
+          "name": "Softee",
+          "url": "https://open.spotify.com/artist/3uWJaTLnUnp0wZfB5xcdJy"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219750,
+      "name": "Highlight - Edit",
+      "url": "https://open.spotify.com/track/6Hk8rWDxNUrSL0Paz4LDOF"
     },
     {
       "album": {
@@ -3905,6 +3945,32 @@
     },
     {
       "album": {
+        "name": "Last Dance",
+        "url": "https://open.spotify.com/album/1pGl9quH4KSsfSjPKz9TT9"
+      },
+      "artists": [
+        {
+          "name": "Satin Jackets",
+          "url": "https://open.spotify.com/artist/5Gn7NoCZvbVlGgtZMILRcv"
+        },
+        {
+          "name": "Tensnake",
+          "url": "https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq"
+        },
+        {
+          "name": "Kimchii",
+          "url": "https://open.spotify.com/artist/78fCvlGi2BTqtk3wsjUsK3"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209693,
+      "name": "Last Dance",
+      "url": "https://open.spotify.com/track/7sYOC9FdWJ2Gf5O8bYuK9t"
+    },
+    {
+      "album": {
         "name": "Last Exit Space",
         "url": "https://open.spotify.com/album/7CpNIuRi9RJUi7BYUsVeUb"
       },
@@ -4146,6 +4212,24 @@
       "duration_ms": 303000,
       "name": "LIMBO",
       "url": "https://open.spotify.com/track/2eQSBR1jT5VhosvPkz90BD"
+    },
+    {
+      "album": {
+        "name": "Little Things x Gypsy Woman (L BEATS MASHUP)",
+        "url": "https://open.spotify.com/album/052c03LAr2euUtLKgvOKae"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131000,
+      "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
+      "url": "https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP"
     },
     {
       "album": {
@@ -4732,7 +4816,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 200901,
       "name": "Moments",
       "url": "https://open.spotify.com/track/6ExEbMM3BpqiChkdZcoWiG"
@@ -5798,7 +5882,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 223169,
       "name": "Run (feat. Andreya Triana)",
       "url": "https://open.spotify.com/track/3ke3rsu9F2vL4QVvIl9UTt"
@@ -6001,6 +6085,24 @@
     },
     {
       "album": {
+        "name": "Say Something",
+        "url": "https://open.spotify.com/album/0ZlDyS6kzMipun19zAEHKe"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200329,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/77Q0qbZPx8ikjqvPOADORA"
+    },
+    {
+      "album": {
         "name": "Scars",
         "url": "https://open.spotify.com/album/0iTJuQRY2EbwYslNyafKPS"
       },
@@ -6157,6 +6259,28 @@
     },
     {
       "album": {
+        "name": "Silly Walk",
+        "url": "https://open.spotify.com/album/6Xn6Y3yj1Q2z1LMApgvatr"
+      },
+      "artists": [
+        {
+          "name": "Nobodys Face",
+          "url": "https://open.spotify.com/artist/2cP7dnZQqfYPoMMdmYQyJl"
+        },
+        {
+          "name": "Siriusmo",
+          "url": "https://open.spotify.com/artist/22680B8sUdq6bL6nQaJfwg"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201640,
+      "name": "Silly Walk",
+      "url": "https://open.spotify.com/track/6wQlfm6qN5ycOoy5WFrHaM"
+    },
+    {
+      "album": {
         "name": "Off Planet",
         "url": "https://open.spotify.com/album/5An8eMki7iyqgQoufrMlI0"
       },
@@ -6237,6 +6361,28 @@
     },
     {
       "album": {
+        "name": "So Alive",
+        "url": "https://open.spotify.com/album/3P8eSxbBlzn1rqaaMdAmra"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        },
+        {
+          "name": "Moullinex",
+          "url": "https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322526,
+      "name": "So Alive",
+      "url": "https://open.spotify.com/track/5uT52Slz5g1B2n5Xy1twGA"
+    },
+    {
+      "album": {
         "name": "So Hard So Hot",
         "url": "https://open.spotify.com/album/01ixXX3vEIf4hDOmCkztMY"
       },
@@ -6288,6 +6434,24 @@
       "duration_ms": 181896,
       "name": "Sports",
       "url": "https://open.spotify.com/track/4oYQsnDWE7JONr1yC9dmYM"
+    },
+    {
+      "album": {
+        "name": "Stand Up",
+        "url": "https://open.spotify.com/album/2830antyeEz07AIkDQpWhP"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241550,
+      "name": "Stand Up",
+      "url": "https://open.spotify.com/track/4LcpxbumkUC8OBNiwBf616"
     },
     {
       "album": {
@@ -6412,7 +6576,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 224353,
       "name": "Summer & Smoke - Trikk Selva Furia Remix",
       "url": "https://open.spotify.com/track/2hbIOgTUnun0uQqQFsgUOM"
@@ -6744,7 +6908,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 224549,
       "name": "The Future",
       "url": "https://open.spotify.com/track/6HXdL92qb3doVllJ5yChnd"
@@ -6976,7 +7140,7 @@
       ],
       "date_added": "2023-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 177851,
       "name": "Trippin Up",
       "url": "https://open.spotify.com/track/4hK0ysTJ6bUo6xDtonuq16"
@@ -7070,7 +7234,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 386020,
       "name": "Tux (Your Body Fills Me, Boo)",
       "url": "https://open.spotify.com/track/0cCGlP0ciQgqsg095WoRI7"
@@ -7274,6 +7438,32 @@
       "duration_ms": 584546,
       "name": "Voyager 2",
       "url": "https://open.spotify.com/track/5KK9nUtYsLyyYUQBQKEgom"
+    },
+    {
+      "album": {
+        "name": "Flaws in Our Design",
+        "url": "https://open.spotify.com/album/6qhaIg3gQcKrcQYv8BzCso"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Yellow House",
+          "url": "https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl"
+        },
+        {
+          "name": "Preston.",
+          "url": "https://open.spotify.com/artist/6N69WEWIfckF4KpLH6WLLC"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186795,
+      "name": "Waiting Forever",
+      "url": "https://open.spotify.com/track/4Slh7mZfToAtPaQXdoBM3c"
     },
     {
       "album": {
@@ -7692,6 +7882,28 @@
       "duration_ms": 148266,
       "name": "You Are Love",
       "url": "https://open.spotify.com/track/5VzFngamVe0VopupVkAcjK"
+    },
+    {
+      "album": {
+        "name": "You Knew",
+        "url": "https://open.spotify.com/album/4n3meu86cgj7FIwe0xvYKc"
+      },
+      "artists": [
+        {
+          "name": "R\u00f3is\u00edn Murphy",
+          "url": "https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8"
+        },
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "You Knew - Edit",
+      "url": "https://open.spotify.com/track/72UXdc6vi8bgtJHpTuLjHl"
     },
     {
       "album": {

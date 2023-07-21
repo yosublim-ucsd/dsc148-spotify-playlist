@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:0bGDTQ78MVgI5Snqo9KJZw">Qrion</a>'s favorite tracks\. Updated regularly\. Curated by Qrion\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-164 songs - 14 hr 33 min
+166 songs - 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,8 @@
 | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/track/7cnS0EPwBnP9ZIdGOAOY7c) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [GEE LEE](https://open.spotify.com/artist/77uLXqHKG5n6UYMUr0b0e5) | [Fake ID \(Coke & Rum Remix\)](https://open.spotify.com/album/7pKuRGliZzRAHJaFED7y6Q) | 2:06 | 2023-01-12 | 2023-06-03 |
 | [Fake ID \- Extended Mix](https://open.spotify.com/track/5agU3PEpVdU4FMYfcLESbu) | [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS) | [Fake ID](https://open.spotify.com/album/6JVsvw6mrOOD6fgJZmRb0A) | 4:28 | 2023-06-22 |  |
 | [Feel This Way](https://open.spotify.com/track/7EdhZv9O79tzsVMVgUcDnM) | [Baril](https://open.spotify.com/artist/1Jp1PucyRXfgIrzxyq81Ot) | [Feel This Way](https://open.spotify.com/album/24sbqqWnxPTFXcWSixrjB2) | 4:35 | 2023-06-02 |  |
-| [Fever](https://open.spotify.com/track/0Mbxt2EcmRUnajQsMWLK3c) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Fever](https://open.spotify.com/album/4AFiWn4LRmpoPM6VSe0ydM) | 2:52 | 2023-04-14 |  |
+| [Fever](https://open.spotify.com/track/0Mbxt2EcmRUnajQsMWLK3c) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [Fever](https://open.spotify.com/album/4AFiWn4LRmpoPM6VSe0ydM) | 2:52 | 2023-04-14 | 2023-07-21 |
+| [Fever](https://open.spotify.com/track/1KAZ7QTfcTzLSnKu5dtlmE) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI \(Mixtape\)](https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE) | 2:52 | 2023-06-30 |  |
 | [Fever](https://open.spotify.com/track/1y6Xi4BDKnjZ2jbLXkVeyu) | [Corporate Slackrs](https://open.spotify.com/artist/57TvkbpmyWEXja8k98ZFFB) | [Fever](https://open.spotify.com/album/0rNNOn3KmxWnFWrXo17KCq) | 3:14 | 2023-06-16 |  |
 | [Fire & Rain](https://open.spotify.com/track/2oEZcyvHetUDCB67e4uft9) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [bailey](https://open.spotify.com/artist/11cVIlWcbl4NaDtqlrVCaM) | [Fire & Rain](https://open.spotify.com/album/7sEj5kw3b1gi3iY5ijqJCJ) | 6:23 | 2023-01-12 | 2023-01-28 |
 | [Fireworks](https://open.spotify.com/track/0mogpLJRPJTCCdy5yV9qhl) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [I Hope It Lasts Forever](https://open.spotify.com/album/4Xim1jo6ziwJ1Qu6QkoLPj) | 4:24 | 2023-01-12 |  |
@@ -169,7 +170,8 @@
 | [We Got The Fire](https://open.spotify.com/track/4CLr66ZELcnHxwF5VaQ1rq) | [FREAK ON](https://open.spotify.com/artist/2KujQ1kiORdmd4GCruc4sZ) | [We Got The Fire](https://open.spotify.com/album/70mtojVDb94ESukEAWqZac) | 3:21 | 2023-01-12 | 2023-03-18 |
 | [We You](https://open.spotify.com/track/3WQ2ZSaSvkU6cmf6vZZb7Q) | [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [We You / Track 51](https://open.spotify.com/album/4QQMFcqAbJQgseDTKeC0Ov) | 3:32 | 2023-04-14 |  |
 | [What Does It Take \(Kornél Kovács Remix\)](https://open.spotify.com/track/1cFoALgfyqRC91trN6epzQ) | [Miljon](https://open.spotify.com/artist/1cQDZ3vvObFtSUrCIxGig7), [Kornél Kovács](https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22) | [What Does It Take \(Kornél Kovács Remix\)](https://open.spotify.com/album/26VYbPuALypqEMKAdPTHbS) | 6:04 | 2023-01-12 | 2023-01-28 |
-| [What If](https://open.spotify.com/track/3vseyNLwyEmY8iRs1Jji4N) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [What If](https://open.spotify.com/album/3exQ4HL1e66YnZGd2bYNgz) | 3:25 | 2023-03-17 |  |
+| [What If](https://open.spotify.com/track/3vseyNLwyEmY8iRs1Jji4N) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [What If](https://open.spotify.com/album/3exQ4HL1e66YnZGd2bYNgz) | 3:25 | 2023-03-17 | 2023-07-21 |
+| [What If](https://open.spotify.com/track/6V2J1bvchhoi64ycvaxmDj) | [ATRIP](https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI) | [TANZPARTEI \(Mixtape\)](https://open.spotify.com/album/7hK3Or2cOHmkq9M5Di4cgE) | 3:25 | 2023-06-30 |  |
 | [Wish I Knew](https://open.spotify.com/track/4LbRlcWWiY68c0zXJEqtwW) | [Jewels](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [WATEVA](https://open.spotify.com/artist/68D0OoPnJ7buwHp1YGrckH), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Wish I Knew](https://open.spotify.com/album/1rd4syO1UlYp3w5si1BZak) | 3:46 | 2023-01-12 | 2023-06-03 |
 | [Your Love](https://open.spotify.com/track/6dOLWS1ee89ZezU4aRnpaX) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Your Love](https://open.spotify.com/album/2qlU5QR86qqrdWDG3UvGTT) | 4:09 | 2023-01-12 |  |
 

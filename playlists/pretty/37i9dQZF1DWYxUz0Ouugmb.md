@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 
 ### [RADAR Indonesia](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Awdella
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Maulana Ardiansyah
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,484 likes - 39 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,496 likes - 39 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Akhir Cerita Cinta](https://open.spotify.com/track/015Ot9oX7wEKAafr1L74wu) | [The Bakuucakar](https://open.spotify.com/artist/3yJ1arup3yyqX2GbCs3PUs), [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Akhir Cerita Cinta](https://open.spotify.com/album/42kfP3Blcw7nbqmCBq8Rem) | 5:04 |
-| 2 | [Gerhana Dalam Cinta \- Live Ska Reggae](https://open.spotify.com/track/3MYekiBFtjZ7SwXskTznfP) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Ochi Alvira](https://open.spotify.com/artist/0IDoFKt8JOLluarIdWJ5aZ) | [Gerhana Dalam Cinta \(Live Ska Reggae\)](https://open.spotify.com/album/4RjS7Q0ABbNKdPiHeTRIjB) | 5:38 |
+| 1 | [Gerhana Dalam Cinta \- Live Ska Reggae](https://open.spotify.com/track/3MYekiBFtjZ7SwXskTznfP) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Ochi Alvira](https://open.spotify.com/artist/0IDoFKt8JOLluarIdWJ5aZ) | [Gerhana Dalam Cinta \(Live Ska Reggae\)](https://open.spotify.com/album/4RjS7Q0ABbNKdPiHeTRIjB) | 5:38 |
+| 2 | [Akhir Cerita Cinta](https://open.spotify.com/track/015Ot9oX7wEKAafr1L74wu) | [The Bakuucakar](https://open.spotify.com/artist/3yJ1arup3yyqX2GbCs3PUs), [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Akhir Cerita Cinta](https://open.spotify.com/album/42kfP3Blcw7nbqmCBq8Rem) | 5:04 |
 | 3 | [no more you and i](https://open.spotify.com/track/7H6r6d4vum3mzN47bKG0sN) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [no more you and i](https://open.spotify.com/album/5KIKGZwMCqvxlj29yJ8rSK) | 3:20 |
 | 4 | [NO DIRECTION](https://open.spotify.com/track/2qCIBmjVktPZOF33xj1rjU) | [ENVY\*](https://open.spotify.com/artist/0wMJryVOHUmtw8y05i7puj) | [NO DIRECTION](https://open.spotify.com/album/4OE5PgfgHEwqGlYW7xW6PF) | 2:26 |
 | 5 | [Terlintas](https://open.spotify.com/track/22Psd9lrrgVbTERHCGo7i1) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Terlintas](https://open.spotify.com/album/5K8xqV7MCe3UIfedVAlZSe) | 3:55 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 | 38 | [Amin Kita Beda](https://open.spotify.com/track/4p1KGLLCWRPd83EMds7APR) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Amin Kita Beda](https://open.spotify.com/album/6U2e0q8eld9ufm7hQ9z6FL) | 4:08 |
 | 39 | [Cinta Air Mata](https://open.spotify.com/track/1Mhevyt2cl5lvG3htZoK7a) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Cinta Air Mata](https://open.spotify.com/album/7LdARvPk1Wms5pKXqP5UUp) | 4:39 |
 
-Snapshot ID: `MCw0YWFjZTc0ZWFjZTM0NTgyYTg5Y2M0ZDc5N2QzMDgxZTM1MjI3YzI2`
+Snapshot ID: `MCwwYTg4MmFjODQyNDBhZmZmOTFkNmRmNjExMjA4OTc2YWQ5YTVlNzE0`

@@ -1,13 +1,77 @@
 {
   "description": "Listen to the surprise songs from each night of Taylor Swift | The Eras tour",
-  "num_followers": 113846,
+  "num_followers": 114120,
   "original_name": "Surprise Song Era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTI3Njg2ZmVmMmQ3ZTIxYzBkYmNhYTQxZTE5NDVmZjc2OWJmNDQ4",
+  "snapshot_id": "MCwwMDJlMmIyNGI3MDA2YmEyZjZmOWMzNzcxMWE4ZDNhYTJhNTRkOWYw",
   "tracks": [
+    {
+      "added_at": "2023-07-20 14:24:46",
+      "album": {
+        "name": "Taylor Swift",
+        "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 173066,
+      "name": "Picture To Burn",
+      "url": "https://open.spotify.com/track/32mVHdy0bi1XKgr0ajsBlG"
+    },
+    {
+      "added_at": "2023-07-20 14:24:46",
+      "album": {
+        "name": "Speak Now (Taylor's Version)",
+        "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 321396,
+      "name": "Timeless (Taylor\u2019s Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/1HCdems7PQZRj42QDWLA0A"
+    },
+    {
+      "added_at": "2023-07-20 14:24:46",
+      "album": {
+        "name": "Red (Taylor's Version)",
+        "url": "https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 220413,
+      "name": "Starlight (Taylor's Version)",
+      "url": "https://open.spotify.com/track/7A2cNLRT0YJc1yjxHlKihs"
+    },
+    {
+      "added_at": "2023-07-20 14:24:46",
+      "album": {
+        "name": "Speak Now (Taylor's Version)",
+        "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 294189,
+      "name": "Back To December (Taylor's Version)",
+      "url": "https://open.spotify.com/track/79uDOz0zuuWS7HWxzMmTa2"
+    },
     {
       "added_at": "2023-07-09 15:49:47",
       "album": {

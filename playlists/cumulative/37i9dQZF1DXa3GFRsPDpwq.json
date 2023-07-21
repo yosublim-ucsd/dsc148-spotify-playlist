@@ -5,6 +5,32 @@
   "tracks": [
     {
       "album": {
+        "name": "The Project",
+        "url": "https://open.spotify.com/album/5ccCV9iNxUARYLfWDzALWn"
+      },
+      "artists": [
+        {
+          "name": "Lee Seung Gi",
+          "url": "https://open.spotify.com/artist/12AUp9oqeJDhNfO6IhQiNi"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Hareem",
+          "url": "https://open.spotify.com/artist/5WWxAYrskMnRaWLDUbuY20"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189173,
+      "name": "A Song Make to You Smile",
+      "url": "https://open.spotify.com/track/5blZcMwtCrPa7bp7lMBiTt"
+    },
+    {
+      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/08HCdXZVN72S2vpIT9DKhU"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTn6daQVbOa.md) - [plain]
 
 > Mellow songs from the 1970s\. Cover: Tom Waits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 492,378 likes - 150 songs - 9 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 492,709 likes - 150 songs - 9 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTn6daQVbOa.md) - [plain]
 | 149 | [Wishing on a Star](https://open.spotify.com/track/0u2CGItUO2jYEiFaXD7n5S) | [Rose Royce](https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO) | [In Full Bloom](https://open.spotify.com/album/19fTeMlAjRVFT9jTTkHvRk) | 4:51 |
 | 150 | [Three Times A Lady](https://open.spotify.com/track/4ztwMHfPZhPoruZdBbgriM) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [All The Great Love Songs](https://open.spotify.com/album/5ZsWgDWvZ2luAHlczO8h2o) | 3:37 |
 
-Snapshot ID: `MCwyNTk5NjQ5OTZhZGNiNTBmNDk0ZDc2MmM2ZjIyYzE5MGRkOTU5OTQz`
+Snapshot ID: `MCw3YmIzMWZmMDc5MmRiMWRmNzFmMzJlZmRiY2NhZTRlYjAyZWE0YjU3`

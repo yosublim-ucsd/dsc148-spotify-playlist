@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Pm0RFqsA0C.md) - [plain]
 
 > 90년대 댄스를 즐기고 싶은 사람 손!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,980 likes - 150 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,984 likes - 150 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Pm0RFqsA0C.md) - [plain]
 | 149 | [맥주와 땅콩](https://open.spotify.com/track/2VoJPrLM3lxfE9DiDhE4yL) | [COOL](https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9) | [Cool Best](https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA) | 3:52 |
 | 150 | [해석남녀](https://open.spotify.com/track/6p5cxU5TOjWQU9UfozgIq9) | [COOL](https://open.spotify.com/artist/0w3PsroIezW7uRTNxEJLb9) | [Cool Best](https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA) | 3:22 |
 
-Snapshot ID: `MCw0MmI2MmZmMzhhNzBlMDU0YjllNDcxYjExZjU1YTFlZjBiMzk3MjU1`
+Snapshot ID: `MCxiNjFlMTU1MjFiOGUxY2UxODI2MzY1OWEwMjEwZGFmODU3YjRlM2Q3`

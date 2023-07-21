@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Tz da Coronel e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,397 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,634 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 49 | [Pretinha \(de Salcity\)](https://open.spotify.com/track/4qhPkOGRUlwjGKO2FsuOxW) | [Thiago Elniño](https://open.spotify.com/artist/5x7AmAnecUurZjYguXAwED) | [ONDAS](https://open.spotify.com/album/4b1O7wtENvaRiNtj2EwxcR) | 3:48 |
 | 50 | [O Preço da Guerra](https://open.spotify.com/track/3kfLTBsbfEXKD7VkZ3uwIu) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Lino Krizz](https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 4:49 |
 
-Snapshot ID: `MCw5MDhjMTU4MzdjZjA3YjFhZDEyM2ZiODM4ZTc1NDdkYzA5Y2M1MzE1`
+Snapshot ID: `MCw4MTcyOTI0MDQ3OGExYzc4YjM1NGE1NDZkNzA5YzFiNjA1YzM4OGVi`

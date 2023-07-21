@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > Emerging Indie artists on the rise, updated every Wednesday\. Cover: Shivam Grover , Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,263 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,279 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 14 | [Aaftab](https://open.spotify.com/track/1fFa1AF2vQfTCfKDpl2ujT) | [Rajiv Dayal](https://open.spotify.com/artist/3OY4REdDcTl0XKl7gjvEih) | [Aaftab](https://open.spotify.com/album/6UZgALlUwDJBIfA8avEGUA) | 3:16 |
 | 15 | [Glow](https://open.spotify.com/track/6AZbKImrBbR88qeyCsxQq1) | [the butterfly effect\_india](https://open.spotify.com/artist/6TIHNs8WXvLHbNvt1Uripg) | [Glow](https://open.spotify.com/album/4UYKGj3GVm7AaEKZFVaMBe) | 3:30 |
 | 16 | [Laapata](https://open.spotify.com/track/15RXZktbkcPsN3Uuks88UX) | [Paakhi Saikia](https://open.spotify.com/artist/1KlaZy25OztQdE3RAcIOL0) | [Laapata](https://open.spotify.com/album/5ctA7MoP9qZFeZK29KNLoO) | 4:12 |
-| 17 | [Yeh Aawaaz](https://open.spotify.com/track/39IBuQdzSacBwV5Ji6yhFa) | [Bryden & Parth](https://open.spotify.com/artist/0xm9AriR5cmVDwMBWL2HHo) | [Yeh Aawaaz](https://open.spotify.com/album/7wDY49G9uLEELKLrtghaY5) | 4:22 |
+| 17 | [Yeh Aawaaz](https://open.spotify.com/track/6drnBPgMZws9STY3QdFzmP) | [Bryden & Parth](https://open.spotify.com/artist/0xm9AriR5cmVDwMBWL2HHo) | [Chameleon World](https://open.spotify.com/album/0W5BRKhmZrLpoIyokbnIzX) | 4:22 |
 | 18 | [Rendezvous](https://open.spotify.com/track/1OKOpGDd2SpEEhXkq5t5D7) | [Carolina Norbu](https://open.spotify.com/artist/6Vvjl4JhGGwJvcrzNKsyFP) | [Rendezvous](https://open.spotify.com/album/0O8vD6SmU17NkDigAlbtHJ) | 3:51 |
 | 19 | [Maybe](https://open.spotify.com/track/6CoEEG4luZf5d12FIA598Y) | [Lakshya Bihani](https://open.spotify.com/artist/4eRCnLuSk0squITVWahz9S) | [Maybe](https://open.spotify.com/album/5tToU1wFfMLG4MV5SfZ4Qb) | 3:09 |
 | 20 | [Kaho na](https://open.spotify.com/track/5znUlfypbCVjEzqGvzy0Xw) | [Abir](https://open.spotify.com/artist/0XHapa0VH6XHwA3wlqextO) | [Kaho na](https://open.spotify.com/album/3z1UN7JGoHwRv8E1gwoG6E) | 2:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [Indigo](https://open.spotify.com/track/7mlGKWXA5ZV6HZibmRruqD) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Indigo](https://open.spotify.com/album/1eGowsUsY6D99t8NsxpRK7) | 3:20 |
 | 100 | [Humsafar](https://open.spotify.com/track/0576MAgEyAJMQpviMUNfvZ) | [Comic Book](https://open.spotify.com/artist/2IBARFFNxPdd7JSAu5sAZk) | [Humsafar](https://open.spotify.com/album/0bAbL6yDI7654U3ooO98YJ) | 4:02 |
 
-Snapshot ID: `MCwzZDIxZjU2MjExOWQyNmI2ZmMwYmQzMGU0ZjQ5MGJkOGU1M2Q2ZGNi`
+Snapshot ID: `MCw0NmM1OWVkNDZhMzY0ZDM5ZTBiYWYyNjc1MTJhYTRjYTczNGY0ZDg1`

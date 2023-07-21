@@ -4,7 +4,7 @@
 
 > Certi amori bruciano di più\. Cover: Shiva
 
-135 songs - 7 hr 1 min
+136 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Pensando a lei](https://open.spotify.com/track/4Yi4RRhp3nfKR1FDbXlHBp) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Pensando a lei](https://open.spotify.com/album/16TddOdM2qRyKoyjy05nQn) | 2:56 | 2022-05-03 |  |
 | [Prometto \(feat\. Rkomi & Luchè\)](https://open.spotify.com/track/35DgCphwTxRkI2jUec0mWA) | [Night Skinny](https://open.spotify.com/artist/2E6AK3UPEGCvjnzuygCh2h), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Mattoni](https://open.spotify.com/album/1l1cFQQfIbsDDbPavkCosf) | 3:14 | 2022-05-03 |  |
 | [Purple](https://open.spotify.com/track/6L2omWeSyC8TLGzSRdwCvn) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Chris Nolan](https://open.spotify.com/artist/1xsYReh7zhty26wD4tprKh) | [Vita Vera \- Mixtape, aspettando la Divina Commedia](https://open.spotify.com/album/3VcvEJUFZn6md3wW8kVaJS) | 3:10 | 2022-05-03 |  |
+| [Qualcosa da bere](https://open.spotify.com/track/5exPVjfGC9CNztXOGp8pEI) | [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Geeno](https://open.spotify.com/artist/2GyLz0gcl3zDPPql47YWEy) | [Qualcosa da bere](https://open.spotify.com/album/6LSWJbpX34FT3KbQS1CfI1) | 3:10 | 2023-07-13 |  |
 | [Quando Sto Con Te](https://open.spotify.com/track/2FLuWGIR4WwxWbdwZ0GHwd) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK) | [Eclissi](https://open.spotify.com/album/0VliboIrLzdC2Qgjdm5V4S) | 3:01 | 2022-05-12 | 2022-06-03 |
 | [Quando tu mi baci](https://open.spotify.com/track/1SPbN6ppUSIcOTZAO2HoCf) | [chiello](https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h), [Powv\_fsk](https://open.spotify.com/artist/0IPhGUowAYS8nr7nT9synf) | [Quando tu mi baci](https://open.spotify.com/album/3i8BJ5YnNat8a8zzUiM8gd) | 3:18 | 2022-05-03 | 2022-06-23 |
 | [Red Light](https://open.spotify.com/track/1kZLATTXQa5BtEKH8GbW2U) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [La Divina Commedia](https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl) | 2:47 | 2023-06-22 |  |

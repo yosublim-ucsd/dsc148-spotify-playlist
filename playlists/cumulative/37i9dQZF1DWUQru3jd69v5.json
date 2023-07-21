@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Niky Savage in cover. ",
+  "description": "La nuova generazione del rap italiano. Aggiornata ogni venerd\u00ec. Artie 5ive e Sacky in cover. ",
   "name": "Raptopia",
   "tracks": [
     {
@@ -492,6 +492,24 @@
       "duration_ms": 125208,
       "name": "A Giro",
       "url": "https://open.spotify.com/track/5DLLzNLx7xpwRoifmJfIIN"
+    },
+    {
+      "album": {
+        "name": "a noi",
+        "url": "https://open.spotify.com/album/1UhfqV38NlewYCRIPVSCHO"
+      },
+      "artists": [
+        {
+          "name": "22simba",
+          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123428,
+      "name": "a noi",
+      "url": "https://open.spotify.com/track/5pz649irprcCCLgevRsNjo"
     },
     {
       "album": {
@@ -1674,6 +1692,24 @@
       "duration_ms": 148384,
       "name": "Bimba",
       "url": "https://open.spotify.com/track/6O0URMZLhNyS2d6Ip1jOTC"
+    },
+    {
+      "album": {
+        "name": "Bipolare",
+        "url": "https://open.spotify.com/album/6NNHxBFTvWztjhDqfnCXz6"
+      },
+      "artists": [
+        {
+          "name": "Voleur pnz",
+          "url": "https://open.spotify.com/artist/6BGAhqSN3qEqlZRpMogAFN"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142222,
+      "name": "Bipolare",
+      "url": "https://open.spotify.com/track/6gvJmi8NRtWKOFZgemB97X"
     },
     {
       "album": {
@@ -3076,6 +3112,28 @@
     {
       "album": {
         "name": "Con Te",
+        "url": "https://open.spotify.com/album/7o46tgw63JOeayBOcQlMrw"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e8s Las",
+          "url": "https://open.spotify.com/artist/5yxzT7i5hJK48tqWWfU3iO"
+        },
+        {
+          "name": "Dalu",
+          "url": "https://open.spotify.com/artist/4oIQqm101EnDn0FjhreaIi"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169727,
+      "name": "Con Te",
+      "url": "https://open.spotify.com/track/0cqrtm4RTq72e6RHJEmkqb"
+    },
+    {
+      "album": {
+        "name": "Con Te",
         "url": "https://open.spotify.com/album/6yRcSRnjcoc9kSvWEmkR2i"
       },
       "artists": [
@@ -3994,7 +4052,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 146597,
       "name": "Ego",
       "url": "https://open.spotify.com/track/5x1JWaZiRXwT3pRXlcNygi"
@@ -5130,7 +5188,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 175670,
       "name": "GENOVA",
       "url": "https://open.spotify.com/track/1JcihIEZh4vFqJmN5sOpyD"
@@ -5921,6 +5979,24 @@
     },
     {
       "album": {
+        "name": "HOUMA 2",
+        "url": "https://open.spotify.com/album/69BlEJWR5eZmtVS3hVqcZX"
+      },
+      "artists": [
+        {
+          "name": "Helmi sa7bi",
+          "url": "https://open.spotify.com/artist/2mvMdmcLoPwfaUHlgwRJlj"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142286,
+      "name": "HOUMA 2",
+      "url": "https://open.spotify.com/track/6xzQob6VIyKgMcjRWsfZ9u"
+    },
+    {
+      "album": {
         "name": "Il ballo dei soldi",
         "url": "https://open.spotify.com/album/1E0UP75s2950CegI1dgSwg"
       },
@@ -6220,7 +6296,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 169361,
       "name": "Intrappolato",
       "url": "https://open.spotify.com/track/1sQMclTeT9jLoQ56XrqU8p"
@@ -7234,7 +7310,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 123000,
       "name": "LET IT GO (feat. Heartman)",
       "url": "https://open.spotify.com/track/7963JSNlzDoXXOCbDj7a0U"
@@ -7274,7 +7350,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 176470,
       "name": "LETTERA",
       "url": "https://open.spotify.com/track/4oHwqqnbBNiDreQjRAFaGV"
@@ -7332,6 +7408,24 @@
       "duration_ms": 112941,
       "name": "Lit",
       "url": "https://open.spotify.com/track/1p3rGzmahJE7aA32Eyvfw8"
+    },
+    {
+      "album": {
+        "name": "LOGIN",
+        "url": "https://open.spotify.com/album/7CSUEnbclK7M6Jxtg3y8mo"
+      },
+      "artists": [
+        {
+          "name": "Luciennn",
+          "url": "https://open.spotify.com/artist/6qHbYx76y5bQSbBMUYhhuP"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166274,
+      "name": "LOGIN",
+      "url": "https://open.spotify.com/track/6D4VFNUPmR79KOoZ7lm4Vi"
     },
     {
       "album": {
@@ -7594,6 +7688,28 @@
       "duration_ms": 155844,
       "name": "Mamma Ho L'Ansia",
       "url": "https://open.spotify.com/track/0trkYuQztYMYtGBCEBBgTv"
+    },
+    {
+      "album": {
+        "name": "Mamma mia",
+        "url": "https://open.spotify.com/album/1HBL5a07HaFQe4W4t87F3u"
+      },
+      "artists": [
+        {
+          "name": "Disme",
+          "url": "https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p"
+        },
+        {
+          "name": "La traviesa malcr\u00eda",
+          "url": "https://open.spotify.com/artist/3OKlJrSBwCQSGnWZOQ2zeW"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145827,
+      "name": "Mamma mia",
+      "url": "https://open.spotify.com/track/7cUPqZgJGZZ3Ljg51wn1by"
     },
     {
       "album": {
@@ -8808,7 +8924,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 160319,
       "name": "NIKE (feat. Tony Boy, Digital Astro)",
       "url": "https://open.spotify.com/track/5rKeKZlZ3u0bT7QvWMts7C"
@@ -9084,7 +9200,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 183455,
       "name": "Nueva Obsesi\u00f3n (160)",
       "url": "https://open.spotify.com/track/0h3RNZ9dUAVrlqxJpDSdxs"
@@ -9444,6 +9560,28 @@
       "duration_ms": 126545,
       "name": "PAGA (feat. Kerim Levrai, Orfedi, MadPrince, Marsiglia)",
       "url": "https://open.spotify.com/track/5twuziyJFCD8Z47wkgKB3M"
+    },
+    {
+      "album": {
+        "name": "Pampano (feat. Guesan)",
+        "url": "https://open.spotify.com/album/5M5mt8xuU3O2BK9yF5xqYy"
+      },
+      "artists": [
+        {
+          "name": "ALDA",
+          "url": "https://open.spotify.com/artist/4QmwiQZRTMyOkhgfJk3U5F"
+        },
+        {
+          "name": "Guesan",
+          "url": "https://open.spotify.com/artist/1eMrj0akHMVF8HpxG1OrLD"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123138,
+      "name": "Pampano (feat. Guesan)",
+      "url": "https://open.spotify.com/track/5OEIk9sx6cAam8OXzIbBgm"
     },
     {
       "album": {
@@ -10064,6 +10202,24 @@
       "duration_ms": 155087,
       "name": "Possessivo",
       "url": "https://open.spotify.com/track/1StQ4CHZwKz54nXwZ1O3VM"
+    },
+    {
+      "album": {
+        "name": "LYSSAVIRUS",
+        "url": "https://open.spotify.com/album/3MV2PMen1RMpu6CIcFHJJc"
+      },
+      "artists": [
+        {
+          "name": "Kilimoney",
+          "url": "https://open.spotify.com/artist/01lVP0L85U9jYVREPOB8RG"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142000,
+      "name": "POTO",
+      "url": "https://open.spotify.com/track/52Z2uZEWw75QL8P4BDRinp"
     },
     {
       "album": {
@@ -12421,6 +12577,28 @@
     },
     {
       "album": {
+        "name": "TE QUIERO (feat. LJK)",
+        "url": "https://open.spotify.com/album/6jIMxY0YYVng0T2m6PrGZK"
+      },
+      "artists": [
+        {
+          "name": "Philip",
+          "url": "https://open.spotify.com/artist/0rq5wppHKGTFcdl8da5ODZ"
+        },
+        {
+          "name": "LJK",
+          "url": "https://open.spotify.com/artist/6KPfd2qfwePi6IM7RyQ3hd"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174224,
+      "name": "TE QUIERO (feat. LJK)",
+      "url": "https://open.spotify.com/track/3iMyhsqTI6i7C55ihN5ejG"
+    },
+    {
+      "album": {
         "name": "TE STESSO",
         "url": "https://open.spotify.com/album/5hjiIwxMtHzmJakFskfNdJ"
       },
@@ -12703,6 +12881,28 @@
     },
     {
       "album": {
+        "name": "ASPETTANDO LA BELLA VITA",
+        "url": "https://open.spotify.com/album/7kPBwGRrSCDXGUuxcD6AWb"
+      },
+      "artists": [
+        {
+          "name": "Artie 5ive",
+          "url": "https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF"
+        },
+        {
+          "name": "Sacky",
+          "url": "https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220255,
+      "name": "TOP G (feat. Sacky)",
+      "url": "https://open.spotify.com/track/7w3M35YQ9VD91c4Lpos8Zz"
+    },
+    {
+      "album": {
         "name": "Tortellini alla Paulo Dybala",
         "url": "https://open.spotify.com/album/3LDu3gqSvaVHqZmWlOtUHJ"
       },
@@ -12714,7 +12914,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 134400,
       "name": "Tortellini alla Paulo Dybala",
       "url": "https://open.spotify.com/track/6t1LlfS4FM7lNPu4DvQVu9"
@@ -12876,7 +13076,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 128326,
       "name": "TRAPPOLA",
       "url": "https://open.spotify.com/track/1ztQeuaic7ZxTksIBcTn0l"
@@ -13608,7 +13808,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 149464,
       "name": "WAO",
       "url": "https://open.spotify.com/track/24mzKw9LcwPNUMHSFAarvJ"

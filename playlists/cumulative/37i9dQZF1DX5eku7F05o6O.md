@@ -4,7 +4,7 @@
 
 > Le plus beau, le plus triste\. Photo: Alexandra Streliski
 
-163 songs - 10 hr 31 min
+164 songs - 10 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,8 @@
 | [Le loup \- Version Vingt](https://open.spotify.com/track/7FZkU5hT76JMpnIlztIrTX) | [Catherine Durand](https://open.spotify.com/artist/5AmMLTm7GBQ5AHCGioFshD), [Alexandre Désilets](https://open.spotify.com/artist/3zmCgv8ATJj6TCHlD6S7lN) | [Vingt](https://open.spotify.com/album/3KVmGQVPJHhR324wgfySWH) | 4:49 | 2021-02-06 |  |
 | [Le nouveau vocabulaire](https://open.spotify.com/track/1evGFktCJPdkVKe6rAzZ3N) | [Antoine Corriveau](https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak) | [Les ombres longues](https://open.spotify.com/album/1t9tJMcqM13KXF0sM6HZo9) | 3:08 | 2021-02-06 | 2022-07-29 |
 | [Le nouveau vocabulaire](https://open.spotify.com/track/5dhWyASbSFyAarXtYfovgH) | [Antoine Corriveau](https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak) | [Les Ombres Longues](https://open.spotify.com/album/1VWw0MtGZlUXZMcANHMzCX) | 3:08 | 2021-02-06 |  |
-| [Le plein de réconfort](https://open.spotify.com/track/0zIxFGUFxSX6bsvi5rGpso) | [Marie\-Ange](https://open.spotify.com/artist/2t76M9H9KJ4XazdAuVGaOR) | [Le plein de réconfort](https://open.spotify.com/album/1KTXKn0b9CCX1jrK1fJ96Z) | 3:35 | 2021-02-06 |  |
+| [Le plein de réconfort](https://open.spotify.com/track/0zIxFGUFxSX6bsvi5rGpso) | [Marie\-Ange](https://open.spotify.com/artist/2t76M9H9KJ4XazdAuVGaOR) | [Le plein de réconfort](https://open.spotify.com/album/1KTXKn0b9CCX1jrK1fJ96Z) | 3:35 | 2021-02-06 | 2023-07-21 |
+| [Le plein de réconfort](https://open.spotify.com/track/5bK1QSJQr6bzmw14C38cB8) | [Marie\-Ange](https://open.spotify.com/artist/2t76M9H9KJ4XazdAuVGaOR) | [Le plein de réconfort](https://open.spotify.com/album/3vkPYDNAcj1AeHtkrau0bd) | 3:35 | 2021-02-06 |  |
 | [Le repère tranquille](https://open.spotify.com/track/5LfohBLHNOqSCGEOKpsMFf) | [Vincent Vallières](https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen) | [Le repère tranquille](https://open.spotify.com/album/7o5ciM3GFGniUcvpxHlG0O) | 3:23 | 2021-02-06 |  |
 | [Le repère tranquille](https://open.spotify.com/track/6LI182nQ8jSpGNxzgOkmwe) | [Vincent Vallières](https://open.spotify.com/artist/2iG6QPoQAVjR93cWyMKqen) | [Le repère tranquille](https://open.spotify.com/album/5qEHJ2b6uomitybvsm3Vvm) | 3:23 | 2021-02-06 | 2022-07-29 |
 | [Le vent m'appelle par mon prénom](https://open.spotify.com/track/7gFrTI2qkBEbEfwFzOp1Pg) | [Marie\-Pierre Arthur](https://open.spotify.com/artist/2IAG8mcBKZoIc5VbcPgNNc) | [Marie\-Pierre Arthur](https://open.spotify.com/album/3VD4p7ieiDKVZ9GVOETzzI) | 4:13 | 2021-02-06 | 2022-07-29 |

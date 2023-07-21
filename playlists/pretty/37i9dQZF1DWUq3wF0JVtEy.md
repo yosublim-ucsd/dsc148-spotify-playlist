@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-[Spotify](https://open.spotify.com/user/spotify) - 928,183 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 928,392 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUq3wF0JVtEy.md) - [plain]
 | 99 | [Night Shift](https://open.spotify.com/track/1wxgWPF7uUr9aHDC9QuMEO) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [MASTERIA](https://open.spotify.com/artist/1cI5bP7j48xbopq0T3PRZO) | [Night Shift](https://open.spotify.com/album/5bjUYlYhUdopRQw4Lq4cKT) | 3:50 |
 | 100 | [Bang Bang](https://open.spotify.com/track/4IC1c5WgaeW1k3kAB7VMTH) | [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Jake Tarry](https://open.spotify.com/artist/7qIllFUqzpSFXfdcwQlP7r) | [Bang Bang](https://open.spotify.com/album/5C0wNtxNy0dMhY7mfX6mYJ) | 2:24 |
 
-Snapshot ID: `MCxlODNjZDVjODc4NjhhMWRiYzQxN2QyNTI1MGRkMmUwNzkzZjU2Nzk1`
+Snapshot ID: `MCw2NjU2ZTdjYjJhYzkzNTMzYjgyZWI5Y2MwMTU1NDRiODhhZmZhMjM0`

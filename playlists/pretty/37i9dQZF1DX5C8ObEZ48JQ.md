@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover:  <a href="https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV?si=vmyg8\-p7QOGOeEt9OPygIQ"> Rukmani </a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,185 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,191 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 49 | [radio silence.](https://open.spotify.com/track/71v4C5FtIcJqs2soLAJ6dO) | [Mom Tudie](https://open.spotify.com/artist/1wd0PsPr7L269FkA1bVnA8) | [what's different\. // radio silence.](https://open.spotify.com/album/56qcks4i9fQqwdrga7QCDR) | 2:10 |
 | 50 | [falling\~](https://open.spotify.com/track/7dgMFMUHS85HV610Z4uCRk) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [leave me i'm drowning](https://open.spotify.com/album/7vDRqpXgAFCzG1gi4UaWAy) | 3:26 |
 
-Snapshot ID: `MCxjYzQ4N2JjMTk1M2IzMjQ5ZWZkZGQ5YWM0OGQ5ZWE5YzAwZjY5ZmM1`
+Snapshot ID: `MCwyOTRkZGE2ZmM1NjdhMTA3YjY5ZTJkNzgyOGVlZjlmYzI3ZDIxMDYw`

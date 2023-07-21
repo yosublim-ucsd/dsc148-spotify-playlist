@@ -2,9 +2,9 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/6Skl2RueCJYKBBm1Yr6BBQ?si=114mRukaRMy6FHAipWDH8w">Riana Nel</a>
+> Net die beste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41?si=rR1PpJXuSFO7jh3FvO\-2Vw">Franja Du Plessis</a>
 
-157 songs - 8 hr 45 min
+159 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Drink](https://open.spotify.com/track/0ES7dRb7iXkQ2GB3FfBfPa) | [Frikkie Braaibroodjie](https://open.spotify.com/artist/2AbLDwbYJ3Fq0dk8Wr0PTL) | [Drink](https://open.spotify.com/album/1TAfabaZ5Y59atQoCqi4jx) | 3:18 | 2022-12-01 | 2023-02-10 |
 | [EEN TWEE](https://open.spotify.com/track/55OBFEGwJ1cR3aaEsSocB2) | [JohnJ](https://open.spotify.com/artist/5TzLGHF0k3Vev4SGCxq9jT), [ShokBasse](https://open.spotify.com/artist/5T2FFt1abRd5ZJKrzB2ZZj) | [EEN TWEE](https://open.spotify.com/album/3MO3xOBykVnnbqOCXzg1JB) | 2:25 | 2022-07-14 | 2022-10-14 |
 | [Ek Like Jou](https://open.spotify.com/track/1xG077ty9EwidOBANZwKlD) | [Leah](https://open.spotify.com/artist/46aCUT92RT7Q9QwhZuaNXh) | [Ek Like Jou](https://open.spotify.com/album/4XP2UPBce2DLra8bZ2DXQp) | 3:24 | 2022-09-14 |  |
-| [Ek Ly Aan](https://open.spotify.com/track/5q7za64TQKzLN6qga093Jo) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Ek Ly Aan](https://open.spotify.com/album/60enOSqxjh06pLpDFRkzD8) | 3:17 | 2023-02-09 |  |
+| [Ek Ly Aan](https://open.spotify.com/track/5q7za64TQKzLN6qga093Jo) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Ek Ly Aan](https://open.spotify.com/album/60enOSqxjh06pLpDFRkzD8) | 3:17 | 2023-02-09 | 2023-07-21 |
 | [Ek Moes Ek Wou Ek Sou](https://open.spotify.com/track/4M5ZYtZaATYEjmCY1I78sR) | [Ivan Roux](https://open.spotify.com/artist/1g1AK4xNX5bIhp6fXLtHbA) | [Ek Moes Ek Wou Ek Sou](https://open.spotify.com/album/4fAIx1F240tedTZvZVouJm) | 3:20 | 2022-05-05 |  |
 | [Ek Sê So](https://open.spotify.com/track/2q8HCRTpxZrqErJ3RqOpRT) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Ek Sê So](https://open.spotify.com/album/1w40mnsJMQ65QLtsn5xZhB) | 3:01 | 2022-12-22 | 2023-06-30 |
 | [Ek Wens](https://open.spotify.com/track/7cYUAAyZDMOLBqhzXCen7S) | [Ray Dylan](https://open.spotify.com/artist/6eUxX7dCHCaXNNMvYtBhxY) | [Ek Wens](https://open.spotify.com/album/7s1ETgKwUedSSPMIJTY6Hg) | 3:57 | 2022-11-10 | 2023-06-04 |
@@ -57,6 +57,7 @@
 | [Gooi Nog 'n Whiskey](https://open.spotify.com/track/7Bn6wlpyw2ucBHxdDYEAUT) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Spontaan](https://open.spotify.com/album/25pTHMFYTDNLVnEqRKIVQl) | 3:00 | 2023-03-09 |  |
 | [H2Oë](https://open.spotify.com/track/6NB2npCHsGXQ059pMhXJzl) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [H2Oë](https://open.spotify.com/album/3TXkgPC5iTyXXyJPKR01lP) | 2:55 | 2022-08-25 |  |
 | [Haai Haai](https://open.spotify.com/track/7oNaAYHagyDVzB8YoyhuMm) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7), [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg) | [Haai Haai](https://open.spotify.com/album/7pcS22M4wts8bcT1pBoB0y) | 3:18 | 2022-06-30 |  |
+| [Hakahana](https://open.spotify.com/track/4CpYNgOR68YBngjZ1z1DFH) | [Franja Du Plessis](https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41) | [Hakahana](https://open.spotify.com/album/1flV02HwwjK81hNI6jzNxS) | 3:05 | 2023-07-20 |  |
 | [Hand Aan Hand](https://open.spotify.com/track/0wgq7qI1QTtlto5lfGJ6s9) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Hand Aan Hand](https://open.spotify.com/album/4FQlZyq5FppU7BrtK93U5Y) | 3:58 | 2022-04-20 |  |
 | [Handgranaat](https://open.spotify.com/track/0nirzE8VzdxQJDLk4UC1WV) | [Christia Visser](https://open.spotify.com/artist/0AVwVUxhRdEKiuLNGAxmtu) | [Handgranaat](https://open.spotify.com/album/3d4NgR6ZcalOKIiktcqTm1) | 3:54 | 2022-04-14 | 2022-10-29 |
 | [Hardekole](https://open.spotify.com/track/61StNZ96SCYNlM5l0IGdPl) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg), [Adam Tas](https://open.spotify.com/artist/011KRXCsnsSuCGsY0Enq5r), [Bok Van Blerk](https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ), [Refentse](https://open.spotify.com/artist/5yACoSSz99q9C7n8bKNFxl) | [Ouskool \- Boerseun](https://open.spotify.com/album/4uH7O3EodyvrNXyISbLf6F) | 4:29 | 2023-03-09 |  |
@@ -92,6 +93,7 @@
 | [Lentekind \- Dans Remix](https://open.spotify.com/track/3jp5MWHkhUMNKvTcKoEC21) | [Georic Lomas](https://open.spotify.com/artist/6s70YvvNGOGzhKqveX21uf) | [Lentekind \(Dans Remix\)](https://open.spotify.com/album/29N4DMheHAM04FlffYEAoq) | 2:37 | 2022-09-01 | 2022-10-29 |
 | [Lief](https://open.spotify.com/track/1Fbu7GJTELkKNVdlQ2X4zz) | [Karlien Van Jaarsveld](https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5), [Jacob Swann](https://open.spotify.com/artist/3b8ExEnWwnymMCMM3vcHbe) | [Lief](https://open.spotify.com/album/2qlqp7lrg0ZJtPrcdilOt2) | 3:25 | 2022-07-07 | 2023-03-18 |
 | [Lieflik](https://open.spotify.com/track/1owgvsRPtQKcYVJLzpJUpb) | [Elandré](https://open.spotify.com/artist/3Gg20zbz8OVW3iahm8uoYo) | [Lieflik](https://open.spotify.com/album/2Kxe1GVz73wuCwLhWFaUB8) | 4:04 | 2022-08-04 |  |
+| [Ligte Af](https://open.spotify.com/track/2ZEYOx3O4BhTOrSZE36k6a) | [Ruan Josh](https://open.spotify.com/artist/0laMRbnKacdf1ueMabXUPO) | [Ligte Af](https://open.spotify.com/album/15v3zObf0eumyFqXxEQNFe) | 3:26 | 2023-07-20 |  |
 | [Lyfie](https://open.spotify.com/track/0GAX8SapBTjOqW0d5taVMu) | [Bernice West](https://open.spotify.com/artist/6ZerjgcGZc6DofpCTZu3xx) | [Jona](https://open.spotify.com/album/2C70Ty4DGUj3nrSIAY16B3) | 3:28 | 2022-10-13 | 2023-03-18 |
 | [Lyntjie](https://open.spotify.com/track/1EhZrbHrX4gTpH7cS35cd2) | [Die Piesangskille](https://open.spotify.com/artist/0ziQukaJM4x6Wgus61oFrS) | [Lyntjie](https://open.spotify.com/album/51aJBYJeoKwIFxevyaeohg) | 3:05 | 2023-07-13 |  |
 | [Maak 'n Plan](https://open.spotify.com/track/5q5fkffY4JxRlb5zpl92kq) | [Irene\-Louise Van Wyk](https://open.spotify.com/artist/1PwYXOqnII5oWshOTTClma) | [Maak 'n Plan](https://open.spotify.com/album/0f8TL15rhE8ejfouXHDBxs) | 3:08 | 2022-03-17 | 2022-10-29 |
@@ -106,7 +108,7 @@
 | [Nes Ons Kan](https://open.spotify.com/track/552ct0DgK65AjtFjXwnakh) | [Corné Louw](https://open.spotify.com/artist/3dna8d6MSlgBgIbtjD9MgJ) | [Nes Ons Kan](https://open.spotify.com/album/0HqO7AZMzelaMrtdKCNhOB) | 3:44 | 2022-10-13 | 2022-10-21 |
 | [Net Een Keer](https://open.spotify.com/track/71tkxqyBp1FnQYMI9R2NQY) | [Samantha Leonard](https://open.spotify.com/artist/0t70FT0xcfRAuHAM8C9Tgw) | [Net Een Keer](https://open.spotify.com/album/1NPoFcEaJg6MkRsHVPeN0M) | 2:53 | 2022-10-28 | 2023-05-19 |
 | [Nie Alleen Nie](https://open.spotify.com/track/0yXCVcqwnZdM2GVGtSMRS3) | [Francois van Coke](https://open.spotify.com/artist/7pJtnZQLPJmqzVfdIz7eFF) | [Kanniedood](https://open.spotify.com/album/2sAn67LpCat3XJqDuMmtTh) | 2:39 | 2022-09-22 | 2022-10-21 |
-| [NIKS OM OOR HUIS TOE TE SKRYF NIE](https://open.spotify.com/track/6rUJ1EiVhylKHZTEeqOV05) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb), [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp) | [NIKS OM OOR HUIS TOE TE SKRYF NIE](https://open.spotify.com/album/2wmWlHaZ0TgQ6SkymBEgSK) | 2:58 | 2023-06-29 |  |
+| [NIKS OM OOR HUIS TOE TE SKRYF NIE](https://open.spotify.com/track/6rUJ1EiVhylKHZTEeqOV05) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb), [Demi Lee Moore](https://open.spotify.com/artist/2RJteaG1GUmH9lQVczVkpp) | [NIKS OM OOR HUIS TOE TE SKRYF NIE](https://open.spotify.com/album/2wmWlHaZ0TgQ6SkymBEgSK) | 2:58 | 2023-06-29 | 2023-07-21 |
 | [Nonna](https://open.spotify.com/track/3MF7ewY2kS9QMx3fysTD6g) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Patriot](https://open.spotify.com/album/4F98wQqGeijl8nnda2yUaM) | 3:23 | 2023-03-09 |  |
 | [Nora Vlok](https://open.spotify.com/track/6TVcrV4TEhQiuKjU5Tactz) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb), [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Nora Vlok](https://open.spotify.com/album/28mbGMQoZuM1kwHrKpgLfs) | 3:07 | 2022-12-08 |  |
 | [O My Vy](https://open.spotify.com/track/6UPiIutgybDU0QljOWWUHf) | [FATMAN](https://open.spotify.com/artist/1eFYCrnsw8F26Wp5CTUxB3) | [O My Vy](https://open.spotify.com/album/0vFiwfmHqB84pPcp6tWcbh) | 3:29 | 2022-10-20 |  |

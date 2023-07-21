@@ -493,6 +493,24 @@
     },
     {
       "album": {
+        "name": "Hospital",
+        "url": "https://open.spotify.com/album/1hlyb891WyLS9RQKs2lgK2"
+      },
+      "artists": [
+        {
+          "name": "American Teeth",
+          "url": "https://open.spotify.com/artist/4a9NXVL2Qxsst3B8ezK7nO"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182289,
+      "name": "Hospital",
+      "url": "https://open.spotify.com/track/5aB6Q61qyaCEcvb7TfW3DH"
+    },
+    {
+      "album": {
         "name": "Thanks but No Thanks",
         "url": "https://open.spotify.com/album/67uepYH5WaYipVDJnkWXyT"
       },

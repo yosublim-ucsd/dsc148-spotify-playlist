@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 
 > A taste of the very best bluegrass instrumentals, classic and new.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,495 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,530 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXby9Yl80gEWW.md) - [plain]
 | 99 | [Black's Fork](https://open.spotify.com/track/1fz9jPBvfUrtNesuU5UHaT) | [Matt Flinner](https://open.spotify.com/artist/79K2moZrEqMShMOlkq5A3J) | [The View From Here](https://open.spotify.com/album/6AAVj79p20sOf0LKBeqZyQ) | 3:33 |
 | 100 | [Chasin' Skies](https://open.spotify.com/track/69GpWKHqVyweUMVmaVCkfR) | [Tessa Lark](https://open.spotify.com/artist/5gXi9wbyhDHyoQlIdN6S72), [Sierra Hull](https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB) | [Chasin' Skies](https://open.spotify.com/album/3Lc73BBwDQcStgrlf7Bt1N) | 2:38 |
 
-Snapshot ID: `MCw0OTRmZjc0MjdhM2ZhNjkxYjM1ZjQ3NDk1ZjUxOTViNjQ3N2I4ZDk5`
+Snapshot ID: `MCw1MTE0NTJmZWU1ZjM3NWFlYzRiZDkxNGE0YzNiZjY1YjE0ZmZiMjQ5`

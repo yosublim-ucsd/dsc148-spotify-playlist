@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvfPiFfb8Mi.md) - [plain]
 
 > <a href="spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP">Disco</a>, house, funk and soul for the good times.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,726 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,006 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvfPiFfb8Mi.md) - [plain]
 | 99 | [1995](https://open.spotify.com/track/17w2wuWpKr9iTr6cH2AFlT) | [Thomas Newson](https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5), [Sllash & Doppe](https://open.spotify.com/artist/1mPUNeOkJql5onhKwqiLMj) | [1995](https://open.spotify.com/album/0aFwFwf7V1cXqefElALhJu) | 3:04 |
 | 100 | [Lola’s Theme \- VIP](https://open.spotify.com/track/53o4CYK4YtTKmrnnWV6mFP) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP) | [Lola’s Theme \(VIP\)](https://open.spotify.com/album/0CpH0XG5uGunfnRpfiSyl0) | 7:18 |
 
-Snapshot ID: `MCw3NTE4NTVlYjgyZmEyM2JiN2ZmZGNkZDQ0MTNjNGYxYTE2ZjcyMjMw`
+Snapshot ID: `MCw2ZTBlNTFhZWExZWQ0ZWUzN2M3YzcyMjM1YjM2ZTgxZWM3MWUwMGMx`

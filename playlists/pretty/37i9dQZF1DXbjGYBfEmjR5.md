@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 
 > Don't worry, we're back in the funk of it besties ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,503 likes - 99 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,646 likes - 99 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbjGYBfEmjR5.md) - [plain]
 | 98 | [Palm Road](https://open.spotify.com/track/5SfaKzXyqTf2RhICNrw0Z0) | [AnTgry](https://open.spotify.com/artist/7kGylI45opkGdimN0V1DPL) | [Road Trip](https://open.spotify.com/album/5z3lyTwEfktfkjGKFmBaAU) | 2:53 |
 | 99 | [My dress up darling](https://open.spotify.com/track/42OcyqIvupgBdlxRTEvcHJ) | [CUNO](https://open.spotify.com/artist/24ngn3sTjUYrsvuQcZXPVX) | [My Dress Up Darling](https://open.spotify.com/album/3MNH3MqPhzH2wSPpgf1yPP) | 1:31 |
 
-Snapshot ID: `MCxmN2NhYjVhNGRkMzg0NjkxNGJjNjgwOGFkMjlmOGNkZTJjOWZkYmEx`
+Snapshot ID: `MCxlZGMzMDBjMmQ1OGM2MjIzNTZkMDZlODhmMmIxNzNhNDQyMTgzZWMx`

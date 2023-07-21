@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: BM & Luck Ra.
 
-[Spotify](https://open.spotify.com/user/spotify) - 611,177 likes - 100 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 611,324 likes - 100 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX490QbTioWDE.md) - [plain]
 | 99 | [Si Pudiera Tenerte \- Camina y Ven](https://open.spotify.com/track/0K2AlAAIHn9PSmk3Hjiv1y) | [Valentina](https://open.spotify.com/artist/3oGhssL7pwYYY0J64HJHNR) | [Si Pudiera Tenerte \- Camina y Ven](https://open.spotify.com/album/3dq2T8zw23NO8ZFJ0DkdH9) | 5:48 |
 | 100 | [Me Voy](https://open.spotify.com/track/6b3hp8TyBh5KLmp4xfDNk9) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Me Voy](https://open.spotify.com/album/0sg8DXOaYc7Zbw78cuDqUd) | 3:16 |
 
-Snapshot ID: `MCwwOTA1N2JiMGFhYzVjZjBlOWJhMzEwN2I0MzA0MWYzMjQwMTczMzEy`
+Snapshot ID: `MCw0Zjk4ZDA2OTIzMzUzNjIyOTJjNTljYTE4MDhhNDRlNzZmMzFmMTYz`

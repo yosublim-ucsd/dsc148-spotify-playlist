@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 
 > Novidades e hits do pop nacional pra te deixar mais leve! Foto: Carol Biazin
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,411 likes - 70 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,460 likes - 70 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8mWv7JDZ0Ht.md) - [plain]
 | 69 | [águas do futuro](https://open.spotify.com/track/3i5iN6Y6DDelK1icYPM6VW) | [Santaella](https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p) | [águas do futuro](https://open.spotify.com/album/1M3d8DTK2f4OESQQR2j4tg) | 4:02 |
 | 70 | [sempre com você](https://open.spotify.com/track/5VHdxkb3y2gq8kzxKAGdOZ) | [Simão](https://open.spotify.com/artist/2wkEw9j9xteOnF00DqUI34) | [sempre com você](https://open.spotify.com/album/23fIykV7AR3cqsBOzcW6rf) | 3:11 |
 
-Snapshot ID: `MCxiMGJlZWQwYjU3MjNhZDJhYzBkMDc0MDA1MmY4M2E3MzcwMmE5N2Iy`
+Snapshot ID: `MCw0NmU2Y2EwZDY2MjNjYmE1OGYzZDkwYmE1MjU4ZDc5YjE0MjY1MjFh`

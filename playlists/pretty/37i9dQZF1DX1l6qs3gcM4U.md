@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Lisandro Cuxi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,154 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,296 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 14 | [A Nossa Dança](https://open.spotify.com/track/0xKBEEJwpjaLn1QhCdyKcf) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [A Nossa Dança](https://open.spotify.com/album/1qI4C75Z7WfI3zfHWgwmMz) | 3:02 |
 | 15 | [Te Amo](https://open.spotify.com/track/1pcARA1iBjvjnHgrMeo9c9) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Te Amo](https://open.spotify.com/album/4xCCW00iAqMGJArZCBIVNZ) | 4:15 |
 | 16 | [Bai](https://open.spotify.com/track/3ooG7GI5gSSROggAE2pnji) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L) | [Bai](https://open.spotify.com/album/76HqC9jwLHzsx5OEWFjQbK) | 3:23 |
-| 17 | [Tratar Bem](https://open.spotify.com/track/5Ypj0wxu8cOmefuzHkZZMw) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp) | [Tratar Bem](https://open.spotify.com/album/54KtaVeBmJolKnvcSWFUTs) | 3:09 |
+| 17 | [Tratar Bem](https://open.spotify.com/track/7N1qiiMNnL9t4HxBtet1zr) | [Anselmo Ralph](https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp) | [Tratar Bem](https://open.spotify.com/album/5pRNcez7yE2ytHjzlcm5Cu) | 3:09 |
 | 18 | [Nha Love](https://open.spotify.com/track/6VlC9B6pTO5BNZozsm2j7w) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Nha Love](https://open.spotify.com/album/1inJQsJMoKg8QOzG5Ff02T) | 3:14 |
 | 19 | [Cura](https://open.spotify.com/track/5GlPkahjTM2G5PdiN3eQhG) | [Josslyn](https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF), [Dynamo](https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi) | [Cura](https://open.spotify.com/album/2OnIj9WrPNoetyHNbGwgpX) | 3:37 |
 | 20 | [Magui](https://open.spotify.com/track/63DKLdGdgOCxrf8oIPbKnb) | [Matias Damásio](https://open.spotify.com/artist/0E0XPqa6BzxSkhmhvzA3k2) | [Magui](https://open.spotify.com/album/3RU3fQ1GCm1o4tpWviIUrf) | 3:37 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1l6qs3gcM4U.md) - [plain]
 | 79 | [Teu Ego](https://open.spotify.com/track/2ZQdBUpl0oLp97sZ1F5vdQ) | [Ivan Alekxei](https://open.spotify.com/artist/4kR1QWyFVV4vr0JxkWv7EC), [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Teu Ego](https://open.spotify.com/album/2Q1f06VzUef6eeyAwa4QKa) | 4:46 |
 | 80 | [Deusa do Amor](https://open.spotify.com/track/6JHiXHpIkZH7dR5B2INFjT) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Edgar Domingos](https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ), [Anderson Mario](https://open.spotify.com/artist/6REvCEamm1KPVrULbpAmdh), [Button](https://open.spotify.com/artist/0ZdXdsO7mcsS6921sIGKdL) | [Deusa do Amor](https://open.spotify.com/album/07eHTr7xC266F2C6LxKPXS) | 4:39 |
 
-Snapshot ID: `MCw3M2E0ZGI4OTRhYzJhZGU3N2QyZTZkZDk5ZmQzOTdkNGM3NjIyNmUz`
+Snapshot ID: `MCwzOGZkYzczNzczYjU4Y2NmMjEzM2M1NmJhZmFkMGI4Mjg1ZmY4Mzg5`

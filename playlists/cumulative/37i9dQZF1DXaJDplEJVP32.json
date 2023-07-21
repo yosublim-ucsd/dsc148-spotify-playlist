@@ -2355,6 +2355,24 @@
     },
     {
       "album": {
+        "name": "Ultimate Gospel, Vol. 1: Red",
+        "url": "https://open.spotify.com/album/7GjJrwN3U8lGqPIAq3jkvo"
+      },
+      "artists": [
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "date_added": "2019-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 446666,
+      "name": "You're Bigger",
+      "url": "https://open.spotify.com/track/45a9yuzwLdXycJafkYTAjC"
+    },
+    {
+      "album": {
         "name": "The Life Project",
         "url": "https://open.spotify.com/album/5Sj4aY2HhAyAlzFXL6FUyY"
       },
@@ -2366,7 +2384,7 @@
       ],
       "date_added": "2019-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 446666,
       "name": "You're Bigger",
       "url": "https://open.spotify.com/track/5PiY1xNzD1YRtmZe3KRdln"

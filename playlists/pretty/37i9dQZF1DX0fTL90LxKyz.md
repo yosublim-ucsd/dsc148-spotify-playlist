@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 
 > Go hard or go home!
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,344 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,367 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0fTL90LxKyz.md) - [plain]
 | 49 | [Extra Sleeve](https://open.spotify.com/track/4m9JJpWpijDvgVWcRrkgSB) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [The Last Whip II](https://open.spotify.com/album/4UpMoWftmk0UuuBeQhNxfQ) | 3:35 |
 | 50 | [Too Many Lies](https://open.spotify.com/track/2C44bXptVuQcbh7KAEI9UN) | [Bandokay](https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE), [LD](https://open.spotify.com/artist/4eQGLO5ExQniSLvj5NjW6m) | [Too Many Lies](https://open.spotify.com/album/6KqC49BW6eS59XkmzHpc71) | 3:19 |
 
-Snapshot ID: `MCw3ZDk5ZWQ3MmFkNTY3NzM5OGJjYzdlYmZiOTM3NjUyNjhiYWJmZDBl`
+Snapshot ID: `MCwwNTJkY2QwY2ExMzlhYjc1YTAyODY5NDU2OWUxZDE5YzIzOTY5NTNk`

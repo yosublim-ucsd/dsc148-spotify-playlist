@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 
 > Les essentiels du hip\-hop québécois des dernières années\. Photo: Dead Obies
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,748 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,761 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZDqZiB24ZM.md) - [plain]
 | 99 | [Loin](https://open.spotify.com/track/4BZUIHx9GBZHmvyizDlHk8) | [5sang14](https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s) | [5 / 5](https://open.spotify.com/album/46ZsmbyhlasLLuZFK6lhtj) | 3:33 |
 | 100 | [Bloom](https://open.spotify.com/track/4i1aqzjyJCLZGkLSwXMamh) | [Maky Lavender](https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6) | [...At Least My Mom Loves Me](https://open.spotify.com/album/5978WqROpSRNWWdZQWBpaU) | 4:03 |
 
-Snapshot ID: `MCw3MTY3ODkyOTE4YjBlZTJhMDk1ZjBmMzJkMjU2Njg3NDRlNTVjMjkx`
+Snapshot ID: `MCw3Nzc5ZWFjOWU1M2FlMjg1NDk3NTk2OTgxOGY5MzUxYjc5OWFlNjgz`

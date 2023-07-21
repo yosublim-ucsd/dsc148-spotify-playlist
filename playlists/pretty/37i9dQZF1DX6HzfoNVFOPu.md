@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HzfoNVFOPu.md) - [plain]
 
 > Any songs you forgot existed? Let's go deep into 2000s rock!  Cover: The White Stripes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,827 likes - 200 songs - 12 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,930 likes - 200 songs - 12 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6HzfoNVFOPu.md) - [plain]
 | 199 | [All My Friends](https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 7:42 |
 | 200 | [Where Are You Going](https://open.spotify.com/track/5EjZXJ4nVpw7uI6eso1SFS) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Busted Stuff](https://open.spotify.com/album/1D5z8QDWSmYm6MwrtLINYY) | 3:51 |
 
-Snapshot ID: `MCwxZWE5ODM4MjU1YWRkM2IxZmYwZDM0MmYyMjk1MTIwYTYyZWM2M2Iy`
+Snapshot ID: `MCxhZTQxMzk3ZDgyMjZlNmI4Mjg0YTBkMzcxZjI4NDFlNjA4ZTA5NjAw`

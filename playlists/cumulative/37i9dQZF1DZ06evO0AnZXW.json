@@ -971,6 +971,24 @@
     },
     {
       "album": {
+        "name": "VERY RARE FOREVER FREESTYLE",
+        "url": "https://open.spotify.com/album/33kv6G3jJt1lGfMIq9pqqb"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94041,
+      "name": "VERY RARE FOREVER FREESTYLE",
+      "url": "https://open.spotify.com/track/5jVQ5q8TKE1xZpqTmIF5B2"
+    },
+    {
+      "album": {
         "name": "vice city",
         "url": "https://open.spotify.com/album/23Q7W5jYwmLuOhu9ZeGdTd"
       },

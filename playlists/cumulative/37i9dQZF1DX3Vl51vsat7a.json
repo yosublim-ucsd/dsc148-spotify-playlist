@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Florentina",
+  "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: Novaa, LIE NING",
   "name": "RADAR GSA",
   "tracks": [
     {
@@ -670,7 +670,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 150877,
       "name": "Broker",
       "url": "https://open.spotify.com/track/0fmZFIfyvdcg6dVkczBpwF"
@@ -2142,7 +2142,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 201867,
       "name": "Look Around",
       "url": "https://open.spotify.com/track/5r1sF6bvYPtDMvb2rwJBn5"
@@ -2323,6 +2323,28 @@
     },
     {
       "album": {
+        "name": "mietfrei",
+        "url": "https://open.spotify.com/album/3MWijTaxJrKLKeY1VmcwyH"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "SIRA",
+          "url": "https://open.spotify.com/artist/2HIP5sNZWkrPgSBWRk8XpA"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141026,
+      "name": "mietfrei",
+      "url": "https://open.spotify.com/track/1CknK1sYAhoYxZEs5OfqEq"
+    },
+    {
+      "album": {
         "name": "PAPPELALLEE 01",
         "url": "https://open.spotify.com/album/5qcXQaYl5cwPi00ej8JWSF"
       },
@@ -2338,6 +2360,24 @@
       "duration_ms": 233125,
       "name": "MIND ACTRESS",
       "url": "https://open.spotify.com/track/6Vyw8E2SOTb5dUasc76bmH"
+    },
+    {
+      "album": {
+        "name": "I Feel Alone These Days",
+        "url": "https://open.spotify.com/album/3XUpS6zpdfyYvqLHktRXia"
+      },
+      "artists": [
+        {
+          "name": "AVEC",
+          "url": "https://open.spotify.com/artist/6N8vbhxZ0CYJHd8WGJ9Snf"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248687,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/3oEE9CTAWGucULUz6q9s7l"
     },
     {
       "album": {
@@ -2558,6 +2598,28 @@
       "duration_ms": 193977,
       "name": "Nothing to Me",
       "url": "https://open.spotify.com/track/2pVZpUlgPZSSfTP9nFs6kn"
+    },
+    {
+      "album": {
+        "name": "Novaacation",
+        "url": "https://open.spotify.com/album/0Z0zEpXCB3RfEDTVQIfWm4"
+      },
+      "artists": [
+        {
+          "name": "Novaa",
+          "url": "https://open.spotify.com/artist/3PMqVecYp6tFBk7d7SDlPm"
+        },
+        {
+          "name": "LIE NING",
+          "url": "https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200756,
+      "name": "Novaacation",
+      "url": "https://open.spotify.com/track/6TO8fVn8D5jVyGOK7p1kjz"
     },
     {
       "album": {
@@ -2840,7 +2902,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 211034,
       "name": "Running Round",
       "url": "https://open.spotify.com/track/4dLYd0hKIAcs3C7hQpPCVD"

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-1,093 songs - 2 day 8 hr 38 min
+1,094 songs - 2 day 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,6 +341,7 @@
 | [First Day out 2](https://open.spotify.com/track/1JFGtAKQTx5dwYP5XbpPq6) | [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0) | [First Day out 2](https://open.spotify.com/album/3rDEPaEkjvfaZ8AQZTwFFu) | 2:25 | 2022-03-26 | 2022-04-10 |
 | [Fisherman](https://open.spotify.com/track/0phcrAwEZgGZ2do3GaZYAd) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [Fisherman](https://open.spotify.com/album/0Xiu6ycZnF1fjfKTZrJjMR) | 3:13 | 2021-04-04 | 2021-05-09 |
 | [FitTop10](https://open.spotify.com/track/35XzKuTMuSFjMzUzMkgOrz) | [Kinderen voor Kinderen](https://open.spotify.com/artist/7evlWm7RyagYqxSQN5E6UN) | [FitTop10](https://open.spotify.com/album/4KnLQHGGoyMM5v7zUTiHWf) | 3:05 | 2022-04-23 | 2022-04-29 |
+| [Fix You](https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:55 | 2023-07-20 |  |
 | [Flamboyant](https://open.spotify.com/track/62c3hrowVVSsDSg6E5JOPn) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Feniks](https://open.spotify.com/album/4M5CnkQyZ1TbjcKOPPGKyh) | 3:44 | 2021-07-04 | 2021-07-05 |
 | [Flexxen](https://open.spotify.com/track/4ckhmqXl4Zpbhl7T6NgVPI) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1), [Numidia](https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU), [Cristian D](https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4), [Diquenza](https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV) | [Flexxen](https://open.spotify.com/album/5gnLTGShLsqo303TEpFMyj) | 2:17 | 2022-07-30 | 2022-10-16 |
 | [Flexxen Al Een Tijdje](https://open.spotify.com/track/3sOa0x0k4hPlg9kJ9ZGFxh) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Luxeprobleem](https://open.spotify.com/album/6knvd9gtuhGbZNMNxjpJWy) | 2:15 | 2023-02-18 | 2023-02-20 |
@@ -357,7 +358,7 @@
 | [Frans Duits](https://open.spotify.com/track/6iSm0u8DL5MqeptlsoeS90) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [Frans Duits](https://open.spotify.com/album/275oSAHa19SMqDyPdjUVzh) | 2:52 | 2021-03-27 | 2022-01-04 |
 | [Freaky](https://open.spotify.com/track/3ZxJ1LT3SAHn9zJ1Sqjdab) | [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [Freaky](https://open.spotify.com/album/2pwqqB5fGJ77AUsBe69wuL) | 3:07 | 2022-06-11 | 2022-06-13 |
 | [Friday \(feat\. Mufasa & Hypeman\) \- Dopamine Re\-Edit](https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [Nightcrawlers](https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A), [Mufasa](https://open.spotify.com/artist/23rdR5gsZI5BqncTEKLtDU), [Hypeman](https://open.spotify.com/artist/0SSgGgCftrslhyAEDEDdim), [Dopamine](https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN) | [Friday \(feat\. Mufasa & Hypeman\) \[Dopamine Re\-Edit\]](https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j) | 2:49 | 2021-03-27\* | 2022-01-04 |
-| [Friesenjung](https://open.spotify.com/track/6tAKikIvnoWfUeZrfkopLL) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR), [Otto Waalkes](https://open.spotify.com/artist/1T6DQ853AlyL47W8a2jC0f) | [Friesenjung](https://open.spotify.com/album/4yavemUxS14K84SLwsHNmn) | 2:26 | 2023-05-27 |  |
+| [Friesenjung](https://open.spotify.com/track/6tAKikIvnoWfUeZrfkopLL) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR), [Otto Waalkes](https://open.spotify.com/artist/1T6DQ853AlyL47W8a2jC0f) | [Friesenjung](https://open.spotify.com/album/4yavemUxS14K84SLwsHNmn) | 2:26 | 2023-05-27 | 2023-07-21 |
 | [Frikandel](https://open.spotify.com/track/0Jv4vQehjYPKvoHoITXRcE) | [Hef](https://open.spotify.com/artist/7ge3QfYPMTjDbMoVLuuIuJ) | [Frikandel](https://open.spotify.com/album/21A7EvkAtq6DmXjS6B1ijn) | 3:01 | 2022-04-09 | 2022-04-11 |
 | [Gabber](https://open.spotify.com/track/7koZO1FZjPl4HALThZwm76) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [Gabber](https://open.spotify.com/album/6TVjZWr3beBYISjxe0oWbM) | 2:54 | 2021-09-19 | 2021-10-02 |
 | [Gabos](https://open.spotify.com/track/68eEgyThiurm8AOBis4lVh) | [JoeyAK](https://open.spotify.com/artist/4iCzh7b2cLbHVsPOwhr8W0) | [Gabos](https://open.spotify.com/album/3ubUjgaZWw5YCdxdv4GHqW) | 3:05 | 2022-05-07 | 2022-05-22 |

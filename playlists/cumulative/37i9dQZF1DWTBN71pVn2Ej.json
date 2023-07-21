@@ -416,7 +416,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 148563,
       "name": "Bae",
       "url": "https://open.spotify.com/track/4ipVKbNInIxdSy7q7IzJsb"
@@ -2121,6 +2121,24 @@
     },
     {
       "album": {
+        "name": "Everything's Glitter",
+        "url": "https://open.spotify.com/album/7jfIaXbIaockYgpQKKubts"
+      },
+      "artists": [
+        {
+          "name": "The Armed",
+          "url": "https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230509,
+      "name": "Everything's Glitter",
+      "url": "https://open.spotify.com/track/7s0kMwS5d9IFYBW1fFAaY2"
+    },
+    {
+      "album": {
         "name": "Eye For An Eye",
         "url": "https://open.spotify.com/album/3REjMVpoGBmy5bh0cs8bKY"
       },
@@ -2888,7 +2906,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 180278,
       "name": "Heaven Sent",
       "url": "https://open.spotify.com/track/0xFxmOZKOB0smoKvRLVkjQ"
@@ -4106,7 +4124,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 194786,
       "name": "Mistakes",
       "url": "https://open.spotify.com/track/6Z54FF1uTQ4LeE6McKizwN"
@@ -4286,7 +4304,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 218739,
       "name": "My Mind is Eating Me Alive",
       "url": "https://open.spotify.com/track/3HM5h74YluJqhf1H1qHaVL"
@@ -4837,6 +4855,24 @@
     },
     {
       "album": {
+        "name": "Parallax Error // Asymmetry",
+        "url": "https://open.spotify.com/album/1OO83l1Zj8DRhRGY51qsGF"
+      },
+      "artists": [
+        {
+          "name": "Wayside",
+          "url": "https://open.spotify.com/artist/30dxyV2Ax6tiLYdaIFmm2x"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204499,
+      "name": "Parallax Error",
+      "url": "https://open.spotify.com/track/1ZbV4k4Wmlak6USIovaob2"
+    },
+    {
+      "album": {
         "name": "Paranoid",
         "url": "https://open.spotify.com/album/6SWH4PMxSh7NHF7vzRhRHv"
       },
@@ -5064,7 +5100,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 245506,
       "name": "Positive Charge",
       "url": "https://open.spotify.com/track/0hfEJ8ls6bsD4mE1xLVaJO"
@@ -5939,6 +5975,24 @@
     },
     {
       "album": {
+        "name": "Still There",
+        "url": "https://open.spotify.com/album/6hfCNvEvJYM2ZVsLp0KTfq"
+      },
+      "artists": [
+        {
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189579,
+      "name": "Still There",
+      "url": "https://open.spotify.com/track/7uUCmwEwG2OAo1Q9rXis7E"
+    },
+    {
+      "album": {
         "name": "sTraNgeRs",
         "url": "https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc"
       },
@@ -6242,6 +6296,24 @@
       "duration_ms": 284093,
       "name": "Sweet Dreams of Otherness",
       "url": "https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM"
+    },
+    {
+      "album": {
+        "name": "Swim Back",
+        "url": "https://open.spotify.com/album/1N11se5GzKF4sWPwz00tAD"
+      },
+      "artists": [
+        {
+          "name": "Sunfish",
+          "url": "https://open.spotify.com/artist/6pSYsLGxRDhv5iEBzZAI4J"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207482,
+      "name": "Swim Back",
+      "url": "https://open.spotify.com/track/634SY94b36GK9hBKcI3GaB"
     },
     {
       "album": {

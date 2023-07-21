@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: ano
 
-[Spotify](https://open.spotify.com/user/spotify) - 808,156 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 808,649 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [正論さん](https://open.spotify.com/track/3guBJ3pWlpOKxS6aGJH3OD) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [正論さん](https://open.spotify.com/album/0p8hciFFok7dzHLV0LukjH) | 3:39 |
 | 50 | [江ノ島エスカー \(2023 ver.\)](https://open.spotify.com/track/12WtyFfw4w7BAbbWcTeiE4) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [サーフ ブンガク カマクラ \(完全版\)](https://open.spotify.com/album/3RJRauD27BwXHYI19CqwHu) | 2:40 |
 
-Snapshot ID: `MCwyNWE0MGVkOThkNTQ3YmNiZDgwM2E5ZjQwNTJlMWViMzc2MTM1YmM0`
+Snapshot ID: `MTY4OTc5OTAyNywwMDAwMDAwMGM4NWJhMTQyNzEzYjQ2NTMwNThiYTdiODcyZTBkYjhh`

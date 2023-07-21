@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 
 > 8 bit bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,423 likes - 100 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,498 likes - 100 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVr03NrIUlx5.md) - [plain]
 | 99 | [The Trooper](https://open.spotify.com/track/1FbtRuEVW4lG4sm2dOMsvl) | [8\-Bit Misfits](https://open.spotify.com/artist/1NT2ol2lqyRSUzU4m129Ic) | [8\-Bit Versions of Iron Maiden](https://open.spotify.com/album/6xPPlEtcuwC6NlCWIxIk6V) | 3:44 |
 | 100 | [The Middle](https://open.spotify.com/track/0pFGdDDLk8cTDJnFzzqhaV) | [Super Power Club](https://open.spotify.com/artist/5vGR79cM4EqZxXgvcExy7f) | [Super Power Club: 8\-Bit Tribute to Modern Rock Hits](https://open.spotify.com/album/18WSrQcRdR0z4qrTUJOpQd) | 2:36 |
 
-Snapshot ID: `MCwyNGRjYTIwZDk1YTg1NjRjNzcwOWUzMzFiZjgzMTIwMzliMjEyYzg3`
+Snapshot ID: `MCw5ZTJjODRhMjIwNDJmMmM1ZGRjY2EyNTI1ZmNmZmE1ODNhYTBkZWQw`

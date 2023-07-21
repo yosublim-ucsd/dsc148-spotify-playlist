@@ -1,36 +1,28 @@
 {
-  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/1Gj6W2RfGpl6ebJGle93VG?si=WFoi8F0eRByLYB6oR1IzMQ\">Drega</a>",
-  "num_followers": 62551,
+  "description": "The best dance hits in South Africa and across the globe. Cover: <a href=\"https://open.spotify.com/artist/2jDw8yQFISqLWdK63ITATu?si=t55mMjDvQIyA_iXfPqWx8g\">Jazzuelle</a>",
+  "num_followers": 62590,
   "original_name": "mint South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNjk3NDc0NDg3NTBlNWRlZGRhZjA3NGU5MzFmNTVkZDg1NzkwYjg4",
+  "snapshot_id": "MCxkNDI1ZTBkNGFmYmMzZDQ0ODRmMWNhOWQ2YmM1NmZjYmY0YjZhNDA0",
   "tracks": [
     {
-      "added_at": "2023-07-14 00:32:36",
+      "added_at": "2023-07-21 00:00:00",
       "album": {
-        "name": "Indlela",
-        "url": "https://open.spotify.com/album/2WYDw5eFucNCiUKAZdUHPX"
+        "name": "The Amor Fati",
+        "url": "https://open.spotify.com/album/1PMeqHV0MMx2oPNuRdjuBP"
       },
       "artists": [
         {
-          "name": "Drega",
-          "url": "https://open.spotify.com/artist/1Gj6W2RfGpl6ebJGle93VG"
-        },
-        {
-          "name": "Sun-El Musician",
-          "url": "https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6"
-        },
-        {
-          "name": "Maline Aura",
-          "url": "https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP"
+          "name": "Jazzuelle",
+          "url": "https://open.spotify.com/artist/2jDw8yQFISqLWdK63ITATu"
         }
       ],
-      "duration_ms": 349226,
-      "name": "Indlela",
-      "url": "https://open.spotify.com/track/1gINTM4XrnZ3Cke3KRvHYk"
+      "duration_ms": 436105,
+      "name": "La Dolce Vita",
+      "url": "https://open.spotify.com/track/56qoKRsPvRRC9B3TEh7t3S"
     },
     {
       "added_at": "2023-07-14 00:32:36",
@@ -113,6 +105,26 @@
       "url": "https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn"
     },
     {
+      "added_at": "2023-07-21 00:00:00",
+      "album": {
+        "name": "Light Places Remixes",
+        "url": "https://open.spotify.com/album/397G1LdjSwnHKWa6PdkYgS"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "DESIREE",
+          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
+        }
+      ],
+      "duration_ms": 339166,
+      "name": "All I Need - DESIREE Remix",
+      "url": "https://open.spotify.com/track/6q9RvlTvMSZSQfI6v0dKE4"
+    },
+    {
       "added_at": "2023-07-14 00:32:36",
       "album": {
         "name": "Emathandweni (feat. Thalitha & Dj Jim MasterShine)",
@@ -187,6 +199,22 @@
       "duration_ms": 360015,
       "name": "Indoda no Sisi",
       "url": "https://open.spotify.com/track/1wJnVOfKk3GUMgj8THsFNP"
+    },
+    {
+      "added_at": "2023-07-21 00:00:00",
+      "album": {
+        "name": "I Am You",
+        "url": "https://open.spotify.com/album/4FlbNZP4LOR39yuA04ycbL"
+      },
+      "artists": [
+        {
+          "name": "Slotta",
+          "url": "https://open.spotify.com/artist/41FafHCI5NnEUw25GAd4MZ"
+        }
+      ],
+      "duration_ms": 338461,
+      "name": "I Am You",
+      "url": "https://open.spotify.com/track/2ZZjUGeto7Rie39gkcCUye"
     },
     {
       "added_at": "2023-07-14 00:32:36",
@@ -333,6 +361,22 @@
       "url": "https://open.spotify.com/track/57e5ib2PnvuiaTvaI4jGDp"
     },
     {
+      "added_at": "2023-07-21 00:00:00",
+      "album": {
+        "name": "Sala Sala",
+        "url": "https://open.spotify.com/album/6gn3s3ieaw5dm4Jq8xXCx6"
+      },
+      "artists": [
+        {
+          "name": "Echo Deep",
+          "url": "https://open.spotify.com/artist/3oQxXy7RkKmUAoo0sftSLU"
+        }
+      ],
+      "duration_ms": 374000,
+      "name": "Sala Sala",
+      "url": "https://open.spotify.com/track/41m5MY5LScqwuvV9m3uo3S"
+    },
+    {
       "added_at": "2023-07-14 00:32:36",
       "album": {
         "name": "Hold Me Down",
@@ -423,6 +467,30 @@
     {
       "added_at": "2023-07-14 00:32:36",
       "album": {
+        "name": "Indlela",
+        "url": "https://open.spotify.com/album/2WYDw5eFucNCiUKAZdUHPX"
+      },
+      "artists": [
+        {
+          "name": "Drega",
+          "url": "https://open.spotify.com/artist/1Gj6W2RfGpl6ebJGle93VG"
+        },
+        {
+          "name": "Sun-El Musician",
+          "url": "https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6"
+        },
+        {
+          "name": "Maline Aura",
+          "url": "https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP"
+        }
+      ],
+      "duration_ms": 349226,
+      "name": "Indlela",
+      "url": "https://open.spotify.com/track/1gINTM4XrnZ3Cke3KRvHYk"
+    },
+    {
+      "added_at": "2023-07-14 00:32:36",
+      "album": {
         "name": "Asante",
         "url": "https://open.spotify.com/album/6JDD5mOfpytom3PFSySw8J"
       },
@@ -463,22 +531,6 @@
       "duration_ms": 313135,
       "name": "Fearless",
       "url": "https://open.spotify.com/track/0tfdDeXSC3qMFwKaf4XTHE"
-    },
-    {
-      "added_at": "2023-07-14 00:32:36",
-      "album": {
-        "name": "Cathedral",
-        "url": "https://open.spotify.com/album/5TmMvrALFeTTV8geYgHjO0"
-      },
-      "artists": [
-        {
-          "name": "Prince Kaybee",
-          "url": "https://open.spotify.com/artist/4H7q5OwAgX1uQuhwb7bg2C"
-        }
-      ],
-      "duration_ms": 289591,
-      "name": "Cathedral",
-      "url": "https://open.spotify.com/track/1JAGEV4opnklcYepZBYGw8"
     },
     {
       "added_at": "2023-07-14 00:32:36",
@@ -621,6 +673,34 @@
       "url": "https://open.spotify.com/track/2dnIq7FQEMEZc5KooZVFOy"
     },
     {
+      "added_at": "2023-07-21 00:00:00",
+      "album": {
+        "name": "Be Dimensions (feat. Clara Hill) [Thakzin Remix]",
+        "url": "https://open.spotify.com/album/7n8JA1AoyITFY6fSqPg4Ln"
+      },
+      "artists": [
+        {
+          "name": "Kid Fonque",
+          "url": "https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp"
+        },
+        {
+          "name": "Jonny Miller",
+          "url": "https://open.spotify.com/artist/5U8ORxswEHnPeb4RlHtzvV"
+        },
+        {
+          "name": "Thakzin",
+          "url": "https://open.spotify.com/artist/5IqRgFYiImSVQrScLaFyEE"
+        },
+        {
+          "name": "Clara Hill",
+          "url": "https://open.spotify.com/artist/4RHulYLsymySn2JlGzyXfc"
+        }
+      ],
+      "duration_ms": 508240,
+      "name": "Be Dimensions (feat. Clara Hill) - Thakzin Remix",
+      "url": "https://open.spotify.com/track/1cF2GdyKVonnljp4xHyZKY"
+    },
+    {
       "added_at": "2023-07-14 00:32:36",
       "album": {
         "name": "Tailor Made (feat. Ziyon) [Yoruba Soul Mix]",
@@ -709,6 +789,26 @@
       "url": "https://open.spotify.com/track/1PFi8Yu9sE9Gm6I0PXW6XX"
     },
     {
+      "added_at": "2023-07-21 00:00:00",
+      "album": {
+        "name": "Romancin",
+        "url": "https://open.spotify.com/album/2cI79bkYrs8LLljdwoeAh7"
+      },
+      "artists": [
+        {
+          "name": "Thor Rixon",
+          "url": "https://open.spotify.com/artist/53Gm4E92lh1hMANUw9r2pX"
+        },
+        {
+          "name": "Yoshe",
+          "url": "https://open.spotify.com/artist/4v9lEuK0nSxVknvcwOWfYn"
+        }
+      ],
+      "duration_ms": 296013,
+      "name": "Romancin",
+      "url": "https://open.spotify.com/track/13hmigSZZz16OK2mS1RBlB"
+    },
+    {
       "added_at": "2023-07-14 00:32:36",
       "album": {
         "name": "Summer Breeze (Fka Mash Remixes)",
@@ -771,58 +871,6 @@
       "duration_ms": 390508,
       "name": "Kwa Mama",
       "url": "https://open.spotify.com/track/0WGUkcTM1u5ssKcdqFtCJn"
-    },
-    {
-      "added_at": "2023-07-14 00:32:36",
-      "album": {
-        "name": "Kamweretho",
-        "url": "https://open.spotify.com/album/6A3XXRIToOmGJ4hsFSwWQ1"
-      },
-      "artists": [
-        {
-          "name": "Tina Ardor",
-          "url": "https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD"
-        },
-        {
-          "name": "Atmos Blaq",
-          "url": "https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM"
-        },
-        {
-          "name": "Hendrick Sam",
-          "url": "https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9"
-        },
-        {
-          "name": "Manoo",
-          "url": "https://open.spotify.com/artist/0SWJzERYiO2LLxoUqMXDsz"
-        }
-      ],
-      "duration_ms": 599024,
-      "name": "Kamweretho - Manoo Remix",
-      "url": "https://open.spotify.com/track/0ForXbVtaQVD39eJR0na9r"
-    },
-    {
-      "added_at": "2023-07-14 00:32:36",
-      "album": {
-        "name": "Mystic Sands",
-        "url": "https://open.spotify.com/album/3dzTDaqwcDTVqt0joXFq0f"
-      },
-      "artists": [
-        {
-          "name": "Marley Hughes",
-          "url": "https://open.spotify.com/artist/7m4h36wTAteEZseTsKFecQ"
-        },
-        {
-          "name": "Alley SA",
-          "url": "https://open.spotify.com/artist/1ScHe3PMvTSjbH6A0XYxoy"
-        },
-        {
-          "name": "Cafe De Anatolia",
-          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
-        }
-      ],
-      "duration_ms": 413119,
-      "name": "Mystic Sands",
-      "url": "https://open.spotify.com/track/141eC3RlYjSLC3Rmz73S0A"
     },
     {
       "added_at": "2023-07-14 00:32:36",
@@ -903,54 +951,6 @@
       "duration_ms": 630000,
       "name": "Nothing",
       "url": "https://open.spotify.com/track/4me4lJKlDzxhIAxwqtrCqS"
-    },
-    {
-      "added_at": "2023-07-14 00:32:36",
-      "album": {
-        "name": "Far Away",
-        "url": "https://open.spotify.com/album/5PMrkxQweJVAS5zDPPUGHh"
-      },
-      "artists": [
-        {
-          "name": "Jordan Arts",
-          "url": "https://open.spotify.com/artist/24eSGXE60RZgpoNACFxCLZ"
-        }
-      ],
-      "duration_ms": 362000,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/5aOkckce2fRj42nheTfTDT"
-    },
-    {
-      "added_at": "2023-07-14 00:32:36",
-      "album": {
-        "name": "Colours",
-        "url": "https://open.spotify.com/album/0SpLdEliVOvYu4MwQ8eAOx"
-      },
-      "artists": [
-        {
-          "name": "Frigid Armadillo",
-          "url": "https://open.spotify.com/artist/6IWmSzycuN6VEXbSE2r83i"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Colours",
-      "url": "https://open.spotify.com/track/6Lu8Js6vNudg58XBO0FnBv"
-    },
-    {
-      "added_at": "2023-07-14 00:32:36",
-      "album": {
-        "name": "There And Back",
-        "url": "https://open.spotify.com/album/270VtOmDaWZJWtE05fZNbK"
-      },
-      "artists": [
-        {
-          "name": "Deep Aztec",
-          "url": "https://open.spotify.com/artist/5getpnTxZMpYRlfyXOjQQw"
-        }
-      ],
-      "duration_ms": 379738,
-      "name": "Ostkreuz",
-      "url": "https://open.spotify.com/track/3HNiCfTGHSCLeBu323txpj"
     },
     {
       "added_at": "2023-07-14 00:32:36",

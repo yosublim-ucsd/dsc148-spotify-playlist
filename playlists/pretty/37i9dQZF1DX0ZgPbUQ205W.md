@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,764 likes - 200 songs - 13 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,835 likes - 200 songs - 13 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 | 199 | [Thatpujai](https://open.spotify.com/track/78lT7snYf0taubeiQPOe6B) | [Julia Hülsmann Trio](https://open.spotify.com/artist/5v4UR5BS8T0DNSPCPYqfcG) | [Sooner And Later](https://open.spotify.com/album/4fcI5BnN3OHsmH5YsFJUey) | 4:56 |
 | 200 | [Even Now I Think of Her](https://open.spotify.com/track/1SCc1p9xzRzktOnZUJp8tO) | [Sebastian Rochford](https://open.spotify.com/artist/2HK0XyXwfJg8qxJzHIg02p), [Kit Downes](https://open.spotify.com/artist/5KAxF8BtuqO5emnRCjorwk) | [Even Now I Think of Her](https://open.spotify.com/album/0vwmeXUUCf6bDNg0sQy8WK) | 4:14 |
 
-Snapshot ID: `MCxkYjMxNjhmMGZkMjY4NGY5NWI2ZTdiYzhhMWI3NDQ3NmMxNWQ5MzNl`
+Snapshot ID: `MCwyMDI1Y2RmYWY5OTZjMGIyMDgwZmVmNmE2NzJlZDc3OTUwYjJlMjk1`

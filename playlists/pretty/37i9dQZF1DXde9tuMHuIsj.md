@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: Chris Jedi, YOVNGCHIMI & Dei V
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,525,981 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,525,987 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 49 | [Drippin](https://open.spotify.com/track/5LH8MkYXQ9C43PNrbCMVwq) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7) | [Drippin](https://open.spotify.com/album/72qQWFH7ABnGnn3y7npnpA) | 3:38 |
 | 50 | [6B \(feat\. Go Get Music\)](https://open.spotify.com/track/4eWqqT2MQtg6p1gLVuz3oT) | [Los G4](https://open.spotify.com/artist/1uaiSMIzlh2Y6Fx4bC1c6s), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Jovaan](https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3), [Go Get Music](https://open.spotify.com/artist/0BKYcWhq6W4TYSLSJk1ZDJ) | [6B \(feat\. Go Get Music\)](https://open.spotify.com/album/0Zt0jTYE1PpUpKeAp9Jd45) | 3:34 |
 
-Snapshot ID: `MCw4Nzg4YTFjYTI1NmEwYTg5NGU1NTc5ODIzMTJjYWI1ZjExNjhiOWMz`
+Snapshot ID: `MCw4YzFhOWMxODM2MjBmMzU1OTE2ZjdhZjQ3Y2M0ZDgxNzhjMmI5MTQ4`

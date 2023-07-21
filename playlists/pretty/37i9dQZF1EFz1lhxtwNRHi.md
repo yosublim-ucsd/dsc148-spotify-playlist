@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5tDsz1WqJv1ZFSXeC453wy">Teddy Geiger</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,361 likes - 147 songs - 8 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,362 likes - 147 songs - 8 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,14 +61,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 51 | [Dancing Next To Me](https://open.spotify.com/track/2VAanTPaOihruBcIsoQT1Z) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Dancing Next To Me](https://open.spotify.com/album/7iENJztCzQ9a4xsBPC0IiH) | 2:50 |
 | 52 | [Liberated](https://open.spotify.com/track/5OQByVDbs9788HBRIBqgNW) | [DeJ Loaf](https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Liberated](https://open.spotify.com/album/18fTRuJJDlbhrl2SREyuJA) | 3:19 |
 | 53 | [We Lied To Each Other](https://open.spotify.com/track/6QWDugB33Mqc4v0Q0IlCbF) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Was It Even Real?](https://open.spotify.com/album/6UNHnZrpLH56Bk5okVGlI2) | 3:35 |
-| 54 | [Vampire](https://open.spotify.com/track/56WkfBKWfbvauMgeK8nivR) | [Nitemayor](https://open.spotify.com/artist/45KCfdrl8y47xRUtd3FZ5a) | [Vampire](https://open.spotify.com/album/7Gq6sRRezEa7QKpX4oXVjr) | 3:34 |
+| 54 | [Vampire](https://open.spotify.com/track/4x6KNgwA99loNZcRYrFzod) | [Nitemayor](https://open.spotify.com/artist/45KCfdrl8y47xRUtd3FZ5a) | [Vampire](https://open.spotify.com/album/3eKNnH66JwNGWV5F3ZGP55) | 3:34 |
 | 55 | [Machine](https://open.spotify.com/track/4hGBLGIu8Gbqs6C0gqVEb1) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Speak Your Mind \(Deluxe\)](https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5) | 4:07 |
 | 56 | [Love and Run \(feat\. Teddy Geiger\)](https://open.spotify.com/track/4vRjuGwYH9xynPVGCIoFRI) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Mark Alston](https://open.spotify.com/artist/55LAgmu5JoT54oEhWAek3r), [BAGGI](https://open.spotify.com/artist/2YMB0FGsysOP5wOGJpXZom), [Jason Taylor](https://open.spotify.com/artist/0Po6fBwj4MdkVxXr2PeHN4), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [Club Life, Vol\. 3 \- Stockholm](https://open.spotify.com/album/5pbsUGC9LpIf2r9QSfJpGZ) | 5:25 |
 | 57 | [Cinnamon Girl](https://open.spotify.com/track/7Ia7PoyYdRZtqjafqvzkaf) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [Beach House](https://open.spotify.com/album/34CM6goLL2v6OYsYpVtV80) | 3:32 |
 | 58 | [SOMEONE ELSE](https://open.spotify.com/track/1CYdm33W4P71qdXWAZdrre) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [CHAMPION](https://open.spotify.com/album/10XDik8bnbbPTfpO05tjwx) | 3:31 |
 | 59 | [Voodoo](https://open.spotify.com/track/5Abiq1bL8hMcMh1JUawYQM) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [Beach House](https://open.spotify.com/album/34CM6goLL2v6OYsYpVtV80) | 3:59 |
-| 60 | [Over](https://open.spotify.com/track/3cXeu25WMjDXjMOQmRkLVY) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [The Afterlove](https://open.spotify.com/album/613axulVSXcND6yCjasyt7) | 4:16 |
-| 61 | [Feel Something](https://open.spotify.com/track/0tWIkkUNwzNBP0GhppjpPK) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ) | 3:04 |
+| 60 | [Feel Something](https://open.spotify.com/track/0tWIkkUNwzNBP0GhppjpPK) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [TRUSTFALL](https://open.spotify.com/album/1GIWJs7mEdzKym3tQ8QScJ) | 3:04 |
+| 61 | [Over](https://open.spotify.com/track/3cXeu25WMjDXjMOQmRkLVY) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [The Afterlove](https://open.spotify.com/album/613axulVSXcND6yCjasyt7) | 4:16 |
 | 62 | [Call Me!!!](https://open.spotify.com/track/4JFQ6XcKPvXIU34JPLbbOQ) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Was It Even Real?](https://open.spotify.com/album/6UNHnZrpLH56Bk5okVGlI2) | 3:35 |
 | 63 | [Tied to Your Body](https://open.spotify.com/track/0myekv84cuSeVRSboWQqpo) | [MONSTA X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [The Dreaming](https://open.spotify.com/album/1pctMC2cumYE0wskONKlJm) | 2:09 |
 | 64 | [Focused](https://open.spotify.com/track/2oEZ1PJ5qpLuQMR7CmtizD) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 3:02 |
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 66 | [Rainbow](https://open.spotify.com/track/6e8gCUfJm6RYtOOLBtLbFa) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 3:21 |
 | 67 | [Jump On It](https://open.spotify.com/track/66iI77cgWBEdGichkndWJe) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Mad Love The Prequel](https://open.spotify.com/album/5xrOcCoO3jkXRjHQjfESM6) | 3:26 |
 | 68 | [Sign Language](https://open.spotify.com/track/0gSAbPlRBTOqK0cHFVZYNn) | [Dylan Gardner](https://open.spotify.com/artist/12Na60zr4c70kpEDMLICoh) | [Almost Real](https://open.spotify.com/album/2xroSp0sydZGhmc9UelPzc) | 3:10 |
-| 69 | [Digital Life](https://open.spotify.com/track/1qpdTHfmiUgYRjNSI4kr7x) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Two Vines](https://open.spotify.com/album/60pRr5JvZkU9XhHg2pBkRy) | 4:02 |
-| 70 | [Blondes](https://open.spotify.com/track/6kzP50E3nRuuLjtU5Qp56m) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Blondes](https://open.spotify.com/album/4EvsXD4pmepFBKYHoORrP1) | 2:46 |
-| 71 | [Scream Drive Faster \- Teddy Geiger Remix](https://open.spotify.com/track/0mNDAxTlYYwftUS5FScuAD) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [Scream Drive Faster \(Teddy Geiger Remix\)](https://open.spotify.com/album/1PMPBHKgdMQQ5AvxsjBk82) | 4:10 |
+| 69 | [Scream Drive Faster \- Teddy Geiger Remix](https://open.spotify.com/track/0mNDAxTlYYwftUS5FScuAD) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1), [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [Scream Drive Faster \(Teddy Geiger Remix\)](https://open.spotify.com/album/1PMPBHKgdMQQ5AvxsjBk82) | 4:10 |
+| 70 | [Digital Life](https://open.spotify.com/track/1qpdTHfmiUgYRjNSI4kr7x) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Two Vines](https://open.spotify.com/album/60pRr5JvZkU9XhHg2pBkRy) | 4:02 |
+| 71 | [Blondes](https://open.spotify.com/track/6kzP50E3nRuuLjtU5Qp56m) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Blondes](https://open.spotify.com/album/4EvsXD4pmepFBKYHoORrP1) | 2:46 |
 | 72 | [Do You Think About Me \- filous Remix](https://open.spotify.com/track/74zx6DUsxIPIAtVe8ymL1y) | [NVDES](https://open.spotify.com/artist/5L6tkH3jDmFBX9dYdFFQXy), [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9) | [Do You Think About Me \(filous Remix\)](https://open.spotify.com/album/5xTK2m5TrsZGjqd6ixQZrO) | 2:56 |
 | 73 | [All We Ever Wanted](https://open.spotify.com/track/7ekvWq3OCA6avtuSOnc2c1) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [From The Outside](https://open.spotify.com/album/6ZZbMKUghvClcRLF5pZT6Y) | 2:44 |
 | 74 | [Jump And Shake](https://open.spotify.com/track/6Ka0NSviEKTMc60zFR39eO) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [Just For Fun](https://open.spotify.com/album/17QkdaxVp5VTcu2DyABHoi) | 3:09 |
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 95 | [Back Together](https://open.spotify.com/track/4MMnlmSn5AUIsY6lA1QveR) | [Matt Nathanson](https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA) | [Sings His Sad Heart](https://open.spotify.com/album/7AVpGcmTby2g0rzkcqQj5o) | 3:03 |
 | 96 | [Leona](https://open.spotify.com/track/5oFCGSZuMgUbJZX3ldciUY) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 4:06 |
 | 97 | [Celebrity \- Blood Bunny Version](https://open.spotify.com/track/7rzwyFEyQDq80MK2cFotay) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SPLIT DECISION](https://open.spotify.com/album/6slBagdkNJfpNuazFFQ7YM) | 2:33 |
-| 98 | [Zombie](https://open.spotify.com/track/4bhepnvYedYqxy51vCVEfU) | [Nitemayor](https://open.spotify.com/artist/45KCfdrl8y47xRUtd3FZ5a) | [Zombie](https://open.spotify.com/album/7JpCGs5WcyjXotan0fIIW4) | 2:55 |
+| 98 | [Zombie](https://open.spotify.com/track/7HJ4JM7lxa3GthnRJZMmdD) | [Nitemayor](https://open.spotify.com/artist/45KCfdrl8y47xRUtd3FZ5a) | [Zombie](https://open.spotify.com/album/6OpYReQjMFsWyIJnkTdGCy) | 2:55 |
 | 99 | [Sudden Death \(OMG\)](https://open.spotify.com/track/19TH3RUU4RFCJXOMCNHfZM) | [Tyler Glenn](https://open.spotify.com/artist/5XCujjq919BFXTnjyyDpiE) | [Excommunication](https://open.spotify.com/album/6Wy2fOHFH90riocdTcRtkq) | 3:18 |
 | 100 | [Happier?](https://open.spotify.com/track/1akmlqMKOnItATjfnolfXO) | [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC) | [The Last Fears](https://open.spotify.com/album/6lwZKirdJlVA99Vvb6m81v) | 3:31 |
 | 101 | [Express Myself](https://open.spotify.com/track/4UisKEOzb1R6Yu95k7UF0E) | [Ricky Reed](https://open.spotify.com/artist/5Q7Fmn2aPAdijQIUzobRdZ) | [Express Myself](https://open.spotify.com/album/5fKJd9WRNCvI8RYct7oWUP) | 3:30 |
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 146 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 147 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `MjgxNjIyNzgsMDAwMDAwMDA4ZWY2M2NkNjc5NDJmOWQzYTYzZGQ0OWI3NTczMjNlZA==`
+Snapshot ID: `MjgxNjUwOTAsMDAwMDAwMDBkMTQ5MDdjZDRiMTQzMDVlNTdjNzhhOTZlZWNhZjA1NA==`

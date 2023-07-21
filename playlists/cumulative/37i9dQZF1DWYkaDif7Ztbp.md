@@ -2,7 +2,7 @@
 
 ### [African Heat](https://open.spotify.com/playlist/37i9dQZF1DWYkaDif7Ztbp)
 
-> The tracks heating up the continent right now!  Cover: <a href="https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT?si=Y0HlqxWKQ3mZiSk9tpQvGw"> Oxlade </a>  and <a href="https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK?si=1e\-okKDFRC2a4XJNKTkuRQ"> Dave </a>
+> The tracks heating up the continent right now!  Cover: <a href="https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4?si=PQchioNxTdGQtDIcgpx5Nw"> Tyler ICU </a>
 
 311 songs - 18 hr 36 min
 

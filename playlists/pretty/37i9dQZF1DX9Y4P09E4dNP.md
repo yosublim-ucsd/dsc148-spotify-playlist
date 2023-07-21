@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 
 > A fusion of highlife and hip\-hop, these hip\-life jams are undeniable.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,554 likes - 40 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,566 likes - 40 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Y4P09E4dNP.md) - [plain]
 | 39 | [MAMA](https://open.spotify.com/track/7n3q5KB6vOF5Mh3YCVtovp) | [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [MAMA](https://open.spotify.com/album/08amz14qiWtlECBBBLIMSw) | 2:34 |
 | 40 | [FINGERS](https://open.spotify.com/track/6pGf2XUUNaj6tTkWXR1yJQ) | [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [FINGERS](https://open.spotify.com/album/4BoK4qfCb8y8rejtjCwf8m) | 3:25 |
 
-Snapshot ID: `MCw2ZjRkZDU3OGEzMzY0Njg2ZDlhZDQ0YmJiYjU5MGNiYTU4MmY0Mjhj`
+Snapshot ID: `MTY4NjkyMTI1MSwwMDAwMDAwMGIyOWY2NzQxODM3NDNiMmU3OTIzY2Q3YTg0OGVhZjk5`

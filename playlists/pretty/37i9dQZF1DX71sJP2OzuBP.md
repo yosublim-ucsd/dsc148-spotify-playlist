@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,246 likes - 105 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,257 likes - 105 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 82 | [听雨说](https://open.spotify.com/track/16GE6UB5S24IrvqmahU7CA) | [李佳歡](https://open.spotify.com/artist/7sxOGIcUrfCGeTe79YYutH) | [听雨说](https://open.spotify.com/album/2vkr0ahxqn49EdITMEJyAD) | 3:14 |
 | 83 | [讓我 Ft\. 南西 Neci](https://open.spotify.com/track/23i0k9AntO4P6e6wIJkt8g) | [Theseus 忒修斯](https://open.spotify.com/artist/2hLBiCegl2nNMVyDBDjxO9), [南西 Neci](https://open.spotify.com/artist/2H6Rr4sQjMGyirQeAMcUF1) | [讓我 Ft\. 南西 Neci](https://open.spotify.com/album/0OA9H8teTd7b4j5ZDO0bWR) | 4:09 |
 | 84 | [別想太多](https://open.spotify.com/track/5XOY4mOyQhshDi6HVlzlQI) | [張語噥](https://open.spotify.com/artist/3PWY4Z5OjA9aABPh5ipDk8) | [MeMi](https://open.spotify.com/album/4llZfyRtwUqL5gQF7v7iBN) | 3:49 |
-| 85 | [牛頓與蘋果\(戲劇《免疫屏蔽》主題曲\)](https://open.spotify.com/track/0E5V2Xq2sVr1ybrW1QaDlV) | [洪暐哲WAJI](https://open.spotify.com/artist/2r5tIhrcRTq0AGzTBz0C0O) | [牛頓與蘋果\(戲劇《免疫屏蔽》主題曲\)](https://open.spotify.com/album/0wTAfle8JB3ZpCGne0AlgO) | 3:18 |
+| 85 | [牛頓與蘋果（戲劇《免疫屏蔽Stay By My Side》主題曲）](https://open.spotify.com/track/0E5V2Xq2sVr1ybrW1QaDlV) | [洪暐哲WAJI](https://open.spotify.com/artist/2r5tIhrcRTq0AGzTBz0C0O) | [牛頓與蘋果（戲劇《免疫屏蔽Stay By My Side》主題曲）](https://open.spotify.com/album/0wTAfle8JB3ZpCGne0AlgO) | 3:18 |
 | 86 | [去有風的地方 \(電視劇《去有風的地方》主題曲\)](https://open.spotify.com/track/5mivWWWtw7x1H7TCBTDS5g) | [郁可唯](https://open.spotify.com/artist/4XOgZBMcpRQqKHbE8L9zW1) | [去有風的地方 \(電視劇《去有風的地方》主題曲\)](https://open.spotify.com/album/0adwWPry7ob0mHUSNJyobe) | 3:51 |
 | 87 | [What She Said](https://open.spotify.com/track/0iD0E2UYZMAuW5KIQCBIYF) | [D.N.A](https://open.spotify.com/artist/1oepyvIp0DGLIwkRxXEUmK), [Vinida Weng](https://open.spotify.com/artist/6oYvpkS6pM9ts4nbXRaINg) | [What She Said](https://open.spotify.com/album/6EDNiZamh1N86sjX93jL56) | 3:34 |
 | 88 | [Forest \- Acoustic Version](https://open.spotify.com/track/6grcrwlyM6whOQw6lLO99e) | [元宇炘 XINA](https://open.spotify.com/artist/1gBd8Lykf7k3FfVxmUvMpb) | [Forest \(Acoustic Version\)](https://open.spotify.com/album/7v7yxaKTPGvCCSYkoT0sBa) | 3:46 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 104 | [雨季](https://open.spotify.com/track/7zJLX40mHrjN4NfoT4GZpR) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [雨季](https://open.spotify.com/album/3z2ycnShuTsTkPj78LNLa3) | 4:21 |
 | 105 | [流沙 \(Reimagined\)](https://open.spotify.com/track/0KFftmgOExvXxMH0zZK4jH) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [流沙 \(Reimagined\)](https://open.spotify.com/album/2qBynilrtiV9e0Zh2drTow) | 4:51 |
 
-Snapshot ID: `MCwxZTc3NDE3NTIzYzdjYzExMDgxOGE1ZjA3YjIwNGRiNDI4NzBhODY5`
+Snapshot ID: `MCw0MzA1Y2M2Y2ZjMWI5NmU4MGIwNjZjYzZiYzE5NzdhODAzMWQwMmNk`

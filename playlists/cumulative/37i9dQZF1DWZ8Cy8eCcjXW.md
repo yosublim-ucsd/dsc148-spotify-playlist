@@ -4,7 +4,7 @@
 
 > The genre\-bending singer's essential hits.
 
-50 songs - 3 hr 5 min
+51 songs - 3 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [fue mejor \(feat\. SZA\)](https://open.spotify.com/track/4AIiCP2scA6jt6jAKfkvTX) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Sin Miedo \(del Amor y Otros Demonios\) ∞ \[Deluxe Version\]](https://open.spotify.com/album/64SrjXrYNfYvQcccFmYEHu) | 3:50 | 2022-12-09 |  |
 | [Garden \(Say It Like Dat\)](https://open.spotify.com/track/19woxaSpjOefa2JnAOoqW5) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 3:28 | 2022-06-18 |  |
 | [Ghost in the Machine \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/4h5x3XHLVYFJaItKuO2rhy) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:38 | 2022-12-21 |  |
-| [Gods Reign \(feat\. Sza\)](https://open.spotify.com/track/5WqfumG2Ohc6ranjWl2n8i) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [These Days...](https://open.spotify.com/album/021zMZKO2pUA3yoUQFW2uy) | 4:18 | 2022-06-18 |  |
+| [Gods Reign](https://open.spotify.com/track/4MaI1E1CQfm15THfV0WUIE) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [These Days...](https://open.spotify.com/album/36V9Nypcss9ybEKKmPBhin) | 4:18 | 2022-06-18 |  |
+| [Gods Reign \(feat\. Sza\)](https://open.spotify.com/track/5WqfumG2Ohc6ranjWl2n8i) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [These Days...](https://open.spotify.com/album/021zMZKO2pUA3yoUQFW2uy) | 4:18 | 2022-06-18 | 2023-07-21 |
 | [Good Days](https://open.spotify.com/track/3YJJjQPAbDT7mGpX3WtQ9A) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Good Days](https://open.spotify.com/album/781cKhbTPwLnPmo9BALQl7) | 4:39 | 2022-06-18 |  |
 | [HiiiJack](https://open.spotify.com/track/4N0VFSI2wJu2NzwUuI0sMz) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Z](https://open.spotify.com/album/2qCyMMQ785sPH4Yx25GQZ8) | 3:42 | 2022-06-18 |  |
 | [Hit Different](https://open.spotify.com/track/7Bar1kLTmsRmH6FCKKMEyU) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Hit Different](https://open.spotify.com/album/4xmJCh7ct63QvQ5wRc44db) | 3:22 | 2022-06-18 |  |

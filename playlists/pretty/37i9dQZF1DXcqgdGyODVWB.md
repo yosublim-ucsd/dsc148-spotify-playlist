@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqgdGyODVWB.md) - [plain]
 
 > Cumbia Norteña y Norteño Sax para las vibras de verano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,429 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,490 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqgdGyODVWB.md) - [plain]
 | 99 | [Un Cariño Como Tú](https://open.spotify.com/track/20WRrWYgSULYXFtxBcazwU) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Norteño, Vol\. 2](https://open.spotify.com/album/2misjU3JTrJmzfXwmhK41R) | 2:47 |
 | 100 | [Como Estas Tú](https://open.spotify.com/track/2ljlODbJrQrMEcC4wmoCkg) | [Cumbre Norteña](https://open.spotify.com/artist/0d1jlQUtg6wJtmOVWSFU0t) | [De Frente](https://open.spotify.com/album/70bYfLrHCQMkUHtHQZFLYR) | 2:16 |
 
-Snapshot ID: `MCwwYzQyYzE4NGM2YjNjMzBkZmQ1ODFlNzY1ZjdlOGI5YWEwYmJmZDdi`
+Snapshot ID: `MCxlZTQ2YzY5ZmI0M2ZmMGRjNTQ3OGRjMTAwNWExZjNjZWIxZDY1Mzcx`

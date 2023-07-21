@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Malcolm Todd
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,848 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,965 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 99 | [Fragrance](https://open.spotify.com/track/2082vPorTG6ceIWBT0szPp) | [Jouska](https://open.spotify.com/artist/0uz2Ej3tDwFcK0ujnBcYjn) | [Suddenly My Mind Is Blank](https://open.spotify.com/album/4XvzxNhPgvjdO3h28A9wzb) | 3:19 |
 | 100 | [Daddy](https://open.spotify.com/track/3jKlmTVS7ym2axSs9OEcrT) | [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g) | [Erotic Probiotic 2](https://open.spotify.com/album/6HPNCXxhRfj8tus7gw0dDI) | 4:06 |
 
-Snapshot ID: `MCxjMTljODBmMTk2YjU0NTQ0MWRiMTEyODU5ODM2ZjY4NjI3ZGZjZDQw`
+Snapshot ID: `MCxmODQxYTEyZjYzMDAxYmJhMjczZjZjZGZmZDllMDgwOWYyMDE2MmEw`

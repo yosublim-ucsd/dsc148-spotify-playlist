@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Loud, Ya Cetidon
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,203 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,214 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 49 | [L'amour \- Spotify Singles](https://open.spotify.com/track/4nL8XR8Q353qWRfa23Aqqw) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [Spotify Singles](https://open.spotify.com/album/4dmxL8WtniD8zHWqp4GabV) | 2:19 |
 | 50 | [Un Deux Trois](https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Hello Hi / Un Deux Trois](https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA) | 3:30 |
 
-Snapshot ID: `MCxmZTZmOWUzNTYzNjQ5M2I1YjZmNmRhY2MyMWI5YjVkODE0NDJkMGU2`
+Snapshot ID: `MCxhYTM1NzExMmIyMDlkZmU3MDc1OGNiNDRhNDUzOGI3OTYwMmNiZWYw`

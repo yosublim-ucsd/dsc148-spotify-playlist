@@ -1438,7 +1438,7 @@
     {
       "album": {
         "name": "Korta",
-        "url": "https://open.spotify.com/album/46aFSdEdoJywxm59zrjZPq"
+        "url": "https://open.spotify.com/album/7AEMstJEdLQUpP6BnsePpc"
       },
       "artists": [
         {
@@ -1449,6 +1449,24 @@
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 96000,
+      "name": "Leiti",
+      "url": "https://open.spotify.com/track/0dTtNCql4elZyZxHMsBP5e"
+    },
+    {
+      "album": {
+        "name": "Korta",
+        "url": "https://open.spotify.com/album/46aFSdEdoJywxm59zrjZPq"
+      },
+      "artists": [
+        {
+          "name": "Knak",
+          "url": "https://open.spotify.com/artist/3IYKcXI1sFqT1ZtfyoW55C"
+        }
+      ],
+      "date_added": "2023-06-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-21",
       "duration_ms": 96000,
       "name": "Leiti",
       "url": "https://open.spotify.com/track/1hsg0LlD4QT0fzhxjkvSZ7"

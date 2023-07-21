@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,425 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,436 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 74 | [Lance Casual](https://open.spotify.com/track/7JS71otWFsD8UckNK70Cuh) | [Duace](https://open.spotify.com/artist/2SsXx3dW4xOoDQ1TxOCE4S), [OIK](https://open.spotify.com/artist/1B5n6jsxvFldc6Nq8Wx8VJ), [Blue Mary](https://open.spotify.com/artist/2GPEaK0AzTsnUJHSFVTPjh), [DJ Cia](https://open.spotify.com/artist/4ADw50fLamm1eoQBm65lHL) | [Lance Casual](https://open.spotify.com/album/6EuxD9uS7jM4bdSG0OBgXi) | 3:01 |
 | 75 | [Rosas Rositas](https://open.spotify.com/track/6guxeipY9PFAQdCcJRqKFg) | [Incógnito](https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8) | [Rosas Rositas](https://open.spotify.com/album/5eX7MhfxlDUmN94GuJVFVt) | 5:09 |
 
-Snapshot ID: `MCw0MmFjMTMxNmQzOGE1ZjczZWI4ODk1N2QwNzBkZjZkNjZkNWMzMTk4`
+Snapshot ID: `MCxhMjFkYTZiYTEzNmY2MjNmZGU1ZTU4MDMzODJmNzExNzY5NWJiM2Uw`

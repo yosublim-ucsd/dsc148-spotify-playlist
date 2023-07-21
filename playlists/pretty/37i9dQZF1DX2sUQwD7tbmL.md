@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 
 > The best indie rock vibes — classic and current.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,955,867 likes - 150 songs - 8 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,956,267 likes - 150 songs - 8 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2sUQwD7tbmL.md) - [plain]
 | 149 | [Buttons](https://open.spotify.com/track/76ARcI2WtTwLKC3zz9Duug) | [meija](https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1) | [So Long, Kid](https://open.spotify.com/album/1tdlHv6L6EvEV3ZbLeZMlL) | 3:36 |
 | 150 | [Personal Lies](https://open.spotify.com/track/3HAYmp6l5lYGG8zz4qMbIX) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/3kxxxUQ9HFVUSg2pDLYoZ0) | 4:59 |
 
-Snapshot ID: `MCw4YTdjMWMxMjgxMmU1ZmIxYzlkZGVlNDI2MWIyOTRjZjJkZGU2YWRk`
+Snapshot ID: `MCw2ZTJiZDllZDJjMjZmZjMxOWI3MDBiNjlkOTAyZmIxMGI3YmE2ZTk3`

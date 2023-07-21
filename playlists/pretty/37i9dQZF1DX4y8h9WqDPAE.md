@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > Where R&B meets Hip\-Hop, Pop and everything in between !  Cover: Chris Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,787,732 likes - 120 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,787,891 likes - 120 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 | 22 | [ICU \(with Justin Timberlake\) \- Remix](https://open.spotify.com/track/1xs5R1koW93bXtXD2s59nR) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [ICU \(with Justin Timberlake\) \[Remix\]](https://open.spotify.com/album/2WknTzc9xga0IgeYMY3pZ7) | 3:38 |
 | 23 | [Snooze](https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:21 |
 | 24 | [Stressed \(feat\. Summer Walker\)](https://open.spotify.com/track/2mNaugzeRDyAq991bw4nqv) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [222](https://open.spotify.com/album/3KRqTwjYtuR11MnyM3X2xL) | 2:24 |
-| 25 | [DIAMOND \(I NEED LOVE\)](https://open.spotify.com/track/2XNZpupSsdgRIGAW3X65jS) | [CHOSZN](https://open.spotify.com/artist/4IW23LrsjoHnbLouSIKAPP) | [DIAMOND \(I NEED LOVE\)](https://open.spotify.com/album/1G7p8w6JJaXekZ8ECALcXh) | 3:08 |
+| 25 | [DIAMOND \(I NEED LOVE\)](https://open.spotify.com/track/2XNZpupSsdgRIGAW3X65jS) | [CHOSZN](https://open.spotify.com/artist/2B9U7mQ6lCD1a7nycReVUK) | [DIAMOND \(I NEED LOVE\)](https://open.spotify.com/album/1G7p8w6JJaXekZ8ECALcXh) | 3:08 |
 | 26 | [Don't Give It Away \(with Chris Brown\)](https://open.spotify.com/track/6qtiBwLiezRyj82NVKfvez) | [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Don't Give It Away](https://open.spotify.com/album/4eFmR5Xt0nAXuYs85GS8IA) | 3:26 |
 | 27 | [1st Lady](https://open.spotify.com/track/4KNry6US58GNebuDaiYfHD) | [Childish Major](https://open.spotify.com/artist/4bMNzAopkqYTwkBLwMKsF1) | [1st Lady](https://open.spotify.com/album/79gSwusnEUZB9tRNuiTVa5) | 3:12 |
 | 28 | [3 of Us](https://open.spotify.com/track/36V3yQnFlfRarXVJbh17lE) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [3 of Us](https://open.spotify.com/album/3wjvkDUEECwgqVhIfNPQSV) | 2:56 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 | 119 | [Modennaminute \(with Lucky Daye, Phoelix\)](https://open.spotify.com/track/37oNzLFCyw2On6e39bN2sp) | [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0) | [Luv 4 Rent](https://open.spotify.com/album/6dtDTbVBQ9QwsNaqEnjsOT) | 4:47 |
 | 120 | [WHISTLE \(feat\. Lojay & Amaarae\)](https://open.spotify.com/track/7KTyBUl3f402RdK4Af7RDB) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Young Preacher](https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2) | 3:06 |
 
-Snapshot ID: `MCxiOTFiZGI3NjRjNjUyMDA0ZDEzMGU2MzE3N2NhZTRiYWJiZWIxNTM3`
+Snapshot ID: `MCxiZWU1M2U2NDZlYzFhYWI1ZTUxMGMyNTA5MWEwOWJlOGMyMzE5NmQ3`

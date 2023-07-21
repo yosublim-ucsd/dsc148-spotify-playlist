@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,247 likes - 50 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,313 likes - 50 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRzAsbxGrBZ.md) - [plain]
 | 49 | [Solidarity](https://open.spotify.com/track/4G7KOUK2WuiGNRArzcFeDU) | [Senzo C](https://open.spotify.com/artist/00rQpaR5oh9jwZlyGMB0yA) | [Solidarity](https://open.spotify.com/album/0kkXWIhomnQLgmgbCgVu9s) | 7:36 |
 | 50 | [Emulate \- Original Mix](https://open.spotify.com/track/3cwnPmaqR2HPxnAbOiZQdk) | [Jason Scoble](https://open.spotify.com/artist/4Z0yLFzmYX8tOVel9skUdg) | [Emulate](https://open.spotify.com/album/3liHkkMMd2YHC8dstMQ8js) | 7:49 |
 
-Snapshot ID: `MCw3YjM0Y2YwNjVkMjFmNzY1MTE4YmVjZjdmY2Q3NTRmYmQ3ZTI1MTQ3`
+Snapshot ID: `MCw3NTdjNWNkYmQ0YWVmZWU0NzQ2NzE4OGUwOGVhMjdhOWRkOGExOWM1`

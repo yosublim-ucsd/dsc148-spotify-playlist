@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 
 > French scene makes some noise!
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,799 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,827 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUF9GRO45to.md) - [plain]
 | 99 | [Cold Crusader](https://open.spotify.com/track/5sws6dep1M2EKwcDfCFcRB) | [You Said Strange](https://open.spotify.com/artist/269ucQArovY0uXXKEuf5d2) | [Salvation Prayer](https://open.spotify.com/album/2Ntf4ad4LSlcqNFa5ZHBGo) | 4:54 |
 | 100 | [Peeling the Onion](https://open.spotify.com/track/5e8Fj1zNqVK5aDhpBjICev) | [Th Da Freak](https://open.spotify.com/artist/21bdasKU3vHrH6tjuhBIjd) | [Freakenstein](https://open.spotify.com/album/46CswcgmRweHhj7oSvqeS4) | 3:43 |
 
-Snapshot ID: `MCxkMjk2NGVkY2EzMWQ5YjQ1ODIxYTY3YTQwNDI2NDc0MjZhZDc4NWQ0`
+Snapshot ID: `MCw3MDQ5ODdhYTYzMGU2YmJjNzg2NGQwN2U1MDBjNWEwNWMxNjlmMDY0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 
 > Kick back and relax after a hard day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,871 likes - 100 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,970 likes - 100 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4BUmGJw1rT1.md) - [plain]
 | 99 | [Fool's Paradise](https://open.spotify.com/track/5Yr4UowJm6FXrS3B0VD5tU) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [Bringing It Back Home](https://open.spotify.com/album/39WNrnrc8CiPYgSodTm3SI) | 5:37 |
 | 100 | [Nibbadip](https://open.spotify.com/track/6YPSs7nidM3FK5qFN0nJnh) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [White Jesus Black Problems](https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i) | 3:47 |
 
-Snapshot ID: `MCw0Y2Q4NDkzOTVhZTNiNWU3ZGJlMDY4ZGRlNzM5ZjY5ODcxN2Q5NTFl`
+Snapshot ID: `MCwyZDA1ODQxYzM1MWU2YTZiOWMzYTY2Y2RhNWJmNDU2MGZmZjhkYWZm`

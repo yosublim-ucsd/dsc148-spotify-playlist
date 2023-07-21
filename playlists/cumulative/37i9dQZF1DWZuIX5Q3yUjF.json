@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Il meglio dell'R&B italiano. Cover: MANDORLA",
+  "description": "Il meglio dell'R&B italiano. Cover: cura",
   "name": "anima R&B",
   "tracks": [
     {
@@ -132,7 +132,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 132941,
       "name": "5 minuti",
       "url": "https://open.spotify.com/track/4SJqYClpiN2aWMbn42fk9S"
@@ -581,6 +581,24 @@
     },
     {
       "album": {
+        "name": "Brava",
+        "url": "https://open.spotify.com/album/3WR2HpDM3YuMHuWsUfEXtM"
+      },
+      "artists": [
+        {
+          "name": "Saintess",
+          "url": "https://open.spotify.com/artist/1rZmAfzhpXD8kgq8ZMFl1J"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190782,
+      "name": "Brava",
+      "url": "https://open.spotify.com/track/0oNfUVmHSsWYknhbnamRtd"
+    },
+    {
+      "album": {
         "name": "Britney",
         "url": "https://open.spotify.com/album/0Rw7Bax4tNc6CgJhRfy3vE"
       },
@@ -610,7 +628,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 161647,
       "name": "Bruciami",
       "url": "https://open.spotify.com/track/3FdKyrHYU1MQVoKhyaPuVH"
@@ -828,7 +846,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 191612,
       "name": "Catania",
       "url": "https://open.spotify.com/track/6qKFECzVLpAtAkKEr4rR9V"
@@ -1320,7 +1338,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 157419,
       "name": "Controluce",
       "url": "https://open.spotify.com/track/3LgsuR7oz5XjwnmEXWfJg2"
@@ -5622,7 +5640,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 154169,
       "name": "Semafori arancioni",
       "url": "https://open.spotify.com/track/2Y4vL02kpV1CyBz25JZxrB"
@@ -5972,7 +5990,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 142906,
       "name": "Specchi",
       "url": "https://open.spotify.com/track/5M4zuk2CV31ataWytyHyul"
@@ -6030,7 +6048,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-21",
       "duration_ms": 166363,
       "name": "STAMMI LONTANO",
       "url": "https://open.spotify.com/track/3FoKEsr0DQbXkwTbemnyjP"
@@ -6866,6 +6884,24 @@
       "duration_ms": 178918,
       "name": "UN'ALTRA NOTTE",
       "url": "https://open.spotify.com/track/3pGkGnlkqP1uFnYyzAEspn"
+    },
+    {
+      "album": {
+        "name": "Una Litigata a Cas@",
+        "url": "https://open.spotify.com/album/49lcE2GrqBYyyyQck1IR3p"
+      },
+      "artists": [
+        {
+          "name": "Asiabel",
+          "url": "https://open.spotify.com/artist/491HAKV720PSqmM2Cii1F7"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246565,
+      "name": "Una Litigata a Cas@",
+      "url": "https://open.spotify.com/track/34wkdFH9hHRK5t1q1aU1IC"
     },
     {
       "album": {

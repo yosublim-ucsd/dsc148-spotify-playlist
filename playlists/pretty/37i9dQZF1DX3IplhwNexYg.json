@@ -1,12 +1,12 @@
 {
   "description": "The best in current indie rock. Cover: The Last Dinner Party",
-  "num_followers": 111547,
+  "num_followers": 111541,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Y2M4ZjI1ODdlNGQ2NWJkMTk5M2Y2NDQ1NTc2ZjRmODIzYWQxODE3",
+  "snapshot_id": "MCwyOGNmZDkxYmVlNTA1ZDc1OTE1ZDVhYTdkMmFjZjg3MmJlODA2ZjMy",
   "tracks": [
     {
       "added_at": "2023-07-13 23:47:02",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-07-13 23:47:02",
       "album": {
+        "name": "I Am The Dog",
+        "url": "https://open.spotify.com/album/0RjsbmAOQzWOq3fxQ002rX"
+      },
+      "artists": [
+        {
+          "name": "Sir Chloe",
+          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
+        }
+      ],
+      "duration_ms": 148301,
+      "name": "Should I",
+      "url": "https://open.spotify.com/track/7pB8DoQuLCT6IbgSCXAmhG"
+    },
+    {
+      "added_at": "2023-07-13 23:47:02",
+      "album": {
         "name": "Struggle",
         "url": "https://open.spotify.com/album/2KLdHxRwNcsbUDN6RKRpG0"
       },
@@ -707,22 +723,6 @@
     {
       "added_at": "2023-07-13 23:47:02",
       "album": {
-        "name": "From Nothing To A Little Bit More",
-        "url": "https://open.spotify.com/album/285M729So9YyJW5aqmiV3y"
-      },
-      "artists": [
-        {
-          "name": "The Lathums",
-          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
-        }
-      ],
-      "duration_ms": 171280,
-      "name": "Lucky Bean",
-      "url": "https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf"
-    },
-    {
-      "added_at": "2023-07-13 23:47:02",
-      "album": {
         "name": "Better (Edit)",
         "url": "https://open.spotify.com/album/6R34iy63JPKrzmIUxCHnW7"
       },
@@ -751,6 +751,22 @@
       "duration_ms": 250280,
       "name": "Love Will Get You There",
       "url": "https://open.spotify.com/track/0UgCI5TiOQthbrEVSqHC9j"
+    },
+    {
+      "added_at": "2023-07-13 23:47:02",
+      "album": {
+        "name": "From Nothing To A Little Bit More",
+        "url": "https://open.spotify.com/album/285M729So9YyJW5aqmiV3y"
+      },
+      "artists": [
+        {
+          "name": "The Lathums",
+          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
+        }
+      ],
+      "duration_ms": 171280,
+      "name": "Lucky Bean",
+      "url": "https://open.spotify.com/track/0I1MCxXBoICdfRGE3kfsSf"
     },
     {
       "added_at": "2023-07-13 23:47:02",
@@ -979,22 +995,6 @@
       "duration_ms": 268906,
       "name": "Roman Holiday",
       "url": "https://open.spotify.com/track/4IqBIufFMOV1sSYhzIPDoj"
-    },
-    {
-      "added_at": "2023-07-13 23:47:02",
-      "album": {
-        "name": "Should I",
-        "url": "https://open.spotify.com/album/17tq1FC1vDQJkTRNCNYcXc"
-      },
-      "artists": [
-        {
-          "name": "Sir Chloe",
-          "url": "https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U"
-        }
-      ],
-      "duration_ms": 148301,
-      "name": "Should I",
-      "url": "https://open.spotify.com/track/5n2SP6R5k7LS3GdJEirPeM"
     },
     {
       "added_at": "2023-07-13 23:47:02",

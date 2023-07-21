@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 
 > Listen to the recent hits of Christian Rock\.  Cover artist: Skillet
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,413 likes - 80 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,539 likes - 80 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N57moxx9BL.md) - [plain]
 | 79 | [Pulp](https://open.spotify.com/track/53hcnXo6HTK3fZTbh9DqPv) | [Love Ghost](https://open.spotify.com/artist/7oYWWttOyiltgT19mfoUWi) | [Pulp](https://open.spotify.com/album/4nAhfRvtz1ZkTh0ivN5iHQ) | 3:59 |
 | 80 | [No Altars](https://open.spotify.com/track/3n3Rnzy1tQPCjYxb63PM20) | [War Of Ages](https://open.spotify.com/artist/4s407eN0H9FQyRMc1n3Spx) | [No Altars](https://open.spotify.com/album/4wuEPH40N55PRNsTPO7Kb9) | 3:29 |
 
-Snapshot ID: `MCxmOTZiYmMxYzE2M2U4NmZjYjMxMTkxYjM0ZmM2NWRjZDBkMWI5NTQw`
+Snapshot ID: `MCw3NWQzMTg1MmIwZTBmYWQ3MGFhNWI0M2Y2MmY2ZTAwYmUxNTgzYTQ3`

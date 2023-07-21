@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIT9yLhyYuHE.md) - [plain]
 | 11 | [Other Plans](https://open.spotify.com/track/4uWMxLWuqmUeOwgJFH7PFY) | [BRÅVO](https://open.spotify.com/artist/5wbXEmUKBwInLhJS5Bmbqw), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [Other Plans](https://open.spotify.com/album/06xI01SVbw3zfc0Ql9jnFd) | 3:02 |
 | 12 | [How Would It Feel](https://open.spotify.com/track/5krCHvSTbLRJOVJ3s0xD2d) | [Nambyar](https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9) | [How Would It Feel](https://open.spotify.com/album/3ZGIUHyrzEsvkE6e6OQAOd) | 4:08 |
 | 13 | [Heartbeat](https://open.spotify.com/track/6rs9noqED5d5SRVfK5evQC) | [Leroy Styles](https://open.spotify.com/artist/2MoxYOhy9ooC8KRcdgIFif), [Sydnee Carter](https://open.spotify.com/artist/2URnDoxQb8QV2GlfMVDy99) | [Heartbeat](https://open.spotify.com/album/3gzilPfL1qhPsSKjJ4RYlO) | 3:41 |
-| 14 | [Rich](https://open.spotify.com/track/1kdyUzi1y72m0bimHV4LOQ) | [D\-wayne](https://open.spotify.com/artist/7s8qj3Bzbzoyw1t1y88GuX) | [Rich](https://open.spotify.com/album/0yDc9SCVT5ZUxU5SrKueCa) | 3:01 |
-| 15 | [Rain](https://open.spotify.com/track/78FgNtnQF3jTje0xn9HME8) | [Jules](https://open.spotify.com/artist/4e2hDERmPLsXiJlO9SjC1J) | [Rain](https://open.spotify.com/album/0uldlY1QLhM67agkczYEhk) | 2:33 |
+| 14 | [Rain](https://open.spotify.com/track/78FgNtnQF3jTje0xn9HME8) | [Jules](https://open.spotify.com/artist/4e2hDERmPLsXiJlO9SjC1J) | [Rain](https://open.spotify.com/album/0uldlY1QLhM67agkczYEhk) | 2:33 |
+| 15 | [Rich](https://open.spotify.com/track/1kdyUzi1y72m0bimHV4LOQ) | [D\-wayne](https://open.spotify.com/artist/7s8qj3Bzbzoyw1t1y88GuX) | [Rich](https://open.spotify.com/album/0yDc9SCVT5ZUxU5SrKueCa) | 3:01 |
 | 16 | [Hier bij jou](https://open.spotify.com/track/4ppcWL675MFv1NRVP1SH6A) | [Quido van de Graaf](https://open.spotify.com/artist/0EeBSdffc4ckG8Yh9HOPuj) | [Hier bij jou](https://open.spotify.com/album/43dUIyykCYWuvmnia0Ab4t) | 2:51 |
 | 17 | [Crazy over You](https://open.spotify.com/track/4xLVRYJxcQD9rPJmgxWpSS) | [Shary\-An](https://open.spotify.com/artist/4YJo8C4fQjZXRewIuH6rnc) | [Project Me](https://open.spotify.com/album/63Dbmdt0RTxUDXzQl4ZhIj) | 3:21 |
 | 18 | [Say You're Mine](https://open.spotify.com/track/2i0YLaDthw6Zi1mwIW7E0o) | [Carl Clarks](https://open.spotify.com/artist/3OE3dz6RhP1rdri5pcQY0c), [Cara Melín](https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8) | [Say You're Mine](https://open.spotify.com/album/7jdBTIrZUyapCtPEEvDwUx) | 2:56 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFIT9yLhyYuHE.md) - [plain]
 | 51 | [FLY AWAY](https://open.spotify.com/track/6xcC3CXu7MI0HFzSF5Zkh5) | [Sofia Sole](https://open.spotify.com/artist/7l4Os2z0JD7Lz8lKcBDdRO) | [FLY AWAY](https://open.spotify.com/album/60qE1C65gbxL7oStfjNGYE) | 3:09 |
 | 52 | [The Right One](https://open.spotify.com/track/7l37dMgsRHPOb7yk34f78w) | [Mabo](https://open.spotify.com/artist/6XxrlKH1iahSmaUDcyS5Rt) | [The Right One](https://open.spotify.com/album/0Hl4BSPGz624co8VIfRegt) | 2:50 |
 
-Snapshot ID: `MjgxNjIyODYsMDAwMDAwMDA4NTYyY2I0NTM1OWZlY2QyMWIwZDVlZjYxYTNlNWUxNA==`
+Snapshot ID: `MjgxNjUwOTAsMDAwMDAwMDA4YWZjMzU3MTg2N2U3OWMyZmU1MmJlY2M4M2JjY2Q1OQ==`

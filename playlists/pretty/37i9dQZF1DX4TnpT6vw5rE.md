@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 751,250 likes - 120 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 751,266 likes - 120 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TnpT6vw5rE.md) - [plain]
 | 119 | [Mission at Beccles](https://open.spotify.com/track/0873bg61Q7WoVoKJXzNQCD) | [underwaters](https://open.spotify.com/artist/1ISTqu0xKeFelPqY4lYVOM) | [Mission at Beccles](https://open.spotify.com/album/233G9MsUHRJCERpaVpTaFS) | 3:16 |
 | 120 | [inflight view](https://open.spotify.com/track/0AQEnTwiXGUTMUHNBsOJFJ) | [Lukas Klika](https://open.spotify.com/artist/30dGtOLUkxJYNFQ5pZBb6j) | [inflight view](https://open.spotify.com/album/14I13nspqsRuft5vKtSbTb) | 3:40 |
 
-Snapshot ID: `MCwyM2MwNzAyY2FlYmNjM2Q3MTA5NGM1Mzk4OTVkYzJhZWU0ZmE5ODM3`
+Snapshot ID: `MCw2OTYyOTg0ZGQ4OWQ0ZDAyYjYxOWNjNjc0MzEwMzljYjEyNjI2Y2Rk`

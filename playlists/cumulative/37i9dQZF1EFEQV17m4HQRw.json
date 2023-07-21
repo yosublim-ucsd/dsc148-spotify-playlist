@@ -179,6 +179,24 @@
     },
     {
       "album": {
+        "name": "Recome\u00e7ar",
+        "url": "https://open.spotify.com/album/1Z6xceemw3XRL3F9mcyDnz"
+      },
+      "artists": [
+        {
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279560,
+      "name": "Cante Outra Vez",
+      "url": "https://open.spotify.com/track/17mVv6aGrWt7ScrMWrVMXh"
+    },
+    {
+      "album": {
         "name": "La Dr\u00e1cula",
         "url": "https://open.spotify.com/album/2oCiS07G3GJuZUQhv6J8MV"
       },

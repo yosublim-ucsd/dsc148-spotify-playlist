@@ -405,6 +405,28 @@
     },
     {
       "album": {
+        "name": "Estoy Perdiendo La Raz\u00f3n",
+        "url": "https://open.spotify.com/album/6D5BTc38W49lEnrcJXm8ZK"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        },
+        {
+          "name": "Alex Lora",
+          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202556,
+      "name": "Estoy Perdiendo La Raz\u00f3n",
+      "url": "https://open.spotify.com/track/6l63zk5RAYROPD5ykqmPcR"
+    },
+    {
+      "album": {
         "name": "Siguiendo La L\u00ednea",
         "url": "https://open.spotify.com/album/2F9AobKP2HSigLELWeu9Jg"
       },

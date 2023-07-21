@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 
 > Ride the bassline\. Cover: Nostalgix
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,935 likes - 125 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,067 likes - 125 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZCdOD1jAvLL.md) - [plain]
 | 124 | [Get Down](https://open.spotify.com/track/7MXy1r5LU9S2KkNyeqVITj) | [Cloverdale](https://open.spotify.com/artist/27RdRVoIwtB1CAhLwuPrbB), [Hollaphonic](https://open.spotify.com/artist/5MOWxZWdW3Hi4IPyyRrRTi) | [Get Down](https://open.spotify.com/album/3Xgos48pchxDr8bgrUCl6z) | 2:59 |
 | 125 | [Night Rider](https://open.spotify.com/track/4rKQA3rD8ytaoaRABz9CL6) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Together](https://open.spotify.com/album/0IGWaTyOw4z04uUdh38QLf) | 3:35 |
 
-Snapshot ID: `MCxiZjQyNjAxOWQ0OTg0ODcxNzAyZmU1ZDQyOTUzM2Q4OTdjMWRhNTMx`
+Snapshot ID: `MCwyMDU2ZTk5YTMyYjQ0NDA1NDc3M2U3ZWY0NmI5MDdjZDRiYTYwYTk0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 
 > Ouça as novidades e sucessos do Pop Cristão\. Foto: Os Meireles, Margem Norte
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,000 likes - 80 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,065 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXia8adWhIq7.md) - [plain]
 | 79 | [Me Alcançou \(Live Remix\)](https://open.spotify.com/track/0LG3JaVDTAtQwVLwaamxeL) | [Heric Tolentino](https://open.spotify.com/artist/6pAfGMs1Egz9IPChjCFJ8k) | [Me Alcançou \(Live Remix\)](https://open.spotify.com/album/4YYTCbKB8jkzJfDCuvFBgj) | 5:08 |
 | 80 | [Teu Calor \- Acústico](https://open.spotify.com/track/4N6ShFZEd74fQWyZejZGUS) | [Thais Castro](https://open.spotify.com/artist/2niScuDrXnzm3VrBdmVIwF), [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Teu Calor \(Acústico\)](https://open.spotify.com/album/7gvDYalsG1qogowfBLJ2zY) | 3:44 |
 
-Snapshot ID: `MCw2Njc2MGE3MTUxMzkzMzg5MTUwNTRjYTM1NjliZTVmN2I2NTllZTE4`
+Snapshot ID: `MCxjODY4NTMyYmMzZGU5NzJhMWU3ZDYwM2ZjOWYzMWVkMTQxZTRjZThk`

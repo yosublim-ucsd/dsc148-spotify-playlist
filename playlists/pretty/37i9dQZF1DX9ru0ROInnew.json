@@ -1,12 +1,12 @@
 {
   "description": "The best of Latin Trap. Cover: Arcangel ",
-  "num_followers": 93005,
+  "num_followers": 93061,
   "original_name": "Trap Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDU2OTVkYjhmMGE2MTVhYzBkYTA5N2JhY2EzMTZhYWQ1NjFkMzQ0",
+  "snapshot_id": "MCxiZmYzZmI0ZjMzNjE2NjFiNDZiYjY2NzBmNzhkMzMwNTIzMzE3NWM1",
   "tracks": [
     {
       "added_at": "2023-05-25 17:50:01",
@@ -2056,12 +2056,12 @@
       },
       "artists": [
         {
-          "name": "Goya Alfa",
-          "url": "https://open.spotify.com/artist/4nggYuFtlufqW2xXN8bz3Y"
-        },
-        {
           "name": "Joel Ney",
           "url": "https://open.spotify.com/artist/7eLqivRSAwxPAHKBlnLqVi"
+        },
+        {
+          "name": "Goya Alfa",
+          "url": "https://open.spotify.com/artist/4nggYuFtlufqW2xXN8bz3Y"
         }
       ],
       "duration_ms": 281734,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 
 > Iconic women from the history of the Blues\. Cover: Bessie Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,984 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,031 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbxvVclJxhEJ.md) - [plain]
 | 74 | [Dirty Moaner Blues](https://open.spotify.com/track/35BLeCm8rHg2Z0g7xrTcDP) | [Fannie May Goosby](https://open.spotify.com/artist/4jFXUMT7f5Wgv0RyTiQs2n), [Peter Harris](https://open.spotify.com/artist/23VN21wIWQLjWFCRwQyUVz) | [Grievous Blues](https://open.spotify.com/album/3NEoLNpzJ1PXhjCGOop7ly) | 2:43 |
 | 75 | [A Jealous Woman Like Me](https://open.spotify.com/track/4OYyArfBsu30D1L1wDDj3z) | [Sippie Wallace](https://open.spotify.com/artist/1MzNMhcJhkG0pCk2sg3PTR) | [Presenting Sippie Wallace](https://open.spotify.com/album/3leclnVX5Yk1Rj9cvI1HYR) | 3:17 |
 
-Snapshot ID: `MCw3ZGNiMjRkN2MzMzFmNjhhMDMwYjNiMDc1OGJlNzk3ZjA1ZmY3MWQ5`
+Snapshot ID: `MCwzMzQ2NWYxYzg4ZTI1NGY5YTJlMzFhNDQ2YjE1YjY3YWZiMDkxMDRh`
