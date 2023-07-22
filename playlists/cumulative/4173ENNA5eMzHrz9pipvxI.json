@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Gianluca Vacchi",
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Deorro x Stafford Brothers",
   "name": "Spinnin' Records Brand New",
   "tracks": [
     {
@@ -718,6 +718,28 @@
       "duration_ms": 149318,
       "name": "All For One",
       "url": "https://open.spotify.com/track/6uCXc2ut1vAGgQG0qcRhbv"
+    },
+    {
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/24itoj0Xfz4utQjm6SuUJd"
+      },
+      "artists": [
+        {
+          "name": "Robbie Mendez",
+          "url": "https://open.spotify.com/artist/1CEqpjEq6n8O8zte6YvOTM"
+        },
+        {
+          "name": "Lucles",
+          "url": "https://open.spotify.com/artist/1MY4qvzTbed3hyseWVdwOa"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200629,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/2I9yA091lIXABCInxNs58Z"
     },
     {
       "album": {
@@ -2134,6 +2156,50 @@
       "duration_ms": 152986,
       "name": "BORED",
       "url": "https://open.spotify.com/track/4r386q1Mmfke4Ubztf5obg"
+    },
+    {
+      "album": {
+        "name": "BORED (Remixes)",
+        "url": "https://open.spotify.com/album/5JHu5sjHOLRAuQY49TboO1"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        },
+        {
+          "name": "Ariis",
+          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146759,
+      "name": "BORED (Ariis Remix)",
+      "url": "https://open.spotify.com/track/5qF4F8c0DR6zDHwlwf7Hn2"
+    },
+    {
+      "album": {
+        "name": "BORED (Remixes)",
+        "url": "https://open.spotify.com/album/5JHu5sjHOLRAuQY49TboO1"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        },
+        {
+          "name": "Rikke Darling",
+          "url": "https://open.spotify.com/artist/3eHCkAyD6HfMa8mxDKuTjc"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187617,
+      "name": "BORED (Rikke Darling Remix)",
+      "url": "https://open.spotify.com/track/10oNrXPI3QOjeqTTnNqP9z"
     },
     {
       "album": {
@@ -4220,6 +4286,24 @@
       "duration_ms": 182109,
       "name": "Do My Thing",
       "url": "https://open.spotify.com/track/4r7uG3WXm20v7ELUMiI7NH"
+    },
+    {
+      "album": {
+        "name": "Do The Talk",
+        "url": "https://open.spotify.com/album/5hj3Obheg7trFQt9UUKRHo"
+      },
+      "artists": [
+        {
+          "name": "Galoski",
+          "url": "https://open.spotify.com/artist/19gU7Hvep0G37JeiLf3TNB"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178095,
+      "name": "Do The Talk",
+      "url": "https://open.spotify.com/track/0P5upD4YarWz0T1vAn9vxr"
     },
     {
       "album": {
@@ -10764,6 +10848,32 @@
       "duration_ms": 147840,
       "name": "Lovesick (feat. BullySongs)",
       "url": "https://open.spotify.com/track/761dzyEgu1hXpClXWdWHPV"
+    },
+    {
+      "album": {
+        "name": "Low (Gang Speed Remix)",
+        "url": "https://open.spotify.com/album/5ylLUZw5kzjQbQcxEMeWJU"
+      },
+      "artists": [
+        {
+          "name": "71 Digits",
+          "url": "https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC"
+        },
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "Gang Speed",
+          "url": "https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Low (Gang Speed Remix)",
+      "url": "https://open.spotify.com/track/3l4apwfaTq2XIoS8HoHzq0"
     },
     {
       "album": {
@@ -18188,6 +18298,28 @@
       "duration_ms": 201562,
       "name": "The Night Is Young (feat. Will Matta)",
       "url": "https://open.spotify.com/track/33HVQXwbR5D7sHrVH4yQx0"
+    },
+    {
+      "album": {
+        "name": "The One (feat. Blair)",
+        "url": "https://open.spotify.com/album/3t0Q3BmvsuxwXE45FiC1DG"
+      },
+      "artists": [
+        {
+          "name": "M-22",
+          "url": "https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw"
+        },
+        {
+          "name": "Blair",
+          "url": "https://open.spotify.com/artist/1v5DH9ArPLD3vTAPA8fN8O"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179636,
+      "name": "The One (feat. Blair)",
+      "url": "https://open.spotify.com/track/6BRZ1sNVHeU8ShlOJS9Hyt"
     },
     {
       "album": {

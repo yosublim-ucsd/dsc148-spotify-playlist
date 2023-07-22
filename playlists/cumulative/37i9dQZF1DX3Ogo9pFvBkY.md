@@ -4,13 +4,13 @@
 
 > Relax and unwind with chill, ambient music.
 
-752 songs - 1 day 15 hr 29 min
+753 songs - 1 day 15 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ["we circle through the night, consumed by fire" \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7pAksEVGKqiXRvl2bO0vhy) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Spotify Singles](https://open.spotify.com/album/0A5p1Mwf2dK9MAG804kNcg) | 9:54 | 2019-05-26\* | 2019-06-29 |
 | [1](https://open.spotify.com/track/3SW9E5Bf7J1DPEvO9j5qzt) | [Tyler Burkhart](https://open.spotify.com/artist/6hNArc2Vya9KBBDhvIj1BM) | [Untitled](https://open.spotify.com/album/4z4Apgh44swEGoZwjCFVIP) | 5:14 | 2020-05-09 | 2020-05-18 |
-| [1989](https://open.spotify.com/track/5MLeS7gH48goD0uY0Ugwuy) | [Vasts](https://open.spotify.com/artist/2SFcZyrJePTkkpGJ3auRCV) | [1989](https://open.spotify.com/album/6ty8CSqH440EImNwbeAzX9) | 2:55 | 2021-04-02 |  |
+| [1989](https://open.spotify.com/track/5MLeS7gH48goD0uY0Ugwuy) | [Vasts](https://open.spotify.com/artist/2SFcZyrJePTkkpGJ3auRCV) | [1989](https://open.spotify.com/album/6ty8CSqH440EImNwbeAzX9) | 2:55 | 2021-04-02 | 2023-07-22 |
 | [\[Nowhere\]](https://open.spotify.com/track/1KR69UXMtGLsKvtwyBTny4) | [Gem Club](https://open.spotify.com/artist/7mfGqyAztYr0FI5gK5OCNp) | [In Roses](https://open.spotify.com/album/4ewVQNBZP2p3sekqciKE6r) | 2:08 | 2020-05-09 | 2021-07-23 |
 | [A brand new day](https://open.spotify.com/track/5ixqBWnkYkXr6VDWq3fxM0) | [Rainbow Rise](https://open.spotify.com/artist/7nqV0p65fl1bNXeSuTQxOd) | [A brand new day](https://open.spotify.com/album/13KQj6JkW1CD8uvUeiIfU6) | 2:55 | 2022-05-25 |  |
 | [A Mirror Appears](https://open.spotify.com/track/6ncThVkW6xywHK9FxZbcYD) | [Ramel Alloy](https://open.spotify.com/artist/6cpOQo8qfc2RKZRRvZ5Hkc) | [A Mirror Appears](https://open.spotify.com/album/0BXsVbsUex0bzk8NklyN7I) | 2:03 | 2021-12-09 |  |
@@ -566,6 +566,7 @@
 | [Schwebend](https://open.spotify.com/track/775dmuIRQojrplsns8VKen) | [Phillipp Vogler](https://open.spotify.com/artist/2ocNI6hLYU6rqq6TT4YzNY) | [Schwebend](https://open.spotify.com/album/6vkRKQjpupuv2XcEREDuLM) | 3:38 | 2019-12-07 | 2022-09-15 |
 | [Scorpio](https://open.spotify.com/track/5ymZVLbXYU9P9Dml5fGuXP) | [Matteo Edesio](https://open.spotify.com/artist/5KLOjDZreSAbJqW330F03e) | [Scorpio](https://open.spotify.com/album/6eD2kdgpRzfzZqPTXWRbMH) | 2:09 | 2020-01-03 | 2023-05-03 |
 | [Sea Bird Sunset](https://open.spotify.com/track/4oXhPokD0MI5Mv86n8XHxi) | [Xeo Long](https://open.spotify.com/artist/1PbaQ9HFvpDV5NzKWOMl9R) | [Sea Bird Sunset](https://open.spotify.com/album/2bk3oyV1WA5jQEw0xe4agV) | 3:00 | 2020-08-08 | 2021-09-14 |
+| [Sea of clouds](https://open.spotify.com/track/19ZIcHX28fWiVXCEDbtIso) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Mare](https://open.spotify.com/album/6V5cwAndVMp3GtqLKBQGCq) | 3:05 | 2023-07-21 |  |
 | [Sea of Tranquility](https://open.spotify.com/track/5ggOjNoVdy0O24g98rkms7) | [Evan Michael Brown](https://open.spotify.com/artist/6JA76EJW25d9MGVwGCmX1z) | [Above The Clouds](https://open.spotify.com/album/6Sjxd5p5VEM0Mj6FnhqPpP) | 2:55 | 2019-05-26\* | 2020-08-08 |
 | [Seasons](https://open.spotify.com/track/74jdFBI7LmTV2FMdd5qTh3) | [Ghasel](https://open.spotify.com/artist/6ylMYNmAVRn0ROcAuIFgEC) | [Seasons](https://open.spotify.com/album/4q9CspBJjcPmfewtSY5tAg) | 2:49 | 2022-11-11 |  |
 | [Secret Message](https://open.spotify.com/track/6hF7fW0UptdNRovONZT3JJ) | [Clouds of Calm](https://open.spotify.com/artist/4aFC3M76kBNOVNH1YIvtaD) | [Secret Message](https://open.spotify.com/album/6sVGOHFLrN1sbHnMkkWK3d) | 2:59 | 2021-10-13 |  |

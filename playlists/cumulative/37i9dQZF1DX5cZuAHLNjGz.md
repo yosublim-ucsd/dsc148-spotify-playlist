@@ -2,7 +2,7 @@
 
 ### [Punjabi 101](https://open.spotify.com/playlist/37i9dQZF1DX5cZuAHLNjGz)
 
-> Ultimate 101 Punjabi Hits with Harrdy Sandhu
+> Ultimate 101 Punjabi Hits with Shubh
 
 217 songs - 11 hr 25 min
 

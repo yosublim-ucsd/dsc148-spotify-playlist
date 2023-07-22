@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Los Bunkers en portada. ",
+  "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. El Tri en portada. ",
   "name": "La + Chingona",
   "tracks": [
     {
@@ -216,6 +216,28 @@
       "duration_ms": 241626,
       "name": "Amnesia",
       "url": "https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ"
+    },
+    {
+      "album": {
+        "name": "ADN (Cap\u00edtulo N)",
+        "url": "https://open.spotify.com/album/5dsGcOBv9D6MNQWEBkFbxX"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Systema Solar",
+          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182233,
+      "name": "Am\u00e9rica",
+      "url": "https://open.spotify.com/track/4xwUANiwIWZ2UkKxXzSSSJ"
     },
     {
       "album": {
@@ -1055,6 +1077,28 @@
     },
     {
       "album": {
+        "name": "Estoy Perdiendo La Raz\u00f3n",
+        "url": "https://open.spotify.com/album/6D5BTc38W49lEnrcJXm8ZK"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        },
+        {
+          "name": "Alex Lora",
+          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202556,
+      "name": "Estoy Perdiendo La Raz\u00f3n",
+      "url": "https://open.spotify.com/track/6l63zk5RAYROPD5ykqmPcR"
+    },
+    {
+      "album": {
         "name": "Explorador (Remaster 2022)",
         "url": "https://open.spotify.com/album/6FgCeCeQ2uY7x2EWPDOuGz"
       },
@@ -1258,6 +1302,24 @@
       "duration_ms": 259042,
       "name": "H2H - Todo Me Pica",
       "url": "https://open.spotify.com/track/3bL6ELBSaUtsRh0kWqsasD"
+    },
+    {
+      "album": {
+        "name": "Hay Una Cobra En Mi Sopa",
+        "url": "https://open.spotify.com/album/1p3Z6K9Iei8L6RyaaFJUdr"
+      },
+      "artists": [
+        {
+          "name": "Lost Acapulco",
+          "url": "https://open.spotify.com/artist/2k4EVVU4sm6zXJSOpDVk0U"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140976,
+      "name": "Hay Una Cobra En Mi Sopa",
+      "url": "https://open.spotify.com/track/4M8TgQwfRVsLEJfrd0kxkm"
     },
     {
       "album": {
@@ -1960,7 +2022,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 142988,
       "name": "Noticia Punk",
       "url": "https://open.spotify.com/track/5y5i9ysVFW0GmyTD6r0MGh"
@@ -2704,7 +2766,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 156000,
       "name": "Te Odio y Te Quiero",
       "url": "https://open.spotify.com/track/2jezH0QQ6Eatu4xuP76Eir"
@@ -2740,7 +2802,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 259200,
       "name": "The Gringos are Coming",
       "url": "https://open.spotify.com/track/5gDE5Slmk3Nnida9WJTHWz"

@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-1,760 songs - 3 day 23 hr 14 min
+1,762 songs - 3 day 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -920,7 +920,7 @@
 | [Lover, You Should've Come Over](https://open.spotify.com/track/6Jv7kjGkhY2fT4yuBF3aTz) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Grace](https://open.spotify.com/album/7yQtjAjhtNi76KRu05XWFS) | 6:44 | 2023-06-03 | 2023-06-14 |
 | [Low](https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:01 | 2023-01-03 | 2023-01-16 |
 | [Lucky Girl](https://open.spotify.com/track/6f6SbYsZtqP3DpPjR5OLiB) | [Carlina](https://open.spotify.com/artist/0rhwS3z7tnZwt9UhyjyL77) | [Lucky Girl](https://open.spotify.com/album/77G5rwJ5sBhLpdIPsF1OVl) | 3:47 | 2023-04-28 | 2023-04-30 |
-| [LUNA](https://open.spotify.com/track/3RA55zrRkyPK8Fd86hrMy8) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 2:43 | 2023-07-18 |  |
+| [LUNA](https://open.spotify.com/track/3RA55zrRkyPK8Fd86hrMy8) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 2:43 | 2023-07-18 | 2023-07-22 |
 | [Lyfe](https://open.spotify.com/track/50caE2T5nlhVH6d6A46HId) | [kidthvldd](https://open.spotify.com/artist/4Q77EuSKGAPhE8KatUekHx) | [Lyfe](https://open.spotify.com/album/6Ihu75dkfTryER3dvDgnAC) | 1:39 | 2022-08-06 | 2022-08-09 |
 | [Lyfe](https://open.spotify.com/track/55RLW5BjsIz5VTBryDxy18) | [kidthvldd](https://open.spotify.com/artist/4Q77EuSKGAPhE8KatUekHx) | [Lyfe](https://open.spotify.com/album/4lHBj1O8zuxdNKlDWULo3P) | 1:39 | 2022-08-24 | 2022-08-30 |
 | [Lyfe](https://open.spotify.com/track/3M4bxiR326LWnfMwTRoJbe) | [squigglydiggly](https://open.spotify.com/artist/6thaOahBPQeiywU3zVsjzt) | [Lyfe](https://open.spotify.com/album/0TarHyidiDryGISnipfWtG) | 1:39 | 2022-08-08 | 2022-08-12 |
@@ -1135,7 +1135,8 @@
 | [PANDORA](https://open.spotify.com/track/70yszWsLJvNZuZwaHNMROf) | [MAVE:](https://open.spotify.com/artist/2ec7y2L98sHDYFylr7KqEx) | [PANDORA'S BOX](https://open.spotify.com/album/3uYJ8J1nYZB3sXjRNKWHGz) | 3:16 | 2023-02-21 | 2023-03-08 |
 | [Pantysito](https://open.spotify.com/track/4srcMdbm2qzVG98tJajHxp) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Pantysito](https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW) | 4:00 | 2022-04-12 | 2022-05-04 |
 | [Paper Soldier](https://open.spotify.com/track/5RmPFKZcsV6bciHOQR3jli) | [d3puu](https://open.spotify.com/artist/6nbKrVj62KUGZgwvqfDXUa) | [Paper Soldier](https://open.spotify.com/album/5FMMsZ5LZsLT6dX53sAxSO) | 3:22 | 2023-06-07 | 2023-07-15 |
-| [Paper Soldier](https://open.spotify.com/track/5oYrxdkfUIKRT0bGKx3Tmd) | [skoomy](https://open.spotify.com/artist/7GyNvpxE8hXDIYpKAUxFJN) | [Paper Soldier](https://open.spotify.com/album/4KPE86p5ej8oWmr0P0XFtI) | 3:22 | 2023-07-15 |  |
+| [Paper Soldier](https://open.spotify.com/track/5oYrxdkfUIKRT0bGKx3Tmd) | [skoomy](https://open.spotify.com/artist/7GyNvpxE8hXDIYpKAUxFJN) | [Paper Soldier](https://open.spotify.com/album/4KPE86p5ej8oWmr0P0XFtI) | 3:22 | 2023-07-15 | 2023-07-22 |
+| [Paper Soldier](https://open.spotify.com/track/7CsL5MSc7ZYUIJEliRegGE) | [skoomy](https://open.spotify.com/artist/7GyNvpxE8hXDIYpKAUxFJN) | [Paper Soldier](https://open.spotify.com/album/7odZn9oJ8KhI1WIsA4RjZ6) | 3:22 | 2023-07-21 |  |
 | [paper soldier](https://open.spotify.com/track/2e14aFZU7cmpyYMsML0Bab) | [SUKI](https://open.spotify.com/artist/343XMDCksvdaU1XrNmthr3), [skoomy](https://open.spotify.com/artist/7GyNvpxE8hXDIYpKAUxFJN) | [paper soldier](https://open.spotify.com/album/2VDZVm49vwmSe6d8enHDiV) | 3:22 | 2023-07-14 | 2023-07-16 |
 | [Paradise By the Dashboard Light](https://open.spotify.com/track/7mzHEzbsl5iOvBRuXwReZU) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell](https://open.spotify.com/album/0elHWyUbF2KLuHl8GjlzEM) | 8:28 | 2022-01-22 | 2022-01-31 |
 | [Parado no Bailão](https://open.spotify.com/track/3Hb9kUdm4yf839Fle4RIdT) | [MC L da Vinte](https://open.spotify.com/artist/0lHB0Qc4pmD5RkTLlHeESo), [MC Gury](https://open.spotify.com/artist/6fOyYqdh6p0ZWLs9zUDoyt) | [Parado no Bailão](https://open.spotify.com/album/4OZ9djo9HM9hIQtjY2NBLa) | 2:51 | 2022-11-27 | 2023-01-14 |
@@ -1201,6 +1202,7 @@
 | [Pretend](https://open.spotify.com/track/6XNxESeLt2OwpVUNLtubSA) | [Clayas](https://open.spotify.com/artist/2vDlCEPgK49pj8gsvZQn2b) | [Pretend](https://open.spotify.com/album/3ZxO4jteSb7VjLH0c6hhpL) | 5:59 | 2023-07-07 | 2023-07-11 |
 | [Pretend](https://open.spotify.com/track/1hOnhCNpvBTML6vieRGaio) | [ghostee](https://open.spotify.com/artist/4dDmw5njVAtwyZIDfH8fXC) | [Pretend](https://open.spotify.com/album/0ER5E6hjyn6VwavJBNLIxw) | 5:59 | 2023-06-19 | 2023-06-21 |
 | [Pretend](https://open.spotify.com/track/1g7v7ysXfWsxnTbZA3tMML) | [Kenteph](https://open.spotify.com/artist/31MRCWtkccG67dzEDhBxqC) | [Pretend](https://open.spotify.com/album/0WXdj9lx3yrFwfXWmxpdpa) | 5:59 | 2023-07-17 | 2023-07-20 |
+| [Pretend](https://open.spotify.com/track/2zvg64orb3MBWbCgFR2dgV) | [Kenteph](https://open.spotify.com/artist/31MRCWtkccG67dzEDhBxqC) | [Pretend](https://open.spotify.com/album/4qeXyNnNzCb4ji7cjJJ0cM) | 5:59 | 2023-07-21 |  |
 | [Pretend](https://open.spotify.com/track/7KWrFyN747qVJsIlhOTLJD) | [Kenteph](https://open.spotify.com/artist/31MRCWtkccG67dzEDhBxqC) | [Pretend](https://open.spotify.com/album/5Pnc2Z0OqDZDW0vZiFNLMR) | 5:59 | 2023-06-22 | 2023-06-27 |
 | [Pretend](https://open.spotify.com/track/7eKdGD7PCY5ScYeLOAlXw6) | [michi](https://open.spotify.com/artist/6R09GKJdeYrjF8zqv9ZbZk) | [Pretend](https://open.spotify.com/album/36RFUBnk29raCZA0s1WrYa) | 5:59 | 2023-07-10 | 2023-07-12 |
 | [Pretty Girls Walk](https://open.spotify.com/track/646pXmilpKaPZIjgHzwPhR) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [Pretty Girls Walk](https://open.spotify.com/album/4xUnFaLOk5EFsW78uNMnDK) | 2:20 | 2022-11-10 | 2023-02-20 |

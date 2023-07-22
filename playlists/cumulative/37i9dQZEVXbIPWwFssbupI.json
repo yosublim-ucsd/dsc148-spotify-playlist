@@ -6587,6 +6587,24 @@
     },
     {
       "album": {
+        "name": "Dance The Night (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176579,
+      "name": "Dance The Night (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
+    },
+    {
+      "album": {
         "name": "Dancing On Dangerous (feat. Sof\u00eda Reyes)",
         "url": "https://open.spotify.com/album/2JxYl1wEAY8SUgZdUMYQ6Z"
       },
@@ -9224,7 +9242,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 180000,
       "name": "Finale - Nouvelle \u00c9cole",
       "url": "https://open.spotify.com/track/46NCn1HZ054Wy0o6H86teM"
@@ -12214,7 +12232,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 219533,
       "name": "Je la connais",
       "url": "https://open.spotify.com/track/2bNtWTLdqUGhLZqWUGPNvK"
@@ -25170,7 +25188,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-17",
+      "date_removed": null,
       "duration_ms": 134972,
       "name": "THIS YEAR (Blessings) - French Remix",
       "url": "https://open.spotify.com/track/4cVnXm3iHSlOYRtHZcEEbj"

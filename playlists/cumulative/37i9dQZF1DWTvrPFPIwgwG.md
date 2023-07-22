@@ -2,9 +2,9 @@
 
 ### [Louvores Pentecostais](https://open.spotify.com/playlist/37i9dQZF1DWTvrPFPIwgwG)
 
-> Ouça as novidades e grandes louvores Pentecostais\. Foto: Maria Marçal
+> Ouça as novidades e grandes louvores Pentecostais\. Foto: Lauriete
 
-164 songs - 13 hr 42 min
+166 songs - 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Promessa Está de Pé \(Ao Vivo\)](https://open.spotify.com/track/27YQDARCxhQ9jOsVH6ICfX) | [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [A Promessa Está de Pé \(Ao Vivo\)](https://open.spotify.com/album/5krQc3WjA9sFkaWqrd5Qur) | 5:14 | 2022-09-09 |  |
 | [A Promessa Não Morreu](https://open.spotify.com/track/3GC0mJbmtadITG1fYwlULf) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [A Promessa Não Morreu](https://open.spotify.com/album/5puMiNpGmxQ5zT35jXdSkG) | 3:28 | 2022-10-15 | 2023-01-14 |
 | [A Resposta](https://open.spotify.com/track/1RQa6blE8nsAR8ks3WmCAz) | [Mirian Santos](https://open.spotify.com/artist/6FEZtazXH0yERl9ymW8BAz) | [A Resposta](https://open.spotify.com/album/4dNcugnVhikloGMv9gQf0W) | 5:51 | 2022-09-09 | 2023-03-18 |
+| [A Tenda \(Ao Vivo\)](https://open.spotify.com/track/57y3IxaTKpfNGDEa4OnjGe) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [A Tenda \(Ao Vivo\)](https://open.spotify.com/album/0YhDcP0OUvrRiKn8mrUJA9) | 7:50 | 2023-07-21 |  |
 | [A Vitória Chegou](https://open.spotify.com/track/1Q5uwkMkLNhBMzKsK4veVc) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe) | [A Vitória Chegou](https://open.spotify.com/album/1P28T4BaWp9gTd2CgIRRKP) | 3:58 | 2022-10-07 |  |
 | [A Voz do Doce Espírito \- Ao Vivo](https://open.spotify.com/track/5eltkYyhSccW8uuEz0Zrqa) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [A Voz do Doce Espírito \(Ao Vivo\)](https://open.spotify.com/album/65MOPE2tEmX1Fo0rqGy0mj) | 5:51 | 2023-03-17 |  |
 | [Abraço e Renovo](https://open.spotify.com/track/0KipyY3ja1r9oaUUAuZE4E) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Abraço e Renovo](https://open.spotify.com/album/4MsZ3ZFjzjp5ygxVHSi5zB) | 5:02 | 2022-09-09 | 2023-03-25 |
@@ -35,6 +36,7 @@
 | [Dependente \(Ao Vivo\)](https://open.spotify.com/track/2b30Def2AnAOJC5tiJyj7u) | [Eurice Diniz](https://open.spotify.com/artist/4NdrEKAXRsAWjuA5ojUlWF), [Gislaine e Mylena](https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk) | [Dependente \(Ao Vivo\)](https://open.spotify.com/album/7qHGquEd06kYoHL2m21VyK) | 4:00 | 2022-12-23 |  |
 | [Despreocupa](https://open.spotify.com/track/3IcKMQszCEB2xxcip1tSqP) | [Kiara Vitória](https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00) | [Despreocupa](https://open.spotify.com/album/6bZuND1J1zthPK9kP5SQVI) | 5:10 | 2022-09-09 |  |
 | [Deus Está Te Ensinando](https://open.spotify.com/track/6gbH6X0ngGL0XK6wAnAMpy) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV) | [Deus Está Te Ensinando](https://open.spotify.com/album/3HpJF8iPtOu6Gitthnyqjs) | 4:39 | 2022-09-09 |  |
+| [Deus no Comando](https://open.spotify.com/track/1xvM8EUvxGV9Nql03GkLS7) | [Lauriete](https://open.spotify.com/artist/6JB1rSZW92MFaokpvOWw8e) | [Deus no Comando](https://open.spotify.com/album/5fruMBUNVcLkZkUGetyClw) | 5:01 | 2023-07-21 |  |
 | [Deus Não Desperdiça Suas Lágrimas](https://open.spotify.com/track/2LgXhWI4fuXiwXOkuPVbJU) | [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [Deus Não Desperdiça Suas Lágrimas](https://open.spotify.com/album/3j5BPuyuluUYY57vSDtna4) | 4:28 | 2022-09-09 | 2023-07-08 |
 | [Deus Não Vai Parar](https://open.spotify.com/track/2kSJOok9s5sBHzvHWws99S) | [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK), [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh), [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm) | [Deus Não Vai Parar](https://open.spotify.com/album/43Pr54eUUB812zwRJ5OjH8) | 5:14 | 2022-09-09 | 2023-02-04 |
 | [Deus Realiza Sonhos](https://open.spotify.com/track/4l0uNo61OKaZCyvkTSDSOW) | [Antônia Gomes](https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe) | [Deus Realiza Sonhos](https://open.spotify.com/album/1MfOrRnrObyxnSchOAfcyN) | 5:45 | 2022-09-09 |  |
@@ -81,7 +83,7 @@
 | [Limite \(Ao Vivo\)](https://open.spotify.com/track/2AfkBRIkeL12Jhwsqwyu0i) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Limite \(Ao Vivo\)](https://open.spotify.com/album/3vdnEGDteYJDJATiUvMaSC) | 4:38 | 2023-03-03 |  |
 | [Logo Eu](https://open.spotify.com/track/2OjumT4ZsBo16OglQftYSh) | [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI), [Misaias Oliveira](https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt) | [Logo Eu](https://open.spotify.com/album/4s7hyXfQYCxPM4T5P9LQbj) | 4:49 | 2023-01-13 | 2023-03-04 |
 | [Maior Esperança](https://open.spotify.com/track/1ZRnMbEWclfT2LNCFQbdSO) | [Alugiana](https://open.spotify.com/artist/6JWO2kpkeZtMHP4fQxPCaV) | [Maior Esperança](https://open.spotify.com/album/0aacsowIPdD2jIMkO2t3cd) | 6:23 | 2022-09-09 | 2023-03-18 |
-| [Marcados pela Glória](https://open.spotify.com/track/0Tz9cUyqBfcsHJYQkP0r2m) | [Vanilda Bordieri](https://open.spotify.com/artist/01F5yl9fFsa9QQaM3Z6U3O) | [Marcados pela Glória](https://open.spotify.com/album/3w4cHIj0xF3RcjoLC3Pruh) | 5:01 | 2023-02-25 |  |
+| [Marcados pela Glória](https://open.spotify.com/track/0Tz9cUyqBfcsHJYQkP0r2m) | [Vanilda Bordieri](https://open.spotify.com/artist/01F5yl9fFsa9QQaM3Z6U3O) | [Marcados pela Glória](https://open.spotify.com/album/3w4cHIj0xF3RcjoLC3Pruh) | 5:01 | 2023-02-25 | 2023-07-22 |
 | [Marcas da Dor](https://open.spotify.com/track/0n3kpiCcgLLZpuiKy0CBeC) | [Miriam dos Passos](https://open.spotify.com/artist/3PXIlnaU0gOLh7x0jIXvnt) | [Marcas da Dor](https://open.spotify.com/album/0Z9pMXe3ViuOtPmLIxMWtN) | 6:43 | 2023-06-23 | 2023-07-08 |
 | [Me Ajuda Deus](https://open.spotify.com/track/3mxtkBGt6vx4sS1bIicypQ) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Me Ajuda Deus](https://open.spotify.com/album/1f8pXGg6sm3ZpqzjdJe6fN) | 4:28 | 2023-01-13 | 2023-02-25 |
 | [Medley \(Revestido de Glória / Desemborca o Vaso / Receba de Deus / Festa no Céu / Fogo Santo / Aqui Tem Glória\) \(Ao Vivo\)](https://open.spotify.com/track/5p63CZ4R0gUE30iL1TbarD) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Medley \(Revestido de Glória / Desemborca o Vaso / Receba de Deus / Festa no Céu / Fogo Santo / Aqui Tem Glória\) \(Ao Vivo\)](https://open.spotify.com/album/6Be9JdrnglYnu86FhhXJPi) | 8:13 | 2023-03-24 | 2023-05-13 |
@@ -169,7 +171,7 @@
 | [Você Disse](https://open.spotify.com/track/6EogdYz9DwIG7YZziqj9Js) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [Você Disse](https://open.spotify.com/album/4uqGFeLGkX5Yt6hNSHHDQ8) | 4:37 | 2022-09-09 |  |
 | [Você Não Vai Parar](https://open.spotify.com/track/6xkJbkLpcamCTkFcXnwO6d) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV) | [Você Não Vai Parar](https://open.spotify.com/album/6cPHowCXcBxq1Fl50vkg6f) | 5:40 | 2023-01-24 |  |
 | [Volte a Sonhar](https://open.spotify.com/track/6KQq9CDKPTJ9wn6x4kGq9R) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Rompendo](https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L) | 3:53 | 2023-01-24 |  |
-| [Vou Deixar na Cruz](https://open.spotify.com/track/1zJCjjA3FRdjPvf2Dex7u2) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Vou Deixar na Cruz](https://open.spotify.com/album/3xEYEcm82oef6MVbjiRUrC) | 5:34 | 2022-09-09 |  |
+| [Vou Deixar na Cruz](https://open.spotify.com/track/1zJCjjA3FRdjPvf2Dex7u2) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Vou Deixar na Cruz](https://open.spotify.com/album/3xEYEcm82oef6MVbjiRUrC) | 5:34 | 2022-09-09 | 2023-07-22 |
 | [Vou Marcar Tua História](https://open.spotify.com/track/5EyxLxAeXQufZxFIqyV5sB) | [Raquel Olliver](https://open.spotify.com/artist/0CsY0kk9b1XBXwvytj42fx), [Kellen Byanca](https://open.spotify.com/artist/0aCN6JIKoXyhkzyL3LaCpI) | [Vou Marcar Tua História](https://open.spotify.com/album/17rhygLbze0bt5pti1qhr9) | 4:09 | 2022-09-09 |  |
 | [É Só Você Tentar](https://open.spotify.com/track/2eX2w6YtlIOYsz5GZ5R3Ro) | [Sophia Vitória](https://open.spotify.com/artist/47neBS9tvIdGta1S3aq08v) | [É Só Você Tentar](https://open.spotify.com/album/3hS9Dcqu6NLcu1e6mqIpy7) | 4:49 | 2022-09-09 | 2022-10-01 |
 

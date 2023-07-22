@@ -4,7 +4,7 @@
 
 > Electronic tunes for your virtual world.
 
-375 songs - 21 hr 32 min
+376 songs - 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Fall 'N' Roll](https://open.spotify.com/track/7LfyyDvMQCizrEtKZAdzBL) | [Jukio Kallio](https://open.spotify.com/artist/3rYsb4Uy6nZNIl6Tg6TpAq), [Daniel Hagström](https://open.spotify.com/artist/6HGBxfi4iHLhZsfPOH1Izx) | [Fall Guys \(Original Soundtrack\)](https://open.spotify.com/album/2XbgThX8BaW5Euimr3JAPT) | 3:13 | 2022-07-14 |  |
 | [Fall to Me \- helloworld Remix](https://open.spotify.com/track/6AY5MIVCmf8KOpZep8ybbs) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Chime](https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS), [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4), [spaceKDET](https://open.spotify.com/artist/1xBuZxBaWWHwYaoq7HUi7v) | [Fall to Me \(helloworld Remix\)](https://open.spotify.com/album/2IYKUzv8xvP4vHPlu1F14F) | 3:09 | 2022-03-11 | 2022-08-30 |
 | [FAR OUT](https://open.spotify.com/track/0DT3f2Y9UEwGdJC7f4FOzH) | [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [FAR OUT](https://open.spotify.com/album/5RQAm3Nx1cpPzQzb1veOra) | 3:24 | 2023-02-25 |  |
+| [Fashionista](https://open.spotify.com/track/0FfUbh8bqH5wHryhFFyJiJ) | [Snail's House](https://open.spotify.com/artist/29O9ZebFa65aIEvMaW5pQY), [Moe Shop](https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ) | [Fashionista](https://open.spotify.com/album/32JmfZAqyQgraYFON5r5be) | 3:23 | 2023-07-21 |  |
 | [Feelings](https://open.spotify.com/track/6ci9PcBjfrY0v1sBogeJyv) | [Swole Sauce](https://open.spotify.com/artist/1Uh145npienV63MZaMLAmT), [Martyska](https://open.spotify.com/artist/2SZl0w1TGNOsGTBWullexw), [Alice Smoke](https://open.spotify.com/artist/5AhHvbx7VZK7IbUzTuUDpE) | [Feelings](https://open.spotify.com/album/1N04P27Q51fwyQYVea1RdA) | 2:52 | 2022-04-15 | 2022-07-20 |
 | [Finally Find You](https://open.spotify.com/track/0fEg3weP8yuyHlcPpb8fKm) | [Derivakat](https://open.spotify.com/artist/4T7KICeQg50AwFzauMCR9C), [Netrum](https://open.spotify.com/artist/4X76fYx1a6EmEvCqDudesG) | [Finally Find You](https://open.spotify.com/album/17clwf7D1BlFkUUpzg5Wiy) | 3:48 | 2022-01-07 |  |
 | [Find You](https://open.spotify.com/track/28OESpqaslD63Wbrg0yVRP) | [Vaance](https://open.spotify.com/artist/3hY9SF90lW0iMZkT2qBFDu), [Exede](https://open.spotify.com/artist/2vtKZp9zZC9YenxW1szzco) | [Find You](https://open.spotify.com/album/0DjVFCKZnUbJDmCjaJzhdE) | 2:51 | 2022-08-05 | 2023-05-13 |
@@ -228,7 +229,7 @@
 | [NARROWORLDのテーマ](https://open.spotify.com/track/25iUaVy1hBjXHZWNCWJqI0) | [NARROWORLD](https://open.spotify.com/artist/1lDEJxLjWAXtKDr7nFCJxW), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [OHTORA](https://open.spotify.com/artist/16W2CFdMJKvN99ZWwoEB0k) | [NARROWORLDのテーマ](https://open.spotify.com/album/4hjoraBTzdVDTeI1JHc8AI) | 1:53 | 2022-03-25 | 2022-07-23 |
 | [Need You](https://open.spotify.com/track/5STieahH7NJnbrZ41SFKQ8) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh) | [Need You](https://open.spotify.com/album/0894oIi99ls2qui3lXsbkz) | 4:37 | 2022-01-07 | 2022-07-04 |
 | [Need You](https://open.spotify.com/track/6PewGjMYsJCzIjldrCuZvB) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh) | [Need You](https://open.spotify.com/album/2iTc65I0SINyADttrxRtG6) | 4:37 | 2022-07-14 | 2023-05-13 |
-| [Never Be The Same \(feat\. Paige Duché\)](https://open.spotify.com/track/4fqdvb26zCuhu0DxQtpUHY) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC), [Paige Duché](https://open.spotify.com/artist/2tlmeCXC8LbHPgPZYDPgws) | [Never Be The Same \(feat\. Paige Duché\)](https://open.spotify.com/album/4bINJVM0T18YDd60Vl8GWN) | 2:42 | 2022-12-12 |  |
+| [Never Be The Same \(feat\. Paige Duché\)](https://open.spotify.com/track/4fqdvb26zCuhu0DxQtpUHY) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC), [Paige Duché](https://open.spotify.com/artist/2tlmeCXC8LbHPgPZYDPgws) | [Never Be The Same \(feat\. Paige Duché\)](https://open.spotify.com/album/4bINJVM0T18YDd60Vl8GWN) | 2:42 | 2022-12-12 | 2023-07-22 |
 | [Never Give Up \(Arknights Soundtrack\)](https://open.spotify.com/track/2K93b71bQC0y8wTkR7Dz9w) | [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83) | [Never Give Up \(Arknights Soundtrack\)](https://open.spotify.com/album/1Qml42ja9qho2MMrmIqEH3) | 3:07 | 2022-01-07 |  |
 | [Never Had](https://open.spotify.com/track/0yw9ZrCB8VEMQmI1DtKvrZ) | [Duumu](https://open.spotify.com/artist/6q8cRPrSLahGAZSVnjIYjF), [Meggie York](https://open.spotify.com/artist/0ydORocQawKL2QaPiGG8fZ) | [Never Had](https://open.spotify.com/album/3IeHm3BzzZkudqDWhhh6mj) | 3:32 | 2022-01-07 | 2022-07-27 |
 | [New Game](https://open.spotify.com/track/6OgI1DGU5UW5e1C1yIA7a4) | [Razihel](https://open.spotify.com/artist/5RKCVcnmcgyhFf85I4Ry9O) | [New Game](https://open.spotify.com/album/4poCBKXCGIqjWNuHUKET5i) | 2:22 | 2022-01-07 | 2022-06-20 |

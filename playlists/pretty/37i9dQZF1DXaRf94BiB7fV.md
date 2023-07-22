@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > Emerging Indie artists on the rise, updated every Wednesday\. Cover: Shivam Grover , Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,279 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,289 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 99 | [Indigo](https://open.spotify.com/track/7mlGKWXA5ZV6HZibmRruqD) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Indigo](https://open.spotify.com/album/1eGowsUsY6D99t8NsxpRK7) | 3:20 |
 | 100 | [Humsafar](https://open.spotify.com/track/0576MAgEyAJMQpviMUNfvZ) | [Comic Book](https://open.spotify.com/artist/2IBARFFNxPdd7JSAu5sAZk) | [Humsafar](https://open.spotify.com/album/0bAbL6yDI7654U3ooO98YJ) | 4:02 |
 
-Snapshot ID: `MCw0NmM1OWVkNDZhMzY0ZDM5ZTBiYWYyNjc1MTJhYTRjYTczNGY0ZDg1`
+Snapshot ID: `MCwzZDIxZjU2MjExOWQyNmI2ZmMwYmQzMGU0ZjQ5MGJkOGU1M2Q2ZGNi`

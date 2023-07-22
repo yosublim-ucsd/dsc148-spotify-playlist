@@ -4,7 +4,7 @@
 
 > Summer chill tracks to vibe or dance to in 2023\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-369 songs - 20 hr 55 min
+370 songs - 21 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Drive \(feat\. Wes Nelson\)](https://open.spotify.com/track/6eCmK3GQyFuTNWCJHsaF9d) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Wes Nelson](https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq) | [Drive \(feat\. Wes Nelson\)](https://open.spotify.com/album/7wDWQrTNxHSVvklLTucK2D) | 2:59 | 2021-09-18 | 2021-11-11 |
 | [Emergency](https://open.spotify.com/track/6L0B2i6TKUP2vazSDqViUM) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [Appleby](https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX) | [Emergency](https://open.spotify.com/album/2migdnnPxbvIHUGbKlBO6M) | 2:48 | 2023-03-31 |  |
 | [Emotion \- JYRYMY Remix](https://open.spotify.com/track/6SE6vHi1PhYjQBIMVI5zwj) | [Hazey Eyes](https://open.spotify.com/artist/3r0RZ55RKisnnF0jVcYrVR), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI), [JYRYMY](https://open.spotify.com/artist/4rAYqc4yDNxG7fn8nkNFYe) | [Emotion \(Remixes\)](https://open.spotify.com/album/0gdHmGF8vBT4te9pF0nzFs) | 3:14 | 2021-03-06 | 2021-05-15 |
+| [Erase](https://open.spotify.com/track/28nIucnxLluv67DXZSbyRt) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0), [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR) | [Erase](https://open.spotify.com/album/4NZkbSAu3tAnWrL7j3uuDy) | 4:15 | 2023-07-21 |  |
 | [Escape](https://open.spotify.com/track/4vNWSeEhlyIlB9ur17x1S4) | [Zimmer](https://open.spotify.com/artist/2pts5B2shsEtIVC4onTFKb), [Emilie Adams](https://open.spotify.com/artist/5hALxswu1Hh9HNjFqsfcO0) | [Coming of Age](https://open.spotify.com/album/23jWgWP1GUqt1SK4VS4qzK) | 4:15 | 2021-03-06 | 2021-03-14 |
 | [Esther](https://open.spotify.com/track/3PWpjbSHuAe5UIKLmeEtj9) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Esther](https://open.spotify.com/album/6kRqTiD3b2CPTMbYV6xU40) | 3:12 | 2021-07-17 | 2021-09-11 |
 | [Euphoria](https://open.spotify.com/track/00KPugdklpcrFNnjWlXjj2) | [Luca](https://open.spotify.com/artist/4hheW577K2nAMAwDuTGAA4) | [Euphoria](https://open.spotify.com/album/1Ae9MLhcJLBmnD5vICcr14) | 3:38 | 2023-03-17 |  |

@@ -4,7 +4,7 @@
 
 > 
 
-317 songs - 19 hr 6 min
+318 songs - 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Ain't Got Time](https://open.spotify.com/track/7lMFOSEJQiMIyXYaEhqJBT) | [Hugo Mari](https://open.spotify.com/artist/6BmSO09b1cngqE8X2SEygU), [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [Ain't Got Time](https://open.spotify.com/album/7mp9bymNyNtAlbLLVezPMi) | 4:49 | 2021-12-07 | 2022-07-29 |
 | [Alcoholics](https://open.spotify.com/track/4GZEdwnAiQ96UmhiPetw33) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp) | [Alcoholics](https://open.spotify.com/album/0J0mRYqZxDuqLsylq1mVuE) | 4:13 | 2021-12-07 | 2022-07-26 |
 | [All Made Up](https://open.spotify.com/track/71nnIbgnEsxPXyubrlNf6Z) | [Squidgenini](https://open.spotify.com/artist/0XLJ5ey68Qg726cnVNOc2r) | [All Made Up](https://open.spotify.com/album/4i764LNeqbQg0CIYamVkG1) | 4:10 | 2021-12-07 | 2022-07-29 |
-| [All Mine](https://open.spotify.com/track/6kZxHggJRCkFFaaf8p5KKt) | [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW), [John Givez](https://open.spotify.com/artist/2RhGXxsDpB0eB122Ce3WYB) | [All Mine](https://open.spotify.com/album/5f8K5fNhOZA4vngAQFLxLO) | 2:28 | 2021-12-07 |  |
+| [All Mine](https://open.spotify.com/track/6kZxHggJRCkFFaaf8p5KKt) | [Ted Jasper](https://open.spotify.com/artist/4PfXiTCDXTYEobjXjcRFNW), [John Givez](https://open.spotify.com/artist/2RhGXxsDpB0eB122Ce3WYB) | [All Mine](https://open.spotify.com/album/5f8K5fNhOZA4vngAQFLxLO) | 2:28 | 2021-12-07 | 2023-07-22 |
 | [All the Leaves Are Falling](https://open.spotify.com/track/5klodtfP8ubHr30XuWtZoA) | [Nealo](https://open.spotify.com/artist/0HR90wEU7v0pQRVsltcQKO), [Molly Sterling](https://open.spotify.com/artist/5XUqgFooJpMOg8CaWml0q3) | [All the Leaves Are Falling](https://open.spotify.com/album/0ieSj735PdL4YaPSv7XxDI) | 4:08 | 2021-12-07 | 2022-04-21 |
 | [All Up To You](https://open.spotify.com/track/2ucJBU4uvj0RgWPY4PgVVV) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [All Up To You](https://open.spotify.com/album/7BMMTfxpwX5ZOPrDxxrHIU) | 3:08 | 2022-06-20 | 2023-05-24 |
 | [All Up To You](https://open.spotify.com/track/3ekJniZIwlux13AXz5ILzR) | [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [All Up To You](https://open.spotify.com/album/2PEpAb0cmbdF4TAtcHzvOp) | 3:08 | 2021-12-07 | 2022-04-18 |
@@ -157,6 +157,7 @@
 | [Impulses](https://open.spotify.com/track/2yZSoKLhnSH9UlAIhYggRv) | [SZWÉ](https://open.spotify.com/artist/3Q4H7YLUlh0OtPEMhxNyMO) | [Impulses](https://open.spotify.com/album/1M4qAPEpSr5a1ycy21N4ym) | 2:49 | 2022-04-11 | 2022-04-21 |
 | [In the Meantime](https://open.spotify.com/track/2DqKoRU4LkUq9RA7Dr3U5R) | [Chelou](https://open.spotify.com/artist/2RwfRD2vlkdztGtVXENShq) | [In the Meantime](https://open.spotify.com/album/6UiJR8RTY4lTGtZWTZSVRo) | 3:21 | 2021-12-07 | 2023-01-12 |
 | [Intentions](https://open.spotify.com/track/01jCh5EvDFilHHk5x76dWq) | [Dirty Freud](https://open.spotify.com/artist/2c5NcXidirDDqL3sc3vW8S), [Szou](https://open.spotify.com/artist/0WabgZbwoFHTTXeLvD5Cr0) | [Intentions](https://open.spotify.com/album/0NkOFbV9PVnoOc2jXj2DgE) | 3:32 | 2022-04-11 | 2022-04-18 |
+| [Intentions](https://open.spotify.com/track/5qin7r4SGpe95SkjJaflDB) | [Dirty Freud](https://open.spotify.com/artist/2c5NcXidirDDqL3sc3vW8S), [Szou](https://open.spotify.com/artist/0WabgZbwoFHTTXeLvD5Cr0) | [Intentions](https://open.spotify.com/album/6AS0WGNxbeaPKsHQ0HBuPd) | 3:32 | 2022-06-20 |  |
 | [Ironhand](https://open.spotify.com/track/2hqE4HD07qtroucSMEPgmZ) | [Kllo](https://open.spotify.com/artist/0RDC2Krd2nmqseGx5C8PQz) | [Maybe We Could](https://open.spotify.com/album/6XjkpRegoBsPzuJnyZDZ5W) | 3:11 | 2022-04-11 | 2022-04-16 |
 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 | 2022-06-20 |  |
 | [Is There Someone Else?](https://open.spotify.com/track/5rXdRfS0EPQ5zleZ34Rs8k) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM \(Alternate World\)](https://open.spotify.com/album/2JPcP8HUk2vm7Q8eDJlj0a) | 3:19 | 2022-01-14 | 2022-04-21 |

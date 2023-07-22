@@ -1,12 +1,12 @@
 {
   "description": "Top English songs from Asia. Cover- Taba Chake",
-  "num_followers": 30960,
+  "num_followers": 30990,
   "original_name": "IndiEnglish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjFkYTM2ZDJkNWVhNGUxNTc1OWU1ZDZiM2VkOTgzMDk2YmY3ZTI1",
+  "snapshot_id": "MCwwMzM3YzRjYjdmNGNlZTA5M2FhMjlhMGJlZjZlMWIzNDg0OTM2NDZi",
   "tracks": [
     {
       "added_at": "2023-07-14 06:01:05",
@@ -57,24 +57,20 @@
       "url": "https://open.spotify.com/track/3o3GYMcTzZi3bowHsoGAbi"
     },
     {
-      "added_at": "2023-07-14 06:01:05",
+      "added_at": "2023-07-21 06:36:44",
       "album": {
-        "name": "Mulholland Drive",
-        "url": "https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7ChLJ2d4pLNKIrLSuGl8Df"
       },
       "artists": [
         {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        },
-        {
-          "name": "Dent May",
-          "url": "https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7"
+          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
+          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
         }
       ],
-      "duration_ms": 153312,
-      "name": "Something About You",
-      "url": "https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe"
+      "duration_ms": 201022,
+      "name": "Candlelight - Spotify Singles",
+      "url": "https://open.spotify.com/track/326EM9zAMPmr1JkGtzHnH6"
     },
     {
       "added_at": "2023-07-14 06:01:05",
@@ -99,6 +95,26 @@
       "duration_ms": 173590,
       "name": "Fight This Fight",
       "url": "https://open.spotify.com/track/2qXFpmLrTryis1MYSSO6po"
+    },
+    {
+      "added_at": "2023-07-14 06:01:05",
+      "album": {
+        "name": "Mulholland Drive",
+        "url": "https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        },
+        {
+          "name": "Dent May",
+          "url": "https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7"
+        }
+      ],
+      "duration_ms": 153312,
+      "name": "Something About You",
+      "url": "https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe"
     },
     {
       "added_at": "2023-07-14 06:01:05",
@@ -215,6 +231,22 @@
     {
       "added_at": "2023-07-14 06:01:05",
       "album": {
+        "name": "Making Steak",
+        "url": "https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 198612,
+      "name": "Killer",
+      "url": "https://open.spotify.com/track/0H4oRjAoMl6EVhBZraB0fn"
+    },
+    {
+      "added_at": "2023-07-14 06:01:05",
+      "album": {
         "name": "Pink Blue",
         "url": "https://open.spotify.com/album/0qYhqBhpicb2Kl8oB6YziF"
       },
@@ -279,22 +311,6 @@
       "duration_ms": 286185,
       "name": "Lucky Love",
       "url": "https://open.spotify.com/track/4yxSvdt8kl6jMdvFaiNtve"
-    },
-    {
-      "added_at": "2023-07-14 06:01:05",
-      "album": {
-        "name": "Making Steak",
-        "url": "https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 198612,
-      "name": "Killer",
-      "url": "https://open.spotify.com/track/0H4oRjAoMl6EVhBZraB0fn"
     },
     {
       "added_at": "2023-07-14 06:01:05",
@@ -395,18 +411,18 @@
     {
       "added_at": "2023-07-14 06:01:05",
       "album": {
-        "name": "Pause",
-        "url": "https://open.spotify.com/album/3vKSAwLbfwXygEiGH1vpvs"
+        "name": "SUNNY AFTERNOON",
+        "url": "https://open.spotify.com/album/3eWrnC9eI96hz9GBEGMg1y"
       },
       "artists": [
         {
-          "name": "Prateek Kuhad",
-          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+          "name": "\u96f2\u7aef\u53f8\u6a5f CLOUDRIVER",
+          "url": "https://open.spotify.com/artist/06velPyQuEOTEGImz6Qmce"
         }
       ],
-      "duration_ms": 171149,
-      "name": "Pause",
-      "url": "https://open.spotify.com/track/5h1L6nOR9QYXeeNW14aeus"
+      "duration_ms": 171853,
+      "name": "SUNNY AFTERNOON",
+      "url": "https://open.spotify.com/track/4CiSdCGCAqeAgGJHRQzcTr"
     },
     {
       "added_at": "2023-07-14 06:01:05",
@@ -423,22 +439,6 @@
       "duration_ms": 181000,
       "name": "BLOOM",
       "url": "https://open.spotify.com/track/4S5emjYAq0EGh9PUCQXD0X"
-    },
-    {
-      "added_at": "2023-07-14 06:01:05",
-      "album": {
-        "name": "SUNNY AFTERNOON",
-        "url": "https://open.spotify.com/album/3eWrnC9eI96hz9GBEGMg1y"
-      },
-      "artists": [
-        {
-          "name": "\u96f2\u7aef\u53f8\u6a5f CLOUDRIVER",
-          "url": "https://open.spotify.com/artist/06velPyQuEOTEGImz6Qmce"
-        }
-      ],
-      "duration_ms": 171853,
-      "name": "SUNNY AFTERNOON",
-      "url": "https://open.spotify.com/track/4CiSdCGCAqeAgGJHRQzcTr"
     },
     {
       "added_at": "2023-07-14 06:01:05",
@@ -463,6 +463,22 @@
     {
       "added_at": "2023-07-14 06:01:05",
       "album": {
+        "name": "Pause",
+        "url": "https://open.spotify.com/album/3vKSAwLbfwXygEiGH1vpvs"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "duration_ms": 171149,
+      "name": "Pause",
+      "url": "https://open.spotify.com/track/5h1L6nOR9QYXeeNW14aeus"
+    },
+    {
+      "added_at": "2023-07-14 06:01:05",
+      "album": {
         "name": "Making Faces",
         "url": "https://open.spotify.com/album/0Uv9TA5qhuzvBpYafclE4E"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 192048,
       "name": "Making Faces",
       "url": "https://open.spotify.com/track/6jen6M7ea0yuXA6C4x7zpd"
-    },
-    {
-      "added_at": "2023-07-14 06:01:05",
-      "album": {
-        "name": "cold/mess",
-        "url": "https://open.spotify.com/album/6FzicG6wlKHogiRaGAbvBK"
-      },
-      "artists": [
-        {
-          "name": "Prateek Kuhad",
-          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
-        }
-      ],
-      "duration_ms": 210420,
-      "name": "100 words",
-      "url": "https://open.spotify.com/track/5tJqtSvAfTJkMrV4Wst4Le"
     },
     {
       "added_at": "2023-07-14 06:01:05",
@@ -523,6 +523,26 @@
       "duration_ms": 203374,
       "name": "Eleven",
       "url": "https://open.spotify.com/track/1yQ7fGXsbp2oHzlCLCKeIW"
+    },
+    {
+      "added_at": "2023-07-21 06:36:44",
+      "album": {
+        "name": "sad girl",
+        "url": "https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN"
+      },
+      "artists": [
+        {
+          "name": "brb.",
+          "url": "https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc"
+        },
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "sad girl",
+      "url": "https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM"
     },
     {
       "added_at": "2023-07-14 06:01:05",
@@ -575,22 +595,6 @@
     {
       "added_at": "2023-07-14 06:01:05",
       "album": {
-        "name": "Hopelessly",
-        "url": "https://open.spotify.com/album/7aceEsnN7sznnw0R39Lvfe"
-      },
-      "artists": [
-        {
-          "name": "Prateek Kuhad",
-          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
-        }
-      ],
-      "duration_ms": 180013,
-      "name": "Hopelessly",
-      "url": "https://open.spotify.com/track/6HtxhZWccYHCxJrItfrglg"
-    },
-    {
-      "added_at": "2023-07-14 06:01:05",
-      "album": {
         "name": "Caught Up",
         "url": "https://open.spotify.com/album/5cDE0asojLGw60slwj5BED"
       },
@@ -619,6 +623,22 @@
       "duration_ms": 172584,
       "name": "Cool Kids",
       "url": "https://open.spotify.com/track/4EARhoKrvwopHfqiEd4xSo"
+    },
+    {
+      "added_at": "2023-07-14 06:01:05",
+      "album": {
+        "name": "cold/mess",
+        "url": "https://open.spotify.com/album/6FzicG6wlKHogiRaGAbvBK"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "duration_ms": 210420,
+      "name": "100 words",
+      "url": "https://open.spotify.com/track/5tJqtSvAfTJkMrV4Wst4Le"
     },
     {
       "added_at": "2023-07-14 06:01:05",
@@ -675,6 +695,22 @@
     {
       "added_at": "2023-07-14 06:01:05",
       "album": {
+        "name": "Am I Overthinking This?",
+        "url": "https://open.spotify.com/album/54UsiUkSKRfIkSc7qPAhn1"
+      },
+      "artists": [
+        {
+          "name": "Raghav Meattle",
+          "url": "https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN"
+        }
+      ],
+      "duration_ms": 167166,
+      "name": "Am I Overthinking This?",
+      "url": "https://open.spotify.com/track/0nHm0hPOwDYwwCbZUs0XKv"
+    },
+    {
+      "added_at": "2023-07-14 06:01:05",
+      "album": {
         "name": "Mismatched: Season 2 (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/0bPV8j4jfsKeoW5P3YQInX"
       },
@@ -699,42 +735,6 @@
     {
       "added_at": "2023-07-14 06:01:05",
       "album": {
-        "name": "Am I Overthinking This?",
-        "url": "https://open.spotify.com/album/54UsiUkSKRfIkSc7qPAhn1"
-      },
-      "artists": [
-        {
-          "name": "Raghav Meattle",
-          "url": "https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN"
-        }
-      ],
-      "duration_ms": 167166,
-      "name": "Am I Overthinking This?",
-      "url": "https://open.spotify.com/track/0nHm0hPOwDYwwCbZUs0XKv"
-    },
-    {
-      "added_at": "2023-07-14 06:01:05",
-      "album": {
-        "name": "The Way That Lovers Do (Deluxe)",
-        "url": "https://open.spotify.com/album/6C2VRR7GTljLTkakd8EZ1N"
-      },
-      "artists": [
-        {
-          "name": "Prateek Kuhad",
-          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
-        },
-        {
-          "name": "Raveena",
-          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
-        }
-      ],
-      "duration_ms": 221005,
-      "name": "Bloom (feat. Raveena)",
-      "url": "https://open.spotify.com/track/5dwzLRsxlFK7RhULlsSROb"
-    },
-    {
-      "added_at": "2023-07-14 06:01:05",
-      "album": {
         "name": "love is growing",
         "url": "https://open.spotify.com/album/422FUc3Fc4UG1Cn9CeeOAQ"
       },
@@ -747,6 +747,22 @@
       "duration_ms": 178422,
       "name": "love is growing",
       "url": "https://open.spotify.com/track/1xzKJE6Q1fOhXLzYOCXXQg"
+    },
+    {
+      "added_at": "2023-07-14 06:01:05",
+      "album": {
+        "name": "Hopelessly",
+        "url": "https://open.spotify.com/album/7aceEsnN7sznnw0R39Lvfe"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        }
+      ],
+      "duration_ms": 180013,
+      "name": "Hopelessly",
+      "url": "https://open.spotify.com/track/6HtxhZWccYHCxJrItfrglg"
     },
     {
       "added_at": "2023-07-14 06:01:05",
@@ -859,6 +875,26 @@
     {
       "added_at": "2023-07-14 06:01:05",
       "album": {
+        "name": "The Way That Lovers Do (Deluxe)",
+        "url": "https://open.spotify.com/album/6C2VRR7GTljLTkakd8EZ1N"
+      },
+      "artists": [
+        {
+          "name": "Prateek Kuhad",
+          "url": "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+        },
+        {
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        }
+      ],
+      "duration_ms": 221005,
+      "name": "Bloom (feat. Raveena)",
+      "url": "https://open.spotify.com/track/5dwzLRsxlFK7RhULlsSROb"
+    },
+    {
+      "added_at": "2023-07-14 06:01:05",
+      "album": {
         "name": "Unexpectedly",
         "url": "https://open.spotify.com/album/5L6mPVF4I314n4XrcVNyNq"
       },
@@ -871,6 +907,22 @@
       "duration_ms": 259237,
       "name": "I'll Get By",
       "url": "https://open.spotify.com/track/1ZHOSFoGjqE7k0Mpr1ofKx"
+    },
+    {
+      "added_at": "2023-07-14 06:01:05",
+      "album": {
+        "name": "Walk Away",
+        "url": "https://open.spotify.com/album/0wBxQTwnPhw1HgGkaI4Op0"
+      },
+      "artists": [
+        {
+          "name": "Mali",
+          "url": "https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN"
+        }
+      ],
+      "duration_ms": 272344,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/1gY0QBMjHNX8z8b324VQI9"
     },
     {
       "added_at": "2023-07-14 06:01:05",
@@ -923,22 +975,6 @@
     {
       "added_at": "2023-07-14 06:01:05",
       "album": {
-        "name": "Sucks to Be Human",
-        "url": "https://open.spotify.com/album/27Ume3SwDAJJd4h0vQBdgd"
-      },
-      "artists": [
-        {
-          "name": "The F16s",
-          "url": "https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C"
-        }
-      ],
-      "duration_ms": 205046,
-      "name": "Sucks to Be Human",
-      "url": "https://open.spotify.com/track/6z0GP8AOTDIShCXUOw1E3Y"
-    },
-    {
-      "added_at": "2023-07-14 06:01:05",
-      "album": {
         "name": "sushi song",
         "url": "https://open.spotify.com/album/1qByDrxTPVZoultbc0HNyp"
       },
@@ -955,18 +991,18 @@
     {
       "added_at": "2023-07-14 06:01:05",
       "album": {
-        "name": "Walk Away",
-        "url": "https://open.spotify.com/album/0wBxQTwnPhw1HgGkaI4Op0"
+        "name": "Sucks to Be Human",
+        "url": "https://open.spotify.com/album/27Ume3SwDAJJd4h0vQBdgd"
       },
       "artists": [
         {
-          "name": "Mali",
-          "url": "https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN"
+          "name": "The F16s",
+          "url": "https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C"
         }
       ],
-      "duration_ms": 272344,
-      "name": "Walk Away",
-      "url": "https://open.spotify.com/track/1gY0QBMjHNX8z8b324VQI9"
+      "duration_ms": 205046,
+      "name": "Sucks to Be Human",
+      "url": "https://open.spotify.com/track/6z0GP8AOTDIShCXUOw1E3Y"
     },
     {
       "added_at": "2023-07-14 06:01:05",
@@ -1031,22 +1067,6 @@
     {
       "added_at": "2023-07-14 06:01:05",
       "album": {
-        "name": "Unicorn And The Sheep",
-        "url": "https://open.spotify.com/album/1Gd4ISqgkzf5WZHLjzUaHI"
-      },
-      "artists": [
-        {
-          "name": "Raghav Meattle",
-          "url": "https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN"
-        }
-      ],
-      "duration_ms": 151531,
-      "name": "Unicorn and the Sheep",
-      "url": "https://open.spotify.com/track/4YWeZa7AfJArkijVVq8ayc"
-    },
-    {
-      "added_at": "2023-07-14 06:01:05",
-      "album": {
         "name": "Run Away Fade Away",
         "url": "https://open.spotify.com/album/5ITni3RafLU4NmygkabTYM"
       },
@@ -1063,18 +1083,18 @@
     {
       "added_at": "2023-07-14 06:01:05",
       "album": {
-        "name": "Give Up",
-        "url": "https://open.spotify.com/album/17GJjmUe6dkPDRN1DCOv3t"
+        "name": "Unicorn And The Sheep",
+        "url": "https://open.spotify.com/album/1Gd4ISqgkzf5WZHLjzUaHI"
       },
       "artists": [
         {
-          "name": "Avanti Nagral",
-          "url": "https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y"
+          "name": "Raghav Meattle",
+          "url": "https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN"
         }
       ],
-      "duration_ms": 248320,
-      "name": "Give Up",
-      "url": "https://open.spotify.com/track/41b1nydaPsdAn4R3sqoVWu"
+      "duration_ms": 151531,
+      "name": "Unicorn and the Sheep",
+      "url": "https://open.spotify.com/track/4YWeZa7AfJArkijVVq8ayc"
     },
     {
       "added_at": "2023-07-14 06:01:05",
@@ -1091,6 +1111,22 @@
       "duration_ms": 163537,
       "name": "Spare My Heart",
       "url": "https://open.spotify.com/track/5jjnLuRNoiLsk2Ew7of6rI"
+    },
+    {
+      "added_at": "2023-07-14 06:01:05",
+      "album": {
+        "name": "Give Up",
+        "url": "https://open.spotify.com/album/17GJjmUe6dkPDRN1DCOv3t"
+      },
+      "artists": [
+        {
+          "name": "Avanti Nagral",
+          "url": "https://open.spotify.com/artist/2Wwa2Sov84hVY7Hxfqu71Y"
+        }
+      ],
+      "duration_ms": 248320,
+      "name": "Give Up",
+      "url": "https://open.spotify.com/track/41b1nydaPsdAn4R3sqoVWu"
     },
     {
       "added_at": "2023-07-14 06:01:05",
@@ -1115,22 +1151,6 @@
     {
       "added_at": "2023-07-14 06:01:05",
       "album": {
-        "name": "fickle.minds",
-        "url": "https://open.spotify.com/album/7Ef2C8kjJwGKKQtyOKZrIq"
-      },
-      "artists": [
-        {
-          "name": "lost spaces",
-          "url": "https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b"
-        }
-      ],
-      "duration_ms": 221142,
-      "name": "fickle.minds",
-      "url": "https://open.spotify.com/track/3cId3F7pcKzkrCBMpBcaIz"
-    },
-    {
-      "added_at": "2023-07-14 06:01:05",
-      "album": {
         "name": "Dreaming In My Mind",
         "url": "https://open.spotify.com/album/1pCyN5L4pRaw7l0ouq9AFF"
       },
@@ -1143,6 +1163,22 @@
       "duration_ms": 194400,
       "name": "Dreaming In My Mind",
       "url": "https://open.spotify.com/track/5d0vzUSG3l87BRtGR726RN"
+    },
+    {
+      "added_at": "2023-07-14 06:01:05",
+      "album": {
+        "name": "fickle.minds",
+        "url": "https://open.spotify.com/album/7Ef2C8kjJwGKKQtyOKZrIq"
+      },
+      "artists": [
+        {
+          "name": "lost spaces",
+          "url": "https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b"
+        }
+      ],
+      "duration_ms": 221142,
+      "name": "fickle.minds",
+      "url": "https://open.spotify.com/track/3cId3F7pcKzkrCBMpBcaIz"
     },
     {
       "added_at": "2023-07-14 06:01:05",
@@ -1227,22 +1263,6 @@
     {
       "added_at": "2023-07-14 06:01:05",
       "album": {
-        "name": "Dear Us",
-        "url": "https://open.spotify.com/album/3cauT2XM9GVuKgnv0uUEtm"
-      },
-      "artists": [
-        {
-          "name": "Jeremiah de Rozario",
-          "url": "https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna"
-        }
-      ],
-      "duration_ms": 186885,
-      "name": "Dear Us",
-      "url": "https://open.spotify.com/track/1Yt5Jo4jR1eLpxAj05vCvN"
-    },
-    {
-      "added_at": "2023-07-14 06:01:05",
-      "album": {
         "name": "Bad for Me",
         "url": "https://open.spotify.com/album/6I3uThRU2DxXUG7HlQJn2a"
       },
@@ -1255,22 +1275,6 @@
       "duration_ms": 203526,
       "name": "Bad for Me",
       "url": "https://open.spotify.com/track/4h5YzicLLdtt8NSRU8cRmF"
-    },
-    {
-      "added_at": "2023-07-14 06:01:05",
-      "album": {
-        "name": "Ocean Calls My Name",
-        "url": "https://open.spotify.com/album/554nCrw78BshclRnREAjUV"
-      },
-      "artists": [
-        {
-          "name": "Anupam Roy",
-          "url": "https://open.spotify.com/artist/5LZ894xYE9MG1sal0gjt5L"
-        }
-      ],
-      "duration_ms": 263210,
-      "name": "Ocean Calls My Name",
-      "url": "https://open.spotify.com/track/0E6j1oe4eGdjtb039vhXq8"
     }
   ],
   "unique_name": "IndiEnglish",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzL4bYZBn6V.md) - [plain]
 
 > 50 canciones que llenan tu rutina de pura energía.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,122 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,176 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzL4bYZBn6V.md) - [plain]
 | 29 | [La Música](https://open.spotify.com/track/1HBy0FTxfdKiZ8yLEYPdIS) | [Bsno](https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29) | [La Música](https://open.spotify.com/album/2WemEhIuMzJqw9oBzD8Nwc) | 3:30 |
 | 30 | [Pump up the Volume](https://open.spotify.com/track/1D5Kc0zv5rbbDwKbu0YTDd) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Juarez](https://open.spotify.com/artist/0Infrp3tv1N9fmtOhctOfN) | [Pump up the Volume](https://open.spotify.com/album/6lKCdY9YNuLLMNN7FqMHm8) | 3:28 |
 | 31 | [Push Me](https://open.spotify.com/track/2IDa4VHiakky6xNeSrkYE8) | [Minow](https://open.spotify.com/artist/53WBL9mWs6KRVyrWBB6Fen), [Vale](https://open.spotify.com/artist/3xO9hPdz5KQ7wOXxshldeL), [House Music Bro](https://open.spotify.com/artist/6CK6I6I7fKtcThateyQpVY) | [Push Me](https://open.spotify.com/album/5jamFfc9LWWvJCceNcZZgg) | 4:25 |
-| 32 | [Somebody Like You](https://open.spotify.com/track/5AObadnwUbTjOtpJf6X10i) | [Martin Trevy](https://open.spotify.com/artist/0i3OcVzzb5UEdC4j4hRQte), [HAWK.](https://open.spotify.com/artist/6kGgCcP1pFsfBy9Zj7KZft), [Marmy](https://open.spotify.com/artist/7GDzOgd5Z7GSqIyfDcVguz) | [Somebody Like You](https://open.spotify.com/album/30yJH2QfFDdEyEpGoHxujc) | 2:55 |
+| 32 | [Turn On The Bass](https://open.spotify.com/track/0KJBsIuWeIwpcnfFKtsQVt) | [Sheeqo Beat](https://open.spotify.com/artist/4PPVTIy0XtTMJuiA7mC4Ak) | [Playlist](https://open.spotify.com/album/05t3S7RiXvwsuYK4jj8Pf1) | 3:40 |
 | 33 | [Let You Down](https://open.spotify.com/track/1niAie0JRjlHg1id7hFCfS) | [JØRD](https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV), [SPECT3R](https://open.spotify.com/artist/4NWK1Lp9NUDfJpAnSmAo4t) | [Let You Down](https://open.spotify.com/album/0SIxLZVzSBT22y2s8Iw4X6) | 3:25 |
-| 34 | [Turn On The Bass](https://open.spotify.com/track/0KJBsIuWeIwpcnfFKtsQVt) | [Sheeqo Beat](https://open.spotify.com/artist/4PPVTIy0XtTMJuiA7mC4Ak) | [Playlist](https://open.spotify.com/album/05t3S7RiXvwsuYK4jj8Pf1) | 3:40 |
+| 34 | [Somebody Like You](https://open.spotify.com/track/5AObadnwUbTjOtpJf6X10i) | [Martin Trevy](https://open.spotify.com/artist/0i3OcVzzb5UEdC4j4hRQte), [HAWK.](https://open.spotify.com/artist/6kGgCcP1pFsfBy9Zj7KZft), [Marmy](https://open.spotify.com/artist/7GDzOgd5Z7GSqIyfDcVguz) | [Somebody Like You](https://open.spotify.com/album/30yJH2QfFDdEyEpGoHxujc) | 2:55 |
 | 35 | [Feel This Way](https://open.spotify.com/track/4agUkSkSCmHLMmOfcAnZuN) | [Enkode](https://open.spotify.com/artist/5OsTZlODtkuY6VgcRSBBee) | [Feel This Way](https://open.spotify.com/album/43rxxp3huVJbLUMBhNM23y) | 2:54 |
 | 36 | [Won’t Give Up](https://open.spotify.com/track/1MWyASNuARY5NrHVPh81lx) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Won't Give Up](https://open.spotify.com/album/6cgX5pGfRM5YccxFeFKZr1) | 3:02 |
 | 37 | [Lost in Your Eyes \(Radio Edit\) \[feat\. Norka\]](https://open.spotify.com/track/0nDsvBpOyXOYIs433CjmrP) | [Oscar Troya](https://open.spotify.com/artist/1qEogEbQ167J79TjtdCFiq), [Norka](https://open.spotify.com/artist/5xZ6US5f16cPzE8qMLjLf1) | [Lost in Your Eyes \(Radio Edit\) \[feat\. Norka\]](https://open.spotify.com/album/6q13q5axUqE51wN1oB2GIq) | 4:17 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzL4bYZBn6V.md) - [plain]
 | 39 | [Hold My Hand](https://open.spotify.com/track/0Qi4Xlh524Bj3EPmhwyDux) | [Maciel](https://open.spotify.com/artist/18EPLdbAm32pw1FUJUFMN0), [Delove](https://open.spotify.com/artist/70UpusffkLbUh9zPyOgvZt) | [Hold My Hand](https://open.spotify.com/album/5DA84BeSN1TYtyk9poJ24C) | 2:51 |
 | 40 | [Memories](https://open.spotify.com/track/56cy1gTx6GpTjKBIFGdfe9) | [Luis JR](https://open.spotify.com/artist/0z9vGUlGF7lS5px3Y77Mjj), [D'ALEX](https://open.spotify.com/artist/0FE798xrpeoQtmsv8TjvM4) | [Memories](https://open.spotify.com/album/0IZU361PqM4rU93o9LNoBR) | 3:36 |
 | 41 | [Fooling Me](https://open.spotify.com/track/1WoH0L7MJQphYNo0gyi4WD) | [Gaminow](https://open.spotify.com/artist/0JboxlhX1MrKdJAQyYZILH), [Gama](https://open.spotify.com/artist/4z5hE5cqCfTsCZ60IVAgRC), [Minow](https://open.spotify.com/artist/53WBL9mWs6KRVyrWBB6Fen) | [Fooling Me](https://open.spotify.com/album/5CTsLfUjU2O5RnKwbK1dsw) | 3:11 |
-| 42 | [OOF \(Out Of Office Forever\)](https://open.spotify.com/track/3wZrmARwWF8g4XXu5yDT66) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx), [MOSKA](https://open.spotify.com/artist/1rVo9h17cHhWerDiZj0yXH) | [OOF \(Out Of Office Forever\)](https://open.spotify.com/album/6FdN7rdTvgCtpodN0A4vsm) | 2:53 |
-| 43 | [Pink](https://open.spotify.com/track/397D6hKNBOuxkFHMY5a9z6) | [Bsno](https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29) | [Pink](https://open.spotify.com/album/1IoexiSs2Ue7tG9ef9sdeR) | 2:40 |
+| 42 | [Pink](https://open.spotify.com/track/397D6hKNBOuxkFHMY5a9z6) | [Bsno](https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29) | [Pink](https://open.spotify.com/album/1IoexiSs2Ue7tG9ef9sdeR) | 2:40 |
+| 43 | [OOF \(Out Of Office Forever\)](https://open.spotify.com/track/3wZrmARwWF8g4XXu5yDT66) | [Leandro Da Silva](https://open.spotify.com/artist/5hCv8oMMxHb3FoHMGLN8Vx), [MOSKA](https://open.spotify.com/artist/1rVo9h17cHhWerDiZj0yXH) | [OOF \(Out Of Office Forever\)](https://open.spotify.com/album/6FdN7rdTvgCtpodN0A4vsm) | 2:53 |
 | 44 | [Nada](https://open.spotify.com/track/1mlm9a4lCSLazplVoS15Fn) | [Madhouse](https://open.spotify.com/artist/74YcnRxZTY5Nu1RIqS8ovS), [Angel Vergara](https://open.spotify.com/artist/5MPkxfxPIhOca5QfYPfP2x) | [Nada](https://open.spotify.com/album/5NTJKD9sSSUkWDBfTjp7E1) | 3:21 |
 | 45 | [One A Day](https://open.spotify.com/track/09VGT0e2aYkoCVNRjOPKZa) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [One A Day](https://open.spotify.com/album/7a3CD5WnyDxWxpCaBQHYHx) | 3:12 |
 | 46 | [Anywhere](https://open.spotify.com/track/4LixDfUyJFL3OFyZqruBto) | [Cytrax](https://open.spotify.com/artist/654q5ND8XzmkMhxU1JwS2U), [Sebastian Mateo](https://open.spotify.com/artist/4McoittPoukRnXpQM6oqus) | [Anywhere](https://open.spotify.com/album/6oMuOHFOSbSashSF1L4qgB) | 2:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzL4bYZBn6V.md) - [plain]
 | 49 | [Where Do We Go?](https://open.spotify.com/track/0VzbCGoQosaUAoy4RMgKAm) | [Oxide & Neutrino](https://open.spotify.com/artist/0uhNYfjHJyAmHh2xNZ4vqf), [Leo The Lion](https://open.spotify.com/artist/0Wq4b4GUAJ0awoPYiCftWL) | [Where Do We Go?](https://open.spotify.com/album/5ExfclQkJzsVxIBpzv3WfE) | 3:14 |
 | 50 | [Vampiro \(Pyura Remix\)](https://open.spotify.com/track/4XGyifnRty1FI3qQe8bhet) | [Lucas & The Woods](https://open.spotify.com/artist/4OIDWn0ASVx73rysnf6pqA), [Pyura](https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi) | [Vampiro \(Pyura Remix\)](https://open.spotify.com/album/2IcmfBYtzX45pZmlo8yV0q) | 3:40 |
 
-Snapshot ID: `MCw5NzlmYTNhOGE3NjhkMmNjYmM1ZjA4ZjljNTNkNWIwMzNiNzUzY2Y0`
+Snapshot ID: `MCxhZmFlN2NkNzA4MDBiZjlhZDdlMzczYzQ2MzUzYWY2ZDQ4ZWE1ZTBh`

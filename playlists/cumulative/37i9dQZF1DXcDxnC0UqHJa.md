@@ -4,7 +4,7 @@
 
 > Folksy takes on your favorite tracks\. Cover: Rufus Wainwright
 
-251 songs - 16 hr 3 min
+252 songs - 16 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Like a Rolling Stone](https://open.spotify.com/track/3Bf9nJGn3UQmHv8Ngx3f8S) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Polyhymnia](https://open.spotify.com/album/58Atsdlqdy8UWU9aSVjORj) | 6:35 | 2021-12-13 | 2022-07-29 |
 | [Like a Rolling Stone](https://open.spotify.com/track/43SCvTx9ME4KhHAVMKGnrT) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql), [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Polyhymnia](https://open.spotify.com/album/4ThHnK1QSkpfwzHqpybmlz) | 6:35 | 2022-06-03 |  |
 | [Look At Miss Ohio](https://open.spotify.com/track/4V7GKEwhd4NTF6xBbQq1tF) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Look At Miss Ohio](https://open.spotify.com/album/7LuDUHiZQ3e2OcrbwgzHIE) | 3:25 | 2022-08-26 | 2023-01-13 |
+| [Love At The Five & Dime](https://open.spotify.com/track/1XwqNMe7dcylnzQD4w8Ctk) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [Kelsey Waldon](https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1) | [Love At The Five & Dime](https://open.spotify.com/album/3h3OflWVSlb7gvhVQ2qJQn) | 4:49 | 2023-07-21 |  |
 | [Love Hurts](https://open.spotify.com/track/6UreecgqiwH1aQTXfRiMqg) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP), [Tyler Cain](https://open.spotify.com/artist/7xmVA0jnh2yjM3S642J1Bd), [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [The Covers](https://open.spotify.com/album/36J1uwN2oRzKRihIKxDIUV) | 3:16 | 2021-12-13 |  |
 | [Love Song to a Stranger](https://open.spotify.com/track/4okbeDeYmiiVB9s4A4Wg50) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Love Song to a Stranger](https://open.spotify.com/album/4hr2AtZvyXNmtmzr5g1YdY) | 4:28 | 2021-12-13 | 2022-07-29 |
 | [Love Will Tear Us Apart](https://open.spotify.com/track/24mkZs0ouxgWcSa7zhlBZf) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Love Will Tear Us Apart](https://open.spotify.com/album/4rIfE20Yf1aeKSNdlRp81C) | 2:48 | 2022-01-14 |  |
@@ -174,7 +175,7 @@
 | [Nebraska \- Acoustic](https://open.spotify.com/track/0gEOycr5Mb2WJaqZwcIyjn) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Nebraska \(Acoustic\)](https://open.spotify.com/album/7my4IbcOeSYbTrd0UYyKps) | 3:48 | 2021-12-13 | 2022-07-29 |
 | [Nebraska \- Acoustic](https://open.spotify.com/track/35rs6w32FH0qie0kLfdtla) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [In the Magic Hour Solo Sessions](https://open.spotify.com/album/3cTvxUix8USFUfjiyre6B4) | 3:48 | 2022-06-03 | 2023-04-30 |
 | [Nebraska \- Acoustic](https://open.spotify.com/track/5H3hNv8kLr15zQxFUiuIqT) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [In the Magic Hour Solo Sessions](https://open.spotify.com/album/1XxOQRUB7eOOQWryZM3YZM) | 3:48 | 2023-05-05 |  |
-| [No Ordinary Love \(Live at Eddie's Attic\)](https://open.spotify.com/track/6RTF7UzUAtMqOpGbakgzGj) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Live at Eddie's Attic](https://open.spotify.com/album/40LvDRa8e5cdgUFsKgSUzq) | 3:29 | 2023-04-28 |  |
+| [No Ordinary Love \(Live at Eddie's Attic\)](https://open.spotify.com/track/6RTF7UzUAtMqOpGbakgzGj) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Live at Eddie's Attic](https://open.spotify.com/album/40LvDRa8e5cdgUFsKgSUzq) | 3:29 | 2023-04-28 | 2023-07-22 |
 | [Norwegian Wood](https://open.spotify.com/track/2EK3UM0CKpjxMVk6JWRONr) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Lennon Bermuda](https://open.spotify.com/album/5oprSAJ9hPKahkUBBSbOQj) | 2:23 | 2021-12-13 |  |
 | [One More Cup of Coffee \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1XLJxAcTdnMIeQpsvdfkSv) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Spotify Singles](https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl) | 3:21 | 2021-12-13 |  |
 | [Perfect Places \- Live From BBC Radio 2](https://open.spotify.com/track/2hUyNUvpSlNBmYKCUNCLu5) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Live From BBC Radio 2](https://open.spotify.com/album/70nPdV7ZMFzddatb5WjgrE) | 3:38 | 2021-12-13 |  |

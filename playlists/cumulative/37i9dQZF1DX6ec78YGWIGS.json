@@ -126,7 +126,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 177911,
       "name": "Agradezco Haberme Equivocado",
       "url": "https://open.spotify.com/track/0SaC0FpkUs2DDmYATSC5HW"
@@ -618,7 +618,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 174588,
       "name": "C\u00f3mo Est\u00e1s BB?",
       "url": "https://open.spotify.com/track/6PvIUWGrOYsThHZMaTyBHc"
@@ -950,7 +950,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 353253,
       "name": "Enchanted (Taylor's Version)",
       "url": "https://open.spotify.com/track/3sW3oSbzsfecv9XoUdGs7h"
@@ -990,6 +990,28 @@
       "duration_ms": 144806,
       "name": "Ese Diamante",
       "url": "https://open.spotify.com/track/61hKkpfpb5PJmsFjIGk9nS"
+    },
+    {
+      "album": {
+        "name": "DESGENERADOS MIXTAPE",
+        "url": "https://open.spotify.com/album/0YcR2HiDBoW60Alu3CZu2R"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184826,
+      "name": "Ex (con La Joaqui)",
+      "url": "https://open.spotify.com/track/4aHc6XvgDFIdey7Y7D8lH4"
     },
     {
       "album": {
@@ -1482,7 +1504,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 202854,
       "name": "Mami no llores",
       "url": "https://open.spotify.com/track/2KKIJwDbT4tbF9RdMg2aHC"
@@ -1766,6 +1788,28 @@
       "duration_ms": 209725,
       "name": "MYA LIVE P1: Chanel de Coco",
       "url": "https://open.spotify.com/track/7AjW0MWfMnpLgbW7TaPIKS"
+    },
+    {
+      "album": {
+        "name": "MYA LIVE P3: Qu\u00e9 Pasar\u00e1",
+        "url": "https://open.spotify.com/album/3SJ9pcmCCBKyqHaOOWxN9E"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Dread Mar I",
+          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213480,
+      "name": "MYA LIVE P3: Qu\u00e9 Pasar\u00e1",
+      "url": "https://open.spotify.com/track/5WLhx6G2dMXSJ5ITq8419C"
     },
     {
       "album": {
@@ -2189,6 +2233,28 @@
     },
     {
       "album": {
+        "name": "Quiero Verte",
+        "url": "https://open.spotify.com/album/2gnITQUWyhtqnZn6DgcjoI"
+      },
+      "artists": [
+        {
+          "name": "Lel\u00e9",
+          "url": "https://open.spotify.com/artist/30zaUiWxGl2IDR0dTiRrXO"
+        },
+        {
+          "name": "Coti",
+          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232252,
+      "name": "Quiero Verte",
+      "url": "https://open.spotify.com/track/68hs0QwwcssOzKuqZgonw7"
+    },
+    {
+      "album": {
         "name": "LALI",
         "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
       },
@@ -2590,6 +2656,24 @@
       "duration_ms": 154434,
       "name": "Tu Despedida",
       "url": "https://open.spotify.com/track/3nerNiWerv7awEpTdbrbiq"
+    },
+    {
+      "album": {
+        "name": "Tuya",
+        "url": "https://open.spotify.com/album/3FcfvdKdPa30KY255EPjRt"
+      },
+      "artists": [
+        {
+          "name": "Dakillah",
+          "url": "https://open.spotify.com/artist/4SzAEZqVVfHO0El8eDu9KJ"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167636,
+      "name": "Tuya",
+      "url": "https://open.spotify.com/track/40EWRKr8ElC61tOm9Um26X"
     },
     {
       "album": {

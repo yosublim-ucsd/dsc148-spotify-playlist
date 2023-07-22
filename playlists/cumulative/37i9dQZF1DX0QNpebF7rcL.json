@@ -1392,7 +1392,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 250480,
       "name": "Friendship",
       "url": "https://open.spotify.com/track/5tzYjX0mtDHks2utIpNWIF"
@@ -2806,6 +2806,24 @@
       "duration_ms": 208700,
       "name": "Love At First Sight",
       "url": "https://open.spotify.com/track/0I6iVnbnSri9baOqnjIeHQ"
+    },
+    {
+      "album": {
+        "name": "Love Is All",
+        "url": "https://open.spotify.com/album/2TtprEnpsHFvtHa6pmdhCj"
+      },
+      "artists": [
+        {
+          "name": "Buffalo Nichols",
+          "url": "https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220920,
+      "name": "Love Is All",
+      "url": "https://open.spotify.com/track/1VdINjKve1zyYptgIWLdJd"
     },
     {
       "album": {
@@ -4694,7 +4712,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 179103,
       "name": "These Things",
       "url": "https://open.spotify.com/track/3JOgtCIX1mBxwPe4rNPHCD"
@@ -5430,6 +5448,24 @@
       "duration_ms": 259720,
       "name": "Woman Like You",
       "url": "https://open.spotify.com/track/2LAwa7amti4xehvCeWBRQ7"
+    },
+    {
+      "album": {
+        "name": "Work Until My Days Are Done",
+        "url": "https://open.spotify.com/album/2Yd9AicKdULZkAOZzGF8Gx"
+      },
+      "artists": [
+        {
+          "name": "The Blind Boys Of Alabama",
+          "url": "https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211280,
+      "name": "Work Until My Days Are Done",
+      "url": "https://open.spotify.com/track/2xMgZIxBuHiD7VLVFZVnsH"
     },
     {
       "album": {

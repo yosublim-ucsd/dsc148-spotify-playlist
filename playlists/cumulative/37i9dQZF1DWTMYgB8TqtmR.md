@@ -4,7 +4,7 @@
 
 > It's Hits – största och bästa hitsen just nu!
 
-502 songs - 1 day 1 hr 7 min
+504 songs - 1 day 1 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Dancing’s Done](https://open.spotify.com/track/06yG42F8p8l621YLki0rp2) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Dancing's Done](https://open.spotify.com/album/6QqKTzhLeJmJBvueUe0Lf7) | 2:46 | 2022-12-22 | 2023-02-16 |
 | [DAY ONE](https://open.spotify.com/track/3zLBP4HtaSYRA4NcAqS3Jo) | [Einár](https://open.spotify.com/artist/0kKygNaCQjqVLrImIftRDJ) | [DAY ONE](https://open.spotify.com/album/38IlhNRha2DeYsQ22nwWxj) | 2:28 | 2022-11-17 | 2023-01-27 |
 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-04-13 |  |
+| [Deli](https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 2:06 | 2023-07-20 |  |
 | [Den här gången är det på riktigt](https://open.spotify.com/track/1JKQN9pttrg4jyavKaW95W) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Den här gången är det på riktigt](https://open.spotify.com/album/5V4y3mYlWm8ic3VOLtykLw) | 4:16 | 2023-02-24 | 2023-04-13 |
 | [Det mesta regnar bort](https://open.spotify.com/track/7coCwMI4TaMaF08vJPZuce) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Det mesta regnar bort](https://open.spotify.com/album/3Uq12qpAnhRiAWhcoFVKJH) | 2:56 | 2023-01-19 | 2023-04-21 |
 | [Det Är Jag Inte Du](https://open.spotify.com/track/7LcRyueVx91UF5kfMeDsnt) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [Det Är Jag Inte Du](https://open.spotify.com/album/4zeo0umVdWldGkVvMiY9h7) | 2:21 | 2023-04-20 | 2023-07-14 |
@@ -242,6 +243,7 @@
 | [Josefin](https://open.spotify.com/track/2O7YJWue0OOBHWxRaqDsm9) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Josefin](https://open.spotify.com/album/1DcmCXOX7ww1z0joNzFgCk) | 3:34 | 2023-06-30 |  |
 | [JUMPSTART](https://open.spotify.com/track/7LnkcJhUZ0qs0HoyRm61xr) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [JUMPSTART](https://open.spotify.com/album/3tmkaAWU7c2g3BWQ7rdZpR) | 2:37 | 2022-11-03 | 2022-11-18 |
 | [Just Because](https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Just Because](https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT) | 2:12 | 2023-05-04 | 2023-05-11 |
+| [K\-POP](https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [K\-POP](https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb) | 3:05 | 2023-07-20 |  |
 | [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:33 | 2022-12-19 | 2023-04-14 |
 | [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/track/0CrcwVLUe8wzLUIXgjXVZJ) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Kill Bill \(feat\. Doja Cat\)](https://open.spotify.com/album/4OanbmuJAWz8JPVE4cJA9L) | 2:55 | 2023-04-13 | 2023-05-14 |
 | [KOMMER DU IHÅG?](https://open.spotify.com/track/7yfMu3Ez41fQXuD9gUbFjQ) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [KOMMER DU IHÅG?](https://open.spotify.com/album/4T9cDX7VHq0uxIIotzK4Ct) | 2:38 | 2023-02-24 | 2023-04-28 |

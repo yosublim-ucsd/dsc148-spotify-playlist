@@ -1173,6 +1173,24 @@
     },
     {
       "album": {
+        "name": "Bound To Get The Blues",
+        "url": "https://open.spotify.com/album/7qUHJLDYF0b1z3DA2Jm2UR"
+      },
+      "artists": [
+        {
+          "name": "Ray Beadle",
+          "url": "https://open.spotify.com/artist/7wGs0wj3dW628DJio6N4r3"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300548,
+      "name": "Got To Get Out",
+      "url": "https://open.spotify.com/track/2IFYh8DDCzkeeskV6yJmZT"
+    },
+    {
+      "album": {
         "name": "Gotta Bleed (Remix)",
         "url": "https://open.spotify.com/album/2X83Qtb3o6hw3RuZd9vdfe"
       },
@@ -2765,6 +2783,24 @@
     },
     {
       "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/6n9cLkMutqZ0JMx095vw01"
+      },
+      "artists": [
+        {
+          "name": "Arthur Terembula",
+          "url": "https://open.spotify.com/artist/3CBd6nKugojJJ7OAfiGs60"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134001,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/2TNPkY79QedaKePAHqg1Z9"
+    },
+    {
+      "album": {
         "name": "Walk The Wire",
         "url": "https://open.spotify.com/album/5ADpXCosDjpGMFbDznwb6X"
       },
@@ -2780,6 +2816,24 @@
       "duration_ms": 124218,
       "name": "Walk The Wire",
       "url": "https://open.spotify.com/track/38VyicJEfQueeQPIH0tZDp"
+    },
+    {
+      "album": {
+        "name": "Wayward Son",
+        "url": "https://open.spotify.com/album/3VmdrXqWOMmIEz8syqeOzd"
+      },
+      "artists": [
+        {
+          "name": "Jhett Black",
+          "url": "https://open.spotify.com/artist/4xz4YAqEHCJQsbrqBy4Iz2"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223500,
+      "name": "Wayward Son",
+      "url": "https://open.spotify.com/track/5KhgT9qpjluyfl2xS2LJ6Q"
     },
     {
       "album": {

@@ -1,13 +1,29 @@
 {
   "description": "A little bit of pop, a little bit of rap. Cover: Nic D & Connor Price",
-  "num_followers": 198861,
+  "num_followers": 199031,
   "original_name": "Varsity Bars",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNWVlMmFiOWUxZWUzZDY0NGZlZjE4MGQzNDJmMmMyMjcyYTZlYzAw",
+  "snapshot_id": "MCw0NjkzMzlmOWE2M2EyYTY1ZTJjY2ExZTM1NzdmYTZmZjY1ZDVkOTk1",
   "tracks": [
+    {
+      "added_at": "2023-07-21 06:46:00",
+      "album": {
+        "name": "god damn!",
+        "url": "https://open.spotify.com/album/1Txk1kbTVJZqvdU2ZsJwpv"
+      },
+      "artists": [
+        {
+          "name": "viisi",
+          "url": "https://open.spotify.com/artist/50zXB0O7zGiSb4ZcF1GP7Z"
+        }
+      ],
+      "duration_ms": 116307,
+      "name": "god damn!",
+      "url": "https://open.spotify.com/track/40e2TPl5w4fmHJkIgwAM3U"
+    },
     {
       "added_at": "2023-07-14 16:00:00",
       "album": {
@@ -87,6 +103,22 @@
       "duration_ms": 145503,
       "name": "welcome to my world",
       "url": "https://open.spotify.com/track/0TujvmfSqowyT2OiimLaBY"
+    },
+    {
+      "added_at": "2023-07-21 06:46:00",
+      "album": {
+        "name": "I\u2019m Not Crazy",
+        "url": "https://open.spotify.com/album/193T8nOZCynXr5GHbC5UzO"
+      },
+      "artists": [
+        {
+          "name": "charlieonnafriday",
+          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+        }
+      ],
+      "duration_ms": 161712,
+      "name": "I'm Not Crazy",
+      "url": "https://open.spotify.com/track/3fiMmMyvoBGjfU9BWkTNWM"
     },
     {
       "added_at": "2023-07-07 21:12:57",
@@ -1683,38 +1715,6 @@
       "duration_ms": 140826,
       "name": "stupid i miss u",
       "url": "https://open.spotify.com/track/6rhdKbAlGnmRVfdGnvIyb8"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Sneakers",
-        "url": "https://open.spotify.com/album/203lgkbyUvtaZAExgXr3Ge"
-      },
-      "artists": [
-        {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
-        }
-      ],
-      "duration_ms": 184285,
-      "name": "Sneakers",
-      "url": "https://open.spotify.com/track/3eLfICfDzCQrP8pOajVGiJ"
-    },
-    {
-      "added_at": "2022-09-09 04:00:00",
-      "album": {
-        "name": "Enough",
-        "url": "https://open.spotify.com/album/1fw8J18rs7te12Bj1UxAUo"
-      },
-      "artists": [
-        {
-          "name": "charlieonnafriday",
-          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
-        }
-      ],
-      "duration_ms": 185266,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy"
     }
   ],
   "unique_name": "Varsity Bars",

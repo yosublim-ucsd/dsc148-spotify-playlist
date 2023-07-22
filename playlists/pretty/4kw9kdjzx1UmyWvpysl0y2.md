@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4kw9kdjzx1UmyWvpysl0y2.md) - [plain]
 
 > Brand new music from Monstercat, all in one place.
 
-[Monstercat](https://open.spotify.com/user/monstercatmedia) - 127,243 likes - 65 songs - 3 hr 47 min
+[Monstercat](https://open.spotify.com/user/monstercatmedia) - 127,241 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,10 +68,5 @@ pretty - [cumulative](/playlists/cumulative/4kw9kdjzx1UmyWvpysl0y2.md) - [plain]
 | 58 | [NIGHT](https://open.spotify.com/track/6MvLdr8EU0ROnLBIydewaD) | [VESK GREEN](https://open.spotify.com/artist/4D6SwsmIOKAcd2sMavDqxo) | [NIGHT](https://open.spotify.com/album/4SnyGwyZNSkBCIbzJWEbyB) | 4:19 |
 | 59 | [We Are All Equal](https://open.spotify.com/track/5B1NXRJoU4Bs1D74Qdsokg) | [LTN](https://open.spotify.com/artist/2IK99qf3aYxFWkgCkc7kQ3), [Ghostbeat](https://open.spotify.com/artist/6HM5cyDWiTq4ijhdsaRZiS) | [We Are All Equal](https://open.spotify.com/album/5PdRSh9BkRFPyGDsy9j3mu) | 2:59 |
 | 60 | [Be With You](https://open.spotify.com/track/1VdCgotTRcPwbbRnCrzIfR) | [RetroVision](https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS) | [Be With You](https://open.spotify.com/album/0kiZ251Slwv3rlGwdAHuRk) | 2:46 |
-| 61 | [Alive](https://open.spotify.com/track/4SMXofCR3LMXfslJkYiGPi) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [SKUM](https://open.spotify.com/artist/3hXFd22CK7momnB40jiq9Z) | [Alive](https://open.spotify.com/album/6CuR1PACokH09J3x3tZzJF) | 2:49 |
-| 62 | [I'll Be There](https://open.spotify.com/track/3rRBzkFrTWyR3NrYxjZeMW) | [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV) | [I'll Be There](https://open.spotify.com/album/6AGsYYlY8T0eTFa2wg4R7d) | 2:30 |
-| 63 | [Haunt You](https://open.spotify.com/track/3gYigEsIAyHuRCBm4LZ4mt) | [SKYLER](https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9) | [Haunt You](https://open.spotify.com/album/7kbbAUEAQZ1ToFY70O13cJ) | 2:42 |
-| 64 | [Tender](https://open.spotify.com/track/1Wb6hywune5SXJTczRgSk7) | [Scarr.](https://open.spotify.com/artist/2GmwYytxKfiAubo141R0tV) | [Inner Voices](https://open.spotify.com/album/3YpG3KwKKLRjyJezGvSN3Z) | 3:14 |
-| 65 | [Euphoria](https://open.spotify.com/track/4tOrfScwPApEDe0adbNzxh) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377) | [Euphoria](https://open.spotify.com/album/4SfmVWUmmRcNYUUYckepDQ) | 3:04 |
 
-Snapshot ID: `NDMyMSw2NzFmNDQzOTYzOWZkMmFhNmU0Y2NhMThiMjQ3ZWViN2VhY2ViYzll`
+Snapshot ID: `NDMyMiw2ZWJjYzdmYTM2MDY1ODc1NGQ4ZmIyNWJiN2NmNTY1MDAyMmZkZTli`

@@ -4207,6 +4207,24 @@
     },
     {
       "album": {
+        "name": "OFF DAY",
+        "url": "https://open.spotify.com/album/0JLG2vKp48P3aWLCBskAMF"
+      },
+      "artists": [
+        {
+          "name": "Suuunday",
+          "url": "https://open.spotify.com/artist/1bBmR4RoeoRqkJgI7R8fAv"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150945,
+      "name": "OFF DAY",
+      "url": "https://open.spotify.com/track/5ZZZRpzWasI2ZU2XGXzP70"
+    },
+    {
+      "album": {
         "name": "Oh Baby...",
         "url": "https://open.spotify.com/album/3Hqr0o6QjM6dOUYM40k9Zp"
       },
@@ -6110,7 +6128,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 206070,
       "name": "Sweet Summer Love",
       "url": "https://open.spotify.com/track/5uTweDW8y0Yd5MZpOEv3xT"

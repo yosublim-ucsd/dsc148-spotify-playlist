@@ -13385,6 +13385,28 @@
     },
     {
       "album": {
+        "name": "NEW TIME",
+        "url": "https://open.spotify.com/album/0avP67zQj69a8mPEaGueI9"
+      },
+      "artists": [
+        {
+          "name": "Loopy",
+          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
+        },
+        {
+          "name": "JHUN",
+          "url": "https://open.spotify.com/artist/74qfndyO2YlfQaEDkbAHrR"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174916,
+      "name": "NEW TIME (Feat. JHUN)",
+      "url": "https://open.spotify.com/track/6qYlaxd8nJR5LnegXGg89d"
+    },
+    {
+      "album": {
         "name": "New Vision",
         "url": "https://open.spotify.com/album/1Cw3lJgFHhIfNU5WiPlEsZ"
       },

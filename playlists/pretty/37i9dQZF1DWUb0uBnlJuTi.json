@@ -1,12 +1,12 @@
 {
   "description": "Jazz. But funky. Cover: Takuya Kuroda",
-  "num_followers": 290845,
+  "num_followers": 291088,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzk4ZTBkZjUxYTFlZDM4ODg0YjNkOWQxNjg4YzRkZGExNDVkMjFj",
+  "snapshot_id": "MCw1YWRhNWZhN2MwZWUyYjM4MTVkZDk1MTlhODVmYTE3NGFhZGZkZmFj",
   "tracks": [
     {
       "added_at": "2022-10-07 04:01:00",
@@ -149,6 +149,30 @@
       "url": "https://open.spotify.com/track/3926LUvvXeRq024iTeNAnP"
     },
     {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Colonial Mentality / Roforofo Fight",
+        "url": "https://open.spotify.com/album/5MiIrsDaNKGK593XM37OwC"
+      },
+      "artists": [
+        {
+          "name": "Jazz Mafia",
+          "url": "https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved"
+        },
+        {
+          "name": "Brass Mafia",
+          "url": "https://open.spotify.com/artist/5AUthOkaQS0S3cYfgA66N1"
+        },
+        {
+          "name": "Mike Olmos",
+          "url": "https://open.spotify.com/artist/59p14paXscMtw20ZxHaihg"
+        }
+      ],
+      "duration_ms": 498218,
+      "name": "Colonial Mentality / Roforofo Fight",
+      "url": "https://open.spotify.com/track/5PbtrSZzIZnF5t0Brecr4D"
+    },
+    {
       "added_at": "2023-07-14 04:01:00",
       "album": {
         "name": "Serpentine",
@@ -163,6 +187,22 @@
       "duration_ms": 228219,
       "name": "Serpentine",
       "url": "https://open.spotify.com/track/3exot3dINaZOhGhw9kL9vX"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "I Can't Get Enough",
+        "url": "https://open.spotify.com/album/7crmaW8Z1HEy4wKmbUtj2x"
+      },
+      "artists": [
+        {
+          "name": "Otis McDonald",
+          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
+        }
+      ],
+      "duration_ms": 165161,
+      "name": "I Can't Get Enough",
+      "url": "https://open.spotify.com/track/0KfQn6DHPUM0uwXPdofn30"
     },
     {
       "added_at": "2023-05-26 04:01:00",
@@ -183,6 +223,26 @@
       "duration_ms": 346666,
       "name": "Iskhathi",
       "url": "https://open.spotify.com/track/6cK0RRZ0HA18cB7VxeMoTS"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "The Grid Generation",
+        "url": "https://open.spotify.com/album/1nqz0Wb3iGIB3zJ9OO3Ewx"
+      },
+      "artists": [
+        {
+          "name": "Cory Wong",
+          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+        },
+        {
+          "name": "Louis Cole",
+          "url": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
+        }
+      ],
+      "duration_ms": 285680,
+      "name": "The Grid Generation",
+      "url": "https://open.spotify.com/track/0psCd4ntI6P1lrTZI6TRP2"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -231,6 +291,42 @@
       "duration_ms": 181666,
       "name": "The Pit",
       "url": "https://open.spotify.com/track/7eL5p6ngW5Jm0e72xlyjL8"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "The Ups and Downs",
+        "url": "https://open.spotify.com/album/7JkH3Vm2KHNYiLPhW3Ceco"
+      },
+      "artists": [
+        {
+          "name": "David Helbock",
+          "url": "https://open.spotify.com/artist/0vL5aeUgB40QfmprJKhpOq"
+        },
+        {
+          "name": "Lakecia Benjamin",
+          "url": "https://open.spotify.com/artist/6hvjxbUASJd6bHds2Teaul"
+        },
+        {
+          "name": "Peter Madsen",
+          "url": "https://open.spotify.com/artist/3yoec9eCXayjK4ZQGYNzOM"
+        },
+        {
+          "name": "Raphael Preuschl",
+          "url": "https://open.spotify.com/artist/3jDeB8RF0KDC4CuZflmGKt"
+        },
+        {
+          "name": "Herbert Pirker",
+          "url": "https://open.spotify.com/artist/2wgehJQNceJRqSHjv8YK3A"
+        },
+        {
+          "name": "Claudio Spieler",
+          "url": "https://open.spotify.com/artist/5V58M3kxqK9zUdJUKg9Dk4"
+        }
+      ],
+      "duration_ms": 325200,
+      "name": "The Ups and Downs",
+      "url": "https://open.spotify.com/track/3aVnFftWFh5YWrg9QXwThw"
     },
     {
       "added_at": "2023-05-12 04:01:00",
@@ -399,30 +495,6 @@
       "duration_ms": 431664,
       "name": "Dancing in the Dusk - Clap! Clap! Remix",
       "url": "https://open.spotify.com/track/086EQKkc1JSugaMbrpQYyq"
-    },
-    {
-      "added_at": "2023-04-28 04:01:00",
-      "album": {
-        "name": "Not Here / Not Now",
-        "url": "https://open.spotify.com/album/0pO4nHmz5vGINmvO31sE5N"
-      },
-      "artists": [
-        {
-          "name": "Kurt Elling",
-          "url": "https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61"
-        },
-        {
-          "name": "Charlie Hunter",
-          "url": "https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc"
-        },
-        {
-          "name": "Huntertones",
-          "url": "https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd"
-        }
-      ],
-      "duration_ms": 255953,
-      "name": "Not Here / Not Now",
-      "url": "https://open.spotify.com/track/7fopfIiFlzdFIdHwqtNsIG"
     },
     {
       "added_at": "2023-05-05 04:01:00",
@@ -2129,38 +2201,6 @@
       "url": "https://open.spotify.com/track/71GSsZ6FLorCVQHtrG9HVJ"
     },
     {
-      "added_at": "2021-05-07 04:09:00",
-      "album": {
-        "name": "The Hit",
-        "url": "https://open.spotify.com/album/4loBAN5ILsy8FFl4xcaALe"
-      },
-      "artists": [
-        {
-          "name": "Robert Walter",
-          "url": "https://open.spotify.com/artist/4vqJywDSqxaNITMBlTRGER"
-        },
-        {
-          "name": "Eddie Roberts",
-          "url": "https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI"
-        },
-        {
-          "name": "Adam Deitch",
-          "url": "https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw"
-        },
-        {
-          "name": "WRD Trio",
-          "url": "https://open.spotify.com/artist/3X7BXKZNdJxqDhkIxgwzCM"
-        },
-        {
-          "name": "Nick Gerlach",
-          "url": "https://open.spotify.com/artist/2uoITnBqKWeWlBsYk3tC1t"
-        }
-      ],
-      "duration_ms": 270106,
-      "name": "Chum City",
-      "url": "https://open.spotify.com/track/2zdWHYYe0aqqzBjOKEvE8k"
-    },
-    {
       "added_at": "2021-06-18 04:01:00",
       "album": {
         "name": "Mutual Attraction Vol. 2",
@@ -3097,26 +3137,6 @@
       "url": "https://open.spotify.com/track/2fsoIJDXpypgCP9aquwOYC"
     },
     {
-      "added_at": "2021-06-25 04:02:00",
-      "album": {
-        "name": "Pontiac",
-        "url": "https://open.spotify.com/album/0X300GKcM8rN5cON7xrDVb"
-      },
-      "artists": [
-        {
-          "name": "Huntertones",
-          "url": "https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd"
-        },
-        {
-          "name": "Cory Wong",
-          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
-        }
-      ],
-      "duration_ms": 224733,
-      "name": "Pontiac",
-      "url": "https://open.spotify.com/track/7i1K6szPqqpK5rdASM5c23"
-    },
-    {
       "added_at": "2022-03-25 05:00:00",
       "album": {
         "name": "Saturday Night Special",
@@ -3799,38 +3819,6 @@
       "duration_ms": 231573,
       "name": "Black Octopus",
       "url": "https://open.spotify.com/track/2cDgtkuxmABPn530SRo5bo"
-    },
-    {
-      "added_at": "2023-02-10 05:01:00",
-      "album": {
-        "name": "Family Business, Pt. 2 (Instrumental)",
-        "url": "https://open.spotify.com/album/2PDaJ4IkLAauBi55Lx7CoI"
-      },
-      "artists": [
-        {
-          "name": "Jazz Mafia",
-          "url": "https://open.spotify.com/artist/1hmznDDe3G3wAWP2BIOved"
-        },
-        {
-          "name": "Adam Theis",
-          "url": "https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ"
-        },
-        {
-          "name": "Daniel Casares",
-          "url": "https://open.spotify.com/artist/3LRzrB7J8bLTpTP7Ukf4DD"
-        },
-        {
-          "name": "Max Cowan",
-          "url": "https://open.spotify.com/artist/45QRLF7w0KJv3c8Bf4F90H"
-        },
-        {
-          "name": "Jamie Moore",
-          "url": "https://open.spotify.com/artist/2x97nEU3EZS9rDG7nsccQj"
-        }
-      ],
-      "duration_ms": 198657,
-      "name": "Stone Cold Lovin' - Instrumental",
-      "url": "https://open.spotify.com/track/3jivAYYsjOYojktybnVC9R"
     },
     {
       "added_at": "2022-07-05 14:38:42",

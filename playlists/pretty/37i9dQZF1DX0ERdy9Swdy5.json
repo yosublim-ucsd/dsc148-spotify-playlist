@@ -1,12 +1,12 @@
 {
   "description": "Los mejor de los 90s. The Best of the 90s.",
-  "num_followers": 658109,
+  "num_followers": 658415,
   "original_name": "Salsa Hits: Los 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODBlYTRlZjhiZjQ3MTRlNTA0Y2NlZDQ1MzZjMTY3MTIwNGRmMzY1",
+  "snapshot_id": "MCxkYjlhZjJlODJmNzBkOWQ0NGNjNjhkOGFmNTk5MzYxZDU1NmIxZDhm",
   "tracks": [
     {
       "added_at": "2023-03-17 00:48:14",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/2olA7NVTMFYdWOp14n8YLK"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 331773,
-      "name": "Conciencia",
-      "url": "https://open.spotify.com/track/5kwJWQgBaJWm1QZtWeC3uj"
-    },
-    {
-      "added_at": "2023-03-17 00:48:14",
-      "album": {
         "name": "Oro Salsero",
         "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 284053,
       "name": "Luna Negra",
       "url": "https://open.spotify.com/track/09Prj3ivNAC9Y80cP4eKnm"
+    },
+    {
+      "added_at": "2023-03-17 00:48:14",
+      "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/2olA7NVTMFYdWOp14n8YLK"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 331773,
+      "name": "Conciencia",
+      "url": "https://open.spotify.com/track/5kwJWQgBaJWm1QZtWeC3uj"
     },
     {
       "added_at": "2023-03-17 00:48:14",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
-        "name": "Siempre Una Aventura",
-        "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 354973,
-      "name": "Gotas De Lluvia",
-      "url": "https://open.spotify.com/track/3wBuU391TaEr9NEPkN1e1j"
-    },
-    {
-      "added_at": "2023-03-17 00:48:14",
-      "album": {
         "name": "Oro Salsero",
         "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 287266,
       "name": "Si Te Preguntan",
       "url": "https://open.spotify.com/track/3Bg1xF0RPxbFN4eIen8PSG"
+    },
+    {
+      "added_at": "2023-03-17 00:48:14",
+      "album": {
+        "name": "Siempre Una Aventura",
+        "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 354973,
+      "name": "Gotas De Lluvia",
+      "url": "https://open.spotify.com/track/3wBuU391TaEr9NEPkN1e1j"
     },
     {
       "added_at": "2023-03-17 00:48:14",
@@ -1623,18 +1623,18 @@
     {
       "added_at": "2023-03-17 00:48:14",
       "album": {
-        "name": "Oro Salsero (20 \u00c9xitos)",
-        "url": "https://open.spotify.com/album/2VChfDMXaPMlzVRWGvDwVU"
+        "name": "Aparentemente",
+        "url": "https://open.spotify.com/album/1pXqrfucKSsABnhOGmTJ7U"
       },
       "artists": [
         {
-          "name": "Hector Tricoche",
-          "url": "https://open.spotify.com/artist/7GvSqZ1gF1sl3VvGRmQ2En"
+          "name": "Tony Vega",
+          "url": "https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY"
         }
       ],
-      "duration_ms": 298000,
-      "name": "A Coraz\u00f3n Abierto",
-      "url": "https://open.spotify.com/track/02YdtrTmmpo1HeEk9P4Ngl"
+      "duration_ms": 293506,
+      "name": "Deja",
+      "url": "https://open.spotify.com/track/5kagFOpEGvv3gi5DgPyPX4"
     }
   ],
   "unique_name": "Salsa Hits: Los 90s",

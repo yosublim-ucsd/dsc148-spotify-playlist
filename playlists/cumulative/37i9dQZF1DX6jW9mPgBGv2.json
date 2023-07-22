@@ -307,6 +307,24 @@
     },
     {
       "album": {
+        "name": "Billetes de 100",
+        "url": "https://open.spotify.com/album/6p5t1YD8b1sD9CK6y9HqK7"
+      },
+      "artists": [
+        {
+          "name": "Neutro Shorty",
+          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Billetes de 100",
+      "url": "https://open.spotify.com/track/3uxOuhjpRNrduuLfelV1Cr"
+    },
+    {
+      "album": {
         "name": "3O",
         "url": "https://open.spotify.com/album/1pg2wYeS9f748uM2fgZBMh"
       },

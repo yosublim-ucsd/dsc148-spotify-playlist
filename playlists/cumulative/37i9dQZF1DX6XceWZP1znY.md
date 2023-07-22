@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-776 songs - 2 day 3 hr 9 min
+777 songs - 2 day 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -366,7 +366,7 @@
 | [TBD](https://open.spotify.com/track/6t4HZstA6tlgXyhTwcry6R) | [\(K\)NoW\_NAME](https://open.spotify.com/artist/422qjlzkDtxmaeeOLhnE6A) | [TVアニメ「SPY×FAMILY」オリジナル・サウンドトラック](https://open.spotify.com/album/3eTggf0BQGCCjSKTPehaHD) | 3:56 | 2022-06-07 | 2022-07-29 |
 | [Tell me](https://open.spotify.com/track/12MNPXTSJp3n2YvrzsCSv0) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [eyes](https://open.spotify.com/album/3FFBo52XG8Iqz2c9NvLJRn) | 3:43 | 2022-06-07 |  |
 | [Tell me](https://open.spotify.com/track/0Q5iAvLaf5gPOXBdwn2xTI) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Tell me](https://open.spotify.com/album/69PUaIre9obNtcnh1uM4YS) | 3:43 | 2022-06-07 | 2022-07-29 |
-| [THE ANSWER](https://open.spotify.com/track/2TQRsVtJBQnD0y6rPRCIA1) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [86―エイティシックス― オリジナル・サウンドトラック](https://open.spotify.com/album/2SlW3LaVSzRseiFdXRmssc) | 3:46 | 2022-06-07 |  |
+| [THE ANSWER](https://open.spotify.com/track/2TQRsVtJBQnD0y6rPRCIA1) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [86―エイティシックス― オリジナル・サウンドトラック](https://open.spotify.com/album/2SlW3LaVSzRseiFdXRmssc) | 3:46 | 2022-06-07 | 2023-07-22 |
 | [The Planet](https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Planet](https://open.spotify.com/album/7uaI73cqw8YC2ViewZAai5) | 2:58 | 2023-05-25 | 2023-06-17 |
 | [The Rumbling](https://open.spotify.com/track/5JJKkuYGj99dfws5MiiJSR) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [The Rumbling](https://open.spotify.com/album/6WNTfLApSKQPPlqWHwgLq8) | 3:40 | 2022-06-07 | 2022-07-29 |
 | [The Rumbling](https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [The Rumbling](https://open.spotify.com/album/0YK5JsSCN2Z8g1ejHuBqeg) | 3:40 | 2022-06-07 | 2023-05-02 |
@@ -753,6 +753,7 @@
 | [衝撃](https://open.spotify.com/track/2GeK108DTmnSEfwwCR85mp) | [Yuko Ando](https://open.spotify.com/artist/12dhEcVUnJVnIQLt91VdA3) | [衝撃](https://open.spotify.com/album/6wuiJYEregDGHkpvtHKmEU) | 3:01 | 2022-06-07 | 2022-07-29 |
 | [裸の勇者](https://open.spotify.com/track/3k64vNcgYPkETG7TNgpW4o) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [裸の勇者](https://open.spotify.com/album/3Wu7a56Nl1iml7pwR4Fvv7) | 3:21 | 2022-06-07 |  |
 | [言えない](https://open.spotify.com/track/4Pgfcz3P83oJHdRvO0NJ0Q) | [MIMiNARI](https://open.spotify.com/artist/4v0TaIftFJ7Mkx7j5Cvrzv), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [言えない](https://open.spotify.com/album/5ApBDaAa7sZWVDN1poztE3) | 3:24 | 2022-08-11 | 2022-12-03 |
+| [誰が為](https://open.spotify.com/track/5WMxky8j2WtDQtVAHFwqyB) | [メガテラ・ゼロ](https://open.spotify.com/artist/4I7F7bTQ9tBnRI2razDP9B) | [誰が為](https://open.spotify.com/album/13ghpfyEQoSpAhnTAe8wFu) | 4:05 | 2023-07-07 |  |
 | [誰も彼も何処も何も知らない](https://open.spotify.com/track/4HXLOgMIVNTfiuWiMBoRa4) | [ASOBI同盟](https://open.spotify.com/artist/4J0zXugKZIlVBUxoM2DrRE) | [TVアニメ「天国大魔境」エンディングテーマ「誰も彼も何処も何も知らない」](https://open.spotify.com/album/5PHNBwNEV5PhEpMyDbtMeg) | 3:40 | 2023-04-21 |  |
 | [負けイベ実況プレイ](https://open.spotify.com/track/7KRcAcbxPVrQLHouMK9hvB) | [15才](https://open.spotify.com/artist/2kB1cnoc2xQmt7CUciONPZ), [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [負けイベ実況プレイ](https://open.spotify.com/album/1TGTkkNtcGIlM2q3V2gp9L) | 3:28 | 2022-06-07 | 2022-06-22 |
 | [貴方の側に。](https://open.spotify.com/track/6TTAZeyRDN03BHlhQ9Lq6L) | [Riria.](https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS) | [貴方の側に。](https://open.spotify.com/album/4l2NmkiWx4EKEfZ1d4QXSM) | 4:02 | 2023-07-07 |  |

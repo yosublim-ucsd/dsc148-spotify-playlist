@@ -1,12 +1,12 @@
 {
   "description": "The bluesy side of jazz",
-  "num_followers": 86550,
+  "num_followers": 86601,
   "original_name": "Jazz-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMmM4MDg5NjQ0N2YyNjA2YjVmMjk4ZTFiN2U0OWQ2ZjI2Y2FmZGIw",
+  "snapshot_id": "MCwyMDJmMWI1OGI2NzdhMmFhNjVhNjljMmQ1OTRjZDZjYTEyOTIxZjBm",
   "tracks": [
     {
       "added_at": "2020-10-12 18:15:54",
@@ -455,18 +455,18 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Workin' With The Miles Davis Quintet",
-        "url": "https://open.spotify.com/album/7buLIJn2VuqsVORghMEvli"
+        "name": "Verve Jazz Masters 10: Dizzy Gillespie",
+        "url": "https://open.spotify.com/album/1nhJMRUIhJhSl6vshTJvGH"
       },
       "artists": [
         {
-          "name": "Miles Davis Quintet",
-          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
+          "name": "Dizzy Gillespie",
+          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
         }
       ],
-      "duration_ms": 512146,
-      "name": "Trane's Blues",
-      "url": "https://open.spotify.com/track/2jArAY0sRtdIN8r9oS0ryO"
+      "duration_ms": 297493,
+      "name": "Birks' Works",
+      "url": "https://open.spotify.com/track/189Ut7anuQjKNbiHIHBOaa"
     },
     {
       "added_at": "2020-10-12 18:15:54",
@@ -487,18 +487,18 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Verve Jazz Masters 10: Dizzy Gillespie",
-        "url": "https://open.spotify.com/album/1nhJMRUIhJhSl6vshTJvGH"
+        "name": "Workin' With The Miles Davis Quintet",
+        "url": "https://open.spotify.com/album/7buLIJn2VuqsVORghMEvli"
       },
       "artists": [
         {
-          "name": "Dizzy Gillespie",
-          "url": "https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn"
+          "name": "Miles Davis Quintet",
+          "url": "https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx"
         }
       ],
-      "duration_ms": 297493,
-      "name": "Birks' Works",
-      "url": "https://open.spotify.com/track/189Ut7anuQjKNbiHIHBOaa"
+      "duration_ms": 512146,
+      "name": "Trane's Blues",
+      "url": "https://open.spotify.com/track/2jArAY0sRtdIN8r9oS0ryO"
     },
     {
       "added_at": "2020-10-12 18:15:54",

@@ -933,6 +933,28 @@
     },
     {
       "album": {
+        "name": "Music for The Starling Girl (Score & Music from the Original Motion Picture)",
+        "url": "https://open.spotify.com/album/1mDpO84TgiUxVHI81x8h36"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        },
+        {
+          "name": "Ben Schneider",
+          "url": "https://open.spotify.com/artist/501ebBxChWPmTwFhmZzOLh"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155413,
+      "name": "Mysteries",
+      "url": "https://open.spotify.com/track/3GtcIhRWihrsWXackQw2HN"
+    },
+    {
+      "album": {
         "name": "American Underdog (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4xxpX7jMfO1TUdbGpvTfTE"
       },

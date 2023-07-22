@@ -732,7 +732,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 221533,
       "name": "Another Heart",
       "url": "https://open.spotify.com/track/7hiX2B01zsQxzQn7Sc6UNV"
@@ -3324,6 +3324,24 @@
       "duration_ms": 240133,
       "name": "False Alarms (with Jon Bellion)",
       "url": "https://open.spotify.com/track/4hG1MCciEGpxL4mOZaxRqt"
+    },
+    {
+      "album": {
+        "name": "Far Too Much (Edit)",
+        "url": "https://open.spotify.com/album/3lX0OPG0tJAgcNjsUCmKm2"
+      },
+      "artists": [
+        {
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195945,
+      "name": "Far Too Much - Edit",
+      "url": "https://open.spotify.com/track/7IwYXEY1pLVnoWlmvdmMU1"
     },
     {
       "album": {
@@ -7636,7 +7654,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 231551,
       "name": "Normal",
       "url": "https://open.spotify.com/track/7j6r88KZPacrIqtTGO9jMG"
@@ -11180,6 +11198,24 @@
       "duration_ms": 260959,
       "name": "Way With Words",
       "url": "https://open.spotify.com/track/6ioeN8jQ8Qc3tS8dhpoAVi"
+    },
+    {
+      "album": {
+        "name": "we all could use some help",
+        "url": "https://open.spotify.com/album/7yCPSxaV1pRzXrdMKWuCYz"
+      },
+      "artists": [
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143146,
+      "name": "we all could use some help",
+      "url": "https://open.spotify.com/track/6B7aGZA0Tfipg9ox1umX01"
     },
     {
       "album": {

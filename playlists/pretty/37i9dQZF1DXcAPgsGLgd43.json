@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4NjkxODgwMCwwMDAwMDAwMDE2OTg1NjIwOGRmMDc5M2NjOTRhNjdjOTRhNWYxYzIz",
+  "snapshot_id": "MCwwZGVmNDUwOGEyNzE0MWM0ZWU2ZDFjN2FmNDVmODUwZjg5ZDI1ZmVh",
   "tracks": [
     {
       "added_at": "2022-02-11 17:33:41",
@@ -211,8 +211,8 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Sway (Mucho Mambo)",
-        "url": "https://open.spotify.com/album/7ngZbEyU4cyL01MU6O0VIr"
+        "name": "Magalenha (feat. Sergio Mendes)",
+        "url": "https://open.spotify.com/album/3wO3DaZVQkYIQYUFZww9x4"
       },
       "artists": [
         {
@@ -220,13 +220,17 @@
           "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
         },
         {
-          "name": "Yvvan Back",
-          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
+          "name": "Gregor Salto",
+          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
+        },
+        {
+          "name": "S\u00e9rgio Mendes",
+          "url": "https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7"
         }
       ],
-      "duration_ms": 159360,
-      "name": "Sway (Mucho Mambo)",
-      "url": "https://open.spotify.com/track/5Un9adXHRrNedbZt9QLC2C"
+      "duration_ms": 209551,
+      "name": "Magalenha (feat. Sergio Mendes)",
+      "url": "https://open.spotify.com/track/0cIadtlc6acyPFeWcSJlDg"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -383,8 +387,8 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Magalenha (feat. Sergio Mendes)",
-        "url": "https://open.spotify.com/album/3wO3DaZVQkYIQYUFZww9x4"
+        "name": "Sway (Mucho Mambo)",
+        "url": "https://open.spotify.com/album/7ngZbEyU4cyL01MU6O0VIr"
       },
       "artists": [
         {
@@ -392,17 +396,13 @@
           "url": "https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc"
         },
         {
-          "name": "Gregor Salto",
-          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
-        },
-        {
-          "name": "S\u00e9rgio Mendes",
-          "url": "https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7"
+          "name": "Yvvan Back",
+          "url": "https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3"
         }
       ],
-      "duration_ms": 209551,
-      "name": "Magalenha (feat. Sergio Mendes)",
-      "url": "https://open.spotify.com/track/0cIadtlc6acyPFeWcSJlDg"
+      "duration_ms": 159360,
+      "name": "Sway (Mucho Mambo)",
+      "url": "https://open.spotify.com/track/5Un9adXHRrNedbZt9QLC2C"
     },
     {
       "added_at": "2021-10-08 15:53:55",
@@ -925,28 +925,20 @@
       "url": "https://open.spotify.com/track/0DYJ1yBwVhiuppTmBd8ZLy"
     },
     {
-      "added_at": "2021-10-08 15:53:55",
+      "added_at": "2021-11-05 06:05:00",
       "album": {
-        "name": "Felicidad (Colombian Mix)",
-        "url": "https://open.spotify.com/album/6IYzRZ6FfbYaueT0vivHSF"
+        "name": "Cumbia Tropical",
+        "url": "https://open.spotify.com/album/1AB9MImjBERGHTLNwhUnUn"
       },
       "artists": [
         {
-          "name": "Cato Anaya",
-          "url": "https://open.spotify.com/artist/507rh33OTfUsKJiVI6Urec"
-        },
-        {
-          "name": "The Cube Guys",
-          "url": "https://open.spotify.com/artist/2orIEMw3OyKWIaZ6CGueGg"
-        },
-        {
-          "name": "LA GUR\u00da",
-          "url": "https://open.spotify.com/artist/5t4bsXVxbRW0nxuCPuNuxz"
+          "name": "Ilary Montanari",
+          "url": "https://open.spotify.com/artist/5hSt4Q5c4lReEZr6Uaz8BA"
         }
       ],
-      "duration_ms": 355680,
-      "name": "Felicidad - Colombian Mix",
-      "url": "https://open.spotify.com/track/179w55cexITAFHwisxwRaE"
+      "duration_ms": 381899,
+      "name": "Cumbia Tropical",
+      "url": "https://open.spotify.com/track/1H8sxtzrwWhFGiGamurqnW"
     }
   ],
   "unique_name": "Alma",

@@ -4,7 +4,7 @@
 
 > Music from the ether to focus and study to.
 
-216 songs - 11 hr 25 min
+217 songs - 11 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Alaska](https://open.spotify.com/track/6SfeqlQllT5pLCr4uCmkVK) | [The Yené](https://open.spotify.com/artist/4JxRczlzeGuDkMmpun9jXu) | [Alaska](https://open.spotify.com/album/07BDWmcQOd33q7Pbk8aO2e) | 2:00 | 2023-06-02 |  |
 | [Another Routine Day Breaks](https://open.spotify.com/track/3zgpJfyPtpX38aZUnu4peT) | [Brokeback](https://open.spotify.com/artist/2iQyHU4IeFpP9lU6OTtfKE) | [Field Recordings from the Cook County Water Table](https://open.spotify.com/album/32zOl1bVoUW35RlXQ9sGu1) | 5:00 | 2022-03-30 |  |
 | [Anthem for No State, Pt\. I](https://open.spotify.com/track/16CsL4rZzbx3MttvLucFs8) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [Luciferian Towers](https://open.spotify.com/album/2eOMttZbB9lBc9LLMj56xj) | 3:05 | 2022-03-30 | 2022-07-29 |
-| [Anthem for No State, Pt\. I](https://open.spotify.com/track/5EXm1kIT9hxrGdCwdJKpDr) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [Luciferian Towers](https://open.spotify.com/album/6NeicP84ZRNL2yMlWS6XzH) | 3:05 | 2022-07-15 |  |
+| [Anthem for No State, Pt\. I](https://open.spotify.com/track/5EXm1kIT9hxrGdCwdJKpDr) | [Godspeed You! Black Emperor](https://open.spotify.com/artist/4svpOyfmQKuWpHLjgy4cdK) | [Luciferian Towers](https://open.spotify.com/album/6NeicP84ZRNL2yMlWS6XzH) | 3:05 | 2022-07-15 | 2023-07-22 |
 | [Asparagus](https://open.spotify.com/track/4f6TUxoYmaY3zKvZZg7QOd) | [Chris Wood](https://open.spotify.com/artist/4BPvG2S70zaX8zwlHlooqZ) | [Handmade Life](https://open.spotify.com/album/7kRT0cIG57gQnrSgHxCHhY) | 3:49 | 2022-03-30 | 2022-11-18 |
 | [At The Meadows](https://open.spotify.com/track/3lNjQSSfa7SFJkLZWiAsaL) | [Stillheten](https://open.spotify.com/artist/2G0WSKy6gi5KNPbVVpze0W) | [At The Meadows](https://open.spotify.com/album/4rcgEBuwQNrXOEdIE67RBf) | 2:25 | 2022-05-25 |  |
 | [Ataraxis](https://open.spotify.com/track/2m33pIkWBFub681XX7uU2C) | [The Lauras](https://open.spotify.com/artist/74peGW942Kitctt6pBEeUg) | [Ataraxis](https://open.spotify.com/album/3hMe7PdgB6dGx5J7HEJWvb) | 2:05 | 2023-02-03 |  |
@@ -51,6 +51,7 @@
 | [Entering Orbit](https://open.spotify.com/track/3RnuKGjbUw9VZpakg1jzhs) | [Starlight Passage](https://open.spotify.com/artist/5tPdr8cTxT89zPEENTLWoh) | [Entering Orbit](https://open.spotify.com/album/1SuwNAVBZdmY0uB1mUHIwZ) | 2:49 | 2022-09-14 |  |
 | [Epoque](https://open.spotify.com/track/0WUmEgNPYXDCe8zwecTlYk) | [ARCADIA](https://open.spotify.com/artist/2892cyfN2JOBuTQGkPl62T) | [Epoque](https://open.spotify.com/album/6BXVSh9Izt5gRFUUeaF2iw) | 2:05 | 2023-04-14 |  |
 | [Estuarium](https://open.spotify.com/track/2ukibgP8lmxgYTHEqcdikz) | [The Eventide](https://open.spotify.com/artist/6jbL9UQUCzae8Vn3NcwQJ6) | [Estuarium](https://open.spotify.com/album/13M0hOUhKMTnKYH0AYFZiv) | 3:10 | 2022-03-30 |  |
+| [Eternal Life](https://open.spotify.com/track/0qVl1dXbbdqb7HfjAqYjNK) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde) | [Point Of Entry](https://open.spotify.com/album/7aDfAxYIvKK1VSbSwhgFpe) | 4:08 | 2023-07-21 |  |
 | [ethereal nightshade](https://open.spotify.com/track/1zuGJlN7qtUUkqDwbvtaRi) | [Sleeping Lizard](https://open.spotify.com/artist/7qerdaChwh3pZG2Ce1rjD7) | [ethereal nightshade](https://open.spotify.com/album/0cUidGib6mOXgnT0YrLLGg) | 2:24 | 2022-12-19 |  |
 | [Exit](https://open.spotify.com/track/065wPKi9Ldumw5BqGSqWA0) | [ARCADIA](https://open.spotify.com/artist/2892cyfN2JOBuTQGkPl62T) | [Exit](https://open.spotify.com/album/4ecx91bGlsoXRz7P66I04O) | 2:11 | 2022-08-19 |  |
 | [Fade Away](https://open.spotify.com/track/3MwcUcy1w5aN1gMxPgSfwq) | [Astron](https://open.spotify.com/artist/6qiuwoB9ro3SX0ZjSXnr0y) | [Falling Deeply](https://open.spotify.com/album/3zbWYMOUTQ7NkicTxKmAJQ) | 4:02 | 2022-03-30 |  |

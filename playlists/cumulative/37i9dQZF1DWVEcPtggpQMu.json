@@ -4977,6 +4977,24 @@
     },
     {
       "album": {
+        "name": "Casino Baby",
+        "url": "https://open.spotify.com/album/1UDJ8c4NebJW5yPLN3GU0o"
+      },
+      "artists": [
+        {
+          "name": "Mass The Difference",
+          "url": "https://open.spotify.com/artist/0r9ER4ar9ptZGOGkjqGcpv"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219435,
+      "name": "Jokers",
+      "url": "https://open.spotify.com/track/5Vx33ZfYmSl9HHqk5xKwpt"
+    },
+    {
+      "album": {
         "name": "031 To The World",
         "url": "https://open.spotify.com/album/42B0ywOKjPe803XKxQFgQt"
       },
@@ -6320,7 +6338,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 142949,
       "name": "MIDDLE MAN",
       "url": "https://open.spotify.com/track/5sNSrrroWxzVO6jPHxtrBQ"

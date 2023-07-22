@@ -3877,6 +3877,24 @@
     },
     {
       "album": {
+        "name": "Downpour",
+        "url": "https://open.spotify.com/album/3zcbr2SwtMAry4XicwbKdV"
+      },
+      "artists": [
+        {
+          "name": "Our Hollow, Our Home",
+          "url": "https://open.spotify.com/artist/6zrSK4adBQJaCJuhGNKJEl"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214112,
+      "name": "Downpour",
+      "url": "https://open.spotify.com/track/2AQyiYOl2fVe7ZYHOKkEbj"
+    },
+    {
+      "album": {
         "name": "Drag Me Down (feat. Jamie Hails)",
         "url": "https://open.spotify.com/album/1or1Y8UCe75sabzYynWIn0"
       },
@@ -4040,6 +4058,24 @@
       "duration_ms": 285000,
       "name": "Dust of the Bereaved",
       "url": "https://open.spotify.com/track/5wfILshQZtz9pKTOBEuH95"
+    },
+    {
+      "album": {
+        "name": "Earn It",
+        "url": "https://open.spotify.com/album/5iPPJrnEto3sGfm7pyws7s"
+      },
+      "artists": [
+        {
+          "name": "The Ghost Inside",
+          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186333,
+      "name": "Earn It",
+      "url": "https://open.spotify.com/track/1dEDi8paa8WJCnt42Rkb8W"
     },
     {
       "album": {

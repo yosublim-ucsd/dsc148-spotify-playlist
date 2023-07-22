@@ -237,6 +237,24 @@
     },
     {
       "album": {
+        "name": "Breathe & Push / Watch Wut You Say",
+        "url": "https://open.spotify.com/album/0VGEKMUfTZ3OYlmlf2YMy9"
+      },
+      "artists": [
+        {
+          "name": "Demuir",
+          "url": "https://open.spotify.com/artist/57fp8oZ2P90tIcOpmAtZEi"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399000,
+      "name": "Breathe & Push",
+      "url": "https://open.spotify.com/track/1SG0kGMF5Mx7TGGm04fsZE"
+    },
+    {
+      "album": {
         "name": "Bring The Heat",
         "url": "https://open.spotify.com/album/48oAYz2T9Iesq20OIMXNBK"
       },
@@ -278,6 +296,32 @@
       "duration_ms": 225640,
       "name": "Cada Vez - CASSIMM Remix",
       "url": "https://open.spotify.com/track/2EkkTGKerIxiOSSrPwuV7z"
+    },
+    {
+      "album": {
+        "name": "Caught My Heart",
+        "url": "https://open.spotify.com/album/0YKFzzVaSktiZZpKFqpJoM"
+      },
+      "artists": [
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        },
+        {
+          "name": "Carly Wilford",
+          "url": "https://open.spotify.com/artist/0kDLD7hkKb5cLyEMMi8iFN"
+        },
+        {
+          "name": "Jessica Wilde",
+          "url": "https://open.spotify.com/artist/1C3Ft1dyv1hvSrsbCnRoij"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Caught My Heart - Edit",
+      "url": "https://open.spotify.com/track/7759mGy72pjuJV6lJg9Wyx"
     },
     {
       "album": {
@@ -380,6 +424,28 @@
       "duration_ms": 180000,
       "name": "Coming On Strong - 2023 Edit",
       "url": "https://open.spotify.com/track/2AUDN3IN3SEDFi2diYW4ul"
+    },
+    {
+      "album": {
+        "name": "Confusion",
+        "url": "https://open.spotify.com/album/6f2hsnqw0gGPstIQLaz83H"
+      },
+      "artists": [
+        {
+          "name": "Alexander Technique",
+          "url": "https://open.spotify.com/artist/5nCphaO35HX9Hxq7LSfkIw"
+        },
+        {
+          "name": "Meredith O",
+          "url": "https://open.spotify.com/artist/7HHg9bHTkCLCjguiZjfIuH"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209777,
+      "name": "Confusion - Edit",
+      "url": "https://open.spotify.com/track/037UN0uS8n8p31oisYp8RL"
     },
     {
       "album": {
@@ -603,6 +669,24 @@
     },
     {
       "album": {
+        "name": "Dope",
+        "url": "https://open.spotify.com/album/3STZZzGrH6utEjSXI2q2uZ"
+      },
+      "artists": [
+        {
+          "name": "HP Vince",
+          "url": "https://open.spotify.com/artist/08Lep2BacHxwwnUaaiXvlW"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200476,
+      "name": "Dope - Edit",
+      "url": "https://open.spotify.com/track/1OPEWAHQaogdd7uNALZ6Su"
+    },
+    {
+      "album": {
         "name": "Drugs From Amsterdam",
         "url": "https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo"
       },
@@ -742,7 +826,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 142080,
       "name": "Give Me Your Love - Edit",
       "url": "https://open.spotify.com/track/28Ns3K9E0O8n1MO3aIVcOm"
@@ -772,6 +856,24 @@
       "duration_ms": 288750,
       "name": "Givin My Love (Jerome Robins Remix)",
       "url": "https://open.spotify.com/track/0U3WJYeVdygyFgojRaBVNB"
+    },
+    {
+      "album": {
+        "name": "Giving Me",
+        "url": "https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169000,
+      "name": "Giving Me",
+      "url": "https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR"
     },
     {
       "album": {
@@ -812,7 +914,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 176129,
       "name": "Go With It - Edit",
       "url": "https://open.spotify.com/track/6jHMhIdISBhDVt0SdzsenG"
@@ -896,7 +998,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 177204,
       "name": "Hendrix Flow",
       "url": "https://open.spotify.com/track/2JK7amLLxtXYavB4DJeF0Y"
@@ -1304,7 +1406,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 243870,
       "name": "Jack Had A Groove - Glen Horsborough Edit",
       "url": "https://open.spotify.com/track/68YRtsiy9LHICl8IPxhiif"
@@ -1631,6 +1733,24 @@
     },
     {
       "album": {
+        "name": "Lola\u2019s Theme (VIP)",
+        "url": "https://open.spotify.com/album/0CpH0XG5uGunfnRpfiSyl0"
+      },
+      "artists": [
+        {
+          "name": "The Shapeshifters",
+          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438260,
+      "name": "Lola\u2019s Theme - VIP",
+      "url": "https://open.spotify.com/track/53o4CYK4YtTKmrnnWV6mFP"
+    },
+    {
+      "album": {
         "name": "Lost In The Music",
         "url": "https://open.spotify.com/album/0w3VfrflmlU2PBY0tvlZAz"
       },
@@ -1706,7 +1826,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 180120,
       "name": "Make You Happy",
       "url": "https://open.spotify.com/track/5ZAtTAUvEz8jNJ5EPhsfJP"
@@ -1731,6 +1851,32 @@
     },
     {
       "album": {
+        "name": "Million Dollar Bill",
+        "url": "https://open.spotify.com/album/1vu51AVRSHyaS3D2GxzsF7"
+      },
+      "artists": [
+        {
+          "name": "Beyond Chicago",
+          "url": "https://open.spotify.com/artist/1fU8WO9zbHN8ylxhoh9ix7"
+        },
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        },
+        {
+          "name": "Alex Mills",
+          "url": "https://open.spotify.com/artist/6z9EDgWh3ZJZKIJI5Q71Cq"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173561,
+      "name": "Million Dollar Bill",
+      "url": "https://open.spotify.com/track/33o5QF5ZEAllqV4jDnRYu7"
+    },
+    {
+      "album": {
         "name": "Miracle Maker",
         "url": "https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU"
       },
@@ -1750,6 +1896,32 @@
       "duration_ms": 188592,
       "name": "Miracle Maker",
       "url": "https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK"
+    },
+    {
+      "album": {
+        "name": "Move With Me (Todd Terry Extended Remix)",
+        "url": "https://open.spotify.com/album/3hpoG2nJnwKPMfPlY207pp"
+      },
+      "artists": [
+        {
+          "name": "Mia More",
+          "url": "https://open.spotify.com/artist/5LokU7BD5Ue4oLzjtUWYGU"
+        },
+        {
+          "name": "Able Faces",
+          "url": "https://open.spotify.com/artist/7nL523vzwv24ad0oFf2VZ2"
+        },
+        {
+          "name": "Todd Terry",
+          "url": "https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186666,
+      "name": "Move With Me - Todd Terry Remix",
+      "url": "https://open.spotify.com/track/1ml3JWTEvWUJNj5tovHz75"
     },
     {
       "album": {
@@ -1838,7 +2010,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 403000,
       "name": "MYB",
       "url": "https://open.spotify.com/track/2tA7OipNGwIJCAOpGdfqP1"
@@ -1856,7 +2028,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 224760,
       "name": "Nothing Left To Lose",
       "url": "https://open.spotify.com/track/02zPsXmSUP6Rr1Z2w5KMpf"
@@ -1892,7 +2064,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 366203,
       "name": "Oshun",
       "url": "https://open.spotify.com/track/43fIZwn9Ix0J3oLZur21pD"
@@ -1910,7 +2082,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 190080,
       "name": "Out My Way",
       "url": "https://open.spotify.com/track/1W67Y84L9500hrERiRRgBB"
@@ -2302,7 +2474,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 175833,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/0cTDPvlLlj1T3WwUMzX6Uq"
@@ -2403,6 +2575,28 @@
     },
     {
       "album": {
+        "name": "Take My Hand (feat. Josh Barry)",
+        "url": "https://open.spotify.com/album/3FsMheFQtusAMlfV75Nbyc"
+      },
+      "artists": [
+        {
+          "name": "Sam Divine",
+          "url": "https://open.spotify.com/artist/029RjYsk0DU8LKC92sUyXZ"
+        },
+        {
+          "name": "Josh Barry",
+          "url": "https://open.spotify.com/artist/6oruQTIjrgFYzOSKhp7Kt6"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171670,
+      "name": "Take My Hand (feat. Josh Barry)",
+      "url": "https://open.spotify.com/track/78zqqw3oLhwiifmbqHoBaN"
+    },
+    {
+      "album": {
         "name": "Talkin' Drums",
         "url": "https://open.spotify.com/album/5k6TCxCvcSpWdBpEoXBa2W"
       },
@@ -2444,6 +2638,28 @@
       "duration_ms": 187491,
       "name": "Tell You What It Is",
       "url": "https://open.spotify.com/track/6FqWqZZAV6bq2iE5dTgDNc"
+    },
+    {
+      "album": {
+        "name": "The Feeling (Capri Remix)",
+        "url": "https://open.spotify.com/album/2LMz6hXWsqzIUHUaSFzeLY"
+      },
+      "artists": [
+        {
+          "name": "Low Steppa",
+          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
+        },
+        {
+          "name": "Capri",
+          "url": "https://open.spotify.com/artist/36BbBuMd9ZJHGxYrPbcB84"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410322,
+      "name": "The Feeling - Capri Remix",
+      "url": "https://open.spotify.com/track/1fYGHl0F7PiRL4GmAqhNGp"
     },
     {
       "album": {
@@ -2738,7 +2954,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-08",
+      "date_removed": null,
       "duration_ms": 220650,
       "name": "Wasn't For The Music - Jay Vegas Remix - Radio Edit",
       "url": "https://open.spotify.com/track/2UtzdunVDu56vNvlxVwV4A"
@@ -2790,7 +3006,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 155541,
       "name": "We Kept Dancing",
       "url": "https://open.spotify.com/track/6LQK9OcjeVgTjN8iLKPVhf"
@@ -2908,7 +3124,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 226341,
       "name": "You Can't Stop Me - David Anthony House Remix Radio",
       "url": "https://open.spotify.com/track/6WurQwbDgwLHNdZgi1v7ZJ"

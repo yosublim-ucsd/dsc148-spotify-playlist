@@ -1,12 +1,12 @@
 {
   "description": "As you prepare and settle into your romantic dinner, let us provide the soundtrack with these RnB/Soul love songs.",
-  "num_followers": 257367,
+  "num_followers": 257397,
   "original_name": "Wine & Dine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTAxNjg3Yzc4MTUwMmY0MzM0MmE5YjgyNzk4OTI5MzQ4ZGMxNzdj",
+  "snapshot_id": "MCwwZWNmOTU5YjU3Mzk4N2JhMTljNTkwN2Q4Nzg5ZDNmYjdjZDFjZGMz",
   "tracks": [
     {
       "added_at": "2022-05-24 13:35:26",
@@ -659,6 +659,22 @@
     {
       "added_at": "2022-05-24 13:35:26",
       "album": {
+        "name": "Positivity",
+        "url": "https://open.spotify.com/album/45BNZeFrf7HSGAogA2CZ5M"
+      },
+      "artists": [
+        {
+          "name": "Incognito",
+          "url": "https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs"
+        }
+      ],
+      "duration_ms": 394773,
+      "name": "Deep Waters",
+      "url": "https://open.spotify.com/track/0XCigmR8QYuE1hz9jSv8Eh"
+    },
+    {
+      "added_at": "2022-05-24 13:35:26",
+      "album": {
         "name": "Outrun The Sky",
         "url": "https://open.spotify.com/album/6owHkIavlncFxnnbUMJwbE"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 352400,
       "name": "Forever, For Always, For Love",
       "url": "https://open.spotify.com/track/6tQX9qDeJ88Vhk7uZfFvNo"
-    },
-    {
-      "added_at": "2022-05-24 13:35:26",
-      "album": {
-        "name": "True to Myself",
-        "url": "https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3"
-      },
-      "artists": [
-        {
-          "name": "Eric Ben\u00e9t",
-          "url": "https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov"
-        }
-      ],
-      "duration_ms": 286973,
-      "name": "Let's Stay Together - Midnight Mix",
-      "url": "https://open.spotify.com/track/13fIg7eB5MP9slSQayHhjH"
     },
     {
       "added_at": "2022-05-24 13:35:26",
@@ -707,18 +707,18 @@
     {
       "added_at": "2022-05-24 13:35:26",
       "album": {
-        "name": "Positivity",
-        "url": "https://open.spotify.com/album/45BNZeFrf7HSGAogA2CZ5M"
+        "name": "True to Myself",
+        "url": "https://open.spotify.com/album/0HgmysKc552d8G01TdbUa3"
       },
       "artists": [
         {
-          "name": "Incognito",
-          "url": "https://open.spotify.com/artist/5moJNCJeiNwuQAhDLJXULs"
+          "name": "Eric Ben\u00e9t",
+          "url": "https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov"
         }
       ],
-      "duration_ms": 394773,
-      "name": "Deep Waters",
-      "url": "https://open.spotify.com/track/0XCigmR8QYuE1hz9jSv8Eh"
+      "duration_ms": 286973,
+      "name": "Let's Stay Together - Midnight Mix",
+      "url": "https://open.spotify.com/track/13fIg7eB5MP9slSQayHhjH"
     },
     {
       "added_at": "2022-05-24 13:35:26",

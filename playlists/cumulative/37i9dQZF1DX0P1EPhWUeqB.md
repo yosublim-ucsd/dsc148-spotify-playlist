@@ -4,7 +4,7 @@
 
 > Desde el corazón del rancho, las mejores interpretaciones en vivo\. Virlán García en portada.
 
-58 songs - 3 hr 7 min
+59 songs - 3 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Prision de Amor \(En Vivo\)](https://open.spotify.com/track/6xD9FbY40IWNyXW9TQFZLr) | [Arturo Coronel y el Buen Estilo](https://open.spotify.com/artist/4lFwjsLFRLWRtjtsNjl5al) | [En Vivo Fiesta Privada](https://open.spotify.com/album/2p8XaEUalyK1AW0odivWfM) | 3:00 | 2022-12-30 |  |
 | [Que Me Falto \- En vivo](https://open.spotify.com/track/1nFSmF0g3tO3c5Y1FbTBsE) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Despegando el Vuelo \(En vivo\)](https://open.spotify.com/album/3Ftnxdxa5fGWKuMMrncCNF) | 3:41 | 2022-12-30 |  |
 | [Recuerda](https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 2:30 | 2022-12-30 |  |
-| [Rey de Corazones](https://open.spotify.com/track/2RIv4aSthOp2R6xMXU0JG1) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Homenaje a Ariel Camacho](https://open.spotify.com/album/1wa28qmB7ntPQ1iMhJlRCX) | 3:36 | 2022-12-30 |  |
+| [Rey de Corazones](https://open.spotify.com/track/0M6JOa2qb0C260t9ZZYBkq) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Homenaje a Ariel Camacho](https://open.spotify.com/album/2y2hsLQTXs010SHxs0lOFg) | 3:36 | 2023-06-09 |  |
+| [Rey de Corazones](https://open.spotify.com/track/2RIv4aSthOp2R6xMXU0JG1) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Homenaje a Ariel Camacho](https://open.spotify.com/album/1wa28qmB7ntPQ1iMhJlRCX) | 3:36 | 2022-12-30 | 2023-07-22 |
 | [Se Me Olvidaba](https://open.spotify.com/track/3NxlNvOYq3hgFhmQtXiVrK) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Homenaje a Ariel Camacho](https://open.spotify.com/album/1wa28qmB7ntPQ1iMhJlRCX) | 3:58 | 2022-12-30 | 2023-06-10 |
 | [Si Una Vez \- En Vivo](https://open.spotify.com/track/2wdYohLJjdHt6jZASIGZuC) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Pistiembre Todo El Año \(En Vivo\)](https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt) | 2:54 | 2022-12-30 |  |
 | [Sigo Chambeando](https://open.spotify.com/track/4PR0r2us3a64lTew6TVlF2) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Jimmy Humilde Presenta Lo Mejor De Las Calles Vol\. 4](https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX) | 3:20 | 2022-12-30 |  |

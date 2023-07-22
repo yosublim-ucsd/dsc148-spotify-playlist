@@ -4,7 +4,7 @@
 
 > La música que te acompaña en el amor\. Foto: Rusherking
 
-185 songs - 10 hr 9 min
+186 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,8 @@
 | [Tanto Tiempo](https://open.spotify.com/track/4yf4uC5sUEDd5wmTmQ5TNl) | [Santiago Saez](https://open.spotify.com/artist/6cH6fFLynkDD94hGNqacHV) | [Tanto Tiempo](https://open.spotify.com/album/0NNubU1dSIvFt4xrm8qxCI) | 2:37 | 2022-01-14 | 2022-07-16 |
 | [Tarde](https://open.spotify.com/track/0lkwcRAUa1LnzBisyKtAqg) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Tarde](https://open.spotify.com/album/13cTtlvPu7FxZwSR1okLKi) | 3:06 | 2022-01-14 | 2022-04-06 |
 | [Te Echo de Menos](https://open.spotify.com/track/5e8muKs11JnVqyEBMsLYFg) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Te Echo de Menos](https://open.spotify.com/album/0HVcUL17jKyY4F8PqiUF8T) | 3:25 | 2022-11-11 | 2023-06-17 |
-| [Te Necesito \(Live Acoustic\)](https://open.spotify.com/track/79uVK69HCjcVEKsVcl4DAB) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Te Necesito \(Live Acoustic\)](https://open.spotify.com/album/22HjtWbGDotQroRs9Wo3KH) | 3:15 | 2022-01-14 |  |
+| [Te Necesito \(Live Acoustic\)](https://open.spotify.com/track/5WKZKW5LNPUYI8X5AZAxau) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Te Necesito \(Live Acoustic\)](https://open.spotify.com/album/2N2uXaMFPE1ijwSgJADheH) | 3:15 | 2023-07-14 |  |
+| [Te Necesito \(Live Acoustic\)](https://open.spotify.com/track/79uVK69HCjcVEKsVcl4DAB) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Te Necesito \(Live Acoustic\)](https://open.spotify.com/album/22HjtWbGDotQroRs9Wo3KH) | 3:15 | 2022-01-14 | 2023-07-22 |
 | [Te Olvidaré](https://open.spotify.com/track/1z48NPFPNJEV4UAg83OFd2) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [TINI TINI TINI](https://open.spotify.com/album/16TT0OKoyEgD22nj70WUEi) | 3:14 | 2022-01-14 | 2022-07-23 |
 | [Te Quiero](https://open.spotify.com/track/67Rux9WNh2bIIK0Ub1prft) | [Jo Dimata](https://open.spotify.com/artist/5sTptBGZPv9RocQoROWhAp) | [Te Quiero](https://open.spotify.com/album/6zSxml88fNR8yHBztM0ZcQ) | 4:12 | 2022-05-20 | 2022-10-08 |
 | [Te Quiero X Eso](https://open.spotify.com/track/6MXtWx5mWkj8XJaEqouzCW) | [MYA](https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW) | [Te Quiero X Eso](https://open.spotify.com/album/6EMS97vhi3QuWjD8xkt7Uc) | 3:30 | 2022-01-14 |  |

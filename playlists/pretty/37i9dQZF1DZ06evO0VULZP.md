@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 
 > This is Descendents\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,460 likes - 41 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,475 likes - 41 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0VULZP.md) - [plain]
 | 40 | [Can't Go Back](https://open.spotify.com/track/3vCE0zXuuwLkhBFCZdtsbR) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [I Don't Want to Grow Up](https://open.spotify.com/album/7pjDCKTmSaK6t1vRA6e0wA) | 1:44 |
 | 41 | [You Make Me Sick](https://open.spotify.com/track/73WGdFWbfvAxrckntllMQl) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [9th & Walnut](https://open.spotify.com/album/2nWhDLqVYsmlsiw1K2PkFs) | 0:56 |
 
-Snapshot ID: `MjgxNjQzMDgsMDAwMDAwMDBlZmM3MWUxMzA0N2VkOWE4NGMyNzA4NWI0MDlhNDY4Yw==`
+Snapshot ID: `MjgxNjU3NzcsMDAwMDAwMDBiYmFmZDg1ZjViM2MzZGJkYjU5OWYzNTU5OWU0MmUzYw==`

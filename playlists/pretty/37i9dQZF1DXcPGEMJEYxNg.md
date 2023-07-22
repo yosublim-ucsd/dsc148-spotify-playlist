@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPGEMJEYxNg.md) - [plain]
 
 > In partnership with <a href="https://goldhouse.org/">Gold House</a>, we are excited to announce our second Gold House Future Music Guild artists: Mad Tsai, Rhea Raj & Alex Porat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,673 likes - 58 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,686 likes - 58 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPGEMJEYxNg.md) - [plain]
 | 54 | [DEATH TRIP](https://open.spotify.com/track/1cENnHoIyYcBm5ubz3h1q9) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD), [Soft Lipa](https://open.spotify.com/artist/3Xp3DA50zRP4TYOtNR7k1T) | [DEATH TRIP](https://open.spotify.com/album/6RF7gZXUtYNfLngg1ziZQJ) | 3:42 |
 | 55 | [Runner's High](https://open.spotify.com/track/0CZmNfrd1SNrQQb8IePsdQ) | [Gonhills](https://open.spotify.com/artist/3iHJKqkuPN45iZUjREBEp0), [Clavita](https://open.spotify.com/artist/3J6rkpg316KEM3dvDsizb7) | [Runner's High](https://open.spotify.com/album/4qblox0bZ9AJxi5UGF6nr4) | 2:01 |
 | 56 | [once in a moon](https://open.spotify.com/track/4ZlHqeXbItX1qC86aFUax1) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [once in a moon](https://open.spotify.com/album/0P6uxMt91VW5taeFKNx963) | 4:05 |
-| 57 | [summer](https://open.spotify.com/track/4osRLDg7abL4hLdfZ1c39g) | [RAFA](https://open.spotify.com/artist/4dnl0VOP7cS57VQOWxr3ND), [EJEAN](https://open.spotify.com/artist/2h1C4NVjSJnWrUeo4Z4dFz) | [summer](https://open.spotify.com/album/2BLrXMpziCnaHv0gEeyjQ3) | 2:12 |
+| 57 | [summer](https://open.spotify.com/track/4osRLDg7abL4hLdfZ1c39g) | [raph](https://open.spotify.com/artist/4dnl0VOP7cS57VQOWxr3ND), [EJEAN](https://open.spotify.com/artist/2h1C4NVjSJnWrUeo4Z4dFz) | [summer](https://open.spotify.com/album/2BLrXMpziCnaHv0gEeyjQ3) | 2:12 |
 | 58 | [Fashionably Late](https://open.spotify.com/track/4gG73FSWLBH5DlkmgaKJtv) | [Nieman](https://open.spotify.com/artist/4SwV4H2atecTIdXKyLfSfR) | [Fashionably Late](https://open.spotify.com/album/4eBlEJK3JKGWGeElVlxJhI) | 3:17 |
 
-Snapshot ID: `MCwyNWM2YjA5NmNlODQ1NmMyZDc2M2Q0NzBkYzMyY2JmYmRiNWExYzdk`
+Snapshot ID: `MCxlZmNjYTIzZjIyNWJmOTZjMzZhNjE5YzA5NTk1ZGEyNTk1MzA5NDgy`

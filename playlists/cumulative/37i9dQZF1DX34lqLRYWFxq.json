@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "New adventures in rock start here. Cover: The Glorious Sons",
+  "description": "New adventures in rock start here. Cover: maxime.",
   "name": "Ready to Rock",
   "tracks": [
     {
@@ -118,6 +118,24 @@
       "duration_ms": 234538,
       "name": "A Clue",
       "url": "https://open.spotify.com/track/36RfHeopjQ4kuPtNdf63yw"
+    },
+    {
+      "album": {
+        "name": "A Heart Beating",
+        "url": "https://open.spotify.com/album/0Sya0ufUWUYAfuBPEi1bkb"
+      },
+      "artists": [
+        {
+          "name": "Mother Tongues",
+          "url": "https://open.spotify.com/artist/5hSQzNi3OjFwQmAfkrYTdz"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150746,
+      "name": "A Heart Beating",
+      "url": "https://open.spotify.com/track/03dDrBv8W6NyPI1XTMkVe9"
     },
     {
       "album": {
@@ -320,6 +338,24 @@
       "duration_ms": 165792,
       "name": "Alligator",
       "url": "https://open.spotify.com/track/7Ji5WgryQfftdi7zN4BPUM"
+    },
+    {
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/7FJk7TXIX6TR8i5sMe6kgQ"
+      },
+      "artists": [
+        {
+          "name": "Patrick Krief",
+          "url": "https://open.spotify.com/artist/3qLS4mXlfuL6vnKdDe2dK6"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275723,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/4dnDKF9rvioVRrWTTzEzAl"
     },
     {
       "album": {
@@ -569,6 +605,24 @@
     },
     {
       "album": {
+        "name": "Half Glow",
+        "url": "https://open.spotify.com/album/13oTS8HGiFF1HmucmoMFpj"
+      },
+      "artists": [
+        {
+          "name": "The Penske File",
+          "url": "https://open.spotify.com/artist/26ib3Vuhrpl8LXfb5GGYCh"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187804,
+      "name": "Bad Dreams",
+      "url": "https://open.spotify.com/track/1LZWVffprff6rcWqPteIJf"
+    },
+    {
+      "album": {
         "name": "bad note",
         "url": "https://open.spotify.com/album/2mp93U5wYNG9pNOuOX2nh9"
       },
@@ -688,7 +742,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 176005,
       "name": "Blame Brett",
       "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
@@ -908,7 +962,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 168000,
       "name": "bubble boi",
       "url": "https://open.spotify.com/track/0g1o9HmpAmCLYYDESbhfZm"
@@ -1424,7 +1478,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 190344,
       "name": "Crumbled",
       "url": "https://open.spotify.com/track/3h4UYObZmzgrym6Gzw35iA"
@@ -1442,7 +1496,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 245287,
       "name": "Cyanide Stories",
       "url": "https://open.spotify.com/track/66xTBU3pnLgq7oRKfpI4Nj"
@@ -1514,7 +1568,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 164400,
       "name": "deathrow honeymoon",
       "url": "https://open.spotify.com/track/2bHgTRULzOqXltq764vJQ6"
@@ -1677,6 +1731,24 @@
     },
     {
       "album": {
+        "name": "DOPAMINE",
+        "url": "https://open.spotify.com/album/3LVXGFy9HeSFsRl9iLp3PQ"
+      },
+      "artists": [
+        {
+          "name": "Mute Choir",
+          "url": "https://open.spotify.com/artist/3gpigA0gozgJpoFVyhVUPu"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167093,
+      "name": "DOPAMINE",
+      "url": "https://open.spotify.com/track/5zn72oZUR8Ldi1pRF1fVUe"
+    },
+    {
+      "album": {
         "name": "Doppelganger",
         "url": "https://open.spotify.com/album/0OteLvsgL7ZN14DLYQzBaO"
       },
@@ -1814,7 +1886,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 295273,
       "name": "Effigy",
       "url": "https://open.spotify.com/track/5sq0Qz9jH2rKLLZNFrBueQ"
@@ -2708,6 +2780,24 @@
       "duration_ms": 186077,
       "name": "Home",
       "url": "https://open.spotify.com/track/4OwToWXzwBlOX2i015SKRQ"
+    },
+    {
+      "album": {
+        "name": "hot girls in hell",
+        "url": "https://open.spotify.com/album/7Cg3eGiwQB6KVfVoEMWi8y"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170494,
+      "name": "hot girls in hell",
+      "url": "https://open.spotify.com/track/7vys2uYSgV5eN1QvdBw6iz"
     },
     {
       "album": {
@@ -3641,6 +3731,24 @@
     },
     {
       "album": {
+        "name": "Me & Me",
+        "url": "https://open.spotify.com/album/6zmMU4QN9I1a05rqCLuQpi"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147596,
+      "name": "Me & Me",
+      "url": "https://open.spotify.com/track/3VJqv26NK9cCRXsjDKJOGY"
+    },
+    {
+      "album": {
         "name": "Dinosaur",
         "url": "https://open.spotify.com/album/2pvd7WBSWo76lZeufdC34a"
       },
@@ -4059,6 +4167,24 @@
     },
     {
       "album": {
+        "name": "No Return (Lottie's Dream Sequence From The Original Series \u201cYellowjackets\u201d)",
+        "url": "https://open.spotify.com/album/6G0kmbUxRMuYWptVeptxNn"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116192,
+      "name": "No Return - Lottie's Dream Sequence From The Original Series \u201cYellowjackets\u201d",
+      "url": "https://open.spotify.com/track/0mo3BA6ELym3bu1UvcAKoZ"
+    },
+    {
+      "album": {
         "name": "Noise in the Forest",
         "url": "https://open.spotify.com/album/5RmlPHpfwvI64T3tXk5crf"
       },
@@ -4218,7 +4344,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 154590,
       "name": "omg",
       "url": "https://open.spotify.com/track/4wQlMwDDOxTY91kk5B7Y77"
@@ -4864,6 +4990,24 @@
       "duration_ms": 139428,
       "name": "Sad Dumb Game",
       "url": "https://open.spotify.com/track/21IiYgR0LsCZMat4qaeoyD"
+    },
+    {
+      "album": {
+        "name": "Sad Sugar",
+        "url": "https://open.spotify.com/album/5OvMdAdEOoSY2W6OKyjHBn"
+      },
+      "artists": [
+        {
+          "name": "New Friends",
+          "url": "https://open.spotify.com/artist/7aHNy2bjgGqOeFqUZ1shgb"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175699,
+      "name": "Sad Sugar",
+      "url": "https://open.spotify.com/track/4YBRbPgnOiv9cz78HC8CT7"
     },
     {
       "album": {
@@ -6538,7 +6682,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 175573,
       "name": "Worm Day",
       "url": "https://open.spotify.com/track/73StJzaaOh9v695eoFtWAg"

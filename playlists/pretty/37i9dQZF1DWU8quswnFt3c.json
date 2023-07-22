@@ -1,12 +1,12 @@
 {
   "description": "Listen to women from all over the world, at full volume. Cover: CLAUDIA ",
-  "num_followers": 916330,
+  "num_followers": 916292,
   "original_name": "EQUAL Global",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWY3ZGRlNjU1MGY3MmE4ODhhNmMzZmI5NGFkYmJiMjFkNjFhNDBj",
+  "snapshot_id": "MCxkN2VhYWZkNDBjMDE4ZDA5N2Y2OGI5MTZlOWE1NjZmODBiMjExZDhl",
   "tracks": [
     {
       "added_at": "2023-07-07 18:52:48",
@@ -191,6 +191,30 @@
     {
       "added_at": "2023-07-07 18:52:48",
       "album": {
+        "name": "\u05e4\u05e8\u05d5\u05d1\u05d5\u05e7\u05d8\u05d9\u05d1\u05d9\u05ea",
+        "url": "https://open.spotify.com/album/0p6jsDXnFQ1nJqOZ5buGSx"
+      },
+      "artists": [
+        {
+          "name": "Noa Kirel",
+          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
+        },
+        {
+          "name": "Forever Tel Aviv",
+          "url": "https://open.spotify.com/artist/4j52sdXcMG3iMbXzTbQQ0q"
+        },
+        {
+          "name": "Sagi Kariv",
+          "url": "https://open.spotify.com/artist/1Ki10qeE3KkXcpu9gsyq5a"
+        }
+      ],
+      "duration_ms": 154921,
+      "name": "\u05e4\u05e8\u05d5\u05d1\u05d5\u05e7\u05d8\u05d9\u05d1\u05d9\u05ea",
+      "url": "https://open.spotify.com/track/2b9TjqgLxE6zOZc4DSmYYx"
+    },
+    {
+      "added_at": "2023-07-07 18:52:48",
+      "album": {
         "name": "SUKA",
         "url": "https://open.spotify.com/album/6HMVNohYiUCt2igg0wPBKp"
       },
@@ -215,30 +239,6 @@
       "duration_ms": 390033,
       "name": "SUKA",
       "url": "https://open.spotify.com/track/1eb2pZlRqGLndvOj8MHaTD"
-    },
-    {
-      "added_at": "2023-07-07 18:52:48",
-      "album": {
-        "name": "\u05e4\u05e8\u05d5\u05d1\u05d5\u05e7\u05d8\u05d9\u05d1\u05d9\u05ea",
-        "url": "https://open.spotify.com/album/0p6jsDXnFQ1nJqOZ5buGSx"
-      },
-      "artists": [
-        {
-          "name": "Noa Kirel",
-          "url": "https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD"
-        },
-        {
-          "name": "Forever Tel Aviv",
-          "url": "https://open.spotify.com/artist/4j52sdXcMG3iMbXzTbQQ0q"
-        },
-        {
-          "name": "Sagi Kariv",
-          "url": "https://open.spotify.com/artist/1Ki10qeE3KkXcpu9gsyq5a"
-        }
-      ],
-      "duration_ms": 154921,
-      "name": "\u05e4\u05e8\u05d5\u05d1\u05d5\u05e7\u05d8\u05d9\u05d1\u05d9\u05ea",
-      "url": "https://open.spotify.com/track/2b9TjqgLxE6zOZc4DSmYYx"
     },
     {
       "added_at": "2023-07-07 18:52:48",
@@ -527,6 +527,22 @@
     {
       "added_at": "2023-07-07 18:52:48",
       "album": {
+        "name": "Amok",
+        "url": "https://open.spotify.com/album/7mUh92qMoAmLccin67zYtr"
+      },
+      "artists": [
+        {
+          "name": "Amber Broos",
+          "url": "https://open.spotify.com/artist/6WYC0ES42uaiJPtdBKDkIz"
+        }
+      ],
+      "duration_ms": 282272,
+      "name": "Amok",
+      "url": "https://open.spotify.com/track/41fl1aHm371uXzcWVQEBJr"
+    },
+    {
+      "added_at": "2023-07-07 18:52:48",
+      "album": {
         "name": "Alles Vergeven",
         "url": "https://open.spotify.com/album/7DuamzfHwRc03kH3Nu53Yg"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 169558,
       "name": "Alles Vergeven",
       "url": "https://open.spotify.com/track/0mlq1DTHPuugqFxb5ZRyju"
-    },
-    {
-      "added_at": "2023-07-07 18:52:48",
-      "album": {
-        "name": "\u73ab\u7470\u5c11\u5e74 - From THE FIRST TAKE",
-        "url": "https://open.spotify.com/album/5o0kzdpGdsavvzBjhQTdkH"
-      },
-      "artists": [
-        {
-          "name": "Jolin Tsai",
-          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
-        }
-      ],
-      "duration_ms": 195032,
-      "name": "\u73ab\u7470\u5c11\u5e74 - From THE FIRST TAKE",
-      "url": "https://open.spotify.com/track/4UOZ3duqmEfMKXqvkZeboh"
     },
     {
       "added_at": "2023-07-07 18:52:48",
@@ -575,18 +575,18 @@
     {
       "added_at": "2023-07-07 18:52:48",
       "album": {
-        "name": "God give me a car",
-        "url": "https://open.spotify.com/album/6Zh5VI9LAR8hzMQK3qdHST"
+        "name": "\u73ab\u7470\u5c11\u5e74 - From THE FIRST TAKE",
+        "url": "https://open.spotify.com/album/5o0kzdpGdsavvzBjhQTdkH"
       },
       "artists": [
         {
-          "name": "DAMONA",
-          "url": "https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w"
+          "name": "Jolin Tsai",
+          "url": "https://open.spotify.com/artist/1r9DuPTHiQ7hnRRZ99B8nL"
         }
       ],
-      "duration_ms": 176670,
-      "name": "God give me a car",
-      "url": "https://open.spotify.com/track/1uea73mwQFrPWDNbPSmswm"
+      "duration_ms": 195032,
+      "name": "\u73ab\u7470\u5c11\u5e74 - From THE FIRST TAKE",
+      "url": "https://open.spotify.com/track/4UOZ3duqmEfMKXqvkZeboh"
     },
     {
       "added_at": "2023-07-07 18:52:48",
@@ -607,34 +607,18 @@
     {
       "added_at": "2023-07-07 18:52:48",
       "album": {
-        "name": "Amok",
-        "url": "https://open.spotify.com/album/7mUh92qMoAmLccin67zYtr"
+        "name": "God give me a car",
+        "url": "https://open.spotify.com/album/6Zh5VI9LAR8hzMQK3qdHST"
       },
       "artists": [
         {
-          "name": "Amber Broos",
-          "url": "https://open.spotify.com/artist/6WYC0ES42uaiJPtdBKDkIz"
+          "name": "DAMONA",
+          "url": "https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w"
         }
       ],
-      "duration_ms": 282272,
-      "name": "Amok",
-      "url": "https://open.spotify.com/track/41fl1aHm371uXzcWVQEBJr"
-    },
-    {
-      "added_at": "2023-07-07 18:52:48",
-      "album": {
-        "name": "happy for you",
-        "url": "https://open.spotify.com/album/3vgatBi7QrQDi0McNPwlnL"
-      },
-      "artists": [
-        {
-          "name": "judith",
-          "url": "https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA"
-        }
-      ],
-      "duration_ms": 174633,
-      "name": "happy for you",
-      "url": "https://open.spotify.com/track/1k8AXX52293tVBANnrEFg1"
+      "duration_ms": 176670,
+      "name": "God give me a car",
+      "url": "https://open.spotify.com/track/1uea73mwQFrPWDNbPSmswm"
     },
     {
       "added_at": "2023-07-07 18:52:48",
@@ -651,6 +635,22 @@
       "duration_ms": 179253,
       "name": "Diamond",
       "url": "https://open.spotify.com/track/1OjybWpjWBMDxOPNerlmDw"
+    },
+    {
+      "added_at": "2023-07-07 18:52:48",
+      "album": {
+        "name": "happy for you",
+        "url": "https://open.spotify.com/album/3vgatBi7QrQDi0McNPwlnL"
+      },
+      "artists": [
+        {
+          "name": "judith",
+          "url": "https://open.spotify.com/artist/6N3rD8rvf1LIOtQqTCXnVA"
+        }
+      ],
+      "duration_ms": 174633,
+      "name": "happy for you",
+      "url": "https://open.spotify.com/track/1k8AXX52293tVBANnrEFg1"
     },
     {
       "added_at": "2023-07-07 18:52:48",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-07-07 18:52:48",
       "album": {
+        "name": "Alf Rooh (\u0623\u0644\u0641 \u0631\u0648\u062d)",
+        "url": "https://open.spotify.com/album/2vqM1d2q5lvZPI6j1xf8ZE"
+      },
+      "artists": [
+        {
+          "name": "Balqees",
+          "url": "https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI"
+        }
+      ],
+      "duration_ms": 178714,
+      "name": "Alf Rooh - \u0623\u0644\u0641 \u0631\u0648\u062d",
+      "url": "https://open.spotify.com/track/2prFWJwT8jPBGTOlHAKx2b"
+    },
+    {
+      "added_at": "2023-07-07 18:52:48",
+      "album": {
         "name": "Bobo",
         "url": "https://open.spotify.com/album/3qa8w4TZXwSsAWXzEJ8qfa"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 183711,
       "name": "Brisa 22",
       "url": "https://open.spotify.com/track/5qpi1Hckz7qEwG0k9y2MIL"
-    },
-    {
-      "added_at": "2023-07-07 18:52:48",
-      "album": {
-        "name": "Alf Rooh (\u0623\u0644\u0641 \u0631\u0648\u062d)",
-        "url": "https://open.spotify.com/album/2vqM1d2q5lvZPI6j1xf8ZE"
-      },
-      "artists": [
-        {
-          "name": "Balqees",
-          "url": "https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI"
-        }
-      ],
-      "duration_ms": 178714,
-      "name": "Alf Rooh - \u0623\u0644\u0641 \u0631\u0648\u062d",
-      "url": "https://open.spotify.com/track/2prFWJwT8jPBGTOlHAKx2b"
     },
     {
       "added_at": "2023-07-07 18:52:48",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-07-07 18:52:48",
       "album": {
-        "name": "Taxi",
-        "url": "https://open.spotify.com/album/7viLr1VxgLKU31I4cX0Gia"
-      },
-      "artists": [
-        {
-          "name": "LANDOKMAI",
-          "url": "https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt"
-        }
-      ],
-      "duration_ms": 176012,
-      "name": "Taxi",
-      "url": "https://open.spotify.com/track/6D0fx8HHiA8vXiyvNGDZRf"
-    },
-    {
-      "added_at": "2023-07-07 18:52:48",
-      "album": {
         "name": "Como las Aves",
         "url": "https://open.spotify.com/album/44uhTcHqT2A2ksmAIl0hWY"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 138400,
       "name": "Como las Aves",
       "url": "https://open.spotify.com/track/27bBykUqwr8sdKtXfVQqGY"
+    },
+    {
+      "added_at": "2023-07-07 18:52:48",
+      "album": {
+        "name": "Taxi",
+        "url": "https://open.spotify.com/album/7viLr1VxgLKU31I4cX0Gia"
+      },
+      "artists": [
+        {
+          "name": "LANDOKMAI",
+          "url": "https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt"
+        }
+      ],
+      "duration_ms": 176012,
+      "name": "Taxi",
+      "url": "https://open.spotify.com/track/6D0fx8HHiA8vXiyvNGDZRf"
     },
     {
       "added_at": "2023-07-07 18:52:48",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-07-07 18:52:48",
       "album": {
+        "name": "Unu",
+        "url": "https://open.spotify.com/album/14ViOwDZ8noeswcMZx5Noj"
+      },
+      "artists": [
+        {
+          "name": "Aura BAE",
+          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
+        }
+      ],
+      "duration_ms": 200988,
+      "name": "Unu",
+      "url": "https://open.spotify.com/track/18wY2ze6uhtIsneBCDKV0j"
+    },
+    {
+      "added_at": "2023-07-07 18:52:48",
+      "album": {
         "name": "No problem",
         "url": "https://open.spotify.com/album/3XlMqFZVcQqlseAiJ5cXrt"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 163795,
       "name": "No Problem",
       "url": "https://open.spotify.com/track/5U4GsYIJtI495ulVPGqPfE"
-    },
-    {
-      "added_at": "2023-07-07 18:52:48",
-      "album": {
-        "name": "Unu",
-        "url": "https://open.spotify.com/album/14ViOwDZ8noeswcMZx5Noj"
-      },
-      "artists": [
-        {
-          "name": "Aura BAE",
-          "url": "https://open.spotify.com/artist/7jIywNxfjSZ2Dxm6OOzQPF"
-        }
-      ],
-      "duration_ms": 200988,
-      "name": "Unu",
-      "url": "https://open.spotify.com/track/18wY2ze6uhtIsneBCDKV0j"
     },
     {
       "added_at": "2023-07-07 18:52:48",
@@ -1123,38 +1123,6 @@
     {
       "added_at": "2023-07-07 18:52:48",
       "album": {
-        "name": "back to me",
-        "url": "https://open.spotify.com/album/2J7Utc8BqKvS4HWDOyRDlf"
-      },
-      "artists": [
-        {
-          "name": "Vivien Yap",
-          "url": "https://open.spotify.com/artist/71gWfXRZ2vs5cQ7Bfh9M53"
-        }
-      ],
-      "duration_ms": 190769,
-      "name": "back to me",
-      "url": "https://open.spotify.com/track/2DKMdkAal5If57D4ltQQur"
-    },
-    {
-      "added_at": "2023-07-07 18:52:48",
-      "album": {
-        "name": "No me arrepiento de nada",
-        "url": "https://open.spotify.com/album/015ZqggE3HgaHHhM6CJldk"
-      },
-      "artists": [
-        {
-          "name": "Julieta Laso",
-          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
-        }
-      ],
-      "duration_ms": 158700,
-      "name": "No me arrepiento de nada",
-      "url": "https://open.spotify.com/track/7Hv3OYXAvrEQGPutmehZz0"
-    },
-    {
-      "added_at": "2023-07-07 18:52:48",
-      "album": {
         "name": "LIVE ARCHIVE",
         "url": "https://open.spotify.com/album/61SLmgZrabr4zY2QcUN9I6"
       },
@@ -1207,18 +1175,34 @@
     {
       "added_at": "2023-07-07 18:52:48",
       "album": {
-        "name": "El Muro",
-        "url": "https://open.spotify.com/album/61ncSl5eA5WIdTxMvieAIw"
+        "name": "back to me",
+        "url": "https://open.spotify.com/album/2J7Utc8BqKvS4HWDOyRDlf"
       },
       "artists": [
         {
-          "name": "Juana Aguirre",
-          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
+          "name": "Vivien Yap",
+          "url": "https://open.spotify.com/artist/71gWfXRZ2vs5cQ7Bfh9M53"
         }
       ],
-      "duration_ms": 193953,
-      "name": "El Muro",
-      "url": "https://open.spotify.com/track/71hFIxMRthZAvbpnbLwpn5"
+      "duration_ms": 190769,
+      "name": "back to me",
+      "url": "https://open.spotify.com/track/2DKMdkAal5If57D4ltQQur"
+    },
+    {
+      "added_at": "2023-07-07 18:52:48",
+      "album": {
+        "name": "No me arrepiento de nada",
+        "url": "https://open.spotify.com/album/015ZqggE3HgaHHhM6CJldk"
+      },
+      "artists": [
+        {
+          "name": "Julieta Laso",
+          "url": "https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk"
+        }
+      ],
+      "duration_ms": 158700,
+      "name": "No me arrepiento de nada",
+      "url": "https://open.spotify.com/track/7Hv3OYXAvrEQGPutmehZz0"
     },
     {
       "added_at": "2023-07-07 18:52:48",
@@ -1239,6 +1223,22 @@
     {
       "added_at": "2023-07-07 18:52:48",
       "album": {
+        "name": "El Muro",
+        "url": "https://open.spotify.com/album/61ncSl5eA5WIdTxMvieAIw"
+      },
+      "artists": [
+        {
+          "name": "Juana Aguirre",
+          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
+        }
+      ],
+      "duration_ms": 193953,
+      "name": "El Muro",
+      "url": "https://open.spotify.com/track/71hFIxMRthZAvbpnbLwpn5"
+    },
+    {
+      "added_at": "2023-07-07 18:52:48",
+      "album": {
         "name": "blank",
         "url": "https://open.spotify.com/album/1dwWkxy42aiaNqR2ikiibz"
       },
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-07-07 18:52:48",
       "album": {
-        "name": "Baddie In The Passenger Seat",
-        "url": "https://open.spotify.com/album/2FfDtG01GbJKRGfG4aGwph"
-      },
-      "artists": [
-        {
-          "name": "Farah Sakhi",
-          "url": "https://open.spotify.com/artist/1iOGqJ1TomA1Knjec4iFzi"
-        }
-      ],
-      "duration_ms": 170666,
-      "name": "Baddie In The Passenger Seat",
-      "url": "https://open.spotify.com/track/3mpS0gDJGWQ9Isj9w8lGWa"
-    },
-    {
-      "added_at": "2023-07-07 18:52:48",
-      "album": {
         "name": "Brilla",
         "url": "https://open.spotify.com/album/3pFcpg0Jmp8HPPhhY6zeEZ"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 234782,
       "name": "Brilla",
       "url": "https://open.spotify.com/track/2JGcwevMe58r2VTgPNHoFR"
+    },
+    {
+      "added_at": "2023-07-07 18:52:48",
+      "album": {
+        "name": "Baddie In The Passenger Seat",
+        "url": "https://open.spotify.com/album/2FfDtG01GbJKRGfG4aGwph"
+      },
+      "artists": [
+        {
+          "name": "Farah Sakhi",
+          "url": "https://open.spotify.com/artist/1iOGqJ1TomA1Knjec4iFzi"
+        }
+      ],
+      "duration_ms": 170666,
+      "name": "Baddie In The Passenger Seat",
+      "url": "https://open.spotify.com/track/3mpS0gDJGWQ9Isj9w8lGWa"
     }
   ],
   "unique_name": "EQUAL Global",

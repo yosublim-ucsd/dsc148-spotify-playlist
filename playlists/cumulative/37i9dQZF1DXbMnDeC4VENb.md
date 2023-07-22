@@ -4,11 +4,12 @@
 
 > Una eufórica dosis de urbano romántico en español.
 
-132 songs - 7 hr 45 min
+135 songs - 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#LQMQ](https://open.spotify.com/track/6FCB0OEs5XTCtdywDhAnsE) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [\#LQMQ](https://open.spotify.com/album/5aOEkoqeFndGKRtFPWTyrk) | 3:35 | 2022-05-25 | 2022-06-28 |
+| [0cm](https://open.spotify.com/track/4WCk2VAPDqySlBSxZTlNjK) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [0cm](https://open.spotify.com/album/5TTk79eZvPAB7D6PvrdANe) | 2:38 | 2023-07-21 |  |
 | [AFRODISIACO](https://open.spotify.com/track/2mB8alPfoXyO1cOzjxL5ng) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3) | [FOTOS DE FAMILIA Vol\. 1](https://open.spotify.com/album/3JqqNRyCHjYOlFEhLDiV94) | 2:48 | 2023-06-02 |  |
 | [Agua Salada](https://open.spotify.com/track/5waMzAyPrIUdzGImMeUQEF) | [cKovi](https://open.spotify.com/artist/3sdVgczphtmF1sKTgPZrOO) | [Agua Salada](https://open.spotify.com/album/4XuniTXMjxP6MKAV5sbbQB) | 3:12 | 2023-04-14 |  |
 | [Amnesia](https://open.spotify.com/track/2CRXFBkRh0V7FZL5kuiqdO) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Amnesia](https://open.spotify.com/album/7x0UG4rToHvR7HkzqGN06a) | 3:08 | 2022-06-27 |  |
@@ -29,6 +30,7 @@
 | [Cada Noche](https://open.spotify.com/track/0Rj2gmEcyAOSxYMh2YGxR7) | [Jauria Santa](https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV) | [Cada Noche](https://open.spotify.com/album/4HAKbXAdUnsyRNtW3dZdGW) | 3:25 | 2022-06-27 |  |
 | [Cada Noche](https://open.spotify.com/track/7KiDbUVG7iJeFoEaHC3oja) | [Jauria Santa](https://open.spotify.com/artist/662f8mEv1eRLXE9DzBy4vV) | [Cada Noche](https://open.spotify.com/album/1W8mhbDRuIVtsNAcDB7pJZ) | 3:25 | 2022-05-25 | 2022-07-29 |
 | [Cara Bonita](https://open.spotify.com/track/7luI1wVUAJ3SkmpUJvqBZC) | [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Cara Bonita](https://open.spotify.com/album/5F8BSnBKdH0hCuDUjcsRpF) | 3:40 | 2023-02-10 |  |
+| [Colibrí](https://open.spotify.com/track/3SB4BggLTilRbeqErh059h) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Colibrí](https://open.spotify.com/album/65f71lgoP71F7dN6ubyg9P) | 2:30 | 2023-07-21 |  |
 | [Complicado](https://open.spotify.com/track/3eGpyKNSwZH2E738CjK9w1) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [No Teníamos Nada, Pero Éramos Felices](https://open.spotify.com/album/23c29N9eKBUKm7sljfJMgs) | 3:59 | 2022-10-17 |  |
 | [Complicado](https://open.spotify.com/track/5LxtXRqA2i3LBWdJiqE91O) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [Ervin River](https://open.spotify.com/artist/5FJ0JzZcNCGhquRX2zPmbL) | [Complicado](https://open.spotify.com/album/5JOuCtRnFr7hM271TWk3YC) | 4:00 | 2022-05-25 | 2022-12-12 |
 | [Confianza](https://open.spotify.com/track/4chzKVwJz3Dt0ryO3Vd9ue) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Inefable](https://open.spotify.com/album/5AcfM2EiLTrnFxQjpo7mxp) | 3:27 | 2022-05-25 |  |
@@ -98,6 +100,7 @@
 | [Qué Bonita](https://open.spotify.com/track/6sKHf7XZWBHQlShNLNm73F) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Qué Bonita](https://open.spotify.com/album/3YwzuRRgvGIUKxNbbB2xP8) | 3:50 | 2022-10-17 |  |
 | [Qué Más Da](https://open.spotify.com/track/2hlfF82K7N4Faivl5spUYR) | [Stilo](https://open.spotify.com/artist/6nyqrmf9qc4W94YKtsPel9), [Solitario Mondragon](https://open.spotify.com/artist/4KXpp5lz2MakNFcTszi2B9) | [Qué Más Da](https://open.spotify.com/album/1uwybis0C2LleyWdZDc2KA) | 3:17 | 2023-06-23 |  |
 | [Quédate](https://open.spotify.com/track/5RBSfEU71gXJ7jxfqSbYiR) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Quédate](https://open.spotify.com/album/5PQ6Wuj8cc5FLh9Lk7RZ4o) | 3:20 | 2022-06-16 |  |
+| [Química Orgánica](https://open.spotify.com/track/3DPm68zR6GdQK5t2cGB1LN) | [Santos Woge](https://open.spotify.com/artist/5lnra4ar7XaI27La68JLBC), [Canto Quetzal](https://open.spotify.com/artist/5q2JMx13gkrD62aHfBgoUa) | [Química Orgánica](https://open.spotify.com/album/5GWVt24X4rpkLmkEf5stb7) | 3:38 | 2023-07-21 |  |
 | [Sabanas Blancas](https://open.spotify.com/track/0IBhXEEKXhv0bdpboaw5M3) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Frenia](https://open.spotify.com/album/6DtziobPePcdasV0uUycOn) | 4:14 | 2023-07-14 |  |
 | [Se Me Pasó](https://open.spotify.com/track/7q6uwjL8IQ4cTJplzwdqu6) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Se Me Pasó](https://open.spotify.com/album/3JrWWDWTNdrsHX9QZf2ya3) | 3:59 | 2022-05-25 |  |
 | [Secreto de Dos](https://open.spotify.com/track/01bwAVAAZqqMpPWmHvbuNC) | [Gayo Valdez](https://open.spotify.com/artist/0uCVN0ZSViQ4xVwJsDqfVo), [Abu Barrett](https://open.spotify.com/artist/3upuqvUR0PdgTBAnB1ehyj) | [Secreto de Dos](https://open.spotify.com/album/4CiGeQYuRbwlSn1uzNWWOu) | 2:29 | 2023-05-19 |  |

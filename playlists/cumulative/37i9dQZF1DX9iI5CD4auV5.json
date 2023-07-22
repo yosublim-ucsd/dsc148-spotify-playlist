@@ -31,6 +31,28 @@
     },
     {
       "album": {
+        "name": "20HZ (Marco Lys Remix)",
+        "url": "https://open.spotify.com/album/6rvVrZ3c9jKWzGt9OEbt5M"
+      },
+      "artists": [
+        {
+          "name": "Capricorn",
+          "url": "https://open.spotify.com/artist/27kBITGF0FaikAGzLhGS3l"
+        },
+        {
+          "name": "Marco Lys",
+          "url": "https://open.spotify.com/artist/5WiohqjMNs7MtChjoHE9D1"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384374,
+      "name": "20HZ - Marco Lys Remix",
+      "url": "https://open.spotify.com/track/6li9iqinbxx8ROFQRublQQ"
+    },
+    {
+      "album": {
         "name": "Snatch! OFF 071",
         "url": "https://open.spotify.com/album/1DVCoT2C4LRHfuTJj3qxjg"
       },
@@ -72,7 +94,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 367000,
       "name": "Abyss",
       "url": "https://open.spotify.com/track/3Rh3gbIpwC0LqZeugfrHv4"
@@ -126,10 +148,28 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 191344,
       "name": "Arrivederci Bella",
       "url": "https://open.spotify.com/track/1gH9SIbdEgLrbF5VtDUsPF"
+    },
+    {
+      "album": {
+        "name": "Fusion EP 03/03",
+        "url": "https://open.spotify.com/album/3NKy2y5qOIJKiU5SKzzkJu"
+      },
+      "artists": [
+        {
+          "name": "Len Faki",
+          "url": "https://open.spotify.com/artist/3fI3Z6NnYoeSQjcqPQDbM4"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347469,
+      "name": "Astra",
+      "url": "https://open.spotify.com/track/2jZJuvJiMkMBQnE1iAZQkF"
     },
     {
       "album": {
@@ -169,6 +209,28 @@
     },
     {
       "album": {
+        "name": "Balin Bali",
+        "url": "https://open.spotify.com/album/4h41fsPng99mSqYsaOu0Ge"
+      },
+      "artists": [
+        {
+          "name": "Joyce Muniz",
+          "url": "https://open.spotify.com/artist/2V5PoybhNfFnNEs0NKv44L"
+        },
+        {
+          "name": "Theus Mago",
+          "url": "https://open.spotify.com/artist/5AmmljbTOeKJcfoTd6QCd3"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 357152,
+      "name": "Balin Bali",
+      "url": "https://open.spotify.com/track/0PQK29D4eJkrHAYl8Anvcw"
+    },
+    {
+      "album": {
         "name": "Ballroom",
         "url": "https://open.spotify.com/album/3pKvEE95kPUM0ysZ5FC96R"
       },
@@ -195,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Bar A Thym / Sunshine & Twilight",
+        "url": "https://open.spotify.com/album/7myHq20xdrIj5f31Sb0NED"
+      },
+      "artists": [
+        {
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444624,
+      "name": "Bar A Thym",
+      "url": "https://open.spotify.com/track/3ZIUUxXje25Py7lcWeHNE0"
+    },
+    {
+      "album": {
         "name": "BARBEE",
         "url": "https://open.spotify.com/album/4zIFoe714x6cD9zLr5NLfn"
       },
@@ -210,10 +290,54 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 209880,
       "name": "BARBEE",
       "url": "https://open.spotify.com/track/2oOmtxMfTI3ZvxSdqlMnbS"
+    },
+    {
+      "album": {
+        "name": "BARBEE (On Acid)",
+        "url": "https://open.spotify.com/album/4afcZIEQNtU404MSb03d0h"
+      },
+      "artists": [
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        },
+        {
+          "name": "Joeski",
+          "url": "https://open.spotify.com/artist/3OsEdeMsQIAdDi2OduzED7"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208427,
+      "name": "BARBEE - On Acid",
+      "url": "https://open.spotify.com/track/7Ium6Ib92uNyQAJKqlnv9s"
+    },
+    {
+      "album": {
+        "name": "Beggin'",
+        "url": "https://open.spotify.com/album/4PCf8xkYY6ZlrQh48AQP1V"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183397,
+      "name": "Beggin'",
+      "url": "https://open.spotify.com/track/74nEGIzIefJhJ5qX7NeIAz"
     },
     {
       "album": {
@@ -250,7 +374,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 391384,
       "name": "Bigger Than Prince - Classmatic 2k23 Remix",
       "url": "https://open.spotify.com/track/6ESrIpipgBBSQ0KyOL4Mrc"
@@ -268,7 +392,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 394124,
       "name": "Bigger Than Prince - Hot Since 82 Remix",
       "url": "https://open.spotify.com/track/3PW35Q7BLZ4xoHgCRxUZ4f"
@@ -294,6 +418,32 @@
       "duration_ms": 195000,
       "name": "Bigger Than Prince - Marco Lys Remix",
       "url": "https://open.spotify.com/track/1JTGpoOr4o6eC7AiEjLdum"
+    },
+    {
+      "album": {
+        "name": "Bocat (Michael Bibi Remix)",
+        "url": "https://open.spotify.com/album/7eFCcNOJPqwfcHfdfygATF"
+      },
+      "artists": [
+        {
+          "name": "Guy Gerber",
+          "url": "https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC"
+        },
+        {
+          "name": "Albertina",
+          "url": "https://open.spotify.com/artist/5Xr5eX0ZFi76JHaRDGh8pq"
+        },
+        {
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367086,
+      "name": "Bocat - Michael Bibi Remix",
+      "url": "https://open.spotify.com/track/1pea4MX31SSMy0PeQsme33"
     },
     {
       "album": {
@@ -366,7 +516,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 327138,
       "name": "Brighter Days - Dajae- Underground Mix '93",
       "url": "https://open.spotify.com/track/09IT6ZbPsY5EioVEqeyq4j"
@@ -502,6 +652,28 @@
       "duration_ms": 383562,
       "name": "Criseide",
       "url": "https://open.spotify.com/track/094ZMBfb7D08l6ZDCtsJlr"
+    },
+    {
+      "album": {
+        "name": "Crossfade Remixe",
+        "url": "https://open.spotify.com/album/5AgyAmmEVjtVcKqY3Av1Qc"
+      },
+      "artists": [
+        {
+          "name": "GusGus",
+          "url": "https://open.spotify.com/artist/5sL9uDMwceYHPknnCLAAwJ"
+        },
+        {
+          "name": "Maceo Plex",
+          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453973,
+      "name": "Crossfade - Maceo Plex Mix",
+      "url": "https://open.spotify.com/track/2QsgqAZ4SwuipP30znNeof"
     },
     {
       "album": {
@@ -780,7 +952,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 390523,
       "name": "Full of Courage - Wild Dark Remix",
       "url": "https://open.spotify.com/track/7s3wkX5wPS8PiEOHkdEpM8"
@@ -824,7 +996,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 369156,
       "name": "Ghost City",
       "url": "https://open.spotify.com/track/2y58xgWPyOel7SLnoDDf48"
@@ -936,7 +1108,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-18",
+      "date_removed": null,
       "duration_ms": 350491,
       "name": "Hot",
       "url": "https://open.spotify.com/track/4icPhVxzQ098r5eyywM4cf"
@@ -1024,6 +1196,28 @@
       "duration_ms": 422495,
       "name": "I Don't Know - Oscar L Remix",
       "url": "https://open.spotify.com/track/6myY7jAG2B6k8LMWI2c0JM"
+    },
+    {
+      "album": {
+        "name": "If You Wait (Jamie Jones 4Z Remix)",
+        "url": "https://open.spotify.com/album/5H9SQQJxdiaMWFBrhAbSS8"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        },
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197500,
+      "name": "If You Wait - Jamie Jones 4Z Remix",
+      "url": "https://open.spotify.com/track/66UW8eUBnNYhTmtMgtnYQb"
     },
     {
       "album": {
@@ -1374,7 +1568,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 298035,
       "name": "Lone Traveller",
       "url": "https://open.spotify.com/track/2xMRar8Kb7VwlqICHgtKe2"
@@ -1693,6 +1887,24 @@
     },
     {
       "album": {
+        "name": "Now Work",
+        "url": "https://open.spotify.com/album/11VFaYGp4yZj0IssfdKJFA"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Now Work",
+      "url": "https://open.spotify.com/track/15ixNXCGP5m0MvEucuBQls"
+    },
+    {
+      "album": {
         "name": "Penguin Hit Squad",
         "url": "https://open.spotify.com/album/3SjYDcQKpLPlhb4hGPMmsx"
       },
@@ -1944,7 +2156,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 579584,
       "name": "Sea",
       "url": "https://open.spotify.com/track/0KhPmfbekOqnxePzkT6g6q"
@@ -2141,6 +2353,24 @@
     },
     {
       "album": {
+        "name": "TAKE ME HIGH",
+        "url": "https://open.spotify.com/album/60JU0EUfjJBHRp5Fb0sZYT"
+      },
+      "artists": [
+        {
+          "name": "PAWSA",
+          "url": "https://open.spotify.com/artist/4E0HD2PMY8kQJIjlShrLUS"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220531,
+      "name": "TAKE ME HIGH",
+      "url": "https://open.spotify.com/track/4dzNNV0t2Xn1XmDxEfbMmy"
+    },
+    {
+      "album": {
         "name": "Talking Walls",
         "url": "https://open.spotify.com/album/6DN8nBL2ftOAMxiyaIUD3J"
       },
@@ -2327,6 +2557,24 @@
     },
     {
       "album": {
+        "name": "Jamz4peoplez, Vol. 2 EP",
+        "url": "https://open.spotify.com/album/4A11Dr98MkJQtBChzwQtb7"
+      },
+      "artists": [
+        {
+          "name": "AVNU (UK)",
+          "url": "https://open.spotify.com/artist/5CIy5Kjk43j5IWOF7jiuzr"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363973,
+      "name": "The World Is Yours",
+      "url": "https://open.spotify.com/track/1dWNyygcqtadRLwsQKVYCE"
+    },
+    {
+      "album": {
         "name": "These Notes In This Order (VNSSA Remix)",
         "url": "https://open.spotify.com/album/4FUXU0h94i7H2oid7hi9MF"
       },
@@ -2437,6 +2685,32 @@
     },
     {
       "album": {
+        "name": "Voicemail (Layton Giordani Remix)",
+        "url": "https://open.spotify.com/album/2Nm01e295X9vBLH3g9FJBo"
+      },
+      "artists": [
+        {
+          "name": "Green Velvet",
+          "url": "https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2"
+        },
+        {
+          "name": "Patrick Topping",
+          "url": "https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa"
+        },
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275472,
+      "name": "Voicemail - Layton Giordani Remix",
+      "url": "https://open.spotify.com/track/2Fm1CwqVf3TN0dlZSy0lyE"
+    },
+    {
+      "album": {
         "name": "Wake Up EP",
         "url": "https://open.spotify.com/album/6V0lRrfD8pXLJSzfbe4SA5"
       },
@@ -2506,7 +2780,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 361767,
       "name": "Wild West",
       "url": "https://open.spotify.com/track/5kgLjQz31neWtTWa5xcqKH"

@@ -724,7 +724,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 190396,
       "name": "Apologies",
       "url": "https://open.spotify.com/track/0E1xO4LIXWBRxSaKVtls87"
@@ -968,6 +968,32 @@
       "duration_ms": 184986,
       "name": "Back In Traffic (feat. KIRBY)",
       "url": "https://open.spotify.com/track/569BY50TiwaEnAQYI4F6r0"
+    },
+    {
+      "album": {
+        "name": "Bad Habit",
+        "url": "https://open.spotify.com/album/4MAefGYESTnCQio1sF5gET"
+      },
+      "artists": [
+        {
+          "name": "Cypress Moreno",
+          "url": "https://open.spotify.com/artist/4jE7aARJBLLaGyKNhEm6jk"
+        },
+        {
+          "name": "Fenix Flexin",
+          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
+        },
+        {
+          "name": "Zoe Osama",
+          "url": "https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146285,
+      "name": "Bad Habit",
+      "url": "https://open.spotify.com/track/029WlDmdzpAOk50tDXb6LR"
     },
     {
       "album": {
@@ -1594,7 +1620,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 97253,
       "name": "Can't",
       "url": "https://open.spotify.com/track/4Mzw6hzfp3KPfnrdkmENUk"
@@ -3312,7 +3338,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 139514,
       "name": "flippin shit",
       "url": "https://open.spotify.com/track/6X26sSlwdfRyxPY7GccGHN"
@@ -5324,7 +5350,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 132504,
       "name": "Legendary",
       "url": "https://open.spotify.com/track/7dFIUaovJ1U3Ey4dHV0IcY"
@@ -6408,7 +6434,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 177230,
       "name": "My Skeleethe (Remix) [feat. Vinny West, BlakeIANA]",
       "url": "https://open.spotify.com/track/2HxdS9SGuX4rMYb1UJO8Si"
@@ -6430,7 +6456,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-15",
+      "date_removed": null,
       "duration_ms": 127346,
       "name": "My Skeleethe (Remix) [feat. Vinny West]",
       "url": "https://open.spotify.com/track/4aAa4pF7vaB6KH8ykcl5zK"
@@ -8487,6 +8513,28 @@
     },
     {
       "album": {
+        "name": "Chilli Season",
+        "url": "https://open.spotify.com/album/5H4WujKtDwCEdP1dsvxpwh"
+      },
+      "artists": [
+        {
+          "name": "R3 DA Chilliman",
+          "url": "https://open.spotify.com/artist/16B61T4dv1SuMrAQsbyM3e"
+        },
+        {
+          "name": "Kalan.FrFr",
+          "url": "https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110400,
+      "name": "She Said (feat. Kalan.FrFr)",
+      "url": "https://open.spotify.com/track/1zxkYiyGSn3t9NuK6IBJOR"
+    },
+    {
+      "album": {
         "name": "Sheikh Talk",
         "url": "https://open.spotify.com/album/2h9HZUoglSEwFarjdWcPzi"
       },
@@ -9181,6 +9229,24 @@
     },
     {
       "album": {
+        "name": "talk 2 em",
+        "url": "https://open.spotify.com/album/2Kwe1GT8kYZmOh6hmJhGyX"
+      },
+      "artists": [
+        {
+          "name": "AG Club",
+          "url": "https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144200,
+      "name": "talk 2 em",
+      "url": "https://open.spotify.com/track/7L4gDJcbomtunXe5zEgYGZ"
+    },
+    {
+      "album": {
         "name": "DRILLMATIC Heart vs. Mind",
         "url": "https://open.spotify.com/album/2yBfRM9cxHgHb155SdDoWl"
       },
@@ -9610,6 +9676,32 @@
       "duration_ms": 216100,
       "name": "Too Big",
       "url": "https://open.spotify.com/track/5MqvzE1pneAGrzscbXOv9u"
+    },
+    {
+      "album": {
+        "name": "Too Fast (Pull Over) (with Anderson .Paak & Latto)",
+        "url": "https://open.spotify.com/album/1KNyxPSXQoZJ2KMQySCUUo"
+      },
+      "artists": [
+        {
+          "name": "Jay Rock",
+          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226542,
+      "name": "Too Fast (Pull Over) (with Anderson .Paak & Latto)",
+      "url": "https://open.spotify.com/track/6vz3Fyhj6smbuYuaIZHksu"
     },
     {
       "album": {

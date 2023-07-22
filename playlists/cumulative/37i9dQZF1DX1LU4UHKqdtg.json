@@ -2419,6 +2419,24 @@
     },
     {
       "album": {
+        "name": "NewJeans 2nd EP 'Get Up'",
+        "url": "https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147880,
+      "name": "Cool With You",
+      "url": "https://open.spotify.com/track/02wk5BttM0QL38ERjLPQJB"
+    },
+    {
+      "album": {
         "name": "Copycat",
         "url": "https://open.spotify.com/album/0NYssBVyeMwUSRzsIKATIE"
       },
@@ -4931,6 +4949,28 @@
     },
     {
       "album": {
+        "name": "House on a Hill (feat. Em Beihold)",
+        "url": "https://open.spotify.com/album/7uitFkWZtfoUki1y2C9o8Q"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        },
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198986,
+      "name": "House on a Hill (feat. Em Beihold)",
+      "url": "https://open.spotify.com/track/2sGlzNEN74khZtPK57lfuq"
+    },
+    {
+      "album": {
         "name": "How Come",
         "url": "https://open.spotify.com/album/47auHySKFWcInG4hDJTWAi"
       },
@@ -6688,6 +6728,10 @@
         {
           "name": "VERNON",
           "url": "https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa"
         }
       ],
       "date_added": "2023-07-18",

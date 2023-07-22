@@ -4,7 +4,7 @@
 
 > Groovy, dancy, funky stuff.
 
-433 songs - 1 day 1 hr 46 min
+434 songs - 1 day 1 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Is It Magic?](https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Is It Magic?](https://open.spotify.com/album/52tH77HLGn8Dq3zjXQn20e) | 3:08 | 2023-05-04 |  |
 | [It Runs Through Me](https://open.spotify.com/track/02CygBCQOIyEuhNZqHHcNx) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 4:21 | 2022-07-22 | 2022-11-17 |
 | [It Runs Through Me](https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 4:21 | 2022-09-26 |  |
+| [It's The Life](https://open.spotify.com/track/17vvwuzQ2enu7fL93nexIP) | [FLEECE](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [It's The Life](https://open.spotify.com/album/0povJrlVpXe4j2HgW6SvEh) | 2:37 | 2023-05-04 |  |
 | [J'adore](https://open.spotify.com/track/0tlztRFDgCSnAbUxllcZJJ) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [A Butterfly In\-between Time](https://open.spotify.com/album/3yG67dwpot0imvZJ7nAXhv) | 4:12 | 2020-12-31 | 2022-07-26 |
 | [Jealous](https://open.spotify.com/track/0MuyhT3nN12w71WurEWSTN) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [Jealous](https://open.spotify.com/album/5LTnPoGjyuWwLwOcLJzFL3) | 2:08 | 2021-11-12 | 2022-06-24 |
 | [JUGGERNAUT \(feat\. Lil Uzi Vert & Pharrell Williams\)](https://open.spotify.com/track/7z4xW9WY86uH3gd1V9pfCM) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 2:26 | 2021-07-01 | 2022-04-20 |
@@ -339,7 +340,7 @@
 | [Selfish Soul \- ODESZA Remix](https://open.spotify.com/track/6N5thJ3UQMpHdf2fYOB3XL) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u), [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw) | [Selfish Soul \(ODESZA Remix\)](https://open.spotify.com/album/4aJcCRF4B3Tjefsu0aZKu2) | 3:26 | 2023-04-28 | 2023-05-05 |
 | [Sensitive](https://open.spotify.com/track/0oHEteATZnAZuA9dl1dXF3) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Sensitive](https://open.spotify.com/album/2HDvWBKuYKKxgWz3LjzMte) | 2:54 | 2020-12-31 | 2022-03-22 |
 | [Sensitive](https://open.spotify.com/track/6Vo8KwBWXiKwHa4bz4XWht) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Sensitive](https://open.spotify.com/album/3Zx1LH7RSNIsrctDzs0VJF) | 2:54 | 2021-11-12 | 2022-06-04 |
-| [Separated](https://open.spotify.com/track/5yNL07FfOxLK8onHaA7JIa) | [IAMNOBODI](https://open.spotify.com/artist/2DLlb2Se6eF0mMTYffyAcn) | [House Hues](https://open.spotify.com/album/7zOq9dtIhDjmtYzKnMQU8v) | 1:38 | 2023-01-15 |  |
+| [Separated](https://open.spotify.com/track/5yNL07FfOxLK8onHaA7JIa) | [IAMNOBODI](https://open.spotify.com/artist/2DLlb2Se6eF0mMTYffyAcn) | [House Hues](https://open.spotify.com/album/7zOq9dtIhDjmtYzKnMQU8v) | 1:38 | 2023-01-15 | 2023-07-22 |
 | [Sex](https://open.spotify.com/track/67ispalOAo3jnZWYSTTfZk) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/6Z1zv6Hw9bdvSoxI5uYk2h) | 3:27 | 2020-12-31 | 2022-04-20 |
 | [Sex n' Drugs](https://open.spotify.com/track/0MwMwvl0IVPgLAeXyeVBi1) | [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4), [Copper King](https://open.spotify.com/artist/0UcRuQorbZibK50cFtsJh3), [Harrison Sands](https://open.spotify.com/artist/5lwE4ASworJdeRDXu5g9en) | [Marbled](https://open.spotify.com/album/0IdngECK2Q2rGsFVb62Mxi) | 3:37 | 2023-01-24 | 2023-05-05 |
 | [Sex n' Drugs](https://open.spotify.com/track/0G2wimhVoDYXbQ6csDxtSf) | [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4), [Harrison Sands](https://open.spotify.com/artist/5lwE4ASworJdeRDXu5g9en), [Copper King](https://open.spotify.com/artist/0UcRuQorbZibK50cFtsJh3) | [Marbled](https://open.spotify.com/album/4UdZHRBCIoe7XCPr8KdVg7) | 3:37 | 2022-08-11 | 2023-02-23 |

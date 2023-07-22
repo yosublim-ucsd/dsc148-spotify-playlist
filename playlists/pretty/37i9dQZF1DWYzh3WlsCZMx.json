@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://open.spotify.com/playlist/5FWhibjoWhSsyfQveXzmRv?si=0a61027ee6a34d36\">HBO's Rap Sh!t</a>",
-  "num_followers": 20490,
+  "num_followers": 20541,
   "original_name": "HBO Rap Sh!t's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YjYxYzhiOTNlYmExYWMzODgzYzYzOWQwMmZkYmYzMGUxYmFkMWRm",
+  "snapshot_id": "MCxiZGY2ZTU4NWU5NzcyZDk2N2YxYmVhNWRjOTQ0MjIyYjZiZDU1YzQ3",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -335,6 +335,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "www.thug.com",
+        "url": "https://open.spotify.com/album/4HMN5pRuHF88SzZoXtJsHM"
+      },
+      "artists": [
+        {
+          "name": "Trick Daddy",
+          "url": "https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25"
+        }
+      ],
+      "duration_ms": 167400,
+      "name": "Nann Nigga",
+      "url": "https://open.spotify.com/track/7d9I42jF759n5HuUeoulzR"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Sneaky Link Shemix",
         "url": "https://open.spotify.com/album/6yjODlGE0dgBbsNUSrfrnb"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 98795,
       "name": "Sneaky Link Shemix",
       "url": "https://open.spotify.com/track/2tc16SiowJOcfHRHBwH9F1"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "www.thug.com",
-        "url": "https://open.spotify.com/album/4HMN5pRuHF88SzZoXtJsHM"
-      },
-      "artists": [
-        {
-          "name": "Trick Daddy",
-          "url": "https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25"
-        }
-      ],
-      "duration_ms": 167400,
-      "name": "Nann Nigga",
-      "url": "https://open.spotify.com/track/7d9I42jF759n5HuUeoulzR"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Nunnadet Shit",
-        "url": "https://open.spotify.com/album/5gEwrxdbRbjDUOE4EORN6W"
-      },
-      "artists": [
-        {
-          "name": "Asian Doll",
-          "url": "https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J"
-        }
-      ],
-      "duration_ms": 214583,
-      "name": "Nunnadet Shit",
-      "url": "https://open.spotify.com/track/0TResTtx98vH1rbuMMzqSh"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "January 10th",
         "url": "https://open.spotify.com/album/3pD5nHq65PfGJtd5aMNPUj"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 219107,
       "name": "Got Dem Racks",
       "url": "https://open.spotify.com/track/5bHuDZwLcuXTlFMj2XPk0S"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Nunnadet Shit",
+        "url": "https://open.spotify.com/album/5gEwrxdbRbjDUOE4EORN6W"
+      },
+      "artists": [
+        {
+          "name": "Asian Doll",
+          "url": "https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J"
+        }
+      ],
+      "duration_ms": 214583,
+      "name": "Nunnadet Shit",
+      "url": "https://open.spotify.com/track/0TResTtx98vH1rbuMMzqSh"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "II Trill",
-        "url": "https://open.spotify.com/album/726mitnLPJrg0pftxSne1O"
-      },
-      "artists": [
-        {
-          "name": "Bun B",
-          "url": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
-        }
-      ],
-      "duration_ms": 230680,
-      "name": "Pop It 4 Pimp",
-      "url": "https://open.spotify.com/track/09nAAaHatXLnc0SmhReYny"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/5MnMSLhvO7B49anDnzQUwO"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 184992,
       "name": "Star Dust",
       "url": "https://open.spotify.com/track/7GlMHZc2cXup1pqPDQ90nR"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "II Trill",
+        "url": "https://open.spotify.com/album/726mitnLPJrg0pftxSne1O"
+      },
+      "artists": [
+        {
+          "name": "Bun B",
+          "url": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+        }
+      ],
+      "duration_ms": 230680,
+      "name": "Pop It 4 Pimp",
+      "url": "https://open.spotify.com/track/09nAAaHatXLnc0SmhReYny"
     },
     {
       "added_at": "2022-10-01 16:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "So smooth, so classic. Cover: George Benson",
-  "num_followers": 113805,
+  "num_followers": 113895,
   "original_name": "Smooth Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzMyYmMzMzA5Mzg2YzgyZmQ0Zjk0MTdhZWJiZmNiNWFjZjYyNjcy",
+  "snapshot_id": "MCxjNzBiNTA1OTk4ZDYxNDFhMmQ2MmE0NTczMTBmMDJiNDZlYzI1OWU3",
   "tracks": [
     {
       "added_at": "2020-08-19 00:00:21",
@@ -507,18 +507,18 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Decisions",
-        "url": "https://open.spotify.com/album/5naKtNyW9NohbRH0SLSzoX"
+        "name": "Dave Koz",
+        "url": "https://open.spotify.com/album/28dV8nGn5PWCWBvDX1SdIU"
       },
       "artists": [
         {
-          "name": "Wayman Tisdale",
-          "url": "https://open.spotify.com/artist/3h25qUbua6H0dcBJgDPg5c"
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
         }
       ],
-      "duration_ms": 280306,
-      "name": "Breakfast with Tiffany",
-      "url": "https://open.spotify.com/track/4V0XiFqittbfSMH2QYZRKV"
+      "duration_ms": 370040,
+      "name": "So Far From Home",
+      "url": "https://open.spotify.com/track/1AjXzYmLg24sfQE0gy4Tmb"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -539,18 +539,18 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
-        "name": "Dave Koz",
-        "url": "https://open.spotify.com/album/28dV8nGn5PWCWBvDX1SdIU"
+        "name": "Decisions",
+        "url": "https://open.spotify.com/album/5naKtNyW9NohbRH0SLSzoX"
       },
       "artists": [
         {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+          "name": "Wayman Tisdale",
+          "url": "https://open.spotify.com/artist/3h25qUbua6H0dcBJgDPg5c"
         }
       ],
-      "duration_ms": 370040,
-      "name": "So Far From Home",
-      "url": "https://open.spotify.com/track/1AjXzYmLg24sfQE0gy4Tmb"
+      "duration_ms": 280306,
+      "name": "Breakfast with Tiffany",
+      "url": "https://open.spotify.com/track/4V0XiFqittbfSMH2QYZRKV"
     },
     {
       "added_at": "2020-08-19 00:00:21",
@@ -891,6 +891,22 @@
     {
       "added_at": "2020-08-19 00:00:21",
       "album": {
+        "name": "Undercover",
+        "url": "https://open.spotify.com/album/1CSrrFRXhHIPUKJY5zvfOp"
+      },
+      "artists": [
+        {
+          "name": "Art Porter",
+          "url": "https://open.spotify.com/artist/47nj6OsTDQIuMjmsml6OLu"
+        }
+      ],
+      "duration_ms": 309466,
+      "name": "There's Only You",
+      "url": "https://open.spotify.com/track/4PujvqHuv3ECCVJXdMazGW"
+    },
+    {
+      "added_at": "2020-08-19 00:00:21",
+      "album": {
         "name": "It's About Time",
         "url": "https://open.spotify.com/album/4PXy69gcb1qTwEMJL0HW1d"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 276333,
       "name": "Groovin' In Philly",
       "url": "https://open.spotify.com/track/4EWxGABVBAMcchzJPToJQz"
-    },
-    {
-      "added_at": "2020-08-19 00:00:21",
-      "album": {
-        "name": "Undercover",
-        "url": "https://open.spotify.com/album/1CSrrFRXhHIPUKJY5zvfOp"
-      },
-      "artists": [
-        {
-          "name": "Art Porter",
-          "url": "https://open.spotify.com/artist/47nj6OsTDQIuMjmsml6OLu"
-        }
-      ],
-      "duration_ms": 309466,
-      "name": "There's Only You",
-      "url": "https://open.spotify.com/track/4PujvqHuv3ECCVJXdMazGW"
     },
     {
       "added_at": "2020-08-19 00:00:21",

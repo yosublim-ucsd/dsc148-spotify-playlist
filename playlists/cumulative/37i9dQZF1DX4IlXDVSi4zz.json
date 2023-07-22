@@ -104,7 +104,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 383606,
       "name": "Amore",
       "url": "https://open.spotify.com/track/0m6fSWEw7QwLSrkS1tWsiJ"
@@ -130,6 +130,24 @@
       "duration_ms": 387226,
       "name": "Atlante",
       "url": "https://open.spotify.com/track/0hKutS8fEyReGiXhkxhuNY"
+    },
+    {
+      "album": {
+        "name": "Summer Sol",
+        "url": "https://open.spotify.com/album/6iEbxNzIjuMk3oFWveulAn"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Gallardo",
+          "url": "https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 390222,
+      "name": "Ay Que Sera Del Sol - Original",
+      "url": "https://open.spotify.com/track/2mDpaQWRfsXtymj7JhVOEE"
     },
     {
       "album": {
@@ -344,7 +362,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-04",
+      "date_removed": null,
       "duration_ms": 170564,
       "name": "Bum Bum Tam Tam",
       "url": "https://open.spotify.com/track/5XQE6aJrjtzjQCfEhJ4NuL"
@@ -532,7 +550,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 224262,
       "name": "Damelo",
       "url": "https://open.spotify.com/track/2d4TilZYXbkd08n49lnNj4"
@@ -624,7 +642,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 407359,
       "name": "Desperado - Original Mix",
       "url": "https://open.spotify.com/track/2jBYV5szcd0pjbl5YYjPqT"
@@ -880,7 +898,7 @@
       ],
       "date_added": "2022-04-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 225437,
       "name": "Forgive Me",
       "url": "https://open.spotify.com/track/4XjTvY0x7RR7cy8inojCkO"
@@ -962,7 +980,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 395632,
       "name": "Gato Negro - Daniel Hokum & okuma Remix",
       "url": "https://open.spotify.com/track/4lCjFg06zDoSOSFVxSQyzp"
@@ -1010,7 +1028,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-18",
+      "date_removed": null,
       "duration_ms": 142193,
       "name": "Good Good",
       "url": "https://open.spotify.com/track/09OBF8vXiOtxHpnEJhflMr"
@@ -1164,6 +1182,28 @@
       "duration_ms": 285596,
       "name": "I Got U",
       "url": "https://open.spotify.com/track/69gQgkobVW8bWjoCjBYQUd"
+    },
+    {
+      "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E"
+      },
+      "artists": [
+        {
+          "name": "Butch",
+          "url": "https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv"
+        },
+        {
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187286,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh"
     },
     {
       "album": {
@@ -1634,7 +1674,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 399677,
       "name": "Lunar Spirits",
       "url": "https://open.spotify.com/track/26TzE87XsAR0zd9SkruqxB"
@@ -1722,7 +1762,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 395014,
       "name": "Mi Casa - 12\" Version",
       "url": "https://open.spotify.com/track/6FkujwwtXmKXko2oJYcABu"
@@ -2784,7 +2824,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-14",
+      "date_removed": null,
       "duration_ms": 205478,
       "name": "Who You Are",
       "url": "https://open.spotify.com/track/6mkvEG10ftOIKrMZHVRMiY"

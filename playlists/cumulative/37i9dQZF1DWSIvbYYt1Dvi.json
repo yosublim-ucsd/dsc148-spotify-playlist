@@ -24,7 +24,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 140100,
       "name": "* da Anitta",
       "url": "https://open.spotify.com/track/0VhG6qzFZo9JrHu56Wq7gh"
@@ -1113,6 +1113,28 @@
     },
     {
       "album": {
+        "name": "Cacau",
+        "url": "https://open.spotify.com/album/7hLXr1YD7DGY8c1A5zWPmo"
+      },
+      "artists": [
+        {
+          "name": "Puro Suco",
+          "url": "https://open.spotify.com/artist/3UD5S1SrDQo3KPTfWxL7Ms"
+        },
+        {
+          "name": "BEATDOMK",
+          "url": "https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164122,
+      "name": "De volta ao B\u00e1sico",
+      "url": "https://open.spotify.com/track/3xoMdEwMLpgpwi1CiNX8up"
+    },
+    {
+      "album": {
         "name": "Deixa Baixo",
         "url": "https://open.spotify.com/album/2XQeYibbFQekoQxmw1lvU3"
       },
@@ -1710,10 +1732,6 @@
         {
           "name": "LEALL",
           "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "KOPO",
-          "url": "https://open.spotify.com/artist/3vSHkuSE00R9QBkm5SByaA"
         },
         {
           "name": "Nagalli",

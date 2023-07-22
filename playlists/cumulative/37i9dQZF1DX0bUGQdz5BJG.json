@@ -983,6 +983,24 @@
     },
     {
       "album": {
+        "name": "Always a Girl",
+        "url": "https://open.spotify.com/album/5basJuQxjMhwFmeM17ydvz"
+      },
+      "artists": [
+        {
+          "name": "Matt Jordan",
+          "url": "https://open.spotify.com/artist/42o4AcPbHwxBYJm1MK7OqC"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190221,
+      "name": "Always a Girl",
+      "url": "https://open.spotify.com/track/5sBvqQEsxQwTfw2Zopn98y"
+    },
+    {
+      "album": {
         "name": "Always Known",
         "url": "https://open.spotify.com/album/1PhReRL1AHGgw3ANMHDK4B"
       },
@@ -1034,6 +1052,24 @@
       "duration_ms": 202608,
       "name": "Always Never",
       "url": "https://open.spotify.com/track/5wEh5jpOSZCZ8QpjKVrjRn"
+    },
+    {
+      "album": {
+        "name": "Always You",
+        "url": "https://open.spotify.com/album/6pmFIOOeqH9zbCn1rq2JCJ"
+      },
+      "artists": [
+        {
+          "name": "Trey Lewis",
+          "url": "https://open.spotify.com/artist/15tTVhFpH8EFXeDgO9xkRO"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188373,
+      "name": "Always You",
+      "url": "https://open.spotify.com/track/3BVIL8xUbVh1AfeoViJ2ie"
     },
     {
       "album": {
@@ -1192,7 +1228,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 198800,
       "name": "Another Right Now",
       "url": "https://open.spotify.com/track/3PuGOBSu02z2uymqIoPeB0"
@@ -1586,7 +1622,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 195773,
       "name": "Back Before My Time",
       "url": "https://open.spotify.com/track/7AyUVY3aDjsKL7yTuMetNv"
@@ -1658,7 +1694,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 194026,
       "name": "Back To Jesus",
       "url": "https://open.spotify.com/track/3W9LnzNx3RPgIJqUrbFHVM"
@@ -2030,7 +2066,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 172277,
       "name": "Beer and Fishin'",
       "url": "https://open.spotify.com/track/2X4tiYAiMhvwOXIQXjNkyk"
@@ -2214,6 +2250,24 @@
       "duration_ms": 206813,
       "name": "Best Beers Yet",
       "url": "https://open.spotify.com/track/2sEukXOcdmR1g4q2tBxdQf"
+    },
+    {
+      "album": {
+        "name": "Best Ex I Ever Had",
+        "url": "https://open.spotify.com/album/0DMT28xHzzbsWX31FovO8j"
+      },
+      "artists": [
+        {
+          "name": "Drew Green",
+          "url": "https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197075,
+      "name": "Best Ex I Ever Had",
+      "url": "https://open.spotify.com/track/7hQNs2B0f7iz0YLNrDrTxV"
     },
     {
       "album": {
@@ -2831,7 +2885,7 @@
     },
     {
       "album": {
-        "name": "Boots, Jeans, and Jesus",
+        "name": "Boots, Jeans, & Jesus",
         "url": "https://open.spotify.com/album/7FVrXxjvf7zhCNBGOw0dJ8"
       },
       "artists": [
@@ -2844,7 +2898,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 157882,
-      "name": "Boots, Jeans, and Jesus",
+      "name": "Boots, Jeans, & Jesus",
       "url": "https://open.spotify.com/track/4S7yZud2fDiFHjgE5YazJm"
     },
     {
@@ -4172,7 +4226,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 171000,
       "name": "Come Get Your Memory",
       "url": "https://open.spotify.com/track/19N0HuImmFFEolWIKvVROo"
@@ -5074,7 +5128,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 195520,
       "name": "Days I Cry",
       "url": "https://open.spotify.com/track/1kDPCYspirxH4x4VAfDc7L"
@@ -6144,6 +6198,24 @@
       "duration_ms": 212360,
       "name": "Drive You Out Of My Mind",
       "url": "https://open.spotify.com/track/0iqr64c8WWYb549HKs8sqD"
+    },
+    {
+      "album": {
+        "name": "Drop Me Off",
+        "url": "https://open.spotify.com/album/0VU5NvTsc8s7y0aWZxiUuY"
+      },
+      "artists": [
+        {
+          "name": "Jillian Steele",
+          "url": "https://open.spotify.com/artist/0pkLsR4G0gWsY5OyIXuXQz"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201136,
+      "name": "Drop Me Off",
+      "url": "https://open.spotify.com/track/6nqfAp6o13auCF178v9oYW"
     },
     {
       "album": {
@@ -8718,7 +8790,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 174893,
       "name": "Hangovers",
       "url": "https://open.spotify.com/track/4Hy0SkphtfJqKowDwInbka"
@@ -10389,6 +10461,24 @@
     },
     {
       "album": {
+        "name": "How I Get High",
+        "url": "https://open.spotify.com/album/52x5UXLl0bC8eoLtxnf7IT"
+      },
+      "artists": [
+        {
+          "name": "Josh Kiser",
+          "url": "https://open.spotify.com/artist/0f3VHWozHxr2u1VcsOVWnV"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215506,
+      "name": "How I Get High",
+      "url": "https://open.spotify.com/track/5Tx5r6Q4DuVmCzk1sH2Pd1"
+    },
+    {
+      "album": {
         "name": "How It Looks From Here",
         "url": "https://open.spotify.com/album/2xjT6X1tTBsuwjMFU8KrME"
       },
@@ -11146,7 +11236,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 232045,
       "name": "I Know Jack",
       "url": "https://open.spotify.com/track/6utrMb4B5Yr9STfJ6qb258"
@@ -12453,6 +12543,24 @@
     },
     {
       "album": {
+        "name": "Kill Me",
+        "url": "https://open.spotify.com/album/7iuVd42Ad5GoLpMw3XvwPT"
+      },
+      "artists": [
+        {
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163110,
+      "name": "Kill Me",
+      "url": "https://open.spotify.com/track/5pWgfYHRZuNctsKtWGDJ2E"
+    },
+    {
+      "album": {
         "name": "Kinda Memory",
         "url": "https://open.spotify.com/album/0SROMlce3oiOOBQ4pAlT2i"
       },
@@ -12965,6 +13073,24 @@
     },
     {
       "album": {
+        "name": "Let Go Too Soon",
+        "url": "https://open.spotify.com/album/4dSkmtLvKwWkDD0i848hRT"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206506,
+      "name": "Let Go Too Soon",
+      "url": "https://open.spotify.com/track/1w4F1ngmDnmDrGQ99Qyvi5"
+    },
+    {
+      "album": {
         "name": "Let It Burn",
         "url": "https://open.spotify.com/album/1aXlGFPc8SkCkuEOMd0T6z"
       },
@@ -13082,6 +13208,24 @@
       "duration_ms": 222400,
       "name": "Let's Ride",
       "url": "https://open.spotify.com/track/56P56jLon0s4NIr0oDLZhD"
+    },
+    {
+      "album": {
+        "name": "Letting Go (Losing You)",
+        "url": "https://open.spotify.com/album/7qQQdDZRMWALDVMZur5kQT"
+      },
+      "artists": [
+        {
+          "name": "Jacob Stelly",
+          "url": "https://open.spotify.com/artist/0UARFNqkG0EVLtLlUMyM41"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203964,
+      "name": "Letting Go (Losing You)",
+      "url": "https://open.spotify.com/track/5sT1yBUuYXXQNxqbzJWTaG"
     },
     {
       "album": {
@@ -13590,7 +13734,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 196277,
       "name": "Lonely Outta You",
       "url": "https://open.spotify.com/track/4K6Hx75Blpyb7ERrkhfBuv"
@@ -13832,7 +13976,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 193151,
       "name": "Love Does",
       "url": "https://open.spotify.com/track/1cBQmAZAnkhLAJnjrlQzYn"
@@ -14664,7 +14808,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 208200,
       "name": "Maybe Someday You\u2019ll Have A Daughter",
       "url": "https://open.spotify.com/track/5aAxEw0OECrXeGQqcyPxNV"
@@ -15496,6 +15640,24 @@
       "duration_ms": 212303,
       "name": "Must Be The Country",
       "url": "https://open.spotify.com/track/3KLTDeMtxU0faV1a9ezasK"
+    },
+    {
+      "album": {
+        "name": "Mustang",
+        "url": "https://open.spotify.com/album/2iIqtNIPQ7S75S3kgW8UJP"
+      },
+      "artists": [
+        {
+          "name": "Katie Noel",
+          "url": "https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217454,
+      "name": "Mustang",
+      "url": "https://open.spotify.com/track/3Zdfemnfwe4bqTGrwFqYol"
     },
     {
       "album": {
@@ -17595,6 +17757,24 @@
     },
     {
       "album": {
+        "name": "Part Of Your World",
+        "url": "https://open.spotify.com/album/6rDlUApirith0ge6BuBiSN"
+      },
+      "artists": [
+        {
+          "name": "Murphy Elmore",
+          "url": "https://open.spotify.com/artist/2xAybx0jf6AnUy9I0kO0g9"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207125,
+      "name": "Part Of Your World",
+      "url": "https://open.spotify.com/track/058QphKAxFk1QWtzwHlMv3"
+    },
+    {
+      "album": {
         "name": "Party in My Hometown",
         "url": "https://open.spotify.com/album/3R7wb8dIBWyjlqD8GXEdnl"
       },
@@ -17642,7 +17822,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 187786,
       "name": "Paycheck Down",
       "url": "https://open.spotify.com/track/2kHwwYrX36KHtgBeMIUVWD"
@@ -18014,7 +18194,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 193787,
       "name": "Prayer List",
       "url": "https://open.spotify.com/track/0ovBDsZK2YbO2FnO9WPlMl"
@@ -19417,6 +19597,28 @@
     },
     {
       "album": {
+        "name": "shot in the dark",
+        "url": "https://open.spotify.com/album/2mb9T1V9feTNeGUNvXycfJ"
+      },
+      "artists": [
+        {
+          "name": "Ashley Cooke",
+          "url": "https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi"
+        },
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183906,
+      "name": "see you around (feat. Nate Smith)",
+      "url": "https://open.spotify.com/track/0ULk55MXcfFwLkCdXTeYCO"
+    },
+    {
+      "album": {
         "name": "See You In It",
         "url": "https://open.spotify.com/album/0m3rJKAqVOe1XUyB88SdOg"
       },
@@ -20102,7 +20304,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 252603,
       "name": "Single At The Same Time",
       "url": "https://open.spotify.com/track/4nNcfQNNZKDbqvHpbtEvBz"
@@ -20506,7 +20708,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 234200,
       "name": "Somebody Else's Whiskey",
       "url": "https://open.spotify.com/track/7vyBCh6EII2AB4Z2Q08o9U"
@@ -21834,7 +22036,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 193133,
       "name": "Take Me Backroad (feat. High Valley)",
       "url": "https://open.spotify.com/track/1aqQ8YzJlkrfN7dqCYBTTg"
@@ -22392,7 +22594,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 189416,
       "name": "Tennessee's Waiting",
       "url": "https://open.spotify.com/track/6n3bppUeyLmvw2yP54ZM7d"
@@ -22522,7 +22724,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 156470,
       "name": "That's All Us",
       "url": "https://open.spotify.com/track/21xsARPMH1n8dRZ9pJqSNF"
@@ -23276,7 +23478,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 221781,
       "name": "Things I Never Told You",
       "url": "https://open.spotify.com/track/4fxEEvoI7uL0rQ5GzwRnZT"
@@ -23612,6 +23814,24 @@
       "duration_ms": 155986,
       "name": "Throw You Back",
       "url": "https://open.spotify.com/track/4SEqC1sPuPob2qB9huDhhd"
+    },
+    {
+      "album": {
+        "name": "Tie'r Down",
+        "url": "https://open.spotify.com/album/2UdZbgxFn36Nk1RwV1xZ90"
+      },
+      "artists": [
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185773,
+      "name": "Tie\u2019r Down",
+      "url": "https://open.spotify.com/track/0r1WSDfnjhB4ljAmKm2u4C"
     },
     {
       "album": {
@@ -23966,6 +24186,24 @@
       "duration_ms": 196026,
       "name": "Trouble With A Heartbreak",
       "url": "https://open.spotify.com/track/4lSNyiHil3tuiwtvEpN1qq"
+    },
+    {
+      "album": {
+        "name": "Truck I Grew Up In",
+        "url": "https://open.spotify.com/album/1wtVYClCFqBqywx97YXS1W"
+      },
+      "artists": [
+        {
+          "name": "Styles Haury",
+          "url": "https://open.spotify.com/artist/57sVUbHm2z4eBvAnexnZEG"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188921,
+      "name": "Truck I Grew Up In",
+      "url": "https://open.spotify.com/track/49in7PtAI0hHhi8I65SZlv"
     },
     {
       "album": {
@@ -24348,7 +24586,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 189146,
       "name": "Up Yours",
       "url": "https://open.spotify.com/track/32cOhoqi47gRehXNGO301L"
@@ -24914,7 +25152,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 190756,
       "name": "What I Live For",
       "url": "https://open.spotify.com/track/1HQjfkdG1vpYj5xvfgisrJ"
@@ -26282,7 +26520,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 209986,
       "name": "Women In My Life",
       "url": "https://open.spotify.com/track/4cPQLhPZjg2XMJkzvzFC0f"
@@ -26630,7 +26868,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 183997,
       "name": "Yep",
       "url": "https://open.spotify.com/track/5RDKGEIYh4Q4G7Qs0lnaoZ"
@@ -26710,6 +26948,28 @@
       "duration_ms": 189097,
       "name": "You Ain't Alone",
       "url": "https://open.spotify.com/track/5R2yrsXPl9p1r1PkIgzUoc"
+    },
+    {
+      "album": {
+        "name": "You And Me",
+        "url": "https://open.spotify.com/album/1bxKuQrQo2jwTFfkNIfBm1"
+      },
+      "artists": [
+        {
+          "name": "Jake Banfield",
+          "url": "https://open.spotify.com/artist/2x25aNM4XzVKgrmZw5xcrb"
+        },
+        {
+          "name": "Drew Ryn",
+          "url": "https://open.spotify.com/artist/0nkV2JtDJw8rLvwyunAx0R"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174084,
+      "name": "You And Me",
+      "url": "https://open.spotify.com/track/16XjKd1tV50Bhox7puBZgS"
     },
     {
       "album": {
@@ -26962,7 +27222,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 218571,
       "name": "You Only",
       "url": "https://open.spotify.com/track/4IThCLqnjmxP835XHJjXIC"

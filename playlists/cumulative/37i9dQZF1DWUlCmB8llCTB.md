@@ -2,9 +2,9 @@
 
 ### [Perreo City](https://open.spotify.com/playlist/37i9dQZF1DWUlCmB8llCTB)
 
-> Perreando toda la noche con Tiago PZK.
+> Perreando toda la noche con ICON y Maxiolly.
 
-547 songs - 1 day 5 hr 56 min
+548 songs - 1 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [A PERRIARLA](https://open.spotify.com/track/3apuZaELjRvEXdVVFJM52K) | [Galee Galee](https://open.spotify.com/artist/0x5lhIYknBUEozHuXjkwUs), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [A PERRIARLA](https://open.spotify.com/album/5y5WH77HKAE6hxL5zN5ynt) | 4:01 | 2022-03-11 | 2022-06-24 |
 | [A Tu Novia](https://open.spotify.com/track/5HGyi8k0gzxmvz5G1X9faK) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8), [Nesi](https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat) | [Antisocial](https://open.spotify.com/album/0fymQT4sKyeNdAJoQi79Gz) | 3:32 | 2022-03-11 | 2022-05-07 |
 | [A Veces \(feat\. Feid\)](https://open.spotify.com/track/63OA8vSo2PhUkmQopR1l64) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [A Veces \(feat\. Feid\)](https://open.spotify.com/album/5IUJCo0aRD98yxFbTvEezC) | 3:11 | 2022-11-04 | 2023-02-25 |
-| [Aborrecio](https://open.spotify.com/track/3KSldp6Yh0XIvN0tyPJWK4) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Aborrecio](https://open.spotify.com/album/69jl774R0WfPrK5v3O21Yg) | 4:28 | 2023-02-17 |  |
+| [Aborrecio](https://open.spotify.com/track/3KSldp6Yh0XIvN0tyPJWK4) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Aborrecio](https://open.spotify.com/album/69jl774R0WfPrK5v3O21Yg) | 4:28 | 2023-02-17 | 2023-07-22 |
 | [Aborrecía](https://open.spotify.com/track/1rxnMP6oWWhWrD11sYqw87) | [West Blanco](https://open.spotify.com/artist/5KX37yoUcrgKZGNc0NdwHL), [The Best Soundz](https://open.spotify.com/artist/2exrpIj2TWt6s5YBqTqqbr) | [Aborrecía](https://open.spotify.com/album/4dTKosdwxPvbpBIVSO7pVd) | 2:51 | 2023-03-27 | 2023-05-13 |
 | [Adentro de la Disco \(feat\. Myke Towers\)](https://open.spotify.com/track/2QJQJEI9WvhqQViGS58gZ7) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Adentro de la Disco \(feat\. Myke Towers\)](https://open.spotify.com/album/2gRPPH31jHTGwhniJINHVr) | 3:12 | 2023-06-16 |  |
 | [Adicta](https://open.spotify.com/track/6vPdyYiVrpA0uDV9xT6t0G) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke) | [Multimillo, Vol\. 1](https://open.spotify.com/album/2pfBdekMfDRVf1MfDnwTSv) | 3:42 | 2022-07-01 | 2023-01-14 |
@@ -42,7 +42,7 @@
 | [Ansioso](https://open.spotify.com/track/06a9OeSuRhcmlNbNUWHH6i) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Ansioso](https://open.spotify.com/album/7zZ7J62h5Fratub7B28lBT) | 3:07 | 2022-03-11 | 2022-09-23 |
 | [Apaga el celular](https://open.spotify.com/track/6Za7R8nD5J08SJuIrT3ko3) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [El High](https://open.spotify.com/artist/1LViN9Xsu9YIMN6IZJk8Bp) | [Apaga el celular](https://open.spotify.com/album/5QhzTFMPQkWiYHVXEBU0dl) | 2:14 | 2023-01-27 | 2023-06-17 |
 | [ARMANI](https://open.spotify.com/track/4KwZ20XnpbxLSADiiXt8AG) | [Carlos Corté$](https://open.spotify.com/artist/3DplAKAVidNrhpivWNLMWC), [COQE](https://open.spotify.com/artist/7GAYtrIoXkEFFsSP2nhG0E) | [MELANIE](https://open.spotify.com/album/5oxgb6KTrhJZgbzfwP0v9S) | 2:34 | 2023-01-27 | 2023-06-03 |
-| [ASQUEROSO](https://open.spotify.com/track/1PSlMgsJ0V7pUeumk13fbs) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Zecca](https://open.spotify.com/artist/2FmE1yzXXBWKlRiOl0AqD8) | [ASQUEROSO](https://open.spotify.com/album/6QawDZdJyz7hiAkgw65BA3) | 2:39 | 2023-07-14 |  |
+| [ASQUEROSO](https://open.spotify.com/track/1PSlMgsJ0V7pUeumk13fbs) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [ZECCA](https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA) | [ASQUEROSO](https://open.spotify.com/album/6QawDZdJyz7hiAkgw65BA3) | 2:39 | 2023-07-14 |  |
 | [Atrévete](https://open.spotify.com/track/4xUoT1ufPfYu6GHzZ0AlLW) | [El Barto](https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP), [Sayian Jimmy](https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj) | [Atrévete](https://open.spotify.com/album/0UHCE7QbmG9iS2IfUqPiRg) | 2:44 | 2022-07-29 | 2022-10-01 |
 | [Aunque Me Caigo Me Paro](https://open.spotify.com/track/3zW8kxLiE0L7KZLz6TZzVF) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [Aunque Me Caigo Me Paro](https://open.spotify.com/album/4C0T20K8J4UIVt8jOjjgNG) | 3:01 | 2023-04-17 | 2023-05-13 |
 | [AUTOMÁTICO](https://open.spotify.com/track/3Ne5uYDFzHEFYAPbaBMIck) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [AUTOMÁTICO](https://open.spotify.com/album/5i8WdrKnzvMbujuJhkcFQn) | 2:55 | 2022-09-08 | 2023-01-27 |
@@ -54,6 +54,7 @@
 | [Bandida](https://open.spotify.com/track/1xUd3t6zmrAC08LrWKEBrC) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Philip Ariaz](https://open.spotify.com/artist/0OJB7a56o2eMyB6hOmv6vC) | [Siempre Blessd](https://open.spotify.com/album/4PR6koe67C7YosjAYriYh4) | 3:15 | 2022-11-04 | 2023-03-18 |
 | [Bandidos](https://open.spotify.com/track/1KEihgohVX0H1R1C6wjYly) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [Bandidos](https://open.spotify.com/album/1ZWbLN7FGdhNwla71leFnt) | 3:44 | 2023-05-12 |  |
 | [Bandidos](https://open.spotify.com/track/1dZkAYdCvUA4u5cMzGhRJh) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [Bandidos](https://open.spotify.com/album/0EC8Sa1jYekLosZIYDlWvw) | 2:57 | 2022-04-29 | 2022-06-04 |
+| [BARETiK](https://open.spotify.com/track/3wWVNKIczId45rTnOIruX5) | [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a), [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD) | [BARETiK](https://open.spotify.com/album/1yZJA11JFxkXwKTP0UQ9Al) | 2:01 | 2023-07-21 |  |
 | [Baya](https://open.spotify.com/track/0cux7pJXDRjT7UBlwIx0DZ) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Yomo](https://open.spotify.com/artist/4myAXQmMuS1lZe8T6Y7eBg) | [La 167](https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK) | 3:35 | 2021-12-24 | 2022-05-20 |
 | [Be Con Be](https://open.spotify.com/track/1CtTPDF2C68dorPvn7S8oR) | [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Be Con Be](https://open.spotify.com/album/1ATLAeJxPEB9aqqNGO5JgL) | 2:36 | 2023-03-10 |  |
 | [BEBÉ](https://open.spotify.com/track/1hBzM78iz1nuD1kyUwSPVp) | [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a) | [BEBÉ](https://open.spotify.com/album/46ycX8KVKKdbFFfdEU8OOp) | 2:21 | 2022-05-20 | 2022-11-12 |

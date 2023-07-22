@@ -4,7 +4,7 @@
 
 > smooth drifting only
 
-157 songs - 7 hr 4 min
+158 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Farewell](https://open.spotify.com/track/3S9cyna1oXy31j65808QkI) | [ZXNTURY](https://open.spotify.com/artist/4ACYlsx2wt3mQ2syiTo6AK), [JXXPSINNXR](https://open.spotify.com/artist/4RvUX1Yg2s0aCkBPYCsgP7), [FXLLEN WXRRIOR](https://open.spotify.com/artist/4O4tXxjzXrk06o08zTBVAL) | [Farewell](https://open.spotify.com/album/5TpcZRePiWhdEqoWIiwM93) | 2:31 | 2023-03-10 |  |
 | [FIREFLIES](https://open.spotify.com/track/3om71PaqkmHXuxQ5d3Hxjk) | [CYREX](https://open.spotify.com/artist/1NspLfgAsucc39MeTipXNy), [Steveruu](https://open.spotify.com/artist/4NOFcRCgjvnRy8nKVGUM0L) | [FIREFLIES](https://open.spotify.com/album/5t94V0MZ61yjI0lt1sJUcP) | 2:43 | 2022-12-30 |  |
 | [flashback](https://open.spotify.com/track/6LK0dja7B2ibVgwZhVDvTw) | [Eyez Hate U](https://open.spotify.com/artist/0dIUq8UqtoJF5T7Lt3MxBT) | [flashback](https://open.spotify.com/album/7ExcQWKeWVTTA7UPQh3lXn) | 3:16 | 2022-10-10 |  |
+| [Fluxxwave](https://open.spotify.com/track/5K2onWVFDevmZ5y9AgiEcr) | [Clovis Reyes](https://open.spotify.com/artist/1rPMCfJhANfBT78l2wf4d6) | [Fluxxwave](https://open.spotify.com/album/5VSZMq4gFIMNympUWJa0AV) | 2:30 | 2023-07-21 |  |
 | [Forever In My Mind](https://open.spotify.com/track/5DlRPItm6jsKFewssbaJUB) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [svlient](https://open.spotify.com/artist/4RnM2qExKVcy2IMQBa3a52) | [Forever In My Mind](https://open.spotify.com/album/4BXsCUsZBmrko4vFWMrSRP) | 3:01 | 2023-03-10 | 2023-06-10 |
 | [Frequency](https://open.spotify.com/track/5IgpVvg68WGQQPVto0hyZF) | [Hensonn](https://open.spotify.com/artist/0snouHYzOWSgxRBYMQsa3H) | [Frequency](https://open.spotify.com/album/5J9yN6EzsaAa2SeW91H4c9) | 2:30 | 2022-10-10 |  |
 | [Frontier](https://open.spotify.com/track/5EE2ubLj0U3kZRkZr7vjbJ) | [Sx1nxwy](https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T), [SxDJI](https://open.spotify.com/artist/6TpYb8Z1yUegbmuRcJhiC1) | [Frontier](https://open.spotify.com/album/6UU1uLU30SJsZjl7WCMcbP) | 3:47 | 2023-05-05 |  |
@@ -75,7 +76,7 @@
 | [I'M SORRY](https://open.spotify.com/track/0K3JJbRm9y70tesc73U6bn) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [I'M SORRY](https://open.spotify.com/album/4oWAtbgahTeGrYKljx6GI0) | 2:19 | 2022-10-21 | 2023-06-10 |
 | [In the mountains](https://open.spotify.com/track/51Uf2MSlbnu3nQhsZMmSYr) | [phonk.me](https://open.spotify.com/artist/3YNdAmDzM5zMbGYeaSCe6A), [zetuv](https://open.spotify.com/artist/1PhDjAsWVkTLg5mUtSOeg9) | [In the mountains](https://open.spotify.com/album/1nmSWtZwOE2xrQUlNtg6r0) | 1:49 | 2023-06-09 |  |
 | [Infinite](https://open.spotify.com/track/36lAaFOepMC0kbLeHSLtbU) | [Skidz](https://open.spotify.com/artist/5OpDyR287ck0uxPbA2MF7Y) | [Infinite](https://open.spotify.com/album/2F7yVNgSaE4UcfTKx9be2B) | 3:22 | 2022-10-10 | 2023-03-25 |
-| [IRON KNIGHT](https://open.spotify.com/track/66rbsDlM1RfmVW6I2nBmuh) | [DJ RXBBERY](https://open.spotify.com/artist/0NuERMLAqu8zM3uFAo1dN9) | [IRON KNIGHT](https://open.spotify.com/album/1akEiLit7yPHOyZxtAxbsT) | 2:24 | 2022-10-10 |  |
+| [IRON KNIGHT](https://open.spotify.com/track/66rbsDlM1RfmVW6I2nBmuh) | [DJ RXBBERY](https://open.spotify.com/artist/0NuERMLAqu8zM3uFAo1dN9) | [IRON KNIGHT](https://open.spotify.com/album/1akEiLit7yPHOyZxtAxbsT) | 2:24 | 2022-10-10 | 2023-07-22 |
 | [Kansai](https://open.spotify.com/track/4qvnEEwIXb8ch6CfudeqGW) | [boneles\_s](https://open.spotify.com/artist/15T8AuT0gmxOfifQtbShQL), [InsaneTracer](https://open.spotify.com/artist/5jK86GBNNwGHD4brZp16yo) | [Kansai](https://open.spotify.com/album/0EvPrrikCr1F3nuwQ0eA9Q) | 2:41 | 2022-10-21 | 2023-05-06 |
 | [Komarovo \(DVRST Phonk Remix\)](https://open.spotify.com/track/1yqaea9PLO8rttUlcNTlcB) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5), [Igor Sklyar](https://open.spotify.com/artist/0CS3vgS9XURba0m7OvCPJv), [Atomic Heart](https://open.spotify.com/artist/1VhpqaYeyotfoFFdHZhrHP) | [Atomic Heart \(Original Game Soundtrack\) Vol.1](https://open.spotify.com/album/2XVO5mhDvOpSTYpXUDVisx) | 2:26 | 2023-05-05 |  |
 | [LAST SUMMER](https://open.spotify.com/track/18HmibGhzrtpOJjF7shVvB) | [7ACE](https://open.spotify.com/artist/66ymtDmx7RDJ6qoIflhBBj) | [LAST SUMMER](https://open.spotify.com/album/31TdY8uhStMWgpSFGYfAXz) | 2:25 | 2022-10-10 | 2022-12-17 |

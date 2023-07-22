@@ -4,7 +4,7 @@
 
 > Fearless sounds at the crossroads of Country and Folk\. Cover: Colter Wall
 
-338 songs - 20 hr 39 min
+340 songs - 20 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,14 +132,14 @@
 | [Great Goodbye](https://open.spotify.com/track/2lhm5FumxSB6DGKQCvlLCo) | [Cynthia Hamar](https://open.spotify.com/artist/22GLcgW0TkIpnDgVp9Igo6) | [Joint & Marrow](https://open.spotify.com/album/6ciXz796jqwH4nU2odt48Z) | 4:13 | 2022-09-23 | 2023-04-22 |
 | [Greyhound](https://open.spotify.com/track/2c7BU7qdz3xGSndyj5OQKN) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Greyhound](https://open.spotify.com/album/65CRcFpY94KnI8NGo6Ezq5) | 4:15 | 2022-08-26 | 2022-11-12 |
 | [Happy Person](https://open.spotify.com/track/37a2o186agDwlqxtlb1pWA) | [Babitha](https://open.spotify.com/artist/2I2YUGgtWpuhyI1mUzom4y) | [Brighter Side of Blue](https://open.spotify.com/album/5ksGObxjs1JrBhHXzWl4WB) | 3:21 | 2023-01-20 | 2023-05-17 |
-| [Hard to Build\. Easy to Break.](https://open.spotify.com/track/3fkC7dob8UbhKJznLGgzBZ) | [Cowboy Junkies](https://open.spotify.com/artist/3CYSRCHfilgR8DSbkCMp5j) | [Hard To Build\. Easy To Break.](https://open.spotify.com/album/0f28PbHkgYcNJ0xetd1mY6) | 4:18 | 2023-04-28 |  |
+| [Hard to Build\. Easy to Break.](https://open.spotify.com/track/3fkC7dob8UbhKJznLGgzBZ) | [Cowboy Junkies](https://open.spotify.com/artist/3CYSRCHfilgR8DSbkCMp5j) | [Hard To Build\. Easy To Break.](https://open.spotify.com/album/0f28PbHkgYcNJ0xetd1mY6) | 4:18 | 2023-04-28 | 2023-07-22 |
 | [Hard To Make A Living](https://open.spotify.com/track/3MLKmm3jUPCyjcRhPdmkNT) | [Honey Harper](https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg) | [Hard To Make A Living](https://open.spotify.com/album/6dubX6Lgnbp4iZZLmL5YN7) | 3:20 | 2022-10-07 | 2022-10-29 |
 | [Haunted Mountain](https://open.spotify.com/track/45d44VPCRIW07tywccH8ii) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Haunted Mountain](https://open.spotify.com/album/7acJeJoMsDIo1JdIBi4hRV) | 5:11 | 2023-05-25 | 2023-07-01 |
 | [Headlines](https://open.spotify.com/track/0RIVsm9eMXUAhUgrQ7NeFj) | [Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ) | [Highs in the Minuses](https://open.spotify.com/album/2zR97oZdXueACHFn00iuR7) | 3:41 | 2022-05-13 | 2022-07-29 |
 | [Headlines](https://open.spotify.com/track/2fFsZaYABWElJixFWJkqlN) | [Charlotte Cornfield](https://open.spotify.com/artist/59aqTTQGnvttJ4BCThaABZ) | [Highs in the Minuses](https://open.spotify.com/album/1Az1xkr19Qdy3guiCl7YyF) | 3:41 | 2022-07-22 | 2022-08-27 |
 | [Heaven and Light](https://open.spotify.com/track/1MDJjLqAdQ7anWrYvDVOZ1) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [Heaven and Light](https://open.spotify.com/album/7vRJrhetiOy3OurJ2Gqw0o) | 3:15 | 2022-05-13 | 2022-06-25 |
 | [Heaven's Touch](https://open.spotify.com/track/3bHfBsUAC23VN6oHwvLCwZ) | [Carsen Gray](https://open.spotify.com/artist/2Rghdsv4GA0dvKqLAnAWZs) | [Heaven's Touch](https://open.spotify.com/album/2ebFuRMHOl8YI6pH6cZAJx) | 3:17 | 2022-05-13 | 2022-08-13 |
-| [Here If You Want Me](https://open.spotify.com/track/0kn4qAHwbV6EAgMrrduxtE) | [Aiden Ayers](https://open.spotify.com/artist/7yF4b51na3Wdeyiid9h4c2) | [Venus Copper Rose](https://open.spotify.com/album/6HBA4LzlkcTltssUdbvw95) | 3:01 | 2022-10-28 |  |
+| [Here If You Want Me](https://open.spotify.com/track/0kn4qAHwbV6EAgMrrduxtE) | [Aiden Ayers](https://open.spotify.com/artist/7yF4b51na3Wdeyiid9h4c2) | [Venus Copper Rose](https://open.spotify.com/album/6HBA4LzlkcTltssUdbvw95) | 3:01 | 2022-10-28 | 2023-07-22 |
 | [Hey Baby](https://open.spotify.com/track/4MaNTAN78ylZnCMCKBFiU9) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [One Day](https://open.spotify.com/album/0KP0kzTCtYthC6dVndh1Jj) | 2:50 | 2023-04-28 |  |
 | [Hey Baby](https://open.spotify.com/track/6kyUPFuPaaprlnKeVaQQMS) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [One Day](https://open.spotify.com/album/0kVNpxNis78JrqQgsir4QN) | 2:50 | 2023-04-21 | 2023-04-30 |
 | [Hey Bob Dylan](https://open.spotify.com/track/2e4aqPnyNKsdElQxNKEPv5) | [Ron A.McNeill](https://open.spotify.com/artist/6NyXdmZQwTQvEN4xLDbTMQ) | [Waiting on the Day](https://open.spotify.com/album/6JAfOiMmqSdUxsEjEWvnyD) | 3:19 | 2023-04-21 | 2023-07-06 |
@@ -329,10 +329,12 @@
 | [We'll Sweep out the Ashes in the Morning](https://open.spotify.com/track/2t9ALXxbk3N6jwSgpUqehE) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [We'll Sweep out the Ashes in the Morning](https://open.spotify.com/album/4T39qyzsn7ZeFcq6SqmPoT) | 3:35 | 2022-07-15 | 2022-10-29 |
 | [What I Had in Mind](https://open.spotify.com/track/5saojvKcj1644C6Fi7BY3j) | [Ron Sexsmith](https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH) | [What I Had in Mind](https://open.spotify.com/album/1qi7P89eVlmAzdDd4Wv1Kp) | 3:13 | 2022-09-30 | 2022-11-19 |
 | [What Is a Broken Heart For](https://open.spotify.com/track/0aCm3Et01TEjfKeG2bABUK) | [The Hello Darlins](https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC) | [In the Sundust](https://open.spotify.com/album/4AHKtxn6vYt9a85DlCKg1g) | 4:00 | 2023-03-24 | 2023-05-13 |
+| [Whatever Got Lost](https://open.spotify.com/track/4JMCCet7BRLwThMx6ifEUX) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [For Jimmy](https://open.spotify.com/album/1odIO8SXRLhIFPphlEGJjY) | 3:31 | 2023-07-21 |  |
 | [When You Miss Someone](https://open.spotify.com/track/7qJKahUHkASPu54vMil98J) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [When You Miss Someone / Tanqueray](https://open.spotify.com/album/7gzB41KzCKsIlRMOq8q0x1) | 3:05 | 2023-02-03 |  |
 | [When You're Gone](https://open.spotify.com/track/6o4WL0W4PqWI4K9csGt2Eq) | [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [When You're Gone](https://open.spotify.com/album/3CRYeWlC7Hu66h2ypeB6qX) | 2:45 | 2022-12-09 |  |
 | [Where My Wild Things Are](https://open.spotify.com/track/208hyGbFtTa7I7zYzOm13P) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Where My Wild Things Are](https://open.spotify.com/album/6oWKCBaxJvccxzbe6shr9N) | 3:57 | 2023-06-23 |  |
 | [Whiskey River \(Recorded At Luck Reunion\) \- Spotify Singles](https://open.spotify.com/track/6zQW6QKb3b3X1OoFpBM7gU) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Spotify Singles](https://open.spotify.com/album/48eE2fd87vxdyIgTQU4sw7) | 3:54 | 2023-05-05 |  |
+| [White Horse](https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [White Horse](https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7) | 4:27 | 2023-07-21 |  |
 | [Wide Awake](https://open.spotify.com/track/1j0yLM2bq8IXOmkahkV22Z) | [Julian Taylor](https://open.spotify.com/artist/35k2toFgs8gru6GMPChzo6) | [Wide Awake](https://open.spotify.com/album/0CuE6LWfLi55IwDchyGEDp) | 4:15 | 2022-08-12 | 2022-10-15 |
 | [Windows](https://open.spotify.com/track/0tC9HI1SwBlokDidRDZkYD) | [Mama's Broke](https://open.spotify.com/artist/18kqY0obPXyo3oXtuzrS7k) | [Narrow Line](https://open.spotify.com/album/7dep5AUJI4Hso2xZrRCI6I) | 3:20 | 2022-05-13 | 2023-07-08 |
 | [With You](https://open.spotify.com/track/1WoAQ1TRwi47BqUTt5hLNV) | [Mo Kenney](https://open.spotify.com/artist/37bB4IgC1rMZekz2XvshyS) | [With You](https://open.spotify.com/album/1tqgfhub2RpAfGqXBC89EV) | 2:21 | 2022-05-13 | 2022-07-23 |

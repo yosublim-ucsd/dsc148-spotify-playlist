@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Loud, Ya Cetidon",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Ronisia",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -2480,7 +2480,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 250108,
       "name": "Autobahn",
       "url": "https://open.spotify.com/track/1LGSUhyWYn8o9PwtE8QN2x"
@@ -3749,6 +3749,24 @@
     },
     {
       "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/2pJgvL6pmjgyRsApaegLNP"
+      },
+      "artists": [
+        {
+          "name": "Miro",
+          "url": "https://open.spotify.com/artist/5j7ql2sFpKxWvZI6TIDfgj"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192425,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/0QWTSUL3mTStCXLMkPEh2u"
+    },
+    {
+      "album": {
         "name": "tentacle",
         "url": "https://open.spotify.com/album/35Yi0L3RtxmFULeg1UQCae"
       },
@@ -4864,6 +4882,24 @@
       "duration_ms": 241320,
       "name": "C'est si beau",
       "url": "https://open.spotify.com/track/49qzgP24cnIABaeOCTWLqU"
+    },
+    {
+      "album": {
+        "name": "C'est toi",
+        "url": "https://open.spotify.com/album/1m9ChT2dnhqqXSdkzsR9P4"
+      },
+      "artists": [
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131480,
+      "name": "C'est toi",
+      "url": "https://open.spotify.com/track/40EplL61w6x2axuhf9WXTT"
     },
     {
       "album": {
@@ -23999,6 +24035,24 @@
     },
     {
       "album": {
+        "name": "M\u00e9diterran\u00e9e",
+        "url": "https://open.spotify.com/album/57z5mtYpxfIYVsLWMq6nu4"
+      },
+      "artists": [
+        {
+          "name": "Bon Entendeur",
+          "url": "https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183346,
+      "name": "M\u00e9diterran\u00e9e",
+      "url": "https://open.spotify.com/track/1YydAnEuRJGKbFUYEE8HUz"
+    },
+    {
+      "album": {
         "name": "M\u00e9dusa",
         "url": "https://open.spotify.com/album/1KSm1iHAEin2JFbJSU0hmw"
       },
@@ -27322,7 +27376,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 175481,
       "name": "Planer",
       "url": "https://open.spotify.com/track/1hlXA96A3AyXX8UT0OK7I5"
@@ -27680,7 +27734,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 177752,
       "name": "Porcelaine",
       "url": "https://open.spotify.com/track/7J7EsDTsrRjqhPKKMQBJmf"
@@ -30016,6 +30070,28 @@
       "duration_ms": 229378,
       "name": "Room in a Bubble",
       "url": "https://open.spotify.com/track/0uzcf8jvTiHFOApUCy8Su3"
+    },
+    {
+      "album": {
+        "name": "Rope a Dope",
+        "url": "https://open.spotify.com/album/2MaVgumRCNnK6N3hHCpNOF"
+      },
+      "artists": [
+        {
+          "name": "Corneille",
+          "url": "https://open.spotify.com/artist/2GBDOaCl73BVUs2RerIme7"
+        },
+        {
+          "name": "Sarahm\u00e9e",
+          "url": "https://open.spotify.com/artist/7icPanI4wjZVQCkvaUMWLX"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174155,
+      "name": "Rope a Dope",
+      "url": "https://open.spotify.com/track/1kt1LE9Y8CZEBOppXERFDS"
     },
     {
       "album": {
@@ -33700,7 +33776,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 189400,
       "name": "Tit'souite",
       "url": "https://open.spotify.com/track/7ApiyLZOAueIeptD8rebbW"

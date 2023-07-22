@@ -4,7 +4,7 @@
 
 > Chill house beats for hanging out in the sun.
 
-383 songs - 19 hr 28 min
+384 songs - 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,6 +239,7 @@
 | [Nomade](https://open.spotify.com/track/6R48AoBcoZshOkEvvxDxQO) | [Candrian](https://open.spotify.com/artist/63cZ0PSG0ATAKRWRmTcYAJ) | [Nomade](https://open.spotify.com/album/7B1MFYFEIxirQuLFahhqmC) | 2:12 | 2022-06-10 |  |
 | [Ocean](https://open.spotify.com/track/3Qn6hKeGqsjMHD899nIeY3) | [Loumé](https://open.spotify.com/artist/6o8bvjajrVq9BnXoR7bXnH) | [Ocean](https://open.spotify.com/album/1uDJvmhHdkbR049xwpkOEF) | 1:55 | 2022-07-29 | 2023-05-23 |
 | [Ocean Blue](https://open.spotify.com/track/2Di8gjxNomIbXi0hctCYHv) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [Ocean Blue](https://open.spotify.com/album/6Hic9mhG606ee2BuyhlGlH) | 3:18 | 2022-09-02 |  |
+| [OFF DAY](https://open.spotify.com/track/5ZZZRpzWasI2ZU2XGXzP70) | [Suuunday](https://open.spotify.com/artist/1bBmR4RoeoRqkJgI7R8fAv) | [OFF DAY](https://open.spotify.com/album/0JLG2vKp48P3aWLCBskAMF) | 2:30 | 2023-07-21 |  |
 | [Oh Baby...](https://open.spotify.com/track/6vB1aSBFevopVN93x8AKsX) | [DJ Madrigal](https://open.spotify.com/artist/5pVBan726Z1RmlJjXSySk8) | [Oh Baby...](https://open.spotify.com/album/3Hqr0o6QjM6dOUYM40k9Zp) | 3:37 | 2022-04-05 | 2022-09-02 |
 | [On Call](https://open.spotify.com/track/2ql1QG6dYm78woKX6FvA0H) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [On Call](https://open.spotify.com/album/4IqJ3D2b8mujlL8z0aHeEX) | 4:27 | 2022-08-05 |  |
 | [on my mind](https://open.spotify.com/track/79A8xKMQDj3mPY0J7CNpLy) | [Good Kings](https://open.spotify.com/artist/0p9lqEL03evk1imDzxLJJU) | [on my mind](https://open.spotify.com/album/3V3Wbbd4KwxV9jBJ9EB7gs) | 2:57 | 2022-09-02 |  |
@@ -343,7 +344,7 @@
 | [Supine](https://open.spotify.com/track/5Ko0o58lO7LJDsIl4vpLxy) | [P.A.V](https://open.spotify.com/artist/4pqyg42kTh4xrULdghsTGV) | [Supine](https://open.spotify.com/album/0r1YdNfM2IKLNDHxSuPZkM) | 2:34 | 2022-09-09 | 2023-07-21 |
 | [Sur Mer](https://open.spotify.com/track/3hyBObu11mMYg6XLJELC5J) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Calm Down Rewind](https://open.spotify.com/album/5DY4s62iEtBsEfwA7PKRqQ) | 4:33 | 2022-04-05 | 2022-05-11 |
 | [sweaty palms](https://open.spotify.com/track/4nRP3DPkiZICuDpYlliATw) | [Manic Twister](https://open.spotify.com/artist/2PhILsiPfdlMu8brbtXvh7) | [sweaty palms](https://open.spotify.com/album/00gsJW5JdlirXTyipA6XkX) | 2:40 | 2022-06-24 | 2022-07-29 |
-| [Sweet Summer Love](https://open.spotify.com/track/5uTweDW8y0Yd5MZpOEv3xT) | [Rocket Jr](https://open.spotify.com/artist/6OGkTrVt13n4C075wLe17B) | [Sweet Summer Love](https://open.spotify.com/album/6b1U1RvdMG52kJgBINSOJM) | 3:26 | 2022-12-09 |  |
+| [Sweet Summer Love](https://open.spotify.com/track/5uTweDW8y0Yd5MZpOEv3xT) | [Rocket Jr](https://open.spotify.com/artist/6OGkTrVt13n4C075wLe17B) | [Sweet Summer Love](https://open.spotify.com/album/6b1U1RvdMG52kJgBINSOJM) | 3:26 | 2022-12-09 | 2023-07-22 |
 | [Swoosh](https://open.spotify.com/track/2d5fQd2dmrPfWd0CCqelkP) | [SoN](https://open.spotify.com/artist/4UD8MDe0kMu0QPtMUzeaEE) | [Swoosh](https://open.spotify.com/album/3WUfj10ZPtllBAqGRsnQGu) | 3:02 | 2022-04-05 | 2022-07-08 |
 | [Taking Polaris](https://open.spotify.com/track/4PkVCSor0FoPx1X2FGJ9gR) | [DEX 1200](https://open.spotify.com/artist/2roONpdgmZHRTpr1IFNw0d) | [Taking Polaris EP](https://open.spotify.com/album/0mIW9wjcZgEg57Nz957jYP) | 4:43 | 2022-04-05 | 2022-07-29 |
 | [Talk To Me](https://open.spotify.com/track/0LaErT2gDG7iZhHDKrrb2v) | [Egelloc](https://open.spotify.com/artist/03zsYt1vzRxmXN0OUhCr7g) | [Talk To Me](https://open.spotify.com/album/53caWippf1sBtHtsD2qEKL) | 2:59 | 2022-04-05 | 2022-09-17 |

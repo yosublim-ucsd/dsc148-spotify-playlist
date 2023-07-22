@@ -4,7 +4,7 @@
 
 > open the pit\. cover: Scowl
 
-121 songs - 5 hr 14 min
+124 songs - 5 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,6 +99,7 @@
 | [Shot Down](https://open.spotify.com/track/77zkyIocDlQTwVNHjha03b) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Psychic Dance Routine](https://open.spotify.com/album/6D01SHeT4jDonHaDkKn8a7) | 1:49 | 2023-07-18 |  |
 | [Silent Wolf](https://open.spotify.com/track/6gl6fnNnVnf8tenvR8OHqh) | [Harms Way](https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek) | [Silent Wolf](https://open.spotify.com/album/6jkHJnpzgsw7oqHVqDA5zY) | 2:45 | 2023-07-18 |  |
 | [Soul Deprivation](https://open.spotify.com/track/2znXHOOnt1MyScfn5BS9z0) | [Doomsday](https://open.spotify.com/artist/6mHdvtPmloBOmaLRo5dyJY) | [Depictions of Chaos](https://open.spotify.com/album/1HM8IieKhKLNVnw3oaeclh) | 2:28 | 2023-02-24 | 2023-07-18 |
+| [Space Jam](https://open.spotify.com/track/136Q0eeThQ5XXdZugchB1S) | [Angel Du$t](https://open.spotify.com/artist/2ynylCO9SRPTKjgNEH0Y2a) | [Space Jam](https://open.spotify.com/album/6M17HNFNTvOuEJYIrjvoBe) | 1:38 | 2023-07-21 |  |
 | [Sterilized](https://open.spotify.com/track/0csFnIwyqcxQCwDGKWQLB2) | [Lethal](https://open.spotify.com/artist/1PUkdBCElxs4Lwc48Kamsz) | [Lethal's Hardcore Hit Parade](https://open.spotify.com/album/57Ij7pxjA9shumvHtfWqpK) | 1:24 | 2023-07-18 |  |
 | [Sullenboy](https://open.spotify.com/track/5Oe5xtq5WhAWTuTYileBYz) | [Fiddlehead](https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa) | [Sullenboy](https://open.spotify.com/album/6bAhgr0TCyU7BqggO1a9L6) | 3:19 | 2023-06-12 |  |
 | [Suspend This Life](https://open.spotify.com/track/4AJeJGnx67RojXzrWGUWXZ) | [Field of Flames](https://open.spotify.com/artist/7vePJsKD0BtKip0yC5Dv8J) | [Suspend This Life...](https://open.spotify.com/album/1255avWn2ZjpEzeHrhjQDk) | 2:54 | 2023-07-18 |  |
@@ -110,9 +111,11 @@
 | [The Portrait, Now Perceived](https://open.spotify.com/track/1gx45zvC0tdRawEPVIT8W7) | [Excide](https://open.spotify.com/artist/340j9YEGnVocbAAgrtiBUh) | [Deliberate Revolver](https://open.spotify.com/album/29pnd8Su99YAqNbXzk2bdg) | 3:51 | 2023-02-24 |  |
 | [The Whole World Is Going Insane](https://open.spotify.com/track/0vg20pb8LtH1g8aqPIDK6J) | [Roughed Up](https://open.spotify.com/artist/4OhXYJWzSlb33F7UtmRTgb) | [King and Council](https://open.spotify.com/album/3skHBTTM1EPjztnxNelXCe) | 2:54 | 2023-02-24 |  |
 | [Theory of Mind](https://open.spotify.com/track/2Xi6LZpHWcMHIV6ISd3cHU) | [Kublai Khan TX](https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4) | [Theory of Mind](https://open.spotify.com/album/7gZ9pMj6MrqrAZz4ilZ7qg) | 3:51 | 2023-05-08 |  |
+| [Tied Up](https://open.spotify.com/track/72Y7Da2yCVrY7ebbxOTMBZ) | [Capra](https://open.spotify.com/artist/4jfu3bxtFywqyCRuTcsve4) | [Tied Up](https://open.spotify.com/album/49bMv7dEai2wLw7E2WTiIM) | 2:21 | 2023-07-21 |  |
 | [Torn From Your Silhouette](https://open.spotify.com/track/1zLdk7jMOHh3QQkC9GrW5L) | [Dying Wish](https://open.spotify.com/artist/4igS2MSwOIf3F9YeL929IO) | [Torn From Your Silhouette](https://open.spotify.com/album/5mTEPe5O2xBhkGJpDalRx4) | 2:26 | 2023-04-11 |  |
 | [Tunnel Vision](https://open.spotify.com/track/0RxvS6KLWG0SYqQJnhHIpM) | [Jesus Piece](https://open.spotify.com/artist/5ZPr0RHsR3DrAhtsYMsfHR) | [Tunnel Vision](https://open.spotify.com/album/1GZ2py8wHv4xPTfTFmlfmz) | 3:22 | 2023-02-24 |  |
-| [Under My Skin](https://open.spotify.com/track/2WSK2AMe6HMWnf5v44WZ0Y) | [Pain of Truth](https://open.spotify.com/artist/6tnuL2AIiA5wCpO5Pm8Xql), [Criminal Instinct](https://open.spotify.com/artist/6xsGJ9bN356SeA1eP43L81) | [Under My Skin](https://open.spotify.com/album/0NeYAcRZFc5kQWyoUucMxG) | 2:52 | 2023-07-18 |  |
+| [Under My Skin](https://open.spotify.com/track/2WSK2AMe6HMWnf5v44WZ0Y) | [Pain of Truth](https://open.spotify.com/artist/6tnuL2AIiA5wCpO5Pm8Xql), [Criminal Instinct](https://open.spotify.com/artist/6xsGJ9bN356SeA1eP43L81) | [Under My Skin](https://open.spotify.com/album/0NeYAcRZFc5kQWyoUucMxG) | 2:52 | 2023-07-18 | 2023-07-22 |
+| [Under My Skin](https://open.spotify.com/track/31b42JpcNCgM1AV3l7Ixje) | [Pain of Truth](https://open.spotify.com/artist/6tnuL2AIiA5wCpO5Pm8Xql), [Criminal Instinct](https://open.spotify.com/artist/6xsGJ9bN356SeA1eP43L81) | [Under My Skin](https://open.spotify.com/album/3YjB0HnU6qIJIvyxxGovGo) | 2:52 | 2023-07-18 |  |
 | [Vie](https://open.spotify.com/track/54KEWhhs5KnGPTtlJNNg6w) | [Fury](https://open.spotify.com/artist/62zeCnl4XbUvKMrkNAmmm0) | [Vie](https://open.spotify.com/album/67uI83VDTFiMPYJazZgzaO) | 3:48 | 2023-06-20 |  |
 | [Walk Away](https://open.spotify.com/track/3oTmI7QmcVxDarZBjIFo20) | [Throwdown](https://open.spotify.com/artist/18jFO6Z2Bpdv5jp8mXfChN) | [Haymaker](https://open.spotify.com/album/5jq1TKdbp3hZrT7iJw4VPS) | 3:01 | 2023-02-24 | 2023-06-21 |
 | [War Above Los Angeles](https://open.spotify.com/track/2Andf7SMtdA0IVvwzwY2zS) | [OFF!](https://open.spotify.com/artist/4fY9hRf8gHMOszNWFhR1wB) | [Free LSD](https://open.spotify.com/album/5nER4eLsGNJadmUGamAsCF) | 2:55 | 2023-02-24 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: Shaodree",
+  "description": "Lan\u00e7amentos e novos nomes do trap nacional. Foto: Sidoka",
   "name": "Dose Trap",
   "tracks": [
     {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 155093,
       "name": "##BE4REAL",
       "url": "https://open.spotify.com/track/7F484PLwEnVwYMxzukte2U"
@@ -211,6 +211,32 @@
     },
     {
       "album": {
+        "name": "20K no Dior",
+        "url": "https://open.spotify.com/album/2JdbOPFrVMCi2fTgdSiJE0"
+      },
+      "artists": [
+        {
+          "name": "BLACK MOB",
+          "url": "https://open.spotify.com/artist/6fln1Tr6HEnvnYy4NqkaQu"
+        },
+        {
+          "name": "Gree Cassua",
+          "url": "https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ"
+        },
+        {
+          "name": "Mc negrone",
+          "url": "https://open.spotify.com/artist/660rMB6VLmtOdSBdtm62hw"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165677,
+      "name": "20K no Dior",
+      "url": "https://open.spotify.com/track/5Tgz5DZOH2oImtnpyPSeS5"
+    },
+    {
+      "album": {
         "name": "23 tropa do mano",
         "url": "https://open.spotify.com/album/11Nqy7tN74K2MReZ6vAmri"
       },
@@ -256,7 +282,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 151320,
       "name": "3EskinaE1PontoCego",
       "url": "https://open.spotify.com/track/0HvQ4s6bxq1Rbh4hFtXBvP"
@@ -334,7 +360,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 72489,
       "name": "60Mg",
       "url": "https://open.spotify.com/track/2ET6MFVUrbFDNRBCqTAsk4"
@@ -924,7 +950,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 121697,
       "name": "Ambatukam!",
       "url": "https://open.spotify.com/track/2LUGd049Ff6l6fgeULkEbJ"
@@ -1194,7 +1220,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 121034,
       "name": "Arrasta pra Cima",
       "url": "https://open.spotify.com/track/79PVk0cMy8sPqdIEimtYu6"
@@ -4446,6 +4472,24 @@
       "duration_ms": 140571,
       "name": "Danada",
       "url": "https://open.spotify.com/track/1MnSWIkih7JVm1YwQbZYiK"
+    },
+    {
+      "album": {
+        "name": "Dchefe",
+        "url": "https://open.spotify.com/album/3ko7J3r38t0z5R4aSJwtjY"
+      },
+      "artists": [
+        {
+          "name": "Xlira",
+          "url": "https://open.spotify.com/artist/04QWfJ4FFEDQ4Y87453zmj"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125901,
+      "name": "Dchefe",
+      "url": "https://open.spotify.com/track/0fIrZwWPBe4rnili6ECsuN"
     },
     {
       "album": {
@@ -7885,6 +7929,36 @@
     },
     {
       "album": {
+        "name": "Hora Certa",
+        "url": "https://open.spotify.com/album/5qCLJADRwIka8Z042uEAKS"
+      },
+      "artists": [
+        {
+          "name": "SV",
+          "url": "https://open.spotify.com/artist/6fgtFTpCDLz7xDyS6OVQgh"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "RUXN",
+          "url": "https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i"
+        },
+        {
+          "name": "Dexter",
+          "url": "https://open.spotify.com/artist/76IyGPd3y2mBZCljGcke0x"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205682,
+      "name": "Hora Certa",
+      "url": "https://open.spotify.com/track/2YqqmVZW0bCIXpWip8bjEl"
+    },
+    {
+      "album": {
         "name": "Hora da Vit\u00f3ria",
         "url": "https://open.spotify.com/album/5Oae3eiFjXcx9FdsRHQ6KK"
       },
@@ -8636,6 +8710,24 @@
       "duration_ms": 138305,
       "name": "Latam",
       "url": "https://open.spotify.com/track/1KPbtkm8RfXBBA8oZg0mzf"
+    },
+    {
+      "album": {
+        "name": "Latina",
+        "url": "https://open.spotify.com/album/2y2YyxURVs5Tz6UlFTo4pa"
+      },
+      "artists": [
+        {
+          "name": "Burn-O",
+          "url": "https://open.spotify.com/artist/2L8Zk7Y14wkqiiYQ3J53Sn"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Latina",
+      "url": "https://open.spotify.com/track/2exEtkHxaBXBCVU8v5H56T"
     },
     {
       "album": {
@@ -9752,7 +9844,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 172972,
       "name": "Me Diz",
       "url": "https://open.spotify.com/track/3vyOyDDfa8ukMfOeYoVJ6Z"
@@ -10376,6 +10468,28 @@
       "duration_ms": 150870,
       "name": "Mira Laser",
       "url": "https://open.spotify.com/track/12WxZikyM1bOt0WZmI98aQ"
+    },
+    {
+      "album": {
+        "name": "Mlk Mala",
+        "url": "https://open.spotify.com/album/2isX48AF8iI8eyRyDWp3Lb"
+      },
+      "artists": [
+        {
+          "name": "Sidoka",
+          "url": "https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l"
+        },
+        {
+          "name": "BREEZE",
+          "url": "https://open.spotify.com/artist/2McfEbmX82KjLibSzYi7ZD"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148794,
+      "name": "Mlk Mala",
+      "url": "https://open.spotify.com/track/2VMZmUtw4fWht4Lc7fngrH"
     },
     {
       "album": {
@@ -13679,6 +13793,24 @@
     },
     {
       "album": {
+        "name": "Rei da Madrugada",
+        "url": "https://open.spotify.com/album/6hNcLenB8iMRbOGcIMWMrH"
+      },
+      "artists": [
+        {
+          "name": "MC Neg\u00e3o da BL",
+          "url": "https://open.spotify.com/artist/6AfahUc7TbvGBfpl0Ppvfq"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137148,
+      "name": "Rei da Madrugada",
+      "url": "https://open.spotify.com/track/59WERrLBfvgAOR6ejjIfEK"
+    },
+    {
+      "album": {
         "name": "Rei da Putaria",
         "url": "https://open.spotify.com/album/3ANKb8aMArg4cBBGLzfZ9C"
       },
@@ -15296,10 +15428,32 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 181500,
       "name": "Tava Escrito",
       "url": "https://open.spotify.com/track/5kKxINTPSxO6JEpIRCzG0K"
+    },
+    {
+      "album": {
+        "name": "Tchau e Vaza",
+        "url": "https://open.spotify.com/album/4MKHOe31aGoO1lqxMtQojU"
+      },
+      "artists": [
+        {
+          "name": "Bra\u00e3o",
+          "url": "https://open.spotify.com/artist/0GGDntDaQgJVknzJlXD1Nd"
+        },
+        {
+          "name": "Tillmann",
+          "url": "https://open.spotify.com/artist/4ozkb2MvrszWeLI6moQi8h"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Tchau e Vaza",
+      "url": "https://open.spotify.com/track/0w2JWMbEu99359482TztOA"
     },
     {
       "album": {
@@ -15842,7 +15996,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 200000,
       "name": "Trenz\u00e3o",
       "url": "https://open.spotify.com/track/2TOKZLptHNxrBJAwLCSdpV"
@@ -16964,6 +17118,28 @@
       "duration_ms": 173558,
       "name": "Wonka 2",
       "url": "https://open.spotify.com/track/1zxtzEkDL9eseOTgx48Ssz"
+    },
+    {
+      "album": {
+        "name": "Woodstock",
+        "url": "https://open.spotify.com/album/4fBpEiUQgpFIGatcEzvEKD"
+      },
+      "artists": [
+        {
+          "name": "Slugg",
+          "url": "https://open.spotify.com/artist/7t2WDNwVoFbq6iZPkv60kR"
+        },
+        {
+          "name": "Big Rush",
+          "url": "https://open.spotify.com/artist/5bzmuR63NqjwQBN0z8nQpF"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154787,
+      "name": "Woodstock",
+      "url": "https://open.spotify.com/track/3g02raxbpGHrIoDbd2mo39"
     },
     {
       "album": {

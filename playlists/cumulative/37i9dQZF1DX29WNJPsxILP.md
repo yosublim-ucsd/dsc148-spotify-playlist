@@ -4,12 +4,13 @@
 
 > Rap from the hoods of Dilli\- Yungsta, Calm, Frappe Ash & Sez on the Beat.
 
-73 songs - 4 hr 0 min
+74 songs - 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [10 Pe 10](https://open.spotify.com/track/7AMHv3AWy7xy9MHya4KPMg) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [10 Pe 10](https://open.spotify.com/album/1x7Je1a2xgUd0EtWjvdcGu) | 3:07 | 2023-03-10 |  |
-| [2 Woofer](https://open.spotify.com/track/6y9aJZQU0mywzO6Ev69Uls) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [Hustle 2.0](https://open.spotify.com/album/1IwG4KxgETGFj087O5sF2C) | 2:30 | 2023-03-10 |  |
+| [2 Woofer](https://open.spotify.com/track/2U6hsKVmvXbAGHouEQDLOp) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [Mtv Hustle 2.0](https://open.spotify.com/album/2WbTyQKy64ReQPkxN4pR8R) | 2:30 | 2023-05-18 |  |
+| [2 Woofer](https://open.spotify.com/track/6y9aJZQU0mywzO6Ev69Uls) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [Hustle 2.0](https://open.spotify.com/album/1IwG4KxgETGFj087O5sF2C) | 2:30 | 2023-03-10 | 2023-07-22 |
 | [Abey Yaar](https://open.spotify.com/track/5S2MwJBXp4JTC9r16btsJv) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8) | [Abey Yaar](https://open.spotify.com/album/0TL3cakInbP0w8mRY7mFr4) | 2:51 | 2023-03-10 |  |
 | [Angad](https://open.spotify.com/track/1jsI1eBSguo06e4ocINgVp) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA) | [Angad](https://open.spotify.com/album/1sPEgdT59qlNeHtkPkGcm2) | 2:48 | 2023-03-10 |  |
 | [Bach Ke Rehna \(Red Notice\)](https://open.spotify.com/track/7fCbbPG8ClYyzKWy53N2jJ) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Mikey McCleary](https://open.spotify.com/artist/6p4FpOvJaSSljYGlkKsS40) | [Bach Ke Rehna \(Red Notice\)](https://open.spotify.com/album/1xdYAwQDw8Dp7AxD0ubUul) | 3:42 | 2023-03-10 |  |

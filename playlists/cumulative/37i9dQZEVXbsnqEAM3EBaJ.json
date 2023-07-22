@@ -49,6 +49,36 @@
     },
     {
       "album": {
+        "name": "1971",
+        "url": "https://open.spotify.com/album/5NQlz34r4WxXuJ8gIDxTDn"
+      },
+      "artists": [
+        {
+          "name": "Outlanders",
+          "url": "https://open.spotify.com/artist/07BLxS6oBpkKubipZvuDTP"
+        },
+        {
+          "name": "Tarja",
+          "url": "https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc"
+        },
+        {
+          "name": "Walter Giardino",
+          "url": "https://open.spotify.com/artist/13sN20Fe1isPXTYSsL7AX5"
+        },
+        {
+          "name": "Torsten Stenzel",
+          "url": "https://open.spotify.com/artist/0wxa02PwiKJW3ZpzYHlCN2"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389250,
+      "name": "1971",
+      "url": "https://open.spotify.com/track/7KdtM4CcK29gLAUqvCOibR"
+    },
+    {
+      "album": {
         "name": "72 Seasons",
         "url": "https://open.spotify.com/album/2X98AknWzyfvAD2xdf3bDq"
       },
@@ -218,6 +248,32 @@
       "duration_ms": 410466,
       "name": "A Self Made Man - Live",
       "url": "https://open.spotify.com/track/5kOZBQqbPEAMVGKbdfSbbs"
+    },
+    {
+      "album": {
+        "name": "A Veces Bien a Veces Mal",
+        "url": "https://open.spotify.com/album/20OrFsDu55gkVr7dY5JUjy"
+      },
+      "artists": [
+        {
+          "name": "Matiah Chinaski",
+          "url": "https://open.spotify.com/artist/5vuvIhz2SwFX9sA976g49F"
+        },
+        {
+          "name": "Sebasti\u00e1n Orellana",
+          "url": "https://open.spotify.com/artist/5uosMg0bUbmZIlQpzTAPc7"
+        },
+        {
+          "name": "Dj Perez",
+          "url": "https://open.spotify.com/artist/4pYx5PDavOZqKec3vIX9Xr"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247583,
+      "name": "A Veces Bien a Veces Mal",
+      "url": "https://open.spotify.com/track/1py1Q70o23MDIghZWTVzE9"
     },
     {
       "album": {
@@ -890,6 +946,24 @@
       "duration_ms": 47673,
       "name": "Band Introductions, Pt.2 - Live 1974",
       "url": "https://open.spotify.com/track/409sy5a6mjUpfO3e9nw0zU"
+    },
+    {
+      "album": {
+        "name": "The Ballad of Darren",
+        "url": "https://open.spotify.com/album/0gIZSG9WUDO3TK0B5y7UtU"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248774,
+      "name": "Barbaric",
+      "url": "https://open.spotify.com/track/71o2pLB6Xu62uVjqpwmiS9"
     },
     {
       "album": {
@@ -4943,6 +5017,28 @@
     },
     {
       "album": {
+        "name": "July: Reaper's Song from The Seasons, Op. 37a",
+        "url": "https://open.spotify.com/album/6hSGHwJohK7KZjb3amiVaI"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Digital Vinyl",
+          "url": "https://open.spotify.com/artist/0X9EKzOkxJ5A5ARUW5RbSZ"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129996,
+      "name": "July: Reaper's Song from The Seasons, Op. 37a",
+      "url": "https://open.spotify.com/track/5Kqgvp1YuW7vxMyYaIZc9i"
+    },
+    {
+      "album": {
         "name": "Tchaikovsky: The Seasons, Op. 37a",
         "url": "https://open.spotify.com/album/3fnH6D6hS1djsoUdWJocK5"
       },
@@ -6560,7 +6656,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 393000,
       "name": "Mystique Voyage",
       "url": "https://open.spotify.com/track/1MrvLZaIM8EvhTWgckyBOg"
@@ -8859,6 +8955,24 @@
     },
     {
       "album": {
+        "name": "skin in the game",
+        "url": "https://open.spotify.com/album/1EYRoDy36KEklMF2LJRnZb"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232537,
+      "name": "skin in the game",
+      "url": "https://open.spotify.com/track/3X0KbbFJSUK1hzXggbtreP"
+    },
+    {
+      "album": {
         "name": "Snow Reflections",
         "url": "https://open.spotify.com/album/7ApVylYJMd1Ze019eVI0ti"
       },
@@ -9200,7 +9314,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 235325,
       "name": "St. Charles Square",
       "url": "https://open.spotify.com/track/0JQ3jQlKcmS3HUssKGfyLL"
@@ -9978,7 +10092,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 115250,
       "name": "The Seasons, Op. 37a, TH 135: VII. July Song of the Reaper",
       "url": "https://open.spotify.com/track/2vdVCW4xjqo8cJu6t61rjY"
@@ -10004,6 +10118,24 @@
       "duration_ms": 237031,
       "name": "The Seasons, Op. 37a: No. 6, June. Barcarolle",
       "url": "https://open.spotify.com/track/73HYJKK2trGgRT3PqSYfOV"
+    },
+    {
+      "album": {
+        "name": "Louise",
+        "url": "https://open.spotify.com/album/1rzck41dXGPFnOnLcN66Sr"
+      },
+      "artists": [
+        {
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315546,
+      "name": "The Sign - Extended Remix",
+      "url": "https://open.spotify.com/track/7AeooPeVsCx5CZdsGuFXLJ"
     },
     {
       "album": {
@@ -11267,6 +11399,24 @@
     },
     {
       "album": {
+        "name": "White Line Frankenstein",
+        "url": "https://open.spotify.com/album/5XodKvil0Thw2XAMBFAuxv"
+      },
+      "artists": [
+        {
+          "name": "Alice Cooper",
+          "url": "https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220546,
+      "name": "White Line Frankenstein",
+      "url": "https://open.spotify.com/track/00RqWw41Rtiwu43KPWEucZ"
+    },
+    {
+      "album": {
         "name": "The Who With Orchestra: Live At Wembley",
         "url": "https://open.spotify.com/album/0ZM1dVIT9Yb2BtWDGM1ZXx"
       },
@@ -11286,6 +11436,36 @@
       "duration_ms": 413186,
       "name": "Who Are You - Live At Wembley, UK / 2019",
       "url": "https://open.spotify.com/track/5pNqiPmmVcBPWk3HKNeNg9"
+    },
+    {
+      "album": {
+        "name": "Why Do I",
+        "url": "https://open.spotify.com/album/0P1aIIlxoH6v3zfK50rkmj"
+      },
+      "artists": [
+        {
+          "name": "MOTL",
+          "url": "https://open.spotify.com/artist/2SMbd9wudLwhFu0RZmUsWF"
+        },
+        {
+          "name": "HIM",
+          "url": "https://open.spotify.com/artist/74aLweE8FHHf4yN5TWv1GM"
+        },
+        {
+          "name": "AK",
+          "url": "https://open.spotify.com/artist/7DICBAYiaIMh5MulqwCtET"
+        },
+        {
+          "name": "Calboy",
+          "url": "https://open.spotify.com/artist/0HkcYmcjrBR3SCw9Ld5VZk"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141744,
+      "name": "Why Do I",
+      "url": "https://open.spotify.com/track/42oVhLe9ON8Hjy6xhmeLtq"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Ac\u00e1 hay letra. Foto: AK4:20.",
-  "num_followers": 147353,
+  "num_followers": 147400,
   "original_name": "Rimas y Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTk5ODQ5NWI2YWIyNTliYWU5ZmQwM2I0YjVmNmRkNWM5MzMxOTUy",
+  "snapshot_id": "MCw2YmUyMjI3ODRjZjFmN2VmMTQzNzExYjlmNjE4MGRiN2RlMTA1ZTRi",
   "tracks": [
     {
       "added_at": "2023-06-09 14:06:06",
@@ -999,6 +999,46 @@
     {
       "added_at": "2023-06-09 14:06:06",
       "album": {
+        "name": "Guayo",
+        "url": "https://open.spotify.com/album/7wGdslyqdVvqMV3nPAL6uN"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "Haze",
+          "url": "https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE"
+        }
+      ],
+      "duration_ms": 222301,
+      "name": "Guayo",
+      "url": "https://open.spotify.com/track/4MR1AZhe1p0zTuH2HGhX9L"
+    },
+    {
+      "added_at": "2023-06-09 14:06:06",
+      "album": {
+        "name": "No Vuelvas M\u00e1s",
+        "url": "https://open.spotify.com/album/4VNUfBtbxnBGDbhiGuRiw0"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "duration_ms": 239093,
+      "name": "No Vuelvas M\u00e1s",
+      "url": "https://open.spotify.com/track/0mcBgVRVsvESTkEyVHt7Ue"
+    },
+    {
+      "added_at": "2023-06-09 14:06:06",
+      "album": {
         "name": "Pirueta (with Arcangel, Chencho Corleone, feat. Wisin & Yandel, Myke Towers)",
         "url": "https://open.spotify.com/album/0kWQUKdi65F4BGLS5MErWu"
       },
@@ -1027,46 +1067,6 @@
       "duration_ms": 275241,
       "name": "Pirueta (with Arcangel, Chencho Corleone, feat. Wisin & Yandel, Myke Towers)",
       "url": "https://open.spotify.com/track/5tx7TTJEcrV5642l0Sn2sD"
-    },
-    {
-      "added_at": "2023-06-09 14:06:06",
-      "album": {
-        "name": "No Vuelvas M\u00e1s",
-        "url": "https://open.spotify.com/album/4VNUfBtbxnBGDbhiGuRiw0"
-      },
-      "artists": [
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        }
-      ],
-      "duration_ms": 239093,
-      "name": "No Vuelvas M\u00e1s",
-      "url": "https://open.spotify.com/track/0mcBgVRVsvESTkEyVHt7Ue"
-    },
-    {
-      "added_at": "2023-06-09 14:06:06",
-      "album": {
-        "name": "Guayo",
-        "url": "https://open.spotify.com/album/7wGdslyqdVvqMV3nPAL6uN"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Haze",
-          "url": "https://open.spotify.com/artist/77iZVjeYoYSl5P0K9mIiUE"
-        }
-      ],
-      "duration_ms": 222301,
-      "name": "Guayo",
-      "url": "https://open.spotify.com/track/4MR1AZhe1p0zTuH2HGhX9L"
     },
     {
       "added_at": "2023-06-09 14:06:06",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2023-06-09 14:06:06",
       "album": {
-        "name": "Ganas de Ti",
-        "url": "https://open.spotify.com/album/39mi0GEWIwCjRBdVXnFnyN"
-      },
-      "artists": [
-        {
-          "name": "Wisin & Yandel",
-          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 226520,
-      "name": "Ganas de Ti",
-      "url": "https://open.spotify.com/track/4kuQJb8ghj6268fBTtB3bX"
-    },
-    {
-      "added_at": "2023-06-09 14:06:06",
-      "album": {
         "name": "Las Naik",
         "url": "https://open.spotify.com/album/2ey20BXoeTVyPXLJXIIn8b"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 175258,
       "name": "Las Naik",
       "url": "https://open.spotify.com/track/2xnynOwFxQbgJpsOgco86w"
+    },
+    {
+      "added_at": "2023-06-09 14:06:06",
+      "album": {
+        "name": "Ganas de Ti",
+        "url": "https://open.spotify.com/album/39mi0GEWIwCjRBdVXnFnyN"
+      },
+      "artists": [
+        {
+          "name": "Wisin & Yandel",
+          "url": "https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 226520,
+      "name": "Ganas de Ti",
+      "url": "https://open.spotify.com/track/4kuQJb8ghj6268fBTtB3bX"
     },
     {
       "added_at": "2023-06-09 14:06:06",
@@ -1411,6 +1411,30 @@
     {
       "added_at": "2023-06-09 14:06:06",
       "album": {
+        "name": "Baby Drip",
+        "url": "https://open.spotify.com/album/2q4H20bORpr7SZwnEYVT2d"
+      },
+      "artists": [
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        },
+        {
+          "name": "ZARAMAY",
+          "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
+        },
+        {
+          "name": "Nahuel The Coach",
+          "url": "https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg"
+        }
+      ],
+      "duration_ms": 202746,
+      "name": "Baby Drip",
+      "url": "https://open.spotify.com/track/2WghMUtQxC4N6iTcfTqgoz"
+    },
+    {
+      "added_at": "2023-06-09 14:06:06",
+      "album": {
         "name": "Como Si Nah (feat. KEVVO)",
         "url": "https://open.spotify.com/album/4OhsVQMAJ94vPXS4KCOn0M"
       },
@@ -1435,30 +1459,6 @@
       "duration_ms": 196261,
       "name": "Como Si Nah (feat. KEVVO)",
       "url": "https://open.spotify.com/track/5yUW86tRavTvP8OTfVChtL"
-    },
-    {
-      "added_at": "2023-06-09 14:06:06",
-      "album": {
-        "name": "Baby Drip",
-        "url": "https://open.spotify.com/album/2q4H20bORpr7SZwnEYVT2d"
-      },
-      "artists": [
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-        },
-        {
-          "name": "ZARAMAY",
-          "url": "https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff"
-        },
-        {
-          "name": "Nahuel The Coach",
-          "url": "https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg"
-        }
-      ],
-      "duration_ms": 202746,
-      "name": "Baby Drip",
-      "url": "https://open.spotify.com/track/2WghMUtQxC4N6iTcfTqgoz"
     },
     {
       "added_at": "2023-06-09 14:06:06",
@@ -1503,6 +1503,26 @@
     {
       "added_at": "2023-06-09 14:06:06",
       "album": {
+        "name": "Mala Influencia",
+        "url": "https://open.spotify.com/album/1qb1ja0w8w0m2QYStSs3IA"
+      },
+      "artists": [
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 194579,
+      "name": "Mala Influencia",
+      "url": "https://open.spotify.com/track/28sOLLPgDAdBzDuhkuuLhz"
+    },
+    {
+      "added_at": "2023-06-09 14:06:06",
+      "album": {
         "name": "Parcera",
         "url": "https://open.spotify.com/album/6GRHOMthTb0HMOZDO26D8j"
       },
@@ -1523,26 +1543,6 @@
       "duration_ms": 213652,
       "name": "Parcera",
       "url": "https://open.spotify.com/track/0oct4TDwzs5eydTdDhCj6M"
-    },
-    {
-      "added_at": "2023-06-09 14:06:06",
-      "album": {
-        "name": "Mala Influencia",
-        "url": "https://open.spotify.com/album/1qb1ja0w8w0m2QYStSs3IA"
-      },
-      "artists": [
-        {
-          "name": "Noriel",
-          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 194579,
-      "name": "Mala Influencia",
-      "url": "https://open.spotify.com/track/28sOLLPgDAdBzDuhkuuLhz"
     },
     {
       "added_at": "2023-06-09 14:06:06",

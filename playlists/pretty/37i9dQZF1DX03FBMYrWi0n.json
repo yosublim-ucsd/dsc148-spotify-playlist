@@ -1,12 +1,12 @@
 {
   "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: Bon Enfant",
-  "num_followers": 2251,
+  "num_followers": 2262,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTQwZjNlYTcxY2I2NzczYmIxNzliMDJkNjM5MTA1NjllMzczZjI1",
+  "snapshot_id": "MCwxMjJmNTU5ZmNhZTM3MzMyM2RlMWZiZTg3ZGViNzk4NDMwZTNhMDYz",
   "tracks": [
     {
       "added_at": "2023-07-14 04:00:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Elle vit dans les bois",
-        "url": "https://open.spotify.com/album/7zqogW39G3OCAsmbFXN36I"
-      },
-      "artists": [
-        {
-          "name": "Marie C\u00e9leste",
-          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
-        }
-      ],
-      "duration_ms": 209570,
-      "name": "Elle vit dans les bois",
-      "url": "https://open.spotify.com/track/3Z4t5ksVMY1jpQ0NFGaskn"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "P\u00eale-m\u00eale",
         "url": "https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 149882,
       "name": "America",
       "url": "https://open.spotify.com/track/33rT04o70vs8yAv2OBvchQ"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Elle vit dans les bois",
+        "url": "https://open.spotify.com/album/7zqogW39G3OCAsmbFXN36I"
+      },
+      "artists": [
+        {
+          "name": "Marie C\u00e9leste",
+          "url": "https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ"
+        }
+      ],
+      "duration_ms": 209570,
+      "name": "Elle vit dans les bois",
+      "url": "https://open.spotify.com/track/3Z4t5ksVMY1jpQ0NFGaskn"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Lou-Adriane Cassidy vous dit : Bonsoir",
-        "url": "https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7"
-      },
-      "artists": [
-        {
-          "name": "Lou-Adriane Cassidy",
-          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
-        }
-      ],
-      "duration_ms": 149226,
-      "name": "Entre mes jambes",
-      "url": "https://open.spotify.com/track/2jnzN5bQk8zM6lWm0lKu4n"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Cantalou",
         "url": "https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 211920,
       "name": "Cantalou",
       "url": "https://open.spotify.com/track/4LH1yovTzfMEVOg1con0BD"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Lou-Adriane Cassidy vous dit : Bonsoir",
+        "url": "https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7"
+      },
+      "artists": [
+        {
+          "name": "Lou-Adriane Cassidy",
+          "url": "https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt"
+        }
+      ],
+      "duration_ms": 149226,
+      "name": "Entre mes jambes",
+      "url": "https://open.spotify.com/track/2jnzN5bQk8zM6lWm0lKu4n"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Chicout",
-        "url": "https://open.spotify.com/album/5jJZizjQO3LX5fDMGDymog"
-      },
-      "artists": [
-        {
-          "name": "Chassepareil",
-          "url": "https://open.spotify.com/artist/6yKVveIYmTnighfSb8E91u"
-        }
-      ],
-      "duration_ms": 220607,
-      "name": "Feu de for\u00eat",
-      "url": "https://open.spotify.com/track/7mVYp5DvhrOLm3cGg8mK8M"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Notre-Dame-des-Sept-Douleurs",
         "url": "https://open.spotify.com/album/4kNpkRG2YpK4jV9OoopVNh"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 170293,
       "name": "M\u00e9lamine",
       "url": "https://open.spotify.com/track/0JtMrH5khKzzjDztgZrpkI"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Chicout",
+        "url": "https://open.spotify.com/album/5jJZizjQO3LX5fDMGDymog"
+      },
+      "artists": [
+        {
+          "name": "Chassepareil",
+          "url": "https://open.spotify.com/artist/6yKVveIYmTnighfSb8E91u"
+        }
+      ],
+      "duration_ms": 220607,
+      "name": "Feu de for\u00eat",
+      "url": "https://open.spotify.com/track/7mVYp5DvhrOLm3cGg8mK8M"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
+        "name": "Rencontrer looloo",
+        "url": "https://open.spotify.com/album/5p5o5lAkjxOMk6wPHgtfrP"
+      },
+      "artists": [
+        {
+          "name": "Chocolat",
+          "url": "https://open.spotify.com/artist/1WCqmUezh1dSnBcHSozS57"
+        }
+      ],
+      "duration_ms": 150320,
+      "name": "Ah ouin",
+      "url": "https://open.spotify.com/track/1W6VCZ9DPxgpgIGRgYmjL8"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
         "name": "Choses Sauvages II",
         "url": "https://open.spotify.com/album/7657M6M94q7ufrPDQno2Yt"
       },
@@ -879,38 +895,6 @@
       "duration_ms": 237000,
       "name": "Chambre d'\u00e9cho",
       "url": "https://open.spotify.com/track/3K39UcTMhkLDzMJCWR1Fo5"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Phil\u00e9douche",
-        "url": "https://open.spotify.com/album/2Dpv6xDtk2IpPk4OvcZtzH"
-      },
-      "artists": [
-        {
-          "name": "Phil\u00e9mon Cimon",
-          "url": "https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h"
-        }
-      ],
-      "duration_ms": 280513,
-      "name": "Phile\u0301douche",
-      "url": "https://open.spotify.com/track/0CKC1pIz3wLRcVkZAy0eJI"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "La hi\u00e9rarchill",
-        "url": "https://open.spotify.com/album/4fK0td94I2nsMsykLcquaO"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9r\u00f4me 50",
-          "url": "https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6"
-        }
-      ],
-      "duration_ms": 286826,
-      "name": "La hi\u00e9rarchill",
-      "url": "https://open.spotify.com/track/15ve7pAu3GiP8x9yoWNaUw"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -931,6 +915,22 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
+        "name": "Phil\u00e9douche",
+        "url": "https://open.spotify.com/album/2Dpv6xDtk2IpPk4OvcZtzH"
+      },
+      "artists": [
+        {
+          "name": "Phil\u00e9mon Cimon",
+          "url": "https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h"
+        }
+      ],
+      "duration_ms": 280513,
+      "name": "Phile\u0301douche",
+      "url": "https://open.spotify.com/track/0CKC1pIz3wLRcVkZAy0eJI"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/60d9xaZb3SgFRoJR9Lcdra"
       },
@@ -943,6 +943,22 @@
       "duration_ms": 131015,
       "name": "Shine",
       "url": "https://open.spotify.com/track/4aUE56uaJa8ww8eayKVrEq"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "La hi\u00e9rarchill",
+        "url": "https://open.spotify.com/album/4fK0td94I2nsMsykLcquaO"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00f4me 50",
+          "url": "https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6"
+        }
+      ],
+      "duration_ms": 286826,
+      "name": "La hi\u00e9rarchill",
+      "url": "https://open.spotify.com/track/15ve7pAu3GiP8x9yoWNaUw"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -963,22 +979,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Still Stained",
-        "url": "https://open.spotify.com/album/7yam2gXzNOxkeHDPZQOOPv"
-      },
-      "artists": [
-        {
-          "name": "Yves Jarvis",
-          "url": "https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt"
-        }
-      ],
-      "duration_ms": 181676,
-      "name": "Still Stained",
-      "url": "https://open.spotify.com/track/5l6cpf17q2eIOzYQvbhtwa"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Premier juin",
         "url": "https://open.spotify.com/album/4lOsb9ZHpbTcom0mZ7Qz86"
       },
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
+        "name": "Still Stained",
+        "url": "https://open.spotify.com/album/7yam2gXzNOxkeHDPZQOOPv"
+      },
+      "artists": [
+        {
+          "name": "Yves Jarvis",
+          "url": "https://open.spotify.com/artist/19h4y2F9duQ776bv1YhQYt"
+        }
+      ],
+      "duration_ms": 181676,
+      "name": "Still Stained",
+      "url": "https://open.spotify.com/track/5l6cpf17q2eIOzYQvbhtwa"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
         "name": "Tipatshimushtunan",
         "url": "https://open.spotify.com/album/2s2VMACiBYgAJGC5DGEvTy"
       },
@@ -1007,22 +1023,6 @@
       "duration_ms": 245640,
       "name": "40h semaine",
       "url": "https://open.spotify.com/track/45CNy4u2YDVrIAssuOHowr"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Rencontrer looloo",
-        "url": "https://open.spotify.com/album/5p5o5lAkjxOMk6wPHgtfrP"
-      },
-      "artists": [
-        {
-          "name": "Chocolat",
-          "url": "https://open.spotify.com/artist/1WCqmUezh1dSnBcHSozS57"
-        }
-      ],
-      "duration_ms": 150320,
-      "name": "Ah ouin",
-      "url": "https://open.spotify.com/track/1W6VCZ9DPxgpgIGRgYmjL8"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Sentiments nouveaux",
-        "url": "https://open.spotify.com/album/3mgWiKYNpcaaESQCp8SKqH"
-      },
-      "artists": [
-        {
-          "name": "Le Couleur",
-          "url": "https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy"
-        }
-      ],
-      "duration_ms": 213892,
-      "name": "Sentiments nouveaux",
-      "url": "https://open.spotify.com/track/5Gf05sJ1T2JPaclXS1GK71"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "O\u00f9 nos corps s'en vont mourir",
         "url": "https://open.spotify.com/album/5wTzdT6lhcpv8PBqQkxXoA"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 177413,
       "name": "Amy",
       "url": "https://open.spotify.com/track/6cjoFnCGY5bBlcxu0W7gvq"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Sentiments nouveaux",
+        "url": "https://open.spotify.com/album/3mgWiKYNpcaaESQCp8SKqH"
+      },
+      "artists": [
+        {
+          "name": "Le Couleur",
+          "url": "https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy"
+        }
+      ],
+      "duration_ms": 213892,
+      "name": "Sentiments nouveaux",
+      "url": "https://open.spotify.com/track/5Gf05sJ1T2JPaclXS1GK71"
     },
     {
       "added_at": "2023-07-14 04:00:00",

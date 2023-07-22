@@ -4,11 +4,11 @@
 
 > A mediterranean sundown soundtrack.
 
-161 songs - 13 hr 23 min
+162 songs - 13 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [4:20](https://open.spotify.com/track/7Bb0O4hmvyRKcj7Yl3MnmW) | [RAS](https://open.spotify.com/artist/5quzk8QzHrBaPWz4JH15cj) | [RAS](https://open.spotify.com/album/0jQ3zArVV1wo3Fjobq1pG5) | 11:31 | 2022-09-05 |  |
+| [4:20](https://open.spotify.com/track/7Bb0O4hmvyRKcj7Yl3MnmW) | [RAS](https://open.spotify.com/artist/5quzk8QzHrBaPWz4JH15cj) | [RAS](https://open.spotify.com/album/0jQ3zArVV1wo3Fjobq1pG5) | 11:31 | 2022-09-05 | 2023-07-22 |
 | [Abusey Junction](https://open.spotify.com/track/67SCL8j8laOVYkPiv4Ei8q) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [KOKOROKO](https://open.spotify.com/album/7DEDf5W3DlySzcs4CQuiuF) | 7:04 | 2023-02-02 |  |
 | [Abusey Junction](https://open.spotify.com/track/6G6gPQ4bGqNj7ZMGUpIDfa) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [KOKOROKO](https://open.spotify.com/album/69O30wRnJwMunRrM6IgSsO) | 7:04 | 2022-09-05 | 2023-04-29 |
 | [African Spirits \- Fred P Interpretation](https://open.spotify.com/track/1tSili6kQNoNpCC9rEcqlr) | [Nicola Conte](https://open.spotify.com/artist/5dUI54FMDxPqaXbNs4kLpB), [Gianluca Petrella](https://open.spotify.com/artist/5lwjOWuZSgq4IC4KvheTMc), [Fred P](https://open.spotify.com/artist/4qgais7fd2CQHtwbpCC4Dz) | [African Spirits / Tribes \(Fred P Interpretation\)](https://open.spotify.com/album/62sxt5o7yzUKTH5aLV2Gqh) | 11:58 | 2023-02-02 | 2023-02-18 |
@@ -136,6 +136,7 @@
 | [Sacred](https://open.spotify.com/track/3scH3LfC2eyoX4zd5sp759) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sacred](https://open.spotify.com/album/4DEhXZRlriX0ZRJvE5dU9i) | 5:47 | 2022-09-05 | 2022-10-18 |
 | [Salut Les Copines!](https://open.spotify.com/track/4r9eG1cNJDhM3Ytk4Q9IDw) | [Erobique](https://open.spotify.com/artist/2Gde0DBcgb2YE6AV1lqLxH), [Luis Baltes](https://open.spotify.com/artist/43oWyBwlsUqdwyUFDH3zAq) | [Salut Les Copines!](https://open.spotify.com/album/55HilqDiXstqvBTcXJjHzO) | 4:44 | 2023-05-26 | 2023-06-17 |
 | [Sign](https://open.spotify.com/track/6QiyjquMOWZqaveqmbhmZE) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Polydans](https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U) | 4:18 | 2022-09-05 |  |
+| [Silver & Gold \- Yarni feat\. Liv East Remix](https://open.spotify.com/track/6NcwcM29hzGg6nmq6YOz42) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS), [Yarni](https://open.spotify.com/artist/7nwdroo6JUr5X1TdAqMBDr), [Liv East](https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7) | [Silver & Gold \(Yarni feat\. Liv East Remix\)](https://open.spotify.com/album/5bdW11Oe6IDrFSROCHH7Ef) | 5:00 | 2023-07-14 |  |
 | [Single Malt \- Radio Edit](https://open.spotify.com/track/2S0s4DaWQ1suo0kL8Hk3em) | [TOSZ](https://open.spotify.com/artist/2LCQPp6WYfZVDySyehHIJM) | [Single Malt](https://open.spotify.com/album/2xdMECfJOl1V2UX89NCITX) | 2:49 | 2022-09-05 |  |
 | [Single Malt \- Radio Edit](https://open.spotify.com/track/7ffLRzH8j7689iiiXsaf2c) | [TOSZ](https://open.spotify.com/artist/2LCQPp6WYfZVDySyehHIJM) | [Single Malt](https://open.spotify.com/album/304HTgYzQp1V2S4R9CqQtO) | 2:49 | 2022-09-05 | 2022-10-17 |
 | [Sketch for Summer](https://open.spotify.com/track/2oeLt7N1amHZiev27FvKE2) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [The Return of The Durutti Column](https://open.spotify.com/album/6ANCHHVpcvjCqQFUDUvDOW) | 2:58 | 2022-09-05 |  |

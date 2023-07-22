@@ -4,7 +4,7 @@
 
 > Nuevo rock alternativo argentino\. <br/>📷 Nina Suárez
 
-159 songs - 9 hr 0 min
+161 songs - 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Hilary D.](https://open.spotify.com/track/6NUfAIEW5Hj3qo8Cj5pEaP) | [Niña Lobo](https://open.spotify.com/artist/4NQaMMaowd4aBdyCHewlZi) | [Hilary D.](https://open.spotify.com/album/38Re6Gvisocy40gAON78H3) | 4:02 | 2022-03-25 | 2023-03-25 |
 | [Hoy Quiero Hacer Lo Que Me Gusta](https://open.spotify.com/track/2pALJdjVALSlW5WXbxva8k) | [El Club Audiovisual](https://open.spotify.com/artist/1YZnktJjGKEbhQBcpQQjQ7) | [Hoy Quiero Hacer Lo Que Me Gusta](https://open.spotify.com/album/22pygsnb57HgmLe0nEhIlB) | 2:09 | 2023-06-02 |  |
 | [Hábitat](https://open.spotify.com/track/27XZVuWnI6J6xA3QNO2eAp) | [Nadar de Noche](https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Hábitat](https://open.spotify.com/album/4vAkxysCMVfWxB60VQCLFO) | 3:49 | 2022-03-25 | 2023-03-25 |
+| [Ideograma](https://open.spotify.com/track/0h5zsbK2qdJo079qgLtp9q) | [Media Hermana](https://open.spotify.com/artist/0oa0TL1V6tfg7ERfm2sMiE) | [Ideograma](https://open.spotify.com/album/5AZFPqMNLc85eO8FoKGSnY) | 4:22 | 2023-07-21 |  |
 | [Igual](https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Igual](https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ) | 4:10 | 2023-03-23 |  |
 | [La Bruma](https://open.spotify.com/track/1JygNtvlAa6fBtw9IpchCG) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [La Bruma](https://open.spotify.com/album/1oMTBKKuzfzwad6M3tRTcp) | 2:53 | 2023-03-23 |  |
 | [La Flecha Envenenada](https://open.spotify.com/track/2ANlv74UURH4GHpOhTHdPI) | [Bubis Vayins](https://open.spotify.com/artist/6v7BKwRlYK3Fds0z0jveCG) | [La Flecha Envenenada](https://open.spotify.com/album/5qwYpjPon7xKnmffXeInfx) | 4:08 | 2023-04-07 | 2023-05-13 |
@@ -130,6 +131,7 @@
 | [Piedra del Águila](https://open.spotify.com/track/4MvI1v4gJiMXzkF2x8O7S1) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Piedra del Águila](https://open.spotify.com/album/2njRQrcNYEI4hDVzD4qmuZ) | 3:14 | 2023-03-23 |  |
 | [PITER \- Versión Hardcore](https://open.spotify.com/track/74BsstrLSfPxh7xZ9a3kQL) | [La Piba Berreta](https://open.spotify.com/artist/4qECsLAGxuTLtPdDtgMCST), [K4](https://open.spotify.com/artist/0yjlGMMFuIci8JCTAOb2AU) | [PITER \(Versión Hardcore\)](https://open.spotify.com/album/28idG6EmqHFGcD5R7syB4O) | 2:27 | 2023-03-23 | 2023-06-17 |
 | [Postales Blancas](https://open.spotify.com/track/39YxebBGVOUcG6PpqbWNhi) | [Tigre Ulli](https://open.spotify.com/artist/5BCAv8GCW0wT3cTY11dl5v) | [Tigre Ulli](https://open.spotify.com/album/26DNyRdYyLd0PE555D8aqU) | 2:07 | 2022-03-25 | 2023-03-25 |
+| [Premature Rejection](https://open.spotify.com/track/4baFbLyq7I0mZvBeeFKOiF) | [Pacifica](https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse) | [Premature Rejection](https://open.spotify.com/album/17vMJptfwmp0Y7DebBK42Q) | 2:32 | 2023-07-21 |  |
 | [Profundidad](https://open.spotify.com/track/4hmQNhL5Zlrij8uAdfFUUk) | [Plenamente](https://open.spotify.com/artist/4rvMATvLzxq3s5GQM0LyGA) | [Interminable](https://open.spotify.com/album/4ODy1H4bdT3pWUXEIDR4LC) | 3:14 | 2023-07-14 |  |
 | [Pulso](https://open.spotify.com/track/4y90PJFul4Mcv17dB7Gz1U) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Pulso](https://open.spotify.com/album/4iKFJ6kNQ83QEsK6HsVoDV) | 2:26 | 2023-03-23 |  |
 | [PUNKY PLAYERO](https://open.spotify.com/track/27ItPouIzWP5i4bPasTR8N) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [MIXTAPE DE VERANO](https://open.spotify.com/album/0PxeMQT4VFstgaEdpPjRqV) | 1:23 | 2022-03-25 | 2023-03-25 |

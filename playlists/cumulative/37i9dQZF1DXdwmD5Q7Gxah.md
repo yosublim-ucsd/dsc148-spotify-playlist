@@ -4,7 +4,7 @@
 
 > All the indescribable feelings that music gives you\. Lil Yachty's psych album >
 
-2,305 songs - 5 day 3 hr 54 min
+2,307 songs - 5 day 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -680,6 +680,7 @@
 | [Falling for U](https://open.spotify.com/track/0sHFw13WH3LtSB3yP8UMYJ) | [Peachy!](https://open.spotify.com/artist/7gvbCoLA8lJUktp8G2xIRR), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Falling for U](https://open.spotify.com/album/1XcWosLrZX4QBLJCkVR3dm) | 2:04 | 2019-10-04 | 2019-10-11 |
 | [Falling For You with Justin Bieber](https://open.spotify.com/track/24MWSatP5sTylISvJONhnB) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [CTV3: Cool Tape Vol\. 3](https://open.spotify.com/album/2NuZ1TloomufyKf57ZLBQn) | 3:42 | 2020-08-30 | 2020-12-23 |
 | [Familiarity](https://open.spotify.com/track/6hB5O4G6L5xa4r3wKSisH3) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Familiarity](https://open.spotify.com/album/48CGCAKq0qCLqZjEnKFBbE) | 3:27 | 2023-04-07 | 2023-06-02 |
+| [Famous Last Words \(An Ode to Eaters\)](https://open.spotify.com/track/7bpfZYrS4dQKxiuj6QiRaX) | [1017 ALYX 9SM](https://open.spotify.com/artist/72Kzyue7ShXymPjcjOZwHk), [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Famous Last Words \(An Ode to Eaters\)](https://open.spotify.com/album/47mfwMreABCnlLm7EEtHsB) | 3:22 | 2023-07-21 |  |
 | [fanfiction on the internet](https://open.spotify.com/track/1wgjeq97WULtZz0xKbLfLm) | [Jake Timothy](https://open.spotify.com/artist/1WmCyL1N2PY1LF6b0E6Mfy) | [fanfiction on the internet](https://open.spotify.com/album/3UIMmbwPFk8ddSOaMM3lc1) | 2:51 | 2023-04-14 | 2023-06-02 |
 | [fantasize](https://open.spotify.com/track/6U2sXLGhxJVmKskGUvJzI3) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [fantasize](https://open.spotify.com/album/0QEZpylv3YWsleH9U0ijWE) | 2:30 | 2021-05-29 | 2021-11-13 |
 | [Far Away](https://open.spotify.com/track/0Y4xg5612xZ3vAgWEkMjw3) | [EASHA](https://open.spotify.com/artist/1lYNHBChDDWC233o6ribbt) | [Far Away](https://open.spotify.com/album/6SqaQ1JdHWMK2BJQcrXWYq) | 3:05 | 2021-04-24 | 2021-12-02 |
@@ -1817,6 +1818,7 @@
 | [Soft Spot](https://open.spotify.com/track/6kyxHSJZBPSihkK3YwbVXg) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Soft Spot](https://open.spotify.com/album/7mf5SwQGjqFoxg02oHryFh) | 3:08 | 2020-12-03 | 2021-04-02 |
 | [Soft Spot](https://open.spotify.com/track/7G47Ba9JiHkzl3JLYD0zJ4) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Super Monster](https://open.spotify.com/album/1S0ZLW9sEo7yb5wKxYSeYp) | 3:08 | 2021-07-31 | 2021-12-02 |
 | [soft spot](https://open.spotify.com/track/1mtLhZXbQqeU3qugQkuwhk) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [soft spot](https://open.spotify.com/album/2Z7lZGztugb0rCv7QveDIc) | 3:39 | 2021-08-05 | 2022-02-26 |
+| [Soft Words](https://open.spotify.com/track/5s4jURjJx4bEPAq8FuZrtO) | [Brent de la Cruz](https://open.spotify.com/artist/6K3z7wWXjNRKFyTnMtKQbD) | [Soft Words](https://open.spotify.com/album/7duBi3SAzMi6wHJqyn8Ltz) | 3:18 | 2023-07-21 |  |
 | [soft\-glow](https://open.spotify.com/track/2XZrbIxlZ0FPB9plk7d2oE) | [grandma](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk) | [Angelhood](https://open.spotify.com/album/5lx540ZgFCIotz9DmoHsQh) | 3:13 | 2022-08-19 | 2023-02-16 |
 | [Softcore](https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 3:26 | 2021-11-13 | 2022-04-09 |
 | [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 | 2022-02-02 | 2022-04-09 |

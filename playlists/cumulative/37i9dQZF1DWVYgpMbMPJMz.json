@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"https://open.spotify.com/artist/48AVv3cw03WdSB5b4qmNCr?si=03c72ef39b2b4f21\">Red Rocks Worship<a> ",
+  "description": "No need to wait!  Experience today's best Worship music right here, right now, on Spotify.  Cover:  <a href=\"https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s?si=2854b16b9fbb41d4\">Planetshakers<a> ",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -551,6 +551,28 @@
     },
     {
       "album": {
+        "name": "Because Of You (Live)",
+        "url": "https://open.spotify.com/album/6AY30EqlFxWj7s3vpXKfP5"
+      },
+      "artists": [
+        {
+          "name": "Anna Golden",
+          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
+        },
+        {
+          "name": "Aodhan King",
+          "url": "https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361027,
+      "name": "Because Of You - Live",
+      "url": "https://open.spotify.com/track/3BQWQdgTzKSnnsLSFlntQB"
+    },
+    {
+      "album": {
         "name": "Unscripted: Behold (King of Glory)",
         "url": "https://open.spotify.com/album/12QvpymQHH4Wk42ENo3k6M"
       },
@@ -904,6 +926,28 @@
       "duration_ms": 404400,
       "name": "Bloom - Live",
       "url": "https://open.spotify.com/track/7ebNynWIxv70Dnkqfyc3rm"
+    },
+    {
+      "album": {
+        "name": "Hidden Here",
+        "url": "https://open.spotify.com/album/5Ux7nchzxdGHPkr10dk6AP"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262771,
+      "name": "Break The Bottle",
+      "url": "https://open.spotify.com/track/2Vf59fzWMGDRtLwolStTGw"
     },
     {
       "album": {
@@ -1514,7 +1558,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 500657,
       "name": "Coming Back - Live",
       "url": "https://open.spotify.com/track/75vhFeCGUYqNXq06vLhoQ4"
@@ -2132,7 +2176,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 286130,
       "name": "God Really Loves Us",
       "url": "https://open.spotify.com/track/6SoXCKgKyM8sAn246k1m6E"
@@ -4242,7 +4286,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 337782,
       "name": "Let It Out - Live",
       "url": "https://open.spotify.com/track/130Z8jENclLxJuOzXuAAXc"
@@ -4272,6 +4316,28 @@
       "duration_ms": 319739,
       "name": "Let My Life Be Worship",
       "url": "https://open.spotify.com/track/2DrarKE3JnOXED3kbTuLtY"
+    },
+    {
+      "album": {
+        "name": "Why Not Right Now? (Live)",
+        "url": "https://open.spotify.com/album/5IMEDpmKoYS6tcYLiUogm0"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Chris McClarney",
+          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239962,
+      "name": "Let The People Sing - Live",
+      "url": "https://open.spotify.com/track/4qqUXcqW6EgN4qDsmozSlY"
     },
     {
       "album": {
@@ -4512,7 +4578,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 516833,
       "name": "Lord Of My Life - Live",
       "url": "https://open.spotify.com/track/47qnyAuNrEmRNjrELtGJxx"
@@ -5598,7 +5664,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 598000,
       "name": "Pour Over Me - Live",
       "url": "https://open.spotify.com/track/5Nzcv9MhQd8VkrvYgTy3IW"
@@ -6219,6 +6285,24 @@
     },
     {
       "album": {
+        "name": "Sing As One (Live)",
+        "url": "https://open.spotify.com/album/5u5lOB1VHyCfbNZrRKjMs6"
+      },
+      "artists": [
+        {
+          "name": "Life.Church Worship",
+          "url": "https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 463848,
+      "name": "Satisfied - Live",
+      "url": "https://open.spotify.com/track/0tlRerGFtxcKovDewBX5sc"
+    },
+    {
+      "album": {
         "name": "How To Start A Housefire",
         "url": "https://open.spotify.com/album/5yZ2pKz63STf8a7ZbBkASd"
       },
@@ -6296,10 +6380,32 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 555729,
       "name": "Show Me Your Glory - Live",
       "url": "https://open.spotify.com/track/10nGOy0wVKIdn6CYzRiEfj"
+    },
+    {
+      "album": {
+        "name": "Show Me Your Ways",
+        "url": "https://open.spotify.com/album/763ptOvXfTbOeQRDbaAuHJ"
+      },
+      "artists": [
+        {
+          "name": "Thrive Worship",
+          "url": "https://open.spotify.com/artist/76mPLB1kgBIInKSrvuEb72"
+        },
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387777,
+      "name": "Show Me Your Ways",
+      "url": "https://open.spotify.com/track/0izRgQi5DUGHIQB2EweMWh"
     },
     {
       "album": {
@@ -6678,7 +6784,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 272883,
       "name": "Take It To Jesus",
       "url": "https://open.spotify.com/track/5JXc6DbeEZzPqunepkd1HF"
@@ -6908,6 +7014,28 @@
       "duration_ms": 283986,
       "name": "The Jesus Way",
       "url": "https://open.spotify.com/track/4WfLrLmEdMURcgFnTXDaTh"
+    },
+    {
+      "album": {
+        "name": "The Joy (Live)",
+        "url": "https://open.spotify.com/album/0RDCDj37IOB6d8Bl6z88LO"
+      },
+      "artists": [
+        {
+          "name": "The Belonging Co",
+          "url": "https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5"
+        },
+        {
+          "name": "David Dennis",
+          "url": "https://open.spotify.com/artist/18yC0bj6ef6IYj48bTUEAK"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 443833,
+      "name": "The Joy - Live",
+      "url": "https://open.spotify.com/track/56x2k0KeA1S5NpryHPtx1P"
     },
     {
       "album": {
@@ -7894,6 +8022,24 @@
       "duration_ms": 509184,
       "name": "We Have Hope (feat. Joe L Barnes, Jonathan Traylor & Lizzie Morgan)",
       "url": "https://open.spotify.com/track/0UdBaIxVrF6RMNS1j3Ltr0"
+    },
+    {
+      "album": {
+        "name": "Show Me Your Glory (Live)",
+        "url": "https://open.spotify.com/album/0Dp06bINJHV3dxk3VW7gp0"
+      },
+      "artists": [
+        {
+          "name": "Planetshakers",
+          "url": "https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 361568,
+      "name": "We Lift Up Jesus - Live",
+      "url": "https://open.spotify.com/track/6AKnezQRLF3jDF69Dg1nDe"
     },
     {
       "album": {

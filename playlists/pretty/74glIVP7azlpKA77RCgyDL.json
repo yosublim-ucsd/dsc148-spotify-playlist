@@ -1,13 +1,101 @@
 {
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Orbit Culture",
-  "num_followers": 7889,
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Code Orange",
+  "num_followers": 7893,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "Mjc1MiwyNjA0Nzk0YjMwYTJjMTk4ZTM3ZmY5ODI5NjFmOGM0N2Y3NTVhN2I3",
+  "snapshot_id": "Mjc2MCxmNzgxMjcyYzUyMGE2MmRhMTNmNzk0OGMyNzk0YzU0ZWIxZjk0YWVj",
   "tracks": [
+    {
+      "added_at": "2023-07-21 19:58:29",
+      "album": {
+        "name": "Take Shape (feat. Billy Corgan)",
+        "url": "https://open.spotify.com/album/4cyn9XrZxlYS0joKsdf1JS"
+      },
+      "artists": [
+        {
+          "name": "Code Orange",
+          "url": "https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK"
+        },
+        {
+          "name": "Billy Corgan",
+          "url": "https://open.spotify.com/artist/12B5JK11NOP7OQ9Fxjrpx2"
+        }
+      ],
+      "duration_ms": 204226,
+      "name": "Take Shape (feat. Billy Corgan)",
+      "url": "https://open.spotify.com/track/4GswFW5miCkwi9iqrDqEw4"
+    },
+    {
+      "added_at": "2023-07-21 19:58:38",
+      "album": {
+        "name": "Everything's Glitter",
+        "url": "https://open.spotify.com/album/7jfIaXbIaockYgpQKKubts"
+      },
+      "artists": [
+        {
+          "name": "The Armed",
+          "url": "https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K"
+        }
+      ],
+      "duration_ms": 230509,
+      "name": "Everything's Glitter",
+      "url": "https://open.spotify.com/track/7s0kMwS5d9IFYBW1fFAaY2"
+    },
+    {
+      "added_at": "2023-07-21 19:58:45",
+      "album": {
+        "name": "Silent Wolf",
+        "url": "https://open.spotify.com/album/6jkHJnpzgsw7oqHVqDA5zY"
+      },
+      "artists": [
+        {
+          "name": "Harms Way",
+          "url": "https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek"
+        }
+      ],
+      "duration_ms": 165227,
+      "name": "Silent Wolf",
+      "url": "https://open.spotify.com/track/6gl6fnNnVnf8tenvR8OHqh"
+    },
+    {
+      "added_at": "2023-07-21 19:59:15",
+      "album": {
+        "name": "Antimatter",
+        "url": "https://open.spotify.com/album/21WE0VYFRtAKg4hEA1ppmZ"
+      },
+      "artists": [
+        {
+          "name": "Silent Planet",
+          "url": "https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU"
+        }
+      ],
+      "duration_ms": 221340,
+      "name": "Antimatter",
+      "url": "https://open.spotify.com/track/4b3FN7tBCRrkLcbN5ae4v9"
+    },
+    {
+      "added_at": "2023-07-21 19:59:26",
+      "album": {
+        "name": "Under My Skin",
+        "url": "https://open.spotify.com/album/3YjB0HnU6qIJIvyxxGovGo"
+      },
+      "artists": [
+        {
+          "name": "Pain of Truth",
+          "url": "https://open.spotify.com/artist/6tnuL2AIiA5wCpO5Pm8Xql"
+        },
+        {
+          "name": "Criminal Instinct",
+          "url": "https://open.spotify.com/artist/6xsGJ9bN356SeA1eP43L81"
+        }
+      ],
+      "duration_ms": 172515,
+      "name": "Under My Skin",
+      "url": "https://open.spotify.com/track/31b42JpcNCgM1AV3l7Ixje"
+    },
     {
       "added_at": "2023-07-14 18:10:13",
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvfORzIlDQm.md) - [plain]
 
 > A collection of roots music and covers urging peace and calling for change\. Cover: Tré Burt
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,322 likes - 54 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,325 likes - 54 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvfORzIlDQm.md) - [plain]
 | 12 | [Astral Plane](https://open.spotify.com/track/1ISGSSgVnZhyiOGSI8itNa) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 3:38 |
 | 13 | [Strange Fruit](https://open.spotify.com/track/1iklCTpvEXh6NUiwBaAouo) | [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [Blackbirds](https://open.spotify.com/album/3gX2IvOKb8zxDJTTnyeLkf) | 4:14 |
 | 14 | [Ohio](https://open.spotify.com/track/2wVrDSnhFnwy9SQLgP9Yiq) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Ohio](https://open.spotify.com/album/0GvYqatNTFDOB4qxoW27t2) | 4:52 |
-| 15 | [Seeds](https://open.spotify.com/track/1NijLAZEVZAvJGHE1RO9if) | [Rissi Palmer](https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ) | [Revival](https://open.spotify.com/album/3ZeYPc2wcoSjM43wc9gdRO) | 3:08 |
+| 15 | [Seeds](https://open.spotify.com/track/73XBEp50YbVH8WdCq597an) | [Rissi Palmer](https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ) | [Revival](https://open.spotify.com/album/2x4ifyC7If5s6G5Ob1RELM) | 3:08 |
 | 16 | [A Change Is Gonna Come](https://open.spotify.com/track/0FEqhGaxp8Gq5m2KvnunJU) | [Los Coast](https://open.spotify.com/artist/22L3FsvrXWoLLEUApoNfpr), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [A Change Is Gonna Come](https://open.spotify.com/album/4fKOZdl2QP1TNTLbwhpXBp) | 3:23 |
 | 17 | [The Capitalist Blues](https://open.spotify.com/track/7LPxn9YKOA8K1U6wMzhfc6) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [The Capitalist Blues](https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ) | 3:55 |
 | 18 | [Working Poor](https://open.spotify.com/track/1bUh3o9tJiX9ylkQyc1bw4) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [The Last Days of Oakland](https://open.spotify.com/album/5XgUtV3205kTcgoSLNf8ix) | 4:00 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvfORzIlDQm.md) - [plain]
 | 53 | [Woodstock](https://open.spotify.com/track/1cXOxrN1qDxgjDvqcJANKc) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Woodstock](https://open.spotify.com/album/6S2lVoBmDELDPVgMtETs1I) | 5:07 |
 | 54 | [Give The People What They Want](https://open.spotify.com/track/5GSVH5qhutFR5k95UMqzTg) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Yola](https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14) | [Give The People What They Want](https://open.spotify.com/album/3bKA19kc24Ro0wtEO0IlCg) | 3:45 |
 
-Snapshot ID: `MCwwODgyNTBjNWM0ODdmMmIyMTZhMzlkOTg4M2ZkZDNkNTlkYjg2Y2Q2`
+Snapshot ID: `MCxhZTJjMzRkNTJhNmExNjA3MTU1YzA3MmZhN2RjNGFiYmUyOGVlNzk4`

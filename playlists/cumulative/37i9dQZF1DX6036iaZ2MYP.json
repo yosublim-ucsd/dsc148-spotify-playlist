@@ -280,7 +280,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 175264,
       "name": "AVAILABU",
       "url": "https://open.spotify.com/track/6hVwoGjU2l2tHk9Cm1kEiZ"
@@ -722,7 +722,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 164444,
       "name": "Confusion - Amapiano RMX",
       "url": "https://open.spotify.com/track/2j29cHzEJbUWuqN8YfeTYb"
@@ -2153,6 +2153,24 @@
     },
     {
       "album": {
+        "name": "Maria",
+        "url": "https://open.spotify.com/album/2x8mPFCuEGUGkQuGIdQhYV"
+      },
+      "artists": [
+        {
+          "name": "Korede Bello",
+          "url": "https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129621,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/1XUxwqxspZJOOrFJQvTcvn"
+    },
+    {
+      "album": {
         "name": "Medicine (feat. Maleek Berry & LADIPOE)",
         "url": "https://open.spotify.com/album/0ozxicCrg2KTyabSeKWV2I"
       },
@@ -2745,6 +2763,24 @@
     },
     {
       "album": {
+        "name": "Pas science",
+        "url": "https://open.spotify.com/album/2FhBvue7oJ4RMVymctBobP"
+      },
+      "artists": [
+        {
+          "name": "Miedjia",
+          "url": "https://open.spotify.com/artist/7GWjcPmr0zcHxPFWY2H8dX"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197000,
+      "name": "Pas science",
+      "url": "https://open.spotify.com/track/3mFVhqa64mBXD8OFPcLxZ0"
+    },
+    {
+      "album": {
         "name": "Personal Baby",
         "url": "https://open.spotify.com/album/61F8DGdLWIG1JP4bm1Rzwd"
       },
@@ -2804,6 +2840,24 @@
       "duration_ms": 207474,
       "name": "Playboy",
       "url": "https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm"
+    },
+    {
+      "album": {
+        "name": "Posa na bina",
+        "url": "https://open.spotify.com/album/1IP4dFk8PTKhyC2QUYBnw8"
+      },
+      "artists": [
+        {
+          "name": "Hulk Van JMF",
+          "url": "https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156500,
+      "name": "Posa na bina",
+      "url": "https://open.spotify.com/track/08mU4zr52hOJR7ZyqS6Jmr"
     },
     {
       "album": {
@@ -2916,7 +2970,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 166558,
       "name": "Sability",
       "url": "https://open.spotify.com/track/5V9XFfvCG4WP5ZdISOLvaF"
@@ -3858,7 +3912,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 225454,
       "name": "Yessika",
       "url": "https://open.spotify.com/track/1oNAj4KjfCqqGppXhPbtYv"
@@ -3880,6 +3934,28 @@
       "duration_ms": 129776,
       "name": "Z\u00e9ro Limite",
       "url": "https://open.spotify.com/track/39vgYEUu7uiaac3zN7dxqv"
+    },
+    {
+      "album": {
+        "name": "\u00c7a va !",
+        "url": "https://open.spotify.com/album/6XwsjQcPxdmNAS3a9QwaWT"
+      },
+      "artists": [
+        {
+          "name": "DJ Bens",
+          "url": "https://open.spotify.com/artist/6eOVzayMT2EKOMAawR01tV"
+        },
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154580,
+      "name": "\u00c7a va !",
+      "url": "https://open.spotify.com/track/5YmJ1Ts7Qv2GA2hKi8JxVv"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX6036iaZ2MYP"

@@ -1,12 +1,12 @@
 {
   "description": "De Argentina para el mundo, los m\u00e1s destacados int\u00e9rpretes y compositores. Foto: Roxana Amed.",
-  "num_followers": 30672,
+  "num_followers": 30683,
   "original_name": "Jazz Argentino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzQwNDQ0ZGFkZjU5Yjk0OTkyZDlmOGE5NDkyNWFiMDFjYmVhYjQz",
+  "snapshot_id": "MCw2YzA5NDI4ZGQxNDQ3OWY4ZDU3ZTg2ZWFjODNmZGM0NGNkM2FhNTAz",
   "tracks": [
     {
       "added_at": "2023-05-05 03:00:00",
@@ -103,26 +103,6 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "No Fear",
-        "url": "https://open.spotify.com/album/3WObdi8u7iylDJ48ANdfXf"
-      },
-      "artists": [
-        {
-          "name": "Fern\u00e1ndez 4",
-          "url": "https://open.spotify.com/artist/2tI0jqFT5qiFp6GASa6k8R"
-        },
-        {
-          "name": "Cirilo Fernandez",
-          "url": "https://open.spotify.com/artist/4Xr6dK5pdkdLA1KyLFaTrG"
-        }
-      ],
-      "duration_ms": 301493,
-      "name": "No Fear",
-      "url": "https://open.spotify.com/track/7qMJVOUiXURGh27CQ8F2Fs"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
         "name": "Ultradeforme",
         "url": "https://open.spotify.com/album/2fQ2BX4ODlSM1PdPmvZz70"
       },
@@ -139,6 +119,26 @@
       "duration_ms": 349640,
       "name": "El La Mi",
       "url": "https://open.spotify.com/track/7zyiCxnvzxJ27ENVgFnFHE"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "No Fear",
+        "url": "https://open.spotify.com/album/3WObdi8u7iylDJ48ANdfXf"
+      },
+      "artists": [
+        {
+          "name": "Fern\u00e1ndez 4",
+          "url": "https://open.spotify.com/artist/2tI0jqFT5qiFp6GASa6k8R"
+        },
+        {
+          "name": "Cirilo Fernandez",
+          "url": "https://open.spotify.com/artist/4Xr6dK5pdkdLA1KyLFaTrG"
+        }
+      ],
+      "duration_ms": 301493,
+      "name": "No Fear",
+      "url": "https://open.spotify.com/track/7qMJVOUiXURGh27CQ8F2Fs"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -359,22 +359,18 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39"
+        "name": "El Bosque Brillante",
+        "url": "https://open.spotify.com/album/3HirbZyCVagyslZeWB2HHg"
       },
       "artists": [
         {
-          "name": "Ligia Piro",
-          "url": "https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q"
-        },
-        {
-          "name": "Lito Vitale",
-          "url": "https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG"
+          "name": "Lucio Balduini",
+          "url": "https://open.spotify.com/artist/44OuYnKpuUAKbfNOu3smwn"
         }
       ],
-      "duration_ms": 301893,
-      "name": "Shape of My Heart",
-      "url": "https://open.spotify.com/track/6BBwufrPMAGPU6VTaPiH7u"
+      "duration_ms": 232333,
+      "name": "En Busca de la Tierra Sin Mal",
+      "url": "https://open.spotify.com/track/4H97jD3blKiD0tdU4PrjLG"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -415,22 +411,6 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "El Bosque Brillante",
-        "url": "https://open.spotify.com/album/3HirbZyCVagyslZeWB2HHg"
-      },
-      "artists": [
-        {
-          "name": "Lucio Balduini",
-          "url": "https://open.spotify.com/artist/44OuYnKpuUAKbfNOu3smwn"
-        }
-      ],
-      "duration_ms": 232333,
-      "name": "En Busca de la Tierra Sin Mal",
-      "url": "https://open.spotify.com/track/4H97jD3blKiD0tdU4PrjLG"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
         "name": "Bajo Piel",
         "url": "https://open.spotify.com/album/0LxsfT1gTQ9cOwbPi3q9IH"
       },
@@ -443,6 +423,26 @@
       "duration_ms": 301000,
       "name": "Willie",
       "url": "https://open.spotify.com/track/1V8VQPFws4O1CrOuR4H8NF"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39"
+      },
+      "artists": [
+        {
+          "name": "Ligia Piro",
+          "url": "https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q"
+        },
+        {
+          "name": "Lito Vitale",
+          "url": "https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG"
+        }
+      ],
+      "duration_ms": 301893,
+      "name": "Shape of My Heart",
+      "url": "https://open.spotify.com/track/6BBwufrPMAGPU6VTaPiH7u"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -599,6 +599,22 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
+        "name": "All of Me",
+        "url": "https://open.spotify.com/album/3mpL1WNuZK9uPnYoLHojkE"
+      },
+      "artists": [
+        {
+          "name": "Walter Malosetti",
+          "url": "https://open.spotify.com/artist/2UemHWCXZWSkmxElFolmVp"
+        }
+      ],
+      "duration_ms": 279640,
+      "name": "There Will Never Be Another You",
+      "url": "https://open.spotify.com/track/4KL3VTE99YiRXtnfCouTWD"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
         "name": "Flor de piel",
         "url": "https://open.spotify.com/album/5PAtTXm3sZDzakXru1NHbu"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 155904,
       "name": "Flor de piel",
       "url": "https://open.spotify.com/track/2yl80UjeK76D1QE17hDDPv"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
-        "name": "All of Me",
-        "url": "https://open.spotify.com/album/3mpL1WNuZK9uPnYoLHojkE"
-      },
-      "artists": [
-        {
-          "name": "Walter Malosetti",
-          "url": "https://open.spotify.com/artist/2UemHWCXZWSkmxElFolmVp"
-        }
-      ],
-      "duration_ms": 279640,
-      "name": "There Will Never Be Another You",
-      "url": "https://open.spotify.com/track/4KL3VTE99YiRXtnfCouTWD"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -667,6 +667,26 @@
       "duration_ms": 251376,
       "name": "Arenales Blues",
       "url": "https://open.spotify.com/track/5OoRI3CMMFFJOz619NVzXI"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "No Fear",
+        "url": "https://open.spotify.com/album/3WObdi8u7iylDJ48ANdfXf"
+      },
+      "artists": [
+        {
+          "name": "Fern\u00e1ndez 4",
+          "url": "https://open.spotify.com/artist/2tI0jqFT5qiFp6GASa6k8R"
+        },
+        {
+          "name": "Cirilo Fernandez",
+          "url": "https://open.spotify.com/artist/4Xr6dK5pdkdLA1KyLFaTrG"
+        }
+      ],
+      "duration_ms": 436414,
+      "name": "Kua Nalu",
+      "url": "https://open.spotify.com/track/2UMpvaP5UQzYqQ07pJTon6"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -715,22 +735,18 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "No Fear",
-        "url": "https://open.spotify.com/album/3WObdi8u7iylDJ48ANdfXf"
+        "name": "Piazzolla Plays Piazzolla",
+        "url": "https://open.spotify.com/album/2i0WUHuYFeVTCTY0JSmhpv"
       },
       "artists": [
         {
-          "name": "Fern\u00e1ndez 4",
-          "url": "https://open.spotify.com/artist/2tI0jqFT5qiFp6GASa6k8R"
-        },
-        {
-          "name": "Cirilo Fernandez",
-          "url": "https://open.spotify.com/artist/4Xr6dK5pdkdLA1KyLFaTrG"
+          "name": "Escalandrum",
+          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
         }
       ],
-      "duration_ms": 436414,
-      "name": "Kua Nalu",
-      "url": "https://open.spotify.com/track/2UMpvaP5UQzYqQ07pJTon6"
+      "duration_ms": 382989,
+      "name": "Lunfardo",
+      "url": "https://open.spotify.com/track/31YRQ4zys4YOJp4VgxeGWy"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -747,22 +763,6 @@
       "duration_ms": 303186,
       "name": "Una Abeja Durmiente",
       "url": "https://open.spotify.com/track/6wCpCPfH7jPgwYv3srAfMn"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
-        "name": "Piazzolla Plays Piazzolla",
-        "url": "https://open.spotify.com/album/2i0WUHuYFeVTCTY0JSmhpv"
-      },
-      "artists": [
-        {
-          "name": "Escalandrum",
-          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
-        }
-      ],
-      "duration_ms": 382989,
-      "name": "Lunfardo",
-      "url": "https://open.spotify.com/track/31YRQ4zys4YOJp4VgxeGWy"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "100",
-        "url": "https://open.spotify.com/album/3N2E5wcpICEkJpHMeI08u4"
-      },
-      "artists": [
-        {
-          "name": "Escalandrum",
-          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
-        }
-      ],
-      "duration_ms": 402265,
-      "name": "Primavera Porte\u00f1a",
-      "url": "https://open.spotify.com/track/4kDEbag3hNbXV2A6GUcDYw"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
         "name": "Apal\u00e1p!",
         "url": "https://open.spotify.com/album/0mh5q8JCc4WXPD98JfpIBv"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 493933,
       "name": "Black Hole Sun",
       "url": "https://open.spotify.com/track/2Pdfm4dBhzm6ikktLoT9c0"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "100",
+        "url": "https://open.spotify.com/album/3N2E5wcpICEkJpHMeI08u4"
+      },
+      "artists": [
+        {
+          "name": "Escalandrum",
+          "url": "https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ"
+        }
+      ],
+      "duration_ms": 402265,
+      "name": "Primavera Porte\u00f1a",
+      "url": "https://open.spotify.com/track/4kDEbag3hNbXV2A6GUcDYw"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Piano Tuerto",
-        "url": "https://open.spotify.com/album/5xSxPnYoNTjREFPiozE5W8"
-      },
-      "artists": [
-        {
-          "name": "Leo Genovese",
-          "url": "https://open.spotify.com/artist/6oTt7SbO878MuvMRjHmTmk"
-        }
-      ],
-      "duration_ms": 326666,
-      "name": "Luna en Nueva York",
-      "url": "https://open.spotify.com/track/1j560dxQliIc8rUNnpmGwg"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
         "name": "En Las Afueras",
         "url": "https://open.spotify.com/album/3HFpmU9TMoadAv0ZX2N6my"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 230133,
       "name": "Caminando Con Aud\u00edfonos",
       "url": "https://open.spotify.com/track/3JYHW0mhebs5DIgmaJu6Im"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "Piano Tuerto",
+        "url": "https://open.spotify.com/album/5xSxPnYoNTjREFPiozE5W8"
+      },
+      "artists": [
+        {
+          "name": "Leo Genovese",
+          "url": "https://open.spotify.com/artist/6oTt7SbO878MuvMRjHmTmk"
+        }
+      ],
+      "duration_ms": 326666,
+      "name": "Luna en Nueva York",
+      "url": "https://open.spotify.com/track/1j560dxQliIc8rUNnpmGwg"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "Sesiones 2017-2020",
-        "url": "https://open.spotify.com/album/17NlLQlimG217X7OALtTSy"
-      },
-      "artists": [
-        {
-          "name": "La Grande",
-          "url": "https://open.spotify.com/artist/7Ad5Ks4eGUXAHba62EIVw0"
-        }
-      ],
-      "duration_ms": 374748,
-      "name": "Nublado",
-      "url": "https://open.spotify.com/track/1kVLgCqLkgrBtCVgAJiXuC"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
         "name": "Apal\u00e1p!",
         "url": "https://open.spotify.com/album/0mh5q8JCc4WXPD98JfpIBv"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 495746,
       "name": "Cabrera's Blues",
       "url": "https://open.spotify.com/track/1qMr5SiIVPza0df3WOcCCv"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "Sesiones 2017-2020",
+        "url": "https://open.spotify.com/album/17NlLQlimG217X7OALtTSy"
+      },
+      "artists": [
+        {
+          "name": "La Grande",
+          "url": "https://open.spotify.com/artist/7Ad5Ks4eGUXAHba62EIVw0"
+        }
+      ],
+      "duration_ms": 374748,
+      "name": "Nublado",
+      "url": "https://open.spotify.com/track/1kVLgCqLkgrBtCVgAJiXuC"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -1287,6 +1287,22 @@
       "duration_ms": 157533,
       "name": "Coplas de Luna Quieta",
       "url": "https://open.spotify.com/track/6wehSI1xwaBBy4U3bUUwZs"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "A Bajo y Pa'fuera",
+        "url": "https://open.spotify.com/album/5Tskwr5ZVRstjoh7tCGK4N"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Tozzola",
+          "url": "https://open.spotify.com/artist/7jgPBkRiFn2bXumnpBWR1a"
+        }
+      ],
+      "duration_ms": 146757,
+      "name": "A Bajo y Pa'fuera",
+      "url": "https://open.spotify.com/track/1uf0lcsMTfUhTRH26gRRkH"
     },
     {
       "added_at": "2023-05-05 03:00:00",
@@ -1327,38 +1343,6 @@
     {
       "added_at": "2023-05-05 03:00:00",
       "album": {
-        "name": "A Bajo y Pa'fuera",
-        "url": "https://open.spotify.com/album/5Tskwr5ZVRstjoh7tCGK4N"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Tozzola",
-          "url": "https://open.spotify.com/artist/7jgPBkRiFn2bXumnpBWR1a"
-        }
-      ],
-      "duration_ms": 146757,
-      "name": "A Bajo y Pa'fuera",
-      "url": "https://open.spotify.com/track/1uf0lcsMTfUhTRH26gRRkH"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
-        "name": "El Drag\u00f3n Blanco",
-        "url": "https://open.spotify.com/album/0F2TCMAdxijKLlbUWFbIzF"
-      },
-      "artists": [
-        {
-          "name": "Patricio Carpossi",
-          "url": "https://open.spotify.com/artist/0i4ii7RkdOXZRMpTm5cYxX"
-        }
-      ],
-      "duration_ms": 286373,
-      "name": "Titi",
-      "url": "https://open.spotify.com/track/42asnYtW9jNdlDdMjZqCne"
-    },
-    {
-      "added_at": "2023-05-05 03:00:00",
-      "album": {
         "name": "I Remember Clifford",
         "url": "https://open.spotify.com/album/19YMIWrZTWuSDYzxlzRIqY"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 192000,
       "name": "I Remember Clifford",
       "url": "https://open.spotify.com/track/71xGulRFIDEs2gqk6fSSz2"
+    },
+    {
+      "added_at": "2023-05-05 03:00:00",
+      "album": {
+        "name": "El Drag\u00f3n Blanco",
+        "url": "https://open.spotify.com/album/0F2TCMAdxijKLlbUWFbIzF"
+      },
+      "artists": [
+        {
+          "name": "Patricio Carpossi",
+          "url": "https://open.spotify.com/artist/0i4ii7RkdOXZRMpTm5cYxX"
+        }
+      ],
+      "duration_ms": 286373,
+      "name": "Titi",
+      "url": "https://open.spotify.com/track/42asnYtW9jNdlDdMjZqCne"
     }
   ],
   "unique_name": "Jazz Argentino",

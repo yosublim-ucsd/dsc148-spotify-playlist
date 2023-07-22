@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-08-13",
-  "description": "Everything Broadway-adjacent. Cover: Idina Menzel",
+  "description": "Everything Broadway-adjacent co-curated by the cast from the new film Theater Camp.",
   "name": "Off Broadway",
   "tracks": [
     {
@@ -537,6 +537,60 @@
     },
     {
       "album": {
+        "name": "Theater Camp (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7iy71k9m1tiYvU4cE06DK3"
+      },
+      "artists": [
+        {
+          "name": "Noah Galvin",
+          "url": "https://open.spotify.com/artist/451OraOrhksgbMeHL74jiS"
+        },
+        {
+          "name": "Molly Gordon",
+          "url": "https://open.spotify.com/artist/3UML5rOte8iN3kzu0rHMG0"
+        },
+        {
+          "name": "Alexander Bello",
+          "url": "https://open.spotify.com/artist/0D3AD81qUws4033ERedTZ7"
+        },
+        {
+          "name": "Bailee Bonick",
+          "url": "https://open.spotify.com/artist/4uqWxoibsqOlP7VtGugBtm"
+        },
+        {
+          "name": "Donovan Colan",
+          "url": "https://open.spotify.com/artist/1ModSouxutdiFgo6N8ithg"
+        },
+        {
+          "name": "Jack Sobolewski",
+          "url": "https://open.spotify.com/artist/6hLLbgMU3ZvrDa1RPOsZpG"
+        },
+        {
+          "name": "Kyndra Sanchez",
+          "url": "https://open.spotify.com/artist/2MCQzD48xRZTxndiTJRyPa"
+        },
+        {
+          "name": "Luke Islam",
+          "url": "https://open.spotify.com/artist/3bQOjE2GVFsifPJB8W9TXE"
+        },
+        {
+          "name": "Madisen Lora",
+          "url": "https://open.spotify.com/artist/7Du6Wox9tLMhR1oB5DAY5r"
+        },
+        {
+          "name": "Quinn Titcomb",
+          "url": "https://open.spotify.com/artist/38JDuJGHY1IC0YLmDFdZbv"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223422,
+      "name": "Camp Isn\u2019t Home",
+      "url": "https://open.spotify.com/track/3Dj8cST5CrCt0SzbPhnDaj"
+    },
+    {
+      "album": {
         "name": "Lyle, Lyle, Crocodile (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2kchX1pzbXOv6VRpd7vu5G"
       },
@@ -871,6 +925,24 @@
     },
     {
       "album": {
+        "name": "Glee: The Music, The Complete Season Four",
+        "url": "https://open.spotify.com/album/4fZXOp8No89WLudGy6brXd"
+      },
+      "artists": [
+        {
+          "name": "Glee Cast",
+          "url": "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241533,
+      "name": "Getting Married Today (Glee Cast Version)",
+      "url": "https://open.spotify.com/track/6Td58IZU487fZlmdlh1J3T"
+    },
+    {
+      "album": {
         "name": "The Drifters Girl (World Premiere Cast, recorded at Abbey Road Studios)",
         "url": "https://open.spotify.com/album/2N0o5p3a8dD9sn51IVJI3O"
       },
@@ -947,6 +1019,24 @@
     },
     {
       "album": {
+        "name": "It's Pony Time/Let's Twist Again",
+        "url": "https://open.spotify.com/album/4btfmKwgAHFtN7BQUSHta0"
+      },
+      "artists": [
+        {
+          "name": "Chubby Checker",
+          "url": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129226,
+      "name": "I Could Have Danced All Night",
+      "url": "https://open.spotify.com/track/2WS6178iriZa2VVi46gtIo"
+    },
+    {
+      "album": {
         "name": "West Side Story (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/16oKZSg3msLgn69IK1puzi"
       },
@@ -993,6 +1083,28 @@
     },
     {
       "album": {
+        "name": "Live out Loud: Live at 54 Below",
+        "url": "https://open.spotify.com/album/43qacqjJz1J467nhDaGuM2"
+      },
+      "artists": [
+        {
+          "name": "Shapiro Sisters",
+          "url": "https://open.spotify.com/artist/5sogyH1NVex1tK827RsNul"
+        },
+        {
+          "name": "Jillian Caillouette",
+          "url": "https://open.spotify.com/artist/4cgpA4gwaNOtWJN0D973fO"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335920,
+      "name": "I Know It's Today - Live",
+      "url": "https://open.spotify.com/track/21jsvugc1STuGNAB11OsY8"
+    },
+    {
+      "album": {
         "name": "I See You",
         "url": "https://open.spotify.com/album/4uoxCSMP6tuTnEYDZQ9qEC"
       },
@@ -1026,7 +1138,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 164234,
       "name": "I Want More - From the Paramount+ Series \u2018Grease: Rise of the Pink Ladies'",
       "url": "https://open.spotify.com/track/5wYBhrQjl0NsbVZEOzu6Yl"
@@ -1048,7 +1160,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 202133,
       "name": "I Will Always Love You (with Dolly Parton)",
       "url": "https://open.spotify.com/track/5fGPg1WXZToY8WlZhr4gYM"
@@ -1070,7 +1182,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 227433,
       "name": "If I Can't Love Her - From \"High School Musical: The Musical: The Series (Season 2)\"/Beauty and the Beast",
       "url": "https://open.spotify.com/track/55sEttUljNOT18aG3KzroO"
@@ -1197,6 +1309,28 @@
     },
     {
       "album": {
+        "name": "Into the Woods (Original Motion Picture Soundtrack/Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7lWMvhvTB4H9TWZM1IX12Q"
+      },
+      "artists": [
+        {
+          "name": "Emily Blunt",
+          "url": "https://open.spotify.com/artist/1Q67mZjXzxBuLSgvgFdtuG"
+        },
+        {
+          "name": "James Corden",
+          "url": "https://open.spotify.com/artist/5E17eRqSfn08FsmvNCds0P"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149880,
+      "name": "It Takes Two",
+      "url": "https://open.spotify.com/track/0IlPSIiqKMTMH7JBjYDq1y"
+    },
+    {
+      "album": {
         "name": "It's a Stupid Idea (To Put on a Broadway Show)",
         "url": "https://open.spotify.com/album/04NSO9rt5GqpCW6zR0rdI7"
       },
@@ -1248,6 +1382,28 @@
       "duration_ms": 192106,
       "name": "It's A Stupid Idea (To Put On a Broadway Show)",
       "url": "https://open.spotify.com/track/2gtgk22m2N2nvKKZYE7NFO"
+    },
+    {
+      "album": {
+        "name": "Annie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0MVa9A8tUgkPz1TJnX0C6C"
+      },
+      "artists": [
+        {
+          "name": "Aileen Quinn",
+          "url": "https://open.spotify.com/artist/6iQtJpslakhRaRujekcE2J"
+        },
+        {
+          "name": "Toni Ann Gisondi",
+          "url": "https://open.spotify.com/artist/1LcsJKwmEXxPJgdo0qLDh1"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221973,
+      "name": "It's the Hard-Knock Life",
+      "url": "https://open.spotify.com/track/3UvRjs5eyTkqB9MYWBqbuZ"
     },
     {
       "album": {
@@ -1507,6 +1663,24 @@
     },
     {
       "album": {
+        "name": "Back To Broadway",
+        "url": "https://open.spotify.com/album/3SQ2Wb2xEwIYtqzqW43uif"
+      },
+      "artists": [
+        {
+          "name": "Barbra Streisand",
+          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327733,
+      "name": "Move On (From, \"Sunday in the Park with George\")",
+      "url": "https://open.spotify.com/track/38dl1CdqTTo7zblgYJIU7E"
+    },
+    {
+      "album": {
         "name": "Found (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/1aGvxd7tlrij5LP191DdIv"
       },
@@ -1587,6 +1761,56 @@
     },
     {
       "album": {
+        "name": "Theater Camp (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7iy71k9m1tiYvU4cE06DK3"
+      },
+      "artists": [
+        {
+          "name": "Noah Galvin",
+          "url": "https://open.spotify.com/artist/451OraOrhksgbMeHL74jiS"
+        },
+        {
+          "name": "Alexander Bello",
+          "url": "https://open.spotify.com/artist/0D3AD81qUws4033ERedTZ7"
+        },
+        {
+          "name": "Donovan Colan",
+          "url": "https://open.spotify.com/artist/1ModSouxutdiFgo6N8ithg"
+        },
+        {
+          "name": "Bailee Bonick",
+          "url": "https://open.spotify.com/artist/4uqWxoibsqOlP7VtGugBtm"
+        },
+        {
+          "name": "Jack Sobolewski",
+          "url": "https://open.spotify.com/artist/6hLLbgMU3ZvrDa1RPOsZpG"
+        },
+        {
+          "name": "Kyndra Sanchez",
+          "url": "https://open.spotify.com/artist/2MCQzD48xRZTxndiTJRyPa"
+        },
+        {
+          "name": "Luke Islam",
+          "url": "https://open.spotify.com/artist/3bQOjE2GVFsifPJB8W9TXE"
+        },
+        {
+          "name": "Madisen Lora",
+          "url": "https://open.spotify.com/artist/7Du6Wox9tLMhR1oB5DAY5r"
+        },
+        {
+          "name": "Quinn Titcomb",
+          "url": "https://open.spotify.com/artist/38JDuJGHY1IC0YLmDFdZbv"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251503,
+      "name": "No Tomorrow",
+      "url": "https://open.spotify.com/track/2XrvgPgHfawWecxhJkbY1f"
+    },
+    {
+      "album": {
         "name": "Nose to Nose",
         "url": "https://open.spotify.com/album/3dSzXQev0iDG85clMukCok"
       },
@@ -1661,6 +1885,24 @@
     },
     {
       "album": {
+        "name": "Highlights From Chess In Concert",
+        "url": "https://open.spotify.com/album/3eQOkys4HGNdDKb4oGQsYx"
+      },
+      "artists": [
+        {
+          "name": "Chess In Concert",
+          "url": "https://open.spotify.com/artist/6VpOG1kRrgbarlcSqG0sAY"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195893,
+      "name": "One Night in Bangkok",
+      "url": "https://open.spotify.com/track/2NnHLMHGuwmwSt8GnTV05B"
+    },
+    {
+      "album": {
         "name": "36 Questions: The Deluxe Album",
         "url": "https://open.spotify.com/album/7aIu3t8kD1qCud2uMO2wd7"
       },
@@ -1720,7 +1962,7 @@
       ],
       "date_added": "2023-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 214373,
       "name": "Part of Your World",
       "url": "https://open.spotify.com/track/2HRhVQ0yo1jIvXoRTCIdEz"
@@ -1866,7 +2108,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 270571,
       "name": "Rise Up",
       "url": "https://open.spotify.com/track/5Ur0R1e2NBgyg0cm604UaT"
@@ -2005,6 +2247,24 @@
     },
     {
       "album": {
+        "name": "Don't Monkey with Broadway (Live)",
+        "url": "https://open.spotify.com/album/6Q19z0W81UqiGH4oMUrILV"
+      },
+      "artists": [
+        {
+          "name": "Patti LuPone",
+          "url": "https://open.spotify.com/artist/5VHtlZ44YzNmJY3G7nF944"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142493,
+      "name": "Sit Down, You're Rocking the Boat - Live",
+      "url": "https://open.spotify.com/track/4t9TeKJrTmdYW5SRO6iTyd"
+    },
+    {
+      "album": {
         "name": "Annette (Cannes Edition - Selections from the Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6JppDlRuAbcM7f3I4qPuYJ"
       },
@@ -2028,10 +2288,28 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 223906,
       "name": "So May We Start (feat. Simon Helberg) - From \"Annette\"",
       "url": "https://open.spotify.com/track/2DsnKyeVVGNR2EBpXSdqhd"
+    },
+    {
+      "album": {
+        "name": "What's Inside: Songs from Waitress",
+        "url": "https://open.spotify.com/album/1s6codM2ZAB008t9GTyaEk"
+      },
+      "artists": [
+        {
+          "name": "Sara Bareilles",
+          "url": "https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177973,
+      "name": "Soft Place To Land",
+      "url": "https://open.spotify.com/track/0wLeCwA3SG4OGahS8CJNM6"
     },
     {
       "album": {
@@ -2141,6 +2419,36 @@
     },
     {
       "album": {
+        "name": "Alice By Heart (Original Cast Recording)",
+        "url": "https://open.spotify.com/album/00gw97qbRgKXOcr2MSGzvl"
+      },
+      "artists": [
+        {
+          "name": "Molly Gordon",
+          "url": "https://open.spotify.com/artist/3UML5rOte8iN3kzu0rHMG0"
+        },
+        {
+          "name": "Colton Ryan",
+          "url": "https://open.spotify.com/artist/4e9ML6IDGbv8W09mMlStKc"
+        },
+        {
+          "name": "Duncan Sheik",
+          "url": "https://open.spotify.com/artist/3AO6RTDA16mg8czQI5Y9K0"
+        },
+        {
+          "name": "Steven Sater",
+          "url": "https://open.spotify.com/artist/3mrC1iFYFRjD9vCgV8Mwdv"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135863,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/0X9WkDQ0RIRGK3fdd5gJcb"
+    },
+    {
+      "album": {
         "name": "Roald Dahl's Matilda The Musical (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/1Hkbu7nahDPjp2pLWWRcvo"
       },
@@ -2178,6 +2486,28 @@
       "duration_ms": 170471,
       "name": "Sunday",
       "url": "https://open.spotify.com/track/7KjIhqpp6bpUc4W9sllJud"
+    },
+    {
+      "album": {
+        "name": "Riverdale: Special Episode - Next to Normal the Musical (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6x3b3aCnLASgUUyGjbmmCS"
+      },
+      "artists": [
+        {
+          "name": "Riverdale Cast",
+          "url": "https://open.spotify.com/artist/3famqI9bxiwLcAjRq3HuYl"
+        },
+        {
+          "name": "Camila Mendes",
+          "url": "https://open.spotify.com/artist/0fCpd1gWP1kObFnctwl9r6"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113786,
+      "name": "Superboy and the Invisible Girl (feat. Camila Mendes)",
+      "url": "https://open.spotify.com/track/4YP5jGbSC8nzekr93joLgk"
     },
     {
       "album": {
@@ -2232,6 +2562,24 @@
       "duration_ms": 249402,
       "name": "The Anonymous Ones - From The \u201cDear Evan Hansen\u201d Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/5bOLF8govy2D7heVI0mfuu"
+    },
+    {
+      "album": {
+        "name": "The Bitch Of Living (Rise Cast Version)",
+        "url": "https://open.spotify.com/album/57xDyXKRSYtU3ESXxWX1pN"
+      },
+      "artists": [
+        {
+          "name": "Rise Cast",
+          "url": "https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173853,
+      "name": "The Bitch Of Living - Rise Cast Version",
+      "url": "https://open.spotify.com/track/7nT69eL3oUi37U8Q9oqK5U"
     },
     {
       "album": {
@@ -2427,6 +2775,56 @@
     },
     {
       "album": {
+        "name": "Theater Camp (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7iy71k9m1tiYvU4cE06DK3"
+      },
+      "artists": [
+        {
+          "name": "Noah Galvin",
+          "url": "https://open.spotify.com/artist/451OraOrhksgbMeHL74jiS"
+        },
+        {
+          "name": "Bailee Bonick",
+          "url": "https://open.spotify.com/artist/4uqWxoibsqOlP7VtGugBtm"
+        },
+        {
+          "name": "Donovan Colan",
+          "url": "https://open.spotify.com/artist/1ModSouxutdiFgo6N8ithg"
+        },
+        {
+          "name": "Jack Sobolewski",
+          "url": "https://open.spotify.com/artist/6hLLbgMU3ZvrDa1RPOsZpG"
+        },
+        {
+          "name": "Kyndra Sanchez",
+          "url": "https://open.spotify.com/artist/2MCQzD48xRZTxndiTJRyPa"
+        },
+        {
+          "name": "Luke Islam",
+          "url": "https://open.spotify.com/artist/3bQOjE2GVFsifPJB8W9TXE"
+        },
+        {
+          "name": "Madisen Lora",
+          "url": "https://open.spotify.com/artist/7Du6Wox9tLMhR1oB5DAY5r"
+        },
+        {
+          "name": "Quinn Titcomb",
+          "url": "https://open.spotify.com/artist/38JDuJGHY1IC0YLmDFdZbv"
+        },
+        {
+          "name": "Alexander Bello",
+          "url": "https://open.spotify.com/artist/0D3AD81qUws4033ERedTZ7"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182012,
+      "name": "The Wall Street Noise",
+      "url": "https://open.spotify.com/track/1czHO4DbnJoK2e33xBsaW4"
+    },
+    {
+      "album": {
         "name": "Hocus Pocus 2 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5StqoKbQqzkAgH3OtPPQED"
       },
@@ -2475,6 +2873,46 @@
     },
     {
       "album": {
+        "name": "The Ethel Merman Disco Album",
+        "url": "https://open.spotify.com/album/7L11ewtKDYyc7w3liH6tvH"
+      },
+      "artists": [
+        {
+          "name": "Ethel Merman",
+          "url": "https://open.spotify.com/artist/4Kgu9tJgtNXTWMjefKahs9"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348880,
+      "name": "There's No Business Like Show Business",
+      "url": "https://open.spotify.com/track/4yWXewTlItowO15dgHZdxZ"
+    },
+    {
+      "album": {
+        "name": "Things You Said",
+        "url": "https://open.spotify.com/album/49XJus53CDU5zhsDgH6yn7"
+      },
+      "artists": [
+        {
+          "name": "Cody Fry",
+          "url": "https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT"
+        },
+        {
+          "name": "Abby Cates",
+          "url": "https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234866,
+      "name": "Things You Said (feat. Abby Cates)",
+      "url": "https://open.spotify.com/track/2wOCwmoaVuN5cgjf80Fja4"
+    },
+    {
+      "album": {
         "name": "The Greatest Showman (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7ayBZIe1FHkNv0T5xFCX6F"
       },
@@ -2512,6 +2950,24 @@
       "duration_ms": 296440,
       "name": "This Must Be the Place (Na\u00efve Melody) - Live",
       "url": "https://open.spotify.com/track/36tSwFpEeUd5xY3dcyZMjz"
+    },
+    {
+      "album": {
+        "name": "Portfolio",
+        "url": "https://open.spotify.com/album/1omnfUAyi7BQRSLYcf3sZ4"
+      },
+      "artists": [
+        {
+          "name": "Grace Jones",
+          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 347066,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/6fZJ0zMOEydD83wdm72lu6"
     },
     {
       "album": {
@@ -2645,6 +3101,42 @@
     },
     {
       "album": {
+        "name": "Glee: The Music, The Complete Season Two",
+        "url": "https://open.spotify.com/album/6WlzaRoDShdgVgaqJRjyNH"
+      },
+      "artists": [
+        {
+          "name": "Glee Cast",
+          "url": "https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222373,
+      "name": "What I Did For Love",
+      "url": "https://open.spotify.com/track/1Jwy2B4WLW2McewDu3ayci"
+    },
+    {
+      "album": {
+        "name": "Damn Yankees (Original Motion Picture Soundtrack Recording)",
+        "url": "https://open.spotify.com/album/2c306vBa3aW0J5T5SH0r3W"
+      },
+      "artists": [
+        {
+          "name": "Gwen Verdon",
+          "url": "https://open.spotify.com/artist/3SpX7m9UHjT203kNscqadg"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230840,
+      "name": "Whatever Lola Wants",
+      "url": "https://open.spotify.com/track/6pzpfxH1hEeY8reNkL6qYJ"
+    },
+    {
+      "album": {
         "name": "Wicked Medley",
         "url": "https://open.spotify.com/album/3RUeqc8x6uzYsEsLOxlf2B"
       },
@@ -2682,6 +3174,52 @@
       "duration_ms": 292604,
       "name": "Woman Is - from Lempicka - Original Cast Recording",
       "url": "https://open.spotify.com/track/0AqDuGW6j1RZ93r2n3DUGA"
+    },
+    {
+      "album": {
+        "name": "Theater Camp (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7iy71k9m1tiYvU4cE06DK3"
+      },
+      "artists": [
+        {
+          "name": "Donovan Colan",
+          "url": "https://open.spotify.com/artist/1ModSouxutdiFgo6N8ithg"
+        },
+        {
+          "name": "Bailee Bonick",
+          "url": "https://open.spotify.com/artist/4uqWxoibsqOlP7VtGugBtm"
+        },
+        {
+          "name": "Alexander Bello",
+          "url": "https://open.spotify.com/artist/0D3AD81qUws4033ERedTZ7"
+        },
+        {
+          "name": "Jack Sobolewski",
+          "url": "https://open.spotify.com/artist/6hLLbgMU3ZvrDa1RPOsZpG"
+        },
+        {
+          "name": "Kyndra Sanchez",
+          "url": "https://open.spotify.com/artist/2MCQzD48xRZTxndiTJRyPa"
+        },
+        {
+          "name": "Luke Islam",
+          "url": "https://open.spotify.com/artist/3bQOjE2GVFsifPJB8W9TXE"
+        },
+        {
+          "name": "Madisen Lora",
+          "url": "https://open.spotify.com/artist/7Du6Wox9tLMhR1oB5DAY5r"
+        },
+        {
+          "name": "Quinn Titcomb",
+          "url": "https://open.spotify.com/artist/38JDuJGHY1IC0YLmDFdZbv"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223553,
+      "name": "Women Cannot Read",
+      "url": "https://open.spotify.com/track/7hXu8jQCeK3ywSEMzIfLu5"
     },
     {
       "album": {
@@ -2726,6 +3264,28 @@
       "duration_ms": 237814,
       "name": "You Will Be Found (with Summer Walker) - From The \u201cDear Evan Hansen\u201d Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/2URXzpbSUwOjltvpgtzXua"
+    },
+    {
+      "album": {
+        "name": "You're A Good Man, Charlie Brown",
+        "url": "https://open.spotify.com/album/2nprV770V4gyXUYuOQ7jPz"
+      },
+      "artists": [
+        {
+          "name": "Clark Gesner",
+          "url": "https://open.spotify.com/artist/5fDRGh13isGtX8Myr02GCa"
+        },
+        {
+          "name": "Barbara Minkus",
+          "url": "https://open.spotify.com/artist/0mMTwqqMAaOVKyuUbT2AXm"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96960,
+      "name": "You're A Good Man, Charlie Brown",
+      "url": "https://open.spotify.com/track/794T0lJ2Sc1jU5gnA91XZX"
     },
     {
       "album": {

@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 342400,
       "name": "001",
       "url": "https://open.spotify.com/track/5JNu9hPtGPh6EzrNGCS3Rd"
@@ -42,6 +42,28 @@
       "duration_ms": 262773,
       "name": "1-800-GHETTOLICIOUS",
       "url": "https://open.spotify.com/track/1jLkZPtil9VQTkMzgq0017"
+    },
+    {
+      "album": {
+        "name": "1-800-GHETTOLICIOUS",
+        "url": "https://open.spotify.com/album/2tEztrGiQcQSz0xwWm8t1S"
+      },
+      "artists": [
+        {
+          "name": "MCR-T",
+          "url": "https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw"
+        },
+        {
+          "name": "Miss Bashful",
+          "url": "https://open.spotify.com/artist/5skHU2PrWHKFfSTpq9y56C"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262773,
+      "name": "1-800-GHETTOLICIOUS",
+      "url": "https://open.spotify.com/track/7u6MpMQU3LujRn2rte9whp"
     },
     {
       "album": {
@@ -402,10 +424,28 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 309750,
       "name": "Danza Lokura",
       "url": "https://open.spotify.com/track/5LQlgkE3OA9H5fZR5HfqH6"
+    },
+    {
+      "album": {
+        "name": "Devil's Chariot",
+        "url": "https://open.spotify.com/album/3Roz5L5THohjKVr3xHen9p"
+      },
+      "artists": [
+        {
+          "name": "LSDXOXO",
+          "url": "https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132960,
+      "name": "Devil's Chariot",
+      "url": "https://open.spotify.com/track/6fuWVsb4n143IbetAMbFGI"
     },
     {
       "album": {
@@ -446,6 +486,24 @@
       "duration_ms": 190005,
       "name": "Double Tap",
       "url": "https://open.spotify.com/track/0wLcWLY6JuNIuqJZxOu1Z7"
+    },
+    {
+      "album": {
+        "name": "DRIFT",
+        "url": "https://open.spotify.com/album/3xLYwDzegPrnS3RJRrdKpx"
+      },
+      "artists": [
+        {
+          "name": "COUCOU CHLOE",
+          "url": "https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171515,
+      "name": "DRIFT",
+      "url": "https://open.spotify.com/track/4YuPOUPQ3R15aSLO9wEiZK"
     },
     {
       "album": {
@@ -558,7 +616,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 143476,
       "name": "Ghetto Fabulous",
       "url": "https://open.spotify.com/track/4Al06vYvUi8uPCYzw2b80X"
@@ -739,6 +797,24 @@
     },
     {
       "album": {
+        "name": "i just wanna go",
+        "url": "https://open.spotify.com/album/0fqDeQTsa2llhwwzrxYaIY"
+      },
+      "artists": [
+        {
+          "name": "t e s t p r e s s",
+          "url": "https://open.spotify.com/artist/4udW3rcRXEmwm706eR5h8u"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "i just wanna go",
+      "url": "https://open.spotify.com/track/67KX4FR0w6ghqS8lDXWrAR"
+    },
+    {
+      "album": {
         "name": "I WANNA RAVE",
         "url": "https://open.spotify.com/album/4FL6OOuqZdgO1kLnQilj81"
       },
@@ -761,6 +837,28 @@
     },
     {
       "album": {
+        "name": "G-COAST",
+        "url": "https://open.spotify.com/album/0HpE2gIz2xoO6kkKMyu89c"
+      },
+      "artists": [
+        {
+          "name": "DJ Gigola",
+          "url": "https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf"
+        },
+        {
+          "name": "X-COAST",
+          "url": "https://open.spotify.com/artist/5QUHrSea6F2nhn9veAq4wQ"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280010,
+      "name": "Ich bin ready - DJ Gigola Version",
+      "url": "https://open.spotify.com/track/2vVC5wEtP5klz59i8HO2j9"
+    },
+    {
+      "album": {
         "name": "In Brasa Juke",
         "url": "https://open.spotify.com/album/0zVW24fVu7QtQU2FlagVHT"
       },
@@ -776,7 +874,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 193770,
       "name": "In Brasa Juke",
       "url": "https://open.spotify.com/track/5ueVVMCLN7CDfu6UyWVH3L"
@@ -1038,7 +1136,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 346625,
       "name": "Main Mix To Subs",
       "url": "https://open.spotify.com/track/0QuB1hYTJGA6PmFrvZBGQN"
@@ -1151,6 +1249,24 @@
     },
     {
       "album": {
+        "name": "No More Sad Trance!",
+        "url": "https://open.spotify.com/album/6ogkYohVaVbEtBspVNS9oE"
+      },
+      "artists": [
+        {
+          "name": "Credit 00",
+          "url": "https://open.spotify.com/artist/2F93AqXTcdnHrfvdaceAEj"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344600,
+      "name": "No More Sad Trance!",
+      "url": "https://open.spotify.com/track/0WN8jVRGqd8Fv6df4t5Lz5"
+    },
+    {
+      "album": {
         "name": "Circulus Vitiosus",
         "url": "https://open.spotify.com/album/5xFPu0JBe4Wxh7gcu9Idmd"
       },
@@ -1166,6 +1282,28 @@
       "duration_ms": 112471,
       "name": "Notoriously Fast",
       "url": "https://open.spotify.com/track/0GBLXfE9GbUSH2jF4Pr3yR"
+    },
+    {
+      "album": {
+        "name": "Now U Do",
+        "url": "https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR"
+      },
+      "artists": [
+        {
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "Confidence Man",
+          "url": "https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158882,
+      "name": "Now U Do - Edit",
+      "url": "https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF"
     },
     {
       "album": {
@@ -1260,10 +1398,28 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 188087,
       "name": "Pvssy",
       "url": "https://open.spotify.com/track/5R6xvVsrBeC6FZSWnRiSqT"
+    },
+    {
+      "album": {
+        "name": "Quer Dan\u00e7ar?",
+        "url": "https://open.spotify.com/album/4nReuKvl8guGUycWxZuSFG"
+      },
+      "artists": [
+        {
+          "name": "Amor Satyr",
+          "url": "https://open.spotify.com/artist/3OSzUMBfUgBgJ23gVEqsIX"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317837,
+      "name": "Quer Dan\u00e7ar?",
+      "url": "https://open.spotify.com/track/2tpaQkgGiBIplXgW2Rl8U8"
     },
     {
       "album": {
@@ -1290,6 +1446,50 @@
       "duration_ms": 126774,
       "name": "RATATA",
       "url": "https://open.spotify.com/track/3YVeaqhSFth8QAL45wO19L"
+    },
+    {
+      "album": {
+        "name": "STROBE.RIP",
+        "url": "https://open.spotify.com/album/5k1jtWSTm2oOUqa9PPXKFD"
+      },
+      "artists": [
+        {
+          "name": "Amnesia Scanner",
+          "url": "https://open.spotify.com/artist/2J3LwjEkmryU6BSAubwbMF"
+        },
+        {
+          "name": "Freeka Tet",
+          "url": "https://open.spotify.com/artist/1S7mHCJVmfSUre3mo1NZGa"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217589,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/0WF9dHuGcPdOU3olaKiR5u"
+    },
+    {
+      "album": {
+        "name": "Serving Cunt",
+        "url": "https://open.spotify.com/album/27YWtqe7zEpw4ccpFN3ipM"
+      },
+      "artists": [
+        {
+          "name": "Maara",
+          "url": "https://open.spotify.com/artist/71tnaVVl10fbxBHN5Rcd4y"
+        },
+        {
+          "name": "My Hot Ex",
+          "url": "https://open.spotify.com/artist/4kcdZzywAt0nWReK1jZUUh"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275213,
+      "name": "Serving Cunt",
+      "url": "https://open.spotify.com/track/1UTzHEFClAOY8TLYZmMGym"
     },
     {
       "album": {
@@ -1326,6 +1526,24 @@
       "duration_ms": 340315,
       "name": "Simultaneous Bounce",
       "url": "https://open.spotify.com/track/0ZEgfOrdcTzZ3VSX24tOvY"
+    },
+    {
+      "album": {
+        "name": "Whole Lotta Red",
+        "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193234,
+      "name": "Sky",
+      "url": "https://open.spotify.com/track/29TPjc8wxfz4XMn21O7VsZ"
     },
     {
       "album": {
@@ -1384,7 +1602,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 359076,
       "name": "Still Flowing Water",
       "url": "https://open.spotify.com/track/6mUcXOfpjOwlIeSZ7WXdkL"
@@ -1606,7 +1824,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 290612,
       "name": "XENON",
       "url": "https://open.spotify.com/track/53RZFTpEwUGfKN6VlZJ9gG"

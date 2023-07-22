@@ -4,7 +4,7 @@
 
 > Gentle Ambient piano to help you fall asleep.
 
-805 songs - 1 day 16 hr 35 min
+806 songs - 1 day 16 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Alma](https://open.spotify.com/track/2j9r4JRWjLsFn7VEibICxz) | [Pedro Caceres](https://open.spotify.com/artist/61YOovGWdnYImyV9dgnaMA) | [Alma](https://open.spotify.com/album/1VkVWLRl4jyxBUUDvMKy7K) | 2:51 | 2021-05-04 | 2022-03-25 |
 | [Along The Way](https://open.spotify.com/track/0Q1y8Inh5CnoSENHEeNuLC) | [Yasmin Gough](https://open.spotify.com/artist/5uJl5aq7yzkO3yOE1CMCRW) | [Along The Way](https://open.spotify.com/album/3DiwKGIPP84FTOqZmZ9SmM) | 3:18 | 2020-10-20\* | 2021-06-16 |
 | [Altai](https://open.spotify.com/track/2Vd91FjcKOHXn8kiFv0gnV) | [Sezja](https://open.spotify.com/artist/2HwBdENnqvDpXaeLBMBtqF) | [Altai](https://open.spotify.com/album/3xbZExB6U4whgGNV1OP5LW) | 3:17 | 2021-01-21 | 2021-08-17 |
+| [Altaria](https://open.spotify.com/track/69D1OftCAldEE1BtxWBVjS) | [Rhinestone Block](https://open.spotify.com/artist/2lbLHi4d121x4E173oiUIg) | [Altaria](https://open.spotify.com/album/4qWZ49m3NRmLEo5fQQpnsA) | 3:28 | 2023-07-21 |  |
 | [Alterations](https://open.spotify.com/track/4IHpo5zDsNoT33clCtL24b) | [Finleigh](https://open.spotify.com/artist/1KcMYDu3nBxDYlcYwrsEAA) | [Alterations](https://open.spotify.com/album/6CBggUkHr6HPMDMYvp0Xqm) | 2:31 | 2022-04-21 |  |
 | [Anatomy of Change](https://open.spotify.com/track/1kh6iEcYhNL6jbMr5BVEVG) | [Oto Roth](https://open.spotify.com/artist/0tpBeC4HolBI7fkc5omALQ) | [Anatomy of Change](https://open.spotify.com/album/4MrcKyzpC5XEr21ut3bH69) | 2:24 | 2021-05-04 | 2023-06-17 |
 | [Anay degimay](https://open.spotify.com/track/3wuEQyST9B3qhPlNymA4Vl) | [Petros Idris](https://open.spotify.com/artist/2KPSqFXX8R2WJ72KyFFEdc) | [Anay degimay](https://open.spotify.com/album/23hYRiBfshqH0kACbIGjiH) | 3:17 | 2020-10-20\* | 2020-12-12 |

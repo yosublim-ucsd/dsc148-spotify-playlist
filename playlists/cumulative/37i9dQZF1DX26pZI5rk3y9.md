@@ -4,7 +4,7 @@
 
 > Stomping Blues Rock for cooking and eating with friends.
 
-159 songs - 9 hr 7 min
+162 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Go Down Swinging](https://open.spotify.com/track/4fJqzjd5rtgxPjzuTvIAeA) | [Hacienda](https://open.spotify.com/artist/5PFOoYivDdyFBYkDiku1E3) | [Go Down Swinging](https://open.spotify.com/album/2SAYfi2HiMRUpa7c8C5IyC) | 3:13 | 2023-06-07 |  |
 | [Good Love Goes Bad](https://open.spotify.com/track/4SAdnN5F4nOZW0R1CjwYDv) | [8 Ball Aitken](https://open.spotify.com/artist/1LLlMQFnYUd7M9H7dYLR78) | [Good Love Goes Bad](https://open.spotify.com/album/0s1mtwlKIxnASFrd442eW9) | 3:55 | 2023-06-07 |  |
 | [Got till it's gone](https://open.spotify.com/track/0iN8dVHfDWV2HSmPSvrUlR) | [Atomic stooges](https://open.spotify.com/artist/1AHSOjhowaZiCL7BNmTGzL), [好口博章](https://open.spotify.com/artist/6tbpVzAKDTNSkdwhx7TGEA) | [Got till it's gone](https://open.spotify.com/album/2FYDgrorxE3CBkgWWs7CBA) | 3:48 | 2023-06-07 |  |
+| [Got To Get Out](https://open.spotify.com/track/2IFYh8DDCzkeeskV6yJmZT) | [Ray Beadle](https://open.spotify.com/artist/7wGs0wj3dW628DJio6N4r3) | [Bound To Get The Blues](https://open.spotify.com/album/7qUHJLDYF0b1z3DA2Jm2UR) | 5:00 | 2023-07-21 |  |
 | [Gotta Bleed \- Remix](https://open.spotify.com/track/5bbYD8wu2XFNyG76R41IAt) | [Bacon Fat Louis](https://open.spotify.com/artist/6smClsEV3ACst2Jul8FxAk), [miXendorp](https://open.spotify.com/artist/4lK3eAKeNM2RTUE5cILbgP) | [Gotta Bleed \(Remix\)](https://open.spotify.com/album/2X83Qtb3o6hw3RuZd9vdfe) | 3:34 | 2023-06-07 |  |
 | [Gumbo Blues](https://open.spotify.com/track/1jOy5uKsWOVwT0ssWh3wwG) | [Smiley Lewis](https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk) | [Presenting Smiley Lewis](https://open.spotify.com/album/3cq9NzO0h25zvXqhvxJzIj) | 2:25 | 2022-05-25 | 2023-06-08 |
 | [Hazel Eyes](https://open.spotify.com/track/6wJcz18omAZIhiZvFFvBQs) | [Ash Lambe & The 32\-20's](https://open.spotify.com/artist/1PYQHnrVYww26xUopjV3s2) | [Hazel Eyes](https://open.spotify.com/album/7q56kadwG66VudB8GIGC6T) | 4:54 | 2023-07-14 |  |
@@ -158,7 +159,9 @@
 | [Ugly Brain \- Single Version](https://open.spotify.com/track/1WmrvibTXEP4DyrHIB8yMx) | [Mike Ross](https://open.spotify.com/artist/5czSB0z5jZnHr9zV37RU1h) | [Ugly Brain](https://open.spotify.com/album/4rV80Z4nWe7AevC3yAAbFM) | 4:36 | 2023-06-07 |  |
 | [Unhinged](https://open.spotify.com/track/41N74tDfqzG242pQe16lSE) | [Dom Martin](https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ) | [Unhinged](https://open.spotify.com/album/1KJO9wzi6ku9ZtnZ4DsXhR) | 3:23 | 2023-06-30 |  |
 | [Wagon Wheel](https://open.spotify.com/track/1whAS4pUvFSaMpjbEI4bHQ) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [Cracked Spanner Head](https://open.spotify.com/album/0LfIQxBC0oPOoLWxTmgOfk) | 3:54 | 2022-05-25 | 2023-04-30 |
+| [Waiting](https://open.spotify.com/track/2TNPkY79QedaKePAHqg1Z9) | [Arthur Terembula](https://open.spotify.com/artist/3CBd6nKugojJJ7OAfiGs60) | [Waiting](https://open.spotify.com/album/6n9cLkMutqZ0JMx095vw01) | 2:14 | 2023-07-21 |  |
 | [Walk The Wire](https://open.spotify.com/track/38VyicJEfQueeQPIH0tZDp) | [Brent Lindsay](https://open.spotify.com/artist/26cglONxlfyTejxQrbWJaO) | [Walk The Wire](https://open.spotify.com/album/5ADpXCosDjpGMFbDznwb6X) | 2:04 | 2023-06-07 |  |
+| [Wayward Son](https://open.spotify.com/track/5KhgT9qpjluyfl2xS2LJ6Q) | [Jhett Black](https://open.spotify.com/artist/4xz4YAqEHCJQsbrqBy4Iz2) | [Wayward Son](https://open.spotify.com/album/3VmdrXqWOMmIEz8syqeOzd) | 3:43 | 2023-07-21 |  |
 | [Well Well Well](https://open.spotify.com/track/7K89YBfukxKcrm4hOVKQpk) | [Gráinne Duffy](https://open.spotify.com/artist/6Uz1iG3enjltFOqqwAhQ2Y) | [Dirt Woman Blues](https://open.spotify.com/album/3pEr5QdlF89ufMoOHASyum) | 4:07 | 2023-06-07 |  |
 | [Well, I Done Got Over It](https://open.spotify.com/track/1lcBFiv1gUfSGtKSmrVwkn) | [Joe Bonamassa](https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ) | [Well, I Done Got Over It](https://open.spotify.com/album/4ftRZ5GU9UPwhRhs7JXMp7) | 2:54 | 2023-07-14 |  |
 | [Wet Hayshark](https://open.spotify.com/track/6kQHH7KLnEQqzK1gULf0Wd) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [In London](https://open.spotify.com/album/7t8bhkUdwrD4nsilxsaW78) | 2:28 | 2022-05-25 | 2023-06-08 |

@@ -4,7 +4,7 @@
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:E\-SENS\)
 
-944 songs - 2 day 4 hr 4 min
+945 songs - 2 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -590,6 +590,7 @@
 | [NETFLIX](https://open.spotify.com/track/73La7PR5409uuL2uzQKzDi) | [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo) | [THE CORE TAPE, Vol\. 2](https://open.spotify.com/album/34SnQUswM6PdJU7nuEAGoX) | 1:58 | 2023-03-28 | 2023-04-19 |
 | [Never Ending Story \(Feat\. Dynamicduo\)](https://open.spotify.com/track/2kIvvkzrcrFqVdPGSHtKYO) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4) | [TOYSTORY3](https://open.spotify.com/album/2g9x0qCPJGKzfxqrVcgrVy) | 3:54 | 2022-06-09 | 2022-07-15 |
 | [New thing \(Prod\. ZICO\) \(Feat\. Homies\)](https://open.spotify.com/track/5mdWIwsJAzR97ShGkt8gcR) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [HOMIES](https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0) | [Street Man Fighter Original Vol.3 \(Mission by Rank\)](https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP) | 2:27 | 2022-09-06 | 2023-07-18 |
+| [NEW TIME \(Feat\. JHUN\)](https://open.spotify.com/track/6qYlaxd8nJR5LnegXGg89d) | [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg), [JHUN](https://open.spotify.com/artist/74qfndyO2YlfQaEDkbAHrR) | [NEW TIME](https://open.spotify.com/album/0avP67zQj69a8mPEaGueI9) | 2:54 | 2023-07-21 |  |
 | [New Vision](https://open.spotify.com/track/5L6IX56bdTT3CPueP72VEx) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH) | [New Vision](https://open.spotify.com/album/1Cw3lJgFHhIfNU5WiPlEsZ) | 3:16 | 2021-12-18 | 2022-06-19 |
 | [New World](https://open.spotify.com/track/7vb24k5iFSLY53mG0YFIEe) | [Blase](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0) | [New World](https://open.spotify.com/album/62xUxe5tnJWJcOia8RZHXE) | 2:40 | 2022-03-14 | 2022-06-12 |
 | [New Zealand](https://open.spotify.com/track/4WECByH1Vo0zOOQqcnJjmf) | [Layone](https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ) | [Origin](https://open.spotify.com/album/23S2gmwzOgDMDUbS32UMfD) | 3:27 | 2022-11-16 | 2022-12-10 |

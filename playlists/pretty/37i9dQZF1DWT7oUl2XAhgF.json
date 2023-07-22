@@ -1,12 +1,12 @@
 {
   "description": "A new take on a classic sound. Cover: Jalen Ngonda",
-  "num_followers": 196453,
+  "num_followers": 196544,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OTNjODE2OWQ4ZWM4YjI0YTY1YzZkMTg2Mzk2MjM5OGM0ZWNjYzM5",
+  "snapshot_id": "MCxlMWRkOTI2NDFhMDZkMmE1ZmE3NWVmYTViMjE0MGM0OTU3NTZhZWFj",
   "tracks": [
     {
       "added_at": "2023-06-30 04:01:00",
@@ -77,6 +77,22 @@
       "url": "https://open.spotify.com/track/266b55L7iAmnNdphZDeZ8p"
     },
     {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Take My Troubles Away (Radio Edit)",
+        "url": "https://open.spotify.com/album/1fAhIRHWIcruE6dXAbE4Wb"
+      },
+      "artists": [
+        {
+          "name": "The Vintage Explosion",
+          "url": "https://open.spotify.com/artist/3a48yEJThFMOCvgcCwOyyD"
+        }
+      ],
+      "duration_ms": 210737,
+      "name": "Take My Troubles Away - Radio Edit",
+      "url": "https://open.spotify.com/track/6UcREbLs70qdzEMOVaCPub"
+    },
+    {
       "added_at": "2023-06-23 04:01:00",
       "album": {
         "name": "Sad Hearted Clown",
@@ -111,6 +127,26 @@
       "duration_ms": 196250,
       "name": "Slippin",
       "url": "https://open.spotify.com/track/5qgYXoxmd6FdGfpmdjsHoj"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/28sgphniUIB4msFwWLZfgb"
+      },
+      "artists": [
+        {
+          "name": "Emilia Sisco",
+          "url": "https://open.spotify.com/artist/4RE2veIqf9YBlKqVTDKpV4"
+        },
+        {
+          "name": "Cold Diamond & Mink",
+          "url": "https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b"
+        }
+      ],
+      "duration_ms": 219945,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/6IZ0AmqxPlnhRjIqoZtrCh"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -331,22 +367,6 @@
       "duration_ms": 139506,
       "name": "No Rewrites",
       "url": "https://open.spotify.com/track/04TArnJgprxiEqS8d1vzea"
-    },
-    {
-      "added_at": "2023-06-30 04:01:00",
-      "album": {
-        "name": "Don't Knock Upon My Door",
-        "url": "https://open.spotify.com/album/3InwC9hMPRDF1MRvAKZGBy"
-      },
-      "artists": [
-        {
-          "name": "The Vintage Explosion",
-          "url": "https://open.spotify.com/artist/3a48yEJThFMOCvgcCwOyyD"
-        }
-      ],
-      "duration_ms": 186013,
-      "name": "Don't Knock Upon My Door",
-      "url": "https://open.spotify.com/track/4XAREsibFhpJJ4VwBcyoGd"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -1551,26 +1571,6 @@
       "duration_ms": 175949,
       "name": "Lover Boy",
       "url": "https://open.spotify.com/track/4wlEw6x7ynK4dfKk47HNtt"
-    },
-    {
-      "added_at": "2023-03-17 04:01:00",
-      "album": {
-        "name": "Lights Out",
-        "url": "https://open.spotify.com/album/2CkwDTtBMN2GzJo05QF8WE"
-      },
-      "artists": [
-        {
-          "name": "Tom Caruana",
-          "url": "https://open.spotify.com/artist/4ID3jRfahxJfsr1dFpMrYp"
-        },
-        {
-          "name": "Charlie Newton",
-          "url": "https://open.spotify.com/artist/0I3eS0ipvFizRmEkcHgoGO"
-        }
-      ],
-      "duration_ms": 184945,
-      "name": "Lights Out",
-      "url": "https://open.spotify.com/track/3iQFJHSLteF9a9UO3scUfh"
     },
     {
       "added_at": "2023-01-27 05:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "Con mucha dulzura y sabor para un momento de relax. ",
-  "num_followers": 44399,
+  "num_followers": 44453,
   "original_name": "Caf\u00e9 de Olla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YThlZWUzZjgyMjkzZWRiMDllOGZkZTc3Y2NjOTQ3MWQ5ZDU4ZmQz",
+  "snapshot_id": "MCw0MTc3MDNkOWJiOTNjYjgxZGM1ZTYwMzVlNmE2Y2I5MmU5YTBmOWIw",
   "tracks": [
     {
       "added_at": "2023-02-13 15:38:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "Llevatela",
-        "url": "https://open.spotify.com/album/4JCAbGWSc3iEUzjOCCMpme"
-      },
-      "artists": [
-        {
-          "name": "Las Lagrimas",
-          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Llevatela",
-      "url": "https://open.spotify.com/track/0c4aaZ2wPDfgjYxCZggRsW"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
         "name": "Cuando Te Duermas",
         "url": "https://open.spotify.com/album/5BKc9zMji1Cinb42FPoCbT"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 162927,
       "name": "Cuando Te Duermas",
       "url": "https://open.spotify.com/track/1XApSfAeOAewrGd6Sst1sA"
+    },
+    {
+      "added_at": "2023-02-13 15:38:00",
+      "album": {
+        "name": "Llevatela",
+        "url": "https://open.spotify.com/album/4JCAbGWSc3iEUzjOCCMpme"
+      },
+      "artists": [
+        {
+          "name": "Las Lagrimas",
+          "url": "https://open.spotify.com/artist/4CFUyjHnUwIb4SryCWffqN"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Llevatela",
+      "url": "https://open.spotify.com/track/0c4aaZ2wPDfgjYxCZggRsW"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -611,18 +611,22 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "Wasi",
-        "url": "https://open.spotify.com/album/0PoKRHhIITIb48H5r6M7SJ"
+        "name": "Una Flor En La Laguna",
+        "url": "https://open.spotify.com/album/1wPOzySZ8nMAyZM0MbWKEr"
       },
       "artists": [
         {
-          "name": "Elias Carrera",
-          "url": "https://open.spotify.com/artist/7qKazhBQV8sScUWPr8xVOO"
+          "name": "Pepe Ramos",
+          "url": "https://open.spotify.com/artist/5CaB4jiKGfHTpuwao1OA0C"
+        },
+        {
+          "name": "Mauricio Hernandez Monterrubio",
+          "url": "https://open.spotify.com/artist/5K5WYuWrH1riDA7600TlE6"
         }
       ],
-      "duration_ms": 136888,
-      "name": "El Camino De La Vida",
-      "url": "https://open.spotify.com/track/0d0zDKdDkpyetQarz3wFq7"
+      "duration_ms": 290426,
+      "name": "Una Flor En La Laguna",
+      "url": "https://open.spotify.com/track/0WvT3GRKi55mz5sZr9qVg9"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -667,22 +671,18 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "Una Flor En La Laguna",
-        "url": "https://open.spotify.com/album/1wPOzySZ8nMAyZM0MbWKEr"
+        "name": "Wasi",
+        "url": "https://open.spotify.com/album/0PoKRHhIITIb48H5r6M7SJ"
       },
       "artists": [
         {
-          "name": "Pepe Ramos",
-          "url": "https://open.spotify.com/artist/5CaB4jiKGfHTpuwao1OA0C"
-        },
-        {
-          "name": "Mauricio Hernandez Monterrubio",
-          "url": "https://open.spotify.com/artist/5K5WYuWrH1riDA7600TlE6"
+          "name": "Elias Carrera",
+          "url": "https://open.spotify.com/artist/7qKazhBQV8sScUWPr8xVOO"
         }
       ],
-      "duration_ms": 290426,
-      "name": "Una Flor En La Laguna",
-      "url": "https://open.spotify.com/track/0WvT3GRKi55mz5sZr9qVg9"
+      "duration_ms": 136888,
+      "name": "El Camino De La Vida",
+      "url": "https://open.spotify.com/track/0d0zDKdDkpyetQarz3wFq7"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "Ya Te Olvide",
-        "url": "https://open.spotify.com/album/6mlUaXGzLm5RPoQDP0o4mZ"
-      },
-      "artists": [
-        {
-          "name": "Los Amores Recientes",
-          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "Ya Te Olvide",
-      "url": "https://open.spotify.com/track/1TM1jRGtkF18D4VnRqlpKu"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
         "name": "Parece Que Fue Ayer",
         "url": "https://open.spotify.com/album/0S3BS29cQXHPIeKZVHxF64"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 168250,
       "name": "Parece Que Fue Ayer",
       "url": "https://open.spotify.com/track/1QbbGANlhCOBQy2swIAgy3"
+    },
+    {
+      "added_at": "2023-02-13 15:38:00",
+      "album": {
+        "name": "Ya Te Olvide",
+        "url": "https://open.spotify.com/album/6mlUaXGzLm5RPoQDP0o4mZ"
+      },
+      "artists": [
+        {
+          "name": "Los Amores Recientes",
+          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
+        }
+      ],
+      "duration_ms": 148500,
+      "name": "Ya Te Olvide",
+      "url": "https://open.spotify.com/track/1TM1jRGtkF18D4VnRqlpKu"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "Me Vas A Extran\u0303ar",
-        "url": "https://open.spotify.com/album/3cS4nEdOhg1OKLucxA7Uh4"
-      },
-      "artists": [
-        {
-          "name": "Los Vestidos Negros",
-          "url": "https://open.spotify.com/artist/08BttjwajJ2WmjsYUhRQr3"
-        }
-      ],
-      "duration_ms": 156210,
-      "name": "Me Vas A Extran\u0303ar",
-      "url": "https://open.spotify.com/track/5b8rgwkYjdMcJixyCwZYoc"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
         "name": "Me La Avente",
         "url": "https://open.spotify.com/album/64ACb5cSpTJU9Kzq3CDDiQ"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 156750,
       "name": "Me La Avente",
       "url": "https://open.spotify.com/track/4BVtzn6TkSJ9lTmh1eK2fg"
+    },
+    {
+      "added_at": "2023-02-13 15:38:00",
+      "album": {
+        "name": "Me Vas A Extran\u0303ar",
+        "url": "https://open.spotify.com/album/3cS4nEdOhg1OKLucxA7Uh4"
+      },
+      "artists": [
+        {
+          "name": "Los Vestidos Negros",
+          "url": "https://open.spotify.com/artist/08BttjwajJ2WmjsYUhRQr3"
+        }
+      ],
+      "duration_ms": 156210,
+      "name": "Me Vas A Extran\u0303ar",
+      "url": "https://open.spotify.com/track/5b8rgwkYjdMcJixyCwZYoc"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -1367,8 +1367,8 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "Un Rinconcito En El Cielo",
-        "url": "https://open.spotify.com/album/6wofcdCM7B5k6L8j6QI7b0"
+        "name": "Aguanta Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/0YIQTg5FStD73KRP1UnCI1"
       },
       "artists": [
         {
@@ -1376,9 +1376,9 @@
           "url": "https://open.spotify.com/artist/6AGNGt3OdvlgnvMeTYSllf"
         }
       ],
-      "duration_ms": 251294,
-      "name": "Un Rinconcito En El Cielo",
-      "url": "https://open.spotify.com/track/6xVlBIOtzHAKsl3Wuct2qK"
+      "duration_ms": 192000,
+      "name": "Aguanta Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/260DEH0xnh9AN73FdKkuYX"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -1395,6 +1395,22 @@
       "duration_ms": 152372,
       "name": "Y Todo Para Que",
       "url": "https://open.spotify.com/track/1IqZNILZcGQDnEIueNMFgT"
+    },
+    {
+      "added_at": "2023-02-13 15:38:00",
+      "album": {
+        "name": "Tragos Amargos",
+        "url": "https://open.spotify.com/album/4rTSPDvuo9XFaNn0SioHJl"
+      },
+      "artists": [
+        {
+          "name": "Nicole Morenno",
+          "url": "https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T"
+        }
+      ],
+      "duration_ms": 165569,
+      "name": "Tragos Amargos",
+      "url": "https://open.spotify.com/track/1jhaFZpN6grqcweo0kUElQ"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -1435,22 +1451,6 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "Tragos Amargos",
-        "url": "https://open.spotify.com/album/4rTSPDvuo9XFaNn0SioHJl"
-      },
-      "artists": [
-        {
-          "name": "Nicole Morenno",
-          "url": "https://open.spotify.com/artist/20qzlrLcHxylJGZUCH0M9T"
-        }
-      ],
-      "duration_ms": 165569,
-      "name": "Tragos Amargos",
-      "url": "https://open.spotify.com/track/1jhaFZpN6grqcweo0kUElQ"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
         "name": "Recuerdos De Mi Tierra",
         "url": "https://open.spotify.com/album/7qrXv6WJLfQF6msl1m4ZBe"
       },
@@ -1483,8 +1483,8 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "Aguanta Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/0YIQTg5FStD73KRP1UnCI1"
+        "name": "Un Rinconcito En El Cielo",
+        "url": "https://open.spotify.com/album/6wofcdCM7B5k6L8j6QI7b0"
       },
       "artists": [
         {
@@ -1492,25 +1492,25 @@
           "url": "https://open.spotify.com/artist/6AGNGt3OdvlgnvMeTYSllf"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Aguanta Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/260DEH0xnh9AN73FdKkuYX"
+      "duration_ms": 251294,
+      "name": "Un Rinconcito En El Cielo",
+      "url": "https://open.spotify.com/track/6xVlBIOtzHAKsl3Wuct2qK"
     },
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "Pero Te Vas A Arrepentir",
-        "url": "https://open.spotify.com/album/3n9BU9XWfMvoFoEjLD63Jp"
+        "name": "Una Vez Mas",
+        "url": "https://open.spotify.com/album/3J0EfavosSEhLq5BeZgtqw"
       },
       "artists": [
         {
-          "name": "Astrud Bonfa",
-          "url": "https://open.spotify.com/artist/0YYKO7hybCYf1mjeXDADA7"
+          "name": "Aurelia Goldspark",
+          "url": "https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW"
         }
       ],
-      "duration_ms": 266582,
-      "name": "Pero Te Vas A Arrepentir",
-      "url": "https://open.spotify.com/track/4YCBA1jE6wEbZNttfHHeTS"
+      "duration_ms": 230250,
+      "name": "Una Vez Mas",
+      "url": "https://open.spotify.com/track/7vXR4H9LE6bXMtwpb4iz46"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "Una Vez Mas",
-        "url": "https://open.spotify.com/album/3J0EfavosSEhLq5BeZgtqw"
+        "name": "Pero Te Vas A Arrepentir",
+        "url": "https://open.spotify.com/album/3n9BU9XWfMvoFoEjLD63Jp"
       },
       "artists": [
         {
-          "name": "Aurelia Goldspark",
-          "url": "https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW"
+          "name": "Astrud Bonfa",
+          "url": "https://open.spotify.com/artist/0YYKO7hybCYf1mjeXDADA7"
         }
       ],
-      "duration_ms": 230250,
-      "name": "Una Vez Mas",
-      "url": "https://open.spotify.com/track/7vXR4H9LE6bXMtwpb4iz46"
+      "duration_ms": 266582,
+      "name": "Pero Te Vas A Arrepentir",
+      "url": "https://open.spotify.com/track/4YCBA1jE6wEbZNttfHHeTS"
     },
     {
       "added_at": "2023-02-13 15:38:00",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "Querida",
-        "url": "https://open.spotify.com/album/1NpCzx1BzOg5dGtKRPdVx7"
-      },
-      "artists": [
-        {
-          "name": "Donata Antoni",
-          "url": "https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4"
-        }
-      ],
-      "duration_ms": 193670,
-      "name": "Querida",
-      "url": "https://open.spotify.com/track/5uL9Pog252Kip2o6g0IzJO"
-    },
-    {
-      "added_at": "2023-02-13 15:38:00",
-      "album": {
         "name": "Por Tu Maldito Amor",
         "url": "https://open.spotify.com/album/7KdSJIQxy5XR92T6QIDQ0t"
       },
@@ -1663,8 +1647,24 @@
     {
       "added_at": "2023-02-13 15:38:00",
       "album": {
-        "name": "Mexico: 20 Best Mariachi and Folk Songs",
-        "url": "https://open.spotify.com/album/056QcfXOgyiTK2LKaeJ5Y9"
+        "name": "Querida",
+        "url": "https://open.spotify.com/album/1NpCzx1BzOg5dGtKRPdVx7"
+      },
+      "artists": [
+        {
+          "name": "Donata Antoni",
+          "url": "https://open.spotify.com/artist/1JTQHAw7cydv6H6suv2Qo4"
+        }
+      ],
+      "duration_ms": 193670,
+      "name": "Querida",
+      "url": "https://open.spotify.com/track/5uL9Pog252Kip2o6g0IzJO"
+    },
+    {
+      "added_at": "2023-02-13 15:38:00",
+      "album": {
+        "name": "Trio Azteca: Folk Songs and Ballads",
+        "url": "https://open.spotify.com/album/2eUYqTiNxucqcl9BGyicbq"
       },
       "artists": [
         {
@@ -1672,9 +1672,9 @@
           "url": "https://open.spotify.com/artist/2TQbB9wIlP0BRpwdUBq0dY"
         }
       ],
-      "duration_ms": 138426,
-      "name": "La media vuelta",
-      "url": "https://open.spotify.com/track/03fXI8pVGMV7XnkTMTbmrW"
+      "duration_ms": 176093,
+      "name": "De que manera te olvido",
+      "url": "https://open.spotify.com/track/0wLGt0djSkPZRbd14eQTbx"
     },
     {
       "added_at": "2023-02-13 15:38:00",

@@ -230,7 +230,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 216073,
       "name": "3azezy Elakt2ab",
       "url": "https://open.spotify.com/track/7Mg9ZscmtD2zt3OEcyDbsT"
@@ -3386,6 +3386,24 @@
       "duration_ms": 219000,
       "name": "High",
       "url": "https://open.spotify.com/track/6i6xYs14ViOdffFSBpoBeV"
+    },
+    {
+      "album": {
+        "name": "Hkayat",
+        "url": "https://open.spotify.com/album/78cWsuCyskPfF9hRtjtOdW"
+      },
+      "artists": [
+        {
+          "name": "Chantal Bitar",
+          "url": "https://open.spotify.com/artist/6HN34scCFbSWFdHDbGagBM"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207642,
+      "name": "Hkayat",
+      "url": "https://open.spotify.com/track/2i4oVynWtzKOTc8fq9xiyq"
     },
     {
       "album": {

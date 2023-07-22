@@ -7642,7 +7642,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 214746,
       "name": "Solo vine a decirte",
       "url": "https://open.spotify.com/track/0yT3mg8eehQMq5uPF6MWir"
@@ -7685,6 +7685,28 @@
     },
     {
       "album": {
+        "name": "...and the usual suspects",
+        "url": "https://open.spotify.com/album/4JSDJl3up38ofpV6G0cPGe"
+      },
+      "artists": [
+        {
+          "name": "Oxo86",
+          "url": "https://open.spotify.com/artist/0HsB2g2AEmb44yfaKKUtF5"
+        },
+        {
+          "name": "Ole - Brutal Bravo",
+          "url": "https://open.spotify.com/artist/1UUxklAL8KBU8eiQPwtMXx"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239725,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/60OtXpigAa5zslaEKN5O3O"
+    },
+    {
+      "album": {
         "name": "..and the usual suspects",
         "url": "https://open.spotify.com/album/4ixSPibbT3FxwYPY4naxBd"
       },
@@ -7700,7 +7722,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 239725,
       "name": "Sometimes",
       "url": "https://open.spotify.com/track/6WwQYxoiQzSbENO8bWQtYU"
@@ -9268,6 +9290,32 @@
       "duration_ms": 194037,
       "name": "Via con me",
       "url": "https://open.spotify.com/track/6JXU6uQSOYHk0Jj5yvbwTs"
+    },
+    {
+      "album": {
+        "name": "Vigo 72",
+        "url": "https://open.spotify.com/album/2UDuFz2jSfAZ7Yz5Til3Mz"
+      },
+      "artists": [
+        {
+          "name": "Residuos Do Sistema",
+          "url": "https://open.spotify.com/artist/3jQFONl2KOkCENGhDnJzWo"
+        },
+        {
+          "name": "Skarnio",
+          "url": "https://open.spotify.com/artist/2XdFadH2Hfr0PTFf8rUOVL"
+        },
+        {
+          "name": "Liska!",
+          "url": "https://open.spotify.com/artist/5MhZac8IvmM7UapCiQD50y"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202617,
+      "name": "Vigo 72",
+      "url": "https://open.spotify.com/track/677l8vAxJBtGr08oxO6Heg"
     },
     {
       "album": {

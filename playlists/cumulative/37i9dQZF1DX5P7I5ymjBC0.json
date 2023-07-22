@@ -344,7 +344,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 223881,
       "name": "Holi Re Rasiya",
       "url": "https://open.spotify.com/track/6KJnxgN0lVgv9npvMBje3P"
@@ -621,6 +621,24 @@
     },
     {
       "album": {
+        "name": "Mohan Bin Radha",
+        "url": "https://open.spotify.com/album/2UQkdO6LhoeUUu0ex60FX1"
+      },
+      "artists": [
+        {
+          "name": "Priyani Vani Panditt",
+          "url": "https://open.spotify.com/artist/3ZjqqgZQ6iRWu3YZYISLB8"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199658,
+      "name": "Mohan Bin Radha",
+      "url": "https://open.spotify.com/track/5uSh9y1mJ3oIZJv0VitrOX"
+    },
+    {
+      "album": {
         "name": "Mohanam",
         "url": "https://open.spotify.com/album/1piZvuK9Rmli3wiCk3VETp"
       },
@@ -714,6 +732,28 @@
       "duration_ms": 339000,
       "name": "Natkhat Nadiya",
       "url": "https://open.spotify.com/track/4ARRU7JHxKzE89rPPXcsmh"
+    },
+    {
+      "album": {
+        "name": "Nirbhay Nirgun (Live)",
+        "url": "https://open.spotify.com/album/4b8GmKRuGCgnLshdreugl4"
+      },
+      "artists": [
+        {
+          "name": "The Anirudh Varma Collective",
+          "url": "https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB"
+        },
+        {
+          "name": "Aastha Mandle",
+          "url": "https://open.spotify.com/artist/3WbMLBBp0iOzfjvU6AcwCA"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380000,
+      "name": "Nirbhay Nirgun (Live)",
+      "url": "https://open.spotify.com/track/357T838i7RIdC7QVLLWWqC"
     },
     {
       "album": {
@@ -1128,7 +1168,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 134117,
       "name": "Sitar Flex",
       "url": "https://open.spotify.com/track/2uQPkioasNry7ehHaEnsyV"
@@ -1158,7 +1198,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 318655,
       "name": "Taqdeer",
       "url": "https://open.spotify.com/track/29Zb6OUOZJLz5orIK83S0s"
@@ -1250,7 +1290,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-15",
+      "date_removed": null,
       "duration_ms": 382666,
       "name": "Yatra",
       "url": "https://open.spotify.com/track/7FYVWjUfB9spZUV8gMAVHP"

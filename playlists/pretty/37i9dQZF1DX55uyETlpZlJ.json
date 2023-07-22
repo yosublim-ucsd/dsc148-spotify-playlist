@@ -1,36 +1,28 @@
 {
-  "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : Sanjith Hegde",
-  "num_followers": 22184,
+  "description": "Catch up with the Indie Songs from 'namma ooru'\nCover : All OK",
+  "num_followers": 22195,
   "original_name": "Kannada Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTBiMDA3YWU0ZTc1NzgyN2MzY2FmN2IwZDg3NmRiZTI3ZDEyOWU1",
+  "snapshot_id": "MCwzMWE5NmU0MjcwZTZkMTY3MDk1MjBiNDRkZTFkYmE5ZDFiODU3YzMy",
   "tracks": [
     {
-      "added_at": "2023-06-08 06:08:18",
+      "added_at": "2023-07-20 14:31:09",
       "album": {
-        "name": "Geejaga Hakki",
-        "url": "https://open.spotify.com/album/330gRfCGukj4u4WpucNpP4"
+        "name": "Free",
+        "url": "https://open.spotify.com/album/2dVX6UPdVWKPKs8g4huCHG"
       },
       "artists": [
         {
-          "name": "Sanjith Hegde",
-          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
-        },
-        {
-          "name": "Charan Raj",
-          "url": "https://open.spotify.com/artist/5Oe7ToHpWN7t7nWtJvJ7gi"
-        },
-        {
-          "name": "Prassanna Hegde",
-          "url": "https://open.spotify.com/artist/0GXTpJPW41OHk5rTZCRDDy"
+          "name": "All Ok",
+          "url": "https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV"
         }
       ],
-      "duration_ms": 205609,
-      "name": "Geejaga Hakki",
-      "url": "https://open.spotify.com/track/1u6vTH5nUSKaSTPJZJC81s"
+      "duration_ms": 228000,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/2UzkwgstKyX5wZg6t9YzxL"
     },
     {
       "added_at": "2023-07-05 11:41:16",
@@ -47,22 +39,6 @@
       "duration_ms": 268798,
       "name": "Kanasella - Female Version",
       "url": "https://open.spotify.com/track/7kbJqyrHwdUCmQ3H7Fkgl5"
-    },
-    {
-      "added_at": "2023-07-20 14:31:09",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/2dVX6UPdVWKPKs8g4huCHG"
-      },
-      "artists": [
-        {
-          "name": "All Ok",
-          "url": "https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/2UzkwgstKyX5wZg6t9YzxL"
     },
     {
       "added_at": "2023-07-10 13:00:10",
@@ -231,22 +207,6 @@
       "duration_ms": 177534,
       "name": "Pakshi",
       "url": "https://open.spotify.com/track/58Ph4B4HN833bvtQqguiBJ"
-    },
-    {
-      "added_at": "2023-07-13 11:17:54",
-      "album": {
-        "name": "God Movess",
-        "url": "https://open.spotify.com/album/16x5VIDSCWPmpSCjt06v5K"
-      },
-      "artists": [
-        {
-          "name": "The Aura",
-          "url": "https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N"
-        }
-      ],
-      "duration_ms": 165339,
-      "name": "Queen",
-      "url": "https://open.spotify.com/track/3ZwA5XT8yNMktFl41qfwfu"
     },
     {
       "added_at": "2023-07-10 13:00:10",

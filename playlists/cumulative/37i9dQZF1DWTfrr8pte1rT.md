@@ -2,15 +2,15 @@
 
 ### [Rocktronic](https://open.spotify.com/playlist/37i9dQZF1DWTfrr8pte1rT)
 
-> Rock with a Drop\. Cover: Grabbitz \\m/
+> Rock with a Drop\. Cover: Rezz \\m/
 
-312 songs - 17 hr 51 min
+313 songs - 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [11 Minutes \(feat\. Travis Barker\) \- Kayzo Remix](https://open.spotify.com/track/0YbKNvAu6wHeM4bfRTZFT3) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv) | [11 Minutes \(feat\. Travis Barker\) \[Kayzo Remix\]](https://open.spotify.com/album/77iOq0ll6f92j1Z0O8mW1u) | 4:17 | 2021-12-10 |  |
 | [Against The Tide](https://open.spotify.com/track/54Q384UbVZGrgxH02WEmlk) | [Delta Heavy](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Against The Tide](https://open.spotify.com/album/0Rym6PJvFC1jVwCx3jsRjT) | 3:29 | 2023-02-27 |  |
-| [Alive](https://open.spotify.com/track/5DwxMQKq0xc2MdeQOw5fCZ) | [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK), [Becko](https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU) | [Alive](https://open.spotify.com/album/2GKdGnw3Dx57AKowih3rX9) | 4:12 | 2022-07-22 |  |
+| [Alive](https://open.spotify.com/track/5DwxMQKq0xc2MdeQOw5fCZ) | [if found](https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK), [Becko](https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU) | [Alive](https://open.spotify.com/album/2GKdGnw3Dx57AKowih3rX9) | 4:12 | 2022-07-22 | 2023-07-22 |
 | [Alive](https://open.spotify.com/track/7BzNk9qiJyUMxydktfP0Xl) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Alive](https://open.spotify.com/album/4zxUTKJvgUriq9rP3BIW5u) | 3:40 | 2022-06-10 | 2023-01-11 |
 | [All In My Head \(feat\. grandson\)](https://open.spotify.com/track/0fgOMdk0vVlIcOlqZtg6cx) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Fantasy](https://open.spotify.com/album/1KrTC1K1M7kMAMDWlH1coX) | 2:28 | 2021-12-10 | 2022-11-12 |
 | [All In My Head \(feat\. grandson\) \- Saint Punk Remix](https://open.spotify.com/track/5GzBDqFoMUrjjfGtHEbGfY) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [Saint Punk](https://open.spotify.com/artist/0oad1RRAiN1UpaOWbIB0EW), [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [All In My Head \(feat\. grandson\) \[Saint Punk Remix\]](https://open.spotify.com/album/5h1sSLDh0Y8CF5qLsvS2F1) | 3:16 | 2021-12-10 | 2022-12-16 |
@@ -83,6 +83,7 @@
 | [Don’t Miss \- The Bloody Beetroots Remix](https://open.spotify.com/track/5noYbWiU8xMYd4VEPOeFRz) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC), [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5) | [Don't Miss \(The Bloody Beetroots Remix\)](https://open.spotify.com/album/3yLlpoqKPuRHhUPdvxHJCD) | 2:58 | 2023-04-09 |  |
 | [Dream Boy \(JVNA Remix\)](https://open.spotify.com/track/7a9QjEksqPwVBkpTSaoJGU) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu), [JVNA](https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A) | [Dream Boy \(JVNA Remix\)](https://open.spotify.com/album/3XRvTrfklC5UvOfN3e5Kxp) | 3:12 | 2021-12-10 | 2022-06-19 |
 | [Dreamland](https://open.spotify.com/track/0udIZ5gNmUHGrzaadmP4Wm) | [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [Dreamland](https://open.spotify.com/album/1XwapYg2z28guRjMIXE53U) | 4:01 | 2021-12-10 | 2022-04-02 |
+| [Dreamstate](https://open.spotify.com/track/5Gggw8WykNhnZsYExUVYxy) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Tim Henson](https://open.spotify.com/artist/2cMK99GYN2qw5buZecbKH4), [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [IT'S NOT A PHASE](https://open.spotify.com/album/5etGhl198ycQOkK4mt8B1w) | 3:12 | 2023-07-21 |  |
 | [Drive \(feat\. Tilian\)](https://open.spotify.com/track/3b7glFrZPpSmYR4kYBb9Yw) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Tilian](https://open.spotify.com/artist/2hj2E6c3lMHm5QlqsQFI04) | [Drive \(feat\. Tilian\)](https://open.spotify.com/album/28RTBB5CBmmiaQcXv3kOnD) | 3:19 | 2021-12-10 | 2023-01-09 |
 | [Driver](https://open.spotify.com/track/1tm7cZeRQFQsc2Nrpv8PYj) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Nothing For Free](https://open.spotify.com/album/2C5pOup7ksQ7YFutOlP6nA) | 3:29 | 2021-12-10 | 2022-06-25 |
 | [Drowning In It](https://open.spotify.com/track/41wvy0sdybjSqAQZ3dD9x5) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [What is Really Underneath?](https://open.spotify.com/album/6b7BEJklF29cidjmtLOC1Y) | 3:08 | 2023-02-17 | 2023-03-20 |

@@ -121,6 +121,24 @@
     },
     {
       "album": {
+        "name": "Ndima (believe)",
+        "url": "https://open.spotify.com/album/08IND0ish4Rmk3oYgBRdMA"
+      },
+      "artists": [
+        {
+          "name": "K-Lito",
+          "url": "https://open.spotify.com/artist/50n06A17txkLv57MU1BcqX"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125559,
+      "name": "5x",
+      "url": "https://open.spotify.com/track/2FT8rLpopuHduXx11vbFzA"
+    },
+    {
+      "album": {
         "name": "Achour",
         "url": "https://open.spotify.com/album/2UsKaMwVBCtXLRAotSqu0c"
       },
@@ -1352,7 +1370,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 168000,
       "name": "Doucement",
       "url": "https://open.spotify.com/track/3y7t7hnu9bIv7IIH2rBfrC"
@@ -1948,7 +1966,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 215788,
       "name": "Holla",
       "url": "https://open.spotify.com/track/02KE9xq0mTKsOaZhSOQ2Gp"
@@ -3264,7 +3282,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 172427,
       "name": "Nina",
       "url": "https://open.spotify.com/track/1W5DSRAV2v550mvABI4ALR"
@@ -3548,7 +3566,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 324520,
       "name": "Oyo Ekoya Eya",
       "url": "https://open.spotify.com/track/3aC0TpWqBfOO8acqAPSJx6"
@@ -3737,6 +3755,28 @@
     },
     {
       "album": {
+        "name": "PISTOLET",
+        "url": "https://open.spotify.com/album/2zodhhPsfim9tEDfpOzjai"
+      },
+      "artists": [
+        {
+          "name": "Stephane Legar",
+          "url": "https://open.spotify.com/artist/2ZRiDEplNEZDgPBziiFEmk"
+        },
+        {
+          "name": "Innoss'B",
+          "url": "https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160273,
+      "name": "PISTOLET",
+      "url": "https://open.spotify.com/track/794xlzZPneUnPEdosfCjxp"
+    },
+    {
+      "album": {
         "name": "Pomme",
         "url": "https://open.spotify.com/album/14qA0vKTNyNxbT54tPGdE0"
       },
@@ -3774,6 +3814,24 @@
       "duration_ms": 507066,
       "name": "Pont rouge",
       "url": "https://open.spotify.com/track/0j4Lz7YvLfj0RyrrpNxkPh"
+    },
+    {
+      "album": {
+        "name": "Posa na bina",
+        "url": "https://open.spotify.com/album/1IP4dFk8PTKhyC2QUYBnw8"
+      },
+      "artists": [
+        {
+          "name": "Hulk Van JMF",
+          "url": "https://open.spotify.com/artist/2D2Wm1oAJrDRzXVzxkyBOE"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156500,
+      "name": "Posa na bina",
+      "url": "https://open.spotify.com/track/08mU4zr52hOJR7ZyqS6Jmr"
     },
     {
       "album": {
@@ -4331,6 +4389,24 @@
     },
     {
       "album": {
+        "name": "Trahison",
+        "url": "https://open.spotify.com/album/4UG3B136vnRC8XNOag024L"
+      },
+      "artists": [
+        {
+          "name": "Stone Komo",
+          "url": "https://open.spotify.com/artist/30ZQRYlnhYefXWcsiNUvye"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265600,
+      "name": "Trahison",
+      "url": "https://open.spotify.com/track/6RC7oaI1RhDG0JBAKavI5L"
+    },
+    {
+      "album": {
         "name": "Trop c'est trop",
         "url": "https://open.spotify.com/album/1wL4WyHqFJwnS9F1IgxeFW"
       },
@@ -4838,6 +4914,28 @@
       "duration_ms": 216933,
       "name": "Zigida",
       "url": "https://open.spotify.com/track/0VF1VyAiS0oRk3O22mv13k"
+    },
+    {
+      "album": {
+        "name": "\u00c7a va !",
+        "url": "https://open.spotify.com/album/6XwsjQcPxdmNAS3a9QwaWT"
+      },
+      "artists": [
+        {
+          "name": "DJ Bens",
+          "url": "https://open.spotify.com/artist/6eOVzayMT2EKOMAawR01tV"
+        },
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154580,
+      "name": "\u00c7a va !",
+      "url": "https://open.spotify.com/track/5YmJ1Ts7Qv2GA2hKi8JxVv"
     },
     {
       "album": {

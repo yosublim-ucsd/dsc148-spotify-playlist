@@ -1,13 +1,281 @@
 {
   "description": "The best new R&B by independent artists and labels. Cover: Lekan. Updates every Wednesday.",
-  "num_followers": 203993,
+  "num_followers": 204073,
   "original_name": "Fresh Finds R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNmU5ZTBmYWU5YTkxNDYyOWUyYzRlN2Y5NDJjMjhjMDMzY2UzN2Ji",
+  "snapshot_id": "MCwzMTRlOTUxZjRlOTBiZGZlNjcxMDUwN2ZmMGY1ZGM4OWI5NTliNzk4",
   "tracks": [
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "The Middle",
+        "url": "https://open.spotify.com/album/6FCFmsL6xefeBO73Dyiwc1"
+      },
+      "artists": [
+        {
+          "name": "Amaal Nuux",
+          "url": "https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz"
+        }
+      ],
+      "duration_ms": 171506,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/1hpwh231orYstXAUAEPwp6"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Presence",
+        "url": "https://open.spotify.com/album/7qLaG83ajGXlT4qwVwZNXs"
+      },
+      "artists": [
+        {
+          "name": "Gemaine",
+          "url": "https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03"
+        },
+        {
+          "name": "Jacob Latimore",
+          "url": "https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69"
+        }
+      ],
+      "duration_ms": 184736,
+      "name": "Presence",
+      "url": "https://open.spotify.com/track/2Yld53VYV6QE7Dy7uqYHHD"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "More Than Anything",
+        "url": "https://open.spotify.com/album/45QF4GlX92MJyo1I53mqRI"
+      },
+      "artists": [
+        {
+          "name": "JAHKOY",
+          "url": "https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh"
+        }
+      ],
+      "duration_ms": 140474,
+      "name": "More Than Anything",
+      "url": "https://open.spotify.com/track/0i5YwyUVsFOsCdiGBryhqj"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Strawberry Skies",
+        "url": "https://open.spotify.com/album/2RwWN4kURHnzORTq8UjG09"
+      },
+      "artists": [
+        {
+          "name": "Kwaku Asante",
+          "url": "https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M"
+        }
+      ],
+      "duration_ms": 186130,
+      "name": "Strawberry Skies",
+      "url": "https://open.spotify.com/track/27qby3flYw8zbknmRAJ6wC"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Teach Me",
+        "url": "https://open.spotify.com/album/5aw4v2mnhQC4fl0BAR3oln"
+      },
+      "artists": [
+        {
+          "name": "Caleb Taylor",
+          "url": "https://open.spotify.com/artist/2HlbEnU7PX3NEpeYlWwXTH"
+        }
+      ],
+      "duration_ms": 180705,
+      "name": "Teach Me",
+      "url": "https://open.spotify.com/track/1WKbFLS2kDYn8devPt6689"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Nuclear Reactor",
+        "url": "https://open.spotify.com/album/38hepIu3uZJAuNK6y9ojEx"
+      },
+      "artists": [
+        {
+          "name": "OSA",
+          "url": "https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW"
+        }
+      ],
+      "duration_ms": 195498,
+      "name": "Nuclear Reactor",
+      "url": "https://open.spotify.com/track/0CiaRxXaZpDdoLUagL0Csq"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "URSNMINE",
+        "url": "https://open.spotify.com/album/4kU1112QrVmMVOTwPDeWna"
+      },
+      "artists": [
+        {
+          "name": "3ee",
+          "url": "https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h"
+        },
+        {
+          "name": "Norah's World",
+          "url": "https://open.spotify.com/artist/3uDQgMS4N1EaG111j4qLZh"
+        }
+      ],
+      "duration_ms": 257368,
+      "name": "URSNMINE",
+      "url": "https://open.spotify.com/track/58alD6rpgshyrcpsFOjFZ4"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "BILLING = CHILLING",
+        "url": "https://open.spotify.com/album/7IUFcafS1yVSCcnI6xpYq3"
+      },
+      "artists": [
+        {
+          "name": "Toy\u00e9",
+          "url": "https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi"
+        }
+      ],
+      "duration_ms": 170526,
+      "name": "BILLING = CHILLING",
+      "url": "https://open.spotify.com/track/0whm71yydiyeu8W2WnKAD4"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "What We Become",
+        "url": "https://open.spotify.com/album/59orHxxohwog8QsHMSXjso"
+      },
+      "artists": [
+        {
+          "name": "Loie",
+          "url": "https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ"
+        }
+      ],
+      "duration_ms": 173706,
+      "name": "Living Room",
+      "url": "https://open.spotify.com/track/6DPmvogAL1AH6QJ4NfQ3ba"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "This Again",
+        "url": "https://open.spotify.com/album/47Qk48pSUoIIYQNZswyMk8"
+      },
+      "artists": [
+        {
+          "name": "Gen Bello",
+          "url": "https://open.spotify.com/artist/4ZbEWjblNsCE61flvcbOMs"
+        }
+      ],
+      "duration_ms": 228466,
+      "name": "Love so Sweet",
+      "url": "https://open.spotify.com/track/507ZRCsU0kTlDIy6yhud0k"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "complicated",
+        "url": "https://open.spotify.com/album/144acRFPtkJHcYq8plsV4f"
+      },
+      "artists": [
+        {
+          "name": "THANKQ",
+          "url": "https://open.spotify.com/artist/18V0w2L9TopQYP73r34tE6"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "complicated",
+      "url": "https://open.spotify.com/track/4yU9YWG5rNLTfSfGlXMmoO"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Keep It Off My Mind",
+        "url": "https://open.spotify.com/album/7cA3REAbnoMn1SR46EcFsD"
+      },
+      "artists": [
+        {
+          "name": "Ivy Lo",
+          "url": "https://open.spotify.com/artist/4yMX8oQmCFFmIGgloKdJLY"
+        }
+      ],
+      "duration_ms": 167121,
+      "name": "No More Love",
+      "url": "https://open.spotify.com/track/6HocrzGQCqy3IEBTGmVRW4"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Tit 4 Tat (All I Know)",
+        "url": "https://open.spotify.com/album/6jsBDflQDxz3cMrkcLeEp7"
+      },
+      "artists": [
+        {
+          "name": "Akira R\u00e6",
+          "url": "https://open.spotify.com/artist/5NFVnZpuhjaFnBHKtLnDds"
+        }
+      ],
+      "duration_ms": 135348,
+      "name": "Tit 4 Tat (All I Know)",
+      "url": "https://open.spotify.com/track/4UCCEqkteMu7YqgwjUMDBc"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Just We (feat. Jordan Occasionally)",
+        "url": "https://open.spotify.com/album/4JA5K4p6XtAK6Sqv1wqakG"
+      },
+      "artists": [
+        {
+          "name": "Mak Ro",
+          "url": "https://open.spotify.com/artist/7Ie2n0Gp5cz6gueIXPxpwa"
+        },
+        {
+          "name": "Jordan Occasionally",
+          "url": "https://open.spotify.com/artist/7dV9Gu3qcrjyMkvPEHRsOX"
+        }
+      ],
+      "duration_ms": 268446,
+      "name": "Just We (feat. Jordan Occasionally)",
+      "url": "https://open.spotify.com/track/0PYA2tNT7WNyfHnROyvzz4"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "make it sweet",
+        "url": "https://open.spotify.com/album/7dz122rk1ZPkQmt8fW8JEE"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Jacoby",
+          "url": "https://open.spotify.com/artist/05pLxSVIyZiQTqQnR4QQ9H"
+        }
+      ],
+      "duration_ms": 161284,
+      "name": "make it sweet",
+      "url": "https://open.spotify.com/track/6v1pldREMquWewApEBNDwh"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Vanity",
+        "url": "https://open.spotify.com/album/07xgzcCcQz2uahUuO1xnkq"
+      },
+      "artists": [
+        {
+          "name": "capespring.",
+          "url": "https://open.spotify.com/artist/2VF53usTu5Chbp1fmxjUeS"
+        }
+      ],
+      "duration_ms": 152971,
+      "name": "Vanity",
+      "url": "https://open.spotify.com/track/7CT9KE85Muc2n7UG6JS0dv"
+    },
     {
       "added_at": "2023-07-14 16:42:55",
       "album": {

@@ -4,7 +4,7 @@
 
 > Lo mejor del Hip\-Hop y Rap en español\. Cover: Gera MX
 
-555 songs - 1 day 7 hr 40 min
+556 songs - 1 day 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [100 TRACKS](https://open.spotify.com/track/2tS3MCvIoHw2m0iyYpsdRF) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [SMILE BIX :\)](https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8) | 2:44 | 2022-05-13 |  |
 | [100 TRACKS](https://open.spotify.com/track/4Aljhc4Fbs5HnkvqMD50U0) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [100 TRACKS](https://open.spotify.com/album/6bCWlTPqOKwHRJ20aMPvqI) | 2:44 | 2022-03-09 | 2022-05-14 |
 | [12A12](https://open.spotify.com/track/3VBJjUHbgNMrrAp8QFKTAm) | [VICE MENTA](https://open.spotify.com/artist/5Aw0EHnWZ9YBfsYN3bjZJH), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [12A12](https://open.spotify.com/album/5GZKbxkInVwMRPQtRsRxsk) | 3:12 | 2022-01-19 | 2022-04-20 |
-| [22HS](https://open.spotify.com/track/3cCTNbeGVsoANK3pbLXOz7) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [POCHOCLOS](https://open.spotify.com/album/6nL86gkh34yZ2vXjRXmHVP) | 2:34 | 2022-10-07 |  |
+| [22HS](https://open.spotify.com/track/3cCTNbeGVsoANK3pbLXOz7) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR) | [POCHOCLOS](https://open.spotify.com/album/6nL86gkh34yZ2vXjRXmHVP) | 2:34 | 2022-10-07 | 2023-07-22 |
 | [23 FEB MADRID FREESTYLE](https://open.spotify.com/track/0YfM7LPg2NvTeCdXVHIAos) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [SMILE BIX :\)](https://open.spotify.com/album/3svLfGfwUxt84cOTkyijl8) | 2:30 | 2022-05-13 |  |
 | [50 Porros, 5 Pelis y 1 Tele Philips](https://open.spotify.com/track/5QnSaN2o5wXnyNB78SBH5b) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd) | [50 Porros, 5 Pelis y 1 Tele Philips](https://open.spotify.com/album/543JrlCxIJTWwMDzVdmzN5) | 3:20 | 2022-01-06 | 2022-10-08 |
 | [6 AM](https://open.spotify.com/track/0TcBdP8MSugpUPhm0xzGHe) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Maikel Delacalle](https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV) | [Goldo Funky](https://open.spotify.com/album/28TBy3fqYNUSp4CTzQSJJQ) | 4:15 | 2022-01-06 | 2022-01-17 |
@@ -59,6 +59,7 @@
 | [Bando Boyz Free 2](https://open.spotify.com/track/4D3fwZeOechinXHc72oCir) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Bando Boyz Free 2](https://open.spotify.com/album/3Q6HpqGRTI5rM5z2Ajbi96) | 3:21 | 2022-01-06 | 2022-05-14 |
 | [Banquetera](https://open.spotify.com/track/2p2ezOq5rUJxdJXuks1TlE) | [West Gold](https://open.spotify.com/artist/1gPiNBRjOB9XochAAFR3iM), [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Banquetera](https://open.spotify.com/album/64Ko1LhGkxnukkLuad8lco) | 4:16 | 2022-10-07 | 2023-05-27 |
 | [Bape \(Remix\)](https://open.spotify.com/track/3bfb530Lxa1CSKK1VTksBA) | [Jovaan](https://open.spotify.com/artist/5y1mXGApE4lshXA10gQ0S3), [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1) | [Bape \(Remix\)](https://open.spotify.com/album/5bKfN6UHIlW3RMEmP10YZP) | 6:02 | 2022-10-07 |  |
+| [Barrio \(with Lefty Sm\)](https://open.spotify.com/track/4oxKEbn3OLrNCW5JciZKvn) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Barrio \(with Lefty Sm\)](https://open.spotify.com/album/1ymuLQZcpThyYLQHMd701v) | 2:24 | 2023-07-21 |  |
 | [Bebi Demasiado](https://open.spotify.com/track/6vfjbHTiVh68wj6XioqhdA) | [Dowba Montana](https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO) | [Bebi Demasiado](https://open.spotify.com/album/1g8IVrqLI8ZwCvBSp0UoCZ) | 2:28 | 2023-05-26 |  |
 | [Beibi](https://open.spotify.com/track/6aguaDgP2NVtL3w2DK2IdR) | [ForyFive](https://open.spotify.com/artist/23OHfV3JOMWn38m7k4RLJq) | [45](https://open.spotify.com/album/6O6upeYf5MwVKrqV29Ga1l) | 3:09 | 2022-05-13 | 2022-12-10 |
 | [Belico](https://open.spotify.com/track/43OaRjkDxlWBVxamvz7BTA) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Belico](https://open.spotify.com/album/3PRkKoLsKPc29sBq8jbYC2) | 2:38 | 2023-05-26 |  |

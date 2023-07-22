@@ -2,7 +2,7 @@
 
 ### [Ginger Me](https://open.spotify.com/playlist/37i9dQZF1DX0SlHbqMm3vJ)
 
-> A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Adekunle Gold
+> A collection R&B and Afropop cuts from West Africa’s finest artists\. Cover: Chike
 
 411 songs - 20 hr 42 min
 

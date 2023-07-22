@@ -1276,7 +1276,7 @@
     {
       "album": {
         "name": "No Se Olvida",
-        "url": "https://open.spotify.com/album/6Qs5LGli3TakgNFunsGJ3y"
+        "url": "https://open.spotify.com/album/6uiNS3s8ZXN0euA9QfAUjZ"
       },
       "artists": [
         {
@@ -1291,6 +1291,28 @@
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 209214,
+      "name": "No Se Olvida",
+      "url": "https://open.spotify.com/track/34EoylFJnVhpmWi0fADagg"
+    },
+    {
+      "album": {
+        "name": "No Se Olvida",
+        "url": "https://open.spotify.com/album/6Qs5LGli3TakgNFunsGJ3y"
+      },
+      "artists": [
+        {
+          "name": "Jay Menez",
+          "url": "https://open.spotify.com/artist/5RVuxgqu3esPo4LIrf4HUs"
+        },
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "date_added": "2021-12-14",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-22",
       "duration_ms": 209214,
       "name": "No Se Olvida",
       "url": "https://open.spotify.com/track/4q97rK525tPgSCuxs8FaKe"

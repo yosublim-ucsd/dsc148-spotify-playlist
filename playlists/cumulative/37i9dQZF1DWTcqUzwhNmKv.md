@@ -2,9 +2,9 @@
 
 ### [Kickass Metal](https://open.spotify.com/playlist/37i9dQZF1DWTcqUzwhNmKv)
 
-> Make Them Suffer on top of the biggest Metal playlist.
+> Corey Taylor on top of the biggest Metal playlist.
 
-473 songs - 1 day 7 hr 51 min
+476 songs - 1 day 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Divine Attack \- Shingeki \-](https://open.spotify.com/track/0uOtodY9htazL9wojWhKhQ) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [Divine Attack \- Shingeki \-](https://open.spotify.com/album/6QZX14rv2DloXGEXcYMmSR) | 3:38 | 2022-11-04 | 2022-12-10 |
 | [Do Or Die](https://open.spotify.com/track/0JfaobFI1qJCapXqsCUxcc) | [Elegant Weapons](https://open.spotify.com/artist/68LxTdkzuDW3cnp83NKfpQ) | [Do Or Die](https://open.spotify.com/album/6boPlXyyTR7F5YYPYhNLCX) | 5:21 | 2023-04-21 | 2023-05-28 |
 | [Do Or Die](https://open.spotify.com/track/4QCUR8rFIqwHO3qsDOmXhM) | [Elegant Weapons](https://open.spotify.com/artist/68LxTdkzuDW3cnp83NKfpQ) | [Horns For A Halo](https://open.spotify.com/album/6UeWcHxrlltg9Vqh46x2if) | 5:21 | 2023-05-26 |  |
-| [DOGMA](https://open.spotify.com/track/2HIhl2w9iWzxc9b6PJbXFw) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [DOGMA](https://open.spotify.com/album/6bjW09q0WnAX0nIhrJ9rBr) | 2:46 | 2023-03-24 |  |
+| [DOGMA](https://open.spotify.com/track/2HIhl2w9iWzxc9b6PJbXFw) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [DOGMA](https://open.spotify.com/album/6bjW09q0WnAX0nIhrJ9rBr) | 2:46 | 2023-03-24 | 2023-07-22 |
 | [Don't Fix Me](https://open.spotify.com/track/7jMgTfAnjxgYJFBL9fKlJj) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Don't Fix Me](https://open.spotify.com/album/5eh22H5dI8tHG6aknnl80L) | 2:53 | 2022-06-10 | 2022-07-08 |
 | [Don't Go](https://open.spotify.com/track/5su7QP5m3Mt5yaAM5rrriE) | [Villain of the Story](https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE) | [Don't Go](https://open.spotify.com/album/2notng3VruouqChEzm2IJl) | 3:21 | 2022-05-06 | 2022-06-10 |
 | [Don't Pray For Me](https://open.spotify.com/track/5HmNls885b2Egmu60z4fo3) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Don't Pray For Me](https://open.spotify.com/album/4xVMkU8AP5ihwCv0ra9uaf) | 3:41 | 2022-07-08 | 2022-10-29 |
@@ -126,6 +126,7 @@
 | [Dying Life](https://open.spotify.com/track/5nm3w9H0Cc24qR7in5Tvph) | [Suicide Silence](https://open.spotify.com/artist/6HZr7Fs2VfV1PYHIwo8Ylc) | [Dying Life](https://open.spotify.com/album/6Pc86g10o2mM7OSFl5HfLX) | 3:20 | 2023-02-17 | 2023-04-15 |
 | [Dynasty](https://open.spotify.com/track/2th7mWLxZNhBqfa0IHC6b3) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Dynasty](https://open.spotify.com/album/7atT7sF2atM7kc7yR1krit) | 4:26 | 2023-02-17 | 2023-03-18 |
 | [Dystopia \(feat\. Christoph Wieczorek of Annisokay\)](https://open.spotify.com/track/2WaaniEgnI8pUMjvpfUCBJ) | [Caliban](https://open.spotify.com/artist/1oeo6cC9Fqa2bxxv67qBQL), [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Dystopia \(feat\. Christoph Wieczorek of Annisokay\)](https://open.spotify.com/album/1xiPawOviJPuyqAhBWXYej) | 4:23 | 2022-03-03 | 2022-06-10 |
+| [Earn It](https://open.spotify.com/track/1dEDi8paa8WJCnt42Rkb8W) | [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [Earn It](https://open.spotify.com/album/5iPPJrnEto3sGfm7pyws7s) | 3:06 | 2023-07-21 |  |
 | [Earth Shaker](https://open.spotify.com/track/3EytQKQcbsuZrXTrpFcL4P) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Earth Shaker](https://open.spotify.com/album/1pNsCcIhnP2wBeLmBWgB72) | 3:23 | 2022-07-01 | 2022-09-10 |
 | [Echo](https://open.spotify.com/track/1tflEwtV8PtN6IRErehdve) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Echo](https://open.spotify.com/album/0cAdFhMC5AGBs5BRpFD23C) | 3:19 | 2021-12-20 | 2022-03-25 |
 | [Echolalia](https://open.spotify.com/track/0cXHEFaNtrgXuoBtOiaZDo) | [Faetooth](https://open.spotify.com/artist/6bAM7jeIX4pI5lZ0QoSZjt) | [Remnants of the Vessel](https://open.spotify.com/album/0LniiF1MjvYW8br5Eg7saD) | 5:06 | 2023-02-03 | 2023-05-13 |
@@ -166,7 +167,7 @@
 | [Get in the Ring](https://open.spotify.com/track/1UR4uh8g1YO3RxK4QBFf1m) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Get in the Ring](https://open.spotify.com/album/4SZ83KkAeVrEazPQhWfaMP) | 4:24 | 2022-06-10 | 2022-07-08 |
 | [Get That Done](https://open.spotify.com/track/5AKzAajma8Wl7h0GqBRknc) | [Any Given Day](https://open.spotify.com/artist/4p6RoajGbtqLSfYZpFxHyU) | [Get That Done](https://open.spotify.com/album/0rk3cPpQxE4pDhswHxRlnf) | 4:17 | 2023-06-23 |  |
 | [Ghost Of Me](https://open.spotify.com/track/25Yfk4XBeglz1QoXhDqJ2w) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Ghost Of Me](https://open.spotify.com/album/6XHoTtC0sNkJbnKXkCC4ov) | 3:51 | 2023-06-30 |  |
-| [Gila Monster](https://open.spotify.com/track/7zHiG2FFEpeGvBmJkgZzVv) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Gila Monster](https://open.spotify.com/album/7o29QKPMZsDZ64DDBrzQzN) | 4:35 | 2023-06-09 |  |
+| [Gila Monster](https://open.spotify.com/track/7zHiG2FFEpeGvBmJkgZzVv) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Gila Monster](https://open.spotify.com/album/7o29QKPMZsDZ64DDBrzQzN) | 4:35 | 2023-06-09 | 2023-07-22 |
 | [Gimme That Boom](https://open.spotify.com/track/4QbvKaOOsRXSUT0ySto5Ks) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Gimme That Boom](https://open.spotify.com/album/5t32hSmBus3r3Mw8Z64hxF) | 3:13 | 2022-11-25 | 2023-04-29 |
 | [Give Up The Ghost](https://open.spotify.com/track/579m9YJsOMXEukNFvESTQ8) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Give Up The Ghost](https://open.spotify.com/album/4iv9PO9UCHeO7ciQ2wpQFQ) | 4:04 | 2021-12-20 | 2022-01-28 |
 | [Glitch](https://open.spotify.com/track/35i03ZqMFb5Q3O9TAQ7XLB) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Glitch](https://open.spotify.com/album/6nUaOQGLU8xIAI5MQqHvup) | 4:21 | 2022-06-10 | 2023-03-25 |
@@ -258,7 +259,7 @@
 | [Nevermore](https://open.spotify.com/track/2XRiUuCH5neBnqublHpmNw) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Nevermore](https://open.spotify.com/album/5p1LbatHrPZWLggtFukn75) | 4:35 | 2022-07-08 | 2022-08-06 |
 | [Nevermore](https://open.spotify.com/track/3UxbX3S3t6IKzGW4gGgYtr) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Nevermore](https://open.spotify.com/album/5cIXfBbWxO4vcWqcur8LEc) | 4:35 | 2022-06-10 | 2022-07-29 |
 | [New Devil \(feat\. Maria Brink of In This Moment\)](https://open.spotify.com/track/1lqTpQzSgGZZ850bimyxMP) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ), [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT), [Maria Brink](https://open.spotify.com/artist/6W8xq7TXME3WXP7c7LMWBR) | [Never Gonna Learn EP](https://open.spotify.com/album/0jHGiwT6YJhI1OV75cbnlW) | 3:34 | 2022-01-21 | 2022-05-20 |
-| [New Messiah](https://open.spotify.com/track/784D068nWk6mUvEXkufPnF) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [New Messiah](https://open.spotify.com/album/3M5G33aqX2jA7ZyaujjAem) | 4:30 | 2023-04-14 |  |
+| [New Messiah](https://open.spotify.com/track/784D068nWk6mUvEXkufPnF) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [New Messiah](https://open.spotify.com/album/3M5G33aqX2jA7ZyaujjAem) | 4:30 | 2023-04-14 | 2023-07-22 |
 | [Nigh to Silence](https://open.spotify.com/track/3si5YKMfvQtTBgLFDChRsi) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Nigh to Silence](https://open.spotify.com/album/76tQE4Ts2FfKBxW8v8CISH) | 5:04 | 2022-01-21 | 2022-03-04 |
 | [Night Stalkers](https://open.spotify.com/track/27uMsh4uGnICXv12WQd4fN) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Night Stalkers / We’ll Be Back](https://open.spotify.com/album/7E23y6lreAy6VWsxTnFx4s) | 6:38 | 2022-07-29 | 2022-08-13 |
 | [Nightmare](https://open.spotify.com/track/0u9PGHiydskvvPmyPVvm73) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX) | [Nightmare](https://open.spotify.com/album/3QIB6uRdIiuTKHBzYY5GCc) | 3:07 | 2023-02-10 |  |
@@ -336,6 +337,7 @@
 | [Silver Lining](https://open.spotify.com/track/4CBdaNfqAK3CNkGtf1I6dE) | [Jesus Piece](https://open.spotify.com/artist/5ZPr0RHsR3DrAhtsYMsfHR) | [...So Unknown](https://open.spotify.com/album/0PkxIDjdvpCvfJDucmDpce) | 3:55 | 2023-04-14 | 2023-06-10 |
 | [Silver Tongue](https://open.spotify.com/track/7l3WTEY9owUL3kRgna75Bd) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Silver Tongue](https://open.spotify.com/album/60gDJXh5wx8VyyvFkt7fbf) | 4:18 | 2022-08-12 | 2023-05-20 |
 | [Sing to the Grave](https://open.spotify.com/track/3GcWW4Bmb0q0LsbDOWChNU) | [Chelsea Grin](https://open.spotify.com/artist/4UgQ3EFa8fEeaIEg54uV5b) | [Sing to the Grave](https://open.spotify.com/album/6NLPfi1CsS3PmCWe6QSb2o) | 2:39 | 2023-01-27 | 2023-04-01 |
+| [SIRENS](https://open.spotify.com/track/4JPndG4JDXqXEm6gQRYDby) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [SIRENS](https://open.spotify.com/album/6fxrclXOlgVWkNXBnsScoU) | 3:36 | 2023-07-21 |  |
 | [Six Feet Under](https://open.spotify.com/track/5DYCuzBPf13q0QZwQvjYzi) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Six Feet Under](https://open.spotify.com/album/1VujeZarJaiO5ZUCI5ed6G) | 2:58 | 2023-05-05 |  |
 | [Slaughter Beach](https://open.spotify.com/track/234GDlel7bc4Cl7e5jiwNa) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Slaughter Beach](https://open.spotify.com/album/1ktlp4ovJQGkGCep35GaQq) | 3:41 | 2022-09-30 | 2022-11-19 |
 | [Slaughterhouse](https://open.spotify.com/track/66AylJWCrknRTguI3L6Cbq) | [Chat Pile](https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH) | [God's Country](https://open.spotify.com/album/38hr6lK2Up3QabqUEUEhKx) | 4:12 | 2022-08-05 | 2022-09-03 |
@@ -373,6 +375,7 @@
 | [Sunshine!](https://open.spotify.com/track/5UZvBguQtkxJfgYrMZcRhe) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Sunshine!](https://open.spotify.com/album/1wh6d2qvnS769wK1IEeXE1) | 3:18 | 2023-04-28 |  |
 | [Superstition](https://open.spotify.com/track/6cpzmH6s1EV9ImMh4s6tr5) | [Soulfly](https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc) | [Superstition](https://open.spotify.com/album/5g4WCIUGBX79fi37rRxZwj) | 3:14 | 2022-05-06 | 2022-06-24 |
 | [Surrender](https://open.spotify.com/track/4YW8jIwpuIqYvNEOiqxAb5) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Heaven in Hiding](https://open.spotify.com/album/39AMnevcJVGYVhCALp1kvQ) | 3:41 | 2021-12-20 | 2022-04-15 |
+| [Take Shape \(feat\. Billy Corgan\)](https://open.spotify.com/track/4GswFW5miCkwi9iqrDqEw4) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK), [Billy Corgan](https://open.spotify.com/artist/12B5JK11NOP7OQ9Fxjrpx2) | [Take Shape \(feat\. Billy Corgan\)](https://open.spotify.com/album/4cyn9XrZxlYS0joKsdf1JS) | 3:24 | 2023-07-21 |  |
 | [Tamashii No Houkai](https://open.spotify.com/track/6x6UnL6dWt3r8nQMlSMmAx) | [Ibaraki](https://open.spotify.com/artist/2KfAvhpbfc8YkLBj6w3hfU) | [Tamashii No Houkai](https://open.spotify.com/album/3ZBHu5UnXwrQrEeepL6X4B) | 5:58 | 2022-01-21 | 2022-02-25 |
 | [Tear It Down](https://open.spotify.com/track/1gb6XmjKLsdILbHNiDzrtV) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Tear It Down](https://open.spotify.com/album/7qpwjm2QJOXh4Rfh844z13) | 3:57 | 2022-07-22 | 2022-07-29 |
 | [Tear It Down](https://open.spotify.com/track/7heofhlS2Al1h56tb7Hoo8) | [Skid Row](https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg) | [Tear It Down](https://open.spotify.com/album/2kjVaDRFJ0mqk9egRonDfI) | 3:57 | 2022-07-22 | 2022-07-30 |

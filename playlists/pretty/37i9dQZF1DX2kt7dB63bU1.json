@@ -1,12 +1,12 @@
 {
   "description": "Jazz voices of today. Cover: Laufey",
-  "num_followers": 126268,
+  "num_followers": 126358,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZTU2N2FjMjNiOTE3MmMyOTQwMzhiOTMxZTkyZmM4NTEyMGEzZWFi",
+  "snapshot_id": "MCwyZjJiMWE4M2E4Y2I0ZGViM2Q0NmUzNDEwYmRlMDNhN2NjMmNhODFj",
   "tracks": [
     {
       "added_at": "2023-06-16 04:01:00",
@@ -25,6 +25,26 @@
       "url": "https://open.spotify.com/track/4LHq10VKu3fSIg8EeVRi09"
     },
     {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "You're Alike, You Two",
+        "url": "https://open.spotify.com/album/7d6bFLcHMa6ExxlPjzuAkz"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        },
+        {
+          "name": "Mark Limacher",
+          "url": "https://open.spotify.com/artist/2FyolspKay4voViiywFNFs"
+        }
+      ],
+      "duration_ms": 253253,
+      "name": "A Fine Romance",
+      "url": "https://open.spotify.com/track/4DdjqjTARDbAvjELiHxuyn"
+    },
+    {
       "added_at": "2023-07-14 04:01:00",
       "album": {
         "name": "I Am What I Am",
@@ -39,38 +59,6 @@
       "duration_ms": 332262,
       "name": "I Am What I Am",
       "url": "https://open.spotify.com/track/78ixe4bEW1kmcLk9e0BAL8"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "Linger Awhile (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1kQH5ZtEqzJ5GxyTtfHKE3"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 183523,
-      "name": "Sometimes Today Seems Like Yesterday",
-      "url": "https://open.spotify.com/track/4suPwKFZtB6ztKoTzppeYR"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "Body of Mine",
-        "url": "https://open.spotify.com/album/0HD3cdbBgs3MJQcqgpGYLE"
-      },
-      "artists": [
-        {
-          "name": "Izo FitzRoy",
-          "url": "https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r"
-        }
-      ],
-      "duration_ms": 211186,
-      "name": "Body of Mine",
-      "url": "https://open.spotify.com/track/59Ll82ces41ZPuIOi9SVua"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -93,6 +81,54 @@
       "url": "https://open.spotify.com/track/26gSq8ynYSkBTo637il67o"
     },
     {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Dignidad (feat. Joel Ross, Sean Mason, Jonathan Michel & Joe Dyson)",
+        "url": "https://open.spotify.com/album/7wQyzR5qpjMCyZFn8bcxYB"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        },
+        {
+          "name": "Sean Mason",
+          "url": "https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z"
+        },
+        {
+          "name": "Jonathan Michel",
+          "url": "https://open.spotify.com/artist/2G2WfpJo95sdb8Djp7xzd8"
+        },
+        {
+          "name": "Joe Dyson",
+          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
+        }
+      ],
+      "duration_ms": 183650,
+      "name": "Dignidad (feat. Joel Ross, Sean Mason, Jonathan Michel & Joe Dyson)",
+      "url": "https://open.spotify.com/track/6BvnDPPGQsdQoymojmjNjW"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Body of Mine",
+        "url": "https://open.spotify.com/album/0HD3cdbBgs3MJQcqgpGYLE"
+      },
+      "artists": [
+        {
+          "name": "Izo FitzRoy",
+          "url": "https://open.spotify.com/artist/50gPQYV9WREGkWM53dNb9r"
+        }
+      ],
+      "duration_ms": 211186,
+      "name": "Body of Mine",
+      "url": "https://open.spotify.com/track/59Ll82ces41ZPuIOi9SVua"
+    },
+    {
       "added_at": "2023-06-16 04:01:00",
       "album": {
         "name": "Can You Believe",
@@ -107,6 +143,22 @@
       "duration_ms": 235531,
       "name": "Can You Believe",
       "url": "https://open.spotify.com/track/5q3jGywKjTjrn9nDrbWWdQ"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Endless Summers",
+        "url": "https://open.spotify.com/album/2biVKVKuZJCPiE59SqjUfy"
+      },
+      "artists": [
+        {
+          "name": "Crystal Lewis",
+          "url": "https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf"
+        }
+      ],
+      "duration_ms": 231574,
+      "name": "Endless Summers",
+      "url": "https://open.spotify.com/track/6igVwqFR4lIwADTzvX1YAP"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -233,6 +285,22 @@
       "url": "https://open.spotify.com/track/19GyWK5SuwYomTcCjTqAXs"
     },
     {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Linger Awhile (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1kQH5ZtEqzJ5GxyTtfHKE3"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 183523,
+      "name": "Sometimes Today Seems Like Yesterday",
+      "url": "https://open.spotify.com/track/4suPwKFZtB6ztKoTzppeYR"
+    },
+    {
       "added_at": "2023-07-07 04:01:00",
       "album": {
         "name": "Night Life (with Mickey Raphael) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
@@ -251,26 +319,6 @@
       "duration_ms": 223200,
       "name": "Night Life (with Mickey Raphael) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
       "url": "https://open.spotify.com/track/4pzhJmY4FkJy49EkrLxdhc"
-    },
-    {
-      "added_at": "2023-06-09 04:01:00",
-      "album": {
-        "name": "I'll Be Hard to Handle",
-        "url": "https://open.spotify.com/album/4hOtezV280kidUiaE20bBi"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        },
-        {
-          "name": "Mark Limacher",
-          "url": "https://open.spotify.com/artist/2FyolspKay4voViiywFNFs"
-        }
-      ],
-      "duration_ms": 244626,
-      "name": "I'll Be Hard to Handle",
-      "url": "https://open.spotify.com/track/6B45peRgPoRivUPADSvl0G"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -1153,38 +1201,6 @@
       "url": "https://open.spotify.com/track/4wzU95hQPK14Uascf4wkEo"
     },
     {
-      "added_at": "2023-04-07 04:01:00",
-      "album": {
-        "name": "Potions",
-        "url": "https://open.spotify.com/album/4XEN52kySR4Eb7ZS8WsR2g"
-      },
-      "artists": [
-        {
-          "name": "Lauren Henderson",
-          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
-        },
-        {
-          "name": "Eric Wheeler",
-          "url": "https://open.spotify.com/artist/1TvIn0DgifSGnkJL6VTEF5"
-        },
-        {
-          "name": "Joe Dyson",
-          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
-        },
-        {
-          "name": "John Chin",
-          "url": "https://open.spotify.com/artist/1ixbDzSoXoP26q6TkB3yHU"
-        },
-        {
-          "name": "Nick Tannura",
-          "url": "https://open.spotify.com/artist/17rFfNiQpIFQGk04TNl3xB"
-        }
-      ],
-      "duration_ms": 340538,
-      "name": "Potions",
-      "url": "https://open.spotify.com/track/7l5TggVCPxbK5AHUqsD8ZL"
-    },
-    {
       "added_at": "2023-05-19 04:01:00",
       "album": {
         "name": "Lean In",
@@ -1239,22 +1255,6 @@
       "duration_ms": 235757,
       "name": "Don't Fence Me In / Strollin'",
       "url": "https://open.spotify.com/track/19OTt5vFfApZoRLmMjtgyk"
-    },
-    {
-      "added_at": "2023-03-24 04:01:00",
-      "album": {
-        "name": "A Seasonal Thing...SPRING",
-        "url": "https://open.spotify.com/album/1xMRqAMTmnukGyibwnzVsc"
-      },
-      "artists": [
-        {
-          "name": "Crystal Lewis",
-          "url": "https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf"
-        }
-      ],
-      "duration_ms": 288128,
-      "name": "They Say It's Spring",
-      "url": "https://open.spotify.com/track/18UXGACErp6VwySRavPglK"
     },
     {
       "added_at": "2022-09-16 04:01:00",

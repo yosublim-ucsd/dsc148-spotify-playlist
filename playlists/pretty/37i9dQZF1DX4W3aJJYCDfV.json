@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Stormzy + Raye (pictured), ZAYN, Ice Spice and more!",
-  "num_followers": 835000,
+  "num_followers": 835253,
   "original_name": "New Music Friday UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTEwMzk4MmFkYjBmZjZiNmIxYjJiNjkwZGRkY2Y4Zjk0ZGJhMGY2",
+  "snapshot_id": "MCxiMjM0NGJiNWQ0ZWFlMmNmNTZhZThiY2MzMjIwYjI3NjU2Mzk1ZWUy",
   "tracks": [
     {
       "added_at": "2023-07-20 23:00:00",
@@ -75,6 +75,46 @@
       "duration_ms": 187800,
       "name": "the way things go",
       "url": "https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv"
+    },
+    {
+      "added_at": "2023-07-20 23:00:00",
+      "album": {
+        "name": "K-POP",
+        "url": "https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 185220,
+      "name": "K-POP",
+      "url": "https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C"
+    },
+    {
+      "added_at": "2023-07-20 23:00:00",
+      "album": {
+        "name": "Like..? (Deluxe)",
+        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 126857,
+      "name": "Deli",
+      "url": "https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN"
     },
     {
       "added_at": "2023-07-20 23:00:00",
@@ -244,7 +284,7 @@
       "added_at": "2023-07-20 23:00:00",
       "album": {
         "name": "De Selby (Part 2)",
-        "url": "https://open.spotify.com/album/3XhPF8KnqNLkSPbNbBqMw6"
+        "url": "https://open.spotify.com/album/5xq7nQjOBcUnOyRMkBLnaM"
       },
       "artists": [
         {
@@ -254,7 +294,7 @@
       ],
       "duration_ms": 227826,
       "name": "De Selby (Part 2)",
-      "url": "https://open.spotify.com/track/20kkA2JHtAF5J7iz89iOuB"
+      "url": "https://open.spotify.com/track/4SFNe716eUbgX1XvGCTBu7"
     },
     {
       "added_at": "2023-07-20 23:00:00",
@@ -615,6 +655,22 @@
       "duration_ms": 225492,
       "name": "Point Me 2 (with Cardi B)",
       "url": "https://open.spotify.com/track/7ttrlfQIDc8JlxtH7fVDWp"
+    },
+    {
+      "added_at": "2023-07-20 23:00:00",
+      "album": {
+        "name": "NewJeans 2nd EP 'Get Up'",
+        "url": "https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 147880,
+      "name": "Cool With You",
+      "url": "https://open.spotify.com/track/02wk5BttM0QL38ERjLPQJB"
     },
     {
       "added_at": "2023-07-20 23:00:00",
@@ -1451,8 +1507,8 @@
     {
       "added_at": "2023-07-20 23:00:00",
       "album": {
-        "name": "Choosing You (feat. azuki)",
-        "url": "https://open.spotify.com/album/1gxLxVTxo1q5ZnC0srlS02"
+        "name": "Can't Commit",
+        "url": "https://open.spotify.com/album/6asRCC3guaIZsAmru42abp"
       },
       "artists": [
         {
@@ -1466,7 +1522,7 @@
       ],
       "duration_ms": 205766,
       "name": "Choosing You (feat. azuki)",
-      "url": "https://open.spotify.com/track/4JHJ4ZeazP9XNH0x0wCLxK"
+      "url": "https://open.spotify.com/track/2SSHPogg6gOiiwUZq4Gs5m"
     },
     {
       "added_at": "2023-07-20 23:00:00",
@@ -1811,8 +1867,8 @@
     {
       "added_at": "2023-07-20 23:00:00",
       "album": {
-        "name": "Misunderstood",
-        "url": "https://open.spotify.com/album/6Y5sTPo5dKnVJ5VCpBxrtl"
+        "name": "Alchemy",
+        "url": "https://open.spotify.com/album/0rEZoqA7p862nTPHdv1rrj"
       },
       "artists": [
         {
@@ -1822,7 +1878,7 @@
       ],
       "duration_ms": 172800,
       "name": "Misunderstood",
-      "url": "https://open.spotify.com/track/2Xt8FWDmoDzGcwwN2urGN3"
+      "url": "https://open.spotify.com/track/3QzIkFthRrFfUQ4HBqe3Bv"
     },
     {
       "added_at": "2023-07-20 23:00:00",

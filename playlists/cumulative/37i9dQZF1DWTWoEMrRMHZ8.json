@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "As belas novidades da MPB. Foto: Ava Rocha",
+  "description": "As belas novidades da MPB. Foto: Chico C\u00e9sar",
   "name": "Divina MPB",
   "tracks": [
     {
@@ -666,6 +666,28 @@
       "duration_ms": 179656,
       "name": "Ano Que Vem",
       "url": "https://open.spotify.com/track/34QGsXNY4HNxta9zx6RuPs"
+    },
+    {
+      "album": {
+        "name": "Ao Que Vai Chegar",
+        "url": "https://open.spotify.com/album/6QVpgpJQUDGHL97KChJ39z"
+      },
+      "artists": [
+        {
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        },
+        {
+          "name": "Mutinho",
+          "url": "https://open.spotify.com/artist/1A8yxioKh9YeFbwy10y3mK"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206457,
+      "name": "Ao Que Vai Chegar",
+      "url": "https://open.spotify.com/track/0vMwa2OtZ2FLsqQ1lJBFYK"
     },
     {
       "album": {
@@ -1800,7 +1822,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 184500,
       "name": "Caravana",
       "url": "https://open.spotify.com/track/5SPoEc1PJlm7Nf6Gkr7dzq"
@@ -3521,6 +3543,24 @@
     },
     {
       "album": {
+        "name": "Fogo",
+        "url": "https://open.spotify.com/album/5o08PAK8oEAIx05WDKkmsZ"
+      },
+      "artists": [
+        {
+          "name": "Sandra De S\u00e1",
+          "url": "https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194443,
+      "name": "Fogo",
+      "url": "https://open.spotify.com/track/2XKh7iXzONaETF9RogLOeo"
+    },
+    {
+      "album": {
         "name": "SambadorA",
         "url": "https://open.spotify.com/album/7gaN0jN1DMDqu4HcrO1THK"
       },
@@ -4322,7 +4362,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 216593,
       "name": "Lisboa Amanheceu",
       "url": "https://open.spotify.com/track/7eOT9KOxCFw9MzPEfI2ffE"
@@ -5827,6 +5867,24 @@
     },
     {
       "album": {
+        "name": "N\u00e3o Sei De Mais Nada",
+        "url": "https://open.spotify.com/album/2d5ZmARQBje78lIc9sTtut"
+      },
+      "artists": [
+        {
+          "name": "Valmir Lins",
+          "url": "https://open.spotify.com/artist/5YjRulecYmKYkC0HBwGF4F"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168679,
+      "name": "N\u00e3o Sei De Mais Nada",
+      "url": "https://open.spotify.com/track/22uP000WPa2yUnfSKCB6zD"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Tem Lua",
         "url": "https://open.spotify.com/album/2TKdvdufRf6yTMPnjAwZMh"
       },
@@ -5970,7 +6028,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 162000,
       "name": "O Caderno",
       "url": "https://open.spotify.com/track/0clvvZC3a6He6kwuAmJNpD"
@@ -5996,6 +6054,28 @@
       "duration_ms": 162000,
       "name": "O Caderno",
       "url": "https://open.spotify.com/track/6AWFzXFFWd29Juiz3oOtzb"
+    },
+    {
+      "album": {
+        "name": "Novas Cores, Eternas Can\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/0zGWOMHfPEXWn1ZPE1Idjl"
+      },
+      "artists": [
+        {
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        },
+        {
+          "name": "Sandy",
+          "url": "https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "O Caderno",
+      "url": "https://open.spotify.com/track/6d9kLmczO7tjudF3zMCyb1"
     },
     {
       "album": {
@@ -6246,7 +6326,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 194207,
       "name": "ON/OFF",
       "url": "https://open.spotify.com/track/1lXBS9zNSPDLZL2GtVMNc9"
@@ -6935,6 +7015,24 @@
     },
     {
       "album": {
+        "name": "Pisadinha",
+        "url": "https://open.spotify.com/album/7ErOLfcPk2BGTrjfrx7nSY"
+      },
+      "artists": [
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196706,
+      "name": "Pisadinha",
+      "url": "https://open.spotify.com/track/7AseVbtQ1CL0vY3f8XMyCH"
+    },
+    {
+      "album": {
         "name": "Baby e Pepeu (Ao Vivo no Noites Cariocas)",
         "url": "https://open.spotify.com/album/0zjPNdJPiDYm2BlSloyhtC"
       },
@@ -7008,7 +7106,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 170991,
       "name": "Poliamor - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1FHekq82sUo96aiyKCSk9W"
@@ -7847,6 +7945,28 @@
     },
     {
       "album": {
+        "name": "Novas Cores, Eternas Can\u00e7\u00f5es (Deluxe)",
+        "url": "https://open.spotify.com/album/7nowUNu0pHcEL9qK24CfRR"
+      },
+      "artists": [
+        {
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        },
+        {
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165815,
+      "name": "Regra Tr\u00eas",
+      "url": "https://open.spotify.com/track/31P41KIR8XuaRnBw0IMswD"
+    },
+    {
+      "album": {
         "name": "Regra Tr\u00eas",
         "url": "https://open.spotify.com/album/5wMyRe196Z2c34iHVFpGis"
       },
@@ -7862,7 +7982,7 @@
       ],
       "date_added": "2023-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 165815,
       "name": "Regra Tr\u00eas",
       "url": "https://open.spotify.com/track/7Lk11taa1HND86DbUk1zB5"
@@ -8990,10 +9110,32 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 181800,
       "name": "Tarde Em Itapu\u00e3",
       "url": "https://open.spotify.com/track/32WEGXh89ioVSfemQvdeKF"
+    },
+    {
+      "album": {
+        "name": "Novas Cores, Eternas Can\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/0zGWOMHfPEXWn1ZPE1Idjl"
+      },
+      "artists": [
+        {
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181800,
+      "name": "Tarde Em Itapu\u00e3",
+      "url": "https://open.spotify.com/track/6lykiRKyO64KCCDpiSOdUF"
     },
     {
       "album": {

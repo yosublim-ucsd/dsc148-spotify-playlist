@@ -4,7 +4,7 @@
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: WinWin 楊安妮
 
-609 songs - 1 day 10 hr 32 min
+610 songs - 1 day 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -581,6 +581,7 @@
 | [藍色時期](https://open.spotify.com/track/41SLYJForXFleyuyKHqm7k) | [Hedgehog](https://open.spotify.com/artist/1rDjU7YKKDhieHkjaJNbEO) | [藍色時期](https://open.spotify.com/album/1jSDKKhHUaLjq4JbiWYOtX) | 3:25 | 2022-07-21 | 2022-11-04 |
 | [藏](https://open.spotify.com/track/1Q1ekVK1qbKvoqKXS1vSYs) | [Hidy Dear](https://open.spotify.com/artist/2ELf7wGy8b9xpRwOscjnJJ), [Slo Mance](https://open.spotify.com/artist/7kBTWfnHP1lv3PDcj7nCRs) | [藏](https://open.spotify.com/album/6wrbg7F6Yd1JW53ZMZpqa7) | 3:23 | 2022-11-03 | 2023-03-18 |
 | [蘋果樹下](https://open.spotify.com/track/1hZGlDhhkGdNCAo5TBL7hG) | [HeartShine](https://open.spotify.com/artist/2N77bYeH8lzQ2jfhSiqNDB) | [蘋果樹下](https://open.spotify.com/album/59Dt1xdXS8HE6z7f22or8T) | 4:25 | 2022-05-26 | 2022-06-10 |
+| [蜘蛛](https://open.spotify.com/track/3KdThk86RRZoVCVwidyS3A) | [Pyrotechnics](https://open.spotify.com/artist/6pzXFIbEnIlksa2bH7TZsP) | [燎原](https://open.spotify.com/album/6fcjL2VMAQX2KVq3MHAzjd) | 1:54 | 2023-07-21 |  |
 | [街角抱起](https://open.spotify.com/track/31YJdwjzMcW8A7sqQDiPsg) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy) | [街角抱起](https://open.spotify.com/album/4lKgKxdrLqxw0ldFmpER5p) | 3:20 | 2023-02-16 | 2023-05-26 |
 | [褐色的眼睛](https://open.spotify.com/track/2ih823m7ZUJg9omTJXlSJX) | [Byejack](https://open.spotify.com/artist/0yknwn0XnsbFLagS80AA0n), [dy](https://open.spotify.com/artist/11dkaOJSGGuwn9QsItqyzm) | [褐色的眼睛](https://open.spotify.com/album/3A2uWD7yUHzoBmKHdu3Xud) | 3:22 | 2022-05-26 | 2022-06-10 |
 | [西方極樂](https://open.spotify.com/track/1BaWtTnOgSXSEaDzpFTU2p) | [Rawtrack](https://open.spotify.com/artist/2rtmiGX447uwtb0bcQ5bDE) | [西方極樂](https://open.spotify.com/album/1ZsJDmzCevkMRPZFs5NiXa) | 4:06 | 2022-06-30 | 2022-09-09 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Magnolia Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,328 likes - 125 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,446 likes - 125 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 5 | [There's No Place In This World For Me](https://open.spotify.com/track/5xvpfknjWWBcINvOUNgeQV) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [There's No Place In This World For Me](https://open.spotify.com/album/1em4sklvDHYVcQ466X2Nds) | 3:22 |
 | 6 | [Stay Up All Night](https://open.spotify.com/track/3DoUIWxLgJXAlvrlMmtlZO) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [Stay Up All Night](https://open.spotify.com/album/3uRMevrGC00yUbjq19okHx) | 2:58 |
 | 7 | [Circa '99](https://open.spotify.com/track/7HXeqCwlAvfv2htwlc5viB) | [Wilmette](https://open.spotify.com/artist/5LGLYHhrW7yPr4ubyBEJBq) | [Circa '99](https://open.spotify.com/album/0cG0MWqDLtOzeRLJ8N2nLk) | 2:47 |
-| 8 | [Lovely Murk](https://open.spotify.com/track/0WXsyrecoo19Ce6tzN3S4J) | [Oxbow](https://open.spotify.com/artist/4m47y2u5lJBKbakAv5YAh1), [Lingua Ignota](https://open.spotify.com/artist/3Q2RrKEOBdkWI2MJQgdt84) | [Love's Holiday](https://open.spotify.com/album/4N6Tph5OONd8euaMbPUXDh) | 5:15 |
+| 8 | [Lovely Murk](https://open.spotify.com/track/2BYJiIQwds17fOiTtecQbt) | [Oxbow](https://open.spotify.com/artist/4m47y2u5lJBKbakAv5YAh1), [Lingua Ignota](https://open.spotify.com/artist/3Q2RrKEOBdkWI2MJQgdt84) | [Love's Holiday](https://open.spotify.com/album/1l2DnEVEFSC5NcDzLurPg2) | 5:15 |
 | 9 | [A Track In Orbit](https://open.spotify.com/track/33byUHbCWRpbgo6sd8dVro) | [Humane The Moon](https://open.spotify.com/artist/0Xto4nOxUoniMdqKhyVJ2m) | [A Track In Orbit](https://open.spotify.com/album/6z9DSUTU2QjEX91HR0R0Te) | 2:31 |
 | 10 | [BLOODSTREAM](https://open.spotify.com/track/3ey44BzqrH2Si5FmeFZ300) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [BLOODSTREAM](https://open.spotify.com/album/3A1dpM3b53KREb9DeWsEoP) | 3:09 |
 | 11 | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/track/35k8QihhSU5Z7Rqz7FD2nv) | [Destroy Boys](https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5) | [Shadow \(I'm Breaking Down\)](https://open.spotify.com/album/0F93SGg55xfIxn8xXzbG93) | 3:38 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 124 | [Sirens](https://open.spotify.com/track/0oqY7ABQ72awkOkn7odf5X) | [joe unknown](https://open.spotify.com/artist/4worwwIR65GOR5LpY0YtcJ) | [Sirens](https://open.spotify.com/album/3V9jj4WpTyl4N4hc5o3DO4) | 2:15 |
 | 125 | [Spunky!](https://open.spotify.com/track/5grysZI4yqvJC0cpahuMsw) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Rude Awakening](https://open.spotify.com/album/1zWz2sQDloQECeaiszhPng) | 2:10 |
 
-Snapshot ID: `MCw0NmIwZDI4ZTRmOTU1YTM3NTIyMGE3NWNkNzcyYmI3NDNiMGJlMmIw`
+Snapshot ID: `MCxkNTJlM2I3MzIxMzMxMWY4ZGMzMjE4NTc1MjQ1MmIwMzRiMTRkODk2`

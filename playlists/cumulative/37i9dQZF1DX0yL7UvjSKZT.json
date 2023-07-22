@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Fresh takes on that high lonesome sound. Cover: Caitlin Canty",
+  "description": "Fresh takes on that high lonesome sound. Cover: Molly Tuttle ",
   "name": "Indie Bluegrass",
   "tracks": [
     {
@@ -493,6 +493,24 @@
     },
     {
       "album": {
+        "name": "Welcome",
+        "url": "https://open.spotify.com/album/0diSQW7E7oX750ztxS9fdy"
+      },
+      "artists": [
+        {
+          "name": "The Arcadian Wild",
+          "url": "https://open.spotify.com/artist/4tHZV2ZowPkzOvX4eG1inY"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298890,
+      "name": "Big Sky, MT",
+      "url": "https://open.spotify.com/track/4eXJ8BSMHqi3GFkeYDafKd"
+    },
+    {
+      "album": {
         "name": "Mixtape",
         "url": "https://open.spotify.com/album/7c56Fm3gKUmD0HYm2PvvRN"
       },
@@ -544,6 +562,24 @@
       "duration_ms": 213360,
       "name": "Blind in the Fray",
       "url": "https://open.spotify.com/track/6SjG7HZ8R5jnz6HOdxIFS0"
+    },
+    {
+      "album": {
+        "name": "Blue Heron Suite",
+        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268080,
+      "name": "Blue Heron",
+      "url": "https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J"
     },
     {
       "album": {
@@ -648,7 +684,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 291134,
       "name": "Bring on the Day",
       "url": "https://open.spotify.com/track/4mnQRCx8PIYJbqLVW4qanr"
@@ -818,7 +854,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 146946,
       "name": "Chandelier",
       "url": "https://open.spotify.com/track/1jis25d1HMxq9dPKcqBrpZ"
@@ -1106,7 +1142,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 237400,
       "name": "Dangling Like Keys",
       "url": "https://open.spotify.com/track/4vSXALtdV6pZDKIHZCGP9f"
@@ -1168,7 +1204,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 161640,
       "name": "Dear Brother",
       "url": "https://open.spotify.com/track/1r8raa2WlXS69OXiBsXTh9"
@@ -1406,7 +1442,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 221016,
       "name": "Ecstasy (Instrumental Edit)",
       "url": "https://open.spotify.com/track/4Eh0EzmssbxXKjPBKXd0EB"
@@ -1897,6 +1933,24 @@
     },
     {
       "album": {
+        "name": "God Fearing Heathen",
+        "url": "https://open.spotify.com/album/6sQipYOa0SqDbcvnahcYpu"
+      },
+      "artists": [
+        {
+          "name": "Dan Tyminski",
+          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262407,
+      "name": "Hey Brother",
+      "url": "https://open.spotify.com/track/0HmmGtJzwfqvpKW0ixeapq"
+    },
+    {
+      "album": {
         "name": "Hey Magnolia",
         "url": "https://open.spotify.com/album/5DNdTA8fnE85rNWpdEFtcR"
       },
@@ -2214,7 +2268,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 247689,
       "name": "I Don't Know",
       "url": "https://open.spotify.com/track/3gr9HKI4zcCZ5ZIQNvSncs"
@@ -2362,7 +2416,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 234213,
       "name": "Iron & Ore",
       "url": "https://open.spotify.com/track/47vKr9ZnQj3wSyDQE0kEOL"
@@ -2452,7 +2506,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 244476,
       "name": "Junkie",
       "url": "https://open.spotify.com/track/6xkRKNcvCyXuOianBHpm2K"
@@ -2828,7 +2882,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 121133,
       "name": "Mountains Quake",
       "url": "https://open.spotify.com/track/34Fn9n6FSOrAvbNzSK9eyf"
@@ -3148,7 +3202,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 167743,
       "name": "Old Dog",
       "url": "https://open.spotify.com/track/1lf3bfsmpZ2enVVMbHTfjX"
@@ -3437,6 +3491,24 @@
     },
     {
       "album": {
+        "name": "The Crown of Elements",
+        "url": "https://open.spotify.com/album/0iEkjMOPEvgCSgf0fb4jKQ"
+      },
+      "artists": [
+        {
+          "name": "The Riverside",
+          "url": "https://open.spotify.com/artist/3mftSIJRvH13hEBXdiV06X"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128575,
+      "name": "Prelude: An Elemental Search",
+      "url": "https://open.spotify.com/track/1wvveTJkxKP9ZpweilllGk"
+    },
+    {
+      "album": {
         "name": "Orchids and Violence",
         "url": "https://open.spotify.com/album/62zAtstVoTRA2shCQLyXCb"
       },
@@ -3698,7 +3770,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 180546,
       "name": "Scrape Me Off the Ceiling",
       "url": "https://open.spotify.com/track/1VW5CwDhtHhbGz5UBRLni4"
@@ -3716,7 +3788,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 177893,
       "name": "Self Made Man",
       "url": "https://open.spotify.com/track/1OitmKUAvRn5SS7gyvxwIi"
@@ -3948,10 +4020,28 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 217102,
       "name": "Soft and Blue",
       "url": "https://open.spotify.com/track/02rIWOS91DwIFvJQJieOFZ"
+    },
+    {
+      "album": {
+        "name": "Constellations",
+        "url": "https://open.spotify.com/album/3CHiv61vD2CDB7Od4alOta"
+      },
+      "artists": [
+        {
+          "name": "Meredith Moon",
+          "url": "https://open.spotify.com/artist/02zKoKfNVxQkU6Au4itp0f"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166434,
+      "name": "Soldiers Joy",
+      "url": "https://open.spotify.com/track/41UIoI9cGEVx7Qm3Y6Ssun"
     },
     {
       "album": {
@@ -4244,7 +4334,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 253346,
       "name": "Such Great Heights",
       "url": "https://open.spotify.com/track/79cKvTv8eVXPolBTPfx8ns"
@@ -4316,7 +4406,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 341546,
       "name": "Team Hoover",
       "url": "https://open.spotify.com/track/3k62BD8MKYUgOvu82x8glh"
@@ -4564,7 +4654,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 298043,
       "name": "The House on Wisteria",
       "url": "https://open.spotify.com/track/2T9Cki45v1Cdtim8t4IOzC"
@@ -4600,7 +4690,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 185770,
       "name": "The Last Song",
       "url": "https://open.spotify.com/track/60YBCdChTNANPCInBE7nr1"
@@ -4654,7 +4744,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 268413,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/2aku9CbppMvVCbuDe4scTB"
@@ -4838,7 +4928,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 207598,
       "name": "Throw Me in the Thicket (When I Die)",
       "url": "https://open.spotify.com/track/1L0yEDWiwrPGmtWOmBGrpn"
@@ -4986,7 +5076,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 209750,
       "name": "Tucson",
       "url": "https://open.spotify.com/track/2p9za39w0aVoLWGfVr7enK"
@@ -5294,7 +5384,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 315309,
       "name": "White Rabbit",
       "url": "https://open.spotify.com/track/2CepFmaGHm7HnCKdTxrbvT"
@@ -5496,7 +5586,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 196765,
       "name": "Won\u2019t Be Long",
       "url": "https://open.spotify.com/track/5MM0Mlqtkbzj3wMWRTYcT3"
@@ -5536,6 +5626,32 @@
       "duration_ms": 201133,
       "name": "Yarrow",
       "url": "https://open.spotify.com/track/4sGJEM8PFJTvM3AcVRs8G4"
+    },
+    {
+      "album": {
+        "name": "City of Gold",
+        "url": "https://open.spotify.com/album/3LAherx4Gg7LCOWQo25lBK"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Molly Tuttle & Golden Highway",
+          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
+        },
+        {
+          "name": "Dave Matthews",
+          "url": "https://open.spotify.com/artist/13vQloYd6mP7V1mVwKJwS2"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190275,
+      "name": "Yosemite (feat. Dave Matthews)",
+      "url": "https://open.spotify.com/track/0qyIiJfHKFvtzDHRCwE3In"
     },
     {
       "album": {

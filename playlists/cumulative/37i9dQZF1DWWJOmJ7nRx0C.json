@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hardest songs, loud. Very loud. Cover: Mammoth WVH",
+  "description": "The hardest songs, loud. Very loud. Cover: Beartooth",
   "name": "Rock Hard",
   "tracks": [
     {
@@ -962,6 +962,24 @@
       "duration_ms": 209173,
       "name": "Bad Dog",
       "url": "https://open.spotify.com/track/1owUcE0dWvXZz3766PsJLy"
+    },
+    {
+      "album": {
+        "name": "Bad Friend",
+        "url": "https://open.spotify.com/album/3cyXgBvwkhf1rIO5B23H8m"
+      },
+      "artists": [
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211363,
+      "name": "Bad Friend",
+      "url": "https://open.spotify.com/track/304JMEIUEQw4t5MKsY0Ad6"
     },
     {
       "album": {
@@ -4210,6 +4228,24 @@
       "duration_ms": 208816,
       "name": "Down the Drain",
       "url": "https://open.spotify.com/track/2xJ3rxAYeABD28ayby1w8g"
+    },
+    {
+      "album": {
+        "name": "Dream Big",
+        "url": "https://open.spotify.com/album/2weh9z7FGE4gchkThSgK8c"
+      },
+      "artists": [
+        {
+          "name": "Bob Vylan",
+          "url": "https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185060,
+      "name": "Dream Big",
+      "url": "https://open.spotify.com/track/0xvXVHHSdl0EjXFobmL6Ip"
     },
     {
       "album": {
@@ -8889,6 +8925,24 @@
     },
     {
       "album": {
+        "name": "Might Love Myself",
+        "url": "https://open.spotify.com/album/0ljuBtTppOSas8ZE46yLwa"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219973,
+      "name": "Might Love Myself",
+      "url": "https://open.spotify.com/track/16Wp9vdeUWQSESvgYFhksa"
+    },
+    {
+      "album": {
         "name": "Million Miles of Fun",
         "url": "https://open.spotify.com/album/1VhAqOMUGqdwvDor4Q2gFx"
       },
@@ -13054,7 +13108,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 198107,
       "name": "Sunshine!",
       "url": "https://open.spotify.com/track/5UZvBguQtkxJfgYrMZcRhe"
@@ -13294,6 +13348,28 @@
       "duration_ms": 137773,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/0jSfQJjEPrcVHr6f7x3D8X"
+    },
+    {
+      "album": {
+        "name": "Take Shape (feat. Billy Corgan)",
+        "url": "https://open.spotify.com/album/4cyn9XrZxlYS0joKsdf1JS"
+      },
+      "artists": [
+        {
+          "name": "Code Orange",
+          "url": "https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK"
+        },
+        {
+          "name": "Billy Corgan",
+          "url": "https://open.spotify.com/artist/12B5JK11NOP7OQ9Fxjrpx2"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204226,
+      "name": "Take Shape (feat. Billy Corgan)",
+      "url": "https://open.spotify.com/track/4GswFW5miCkwi9iqrDqEw4"
     },
     {
       "album": {
@@ -14014,6 +14090,24 @@
       "duration_ms": 220862,
       "name": "The Perfume of Decay",
       "url": "https://open.spotify.com/track/7cGKdI3BvJOKYzs9dRdvFj"
+    },
+    {
+      "album": {
+        "name": "THE PURGE",
+        "url": "https://open.spotify.com/album/3UMpuZ3u2g5NOgHzzZnwrn"
+      },
+      "artists": [
+        {
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239147,
+      "name": "THE PURGE",
+      "url": "https://open.spotify.com/track/42eexWfJFK34GC9c46fpLx"
     },
     {
       "album": {
@@ -15864,6 +15958,24 @@
       "duration_ms": 202838,
       "name": "Where You Go I Go",
       "url": "https://open.spotify.com/track/38maix7OKjT3XwFZn8D6pu"
+    },
+    {
+      "album": {
+        "name": "White Horse",
+        "url": "https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267893,
+      "name": "White Horse",
+      "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
     },
     {
       "album": {

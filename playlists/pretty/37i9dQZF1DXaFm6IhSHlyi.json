@@ -1,12 +1,12 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 140811,
+  "num_followers": 140835,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4NjkxODgyOCwwMDAwMDAwMGU4NDc4ODYxYTNlYzY5M2Y4ODY2M2IwZmUyZGIwN2I1",
+  "snapshot_id": "MCxlOGMwZDBhNDBjZjRkYzMxMDNiOTgxODZmYzhiZmIxNTBiOTRmMmY4",
   "tracks": [
     {
       "added_at": "2022-10-17 15:00:00",
@@ -215,22 +215,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "YOU",
-        "url": "https://open.spotify.com/album/63Kr9mdWxT7mB2AKgf4rCa"
-      },
-      "artists": [
-        {
-          "name": "Ali Gatie",
-          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
-        }
-      ],
-      "duration_ms": 212606,
-      "name": "It's You",
-      "url": "https://open.spotify.com/track/5DqdesEfbRyOlSS3Tf6c29"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "THE END OF EVERYTHING",
         "url": "https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 156106,
       "name": "July",
       "url": "https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "YOU",
+        "url": "https://open.spotify.com/album/63Kr9mdWxT7mB2AKgf4rCa"
+      },
+      "artists": [
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+        }
+      ],
+      "duration_ms": 212606,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/5DqdesEfbRyOlSS3Tf6c29"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Like I'm Gonna Lose You",
-        "url": "https://open.spotify.com/album/2RspE8aftXJ96d8HLWOc58"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        }
-      ],
-      "duration_ms": 232338,
-      "name": "Like I'm Gonna Lose You",
-      "url": "https://open.spotify.com/track/2pV8RpdLemcyMWko8dASVt"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Colpa Delle Favole",
         "url": "https://open.spotify.com/album/7ynNnkdYfFsjMxvfecxAWy"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 232666,
       "name": "Piccola Stella",
       "url": "https://open.spotify.com/track/6sLBJkMyZIkGevtpYgeotT"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Like I'm Gonna Lose You",
+        "url": "https://open.spotify.com/album/2RspE8aftXJ96d8HLWOc58"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "duration_ms": 232338,
+      "name": "Like I'm Gonna Lose You",
+      "url": "https://open.spotify.com/track/2pV8RpdLemcyMWko8dASVt"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Albi Ya Albi",
-        "url": "https://open.spotify.com/album/0AK5Lys4eQEXuRJvpn89Nj"
-      },
-      "artists": [
-        {
-          "name": "Nancy Ajram",
-          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
-        }
-      ],
-      "duration_ms": 206963,
-      "name": "Albi Ya Albi",
-      "url": "https://open.spotify.com/track/63qG3TrMt8RPXrIPr0qw8Q"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Breakthrough",
         "url": "https://open.spotify.com/album/0vXrZOMW00pJB52Oitkoxi"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 223546,
       "name": "Your Song (My One and Only You)",
       "url": "https://open.spotify.com/track/3vA3D2J5ciFlIjdQ0piQBk"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Albi Ya Albi",
+        "url": "https://open.spotify.com/album/0AK5Lys4eQEXuRJvpn89Nj"
+      },
+      "artists": [
+        {
+          "name": "Nancy Ajram",
+          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
+        }
+      ],
+      "duration_ms": 206963,
+      "name": "Albi Ya Albi",
+      "url": "https://open.spotify.com/track/63qG3TrMt8RPXrIPr0qw8Q"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "THE SNAKE",
-        "url": "https://open.spotify.com/album/6MUnBgFIOhLgnf7h5pmZGm"
-      },
-      "artists": [
-        {
-          "name": "Lana Lubany",
-          "url": "https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR"
-        }
-      ],
-      "duration_ms": 176953,
-      "name": "THE SNAKE",
-      "url": "https://open.spotify.com/track/4tRXJwAv2zZrcDcfjTUekQ"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Kahit Maputi Na Ang Buhok Ko",
         "url": "https://open.spotify.com/album/3J0vrYjkOCucLFNicBoXBY"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 219689,
       "name": "Kahit Maputi Na Ang Buhok Ko",
       "url": "https://open.spotify.com/track/60FXqDiSBkzdexOB3Ai3om"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "THE SNAKE",
+        "url": "https://open.spotify.com/album/6MUnBgFIOhLgnf7h5pmZGm"
+      },
+      "artists": [
+        {
+          "name": "Lana Lubany",
+          "url": "https://open.spotify.com/artist/53jnd1fhXV7lbXSfjgk1WR"
+        }
+      ],
+      "duration_ms": 176953,
+      "name": "THE SNAKE",
+      "url": "https://open.spotify.com/track/4tRXJwAv2zZrcDcfjTUekQ"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Sei L\u00e1",
-        "url": "https://open.spotify.com/album/67qnQQfaph7WX9OsW0KMQj"
-      },
-      "artists": [
-        {
-          "name": "B\u00e1rbara Tinoco",
-          "url": "https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT"
-        }
-      ],
-      "duration_ms": 202386,
-      "name": "Sei L\u00e1",
-      "url": "https://open.spotify.com/track/1Zta013L8lvFsTjmnF34B6"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "\u6cbf\u5fd7\u594f\u9022",
         "url": "https://open.spotify.com/album/4R14tXqrX3Vl7qJfouSshx"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 284360,
       "name": "\u7cf8",
       "url": "https://open.spotify.com/track/3HUpfIdFGQ02XlDp1f2F8t"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Sei L\u00e1",
+        "url": "https://open.spotify.com/album/67qnQQfaph7WX9OsW0KMQj"
+      },
+      "artists": [
+        {
+          "name": "B\u00e1rbara Tinoco",
+          "url": "https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT"
+        }
+      ],
+      "duration_ms": 202386,
+      "name": "Sei L\u00e1",
+      "url": "https://open.spotify.com/track/1Zta013L8lvFsTjmnF34B6"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "0",
-        "url": "https://open.spotify.com/album/6Oa8tjPIVfB0LgO1hwVw61"
-      },
-      "artists": [
-        {
-          "name": "Superfly",
-          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
-        }
-      ],
-      "duration_ms": 238386,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/4iRgN2h6iRkFVHareKcL14"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Benar Cinta",
         "url": "https://open.spotify.com/album/1S5z8cgI402Rf59cpT6ESv"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 239330,
       "name": "Benar Cinta",
       "url": "https://open.spotify.com/track/7nG9CHpSwPyONyB8hdlZ5k"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "0",
+        "url": "https://open.spotify.com/album/6Oa8tjPIVfB0LgO1hwVw61"
+      },
+      "artists": [
+        {
+          "name": "Superfly",
+          "url": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ"
+        }
+      ],
+      "duration_ms": 238386,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/4iRgN2h6iRkFVHareKcL14"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2123,6 +2123,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "yours, sincerely",
+        "url": "https://open.spotify.com/album/43b8UZkmMf0dVTktnr7qTO"
+      },
+      "artists": [
+        {
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+        }
+      ],
+      "duration_ms": 271191,
+      "name": "Black",
+      "url": "https://open.spotify.com/track/52KkasHx39h4QJ5yiEcw1n"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "DOCUMENTARY",
         "url": "https://open.spotify.com/album/05wCrGb6MIdMUp1j1h5BEt"
       },
@@ -2151,22 +2167,6 @@
       "duration_ms": 272288,
       "name": "Ang Kwento Ng Pag-Ibig",
       "url": "https://open.spotify.com/track/7xtHYZxdaLiH5Ia6y5CVnS"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "yours, sincerely",
-        "url": "https://open.spotify.com/album/43b8UZkmMf0dVTktnr7qTO"
-      },
-      "artists": [
-        {
-          "name": "Kim Feel",
-          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
-        }
-      ],
-      "duration_ms": 271191,
-      "name": "Black",
-      "url": "https://open.spotify.com/track/52KkasHx39h4QJ5yiEcw1n"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2259,6 +2259,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "Madhaniyan (Live) - Single",
+        "url": "https://open.spotify.com/album/4cTYoTEenq525lP6832Nq5"
+      },
+      "artists": [
+        {
+          "name": "Neha Bhasin",
+          "url": "https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z"
+        }
+      ],
+      "duration_ms": 261593,
+      "name": "Madhaniyan (Live)",
+      "url": "https://open.spotify.com/track/6pceIfQ5noY5Oe6BaskeNh"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Sushi Season (The First)",
         "url": "https://open.spotify.com/album/4x5XyMBTSWY73xYvUrmLst"
       },
@@ -2271,22 +2287,6 @@
       "duration_ms": 243504,
       "name": "Pindirai",
       "url": "https://open.spotify.com/track/5v0IwdaweNHMydzOaRhjVy"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Forever & Always",
-        "url": "https://open.spotify.com/album/7L3zuixj5Tq29IwlZZ7hgq"
-      },
-      "artists": [
-        {
-          "name": "Abe",
-          "url": "https://open.spotify.com/artist/2Bv3me5y2XnscjPGreroh4"
-        }
-      ],
-      "duration_ms": 222329,
-      "name": "Forever & Always",
-      "url": "https://open.spotify.com/track/4KquFfHpi3VsdMxr5uBfXa"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2311,18 +2311,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Madhaniyan (Live) - Single",
-        "url": "https://open.spotify.com/album/4cTYoTEenq525lP6832Nq5"
+        "name": "Forever & Always",
+        "url": "https://open.spotify.com/album/7L3zuixj5Tq29IwlZZ7hgq"
       },
       "artists": [
         {
-          "name": "Neha Bhasin",
-          "url": "https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z"
+          "name": "Abe",
+          "url": "https://open.spotify.com/artist/2Bv3me5y2XnscjPGreroh4"
         }
       ],
-      "duration_ms": 261593,
-      "name": "Madhaniyan (Live)",
-      "url": "https://open.spotify.com/track/6pceIfQ5noY5Oe6BaskeNh"
+      "duration_ms": 222329,
+      "name": "Forever & Always",
+      "url": "https://open.spotify.com/track/4KquFfHpi3VsdMxr5uBfXa"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2359,22 +2359,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "SICK",
-        "url": "https://open.spotify.com/album/7lJZL31xBXwCa4VEAscyn3"
-      },
-      "artists": [
-        {
-          "name": "Adam Hender",
-          "url": "https://open.spotify.com/artist/1SRK7jrNXfWU6cBoEXuOcB"
-        }
-      ],
-      "duration_ms": 239803,
-      "name": "Sick",
-      "url": "https://open.spotify.com/track/0L64qnkA34iMwIrvnogryR"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Ana Mesh Magroha",
         "url": "https://open.spotify.com/album/3hw0hBILtvaXlRWeygmDbI"
       },
@@ -2387,6 +2371,22 @@
       "duration_ms": 155013,
       "name": "Ana Mesh Magroha",
       "url": "https://open.spotify.com/track/4vJUFvVTdyLTeA9ANFCF1H"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "SICK",
+        "url": "https://open.spotify.com/album/7lJZL31xBXwCa4VEAscyn3"
+      },
+      "artists": [
+        {
+          "name": "Adam Hender",
+          "url": "https://open.spotify.com/artist/1SRK7jrNXfWU6cBoEXuOcB"
+        }
+      ],
+      "duration_ms": 239803,
+      "name": "Sick",
+      "url": "https://open.spotify.com/track/0L64qnkA34iMwIrvnogryR"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2491,22 +2491,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "How We Love",
-        "url": "https://open.spotify.com/album/2KGBrH9IX58DG3jubYV6xd"
-      },
-      "artists": [
-        {
-          "name": "Hana Malhas",
-          "url": "https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "How We Love",
-      "url": "https://open.spotify.com/track/41GBbgJmNrCRXOmLezn0sP"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "You Are",
         "url": "https://open.spotify.com/album/6Rk6fBhF9OygBVeQ0lue2D"
       },
@@ -2519,6 +2503,22 @@
       "duration_ms": 228541,
       "name": "You Are",
       "url": "https://open.spotify.com/track/02Mn57DbulnTiXU2B1jmZn"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "How We Love",
+        "url": "https://open.spotify.com/album/2KGBrH9IX58DG3jubYV6xd"
+      },
+      "artists": [
+        {
+          "name": "Hana Malhas",
+          "url": "https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "How We Love",
+      "url": "https://open.spotify.com/track/41GBbgJmNrCRXOmLezn0sP"
     },
     {
       "added_at": "2022-10-17 15:00:00",

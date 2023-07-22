@@ -2,9 +2,9 @@
 
 ### [Ethereal](https://open.spotify.com/playlist/37i9dQZF1DXao0JEaClQq9)
 
-> eclectic ethereal feeling\. cover: Blonde Redhead
+> what would we do without ethereal cain
 
-518 songs - 1 day 8 hr 22 min
+520 songs - 1 day 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Fall Right Out Of Love](https://open.spotify.com/track/34UvSlQb9KwCXp4VICGhFC) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Better Off Without](https://open.spotify.com/album/35qpnR66pfCMPq2Li6ggK3) | 2:45 | 2022-05-20 | 2022-06-22 |
 | [Family Ties](https://open.spotify.com/track/2dP2iym2h1qCm0Cla5Sa3N) | [Mykki Blanco](https://open.spotify.com/artist/2tSv9mEQSuNVMGr9qjYfkr), [Michael Stipe](https://open.spotify.com/artist/1BrnT6jR3FfrHHtjxBSCDf) | [Family Ties](https://open.spotify.com/album/4YGMtwgQ0CuqTNh2kBOFre) | 3:44 | 2022-03-30 | 2022-04-21 |
 | [Family Tree](https://open.spotify.com/track/5B4oL0Dn3dlaAdovV8ZUTE) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/40pYNrOZaH6Ozmex2nLniD) | 7:10 | 2022-05-20 | 2022-06-01 |
+| [Famous Last Words \(An Ode to Eaters\)](https://open.spotify.com/track/7bpfZYrS4dQKxiuj6QiRaX) | [1017 ALYX 9SM](https://open.spotify.com/artist/72Kzyue7ShXymPjcjOZwHk), [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Famous Last Words \(An Ode to Eaters\)](https://open.spotify.com/album/47mfwMreABCnlLm7EEtHsB) | 3:22 | 2023-07-21 |  |
 | [Fear](https://open.spotify.com/track/5yIK62xhc1PwxG83kObxZe) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [Non Binary Place](https://open.spotify.com/album/2ZH8IpoBY4rSq3QB6Oez9u) | 3:49 | 2021-06-03 | 2022-06-03 |
 | [Female Energy, Part 2](https://open.spotify.com/track/0W95eMaAxNVYTquOsXXkC5) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [WILLOW](https://open.spotify.com/album/4B2pV5Zds6478QOqA8yqdj) | 2:53 | 2021-06-03 | 2022-06-03 |
 | [FIGHT](https://open.spotify.com/track/5wDk6k9GPgqZ3mpn0JVzHE) | [IAN SWEET](https://open.spotify.com/artist/6mrOjLZyPub9LcecUarcMD) | [FIGHT](https://open.spotify.com/album/51bglOUVDdHtaQCSwQw9Vg) | 3:32 | 2022-07-15 | 2022-07-25 |
@@ -225,7 +226,7 @@
 | [Holy Water](https://open.spotify.com/track/0y6YKUUfgrEAUqzCSTSS0j) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Kota Banks](https://open.spotify.com/artist/6qjD8KqRe2dyNBsq1RcpaT) | [True North](https://open.spotify.com/album/5CMPddM08M99BREQ7Rc5Tl) | 3:47 | 2021-06-03 | 2022-04-20 |
 | [home with you](https://open.spotify.com/track/7BpykYGkewMF00FzSJLSgH) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [MAGDALENE](https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ) | 3:44 | 2021-06-03 | 2022-06-04 |
 | [Homecoming Song \(NNAMDÏ Remix\)](https://open.spotify.com/track/6KAOVH01YEKnlxPRELczyM) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48), [NNAMDÏ](https://open.spotify.com/artist/6gACF5PEinqx3AzMLjiH90) | [Every Bad \(Expanded Edition\)](https://open.spotify.com/album/4UhF1TkUq0ZgBxKY7iDhD2) | 2:25 | 2021-06-03 | 2022-04-13 |
-| [Hotel](https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hotel](https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF) | 3:17 | 2022-09-16 |  |
+| [Hotel](https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hotel](https://open.spotify.com/album/0ykf7jcx3yY49RpkIO1byF) | 3:17 | 2022-09-16 | 2023-07-22 |
 | [Hysterical Us](https://open.spotify.com/track/6xhBaQpuBF2jdiDuropTBy) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Hysterical Us](https://open.spotify.com/album/13A6KzgqTLdutNm7yn0OMX) | 3:55 | 2021-10-08 | 2022-07-29 |
 | [I DONT KNOW ABOUT HIM](https://open.spotify.com/track/3CQ5CKzEaC7eCOlUyU7Bdm) | [Roy Blair](https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67) | [GRAFFITI](https://open.spotify.com/album/4NrZlvs23TXuM09g7x3v7x) | 3:58 | 2021-06-03 | 2022-05-12 |
 | [I Met God Online](https://open.spotify.com/track/3shB8ksTOqgJ6fj0L09FT9) | [grandma](https://open.spotify.com/artist/2eYwIt8heUiqcnd0Tmkizk) | [I Met God Online](https://open.spotify.com/album/34Xg4eUnFTwsZZ6vIsrwxd) | 2:56 | 2022-06-03 | 2022-07-14 |
@@ -417,6 +418,7 @@
 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 | 2021-06-03 | 2022-10-22 |
 | [Softer Side](https://open.spotify.com/track/5ccvhjleGt1Q619acW9lbF) | [Art School Girlfriend](https://open.spotify.com/artist/3rtvvt1kuQ4luEWq8epaHD) | [Softer Side](https://open.spotify.com/album/1IQwYEQjPzDLi291Mjpqoc) | 4:00 | 2021-06-11 | 2022-04-22 |
 | [Somebody Else](https://open.spotify.com/track/7hWC4zYwslDtvnTCqhzW0S) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB), [Pop Goes Ambient](https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP), [Amelia Magdalena](https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu) | [Somebody Else](https://open.spotify.com/album/4OOJrpUCeIRXhahlOGjVqB) | 3:07 | 2023-01-17 | 2023-06-03 |
+| [Somebody Told Me](https://open.spotify.com/track/1NipBTZQXFIeQaqzy1Mdjj) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Somebody Told Me](https://open.spotify.com/album/3kLyeLRbV9sExn8j6Dxd5P) | 3:51 | 2023-07-21 |  |
 | [Someone to Chill With](https://open.spotify.com/track/3sAcsAVnlvrJK4R2PWliot) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Sensational](https://open.spotify.com/album/4nsap9FkZQJLSbQP8I9one) | 3:19 | 2021-06-11 | 2022-04-20 |
 | [soshy](https://open.spotify.com/track/77ThGWtKLzRLtcLUxJ8ONd) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [soshy](https://open.spotify.com/album/0It6cwMGugiHHtmLTjmoju) | 2:56 | 2021-08-13 | 2022-07-28 |
 | [Sour Switchblade](https://open.spotify.com/track/5qL1mKqNF8KhOnPuzSMfj9) | [Elita](https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv) | [Anxiety Angel](https://open.spotify.com/album/5ipcsit6PRtDh8Pdkt1wuv) | 2:28 | 2021-12-09 | 2022-06-03 |
@@ -433,7 +435,7 @@
 | [Stay](https://open.spotify.com/track/1xqkbi0rZNNcbGv8r6kK8p) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Opening The Door](https://open.spotify.com/album/7qWVvcaFH5Wlv0vxBXMOUQ) | 3:48 | 2022-09-23 | 2022-10-25 |
 | [Stay Awhile](https://open.spotify.com/track/1GoUZK5UgNAVdz6wcJ9Eml) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Susanne Sundfør](https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow) | [Stay Awhile](https://open.spotify.com/album/2q6RGFe2ZnsWwZP7mJKklm) | 6:11 | 2022-11-18 | 2022-12-13 |
 | [Stay Open](https://open.spotify.com/track/5lqvXaZtOMslV0f5ZFbBK2) | [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [Plucking a Cherry From The Void](https://open.spotify.com/album/0f8LysahQxKbtIQfp5Gi8K) | 2:23 | 2021-10-08 | 2022-05-20 |
-| [Still Don't Know My Name](https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:33 | 2021-06-03 |  |
+| [Still Don't Know My Name](https://open.spotify.com/track/6N22FZs2ZhPBYi3b9XPajV) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Euphoria \(Original Score from the HBO Series\)](https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea) | 2:33 | 2021-06-03 | 2023-07-22 |
 | [Still I Miss U](https://open.spotify.com/track/3jzT3kU7u6qSd9arh5Jm1O) | [Blue Hawaii](https://open.spotify.com/artist/41y1iPh0WqB7tyGdzyeinZ) | [Open Reduction Internal Fixation](https://open.spotify.com/album/4873bDeZl2LaFywLb9Gjes) | 3:17 | 2021-06-03 | 2022-06-03 |
 | [Stonemilker](https://open.spotify.com/track/7IVD2SNPE1lZenlsOZZCWd) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vulnicura](https://open.spotify.com/album/7FNtMOO3btvce2G5paXtsE) | 6:49 | 2021-06-03 | 2022-04-20 |
 | [STOOZY](https://open.spotify.com/track/0fJeAjnG71AMs8OJHALAuM) | [Dean Blunt](https://open.spotify.com/artist/5CFSYjc0PAiQvndFjafabk), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [STOOZY](https://open.spotify.com/album/4dC20zyMBrpS1XHD2Dq5Hr) | 2:04 | 2021-06-11 | 2022-05-12 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Carol Biazin\n",
+  "description": "Novidades e hits do pop nacional pra te deixar mais leve! Foto: Lagum",
   "name": "Pop Leve",
   "tracks": [
     {
@@ -442,7 +442,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 146231,
       "name": "Amor Compartilhado",
       "url": "https://open.spotify.com/track/0UeNJZBXMKQxD54nkPqWOt"
@@ -464,10 +464,32 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 177343,
       "name": "Amor das Minhas Vidas",
       "url": "https://open.spotify.com/track/4FWaHhlifT5uiCISf6e7ix"
+    },
+    {
+      "album": {
+        "name": "Amor das Minhas Vidas",
+        "url": "https://open.spotify.com/album/68Zi74w773Mc5YppklyzpI"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177344,
+      "name": "Amor das Minhas Vidas",
+      "url": "https://open.spotify.com/track/5JpctWfKxr9WNzGyd9xiHb"
     },
     {
       "album": {
@@ -722,7 +744,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 192746,
       "name": "Atalaia",
       "url": "https://open.spotify.com/track/3gx5LqxSuGGRdV8UvHTSZl"
@@ -1139,6 +1161,24 @@
     },
     {
       "album": {
+        "name": "Ch\u00e1 De Camomila",
+        "url": "https://open.spotify.com/album/6Ke9obk68up6tK1vyOhVkM"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191568,
+      "name": "Ch\u00e1 De Camomila",
+      "url": "https://open.spotify.com/track/1SL08ggkKbwl88V2Zg3Tsv"
+    },
+    {
+      "album": {
         "name": "Codinome Beija-Flor",
         "url": "https://open.spotify.com/album/2aoPktEuK22sa3LfIzXVBv"
       },
@@ -1158,6 +1198,24 @@
       "duration_ms": 149000,
       "name": "Codinome Beija-Flor",
       "url": "https://open.spotify.com/track/1xvxg4ozT4BraLO662IEwA"
+    },
+    {
+      "album": {
+        "name": "Depois do Fim",
+        "url": "https://open.spotify.com/album/6Gh9k6PdqxQ6l3tZxZWSH9"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139649,
+      "name": "Coisa Boa",
+      "url": "https://open.spotify.com/track/0Z5IDWR4JHuJo7FBsSoM1k"
     },
     {
       "album": {
@@ -2151,6 +2209,24 @@
     },
     {
       "album": {
+        "name": "Estrela do Mar",
+        "url": "https://open.spotify.com/album/4g0LAPd9UDGIX2zgeHQXnY"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195033,
+      "name": "Estrela do Mar",
+      "url": "https://open.spotify.com/track/0rULs7B1JjYnnaooUbZwy5"
+    },
+    {
+      "album": {
         "name": "eu",
         "url": "https://open.spotify.com/album/01BcoM5awsgHDlSow4CI6G"
       },
@@ -2780,7 +2856,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-15",
+      "date_removed": null,
       "duration_ms": 219307,
       "name": "Foge de Casa",
       "url": "https://open.spotify.com/track/2st8aw34g1c7PCAG97qou7"
@@ -3959,6 +4035,24 @@
     },
     {
       "album": {
+        "name": "My Loco",
+        "url": "https://open.spotify.com/album/6LX1Kta2wgE3f2kG4iGGeI"
+      },
+      "artists": [
+        {
+          "name": "Carol Passos",
+          "url": "https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150779,
+      "name": "My Loco",
+      "url": "https://open.spotify.com/track/3dMVGhezyjym46tSWWcPYq"
+    },
+    {
+      "album": {
         "name": "M\u00e3e",
         "url": "https://open.spotify.com/album/2LdDGy12ITEQYX7sBUlz0v"
       },
@@ -5110,7 +5204,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 194154,
       "name": "Pra Ser N\u00f3s Dois",
       "url": "https://open.spotify.com/track/3NiReFiFiszuUxrrVtmmOI"
@@ -5658,7 +5752,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 171752,
       "name": "Se S\u00easse",
       "url": "https://open.spotify.com/track/3kkCaXUNvatoBoPnXEyo9u"
@@ -6238,7 +6332,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 167687,
       "name": "Terminei",
       "url": "https://open.spotify.com/track/6ddpGpxAawAtX4mV2X85ys"

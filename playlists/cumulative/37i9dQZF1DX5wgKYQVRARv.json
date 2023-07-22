@@ -5771,6 +5771,24 @@
     },
     {
       "album": {
+        "name": "Memorial",
+        "url": "https://open.spotify.com/album/1gt8LiaUkgCJp201rXimj2"
+      },
+      "artists": [
+        {
+          "name": "Soen",
+          "url": "https://open.spotify.com/artist/38uWD5h115pdz278q4rwZW"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278186,
+      "name": "Memorial",
+      "url": "https://open.spotify.com/track/4M2fSEcYoPxaOgL5v77ZpP"
+    },
+    {
+      "album": {
         "name": "Merkabah",
         "url": "https://open.spotify.com/album/7eWQB5KDQ9Mt4uvUCyrWn6"
       },
@@ -7628,7 +7646,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 243017,
       "name": "Rest",
       "url": "https://open.spotify.com/track/4PKGtdh5xf04gf1b5OlXR2"
@@ -7856,7 +7874,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 269074,
       "name": "Sardonyx",
       "url": "https://open.spotify.com/track/3nOClyLeIIC7YxpIsbjMkk"
@@ -10965,6 +10983,24 @@
     },
     {
       "album": {
+        "name": "War Of Being",
+        "url": "https://open.spotify.com/album/32xlRHSOQrN0gaLNRmesGd"
+      },
+      "artists": [
+        {
+          "name": "TesseracT",
+          "url": "https://open.spotify.com/artist/23ytwhG1pzX6DIVWRWvW1r"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 662659,
+      "name": "War Of Being",
+      "url": "https://open.spotify.com/track/7Giyxds8jh7TVluP93eC5C"
+    },
+    {
+      "album": {
         "name": "Warriors",
         "url": "https://open.spotify.com/album/56Y1RzDhZwZof924rnCI2X"
       },
@@ -11315,6 +11351,32 @@
     },
     {
       "album": {
+        "name": "Where the Slime Live (feat. Dave Davidson & Revocation)",
+        "url": "https://open.spotify.com/album/7kPFumZfMhbi1Kpmq0irQY"
+      },
+      "artists": [
+        {
+          "name": "D\u00e5\u00e5th",
+          "url": "https://open.spotify.com/artist/1zPmAg2AfxmMPKspgUv9JN"
+        },
+        {
+          "name": "Dave Davidson",
+          "url": "https://open.spotify.com/artist/6O7PNlC4O3jy5AGizZ29vu"
+        },
+        {
+          "name": "Revocation",
+          "url": "https://open.spotify.com/artist/4I9kzJ3Ew3qPoN66UPJUl3"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326612,
+      "name": "Where the Slime Live (feat. Dave Davidson & Revocation)",
+      "url": "https://open.spotify.com/track/0kTRSk5aNTJdmQdW0ovvkc"
+    },
+    {
+      "album": {
         "name": "SYN\u00c6STHESIA",
         "url": "https://open.spotify.com/album/6DAOHWhROvKnNsNtokAWj1"
       },
@@ -11564,7 +11626,7 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 119076,
       "name": "Zoro Kokonotsu No Yaiba - From \"One Piece\"",
       "url": "https://open.spotify.com/track/32P1WGuqcMRjYwafyuWJnS"

@@ -1,12 +1,12 @@
 {
   "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Marta Santos",
-  "num_followers": 22652,
+  "num_followers": 22656,
   "original_name": "Radar Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzA2MzkxMTNkZjI2YzlmMjU5ZDA3MWEwYmQxMjZiMmMyYmYyZWEy",
+  "snapshot_id": "MCw5ZjVkNjZhMDM2YjdkOGY4OWNjNDA2MGFjMGZkZjA1NDZjNGM2MmZl",
   "tracks": [
     {
       "added_at": "2023-05-19 09:08:21",
@@ -247,6 +247,22 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
+        "name": "En Otro Lugar",
+        "url": "https://open.spotify.com/album/7yUGYSIUFrE4u335WYpXgx"
+      },
+      "artists": [
+        {
+          "name": "Queralt Lahoz",
+          "url": "https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5"
+        }
+      ],
+      "duration_ms": 178326,
+      "name": "En Otro Lugar",
+      "url": "https://open.spotify.com/track/4cbYLSExjhetFfq2WHGYhR"
+    },
+    {
+      "added_at": "2023-05-19 09:08:21",
+      "album": {
         "name": "si tiene que ser ser\u00e1.",
         "url": "https://open.spotify.com/album/7mUcTOv2KgYCkrbDmxO7H3"
       },
@@ -263,18 +279,18 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
-        "name": "En Otro Lugar",
-        "url": "https://open.spotify.com/album/7yUGYSIUFrE4u335WYpXgx"
+        "name": "\u00bfQui\u00e9n es Billie Max?",
+        "url": "https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3"
       },
       "artists": [
         {
-          "name": "Queralt Lahoz",
-          "url": "https://open.spotify.com/artist/5njCmi440o0ft013pOw9W5"
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
         }
       ],
-      "duration_ms": 178326,
-      "name": "En Otro Lugar",
-      "url": "https://open.spotify.com/track/4cbYLSExjhetFfq2WHGYhR"
+      "duration_ms": 178274,
+      "name": "Ansiedad",
+      "url": "https://open.spotify.com/track/0VjbhTzBNUNFWeIS2fy0Es"
     },
     {
       "added_at": "2023-05-19 09:08:21",
@@ -299,22 +315,6 @@
       "duration_ms": 174222,
       "name": "La Culpa",
       "url": "https://open.spotify.com/track/4lhzVEFzlYQiCbHhW4Shcv"
-    },
-    {
-      "added_at": "2023-05-19 09:08:21",
-      "album": {
-        "name": "\u00bfQui\u00e9n es Billie Max?",
-        "url": "https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3"
-      },
-      "artists": [
-        {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
-        }
-      ],
-      "duration_ms": 178274,
-      "name": "Ansiedad",
-      "url": "https://open.spotify.com/track/0VjbhTzBNUNFWeIS2fy0Es"
     },
     {
       "added_at": "2023-05-19 09:08:21",
@@ -355,6 +355,22 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
+        "name": "Quiero Q Me Tat\u00faes",
+        "url": "https://open.spotify.com/album/52Qsnxlu17DdbtiNZjAJWA"
+      },
+      "artists": [
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        }
+      ],
+      "duration_ms": 150428,
+      "name": "Quiero Q Me Tat\u00faes",
+      "url": "https://open.spotify.com/track/2kZCcJFVywOHv5VJrEWlJJ"
+    },
+    {
+      "added_at": "2023-05-19 09:08:21",
+      "album": {
         "name": "C\u00e1psula Espacial",
         "url": "https://open.spotify.com/album/3XI5m06sug9h7WlHCaPIgr"
       },
@@ -375,18 +391,22 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
-        "name": "Quiero Q Me Tat\u00faes",
-        "url": "https://open.spotify.com/album/52Qsnxlu17DdbtiNZjAJWA"
+        "name": "Desastre de persona",
+        "url": "https://open.spotify.com/album/4D7T5I3sdw74iq3TNI1pCo"
       },
       "artists": [
         {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+        },
+        {
+          "name": "Dani Mart\u00edn",
+          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
         }
       ],
-      "duration_ms": 150428,
-      "name": "Quiero Q Me Tat\u00faes",
-      "url": "https://open.spotify.com/track/2kZCcJFVywOHv5VJrEWlJJ"
+      "duration_ms": 173721,
+      "name": "Desastre de persona",
+      "url": "https://open.spotify.com/track/5yd3BRajiHuZaPgyud145b"
     },
     {
       "added_at": "2023-05-19 09:08:21",
@@ -459,26 +479,6 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
-        "name": "Desastre de persona",
-        "url": "https://open.spotify.com/album/4D7T5I3sdw74iq3TNI1pCo"
-      },
-      "artists": [
-        {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
-        },
-        {
-          "name": "Dani Mart\u00edn",
-          "url": "https://open.spotify.com/artist/3AIPhNgeF9S1Kyg9Yy3UQW"
-        }
-      ],
-      "duration_ms": 173721,
-      "name": "Desastre de persona",
-      "url": "https://open.spotify.com/track/5yd3BRajiHuZaPgyud145b"
-    },
-    {
-      "added_at": "2023-05-19 09:08:21",
-      "album": {
         "name": "NO ME PASA NADA",
         "url": "https://open.spotify.com/album/0KJSpW77D1DmoN5tBJKeyI"
       },
@@ -515,22 +515,34 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
-        "name": "Barcelona",
-        "url": "https://open.spotify.com/album/3GWHOQdtWP48tpSTIQf1I3"
+        "name": "Veo tan Dentro",
+        "url": "https://open.spotify.com/album/69MjZjIJ1dmeDF9vjXNtue"
       },
       "artists": [
         {
-          "name": "Marmi",
-          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
-        },
-        {
-          "name": "Miki N\u00fa\u00f1ez",
-          "url": "https://open.spotify.com/artist/2hahtdJusGYC77DKod4qfB"
+          "name": "Depresi\u00f3n Sonora",
+          "url": "https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO"
         }
       ],
-      "duration_ms": 179055,
-      "name": "Barcelona",
-      "url": "https://open.spotify.com/track/26TGTvAVejH3tZA3Bolunr"
+      "duration_ms": 239933,
+      "name": "Veo tan Dentro",
+      "url": "https://open.spotify.com/track/0IG1i3O84chtFIQMsKg6TD"
+    },
+    {
+      "added_at": "2023-05-19 09:08:21",
+      "album": {
+        "name": "Roma No Es Amor",
+        "url": "https://open.spotify.com/album/2a5oe58vecdwg1cnZMOrlD"
+      },
+      "artists": [
+        {
+          "name": "DePol",
+          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
+        }
+      ],
+      "duration_ms": 193243,
+      "name": "Roma No Es Amor",
+      "url": "https://open.spotify.com/track/4QqLQBX0znVE999hnKLXXm"
     },
     {
       "added_at": "2023-05-19 09:08:21",
@@ -551,6 +563,26 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
+        "name": "Barcelona",
+        "url": "https://open.spotify.com/album/3GWHOQdtWP48tpSTIQf1I3"
+      },
+      "artists": [
+        {
+          "name": "Marmi",
+          "url": "https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx"
+        },
+        {
+          "name": "Miki N\u00fa\u00f1ez",
+          "url": "https://open.spotify.com/artist/2hahtdJusGYC77DKod4qfB"
+        }
+      ],
+      "duration_ms": 179055,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/26TGTvAVejH3tZA3Bolunr"
+    },
+    {
+      "added_at": "2023-05-19 09:08:21",
+      "album": {
         "name": "por qu\u00e9 vuelvo a quererte?",
         "url": "https://open.spotify.com/album/6ljKyPIVpNWbbfi470zJFL"
       },
@@ -567,22 +599,6 @@
     {
       "added_at": "2023-05-19 09:08:21",
       "album": {
-        "name": "Veo tan Dentro",
-        "url": "https://open.spotify.com/album/69MjZjIJ1dmeDF9vjXNtue"
-      },
-      "artists": [
-        {
-          "name": "Depresi\u00f3n Sonora",
-          "url": "https://open.spotify.com/artist/2oCrGFAUJwBVFaaIM8c0AO"
-        }
-      ],
-      "duration_ms": 239933,
-      "name": "Veo tan Dentro",
-      "url": "https://open.spotify.com/track/0IG1i3O84chtFIQMsKg6TD"
-    },
-    {
-      "added_at": "2023-05-19 09:08:21",
-      "album": {
         "name": "CHINO CADA MARTES",
         "url": "https://open.spotify.com/album/5m5qT7i1FIeKBUT65FKwLJ"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 163125,
       "name": "chino cada martes",
       "url": "https://open.spotify.com/track/285mJY862RScGSXLy8WuRQ"
-    },
-    {
-      "added_at": "2023-05-19 09:08:21",
-      "album": {
-        "name": "Roma No Es Amor",
-        "url": "https://open.spotify.com/album/2a5oe58vecdwg1cnZMOrlD"
-      },
-      "artists": [
-        {
-          "name": "DePol",
-          "url": "https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0"
-        }
-      ],
-      "duration_ms": 193243,
-      "name": "Roma No Es Amor",
-      "url": "https://open.spotify.com/track/4QqLQBX0znVE999hnKLXXm"
     },
     {
       "added_at": "2023-05-19 09:08:21",

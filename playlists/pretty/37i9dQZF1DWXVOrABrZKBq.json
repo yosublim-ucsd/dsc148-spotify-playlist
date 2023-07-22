@@ -1,35 +1,15 @@
 {
-  "description": "Le rap francophone est en forme. Photo: Ninho",
-  "num_followers": 6435,
+  "description": "Le rap francophone est en forme. Photo: Loud, Ya Cetidon",
+  "num_followers": 6440,
   "original_name": "Connexion Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTNlNDI3ZGMwNzNhNTRjMWZkYzBlY2VjMTQ4YzM2YTBjYjhlZjdk",
+  "snapshot_id": "MCwwOGQzOGMwNWVjYTc4YjQyNzQ5NzM5NjE0Yzg3MGRlZGYzNzQxNGQ4",
   "tracks": [
     {
-      "added_at": "2023-07-14 15:45:02",
-      "album": {
-        "name": "NI",
-        "url": "https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad"
-      },
-      "artists": [
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 258480,
-      "name": "Blue story (feat. Lil Baby)",
-      "url": "https://open.spotify.com/track/3t6CmLKKMFxclNBzvJd51t"
-    },
-    {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "Double Feature",
         "url": "https://open.spotify.com/album/4XBegyvbWGCWkzrYrwZr41"
@@ -49,7 +29,27 @@
       "url": "https://open.spotify.com/track/3ljhLVFBJQvXERjqQpZjal"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "NI",
+        "url": "https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 187057,
+      "name": "Eurostar (feat. Central Cee)",
+      "url": "https://open.spotify.com/track/3Iy4j2lCqW8BXGkFk21U6F"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "LA RUE",
         "url": "https://open.spotify.com/album/7IaBlF8e6NvoKSiE0SXRP1"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/7EO5oDxrq2dvYDgBjFvFYY"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "Liens du 100",
         "url": "https://open.spotify.com/album/69njUAy8iu7QDMUYRYTQc2"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/0EzNyXyU7gHzj2TN8qYThj"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "H\u00c9RITAGE",
         "url": "https://open.spotify.com/album/1Vdftv3A2gkksVtZO6gM1K"
@@ -109,7 +109,7 @@
       "url": "https://open.spotify.com/track/0ruI6MkAOhq597eZzFd3Ia"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "Int\u00e9gral 2 #POV",
         "url": "https://open.spotify.com/album/1Pp29brafMioAYDYXJSM1D"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/6IPZTZjbaVxzKDTU2ZBn1w"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "Finale - Nouvelle \u00c9cole",
         "url": "https://open.spotify.com/album/0di4KeDALleQK2iV3R2YyS"
@@ -145,7 +145,7 @@
       "url": "https://open.spotify.com/track/46NCn1HZ054Wy0o6H86teM"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "LA VIE RAPIDE EARLY ACCESS",
         "url": "https://open.spotify.com/album/3HSqYFBuzJKMW5GkrDzxQq"
@@ -161,27 +161,7 @@
       "url": "https://open.spotify.com/track/4C2zaqRvJjRq09u2Rar1Tx"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
-      "album": {
-        "name": "NI",
-        "url": "https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad"
-      },
-      "artists": [
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        },
-        {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
-        }
-      ],
-      "duration_ms": 187057,
-      "name": "Eurostar (feat. Central Cee)",
-      "url": "https://open.spotify.com/track/3Iy4j2lCqW8BXGkFk21U6F"
-    },
-    {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "2069'",
         "url": "https://open.spotify.com/album/50UFRkLAkzL731ZFWym4Vq"
@@ -197,7 +177,7 @@
       "url": "https://open.spotify.com/track/66TAAKeoOD0cFpVRug9IXZ"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "Holla",
         "url": "https://open.spotify.com/album/5C9ivT1fN9yRG73t18040F"
@@ -213,7 +193,7 @@
       "url": "https://open.spotify.com/track/3xMeqBNtZ5vyjcWlnfpTb4"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "TP",
         "url": "https://open.spotify.com/album/6Mkan2lPAHIebVP04fQucL"
@@ -233,7 +213,7 @@
       "url": "https://open.spotify.com/track/71BbAEWBJIaewEK5seMkCg"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "M\u00e9rit\u00e9",
         "url": "https://open.spotify.com/album/32kQLDgEXAfljcw3wgOQxk"
@@ -253,7 +233,27 @@
       "url": "https://open.spotify.com/track/5wd8lk4IpsqJomwYuzpCCy"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "NI",
+        "url": "https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad"
+      },
+      "artists": [
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 258480,
+      "name": "Blue story (feat. Lil Baby)",
+      "url": "https://open.spotify.com/track/3t6CmLKKMFxclNBzvJd51t"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "C'est carr\u00e9 le S",
         "url": "https://open.spotify.com/album/1qDBDmqDsBfiZeWToRTu3Y"
@@ -277,7 +277,7 @@
       "url": "https://open.spotify.com/track/5v0MxVbfjFCBrEi3fQ9VHz"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "Ciao",
         "url": "https://open.spotify.com/album/5gbcnNg4JK4qaR6BYtdUwv"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/7hGyQqjhVw2LbCr2oZ4rUS"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "1942",
         "url": "https://open.spotify.com/album/2oQpRsIZLxm9UrC2AQpmAm"
@@ -313,7 +313,7 @@
       "url": "https://open.spotify.com/track/2p5gQtpYZLmhZPyYYgTWuW"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "Mercure",
         "url": "https://open.spotify.com/album/6yE3LYJwJSITg7u8uD5u1F"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/4waXynr0ZvdD98abYYFmiY"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "DIAMANT DU BLED",
         "url": "https://open.spotify.com/album/2aSV2elXWxwezH9o71QOzo"
@@ -349,7 +349,7 @@
       "url": "https://open.spotify.com/track/6IGg7qsBvA5xbrwz3MNHWK"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "EAU DE MARS",
         "url": "https://open.spotify.com/album/3bmTy2k4jf6KnWhs2djxfu"
@@ -365,7 +365,7 @@
       "url": "https://open.spotify.com/track/4OjqwWFfbrgsvJSArDXNyq"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "NO L\u00c8CHE \ud83d\udeab\ud83d\udc45 (feat. Fav\u00e9, Kerchak & Leto)",
         "url": "https://open.spotify.com/album/6HGMONyziFfUCEpMdwbzZn"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/6D1HiF2e3Z0F8FwQ5uLxwn"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "Jolie (feat. Ninho)",
         "url": "https://open.spotify.com/album/0S78h6ZbLzlZjpprrx6LO2"
@@ -413,7 +413,7 @@
       "url": "https://open.spotify.com/track/3q1FxEzXmsNmJrxaoICXzW"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "Pont Champlain",
         "url": "https://open.spotify.com/album/1fumWxp522ocJH8odkks3L"
@@ -429,7 +429,7 @@
       "url": "https://open.spotify.com/track/2Gqd3aQoirH3bwRytPhnpC"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "Jolie Go",
         "url": "https://open.spotify.com/album/52zSoFhwybohJaFzHMI9CF"
@@ -445,7 +445,7 @@
       "url": "https://open.spotify.com/track/4QiJK3bjjI3mbzyKDjjGlg"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "Sinc\u00e8rement",
         "url": "https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y"
@@ -465,7 +465,7 @@
       "url": "https://open.spotify.com/track/5eGid3rXirJcCoROMnTqg0"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "Sosa",
         "url": "https://open.spotify.com/album/0zIgRy3ocqZBUl2C6b2625"
@@ -485,7 +485,7 @@
       "url": "https://open.spotify.com/track/7rM7aSrcKeChtJA3Y6YFp4"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "Qui sait ? (feat. ElGrandeToto)",
         "url": "https://open.spotify.com/album/4Fcl7tsReWcII8mfGDW3gr"
@@ -505,7 +505,7 @@
       "url": "https://open.spotify.com/track/2ocvINkdRhdHdpgWfkCZOR"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "Harry Potter",
         "url": "https://open.spotify.com/album/6MnHYmSmPstYkUu8S6stN7"
@@ -529,7 +529,7 @@
       "url": "https://open.spotify.com/track/3eNknjtpGp0Su9Nx1VTvEE"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "Maybach",
         "url": "https://open.spotify.com/album/2tuankgH55CwSsfXPTcMRu"
@@ -549,7 +549,7 @@
       "url": "https://open.spotify.com/track/2doTFAqat5o4dbFq9qUuLT"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "Sinc\u00e8rement",
         "url": "https://open.spotify.com/album/3lyj8hU0YKXZIuYK6e0O5Y"
@@ -569,7 +569,7 @@
       "url": "https://open.spotify.com/track/4BZZTXcd5ROagKhynqj61X"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "Un seul roi",
         "url": "https://open.spotify.com/album/4iFVf4c8xU9LcI82lW127E"
@@ -585,7 +585,7 @@
       "url": "https://open.spotify.com/track/5DUEh6jFq13rek2tknux7u"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "Metaverse",
         "url": "https://open.spotify.com/album/4yb1lj6MdPuKHJuQlXs5O7"
@@ -605,7 +605,7 @@
       "url": "https://open.spotify.com/track/7rzjdyHmqwloCA16UBdDgg"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "\u00c0 L'AUBE",
         "url": "https://open.spotify.com/album/3dRIUWKwJ9lTV59OXqtUN8"
@@ -625,7 +625,7 @@
       "url": "https://open.spotify.com/track/1aOy9aPUFFE73cPPUJ2kNW"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "Le Game A Des Codes",
         "url": "https://open.spotify.com/album/5JJjKKExk3HLXFBC1mgr8D"
@@ -641,7 +641,7 @@
       "url": "https://open.spotify.com/track/60bJbhPsIsZhQqKKcFGkG1"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "Coeur De Pirate",
         "url": "https://open.spotify.com/album/6amYcdS4hW0H69JcDrK2wY"
@@ -657,7 +657,7 @@
       "url": "https://open.spotify.com/track/2q2tG7xR37PNyqrXqooemZ"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "Non conventionnel",
         "url": "https://open.spotify.com/album/6TDvloGavY7sFzhm78Al2l"
@@ -673,7 +673,7 @@
       "url": "https://open.spotify.com/track/0raGPcDIOFBzYda5NQjbbF"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "1.6",
         "url": "https://open.spotify.com/album/69fpQmOdzFUjoEuGlk3HPf"
@@ -689,7 +689,7 @@
       "url": "https://open.spotify.com/track/2TqUQbVg1bgahl09szanuE"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "zzz",
         "url": "https://open.spotify.com/album/6CiyzGH2UrOvYFhQqiyPTP"
@@ -709,7 +709,7 @@
       "url": "https://open.spotify.com/track/7dO2JbXPSd8MhXv38IKi2x"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "M\u00e9lo",
         "url": "https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU"
@@ -725,7 +725,7 @@
       "url": "https://open.spotify.com/track/4wNyrbY6B2Okii8VeKo2B2"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "Genkidama",
         "url": "https://open.spotify.com/album/3pzQi3OkoXi5xWgIcHmKfZ"
@@ -741,7 +741,7 @@
       "url": "https://open.spotify.com/track/1Jbim0t3F0TlAgBcza6tty"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "M\u00eame pas un grincement",
         "url": "https://open.spotify.com/album/3HRJy5fGgdgrCp8g6tEN8O"
@@ -757,7 +757,7 @@
       "url": "https://open.spotify.com/track/7wNHu6h06KBh20KVYmnRKa"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "C\u00e9sar",
         "url": "https://open.spotify.com/album/0n3xG3MLvkhq1Jmpuwnv28"
@@ -773,7 +773,7 @@
       "url": "https://open.spotify.com/track/1SHRlSZ78fklxAMG6bVBVW"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "Peur (feat. Ziak)",
         "url": "https://open.spotify.com/album/5eL561zvNW6ZwbuOxGMSvR"
@@ -793,7 +793,7 @@
       "url": "https://open.spotify.com/track/7IXQrRgmHxWYWitSlyFY7z"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "KMT",
         "url": "https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb"
@@ -809,7 +809,7 @@
       "url": "https://open.spotify.com/track/3D29kjUyWxsT3jUUTtARVQ"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "CC",
         "url": "https://open.spotify.com/album/2mmmfA38Smu5e5OquI0Vjc"
@@ -825,7 +825,7 @@
       "url": "https://open.spotify.com/track/2TOexWkJa99UYe6BdbxsjU"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "Hiver \u00e0 Paris",
         "url": "https://open.spotify.com/album/6dgmwFp2mMEhTmOJ32vDPA"
@@ -845,7 +845,7 @@
       "url": "https://open.spotify.com/track/6OhaunEHa10FjmOMFuxy38"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "L'\u00c9lu",
         "url": "https://open.spotify.com/album/6UiV6zQxitBwaQ6Kw72W1i"
@@ -861,7 +861,7 @@
       "url": "https://open.spotify.com/track/3TVUW7bJJWDOonkVCZxfLV"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "Monument",
         "url": "https://open.spotify.com/album/0qdoV48ifvkgiHkczUszyI"
@@ -885,7 +885,7 @@
       "url": "https://open.spotify.com/track/0HCuDi36FfephRRd37HrPd"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "\u00c0 l'abri",
         "url": "https://open.spotify.com/album/4KTaJZS0CKodPxaBT2RK53"
@@ -901,7 +901,7 @@
       "url": "https://open.spotify.com/track/1NEL5O5FotR1OyPQyvlMag"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "QUARTIERS NORD",
         "url": "https://open.spotify.com/album/4EGHU1v3qmjchplaPqRWBC"
@@ -925,7 +925,7 @@
       "url": "https://open.spotify.com/track/6OZwia8loN0aPS0vTvsBjR"
     },
     {
-      "added_at": "2023-07-14 15:45:02",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
         "name": "Double vision",
         "url": "https://open.spotify.com/album/2gSKjDu2BgrXnrcKryoz1o"

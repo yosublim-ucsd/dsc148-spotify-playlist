@@ -4,7 +4,7 @@
 
 > Newsworthy indie of 2023: Big Thief finally release Vampire Empire.
 
-1,701 songs - 4 day 6 hr 7 min
+1,703 songs - 4 day 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -461,6 +461,7 @@
 | [Falling In Love](https://open.spotify.com/track/2x2x2U3sAv6IP7O0F9zEvc) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Falling In Love](https://open.spotify.com/album/4h00nTNYLaUNRJ9wulDJ4n) | 4:05 | 2019-10-19 | 2020-03-14 |
 | [False Dichotomy](https://open.spotify.com/track/6Lg3XL27eplXv3TENt2Twa) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Formentera](https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6) | 3:39 | 2022-07-15 | 2022-08-18 |
 | [Family Line](https://open.spotify.com/track/0iNZGC211wst3VjtobNnC5) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 3:36 | 2022-07-15 | 2022-08-26 |
+| [Famous Last Words \(An Ode to Eaters\)](https://open.spotify.com/track/7bpfZYrS4dQKxiuj6QiRaX) | [1017 ALYX 9SM](https://open.spotify.com/artist/72Kzyue7ShXymPjcjOZwHk), [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Famous Last Words \(An Ode to Eaters\)](https://open.spotify.com/album/47mfwMreABCnlLm7EEtHsB) | 3:22 | 2023-07-21 |  |
 | [Far Away From Home](https://open.spotify.com/track/1S8p8ckDT2D6imAfsppGRl) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Para Mi](https://open.spotify.com/album/6e8eJS3DUWZ9SAjHE5AD5m) | 4:25 | 2019-08-09 | 2019-12-07 |
 | [Fast Car](https://open.spotify.com/track/18kMrxuEwLL0i4lHnlF5rK) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Fast Car](https://open.spotify.com/album/1sh8dsfPPlCVXVux5NgX5d) | 3:30 | 2021-07-19 | 2022-04-09 |
 | [Feel Good](https://open.spotify.com/track/37Q6kTk6hb3nqMCo6KaFln) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Feel Good](https://open.spotify.com/album/2QFN4eGrXTmC8AEWQJaSbp) | 2:04 | 2023-02-17 | 2023-05-27 |
@@ -927,7 +928,7 @@
 | [Manifest](https://open.spotify.com/track/71hY002AVvyrs4GgggPPiB) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Manifest](https://open.spotify.com/album/5TDJFyk14FecmlVp8ie7LS) | 5:17 | 2019-05-26\* | 2019-08-16 |
 | [Manta Rays](https://open.spotify.com/track/7oTi7GKtvXnwnaVFk6OkLU) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Manta Rays](https://open.spotify.com/album/1Y0Z13jxlT0EgeH2L3u4Zb) | 3:31 | 2020-07-03 | 2020-10-29 |
 | [Many Times](https://open.spotify.com/track/3PJiE71oOxVPzMYYt6MI7G) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Many Times](https://open.spotify.com/album/6TkIUGYXfH2UQe6IQq218Q) | 2:06 | 2021-09-23 | 2022-06-24 |
-| [Maps](https://open.spotify.com/track/4CKRwn0AIG5Fmbf040suEj) | [Raffaella](https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4), [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Maps](https://open.spotify.com/album/1J05fZukYUxjZwzZQcMZDi) | 3:30 | 2023-06-30 |  |
+| [Maps](https://open.spotify.com/track/4CKRwn0AIG5Fmbf040suEj) | [Raffaella](https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4), [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Maps](https://open.spotify.com/album/1J05fZukYUxjZwzZQcMZDi) | 3:30 | 2023-06-30 | 2023-07-22 |
 | [Marie](https://open.spotify.com/track/29ZJpcIs5HA8gr9AMUvniG) | [Bobbing](https://open.spotify.com/artist/0hyUSoWsUbtXhzmY2JWObX), [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [Marie](https://open.spotify.com/album/2vrnHGEnkpNGBB8RBT8CM7) | 3:01 | 2022-05-19 | 2022-07-15 |
 | [Mariella](https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 5:10 | 2022-02-25 | 2022-05-20 |
 | [Marigold](https://open.spotify.com/track/0xtRShSDM9MNsaARH6hJkF) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Marigold](https://open.spotify.com/album/6lXwCrLRKIaAW3xxKMXnze) | 4:05 | 2021-04-05 | 2022-03-11 |
@@ -1393,7 +1394,7 @@
 | [Sunlight](https://open.spotify.com/track/6XpJw6mIuTQ7tPYTvjYyVX) | [Yuno](https://open.spotify.com/artist/36BjLtXEXIifbRrfc1Rtqa) | [Sunlight](https://open.spotify.com/album/73G6WLLpF5yejKrJCYwidT) | 3:32 | 2019-05-31 | 2020-02-14 |
 | [Sunny day](https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:40 | 2022-07-20 | 2023-01-06 |
 | [Sunset](https://open.spotify.com/track/2eQ9B2SsQFU2qCnHSas3eQ) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Sunset](https://open.spotify.com/album/0JlGrm9d6P37h0TXEWxaQo) | 2:43 | 2022-11-11 | 2023-02-11 |
-| [Sunset](https://open.spotify.com/track/2v9t4NAYMv9rQbc70VyIuG) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Sunset](https://open.spotify.com/album/77Ob5Q6w1Pgcsnzwz7qs2h) | 4:45 | 2023-06-22 |  |
+| [Sunset](https://open.spotify.com/track/2v9t4NAYMv9rQbc70VyIuG) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Sunset](https://open.spotify.com/album/77Ob5Q6w1Pgcsnzwz7qs2h) | 4:45 | 2023-06-22 | 2023-07-22 |
 | [Sunshine \(feat\. Fousheé\)](https://open.spotify.com/track/0mRbKcvmbbUtfFyfeFHCJa) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Sunshine \(feat\. Fousheé\)](https://open.spotify.com/album/7gZSlFN7JLTjoBMEmApXHk) | 4:53 | 2022-07-12 | 2022-09-17 |
 | [Sunshine Baby](https://open.spotify.com/track/3vYv97XoLzoVhOhGCfs0lF) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Sunshine Baby](https://open.spotify.com/album/2ibWUZ1bIkVbwqCUV7ULtI) | 3:39 | 2023-05-19 | 2023-07-21 |
 | [Super Ego](https://open.spotify.com/track/46OscqytdMz8h0NtyntdWh) | [Babe Rainbow](https://open.spotify.com/artist/2UmG7WphL1CMN7mVWyhE7u) | [Super Ego](https://open.spotify.com/album/0bvbLTwlDDLD6N6Eh2LAtg) | 4:17 | 2023-05-11 | 2023-07-01 |
@@ -1611,6 +1612,7 @@
 | [Waste Your Time](https://open.spotify.com/track/7yw9BW04q6sVQ2VkI67rIa) | [Lennie Rayen](https://open.spotify.com/artist/38C8DlknCTvXM8D1hSCjBP) | [Waste Your Time](https://open.spotify.com/album/128amSWTlex39AOupLETx0) | 3:28 | 2022-07-29 | 2022-08-12 |
 | [Wasted](https://open.spotify.com/track/01EZT06EIdnVOLl96Parta) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Wasted](https://open.spotify.com/album/2L78qBH9kCRwbX4o6rPpWs) | 2:29 | 2020-09-04 | 2021-03-24 |
 | [Wasted Time](https://open.spotify.com/track/0rlonE9cFsQJUofKngLbzk) | [Alex Siegel](https://open.spotify.com/artist/65FPMBREZBLfEDpkHlm8sS) | [Up All Night](https://open.spotify.com/album/7dC882FIaYsSL0Xr8IWOZY) | 3:05 | 2019-10-19 | 2020-03-14 |
+| [Watching The Credits](https://open.spotify.com/track/2KbfXyUl8eusGT4pWwKroB) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Watching The Credits](https://open.spotify.com/album/3jRcvMTnKCMfIiA1TevG9s) | 3:15 | 2023-07-21 |  |
 | [Water Me Down](https://open.spotify.com/track/79ap7oTftmfgDUBUsUcYqt) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Water Me Down](https://open.spotify.com/album/4kcsdigEl9ascAJ6a2b2g9) | 4:32 | 2019-09-06 | 2020-02-28 |
 | [Waterfalls](https://open.spotify.com/track/0ncGfTV06HogJIgn2Ujjgb) | [Coast Modern](https://open.spotify.com/artist/4wYk01oPJNfaEssVFL46oQ) | [Going Mainstream](https://open.spotify.com/album/2K2u7usRIF03pywk6qxGlM) | 3:32 | 2021-08-04 | 2022-03-11 |
 | [We Are Between](https://open.spotify.com/track/38g0al4YO0WctLwI4Z8394) | [Modest Mouse](https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT) | [We Are Between](https://open.spotify.com/album/0jm29ezULLI1tMnNqhBiZU) | 3:52 | 2021-10-09 | 2021-10-09 |

@@ -4,7 +4,7 @@
 
 > Work and study to the sound of soft electronic music.
 
-289 songs - 15 hr 24 min
+290 songs - 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [Sanctuary](https://open.spotify.com/track/1FuzDLB36P5vkEB8Mycm8y) | [Ze Bastien](https://open.spotify.com/artist/5xgeMqQk800VnaiY0coBlD) | [Sanctuary](https://open.spotify.com/album/3a2AyP4rQr3JUQdKs2I4VG) | 2:42 | 2022-04-15 |  |
 | [Santa Fe](https://open.spotify.com/track/46hBN101eELE1lhjYPauSx) | [Zoo Pool](https://open.spotify.com/artist/5Ltbrtf5VWNY2K8oLZzy4I) | [Santa Fe](https://open.spotify.com/album/5cUcn68RalhwwDcOWpOBQa) | 2:57 | 2022-04-15 | 2022-05-20 |
 | [Sapphire](https://open.spotify.com/track/7cghQABsKucvYVeIqUzvNi) | [DJ Plaze](https://open.spotify.com/artist/7pv0fydirVojof7Bs78qMj) | [Sapphire](https://open.spotify.com/album/2vHfkFEiulvbOSBu3XQ9Y4) | 2:28 | 2022-04-15 | 2022-10-08 |
+| [Saturnus](https://open.spotify.com/track/6XMCaNhcF0G4bz6VH1Xc4q) | [Turquóise](https://open.spotify.com/artist/0xgBsMzCTVBwZKhshNTz1d) | [Saturnus](https://open.spotify.com/album/24AoLcCGTcrlFn0bUFHJoT) | 2:57 | 2023-07-21 |  |
 | [Screensaver Fractals](https://open.spotify.com/track/6mMHIARU9ghCV4pnLk7TGz) | [Midnight Cycler](https://open.spotify.com/artist/3SBMxed906yvEy1tA8Avaj) | [Low blood sugar? enable cookies](https://open.spotify.com/album/1ZXrj4cZXMGgdE3mGTnoFp) | 3:38 | 2022-04-15 |  |
 | [Seadrift](https://open.spotify.com/track/3L3Zugtoy4iSpky2oiOjDI) | [Joshua Kimiko](https://open.spotify.com/artist/0rseV1mtdhrtR6FEHuvOIm) | [Seadrift](https://open.spotify.com/album/6EQYRA1zDcrhK0N9faGKbe) | 2:46 | 2022-04-15 |  |
 | [Second Sun \- Monkey Safari Remix](https://open.spotify.com/track/41u3muwkaXL1o2wHMaKwkV) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Once in a Blue Moon \(Remixes\)](https://open.spotify.com/album/2eghyUE7oGVnvdlHZhcbN6) | 5:54 | 2022-04-15 | 2022-06-03 |
@@ -285,7 +286,7 @@
 | [Vacay \- Tropical Jazz Mix](https://open.spotify.com/track/1N4jRXLb40EAyJMzFQZzX2) | [Millennial Matt](https://open.spotify.com/artist/2NTRqwTkxJsD6o5WtJ3rVB) | [Vacay \- Tropical Jazz Mix](https://open.spotify.com/album/0rRUr0U1aJM8uu5RejSV9R) | 2:43 | 2022-04-15 | 2023-02-10 |
 | [Vana](https://open.spotify.com/track/1X1teXcaWQFH4iOTkCOh9a) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Vana / Ocea](https://open.spotify.com/album/1hOFPN4SzceP1DJD5LTEmU) | 4:20 | 2022-10-07 |  |
 | [Vapor](https://open.spotify.com/track/2Mt60ByiUEt1CEoMG6vdTo) | [Triomphe](https://open.spotify.com/artist/3hoXsvr32pFGEiJvju63jQ) | [Vapor](https://open.spotify.com/album/6qT52SHbsLLy9PmaLvNFOr) | 2:06 | 2022-09-02 |  |
-| [Varuna](https://open.spotify.com/track/3jxl6mTtkQwGCgzKleyYC5) | [Twelwe](https://open.spotify.com/artist/0cXv4l0iCzhQrRljsAQyQW) | [Varuna / UP2U](https://open.spotify.com/album/6Sq4QBMeCu2DrYOW6gRFqO) | 5:14 | 2022-10-07 |  |
+| [Varuna](https://open.spotify.com/track/3jxl6mTtkQwGCgzKleyYC5) | [Twelwe](https://open.spotify.com/artist/0cXv4l0iCzhQrRljsAQyQW) | [Varuna / UP2U](https://open.spotify.com/album/6Sq4QBMeCu2DrYOW6gRFqO) | 5:14 | 2022-10-07 | 2023-07-22 |
 | [velvet](https://open.spotify.com/track/4OHBaKg7bfK7WebPndG6N5) | [PANZAR](https://open.spotify.com/artist/4wlzlofouyl4SNGj8RGriA) | [velvet](https://open.spotify.com/album/1VICKEDFGvcVjGHT3WXA6W) | 2:26 | 2022-10-28 |  |
 | [Vibe Ticket](https://open.spotify.com/track/653lRpnjayYZIcxrNqdUDN) | [Naoko Omi](https://open.spotify.com/artist/2LojIVYdOV4hK4wKlASHwC) | [Vibe Ticket](https://open.spotify.com/album/4OiZscgHocT90MiWy61bGQ) | 3:13 | 2022-04-15 |  |
 | [Vienna](https://open.spotify.com/track/4Yi1GkoCzBpOLY0vJWFyI6) | [KD Simon](https://open.spotify.com/artist/5vdDoo0msksIJMUMyTwoIe) | [Vienna](https://open.spotify.com/album/0yvjAGN26SS2v1GeCiySAu) | 2:51 | 2022-06-17 |  |

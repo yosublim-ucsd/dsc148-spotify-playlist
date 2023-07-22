@@ -10879,6 +10879,24 @@
     },
     {
       "album": {
+        "name": "\u71ce\u539f",
+        "url": "https://open.spotify.com/album/6fcjL2VMAQX2KVq3MHAzjd"
+      },
+      "artists": [
+        {
+          "name": "Pyrotechnics",
+          "url": "https://open.spotify.com/artist/6pzXFIbEnIlksa2bH7TZsP"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114366,
+      "name": "\u8718\u86db",
+      "url": "https://open.spotify.com/track/3KdThk86RRZoVCVwidyS3A"
+    },
+    {
+      "album": {
         "name": "\u8857\u89d2\u62b1\u8d77",
         "url": "https://open.spotify.com/album/4lKgKxdrLqxw0ldFmpER5p"
       },

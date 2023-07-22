@@ -294,7 +294,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 165359,
       "name": "Acid",
       "url": "https://open.spotify.com/track/28sZAdHzKwdTudWaOcNp4S"
@@ -4458,7 +4458,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 95599,
       "name": "Destroyer",
       "url": "https://open.spotify.com/track/1k7iaI2iXbyJERVqq0yG6A"
@@ -9563,6 +9563,24 @@
     },
     {
       "album": {
+        "name": "Kato",
+        "url": "https://open.spotify.com/album/5u26Oeh7KvSFVkv3BaBusy"
+      },
+      "artists": [
+        {
+          "name": "The Aubreys",
+          "url": "https://open.spotify.com/artist/7ijkc3O3uxDdAmSuQUg2f2"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227994,
+      "name": "Kato",
+      "url": "https://open.spotify.com/track/0mxb6NgXIRyNNZEo050ixz"
+    },
+    {
+      "album": {
         "name": "Keep It Average",
         "url": "https://open.spotify.com/album/17HqzoG2vfT71L68dAmMLC"
       },
@@ -13688,10 +13706,28 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 151864,
       "name": "Scaredy's World",
       "url": "https://open.spotify.com/track/3XOOdbkx0q2rjUxAPziH8S"
+    },
+    {
+      "album": {
+        "name": "Screaming In The Rain Again",
+        "url": "https://open.spotify.com/album/3jpkNQcDMg94XMxtj4Lk3m"
+      },
+      "artists": [
+        {
+          "name": "Sorry",
+          "url": "https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187686,
+      "name": "Screaming In The Rain Again",
+      "url": "https://open.spotify.com/track/0jsh4swhkkj6L4MAnwGWqS"
     },
     {
       "album": {
@@ -13908,7 +13944,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 265160,
       "name": "She's on Fire",
       "url": "https://open.spotify.com/track/2BQc8Z6W3m6YWRolCzqY9z"
@@ -16592,6 +16628,24 @@
       "duration_ms": 170065,
       "name": "Tributary",
       "url": "https://open.spotify.com/track/2lTGv4RDDl4ewM9Mv7Lgcl"
+    },
+    {
+      "album": {
+        "name": "Truck",
+        "url": "https://open.spotify.com/album/4fxXwdUoB6iJ0x2Ik7eNTu"
+      },
+      "artists": [
+        {
+          "name": "illuminati hotties",
+          "url": "https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233786,
+      "name": "Truck",
+      "url": "https://open.spotify.com/track/3gpFdIoxvpOPYPbxAcq9VZ"
     },
     {
       "album": {

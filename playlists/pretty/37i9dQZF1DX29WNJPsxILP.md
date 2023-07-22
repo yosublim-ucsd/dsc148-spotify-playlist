@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 
 > Rap from the hoods of Dilli\- Yungsta, Calm, Frappe Ash & Sez on the Beat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,456 likes - 69 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,486 likes - 69 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 | 13 | [Been a While](https://open.spotify.com/track/6FN68TXRiK095cQzv9tG5c) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Time Will Tell](https://open.spotify.com/album/2KeoHVqxTVYsOz5ThUyQ6y) | 3:47 |
 | 14 | [HELLO](https://open.spotify.com/track/5HTVLbAStMB6MgfGOww6xW) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [PRAA](https://open.spotify.com/album/4OsOipytcFs0SwulwIAtis) | 2:54 |
 | 15 | [10 Pe 10](https://open.spotify.com/track/7AMHv3AWy7xy9MHya4KPMg) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [French The Kid](https://open.spotify.com/artist/4k1cMkJjG3UCRptckbpAnC) | [10 Pe 10](https://open.spotify.com/album/1x7Je1a2xgUd0EtWjvdcGu) | 3:07 |
-| 16 | [2 Woofer](https://open.spotify.com/track/6y9aJZQU0mywzO6Ev69Uls) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [Hustle 2.0](https://open.spotify.com/album/1IwG4KxgETGFj087O5sF2C) | 2:30 |
+| 16 | [2 Woofer](https://open.spotify.com/track/2U6hsKVmvXbAGHouEQDLOp) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [Mtv Hustle 2.0](https://open.spotify.com/album/2WbTyQKy64ReQPkxN4pR8R) | 2:30 |
 | 17 | [RAASHAH](https://open.spotify.com/track/7sAb2f62IJ28DvEP6x3FRw) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [HARD DRIVE Vol\. 1](https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv) | 3:40 |
 | 18 | [NCR Ke \(Original Song from "NCR Days"\)](https://open.spotify.com/track/0PHCoJBQyXpTci3lfy7i1s) | [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [Escape Sequence](https://open.spotify.com/artist/2fZRHmeAZvkd3dDhEfWt8I) | [NCR Ke \(Original Song from "NCR Days"\)](https://open.spotify.com/album/3BCkXObf5upU3nKFAgQlmz) | 2:30 |
 | 19 | [Rishte](https://open.spotify.com/track/2RKQzkqmZvqGr1G328uocF) | [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [Bhram \(Deluxe\)](https://open.spotify.com/album/79E5VDPJEVHjfwVoQw6v9d) | 4:17 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 | 68 | [Haath Toh Laga](https://open.spotify.com/track/7GwEtrvRxKbf2E9dMiGxI6) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [Rebel 7](https://open.spotify.com/artist/1yCVvGnMTuLeNzbXtgAytL) | [Haath Toh Laga](https://open.spotify.com/album/3dcAK5By2PRDtcZVJbq3Xn) | 2:27 |
 | 69 | [Saath Ya Khilaaf](https://open.spotify.com/track/3PpzBZMTrCuNx4TC6SZN69) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36) | [Saath Ya Khilaaf](https://open.spotify.com/album/5Y73P4JbAElupnQAZCStkR) | 3:34 |
 
-Snapshot ID: `MCxjMzQ3Yjg1NWU2OWZmOWY3N2E5OTk5M2EwMzU5NGI4MTAyNjA0NzJm`
+Snapshot ID: `MCwyOTM3YTdmYTg1MzdkYjdjMTBlYzcxY2Q4Y2RiZGI5ZmU5M2FkNDY5`

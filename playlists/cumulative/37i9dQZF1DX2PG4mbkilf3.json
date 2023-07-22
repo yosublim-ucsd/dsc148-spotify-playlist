@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "This is R&B in Canada, elevate your aura with Liza.",
+  "description": "This is R&B in Canada, elevate your aura with FRVRFRIDAY.",
   "name": "Mood Ring ",
   "tracks": [
     {
@@ -416,7 +416,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 195871,
       "name": "Afrobeats & Affirmations",
       "url": "https://open.spotify.com/track/56UEaQ3glFdwv2KKyw1LMg"
@@ -1826,7 +1826,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 212240,
       "name": "CLARITY",
       "url": "https://open.spotify.com/track/1CdFYivCBEuINT5Vftcrab"
@@ -2316,6 +2316,24 @@
       "duration_ms": 221520,
       "name": "Creepin' (with The Weeknd & 21 Savage)",
       "url": "https://open.spotify.com/track/64BuLY7ggczC17w5LSUlSE"
+    },
+    {
+      "album": {
+        "name": "CRUISE CONTROL",
+        "url": "https://open.spotify.com/album/7Chy3P3zV9mSRQMtACbSSA"
+      },
+      "artists": [
+        {
+          "name": "FRVRFRIDAY",
+          "url": "https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "CRUISE CONTROL",
+      "url": "https://open.spotify.com/track/6u9t5hY9AhTREcorbRIvkY"
     },
     {
       "album": {
@@ -3611,6 +3629,24 @@
     },
     {
       "album": {
+        "name": "Famous (Lost to LA)",
+        "url": "https://open.spotify.com/album/7j0IT1ckuBJcBT01axVkNA"
+      },
+      "artists": [
+        {
+          "name": "RAAHiiM",
+          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154847,
+      "name": "Famous (Lost to LA)",
+      "url": "https://open.spotify.com/track/1wE6Shwlye4gEdUaq6Cg3H"
+    },
+    {
+      "album": {
         "name": "Bad Intentions",
         "url": "https://open.spotify.com/album/14N7swOX8NoBVtZ2jSUHSV"
       },
@@ -3970,7 +4006,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 181521,
       "name": "For You (feat. DJ Velvet)",
       "url": "https://open.spotify.com/track/7Dos7f7TriEoTgcHedg9re"
@@ -5272,7 +5308,7 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 264424,
       "name": "i know you know",
       "url": "https://open.spotify.com/track/7IU4F6KiGpjwy5cEBKof8L"
@@ -5812,7 +5848,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 159896,
       "name": "Into Nirvana",
       "url": "https://open.spotify.com/track/3c5vdnAI4NMrTDwBvEOmoh"
@@ -5944,6 +5980,32 @@
       "duration_ms": 145759,
       "name": "Just Say It (feat. Johnny Yukon)",
       "url": "https://open.spotify.com/track/7MJMR1MtGCk0RFZlkeKhGI"
+    },
+    {
+      "album": {
+        "name": "K-POP",
+        "url": "https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185220,
+      "name": "K-POP",
+      "url": "https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C"
     },
     {
       "album": {
@@ -6932,7 +6994,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 144000,
       "name": "Man on Fire",
       "url": "https://open.spotify.com/track/51lVe8EdMDeH81kkoqlhD5"
@@ -6954,6 +7016,24 @@
       "duration_ms": 156314,
       "name": "Many Men - Spotify Singles",
       "url": "https://open.spotify.com/track/6WnWJWHAEG1m2z8XgvVB1R"
+    },
+    {
+      "album": {
+        "name": "ME FUI",
+        "url": "https://open.spotify.com/album/3aUNKC0oS3gDtPY1HCqKK6"
+      },
+      "artists": [
+        {
+          "name": "BEBEBOY",
+          "url": "https://open.spotify.com/artist/3hBijYmf6uAE6PKfL9CNLk"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "ME FUI",
+      "url": "https://open.spotify.com/track/6jpMFoQi1CS00qI6ntXfUN"
     },
     {
       "album": {
@@ -7336,6 +7416,24 @@
       "duration_ms": 179165,
       "name": "MORE",
       "url": "https://open.spotify.com/track/47kXceQYFos7TpbwhHHGgj"
+    },
+    {
+      "album": {
+        "name": "More Than Anything",
+        "url": "https://open.spotify.com/album/45QF4GlX92MJyo1I53mqRI"
+      },
+      "artists": [
+        {
+          "name": "JAHKOY",
+          "url": "https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140474,
+      "name": "More Than Anything",
+      "url": "https://open.spotify.com/track/0i5YwyUVsFOsCdiGBryhqj"
     },
     {
       "album": {
@@ -8004,7 +8102,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 207428,
       "name": "Nothing Left (Lonely Song)",
       "url": "https://open.spotify.com/track/3Fs8IAImTJ1Igtr8YDTeUO"
@@ -8048,6 +8146,24 @@
       "duration_ms": 161227,
       "name": "Notice",
       "url": "https://open.spotify.com/track/1d8NaDZjTmhrK37QPoEhQ8"
+    },
+    {
+      "album": {
+        "name": "Notice It",
+        "url": "https://open.spotify.com/album/0CwyOwZPnaxCfZv7jEW3di"
+      },
+      "artists": [
+        {
+          "name": "Mighloe",
+          "url": "https://open.spotify.com/artist/44obblyrd8EsnfeDkJpiov"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196875,
+      "name": "Notice It",
+      "url": "https://open.spotify.com/track/1dYKS6bOekZjU3d1TLwyIr"
     },
     {
       "album": {
@@ -8994,7 +9110,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 190129,
       "name": "Pink Skies",
       "url": "https://open.spotify.com/track/5xrz5t1gDx4Fft0tDAo8Fs"
@@ -9761,6 +9877,24 @@
     },
     {
       "album": {
+        "name": "Rounds",
+        "url": "https://open.spotify.com/album/5xn4T5fEYlezz3foZQ7NZT"
+      },
+      "artists": [
+        {
+          "name": "RIZ",
+          "url": "https://open.spotify.com/artist/0jqnXN5T2fcibfVJOY1G3N"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148720,
+      "name": "Rounds",
+      "url": "https://open.spotify.com/track/0MpBG76Vk6k9zUvEi2lAzf"
+    },
+    {
+      "album": {
         "name": "Ruin My Life",
         "url": "https://open.spotify.com/album/4erW3RALpFIM5TmPvJhtJg"
       },
@@ -10012,7 +10146,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 222699,
       "name": "Self Talk",
       "url": "https://open.spotify.com/track/1QgRR1orkGMixuhjS1XV8D"
@@ -11386,7 +11520,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 145533,
       "name": "Switch",
       "url": "https://open.spotify.com/track/06ufeE6tsMQLxKO8CDPa86"
@@ -11681,6 +11815,24 @@
     },
     {
       "album": {
+        "name": "Test What I Know",
+        "url": "https://open.spotify.com/album/7cvxZYlw5goVjvfwea3mb3"
+      },
+      "artists": [
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154075,
+      "name": "Test What I Know",
+      "url": "https://open.spotify.com/track/1x6bosUmFK9cwrEV6O6mtt"
+    },
+    {
+      "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
       },
@@ -11826,6 +11978,24 @@
       "duration_ms": 124763,
       "name": "The Hearse",
       "url": "https://open.spotify.com/track/19RXOH7xG0Po5NaWkNo9AX"
+    },
+    {
+      "album": {
+        "name": "The Middle",
+        "url": "https://open.spotify.com/album/6FCFmsL6xefeBO73Dyiwc1"
+      },
+      "artists": [
+        {
+          "name": "Amaal Nuux",
+          "url": "https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171506,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/1hpwh231orYstXAUAEPwp6"
     },
     {
       "album": {
@@ -12390,7 +12560,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 130468,
       "name": "Unavailable",
       "url": "https://open.spotify.com/track/209DAoMEbdSb871SThWd7S"
@@ -12882,6 +13052,28 @@
       "duration_ms": 194754,
       "name": "what u need",
       "url": "https://open.spotify.com/track/7mXNYo4eXnKNBx2yicz5MD"
+    },
+    {
+      "album": {
+        "name": "What You Done",
+        "url": "https://open.spotify.com/album/1Ov1O2B3CeuAmHhFG5f0yL"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        },
+        {
+          "name": "Keys N Krates",
+          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174048,
+      "name": "What You Done",
+      "url": "https://open.spotify.com/track/5IouffaYEX67BICjTSCckE"
     },
     {
       "album": {

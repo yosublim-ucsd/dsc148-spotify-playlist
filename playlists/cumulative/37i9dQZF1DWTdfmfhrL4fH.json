@@ -178,7 +178,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 284293,
       "name": "A Reason to Fight",
       "url": "https://open.spotify.com/track/1IbaGRC0Yrovu3MP1ipf1u"
@@ -5624,7 +5624,7 @@
       ],
       "date_added": "2023-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 195312,
       "name": "Missed Connection",
       "url": "https://open.spotify.com/track/4R9KztunyNTH13KtAqePLp"
@@ -7390,7 +7390,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 210360,
       "name": "Scumbag (feat. blink-182)",
       "url": "https://open.spotify.com/track/75nfWESNoYX9X7c82l9Rtk"
@@ -8010,7 +8010,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-28",
+      "date_removed": null,
       "duration_ms": 222560,
       "name": "Stick Up",
       "url": "https://open.spotify.com/track/5ZSKZ0wMdlMi4bQ3XZXXsp"
@@ -8280,7 +8280,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 253813,
       "name": "The Animal",
       "url": "https://open.spotify.com/track/1HD8mFfpSGLJnwv6UTLaIv"
@@ -8464,6 +8464,24 @@
       "duration_ms": 198040,
       "name": "The Ghost Inside",
       "url": "https://open.spotify.com/track/32fmQsWSAaDas2MJRyMSGG"
+    },
+    {
+      "album": {
+        "name": "Kintsugi",
+        "url": "https://open.spotify.com/album/6BK3muExDOuk0VnyMn9NVw"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "date_added": "2023-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243253,
+      "name": "The Ghosts of Beverly Drive",
+      "url": "https://open.spotify.com/track/6wNCdMW82LwJgFrnGqLhpJ"
     },
     {
       "album": {

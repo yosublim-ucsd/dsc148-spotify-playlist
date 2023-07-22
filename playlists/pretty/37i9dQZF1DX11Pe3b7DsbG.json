@@ -1,12 +1,12 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 228775,
+  "num_followers": 228799,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OGE3MGRlYTU4NTYwMjgxOTYyM2VmOWY2ODliYWNkMzg1MDJlMDQ5",
+  "snapshot_id": "MCwxZTJlMzkzYzM4ZjIwNGRmNjU2YzFmODM0NDllM2MxOTg5ODRjNDgy",
   "tracks": [
     {
       "added_at": "2023-01-25 16:05:09",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-01-25 16:05:09",
       "album": {
-        "name": "Sambista Perfeito",
-        "url": "https://open.spotify.com/album/3HuBoelQqiwD47mpONUHQw"
-      },
-      "artists": [
-        {
-          "name": "Arlindo Cruz",
-          "url": "https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP"
-        }
-      ],
-      "duration_ms": 226813,
-      "name": "Sambista Perfeito",
-      "url": "https://open.spotify.com/track/1HInYWLAypJkiyUbmaJE4E"
-    },
-    {
-      "added_at": "2023-01-25 16:05:09",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 194291,
       "name": "Faz uma loucura por mim - Recorded At Mosh Studios, S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/7jYmFjZ8l40WFNVf9mhX9P"
+    },
+    {
+      "added_at": "2023-01-25 16:05:09",
+      "album": {
+        "name": "Sambista Perfeito",
+        "url": "https://open.spotify.com/album/3HuBoelQqiwD47mpONUHQw"
+      },
+      "artists": [
+        {
+          "name": "Arlindo Cruz",
+          "url": "https://open.spotify.com/artist/096an3uS6ZaK2XySae6SqP"
+        }
+      ],
+      "duration_ms": 226813,
+      "name": "Sambista Perfeito",
+      "url": "https://open.spotify.com/track/1HInYWLAypJkiyUbmaJE4E"
     },
     {
       "added_at": "2023-01-25 16:05:09",

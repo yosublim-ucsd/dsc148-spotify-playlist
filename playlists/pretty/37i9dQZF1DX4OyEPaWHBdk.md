@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OyEPaWHBdk.md) - [plain]
 
 > Check out the winners from this year's 2022 MAMA AWARDS!
 
-[Spotify](https://open.spotify.com/user/spotify) - 441,768 likes - 26 songs - 1 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 441,689 likes - 26 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OyEPaWHBdk.md) - [plain]
 | 25 | [Freak](https://open.spotify.com/track/53NYRM8s4mm4yeCsmsvTik) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Grown Ass Kid](https://open.spotify.com/album/5gHJyHBTHBZlgFsODXj7HZ) | 2:49 |
 | 26 | [하하하쏭 25th](https://open.spotify.com/track/1OOTvc4Ak2K6rPTxMUzXWh) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [HAPPY 25th JAURIM](https://open.spotify.com/album/1G21piptHaoYHxK5DFppDk) | 3:16 |
 
-Snapshot ID: `MCwwNmIxM2U1N2I1OTk4NjY0MmYwMTc1NWZlYmVjM2I0YWYzYzllNTg1`
+Snapshot ID: `MCwyNGNkYzFiOTRmMjcwMDgyMTQ0YzNiODFiZTg3YjA3MGEzOGNmYTZj`

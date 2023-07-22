@@ -1,13 +1,29 @@
 {
   "description": "Instrumental guitar shreddery. Cover: Angel Vivaldi",
-  "num_followers": 125419,
+  "num_followers": 125501,
   "original_name": "String Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODIyMTYyMDg3NjY2M2EzNzI2Mjk1OTgyN2I0N2Q2YTU3MzczNTUw",
+  "snapshot_id": "MCw2Nzc5YjNmNjBkYzQwNWM4ZjVkNzQzYzYyZTk2NzhjMGI5MzkxODNm",
   "tracks": [
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "The Journey",
+        "url": "https://open.spotify.com/album/6QJNcXUow95qKDvfg1byG2"
+      },
+      "artists": [
+        {
+          "name": "Matteo Mancuso",
+          "url": "https://open.spotify.com/artist/4EEBpppjtPFQYlmXoZu8z1"
+        }
+      ],
+      "duration_ms": 273275,
+      "name": "Silkroad",
+      "url": "https://open.spotify.com/track/6EZ4V32DQZ7V7hRUwBVb7u"
+    },
     {
       "added_at": "2023-04-07 04:01:00",
       "album": {

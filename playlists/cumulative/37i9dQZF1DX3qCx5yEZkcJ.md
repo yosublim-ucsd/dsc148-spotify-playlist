@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-483 songs - 19 hr 44 min
+485 songs - 19 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,12 +163,14 @@
 | [From Home, to Work, and Back..](https://open.spotify.com/track/2cXHGk1xgwKBghFTBTYQJ5) | [Tall Black Guy](https://open.spotify.com/artist/2bz6GlqjAN5fTFWvy0rmSP) | [8 Miles to Moenart](https://open.spotify.com/album/7wSig6uCYzfqpQxQaoRSJ9) | 2:53 | 2019-05-26\* | 2020-01-14 |
 | [Fuzz](https://open.spotify.com/track/3iroK6SSKb3lJpCQKYP1gk) | [Miscél](https://open.spotify.com/artist/5P8zM1rnE2owF1M5HzAuM5) | [Threads](https://open.spotify.com/album/6cfAPNV2nrtu1AgluepgZg) | 1:32 | 2020-07-18 | 2020-11-06 |
 | [Gamecube Loading Screen](https://open.spotify.com/track/5L4omYhzNpc9zK4Y2fkwRI) | [Mark Generous](https://open.spotify.com/artist/679N9KYUiZMRnJYts1xDx7) | [Parallel Parking Only](https://open.spotify.com/album/4fENwwyQyMa3u1WBrrTawP) | 1:36 | 2020-07-18 | 2020-11-06 |
-| [gentle rain](https://open.spotify.com/track/1MAaAEofHxLP11dtelYU32) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [gentle rain](https://open.spotify.com/album/77Z3NG9a0HbZC20gxpcsVN) | 1:30 | 2023-07-20 |  |
+| [gentle rain](https://open.spotify.com/track/1MAaAEofHxLP11dtelYU32) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [gentle rain](https://open.spotify.com/album/77Z3NG9a0HbZC20gxpcsVN) | 1:30 | 2023-07-20 | 2023-07-22 |
+| [gentle rain](https://open.spotify.com/track/2vSvpzvFtKEiccfochwqpJ) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [gentle rain](https://open.spotify.com/album/2T253HKQbiMM7cOmnfA4rP) | 1:30 | 2023-07-20 |  |
 | [Get Money](https://open.spotify.com/track/6bUoSwNg588G0sHREx3rvi) | [Madlib](https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf) | [Bad Neighbor Instrumentals](https://open.spotify.com/album/0J6gXmCwNSppontVzNkZaV) | 3:34 | 2019-05-26\* | 2020-01-14 |
 | [Ghettos Worldwide](https://open.spotify.com/track/1RmlB5FlFYWQkP8BrveswR) | [digitalluc](https://open.spotify.com/artist/4WT5TNNUvgRLjAiWce3K5z) | [waitwait](https://open.spotify.com/album/1yWsCKu5GgKx8RcddQZmgc) | 2:53 | 2019-05-26\* | 2021-05-26 |
 | [Ghosts](https://open.spotify.com/track/4V2KZnlTHXwNdLxzf1GUUB) | [Mayaewk](https://open.spotify.com/artist/20oT5LKCdO5vqCSgZ83OsQ) | [O Sanpo](https://open.spotify.com/album/4MU6vNQqcr9c8lLM5gokw9) | 1:41 | 2019-05-26\* | 2022-04-11 |
 | [Ghosty](https://open.spotify.com/track/7BhYy9Zvo0wZjN3jlL3PLT) | [Mono:Massive](https://open.spotify.com/artist/2M3T0t1HvVr5Lz3MtdygpS), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Ghosty](https://open.spotify.com/album/34ZxWu0C6svTvfsy5IdPOu) | 3:30 | 2019-05-26\* | 2021-10-16 |
-| [Gift of love](https://open.spotify.com/track/4i25JUltbSuKmj7DP4FqJS) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Gift of love](https://open.spotify.com/album/20TJY3OAmGRi5ziV1zRIBe) | 2:06 | 2023-07-20 |  |
+| [Gift of love](https://open.spotify.com/track/1mBi6RQWWUnpMU4oEjrkz1) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Gift of love](https://open.spotify.com/album/3TcEA5pdG37127uJSjQZOD) | 2:06 | 2023-07-20 |  |
+| [Gift of love](https://open.spotify.com/track/4i25JUltbSuKmj7DP4FqJS) | [MIDICRONICA 181](https://open.spotify.com/artist/3AlVoNtbPZPiNdpI1h8LlY) | [Gift of love](https://open.spotify.com/album/20TJY3OAmGRi5ziV1zRIBe) | 2:06 | 2023-07-20 | 2023-07-22 |
 | [ginza](https://open.spotify.com/track/5vm51ZokW3p5Mc0WG015QD) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [ginza](https://open.spotify.com/album/5H7eKaI7Dj0Hv7U9X00yWt) | 2:36 | 2022-07-28 |  |
 | [ginza](https://open.spotify.com/track/7napq1DUIYBfFbOxbtRKUu) | [Sachiho](https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa) | [ginza](https://open.spotify.com/album/6HIANT2xXqqWtThAX1fXdu) | 2:36 | 2022-06-30 | 2022-07-29 |
 | [glow](https://open.spotify.com/track/4wreXhAAcTh0WdYecOuuFj) | [re:plus](https://open.spotify.com/artist/6ftHlqrtNdAq0bWL7zkaTG) | [glow](https://open.spotify.com/album/01am4qkInFPSjZfREM4qxH) | 4:09 | 2022-04-28 | 2023-04-28 |

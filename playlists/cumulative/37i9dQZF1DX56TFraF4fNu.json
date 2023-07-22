@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-03",
-  "description": "Dosis musical para disfrutar el momento. Foto: DEKKO",
+  "description": "Dosis musical para disfrutar el momento. Foto: Yoss Bones, Nanpa B\u00e1sico",
   "name": "Parchadito",
   "tracks": [
     {
@@ -16,10 +16,28 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 159200,
       "name": "12x3",
       "url": "https://open.spotify.com/track/0HINQFSerZ6iMfSsaTO3G5"
+    },
+    {
+      "album": {
+        "name": "12x3",
+        "url": "https://open.spotify.com/album/147xADbDjtokOLVyNfg6Pp"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159200,
+      "name": "12x3",
+      "url": "https://open.spotify.com/track/5LHY5MPg9gXJwXrClz9aOx"
     },
     {
       "album": {
@@ -402,6 +420,24 @@
     {
       "album": {
         "name": "Carita Linda",
+        "url": "https://open.spotify.com/album/74MzjPeqHE1Hl1rfjbsess"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199026,
+      "name": "Carita Linda",
+      "url": "https://open.spotify.com/track/3nEpf7LfISOfV1lxtAD6ks"
+    },
+    {
+      "album": {
+        "name": "Carita Linda",
         "url": "https://open.spotify.com/album/1jUiXH21xkPzuRFI6Cghxu"
       },
       "artists": [
@@ -412,7 +448,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 199026,
       "name": "Carita Linda",
       "url": "https://open.spotify.com/track/4xWJF4R96jAOpKJ1epgb1V"
@@ -759,6 +795,24 @@
     },
     {
       "album": {
+        "name": "Satus",
+        "url": "https://open.spotify.com/album/1lOibSxSky80FXEzR5Z2Gn"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149379,
+      "name": "Imagin\u00e1ndote",
+      "url": "https://open.spotify.com/track/6zxkr2tSIZMIKHaALNvoCr"
+    },
+    {
+      "album": {
         "name": "Imperfecta",
         "url": "https://open.spotify.com/album/4xyRdegcTn0amrbpLu0RKI"
       },
@@ -770,10 +824,28 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 170626,
       "name": "Imperfecta",
       "url": "https://open.spotify.com/track/0Adu8nN8JHssRlPXDh1Ry6"
+    },
+    {
+      "album": {
+        "name": "Imperfecta",
+        "url": "https://open.spotify.com/album/5uhq0mIldZ9TGX0FlA6xvW"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170626,
+      "name": "Imperfecta",
+      "url": "https://open.spotify.com/track/2rWqH55CYXQwaIWvK8hql5"
     },
     {
       "album": {
@@ -1250,10 +1322,32 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 150186,
       "name": "No Pienses Que Me Fui",
       "url": "https://open.spotify.com/track/7u4hKefShl1DZuCrigTXiM"
+    },
+    {
+      "album": {
+        "name": "No Puedo Olvidarte",
+        "url": "https://open.spotify.com/album/7rmWaMyKeqUYxJuyCDfzzR"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225923,
+      "name": "No Puedo Olvidarte",
+      "url": "https://open.spotify.com/track/1aShkzvbm20sYlMuwQBJ0R"
     },
     {
       "album": {
@@ -1276,6 +1370,24 @@
       "duration_ms": 276623,
       "name": "No Te Vayas",
       "url": "https://open.spotify.com/track/4BjwreWm0U4DdwqYk6hJH2"
+    },
+    {
+      "album": {
+        "name": "NOSPOR",
+        "url": "https://open.spotify.com/album/1N0JU10NYU5sG4QD5lTjeV"
+      },
+      "artists": [
+        {
+          "name": "Dawer X Damper",
+          "url": "https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138948,
+      "name": "NOSPOR",
+      "url": "https://open.spotify.com/track/4yqrIQZxkR5ayIYDVE2alF"
     },
     {
       "album": {
@@ -1406,7 +1518,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 231068,
       "name": "Pa' Que Mami No Llore",
       "url": "https://open.spotify.com/track/3l4ir792nfcHySkiAbKd3U"
@@ -1660,7 +1772,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 197000,
       "name": "Te Perd\u00ed",
       "url": "https://open.spotify.com/track/3ODWjPcN2heqjInFGpH2KU"
@@ -1733,6 +1845,24 @@
     },
     {
       "album": {
+        "name": "Un Rodeoooo",
+        "url": "https://open.spotify.com/album/0moZUivW5b3JvniIYYiaEi"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136082,
+      "name": "Un Rodeoooo",
+      "url": "https://open.spotify.com/track/5ak67nfN54lbm0ophfLj2t"
+    },
+    {
+      "album": {
         "name": "Victoria",
         "url": "https://open.spotify.com/album/3FKA9NEOo3FYqykdnTqp58"
       },
@@ -1800,7 +1930,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 188688,
       "name": "Zaza (Chimbita)",
       "url": "https://open.spotify.com/track/5oVdxjNUUjf9Q06LnPYYay"

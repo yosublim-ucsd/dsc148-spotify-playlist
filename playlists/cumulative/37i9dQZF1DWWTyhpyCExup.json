@@ -885,6 +885,24 @@
     },
     {
       "album": {
+        "name": "Humor",
+        "url": "https://open.spotify.com/album/2bcAwgtbyhdjmUSxsxHAoR"
+      },
+      "artists": [
+        {
+          "name": "tofusmell",
+          "url": "https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143537,
+      "name": "Keith",
+      "url": "https://open.spotify.com/track/17UWPwxNqVNlT1PZ3iTKj3"
+    },
+    {
+      "album": {
         "name": "Keith",
         "url": "https://open.spotify.com/album/418UNeVZ41wZKjylFg4c1a"
       },
@@ -896,7 +914,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 143537,
       "name": "Keith",
       "url": "https://open.spotify.com/track/6wzVKMYMKthQ3OPzQ050kj"
@@ -1376,6 +1394,24 @@
     {
       "album": {
         "name": "Revival",
+        "url": "https://open.spotify.com/album/2x4ifyC7If5s6G5Ob1RELM"
+      },
+      "artists": [
+        {
+          "name": "Rissi Palmer",
+          "url": "https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ"
+        }
+      ],
+      "date_added": "2023-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188916,
+      "name": "Seeds",
+      "url": "https://open.spotify.com/track/73XBEp50YbVH8WdCq597an"
+    },
+    {
+      "album": {
+        "name": "Revival",
         "url": "https://open.spotify.com/album/3ZeYPc2wcoSjM43wc9gdRO"
       },
       "artists": [
@@ -1386,7 +1422,7 @@
       ],
       "date_added": "2021-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 188944,
       "name": "Seeds",
       "url": "https://open.spotify.com/track/1NijLAZEVZAvJGHE1RO9if"

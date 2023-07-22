@@ -1,12 +1,12 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 352131,
+  "num_followers": 352243,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNWFkZTEzYmM5NzIwZjY0YTMxZWYyMTQzMGQyNDkwOTUzNDYyMzU1",
+  "snapshot_id": "MCw2YTkxOTYzNDBkMDQxODZmODUzN2NmNDU2MDUzY2NjYTQyOWY4MzBl",
   "tracks": [
     {
       "added_at": "2023-07-13 12:12:01",
@@ -203,6 +203,22 @@
     {
       "added_at": "2023-07-13 12:12:01",
       "album": {
+        "name": "\u30c9\u30e9\u30a4\u30d6\u304c\u697d\u3057\u304f\u306a\u308b\u6d0b\u697d\u30d2\u30c3\u30c4\uff0180\u5e74\u4ee3 METAL",
+        "url": "https://open.spotify.com/album/5gt8yJbDX5qt1Fdtfn0NbS"
+      },
+      "artists": [
+        {
+          "name": "Eazy-E",
+          "url": "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
+        }
+      ],
+      "duration_ms": 338320,
+      "name": "Boyz-N-The-Hood",
+      "url": "https://open.spotify.com/track/6rwUlhBm0kdavivjZ2b3sT"
+    },
+    {
+      "added_at": "2023-07-13 12:12:01",
+      "album": {
         "name": "Planet Rock",
         "url": "https://open.spotify.com/album/1t1veMmAYjKi3kN4bkysUn"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 319960,
       "name": "Planet Rock",
       "url": "https://open.spotify.com/track/4FupIlegZgvXUuK79qcoKW"
-    },
-    {
-      "added_at": "2023-07-13 12:12:01",
-      "album": {
-        "name": "\u30c9\u30e9\u30a4\u30d6\u304c\u697d\u3057\u304f\u306a\u308b\u6d0b\u697d\u30d2\u30c3\u30c4\uff0180\u5e74\u4ee3 METAL",
-        "url": "https://open.spotify.com/album/5gt8yJbDX5qt1Fdtfn0NbS"
-      },
-      "artists": [
-        {
-          "name": "Eazy-E",
-          "url": "https://open.spotify.com/artist/7B4hKK0S9QYnaoqa9OuwgX"
-        }
-      ],
-      "duration_ms": 338320,
-      "name": "Boyz-N-The-Hood",
-      "url": "https://open.spotify.com/track/6rwUlhBm0kdavivjZ2b3sT"
     },
     {
       "added_at": "2023-07-13 12:12:01",

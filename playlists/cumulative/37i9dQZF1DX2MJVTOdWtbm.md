@@ -4,7 +4,7 @@
 
 > The home of Latin R&B\. La casa del R&B Latino\. Cover: Junior Zamora
 
-318 songs - 16 hr 47 min
+319 songs - 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [I.W.Y.](https://open.spotify.com/track/2qePnoTLNzI1aJHLdLBvQM) | [Carlos Unger](https://open.spotify.com/artist/6HjZFRvUOPRuaPNzUxtqWf) | [I.W.Y.](https://open.spotify.com/album/0W3AKS1vhthN13diu18bTH) | 2:53 | 2023-01-20 | 2023-05-13 |
 | [IDGAD](https://open.spotify.com/track/2FF5m9pWgpneewxKLgZ2FY) | [Meekasia](https://open.spotify.com/artist/1uzFAZNYuGEeCjciRFPWkE) | [IDGAD](https://open.spotify.com/album/45bUiQcITvNn9eYgqzM5CE) | 2:46 | 2022-02-11 | 2022-07-28 |
 | [IDWLH \(I Don't Wanna Love Him\)](https://open.spotify.com/track/4n3tQbaHw7Zb7gvszXxOXX) | [Agina](https://open.spotify.com/artist/110VVB3iCHBH7R8C9iEEhD) | [IDWLH \(I Don't Wanna Love Him\)](https://open.spotify.com/album/5mfgYGWt86iLrLye6pJRSr) | 2:53 | 2022-02-11 | 2022-09-07 |
+| [Imaginándote](https://open.spotify.com/track/6zxkr2tSIZMIKHaALNvoCr) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Satus](https://open.spotify.com/album/1lOibSxSky80FXEzR5Z2Gn) | 2:29 | 2023-07-21 |  |
 | [interested](https://open.spotify.com/track/1Ubu0Ux7X3QpsMUYIt3HFT) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [interested](https://open.spotify.com/album/5KNHwv9svU4LlNBNBinxda) | 3:13 | 2022-02-11 | 2022-03-05 |
 | [Invierno](https://open.spotify.com/track/2tuEMMVAIRWjOTCTHgI7d8) | [Orestes Gomez](https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy), [Fer Casillas](https://open.spotify.com/artist/1zl3p4VBfqqHGikw3Ad46R), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Invierno](https://open.spotify.com/album/36akjquegYLPv8C90n0Hqu) | 3:45 | 2023-05-12 |  |
 | [Joligud](https://open.spotify.com/track/0Y35Rs7m7s0Ttwn5oi0s14) | [YOSHI](https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Joligud](https://open.spotify.com/album/5tohi7LtQi206ZtOm7Zr15) | 3:34 | 2023-05-12 |  |
@@ -159,7 +160,7 @@
 | [Ketamina](https://open.spotify.com/track/10o75EKGhYVNpJ4Zt766Dv) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Ketamina](https://open.spotify.com/album/3hLqUbXDXsVp4lERpmYgD8) | 2:51 | 2022-02-11 |  |
 | [La Corriente](https://open.spotify.com/track/5hHIU3jEsTAWR08g7mOdwM) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [Alaíde](https://open.spotify.com/artist/2htg8Ya9Fbuy2zGKeL5q9i) | [La Corriente](https://open.spotify.com/album/1FVv5DkYsVlPXrxRbT777f) | 2:46 | 2022-09-06 | 2023-05-13 |
 | [La Ducha Remix \(con Becky G, Tini\)](https://open.spotify.com/track/0044ljTRPPQdAkCUXK6s7A) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La Ducha Remix \(con Becky G, Tini\)](https://open.spotify.com/album/0YsMUawHhH0VNOpVLi85UI) | 4:34 | 2022-12-06 |  |
-| [La Ideal](https://open.spotify.com/track/0dMjY4xWaO8TnDDJNT4YBi) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF) | [La Ideal](https://open.spotify.com/album/1vpLbc8biisCe1T3LrE2TB) | 3:33 | 2023-03-08 |  |
+| [La Ideal](https://open.spotify.com/track/0dMjY4xWaO8TnDDJNT4YBi) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF) | [La Ideal](https://open.spotify.com/album/1vpLbc8biisCe1T3LrE2TB) | 3:33 | 2023-03-08 | 2023-07-22 |
 | [La Musa](https://open.spotify.com/track/3wjoYxOdPcUTxidHB8kMV5) | [Loui Santana](https://open.spotify.com/artist/6QoAK6MFPyiqmoTdFTsjlh) | [La Musa](https://open.spotify.com/album/7vIGenY8slhoLgLp5BbVYA) | 1:41 | 2023-03-10 | 2023-06-10 |
 | [La Original](https://open.spotify.com/track/5pzT9YfGIFoujWVv57opdC) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [La Original](https://open.spotify.com/album/33knxFQHp2Ak1W5hTdDbmr) | 2:54 | 2022-09-06 | 2023-03-04 |
 | [la que calla](https://open.spotify.com/track/5KHkcJbmQXRmWj7JaXzXHj) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [entrevayus](https://open.spotify.com/album/2paDCQa4nQzrhdM1GEkoE9) | 3:30 | 2022-03-11 | 2022-12-07 |

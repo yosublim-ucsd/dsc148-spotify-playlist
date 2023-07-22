@@ -4,7 +4,7 @@
 
 > Celebrating the extraordinary women breaking boundaries and keeping tradition alive\. Cover: Rhonda Vincent
 
-94 songs - 5 hr 20 min
+96 songs - 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [I’ll Trade You Money for Wine](https://open.spotify.com/track/6hsinmvODBmxLaIeY6t69u) | [Laura Orshaw](https://open.spotify.com/artist/0AGDlPc4c5TUpNltDn99es) | [Solitary Diamond](https://open.spotify.com/album/6D8vEKCtmObKJZaCF86uBu) | 4:11 | 2023-04-14 |  |
 | [Julie Ann Johnson](https://open.spotify.com/track/6aY2O9hJq3ty10tBZNqCUs) | [Cathy Fink](https://open.spotify.com/artist/6C0lsIh3QzXKHdFxFy3DAw) | [Banjo Haiku](https://open.spotify.com/album/3YsYZKwQeR1BpFjNL9OFZ2) | 1:50 | 2023-04-14 |  |
 | [Kentucky Borderline](https://open.spotify.com/track/3p1T3tocORKMJOulIOh4zc) | [Rhonda Vincent](https://open.spotify.com/artist/6tLMZjo5mp3G1FmrARUaVT) | [One Step Ahead](https://open.spotify.com/album/6ycDawGWCxbT5dk860MWOE) | 3:32 | 2023-04-14 |  |
+| [Laramie](https://open.spotify.com/track/1BEm7Caa96l4PIlnpoJ6wo) | [Becky Schlegel](https://open.spotify.com/artist/21KhWiFWcK4WOJqRHMmN2a), [The High 48s](https://open.spotify.com/artist/2J7WvdhzleWvO1XRa5xBZK) | [Laramie](https://open.spotify.com/album/6JmyaIBchQFT7CeGRRlVbh) | 3:55 | 2023-07-21 |  |
 | [Little Sadie](https://open.spotify.com/track/2SiQKjD5mANk0qkNTx2BmO) | [Crooked Still](https://open.spotify.com/artist/7LOJ56d8VmOebynlV01KfU) | [Shaken By A Low Sound](https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp) | 2:35 | 2023-04-14 |  |
 | [Little Satchel](https://open.spotify.com/track/2NAtu56kCVNhTzu8Cz0NVN) | [Nora Brown](https://open.spotify.com/artist/7h7pPNSsoz0NnyDmIqY7OT) | [Little Satchel](https://open.spotify.com/album/3PLL0AGHcVDPgK03UR1H0T) | 3:17 | 2023-04-14 |  |
 | [Little sparrow](https://open.spotify.com/track/6vGfL4ZcRL2U6RaGuZ5fJd) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [A day for the hunter, a day for the prey](https://open.spotify.com/album/4J4u8xcpz1WTAJRcgenpBa) | 3:16 | 2023-04-14 |  |
@@ -90,6 +91,7 @@
 | [Transatlantic](https://open.spotify.com/track/18pyoFqtp4BeZat5hPELtz) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Kris Drever](https://open.spotify.com/artist/14T0l4AeAGbmAZjpQNdcqk) | [Transatlantic](https://open.spotify.com/album/1rNAkXvgVbxe7J3zNYQTNS) | 4:32 | 2023-04-14 | 2023-04-30 |
 | [Transatlantic](https://open.spotify.com/track/5epyQzvH7910hgRpCabGtp) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Kris Drever](https://open.spotify.com/artist/14T0l4AeAGbmAZjpQNdcqk) | [The Apathy Sessions](https://open.spotify.com/album/17KrnzA7mW2Gff5QGxi1rP) | 4:32 | 2023-04-14 |  |
 | [Travelin' Heart](https://open.spotify.com/track/4rhqyg8ndPc61QEVMYlAsW) | [Jackson Hollow](https://open.spotify.com/artist/2WCHpMBjtoxlCWKb8gedHW) | [Travelin' Heart](https://open.spotify.com/album/13kCJ0Apc7FKfceZ7zIsq8) | 3:23 | 2023-04-14 |  |
+| [Tsali's Run](https://open.spotify.com/track/4AzSHrAiwUDnEo0hJ9qZpm) | [Carley Arrowood](https://open.spotify.com/artist/0GvSG6mHtIo8KGegsVEvjK) | [Tsali's Run](https://open.spotify.com/album/2R0bW66PP9Ez06X4F3DPfP) | 3:58 | 2023-07-21 |  |
 | [Wayfaring Stranger \(with Francesco Turrisi\)](https://open.spotify.com/track/2njguLBr2BLfsRdHtg3WmT) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Francesco Turrisi](https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC) | [there is no Other \(with Francesco Turrisi\) \[Deluxe Version\]](https://open.spotify.com/album/6KI61E4x5f95xVkhly783t) | 4:47 | 2023-04-14 |  |
 | [We've Got Our Friends](https://open.spotify.com/track/2MZvn7wIeyt7ZUhThqJn5d) | [Maura Shawn Scanlin](https://open.spotify.com/artist/5iAjBykjzLrKshAue6nvwx) | [We've Got Our Friends](https://open.spotify.com/album/4x8luEIeoka9gyRFFVIo4y) | 4:10 | 2023-04-14 |  |
 | [Weevils in the Grits](https://open.spotify.com/track/5npvIsHPd35M5JioSnVJHs) | [Sami Braman](https://open.spotify.com/artist/3ESdsDgxcy5caRV6Ufcwre), [Brittany Haas](https://open.spotify.com/artist/35HI5ILDlg2vduaII47ItP) | [Weevils in the Grits](https://open.spotify.com/album/40Yxmocscw8TzoyID1h45C) | 3:41 | 2023-04-14 |  |

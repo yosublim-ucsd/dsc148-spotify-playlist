@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTljNTFjYzMzNGNlMjM1NWMwYWQ4ZDM3NWE4MDZmY2IwYjc5NzBl",
+  "snapshot_id": "MCwzZTdhMjg0NzY4YzBjNTM4NTVhMTVkZDNkZDcwZDk1MjRiNmFhM2Jh",
   "tracks": [
     {
       "added_at": "2023-07-07 16:56:50",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-07-07 16:56:50",
       "album": {
-        "name": "Amanecer",
-        "url": "https://open.spotify.com/album/5XX0iRSDLzElMVY2EcDThW"
-      },
-      "artists": [
-        {
-          "name": "Los Americanos",
-          "url": "https://open.spotify.com/artist/4Q0wQsRzWYhbAXIKQN6LSw"
-        }
-      ],
-      "duration_ms": 245187,
-      "name": "Amanecer",
-      "url": "https://open.spotify.com/track/5TQwSAq0BAU9DWpKmHmI9F"
-    },
-    {
-      "added_at": "2023-07-07 16:56:50",
-      "album": {
         "name": "Perla Rosa",
         "url": "https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 218657,
       "name": "Te hab\u00eda contao",
       "url": "https://open.spotify.com/track/00pEWo382r8gERWquqG1wS"
+    },
+    {
+      "added_at": "2023-07-07 16:56:50",
+      "album": {
+        "name": "Amanecer",
+        "url": "https://open.spotify.com/album/5XX0iRSDLzElMVY2EcDThW"
+      },
+      "artists": [
+        {
+          "name": "Los Americanos",
+          "url": "https://open.spotify.com/artist/4Q0wQsRzWYhbAXIKQN6LSw"
+        }
+      ],
+      "duration_ms": 245187,
+      "name": "Amanecer",
+      "url": "https://open.spotify.com/track/5TQwSAq0BAU9DWpKmHmI9F"
     },
     {
       "added_at": "2023-07-07 16:56:50",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-07-07 16:56:50",
       "album": {
-        "name": "Al Amor",
-        "url": "https://open.spotify.com/album/1vefYbawyvYoFEzvw8kVUB"
-      },
-      "artists": [
-        {
-          "name": "Nicoletta Spinelli",
-          "url": "https://open.spotify.com/artist/69hYMQ2gjsvpxbOwUNzwLj"
-        }
-      ],
-      "duration_ms": 208177,
-      "name": "Dime",
-      "url": "https://open.spotify.com/track/4nVXw2k8sRREEK4w4akSXd"
-    },
-    {
-      "added_at": "2023-07-07 16:56:50",
-      "album": {
         "name": "Perla Rosa",
         "url": "https://open.spotify.com/album/4DonK7uIiQdNGQBMYf1JKf"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 186748,
       "name": "Que no me encuentre",
       "url": "https://open.spotify.com/track/6K5woMnQZkC4TuMbkH3Lzc"
+    },
+    {
+      "added_at": "2023-07-07 16:56:50",
+      "album": {
+        "name": "Al Amor",
+        "url": "https://open.spotify.com/album/1vefYbawyvYoFEzvw8kVUB"
+      },
+      "artists": [
+        {
+          "name": "Nicoletta Spinelli",
+          "url": "https://open.spotify.com/artist/69hYMQ2gjsvpxbOwUNzwLj"
+        }
+      ],
+      "duration_ms": 208177,
+      "name": "Dime",
+      "url": "https://open.spotify.com/track/4nVXw2k8sRREEK4w4akSXd"
     },
     {
       "added_at": "2023-07-07 16:56:50",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-07-07 16:56:50",
       "album": {
-        "name": "mejor me voy",
-        "url": "https://open.spotify.com/album/2sFJkOdy6a4nA68qu3cGld"
-      },
-      "artists": [
-        {
-          "name": "EV\u00cdC",
-          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "mejor me voy",
-      "url": "https://open.spotify.com/track/7A57VR1nMMqRXP0BDw8JUG"
-    },
-    {
-      "added_at": "2023-07-07 16:56:50",
-      "album": {
         "name": "D\u00e9jame de Matar",
         "url": "https://open.spotify.com/album/7q70Mz0YbW2oxJZVqSUEXK"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 190169,
       "name": "D\u00e9jame de Matar",
       "url": "https://open.spotify.com/track/2fAGXnJeAgNXRzdHbEArIS"
+    },
+    {
+      "added_at": "2023-07-07 16:56:50",
+      "album": {
+        "name": "mejor me voy",
+        "url": "https://open.spotify.com/album/2sFJkOdy6a4nA68qu3cGld"
+      },
+      "artists": [
+        {
+          "name": "EV\u00cdC",
+          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "mejor me voy",
+      "url": "https://open.spotify.com/track/7A57VR1nMMqRXP0BDw8JUG"
     },
     {
       "added_at": "2023-07-07 16:56:50",

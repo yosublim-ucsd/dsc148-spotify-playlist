@@ -1,12 +1,12 @@
 {
   "description": "Rock songs that get down and dirty. Cover: Dirty Honey",
-  "num_followers": 473209,
+  "num_followers": 473393,
   "original_name": "Dirty Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MmU4ZThjYWZjZjMyNjdmMjg4MTkyN2JhZDI1YzYxMzc4NzI1OTcw",
+  "snapshot_id": "MCw4ZTYzN2E5NjdmNTc2OTQyZjY5NmNiYzI2NjU3OTI2ZWNiZTNiNmQ5",
   "tracks": [
     {
       "added_at": "2023-07-07 04:01:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Asking For A Ride",
-        "url": "https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK"
-      },
-      "artists": [
-        {
-          "name": "White Reaper",
-          "url": "https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF"
-        }
-      ],
-      "duration_ms": 154098,
-      "name": "Pages",
-      "url": "https://open.spotify.com/track/2B9sTgrTUR2Cg9o8e1GT9w"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Martyr Parade",
         "url": "https://open.spotify.com/album/7jDkW8ksFaqsKYxa8TaOUc"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 165566,
       "name": "Outta My Mind",
       "url": "https://open.spotify.com/track/7BVo8X0ckrgdSwOwvKEcjh"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Asking For A Ride",
+        "url": "https://open.spotify.com/album/4EkYXTP0vpp1dmPadvfAlK"
+      },
+      "artists": [
+        {
+          "name": "White Reaper",
+          "url": "https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF"
+        }
+      ],
+      "duration_ms": 154098,
+      "name": "Pages",
+      "url": "https://open.spotify.com/track/2B9sTgrTUR2Cg9o8e1GT9w"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -839,6 +839,38 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
+        "name": "This is Our Life",
+        "url": "https://open.spotify.com/album/3ACNAqePBWNG0zC20gRUNs"
+      },
+      "artists": [
+        {
+          "name": "Des Rocs",
+          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
+        }
+      ],
+      "duration_ms": 224306,
+      "name": "This is Our Life",
+      "url": "https://open.spotify.com/track/5PUTXDqo5aGHoGbAhYm5ZT"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Apple Pie",
+        "url": "https://open.spotify.com/album/56ILDsDKcf17LunTaJFUR2"
+      },
+      "artists": [
+        {
+          "name": "Rafferty",
+          "url": "https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ"
+        }
+      ],
+      "duration_ms": 179447,
+      "name": "Apple Pie",
+      "url": "https://open.spotify.com/track/7x7WyzZjrXd1oruLCcTnhw"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
         "name": "Double Life",
         "url": "https://open.spotify.com/album/29PpL7dLCaCEaftO0FfJy7"
       },
@@ -871,22 +903,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Apple Pie",
-        "url": "https://open.spotify.com/album/56ILDsDKcf17LunTaJFUR2"
-      },
-      "artists": [
-        {
-          "name": "Rafferty",
-          "url": "https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ"
-        }
-      ],
-      "duration_ms": 179447,
-      "name": "Apple Pie",
-      "url": "https://open.spotify.com/track/7x7WyzZjrXd1oruLCcTnhw"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Every Hour Is A Dollar Gone",
         "url": "https://open.spotify.com/album/7wFVw2lcWdzLIlNESYUNFX"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 348706,
       "name": "Them Shoes",
       "url": "https://open.spotify.com/track/1oADNvkLEOm7hvyxffDRjn"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
-        "name": "This is Our Life",
-        "url": "https://open.spotify.com/album/3ACNAqePBWNG0zC20gRUNs"
-      },
-      "artists": [
-        {
-          "name": "Des Rocs",
-          "url": "https://open.spotify.com/artist/2kO6mP0olFJGGh6kvUdNC8"
-        }
-      ],
-      "duration_ms": 224306,
-      "name": "This is Our Life",
-      "url": "https://open.spotify.com/track/5PUTXDqo5aGHoGbAhYm5ZT"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
+        "name": "Save Me Some Sunshine",
+        "url": "https://open.spotify.com/album/5sxnrUJmZJ1768ZP15Oy3Q"
+      },
+      "artists": [
+        {
+          "name": "Rafferty",
+          "url": "https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ"
+        }
+      ],
+      "duration_ms": 217143,
+      "name": "Save Me Some Sunshine",
+      "url": "https://open.spotify.com/track/68vTrjlrczwHWioLZ5p0Rt"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
         "name": "ROCKISDEAD",
         "url": "https://open.spotify.com/album/5AYoffF42E0cgDuuNgzYir"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 162880,
       "name": "Sugar",
       "url": "https://open.spotify.com/track/3Tuz3Ec6n03nPTAa5knMm8"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
-        "name": "Save Me Some Sunshine",
-        "url": "https://open.spotify.com/album/5sxnrUJmZJ1768ZP15Oy3Q"
-      },
-      "artists": [
-        {
-          "name": "Rafferty",
-          "url": "https://open.spotify.com/artist/37Kwz8lKQipujhPpz9Q5cQ"
-        }
-      ],
-      "duration_ms": 217143,
-      "name": "Save Me Some Sunshine",
-      "url": "https://open.spotify.com/track/68vTrjlrczwHWioLZ5p0Rt"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "(self-titled)",
-        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
-      },
-      "artists": [
-        {
-          "name": "Marcus Mumford",
-          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
-        }
-      ],
-      "duration_ms": 253599,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "S.I.D.E.S.",
         "url": "https://open.spotify.com/album/5rkOKaMUZNSpFAxLHMSp9s"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 186933,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/1uxPC9Sqn1bMLhUaTqFjye"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "(self-titled)",
+        "url": "https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE"
+      },
+      "artists": [
+        {
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+        }
+      ],
+      "duration_ms": 253599,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/4i4gcJSMofr3Pe9YWThzRp"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Man Of The Moment",
-        "url": "https://open.spotify.com/album/5ldOPfh3jfvF1rqkTlMPay"
-      },
-      "artists": [
-        {
-          "name": "Goodbye June",
-          "url": "https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M"
-        }
-      ],
-      "duration_ms": 192933,
-      "name": "Man Of The Moment",
-      "url": "https://open.spotify.com/track/3qRiuJRs7u3Aj2AXkzbmD4"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Young Blood",
         "url": "https://open.spotify.com/album/5F4mBNKs4joGL2cGasbvi7"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 176373,
       "name": "It's Too Late",
       "url": "https://open.spotify.com/track/53Gb8Nw4rYNcyQrdGe3ACO"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Man Of The Moment",
+        "url": "https://open.spotify.com/album/5ldOPfh3jfvF1rqkTlMPay"
+      },
+      "artists": [
+        {
+          "name": "Goodbye June",
+          "url": "https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M"
+        }
+      ],
+      "duration_ms": 192933,
+      "name": "Man Of The Moment",
+      "url": "https://open.spotify.com/track/3qRiuJRs7u3Aj2AXkzbmD4"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Hannah Wicklund & The Steppin Stones",
-        "url": "https://open.spotify.com/album/2GWRuo0azCjGlupKL5wY74"
-      },
-      "artists": [
-        {
-          "name": "Hannah Wicklund",
-          "url": "https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU"
-        }
-      ],
-      "duration_ms": 164645,
-      "name": "Bomb Through the Breeze",
-      "url": "https://open.spotify.com/track/2lYTIEA8KJQWysrhXDogcD"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Girl Sports",
         "url": "https://open.spotify.com/album/4GhmoNO1PAmFUoAoPoKUz2"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 194588,
       "name": "Girl Sports",
       "url": "https://open.spotify.com/track/6PmMCUt0JI6vrlVOFI6qM9"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Hannah Wicklund & The Steppin Stones",
+        "url": "https://open.spotify.com/album/2GWRuo0azCjGlupKL5wY74"
+      },
+      "artists": [
+        {
+          "name": "Hannah Wicklund",
+          "url": "https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU"
+        }
+      ],
+      "duration_ms": 164645,
+      "name": "Bomb Through the Breeze",
+      "url": "https://open.spotify.com/track/2lYTIEA8KJQWysrhXDogcD"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Who You Selling For",
-        "url": "https://open.spotify.com/album/6q2xelSrpNPLJ4KkKgDkRA"
-      },
-      "artists": [
-        {
-          "name": "The Pretty Reckless",
-          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
-        }
-      ],
-      "duration_ms": 180226,
-      "name": "Prisoner",
-      "url": "https://open.spotify.com/track/24W4uqcDvJCer0Eodsu12Z"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Are You Real?",
         "url": "https://open.spotify.com/album/4rkueE4vDufCTC5OKoREtR"
       },
@@ -1559,18 +1543,18 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Heartache Melody",
-        "url": "https://open.spotify.com/album/4tlRcnslK5s2I3Krc6DY2g"
+        "name": "Who You Selling For",
+        "url": "https://open.spotify.com/album/6q2xelSrpNPLJ4KkKgDkRA"
       },
       "artists": [
         {
-          "name": "Electric Enemy",
-          "url": "https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v"
+          "name": "The Pretty Reckless",
+          "url": "https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq"
         }
       ],
-      "duration_ms": 172140,
-      "name": "Heartache Melody",
-      "url": "https://open.spotify.com/track/38vs4sreYIEWp6niXlaKDA"
+      "duration_ms": 180226,
+      "name": "Prisoner",
+      "url": "https://open.spotify.com/track/24W4uqcDvJCer0Eodsu12Z"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1591,6 +1575,22 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
+        "name": "Heartache Melody",
+        "url": "https://open.spotify.com/album/4tlRcnslK5s2I3Krc6DY2g"
+      },
+      "artists": [
+        {
+          "name": "Electric Enemy",
+          "url": "https://open.spotify.com/artist/2N1mByBMykfROrhwRVQV3v"
+        }
+      ],
+      "duration_ms": 172140,
+      "name": "Heartache Melody",
+      "url": "https://open.spotify.com/track/38vs4sreYIEWp6niXlaKDA"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
         "name": "Love Is All You Love",
         "url": "https://open.spotify.com/album/1sdwEPqBv44CrAXxLAfK9O"
       },
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Kentucky (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/70l38e3JDxBKLO2Jo0LgEp"
-      },
-      "artists": [
-        {
-          "name": "Black Stone Cherry",
-          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
-        }
-      ],
-      "duration_ms": 241000,
-      "name": "Soul Machine",
-      "url": "https://open.spotify.com/track/6VhKqO2krkpQ9TEJSpZlbG"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Homewrecker",
         "url": "https://open.spotify.com/album/11g4QUzXzGxh7dOPxxy4CF"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 165481,
       "name": "Haunted Heart",
       "url": "https://open.spotify.com/track/1g9gUDaH8idPgZcLZAa7Qx"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Kentucky (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/70l38e3JDxBKLO2Jo0LgEp"
+      },
+      "artists": [
+        {
+          "name": "Black Stone Cherry",
+          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
+        }
+      ],
+      "duration_ms": 241000,
+      "name": "Soul Machine",
+      "url": "https://open.spotify.com/track/6VhKqO2krkpQ9TEJSpZlbG"
     }
   ],
   "unique_name": "Dirty Rock",

@@ -4,7 +4,7 @@
 
 > Soulful Hindi songs for your nostalgic journey\. Cover \- Kabhi Kabhie
 
-155 songs - 11 hr 48 min
+156 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Gaadi Bula Rahi Hai](https://open.spotify.com/track/0TVwLOtr85EyZ9fxty9h8u) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Dost \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7tCoPq77zF0b1s9lQLhXfs) | 6:28 | 2023-05-02 |  |
 | [Gaadi Bula Rahi Hai](https://open.spotify.com/track/5hikDyf8SBJ00s80Bk7KTQ) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [Laxmikant–Pyarelal](https://open.spotify.com/artist/3yS84AjNFqhmuJlIXy7sax) | [Dost](https://open.spotify.com/album/6I9X8ZM9d4V27qh80k57QQ) | 6:28 | 2021-09-29 | 2022-06-27 |
 | [Haal Kaisa Hai Janab Ka](https://open.spotify.com/track/1cgdSRscVORILnQul7Z1vx) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Chalti Ka Naam Gaadi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11ZHFRLEhkwJ19bWoEFrbp) | 4:24 | 2021-09-29 | 2022-05-28 |
-| [Hai Apna Dil To Aawara \(Happy\)](https://open.spotify.com/track/69NmjpybOgJ4oL2twAOA5g) | [Hemant Kumar](https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj) | [Solva Saal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1qU2yJm9GthheAp38v0W8x) | 4:21 | 2022-01-05 |  |
+| [Hai Apna Dil To Aawara](https://open.spotify.com/track/6Hmz8gkJRyRSqhDdEmXDva) | [Hemant Kumar](https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj) | [Baarishein, Chai Aur Hemant Kumar](https://open.spotify.com/album/0Z4dnIU8RAr8hDEb8IKhko) | 4:21 | 2023-07-21 |  |
+| [Hai Apna Dil To Aawara \(Happy\)](https://open.spotify.com/track/69NmjpybOgJ4oL2twAOA5g) | [Hemant Kumar](https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj) | [Solva Saal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1qU2yJm9GthheAp38v0W8x) | 4:21 | 2022-01-05 | 2023-07-22 |
 | [Hai Apna Dil To Aawara \(Happy\)](https://open.spotify.com/track/7MJDY2TyHOyMqXII7bWOzu) | [Hemant Kumar](https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj) | [LP Classics \- Original LP Recordings, Vol\. 2](https://open.spotify.com/album/6KJIQMrWAe3PjXQRvNavD3) | 4:29 | 2022-01-05 | 2022-11-14 |
 | [Hai Apna Dil To Aawara \- Happy](https://open.spotify.com/track/0p7EstNUg5VYyD8jxs1Na7) | [Hemant Kumar](https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj), [S\. D\. Burman](https://open.spotify.com/artist/4vMKEXQ4cU5hb2BL4omVrT) | [Solva Saal](https://open.spotify.com/album/1EVQ9JYSRELdpeTPrERR8y) | 4:21 | 2021-09-29 | 2022-07-29 |
 | [Ham Hain Rahi Pyar Ke](https://open.spotify.com/track/21KLl43JhFp0UPZSssfm3E) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Nau Do Gyarah \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qZ48c89Wg1VN9TVHwHapf) | 4:51 | 2022-01-05 |  |

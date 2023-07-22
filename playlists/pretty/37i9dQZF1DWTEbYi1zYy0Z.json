@@ -1,12 +1,12 @@
 {
   "description": "So fresh, so smooth. Cover: Jonathan Butler",
-  "num_followers": 51600,
+  "num_followers": 51654,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MmU3N2JiM2U4Mzk2ZGEwNGYxNmMxNzE1ZTdlZjNmYzMxMzIyODY0",
+  "snapshot_id": "MCw4NWFmMzI4YjI2ZWZhY2EwZWNkNWQ2OTNmMDk1ZGUyZmIzNTZhNGI2",
   "tracks": [
     {
       "added_at": "2023-07-07 04:01:00",
@@ -25,6 +25,22 @@
       "url": "https://open.spotify.com/track/02lpgkBHgom6jlrs39rGDY"
     },
     {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Magic City Streets",
+        "url": "https://open.spotify.com/album/1zlO5c2oerKojvsCvk6mxm"
+      },
+      "artists": [
+        {
+          "name": "Kim Scott",
+          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
+        }
+      ],
+      "duration_ms": 220422,
+      "name": "Magic City Streets",
+      "url": "https://open.spotify.com/track/6WG2FanAGtFE6rsB3IvCAV"
+    },
+    {
       "added_at": "2023-07-07 04:01:00",
       "album": {
         "name": "Love Nwantiti",
@@ -39,6 +55,22 @@
       "duration_ms": 151305,
       "name": "Love Nwantiti",
       "url": "https://open.spotify.com/track/06lydkzsIHhHmDZCgZKCDJ"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Solag",
+        "url": "https://open.spotify.com/album/27L1aYTKh0rNNnOTt9fp9t"
+      },
+      "artists": [
+        {
+          "name": "Mattari",
+          "url": "https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC"
+        }
+      ],
+      "duration_ms": 179494,
+      "name": "Solag",
+      "url": "https://open.spotify.com/track/6NR43oOqDquzfkAVdldWJ7"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -95,6 +127,22 @@
       "duration_ms": 256057,
       "name": "Nice and Easy (Walter's Version)",
       "url": "https://open.spotify.com/track/4KopqTSf6XxC3hHmQR7Vgx"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Your Love Is Good",
+        "url": "https://open.spotify.com/album/4D6n2iAy5wcVGJ0u2bgPF5"
+      },
+      "artists": [
+        {
+          "name": "Greg Manning",
+          "url": "https://open.spotify.com/artist/124ZXfDP304DWzmuOM6Jza"
+        }
+      ],
+      "duration_ms": 256234,
+      "name": "Your Love Is Good",
+      "url": "https://open.spotify.com/track/2Fc4A3KX4CHF7TC8JSvU6G"
     },
     {
       "added_at": "2022-03-18 05:00:00",
@@ -327,22 +375,6 @@
       "duration_ms": 417363,
       "name": "Nico\u2019s Groove",
       "url": "https://open.spotify.com/track/2xPr3ODopFSqA2I1TmReAK"
-    },
-    {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "Sundowner",
-        "url": "https://open.spotify.com/album/65O7xJcZe4HAQQmT9nQH8b"
-      },
-      "artists": [
-        {
-          "name": "Mattari",
-          "url": "https://open.spotify.com/artist/2vvyHDrc6kPcPXcTlIaumC"
-        }
-      ],
-      "duration_ms": 203839,
-      "name": "Sundowner",
-      "url": "https://open.spotify.com/track/4XarW9VWXpmX9LAKtYxaRd"
     },
     {
       "added_at": "2023-04-28 04:01:00",
@@ -1037,22 +1069,6 @@
       "url": "https://open.spotify.com/track/76M4Z7niotejRyHwsFnEvh"
     },
     {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Off The Top",
-        "url": "https://open.spotify.com/album/5BjKIGb4H5EVxaIhLgaR4a"
-      },
-      "artists": [
-        {
-          "name": "Kim Scott",
-          "url": "https://open.spotify.com/artist/68nDtoCQKhf7AxQP0q3wSP"
-        }
-      ],
-      "duration_ms": 259044,
-      "name": "Off The Top - radio single",
-      "url": "https://open.spotify.com/track/6kp0EMPhVaxY4HSo9vjSVV"
-    },
-    {
       "added_at": "2023-04-14 04:01:00",
       "album": {
         "name": "Freddie Freeloader",
@@ -1275,26 +1291,6 @@
       "duration_ms": 316061,
       "name": "Forever",
       "url": "https://open.spotify.com/track/3etLxAosogqfbvsLyBh58S"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "A Song for Peace",
-        "url": "https://open.spotify.com/album/6YfIaFDEwyfnVnBX2zfLQw"
-      },
-      "artists": [
-        {
-          "name": "Greg Manning",
-          "url": "https://open.spotify.com/artist/124ZXfDP304DWzmuOM6Jza"
-        },
-        {
-          "name": "Kirk Whalum",
-          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
-        }
-      ],
-      "duration_ms": 273515,
-      "name": "A Song for Peace",
-      "url": "https://open.spotify.com/track/01T4bEtV47xjJQ2ER7rZj2"
     },
     {
       "added_at": "2022-10-24 14:43:12",

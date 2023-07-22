@@ -230,7 +230,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 175000,
       "name": "Adrift In Memory",
       "url": "https://open.spotify.com/track/0Cv17wDbSTPqkTXTTkt2KV"
@@ -302,7 +302,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-16",
+      "date_removed": null,
       "duration_ms": 303000,
       "name": "Almost Gone - Excerpt",
       "url": "https://open.spotify.com/track/3qWjeFVCqktGn5kNJ3Ny09"
@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-16",
+      "date_removed": null,
       "duration_ms": 236000,
       "name": "Deep Time",
       "url": "https://open.spotify.com/track/5CGfRs7y3BMlYVByQgrkyk"
@@ -1220,7 +1220,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 294964,
       "name": "Dewey",
       "url": "https://open.spotify.com/track/0KXPPU4wKaVOzHtASPzyGg"
@@ -1420,6 +1420,24 @@
       "duration_ms": 324677,
       "name": "Easter",
       "url": "https://open.spotify.com/track/2vNQxUNCzkSwRlOD9UKcnW"
+    },
+    {
+      "album": {
+        "name": "Eev",
+        "url": "https://open.spotify.com/album/2JUNw2Z800WKzUPFUUkDSO"
+      },
+      "artists": [
+        {
+          "name": "Taylor Deupree",
+          "url": "https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236740,
+      "name": "Eev",
+      "url": "https://open.spotify.com/track/3TqSdsJga5OfHB0bKcHgJg"
     },
     {
       "album": {
@@ -1858,7 +1876,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-24",
+      "date_removed": null,
       "duration_ms": 205090,
       "name": "Grassland",
       "url": "https://open.spotify.com/track/5NInDapUdp3r3ajfMrKl7K"
@@ -2100,7 +2118,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 295993,
       "name": "Ikigai",
       "url": "https://open.spotify.com/track/3JTxj4orzPrDjQFKBM2QAN"
@@ -2340,7 +2358,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-17",
+      "date_removed": null,
       "duration_ms": 325533,
       "name": "Kin",
       "url": "https://open.spotify.com/track/4bZrS7VPjRUU2yNEQH7d7Z"
@@ -2402,7 +2420,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 294418,
       "name": "Knowledge",
       "url": "https://open.spotify.com/track/2LEqtjDn1k4ZI7xwgheNI7"
@@ -2904,7 +2922,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 262691,
       "name": "Melt",
       "url": "https://open.spotify.com/track/7FHrGr96veyiK4WtdohNTv"
@@ -3006,7 +3024,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 267065,
       "name": "Morning",
       "url": "https://open.spotify.com/track/0ry0QY44R8IrB7cQapROCS"
@@ -3628,7 +3646,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-15",
+      "date_removed": null,
       "duration_ms": 286000,
       "name": "Phenomena",
       "url": "https://open.spotify.com/track/2rHyG15WplCxbhPCELXxdM"
@@ -3806,7 +3824,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-07",
+      "date_removed": null,
       "duration_ms": 311337,
       "name": "Returning After Leaving",
       "url": "https://open.spotify.com/track/3M8vFR2Dca5db4ZDGiYnY5"
@@ -3968,7 +3986,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-19",
+      "date_removed": null,
       "duration_ms": 547056,
       "name": "Severance",
       "url": "https://open.spotify.com/track/1Xb23c8l5v0syXyCcUmpPH"
@@ -4098,7 +4116,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-30",
+      "date_removed": null,
       "duration_ms": 272571,
       "name": "Sleep Cycle",
       "url": "https://open.spotify.com/track/0I3dIMAX86mepOPGEOJpQC"
@@ -4338,7 +4356,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 255119,
       "name": "Spring Consolation",
       "url": "https://open.spotify.com/track/7eB3y89enbULLgbXi3aN62"
@@ -4518,7 +4536,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 373894,
       "name": "Surfacing",
       "url": "https://open.spotify.com/track/2pF6mT3LxFy5SleXkAmq7j"
@@ -4594,7 +4612,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-08",
+      "date_removed": null,
       "duration_ms": 400000,
       "name": "Sycamore Screen",
       "url": "https://open.spotify.com/track/5aoRDanFSd4SULbVXg1AMC"
@@ -4772,7 +4790,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-09",
+      "date_removed": null,
       "duration_ms": 468000,
       "name": "The Signals From the Abyss",
       "url": "https://open.spotify.com/track/6yJWaFqw7Umwe3LYpMjgyh"
@@ -4812,6 +4830,24 @@
       "duration_ms": 224143,
       "name": "They Being Dead Yet Speaketh - Pt.3 - From \u201eThe Miners\u2019 Hymns\u201d Soundtrack",
       "url": "https://open.spotify.com/track/0EVfcXz7EgfOHjniBA8nqy"
+    },
+    {
+      "album": {
+        "name": "Indentations",
+        "url": "https://open.spotify.com/album/4DM9J26xKqEdMWyLJjPEKf"
+      },
+      "artists": [
+        {
+          "name": "Grant Chapman",
+          "url": "https://open.spotify.com/artist/4ovf5n6upZQN6Mr77VpOML"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142166,
+      "name": "This Comfort",
+      "url": "https://open.spotify.com/track/4kTSH9bXzfz6honMCEfNXF"
     },
     {
       "album": {
@@ -4960,7 +4996,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 182500,
       "name": "tsukimi dango",
       "url": "https://open.spotify.com/track/6xFoMmZIkhOgRv7Zj3luYA"
@@ -5142,7 +5178,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 192000,
       "name": "Upward Swimming Fish",
       "url": "https://open.spotify.com/track/5z4mF8QSQRsABywXxYrLUB"
@@ -5420,7 +5456,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 392090,
       "name": "winter fingertips",
       "url": "https://open.spotify.com/track/6gJAiEEQ21ayJHERPL0qYJ"
@@ -5438,7 +5474,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-20",
+      "date_removed": null,
       "duration_ms": 259226,
       "name": "Wish",
       "url": "https://open.spotify.com/track/3ONVbdiqc73LTVnLQhfQPj"
@@ -5526,7 +5562,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 159818,
       "name": "Zero Gravity",
       "url": "https://open.spotify.com/track/4tfaUHGYBCMliBaOHM5vHX"
@@ -5566,7 +5602,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 168750,
       "name": "\u604b\u306e\u4e88\u611f",
       "url": "https://open.spotify.com/track/3ysYqlfJFsqmt5ip28ZwUl"

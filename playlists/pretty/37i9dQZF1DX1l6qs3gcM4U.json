@@ -1,12 +1,12 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Lisandro Cuxi.  ",
-  "num_followers": 176296,
+  "num_followers": 176443,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOGZkYzczNzczYjU4Y2NmMjEzM2M1NmJhZmFkMGI4Mjg1ZmY4Mzg5",
+  "snapshot_id": "MCw3M2E0ZGI4OTRhYzJhZGU3N2QyZTZkZDk5ZmQzOTdkNGM3NjIyNmUz",
   "tracks": [
     {
       "added_at": "2023-07-13 23:00:00",
@@ -799,6 +799,58 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
+        "name": "Vais Me Perder",
+        "url": "https://open.spotify.com/album/5W9d4lHc86EOAPQ9dJYNMx"
+      },
+      "artists": [
+        {
+          "name": "Anselmo Ralph",
+          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
+        }
+      ],
+      "duration_ms": 221462,
+      "name": "Vais Me Perder",
+      "url": "https://open.spotify.com/track/2F8dfybJCRcTL3fSMMm7o4"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
+        "name": "Mais Nada",
+        "url": "https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT"
+      },
+      "artists": [
+        {
+          "name": "Cubita",
+          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
+        }
+      ],
+      "duration_ms": 176770,
+      "name": "Mais Nada",
+      "url": "https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
+        "name": "Mininu Di Oru",
+        "url": "https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu"
+      },
+      "artists": [
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        },
+        {
+          "name": "SYRO",
+          "url": "https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x"
+        }
+      ],
+      "duration_ms": 205996,
+      "name": "Tempestade",
+      "url": "https://open.spotify.com/track/2xJCPy4Cr88de0LCSIB2d2"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
         "name": "Versos & Poesias #5: Sintonia",
         "url": "https://open.spotify.com/album/1dhDUzKjP6iGrDhToWpKgw"
       },
@@ -843,58 +895,6 @@
       "duration_ms": 476029,
       "name": "Versos & Poesias #5: Sintonia",
       "url": "https://open.spotify.com/track/27Zd9qIZIQg7lmJDVL2J4L"
-    },
-    {
-      "added_at": "2023-07-13 23:00:00",
-      "album": {
-        "name": "Vais Me Perder",
-        "url": "https://open.spotify.com/album/5W9d4lHc86EOAPQ9dJYNMx"
-      },
-      "artists": [
-        {
-          "name": "Anselmo Ralph",
-          "url": "https://open.spotify.com/artist/1ts2oIXKCpWSRFnR78bulp"
-        }
-      ],
-      "duration_ms": 221462,
-      "name": "Vais Me Perder",
-      "url": "https://open.spotify.com/track/2F8dfybJCRcTL3fSMMm7o4"
-    },
-    {
-      "added_at": "2023-07-13 23:00:00",
-      "album": {
-        "name": "Mininu Di Oru",
-        "url": "https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu"
-      },
-      "artists": [
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
-        },
-        {
-          "name": "SYRO",
-          "url": "https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x"
-        }
-      ],
-      "duration_ms": 205996,
-      "name": "Tempestade",
-      "url": "https://open.spotify.com/track/2xJCPy4Cr88de0LCSIB2d2"
-    },
-    {
-      "added_at": "2023-07-13 23:00:00",
-      "album": {
-        "name": "Mais Nada",
-        "url": "https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT"
-      },
-      "artists": [
-        {
-          "name": "Cubita",
-          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
-        }
-      ],
-      "duration_ms": 176770,
-      "name": "Mais Nada",
-      "url": "https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ"
     },
     {
       "added_at": "2023-07-13 23:00:00",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
+        "name": "Longe de Ti",
+        "url": "https://open.spotify.com/album/03wfykCwviZBpxcxcBEaN1"
+      },
+      "artists": [
+        {
+          "name": "Jay Oliver",
+          "url": "https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Voc\u00ea Me Kuia",
+      "url": "https://open.spotify.com/track/4gvDUHpTEiVHhDeeobenz4"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
         "name": "Pak\u00e9",
         "url": "https://open.spotify.com/album/4LOcAV2E28OEl7b5rwUlBA"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 220645,
       "name": "Pak\u00e9",
       "url": "https://open.spotify.com/track/6h1WgpPEbJEbMew8esRdbF"
-    },
-    {
-      "added_at": "2023-07-13 23:00:00",
-      "album": {
-        "name": "Longe de Ti",
-        "url": "https://open.spotify.com/album/03wfykCwviZBpxcxcBEaN1"
-      },
-      "artists": [
-        {
-          "name": "Jay Oliver",
-          "url": "https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Voc\u00ea Me Kuia",
-      "url": "https://open.spotify.com/track/4gvDUHpTEiVHhDeeobenz4"
     },
     {
       "added_at": "2023-07-13 23:00:00",
@@ -1387,6 +1387,26 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
+        "name": "Waridu (LBEATZ Sessions #1)",
+        "url": "https://open.spotify.com/album/2QBRALabDdpMzrE0Jd7gRT"
+      },
+      "artists": [
+        {
+          "name": "LBEATZ",
+          "url": "https://open.spotify.com/artist/5KxNau7gSEhC7NhCNLjJBi"
+        },
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        }
+      ],
+      "duration_ms": 190410,
+      "name": "Waridu - LBEATZ Sessions #1",
+      "url": "https://open.spotify.com/track/6D1rnxTxNfHCtD3KlXcy4m"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
         "name": "Se Eu Pudesse",
         "url": "https://open.spotify.com/album/5b7CxDT0ukq7agUrwUv8W5"
       },
@@ -1475,26 +1495,6 @@
       "duration_ms": 228666,
       "name": "Fica Parado (feat. C4 Pedro)",
       "url": "https://open.spotify.com/track/7qeh3o6nW5XCZZjbMCEVWd"
-    },
-    {
-      "added_at": "2023-07-13 23:00:00",
-      "album": {
-        "name": "Teu Ego",
-        "url": "https://open.spotify.com/album/2Q1f06VzUef6eeyAwa4QKa"
-      },
-      "artists": [
-        {
-          "name": "Ivan Alekxei",
-          "url": "https://open.spotify.com/artist/4kR1QWyFVV4vr0JxkWv7EC"
-        },
-        {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
-        }
-      ],
-      "duration_ms": 286093,
-      "name": "Teu Ego",
-      "url": "https://open.spotify.com/track/2ZQdBUpl0oLp97sZ1F5vdQ"
     },
     {
       "added_at": "2023-07-13 23:00:00",

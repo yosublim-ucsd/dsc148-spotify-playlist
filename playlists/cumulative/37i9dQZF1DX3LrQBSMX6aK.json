@@ -104,7 +104,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 865817,
       "name": "Barsaat Mein",
       "url": "https://open.spotify.com/track/0K8QcGSeR2Aew9oojtuIsS"
@@ -206,7 +206,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 676496,
       "name": "Chaiti - Raat Hum Dekhli Sapanwa",
       "url": "https://open.spotify.com/track/0AJJvNFYrXJIofnpguOOaS"
@@ -491,6 +491,24 @@
     },
     {
       "album": {
+        "name": "Jham Jham Jhamke",
+        "url": "https://open.spotify.com/album/2CXcjcHBN8E7oIxFZPgSYO"
+      },
+      "artists": [
+        {
+          "name": "Sunanda Sharma",
+          "url": "https://open.spotify.com/artist/58xqyuk3chk5HkHjIYQOd4"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290494,
+      "name": "Jham Jham Jhamke",
+      "url": "https://open.spotify.com/track/2PpdjrfcECccjK72Dda6kl"
+    },
+    {
+      "album": {
         "name": "Jhuki Aayi Badariya",
         "url": "https://open.spotify.com/album/1qFdxQBXCkn0eayc88DTga"
       },
@@ -644,6 +662,28 @@
       "duration_ms": 712946,
       "name": "Nazariya Lag Jayegi",
       "url": "https://open.spotify.com/track/0iHfz3tCIDU323Z6oER2eF"
+    },
+    {
+      "album": {
+        "name": "Nirbhay Nirgun (Live)",
+        "url": "https://open.spotify.com/album/4b8GmKRuGCgnLshdreugl4"
+      },
+      "artists": [
+        {
+          "name": "The Anirudh Varma Collective",
+          "url": "https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB"
+        },
+        {
+          "name": "Aastha Mandle",
+          "url": "https://open.spotify.com/artist/3WbMLBBp0iOzfjvU6AcwCA"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380000,
+      "name": "Nirbhay Nirgun (Live)",
+      "url": "https://open.spotify.com/track/357T838i7RIdC7QVLLWWqC"
     },
     {
       "album": {
@@ -1729,6 +1769,28 @@
     },
     {
       "album": {
+        "name": "The Divine Raga Durga",
+        "url": "https://open.spotify.com/album/0onWHTMDpbnZeDUo0QOB9U"
+      },
+      "artists": [
+        {
+          "name": "Anuradha Kuber",
+          "url": "https://open.spotify.com/artist/6yDnNXnUF9Xgvy8lDCAOa1"
+        },
+        {
+          "name": "Rigved Deshpande",
+          "url": "https://open.spotify.com/artist/3D4ciVOOjlZ8vA8h861db8"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 1684773,
+      "name": "The Divine Raga Durga - Raga Turga - Tala Ektaal Madhyalaya",
+      "url": "https://open.spotify.com/track/1YXjfTxQoDK3TV0IqWcCjf"
+    },
+    {
+      "album": {
         "name": "Sur Tarangini Part 2",
         "url": "https://open.spotify.com/album/45ogchMjhkNMsjpMqNU6w3"
       },
@@ -1798,7 +1860,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 256704,
       "name": "Uthata Baaje",
       "url": "https://open.spotify.com/track/7uiEEmbfllma51hGSxAixq"

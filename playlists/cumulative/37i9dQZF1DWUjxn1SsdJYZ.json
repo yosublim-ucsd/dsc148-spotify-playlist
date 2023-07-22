@@ -5663,6 +5663,32 @@
     },
     {
       "album": {
+        "name": "Midnight Sun",
+        "url": "https://open.spotify.com/album/0CHvMh24eRmthzRALhsDR4"
+      },
+      "artists": [
+        {
+          "name": "Terror Reid",
+          "url": "https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA"
+        },
+        {
+          "name": "Pouya",
+          "url": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY"
+        },
+        {
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124025,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/6VruexMGmO8zonX9LIU4cK"
+    },
+    {
+      "album": {
         "name": "FS Type Beats",
         "url": "https://open.spotify.com/album/2r0tKVKRCyof88kyiyFNUL"
       },
@@ -9012,6 +9038,24 @@
       "duration_ms": 146676,
       "name": "TN's",
       "url": "https://open.spotify.com/track/3tmlUmwDwHgDgKxwCRHdqE"
+    },
+    {
+      "album": {
+        "name": "TOO HOT",
+        "url": "https://open.spotify.com/album/3zK0Gw1Qnmx6tKbvCsE5lX"
+      },
+      "artists": [
+        {
+          "name": "Yung Maynie",
+          "url": "https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156168,
+      "name": "TOO HOT",
+      "url": "https://open.spotify.com/track/5I8LL0HSQM1IjPSs2r34Ra"
     },
     {
       "album": {

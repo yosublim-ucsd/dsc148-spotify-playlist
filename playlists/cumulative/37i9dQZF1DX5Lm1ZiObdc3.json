@@ -967,6 +967,24 @@
     },
     {
       "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/4vmESFAVyHzzBSzA6CjQMj"
+      },
+      "artists": [
+        {
+          "name": "Alexis Ffrench",
+          "url": "https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203508,
+      "name": "Miracles",
+      "url": "https://open.spotify.com/track/1YeIOEwRR1F7fYy4rqBYPs"
+    },
+    {
+      "album": {
         "name": "H\u00e4ndel: Feuerwerksmusik - Wassermusik",
         "url": "https://open.spotify.com/album/5SkqTEzaxzwvdR0bamnROz"
       },

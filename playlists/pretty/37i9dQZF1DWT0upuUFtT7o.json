@@ -1,12 +1,12 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Updates every Wednesday. Cover: Malcolm Todd",
-  "num_followers": 182965,
+  "num_followers": 183067,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODQxYTEyZjYzMDAxYmJhMjczZjZjZGZmZDllMDgwOWYyMDE2MmEw",
+  "snapshot_id": "MCw4ZGYwYzViOWNlZGY3ODY5Nzg4MTNhYTU4YWQxN2EzZDQxMmYyOWE3",
   "tracks": [
     {
       "added_at": "2023-07-10 16:14:41",
@@ -91,6 +91,22 @@
       "duration_ms": 176833,
       "name": "bent",
       "url": "https://open.spotify.com/track/63wjDtMrtXEeZnHAccVyTE"
+    },
+    {
+      "added_at": "2023-07-21 22:24:16",
+      "album": {
+        "name": "Good Things Take Time",
+        "url": "https://open.spotify.com/album/6kTSYt8iV32b8HLSuCSfUg"
+      },
+      "artists": [
+        {
+          "name": "Harmony",
+          "url": "https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW"
+        }
+      ],
+      "duration_ms": 145080,
+      "name": "Good Things Take Time",
+      "url": "https://open.spotify.com/track/1rMPAjBFGWHcaiZ6O6t0jW"
     },
     {
       "added_at": "2023-07-19 05:00:22",
@@ -1203,22 +1219,6 @@
       "duration_ms": 185986,
       "name": "Only You",
       "url": "https://open.spotify.com/track/0aPLjq21hNHmsEs5L6XwDS"
-    },
-    {
-      "added_at": "2023-06-27 22:55:11",
-      "album": {
-        "name": "Do You Believe in Love",
-        "url": "https://open.spotify.com/album/0Y4dm9ueHYvlBBwK5dxpN2"
-      },
-      "artists": [
-        {
-          "name": "Coco Elise",
-          "url": "https://open.spotify.com/artist/5aiWig8aYprqc7PLn6AlIC"
-        }
-      ],
-      "duration_ms": 130925,
-      "name": "Do You Believe in Love",
-      "url": "https://open.spotify.com/track/1RFAVXee1BDJp0DKZZLWZd"
     },
     {
       "added_at": "2023-06-21 18:02:34",

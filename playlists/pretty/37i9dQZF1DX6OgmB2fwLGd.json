@@ -1,13 +1,81 @@
 {
   "description": "The soundtrack to the internet. Cover: 2Rare",
-  "num_followers": 1381491,
+  "num_followers": 1381901,
   "original_name": "Internet People",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjFiMzRkNjFjMTM3MjNiYjc3Mzc0NTkxYTUxNDlmZDY1M2VlZGM5",
+  "snapshot_id": "MCw2MmVlODY0YTc1OWE5MmUxMTYzY2JjMzY0YmZjNzNlNTg1OGQwY2Ni",
   "tracks": [
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "500lbs",
+        "url": "https://open.spotify.com/album/2Ro9gydgq5JWy7b22zPty9"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 144390,
+      "name": "500lbs",
+      "url": "https://open.spotify.com/track/1xWkeSPhf3bZqHY7Ncz8vp"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Barrio (with Lefty Sm)",
+        "url": "https://open.spotify.com/album/1ymuLQZcpThyYLQHMd701v"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "duration_ms": 144414,
+      "name": "Barrio (with Lefty Sm)",
+      "url": "https://open.spotify.com/track/4oxKEbn3OLrNCW5JciZKvn"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "I love freaks",
+        "url": "https://open.spotify.com/album/3yLJCP0lB551rk7Hd1atC1"
+      },
+      "artists": [
+        {
+          "name": "Lijay",
+          "url": "https://open.spotify.com/artist/3Ph8hNhDsxyruCsu6QyNfJ"
+        }
+      ],
+      "duration_ms": 101198,
+      "name": "I love freaks",
+      "url": "https://open.spotify.com/track/2OwdUZPORY0EAdRBF9hSZD"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "RICH SCHOLAR",
+        "url": "https://open.spotify.com/album/51gfa3wuokik4pJTaZQ2om"
+      },
+      "artists": [
+        {
+          "name": "Lil Mabu",
+          "url": "https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN"
+        }
+      ],
+      "duration_ms": 118923,
+      "name": "RICH SCHOLAR",
+      "url": "https://open.spotify.com/track/2hsNdc8rDVN2O5QOxbGayy"
+    },
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
@@ -47,38 +115,6 @@
       "duration_ms": 176160,
       "name": "Turn Your Phone Off",
       "url": "https://open.spotify.com/track/6htWGNhskc5f0Xke88Vn5z"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "RICH SCHOLAR",
-        "url": "https://open.spotify.com/album/51gfa3wuokik4pJTaZQ2om"
-      },
-      "artists": [
-        {
-          "name": "Lil Mabu",
-          "url": "https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN"
-        }
-      ],
-      "duration_ms": 118923,
-      "name": "RICH SCHOLAR",
-      "url": "https://open.spotify.com/track/2hsNdc8rDVN2O5QOxbGayy"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "I love freaks",
-        "url": "https://open.spotify.com/album/3yLJCP0lB551rk7Hd1atC1"
-      },
-      "artists": [
-        {
-          "name": "Lijay",
-          "url": "https://open.spotify.com/artist/3Ph8hNhDsxyruCsu6QyNfJ"
-        }
-      ],
-      "duration_ms": 101198,
-      "name": "I love freaks",
-      "url": "https://open.spotify.com/track/2OwdUZPORY0EAdRBF9hSZD"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -155,22 +191,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "No Gun No Knife",
-        "url": "https://open.spotify.com/album/2rwNRhPDhw6jwjRTAcd8wu"
-      },
-      "artists": [
-        {
-          "name": "Superstar Pride",
-          "url": "https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa"
-        }
-      ],
-      "duration_ms": 212088,
-      "name": "No Gun No Knife",
-      "url": "https://open.spotify.com/track/6aR5ufkC3OlM66lJ43wcJU"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Already Rich",
         "url": "https://open.spotify.com/album/6K1GUtpgDr2wYCnKf1JOed"
       },
@@ -183,6 +203,26 @@
       "duration_ms": 145528,
       "name": "Already Rich",
       "url": "https://open.spotify.com/track/61eJ7HqXGyHfmHIqJApX7v"
+    },
+    {
+      "added_at": "2023-07-21 17:25:10",
+      "album": {
+        "name": "MMM HMM (feat. Sexyy Red)",
+        "url": "https://open.spotify.com/album/6mIpyaTHgDgQbgZwWALgHI"
+      },
+      "artists": [
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 158137,
+      "name": "MMM HMM (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/0KK6oylgSBhXglGZQL61y0"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -207,6 +247,22 @@
       "duration_ms": 112464,
       "name": "KRUSTY KREW ANTHEM (BACK ON THE GRILL)",
       "url": "https://open.spotify.com/track/7KbcPfcBMquaJGf4BVesOv"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "TADA",
+        "url": "https://open.spotify.com/album/6jGsvxeVlhZziD1iHC2M3m"
+      },
+      "artists": [
+        {
+          "name": "Unghetto",
+          "url": "https://open.spotify.com/artist/4a0UMM2QrKP5ESk1P8373s"
+        }
+      ],
+      "duration_ms": 85161,
+      "name": "TADA",
+      "url": "https://open.spotify.com/track/2cXeUYMss6hflg9hSZHePD"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -269,6 +325,22 @@
       "url": "https://open.spotify.com/track/7KlYBKL2aNJJ3kQI1iO96M"
     },
     {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/1LTl3mxJfm7flXx9wecciK"
+      },
+      "artists": [
+        {
+          "name": "Bravo 1-2",
+          "url": "https://open.spotify.com/artist/7m1XrFL6HVKlTlJ4R6kUcX"
+        }
+      ],
+      "duration_ms": 90000,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/05QTU0jumc79qqlpAzMEbw"
+    },
+    {
       "added_at": "2023-07-14 04:00:00",
       "album": {
         "name": "6",
@@ -319,6 +391,22 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
+        "name": "No Gun No Knife",
+        "url": "https://open.spotify.com/album/2rwNRhPDhw6jwjRTAcd8wu"
+      },
+      "artists": [
+        {
+          "name": "Superstar Pride",
+          "url": "https://open.spotify.com/artist/3FBEsNyIwRnOHOf1Rv3SLa"
+        }
+      ],
+      "duration_ms": 212088,
+      "name": "No Gun No Knife",
+      "url": "https://open.spotify.com/track/6aR5ufkC3OlM66lJ43wcJU"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
         "name": "Make It A Double",
         "url": "https://open.spotify.com/album/04xgq5VLo2p35E09kdKCWv"
       },
@@ -331,6 +419,22 @@
       "duration_ms": 120015,
       "name": "You Wish",
       "url": "https://open.spotify.com/track/0aoLgGE9S9qMjIGtTgpnNd"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Slizzy Talk",
+        "url": "https://open.spotify.com/album/5lnwBxTSlY9xY8Im5yWvIZ"
+      },
+      "artists": [
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        }
+      ],
+      "duration_ms": 142183,
+      "name": "Slizzy Talk",
+      "url": "https://open.spotify.com/track/1Qvxd1s2lzrXedEjqdYQQn"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1223,22 +1327,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Lyf\u00eb",
-        "url": "https://open.spotify.com/album/6Xo2PDEoQKzCndIbks2kvu"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 150241,
-      "name": "Out th\u00eb way",
-      "url": "https://open.spotify.com/track/6IyoLWzljeR3ldQo4KWHT6"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Last Time",
         "url": "https://open.spotify.com/album/4pDMivkVPVB3P37c84SaHC"
       },
@@ -1675,22 +1763,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Side Effects EP",
-        "url": "https://open.spotify.com/album/7vTr4l8fv0ZHWyfznkxuTx"
-      },
-      "artists": [
-        {
-          "name": "Chris Travis",
-          "url": "https://open.spotify.com/artist/6TxY5T8v9RjF7Ry4XQvWT5"
-        }
-      ],
-      "duration_ms": 206124,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/6QuwMgDZub0zf70EOcWtqk"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "GHOSTKILLA",
         "url": "https://open.spotify.com/album/4ASLNRahJH5tj0F4bYOJkC"
       },
@@ -1727,22 +1799,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Need",
-        "url": "https://open.spotify.com/album/5zcHTgSTVHfrF4JJOh1Gnh"
-      },
-      "artists": [
-        {
-          "name": "keltiey",
-          "url": "https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys"
-        }
-      ],
-      "duration_ms": 157894,
-      "name": "Need",
-      "url": "https://open.spotify.com/track/4s8fQKAfuHR9gMDzoA9ioQ"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Lil Pump 2",
         "url": "https://open.spotify.com/album/1ly2H0S0Ru5gJ2yvZZ18Uv"
       },
@@ -1759,42 +1815,6 @@
       "duration_ms": 133999,
       "name": "Tesla",
       "url": "https://open.spotify.com/track/4y2MBx0WKentE8pHFa52RU"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "miles",
-        "url": "https://open.spotify.com/album/6lAOUk4uVgPOj9ny3TPoDO"
-      },
-      "artists": [
-        {
-          "name": "skaiwater",
-          "url": "https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 162196,
-      "name": "miles (feat. Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/2WgoeZDxLJvjEvlOupkr8D"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "FOLD",
-        "url": "https://open.spotify.com/album/1iCT7O5zAGYGyoi3EpfoVa"
-      },
-      "artists": [
-        {
-          "name": "THOTTWAT",
-          "url": "https://open.spotify.com/artist/16SkmlqKt2Xf6mqurZgpdt"
-        }
-      ],
-      "duration_ms": 187269,
-      "name": "FOLD",
-      "url": "https://open.spotify.com/track/2EP8akKOQ8sQ9MAqrnhml0"
     },
     {
       "added_at": "2023-07-14 04:00:00",

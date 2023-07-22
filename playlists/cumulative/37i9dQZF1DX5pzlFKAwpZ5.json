@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/07brEdWd5EwlQfbQVV31Ye"
+      },
+      "artists": [
+        {
+          "name": "yanaco",
+          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193737,
+      "name": "After Dark",
+      "url": "https://open.spotify.com/track/1m7bxENmXHhLj5eTWfrzEP"
+    },
+    {
+      "album": {
         "name": "slowdance\u200b,\u200blowtide",
         "url": "https://open.spotify.com/album/7xomRNjiLs0yWQ6qemwMMA"
       },
@@ -726,6 +744,24 @@
       "duration_ms": 354693,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/0S9lwd7JF9878QQ6tuuIQg"
+    },
+    {
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/07brEdWd5EwlQfbQVV31Ye"
+      },
+      "artists": [
+        {
+          "name": "yanaco",
+          "url": "https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/2UQoFEcg70YOsFhT5RTvNO"
     },
     {
       "album": {

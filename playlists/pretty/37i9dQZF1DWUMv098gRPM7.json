@@ -1,12 +1,12 @@
 {
   "description": "A playback of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624\">Mood Ring</a>\u2019s all-stars. Cover: Aqyila",
-  "num_followers": 5340,
+  "num_followers": 5368,
   "original_name": "R&B Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTNlZjg4OWE3OWU2YzA1MzRhOTljNDg3MGViMzU2NTA2ZTlhZmU0",
+  "snapshot_id": "MCwyNzYxMzNlYWU3MThhZmU3NDgwZTc0OWI4ODNjYTU2NmUwYTUxYjY5",
   "tracks": [
     {
       "added_at": "2023-07-20 23:52:13",
@@ -671,38 +671,6 @@
     {
       "added_at": "2023-07-20 23:52:13",
       "album": {
-        "name": "BLOOD",
-        "url": "https://open.spotify.com/album/6OGfppd0PoTML3hJVLRHQ7"
-      },
-      "artists": [
-        {
-          "name": "Sean Leon",
-          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
-        }
-      ],
-      "duration_ms": 123966,
-      "name": "BLOOD",
-      "url": "https://open.spotify.com/track/1BhHgNaZDdAe7len1ertf6"
-    },
-    {
-      "added_at": "2023-07-20 23:52:13",
-      "album": {
-        "name": "Morning After",
-        "url": "https://open.spotify.com/album/0hzJ9hfyUIK0LEAIth4JWd"
-      },
-      "artists": [
-        {
-          "name": "dvsn",
-          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
-        }
-      ],
-      "duration_ms": 246240,
-      "name": "Think About Me",
-      "url": "https://open.spotify.com/track/2WUGnxLyK24CbGCcTIjEBY"
-    },
-    {
-      "added_at": "2023-07-20 23:52:13",
-      "album": {
         "name": "CYANIDE REMIX (feat. Koffee)",
         "url": "https://open.spotify.com/album/4kYeULYvGSPb5igBdYlJ5S"
       },
@@ -723,6 +691,22 @@
     {
       "added_at": "2023-07-20 23:52:13",
       "album": {
+        "name": "Morning After",
+        "url": "https://open.spotify.com/album/0hzJ9hfyUIK0LEAIth4JWd"
+      },
+      "artists": [
+        {
+          "name": "dvsn",
+          "url": "https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl"
+        }
+      ],
+      "duration_ms": 246240,
+      "name": "Think About Me",
+      "url": "https://open.spotify.com/track/2WUGnxLyK24CbGCcTIjEBY"
+    },
+    {
+      "added_at": "2023-07-20 23:52:13",
+      "album": {
         "name": "PARTYNEXTDOOR",
         "url": "https://open.spotify.com/album/1q4B7r3dzzwkarZ1B9bk9e"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 177827,
       "name": "Over Here (feat. Drake)",
       "url": "https://open.spotify.com/track/43xzI2dp9CTUsmZXjm1voH"
+    },
+    {
+      "added_at": "2023-07-20 23:52:13",
+      "album": {
+        "name": "BLOOD",
+        "url": "https://open.spotify.com/album/6OGfppd0PoTML3hJVLRHQ7"
+      },
+      "artists": [
+        {
+          "name": "Sean Leon",
+          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
+        }
+      ],
+      "duration_ms": 123966,
+      "name": "BLOOD",
+      "url": "https://open.spotify.com/track/1BhHgNaZDdAe7len1ertf6"
     },
     {
       "added_at": "2023-07-20 23:52:13",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-07-20 23:52:13",
       "album": {
-        "name": "Entice Me",
-        "url": "https://open.spotify.com/album/78GOlXZOeGFibF6M4E7auT"
-      },
-      "artists": [
-        {
-          "name": "JON VINYL",
-          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
-        }
-      ],
-      "duration_ms": 156874,
-      "name": "Entice Me",
-      "url": "https://open.spotify.com/track/27Pdlv16GJgY0fpzOE36ZE"
-    },
-    {
-      "added_at": "2023-07-20 23:52:13",
-      "album": {
         "name": "ALPHA",
         "url": "https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 214437,
       "name": "Take Care of You (feat. Syd)",
       "url": "https://open.spotify.com/track/5lYcnEFmVi9yWbU4ZINRyJ"
+    },
+    {
+      "added_at": "2023-07-20 23:52:13",
+      "album": {
+        "name": "Entice Me",
+        "url": "https://open.spotify.com/album/78GOlXZOeGFibF6M4E7auT"
+      },
+      "artists": [
+        {
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+        }
+      ],
+      "duration_ms": 156874,
+      "name": "Entice Me",
+      "url": "https://open.spotify.com/track/27Pdlv16GJgY0fpzOE36ZE"
     },
     {
       "added_at": "2023-07-20 23:52:13",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-07-20 23:52:13",
       "album": {
+        "name": "Lost In You",
+        "url": "https://open.spotify.com/album/23kfRYglxsFBBSNQ0uEZOt"
+      },
+      "artists": [
+        {
+          "name": "JON VINYL",
+          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
+        }
+      ],
+      "duration_ms": 153293,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/7N2r26B4SQ9YTjacvK03P1"
+    },
+    {
+      "added_at": "2023-07-20 23:52:13",
+      "album": {
         "name": "Vibe for Me (Bob for Me)",
         "url": "https://open.spotify.com/album/1HKFbE6Qx3xLhPIqxkZUqb"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 181823,
       "name": "Last One",
       "url": "https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM"
-    },
-    {
-      "added_at": "2023-07-20 23:52:13",
-      "album": {
-        "name": "Lost In You",
-        "url": "https://open.spotify.com/album/23kfRYglxsFBBSNQ0uEZOt"
-      },
-      "artists": [
-        {
-          "name": "JON VINYL",
-          "url": "https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu"
-        }
-      ],
-      "duration_ms": 153293,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/7N2r26B4SQ9YTjacvK03P1"
     },
     {
       "added_at": "2023-07-20 23:52:13",

@@ -1,12 +1,12 @@
 {
   "description": "Vai curtir um dia no parque? A tarde com os amigos? \u00c9 s\u00f3 dar play e sair pro sol.",
-  "num_followers": 128866,
+  "num_followers": 128892,
   "original_name": "Sol de Domingo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2E5ODg4NWRiOGJlZmU5MjZhYzdkMGE3ODFiMzU5MTg3MGJlOTc2",
+  "snapshot_id": "MCxmODg3NWRkN2YzODA1YjBkMWMzZjcyYTA0OTgwNGNiNzRjNjVkMmM1",
   "tracks": [
     {
       "added_at": "2023-06-23 03:00:00",
@@ -399,26 +399,6 @@
       "duration_ms": 235128,
       "name": "Voc\u00ea N\u00e3o Presta",
       "url": "https://open.spotify.com/track/67sKMKtqVthTb45IAxLoZO"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Novas Cores, Eternas Can\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/658vM9Md7v0sSw7tEl8xYb"
-      },
-      "artists": [
-        {
-          "name": "Toquinho",
-          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
-        },
-        {
-          "name": "GIULIA BE",
-          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
-        }
-      ],
-      "duration_ms": 161357,
-      "name": "O Velho e a Flor",
-      "url": "https://open.spotify.com/track/1jw5vof9ru3gWPZQUnCu03"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -923,22 +903,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "SEM MALDADE",
-        "url": "https://open.spotify.com/album/5wJf73Jxccxa30CHlI3cSJ"
-      },
-      "artists": [
-        {
-          "name": "Clara x Sofia",
-          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
-        }
-      ],
-      "duration_ms": 170465,
-      "name": "SEM MALDADE",
-      "url": "https://open.spotify.com/track/2Bj4A4Ey4lv9rTLpTwMubD"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Beto Villares",
         "url": "https://open.spotify.com/album/7hFXKyehOxxMd7d4YeLe1p"
       },
@@ -955,26 +919,18 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Quarta Feira",
-        "url": "https://open.spotify.com/album/5osrC05r2lKp7DTyxQ4vur"
+        "name": "SEM MALDADE",
+        "url": "https://open.spotify.com/album/5wJf73Jxccxa30CHlI3cSJ"
       },
       "artists": [
         {
-          "name": "Samantha Machado",
-          "url": "https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY"
-        },
-        {
-          "name": "Tropa da W&S",
-          "url": "https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ"
-        },
-        {
-          "name": "Kary",
-          "url": "https://open.spotify.com/artist/01BlVHDAqPgLw407BsxqzN"
+          "name": "Clara x Sofia",
+          "url": "https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0"
         }
       ],
-      "duration_ms": 174543,
-      "name": "Quarta Feira",
-      "url": "https://open.spotify.com/track/42tjHNh6PqLRdFYgwhSJlb"
+      "duration_ms": 170465,
+      "name": "SEM MALDADE",
+      "url": "https://open.spotify.com/track/2Bj4A4Ey4lv9rTLpTwMubD"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -999,6 +955,30 @@
       "duration_ms": 249000,
       "name": "Quem Tem Um Amigo (Tem Tudo)",
       "url": "https://open.spotify.com/track/5F3mu5GTHwGSCRey0b6TBS"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Quarta Feira",
+        "url": "https://open.spotify.com/album/5osrC05r2lKp7DTyxQ4vur"
+      },
+      "artists": [
+        {
+          "name": "Samantha Machado",
+          "url": "https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY"
+        },
+        {
+          "name": "Tropa da W&S",
+          "url": "https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ"
+        },
+        {
+          "name": "Kary",
+          "url": "https://open.spotify.com/artist/01BlVHDAqPgLw407BsxqzN"
+        }
+      ],
+      "duration_ms": 174543,
+      "name": "Quarta Feira",
+      "url": "https://open.spotify.com/track/42tjHNh6PqLRdFYgwhSJlb"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1103,6 +1083,26 @@
       "duration_ms": 143606,
       "name": "Rio de Janeiro",
       "url": "https://open.spotify.com/track/3OMblck71RVFmRfSkXrGpt"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Novas Cores, Eternas Can\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/0zGWOMHfPEXWn1ZPE1Idjl"
+      },
+      "artists": [
+        {
+          "name": "Toquinho",
+          "url": "https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y"
+        },
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "duration_ms": 161357,
+      "name": "O Velho e a Flor",
+      "url": "https://open.spotify.com/track/2pmHap2uo6xNxxHTbu0R0A"
     }
   ],
   "unique_name": "Sol de Domingo",

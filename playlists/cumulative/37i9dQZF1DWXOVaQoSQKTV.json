@@ -1470,10 +1470,36 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 201951,
       "name": "High Price",
       "url": "https://open.spotify.com/track/0uINEgGTM8h4KAlhxIakfh"
+    },
+    {
+      "album": {
+        "name": "High Price",
+        "url": "https://open.spotify.com/album/1IBP291xw6CZjM0qllVswI"
+      },
+      "artists": [
+        {
+          "name": "81maantra",
+          "url": "https://open.spotify.com/artist/6eEceBIoSxLk8b0q1EByLn"
+        },
+        {
+          "name": "Easy Mccoy",
+          "url": "https://open.spotify.com/artist/0V4YVmGQb4essIbj8VMGPS"
+        },
+        {
+          "name": "Nyzzy Nyce",
+          "url": "https://open.spotify.com/artist/5rrWLqEEESla2vFGHGvEdp"
+        }
+      ],
+      "date_added": "2023-06-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201951,
+      "name": "High Price",
+      "url": "https://open.spotify.com/track/6ClVr2Qx1M4CGYqSG4scHF"
     },
     {
       "album": {

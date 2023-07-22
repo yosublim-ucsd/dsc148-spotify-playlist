@@ -4,7 +4,7 @@
 
 > Celebrating South Asian Heritage Month with Irfan's favorite South Asian tracks that accompany him on his travels.
 
-35 songs - 2 hr 30 min
+36 songs - 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [Humne Bhi](https://open.spotify.com/track/78bJtdSTpHYS8u9axaismu) | [The Western Ghats](https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv) | [Humne Bhi \- Single](https://open.spotify.com/album/0rfjCcKynJ2CDAwGD8Yp1z) | 4:12 | 2023-07-17 |  |
 | [Imkaan](https://open.spotify.com/track/3x3IEt1LiPU2DYEAVVQVbe) | [The Sketches](https://open.spotify.com/artist/0OIVrDfMAAvg2ZrKI9zSHh) | [Imkaan](https://open.spotify.com/album/4EPJQbAOzXt5xikPaux07n) | 5:44 | 2023-07-17 |  |
 | [Ishq](https://open.spotify.com/track/5tR5uapspLs0aUcMggCn13) | [Stereo Nation](https://open.spotify.com/artist/4yg2tDrBwZAUD4d7eUGG0l), [Hunterz](https://open.spotify.com/artist/0G4H2fBVHbe6grWwuPH0uo) | [Taz\-Mania](https://open.spotify.com/album/7immQGrQspHHznKs4bzVu5) | 5:14 | 2023-07-17 |  |
-| [Jaanein Bachayenge](https://open.spotify.com/track/7kLrPkAcsNZ4dC3u3rTKmV) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Jaanein Bachayenge](https://open.spotify.com/album/7DViYYe72lwMseSj2HgZqk) | 6:19 | 2023-07-17 |  |
+| [Jaanein Bachayenge](https://open.spotify.com/track/7kLrPkAcsNZ4dC3u3rTKmV) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Jaanein Bachayenge](https://open.spotify.com/album/7DViYYe72lwMseSj2HgZqk) | 6:19 | 2023-07-17 | 2023-07-22 |
+| [Jaanien Bachayenge](https://open.spotify.com/track/1xYoNPDDCgZWynDNY21cxb) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Jaanien Bachayenge](https://open.spotify.com/album/7ogSX2Z8z7s2w3U429RcQH) | 6:19 | 2023-07-17 |  |
 | [Jab Se Tu Ne](https://open.spotify.com/track/1CvX80n0LXBYDtCvoN6yTk) | [Khamaaj](https://open.spotify.com/artist/0Ib6OQsc3AELl7TACor6VZ) | [Chimta](https://open.spotify.com/album/1CEcmzGqCYtpF3noQON8If) | 7:51 | 2023-07-17 |  |
 | [Kadi Ao](https://open.spotify.com/track/11SUxDP3M7FkUw2spPddYe) | [I.F.R.A](https://open.spotify.com/artist/42vsgzwTkjOqh2IrHCMLDM) | [Kadi Ao](https://open.spotify.com/album/2nEoR3ZFtQkzRZpwUfoXBS) | 3:13 | 2023-07-17 |  |
 | [Kana Yaari](https://open.spotify.com/track/7MTUN4bpk7Im3Sxz9oCULf) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9), [Eva B](https://open.spotify.com/artist/6uKDXHJSM9VI5H6FhONorO), [Wahab Bugti](https://open.spotify.com/artist/2IBpBrzMIaeeXJnzfJIVLA) | [Kana Yaari](https://open.spotify.com/album/6DRq94aOT9Ml8WhJ4PzNGT) | 3:46 | 2023-07-17 |  |

@@ -2,9 +2,9 @@
 
 ### [Rock Your Block](https://open.spotify.com/playlist/37i9dQZF1DX8jpyvTAre41)
 
-> The hottest tunes in rock\. Crank it up! Cover: YUNGBLUD
+> The hottest tunes in rock\. Crank it up! Cover: Greta Van Fleet
 
-654 songs - 1 day 13 hr 3 min
+657 songs - 1 day 13 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Bad Reputation \- Spotify Singles](https://open.spotify.com/track/6qNRJFypNpGWhUhlR13ENJ) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Spotify Singles](https://open.spotify.com/album/7fWDAcxnpxhia9dUifr81o) | 2:29 | 2022-07-01 | 2022-07-23 |
 | [Bad Things](https://open.spotify.com/track/4b3f0U8gOfJKyxB8cYdCiw) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Bad Things](https://open.spotify.com/album/5ynUGkp1zf2gs4Q1ceUhsR) | 3:48 | 2022-09-09 | 2023-07-08 |
 | [BANG BANG!](https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [BANG BANG!](https://open.spotify.com/album/4YmjnqegnwZ18ruZjdJsIH) | 2:16 | 2023-03-10 |  |
+| [Barbaric](https://open.spotify.com/track/1vDnhuoFPLK3Vgf64yO8fG) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Ballad of Darren](https://open.spotify.com/album/3DQnGjOrmXmGeShaBGz7SF) | 4:08 | 2023-07-21 |  |
 | [Beggin'](https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Chosen](https://open.spotify.com/album/2qJw6w5XwQO0PQlSWPu7Tw) | 3:31 | 2021-12-31 | 2022-03-19 |
 | [Beguiled](https://open.spotify.com/track/6rBiMyaGB1ZJQnxb01FkPG) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Beguiled](https://open.spotify.com/album/582taizXGzfl1ALsX6Busl) | 3:58 | 2022-09-23 |  |
 | [Belinda Says](https://open.spotify.com/track/6S7GTK0cOhHIHCIlT6eCcR) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Belinda Says / Very Online Guy](https://open.spotify.com/album/7J5xX8Me4vKkPxDLIMeG5q) | 2:45 | 2022-09-30 | 2022-10-08 |
@@ -249,6 +250,7 @@
 | [Honeybrains](https://open.spotify.com/track/3OtId2P71K4wGAAJk8QCIR) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Honeybrains](https://open.spotify.com/album/2UU1wWCSelmdLWr5OPlyGt) | 3:06 | 2022-03-18 | 2022-10-15 |
 | [Hope](https://open.spotify.com/track/5glQ2KQjO3HZCh7TDyegvm) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw) | 3:38 | 2022-07-01 | 2022-11-26 |
 | [Hope in Hell](https://open.spotify.com/track/2qwDT631uzIInZ24TXhpP2) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Look Alive](https://open.spotify.com/album/0DnJstuYf8Bdj6DFpdtIEy) | 4:27 | 2021-12-31 | 2022-02-05 |
+| [hot girls in hell](https://open.spotify.com/track/7vys2uYSgV5eN1QvdBw6iz) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [hot girls in hell](https://open.spotify.com/album/7Cg3eGiwQB6KVfVoEMWi8y) | 2:50 | 2023-07-21 |  |
 | [Hot Trash](https://open.spotify.com/track/0xeF71L11dLbzglIPMvvj1) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [Hot Trash](https://open.spotify.com/album/5cw2LuvYSjOIRZUBzzMRLo) | 2:46 | 2022-10-28 | 2022-12-24 |
 | [hover like a GODDESS](https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [hover like a GODDESS](https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf) | 2:23 | 2022-08-05 | 2022-10-08 |
 | [How To Live With Yourself](https://open.spotify.com/track/3bl8Ux4VCjaZTBWn4cLZIY) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [How To Live With Yourself / Smoke Screen](https://open.spotify.com/album/4kYAjbGqM71mhKgNyiVoUv) | 2:45 | 2023-06-16 |  |
@@ -357,7 +359,7 @@
 | [Meant to Be](https://open.spotify.com/track/31rivbCbEbXiRyHtQqfiED) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Meant to Be](https://open.spotify.com/album/2J8uPVOmhwfuHN2dWVb2RA) | 4:17 | 2022-11-25 | 2023-01-23 |
 | [Medusa \(Stone\)](https://open.spotify.com/track/58nauqtQ3JGC779n2FvfFC) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Dinosaur](https://open.spotify.com/album/2pvd7WBSWo76lZeufdC34a) | 3:39 | 2023-03-17 |  |
 | [Meet Me At The Riot](https://open.spotify.com/track/0NP5LPoZBL3MynRu4wr7Gc) | [Harm & Ease](https://open.spotify.com/artist/7stwxqlCn51u4VR5XVgZTE) | [Meet Me At The Riot](https://open.spotify.com/album/3NiXPd6taHn0fshOw9dIgJ) | 2:56 | 2023-02-10 |  |
-| [Meeting The Master](https://open.spotify.com/track/6RuNa2kdO6HFq7QznOfl7C) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Meeting The Master](https://open.spotify.com/album/2KDIAu0OvfsRAcjAnknNUu) | 5:12 | 2023-04-07 |  |
+| [Meeting The Master](https://open.spotify.com/track/6RuNa2kdO6HFq7QznOfl7C) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Meeting The Master](https://open.spotify.com/album/2KDIAu0OvfsRAcjAnknNUu) | 5:12 | 2023-04-07 | 2023-07-22 |
 | [Mercy](https://open.spotify.com/track/7JbONdZR1a15XAflyiFp2N) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Wilde](https://open.spotify.com/album/30aCynsQTyn8A906aoACdn) | 3:34 | 2021-12-31 | 2022-03-12 |
 | [Mercy Mercy](https://open.spotify.com/track/1ksVGMm8GlcSWFie5mYPcI) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [Mercy Mercy](https://open.spotify.com/album/6FKtvXBwTBfOTXKA7M0sEB) | 2:58 | 2023-06-09 |  |
 | [Metro](https://open.spotify.com/track/0qLy2FPIiqqkf693GGm9sC) | [The Jins](https://open.spotify.com/artist/5WvFLGeK0O8imCwfQF1j3b) | [Metro](https://open.spotify.com/album/67p9TWhnhSadOPcBEunSeZ) | 3:00 | 2022-03-25 | 2022-06-11 |
@@ -406,14 +408,14 @@
 | [Nowhere To Go](https://open.spotify.com/track/1luO7FPnPq0tlpxPoZtaKR) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Wesley Schultz](https://open.spotify.com/artist/2wi1WuV2YwenP09E5iBZjX), [Jake Clemons](https://open.spotify.com/artist/4VohCn5jhUUPDzAEESRUMJ) | [Blink Twice](https://open.spotify.com/album/2XlHq9JtWucrS9qrwMGeOF) | 3:41 | 2022-09-23 | 2022-12-17 |
 | [O\-zone](https://open.spotify.com/track/1ynjBf2AZaHlTvmzTMnJ93) | [Single Mothers](https://open.spotify.com/artist/2FW1jqwbJgwWT8hTWHgBrq) | [Everything You Need](https://open.spotify.com/album/4c00zGr7m0f7TgWUPiCfzS) | 2:54 | 2022-10-28 | 2023-01-14 |
 | [OK](https://open.spotify.com/track/5Hq77IhQwXUjySpk2D12Wy) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [OK](https://open.spotify.com/album/32oPNdyJ9msTqi8btivvPZ) | 3:53 | 2022-08-26 | 2022-09-24 |
-| [omg](https://open.spotify.com/track/4wQlMwDDOxTY91kk5B7Y77) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [omg](https://open.spotify.com/album/3EjgHtmVkvOdn2OM5vAOQm) | 2:34 | 2023-05-12 |  |
+| [omg](https://open.spotify.com/track/4wQlMwDDOxTY91kk5B7Y77) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [omg](https://open.spotify.com/album/3EjgHtmVkvOdn2OM5vAOQm) | 2:34 | 2023-05-12 | 2023-07-22 |
 | [One By One](https://open.spotify.com/track/6nMpQ1jQ5y1AvNok4PwuSa) | [Birds of Bellwoods](https://open.spotify.com/artist/3ZtRAJvBArlocyjPbm4Lvr) | [One By One](https://open.spotify.com/album/0aiVSysWw5WGJx5ufv6k9H) | 3:05 | 2022-05-27 | 2022-06-25 |
 | [One By One](https://open.spotify.com/track/1nO9qYFTq5ZkiiXnaXbBEH) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Hidden Gems](https://open.spotify.com/album/6uI7YirquMLS8hkRFgJ16B) | 4:11 | 2021-12-31 | 2022-02-05 |
 | [ONE NATION UNDERDOGS](https://open.spotify.com/track/0rlcL9H8ZJUEDQ3N0tmTZf) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 1: the blueprint](https://open.spotify.com/album/0otIBMv5zMV7ikDvfWCD3r) | 3:32 | 2023-05-26 |  |
 | [One Of A Million](https://open.spotify.com/track/129EFIQ1KrSVCPPIg1XQnj) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [One Of A Million](https://open.spotify.com/album/2RyB5I5mCKX3dic2vxyjvG) | 3:36 | 2022-09-23 | 2022-11-12 |
 | [Only Time Will Tell](https://open.spotify.com/track/6zGwq7NwBJySXdA6y6bVI5) | [Uforia](https://open.spotify.com/artist/3FQ01P0lqm7LFa4mCup8Db), [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS) | [Only Time Will Tell](https://open.spotify.com/album/5URW4Y4OIEEGUHqgigqEX2) | 3:17 | 2021-12-31 | 2022-03-05 |
 | [Otherside](https://open.spotify.com/track/7r6IKrSrxElm4CONGUhlv5) | [Ayron Jones](https://open.spotify.com/artist/1iEaqWaYpKo9x0OrEq7Q7z) | [Otherside](https://open.spotify.com/album/3jQM8I4XJIFIvQPxBX1gHy) | 3:46 | 2022-11-25 | 2023-02-25 |
-| [Ottawa Rockstar](https://open.spotify.com/track/3R6ABzln5suhxazLLOJu2G) | [WHALES•TALK](https://open.spotify.com/artist/0CqDdSmQpezWGxxjvDGzqT) | [Ottawa Rockstar](https://open.spotify.com/album/4Km0JH97S5mne9WygnBWSh) | 2:16 | 2022-10-14 |  |
+| [Ottawa Rockstar](https://open.spotify.com/track/3R6ABzln5suhxazLLOJu2G) | [WHALES•TALK](https://open.spotify.com/artist/0CqDdSmQpezWGxxjvDGzqT) | [Ottawa Rockstar](https://open.spotify.com/album/4Km0JH97S5mne9WygnBWSh) | 2:16 | 2022-10-14 | 2023-07-22 |
 | [Ouch](https://open.spotify.com/track/1X7m1zd25Xx2y8yt0FOOii) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Saskadelphia](https://open.spotify.com/album/4K4TmKxqAJLQfsIuwb7per) | 3:10 | 2021-12-31 | 2022-01-08 |
 | [Out of My Head](https://open.spotify.com/track/7LR1KXCfE7EWu02ghN6c53) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Out of My Head](https://open.spotify.com/album/0O2MDdqpibGxaUw9raccMl) | 2:54 | 2022-09-16 | 2022-10-15 |
 | [Out of My Head feat\. Aaron Gillespie](https://open.spotify.com/track/6QDS3BSyRGSaTUY4MhJUir) | [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Out of My Head feat\. Aaron Gillespie](https://open.spotify.com/album/62q3iA3E0gLSeezRa2stGU) | 2:54 | 2022-05-13 | 2022-09-22 |
@@ -556,6 +558,7 @@
 | [The Funeral](https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [The Funeral](https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW) | 3:31 | 2022-03-11 | 2022-05-14 |
 | [The Garden of Eden](https://open.spotify.com/track/2iDnZkKM40F9u9b44Y6Zc7) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [SZNZ: Spring](https://open.spotify.com/album/5dpaxVXET01VAgivwwUac6) | 3:15 | 2022-03-25 | 2022-04-16 |
 | [The Glass](https://open.spotify.com/track/26iWAXoJRiUv9yYzxYBqSv) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 3:49 | 2023-06-02 |  |
+| [The Indigo Streak](https://open.spotify.com/track/57bBIId9EiuZEMzNA54bKk) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Starcatcher](https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE) | 4:04 | 2023-07-21 |  |
 | [The King](https://open.spotify.com/track/0Uz8mMqszbxBELP66p4s94) | [The Guess Who](https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc) | [The King](https://open.spotify.com/album/3mKSUd5qmhRQJJfteYYsj6) | 5:34 | 2023-02-10 |  |
 | [The Liars Club](https://open.spotify.com/track/3cgasmbjpM2TMfsH0plAwt) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Liars Club](https://open.spotify.com/album/6wHX6aYsulKyZ4sj7gQ9se) | 3:48 | 2022-02-25 | 2022-03-05 |
 | [The Lightning II](https://open.spotify.com/track/4hgobGfWedCMII3bdualzM) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Lightning I, II](https://open.spotify.com/album/5CW1F2qtnEt9lNaRSZlbHr) | 2:34 | 2022-04-15 | 2022-05-07 |

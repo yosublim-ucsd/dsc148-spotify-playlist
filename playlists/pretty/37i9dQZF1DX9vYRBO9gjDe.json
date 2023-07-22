@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan\u306e\u30c7\u30a4\u30ea\u30fc\u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8\u30027\u670819\u65e5\u4ed8\u3002",
-  "num_followers": 279091,
+  "num_followers": 279134,
   "original_name": "Spotify Japan \u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOWQ2YzI5MzM3OWNmMDk3NmMwYjcxYTM3YzdhMTcwOTdmMDI5MjJm",
+  "snapshot_id": "MCw4MWQzZDg4YzA3MzVhMGQzYmEwMmRiZDUxMDIyMGMwNDEyOGNlY2U2",
   "tracks": [
     {
       "added_at": "2023-07-21 01:37:00",
@@ -226,6 +226,10 @@
         {
           "name": "VERNON",
           "url": "https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa"
         }
       ],
       "duration_ms": 184760,

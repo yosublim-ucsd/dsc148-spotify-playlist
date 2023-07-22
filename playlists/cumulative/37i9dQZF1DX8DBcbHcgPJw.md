@@ -2,9 +2,9 @@
 
 ### [Dame Más Cumbia](https://open.spotify.com/playlist/37i9dQZF1DX8DBcbHcgPJw)
 
-> ¡Lo mejor de la Cumbia Pop! <br/>Foto: Migrantes, Emanero, Ulises Bueno & Los Palmeras.
+> ¡Lo mejor de la Cumbia Pop! <br/>Foto: El Villano, BM & Migrantes.
 
-391 songs - 19 hr 33 min
+392 songs - 19 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Algo Tiene](https://open.spotify.com/track/1k4ldqe6XE6Q143GsBwhfc) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Un Té de Tilo por Favor](https://open.spotify.com/album/5ihX5QpiBsawYdSBzzil9i) | 3:04 | 2022-07-22 | 2022-11-12 |
 | [Algo Tiene](https://open.spotify.com/track/5L5ct7rhZeYKLkb0qJn168) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Un Té De Tilo Por Favor](https://open.spotify.com/album/7qE2hhKOnaMpBWv7XUnX4A) | 3:04 | 2021-12-23 | 2022-07-29 |
 | [Amar Pa Qué](https://open.spotify.com/track/0mCN53q934Szh0n2NGiemj) | [Dame 5](https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k) | [La Despedida \(Parte B\)](https://open.spotify.com/album/5mhTIQ7HlxyVJ4L2BSxvNP) | 2:16 | 2023-05-05 | 2023-05-20 |
+| [Amigo Remix](https://open.spotify.com/track/3J3yRkO999AgZT4LMum1Yc) | [El Villano](https://open.spotify.com/artist/6nEgkeR03q2qtKZmrVq100), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx) | [Amigo Remix](https://open.spotify.com/album/14t7REZzfSQYODT3If4Ti3) | 2:21 | 2023-07-21 |  |
 | [Amigos Con Derecho](https://open.spotify.com/track/6xqE4KsNVaBHXyVSnGOZjF) | [Los Amantes de Santa Fe](https://open.spotify.com/artist/26x7n1nOEcmcvEShGDRgQS) | [Dibujando Corazones](https://open.spotify.com/album/72uPiWO3kkkE1s8LcaxWOy) | 3:49 | 2022-01-03 | 2022-05-27 |
 | [Amigos Entre Comillas](https://open.spotify.com/track/5hTm204dhG8tTS3cOJcY2v) | [Talento de Barrio](https://open.spotify.com/artist/0HTe9EZNu88PPSaDDOPpdq), [La Comadre](https://open.spotify.com/artist/218Wn80Mgd5qjWijhMlthf) | [Amigos Entre Comillas](https://open.spotify.com/album/6edCtLJFrxm6I4EwMEvr7o) | 3:18 | 2022-02-18 | 2022-07-08 |
 | [Amor \(Ft\. Mon Laferte\) \- MTV Unplugged](https://open.spotify.com/track/1QjfU3jkGInap7Vm9lVJIQ) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Fiesta Nacional \(Mtv Unplugged\)](https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7) | 5:12 | 2021-12-23 |  |
@@ -56,7 +57,7 @@
 | [Cerca de Ti](https://open.spotify.com/track/03T8X2bJOvBg5Dm9GH52uL) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Farovi](https://open.spotify.com/artist/3xxTHOKHoKoGOVgk1xPUxq), [Jais](https://open.spotify.com/artist/330WSPEqxqYQVbsYAZcBdQ) | [Cerca de Ti](https://open.spotify.com/album/3TCHBUCjNZ8DPPXVKGMyaA) | 2:25 | 2021-12-23 | 2022-08-27 |
 | [Chau](https://open.spotify.com/track/6M8bGZtUxFo3LuUXiPGnkZ) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1), [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW) | [Chau](https://open.spotify.com/album/73AXit9w1t8uIBkMtiGHTF) | 2:25 | 2021-12-23 | 2023-05-11 |
 | [Chau al Chongo](https://open.spotify.com/track/601aUNwNuFfNqN4OtFaPi4) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Chau al Chongo](https://open.spotify.com/album/6EzFRdWE4iB2JbhoJn0ann) | 2:18 | 2021-12-23 | 2022-07-20 |
-| [Chica Brasileña](https://open.spotify.com/track/3cjnOR9smeeqVfj13XSpqS) | [El Super Hobby](https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V) | [Fuego en la Noche](https://open.spotify.com/album/3kuFkR32n0p4DEQ9LOXnmU) | 2:27 | 2022-07-22 |  |
+| [Chica Brasileña](https://open.spotify.com/track/3cjnOR9smeeqVfj13XSpqS) | [El Super Hobby](https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V) | [Fuego en la Noche](https://open.spotify.com/album/3kuFkR32n0p4DEQ9LOXnmU) | 2:27 | 2022-07-22 | 2023-07-22 |
 | [Chica Brasileña](https://open.spotify.com/track/5gwCA6eUUqFNg5VVWo2Yzo) | [El Super Hobby](https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V) | [Fuego en la Noche](https://open.spotify.com/album/0R0srt4VrapSD65tIQnTfd) | 2:27 | 2021-12-23 | 2022-07-28 |
 | [Chica Ideal](https://open.spotify.com/track/5rBR6heuIk4p5MAY82i53F) | [Maxi y La Champions Liga](https://open.spotify.com/artist/6eFCmeWnt7lHM1NYbXCZoC) | [Chica Ideal](https://open.spotify.com/album/3yVwBuFlEotDpxsVlnVcaR) | 2:39 | 2022-01-14 | 2022-06-18 |
 | [Chica Paranormal](https://open.spotify.com/track/47N0thew53GgjJNNyfzGvW) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Chica Paranormal](https://open.spotify.com/album/7gYRbpS9CTvt93lZbblY07) | 2:45 | 2022-01-03 | 2022-07-28 |

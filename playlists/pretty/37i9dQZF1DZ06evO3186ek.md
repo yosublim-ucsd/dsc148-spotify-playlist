@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 
 > This is Maverick City Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,621 likes - 50 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,687 likes - 50 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 | 49 | [Canvas & Clay \(King of My Heart\) \[feat\. DOE & Jonathan Traylor\]](https://open.spotify.com/track/6amNHx1sQVZpsuAYkNO9n4) | [Tribl](https://open.spotify.com/artist/41vLsivOowwJtkhNfEQjyV), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW), [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [Tribl Nights Anthologies](https://open.spotify.com/album/4Rf4UwK95ZWhoIg778gcEM) | 8:42 |
 | 50 | [Lean Back \(feat\. Amanda Lindsey Cook & Chandler Moore\)](https://open.spotify.com/track/4EtKV9VxLbL6wgeQjiPm4r) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [Maverick City Music, Vol\. 3: Pt\. 1](https://open.spotify.com/album/5S36YlqZz1FP7PYCgZG5pq) | 15:45 |
 
-Snapshot ID: `MjgxNjQzMDgsMDAwMDAwMDBjZWEwOWVlNTU0Mzc0YjE0Zjk1MjlmN2E0NmVmZDQ3Ng==`
+Snapshot ID: `MjgxNjU3NzcsMDAwMDAwMDA1MzU0MTVlNTVmMThjYzM4NjBiNDQ0YjE3ODYyODc2Yg==`

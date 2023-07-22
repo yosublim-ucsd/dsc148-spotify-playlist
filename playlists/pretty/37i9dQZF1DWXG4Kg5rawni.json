@@ -1,29 +1,13 @@
 {
   "description": "Amor aben\u00e7oado por Deus.",
-  "num_followers": 87754,
+  "num_followers": 87822,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMTE0ODliODljMDEyYzYzMDI1ZjI4Zjg2YTczZDU2NmEwMDE5MzUz",
+  "snapshot_id": "MCw1ODE5OWZhZDgyNGFkNjY5NDJhYzY2MGNjYWY4OTNiOTMwNDU1Mzg3",
   "tracks": [
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
-        "name": "Amo Voc\u00ea Vol. 13",
-        "url": "https://open.spotify.com/album/4gWlHYVevgt8sfoCzZZK3t"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 263174,
-      "name": "Soube que me Amava (Supe que me Amabas)",
-      "url": "https://open.spotify.com/track/5oFLARfYC6YY4lXNRqssl7"
-    },
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 280266,
       "name": "Tantos Mares",
       "url": "https://open.spotify.com/track/4vYGUUbIubTOupFsDsV4Ct"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
+        "name": "Amo Voc\u00ea Vol. 13",
+        "url": "https://open.spotify.com/album/4gWlHYVevgt8sfoCzZZK3t"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 263174,
+      "name": "Soube que me Amava (Supe que me Amabas)",
+      "url": "https://open.spotify.com/track/5oFLARfYC6YY4lXNRqssl7"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -391,6 +391,26 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
+        "name": "Presente de Deus",
+        "url": "https://open.spotify.com/album/4LwrqbJBtTPzv1b4t8Rq6W"
+      },
+      "artists": [
+        {
+          "name": "Oficina do Som",
+          "url": "https://open.spotify.com/artist/27ETia5GYLx019IIaPt5Ha"
+        },
+        {
+          "name": "Renato Vianna",
+          "url": "https://open.spotify.com/artist/0rbot8VBGRQ5ac2OQDvqd7"
+        }
+      ],
+      "duration_ms": 209020,
+      "name": "Presente de Deus",
+      "url": "https://open.spotify.com/track/4KbeQFTT9sAdu95SOsdvzS"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
         "name": "Somos Iguais (Ao Vivo)",
         "url": "https://open.spotify.com/album/671MLGdr5GnsPqhA8ffxER"
       },
@@ -439,42 +459,6 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "N\u00e3o \u00c9 Acaso",
-        "url": "https://open.spotify.com/album/2Sr4zczIoqWtM9Owc97oka"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio F4ces",
-          "url": "https://open.spotify.com/artist/7327G3ak6m2PK6Lbu9S5wS"
-        }
-      ],
-      "duration_ms": 235404,
-      "name": "N\u00e3o \u00c9 Acaso",
-      "url": "https://open.spotify.com/track/06CVeOB2XtHeexwRs3zHto"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
-        "name": "Presente de Deus",
-        "url": "https://open.spotify.com/album/4LwrqbJBtTPzv1b4t8Rq6W"
-      },
-      "artists": [
-        {
-          "name": "Oficina do Som",
-          "url": "https://open.spotify.com/artist/27ETia5GYLx019IIaPt5Ha"
-        },
-        {
-          "name": "Renato Vianna",
-          "url": "https://open.spotify.com/artist/0rbot8VBGRQ5ac2OQDvqd7"
-        }
-      ],
-      "duration_ms": 209020,
-      "name": "Presente de Deus",
-      "url": "https://open.spotify.com/track/4KbeQFTT9sAdu95SOsdvzS"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
         "name": "\u00c0 Moda Antiga",
         "url": "https://open.spotify.com/album/09VERYRPeBBYDhlDcJMDaB"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 182081,
       "name": "\u00c0 Moda Antiga",
       "url": "https://open.spotify.com/track/4B5Wm6heL2bPEPYytaEfmL"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
+        "name": "N\u00e3o \u00c9 Acaso",
+        "url": "https://open.spotify.com/album/2Sr4zczIoqWtM9Owc97oka"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio F4ces",
+          "url": "https://open.spotify.com/artist/7327G3ak6m2PK6Lbu9S5wS"
+        }
+      ],
+      "duration_ms": 235404,
+      "name": "N\u00e3o \u00c9 Acaso",
+      "url": "https://open.spotify.com/track/06CVeOB2XtHeexwRs3zHto"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -575,26 +575,6 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "O Jeito Que Voc\u00ea Me Olha",
-        "url": "https://open.spotify.com/album/3c26dSii5qXsMvfWOMlWRF"
-      },
-      "artists": [
-        {
-          "name": "Daniel L\u00fcdtke",
-          "url": "https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa"
-        },
-        {
-          "name": "Marla L\u00fcdtke",
-          "url": "https://open.spotify.com/artist/5zbO4gq0wZSAWW6LvawKDd"
-        }
-      ],
-      "duration_ms": 198067,
-      "name": "O Jeito Que Voc\u00ea Me Olha",
-      "url": "https://open.spotify.com/track/4XmKI6f9r1sZT1jYegZnoj"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
         "name": "Com Voc\u00ea",
         "url": "https://open.spotify.com/album/54ci89R6xdQfxdsQLgH1no"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 223886,
       "name": "Com Voc\u00ea",
       "url": "https://open.spotify.com/track/7dsOIrjQZbRgNg6KNWPYYJ"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
+        "name": "O Jeito Que Voc\u00ea Me Olha",
+        "url": "https://open.spotify.com/album/3c26dSii5qXsMvfWOMlWRF"
+      },
+      "artists": [
+        {
+          "name": "Daniel L\u00fcdtke",
+          "url": "https://open.spotify.com/artist/3f0bV2cF70GNSrGlv7i2Wa"
+        },
+        {
+          "name": "Marla L\u00fcdtke",
+          "url": "https://open.spotify.com/artist/5zbO4gq0wZSAWW6LvawKDd"
+        }
+      ],
+      "duration_ms": 198067,
+      "name": "O Jeito Que Voc\u00ea Me Olha",
+      "url": "https://open.spotify.com/track/4XmKI6f9r1sZT1jYegZnoj"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
+        "name": "Apenas uma Can\u00e7\u00e3o de Amor",
+        "url": "https://open.spotify.com/album/6drM0a7cZeD4fFLWYjoep1"
+      },
+      "artists": [
+        {
+          "name": "Rosa de Saron",
+          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
+        }
+      ],
+      "duration_ms": 268541,
+      "name": "Apenas uma Can\u00e7\u00e3o de Amor",
+      "url": "https://open.spotify.com/track/53p5UrtAFv6MOmdjzlij6m"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
         "name": "do avesso",
         "url": "https://open.spotify.com/album/0HBYVOvWRPtTTmb08FrRLu"
       },
@@ -735,22 +751,6 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "Apenas uma Can\u00e7\u00e3o de Amor",
-        "url": "https://open.spotify.com/album/6drM0a7cZeD4fFLWYjoep1"
-      },
-      "artists": [
-        {
-          "name": "Rosa de Saron",
-          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
-        }
-      ],
-      "duration_ms": 268541,
-      "name": "Apenas uma Can\u00e7\u00e3o de Amor",
-      "url": "https://open.spotify.com/track/53p5UrtAFv6MOmdjzlij6m"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
         "name": "Amo Voc\u00ea Vol. 6",
         "url": "https://open.spotify.com/album/3v5Geo1sU3EbNrecHH8aYE"
       },
@@ -763,6 +763,22 @@
       "duration_ms": 255187,
       "name": "Por Toda Vida",
       "url": "https://open.spotify.com/track/5UY0gdOjr8lRMUCqSCpsi9"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
+        "name": "Deus Me Deu Voc\u00ea",
+        "url": "https://open.spotify.com/album/27QzsDGSDFsnEQMqf6CyOl"
+      },
+      "artists": [
+        {
+          "name": "Thiago e J\u00e9ssica",
+          "url": "https://open.spotify.com/artist/47Avc96OLqdMeyZldOlIhF"
+        }
+      ],
+      "duration_ms": 263213,
+      "name": "Deus Me Deu Voc\u00ea",
+      "url": "https://open.spotify.com/track/2UfgNRxseC9S9Hmf8sW7tm"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -783,22 +799,6 @@
       "duration_ms": 246444,
       "name": "Onde Est\u00e1 Voc\u00ea",
       "url": "https://open.spotify.com/track/0bk0A00Y3pw4u0oQPpkrQL"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
-        "name": "Deus Me Deu Voc\u00ea",
-        "url": "https://open.spotify.com/album/27QzsDGSDFsnEQMqf6CyOl"
-      },
-      "artists": [
-        {
-          "name": "Thiago e J\u00e9ssica",
-          "url": "https://open.spotify.com/artist/47Avc96OLqdMeyZldOlIhF"
-        }
-      ],
-      "duration_ms": 263213,
-      "name": "Deus Me Deu Voc\u00ea",
-      "url": "https://open.spotify.com/track/2UfgNRxseC9S9Hmf8sW7tm"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -867,22 +867,6 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "Florescer",
-        "url": "https://open.spotify.com/album/4mnmZ8vTDecixJuGcUbhUI"
-      },
-      "artists": [
-        {
-          "name": "Pamela",
-          "url": "https://open.spotify.com/artist/2utzgF5vzJfGqZPHBGFtrG"
-        }
-      ],
-      "duration_ms": 296286,
-      "name": "Florescer",
-      "url": "https://open.spotify.com/track/63dnEh5jxM49lNHRRgvxOG"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
         "name": "Fernanda Brum - Falando de Amor",
         "url": "https://open.spotify.com/album/3FKNtBneKWOHMAr7GyuPeE"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 351735,
       "name": "Amar Voc\u00ea",
       "url": "https://open.spotify.com/track/1H9K7yHUop3Y1W9u2Df9ke"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
+        "name": "Florescer",
+        "url": "https://open.spotify.com/album/4mnmZ8vTDecixJuGcUbhUI"
+      },
+      "artists": [
+        {
+          "name": "Pamela",
+          "url": "https://open.spotify.com/artist/2utzgF5vzJfGqZPHBGFtrG"
+        }
+      ],
+      "duration_ms": 296286,
+      "name": "Florescer",
+      "url": "https://open.spotify.com/track/63dnEh5jxM49lNHRRgvxOG"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
+        "name": "N\u00f3s",
+        "url": "https://open.spotify.com/album/2YzYffMkuUaJfpcV0MrAu7"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Bulian",
+          "url": "https://open.spotify.com/artist/5eihOAXqmEGCMspHHPSIa0"
+        }
+      ],
+      "duration_ms": 174926,
+      "name": "N\u00f3s",
+      "url": "https://open.spotify.com/track/1qtrPeMQzHn3XZiCEQBYTC"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
         "name": "Amo Voc\u00ea Vol. 21",
         "url": "https://open.spotify.com/album/2qLkUabUou3EiP9wsV4vrj"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 303206,
       "name": "Bem Maior Que o C\u00e9u",
       "url": "https://open.spotify.com/track/06XuWs8tYpf4Onbw48FF0u"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
-        "name": "Meu Bem",
-        "url": "https://open.spotify.com/album/7tAd298Bqlq5r9WQ6tq8F2"
-      },
-      "artists": [
-        {
-          "name": "Vanderson Santos",
-          "url": "https://open.spotify.com/artist/0qmGMjtYTEdwGXCiMO9uXM"
-        }
-      ],
-      "duration_ms": 127093,
-      "name": "Meu Bem",
-      "url": "https://open.spotify.com/track/5EmqOgQm6OD97oxkUGJOsA"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -963,6 +963,22 @@
       "duration_ms": 285544,
       "name": "Amar pra Sempre",
       "url": "https://open.spotify.com/track/5QzEmPJCu2MSyaR5OpjVqr"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
+        "name": "Meu Bem",
+        "url": "https://open.spotify.com/album/7tAd298Bqlq5r9WQ6tq8F2"
+      },
+      "artists": [
+        {
+          "name": "Vanderson Santos",
+          "url": "https://open.spotify.com/artist/0qmGMjtYTEdwGXCiMO9uXM"
+        }
+      ],
+      "duration_ms": 127093,
+      "name": "Meu Bem",
+      "url": "https://open.spotify.com/track/5EmqOgQm6OD97oxkUGJOsA"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -1027,22 +1043,6 @@
       "duration_ms": 227855,
       "name": "Por Favor",
       "url": "https://open.spotify.com/track/0DEV0GiQpOWptidS9t7WNY"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
-        "name": "N\u00f3s",
-        "url": "https://open.spotify.com/album/2YzYffMkuUaJfpcV0MrAu7"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Bulian",
-          "url": "https://open.spotify.com/artist/5eihOAXqmEGCMspHHPSIa0"
-        }
-      ],
-      "duration_ms": 174926,
-      "name": "N\u00f3s",
-      "url": "https://open.spotify.com/track/1qtrPeMQzHn3XZiCEQBYTC"
     },
     {
       "added_at": "2023-07-14 16:56:11",

@@ -4,7 +4,7 @@
 
 > Instrumental guitar shreddery\. Cover: Angel Vivaldi
 
-124 songs - 9 hr 21 min
+125 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Sedosa](https://open.spotify.com/track/4hqhLISxsGGBRosF4v46pO) | [Mestís](https://open.spotify.com/artist/3adhzSHzVWN1ICfxIqO9Cn) | [Eikasia](https://open.spotify.com/album/7Io8ELXFbB4KmyuOD3cUzL) | 3:45 | 2021-05-04 | 2022-11-05 |
 | [Sedosa](https://open.spotify.com/track/7CTV76FQ3TA6vHmwjvkblf) | [Mestís](https://open.spotify.com/artist/3adhzSHzVWN1ICfxIqO9Cn) | [Eikasia](https://open.spotify.com/album/0ihSg4rBDSE9aSJbsTrU7z) | 3:45 | 2021-05-04 |  |
 | [shibuya \(feat\. San Holo\)](https://open.spotify.com/track/7BsPyswBtiM1PbPnUnuNzE) | [Covet](https://open.spotify.com/artist/46iJ1VD4HKFnqjISGqlZkV), [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [effloresce](https://open.spotify.com/album/1vvBlvKIqeQDPJbDkt0Xny) | 5:45 | 2021-05-04 |  |
+| [Silkroad](https://open.spotify.com/track/6EZ4V32DQZ7V7hRUwBVb7u) | [Matteo Mancuso](https://open.spotify.com/artist/4EEBpppjtPFQYlmXoZu8z1) | [The Journey](https://open.spotify.com/album/6QJNcXUow95qKDvfg1byG2) | 4:33 | 2023-07-21 |  |
 | [SkyBluePink](https://open.spotify.com/track/7epiIQqEvELiXG9YOG5Nj6) | [Jack Gardiner](https://open.spotify.com/artist/68xIMmJbS8ic51vrpfxkSo), [Owane](https://open.spotify.com/artist/2LkMP01m9PIf5r87iC0HI2) | [SkyBluePink](https://open.spotify.com/album/4300q4yRsvBxrZlr64K42v) | 5:25 | 2022-10-11 |  |
 | [Slam](https://open.spotify.com/track/5ur2JO683Tt1D3hPttMQ0d) | [Vinnie Moore](https://open.spotify.com/artist/2plmfvGgldxCpZF0vLt3o4) | [Aerial Visions](https://open.spotify.com/album/4YqnydxjrIqxytqlHXCyxJ) | 4:37 | 2021-05-04 |  |
 | [Soundtrack Life](https://open.spotify.com/track/7E6VxeL3kzU330AA11FhqE) | [Eric Johnson](https://open.spotify.com/artist/4CxobvwTpmfpIEbkYh4pAb) | [Soundtrack Life / Yesterday Meets Today](https://open.spotify.com/album/2kipIDLTDxSHWM7MC6MqUx) | 4:19 | 2022-07-29 |  |

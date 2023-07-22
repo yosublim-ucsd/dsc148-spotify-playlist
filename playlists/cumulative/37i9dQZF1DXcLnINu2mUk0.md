@@ -4,7 +4,7 @@
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Ivandro e Julinho Ksd.
 
-377 songs - 20 hr 35 min
+378 songs - 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Acabou](https://open.spotify.com/track/5SEOGckgCJWuW8WDU5qErN) | [MEGGY](https://open.spotify.com/artist/0m73zM9yC3JpNhZzlX0LKd), [Joy Jnr](https://open.spotify.com/artist/3xVHVIM2m0H7iUBrjsthJt) | [Acabou](https://open.spotify.com/album/2RuAdyanGxaf5nqKzEBykr) | 3:32 | 2023-01-27 | 2023-02-17 |
 | [Acalma a Alma](https://open.spotify.com/track/0iflJ9xdeYbwgDwzx6PqUW) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [ICECOLD](https://open.spotify.com/artist/4mTL2TNg4TC25I9eihYJY6) | [Acalma a Alma](https://open.spotify.com/album/4LtGjHnhhSqKbPQsD6sXDB) | 2:40 | 2023-01-20 | 2023-02-10 |
 | [Afrodite](https://open.spotify.com/track/2LGTy30DW5wJCgb5Pe8l4e) | [M.E.L.](https://open.spotify.com/artist/5TytmV5wOLkMz6rSdCuNDi) | [Vénus](https://open.spotify.com/album/0AjthOqi7OncysYtbw1eUd) | 3:22 | 2022-12-02 | 2022-12-13 |
+| [After Hours](https://open.spotify.com/track/4orKcwZBZMdGXrNxilo8Jt) | [TAY](https://open.spotify.com/artist/1ZJx1mKaG5qDGe1kvpbSMu), [Chelsea Dinorath](https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp) | [After Hours](https://open.spotify.com/album/0pn34Jy1gpmSxndfxRgk2W) | 3:10 | 2023-07-20 |  |
 | [AGORA NAW](https://open.spotify.com/track/6fvEKv2cUPOGkhEgrfUZtc) | [James dos Reis](https://open.spotify.com/artist/3t2APdbwougwRoiC0Vb3PF), [9 Miller](https://open.spotify.com/artist/4yqP75Gm0jSMIS1gQ7s6lX) | [AGORA NAW](https://open.spotify.com/album/26cFeiHhHMIUHAaOohOjNx) | 2:55 | 2023-01-20 | 2023-02-10 |
 | [Aguardent](https://open.spotify.com/track/4B0JlP1HWrPFcmidHLVEB9) | [Jay Yo](https://open.spotify.com/artist/1wH7vQKdmZtKSI4r1YF33A), [Pucci Jr](https://open.spotify.com/artist/5frmw57upraPDcl8cEtISs) | [Aguardent](https://open.spotify.com/album/1bnfGUqWM2rUSUMnxCDBY1) | 3:28 | 2022-09-01 | 2022-09-23 |
 | [AHORA](https://open.spotify.com/track/5o7ZLRlTl9LuUzQvzDFJLU) | [La Dianna](https://open.spotify.com/artist/3Kh3D2QUAQUreGlBnyF7UD), [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO) | [AHORA](https://open.spotify.com/album/3rslRwi4PXo3aamFuHgaa2) | 3:08 | 2023-03-30 | 2023-04-21 |
@@ -222,7 +223,7 @@
 | [Moça](https://open.spotify.com/track/57rx7d5tagl2wOWzj3eWJc) | [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Moça](https://open.spotify.com/album/4FLzhhnUwKwZHLGSTaX4vz) | 3:00 | 2022-07-07 |  |
 | [Mulata](https://open.spotify.com/track/3CkDBgPMjBmNfBLbFSEXZq) | [MTR](https://open.spotify.com/artist/6rZXI4D21z8wF4zacGg4P2) | [Mulata](https://open.spotify.com/album/5r5xWUDtPtW8BSxndYvPnN) | 2:13 | 2022-09-16 | 2022-10-07 |
 | [Mumentu](https://open.spotify.com/track/4JqmkeOi1wxgwlEi6uWUwJ) | [Sara Tavares](https://open.spotify.com/artist/57zZoaRDFEjqRwq6FlT0va) | [Mumentu](https://open.spotify.com/album/6hzMAoYaLubJFu3NOWQKX6) | 2:59 | 2023-04-27 | 2023-05-26 |
-| [Musa](https://open.spotify.com/track/5bNmKRaW9AISMPNeDoz0B3) | [GBrïsido](https://open.spotify.com/artist/3QmMiG6180GqdDrl35xqRy) | [Musa](https://open.spotify.com/album/3LP4aTOzSQ1ZVVVZ7hV7ck) | 3:32 | 2023-07-20 |  |
+| [Musa](https://open.spotify.com/track/5bNmKRaW9AISMPNeDoz0B3) | [GBrïsido](https://open.spotify.com/artist/3QmMiG6180GqdDrl35xqRy) | [Musa](https://open.spotify.com/album/3LP4aTOzSQ1ZVVVZ7hV7ck) | 3:32 | 2023-07-20 | 2023-07-22 |
 | [My Boo](https://open.spotify.com/track/7oykBwi0pFz0MdeuAVod3W) | [Atim](https://open.spotify.com/artist/6iFLWK7YxKQc9r5WPdoyJr) | [My Boo](https://open.spotify.com/album/5tqOg08UvlOlGKuCGXe3Q7) | 2:34 | 2022-07-07 | 2022-08-19 |
 | [N'ta Amau](https://open.spotify.com/track/2dQeZjABhYmAHOf8hoa3dr) | [Psyco Pdz](https://open.spotify.com/artist/4lEJQE8znF91LHaCVhm6ZX) | [N'ta Amau](https://open.spotify.com/album/7ClEhkAX46ygzQGE3VuSWU) | 3:36 | 2022-11-25 | 2022-12-24 |
 | [N1](https://open.spotify.com/track/6NWvgOPF96sNwpxFFtfmBw) | [dage](https://open.spotify.com/artist/4ZgkbVvHRYZFf1Np6Y0c3k) | [N1](https://open.spotify.com/album/0gcu1JxZaiOUAIqThGPoGN) | 3:51 | 2023-06-29 | 2023-07-14 |

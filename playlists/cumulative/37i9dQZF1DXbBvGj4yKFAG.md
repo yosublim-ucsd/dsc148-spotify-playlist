@@ -4,7 +4,7 @@
 
 > may include sad indie rock songs.
 
-185 songs - 9 hr 58 min
+186 songs - 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [fine](https://open.spotify.com/track/7whMBp15emD4yuMLMTazmA) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [fine](https://open.spotify.com/album/6DnW8qL9nSPpOeYOYlyluz) | 3:52 | 2023-02-09 |  |
 | [fingers through my hair](https://open.spotify.com/track/0IGi3VQhmYaDquo4VlSZpx) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [fingers through my hair](https://open.spotify.com/album/4n1BftyPbar1dDf8sAI4VV) | 2:20 | 2023-04-11 | 2023-06-03 |
 | [Flimsier](https://open.spotify.com/track/2iVOSO9Q5lXStX7z57ImCI) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Flimsier](https://open.spotify.com/album/4zIogDwuESlSj3lUbgJ7CN) | 3:59 | 2023-06-30 |  |
-| [Fred's Song](https://open.spotify.com/track/51KrVzQJbfPkvRlOI6h6W7) | [rozey](https://open.spotify.com/artist/3E9pQ5ZXk00U6T8wDdxp7Y) | [Fred's Song](https://open.spotify.com/album/29nLxhZ6zE3HwD9WpIlYx2) | 2:52 | 2023-04-11 |  |
+| [Fred's Song](https://open.spotify.com/track/51KrVzQJbfPkvRlOI6h6W7) | [lil rozey](https://open.spotify.com/artist/20fOKcudXS3Yyl6ifwXf2u) | [Fred's Song](https://open.spotify.com/album/29nLxhZ6zE3HwD9WpIlYx2) | 2:52 | 2023-04-11 |  |
 | [free](https://open.spotify.com/track/7bVTZawHTGmJo2dVJ6y65a) | [vinnie](https://open.spotify.com/artist/49gybyXyHSReIroJ8CpriJ) | [free](https://open.spotify.com/album/7hR2rKt5IBVMhecfhJqI9z) | 1:50 | 2023-03-07 |  |
 | [get out](https://open.spotify.com/track/2bmYyUBGyxpnlXju3sBPys) | [Hysterla](https://open.spotify.com/artist/0G3bBeMDThPyX9dvj3Zy0X) | [There Is No Empty Space](https://open.spotify.com/album/5jvip1TnDykAUQy8ZYILGv) | 3:19 | 2023-04-11 | 2023-06-14 |
 | [Great Big Warm House](https://open.spotify.com/track/6fa26PelzveVeTbCM0YysH) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [Great Big Warm House](https://open.spotify.com/album/4LVIvUvR4C6by4BpvurDTm) | 2:22 | 2023-06-30 |  |
@@ -73,6 +73,7 @@
 | [High](https://open.spotify.com/track/3GaamyFHQYbQi1ykc4nV4o) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Big Day](https://open.spotify.com/album/40cS75mUmnhW7W4L1ZCBLj) | 2:32 | 2023-02-09 | 2023-05-17 |
 | [Hole in My Pocket](https://open.spotify.com/track/3m9RcdyMk4KoppIdAYUo46) | [Purple Tears](https://open.spotify.com/artist/6rlWf1GiPgR0mfeFbJzoJi) | [Hole in My Pocket](https://open.spotify.com/album/0RWp78xmyuPx9gLClAHpBP) | 3:38 | 2023-04-21 |  |
 | [hospital](https://open.spotify.com/track/4UzvLVnjwss4kBEMljLSNn) | [ellis](https://open.spotify.com/artist/7EQmY1hAAeuJLa0GUNpKNN) | [hospital](https://open.spotify.com/album/6RTOmRu8hQDjJI5AbEtawL) | 2:35 | 2023-04-11 | 2023-05-17 |
+| [House Pool](https://open.spotify.com/track/6QFI20wP9keC7LVLaxEKtC) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT), [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [How Do You Let the Love Into the Heart That Isn't Split Wide Open](https://open.spotify.com/album/5yM0zyGfTHxcBxSUdO1z5H) | 3:26 | 2023-07-21 |  |
 | [How To Never Stop Being Sad](https://open.spotify.com/track/6ZLt6fyonW1xOGMBC9vJPJ) | [dandelion hands](https://open.spotify.com/artist/6mOWFF6HJ6krnIpW0CHLQm) | [It's All In Your Head](https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR) | 2:10 | 2023-02-09 |  |
 | [I cant commit to anything](https://open.spotify.com/track/1yrqu7y4N2e3Ov8ZKjdjVY) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [I cant commit to anything](https://open.spotify.com/album/0rkcrSCvRTjm89O9PfUzvN) | 1:42 | 2023-02-17 | 2023-05-17 |
 | [i heard they found you face down inside your living room](https://open.spotify.com/track/0GBmIoWGlCsBghx7mOE0Ll) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [i heard they found you face down inside your living room](https://open.spotify.com/album/69bjMy1M1LF1IeLraUUY5q) | 3:11 | 2023-02-09 |  |
@@ -106,7 +107,7 @@
 | [Like You Do](https://open.spotify.com/track/6bpWedLJqI8q0xMqJT88HP) | [Lennie Rayen](https://open.spotify.com/artist/38C8DlknCTvXM8D1hSCjBP) | [Like You Do](https://open.spotify.com/album/1qtek4ncBDO5HYjOrbUTbX) | 3:55 | 2023-04-11 | 2023-06-03 |
 | [Love Letters](https://open.spotify.com/track/2p1kB54xX8sS5UWuyqTMT4) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5) | [Love Letters](https://open.spotify.com/album/69pCjNxYsuiwgnLIBxVTep) | 3:16 | 2023-04-14 | 2023-06-06 |
 | [Lovers From The Past](https://open.spotify.com/track/29P3bJSzsI5fUvwxSItkvr) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [Lovers From The Past](https://open.spotify.com/album/5ACGaSKEybDGrdthNiGCfY) | 3:19 | 2023-03-16 | 2023-05-17 |
-| [lust](https://open.spotify.com/track/4Glfjo6o4dPmRLRi5HKYdf) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [liminal spaces](https://open.spotify.com/album/7KFoizTd1KGrJQBqFS58Z8) | 2:05 | 2023-04-11 |  |
+| [lust](https://open.spotify.com/track/4Glfjo6o4dPmRLRi5HKYdf) | [zzzahara](https://open.spotify.com/artist/26j38hvhD7PjC0a4EqdaSn) | [liminal spaces](https://open.spotify.com/album/7KFoizTd1KGrJQBqFS58Z8) | 2:05 | 2023-04-11 | 2023-07-22 |
 | [mean creek.](https://open.spotify.com/track/00AM3zuuier3pzRI0dFhSO) | [Cottonwood Firing Squad](https://open.spotify.com/artist/2bmhdBR4FyCbRIBSFoLTuE) | [Elizabethtown.](https://open.spotify.com/album/7epCR4GKjfqGTuKZMyhtid) | 2:16 | 2023-05-12 |  |
 | [Mercy](https://open.spotify.com/track/5vWAgdYgGN5WXzKvfNwx2E) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Mercy](https://open.spotify.com/album/6bLQpivQqQcSn5ACBdliRP) | 2:59 | 2023-02-09 | 2023-05-17 |
 | [Million Dollar Song](https://open.spotify.com/track/1iqpKs6dgT2zIiP0GbVo6b) | [VELVETEARS](https://open.spotify.com/artist/76uBpZUqkDljACPBsu2klS) | [Million Dollar Song](https://open.spotify.com/album/6wNVEZIRbIR8PwWsaafK0w) | 3:46 | 2023-04-11 |  |
@@ -136,7 +137,7 @@
 | [Revolution 0](https://open.spotify.com/track/0FUGzUqkqRktGBvIeM3p2X) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 4:17 | 2023-03-31 |  |
 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 | 2023-02-09 | 2023-04-12 |
 | [run it back](https://open.spotify.com/track/5Wcc3fBgp1vjBmbxhHEXCR) | [Dino Gala](https://open.spotify.com/artist/3ILm3k5SKzJCaaTJ4yEw0y) | [Run it Back / Fire Escape](https://open.spotify.com/album/5oan6nmdsscfxfmk7nmhr8) | 4:18 | 2023-02-09 |  |
-| [Scaredy's World](https://open.spotify.com/track/3XOOdbkx0q2rjUxAPziH8S) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4), [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY) | [Scaredy's World](https://open.spotify.com/album/1IsvZYiU5FCpg4fDecerIX) | 2:31 | 2023-03-03 |  |
+| [Scaredy's World](https://open.spotify.com/track/3XOOdbkx0q2rjUxAPziH8S) | [Lomelda](https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4), [More Eaze](https://open.spotify.com/artist/0noDJa3OSog9g1jqw5VygY) | [Scaredy's World](https://open.spotify.com/album/1IsvZYiU5FCpg4fDecerIX) | 2:31 | 2023-03-03 | 2023-07-22 |
 | [Secret](https://open.spotify.com/track/3qPZlJAvV95TnC4kFgTvnA) | [waveform\*](https://open.spotify.com/artist/6g12mLVmai580Y6SQnGjcd) | [Sckrpnch](https://open.spotify.com/album/46PCqFYcWdnQgra1P6Y7oz) | 1:41 | 2023-02-09 | 2023-05-17 |
 | [See Through](https://open.spotify.com/track/6qxeTdWUB0dAvv2Gp2Qdy9) | [Bedlocked](https://open.spotify.com/artist/7wgq6QJrXri0Mn31MCZmnt) | [Bedlocked](https://open.spotify.com/album/7A0OdpSoqCpNMX8SbzbKKO) | 3:09 | 2023-04-11 |  |
 | [Self Fulfilling Prophecy](https://open.spotify.com/track/5EKyAgoER5Y9iIghmr7Ivm) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Makes Me Sick Makes Me Smile](https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx) | 3:49 | 2023-02-09 |  |

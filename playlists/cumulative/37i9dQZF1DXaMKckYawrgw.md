@@ -2,7 +2,7 @@
 
 ### [MexSka ](https://open.spotify.com/playlist/37i9dQZF1DXaMKckYawrgw)
 
-> ¡Ska 100% Mexicano, círculos de paz y baile! Inspector en portada.
+> ¡Ska 100% Mexicano, círculos de paz y baile! Out Of Control Army en portada.
 
 176 songs - 10 hr 37 min
 

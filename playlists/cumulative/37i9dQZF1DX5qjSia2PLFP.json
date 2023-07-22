@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "New music breaking waves.  Cover:  <a href=\"https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA?si=b865adea41ab4b5d\">July 7</a>",
+  "description": "New music breaking waves.  Cover:  <a href=\"https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz?si=raMzSXk0SMWOC-AlqP-eMg\">Amaal Nuux</a>",
   "name": "Ripple Effect",
   "tracks": [
     {
@@ -96,6 +96,32 @@
       "duration_ms": 156055,
       "name": "1722",
       "url": "https://open.spotify.com/track/3LZ4y6jNGLW5PiSxxqmWSI"
+    },
+    {
+      "album": {
+        "name": "... And I'm A Church Kid",
+        "url": "https://open.spotify.com/album/6AcrPSc1byA4YOAUzI7ssX"
+      },
+      "artists": [
+        {
+          "name": "Crook Brown",
+          "url": "https://open.spotify.com/artist/2gPnIquy3p7SSbW0rRwDdX"
+        },
+        {
+          "name": "Free Party",
+          "url": "https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed"
+        },
+        {
+          "name": "Tre' Amani",
+          "url": "https://open.spotify.com/artist/48Py72qV4J4hzvJXXRDNz0"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295813,
+      "name": "1amNOakland",
+      "url": "https://open.spotify.com/track/6dj2sQDRoWEo6cEmMvgENV"
     },
     {
       "album": {
@@ -248,7 +274,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 170701,
       "name": "Ain't On None (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/6tdIXKADoiJMTG5buEqxp3"
@@ -964,7 +990,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 141649,
       "name": "CASINO",
       "url": "https://open.spotify.com/track/1YdKiPqNZCZ2bgwy1kPKvo"
@@ -1066,7 +1092,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 162056,
       "name": "Check",
       "url": "https://open.spotify.com/track/17LsSRsnpOJ5910GtSixaC"
@@ -1106,6 +1132,24 @@
       "duration_ms": 126000,
       "name": "Clickbait (FlauMixx)",
       "url": "https://open.spotify.com/track/3jTEDbYsZPI5ZXuuI4sai8"
+    },
+    {
+      "album": {
+        "name": "close to you",
+        "url": "https://open.spotify.com/album/7HR40txWDxULClDzuddcLw"
+      },
+      "artists": [
+        {
+          "name": "Helen",
+          "url": "https://open.spotify.com/artist/0dKF6Q9Wz7Y3PKSNyaFpkM"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166315,
+      "name": "close to you",
+      "url": "https://open.spotify.com/track/1fPsmQlbaXMkMwCeKm07hb"
     },
     {
       "album": {
@@ -1838,7 +1882,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 129306,
       "name": "DROPPING 4s",
       "url": "https://open.spotify.com/track/51G1Db6j2UUiil1DzkPP9U"
@@ -2081,6 +2125,42 @@
     },
     {
       "album": {
+        "name": "Famous (Lost to LA)",
+        "url": "https://open.spotify.com/album/7j0IT1ckuBJcBT01axVkNA"
+      },
+      "artists": [
+        {
+          "name": "RAAHiiM",
+          "url": "https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154847,
+      "name": "Famous (Lost to LA)",
+      "url": "https://open.spotify.com/track/1wE6Shwlye4gEdUaq6Cg3H"
+    },
+    {
+      "album": {
+        "name": "Fast Route",
+        "url": "https://open.spotify.com/album/2pBXTzlMiG0H7o4koiswWy"
+      },
+      "artists": [
+        {
+          "name": "Smiley",
+          "url": "https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "Fast Route",
+      "url": "https://open.spotify.com/track/5jO9sTjyQKyayUmYnobf1d"
+    },
+    {
+      "album": {
         "name": "Feel Like Pat",
         "url": "https://open.spotify.com/album/6KRXVGr4tAcUEQJe9B0hiu"
       },
@@ -2320,7 +2400,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 186080,
       "name": "fresh air",
       "url": "https://open.spotify.com/track/5cnMcrmblGaBgR6ftd1UDS"
@@ -2342,6 +2422,24 @@
       "duration_ms": 160078,
       "name": "Function",
       "url": "https://open.spotify.com/track/0DYcMa43MF2cFqNWoCkfYC"
+    },
+    {
+      "album": {
+        "name": "GD Woman",
+        "url": "https://open.spotify.com/album/03NWc0BPkbCS498UStrDdf"
+      },
+      "artists": [
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178144,
+      "name": "GD Woman",
+      "url": "https://open.spotify.com/track/3vVRD5GnlAU5hm4WH9TSpl"
     },
     {
       "album": {
@@ -2624,7 +2722,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 152062,
       "name": "Haku",
       "url": "https://open.spotify.com/track/1USaSmbCC4U80jbN7ZrqeN"
@@ -2876,7 +2974,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 120186,
       "name": "I CAN'T STAND Y'ALL",
       "url": "https://open.spotify.com/track/1Y2qbVBSXXFKmlLtANA3FG"
@@ -3797,6 +3895,24 @@
     },
     {
       "album": {
+        "name": "Miss Me Yet?",
+        "url": "https://open.spotify.com/album/5DHemqn1jvUaxUvvAQpcDG"
+      },
+      "artists": [
+        {
+          "name": "Jastin Martin",
+          "url": "https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174655,
+      "name": "Miss Me Yet?",
+      "url": "https://open.spotify.com/track/4sYHPWHkiGHRIhrC3noVDO"
+    },
+    {
+      "album": {
         "name": "Misty",
         "url": "https://open.spotify.com/album/6O8KaGtYawqKjgj5JeBKg3"
       },
@@ -3852,6 +3968,24 @@
       "duration_ms": 199029,
       "name": "My Ability",
       "url": "https://open.spotify.com/track/3nppDJiBDPiawKKuvDpE5R"
+    },
+    {
+      "album": {
+        "name": "MY FAVORITE DRUG",
+        "url": "https://open.spotify.com/album/719fKUhTNVCTKd0mhlYIR5"
+      },
+      "artists": [
+        {
+          "name": "Peter $un",
+          "url": "https://open.spotify.com/artist/7cLB1w50gSrBCzcD68UMuG"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183453,
+      "name": "MY FAVORITE DRUG",
+      "url": "https://open.spotify.com/track/52DsauCIVMK9a9lB2qXslC"
     },
     {
       "album": {
@@ -4170,7 +4304,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 139200,
       "name": "One Track Minded",
       "url": "https://open.spotify.com/track/7IA8ksXrY276otudaP7knL"
@@ -4294,7 +4428,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 230000,
       "name": "Pelicans",
       "url": "https://open.spotify.com/track/1N4BtJIjNoaEtoBMjgri7j"
@@ -5749,6 +5883,24 @@
     },
     {
       "album": {
+        "name": "The Middle",
+        "url": "https://open.spotify.com/album/6FCFmsL6xefeBO73Dyiwc1"
+      },
+      "artists": [
+        {
+          "name": "Amaal Nuux",
+          "url": "https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171506,
+      "name": "The Middle",
+      "url": "https://open.spotify.com/track/1hpwh231orYstXAUAEPwp6"
+    },
+    {
+      "album": {
         "name": "The Motto",
         "url": "https://open.spotify.com/album/0vdxQXOTw5nxaSZxad64jY"
       },
@@ -6152,7 +6304,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 182531,
       "name": "Weeks (feat. NoCap)",
       "url": "https://open.spotify.com/track/5dRKpEQl3T67smpyWGD7D4"
@@ -6174,6 +6326,54 @@
       "duration_ms": 130516,
       "name": "WEIGHT",
       "url": "https://open.spotify.com/track/4HBxL7AzSpmObNgIUR8CO9"
+    },
+    {
+      "album": {
+        "name": "Wetin No Good (Remix)",
+        "url": "https://open.spotify.com/album/0xrMCKn0ROUeUpU8XZooav"
+      },
+      "artists": [
+        {
+          "name": "Idahams",
+          "url": "https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O"
+        },
+        {
+          "name": "Eltee Skhillz",
+          "url": "https://open.spotify.com/artist/2TaztBC0I5tyAKvuFvVoTT"
+        },
+        {
+          "name": "DanDizzy",
+          "url": "https://open.spotify.com/artist/6xXPMuWSjIYafdBhXLpVZK"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178254,
+      "name": "Wetin No Good (Remix)",
+      "url": "https://open.spotify.com/track/4i7WFJtcQYZEY2gIqz6pBN"
+    },
+    {
+      "album": {
+        "name": "What You Done",
+        "url": "https://open.spotify.com/album/1Ov1O2B3CeuAmHhFG5f0yL"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        },
+        {
+          "name": "Keys N Krates",
+          "url": "https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174048,
+      "name": "What You Done",
+      "url": "https://open.spotify.com/track/5IouffaYEX67BICjTSCckE"
     },
     {
       "album": {
@@ -6242,7 +6442,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 164142,
       "name": "Why Not?",
       "url": "https://open.spotify.com/track/51e4HhSFWl3YZxsPTIfEJ4"

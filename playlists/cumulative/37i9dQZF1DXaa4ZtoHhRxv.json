@@ -1375,6 +1375,28 @@
     },
     {
       "album": {
+        "name": "Heaven (Dave Aude Remix)",
+        "url": "https://open.spotify.com/album/0SLBKFvRLyxwc3BcKydJl7"
+      },
+      "artists": [
+        {
+          "name": "Madeline Consoer",
+          "url": "https://open.spotify.com/artist/1bw2RHxmR0mo75zcrlarDo"
+        },
+        {
+          "name": "Dave Aud\u00e9",
+          "url": "https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202222,
+      "name": "Heaven - Dave Aude Remix",
+      "url": "https://open.spotify.com/track/4MbmEDpOLuxWlM1wmhiGAr"
+    },
+    {
+      "album": {
         "name": "True",
         "url": "https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0"
       },

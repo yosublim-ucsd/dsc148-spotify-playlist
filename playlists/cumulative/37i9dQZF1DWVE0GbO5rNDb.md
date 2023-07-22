@@ -4,7 +4,7 @@
 
 > Hit dance per l'estate 2023! ☀️🍹🏝️
 
-312 songs - 15 hr 22 min
+313 songs - 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Call On Me](https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Call On Me](https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy) | 3:14 | 2022-05-06 | 2023-05-23 |
 | [Can't Forget You](https://open.spotify.com/track/726GMkrLFseCdHebF8LdVU) | [Briron Gauri](https://open.spotify.com/artist/2Aydybx286zfOnz7DQXw7N), [Estie](https://open.spotify.com/artist/6wWfHA1CxWIjDRF4FOFb5o), [Able Faces](https://open.spotify.com/artist/7nL523vzwv24ad0oFf2VZ2) | [Can't Forget You](https://open.spotify.com/album/2lRF3otwcBQFr4EfJRLp2C) | 2:46 | 2022-05-06 | 2022-07-21 |
 | [Can't Get Away from You](https://open.spotify.com/track/0s4Y8phoPkgGpDe6nFSMyA) | [Tullio](https://open.spotify.com/artist/3LbMrfAq8YnMksyS3H5zWD), [Vide](https://open.spotify.com/artist/33DYTSjYcxK2DzjeK7w539) | [Can't Get Away from You](https://open.spotify.com/album/2DJrh6OXykMToIEHrvQrjH) | 2:53 | 2022-05-17 | 2022-07-01 |
+| [Candela](https://open.spotify.com/track/0WR1IwdoZvOe9eyvIiOsxN) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5), [TECHOLOGY](https://open.spotify.com/artist/21EyWBa08Y6OXjA6s8GR8s) | [Candela](https://open.spotify.com/album/06Sv0nfkDslR2zt14sArMZ) | 2:08 | 2023-07-14 |  |
 | [Capital Letters](https://open.spotify.com/track/6l0Ky2PycJV1Bz88kFeVGL) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [BloodPop®](https://open.spotify.com/artist/1okJ4NC308qbtY9LyHn6DO) | [Fifty Shades Freed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) | 3:39 | 2022-07-29 | 2023-03-18 |
 | [Car Keys \(Ayla\)](https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Car Keys \(Ayla\)](https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs) | 2:27 | 2023-06-30 |  |
 | [Castles](https://open.spotify.com/track/3QdzpmSbCNb8zh98lnUeXE) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [World's First Cinema](https://open.spotify.com/artist/4twMMV3DuDCtmSUosQeWPF) | [Castles](https://open.spotify.com/album/3BSnLCAE4SOZkMFiy10Rik) | 3:35 | 2022-12-20 | 2023-03-18 |
@@ -317,7 +318,7 @@
 | [You & Me](https://open.spotify.com/track/1bQhZOoXYqjXs7u7rFXo0h) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Chapters](https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP) | 3:51 | 2022-07-22 | 2023-05-05 |
 | [You Got The Love](https://open.spotify.com/track/1O3Jlr6ksM6meUe1atDAxY) | [Never Sleeps](https://open.spotify.com/artist/7BUaQCq7sFUMJqkWPqApXE), [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Chico Rose](https://open.spotify.com/artist/5OdVywqKqyCWwfE2fZb7IX) | [You Got The Love](https://open.spotify.com/album/2kNfpqN1fT9lRc1cYuAhWt) | 3:16 | 2022-05-06 | 2022-07-29 |
 | [You Know What It's Like](https://open.spotify.com/track/1jqyP5eKuD8fXaul1O48fS) | [Salasnich](https://open.spotify.com/artist/3AGYevFLXCIrY67MwyAjW2), [PY & Mastro Sally](https://open.spotify.com/artist/3bLhyqwZHFxRw0XEwxYegk), [Rhett Fisher](https://open.spotify.com/artist/0Uc7yCZJgJilU0md9yyhhA) | [You Know What It's Like](https://open.spotify.com/album/6coKVCHfojJKubtxa57OYA) | 2:31 | 2022-06-17 | 2022-09-24 |
-| [You Were Loved \(with OneRepublic\)](https://open.spotify.com/track/4W1JavoraGzh83nluQHY6C) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [You Were Loved \(with OneRepublic\)](https://open.spotify.com/album/6fSPZKwEPxrHfQcdLz83EY) | 3:41 | 2022-05-06 |  |
+| [You Were Loved \(with OneRepublic\)](https://open.spotify.com/track/4W1JavoraGzh83nluQHY6C) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [You Were Loved \(with OneRepublic\)](https://open.spotify.com/album/6fSPZKwEPxrHfQcdLz83EY) | 3:41 | 2022-05-06 | 2023-07-22 |
 | [Your Love \(9PM\)](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Your Love \(9PM\)](https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b) | 2:30 | 2022-05-06 |  |
 | [Zookey 2021 \(feat\. Roland Richards\)](https://open.spotify.com/track/2Q3hNa3KnynBpSNWHwzAaC) | [Yves Larock](https://open.spotify.com/artist/2P1h10tRBVlC2lVUqhl6wm), [Lady Bee](https://open.spotify.com/artist/5WuoHUDzojO8oto22ahnwN), [Roland Richards](https://open.spotify.com/artist/1eSwxDbbYS3wXfCBqO9Y98) | [Zookey 2021 \(feat\. Roland Richards\)](https://open.spotify.com/album/7qQf2T5EhQtbdnNGm1MENI) | 2:29 | 2022-05-06 | 2022-07-26 |
 

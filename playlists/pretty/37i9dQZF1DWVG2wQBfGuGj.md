@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 
 > Surrender to the chill of the White Island with these laid\-back house and nu\-disco groovers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,520 likes - 176 songs - 9 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,686 likes - 176 songs - 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 | 17 | [Started Falling](https://open.spotify.com/track/2IDgkQbGyhikvTVzbRpxPX) | [Jac AM](https://open.spotify.com/artist/4MWA9zijHY5jZIbhaxmV6I), [JAYNIE](https://open.spotify.com/artist/674xBGb2z8bRev3dsZ7PPc) | [Started Falling](https://open.spotify.com/album/6ZaxmDIcC9EoHObfvCow09) | 2:12 |
 | 18 | [Northshire](https://open.spotify.com/track/3dLEbBPOPjZ7J9OOiOsgeA) | [Palo Santo](https://open.spotify.com/artist/52lmTJ5n4YL6wqaVelJ3mJ) | [Northshire](https://open.spotify.com/album/5kQjccSno4yLJxCuVgH3FN) | 2:30 |
 | 19 | [bite](https://open.spotify.com/track/0A9L6iHSJlw20569MQReXc) | [Bamba Lamer](https://open.spotify.com/artist/0lHDiEKyk5ooAlsfDeNHgo) | [bite](https://open.spotify.com/album/5wXCltGIpBkxiLxnXk6NNb) | 3:08 |
-| 20 | [Flight Home](https://open.spotify.com/track/0T6hXxaVQ3SKvnMweUX9P8) | [Alex R](https://open.spotify.com/artist/0UF2hegc0QcgMzZYI6bYB2) | [Flight Home](https://open.spotify.com/album/4x8lHP9jnahY4epxlwpG5P) | 4:06 |
-| 21 | [Ciel Bleu](https://open.spotify.com/track/7pynYKHTiuz0ORzknVt6Pw) | [YLLW](https://open.spotify.com/artist/45QzUwjKLqscIWSjWvO9Z6) | [Ciel Bleu](https://open.spotify.com/album/1YuuqxsJZFD7QvsGhDfZSV) | 2:45 |
-| 22 | [On the Fly](https://open.spotify.com/track/2noqFiLZzV5Z50Eyf5AfC3) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 3:02 |
+| 20 | [You Like Sun](https://open.spotify.com/track/4sk0X4nfFMsMvpvDbC3rmM) | [briqs](https://open.spotify.com/artist/2fimBXXBJgpNOdq7Jk1osw) | [Apes At The Beachclub](https://open.spotify.com/album/4D3k6glS6pDDQyK9ymmom0) | 2:43 |
+| 21 | [Flight Home](https://open.spotify.com/track/0T6hXxaVQ3SKvnMweUX9P8) | [Alex R](https://open.spotify.com/artist/0UF2hegc0QcgMzZYI6bYB2) | [Flight Home](https://open.spotify.com/album/4x8lHP9jnahY4epxlwpG5P) | 4:06 |
+| 22 | [Ciel Bleu](https://open.spotify.com/track/7pynYKHTiuz0ORzknVt6Pw) | [YLLW](https://open.spotify.com/artist/45QzUwjKLqscIWSjWvO9Z6) | [Ciel Bleu](https://open.spotify.com/album/1YuuqxsJZFD7QvsGhDfZSV) | 2:45 |
 | 23 | [That kind](https://open.spotify.com/track/3ehPq3MgiAnHVovfD72gDz) | [Spectral Sketches](https://open.spotify.com/artist/4ZmHtXGCAmROqQRycKMjLf) | [That kind](https://open.spotify.com/album/0Q784JzKwcsJ3uGNNFJSxO) | 3:02 |
 | 24 | [twisted torso](https://open.spotify.com/track/2sZOurwf8lDWXIeYYDLq7n) | [sir bennett](https://open.spotify.com/artist/2BmSS7TcHQpZ4yYUg2ooXL) | [twisted torso](https://open.spotify.com/album/1WGMMXqaSQleZByPkk3rp7) | 2:46 |
 | 25 | [Relax \(Hold On\)](https://open.spotify.com/track/7j0xfPR1K5e0OYsLpXP8wD) | [Autohacker](https://open.spotify.com/artist/6sm7q9WmAu9389oxf09I8m) | [Relax \(Hold On\)](https://open.spotify.com/album/6dVR47c4jMAnRBuqYPol2n) | 2:37 |
@@ -185,4 +185,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 | 175 | [Primal View](https://open.spotify.com/track/1g0mgAfM8cT1wwgfK3XOPM) | [Kleo](https://open.spotify.com/artist/24jRJ4wKE0RC9c8M4CUyuK) | [Primal View](https://open.spotify.com/album/2juZVcgTqgrGIvrf2wfmHh) | 2:48 |
 | 176 | [Soundscapes](https://open.spotify.com/track/3uOnTeQvOkgzthPlieXyDI) | [Fresh Journal](https://open.spotify.com/artist/4lGE0DmLpRahdzM9IpiYkx) | [Deep House Way](https://open.spotify.com/album/1M4iZ0CarlLmHoOWQPMUUE) | 3:59 |
 
-Snapshot ID: `MCw3ODJmMWU5YmQ0NTVjOGY3YmU1M2M5NTg4ZTNjY2NlMGIzMDcwN2U0`
+Snapshot ID: `MCw0NTE2MGU4MDg1NDcxMDdjOWZlNDkzMjA1ZDA5OGM2MDVhZDQxZDI1`

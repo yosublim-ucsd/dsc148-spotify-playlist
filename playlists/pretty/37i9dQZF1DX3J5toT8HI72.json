@@ -1,12 +1,12 @@
 {
   "description": "Grandes m\u00fasicas pra voc\u00ea curtir com seu amorzinho (ou pensando nele) ",
-  "num_followers": 782038,
+  "num_followers": 782149,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGNjYTJjNWNmM2U2NTlhNjlmOTE4M2NmOGJkYTdjZGNmMzc3YTgy",
+  "snapshot_id": "MCwxN2MyMWU1M2Q5Y2MwMmNlNTI5NWM2MTFjMTEwMjgzNjE1MWZlN2Y0",
   "tracks": [
     {
       "added_at": "2023-06-22 17:36:04",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-06-22 17:36:04",
       "album": {
+        "name": "Estandarte",
+        "url": "https://open.spotify.com/album/0vDutxkmwaV9O49MBAvorz"
+      },
+      "artists": [
+        {
+          "name": "Skank",
+          "url": "https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU"
+        }
+      ],
+      "duration_ms": 313106,
+      "name": "Ainda Gosto Dela",
+      "url": "https://open.spotify.com/track/2wtnWkmyE2ivwmDyVfJ8N5"
+    },
+    {
+      "added_at": "2023-06-22 17:36:04",
+      "album": {
         "name": "Brasileiro",
         "url": "https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 167250,
       "name": "Fica Tudo Bem",
       "url": "https://open.spotify.com/track/0trB3R0YBk3vGrGm5YSUTv"
-    },
-    {
-      "added_at": "2023-06-22 17:36:04",
-      "album": {
-        "name": "Estandarte",
-        "url": "https://open.spotify.com/album/0vDutxkmwaV9O49MBAvorz"
-      },
-      "artists": [
-        {
-          "name": "Skank",
-          "url": "https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU"
-        }
-      ],
-      "duration_ms": 313106,
-      "name": "Ainda Gosto Dela",
-      "url": "https://open.spotify.com/track/2wtnWkmyE2ivwmDyVfJ8N5"
     },
     {
       "added_at": "2023-06-22 17:36:04",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-06-22 17:36:04",
       "album": {
-        "name": "Musica para Churrasco, Vol. 2",
-        "url": "https://open.spotify.com/album/0uyJYHNFzapFWD6nZvFBZ3"
-      },
-      "artists": [
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        }
-      ],
-      "duration_ms": 267413,
-      "name": "Felicidade",
-      "url": "https://open.spotify.com/track/2bDc2CMq7MMAURwnMJverx"
-    },
-    {
-      "added_at": "2023-06-22 17:36:04",
-      "album": {
         "name": "Troco Likes",
         "url": "https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 257847,
       "name": "Amei Te Ver",
       "url": "https://open.spotify.com/track/4owo0j5bw45IqiHxsTzcd6"
+    },
+    {
+      "added_at": "2023-06-22 17:36:04",
+      "album": {
+        "name": "Musica para Churrasco, Vol. 2",
+        "url": "https://open.spotify.com/album/0uyJYHNFzapFWD6nZvFBZ3"
+      },
+      "artists": [
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "duration_ms": 267413,
+      "name": "Felicidade",
+      "url": "https://open.spotify.com/track/2bDc2CMq7MMAURwnMJverx"
     },
     {
       "added_at": "2023-06-22 17:36:04",

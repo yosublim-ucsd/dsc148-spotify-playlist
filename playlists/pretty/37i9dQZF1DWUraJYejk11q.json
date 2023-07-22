@@ -1,12 +1,12 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 455778,
+  "num_followers": 455820,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMDg5NWUwZjYzMjgzNThiODhmM2JlMDBhYjJhMmNiMWM1ZGVlOTlm",
+  "snapshot_id": "MCxmNjc4YTMwNjA4ZWMyYzk1Y2M3OGE3Mjg4MGQ0NDJjY2FiYTIzZTUy",
   "tracks": [
     {
       "added_at": "2023-06-23 01:16:52",
@@ -325,22 +325,6 @@
       "url": "https://open.spotify.com/track/6uYxN95ivhYSyNHQXwayCa"
     },
     {
-      "added_at": "2023-01-07 03:51:32",
-      "album": {
-        "name": "Crass",
-        "url": "https://open.spotify.com/album/0TX1wCyAQw51W6ihMaBceU"
-      },
-      "artists": [
-        {
-          "name": "96 Back",
-          "url": "https://open.spotify.com/artist/1nj9nHPkz1IbxXEpkW1WTz"
-        }
-      ],
-      "duration_ms": 357131,
-      "name": "Hoss It",
-      "url": "https://open.spotify.com/track/2Gh7Fv6yk1sgbwT6kMVV0U"
-    },
-    {
       "added_at": "2022-03-30 04:42:42",
       "album": {
         "name": "Chamas Do Cerrado",
@@ -355,6 +339,22 @@
       "duration_ms": 213708,
       "name": "Vale Da Lua",
       "url": "https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz"
+    },
+    {
+      "added_at": "2023-01-07 03:51:32",
+      "album": {
+        "name": "Crass",
+        "url": "https://open.spotify.com/album/0TX1wCyAQw51W6ihMaBceU"
+      },
+      "artists": [
+        {
+          "name": "96 Back",
+          "url": "https://open.spotify.com/artist/1nj9nHPkz1IbxXEpkW1WTz"
+        }
+      ],
+      "duration_ms": 357131,
+      "name": "Hoss It",
+      "url": "https://open.spotify.com/track/2Gh7Fv6yk1sgbwT6kMVV0U"
     },
     {
       "added_at": "2022-02-25 05:12:51",
@@ -375,46 +375,6 @@
       "duration_ms": 260006,
       "name": "April Dub (Koyas Mix)",
       "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
-    },
-    {
-      "added_at": "2022-05-06 03:38:46",
-      "album": {
-        "name": "infina ad nausea: the remixes",
-        "url": "https://open.spotify.com/album/3CgouRSATvx4CKXupVEf2j"
-      },
-      "artists": [
-        {
-          "name": "QRTR",
-          "url": "https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj"
-        },
-        {
-          "name": "Daniel de Lara",
-          "url": "https://open.spotify.com/artist/6soPIhIMY989DfzQ7boSOI"
-        },
-        {
-          "name": "BAILE",
-          "url": "https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9"
-        }
-      ],
-      "duration_ms": 359152,
-      "name": "Blame Me - BAILE Remix",
-      "url": "https://open.spotify.com/track/7j15pOGVt7aHde9PWsrdCl"
-    },
-    {
-      "added_at": "2022-07-15 18:13:54",
-      "album": {
-        "name": "Eden Portal",
-        "url": "https://open.spotify.com/album/5MSQc9lUHv65o5sF6HTtA2"
-      },
-      "artists": [
-        {
-          "name": "Otik",
-          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
-        }
-      ],
-      "duration_ms": 366500,
-      "name": "Eden Portal",
-      "url": "https://open.spotify.com/track/0ihmZ14TyzjrjO390cP1Oo"
     },
     {
       "added_at": "2022-12-16 06:00:00",
@@ -441,6 +401,22 @@
       "url": "https://open.spotify.com/track/6EI5sPngX6pBttwOHya9j4"
     },
     {
+      "added_at": "2022-07-15 18:13:54",
+      "album": {
+        "name": "Eden Portal",
+        "url": "https://open.spotify.com/album/5MSQc9lUHv65o5sF6HTtA2"
+      },
+      "artists": [
+        {
+          "name": "Otik",
+          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
+        }
+      ],
+      "duration_ms": 366500,
+      "name": "Eden Portal",
+      "url": "https://open.spotify.com/track/0ihmZ14TyzjrjO390cP1Oo"
+    },
+    {
       "added_at": "2022-03-18 05:02:00",
       "album": {
         "name": "Trusted EP",
@@ -457,20 +433,28 @@
       "url": "https://open.spotify.com/track/0lX858dF2YgUxNEUcgN8Gi"
     },
     {
-      "added_at": "2022-07-15 05:34:07",
+      "added_at": "2022-05-06 03:38:46",
       "album": {
-        "name": "GRIT.",
-        "url": "https://open.spotify.com/album/5WDvciEo1xl8XeTV04C5DB"
+        "name": "infina ad nausea: the remixes",
+        "url": "https://open.spotify.com/album/3CgouRSATvx4CKXupVEf2j"
       },
       "artists": [
         {
-          "name": "Luke Vibert",
-          "url": "https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv"
+          "name": "QRTR",
+          "url": "https://open.spotify.com/artist/2THXZEfcOePL7bRFl2DUwj"
+        },
+        {
+          "name": "Daniel de Lara",
+          "url": "https://open.spotify.com/artist/6soPIhIMY989DfzQ7boSOI"
+        },
+        {
+          "name": "BAILE",
+          "url": "https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9"
         }
       ],
-      "duration_ms": 331032,
-      "name": "Surrounded By Neighbours",
-      "url": "https://open.spotify.com/track/4eJpV2XFajmu9sao42J5ax"
+      "duration_ms": 359152,
+      "name": "Blame Me - BAILE Remix",
+      "url": "https://open.spotify.com/track/7j15pOGVt7aHde9PWsrdCl"
     },
     {
       "added_at": "2022-02-16 00:41:13",
@@ -503,6 +487,22 @@
       "duration_ms": 283200,
       "name": "l'empelt",
       "url": "https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4"
+    },
+    {
+      "added_at": "2022-07-15 05:34:07",
+      "album": {
+        "name": "GRIT.",
+        "url": "https://open.spotify.com/album/5WDvciEo1xl8XeTV04C5DB"
+      },
+      "artists": [
+        {
+          "name": "Luke Vibert",
+          "url": "https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv"
+        }
+      ],
+      "duration_ms": 331032,
+      "name": "Surrounded By Neighbours",
+      "url": "https://open.spotify.com/track/4eJpV2XFajmu9sao42J5ax"
     },
     {
       "added_at": "2022-07-08 04:48:31",
@@ -541,22 +541,6 @@
       "url": "https://open.spotify.com/track/3un8NWwFpSvbN0m0JZ29da"
     },
     {
-      "added_at": "2023-01-07 02:50:03",
-      "album": {
-        "name": "ITSAME",
-        "url": "https://open.spotify.com/album/7Ffx32PXyHvhskEtCtN3xx"
-      },
-      "artists": [
-        {
-          "name": "Brainwaltzera",
-          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
-        }
-      ],
-      "duration_ms": 461613,
-      "name": "ITSAME [group hugg]",
-      "url": "https://open.spotify.com/track/2H9n9r52CvPOTYM3WCCl82"
-    },
-    {
       "added_at": "2021-10-15 03:56:52",
       "album": {
         "name": "Put Your Head Above The Parakeets",
@@ -571,6 +555,22 @@
       "duration_ms": 436052,
       "name": "Head Above The Parakeets",
       "url": "https://open.spotify.com/track/1F7wFVvXwazyZdy4jq3Bj8"
+    },
+    {
+      "added_at": "2023-01-07 02:50:03",
+      "album": {
+        "name": "ITSAME",
+        "url": "https://open.spotify.com/album/7Ffx32PXyHvhskEtCtN3xx"
+      },
+      "artists": [
+        {
+          "name": "Brainwaltzera",
+          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
+        }
+      ],
+      "duration_ms": 461613,
+      "name": "ITSAME [group hugg]",
+      "url": "https://open.spotify.com/track/2H9n9r52CvPOTYM3WCCl82"
     },
     {
       "added_at": "2021-10-15 03:56:52",
@@ -653,22 +653,6 @@
       "url": "https://open.spotify.com/track/1MmksCcZL31uJu8J4swpsC"
     },
     {
-      "added_at": "2022-04-29 18:24:26",
-      "album": {
-        "name": "Cruda",
-        "url": "https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH"
-      },
-      "artists": [
-        {
-          "name": "Siete Catorce",
-          "url": "https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr"
-        }
-      ],
-      "duration_ms": 329596,
-      "name": "Cheve",
-      "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
-    },
-    {
       "added_at": "2022-03-30 05:10:26",
       "album": {
         "name": "tracing Rays [reality glo]",
@@ -683,6 +667,22 @@
       "duration_ms": 262240,
       "name": "tracing Rays [reality glo]",
       "url": "https://open.spotify.com/track/4YTXY7Ze4njWYH4nDutz4q"
+    },
+    {
+      "added_at": "2022-04-29 18:24:26",
+      "album": {
+        "name": "Cruda",
+        "url": "https://open.spotify.com/album/2Ia0Ig2JkLx3NNpdxuICeH"
+      },
+      "artists": [
+        {
+          "name": "Siete Catorce",
+          "url": "https://open.spotify.com/artist/3MVzVLPSlOV0s6mGQ2YZHr"
+        }
+      ],
+      "duration_ms": 329596,
+      "name": "Cheve",
+      "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
     },
     {
       "added_at": "2022-12-07 01:09:17",
@@ -757,6 +757,22 @@
       "url": "https://open.spotify.com/track/3J4QilICdLFiPX7lB3lyOJ"
     },
     {
+      "added_at": "2022-01-19 22:44:25",
+      "album": {
+        "name": "Fwd: Re: late (Ref.: karoshi)",
+        "url": "https://open.spotify.com/album/73UuLb3FaidlmvkZLe8z2s"
+      },
+      "artists": [
+        {
+          "name": "Brainwaltzera",
+          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
+        }
+      ],
+      "duration_ms": 361386,
+      "name": "Fwd: Re: late (Ref.: karoshi)",
+      "url": "https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n"
+    },
+    {
       "added_at": "2022-04-12 02:09:40",
       "album": {
         "name": "Minena",
@@ -787,22 +803,6 @@
       "duration_ms": 252601,
       "name": "Desert Viper",
       "url": "https://open.spotify.com/track/07Ee8FQCrmxyseMqszOATP"
-    },
-    {
-      "added_at": "2022-01-19 22:44:25",
-      "album": {
-        "name": "Fwd: Re: late (Ref.: karoshi)",
-        "url": "https://open.spotify.com/album/73UuLb3FaidlmvkZLe8z2s"
-      },
-      "artists": [
-        {
-          "name": "Brainwaltzera",
-          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
-        }
-      ],
-      "duration_ms": 361386,
-      "name": "Fwd: Re: late (Ref.: karoshi)",
-      "url": "https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n"
     },
     {
       "added_at": "2023-03-03 04:17:23",

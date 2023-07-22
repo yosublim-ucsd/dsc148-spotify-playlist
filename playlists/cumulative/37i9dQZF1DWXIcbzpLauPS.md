@@ -4,7 +4,7 @@
 
 > Metalcore at its finest\. Cover: Imminence
 
-718 songs - 1 day 21 hr 5 min
+720 songs - 1 day 21 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -214,6 +214,7 @@
 | [Doomswitch](https://open.spotify.com/track/6pUUtKVRmODliJWTyY2pet) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Doomswitch](https://open.spotify.com/album/7J8x3vAHCvP4gKZUEdsLN4) | 4:35 | 2023-01-20 | 2023-05-23 |
 | [Doomswitch](https://open.spotify.com/track/7v9HNMlAe2UBaEhvaCk5wX) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Doomswitch](https://open.spotify.com/album/2WJV5AVoALNLtr2ZqOlf2n) | 4:35 | 2022-11-11 | 2023-01-21 |
 | [Down](https://open.spotify.com/track/08BIaNWJMOQLrK5mSje5kY) | [Versus Me](https://open.spotify.com/artist/2LDhAV1ZRW6XdLNgg1pPg9) | [Down](https://open.spotify.com/album/0151780uryrl7Mj83Tc6G8) | 3:21 | 2021-12-17 | 2022-01-08 |
+| [Downpour](https://open.spotify.com/track/2AQyiYOl2fVe7ZYHOKkEbj) | [Our Hollow, Our Home](https://open.spotify.com/artist/6zrSK4adBQJaCJuhGNKJEl) | [Downpour](https://open.spotify.com/album/3zcbr2SwtMAry4XicwbKdV) | 3:34 | 2023-07-21 |  |
 | [Drag Me Down \(feat\. Jamie Hails\)](https://open.spotify.com/track/35onQjC0Rb2BISF0xkJCMW) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [Jamie Hails](https://open.spotify.com/artist/2cRrZw0UD5vsnwoPVkV8Ip) | [Drag Me Down \(feat\. Jamie Hails\)](https://open.spotify.com/album/1or1Y8UCe75sabzYynWIn0) | 4:03 | 2022-07-13 | 2022-07-15 |
 | [Drag Me Under](https://open.spotify.com/track/2CwBf7BQoztOsPNUszOOv8) | [Rising Insane](https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf) | [Drag Me Under](https://open.spotify.com/album/05KgX2I0e6LKvBWlUmRW0H) | 3:45 | 2023-02-10 |  |
 | [Dreaming Desecration](https://open.spotify.com/track/5CdHJaOsp8gCZyMhuWmS6o) | [Signs of the Swarm](https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS) | [Absolvere](https://open.spotify.com/album/2nDh1tZjYv2W63a27pSqRx) | 3:41 | 2022-07-13 | 2022-07-22 |
@@ -223,6 +224,7 @@
 | [Drowning](https://open.spotify.com/track/4l0UQ0zDIPYaaa5FF2Kvwt) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Drowning](https://open.spotify.com/album/6d5waVDcEQEcM6BKbkBiNx) | 2:45 | 2023-01-27 | 2023-03-18 |
 | [Duplicity](https://open.spotify.com/track/7jCWxQD5R7GrBahD2yJ7zc) | [Krosis](https://open.spotify.com/artist/7gfEb4adETwNZgWLUlcHQy) | [Duplicity](https://open.spotify.com/album/6voOWo8kjuuet5zCiM2ing) | 5:10 | 2022-07-13 | 2022-07-15 |
 | [Dust of the Bereaved](https://open.spotify.com/track/5wfILshQZtz9pKTOBEuH95) | [Tenside](https://open.spotify.com/artist/23d3dPHmTdEax2Ok6vTkke) | [Dust of the Bereaved](https://open.spotify.com/album/73Wkn2DNQR5LWE5HMKDHQ0) | 4:45 | 2022-07-13 | 2022-07-23 |
+| [Earn It](https://open.spotify.com/track/1dEDi8paa8WJCnt42Rkb8W) | [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E) | [Earn It](https://open.spotify.com/album/5iPPJrnEto3sGfm7pyws7s) | 3:06 | 2023-07-21 |  |
 | [Earth Shaker](https://open.spotify.com/track/3EytQKQcbsuZrXTrpFcL4P) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Earth Shaker](https://open.spotify.com/album/1pNsCcIhnP2wBeLmBWgB72) | 3:23 | 2022-07-01 | 2022-09-03 |
 | [Earthless](https://open.spotify.com/track/6wfsGSh10ij43EgcEXjpZK) | [Humanity's Last Breath](https://open.spotify.com/artist/7nKz8GVqHk0bUGmBm6wm3E) | [Earthless](https://open.spotify.com/album/3AfOJfWXUeMc9QUl1vtPpQ) | 4:57 | 2022-07-13 | 2022-07-20 |
 | [Earthquake](https://open.spotify.com/track/0LrweVkIjYuXjtJYS8vaL4) | [Breathe Atlantis](https://open.spotify.com/artist/6YLWRVTViX4bm2mGxRy9XN) | [Earthquake](https://open.spotify.com/album/7ipDIQx6f6t0cuyoCFYDr1) | 3:49 | 2021-12-17 | 2022-01-08 |

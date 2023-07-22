@@ -4,7 +4,7 @@
 
 > Monsoon, Monsoon songs, Monsoon Hits, LOVE and SAD SONGS HINDI...🥺all time best hits ❤️‍🩹\(Hindi\), POV : you're in love, Emotional Songs, Love songs, 2023\. 2022, Top Hits, Bollywood hits, Arijit Singh Hits, Hindi Songs, Lofi, Soothing songs, Night songs, Broken, Romance, All Time best Bollywood songs
 
-143 songs - 10 hr 59 min
+144 songs - 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Tera Deedar Hua](https://open.spotify.com/track/0d1JQdBaeetUo8xAiKCT3C) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Anupam Amod](https://open.spotify.com/artist/69EjD8i1YtmeJRBou0I21r), [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Jannat 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6CtqkIRtoYPHgFc1ft1DPi) | 5:47 | 2022-03-24 |  |
 | [Tera Zikr](https://open.spotify.com/track/0OfaueVeRebAfWsAHajj3z) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Tera Zikr](https://open.spotify.com/album/2khzKvw27vsWmb8xgnqxKb) | 3:28 | 2022-06-29 |  |
 | [Tere Bina](https://open.spotify.com/track/4FeczSomVWVyU4FW7xDeAI) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Murtuza Khan](https://open.spotify.com/artist/3v8isPrc8btWVMF3bnOIcj), [Qadir Khan](https://open.spotify.com/artist/2gTPBFjo3M9rvMSZWTk9nT) | [Guru \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6kWI9GDPhMhaGNo80Q1XT5) | 5:09 | 2021-05-06 |  |
+| [Tere Bina \- Heartfelt Version](https://open.spotify.com/track/7gHV5XkZd2JyaI3rk2cCvo) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Barzin Contractor](https://open.spotify.com/artist/5tzm7LT4Dh4RMMbVBQSydc), [Sarthak Bhave](https://open.spotify.com/artist/0XFOMb1eNLNm2h0uMu3Spx) | [Tere Bina \(Heartfelt Version\)](https://open.spotify.com/album/1dHeuT2clj2U5Y9QpyWnWx) | 2:52 | 2023-07-21 |  |
 | [Tere Bina \- Khanvict Remix](https://open.spotify.com/track/2GVVNhSq5gq3rZF2b0UY5a) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Khanvict](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Murtuza Khan](https://open.spotify.com/artist/3v8isPrc8btWVMF3bnOIcj), [Qadir Khan](https://open.spotify.com/artist/2gTPBFjo3M9rvMSZWTk9nT) | [Tere Bina \- Khanvict Remix](https://open.spotify.com/album/2gSeFOFJvIibTosS8Dvnz9) | 3:02 | 2022-03-07 |  |
 | [Tere Naina](https://open.spotify.com/track/3hoXhwP0ub9LdSJV4olDIc) | [Shankar\-Ehsaan\-Loy](https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ), [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [My Name Is Khan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5O06EpSaMFlN0DKqF8hRnK) | 4:38 | 2022-11-01 |  |
 | [Teri Deewani](https://open.spotify.com/track/2iNqdCchlUZEgjJbQyZf8T) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4), [Paresh Kamath](https://open.spotify.com/artist/3PgeUFj9oHU4K4RGaITz2f), [Naresh Kamath](https://open.spotify.com/artist/79sho4jpEGoCCC51KHnNSJ) | [Kailasa](https://open.spotify.com/album/4RaycLPhCCJ8wglYD4cvmD) | 5:23 | 2022-10-11 |  |

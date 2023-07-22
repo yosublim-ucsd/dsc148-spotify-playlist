@@ -1,13 +1,45 @@
 {
-  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: Maddie Zahm",
-  "num_followers": 84632,
+  "description": "Discover the next wave of talent on the scene writing their own songs. Cover: SkyeChristy",
+  "num_followers": 84655,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODFmMzdlNGQzOTE3NWNjM2VhMzUwZTk1Y2NlN2EyNmIyOTM3NWVi",
+  "snapshot_id": "MCxjZmRiY2U0NDk2YjgzNzhjMWRkMjlkNGJjYzMyZGM1MjcyZjcwNTMw",
   "tracks": [
+    {
+      "added_at": "2023-07-21 19:56:02",
+      "album": {
+        "name": "The Summer I Lost My Lover",
+        "url": "https://open.spotify.com/album/6LCJc8Rs72aH30ocmWoRaK"
+      },
+      "artists": [
+        {
+          "name": "SkyeChristy",
+          "url": "https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND"
+        }
+      ],
+      "duration_ms": 163733,
+      "name": "Prime Years",
+      "url": "https://open.spotify.com/track/3gTtFwxQ5fbAwnbr75LxeV"
+    },
+    {
+      "added_at": "2023-07-21 19:56:02",
+      "album": {
+        "name": "Learning",
+        "url": "https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG"
+      },
+      "artists": [
+        {
+          "name": "Debbii Dawson",
+          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
+        }
+      ],
+      "duration_ms": 237442,
+      "name": "Terrified",
+      "url": "https://open.spotify.com/track/7nEGHve0DEiuJj53vEtPNz"
+    },
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
@@ -27,18 +59,18 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "You Look Like You Can't Swim",
-        "url": "https://open.spotify.com/album/5p0Lg2f9QD83otSSTyX15n"
+        "name": "Irish Eyes",
+        "url": "https://open.spotify.com/album/3DVq0JXN7pboBAOyeM2qQQ"
       },
       "artists": [
         {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+          "name": "Rose Betts",
+          "url": "https://open.spotify.com/artist/3DYAP9CXyfNiM2nlu09w4i"
         }
       ],
-      "duration_ms": 168086,
-      "name": "You Look Like You Can't Swim",
-      "url": "https://open.spotify.com/track/1ahs8RtwmDz1NpAaQdss9r"
+      "duration_ms": 136209,
+      "name": "Irish Eyes",
+      "url": "https://open.spotify.com/track/6BuNcxbUQyssRpHEBqmpLw"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -55,6 +87,38 @@
       "duration_ms": 217727,
       "name": "Waiting for this Love to Die",
       "url": "https://open.spotify.com/track/34E2VmDjfqvmNayzDnBUBp"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "You Look Like You Can't Swim",
+        "url": "https://open.spotify.com/album/5p0Lg2f9QD83otSSTyX15n"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 168086,
+      "name": "You Look Like You Can't Swim",
+      "url": "https://open.spotify.com/track/1ahs8RtwmDz1NpAaQdss9r"
+    },
+    {
+      "added_at": "2023-07-21 19:56:02",
+      "album": {
+        "name": "How Do We Stay In Love?",
+        "url": "https://open.spotify.com/album/4CPmCif9l0FLCp4jRwu8AR"
+      },
+      "artists": [
+        {
+          "name": "Blake Rose",
+          "url": "https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe"
+        }
+      ],
+      "duration_ms": 159981,
+      "name": "How Do We Stay In Love?",
+      "url": "https://open.spotify.com/track/57C2Jt6xUTlN9QVrWSimBJ"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -87,22 +151,6 @@
       "duration_ms": 196679,
       "name": "Talk Too Much",
       "url": "https://open.spotify.com/track/7haim7EewbN5RnByO5GtWV"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "Irish Eyes",
-        "url": "https://open.spotify.com/album/3DVq0JXN7pboBAOyeM2qQQ"
-      },
-      "artists": [
-        {
-          "name": "Rose Betts",
-          "url": "https://open.spotify.com/artist/3DYAP9CXyfNiM2nlu09w4i"
-        }
-      ],
-      "duration_ms": 136209,
-      "name": "Irish Eyes",
-      "url": "https://open.spotify.com/track/6BuNcxbUQyssRpHEBqmpLw"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -413,22 +461,6 @@
       "url": "https://open.spotify.com/track/5sEuodPxtfU0JZOxOQSnIy"
     },
     {
-      "added_at": "2023-06-30 04:36:37",
-      "album": {
-        "name": "Friday Night Thriller",
-        "url": "https://open.spotify.com/album/4FLj8kPkN30iRNN5Rlnrug"
-      },
-      "artists": [
-        {
-          "name": "SkyeChristy",
-          "url": "https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND"
-        }
-      ],
-      "duration_ms": 190043,
-      "name": "Friday Night Thriller",
-      "url": "https://open.spotify.com/track/1o66k4kAIZT0cQKpHxDkIt"
-    },
-    {
       "added_at": "2023-06-16 04:00:00",
       "album": {
         "name": "boring",
@@ -571,22 +603,6 @@
       "duration_ms": 233266,
       "name": "down from the high",
       "url": "https://open.spotify.com/track/0eEt3ih8m78sxtQyAXqiSn"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Fake Love",
-        "url": "https://open.spotify.com/album/7ETHMfLKCuyBc0m0LbkdHT"
-      },
-      "artists": [
-        {
-          "name": "SkyeChristy",
-          "url": "https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND"
-        }
-      ],
-      "duration_ms": 148888,
-      "name": "Fake Love",
-      "url": "https://open.spotify.com/track/05Z4IreB9RR7ckA77xhoEK"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1247,22 +1263,6 @@
       "duration_ms": 185321,
       "name": "you'd never know",
       "url": "https://open.spotify.com/track/3Ujbw4fK37Nx8XOSJkWa0e"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "I Get What I Want",
-        "url": "https://open.spotify.com/album/6ykoHY56yECTvi6bxyzhdU"
-      },
-      "artists": [
-        {
-          "name": "Sophie Holohan",
-          "url": "https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw"
-        }
-      ],
-      "duration_ms": 207698,
-      "name": "I Get What I Want",
-      "url": "https://open.spotify.com/track/0pkmyS5YR3IkGwOCBfXsfi"
     },
     {
       "added_at": "2023-06-02 04:00:00",

@@ -4,7 +4,7 @@
 
 > A little bit of pop, a little bit of rap\. Cover: Nic D & Connor Price
 
-556 songs - 1 day 1 hr 30 min
+558 songs - 1 day 1 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,7 +147,7 @@
 | [eighty\-five](https://open.spotify.com/track/6f8J5ZqWB5E8oKosn4h7c5) | [PmBata](https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw) | [eighty\-five](https://open.spotify.com/album/3gb0W6DnHhwkJq0ZSFqnAe) | 3:15 | 2022-04-22 | 2022-12-21 |
 | [either way](https://open.spotify.com/track/7wHRNRxqJcCO9hzE025Iyf) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [either way](https://open.spotify.com/album/1O1KX7W7zQ5ESejqgI7Sdr) | 3:00 | 2021-11-16 | 2022-02-19 |
 | [Endorphins](https://open.spotify.com/track/55uz6CCy6OT60yq5jf8ZfY) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49) | [Endorphins](https://open.spotify.com/album/33wlGDEtGjglQGTxAvozPZ) | 3:25 | 2021-12-03 | 2022-02-26 |
-| [Enough](https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Enough](https://open.spotify.com/album/1fw8J18rs7te12Bj1UxAUo) | 3:05 | 2022-08-05 |  |
+| [Enough](https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Enough](https://open.spotify.com/album/1fw8J18rs7te12Bj1UxAUo) | 3:05 | 2022-08-05 | 2023-07-22 |
 | [Euphoria](https://open.spotify.com/track/3OO9piUhjFmPRlKv4AM7sl) | [benny mayne](https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l) | [Euphoria](https://open.spotify.com/album/0xJXXwBEoMSWowPIs3iGIm) | 2:52 | 2023-04-07 |  |
 | [Every Season](https://open.spotify.com/track/0Z1RYues9se6bzT0Fnaptb) | [Ferris](https://open.spotify.com/artist/0kxKR9utzILx97Vjj6bA4r) | [Every Season](https://open.spotify.com/album/3SdqNIbAVIDXSyBd3Igkon) | 2:41 | 2023-02-03 | 2023-04-09 |
 | [Eyes On You](https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Eyes On You](https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE) | 2:57 | 2022-11-29 |  |
@@ -201,6 +201,7 @@
 | [gfy \(with Machine Gun Kelly\)](https://open.spotify.com/track/3MTm8eZ2wCEtpyZqqhP6Dn) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [gfy \(with Machine Gun Kelly\)](https://open.spotify.com/album/43tasPwPisjAgGgde0yy7F) | 2:52 | 2022-06-03 | 2022-06-18 |
 | [Girl U My Plug](https://open.spotify.com/track/5bYphpTtDCeVgzoYP6KFSu) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Girl U My Plug](https://open.spotify.com/album/7MnuSCvU2bmLIzkOfxI302) | 3:19 | 2022-04-22 | 2022-05-07 |
 | [Girls](https://open.spotify.com/track/1IbwVEskI2zH0dM4pnmWfU) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [Girls](https://open.spotify.com/album/0ELNO6pSJy9iq7FJG2DKVM) | 2:20 | 2022-06-10 | 2022-07-07 |
+| [god damn!](https://open.spotify.com/track/40e2TPl5w4fmHJkIgwAM3U) | [viisi](https://open.spotify.com/artist/50zXB0O7zGiSb4ZcF1GP7Z) | [god damn!](https://open.spotify.com/album/1Txk1kbTVJZqvdU2ZsJwpv) | 1:56 | 2023-07-21 |  |
 | [golden hour](https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 3:29 | 2022-11-21 | 2023-06-17 |
 | [good day](https://open.spotify.com/track/3QK8wVrYJD2C6DAIypaXW1) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [good day](https://open.spotify.com/album/4Yyn7HIrbeCp8tQuNAF3C4) | 2:48 | 2022-07-11 | 2022-07-23 |
 | [Good Luck](https://open.spotify.com/track/6IVsYkP3RWt3AwMeHOgDFF) | [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4) | [Abhi vs The Universe](https://open.spotify.com/album/7npnMZIzcTaC9dFh2iqm0w) | 2:15 | 2021-11-16 | 2022-02-19 |
@@ -249,6 +250,7 @@
 | [I WANNA SEE SOME ASS \(feat\. jetsonmade\)](https://open.spotify.com/track/2aWVaW1p2kUc5yuKwBmRJi) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [jetsonmade](https://open.spotify.com/artist/0UcXjTpzt0DmIwPSNwlJfF) | [Sweet Action](https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY) | 2:05 | 2022-04-04 | 2022-11-12 |
 | [I'D GIVE IT ALL UP](https://open.spotify.com/track/6MsEajhvcMbnuWXT1y6HL2) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [I'D GIVE IT ALL UP](https://open.spotify.com/album/2bDitgjXkr1k4GWkUXCQxl) | 2:45 | 2022-07-01 | 2022-10-15 |
 | [i'm drunk and i miss you more](https://open.spotify.com/track/50jtIig2VWqCVXai7Epm3c) | [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk), [Shady Moon](https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4) | [i'm drunk and i miss you more](https://open.spotify.com/album/766FtGkdeEbLJ2RYOlIuoE) | 2:35 | 2022-03-22 | 2022-04-29 |
+| [I'm Not Crazy](https://open.spotify.com/track/3fiMmMyvoBGjfU9BWkTNWM) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [I’m Not Crazy](https://open.spotify.com/album/193T8nOZCynXr5GHbC5UzO) | 2:41 | 2023-07-21 |  |
 | [i'm scared](https://open.spotify.com/track/2lfKrToxQQ4oFZcBv0ZjeQ) | [Kenny](https://open.spotify.com/artist/6Hw5BJKxWydV5VuEnzqpIv) | [i'm scared](https://open.spotify.com/album/5SuQMgybdbtnaRRin1P1bZ) | 1:55 | 2022-09-30 | 2022-11-30 |
 | [I'm So Good at Lying \(feat\. Powfu & Thomas Reid\)](https://open.spotify.com/track/0tW3SDJmTyS3is8QXQ4z1q) | [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Thomas Reid](https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo) | [I'm So Good at Lying \(feat\. Powfu & Thomas Reid\)](https://open.spotify.com/album/5gi5MTy0vTLuaONUjfAn9l) | 2:14 | 2021-11-16 | 2022-02-26 |
 | [I\. The Worst Guys](https://open.spotify.com/track/0kErPGykp7EJo7L5fx8YjB) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Because the Internet](https://open.spotify.com/album/62yjWIhnATHxPqGbgC9Lqr) | 3:39 | 2022-09-19 | 2022-11-30 |
@@ -439,7 +441,7 @@
 | [slow](https://open.spotify.com/track/0OsBYGVkUv8htOal8W5Wiw) | [Drod](https://open.spotify.com/artist/05V8HRYvyOH8BTL4srorTi) | [slow](https://open.spotify.com/album/4xbP5uCoRcocDrvZujOm7Y) | 1:52 | 2023-02-17 | 2023-04-09 |
 | [SMILE](https://open.spotify.com/track/6eshn81GQPqBfv7TEOyoTI) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [SMILE](https://open.spotify.com/album/7B8WilS3K8r0D23duwPnlq) | 2:41 | 2021-11-16 | 2022-02-19 |
 | [Smooth](https://open.spotify.com/track/4fI6dj7tYo7THZE5EJwPHZ) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L) | [Smooth](https://open.spotify.com/album/78vpDD60PJ8zJx19YP5qcj) | 2:17 | 2022-04-01 | 2022-07-13 |
-| [Sneakers](https://open.spotify.com/track/3eLfICfDzCQrP8pOajVGiJ) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Sneakers](https://open.spotify.com/album/203lgkbyUvtaZAExgXr3Ge) | 3:04 | 2022-09-07 |  |
+| [Sneakers](https://open.spotify.com/track/3eLfICfDzCQrP8pOajVGiJ) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Sneakers](https://open.spotify.com/album/203lgkbyUvtaZAExgXr3Ge) | 3:04 | 2022-09-07 | 2023-07-22 |
 | [SNOWMAN](https://open.spotify.com/track/1uU0Q4JrDzgqWK1QWXccwb) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [SNOWMAN](https://open.spotify.com/album/0jbrRg5mahBKrvbPQDLisP) | 3:03 | 2021-12-17 | 2022-02-19 |
 | [so easily \(with skaiwater\)](https://open.spotify.com/track/1rPW3G9rlPk4etgNPwR3nu) | [Prentiss](https://open.spotify.com/artist/0uzKt8lgkTlxm4OUWiCX3H), [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [so easily \(with skaiwater\)](https://open.spotify.com/album/44KLAGMawWtI08ASBB8Ok6) | 3:39 | 2023-01-13 | 2023-04-18 |
 | [Sober](https://open.spotify.com/track/6YuFv5d7iGeNnFMu6xphZl) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Kauai](https://open.spotify.com/album/3EyDuWSBOZGl5CAlBkSrOE) | 4:12 | 2022-09-09 | 2022-11-30 |

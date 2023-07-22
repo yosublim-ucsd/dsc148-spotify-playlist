@@ -1289,6 +1289,32 @@
     },
     {
       "album": {
+        "name": "TAURUS",
+        "url": "https://open.spotify.com/album/0CG4W3xxvDlL7tEm4aZZyN"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "Duani",
+          "url": "https://open.spotify.com/artist/2GeuUpdRlUDJWW9FLmwhI1"
+        },
+        {
+          "name": "Rizzi Get Busy",
+          "url": "https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209109,
+      "name": "Big D!!!!!",
+      "url": "https://open.spotify.com/track/6YSAbJ9fQCMYcCqaYwSIph"
+    },
+    {
+      "album": {
         "name": "Bonde da Rock",
         "url": "https://open.spotify.com/album/4lyBsKWg4M8zHI0Ormmpo7"
       },
@@ -1558,6 +1584,40 @@
       "duration_ms": 176640,
       "name": "Cavalona",
       "url": "https://open.spotify.com/track/0v2Bc9YBplcdaBk7oEHliO"
+    },
+    {
+      "album": {
+        "name": "Perdas & Ganhos",
+        "url": "https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162506,
+      "name": "Celine",
+      "url": "https://open.spotify.com/track/1aDGzQHWNCMy3pF1Stqjk7"
     },
     {
       "album": {
@@ -2280,6 +2340,28 @@
       "duration_ms": 238732,
       "name": "Dia de Baile",
       "url": "https://open.spotify.com/track/4UKNClOexcP1PgjUCJMV2u"
+    },
+    {
+      "album": {
+        "name": "Dia de Patr\u00e3o",
+        "url": "https://open.spotify.com/album/1BSbthGPVcroxloucFfuRw"
+      },
+      "artists": [
+        {
+          "name": "MC Igu",
+          "url": "https://open.spotify.com/artist/5K854sjdzabwOy9KltU3Po"
+        },
+        {
+          "name": "Ryu, the Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150240,
+      "name": "Dia de Patr\u00e3o",
+      "url": "https://open.spotify.com/track/34Vc4W7O879uUQDIf49adx"
     },
     {
       "album": {
@@ -3166,7 +3248,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 181767,
       "name": "FOGO E GASOLINA",
       "url": "https://open.spotify.com/track/52EYWdjiulHaehpexuowyh"
@@ -3388,6 +3470,24 @@
       "duration_ms": 145000,
       "name": "Fuma\u00e7a Quente",
       "url": "https://open.spotify.com/track/7goPqaQ587wr3YRDcWTS1x"
+    },
+    {
+      "album": {
+        "name": "Nova Wave, Pt. 2",
+        "url": "https://open.spotify.com/album/1e37uzNq0st8nLOwXAYHxI"
+      },
+      "artists": [
+        {
+          "name": "Shaodree",
+          "url": "https://open.spotify.com/artist/4NOi6526Zq6dqCMXaEN0EW"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215593,
+      "name": "Fundo do Mar",
+      "url": "https://open.spotify.com/track/48RydgPQGeoMOxKACypWZa"
     },
     {
       "album": {
@@ -7286,7 +7386,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 295384,
       "name": "Sarradeira",
       "url": "https://open.spotify.com/track/7qeJNEyuXaWmYsHyPmzbFv"
@@ -7896,7 +7996,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 126226,
       "name": "Taurus",
       "url": "https://open.spotify.com/track/6QEXxXD0UWYqRtD0fH4QmX"
@@ -8188,7 +8288,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 201398,
       "name": "Tropa do Mais Novo",
       "url": "https://open.spotify.com/track/1Afqu53uuGNHKXyCfNIqhW"
@@ -8388,7 +8488,7 @@
       ],
       "date_added": "2022-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 250434,
       "name": "Vampiro",
       "url": "https://open.spotify.com/track/6bTdZ7xfKp3NqqADJ8HLyj"
@@ -8600,6 +8700,44 @@
       "duration_ms": 154838,
       "name": "Vit\u00f3ria Dobrada",
       "url": "https://open.spotify.com/track/59KoLGYeBxZ11VUln2LBAL"
+    },
+    {
+      "album": {
+        "name": "Vivendo Um Sonho",
+        "url": "https://open.spotify.com/album/0BRSfD1KvU8e7lLQrCRf6i"
+      },
+      "artists": [
+        {
+          "name": "Distrito 23",
+          "url": "https://open.spotify.com/artist/5itNRAG8DPcD6Yrm1rFPLv"
+        },
+        {
+          "name": "Raff\u00e9",
+          "url": "https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Jhowzin",
+          "url": "https://open.spotify.com/artist/5l8uNQWdIozojTbL2tzBa7"
+        },
+        {
+          "name": "Raflow",
+          "url": "https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279069,
+      "name": "Vivendo Um Sonho",
+      "url": "https://open.spotify.com/track/50T73EQeHbNcqmfuINOU8A"
     },
     {
       "album": {

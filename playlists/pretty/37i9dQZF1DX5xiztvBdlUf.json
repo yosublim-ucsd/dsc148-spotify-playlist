@@ -1,12 +1,12 @@
 {
   "description": "Deep House in all its shapes and colours.",
-  "num_followers": 585036,
+  "num_followers": 585263,
   "original_name": "Deep House Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZDJjMDA3ODAxNDFjMDE3ZmEzOThhZDlkYzI0OGI1ODJlMmY5ZmU0",
+  "snapshot_id": "MCxjZjAwZmEzYTBhNjQ5YTY0NGQ3NDgwYmI0YTU1MTk1YmRjZmI1NDNm",
   "tracks": [
     {
       "added_at": "2023-06-30 15:00:00",
@@ -271,6 +271,22 @@
     {
       "added_at": "2023-06-30 15:00:00",
       "album": {
+        "name": "Colorize 2023 Spring Sampler",
+        "url": "https://open.spotify.com/album/2RQiB9SPWqSLQETVpLVacO"
+      },
+      "artists": [
+        {
+          "name": "VisionV",
+          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
+        }
+      ],
+      "duration_ms": 240448,
+      "name": "Blossom",
+      "url": "https://open.spotify.com/track/5kAv0wk38BRqdMPbaGbKQe"
+    },
+    {
+      "added_at": "2023-06-30 15:00:00",
+      "album": {
         "name": "Impossible (&ME Remix)",
         "url": "https://open.spotify.com/album/4HmgIUcdgMfWDJYQdxhy6o"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 555573,
       "name": "Impossible - &ME Remix",
       "url": "https://open.spotify.com/track/0TVcPTk3MMkT6WqkuatPSr"
-    },
-    {
-      "added_at": "2023-06-30 15:00:00",
-      "album": {
-        "name": "Colorize 2023 Spring Sampler",
-        "url": "https://open.spotify.com/album/2RQiB9SPWqSLQETVpLVacO"
-      },
-      "artists": [
-        {
-          "name": "VisionV",
-          "url": "https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf"
-        }
-      ],
-      "duration_ms": 240448,
-      "name": "Blossom",
-      "url": "https://open.spotify.com/track/5kAv0wk38BRqdMPbaGbKQe"
     },
     {
       "added_at": "2023-06-30 15:00:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-06-30 15:00:00",
       "album": {
-        "name": "Altered Destiny",
-        "url": "https://open.spotify.com/album/71zAjLq6pfN8gRmESEU8Y5"
-      },
-      "artists": [
-        {
-          "name": "Nora En Pure",
-          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
-        }
-      ],
-      "duration_ms": 185578,
-      "name": "Altered Destiny - Chill Mix",
-      "url": "https://open.spotify.com/track/5fRI7dWkOSw6DNaPef9MVV"
-    },
-    {
-      "added_at": "2023-06-30 15:00:00",
-      "album": {
         "name": "These Things Will Come To Be",
         "url": "https://open.spotify.com/album/3RGrGXf9ZsPOuqHm02SSl7"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 296360,
       "name": "These Things Will Come To Be",
       "url": "https://open.spotify.com/track/1vVq4Y18oveAg20Ujh43aE"
+    },
+    {
+      "added_at": "2023-06-30 15:00:00",
+      "album": {
+        "name": "Altered Destiny",
+        "url": "https://open.spotify.com/album/71zAjLq6pfN8gRmESEU8Y5"
+      },
+      "artists": [
+        {
+          "name": "Nora En Pure",
+          "url": "https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs"
+        }
+      ],
+      "duration_ms": 185578,
+      "name": "Altered Destiny - Chill Mix",
+      "url": "https://open.spotify.com/track/5fRI7dWkOSw6DNaPef9MVV"
     },
     {
       "added_at": "2023-06-30 15:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-06-30 15:00:00",
       "album": {
-        "name": "Amanh\u00e3",
-        "url": "https://open.spotify.com/album/2QidRRyyKoDLJolicSLfna"
-      },
-      "artists": [
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 212903,
-      "name": "Amanh\u00e3",
-      "url": "https://open.spotify.com/track/7iIvD4PwoUUTvawu3Otf9G"
-    },
-    {
-      "added_at": "2023-06-30 15:00:00",
-      "album": {
         "name": "Burnt Orange",
         "url": "https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 271475,
       "name": "Burnt Orange - Edit",
       "url": "https://open.spotify.com/track/1O73n53LZxJNLeGdhwChtt"
+    },
+    {
+      "added_at": "2023-06-30 15:00:00",
+      "album": {
+        "name": "Amanh\u00e3",
+        "url": "https://open.spotify.com/album/2QidRRyyKoDLJolicSLfna"
+      },
+      "artists": [
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "Amanh\u00e3",
+      "url": "https://open.spotify.com/track/7iIvD4PwoUUTvawu3Otf9G"
     },
     {
       "added_at": "2023-06-30 15:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-06-30 15:00:00",
       "album": {
-        "name": "You Can Dance Now",
-        "url": "https://open.spotify.com/album/3RStRb08OCSQiiPn7YRSi2"
-      },
-      "artists": [
-        {
-          "name": "Liva K",
-          "url": "https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj"
-        }
-      ],
-      "duration_ms": 244802,
-      "name": "You Can Dance Now",
-      "url": "https://open.spotify.com/track/2pCPnTHLdQXaL0AO5faZmR"
-    },
-    {
-      "added_at": "2023-06-30 15:00:00",
-      "album": {
         "name": "R U 4REAL (feat. Marina Maximilian)",
         "url": "https://open.spotify.com/album/2WV2u9UIG4I3BQ3jkuphBa"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 189677,
       "name": "R U 4REAL (feat. Marina Maximilian)",
       "url": "https://open.spotify.com/track/7qEYvfP5ONliv8obMM2A4E"
+    },
+    {
+      "added_at": "2023-06-30 15:00:00",
+      "album": {
+        "name": "You Can Dance Now",
+        "url": "https://open.spotify.com/album/3RStRb08OCSQiiPn7YRSi2"
+      },
+      "artists": [
+        {
+          "name": "Liva K",
+          "url": "https://open.spotify.com/artist/63mVEANeXk1p622Ejj9rBj"
+        }
+      ],
+      "duration_ms": 244802,
+      "name": "You Can Dance Now",
+      "url": "https://open.spotify.com/track/2pCPnTHLdQXaL0AO5faZmR"
     },
     {
       "added_at": "2023-06-30 15:00:00",
@@ -819,22 +819,6 @@
     {
       "added_at": "2023-06-30 15:00:00",
       "album": {
-        "name": "Roda",
-        "url": "https://open.spotify.com/album/2R2VAtvhljTHh0sZ54xip1"
-      },
-      "artists": [
-        {
-          "name": "MonoJack",
-          "url": "https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9"
-        }
-      ],
-      "duration_ms": 285123,
-      "name": "Roda",
-      "url": "https://open.spotify.com/track/1lBaMqhhJIRNqiNSn1EUMc"
-    },
-    {
-      "added_at": "2023-06-30 15:00:00",
-      "album": {
         "name": "Nefertari",
         "url": "https://open.spotify.com/album/3bx0Oxn4rZeOpTds2RVX6h"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 241160,
       "name": "Nefertari",
       "url": "https://open.spotify.com/track/7lN1zrd3LsTqGeaPODv2IP"
+    },
+    {
+      "added_at": "2023-06-30 15:00:00",
+      "album": {
+        "name": "Roda",
+        "url": "https://open.spotify.com/album/2R2VAtvhljTHh0sZ54xip1"
+      },
+      "artists": [
+        {
+          "name": "MonoJack",
+          "url": "https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9"
+        }
+      ],
+      "duration_ms": 285123,
+      "name": "Roda",
+      "url": "https://open.spotify.com/track/1lBaMqhhJIRNqiNSn1EUMc"
     },
     {
       "added_at": "2023-06-30 15:00:00",
@@ -927,18 +927,18 @@
     {
       "added_at": "2023-06-30 15:00:00",
       "album": {
-        "name": "NOSTALGIA*",
-        "url": "https://open.spotify.com/album/5SSB8c7AeeF66wKMJ7cUBl"
+        "name": "No One Like You - EP",
+        "url": "https://open.spotify.com/album/3GSvcm4WssIPaJLilc5LCK"
       },
       "artists": [
         {
-          "name": "MATVE\u00cf",
-          "url": "https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1"
+          "name": "Marten Lou",
+          "url": "https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK"
         }
       ],
-      "duration_ms": 145000,
-      "name": "NOSTALGIA*",
-      "url": "https://open.spotify.com/track/4AFWYfIxLAiEL3G3KwEhQR"
+      "duration_ms": 256721,
+      "name": "No One Like You - Edit",
+      "url": "https://open.spotify.com/track/262YCyt3bWO2U7sk3wHAhn"
     },
     {
       "added_at": "2023-06-30 15:00:00",
@@ -955,6 +955,22 @@
       "duration_ms": 224262,
       "name": "Home",
       "url": "https://open.spotify.com/track/2C63v8jhFe8q2SnAliA3ql"
+    },
+    {
+      "added_at": "2023-06-30 15:00:00",
+      "album": {
+        "name": "NOSTALGIA*",
+        "url": "https://open.spotify.com/album/5SSB8c7AeeF66wKMJ7cUBl"
+      },
+      "artists": [
+        {
+          "name": "MATVE\u00cf",
+          "url": "https://open.spotify.com/artist/2c8JocB8eI6cCGaF5xGoT1"
+        }
+      ],
+      "duration_ms": 145000,
+      "name": "NOSTALGIA*",
+      "url": "https://open.spotify.com/track/4AFWYfIxLAiEL3G3KwEhQR"
     },
     {
       "added_at": "2023-06-30 15:00:00",
@@ -991,18 +1007,18 @@
     {
       "added_at": "2023-06-30 15:00:00",
       "album": {
-        "name": "No One Like You - EP",
-        "url": "https://open.spotify.com/album/3GSvcm4WssIPaJLilc5LCK"
+        "name": "Petit Matin",
+        "url": "https://open.spotify.com/album/0P57bvDYTfxQt9V4ChSvDi"
       },
       "artists": [
         {
-          "name": "Marten Lou",
-          "url": "https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK"
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
         }
       ],
-      "duration_ms": 256721,
-      "name": "No One Like You - Edit",
-      "url": "https://open.spotify.com/track/262YCyt3bWO2U7sk3wHAhn"
+      "duration_ms": 447066,
+      "name": "Petit Matin",
+      "url": "https://open.spotify.com/track/0MOwzHYBsXeVkb98ewMMZP"
     },
     {
       "added_at": "2023-06-30 15:00:00",
@@ -1031,22 +1047,6 @@
     {
       "added_at": "2023-06-30 15:00:00",
       "album": {
-        "name": "Petit Matin",
-        "url": "https://open.spotify.com/album/0P57bvDYTfxQt9V4ChSvDi"
-      },
-      "artists": [
-        {
-          "name": "NTO",
-          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
-        }
-      ],
-      "duration_ms": 447066,
-      "name": "Petit Matin",
-      "url": "https://open.spotify.com/track/0MOwzHYBsXeVkb98ewMMZP"
-    },
-    {
-      "added_at": "2023-06-30 15:00:00",
-      "album": {
         "name": "Be Here and Now",
         "url": "https://open.spotify.com/album/3pcwig8qvCceUoeo4xhLD7"
       },
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-06-30 15:00:00",
       "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/3JhrwVDziahf2PLTPzJhwT"
-      },
-      "artists": [
-        {
-          "name": "Giol\u00ec & Assia",
-          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
-        }
-      ],
-      "duration_ms": 221966,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/0rkJhWp63okDVZa5Cda6ua"
-    },
-    {
-      "added_at": "2023-06-30 15:00:00",
-      "album": {
         "name": "Lay It All On Me",
         "url": "https://open.spotify.com/album/2uvf564mzMbpHwuT0v3i37"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 227384,
       "name": "Lay It All On Me",
       "url": "https://open.spotify.com/track/1MPfyPFjBE0e9GGWImKlXf"
+    },
+    {
+      "added_at": "2023-06-30 15:00:00",
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/3JhrwVDziahf2PLTPzJhwT"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        }
+      ],
+      "duration_ms": 221966,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/0rkJhWp63okDVZa5Cda6ua"
     },
     {
       "added_at": "2023-06-30 15:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-06-30 15:00:00",
       "album": {
-        "name": "Love And Hate",
-        "url": "https://open.spotify.com/album/1NEZ9FtarC6DX5hbnC7H1c"
-      },
-      "artists": [
-        {
-          "name": "Bedouin",
-          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
-        }
-      ],
-      "duration_ms": 267004,
-      "name": "Love And Hate",
-      "url": "https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi"
-    },
-    {
-      "added_at": "2023-06-30 15:00:00",
-      "album": {
         "name": "Laufen",
         "url": "https://open.spotify.com/album/0rBQ3XoH7MGsyTroRmawqT"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 257709,
       "name": "Laufen",
       "url": "https://open.spotify.com/track/3l09ozhFppcBhSXXalTtsf"
+    },
+    {
+      "added_at": "2023-06-30 15:00:00",
+      "album": {
+        "name": "Love And Hate",
+        "url": "https://open.spotify.com/album/1NEZ9FtarC6DX5hbnC7H1c"
+      },
+      "artists": [
+        {
+          "name": "Bedouin",
+          "url": "https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx"
+        }
+      ],
+      "duration_ms": 267004,
+      "name": "Love And Hate",
+      "url": "https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi"
     },
     {
       "added_at": "2023-06-30 15:00:00",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2023-06-30 15:00:00",
       "album": {
+        "name": "Body Language, Vol. 24",
+        "url": "https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If"
+      },
+      "artists": [
+        {
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+        }
+      ],
+      "duration_ms": 315026,
+      "name": "Kami",
+      "url": "https://open.spotify.com/track/3fPOazjC0Pv6bJBfG8sFFN"
+    },
+    {
+      "added_at": "2023-06-30 15:00:00",
+      "album": {
         "name": "Sway",
         "url": "https://open.spotify.com/album/0AzztMsrs61QyBF9b1IaJh"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 241010,
       "name": "Sway",
       "url": "https://open.spotify.com/track/5GkG36tzfeuSaeW5TROrE4"
-    },
-    {
-      "added_at": "2023-06-30 15:00:00",
-      "album": {
-        "name": "Body Language, Vol. 24",
-        "url": "https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If"
-      },
-      "artists": [
-        {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
-        }
-      ],
-      "duration_ms": 315026,
-      "name": "Kami",
-      "url": "https://open.spotify.com/track/3fPOazjC0Pv6bJBfG8sFFN"
     },
     {
       "added_at": "2023-06-30 15:00:00",
@@ -1507,26 +1507,6 @@
     {
       "added_at": "2023-06-30 15:00:00",
       "album": {
-        "name": "Diving Into Minds",
-        "url": "https://open.spotify.com/album/2MvKF44F9EhwL46cMgWE8z"
-      },
-      "artists": [
-        {
-          "name": "Soichi Terada",
-          "url": "https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9"
-        },
-        {
-          "name": "Masalo",
-          "url": "https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53"
-        }
-      ],
-      "duration_ms": 387302,
-      "name": "Diving Into Minds - Club Mix",
-      "url": "https://open.spotify.com/track/2DRUTKWuuWebFUXu6p1krH"
-    },
-    {
-      "added_at": "2023-06-30 15:00:00",
-      "album": {
         "name": "WAIRUNGA",
         "url": "https://open.spotify.com/album/4MAhJnzuVI9wuq16A2Jidk"
       },
@@ -1539,6 +1519,22 @@
       "duration_ms": 630336,
       "name": "Dig Deep",
       "url": "https://open.spotify.com/track/35vMyIh6E7NZ50YtYb2Kxc"
+    },
+    {
+      "added_at": "2023-06-30 15:00:00",
+      "album": {
+        "name": "Camaleon",
+        "url": "https://open.spotify.com/album/2XY0Id6FDFM644I1vluaQX"
+      },
+      "artists": [
+        {
+          "name": "Pablo Fierro",
+          "url": "https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI"
+        }
+      ],
+      "duration_ms": 359211,
+      "name": "Camaleon",
+      "url": "https://open.spotify.com/track/3yYGdYXbtXT2cc1TVcc1Ld"
     }
   ],
   "unique_name": "Deep House Blend",

@@ -4,7 +4,7 @@
 
 > A bailar con la mejor cumbia sudamericana.
 
-237 songs - 13 hr 52 min
+239 songs - 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Fue Difícil](https://open.spotify.com/track/3R6zKiVOHM9WdnL8PvtrKK) | [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4), [Maria Jose Quintanilla](https://open.spotify.com/artist/13N9NShchIr3m8hgyVqrRg) | [Fue Difícil](https://open.spotify.com/album/2I99BEAGEhgr0T0jsNVRzt) | 3:46 | 2022-10-28 | 2022-11-13 |
 | [Fue Solo Piel](https://open.spotify.com/track/1wGlvLMghlLuI0JS0CcpDF) | [El Super Hobby](https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V), [Fede Rojas](https://open.spotify.com/artist/0xJhZwxGtFJ6n5ZAJbVAEe), [Laguna](https://open.spotify.com/artist/5AEQ9NQK8LJSpUzhuJga5u) | [Fue Solo Piel](https://open.spotify.com/album/4O8LVFTp9vwoQystHNX5Lr) | 2:39 | 2022-11-25 | 2023-03-04 |
 | [Fugitivo / Aca Llega la Banda / Asi Fue \- En Vivo](https://open.spotify.com/track/1FmxDLgWWPGN3gWTD45648) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Fugitivo / Aca Llega la Banda / Asi Fue \(En Vivo\)](https://open.spotify.com/album/4adOZCfSCGTRXBiDdS5tRo) | 7:12 | 2021-12-24 | 2023-04-29 |
+| [Hazme Olvidarla](https://open.spotify.com/track/3XQ8hlGg3npsH3JwwdcI1f) | [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2) | [Hazme Olvidarla](https://open.spotify.com/album/6Z4LbPRfRr5BHB4n9rUkl0) | 3:05 | 2023-07-21 |  |
 | [Hey Tu](https://open.spotify.com/track/2w28uMXOKPOVaoOQDDp9pR) | [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl) | [Hey Tu](https://open.spotify.com/album/0qEN49ipLOHVnuAaXZJSNV) | 3:16 | 2023-02-10 | 2023-04-01 |
 | [Hoy La Vi Pasar](https://open.spotify.com/track/6YwEACTymPJqiAlAyk9bHP) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [Hoy La Vi Pasar](https://open.spotify.com/album/0SXYP8yW2TZDFozwD9btcm) | 2:54 | 2023-03-31 | 2023-04-12 |
 | [Hoy Te Vi \- Remasterizado 2019](https://open.spotify.com/track/2XpNHiC5BMpfaZRJngdz5a) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Hoy Te Vi](https://open.spotify.com/album/3zTgssC09xvqTyx0P9K55d) | 3:34 | 2021-12-24 |  |
@@ -150,6 +151,7 @@
 | [Nunca Es Suficiente](https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Esto Sí Es Cumbia](https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY) | 4:26 | 2022-07-22 |  |
 | [Nunca Es Suficiente](https://open.spotify.com/track/6twHO7BEWWdBvYzJ1PAxPJ) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Niños A Bailar Vol\. 4](https://open.spotify.com/album/4bAoIi4Ux7F5lGf3JQQTWn) | 4:26 | 2022-10-28 | 2022-11-13 |
 | [O Me Voy O Te Vas](https://open.spotify.com/track/5L4UniqOA53WswdQRc4lxH) | [El Mago Y La Nueva](https://open.spotify.com/artist/0pelomsVlROuivdE2RgeDU) | [O Me Voy O Te Vas](https://open.spotify.com/album/73PgMjbUraBmIa68eOLr2k) | 5:02 | 2022-04-08 |  |
+| [Ojitos Rojos](https://open.spotify.com/track/5LsvrplQ7YCK4ROg4gym9a) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Ojitos Rojos](https://open.spotify.com/album/6mJsfQtxflmwDCCaeDBwYV) | 3:41 | 2023-07-21 |  |
 | [Olvidala \- Acústico](https://open.spotify.com/track/5SZ0c97z9IMsOK7DNRb0wU) | [Brian Lanzelotta](https://open.spotify.com/artist/6SV6TCY7KVVWmAhnX5WnS3), [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Olvidala \(Acústico\)](https://open.spotify.com/album/5OPH0yu43rBlCeSMiSSXLz) | 4:53 | 2022-04-15 | 2022-09-03 |
 | [Otra Noche](https://open.spotify.com/track/5i82o3878xCPNCUK8VIeqX) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Otra Noche](https://open.spotify.com/album/202ZNK1Xpb0r72VyHsz23L) | 3:19 | 2021-12-24 |  |
 | [Pa' que Tenga Swing](https://open.spotify.com/track/4eQuOFEmj4lQkIGq2oBCOq) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Pa' que Tenga Swing](https://open.spotify.com/album/13cJhpNH3hzsKOXj3Whl2F) | 2:55 | 2022-07-22 | 2023-06-06 |

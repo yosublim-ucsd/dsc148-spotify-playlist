@@ -4,7 +4,7 @@
 
 > R&B of the moment by the artists of the future\. Cover: Mack Keane
 
-626 songs - 1 day 8 hr 17 min
+627 songs - 1 day 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -147,8 +147,9 @@
 | [Don’t Even Think About It \(with Baby Tate\)](https://open.spotify.com/track/0RZJ2iTypYLPaN9bdQMuIK) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Girls Night Out](https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye) | 3:12 | 2022-11-27 | 2022-12-03 |
 | [Dopamine \(with NBDY\)](https://open.spotify.com/track/2OR6sDdibyxWVQaYlbk7k1) | [Benita](https://open.spotify.com/artist/7eg1HMzWrYIgVFtoq4UZZA), [Nbdy](https://open.spotify.com/artist/1fQWUHoSWhlrc9rmHi2xnE) | [Dopamine \(with NBDY\)](https://open.spotify.com/album/29lqXMJ4ZefBTjPbao7mYe) | 3:42 | 2022-09-30 | 2023-01-21 |
 | [Double Back](https://open.spotify.com/track/14DK4oWkwJVvzWZxWAGgrd) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/6Jl8EWCTKSFUEDTTXhUEKz) | 2:39 | 2022-11-04 | 2023-03-25 |
-| [Double Back](https://open.spotify.com/track/3S6EknYnMYBdQw0WH32wOH) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/0ZXTkMwilEQdz3KHe0dEPA) | 2:39 | 2023-05-05 |  |
+| [Double Back](https://open.spotify.com/track/3S6EknYnMYBdQw0WH32wOH) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/0ZXTkMwilEQdz3KHe0dEPA) | 2:39 | 2023-05-05 | 2023-07-22 |
 | [Double Back](https://open.spotify.com/track/4Jr0HjXP7TcIJKKaYksaDP) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn't Tell You](https://open.spotify.com/album/58hYoUeR0xA7uhO1IxPWd3) | 2:39 | 2022-11-04 | 2022-11-13 |
+| [Double Back](https://open.spotify.com/track/5WIsCDJeKudbztUiWhmSwt) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [What I Didn’t Tell You \(Deluxe\)](https://open.spotify.com/album/2NByZQX5Du6JbAyQff4QxA) | 2:39 | 2023-05-05 |  |
 | [Doubted Me](https://open.spotify.com/track/4oqMIoa9pJnCHDqv47ZmxJ) | [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Doubted Me](https://open.spotify.com/album/12o2sMXJK82NueZuOq5Vmf) | 2:34 | 2022-10-28 | 2022-11-26 |
 | [Draft 7 "fruitless love"](https://open.spotify.com/track/0asxbwYkiyRQnx8TiD8dFN) | [Hailes](https://open.spotify.com/artist/5D4DYVjwfm0svv1kD4QnKR) | [Draft 7 "fruitless love"](https://open.spotify.com/album/5f6YVKQVqduSfMS94UoSNI) | 2:46 | 2022-03-11 | 2022-04-02 |
 | [dumb luck](https://open.spotify.com/track/0X5C7k7mm6lc4WKiwJagd2) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 2:46 | 2022-10-07 | 2023-03-04 |

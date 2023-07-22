@@ -1,13 +1,33 @@
 {
   "description": "A mixtape for the perfect anime fight scene.",
-  "num_followers": 525214,
+  "num_followers": 525975,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1M2ZhOTEwNjFkMmNlZDk5ZDFjNmVmNzJkOWU0OTFlOGZkNGM1ZDA0",
+  "snapshot_id": "MCw5ZGU3MzcyY2YyOTI0YzEyOWY3OWEyYTQzZDQzZGQ5OWJlOGY4YWUx",
   "tracks": [
+    {
+      "added_at": "2023-07-21 19:05:21",
+      "album": {
+        "name": "DATA",
+        "url": "https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 232131,
+      "name": "MOJABI GHOST",
+      "url": "https://open.spotify.com/track/4eMKD8MRroxCqugpsxCCNb"
+    },
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
@@ -43,6 +63,22 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
+        "name": "She Bad",
+        "url": "https://open.spotify.com/album/0M6oyngsJDKXdyeuk1kTG7"
+      },
+      "artists": [
+        {
+          "name": "Khantrast",
+          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
+        }
+      ],
+      "duration_ms": 105534,
+      "name": "She Bad",
+      "url": "https://open.spotify.com/track/0VjBlyHOKvMwbSdMmyiFEp"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
         "name": "vendetta!",
         "url": "https://open.spotify.com/album/68lLFdlKCAqUQ3p3uDlozr"
       },
@@ -59,22 +95,6 @@
       "duration_ms": 107044,
       "name": "vendetta!",
       "url": "https://open.spotify.com/track/5Sk39LuvdwuvL84jD01Dum"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
-        "name": "She Bad",
-        "url": "https://open.spotify.com/album/0M6oyngsJDKXdyeuk1kTG7"
-      },
-      "artists": [
-        {
-          "name": "Khantrast",
-          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
-        }
-      ],
-      "duration_ms": 105534,
-      "name": "She Bad",
-      "url": "https://open.spotify.com/track/0VjBlyHOKvMwbSdMmyiFEp"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -183,22 +203,6 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/5TPtlK0RBgPloK3Robfiyp"
-      },
-      "artists": [
-        {
-          "name": "1nonly",
-          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
-        }
-      ],
-      "duration_ms": 141505,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/2WYs5LxOZfEyURXu7V0O1a"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
         "name": "Rotten",
         "url": "https://open.spotify.com/album/2jgKK8iIX83mPrCyDhvEdf"
       },
@@ -287,6 +291,22 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/5TPtlK0RBgPloK3Robfiyp"
+      },
+      "artists": [
+        {
+          "name": "1nonly",
+          "url": "https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER"
+        }
+      ],
+      "duration_ms": 141505,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/2WYs5LxOZfEyURXu7V0O1a"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
         "name": "\u6708\u3092\u898b\u3066\u3044\u305f",
         "url": "https://open.spotify.com/album/1vRP9NcPzsS14TroLaywor"
       },
@@ -303,22 +323,6 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
-        "name": "By the Sword",
-        "url": "https://open.spotify.com/album/3kdQLkOoQY2TtZflmtlyRa"
-      },
-      "artists": [
-        {
-          "name": "iamjakehill",
-          "url": "https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ"
-        }
-      ],
-      "duration_ms": 125812,
-      "name": "By the Sword",
-      "url": "https://open.spotify.com/track/3HsFSrIsbO54TFDfG66pZm"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
         "name": "IFeelLikeDirt",
         "url": "https://open.spotify.com/album/1vurSXXQeO0h4sy1BBDYrt"
       },
@@ -331,6 +335,22 @@
       "duration_ms": 75428,
       "name": "AirplaneMode",
       "url": "https://open.spotify.com/track/5XKZua8kqgHwcxeKiMIjge"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
+        "name": "By the Sword",
+        "url": "https://open.spotify.com/album/3kdQLkOoQY2TtZflmtlyRa"
+      },
+      "artists": [
+        {
+          "name": "iamjakehill",
+          "url": "https://open.spotify.com/artist/26JloX1vHxGGrGUVeMItFJ"
+        }
+      ],
+      "duration_ms": 125812,
+      "name": "By the Sword",
+      "url": "https://open.spotify.com/track/3HsFSrIsbO54TFDfG66pZm"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -367,22 +387,6 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
-        "name": "Aces",
-        "url": "https://open.spotify.com/album/7e0f5k0iqJVH5OdUEP9vOf"
-      },
-      "artists": [
-        {
-          "name": "dkj",
-          "url": "https://open.spotify.com/artist/5FU1KYJheed7LZIM2r6KrE"
-        }
-      ],
-      "duration_ms": 122250,
-      "name": "Aces",
-      "url": "https://open.spotify.com/track/4pV6Kx1T9L49PBFwH1g8ca"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
         "name": "HOT DEMON B!TCHES NEAR U ! ! !",
         "url": "https://open.spotify.com/album/5kcBHP5GH7fsOJLwVfXmx3"
       },
@@ -399,6 +403,22 @@
       "duration_ms": 96000,
       "name": "HOT DEMON B!TCHES NEAR U ! ! !",
       "url": "https://open.spotify.com/track/7v4pPS4A7NgY7bxFA3Etv3"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
+        "name": "Aces",
+        "url": "https://open.spotify.com/album/7e0f5k0iqJVH5OdUEP9vOf"
+      },
+      "artists": [
+        {
+          "name": "dkj",
+          "url": "https://open.spotify.com/artist/5FU1KYJheed7LZIM2r6KrE"
+        }
+      ],
+      "duration_ms": 122250,
+      "name": "Aces",
+      "url": "https://open.spotify.com/track/4pV6Kx1T9L49PBFwH1g8ca"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -519,22 +539,6 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
-        "name": "\u602a\u7269",
-        "url": "https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "\u602a\u7269",
-      "url": "https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
         "name": "MISA MISA!",
         "url": "https://open.spotify.com/album/140flQ7ktV8ptZM0WmHfvV"
       },
@@ -555,6 +559,22 @@
       "duration_ms": 85894,
       "name": "MISA MISA!",
       "url": "https://open.spotify.com/track/2biZJ6YK8Pz1bUby8VDV3Q"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
+        "name": "\u602a\u7269",
+        "url": "https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "\u602a\u7269",
+      "url": "https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -623,6 +643,26 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
+        "name": "WET DREAMS (w/ Nimstarr)",
+        "url": "https://open.spotify.com/album/4LXyWIoaWrDD2WeWrfDHmg"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "Nimstarr",
+          "url": "https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf"
+        }
+      ],
+      "duration_ms": 124711,
+      "name": "WET DREAMS (w/ Nimstarr)",
+      "url": "https://open.spotify.com/track/4as0bvI0a6VSgjWObsvwhi"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
         "name": "LA ESPADA",
         "url": "https://open.spotify.com/album/251w9v57Ijs1ZCAiwW0hjs"
       },
@@ -655,46 +695,6 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
-        "name": "chinatown!",
-        "url": "https://open.spotify.com/album/1EEKcUdS6QxuVMBFcK224N"
-      },
-      "artists": [
-        {
-          "name": "22december",
-          "url": "https://open.spotify.com/artist/5qOORCmdl34SsKnB8o4aaF"
-        },
-        {
-          "name": "Shady Moon",
-          "url": "https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4"
-        }
-      ],
-      "duration_ms": 145115,
-      "name": "chinatown!",
-      "url": "https://open.spotify.com/track/4JipCNXiKHe9LiKqMQr5w7"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
-        "name": "WET DREAMS (w/ Nimstarr)",
-        "url": "https://open.spotify.com/album/4LXyWIoaWrDD2WeWrfDHmg"
-      },
-      "artists": [
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        },
-        {
-          "name": "Nimstarr",
-          "url": "https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf"
-        }
-      ],
-      "duration_ms": 124711,
-      "name": "WET DREAMS (w/ Nimstarr)",
-      "url": "https://open.spotify.com/track/4as0bvI0a6VSgjWObsvwhi"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
         "name": "E-GIRLS ARE RUINING MY LIFE!",
         "url": "https://open.spotify.com/album/1wrJvDOGOMQKn2v0iRiSJT"
       },
@@ -711,6 +711,26 @@
       "duration_ms": 105176,
       "name": "E-GIRLS ARE RUINING MY LIFE!",
       "url": "https://open.spotify.com/track/7bCfHiRcfUjG0YVVNUL7Ve"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
+        "name": "chinatown!",
+        "url": "https://open.spotify.com/album/1EEKcUdS6QxuVMBFcK224N"
+      },
+      "artists": [
+        {
+          "name": "22december",
+          "url": "https://open.spotify.com/artist/5qOORCmdl34SsKnB8o4aaF"
+        },
+        {
+          "name": "Shady Moon",
+          "url": "https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4"
+        }
+      ],
+      "duration_ms": 145115,
+      "name": "chinatown!",
+      "url": "https://open.spotify.com/track/4JipCNXiKHe9LiKqMQr5w7"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -843,22 +863,6 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
-        "name": "Killin' On Demand",
-        "url": "https://open.spotify.com/album/43Xd3k45L0OgtJzJoQmUDD"
-      },
-      "artists": [
-        {
-          "name": "Freddie Dredd",
-          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
-        }
-      ],
-      "duration_ms": 129196,
-      "name": "Killin' On Demand",
-      "url": "https://open.spotify.com/track/2qOfyyZc41LfQ63U9p3GVV"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
         "name": "Benbow Crescent",
         "url": "https://open.spotify.com/album/3QXYqRVyBQfNK3MDn82hVF"
       },
@@ -895,6 +899,22 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
+        "name": "Killin' On Demand",
+        "url": "https://open.spotify.com/album/43Xd3k45L0OgtJzJoQmUDD"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        }
+      ],
+      "duration_ms": 129196,
+      "name": "Killin' On Demand",
+      "url": "https://open.spotify.com/track/2qOfyyZc41LfQ63U9p3GVV"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
         "name": "Red Teenage Melody",
         "url": "https://open.spotify.com/album/2WMe3Dqlc68URVRn7A3pm5"
       },
@@ -907,26 +927,6 @@
       "duration_ms": 271413,
       "name": "Still Cold / Pathway Private",
       "url": "https://open.spotify.com/track/4aXit1CKxL80R1qruHns8h"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
-        "name": "Blood (Alucard Rap)",
-        "url": "https://open.spotify.com/album/6qeRZqsdSTULbT0g2ihOoZ"
-      },
-      "artists": [
-        {
-          "name": "Rustage",
-          "url": "https://open.spotify.com/artist/6cd3XfCAc3e596RQW8P94H"
-        },
-        {
-          "name": "TOPHAMHAT-KYO",
-          "url": "https://open.spotify.com/artist/2QGB8HqesnKeA5gcLJ0hiZ"
-        }
-      ],
-      "duration_ms": 197183,
-      "name": "Blood (Alucard Rap)",
-      "url": "https://open.spotify.com/track/2deb24yUrqgOVwGJjaIaYp"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -947,6 +947,26 @@
       "duration_ms": 139469,
       "name": "GHOSTKILLA",
       "url": "https://open.spotify.com/track/7GAnp0Xrdx6SMW9FVUTR1w"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
+        "name": "Blood (Alucard Rap)",
+        "url": "https://open.spotify.com/album/6qeRZqsdSTULbT0g2ihOoZ"
+      },
+      "artists": [
+        {
+          "name": "Rustage",
+          "url": "https://open.spotify.com/artist/6cd3XfCAc3e596RQW8P94H"
+        },
+        {
+          "name": "TOPHAMHAT-KYO",
+          "url": "https://open.spotify.com/artist/2QGB8HqesnKeA5gcLJ0hiZ"
+        }
+      ],
+      "duration_ms": 197183,
+      "name": "Blood (Alucard Rap)",
+      "url": "https://open.spotify.com/track/2deb24yUrqgOVwGJjaIaYp"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -1019,38 +1039,6 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
-        "name": "KILL!",
-        "url": "https://open.spotify.com/album/2Bk3pomO5BGIJrNhwjzqRE"
-      },
-      "artists": [
-        {
-          "name": "Kxllswxtch",
-          "url": "https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6"
-        }
-      ],
-      "duration_ms": 94235,
-      "name": "EXORCIST",
-      "url": "https://open.spotify.com/track/6qwEeAl6Cl32odNr2GIMjm"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
-        "name": "V-12",
-        "url": "https://open.spotify.com/album/0vE68M9oSKgdquoSwnCagE"
-      },
-      "artists": [
-        {
-          "name": "Lil Dew'",
-          "url": "https://open.spotify.com/artist/5rdLddw7ViJqfFb2xptiMQ"
-        }
-      ],
-      "duration_ms": 140460,
-      "name": "V-12",
-      "url": "https://open.spotify.com/track/3OjCfATz0aDdfndJ4hWCKU"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
         "name": "DONNA",
         "url": "https://open.spotify.com/album/7cDWmwbJr4u0i2tmLV63xI"
       },
@@ -1083,18 +1071,34 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
-        "name": "S1KE",
-        "url": "https://open.spotify.com/album/5YKJ7mPmmNEGFkczGfM2nx"
+        "name": "V-12",
+        "url": "https://open.spotify.com/album/0vE68M9oSKgdquoSwnCagE"
       },
       "artists": [
         {
-          "name": "Ariis",
-          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
+          "name": "Lil Dew'",
+          "url": "https://open.spotify.com/artist/5rdLddw7ViJqfFb2xptiMQ"
         }
       ],
-      "duration_ms": 114666,
-      "name": "S1KE",
-      "url": "https://open.spotify.com/track/353nsW8dzFIYX3hZfn2fUL"
+      "duration_ms": 140460,
+      "name": "V-12",
+      "url": "https://open.spotify.com/track/3OjCfATz0aDdfndJ4hWCKU"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
+        "name": "KILL!",
+        "url": "https://open.spotify.com/album/2Bk3pomO5BGIJrNhwjzqRE"
+      },
+      "artists": [
+        {
+          "name": "Kxllswxtch",
+          "url": "https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6"
+        }
+      ],
+      "duration_ms": 94235,
+      "name": "EXORCIST",
+      "url": "https://open.spotify.com/track/6qwEeAl6Cl32odNr2GIMjm"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -1111,6 +1115,42 @@
       "duration_ms": 160666,
       "name": "Go!",
       "url": "https://open.spotify.com/track/4Fd2jLQspwZVv7hF3bXHFg"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
+        "name": "S1KE",
+        "url": "https://open.spotify.com/album/5YKJ7mPmmNEGFkczGfM2nx"
+      },
+      "artists": [
+        {
+          "name": "Ariis",
+          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
+        }
+      ],
+      "duration_ms": 114666,
+      "name": "S1KE",
+      "url": "https://open.spotify.com/track/353nsW8dzFIYX3hZfn2fUL"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
+        "name": "3x3",
+        "url": "https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+        }
+      ],
+      "duration_ms": 126600,
+      "name": "I LOVE YOU HOE (w/ 9lives)",
+      "url": "https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -1199,42 +1239,6 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
-        "name": "3x3",
-        "url": "https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t"
-      },
-      "artists": [
-        {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
-        },
-        {
-          "name": "9lives",
-          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
-        }
-      ],
-      "duration_ms": 126600,
-      "name": "I LOVE YOU HOE (w/ 9lives)",
-      "url": "https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
-        "name": "Speak Up",
-        "url": "https://open.spotify.com/album/4G2TAC3hSBxLh9A2Ee2WZi"
-      },
-      "artists": [
-        {
-          "name": "Is0kenny",
-          "url": "https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb"
-        }
-      ],
-      "duration_ms": 104960,
-      "name": "Speak Up",
-      "url": "https://open.spotify.com/track/2rqB2I2stqNPaVBaObZnDx"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
         "name": "MK Plus Ultra",
         "url": "https://open.spotify.com/album/6oy7rNsd09qEKBDEDUawEg"
       },
@@ -1251,18 +1255,18 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
-        "name": "I'm Toxic",
-        "url": "https://open.spotify.com/album/0LbmzupwRcQfKfF2VQr4q0"
+        "name": "Speak Up",
+        "url": "https://open.spotify.com/album/4G2TAC3hSBxLh9A2Ee2WZi"
       },
       "artists": [
         {
-          "name": "Khantrast",
-          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
+          "name": "Is0kenny",
+          "url": "https://open.spotify.com/artist/1gDoTzsseyqOOrvKCCY2sb"
         }
       ],
-      "duration_ms": 116323,
-      "name": "I'm Toxic",
-      "url": "https://open.spotify.com/track/6aLzDW8TlgccoWycY99mfU"
+      "duration_ms": 104960,
+      "name": "Speak Up",
+      "url": "https://open.spotify.com/track/2rqB2I2stqNPaVBaObZnDx"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -1287,18 +1291,18 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
-        "name": "Bars No Jutsu",
-        "url": "https://open.spotify.com/album/0bvzkMcYdnGAqgrD8pKAWT"
+        "name": "I'm Toxic",
+        "url": "https://open.spotify.com/album/0LbmzupwRcQfKfF2VQr4q0"
       },
       "artists": [
         {
-          "name": "Louis Capone",
-          "url": "https://open.spotify.com/artist/29zXTjItl1yrV99QZQxECu"
+          "name": "Khantrast",
+          "url": "https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo"
         }
       ],
-      "duration_ms": 148642,
-      "name": "Bars No Jutsu",
-      "url": "https://open.spotify.com/track/5H9VMgnzuU62NYzWdJlqae"
+      "duration_ms": 116323,
+      "name": "I'm Toxic",
+      "url": "https://open.spotify.com/track/6aLzDW8TlgccoWycY99mfU"
     },
     {
       "added_at": "2023-07-13 15:18:57",

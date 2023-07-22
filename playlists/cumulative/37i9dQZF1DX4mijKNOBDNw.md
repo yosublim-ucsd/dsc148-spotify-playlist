@@ -4,11 +4,12 @@
 
 > Si tocan a una respondemos todas.
 
-68 songs - 3 hr 57 min
+69 songs - 3 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Alma de Cantaora](https://open.spotify.com/track/68E3IMzPvvgKVXrwW2hXJW) | [Amparo Sánchez](https://open.spotify.com/artist/2VsFlcS7zCbTXd1JpZ74cg) | [Alma de Cantaora](https://open.spotify.com/album/4RZtmfEuBbn9QVZguelVmO) | 4:50 | 2023-03-10 |  |
+| [Amiga](https://open.spotify.com/track/1MyeYdKKegyVW2LHenX63b) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Amiga](https://open.spotify.com/album/0YaIQWmzrG5b0iWDwzvf5x) | 2:37 | 2023-07-21 |  |
 | [Antipatriarca](https://open.spotify.com/track/49SpHaonnqks7taOwDfV6Z) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [Vengo](https://open.spotify.com/album/4AvYh9UIRwjZJYI9X7p8ua) | 3:04 | 2023-03-10 |  |
 | [Ay Mamá](https://open.spotify.com/track/0khVEzctbwmqLvOpg1ecbg) | [Rigoberta Bandini](https://open.spotify.com/artist/7DOERbtkx9aTLvWzZSB0qx) | [Ay Mamá](https://open.spotify.com/album/26As3PYmCCD390xoIJ4RE6) | 3:01 | 2023-03-10 |  |
 | [Belicosa](https://open.spotify.com/track/1FvhrIQOQnK0oXzDgk5SD9) | [Baja Frequencia](https://open.spotify.com/artist/5hkLgDHHOCdNfLSdevCX2z), [Chocolate Remix](https://open.spotify.com/artist/4kkuyWmpashrooyOFvHX2m) | [Belicosa](https://open.spotify.com/album/2uRdtPtwPoYAbgnT6LKr8R) | 2:49 | 2023-03-10 |  |
@@ -55,7 +56,7 @@
 | [Nos Deseo](https://open.spotify.com/track/4dSMI9UzUk9dmJ4hmUNLWw) | [Tremenda Jauría](https://open.spotify.com/artist/2PHostfMixbU0kfU62poO8), [Kumbia Queers](https://open.spotify.com/artist/5YyaDaOco3I0zoLtGxDM5K) | [Cuentas Pendientes](https://open.spotify.com/album/4DDnKiQFpoYi6kRZXZJSb6) | 3:28 | 2023-03-10 |  |
 | [Nos Queremos Vivas](https://open.spotify.com/track/4UYBH2rHhTDa655jgcfZUt) | [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq) | [Nos Queremos Vivas](https://open.spotify.com/album/5Dqwsm0uvmt6TvPHScZ35W) | 3:40 | 2023-03-10 |  |
 | [Nosotras Tenemos Otros Datos](https://open.spotify.com/track/1NmW3KNBImwfO6ej91vpHv) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [P\. Jaguar](https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB) | [Nosotras Tenemos Otros Datos](https://open.spotify.com/album/5c9LTfH3OcFIRHuaecGOm4) | 3:21 | 2023-03-10 |  |
-| [Nunca Amor](https://open.spotify.com/track/4mZuInt5AIL6PqDF1I2zRt) | [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Nunca Amor](https://open.spotify.com/album/7c6CsAKYwhoAcNDcKJcx1z) | 3:06 | 2023-03-10 |  |
+| [Nunca Amor](https://open.spotify.com/track/4mZuInt5AIL6PqDF1I2zRt) | [Leiden](https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI) | [Nunca Amor](https://open.spotify.com/album/7c6CsAKYwhoAcNDcKJcx1z) | 3:06 | 2023-03-10 | 2023-07-22 |
 | [Otra Humanidad](https://open.spotify.com/track/3eVZky3RqaMnVXZAXeCvws) | [Marta](https://open.spotify.com/artist/6gqr3AeZrJMU7J2alQlN8Q) | [Marta](https://open.spotify.com/album/0iH9r1Rzfa961VMQx9gFsR) | 3:27 | 2023-03-10 |  |
 | [Ovarios](https://open.spotify.com/track/2gC9hVnERFu46pSYh3xNST) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW), [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Ovarios](https://open.spotify.com/album/277fN3hslccaJCKC6Evvnk) | 4:09 | 2023-03-10 |  |
 | [Paracas Cavernas](https://open.spotify.com/track/5iEzYvaLSLUU7pU4miiVE5) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Paracas Cavernas](https://open.spotify.com/album/0rYpO9guHXOLfNeuNPTqgk) | 4:28 | 2023-03-10 |  |

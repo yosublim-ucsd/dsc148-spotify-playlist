@@ -4,7 +4,7 @@
 
 > Soft house music for your laidback moments.
 
-725 songs - 1 day 17 hr 26 min
+726 songs - 1 day 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Affection](https://open.spotify.com/track/0HiEXZOONGJt3IFmdD3Gjd) | [Goose Groovy](https://open.spotify.com/artist/5g7RMNd1zbiT8yisqse8dA) | [Affection](https://open.spotify.com/album/2rqz6aDLD084T5td7Q6EsL) | 2:56 | 2022-02-10 | 2023-05-27 |
 | [Affection Reflection](https://open.spotify.com/track/4Bom6DRearLyhau93DsSt3) | [Lhaw](https://open.spotify.com/artist/3UwfNxtuc0VZg4YniqFgnI) | [Affection Reflection](https://open.spotify.com/album/3IAEw6178vpkPKJZajvtZ0) | 3:13 | 2022-01-21 | 2023-07-14 |
 | [Afrodeziac](https://open.spotify.com/track/42c7uR5Uz4piO3okWVQMFC) | [Far Orange](https://open.spotify.com/artist/1SIt7IjD8Q9RpwEklyMlUO), [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [Caelitum](https://open.spotify.com/album/5uve47bzEqwQY9RnUiT4HP) | 5:00 | 2020-12-24 | 2021-02-04 |
-| [Afterbeach](https://open.spotify.com/track/3H9RVmWhpElLLJD83yKw8J) | [Flamentone](https://open.spotify.com/artist/1VzCeERouz6MncrbF2VDxA) | [Afterbeach](https://open.spotify.com/album/7vgZ5UPZSrR02efzNukCu6) | 2:53 | 2021-11-08 |  |
+| [Afterbeach](https://open.spotify.com/track/3H9RVmWhpElLLJD83yKw8J) | [Flamentone](https://open.spotify.com/artist/1VzCeERouz6MncrbF2VDxA) | [Afterbeach](https://open.spotify.com/album/7vgZ5UPZSrR02efzNukCu6) | 2:53 | 2021-11-08 | 2023-07-22 |
 | [Afternoon in Stereo](https://open.spotify.com/track/0cqWk8s2KJglPnuojyhYCQ) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Afternoon in Stereo](https://open.spotify.com/album/4H25UhNaAxBmNdSmfxJSXa) | 3:04 | 2020-04-03\* | 2020-10-27 |
 | [Afterwave](https://open.spotify.com/track/4PlyNPjqjniNO5WLvuOfeJ) | [Scoobadive](https://open.spotify.com/artist/3jR9KEaFl4oXjElgnvG2Bd) | [Afterwave](https://open.spotify.com/album/6az6DQdYHWgjuQxtp7eQqK) | 2:56 | 2022-06-10 |  |
 | [Aguacates Maduros](https://open.spotify.com/track/3bDpJL4DCGc8ynUfhCtTHl) | [Pool\-Man John](https://open.spotify.com/artist/5tQdY6sUlCJwkUmfJK4rbe) | [Aguacates Maduros](https://open.spotify.com/album/5L5ZfUAzvCyBiBM3yWy5DC) | 2:43 | 2021-11-08 |  |
@@ -590,6 +590,7 @@
 | [Soil](https://open.spotify.com/track/19QImmjKGCj2KNvJbFjwRd) | [Bush Lily](https://open.spotify.com/artist/6DegnHhrD8IyI7F7iDnXm4) | [Soil](https://open.spotify.com/album/1nr940JdureKTuemThNzQ4) | 2:17 | 2023-02-24 |  |
 | [Solana Beach](https://open.spotify.com/track/2VWrRpMicsoQo4I35w0e7W) | [SunZunSun](https://open.spotify.com/artist/5SKcOlTnoLFO3fKYCnLRWN) | [The Best](https://open.spotify.com/album/2CPNcUW9gY2qeWJquCPnHj) | 3:40 | 2022-01-21 | 2023-06-03 |
 | [solar bliss](https://open.spotify.com/track/5pmOBhY1ZyQwpebo3vfzes) | [Gabri From France](https://open.spotify.com/artist/4ybvTRsVimsKgk44cmwFSj) | [solar bliss](https://open.spotify.com/album/171awXr7cajam1zPKEh9XV) | 2:44 | 2022-09-02 |  |
+| [Solar Healing](https://open.spotify.com/track/7lQa9uhOiN5eD2rM75tHry) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Curated Light](https://open.spotify.com/album/4P6gdXh3u8854etdrkx8O5) | 3:16 | 2023-07-21 |  |
 | [Solar Smile](https://open.spotify.com/track/2mzIEhqRq7O2sfVtUPFux7) | [Lemon Pi](https://open.spotify.com/artist/4iXm09MxBWzOQBhZVUGw12) | [Solar Smile](https://open.spotify.com/album/6wk7DhHGCje3P6dfWV4aqE) | 2:31 | 2021-02-04 | 2022-06-24 |
 | [Solitude](https://open.spotify.com/track/1YTf5EFF82UYyTa1KIlWoZ) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [ultmt.](https://open.spotify.com/artist/1aso54DoYofR39PLCLRAoF), [Funcc.](https://open.spotify.com/artist/3vAvHFXAMYvfj5AO2CoYyX) | [Solitude](https://open.spotify.com/album/1XIkAi3l0twutovCyEpBbU) | 1:47 | 2020-04-03\* | 2020-07-22 |
 | [Some Like It Hot](https://open.spotify.com/track/7sud5rRJp7QOLsWyZXmF9T) | [Plastik Flamingos](https://open.spotify.com/artist/7adQbzv3xWy2s9a6Q5lxpU) | [Keep It Chill](https://open.spotify.com/album/5cyotxqSzrwck7zLt1ZyqK) | 2:37 | 2023-02-17 |  |

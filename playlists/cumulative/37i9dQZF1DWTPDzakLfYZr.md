@@ -4,12 +4,13 @@
 
 > ¡Los grandes temas del Pop Urbano, eso es Popetón! Foto: Farina & Sean Paul
 
-283 songs - 15 hr 1 min
+284 songs - 15 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [11:11](https://open.spotify.com/track/2qzZTKnZ3f2vQ7DaAGKGq2) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [11:11](https://open.spotify.com/album/19AbkdvXeU2ga969fV5uUe) | 3:44 | 2022-03-25 | 2022-04-09 |
-| [12x3 Remix](https://open.spotify.com/track/3nl2V4yl1Vt8EJSM8RhSmJ) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [12x3 Remix](https://open.spotify.com/album/6kjJ9YLK0ZNTajArpF95qY) | 3:39 | 2022-08-26 |  |
+| [12x3 Remix](https://open.spotify.com/track/3nl2V4yl1Vt8EJSM8RhSmJ) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [12x3 Remix](https://open.spotify.com/album/6kjJ9YLK0ZNTajArpF95qY) | 3:39 | 2022-08-26 | 2023-07-22 |
+| [12x3 Remix](https://open.spotify.com/track/6l5mnUQoCem5c3nb7drZP3) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [12x3 Remix](https://open.spotify.com/album/5bvDbTvKarV1m9W9U6oebI) | 3:39 | 2023-07-14 |  |
 | [14/20](https://open.spotify.com/track/61fxkxoroML09OXhhUfsP4) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [14/20](https://open.spotify.com/album/6vdBr8NQLpiS67TpgMYybx) | 3:15 | 2023-05-18 |  |
 | [1Trago](https://open.spotify.com/track/7pNzIsog6lGrTL7coKYtKl) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [1Trago](https://open.spotify.com/album/61bbTZzUgZZnZPpuKYHj26) | 3:21 | 2023-06-16 | 2023-07-08 |
 | [2005](https://open.spotify.com/track/4NFW5n8VHH7l6x3XJkv1oQ) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [2005](https://open.spotify.com/album/4J4KvvywWFEYRSKbMA9frG) | 3:28 | 2021-12-10 |  |

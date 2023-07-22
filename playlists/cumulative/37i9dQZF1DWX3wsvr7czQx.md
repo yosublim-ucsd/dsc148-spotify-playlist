@@ -4,7 +4,7 @@
 
 > Icons only\. Cover: Michael Bolton
 
-87 songs - 5 hr 40 min
+88 songs - 5 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Always Have, Always Will](https://open.spotify.com/track/02p16pYf7Hk0zgkwGF5EzL) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [So Happy It Hurts](https://open.spotify.com/album/5tccDKivQOkZJSlAbVwWHI) | 3:46 | 2022-03-11 |  |
 | [Another One Like You](https://open.spotify.com/track/7LG4q9SfTN7JKSXfR9TjPP) | [Eric Johnson](https://open.spotify.com/artist/4CxobvwTpmfpIEbkYh4pAb) | [The Book of Making / Yesterday Meets Today](https://open.spotify.com/album/37fPofkMlxgccr5E7sRXz3) | 3:46 | 2022-07-29 | 2023-04-15 |
 | [Anything Can Happen \(feat\. Leon Russell\)](https://open.spotify.com/track/6XFMd8YMUYptBu7A4FBPJj) | [Bruce Hornsby](https://open.spotify.com/artist/2iM28IgKg89v1o7BTQAVPo), [Leon Russell](https://open.spotify.com/artist/6r1Xmz7YUD4z0VRUoGm8XN) | [Anything Can Happen \(feat\. Leon Russell\)](https://open.spotify.com/album/2ArblNA5QAgMt05M22CG78) | 3:44 | 2021-10-22 | 2023-04-29 |
-| [Automatic](https://open.spotify.com/track/6KgSNIpIoasIodiMWLAaD9) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Automatic](https://open.spotify.com/album/6ZNZEqAoxAxuCQxCQkn7il) | 3:07 | 2023-06-16 |  |
+| [Automatic](https://open.spotify.com/track/6KgSNIpIoasIodiMWLAaD9) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Automatic](https://open.spotify.com/album/6ZNZEqAoxAxuCQxCQkn7il) | 3:07 | 2023-06-16 | 2023-07-22 |
 | [Bang A Gong \(Get It On\)](https://open.spotify.com/track/53D3QRrXV0vyy2PSXAhuxG) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Bang A Gong \(Get It On\)](https://open.spotify.com/album/0aptgsGtrV5XvnopE7ZjSo) | 4:26 | 2021-10-22 |  |
 | [Beautiful Sunshine](https://open.spotify.com/track/06vruaOv6AAjmL0lGhimEI) | [Wet Wet Wet](https://open.spotify.com/artist/2u0gw0uCWBMiqV7h0N8kai) | [The Journey](https://open.spotify.com/album/5wqUZZr1E77YnRSBYD0Y5E) | 2:55 | 2021-11-05 |  |
 | [Beautiful World](https://open.spotify.com/track/3jUvfhQkh89AHkl2f4nNAE) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn), [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu) | [Beautiful World](https://open.spotify.com/album/6t00567XAMyOx3B7Yj0cEG) | 3:19 | 2023-06-16 |  |
@@ -31,6 +31,7 @@
 | [Disconnected](https://open.spotify.com/track/1Lu7PmT0qjWn7oRPC08gMp) | [John Oates](https://open.spotify.com/artist/4TjR4K8rD5CqqqU59V6aGr) | [Disconnected](https://open.spotify.com/album/4T93DNv8Icl7KKPh6CDn1h) | 4:54 | 2023-02-03 | 2023-03-18 |
 | [End Of Night](https://open.spotify.com/track/2mOzVvURATXmEU64DANxDr) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Tipping Point](https://open.spotify.com/album/6xKxlHD3mWkKoMtl3ZVyLt) | 3:23 | 2022-02-25 |  |
 | [Every One of Us](https://open.spotify.com/track/6SkgB0rRsGB0ZkSGkPWaOW) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt), [The Unsung Heroes](https://open.spotify.com/artist/0Hj4TOkvfWyweKo7lIipSg) | [Every One of Us](https://open.spotify.com/album/3Z08OEw7y50bZNAbapjP8B) | 3:25 | 2021-10-22 | 2022-06-11 |
+| [Exit Wound](https://open.spotify.com/track/0V1cNtY74UmCVJn44yBZ5i) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Exit Wound](https://open.spotify.com/album/2vLZvJJPD9eJQ8GY4BlDap) | 2:41 | 2023-07-21 |  |
 | [Find My Way](https://open.spotify.com/track/1SYdSWLyeVMjHYXD1iJZoY) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney III](https://open.spotify.com/album/1P7h3400RJA3YZm8Va2884) | 3:54 | 2021-10-22 |  |
 | [Finish Line](https://open.spotify.com/track/2mRK4OJ96kntvBe141m9AW) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Finish Line](https://open.spotify.com/album/0AiRY02hMgv49bJlqCQNPG) | 4:24 | 2021-10-22 |  |
 | [Firecracker](https://open.spotify.com/track/2FpEAJWDxKW2FCyyLC9Tg2) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Firecracker](https://open.spotify.com/album/3KETmuy3XHOCpqJSyBoYXD) | 3:50 | 2022-06-10 |  |

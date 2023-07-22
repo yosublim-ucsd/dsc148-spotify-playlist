@@ -4,7 +4,7 @@
 
 > Get into a morning flow with this focus playlist.
 
-100 songs - 7 hr 2 min
+101 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Dream Jobs](https://open.spotify.com/track/2U8C1F1gzcTd2KnGZTGLtB) | [Neighborhood Libraries](https://open.spotify.com/artist/5eu335GvCPHQ1hTJiH0zJt) | [Dream Jobs](https://open.spotify.com/album/5Co0BYcSAiHV782o3RwnWX) | 3:12 | 2023-05-05 |  |
 | [Dream of Thaw](https://open.spotify.com/track/3LYYMoU3tYc382cbOtZwAN) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Balmorhea](https://open.spotify.com/album/0Ns1fm6Fu3PJ33YjDHj8CH) | 5:03 | 2023-05-05 |  |
 | [Dust Collects](https://open.spotify.com/track/3lDs1vZgQm1YMzMU6x8LXz) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Future Falling](https://open.spotify.com/album/4V0Xf9ER0qdXBY4erJEOSj) | 5:21 | 2023-05-05 |  |
+| [Electric Waves](https://open.spotify.com/track/5d4b8jDhbRUmIiJRd1stfi) | [Karl Moss](https://open.spotify.com/artist/25H0yChYFEluC55Wre0smF) | [Karl Moss](https://open.spotify.com/album/5TVb1POzOFwH37hgsYjvbI) | 2:44 | 2023-07-21 |  |
 | [Embers](https://open.spotify.com/track/5LopRVLII1pAVeQxm8tNpI) | [Tracey Chattaway](https://open.spotify.com/artist/7pTS4RiG0sM9TijxQJz8f6) | [Third Place](https://open.spotify.com/album/5ch7UKRAKaXctfrbyYGVDD) | 2:58 | 2023-05-05 |  |
 | [Enchanted Eden](https://open.spotify.com/track/2cE8qbHp3Rtbp3J4BQ3b8m) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [Enchanted Eden & Introspective Illusions](https://open.spotify.com/album/1iAlgtn0THENUi4T6gMMbn) | 3:23 | 2023-05-05 |  |
 | [Eskimo Kiss](https://open.spotify.com/track/4itrgZV7mva3f1dHJrNK8W) | [Years Of Rice And Salt](https://open.spotify.com/artist/2F0zNXnYK54oO0q6mY5GyR) | [Nothing Of Cities](https://open.spotify.com/album/2Tmd9wdNwM6raKQdY0kcOu) | 8:08 | 2023-05-05 |  |
@@ -60,7 +61,7 @@
 | [Intro](https://open.spotify.com/track/5MtO7IFN3mmGpU8bRhQJMl) | [Yaroslav Molochnyk](https://open.spotify.com/artist/5rS7DsS5QArX7bkSXSvzEi) | [Intro](https://open.spotify.com/album/7wtyjbU0F0C50EvX27V7DP) | 2:54 | 2023-05-05 |  |
 | [Invisible](https://open.spotify.com/track/3n2s5edP4v0WJC7tyt6mKe) | [Vivian Roost](https://open.spotify.com/artist/7aCsFWCF4YljmoHrXRA63I) | [From Home](https://open.spotify.com/album/4s631bf05BJesvz6XT3iDT) | 1:21 | 2023-05-05 |  |
 | [Itasca](https://open.spotify.com/track/1LAfLQLoApcUphZFXPN1Px) | [Elskavon](https://open.spotify.com/artist/5vDfVxwAH8ANpuIKKxfOeq), [John Hayes](https://open.spotify.com/artist/7o2FMy3ZI4GssMyY8ELHGt) | [Du Nord](https://open.spotify.com/album/3oXN64PxXKUKYVt6elfyWp) | 2:46 | 2023-05-05 |  |
-| [Lady Bird](https://open.spotify.com/track/6yzzno5cXBkh5c6UzRxcyM) | [Jon Brion](https://open.spotify.com/artist/57YJQe0ayvIaRZJ3PW5nFP) | [Lady Bird \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LIWkw76T7O499slpRTeQ1) | 5:10 | 2023-05-05 |  |
+| [Lady Bird](https://open.spotify.com/track/6yzzno5cXBkh5c6UzRxcyM) | [Jon Brion](https://open.spotify.com/artist/57YJQe0ayvIaRZJ3PW5nFP) | [Lady Bird \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0LIWkw76T7O499slpRTeQ1) | 5:10 | 2023-05-05 | 2023-07-22 |
 | [London Bridges](https://open.spotify.com/track/1QxJy1uqmjbcWUvg0OxIxH) | [Grandbrothers](https://open.spotify.com/artist/62Jwsvqi7hW8TR9rAcfBXY) | [Open](https://open.spotify.com/album/40NdyNNK6vu96QBK1y7ZCx) | 5:15 | 2023-05-05 |  |
 | [Luminosity](https://open.spotify.com/track/6ZLsrfSUuGQak9ZaWkoLCI) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Without Words: Synesthesia](https://open.spotify.com/album/4D7S7xyJToJ28MVcSH3YFo) | 4:08 | 2023-05-05 |  |
 | [Midsummer Field](https://open.spotify.com/track/3BQI7i7SnU1UNHETx7l6KD) | [U137](https://open.spotify.com/artist/5Js8zUcr9OCEyoWjw3joxY) | [Dreamer on the Run](https://open.spotify.com/album/4dp33vx7vWx93lxuxjNTz2) | 4:48 | 2023-05-05 |  |

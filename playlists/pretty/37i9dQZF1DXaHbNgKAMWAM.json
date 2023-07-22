@@ -1,12 +1,12 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 12052,
+  "num_followers": 12057,
   "original_name": "\uc0ac\ub791\ud558\ub294 \ub108\uc5d0\uac8c.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4ODc0NTE3OSwwMDAwMDAwMGE5ZGI2Y2EyYWEzYmU2ZTJkMDM2YTcwZWEwMGM4ZjJm",
+  "snapshot_id": "MCxlZDhjMjU3NGMzZmRmYzA0YTM0MDQyMGUyYmQ4ZGEyMzJiYTM2ZGZl",
   "tracks": [
     {
       "added_at": "2023-07-07 15:52:59",
@@ -127,6 +127,22 @@
     {
       "added_at": "2023-07-07 15:52:59",
       "album": {
+        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/5cCD9YLL8kfSnAn6Tvq2dI"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 231870,
+      "name": "But it's Destiny",
+      "url": "https://open.spotify.com/track/29yUM7cyxQgVn9MfrJjCom"
+    },
+    {
+      "added_at": "2023-07-07 15:52:59",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 228226,
       "name": "Rock With You - Spotify Singles",
       "url": "https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6"
-    },
-    {
-      "added_at": "2023-07-07 15:52:59",
-      "album": {
-        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 1",
-        "url": "https://open.spotify.com/album/5cCD9YLL8kfSnAn6Tvq2dI"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 231870,
-      "name": "But it's Destiny",
-      "url": "https://open.spotify.com/track/29yUM7cyxQgVn9MfrJjCom"
     },
     {
       "added_at": "2023-07-07 15:52:59",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-07-07 15:52:59",
       "album": {
-        "name": "Single",
-        "url": "https://open.spotify.com/album/74XBlQuofcSF3VbEihFaPY"
-      },
-      "artists": [
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        }
-      ],
-      "duration_ms": 165433,
-      "name": "Single",
-      "url": "https://open.spotify.com/track/2M1M1f5fRlSw5rturoCZeA"
-    },
-    {
-      "added_at": "2023-07-07 15:52:59",
-      "album": {
         "name": "grayground.",
         "url": "https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 199578,
       "name": "U",
       "url": "https://open.spotify.com/track/7wTqBeoo4bDr4eNnn3HHJk"
+    },
+    {
+      "added_at": "2023-07-07 15:52:59",
+      "album": {
+        "name": "Single",
+        "url": "https://open.spotify.com/album/74XBlQuofcSF3VbEihFaPY"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 165433,
+      "name": "Single",
+      "url": "https://open.spotify.com/track/2M1M1f5fRlSw5rturoCZeA"
     },
     {
       "added_at": "2023-07-07 15:52:59",
@@ -515,26 +515,6 @@
     {
       "added_at": "2023-07-07 15:52:59",
       "album": {
-        "name": "World Peace Project Vol.2",
-        "url": "https://open.spotify.com/album/1OunRKupt1U7K8eq2NgkPZ"
-      },
-      "artists": [
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
-        },
-        {
-          "name": "JOY",
-          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
-        }
-      ],
-      "duration_ms": 220040,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/7JF6USn1d7oBnjITCKtSHp"
-    },
-    {
-      "added_at": "2023-07-07 15:52:59",
-      "album": {
         "name": "LOVE & HATE",
         "url": "https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ"
       },
@@ -567,18 +547,22 @@
     {
       "added_at": "2023-07-07 15:52:59",
       "album": {
-        "name": "Tale of the Nine Tailed 1938, Pt. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/1Ak7K5Pb4PFpGizV46S8iP"
+        "name": "World Peace Project Vol.2",
+        "url": "https://open.spotify.com/album/1OunRKupt1U7K8eq2NgkPZ"
       },
       "artists": [
         {
-          "name": "Kei",
-          "url": "https://open.spotify.com/artist/4s8EHPyZqEOYgOPwgpdhmc"
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        },
+        {
+          "name": "JOY",
+          "url": "https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub"
         }
       ],
-      "duration_ms": 189575,
+      "duration_ms": 220040,
       "name": "Love Song",
-      "url": "https://open.spotify.com/track/0HsCULcKWeaF2WdKMTTx8q"
+      "url": "https://open.spotify.com/track/7JF6USn1d7oBnjITCKtSHp"
     },
     {
       "added_at": "2023-07-07 15:52:59",
@@ -595,6 +579,22 @@
       "duration_ms": 199766,
       "name": "Celeb",
       "url": "https://open.spotify.com/track/3OLrkewJ2oQ1MQjUdEDfY5"
+    },
+    {
+      "added_at": "2023-07-07 15:52:59",
+      "album": {
+        "name": "Tale of the Nine Tailed 1938, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1Ak7K5Pb4PFpGizV46S8iP"
+      },
+      "artists": [
+        {
+          "name": "Kei",
+          "url": "https://open.spotify.com/artist/4s8EHPyZqEOYgOPwgpdhmc"
+        }
+      ],
+      "duration_ms": 189575,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/0HsCULcKWeaF2WdKMTTx8q"
     },
     {
       "added_at": "2023-07-07 15:52:59",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-07-07 15:52:59",
       "album": {
-        "name": "Love Alarm CLAP! CLAP! CLAP! OST",
-        "url": "https://open.spotify.com/album/0oxUPIv2BUNaag8cyKfT7L"
-      },
-      "artists": [
-        {
-          "name": "SECRET NUMBER",
-          "url": "https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V"
-        }
-      ],
-      "duration_ms": 250293,
-      "name": "Fall In Love",
-      "url": "https://open.spotify.com/track/4phlOc7UwErl5sRQb4n4S1"
-    },
-    {
-      "added_at": "2023-07-07 15:52:59",
-      "album": {
         "name": "Way U Are (feat. BIG Naughty)",
         "url": "https://open.spotify.com/album/4MiEH8eGKh4AgU1d4eBw59"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 163773,
       "name": "Way U Are (feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/1cHwmkEYWHstlT9hRF0EeP"
+    },
+    {
+      "added_at": "2023-07-07 15:52:59",
+      "album": {
+        "name": "Love Alarm CLAP! CLAP! CLAP! OST",
+        "url": "https://open.spotify.com/album/0oxUPIv2BUNaag8cyKfT7L"
+      },
+      "artists": [
+        {
+          "name": "SECRET NUMBER",
+          "url": "https://open.spotify.com/artist/7qxo9RTWfEoFKN7XGtNV6V"
+        }
+      ],
+      "duration_ms": 250293,
+      "name": "Fall In Love",
+      "url": "https://open.spotify.com/track/4phlOc7UwErl5sRQb4n4S1"
     },
     {
       "added_at": "2023-07-07 15:52:59",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-07-07 15:52:59",
       "album": {
-        "name": "Omnibus, Pt. 2: Inside Out",
-        "url": "https://open.spotify.com/album/5JxvBJJnSkZt5RXWITnO9A"
-      },
-      "artists": [
-        {
-          "name": "SHAUN",
-          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
-        }
-      ],
-      "duration_ms": 232960,
-      "name": "Shooting Star",
-      "url": "https://open.spotify.com/track/2CecbOSkOaZ2lQFVtOVTlT"
-    },
-    {
-      "added_at": "2023-07-07 15:52:59",
-      "album": {
         "name": "Especially For You",
         "url": "https://open.spotify.com/album/52LiV3qtizllpMU91Z6csl"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 154786,
       "name": "Especially For You",
       "url": "https://open.spotify.com/track/0QxccxeJbRK4lFJYUFEAqJ"
+    },
+    {
+      "added_at": "2023-07-07 15:52:59",
+      "album": {
+        "name": "Omnibus, Pt. 2: Inside Out",
+        "url": "https://open.spotify.com/album/5JxvBJJnSkZt5RXWITnO9A"
+      },
+      "artists": [
+        {
+          "name": "SHAUN",
+          "url": "https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "Shooting Star",
+      "url": "https://open.spotify.com/track/2CecbOSkOaZ2lQFVtOVTlT"
     },
     {
       "added_at": "2023-07-07 15:52:59",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-07-07 15:52:59",
       "album": {
+        "name": "Love in Contract, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/1v9MGZRUO2Maxgui8eXHeF"
+      },
+      "artists": [
+        {
+          "name": "YUJU",
+          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
+        }
+      ],
+      "duration_ms": 199295,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/1qtPX8gIKMw0XyuPnm1ipY"
+    },
+    {
+      "added_at": "2023-07-07 15:52:59",
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/1kLQss3VwPK4vrS1H2zDAN"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 172361,
       "name": "At Night",
       "url": "https://open.spotify.com/track/4BiLpvhNDqeRPo065ZMCqB"
-    },
-    {
-      "added_at": "2023-07-07 15:52:59",
-      "album": {
-        "name": "Love in Contract, Pt. 1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/1v9MGZRUO2Maxgui8eXHeF"
-      },
-      "artists": [
-        {
-          "name": "YUJU",
-          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
-        }
-      ],
-      "duration_ms": 199295,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/1qtPX8gIKMw0XyuPnm1ipY"
     },
     {
       "added_at": "2023-07-07 15:52:59",

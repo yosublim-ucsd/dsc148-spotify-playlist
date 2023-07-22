@@ -1,12 +1,12 @@
 {
   "description": "New York salsa...it's home.",
-  "num_followers": 21448,
+  "num_followers": 21482,
   "original_name": "New York Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZWZmOGQyMDI5MWQxMmU5YjM0MDY3OGQ1Yjg1MGMzNWVkNjFkZjUx",
+  "snapshot_id": "MCw5OTY5OGRmNzgwYTM1ODkyZDhiYWM5MmI3MmVmYjUyYjM0NjhkZmRk",
   "tracks": [
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1055,22 +1055,18 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Con Larry Harlow",
-        "url": "https://open.spotify.com/album/2uiwRibXO2rTrXC7vvoBSn"
+        "name": "Dos Imagenes",
+        "url": "https://open.spotify.com/album/3e2g32lpM8T4lTLa4mswzo"
       },
       "artists": [
         {
-          "name": "Larry Harlow",
-          "url": "https://open.spotify.com/artist/2PGJmP6AvSCQ7pKBOjrg8J"
-        },
-        {
-          "name": "Frankie Dante & Orquesta Flamboyan",
-          "url": "https://open.spotify.com/artist/27G5wNXY4nO0Ji2weHv9PR"
+          "name": "Ismael Quintana",
+          "url": "https://open.spotify.com/artist/0BM26r4eTvHRclFsKRH2zq"
         }
       ],
-      "duration_ms": 247998,
-      "name": "Presidente Dante",
-      "url": "https://open.spotify.com/track/2ttM5D84FTOVxiIESWL0zY"
+      "duration_ms": 174106,
+      "name": "Vacil\u00f3 Con Tumbao",
+      "url": "https://open.spotify.com/track/6YC0cl9aX5RENgJEJd39sr"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1091,18 +1087,22 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Dos Imagenes",
-        "url": "https://open.spotify.com/album/3e2g32lpM8T4lTLa4mswzo"
+        "name": "Con Larry Harlow",
+        "url": "https://open.spotify.com/album/2uiwRibXO2rTrXC7vvoBSn"
       },
       "artists": [
         {
-          "name": "Ismael Quintana",
-          "url": "https://open.spotify.com/artist/0BM26r4eTvHRclFsKRH2zq"
+          "name": "Larry Harlow",
+          "url": "https://open.spotify.com/artist/2PGJmP6AvSCQ7pKBOjrg8J"
+        },
+        {
+          "name": "Frankie Dante & Orquesta Flamboyan",
+          "url": "https://open.spotify.com/artist/27G5wNXY4nO0Ji2weHv9PR"
         }
       ],
-      "duration_ms": 174106,
-      "name": "Vacil\u00f3 Con Tumbao",
-      "url": "https://open.spotify.com/track/6YC0cl9aX5RENgJEJd39sr"
+      "duration_ms": 247998,
+      "name": "Presidente Dante",
+      "url": "https://open.spotify.com/track/2ttM5D84FTOVxiIESWL0zY"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
+        "name": "Sorpresa La Flauta",
+        "url": "https://open.spotify.com/album/54Isd9McgLu4F3BuV06MZJ"
+      },
+      "artists": [
+        {
+          "name": "Andy Harlow",
+          "url": "https://open.spotify.com/artist/0OLtqzqTcmE2LTN8t5CacG"
+        }
+      ],
+      "duration_ms": 196640,
+      "name": "La Loter\u00eda",
+      "url": "https://open.spotify.com/track/1i8gsWMG0WxYoPMw498quW"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
         "name": "Commitment",
         "url": "https://open.spotify.com/album/3GEZV1mPQfeAyobbQ15U4x"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 351333,
       "name": "Ublabad\u00fa",
       "url": "https://open.spotify.com/track/3mHv2JoSRRIjYCcnG6mgJO"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
-        "name": "Sorpresa La Flauta",
-        "url": "https://open.spotify.com/album/54Isd9McgLu4F3BuV06MZJ"
-      },
-      "artists": [
-        {
-          "name": "Andy Harlow",
-          "url": "https://open.spotify.com/artist/0OLtqzqTcmE2LTN8t5CacG"
-        }
-      ],
-      "duration_ms": 196640,
-      "name": "La Loter\u00eda",
-      "url": "https://open.spotify.com/track/1i8gsWMG0WxYoPMw498quW"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Esenciales Vol\u00famen I",
-        "url": "https://open.spotify.com/album/7yibFAEIfUXMMumIixZJsp"
-      },
-      "artists": [
-        {
-          "name": "Oscar D'Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
-        }
-      ],
-      "duration_ms": 224493,
-      "name": "A El",
-      "url": "https://open.spotify.com/track/3U5EvqgBklihqlnlIuWcUR"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "Mi Tumbao Social",
         "url": "https://open.spotify.com/album/3UL8WmEzBRWnGLgBA0tDkj"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 250009,
       "name": "Deja de Criticar",
       "url": "https://open.spotify.com/track/1TNBaVWcOnNIiPCJaNV0rz"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "Esenciales Vol\u00famen I",
+        "url": "https://open.spotify.com/album/7yibFAEIfUXMMumIixZJsp"
+      },
+      "artists": [
+        {
+          "name": "Oscar D'Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ"
+        }
+      ],
+      "duration_ms": 224493,
+      "name": "A El",
+      "url": "https://open.spotify.com/track/3U5EvqgBklihqlnlIuWcUR"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Here comes... Tito Puente!",
-        "url": "https://open.spotify.com/album/4MOl4SznY1dtfg7MZYfROw"
-      },
-      "artists": [
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        }
-      ],
-      "duration_ms": 167133,
-      "name": "Mambo Goz\u00f3n",
-      "url": "https://open.spotify.com/track/2P12SmID74922J8JwQd90j"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "Con Bajo Y Todo",
         "url": "https://open.spotify.com/album/6ftic7itzGAW7BDdvi2PMx"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 215214,
       "name": "Para Chango",
       "url": "https://open.spotify.com/track/7nabjegyfwRCiFX11anzb1"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "Here comes... Tito Puente!",
+        "url": "https://open.spotify.com/album/4MOl4SznY1dtfg7MZYfROw"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "duration_ms": 167133,
+      "name": "Mambo Goz\u00f3n",
+      "url": "https://open.spotify.com/track/2P12SmID74922J8JwQd90j"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1539,38 +1539,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Hecho Y Derecho",
-        "url": "https://open.spotify.com/album/6CqvcH88Hmn0VyD8KWCaDy"
-      },
-      "artists": [
-        {
-          "name": "Joe Cuba Sextet",
-          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
-        }
-      ],
-      "duration_ms": 167331,
-      "name": "Hecho Y Derecho",
-      "url": "https://open.spotify.com/track/0wbgGX25FfDH0dpXeKwLRP"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
-        "name": "Colecci\u00f3n De Oro: La Cr\u00edtica Y Sus Cantantes, Vol. 1",
-        "url": "https://open.spotify.com/album/66AzgPZCCRROGy1N1DO9ix"
-      },
-      "artists": [
-        {
-          "name": "La Critica",
-          "url": "https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0"
-        }
-      ],
-      "duration_ms": 235125,
-      "name": "Ya Se Pein\u00f3 Mar\u00eda",
-      "url": "https://open.spotify.com/track/5weRMk5hP0utlRS6nYK1dM"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "Separala Tambi\u00e9n! Cantando Tito Rodr\u00edguez",
         "url": "https://open.spotify.com/album/0NnMASskJ96x4sESAFpMCR"
       },
@@ -1591,6 +1559,22 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
+        "name": "Colecci\u00f3n De Oro: La Cr\u00edtica Y Sus Cantantes, Vol. 1",
+        "url": "https://open.spotify.com/album/66AzgPZCCRROGy1N1DO9ix"
+      },
+      "artists": [
+        {
+          "name": "La Critica",
+          "url": "https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0"
+        }
+      ],
+      "duration_ms": 235125,
+      "name": "Ya Se Pein\u00f3 Mar\u00eda",
+      "url": "https://open.spotify.com/track/5weRMk5hP0utlRS6nYK1dM"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
         "name": "La Din\u00e1mica!",
         "url": "https://open.spotify.com/album/0f3n5513x4jjxDMe8IvAaT"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 161946,
       "name": "Tumba La Ca\u00f1a Jibarito",
       "url": "https://open.spotify.com/track/3qiFFGj7QQ2XOFbO0NA56s"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "Hecho Y Derecho",
+        "url": "https://open.spotify.com/album/6CqvcH88Hmn0VyD8KWCaDy"
+      },
+      "artists": [
+        {
+          "name": "Joe Cuba Sextet",
+          "url": "https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj"
+        }
+      ],
+      "duration_ms": 167331,
+      "name": "Hecho Y Derecho",
+      "url": "https://open.spotify.com/track/0wbgGX25FfDH0dpXeKwLRP"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Yo Soy La Rumba",
-        "url": "https://open.spotify.com/album/5WVBmJISneoN4do5JPLcDx"
-      },
-      "artists": [
-        {
-          "name": "Machito & His Orchestra",
-          "url": "https://open.spotify.com/artist/14IhDLK3FnairSloyYjw9h"
-        }
-      ],
-      "duration_ms": 214360,
-      "name": "Tanga",
-      "url": "https://open.spotify.com/track/3Zl8hT1zwIa3wMlWFkfEWx"
-    },
-    {
-      "added_at": "2023-03-17 00:52:56",
-      "album": {
         "name": "The Best Of The Concord Years",
         "url": "https://open.spotify.com/album/180D50gDi4kEpa2TpVbNQ3"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 315986,
       "name": "Tokyo Blues",
       "url": "https://open.spotify.com/track/3PHRSSdqkYjuX5JMO3auBc"
+    },
+    {
+      "added_at": "2023-03-17 00:52:56",
+      "album": {
+        "name": "Yo Soy La Rumba",
+        "url": "https://open.spotify.com/album/5WVBmJISneoN4do5JPLcDx"
+      },
+      "artists": [
+        {
+          "name": "Machito & His Orchestra",
+          "url": "https://open.spotify.com/artist/14IhDLK3FnairSloyYjw9h"
+        }
+      ],
+      "duration_ms": 214360,
+      "name": "Tanga",
+      "url": "https://open.spotify.com/track/3Zl8hT1zwIa3wMlWFkfEWx"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1823,18 +1823,18 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Hoy Y Ayer",
-        "url": "https://open.spotify.com/album/1RDCs8PZwX9UnI2u6Jdquy"
+        "name": "Instant Party",
+        "url": "https://open.spotify.com/album/5EsC8QT3FQu6nhwcVoX9Kr"
       },
       "artists": [
         {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
         }
       ],
-      "duration_ms": 220333,
-      "name": "Pachito Eche",
-      "url": "https://open.spotify.com/track/1lezqUzhsYpLyDMf2BHjL4"
+      "duration_ms": 346520,
+      "name": "Fiesta A La King",
+      "url": "https://open.spotify.com/track/5AamAvieYb8hFN5cmI6aPg"
     },
     {
       "added_at": "2023-03-17 00:52:56",
@@ -1855,18 +1855,18 @@
     {
       "added_at": "2023-03-17 00:52:56",
       "album": {
-        "name": "Instant Party",
-        "url": "https://open.spotify.com/album/5EsC8QT3FQu6nhwcVoX9Kr"
+        "name": "Hoy Y Ayer",
+        "url": "https://open.spotify.com/album/1RDCs8PZwX9UnI2u6Jdquy"
       },
       "artists": [
         {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
         }
       ],
-      "duration_ms": 346520,
-      "name": "Fiesta A La King",
-      "url": "https://open.spotify.com/track/5AamAvieYb8hFN5cmI6aPg"
+      "duration_ms": 220333,
+      "name": "Pachito Eche",
+      "url": "https://open.spotify.com/track/1lezqUzhsYpLyDMf2BHjL4"
     },
     {
       "added_at": "2023-03-17 00:52:56",

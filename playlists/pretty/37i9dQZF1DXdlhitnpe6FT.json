@@ -1,12 +1,12 @@
 {
   "description": "The notes that will make you long for those days of yore.",
-  "num_followers": 176847,
+  "num_followers": 177072,
   "original_name": "Golden Instrumentals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYWQwZjgzMTVkODk2ZDFkYmQ0ZGZhYjU4NWIwMDUzYzM2ZWIzYWYy",
+  "snapshot_id": "MCwyYzI0YmE5NjAwYjQ2YTVjZDFiZDRjNGYxN2RlMTFjMDE1Yzk1MWIx",
   "tracks": [
     {
       "added_at": "2020-12-08 19:02:01",
@@ -499,6 +499,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Presentando a La Orquesta Cuerdas y Metales",
+        "url": "https://open.spotify.com/album/4xSzaSw3SYuOfV7c4aKg3y"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Cuerdas Y Metales",
+          "url": "https://open.spotify.com/artist/4BtCAYduZ1v5LmOO2HjKX7"
+        }
+      ],
+      "duration_ms": 220400,
+      "name": "Soleado",
+      "url": "https://open.spotify.com/track/0oZjygEjDC17poCvwnTnYu"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Fandango",
         "url": "https://open.spotify.com/album/2MEYCdgabwIlhbF6jvkYHb"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 215986,
       "name": "Concorde",
       "url": "https://open.spotify.com/track/1rshuebpBibATjY7UtHolH"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Presentando a La Orquesta Cuerdas y Metales",
-        "url": "https://open.spotify.com/album/4xSzaSw3SYuOfV7c4aKg3y"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Cuerdas Y Metales",
-          "url": "https://open.spotify.com/artist/4BtCAYduZ1v5LmOO2HjKX7"
-        }
-      ],
-      "duration_ms": 220400,
-      "name": "Soleado",
-      "url": "https://open.spotify.com/track/0oZjygEjDC17poCvwnTnYu"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -675,22 +675,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "Look For A Star",
-        "url": "https://open.spotify.com/album/6RMGWC76Pbcy3Ngt32JDoj"
-      },
-      "artists": [
-        {
-          "name": "Billy Vaughn",
-          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
-        }
-      ],
-      "duration_ms": 132600,
-      "name": "Look For A Star",
-      "url": "https://open.spotify.com/track/72PQJVnhV3FV7z7i1dWzQJ"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Duotones",
         "url": "https://open.spotify.com/album/3XH1loQu2ohrMnmGCJMPYa"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 303333,
       "name": "Songbird",
       "url": "https://open.spotify.com/track/3Yx4nbYHdmHQdnYAukyHJR"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "Look For A Star",
+        "url": "https://open.spotify.com/album/6RMGWC76Pbcy3Ngt32JDoj"
+      },
+      "artists": [
+        {
+          "name": "Billy Vaughn",
+          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
+        }
+      ],
+      "duration_ms": 132600,
+      "name": "Look For A Star",
+      "url": "https://open.spotify.com/track/72PQJVnhV3FV7z7i1dWzQJ"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -723,6 +723,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "La m\u00e9lodie du lac d'amour",
+        "url": "https://open.spotify.com/album/1mIBAczDftPkMTP3FWszdW"
+      },
+      "artists": [
+        {
+          "name": "Jean Claude Borelly",
+          "url": "https://open.spotify.com/artist/15BHk5GnZ3AZVGO6P1vFmn"
+        }
+      ],
+      "duration_ms": 172266,
+      "name": "Dolannes m\u00e9lodie",
+      "url": "https://open.spotify.com/track/7qqnQFC8rnyCOhfd4DTWzO"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "60 Timeless Classics from the Giants of Traditional Jazz",
         "url": "https://open.spotify.com/album/6fN8msI9VOM3uWxjO1Y9eR"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 164360,
       "name": "Petite Fleur",
       "url": "https://open.spotify.com/track/49ENB0tgwiU80dvt57WQ5x"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "La m\u00e9lodie du lac d'amour",
-        "url": "https://open.spotify.com/album/1mIBAczDftPkMTP3FWszdW"
-      },
-      "artists": [
-        {
-          "name": "Jean Claude Borelly",
-          "url": "https://open.spotify.com/artist/15BHk5GnZ3AZVGO6P1vFmn"
-        }
-      ],
-      "duration_ms": 172266,
-      "name": "Dolannes m\u00e9lodie",
-      "url": "https://open.spotify.com/track/7qqnQFC8rnyCOhfd4DTWzO"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Presentando a La Orquesta Cuerdas y Metales",
+        "url": "https://open.spotify.com/album/4xSzaSw3SYuOfV7c4aKg3y"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Cuerdas Y Metales",
+          "url": "https://open.spotify.com/artist/4BtCAYduZ1v5LmOO2HjKX7"
+        }
+      ],
+      "duration_ms": 189346,
+      "name": "Im\u00e1genes",
+      "url": "https://open.spotify.com/track/37llEFOvbeR7hZ7402A54F"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Nadia's Theme (Theme from the Young and Restless)",
         "url": "https://open.spotify.com/album/4U8raZIzz8vWFWV8gOphrM"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 131255,
       "name": "P\u00eddele Al Tiempo Que Vuelva",
       "url": "https://open.spotify.com/track/0U6KQih3QzcFXPTZhBbA4T"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Presentando a La Orquesta Cuerdas y Metales",
-        "url": "https://open.spotify.com/album/4xSzaSw3SYuOfV7c4aKg3y"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Cuerdas Y Metales",
-          "url": "https://open.spotify.com/artist/4BtCAYduZ1v5LmOO2HjKX7"
-        }
-      ],
-      "duration_ms": 189346,
-      "name": "Im\u00e1genes",
-      "url": "https://open.spotify.com/track/37llEFOvbeR7hZ7402A54F"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Wonderland By Night (Remastered)",
+        "url": "https://open.spotify.com/album/1CbLm2NzirrgPh2UcoSITF"
+      },
+      "artists": [
+        {
+          "name": "Bert Kaempfert",
+          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
+        }
+      ],
+      "duration_ms": 158973,
+      "name": "La Vie En Rose",
+      "url": "https://open.spotify.com/track/4RRFpTX7hQRYSTo9efZ8yg"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Grandes Favoritas Instrumentales,Vol. 4",
         "url": "https://open.spotify.com/album/4wbHEZf62R0M34a8EkuNlk"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 175906,
       "name": "Amapola",
       "url": "https://open.spotify.com/track/3j0gx0OGf8G8gzc5H62Ux9"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Wonderland By Night (Remastered)",
-        "url": "https://open.spotify.com/album/1CbLm2NzirrgPh2UcoSITF"
-      },
-      "artists": [
-        {
-          "name": "Bert Kaempfert",
-          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
-        }
-      ],
-      "duration_ms": 158973,
-      "name": "La Vie En Rose",
-      "url": "https://open.spotify.com/track/4RRFpTX7hQRYSTo9efZ8yg"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
-        "name": "A Swingin' Safari",
-        "url": "https://open.spotify.com/album/4DfOHkq52aDLQ2U7z9YpUu"
-      },
-      "artists": [
-        {
-          "name": "Billy Vaughn",
-          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
-        }
-      ],
-      "duration_ms": 135666,
-      "name": "A Swingin' Safari",
-      "url": "https://open.spotify.com/track/67dN68PBuUplLJA2VoWfsB"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
         "name": "Celebration: A Musical Journey",
         "url": "https://open.spotify.com/album/6U8hr5BSTpYqSMmih29HpO"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 213626,
       "name": "Promise Of A Fisherman (Promessa De Pescador)",
       "url": "https://open.spotify.com/track/2nOAhdgtLa0o075vKRe9op"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
+        "name": "A Swingin' Safari",
+        "url": "https://open.spotify.com/album/4DfOHkq52aDLQ2U7z9YpUu"
+      },
+      "artists": [
+        {
+          "name": "Billy Vaughn",
+          "url": "https://open.spotify.com/artist/6ZzOIAEw7joAghyA80c6D0"
+        }
+      ],
+      "duration_ms": 135666,
+      "name": "A Swingin' Safari",
+      "url": "https://open.spotify.com/track/67dN68PBuUplLJA2VoWfsB"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1735,6 +1735,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Presentando a Los Indios Tabajaras",
+        "url": "https://open.spotify.com/album/5xP7ZaVBAPMYrJl2pXIebv"
+      },
+      "artists": [
+        {
+          "name": "Los Indios Tabajaras",
+          "url": "https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb"
+        }
+      ],
+      "duration_ms": 150893,
+      "name": "Siempre en Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/46J3o36c0PLQsiUoVwLbRA"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Taboo 2: New Exotic Sounds of Arthur Lyman",
         "url": "https://open.spotify.com/album/4QQrUheyVPgbSgnW3QCh5T"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 293853,
       "name": "The Approaching Storm",
       "url": "https://open.spotify.com/track/3e0cRTxwmvm6odXYSqnvWg"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Presentando a Los Indios Tabajaras",
-        "url": "https://open.spotify.com/album/5xP7ZaVBAPMYrJl2pXIebv"
-      },
-      "artists": [
-        {
-          "name": "Los Indios Tabajaras",
-          "url": "https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb"
-        }
-      ],
-      "duration_ms": 150893,
-      "name": "Siempre en Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/46J3o36c0PLQsiUoVwLbRA"
     },
     {
       "added_at": "2020-12-08 19:02:01",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2020-12-08 19:02:01",
       "album": {
+        "name": "Presentando a Los Indios Tabajaras",
+        "url": "https://open.spotify.com/album/5xP7ZaVBAPMYrJl2pXIebv"
+      },
+      "artists": [
+        {
+          "name": "Los Indios Tabajaras",
+          "url": "https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb"
+        }
+      ],
+      "duration_ms": 154506,
+      "name": "Ave Maria No Morro",
+      "url": "https://open.spotify.com/track/1wlujNo3ntnSydVwd244AU"
+    },
+    {
+      "added_at": "2020-12-08 19:02:01",
+      "album": {
         "name": "Yellow Bird",
         "url": "https://open.spotify.com/album/1ufjXDuusbNI2v1eOaBTcP"
       },
@@ -1875,22 +1891,6 @@
       "duration_ms": 161773,
       "name": "Andalucia",
       "url": "https://open.spotify.com/track/61wVl3WPpGKHlCvChWkSXY"
-    },
-    {
-      "added_at": "2020-12-08 19:02:01",
-      "album": {
-        "name": "Presentando a Los Indios Tabajaras",
-        "url": "https://open.spotify.com/album/5xP7ZaVBAPMYrJl2pXIebv"
-      },
-      "artists": [
-        {
-          "name": "Los Indios Tabajaras",
-          "url": "https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb"
-        }
-      ],
-      "duration_ms": 154506,
-      "name": "Ave Maria No Morro",
-      "url": "https://open.spotify.com/track/1wlujNo3ntnSydVwd244AU"
     }
   ],
   "unique_name": "Golden Instrumentals",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "The Midwest is always on time. Cover: Doe Boy",
+  "description": "The Midwest is always on time. Cover: Babyface Ray",
   "name": "CST",
   "tracks": [
     {
@@ -1611,6 +1611,28 @@
     },
     {
       "album": {
+        "name": "Summer's Mine",
+        "url": "https://open.spotify.com/album/2T5rnsXB2Hu0LOw554ciPS"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        },
+        {
+          "name": "Veeze",
+          "url": "https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130916,
+      "name": "Bosses Linking With Bosses",
+      "url": "https://open.spotify.com/track/5w2HEVe6nQnn9yYCjeCBfu"
+    },
+    {
+      "album": {
         "name": "Bounce",
         "url": "https://open.spotify.com/album/2t3VRcCBiWnwKTH1nj6YTU"
       },
@@ -1874,7 +1896,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 226588,
       "name": "CHANNEL No3",
       "url": "https://open.spotify.com/track/6UIMNszTQOvYchYqswBR17"
@@ -2286,6 +2308,28 @@
       "duration_ms": 171826,
       "name": "Do What I Want",
       "url": "https://open.spotify.com/track/62tDpymKVSXEu0W3d4AMr9"
+    },
+    {
+      "album": {
+        "name": "Don't Get Ya Feelings In It (feat. Luh Tyler)",
+        "url": "https://open.spotify.com/album/4reWxTNsGDtkcwRFIBkKs9"
+      },
+      "artists": [
+        {
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+        },
+        {
+          "name": "Luh Tyler",
+          "url": "https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216800,
+      "name": "Don't Get Ya Feelings In It (feat. Luh Tyler)",
+      "url": "https://open.spotify.com/track/6QdVy8gj2rEDDcrI5npDJS"
     },
     {
       "album": {
@@ -3132,6 +3176,24 @@
       "duration_ms": 131368,
       "name": "Get Dangerous",
       "url": "https://open.spotify.com/track/43GoEZsawcNzDxSzSYu11s"
+    },
+    {
+      "album": {
+        "name": "RESILIENCE",
+        "url": "https://open.spotify.com/album/6oq03SmM5eN38iNZOFpjmx"
+      },
+      "artists": [
+        {
+          "name": "Big Boss Vette",
+          "url": "https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173289,
+      "name": "Get It",
+      "url": "https://open.spotify.com/track/379Bq2UYx6X6NagvNjZLSX"
     },
     {
       "album": {
@@ -6890,7 +6952,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 259687,
       "name": "PRESSURE",
       "url": "https://open.spotify.com/track/2xluJG2nDkkLeeb4qSiEqQ"
@@ -6908,7 +6970,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 180451,
       "name": "pretty girls",
       "url": "https://open.spotify.com/track/1nikStujV5DDL1gX7lYMzt"
@@ -7735,6 +7797,24 @@
     },
     {
       "album": {
+        "name": "Summer's Mine",
+        "url": "https://open.spotify.com/album/2T5rnsXB2Hu0LOw554ciPS"
+      },
+      "artists": [
+        {
+          "name": "Babyface Ray",
+          "url": "https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169874,
+      "name": "ScarFACE",
+      "url": "https://open.spotify.com/track/0OGeyFEOccFScKjuPApz32"
+    },
+    {
+      "album": {
         "name": "Scottie Pippen",
         "url": "https://open.spotify.com/album/3STIqNwTorh5aHzN84FZ34"
       },
@@ -8398,7 +8478,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 167812,
       "name": "Spinnin' (feat. EST Gee)",
       "url": "https://open.spotify.com/track/4Kgy1BDA6IM9ahZNrYbCZq"

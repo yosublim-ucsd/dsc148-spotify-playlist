@@ -1,44 +1,44 @@
 {
-  "description": "It's a main pop girl emergency \ud83c\udd98  Cover: Rita Ora",
-  "num_followers": 103168,
+  "description": "It's a main pop girl emergency \ud83c\udd98  Cover: Ava Max",
+  "num_followers": 103704,
   "original_name": "OBSESSED",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YmRiZmM2ZjE3NmE3ZWQ1ZWM1OTliZWYyOWI0OGJjOTZhN2E0OTM5",
+  "snapshot_id": "MCxiNDRiYzg2YzMzY2Y1OGY2MTZiNTYxNTM2OWFlMjIyMmZhZWMyYzAy",
   "tracks": [
     {
-      "added_at": "2023-07-14 04:00:00",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "You & I",
-        "url": "https://open.spotify.com/album/5sXGarr3y9MdqxnO8MFlGz"
+        "name": "Choose Your Fighter (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/718h0CzRHO6ums1CTrB5L1"
       },
       "artists": [
         {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 181280,
-      "name": "That Girl",
-      "url": "https://open.spotify.com/track/4HrLGzlvQ8iN6P1aOJzjj6"
+      "duration_ms": 137514,
+      "name": "Choose Your Fighter (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/3SexEc7om0q1awRqi8nCd1"
     },
     {
-      "added_at": "2023-07-07 04:00:00",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Speed Drive (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0"
+        "name": "Miss Belladonna",
+        "url": "https://open.spotify.com/album/1Ne9xZgi6No2s4JpxBPyfC"
       },
       "artists": [
         {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
         }
       ],
-      "duration_ms": 117809,
-      "name": "Speed Drive (From Barbie The Album)",
-      "url": "https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2"
+      "duration_ms": 184652,
+      "name": "Miss Belladonna",
+      "url": "https://open.spotify.com/track/3h4Xrayt7oyzdXWe6u14oK"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -73,6 +73,74 @@
       "url": "https://open.spotify.com/track/0RKR9cd6tqMSJmbNVBQsuS"
     },
     {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "MIND YOUR BUSINESS",
+        "url": "https://open.spotify.com/album/3ecBg8wGhu2TrZxFmEFA7h"
+      },
+      "artists": [
+        {
+          "name": "will.i.am",
+          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
+        },
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "MIND YOUR BUSINESS",
+      "url": "https://open.spotify.com/track/6SihMpwoVMy75GwvBXFxJ4"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Speed Drive (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 117809,
+      "name": "Speed Drive (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "You & I",
+        "url": "https://open.spotify.com/album/5sXGarr3y9MdqxnO8MFlGz"
+      },
+      "artists": [
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 181280,
+      "name": "That Girl",
+      "url": "https://open.spotify.com/track/4HrLGzlvQ8iN6P1aOJzjj6"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Beast",
+        "url": "https://open.spotify.com/album/5E3kloxkrwiq2MlJ1gUHpw"
+      },
+      "artists": [
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        }
+      ],
+      "duration_ms": 140959,
+      "name": "Beast",
+      "url": "https://open.spotify.com/track/1cKataJtvqxPrW6C4nA1uS"
+    },
+    {
       "added_at": "2023-07-14 21:00:45",
       "album": {
         "name": "Whole Again",
@@ -87,6 +155,70 @@
       "duration_ms": 215639,
       "name": "Whole Again",
       "url": "https://open.spotify.com/track/5ONxjmVfSLPSRDI4mgRnLy"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Dance The Night (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 176579,
+      "name": "Dance The Night (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "LOOK AT ME RIGHT NOW",
+        "url": "https://open.spotify.com/album/2nJ18bOFgFIwKOkNryaJrn"
+      },
+      "artists": [
+        {
+          "name": "GRANT KNOCHE",
+          "url": "https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J"
+        }
+      ],
+      "duration_ms": 128358,
+      "name": "LOOK AT ME RIGHT NOW",
+      "url": "https://open.spotify.com/track/74b8ZwgaV6wEokRZt8eWkG"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Man I Am (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/5ra7esHOt8nyFcIFwGJ7wh"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 187764,
+      "name": "Man I Am (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/2C3Gsy6HgWQAEm4qaqhgVQ"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Contemporary Love",
+        "url": "https://open.spotify.com/album/4PFXT8b4Zg4IvDpvulGjxB"
+      },
+      "artists": [
+        {
+          "name": "R\u00eave",
+          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
+        }
+      ],
+      "duration_ms": 167570,
+      "name": "Contemporary Love",
+      "url": "https://open.spotify.com/track/5pYHdnHdmCYISSygrXYk45"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -173,6 +305,26 @@
       "url": "https://open.spotify.com/track/2GSzaHXWxiHCo0pk0uOOpE"
     },
     {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "The Magic Key",
+        "url": "https://open.spotify.com/album/015JXvTq9kGDXlJs0z8fYY"
+      },
+      "artists": [
+        {
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        },
+        {
+          "name": "One-T",
+          "url": "https://open.spotify.com/artist/70W0ftdGNlFkgrqu5O0QiI"
+        }
+      ],
+      "duration_ms": 171211,
+      "name": "The Magic Key",
+      "url": "https://open.spotify.com/track/6vHkJ4L8gqCwedvhXkSCsa"
+    },
+    {
       "added_at": "2023-07-07 04:00:00",
       "album": {
         "name": "Feed The Beast",
@@ -187,22 +339,6 @@
       "duration_ms": 145786,
       "name": "Castle In The Sky",
       "url": "https://open.spotify.com/track/2stGSXmjqk9f74aUsozVEK"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "LOOK AT ME RIGHT NOW",
-        "url": "https://open.spotify.com/album/2nJ18bOFgFIwKOkNryaJrn"
-      },
-      "artists": [
-        {
-          "name": "GRANT KNOCHE",
-          "url": "https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J"
-        }
-      ],
-      "duration_ms": 128358,
-      "name": "LOOK AT ME RIGHT NOW",
-      "url": "https://open.spotify.com/track/74b8ZwgaV6wEokRZt8eWkG"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -403,22 +539,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Feed The Beast",
-        "url": "https://open.spotify.com/album/2izzggtAmxtZaKs35JCurA"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "Claws",
-      "url": "https://open.spotify.com/track/5d6c4SXZ6o41OWID6DIPq1"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "SUCK",
         "url": "https://open.spotify.com/album/7h3QG1g6nHLiDhxPQ8ZpcF"
       },
@@ -447,26 +567,6 @@
       "duration_ms": 134239,
       "name": "Boss Bitch",
       "url": "https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Any Other Day",
-        "url": "https://open.spotify.com/album/7zC2HMYIxT3o5L2vaEbW8i"
-      },
-      "artists": [
-        {
-          "name": "Sivero",
-          "url": "https://open.spotify.com/artist/0QgXMWhEvffZRMma292j8n"
-        },
-        {
-          "name": "Cilia",
-          "url": "https://open.spotify.com/artist/4RngVrYqhqVlLdX6c23WxL"
-        }
-      ],
-      "duration_ms": 157229,
-      "name": "Any Other Day",
-      "url": "https://open.spotify.com/track/0VCgKW2Ofd8prwg5EiXb3Y"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -515,22 +615,6 @@
       "duration_ms": 173949,
       "name": "Talk to Me",
       "url": "https://open.spotify.com/track/1x5vRfDFUZX8DV8OxV8GHb"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Feed The Beast",
-        "url": "https://open.spotify.com/album/6E9TlpNmWC1wLuFDFYXKJ4"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 148506,
-      "name": "Hit It From The Back",
-      "url": "https://open.spotify.com/track/4pLaQe5chED0z4ggb7fR3M"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -631,22 +715,6 @@
       "duration_ms": 96826,
       "name": "Haute",
       "url": "https://open.spotify.com/track/1C9Ws8tfcCcdLk06buoiSU"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Dramatic",
-        "url": "https://open.spotify.com/album/2hasjKPec7XpfkMH0j1jwW"
-      },
-      "artists": [
-        {
-          "name": "Idina Menzel",
-          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
-        }
-      ],
-      "duration_ms": 192689,
-      "name": "Dramatic",
-      "url": "https://open.spotify.com/track/0fzNbspDae66MSdL8fR1kC"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -783,22 +851,6 @@
       "duration_ms": 190902,
       "name": "I like u",
       "url": "https://open.spotify.com/track/7H6TvLL3dyoY2XtrUKp3wK"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Dance The Night (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 176579,
-      "name": "Dance The Night (From Barbie The Album)",
-      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1395,22 +1447,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Itsy Bitsy",
-        "url": "https://open.spotify.com/album/16YsDQEJhHrIHXV8SB3zbj"
-      },
-      "artists": [
-        {
-          "name": "Bava",
-          "url": "https://open.spotify.com/artist/7lOLWr9bmaivFDeoLYzD1U"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "Itsy Bitsy",
-      "url": "https://open.spotify.com/track/7LwZguzLTNzMgN3ffeDzIg"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Mona Lisa",
         "url": "https://open.spotify.com/album/4L7Udo48s2YmvC0Oq2fFkF"
       },
@@ -1447,22 +1483,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Like This, Like That",
-        "url": "https://open.spotify.com/album/573O96cjJWdTuiSlmLDuN2"
-      },
-      "artists": [
-        {
-          "name": "Samira",
-          "url": "https://open.spotify.com/artist/0QmyeiU8zjcckReXT6sjuT"
-        }
-      ],
-      "duration_ms": 206886,
-      "name": "Like This, Like That",
-      "url": "https://open.spotify.com/track/3F2dQOabfFV8YEjgpUN5nq"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "What Now",
         "url": "https://open.spotify.com/album/115Wn7jhMjCTmkeuDNi9Nt"
       },
@@ -1491,38 +1511,6 @@
       "duration_ms": 183280,
       "name": "FREYA",
       "url": "https://open.spotify.com/track/1rDwsfTxO3BvGPmpNeVVbB"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Diamonds & Dancefloors",
-        "url": "https://open.spotify.com/album/5NgQit6EhPnx84bxgVVDRQ"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 155929,
-      "name": "Diamonds & Dancefloors",
-      "url": "https://open.spotify.com/track/4fVxlf4IxJNJl8OmPsQ2C1"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "In The Club",
-        "url": "https://open.spotify.com/album/48z78CgcApFQlm1gDC0HIq"
-      },
-      "artists": [
-        {
-          "name": "Drew Sycamore",
-          "url": "https://open.spotify.com/artist/2hyMuTjcOQsuC1QV0paUBA"
-        }
-      ],
-      "duration_ms": 186537,
-      "name": "In The Club",
-      "url": "https://open.spotify.com/track/2V0UbEUzHgJEyFQNjMwHcK"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1635,22 +1623,6 @@
       "duration_ms": 176813,
       "name": "Dance Away The Pain",
       "url": "https://open.spotify.com/track/1ZVzr825BOBAyGZoQqCSRg"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
-        "name": "Tongue",
-        "url": "https://open.spotify.com/album/0TNM4CTPP3WUA7oZcpe5cN"
-      },
-      "artists": [
-        {
-          "name": "R\u00eave",
-          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Tongue",
-      "url": "https://open.spotify.com/track/2bJgUPmlG2o6A0qfZJgkdh"
     },
     {
       "added_at": "2023-07-07 04:00:00",

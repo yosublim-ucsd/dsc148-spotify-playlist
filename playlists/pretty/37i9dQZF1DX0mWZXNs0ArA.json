@@ -1,12 +1,12 @@
 {
   "description": "150%",
-  "num_followers": 1634670,
+  "num_followers": 1636905,
   "original_name": "sped up songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWNmN2ZmOTY0NjI0OGFlNjU1NGI5NzBiOWMxYzI4NDdhOGNlNDk3",
+  "snapshot_id": "MCw0OWRmYjRhMDczYmRmOWJmOTQwOTQ3NjI4NTg4OGZmN2JmZGYyZWNi",
   "tracks": [
     {
       "added_at": "2023-05-22 14:41:15",
@@ -95,6 +95,26 @@
       "duration_ms": 150053,
       "name": "Sure Thing - Sped Up",
       "url": "https://open.spotify.com/track/559SdaPI7mqy9IQiscuaMj"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "fukumean",
+        "url": "https://open.spotify.com/album/5RHDfyHMN7CyYLc0KOOmKc"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+        }
+      ],
+      "duration_ms": 100019,
+      "name": "fukumean (sped up version)",
+      "url": "https://open.spotify.com/track/4YjUP1tr06laO1GSXaQqsJ"
     },
     {
       "added_at": "2023-06-29 19:14:15",
@@ -311,6 +331,26 @@
       "duration_ms": 129931,
       "name": "eyes don't lie sped up",
       "url": "https://open.spotify.com/track/6s0mCmiQV9HzfTfKvG14a1"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Ole",
+        "url": "https://open.spotify.com/album/1XPnkubgp63M9k5KsrMC7y"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Ole (feat. BNXN)",
+      "url": "https://open.spotify.com/track/1KR2V2DQwUWMrwYOhQ2LLx"
     },
     {
       "added_at": "2023-05-25 16:25:47",
@@ -1640,7 +1680,7 @@
       "added_at": "2023-05-22 14:41:15",
       "album": {
         "name": "Hotel (Sped Up)",
-        "url": "https://open.spotify.com/album/5R41oZrPS2ehYpdndO7Muu"
+        "url": "https://open.spotify.com/album/01akfT5JUOIQuI8VSOMG4X"
       },
       "artists": [
         {
@@ -1650,7 +1690,7 @@
       ],
       "duration_ms": 128869,
       "name": "Hotel (Sped Up)",
-      "url": "https://open.spotify.com/track/0yQgvvEyDS5xICpMsj6O2k"
+      "url": "https://open.spotify.com/track/5GDM9tocF2GrY290GOCMFD"
     },
     {
       "added_at": "2023-05-22 14:41:15",
@@ -1763,42 +1803,6 @@
       "duration_ms": 189316,
       "name": "B.O.T.A. (Baddest Of Them All) [feat. Eliza Rose & Interplanetary Criminal] [Sped Up Version]",
       "url": "https://open.spotify.com/track/4PwGpbqCyhmRdF8PjD4w79"
-    },
-    {
-      "added_at": "2023-05-22 14:41:15",
-      "album": {
-        "name": "Come Inside Of My Heart",
-        "url": "https://open.spotify.com/album/1vhonIQNvNg0bKRMO9RxUE"
-      },
-      "artists": [
-        {
-          "name": "IV Of Spades",
-          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
-        },
-        {
-          "name": "sped up nightcore",
-          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
-        }
-      ],
-      "duration_ms": 173311,
-      "name": "Come Inside Of My Heart (Sped Up)",
-      "url": "https://open.spotify.com/track/1fO083RTFknKJdGUGKE6ZB"
-    },
-    {
-      "added_at": "2023-05-22 14:41:15",
-      "album": {
-        "name": "universe (sped up)",
-        "url": "https://open.spotify.com/album/3GfD4UP3CVhJTsGt5ygHi1"
-      },
-      "artists": [
-        {
-          "name": "thuy",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 132799,
-      "name": "universe (sped up)",
-      "url": "https://open.spotify.com/track/24kdDAmUUDwElZJ9NClVfP"
     }
   ],
   "unique_name": "sped up songs",

@@ -4,7 +4,7 @@
 
 > sparkling, shimmery synth pop ✨
 
-548 songs - 1 day 6 hr 56 min
+549 songs - 1 day 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,7 @@
 | [Flicker](https://open.spotify.com/track/5GynUhuFgbs1GBwIjzRr8U) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Flicker](https://open.spotify.com/album/2Dnl22XDB6TpawpGUE2eCE) | 3:17 | 2023-03-24 | 2023-05-06 |
 | [Follow My Girl](https://open.spotify.com/track/0lCfUyNC5NAsfILnKEVj23) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [Good At Falling](https://open.spotify.com/album/3Pa8W1UOD018R21VgOPTYZ) | 4:04 | 2020-10-13\* | 2021-07-04 |
 | [For My Friends](https://open.spotify.com/track/3yMbQSMN738HPm5gSRwUPq) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Change the Locks](https://open.spotify.com/album/3qgwLXeathdYuMWou6QBep) | 3:35 | 2022-07-21 | 2022-08-01 |
-| [For My Friends](https://open.spotify.com/track/6IEzGhvKEeUprf0pVk21ye) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:35 | 2022-07-31 |  |
+| [For My Friends](https://open.spotify.com/track/6IEzGhvKEeUprf0pVk21ye) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:35 | 2022-07-31 | 2023-07-22 |
 | [For My Friends](https://open.spotify.com/track/6vs83ufnw4IVbotV0qv6C8) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [For My Friends](https://open.spotify.com/album/7hfIFmFhdPoLzeeDGPaYAw) | 3:35 | 2022-03-18 | 2022-07-29 |
 | [Forever](https://open.spotify.com/track/1Oc7I0lPIuUDSH3fGZe7Yn) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [When I Close My Eyes](https://open.spotify.com/album/6JkrpiVpnhPrCpiVtDPN2f) | 2:49 | 2021-10-16 | 2022-02-12 |
 | [Forgive Me](https://open.spotify.com/track/4XjTvY0x7RR7cy8inojCkO) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE) | [Forgive Me](https://open.spotify.com/album/27JlVMNrOc1aaHmnaWmCRW) | 3:45 | 2022-03-09 | 2022-04-22 |
@@ -330,6 +330,7 @@
 | [Milk](https://open.spotify.com/track/6UXU0TkzArLcCdJBhVKczv) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Cape God \(Deluxe\)](https://open.spotify.com/album/49xoGbYKxnS0PEfapnFG6c) | 3:30 | 2021-11-27 | 2022-04-17 |
 | [Mindreader](https://open.spotify.com/track/3KM1RuZ2aZlfnX5tuaPafx) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Mindreader](https://open.spotify.com/album/5LO5R8Zuu4GiyKovnRKprb) | 3:10 | 2023-01-13 | 2023-01-28 |
 | [Misery Loves Company](https://open.spotify.com/track/0dAb1kvcTnQFSEhBiUo1xY) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Let Her Burn](https://open.spotify.com/album/7ejtUeGJ9QV8IQHEBRGRWr) | 2:49 | 2023-02-24 | 2023-03-08 |
+| [Miss Belladonna](https://open.spotify.com/track/3h4Xrayt7oyzdXWe6u14oK) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Miss Belladonna](https://open.spotify.com/album/1Ne9xZgi6No2s4JpxBPyfC) | 3:04 | 2023-07-21 |  |
 | [Missing You](https://open.spotify.com/track/31fmFbMiMICIUhzJx7IxXg) | [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [Take Me When You Go \(Deluxe Version\)](https://open.spotify.com/album/429PrNZhn59C6djYU7caTn) | 3:32 | 2020-10-13\* | 2021-07-10 |
 | [Missing You](https://open.spotify.com/track/4orWSOYbKWFvbyKvgJCnXV) | [NIGHT TRAVELER](https://open.spotify.com/artist/1Yybte8g5co6ZQaFZdhMQH) | [Night Traveler, Vol\. 1](https://open.spotify.com/album/0fpY1kn7EQZCMmTT1Y9D84) | 4:35 | 2020-10-13\* | 2021-06-26 |
 | [more than friends](https://open.spotify.com/track/3QwlKiTMoOzXvOpzvCMUH6) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [YOU FEAR THE GOD THAT LOVES YOU](https://open.spotify.com/album/3O0sAN2kHcVQ5QqfQL8cyB) | 2:27 | 2023-03-24 |  |

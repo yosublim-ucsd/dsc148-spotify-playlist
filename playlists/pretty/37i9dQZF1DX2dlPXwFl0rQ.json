@@ -1,12 +1,12 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Janeth Valenzuela en portada.",
-  "num_followers": 91078,
+  "num_followers": 91126,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTE5YjhiMjkwMjgyZjQ4NGEyNTFkZGU5OTJkYmE2NTBmYzJiMzI2",
+  "snapshot_id": "MCwwN2RjNmViZjQ3ZWIwZTdkZWJkNjFmNjJhY2QxNGE5ZTEzMmVlNDIw",
   "tracks": [
     {
       "added_at": "2023-07-14 06:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-06-30 06:00:00",
       "album": {
-        "name": "Mi Problema",
-        "url": "https://open.spotify.com/album/1yPw3S7ednaRYnHUZchyMb"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 183106,
-      "name": "Mi Problema",
-      "url": "https://open.spotify.com/track/4VPFDmBBwE3MfMRL42iIa4"
-    },
-    {
-      "added_at": "2023-06-30 06:00:00",
-      "album": {
         "name": "\u00bfPor Qu\u00e9 No Vienes?",
         "url": "https://open.spotify.com/album/0YkM3kQNfaCjr5cUjNktzm"
       },
@@ -1031,18 +1015,18 @@
     {
       "added_at": "2023-06-30 06:00:00",
       "album": {
-        "name": "Homenaje A Mi Madre",
-        "url": "https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE"
+        "name": "Mi Problema",
+        "url": "https://open.spotify.com/album/1yPw3S7ednaRYnHUZchyMb"
       },
       "artists": [
         {
-          "name": "Marilyn Odessa",
-          "url": "https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w"
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
         }
       ],
-      "duration_ms": 217626,
-      "name": "Sola Con Mi Soledad",
-      "url": "https://open.spotify.com/track/3cvK6LKGFN8U0LyHJ4TSSJ"
+      "duration_ms": 183106,
+      "name": "Mi Problema",
+      "url": "https://open.spotify.com/track/4VPFDmBBwE3MfMRL42iIa4"
     },
     {
       "added_at": "2023-06-30 06:00:00",
@@ -1059,6 +1043,22 @@
       "duration_ms": 186245,
       "name": "Estan Lloviendo Lagrimas",
       "url": "https://open.spotify.com/track/4ojSnzH10PN0dxTr0eWtOt"
+    },
+    {
+      "added_at": "2023-06-30 06:00:00",
+      "album": {
+        "name": "Homenaje A Mi Madre",
+        "url": "https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Odessa",
+          "url": "https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "Sola Con Mi Soledad",
+      "url": "https://open.spotify.com/track/3cvK6LKGFN8U0LyHJ4TSSJ"
     },
     {
       "added_at": "2023-06-30 06:00:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2023-06-30 06:00:00",
       "album": {
+        "name": "Vida Prestada",
+        "url": "https://open.spotify.com/album/7agDaMTnaNFNi819B4pSaK"
+      },
+      "artists": [
+        {
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+        }
+      ],
+      "duration_ms": 194739,
+      "name": "Vida Prestada",
+      "url": "https://open.spotify.com/track/14oT5LTQiYKZIb1kk6lJMM"
+    },
+    {
+      "added_at": "2023-06-30 06:00:00",
+      "album": {
         "name": "La Gitanilla",
         "url": "https://open.spotify.com/album/63XjnfQ5amRVXAeEhIqJMA"
       },
@@ -1211,22 +1227,6 @@
     {
       "added_at": "2023-06-30 06:00:00",
       "album": {
-        "name": "Vida Prestada",
-        "url": "https://open.spotify.com/album/7agDaMTnaNFNi819B4pSaK"
-      },
-      "artists": [
-        {
-          "name": "Janeth Valenzuela",
-          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
-        }
-      ],
-      "duration_ms": 194739,
-      "name": "Vida Prestada",
-      "url": "https://open.spotify.com/track/14oT5LTQiYKZIb1kk6lJMM"
-    },
-    {
-      "added_at": "2023-06-30 06:00:00",
-      "album": {
         "name": "Cinco Razones",
         "url": "https://open.spotify.com/album/5lFmabGSRMh7o8GHntGeqZ"
       },
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2023-06-30 06:00:00",
       "album": {
-        "name": "Y Sigues Siendo T\u00fa",
-        "url": "https://open.spotify.com/album/0pTTS2mSMDlhPHTYRkgwv7"
+        "name": "De Ti No Lo Esperaba",
+        "url": "https://open.spotify.com/album/5WWN1xJb84SCDRx3kll6E0"
       },
       "artists": [
         {
-          "name": "Las Mar\u00edas",
-          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
         }
       ],
-      "duration_ms": 211493,
-      "name": "Y Sigues Siendo T\u00fa",
-      "url": "https://open.spotify.com/track/0aoR2KYk8JJDDaKwSeP4Y8"
+      "duration_ms": 193184,
+      "name": "De Ti No Lo Esperaba",
+      "url": "https://open.spotify.com/track/6JMJKfwi2UiDsCvAlaOH4x"
     },
     {
       "added_at": "2023-06-30 06:00:00",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2023-06-30 06:00:00",
       "album": {
-        "name": "Cerrada Al Amor",
-        "url": "https://open.spotify.com/album/4Zj6vawARtBV2piYE4X3mx"
+        "name": "Y Sigues Siendo T\u00fa",
+        "url": "https://open.spotify.com/album/0pTTS2mSMDlhPHTYRkgwv7"
       },
       "artists": [
         {
-          "name": "Helen Ochoa",
-          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
+          "name": "Las Mar\u00edas",
+          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
         }
       ],
-      "duration_ms": 204761,
-      "name": "Cerrada Al Amor",
-      "url": "https://open.spotify.com/track/6fGBRojVsgk4JaJ0ptRz6Q"
+      "duration_ms": 211493,
+      "name": "Y Sigues Siendo T\u00fa",
+      "url": "https://open.spotify.com/track/0aoR2KYk8JJDDaKwSeP4Y8"
     },
     {
       "added_at": "2023-06-30 06:00:00",
@@ -1319,6 +1319,22 @@
       "duration_ms": 191028,
       "name": "As\u00ed Nom\u00e1s",
       "url": "https://open.spotify.com/track/56J7bkvuNDfs2e9YGbI01E"
+    },
+    {
+      "added_at": "2023-06-30 06:00:00",
+      "album": {
+        "name": "Cerrada Al Amor",
+        "url": "https://open.spotify.com/album/4Zj6vawARtBV2piYE4X3mx"
+      },
+      "artists": [
+        {
+          "name": "Helen Ochoa",
+          "url": "https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD"
+        }
+      ],
+      "duration_ms": 204761,
+      "name": "Cerrada Al Amor",
+      "url": "https://open.spotify.com/track/6fGBRojVsgk4JaJ0ptRz6Q"
     },
     {
       "added_at": "2023-06-30 06:00:00",
@@ -1343,22 +1359,6 @@
     {
       "added_at": "2023-06-30 06:00:00",
       "album": {
-        "name": "De Ti No Lo Esperaba",
-        "url": "https://open.spotify.com/album/5WWN1xJb84SCDRx3kll6E0"
-      },
-      "artists": [
-        {
-          "name": "Janeth Valenzuela",
-          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
-        }
-      ],
-      "duration_ms": 193184,
-      "name": "De Ti No Lo Esperaba",
-      "url": "https://open.spotify.com/track/6JMJKfwi2UiDsCvAlaOH4x"
-    },
-    {
-      "added_at": "2023-06-30 06:00:00",
-      "album": {
         "name": "Le Cale A Quien Le Cale",
         "url": "https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn"
       },
@@ -1371,6 +1371,22 @@
       "duration_ms": 152768,
       "name": "Le Cale A Quien Le Cale",
       "url": "https://open.spotify.com/track/2nhM06RQQ8uY8s0JdCBKod"
+    },
+    {
+      "added_at": "2023-06-30 06:00:00",
+      "album": {
+        "name": "No Se Vayan Con La Finta (En Vivo)",
+        "url": "https://open.spotify.com/album/7GI58DuMbYiPMKBeT7d42a"
+      },
+      "artists": [
+        {
+          "name": "Janely Rosa",
+          "url": "https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF"
+        }
+      ],
+      "duration_ms": 193840,
+      "name": "La Primera Piedra (En Vivo)",
+      "url": "https://open.spotify.com/track/5k3Ajm3rvCI3L5IDXjZi8C"
     },
     {
       "added_at": "2023-06-30 06:00:00",
@@ -1391,22 +1407,6 @@
       "duration_ms": 231793,
       "name": "Tu Lo Decidiste",
       "url": "https://open.spotify.com/track/7hUTX7fvNLej0G7u2QMWni"
-    },
-    {
-      "added_at": "2023-06-30 06:00:00",
-      "album": {
-        "name": "No Se Vayan Con La Finta (En Vivo)",
-        "url": "https://open.spotify.com/album/7GI58DuMbYiPMKBeT7d42a"
-      },
-      "artists": [
-        {
-          "name": "Janely Rosa",
-          "url": "https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF"
-        }
-      ],
-      "duration_ms": 193840,
-      "name": "La Primera Piedra (En Vivo)",
-      "url": "https://open.spotify.com/track/5k3Ajm3rvCI3L5IDXjZi8C"
     },
     {
       "added_at": "2023-06-30 06:00:00",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2023-06-30 06:00:00",
       "album": {
-        "name": "Ya Te Olvid\u00e9",
-        "url": "https://open.spotify.com/album/5naqdFvqwIyTVEcLdUmPrV"
-      },
-      "artists": [
-        {
-          "name": "Grace Guill\u00e9n",
-          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
-        }
-      ],
-      "duration_ms": 220946,
-      "name": "Ya Te Olvid\u00e9",
-      "url": "https://open.spotify.com/track/6AQmEy0PpEHNb72Pz94sMD"
-    },
-    {
-      "added_at": "2023-06-30 06:00:00",
-      "album": {
         "name": "Simplemente Amigos",
         "url": "https://open.spotify.com/album/28gBhc6eA3RIgkp5sI7oTc"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 175770,
       "name": "Simplemente Amigos",
       "url": "https://open.spotify.com/track/59wb3CHtDB6NpshT2mzKtt"
+    },
+    {
+      "added_at": "2023-06-30 06:00:00",
+      "album": {
+        "name": "Ya Te Olvid\u00e9",
+        "url": "https://open.spotify.com/album/5naqdFvqwIyTVEcLdUmPrV"
+      },
+      "artists": [
+        {
+          "name": "Grace Guill\u00e9n",
+          "url": "https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD"
+        }
+      ],
+      "duration_ms": 220946,
+      "name": "Ya Te Olvid\u00e9",
+      "url": "https://open.spotify.com/track/6AQmEy0PpEHNb72Pz94sMD"
     },
     {
       "added_at": "2023-06-30 06:00:00",

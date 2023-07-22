@@ -4,7 +4,7 @@
 
 > El rango más alto\. Ellos lo tienen y lo saben\. Duki y Jhayco  plantando cara.
 
-92 songs - 5 hr 48 min
+93 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Ballin](https://open.spotify.com/track/0baxKexRrQMY0rQtrgPY9I) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Omy de Oro](https://open.spotify.com/artist/65jIUih0ZeTUJhSTRuYxpi), [Shootter Ledo](https://open.spotify.com/artist/2e5kXDvESsDPMyuQZ0qouH) | [Ballin](https://open.spotify.com/album/1Ls8KSuaiwbo3dCFJJcrb7) | 3:30 | 2021-12-01 |  |
 | [Bandidos](https://open.spotify.com/track/1KEihgohVX0H1R1C6wjYly) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [Bandidos](https://open.spotify.com/album/1ZWbLN7FGdhNwla71leFnt) | 3:44 | 2023-05-12 |  |
 | [Billetes Azules \(with J Balvin\)](https://open.spotify.com/track/7HmnJHfs0BkFzX4x8j0hkl) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Billetes Azules \(with J Balvin\)](https://open.spotify.com/album/0FIqCHhKHDqHd35AvRm8gp) | 3:09 | 2021-12-01 | 2022-03-27 |
+| [Billetes de 100](https://open.spotify.com/track/3uxOuhjpRNrduuLfelV1Cr) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y) | [Billetes de 100](https://open.spotify.com/album/6p5t1YD8b1sD9CK6y9HqK7) | 3:33 | 2023-07-21 |  |
 | [Bobby](https://open.spotify.com/track/39szbBeiqQtomPnozReEg9) | [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt) | [3O](https://open.spotify.com/album/1pg2wYeS9f748uM2fgZBMh) | 3:16 | 2022-07-28 |  |
 | [Bobby](https://open.spotify.com/track/3xbl4UEJ28HP7ivHhcm44w) | [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt) | [Bobby](https://open.spotify.com/album/1zxwvuzQYGoDG42nTboexS) | 3:16 | 2021-12-01 | 2023-03-16 |
 | [Bobby Pulido](https://open.spotify.com/track/6sSPFlLN2UT1sAkqQrtwyL) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q) | [Bobby Pulido](https://open.spotify.com/album/48PYJSYTw1etebnuoJRX1v) | 2:36 | 2021-12-01 | 2022-04-26 |

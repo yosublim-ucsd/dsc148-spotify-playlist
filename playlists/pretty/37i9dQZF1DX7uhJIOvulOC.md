@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uhJIOvulOC.md) - [plain]
 
 > There are 7 billions ways to listen to this playlist...Listen to all the tracks from Kaleidoscope, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,031 likes - 25 songs - 1 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,049 likes - 25 songs - 1 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uhJIOvulOC.md) - [plain]
 | 3 | [Better Things](https://open.spotify.com/track/2dwzy3ZOiNbJ8TBGmVb8bw) | [Sharon Jones & The Dap\-Kings](https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7) | [I Learned the Hard Way](https://open.spotify.com/album/7tsqjPwOhgPOWHgp9RHYi6) | 3:39 |
 | 4 | [Fitzpleasure](https://open.spotify.com/track/7DdXf9x75iEVCHWfoRwRuR) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [An Awesome Wave](https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL) | 3:39 |
 | 5 | [Can You Get To That](https://open.spotify.com/track/5lc9L9FeLBwlJPgEbq9uEw) | [Funkadelic](https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru) | [Maggot Brain](https://open.spotify.com/album/3ywVzrwMQ3Kq43N9zBdBQm) | 2:49 |
-| 6 | [Sympathy For The Devil](https://open.spotify.com/track/75zMKn5euxQdlkZgu4P42J) | [Mick Jagger](https://open.spotify.com/artist/3d2pb1dHTm8b61zAGVUVvO), [Keith Richards](https://open.spotify.com/artist/08avsqaGIlK2x3i2Cu7rKH), [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [The Rolling Stones Singles Collection: The London Years](https://open.spotify.com/album/0ACOqjq9mQuCZry2kj5zkB) | 6:16 |
+| 6 | [Sympathy For The Devil](https://open.spotify.com/track/75zMKn5euxQdlkZgu4P42J) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [The Rolling Stones Singles Collection: The London Years](https://open.spotify.com/album/0ACOqjq9mQuCZry2kj5zkB) | 6:16 |
 | 7 | [The Bottom Line](https://open.spotify.com/track/3jZcB4uYL7J1nhD9h1Dpqm) | [O.V\. Wright](https://open.spotify.com/artist/2eRG04xbRiI1AzY8uTCySk) | [The Bottom Line](https://open.spotify.com/album/0bDFKtBkBTJxTVLwZ8H80N) | 3:13 |
 | 8 | [Ahmad's Blues](https://open.spotify.com/track/12UvbdBibLyCpwPvQMlQEB) | [Marlena Shaw](https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w) | [Out Of Different Bags](https://open.spotify.com/album/3gdUM13NhBDjKDVXyKOioK) | 3:05 |
 | 9 | [Hand Clapping Song](https://open.spotify.com/track/3COOd5xqfP3VUeTZtUKcvD) | [The Meters](https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s) | [Struttin'](https://open.spotify.com/album/3rnBsVeezZtrGh8QU9nbzg) | 2:56 |
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uhJIOvulOC.md) - [plain]
 | 24 | [Moody Blues](https://open.spotify.com/track/27hcY2AQMyLxFjo62Rz6MW) | [Dominic Lewis](https://open.spotify.com/artist/3L0d5AOt1pZZ2HxjJ15p2U) | [Kaleidoscope \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5NneE2ZErwmfooc3nyj5y3) | 2:21 |
 | 25 | [Mellow Yellow](https://open.spotify.com/track/6d9r6Ylqk90SFejCA8Ggar) | [Dominic Lewis](https://open.spotify.com/artist/3L0d5AOt1pZZ2HxjJ15p2U) | [Kaleidoscope \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5NneE2ZErwmfooc3nyj5y3) | 0:58 |
 
-Snapshot ID: `MCwyNDM1YzRiNTMxMmFiNGRhMmQxNDc3MTg3OTAxNmVmM2Q2NTY3Mzlh`
+Snapshot ID: `MCxiMzU1Mjk3YjhlM2RhZDlmYzkwNWYzM2YwMTBiMjg3ODVhZjhmODJj`

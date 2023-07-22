@@ -2,9 +2,9 @@
 
 ### [Indigo](https://open.spotify.com/playlist/37i9dQZF1DWUgBy0IJPlHq)
 
-> A new shade of Country\. Cover: Colter Wall
+> A new shade of Country\. Cover: Uncle Lucius
 
-465 songs - 1 day 4 hr 45 min
+467 songs - 1 day 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [All I Needed](https://open.spotify.com/track/2VUNlM2B9OqF1A4R7mqCrB) | [American Aquarium](https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT) | [Chicamacomico](https://open.spotify.com/album/4oOoEXroTRo6DePYVOrl5B) | 2:59 | 2022-06-10 | 2023-04-15 |
 | [All I See Is You](https://open.spotify.com/track/46fHLVEQBcyC8VjnmdDF3q) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Geronimo](https://open.spotify.com/album/7B2oMtnyw4d5aZOSq2eUhz) | 4:17 | 2021-12-17 | 2022-08-13 |
 | [All My Love Is Coming Back To Me](https://open.spotify.com/track/3Nc53UVSUBvYjuhuNouvfi) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [All My Love Is Coming Back To Me](https://open.spotify.com/album/01OzeCOUrUoaCXMu9rvq9f) | 3:29 | 2022-04-08 | 2022-09-03 |
+| [All That I Have](https://open.spotify.com/track/40ukFTH8s3ELTyGF25P1R7) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [All That I Have](https://open.spotify.com/album/5RxnteviK3YPjM7VFmkl51) | 2:48 | 2023-07-21 |  |
 | [All The Good Times](https://open.spotify.com/track/1muz3TRXxuub3ERDZbNvQE) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [All The Good Times](https://open.spotify.com/album/1UjZW6c0fdVo5dYMbeuyq3) | 4:36 | 2022-04-01 | 2022-04-29 |
 | [All You Got](https://open.spotify.com/track/5e0QbyoJLhQUVtwmVqUqkI) | [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ) | [All You Got](https://open.spotify.com/album/6t9hCUzNZ79wpGmXv4NAZg) | 3:13 | 2022-03-25 | 2022-04-23 |
 | [Amen](https://open.spotify.com/track/4skc2S8hoeseOxPWtqCl6k) | [Tony Kamel](https://open.spotify.com/artist/5C2sPto6jrVHVlkiVl2GvH) | [Back Down Home](https://open.spotify.com/album/5XXg1B8ODKe3udultRZQ6w) | 3:20 | 2021-12-17 | 2022-01-15 |
@@ -58,7 +59,7 @@
 | [Blood Moon](https://open.spotify.com/track/5MO0UtyOvEgRWSIZCuPIP9) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [Blood Moon](https://open.spotify.com/album/1KG0u5ZqDPcJJSP6BFY1au) | 2:48 | 2022-07-01 | 2023-02-09 |
 | [Blue](https://open.spotify.com/track/0A4gEliYdWpZQeRt1en0XN) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Blue](https://open.spotify.com/album/2Sfi2gRtjCAQqEEgg2EJ2h) | 3:21 | 2022-08-26 | 2023-04-15 |
 | [Bonfire At Tina's](https://open.spotify.com/track/3qNCc4GzLQKpAhTjXYBR8z) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S), [Pillbox Patti](https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO) | [Ashley McBryde Presents: Lindeville](https://open.spotify.com/album/3a2NKD0RDfoAlr8lNTZzJq) | 3:40 | 2022-09-30 | 2023-01-14 |
-| [Boots Mine Gold](https://open.spotify.com/track/7ACy8muxyMV2T72wNVDk3k) | [Honey Harper](https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg) | [Boots Mine Gold](https://open.spotify.com/album/2FDMXYESNgDjpLTVIZnOiB) | 3:11 | 2022-10-28 |  |
+| [Boots Mine Gold](https://open.spotify.com/track/7ACy8muxyMV2T72wNVDk3k) | [Honey Harper](https://open.spotify.com/artist/01JvPU3kH9sxiT4EP0kmKg) | [Boots Mine Gold](https://open.spotify.com/album/2FDMXYESNgDjpLTVIZnOiB) | 3:11 | 2022-10-28 | 2023-07-22 |
 | [Born Tough](https://open.spotify.com/track/0fk348ckpteb46vjTO9I0n) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [Born Tough](https://open.spotify.com/album/4evgvJle8aN0wyy5K5plu6) | 3:51 | 2022-08-26 | 2023-03-04 |
 | [Break My Heart](https://open.spotify.com/track/27ZePBIuQwaBQ1PgqwdL8t) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Break My Heart](https://open.spotify.com/album/5268EaZWA8tsSTTWHrDGbF) | 4:12 | 2023-02-24 |  |
 | [Break My Heart \(feat\. Ruston Kelly\)](https://open.spotify.com/track/1cc7aIBaKIsqc3qtev7OqR) | [Ashley Ray](https://open.spotify.com/artist/1QAhUwf00n5kEnLN7cADG8), [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Break My Heart \(feat\. Ruston Kelly\)](https://open.spotify.com/album/3ZwAfNsL44QuYkOA0rCzk0) | 3:36 | 2023-06-16 |  |
@@ -162,7 +163,7 @@
 | [Get Lucky](https://open.spotify.com/track/4ZCko883ozgRWoVX92CySJ) | [Patty Griffin](https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy) | [Get Lucky](https://open.spotify.com/album/1GeMArEzZQYAM09KA8cplb) | 2:45 | 2022-04-29 | 2022-07-16 |
 | [Gettin' By](https://open.spotify.com/track/2cpwCl4uQlyub8HOqkh5sl) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Welcome To Countryland](https://open.spotify.com/album/7mbvRPQce4Lg8NpQkpOzxX) | 3:06 | 2022-02-11 | 2022-08-27 |
 | [Gettin’ By](https://open.spotify.com/track/55QeY7A9H3ioVq1XcBIpBQ) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [Gettin’ By](https://open.spotify.com/album/4Tsf7EtiMsYZyPwAoXK7co) | 3:59 | 2022-04-08 | 2022-05-14 |
-| [Ghost Town](https://open.spotify.com/track/2U8gE23QKFcJKNtOE39f50) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Ghost Town](https://open.spotify.com/album/6h4kEmbmGNXFEADoyjwIaK) | 2:48 | 2023-05-05 |  |
+| [Ghost Town](https://open.spotify.com/track/2U8gE23QKFcJKNtOE39f50) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Ghost Town](https://open.spotify.com/album/6h4kEmbmGNXFEADoyjwIaK) | 2:48 | 2023-05-05 | 2023-07-22 |
 | [Give It Some Time](https://open.spotify.com/track/3EYGT2jL6afEPBohmfnEIE) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Give It Some Time](https://open.spotify.com/album/3dWR1apPIDKdn4iV2uIFGD) | 3:22 | 2023-04-14 |  |
 | [Glad To Be Here \(feat\. Brent Cobb\)](https://open.spotify.com/track/6bXgRLGmrRCnue9R6MI1gF) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [The Dream: Living The Dream \(Deluxe\)](https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt) | 4:33 | 2021-12-17 | 2022-01-15 |
 | [Glory of True Love](https://open.spotify.com/track/2vi13dqyEG3YA7fqrEZRAA) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Glory of True Love](https://open.spotify.com/album/5HU1SmRWt20DsYKazXiMQa) | 4:09 | 2022-01-14 | 2022-04-16 |
@@ -337,6 +338,7 @@
 | [Rhododendron](https://open.spotify.com/track/36hL1aF2Bxel9EOkHy3CuX) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Rhododendron](https://open.spotify.com/album/1aY75uq0ccpS9E9SzgVbHP) | 4:46 | 2022-10-14 | 2023-06-10 |
 | [Road Runner](https://open.spotify.com/track/3hQ51c9dPj9FcSdOHhrfkq) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC), [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Road Runner](https://open.spotify.com/album/78omrT8twYQBzaZWhy275N) | 2:36 | 2022-11-25 | 2023-04-15 |
 | [Roll](https://open.spotify.com/track/28qparr2ZgSP8cq45EJc87) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Mercy](https://open.spotify.com/album/7EAnDm03qD0KMPbjBVeEDq) | 3:12 | 2022-02-25 | 2022-10-01 |
+| [Rudolph](https://open.spotify.com/track/7kTUoMrKA0duKYHWliWW7k) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Rudolph](https://open.spotify.com/album/0R2NgA8mg7wRzqpO0dLia1) | 3:31 | 2023-07-21 |  |
 | [Run](https://open.spotify.com/track/0OvR1iYRUwrsSwu6Zli9iz) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Run](https://open.spotify.com/album/7dN3NasZNSsCD8OdH08oua) | 3:32 | 2022-01-07 | 2022-04-02 |
 | [Russell County Line](https://open.spotify.com/track/4xxadE0DSjELkTXjRjwOcB) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Russell County Line](https://open.spotify.com/album/7oKoqz8mBYP0HNsNJ0fW4h) | 4:09 | 2022-03-11 | 2022-05-14 |
 | [Russell County Line](https://open.spotify.com/track/68i0Y8xMaYxLHSeUu4uWtA) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Fortune Favors the Bold](https://open.spotify.com/album/1u5IKTsfXmfqqRbtOkHZWw) | 4:09 | 2022-05-13 |  |

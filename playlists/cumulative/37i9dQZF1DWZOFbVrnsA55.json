@@ -1283,6 +1283,24 @@
     },
     {
       "album": {
+        "name": "cycli infini",
+        "url": "https://open.spotify.com/album/2Unu4p1G2CoLYgUOp9kqW4"
+      },
+      "artists": [
+        {
+          "name": "Felbm",
+          "url": "https://open.spotify.com/artist/2kjrM4RpZVRBHy3hjgJCr7"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 2285481,
+      "name": "cycli infini",
+      "url": "https://open.spotify.com/track/16VQmD6226OZE2Um9g3a6B"
+    },
+    {
+      "album": {
         "name": "Beyond The Yellow Haze",
         "url": "https://open.spotify.com/album/4EjBca2aqF7mMRkDkXSrNN"
       },

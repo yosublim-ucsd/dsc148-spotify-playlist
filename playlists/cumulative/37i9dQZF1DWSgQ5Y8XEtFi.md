@@ -4,7 +4,7 @@
 
 > songs that break bones
 
-262 songs - 11 hr 41 min
+264 songs - 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [BABY CUPID](https://open.spotify.com/track/0ByC3vzSHd9n9P6imFPNZE) | [Zack Cokas](https://open.spotify.com/artist/4iXB3QHlFuyXyAZ4bLDzor) | [BABY CUPID](https://open.spotify.com/album/1YgDoiOb4WqFMEZHm9UgCZ) | 2:06 | 2022-05-20 | 2023-06-02 |
 | [BACKROOM](https://open.spotify.com/track/3Ln9xcE0iQcigMmLqV3fEi) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [IN DIMES WE TRUST](https://open.spotify.com/album/4eKHRNqEMM5rNIXfx7GpmF) | 2:35 | 2022-10-07 | 2023-03-28 |
 | [BACKROOM](https://open.spotify.com/track/6pEk4bPOrJb77cH8noJLaR) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [IN DIMES WE TRUST](https://open.spotify.com/album/6iQuqlO95HG2WVqVh4jxRi) | 2:35 | 2022-04-20 | 2022-10-23 |
+| [backseat](https://open.spotify.com/track/20PawGmohv8qxIpi04ElQu) | [jungle bobby](https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [backseat](https://open.spotify.com/album/0I9TeRVzfA9LXJ7lt9XESr) | 2:24 | 2023-07-21 |  |
 | [bane](https://open.spotify.com/track/7zS3UNh0KHF6mEv2qVObMJ) | [Zack Fox](https://open.spotify.com/artist/1UH80jhsYsFztK0anu2FNS) | [shut the fuck up talking to me](https://open.spotify.com/album/1tiD0UGetoA3qTkJN3Thdv) | 2:17 | 2022-03-29 | 2022-05-12 |
 | [Bartier Cardi \(feat\. 21 Savage\)](https://open.spotify.com/track/0dIoGTQXDh1wVnhIiSyYEa) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Invasion of Privacy](https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML) | 3:44 | 2022-08-29 | 2022-09-27 |
 | [Basilisk](https://open.spotify.com/track/4YOE7li8bD3CDbhzByFKcJ) | [Cemetery Drive](https://open.spotify.com/artist/3HLk3BmmhoWCbL1mVP70vx) | [Basilisk](https://open.spotify.com/album/5xnPoasX58FMmIgZg6VpwC) | 3:15 | 2022-04-20 | 2022-07-28 |
@@ -213,6 +214,7 @@
 | [Savior](https://open.spotify.com/track/0YeUVm23SAkUruwEx9LWnt) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Sam Dew](https://open.spotify.com/artist/1SIw8nXWjvAKeb6Dhh85cz) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:44 | 2022-05-16 | 2022-05-20 |
 | [Say the Name](https://open.spotify.com/track/3YHhWdTlWjIML155CvcH4F) | [clipping.](https://open.spotify.com/artist/5HJ2kX5UTwN4Ns8fB5Rn1I) | [Visions of Bodies Being Burned](https://open.spotify.com/album/0b1q9se93BEqBl3kiltn33) | 4:59 | 2023-03-27 | 2023-05-24 |
 | [SCARING THE HOES](https://open.spotify.com/track/1waqS2zPI3Z1zTvJOa2hVC) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [SCARING THE HOES](https://open.spotify.com/album/3u20OXh03DjCUzbf8XcGTq) | 2:22 | 2023-03-27 |  |
+| [Sean\-Jared](https://open.spotify.com/track/0cqYejXSn0M37GXx4JB8RB) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [MID AIR](https://open.spotify.com/album/1ohUa4biJdcAhjnEbOOXYy) | 2:37 | 2023-07-21 |  |
 | [See Me Fall \- Y2K Remix](https://open.spotify.com/track/5MLreTrtwv7fGyyAy0RyeB) | [Ro Ransom](https://open.spotify.com/artist/5tLx2xpkiHdzvX9CIymCfR), [Y2K](https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx) | [Momentum \(Mixtape\)](https://open.spotify.com/album/20ZH0IHnyBagQUmOGcAHmp) | 3:21 | 2022-07-25 | 2023-03-28 |
 | [seeker missile](https://open.spotify.com/track/4lzb5MeRL9NrmW8WR11t1d) | [dynastic](https://open.spotify.com/artist/1cfVy8MbRPuDJD7g9bR14z) | [the actor](https://open.spotify.com/album/16v4NJuFupxvWsCGOduCeC) | 3:12 | 2023-03-27 |  |
 | [Selfish](https://open.spotify.com/track/4FFec7v5TnYdwNzyrmBGM9) | [slowthai](https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP) | [Selfish](https://open.spotify.com/album/6UXzkhMXm0jqZ3k3ogjp6W) | 3:12 | 2023-02-02 | 2023-04-15 |

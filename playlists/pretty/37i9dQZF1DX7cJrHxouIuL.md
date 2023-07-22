@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cJrHxouIuL.md) - [plain]
 
 > Kindie tunes for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,699 likes - 160 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,726 likes - 160 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cJrHxouIuL.md) - [plain]
 | 29 | [Way of Looking at the World](https://open.spotify.com/track/7GbJKpbxlUIqnQZ2a0yHxr) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Way of Looking at the World](https://open.spotify.com/album/6hoUQ7E6ptjW7KNRZHsT9j) | 2:45 |
 | 30 | [Brand New Day](https://open.spotify.com/track/4cBPErdOZb1skrZDRX2HIS) | [Erica Rabner](https://open.spotify.com/artist/3u7iISrtnnqsAGE8gIovMg) | [We Got This](https://open.spotify.com/album/3muDxQozNwlTlj4lMbPiSq) | 2:42 |
 | 31 | [Why Can't Every Day Be Halloween](https://open.spotify.com/track/56RUkfDbvwOaqorswMd6MT) | [Triple Rainbow](https://open.spotify.com/artist/3IGsw8WHZ1TzhtPRbBb26J) | [You Are Magic](https://open.spotify.com/album/5xRjlwgV91shI2gFPaoQEx) | 2:44 |
-| 32 | [Dear to Me](https://open.spotify.com/track/1Df7XWUZBHPdpveCW9n07q) | [Rissi Palmer](https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ) | [Best Day Ever](https://open.spotify.com/album/2grVEoGEw92ONy96YK5bsr) | 2:57 |
+| 32 | [Dear to Me](https://open.spotify.com/track/6ZMPLljTat1w0sGDz69LjJ) | [Rissi Palmer](https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ) | [Best Day Ever](https://open.spotify.com/album/2hWnXvL1PjyRncrKRYaKRC) | 2:57 |
 | 33 | [Koo Roo Koo Roo Koo Koo](https://open.spotify.com/track/0oZkMWAhb8KPgo2L4n3vFN) | [Little Miss Ann](https://open.spotify.com/artist/0G7JrLPvqOjHcv891aUiUb) | [Welcome Spring](https://open.spotify.com/album/1gQzsrdjYnlTO1snfJ8FTN) | 3:25 |
 | 34 | [Made For Feelings](https://open.spotify.com/track/6d4xmldjjcZrvd9juUVMwK) | [Hot Toast Music Company](https://open.spotify.com/artist/4RD7ZKkKA4xqv87XSUvkXX) | [All The Feels](https://open.spotify.com/album/2d5veNMk0bW0m82HftXxKc) | 3:50 |
 | 35 | [Somewhere Over The Rainbow\_What A Wonderful World](https://open.spotify.com/track/25U7raB3ZSszayTYClh4hF) | [Israel Kamakawiwo'ole](https://open.spotify.com/artist/4ogvuDRerGhZfSf7TtzHlr) | [Facing Future](https://open.spotify.com/album/0pquf1NcG9FdiypBPwICu9) | 5:08 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cJrHxouIuL.md) - [plain]
 | 86 | [This Room Ain't Gonna Clean Itself](https://open.spotify.com/track/06WXjbQoDZJCqPWb63QdGp) | [The Tallest Kid in the Room](https://open.spotify.com/artist/6Axqi2CIu4eRt4zFQpdNc5) | [Songs to Sit Criss\-Cross to \(But Dance If You Want\)](https://open.spotify.com/album/5vjCoc8e6lPtnp3VjDgU0t) | 2:04 |
 | 87 | [You'll Sing a Song and I'll Sing a Song](https://open.spotify.com/track/3PyfzEyTIgqKdsXRyFTKOj) | [Ella Jenkins](https://open.spotify.com/artist/2AdaJlzNcOpdrvMSBN92Wp) | [You'll Sing a Song and I'll Sing a Song](https://open.spotify.com/album/65VNMkYGsMwLrYE8kP9NYf) | 4:26 |
 | 88 | [Little Bitta You](https://open.spotify.com/track/0MAmaesEcenot1iKsV08S1) | [Andrew & Polly](https://open.spotify.com/artist/49jFRUETZfd3qMb92TcWda) | [Odds & Ends](https://open.spotify.com/album/7z0GxmcXQ2pxwN3fEKC4N2) | 2:20 |
-| 89 | [Best Day Ever](https://open.spotify.com/track/0FpG7xhSQGo2PJnfD7FM6G) | [Rissi Palmer](https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ) | [Best Day Ever](https://open.spotify.com/album/2grVEoGEw92ONy96YK5bsr) | 3:03 |
+| 89 | [Best Day Ever](https://open.spotify.com/track/4XBjDqRMWPjmYsHNb7j0XT) | [Rissi Palmer](https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ) | [Best Day Ever](https://open.spotify.com/album/2hWnXvL1PjyRncrKRYaKRC) | 3:03 |
 | 90 | [Best Friends](https://open.spotify.com/track/3TAVGNdxMAA9k0Sc3i3mXD) | [Blake Wonders](https://open.spotify.com/artist/1EeQbJWCTnmZ5Np6QBEWxu) | [THE REALLY FUN ALBUM!](https://open.spotify.com/album/4nHXMTt1wbxafkzK2DOyxE) | 1:12 |
 | 91 | [Robot Breaks Down](https://open.spotify.com/track/5N0RY2JgHKbbhlDwh7sSVI) | [Imagination Movers](https://open.spotify.com/artist/3nkUcLzl9v6cIxFI6cvTeD) | [Happy To Be Here](https://open.spotify.com/album/5ryBpO4WnX4pjdU6rA8xdX) | 2:53 |
 | 92 | [Rock, Paper, Scissors](https://open.spotify.com/track/0BQi2ZHehN8L02CMB9pWlg) | [Elliott Park](https://open.spotify.com/artist/6iz85IUQbVWxKzemxy4u16) | [Songs with My Daughters](https://open.spotify.com/album/4MyybH1mOTmaADrhjWXDgb) | 1:38 |
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7cJrHxouIuL.md) - [plain]
 | 159 | [Little Bird, Little Bird](https://open.spotify.com/track/5mdDzJBkQ7Gz7ePDCB397w) | [Elizabeth Mitchell](https://open.spotify.com/artist/3gBQ1U5dXpRXS6tlbyNTDM) | [You Are My Little Bird](https://open.spotify.com/album/4GYfEguWQPqdBpFO1XC1eB) | 2:28 |
 | 160 | [Wheels On The Bus](https://open.spotify.com/track/3c2UQUnufLzun0uggzYjzE) | [Kyle Andrews](https://open.spotify.com/artist/67tNmCzk9teeC1h8FgmqJA) | [For The Kids Three](https://open.spotify.com/album/1Dr9Qai7RQUBTtqLrJDo2A) | 2:51 |
 
-Snapshot ID: `MCxlOTViZmY1M2MyOGMyMTA3NWUzOTEzM2ExNDFkNmUzMGVkOGVmZTQ3`
+Snapshot ID: `MCw5MTlmNTU4M2FiNzZkNDU3YzBmNDhkY2VjMDAwN2RmMmZhYTJlMGFj`

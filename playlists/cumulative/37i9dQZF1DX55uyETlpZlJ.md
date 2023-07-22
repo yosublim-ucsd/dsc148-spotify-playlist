@@ -2,7 +2,7 @@
 
 ### [Kannada Indie](https://open.spotify.com/playlist/37i9dQZF1DX55uyETlpZlJ)
 
-> Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Sanjith Hegde
+> Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All OK
 
 139 songs - 7 hr 43 min
 
@@ -39,7 +39,7 @@
 | [FLYHIGH](https://open.spotify.com/track/4xcu2aYgGXrcI8N9JBzh1j) | [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q) | [FLYHIGH \- Kannada](https://open.spotify.com/album/5I7FRC3Hy9Eg6CqKE29fvL) | 3:55 | 2023-06-29 |  |
 | [Free](https://open.spotify.com/track/2UzkwgstKyX5wZg6t9YzxL) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV) | [Free](https://open.spotify.com/album/2dVX6UPdVWKPKs8g4huCHG) | 3:48 | 2023-07-20 |  |
 | [Gadda](https://open.spotify.com/track/5NMcqtJ4MKHpFsHIvgWs7p) | [Arfaz Ullal](https://open.spotify.com/artist/0wuJzQOCtUNgXqrkkgsFoH), [Chikkesh Hamsabhimani](https://open.spotify.com/artist/4UT07rarVsghjWlBzj7iU9) | [Gadda](https://open.spotify.com/album/5HeVSXTlmUq9Rw8BuOZiGv) | 4:32 | 2023-02-13 |  |
-| [Geejaga Hakki](https://open.spotify.com/track/1u6vTH5nUSKaSTPJZJC81s) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Charan Raj](https://open.spotify.com/artist/5Oe7ToHpWN7t7nWtJvJ7gi), [Prassanna Hegde](https://open.spotify.com/artist/0GXTpJPW41OHk5rTZCRDDy) | [Geejaga Hakki](https://open.spotify.com/album/330gRfCGukj4u4WpucNpP4) | 3:25 | 2023-06-08 |  |
+| [Geejaga Hakki](https://open.spotify.com/track/1u6vTH5nUSKaSTPJZJC81s) | [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Charan Raj](https://open.spotify.com/artist/5Oe7ToHpWN7t7nWtJvJ7gi), [Prassanna Hegde](https://open.spotify.com/artist/0GXTpJPW41OHk5rTZCRDDy) | [Geejaga Hakki](https://open.spotify.com/album/330gRfCGukj4u4WpucNpP4) | 3:25 | 2023-06-08 | 2023-07-22 |
 | [Good Night](https://open.spotify.com/track/2on44Nj5lhjWRTcdJfVcu8) | [All Ok](https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV), [Aishwarya Rangarajan](https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO) | [Good Night](https://open.spotify.com/album/6zCkPLOYgZWOy2dPPkB7ac) | 3:52 | 2022-10-20 |  |
 | [Haaralu](https://open.spotify.com/track/75EX7KicIHR8oJeJsnhFOv) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ), [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Haaralu](https://open.spotify.com/album/45lp8EknJduEep8k5wrb6Z) | 2:57 | 2023-06-29 |  |
 | [Hey Sanchari](https://open.spotify.com/track/5EFBhOebY0wOUibTgQH5TN) | [Aravind Murali](https://open.spotify.com/artist/3ECpBraKrmQ1TUA3tkHZxy), [Sunil BT](https://open.spotify.com/artist/7j6hk5uHFzlXaxtI6R0Qm9) | [Hey Sanchari](https://open.spotify.com/album/5x59vdpuiqqxXP2JT5BA4S) | 3:22 | 2023-03-06 |  |
@@ -116,7 +116,7 @@
 | [Pakshi](https://open.spotify.com/track/58Ph4B4HN833bvtQqguiBJ) | [Karlow](https://open.spotify.com/artist/18JUdO0CqLXXPs4WlqPpnx) | [Pakshi](https://open.spotify.com/album/3zHwN65sNNAvlgZBPWzCyc) | 2:57 | 2023-07-14 |  |
 | [Prema Sagara](https://open.spotify.com/track/1HQ1ODNrcw6t1I7iIUZQ0p) | [Manikanta Naik Puttur](https://open.spotify.com/artist/2dLmrYEdVGzU8QITguTmDf) | [Prema Sagara](https://open.spotify.com/album/4UU73MuvQoCzYc4CdIGmwO) | 4:19 | 2023-05-25 | 2023-06-08 |
 | [Psych Boy](https://open.spotify.com/track/4zVzWfJ7fELjRrWxWvjHIF) | [X Paapi Psycho](https://open.spotify.com/artist/2xVVYDPi4Kb3pMrV47nrww), [Nandan V R](https://open.spotify.com/artist/7L27ObjW3EkD2VXQcPWL7a) | [Psych Boy](https://open.spotify.com/album/1KjvaQIdZq8YfChkgCGDx7) | 2:10 | 2023-05-26 |  |
-| [Queen](https://open.spotify.com/track/3ZwA5XT8yNMktFl41qfwfu) | [The Aura](https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N) | [God Movess](https://open.spotify.com/album/16x5VIDSCWPmpSCjt06v5K) | 2:45 | 2023-07-13 |  |
+| [Queen](https://open.spotify.com/track/3ZwA5XT8yNMktFl41qfwfu) | [The Aura](https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N) | [God Movess](https://open.spotify.com/album/16x5VIDSCWPmpSCjt06v5K) | 2:45 | 2023-07-13 | 2023-07-22 |
 | [QUICK FIX](https://open.spotify.com/track/3k6XUW5YqaTYhnvnakgubB) | [Shastra](https://open.spotify.com/artist/6L0zcPmoJp0r8YIsSYmu34), [NUMB\-URGH](https://open.spotify.com/artist/3zPtAKDN5Ldh5BAVPbzVlD), [John On The Beat](https://open.spotify.com/artist/6LlGGD8vKtcraxhCCPkRaS) | [QUICK FIX](https://open.spotify.com/album/7e9S5JfIKYhjglqdcb1XGP) | 2:06 | 2023-07-17 |  |
 | [Rain Chant](https://open.spotify.com/track/43DL71yvcNSP5ohKcNE1xC) | [Bryden & Parth](https://open.spotify.com/artist/0xm9AriR5cmVDwMBWL2HHo), [Halakki Vokkaliga](https://open.spotify.com/artist/2YFrJUByqFWgxVps6hAiGD) | [Rain Chant](https://open.spotify.com/album/6KcfWe3ii5Mo0LnMiUjHD7) | 5:30 | 2023-06-16 | 2023-07-09 |
 | [Ranasagar](https://open.spotify.com/track/4sQQVsnzryMPIiBBSMSQFk) | [D rapper](https://open.spotify.com/artist/4FqwQ0EygQJox3FgfVUSn4) | [Ranasagar](https://open.spotify.com/album/2iAIXYgbgH7Xlw0H520BFo) | 1:43 | 2023-07-08 | 2023-07-18 |

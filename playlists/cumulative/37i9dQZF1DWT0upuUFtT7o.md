@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Malcolm Todd
 
-1,685 songs - 3 day 20 hr 9 min
+1,686 songs - 3 day 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,7 +407,7 @@
 | [dissolve](https://open.spotify.com/track/1GJF9cxjx4tEeUgIHlqGlb) | [sunshy](https://open.spotify.com/artist/3N10oOH2Qf9uti4SA0Azav) | [dissolve](https://open.spotify.com/album/2oHvvxsZZ8lziRzIjIfUs9) | 2:25 | 2023-06-14 | 2023-06-28 |
 | [DNT](https://open.spotify.com/track/30ThiRjVx78abM4QBURHNB) | [roman around](https://open.spotify.com/artist/18pfB891JbZKKn0bCueMvY) | [DNT](https://open.spotify.com/album/4sNV4tF9uluoEJxMlaxkXk) | 4:24 | 2022-03-16 | 2022-04-13 |
 | [Do I Scare You](https://open.spotify.com/track/1PHn37xR2YvLcGpBCPpl2e) | [Bea Bitter](https://open.spotify.com/artist/6dgOnDNXvJ5ipEnbocP0Gu) | [Do I Scare You](https://open.spotify.com/album/3YN9Rzgi86fzi1WMTRY3uf) | 2:26 | 2022-09-23 | 2022-10-13 |
-| [Do You Believe in Love](https://open.spotify.com/track/1RFAVXee1BDJp0DKZZLWZd) | [Coco Elise](https://open.spotify.com/artist/5aiWig8aYprqc7PLn6AlIC) | [Do You Believe in Love](https://open.spotify.com/album/0Y4dm9ueHYvlBBwK5dxpN2) | 2:10 | 2023-06-27 |  |
+| [Do You Believe in Love](https://open.spotify.com/track/1RFAVXee1BDJp0DKZZLWZd) | [Coco Elise](https://open.spotify.com/artist/5aiWig8aYprqc7PLn6AlIC) | [Do You Believe in Love](https://open.spotify.com/album/0Y4dm9ueHYvlBBwK5dxpN2) | 2:10 | 2023-06-27 | 2023-07-22 |
 | [do you know my name?](https://open.spotify.com/track/2veqAEzHW7tAoATpCbXg97) | [St\. Frances](https://open.spotify.com/artist/19hq1SgLJe8SVZnH9jfwfj) | [do you know my name?](https://open.spotify.com/album/28nMBhaC4ynX8dEjTMBsgN) | 4:21 | 2023-02-08 | 2023-03-02 |
 | [do you think im a robot \- demo](https://open.spotify.com/track/1sqLoG0pxdZxJ1KGaQmZsi) | [Career Woman](https://open.spotify.com/artist/17RK5BpOKQ4YVtCHFWKK3y) | [dorm room demos](https://open.spotify.com/album/4KXsPYtvXLnc9GFURxuCPo) | 5:17 | 2023-04-12 | 2023-04-27 |
 | [do you think we're old enough](https://open.spotify.com/track/3wOixX2IXEqYZaui7mTUtp) | [Au Gres](https://open.spotify.com/artist/6hz3z9hlJ0gB5CkmxnnwHr) | [do you think we're old enough](https://open.spotify.com/album/5SOvZNMeYqj0epHWecJUV2) | 3:04 | 2022-02-09 | 2022-04-07 |
@@ -603,6 +603,7 @@
 | [good night](https://open.spotify.com/track/7sqWR1NFRcd4EjyJjxx0ZD) | [Amanda Sandin](https://open.spotify.com/artist/4gxUUtchNh9ThpV5a9tt0i) | [good night](https://open.spotify.com/album/04jZXrVIZaFZ4FHScXAyJ9) | 2:08 | 2022-01-19 | 2022-02-10 |
 | [Good Sex](https://open.spotify.com/track/5MQ914H0T9fBompsuM0FbY) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw) | [Good Sex](https://open.spotify.com/album/3opsaisHQIrDNsgKcxAMGR) | 3:09 | 2022-10-12 | 2022-12-01 |
 | [Good Stuff](https://open.spotify.com/track/4Tfvz7BRWnLYqlja4jUAsy) | [Parkland](https://open.spotify.com/artist/7kpPpbL8gj9EYboqzN5WMm) | [Good Stuff](https://open.spotify.com/album/1Rgpj3IAACl9M48bmefYqC) | 3:43 | 2022-10-19 | 2022-12-01 |
+| [Good Things Take Time](https://open.spotify.com/track/1rMPAjBFGWHcaiZ6O6t0jW) | [Harmony](https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW) | [Good Things Take Time](https://open.spotify.com/album/6kTSYt8iV32b8HLSuCSfUg) | 2:25 | 2023-07-21 |  |
 | [Good Time](https://open.spotify.com/track/57XbxE2eq5L9KSCqVfgP65) | [Cop Kid](https://open.spotify.com/artist/57yzfidR1Sr8ETxIf3Imc7), [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo) | [Good Time](https://open.spotify.com/album/47btDCCrptlKs0GNcLKqhW) | 2:34 | 2022-10-12 | 2022-11-12 |
 | [Good Time](https://open.spotify.com/track/5J9H8Pzz3uCjwfgMBvvuM2) | [Leland Blue](https://open.spotify.com/artist/4TgfkZEpcjkYgRBKeqy1Mh) | [Good Time](https://open.spotify.com/album/5sjrMAgTMgB9oRQD6YLNOm) | 2:56 | 2022-02-16 | 2022-04-07 |
 | [Goodbye Forever](https://open.spotify.com/track/4z4vowAasMbKqp1t2uBCuh) | [PWNT](https://open.spotify.com/artist/64ucpxkeLwoyiLViMhBR3v) | [Goodbye Forever](https://open.spotify.com/album/3fFgNTJV09wygLl3iz1ETn) | 2:51 | 2022-08-31 | 2022-10-06 |

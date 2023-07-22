@@ -1399,6 +1399,28 @@
     },
     {
       "album": {
+        "name": "Place du swing",
+        "url": "https://open.spotify.com/album/3S4mE5XrpQcV2w0CPLhOIB"
+      },
+      "artists": [
+        {
+          "name": "Greg Ruby",
+          "url": "https://open.spotify.com/artist/6JAWbslWhlSq3tmcANaFS7"
+        },
+        {
+          "name": "Steve Rice",
+          "url": "https://open.spotify.com/artist/0q1LMzk9N688736AFf4146"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243382,
+      "name": "Place du Swing",
+      "url": "https://open.spotify.com/track/5ybS0DddQYx9gO6YKtFcIQ"
+    },
+    {
+      "album": {
         "name": "Puttin' On The Ritz",
         "url": "https://open.spotify.com/album/2GhFpYVZdVZ1PnVkphY0OU"
       },

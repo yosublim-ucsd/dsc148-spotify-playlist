@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-05-26",
-  "description": "New Music Discovery is what we're about. Try it on for size. Cover: Hailey Whitters",
+  "description": "New Music Discovery is what we're about. Try it on for size. Cover: Tiera Kennedy",
   "name": "New Boots",
   "tracks": [
     {
@@ -8376,7 +8376,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 191017,
       "name": "For My Dawgs (feat. Willie Jones & Blanco Brown)",
       "url": "https://open.spotify.com/track/40jq22x0xSlHJ81KWZ1Hhm"
@@ -11322,6 +11322,32 @@
       "duration_ms": 196506,
       "name": "Heartbreak On The Map",
       "url": "https://open.spotify.com/track/4kAg1SWfJoqJq7m2FF7l8p"
+    },
+    {
+      "album": {
+        "name": "Heartbroken (feat. Jessie Murph & Polo G)",
+        "url": "https://open.spotify.com/album/4cfA6cGpQSXr8jMMxfnNaS"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204325,
+      "name": "Heartbroken (feat. Jessie Murph & Polo G)",
+      "url": "https://open.spotify.com/track/6NdnvPwQvZb147DVa4x14h"
     },
     {
       "album": {
@@ -14808,6 +14834,24 @@
       "duration_ms": 183560,
       "name": "Jesus And Wranglers",
       "url": "https://open.spotify.com/track/0vgoslYFyEhs1qKMLJWg9Y"
+    },
+    {
+      "album": {
+        "name": "Jesus, My Mama, My Therapist",
+        "url": "https://open.spotify.com/album/5q6jZfZ06KkTYYMwfpWVxi"
+      },
+      "artists": [
+        {
+          "name": "Tiera Kennedy",
+          "url": "https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184105,
+      "name": "Jesus, My Mama, My Therapist",
+      "url": "https://open.spotify.com/track/2aIYyC8gSLw0H3CNLhGajr"
     },
     {
       "album": {
@@ -20996,7 +21040,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 219040,
       "name": "Penniless & Broke",
       "url": "https://open.spotify.com/track/26TL1SaQwfeu2RUEpICMOh"
@@ -22732,7 +22776,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 201002,
       "name": "Sad in the Summer (feat. Lily Rose)",
       "url": "https://open.spotify.com/track/29Zod043iIX27WBv0duEDn"
@@ -32230,6 +32274,24 @@
       "duration_ms": 201970,
       "name": "Young Love",
       "url": "https://open.spotify.com/track/0tzH5cfzpfVo1T3gFxpCTP"
+    },
+    {
+      "album": {
+        "name": "Young Love & Saturday Nights",
+        "url": "https://open.spotify.com/album/5fTud1jSzcTEwm7I0j4BTu"
+      },
+      "artists": [
+        {
+          "name": "Chris Young",
+          "url": "https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195357,
+      "name": "Young Love & Saturday Nights",
+      "url": "https://open.spotify.com/track/1MCUz8U559nGEN377EHHaY"
     },
     {
       "album": {

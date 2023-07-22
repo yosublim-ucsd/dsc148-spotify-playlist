@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EFbXknq73d.md) - [plain]
 
 > Hand\-picked tasty jams\. Cover: Grateful Dead
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,349 likes - 90 songs - 12 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,467 likes - 90 songs - 12 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EFbXknq73d.md) - [plain]
 | 21 | [In A Big Country](https://open.spotify.com/track/11WtZDdbNlLxLyMo9xozCb) | [moe.](https://open.spotify.com/artist/2ZfHMUPrxoZNDTBPHmmdhj) | [Dither](https://open.spotify.com/album/39ECCmwxjPPp26lKTr7a80) | 3:36 |
 | 22 | [Pickin' Up The Pieces](https://open.spotify.com/track/3NTwkFnd4dPcvpg43O3XW3) | [Widespread Panic](https://open.spotify.com/artist/54SHZF2YS3W87xuJKSvOVf) | [Everyday](https://open.spotify.com/album/1OgEkkTKJpy7yOGfPmSTCY) | 4:24 |
 | 23 | [Cats Under The Stars](https://open.spotify.com/track/5s6gA3IQTbVqv8utc5jVcn) | [Jerry Garcia Band](https://open.spotify.com/artist/1YTe4dNIoWX3iHX8H4xVeM), [Jerry Garcia](https://open.spotify.com/artist/3QDaXfnxfQqqJQK5lSdjLN) | [Cats Under the Stars \(Expanded\)](https://open.spotify.com/album/4yMdFHGZTkXQsU4M55VjeZ) | 5:31 |
-| 24 | [West L.A\. Fade Away](https://open.spotify.com/track/3er5f95wRt5vE2JSHqaAcb) | [Keller Williams](https://open.spotify.com/artist/5de5W8sgXIMq9dgMR0Wml0) | [Funk](https://open.spotify.com/album/2qKwJ4uMaAjz7AUSe5cX3X) | 6:19 |
+| 24 | [West L.A\. Fadeaway](https://open.spotify.com/track/2eohZCZwkyK5Z8MF7AV2ik) | [Keller Williams](https://open.spotify.com/artist/5de5W8sgXIMq9dgMR0Wml0) | [Funk](https://open.spotify.com/album/71aC6pTMJ5peLbJB4Ujvxd) | 6:19 |
 | 25 | [Dawn A New Day \- Jam in the Van Live Session](https://open.spotify.com/track/3X5FLVPnSTGhnWNnqIwtq0) | [Pigeons Playing Ping Pong](https://open.spotify.com/artist/52NOvMXEjgf8MQl0qop2dl), [Jam in the Van](https://open.spotify.com/artist/1CUVxHzaFXiqedLmCt1pKa) | [Pigeons Playing Ping Pong \(Live Session, Los Angeles, CA, 2020\)](https://open.spotify.com/album/74Hvnb2MiG3FMQa3x6nnwW) | 6:42 |
 | 26 | [Arcadia \- Live, 7.27.19](https://open.spotify.com/track/2zQZfyiQxPxNa2qG9uN9BJ) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Alive and Well \(Live\)](https://open.spotify.com/album/2FhcriJL51pVkKyTlKYN6O) | 9:31 |
 | 27 | [Eyes of the World \- 2013 Remaster](https://open.spotify.com/track/5pHVAQ5LD3RgDG5m11r2Jt) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT) | [Wake of the Flood \(2013 Remaster\)](https://open.spotify.com/album/4wIEQMHtdye4aeSc2FYxI0) | 5:20 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4EFbXknq73d.md) - [plain]
 | 89 | [In the Kitchen \(Live\)](https://open.spotify.com/track/0Bck8YlFXXNjqmEBHZzh4E) | [Umphrey's McGee](https://open.spotify.com/artist/7mQilAy42MqNPqUFqK4Z0o) | [Live at the Beacon Theatre 1.17.15](https://open.spotify.com/album/1PGIo9A2cxXuENTXUY53vi) | 11:23 |
 | 90 | [After Midnight](https://open.spotify.com/track/0UULEN8LeXBFZ15CbtTHgR) | [Merl Saunders & Friends](https://open.spotify.com/artist/26POJcl5jnzRLyjqaHh4sX) | [Fire Up +](https://open.spotify.com/album/2b85gbWiMbAg3cvSUTMIBp) | 5:01 |
 
-Snapshot ID: `MCxmZTcyNmRmMjdiODBhOTBlOTAzMTBiMWQzM2UwMjljMmFhM2ZiYzli`
+Snapshot ID: `MCw1ZTkxZjZkYjExNjJhMTU5MDVhMWMyZjIwZTk5MmE2Y2I4YzBkOTM3`

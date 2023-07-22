@@ -425,6 +425,50 @@
     },
     {
       "album": {
+        "name": "Barrio (with Lefty Sm)",
+        "url": "https://open.spotify.com/album/1ymuLQZcpThyYLQHMd701v"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144414,
+      "name": "Barrio (with Lefty Sm)",
+      "url": "https://open.spotify.com/track/4oxKEbn3OLrNCW5JciZKvn"
+    },
+    {
+      "album": {
+        "name": "Barrio Caliente",
+        "url": "https://open.spotify.com/album/6Qg4k4dPAoaYKu9Sd1ijnd"
+      },
+      "artists": [
+        {
+          "name": "Chato 473",
+          "url": "https://open.spotify.com/artist/7zvcqoLiInqmSmPzX0gwfp"
+        },
+        {
+          "name": "Kazu",
+          "url": "https://open.spotify.com/artist/4ZiMK3f5EfARKFyORGd0hp"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188750,
+      "name": "Barrio Caliente",
+      "url": "https://open.spotify.com/track/6lIM7Ika9XVt4MoOllaXLj"
+    },
+    {
+      "album": {
         "name": "Sr. Freddy Malaria",
         "url": "https://open.spotify.com/album/3DuxazPpULOeNqRAkq02AB"
       },
@@ -568,7 +612,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 240000,
       "name": "Brindando",
       "url": "https://open.spotify.com/track/1Q51tujWhM7gNXMcuHAjJ4"
@@ -760,10 +804,28 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 154533,
       "name": "CERO$",
       "url": "https://open.spotify.com/track/3GyITe4SR6TOnvYHCAdZqy"
+    },
+    {
+      "album": {
+        "name": "Chica Mala",
+        "url": "https://open.spotify.com/album/16dPOCzYWJ8xlDXaaYXEjg"
+      },
+      "artists": [
+        {
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195769,
+      "name": "Chica Mala",
+      "url": "https://open.spotify.com/track/36TUnQtKyIni3NXFOqqbQj"
     },
     {
       "album": {
@@ -884,6 +946,32 @@
       "duration_ms": 208810,
       "name": "Cuando Ya Est\u00e9 Muerto",
       "url": "https://open.spotify.com/track/0uMRnml5GQX5NtYDh1YlDd"
+    },
+    {
+      "album": {
+        "name": "Cuarto De Siglo",
+        "url": "https://open.spotify.com/album/22VXblIBThalOjB8xPsXWJ"
+      },
+      "artists": [
+        {
+          "name": "Skool 77",
+          "url": "https://open.spotify.com/artist/1XrrYgyQChyeEcHCG6AByX"
+        },
+        {
+          "name": "Zaheed Santana",
+          "url": "https://open.spotify.com/artist/4U6A7XTrz6J9D7FKHvkCMQ"
+        },
+        {
+          "name": "Ximbo",
+          "url": "https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244177,
+      "name": "Cuarto De Siglo",
+      "url": "https://open.spotify.com/track/3eTgegtLXfjpr0IY2E2AKg"
     },
     {
       "album": {
@@ -1114,10 +1202,32 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 232000,
       "name": "Dulcinea (La Buena)",
       "url": "https://open.spotify.com/track/5E84YLrIhAIvL29wcl56dd"
+    },
+    {
+      "album": {
+        "name": "El Callej\u00f3n",
+        "url": "https://open.spotify.com/album/0UwpMqSIC8OLScazUEkLaW"
+      },
+      "artists": [
+        {
+          "name": "Jorge Carmona",
+          "url": "https://open.spotify.com/artist/1cyJ1lO4GCV0npo5vyg3xX"
+        },
+        {
+          "name": "Sipo One",
+          "url": "https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256049,
+      "name": "El Callej\u00f3n",
+      "url": "https://open.spotify.com/track/65mTGc1h4zh40PExo9BXfI"
     },
     {
       "album": {
@@ -1378,7 +1488,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 152453,
       "name": "Gol",
       "url": "https://open.spotify.com/track/3rccOm5b4qaylhIEMXtcev"
@@ -1462,6 +1572,24 @@
       "duration_ms": 184600,
       "name": "Hombre (One Shot) - Remix",
       "url": "https://open.spotify.com/track/7ClQWd6CqBYi0LZRgILUvl"
+    },
+    {
+      "album": {
+        "name": "Home Run",
+        "url": "https://open.spotify.com/album/4gn05yaiJbKqPVtkInIDqi"
+      },
+      "artists": [
+        {
+          "name": "Robert Tiamo",
+          "url": "https://open.spotify.com/artist/7M4raOQ6EsBzMYM0oyKlTu"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156136,
+      "name": "Home Run",
+      "url": "https://open.spotify.com/track/2G6mHbDVHHYYoPfnvTux8u"
     },
     {
       "album": {
@@ -1618,7 +1746,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 185340,
       "name": "La Buena",
       "url": "https://open.spotify.com/track/4xMeN1KBrAvevPSCuu3yGo"
@@ -1680,7 +1808,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 203089,
       "name": "La Felicidad",
       "url": "https://open.spotify.com/track/7gCeqPyODFh7rtkLpekpZk"
@@ -1710,6 +1838,32 @@
       "duration_ms": 237453,
       "name": "La Hora Es\u2026",
       "url": "https://open.spotify.com/track/31to9V2JYareFfkoLQsEd6"
+    },
+    {
+      "album": {
+        "name": "La Mision 3",
+        "url": "https://open.spotify.com/album/5gA4AFEjzYhqv1OxixVOK6"
+      },
+      "artists": [
+        {
+          "name": "Dharius",
+          "url": "https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0"
+        },
+        {
+          "name": "C-Kan",
+          "url": "https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu"
+        },
+        {
+          "name": "Fermin IV",
+          "url": "https://open.spotify.com/artist/74OPWhLPyLylAzgqcJlNMm"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282598,
+      "name": "La Mision 3",
+      "url": "https://open.spotify.com/track/11cBc7p39GKbAzpN8izhbh"
     },
     {
       "album": {
@@ -1928,6 +2082,32 @@
       "duration_ms": 194823,
       "name": "Leyendas Urbanas",
       "url": "https://open.spotify.com/track/4dDofP6HpYPAqJmYBeYfHs"
+    },
+    {
+      "album": {
+        "name": "Libre",
+        "url": "https://open.spotify.com/album/4y1JivHvgNKyLD7Zx7RlHZ"
+      },
+      "artists": [
+        {
+          "name": "Liana Malva",
+          "url": "https://open.spotify.com/artist/56plP53XqguNv08lDJUeTt"
+        },
+        {
+          "name": "Letra Emece",
+          "url": "https://open.spotify.com/artist/7LdWyUXrUSqKCS1CkX6KqM"
+        },
+        {
+          "name": "Kei Linch",
+          "url": "https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233142,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/6c0uR67qHuaEm4m7gGlUmw"
     },
     {
       "album": {
@@ -2196,7 +2376,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 162580,
       "name": "Merito Propio",
       "url": "https://open.spotify.com/track/6h4dbOFS5ofc1Bpl1sHwz5"
@@ -2350,6 +2530,24 @@
       "duration_ms": 185624,
       "name": "Mujer",
       "url": "https://open.spotify.com/track/1pCgmKc1xoCpFnhm3JnmRq"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s sabe el diablo",
+        "url": "https://open.spotify.com/album/4CBEOHBwLuquvlLppwy5dq"
+      },
+      "artists": [
+        {
+          "name": "Manotas",
+          "url": "https://open.spotify.com/artist/0BkX514VOBBW2ECOWNnhds"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302479,
+      "name": "M\u00e1s sabe el diablo",
+      "url": "https://open.spotify.com/track/6QZ6EIFwr6VBGLNi5uYRyf"
     },
     {
       "album": {
@@ -2602,7 +2800,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 272146,
       "name": "No Tengo Tiempo (De Cambiar Mi Vida)",
       "url": "https://open.spotify.com/track/1UTpT97Dn2exMo7tk8GJZg"
@@ -2656,7 +2854,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 154236,
       "name": "Nota Vac\u00eda",
       "url": "https://open.spotify.com/track/0h8k56i1CEiz5OUxPUk6yY"
@@ -2805,6 +3003,24 @@
     },
     {
       "album": {
+        "name": "Para San Judas Tadeo",
+        "url": "https://open.spotify.com/album/0qIL2hu4SPrtxH2H3mYCqR"
+      },
+      "artists": [
+        {
+          "name": "El Borrado M",
+          "url": "https://open.spotify.com/artist/1nYRM9yL1zT3lvSMCWg13U"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258795,
+      "name": "Para San Judas Tadeo",
+      "url": "https://open.spotify.com/track/2RSMjz5w4rwYl96HtIlUQM"
+    },
+    {
+      "album": {
         "name": "PASAR EL ROLO",
         "url": "https://open.spotify.com/album/6BaTUVSblCrSozjzwQIBkb"
       },
@@ -2904,7 +3120,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 212316,
       "name": "Posdata",
       "url": "https://open.spotify.com/track/0KNbSGfz4A8qSNEv45kykQ"
@@ -3006,7 +3222,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 196725,
       "name": "Que Mal Que Se Nos Di\u00f3 - Remix",
       "url": "https://open.spotify.com/track/6YP4uZzDd9jI3DDbDdMpyK"
@@ -3114,7 +3330,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 286363,
       "name": "Red Hot Chile Papers",
       "url": "https://open.spotify.com/track/6e5OMnekNGplphCr01YK7q"
@@ -3320,6 +3536,24 @@
       "duration_ms": 206400,
       "name": "Sirenas",
       "url": "https://open.spotify.com/track/6iAubZ1PiUa3EbN19jWAq8"
+    },
+    {
+      "album": {
+        "name": "Sobre La Loquera",
+        "url": "https://open.spotify.com/album/5cfDeRhggaNBaCXkRXoNPa"
+      },
+      "artists": [
+        {
+          "name": "El Krack Mx",
+          "url": "https://open.spotify.com/artist/5ti1sFtNy3wjVTwNFNxH2i"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131320,
+      "name": "Sobre La Loquera",
+      "url": "https://open.spotify.com/track/5IXq7Lhy89lSgxmdvWuhMO"
     },
     {
       "album": {
@@ -3642,6 +3876,28 @@
       "duration_ms": 220177,
       "name": "Variflex",
       "url": "https://open.spotify.com/track/23dv8zPcWTD7wOKdUXNuoQ"
+    },
+    {
+      "album": {
+        "name": "Vida Buena",
+        "url": "https://open.spotify.com/album/4scpWAsBHsDM0Zual9MUKN"
+      },
+      "artists": [
+        {
+          "name": "VHESE",
+          "url": "https://open.spotify.com/artist/3v9la1GviN9d3oZqdFu4Gz"
+        },
+        {
+          "name": "Komba",
+          "url": "https://open.spotify.com/artist/45GCCsbyU6F1K5qMciA4tc"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213620,
+      "name": "Vida Buena",
+      "url": "https://open.spotify.com/track/2MMlie9z2Huecoyf7pcOYa"
     },
     {
       "album": {

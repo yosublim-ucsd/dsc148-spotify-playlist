@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "tranquilo e calmo, no flow. Foto: PK, IGOR, OIK",
+  "description": "tranquilo e calmo, no flow. Foto: VK Mac",
   "name": "tamo flex",
   "tracks": [
     {
@@ -191,6 +191,28 @@
     },
     {
       "album": {
+        "name": "Souffran",
+        "url": "https://open.spotify.com/album/4OsL2fUxqBL95nEguqqPCQ"
+      },
+      "artists": [
+        {
+          "name": "Souffran",
+          "url": "https://open.spotify.com/artist/36qbn5sMKZVpNr0o5DC8sn"
+        },
+        {
+          "name": "tal do dias",
+          "url": "https://open.spotify.com/artist/1IJdAJc6XD4NdOLBJnCIBD"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133528,
+      "name": "4AM",
+      "url": "https://open.spotify.com/track/3ia22jZqaiLdC4EuPo3r21"
+    },
+    {
+      "album": {
         "name": "5 da Manh\u00e3",
         "url": "https://open.spotify.com/album/4wuar64MwT2fyw7wQQCeCg"
       },
@@ -210,10 +232,40 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 224640,
       "name": "5 da Manh\u00e3",
       "url": "https://open.spotify.com/track/10h5mqBbIqWRPuzcKxNIZe"
+    },
+    {
+      "album": {
+        "name": "5 Minutos",
+        "url": "https://open.spotify.com/album/23UIze1dLT29KTOmJ6RTYh"
+      },
+      "artists": [
+        {
+          "name": "Kweller",
+          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
+        },
+        {
+          "name": "Enzo Cello",
+          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+        },
+        {
+          "name": "Fontes",
+          "url": "https://open.spotify.com/artist/0TcujpNyXBNScchl8oh06P"
+        },
+        {
+          "name": "prodbyeros",
+          "url": "https://open.spotify.com/artist/2VykmpwjNmZuVWKiKnqonz"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190638,
+      "name": "5 Minutos",
+      "url": "https://open.spotify.com/track/24xhwQJsuDx8mmnny5wccp"
     },
     {
       "album": {
@@ -296,6 +348,28 @@
       "duration_ms": 181663,
       "name": "A Lua e Seu Olhar",
       "url": "https://open.spotify.com/track/748v7HYonNIeIWwryS8gr2"
+    },
+    {
+      "album": {
+        "name": "Acompanhado dos Melhores",
+        "url": "https://open.spotify.com/album/0ALJzmi0xzdSFErPQV9i2Q"
+      },
+      "artists": [
+        {
+          "name": "Jeff Black",
+          "url": "https://open.spotify.com/artist/0C2oPRdGxKKSBMvmAcSUrs"
+        },
+        {
+          "name": "Doug Hits",
+          "url": "https://open.spotify.com/artist/11rNmgKeDd6wHHvvhzPHH9"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179484,
+      "name": "Acompanhado dos Melhores",
+      "url": "https://open.spotify.com/track/3VgEJnl9kF3JmEKMMtryop"
     },
     {
       "album": {
@@ -2660,7 +2734,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 220000,
       "name": "Deus \u00e9 Bom",
       "url": "https://open.spotify.com/track/0SVVp5cSZVZc0EcKr1SzFw"
@@ -2883,7 +2957,7 @@
       "artists": [
         {
           "name": "HITMAKER",
-          "url": "https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg"
+          "url": "https://open.spotify.com/artist/1Uh0Uwz7Uwc4fZamI4xnPi"
         },
         {
           "name": "Bhelt",
@@ -3170,6 +3244,32 @@
       "duration_ms": 155937,
       "name": "EMOJI",
       "url": "https://open.spotify.com/track/6XvYLKbA4qgRu2k8ashND6"
+    },
+    {
+      "album": {
+        "name": "Emoji na Cara",
+        "url": "https://open.spotify.com/album/25k7ngs1xYOIzrhuAWIsZP"
+      },
+      "artists": [
+        {
+          "name": "DJ Biel do Furduncinho",
+          "url": "https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X"
+        },
+        {
+          "name": "Victor WAO",
+          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
+        },
+        {
+          "name": "GAUD",
+          "url": "https://open.spotify.com/artist/3FAOMbLcVdpwUZFkjErzBt"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132216,
+      "name": "Emoji na Cara",
+      "url": "https://open.spotify.com/track/4Dbq40S8GU9PFHOepTnFam"
     },
     {
       "album": {
@@ -3612,7 +3712,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 197147,
       "name": "Fatos Reais",
       "url": "https://open.spotify.com/track/1Gdsh7Y72CqCy3as4hbnu3"
@@ -3726,6 +3826,28 @@
       "duration_ms": 132000,
       "name": "FIM",
       "url": "https://open.spotify.com/track/3iS1uyJ3IVCt7pVLVBWd1j"
+    },
+    {
+      "album": {
+        "name": "Fim de Semana na Quebrada 2",
+        "url": "https://open.spotify.com/album/5ZkzyvlOVJ1C1xPKOzF5Qv"
+      },
+      "artists": [
+        {
+          "name": "POLLO",
+          "url": "https://open.spotify.com/artist/6TgVQhHx0BWvzdEQxRnr23"
+        },
+        {
+          "name": "Mc Pedrinho",
+          "url": "https://open.spotify.com/artist/1etNnR2SdlelBQAICa2Q5m"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182362,
+      "name": "Fim de Semana na Quebrada 2",
+      "url": "https://open.spotify.com/track/0f1YMux5Dtd9LxUZVOBeHQ"
     },
     {
       "album": {
@@ -4104,6 +4226,28 @@
       "duration_ms": 197203,
       "name": "Ginasta",
       "url": "https://open.spotify.com/track/4VxNDfNfU2C0XigRKpSDLV"
+    },
+    {
+      "album": {
+        "name": "Grifes",
+        "url": "https://open.spotify.com/album/6JQ2jh1b5njdCAjSIekgwZ"
+      },
+      "artists": [
+        {
+          "name": "A$TRO BOY",
+          "url": "https://open.spotify.com/artist/7fuqRvWuhmmFzqNPqZdZwE"
+        },
+        {
+          "name": "SmileRic",
+          "url": "https://open.spotify.com/artist/7BzYK2AQMriE4Gzl6sww8a"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138802,
+      "name": "Grifes",
+      "url": "https://open.spotify.com/track/3HHAsO30SjtB0hfXFiqpWu"
     },
     {
       "album": {
@@ -5636,7 +5780,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 100683,
       "name": "MOLEJO",
       "url": "https://open.spotify.com/track/1TaxXo7VCuB9rrpyW9LXt9"
@@ -5900,6 +6044,24 @@
       "duration_ms": 188759,
       "name": "Muy Guapa",
       "url": "https://open.spotify.com/track/6ayFYPpCCK55u6NGcM3E01"
+    },
+    {
+      "album": {
+        "name": "M\u00ednimo",
+        "url": "https://open.spotify.com/album/2ZocWAuLxwFsqnMmmLC1J9"
+      },
+      "artists": [
+        {
+          "name": "Vk Mac",
+          "url": "https://open.spotify.com/artist/62T0up856eHZQ8BE6V6fJs"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173233,
+      "name": "M\u00ednimo",
+      "url": "https://open.spotify.com/track/7v8lOBWalS9VfZ3USHuGL3"
     },
     {
       "album": {
@@ -6706,7 +6868,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 176125,
       "name": "Olho Grande",
       "url": "https://open.spotify.com/track/5gYc8AyLKwoHNTm9eI7Aof"
@@ -7074,6 +7236,32 @@
       "duration_ms": 213549,
       "name": "Pir\u00e2mide Social - Ao Vivo",
       "url": "https://open.spotify.com/track/7LTg7mbOlKdMgJhkHMfgBt"
+    },
+    {
+      "album": {
+        "name": "Positividade, Vol. 1",
+        "url": "https://open.spotify.com/album/0oGGVctKZRduZwuyCi2MVJ"
+      },
+      "artists": [
+        {
+          "name": "Mc Lipi",
+          "url": "https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Dj GM",
+          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170014,
+      "name": "Play no Game",
+      "url": "https://open.spotify.com/track/31fmoKTLXD901p4CrR7SJS"
     },
     {
       "album": {
@@ -7914,7 +8102,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 179909,
       "name": "Rico Mais Cedo",
       "url": "https://open.spotify.com/track/1GG7hxNPI4AnjqoYhp8PvV"
@@ -8136,7 +8324,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 188638,
       "name": "Se Arruma",
       "url": "https://open.spotify.com/track/5k92vtxt4avd9w9fXw9JoA"
@@ -9300,7 +9488,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 195000,
       "name": "Vai Ficar Tudo Bem",
       "url": "https://open.spotify.com/track/67GVpPBMMLqXvmTufCNlcu"

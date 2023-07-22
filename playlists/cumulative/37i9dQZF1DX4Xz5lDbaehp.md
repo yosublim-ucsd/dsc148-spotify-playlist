@@ -4,7 +4,7 @@
 
 > Introducing the Fresh Finds Class of 2021\. Editors' picks of the top Fresh Finds this year\. Cover: Pom Pom Squad, Araya, TOLEDO\. Artwork: Isu Kim
 
-172 songs - 8 hr 55 min
+174 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Got Me \(Feelin' Like\)](https://open.spotify.com/track/3PkTWWD9NDIN82BwuB3yOe) | [Olivia Escuyos](https://open.spotify.com/artist/3PCJrL2hXcXraI9EXA2mYM) | [Fantasy Girl](https://open.spotify.com/album/33hWzJf0abePlCAAskSZSC) | 3:24 | 2021-12-01 |  |
 | [Got Me \(Feelin' Like\)](https://open.spotify.com/track/5tZXAxvk8Zfe1p6Pd78kqa) | [Olivia Escuyos](https://open.spotify.com/artist/3PCJrL2hXcXraI9EXA2mYM) | [Got Me \(Feelin' Like\)](https://open.spotify.com/album/19WNAHNH5e9e55hMbKcJ5q) | 3:24 | 2021-12-01 | 2022-12-25 |
 | [GUM](https://open.spotify.com/track/7HO5QGBU5COHjt0o7Vz62R) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [GUM](https://open.spotify.com/album/6k71hERXkElU1ToOmUqntU) | 3:33 | 2021-12-01 |  |
-| [Gët Busy](https://open.spotify.com/track/2JhU9tkEJqUsjjr37cIpdG) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Gët Busy](https://open.spotify.com/album/4kV56LEdTS4pRT2UR94WZW) | 2:37 | 2021-12-01 |  |
+| [Gët Busy](https://open.spotify.com/track/0SHO7NVnp3U5NFc9YWkPCR) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Up 2 Më](https://open.spotify.com/album/3ZKEPJwhLcpUfYPMIsC4PF) | 2:37 | 2021-12-01 |  |
+| [Gët Busy](https://open.spotify.com/track/2JhU9tkEJqUsjjr37cIpdG) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Gët Busy](https://open.spotify.com/album/4kV56LEdTS4pRT2UR94WZW) | 2:37 | 2021-12-01 | 2023-07-22 |
 | [HEAVY METAL](https://open.spotify.com/track/35ZDgSGHRkV04aYdkP1VfI) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [HEAVY METAL](https://open.spotify.com/album/22M4UMtjicyvAs4fwX91AG) | 2:39 | 2021-12-01 |  |
 | [How Long Have You Been Away?](https://open.spotify.com/track/0W1jh3ExLv0nMvvmNJOBxh) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [How Long Have You Been Away?](https://open.spotify.com/album/0rG6VTxWDBNufy5ghJTHij) | 3:28 | 2021-12-01 |  |
 | [i only want you when i'm fucked up](https://open.spotify.com/track/0W0qBaCp84sKDlQdvShs9n) | [Quelle Rox](https://open.spotify.com/artist/4iDXgOhz2OE5TjrvCyNZc7) | [i only want you when i'm fucked up](https://open.spotify.com/album/0q2LRN1sN3jd17d74QczFO) | 3:52 | 2021-12-01 |  |
@@ -173,7 +174,8 @@
 | [Time Goes By](https://open.spotify.com/track/6QXoQhDw7HyTQvbdtIJBh3) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [Time Goes By](https://open.spotify.com/album/1pzWzxEYfQ1pp04EAJgy9r) | 2:01 | 2021-12-01 |  |
 | [Trap Salsa](https://open.spotify.com/track/736NMAWokZxwV7oLQzj8OH) | [NOKKI CABRERA](https://open.spotify.com/artist/1UBVQhdDEHGqhMYpUFSM29) | [TRAP SALSA](https://open.spotify.com/album/71ppda8M3GxuTJPy4CwJCc) | 2:57 | 2021-12-01 |  |
 | [Used To This](https://open.spotify.com/track/2eIFkERbBslhcFrF0SRLgL) | [Pyrex Pryce](https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K) | [Used To This](https://open.spotify.com/album/1ClebLumn5M7VKWTZJaUVU) | 2:59 | 2021-12-01 |  |
-| [we made it.](https://open.spotify.com/track/0KpAm8TtyHPZmxdPO7npYO) | [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Blossom Hill](https://open.spotify.com/album/7AQdWze3UwjOCjbNowRpx7) | 2:44 | 2021-12-01 |  |
+| [we made it.](https://open.spotify.com/track/0KpAm8TtyHPZmxdPO7npYO) | [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Blossom Hill](https://open.spotify.com/album/7AQdWze3UwjOCjbNowRpx7) | 2:44 | 2021-12-01 | 2023-07-22 |
+| [we made it.](https://open.spotify.com/track/6IZcstDyHttGulqxPpY7xe) | [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Blossom Hill](https://open.spotify.com/album/13zctNY8KiJPH0H6iaQMED) | 2:44 | 2021-12-01 |  |
 | [Whateva U Need](https://open.spotify.com/track/0gvHiQLsM6Uj7M39Hpfcec) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Body \(EP\)](https://open.spotify.com/album/0EeLytWRO33IvucFEilT2p) | 3:57 | 2021-12-01 |  |
 | [White Picket Fence](https://open.spotify.com/track/6siOHdRw7Y4g0NmAZ5bweV) | [psykhi](https://open.spotify.com/artist/6Jv3pqZlwHy3RlsfdBGbRc) | [White Picket Fence](https://open.spotify.com/album/0OH3zQevY0Y3eXo0qA2aH1) | 2:56 | 2021-12-01 |  |
 | [Wildflower](https://open.spotify.com/track/2mIQWWaYinwqKxjEmE8Ave) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Wildflower](https://open.spotify.com/album/3mbvYM42ufrBY4ISpF8rtP) | 3:38 | 2021-12-01 |  |

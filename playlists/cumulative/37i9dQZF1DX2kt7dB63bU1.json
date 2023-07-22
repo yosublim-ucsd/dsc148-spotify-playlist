@@ -181,6 +181,28 @@
     },
     {
       "album": {
+        "name": "You're Alike, You Two",
+        "url": "https://open.spotify.com/album/7d6bFLcHMa6ExxlPjzuAkz"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        },
+        {
+          "name": "Mark Limacher",
+          "url": "https://open.spotify.com/artist/2FyolspKay4voViiywFNFs"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253253,
+      "name": "A Fine Romance",
+      "url": "https://open.spotify.com/track/4DdjqjTARDbAvjELiHxuyn"
+    },
+    {
+      "album": {
         "name": "A Happy Thought (feat. Stu Mindeman)",
         "url": "https://open.spotify.com/album/3VtTcRNkTmnjAemUfLdy28"
       },
@@ -2849,6 +2871,40 @@
     },
     {
       "album": {
+        "name": "Dignidad (feat. Joel Ross, Sean Mason, Jonathan Michel & Joe Dyson)",
+        "url": "https://open.spotify.com/album/7wQyzR5qpjMCyZFn8bcxYB"
+      },
+      "artists": [
+        {
+          "name": "Lauren Henderson",
+          "url": "https://open.spotify.com/artist/32l2cWGDfGIqFPxUAogD5l"
+        },
+        {
+          "name": "Joel Ross",
+          "url": "https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l"
+        },
+        {
+          "name": "Sean Mason",
+          "url": "https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z"
+        },
+        {
+          "name": "Jonathan Michel",
+          "url": "https://open.spotify.com/artist/2G2WfpJo95sdb8Djp7xzd8"
+        },
+        {
+          "name": "Joe Dyson",
+          "url": "https://open.spotify.com/artist/62eXeNUScwDhx0IsHwfxKS"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183650,
+      "name": "Dignidad (feat. Joel Ross, Sean Mason, Jonathan Michel & Joe Dyson)",
+      "url": "https://open.spotify.com/track/6BvnDPPGQsdQoymojmjNjW"
+    },
+    {
+      "album": {
         "name": "Do You Want to Know a Secret",
         "url": "https://open.spotify.com/album/3poKwA1VNvoXkRwULoaFJY"
       },
@@ -3174,6 +3230,24 @@
       "duration_ms": 280062,
       "name": "Embraceable You",
       "url": "https://open.spotify.com/track/2JUXoMH3QEp0e1Uk45oxqX"
+    },
+    {
+      "album": {
+        "name": "Endless Summers",
+        "url": "https://open.spotify.com/album/2biVKVKuZJCPiE59SqjUfy"
+      },
+      "artists": [
+        {
+          "name": "Crystal Lewis",
+          "url": "https://open.spotify.com/artist/0jpeXX8CClo6hxCOAzyAKf"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231574,
+      "name": "Endless Summers",
+      "url": "https://open.spotify.com/track/6igVwqFR4lIwADTzvX1YAP"
     },
     {
       "album": {
@@ -5004,7 +5078,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 244626,
       "name": "I'll Be Hard to Handle",
       "url": "https://open.spotify.com/track/6B45peRgPoRivUPADSvl0G"
@@ -8882,7 +8956,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 340538,
       "name": "Potions",
       "url": "https://open.spotify.com/track/7l5TggVCPxbK5AHUqsD8ZL"
@@ -11434,7 +11508,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 288128,
       "name": "They Say It's Spring",
       "url": "https://open.spotify.com/track/18UXGACErp6VwySRavPglK"

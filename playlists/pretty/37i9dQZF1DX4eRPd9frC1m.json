@@ -1,12 +1,12 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2556464,
+  "num_followers": 2556880,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODY2NjA3ODk0ZWI4MzRkNDcwMTQ1ZGY1NjliMzg0YWEyNjlmYjc1",
+  "snapshot_id": "MCw5M2FlNmE0MDdlNjY1Y2NmOTkwMmViMjJmZjlhYzcwNDI0YzViNzA2",
   "tracks": [
     {
       "added_at": "2023-07-14 04:00:00",
@@ -595,6 +595,26 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
+        "name": "One Three Nine",
+        "url": "https://open.spotify.com/album/3mTc50dqYY9Nd1GJP6Isyr"
+      },
+      "artists": [
+        {
+          "name": "Zeds Dead",
+          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "One Three Nine",
+      "url": "https://open.spotify.com/track/5WsSAyixmdLYcl3FRMjZM1"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
         "name": "Fight Back",
         "url": "https://open.spotify.com/album/4iTii2lDbEYYnZJBkU9p75"
       },
@@ -735,26 +755,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Sacrificial",
-        "url": "https://open.spotify.com/album/66jlZyvN4g2VBo9RNDYrOS"
-      },
-      "artists": [
-        {
-          "name": "Rezz",
-          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
-        },
-        {
-          "name": "PVRIS",
-          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Sacrificial",
-      "url": "https://open.spotify.com/track/5YvYKEQEYJp4orh4z3Dnpk"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Fearless",
         "url": "https://open.spotify.com/album/2foovL6UaCvp5QR72qdm72"
       },
@@ -775,22 +775,42 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "One Three Nine",
-        "url": "https://open.spotify.com/album/3mTc50dqYY9Nd1GJP6Isyr"
+        "name": "Sacrificial",
+        "url": "https://open.spotify.com/album/66jlZyvN4g2VBo9RNDYrOS"
       },
       "artists": [
         {
-          "name": "Zeds Dead",
-          "url": "https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh"
+          "name": "Rezz",
+          "url": "https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw"
         },
         {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+          "name": "PVRIS",
+          "url": "https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy"
         }
       ],
-      "duration_ms": 168000,
-      "name": "One Three Nine",
-      "url": "https://open.spotify.com/track/5WsSAyixmdLYcl3FRMjZM1"
+      "duration_ms": 182000,
+      "name": "Sacrificial",
+      "url": "https://open.spotify.com/track/5YvYKEQEYJp4orh4z3Dnpk"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Ground Shake",
+        "url": "https://open.spotify.com/album/4lN9hIcBH3lBzlpWyim3Ud"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        },
+        {
+          "name": "Bandlez",
+          "url": "https://open.spotify.com/artist/7kIxfmjYGQui2LCqXGLfWA"
+        }
+      ],
+      "duration_ms": 185379,
+      "name": "Ground Shake",
+      "url": "https://open.spotify.com/track/0h2ZSu1j6YFsGj85eSyrI4"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -815,22 +835,22 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Ground Shake",
-        "url": "https://open.spotify.com/album/4lN9hIcBH3lBzlpWyim3Ud"
+        "name": "Heritage",
+        "url": "https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG"
       },
       "artists": [
         {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
         },
         {
-          "name": "Bandlez",
-          "url": "https://open.spotify.com/artist/7kIxfmjYGQui2LCqXGLfWA"
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
         }
       ],
-      "duration_ms": 185379,
-      "name": "Ground Shake",
-      "url": "https://open.spotify.com/track/0h2ZSu1j6YFsGj85eSyrI4"
+      "duration_ms": 198582,
+      "name": "Libre",
+      "url": "https://open.spotify.com/track/7KibjIxYJsdP9UGjjMUEn6"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -859,26 +879,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Heritage",
-        "url": "https://open.spotify.com/album/4hO0xNT3cqylkfL5Raw3zG"
-      },
-      "artists": [
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        },
-        {
-          "name": "IMANU",
-          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
-        }
-      ],
-      "duration_ms": 198582,
-      "name": "Libre",
-      "url": "https://open.spotify.com/track/7KibjIxYJsdP9UGjjMUEn6"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "damn Right Pt. 2",
         "url": "https://open.spotify.com/album/18H6Ws2enejwSpuhX3S6K4"
       },
@@ -895,6 +895,26 @@
       "duration_ms": 186666,
       "name": "damn Right Pt. 2",
       "url": "https://open.spotify.com/track/3syIqcdNRjbFcWkEMRRT1d"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "2 MUCH (feat. 24hrs)",
+        "url": "https://open.spotify.com/album/5NsU3AvjQswUoFEkuqSCSw"
+      },
+      "artists": [
+        {
+          "name": "Flosstradamus",
+          "url": "https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j"
+        },
+        {
+          "name": "24hrs",
+          "url": "https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "2 MUCH (feat. 24hrs)",
+      "url": "https://open.spotify.com/track/6jtNk2zqbiZ9S7l6Gcp78A"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -927,26 +947,6 @@
       "duration_ms": 226849,
       "name": "Burial (feat. Pusha T, Moody Good, TrollPhace)",
       "url": "https://open.spotify.com/track/7DHX1Ng0V186U2idfFfjGi"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
-        "name": "2 MUCH (feat. 24hrs)",
-        "url": "https://open.spotify.com/album/5NsU3AvjQswUoFEkuqSCSw"
-      },
-      "artists": [
-        {
-          "name": "Flosstradamus",
-          "url": "https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j"
-        },
-        {
-          "name": "24hrs",
-          "url": "https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "2 MUCH (feat. 24hrs)",
-      "url": "https://open.spotify.com/track/6jtNk2zqbiZ9S7l6Gcp78A"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1067,6 +1067,30 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
+        "name": "HEAT",
+        "url": "https://open.spotify.com/album/0LNjCowJXfTpBCyNyG65vR"
+      },
+      "artists": [
+        {
+          "name": "DIESEL",
+          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
+        },
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        },
+        {
+          "name": "Shaquille O'Neal",
+          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "HEAT",
+      "url": "https://open.spotify.com/track/2GqpGnSsaS4WY4wgURygHO"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
         "name": "Bloodbath",
         "url": "https://open.spotify.com/album/1PTOieMAfJSzcxdn2hkjtt"
       },
@@ -1091,26 +1115,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Never Be The Same (feat. Sara Benyo)",
-        "url": "https://open.spotify.com/album/11vsNOGUnRLErmbVBZ1LOe"
-      },
-      "artists": [
-        {
-          "name": "Jessica Audiffred",
-          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
-        },
-        {
-          "name": "Sara Benyo",
-          "url": "https://open.spotify.com/artist/6jJS6oEAQ78VJ7RhG3KS4M"
-        }
-      ],
-      "duration_ms": 230425,
-      "name": "Never Be The Same (feat. Sara Benyo)",
-      "url": "https://open.spotify.com/track/14wlTKn3ZZoIO1jk3OHDWH"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "PEACE LOVE & WUBZ",
         "url": "https://open.spotify.com/album/1gK7u6Sh9RvvpjKovemrx2"
       },
@@ -1131,26 +1135,22 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "HEAT",
-        "url": "https://open.spotify.com/album/0LNjCowJXfTpBCyNyG65vR"
+        "name": "Never Be The Same (feat. Sara Benyo)",
+        "url": "https://open.spotify.com/album/11vsNOGUnRLErmbVBZ1LOe"
       },
       "artists": [
         {
-          "name": "DIESEL",
-          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
         },
         {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        },
-        {
-          "name": "Shaquille O'Neal",
-          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+          "name": "Sara Benyo",
+          "url": "https://open.spotify.com/artist/6jJS6oEAQ78VJ7RhG3KS4M"
         }
       ],
-      "duration_ms": 195428,
-      "name": "HEAT",
-      "url": "https://open.spotify.com/track/2GqpGnSsaS4WY4wgURygHO"
+      "duration_ms": 230425,
+      "name": "Never Be The Same (feat. Sara Benyo)",
+      "url": "https://open.spotify.com/track/14wlTKn3ZZoIO1jk3OHDWH"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Trenches",
-        "url": "https://open.spotify.com/album/0BIuPX2XzG3P7Bir90cpP4"
-      },
-      "artists": [
-        {
-          "name": "Duke & Jones",
-          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
-        },
-        {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
-        }
-      ],
-      "duration_ms": 169714,
-      "name": "Trenches",
-      "url": "https://open.spotify.com/track/6s4T0UEJs5kX6EsEjvfXpw"
-    },
-    {
-      "added_at": "2023-07-14 04:00:00",
-      "album": {
         "name": "Gainz",
         "url": "https://open.spotify.com/album/42kbR7t1IBBHkyvTPEkZk0"
       },
@@ -1459,18 +1439,22 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Valley Of Violence",
-        "url": "https://open.spotify.com/album/3fblenkjskYmPpOOAm58My"
+        "name": "Trenches",
+        "url": "https://open.spotify.com/album/0BIuPX2XzG3P7Bir90cpP4"
       },
       "artists": [
         {
-          "name": "Zomboy",
-          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
+          "name": "Duke & Jones",
+          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
         }
       ],
-      "duration_ms": 238443,
-      "name": "Valley Of Violence",
-      "url": "https://open.spotify.com/track/1jz6nNE00KCKqVXCzBr5JW"
+      "duration_ms": 169714,
+      "name": "Trenches",
+      "url": "https://open.spotify.com/track/6s4T0UEJs5kX6EsEjvfXpw"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1523,22 +1507,18 @@
     {
       "added_at": "2023-07-14 04:00:00",
       "album": {
-        "name": "Work That Body",
-        "url": "https://open.spotify.com/album/57kFGkW79KjN2fWTyfiq8h"
+        "name": "Valley Of Violence",
+        "url": "https://open.spotify.com/album/3fblenkjskYmPpOOAm58My"
       },
       "artists": [
         {
-          "name": "TOOMANYLEFTHANDS",
-          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
-        },
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+          "name": "Zomboy",
+          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Work That Body",
-      "url": "https://open.spotify.com/track/1Oryb6TjgqwR97WZc8nuAH"
+      "duration_ms": 238443,
+      "name": "Valley Of Violence",
+      "url": "https://open.spotify.com/track/1jz6nNE00KCKqVXCzBr5JW"
     },
     {
       "added_at": "2023-07-14 04:00:00",
@@ -1559,6 +1539,26 @@
       "duration_ms": 168960,
       "name": "Wall Of Death",
       "url": "https://open.spotify.com/track/0adOv7C57abcznr40leSHx"
+    },
+    {
+      "added_at": "2023-07-14 04:00:00",
+      "album": {
+        "name": "Work That Body",
+        "url": "https://open.spotify.com/album/57kFGkW79KjN2fWTyfiq8h"
+      },
+      "artists": [
+        {
+          "name": "TOOMANYLEFTHANDS",
+          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
+        },
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Work That Body",
+      "url": "https://open.spotify.com/track/1Oryb6TjgqwR97WZc8nuAH"
     },
     {
       "added_at": "2023-07-14 04:00:00",

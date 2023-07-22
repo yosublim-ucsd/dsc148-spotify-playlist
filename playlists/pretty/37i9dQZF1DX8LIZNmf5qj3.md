@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 
 > Détendez\-vous au son de titres R&B, Soul et Hip\-Hop alternatif\. Photo : Snoh Aalegra
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,628 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,639 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8LIZNmf5qj3.md) - [plain]
 | 49 | [Luv Songs \(Unruly\)](https://open.spotify.com/track/0puWG0IhM981IsC1hd2640) | [PHABO](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Don't Get Too Cozy](https://open.spotify.com/album/3fGURvjAC7mZz3nMfPRRBI) | 2:55 |
 | 50 | [Private Party \(feat\. Siaira Shawn\)](https://open.spotify.com/track/3DOYM3dncVBzg3cfTLPG87) | [V\. Cartier](https://open.spotify.com/artist/5Spozi8ZrO7PLm99USCdop), [Siaira Shawn](https://open.spotify.com/artist/7wkquqt8snY30TIZKCHIdX) | [Private Party \(feat\. Siaira Shawn\)](https://open.spotify.com/album/7F80alawlEMrhANP2kPwiV) | 3:33 |
 
-Snapshot ID: `MCxmYmIzMzgzODMyZDY3MWU2YjQ2YTVhMTA5NjVlODBkMjdkOTFjZjRk`
+Snapshot ID: `MCw1Mzk4MGE5NGQ2Nzg5Y2FmZjRiNzE3YjJjZjUzYTZjOWExNTUyYTFm`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: Blake Mills",
+  "description": "Hear what's new in folk, roots & indie singer-songwriter. Cover: John Vincent III",
   "name": "Fresh Folk",
   "tracks": [
     {
@@ -1706,7 +1706,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 114683,
       "name": "Basic Channels",
       "url": "https://open.spotify.com/track/4gnJLzWvpsVPHybDPoWW9H"
@@ -2179,6 +2179,24 @@
     },
     {
       "album": {
+        "name": "Welcome",
+        "url": "https://open.spotify.com/album/0diSQW7E7oX750ztxS9fdy"
+      },
+      "artists": [
+        {
+          "name": "The Arcadian Wild",
+          "url": "https://open.spotify.com/artist/4tHZV2ZowPkzOvX4eG1inY"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298890,
+      "name": "Big Sky, MT",
+      "url": "https://open.spotify.com/track/4eXJ8BSMHqi3GFkeYDafKd"
+    },
+    {
+      "album": {
         "name": "Big Time",
         "url": "https://open.spotify.com/album/5cYoVs8TyCVkTUr8vjpIFF"
       },
@@ -2346,6 +2364,24 @@
       "duration_ms": 170440,
       "name": "Black Widow",
       "url": "https://open.spotify.com/track/4DWr9jdFuoELQ06HLCnGeJ"
+    },
+    {
+      "album": {
+        "name": "Blame The Moon",
+        "url": "https://open.spotify.com/album/372YURpTeI9L6fkMNH6Nx2"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223723,
+      "name": "Blame The Moon",
+      "url": "https://open.spotify.com/track/3p1kSUxsCux5Zf1CeKxpqh"
     },
     {
       "album": {
@@ -2992,6 +3028,24 @@
       "duration_ms": 258760,
       "name": "Brooklyn Bridge",
       "url": "https://open.spotify.com/track/7fPocdnUzvo4hdF3aKkyAV"
+    },
+    {
+      "album": {
+        "name": "Brother",
+        "url": "https://open.spotify.com/album/13kWGYpAMspF5I3CMa1q9P"
+      },
+      "artists": [
+        {
+          "name": "Evan Honer",
+          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219297,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/2a5Qw8eu4Ger7FPpcP61fd"
     },
     {
       "album": {
@@ -4154,7 +4208,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 268635,
       "name": "Corner",
       "url": "https://open.spotify.com/track/3b5vsDkWRVQvxTqMeTvf9p"
@@ -4516,7 +4570,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 215574,
       "name": "Darkness",
       "url": "https://open.spotify.com/track/3itjSLPhEeuCV05xkkesrj"
@@ -4776,10 +4830,32 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 213817,
       "name": "Dial Drunk",
       "url": "https://open.spotify.com/track/0caJ2wkqp4UmXBwdR2JvB5"
+    },
+    {
+      "album": {
+        "name": "Dial Drunk (with Post Malone)",
+        "url": "https://open.spotify.com/album/4XahqkOmEsKLKEhBpX8DAe"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213817,
+      "name": "Dial Drunk (with Post Malone)",
+      "url": "https://open.spotify.com/track/22VHOlVYBqytsrAqV8yXBK"
     },
     {
       "album": {
@@ -5797,6 +5873,24 @@
     },
     {
       "album": {
+        "name": "Epoch b/w Song for a Lover (of Long Ago)",
+        "url": "https://open.spotify.com/album/2sdOrVDwNWeKfj2IGUZQQO"
+      },
+      "artists": [
+        {
+          "name": "DeYarmond Edison",
+          "url": "https://open.spotify.com/artist/6arKuGbH3PuYfGN6yJ7RA9"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263000,
+      "name": "Epoch",
+      "url": "https://open.spotify.com/track/44ri2Px4i77tKkRpPctP2Z"
+    },
+    {
+      "album": {
         "name": "erase me (feat. Jacob Collier)",
         "url": "https://open.spotify.com/album/0HLowVrjApBviPxvLWbRKI"
       },
@@ -5888,6 +5982,24 @@
       "duration_ms": 212132,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/0O8xqSTd93eieuItwDDKk3"
+    },
+    {
+      "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/3Pr3e7FlIpuk61wTJIKP5o"
+      },
+      "artists": [
+        {
+          "name": "Shakey Graves",
+          "url": "https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293146,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/1LAd1okwAypfCyUflwrpkj"
     },
     {
       "album": {
@@ -6272,6 +6384,28 @@
       "duration_ms": 196780,
       "name": "Falling Apart (Right Now)",
       "url": "https://open.spotify.com/track/7ymVKJumlZvraNZb91d9VJ"
+    },
+    {
+      "album": {
+        "name": "Famous Last Words (An Ode to Eaters)",
+        "url": "https://open.spotify.com/album/47mfwMreABCnlLm7EEtHsB"
+      },
+      "artists": [
+        {
+          "name": "1017 ALYX 9SM",
+          "url": "https://open.spotify.com/artist/72Kzyue7ShXymPjcjOZwHk"
+        },
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202867,
+      "name": "Famous Last Words (An Ode to Eaters)",
+      "url": "https://open.spotify.com/track/7bpfZYrS4dQKxiuj6QiRaX"
     },
     {
       "album": {
@@ -7814,7 +7948,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 218396,
       "name": "Habits",
       "url": "https://open.spotify.com/track/6DCL0yqiCes0dDiycEkJaP"
@@ -7876,7 +8010,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 213312,
       "name": "Hallelujah Anyway",
       "url": "https://open.spotify.com/track/2i6U0iTND18B5gD6QmCo2M"
@@ -8635,6 +8769,24 @@
     },
     {
       "album": {
+        "name": "Highway Woman",
+        "url": "https://open.spotify.com/album/6nqOmZZeSp7hLaM3RT1uuI"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228093,
+      "name": "Highway Woman",
+      "url": "https://open.spotify.com/track/1JJUMgzCxkBeF8kaS2FR5v"
+    },
+    {
+      "album": {
         "name": "Hitchin' a Ride",
         "url": "https://open.spotify.com/album/52GMS1garIMItzvmogm1MF"
       },
@@ -8888,7 +9040,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 213640,
       "name": "Holy Roller Coaster",
       "url": "https://open.spotify.com/track/15gqqBicosAO6PXBijrFk7"
@@ -10596,6 +10748,24 @@
       "duration_ms": 262934,
       "name": "In From Japan",
       "url": "https://open.spotify.com/track/0LxU43GrDXaH5EMZdNJDtm"
+    },
+    {
+      "album": {
+        "name": "In Good Time",
+        "url": "https://open.spotify.com/album/6FRmvzpIcJ03AgAf4BV665"
+      },
+      "artists": [
+        {
+          "name": "Harrison Storm",
+          "url": "https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226858,
+      "name": "In Good Time",
+      "url": "https://open.spotify.com/track/1L0mzC9gGFjYhnW5fuWaCX"
     },
     {
       "album": {
@@ -12586,7 +12756,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 152377,
       "name": "Love After Love",
       "url": "https://open.spotify.com/track/3mVsKKOlBBkTzlF4V1bEj7"
@@ -13587,6 +13757,24 @@
     },
     {
       "album": {
+        "name": "Mom & Dad",
+        "url": "https://open.spotify.com/album/0VfH1xz9pcm8RkjXN0INmn"
+      },
+      "artists": [
+        {
+          "name": "Darren Kiely",
+          "url": "https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203683,
+      "name": "Mom & Dad",
+      "url": "https://open.spotify.com/track/0wW8h0pLHZwNFv2v2e3KHw"
+    },
+    {
+      "album": {
         "name": "Mona Lisa",
         "url": "https://open.spotify.com/album/2wA90OPibv0s0y6ssrVuoD"
       },
@@ -14100,7 +14288,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 150548,
       "name": "Never Enough",
       "url": "https://open.spotify.com/track/61pV8ZfMOiEcOUfqV5VVkh"
@@ -18258,7 +18446,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 236291,
       "name": "Somebody Like Me",
       "url": "https://open.spotify.com/track/0uxLU5nNE35ZxNwoKm8XLq"
@@ -19190,7 +19378,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 202373,
       "name": "Sundown",
       "url": "https://open.spotify.com/track/4bKmwlKloHrpO7t5Wza7LM"
@@ -19370,7 +19558,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 246346,
       "name": "Sweet Rainbow",
       "url": "https://open.spotify.com/track/3uFjMR6c3fmF6Us3phdVWI"
@@ -19440,6 +19628,24 @@
       "duration_ms": 220992,
       "name": "Sweetbread",
       "url": "https://open.spotify.com/track/18l2xZOq4tYSzioYNkPumD"
+    },
+    {
+      "album": {
+        "name": "Swim",
+        "url": "https://open.spotify.com/album/3OAs5OVp8T5wE0XPlmXLyM"
+      },
+      "artists": [
+        {
+          "name": "Noah Gundersen",
+          "url": "https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253826,
+      "name": "Swim",
+      "url": "https://open.spotify.com/track/6ePVM7eOWsgpJmKRaHVqqa"
     },
     {
       "album": {
@@ -19988,7 +20194,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 189120,
       "name": "That's on You, That's on Me",
       "url": "https://open.spotify.com/track/4NKrrhHXSyobZHMImI9izz"
@@ -20028,7 +20234,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 267773,
       "name": "The Alcott (feat. Taylor Swift)",
       "url": "https://open.spotify.com/track/6INztpNwOTlfSKTuPo0HOP"
@@ -20238,6 +20444,24 @@
       "duration_ms": 207586,
       "name": "The Fall",
       "url": "https://open.spotify.com/track/67ZPraK8Fpf4aDskXXs2XK"
+    },
+    {
+      "album": {
+        "name": "The Flood",
+        "url": "https://open.spotify.com/album/0pKDiPT0zJnbIIEFQz1g77"
+      },
+      "artists": [
+        {
+          "name": "The Bones of J.R. Jones",
+          "url": "https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265746,
+      "name": "The Flood",
+      "url": "https://open.spotify.com/track/7dSOLdrLScQJgp1AeZYEAG"
     },
     {
       "album": {
@@ -21723,6 +21947,28 @@
     },
     {
       "album": {
+        "name": "The Former EP",
+        "url": "https://open.spotify.com/album/56wifcvWWb7xzxoQ4nyzuV"
+      },
+      "artists": [
+        {
+          "name": "Steinza",
+          "url": "https://open.spotify.com/artist/6Q868mSv5AUeLn44rc77sD"
+        },
+        {
+          "name": "Sophie Holohan",
+          "url": "https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "To The West (with Sophie Holohan)",
+      "url": "https://open.spotify.com/track/5gul0HAm9GjcbVcbKzxPNW"
+    },
+    {
+      "album": {
         "name": "Today I Started Loving You Again",
         "url": "https://open.spotify.com/album/6Q2DffHqnmTRIOW51TgQpP"
       },
@@ -21853,6 +22099,24 @@
     },
     {
       "album": {
+        "name": "Too Young To Die",
+        "url": "https://open.spotify.com/album/5VSAFRyWMxSB3aawn8FWmJ"
+      },
+      "artists": [
+        {
+          "name": "Dekker",
+          "url": "https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158250,
+      "name": "Too Young To Die",
+      "url": "https://open.spotify.com/track/74TVOIh9i0lO35JX4oui7X"
+    },
+    {
+      "album": {
         "name": "supernatural thing",
         "url": "https://open.spotify.com/album/0BGmSkiDyPxghWbyYKnBHG"
       },
@@ -21912,6 +22176,28 @@
       "duration_ms": 198511,
       "name": "Top Down",
       "url": "https://open.spotify.com/track/44Lxf5akfAz3A9Su0MFB7K"
+    },
+    {
+      "album": {
+        "name": "Tough Love",
+        "url": "https://open.spotify.com/album/4tPrGiSt9vsolF3jqexC7u"
+      },
+      "artists": [
+        {
+          "name": "Flyte",
+          "url": "https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu"
+        },
+        {
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181763,
+      "name": "Tough Love",
+      "url": "https://open.spotify.com/track/4kGGQubXF1b4yut3zwKQ1h"
     },
     {
       "album": {
@@ -22457,6 +22743,24 @@
     },
     {
       "album": {
+        "name": "Vampire Empire",
+        "url": "https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192127,
+      "name": "Vampire Empire",
+      "url": "https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW"
+    },
+    {
+      "album": {
         "name": "Vienna",
         "url": "https://open.spotify.com/album/2e4EW2maU3ru771lf0APfo"
       },
@@ -22772,7 +23076,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 294208,
       "name": "Wasted (feat. Phoebe Bridgers)",
       "url": "https://open.spotify.com/track/71gtKNqIjM01p7njYpNYpW"
@@ -24540,7 +24844,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 205040,
       "name": "You're the One",
       "url": "https://open.spotify.com/track/2YEN8LRUuTViNyCGeUQukS"

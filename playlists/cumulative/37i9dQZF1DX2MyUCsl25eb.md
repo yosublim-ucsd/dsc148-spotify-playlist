@@ -4,7 +4,7 @@
 
 > Easy feels on your way to work, or wherever you're commuting to this morning.
 
-651 songs - 1 day 13 hr 46 min
+653 songs - 1 day 13 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Always Almost](https://open.spotify.com/track/35FwQrg7thq6kjrHL01QiJ) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Always Almost](https://open.spotify.com/album/5wNsHPJAH2NmuGg8IQ3REM) | 3:22 | 2022-03-18 | 2023-01-22 |
 | [Always Looking for You](https://open.spotify.com/track/4lPvAuYbmxixv12m4TXVSk) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [Lalalalovesongs](https://open.spotify.com/album/70gURkrcCv8LLqdQmUemJo) | 3:52 | 2022-02-11 | 2022-04-19 |
 | [Another Half](https://open.spotify.com/track/0L9bKKN3Qs1tifjiLeukFW) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Joshua Karpeh](https://open.spotify.com/artist/7Ld6G79PcddkizPC36ujEF), [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Another Half](https://open.spotify.com/album/5JUCPf60V0XJN1R5QzmhAy) | 2:28 | 2023-06-23 |  |
-| [Another Heart](https://open.spotify.com/track/7hiX2B01zsQxzQn7Sc6UNV) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Another Heart](https://open.spotify.com/album/5LEkV58Pa82xSZsvBw3Acu) | 3:41 | 2023-03-03 |  |
+| [Another Heart](https://open.spotify.com/track/7hiX2B01zsQxzQn7Sc6UNV) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Another Heart](https://open.spotify.com/album/5LEkV58Pa82xSZsvBw3Acu) | 3:41 | 2023-03-03 | 2023-07-22 |
 | [Anti\-Hero](https://open.spotify.com/track/0V3wPSX9ygBnCm8psDIegu) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:20 | 2022-10-21 | 2023-03-11 |
 | [Aren't You Tired \(La Di Da\)](https://open.spotify.com/track/6GPy7ZN7SGEtMG3sM3uCpP) | [Loren Allred](https://open.spotify.com/artist/0LyOADBjj28cbvJWTXUEGA) | [Aren't You Tired \(La Di Da\)](https://open.spotify.com/album/2TOyNg86Aa8H4YYbg9ba9f) | 3:09 | 2022-12-09 | 2023-03-25 |
 | [Artery](https://open.spotify.com/track/1wJbNrBJ3Bwh4HJvS0NNxT) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL) | [Artery](https://open.spotify.com/album/2DNglHje1BeqeInOWoFvSX) | 3:42 | 2022-01-28 | 2022-04-21 |
@@ -185,6 +185,7 @@
 | [Fall Into Me](https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Fall Into Me](https://open.spotify.com/album/6nRIGu1lglm6SZC3oG3L4l) | 3:46 | 2021-10-22 | 2022-12-10 |
 | [Falling Like The Stars](https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Falling Like The Stars](https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU) | 3:32 | 2021-08-04 | 2022-08-13 |
 | [False Alarms \(with Jon Bellion\)](https://open.spotify.com/track/4hG1MCciEGpxL4mOZaxRqt) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE), [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg) | [Hotel TV](https://open.spotify.com/album/1U3ORbSHYUQLGYBzyEveMZ) | 4:00 | 2021-08-04 | 2022-07-29 |
+| [Far Too Much \- Edit](https://open.spotify.com/track/7IwYXEY1pLVnoWlmvdmMU1) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Far Too Much \(Edit\)](https://open.spotify.com/album/3lX0OPG0tJAgcNjsUCmKm2) | 3:15 | 2023-07-21 |  |
 | [Fast Talk](https://open.spotify.com/track/2NSHs7fnTlqosMNy72P7Mb) | [Houses](https://open.spotify.com/artist/648kpaANsUr1HABoE4mkPw) | [Fast Talk](https://open.spotify.com/album/3SMoItGjCanLw0iCHTeffs) | 4:19 | 2021-08-04 | 2022-03-31 |
 | [Fat Funny Friend \(sadder\)](https://open.spotify.com/track/21O2UVKExn54RKWfk1xF4E) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Fat Funny Friend \(sadder\)](https://open.spotify.com/album/3PJGfcK8Z3SYQltnyBT0tt) | 3:22 | 2022-03-18 | 2022-10-13 |
 | [Fat Funny Friend \(sadder\)](https://open.spotify.com/track/3J2k478GV4E9GbFzN7ndgv) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Fat Funny Friend \(sadder\)](https://open.spotify.com/album/5O5IUctGmsLX2FBTDNOCvY) | 3:22 | 2022-03-18 | 2023-01-28 |
@@ -418,7 +419,7 @@
 | [No Sleep](https://open.spotify.com/track/2pfAvgMoHLfialvMYn337d) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [By and By](https://open.spotify.com/album/4Ib3LE6FimfhNVnY7Tc1zM) | 3:57 | 2021-08-04 | 2022-08-06 |
 | [No Wonder](https://open.spotify.com/track/26E7c125wkzIcTSBdC8th3) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [No Wonder](https://open.spotify.com/album/6RJuDAODnxAKIkXTxNhKHx) | 3:21 | 2022-11-25 |  |
 | [Normal](https://open.spotify.com/track/0HVcO5RvFcXCqQDWrh1zL2) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Normal](https://open.spotify.com/album/4sAJ0GqWDbEVemJSjE1PZc) | 3:51 | 2023-03-10 | 2023-04-23 |
-| [Normal](https://open.spotify.com/track/7j6r88KZPacrIqtTGO9jMG) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Red Sky](https://open.spotify.com/album/0b1Sv51qVCHVQJwv9J7UOY) | 3:51 | 2023-03-10 |  |
+| [Normal](https://open.spotify.com/track/7j6r88KZPacrIqtTGO9jMG) | [Hunter Hayes](https://open.spotify.com/artist/7H6dkUChT5EoOQtUVMg4cN) | [Red Sky](https://open.spotify.com/album/0b1Sv51qVCHVQJwv9J7UOY) | 3:51 | 2023-03-10 | 2023-07-22 |
 | [Nostalgic](https://open.spotify.com/track/65SjaqhfKeFhmXprzlzyn4) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [ASYLUM](https://open.spotify.com/album/1qnAzDoa24ZYCZDzmP74sL) | 3:02 | 2021-08-04 | 2022-06-29 |
 | [Oceans & Engines](https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Oceans & Engines](https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9) | 5:36 | 2022-07-08 | 2023-02-04 |
 | [ok with it](https://open.spotify.com/track/2LRvqsiYThrc2zbBp8vElD) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [ok with it](https://open.spotify.com/album/1VTt9SI2yCJMHuJ9JItnt9) | 2:45 | 2023-05-19 |  |
@@ -609,6 +610,7 @@
 | [way after forever](https://open.spotify.com/track/0uhGgihlgkmAGZvp93rUwm) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [way after forever](https://open.spotify.com/album/2IHqIp7JN9bbL5sV4qdgx4) | 2:53 | 2023-03-10 |  |
 | [Way of the Heart](https://open.spotify.com/track/10JB2ih1BNYlactGPCet1M) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Detour de Force \(Deluxe Edition\)](https://open.spotify.com/album/1qP0WiK1cW3bE91eNQqGpi) | 3:48 | 2022-06-03 | 2022-06-11 |
 | [Way With Words](https://open.spotify.com/track/6ioeN8jQ8Qc3tS8dhpoAVi) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Earthtones](https://open.spotify.com/album/1K3XPBfAfPO7jJhqTq4xME) | 4:20 | 2021-08-04 | 2022-03-28 |
+| [we all could use some help](https://open.spotify.com/track/6B7aGZA0Tfipg9ox1umX01) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [we all could use some help](https://open.spotify.com/album/7yCPSxaV1pRzXrdMKWuCYz) | 2:23 | 2023-07-21 |  |
 | [We'll Be Alright](https://open.spotify.com/track/6klNPAhUTmsYNlWbOyVbsy) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [We’ll Be Alright](https://open.spotify.com/album/7kpo8rHIFoa15JMwzxBDdf) | 3:53 | 2021-08-04 | 2022-05-21 |
 | [we're not kids anymore](https://open.spotify.com/track/43ZTfozcXRTukqENA3TXqe) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [emotionally unavailable](https://open.spotify.com/album/3IdEptw0LPQv9qNLbxkdAU) | 3:02 | 2022-05-20 | 2023-01-28 |
 | [Western Wind](https://open.spotify.com/track/0Q2FDq304w57PGAKKcC3Qk) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Western Wind](https://open.spotify.com/album/5WCdg2iITZNONNV8Wp5P7M) | 3:45 | 2022-05-06 | 2022-10-15 |

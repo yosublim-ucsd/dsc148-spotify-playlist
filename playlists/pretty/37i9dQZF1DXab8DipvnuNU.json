@@ -1,12 +1,12 @@
 {
   "description": "Essential tunes for time with the family.",
-  "num_followers": 8896,
+  "num_followers": 8977,
   "original_name": "The Cookout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTA3MzA0MTM2Mzc5MWVhOGEyNzFhMWRjMzY5OTZjMDQzZDQ5OTQ3",
+  "snapshot_id": "MCxhMWNhOTVhMWJjMTBiY2FlMjU0OWE3M2UzNjMzMzhkNDYyMWRjNzEz",
   "tracks": [
     {
       "added_at": "2023-06-18 17:36:15",
@@ -201,22 +201,6 @@
       "url": "https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y"
     },
     {
-      "added_at": "2023-06-16 17:58:31",
-      "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 320266,
-      "name": "Doo Wop (That Thing)",
-      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
-    },
-    {
       "added_at": "2020-07-23 21:45:59",
       "album": {
         "name": "souljaboytellem.com",
@@ -231,6 +215,22 @@
       "duration_ms": 221933,
       "name": "Crank That (Soulja Boy)",
       "url": "https://open.spotify.com/track/66TRwr5uJwPt15mfFkzhbi"
+    },
+    {
+      "added_at": "2023-06-16 17:58:31",
+      "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 320266,
+      "name": "Doo Wop (That Thing)",
+      "url": "https://open.spotify.com/track/0uEp9E98JB5awlA084uaIg"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -533,6 +533,22 @@
       "url": "https://open.spotify.com/track/7ohR0qPH6f2Vuj2pUNanJG"
     },
     {
+      "added_at": "2020-07-23 21:45:59",
+      "album": {
+        "name": "The Very Best Of The Staple Singers",
+        "url": "https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7"
+      },
+      "artists": [
+        {
+          "name": "The Staple Singers",
+          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "I'll Take You There",
+      "url": "https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG"
+    },
+    {
       "added_at": "2023-06-16 17:58:31",
       "album": {
         "name": "This Is How We Do It",
@@ -551,22 +567,6 @@
       "duration_ms": 238800,
       "name": "This Is How We Do It",
       "url": "https://open.spotify.com/track/6uQKuonTU8VKBz5SHZuQXD"
-    },
-    {
-      "added_at": "2020-07-23 21:45:59",
-      "album": {
-        "name": "The Very Best Of The Staple Singers",
-        "url": "https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7"
-      },
-      "artists": [
-        {
-          "name": "The Staple Singers",
-          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
-        }
-      ],
-      "duration_ms": 196826,
-      "name": "I'll Take You There",
-      "url": "https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG"
     },
     {
       "added_at": "2020-07-23 21:45:59",
@@ -1101,10 +1101,10 @@
       "url": "https://open.spotify.com/track/2itAOPLerxnnc8KXHMqPWu"
     },
     {
-      "added_at": "2023-06-16 17:58:31",
+      "added_at": "2020-07-23 21:45:59",
       "album": {
-        "name": "BLACK PARADE",
-        "url": "https://open.spotify.com/album/3MJxH055n52Rbm8RLlpJcN"
+        "name": "HOMECOMING: THE LIVE ALBUM",
+        "url": "https://open.spotify.com/album/35S1JCj5paIfElT2GODl6x"
       },
       "artists": [
         {
@@ -1112,9 +1112,9 @@
           "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 281272,
-      "name": "BLACK PARADE",
-      "url": "https://open.spotify.com/track/2qzUpSVI4NnPyWxbXwumTj"
+      "duration_ms": 240776,
+      "name": "Before I Let Go - Homecoming Live Bonus Track",
+      "url": "https://open.spotify.com/track/7LikBkHerFGZ58QHVOKp1t"
     },
     {
       "added_at": "2023-06-16 17:58:31",
@@ -1233,10 +1233,10 @@
       "url": "https://open.spotify.com/track/7JmPqImeW3kLoYVNBA9v11"
     },
     {
-      "added_at": "2020-07-23 21:45:59",
+      "added_at": "2023-06-16 17:58:31",
       "album": {
-        "name": "HOMECOMING: THE LIVE ALBUM",
-        "url": "https://open.spotify.com/album/35S1JCj5paIfElT2GODl6x"
+        "name": "BLACK PARADE",
+        "url": "https://open.spotify.com/album/3MJxH055n52Rbm8RLlpJcN"
       },
       "artists": [
         {
@@ -1244,9 +1244,9 @@
           "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 240776,
-      "name": "Before I Let Go - Homecoming Live Bonus Track",
-      "url": "https://open.spotify.com/track/7LikBkHerFGZ58QHVOKp1t"
+      "duration_ms": 281272,
+      "name": "BLACK PARADE",
+      "url": "https://open.spotify.com/track/2qzUpSVI4NnPyWxbXwumTj"
     }
   ],
   "unique_name": "The Cookout",

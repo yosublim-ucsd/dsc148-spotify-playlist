@@ -2,9 +2,9 @@
 
 ### [Fresh Finds SG & MY](https://open.spotify.com/playlist/37i9dQZF1DWWvrRGuT6dlZ)
 
-> Unearthing your new favourite artists\. Cover: kiingkess\. Artwork: Isu Kim.
+> Unearthing your new favourite artists\. Cover: Sissy Imann\. Artwork: Isu Kim.
 
-483 songs - 1 day 2 hr 28 min
+488 songs - 1 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [abyss](https://open.spotify.com/track/0Cve3DjYpYYA8R4MNE79Zu) | [khayr](https://open.spotify.com/artist/3fZ2biq7TE8pYQLDGfRd2A) | [abyss](https://open.spotify.com/album/044ciJnjsQPMsSLgGvr4tE) | 3:05 | 2022-11-10 | 2023-06-16 |
 | [act too nice, be too dumb](https://open.spotify.com/track/6d5Qo1pfi6f2dk3GI0H2ap) | [Sabrina Nicolette](https://open.spotify.com/artist/6DxUkGnJDY3BIubtX1afwj) | [act too nice, be too dumb](https://open.spotify.com/album/05pZcnUnfaI7ZLzSixe17n) | 3:13 | 2021-12-01 | 2022-01-14 |
 | [Adolescence](https://open.spotify.com/track/7kJF6LXAdGFFYIBG0ORnjv) | [Burmese Bombshells](https://open.spotify.com/artist/2LjrfHF7nEMEDoTd4eJ522) | [Adolescence](https://open.spotify.com/album/4GpeNL5ruYdieY9QLK2cTk) | 4:20 | 2022-01-13 | 2023-01-13 |
+| [AIN'T GONNA SPOIL MY DAY](https://open.spotify.com/track/2etrtrW2rqBpiogWKkn3Yc) | [Sissy Imann](https://open.spotify.com/artist/49Ur9nGoemmrL6ABgELR8K) | [Sissy Imann](https://open.spotify.com/album/0m8kflCq7b42GUadcCshc4) | 3:10 | 2023-07-21 |  |
 | [Alibi](https://open.spotify.com/track/0137H45gM6qEPdZ3XDObo6) | [Shadow Puppet Theatre](https://open.spotify.com/artist/3Sn4O0kPAszlYmxYrguYGU) | [Alibi](https://open.spotify.com/album/5QHEAUkNy3h1VgSZ4ayN0s) | 3:51 | 2022-01-13 | 2022-06-17 |
 | [all my fridays](https://open.spotify.com/track/1TOQwaFSpog2z8Lq5dEVJk) | [byn](https://open.spotify.com/artist/0mG4TxdyI3X8RhOwUBerFT), [HOW1E](https://open.spotify.com/artist/0w3DHXnJ10bERq7Z78jpeB) | [all my fridays](https://open.spotify.com/album/7iSgaRcEb0SW11JmmMeNg4) | 3:34 | 2023-05-04 |  |
 | [All Or Nothing](https://open.spotify.com/track/27ly3nX0ofaRByA0DdLJNY) | [FRSHOFF](https://open.spotify.com/artist/0VKBybevJOKSIZD9mwVDnU), [B.LEO](https://open.spotify.com/artist/7xSziEKgpFtmY9a2S18nxL), [HOWE.](https://open.spotify.com/artist/6NGEHIaioxYc0RVWGv6U8q), [The J](https://open.spotify.com/artist/1MnDwIcSaSdnCgPt3bNRLu) | [All Or Nothing](https://open.spotify.com/album/4T6QC6t1mJLKICS46r9an7) | 3:32 | 2023-06-22 |  |
@@ -161,7 +162,8 @@
 | [gotta swim](https://open.spotify.com/track/7FKRSuXtdSvy62jjFzKYsb) | [Absence!](https://open.spotify.com/artist/1BjwVi1onfbbvL3DK3MIKB) | [gotta swim](https://open.spotify.com/album/4LtUV3xM0xHnH7tbOTImjh) | 4:11 | 2022-01-13 | 2023-01-13 |
 | [GROOVE](https://open.spotify.com/track/5vYQvFiar2FAKb7Yl5SER6) | [Muratone](https://open.spotify.com/artist/05d3FO1h0tnn4G8yRw3bzp), [Brendonse7an](https://open.spotify.com/artist/65T1SQqoFSFXgUZxSWfpMN) | [GROOVE](https://open.spotify.com/album/5SyJszorUWOp0AK2atKngJ) | 2:40 | 2023-03-02 | 2023-06-23 |
 | [Guilty](https://open.spotify.com/track/5a0721eNhawTeTrp5V91AK) | [ABBEY](https://open.spotify.com/artist/025iaeoX6uj3UKZbSG0LcR) | [Guilty](https://open.spotify.com/album/0BFcsokFBzCI4WBcUOoxC6) | 3:09 | 2021-12-01 | 2022-01-14 |
-| [half of my heart](https://open.spotify.com/track/2pwrXRM5OHVxvd7D5yqoDO) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [half of my heart](https://open.spotify.com/album/34bZ5TOjUZJ3qfnCPiG49t) | 3:38 | 2023-06-30 |  |
+| [half of my heart](https://open.spotify.com/track/2pwrXRM5OHVxvd7D5yqoDO) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [half of my heart](https://open.spotify.com/album/34bZ5TOjUZJ3qfnCPiG49t) | 3:38 | 2023-06-30 | 2023-07-22 |
+| [half of my heart \(Orchestral Version\)](https://open.spotify.com/track/3KJFFP1U9SdJrYLk1f1jRa) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [half of my heart \(Orchestral Version\)](https://open.spotify.com/album/5wZUnmZcrRxyVtkMcmHJ26) | 3:13 | 2023-07-21 |  |
 | [hands to yourself](https://open.spotify.com/track/7DXEAhWuCuWo3ya6FBI5Jg) | [Jazzy](https://open.spotify.com/artist/2GycKV84bgjhaEtyRtqwJZ), [Alex Yen](https://open.spotify.com/artist/35gMLw7WSqX6NiBv6Rz5KN) | [hands to yourself](https://open.spotify.com/album/5TdnYH9K0ZyQUD4CagIVKb) | 3:11 | 2022-02-10 | 2023-01-13 |
 | [Hard To Love](https://open.spotify.com/track/4mYU1lSo0jgIxzH8iofmM3) | [Karazey](https://open.spotify.com/artist/2sA7JXgexSOAcvqTBveRNf), [Airinna Namara](https://open.spotify.com/artist/144bztZE6ImAnYLiYuVdEU) | [Hard To Love](https://open.spotify.com/album/1WyOsHwTY8Jn6rGZ2PPetC) | 3:04 | 2022-02-17 | 2023-01-13 |
 | [HASTE](https://open.spotify.com/track/4LkpLJvOYZSLgo9ZWN3kHG) | [Dominic Chin](https://open.spotify.com/artist/1fQk4DNRfj70qf362wV8GQ) | [HASTE](https://open.spotify.com/album/3dpBjcmALy8faXQ28ikOPK) | 3:00 | 2023-03-30 |  |
@@ -179,6 +181,7 @@
 | [Hindsight](https://open.spotify.com/track/2PIkCsG3y6rcrxQRGShCiR) | [xena giam](https://open.spotify.com/artist/7aKGYYCdqzIowwzzBMdKSF) | [Hindsight](https://open.spotify.com/album/1TBmwdtEcBOKGvPbnAFJ4o) | 3:03 | 2022-07-28 | 2022-09-23 |
 | [Hindsight](https://open.spotify.com/track/6vONY8IwDRU4WWEGrfYf43) | [xena giam](https://open.spotify.com/artist/7aKGYYCdqzIowwzzBMdKSF) | [Hindsight](https://open.spotify.com/album/4WVj2eFk774aULiDEefviT) | 3:03 | 2022-05-05 | 2022-07-29 |
 | [Hold Me](https://open.spotify.com/track/22UneO4S3Num3CIsFsX3BR) | [Ezra Kairo](https://open.spotify.com/artist/39J6LLJULSR5b2dJbg6TRH) | [Hold Me](https://open.spotify.com/album/2F3wq0941ab4XPnfNapWTH) | 2:34 | 2021-12-01 | 2023-01-13 |
+| [hold on](https://open.spotify.com/track/3kWbzwcmES4iB59VA4Falf) | [Syamil](https://open.spotify.com/artist/2gYfOpC3v81qRZJdrsXuAD) | [ugh](https://open.spotify.com/album/0AStBStf4EqUexpzJDidam) | 3:14 | 2023-07-21 |  |
 | [home.](https://open.spotify.com/track/6x6i7ky72K8OgytVjmDPpJ) | [Lincoln Lim](https://open.spotify.com/artist/6SWt2vc0oCLKFQKy5OB253) | [home.](https://open.spotify.com/album/78qhhu1f0mzaBHHnH5e3Ev) | 5:31 | 2022-01-20 | 2022-06-17 |
 | [Homemade Chicken Soup](https://open.spotify.com/track/0ZDb1gKLEmimWszMPX6QjY) | [thelandofgreysea](https://open.spotify.com/artist/1elZrGAuUvrokatVLMnUWl), [DSML](https://open.spotify.com/artist/7kZ5xFtlC9bPMPjWGYBpIu) | [Homemade Chicken Soup](https://open.spotify.com/album/0tNXJpv0SkYP1aB6Xv0vWw) | 2:05 | 2022-01-13 | 2022-07-01 |
 | [Honeymoon](https://open.spotify.com/track/7errHb9GcJfFN3XWvd1vpB) | [AARCADE](https://open.spotify.com/artist/7FcsmP4uqRlBKh2Y7Q9kd0) | [Honeymoon](https://open.spotify.com/album/4JfEXvklFqLGYUWvAdmqxh) | 3:10 | 2023-02-09 |  |
@@ -310,6 +313,7 @@
 | [One Can Only Hope](https://open.spotify.com/track/7xBzM5EVcCBeCaw7olmJkY) | [Amanda Ong](https://open.spotify.com/artist/0XaKTTVvegITqWH3AW1DeD) | [One Can Only Hope](https://open.spotify.com/album/3i5d4G9Helc5kg2ApeINGd) | 3:31 | 2022-02-24 | 2022-06-17 |
 | [Only Friends](https://open.spotify.com/track/0N8xr3fFwSSClWuoNifoYn) | [Hijack Hayley](https://open.spotify.com/artist/0yXoiuY9ZVzJRNu15X6eCU) | [Only Friends](https://open.spotify.com/album/3MGxYib9VgMATad2oTXSky) | 4:29 | 2023-05-26 |  |
 | [Only Lover](https://open.spotify.com/track/12hueiL6lpOWp1HlnZ8tGO) | [Micki Jayy](https://open.spotify.com/artist/5zopZiBoumSnc3vhbe66IZ) | [Only Lover](https://open.spotify.com/album/74t2G0n8dX98XzCY3TuFvc) | 2:58 | 2022-01-27 | 2022-06-17 |
+| [only us \(we can forget\)](https://open.spotify.com/track/1wlJxfj5fISRFgdi2UH5vs) | [Jeyes](https://open.spotify.com/artist/4KTTsSuEEoNhQLzXH1JH7x) | [only us \(we can forget\)](https://open.spotify.com/album/5bvoXK4BfuiW36EUlSbgbu) | 3:15 | 2023-07-21 |  |
 | [Orion's Apartment](https://open.spotify.com/track/7vFwfPVcm6s2JfWvhL63AG) | [aeriqah](https://open.spotify.com/artist/730kGJlZWMRyL6yHXyC3vb) | [Orion's Apartment](https://open.spotify.com/album/640b2S6el0Q65iV5Odg66s) | 4:40 | 2023-05-26 |  |
 | [Outta My Head](https://open.spotify.com/track/6XWw1Sj6WxN7bqXgA8j3YH) | [Shazee](https://open.spotify.com/artist/3hjD2tgcUWOm6o8Kk7cudp), [Tilla Hanna](https://open.spotify.com/artist/3NJyNeADXHVxvIKdTxTqw4) | [Outta My Head](https://open.spotify.com/album/6aBZwWz8GXM7EUGtU4YgVv) | 2:37 | 2022-01-20 | 2022-06-17 |
 | [OVER](https://open.spotify.com/track/4NmZMyrKqf37ST8Retl1TW) | [$ain't](https://open.spotify.com/artist/7xxicFvPSZeCwcUIENBQWH) | [OVER](https://open.spotify.com/album/2I4jJrYVLfL1rTT4syjmuu) | 2:21 | 2022-04-21 | 2022-07-08 |
@@ -459,6 +463,7 @@
 | [We Go Up](https://open.spotify.com/track/0hs8RVXULjZT1J6zUleFY7) | [Athalia](https://open.spotify.com/artist/6aUdnZx15EMag2kqCMA4JY) | [We Go Up](https://open.spotify.com/album/60CJ9rniWbwLLYZidRynR9) | 3:41 | 2022-06-02 | 2022-09-23 |
 | [We Might Never Meet Again](https://open.spotify.com/track/5UaGOJ90MCcMXoxMClpPJA) | [Jonny Ong](https://open.spotify.com/artist/1mIf4tLRj9nww55KZwBEYm), [Rachma Lim](https://open.spotify.com/artist/64x2dv2UztJeBB2vbTHsrt) | [Isolation](https://open.spotify.com/album/56tfCDnuPqmpw6gJ5B2l7s) | 4:26 | 2022-01-13 | 2022-06-17 |
 | [What About Me](https://open.spotify.com/track/2EIRs4SUAsJBbzqQVkLSp1) | [Tiara Maimun](https://open.spotify.com/artist/0YLCRlUQxyVLAlIlqU56SB) | [What About Me](https://open.spotify.com/album/3eecVVjE70mnWV4R4uari7) | 3:25 | 2022-07-28 | 2022-09-23 |
+| [what awaits?](https://open.spotify.com/track/7Db0bRUVo0mjiirrpl51I0) | [bottlewoman](https://open.spotify.com/artist/24Vfz0c1aaf1k2nVAiBni5) | [what awaits?](https://open.spotify.com/album/5PVHIhHPGwjy7JjvvTeBdu) | 3:22 | 2023-07-21 |  |
 | [What Fools Do](https://open.spotify.com/track/24KTfG74Z4brtfRxhGr2qV) | [Sarsa Kailas](https://open.spotify.com/artist/5kouM0z5Ne4bUuHpvBStjP) | [What Fools Do](https://open.spotify.com/album/5cHDJlYEpKfFpiYNrowkMS) | 3:34 | 2021-12-01 | 2022-01-14 |
 | [What Is Love](https://open.spotify.com/track/0E5M9OnCcCO2O02iBbej1Z) | [Airii](https://open.spotify.com/artist/0PGpHU7ykfVuBw819Gbd18) | [What Is Love](https://open.spotify.com/album/5secPVs9MUO1cpVpFjLGMr) | 3:01 | 2022-01-13 | 2022-06-17 |
 | [What Went Wrong](https://open.spotify.com/track/0W3LecX7VVuMxgelsshS72) | [Izat Ibrahim](https://open.spotify.com/artist/7H7lmD1o6jjZFvclnVDIwc) | [What Went Wrong](https://open.spotify.com/album/43fQagS136MVf0xI00jg1N) | 3:47 | 2022-01-13 | 2022-03-11 |

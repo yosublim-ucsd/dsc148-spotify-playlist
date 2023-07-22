@@ -2,7 +2,7 @@
 
 ### [Fresh Arabic Pop](https://open.spotify.com/playlist/37i9dQZF1DXaL8gtxi9eun)
 
-> Stay up to date with the freshest Arabic Pop Songs\. Cover: <a href="https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc?si=Z60fJzqIQUagMSa0N4xfNA">Ramy Sabry </a>
+> Stay up to date with the freshest Arabic Pop Songs\. Cover: <a href="https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX?si=UPffg\_DeSkSwTVHDIh5Vxg"> Mohamed Hamaki </a>
 
 210 songs - 12 hr 49 min
 

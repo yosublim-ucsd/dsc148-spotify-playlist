@@ -2,9 +2,9 @@
 
 ### [Infinite Indie Folk](https://open.spotify.com/playlist/37i9dQZF1DX2taNm7KfjOX)
 
-> Repeat\-free hours of new and beloved indie folk\. Cover: Sumbuck
+> Repeat\-free hours of new and beloved indie folk\. Cover: Big Thief
 
-512 songs - 1 day 7 hr 59 min
+514 songs - 1 day 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Belfast Song](https://open.spotify.com/track/4gJb1BBWsaVOUtStGvAfWl) | [Jealous of the Birds](https://open.spotify.com/artist/3S8P24WjZtVNaPLeXjaCJm) | [Belfast Song](https://open.spotify.com/album/73TQtEbV8FZpUeMSrIadUv) | 3:46 | 2022-01-14 | 2022-07-25 |
 | [Bereft of the Myth](https://open.spotify.com/track/3TmV1nkm4IhIdKDhAWdHCM) | [Thad Kopec](https://open.spotify.com/artist/3o1tKzbhMLOZzGlkeLz3No), [Josh Gilligan](https://open.spotify.com/artist/46g5hcuu0pLv0KYtk3m899), [Allison Young](https://open.spotify.com/artist/1Irw7KGshB5ZOMQJryKzU3) | [Bereft of the Myth](https://open.spotify.com/album/5vzJXLbZ37zHO2dTb00Mx0) | 2:54 | 2021-10-22 | 2022-06-05 |
 | [Berlin](https://open.spotify.com/track/1dgCF73ruK4qTXrx0TZ0j7) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Berlin](https://open.spotify.com/album/5AFR0ia3oPGsmYNK6fxZNu) | 3:39 | 2021-10-22 | 2022-07-29 |
-| [Berlin](https://open.spotify.com/track/7tbR2WSnuTUOGgkUQiAupD) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [BREACH](https://open.spotify.com/album/0KsNopmZLaB71o6i2nw95I) | 3:39 | 2022-06-24 |  |
+| [Berlin](https://open.spotify.com/track/7tbR2WSnuTUOGgkUQiAupD) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [BREACH](https://open.spotify.com/album/0KsNopmZLaB71o6i2nw95I) | 3:39 | 2022-06-24 | 2023-07-22 |
 | [Better Days](https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Better Days](https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk) | 3:21 | 2021-10-22 |  |
 | [Better Now](https://open.spotify.com/track/204zAZKZ0pDcd2Mqgp1ctO) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Ignorance \(Deluxe Version\)](https://open.spotify.com/album/4XjIsxdISfzX90bzSSikTr) | 2:53 | 2021-10-22 | 2022-07-29 |
 | [Better Season](https://open.spotify.com/track/7Fjtuz80dLhrjfYQvzHSNG) | [Robin Bacior](https://open.spotify.com/artist/7tvVGAoU9N2dQ75KOpqZW8) | [Better Season](https://open.spotify.com/album/5ljow99fQV9t4m5TpFnqhT) | 3:15 | 2022-01-14 | 2022-01-17 |
@@ -64,7 +64,7 @@
 | [Blindsided](https://open.spotify.com/track/0lPCROErEeqqqzwRMMXJHR) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [True Love](https://open.spotify.com/album/1rUuIrTj6F1PHo3v9Vlbl6) | 3:42 | 2022-06-24 | 2022-11-14 |
 | [Blindsided](https://open.spotify.com/track/7j6rS4xEI6tVqVnkzuP4Hn) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [True Love](https://open.spotify.com/album/0TubWPHVUNb0sSzMxpFkyW) | 3:42 | 2021-10-22 | 2022-07-29 |
 | [Bloomsday](https://open.spotify.com/track/2kRPwBHZQTot91lTuElVmK) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Bloomsday](https://open.spotify.com/album/2rfQho2fgiLBVquouCUbKy) | 3:19 | 2021-10-22 | 2022-07-29 |
-| [Bloomsday](https://open.spotify.com/track/3E32ScayKIBK9JYehnRek9) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Pick Apart](https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO) | 3:19 | 2022-06-24 |  |
+| [Bloomsday](https://open.spotify.com/track/3E32ScayKIBK9JYehnRek9) | [Samantha Crain](https://open.spotify.com/artist/5dpLK5cD7FwWyDKv4qbodS) | [Pick Apart](https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO) | 3:19 | 2022-06-24 | 2023-07-22 |
 | [Blouse](https://open.spotify.com/track/34q8siON3Dxf5HFVt3pynf) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Blouse](https://open.spotify.com/album/1t9GLJU4I8KOrXM86qGJCo) | 3:15 | 2021-10-22 | 2022-06-07 |
 | [Blue](https://open.spotify.com/track/2n1tP63rtEfyFDORk44Awt) | [BATTS](https://open.spotify.com/artist/1PIsw4oKKnFzyefiLWI7Rg), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Blue \(feat\. Sharon Van Etten\)](https://open.spotify.com/album/48Om1ZZbTmxjTV05VY6WQt) | 4:24 | 2022-04-27 | 2022-07-29 |
 | [Bluegrass](https://open.spotify.com/track/2eFiUi6b0OBiZiIfzKTCDe) | [Matt Phillips](https://open.spotify.com/artist/22BCyjczCSuALgagXSUm3p), [Phil Harmonic](https://open.spotify.com/artist/5szI3Z1nioD6Shb3QP3VBA) | [Move](https://open.spotify.com/album/1MqwG4kOK1G51LydYHqsV6) | 5:18 | 2022-04-13 | 2022-04-21 |
@@ -464,6 +464,7 @@
 | [Too Late Babe](https://open.spotify.com/track/1WLsC1nDz2w78EpVRgLqWf) | [The Lowest Pair](https://open.spotify.com/artist/0q9jV5Ht9bBTX6pHgzRjRg) | [The Perfect Plan](https://open.spotify.com/album/2UeJbrZMJSAJ7qadAbEOuW) | 4:49 | 2021-10-22 | 2023-02-18 |
 | [too young to die](https://open.spotify.com/track/1gHdpWRFGZKjB9AljkGtWV) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI), [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [supernatural thing](https://open.spotify.com/album/0BGmSkiDyPxghWbyYKnBHG) | 4:34 | 2023-06-30 |  |
 | [too young to die](https://open.spotify.com/track/6rPTq5ct9hsJqGzDSTWDnk) | [M\. Ward](https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI), [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [too young to die](https://open.spotify.com/album/5DLCp3qcsA7efiT5lOudqU) | 4:34 | 2023-06-23 | 2023-07-02 |
+| [Tough Love](https://open.spotify.com/track/4kGGQubXF1b4yut3zwKQ1h) | [Flyte](https://open.spotify.com/artist/3ZKyADicHqelBDeADLutiu), [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Tough Love](https://open.spotify.com/album/4tPrGiSt9vsolF3jqexC7u) | 3:01 | 2023-07-21 |  |
 | [Tried to Tell You](https://open.spotify.com/track/6paZpy38anvDucX9Zi4uEK) | [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [Atlantic](https://open.spotify.com/album/0a9pQOFCm8ObvipeAcvW53) | 3:38 | 2021-10-22 | 2022-07-29 |
 | [Try](https://open.spotify.com/track/4YNW5ViGjuHT5dkqrT7DAS) | [Escondido](https://open.spotify.com/artist/13lPIA6TfK28D9nWZJ9HuB) | [Walking With a Stranger](https://open.spotify.com/album/4LcI0UJmkd717mGgygsIfx) | 3:37 | 2022-04-13 | 2022-04-19 |
 | [Tupperware](https://open.spotify.com/track/4NJb1w94F475aQXXE07I5N) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz) | [Make Peace with That](https://open.spotify.com/album/69KtzbWEQ6c6bS7VkJBoRe) | 3:06 | 2021-10-22 | 2022-11-13 |
@@ -474,6 +475,7 @@
 | [Used](https://open.spotify.com/track/6QaBosEz0XcT3YuMYeTI1y) | [Wyvern Lingo](https://open.spotify.com/artist/7etzKNDxaZ1LefgbGrexsN) | [The Widow Knows E.P.](https://open.spotify.com/album/548WnictHrfJKj2u6tXqFe) | 4:12 | 2022-04-13 |  |
 | [Valley](https://open.spotify.com/track/4MoCLZnuRqgdEKaz0wL5h4) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Sundowner](https://open.spotify.com/album/7qmhqRQL8WRl4B0PMlYfHk) | 4:04 | 2022-06-24 |  |
 | [Valley](https://open.spotify.com/track/6qxOcJ6gFpcwFPYTmXmuIj) | [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Sundowner](https://open.spotify.com/album/0laieZ0AIqtsAFTaljjmLc) | 4:04 | 2021-10-22 | 2022-07-29 |
+| [Vampire Empire](https://open.spotify.com/track/0ToG55iJZCOzZkcpWbXxpW) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire](https://open.spotify.com/album/2Msefc9DYHFMTNY6zuCOIm) | 3:12 | 2023-07-21 |  |
 | [Victory](https://open.spotify.com/track/2f6pqUyFcs3NUSoz49H9nw) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [Victory](https://open.spotify.com/album/6DUTXtgL3YKOf2wX8RCKe4) | 3:53 | 2021-10-22 |  |
 | [Virginia Beach](https://open.spotify.com/track/4O8uW41RxfVF6AJRehcG9W) | [Hamilton Leithauser](https://open.spotify.com/artist/3ZXXJ9nO1Dn9B0AJ25eAQY), [Kevin Morby](https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF) | [Virginia Beach](https://open.spotify.com/album/4P6mNT2XCm80IEWC34mG2Y) | 3:59 | 2021-10-22 | 2022-11-13 |
 | [Wait for Springtime](https://open.spotify.com/track/4l9IZ0W3IlMZcC4DMRDK1L) | [Kishi Bashi](https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0) | [Wait for Springtime](https://open.spotify.com/album/2PnSq69KJpy86syr5g5fbA) | 4:00 | 2021-10-22 | 2022-07-29 |

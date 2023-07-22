@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 
 > Chill house beats for hanging out in the sun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,959 likes - 240 songs - 11 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,203 likes - 240 songs - 11 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,15 +18,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 | 8 | [memories](https://open.spotify.com/track/455yDW2mMq8DMrDN9G6SRf) | [Mandoja](https://open.spotify.com/artist/0BBuIQuQkbPCu68yfdkmmH) | [memories](https://open.spotify.com/album/66DpYlVTOSTKtf71XIWHho) | 3:20 |
 | 9 | [Crisp](https://open.spotify.com/track/2WmdD9R9Qx6cHQ0t5XWHLx) | [Pool Villa](https://open.spotify.com/artist/6jlhtDtApssw2NRWmaN3d0) | [Crisp](https://open.spotify.com/album/57CwP4oDHIPUfG1mr5vy2P) | 2:32 |
 | 10 | [Souped Up](https://open.spotify.com/track/7r3eqnO0ZHi0l9JFZyYRs8) | [Jobii](https://open.spotify.com/artist/2MGL4XU2LCJC47c7VvSwuE) | [Souped Up](https://open.spotify.com/album/6kJ9jCbCagGk0RnCPGAuVu) | 3:00 |
-| 11 | [Price is Right](https://open.spotify.com/track/4wSlz46D7v1VvKB6RVsUEo) | [Plastik Flamingos](https://open.spotify.com/artist/7adQbzv3xWy2s9a6Q5lxpU) | [Price is Right](https://open.spotify.com/album/4AUammqsMgkKSNGS3aJ6ff) | 2:39 |
-| 12 | [Feign Life](https://open.spotify.com/track/3p98A62MnzjsIAG0p2grVT) | [Merry Lo](https://open.spotify.com/artist/79Sile05IT8AM4zzSgn8zw) | [Feign Life](https://open.spotify.com/album/3yzmqdJOiJPeQolxzKuT7a) | 2:52 |
-| 13 | [Where You Come From](https://open.spotify.com/track/5tZrMcEPBPBiZSOKNnpsw5) | [Rawson And Jackson](https://open.spotify.com/artist/3nXk6rWpnj4kb6az1uFuFl) | [13 Years Later, Pt\. 1](https://open.spotify.com/album/4rfszWI3ZfkpTMipGSrJxv) | 4:36 |
-| 14 | [Watchtower](https://open.spotify.com/track/5cwjq1HlJEwOMOxFr8bPpT) | [Werlie](https://open.spotify.com/artist/6KQ7zOmEoEm2tgJsoYq55x) | [Watchtower](https://open.spotify.com/album/1l95gSxvw9QjvHnl6z0C6C) | 2:38 |
-| 15 | [Why Don't You Chill?](https://open.spotify.com/track/2oAqJqtPyPrIMaK1tD8UWI) | [Drunk Archer](https://open.spotify.com/artist/0AMvlHlc7WpjNyZSmAfTIQ) | [Why Don't You Chill?](https://open.spotify.com/album/3MKNWp2dnCgrzo74iWacq2) | 3:24 |
-| 16 | [Sound Crown](https://open.spotify.com/track/1IZDP1zsV0wq7IgZyBTi5E) | [Generation.](https://open.spotify.com/artist/1WoQDlJJ6xAsBaJSRSYx9o) | [Sound Crown](https://open.spotify.com/album/4PATQpNpm8vqYQOoMvyJT9) | 2:16 |
-| 17 | [Cloud Rotation](https://open.spotify.com/track/2RiKx91x98GwFWdDkokXKA) | [Lostlow](https://open.spotify.com/artist/2ZB3DKgzAjv2VY88jaH9jn) | [Cloud Rotation](https://open.spotify.com/album/54Un2f1WLwQniWGOzELWnV) | 2:36 |
-| 18 | [Freeze Frame](https://open.spotify.com/track/5qgA8T7EBuJdfZLIKhwlvN) | [Phoenix Rouge](https://open.spotify.com/artist/2TDqzjJabNAMFL4CCH4WiM) | [Freeze Frame](https://open.spotify.com/album/70vK7Xzq5uyhENPHo78qbH) | 3:05 |
-| 19 | [Sweet Summer Love](https://open.spotify.com/track/5uTweDW8y0Yd5MZpOEv3xT) | [Rocket Jr](https://open.spotify.com/artist/6OGkTrVt13n4C075wLe17B) | [Sweet Summer Love](https://open.spotify.com/album/6b1U1RvdMG52kJgBINSOJM) | 3:26 |
+| 11 | [OFF DAY](https://open.spotify.com/track/5ZZZRpzWasI2ZU2XGXzP70) | [Suuunday](https://open.spotify.com/artist/1bBmR4RoeoRqkJgI7R8fAv) | [OFF DAY](https://open.spotify.com/album/0JLG2vKp48P3aWLCBskAMF) | 2:30 |
+| 12 | [Price is Right](https://open.spotify.com/track/4wSlz46D7v1VvKB6RVsUEo) | [Plastik Flamingos](https://open.spotify.com/artist/7adQbzv3xWy2s9a6Q5lxpU) | [Price is Right](https://open.spotify.com/album/4AUammqsMgkKSNGS3aJ6ff) | 2:39 |
+| 13 | [Feign Life](https://open.spotify.com/track/3p98A62MnzjsIAG0p2grVT) | [Merry Lo](https://open.spotify.com/artist/79Sile05IT8AM4zzSgn8zw) | [Feign Life](https://open.spotify.com/album/3yzmqdJOiJPeQolxzKuT7a) | 2:52 |
+| 14 | [Where You Come From](https://open.spotify.com/track/5tZrMcEPBPBiZSOKNnpsw5) | [Rawson And Jackson](https://open.spotify.com/artist/3nXk6rWpnj4kb6az1uFuFl) | [13 Years Later, Pt\. 1](https://open.spotify.com/album/4rfszWI3ZfkpTMipGSrJxv) | 4:36 |
+| 15 | [Watchtower](https://open.spotify.com/track/5cwjq1HlJEwOMOxFr8bPpT) | [Werlie](https://open.spotify.com/artist/6KQ7zOmEoEm2tgJsoYq55x) | [Watchtower](https://open.spotify.com/album/1l95gSxvw9QjvHnl6z0C6C) | 2:38 |
+| 16 | [Why Don't You Chill?](https://open.spotify.com/track/2oAqJqtPyPrIMaK1tD8UWI) | [Drunk Archer](https://open.spotify.com/artist/0AMvlHlc7WpjNyZSmAfTIQ) | [Why Don't You Chill?](https://open.spotify.com/album/3MKNWp2dnCgrzo74iWacq2) | 3:24 |
+| 17 | [Sound Crown](https://open.spotify.com/track/1IZDP1zsV0wq7IgZyBTi5E) | [Generation.](https://open.spotify.com/artist/1WoQDlJJ6xAsBaJSRSYx9o) | [Sound Crown](https://open.spotify.com/album/4PATQpNpm8vqYQOoMvyJT9) | 2:16 |
+| 18 | [Cloud Rotation](https://open.spotify.com/track/2RiKx91x98GwFWdDkokXKA) | [Lostlow](https://open.spotify.com/artist/2ZB3DKgzAjv2VY88jaH9jn) | [Cloud Rotation](https://open.spotify.com/album/54Un2f1WLwQniWGOzELWnV) | 2:36 |
+| 19 | [Freeze Frame](https://open.spotify.com/track/5qgA8T7EBuJdfZLIKhwlvN) | [Phoenix Rouge](https://open.spotify.com/artist/2TDqzjJabNAMFL4CCH4WiM) | [Freeze Frame](https://open.spotify.com/album/70vK7Xzq5uyhENPHo78qbH) | 3:05 |
 | 20 | [Barcelona](https://open.spotify.com/track/6wzwzB0s3Hzf17QuPemhHR) | [Salavant](https://open.spotify.com/artist/4bPwvN46TZwzf5G00otLbO) | [Barcelona](https://open.spotify.com/album/78AcTNepM0678k7YasmNpe) | 2:23 |
 | 21 | [Sexy in the Morning](https://open.spotify.com/track/38ibP9xIR3RXfAl5QE5yoE) | [Reel Waves](https://open.spotify.com/artist/3K4BBqiZQW1WEzeBMzfVho) | [Sugar in My Arms](https://open.spotify.com/album/7KP0XetLuAm6YT4ZRWMuPv) | 2:28 |
 | 22 | [Caribbean Sea](https://open.spotify.com/track/0aikHYvLZfr0rc3IT0DNv4) | [Matobolo](https://open.spotify.com/artist/5yyRFQuROpERkosmUmah5j) | [Caribbean Sea](https://open.spotify.com/album/0rONtadXJvWO3CWbJPGUub) | 3:25 |
@@ -249,4 +249,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZSdcRHMl2tT.md) - [plain]
 | 239 | [Rotary](https://open.spotify.com/track/4VIR3YOwgtTMRg70zCVpJV) | [Tonalize](https://open.spotify.com/artist/3wF1K5F8RQSOeWtYkMjySH) | [Rotary](https://open.spotify.com/album/1K2WTHESLtZG8OC4vFpmQg) | 3:40 |
 | 240 | [Diva](https://open.spotify.com/track/6ffcqnhcbP67tUlMfXcQk4) | [Byron Bae](https://open.spotify.com/artist/2FGtJl09hWM44jumXqs9rr) | [Diva](https://open.spotify.com/album/3U7JoibCsgn6TygPO1t0wt) | 3:03 |
 
-Snapshot ID: `MCwwMDMyNTZjZDY2OGEyOTc5NmM0MWJhN2NjOWQ1NjhmYmZlOWZhMWQz`
+Snapshot ID: `MCxjZTA2YTEzNjlkZTczMzRkOTI5MjI5ZWQ3MDg4MmI4Zjg3ZmZlOGU0`

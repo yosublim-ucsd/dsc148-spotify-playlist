@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI?si=f757c25bb9da48e0">Madison Ryann Ward</a>
 
-338 songs - 20 hr 42 min
+339 songs - 20 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [More Than the Stars](https://open.spotify.com/track/0spPve5NUzP2msY4PW4VxK) | [ISLY](https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW) | [More Than the Stars](https://open.spotify.com/album/5H82180V8IYVMaqlNb45Ba) | 5:32 | 2023-02-19 |  |
 | [Mountain Top](https://open.spotify.com/track/6C4UblYyeU2MG5Y97hEDue) | [Leslie Perez](https://open.spotify.com/artist/2NUERBKvU6ghDuqmLReybs) | [Mountain Top](https://open.spotify.com/album/6AgyARYCCb59nbtKDbKyjw) | 3:53 | 2023-02-19 |  |
 | [Mr\. Blue Sky](https://open.spotify.com/track/2SaTjiE4luy9qUeC5Lgnkk) | [Dawson Hollow](https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R) | [Covers EP](https://open.spotify.com/album/4GXAgGRpLvP2BolXN9VzOS) | 2:44 | 2023-02-19 |  |
-| [My Deliverer](https://open.spotify.com/track/0oTqpffMAdIcVD2QInfrIO) | [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm), [Chichi Onyekanne](https://open.spotify.com/artist/50gFsE5NXUZTs9Ystdog7B) | [My Deliverer](https://open.spotify.com/album/3dBEsJbJjAytRaLnBWWOr9) | 5:24 | 2023-02-19 |  |
+| [My Deliverer](https://open.spotify.com/track/0oTqpffMAdIcVD2QInfrIO) | [Dara Maclean](https://open.spotify.com/artist/51mDLET3uU71KUA2OkDvFm), [Chichi Onyekanne](https://open.spotify.com/artist/50gFsE5NXUZTs9Ystdog7B) | [My Deliverer](https://open.spotify.com/album/3dBEsJbJjAytRaLnBWWOr9) | 5:24 | 2023-02-19 | 2023-07-22 |
 | [My Heart Alone](https://open.spotify.com/track/62IMghHVMRqb8GsuVm5Hbc) | [Colorvault](https://open.spotify.com/artist/15r1ip4y85i0oDNt03C4Er), [Alex Taylor](https://open.spotify.com/artist/0q3bKZP4Pjf3Z5SKSxEhKi) | [My Heart Alone](https://open.spotify.com/album/5TDg5nfshvPqFm6Ma7gfTB) | 3:21 | 2023-02-19 |  |
 | [Mōhio](https://open.spotify.com/track/6ck8vtqwTOJtsdUK2emEvR) | [Rory Mckenna](https://open.spotify.com/artist/3nfMxP6LLKjO9D6BfSmg2c), [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI) | [Mōhio](https://open.spotify.com/album/4tSGbI8oOTj9W2LF25Ym3h) | 4:20 | 2023-02-19 |  |
 | [Names \- Acoustic](https://open.spotify.com/track/1yJ7WrQql0OIsXQflW0Zpv) | [Ben Laine](https://open.spotify.com/artist/6S02dGCF9U11e99CrZOmYj) | [Names \(Acoustic\)](https://open.spotify.com/album/5jwzW7iNZgN9tNPLl7bof2) | 6:09 | 2023-02-24 | 2023-03-03 |
@@ -201,7 +201,7 @@
 | [No Name Higher](https://open.spotify.com/track/1TtHwXMFMn08FbV7xLOolu) | [Mark & Sarah Tillman](https://open.spotify.com/artist/4GdeUL15baI90obDfYOvqX) | [No Name Higher](https://open.spotify.com/album/0OixCbdiXloh7UGgnY4f7n) | 4:48 | 2023-02-19 | 2023-06-07 |
 | [None Like You](https://open.spotify.com/track/23gYKYjZWdaSmug23zfKyQ) | [Tekoa](https://open.spotify.com/artist/7Fqu2gBrthnYE53IGOltaI), [Rory Mckenna](https://open.spotify.com/artist/3nfMxP6LLKjO9D6BfSmg2c) | [Hymns + Disparity](https://open.spotify.com/album/2HWxsVil1BGXvWhSZ55M8f) | 1:16 | 2023-02-19 |  |
 | [Not Afraid Of The Dark](https://open.spotify.com/track/7JnVYNEMeIryihBV8bADTz) | [Carrollton](https://open.spotify.com/artist/1i5HhzrkpHFFDpsUYdz2Fs) | [Carrollton](https://open.spotify.com/album/4oBlrxNq2gvN8OFwB05gYf) | 3:52 | 2020-12-18 | 2023-02-19 |
-| [Notice](https://open.spotify.com/track/4U4BCKxoVM1L3WcxJRjJ5t) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [Notice](https://open.spotify.com/album/3vzg623fvEuthjjCpX1dFK) | 3:22 | 2023-02-19 |  |
+| [Notice](https://open.spotify.com/track/4U4BCKxoVM1L3WcxJRjJ5t) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [Notice](https://open.spotify.com/album/3vzg623fvEuthjjCpX1dFK) | 3:22 | 2023-02-19 | 2023-07-22 |
 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/46GOst5FVGq47jxmMgx1VL) | [Drake McCain](https://open.spotify.com/artist/55zx7AihSM91XuqPqofoct) | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/album/1aGIvwbPmDQTN37lt4y5cQ) | 4:25 | 2023-04-21 |  |
 | [Oh, the Deep](https://open.spotify.com/track/0nWSEbzNG6GN6AaPcLMyFn) | [Asaph](https://open.spotify.com/artist/2t40riPUnb3uogM98mgx3f) | [Oh, the Deep](https://open.spotify.com/album/2wws5SPicpYsnvCPJTB1Ce) | 4:49 | 2020-12-18 | 2022-07-27 |
 | [OH, YOUR GOODNESS!](https://open.spotify.com/track/55ssIBAfttyZyIxbhROXRl) | [Sam&Steff](https://open.spotify.com/artist/5sxcOpP4RaZjYhaiwmPnWZ) | [OH, YOUR GOODNESS!](https://open.spotify.com/album/4ipfRLb4GhL2XahDcsWBKS) | 4:01 | 2023-04-07 | 2023-04-21 |
@@ -276,6 +276,7 @@
 | [Stubborn](https://open.spotify.com/track/4viix5zX6bHoWWXxqcTWbw) | [Jet Trouble](https://open.spotify.com/artist/6W2lyFO79SNpk3ZpF0A2s9) | [Stubborn](https://open.spotify.com/album/0wrVj7iCicqkOUrFMJVJRA) | 2:12 | 2023-02-24 | 2023-04-09 |
 | [Sunday Morning](https://open.spotify.com/track/35aovZPaOOtLtQe0f72XSg) | [Tyson Motsenbocker](https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u) | [Sunday Morning](https://open.spotify.com/album/0T0f5qOeqV1oAbsQF6X6SY) | 4:59 | 2020-12-18 | 2023-02-19 |
 | [Sunflowers](https://open.spotify.com/track/3OPqM7GGmM8vDjcySRncV3) | [Kurtis Hoppie](https://open.spotify.com/artist/2eR1Z2cyHOS4gFgA2GbRl8), [Vito OT](https://open.spotify.com/artist/3Rt9X66ZP43DP6Lxh9MhQ1), [Spencer Boliou](https://open.spotify.com/artist/4gh6kaoKHlhriLY2HJ2QLx) | [Sunflowers](https://open.spotify.com/album/7EjRh7xBeXvsChw183XoZT) | 2:58 | 2023-02-19 |  |
+| [SUNSHINE](https://open.spotify.com/track/1Q6GO5Uq4DbfWAtMGTlnm4) | [Jacob Stanifer](https://open.spotify.com/artist/6vOLg94b2uu3742kkSkRBl) | [SUNSHINE](https://open.spotify.com/album/0D6Y4LUu13t6XLiLv87opR) | 3:07 | 2023-04-21 |  |
 | [Surrounded](https://open.spotify.com/track/060RZ3PLJSvIxuxIhFv5gA) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [Surrounded](https://open.spotify.com/album/3nN8aSgpM6zDKZEd4Wu7zs) | 3:03 | 2023-03-10 |  |
 | [Sweet Water](https://open.spotify.com/track/4hKM2qMuzJksWGyJcOyiAK) | [Beach Chapel](https://open.spotify.com/artist/0xDQejb43c7yJ5nfCA7jv5) | [Sweet Water](https://open.spotify.com/album/05T3jbSK1BqRRvSU5q0P9Q) | 4:09 | 2020-12-18 | 2023-02-19 |
 | [Sweeter](https://open.spotify.com/track/5JhK3XsKHNrfejHmonKTto) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG) | [Sweeter](https://open.spotify.com/album/43y1ttbhckLH6AV9i8oR0q) | 3:36 | 2023-02-19 |  |
@@ -339,7 +340,7 @@
 | [Wounded Healer](https://open.spotify.com/track/4YsShNqQca2l7F0ycSpZXi) | [Laura Hackett Park](https://open.spotify.com/artist/6ScYoRIa2PsNj7YZd030BV) | [Wounded Healer](https://open.spotify.com/album/0mdmYWwRjrZwnN6kWlVwFx) | 2:59 | 2023-02-19 | 2023-04-22 |
 | [Wrong](https://open.spotify.com/track/3V0xcq6HiLRuZZMuFiAAgY) | [Jordan Brown](https://open.spotify.com/artist/1WoLpIruMrKzcV8GUgM9dN) | [Wrong](https://open.spotify.com/album/4MdOCxbtM3GdC7eClrvV85) | 5:01 | 2020-12-18 | 2023-02-19 |
 | [Yes and Amen](https://open.spotify.com/track/4DgiEJ7Jd1P91E88iswJoX) | [Matthew Zigenis](https://open.spotify.com/artist/6qW8jmrfF8dslzJDELDxdj) | [Everything Is Possible](https://open.spotify.com/album/0u2ivB7R3oDMcA5zfUfeuX) | 4:29 | 2020-12-18 | 2023-02-19 |
-| [Yeshua](https://open.spotify.com/track/2XfiL5W2ZakGuKXuREcT3Q) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [Yeshua](https://open.spotify.com/album/2B5iWGV0ji9uhIxmLGtwli) | 4:03 | 2023-04-07 | 2023-07-17 |
+| [Yeshua](https://open.spotify.com/track/2XfiL5W2ZakGuKXuREcT3Q) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [Yeshua](https://open.spotify.com/album/2B5iWGV0ji9uhIxmLGtwli) | 4:03 | 2023-04-07 |  |
 | [YOU](https://open.spotify.com/track/3ZMh5ZG2KPAyhfzR7C99vj) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [YOU](https://open.spotify.com/album/6VvEgJ1Ji4sTik5Kqdh7dL) | 2:13 | 2023-04-07 |  |
 | [You Are My Country](https://open.spotify.com/track/0JdJ8UhDjZ4n5R8kTXOkYS) | [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [The Field](https://open.spotify.com/album/2QsHmBlrLqbN1MVtZVqHWu) | 2:39 | 2023-02-19 |  |
 | [You Are My Love](https://open.spotify.com/track/2a7DHOlWYlXf9jVkT8LV54) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [You Are My Love](https://open.spotify.com/album/6zfH3FOHE3dDog2yUZRBJx) | 3:23 | 2023-04-21 |  |

@@ -4,7 +4,7 @@
 
 > Only the hottest South African rap from the streets\. Cover: <a href="https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj?si=9LTt1F\_xQKax36ZbiICLsw">Nasty C</a>
 
-564 songs - 1 day 6 hr 54 min
+565 songs - 1 day 6 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [Ixesha](https://open.spotify.com/track/2PrVcYvmRp6vEPWZt4AJxw) | [Khanyisa](https://open.spotify.com/artist/0xjziBiIudUcmZgSMoaz5I), [Thesis ZA](https://open.spotify.com/artist/1WWnGqSNzDgePBza5THZHm) | [Ixesha](https://open.spotify.com/album/5ng75730JiwsV9T9goNGJc) | 5:06 | 2022-03-03 | 2022-03-11 |
 | [Jack](https://open.spotify.com/track/0MydMUtzMjfPI1htepCM6J) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Jack](https://open.spotify.com/album/6wECibFr4zHhkIFLxyNdvx) | 2:22 | 2022-12-12 |  |
 | [Javelin](https://open.spotify.com/track/6bcJBoJLsdvISi6M5c3O79) | [Ofentse](https://open.spotify.com/artist/0hzHRPp0UkdwoSVhWqUWai), [VenomRaps](https://open.spotify.com/artist/3SAqo6Io8ovagEFHDcsxMC), [Thekidsnextdoor](https://open.spotify.com/artist/3RShIcV5kdBbcpH1XN5im0) | [Javelin](https://open.spotify.com/album/2IVWmWqvOi89ICkMc1kzxF) | 2:58 | 2022-06-27 | 2022-10-15 |
+| [Jokers](https://open.spotify.com/track/5Vx33ZfYmSl9HHqk5xKwpt) | [Mass The Difference](https://open.spotify.com/artist/0r9ER4ar9ptZGOGkjqGcpv) | [Casino Baby](https://open.spotify.com/album/1UDJ8c4NebJW5yPLN3GU0o) | 3:39 | 2023-07-21 |  |
 | [Jonny Dang](https://open.spotify.com/track/5KtLrhWflTtmahBdirg2V8) | [Lucasraps](https://open.spotify.com/artist/4MakWUvM6GZhwTKsTA6AAT) | [031 To The World](https://open.spotify.com/album/42B0ywOKjPe803XKxQFgQt) | 1:49 | 2021-10-07 | 2022-02-18 |
 | [JUGGULAR](https://open.spotify.com/track/2aP7OGD545XqSmGKbezDgl) | [Champagne69](https://open.spotify.com/artist/2z3fTUhcN27CUFmD2vDY4u) | [WAVES NEVER DIE](https://open.spotify.com/album/4fIpd7Ct0PeRCUqym2KCKL) | 3:06 | 2022-03-17 | 2022-04-01 |
 | [Just Too Easy](https://open.spotify.com/track/31VI1feF89YfGe29U7ddGU) | [Adek](https://open.spotify.com/artist/0Hj66j3cU6P0I0xwcEgtDv) | [Just Too Easy](https://open.spotify.com/album/4eh9dnaEIf6JFeUx4VrGTm) | 2:24 | 2022-02-10 | 2022-03-18 |
@@ -300,7 +301,7 @@
 | [Mdogish \(feat\. Tman Xpress\)](https://open.spotify.com/track/0z5cFZnRNF4w7EHPuKd5oF) | [Yanga Chief](https://open.spotify.com/artist/30WlMKuvwN6RrMeLARZeqk), [Tman Xpress](https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx) | [Mdogish \(feat\. Tman Xpress\)](https://open.spotify.com/album/71w86Wn0EYsdiSDFqrh0kr) | 4:36 | 2021-12-09 | 2022-02-18 |
 | [MEANTIME](https://open.spotify.com/track/7FI8jHU5ADUVBfDobSNKAB) | [Cosmic Way](https://open.spotify.com/artist/1ASXcFgpcTJE6gzK3lXpC1) | [MEANTIME](https://open.spotify.com/album/3KCdxY3o7UV74zZ1g7fzXi) | 2:11 | 2022-03-24 | 2022-04-15 |
 | [Menzi Ngubane](https://open.spotify.com/track/4fozcNnXw2dJX5v45Z8vfO) | [Gigi Lamayne](https://open.spotify.com/artist/3405LTbL2jP8J0gVQK3087), [Lady Du](https://open.spotify.com/artist/1eQJUHJRurFXGd3j8i8W4x), [Robot Boii](https://open.spotify.com/artist/66MEUwWMZWL1PlTEHx8Grp), [Ntosh Gazi](https://open.spotify.com/artist/1PVQZbVl2qjnSDoHF1PzQY), [Mustbedubz](https://open.spotify.com/artist/5mgakxehZfMH23hQRLcy9p) | [Menzi Ngubane](https://open.spotify.com/album/1SqxmLAIWyVm6KEBLoXnjb) | 4:27 | 2023-07-07 | 2023-07-14 |
-| [MIDDLE MAN](https://open.spotify.com/track/5sNSrrroWxzVO6jPHxtrBQ) | [Shonn Willow](https://open.spotify.com/artist/0VHGAaY1hbVpcrUhR5AZZx), [PatricKxxLee](https://open.spotify.com/artist/5iFdCQifoUkuVGsZLTsNHP) | [MIDDLE MAN](https://open.spotify.com/album/6LGyEwOYDCnkEgWdnFo0J3) | 2:22 | 2023-07-07 |  |
+| [MIDDLE MAN](https://open.spotify.com/track/5sNSrrroWxzVO6jPHxtrBQ) | [Shonn Willow](https://open.spotify.com/artist/0VHGAaY1hbVpcrUhR5AZZx), [PatricKxxLee](https://open.spotify.com/artist/5iFdCQifoUkuVGsZLTsNHP) | [MIDDLE MAN](https://open.spotify.com/album/6LGyEwOYDCnkEgWdnFo0J3) | 2:22 | 2023-07-07 | 2023-07-22 |
 | [Milli](https://open.spotify.com/track/1aZDZjXRiAScYxLT9ZaRMI) | [Tebogo Wa Pitori](https://open.spotify.com/artist/4fmXw46U61bjoK3AL2xw9y) | [Novelist Of Distinction](https://open.spotify.com/album/2Ef7S0utz4z51W8NhwVUfn) | 2:44 | 2022-09-09 | 2022-12-13 |
 | [Mina](https://open.spotify.com/track/1BqHLSv9P46QdTPkIXXHfH) | [Asvnte](https://open.spotify.com/artist/5bnvlUiyUv5RF53DDjrstn), [031CHOPPA](https://open.spotify.com/artist/5CqbErFqBV89u0gqQfH3ks) | [Mina](https://open.spotify.com/album/3QaokFDl2sY97YpYHXOXSs) | 2:48 | 2022-10-14 | 2022-12-13 |
 | [Mina Nawe \- Remix](https://open.spotify.com/track/2Oe1MRnU4kZNnXHGBSJOwK) | [Zādok](https://open.spotify.com/artist/72wC9dzKpqHCdw8fQwYpea), [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop), [Ayanda Jiya](https://open.spotify.com/artist/3fHajGrVzPPPfrsY6OJ3Nl) | [Mina Nawe \(Remix\)](https://open.spotify.com/album/6jZYguacY2luk3Q50A3rCo) | 4:03 | 2022-03-03 | 2022-03-18 |

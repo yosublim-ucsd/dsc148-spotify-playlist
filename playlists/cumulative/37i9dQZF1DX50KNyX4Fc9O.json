@@ -2411,6 +2411,28 @@
     },
     {
       "album": {
+        "name": "Ordinary Girl",
+        "url": "https://open.spotify.com/album/4ihF0Au6FTBrJtJjVrVKUE"
+      },
+      "artists": [
+        {
+          "name": "Mason & Julez",
+          "url": "https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB"
+        },
+        {
+          "name": "Chantel",
+          "url": "https://open.spotify.com/artist/3qZ9DxnCiqZ0WPrypZFhkx"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179368,
+      "name": "Ordinary Girl",
+      "url": "https://open.spotify.com/track/3PstsCDCVAdTaPUauGS1fR"
+    },
+    {
+      "album": {
         "name": "Weatherman",
         "url": "https://open.spotify.com/album/1ZffRASy91eeruaNOasuJ4"
       },

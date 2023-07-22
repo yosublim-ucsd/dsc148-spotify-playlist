@@ -181,6 +181,32 @@
     },
     {
       "album": {
+        "name": "Endless Summer (From \"ZOMBIES: The Re-Animated Series Shorts\")",
+        "url": "https://open.spotify.com/album/2HMw6NdRGnh4z0fNpz6Xy9"
+      },
+      "artists": [
+        {
+          "name": "Meg Donnelly",
+          "url": "https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6"
+        },
+        {
+          "name": "Milo Manheim",
+          "url": "https://open.spotify.com/artist/3Pkn59A7kZmnBHp7HBUcz5"
+        },
+        {
+          "name": "ZOMBIES \u2013 Cast",
+          "url": "https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149495,
+      "name": "Endless Summer - From \"ZOMBIES: The Re-Animated Series Shorts\"",
+      "url": "https://open.spotify.com/track/7rrp6pOMU08ZT9pnYZMzZt"
+    },
+    {
+      "album": {
         "name": "ZOMBIES 3 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4utT7N3IehsJfbtUhNDaeF"
       },

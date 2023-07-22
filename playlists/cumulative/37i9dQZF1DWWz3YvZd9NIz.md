@@ -4,7 +4,7 @@
 
 > The best remixes of popular tracks!
 
-136 songs - 6 hr 51 min
+137 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Axel F \- Hardstyle Version](https://open.spotify.com/track/1C1LUNAqsWNFPCO72KGZNp) | [TCM](https://open.spotify.com/artist/26JDxOz4FrVBX1AquFCzdp) | [Axel F \(Hardstyle Version\)](https://open.spotify.com/album/3s0sRHXF2NM37B2bs236qG) | 2:33 | 2022-12-05 | 2023-01-27 |
 | [Bad Boys \- Harddance Mix](https://open.spotify.com/track/6EZsJ6KkOPQtSqWKw0KsGF) | [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT), [Shinzo](https://open.spotify.com/artist/0Cl1Gi1A6irb7VDzJOxIgv) | [Bad Boys \(Harddance Mix\)](https://open.spotify.com/album/2zzWnVDrpUWehyFWdYXtqc) | 2:53 | 2023-02-02 | 2023-04-14 |
 | [Bad Habits](https://open.spotify.com/track/7JLHaZFkxdOlq4Fzkc6pxh) | [MELON](https://open.spotify.com/artist/12nEr6QOfSKkiTXjEp8tBB), [Hardstyle Fruits Music](https://open.spotify.com/artist/5EkNG5Mzk2KopyyxAdNHJ8) | [Bad Habits](https://open.spotify.com/album/4VNyPO6EhBSKg83IMLchl3) | 3:07 | 2023-04-13 | 2023-05-12 |
-| [Bailando](https://open.spotify.com/track/37DUuymoNwvzuxmlsIeUEB) | [Loona](https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF), [TESFY](https://open.spotify.com/artist/2ElvCuSMCZ357wrmbDvz2C), [DJ Sammy](https://open.spotify.com/artist/4z4m1P0iX2nRSPDBEZ8LBT) | [Bailando](https://open.spotify.com/album/55D7V1U0QxSauay1loyOsS) | 2:40 | 2023-06-29 |  |
+| [Bailando](https://open.spotify.com/track/37DUuymoNwvzuxmlsIeUEB) | [Loona](https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF), [TESFY](https://open.spotify.com/artist/2ElvCuSMCZ357wrmbDvz2C), [DJ Sammy](https://open.spotify.com/artist/4z4m1P0iX2nRSPDBEZ8LBT) | [Bailando](https://open.spotify.com/album/55D7V1U0QxSauay1loyOsS) | 2:40 | 2023-06-29 | 2023-07-22 |
 | [Because The Night](https://open.spotify.com/track/6T4pigGxYcBBOi6q4pdTDl) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC) | [The Crystal Winter](https://open.spotify.com/album/6RKwh1MPxsUNALmCeLTVwj) | 3:21 | 2022-12-05 | 2023-01-13 |
 | [Believer](https://open.spotify.com/track/1P1s5YNLlNuCoDHzCMYRAm) | [Gammer](https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY) | [Believer](https://open.spotify.com/album/5mMboiKqmM2zFrAjX65pRv) | 3:33 | 2022-12-05 | 2023-06-16 |
 | [Bella Ciao](https://open.spotify.com/track/0aSdsoufzNzGKFkRTkBYzM) | [Gunz For Hire](https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW) | [Bella Ciao](https://open.spotify.com/album/1l2IEJRSiiM8dyo9bzMYDY) | 3:18 | 2022-12-05 | 2023-02-17 |
@@ -88,6 +88,7 @@
 | [Maniac](https://open.spotify.com/track/5TQZ9gl4c5WLP5RWx6kkr6) | [Dr Phunk](https://open.spotify.com/artist/1naX4fxuRaDFlj9tGfIUZk), [Da Rick](https://open.spotify.com/artist/7H7x1AnDoiPSwiEOXZP6Ls) | [Maniac](https://open.spotify.com/album/39IKOXzpy4tr6KwcVTsIOD) | 3:12 | 2022-12-05 | 2022-12-29 |
 | [Mariachi](https://open.spotify.com/track/2ZVtTaUteed56SesdREtsd) | [Vaskan](https://open.spotify.com/artist/6HMkNrKr3yzi4K16zRHVZn), [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg) | [Mariachi](https://open.spotify.com/album/0hSOqDjjVATkv1SgOKxsV0) | 2:28 | 2023-01-26 |  |
 | [Middle Of The Night](https://open.spotify.com/track/6xUlEWtTKrkyxUxO7nPVYq) | [Dom Livez](https://open.spotify.com/artist/1ON8OYB3qf2Yafnqt1ZStP) | [Middle Of The Night](https://open.spotify.com/album/2poXFyU38a94TRDrzL7jgx) | 2:34 | 2022-12-05 |  |
+| [Miracle](https://open.spotify.com/track/0cdR2RfFyCknWBh7ghM8RU) | [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp) | [Miracle](https://open.spotify.com/album/4YK343jFNgtXS9jISVqImF) | 3:25 | 2023-07-21 |  |
 | [Mirrors \(Hardstyle\)](https://open.spotify.com/track/3yqNYyOKbdonNvDMsydfqx) | [PXSEIDON](https://open.spotify.com/artist/0WOk6PeJIAZDHrB2U06TOw) | [Mirrors \(Hardstyle\)](https://open.spotify.com/album/4qYmzS3WbXmy1EHjbd4TGU) | 1:56 | 2023-02-02 | 2023-05-23 |
 | [Mirrors \(Hardstyle\)](https://open.spotify.com/track/512iVeSpSMzPWsorQgYopk) | [PXSEIDON](https://open.spotify.com/artist/0WOk6PeJIAZDHrB2U06TOw) | [Mirrors \(Hardstyle\)](https://open.spotify.com/album/0f7JldDsTZugn7KtXJ4VEe) | 1:56 | 2023-05-31 |  |
 | [Miss You \- Remix](https://open.spotify.com/track/10seI1aWbosvrnlA9Cidhc) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg), [Dionysus](https://open.spotify.com/artist/7olPZFkqjZyoBY6Jxase3b) | [Miss You \(Remix\)](https://open.spotify.com/album/2O54fayUeFzRLbPOrndaFy) | 2:51 | 2022-12-22 |  |

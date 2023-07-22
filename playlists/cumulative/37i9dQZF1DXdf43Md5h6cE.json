@@ -1241,6 +1241,24 @@
     },
     {
       "album": {
+        "name": "Luminosity",
+        "url": "https://open.spotify.com/album/2OrA9ivt5bPKHqc8Yrq3tf"
+      },
+      "artists": [
+        {
+          "name": "Atmospheric Lights",
+          "url": "https://open.spotify.com/artist/65IYpN2ZX0vQzO3JRCpNHX"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "Luminosity",
+      "url": "https://open.spotify.com/track/1PVLc2tNYxxrgyHI2s4FM6"
+    },
+    {
+      "album": {
         "name": "Hours",
         "url": "https://open.spotify.com/album/7bmYYxOYRSN6TIiMZoxYjj"
       },
@@ -1440,6 +1458,24 @@
       "duration_ms": 162000,
       "name": "Night Atmospheres",
       "url": "https://open.spotify.com/track/4A8XgsY1Jc0DhlkQdCFvPm"
+    },
+    {
+      "album": {
+        "name": "Night Sky",
+        "url": "https://open.spotify.com/album/0e3T7Hwdpz5OTa28mEH7ap"
+      },
+      "artists": [
+        {
+          "name": "Applefish",
+          "url": "https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240712,
+      "name": "Night Sky",
+      "url": "https://open.spotify.com/track/4FhLGiI2XMhfVFuritSDuC"
     },
     {
       "album": {

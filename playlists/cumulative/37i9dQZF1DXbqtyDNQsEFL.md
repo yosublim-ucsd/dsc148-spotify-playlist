@@ -4,7 +4,7 @@
 
 > Gospel songs to get you in the spirit\. Whether you are happy or need company to feel better, this is the right one!
 
-172 songs - 20 hr 4 min
+173 songs - 20 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,7 +113,7 @@
 | [Nothing](https://open.spotify.com/track/60rpliVuJYG8Nn851YgCuX) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Nothing](https://open.spotify.com/album/1Jzcc7CoqBP54KjoiRCB8h) | 3:36 | 2023-06-02 |  |
 | [Now I See](https://open.spotify.com/track/0G0KrOjEhoBrcOCvFSCpn0) | [MUNACHi4u](https://open.spotify.com/artist/6xOOLSoOB6VI4n6X5pexao), [Mr\. DDavid](https://open.spotify.com/artist/7KIz93vDXB1hM19nB5vEvC) | [Now I See](https://open.spotify.com/album/5c3xz82NykD7mtk1lIVvu9) | 3:11 | 2023-05-26 | 2023-07-18 |
 | [Ns3nkyer3ne Nhyankopon](https://open.spotify.com/track/1NUrAQUTJiWnylKKVQQzoJ) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [I Believe](https://open.spotify.com/album/2c8wWhCqIkrZLiNwix2PUv) | 6:43 | 2022-06-09 | 2023-04-06 |
-| [Nsenkyerene Nyankopon \(Live\)](https://open.spotify.com/track/3qT1KUF5kuZAv8O7ulaRog) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Nsenkyerene Nyankopon \(Live\)](https://open.spotify.com/album/04JurPL7FdUajwYUG7pRI1) | 7:44 | 2022-06-09 |  |
+| [Nsenkyerene Nyankopon \(Live\)](https://open.spotify.com/track/3qT1KUF5kuZAv8O7ulaRog) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Nsenkyerene Nyankopon \(Live\)](https://open.spotify.com/album/04JurPL7FdUajwYUG7pRI1) | 7:44 | 2022-06-09 | 2023-07-22 |
 | [O De \(He's Here\)](https://open.spotify.com/track/6rkjS1nefV5SMIZOLD9I5D) | [HHPG](https://open.spotify.com/artist/2aoTlgNAkhR2yHzNvfC1pM), [Tobi Walker](https://open.spotify.com/artist/5lWnHXLsUJDZ9gfcvovpxW), [BUKOLA BEKES](https://open.spotify.com/artist/2dNXRI4NkBERMYl4x5dcxR), [Uwana Etuk](https://open.spotify.com/artist/1vUtm6BcZuvgWqlhCUF2M3) | [O De \(He's Here\)](https://open.spotify.com/album/102OKbemB8VGg6OGjBRAba) | 4:21 | 2022-10-14 | 2022-11-05 |
 | [Obinigwe](https://open.spotify.com/track/1zyQByOXDyQlFYzqTuax5l) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [To Yahweh's Delight](https://open.spotify.com/album/779P4ZNqRzXiiw2sIRTXva) | 9:12 | 2022-06-09 |  |
 | [Obinigwe](https://open.spotify.com/track/5RvkS0NNUkOoYnDK6xf8xt) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Obinigwe](https://open.spotify.com/album/71H5Wwi06SnNDDJG2XnVoF) | 9:12 | 2022-06-09 | 2022-11-13 |
@@ -180,5 +180,6 @@
 | [Your Majesty \- Live](https://open.spotify.com/track/72Ze5s3QOwK6g7r0qULokJ) | [Muyiwa & Riversongz](https://open.spotify.com/artist/0j0eDOSdzbQlUElJdDY5Qb) | [Declaring His Power \(Live\)](https://open.spotify.com/album/596i9Wa4ivexgbqFh0qiaw) | 5:17 | 2022-06-09 | 2023-03-31 |
 | [Your Name](https://open.spotify.com/track/50OdYCrgXjemzCDZ110bQn) | [M'ViTim](https://open.spotify.com/artist/5Yfi09XNJW2XCdbFZZhLMO), [GRACELYNE](https://open.spotify.com/artist/2moloLNsTmL1NPphDdgIsS) | [Your Name](https://open.spotify.com/album/2LxSXk05DNpcYZfJzBF1y3) | 8:26 | 2022-06-09 | 2022-12-29 |
 | [Your Presence](https://open.spotify.com/track/6aqzwVVsawK5WSmlqleua4) | [Israel Odebode](https://open.spotify.com/artist/5OI7lbxEo6Aful1qsoBlnk), [JayMikee](https://open.spotify.com/artist/1If5luzGOiRqMAlwPchSS2) | [Your Presence](https://open.spotify.com/album/4jvUvzmRzwUWu74HtHYrLW) | 8:55 | 2022-10-14 | 2022-11-05 |
+| [Zoe](https://open.spotify.com/track/4hKMY8nO1JocNWLFJmb9zS) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [More Than Music \(Transcendent Worship\)](https://open.spotify.com/album/6WDklyokogcK9ZZqcFEJeg) | 8:33 | 2023-06-16 |  |
 
 \*This playlist was first scraped on 2022-10-01. Prior content cannot be recovered.

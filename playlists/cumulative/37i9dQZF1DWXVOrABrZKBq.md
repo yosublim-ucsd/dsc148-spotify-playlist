@@ -2,7 +2,7 @@
 
 ### [Connexion Rap](https://open.spotify.com/playlist/37i9dQZF1DWXVOrABrZKBq)
 
-> Le rap francophone est en forme\. Photo: Ninho
+> Le rap francophone est en forme\. Photo: Loud, Ya Cetidon
 
 83 songs - 4 hr 21 min
 

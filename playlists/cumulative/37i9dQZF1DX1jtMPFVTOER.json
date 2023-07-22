@@ -5420,7 +5420,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 142000,
       "name": "Man Invisible",
       "url": "https://open.spotify.com/track/0AMfoVsFl0tR9wgEzlJWBf"
@@ -8573,6 +8573,36 @@
     },
     {
       "album": {
+        "name": "The Chase (Strings Attached)",
+        "url": "https://open.spotify.com/album/64HcsqawVw1JLDCB9nTHEa"
+      },
+      "artists": [
+        {
+          "name": "Michael Leonhart",
+          "url": "https://open.spotify.com/artist/0mChXKL4LlV2jiSBTn97j3"
+        },
+        {
+          "name": "JSWISS",
+          "url": "https://open.spotify.com/artist/4Gvi0aCKhLNHWzHnhvV1e4"
+        },
+        {
+          "name": "Keyon Harrold",
+          "url": "https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA"
+        },
+        {
+          "name": "DJ Logic",
+          "url": "https://open.spotify.com/artist/75GlHUh2Mr5IthCCRptIQV"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266776,
+      "name": "The Chase (Strings Attached)",
+      "url": "https://open.spotify.com/track/52f2ccR0PPgZPRcoRbDK1K"
+    },
+    {
+      "album": {
         "name": "The Creator Has a Master Plan Part II",
         "url": "https://open.spotify.com/album/4k14NUrZFIzbKBj07BSdDk"
       },
@@ -9689,6 +9719,24 @@
     },
     {
       "album": {
+        "name": "When I Close My Eyes",
+        "url": "https://open.spotify.com/album/1AT90cAQhj74ZTF0kXuxvI"
+      },
+      "artists": [
+        {
+          "name": "Ferris",
+          "url": "https://open.spotify.com/artist/0kxKR9utzILx97Vjj6bA4r"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177800,
+      "name": "When I Close My Eyes",
+      "url": "https://open.spotify.com/track/7mBOLmvSFKkELJvI7CJpgi"
+    },
+    {
+      "album": {
         "name": "Brown Sugar",
         "url": "https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4"
       },
@@ -9916,7 +9964,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 240000,
       "name": "Wipelash",
       "url": "https://open.spotify.com/track/2rPLS6L5yaZRRacvZyXETq"

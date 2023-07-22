@@ -1889,6 +1889,24 @@
     },
     {
       "album": {
+        "name": "Samadhi",
+        "url": "https://open.spotify.com/album/7h1IDbqzA8gS3vv5FgLPjy"
+      },
+      "artists": [
+        {
+          "name": "Aitana Bay\u00e1",
+          "url": "https://open.spotify.com/artist/0RLYYYs6bcyvH5eqzbKHq2"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144333,
+      "name": "Samadhi",
+      "url": "https://open.spotify.com/track/5Y6ViOdg0C8ZOxNk6TnGyL"
+    },
+    {
+      "album": {
         "name": "Samsara",
         "url": "https://open.spotify.com/album/0RmyzpADBheUrCS5xtufQM"
       },

@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-351 songs - 1 day 8 hr 35 min
+352 songs - 1 day 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,7 @@
 | [It's Always You](https://open.spotify.com/track/6w4GCn9Tg8iJLUZlN3fxB7) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker My Ideal](https://open.spotify.com/album/2rdeJjByPHjFzKgMXg3JwC) | 3:31 | 2020-05-02\* | 2021-09-01 |
 | [January](https://open.spotify.com/track/3bPNIOqP9KeWX0Z6SpM4qC) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [January](https://open.spotify.com/album/5nizuls1o8fJQ0S5xR3WZM) | 8:38 | 2020-05-02\* | 2022-07-26 |
 | [January](https://open.spotify.com/track/6O84d53YeV1buAGecAxoRA) | [Marcin Wasilewski Trio](https://open.spotify.com/artist/2UGL8QDKTSVXMqZqQR8DRL) | [January](https://open.spotify.com/album/0uZt1xe1sLvt4ZAOLHj3fY) | 8:38 | 2022-09-08 |  |
-| [Just Go Ahead](https://open.spotify.com/track/6nbKLj4siHi1hc3YuFqauA) | [Federica Lorusso](https://open.spotify.com/artist/1JOPMuWBt9w57vIPKeJLsJ) | [Outside Introspections](https://open.spotify.com/album/0tCjmwUji1atshYWrDXBZf) | 5:09 | 2023-01-05 |  |
+| [Just Go Ahead](https://open.spotify.com/track/6nbKLj4siHi1hc3YuFqauA) | [Federica Lorusso](https://open.spotify.com/artist/1JOPMuWBt9w57vIPKeJLsJ) | [Outside Introspections](https://open.spotify.com/album/0tCjmwUji1atshYWrDXBZf) | 5:09 | 2023-01-05 | 2023-07-22 |
 | [Kandaiki](https://open.spotify.com/track/3jzerzfM8lLFej7MAry7qG) | [Mammal Hands](https://open.spotify.com/artist/497rp5TEzJffeBnUT0BeE1) | [Animalia](https://open.spotify.com/album/4y83vqVrHDM6ZVK9oyOjhG) | 5:15 | 2020-05-11 | 2021-08-19 |
 | [Khmer](https://open.spotify.com/track/5VXs7VjhKyExWRE9pAFagq) | [Nils Petter Molvær](https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc) | [Khmer](https://open.spotify.com/album/76Z70kaNILhjzrf0wC0RB6) | 4:59 | 2020-06-12 | 2021-05-28 |
 | [Kiss From A Rose](https://open.spotify.com/track/72vt5HsXp8V9R6Xu3CABi1) | [Julia Hülsmann Trio](https://open.spotify.com/artist/5v4UR5BS8T0DNSPCPYqfcG) | [The End Of A Summer](https://open.spotify.com/album/7cyyk6fFk21dJwK2m8nItZ) | 4:05 | 2020-05-02\* | 2021-05-28 |
@@ -335,6 +335,7 @@
 | [Virgo](https://open.spotify.com/track/57RPnIuMTteFVLc4oEjCXw) | [Thomas Hass](https://open.spotify.com/artist/4FJQT7ITqdruBkz52CdPcw), [Thomas Blachman](https://open.spotify.com/artist/2HJEk3ULU54nb5csZV35Aw), [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph), [Artur Tuźnik](https://open.spotify.com/artist/1apdsV8bwjcK5I9Ifqbl5k) | [Virgo](https://open.spotify.com/album/3T0FYXLhtSJoHAywJLwphU) | 5:58 | 2022-04-28 |  |
 | [Voyageur](https://open.spotify.com/track/032TdyRKD7KcYvpdw8mx4u) | [Flash Pig](https://open.spotify.com/artist/4Y4kajp5iogqKMfKnN5sj4) | [Le plus longtemps possible](https://open.spotify.com/album/6oFRYToccdph6cswkqZ9Y8) | 3:28 | 2022-06-02 |  |
 | [Vær sterk, min sjel](https://open.spotify.com/track/13lBg6iGg4yqLccgLNriTy) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Opening](https://open.spotify.com/album/5i1LH4nSX9Vwm3C037k4Q7) | 3:03 | 2022-04-07 |  |
+| [Wall](https://open.spotify.com/track/0g4Cc7PPAJmCwpdwv1bw6a) | [Richard Andersson](https://open.spotify.com/artist/7gUUsqJ2B9OBcmlcisjscK), [Óskar Guðjónsson](https://open.spotify.com/artist/3ngZoLWB98itd0iXhKtl9N), [Hilmar Jensson](https://open.spotify.com/artist/37X7xED7KUb9gHjqbh8PJy), [Matthias Hemstock](https://open.spotify.com/artist/6NiwLnm8sGjwVbbHFPHqGU) | [Wall](https://open.spotify.com/album/6zIThZOKiiFFhMTfhPNoQ9) | 4:59 | 2023-07-19 |  |
 | [What Are You Doing for the Rest of Your Life](https://open.spotify.com/track/3DhFy161BJDOR5KcvtSmY7) | [Matthias Bublath](https://open.spotify.com/artist/3us680mKjIt756UpyYnqbV) | [Orange Sea](https://open.spotify.com/album/6Dvj8ssB0RIknMIQ5Fe0YM) | 6:09 | 2022-09-29 |  |
 | [When October Goes \- Live](https://open.spotify.com/track/51H9eZYkK0tMAlySURutTJ) | [Harry Allen](https://open.spotify.com/artist/7HEPzI1k3SXs2lJ3EixmjR), [Martin Sasse](https://open.spotify.com/artist/4jmwrOP4JG1b5s7Jfzj5gT) | [Live At Bird's Eye](https://open.spotify.com/album/1HtSvdXnsTdiBaUtMjiWsH) | 5:19 | 2022-11-24 |  |
 | [When Sunny Gets Blue](https://open.spotify.com/track/01HQIKjcODJCBRFoETqngE) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [Today And Tomorrow](https://open.spotify.com/album/3wegWHg2NXUnWlOPwaqzUm) | 4:42 | 2020-05-02\* | 2022-07-29 |

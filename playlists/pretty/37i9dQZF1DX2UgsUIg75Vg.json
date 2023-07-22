@@ -1,36 +1,28 @@
 {
-  "description": "Chilled R&B jams for your most relaxed moods. Cover: Robert Glasper",
-  "num_followers": 2345042,
+  "description": "Chilled R&B jams for your most relaxed moods. Cover: Kiana Led\u00e9",
+  "num_followers": 2345303,
   "original_name": "Chilled R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTQ0NzRmNTJiZWQzMzMzZWViODc3MzBiMDVmM2M3ZjhmOWJjMDNm",
+  "snapshot_id": "MCwxNzAzNGE5YmQzYjBjYTRmYThmZWM0MjIyYmI4YWU5OGNmNjM0Mjdl",
   "tracks": [
     {
-      "added_at": "2023-07-14 04:54:12",
+      "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Back To Love [Feat. SiR & Alex Isley]",
-        "url": "https://open.spotify.com/album/0MZOBJmTVwcxhlAkVmuhN7"
+        "name": "Be My Summer",
+        "url": "https://open.spotify.com/album/1WStqZEbgRsqUNazxV7u9C"
       },
       "artists": [
         {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "SiR",
-          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
-        },
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+          "name": "Snoh Aalegra",
+          "url": "https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X"
         }
       ],
-      "duration_ms": 201773,
-      "name": "Back To Love [Feat. SiR & Alex Isley]",
-      "url": "https://open.spotify.com/track/5Szrve8Y2ly9uxZupBIwgg"
+      "duration_ms": 186540,
+      "name": "Be My Summer",
+      "url": "https://open.spotify.com/track/18QC5FsQ9FThInUrC6BScS"
     },
     {
       "added_at": "2023-06-30 04:00:44",
@@ -65,20 +57,60 @@
       "url": "https://open.spotify.com/track/2Q2VlgK3KJcuZJUCyX5miq"
     },
     {
-      "added_at": "2023-06-30 04:00:44",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/2k5NXdSqKdDcAFFPzTouet"
+        "name": "Familiar",
+        "url": "https://open.spotify.com/album/2KkYkgjuWAVaUTLB0RFeGP"
       },
       "artists": [
         {
-          "name": "Kenyon Dixon",
-          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+          "name": "Lekan",
+          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
         }
       ],
-      "duration_ms": 216986,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/4HDsNTcpprSDjtO9nK31yb"
+      "duration_ms": 190474,
+      "name": "Familiar",
+      "url": "https://open.spotify.com/track/0QWbZNc1mW8k9Alpl6AnSL"
+    },
+    {
+      "added_at": "2023-07-14 04:54:12",
+      "album": {
+        "name": "Back To Love [Feat. SiR & Alex Isley]",
+        "url": "https://open.spotify.com/album/0MZOBJmTVwcxhlAkVmuhN7"
+      },
+      "artists": [
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "SiR",
+          "url": "https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx"
+        },
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        }
+      ],
+      "duration_ms": 201773,
+      "name": "Back To Love [Feat. SiR & Alex Isley]",
+      "url": "https://open.spotify.com/track/5Szrve8Y2ly9uxZupBIwgg"
+    },
+    {
+      "added_at": "2023-06-16 04:33:15",
+      "album": {
+        "name": "Grudges",
+        "url": "https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        }
+      ],
+      "duration_ms": 150447,
+      "name": "Same Type",
+      "url": "https://open.spotify.com/track/5ZWbzxXxywmBQI0eHDUmLV"
     },
     {
       "added_at": "2023-06-16 04:33:15",
@@ -297,6 +329,22 @@
       "url": "https://open.spotify.com/track/0puWG0IhM981IsC1hd2640"
     },
     {
+      "added_at": "2023-06-30 04:00:44",
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/2k5NXdSqKdDcAFFPzTouet"
+      },
+      "artists": [
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        }
+      ],
+      "duration_ms": 216986,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/4HDsNTcpprSDjtO9nK31yb"
+    },
+    {
       "added_at": "2023-06-23 04:00:00",
       "album": {
         "name": "To This Day",
@@ -437,6 +485,22 @@
       "url": "https://open.spotify.com/track/10OmeI0uRJArozB5QpnQke"
     },
     {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Heart Parts & Nostalgia (Deluxe)",
+        "url": "https://open.spotify.com/album/0RVEXmsKakZ5OtjHan6gr4"
+      },
+      "artists": [
+        {
+          "name": "Azanti",
+          "url": "https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl"
+        }
+      ],
+      "duration_ms": 181236,
+      "name": "All Season",
+      "url": "https://open.spotify.com/track/7hVfUOOAX3elHzdDfjQVHD"
+    },
+    {
       "added_at": "2023-06-16 04:33:15",
       "album": {
         "name": "Too Good",
@@ -573,6 +637,22 @@
       "url": "https://open.spotify.com/track/2zKsGLytwZOY5WKEZ1ARAk"
     },
     {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Future Me",
+        "url": "https://open.spotify.com/album/1zjjokPLYzJJh9aDpNV2jh"
+      },
+      "artists": [
+        {
+          "name": "Hailey Knox",
+          "url": "https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH"
+        }
+      ],
+      "duration_ms": 217730,
+      "name": "Future Me",
+      "url": "https://open.spotify.com/track/3t8gCMwtYKkg99sPdKq7F4"
+    },
+    {
       "added_at": "2023-06-23 04:00:00",
       "album": {
         "name": "Conditions",
@@ -607,22 +687,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Words of Affirmation",
-        "url": "https://open.spotify.com/album/4A6aWWPzVnNEjqm29C93A7"
-      },
-      "artists": [
-        {
-          "name": "Queen Naija",
-          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
-        }
-      ],
-      "duration_ms": 186095,
-      "name": "Words of Affirmation",
-      "url": "https://open.spotify.com/track/4TeklWa1VJeKwDThRho8vy"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Like Her Too",
         "url": "https://open.spotify.com/album/2fw7ZZewq0CRvqwmoTmjIe"
       },
@@ -639,22 +703,6 @@
       "duration_ms": 177533,
       "name": "Like Her Too",
       "url": "https://open.spotify.com/track/1Nxx1LHMLKxC6yGaZjpPO5"
-    },
-    {
-      "added_at": "2023-06-16 04:33:15",
-      "album": {
-        "name": "Grudges",
-        "url": "https://open.spotify.com/album/7LjBbLFOHLzCsOlxYpFqU2"
-      },
-      "artists": [
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        }
-      ],
-      "duration_ms": 150447,
-      "name": "Same Type",
-      "url": "https://open.spotify.com/track/5ZWbzxXxywmBQI0eHDUmLV"
     },
     {
       "added_at": "2023-07-14 04:54:12",
@@ -967,30 +1015,6 @@
       "duration_ms": 141666,
       "name": "Don't Pretend - Acoustic",
       "url": "https://open.spotify.com/track/2sWL4tq39W5EMdC0ItdPTy"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Fetish",
-        "url": "https://open.spotify.com/album/6NJ7xeYsfNmfNTYvL1gm5N"
-      },
-      "artists": [
-        {
-          "name": "Josef Lamercier",
-          "url": "https://open.spotify.com/artist/3T7YH8Lq7GMkrYLiWvaXgc"
-        },
-        {
-          "name": "Niko Oroc",
-          "url": "https://open.spotify.com/artist/0hyAc4uL2daH73ehuYDLac"
-        },
-        {
-          "name": "PHABO",
-          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
-        }
-      ],
-      "duration_ms": 182608,
-      "name": "Fetish",
-      "url": "https://open.spotify.com/track/5pfAGCLi2iva1TkooCFlPv"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1589,22 +1613,6 @@
       "url": "https://open.spotify.com/track/2mI4R8Mafb3y6I1gytvkDe"
     },
     {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "Familiar",
-        "url": "https://open.spotify.com/album/2KkYkgjuWAVaUTLB0RFeGP"
-      },
-      "artists": [
-        {
-          "name": "Lekan",
-          "url": "https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv"
-        }
-      ],
-      "duration_ms": 190474,
-      "name": "Familiar",
-      "url": "https://open.spotify.com/track/0QWbZNc1mW8k9Alpl6AnSL"
-    },
-    {
       "added_at": "2023-05-12 04:36:41",
       "album": {
         "name": "No Love Without You",
@@ -1759,26 +1767,6 @@
       "duration_ms": 132374,
       "name": "cool_v2",
       "url": "https://open.spotify.com/track/5KxudlMFpmglXBDeYHxUhm"
-    },
-    {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Line Of Fire",
-        "url": "https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 255000,
-      "name": "Line Of Fire",
-      "url": "https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj"
     },
     {
       "added_at": "2023-03-24 04:00:00",

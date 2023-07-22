@@ -4,7 +4,7 @@
 
 > Calm your mind with gentle piano and ambient music.
 
-361 songs - 17 hr 49 min
+362 songs - 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [embrace](https://open.spotify.com/track/0gRNSWEe6X27ggYGdqDT2r) | [Kamryn Freeman](https://open.spotify.com/artist/3lYG90sfnbaiSjyDw9VBgK) | [embrace](https://open.spotify.com/album/5sBLS60gxd755ADriVkJRp) | 3:22 | 2021-12-17 |  |
 | [Enough](https://open.spotify.com/track/11UZcELqU0dAiNLD3MboDh) | [Rizzolo](https://open.spotify.com/artist/5b9r8wJcTcjRrOECClHYkO) | [Enough](https://open.spotify.com/album/54INztVhPtcP07CYx9dwfo) | 2:05 | 2022-12-02 |  |
 | [Enúna](https://open.spotify.com/track/4YnBnr9owZndTD3zmR5Whp) | [Hema](https://open.spotify.com/artist/0RAYCVLRp2O9D8prY8XPFc) | [Glow](https://open.spotify.com/album/1jqB0XXEL4UEtkgEuyzL8e) | 2:28 | 2022-11-11 |  |
-| [Etheral Beauty](https://open.spotify.com/track/5q2kDGsW09g8BClGCuYrdT) | [Degravitated](https://open.spotify.com/artist/5X78BhxOkF4gr6Q0WD1CoY) | [Etheral Beauty](https://open.spotify.com/album/1MCwQTjLo7m25Z0w5Irsup) | 3:25 | 2021-12-17 |  |
+| [Etheral Beauty](https://open.spotify.com/track/5q2kDGsW09g8BClGCuYrdT) | [Degravitated](https://open.spotify.com/artist/5X78BhxOkF4gr6Q0WD1CoY) | [Etheral Beauty](https://open.spotify.com/album/1MCwQTjLo7m25Z0w5Irsup) | 3:25 | 2021-12-17 | 2023-07-22 |
 | [Ethereal](https://open.spotify.com/track/1E8X81mDNXxPlzIWGdwFmg) | [Joanna Neriah](https://open.spotify.com/artist/2GKwdKtX1WZUQxSnYa41wm) | [Ethereal](https://open.spotify.com/album/523R7wBcTOKZrtqyLrAxm0) | 3:46 | 2021-12-17 |  |
 | [Ethereal](https://open.spotify.com/track/0e3Pzob0dTYuUoZTs4iwpr) | [Threedust](https://open.spotify.com/artist/6340hzyqmfpcSbPZLFC1Gf), [Concept15](https://open.spotify.com/artist/4wZuWc5z66z9KM6Idhgpa3) | [Ethereal](https://open.spotify.com/album/4hEYjwAULY6jI7LoNkfRxI) | 2:32 | 2021-12-17 |  |
 | [Ethereal Sleep](https://open.spotify.com/track/7HTqClPkU89EhgJi2CO3G5) | [Solvekin](https://open.spotify.com/artist/6vz9kIJB249V5DbMMH0WZA) | [Ethereal Sleep](https://open.spotify.com/album/3e0UCZ7yJFghUOoAgojhoX) | 2:04 | 2022-02-01 |  |
@@ -188,6 +188,7 @@
 | [Lentamente](https://open.spotify.com/track/7lzG0n5zhfZGT6oTnXXcv7) | [Scintillante](https://open.spotify.com/artist/0WRfsMbE1OBngUdyCgizs8) | [Lentamente](https://open.spotify.com/album/3Cb94Wwvnm6xk2QNvfjf3i) | 3:37 | 2021-12-17 |  |
 | [Leuchten](https://open.spotify.com/track/4KNuwSHlzgZIRuT9Ur1JCZ) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Leuchten](https://open.spotify.com/album/6fLtePVdyqmM4WrnC85p9j) | 2:42 | 2022-04-21 |  |
 | [Liam's Bedtime](https://open.spotify.com/track/3RN4U3wH5as6kHirawI4Du) | [Sarah Barber](https://open.spotify.com/artist/1bZl8bahX1H0yyMCMpCbos) | [Liam's Bedtime](https://open.spotify.com/album/79S6tlSo0zcVDq0aMPC1f8) | 2:54 | 2021-12-17 | 2023-07-14 |
+| [Lifelong](https://open.spotify.com/track/1eK5rsIOExVcjGeTJEAfIB) | [Latehours](https://open.spotify.com/artist/7g9Ji74yqIp0P3vKMzrXwM) | [Lifelong](https://open.spotify.com/album/0yL1wSD9UMd4sfd2uCfiHO) | 2:52 | 2023-07-21 |  |
 | [Light of The Moon](https://open.spotify.com/track/0TkOLQj4kru49NI1N27pFr) | [Naturally Recurring](https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF) | [Light of The Moon](https://open.spotify.com/album/6ZZDP2jaqUAS54oJUjZ9jV) | 3:46 | 2021-12-17 | 2022-11-12 |
 | [Lindo](https://open.spotify.com/track/5mQiIVDbSB9kps6DDU9wZN) | [Nicoló Lorenzo](https://open.spotify.com/artist/01xttXNtYB50iJNkglJgXt) | [Pluma](https://open.spotify.com/album/6kHqqHaFNvBO40HUSyVyba) | 2:53 | 2023-05-26 |  |
 | [Linea Degli Alberi](https://open.spotify.com/track/7pSiVCrdIbpIvn8oNH3XPY) | [Giulia De Serio](https://open.spotify.com/artist/51lfmojViPJ0XrAghn70IC) | [Linea Degli Alberi](https://open.spotify.com/album/4fFXVfJEGlld0nASf5kGHr) | 3:56 | 2021-12-17 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Rock unplugged. ",
-  "num_followers": 317208,
+  "num_followers": 317336,
   "original_name": "Stripped Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YjBmMjk0ZDgwNDUzMDUxNDRhZDE0ZjcxOWM0MGQ1ZjZmNDU5NDBm",
+  "snapshot_id": "MCw2M2I3YTNjYWI3OWE4YjM1YjYxNDFlMzI0ODhlNjk2MWNhZDUzNjY5",
   "tracks": [
     {
       "added_at": "2023-05-19 04:01:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
+        "name": "A Thousand Suns",
+        "url": "https://open.spotify.com/album/113yjuFZEqkkbuLi4sEBxo"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 181893,
+      "name": "The Messenger",
+      "url": "https://open.spotify.com/track/45CFyww2OsnABfrBg6FzRY"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
         "name": "Same Kind Of Different",
         "url": "https://open.spotify.com/album/0xm7ZjtMsPLjqjIP39H8bt"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 206824,
       "name": "Against The Wall - Acoustic Version",
       "url": "https://open.spotify.com/track/7iHpX7m9owsqawBy008yvF"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
-        "name": "A Thousand Suns",
-        "url": "https://open.spotify.com/album/113yjuFZEqkkbuLi4sEBxo"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 181893,
-      "name": "The Messenger",
-      "url": "https://open.spotify.com/track/45CFyww2OsnABfrBg6FzRY"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "Complete Collapse (Acoustic)",
-        "url": "https://open.spotify.com/album/2mHENK3IjJu3gfbXwjxA64"
-      },
-      "artists": [
-        {
-          "name": "Sleeping With Sirens",
-          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
-        }
-      ],
-      "duration_ms": 184426,
-      "name": "Complete Collapse - Acoustic",
-      "url": "https://open.spotify.com/track/0OIky9LZNVaUp4GakW7777"
-    },
-    {
-      "added_at": "2023-05-19 04:01:00",
-      "album": {
         "name": "Across A Wire (Live In New York)",
         "url": "https://open.spotify.com/album/1tqB9q7YnXgWekLtO6wggy"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 317333,
       "name": "Mr. Jones - Live At Chelsea Studios, New York/1997",
       "url": "https://open.spotify.com/track/0waRf9ctHjM169N6rWtKx1"
+    },
+    {
+      "added_at": "2023-05-19 04:01:00",
+      "album": {
+        "name": "Complete Collapse (Acoustic)",
+        "url": "https://open.spotify.com/album/2mHENK3IjJu3gfbXwjxA64"
+      },
+      "artists": [
+        {
+          "name": "Sleeping With Sirens",
+          "url": "https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA"
+        }
+      ],
+      "duration_ms": 184426,
+      "name": "Complete Collapse - Acoustic",
+      "url": "https://open.spotify.com/track/0OIky9LZNVaUp4GakW7777"
     },
     {
       "added_at": "2023-05-19 04:01:00",
@@ -807,18 +807,18 @@
     {
       "added_at": "2023-05-19 04:01:00",
       "album": {
-        "name": "go",
-        "url": "https://open.spotify.com/album/7kfEzYbNFBdVvaN4jeNox5"
+        "name": "Love Sux (Deluxe)",
+        "url": "https://open.spotify.com/album/6RmbogR9qpWasS4ZNa7cuK"
       },
       "artists": [
         {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
         }
       ],
-      "duration_ms": 198400,
-      "name": "Elderly Woman Behind the Counter in a Small Town - Acoustic Version",
-      "url": "https://open.spotify.com/track/4vTMqyyH2X6Te9BWrgmLIp"
+      "duration_ms": 189003,
+      "name": "Bite Me - Acoustic",
+      "url": "https://open.spotify.com/track/0tooLMhjLCJ4Cmb8cDdraJ"
     }
   ],
   "unique_name": "Stripped Down",

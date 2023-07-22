@@ -1,12 +1,12 @@
 {
   "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Ronisia",
-  "num_followers": 152960,
+  "num_followers": 153149,
   "original_name": "R&Bae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYzBmMjYwNzg0MjM0NzhkYTRiNTFkNTY1MDU4YTQ0YjIxNGQxNmVm",
+  "snapshot_id": "MCxmNDRjNDFmYzMxM2U3MTA0ZWU4ZjkyNjEwNWYzOTQ1OTliNTc3OWEz",
   "tracks": [
     {
       "added_at": "2023-07-20 22:00:00",
@@ -182,6 +182,10 @@
         {
           "name": "Scridge",
           "url": "https://open.spotify.com/artist/6fYEeLBc96CguiLq9FPBQU"
+        },
+        {
+          "name": "Isleym",
+          "url": "https://open.spotify.com/artist/3vw5HmeFoWnWYhcOpB8INb"
         }
       ],
       "duration_ms": 207307,

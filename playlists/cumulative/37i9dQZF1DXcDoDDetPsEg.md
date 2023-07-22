@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeat playlist.
 
-657 songs - 1 day 9 hr 22 min
+658 songs - 1 day 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,6 +315,7 @@
 | [Just Coz](https://open.spotify.com/track/1vThiuxP3lAHp85Q9qO8E5) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip) | [Just Coz](https://open.spotify.com/album/1LZzgEgmuOh5fhpCb2oUWy) | 3:16 | 2022-04-29 | 2022-06-18 |
 | [Just Eat \(feat\. Country Dons & SL\)](https://open.spotify.com/track/5csDOVdTylKK8GopMuCQIe) | [GRM Daily](https://open.spotify.com/artist/4PCeJ2EIn3YtzYYRsHHWyy), [Country Dons](https://open.spotify.com/artist/76IdLCK81jcB44BTCgR7Vx), [SL](https://open.spotify.com/artist/0wY1K9SgxbaRfoFRmSR5x5) | [Just Eat \(feat\. Country Dons & SL\)](https://open.spotify.com/album/50Nqgs4jIisRmTVxVGElsL) | 3:34 | 2022-05-27 | 2022-06-10 |
 | [Just Fine \(feat\. Kiana Ledé\)](https://open.spotify.com/track/4810VYLNArmiy9ftC7yhzV) | [Kitty Ca$h](https://open.spotify.com/artist/1WcZXhILKBJktTKnqfjWMT), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Just Fine \(feat\. Kiana Ledé\)](https://open.spotify.com/album/39v3mxqGMJSk4VACEvENAc) | 2:51 | 2022-03-08 | 2022-03-09 |
+| [K\-POP](https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [K\-POP](https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb) | 3:05 | 2023-07-21 |  |
 | [Keep Up](https://open.spotify.com/track/2KppGJWFFgBPXxTGyrgekE) | [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7) | [Keep Up](https://open.spotify.com/album/3UxfXGVV1BeRnhMRlFakrz) | 2:36 | 2022-08-23 | 2022-08-31 |
 | [Khabib](https://open.spotify.com/track/194U52vElkbmFe8QTefrgw) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Khabib](https://open.spotify.com/album/3v6aq6iIqFXgAubGncj9Ce) | 3:21 | 2022-02-25 | 2022-03-25 |
 | [Khalifa](https://open.spotify.com/track/66VWTMXzPaNPM6wACITUKO) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [Khalifa](https://open.spotify.com/album/20g4BGKtJMCz5kERJ1rCzD) | 3:23 | 2022-04-21 | 2022-05-28 |

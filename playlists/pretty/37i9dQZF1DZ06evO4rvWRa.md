@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 
 > This is Alan Walker\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,638,561 likes - 51 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,638,719 likes - 51 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 50 | [Faded \- Tiesto's Northern Lights Remix](https://open.spotify.com/track/7MDobIiZKLbDDibHDA1fl8) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Faded \(Remixes\)](https://open.spotify.com/album/1iyzvyJg2grVy8cMdRSL08) | 4:10 |
 | 51 | [Time \- Alan Walker Remix](https://open.spotify.com/track/5H9S7RaxxSAgY77Mb0CSPz) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Time \(Alan Walker Remix\)](https://open.spotify.com/album/6Enr9Ghbsfd3Gs9QLrj612) | 2:30 |
 
-Snapshot ID: `MjgxNjQzMDgsMDAwMDAwMDBmOGM5M2M5ODQ4ZjUyZjE5MDM3ZGMwYzAwYTFiMDY4Mg==`
+Snapshot ID: `MjgxNjU3NzcsMDAwMDAwMDA5ZGUzMjk0NDgyNzQ0ZTM3YmFkMWNmNjgwMGE2NDkwMQ==`

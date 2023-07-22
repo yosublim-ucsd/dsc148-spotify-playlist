@@ -2,9 +2,9 @@
 
 ### [ECHO : Tabla Rhythms](https://open.spotify.com/playlist/37i9dQZF1DX83Qd1EZ6qTs)
 
-> Ease out and balance your energies with the rhythmic sounds of the Tabla, from Indian maestros & modern geniuses.<br/>Cover : Anuradha Pal
+> Ease out and balance your energies with the rhythmic Tabla sounds, from Indian maestros & modern geniuses\. Cover : Anuradha Pal
 
-47 songs - 4 hr 19 min
+48 songs - 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,10 +13,11 @@
 | [Balinese Fantasy \(feat\. Dana Pandey, Mickey Hart, Syed Arshad, Vince Delgado, Aushim Chaudhuri & Anthony Hindson\)](https://open.spotify.com/track/4gX8zohTKh60fGL3jZgxHV) | [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6), [Dana Pandey](https://open.spotify.com/artist/6ZNiKkCIGJqrJIkcyWGyiB), [Mickey Hart](https://open.spotify.com/artist/4eh3NWjKDBI81nFl9uhWtU), [Syed Arshad](https://open.spotify.com/artist/5133gOOsLNGTDEdRBf8OvJ), [Vince Delgado](https://open.spotify.com/artist/30iufXAcbiAyoV3CgunYNg), [Aushim Chaudhuri](https://open.spotify.com/artist/6eHtMIbxdeGtNFVQuPVXk8), [Anthony Hindson](https://open.spotify.com/artist/4SxNRoFulwosvUXRmsBPQs) | [The Sound of Indian Tabla](https://open.spotify.com/album/35NMssJRLtZZ89CA2PQwrU) | 3:52 | 2023-06-20 |  |
 | [Bless The Rains In India](https://open.spotify.com/track/57cmpxG9ZVzVRyrK7HXaoE) | [Goa Gubhar](https://open.spotify.com/artist/6wcKtx6vCZVkuSjR4a7UaB) | [Bless The Rains In India](https://open.spotify.com/album/7ztQjntjsQwv8BnmwH2SqU) | 2:12 | 2023-06-25 |  |
 | [Blue Curry](https://open.spotify.com/track/1H9o3KJZSNhJURgywmZwkS) | [Bhangra Beats](https://open.spotify.com/artist/2BozhfzPEFME4tBKO8PSjv) | [Blue Curry](https://open.spotify.com/album/3KeLxy9vd1vB3N0IRvLqmt) | 2:32 | 2023-06-25 |  |
-| [Cloud 9](https://open.spotify.com/track/6Md9w2RDK3EhZCWetowEih) | [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Recharge Plus](https://open.spotify.com/album/2waR7Z2Qr4orET07iN0HPK) | 7:59 | 2023-06-20 |  |
+| [Cloud 9](https://open.spotify.com/track/6Md9w2RDK3EhZCWetowEih) | [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Recharge Plus](https://open.spotify.com/album/2waR7Z2Qr4orET07iN0HPK) | 7:59 | 2023-06-20 | 2023-07-22 |
 | [Cool Tabla](https://open.spotify.com/track/0cmMW0IFIidorlM2KN1iRG) | [Downing And Mayer](https://open.spotify.com/artist/0dL8zlZTSHT5M4TPVMRO9V) | [Traditional Indian Music](https://open.spotify.com/album/4G68NOYmVqfFeivPLyIbfJ) | 3:47 | 2023-06-20 |  |
 | [Drut Teentaal \(Tabla solo\)](https://open.spotify.com/track/3lduWcXFj4zjMVsSlL4qdd) | [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Taaleem](https://open.spotify.com/album/3mjbUgpIzaDUbT3uTGFARj) | 9:30 | 2023-06-20 |  |
 | [Earth Kingdom](https://open.spotify.com/track/3t5fjhDsIRJ6x15Tzg9mDc) | [Nagawa Meditation](https://open.spotify.com/artist/5YkvkEVx0z1r9HQ3mMTCQQ) | [Tabla Yoga Healing](https://open.spotify.com/album/1X0MXAy0e7W7lIvv4CJeBB) | 3:25 | 2023-06-20 |  |
+| [Ecstasy](https://open.spotify.com/track/3cpUVxVvbZ42OhVC7MF07h) | [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Get Recharged!!!](https://open.spotify.com/album/7uAdx4T1tcIpMMSDFSiwdL) | 6:48 | 2023-07-19 |  |
 | [Happy Dance](https://open.spotify.com/track/4zBFZioNYT5O1jnkq5eILg) | [Swarupa Ananth](https://open.spotify.com/artist/29RyBMursO97PbeLmPF3Qb) | [Recomeçar](https://open.spotify.com/album/62gA8TSuoUyiT1Hj5uoN51) | 3:02 | 2023-06-20 |  |
 | [Heartbeat \- Hindolam \- Taal Vadya Kacheri in Aditala](https://open.spotify.com/track/38HbEPHhFRPfxF0lhQnsb8) | [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT), [Latha Ramachar](https://open.spotify.com/artist/3bSLWyTN0Z2OyERTWrQ7xs), [Sukanya Ramgopal](https://open.spotify.com/artist/3r9MZSoBYfVqoWQOrwhCsY) | [Passion](https://open.spotify.com/album/2jHrpUu5dwfzHHuxFvPM03) | 11:59 | 2023-06-20 |  |
 | [Indian Ethnic Tabla Sitar Drums](https://open.spotify.com/track/5pqZlpmPHlQudN0WE4Gy2E) | [Sandeep Khurana](https://open.spotify.com/artist/4KO6U4WNDEW0RjzQL7VuRj) | [Royalty Free Music For Films & TV \- Vol\. 2](https://open.spotify.com/album/7oKb2WESaZxsAHpH2VPMKq) | 0:51 | 2023-06-20 |  |

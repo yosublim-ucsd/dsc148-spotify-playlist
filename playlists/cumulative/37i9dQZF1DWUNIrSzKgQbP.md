@@ -4,7 +4,7 @@
 
 > Sweet songs for sunny days.
 
-548 songs - 1 day 10 hr 17 min
+549 songs - 1 day 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,6 +392,7 @@
 | [Saving Us a Riot](https://open.spotify.com/track/1jpMsR7pZ56267QsvCOhci) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [Volition](https://open.spotify.com/album/5o5VHNjnZ5E5fb5cuoRzBZ) | 4:17 | 2021-12-20 | 2022-03-22 |
 | [Scott Street](https://open.spotify.com/track/6Uwi2Qk3H7fM4b4W4ExrAp) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 5:05 | 2023-03-15 | 2023-06-22 |
 | [Sea Of Love](https://open.spotify.com/track/3ASn2iE7F4HvA8XyRbJ4tS) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Sea Of Love](https://open.spotify.com/album/4YUMtMthxfpapIqkk2caJg) | 3:23 | 2023-03-15 | 2023-06-22 |
+| [Searching For Freedom \(Friends Edition\)](https://open.spotify.com/track/01qj7yPVba9ZzVlAG6c6BX) | [Emily Brimlow](https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj), [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Searching For Freedom \(Friends Edition\)](https://open.spotify.com/album/7riWXyZLVwGPkyfSaYPSNO) | 3:49 | 2023-07-21 |  |
 | [Seasonal](https://open.spotify.com/track/0BJb4OVe9kefDb8mhu5iOR) | [Ailbhe Reddy](https://open.spotify.com/artist/1YQiMR5M12HJ28hkJz7qnn) | [Hollowed out Sea](https://open.spotify.com/album/6eiWuJTeAfTTlD6jpd766A) | 3:29 | 2022-06-07 | 2022-09-07 |
 | [Settle Down \- Acoustic](https://open.spotify.com/track/5TSt0yJteAUApb7X3u5PJl) | [Woodlock](https://open.spotify.com/artist/1slZr3FGlh153jH8xW6SNa) | [Settle Down \(Acoustic\)](https://open.spotify.com/album/5OjTRJfuvGGbl5TDbMAVQ0) | 2:45 | 2022-09-06 | 2022-12-21 |
 | [Shadow Bloom](https://open.spotify.com/track/0itvbqb82mfjGDzt7CbyAW) | [Florist](https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr) | [Celebration](https://open.spotify.com/album/4wrez0RypQEvfS5qkc7ezd) | 3:40 | 2021-12-20 | 2022-03-22 |

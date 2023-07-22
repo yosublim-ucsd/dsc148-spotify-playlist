@@ -1,12 +1,12 @@
 {
   "description": "Funk - new and old - to accompany your drive.",
-  "num_followers": 49935,
+  "num_followers": 49961,
   "original_name": "Funk Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGRlY2Y1OTYzMTVjZTc2MjA3Mzk0YTFhNzdhNTRlNjAwYzI2ZTk3",
+  "snapshot_id": "MCwyOTlmOGFjZTdlZGNjYzk1ZmRhMTc1ZWYwNWI0MjEyODkzZjg3NTIy",
   "tracks": [
     {
       "added_at": "2019-08-22 14:26:16",
@@ -107,22 +107,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Funkentelechy Vs. The Placebo Syndrome",
-        "url": "https://open.spotify.com/album/7Kv0H0XMdIyRs41a6USzrd"
-      },
-      "artists": [
-        {
-          "name": "Parliament",
-          "url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH"
-        }
-      ],
-      "duration_ms": 346666,
-      "name": "Flash Light",
-      "url": "https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "In The Right Place",
         "url": "https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 175240,
       "name": "Right Place Wrong Time",
       "url": "https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Funkentelechy Vs. The Placebo Syndrome",
+        "url": "https://open.spotify.com/album/7Kv0H0XMdIyRs41a6USzrd"
+      },
+      "artists": [
+        {
+          "name": "Parliament",
+          "url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH"
+        }
+      ],
+      "duration_ms": 346666,
+      "name": "Flash Light",
+      "url": "https://open.spotify.com/track/1v1PV2wERHiMPesMWX0qmO"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -187,22 +187,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Mothership Connection",
-        "url": "https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2"
-      },
-      "artists": [
-        {
-          "name": "Parliament",
-          "url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH"
-        }
-      ],
-      "duration_ms": 348066,
-      "name": "Give Up The Funk (Tear The Roof Off The Sucker)",
-      "url": "https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Motherlode",
         "url": "https://open.spotify.com/album/3PMLP2hPq76MY9XKAgUC8f"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 124565,
       "name": "Ace of Aces",
       "url": "https://open.spotify.com/track/1SlkhRMOEJp97Ho0BaIOkj"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Mothership Connection",
+        "url": "https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2"
+      },
+      "artists": [
+        {
+          "name": "Parliament",
+          "url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH"
+        }
+      ],
+      "duration_ms": 348066,
+      "name": "Give Up The Funk (Tear The Roof Off The Sucker)",
+      "url": "https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1097,6 +1097,22 @@
       "url": "https://open.spotify.com/track/5xP9clzYBKZ6F3u2VZUaBJ"
     },
     {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Birth Day",
+        "url": "https://open.spotify.com/album/0M3myHr9PVkY1SzbjWFDS3"
+      },
+      "artists": [
+        {
+          "name": "The New Birth",
+          "url": "https://open.spotify.com/artist/34Bm9d5DAJjSnaI02BCjdA"
+        }
+      ],
+      "duration_ms": 383746,
+      "name": "I Can Understand It",
+      "url": "https://open.spotify.com/track/65x1aCYMTLRNitjuWzWjL8"
+    },
+    {
       "added_at": "2019-09-20 18:17:51",
       "album": {
         "name": "Shake It",
@@ -1115,22 +1131,6 @@
       "duration_ms": 177080,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/1apfl27W9ell44IcK6Wb1t"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Birth Day",
-        "url": "https://open.spotify.com/album/0M3myHr9PVkY1SzbjWFDS3"
-      },
-      "artists": [
-        {
-          "name": "The New Birth",
-          "url": "https://open.spotify.com/artist/34Bm9d5DAJjSnaI02BCjdA"
-        }
-      ],
-      "duration_ms": 383746,
-      "name": "I Can Understand It",
-      "url": "https://open.spotify.com/track/65x1aCYMTLRNitjuWzWjL8"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Breaks from the Border",
-        "url": "https://open.spotify.com/album/1ZwpOB2GRebtyEZgUjsjhH"
-      },
-      "artists": [
-        {
-          "name": "The New Mastersounds",
-          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
-        }
-      ],
-      "duration_ms": 191160,
-      "name": "Take What You Need",
-      "url": "https://open.spotify.com/track/6M9pnJ05Bdwv4jqfQS67YE"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Dirty Word",
         "url": "https://open.spotify.com/album/79Wa68FKzsDAJp4GJdbreF"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 249973,
       "name": "Dancin' To The Truth",
       "url": "https://open.spotify.com/track/0Y5QEWwXP3awk97M830OBo"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Breaks from the Border",
+        "url": "https://open.spotify.com/album/1ZwpOB2GRebtyEZgUjsjhH"
+      },
+      "artists": [
+        {
+          "name": "The New Mastersounds",
+          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
+        }
+      ],
+      "duration_ms": 191160,
+      "name": "Take What You Need",
+      "url": "https://open.spotify.com/track/6M9pnJ05Bdwv4jqfQS67YE"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1315,38 +1315,6 @@
       "duration_ms": 200190,
       "name": "Shake Your Money",
       "url": "https://open.spotify.com/track/6EpT9STInmudS2JOVd9f1S"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Dirty Word",
-        "url": "https://open.spotify.com/album/79Wa68FKzsDAJp4GJdbreF"
-      },
-      "artists": [
-        {
-          "name": "Dumpstaphunk",
-          "url": "https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC"
-        },
-        {
-          "name": "Grooveline Horns",
-          "url": "https://open.spotify.com/artist/5KhWcpf9kE1qqoT9e8S743"
-        },
-        {
-          "name": "Reggie Watkins",
-          "url": "https://open.spotify.com/artist/14Ou42tZvSnt2LaFXiMp3z"
-        },
-        {
-          "name": "carlos sosa",
-          "url": "https://open.spotify.com/artist/4FnOfgH6FgYXOLzbhok5eL"
-        },
-        {
-          "name": "Fernanco Castillo",
-          "url": "https://open.spotify.com/artist/6FBJesby0YNelqeM4Y4xSV"
-        }
-      ],
-      "duration_ms": 273880,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/5zo7avEFmAXh1Xh0lorTw0"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1423,6 +1391,38 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
+        "name": "Dirty Word",
+        "url": "https://open.spotify.com/album/79Wa68FKzsDAJp4GJdbreF"
+      },
+      "artists": [
+        {
+          "name": "Dumpstaphunk",
+          "url": "https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC"
+        },
+        {
+          "name": "Grooveline Horns",
+          "url": "https://open.spotify.com/artist/5KhWcpf9kE1qqoT9e8S743"
+        },
+        {
+          "name": "Reggie Watkins",
+          "url": "https://open.spotify.com/artist/14Ou42tZvSnt2LaFXiMp3z"
+        },
+        {
+          "name": "carlos sosa",
+          "url": "https://open.spotify.com/artist/4FnOfgH6FgYXOLzbhok5eL"
+        },
+        {
+          "name": "Fernanco Castillo",
+          "url": "https://open.spotify.com/artist/6FBJesby0YNelqeM4Y4xSV"
+        }
+      ],
+      "duration_ms": 273880,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5zo7avEFmAXh1Xh0lorTw0"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
         "name": "Funk!",
         "url": "https://open.spotify.com/album/3dZcuCcy9AfEvmvlUvsUwf"
       },
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Circle",
-        "url": "https://open.spotify.com/album/5Vo5j4UDMxrxvrM5shPoAl"
-      },
-      "artists": [
-        {
-          "name": "Electro Deluxe",
-          "url": "https://open.spotify.com/artist/10eFnQAKDDg8V25LEVvhpH"
-        }
-      ],
-      "duration_ms": 271054,
-      "name": "Liar",
-      "url": "https://open.spotify.com/track/3lMcxADyU7bEM8y0ktXHJB"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Jukestone Paradise",
         "url": "https://open.spotify.com/album/7iffpPqDJH74f03Eu6HZ2y"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 242840,
       "name": "Body Party",
       "url": "https://open.spotify.com/track/5H8ClXF0WMHASLLmqMyuLq"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Circle",
+        "url": "https://open.spotify.com/album/5Vo5j4UDMxrxvrM5shPoAl"
+      },
+      "artists": [
+        {
+          "name": "Electro Deluxe",
+          "url": "https://open.spotify.com/artist/10eFnQAKDDg8V25LEVvhpH"
+        }
+      ],
+      "duration_ms": 271054,
+      "name": "Liar",
+      "url": "https://open.spotify.com/track/3lMcxADyU7bEM8y0ktXHJB"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1491,6 +1491,22 @@
       "duration_ms": 332661,
       "name": "Miss Mess",
       "url": "https://open.spotify.com/track/47agFZSo5O4c6ZEJfgfH8k"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Afterlife Vol. 2 - EP",
+        "url": "https://open.spotify.com/album/6fYiUXcG04ykfJcT9X75Al"
+      },
+      "artists": [
+        {
+          "name": "Turkuaz",
+          "url": "https://open.spotify.com/artist/699X8OLj9lpNg8rqFdQsA7"
+        }
+      ],
+      "duration_ms": 226345,
+      "name": "Mister Man",
+      "url": "https://open.spotify.com/track/2eoDZsvrMKU7Hh9qZhkpsD"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1527,22 +1543,6 @@
       "duration_ms": 216800,
       "name": "I'm Your Biggest Fan",
       "url": "https://open.spotify.com/track/4IThPVciaEpF0h8rIs1QnV"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
-        "name": "Afterlife Vol. 2 - EP",
-        "url": "https://open.spotify.com/album/6fYiUXcG04ykfJcT9X75Al"
-      },
-      "artists": [
-        {
-          "name": "Turkuaz",
-          "url": "https://open.spotify.com/artist/699X8OLj9lpNg8rqFdQsA7"
-        }
-      ],
-      "duration_ms": 226345,
-      "name": "Mister Man",
-      "url": "https://open.spotify.com/track/2eoDZsvrMKU7Hh9qZhkpsD"
     },
     {
       "added_at": "2019-08-22 14:26:16",
@@ -1667,26 +1667,6 @@
     {
       "added_at": "2019-08-22 14:26:16",
       "album": {
-        "name": "Lab Experiments, Vol. 2",
-        "url": "https://open.spotify.com/album/6j0BOlgrf1L0rBfI6fqxmA"
-      },
-      "artists": [
-        {
-          "name": "Cookin' On 3 Burners",
-          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
-        },
-        {
-          "name": "Kaiit",
-          "url": "https://open.spotify.com/artist/05GTlMes7SkTlE9JcIvYB2"
-        }
-      ],
-      "duration_ms": 211615,
-      "name": "Warning",
-      "url": "https://open.spotify.com/track/3EQOwmp82jHkPtSUnG3aPn"
-    },
-    {
-      "added_at": "2019-08-22 14:26:16",
-      "album": {
         "name": "Wild",
         "url": "https://open.spotify.com/album/7hKNuqA2bj1BjYDOXMMWGK"
       },
@@ -1703,6 +1683,26 @@
       "duration_ms": 212065,
       "name": "Wild",
       "url": "https://open.spotify.com/track/6WPIx2V0nXS0xJmvJ4X0wh"
+    },
+    {
+      "added_at": "2019-08-22 14:26:16",
+      "album": {
+        "name": "Lab Experiments, Vol. 2",
+        "url": "https://open.spotify.com/album/6j0BOlgrf1L0rBfI6fqxmA"
+      },
+      "artists": [
+        {
+          "name": "Cookin' On 3 Burners",
+          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
+        },
+        {
+          "name": "Kaiit",
+          "url": "https://open.spotify.com/artist/05GTlMes7SkTlE9JcIvYB2"
+        }
+      ],
+      "duration_ms": 211615,
+      "name": "Warning",
+      "url": "https://open.spotify.com/track/3EQOwmp82jHkPtSUnG3aPn"
     },
     {
       "added_at": "2019-09-06 07:01:00",

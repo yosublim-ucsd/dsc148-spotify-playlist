@@ -676,7 +676,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 173311,
       "name": "Come Inside Of My Heart (Sped Up)",
       "url": "https://open.spotify.com/track/1fO083RTFknKJdGUGKE6ZB"
@@ -1331,6 +1331,28 @@
     },
     {
       "album": {
+        "name": "fukumean",
+        "url": "https://open.spotify.com/album/5RHDfyHMN7CyYLc0KOOmKc"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100019,
+      "name": "fukumean (sped up version)",
+      "url": "https://open.spotify.com/track/4YjUP1tr06laO1GSXaQqsJ"
+    },
+    {
+      "album": {
         "name": "Gangsta (Kehlani) [Sped Up Version]",
         "url": "https://open.spotify.com/album/1L1jza2QSImCzOkQq7f5mO"
       },
@@ -1638,10 +1660,28 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 128869,
       "name": "Hotel (Sped Up)",
       "url": "https://open.spotify.com/track/0yQgvvEyDS5xICpMsj6O2k"
+    },
+    {
+      "album": {
+        "name": "Hotel (Sped Up)",
+        "url": "https://open.spotify.com/album/01akfT5JUOIQuI8VSOMG4X"
+      },
+      "artists": [
+        {
+          "name": "Lawsy",
+          "url": "https://open.spotify.com/artist/4KatuTqriDODW9YiAIZD3T"
+        }
+      ],
+      "date_added": "2023-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128869,
+      "name": "Hotel (Sped Up)",
+      "url": "https://open.spotify.com/track/5GDM9tocF2GrY290GOCMFD"
     },
     {
       "album": {
@@ -3217,6 +3257,28 @@
     },
     {
       "album": {
+        "name": "Ole",
+        "url": "https://open.spotify.com/album/1XPnkubgp63M9k5KsrMC7y"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Ole (feat. BNXN)",
+      "url": "https://open.spotify.com/track/1KR2V2DQwUWMrwYOhQ2LLx"
+    },
+    {
+      "album": {
         "name": "One Kiss (Sped Up)",
         "url": "https://open.spotify.com/album/0RJnMCSv4HmIE42Xieb8RR"
       },
@@ -4458,7 +4520,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 132799,
       "name": "universe (sped up)",
       "url": "https://open.spotify.com/track/24kdDAmUUDwElZJ9NClVfP"

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Maira
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,032 likes - 67 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,040 likes - 67 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Tak Semanis Dulu](https://open.spotify.com/track/0BadwcjiLlFYPl04GnwtnL) | [Maira](https://open.spotify.com/artist/5xLBTM9GD1EPECgM7tG0qM) | [Tak Semanis Dulu](https://open.spotify.com/album/7poVuWQWjPhFShrQtx3ITb) | 3:48 |
+| 1 | [Tak Semanis Dulu](https://open.spotify.com/track/0BadwcjiLlFYPl04GnwtnL) | [Maira](https://open.spotify.com/artist/575IqK1Km1I86w0e3OzVAL) | [Tak Semanis Dulu](https://open.spotify.com/album/7poVuWQWjPhFShrQtx3ITb) | 3:48 |
 | 2 | [Akulah Rumahmu](https://open.spotify.com/track/0XNyU0BzNvjCywpp3i9Ej5) | [Faith](https://open.spotify.com/artist/51ChTfIJLjhAf8vd09W35d) | [Akulah Rumahmu](https://open.spotify.com/album/3inHbBdJGMnn0hHqfFaKDj) | 3:50 |
 | 3 | [Kurang Apa](https://open.spotify.com/track/2PqZDGiQj1rlkwXBoS0doa) | [Bintang Gemilau](https://open.spotify.com/artist/13bylBwokgQpNNKdgaOZhP) | [Kurang Apa](https://open.spotify.com/album/575GFwdyAmvKqkMMwGQk9x) | 3:09 |
 | 4 | [Pergi dan Menghilang](https://open.spotify.com/track/4Qk5Q74x6NWlRFpHWOJOK5) | [Uwie Ali](https://open.spotify.com/artist/5qKTyIoklEOlz6yGszIbX7) | [Pergi dan Menghilang](https://open.spotify.com/album/5vhpW8Yj9zvnyGCzVHBJwm) | 3:34 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 66 | [Yakni Cinta](https://open.spotify.com/track/3jiSUxTIVQvaCs4SzTOFzH) | [Yuka Kharisma](https://open.spotify.com/artist/1rIJgdnQuJKKumgG4RQVBB), [Kayda](https://open.spotify.com/artist/7xjgUr0YUei3SqQ3hoGDbe) | [Yakni Cinta](https://open.spotify.com/album/3hxkTrdBssKptZsyJ4ggMi) | 3:32 |
 | 67 | [.38 Loves Me](https://open.spotify.com/track/0JfcCLsoXbDHXzwFrr9eiR) | [Negative Lovers](https://open.spotify.com/artist/4GcpcZ2YjenHppYoFm2nZk) | [Love In The Toilet](https://open.spotify.com/album/6dGNaEERpbqUK5H2FusSDf) | 4:59 |
 
-Snapshot ID: `MCxhMmM4MGJjMGE1ZjhhMDdhZmU0MTI5NmUzZGQ4NjlmN2Y2NTg4YmQ0`
+Snapshot ID: `MCw2ZDIwNWIwYmU5ZjMxOTQ4OGMwOWRjODMwODNjYmU0OGI5Nzg1MGFm`

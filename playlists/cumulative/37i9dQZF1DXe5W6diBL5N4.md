@@ -4,7 +4,7 @@
 
 > Enjoy the freshest K\-Pop new releases \(Cover: JAY\(김진환\)\)
 
-5,955 songs - 14 day 7 hr 46 min
+5,958 songs - 14 day 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -395,6 +395,7 @@
 | [BACK THEN](https://open.spotify.com/track/7pJ7IYCWw89lzU67cExZTv) | [KIM JAE HWAN](https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb) | [Empty Dream](https://open.spotify.com/album/4p7PYX4KE5tzPO5MLaZkFK) | 3:40 | 2022-09-05 | 2022-10-15 |
 | [Back Then \(Feat\. Sue Museum\)](https://open.spotify.com/track/0YQNPNVr02rmCMInKfwRIf) | [JOPH](https://open.spotify.com/artist/3Jn4TDQyolues3v10Ncj7D), [Sue Museum](https://open.spotify.com/artist/1khmDqbxa3nA9hWtPLuHqW) | [Back Then](https://open.spotify.com/album/1ett62oFx82r1y54ZgA4Xy) | 3:04 | 2023-07-02 |  |
 | [Back then we \(Vocal\. 이윤희\)](https://open.spotify.com/track/2X0z5Bmo3QcO8kiBzruyXS) | [05](https://open.spotify.com/artist/4SPSSskc4wAEGlZM9RuxfK) | [Back then we](https://open.spotify.com/album/1EoNIpR1tiHPNIIyW2UOx4) | 3:32 | 2023-02-22 | 2023-03-28 |
+| [Back To Me](https://open.spotify.com/track/4eZpe6SMJQIqAU9VJI84oD) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [Back To Me / Alive](https://open.spotify.com/album/7uAydPIaSI5OmH4e8WY0Eo) | 3:44 | 2023-07-21 |  |
 | [Back To You Again](https://open.spotify.com/track/0eIZRgh7GRSYF0R7Izh9R9) | [Kim Siwon](https://open.spotify.com/artist/2n81IVrBwNFGxXnc8GDWkW) | [Back To You Again](https://open.spotify.com/album/11tNXd0COL8UQm8mwyzK8k) | 2:33 | 2023-04-13 | 2023-05-03 |
 | [Backstage Story](https://open.spotify.com/track/3bLybaAVj2CSDUWMiHykEa) | [오상아](https://open.spotify.com/artist/1J00c4vzJdwmgNAIIjcYQH) | [Backstage Story](https://open.spotify.com/album/6tWaMl4sj53AGpqTwYnA1u) | 3:18 | 2022-06-20 | 2022-07-05 |
 | [backyard \(feat\. zemean\)](https://open.spotify.com/track/3uqttQ4tAQntuYVwvNiXyC) | [문사운드](https://open.spotify.com/artist/6XFlJ4mH8J5sDvKdNDISWa), [zemean](https://open.spotify.com/artist/56tvGLd03FEkw6tPiWM8ql) | [backyard](https://open.spotify.com/album/3b6gh4Xv7ukbdFGixrml6U) | 2:53 | 2022-12-05 | 2022-12-22 |
@@ -999,6 +1000,7 @@
 | [Convey one's feelings](https://open.spotify.com/track/2nmTLVKaTTIOM2eElmBsbV) | [SOONHO](https://open.spotify.com/artist/2UqlLjKZ5xxvBO6tmYMAp4) | [Convey one's feelings](https://open.spotify.com/album/5yMDSynklNUmFbOCZTd78b) | 2:59 | 2022-05-24 | 2022-06-10 |
 | [Cookie](https://open.spotify.com/track/0ISZSbXmJfIMrUsPYDDMWo) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ), [MINSEO](https://open.spotify.com/artist/3qo507hAo0pjRj42AmioUv) | [Cookie](https://open.spotify.com/album/4Ms4QNYRcvdnZH6hZxJsyB) | 3:22 | 2022-07-27 | 2022-08-10 |
 | [Cool Prod\. PEEJAY](https://open.spotify.com/track/6XwWjm2hBIZmhDR6ZMSxoC) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [DEMO](https://open.spotify.com/album/7gIIAdLrq3UMz1tlovnRKf) | 2:09 | 2023-05-30 |  |
+| [Cool With You](https://open.spotify.com/track/02wk5BttM0QL38ERjLPQJB) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:27 | 2023-07-21 |  |
 | [Copycat](https://open.spotify.com/track/3eRXnVROQcJxwzovKyLTnd) | [Apink CHOBOM](https://open.spotify.com/artist/1eDD6vNEyVQXGev7af156d) | [Copycat](https://open.spotify.com/album/0NYssBVyeMwUSRzsIKATIE) | 3:24 | 2022-07-12 | 2022-07-28 |
 | [CopyCat](https://open.spotify.com/track/3EbMd91PfP0SFddKqvQyS1) | [CityNoise](https://open.spotify.com/artist/1Y6jHh8246AsjJtfQ3nD4v) | [CopyCat](https://open.spotify.com/album/2nw6RnFcQtFl4g0gGQAvRS) | 3:38 | 2022-08-14 | 2022-08-27 |
 | [Cosmos \(feat\. Kyung Min Jang\)](https://open.spotify.com/track/7fowFY3npqfPBKLb1grHxe) | [igloobay](https://open.spotify.com/artist/4C8KZvLXUzzR2lFY580ATb), [Kyung Min Jang](https://open.spotify.com/artist/4dRgywuc27oWwtjOAV7YuP) | [Cosmos](https://open.spotify.com/album/6nIrVvEipZNnVhcBN9XXLu) | 4:36 | 2022-09-30 | 2022-11-07 |
@@ -1425,6 +1427,7 @@
 | [Escape](https://open.spotify.com/track/2MObBaboL8bamO4nOvgFqw) | [ID:Earth](https://open.spotify.com/artist/6pORiOGjtqK2ww7PBBQFRt) | [ESCAPE](https://open.spotify.com/album/5xseEu5bbhsUORjWy5o74k) | 3:33 | 2022-11-20 | 2022-12-22 |
 | [Escapism](https://open.spotify.com/track/3Vq3wA19XaYMQnMkBKt0Mk) | [JOONIE](https://open.spotify.com/artist/4sX22X56Udyfw5vOewwKfP) | [Mother Nature](https://open.spotify.com/album/1VaRv5jFPLxqJyx5IlUEZ8) | 3:04 | 2022-07-06 | 2022-07-13 |
 | [Especially For You](https://open.spotify.com/track/0QxccxeJbRK4lFJYUFEAqJ) | [Lee Daneung](https://open.spotify.com/artist/6fbPo68ipz0uQ9CBUh6jbO) | [Especially For You](https://open.spotify.com/album/52LiV3qtizllpMU91Z6csl) | 2:34 | 2022-08-31 | 2022-09-07 |
+| [ETA](https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:31 | 2023-07-21 |  |
 | [ETA \(with iiso\)](https://open.spotify.com/track/3DRZRLXhMkJSgwN61FUvdV) | [ROH YUNHA](https://open.spotify.com/artist/3dLZdTWMaokxt4y9sDzEWq), [Chillin Homie](https://open.spotify.com/artist/5f48MQLr5eOXHcR4lFE1BM), [DAMINI](https://open.spotify.com/artist/1yNIinWsNuQUyXJsqnmaLh), [iiso](https://open.spotify.com/artist/0oveUySQ3sjC5GVG7IIQ4e) | [ETA](https://open.spotify.com/album/5Ed3Z9SI1jkkX0OivYIkIA) | 3:08 | 2023-04-22 | 2023-06-20 |
 | [Eternal](https://open.spotify.com/track/3k9LgRjExVVwu5qrQEpo1j) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [Pandora : Beneath the Paradise, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/5gorXUK3rEc4INWJpzOrvD) | 3:05 | 2023-03-13 | 2023-03-28 |
 | [Eternal Love](https://open.spotify.com/track/0hJFG25hI8EpNPHavVVlDZ) | [Kwon Byul](https://open.spotify.com/artist/7eyQCTwADNiqsq3QgAwJHe) | [Eternal Love](https://open.spotify.com/album/38qRFQwc5MIYG21UXr8OaO) | 2:29 | 2023-05-22 |  |

@@ -459,6 +459,24 @@
     },
     {
       "album": {
+        "name": "500lbs",
+        "url": "https://open.spotify.com/album/2Ro9gydgq5JWy7b22zPty9"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144390,
+      "name": "500lbs",
+      "url": "https://open.spotify.com/track/1xWkeSPhf3bZqHY7Ncz8vp"
+    },
+    {
+      "album": {
         "name": "556 (Green Tip)",
         "url": "https://open.spotify.com/album/7JAE90R7Qq45PAG4RnoP9h"
       },
@@ -1274,6 +1292,28 @@
       "duration_ms": 200000,
       "name": "Banking On Me",
       "url": "https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI"
+    },
+    {
+      "album": {
+        "name": "Barrio (with Lefty Sm)",
+        "url": "https://open.spotify.com/album/1ymuLQZcpThyYLQHMd701v"
+      },
+      "artists": [
+        {
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144414,
+      "name": "Barrio (with Lefty Sm)",
+      "url": "https://open.spotify.com/track/4oxKEbn3OLrNCW5JciZKvn"
     },
     {
       "album": {
@@ -3308,7 +3348,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 206124,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/6QuwMgDZub0zf70EOcWtqk"
@@ -4750,7 +4790,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 187269,
       "name": "FOLD",
       "url": "https://open.spotify.com/track/2EP8akKOQ8sQ9MAqrnhml0"
@@ -5040,6 +5080,24 @@
       "duration_ms": 112169,
       "name": "GED",
       "url": "https://open.spotify.com/track/63T33mvThv0sZQEjTcglYx"
+    },
+    {
+      "album": {
+        "name": "Genesis",
+        "url": "https://open.spotify.com/album/1LTl3mxJfm7flXx9wecciK"
+      },
+      "artists": [
+        {
+          "name": "Bravo 1-2",
+          "url": "https://open.spotify.com/artist/7m1XrFL6HVKlTlJ4R6kUcX"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90000,
+      "name": "Genesis",
+      "url": "https://open.spotify.com/track/05QTU0jumc79qqlpAzMEbw"
     },
     {
       "album": {
@@ -8518,7 +8576,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 162196,
       "name": "miles (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/2WgoeZDxLJvjEvlOupkr8D"
@@ -8584,6 +8642,28 @@
       "duration_ms": 166706,
       "name": "MINUTE FOREVER",
       "url": "https://open.spotify.com/track/2TTowxYr4R1mapPbdZban7"
+    },
+    {
+      "album": {
+        "name": "MMM HMM (feat. Sexyy Red)",
+        "url": "https://open.spotify.com/album/6mIpyaTHgDgQbgZwWALgHI"
+      },
+      "artists": [
+        {
+          "name": "Lancey Foux",
+          "url": "https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11"
+        },
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158137,
+      "name": "MMM HMM (feat. Sexyy Red)",
+      "url": "https://open.spotify.com/track/0KK6oylgSBhXglGZQL61y0"
     },
     {
       "album": {
@@ -8978,7 +9058,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 157894,
       "name": "Need",
       "url": "https://open.spotify.com/track/4s8fQKAfuHR9gMDzoA9ioQ"
@@ -9698,7 +9778,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 150241,
       "name": "Out th\u00eb way",
       "url": "https://open.spotify.com/track/6IyoLWzljeR3ldQo4KWHT6"
@@ -11657,6 +11737,24 @@
     },
     {
       "album": {
+        "name": "Slizzy Talk",
+        "url": "https://open.spotify.com/album/5lnwBxTSlY9xY8Im5yWvIZ"
+      },
+      "artists": [
+        {
+          "name": "Cash Cobain",
+          "url": "https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142183,
+      "name": "Slizzy Talk",
+      "url": "https://open.spotify.com/track/1Qvxd1s2lzrXedEjqdYQQn"
+    },
+    {
+      "album": {
         "name": "Sneaky Link 2.0",
         "url": "https://open.spotify.com/album/3C4pz3mQxUAD5gFPTb1xWZ"
       },
@@ -12318,6 +12416,24 @@
       "duration_ms": 88653,
       "name": "Swiper Of The Year",
       "url": "https://open.spotify.com/track/4zQY1lPJv072WQI9gy5dt7"
+    },
+    {
+      "album": {
+        "name": "TADA",
+        "url": "https://open.spotify.com/album/6jGsvxeVlhZziD1iHC2M3m"
+      },
+      "artists": [
+        {
+          "name": "Unghetto",
+          "url": "https://open.spotify.com/artist/4a0UMM2QrKP5ESk1P8373s"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85161,
+      "name": "TADA",
+      "url": "https://open.spotify.com/track/2cXeUYMss6hflg9hSZHePD"
     },
     {
       "album": {

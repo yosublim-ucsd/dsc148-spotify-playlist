@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. poppy
 
-[Spotify](https://open.spotify.com/user/spotify) - 491,659 likes - 84 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 506,024 likes - 84 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 6 | [Gladiator](https://open.spotify.com/track/0vbp3qthXlRVsLXTbPrkX1) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Gladiator](https://open.spotify.com/album/64PdJips9zx6e7Qev1Np01) | 3:31 |
 | 7 | [I'm Normally Like This](https://open.spotify.com/track/7bm0WfGG6HRiuac1IdHBaL) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [I'm Normally Like This](https://open.spotify.com/album/0QOtYZy8AIqWx4khwFx3Nn) | 2:54 |
 | 8 | [Atxmic\-Bxmb.](https://open.spotify.com/track/14anA5oIZszxWvvOAfoE8y) | [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [Atxmic\-Bxmb.](https://open.spotify.com/album/5m31ElwTduQrxwXOkAaIPc) | 2:37 |
-| 9 | [DTF](https://open.spotify.com/track/4YmsamyhXfk3blN6DIYkNe) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [DTF](https://open.spotify.com/album/0JaCDhgzIHcCJ2rOOHdOIn) | 3:29 |
+| 9 | [DTF](https://open.spotify.com/track/4YmsamyhXfk3blN6DIYkNe) | [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [DTF](https://open.spotify.com/album/0JaCDhgzIHcCJ2rOOHdOIn) | 3:28 |
 | 10 | [VAMPIRE ROMANCE](https://open.spotify.com/track/5R05CIOlMNGEdbaaPgtxbr) | [Laurel Smith](https://open.spotify.com/artist/39V5jPcGZJGgjB8VoBW5BT) | [TRASHSTARWRLD](https://open.spotify.com/album/4ORIZxxMFJEDMlML5plLNP) | 3:21 |
 | 11 | [You Make Me Sick!](https://open.spotify.com/track/2cK6tRFd7PRPFY1ZwJAKeq) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [You Make Me Sick!](https://open.spotify.com/album/1hFgxn07lR5agY6sk9fHQJ) | 2:18 |
 | 12 | [Piggie](https://open.spotify.com/track/1DVuD6ZWzdPf9PUeDAsOpS) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Piggie](https://open.spotify.com/album/47Nwndy2RaIR3JjvGr9LOm) | 2:58 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 83 | [rabits](https://open.spotify.com/track/4qvbRrllcG2X0XKspPImWT) | [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo), [ZAND](https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury) | [rabits](https://open.spotify.com/album/1qofpxvy6FZxiSeECIRHWr) | 2:06 |
 | 84 | [venom](https://open.spotify.com/track/2sDX7racfnjrWXJLqBLpCn) | [LVRA](https://open.spotify.com/artist/0wnxBYaim46rj6QmaukOcf), [Spent](https://open.spotify.com/artist/4D5DohcRoNQVTWDKb08Iy6) | [venom](https://open.spotify.com/album/77YsFlEg2yaw0qZTSrsPoH) | 3:02 |
 
-Snapshot ID: `MCw2MzcyZWE4YjNmOTQ4YzA2MDJlNDY4Mjc2YmE4OTgxZDU3NjY3MjRj`
+Snapshot ID: `MCxmNDkwZDY1NTQ2MDBiZTE1NzFlNTI5MjA1ODgwMmMwYzEyZDE5YmI2`

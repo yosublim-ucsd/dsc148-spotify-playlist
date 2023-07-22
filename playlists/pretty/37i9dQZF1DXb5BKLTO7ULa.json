@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste releases elke vrijdag op Spotify! Cover: SERA",
-  "num_followers": 256931,
+  "num_followers": 257048,
   "original_name": "New Music Friday NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0Y2NjMjllNGY4Yzg4ZjU2OWRkMWQyNThmNzkxOWE5MzEyNDJhOGYw",
+  "snapshot_id": "MCw5MDQwYzE0OWYyMDUzNzIxOWEyODg1OGIwYzg4Y2E2NGI5YTc1M2Vk",
   "tracks": [
     {
       "added_at": "2023-07-20 22:00:00",
@@ -71,6 +71,30 @@
       "duration_ms": 211304,
       "name": "180",
       "url": "https://open.spotify.com/track/3rKD53F1KpVjCg5MZQabq9"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "K-POP",
+        "url": "https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 185220,
+      "name": "K-POP",
+      "url": "https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -216,7 +240,7 @@
       "added_at": "2023-07-20 22:00:00",
       "album": {
         "name": "De Selby (Part 2)",
-        "url": "https://open.spotify.com/album/3XhPF8KnqNLkSPbNbBqMw6"
+        "url": "https://open.spotify.com/album/5xq7nQjOBcUnOyRMkBLnaM"
       },
       "artists": [
         {
@@ -226,7 +250,7 @@
       ],
       "duration_ms": 227826,
       "name": "De Selby (Part 2)",
-      "url": "https://open.spotify.com/track/20kkA2JHtAF5J7iz89iOuB"
+      "url": "https://open.spotify.com/track/4SFNe716eUbgX1XvGCTBu7"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -579,6 +603,38 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
+        "name": "Like..? (Deluxe)",
+        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 126857,
+      "name": "Deli",
+      "url": "https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "NewJeans 2nd EP 'Get Up'",
+        "url": "https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "duration_ms": 147880,
+      "name": "Cool With You",
+      "url": "https://open.spotify.com/track/02wk5BttM0QL38ERjLPQJB"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
         "name": "Bubblegum",
         "url": "https://open.spotify.com/album/0rImMICTHs4ayGu4Jzj3Dv"
       },
@@ -647,8 +703,8 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Owls",
-        "url": "https://open.spotify.com/album/69SYB8DtD3w7GuWHVBlpyP"
+        "name": "Nothing Else Changes",
+        "url": "https://open.spotify.com/album/2NTxcnxbl71hv5UU4V8CYs"
       },
       "artists": [
         {
@@ -662,7 +718,7 @@
       ],
       "duration_ms": 222803,
       "name": "Nothing Else Changes",
-      "url": "https://open.spotify.com/track/2WQ0dlvhla2T9NhxTNe4Fw"
+      "url": "https://open.spotify.com/track/6AErYwYWIaSp5vh0qJKEVf"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -759,8 +815,8 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "The Show Must Go On",
-        "url": "https://open.spotify.com/album/5ewGXWIoaRLgpiOcyO8hjT"
+        "name": "Columbo",
+        "url": "https://open.spotify.com/album/77ecNwHIYZfoOSgQ1FMSAS"
       },
       "artists": [
         {
@@ -770,7 +826,7 @@
       ],
       "duration_ms": 266268,
       "name": "The Show Must Go On",
-      "url": "https://open.spotify.com/track/1lZOPMQ1USWQjysL3LOctf"
+      "url": "https://open.spotify.com/track/0lKTZbj7of6RjyzsT65SUo"
     },
     {
       "added_at": "2023-07-20 22:00:00",

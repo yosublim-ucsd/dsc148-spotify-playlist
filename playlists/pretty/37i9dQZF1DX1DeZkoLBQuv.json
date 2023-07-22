@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YTliMjA0NmI3YzM5YzI1YmM4YjM3YjYwNDRkZjI1YTI4ZGUxNzU5",
+  "snapshot_id": "MCw5MTc1Nzg2ZDMyMjVjNjlkMTllZWY1ZWMzMTNkOTk0ZTUxNjczN2Uy",
   "tracks": [
     {
       "added_at": "2022-12-09 06:26:14",
@@ -487,6 +487,22 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
+        "name": "Busquem a Jesus",
+        "url": "https://open.spotify.com/album/3X38B5YfsA0lGcY4BEOj3i"
+      },
+      "artists": [
+        {
+          "name": "Matheus Rizzo",
+          "url": "https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP"
+        }
+      ],
+      "duration_ms": 322058,
+      "name": "Busquem a Jesus",
+      "url": "https://open.spotify.com/track/6Dhjqku6LpMOMzYJHMiwkl"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
         "name": "Gl\u00f3ria a Deus nas Alturas",
         "url": "https://open.spotify.com/album/3oNhHQUS1PmE0LM5Pyf3Pk"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 242192,
       "name": "Gl\u00f3ria a Deus nas Alturas",
       "url": "https://open.spotify.com/track/7AblmQzKpVtPTvbMznVBvA"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
-        "name": "Busquem a Jesus",
-        "url": "https://open.spotify.com/album/3X38B5YfsA0lGcY4BEOj3i"
-      },
-      "artists": [
-        {
-          "name": "Matheus Rizzo",
-          "url": "https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP"
-        }
-      ],
-      "duration_ms": 322058,
-      "name": "Busquem a Jesus",
-      "url": "https://open.spotify.com/track/6Dhjqku6LpMOMzYJHMiwkl"
     },
     {
       "added_at": "2022-12-09 06:26:14",

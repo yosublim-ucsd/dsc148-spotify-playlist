@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127243,
+  "num_followers": 127241,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDMyMSw2NzFmNDQzOTYzOWZkMmFhNmU0Y2NhMThiMjQ3ZWViN2VhY2ViYzll",
+  "snapshot_id": "NDMyMiw2ZWJjYzdmYTM2MDY1ODc1NGQ4ZmIyNWJiN2NmNTY1MDAyMmZkZTli",
   "tracks": [
     {
       "added_at": "2023-07-20 19:45:15",
@@ -1123,98 +1123,6 @@
       "duration_ms": 166363,
       "name": "Be With You",
       "url": "https://open.spotify.com/track/1VdCgotTRcPwbbRnCrzIfR"
-    },
-    {
-      "added_at": "2023-04-27 16:34:08",
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/6CuR1PACokH09J3x3tZzJF"
-      },
-      "artists": [
-        {
-          "name": "KUURO",
-          "url": "https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q"
-        },
-        {
-          "name": "SKUM",
-          "url": "https://open.spotify.com/artist/3hXFd22CK7momnB40jiq9Z"
-        }
-      ],
-      "duration_ms": 169180,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/4SMXofCR3LMXfslJkYiGPi"
-    },
-    {
-      "added_at": "2023-04-26 21:13:17",
-      "album": {
-        "name": "I'll Be There",
-        "url": "https://open.spotify.com/album/6AGsYYlY8T0eTFa2wg4R7d"
-      },
-      "artists": [
-        {
-          "name": "LissA",
-          "url": "https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na"
-        },
-        {
-          "name": "Zombic",
-          "url": "https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV"
-        }
-      ],
-      "duration_ms": 150967,
-      "name": "I'll Be There",
-      "url": "https://open.spotify.com/track/3rRBzkFrTWyR3NrYxjZeMW"
-    },
-    {
-      "added_at": "2023-04-25 17:14:33",
-      "album": {
-        "name": "Haunt You",
-        "url": "https://open.spotify.com/album/7kbbAUEAQZ1ToFY70O13cJ"
-      },
-      "artists": [
-        {
-          "name": "SKYLER",
-          "url": "https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Haunt You",
-      "url": "https://open.spotify.com/track/3gYigEsIAyHuRCBm4LZ4mt"
-    },
-    {
-      "added_at": "2023-04-24 22:44:08",
-      "album": {
-        "name": "Inner Voices",
-        "url": "https://open.spotify.com/album/3YpG3KwKKLRjyJezGvSN3Z"
-      },
-      "artists": [
-        {
-          "name": "Scarr.",
-          "url": "https://open.spotify.com/artist/2GmwYytxKfiAubo141R0tV"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Tender",
-      "url": "https://open.spotify.com/track/1Wb6hywune5SXJTczRgSk7"
-    },
-    {
-      "added_at": "2023-04-24 22:37:52",
-      "album": {
-        "name": "Euphoria",
-        "url": "https://open.spotify.com/album/4SfmVWUmmRcNYUUYckepDQ"
-      },
-      "artists": [
-        {
-          "name": "Pegboard Nerds",
-          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
-        },
-        {
-          "name": "Stonebank",
-          "url": "https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "Euphoria",
-      "url": "https://open.spotify.com/track/4tOrfScwPApEDe0adbNzxh"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

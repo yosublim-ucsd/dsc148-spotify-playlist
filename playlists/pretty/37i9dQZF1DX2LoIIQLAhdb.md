@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Ronisia
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,960 likes - 40 songs - 1 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,149 likes - 40 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 7 | [Luva](https://open.spotify.com/track/7bDv1BzoGPSnniq1Xe0vvG) | [Kaza](https://open.spotify.com/artist/4MRRW42s9ymwa5zu4xTKJh), [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Luva](https://open.spotify.com/album/5ncmjE3vxiuOCqcwyuEjhN) | 2:56 |
 | 8 | [Molo \(feat\. Dadju\)](https://open.spotify.com/track/4ZhuivUPhDFWj9rjImvyYM) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Daddy 9](https://open.spotify.com/album/7myGxTlSrRIav4gOCybgsa) | 2:56 |
 | 9 | [Le coeur ou la raison](https://open.spotify.com/track/5e19nB0x3kkuIDPjfQx609) | [Lynda](https://open.spotify.com/artist/2GlEiSHYEKlq9cUYDa9oZb) | [Un peu de moi](https://open.spotify.com/album/03CXLjZdsRA4eZymG5RhAj) | 3:27 |
-| 10 | [Samira 3](https://open.spotify.com/track/3BYP7bPPxttHpYQfzdyBuz) | [Scridge](https://open.spotify.com/artist/6fYEeLBc96CguiLq9FPBQU) | [Samira 3](https://open.spotify.com/album/5CFFfeCizwxS98Dlnhaixv) | 3:27 |
+| 10 | [Samira 3](https://open.spotify.com/track/3BYP7bPPxttHpYQfzdyBuz) | [Scridge](https://open.spotify.com/artist/6fYEeLBc96CguiLq9FPBQU), [Isleym](https://open.spotify.com/artist/3vw5HmeFoWnWYhcOpB8INb) | [Samira 3](https://open.spotify.com/album/5CFFfeCizwxS98Dlnhaixv) | 3:27 |
 | 11 | [Dans La Chambre / Money](https://open.spotify.com/track/2pMVcip68iC4QhkyHsfbVt) | [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Dans La Chambre / Money](https://open.spotify.com/album/2uhMxgJf8jLDnnDvH4kJ1x) | 4:45 |
 | 12 | [Carry Me](https://open.spotify.com/track/3vxS3k5siCY0mFfGGTx4pk) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Carry Me](https://open.spotify.com/album/2hEk1tP9rtBhcwNTNSMkDs) | 3:43 |
 | 13 | [CV \(feat\. RK\)](https://open.spotify.com/track/7cS0iYSpeBa0qxLsXMELC4) | [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa), [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [Enchanté](https://open.spotify.com/album/4jzttg9eCu7YcpAQsu75mu) | 2:54 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [Tatiana](https://open.spotify.com/track/3nyyodJO8A9kqEbssWdJvX) | [Aöme](https://open.spotify.com/artist/2ylIlV0oukLVNOjsqv6HI8) | [Tatiana](https://open.spotify.com/album/4Vx7h6MaCrPBfx35xjuFBn) | 3:25 |
 | 40 | [LUNDI](https://open.spotify.com/track/1YRYV4VUyDB0ju9DlZ0Xmm) | [Soid](https://open.spotify.com/artist/1CnF2hEPkBeJML1VlVUaJF), [Low Jay](https://open.spotify.com/artist/33hTLTCjEmYAKaLspM8M2N) | [LUNDI](https://open.spotify.com/album/7rKKsX9Jqwqfn9JOODsm2q) | 2:48 |
 
-Snapshot ID: `MCwxYzBmMjYwNzg0MjM0NzhkYTRiNTFkNTY1MDU4YTQ0YjIxNGQxNmVm`
+Snapshot ID: `MCxmNDRjNDFmYzMxM2U3MTA0ZWU4ZjkyNjEwNWYzOTQ1OTliNTc3OWEz`

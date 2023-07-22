@@ -4,7 +4,7 @@
 
 > Where Bollywood meets the hood\. Cover: Badshah
 
-46 songs - 1 hr 31 min
+47 songs - 1 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [Paagal](https://open.spotify.com/track/4gyPGtExOjj1rsByKW33LR) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Paagal](https://open.spotify.com/album/0Qn1webMNo0WuEMjRdcrhW) | 2:49 | 2023-02-15 |  |
 | [Paintra](https://open.spotify.com/track/3FbwHPeM5myHMTvOTi6ipl) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Paintra \(From "Mukkabaaz"\) \- Single](https://open.spotify.com/album/5u6calkleLhJulsH9dEgZi) | 3:52 | 2023-02-15 |  |
 | [Paisa Hai Toh](https://open.spotify.com/track/5kwldaZvtbiTmRYsmlyxAN) | [Sachin\-Jigar](https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO), [Vishal Dadlani](https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k), [Mellow D](https://open.spotify.com/artist/7tH8oZj2nLERlp2hE5QNjp), [Jigar Saraiya](https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op) | [Farzi \(Original Series Soundtrack\)](https://open.spotify.com/album/2W4AYutWKIjmtGVnU6q3Xz) | 3:08 | 2023-02-15 |  |
-| [Phire Faqeera](https://open.spotify.com/track/2CwpgIBBCxe4xkba5LhsYo) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [Amrita Singh](https://open.spotify.com/artist/5ZVycSnntFQRyXFpO6TdsU), [Neelesh Misra](https://open.spotify.com/artist/72APa8QPdPUhGzNMciz1wI) | [Pagglait \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3k1WMGUrn1raJVWoGrNPww) | 5:41 | 2023-02-15 |  |
+| [Phire Faqeera](https://open.spotify.com/track/2CwpgIBBCxe4xkba5LhsYo) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [Amrita Singh](https://open.spotify.com/artist/5ZVycSnntFQRyXFpO6TdsU), [Neelesh Misra](https://open.spotify.com/artist/72APa8QPdPUhGzNMciz1wI) | [Pagglait \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3k1WMGUrn1raJVWoGrNPww) | 5:41 | 2023-02-15 | 2023-07-22 |
+| [Phire Faqeera](https://open.spotify.com/track/7i5VhhLnimERnq9i7FM86Y) | [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25), [Amrita Singh](https://open.spotify.com/artist/5ZVycSnntFQRyXFpO6TdsU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Neelesh Mishra](https://open.spotify.com/artist/4kasDFSEK3OypP6vspQxjS) | [Pagglait \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6BnRf8fttKY98wU5XTU6xN) | 5:41 | 2023-07-10 |  |
 | [Real Talk](https://open.spotify.com/track/1IuZ1WioES1D3ep0j3ahhr) | [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG) | [Bloody Daddy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5pmBPVa6MtjFYVBTeODYBl) | 2:55 | 2023-06-08 |  |
 | [Real Talk](https://open.spotify.com/track/1WPs49cOzviyirquav1Tua) | [GD47](https://open.spotify.com/artist/6GoLWfS71I2gXBtCiKCceD) | [Bloody Daddy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Sd5XckyAsTOXGXwjQd8ED) | 2:55 | 2023-06-08 | 2023-06-12 |
 | [Right Here Right Now](https://open.spotify.com/track/4pVnxSz312uhq2hM3b8CAO) | [Abhishek Bachchan](https://open.spotify.com/artist/7e6AfoPhtlBJGQ9iNMAckD), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Bluff Master \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5sASM5OybJgExUWUXLH2eQ) | 3:02 | 2023-02-15 |  |

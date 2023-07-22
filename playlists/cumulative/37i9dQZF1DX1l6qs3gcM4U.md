@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Lisandro Cuxi.
 
-318 songs - 19 hr 10 min
+319 songs - 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,7 +283,7 @@
 | [Tempestade](https://open.spotify.com/track/2xJCPy4Cr88de0LCSIB2d2) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo), [SYRO](https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x) | [Mininu Di Oru](https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu) | 3:25 | 2021-12-10 |  |
 | [Tempo Sabi](https://open.spotify.com/track/3FqWcsHQVo5aFBVUBJ465y) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Tempo Sabi](https://open.spotify.com/album/0WJ1eBTUSk4OzMpIb5vRYb) | 3:30 | 2021-12-10 | 2022-11-13 |
 | [Teu Corpo](https://open.spotify.com/track/0iMMM4RZlHlAzO6SUoTZem) | [Irina Barros](https://open.spotify.com/artist/1oXW86kOCopYzoAWOOc6gj) | [Teu Corpo](https://open.spotify.com/album/6glIpMZ4hkezv8VuF80j63) | 2:50 | 2023-01-13 |  |
-| [Teu Ego](https://open.spotify.com/track/2ZQdBUpl0oLp97sZ1F5vdQ) | [Ivan Alekxei](https://open.spotify.com/artist/4kR1QWyFVV4vr0JxkWv7EC), [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Teu Ego](https://open.spotify.com/album/2Q1f06VzUef6eeyAwa4QKa) | 4:46 | 2021-12-10 |  |
+| [Teu Ego](https://open.spotify.com/track/2ZQdBUpl0oLp97sZ1F5vdQ) | [Ivan Alekxei](https://open.spotify.com/artist/4kR1QWyFVV4vr0JxkWv7EC), [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Teu Ego](https://open.spotify.com/album/2Q1f06VzUef6eeyAwa4QKa) | 4:46 | 2021-12-10 | 2023-07-22 |
 | [Ti Matar](https://open.spotify.com/track/6jahSkpRrPt4PRzlVViMtN) | [Nice Life](https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ), [Delio Tala](https://open.spotify.com/artist/5dJVFpMbbup478DAWzBRZS) | [Ti Matar](https://open.spotify.com/album/4DTsQogJqwObqLwjmJPNSQ) | 3:46 | 2022-07-22 | 2022-07-29 |
 | [Todas Querem](https://open.spotify.com/track/7qrejwIUQaRwPUoTkJuk4a) | [Iriane vissolela](https://open.spotify.com/artist/6DNvQQzHsswQPoEjP5uEH7) | [Todas Querem](https://open.spotify.com/album/1Kv0lFcnyblaqWBEcciSeM) | 3:12 | 2022-03-04 | 2022-03-11 |
 | [Todos Dias](https://open.spotify.com/track/4tRMqP0yXZVCUTPHD4UMqR) | [Kizomba da Boa](https://open.spotify.com/artist/5s5qErKST3QG1Lsiqg4v3i), [Filomena Maricoa](https://open.spotify.com/artist/6Q4EivaeYo4AYKQWlEVZq1) | [Todos Dias](https://open.spotify.com/album/0Df0CaHlnUZZd9f7LkDN8W) | 3:03 | 2022-07-22 | 2022-07-26 |
@@ -322,6 +322,7 @@
 | [Você Me Kuia](https://open.spotify.com/track/4gvDUHpTEiVHhDeeobenz4) | [Jay Oliver](https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X) | [Longe de Ti](https://open.spotify.com/album/03wfykCwviZBpxcxcBEaN1) | 4:08 | 2022-02-14 |  |
 | [Vou Arriscar](https://open.spotify.com/track/7kVndwoIjvzkYxxbuoV2UM) | [Chelsy Shantel](https://open.spotify.com/artist/7KO8A7idPh9D7zwd52QW44), [Nsoki](https://open.spotify.com/artist/6HfAa52MnValWEHNMdWAlH) | [Vou Arriscar](https://open.spotify.com/album/7AnHcW2hu73RuWTdWD9pmh) | 3:43 | 2021-12-10 | 2022-07-29 |
 | [Vou Ter Saudades](https://open.spotify.com/track/3LV7JsBzte182GK1p6wOUX) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao) | [Vou Ter Saudades](https://open.spotify.com/album/66lpG91jKZ7VUHNQRqD9Ks) | 3:11 | 2022-03-25 | 2022-04-21 |
+| [Waridu \- LBEATZ Sessions \#1](https://open.spotify.com/track/6D1rnxTxNfHCtD3KlXcy4m) | [LBEATZ](https://open.spotify.com/artist/5KxNau7gSEhC7NhCNLjJBi), [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [Waridu \(LBEATZ Sessions \#1\)](https://open.spotify.com/album/2QBRALabDdpMzrE0Jd7gRT) | 3:10 | 2023-07-13 |  |
 | [Water](https://open.spotify.com/track/2YGCbj4HPFKc40ow5Ica9X) | [Derick Banks](https://open.spotify.com/artist/6i82JFbfMvOi01V8M937aK), [P\. Lowe](https://open.spotify.com/artist/5iwOutOAetaUm6Yg14BRTu), [Archie & Sizzle](https://open.spotify.com/artist/6GYBds9JOCUmcooVni808I) | [Water](https://open.spotify.com/album/0iP0x5PfiePxWk18TMjoGf) | 4:21 | 2021-12-10 | 2022-12-17 |
 | [You](https://open.spotify.com/track/4oj1WpRBb0K4BVsonGwENA) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [You](https://open.spotify.com/album/3dshYkPBm10Z8AmEzhXCu7) | 3:15 | 2021-12-10 | 2023-04-28 |
 | [É Golo](https://open.spotify.com/track/0w2MKVScVo0xCPQHJfdcgz) | [Dream Boyz](https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf) | [É Golo](https://open.spotify.com/album/0IYnFWdJzEuZ2YnyBIf24Q) | 3:36 | 2022-09-22 | 2022-12-08 |

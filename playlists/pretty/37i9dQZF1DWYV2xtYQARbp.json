@@ -1,12 +1,12 @@
 {
   "description": "That fuzzy, noisy punk-blues hybrid",
-  "num_followers": 12589,
+  "num_followers": 12633,
   "original_name": "Punk Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjhmNTY0ODk5OWI0MzgyYzk3N2UwMjdkNWNjYjE3NjIzM2RmMzEz",
+  "snapshot_id": "MCxjYTU4Mzc2ZTZlY2YzNmQwOTVhMmNhZjY0ZjExZDIyNzBlZmZiNThh",
   "tracks": [
     {
       "added_at": "2022-03-28 20:14:58",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Too Much Guitar",
-        "url": "https://open.spotify.com/album/0jz530LCAylYogWMXVAVzK"
-      },
-      "artists": [
-        {
-          "name": "Reigning Sound",
-          "url": "https://open.spotify.com/artist/1YRBRIN8d5Xa6vU1OKUc4t"
-        }
-      ],
-      "duration_ms": 177200,
-      "name": "When You Touch Me",
-      "url": "https://open.spotify.com/track/6QfyJdy9eO3WiAL65VQP8D"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Sedition",
         "url": "https://open.spotify.com/album/55FK9VJhecEPj5bt2Ugkcv"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 319546,
       "name": "Swampland",
       "url": "https://open.spotify.com/track/0B8EFxR3GfhAOhrkdh9GJM"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Too Much Guitar",
+        "url": "https://open.spotify.com/album/0jz530LCAylYogWMXVAVzK"
+      },
+      "artists": [
+        {
+          "name": "Reigning Sound",
+          "url": "https://open.spotify.com/artist/1YRBRIN8d5Xa6vU1OKUc4t"
+        }
+      ],
+      "duration_ms": 177200,
+      "name": "When You Touch Me",
+      "url": "https://open.spotify.com/track/6QfyJdy9eO3WiAL65VQP8D"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "The Blackout",
-        "url": "https://open.spotify.com/album/5w0QE2P3y8PAMAEG9NMgfE"
-      },
-      "artists": [
-        {
-          "name": "Speedball Baby",
-          "url": "https://open.spotify.com/artist/4oRzJXOEO1MDXDes16geFA"
-        }
-      ],
-      "duration_ms": 126853,
-      "name": "Hanky-Joe Digger",
-      "url": "https://open.spotify.com/track/1Sv7geImcYAkQw8MQVB3G4"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Beware the Ides of March",
         "url": "https://open.spotify.com/album/0P1GRmI3zZ5fclhcxiixfV"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 131039,
       "name": "You'll Be Sorry Now",
       "url": "https://open.spotify.com/track/10Wc1g6PLRK6TPFsAXRqtU"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "The Blackout",
+        "url": "https://open.spotify.com/album/5w0QE2P3y8PAMAEG9NMgfE"
+      },
+      "artists": [
+        {
+          "name": "Speedball Baby",
+          "url": "https://open.spotify.com/artist/4oRzJXOEO1MDXDes16geFA"
+        }
+      ],
+      "duration_ms": 126853,
+      "name": "Hanky-Joe Digger",
+      "url": "https://open.spotify.com/track/1Sv7geImcYAkQw8MQVB3G4"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Nothing Can Stop These Men",
-        "url": "https://open.spotify.com/album/7KZAq0y0mk1uCx69axAzO7"
-      },
-      "artists": [
-        {
-          "name": "The Milkshakes",
-          "url": "https://open.spotify.com/artist/02jy0SdsT0bP4Hn0QkQTeG"
-        }
-      ],
-      "duration_ms": 135400,
-      "name": "Ida Honey (Tell Me You'll Be Mine)",
-      "url": "https://open.spotify.com/track/1cvo2lJ0ui4OQ0n5y3ZUZV"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Whatcha Doin'",
         "url": "https://open.spotify.com/album/76ioQYsj2LjKW7hewrz9uX"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 217040,
       "name": "Summer Sun Blues",
       "url": "https://open.spotify.com/track/3w9bUhup3zHpeNUhujZKhn"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Nothing Can Stop These Men",
+        "url": "https://open.spotify.com/album/7KZAq0y0mk1uCx69axAzO7"
+      },
+      "artists": [
+        {
+          "name": "The Milkshakes",
+          "url": "https://open.spotify.com/artist/02jy0SdsT0bP4Hn0QkQTeG"
+        }
+      ],
+      "duration_ms": 135400,
+      "name": "Ida Honey (Tell Me You'll Be Mine)",
+      "url": "https://open.spotify.com/track/1cvo2lJ0ui4OQ0n5y3ZUZV"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Broad Appeal",
-        "url": "https://open.spotify.com/album/1lXul79dEZzoQn6texAGTx"
-      },
-      "artists": [
-        {
-          "name": "The Hentchmen",
-          "url": "https://open.spotify.com/artist/7jKdcTLxl5PvTJ27fxQRwh"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Michigan Blues",
-      "url": "https://open.spotify.com/track/5jPqW9HWJLarocC2z8vkrP"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Thee Caesars of Trash",
         "url": "https://open.spotify.com/album/6r3Wz5pboOCUUzSkfx0tRW"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 161426,
       "name": "Oh Yeah",
       "url": "https://open.spotify.com/track/50iSEtsLN8e4HIb3uVBwJC"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Broad Appeal",
+        "url": "https://open.spotify.com/album/1lXul79dEZzoQn6texAGTx"
+      },
+      "artists": [
+        {
+          "name": "The Hentchmen",
+          "url": "https://open.spotify.com/artist/7jKdcTLxl5PvTJ27fxQRwh"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Michigan Blues",
+      "url": "https://open.spotify.com/track/5jPqW9HWJLarocC2z8vkrP"
     },
     {
       "added_at": "2022-03-28 20:14:58",

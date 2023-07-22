@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the legends of the hardcore scene.",
-  "num_followers": 191230,
+  "num_followers": 191321,
   "original_name": "Classic Hardcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4NjgzNDYxMiwwMDAwMDAwMDcwZGIxOTNiZWE1NTk5YTg0OGY4ZjlmMDcyYjllYWIy",
+  "snapshot_id": "MCwyNGQwZDNiN2RmMzJlZDM4ODc3OTExZWExNDVjMjE4YjM4ZmRjMjg1",
   "tracks": [
     {
       "added_at": "2020-12-08 15:12:11",
@@ -107,22 +107,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Slip",
-        "url": "https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp"
-      },
-      "artists": [
-        {
-          "name": "Quicksand",
-          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Fazer",
-      "url": "https://open.spotify.com/track/0Bv2ixOjn8jKiVTQXE9mF8"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Warriors (Tour Edition)",
         "url": "https://open.spotify.com/album/5WmhGmiqWgPRmuuAVP7cCP"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 142586,
       "name": "For My Family",
       "url": "https://open.spotify.com/track/4Y4fGklrIKERF6TixxvLQi"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "Slip",
+        "url": "https://open.spotify.com/album/3LVYsDFVGuPE7kNQyXZvgp"
+      },
+      "artists": [
+        {
+          "name": "Quicksand",
+          "url": "https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Fazer",
+      "url": "https://open.spotify.com/track/0Bv2ixOjn8jKiVTQXE9mF8"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -411,22 +411,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "The Damned, the Shamed",
-        "url": "https://open.spotify.com/album/08ujsql7ywpo2VBmLgMNsW"
-      },
-      "artists": [
-        {
-          "name": "Terror",
-          "url": "https://open.spotify.com/artist/1GVRgPtEC6sZFqvItIk3eg"
-        }
-      ],
-      "duration_ms": 170453,
-      "name": "Never Alone",
-      "url": "https://open.spotify.com/track/4Z4W0zIwGr9eJ40opS0t2C"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "Punk Rock Jukebox",
         "url": "https://open.spotify.com/album/0d1R6Y3apuX2qB5MOP61F6"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 121360,
       "name": "Somebody's Gonna Get Their Head Kicked In",
       "url": "https://open.spotify.com/track/3jxtdFRy3VX71AbEPEjKgq"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "The Damned, the Shamed",
+        "url": "https://open.spotify.com/album/08ujsql7ywpo2VBmLgMNsW"
+      },
+      "artists": [
+        {
+          "name": "Terror",
+          "url": "https://open.spotify.com/artist/1GVRgPtEC6sZFqvItIk3eg"
+        }
+      ],
+      "duration_ms": 170453,
+      "name": "Never Alone",
+      "url": "https://open.spotify.com/track/4Z4W0zIwGr9eJ40opS0t2C"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -491,22 +491,6 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "For Those Who Were Crucified",
-        "url": "https://open.spotify.com/album/5N0Ufg2dKqaXwwdNnbID7m"
-      },
-      "artists": [
-        {
-          "name": "All Out War",
-          "url": "https://open.spotify.com/artist/34jZDyPFvvXhL4YeBICAiV"
-        }
-      ],
-      "duration_ms": 116173,
-      "name": "Burning Season",
-      "url": "https://open.spotify.com/track/5h55QONg24me5Vw4JMYlaJ"
-    },
-    {
-      "added_at": "2020-12-08 15:12:11",
-      "album": {
         "name": "What Doesn't Kill You Will Make You Stronger",
         "url": "https://open.spotify.com/album/4TOosWzdrqh1WxHkRbvxMZ"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 196720,
       "name": "Blood",
       "url": "https://open.spotify.com/track/0ai9xvb85BylFJ9JP2ogxe"
+    },
+    {
+      "added_at": "2020-12-08 15:12:11",
+      "album": {
+        "name": "For Those Who Were Crucified",
+        "url": "https://open.spotify.com/album/5N0Ufg2dKqaXwwdNnbID7m"
+      },
+      "artists": [
+        {
+          "name": "All Out War",
+          "url": "https://open.spotify.com/artist/34jZDyPFvvXhL4YeBICAiV"
+        }
+      ],
+      "duration_ms": 116173,
+      "name": "Burning Season",
+      "url": "https://open.spotify.com/track/5h55QONg24me5Vw4JMYlaJ"
     },
     {
       "added_at": "2020-12-08 15:12:11",
@@ -763,18 +763,18 @@
     {
       "added_at": "2020-12-08 15:12:11",
       "album": {
-        "name": "Bulldog Edition",
-        "url": "https://open.spotify.com/album/74l9m4ne74mMiqqSgiWtrH"
+        "name": "H2O",
+        "url": "https://open.spotify.com/album/2OTTz23owLC2seOMfgJbqR"
       },
       "artists": [
         {
-          "name": "Sheer Terror",
-          "url": "https://open.spotify.com/artist/2AFPWhrVDLjiVNMpbou4jU"
+          "name": "H2O",
+          "url": "https://open.spotify.com/artist/4mQm8gcXNNyzNQRqYKTKqo"
         }
       ],
-      "duration_ms": 144413,
-      "name": "Here to Stay",
-      "url": "https://open.spotify.com/track/4XMYrzvwERu7QdF4lMSOv7"
+      "duration_ms": 175413,
+      "name": "Family Tree",
+      "url": "https://open.spotify.com/track/1lqzyOQ3QRX0lNXHk5kzGp"
     },
     {
       "added_at": "2020-12-08 15:12:11",

@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-257 songs - 18 hr 57 min
+258 songs - 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Fi Alfarah](https://open.spotify.com/track/1YMkH90H0Z6XIkSgHshO3r) | [Deeperise](https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe), [Turkish Coffee](https://open.spotify.com/artist/5mN52Pk8WNPxRbd7V5h64a) | [Futureland](https://open.spotify.com/album/1NN2I8IUqoQQGlQvgckBYX) | 6:21 | 2022-05-04 | 2023-05-04 |
 | [Fiddle](https://open.spotify.com/track/3mBFt5hZcG1nQrf5zuuwpB) | [Enes Yaman](https://open.spotify.com/artist/14ztES2AtAE1TlnPhBXtB2), [Berkay Cavus](https://open.spotify.com/artist/3YP66RAgFxRT9cE5MbBZBz) | [Fiddle](https://open.spotify.com/album/14DBwliJswNdRZvNfJBcUg) | 3:44 | 2021-04-13 | 2022-11-13 |
 | [Follow You](https://open.spotify.com/track/5zKRmc6gTge68PS5EqagXG) | [Deeperise](https://open.spotify.com/artist/0ZRQKFaYGEtbLc8NbyICoe), [Kanita](https://open.spotify.com/artist/5bXGHYmmARo1ixC6mGHIge) | [Follow You](https://open.spotify.com/album/5NdBszLrgcaFiq5sjr3vgJ) | 2:58 | 2021-06-04 |  |
-| [Free](https://open.spotify.com/track/4BrDKhq9FEBPBXL8nPOq4u) | [Hisham Kharma](https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl) | [Free](https://open.spotify.com/album/3BauvnAExZD2jboFnhxsK0) | 3:04 | 2022-01-03 |  |
+| [Free](https://open.spotify.com/track/4BrDKhq9FEBPBXL8nPOq4u) | [Hisham Kharma](https://open.spotify.com/artist/5kaRV3SU3XXy1q2CsLOfIl) | [Free](https://open.spotify.com/album/3BauvnAExZD2jboFnhxsK0) | 3:04 | 2022-01-03 | 2023-07-22 |
 | [Fur](https://open.spotify.com/track/4u6ljcfLSWPIeqCa94jRFu) | [Ali Kuru](https://open.spotify.com/artist/4ljGdf7WSUgs2gc0TVGNGV), [BuVu](https://open.spotify.com/artist/7iNFWO5iE6bWNQefPQPdPy) | [Fur](https://open.spotify.com/album/2VntJqtkExVpftATLphtwV) | 6:19 | 2023-01-13 | 2023-03-04 |
 | [Galaxy](https://open.spotify.com/track/7BTix7RgTW7GOL0zpjRQqA) | [Müslüm Arı](https://open.spotify.com/artist/0xejVueSLs77ic5Ym7z6oQ) | [Galaxy](https://open.spotify.com/album/5YoVZYtxuxXu70gN0k24et) | 2:48 | 2023-06-29 |  |
 | [Give a Little](https://open.spotify.com/track/5TjdmkuqqjkyIIVuDqyFPE) | [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS), [Naila](https://open.spotify.com/artist/7vwmGnGMM1UsrIz3vEfNz0) | [Give a Little](https://open.spotify.com/album/1rM8HkFzG6lzCWmB3ZHP9b) | 3:54 | 2020-12-08 |  |
@@ -108,6 +108,7 @@
 | [Ilomilo \- MBNN Remix](https://open.spotify.com/track/67zf0YUVY6JcQUQpEX2a4F) | [Morest](https://open.spotify.com/artist/0l7lssiRhyy3YyxVwotSSU) | [Ilomilo \(MBNN Remix\)](https://open.spotify.com/album/6rdT1gSNacKxEPUVdVqHPx) | 3:01 | 2020-12-15 | 2021-11-12 |
 | [Ilomilo \- Remix](https://open.spotify.com/track/23Jd8dpyzwfl2oKja1FByB) | [Morest](https://open.spotify.com/artist/0l7lssiRhyy3YyxVwotSSU) | [Ilomilo \(Remix\)](https://open.spotify.com/album/3z3Vfn3EJXM0E06UrJJbsl) | 3:01 | 2021-04-29 | 2021-05-25 |
 | [In Control \(feat\. Selin\)](https://open.spotify.com/track/4WNcduiCmDNfmTEz7JvmLv) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Ali Arutan](https://open.spotify.com/artist/40Hr91B6wn9pO83Gj0JMrP), [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [In Control \(feat\. Selin\)](https://open.spotify.com/album/1B68g8b4wpedNDvvQLAoCe) | 2:59 | 2020-10-30 |  |
+| [Isla Bonita](https://open.spotify.com/track/237piArDEVghCWdWXFcY7i) | [DJ Dark](https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn), [MD DJ](https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD) | [Isla Bonita](https://open.spotify.com/album/1zpMJrknblXdoE5PW9xmr2) | 3:01 | 2023-07-21 |  |
 | [Isla Bonita \- Radio Edit](https://open.spotify.com/track/3cJdavr0QMtSbaWdC6CFD6) | [DJ Dark](https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn), [MD DJ](https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD) | [Isla Bonita](https://open.spotify.com/album/2ce99b3oA0Bb5pK4Hm8qmU) | 3:01 | 2021-09-01 | 2023-05-16 |
 | [Izvor](https://open.spotify.com/track/4z7tWC9yzgcCD23hY8uQaV) | [Tebra](https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P) | [Izvor](https://open.spotify.com/album/7zfqQQ0mzEutNin8LTuW71) | 6:40 | 2022-10-27 | 2023-06-25 |
 | [Izvor](https://open.spotify.com/track/7yI1wSdqxwtVBoIsxsMJzG) | [Tebra](https://open.spotify.com/artist/3kI19T2Y7mzINNIOGHTg5P) | [Izvor](https://open.spotify.com/album/4Ux7Cor1Xscar6eXzk760P) | 6:40 | 2022-06-07 | 2022-10-15 |

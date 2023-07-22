@@ -4,7 +4,7 @@
 
 > The perfect soundtrack for a day on the water.
 
-241 songs - 13 hr 20 min
+242 songs - 13 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Beachin'](https://open.spotify.com/track/5dNGORzxFb5z3v7vSAFkTU) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Days of Gold](https://open.spotify.com/album/59ePhOhLFvSOFG4L5FRGzp) | 3:11 | 2021-06-18 |  |
 | [Beat of the Music](https://open.spotify.com/track/3un2KQUaQ2brEpd8dK93wI) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Bring You Back](https://open.spotify.com/album/7weU5IWFfeueNG5V68CTTT) | 2:59 | 2021-10-15 |  |
 | [Beat This Summer](https://open.spotify.com/track/2EUHzmBZux7SSra71cGkIB) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Wheelhouse](https://open.spotify.com/album/5NQa6BB9H7oc0dNT7GqOq0) | 4:41 | 2021-06-18 | 2022-06-22 |
+| [Beauty and the Beach \(feat\. Flo Rida\)](https://open.spotify.com/track/3LgyWMhXMMcMKxH56hdkxz) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Beauty and the Beach \(feat\. Flo Rida\)](https://open.spotify.com/album/3sTt9m5B1zftc7BUVCZSVF) | 2:39 | 2023-07-21 |  |
 | [Beer Can’t Fix](https://open.spotify.com/track/7idmHTAQQPUFqdjXkoooXD) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Center Point Road](https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g) | 3:29 | 2021-06-18 |  |
 | [Beer With My Friends \(feat\. Cole Swindell and David Lee Murphy\)](https://open.spotify.com/track/5YsPrfAtcCzMIc4BHTsxP5) | [Shy Carter](https://open.spotify.com/artist/7JZafQsN8syJ9agEtcyP4V), [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW), [David Lee Murphy](https://open.spotify.com/artist/78OAtwN3XpjMcjibnF2Kw5) | [Beer With My Friends \(feat\. Cole Swindell and David Lee Murphy\)](https://open.spotify.com/album/5YGntXPD5Z5QsZGC1BHLxy) | 2:56 | 2021-11-05 |  |
 | [Beers And Sunshine \- Summer Mix](https://open.spotify.com/track/3fZ3sjzr53Yg7WJzHDwzmU) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [Beers And Sunshine \(Summer Mix\)](https://open.spotify.com/album/7o5yJtOPRqdV7nk2Wcgdv7) | 2:59 | 2021-07-09 |  |

@@ -22930,7 +22930,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 146374,
       "name": "Go Time",
       "url": "https://open.spotify.com/track/5JMpTtLvOURWPEQiWngaPF"
@@ -29342,7 +29342,7 @@
       ],
       "date_added": "2022-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 96352,
       "name": "It's Only Tuesday",
       "url": "https://open.spotify.com/track/0jD2Eou8plHycp7qYNHK8R"
@@ -44635,6 +44635,24 @@
     },
     {
       "album": {
+        "name": "One More Please",
+        "url": "https://open.spotify.com/album/1ov50Fpj1ygRM74H0gYf8r"
+      },
+      "artists": [
+        {
+          "name": "JAY VANILLA",
+          "url": "https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101123,
+      "name": "One More Please",
+      "url": "https://open.spotify.com/track/3qaHTHr8jGU57R6z0NAmxI"
+    },
+    {
+      "album": {
         "name": "One Or Two",
         "url": "https://open.spotify.com/album/4dbvFkMYZU4l2KdfSo8ZI0"
       },
@@ -58884,6 +58902,24 @@
       "duration_ms": 140200,
       "name": "Summer to Fall",
       "url": "https://open.spotify.com/track/6t7ss17wCZZCe55nDZAk7a"
+    },
+    {
+      "album": {
+        "name": "Summer Vibes",
+        "url": "https://open.spotify.com/album/4zJS8uzb0xdxOKG3YfKnmN"
+      },
+      "artists": [
+        {
+          "name": "Lazy Toro",
+          "url": "https://open.spotify.com/artist/0fEDsWJ3Na3vlZ3hxo9DQw"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96000,
+      "name": "Summer Vibes",
+      "url": "https://open.spotify.com/track/7sWiHeHo8opH0bOC8irUrQ"
     },
     {
       "album": {

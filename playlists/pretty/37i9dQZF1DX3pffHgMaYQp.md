@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pffHgMaYQp.md) - [plain]
 
 ### [lo hice por el punk](https://open.spotify.com/playlist/37i9dQZF1DX3pffHgMaYQp)
 
-> Música para insubordinados\. Carolina Durante en portada.
+> Música para insubordinados\. Vondré en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,651 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,661 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [90](https://open.spotify.com/track/51tqaIE3zBKbhiVVXq3FYi) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d), [Berdu](https://open.spotify.com/artist/7JTa1k0R2kCZWMpngOfuAl) | [Mi Psicóloga Me Dijo Que Hiciera Este Disco](https://open.spotify.com/album/3zLu80ETtlESfO9Lrldbux) | 2:19 |
-| 2 | [La Excusa Perfecta](https://open.spotify.com/track/7vyoSMhwAepA7tGwruszQA) | [Alavedra](https://open.spotify.com/artist/04LW73s0C1fhu5KezxtXtt) | [La Excusa Perfecta](https://open.spotify.com/album/51pAvbdBsnJGDBxrNN3Ax5) | 3:00 |
-| 3 | [Sabinal](https://open.spotify.com/track/6GdjcejLIYstjDTS111tKR) | [The Shelter](https://open.spotify.com/artist/0s4gHJntOTkBezUfGz1oRa), [Pollo Bruxo](https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ) | [Sabinal](https://open.spotify.com/album/2VW2Arzox2JddtDvguuUU1) | 2:16 |
-| 4 | [Marta, Sebas, Guille y los demás](https://open.spotify.com/track/4cQ2GXbAdQqx87wwlsyez1) | [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Marta, Sebas, Guille y los demás](https://open.spotify.com/album/3Y2hgJR4818QVUX9uzWp2G) | 3:40 |
-| 5 | [Hordes of Punks](https://open.spotify.com/track/4rDZC2Pnzjh0Nw887SR2So) | [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS) | [Hordes of Punks](https://open.spotify.com/album/5zGN83v425LfWJEqqM9cTP) | 2:05 |
-| 6 | [Rotura](https://open.spotify.com/track/4MNwrAigvEocVgWDGxkS10) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Rotura](https://open.spotify.com/album/7hBTPDVJPbi2Igtfv9dphz) | 3:36 |
+| 1 | [Rotura](https://open.spotify.com/track/4MNwrAigvEocVgWDGxkS10) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Rotura](https://open.spotify.com/album/7hBTPDVJPbi2Igtfv9dphz) | 3:36 |
+| 2 | [Hordes of Punks](https://open.spotify.com/track/4rDZC2Pnzjh0Nw887SR2So) | [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS) | [Hordes of Punks](https://open.spotify.com/album/5zGN83v425LfWJEqqM9cTP) | 2:05 |
+| 3 | [90](https://open.spotify.com/track/51tqaIE3zBKbhiVVXq3FYi) | [Blnko](https://open.spotify.com/artist/1nHfLPLJrZ7mF3vyerDg4d), [Berdu](https://open.spotify.com/artist/7JTa1k0R2kCZWMpngOfuAl) | [Mi Psicóloga Me Dijo Que Hiciera Este Disco](https://open.spotify.com/album/3zLu80ETtlESfO9Lrldbux) | 2:19 |
+| 4 | [La Excusa Perfecta](https://open.spotify.com/track/7vyoSMhwAepA7tGwruszQA) | [Alavedra](https://open.spotify.com/artist/04LW73s0C1fhu5KezxtXtt) | [La Excusa Perfecta](https://open.spotify.com/album/51pAvbdBsnJGDBxrNN3Ax5) | 3:00 |
+| 5 | [Sabinal](https://open.spotify.com/track/6GdjcejLIYstjDTS111tKR) | [The Shelter](https://open.spotify.com/artist/0s4gHJntOTkBezUfGz1oRa), [Pollo Bruxo](https://open.spotify.com/artist/2Vw0lTycw6PvoB5uALDIqJ) | [Sabinal](https://open.spotify.com/album/2VW2Arzox2JddtDvguuUU1) | 2:16 |
+| 6 | [Marta, Sebas, Guille y los demás](https://open.spotify.com/track/4cQ2GXbAdQqx87wwlsyez1) | [Carolina Durante](https://open.spotify.com/artist/2BVE7Pqd8kxv9xEsuvoJoE) | [Marta, Sebas, Guille y los demás](https://open.spotify.com/album/3Y2hgJR4818QVUX9uzWp2G) | 3:40 |
 | 7 | [Plan Z.E.N.](https://open.spotify.com/track/6meYT2oiVwCKHAB1NJCi7w) | [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Plan Z.E.N.](https://open.spotify.com/album/7avi7XMW0Q1wEcUsBWcVvP) | 3:13 |
 | 8 | [OLA DE SUICIDIOS](https://open.spotify.com/track/0v2ESDRpC6X8k82tOnY91N) | [Dillom](https://open.spotify.com/artist/4cJD9t5QBFTUQcd3xfbOb2) | [OLA DE SUICIDIOS](https://open.spotify.com/album/5cslTHbdAe79CyaKfAzYdM) | 2:34 |
 | 9 | [Todo Está Podrido](https://open.spotify.com/track/6xYI7MZpLD5HDLxC8hHjDI) | [Animales Muertos](https://open.spotify.com/artist/3JnluzjeA5S4ZmBw4nIOOZ) | [Todo Está Podrido](https://open.spotify.com/album/4kwoIahAmAVMhDb5oK5iDF) | 2:18 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3pffHgMaYQp.md) - [plain]
 | 79 | [Panteón](https://open.spotify.com/track/4stvgopAieFBf2zabV5BKf) | [The Froys](https://open.spotify.com/artist/3DrFw6l7rWBb8AbZ3B5zlc) | [Mala Vibra](https://open.spotify.com/album/0wX8llGdmubMvDSzuWMOJo) | 1:35 |
 | 80 | [Los Ojos](https://open.spotify.com/track/4JWeLmA9OIhKs7Mh965ibq) | [Islas](https://open.spotify.com/artist/0Ey9sUJ5fIAchqOFifarhX) | [Los Ojos](https://open.spotify.com/album/1NqcC1Kpu10I0uUuwpWRKm) | 2:42 |
 
-Snapshot ID: `MCwwM2FhMTMwNmE1ZjI0YzY3Y2MxNjEwMGI2NzA0NzgyNzFjNmU0YWRk`
+Snapshot ID: `MCwyYTIwZGNhY2M4YzM0MjAyYjE3OWI1ZTgwMDJmODE3ODM5ZTg2MmM4`

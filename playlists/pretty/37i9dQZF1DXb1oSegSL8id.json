@@ -1,12 +1,12 @@
 {
   "description": "Tem Sertanejo! Tem Funk! Tem Pagode! A melhor trilha pra embalar o seu churrasco.",
-  "num_followers": 795302,
+  "num_followers": 795506,
   "original_name": "Sol e Churrasco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4NjkxOTM4MSwwMDAwMDAwMDAxNThjYzM4OWY3MDkwOTk3ZDAwNjRkMDUwYzYwNTVl",
+  "snapshot_id": "MCw2NWM2NzdiOTJkOTIyNjNjNDQ5NjA5Y2RmNzFhZWU2MDdlNmYyYzA3",
   "tracks": [
     {
       "added_at": "2023-01-03 19:20:11",
@@ -187,22 +187,22 @@
     {
       "added_at": "2023-01-03 19:20:11",
       "album": {
-        "name": "Parada Louca",
-        "url": "https://open.spotify.com/album/3yHH2TjeBsCGSv5Nb2mNrn"
+        "name": "Tem Moda Pra Tudo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/43Z8iIpoxaCrr27KILZJzs"
       },
       "artists": [
         {
-          "name": "Mari Fernandez",
-          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
         },
         {
-          "name": "Marcynho Sensa\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs"
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
         }
       ],
-      "duration_ms": 179031,
-      "name": "Parada Louca",
-      "url": "https://open.spotify.com/track/72g37RoelSnovZakG5MwnF"
+      "duration_ms": 224001,
+      "name": "Quarta Cadeira - Ao Vivo",
+      "url": "https://open.spotify.com/track/5q0NlM6Pm8Pp3orq7zGiRn"
     },
     {
       "added_at": "2023-01-03 19:20:11",
@@ -227,6 +227,42 @@
     {
       "added_at": "2023-01-03 19:20:11",
       "album": {
+        "name": "Esquece o Mundo L\u00e1 Fora (Ao Vivo) - Deluxe",
+        "url": "https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 234961,
+      "name": "Largado \u00c0s Tra\u00e7as - Ao Vivo",
+      "url": "https://open.spotify.com/track/371Up3WP7OqJNFPf0BiyUe"
+    },
+    {
+      "added_at": "2023-01-03 19:20:11",
+      "album": {
+        "name": "Parada Louca",
+        "url": "https://open.spotify.com/album/3yHH2TjeBsCGSv5Nb2mNrn"
+      },
+      "artists": [
+        {
+          "name": "Mari Fernandez",
+          "url": "https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP"
+        },
+        {
+          "name": "Marcynho Sensa\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs"
+        }
+      ],
+      "duration_ms": 179031,
+      "name": "Parada Louca",
+      "url": "https://open.spotify.com/track/72g37RoelSnovZakG5MwnF"
+    },
+    {
+      "added_at": "2023-01-03 19:20:11",
+      "album": {
         "name": "Len\u00e7ol Dobrado",
         "url": "https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY"
       },
@@ -247,38 +283,18 @@
     {
       "added_at": "2023-01-03 19:20:11",
       "album": {
-        "name": "Tem Moda Pra Tudo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/43Z8iIpoxaCrr27KILZJzs"
+        "name": "Sua M\u00e3e Vai Me Amar",
+        "url": "https://open.spotify.com/album/3ZEZn8lXZ0ZuV6tAvRFnq7"
       },
       "artists": [
         {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        },
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
         }
       ],
-      "duration_ms": 224001,
-      "name": "Quarta Cadeira - Ao Vivo",
-      "url": "https://open.spotify.com/track/5q0NlM6Pm8Pp3orq7zGiRn"
-    },
-    {
-      "added_at": "2023-01-03 19:20:11",
-      "album": {
-        "name": "Esquece o Mundo L\u00e1 Fora (Ao Vivo) - Deluxe",
-        "url": "https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 234961,
-      "name": "Largado \u00c0s Tra\u00e7as - Ao Vivo",
-      "url": "https://open.spotify.com/track/371Up3WP7OqJNFPf0BiyUe"
+      "duration_ms": 183758,
+      "name": "Sua M\u00e3e Vai Me Amar",
+      "url": "https://open.spotify.com/track/4fMjqKYYsvtT6Fvca8lGFl"
     },
     {
       "added_at": "2023-01-03 19:20:11",
@@ -295,22 +311,6 @@
       "duration_ms": 140942,
       "name": "Batom de Cereja - Ao Vivo",
       "url": "https://open.spotify.com/track/2MZQAvsA7aZDssppBLRxYp"
-    },
-    {
-      "added_at": "2023-01-03 19:20:11",
-      "album": {
-        "name": "Sua M\u00e3e Vai Me Amar",
-        "url": "https://open.spotify.com/album/3ZEZn8lXZ0ZuV6tAvRFnq7"
-      },
-      "artists": [
-        {
-          "name": "Turma do Pagode",
-          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
-        }
-      ],
-      "duration_ms": 183758,
-      "name": "Sua M\u00e3e Vai Me Amar",
-      "url": "https://open.spotify.com/track/4fMjqKYYsvtT6Fvca8lGFl"
     },
     {
       "added_at": "2023-01-03 19:20:11",
@@ -383,6 +383,22 @@
     {
       "added_at": "2023-01-03 19:20:11",
       "album": {
+        "name": "Ferida Curada",
+        "url": "https://open.spotify.com/album/4S428p1Dl0B5QShuR6FBMu"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 159164,
+      "name": "Ferida Curada",
+      "url": "https://open.spotify.com/track/1U3tv41tFRgOfbytpuYQrR"
+    },
+    {
+      "added_at": "2023-01-03 19:20:11",
+      "album": {
         "name": "Grandes Sucessos",
         "url": "https://open.spotify.com/album/7oEbEk1KjiSx4VyYeCZXum"
       },
@@ -415,38 +431,6 @@
     {
       "added_at": "2023-01-03 19:20:11",
       "album": {
-        "name": "Ferida Curada",
-        "url": "https://open.spotify.com/album/4S428p1Dl0B5QShuR6FBMu"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 159164,
-      "name": "Ferida Curada",
-      "url": "https://open.spotify.com/track/1U3tv41tFRgOfbytpuYQrR"
-    },
-    {
-      "added_at": "2023-01-03 19:20:11",
-      "album": {
-        "name": "WS On Board (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2rNcJ47D7DN9NHkxd8dkV6"
-      },
-      "artists": [
-        {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
-        }
-      ],
-      "duration_ms": 135325,
-      "name": "Eu J\u00e1 Tava Bem - Ao Vivo",
-      "url": "https://open.spotify.com/track/5FNdfRpHs4u5vto9YdY3ft"
-    },
-    {
-      "added_at": "2023-01-03 19:20:11",
-      "album": {
         "name": "Liberdade (Quando o Grave Bate Forte)",
         "url": "https://open.spotify.com/album/0x28JzvWpaqtzw2YWKubKR"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 150461,
       "name": "Liberdade (Quando o Grave Bate Forte)",
       "url": "https://open.spotify.com/track/2QLbRVzixE282JSQjBz2DG"
+    },
+    {
+      "added_at": "2023-01-03 19:20:11",
+      "album": {
+        "name": "WS On Board (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2rNcJ47D7DN9NHkxd8dkV6"
+      },
+      "artists": [
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        }
+      ],
+      "duration_ms": 135325,
+      "name": "Eu J\u00e1 Tava Bem - Ao Vivo",
+      "url": "https://open.spotify.com/track/5FNdfRpHs4u5vto9YdY3ft"
     },
     {
       "added_at": "2023-01-03 19:20:11",
@@ -507,6 +507,22 @@
     {
       "added_at": "2023-01-03 19:20:11",
       "album": {
+        "name": "Cheirosa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2s8vRW3xvh5BP4CWKyh14X"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 181930,
+      "name": "Cheirosa - Ao Vivo",
+      "url": "https://open.spotify.com/track/2PWjKmjyTZeDpmOUa3a5da"
+    },
+    {
+      "added_at": "2023-01-03 19:20:11",
+      "album": {
         "name": "Bebe e Vem Me Procurar / Quem Ama Sente Saudade (Ao Vivo)",
         "url": "https://open.spotify.com/album/3GBBYTV5NTTn95v2z2ECyP"
       },
@@ -527,54 +543,6 @@
     {
       "added_at": "2023-01-03 19:20:11",
       "album": {
-        "name": "Arranh\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4eELc3RSnehVnvMxk2hy2z"
-      },
-      "artists": [
-        {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
-        }
-      ],
-      "duration_ms": 153409,
-      "name": "Arranh\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/4u06FbRh6FvV2FQZkouzCw"
-    },
-    {
-      "added_at": "2023-01-03 19:20:11",
-      "album": {
-        "name": "Cheirosa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2s8vRW3xvh5BP4CWKyh14X"
-      },
-      "artists": [
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 181930,
-      "name": "Cheirosa - Ao Vivo",
-      "url": "https://open.spotify.com/track/2PWjKmjyTZeDpmOUa3a5da"
-    },
-    {
-      "added_at": "2023-01-03 19:20:11",
-      "album": {
-        "name": "VIBE (Ao Vivo)",
-        "url": "https://open.spotify.com/album/47l1S7yxz9zAO6K5gDori3"
-      },
-      "artists": [
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        }
-      ],
-      "duration_ms": 177805,
-      "name": "A Fila Anda - Ao Vivo",
-      "url": "https://open.spotify.com/track/4pl0csAczZemDLdyNYOmxT"
-    },
-    {
-      "added_at": "2023-01-03 19:20:11",
-      "album": {
         "name": "Por Mais Beijos Ao Vivo",
         "url": "https://open.spotify.com/album/1Yg3QTRv9IGAWeJQb7q8bT"
       },
@@ -587,6 +555,22 @@
       "duration_ms": 169593,
       "name": "Al\u00f4 Ambev (Segue Sua Vida) - Ao Vivo",
       "url": "https://open.spotify.com/track/5m5aY6S9ttfIG157xli2Rs"
+    },
+    {
+      "added_at": "2023-01-03 19:20:11",
+      "album": {
+        "name": "Arranh\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4eELc3RSnehVnvMxk2hy2z"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "duration_ms": 153409,
+      "name": "Arranh\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/4u06FbRh6FvV2FQZkouzCw"
     },
     {
       "added_at": "2023-01-03 19:20:11",
@@ -607,6 +591,22 @@
       "duration_ms": 155341,
       "name": "Ele \u00c9 Ele, Eu Sou Eu",
       "url": "https://open.spotify.com/track/2vPRrOaM3zvPwrOHoIPjcF"
+    },
+    {
+      "added_at": "2023-01-03 19:20:11",
+      "album": {
+        "name": "VIBE (Ao Vivo)",
+        "url": "https://open.spotify.com/album/47l1S7yxz9zAO6K5gDori3"
+      },
+      "artists": [
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "duration_ms": 177805,
+      "name": "A Fila Anda - Ao Vivo",
+      "url": "https://open.spotify.com/track/4pl0csAczZemDLdyNYOmxT"
     },
     {
       "added_at": "2023-01-03 19:20:11",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-01-03 19:20:11",
       "album": {
+        "name": "Tijol\u00e3o (ao Vivo)",
+        "url": "https://open.spotify.com/album/5DE5SfB2vmYatVH6tpAb49"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 175219,
+      "name": "Tijol\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/6QwFUcPc5nhsqZuhXUYtV7"
+    },
+    {
+      "added_at": "2023-01-03 19:20:11",
+      "album": {
         "name": "Som No Talo",
         "url": "https://open.spotify.com/album/7vmK77PL6WhlC2oIDJiFR2"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 194090,
       "name": "Eu Mere\u00e7o Ser Feliz - Ao Vivo",
       "url": "https://open.spotify.com/track/1aqRJG36VbTp8E37W4cMGa"
-    },
-    {
-      "added_at": "2023-01-03 19:20:11",
-      "album": {
-        "name": "Tijol\u00e3o (ao Vivo)",
-        "url": "https://open.spotify.com/album/5DE5SfB2vmYatVH6tpAb49"
-      },
-      "artists": [
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 175219,
-      "name": "Tijol\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/6QwFUcPc5nhsqZuhXUYtV7"
     },
     {
       "added_at": "2023-01-03 19:20:11",
@@ -863,18 +863,18 @@
     {
       "added_at": "2023-01-03 19:20:11",
       "album": {
-        "name": "Diferente dos Iguais",
-        "url": "https://open.spotify.com/album/5PHmIs0BTQUdTwZOh7LwST"
+        "name": "Cart\u00e3o Postal",
+        "url": "https://open.spotify.com/album/2eIiUtlaanaoVXdxY35pFK"
       },
       "artists": [
         {
-          "name": "Tarc\u00edsio do Acordeon",
-          "url": "https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC"
+          "name": "Exaltasamba",
+          "url": "https://open.spotify.com/artist/6VPRGmbZ0dupZrbwwEDRRw"
         }
       ],
-      "duration_ms": 237900,
-      "name": "Meia Noite (Voc\u00ea tem meu Whatsapp)",
-      "url": "https://open.spotify.com/track/5fuK5An5rQcx0OVIzsscOK"
+      "duration_ms": 209333,
+      "name": "Me Apaixonei Pela Pessoa Errada",
+      "url": "https://open.spotify.com/track/0lskTzcFFTmCCgLKRpGJdQ"
     },
     {
       "added_at": "2023-01-03 19:20:11",
@@ -899,18 +899,18 @@
     {
       "added_at": "2023-01-03 19:20:11",
       "album": {
-        "name": "Cart\u00e3o Postal",
-        "url": "https://open.spotify.com/album/2eIiUtlaanaoVXdxY35pFK"
+        "name": "Diferente dos Iguais",
+        "url": "https://open.spotify.com/album/5PHmIs0BTQUdTwZOh7LwST"
       },
       "artists": [
         {
-          "name": "Exaltasamba",
-          "url": "https://open.spotify.com/artist/6VPRGmbZ0dupZrbwwEDRRw"
+          "name": "Tarc\u00edsio do Acordeon",
+          "url": "https://open.spotify.com/artist/48HORs6F9P7IgdyKrk4MZC"
         }
       ],
-      "duration_ms": 209333,
-      "name": "Me Apaixonei Pela Pessoa Errada",
-      "url": "https://open.spotify.com/track/0lskTzcFFTmCCgLKRpGJdQ"
+      "duration_ms": 237900,
+      "name": "Meia Noite (Voc\u00ea tem meu Whatsapp)",
+      "url": "https://open.spotify.com/track/5fuK5An5rQcx0OVIzsscOK"
     },
     {
       "added_at": "2023-01-03 19:20:11",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-01-03 19:20:11",
       "album": {
-        "name": "N\u00e3o Quero Saber de Ti Ti Ti",
-        "url": "https://open.spotify.com/album/4nu2sb4YM2YA8AjsS5Duc2"
-      },
-      "artists": [
-        {
-          "name": "Molejo",
-          "url": "https://open.spotify.com/artist/7yl05GUXqcUA3mfpowr1fe"
-        }
-      ],
-      "duration_ms": 223160,
-      "name": "Cilada",
-      "url": "https://open.spotify.com/track/2CfYBDMvXBKxIqBOUjAvfU"
-    },
-    {
-      "added_at": "2023-01-03 19:20:11",
-      "album": {
         "name": "Agora \u00e9 Tudo Meu",
         "url": "https://open.spotify.com/album/1KqYanTdzHe7tWwHO4O23g"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 171998,
       "name": "Agora \u00e9 Tudo Meu",
       "url": "https://open.spotify.com/track/5yH8pYxNckOU1cxfPsMIaz"
+    },
+    {
+      "added_at": "2023-01-03 19:20:11",
+      "album": {
+        "name": "N\u00e3o Quero Saber de Ti Ti Ti",
+        "url": "https://open.spotify.com/album/4nu2sb4YM2YA8AjsS5Duc2"
+      },
+      "artists": [
+        {
+          "name": "Molejo",
+          "url": "https://open.spotify.com/artist/7yl05GUXqcUA3mfpowr1fe"
+        }
+      ],
+      "duration_ms": 223160,
+      "name": "Cilada",
+      "url": "https://open.spotify.com/track/2CfYBDMvXBKxIqBOUjAvfU"
     },
     {
       "added_at": "2023-01-03 19:20:11",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-01-03 19:20:11",
       "album": {
-        "name": "Ws Sem Limites (De Luxe)",
-        "url": "https://open.spotify.com/album/1lSBPfQScnxvu24BbRQ2BD"
-      },
-      "artists": [
-        {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
-        }
-      ],
-      "duration_ms": 162353,
-      "name": "Passatempo",
-      "url": "https://open.spotify.com/track/3Mb45IlghhbP7WteEQldz0"
-    },
-    {
-      "added_at": "2023-01-03 19:20:11",
-      "album": {
         "name": "A Nova Cara das Vaquejadas",
         "url": "https://open.spotify.com/album/5cMhZUlCGsc1BN9bw10bqx"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 258220,
       "name": "N\u00eaga",
       "url": "https://open.spotify.com/track/3b5iBusDt6w3EYuMuqIuL6"
+    },
+    {
+      "added_at": "2023-01-03 19:20:11",
+      "album": {
+        "name": "Ws Sem Limites (De Luxe)",
+        "url": "https://open.spotify.com/album/1lSBPfQScnxvu24BbRQ2BD"
+      },
+      "artists": [
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        }
+      ],
+      "duration_ms": 162353,
+      "name": "Passatempo",
+      "url": "https://open.spotify.com/track/3Mb45IlghhbP7WteEQldz0"
     },
     {
       "added_at": "2023-01-03 19:20:11",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-01-03 19:20:11",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 192870,
+      "name": "A boba fui eu - Recorded At Mosh Studios, S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/4Y7ay3naWoluoOM3xIj1UZ"
+    },
+    {
+      "added_at": "2023-01-03 19:20:11",
+      "album": {
         "name": "Debaixo Do Meu Telhado",
         "url": "https://open.spotify.com/album/3nK8BGJDIxuIN1rhsOX3mg"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 187998,
       "name": "Dona Maria",
       "url": "https://open.spotify.com/track/0dGqIEsFN3KakdPCMkgjre"
-    },
-    {
-      "added_at": "2023-01-03 19:20:11",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/12khkvFs0A8wiIYYmRIQgk"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 192870,
-      "name": "A boba fui eu - Recorded At Mosh Studios, S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/4Y7ay3naWoluoOM3xIj1UZ"
     },
     {
       "added_at": "2023-01-03 19:20:11",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-01-03 19:20:11",
       "album": {
-        "name": "Na Press\u00e3o",
-        "url": "https://open.spotify.com/album/1aD9s70SHK5DyLthruVVAZ"
-      },
-      "artists": [
-        {
-          "name": "MC Rogerinho",
-          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
-        }
-      ],
-      "duration_ms": 187141,
-      "name": "S\u00f3 Voc\u00ea",
-      "url": "https://open.spotify.com/track/0Xav1EeY00uSr2nDVp4jGA"
-    },
-    {
-      "added_at": "2023-01-03 19:20:11",
-      "album": {
         "name": "Bebe e Vem Me Procurar",
         "url": "https://open.spotify.com/album/6ZrJp1WEax1ZsoF5nTcYsz"
       },
@@ -1299,18 +1283,18 @@
     {
       "added_at": "2023-01-03 19:20:11",
       "album": {
-        "name": "Ao Vivo No Ibirapuera",
-        "url": "https://open.spotify.com/album/5ExfGmxdqydd3vgdLdRR8f"
+        "name": "Na Press\u00e3o",
+        "url": "https://open.spotify.com/album/1aD9s70SHK5DyLthruVVAZ"
       },
       "artists": [
         {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+          "name": "MC Rogerinho",
+          "url": "https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP"
         }
       ],
-      "duration_ms": 162459,
-      "name": "Liga\u00e7\u00e3o Covarde - Ao Vivo",
-      "url": "https://open.spotify.com/track/3caI72WpQutpdgPMm1jgDb"
+      "duration_ms": 187141,
+      "name": "S\u00f3 Voc\u00ea",
+      "url": "https://open.spotify.com/track/0Xav1EeY00uSr2nDVp4jGA"
     },
     {
       "added_at": "2023-01-03 19:20:11",
@@ -1331,6 +1315,22 @@
       "duration_ms": 177067,
       "name": "Sogra - Ao Vivo",
       "url": "https://open.spotify.com/track/4zsiMjB0794HztyqUkD3Zi"
+    },
+    {
+      "added_at": "2023-01-03 19:20:11",
+      "album": {
+        "name": "Ao Vivo No Ibirapuera",
+        "url": "https://open.spotify.com/album/5ExfGmxdqydd3vgdLdRR8f"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "duration_ms": 162459,
+      "name": "Liga\u00e7\u00e3o Covarde - Ao Vivo",
+      "url": "https://open.spotify.com/track/3caI72WpQutpdgPMm1jgDb"
     },
     {
       "added_at": "2023-01-03 19:20:11",

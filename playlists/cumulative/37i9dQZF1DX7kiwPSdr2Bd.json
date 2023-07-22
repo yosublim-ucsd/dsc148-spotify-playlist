@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "A Tenda (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0YhDcP0OUvrRiKn8mrUJA9"
+      },
+      "artists": [
+        {
+          "name": "Damares",
+          "url": "https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 470263,
+      "name": "A Tenda (Ao Vivo)",
+      "url": "https://open.spotify.com/track/57y3IxaTKpfNGDEa4OnjGe"
+    },
+    {
+      "album": {
         "name": "Abra os Meus Olhos (Ao Vivo)",
         "url": "https://open.spotify.com/album/04kWUqod7n4eVvhihdv8HT"
       },
@@ -858,6 +876,28 @@
       "duration_ms": 266294,
       "name": "Deus Est\u00e1 Fazendo",
       "url": "https://open.spotify.com/track/2y9ZH3fIZoiH01RlhlmmCA"
+    },
+    {
+      "album": {
+        "name": "Deus Est\u00e1 Fazendo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0aAy1HPGckNAoAAxkmLCXx"
+      },
+      "artists": [
+        {
+          "name": "Fabiana Sinfr\u00f4nio",
+          "url": "https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255824,
+      "name": "Deus Est\u00e1 Fazendo (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3rjEgRrgJ1s8XCJpfdTUar"
     },
     {
       "album": {
@@ -1740,7 +1780,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 579047,
       "name": "Melhor Amigo",
       "url": "https://open.spotify.com/track/2gXdP86FzOS4o1dJ92atfJ"
@@ -3028,7 +3068,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 320186,
       "name": "Tua Presen\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf"

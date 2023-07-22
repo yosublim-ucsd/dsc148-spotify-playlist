@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6iy0O1kuqg.md) - [plain]
 
 > ¡Lo mejor de dos mundos! Qué retumbe la tuba y arremangue el acordeón\. Calibre 50 en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,540 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,625 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6iy0O1kuqg.md) - [plain]
 | 38 | [La Plebada Belica](https://open.spotify.com/track/633anwFhRhaAqgIBMc2teA) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [La Plebada Belica](https://open.spotify.com/album/62GRUzOlwI6NIGuHp1IBOS) | 2:45 |
 | 39 | [Empujando la Línea](https://open.spotify.com/track/4doAczw4VqEa9qJu1M8Ou5) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Especialista](https://open.spotify.com/album/1udzzVN47urH7cthUlyRMz) | 3:20 |
 | 40 | [La Mb](https://open.spotify.com/track/3FfCRdvFfPA93T8zT2dGqV) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [La Mb](https://open.spotify.com/album/5R2kp5lNX5KmyRxFw4bRfl) | 3:23 |
-| 41 | [Popurri Boleros Cadetes \- En Vivo](https://open.spotify.com/track/7LJKlA3EIT2UmMujVquf5S) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [En Vivo Desde la Paz](https://open.spotify.com/album/0b6lw7RY7naWJ42VJfmbtN) | 7:38 |
+| 41 | [Popurri Boleros Cadetes \- En Vivo](https://open.spotify.com/track/5Lia7C8L7kLH0xQOwOY8pG) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [En Vivo Desde la Paz](https://open.spotify.com/album/2lytKS4AnSzjNUD00xzA6f) | 7:38 |
 | 42 | [El Jami](https://open.spotify.com/track/38QNVdvyL1NO5XxHXQ4Emk) | [Grupo Descarga Del 3030](https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL) | [Y Así Suena el 3030](https://open.spotify.com/album/0EyzgnJs5vDFFGzElJTCo7) | 2:59 |
 | 43 | [La Fuga Del Dorian](https://open.spotify.com/track/5DgIgLz265MAoaBulWlV5f) | [Grupo Fernandez](https://open.spotify.com/artist/3iwHYNyKCKBDsa4QFCj8Ik), [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [La Fuga Del Dorian](https://open.spotify.com/album/36mJ5VoUwMC3MFQHcUt68T) | 4:37 |
 | 44 | [Ando Bien Al Tiro](https://open.spotify.com/track/4CxU88d7ZT6op81SOYlrOg) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Billetes Verdes](https://open.spotify.com/album/60y3vvQKR0NA8RVu9nW8h5) | 2:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6iy0O1kuqg.md) - [plain]
 | 49 | [Te Amo \- En vivo](https://open.spotify.com/track/2aJKZn5EEgu3ktMrkN9t3A) | [Hernan Sepulveda](https://open.spotify.com/artist/00CEIWvwRzWGVahslNZW0Z) | [Te Amo \(En vivo\)](https://open.spotify.com/album/5SMUfi5QkPbnaaUhBIvw92) | 3:07 |
 | 50 | [Etiqueta Azul](https://open.spotify.com/track/57nAl8ajrDeDCS4JngXJqE) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Etiqueta Azul](https://open.spotify.com/album/6BnxeSEJ6jxwgEqRu28Hao) | 2:35 |
 
-Snapshot ID: `MCwzODkwMzlmYWFmNjI2MTI2MjIyM2UyZTMyZjRkZTViY2ZlYTMxMTI1`
+Snapshot ID: `MCw3NmU0NmVmZjg1YjE1Y2E4YWU2OTI1ZmE0ZjZmYjllOTBhNzg4NTRi`

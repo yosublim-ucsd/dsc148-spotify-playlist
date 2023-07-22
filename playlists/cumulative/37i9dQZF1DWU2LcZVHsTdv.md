@@ -4,7 +4,7 @@
 
 > The country way of testifying.
 
-196 songs - 11 hr 58 min
+197 songs - 12 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Whites Creek](https://open.spotify.com/track/4rWQo8QRfK24fOzg0rEwRF) | [The Dryes](https://open.spotify.com/artist/0npnqS0C9n5uuuBQC4oEWE) | [Whites Creek](https://open.spotify.com/album/12GOHDbrW1upZa3bZcwZjX) | 3:34 | 2021-12-10 |  |
 | [Who You Are](https://open.spotify.com/track/6AbFsKUHKy3ua32eZmA1wv) | [The Swon Brothers](https://open.spotify.com/artist/1nf0nRF0W4ybnJdda00pKY), [Emily Ann Roberts](https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8) | [Who You Are](https://open.spotify.com/album/4765xGMEoI3u2OOrNtNqQx) | 3:22 | 2022-02-25 |  |
 | [Who You Are To Me \(feat\. Lady A\)](https://open.spotify.com/track/46JqDjp4BMbLQrTOUHdspO) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [Who You Are To Me \(feat\. Lady A\)](https://open.spotify.com/album/1cgi25XjeIHOHs2dldAnYN) | 3:50 | 2021-12-10 |  |
+| [Windows Down](https://open.spotify.com/track/1vdgp5ZORTZcRo71q5YEun) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Windows Down](https://open.spotify.com/album/4qrjkg2frqyyHsVX23agvz) | 3:55 | 2023-07-21 |  |
 | [WOMAN AT THE WELL](https://open.spotify.com/track/2fqHlRhWsA4YyRysR7FR4v) | [Olivia Lane](https://open.spotify.com/artist/3Og5as5vV5n1iTR5iaNNZ6) | [WOMAN AT THE WELL](https://open.spotify.com/album/24Yth0NqR6gEVUhMyMHKiG) | 3:29 | 2021-12-10 |  |
 | [Won't Let Me Go \- Acoustic](https://open.spotify.com/track/2RcEwMtSmmhNIjNCDr5aT7) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj), [Brennley Brown](https://open.spotify.com/artist/4NNo3cmxrg4Z4ROBXfuEf8) | [Won't Let Me Go \(Acoustic\)](https://open.spotify.com/album/5Mz35pU0IaPfSqqzIYJFRJ) | 3:53 | 2023-03-10 |  |
 | [Working On Sunday](https://open.spotify.com/track/64ZqOZGfgq4OABx1qN8Ftd) | [Gary LeVox](https://open.spotify.com/artist/6daR4Ec3o6K4VJnRcPM6w6) | [Working On Sunday](https://open.spotify.com/album/3dPIlZag9xByUbPjvaO7ji) | 3:20 | 2021-12-10 |  |

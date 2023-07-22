@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 
 > Get ready for the final season, nerds\. Listen to the music from Never Have I Ever, new episodes now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,983 likes - 186 songs - 11 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,112 likes - 186 songs - 11 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 | 4 | [You're My Future](https://open.spotify.com/track/633nNfQtV0s4krfJJ36elj) | [Rosie Thorne](https://open.spotify.com/artist/0XOAeONab7IxxVvo51LsQS) | [You're My Future](https://open.spotify.com/album/5lODv2waicSYnTO8J0g0Xe) | 2:51 |
 | 5 | [For What Was](https://open.spotify.com/track/79GjQn5haYSJWbMswSUoFQ) | [Stray Fossa](https://open.spotify.com/artist/5UuvCjt4c4BvzGwK4W0ipD) | [Closer Than We'll Ever Know](https://open.spotify.com/album/6f9e8ngRPjomV2TTm0BsWP) | 3:58 |
 | 6 | [Radio](https://open.spotify.com/track/6QUQwIypuJzQmQSMjUr2JT) | [Moonbeau](https://open.spotify.com/artist/14vw9s3wtYCDjRzjAEvrmX) | [Up All Night](https://open.spotify.com/album/4qttNKph6VLTPGtmReklux) | 3:10 |
-| 7 | [High Price](https://open.spotify.com/track/0uINEgGTM8h4KAlhxIakfh) | [81maantra](https://open.spotify.com/artist/6eEceBIoSxLk8b0q1EByLn), [Easy Mccoy](https://open.spotify.com/artist/0V4YVmGQb4essIbj8VMGPS), [Nyzzy Nyce](https://open.spotify.com/artist/5rrWLqEEESla2vFGHGvEdp) | [High Price](https://open.spotify.com/album/5mvFpTfxbtJ4Yoe9fg1xUG) | 3:21 |
+| 7 | [High Price](https://open.spotify.com/track/6ClVr2Qx1M4CGYqSG4scHF) | [81maantra](https://open.spotify.com/artist/6eEceBIoSxLk8b0q1EByLn), [Easy Mccoy](https://open.spotify.com/artist/0V4YVmGQb4essIbj8VMGPS), [Nyzzy Nyce](https://open.spotify.com/artist/5rrWLqEEESla2vFGHGvEdp) | [High Price](https://open.spotify.com/album/1IBP291xw6CZjM0qllVswI) | 3:21 |
 | 8 | [Bye Bye](https://open.spotify.com/track/3UbZ74YlmHTApmdZfKKFUL) | [Haiku Hands](https://open.spotify.com/artist/3QX8CTn1znpY0HF3hbnNye), [Ribongia](https://open.spotify.com/artist/57B9WzJrtc9gSW3i2ez5vq) | [Bye Bye](https://open.spotify.com/album/1LGKVL1rBRkzUOO4c39sv5) | 3:28 |
 | 9 | [Different World](https://open.spotify.com/track/7o0fALdNJ7MkINdXXacXiQ) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [Danny Dwyer](https://open.spotify.com/artist/52dJMOJVjZ8ArXL4dDJ3Nd) | [Wonder](https://open.spotify.com/album/2QBn4wyavrUjyOLefLyaQP) | 2:16 |
 | 10 | [Waiting](https://open.spotify.com/track/7JfqyQ8JSRve0oXhbH1Y8m) | [Yb.](https://open.spotify.com/artist/3grUv9qZhOiskIVa9fff8i) | [Waiting](https://open.spotify.com/album/3dDEzizNaiMilGP4dHFNUn) | 2:39 |
@@ -195,4 +195,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXOVaQoSQKTV.md) - [plain]
 | 185 | [Beautiful Day](https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g) | 4:06 |
 | 186 | [Boys Like You](https://open.spotify.com/track/2i8zKNkcMQMjztKdNQrYx4) | [Kids At Midnight](https://open.spotify.com/artist/0PUDa7NkXCsMPeFUPLdTAs) | [Boys Like You](https://open.spotify.com/album/10vIxKjxQTtnWc9cA3t4EH) | 3:50 |
 
-Snapshot ID: `MCwxMWY0NjBjYzYxZjg3MjY2ODlmZWI4YmEzMGRmOTU0Y2QyNmNjNWYy`
+Snapshot ID: `MCxkZGIwM2E0NmQ2NWU0ZjY5NGI2OGU3MjdjNDVmMTU2MTc4YzZlYjJi`

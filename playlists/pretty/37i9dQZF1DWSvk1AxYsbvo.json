@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 9401,
+  "num_followers": 9409,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODlmN2M1ZmFjNDQwOTU4NGU4NGY2YzcwYzIyYjlmZmYxZTI1ZDBk",
+  "snapshot_id": "MCxhMzVkNzVlYmNkYmY2Y2MyNjI4NGRkNTVlNDhmNTM5MGJhYzRmMzU5",
   "tracks": [
     {
       "added_at": "2023-07-17 06:27:58",
@@ -59,22 +59,6 @@
     {
       "added_at": "2023-07-17 06:27:58",
       "album": {
-        "name": "DRAMATIC",
-        "url": "https://open.spotify.com/album/121hzDPacQ66zpqcLw3ZSX"
-      },
-      "artists": [
-        {
-          "name": "Standing Egg",
-          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
-        }
-      ],
-      "duration_ms": 206053,
-      "name": "Summer Night You and I",
-      "url": "https://open.spotify.com/track/7m1PHy5AiA2Y2VEkCvVGzY"
-    },
-    {
-      "added_at": "2023-07-17 06:27:58",
-      "album": {
         "name": "\uadf8\ub300\uc640 \ucda4\uc744 Dancing With You",
         "url": "https://open.spotify.com/album/6W2egczeuLFSymhQYu0m0R"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 236750,
       "name": "\uadf8\ub300\uc640 \ucda4\uc744 Dancing With You",
       "url": "https://open.spotify.com/track/3EVhjxPooIaS3AzpIejqVz"
+    },
+    {
+      "added_at": "2023-07-17 06:27:58",
+      "album": {
+        "name": "DRAMATIC",
+        "url": "https://open.spotify.com/album/121hzDPacQ66zpqcLw3ZSX"
+      },
+      "artists": [
+        {
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
+        }
+      ],
+      "duration_ms": 206053,
+      "name": "Summer Night You and I",
+      "url": "https://open.spotify.com/track/7m1PHy5AiA2Y2VEkCvVGzY"
     },
     {
       "added_at": "2023-07-17 06:27:58",
@@ -179,6 +179,22 @@
     {
       "added_at": "2023-07-17 06:27:58",
       "album": {
+        "name": "If",
+        "url": "https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5"
+      },
+      "artists": [
+        {
+          "name": "Standing Egg",
+          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
+        }
+      ],
+      "duration_ms": 251560,
+      "name": "If",
+      "url": "https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ"
+    },
+    {
+      "added_at": "2023-07-17 06:27:58",
+      "album": {
         "name": "Star",
         "url": "https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7"
       },
@@ -227,38 +243,6 @@
     {
       "added_at": "2023-07-17 06:27:58",
       "album": {
-        "name": "If",
-        "url": "https://open.spotify.com/album/5M7zOeOjBLJDQaSkDotiH5"
-      },
-      "artists": [
-        {
-          "name": "Standing Egg",
-          "url": "https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d"
-        }
-      ],
-      "duration_ms": 251560,
-      "name": "If",
-      "url": "https://open.spotify.com/track/3go56fUuNPhwvZifMuTnpJ"
-    },
-    {
-      "added_at": "2023-07-17 06:27:58",
-      "album": {
-        "name": "All My Love",
-        "url": "https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat"
-      },
-      "artists": [
-        {
-          "name": "PARK BO GUM",
-          "url": "https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv"
-        }
-      ],
-      "duration_ms": 203866,
-      "name": "All My Love - Korean Ver.",
-      "url": "https://open.spotify.com/track/7tBopxC7AwomZnU7KuKF9u"
-    },
-    {
-      "added_at": "2023-07-17 06:27:58",
-      "album": {
         "name": "CAKE",
         "url": "https://open.spotify.com/album/1kh0R6MwB7zY10hWurPwX8"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 208920,
       "name": "Falling In Love (feat. 10cm)",
       "url": "https://open.spotify.com/track/5dPYuKs7KoMjR1DQU2mpOX"
+    },
+    {
+      "added_at": "2023-07-17 06:27:58",
+      "album": {
+        "name": "All My Love",
+        "url": "https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat"
+      },
+      "artists": [
+        {
+          "name": "PARK BO GUM",
+          "url": "https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv"
+        }
+      ],
+      "duration_ms": 203866,
+      "name": "All My Love - Korean Ver.",
+      "url": "https://open.spotify.com/track/7tBopxC7AwomZnU7KuKF9u"
     },
     {
       "added_at": "2023-07-17 06:27:58",
@@ -327,6 +327,22 @@
     {
       "added_at": "2023-07-17 06:27:58",
       "album": {
+        "name": "Wednesday",
+        "url": "https://open.spotify.com/album/1cbfO7COigEmv5igX2A0FX"
+      },
+      "artists": [
+        {
+          "name": "Dailog",
+          "url": "https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF"
+        }
+      ],
+      "duration_ms": 167733,
+      "name": "Wednesday",
+      "url": "https://open.spotify.com/track/3PPFza9c9iXZgBWb4KF0Bq"
+    },
+    {
+      "added_at": "2023-07-17 06:27:58",
+      "album": {
         "name": "How did you (feat. Baek Yerin)",
         "url": "https://open.spotify.com/album/1QAenbdPhvPmioXem29cTV"
       },
@@ -363,22 +379,6 @@
     {
       "added_at": "2023-07-17 06:27:58",
       "album": {
-        "name": "The Film",
-        "url": "https://open.spotify.com/album/5C43D5TjB15GoKHogFTNEq"
-      },
-      "artists": [
-        {
-          "name": "J_ust",
-          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
-        }
-      ],
-      "duration_ms": 196386,
-      "name": "The Film",
-      "url": "https://open.spotify.com/track/4KYzR5AKCyoargIQFOYWxZ"
-    },
-    {
-      "added_at": "2023-07-17 06:27:58",
-      "album": {
         "name": "Goodbye",
         "url": "https://open.spotify.com/album/2fIKo8rgZyUXBQswQdeHcK"
       },
@@ -395,18 +395,18 @@
     {
       "added_at": "2023-07-17 06:27:58",
       "album": {
-        "name": "Wednesday",
-        "url": "https://open.spotify.com/album/1cbfO7COigEmv5igX2A0FX"
+        "name": "The Film",
+        "url": "https://open.spotify.com/album/5C43D5TjB15GoKHogFTNEq"
       },
       "artists": [
         {
-          "name": "Dailog",
-          "url": "https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF"
+          "name": "J_ust",
+          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
         }
       ],
-      "duration_ms": 167733,
-      "name": "Wednesday",
-      "url": "https://open.spotify.com/track/3PPFza9c9iXZgBWb4KF0Bq"
+      "duration_ms": 196386,
+      "name": "The Film",
+      "url": "https://open.spotify.com/track/4KYzR5AKCyoargIQFOYWxZ"
     },
     {
       "added_at": "2023-07-17 06:27:58",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-07-17 06:27:58",
       "album": {
+        "name": "i and i",
+        "url": "https://open.spotify.com/album/6DnaYS5enLDhJwz5KbQwrU"
+      },
+      "artists": [
+        {
+          "name": "NavyQuokka",
+          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
+        }
+      ],
+      "duration_ms": 178493,
+      "name": "i and i",
+      "url": "https://open.spotify.com/track/33PhGGthxOh1gmUCW28gMB"
+    },
+    {
+      "added_at": "2023-07-17 06:27:58",
+      "album": {
         "name": "SHE",
         "url": "https://open.spotify.com/album/6mMVN3CgIq54BGZPgjU9IQ"
       },
@@ -583,22 +599,6 @@
     {
       "added_at": "2023-07-17 06:27:58",
       "album": {
-        "name": "\uacc1\uc5d0 \uc788\uc5b4\ub3c4 \ub420\uae4c Gently, By Your Side",
-        "url": "https://open.spotify.com/album/5kjCYa23rU7FRidKG2gDld"
-      },
-      "artists": [
-        {
-          "name": "Siwa",
-          "url": "https://open.spotify.com/artist/65h2inEcodauMEbyfodXdM"
-        }
-      ],
-      "duration_ms": 178373,
-      "name": "\uacc1\uc5d0 \uc788\uc5b4\ub3c4 \ub420\uae4c Gently, By Your Side",
-      "url": "https://open.spotify.com/track/6JtjsV2sfqASYFgLkdEYK3"
-    },
-    {
-      "added_at": "2023-07-17 06:27:58",
-      "album": {
         "name": "Seoul Check-in OST Part 8",
         "url": "https://open.spotify.com/album/7l6dDeN2rIh2t4QHx2Trf5"
       },
@@ -615,18 +615,18 @@
     {
       "added_at": "2023-07-17 06:27:58",
       "album": {
-        "name": "i and i",
-        "url": "https://open.spotify.com/album/6DnaYS5enLDhJwz5KbQwrU"
+        "name": "\uacc1\uc5d0 \uc788\uc5b4\ub3c4 \ub420\uae4c Gently, By Your Side",
+        "url": "https://open.spotify.com/album/5kjCYa23rU7FRidKG2gDld"
       },
       "artists": [
         {
-          "name": "NavyQuokka",
-          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
+          "name": "Siwa",
+          "url": "https://open.spotify.com/artist/65h2inEcodauMEbyfodXdM"
         }
       ],
-      "duration_ms": 178493,
-      "name": "i and i",
-      "url": "https://open.spotify.com/track/33PhGGthxOh1gmUCW28gMB"
+      "duration_ms": 178373,
+      "name": "\uacc1\uc5d0 \uc788\uc5b4\ub3c4 \ub420\uae4c Gently, By Your Side",
+      "url": "https://open.spotify.com/track/6JtjsV2sfqASYFgLkdEYK3"
     },
     {
       "added_at": "2023-07-17 06:27:58",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-07-17 06:27:58",
       "album": {
-        "name": "Lean On Me (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5wTDnPeT17KsAzFiDwhQuR"
-      },
-      "artists": [
-        {
-          "name": "Hoyeon Kim",
-          "url": "https://open.spotify.com/artist/2F6vo1DnhCOz8CxcUz7s7m"
-        }
-      ],
-      "duration_ms": 153000,
-      "name": "It will be all fine",
-      "url": "https://open.spotify.com/track/7xzN0ZWjfkLCagoEeQWLri"
-    },
-    {
-      "added_at": "2023-07-17 06:27:58",
-      "album": {
         "name": "Leave like this",
         "url": "https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ"
       },
@@ -703,18 +687,34 @@
     {
       "added_at": "2023-07-17 06:27:58",
       "album": {
-        "name": "Love Interference 2022 (Original Television Soundtrack), Pt.18",
-        "url": "https://open.spotify.com/album/71vDmAH3pDMbqbE1pgP7gD"
+        "name": "Lean On Me (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5wTDnPeT17KsAzFiDwhQuR"
       },
       "artists": [
         {
-          "name": "Who R U?",
-          "url": "https://open.spotify.com/artist/0raZp61hFiFlRDWtEqX1HK"
+          "name": "Hoyeon Kim",
+          "url": "https://open.spotify.com/artist/2F6vo1DnhCOz8CxcUz7s7m"
         }
       ],
-      "duration_ms": 180638,
-      "name": "\ube44\ubc00 \uc598\uae30\ub97c \ud558\uace0 \uc2f6\uc5b4",
-      "url": "https://open.spotify.com/track/6SD7vuRnI22lQ2eoqUTowA"
+      "duration_ms": 153000,
+      "name": "It will be all fine",
+      "url": "https://open.spotify.com/track/7xzN0ZWjfkLCagoEeQWLri"
+    },
+    {
+      "added_at": "2023-07-17 06:27:58",
+      "album": {
+        "name": "Lonely night",
+        "url": "https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA"
+      },
+      "artists": [
+        {
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+        }
+      ],
+      "duration_ms": 187186,
+      "name": "Lost Stars",
+      "url": "https://open.spotify.com/track/7DljYOk60TzF33yBL9fdnn"
     },
     {
       "added_at": "2023-07-17 06:27:58",
@@ -735,18 +735,18 @@
     {
       "added_at": "2023-07-17 06:27:58",
       "album": {
-        "name": "Lonely night",
-        "url": "https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA"
+        "name": "Love Interference 2022 (Original Television Soundtrack), Pt.18",
+        "url": "https://open.spotify.com/album/71vDmAH3pDMbqbE1pgP7gD"
       },
       "artists": [
         {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
+          "name": "Who R U?",
+          "url": "https://open.spotify.com/artist/0raZp61hFiFlRDWtEqX1HK"
         }
       ],
-      "duration_ms": 187186,
-      "name": "Lost Stars",
-      "url": "https://open.spotify.com/track/7DljYOk60TzF33yBL9fdnn"
+      "duration_ms": 180638,
+      "name": "\ube44\ubc00 \uc598\uae30\ub97c \ud558\uace0 \uc2f6\uc5b4",
+      "url": "https://open.spotify.com/track/6SD7vuRnI22lQ2eoqUTowA"
     },
     {
       "added_at": "2023-07-17 06:27:58",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-07-17 06:27:58",
       "album": {
-        "name": "A story that will turn into a poem",
-        "url": "https://open.spotify.com/album/4pwFaLkL7sfjhD1O6IZPqF"
-      },
-      "artists": [
-        {
-          "name": "Shin Ji Hoon",
-          "url": "https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg"
-        }
-      ],
-      "duration_ms": 193667,
-      "name": "moon river (2021)",
-      "url": "https://open.spotify.com/track/3PdER8czrfvUUjtEbvynjp"
-    },
-    {
-      "added_at": "2023-07-17 06:27:58",
-      "album": {
         "name": "Mm Mm",
         "url": "https://open.spotify.com/album/4XdRqwWMaqajrsAguE0sTw"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 174946,
       "name": "Mm Mm - Acoustic Version",
       "url": "https://open.spotify.com/track/0XSKOtWYAz9MaVPHCfJtTu"
+    },
+    {
+      "added_at": "2023-07-17 06:27:58",
+      "album": {
+        "name": "A story that will turn into a poem",
+        "url": "https://open.spotify.com/album/4pwFaLkL7sfjhD1O6IZPqF"
+      },
+      "artists": [
+        {
+          "name": "Shin Ji Hoon",
+          "url": "https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg"
+        }
+      ],
+      "duration_ms": 193667,
+      "name": "moon river (2021)",
+      "url": "https://open.spotify.com/track/3PdER8czrfvUUjtEbvynjp"
     }
   ],
   "unique_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",

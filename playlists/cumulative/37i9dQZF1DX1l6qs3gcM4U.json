@@ -5562,7 +5562,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 286093,
       "name": "Teu Ego",
       "url": "https://open.spotify.com/track/2ZQdBUpl0oLp97sZ1F5vdQ"
@@ -6402,6 +6402,28 @@
       "duration_ms": 191263,
       "name": "Vou Ter Saudades",
       "url": "https://open.spotify.com/track/3LV7JsBzte182GK1p6wOUX"
+    },
+    {
+      "album": {
+        "name": "Waridu (LBEATZ Sessions #1)",
+        "url": "https://open.spotify.com/album/2QBRALabDdpMzrE0Jd7gRT"
+      },
+      "artists": [
+        {
+          "name": "LBEATZ",
+          "url": "https://open.spotify.com/artist/5KxNau7gSEhC7NhCNLjJBi"
+        },
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190410,
+      "name": "Waridu - LBEATZ Sessions #1",
+      "url": "https://open.spotify.com/track/6D1rnxTxNfHCtD3KlXcy4m"
     },
     {
       "album": {

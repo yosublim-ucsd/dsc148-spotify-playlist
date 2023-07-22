@@ -4,7 +4,7 @@
 
 > Dreamy jams from the best bedroom producers\. Cover: Joji
 
-852 songs - 1 day 20 hr 16 min
+853 songs - 1 day 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,7 +296,7 @@
 | [Generational Heartthrob](https://open.spotify.com/track/3TWPPD7fEatUp5b6hCZkVr) | [Reece](https://open.spotify.com/artist/0znYdSCG2n7myCQ8BRsJqL) | [Generational Heartthrob](https://open.spotify.com/album/1XLGgL14F38AYL4Fzhy6hQ) | 2:25 | 2021-02-28 | 2021-05-23 |
 | [Georgia Peach \(Sketch\)](https://open.spotify.com/track/4ymCext30WfpFv4suoi0Tg) | [Honeywhip](https://open.spotify.com/artist/1yyRuOZtns01N2hUtseLT0) | [Georgia Peach \(Sketch\)](https://open.spotify.com/album/6EoZjS60umuw3aoEDr2kbA) | 2:15 | 2021-07-19 | 2022-04-20 |
 | [Georgie](https://open.spotify.com/track/3PI9d61o3VO504SUAKw2cO) | [TEMPOREX](https://open.spotify.com/artist/3BBCgZVbXFRzcnT1ewVfRt) | [Georgie](https://open.spotify.com/album/64DB6SSTudB5pOZXl4D0bp) | 1:22 | 2019-07-30\* | 2019-08-09 |
-| [Get Down](https://open.spotify.com/track/4kcuzPfVaPlElWRv9jNGHi) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Get Down](https://open.spotify.com/album/3LV5x9NJGzRMm7xraPqKlL) | 2:51 | 2021-07-19 |  |
+| [Get Down](https://open.spotify.com/track/4kcuzPfVaPlElWRv9jNGHi) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Get Down](https://open.spotify.com/album/3LV5x9NJGzRMm7xraPqKlL) | 2:51 | 2021-07-19 | 2023-07-22 |
 | [Get Lost](https://open.spotify.com/track/7xhEhQbq7nx52PS3SCtPD7) | [Mija](https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O), [sharks!](https://open.spotify.com/artist/71vW7bUZpmzrvFgIwoVyzV) | [Get Lost](https://open.spotify.com/album/1ty6vJDDXNMUNVSPifz6nb) | 2:56 | 2021-07-19 | 2022-04-19 |
 | [Get With U](https://open.spotify.com/track/4JHCLFKkuvNMb67DYuAjUU) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Get With U](https://open.spotify.com/album/5y7QSRmltWRcrT6AnAtitI) | 1:58 | 2019-08-02 | 2019-08-10 |
 | [Get Yours](https://open.spotify.com/track/3xO8X51LY6b3CTFStI29si) | [Sweet and Lonely](https://open.spotify.com/artist/5WjjLD84eEmClbj9BqvxdS) | [Get Yours](https://open.spotify.com/album/3CiCcAzLIAYJ43Navv980P) | 2:20 | 2022-04-29 | 2022-06-30 |
@@ -438,6 +438,7 @@
 | [Letters](https://open.spotify.com/track/6YQcXeLou3k4rpubfxZ1s6) | [oh caroline](https://open.spotify.com/artist/3pRWI652A2fPGwFbCjtoaW), [Lhasa Petik](https://open.spotify.com/artist/4F6d5pVnChKy8CcMBaZ1Ja), [Towerz](https://open.spotify.com/artist/1bbah9s09626gweOzzLbKG) | [Letters](https://open.spotify.com/album/14FyGmDdmCZy7Bb4eNa9XS) | 2:53 | 2022-03-04 | 2022-07-29 |
 | [Life Inside](https://open.spotify.com/track/2tpA4UByrUKHRCaSiS0eno) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [Life Inside](https://open.spotify.com/album/0apJiS68nSoiEOpcrCn2dC) | 3:36 | 2020-05-02 | 2022-06-26 |
 | [lighten my mood](https://open.spotify.com/track/3uCjTYZPhUOATADE08Pyzv) | [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [lighten my mood](https://open.spotify.com/album/6DT4s3XmzYr5GNAgaFzFIq) | 2:40 | 2021-06-25 | 2022-06-17 |
+| [Lightning](https://open.spotify.com/track/41RUkJjGhB4bDLZ3oDP2FA) | [Will Paquin](https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6) | [Lightning](https://open.spotify.com/album/6tDh0PENW9b8hS7lsZfhCk) | 3:15 | 2023-07-14 |  |
 | [Like Nobody](https://open.spotify.com/track/5oHSpnSFDwT6tnKzvmnNrx) | [Elise Azkoul](https://open.spotify.com/artist/6KCrTdWDzF11PcWt6uygaE) | [Like Nobody](https://open.spotify.com/album/4ZWpZxP9ZUbQ0vH9zpDnxh) | 2:52 | 2020-11-03 | 2021-05-03 |
 | [like the lonely](https://open.spotify.com/track/1sE9HlH3G9kqHfKora9LHJ) | [Cassidi](https://open.spotify.com/artist/3hHnYAexHQ3wYGYno6LArK) | [like the lonely](https://open.spotify.com/album/4GAlchY0qtOIFJBM874FYY) | 3:30 | 2021-10-08 | 2022-04-20 |
 | [Lil Baby Crush](https://open.spotify.com/track/2q3VN9zMQf0vZmUgcl7oUe) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf) | [IDC](https://open.spotify.com/album/4YrGAvFcjHapeOb6kcyHuz) | 2:21 | 2022-09-14 | 2022-12-15 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 
 > The chillest instrumental lofi beats, certified lush.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,014,127 likes - 521 songs - 19 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,014,154 likes - 521 songs - 19 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 44 | [Autumn Haze](https://open.spotify.com/track/4mZxtbtBIEAyhif5WaXA9q) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [Autumn Haze](https://open.spotify.com/album/1X5Pl4XgeUHlUr0SQLp9ao) | 2:03 |
 | 45 | [blind spot](https://open.spotify.com/track/2I18znGi0ssGoWmIugOcjK) | [sentiment:lo](https://open.spotify.com/artist/1l0WI0auKXfzkkkk3QQT5g), [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [blind spot](https://open.spotify.com/album/4aN4CpFSuRQQN22f4zk02q) | 2:38 |
 | 46 | [break of day](https://open.spotify.com/track/2uSuyCQook85WkdFu9Ymba) | [rec.X](https://open.spotify.com/artist/128lWCKxWAbFjrQaTDviJt) | [break of day](https://open.spotify.com/album/4jGSMArzc4g8ENIuXiM0as) | 1:41 |
-| 47 | [simple things](https://open.spotify.com/track/1CJM6Gfherzr42RxVX5ThN) | [ninomiya tatsuki](https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep) | [simple things](https://open.spotify.com/album/71oWQEjhHfLBxiGS6ivQmj) | 3:12 |
+| 47 | [simple things](https://open.spotify.com/track/5dCx5QAg5BV7lTM5SGAoNr) | [ninomiya tatsuki](https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep) | [A journey to recovery](https://open.spotify.com/album/6irBGY6ICtVY3pSSW7UeU6) | 3:12 |
 | 48 | [Cinematic](https://open.spotify.com/track/1VY8ZZN6iSdKqcP6faWMsS) | [Zauvage](https://open.spotify.com/artist/68PKk1kwlU32sq0WuTTf0s) | [Cinematic](https://open.spotify.com/album/5yBSc0JxyghVBGMvoZmkhM) | 1:35 |
 | 49 | [Silence](https://open.spotify.com/track/4ttNvUY7MsacvCSdlRwKSD) | [AWL](https://open.spotify.com/artist/7DYdwCUdpyJMKpaaL1cSBF) | [Silence](https://open.spotify.com/album/2aErA4LHZw9ZBRVQw6xqz9) | 1:58 |
 | 50 | [New Hope](https://open.spotify.com/track/0K1f1EUIFTSrxn07fsbiWH) | [paris91](https://open.spotify.com/artist/0IF1xUEFhGXZ7zz8BW1zqv), [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [New Hope](https://open.spotify.com/album/6vnOs7e9fVIrqFoIbMSblB) | 1:30 |
@@ -530,4 +530,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8kgYqQLMfH.md) - [plain]
 | 520 | [Koala](https://open.spotify.com/track/0NjvQBTNaCpdg2Ih9Wctci) | [Nicolas Kluzek](https://open.spotify.com/artist/0fUtDbK1RDdscZGRHqCHCs) | [Koala](https://open.spotify.com/album/3e0cmeU0FqS4dVPkfn7k1F) | 1:36 |
 | 521 | [Tune in](https://open.spotify.com/track/4L6KI2P3DKrJU69ff6C1QZ) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Tune in](https://open.spotify.com/album/4Lvc7H7bGRI8KokdHdBTu4) | 2:15 |
 
-Snapshot ID: `MCw4ZWQ1MDU1Yjc4OWI3MDg1N2FkY2E2MzQxMTE5NTdlYjI4YWMxZmYy`
+Snapshot ID: `MCwwNTIzMTY0YWI5NGNmYWM3Yjc3ZDBjYmVmOTQwM2JmYjI5NDE3MWU1`

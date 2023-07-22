@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 14479,
+  "num_followers": 14505,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzVmMTkyMzY5ODc2MjczYWQxY2I1YTg4NDRhMjg1NGVlMGNjYTVi",
+  "snapshot_id": "MCw4MTY0MzExYTRiNzBlMWQ4ZjI1YjdmOTUzZDk3Y2M2MDk2NzIyNDNk",
   "tracks": [
     {
       "added_at": "2023-07-20 23:26:57",
@@ -63,6 +63,22 @@
       "duration_ms": 147363,
       "name": "reason",
       "url": "https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL"
+    },
+    {
+      "added_at": "2023-07-20 23:26:57",
+      "album": {
+        "name": "BILLING = CHILLING",
+        "url": "https://open.spotify.com/album/7IUFcafS1yVSCcnI6xpYq3"
+      },
+      "artists": [
+        {
+          "name": "Toy\u00e9",
+          "url": "https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi"
+        }
+      ],
+      "duration_ms": 170526,
+      "name": "BILLING = CHILLING",
+      "url": "https://open.spotify.com/track/0whm71yydiyeu8W2WnKAD4"
     },
     {
       "added_at": "2023-07-20 23:26:57",
@@ -795,26 +811,6 @@
     {
       "added_at": "2023-07-20 23:26:57",
       "album": {
-        "name": "19 & Dangerous",
-        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 208500,
-      "name": "Beggie Beggie",
-      "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
-    },
-    {
-      "added_at": "2023-07-20 23:26:57",
-      "album": {
         "name": "Yeh Yeh (feat. Rema, Ayra Starr & KDDO)",
         "url": "https://open.spotify.com/album/1Y6LoHbeKILpI5SLC4PIB7"
       },
@@ -839,6 +835,26 @@
       "duration_ms": 207727,
       "name": "Yeh Yeh (feat. Rema, Ayra Starr & KDDO)",
       "url": "https://open.spotify.com/track/1kVcV9KNy7u0aHsmjHRsce"
+    },
+    {
+      "added_at": "2023-07-20 23:26:57",
+      "album": {
+        "name": "19 & Dangerous",
+        "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 208500,
+      "name": "Beggie Beggie",
+      "url": "https://open.spotify.com/track/6zublRIkZocboXucqc8hgB"
     },
     {
       "added_at": "2023-07-20 23:26:57",
@@ -955,26 +971,6 @@
     {
       "added_at": "2023-07-20 23:26:57",
       "album": {
-        "name": "Spell (Remix)",
-        "url": "https://open.spotify.com/album/1PkHJwwi8qhvfT7f5UDPfW"
-      },
-      "artists": [
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 173304,
-      "name": "Spell - Remix",
-      "url": "https://open.spotify.com/track/1rgpvUOxnI0Mno6OTsXTFh"
-    },
-    {
-      "added_at": "2023-07-20 23:26:57",
-      "album": {
         "name": "Boy Alone (Deluxe)",
         "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
       },
@@ -995,6 +991,26 @@
     {
       "added_at": "2023-07-20 23:26:57",
       "album": {
+        "name": "Spell (Remix)",
+        "url": "https://open.spotify.com/album/1PkHJwwi8qhvfT7f5UDPfW"
+      },
+      "artists": [
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 173304,
+      "name": "Spell - Remix",
+      "url": "https://open.spotify.com/track/1rgpvUOxnI0Mno6OTsXTFh"
+    },
+    {
+      "added_at": "2023-07-20 23:26:57",
+      "album": {
         "name": "Foreigner",
         "url": "https://open.spotify.com/album/4JUUgaTGiFYaZmA4mXlieZ"
       },
@@ -1007,26 +1023,6 @@
       "duration_ms": 234384,
       "name": "Foreigner",
       "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
-    },
-    {
-      "added_at": "2023-07-20 23:26:57",
-      "album": {
-        "name": "Love & Trust",
-        "url": "https://open.spotify.com/album/1R0lN0IUKzFO6eLUlzDFSJ"
-      },
-      "artists": [
-        {
-          "name": "Iyanya",
-          "url": "https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h"
-        },
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 165217,
-      "name": "Love and Trust",
-      "url": "https://open.spotify.com/track/2Vt3LIt6PTK8f0LeKt0DnQ"
     },
     {
       "added_at": "2023-07-20 23:26:57",
@@ -1055,26 +1051,38 @@
     {
       "added_at": "2023-07-20 23:26:57",
       "album": {
-        "name": "Beast Of Our Nation",
-        "url": "https://open.spotify.com/album/3XJ6bJau4xm8Y4VztksHDB"
+        "name": "Love & Trust",
+        "url": "https://open.spotify.com/album/1R0lN0IUKzFO6eLUlzDFSJ"
       },
       "artists": [
         {
-          "name": "King Perryy",
-          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
+          "name": "Iyanya",
+          "url": "https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h"
         },
         {
-          "name": "Wizard Chan",
-          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
-        },
-        {
-          "name": "Tuzi",
-          "url": "https://open.spotify.com/artist/1HXbtVifzaPxY9bPiEWQpQ"
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
         }
       ],
-      "duration_ms": 198472,
-      "name": "Beast Of Our Nation",
-      "url": "https://open.spotify.com/track/4AvHmqAOvD0hxFiEemrFIH"
+      "duration_ms": 165217,
+      "name": "Love and Trust",
+      "url": "https://open.spotify.com/track/2Vt3LIt6PTK8f0LeKt0DnQ"
+    },
+    {
+      "added_at": "2023-07-20 23:26:57",
+      "album": {
+        "name": "Excited",
+        "url": "https://open.spotify.com/album/4JSZI9W4FtOBaOgd4TJWMY"
+      },
+      "artists": [
+        {
+          "name": "July 7",
+          "url": "https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA"
+        }
+      ],
+      "duration_ms": 123428,
+      "name": "Excited",
+      "url": "https://open.spotify.com/track/4bRmk5LSrDbeJZOa6NDV8b"
     },
     {
       "added_at": "2023-07-20 23:26:57",
@@ -1103,18 +1111,26 @@
     {
       "added_at": "2023-07-20 23:26:57",
       "album": {
-        "name": "Excited",
-        "url": "https://open.spotify.com/album/4JSZI9W4FtOBaOgd4TJWMY"
+        "name": "Beast Of Our Nation",
+        "url": "https://open.spotify.com/album/3XJ6bJau4xm8Y4VztksHDB"
       },
       "artists": [
         {
-          "name": "July 7",
-          "url": "https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA"
+          "name": "King Perryy",
+          "url": "https://open.spotify.com/artist/2Srxd4jkUb5hcZEJO1SPnW"
+        },
+        {
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+        },
+        {
+          "name": "Tuzi",
+          "url": "https://open.spotify.com/artist/1HXbtVifzaPxY9bPiEWQpQ"
         }
       ],
-      "duration_ms": 123428,
-      "name": "Excited",
-      "url": "https://open.spotify.com/track/4bRmk5LSrDbeJZOa6NDV8b"
+      "duration_ms": 198472,
+      "name": "Beast Of Our Nation",
+      "url": "https://open.spotify.com/track/4AvHmqAOvD0hxFiEemrFIH"
     },
     {
       "added_at": "2023-07-20 23:26:57",
@@ -1175,22 +1191,6 @@
     {
       "added_at": "2023-07-20 23:26:57",
       "album": {
-        "name": "Dues",
-        "url": "https://open.spotify.com/album/0in26luSRywY7oDHnR53Cr"
-      },
-      "artists": [
-        {
-          "name": "Sean Tizzle",
-          "url": "https://open.spotify.com/artist/6J5O4svAiMxfVAisbPhA5a"
-        }
-      ],
-      "duration_ms": 196474,
-      "name": "Witness",
-      "url": "https://open.spotify.com/track/4pfCZ6PVVAQKlMyViDsQ5O"
-    },
-    {
-      "added_at": "2023-07-20 23:26:57",
-      "album": {
         "name": "A Night In Cocody",
         "url": "https://open.spotify.com/album/7fj4P4j4HNVXX5PZtMaEi2"
       },
@@ -1215,18 +1215,18 @@
     {
       "added_at": "2023-07-20 23:26:57",
       "album": {
-        "name": "Far Away",
-        "url": "https://open.spotify.com/album/57oEI8ZsS1oPc6bYwgfNiT"
+        "name": "Dues",
+        "url": "https://open.spotify.com/album/0in26luSRywY7oDHnR53Cr"
       },
       "artists": [
         {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+          "name": "Sean Tizzle",
+          "url": "https://open.spotify.com/artist/6J5O4svAiMxfVAisbPhA5a"
         }
       ],
-      "duration_ms": 139000,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/6ytwuDs4xBbt0TllrIZi4C"
+      "duration_ms": 196474,
+      "name": "Witness",
+      "url": "https://open.spotify.com/track/4pfCZ6PVVAQKlMyViDsQ5O"
     },
     {
       "added_at": "2023-07-20 23:26:57",
@@ -1247,18 +1247,18 @@
     {
       "added_at": "2023-07-20 23:26:57",
       "album": {
-        "name": "Don't Tell Anyone",
-        "url": "https://open.spotify.com/album/7DWtbxvd2vX3mNwVAO44iY"
+        "name": "Far Away",
+        "url": "https://open.spotify.com/album/57oEI8ZsS1oPc6bYwgfNiT"
       },
       "artists": [
         {
-          "name": "Mannywellz",
-          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
         }
       ],
-      "duration_ms": 177300,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/6iPyqbLdI5aXk4GftBma2B"
+      "duration_ms": 139000,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/6ytwuDs4xBbt0TllrIZi4C"
     },
     {
       "added_at": "2023-07-20 23:26:57",
@@ -1279,22 +1279,18 @@
     {
       "added_at": "2023-07-20 23:26:57",
       "album": {
-        "name": "Mango Juice & Bad Decisions",
-        "url": "https://open.spotify.com/album/0YKc3XhPcRHiM9ofkNn1eL"
+        "name": "Don't Tell Anyone",
+        "url": "https://open.spotify.com/album/7DWtbxvd2vX3mNwVAO44iY"
       },
       "artists": [
         {
-          "name": "Ay\u00fc\u00fc",
-          "url": "https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7"
-        },
-        {
-          "name": "Andr\u0119 Wolff",
-          "url": "https://open.spotify.com/artist/5oOskrwWHIzrhb0DBCor85"
+          "name": "Mannywellz",
+          "url": "https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL"
         }
       ],
-      "duration_ms": 161828,
-      "name": "'00 Nostalgia",
-      "url": "https://open.spotify.com/track/5lF0OJHp09PfZofnC9ZrBH"
+      "duration_ms": 177300,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/6iPyqbLdI5aXk4GftBma2B"
     },
     {
       "added_at": "2023-07-20 23:26:57",
@@ -1319,6 +1315,26 @@
     {
       "added_at": "2023-07-20 23:26:57",
       "album": {
+        "name": "Mango Juice & Bad Decisions",
+        "url": "https://open.spotify.com/album/0YKc3XhPcRHiM9ofkNn1eL"
+      },
+      "artists": [
+        {
+          "name": "Ay\u00fc\u00fc",
+          "url": "https://open.spotify.com/artist/3FsvslOG6CKAJF9TZ5N9f7"
+        },
+        {
+          "name": "Andr\u0119 Wolff",
+          "url": "https://open.spotify.com/artist/5oOskrwWHIzrhb0DBCor85"
+        }
+      ],
+      "duration_ms": 161828,
+      "name": "'00 Nostalgia",
+      "url": "https://open.spotify.com/track/5lF0OJHp09PfZofnC9ZrBH"
+    },
+    {
+      "added_at": "2023-07-20 23:26:57",
+      "album": {
         "name": "Rosemary",
         "url": "https://open.spotify.com/album/1MwiNkYbclqgoGEEOpGTed"
       },
@@ -1339,22 +1355,6 @@
     {
       "added_at": "2023-07-20 23:26:57",
       "album": {
-        "name": "Love Dimension",
-        "url": "https://open.spotify.com/album/5WwKRfcpYRBA8MSuLHoetx"
-      },
-      "artists": [
-        {
-          "name": "MOONLIGHT AFRIQA",
-          "url": "https://open.spotify.com/artist/2yWEoKFUDsghitIZNPACiF"
-        }
-      ],
-      "duration_ms": 145871,
-      "name": "Love Dimension",
-      "url": "https://open.spotify.com/track/4UCwWL7cXSnRzQQzqnPZVN"
-    },
-    {
-      "added_at": "2023-07-20 23:26:57",
-      "album": {
         "name": "troublin - A COLORS SHOW",
         "url": "https://open.spotify.com/album/1KCidWMSBM1Manslu7zT2K"
       },
@@ -1367,6 +1367,22 @@
       "duration_ms": 145594,
       "name": "troublin - A COLORS SHOW",
       "url": "https://open.spotify.com/track/7y7iGYV1c2XIPIvPh8TbN1"
+    },
+    {
+      "added_at": "2023-07-20 23:26:57",
+      "album": {
+        "name": "Love Dimension",
+        "url": "https://open.spotify.com/album/5WwKRfcpYRBA8MSuLHoetx"
+      },
+      "artists": [
+        {
+          "name": "MOONLIGHT AFRIQA",
+          "url": "https://open.spotify.com/artist/2yWEoKFUDsghitIZNPACiF"
+        }
+      ],
+      "duration_ms": 145871,
+      "name": "Love Dimension",
+      "url": "https://open.spotify.com/track/4UCwWL7cXSnRzQQzqnPZVN"
     },
     {
       "added_at": "2023-07-20 23:26:57",
@@ -1427,6 +1443,22 @@
     {
       "added_at": "2023-07-20 23:26:57",
       "album": {
+        "name": "Peace Of Mind",
+        "url": "https://open.spotify.com/album/7uqB8voCddKMJcP2Qee1yP"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 208692,
+      "name": "Peace Of Mind",
+      "url": "https://open.spotify.com/track/5xZEUteaWi0jFAGAKPPWw0"
+    },
+    {
+      "added_at": "2023-07-20 23:26:57",
+      "album": {
         "name": "Gbagada Express",
         "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
       },
@@ -1447,22 +1479,6 @@
       "duration_ms": 160000,
       "name": "Your Love (Mogbe)",
       "url": "https://open.spotify.com/track/6WDgwgR3fAu9UfLXz1iHCz"
-    },
-    {
-      "added_at": "2023-07-20 23:26:57",
-      "album": {
-        "name": "Peace Of Mind",
-        "url": "https://open.spotify.com/album/7uqB8voCddKMJcP2Qee1yP"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 208692,
-      "name": "Peace Of Mind",
-      "url": "https://open.spotify.com/track/5xZEUteaWi0jFAGAKPPWw0"
     }
   ],
   "unique_name": "Chill Bops",

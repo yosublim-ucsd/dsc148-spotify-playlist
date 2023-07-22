@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 
 > 上班時間很長，就讓最新最動聽的國語歌陪你，舒服輕聽一起渡過吧！
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,257 likes - 105 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,272 likes - 105 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX71sJP2OzuBP.md) - [plain]
 | 104 | [雨季](https://open.spotify.com/track/7zJLX40mHrjN4NfoT4GZpR) | [Ariel Tsai](https://open.spotify.com/artist/5dS7yN8gXQcQNxuuVOABIk) | [雨季](https://open.spotify.com/album/3z2ycnShuTsTkPj78LNLa3) | 4:21 |
 | 105 | [流沙 \(Reimagined\)](https://open.spotify.com/track/0KFftmgOExvXxMH0zZK4jH) | [David Tao](https://open.spotify.com/artist/40tNK2YedBV2jRFAHxpifB) | [流沙 \(Reimagined\)](https://open.spotify.com/album/2qBynilrtiV9e0Zh2drTow) | 4:51 |
 
-Snapshot ID: `MCw0MzA1Y2M2Y2ZjMWI5NmU4MGIwNjZjYzZiYzE5NzdhODAzMWQwMmNk`
+Snapshot ID: `MCwxZTc3NDE3NTIzYzdjYzExMDgxOGE1ZjA3YjIwNGRiNDI4NzBhODY5`

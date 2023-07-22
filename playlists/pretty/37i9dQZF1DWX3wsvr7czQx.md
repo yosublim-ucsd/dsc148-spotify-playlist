@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3wsvr7czQx.md) - [plain]
 
 > Icons only\. Cover: Michael Bolton
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,195 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,209 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dippin My Feet](https://open.spotify.com/track/0hb9885MfdqibhnFysxCon) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Dippin My Feet](https://open.spotify.com/album/2S2jgHkv3R3lmc92DPHSjy) | 3:13 |
-| 2 | [Beautiful World](https://open.spotify.com/track/3jUvfhQkh89AHkl2f4nNAE) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn), [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu) | [Beautiful World](https://open.spotify.com/album/6t00567XAMyOx3B7Yj0cEG) | 3:19 |
-| 3 | [Automatic](https://open.spotify.com/track/6KgSNIpIoasIodiMWLAaD9) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Automatic](https://open.spotify.com/album/6ZNZEqAoxAxuCQxCQkn7il) | 3:07 |
+| 1 | [Beautiful World](https://open.spotify.com/track/3jUvfhQkh89AHkl2f4nNAE) | [Michael Bolton](https://open.spotify.com/artist/6YHEMoNPbcheiWS2haGzkn), [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu) | [Beautiful World](https://open.spotify.com/album/6t00567XAMyOx3B7Yj0cEG) | 3:19 |
+| 2 | [Dippin My Feet](https://open.spotify.com/track/0hb9885MfdqibhnFysxCon) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Dippin My Feet](https://open.spotify.com/album/2S2jgHkv3R3lmc92DPHSjy) | 3:13 |
+| 3 | [Exit Wound](https://open.spotify.com/track/0V1cNtY74UmCVJn44yBZ5i) | [Rick Springfield](https://open.spotify.com/artist/6IFXsrXBpwbIqtOUOiAa3p) | [Exit Wound](https://open.spotify.com/album/2vLZvJJPD9eJQ8GY4BlDap) | 2:41 |
 | 4 | [What You Heard](https://open.spotify.com/track/4y4C6YlIAf9Wjx65uU7nOg) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [What You Heard](https://open.spotify.com/album/5egLTfkAIvzX8y5FWFerxV) | 3:44 |
 | 5 | [Love Again](https://open.spotify.com/track/7LYV8DzfYdArevWVyNNIZ0) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Love Again \(Soundtrack from the Motion Picture\)](https://open.spotify.com/album/1YV5gnob3qCnMQuVomwGwG) | 3:32 |
 | 6 | [Lost Inside Your Heart](https://open.spotify.com/track/6YTU4q4ti2tcqIUpbN63I1) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9), [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Lost Inside Your Heart](https://open.spotify.com/album/3KYaEaS8IySjbFUgjLIi74) | 4:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3wsvr7czQx.md) - [plain]
 | 49 | [Find My Way](https://open.spotify.com/track/1SYdSWLyeVMjHYXD1iJZoY) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney III](https://open.spotify.com/album/1P7h3400RJA3YZm8Va2884) | 3:54 |
 | 50 | [Bang A Gong \(Get It On\)](https://open.spotify.com/track/53D3QRrXV0vyy2PSXAhuxG) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Bang A Gong \(Get It On\)](https://open.spotify.com/album/0aptgsGtrV5XvnopE7ZjSo) | 4:26 |
 
-Snapshot ID: `MCwwYmFhOTQ2ZTVhNGM1NGQyY2VmNmM5NWVmOGRkZjc1ZTU3MGQyMmI4`
+Snapshot ID: `MCxjZWE5ZWNlNDlhZWZlYThlOGQ4N2RjM2M3NGVlNGQ0MGNmNDc0ZWJi`

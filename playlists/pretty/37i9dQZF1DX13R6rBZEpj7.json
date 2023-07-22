@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. Bushbaby",
-  "num_followers": 196361,
+  "num_followers": 196390,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMWJiMzRlZDIwYWMzYjVkYjFjNzhhZmU2NWM2MGE2ZGI4OWUwNWVl",
+  "snapshot_id": "MCwyMThmZDhiNDUxMDk1NGEzNDMzNWQ1NmY0NjgyNzdjZDk1ZThhM2U4",
   "tracks": [
     {
       "added_at": "2023-04-04 13:33:05",
@@ -747,26 +747,6 @@
     {
       "added_at": "2023-04-04 13:33:05",
       "album": {
-        "name": "Ruins",
-        "url": "https://open.spotify.com/album/01BZZCEXgzCdHDx8fWcVpv"
-      },
-      "artists": [
-        {
-          "name": "Sisko",
-          "url": "https://open.spotify.com/artist/0helc55eMzPEXyUqV0qZt3"
-        },
-        {
-          "name": "3000 Bass",
-          "url": "https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM"
-        }
-      ],
-      "duration_ms": 237293,
-      "name": "Ruins",
-      "url": "https://open.spotify.com/track/7ADvgniUzfEEh2eTqgpkz8"
-    },
-    {
-      "added_at": "2023-04-04 13:33:05",
-      "album": {
         "name": "Faith In Chaos",
         "url": "https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr"
       },
@@ -807,6 +787,46 @@
     {
       "added_at": "2023-04-04 13:33:05",
       "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/01BZZCEXgzCdHDx8fWcVpv"
+      },
+      "artists": [
+        {
+          "name": "Sisko",
+          "url": "https://open.spotify.com/artist/0helc55eMzPEXyUqV0qZt3"
+        },
+        {
+          "name": "3000 Bass",
+          "url": "https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM"
+        }
+      ],
+      "duration_ms": 237293,
+      "name": "Ruins",
+      "url": "https://open.spotify.com/track/7ADvgniUzfEEh2eTqgpkz8"
+    },
+    {
+      "added_at": "2023-04-04 13:33:05",
+      "album": {
+        "name": "Fly With Us",
+        "url": "https://open.spotify.com/album/08yuXaVx0deTrZiBbLs8ny"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        }
+      ],
+      "duration_ms": 248437,
+      "name": "Fly With Us",
+      "url": "https://open.spotify.com/track/0qOmGg55Xzv8xBBJa1rBEI"
+    },
+    {
+      "added_at": "2023-04-04 13:33:05",
+      "album": {
         "name": "Knock Knock",
         "url": "https://open.spotify.com/album/1wCezsULBQ87NvJ3u2bTQ2"
       },
@@ -823,6 +843,26 @@
       "duration_ms": 198372,
       "name": "Knock Knock",
       "url": "https://open.spotify.com/track/19SBdTkyhMdRDNxpydbxzc"
+    },
+    {
+      "added_at": "2023-04-04 13:33:05",
+      "album": {
+        "name": "Secure the Bag",
+        "url": "https://open.spotify.com/album/5rTDT905QMFyy0vrUMpaiO"
+      },
+      "artists": [
+        {
+          "name": "Skepsis",
+          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
+        },
+        {
+          "name": "Flava D",
+          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
+        }
+      ],
+      "duration_ms": 248841,
+      "name": "Secure the Bag",
+      "url": "https://open.spotify.com/track/7bT9PtLrGTCXGjjhgrvMfg"
     },
     {
       "added_at": "2023-04-04 13:33:05",
@@ -907,26 +947,6 @@
     {
       "added_at": "2023-04-04 13:33:05",
       "album": {
-        "name": "Fly With Us",
-        "url": "https://open.spotify.com/album/08yuXaVx0deTrZiBbLs8ny"
-      },
-      "artists": [
-        {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        },
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        }
-      ],
-      "duration_ms": 248437,
-      "name": "Fly With Us",
-      "url": "https://open.spotify.com/track/0qOmGg55Xzv8xBBJa1rBEI"
-    },
-    {
-      "added_at": "2023-04-04 13:33:05",
-      "album": {
         "name": "Chances",
         "url": "https://open.spotify.com/album/5I2lhIqmWeAtsQD1kXtyC7"
       },
@@ -939,42 +959,6 @@
       "duration_ms": 310909,
       "name": "Chances",
       "url": "https://open.spotify.com/track/59PTNOT9TYu7MFJ6pSrCNZ"
-    },
-    {
-      "added_at": "2023-04-04 13:33:05",
-      "album": {
-        "name": "Secure the Bag",
-        "url": "https://open.spotify.com/album/5rTDT905QMFyy0vrUMpaiO"
-      },
-      "artists": [
-        {
-          "name": "Skepsis",
-          "url": "https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC"
-        },
-        {
-          "name": "Flava D",
-          "url": "https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ"
-        }
-      ],
-      "duration_ms": 248841,
-      "name": "Secure the Bag",
-      "url": "https://open.spotify.com/track/7bT9PtLrGTCXGjjhgrvMfg"
-    },
-    {
-      "added_at": "2023-04-04 13:33:05",
-      "album": {
-        "name": "Affiliation",
-        "url": "https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU"
-      },
-      "artists": [
-        {
-          "name": "Bermal",
-          "url": "https://open.spotify.com/artist/2I50LWeOqOFm3bagM840Nt"
-        }
-      ],
-      "duration_ms": 190437,
-      "name": "Affiliation",
-      "url": "https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0"
     },
     {
       "added_at": "2023-04-04 13:33:05",
@@ -999,6 +983,22 @@
     {
       "added_at": "2023-04-04 13:33:05",
       "album": {
+        "name": "Affiliation",
+        "url": "https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU"
+      },
+      "artists": [
+        {
+          "name": "Bermal",
+          "url": "https://open.spotify.com/artist/2I50LWeOqOFm3bagM840Nt"
+        }
+      ],
+      "duration_ms": 190437,
+      "name": "Affiliation",
+      "url": "https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0"
+    },
+    {
+      "added_at": "2023-04-04 13:33:05",
+      "album": {
         "name": "Far",
         "url": "https://open.spotify.com/album/03daUVa25K5OyTJ3cLoDFF"
       },
@@ -1011,26 +1011,6 @@
       "duration_ms": 250918,
       "name": "Far",
       "url": "https://open.spotify.com/track/4KX4AX0kOuXfVjByTbBLoe"
-    },
-    {
-      "added_at": "2023-04-04 13:33:05",
-      "album": {
-        "name": "All My Love",
-        "url": "https://open.spotify.com/album/1aNYbx5BHK36hFD5bbXW98"
-      },
-      "artists": [
-        {
-          "name": "TS7",
-          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
-        },
-        {
-          "name": "Reigns",
-          "url": "https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG"
-        }
-      ],
-      "duration_ms": 169385,
-      "name": "All My Love",
-      "url": "https://open.spotify.com/track/1v0pYeyqnuqVXfwvT4VodR"
     },
     {
       "added_at": "2023-04-04 13:33:05",
@@ -1067,6 +1047,26 @@
       "duration_ms": 225000,
       "name": "Acid",
       "url": "https://open.spotify.com/track/1RvSHMTBwIpNbqvpSPHcNV"
+    },
+    {
+      "added_at": "2023-04-04 13:33:05",
+      "album": {
+        "name": "All My Love",
+        "url": "https://open.spotify.com/album/1aNYbx5BHK36hFD5bbXW98"
+      },
+      "artists": [
+        {
+          "name": "TS7",
+          "url": "https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki"
+        },
+        {
+          "name": "Reigns",
+          "url": "https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG"
+        }
+      ],
+      "duration_ms": 169385,
+      "name": "All My Love",
+      "url": "https://open.spotify.com/track/1v0pYeyqnuqVXfwvT4VodR"
     },
     {
       "added_at": "2023-04-04 13:33:05",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2023-04-04 13:33:05",
       "album": {
-        "name": "Emergency",
-        "url": "https://open.spotify.com/album/6amlh9MV3y02Lj1cJtcoHE"
-      },
-      "artists": [
-        {
-          "name": "Jessica Audiffred",
-          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
-        },
-        {
-          "name": "Mila Falls",
-          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "Emergency",
-      "url": "https://open.spotify.com/track/1J2vZvRwW6xjIlsZsydkCO"
-    },
-    {
-      "added_at": "2023-04-04 13:33:05",
-      "album": {
         "name": "Hard Hitters",
         "url": "https://open.spotify.com/album/10ugYCkUnBCin3OWtGTlMl"
       },
@@ -1243,6 +1223,26 @@
       "duration_ms": 232602,
       "name": "Hard Hitters",
       "url": "https://open.spotify.com/track/6T4YgCYDVBlzpdtsknFeQ7"
+    },
+    {
+      "added_at": "2023-04-04 13:33:05",
+      "album": {
+        "name": "Emergency",
+        "url": "https://open.spotify.com/album/6amlh9MV3y02Lj1cJtcoHE"
+      },
+      "artists": [
+        {
+          "name": "Jessica Audiffred",
+          "url": "https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD"
+        },
+        {
+          "name": "Mila Falls",
+          "url": "https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "Emergency",
+      "url": "https://open.spotify.com/track/1J2vZvRwW6xjIlsZsydkCO"
     },
     {
       "added_at": "2023-04-04 13:33:05",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2023-04-04 13:33:05",
       "album": {
-        "name": "Barrington / Bodies",
-        "url": "https://open.spotify.com/album/0uDvHt1lG8KyGrxmfDBmpk"
+        "name": "Hold Me Close",
+        "url": "https://open.spotify.com/album/6kdTGKNxuMUgQ50WhIdVpg"
       },
       "artists": [
         {
-          "name": "MPH",
-          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
+          "name": "Jacko",
+          "url": "https://open.spotify.com/artist/4HBwYjwyfn1X6KO6PqY9ia"
         }
       ],
-      "duration_ms": 221818,
-      "name": "Barrington",
-      "url": "https://open.spotify.com/track/5EBKqgDTtlFfigzfGbNbii"
+      "duration_ms": 232888,
+      "name": "Hold Me Close",
+      "url": "https://open.spotify.com/track/5UM597AY45L1gpRsLdslRu"
     },
     {
       "added_at": "2023-04-04 13:33:05",
@@ -1303,18 +1303,34 @@
     {
       "added_at": "2023-04-04 13:33:05",
       "album": {
-        "name": "Hold Me Close",
-        "url": "https://open.spotify.com/album/6kdTGKNxuMUgQ50WhIdVpg"
+        "name": "Barrington / Bodies",
+        "url": "https://open.spotify.com/album/0uDvHt1lG8KyGrxmfDBmpk"
       },
       "artists": [
         {
-          "name": "Jacko",
-          "url": "https://open.spotify.com/artist/4HBwYjwyfn1X6KO6PqY9ia"
+          "name": "MPH",
+          "url": "https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof"
         }
       ],
-      "duration_ms": 232888,
-      "name": "Hold Me Close",
-      "url": "https://open.spotify.com/track/5UM597AY45L1gpRsLdslRu"
+      "duration_ms": 221818,
+      "name": "Barrington",
+      "url": "https://open.spotify.com/track/5EBKqgDTtlFfigzfGbNbii"
+    },
+    {
+      "added_at": "2023-04-04 13:33:05",
+      "album": {
+        "name": "Be Real",
+        "url": "https://open.spotify.com/album/3prkw0bYIfiZT0Q9Gmz431"
+      },
+      "artists": [
+        {
+          "name": "Dom Scanlon",
+          "url": "https://open.spotify.com/artist/2EhXwW8eckYjHTFWX1f49P"
+        }
+      ],
+      "duration_ms": 277500,
+      "name": "Be Real",
+      "url": "https://open.spotify.com/track/3i4xoeUihdScqGDnvkCFXb"
     },
     {
       "added_at": "2023-04-04 13:33:05",
@@ -1339,22 +1355,6 @@
       "duration_ms": 214545,
       "name": "Donny Don",
       "url": "https://open.spotify.com/track/3uwOIivH9QUkBTdkIRfo8c"
-    },
-    {
-      "added_at": "2023-04-04 13:33:05",
-      "album": {
-        "name": "Be Real",
-        "url": "https://open.spotify.com/album/3prkw0bYIfiZT0Q9Gmz431"
-      },
-      "artists": [
-        {
-          "name": "Dom Scanlon",
-          "url": "https://open.spotify.com/artist/2EhXwW8eckYjHTFWX1f49P"
-        }
-      ],
-      "duration_ms": 277500,
-      "name": "Be Real",
-      "url": "https://open.spotify.com/track/3i4xoeUihdScqGDnvkCFXb"
     },
     {
       "added_at": "2023-04-04 13:33:05",

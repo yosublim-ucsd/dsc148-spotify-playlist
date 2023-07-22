@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jG0L1fT9fh.md) - [plain]
 
 > Enjoy music from "KENGAN ASHURA"! "音楽で辿る、Netflixオリジナルアニメシリーズ「ケンガンアシュラ」の世界。
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,835 likes - 40 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,897 likes - 40 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1jG0L1fT9fh.md) - [plain]
 | 39 | [Shitou](https://open.spotify.com/track/0KAdaH8W42wWW0WE8uE8Lh) | [Yasuharu Takanashi](https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o) | [Kengan Ashura Original Soundtrack](https://open.spotify.com/album/4RWidQYHU2iYiQd45LbwqD) | 2:32 |
 | 40 | [Eccentric Parade](https://open.spotify.com/track/0neSATRBSylvwnttpqxUwK) | [Akinari Suzuki](https://open.spotify.com/artist/6BZSloar9skDGo2lVsveeC) | [Kengan Ashura Original Soundtrack](https://open.spotify.com/album/4RWidQYHU2iYiQd45LbwqD) | 3:37 |
 
-Snapshot ID: `MCwxMmYzNTEyYTQxYTVlOTI2MGUwZjJhYjg4MzM4NjIxYjYyOWNmNzc5`
+Snapshot ID: `MCw4OWM2ZDZmZjRmMzBjNWRhYWJhYzU5YjUwOTdjYTM4MzVhYjEwZjIz`

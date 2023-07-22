@@ -641,6 +641,24 @@
     },
     {
       "album": {
+        "name": "Tales of the Delta",
+        "url": "https://open.spotify.com/album/19i2DMKG833LoDi7nYWNm3"
+      },
+      "artists": [
+        {
+          "name": "Will Harrison",
+          "url": "https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177354,
+      "name": "Five Star Day",
+      "url": "https://open.spotify.com/track/4aKLpPhtOiNV0mhSQmhBvr"
+    },
+    {
+      "album": {
         "name": "All Blues",
         "url": "https://open.spotify.com/album/1WXRu9aB8wHIwjLqA2DnBu"
       },
@@ -1064,6 +1082,24 @@
       "duration_ms": 148114,
       "name": "Rainy Day Blues - Instrumental",
       "url": "https://open.spotify.com/track/2wDMSutZ0eXoB1cQ0WE8f7"
+    },
+    {
+      "album": {
+        "name": "Tales of the Delta",
+        "url": "https://open.spotify.com/album/19i2DMKG833LoDi7nYWNm3"
+      },
+      "artists": [
+        {
+          "name": "Will Harrison",
+          "url": "https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191625,
+      "name": "Reluctant Soldier",
+      "url": "https://open.spotify.com/track/1TkKKqz3YB9MdVyqJGhkny"
     },
     {
       "album": {

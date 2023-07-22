@@ -1,12 +1,12 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Ivandro e Julinho Ksd.",
-  "num_followers": 35883,
+  "num_followers": 35920,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjAwYTEyNjVmYTFlOGUyMWFmYTdmNGQ1ODRhYTliM2M0N2M5Yjlh",
+  "snapshot_id": "MCw3NDA3OGFlN2QyYWUzMWU5ZGNhZjgxZGQwZjk3NjQ2MmEwNmFlY2Vj",
   "tracks": [
     {
       "added_at": "2023-07-20 23:00:00",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-07-20 23:00:00",
       "album": {
+        "name": "Jony Driver",
+        "url": "https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM"
+      },
+      "artists": [
+        {
+          "name": "Papillon",
+          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
+        }
+      ],
+      "duration_ms": 257500,
+      "name": ".Sais e Minerais",
+      "url": "https://open.spotify.com/track/7AG0yXoN9odePnl0OJ2Mti"
+    },
+    {
+      "added_at": "2023-07-20 23:00:00",
+      "album": {
         "name": "Sons de Amor",
         "url": "https://open.spotify.com/album/7sov1YBuhBoydHePYGr69s"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 254400,
       "name": "Sons de Amor",
       "url": "https://open.spotify.com/track/44PSI3qwDKTTBa4TbqpjnL"
-    },
-    {
-      "added_at": "2023-07-20 23:00:00",
-      "album": {
-        "name": "Jony Driver",
-        "url": "https://open.spotify.com/album/2OAFHEa5FwNi9r0i9gMeXM"
-      },
-      "artists": [
-        {
-          "name": "Papillon",
-          "url": "https://open.spotify.com/artist/0Mum6waR8P9WICLVTpSi1d"
-        }
-      ],
-      "duration_ms": 257500,
-      "name": ".Sais e Minerais",
-      "url": "https://open.spotify.com/track/7AG0yXoN9odePnl0OJ2Mti"
     },
     {
       "added_at": "2023-07-20 23:00:00",
@@ -899,26 +899,6 @@
     {
       "added_at": "2023-07-20 23:00:00",
       "album": {
-        "name": "Situation",
-        "url": "https://open.spotify.com/album/4JLFABVMOBpf9Bvaympw9R"
-      },
-      "artists": [
-        {
-          "name": "EMMVR",
-          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
-        },
-        {
-          "name": "Hernani",
-          "url": "https://open.spotify.com/artist/0pv7KRBmPGExsFFLcyPv1y"
-        }
-      ],
-      "duration_ms": 245258,
-      "name": "Situation",
-      "url": "https://open.spotify.com/track/2jLRkFqxoSVrBy58M2to1D"
-    },
-    {
-      "added_at": "2023-07-20 23:00:00",
-      "album": {
         "name": "Sil\u00eancio",
         "url": "https://open.spotify.com/album/6eE9QWNodTwpLZTJ1SuYK8"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 136956,
       "name": "Sil\u00eancio",
       "url": "https://open.spotify.com/track/4h6Umf1vvnvtdk7T6swi8K"
+    },
+    {
+      "added_at": "2023-07-20 23:00:00",
+      "album": {
+        "name": "Situation",
+        "url": "https://open.spotify.com/album/4JLFABVMOBpf9Bvaympw9R"
+      },
+      "artists": [
+        {
+          "name": "EMMVR",
+          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
+        },
+        {
+          "name": "Hernani",
+          "url": "https://open.spotify.com/artist/0pv7KRBmPGExsFFLcyPv1y"
+        }
+      ],
+      "duration_ms": 245258,
+      "name": "Situation",
+      "url": "https://open.spotify.com/track/2jLRkFqxoSVrBy58M2to1D"
     },
     {
       "added_at": "2023-07-20 23:00:00",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-07-20 23:00:00",
       "album": {
+        "name": "Crime Scene",
+        "url": "https://open.spotify.com/album/0VPCMKPjFSI4x3tsTHh7r7"
+      },
+      "artists": [
+        {
+          "name": "EMMVR",
+          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
+        }
+      ],
+      "duration_ms": 178443,
+      "name": "Crime Scene",
+      "url": "https://open.spotify.com/track/1F5WB5IbKy6EDMs85lWifk"
+    },
+    {
+      "added_at": "2023-07-20 23:00:00",
+      "album": {
         "name": "Brio",
         "url": "https://open.spotify.com/album/26nGzK7VQ4i5APQW3BfApY"
       },
@@ -1071,22 +1087,6 @@
       "duration_ms": 148080,
       "name": "Maluca",
       "url": "https://open.spotify.com/track/1xwsTjTxnxs0EDdCBTTPbY"
-    },
-    {
-      "added_at": "2023-07-20 23:00:00",
-      "album": {
-        "name": "Crime Scene",
-        "url": "https://open.spotify.com/album/0VPCMKPjFSI4x3tsTHh7r7"
-      },
-      "artists": [
-        {
-          "name": "EMMVR",
-          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
-        }
-      ],
-      "duration_ms": 178443,
-      "name": "Crime Scene",
-      "url": "https://open.spotify.com/track/1F5WB5IbKy6EDMs85lWifk"
     },
     {
       "added_at": "2023-07-20 23:00:00",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2023-07-20 23:00:00",
       "album": {
+        "name": "Cara do Pai",
+        "url": "https://open.spotify.com/album/1kRPEJqYFVtHxXVWBkDZbR"
+      },
+      "artists": [
+        {
+          "name": "Argana\u00e7a",
+          "url": "https://open.spotify.com/artist/4i9YZ46se9VOp2eSLbCg4i"
+        }
+      ],
+      "duration_ms": 189818,
+      "name": "Cara do Pai",
+      "url": "https://open.spotify.com/track/2CcZEYj1ef6k9JMunarSvT"
+    },
+    {
+      "added_at": "2023-07-20 23:00:00",
+      "album": {
         "name": "Free to B",
         "url": "https://open.spotify.com/album/2nfEWNNx4l34rISTpx55ZO"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 147351,
       "name": "T\u00e1 Pedir",
       "url": "https://open.spotify.com/track/2m9cYbN5VmL4rfSZEocFgd"
-    },
-    {
-      "added_at": "2023-07-20 23:00:00",
-      "album": {
-        "name": "Cara do Pai",
-        "url": "https://open.spotify.com/album/1kRPEJqYFVtHxXVWBkDZbR"
-      },
-      "artists": [
-        {
-          "name": "Argana\u00e7a",
-          "url": "https://open.spotify.com/artist/4i9YZ46se9VOp2eSLbCg4i"
-        }
-      ],
-      "duration_ms": 189818,
-      "name": "Cara do Pai",
-      "url": "https://open.spotify.com/track/2CcZEYj1ef6k9JMunarSvT"
     },
     {
       "added_at": "2023-07-20 23:00:00",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-07-20 23:00:00",
       "album": {
-        "name": "Conex\u00e3o Azul",
-        "url": "https://open.spotify.com/album/67Bwhan77xYqoRiYvjSGXu"
-      },
-      "artists": [
-        {
-          "name": "Calalo",
-          "url": "https://open.spotify.com/artist/6Ou70gVIleVNUiJV3uKZjs"
-        }
-      ],
-      "duration_ms": 235666,
-      "name": "Conex\u00e3o Azul",
-      "url": "https://open.spotify.com/track/1l4MVDQp58XeqCZx7n7om5"
-    },
-    {
-      "added_at": "2023-07-20 23:00:00",
-      "album": {
         "name": "Sola",
         "url": "https://open.spotify.com/album/5d7DGxDhoMuCwSuLpremAd"
       },
@@ -1295,6 +1279,42 @@
     {
       "added_at": "2023-07-20 23:00:00",
       "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/0pn34Jy1gpmSxndfxRgk2W"
+      },
+      "artists": [
+        {
+          "name": "TAY",
+          "url": "https://open.spotify.com/artist/1ZJx1mKaG5qDGe1kvpbSMu"
+        },
+        {
+          "name": "Chelsea Dinorath",
+          "url": "https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp"
+        }
+      ],
+      "duration_ms": 190041,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/4orKcwZBZMdGXrNxilo8Jt"
+    },
+    {
+      "added_at": "2023-07-20 23:00:00",
+      "album": {
+        "name": "Conex\u00e3o Azul",
+        "url": "https://open.spotify.com/album/67Bwhan77xYqoRiYvjSGXu"
+      },
+      "artists": [
+        {
+          "name": "Calalo",
+          "url": "https://open.spotify.com/artist/6Ou70gVIleVNUiJV3uKZjs"
+        }
+      ],
+      "duration_ms": 235666,
+      "name": "Conex\u00e3o Azul",
+      "url": "https://open.spotify.com/track/1l4MVDQp58XeqCZx7n7om5"
+    },
+    {
+      "added_at": "2023-07-20 23:00:00",
+      "album": {
         "name": "Low Battery",
         "url": "https://open.spotify.com/album/7MAZwo9FGDXWR98xQk8hov"
       },
@@ -1307,22 +1327,6 @@
       "duration_ms": 153600,
       "name": "Low Battery",
       "url": "https://open.spotify.com/track/1ifKnE1zRakLFvAZXhHip4"
-    },
-    {
-      "added_at": "2023-07-20 23:00:00",
-      "album": {
-        "name": "Musa",
-        "url": "https://open.spotify.com/album/3LP4aTOzSQ1ZVVVZ7hV7ck"
-      },
-      "artists": [
-        {
-          "name": "GBr\u00efsido",
-          "url": "https://open.spotify.com/artist/3QmMiG6180GqdDrl35xqRy"
-        }
-      ],
-      "duration_ms": 212020,
-      "name": "Musa",
-      "url": "https://open.spotify.com/track/5bNmKRaW9AISMPNeDoz0B3"
     }
   ],
   "unique_name": "Seda",

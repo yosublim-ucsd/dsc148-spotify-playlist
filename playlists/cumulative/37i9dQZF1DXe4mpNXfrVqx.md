@@ -2,14 +2,15 @@
 
 ### [Só as Minas](https://open.spotify.com/playlist/37i9dQZF1DXe4mpNXfrVqx)
 
-> Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Boombeat
+> Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Mih, Amabbi
 
-140 songs - 6 hr 12 min
+141 songs - 6 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [18K](https://open.spotify.com/track/2OnR3EE6hnr3mkQb8VrdrJ) | [Razza](https://open.spotify.com/artist/4YloRSGWAe8uoTJANaYpNL), [Lil Tec](https://open.spotify.com/artist/62ZZ5XZHCUg0O6QMPzEAQQ) | [18K](https://open.spotify.com/album/5b85c5VRv1qghJcBUFyHBI) | 2:22 | 2022-03-18 |  |
 | [A Firma é Forte](https://open.spotify.com/track/2hXPKwtp3D4LJl29MalPMh) | [Hyperanhas](https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz), [LOUD](https://open.spotify.com/artist/5IxHRw1SD3SAHXozuWWTFS), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [A Firma é Forte](https://open.spotify.com/album/4CzzlUFpX7RPTzALrKFQYk) | 2:43 | 2022-03-18 |  |
+| [A Trança](https://open.spotify.com/track/0qyvAoh5RL05BlUbGTnYBm) | [Mih](https://open.spotify.com/artist/61zf1QL76js0BddVLq77lj), [Amabbi](https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [A Trança](https://open.spotify.com/album/2I9FyslpABgSZQ7zKizUGb) | 2:27 | 2023-07-21 |  |
 | [Alone](https://open.spotify.com/track/0ekFR7W6o4VPUHsDjn4ZU4) | [Nathy Mc](https://open.spotify.com/artist/5Hh5JFQlFsF2xqhCzJuJCo), [Eaedaddy](https://open.spotify.com/artist/3s8GYKFrXLsyx3WN6mdwh8) | [Alone](https://open.spotify.com/album/4MVU8BmR5lk8lxmH1RBMyu) | 2:42 | 2022-03-18 | 2022-11-12 |
 | [Ampulheta](https://open.spotify.com/track/4JDFZho5o7NiDmN3u8AwBR) | [MC Pipokinha](https://open.spotify.com/artist/7BT8x82CjBZUjJy6xj1G3O), [Ari Falcão](https://open.spotify.com/artist/1tJcpyjn4f1vbRJW1E7P3b), [DJ Glenner](https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK) | [Ampulheta](https://open.spotify.com/album/59rPrkTt8G1ffLlaMl49qN) | 2:02 | 2023-04-14 |  |
 | [Apocalipse](https://open.spotify.com/track/2SQSpgUipLIYLPTg3bpefW) | [Natalhão](https://open.spotify.com/artist/5ptoEbRZaVPuPXvWdsRrWc), [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [YOYOTRACKS](https://open.spotify.com/artist/0X813faPRmYEvgsc5foonA) | [Apocalipse](https://open.spotify.com/album/2W3iFFnbROvv5z8aKlyPQZ) | 2:39 | 2022-03-18 | 2023-04-22 |
@@ -123,7 +124,7 @@
 | [Remember](https://open.spotify.com/track/1CXIJfsvPU8TQYmi6LGmNn) | [Debbys](https://open.spotify.com/artist/1u77sNbUjAaku0o9mcpi6z), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr) | [Remember](https://open.spotify.com/album/0u6DBct3cUq9S9xEtTiv47) | 2:01 | 2022-08-05 | 2022-09-03 |
 | [Respeita as Minas](https://open.spotify.com/track/12eokSUVGbuNJpYZE07W8b) | [Somos um Só Banca](https://open.spotify.com/artist/6NH95N14iT8vk07LI7JoxL), [Liz Mc](https://open.spotify.com/artist/7eRDqAb3G1WpQdOq2Oxpnt), [MC Brendah](https://open.spotify.com/artist/1zcVZK6ImeqEX9vOJkSEaw), [Nubia Chris](https://open.spotify.com/artist/5IWKMNYQ8H9IuRCWOtBB1Z), [Andressa MC](https://open.spotify.com/artist/5rQZxNji6HtjNrQOeOVjas) | [Respeita as Minas](https://open.spotify.com/album/071sm1lfCvgoKA0kstQJUg) | 4:06 | 2022-03-18 | 2022-04-23 |
 | [S N P B](https://open.spotify.com/track/2ZILRHM8AfMlXY8FshGkgy) | [Luá Kali](https://open.spotify.com/artist/7erv73antdGnjobwarhKOv), [Souza Beats](https://open.spotify.com/artist/4GKTaVfXG0HMeGvK3g1JTq), [Kave](https://open.spotify.com/artist/30AsB6yzTLmEiqnHcSzTCw) | [S N P B](https://open.spotify.com/album/7oXtdqWwZM27N0v1oKMjus) | 2:30 | 2022-03-18 |  |
-| [Sagaz](https://open.spotify.com/track/29bg2slgQdSLT0tjsR95b9) | [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ) | [Sagaz](https://open.spotify.com/album/1qysRiSfDDpuxQNaS8AG6p) | 2:15 | 2022-03-18 |  |
+| [Sagaz](https://open.spotify.com/track/29bg2slgQdSLT0tjsR95b9) | [Samantha Machado](https://open.spotify.com/artist/5qQdzyIlYfzICKOVdb7XvY), [Tropa da W&S](https://open.spotify.com/artist/1APqNiQUA2XpwLEbywSWmZ) | [Sagaz](https://open.spotify.com/album/1qysRiSfDDpuxQNaS8AG6p) | 2:15 | 2022-03-18 | 2023-07-22 |
 | [Sem Medo](https://open.spotify.com/track/0oVkrusu3IE56ZxkIrUo1s) | [Killa Bi](https://open.spotify.com/artist/0fvXYAyHJ26i3CxGo2HSX2), [Skeeter Beats](https://open.spotify.com/artist/42xf1iqSOZluDWJ8RW2B9H) | [Sem Medo](https://open.spotify.com/album/7ArlUfHABsExfPlONAztaB) | 2:49 | 2023-05-05 |  |
 | [Sem Tempo](https://open.spotify.com/track/09ziftydXrtCwTqIQl5PFj) | [CALI](https://open.spotify.com/artist/58XX830AG7eO98Od1VXwC8) | [Sem Tempo](https://open.spotify.com/album/4Av4a7XW2YxfupT4mJDXXh) | 2:44 | 2022-03-18 | 2022-04-23 |
 | [Sexy Gangsta](https://open.spotify.com/track/21yVqxCsflyyryXIP28l1t) | [MC Lianna](https://open.spotify.com/artist/253787GLtYziEhnBoZfHZK) | [Sexy Gangsta](https://open.spotify.com/album/7gnMA5vsNq0uiIR63BU0AI) | 2:01 | 2023-02-03 |  |

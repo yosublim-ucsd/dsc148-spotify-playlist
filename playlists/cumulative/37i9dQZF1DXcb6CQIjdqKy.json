@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide. Cover:  <a href=\"https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu?si=425c759e419f4aeb\">Phil Wickham</a>",
+  "description": "The best mix of today's Christian music, all genres, worldwide. Cover:  <a href=\"https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8?si=7ytoR5-FTwC7F3qs6teXRA\">Jesus Culture</a>",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -938,6 +938,28 @@
       "duration_ms": 186626,
       "name": "Bloom",
       "url": "https://open.spotify.com/track/1Il0XFrv9AL3u6cpgvRvSF"
+    },
+    {
+      "album": {
+        "name": "Hidden Here",
+        "url": "https://open.spotify.com/album/5Ux7nchzxdGHPkr10dk6AP"
+      },
+      "artists": [
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        },
+        {
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262771,
+      "name": "Break The Bottle",
+      "url": "https://open.spotify.com/track/2Vf59fzWMGDRtLwolStTGw"
     },
     {
       "album": {
@@ -5633,6 +5655,28 @@
     },
     {
       "album": {
+        "name": "Why Not Right Now? (Live)",
+        "url": "https://open.spotify.com/album/5IMEDpmKoYS6tcYLiUogm0"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Chris McClarney",
+          "url": "https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239962,
+      "name": "Let The People Sing - Live",
+      "url": "https://open.spotify.com/track/4qqUXcqW6EgN4qDsmozSlY"
+    },
+    {
+      "album": {
         "name": "Let Your Light Shine",
         "url": "https://open.spotify.com/album/34sda18nBBQ2RUNR0R4Pft"
       },
@@ -6811,6 +6855,24 @@
     },
     {
       "album": {
+        "name": "Dante Bowe",
+        "url": "https://open.spotify.com/album/0k2wJSus536g9a8w4AU0GG"
+      },
+      "artists": [
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257954,
+      "name": "Not Hopeless",
+      "url": "https://open.spotify.com/track/2PD4wZW299Su24lbBeshuz"
+    },
+    {
+      "album": {
         "name": "Now Here (The Collection)",
         "url": "https://open.spotify.com/album/6O3TlNhKm1rXwGGClEDMOc"
       },
@@ -6996,7 +7058,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 625955,
       "name": "Open (Spontaneous) - Live",
       "url": "https://open.spotify.com/track/4F2hfeg5ZrWHTHyJnxcaWI"
@@ -7612,7 +7674,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 167352,
       "name": "Redemption Song",
       "url": "https://open.spotify.com/track/79zF8OOYb2KFRldYOA3cEI"
@@ -9075,6 +9137,24 @@
     },
     {
       "album": {
+        "name": "Testify",
+        "url": "https://open.spotify.com/album/3vIRcSnPehNopiCtzmobiL"
+      },
+      "artists": [
+        {
+          "name": "Kelontae Gavin",
+          "url": "https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241083,
+      "name": "Take Rest",
+      "url": "https://open.spotify.com/track/4i4PT6ghkuzkh7Fbm2dGkX"
+    },
+    {
+      "album": {
         "name": "Take Shelter",
         "url": "https://open.spotify.com/album/3xj8iUGTuFURWMEp07yJNq"
       },
@@ -10218,7 +10298,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 208952,
       "name": "Voyage",
       "url": "https://open.spotify.com/track/5y2rF11oOl6bq8SYyxtGpc"
@@ -11194,7 +11274,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 222169,
       "name": "Your Power",
       "url": "https://open.spotify.com/track/0ToGha42fy4KqBdzJ1yOTN"

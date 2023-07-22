@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  <a href=\"https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO?si=d079a51326cd4422\">Blanca</a> and <a href=\"https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH?si=rYUS2jTBQ1yWfrJupQeHlg\">Jekalyn Carr</a>",
+  "description": "New songs from some of the latest and greatest Gospel music artists.  Cover:  <a href=\"https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D?si=78078d9cb34f4592\">Kelontae Gavin</a>",
   "name": "Fresh Gospel",
   "tracks": [
     {
@@ -1682,7 +1682,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 265915,
       "name": "Gonna Make It - Remix",
       "url": "https://open.spotify.com/track/3R61A7L5ukqs6wHG2YVuiY"
@@ -1704,7 +1704,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 248066,
       "name": "Good Love (feat. Kim Burrell)",
       "url": "https://open.spotify.com/track/3uYPITWb2G39R0KY3TpYQz"
@@ -4423,6 +4423,24 @@
     },
     {
       "album": {
+        "name": "Dante Bowe",
+        "url": "https://open.spotify.com/album/0k2wJSus536g9a8w4AU0GG"
+      },
+      "artists": [
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257954,
+      "name": "Not Hopeless",
+      "url": "https://open.spotify.com/track/2PD4wZW299Su24lbBeshuz"
+    },
+    {
+      "album": {
         "name": "Not Moved",
         "url": "https://open.spotify.com/album/2h24vz5sGNeNbxfcqH8a5z"
       },
@@ -5527,6 +5545,24 @@
     },
     {
       "album": {
+        "name": "Testify",
+        "url": "https://open.spotify.com/album/3vIRcSnPehNopiCtzmobiL"
+      },
+      "artists": [
+        {
+          "name": "Kelontae Gavin",
+          "url": "https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241083,
+      "name": "Take Rest",
+      "url": "https://open.spotify.com/track/4i4PT6ghkuzkh7Fbm2dGkX"
+    },
+    {
+      "album": {
         "name": "Tell That (feat. Mr. Talkbox)",
         "url": "https://open.spotify.com/album/2RczJovTuF0oVegnr2XNRV"
       },
@@ -6131,6 +6167,28 @@
     },
     {
       "album": {
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/5EcpH4MLSmC606zNpnDdCD"
+      },
+      "artists": [
+        {
+          "name": "VaShawn Mitchell",
+          "url": "https://open.spotify.com/artist/1Agf8ZtreYoKAXgpeAd7GA"
+        },
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293492,
+      "name": "Victory (feat. Jekalyn Carr)",
+      "url": "https://open.spotify.com/track/2fRvmXDODi99dY6xOGx0oX"
+    },
+    {
+      "album": {
         "name": "Victory Remix",
         "url": "https://open.spotify.com/album/5D8ulRfzaLnRI9faAnvOQl"
       },
@@ -6660,7 +6718,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 330873,
       "name": "Work Together",
       "url": "https://open.spotify.com/track/62RFU3SmRioXtOLWx12pbN"

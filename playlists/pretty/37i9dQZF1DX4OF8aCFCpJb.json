@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n den svenska reggaescenen.",
-  "num_followers": 67487,
+  "num_followers": 67499,
   "original_name": "Svensk Reggae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZGEyZmY1ZTIzMmM3NjNiMGQ5OTJjNGNhN2E1Njk2ODYwZmRjN2Y5",
+  "snapshot_id": "MCwwYzI0OTg5YWNiYjFlZWRiMWZjNTk0NTU2YmFiZjViYWQ2YTJjMGQ4",
   "tracks": [
     {
       "added_at": "2023-07-13 22:00:00",
@@ -343,22 +343,18 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Hei Sommer",
-        "url": "https://open.spotify.com/album/0KCZJvWk4RPkPI1FKSY8Sj"
+        "name": "D\u00f6md att bli bed\u00f6md",
+        "url": "https://open.spotify.com/album/1lNWtJ67KB9O9GIQq4HV3B"
       },
       "artists": [
-        {
-          "name": "Admiral P",
-          "url": "https://open.spotify.com/artist/2P87oRX5tCFl1PYQRbPCPD"
-        },
         {
           "name": "Syster Sol",
           "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
         }
       ],
-      "duration_ms": 172516,
-      "name": "Hei Sommer",
-      "url": "https://open.spotify.com/track/7LYlpWChM85iRMlBN8rRQd"
+      "duration_ms": 188773,
+      "name": "Gillar din vibe",
+      "url": "https://open.spotify.com/track/7dnBg5AaPHFBJpWyDsGYUD"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -411,18 +407,22 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "D\u00f6md att bli bed\u00f6md",
-        "url": "https://open.spotify.com/album/1lNWtJ67KB9O9GIQq4HV3B"
+        "name": "Hei Sommer",
+        "url": "https://open.spotify.com/album/0KCZJvWk4RPkPI1FKSY8Sj"
       },
       "artists": [
+        {
+          "name": "Admiral P",
+          "url": "https://open.spotify.com/artist/2P87oRX5tCFl1PYQRbPCPD"
+        },
         {
           "name": "Syster Sol",
           "url": "https://open.spotify.com/artist/76ViH9hMBGfdwkmp1wYay5"
         }
       ],
-      "duration_ms": 188773,
-      "name": "Gillar din vibe",
-      "url": "https://open.spotify.com/track/7dnBg5AaPHFBJpWyDsGYUD"
+      "duration_ms": 172516,
+      "name": "Hei Sommer",
+      "url": "https://open.spotify.com/track/7LYlpWChM85iRMlBN8rRQd"
     },
     {
       "added_at": "2023-07-13 22:00:00",

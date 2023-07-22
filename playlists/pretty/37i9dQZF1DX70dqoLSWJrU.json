@@ -1,12 +1,12 @@
 {
   "description": "Heartbreaking and sad instrumental and vocal Jazz.",
-  "num_followers": 60403,
+  "num_followers": 60511,
   "original_name": "Heartbreak Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY4NzM1Mzk0MCwwMDAwMDAwMGFmNzAyYjRjMjExMzQ3ZmMxYmM4ZTQ4ODFkNWY4YzJj",
+  "snapshot_id": "MCxiYzNjZThiMWNkMWRlYTM0NmNkZmNhMWYxMGY3MDEyZTFkMWVmNWFl",
   "tracks": [
     {
       "added_at": "2023-06-21 13:25:39",
@@ -99,22 +99,6 @@
     {
       "added_at": "2023-06-21 13:25:39",
       "album": {
-        "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
-      },
-      "artists": [
-        {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
-        }
-      ],
-      "duration_ms": 228360,
-      "name": "Don't Go To Strangers",
-      "url": "https://open.spotify.com/track/6cRsRBzSaGwfnMMqNSjtFY"
-    },
-    {
-      "added_at": "2023-06-21 13:25:39",
-      "album": {
         "name": "Nancy Wilson/Cannonball Adderley",
         "url": "https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 258106,
       "name": "The Masquerade Is Over",
       "url": "https://open.spotify.com/track/1jf3wYtynxiPOdhqAp3cUN"
+    },
+    {
+      "added_at": "2023-06-21 13:25:39",
+      "album": {
+        "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "duration_ms": 228360,
+      "name": "Don't Go To Strangers",
+      "url": "https://open.spotify.com/track/6cRsRBzSaGwfnMMqNSjtFY"
     },
     {
       "added_at": "2023-06-21 13:25:39",
@@ -691,6 +691,22 @@
     {
       "added_at": "2023-06-21 13:25:39",
       "album": {
+        "name": "Chet Baker Sings And Plays (Remastered 2004)",
+        "url": "https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 290693,
+      "name": "You Don't Know What Love Is - Remastered 2004",
+      "url": "https://open.spotify.com/track/2SFux1hir5ZaiPqNd7R15D"
+    },
+    {
+      "added_at": "2023-06-21 13:25:39",
+      "album": {
         "name": "The Complete Piano Duets",
         "url": "https://open.spotify.com/album/5XbiFk3DRytyQMmo9Pe6dd"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 297866,
       "name": "When Your Lover Has Gone",
       "url": "https://open.spotify.com/track/5wIXpK3BAW5geIlEmYf23n"
-    },
-    {
-      "added_at": "2023-06-21 13:25:39",
-      "album": {
-        "name": "Chet Baker Sings And Plays (Remastered 2004)",
-        "url": "https://open.spotify.com/album/6NVtIIsVMTuphtcAN9FxCc"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 290693,
-      "name": "You Don't Know What Love Is - Remastered 2004",
-      "url": "https://open.spotify.com/track/2SFux1hir5ZaiPqNd7R15D"
     },
     {
       "added_at": "2023-06-21 13:25:39",
@@ -835,18 +835,18 @@
     {
       "added_at": "2023-06-21 13:25:39",
       "album": {
-        "name": "The Complete Piano Duets",
-        "url": "https://open.spotify.com/album/5XbiFk3DRytyQMmo9Pe6dd"
+        "name": "Chet In Paris: Everything Happens To Me - The Complete Barclay Recording Vol. 2",
+        "url": "https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 208706,
-      "name": "I Cried For You",
-      "url": "https://open.spotify.com/track/5sOGjH3QgwqhNRwT9I1nYl"
+      "duration_ms": 218666,
+      "name": "Everything Happens To Me - Complete Take 2",
+      "url": "https://open.spotify.com/track/1FjIeuSHpU3x2J8cKCbc6r"
     },
     {
       "added_at": "2023-06-21 13:25:39",
@@ -887,18 +887,18 @@
     {
       "added_at": "2023-06-21 13:25:39",
       "album": {
-        "name": "Chet In Paris: Everything Happens To Me - The Complete Barclay Recording Vol. 2",
-        "url": "https://open.spotify.com/album/1YYIF3D8z28wRfTTXwvkUD"
+        "name": "The Complete Piano Duets",
+        "url": "https://open.spotify.com/album/5XbiFk3DRytyQMmo9Pe6dd"
       },
       "artists": [
         {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
         }
       ],
-      "duration_ms": 218666,
-      "name": "Everything Happens To Me - Complete Take 2",
-      "url": "https://open.spotify.com/track/1FjIeuSHpU3x2J8cKCbc6r"
+      "duration_ms": 208706,
+      "name": "I Cried For You",
+      "url": "https://open.spotify.com/track/5sOGjH3QgwqhNRwT9I1nYl"
     },
     {
       "added_at": "2023-06-21 13:25:39",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-06-21 13:25:39",
       "album": {
-        "name": "Songs from the Heart (Remastered 2013)",
-        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
-      },
-      "artists": [
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
-        }
-      ],
-      "duration_ms": 214645,
-      "name": "I See Your Face Before Me",
-      "url": "https://open.spotify.com/track/5rkyudolG3J67mPn9WOQfK"
-    },
-    {
-      "added_at": "2023-06-21 13:25:39",
-      "album": {
         "name": "Helen Merill",
         "url": "https://open.spotify.com/album/5ilzjsH4ER5ZaytJwnmn3C"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 301306,
       "name": "What's New",
       "url": "https://open.spotify.com/track/6iUmixPxVD6SacLhATYace"
+    },
+    {
+      "added_at": "2023-06-21 13:25:39",
+      "album": {
+        "name": "Songs from the Heart (Remastered 2013)",
+        "url": "https://open.spotify.com/album/48BrV5YcWquBv6KltXu8GW"
+      },
+      "artists": [
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+        }
+      ],
+      "duration_ms": 214645,
+      "name": "I See Your Face Before Me",
+      "url": "https://open.spotify.com/track/5rkyudolG3J67mPn9WOQfK"
     },
     {
       "added_at": "2023-06-21 13:25:39",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-06-21 13:25:39",
       "album": {
-        "name": "Night Lights",
-        "url": "https://open.spotify.com/album/5kQfbxLa8K9n8zYHXJQ7Zx"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 172866,
-      "name": "Too Young To Go Steady - Remastered",
-      "url": "https://open.spotify.com/track/0D1LMx0zya1EXlj4F9l6Mg"
-    },
-    {
-      "added_at": "2023-06-21 13:25:39",
-      "album": {
         "name": "Born To Be Blue",
         "url": "https://open.spotify.com/album/6vDO6c6V3hYq3KA2psLsZv"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 211906,
       "name": "Born To Be Blue",
       "url": "https://open.spotify.com/track/0zjHHk5Lqrf3j1ZpevLcJl"
+    },
+    {
+      "added_at": "2023-06-21 13:25:39",
+      "album": {
+        "name": "Night Lights",
+        "url": "https://open.spotify.com/album/5kQfbxLa8K9n8zYHXJQ7Zx"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 172866,
+      "name": "Too Young To Go Steady - Remastered",
+      "url": "https://open.spotify.com/track/0D1LMx0zya1EXlj4F9l6Mg"
     },
     {
       "added_at": "2023-06-21 13:25:39",
@@ -1255,18 +1255,18 @@
     {
       "added_at": "2023-06-21 13:25:39",
       "album": {
-        "name": "Twentysomething (Special Edition)",
-        "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
+        "name": "Love Swings",
+        "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
       },
       "artists": [
         {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
         }
       ],
-      "duration_ms": 190600,
-      "name": "Blame It On My Youth",
-      "url": "https://open.spotify.com/track/5hbzdbMwqNNjKvp4YyJeYs"
+      "duration_ms": 181746,
+      "name": "Something to Remember You By",
+      "url": "https://open.spotify.com/track/1P91FdmD8J7fgsnNdLWHnt"
     },
     {
       "added_at": "2023-06-21 13:25:39",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2023-06-21 13:25:39",
       "album": {
-        "name": "Love Swings",
-        "url": "https://open.spotify.com/album/5Jny59DZHuswsttq0zJE65"
+        "name": "Twentysomething (Special Edition)",
+        "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
       },
       "artists": [
         {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
         }
       ],
-      "duration_ms": 181746,
-      "name": "Something to Remember You By",
-      "url": "https://open.spotify.com/track/1P91FdmD8J7fgsnNdLWHnt"
+      "duration_ms": 190600,
+      "name": "Blame It On My Youth",
+      "url": "https://open.spotify.com/track/5hbzdbMwqNNjKvp4YyJeYs"
     },
     {
       "added_at": "2023-06-21 13:25:39",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-06-21 13:25:39",
       "album": {
-        "name": "Swedish Sensation",
-        "url": "https://open.spotify.com/album/6UAzZrcoC6kwtTbIJiaTrh"
-      },
-      "artists": [
-        {
-          "name": "Monica Zetterlund",
-          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
-        }
-      ],
-      "duration_ms": 145106,
-      "name": "My Old Flame",
-      "url": "https://open.spotify.com/track/7k0ustfixkIm3Z9hDP4OrZ"
-    },
-    {
-      "added_at": "2023-06-21 13:25:39",
-      "album": {
         "name": "The Rockin' Chair Lady",
         "url": "https://open.spotify.com/album/4lPSYNGinkzy6Taq0rRXYC"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 189533,
       "name": "Blues In My Heart",
       "url": "https://open.spotify.com/track/60RxFPqYiG9bP7sRv4IiBe"
+    },
+    {
+      "added_at": "2023-06-21 13:25:39",
+      "album": {
+        "name": "Bing-His Legendary Years 1931-1957",
+        "url": "https://open.spotify.com/album/2KDC9MOVhSPFY3ANMB6aDw"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "duration_ms": 210333,
+      "name": "Just One More Chance - 1931 Single Version",
+      "url": "https://open.spotify.com/track/1TmJIO8XZkItg9p1p9gFoZ"
     },
     {
       "added_at": "2023-06-21 13:25:39",
@@ -1487,18 +1487,18 @@
     {
       "added_at": "2023-06-21 13:25:39",
       "album": {
-        "name": "Bing-His Legendary Years 1931-1957",
-        "url": "https://open.spotify.com/album/2KDC9MOVhSPFY3ANMB6aDw"
+        "name": "Swedish Sensation",
+        "url": "https://open.spotify.com/album/6UAzZrcoC6kwtTbIJiaTrh"
       },
       "artists": [
         {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+          "name": "Monica Zetterlund",
+          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
         }
       ],
-      "duration_ms": 210333,
-      "name": "Just One More Chance - 1931 Single Version",
-      "url": "https://open.spotify.com/track/1TmJIO8XZkItg9p1p9gFoZ"
+      "duration_ms": 145106,
+      "name": "My Old Flame",
+      "url": "https://open.spotify.com/track/7k0ustfixkIm3Z9hDP4OrZ"
     },
     {
       "added_at": "2023-06-21 13:25:39",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-06-21 13:25:39",
       "album": {
-        "name": "Swedish Sensation",
-        "url": "https://open.spotify.com/album/0SBQvnFlDnaSxtufWUDtDi"
-      },
-      "artists": [
-        {
-          "name": "Monica Zetterlund",
-          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
-        }
-      ],
-      "duration_ms": 136306,
-      "name": "Darn That Dream",
-      "url": "https://open.spotify.com/track/4eiDWp4axml2HOnc8ex4lS"
-    },
-    {
-      "added_at": "2023-06-21 13:25:39",
-      "album": {
         "name": "Roulette Sessions In Love",
         "url": "https://open.spotify.com/album/2s4wqdhoquQu3dQ0UhIz77"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 145840,
       "name": "Somebody Else Is Taking My Place",
       "url": "https://open.spotify.com/track/26yWXwfZF7541XU5i5w0u8"
+    },
+    {
+      "added_at": "2023-06-21 13:25:39",
+      "album": {
+        "name": "Swedish Sensation",
+        "url": "https://open.spotify.com/album/0SBQvnFlDnaSxtufWUDtDi"
+      },
+      "artists": [
+        {
+          "name": "Monica Zetterlund",
+          "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD"
+        }
+      ],
+      "duration_ms": 136306,
+      "name": "Darn That Dream",
+      "url": "https://open.spotify.com/track/4eiDWp4axml2HOnc8ex4lS"
     },
     {
       "added_at": "2023-06-21 13:25:39",

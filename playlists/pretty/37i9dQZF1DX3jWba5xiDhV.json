@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 140947,
+  "num_followers": 141344,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxN2NmNWNmY2RmNmVmNmU2MGRjNDEwZGZhZjBkYzY0YjMyMjUyYmRh",
+  "snapshot_id": "MCwzNDE1ZTMyN2I0MDYwZTA2NWU4YmFhOGIzZTU3ZTA4MzRlZjIwMmIx",
   "tracks": [
     {
       "added_at": "2023-07-13 22:01:00",
@@ -651,6 +651,26 @@
     {
       "added_at": "2023-07-13 22:01:00",
       "album": {
+        "name": "Ma quale idea (Myd Remix)",
+        "url": "https://open.spotify.com/album/0mRoBEyOI7MmBwtHpDOliY"
+      },
+      "artists": [
+        {
+          "name": "Pino D'Angi\u00f2",
+          "url": "https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6"
+        },
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "duration_ms": 219140,
+      "name": "Ma quale idea - Myd Remix (Radio Edit)",
+      "url": "https://open.spotify.com/track/1G3jHsWf0F40SxCRQV6oxR"
+    },
+    {
+      "added_at": "2023-07-13 22:01:00",
+      "album": {
         "name": "Lucio Battisti, la batteria, il contrabbasso, eccetera",
         "url": "https://open.spotify.com/album/4Zegl0FIvsJD0nG7yJyHqd"
       },
@@ -663,22 +683,6 @@
       "duration_ms": 359333,
       "name": "Il veliero",
       "url": "https://open.spotify.com/track/1nAu4E9hsyhIDf8S192m68"
-    },
-    {
-      "added_at": "2023-07-13 22:01:00",
-      "album": {
-        "name": "Greatest Hits &amp; Remixes",
-        "url": "https://open.spotify.com/album/5Hpk5wBQIX2ClSSv7yLAfo"
-      },
-      "artists": [
-        {
-          "name": "Koto",
-          "url": "https://open.spotify.com/artist/03Qx8J2OxTAGgZqZ4rnaB0"
-        }
-      ],
-      "duration_ms": 212253,
-      "name": "Visitors",
-      "url": "https://open.spotify.com/track/05ny0VoHFBDeqAxDRj77jn"
     },
     {
       "added_at": "2023-07-13 22:01:00",
@@ -699,22 +703,18 @@
     {
       "added_at": "2023-07-13 22:01:00",
       "album": {
-        "name": "Ma quale idea (Myd Remix)",
-        "url": "https://open.spotify.com/album/0mRoBEyOI7MmBwtHpDOliY"
+        "name": "Greatest Hits &amp; Remixes",
+        "url": "https://open.spotify.com/album/5Hpk5wBQIX2ClSSv7yLAfo"
       },
       "artists": [
         {
-          "name": "Pino D'Angi\u00f2",
-          "url": "https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6"
-        },
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+          "name": "Koto",
+          "url": "https://open.spotify.com/artist/03Qx8J2OxTAGgZqZ4rnaB0"
         }
       ],
-      "duration_ms": 219140,
-      "name": "Ma quale idea - Myd Remix (Radio Edit)",
-      "url": "https://open.spotify.com/track/1G3jHsWf0F40SxCRQV6oxR"
+      "duration_ms": 212253,
+      "name": "Visitors",
+      "url": "https://open.spotify.com/track/05ny0VoHFBDeqAxDRj77jn"
     },
     {
       "added_at": "2023-07-13 22:01:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-07-13 22:01:00",
       "album": {
+        "name": "Tac..!",
+        "url": "https://open.spotify.com/album/6lIILYU3br7OMkgz8k9zMT"
+      },
+      "artists": [
+        {
+          "name": "Franco Califano",
+          "url": "https://open.spotify.com/artist/1Bkzb6WJ348VTlTrnJuqIz"
+        }
+      ],
+      "duration_ms": 236333,
+      "name": "Balla Ba",
+      "url": "https://open.spotify.com/track/2DKZPAMk7EGSTjuInmNvZs"
+    },
+    {
+      "added_at": "2023-07-13 22:01:00",
+      "album": {
         "name": "Eyes (2020 Remaster)",
         "url": "https://open.spotify.com/album/7mYiIebqgkhpysEFzboxIz"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 208194,
       "name": "\u00c7a va? Je t\u2019aime! (feat. EMMANUELLE)",
       "url": "https://open.spotify.com/track/0rWnoXEpYwAkS9glG43wcV"
-    },
-    {
-      "added_at": "2023-07-13 22:01:00",
-      "album": {
-        "name": "Tac..!",
-        "url": "https://open.spotify.com/album/6lIILYU3br7OMkgz8k9zMT"
-      },
-      "artists": [
-        {
-          "name": "Franco Califano",
-          "url": "https://open.spotify.com/artist/1Bkzb6WJ348VTlTrnJuqIz"
-        }
-      ],
-      "duration_ms": 236333,
-      "name": "Balla Ba",
-      "url": "https://open.spotify.com/track/2DKZPAMk7EGSTjuInmNvZs"
     },
     {
       "added_at": "2023-07-13 22:01:00",
@@ -1051,6 +1051,26 @@
     {
       "added_at": "2023-07-13 22:01:00",
       "album": {
+        "name": "Che Caldo",
+        "url": "https://open.spotify.com/album/20QTEjaGNPvDhQpe1nPNCX"
+      },
+      "artists": [
+        {
+          "name": "ELASI",
+          "url": "https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6"
+        },
+        {
+          "name": "Anoraak",
+          "url": "https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC"
+        }
+      ],
+      "duration_ms": 205903,
+      "name": "Che caldo",
+      "url": "https://open.spotify.com/track/0pKlilwwUTxcbZsUFUouwP"
+    },
+    {
+      "added_at": "2023-07-13 22:01:00",
+      "album": {
         "name": "Greatest Hits & Remixes",
         "url": "https://open.spotify.com/album/1XsOXWsClvtWMxOnQ5gJ22"
       },
@@ -1063,6 +1083,22 @@
       "duration_ms": 206600,
       "name": "Hey Hey Guy (7\" Vocal Version)",
       "url": "https://open.spotify.com/track/3oLn7p6CF8JvUDPz59t2WF"
+    },
+    {
+      "added_at": "2023-07-13 22:01:00",
+      "album": {
+        "name": "Disco Italia EP",
+        "url": "https://open.spotify.com/album/2BXanfr9DTGseIlsNTBXMj"
+      },
+      "artists": [
+        {
+          "name": "Gepy",
+          "url": "https://open.spotify.com/artist/1BDX9PXYrNeqP1gJPhZmZB"
+        }
+      ],
+      "duration_ms": 404247,
+      "name": "African Love Song",
+      "url": "https://open.spotify.com/track/6fAKxZoefMTrnWEiBasNhJ"
     },
     {
       "added_at": "2023-07-13 22:01:00",
@@ -1083,22 +1119,6 @@
       "duration_ms": 239788,
       "name": "Feels Right - Gerd Janson Remix - Radio Edit",
       "url": "https://open.spotify.com/track/0x7IgG3pJHBUoULcsaPFpr"
-    },
-    {
-      "added_at": "2023-07-13 22:01:00",
-      "album": {
-        "name": "Disco Italia EP",
-        "url": "https://open.spotify.com/album/2BXanfr9DTGseIlsNTBXMj"
-      },
-      "artists": [
-        {
-          "name": "Gepy",
-          "url": "https://open.spotify.com/artist/1BDX9PXYrNeqP1gJPhZmZB"
-        }
-      ],
-      "duration_ms": 404247,
-      "name": "African Love Song",
-      "url": "https://open.spotify.com/track/6fAKxZoefMTrnWEiBasNhJ"
     },
     {
       "added_at": "2023-07-13 22:01:00",
@@ -1139,26 +1159,6 @@
       "duration_ms": 317120,
       "name": "My Magic Number - Club Domani Remix",
       "url": "https://open.spotify.com/track/6cR9AbJGTvXEnwjiE8VznV"
-    },
-    {
-      "added_at": "2023-07-13 22:01:00",
-      "album": {
-        "name": "Che Caldo",
-        "url": "https://open.spotify.com/album/20QTEjaGNPvDhQpe1nPNCX"
-      },
-      "artists": [
-        {
-          "name": "ELASI",
-          "url": "https://open.spotify.com/artist/3C8AlXFIhzxJ4BCKxNQJJ6"
-        },
-        {
-          "name": "Anoraak",
-          "url": "https://open.spotify.com/artist/2DfP0hQCCFmZHjstSE8yXC"
-        }
-      ],
-      "duration_ms": 205903,
-      "name": "Che caldo",
-      "url": "https://open.spotify.com/track/0pKlilwwUTxcbZsUFUouwP"
     },
     {
       "added_at": "2023-07-13 22:01:00",

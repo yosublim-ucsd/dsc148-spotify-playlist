@@ -20,7 +20,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 225226,
       "name": "Ayo",
       "url": "https://open.spotify.com/track/0k6DnZMLoEUH8NGD5zh2SE"
@@ -608,6 +608,40 @@
       "duration_ms": 186672,
       "name": "Ice Cream Man",
       "url": "https://open.spotify.com/track/6ZA3Q8Dj5BrnmOsT300DCh"
+    },
+    {
+      "album": {
+        "name": "In My Room (\u20acURO TRA$H Remix)",
+        "url": "https://open.spotify.com/album/1n9bEn5K9ieTkvMs3fRoXh"
+      },
+      "artists": [
+        {
+          "name": "Yellow Claw",
+          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
+        },
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "\u20acURO TRA$H",
+          "url": "https://open.spotify.com/artist/18pzORU0ImCwhbZgPZYTI9"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153515,
+      "name": "In My Room - \u20acURO TRA$H Remix",
+      "url": "https://open.spotify.com/track/5xdowKbFi2qOKYkxB7UT3v"
     },
     {
       "album": {

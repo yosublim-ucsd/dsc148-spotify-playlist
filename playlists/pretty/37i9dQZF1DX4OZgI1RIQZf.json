@@ -1,12 +1,12 @@
 {
   "description": "The best indie songs from all decades for your Halloween party",
-  "num_followers": 36548,
+  "num_followers": 36721,
   "original_name": "Indie Halloween",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMjBlOTE0MzQ3MGRmMmFhMWFlMWE0MDViZjM2NDlkODQ0OGZmNjVi",
+  "snapshot_id": "MCxkZTU2OGQyOTFiNWU3NTA3NDhiN2YzOGFjNTU5YTAwYjU5NGYwMmIz",
   "tracks": [
     {
       "added_at": "2023-02-09 23:00:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
+        "name": "GHOSTS ON TAPE",
+        "url": "https://open.spotify.com/album/6sQQwUqr31xeKtBq9mht08"
+      },
+      "artists": [
+        {
+          "name": "Blood Red Shoes",
+          "url": "https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR"
+        }
+      ],
+      "duration_ms": 226622,
+      "name": "MORBID FASCINATION",
+      "url": "https://open.spotify.com/track/2Jp4ipY7AfFJGFUxGtT92M"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
         "name": "Friendly Fires",
         "url": "https://open.spotify.com/album/3sGsbbZGQqc3npPtdlAgnU"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 255666,
       "name": "Scarecrow",
       "url": "https://open.spotify.com/track/1GcdexGpXcR9dZhhRj5zAr"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
-        "name": "GHOSTS ON TAPE",
-        "url": "https://open.spotify.com/album/6sQQwUqr31xeKtBq9mht08"
-      },
-      "artists": [
-        {
-          "name": "Blood Red Shoes",
-          "url": "https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR"
-        }
-      ],
-      "duration_ms": 226622,
-      "name": "MORBID FASCINATION",
-      "url": "https://open.spotify.com/track/2Jp4ipY7AfFJGFUxGtT92M"
     },
     {
       "added_at": "2023-02-09 23:00:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-02-09 23:00:00",
       "album": {
-        "name": "Breakfast",
-        "url": "https://open.spotify.com/album/3w4m4CcL9u1R5THKkVFDdl"
-      },
-      "artists": [
-        {
-          "name": "Teleman",
-          "url": "https://open.spotify.com/artist/3wrtQM9ICPPeHwoc1GWiyV"
-        }
-      ],
-      "duration_ms": 217880,
-      "name": "Skeleton Dance",
-      "url": "https://open.spotify.com/track/1w4Nno8lOz0xv8KxvIqghO"
-    },
-    {
-      "added_at": "2023-02-09 23:00:00",
-      "album": {
         "name": "Veronica Falls",
         "url": "https://open.spotify.com/album/14vFC84BzjOc8Ud9ga0vFi"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 239066,
       "name": "Found Love in a Graveyard",
       "url": "https://open.spotify.com/track/6o1oknbpGILs6eG8q3j8vV"
+    },
+    {
+      "added_at": "2023-02-09 23:00:00",
+      "album": {
+        "name": "Breakfast",
+        "url": "https://open.spotify.com/album/3w4m4CcL9u1R5THKkVFDdl"
+      },
+      "artists": [
+        {
+          "name": "Teleman",
+          "url": "https://open.spotify.com/artist/3wrtQM9ICPPeHwoc1GWiyV"
+        }
+      ],
+      "duration_ms": 217880,
+      "name": "Skeleton Dance",
+      "url": "https://open.spotify.com/track/1w4Nno8lOz0xv8KxvIqghO"
     },
     {
       "added_at": "2023-02-09 23:00:00",

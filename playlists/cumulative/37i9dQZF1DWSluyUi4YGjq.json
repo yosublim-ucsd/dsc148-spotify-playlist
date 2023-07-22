@@ -533,6 +533,24 @@
     },
     {
       "album": {
+        "name": "Avalon",
+        "url": "https://open.spotify.com/album/42KyfZdfBxSwA8dwRKvJDR"
+      },
+      "artists": [
+        {
+          "name": "Zeruel",
+          "url": "https://open.spotify.com/artist/7tO6Y3qnEQUM3kaVNlpXbu"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176230,
+      "name": "Avalon",
+      "url": "https://open.spotify.com/track/3d9lGlazIwY8f2xBfIIGps"
+    },
+    {
+      "album": {
         "name": "Balloons of Memories",
         "url": "https://open.spotify.com/album/0fUR7LZcSVYO8nDywl12Z9"
       },
@@ -768,7 +786,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 247045,
       "name": "Better Off Alone",
       "url": "https://open.spotify.com/track/2q6bBFVnWvaCRxELkHdsSa"
@@ -1132,7 +1150,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 186613,
       "name": "Cabin Fever",
       "url": "https://open.spotify.com/track/0AfsF9ulLhsYsPPXidzCU7"
@@ -1806,7 +1824,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 215986,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/1m4ZGzVWW9Z6J96THHBJMj"
@@ -2620,7 +2638,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 181593,
       "name": "Flood Into",
       "url": "https://open.spotify.com/track/27UUdY6JdDKmPyaKSVNGQz"
@@ -2714,6 +2732,42 @@
       "duration_ms": 153746,
       "name": "Frame Of Reference",
       "url": "https://open.spotify.com/track/1Ob2kl4e6Yb5wd6wpxvtGa"
+    },
+    {
+      "album": {
+        "name": "Full Time Job / When A Plant Is Dying",
+        "url": "https://open.spotify.com/album/3hgeBbfqWStekq4eDhXeGJ"
+      },
+      "artists": [
+        {
+          "name": "Squirrel Flower",
+          "url": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117533,
+      "name": "Full Time Job",
+      "url": "https://open.spotify.com/track/1JBd9X9sG7HjGifXuYQ1kS"
+    },
+    {
+      "album": {
+        "name": "gave you my all",
+        "url": "https://open.spotify.com/album/6f2HSagGc0cJvZAZZraJqp"
+      },
+      "artists": [
+        {
+          "name": "juggler",
+          "url": "https://open.spotify.com/artist/0HX7DEWAlnzbE3sikNXQik"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193907,
+      "name": "gave you my all",
+      "url": "https://open.spotify.com/track/4FkQp96ud503gquiM2Ur9l"
     },
     {
       "album": {
@@ -3978,7 +4032,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 303600,
       "name": "Lift Your Head",
       "url": "https://open.spotify.com/track/6JFHZtIgmm8mtYbS5OC8J6"
@@ -4166,6 +4220,24 @@
       "duration_ms": 368785,
       "name": "Luminous",
       "url": "https://open.spotify.com/track/0HIqiZlMuJm7fV4CyxaQF2"
+    },
+    {
+      "album": {
+        "name": "Lux",
+        "url": "https://open.spotify.com/album/5kHxWoHIvm5u8rV6DD4flR"
+      },
+      "artists": [
+        {
+          "name": "Zeruel",
+          "url": "https://open.spotify.com/artist/7tO6Y3qnEQUM3kaVNlpXbu"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162442,
+      "name": "Lux",
+      "url": "https://open.spotify.com/track/6VDgwdarNZ5yaQAWhSFPS5"
     },
     {
       "album": {
@@ -5525,6 +5597,24 @@
     },
     {
       "album": {
+        "name": "Sigh In My Ear",
+        "url": "https://open.spotify.com/album/0RoDxdxaHbp73JB56oSBzf"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322000,
+      "name": "Sigh In My Ear",
+      "url": "https://open.spotify.com/track/7lvtC5scO2e6fjk8vakUVq"
+    },
+    {
+      "album": {
         "name": "Things to be Left Behind:",
         "url": "https://open.spotify.com/album/07xp4gVIHOlrdxzfiCHhiV"
       },
@@ -5562,6 +5652,24 @@
       "duration_ms": 161400,
       "name": "Sink",
       "url": "https://open.spotify.com/track/59oSaOV2RMpdcWzlPsvy42"
+    },
+    {
+      "album": {
+        "name": "skin in the game",
+        "url": "https://open.spotify.com/album/1EYRoDy36KEklMF2LJRnZb"
+      },
+      "artists": [
+        {
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232537,
+      "name": "skin in the game",
+      "url": "https://open.spotify.com/track/3X0KbbFJSUK1hzXggbtreP"
     },
     {
       "album": {
@@ -6344,7 +6452,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 312857,
       "name": "Toxins and Smoke",
       "url": "https://open.spotify.com/track/5I9thmZdXFil80RahOaRm3"

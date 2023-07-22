@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Orbit Culture
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Code Orange
 
-458 songs - 1 day 5 hr 35 min
+463 songs - 1 day 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [And How They Wept for Eternity](https://open.spotify.com/track/1gP2jBo31MGT9DySTFM4Lb) | [Tribal Gaze](https://open.spotify.com/artist/0pm9kmowFxxE4hWYM04MxH) | [And How They Wept for Eternity](https://open.spotify.com/album/6jSttvdT0rvDv2SH6EftQQ) | 3:54 | 2022-08-19 | 2023-07-15 |
 | [Another Better Day](https://open.spotify.com/track/2qNdBkGWLo40qtcOPn8A4X) | [Restraining Order](https://open.spotify.com/artist/4HXv1CWVOyIO8ZNvGOSyEy) | [Another Better Day](https://open.spotify.com/album/4FxV6RYuVJ5btf6x9FHehE) | 2:32 | 2023-07-07 |  |
 | [Anti\-Fetish](https://open.spotify.com/track/2fc6YX69npgSxNM1pBHBgf) | [VEXED](https://open.spotify.com/artist/4ZwENj9UHL3ujCD3k7DfNH) | [Anti\-Fetish](https://open.spotify.com/album/1GsWn1EFJa6DdETJcCLytU) | 3:58 | 2023-04-28 |  |
+| [Antimatter](https://open.spotify.com/track/4b3FN7tBCRrkLcbN5ae4v9) | [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [Antimatter](https://open.spotify.com/album/21WE0VYFRtAKg4hEA1ppmZ) | 3:41 | 2023-07-21 |  |
 | [Aortic Desecration](https://open.spotify.com/track/4fQm28Cj2twbMqhD49lz9b) | [Metalocalypse: Dethklok](https://open.spotify.com/artist/7u12AuhJ5AaJIgZAZe0US8) | [Aortic Desecration](https://open.spotify.com/album/4PWETtMYDc04hUibeHCetD) | 4:11 | 2023-06-23 |  |
 | [Arsenal of War](https://open.spotify.com/track/0Y97m8mQOrCI5z0JfkTel6) | [Frozen Soul](https://open.spotify.com/artist/1hwwmQI1vhQamuIksyDKG6) | [Arsenal of War](https://open.spotify.com/album/4TBnmvcrvmEakXFQzDwX07) | 4:05 | 2023-03-17 |  |
 | [Artificial Anatomy](https://open.spotify.com/track/44kqDJc7BNWH1zGDwN8egF) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk), [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Artificial Anatomy](https://open.spotify.com/album/1lbdiiIaSeYY6uS1LtSeyD) | 3:50 | 2023-05-05 |  |
@@ -136,6 +137,7 @@
 | [Enter The Loop](https://open.spotify.com/track/5LkZ5ACw4BpDe9Ow93rpbW) | [Witch Ripper](https://open.spotify.com/artist/3v6xMwgOKzEYpZNalgtqhI) | [Enter The Loop](https://open.spotify.com/album/6VGF6UMdEThtTOQA3kWtBq) | 7:54 | 2022-12-09 | 2023-07-15 |
 | [Epidemic](https://open.spotify.com/track/1iHxborQnkkiCOxVbWUOvL) | [Inclination](https://open.spotify.com/artist/4b3YHpER4myVsne2QK3kXe) | [Epidemic](https://open.spotify.com/album/1iwlH5lP8dVVq8d9R1dvVg) | 3:15 | 2022-08-05 | 2023-07-15 |
 | [Eternal Spirits](https://open.spotify.com/track/3zVetDLyqgT4krYw2XwbAg) | [Svalbard](https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA) | [Eternal Spirits](https://open.spotify.com/album/2CGi1wwbqcwqVdfBpD7rQb) | 3:35 | 2023-03-03 |  |
+| [Everything's Glitter](https://open.spotify.com/track/7s0kMwS5d9IFYBW1fFAaY2) | [The Armed](https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K) | [Everything's Glitter](https://open.spotify.com/album/7jfIaXbIaockYgpQKKubts) | 3:50 | 2023-07-21 |  |
 | [Evil Finds Light](https://open.spotify.com/track/3p1IOO676P6CAq36OLDM7r) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [Evil Finds Light](https://open.spotify.com/album/21u5hMMH27Z71eKn0jc1lu) | 2:07 | 2023-02-10 |  |
 | [Evolving](https://open.spotify.com/track/71GOYiaA8DUE8gflwvKxMT) | [Darko US](https://open.spotify.com/artist/7C6FTHcdowgX4dzKUd678K), [Shaolin G](https://open.spotify.com/artist/646EtCZzz835whXJClaWtJ) | [Oni](https://open.spotify.com/album/4aYSMBE7Y3UDLCoxmVw0qH) | 2:56 | 2022-09-30 | 2023-07-15 |
 | [Ex\-Sistere](https://open.spotify.com/track/79r7csfSLnySxGmMVE0miJ) | [Calligram](https://open.spotify.com/artist/5WtqFR0WBjrFtmr2HjUFA1) | [Ex\-Sistere](https://open.spotify.com/album/2OIZzK8ZhPYPq6Y1C5qnij) | 5:09 | 2023-03-24 |  |
@@ -341,6 +343,7 @@
 | [Shifting Eyes](https://open.spotify.com/track/77rCSuHa7OZ4Dd06E0dkRx) | [King Yosef](https://open.spotify.com/artist/2pFb8zX41Fp6v3ImkPzy8S) | [Shifting Eyes](https://open.spotify.com/album/6EDWJHxJjudI9xNRgwoeVV) | 2:33 | 2022-04-22 | 2023-07-15 |
 | [Shot Down](https://open.spotify.com/track/6rvlbf5Rle9exopdtBY3cL) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Shot Down](https://open.spotify.com/album/25RwbMetO9mwESyZvfIRAB) | 1:49 | 2023-03-03 |  |
 | [Siege Warfare](https://open.spotify.com/track/6dfqQ2QZgTXEPbABSmuNpg) | [High Command](https://open.spotify.com/artist/4M3EzJBgOCW0MFc54EBEqQ) | [Siege Warfare](https://open.spotify.com/album/3DTP3aMHIYQjsKV3om1lXl) | 3:32 | 2022-09-30 | 2023-07-15 |
+| [Silent Wolf](https://open.spotify.com/track/6gl6fnNnVnf8tenvR8OHqh) | [Harms Way](https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek) | [Silent Wolf](https://open.spotify.com/album/6jkHJnpzgsw7oqHVqDA5zY) | 2:45 | 2023-07-21 |  |
 | [Siren Song](https://open.spotify.com/track/0HCHJZ0inruYnyCDC0PtPN) | [Mutoid Man](https://open.spotify.com/artist/2KhRuej67LynneJthmMx8o) | [Siren Song](https://open.spotify.com/album/13eHcKjVc3pMv0LeMPZW03) | 3:33 | 2023-06-16 |  |
 | [Slaughterhouse \(feat\. Bryan Garris\)](https://open.spotify.com/track/4DzJ41A6qR14hHtS1djvdX) | [Motionless In White](https://open.spotify.com/artist/6MwPCCR936cYfM1dLsGVnl), [Bryan Garris](https://open.spotify.com/artist/7I25a8b3zJkLqCW2Ikfpfe), [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Slaughterhouse \(feat\. Bryan Garris Of Knocked Loose\)](https://open.spotify.com/album/4M8klblrnAmjVDHTMkxxqu) | 4:23 | 2022-05-13 | 2023-07-15 |
 | [Snack Run](https://open.spotify.com/track/676pwcDn6OiyTWFF0LXX9O) | [Buggin](https://open.spotify.com/artist/3cMV6gZTWyfJZCaGl2eZBJ) | [Snack Run](https://open.spotify.com/album/5RMfiR0EZQ1lfNK1PDjOnK) | 0:56 | 2023-05-19 |  |
@@ -366,6 +369,7 @@
 | [Sweet Jesus Wept Shit](https://open.spotify.com/track/6LFtB65EHqd7U85PhBEUjo) | [Cold Gawd](https://open.spotify.com/artist/4nD7mZ37GMiFBSjvWZIlDb) | [Sweet Jesus Wept Shit](https://open.spotify.com/album/7gYrrE3z5TFefKMmFzs9Gd) | 3:12 | 2022-07-01 | 2023-07-15 |
 | [Take Back Control](https://open.spotify.com/track/23dY6wUSyEHYUqeUBL0ROJ) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64) | [Conquering \(Deluxe\)](https://open.spotify.com/album/7elmT46vGsxfDJ9vd7O1dC) | 3:09 | 2023-03-10 |  |
 | [Take Me Back To Eden](https://open.spotify.com/track/2Gt7fjNlx901pPRkvBiNBZ) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Take Me Back To Eden](https://open.spotify.com/album/1gjugH97doz3HktiEjx2vY) | 8:20 | 2023-05-19 |  |
+| [Take Shape \(feat\. Billy Corgan\)](https://open.spotify.com/track/4GswFW5miCkwi9iqrDqEw4) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK), [Billy Corgan](https://open.spotify.com/artist/12B5JK11NOP7OQ9Fxjrpx2) | [Take Shape \(feat\. Billy Corgan\)](https://open.spotify.com/album/4cyn9XrZxlYS0joKsdf1JS) | 3:24 | 2023-07-21 |  |
 | [Talk For Hours](https://open.spotify.com/track/7tpm14q61uGlBLqOS0WaOL) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [Talk For Hours](https://open.spotify.com/album/3wivAGbT1Wrtg1G7jGm23W) | 4:59 | 2022-04-15 | 2023-07-15 |
 | [Tamashii No Houkai](https://open.spotify.com/track/6x6UnL6dWt3r8nQMlSMmAx) | [Ibaraki](https://open.spotify.com/artist/2KfAvhpbfc8YkLBj6w3hfU) | [Tamashii No Houkai](https://open.spotify.com/album/3ZBHu5UnXwrQrEeepL6X4B) | 5:58 | 2022-01-21 | 2023-07-15 |
 | [Tank On E](https://open.spotify.com/track/3jJ8NX2W13Kb4weZEUSvpL) | [Never Ending Game](https://open.spotify.com/artist/1S8NfdnAl7u08mTjEtDWLp) | [Tank On E](https://open.spotify.com/album/6s6uyJHu5uscy4snvD0LQw) | 2:39 | 2023-04-21 |  |
@@ -415,6 +419,7 @@
 | [Twenties](https://open.spotify.com/track/53cMnrQfpipSePnw9SZroB) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Twenties](https://open.spotify.com/album/5ZR5iVnv9GnfcJPVJkNXND) | 3:46 | 2022-03-04 | 2023-07-15 |
 | [Ultra\-Violence](https://open.spotify.com/track/6x2FkO3YW7zwBmgtWH6lxJ) | [Enforced](https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp) | [Ultra\-Violence](https://open.spotify.com/album/4hOu1sSu360iLvwL3lF5hM) | 2:10 | 2023-01-27 |  |
 | [Unbridled Fury](https://open.spotify.com/track/5KUh5cJ8iy9qu917XtfMZF) | [Dying Fetus](https://open.spotify.com/artist/2DqzOWVL2ly48IA9bpZdie) | [Unbridled Fury](https://open.spotify.com/album/4Nx90Kc8txadnzrDZsO7OP) | 3:30 | 2023-02-03 |  |
+| [Under My Skin](https://open.spotify.com/track/31b42JpcNCgM1AV3l7Ixje) | [Pain of Truth](https://open.spotify.com/artist/6tnuL2AIiA5wCpO5Pm8Xql), [Criminal Instinct](https://open.spotify.com/artist/6xsGJ9bN356SeA1eP43L81) | [Under My Skin](https://open.spotify.com/album/3YjB0HnU6qIJIvyxxGovGo) | 2:52 | 2023-07-21 |  |
 | [Under the Weight of a Billion Souls](https://open.spotify.com/track/1ZwssJSK0DVLZ2vrHbrvlC) | [Chrome Waves](https://open.spotify.com/artist/2R5Sry7fmvqc3QnoV2myJ4) | [Under the Weight of a Billion Souls](https://open.spotify.com/album/0L2edepdKR9dK85X70lIz1) | 8:27 | 2022-12-16 | 2023-07-15 |
 | [UNTENDED GRAVES](https://open.spotify.com/track/4t9E4wj0PHqNozXXIboLYM) | [The Acacia Strain](https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs) | [UNTENDED GRAVES](https://open.spotify.com/album/1hsYH0Y9c8o3siY9FQy1Wm) | 2:17 | 2022-12-16 | 2023-07-15 |
 | [Unwavering Vow](https://open.spotify.com/track/6GGl1K5qvkGHOVrh4pe4TW) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [Unwavering Vow](https://open.spotify.com/album/2C7dVc4F38Lxu2CnHo1arQ) | 3:07 | 2022-06-03 | 2023-07-15 |

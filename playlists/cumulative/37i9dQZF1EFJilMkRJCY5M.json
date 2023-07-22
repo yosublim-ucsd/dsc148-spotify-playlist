@@ -721,6 +721,24 @@
     },
     {
       "album": {
+        "name": "Jesus, My Mama, My Therapist",
+        "url": "https://open.spotify.com/album/5q6jZfZ06KkTYYMwfpWVxi"
+      },
+      "artists": [
+        {
+          "name": "Tiera Kennedy",
+          "url": "https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184105,
+      "name": "Jesus, My Mama, My Therapist",
+      "url": "https://open.spotify.com/track/2aIYyC8gSLw0H3CNLhGajr"
+    },
+    {
+      "album": {
         "name": "TWENTYTWENTY",
         "url": "https://open.spotify.com/album/13j0Kg7NR6uwvE1TEXlNQi"
       },

@@ -2,7 +2,7 @@
 
 ### [lo hice por el punk](https://open.spotify.com/playlist/37i9dQZF1DX3pffHgMaYQp)
 
-> Música para insubordinados\. Carolina Durante en portada.
+> Música para insubordinados\. Vondré en portada.
 
 94 songs - 5 hr 8 min
 

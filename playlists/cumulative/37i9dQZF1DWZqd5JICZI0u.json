@@ -1392,7 +1392,7 @@
       ],
       "date_added": "2021-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 155580,
       "name": "Compassion",
       "url": "https://open.spotify.com/track/6nnm67RIWF9sSl0mGY3PHM"
@@ -6530,6 +6530,24 @@
       "duration_ms": 178591,
       "name": "Senses",
       "url": "https://open.spotify.com/track/0i4MTSz232OEJ6m1WURbzJ"
+    },
+    {
+      "album": {
+        "name": "Sequencing The Future",
+        "url": "https://open.spotify.com/album/2xFci3OgWK2a1VMRjUi307"
+      },
+      "artists": [
+        {
+          "name": "Arhaa Doak",
+          "url": "https://open.spotify.com/artist/4psjQuohUvbvwl50sFuqR9"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Sequencing The Future",
+      "url": "https://open.spotify.com/track/4wvY1ruguzLDPim34lSKcH"
     },
     {
       "album": {

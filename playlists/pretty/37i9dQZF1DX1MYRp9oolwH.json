@@ -1,13 +1,41 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Kushi",
-  "num_followers": 99336,
+  "num_followers": 99489,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNzUyYjY4MWM5YjEzMmQwNWY0NTAxNjdiNmUyMWM0N2UwZGZhM2Qx",
+  "snapshot_id": "MCwzMDAyZjUxNTg5OTQ5YjM5OTljNTBlOGFhMDI0YjYwYWFiODA0MmQ2",
   "tracks": [
+    {
+      "added_at": "2023-07-21 15:21:27",
+      "album": {
+        "name": "Bholaa Shankar",
+        "url": "https://open.spotify.com/album/5U5PEnuwaXr8ffWWmydl5X"
+      },
+      "artists": [
+        {
+          "name": "Mahati Swara Sagar",
+          "url": "https://open.spotify.com/artist/27dNKsHZrQKGnAlFCLDlzd"
+        },
+        {
+          "name": "Vijay Prakash",
+          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
+        },
+        {
+          "name": "Sanjana Kalmanje",
+          "url": "https://open.spotify.com/artist/4zQpCebYLmlfG8Cw43xdtZ"
+        },
+        {
+          "name": "Saraswati Putra Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Milky Beauty",
+      "url": "https://open.spotify.com/track/0FM8wzHhV64mwrDdEEuGdG"
+    },
     {
       "added_at": "2023-07-12 10:52:00",
       "album": {
@@ -247,30 +275,6 @@
       "duration_ms": 395000,
       "name": "Premisthunna",
       "url": "https://open.spotify.com/track/7AsXXnob7TO0xfVkjXM88Q"
-    },
-    {
-      "added_at": "2023-07-03 10:15:32",
-      "album": {
-        "name": "Dheere Dheere (From \"Her Chapter 1\")",
-        "url": "https://open.spotify.com/album/6CpP03enfuLSIh8Lx7CCbw"
-      },
-      "artists": [
-        {
-          "name": "Akanksha Bisht",
-          "url": "https://open.spotify.com/artist/7hVfqYdQ9vPCD8VEGxs2EZ"
-        },
-        {
-          "name": "Pavan",
-          "url": "https://open.spotify.com/artist/3DsYnBCj82o1618kqGdGKp"
-        },
-        {
-          "name": "Mahesh (Lyricist)",
-          "url": "https://open.spotify.com/artist/5NNYbJA0irrbbxgram8Q1f"
-        }
-      ],
-      "duration_ms": 235625,
-      "name": "Dheere Dheere (From \"Her Chapter 1\")",
-      "url": "https://open.spotify.com/track/2XDhRAhefcbPgavlGZq5hW"
     },
     {
       "added_at": "2023-06-16 08:56:18",
@@ -671,30 +675,6 @@
       "duration_ms": 276500,
       "name": "Yedha Pongenaa",
       "url": "https://open.spotify.com/track/2uFuVr7pangSzmAqBmULbh"
-    },
-    {
-      "added_at": "2023-03-31 06:31:00",
-      "album": {
-        "name": "Sita Kalyanam (From \"Anni Manchi Sakunamule\")",
-        "url": "https://open.spotify.com/album/1b0MyEQFfhU24KAKT8F7PS"
-      },
-      "artists": [
-        {
-          "name": "Mickey J. Meyer",
-          "url": "https://open.spotify.com/artist/0WiZi3Q419nMpAQEqfBCbk"
-        },
-        {
-          "name": "Chaitra Ambadipudi",
-          "url": "https://open.spotify.com/artist/4RUN8jnm64ftsLkAEhybFB"
-        },
-        {
-          "name": "Sri Krishna",
-          "url": "https://open.spotify.com/artist/06V3WlbxMpgl639AJoFH7C"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Sita Kalyanam (From \"Anni Manchi Sakunamule\")",
-      "url": "https://open.spotify.com/track/2cUMvJe7w6U9TnoXCLaDUI"
     },
     {
       "added_at": "2022-12-20 12:37:49",

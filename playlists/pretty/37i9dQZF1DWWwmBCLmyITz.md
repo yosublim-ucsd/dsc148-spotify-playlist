@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwmBCLmyITz.md) - [plain]
 
 > Check out the actors' selections through playlists and Clips! Also, listen to the soundtracks of JTBC's drama Agency\. \(JTBC 드라마 대행사의 사운드 트랙들을 즐겨보세요! 배우진들이 직접 선곡한 노래들을 플레이리스트와 클립스를 통해 확인해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,133 likes - 44 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,135 likes - 44 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwmBCLmyITz.md) - [plain]
 | 30 | [Palace](https://open.spotify.com/track/3zesxb7sOGbeSwUrzLUP0f) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 3:07 |
 | 31 | [Sign of the Times](https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 5:40 |
 | 32 | [조성하 추천곡 소개\(Curated by Cho Sung Ha\)](https://open.spotify.com/track/4MqVGBfQFVD6wE79ilWwuG) | [Cho Sung Ha](https://open.spotify.com/artist/49sCy6UjXQJAkdUlMGhU6u) | [Agency Audio liner](https://open.spotify.com/album/2fl3vwhqnqmeDTaq7uaEQf) | 0:15 |
-| 33 | [Paint It, Black](https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Aftermath](https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY) | 3:22 |
+| 33 | [Paint It, Black](https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8) | [Keith Richards](https://open.spotify.com/artist/08avsqaGIlK2x3i2Cu7rKH), [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Aftermath](https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY) | 3:22 |
 | 34 | [Java Jive](https://open.spotify.com/track/5XvrvxNu3peNFyaelv8brK) | [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [The Anthology](https://open.spotify.com/album/5kP2AlLe5EsHEx6y3HpJjN) | 3:01 |
 | 35 | [Ships](https://open.spotify.com/track/29G4lxwdGV0Ia1uCTkWjjW) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Greatest Hits Vol\. 3](https://open.spotify.com/album/0rPdpVOWKaeHPwayMadpk8) | 4:00 |
 | 36 | [When I Need You](https://open.spotify.com/track/6Ee6pMOa4ukBJHCHWrPtw4) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [STARRY NIGHT](https://open.spotify.com/album/2Mqs4qQ3wPmAgTX6yYfdeZ) | 4:17 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwmBCLmyITz.md) - [plain]
 | 43 | [Don't Say \- Instrumental](https://open.spotify.com/track/3Iehtm7dlKIFTJxib1yEC9) | [Johnny Stimson](https://open.spotify.com/artist/00OF0nwYaoBSO3AnPVq3vE) | [Agency \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/7klfOSxLJwZGUL2Yx5dp2i) | 2:54 |
 | 44 | [Talk To Me \- Instrumental](https://open.spotify.com/track/5WYwLEQPQc8lLejVjUOjzj) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [Agency \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/4kxQHWEz78fPpTBZQtzpm4) | 3:44 |
 
-Snapshot ID: `MCwzZTUzYmU5MWQ3MDU4MzlkOTRkN2I2Y2RjZmNmZDZlOTNmNGRjZTY1`
+Snapshot ID: `MCw0MzhjY2Y2NTRhZGViZGZkMDJhOTkwZGU2YTU1ZjMxYzkyZTRlZDAz`

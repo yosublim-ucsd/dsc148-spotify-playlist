@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Coco, Luchè, Artie 5ive, MV Killa, Vale Pain e tanti altri.
 
-2,120 songs - 4 day 0 hr 40 min
+2,121 songs - 4 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,7 +270,7 @@
 | [Bilancino \(feat\. Kira\)](https://open.spotify.com/track/57IFK0uO6gM3Dz0LLNlIrU) | [Sosa Priority](https://open.spotify.com/artist/0gDbGOh9itthM6koQpDLoc), [Kira](https://open.spotify.com/artist/2HyasfYKBQnhWBIonOhabC) | [Sodoma e Gomorra](https://open.spotify.com/album/4Xo2XPp3yvbKWPxZbwlyFA) | 2:34 | 2022-06-30 | 2022-07-15 |
 | [Bimba](https://open.spotify.com/track/6O0URMZLhNyS2d6Ip1jOTC) | [ALDA](https://open.spotify.com/artist/4QmwiQZRTMyOkhgfJk3U5F) | [Bimba](https://open.spotify.com/album/1CcFA7IhlmVv9OwyfzKHbg) | 2:28 | 2023-06-01 | 2023-06-16 |
 | [BIPOLARE](https://open.spotify.com/track/0UseLzHVZSNJRdnINiEEEP) | [Amill Leonardo](https://open.spotify.com/artist/6O1mWUAaIrcMAXQAoNzpT5), [Seck](https://open.spotify.com/artist/0TDisUBeAlYDLMToNVhTfH) | [BIPOLARE](https://open.spotify.com/album/7y0OivEigmUDQAlQkqX4gU) | 2:48 | 2023-02-16 | 2023-03-10 |
-| [Bipolare](https://open.spotify.com/track/6gvJmi8NRtWKOFZgemB97X) | [Voleur pnz](https://open.spotify.com/artist/6BGAhqSN3qEqlZRpMogAFN) | [Bipolare](https://open.spotify.com/album/6NNHxBFTvWztjhDqfnCXz6) | 2:22 | 2023-07-20 |  |
+| [Bipolare](https://open.spotify.com/track/6gvJmi8NRtWKOFZgemB97X) | [Voleur pnz](https://open.spotify.com/artist/6BGAhqSN3qEqlZRpMogAFN), [Damo ça va pètèr](https://open.spotify.com/artist/6PKyPmrKFzCjuI6pWbJvB6) | [Bipolare](https://open.spotify.com/album/6NNHxBFTvWztjhDqfnCXz6) | 2:22 | 2023-07-20 |  |
 | [Birthday Song](https://open.spotify.com/track/6eYI2bdb4wbw60hYQsFAYg) | [Spender](https://open.spotify.com/artist/1F5Nly0FV6dIoFNWPYTHMb), [Frittella](https://open.spotify.com/artist/0ROrQHmIQbC9sfBkVwkYxm) | [Birthday Song](https://open.spotify.com/album/4hTjDk6RK1rFxF1QS4Nk5l) | 2:07 | 2022-11-10 | 2022-12-02 |
 | [Bisous](https://open.spotify.com/track/74lz9d1soQih0k9QtN0acn) | [Medy](https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk) | [Bisous](https://open.spotify.com/album/18WfbdpSPZ3Gx1qlMlHGSP) | 2:34 | 2022-05-10 | 2022-05-27 |
 | [Bitch 3.0](https://open.spotify.com/track/0PWvY4TjcYLEuHByj1ZyXu) | [Chadia Rodriguez](https://open.spotify.com/artist/4nXNT34X5GQ8yTBttXtbY6) | [Bitch 3.0](https://open.spotify.com/album/5BX4ez5kPWfJ6Kr7nsr78i) | 2:10 | 2022-12-22 | 2023-01-20 |
@@ -1229,6 +1229,7 @@
 | [MONOCROMO](https://open.spotify.com/track/67KSpZbpnTU0ag5aHZmjcd) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [MONOCROMO](https://open.spotify.com/album/6kRIg0G0d7weWkQ8T2gp62) | 3:21 | 2022-12-01 | 2022-12-24 |
 | [monotono](https://open.spotify.com/track/2i7AHGyKSjnXGzofHCi7Js) | [tha ricky](https://open.spotify.com/artist/4teg5TQWt9xCK2fkYYJZfQ) | [monotono](https://open.spotify.com/album/1irTuWhEsnCmnH0bKLYEbO) | 2:21 | 2023-01-12 | 2023-01-27 |
 | [Montagne Russe](https://open.spotify.com/track/6OlZI8xmdjytSeOqzU2Qqn) | [Noemi Coozy](https://open.spotify.com/artist/0PDAJtFlTKotT8i0mu1THx), [Näthaniel](https://open.spotify.com/artist/5W3ZpbTC2fyFGujra4uVTF) | [Montagne Russe](https://open.spotify.com/album/1Kng6xEAB6C51rzxFIiAQ7) | 1:56 | 2023-04-20 | 2023-05-05 |
+| [Montana](https://open.spotify.com/track/3xx0AeovWXvjMC5jnIJASw) | [Sayanbull](https://open.spotify.com/artist/4GjsuEcRjZZd1hFQLvWUr0), [Janax](https://open.spotify.com/artist/3liWfHRnSkAv6oHHuF1i74) | [Montana](https://open.spotify.com/album/3kKVMOY0HRBCnl2AkHoDTs) | 2:37 | 2023-07-20 |  |
 | [Montana](https://open.spotify.com/track/3TNxFSgZDfY5ZkVRDtYlw2) | [Yung Snapp](https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem) | [Montana](https://open.spotify.com/album/0wfHDwNuPkzAdbcbSK8p8U) | 2:52 | 2022-09-08 | 2022-10-14 |
 | [Monte Fuji](https://open.spotify.com/track/4pWkohXhBfPKItQY79J3iL) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fri2](https://open.spotify.com/artist/4oLRpvu0D5poM84DoKU64v) | [Monte Fuji](https://open.spotify.com/album/34MxwfHZXGN7wNjJ9FRk1m) | 3:01 | 2023-05-04 | 2023-05-26 |
 | [MonViso Freestyle](https://open.spotify.com/track/3w69GpmR6fs9sC1eP9nhaz) | [PACOSKI](https://open.spotify.com/artist/6JYRBnw3eN2qidujSRnuN6), [RÄD](https://open.spotify.com/artist/5AYlHjA1obBZMUoCM3XWWN) | [MonViso Freestyle](https://open.spotify.com/album/5sC8rz5LJDSRxWXKmK5s9M) | 1:56 | 2023-02-09 | 2023-02-17 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os lan\u00e7amentos e melhores sons do rap e trap nacionais. Foto: Nego Max, Kamau, Stefanie",
+  "description": "Os lan\u00e7amentos e melhores sons do rap e trap nacionais. Foto: Puro Suco",
   "name": "Presen\u00e7a Hip Hop",
   "tracks": [
     {
@@ -90,7 +90,7 @@
       ],
       "date_added": "2022-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 150610,
       "name": "212",
       "url": "https://open.spotify.com/track/3QGxgNaqaFSpORp2OVLXHR"
@@ -2229,6 +2229,28 @@
     },
     {
       "album": {
+        "name": "Cacau",
+        "url": "https://open.spotify.com/album/7hLXr1YD7DGY8c1A5zWPmo"
+      },
+      "artists": [
+        {
+          "name": "Puro Suco",
+          "url": "https://open.spotify.com/artist/3UD5S1SrDQo3KPTfWxL7Ms"
+        },
+        {
+          "name": "BEATDOMK",
+          "url": "https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164122,
+      "name": "De volta ao B\u00e1sico",
+      "url": "https://open.spotify.com/track/3xoMdEwMLpgpwi1CiNX8up"
+    },
+    {
+      "album": {
         "name": "Deixa Eu Entrar",
         "url": "https://open.spotify.com/album/1XeI3Paw7sye3uUjNsiWWD"
       },
@@ -3264,10 +3286,6 @@
         {
           "name": "LEALL",
           "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "KOPO",
-          "url": "https://open.spotify.com/artist/3vSHkuSE00R9QBkm5SByaA"
         },
         {
           "name": "Nagalli",
@@ -4630,7 +4648,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 157654,
       "name": "Lembran\u00e7as",
       "url": "https://open.spotify.com/track/3ujHxldD7mQxlQl0cmZ2rI"
@@ -5408,6 +5426,28 @@
       "duration_ms": 192000,
       "name": "Metaverso",
       "url": "https://open.spotify.com/track/7eT5cvZWhxuL3RaPjlfnsB"
+    },
+    {
+      "album": {
+        "name": "Meu Deus N\u00e3o Falha",
+        "url": "https://open.spotify.com/album/0SeOYSog9uZmO7S5w1Z4Kc"
+      },
+      "artists": [
+        {
+          "name": "Pacificadores",
+          "url": "https://open.spotify.com/artist/2uwIwpXUSnFLDvw6tfiX43"
+        },
+        {
+          "name": "\u00c9aBest",
+          "url": "https://open.spotify.com/artist/7skt0YXuBGQZr4LGkyTShp"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251066,
+      "name": "Meu Deus N\u00e3o Falha",
+      "url": "https://open.spotify.com/track/6xyUrWih5dQ3hIoGbklFr9"
     },
     {
       "album": {

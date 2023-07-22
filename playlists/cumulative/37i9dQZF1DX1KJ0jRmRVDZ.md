@@ -4,7 +4,7 @@
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-775 songs - 1 day 20 hr 17 min
+776 songs - 1 day 20 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -453,6 +453,7 @@
 | [ネロ](https://open.spotify.com/track/3abxvM4ptugLFRocd7dm5H) | [Sou](https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8) | [ネロ](https://open.spotify.com/album/1aCpGaeu7Ai7eiB4o22aip) | 3:29 | 2023-04-11 | 2023-04-26 |
 | [ノマド \- self cover](https://open.spotify.com/track/5bhx38mEmEP8ps3J0wHTQY) | [須田景凪](https://open.spotify.com/artist/5dWE3G7COO82G6vRy2Hpum) | [ノマド \(self cover\)](https://open.spotify.com/album/44jc0PdXkVjPNNfyPVPaTF) | 3:52 | 2022-07-04 | 2022-07-25 |
 | [ハンドメイド流星雨 \- 皐月ソラの場合/CV:楠木ともり](https://open.spotify.com/track/19sdlPhdJXSknzwKEqD7a3) | [十五少女](https://open.spotify.com/artist/4QmLN7dXAOKWnZO9efWX5d) | [ハンドメイド流星雨 \(皐月ソラの場合/CV:楠木 ともり\)](https://open.spotify.com/album/1KPDqDTsLp4YUCoY5uZyfP) | 3:39 | 2022-06-21 | 2022-07-23 |
+| [ハートエンド](https://open.spotify.com/track/5chLgSHt4hNwuOlxWccA0u) | [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [ハートエンド](https://open.spotify.com/album/7qcNbmdD83ZgsFx2LwaYUP) | 2:53 | 2023-07-20 |  |
 | [バイメーバイメー \- Self Cover Ver.](https://open.spotify.com/track/1qdBJLd6NX2c89USkK5BbM) | [マイキP](https://open.spotify.com/artist/524nuNftJJIuQvPhkRl5Mp) | [Anti Believer](https://open.spotify.com/album/5Amin7lDuJFmadxKwco2MD) | 3:45 | 2022-07-12 | 2022-07-15 |
 | [バグってない?](https://open.spotify.com/track/5pUxiIcfmJsMMs3zY3m4SM) | [麻婆豆腐](https://open.spotify.com/artist/4rDjKnJ4UDzfROtTs37kDT) | [バグってない?](https://open.spotify.com/album/7kWkWtsSOc77JEAH0AyJJo) | 2:46 | 2022-07-26 | 2022-07-28 |
 | [バックライト](https://open.spotify.com/track/5A8W9xqsTQmbIM9h567QDF) | [SUIREN](https://open.spotify.com/artist/2nA3bgiJHNZkuv7O0HA3DK) | [バックライト](https://open.spotify.com/album/7qAXEyZd9MGPM2Ho2Foto3) | 3:48 | 2022-12-13 | 2023-01-11 |

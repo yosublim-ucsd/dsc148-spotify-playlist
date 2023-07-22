@@ -4,7 +4,7 @@
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: Periphery
 
-627 songs - 2 day 5 hr 56 min
+630 songs - 2 day 6 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -319,6 +319,7 @@
 | [Martyrs](https://open.spotify.com/track/2mijuiOFHf4EJcS2QpUkrn) | [Soen](https://open.spotify.com/artist/38uWD5h115pdz278q4rwZW) | [Lotus](https://open.spotify.com/album/16v3Ule2sTTWT37VKUsH6F) | 6:08 | 2021-12-17 | 2022-07-01 |
 | [Mechanisms of Loneliness](https://open.spotify.com/track/5pmYGT4j7nPmqapNdUIPhE) | [Burial In The Sky](https://open.spotify.com/artist/4QFGc1JTcGzr72JEGDCNd7) | [Mechanisms of Loneliness](https://open.spotify.com/album/1dH6mpUtk8kB2GWWPtRdww) | 6:58 | 2022-01-14 | 2022-07-26 |
 | [Melatonin](https://open.spotify.com/track/1cMy9ngVh1qJcWaIZPMBU8) | [Sleep Waker](https://open.spotify.com/artist/4hizDhcij3xrH69kcQ4R3i) | [Melatonin](https://open.spotify.com/album/4ZZXNJGWnA54rn0izMoJFp) | 3:28 | 2022-07-13 |  |
+| [Memorial](https://open.spotify.com/track/4M2fSEcYoPxaOgL5v77ZpP) | [Soen](https://open.spotify.com/artist/38uWD5h115pdz278q4rwZW) | [Memorial](https://open.spotify.com/album/1gt8LiaUkgCJp201rXimj2) | 4:38 | 2023-07-21 |  |
 | [Merkabah](https://open.spotify.com/track/1UvlACIJeuz4RqKaVBpzr3) | [Persefone](https://open.spotify.com/artist/4wxyib7wQwVxwKNFBmOhAw) | [Merkabah](https://open.spotify.com/album/7eWQB5KDQ9Mt4uvUCyrWn6) | 5:59 | 2021-12-17 | 2022-07-29 |
 | [Metamorph](https://open.spotify.com/track/5vAJ34CDAMijpywxBxyupZ) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [Metamorph](https://open.spotify.com/album/21lxVQoHeVUJ74qKXO03NP) | 2:44 | 2022-07-13 |  |
 | [Midwinter Calls](https://open.spotify.com/track/6rnE3rORv6kUDLoFlgNrq4) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [Midwinter Calls](https://open.spotify.com/album/02x2nCP1iUaHKw5ZrrX23h) | 5:06 | 2022-03-25 | 2022-04-29 |
@@ -420,7 +421,7 @@
 | [Remanence](https://open.spotify.com/track/71OQ9gOH6NUMLSBq2i1mfx) | [Dukkha](https://open.spotify.com/artist/7nyn1GFcq9woxZSQIYkNLi) | [Remanence](https://open.spotify.com/album/7mxcGyauyqgMX4YHzFP8nn) | 4:12 | 2021-12-17 | 2022-07-25 |
 | [Reprogram \- Single Version](https://open.spotify.com/track/5R8IEz7wqrbgTW2u8c52gU) | [Hacktivist](https://open.spotify.com/artist/3hZtRePYRKW6wLtZ3gpnk7) | [Reprogram](https://open.spotify.com/album/6VNdkapfDgOF42ZkB3kcRQ) | 4:26 | 2022-07-13 |  |
 | [Reptile](https://open.spotify.com/track/6hWHGG68ZARHuuNTUvW8vg) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [Reptile](https://open.spotify.com/album/1rqFnKswVUvYL5EjjME4Z4) | 3:44 | 2022-07-13 |  |
-| [Rest](https://open.spotify.com/track/4PKGtdh5xf04gf1b5OlXR2) | [Curses](https://open.spotify.com/artist/5Waz4LdRTkbyqfgladPHHk) | [Rest](https://open.spotify.com/album/5J1F9sJQetwCcdMU6VfEHM) | 4:03 | 2022-07-13 |  |
+| [Rest](https://open.spotify.com/track/4PKGtdh5xf04gf1b5OlXR2) | [Curses](https://open.spotify.com/artist/5Waz4LdRTkbyqfgladPHHk) | [Rest](https://open.spotify.com/album/5J1F9sJQetwCcdMU6VfEHM) | 4:03 | 2022-07-13 | 2023-07-22 |
 | [Rigel](https://open.spotify.com/track/2v94YzlQ7jNn2IHcGHw7L6) | [Thessa](https://open.spotify.com/artist/7AmcyOXvn35ZkuUWSIn8eu) | [Arcus](https://open.spotify.com/album/5pVn4oUe0UzrcS1p2irbax) | 4:43 | 2022-07-13 |  |
 | [Right In Front of Me](https://open.spotify.com/track/65NfSqmYpJV5soI2JuwiD8) | [Indigo Storm](https://open.spotify.com/artist/0jwtY9QnEopkK4nI9McYDk) | [Demeter](https://open.spotify.com/album/74KBiQFdncb3dTMJSvN9bp) | 3:32 | 2022-06-10 |  |
 | [Risset](https://open.spotify.com/track/00fqV46YpTk3w4qrwoBFlf) | [Kryn](https://open.spotify.com/artist/4OUkgSJQkianAfCIzM5Y9L) | [Risset](https://open.spotify.com/album/5qcFZTlyZlKLo1yHrUDgZ9) | 4:49 | 2021-12-17 | 2022-09-03 |
@@ -432,7 +433,7 @@
 | [Sagittarius](https://open.spotify.com/track/0oDw63zv1ProfvH1HgfPvG) | [One Hundred Thousand](https://open.spotify.com/artist/26PZG9fA2GSpDe8o2UR2Bt) | [Sagittarius](https://open.spotify.com/album/63hiVr5grtpEehl3FUnZib) | 5:51 | 2021-12-17 | 2021-12-29 |
 | [Samsara](https://open.spotify.com/track/7bGXM8slCNjpYiDAPUcWjY) | [The Northern](https://open.spotify.com/artist/2PUqSBJmeZme23xXXP7mVU) | [Samsara](https://open.spotify.com/album/7DMk4cN5FXmwWnNXFSxAuP) | 4:40 | 2022-07-13 |  |
 | [Sanctuary](https://open.spotify.com/track/5z2VqUUekX3IHIjOcy3uZm) | [Seas on the Moon](https://open.spotify.com/artist/4uIHW758guEB2kTjfmMBc8), [Lena Scissorhands](https://open.spotify.com/artist/3iVYGaRErrrtVdbA3mXzVD) | [Sanctuary](https://open.spotify.com/album/79e13Ukx164Q9L5pq7TXFZ) | 4:23 | 2021-12-31 | 2022-07-25 |
-| [Sardonyx](https://open.spotify.com/track/3nOClyLeIIC7YxpIsbjMkk) | [Windrunner](https://open.spotify.com/artist/7GqHmgqt4wkWHZr8fcc9P7), [Tobias Rische](https://open.spotify.com/artist/7GaKWK9w2lGfFhyYVjvhBe) | [Sardonyx](https://open.spotify.com/album/2IxnO3Vk8Ra2NZSkRlQort) | 4:29 | 2022-01-07 |  |
+| [Sardonyx](https://open.spotify.com/track/3nOClyLeIIC7YxpIsbjMkk) | [Windrunner](https://open.spotify.com/artist/7GqHmgqt4wkWHZr8fcc9P7), [Tobias Rische](https://open.spotify.com/artist/7GaKWK9w2lGfFhyYVjvhBe) | [Sardonyx](https://open.spotify.com/album/2IxnO3Vk8Ra2NZSkRlQort) | 4:29 | 2022-01-07 | 2023-07-22 |
 | [Satellites](https://open.spotify.com/track/15pzQR7FbH7S6zz6QpKDlH) | [Exist Immortal](https://open.spotify.com/artist/5M5o6ngEUjMr2HJkVfMPVV) | [Satellites](https://open.spotify.com/album/42h0bhfThdZaoLSIBKW5c0) | 3:58 | 2021-12-17 | 2022-05-12 |
 | [Save Us](https://open.spotify.com/track/4wgNeJC09meKtvYTjGTyG8) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [Save Us](https://open.spotify.com/album/5vCm979YxXhzYDlpgyYRgW) | 4:45 | 2022-03-01 |  |
 | [Scarification/Induration](https://open.spotify.com/track/2kiDrFIpgD8N8MPaAZZXo9) | [Walking Across Jupiter](https://open.spotify.com/artist/2Mus8zI0AG1vP3BaEwo6ss) | [Scarification/Induration](https://open.spotify.com/album/7kKXN6utZrKW5npS1IdfKz) | 3:52 | 2021-12-17 | 2022-06-29 |
@@ -602,6 +603,7 @@
 | [Vultures](https://open.spotify.com/track/7lc4fOtaWt59SrqfJHXZkW) | [Wheel](https://open.spotify.com/artist/4msm1QtpV7zMReePhbEQ6H) | [Vultures](https://open.spotify.com/album/796jrMHaFR0uKFd6R1Hr8K) | 3:59 | 2021-12-17 | 2022-05-14 |
 | [Wallflower](https://open.spotify.com/track/657pCrjmICGxzsMU8zPnAj) | [Jinjer](https://open.spotify.com/artist/7o6cOczXTB8ioTAAJTbESf) | [Wallflower](https://open.spotify.com/album/4WUduyQqdZ5ihHSvDZ8ZYj) | 4:17 | 2022-07-13 |  |
 | [Wanderlust](https://open.spotify.com/track/5EmGW48BMC4rIVWqrG3YML) | [Arch/Matheos](https://open.spotify.com/artist/20FEgW8w3CzSuwHa88kVas) | [Wanderlust](https://open.spotify.com/album/7Ayz1KWInid3a6pm7l7WaJ) | 5:59 | 2021-12-17 | 2022-07-28 |
+| [War Of Being](https://open.spotify.com/track/7Giyxds8jh7TVluP93eC5C) | [TesseracT](https://open.spotify.com/artist/23ytwhG1pzX6DIVWRWvW1r) | [War Of Being](https://open.spotify.com/album/32xlRHSOQrN0gaLNRmesGd) | 11:02 | 2023-07-21 |  |
 | [Warriors](https://open.spotify.com/track/5XhMWeK5yDNcXOMww3BdHH) | [Seventh Wonder](https://open.spotify.com/artist/30nUQaYp91iDcRyhr1oNn0) | [Warriors](https://open.spotify.com/album/56Y1RzDhZwZof924rnCI2X) | 4:42 | 2022-04-01 |  |
 | [Wash Away](https://open.spotify.com/track/7mKPw6kIUcdDCMTiJcnP73) | [Helion Prime](https://open.spotify.com/artist/2lUdzoPUHo1zpRGDXTipi5) | [Question Everything: Special Edition](https://open.spotify.com/album/5EMdIZWyNElzD93WWrOn5g) | 7:24 | 2021-12-17 | 2022-07-24 |
 | [Wasteland](https://open.spotify.com/track/7ab6HM68QJh2ziPoZypldE) | [Rendezvous Point](https://open.spotify.com/artist/0AhnRzNnHI2Yhx9d00H5Cp) | [Solar Storm](https://open.spotify.com/album/69J3uTLDvkSropblvR3MCw) | 4:58 | 2021-12-17 | 2022-01-29 |
@@ -621,6 +623,7 @@
 | [Where August Mourns](https://open.spotify.com/track/4j1gGmXFQFoQ6duER3N6gg) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [Where August Mourns](https://open.spotify.com/album/1Qsw63G6iAWD1pWEOOc3ou) | 5:31 | 2021-12-17 | 2022-09-03 |
 | [Where I Belong](https://open.spotify.com/track/3rJD4jqjvYUgM6F0LVSMWG) | [Anup Sastry](https://open.spotify.com/artist/0sCAofrHFyDFPxXA0B7a86), [Andy Cizek](https://open.spotify.com/artist/0C5fT1ymHhTRTrSVhDYUta) | [Illuminate](https://open.spotify.com/album/5ZQOrK16Mv53eEE7LjGALS) | 5:04 | 2022-07-13 |  |
 | [Where the Pieces Lie](https://open.spotify.com/track/2CQEK2pBfdw3VRdyrIkh9S) | [Wheel](https://open.spotify.com/artist/4msm1QtpV7zMReePhbEQ6H) | [Where the Pieces Lie](https://open.spotify.com/album/08VNewqwl2RS99o4SVy2PX) | 3:59 | 2021-12-17 | 2022-07-01 |
+| [Where the Slime Live \(feat\. Dave Davidson & Revocation\)](https://open.spotify.com/track/0kTRSk5aNTJdmQdW0ovvkc) | [Dååth](https://open.spotify.com/artist/1zPmAg2AfxmMPKspgUv9JN), [Dave Davidson](https://open.spotify.com/artist/6O7PNlC4O3jy5AGizZ29vu), [Revocation](https://open.spotify.com/artist/4I9kzJ3Ew3qPoN66UPJUl3) | [Where the Slime Live \(feat\. Dave Davidson & Revocation\)](https://open.spotify.com/album/7kPFumZfMhbi1Kpmq0irQY) | 5:26 | 2023-07-21 |  |
 | [WHISPERS](https://open.spotify.com/track/1TLXsoGr3IbYKKGIpPwWjY) | [City of Souls](https://open.spotify.com/artist/6DStZfBhFNFfMKsWcyYTEt) | [SYNÆSTHESIA](https://open.spotify.com/album/6DAOHWhROvKnNsNtokAWj1) | 3:47 | 2021-12-17 | 2022-06-20 |
 | [White Nile](https://open.spotify.com/track/52cwidOKr1iSZU20Jqx4wB) | [Born Of Osiris](https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt) | [White Nile](https://open.spotify.com/album/0GAeqCTzESd8aqYJ20NQ3R) | 3:49 | 2021-12-17 | 2022-11-05 |
 | [White Nile](https://open.spotify.com/track/6YnTThmosnud2DLTbXikPF) | [Born Of Osiris](https://open.spotify.com/artist/4HgqjpBaWctBWVHafQIpRt) | [Angel Or Alien](https://open.spotify.com/album/0CGsQ5hgvU2wPrmcz6h7YZ) | 3:49 | 2022-10-28 | 2023-01-21 |
@@ -634,6 +637,6 @@
 | [Yonder](https://open.spotify.com/track/6ORWPNIEmo78ohwOZbsOtP) | [Klone](https://open.spotify.com/artist/0J2gE1fVwnMhsh0OxUpUPT) | [Yonder](https://open.spotify.com/album/7nTaFlHdv9U3K9970yDTs4) | 7:32 | 2021-12-17 | 2022-07-29 |
 | [YOU CAN'T RUN AWAY](https://open.spotify.com/track/34yWYCjZzUAhRy6DKDlYWn) | [Emigrate](https://open.spotify.com/artist/29fyAsYdzkCIH96xB40um1) | [YOU CAN'T RUN AWAY](https://open.spotify.com/album/6dtR0STntbvuJx4ytx6gZP) | 4:09 | 2021-12-17 | 2023-01-21 |
 | [Young Bloods](https://open.spotify.com/track/0t38MySDtnGG5hh47p8WiA) | [Port Noir](https://open.spotify.com/artist/6s6x6p9qZFaPfeALpVvcpR) | [Young Bloods](https://open.spotify.com/album/1R2Bl5GtUt6KadrCI3B70u) | 3:42 | 2021-12-17 | 2022-07-01 |
-| [Zoro Kokonotsu No Yaiba \- From "One Piece"](https://open.spotify.com/track/32P1WGuqcMRjYwafyuWJnS) | [Gabriele Motta](https://open.spotify.com/artist/74Z82c9qeF0yFO30XSs8nQ) | [Zoro Kokonotsu No Yaiba \(From "One Piece"\)](https://open.spotify.com/album/7IYQjOr9PKX8axdmoJgwc8) | 1:59 | 2022-12-16 |  |
+| [Zoro Kokonotsu No Yaiba \- From "One Piece"](https://open.spotify.com/track/32P1WGuqcMRjYwafyuWJnS) | [Gabriele Motta](https://open.spotify.com/artist/74Z82c9qeF0yFO30XSs8nQ) | [Zoro Kokonotsu No Yaiba \(From "One Piece"\)](https://open.spotify.com/album/7IYQjOr9PKX8axdmoJgwc8) | 1:59 | 2022-12-16 | 2023-07-22 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

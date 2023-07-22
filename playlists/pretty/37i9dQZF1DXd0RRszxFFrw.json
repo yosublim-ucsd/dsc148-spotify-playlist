@@ -1,12 +1,12 @@
 {
   "description": "Dulces rasgueos de cuerdas para acompa\u00f1ar tu velada",
-  "num_followers": 48798,
+  "num_followers": 48823,
   "original_name": "Cena con Guitarras",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTcyYWU5MGU5ODE1Y2EyODYwYTYxM2NlN2NlODI0MTIyNDk4YjU5",
+  "snapshot_id": "MCxiYzliNDM2OWRmZWVmMjIxMDI4ZmU5Y2I4MWQ4ZTA1ODg1M2E4MzA4",
   "tracks": [
     {
       "added_at": "2022-10-27 22:01:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "M\u00fasica De Espa\u00f1a",
-        "url": "https://open.spotify.com/album/78IBI0klNQUPQqboDbrwAC"
-      },
-      "artists": [
-        {
-          "name": "Guitarras De Oro",
-          "url": "https://open.spotify.com/artist/6XHtHclYE1EvdBOhrDcc3M"
-        }
-      ],
-      "duration_ms": 221637,
-      "name": "Rumbita (Guitar Version)",
-      "url": "https://open.spotify.com/track/2O4EF7o7GcoynSOhdl8eMZ"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Meu cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/405dosv3ZeaoHAXrY5bbgq"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 143179,
       "name": "Meu cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/6c8xRdxYhrj6VaEbUS6mu3"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "M\u00fasica De Espa\u00f1a",
+        "url": "https://open.spotify.com/album/78IBI0klNQUPQqboDbrwAC"
+      },
+      "artists": [
+        {
+          "name": "Guitarras De Oro",
+          "url": "https://open.spotify.com/artist/6XHtHclYE1EvdBOhrDcc3M"
+        }
+      ],
+      "duration_ms": 221637,
+      "name": "Rumbita (Guitar Version)",
+      "url": "https://open.spotify.com/track/2O4EF7o7GcoynSOhdl8eMZ"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "La Fuente",
-        "url": "https://open.spotify.com/album/5X26QsoSZWmENHqPGwRV3J"
-      },
-      "artists": [
-        {
-          "name": "Muniesa",
-          "url": "https://open.spotify.com/artist/3ZQonINCoqeD0Fe8FzeZ8v"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "La Fuente",
-      "url": "https://open.spotify.com/track/4C41YNht2Eupsw096RpcJj"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Just Feeling Great",
         "url": "https://open.spotify.com/album/51ZoU9SmsB2MNiIQIe018S"
       },
@@ -1007,18 +991,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Spanish Guitar EP",
-        "url": "https://open.spotify.com/album/5qLOiuTrmvrpmPxBuGtaNk"
+        "name": "La Fuente",
+        "url": "https://open.spotify.com/album/5X26QsoSZWmENHqPGwRV3J"
       },
       "artists": [
         {
-          "name": "Alex Albright",
-          "url": "https://open.spotify.com/artist/26JRo0347XPbM7ve7owOdj"
+          "name": "Muniesa",
+          "url": "https://open.spotify.com/artist/3ZQonINCoqeD0Fe8FzeZ8v"
         }
       ],
-      "duration_ms": 109505,
-      "name": "Lagrima",
-      "url": "https://open.spotify.com/track/5BI10E53YBSMYbCnKijBEN"
+      "duration_ms": 162000,
+      "name": "La Fuente",
+      "url": "https://open.spotify.com/track/4C41YNht2Eupsw096RpcJj"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1035,6 +1019,22 @@
       "duration_ms": 278675,
       "name": "Senior Emilio",
       "url": "https://open.spotify.com/track/6EjZx8S2Hdd4ZoBqJfgNFA"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Spanish Guitar EP",
+        "url": "https://open.spotify.com/album/5qLOiuTrmvrpmPxBuGtaNk"
+      },
+      "artists": [
+        {
+          "name": "Alex Albright",
+          "url": "https://open.spotify.com/artist/26JRo0347XPbM7ve7owOdj"
+        }
+      ],
+      "duration_ms": 109505,
+      "name": "Lagrima",
+      "url": "https://open.spotify.com/track/5BI10E53YBSMYbCnKijBEN"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
+        "name": "Herencia de Valencia",
+        "url": "https://open.spotify.com/album/1eHEvjtgHgOkzX7i5jqAQN"
+      },
+      "artists": [
+        {
+          "name": "Nylonwings",
+          "url": "https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN"
+        }
+      ],
+      "duration_ms": 198813,
+      "name": "Herencia de Valencia",
+      "url": "https://open.spotify.com/track/3DALc0j8IOpKpKAuiHU5zu"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
         "name": "Siena",
         "url": "https://open.spotify.com/album/7uBcvHDsSXkR6m5CSHqCFJ"
       },
@@ -1123,18 +1139,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Herencia de Valencia",
-        "url": "https://open.spotify.com/album/1eHEvjtgHgOkzX7i5jqAQN"
+        "name": "Lost Tales of Catalonia",
+        "url": "https://open.spotify.com/album/1LnfyMLkTr1BD7UPj6ykTl"
       },
       "artists": [
         {
-          "name": "Nylonwings",
-          "url": "https://open.spotify.com/artist/2FLK3ubX0vLLfbU5ViuJTN"
+          "name": "Daniel Kaede",
+          "url": "https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt"
         }
       ],
-      "duration_ms": 198813,
-      "name": "Herencia de Valencia",
-      "url": "https://open.spotify.com/track/3DALc0j8IOpKpKAuiHU5zu"
+      "duration_ms": 193851,
+      "name": "When the Ocean Sleeps",
+      "url": "https://open.spotify.com/track/2ioFkeG63Xy5cdvjq5JpHr"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1171,22 +1187,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Lost Tales of Catalonia",
-        "url": "https://open.spotify.com/album/1LnfyMLkTr1BD7UPj6ykTl"
-      },
-      "artists": [
-        {
-          "name": "Daniel Kaede",
-          "url": "https://open.spotify.com/artist/6aup7uM4yUHX9NLba0sxmt"
-        }
-      ],
-      "duration_ms": 193851,
-      "name": "When the Ocean Sleeps",
-      "url": "https://open.spotify.com/track/2ioFkeG63Xy5cdvjq5JpHr"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Tristango",
         "url": "https://open.spotify.com/album/3v4uvZAjwkygczMxSZQFcC"
       },
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Classical Guitar Latin Style",
-        "url": "https://open.spotify.com/album/5eMSI07GHlyK9IDojcSXZu"
-      },
-      "artists": [
-        {
-          "name": "William Wilson",
-          "url": "https://open.spotify.com/artist/7EuAjEsiYkBk5jtTLZPwba"
-        }
-      ],
-      "duration_ms": 246040,
-      "name": "Libertango",
-      "url": "https://open.spotify.com/track/7yeilRWdR7rXDpQY1aBmK7"
-    },
-    {
-      "added_at": "2022-10-27 22:01:00",
-      "album": {
         "name": "Romantic Carnival Chillout Music",
         "url": "https://open.spotify.com/album/4mbBeSPRVCfvaLLZ8YCdsL"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 97387,
       "name": "Mexican Mood",
       "url": "https://open.spotify.com/track/1GlBh7jgGCrZOY1SrzvMkx"
+    },
+    {
+      "added_at": "2022-10-27 22:01:00",
+      "album": {
+        "name": "Classical Guitar Latin Style",
+        "url": "https://open.spotify.com/album/5eMSI07GHlyK9IDojcSXZu"
+      },
+      "artists": [
+        {
+          "name": "William Wilson",
+          "url": "https://open.spotify.com/artist/7EuAjEsiYkBk5jtTLZPwba"
+        }
+      ],
+      "duration_ms": 246040,
+      "name": "Libertango",
+      "url": "https://open.spotify.com/track/7yeilRWdR7rXDpQY1aBmK7"
     },
     {
       "added_at": "2022-10-27 22:01:00",
@@ -1267,22 +1267,18 @@
     {
       "added_at": "2022-10-27 22:01:00",
       "album": {
-        "name": "Sones y Danzones de Buena Madera",
-        "url": "https://open.spotify.com/album/4qIABg8vLwPR3LO4pqFx00"
+        "name": "Sol Naciente",
+        "url": "https://open.spotify.com/album/5TGkBE8ag2FN8O95EfwOfQ"
       },
       "artists": [
         {
-          "name": "Enrico Chapela",
-          "url": "https://open.spotify.com/artist/2nJVCarJHG5EjOGTitbA4K"
-        },
-        {
-          "name": "Cuarteto de Guitarras de la Ciudad de M\u00e9xico",
-          "url": "https://open.spotify.com/artist/2QL42RATuYg1tMBhGDFwBV"
+          "name": "Paco Infante",
+          "url": "https://open.spotify.com/artist/5Kkc0wgmIcj0FX2Bs8uHht"
         }
       ],
-      "duration_ms": 370773,
-      "name": "Dan-Son",
-      "url": "https://open.spotify.com/track/7IqSzzollrdq3DeKmx9FE2"
+      "duration_ms": 213999,
+      "name": "Dos Gardenias",
+      "url": "https://open.spotify.com/track/1ssx7VfHSaWq2xtvQzp5mb"
     }
   ],
   "unique_name": "Cena con Guitarras",

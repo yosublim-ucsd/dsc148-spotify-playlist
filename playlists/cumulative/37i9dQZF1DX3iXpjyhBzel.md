@@ -4,7 +4,7 @@
 
 > A música certa para o seu momento de adoração\. Foto: Isaias Saad, Fernandinho
 
-189 songs - 18 hr 33 min
+190 songs - 18 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Ele Virá](https://open.spotify.com/track/1l69icARTslZeLwFzwAVk0) | [Marcelo Markes](https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2) | [Ele Virá](https://open.spotify.com/album/6BqqnFgLjwmBtkZHQraTW7) | 4:56 | 2022-09-09 |  |
 | [Ele Vive / Porque Ele Vive \(Because He Lives\) \- Ao Vivo](https://open.spotify.com/track/1mH3ymdU5AkT29eoA8Xixj) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Ele Vive / Porque Ele Vive \(Because He Lives\) \[Ao Vivo\]](https://open.spotify.com/album/4guJXGgobPLH6FP4QhX4oc) | 5:21 | 2023-02-03 | 2023-03-04 |
 | [Ele é Deus \- Ao Vivo](https://open.spotify.com/track/62mntwFElvpHLNaPf9h8S7) | [Ton Molinari](https://open.spotify.com/artist/2qdD7yDxhXo9DVvyYQveao), [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P) | [Ele é Deus \(Ao Vivo\)](https://open.spotify.com/album/4dx6B0zaswyAQXyNFjIlEe) | 5:46 | 2022-09-09 | 2023-02-04 |
+| [Em Meio Ao Vendaval \(Ao Vivo\)](https://open.spotify.com/track/6ZxiEkmFOQGA5xrLiV3yTS) | [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko) | [Em Meio Ao Vendaval \(Ao Vivo\)](https://open.spotify.com/album/3iALD5FS2raKNCjouli13t) | 5:01 | 2023-07-21 |  |
 | [Em Teus Braços \- Acústico](https://open.spotify.com/track/3prDqIeQ71JN430YOl55eB) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Em Teus Braços \(Acústico\)](https://open.spotify.com/album/6tnVUVvyThn4CyA8gO8Oik) | 4:15 | 2022-09-09 |  |
 | [Era Deus](https://open.spotify.com/track/7FCZXSFH10ZcwgaGKXaDYj) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ), [Sarah Beatriz](https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT) | [Era Deus](https://open.spotify.com/album/5qUCNqOs1lbiZmiizjYBwp) | 4:45 | 2022-09-09 |  |
 | [Espera Só Mais um Pouquinho](https://open.spotify.com/track/41NtlFmWQgIDWXv6mSgNrf) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Espera Só Mais um Pouquinho](https://open.spotify.com/album/4XuNKNOhFdHsjtAGyrz9mu) | 3:49 | 2022-09-09 | 2023-04-16 |
@@ -79,7 +80,7 @@
 | [Existe Um Nome \- Ao Vivo](https://open.spotify.com/track/0pwAY9EOGY8QjGwaXZuDJG) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Existe Um Nome \(Ao Vivo\)](https://open.spotify.com/album/4gfqFsEIrYyTJasmmfMq5E) | 5:26 | 2023-01-20 | 2023-03-04 |
 | [Existe Uma Força](https://open.spotify.com/track/3oDLoqywfchRMne1pUMU97) | [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [Rebeca Nemer](https://open.spotify.com/artist/1mQU9ZMrrU8FcbjfePJBsk) | [Existe Uma Força](https://open.spotify.com/album/0GxF0Y9XuVBKiAYCNtcAEG) | 5:56 | 2023-06-23 | 2023-07-15 |
 | [Farol](https://open.spotify.com/track/2IKyipS7Mij4KcH1QnTEEY) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Pedro Henrique](https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t) | [Farol](https://open.spotify.com/album/0ktvXrUoZnV7OB8AH288ww) | 3:58 | 2022-11-25 | 2022-12-10 |
-| [Fidelidade](https://open.spotify.com/track/2u8PtILUXbasNdynPbHvYs) | [Elizeu Alves](https://open.spotify.com/artist/6wOGRxxl44uPr3DNjdocTt), [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [Fidelidade](https://open.spotify.com/album/1KUWEpW2R8syhvrtMswME6) | 4:07 | 2023-06-16 |  |
+| [Fidelidade](https://open.spotify.com/track/2u8PtILUXbasNdynPbHvYs) | [Elizeu Alves](https://open.spotify.com/artist/6wOGRxxl44uPr3DNjdocTt), [Samuel Messias](https://open.spotify.com/artist/5cFlGTfDoYwRGZrtEO92MJ) | [Fidelidade](https://open.spotify.com/album/1KUWEpW2R8syhvrtMswME6) | 4:07 | 2023-06-16 | 2023-07-22 |
 | [Filho \- Ao Vivo](https://open.spotify.com/track/6eX2KGfKHNniRaOmhBCL2p) | [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB) | [Filho \(Ao Vivo\)](https://open.spotify.com/album/33Unmm1Eo3g5QEVIZQXVUn) | 4:05 | 2022-09-09 |  |
 | [Foi Deus](https://open.spotify.com/track/47zHQVLf1JANzOYVX2bsVB) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx) | [Foi Deus](https://open.spotify.com/album/1qmmBWIGwBNJR0iWzvy5qo) | 7:33 | 2022-09-09 |  |
 | [Furioso Amor](https://open.spotify.com/track/5YmCD6XNHTWgQqoxwLGmHG) | [Elizeu Alves](https://open.spotify.com/artist/6wOGRxxl44uPr3DNjdocTt) | [Furioso Amor](https://open.spotify.com/album/5zclhkccExl4v282im0AoW) | 6:51 | 2022-09-09 | 2023-02-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 
 > This is Coi Leray\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,489 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,513 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 49 | [At The Top \(with Kodak Black & Mustard\)](https://open.spotify.com/track/4buaMK8tYXGF7Ca3u8iLtE) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k) | [At The Top](https://open.spotify.com/album/7fQLpnEw13xochCUd776UZ) | 3:01 |
 | 50 | [Heart In A Coffin](https://open.spotify.com/track/3eW97X88caKutrSFklw4ae) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 2:31 |
 
-Snapshot ID: `MjgxNjQzMDgsMDAwMDAwMDBhZDY1YjE4ZWQwOTBlNzM4ZGU4ZDNmMmZhNmM1M2VjMg==`
+Snapshot ID: `MjgxNjU3NzcsMDAwMDAwMDA5MjQxMGNmNmUxYWViNTU2MThhZTdhOTNmYjhjZmZmYg==`

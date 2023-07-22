@@ -1,12 +1,12 @@
 {
   "description": "New no wave, post-punk, and anything else. Cover: Squid",
-  "num_followers": 269525,
+  "num_followers": 269599,
   "original_name": "Post Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzg1NTQ0N2FmMDAxNDU5MzNmOGE3OTZjZDM4OTRjMzMzYjIzZDEz",
+  "snapshot_id": "MCxmZDYyOTJmODQ5ZTc4MTk2NjY5NThiMDc5ZDQ0YzBiMTNhYjRmNDhh",
   "tracks": [
     {
       "added_at": "2023-02-24 00:00:00",
@@ -639,18 +639,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "Debonair",
-        "url": "https://open.spotify.com/album/1z6VwFw428tUIrrEqKktEn"
+        "name": "'Til The Stream Runs Dry",
+        "url": "https://open.spotify.com/album/7IM36wFeDv1bhzc1soETfO"
       },
       "artists": [
         {
-          "name": "Horsey",
-          "url": "https://open.spotify.com/artist/3ey9OSASkq8HNPh0u7jjfO"
+          "name": "Opus Kink",
+          "url": "https://open.spotify.com/artist/1qDKbZJLaLlsaI7e6mHqm3"
         }
       ],
-      "duration_ms": 265879,
-      "name": "Wharf (ii)",
-      "url": "https://open.spotify.com/track/6KKtTJAgNLCW7LAtuI9Dwy"
+      "duration_ms": 260665,
+      "name": "St. Paul of the Tarantulas",
+      "url": "https://open.spotify.com/track/4u3HxVlseWBBROXr7TwHLR"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -671,18 +671,18 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "'Til The Stream Runs Dry",
-        "url": "https://open.spotify.com/album/7IM36wFeDv1bhzc1soETfO"
+        "name": "Debonair",
+        "url": "https://open.spotify.com/album/1z6VwFw428tUIrrEqKktEn"
       },
       "artists": [
         {
-          "name": "Opus Kink",
-          "url": "https://open.spotify.com/artist/1qDKbZJLaLlsaI7e6mHqm3"
+          "name": "Horsey",
+          "url": "https://open.spotify.com/artist/3ey9OSASkq8HNPh0u7jjfO"
         }
       ],
-      "duration_ms": 260665,
-      "name": "St. Paul of the Tarantulas",
-      "url": "https://open.spotify.com/track/4u3HxVlseWBBROXr7TwHLR"
+      "duration_ms": 265879,
+      "name": "Wharf (ii)",
+      "url": "https://open.spotify.com/track/6KKtTJAgNLCW7LAtuI9Dwy"
     },
     {
       "added_at": "2023-02-24 00:00:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-02-24 00:00:00",
       "album": {
-        "name": "caroline",
-        "url": "https://open.spotify.com/album/4X12VfRomM649eKXd1qKMf"
-      },
-      "artists": [
-        {
-          "name": "caroline",
-          "url": "https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA"
-        }
-      ],
-      "duration_ms": 347506,
-      "name": "Good morning (red)",
-      "url": "https://open.spotify.com/track/5Hr3cBLE1Qe7zAw6n1iGHW"
-    },
-    {
-      "added_at": "2023-02-24 00:00:00",
-      "album": {
         "name": "Holding Hands with Jamie",
         "url": "https://open.spotify.com/album/0DDiLP8SYopzwGArJ3GUi9"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 413721,
       "name": "Paul",
       "url": "https://open.spotify.com/track/1GRGCIaRlqSCR6ljUmZpv0"
+    },
+    {
+      "added_at": "2023-02-24 00:00:00",
+      "album": {
+        "name": "caroline",
+        "url": "https://open.spotify.com/album/4X12VfRomM649eKXd1qKMf"
+      },
+      "artists": [
+        {
+          "name": "caroline",
+          "url": "https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA"
+        }
+      ],
+      "duration_ms": 347506,
+      "name": "Good morning (red)",
+      "url": "https://open.spotify.com/track/5Hr3cBLE1Qe7zAw6n1iGHW"
     },
     {
       "added_at": "2023-02-24 00:00:00",

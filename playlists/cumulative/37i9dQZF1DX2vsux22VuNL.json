@@ -1684,7 +1684,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 155933,
       "name": "Espero Ainda",
       "url": "https://open.spotify.com/track/2hXRDeIcV1lBrB8lV8imjQ"
@@ -1740,6 +1740,24 @@
       "duration_ms": 155712,
       "name": "Estaca Zero",
       "url": "https://open.spotify.com/track/3bHlO8qFcJjYcvWaawg5bp"
+    },
+    {
+      "album": {
+        "name": "Estrela do Mar",
+        "url": "https://open.spotify.com/album/4g0LAPd9UDGIX2zgeHQXnY"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195033,
+      "name": "Estrela do Mar",
+      "url": "https://open.spotify.com/track/0rULs7B1JjYnnaooUbZwy5"
     },
     {
       "album": {
@@ -5093,6 +5111,44 @@
     },
     {
       "album": {
+        "name": "Smoking On The Moonlight",
+        "url": "https://open.spotify.com/album/34a21mK3LM0q9q3JlUCrjN"
+      },
+      "artists": [
+        {
+          "name": "Gustah",
+          "url": "https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L"
+        },
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Dada Yute",
+          "url": "https://open.spotify.com/artist/4mZqYlVhIZJnJtbF39kDjj"
+        },
+        {
+          "name": "Duani",
+          "url": "https://open.spotify.com/artist/7kfnPmwhVUGVTbp4IEiHxZ"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        },
+        {
+          "name": "2050",
+          "url": "https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151942,
+      "name": "Smoking On The Moonlight",
+      "url": "https://open.spotify.com/track/6aEBvGAtjoEyJ1TmP0k8EA"
+    },
+    {
+      "album": {
         "name": "Vida Cara",
         "url": "https://open.spotify.com/album/05O0Z1S7MeE49h8krhErzy"
       },
@@ -5404,7 +5460,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 187272,
       "name": "Te Fazer Vibrar",
       "url": "https://open.spotify.com/track/2ht1UBPNgDM0WMpgxKC7Zy"

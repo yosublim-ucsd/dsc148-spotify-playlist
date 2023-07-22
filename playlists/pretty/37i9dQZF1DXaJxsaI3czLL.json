@@ -1,12 +1,12 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 125928,
+  "num_followers": 125947,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMWIzNWRiOTk2MDk5MmJiMTMxZWE5ODVhN2I2NDFiNGJkMzQ0MWQ1",
+  "snapshot_id": "MCxjZmE0NzRhM2I1MzEwNDA1MzAyNmYzYjRiNzc5MTg2YzBhMDEwNDAy",
   "tracks": [
     {
       "added_at": "2023-07-20 15:00:00",
@@ -615,18 +615,18 @@
     {
       "added_at": "2023-07-20 15:00:00",
       "album": {
-        "name": "Days With Uncertainty",
-        "url": "https://open.spotify.com/album/0p4J9aL2rG5uBKLRO8HkPM"
+        "name": "A Rainy Night in NY",
+        "url": "https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH"
       },
       "artists": [
         {
-          "name": "The fin.",
-          "url": "https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa"
+          "name": "moeki",
+          "url": "https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM"
         }
       ],
-      "duration_ms": 239160,
-      "name": "Night Time",
-      "url": "https://open.spotify.com/track/6kwhwM4bjrFxnPT0wlbb6b"
+      "duration_ms": 178546,
+      "name": "A Rainy Night in NY",
+      "url": "https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX"
     },
     {
       "added_at": "2023-07-20 15:00:00",
@@ -647,18 +647,18 @@
     {
       "added_at": "2023-07-20 15:00:00",
       "album": {
-        "name": "A Rainy Night in NY",
-        "url": "https://open.spotify.com/album/4lbahrWo1oX8bq55QevAKH"
+        "name": "Days With Uncertainty",
+        "url": "https://open.spotify.com/album/0p4J9aL2rG5uBKLRO8HkPM"
       },
       "artists": [
         {
-          "name": "moeki",
-          "url": "https://open.spotify.com/artist/6fR38gpMfHJIKnbWNcQqfM"
+          "name": "The fin.",
+          "url": "https://open.spotify.com/artist/31zdCo7PhGXLRbg0sfBUYa"
         }
       ],
-      "duration_ms": 178546,
-      "name": "A Rainy Night in NY",
-      "url": "https://open.spotify.com/track/6ISvLzyd8LRsSRLJR9WyAX"
+      "duration_ms": 239160,
+      "name": "Night Time",
+      "url": "https://open.spotify.com/track/6kwhwM4bjrFxnPT0wlbb6b"
     },
     {
       "added_at": "2023-07-20 15:00:00",
@@ -748,8 +748,8 @@
           "url": "https://open.spotify.com/artist/6sOK1O5rpqEad0ZCzk5FnM"
         },
         {
-          "name": "\u97f3\u7121\u53f2\u54c9",
-          "url": "https://open.spotify.com/artist/39GPhcqGBxY4sJTn5uTiff"
+          "name": "Fumiya Otonashi",
+          "url": "https://open.spotify.com/artist/6SA1xl7yWAdoyqHn5qQs3w"
         }
       ],
       "duration_ms": 197706,
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-07-20 15:00:00",
       "album": {
-        "name": "early summer 2022",
-        "url": "https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs"
-      },
-      "artists": [
-        {
-          "name": "Kazumasa Oda",
-          "url": "https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR"
-        }
-      ],
-      "duration_ms": 274066,
-      "name": "\u3053\u306e\u65e5\u306e\u3053\u3068",
-      "url": "https://open.spotify.com/track/4G7qeAp6SBwIUnmvzTUjSh"
-    },
-    {
-      "added_at": "2023-07-20 15:00:00",
-      "album": {
         "name": "last wave",
         "url": "https://open.spotify.com/album/6Q2QRlqW9zaTTgTKyTmnCh"
       },
@@ -875,6 +859,38 @@
     {
       "added_at": "2023-07-20 15:00:00",
       "album": {
+        "name": "early summer 2022",
+        "url": "https://open.spotify.com/album/0mv2ejXiEERKAA2iDbGnTs"
+      },
+      "artists": [
+        {
+          "name": "Kazumasa Oda",
+          "url": "https://open.spotify.com/artist/2UzjSnmjccLgd1DkvAH5OR"
+        }
+      ],
+      "duration_ms": 274066,
+      "name": "\u3053\u306e\u65e5\u306e\u3053\u3068",
+      "url": "https://open.spotify.com/track/4G7qeAp6SBwIUnmvzTUjSh"
+    },
+    {
+      "added_at": "2023-07-20 15:00:00",
+      "album": {
+        "name": "\u89d2\u3092\u63a2\u3059\u4eba",
+        "url": "https://open.spotify.com/album/7iMAmNtdF8KZZiyupPHhzo"
+      },
+      "artists": [
+        {
+          "name": "\u6d66\u4e0a\u60f3\u8d77",
+          "url": "https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze"
+        }
+      ],
+      "duration_ms": 356258,
+      "name": "\u89d2\u3092\u63a2\u3059\u4eba",
+      "url": "https://open.spotify.com/track/78qoF0s9vf9twx2eOijPuq"
+    },
+    {
+      "added_at": "2023-07-20 15:00:00",
+      "album": {
         "name": "\u3055\u3082\u3042\u308a\u306a\u3093",
         "url": "https://open.spotify.com/album/6B8yGpKG4hIATtbS3ibsHA"
       },
@@ -887,26 +903,6 @@
       "duration_ms": 350704,
       "name": "\u3055\u3082\u3042\u308a\u306a\u3093",
       "url": "https://open.spotify.com/track/5D5K3Giyp427zPZ6cOQmv6"
-    },
-    {
-      "added_at": "2023-07-20 15:00:00",
-      "album": {
-        "name": "white dress",
-        "url": "https://open.spotify.com/album/70YR5JgtDVD3Hqx4SuoLNS"
-      },
-      "artists": [
-        {
-          "name": "maeshima soshi",
-          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
-        },
-        {
-          "name": "LIU KOI",
-          "url": "https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "white dress",
-      "url": "https://open.spotify.com/track/7qod4wNweZVfZZfV5MeC3t"
     },
     {
       "added_at": "2023-07-20 15:00:00",
@@ -935,18 +931,22 @@
     {
       "added_at": "2023-07-20 15:00:00",
       "album": {
-        "name": "\u89d2\u3092\u63a2\u3059\u4eba",
-        "url": "https://open.spotify.com/album/7iMAmNtdF8KZZiyupPHhzo"
+        "name": "white dress",
+        "url": "https://open.spotify.com/album/70YR5JgtDVD3Hqx4SuoLNS"
       },
       "artists": [
         {
-          "name": "\u6d66\u4e0a\u60f3\u8d77",
-          "url": "https://open.spotify.com/artist/3skzBofqLUYAat2xV2uuze"
+          "name": "maeshima soshi",
+          "url": "https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf"
+        },
+        {
+          "name": "LIU KOI",
+          "url": "https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE"
         }
       ],
-      "duration_ms": 356258,
-      "name": "\u89d2\u3092\u63a2\u3059\u4eba",
-      "url": "https://open.spotify.com/track/78qoF0s9vf9twx2eOijPuq"
+      "duration_ms": 172800,
+      "name": "white dress",
+      "url": "https://open.spotify.com/track/7qod4wNweZVfZZfV5MeC3t"
     },
     {
       "added_at": "2023-07-20 15:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-07-20 15:00:00",
       "album": {
-        "name": "\u30b3\u30cf\u30eb\u30d3\u30e8\u30ea",
-        "url": "https://open.spotify.com/album/6ZJiQK3EF2ra1WqFaeX6qz"
-      },
-      "artists": [
-        {
-          "name": "ERWIT",
-          "url": "https://open.spotify.com/artist/7AjGWpFOzIh47HAdUo1CMl"
-        }
-      ],
-      "duration_ms": 264938,
-      "name": "\u30b3\u30cf\u30eb\u30d3\u30e8\u30ea",
-      "url": "https://open.spotify.com/track/4hAZaUKLgGZ8qgHl88U8Fq"
-    },
-    {
-      "added_at": "2023-07-20 15:00:00",
-      "album": {
         "name": "\u3042\u306a\u305f\u304c\u3069\u3053\u304b\u3067",
         "url": "https://open.spotify.com/album/39ZsxUsASZ2XZKjUwMsIUF"
       },
@@ -1047,18 +1031,18 @@
     {
       "added_at": "2023-07-20 15:00:00",
       "album": {
-        "name": "Sleeping in Waking",
-        "url": "https://open.spotify.com/album/2EXjrlqsinxkPKguQMlbN2"
+        "name": "\u30b3\u30cf\u30eb\u30d3\u30e8\u30ea",
+        "url": "https://open.spotify.com/album/6ZJiQK3EF2ra1WqFaeX6qz"
       },
       "artists": [
         {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+          "name": "ERWIT",
+          "url": "https://open.spotify.com/artist/7AjGWpFOzIh47HAdUo1CMl"
         }
       ],
-      "duration_ms": 233887,
-      "name": "Sleeping in Waking",
-      "url": "https://open.spotify.com/track/2zx4apdK8SZeHqDLYLLfCe"
+      "duration_ms": 264938,
+      "name": "\u30b3\u30cf\u30eb\u30d3\u30e8\u30ea",
+      "url": "https://open.spotify.com/track/4hAZaUKLgGZ8qgHl88U8Fq"
     },
     {
       "added_at": "2023-07-20 15:00:00",
@@ -1075,6 +1059,22 @@
       "duration_ms": 233666,
       "name": "NEVER FALL IN LOVE AGAIN",
       "url": "https://open.spotify.com/track/52mdfuSA5iYJy92ErNU43y"
+    },
+    {
+      "added_at": "2023-07-20 15:00:00",
+      "album": {
+        "name": "Sleeping in Waking",
+        "url": "https://open.spotify.com/album/2EXjrlqsinxkPKguQMlbN2"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 233887,
+      "name": "Sleeping in Waking",
+      "url": "https://open.spotify.com/track/2zx4apdK8SZeHqDLYLLfCe"
     },
     {
       "added_at": "2023-07-20 15:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-07-20 15:00:00",
       "album": {
-        "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af2017",
-        "url": "https://open.spotify.com/album/77XckqI0BbVbg6BHtKIhiH"
-      },
-      "artists": [
-        {
-          "name": "KENTA MAENO",
-          "url": "https://open.spotify.com/artist/59R86qFiH8GAZ8yhVxS043"
-        }
-      ],
-      "duration_ms": 67203,
-      "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af2017",
-      "url": "https://open.spotify.com/track/3yIW8q3fvfxPKY7XjhubP0"
-    },
-    {
-      "added_at": "2023-07-20 15:00:00",
-      "album": {
         "name": "Arrows",
         "url": "https://open.spotify.com/album/77FjAsKZwIETP9YPmkx9U3"
       },
@@ -1227,18 +1211,18 @@
     {
       "added_at": "2023-07-20 15:00:00",
       "album": {
-        "name": "Ninh Binh Brother's Homestay",
-        "url": "https://open.spotify.com/album/2I7P1pgDW7BZigccsZ17ra"
+        "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af2017",
+        "url": "https://open.spotify.com/album/77XckqI0BbVbg6BHtKIhiH"
       },
       "artists": [
         {
-          "name": "MIZ",
-          "url": "https://open.spotify.com/artist/1T4OKi8vYcs2gNv98KglRq"
+          "name": "KENTA MAENO",
+          "url": "https://open.spotify.com/artist/59R86qFiH8GAZ8yhVxS043"
         }
       ],
-      "duration_ms": 228038,
-      "name": "\u30d1\u30ec\u30fc\u30c9",
-      "url": "https://open.spotify.com/track/35Pj3GRGfF2kp4LF1CEZzV"
+      "duration_ms": 67203,
+      "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af2017",
+      "url": "https://open.spotify.com/track/3yIW8q3fvfxPKY7XjhubP0"
     },
     {
       "added_at": "2023-07-20 15:00:00",
@@ -1259,18 +1243,18 @@
     {
       "added_at": "2023-07-20 15:00:00",
       "album": {
-        "name": "Soil",
-        "url": "https://open.spotify.com/album/7iRPjbJfu9l6S6pWixab1X"
+        "name": "Ninh Binh Brother's Homestay",
+        "url": "https://open.spotify.com/album/2I7P1pgDW7BZigccsZ17ra"
       },
       "artists": [
         {
-          "name": "naomi paris tokyo",
-          "url": "https://open.spotify.com/artist/42NNGTf3N5jtBfsYn6P3s8"
+          "name": "MIZ",
+          "url": "https://open.spotify.com/artist/1T4OKi8vYcs2gNv98KglRq"
         }
       ],
-      "duration_ms": 357073,
-      "name": "Soil",
-      "url": "https://open.spotify.com/track/6KgohznOqWD1tri8qkwgaD"
+      "duration_ms": 228038,
+      "name": "\u30d1\u30ec\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/35Pj3GRGfF2kp4LF1CEZzV"
     },
     {
       "added_at": "2023-07-20 15:00:00",
@@ -1311,6 +1295,22 @@
     {
       "added_at": "2023-07-20 15:00:00",
       "album": {
+        "name": "Soil",
+        "url": "https://open.spotify.com/album/7iRPjbJfu9l6S6pWixab1X"
+      },
+      "artists": [
+        {
+          "name": "naomi paris tokyo",
+          "url": "https://open.spotify.com/artist/42NNGTf3N5jtBfsYn6P3s8"
+        }
+      ],
+      "duration_ms": 357073,
+      "name": "Soil",
+      "url": "https://open.spotify.com/track/6KgohznOqWD1tri8qkwgaD"
+    },
+    {
+      "added_at": "2023-07-20 15:00:00",
+      "album": {
         "name": "Quicksand",
         "url": "https://open.spotify.com/album/2Lb2A5WI9ti7WlJG8f1Gte"
       },
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2023-07-20 15:00:00",
       "album": {
-        "name": "oar",
-        "url": "https://open.spotify.com/album/22b8zl798zalEhOyGlZrnR"
+        "name": "BLUEHARLEM",
+        "url": "https://open.spotify.com/album/2uBQmsJvg2MKEWZRfFwAaQ"
       },
       "artists": [
         {
-          "name": "\u89d2\u9285\u771f\u5b9f",
-          "url": "https://open.spotify.com/artist/6JsSDr5joM2nS6qE7OSPzQ"
+          "name": "Yogee New Waves",
+          "url": "https://open.spotify.com/artist/7kDTCZA56nH6fCdEY0rBgh"
         }
       ],
-      "duration_ms": 304933,
-      "name": "6\u6708\u306e\u7a93",
-      "url": "https://open.spotify.com/track/5xdfhMrkOaDgl9f1yGaKIy"
+      "duration_ms": 327173,
+      "name": "Good Night Station",
+      "url": "https://open.spotify.com/track/5BPYHGLP1DPo0nVfOUHTEJ"
     }
   ],
   "unique_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",

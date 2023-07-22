@@ -1,13 +1,37 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Raghavendra Stores",
-  "num_followers": 50220,
+  "num_followers": 50233,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMGYwZDhlNmQ4ODMzMDNiMWIzOGY0N2ExOGE0OTQyZWU0MmFmYTIy",
+  "snapshot_id": "MCw5NmNmYzUyNDdjMzhhMTA5ZjJjNTU2ZWI5MzE0YThhM2I5ZDY0MmQy",
   "tracks": [
+    {
+      "added_at": "2023-07-21 06:52:36",
+      "album": {
+        "name": "Horaata (From \"Sapta Sagaradaache Ello - Side A\")",
+        "url": "https://open.spotify.com/album/5lWfcjjT9bJy3XsyKwR1yy"
+      },
+      "artists": [
+        {
+          "name": "Charan Raj",
+          "url": "https://open.spotify.com/artist/5Oe7ToHpWN7t7nWtJvJ7gi"
+        },
+        {
+          "name": "MC Bijju",
+          "url": "https://open.spotify.com/artist/55M046miFPYqKWWS0UaDOp"
+        },
+        {
+          "name": "Keerthan Holla",
+          "url": "https://open.spotify.com/artist/0JUE21KiqvbX8TMujY92Re"
+        }
+      ],
+      "duration_ms": 188639,
+      "name": "Horaata (From \"Sapta Sagaradaache Ello - Side A\")",
+      "url": "https://open.spotify.com/track/19XKmDIjW4lgzkEXNAQPhH"
+    },
     {
       "added_at": "2023-04-12 13:37:54",
       "album": {
@@ -81,34 +105,6 @@
       "url": "https://open.spotify.com/track/2grYgChOuQAzGW8fI5Ww9p"
     },
     {
-      "added_at": "2023-07-12 11:22:29",
-      "album": {
-        "name": "Aradhya (From \"Kushi\")",
-        "url": "https://open.spotify.com/album/6rDZOiSJPVqUAb0pCEZLCD"
-      },
-      "artists": [
-        {
-          "name": "Haricharan",
-          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
-        },
-        {
-          "name": "Chinmayi",
-          "url": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
-        },
-        {
-          "name": "Hesham Abdul Wahab",
-          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
-        },
-        {
-          "name": "V Nagendra Prasad",
-          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
-        }
-      ],
-      "duration_ms": 281527,
-      "name": "Aradhya (From \"Kushi\")",
-      "url": "https://open.spotify.com/track/7D9s7SGO3QjrDAWSEWVMED"
-    },
-    {
       "added_at": "2023-07-04 11:00:31",
       "album": {
         "name": "Neeli Neeli Aakasha (From \"30 Dinadalli Preetsod Hege\")",
@@ -153,6 +149,26 @@
       "url": "https://open.spotify.com/track/3tUfAAX3KOWnceR77QRzun"
     },
     {
+      "added_at": "2023-07-21 06:52:36",
+      "album": {
+        "name": "BOYS SARIGILLA (From \"Hostel Hudugaru Bekagiddare\")",
+        "url": "https://open.spotify.com/album/4Ajr4NBEMzrfk9xECz8iD7"
+      },
+      "artists": [
+        {
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
+        },
+        {
+          "name": "Trilok Trivikrama",
+          "url": "https://open.spotify.com/artist/6MTe5fJI1DmWQXzfh9KHhw"
+        }
+      ],
+      "duration_ms": 180405,
+      "name": "BOYS SARIGILLA - From \"Hostel Hudugaru Bekagiddare\"",
+      "url": "https://open.spotify.com/track/7rfPcV4f8Ew7cPi0Mo03Gx"
+    },
+    {
       "added_at": "2023-07-19 11:13:36",
       "album": {
         "name": "Daredevil Musthafa (Original Motion Picture Soundtrack)",
@@ -171,30 +187,6 @@
       "duration_ms": 132571,
       "name": "Prarambha Payana",
       "url": "https://open.spotify.com/track/5lJ9amDizjr5Z841zhFkeR"
-    },
-    {
-      "added_at": "2023-07-14 06:06:30",
-      "album": {
-        "name": "Ayyo Ayyo (From \"Namo Boothathma 2\")",
-        "url": "https://open.spotify.com/album/3hLhbQWsYNhgEHTne7kvRN"
-      },
-      "artists": [
-        {
-          "name": "Vijay Prakash",
-          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
-        },
-        {
-          "name": "Arun Andrew",
-          "url": "https://open.spotify.com/artist/3NMg8F6trpYFOtvlt6FTVM"
-        },
-        {
-          "name": "Kaviraj",
-          "url": "https://open.spotify.com/artist/4QGaxjeQKdSWgWzzwUa1tM"
-        }
-      ],
-      "duration_ms": 249514,
-      "name": "Ayyo Ayyo - From \"Namo Boothathma 2\"",
-      "url": "https://open.spotify.com/track/46d10rq7F6Fqj1nzcdb9qR"
     },
     {
       "added_at": "2023-07-19 11:13:36",
@@ -263,6 +255,50 @@
       "duration_ms": 242490,
       "name": "Rakshaka - From \"Nimmellara Aashirvada \"",
       "url": "https://open.spotify.com/track/3NYuouBxWcYGgon6DqgCJV"
+    },
+    {
+      "added_at": "2023-07-21 06:52:36",
+      "album": {
+        "name": "Baalu Naraka Eega (From \"90 Bidi Manig Nadi \")",
+        "url": "https://open.spotify.com/album/0oXHvnsW8tyMGGmpDi3XKp"
+      },
+      "artists": [
+        {
+          "name": "Rajesh Krishnan",
+          "url": "https://open.spotify.com/artist/0ZnBmsYz6ImvXdfUglJEWA"
+        },
+        {
+          "name": "Kiran Shankar",
+          "url": "https://open.spotify.com/artist/5MZ3lf2RXr5p6Lmeza5DXF"
+        },
+        {
+          "name": "DR. V Nagendra Prasad",
+          "url": "https://open.spotify.com/artist/0YQkMxPEgpSEn9QX6XtGJ9"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Baalu Naraka Eega - From \"90 Bidi Manig Nadi \"",
+      "url": "https://open.spotify.com/track/3k18tsNqqqbIJRvcVa4Mt0"
+    },
+    {
+      "added_at": "2023-07-21 06:52:36",
+      "album": {
+        "name": "Racer (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6r4X7vBzV1vd2VcWiNc2Nm"
+      },
+      "artists": [
+        {
+          "name": "Nishan Rai",
+          "url": "https://open.spotify.com/artist/1pHwhzIHFiBmi4I9mYUMEy"
+        },
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        }
+      ],
+      "duration_ms": 182973,
+      "name": "Hey Asurane (from \"Racer\")",
+      "url": "https://open.spotify.com/track/3OMt0rA9ZNLlMf72ppw02X"
     },
     {
       "added_at": "2023-07-19 11:13:36",
@@ -439,26 +475,6 @@
       "duration_ms": 266785,
       "name": "Yaaru Yaaru - From \"Nimmellara Aashirvada \"",
       "url": "https://open.spotify.com/track/0U9so7ube4YJdIHgvBRq20"
-    },
-    {
-      "added_at": "2023-07-12 11:22:29",
-      "album": {
-        "name": "Single Sevanthi (\"From 13\")",
-        "url": "https://open.spotify.com/album/62D3wY5QJnVmH6124MvbD1"
-      },
-      "artists": [
-        {
-          "name": "Indu Nagaraj",
-          "url": "https://open.spotify.com/artist/4zXaBIACJU9O1TV9c2cZIk"
-        },
-        {
-          "name": "Shogun Babu",
-          "url": "https://open.spotify.com/artist/08H6McJyVcYplnrNd5duYU"
-        }
-      ],
-      "duration_ms": 230869,
-      "name": "Single Sevanthi - \"From 13\"",
-      "url": "https://open.spotify.com/track/6h9yOHNYCa7CopH5XaJUws"
     },
     {
       "added_at": "2023-07-13 11:19:20",

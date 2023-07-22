@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQP3bGyOAvs.md) - [plain]
 
 > Great chilled house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,784 likes - 220 songs - 10 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,813 likes - 220 songs - 10 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,33 +19,33 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQP3bGyOAvs.md) - [plain]
 | 9 | [Blurry Sequence](https://open.spotify.com/track/5XZoho8oZJWia9bcNgmArJ) | [Lazy Driver](https://open.spotify.com/artist/3zkRucjAZeFDqyYYyUylmg) | [Blurry Sequence](https://open.spotify.com/album/373f1VkuNBKtI1rtXZBKDv) | 2:15 |
 | 10 | [Waipio](https://open.spotify.com/track/2cIwV2VqHn925sWcJ7Fmma) | [Maurea](https://open.spotify.com/artist/6GqXPQOxk9y94VmCzjZMEj) | [Waipio](https://open.spotify.com/album/6JNHYe93hZDKHroRSX6jiB) | 2:15 |
 | 11 | [Express](https://open.spotify.com/track/6NPvYtR9Zi1uIZqTj9CU53) | [Zazzo](https://open.spotify.com/artist/0IqdMYI4CDJgVZiioR7t3k) | [Express](https://open.spotify.com/album/17U4iL5TD60vVhBE4EtD5V) | 2:20 |
-| 12 | [Infinity Pool](https://open.spotify.com/track/2H75Zqdlb6xdaUeP3RIPJA) | [Mandarin Low](https://open.spotify.com/artist/4oMzoetQDxMqMdmTSFFi3l) | [Infinity Pool](https://open.spotify.com/album/3NDIWo88vgH4nQUABf3GVx) | 2:20 |
-| 13 | [Salty](https://open.spotify.com/track/7MuWJI0X0XZAirfPZtRaSY) | [Flamentone](https://open.spotify.com/artist/1VzCeERouz6MncrbF2VDxA) | [Salty](https://open.spotify.com/album/3BsEoqw6j1PZzMfwNRQVXk) | 2:30 |
-| 14 | [Nichibotsu](https://open.spotify.com/track/2ut3yv3w4KneKNGw4rOp8G) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Nichibotsu](https://open.spotify.com/album/2ApQZi64DB2KLR4Oogv9x3) | 3:13 |
-| 15 | [Pillow](https://open.spotify.com/track/3k4M7XMIBhb1xfQn6XZwbd) | [Hibiscus](https://open.spotify.com/artist/1glR6ydlaQZmHrZPUgod5Z) | [Pillow](https://open.spotify.com/album/4VJM2Dx7torhHoeZjEnZQB) | 2:19 |
-| 16 | [Hanoue](https://open.spotify.com/track/7slXJO3MVWwQ4XXeTy2QBR) | [Pancake Cult](https://open.spotify.com/artist/7j1asNU2p73kg81enrHXDb) | [Hanoue](https://open.spotify.com/album/67FMM29TvRk4uMktyUNEsE) | 2:43 |
-| 17 | [Get Down](https://open.spotify.com/track/1WRD7BCievNq7vn94piE8E) | [Tom Blacksmith](https://open.spotify.com/artist/5EFjLl4MUtvtBnRUTKr1I7) | [Get Down](https://open.spotify.com/album/7iTNXPGbTmd5atUsrYCUwP) | 2:45 |
-| 18 | [Tropical Bliss](https://open.spotify.com/track/1oKL23PPV86nu0tTHW7r6H) | [Palombi](https://open.spotify.com/artist/7jY1E7URIXvA0gmnuE2m2k) | [Tropical Bliss](https://open.spotify.com/album/1kShsCppA2IHs1b1Mpzuw7) | 2:32 |
-| 19 | [Some Enthusiasm](https://open.spotify.com/track/1aXhsghQL9v7KpJyGLEhFp) | [Elliot Horizon](https://open.spotify.com/artist/373giqbiKiSJaXvWIo1s3O) | [Some Enthusiasm](https://open.spotify.com/album/41URGDg9WShOjJa4Rd2tPP) | 2:51 |
-| 20 | [Just Slightly](https://open.spotify.com/track/2iO40jhsoBdQayMWNFzs4U) | [Main Foyer](https://open.spotify.com/artist/1Br3cFgH1HTexxFF5OCulE) | [Just Slightly](https://open.spotify.com/album/6NIkQHYrPqoPeeAERIm3nc) | 2:28 |
-| 21 | [Light Like Skies](https://open.spotify.com/track/04gNgfFzpN6LhKbWWYaSqD) | [Maea Sid](https://open.spotify.com/artist/61tIMgKcUFt94NcDrTbgwS) | [Light Like Skies](https://open.spotify.com/album/60hLraoLpKURCc7nit3zfk) | 2:45 |
-| 22 | [Departure](https://open.spotify.com/track/6htOOaacfj5M54jI6CwzRg) | [Gleery](https://open.spotify.com/artist/6LXTSY43XhcV6XnVLANctK) | [Departure](https://open.spotify.com/album/41ZA3sYUeR0RTqAPs3H9bk) | 3:40 |
-| 23 | [Zero](https://open.spotify.com/track/36IozKGZgSL9oTrhDmWzk8) | [Pink Lotus](https://open.spotify.com/artist/04mBicybfm6mAlKZa2kNLX) | [Zero](https://open.spotify.com/album/6tCuCuKVgdtf6JtoyyNes7) | 2:02 |
-| 24 | [Blend](https://open.spotify.com/track/35FAJSbOqHs0lo5U7Ty0o9) | [Hibiscus](https://open.spotify.com/artist/1glR6ydlaQZmHrZPUgod5Z) | [Blend](https://open.spotify.com/album/0kP4q3IOUAmdDLp6hc7oBQ) | 2:12 |
-| 25 | [Saints](https://open.spotify.com/track/5SV96TXvKqxuwNxNmvbq1X) | [Asha Lin](https://open.spotify.com/artist/3n5KctQ0kr7y2FQs57lE2H) | [Saints](https://open.spotify.com/album/2cUal4h6gvOSWY3tCc6eOK) | 2:49 |
-| 26 | [Pineapple Mist](https://open.spotify.com/track/4ndh3toTLQ5E3BSAFN2ohZ) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [Pineapple Mist](https://open.spotify.com/album/5twCNvcGLOYE8JtLnndxnb) | 3:31 |
-| 27 | [It's Time](https://open.spotify.com/track/3S7HQKapnOuNj2B4XQZpqM) | [Generation.](https://open.spotify.com/artist/1WoQDlJJ6xAsBaJSRSYx9o) | [It's Time](https://open.spotify.com/album/4rjcmDoDzIMaEgNtXGsSSl) | 2:31 |
-| 28 | [Come Along](https://open.spotify.com/track/4h8QHgPPriNxU1LP7q2Qes) | [Hello Papyrus](https://open.spotify.com/artist/7te6RqAY9rZmgnmZKEkQCv) | [Come Along](https://open.spotify.com/album/2Ou8k6aCc2zhJ9Dk3weDIy) | 2:42 |
-| 29 | [Blurry Stars](https://open.spotify.com/track/2MvYG2MZjHljTK468rBncA) | [Hibiscus](https://open.spotify.com/artist/1glR6ydlaQZmHrZPUgod5Z) | [Blurry Stars](https://open.spotify.com/album/41rRCpIgzmzAFRCdqtWTH1) | 2:40 |
-| 30 | [Someplace Warm](https://open.spotify.com/track/1TkynhNEPd1DpqUccZRO95) | [far away mei](https://open.spotify.com/artist/0Rz28PqFISgH3Tqlw9eQOe) | [Someplace Warm](https://open.spotify.com/album/5gQfYOKAqd5ZaJH6pWYnwO) | 3:09 |
-| 31 | [Bistro](https://open.spotify.com/track/75BKUJhsdVhntSUFH3SJIA) | [Teide Garcia](https://open.spotify.com/artist/451rSCehp88cqkjv6QQLha) | [Bistro](https://open.spotify.com/album/6lRaq8aH54MRdr0Bf4pjz3) | 3:02 |
-| 32 | [Biting](https://open.spotify.com/track/3VR8hpmEvOMxW3nM4TNoBM) | [Znoijk](https://open.spotify.com/artist/2NINUmgwSwe4logL3qBNVl) | [Biting](https://open.spotify.com/album/3wo2lUtYASfyHEQbYxEosQ) | 2:46 |
-| 33 | [Edition](https://open.spotify.com/track/5tQVAzWn6QdYDC9rnUTa1d) | [Main Foyer](https://open.spotify.com/artist/1Br3cFgH1HTexxFF5OCulE) | [Edition](https://open.spotify.com/album/76UiBFMcUzzxVFrnd3n3wd) | 3:28 |
-| 34 | [Make Believe](https://open.spotify.com/track/0NxX4INyoljJRu6KQcavhk) | [Hi Rollaz](https://open.spotify.com/artist/3fcAnLtdyYfvkg1BRtpDyA) | [Make Believe](https://open.spotify.com/album/2ZfMO7naml2yyS4CifMXjx) | 2:55 |
-| 35 | [Florance](https://open.spotify.com/track/3ANYit4qsF87DStiT2nwsJ) | [Hibiscus](https://open.spotify.com/artist/1glR6ydlaQZmHrZPUgod5Z) | [Florance](https://open.spotify.com/album/7DdGOa4uvONONSY518J4MZ) | 2:02 |
-| 36 | [Stellar Bomb](https://open.spotify.com/track/1uyZR0MR3AKiUJD55PJs8A) | [Sylvani](https://open.spotify.com/artist/581sgZmsCXipWY3qVM4CPS) | [Stellar Bomb](https://open.spotify.com/album/3Qr158I4WE250jcb1FWRuD) | 2:54 |
-| 37 | [stand me](https://open.spotify.com/track/3iKh3jXoEIkgF2kIMVAlCX) | [Audio Scavengers](https://open.spotify.com/artist/5dqce9cvgiZ0WAX7x7HxVa) | [stand me](https://open.spotify.com/album/7oIs0cixveS2hwbI6rWOp3) | 2:58 |
-| 38 | [Carte blanche](https://open.spotify.com/track/4gRh7l16lZTdaAAGqDhrC5) | [Sennhofer](https://open.spotify.com/artist/5qNJ3cNZLr8o8UAWEKmK32) | [Carte blanche](https://open.spotify.com/album/5KvD9JdzfQdYnqD6GE4F20) | 2:41 |
+| 12 | [Patchouli](https://open.spotify.com/track/1RtcqmxaGZVHurFXgPgmgZ) | [Hello Papyrus](https://open.spotify.com/artist/7te6RqAY9rZmgnmZKEkQCv) | [Patchouli](https://open.spotify.com/album/56NCbrtVLIBuHohC5As88t) | 2:20 |
+| 13 | [Infinity Pool](https://open.spotify.com/track/2H75Zqdlb6xdaUeP3RIPJA) | [Mandarin Low](https://open.spotify.com/artist/4oMzoetQDxMqMdmTSFFi3l) | [Infinity Pool](https://open.spotify.com/album/3NDIWo88vgH4nQUABf3GVx) | 2:20 |
+| 14 | [Salty](https://open.spotify.com/track/7MuWJI0X0XZAirfPZtRaSY) | [Flamentone](https://open.spotify.com/artist/1VzCeERouz6MncrbF2VDxA) | [Salty](https://open.spotify.com/album/3BsEoqw6j1PZzMfwNRQVXk) | 2:30 |
+| 15 | [Nichibotsu](https://open.spotify.com/track/2ut3yv3w4KneKNGw4rOp8G) | [Yasumaru](https://open.spotify.com/artist/0d8Lf2UsOCP5Wuy3n9dOzT) | [Nichibotsu](https://open.spotify.com/album/2ApQZi64DB2KLR4Oogv9x3) | 3:13 |
+| 16 | [Pillow](https://open.spotify.com/track/3k4M7XMIBhb1xfQn6XZwbd) | [Hibiscus](https://open.spotify.com/artist/1glR6ydlaQZmHrZPUgod5Z) | [Pillow](https://open.spotify.com/album/4VJM2Dx7torhHoeZjEnZQB) | 2:19 |
+| 17 | [Hanoue](https://open.spotify.com/track/7slXJO3MVWwQ4XXeTy2QBR) | [Pancake Cult](https://open.spotify.com/artist/7j1asNU2p73kg81enrHXDb) | [Hanoue](https://open.spotify.com/album/67FMM29TvRk4uMktyUNEsE) | 2:43 |
+| 18 | [Get Down](https://open.spotify.com/track/1WRD7BCievNq7vn94piE8E) | [Tom Blacksmith](https://open.spotify.com/artist/5EFjLl4MUtvtBnRUTKr1I7) | [Get Down](https://open.spotify.com/album/7iTNXPGbTmd5atUsrYCUwP) | 2:45 |
+| 19 | [Tropical Bliss](https://open.spotify.com/track/1oKL23PPV86nu0tTHW7r6H) | [Palombi](https://open.spotify.com/artist/7jY1E7URIXvA0gmnuE2m2k) | [Tropical Bliss](https://open.spotify.com/album/1kShsCppA2IHs1b1Mpzuw7) | 2:32 |
+| 20 | [Some Enthusiasm](https://open.spotify.com/track/1aXhsghQL9v7KpJyGLEhFp) | [Elliot Horizon](https://open.spotify.com/artist/373giqbiKiSJaXvWIo1s3O) | [Some Enthusiasm](https://open.spotify.com/album/41URGDg9WShOjJa4Rd2tPP) | 2:51 |
+| 21 | [Just Slightly](https://open.spotify.com/track/2iO40jhsoBdQayMWNFzs4U) | [Main Foyer](https://open.spotify.com/artist/1Br3cFgH1HTexxFF5OCulE) | [Just Slightly](https://open.spotify.com/album/6NIkQHYrPqoPeeAERIm3nc) | 2:28 |
+| 22 | [Light Like Skies](https://open.spotify.com/track/04gNgfFzpN6LhKbWWYaSqD) | [Maea Sid](https://open.spotify.com/artist/61tIMgKcUFt94NcDrTbgwS) | [Light Like Skies](https://open.spotify.com/album/60hLraoLpKURCc7nit3zfk) | 2:45 |
+| 23 | [Departure](https://open.spotify.com/track/6htOOaacfj5M54jI6CwzRg) | [Gleery](https://open.spotify.com/artist/6LXTSY43XhcV6XnVLANctK) | [Departure](https://open.spotify.com/album/41ZA3sYUeR0RTqAPs3H9bk) | 3:40 |
+| 24 | [Zero](https://open.spotify.com/track/36IozKGZgSL9oTrhDmWzk8) | [Pink Lotus](https://open.spotify.com/artist/04mBicybfm6mAlKZa2kNLX) | [Zero](https://open.spotify.com/album/6tCuCuKVgdtf6JtoyyNes7) | 2:02 |
+| 25 | [Blend](https://open.spotify.com/track/35FAJSbOqHs0lo5U7Ty0o9) | [Hibiscus](https://open.spotify.com/artist/1glR6ydlaQZmHrZPUgod5Z) | [Blend](https://open.spotify.com/album/0kP4q3IOUAmdDLp6hc7oBQ) | 2:12 |
+| 26 | [Saints](https://open.spotify.com/track/5SV96TXvKqxuwNxNmvbq1X) | [Asha Lin](https://open.spotify.com/artist/3n5KctQ0kr7y2FQs57lE2H) | [Saints](https://open.spotify.com/album/2cUal4h6gvOSWY3tCc6eOK) | 2:49 |
+| 27 | [Pineapple Mist](https://open.spotify.com/track/4ndh3toTLQ5E3BSAFN2ohZ) | [LeeDee](https://open.spotify.com/artist/4kMBrFLqXw4zXeowx6GwcL) | [Pineapple Mist](https://open.spotify.com/album/5twCNvcGLOYE8JtLnndxnb) | 3:31 |
+| 28 | [It's Time](https://open.spotify.com/track/3S7HQKapnOuNj2B4XQZpqM) | [Generation.](https://open.spotify.com/artist/1WoQDlJJ6xAsBaJSRSYx9o) | [It's Time](https://open.spotify.com/album/4rjcmDoDzIMaEgNtXGsSSl) | 2:31 |
+| 29 | [Come Along](https://open.spotify.com/track/4h8QHgPPriNxU1LP7q2Qes) | [Hello Papyrus](https://open.spotify.com/artist/7te6RqAY9rZmgnmZKEkQCv) | [Come Along](https://open.spotify.com/album/2Ou8k6aCc2zhJ9Dk3weDIy) | 2:42 |
+| 30 | [Blurry Stars](https://open.spotify.com/track/2MvYG2MZjHljTK468rBncA) | [Hibiscus](https://open.spotify.com/artist/1glR6ydlaQZmHrZPUgod5Z) | [Blurry Stars](https://open.spotify.com/album/41rRCpIgzmzAFRCdqtWTH1) | 2:40 |
+| 31 | [Someplace Warm](https://open.spotify.com/track/1TkynhNEPd1DpqUccZRO95) | [far away mei](https://open.spotify.com/artist/0Rz28PqFISgH3Tqlw9eQOe) | [Someplace Warm](https://open.spotify.com/album/5gQfYOKAqd5ZaJH6pWYnwO) | 3:09 |
+| 32 | [Bistro](https://open.spotify.com/track/75BKUJhsdVhntSUFH3SJIA) | [Teide Garcia](https://open.spotify.com/artist/451rSCehp88cqkjv6QQLha) | [Bistro](https://open.spotify.com/album/6lRaq8aH54MRdr0Bf4pjz3) | 3:02 |
+| 33 | [Biting](https://open.spotify.com/track/3VR8hpmEvOMxW3nM4TNoBM) | [Znoijk](https://open.spotify.com/artist/2NINUmgwSwe4logL3qBNVl) | [Biting](https://open.spotify.com/album/3wo2lUtYASfyHEQbYxEosQ) | 2:46 |
+| 34 | [Edition](https://open.spotify.com/track/5tQVAzWn6QdYDC9rnUTa1d) | [Main Foyer](https://open.spotify.com/artist/1Br3cFgH1HTexxFF5OCulE) | [Edition](https://open.spotify.com/album/76UiBFMcUzzxVFrnd3n3wd) | 3:28 |
+| 35 | [Make Believe](https://open.spotify.com/track/0NxX4INyoljJRu6KQcavhk) | [Hi Rollaz](https://open.spotify.com/artist/3fcAnLtdyYfvkg1BRtpDyA) | [Make Believe](https://open.spotify.com/album/2ZfMO7naml2yyS4CifMXjx) | 2:55 |
+| 36 | [Florance](https://open.spotify.com/track/3ANYit4qsF87DStiT2nwsJ) | [Hibiscus](https://open.spotify.com/artist/1glR6ydlaQZmHrZPUgod5Z) | [Florance](https://open.spotify.com/album/7DdGOa4uvONONSY518J4MZ) | 2:02 |
+| 37 | [Stellar Bomb](https://open.spotify.com/track/1uyZR0MR3AKiUJD55PJs8A) | [Sylvani](https://open.spotify.com/artist/581sgZmsCXipWY3qVM4CPS) | [Stellar Bomb](https://open.spotify.com/album/3Qr158I4WE250jcb1FWRuD) | 2:54 |
+| 38 | [stand me](https://open.spotify.com/track/3iKh3jXoEIkgF2kIMVAlCX) | [Audio Scavengers](https://open.spotify.com/artist/5dqce9cvgiZ0WAX7x7HxVa) | [stand me](https://open.spotify.com/album/7oIs0cixveS2hwbI6rWOp3) | 2:58 |
 | 39 | [Hanalei](https://open.spotify.com/track/4iLZ7Bn8M2VJ9lJbMuzn9k) | [Cake](https://open.spotify.com/artist/55F92tNiRQa7dL6QXAJilc) | [Hanalei](https://open.spotify.com/album/6TxB2jHIaxixdSS2WdcCwa) | 2:11 |
 | 40 | [Saint](https://open.spotify.com/track/28HAQ14CuQBdYXVDaiLnNI) | [Drunk Archer](https://open.spotify.com/artist/0AMvlHlc7WpjNyZSmAfTIQ) | [Saint](https://open.spotify.com/album/1PJZR969k2nt3tD8a376XK) | 2:59 |
 | 41 | [Insation](https://open.spotify.com/track/56mA7OCBuuhlk2yJuRwGHz) | [Bongrand](https://open.spotify.com/artist/2spEkQyK7tE3HEJSFKQu4j) | [Insation](https://open.spotify.com/album/4zsrkgH5j7WCURZObfxmLC) | 2:50 |
@@ -229,4 +229,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQP3bGyOAvs.md) - [plain]
 | 219 | [Velvet Skies](https://open.spotify.com/track/0HBQ7cU8gPitLvHX8nQ3DH) | [VILT](https://open.spotify.com/artist/4VzZG2yIlxLmbilBTDlEb0) | [Velvet Skies](https://open.spotify.com/album/3LAJb6QHo5QkgoW0T2vJNT) | 3:05 |
 | 220 | [Growing](https://open.spotify.com/track/6rCkaw89aoGhunEMTXpSiN) | [Hazel Calm](https://open.spotify.com/artist/19AnR1ST7DAT5Coo66OKLl) | [Growing](https://open.spotify.com/album/7HTo42U44LHzt3eVfKCh0w) | 2:40 |
 
-Snapshot ID: `MCw3N2EwZjJmYmM1NTlkM2VkZjU3YTA0ODUwOTcwMGVmN2VkZmRjZGZl`
+Snapshot ID: `MCw2YjQ1ZWEwMzU2NzViZWRhMWY1NjE4MzlkMzFkNzE2MzAyM2UyM2Rj`

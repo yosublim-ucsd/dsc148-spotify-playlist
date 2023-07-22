@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-04-03",
   "description": "Relaxing music with soft nature sounds for meditation, sleep or to just enjoy. ",
-  "name": "Piano and Nature",
+  "name": "Soft Nature Music",
   "tracks": [
     {
       "album": {
@@ -128,6 +128,24 @@
       "duration_ms": 168000,
       "name": "April Showers",
       "url": "https://open.spotify.com/track/7qh6Nig18nVfgX8yFnEJAi"
+    },
+    {
+      "album": {
+        "name": "Arbores Unwind",
+        "url": "https://open.spotify.com/album/6scPgV33F1GZbWZs5uqHga"
+      },
+      "artists": [
+        {
+          "name": "Porch Upright",
+          "url": "https://open.spotify.com/artist/2fYaYUCzBbYnNDpzznDH8u"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135988,
+      "name": "Arbores Unwind",
+      "url": "https://open.spotify.com/track/1syN4lEn1qC83MPXxoZJSu"
     },
     {
       "album": {
@@ -340,7 +358,7 @@
       ],
       "date_added": "2023-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 85127,
       "name": "Cucurbita",
       "url": "https://open.spotify.com/track/3N1HAd8IP2Iv6fJMeuL4q8"
@@ -416,6 +434,24 @@
       "duration_ms": 135000,
       "name": "Even Closer",
       "url": "https://open.spotify.com/track/2xIELXsAZNAi85cIKuHMFQ"
+    },
+    {
+      "album": {
+        "name": "Evening meditation",
+        "url": "https://open.spotify.com/album/4lcEdJhSpYvbF5srsqyz9u"
+      },
+      "artists": [
+        {
+          "name": "Carl Faber",
+          "url": "https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129750,
+      "name": "Evening meditation",
+      "url": "https://open.spotify.com/track/3hk0ICZCX8X0xGvel6hkyj"
     },
     {
       "album": {
@@ -725,6 +761,24 @@
     },
     {
       "album": {
+        "name": "Morning Sun",
+        "url": "https://open.spotify.com/album/6FqfV83YLshjsM6BUkDBXj"
+      },
+      "artists": [
+        {
+          "name": "Forest Gold",
+          "url": "https://open.spotify.com/artist/12Lj4bvVL57SoslmmpalNU"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167678,
+      "name": "Morning Sun",
+      "url": "https://open.spotify.com/track/4esZXGbuTIYgM6G2oj0Mgp"
+    },
+    {
+      "album": {
         "name": "Nature's Calling",
         "url": "https://open.spotify.com/album/6I1focCEQmsmoKj2XhabC0"
       },
@@ -880,7 +934,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 134400,
       "name": "One last call",
       "url": "https://open.spotify.com/track/5NJyS0aFGLhFW35NmEnnS8"
@@ -1096,7 +1150,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 199135,
       "name": "Remember me",
       "url": "https://open.spotify.com/track/3uVdeCAoIivelt5GnO9ALh"
@@ -1154,6 +1208,24 @@
       "duration_ms": 198017,
       "name": "Safety Blanket",
       "url": "https://open.spotify.com/track/3MRIF4BQ3Oq6T84mGZxkLe"
+    },
+    {
+      "album": {
+        "name": "Secunda Carmina",
+        "url": "https://open.spotify.com/album/6Mimz0Gk1BdDz5NPhtBiyG"
+      },
+      "artists": [
+        {
+          "name": "Valeria Pintile",
+          "url": "https://open.spotify.com/artist/1x5xa7NxUzteNg0EUvw5Uj"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203250,
+      "name": "Secunda Carmina",
+      "url": "https://open.spotify.com/track/2FwkigsYjlfvVJN4NCqyp3"
     },
     {
       "album": {

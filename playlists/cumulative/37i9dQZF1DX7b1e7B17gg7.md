@@ -4,7 +4,7 @@
 
 > Soft instrumental Blues for any activity.
 
-80 songs - 5 hr 47 min
+82 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Early In The Morning](https://open.spotify.com/track/1KWS957gYfLrSjgn2Wu9ju) | [Maxeen](https://open.spotify.com/artist/6aOw8V4UtaVkO9z7zwturN) | [Early In The Morning](https://open.spotify.com/album/6ni6IpbUPhd5Te3kKC1RR6) | 4:05 | 2023-05-22 |  |
 | [Feelin' Bad Blues \- 2008 Remaster](https://open.spotify.com/track/1mka0egloj2XnXJznzMCw6) | [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Crossroads \(Original Sountrack\)](https://open.spotify.com/album/77UqIYxZhslPXUTiq4vDrE) | 4:16 | 2022-11-30 |  |
 | [Ferry Crossing Blues](https://open.spotify.com/track/47QhhDihrVeoFbUum7r7NY) | [Frank Muschalle](https://open.spotify.com/artist/742LVyNtCO7NDnVZ0mNyPD), [Stephan Holstein](https://open.spotify.com/artist/4x0LaGxB5v6maICwQPwlIA) | [The Spiekeroog Sessions](https://open.spotify.com/album/30tMZui25MlGPKKOp0c9cQ) | 4:25 | 2023-02-24 |  |
+| [Five Star Day](https://open.spotify.com/track/4aKLpPhtOiNV0mhSQmhBvr) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [Tales of the Delta](https://open.spotify.com/album/19i2DMKG833LoDi7nYWNm3) | 2:57 | 2023-07-21 |  |
 | [Georgia On My Mind](https://open.spotify.com/track/3IXfelfYGAlNhpj2PAOIb7) | [Peter Frampton Band](https://open.spotify.com/artist/0JvNeHGFrPqynXe5EszItO) | [All Blues](https://open.spotify.com/album/1WXRu9aB8wHIwjLqA2DnBu) | 4:10 | 2022-11-30 |  |
 | [Gospel Groove](https://open.spotify.com/track/5QHdraJnSVp0vnXGMefg3d) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Shuggie's Boogie: Shuggie Otis Plays The Blues](https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC) | 4:13 | 2022-11-30 |  |
 | [How Long Blues](https://open.spotify.com/track/17DzqYtuUdSSg1HbQ9i5Wd) | [Tor Einar Bekken](https://open.spotify.com/artist/3J30JgVNLzuCA6uaRasNoq), [Richard Gjems](https://open.spotify.com/artist/3NgCfexdR7Or1rhp9GJ5XU) | [Songs from a Forest](https://open.spotify.com/album/5iQVzqrwsj45S7jf6PfqwS) | 4:36 | 2022-11-30 |  |
@@ -65,6 +66,7 @@
 | [Purple \- Edited Version](https://open.spotify.com/track/015AFoJQvGJ3nbPbaC65Ml) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Shuggie's Boogie: Shuggie Otis Plays The Blues](https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC) | 4:48 | 2022-11-30 |  |
 | [Rainbow Bird Blues](https://open.spotify.com/track/2pQzKjn9C68S4bnnXJMOl6) | [Wolf Mail](https://open.spotify.com/artist/2bN1TY9rrW2axotPjQzFV6) | [Blue Fix](https://open.spotify.com/album/2P6Fu4EqitlskRVpyosR16) | 5:28 | 2022-11-30 |  |
 | [Rainy Day Blues \- Instrumental](https://open.spotify.com/track/2wDMSutZ0eXoB1cQ0WE8f7) | [Tom Nicholls](https://open.spotify.com/artist/2YEluKwvonHGvzeLrCqtyi) | [Rainy Day Blues \(Instrumental\)](https://open.spotify.com/album/6I4k1yLhMfuJGl7j680IXi) | 2:28 | 2022-11-30 |  |
+| [Reluctant Soldier](https://open.spotify.com/track/1TkKKqz3YB9MdVyqJGhkny) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [Tales of the Delta](https://open.spotify.com/album/19i2DMKG833LoDi7nYWNm3) | 3:11 | 2023-07-21 |  |
 | [Rigo's Blues](https://open.spotify.com/track/5Zrlbo3PDGziGvAUccOozk) | [Tom Rigney](https://open.spotify.com/artist/3slWYiAVBZ82CDexfn4IK4) | [Back Porch Blues](https://open.spotify.com/album/4OeXjIOg8ResXnVKTleUSi) | 4:18 | 2022-11-30 |  |
 | [Roads](https://open.spotify.com/track/7JZJ84ZmMhrUNw3eQNgUxN) | [Lior Holzman](https://open.spotify.com/artist/4FKgykI3l7fUUayQm9He3O) | [Roads](https://open.spotify.com/album/5EyvVzoYsNcZnFa2wPyFNz) | 3:15 | 2023-02-17 |  |
 | [Run through the mountains](https://open.spotify.com/track/2J8XXy0ds8g4wpEe5PmHfN) | [Gary O'Slide](https://open.spotify.com/artist/0KSKh0NdeYLJfZpHiayMcf) | [Vagabond](https://open.spotify.com/album/7JhTlHuk4lt3ylNQMIDAY4) | 1:50 | 2023-03-03 |  |

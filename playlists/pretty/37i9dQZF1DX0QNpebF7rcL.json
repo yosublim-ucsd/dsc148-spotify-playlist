@@ -1,12 +1,12 @@
 {
   "description": "The best in blues right now. Cover: Robert Finley",
-  "num_followers": 49568,
+  "num_followers": 49606,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MzIxYzliYTRhZTA3Yjc0Yjg4MjVjMDE5YmE2NmJiNDAxNmRiNzE3",
+  "snapshot_id": "MCxmNzgxNzVmOWVlOWNjZDUxNGI1MjM3MmExNDE0MGZhMGQ4YzBhNDZm",
   "tracks": [
     {
       "added_at": "2023-07-14 04:01:00",
@@ -45,6 +45,22 @@
       "url": "https://open.spotify.com/track/1lcBFiv1gUfSGtKSmrVwkn"
     },
     {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Work Until My Days Are Done",
+        "url": "https://open.spotify.com/album/2Yd9AicKdULZkAOZzGF8Gx"
+      },
+      "artists": [
+        {
+          "name": "The Blind Boys Of Alabama",
+          "url": "https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH"
+        }
+      ],
+      "duration_ms": 211280,
+      "name": "Work Until My Days Are Done",
+      "url": "https://open.spotify.com/track/2xMgZIxBuHiD7VLVFZVnsH"
+    },
+    {
       "added_at": "2023-06-30 04:01:00",
       "album": {
         "name": "What Goes Around (Comes Around)",
@@ -77,20 +93,20 @@
       "url": "https://open.spotify.com/track/7CD17NlIJRHmDRfl3oUa1a"
     },
     {
-      "added_at": "2023-06-16 04:01:00",
+      "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Friendship",
-        "url": "https://open.spotify.com/album/0LqOdFRh3OrbyAEcpVVN0V"
+        "name": "Love Is All",
+        "url": "https://open.spotify.com/album/2TtprEnpsHFvtHa6pmdhCj"
       },
       "artists": [
         {
-          "name": "The Blind Boys Of Alabama",
-          "url": "https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH"
+          "name": "Buffalo Nichols",
+          "url": "https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh"
         }
       ],
-      "duration_ms": 250480,
-      "name": "Friendship",
-      "url": "https://open.spotify.com/track/5tzYjX0mtDHks2utIpNWIF"
+      "duration_ms": 220920,
+      "name": "Love Is All",
+      "url": "https://open.spotify.com/track/1VdINjKve1zyYptgIWLdJd"
     },
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1623,22 +1639,6 @@
       "duration_ms": 177178,
       "name": "Always Free",
       "url": "https://open.spotify.com/track/0vD4NlJVWTYE8rdj1UGsAt"
-    },
-    {
-      "added_at": "2021-10-15 04:01:00",
-      "album": {
-        "name": "Buffalo Nichols",
-        "url": "https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc"
-      },
-      "artists": [
-        {
-          "name": "Buffalo Nichols",
-          "url": "https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh"
-        }
-      ],
-      "duration_ms": 179103,
-      "name": "These Things",
-      "url": "https://open.spotify.com/track/3JOgtCIX1mBxwPe4rNPHCD"
     },
     {
       "added_at": "2021-12-03 05:02:00",

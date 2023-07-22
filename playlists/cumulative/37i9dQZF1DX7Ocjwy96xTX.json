@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-29",
+      "date_removed": null,
       "duration_ms": 84741,
       "name": "(dream)",
       "url": "https://open.spotify.com/track/39iczvfNkZstM8KY8dNDFC"
@@ -284,6 +284,24 @@
       "duration_ms": 277080,
       "name": "Autonomy (feat. Cooper B. Handy)",
       "url": "https://open.spotify.com/track/0Pz21tEIrYH2teQMqffWN5"
+    },
+    {
+      "album": {
+        "name": "Avalon",
+        "url": "https://open.spotify.com/album/42KyfZdfBxSwA8dwRKvJDR"
+      },
+      "artists": [
+        {
+          "name": "Zeruel",
+          "url": "https://open.spotify.com/artist/7tO6Y3qnEQUM3kaVNlpXbu"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176230,
+      "name": "Avalon",
+      "url": "https://open.spotify.com/track/3d9lGlazIwY8f2xBfIIGps"
     },
     {
       "album": {
@@ -806,7 +824,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 260324,
       "name": "Edging",
       "url": "https://open.spotify.com/track/4lgm7ozhyI1ImFpY8RScHA"
@@ -1044,7 +1062,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 308626,
       "name": "Glory Box",
       "url": "https://open.spotify.com/track/3Ty7OTBNSigGEpeW2PqcsC"
@@ -1228,7 +1246,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 407240,
       "name": "Hide",
       "url": "https://open.spotify.com/track/0EST5xuqr25Vxso8Yr4FHd"
@@ -1690,7 +1708,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 148629,
       "name": "limewire",
       "url": "https://open.spotify.com/track/28HqSYL38aee5YEqh3zS9m"
@@ -1913,6 +1931,24 @@
     },
     {
       "album": {
+        "name": "My Time As a Ghostly Someone Else",
+        "url": "https://open.spotify.com/album/2XRwNGOkqLRrUYnC9AdDDO"
+      },
+      "artists": [
+        {
+          "name": "R. Missing",
+          "url": "https://open.spotify.com/artist/4EVSMYb2zBDoSHSGEqeztu"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260760,
+      "name": "My Time As a Ghostly Someone Else",
+      "url": "https://open.spotify.com/track/5YV2ZcrB3Ck69RkFFXpmCl"
+    },
+    {
+      "album": {
         "name": "Nightcall",
         "url": "https://open.spotify.com/album/07nBld9enf1PyRysZAVSqJ"
       },
@@ -2104,7 +2140,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 257519,
       "name": "Only Shallow",
       "url": "https://open.spotify.com/track/52UcjsM15hjCQAUbTW2hy1"
@@ -2642,6 +2678,46 @@
       "duration_ms": 211093,
       "name": "Song To The Siren - Remastered",
       "url": "https://open.spotify.com/track/26uVYNtKahTAcZMDWiuBnt"
+    },
+    {
+      "album": {
+        "name": "Spell",
+        "url": "https://open.spotify.com/album/7eJeXWCxTTuGA5fSW2y9Wy"
+      },
+      "artists": [
+        {
+          "name": "Taraneh",
+          "url": "https://open.spotify.com/artist/7IoTiUNmwPOdUCPlNtezaO"
+        },
+        {
+          "name": "Elusin",
+          "url": "https://open.spotify.com/artist/3QpY0PpAVZmG1hTD6tu7FN"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199459,
+      "name": "Spell",
+      "url": "https://open.spotify.com/track/7sOxhseYdvaCJgaINgQY94"
+    },
+    {
+      "album": {
+        "name": "Capsule Losing Contact",
+        "url": "https://open.spotify.com/album/0PQKxvYXBokFo7oxsKmwXq"
+      },
+      "artists": [
+        {
+          "name": "Duster",
+          "url": "https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118160,
+      "name": "Stars Will Fall",
+      "url": "https://open.spotify.com/track/0PgT8DiJmpqTnf9SnFnHM0"
     },
     {
       "album": {

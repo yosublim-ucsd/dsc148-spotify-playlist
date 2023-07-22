@@ -1,12 +1,12 @@
 {
   "description": "De la isla, pa' el mundo! Representando la cultura con orgullo. Cover: Christian Alicea",
-  "num_followers": 69711,
+  "num_followers": 69728,
   "original_name": "Hecho en Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZmViNGNlMDUzODcwZDhhZmU0NzI3ZDk3MmU3OWRkMTdmNzI0Mzhj",
+  "snapshot_id": "MCw1Mjg1Yjc5ZWI1Njc0ZGE5NDM1ODMzZGY3YzY3OTExNTUzNGM5ZjVi",
   "tracks": [
     {
       "added_at": "2023-06-09 02:27:24",
@@ -899,6 +899,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "Randy Johnson",
+        "url": "https://open.spotify.com/album/2pPVTRXkobNnFqNhlZ6f85"
+      },
+      "artists": [
+        {
+          "name": "Hanzel La H",
+          "url": "https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o"
+        }
+      ],
+      "duration_ms": 152760,
+      "name": "Randy Johnson",
+      "url": "https://open.spotify.com/track/2jjgP6T0u8sCzRXkg6rLMK"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "L3tra 2",
         "url": "https://open.spotify.com/album/5uhDPHXOesUiqGwIp8n5XJ"
       },
@@ -935,18 +951,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Randy Johnson",
-        "url": "https://open.spotify.com/album/2pPVTRXkobNnFqNhlZ6f85"
+        "name": "Porche Carrera",
+        "url": "https://open.spotify.com/album/2uVaHptawzrxyZKw1GYGCn"
       },
       "artists": [
         {
-          "name": "Hanzel La H",
-          "url": "https://open.spotify.com/artist/5VKY4vo0U20tbsQi6OdH9o"
+          "name": "DimeWest",
+          "url": "https://open.spotify.com/artist/7lQ0RJHYziDXtTeu9Ef8Wm"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
         }
       ],
-      "duration_ms": 152760,
-      "name": "Randy Johnson",
-      "url": "https://open.spotify.com/track/2jjgP6T0u8sCzRXkg6rLMK"
+      "duration_ms": 188737,
+      "name": "Porche Carrera",
+      "url": "https://open.spotify.com/track/7n8OimjXOqjwPeTkxBe3hF"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -991,26 +1011,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Porche Carrera",
-        "url": "https://open.spotify.com/album/2uVaHptawzrxyZKw1GYGCn"
-      },
-      "artists": [
-        {
-          "name": "DimeWest",
-          "url": "https://open.spotify.com/artist/7lQ0RJHYziDXtTeu9Ef8Wm"
-        },
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        }
-      ],
-      "duration_ms": 188737,
-      "name": "Porche Carrera",
-      "url": "https://open.spotify.com/track/7n8OimjXOqjwPeTkxBe3hF"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Labios",
         "url": "https://open.spotify.com/album/3o6YWaKpKu4P2jn9gkEu82"
       },
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Mi Vicio",
-        "url": "https://open.spotify.com/album/1amIwstC3mDDvcgCiew7zB"
-      },
-      "artists": [
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        }
-      ],
-      "duration_ms": 221428,
-      "name": "Mi Vicio",
-      "url": "https://open.spotify.com/track/67VUbFHrTusJgK0JOofLXU"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Private Suite (Vol. 1)",
         "url": "https://open.spotify.com/album/2LWGIFtUcl0NxjjoyVv3ex"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 144714,
       "name": "ST\u00dcSSY",
       "url": "https://open.spotify.com/track/2SKJxzp1EpB6Xfg1gNAcZB"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Mi Vicio",
+        "url": "https://open.spotify.com/album/1amIwstC3mDDvcgCiew7zB"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        }
+      ],
+      "duration_ms": 221428,
+      "name": "Mi Vicio",
+      "url": "https://open.spotify.com/track/67VUbFHrTusJgK0JOofLXU"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1135,50 +1135,18 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Reggaet\u00f3n Sex",
-        "url": "https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif"
+        "name": "La Sustancia X",
+        "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
       },
       "artists": [
         {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
         }
       ],
-      "duration_ms": 165473,
-      "name": "Amiga",
-      "url": "https://open.spotify.com/track/3HZLu1XXWZyxhnvTDq3K3T"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "Gozo",
-        "url": "https://open.spotify.com/album/69vDVNFIBCFdWlkpf16Zgw"
-      },
-      "artists": [
-        {
-          "name": "Gocho",
-          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
-        }
-      ],
-      "duration_ms": 203508,
-      "name": "Gozo",
-      "url": "https://open.spotify.com/track/4IomMRQFM45yVC2tN5CppP"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "Ronca",
-        "url": "https://open.spotify.com/album/7DdUS4g3GA2LegRovzMmPw"
-      },
-      "artists": [
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
-        }
-      ],
-      "duration_ms": 145777,
-      "name": "Ronca",
-      "url": "https://open.spotify.com/track/5J0FhGzHv6QjlZTJfZffHb"
+      "duration_ms": 190840,
+      "name": "Hedonismo",
+      "url": "https://open.spotify.com/track/7l6H2qBoaTETYgvYHSRQ9I"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1195,6 +1163,38 @@
       "duration_ms": 107984,
       "name": "TRAPPHONE",
       "url": "https://open.spotify.com/track/3l6eaGBtFFZVmxXUyO9Lze"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Reggaet\u00f3n Sex",
+        "url": "https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif"
+      },
+      "artists": [
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        }
+      ],
+      "duration_ms": 165473,
+      "name": "Amiga",
+      "url": "https://open.spotify.com/track/3HZLu1XXWZyxhnvTDq3K3T"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Ronca",
+        "url": "https://open.spotify.com/album/7DdUS4g3GA2LegRovzMmPw"
+      },
+      "artists": [
+        {
+          "name": "Lunay",
+          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+        }
+      ],
+      "duration_ms": 145777,
+      "name": "Ronca",
+      "url": "https://open.spotify.com/track/5J0FhGzHv6QjlZTJfZffHb"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "La Sustancia X",
-        "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
+        "name": "Gozo",
+        "url": "https://open.spotify.com/album/69vDVNFIBCFdWlkpf16Zgw"
       },
       "artists": [
         {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+          "name": "Gocho",
+          "url": "https://open.spotify.com/artist/1E2ZsvpZKP4qMPNARv36W5"
         }
       ],
-      "duration_ms": 190840,
-      "name": "Hedonismo",
-      "url": "https://open.spotify.com/track/7l6H2qBoaTETYgvYHSRQ9I"
+      "duration_ms": 203508,
+      "name": "Gozo",
+      "url": "https://open.spotify.com/track/4IomMRQFM45yVC2tN5CppP"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "Bonnie and Clyde",
+        "url": "https://open.spotify.com/album/37xfmf71ctyktw4VCiFWc7"
+      },
+      "artists": [
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        }
+      ],
+      "duration_ms": 209192,
+      "name": "Bonnie and Clyde",
+      "url": "https://open.spotify.com/track/06YfgRDoApwaMSQVHSCPMP"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "Reggaet\u00f3n Sex",
         "url": "https://open.spotify.com/album/35TMoHnvQ4krAgKZ8sSFif"
       },
@@ -1263,6 +1279,22 @@
       "duration_ms": 162013,
       "name": "Despu\u00e9s Del Party",
       "url": "https://open.spotify.com/track/4AanOfVKkQKYRe4nbcaVaG"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Soy Lebron",
+        "url": "https://open.spotify.com/album/3LZxX3I05uI0BOyUtTwYFi"
+      },
+      "artists": [
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        }
+      ],
+      "duration_ms": 149200,
+      "name": "Soy Lebron",
+      "url": "https://open.spotify.com/track/6bxRCBZ90jOnYQVmn9OvdF"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1291,54 +1323,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Bonnie and Clyde",
-        "url": "https://open.spotify.com/album/37xfmf71ctyktw4VCiFWc7"
-      },
-      "artists": [
-        {
-          "name": "iZaak",
-          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
-        }
-      ],
-      "duration_ms": 209192,
-      "name": "Bonnie and Clyde",
-      "url": "https://open.spotify.com/track/06YfgRDoApwaMSQVHSCPMP"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "Por Amor",
-        "url": "https://open.spotify.com/album/19d62Ig61JpexqrepnWXw2"
-      },
-      "artists": [
-        {
-          "name": "TIVGO Cruz",
-          "url": "https://open.spotify.com/artist/3VzpQ5AiGRdFcC3DC0NoGW"
-        }
-      ],
-      "duration_ms": 184053,
-      "name": "Por Amor",
-      "url": "https://open.spotify.com/track/4QUQ8b2ULrIYkKyQ1ZjcCn"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "Soy Lebron",
-        "url": "https://open.spotify.com/album/3LZxX3I05uI0BOyUtTwYFi"
-      },
-      "artists": [
-        {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
-        }
-      ],
-      "duration_ms": 149200,
-      "name": "Soy Lebron",
-      "url": "https://open.spotify.com/track/6bxRCBZ90jOnYQVmn9OvdF"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Movie",
         "url": "https://open.spotify.com/album/1Shl9o4n9lH2ULhW2Wfj5r"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 216576,
       "name": "Movie",
       "url": "https://open.spotify.com/track/2eQIaeYSCb6hwoVJtZvETm"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Por Amor",
+        "url": "https://open.spotify.com/album/19d62Ig61JpexqrepnWXw2"
+      },
+      "artists": [
+        {
+          "name": "TIVGO Cruz",
+          "url": "https://open.spotify.com/artist/3VzpQ5AiGRdFcC3DC0NoGW"
+        }
+      ],
+      "duration_ms": 184053,
+      "name": "Por Amor",
+      "url": "https://open.spotify.com/track/4QUQ8b2ULrIYkKyQ1ZjcCn"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1427,26 +1427,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Twerk",
-        "url": "https://open.spotify.com/album/5DBAnbo3V3KnEf6Gvkq5Ua"
-      },
-      "artists": [
-        {
-          "name": "Hozwal",
-          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
-        },
-        {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
-        }
-      ],
-      "duration_ms": 160128,
-      "name": "Twerk",
-      "url": "https://open.spotify.com/track/4RChFXDIxsaWg8QTkpSWlo"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Invicta",
         "url": "https://open.spotify.com/album/164fsq8P3kfsSluv7q21rZ"
       },
@@ -1471,6 +1451,26 @@
       "duration_ms": 286767,
       "name": "Invicta",
       "url": "https://open.spotify.com/track/28yQZfH9hoSvZLOKnEODlU"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Twerk",
+        "url": "https://open.spotify.com/album/5DBAnbo3V3KnEf6Gvkq5Ua"
+      },
+      "artists": [
+        {
+          "name": "Hozwal",
+          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
+        },
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        }
+      ],
+      "duration_ms": 160128,
+      "name": "Twerk",
+      "url": "https://open.spotify.com/track/4RChFXDIxsaWg8QTkpSWlo"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1523,22 +1523,6 @@
       "duration_ms": 242932,
       "name": "Tesoro M\u00edo",
       "url": "https://open.spotify.com/track/1Rl1t74MdEZVcRHYVSdawK"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
-        "name": "Dime Algo",
-        "url": "https://open.spotify.com/album/0dGRi74nyRIa7BXINyMsPU"
-      },
-      "artists": [
-        {
-          "name": "Remers",
-          "url": "https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb"
-        }
-      ],
-      "duration_ms": 143639,
-      "name": "Dime Algo",
-      "url": "https://open.spotify.com/track/2gW0EWh9uJC1O2zUDRJcZv"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1599,6 +1583,22 @@
       "duration_ms": 223399,
       "name": "Nube",
       "url": "https://open.spotify.com/track/0uQGGTxOJAzDpQjjXk4B2s"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Dime Algo",
+        "url": "https://open.spotify.com/album/0dGRi74nyRIa7BXINyMsPU"
+      },
+      "artists": [
+        {
+          "name": "Remers",
+          "url": "https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb"
+        }
+      ],
+      "duration_ms": 143639,
+      "name": "Dime Algo",
+      "url": "https://open.spotify.com/track/2gW0EWh9uJC1O2zUDRJcZv"
     },
     {
       "added_at": "2023-06-09 02:27:24",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
+        "name": "Piky",
+        "url": "https://open.spotify.com/album/3xDyHaC1zdPc76EbS3QbM9"
+      },
+      "artists": [
+        {
+          "name": "Producto Sin Corte",
+          "url": "https://open.spotify.com/artist/7bawudKqKlcw3ZwLpI5FWu"
+        }
+      ],
+      "duration_ms": 161775,
+      "name": "Piky",
+      "url": "https://open.spotify.com/track/3uDBz9yGkL8qgZxQcSdU1i"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
         "name": "UNBROKEN",
         "url": "https://open.spotify.com/album/1rncm29FDkVNHn4je7YEln"
       },
@@ -1763,22 +1779,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Piky",
-        "url": "https://open.spotify.com/album/3xDyHaC1zdPc76EbS3QbM9"
-      },
-      "artists": [
-        {
-          "name": "Producto Sin Corte",
-          "url": "https://open.spotify.com/artist/7bawudKqKlcw3ZwLpI5FWu"
-        }
-      ],
-      "duration_ms": 161775,
-      "name": "Piky",
-      "url": "https://open.spotify.com/track/3uDBz9yGkL8qgZxQcSdU1i"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Problema",
         "url": "https://open.spotify.com/album/0tFSa4FROGTe4e8EHyCRkR"
       },
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2023-06-09 02:27:24",
       "album": {
-        "name": "Fantasma",
-        "url": "https://open.spotify.com/album/2R2kli8pXAeuGsfSd0HeTv"
-      },
-      "artists": [
-        {
-          "name": "Dynell",
-          "url": "https://open.spotify.com/artist/7oCLjINIMWifuknBBsg3CO"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Fantasma",
-      "url": "https://open.spotify.com/track/2wr5r6QMp2Ps7SZ5og1L9q"
-    },
-    {
-      "added_at": "2023-06-09 02:27:24",
-      "album": {
         "name": "Billete",
         "url": "https://open.spotify.com/album/5NFXVrsAd6Mm5TT6ubMQCJ"
       },
@@ -1863,6 +1847,26 @@
       "duration_ms": 197378,
       "name": "Tasty",
       "url": "https://open.spotify.com/track/54z9eqTwfhpLIj5kCi2rfM"
+    },
+    {
+      "added_at": "2023-06-09 02:27:24",
+      "album": {
+        "name": "Perreo X Calle",
+        "url": "https://open.spotify.com/album/2uGMXUYZTu0597ajBhZFSa"
+      },
+      "artists": [
+        {
+          "name": "Ken-Y",
+          "url": "https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ"
+        },
+        {
+          "name": "R.K.M & Ken-Y",
+          "url": "https://open.spotify.com/artist/3jFjgKOGfVLWfXX8q5wrsg"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Perreo X Calle",
+      "url": "https://open.spotify.com/track/6TrHcYm0TFwZt5JeSOm8F4"
     }
   ],
   "unique_name": "Hecho en Puerto Rico",

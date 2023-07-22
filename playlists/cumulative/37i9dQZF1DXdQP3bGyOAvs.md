@@ -4,7 +4,7 @@
 
 > Great chilled house.
 
-310 songs - 15 hr 33 min
+311 songs - 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Campion](https://open.spotify.com/track/5gIlVzuuMjv95PSZ9lnXTi) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Campion / Geimfar](https://open.spotify.com/album/552e1oUOvaktE907WmfQPR) | 3:29 | 2022-05-20 |  |
 | [Cannonball](https://open.spotify.com/track/7f1ZpHuGeGQOzD5qumBg5F) | [Dove Tales](https://open.spotify.com/artist/70Tk6S5pkOGDREV86Mn8Qf) | [Monty Hall](https://open.spotify.com/album/4MPyqq00qt7THWrpiHwRa7) | 3:41 | 2022-05-20 |  |
 | [Captive](https://open.spotify.com/track/4XvGvqSRNM6eemk17RdHuL) | [Tracy Kelli](https://open.spotify.com/artist/2IfgKThwT8TgHMatgOze2v) | [Captive](https://open.spotify.com/album/581ZGUHLRkzzGH03MOnxVs) | 2:40 | 2022-05-20 |  |
-| [Carte blanche](https://open.spotify.com/track/4gRh7l16lZTdaAAGqDhrC5) | [Sennhofer](https://open.spotify.com/artist/5qNJ3cNZLr8o8UAWEKmK32) | [Carte blanche](https://open.spotify.com/album/5KvD9JdzfQdYnqD6GE4F20) | 2:41 | 2022-05-20 |  |
+| [Carte blanche](https://open.spotify.com/track/4gRh7l16lZTdaAAGqDhrC5) | [Sennhofer](https://open.spotify.com/artist/5qNJ3cNZLr8o8UAWEKmK32) | [Carte blanche](https://open.spotify.com/album/5KvD9JdzfQdYnqD6GE4F20) | 2:41 | 2022-05-20 | 2023-07-22 |
 | [Castles in The Air](https://open.spotify.com/track/3XSr3AQ6smXdcDGlkslcER) | [Luke Lavelle](https://open.spotify.com/artist/4MbsAtsT8KlRa27ATT0YQ3) | [Castles in the Air](https://open.spotify.com/album/443uJl497U7M7fYWhw1Lpg) | 3:49 | 2022-05-20 |  |
 | [Chapterhouse](https://open.spotify.com/track/4PyHOh7vsuyus2Wbs6YPiv) | [Haze Doe](https://open.spotify.com/artist/3Dnz1jt5f6SvtnxTsW9qKe) | [Chapterhouse](https://open.spotify.com/album/22loNe3xQRDMAbzp3KDNrJ) | 2:50 | 2022-05-20 |  |
 | [Chill Rush \(Znoijk Remix\)](https://open.spotify.com/track/23qcDAKuwJegiWk42nku4U) | [J Pepperwood](https://open.spotify.com/artist/0rze0pPOmFLjelwEdicfYP), [Znoijk](https://open.spotify.com/artist/2NINUmgwSwe4logL3qBNVl) | [Chill Rush \(Znoijk Remix\)](https://open.spotify.com/album/3eKnAxoTZ6VrBvj04NLfGd) | 2:40 | 2022-11-25 |  |
@@ -211,6 +211,7 @@
 | [Oya](https://open.spotify.com/track/780oYps6HX9dd2Ri3owzs6) | [Dusty Kiko](https://open.spotify.com/artist/4i18oS8S6KAynyZ16L6TO1) | [Oya](https://open.spotify.com/album/3Mxth3OuHNMUePF10mE6sp) | 3:13 | 2022-05-20 | 2023-01-07 |
 | [Palm Beach](https://open.spotify.com/track/4Xcocmxxkxzrq6D0qehBTh) | [Blissmo](https://open.spotify.com/artist/5Yfb88eP2CrvvhWpKEeFdg) | [Palm Beach](https://open.spotify.com/album/2kNlHYQYErsgYW8UbGWQrE) | 2:45 | 2022-05-20 |  |
 | [Para Mi](https://open.spotify.com/track/2RBzADQT2i31c0Au59HnP8) | [ARTO](https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn) | [Chill Executive Officer \(CEO\), Vol\. 20 \[Selected by Maykel Piron\]](https://open.spotify.com/album/5WOoYzx48dwyrW0KQquytu) | 2:38 | 2022-09-02 |  |
+| [Patchouli](https://open.spotify.com/track/1RtcqmxaGZVHurFXgPgmgZ) | [Hello Papyrus](https://open.spotify.com/artist/7te6RqAY9rZmgnmZKEkQCv) | [Patchouli](https://open.spotify.com/album/56NCbrtVLIBuHohC5As88t) | 2:20 | 2023-07-21 |  |
 | [Peaches & Cream](https://open.spotify.com/track/2DLTtKF8Y5tvBuCj8eUzsk) | [Dennis Straat](https://open.spotify.com/artist/2QclRlSL9gUvxOoFVr9PA8) | [Peaches & Cream](https://open.spotify.com/album/7jjZhJW3zP3kZ6mEQHHu74) | 3:36 | 2022-05-20 |  |
 | [Peachess](https://open.spotify.com/track/4IGRNWjPIK2diFXhAIP7hT) | [Folta Tres](https://open.spotify.com/artist/1iLaFy9DHbJz1Bmc19mSoe) | [Peachess](https://open.spotify.com/album/0nSvJfCCj7OTvGGhjGysyw) | 2:51 | 2022-09-02 |  |
 | [Perspective](https://open.spotify.com/track/2r528lmdc2OMFee1PpyDXm) | [Opal Dream](https://open.spotify.com/artist/6kRbmdP2GZc1KdiK9fUnKV) | [Perspective](https://open.spotify.com/album/5UqegZr7xu0Aw0h8tSaNUe) | 2:45 | 2022-05-20 | 2022-09-09 |

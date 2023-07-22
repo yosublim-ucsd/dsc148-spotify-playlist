@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Magnolia Park
 
-1,202 songs - 2 day 11 hr 55 min
+1,203 songs - 2 day 12 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -637,7 +637,8 @@
 | [Love You Forever](https://open.spotify.com/track/74P29isjvkWKam9RH3VIqx) | [THICK](https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli) | [Love You Forever](https://open.spotify.com/album/1Dhav3eZHLNgwZhtoxpz72) | 2:26 | 2022-02-18 | 2022-03-25 |
 | [Lovebomb](https://open.spotify.com/track/3B037XLJ5FfraZlMe7NkF5) | [LOBSTERBOMB](https://open.spotify.com/artist/2zBxQyNS9Ja2Y9YUbYiOOS) | [Lovebomb](https://open.spotify.com/album/1ohEIoxB2ntWvlx5M2tTnR) | 3:03 | 2023-06-22 |  |
 | [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/track/0IPKskRI33eRXjUhNUr9b5) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0), [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1), [Charlotte Sands](https://open.spotify.com/artist/2cAXhrWAztXGwk6r15ibW2) | [Loved You A Little \(with Taking Back Sunday and Charlotte Sands\)](https://open.spotify.com/album/2tgx0FJj6dtx3GzTm1Jbbd) | 3:27 | 2022-01-28 | 2022-04-01 |
-| [Lovely Murk](https://open.spotify.com/track/0WXsyrecoo19Ce6tzN3S4J) | [Oxbow](https://open.spotify.com/artist/4m47y2u5lJBKbakAv5YAh1), [Lingua Ignota](https://open.spotify.com/artist/3Q2RrKEOBdkWI2MJQgdt84) | [Love's Holiday](https://open.spotify.com/album/4N6Tph5OONd8euaMbPUXDh) | 5:15 | 2023-07-20 |  |
+| [Lovely Murk](https://open.spotify.com/track/0WXsyrecoo19Ce6tzN3S4J) | [Oxbow](https://open.spotify.com/artist/4m47y2u5lJBKbakAv5YAh1), [Lingua Ignota](https://open.spotify.com/artist/3Q2RrKEOBdkWI2MJQgdt84) | [Love's Holiday](https://open.spotify.com/album/4N6Tph5OONd8euaMbPUXDh) | 5:15 | 2023-07-20 | 2023-07-22 |
+| [Lovely Murk](https://open.spotify.com/track/2BYJiIQwds17fOiTtecQbt) | [Oxbow](https://open.spotify.com/artist/4m47y2u5lJBKbakAv5YAh1), [Lingua Ignota](https://open.spotify.com/artist/3Q2RrKEOBdkWI2MJQgdt84) | [Love's Holiday](https://open.spotify.com/album/1l2DnEVEFSC5NcDzLurPg2) | 5:15 | 2023-07-20 |  |
 | [Low Budget Horror](https://open.spotify.com/track/2jY2PFrpUfA43XcQtDbSdz) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI) | [Low Budget Horror](https://open.spotify.com/album/1mfUf7rjQRTRGbMIc7vucK) | 3:01 | 2022-01-21 | 2022-03-11 |
 | [Low Tide](https://open.spotify.com/track/3DOxjr9bzKOfWZS59phJ0p) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Low Tide](https://open.spotify.com/album/3XLKkItEzGdJI4w4fC2VCV) | 3:37 | 2022-07-28 | 2022-09-16 |
 | [Lucerne Valley](https://open.spotify.com/track/26aXw0iAdIepJSw9vWn9ZF) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Lucerne Valley](https://open.spotify.com/album/1fOyNLMEMixVgnwph2IdDy) | 3:27 | 2023-03-03 | 2023-04-14 |

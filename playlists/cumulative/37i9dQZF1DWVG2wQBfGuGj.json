@@ -2066,7 +2066,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 182354,
       "name": "On the Fly",
       "url": "https://open.spotify.com/track/2noqFiLZzV5Z50Eyf5AfC3"
@@ -3290,6 +3290,24 @@
       "duration_ms": 189001,
       "name": "Yachting",
       "url": "https://open.spotify.com/track/3QVyMXKaLUi0np0VlDXWps"
+    },
+    {
+      "album": {
+        "name": "Apes At The Beachclub",
+        "url": "https://open.spotify.com/album/4D3k6glS6pDDQyK9ymmom0"
+      },
+      "artists": [
+        {
+          "name": "briqs",
+          "url": "https://open.spotify.com/artist/2fimBXXBJgpNOdq7Jk1osw"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163220,
+      "name": "You Like Sun",
+      "url": "https://open.spotify.com/track/4sk0X4nfFMsMvpvDbC3rmM"
     },
     {
       "album": {

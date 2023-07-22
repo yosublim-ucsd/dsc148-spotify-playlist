@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: lil joujou, Hades66 & Chen",
+  "description": "Descubre lo m\u00e1s nuevo del movimiento. Cover: Young Miko",
   "name": "el nuevo urbano",
   "tracks": [
     {
@@ -1166,8 +1166,8 @@
           "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
         },
         {
-          "name": "Zecca",
-          "url": "https://open.spotify.com/artist/2FmE1yzXXBWKlRiOl0AqD8"
+          "name": "ZECCA",
+          "url": "https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA"
         }
       ],
       "date_added": "2023-07-14",
@@ -1484,7 +1484,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 224194,
       "name": "Bandidos",
       "url": "https://open.spotify.com/track/1KEihgohVX0H1R1C6wjYly"
@@ -1506,6 +1506,28 @@
       "duration_ms": 177391,
       "name": "Bandidos",
       "url": "https://open.spotify.com/track/1dZkAYdCvUA4u5cMzGhRJh"
+    },
+    {
+      "album": {
+        "name": "BARETiK",
+        "url": "https://open.spotify.com/album/1yZJA11JFxkXwKTP0UQ9Al"
+      },
+      "artists": [
+        {
+          "name": "Maxiolly",
+          "url": "https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a"
+        },
+        {
+          "name": "ICON",
+          "url": "https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121224,
+      "name": "BARETiK",
+      "url": "https://open.spotify.com/track/3wWVNKIczId45rTnOIruX5"
     },
     {
       "album": {
@@ -1994,7 +2016,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 205500,
       "name": "Bouncy",
       "url": "https://open.spotify.com/track/34Iws89e3FCdzB19r4kyX4"
@@ -2060,6 +2082,32 @@
       "duration_ms": 148840,
       "name": "BYAK",
       "url": "https://open.spotify.com/track/6mPzI9mXSv4HbjtsuluEen"
+    },
+    {
+      "album": {
+        "name": "Cafe Malib\u00fa",
+        "url": "https://open.spotify.com/album/68Qm7k0mDa6ta4mbVD9d2n"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260307,
+      "name": "Cafe Malib\u00fa",
+      "url": "https://open.spotify.com/track/5uxIvoAHL2QOnRP2olOxzb"
     },
     {
       "album": {
@@ -2310,7 +2358,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-20",
+      "date_removed": null,
       "duration_ms": 177728,
       "name": "CHIQUITA",
       "url": "https://open.spotify.com/track/5Y2YfTLAcDhbpGNariMtSD"
@@ -6286,7 +6334,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 120568,
       "name": "KYLIE",
       "url": "https://open.spotify.com/track/6QTAThyNzVIF7So0LVIjSZ"
@@ -6766,7 +6814,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 180859,
       "name": "La Parranda - RMX",
       "url": "https://open.spotify.com/track/389TudVMDzbUMlD3YGYun5"
@@ -9108,7 +9156,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 241341,
       "name": "No Traje Naki",
       "url": "https://open.spotify.com/track/6wZVFscvWZbJaTl4Ju5MOF"
@@ -9562,7 +9610,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 223389,
       "name": "Orgullo",
       "url": "https://open.spotify.com/track/1rWfFeGXyCsfpsWq5dz94Y"
@@ -9672,6 +9720,24 @@
       "duration_ms": 194552,
       "name": "Pa Que Me Cu",
       "url": "https://open.spotify.com/track/2DRMn638dDHN6IaIFgSioi"
+    },
+    {
+      "album": {
+        "name": "Pa' Que Afinken",
+        "url": "https://open.spotify.com/album/7v0hIMGMWE9HJjM7tbcxiJ"
+      },
+      "artists": [
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148504,
+      "name": "Pa' Que Afinken",
+      "url": "https://open.spotify.com/track/5nZdGg5KXKmp3Vzha41wje"
     },
     {
       "album": {
@@ -11443,6 +11509,32 @@
     },
     {
       "album": {
+        "name": "Romperte",
+        "url": "https://open.spotify.com/album/545h3hKTymVcMJUOJ2VsIl"
+      },
+      "artists": [
+        {
+          "name": "Conep",
+          "url": "https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251034,
+      "name": "Romperte",
+      "url": "https://open.spotify.com/track/0jY1gqvXgX54bfuzgULjHW"
+    },
+    {
+      "album": {
         "name": "Ronca",
         "url": "https://open.spotify.com/album/7DdUS4g3GA2LegRovzMmPw"
       },
@@ -12310,7 +12402,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 181044,
       "name": "Su Altura",
       "url": "https://open.spotify.com/track/3bclq6OXFKMmFaUoFLbO8E"
@@ -13977,6 +14069,28 @@
     },
     {
       "album": {
+        "name": "UY (feat. Milo Mae)",
+        "url": "https://open.spotify.com/album/7b4mrtmdh3sEf8xzHUAGdg"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Milo Mae",
+          "url": "https://open.spotify.com/artist/2iaaJzRhuEY8wPn8P6iNiP"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155454,
+      "name": "UY (feat. Milo Mae)",
+      "url": "https://open.spotify.com/track/6cFVj4HsrKwq8slnigLjDy"
+    },
+    {
+      "album": {
         "name": "V16",
         "url": "https://open.spotify.com/album/1NYH6nfQS1yuB2PHEHIgtz"
       },
@@ -14480,6 +14594,24 @@
       "duration_ms": 221333,
       "name": "Whiskey y Coco - Remix",
       "url": "https://open.spotify.com/track/3pUqOFuXETdcGRh8E587BE"
+    },
+    {
+      "album": {
+        "name": "wiggy",
+        "url": "https://open.spotify.com/album/68SNI4G6JbLY2CqjFXfN0n"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146559,
+      "name": "wiggy",
+      "url": "https://open.spotify.com/track/4xU4XeklG562EnanWzpY3A"
     },
     {
       "album": {

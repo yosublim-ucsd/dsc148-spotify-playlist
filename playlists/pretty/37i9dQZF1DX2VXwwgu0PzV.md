@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:  <a href="https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j?si=HuGPDNdmRRe3F5eM\_Va\-vg">Holy Drill</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,484 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,564 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 72 | [NO PRESSURE](https://open.spotify.com/track/4qJlOy7AZzDG4hD8gGOLfV) | [Peddygree](https://open.spotify.com/artist/3vqsgMy4R82tEYVwUQN1Zg), [Monaze](https://open.spotify.com/artist/7JNHDlrPW4GTk61apyMASG) | [NO PRESSURE](https://open.spotify.com/album/0UIOJRocvUZFxmJA7vbxR9) | 2:34 |
 | 73 | [Carry You](https://open.spotify.com/track/7evtIT3xJiAbxgPXjIS9X8) | [Hills Music](https://open.spotify.com/artist/7zG8lYti0IvGed5TIPXATE), [Pe.te](https://open.spotify.com/artist/6JBEJPPMT7XhJII7ZMhPCi), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Carry You](https://open.spotify.com/album/5l3HA0RBIsrOhZY87bykJH) | 3:40 |
 | 74 | [I worship You \- Live](https://open.spotify.com/track/1VoZNbHh09zSljru2ctHw3) | [David Ize](https://open.spotify.com/artist/3NBFUw8jrmbEZ5qaHaNUtA) | [Atmosphère \(Live\)](https://open.spotify.com/album/0NaKmq0O0k7ULRgfqJbiyR) | 4:35 |
-| 75 | [Groanings](https://open.spotify.com/track/4BJEIAcglJHGTBsIcE2upX) | [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [The Purpose](https://open.spotify.com/album/1LkpGdl7984FchhlXBatS3) | 2:50 |
+| 75 | [Groanings](https://open.spotify.com/track/39tTh4ptwHpq12peX61tYY) | [A Mose](https://open.spotify.com/artist/4ioJbpi0sNGUUq2b8tnH0X), [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [The Purpose](https://open.spotify.com/album/1bEa3iJLg3vYkn7EFFfn16) | 2:50 |
 | 76 | [Big God](https://open.spotify.com/track/5XrGp2rDnZyJ8WXU9WITJS) | [Marizu](https://open.spotify.com/artist/4rwolwLHj97rPwbhyNSeU9), [Buchi](https://open.spotify.com/artist/2acXp50dMwFs1JGzQUxyiS) | [Big God](https://open.spotify.com/album/1jQxpQTljyULGzQIFzU2PP) | 2:30 |
 | 77 | [Give Thanks \(Mind Your Business\)](https://open.spotify.com/track/6JFCC50ofWm7fpJ26T0CCh) | [Majestic BN](https://open.spotify.com/artist/55Hom9BeFlIN9hodrZHbCZ) | [Give Thanks \(Mind Your Business\)](https://open.spotify.com/album/4XDXeM0pQ6Fk9BY61DtVQ4) | 3:30 |
 | 78 | [Ifunanya](https://open.spotify.com/track/6QtGh9hHsj8mtu2Hpgmbxd) | [Mr Frosh](https://open.spotify.com/artist/55cO96ETKwijsDp0aM5oGb) | [Ifunanya](https://open.spotify.com/album/2ZUHXyxWTS1FLDiwCBQQQx) | 2:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 99 | [PRAISE YOUR NAME](https://open.spotify.com/track/5YxkWVkxssPVMIgXQp8ahd) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be), [The Love Trybe](https://open.spotify.com/artist/7JUHFG3LARPNiGoFqRuEjJ) | [PRAISE YOUR NAME](https://open.spotify.com/album/7iUgmGiBgXkpECjHYgQ7AL) | 3:17 |
 | 100 | [Don't wanna lose](https://open.spotify.com/track/5oLg1XaKmx17nqZkXFTxur) | [Niyispeak](https://open.spotify.com/artist/1t2cYkpzE36VcFiGpFB0zJ), [Menxee](https://open.spotify.com/artist/2CNqMl9z4LJJhv6YZNsv7x) | [Don't wanna lose](https://open.spotify.com/album/0vEY3IROApAc2AMKkWhKVb) | 3:08 |
 
-Snapshot ID: `MCw3ZDdhMjFhOTkwYTQ5MzVjNTEwNGFhZmFiNzI0Y2UzZWNlOGYwYWI2`
+Snapshot ID: `MCw5NTEwMzgxOWEyZTNjNTQxOWFlNGRiN2FjYTJmNjQ4YzhjNmQ4Y2Ni`

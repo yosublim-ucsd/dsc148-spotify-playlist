@@ -1283,6 +1283,24 @@
     },
     {
       "album": {
+        "name": "Motorcycle Mama (Live)",
+        "url": "https://open.spotify.com/album/5QtOw2FNaafcYqPJZvZT34"
+      },
+      "artists": [
+        {
+          "name": "Popa Chubby",
+          "url": "https://open.spotify.com/artist/76EaAz0oJVx8IbnUbDOPmD"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389893,
+      "name": "Motorcycle Mama - Live",
+      "url": "https://open.spotify.com/track/0GBC4jxEV07r9OxayQ0ETx"
+    },
+    {
+      "album": {
         "name": "Mr. Luck - A Tribute to Jimmy Reed: Live at the Royal Albert Hall",
         "url": "https://open.spotify.com/album/0hLt4q6SOy5PEBsmwWOltW"
       },

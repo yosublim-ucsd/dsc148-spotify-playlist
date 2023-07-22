@@ -100,7 +100,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 289134,
       "name": "A Thousand Knives (Enamour Remix) - Edit",
       "url": "https://open.spotify.com/track/37Zi74wmcWpaFGogWQipqx"
@@ -122,6 +122,28 @@
       "duration_ms": 146129,
       "name": "About You",
       "url": "https://open.spotify.com/track/0pOpqk2Z7f10fkNfhBGiVv"
+    },
+    {
+      "album": {
+        "name": "All Good (Jasper Tygner Remix)",
+        "url": "https://open.spotify.com/album/0l8JO6jLZBpLzcNe0vo4Ri"
+      },
+      "artists": [
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        },
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243853,
+      "name": "All Good - Jasper Tygner Remix",
+      "url": "https://open.spotify.com/track/19FSj8Zq5ZUEF6C87rKPcH"
     },
     {
       "album": {
@@ -478,7 +500,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 240000,
       "name": "Call My Name - MINNA REMIX",
       "url": "https://open.spotify.com/track/35DoYTYpketPPXJRmmdJ4f"
@@ -650,7 +672,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 260006,
       "name": "Dancing is Healing - Disco Lines Remix",
       "url": "https://open.spotify.com/track/5WXQEm30snGAhKTCQzCtK1"
@@ -1522,7 +1544,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 186700,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/3GE9ogfnPuuc2YkdCHsqHF"
@@ -2402,7 +2424,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 228302,
       "name": "Overfreezing",
       "url": "https://open.spotify.com/track/6V50LRtrB622VFSaDIcDdR"
@@ -2486,7 +2508,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 246718,
       "name": "Pearls - SILK Remix",
       "url": "https://open.spotify.com/track/3COoBjp98dAjysxl5ksTsV"
@@ -2796,7 +2818,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 253981,
       "name": "Say Yes To Heaven - sim0ne & Melo Nada Remix",
       "url": "https://open.spotify.com/track/2A7n6aoRd0pxfwasvN4Fh9"
@@ -2942,6 +2964,28 @@
       "duration_ms": 242752,
       "name": "Slash - Giulia Tess Remix",
       "url": "https://open.spotify.com/track/1VRqhlpxAkHEIOSzLHg5TT"
+    },
+    {
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/6sDBmrhOFwAgqs9HK3STCd"
+      },
+      "artists": [
+        {
+          "name": "Tobtok",
+          "url": "https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL"
+        },
+        {
+          "name": "farfetch'd",
+          "url": "https://open.spotify.com/artist/5xQaB2JfKU3pi6IqRsHy4G"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163555,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/7p4dZT5LxcWxyvpJRW2eVw"
     },
     {
       "album": {
@@ -3375,6 +3419,32 @@
     },
     {
       "album": {
+        "name": "DnH",
+        "url": "https://open.spotify.com/album/4yHqeYqa87qDBBDb0xwDyb"
+      },
+      "artists": [
+        {
+          "name": "Dylan & Harry",
+          "url": "https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc"
+        },
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        },
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243555,
+      "name": "Very Last Drop",
+      "url": "https://open.spotify.com/track/6F9RXfCiIo9TK06dWtSaEQ"
+    },
+    {
+      "album": {
         "name": "Love Disc",
         "url": "https://open.spotify.com/album/3UvDnhFvJ3BFlyZec8hJ0X"
       },
@@ -3502,6 +3572,28 @@
       "duration_ms": 205217,
       "name": "What If",
       "url": "https://open.spotify.com/track/6V2J1bvchhoi64ycvaxmDj"
+    },
+    {
+      "album": {
+        "name": "what if we did",
+        "url": "https://open.spotify.com/album/2zUScyLl2r2nrdyaaGWavg"
+      },
+      "artists": [
+        {
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+        },
+        {
+          "name": "heartaake",
+          "url": "https://open.spotify.com/artist/57vkczkmC48439UWdL7oJa"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195555,
+      "name": "what if we did",
+      "url": "https://open.spotify.com/track/2ve8vm4BaGrmeDr3VsRFa1"
     },
     {
       "album": {

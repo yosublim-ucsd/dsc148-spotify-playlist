@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "s\u00f3 faixa rosa, tem disposi\u00e7\u00e3o? \ud83c\udf80 Foto: Ebony",
+  "description": "s\u00f3 faixa rosa, tem disposi\u00e7\u00e3o? \ud83c\udf80 Foto: Kloe",
   "name": "Baby Hair",
   "tracks": [
     {
@@ -120,6 +120,32 @@
       "duration_ms": 198000,
       "name": "A Cuca",
       "url": "https://open.spotify.com/track/6kdqevDkFJvZeIwYCJZxLh"
+    },
+    {
+      "album": {
+        "name": "A Tran\u00e7a",
+        "url": "https://open.spotify.com/album/2I9FyslpABgSZQ7zKizUGb"
+      },
+      "artists": [
+        {
+          "name": "Mih",
+          "url": "https://open.spotify.com/artist/61zf1QL76js0BddVLq77lj"
+        },
+        {
+          "name": "Amabbi",
+          "url": "https://open.spotify.com/artist/6mMeUqEclPBXPIoffsneGV"
+        },
+        {
+          "name": "Mousik",
+          "url": "https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147456,
+      "name": "A Tran\u00e7a",
+      "url": "https://open.spotify.com/track/0qyvAoh5RL05BlUbGTnYBm"
     },
     {
       "album": {
@@ -1672,7 +1698,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 146573,
       "name": "Meu F\u00e3",
       "url": "https://open.spotify.com/track/1Wq1ycTn3zcPcYnS4rKhYK"
@@ -1870,7 +1896,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 180000,
       "name": "No Topo",
       "url": "https://open.spotify.com/track/5ZvH8gZcSbJ2zYkoJSafJv"
@@ -2141,6 +2167,28 @@
     },
     {
       "album": {
+        "name": "Postura de Braba",
+        "url": "https://open.spotify.com/album/3HzyX6tFFie2A0U0vYKb0z"
+      },
+      "artists": [
+        {
+          "name": "Kloe",
+          "url": "https://open.spotify.com/artist/3R3X9yrhI3pNjKqCyxiUz5"
+        },
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128086,
+      "name": "Postura de Braba",
+      "url": "https://open.spotify.com/track/5HfQbACsPDEKVkjhJYqYKe"
+    },
+    {
+      "album": {
         "name": "Gostosa Posturada",
         "url": "https://open.spotify.com/album/3NQXrEDQR2TG7rnYP6TwMF"
       },
@@ -2274,7 +2322,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 161109,
       "name": "Quest\u00e3o de Honra",
       "url": "https://open.spotify.com/track/0fuV3r0zNmIEstnTTAH8Yy"
@@ -2764,6 +2812,32 @@
       "duration_ms": 126226,
       "name": "Taurus",
       "url": "https://open.spotify.com/track/6QEXxXD0UWYqRtD0fH4QmX"
+    },
+    {
+      "album": {
+        "name": "Tava Escrito",
+        "url": "https://open.spotify.com/album/2lc1MuuCaYQ3D0DHP3qK8O"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Limas",
+          "url": "https://open.spotify.com/artist/2wCuCtSHCIcTfwa0kQA0Pf"
+        },
+        {
+          "name": "Cristal",
+          "url": "https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX"
+        },
+        {
+          "name": "Nitro Di",
+          "url": "https://open.spotify.com/artist/4WKIMkuZv5Ab2jlWU9Drrh"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181500,
+      "name": "Tava Escrito",
+      "url": "https://open.spotify.com/track/5kKxINTPSxO6JEpIRCzG0K"
     },
     {
       "album": {

@@ -460,7 +460,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 228925,
       "name": "Ainda \u00e9 Tempo",
       "url": "https://open.spotify.com/track/2mmLaPqdoSvqY3l1Lyk7ke"
@@ -636,7 +636,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 165000,
       "name": "Apurando",
       "url": "https://open.spotify.com/track/6nJna4AFFwHoI8eXeKDMJV"
@@ -1630,7 +1630,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 253150,
       "name": "Deixa Baixo",
       "url": "https://open.spotify.com/track/2Vo6Qal0SmLAR48FehTkRv"
@@ -2018,7 +2018,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 137368,
       "name": "Elefante Branco",
       "url": "https://open.spotify.com/track/6WVkLXsniSvBnABtI0Iqn0"
@@ -2078,6 +2078,44 @@
       "duration_ms": 307722,
       "name": "Entre o \u00d3dio o Amor Poka Alegria e Muita Dor",
       "url": "https://open.spotify.com/track/28z88soaC2ZaaWEyMFEBgQ"
+    },
+    {
+      "album": {
+        "name": "Era uma vez",
+        "url": "https://open.spotify.com/album/31ggQN6NLpn6rjKD1XTJCa"
+      },
+      "artists": [
+        {
+          "name": "AFRONASA",
+          "url": "https://open.spotify.com/artist/1cIM4auCHPl3RWc7ZvKFYZ"
+        },
+        {
+          "name": "Guiu",
+          "url": "https://open.spotify.com/artist/4Ll7ZvCVTwveULVP2Ze0px"
+        },
+        {
+          "name": "TerrorDosBeats",
+          "url": "https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo"
+        },
+        {
+          "name": "CXLD",
+          "url": "https://open.spotify.com/artist/6rPOy8FDvdRxhM575PCNDU"
+        },
+        {
+          "name": "DROPEreal",
+          "url": "https://open.spotify.com/artist/0W4OeSgEAxfqQWFQu6LQ00"
+        },
+        {
+          "name": "Pokas",
+          "url": "https://open.spotify.com/artist/3nHUE5UfHW0QqUlfVUAME4"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175641,
+      "name": "Era uma vez",
+      "url": "https://open.spotify.com/track/0XDJWF6ZyERx7lDBQ2ZiFs"
     },
     {
       "album": {
@@ -3039,6 +3077,50 @@
     },
     {
       "album": {
+        "name": "Rapterapia Vol. 1",
+        "url": "https://open.spotify.com/album/5ssde5jriGdCLQg6d0lXKu"
+      },
+      "artists": [
+        {
+          "name": "Jr Un\u00e7\u00e3o 23",
+          "url": "https://open.spotify.com/artist/0DCIKWQuXn0ZUexuqUIlOS"
+        },
+        {
+          "name": "Un\u00e7\u00e3o 23",
+          "url": "https://open.spotify.com/artist/6A01zp4aQ7NTxpQUJGDiav"
+        },
+        {
+          "name": "Dinnei Mc",
+          "url": "https://open.spotify.com/artist/1bdWY5ba6zGBsxIpbqWuwS"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215159,
+      "name": "Inspira\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/4c2hxj1iMVgUqZc1If9ywJ"
+    },
+    {
+      "album": {
+        "name": "Jazz de Favela",
+        "url": "https://open.spotify.com/album/6hvR5yED5kQXqXS8N6FrSc"
+      },
+      "artists": [
+        {
+          "name": "Coronel",
+          "url": "https://open.spotify.com/artist/7C6lpxEHiYsZX2013VmXXe"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157129,
+      "name": "Jazz de Favela",
+      "url": "https://open.spotify.com/track/3X6QpopA34zcqsW5DWeKOZ"
+    },
+    {
+      "album": {
         "name": "Jogo De Cintura",
         "url": "https://open.spotify.com/album/24g3QmgRPIkzKV2TA10viY"
       },
@@ -3180,6 +3262,32 @@
       "duration_ms": 244748,
       "name": "LAMENTO",
       "url": "https://open.spotify.com/track/2UiEu5gIhueBYj2twzupG8"
+    },
+    {
+      "album": {
+        "name": "Legitima Defesa (Dj Hum Remix)",
+        "url": "https://open.spotify.com/album/2RMt6bcwG2yDV43NqHy87r"
+      },
+      "artists": [
+        {
+          "name": "PhantomDK",
+          "url": "https://open.spotify.com/artist/7iZyG9kyBAvlfKh5FhEEcm"
+        },
+        {
+          "name": "Wesley Camilo",
+          "url": "https://open.spotify.com/artist/7zMhTkT27OwM0G9qkZPbZT"
+        },
+        {
+          "name": "DJ Hum",
+          "url": "https://open.spotify.com/artist/37hCu82ZWZlLCf6gs1H8Gf"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228733,
+      "name": "Legitima Defesa - DJ Hum Remix",
+      "url": "https://open.spotify.com/track/4RWoE0Ulx1lDiTEdpvvk6O"
     },
     {
       "album": {
@@ -4178,7 +4286,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 174750,
       "name": "O Brilho da Coroa: Adilson",
       "url": "https://open.spotify.com/track/1JsP1I05xIyJkuSU0QNnWj"
@@ -4922,7 +5030,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 133470,
       "name": "RAP SEM REFR\u00d5ES E PONTES.",
       "url": "https://open.spotify.com/track/5xob75Xb0r3GEKzMsf5dAT"
@@ -5979,6 +6087,28 @@
     },
     {
       "album": {
+        "name": "Te vi de canto",
+        "url": "https://open.spotify.com/album/0MTuIQpLoSuhW5gSgfXYoS"
+      },
+      "artists": [
+        {
+          "name": "R\u00f4 Rosa",
+          "url": "https://open.spotify.com/artist/5Et1UarIEfiHvErAJSer9B"
+        },
+        {
+          "name": "Patricio Sid",
+          "url": "https://open.spotify.com/artist/2A6L9Ua0JdmmELX1hz2HVu"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128371,
+      "name": "Te vi de canto",
+      "url": "https://open.spotify.com/track/4irM0ZydWatEXDDC7SflXS"
+    },
+    {
+      "album": {
         "name": "Tecnologia",
         "url": "https://open.spotify.com/album/5eJuA2zoW5qpztJLlMpyGa"
       },
@@ -6474,6 +6604,28 @@
       "duration_ms": 189479,
       "name": "Vendaval",
       "url": "https://open.spotify.com/track/4RVtgNDHgQ3TIXOQLgOHZS"
+    },
+    {
+      "album": {
+        "name": "VENENO2000",
+        "url": "https://open.spotify.com/album/1OIsbKAMUNuR4BlF6liyaQ"
+      },
+      "artists": [
+        {
+          "name": "Konai",
+          "url": "https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp"
+        },
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "VENENO2000",
+      "url": "https://open.spotify.com/track/4RjazBL4eR8UtT9OW5Z9A7"
     },
     {
       "album": {

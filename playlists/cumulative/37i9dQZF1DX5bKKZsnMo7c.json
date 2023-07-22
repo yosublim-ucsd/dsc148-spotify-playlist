@@ -2431,6 +2431,24 @@
     },
     {
       "album": {
+        "name": "It Is What It Is",
+        "url": "https://open.spotify.com/album/1WFMXKtfmcwsojf8gSEXm5"
+      },
+      "artists": [
+        {
+          "name": "Jenna Raine",
+          "url": "https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146769,
+      "name": "It Is What It Is",
+      "url": "https://open.spotify.com/track/1558CwDaXSZiCplq9AaH0q"
+    },
+    {
+      "album": {
         "name": "Pebble Brain",
         "url": "https://open.spotify.com/album/2d2QJv4OPOLS80tXaTCDsB"
       },
@@ -2758,6 +2776,24 @@
       "duration_ms": 158653,
       "name": "Like or Like Like",
       "url": "https://open.spotify.com/track/2laAFvo3q3GIcXX7Ql8OeD"
+    },
+    {
+      "album": {
+        "name": "Long Gone",
+        "url": "https://open.spotify.com/album/1bAD7LRQyKFCaaBxjLkWte"
+      },
+      "artists": [
+        {
+          "name": "Noah Floersch",
+          "url": "https://open.spotify.com/artist/6fU24B4K9kWmFt5WTwwsLF"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216022,
+      "name": "Long Gone",
+      "url": "https://open.spotify.com/track/5HcPpRhTGsj9VEIYd3r8a0"
     },
     {
       "album": {
@@ -4281,6 +4317,24 @@
     },
     {
       "album": {
+        "name": "The Show Must Go On",
+        "url": "https://open.spotify.com/album/5ewGXWIoaRLgpiOcyO8hjT"
+      },
+      "artists": [
+        {
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266268,
+      "name": "The Show Must Go On",
+      "url": "https://open.spotify.com/track/1lZOPMQ1USWQjysL3LOctf"
+    },
+    {
+      "album": {
         "name": "The View From Halfway Down - Spotify Singles",
         "url": "https://open.spotify.com/album/1S08DnwybFOPu8wswBn5gj"
       },
@@ -4336,6 +4390,28 @@
       "duration_ms": 196653,
       "name": "There's a Good Reason These Tables Are Numbered Honey, You Just Haven't Thought of It Yet",
       "url": "https://open.spotify.com/track/4xSVkbqCz1xaevkjP8xXL5"
+    },
+    {
+      "album": {
+        "name": "Things You Said",
+        "url": "https://open.spotify.com/album/49XJus53CDU5zhsDgH6yn7"
+      },
+      "artists": [
+        {
+          "name": "Cody Fry",
+          "url": "https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT"
+        },
+        {
+          "name": "Abby Cates",
+          "url": "https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234866,
+      "name": "Things You Said (feat. Abby Cates)",
+      "url": "https://open.spotify.com/track/2wOCwmoaVuN5cgjf80Fja4"
     },
     {
       "album": {

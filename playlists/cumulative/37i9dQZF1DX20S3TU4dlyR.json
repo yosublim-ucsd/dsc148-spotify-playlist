@@ -774,7 +774,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 243391,
       "name": "Desinformation",
       "url": "https://open.spotify.com/track/1217Z3BPonXG3Kmm8aSkAp"
@@ -2411,6 +2411,28 @@
     },
     {
       "album": {
+        "name": "MYA LIVE P3: Qu\u00e9 Pasar\u00e1",
+        "url": "https://open.spotify.com/album/3SJ9pcmCCBKyqHaOOWxN9E"
+      },
+      "artists": [
+        {
+          "name": "MYA",
+          "url": "https://open.spotify.com/artist/5Rj6rNR8zIlUUDCs1OyPmW"
+        },
+        {
+          "name": "Dread Mar I",
+          "url": "https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213480,
+      "name": "MYA LIVE P3: Qu\u00e9 Pasar\u00e1",
+      "url": "https://open.spotify.com/track/5WLhx6G2dMXSJ5ITq8419C"
+    },
+    {
+      "album": {
         "name": "M\u00e1s Libre",
         "url": "https://open.spotify.com/album/2THc86woJAYYpM1yTlD9yK"
       },
@@ -2883,6 +2905,28 @@
     },
     {
       "album": {
+        "name": "Primaveras",
+        "url": "https://open.spotify.com/album/6YSYJyoNdNOFzZnSf88soO"
+      },
+      "artists": [
+        {
+          "name": "Toby Deltin",
+          "url": "https://open.spotify.com/artist/5NWVeyZSNXkufVv5W5xNDr"
+        },
+        {
+          "name": "La Skandalosa Tripulaci\u00f3n",
+          "url": "https://open.spotify.com/artist/3dTtKHXPMLmyevUFZO941G"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209000,
+      "name": "Primaveras",
+      "url": "https://open.spotify.com/track/38WEdyXzzj63zhClgLaUgq"
+    },
+    {
+      "album": {
         "name": "S\u00ed Ser\u00e1s",
         "url": "https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0"
       },
@@ -3338,7 +3382,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 260170,
       "name": "Si vas a dejarme...",
       "url": "https://open.spotify.com/track/61xOrT5LUy1lS9zvzAmjWS"

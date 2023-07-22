@@ -1,12 +1,12 @@
 {
   "description": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c. \uc131\uacf5\uc744 \uc704\ud55c \uc5f4\uc815\uacfc \uc9d1\ub150\uc744 \ub290\uaef4\ubcf4\uc138\uc694. (\ucee4\ubc84: Royal 44)",
-  "num_followers": 3451,
+  "num_followers": 3455,
   "original_name": "\ubc14\ub2e5\uc5d0\uc11c \uc704\ub85c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjQzYmFjY2IwMmE4ZjYzMGNkMjg3ZmM2MDhmN2Q4OTViYjg0MjJi",
+  "snapshot_id": "MCwxOTBlNzk1YjUwYzFkMTM3MzcxYjJiMmM5MGVkMjA5YmYyYjg0NmQ1",
   "tracks": [
     {
       "added_at": "2023-07-18 06:27:57",
@@ -351,26 +351,6 @@
     {
       "added_at": "2023-07-18 06:27:57",
       "album": {
-        "name": "LIGHTS",
-        "url": "https://open.spotify.com/album/6cnmwaHjTjBy3PbLdh6nla"
-      },
-      "artists": [
-        {
-          "name": "JOOHONEY",
-          "url": "https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k"
-        },
-        {
-          "name": "GSoul",
-          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
-        }
-      ],
-      "duration_ms": 186893,
-      "name": "\ub3c5\ubc31",
-      "url": "https://open.spotify.com/track/0T2p85Muye0ZvAiH2BRhab"
-    },
-    {
-      "added_at": "2023-07-18 06:27:57",
-      "album": {
         "name": "Epik High Is Here \u4e0a (Part 1)",
         "url": "https://open.spotify.com/album/5MH95tw9aZo7ayqkfsRzMu"
       },
@@ -387,6 +367,26 @@
       "duration_ms": 196706,
       "name": "Acceptance Speech (Feat. B.I)",
       "url": "https://open.spotify.com/track/07jvrbj5MwSRSzzkwrDQ3l"
+    },
+    {
+      "added_at": "2023-07-18 06:27:57",
+      "album": {
+        "name": "LIGHTS",
+        "url": "https://open.spotify.com/album/6cnmwaHjTjBy3PbLdh6nla"
+      },
+      "artists": [
+        {
+          "name": "JOOHONEY",
+          "url": "https://open.spotify.com/artist/4rpOWirhzqN7NPgRX76l1k"
+        },
+        {
+          "name": "GSoul",
+          "url": "https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL"
+        }
+      ],
+      "duration_ms": 186893,
+      "name": "\ub3c5\ubc31",
+      "url": "https://open.spotify.com/track/0T2p85Muye0ZvAiH2BRhab"
     },
     {
       "added_at": "2023-07-18 06:27:57",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-07-18 06:27:57",
       "album": {
-        "name": "Man proposes God disposes",
-        "url": "https://open.spotify.com/album/0DGRyeNfJkwnivIlc63OHV"
-      },
-      "artists": [
-        {
-          "name": "HOMIES",
-          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Man proposes God disposes",
-      "url": "https://open.spotify.com/track/1a5jrYSUrsPeI4riWgQ7XQ"
-    },
-    {
-      "added_at": "2023-07-18 06:27:57",
-      "album": {
         "name": "Show Me the Money 777 Semi Final",
         "url": "https://open.spotify.com/album/1F5dDguEHUNBFpB0Eed1Up"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 329487,
       "name": "NoNo (Prod. by CODE KUNST)",
       "url": "https://open.spotify.com/track/4BqiX6pWkB3tr04U3AxPhM"
+    },
+    {
+      "added_at": "2023-07-18 06:27:57",
+      "album": {
+        "name": "Man proposes God disposes",
+        "url": "https://open.spotify.com/album/0DGRyeNfJkwnivIlc63OHV"
+      },
+      "artists": [
+        {
+          "name": "HOMIES",
+          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Man proposes God disposes",
+      "url": "https://open.spotify.com/track/1a5jrYSUrsPeI4riWgQ7XQ"
     },
     {
       "added_at": "2023-07-18 06:27:57",
@@ -923,18 +923,18 @@
     {
       "added_at": "2023-07-18 06:27:57",
       "album": {
-        "name": "Ghetto Kids",
-        "url": "https://open.spotify.com/album/2LP4Jh83ki9gJg6fIHvfQf"
+        "name": "WATERFALL",
+        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
       },
       "artists": [
         {
-          "name": "HOMIES",
-          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
         }
       ],
-      "duration_ms": 205423,
-      "name": "Lighter in my blow fist",
-      "url": "https://open.spotify.com/track/7d4y4LRNCXexXRsVt9FqVi"
+      "duration_ms": 224856,
+      "name": "Flow Away",
+      "url": "https://open.spotify.com/track/2hBJqOLTrN6BFhHCmKZ6sO"
     },
     {
       "added_at": "2023-07-18 06:27:57",
@@ -955,18 +955,18 @@
     {
       "added_at": "2023-07-18 06:27:57",
       "album": {
-        "name": "WATERFALL",
-        "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
+        "name": "The Anecdote",
+        "url": "https://open.spotify.com/album/2C6c7NXZwrSOqCNzrfNI4Q"
       },
       "artists": [
         {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+          "name": "E SENS",
+          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
         }
       ],
-      "duration_ms": 224856,
-      "name": "Flow Away",
-      "url": "https://open.spotify.com/track/2hBJqOLTrN6BFhHCmKZ6sO"
+      "duration_ms": 218526,
+      "name": "Writer's Block",
+      "url": "https://open.spotify.com/track/1QJwFcDBwo6BdBEjEh8IXd"
     },
     {
       "added_at": "2023-07-18 06:27:57",
@@ -995,18 +995,18 @@
     {
       "added_at": "2023-07-18 06:27:57",
       "album": {
-        "name": "The Anecdote",
-        "url": "https://open.spotify.com/album/2C6c7NXZwrSOqCNzrfNI4Q"
+        "name": "Ghetto Kids",
+        "url": "https://open.spotify.com/album/2LP4Jh83ki9gJg6fIHvfQf"
       },
       "artists": [
         {
-          "name": "E SENS",
-          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
+          "name": "HOMIES",
+          "url": "https://open.spotify.com/artist/3PpfvyyncoZ79IgYe0Uls0"
         }
       ],
-      "duration_ms": 218526,
-      "name": "Writer's Block",
-      "url": "https://open.spotify.com/track/1QJwFcDBwo6BdBEjEh8IXd"
+      "duration_ms": 205423,
+      "name": "Lighter in my blow fist",
+      "url": "https://open.spotify.com/track/7d4y4LRNCXexXRsVt9FqVi"
     },
     {
       "added_at": "2023-07-18 06:27:57",
@@ -1099,22 +1099,18 @@
     {
       "added_at": "2023-07-18 06:27:57",
       "album": {
-        "name": "Stargaze",
-        "url": "https://open.spotify.com/album/7i3jvhEHvpJsZ8OI1sQEy5"
+        "name": "Garden",
+        "url": "https://open.spotify.com/album/19HqbZL9Y69UssY9DDyBXR"
       },
       "artists": [
         {
-          "name": "Skinny Brown",
-          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
-        },
-        {
-          "name": "The Quiett",
-          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
+          "name": "PENOMECO",
+          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
         }
       ],
-      "duration_ms": 222232,
-      "name": "Look What I Did (Feat. The Quiett)",
-      "url": "https://open.spotify.com/track/3XfRuy2gF1hU0KHzlcgilo"
+      "duration_ms": 102753,
+      "name": "Till I Die",
+      "url": "https://open.spotify.com/track/4WXOtTtz7HVexQJquDwKmz"
     },
     {
       "added_at": "2023-07-18 06:27:57",
@@ -1159,18 +1155,22 @@
     {
       "added_at": "2023-07-18 06:27:57",
       "album": {
-        "name": "Garden",
-        "url": "https://open.spotify.com/album/19HqbZL9Y69UssY9DDyBXR"
+        "name": "Stargaze",
+        "url": "https://open.spotify.com/album/7i3jvhEHvpJsZ8OI1sQEy5"
       },
       "artists": [
         {
-          "name": "PENOMECO",
-          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
+          "name": "Skinny Brown",
+          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
+        },
+        {
+          "name": "The Quiett",
+          "url": "https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy"
         }
       ],
-      "duration_ms": 102753,
-      "name": "Till I Die",
-      "url": "https://open.spotify.com/track/4WXOtTtz7HVexQJquDwKmz"
+      "duration_ms": 222232,
+      "name": "Look What I Did (Feat. The Quiett)",
+      "url": "https://open.spotify.com/track/3XfRuy2gF1hU0KHzlcgilo"
     },
     {
       "added_at": "2023-07-18 06:27:57",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-07-18 06:27:57",
       "album": {
-        "name": "BLEACHED",
-        "url": "https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        }
-      ],
-      "duration_ms": 162186,
-      "name": "A.O.M.G.",
-      "url": "https://open.spotify.com/track/422H9gDr4EXMHQJNnAEvH3"
-    },
-    {
-      "added_at": "2023-07-18 06:27:57",
-      "album": {
         "name": "Korean Dream",
         "url": "https://open.spotify.com/album/1CIUot979SnDkIqZVRkER2"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 214860,
       "name": "Hot Summer",
       "url": "https://open.spotify.com/track/4hUvGXjDaSR47jAD5S8Xx6"
+    },
+    {
+      "added_at": "2023-07-18 06:27:57",
+      "album": {
+        "name": "BLEACHED",
+        "url": "https://open.spotify.com/album/1YuWWMWO87WPJInhLGy9yh"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "duration_ms": 162186,
+      "name": "A.O.M.G.",
+      "url": "https://open.spotify.com/track/422H9gDr4EXMHQJNnAEvH3"
     },
     {
       "added_at": "2023-07-18 06:27:57",
@@ -1627,26 +1627,6 @@
     {
       "added_at": "2023-07-18 06:27:57",
       "album": {
-        "name": "HIGH RISK HIGH RETURN",
-        "url": "https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih"
-      },
-      "artists": [
-        {
-          "name": "SINCE",
-          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
-        },
-        {
-          "name": "Chin",
-          "url": "https://open.spotify.com/artist/3YxtjzaXsF9cVq2MlIe6cw"
-        }
-      ],
-      "duration_ms": 231182,
-      "name": "COMPASS (Feat. Chin)",
-      "url": "https://open.spotify.com/track/3GkGRq5fqKM2hARxS1Odhk"
-    },
-    {
-      "added_at": "2023-07-18 06:27:57",
-      "album": {
         "name": "Independent Music",
         "url": "https://open.spotify.com/album/5KyAvL3uY3CsyNXPjKmDyU"
       },
@@ -1679,18 +1659,22 @@
     {
       "added_at": "2023-07-18 06:27:57",
       "album": {
-        "name": "20/22",
-        "url": "https://open.spotify.com/album/4fK0dbAHFf3iSaAZBSWYPB"
+        "name": "HIGH RISK HIGH RETURN",
+        "url": "https://open.spotify.com/album/340j9Dgw9Nuy772bHowbih"
       },
       "artists": [
         {
-          "name": "Royal 44",
-          "url": "https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC"
+          "name": "SINCE",
+          "url": "https://open.spotify.com/artist/0seDu6vvqbUnPUk6s6a616"
+        },
+        {
+          "name": "Chin",
+          "url": "https://open.spotify.com/artist/3YxtjzaXsF9cVq2MlIe6cw"
         }
       ],
-      "duration_ms": 182578,
-      "name": "20/22",
-      "url": "https://open.spotify.com/track/1GHTF1xicBhrNo3RgKvoki"
+      "duration_ms": 231182,
+      "name": "COMPASS (Feat. Chin)",
+      "url": "https://open.spotify.com/track/3GkGRq5fqKM2hARxS1Odhk"
     },
     {
       "added_at": "2023-07-18 06:27:57",
@@ -1711,6 +1695,22 @@
       "duration_ms": 186644,
       "name": "Balance",
       "url": "https://open.spotify.com/track/1Qq10P9rSIwAqYjPJzCobD"
+    },
+    {
+      "added_at": "2023-07-18 06:27:57",
+      "album": {
+        "name": "20/22",
+        "url": "https://open.spotify.com/album/4fK0dbAHFf3iSaAZBSWYPB"
+      },
+      "artists": [
+        {
+          "name": "Royal 44",
+          "url": "https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC"
+        }
+      ],
+      "duration_ms": 182578,
+      "name": "20/22",
+      "url": "https://open.spotify.com/track/1GHTF1xicBhrNo3RgKvoki"
     },
     {
       "added_at": "2023-07-18 06:27:57",
@@ -1755,26 +1755,6 @@
     {
       "added_at": "2023-07-18 06:27:57",
       "album": {
-        "name": "Show Me the Money 6 Episode 3",
-        "url": "https://open.spotify.com/album/1Z1RxcM9xR2IRWgF8ANmGa"
-      },
-      "artists": [
-        {
-          "name": "Ja Mezz",
-          "url": "https://open.spotify.com/artist/1q1Fe4tXiu1Weq4U0uhqPi"
-        },
-        {
-          "name": "Dok2, Jay Park",
-          "url": "https://open.spotify.com/artist/2ihyiMD4W5L1cfnqDwlDlQ"
-        }
-      ],
-      "duration_ms": 254793,
-      "name": "Birthday",
-      "url": "https://open.spotify.com/track/5lJz2AYwwMxq9SuEGCa9GR"
-    },
-    {
-      "added_at": "2023-07-18 06:27:57",
-      "album": {
         "name": "The Anecdote",
         "url": "https://open.spotify.com/album/2C6c7NXZwrSOqCNzrfNI4Q"
       },
@@ -1791,50 +1771,22 @@
     {
       "added_at": "2023-07-18 06:27:57",
       "album": {
-        "name": "RESPECT",
-        "url": "https://open.spotify.com/album/4FpsKzdhjKzTTYgN9DvJbv"
+        "name": "Show Me the Money 6 Episode 3",
+        "url": "https://open.spotify.com/album/1Z1RxcM9xR2IRWgF8ANmGa"
       },
       "artists": [
         {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+          "name": "Ja Mezz",
+          "url": "https://open.spotify.com/artist/1q1Fe4tXiu1Weq4U0uhqPi"
         },
         {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
-        },
-        {
-          "name": "DJ Pumkin",
-          "url": "https://open.spotify.com/artist/6FzmP3yuDErhGqZ3CP6Fz0"
+          "name": "Dok2, Jay Park",
+          "url": "https://open.spotify.com/artist/2ihyiMD4W5L1cfnqDwlDlQ"
         }
       ],
-      "duration_ms": 184586,
-      "name": "RESPECT (Feat. GRAY, DJ Pumkin)",
-      "url": "https://open.spotify.com/track/7tCNxlrTSIonzZW9oBa4SC"
-    },
-    {
-      "added_at": "2023-07-18 06:27:57",
-      "album": {
-        "name": "Call Me Gray",
-        "url": "https://open.spotify.com/album/2x2SvFWCwD3CB20PrSwwj9"
-      },
-      "artists": [
-        {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
-        },
-        {
-          "name": "Dok2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 273267,
-      "name": "Dream Chaser",
-      "url": "https://open.spotify.com/track/4u28ooQAY7a7fEYBCArnJQ"
+      "duration_ms": 254793,
+      "name": "Birthday",
+      "url": "https://open.spotify.com/track/5lJz2AYwwMxq9SuEGCa9GR"
     },
     {
       "added_at": "2023-07-18 06:27:57",
@@ -1867,6 +1819,54 @@
       "duration_ms": 180733,
       "name": "Smile Now Cry Later",
       "url": "https://open.spotify.com/track/7a6oh2knjsE4uBZ60xnsvc"
+    },
+    {
+      "added_at": "2023-07-18 06:27:57",
+      "album": {
+        "name": "Call Me Gray",
+        "url": "https://open.spotify.com/album/2x2SvFWCwD3CB20PrSwwj9"
+      },
+      "artists": [
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        },
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 273267,
+      "name": "Dream Chaser",
+      "url": "https://open.spotify.com/track/4u28ooQAY7a7fEYBCArnJQ"
+    },
+    {
+      "added_at": "2023-07-18 06:27:57",
+      "album": {
+        "name": "RESPECT",
+        "url": "https://open.spotify.com/album/4FpsKzdhjKzTTYgN9DvJbv"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        },
+        {
+          "name": "DJ Pumkin",
+          "url": "https://open.spotify.com/artist/6FzmP3yuDErhGqZ3CP6Fz0"
+        }
+      ],
+      "duration_ms": 184586,
+      "name": "RESPECT (Feat. GRAY, DJ Pumkin)",
+      "url": "https://open.spotify.com/track/7tCNxlrTSIonzZW9oBa4SC"
     },
     {
       "added_at": "2023-07-18 06:27:57",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2023-07-18 06:27:57",
       "album": {
-        "name": "MALIK THE CACTUS FLOWER",
-        "url": "https://open.spotify.com/album/5BP27AqCtwa5foaBPTxYJf"
-      },
-      "artists": [
-        {
-          "name": "Don Malik",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
-        }
-      ],
-      "duration_ms": 215546,
-      "name": "Infectious (Til Infinity)",
-      "url": "https://open.spotify.com/track/2px0GGcYL18WjWgktFvTtT"
-    },
-    {
-      "added_at": "2023-07-18 06:27:57",
-      "album": {
         "name": "OFF DUTY",
         "url": "https://open.spotify.com/album/5bC4Moqxle03k5N2RbhVun"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 258893,
       "name": "Career High (Feat. Paloalto, nafla, Chancellor)",
       "url": "https://open.spotify.com/track/3huX6IPP80pZmLAgiDtiqy"
+    },
+    {
+      "added_at": "2023-07-18 06:27:57",
+      "album": {
+        "name": "MALIK THE CACTUS FLOWER",
+        "url": "https://open.spotify.com/album/5BP27AqCtwa5foaBPTxYJf"
+      },
+      "artists": [
+        {
+          "name": "Don Malik",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        }
+      ],
+      "duration_ms": 215546,
+      "name": "Infectious (Til Infinity)",
+      "url": "https://open.spotify.com/track/2px0GGcYL18WjWgktFvTtT"
     },
     {
       "added_at": "2023-07-18 06:27:57",

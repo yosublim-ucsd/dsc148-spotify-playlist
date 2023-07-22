@@ -1243,6 +1243,24 @@
     },
     {
       "album": {
+        "name": "BDBD",
+        "url": "https://open.spotify.com/album/5hCgzSIivIC75DP06pfvC6"
+      },
+      "artists": [
+        {
+          "name": "DAMYE",
+          "url": "https://open.spotify.com/artist/4ONpnuHm5fPmO8i0YsMRrR"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158235,
+      "name": "BDBD",
+      "url": "https://open.spotify.com/track/5AwvsmuS2LmC3uWQtoqtcD"
+    },
+    {
+      "album": {
         "name": "Midsummer",
         "url": "https://open.spotify.com/album/4qFlDvHc9wb2kWJTuXT6I1"
       },
@@ -1628,6 +1646,24 @@
       "duration_ms": 159000,
       "name": "Blue mood",
       "url": "https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT"
+    },
+    {
+      "album": {
+        "name": "BLUE MOON",
+        "url": "https://open.spotify.com/album/3dJWDvZt09Ri4ikTtjWzlh"
+      },
+      "artists": [
+        {
+          "name": "JAY",
+          "url": "https://open.spotify.com/artist/0cfDzbuRREWQNBbINvCckB"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171880,
+      "name": "BLUE MOON",
+      "url": "https://open.spotify.com/track/2CETP9YyMZchRIxp7z5LUf"
     },
     {
       "album": {
@@ -6156,7 +6192,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 159586,
       "name": "Look at My Shoes!",
       "url": "https://open.spotify.com/track/6C0vwVXBfCTI3Ar1Eo7suc"
@@ -6564,7 +6600,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 210546,
       "name": "Lovers In The Night",
       "url": "https://open.spotify.com/track/2dX2W20qzwqM6G910woDKo"
@@ -8068,7 +8104,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 169893,
       "name": "ONCE AGAIN",
       "url": "https://open.spotify.com/track/5vsjD4VbQzkUUlvwFOhppn"
@@ -8340,6 +8376,24 @@
       "duration_ms": 255808,
       "name": "overdose",
       "url": "https://open.spotify.com/track/3B4Rxj4UItYuHyppE8S0gU"
+    },
+    {
+      "album": {
+        "name": "Overdose",
+        "url": "https://open.spotify.com/album/41T3tk1ZTb5aiKM2ex2cJ1"
+      },
+      "artists": [
+        {
+          "name": "YOUNG",
+          "url": "https://open.spotify.com/artist/1tuIoomxyxxFjNwVsDj2WD"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175706,
+      "name": "Overdose",
+      "url": "https://open.spotify.com/track/3Zcdw90e4bErcvN44gNWrd"
     },
     {
       "album": {

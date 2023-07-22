@@ -1,12 +1,12 @@
 {
   "description": "Sempre aggiornata. Con nuovi brani di Coco, Luch\u00e8, Artie 5ive, MV Killa, Vale Pain e tanti altri.",
-  "num_followers": 34921,
+  "num_followers": 34944,
   "original_name": "Novit\u00e0 Rap Italiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZGI1ZjViNzE0ZTZkYjNhODYzOTU1NWE4NmZlNTI4ZGViM2QyMzNk",
+  "snapshot_id": "MCw4NGM1MDBkODVjYmVkMmJkYzc2NjhiMWJjMmE4ZDE2ZGQ2NjFkODE2",
   "tracks": [
     {
       "added_at": "2023-07-20 22:01:00",
@@ -202,6 +202,10 @@
         {
           "name": "Voleur pnz",
           "url": "https://open.spotify.com/artist/6BGAhqSN3qEqlZRpMogAFN"
+        },
+        {
+          "name": "Damo \u00e7a va p\u00e8t\u00e8r",
+          "url": "https://open.spotify.com/artist/6PKyPmrKFzCjuI6pWbJvB6"
         }
       ],
       "duration_ms": 142222,
@@ -787,6 +791,26 @@
       "duration_ms": 177900,
       "name": "HAHA",
       "url": "https://open.spotify.com/track/4eYUoNStca0EVkLhFYlO3b"
+    },
+    {
+      "added_at": "2023-07-20 22:01:00",
+      "album": {
+        "name": "Montana",
+        "url": "https://open.spotify.com/album/3kKVMOY0HRBCnl2AkHoDTs"
+      },
+      "artists": [
+        {
+          "name": "Sayanbull",
+          "url": "https://open.spotify.com/artist/4GjsuEcRjZZd1hFQLvWUr0"
+        },
+        {
+          "name": "Janax",
+          "url": "https://open.spotify.com/artist/3liWfHRnSkAv6oHHuF1i74"
+        }
+      ],
+      "duration_ms": 157134,
+      "name": "Montana",
+      "url": "https://open.spotify.com/track/3xx0AeovWXvjMC5jnIJASw"
     },
     {
       "added_at": "2023-07-20 22:01:00",

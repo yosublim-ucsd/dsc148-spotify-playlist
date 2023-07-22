@@ -4,7 +4,7 @@
 
 > Country rap hits of today and tomorrow.
 
-97 songs - 5 hr 31 min
+99 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Blacked Out](https://open.spotify.com/track/5ImqyYZ3zgraskdflX6Cdc) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Blacked Out](https://open.spotify.com/album/3Hi7EH9ZBJCzH8dLll20A6) | 3:28 | 2023-03-17 |  |
 | [Blood Red](https://open.spotify.com/track/2Sg4k2Y2N2Ju0YZzCc81VN) | [Katie Noel](https://open.spotify.com/artist/4nreGSB7QWCSeYWKpcz3pt) | [Blood Red](https://open.spotify.com/album/3a70N0bVBOpzQfnaMOU3Gk) | 2:37 | 2023-03-17 |  |
 | [Bottoms Up \- Remix](https://open.spotify.com/track/6hbwFerDj55bMGZZvcInze) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Just As I Am \(Platinum Edition\)](https://open.spotify.com/album/5kdGRd8zK6m135zrjwG6il) | 3:41 | 2023-03-17 |  |
+| [Buckle Bunny](https://open.spotify.com/track/17KfodDyg0yKQYmjGGGnlA) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [BUCKLE BUNNY](https://open.spotify.com/album/0s3PLrYRp1PojvP8W9g1qS) | 3:12 | 2023-07-21 |  |
 | [Campfire Cologne](https://open.spotify.com/track/1fslCOmxtyPvE55p3KVTWY) | [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR), [Ryan Upchurch](https://open.spotify.com/artist/2TQ2YAxUktGmAJkUyQJMBa) | [Jones In Ya Speaker](https://open.spotify.com/album/0CehH8vI5ZodVx7U88ArOk) | 3:16 | 2023-03-17 |  |
 | [Can't Take My Hometown](https://open.spotify.com/track/0ebCxstXoGh2gQ81SaRCku) | [Moonshine Bandits](https://open.spotify.com/artist/7DBsiQxsZAKC5lHoRCdOFG), [Demun Jones](https://open.spotify.com/artist/1LkLu8Wywk1qLvWUYAQiZR), [Brandon Hartt](https://open.spotify.com/artist/2I1y08CRzIMouGeCYzPVMb) | [Pour Decisions](https://open.spotify.com/album/58ChYckljCDpVg5HEHecaM) | 4:35 | 2023-07-14 |  |
 | [Cheatham County](https://open.spotify.com/track/29ad3oJC56R3hFO9XKSDgb) | [Upchurch](https://open.spotify.com/artist/2pSObt5Fk8izuX8ZfI3jRn) | [Cheatham County](https://open.spotify.com/album/0gN8RBGUyEGmhUNDT98vG4) | 2:47 | 2023-03-17 |  |
@@ -95,6 +96,7 @@
 | [Times We Had](https://open.spotify.com/track/6JITlNQO7IwT45L9YafIUy) | [Taylor Ray Holbrook](https://open.spotify.com/artist/58nB2Z6IiDdTUTwHYw56xI), [Colt Ford](https://open.spotify.com/artist/0OpWIlokQeE7BNQMhuu2Nx), [Charlie Farley](https://open.spotify.com/artist/7c9KnWYDsZgK8k5QiCi9wk) | [Times We Had](https://open.spotify.com/album/2isLQ6NrJbpowKoobF9XMc) | 3:20 | 2023-04-21 |  |
 | [Toxic Love](https://open.spotify.com/track/3jrVt9JiLZOylwndgKTqJV) | [Savannah Dexter](https://open.spotify.com/artist/1e2nwjPRhYpmY7m906NFwz), [Brabo Gator](https://open.spotify.com/artist/65Hl3kqIp39UAQcG4FgSHN) | [Toxic Love](https://open.spotify.com/album/4sncnWAHqc5gDwPfYa1G5o) | 2:41 | 2023-03-17 |  |
 | [Trailer Park Barbie](https://open.spotify.com/track/6xXtJm5Z2AJj0OSBgQUCSl) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Trailer Park Barbie.](https://open.spotify.com/album/5Ir7SKNW8KpB1QLpqKUBhL) | 2:50 | 2023-06-30 |  |
+| [UH HUH \(feat\. Tay Money\)](https://open.spotify.com/track/7uoFImyxzGwMH1aSkYQrGU) | [Jamie Ray](https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2), [Tay Money](https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7) | [ALTOID COWBOY](https://open.spotify.com/album/343vSuShIqEKKXrdQ1LKV3) | 2:36 | 2023-07-21 |  |
 | [Unlive \(with Yelawolf\)](https://open.spotify.com/track/5aG5xOaVjWjdKZ2wuHYUBQ) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57) | [Whitsitt Chapel](https://open.spotify.com/album/2sy1vyUt1ZNGagYdJFOMhu) | 3:57 | 2023-06-02 |  |
 | [Unlive \(with Yelawolf\)](https://open.spotify.com/track/5vBFnLvfjXLdcY8Df6PHj4) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs), [Yelawolf](https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57) | [Unlive \(with Yelawolf\)](https://open.spotify.com/album/3fwKc0nqwk0yomvchwxGMn) | 3:57 | 2023-04-14 | 2023-06-11 |
 | [Way of Life](https://open.spotify.com/track/3ZSQnPonsWW70HwNkeADRg) | [Cypress Spring](https://open.spotify.com/artist/23PFGrmuqJvklNT9ikqXaC), [The Lacs](https://open.spotify.com/artist/23OFz99wX0NDBBwrxthLWU), [Danny Boone](https://open.spotify.com/artist/6hbruWbLY9C6Id2335jVF8) | [Denim](https://open.spotify.com/album/3gTeJEis7kNTvgExDq4GVT) | 3:45 | 2023-04-21 |  |

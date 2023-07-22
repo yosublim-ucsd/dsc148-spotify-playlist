@@ -4,7 +4,7 @@
 
 > riff\-heavy, fuzzed\-out numbers.
 
-295 songs - 1 day 4 hr 19 min
+297 songs - 1 day 4 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Automatic Fantastic](https://open.spotify.com/track/4KB6xBP5eIlgH2rEhCbGNA) | [Brant Bjork](https://open.spotify.com/artist/538ZIoOw6wW1xdjuIaQHOS) | [Jalamanta](https://open.spotify.com/album/4RKRXZ4ez0w6Lr23CMT9YE) | 6:55 | 2021-11-30 | 2022-07-29 |
 | [Avernal Gate](https://open.spotify.com/track/2XdUaiSuEVgSvNjTirgvfj) | [Khemmis](https://open.spotify.com/artist/5Dejhd4zYKEUm6q1FLr1ik) | [Deceiver](https://open.spotify.com/album/6Cuy7vHasodpVWwo9fVs5B) | 7:10 | 2021-11-30 | 2021-12-27 |
 | [Barbarian](https://open.spotify.com/track/31M6kB16yl4F2Y82M7HrWa) | [Electric Wizard](https://open.spotify.com/artist/4htjQW3lgIwL6fEJlTOez4) | [Dopethrone](https://open.spotify.com/album/1AxwLCMtx8rnIxkFQKU2LO) | 6:29 | 2022-08-26 |  |
+| [Beneath the Rose](https://open.spotify.com/track/7iN8jg39Hq4SUmFhHWVqXS) | [Baroness](https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87) | [Beneath The Rose](https://open.spotify.com/album/4Eh3hjnutq067J48Amq43k) | 5:34 | 2023-07-21 |  |
 | [Big Sky Theory](https://open.spotify.com/track/4Xb0fGe9WMYxyxyxiDaEGX) | [Dozer](https://open.spotify.com/artist/57VFYrmiB0eCM2qXZmV96N) | [Through The Eyes Of Heathens](https://open.spotify.com/album/4AAhTWvtI6lxoFXwLgSVkc) | 8:28 | 2022-04-28 |  |
 | [Big Sky Theory](https://open.spotify.com/track/676z61jraS43HoLu3Tc9dB) | [Dozer](https://open.spotify.com/artist/57VFYrmiB0eCM2qXZmV96N) | [Through The Eyes Of Heathens](https://open.spotify.com/album/4oFfTnY3Je6IT4QbeaPbQp) | 8:28 | 2021-11-30 | 2022-07-29 |
 | [Black](https://open.spotify.com/track/1MAZXGVX6v3630AjDhSHPE) | [Witchrider](https://open.spotify.com/artist/6yR8Nf8o56ZZR070jTti83) | [Unmountable Stairs](https://open.spotify.com/album/3zdNW4axkxhHI6kxmVX8cu) | 6:47 | 2022-04-28 | 2023-03-23 |
@@ -45,6 +46,7 @@
 | [Bright Dawn of the Soul](https://open.spotify.com/track/2vMfQgTA6wv0Lzs1zBim2E) | [The Egocentrics](https://open.spotify.com/artist/1knadIogzg8JxShRsjCgCh) | [Love Fear Choices and Astronauts](https://open.spotify.com/album/0U4Bj6rqtCCLwwDPuXUj2d) | 10:51 | 2021-11-30 | 2022-06-25 |
 | [Burning Planet](https://open.spotify.com/track/1q7nVW28Sj9UzLbsQ8moCp) | [Lord Vapour](https://open.spotify.com/artist/4k2Remoagbeqqoh5C5MDuz) | [Semuta](https://open.spotify.com/album/2dJ5HeNcfd7Xgl98EWYnaP) | 5:49 | 2022-01-14 | 2022-02-19 |
 | [Bury Me in Smoke](https://open.spotify.com/track/6raRCdd8RoWvtBpzhJ1CJb) | [DOWN](https://open.spotify.com/artist/1m0B9ak05G0jqDY4ACLhQu) | [Nola](https://open.spotify.com/album/04BvRPJwuDeuJ3DhbAw9Wg) | 7:04 | 2023-03-22 |  |
+| [Cabin Fever](https://open.spotify.com/track/4lmnpR0Z7kc7ktKOwlPFsi) | [Slomosa](https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd) | [Cabin Fever](https://open.spotify.com/album/2TIydCgadhiyrlzSM3989s) | 5:17 | 2023-07-21 |  |
 | [Cactus](https://open.spotify.com/track/33E8wWq7EO0wKObVxgv2DW) | [Skraeckoedlan](https://open.spotify.com/artist/5ujmjNmUSBQleVXLTmPqkb) | [Äppelträdet](https://open.spotify.com/album/4GzKoHmSWH8d9QmAW679es) | 5:49 | 2021-11-30 | 2022-07-29 |
 | [Cactus](https://open.spotify.com/track/5HTeNKljvMX7tzpbQIGeDn) | [Skraeckoedlan](https://open.spotify.com/artist/5ujmjNmUSBQleVXLTmPqkb) | [Äppelträdet](https://open.spotify.com/album/6ieK2rr1yYl1l7H9O3uH4I) | 5:49 | 2022-08-26 | 2023-03-23 |
 | [Call of the Void](https://open.spotify.com/track/2lESBOYd1J2oBWVeLLSFdg) | [Mutoid Man](https://open.spotify.com/artist/2KhRuej67LynneJthmMx8o) | [Call of the Void](https://open.spotify.com/album/4Ioa4MtCt5zTxYnf2Ak32G) | 3:59 | 2023-05-19 |  |
@@ -209,7 +211,7 @@
 | [Regular John](https://open.spotify.com/track/0fZLTsasJCJ2EaaczK2Nob) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Queens of the Stone Age](https://open.spotify.com/album/4ZVYZI1wY4TmLOQ3as1UNI) | 4:37 | 2021-11-30 | 2022-07-29 |
 | [Return to the Tundrasphere](https://open.spotify.com/track/2bDCKq0cgrMFEbgaLvCTqG) | [Kanaan](https://open.spotify.com/artist/3Hb1TSP5l7tR214bjmHIBA) | [Earthbound](https://open.spotify.com/album/5cgZyUkPspSn9DxxsIPWoK) | 8:41 | 2021-11-30 | 2022-02-13 |
 | [Road to Burn](https://open.spotify.com/track/4kyesMU5MvTLGKczuhKnVn) | [1000mods](https://open.spotify.com/artist/7EgAHTw2PMP7a1tAEtue89) | [Super Van Vacation](https://open.spotify.com/album/0bXwIciESa6i0mcsXE4db8) | 8:49 | 2021-11-30 |  |
-| [Rollercoaster](https://open.spotify.com/track/1ffTuRRrqqiDG0T1CPJse8) | [Black Mountain](https://open.spotify.com/artist/00sAr10UTV1JZtHqxsLVn4) | [Wilderness Heart](https://open.spotify.com/album/19zI1pAARSE3rV72vWX9Ak) | 5:15 | 2023-03-10 |  |
+| [Rollercoaster](https://open.spotify.com/track/1ffTuRRrqqiDG0T1CPJse8) | [Black Mountain](https://open.spotify.com/artist/00sAr10UTV1JZtHqxsLVn4) | [Wilderness Heart](https://open.spotify.com/album/19zI1pAARSE3rV72vWX9Ak) | 5:15 | 2023-03-10 | 2023-07-22 |
 | [Rollercoaster](https://open.spotify.com/track/6cJhk7H8SQj4rzZmRVnK0A) | [Black Mountain](https://open.spotify.com/artist/00sAr10UTV1JZtHqxsLVn4) | [Wilderness Heart](https://open.spotify.com/album/7HiIz7nui3LtGVY62ORP3b) | 5:15 | 2021-11-30 | 2022-07-29 |
 | [Rooster \(2022 Remaster\)](https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Dirt \(2022 Remaster\)](https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM) | 6:14 | 2021-11-30 | 2023-03-23 |
 | [Rooster Booster](https://open.spotify.com/track/0v7RT360hYbz6LhNRKaEaJ) | [Brain Police](https://open.spotify.com/artist/3u8Bmkzs6rer0AirAa87iR) | [Beyond the Wasteland](https://open.spotify.com/album/6uRSnF16GbMeK0Lt4TmUqr) | 4:26 | 2021-11-30 | 2022-07-29 |
@@ -225,7 +227,7 @@
 | [Sister](https://open.spotify.com/track/1j9HGnyyuupBYFpG2UJShL) | [Volga](https://open.spotify.com/artist/1Kb7jk58AZ30wMvGRuYpky) | [Dead Man’s Hand](https://open.spotify.com/album/6UyXn37mCEq5TYFE0hg25F) | 2:17 | 2022-02-14 | 2022-04-18 |
 | [Sixty Watt Shaman](https://open.spotify.com/track/4Tmj44iRTXTDK5jo9elMCv) | [Whiskey Neck](https://open.spotify.com/artist/76B55uevwwGTkO8LfGpb5T) | [In The Groove](https://open.spotify.com/album/5cZ1SppOuMg4sS0WqDkAls) | 5:41 | 2021-11-30 | 2021-12-23 |
 | [Skweetis](https://open.spotify.com/track/4M5tx88gLsiXSbxpPUAULe) | [Melvins](https://open.spotify.com/artist/6aVjo0xHSiuW5hkasoYSR3) | [Stoner Witch](https://open.spotify.com/album/1Ft1QQbUOCgSqumZKYuWhw) | 1:12 | 2023-03-22 |  |
-| [Slaughter Beach](https://open.spotify.com/track/4hZwv69zyXmgipXqFyr7IJ) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Sunrise on Slaughter Beach \(The Complete Edition\)](https://open.spotify.com/album/39fUrynHjOvP7SADSIODN9) | 3:41 | 2023-06-23 |  |
+| [Slaughter Beach](https://open.spotify.com/track/4hZwv69zyXmgipXqFyr7IJ) | [Clutch](https://open.spotify.com/artist/161AC1AVRkIGIMxyj5djFQ) | [Sunrise on Slaughter Beach \(The Complete Edition\)](https://open.spotify.com/album/39fUrynHjOvP7SADSIODN9) | 3:41 | 2023-06-23 | 2023-07-22 |
 | [Sleep Of The Black Lotus](https://open.spotify.com/track/1gwWcQf0CmJxQPc4AlOoEh) | [Wo Fat](https://open.spotify.com/artist/5QUsinW1AjeDsT6tQdeTb0) | [The Black Code](https://open.spotify.com/album/0fWU9SHoSy50Kpi775WrLb) | 10:14 | 2021-11-30 | 2022-07-08 |
 | [Sleep Of The Black Lotus](https://open.spotify.com/track/607UyLaRRinnZrtim7VWSK) | [Wo Fat](https://open.spotify.com/artist/5QUsinW1AjeDsT6tQdeTb0) | [The Black Code](https://open.spotify.com/album/19Azuz7Fwnr7mQ6jKqPYbd) | 10:14 | 2023-03-10 | 2023-05-01 |
 | [Smokin' Woman](https://open.spotify.com/track/3As9x85QW00A257ahhwKLr) | [Nebula](https://open.spotify.com/artist/3fe36ZJP5Og68Ji1VUMLgE) | [Dos E.P.'s](https://open.spotify.com/album/18zCcLMlccJiRswPU6O0QL) | 5:28 | 2023-03-22 | 2023-06-11 |

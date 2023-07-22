@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,724 songs - 3 day 5 hr 19 min
+1,725 songs - 3 day 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -594,7 +594,7 @@
 | [Halcyon](https://open.spotify.com/track/7nEWerH9vQDQ1wNoH8J3K6) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Halcyon](https://open.spotify.com/album/5XudyMlsXOobZTCBPmqzB8) | 2:30 | 2022-08-17 | 2022-11-25 |
 | [Halcyon](https://open.spotify.com/track/2PEiFFvNyMykLb2wxnvBfv) | [Laila Lawson](https://open.spotify.com/artist/7FkVtLkKm15RmW66X3x23z) | [Halcyon & Safe Havens](https://open.spotify.com/album/0nl8ijx6L3t2QVaA05GLCp) | 3:02 | 2022-04-12 | 2022-04-18 |
 | [Hallelujah](https://open.spotify.com/track/0uCGsNZqjHgiYO4BwN6Cjw) | [Ben Laver](https://open.spotify.com/artist/3lTGvG2QAIoGMp7BKeH4C0) | [Hallelujah](https://open.spotify.com/album/1v0jm6f0oEjcpYhpJI8Lcf) | 2:45 | 2022-03-15 | 2022-05-14 |
-| [Hand in Hand](https://open.spotify.com/track/23yqVbpiJoMHTs0RX4aPE7) | [Kylian Rebour](https://open.spotify.com/artist/2po95mGJ6RRvZFtta9LUyX) | [Hand in Hand](https://open.spotify.com/album/7fccaa63EUMUZtrhXENmbT) | 1:48 | 2023-04-15 |  |
+| [Hand in Hand](https://open.spotify.com/track/23yqVbpiJoMHTs0RX4aPE7) | [Kylian Rebour](https://open.spotify.com/artist/2po95mGJ6RRvZFtta9LUyX) | [Hand in Hand](https://open.spotify.com/album/7fccaa63EUMUZtrhXENmbT) | 1:48 | 2023-04-15 | 2023-07-22 |
 | [Handmade](https://open.spotify.com/track/5TQcYO4moNRTTrtM5Frj30) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [Handmade](https://open.spotify.com/album/5ijcw0HbORqBNtZX354WBu) | 2:17 | 2023-04-15 | 2023-06-01 |
 | [Harbinger](https://open.spotify.com/track/1VJFcuWEwolF6y5fS1J98x) | [Global Hum](https://open.spotify.com/artist/3lifXuRT69XpJuFvuml4iu) | [Harbinger](https://open.spotify.com/album/36gPNCQYHXSHGpl5FQ2GnC) | 2:49 | 2021-09-25 | 2022-04-01 |
 | [Harps](https://open.spotify.com/track/454XRIwlukSSffvRihn6RR) | [Heinz Goldblatt](https://open.spotify.com/artist/2huinmkGMFzltmc7Pe7fgf) | [Tampa](https://open.spotify.com/album/4lL79tsCuEZN5ClQjoNVDr) | 3:19 | 2021-03-15 | 2022-04-16 |
@@ -1146,7 +1146,7 @@
 | [Psalm \#1](https://open.spotify.com/track/2M3TYW4G60raCQnznf0e1o) | [René Sturgess](https://open.spotify.com/artist/5gEyAqENfIITIqk0dUaPUm) | [Psalm \#1](https://open.spotify.com/album/5Pa5qVrKMenKj5XTGkr1JL) | 1:49 | 2021-03-09 | 2022-04-20 |
 | [Purity](https://open.spotify.com/track/7oWtvkBURDJnmTZr40IE6k) | [Colias Fieldii](https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v) | [Purity](https://open.spotify.com/album/3h8zJVJAroMaxRlQuCBe03) | 1:41 | 2022-12-22 | 2023-06-10 |
 | [Purple Distant](https://open.spotify.com/track/4QVIk4rz60fXiOy5LBNedb) | [Once Proven](https://open.spotify.com/artist/3t46Q3kFpBlN8nD75ypsMj) | [Closing In On Reality](https://open.spotify.com/album/2fAg8MypA3l9c3G1I3QXeB) | 2:26 | 2022-04-12 | 2022-04-15 |
-| [pæoner](https://open.spotify.com/track/4516jKqIrGNIShWH3WBqmd) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [pæoner](https://open.spotify.com/album/1S6MFC3YC69IHDOOktMFTk) | 1:52 | 2022-12-22 |  |
+| [pæoner](https://open.spotify.com/track/4516jKqIrGNIShWH3WBqmd) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [pæoner](https://open.spotify.com/album/1S6MFC3YC69IHDOOktMFTk) | 1:52 | 2022-12-22 | 2023-07-22 |
 | [Qi](https://open.spotify.com/track/2PgVEaqgmMh1hdhcnuqDEd) | [PHILDEL](https://open.spotify.com/artist/7B0uXJvJUTwwbeSToeZeJ4) | [Qi](https://open.spotify.com/album/39fZOxjNH13Aj7Mzgpy9co) | 5:26 | 2021-03-07 | 2021-05-09 |
 | [Quand vous souriez](https://open.spotify.com/track/3VM35337X7Ro1tesUHnZ95) | [Libor Kolman](https://open.spotify.com/artist/5GWhfNzngahL2GIFq3NwHT) | [Quand vous souriez](https://open.spotify.com/album/0a2MWbnNqbDan6OcOwRLuv) | 1:58 | 2022-08-17 |  |
 | [Quando gli alberi incontrano il vento](https://open.spotify.com/track/1HByqL0NBv4U3EXobDUkiy) | [Riccardo Lucciano](https://open.spotify.com/artist/20WwrV7uTNMYTN1Rax9ORA) | [Quando gli alberi incontrano il vento](https://open.spotify.com/album/5gC9wVZoOL4bJNSo9eoclI) | 2:55 | 2021-04-03 | 2022-07-05 |
@@ -1428,7 +1428,7 @@
 | [Tempo dell’Oceano](https://open.spotify.com/track/0ruAGzEvwR2YZOzqoXI0Hk) | [Baldo Aquila](https://open.spotify.com/artist/0CIRMCbCwPFFmfpBSWVqWa) | [Tempo dell’Oceano](https://open.spotify.com/album/7LDWDL66Jt2u1S9WaH2aVr) | 2:24 | 2022-03-24 | 2022-03-30 |
 | [Temptation](https://open.spotify.com/track/2RcOnnCmS9PEALbqPmP4EX) | [High Blue Sky](https://open.spotify.com/artist/59jD9qllQjcxvBMV5YqyUh) | [Temptation](https://open.spotify.com/album/4qdCbzbMXrzSALdA9ZICnE) | 3:09 | 2021-03-15 | 2022-04-03 |
 | [Tender](https://open.spotify.com/track/5HGaUs9OnozY3hTH4Uidnt) | [Lea Ardella](https://open.spotify.com/artist/0I5BqWqbu0DEpAgepIodnm) | [Tender](https://open.spotify.com/album/4iDJ3O7d2OIW2hIy7MDGpL) | 3:05 | 2021-04-21 | 2022-07-29 |
-| [Tenderly](https://open.spotify.com/track/7JMcuZdww7k1eQIRPbpRoG) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Tenderly](https://open.spotify.com/album/27y3rhrFPJOAIVMDJKE47t) | 2:25 | 2022-07-27 | 2023-07-20 |
+| [Tenderly](https://open.spotify.com/track/7JMcuZdww7k1eQIRPbpRoG) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Tenderly](https://open.spotify.com/album/27y3rhrFPJOAIVMDJKE47t) | 2:25 | 2022-07-27 |  |
 | [Testimony](https://open.spotify.com/track/1NgM2SEuhj7pAzeVTF6Oe5) | [Genevieve Melton](https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr) | [Testimony \(EP\)](https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq) | 2:44 | 2021-12-18 | 2022-12-18 |
 | [That day](https://open.spotify.com/track/6pvG7rCh9GQQTWUCkPVjDB) | [Leroy Bolander](https://open.spotify.com/artist/667m0gdFzATbXE189xJwOl) | [That day](https://open.spotify.com/album/5ygk6D7doJkoxOJs9uNLJp) | 1:58 | 2021-05-13 | 2022-04-21 |
 | [That kind of day](https://open.spotify.com/track/2HrQsRsCx8Pnv9BYNgmVwz) | [Cauã Cavalcanti Azevedo](https://open.spotify.com/artist/1FOppiOpSLfxmS2pYUWXal) | [That kind of day](https://open.spotify.com/album/0uOyOXBYsr53gf8Jnscb3K) | 2:28 | 2021-03-19 | 2022-03-27 |
@@ -1579,6 +1579,7 @@
 | [Tulip](https://open.spotify.com/track/2gOZZ461iBIgZB42kyMu4a) | [Steve Jones Swiff](https://open.spotify.com/artist/3z1Zuq8iUJqouUmX3ugLml) | [Tulip](https://open.spotify.com/album/0iO0SP6ZBPKcazqdqfWRr8) | 2:03 | 2021-05-18 | 2022-05-29 |
 | [Tumbling Fairytale](https://open.spotify.com/track/266YxnxOiOPfnwvI4qluDR) | [Harold Kay](https://open.spotify.com/artist/2syEslXYK8k3kpiQ2RXBDm) | [Regula De Tri](https://open.spotify.com/album/4TebKqLb17kQGku2BPFo3E) | 2:11 | 2021-05-19 | 2022-06-24 |
 | [Tuning the Picture](https://open.spotify.com/track/16bkyOOqnn6SDXjpQyqBhh) | [Allison Stuart](https://open.spotify.com/artist/16ZEUWmdIWUGPIuYKDb9MV) | [Tuning the Picture](https://open.spotify.com/album/1H0yb40JbDayKijQBsjKu0) | 2:56 | 2021-10-14 | 2021-10-16 |
+| [Turn](https://open.spotify.com/track/0y7I045qDUH1carkgTB2UG) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Under](https://open.spotify.com/album/0tVEjAfGFPBdtvql2BUHKs) | 2:39 | 2023-07-06 |  |
 | [Turn Left](https://open.spotify.com/track/6LBWoasSTImUnGUoweyXL5) | [Cisum](https://open.spotify.com/artist/467kFA1pXD8TMuXyyGKUYi) | [Focus Your Brain \- Deep Ambient Soundscapes Vol 1](https://open.spotify.com/album/6EK5AiyrCaxi8Hlp7UfMgr) | 3:29 | 2021-03-16 | 2021-05-14 |
 | [Twilights](https://open.spotify.com/track/10qZCmeusg6BbdHDTMADpr) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Twilights](https://open.spotify.com/album/5gjIbZAtznmk77DLADIGFY) | 2:17 | 2023-04-15 |  |
 | [Twinkling Star](https://open.spotify.com/track/15ZnW0rCGJvb0fV2N3nN1r) | [Clark Ingram](https://open.spotify.com/artist/7KRZnmd0jO9gxrxNxJYK8X) | [Sleepy Baby Piano](https://open.spotify.com/album/4F64kqOUZucHOwcfftBJ5u) | 2:50 | 2021-04-23 | 2022-04-17 |

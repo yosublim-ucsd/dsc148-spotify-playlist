@@ -4,7 +4,7 @@
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Southalid; thiết kế: Isu Kim
 
-1,125 songs - 2 day 18 hr 6 min
+1,127 songs - 2 day 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -619,6 +619,7 @@
 | [Một Ngày Nào Đó](https://open.spotify.com/track/3KDz1QRGiVv7x5NytivOeh) | [Mias](https://open.spotify.com/artist/0OUo4odW5aRAYMhJYWNyEQ) | [Một Ngày Nào Đó](https://open.spotify.com/album/3wA2aDpkPJNnbtTfqrPDKy) | 2:56 | 2022-07-14 | 2022-10-05 |
 | [Một Ngày Trong Xanh \(feat\. D.Khánh\)](https://open.spotify.com/track/6DoPkM8BDPEicZOz1yqwgX) | [Marr D](https://open.spotify.com/artist/03hVdiz1KdQ9rhIKQoJXsE), [d.khánh](https://open.spotify.com/artist/3cfTrF2z4x9PnGX1iORYk2) | [Một Ngày Trong Xanh \(feat\. D.Khánh\)](https://open.spotify.com/album/5uwjucwwvl490yStrDhHfx) | 4:00 | 2022-04-27 | 2022-06-22 |
 | [Một Phút Chờ Anh](https://open.spotify.com/track/0q9JgYS1lgCVOB7gaEbaLg) | [Junki Trần Hòa](https://open.spotify.com/artist/7Le6qDDSTkZuLEw6WcxnBi), [Xôn Nguyễn](https://open.spotify.com/artist/2KhDttLplSvTjfipdzvOu3) | [Một Phút Chờ Anh](https://open.spotify.com/album/4bxjUH5zZD8hqMfPdXwhUd) | 6:07 | 2022-09-18 | 2022-10-13 |
+| [Một Đóa Hồng](https://open.spotify.com/track/1HKq8VXzFKFkp0Zd8P6bPg) | [Lưu Hiền Trinh](https://open.spotify.com/artist/29hovPFGCgeyNPRMjfVhzP) | [Một Đóa Hồng](https://open.spotify.com/album/0HAmNecrIuTDLWlVTyndsP) | 3:21 | 2023-07-20 |  |
 | [Mờ Phai](https://open.spotify.com/track/3R88vu0fqoQZnbmQvvpCiN) | [1nG](https://open.spotify.com/artist/12scI4mEdyEDBi7cdkxkVZ) | [Mờ Phai](https://open.spotify.com/album/5NDbjgiuywTUC1KwApFLsD) | 3:35 | 2022-10-26 | 2023-03-25 |
 | [Mở mắt mộng mị](https://open.spotify.com/track/1lvOz8lj6FkjG6s7A5Dcuq) | [Uyên Pím](https://open.spotify.com/artist/0WTq44We1hgk44exLV0pFc) | [Mở mắt mộng mị](https://open.spotify.com/album/4phI5GhTbHssvop07moetW) | 4:48 | 2023-04-13 | 2023-05-02 |
 | [Naked](https://open.spotify.com/track/3wWu1QyDz0oY1aLN385W0J) | [Kim Chi Sun](https://open.spotify.com/artist/6R5x0FCE48rOtZjazPbRyh) | [Naked](https://open.spotify.com/album/6RqmFkvEiICVeGkuZoiGiG) | 3:38 | 2022-07-31 | 2023-02-17 |
@@ -990,6 +991,7 @@
 | [Vì Sao Em Đi](https://open.spotify.com/track/1F8J0ccYNaDPznNjLKZ4Yz) | [Clow](https://open.spotify.com/artist/340QB5yIg8bZoi4uJyTB30) | [Vì Sao Em Đi](https://open.spotify.com/album/6hctpY6wF9PB6VUhPcyiTx) | 3:26 | 2023-02-15 | 2023-03-16 |
 | [Vì Ta Giống Nhau](https://open.spotify.com/track/0U5bXDm522NFxgbalL1qXn) | [DATB](https://open.spotify.com/artist/20awixItwowpS8dY2wBGRN), [Kriss Ngo](https://open.spotify.com/artist/3tHHuAuhXiCc1HneD1iytJ) | [Vì Ta Giống Nhau](https://open.spotify.com/album/1DCEycd7x9YwMpVUN5wEbp) | 3:07 | 2022-06-22 | 2022-08-01 |
 | [Vì Tôi Tin Hết](https://open.spotify.com/track/0ZSUs2r3TpD4V5lsVdf6rI) | [Sáo](https://open.spotify.com/artist/0CkuQCslREF7yuvAqJXVuz) | [Vì Tôi Tin Hết](https://open.spotify.com/album/4kjfT54kb8doV7mhJmqOPD) | 3:32 | 2023-07-18 |  |
+| [Vòng Lặp](https://open.spotify.com/track/6pEC97KdEEMsVheQNwKzLy) | [RIO](https://open.spotify.com/artist/4dH6uW4FU977FDuTcCHGUf) | [Vòng Lặp](https://open.spotify.com/album/1igtgqe1IElnHRIe6AbymS) | 2:44 | 2023-07-20 |  |
 | [Vòng Xoay](https://open.spotify.com/track/6vpBwdPBDQwGmcXSw35RhP) | [KoQuet](https://open.spotify.com/artist/0byMH77phBn6NVdV44rXvv) | [Vòng Xoay](https://open.spotify.com/album/4rnUxTfcedtf8mMwmrQyFE) | 2:56 | 2023-02-17 | 2023-03-30 |
 | [Vô Cực Nhớ Em](https://open.spotify.com/track/1WS11AeGT9BQ7nrrKHT9GS) | [Lil Zpoet](https://open.spotify.com/artist/0T8DkuhhFhdWAMN0bdeLL7) | [Vô Cực Nhớ Em](https://open.spotify.com/album/01fM98W1HGDAZRTC6YoMW7) | 4:00 | 2022-08-08 | 2022-09-28 |
 | [Vô Thường](https://open.spotify.com/track/0Wqxp4vGLSFzBXvPEApigk) | [FSRio](https://open.spotify.com/artist/066RIM4xKxX0yCCBtg3NYY), [Young N](https://open.spotify.com/artist/2LavRswnUDiEi4r2qn006Q) | [Vô Thường](https://open.spotify.com/album/3FZs1sCTsee9pErIGhAYKf) | 3:22 | 2022-08-04 | 2022-08-18 |

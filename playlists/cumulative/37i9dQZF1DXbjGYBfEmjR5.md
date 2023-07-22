@@ -4,7 +4,7 @@
 
 > Don't worry, we're back in the funk of it besties ✨
 
-506 songs - 1 day 4 hr 41 min
+507 songs - 1 day 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -296,7 +296,7 @@
 | [Monstruo Japonés](https://open.spotify.com/track/7dlwjYsVBalCrf1ko5nFuG) | [Iden Kai](https://open.spotify.com/artist/4SO5n5ed18AAFhbndSQWsv), [Rubimente](https://open.spotify.com/artist/6qWEja87UtbBkkTQiLYJq4), [Schizo Forg](https://open.spotify.com/artist/5yCqslzLjyspTny2snblt0) | [Monstruo Japonés](https://open.spotify.com/album/5evm2YJRYg9uTzqr21zic2) | 4:10 | 2022-08-12 | 2023-01-02 |
 | [Moonside](https://open.spotify.com/track/6fWWJ80UqYqVY2y9Acy2uz) | [Stux.Io](https://open.spotify.com/artist/5OmqY8dwR6GFMocNY3ph68), [Hanari](https://open.spotify.com/artist/7hpRguUPbso7J2WtKqX4aK), [VAPERROR](https://open.spotify.com/artist/0AEVuiJFczDd4dkmZh2Kha) | [Moonside](https://open.spotify.com/album/2EOR7Yb1vYdtFk4jl9ckir) | 2:54 | 2022-06-08 | 2022-07-27 |
 | [Morale](https://open.spotify.com/track/7AOTewkdVbkiA8Um32t58A) | [Uni Deluxe](https://open.spotify.com/artist/7FgxkXK01FgVCTjQ7ChxcV) | [Morale](https://open.spotify.com/album/1azX1aHJrqVGWqikHgXsRY) | 3:18 | 2021-12-08 | 2022-07-29 |
-| [My dress up darling](https://open.spotify.com/track/42OcyqIvupgBdlxRTEvcHJ) | [CUNO](https://open.spotify.com/artist/24ngn3sTjUYrsvuQcZXPVX) | [My Dress Up Darling](https://open.spotify.com/album/3MNH3MqPhzH2wSPpgf1yPP) | 1:31 | 2022-11-04 |  |
+| [My dress up darling](https://open.spotify.com/track/42OcyqIvupgBdlxRTEvcHJ) | [CUNO](https://open.spotify.com/artist/24ngn3sTjUYrsvuQcZXPVX) | [My Dress Up Darling](https://open.spotify.com/album/3MNH3MqPhzH2wSPpgf1yPP) | 1:31 | 2022-11-04 | 2023-07-22 |
 | [My Gurl](https://open.spotify.com/track/0ZSDS6ZUAIDyXzCiS7xfuH) | [Wealstarcks](https://open.spotify.com/artist/5wTQg4WsivNx3LwPoM50Af) | [My Gurl](https://open.spotify.com/album/0PUnDsNY0lq6ua4LC6dwik) | 3:17 | 2022-11-04 |  |
 | [Need Somebody](https://open.spotify.com/track/6MBojwg01wXb54WWeIBa5A) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T), [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU) | [Yacht World](https://open.spotify.com/album/4Lzf3MQuKBkG9goRNZ0XtX) | 2:08 | 2022-06-01 |  |
 | [Need Somebody](https://open.spotify.com/track/2hCOECeOVpSVPKWqhFuxm5) | [Engelwood](https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T), [iamalex](https://open.spotify.com/artist/6M6LWvHKgBle8SUtSpq6SU) | [Need Somebody](https://open.spotify.com/album/7iZGT7amN741ctSJ0uJ3Np) | 2:09 | 2022-04-12 | 2022-04-17 |
@@ -392,6 +392,7 @@
 | [So Long](https://open.spotify.com/track/0Kk6MRJzcS1qSx4vheKAXO) | [Shiruetto](https://open.spotify.com/artist/16OzAoywRbXAPzxftV0XLk) | [So Long](https://open.spotify.com/album/3KKWyN5Wvq5sLQrrW2oYGg) | 4:01 | 2022-01-25 | 2022-05-09 |
 | [So Shine](https://open.spotify.com/track/3JSpcP0lrONHMgJ10gDLA3) | [yuugen](https://open.spotify.com/artist/6mDNmNWQKIKUWljumIkr9J), [Cabro Artico](https://open.spotify.com/artist/5huvMR3cKA742B48zzJP7e) | [So Shine](https://open.spotify.com/album/7muNCcZrCbKG6454ocvqnR) | 4:45 | 2022-11-04 | 2023-06-04 |
 | [So Shine](https://open.spotify.com/track/1Zk5sQZtwvmfCdVRe5NNVx) | [yuugen](https://open.spotify.com/artist/6mDNmNWQKIKUWljumIkr9J), [Cabro Artico](https://open.spotify.com/artist/5huvMR3cKA742B48zzJP7e) | [So Shine](https://open.spotify.com/album/08IS1InlosyXzpDpnsqv1s) | 4:45 | 2022-11-04 |  |
+| [So Sunny](https://open.spotify.com/track/16agwz0BRxMWoQIUHoZOcc) | [SUPERCAT64 ビンクス猫](https://open.spotify.com/artist/5dPQ7iBuveTqtdEM8wUQSQ) | [The Poolside EP](https://open.spotify.com/album/3J9HEss1HH6TdCY4jrf5IC) | 2:48 | 2023-07-18 |  |
 | [Sold Out](https://open.spotify.com/track/6mltbH5UE4wXSJOabNRFcq) | [Skule Toyama](https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2) | [Sold Out](https://open.spotify.com/album/1GWLUXZ0LoKqm3HbUvcSp8) | 4:05 | 2022-07-15 | 2022-08-25 |
 | [Something About You](https://open.spotify.com/track/4b83hkEnciD20byP3zcKYw) | [Amherst](https://open.spotify.com/artist/0OF3elZ9nfycVA9b2IQBAU) | [Heat.wav](https://open.spotify.com/album/7jUDLIdMGhM0Z7Lf90ssgc) | 4:00 | 2022-04-12 | 2022-04-20 |
 | [Sometime's He's Pretty](https://open.spotify.com/track/3nCA4kWJIZ5laYZHWIbzSU) | [glue70](https://open.spotify.com/artist/3AsWxxZTFPoCFxM1s8Lg1J) | [ICE CREAM](https://open.spotify.com/album/2U297DcmJRXYW0eOrgiSsF) | 2:41 | 2022-06-08 | 2022-07-29 |
@@ -410,7 +411,7 @@
 | [Static Startup](https://open.spotify.com/track/4FIeLOD9iALl21GwmGuWEH) | [Skule Toyama](https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2), [FunKing](https://open.spotify.com/artist/6ck052tLAa0NzQH9x4HjsX) | [PopSlinger \(Original Soundtrack\)](https://open.spotify.com/album/2334zQIqaH68guuXAEHZnr) | 3:28 | 2022-02-27 | 2022-07-28 |
 | [Stay](https://open.spotify.com/track/6qWRLdCWJnqSBL4pXPHr38) | [Chevron](https://open.spotify.com/artist/5EDLo5JMi5UMCO6JjWlZdN) | [Stay](https://open.spotify.com/album/6kxGxz9PUU9B2uU3oDKEuf) | 2:59 | 2022-02-27 | 2022-05-08 |
 | [Stellae](https://open.spotify.com/track/1nzjAN2zcFizoo7yStKZi8) | [ev.exi](https://open.spotify.com/artist/625cTtpQZkHRwLwEtpVbA1), [Rhodes Rodosu](https://open.spotify.com/artist/0CxvNc5GFnCv9UXiu5mreJ) | [Stellae](https://open.spotify.com/album/00qahpyr3Cxq8xNBecw56k) | 3:50 | 2021-12-08 | 2023-05-04 |
-| [Stereo](https://open.spotify.com/track/6txXMN9d8uRhxt5oioa4JU) | [Skule Toyama](https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2) | [Stereo](https://open.spotify.com/album/06IIGatctBNn3MQExq8dYc) | 4:29 | 2021-12-08 | 2023-07-18 |
+| [Stereo](https://open.spotify.com/track/6txXMN9d8uRhxt5oioa4JU) | [Skule Toyama](https://open.spotify.com/artist/4o6MEsXazDf44QJ8iovnw2) | [Stereo](https://open.spotify.com/album/06IIGatctBNn3MQExq8dYc) | 4:29 | 2021-12-08 |  |
 | [Still In Love](https://open.spotify.com/track/30Z6L9BqTFa8a6OT3kqt8f) | [Device Operator](https://open.spotify.com/artist/0WgvFxGODaEBXwRSSprC9C) | [Still In Love](https://open.spotify.com/album/19nBuVpy1ejLyn8NjX2UR0) | 4:00 | 2022-11-04 | 2023-07-18 |
 | [Strawberry July](https://open.spotify.com/track/5lkP1BKmudJe8qAQuQ1IA8) | [Stux.Io](https://open.spotify.com/artist/5OmqY8dwR6GFMocNY3ph68), [Hanari](https://open.spotify.com/artist/7hpRguUPbso7J2WtKqX4aK), [VAPERROR](https://open.spotify.com/artist/0AEVuiJFczDd4dkmZh2Kha) | [Strawberry July](https://open.spotify.com/album/0tma3Z7rYySmbwkZiUzBTM) | 3:03 | 2022-07-15 | 2022-08-13 |
 | [Strawby Bass](https://open.spotify.com/track/05cZL87Xe5dPFTqZmB5QCr) | [Strawberry Station](https://open.spotify.com/artist/3abmTIIqxlRsONhRZ7sfQB) | [Strawby Bass](https://open.spotify.com/album/0yTpCAgqA4KIp5IBdAiHoU) | 2:18 | 2022-04-12 | 2022-07-27 |

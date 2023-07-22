@@ -4,7 +4,7 @@
 
 > POV: tá fresco y la sombra del fresnito pega bien sabroso.
 
-293 songs - 16 hr 27 min
+294 songs - 16 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [El Barzon](https://open.spotify.com/track/3WALh4MuKxt00oJO7vSrjk) | [Luis Pérez Meza](https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT) | [Lo Mejor De Rancheras](https://open.spotify.com/album/1byRtvyAmS4gGeTbSRCwv8) | 2:44 | 2023-06-12 |  |
 | [El Color de Tus Ojos](https://open.spotify.com/track/1foxMPXhpLxGJxATRl5rYg) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Color de Tus Ojos](https://open.spotify.com/album/4BvJvj4xBfkxQ1WZiO9Xdd) | 4:05 | 2021-11-01 | 2023-06-13 |
 | [El Color de Tus Ojos \- Versión Acústica](https://open.spotify.com/track/5vqKT1wBUAxlFq57ymoOeJ) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [El Color de Tus Ojos \(Versión Acústica\)](https://open.spotify.com/album/0oPqmNycT3rm72Qp6KcvLU) | 3:50 | 2021-11-01 | 2023-06-13 |
-| [El Final de Nuestra Historia](https://open.spotify.com/track/73aNc2V32NpepB8lLhnDjW) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Ya Aprendí la Lección](https://open.spotify.com/album/7zdX1DPwz8PU1tsaw5qSg8) | 3:28 | 2023-06-12 |  |
+| [El Final de Nuestra Historia](https://open.spotify.com/track/4dGfHOm1BZjV6LdC1ufJtY) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Ya Aprendí la Lección](https://open.spotify.com/album/4mruyGpiOW9uR1nqyE3xoE) | 3:28 | 2023-06-12 |  |
+| [El Final de Nuestra Historia](https://open.spotify.com/track/73aNc2V32NpepB8lLhnDjW) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Ya Aprendí la Lección](https://open.spotify.com/album/7zdX1DPwz8PU1tsaw5qSg8) | 3:28 | 2023-06-12 | 2023-07-22 |
 | [El Indio Enamorado](https://open.spotify.com/track/77Yhcsal6ceWoLqYbDCeaZ) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [El Indio Enamorado](https://open.spotify.com/album/4JwwVngWxV6EDq7lC3wUBt) | 3:08 | 2023-06-12 |  |
 | [El Paciente](https://open.spotify.com/track/3vvi6OGDVPhZvRFEPXZE2r) | [Maribel Sur](https://open.spotify.com/artist/6RUOKxDTKgQE0baELaHJcf) | [El Paciente](https://open.spotify.com/album/5GKOP1rqWR2TguIbRR4qYo) | 3:32 | 2021-11-01 | 2022-07-06 |
 | [El Triste](https://open.spotify.com/track/5bC9coSW5PggQN2HefYSk2) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [El Triste](https://open.spotify.com/album/5lZFOwckQKRGJltW9B7oHM) | 4:12 | 2021-11-01 |  |

@@ -966,7 +966,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 261333,
       "name": "Con Billetes",
       "url": "https://open.spotify.com/track/4eOyMYj0HtblAavJTRtkUC"
@@ -3138,7 +3138,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 171266,
       "name": "Paquetes",
       "url": "https://open.spotify.com/track/63iJSDSeiTbJhDbo60jVOe"
@@ -3670,6 +3670,24 @@
       "duration_ms": 151384,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/1W7z3gxk8bWS4p1GAkFnVL"
+    },
+    {
+      "album": {
+        "name": "R.I.P. (Rimas In\u00e9ditas Picantes)",
+        "url": "https://open.spotify.com/album/1Hk5DuSEgb6BUwTfIOX8ld"
+      },
+      "artists": [
+        {
+          "name": "XXL Irione",
+          "url": "https://open.spotify.com/artist/4xqLeiTEE5VmPu5nQFWjHY"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146912,
+      "name": "Salvame",
+      "url": "https://open.spotify.com/track/6qQQcxq993JpYobGGZbFkB"
     },
     {
       "album": {
@@ -4416,7 +4434,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 174365,
       "name": "XL",
       "url": "https://open.spotify.com/track/0cb9ckfF5AZQynYVTKg06v"

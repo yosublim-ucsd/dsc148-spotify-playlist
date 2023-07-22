@@ -4,7 +4,7 @@
 
 > Surrender to the chill of the White Island with these laid\-back house and nu\-disco groovers.
 
-181 songs - 9 hr 28 min
+182 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Old Prophecies](https://open.spotify.com/track/08cXfidFNX5g9cZPNcteWM) | [Red Leopard](https://open.spotify.com/artist/5h24ruFrsYkrOrEA6PXq47) | [Old Prophecies](https://open.spotify.com/album/1jo42bHLmo4IPXiPIHxpNP) | 3:14 | 2023-05-05 |  |
 | [On Call](https://open.spotify.com/track/2ql1QG6dYm78woKX6FvA0H) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR) | [On Call](https://open.spotify.com/album/4IqJ3D2b8mujlL8z0aHeEX) | 4:27 | 2023-05-05 |  |
 | [On My Mind](https://open.spotify.com/track/7H7Usg7m2APDrNrzOZXcPH) | [Pomo](https://open.spotify.com/artist/6YtlR8MLfO6azxwOKAvEi3) | [The Other Day](https://open.spotify.com/album/578IDaArIjl31LaVFT3VpM) | 2:27 | 2023-05-05 |  |
-| [On the Fly](https://open.spotify.com/track/2noqFiLZzV5Z50Eyf5AfC3) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 3:02 | 2023-05-05 |  |
+| [On the Fly](https://open.spotify.com/track/2noqFiLZzV5Z50Eyf5AfC3) | [Brendon Moeller](https://open.spotify.com/artist/3V3T5haMWZGfFxqVsAB9oB) | [Cygnus A](https://open.spotify.com/album/0YH8iHF3YgylIRIdlL6bGV) | 3:02 | 2023-05-05 | 2023-07-22 |
 | [On The Pull](https://open.spotify.com/track/6zKrDm8h18jJxPMbMSUGMs) | [Hoboken](https://open.spotify.com/artist/4HARu4hK9xDTdAIao8q8yH) | [On The Pull](https://open.spotify.com/album/5mHSvzcAKCPYR9Nm07SMMW) | 2:35 | 2023-05-26 |  |
 | [On You](https://open.spotify.com/track/3YPCgxtKB2O7A3hTi4BgnT) | [Duckmaw](https://open.spotify.com/artist/4T1LvLyHdDj300MVNb6VyD) | [On You](https://open.spotify.com/album/4ueEYavC1Oasr5tRAPlYxj) | 4:24 | 2023-05-05 | 2023-06-20 |
 | [Original Love](https://open.spotify.com/track/26obskJ2LXxb1kcWs6FUmB) | [Flughof](https://open.spotify.com/artist/3eI7754qHEzf640yHt3MXX) | [Original Love](https://open.spotify.com/album/5ToSCwAk4JI5h6yMI3qzhb) | 3:02 | 2023-05-05 |  |
@@ -188,6 +188,7 @@
 | [Woodmaster](https://open.spotify.com/track/790hZ79j8JYhutdtJFOAWU) | [Petr Serkin](https://open.spotify.com/artist/5ywnDPnFteS7NhVDFfONop) | [Woodmaster](https://open.spotify.com/album/1c1MjLFLnW3piY8wwUjssp) | 5:22 | 2023-05-05 |  |
 | [Xasnas](https://open.spotify.com/track/0mNJT8uGm19Xwbormh0IXa) | [Crisp Nibblets](https://open.spotify.com/artist/1DDHk8crK8M6gY3cVcGtJn) | [Xasnas](https://open.spotify.com/album/4r4k0QLD3W7hlVeFVNROrO) | 2:44 | 2023-05-05 |  |
 | [Yachting](https://open.spotify.com/track/3QVyMXKaLUi0np0VlDXWps) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Yachting / Late Call](https://open.spotify.com/album/50YVlsGB9Pq8cApNnicodI) | 3:09 | 2023-05-05 |  |
+| [You Like Sun](https://open.spotify.com/track/4sk0X4nfFMsMvpvDbC3rmM) | [briqs](https://open.spotify.com/artist/2fimBXXBJgpNOdq7Jk1osw) | [Apes At The Beachclub](https://open.spotify.com/album/4D3k6glS6pDDQyK9ymmom0) | 2:43 | 2023-07-21 |  |
 | [Zellos](https://open.spotify.com/track/5adfcYLs3LlZicwHg4dhRG) | [Sin Valor](https://open.spotify.com/artist/2B1OLa6xn0ZVEB26BD0kku) | [Zellos](https://open.spotify.com/album/6csN1zLPLXVW04XWd2E611) | 2:08 | 2023-05-05 |  |
 
 \*This playlist was first scraped on 2023-05-16. Prior content cannot be recovered.

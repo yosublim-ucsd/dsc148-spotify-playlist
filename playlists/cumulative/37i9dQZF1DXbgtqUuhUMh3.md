@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Balqees
 
-499 songs - 1 day 5 hr 9 min
+500 songs - 1 day 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [3ARI](https://open.spotify.com/track/2DBR3Wrmt3QzdwGYWi3ULi) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [3ARI](https://open.spotify.com/album/7JpbK6ZrdKDRaZfYJI4B6u) | 3:09 | 2022-07-21 | 2023-05-13 |
 | [3ARI](https://open.spotify.com/track/4lyUy5RvVYTQAYWOGcehGA) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [3ARI](https://open.spotify.com/album/0bOC0hLjsOTpfKEkWrNEFv) | 3:09 | 2022-03-10 | 2022-07-28 |
 | [3asal Ya Nas](https://open.spotify.com/track/6N7OyyrRQRMiVaUzDh9RiP) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [3asal Ya Nas](https://open.spotify.com/album/4PukzqTnEoXMAd2VwEooNb) | 3:04 | 2023-01-01 | 2023-05-13 |
-| [3azezy Elakt2ab](https://open.spotify.com/track/7Mg9ZscmtD2zt3OEcyDbsT) | [Nehal Nabil](https://open.spotify.com/artist/2aEck7RNheSctF7Vwdkjyx) | [3azezy Elakt2ab](https://open.spotify.com/album/7BJKAonV5Z0ilcWt3qyLhI) | 3:36 | 2023-05-18 |  |
+| [3azezy Elakt2ab](https://open.spotify.com/track/7Mg9ZscmtD2zt3OEcyDbsT) | [Nehal Nabil](https://open.spotify.com/artist/2aEck7RNheSctF7Vwdkjyx) | [3azezy Elakt2ab](https://open.spotify.com/album/7BJKAonV5Z0ilcWt3qyLhI) | 3:36 | 2023-05-18 | 2023-07-22 |
 | [7alti 7ala](https://open.spotify.com/track/4LWhfDV6erIgAPKDTFsWbZ) | [Tara Salah Moneka](https://open.spotify.com/artist/0Sw2vMYAGpfSHYhYVB5fcZ) | [7alti 7ala](https://open.spotify.com/album/1l9sj2T7Rx4bJxZtykaDQE) | 3:20 | 2021-12-23 | 2022-03-02 |
 | [966](https://open.spotify.com/track/3PflE6uFFthNWVo0kgLUdX) | [Jara](https://open.spotify.com/artist/4zr0ZwGKQPCPVGNOEAQ52U) | [966](https://open.spotify.com/album/2ktaCKF0w3JBw3De5yzbq0) | 3:29 | 2021-12-23 | 2022-10-21 |
 | [9albi](https://open.spotify.com/track/2YqWNr0yAGkQSb7hfUl4ds) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3) | [9albi](https://open.spotify.com/album/4LYxM2TBsO7lXdoagMDLTp) | 2:33 | 2022-03-03 | 2022-11-26 |
@@ -190,6 +190,7 @@
 | [Hetta Tanya](https://open.spotify.com/track/5zn9ZT7dKnRX5fnYvb3loq) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Hetta Tanya](https://open.spotify.com/album/18REYwJulzZfAYpdvUXHtR) | 3:19 | 2022-11-15 | 2023-05-13 |
 | [HEY DJ](https://open.spotify.com/track/2X8XcskW99dzN3ERfRdbLt) | [Sirine Miled](https://open.spotify.com/artist/1i69kloElAsdqtmdP5rru0) | [HEY DJ](https://open.spotify.com/album/2McuhBKRgSGr60FXSHs5GP) | 2:52 | 2021-12-23 | 2022-03-01 |
 | [High](https://open.spotify.com/track/6i6xYs14ViOdffFSBpoBeV) | [Gohary](https://open.spotify.com/artist/0YGskdvcglrOoyXsGbixRn) | [High](https://open.spotify.com/album/0ljHvBxU42OU9opDgWJEcb) | 3:39 | 2021-12-23 | 2022-03-01 |
+| [Hkayat](https://open.spotify.com/track/2i4oVynWtzKOTc8fq9xiyq) | [Chantal Bitar](https://open.spotify.com/artist/6HN34scCFbSWFdHDbGagBM) | [Hkayat](https://open.spotify.com/album/78cWsuCyskPfF9hRtjtOdW) | 3:27 | 2023-07-21 |  |
 | [Hkomt Hob](https://open.spotify.com/track/5hWczJhh8ERWxNHert1egA) | [El Jawhara](https://open.spotify.com/artist/2k5Q8DihfnjhLXPUej8A5l) | [Hkomt Hob](https://open.spotify.com/album/1hlvdo7MrHcC1LImgvNOPX) | 4:32 | 2022-03-08 | 2022-07-29 |
 | [Hnaya](https://open.spotify.com/track/37fxraGklh1llULoyhcFCz) | [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [Hnaya](https://open.spotify.com/album/6gAe8rYARE5foXpzmhT30U) | 3:08 | 2022-03-01 | 2023-03-02 |
 | [Hoba La Ma Khali](https://open.spotify.com/track/6xNB566zvUDyMdSfU3Pw5M) | [Eman Al Amer](https://open.spotify.com/artist/1snAPnlh86ySyIdF73ASLI) | [Hoba La Ma Khali](https://open.spotify.com/album/2mnpMrOUa4Kx1SB7ul6og9) | 2:58 | 2021-12-23 | 2022-03-02 |

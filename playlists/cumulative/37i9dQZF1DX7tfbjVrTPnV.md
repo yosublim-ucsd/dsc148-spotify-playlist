@@ -2,9 +2,9 @@
 
 ### [Americana Icons](https://open.spotify.com/playlist/37i9dQZF1DX7tfbjVrTPnV)
 
-> Enjoy new and classic releases from icons of folk and Americana\. Cover: Bonnie Raitt
+> Enjoy new and classic releases from icons of folk and Americana\. Cover: Lori McKenna
 
-255 songs - 16 hr 20 min
+256 songs - 16 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [Learning How to Live Alone](https://open.spotify.com/track/0KRiKjCsqMRN0Pmp2CFzQK) | [Travis Meadows](https://open.spotify.com/artist/5d2EFS71gAHBeP1KWOBgCA) | [Killin' Uncle Buzzy](https://open.spotify.com/album/3XmWV3KKzHEkV0iZXWSU8l) | 4:06 | 2021-11-11 | 2023-04-30 |
 | [Let's Have A Good Thing Together](https://open.spotify.com/track/0DUwtslFAFipEYffWCRTI9) | [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [I'm A Song](https://open.spotify.com/album/7xiBD9ioPWaRgSZzxz5ht1) | 2:09 | 2022-04-22 |  |
 | [Let's Have a Good Thing Together](https://open.spotify.com/track/0Erb8wHT9YOyi6iYg0JgbB) | [Jim Lauderdale](https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct) | [I'm a Song](https://open.spotify.com/album/28f3FK6jtEB8oICONdPz0z) | 2:09 | 2021-11-11 | 2022-07-28 |
+| [Letting People Down](https://open.spotify.com/track/2pFFjOgqqpNEVSi9ks7xyo) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [1988](https://open.spotify.com/album/2wHfMrmQ08JMxp2i5jCSrm) | 2:56 | 2023-07-21 |  |
 | [Little Black Train](https://open.spotify.com/track/0h5efgEKxT7WqHFeCNj06c) | [Carlene Carter](https://open.spotify.com/artist/2wKZKjNTOtH2vjxIsUBZqY) | [Carter Girl](https://open.spotify.com/album/3ry9GXOwuJUebtjQ0fWY4T) | 2:49 | 2021-11-11 | 2022-07-23 |
 | [Long Time Comin'](https://open.spotify.com/track/4OfCkjpcpqKgr9igYyOSHm) | [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV) | [Terms of My Surrender](https://open.spotify.com/album/5Kl06Gn6TlYxhRr7Qmrr8m) | 4:12 | 2022-04-22 |  |
 | [Long Time Comin'](https://open.spotify.com/track/6j04gYrRaGxS8xXV0qdfSP) | [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV) | [Terms Of My Surrender](https://open.spotify.com/album/3xIszcJYVBLLSkg9weobEu) | 4:12 | 2021-11-11 | 2022-07-29 |
@@ -257,7 +258,7 @@
 | [Wicked](https://open.spotify.com/track/2Djd5Amd2crEuxPJo9m8ho) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [The Lonely, The Lonesome & The Gone](https://open.spotify.com/album/6GCiOsk7Wrlt2CRfcwW8MF) | 4:07 | 2021-11-11 | 2022-07-29 |
 | [Wind Don't Have To Hurry](https://open.spotify.com/track/6PcseJsdPAEBXyY7fAnHEh) | [John Hiatt](https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV) | [Terms Of My Surrender](https://open.spotify.com/album/3xIszcJYVBLLSkg9weobEu) | 3:47 | 2021-11-11 | 2022-07-28 |
 | [You Are My Sunshine \(with Chris Stapleton\)](https://open.spotify.com/track/0JqHPXj2YlV0oIbWleZjDS) | [Morgane Stapleton](https://open.spotify.com/artist/2NMDcLqpSDPcPA3OMitdnX), [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh), [Southern Family](https://open.spotify.com/artist/6AQnRGiSkXiVUvqz9Owe4x) | [Southern Family](https://open.spotify.com/album/2cKzkXbgcoQjaFMCPbJDdi) | 6:13 | 2021-11-11 |  |
-| [You Give it All Away](https://open.spotify.com/track/5xFqksMAUocMpcHM8jKiO8) | [Dar Williams](https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK) | [I'll Meet You Here](https://open.spotify.com/album/2M0mZ8HDBsQtsoJhXgGnbA) | 2:47 | 2021-11-11 |  |
+| [You Give it All Away](https://open.spotify.com/track/5xFqksMAUocMpcHM8jKiO8) | [Dar Williams](https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK) | [I'll Meet You Here](https://open.spotify.com/album/2M0mZ8HDBsQtsoJhXgGnbA) | 2:47 | 2021-11-11 | 2023-07-22 |
 | [You're Everything](https://open.spotify.com/track/7j15tP94x6uPKZFV4rGPz6) | [Robert Cray](https://open.spotify.com/artist/6eMlKSBFAoXVJLoeHmwKEj), [The Robert Cray Band](https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P) | [In My Soul](https://open.spotify.com/album/11Cry7mbcEQqOUGF2zX6Xk) | 6:05 | 2022-04-22 |  |
 | [You're Everything](https://open.spotify.com/track/79kWhk3zteh2VBEkrfEQWC) | [The Robert Cray Band](https://open.spotify.com/artist/6cAtGdArQhrU7tTBoeWY3P) | [In My Soul](https://open.spotify.com/album/0Ac7RpnKTizp6t1iAOOpuH) | 6:05 | 2021-11-11 | 2022-07-29 |
 | [You're So Vain](https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba) | [Carly Simon](https://open.spotify.com/artist/4FtSnMlCVxCswABUmdhwpm) | [No Secrets](https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5) | 4:18 | 2021-11-11 |  |

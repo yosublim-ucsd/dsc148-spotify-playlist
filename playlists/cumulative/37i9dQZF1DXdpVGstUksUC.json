@@ -419,6 +419,24 @@
     },
     {
       "album": {
+        "name": "Beneath The Rose",
+        "url": "https://open.spotify.com/album/4Eh3hjnutq067J48Amq43k"
+      },
+      "artists": [
+        {
+          "name": "Baroness",
+          "url": "https://open.spotify.com/artist/3KdXhEwbqFHfNfSk7L9E87"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334306,
+      "name": "Beneath the Rose",
+      "url": "https://open.spotify.com/track/7iN8jg39Hq4SUmFhHWVqXS"
+    },
+    {
+      "album": {
         "name": "Through The Eyes Of Heathens",
         "url": "https://open.spotify.com/album/4AAhTWvtI6lxoFXwLgSVkc"
       },
@@ -668,6 +686,24 @@
       "duration_ms": 424000,
       "name": "Bury Me in Smoke",
       "url": "https://open.spotify.com/track/6raRCdd8RoWvtBpzhJ1CJb"
+    },
+    {
+      "album": {
+        "name": "Cabin Fever",
+        "url": "https://open.spotify.com/album/2TIydCgadhiyrlzSM3989s"
+      },
+      "artists": [
+        {
+          "name": "Slomosa",
+          "url": "https://open.spotify.com/artist/0l7GXb53ndWn97ul8Hpfzd"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317033,
+      "name": "Cabin Fever",
+      "url": "https://open.spotify.com/track/4lmnpR0Z7kc7ktKOwlPFsi"
     },
     {
       "album": {
@@ -3634,7 +3670,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 315626,
       "name": "Rollercoaster",
       "url": "https://open.spotify.com/track/1ffTuRRrqqiDG0T1CPJse8"
@@ -3922,7 +3958,7 @@
       ],
       "date_added": "2023-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 221033,
       "name": "Slaughter Beach",
       "url": "https://open.spotify.com/track/4hZwv69zyXmgipXqFyr7IJ"

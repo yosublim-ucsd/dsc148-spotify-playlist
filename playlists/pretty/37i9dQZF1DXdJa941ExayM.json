@@ -1,12 +1,12 @@
 {
   "description": "maybe it's punk, maybe it's not. Cover: FEVER 333",
-  "num_followers": 207695,
+  "num_followers": 207791,
   "original_name": "unleashed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWMwNzM5ZmIyZmMzOTgwOTY2MWYxYWQyOTJmZTU1ZGUzMzVkYmNi",
+  "snapshot_id": "MCxjNGE0ZDAxNGVjNWY3MWYxN2E1NDVjMzA2YmE1Mzk0MjQ4NjUwY2M0",
   "tracks": [
     {
       "added_at": "2023-06-02 15:50:28",
@@ -375,22 +375,6 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
-        "name": "LP!",
-        "url": "https://open.spotify.com/album/4inXqcdjG79gV4m2mU8dQh"
-      },
-      "artists": [
-        {
-          "name": "JPEGMAFIA",
-          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
-        }
-      ],
-      "duration_ms": 115044,
-      "name": "END CREDITS!",
-      "url": "https://open.spotify.com/track/5CPC6pA58SIDKwyje76vBR"
-    },
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
         "name": "Flux",
         "url": "https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC"
       },
@@ -407,18 +391,38 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
-        "name": "old dog, new tricks",
-        "url": "https://open.spotify.com/album/0nP4cdE33prgKeTaqNM0g8"
+        "name": "LP!",
+        "url": "https://open.spotify.com/album/4inXqcdjG79gV4m2mU8dQh"
       },
       "artists": [
         {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
         }
       ],
-      "duration_ms": 121604,
-      "name": "walking around with no hands",
-      "url": "https://open.spotify.com/track/26ZGLRIOtKcio6vF5ZVVd1"
+      "duration_ms": 115044,
+      "name": "END CREDITS!",
+      "url": "https://open.spotify.com/track/5CPC6pA58SIDKwyje76vBR"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
+        "name": "cyanide (feat. cryogeyser)",
+        "url": "https://open.spotify.com/album/2ALEWsC4scA4LiMxkJKjDi"
+      },
+      "artists": [
+        {
+          "name": "Paris Texas",
+          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
+        },
+        {
+          "name": "Cryogeyser",
+          "url": "https://open.spotify.com/artist/3BORonJcAjc2wbSv1DXbTZ"
+        }
+      ],
+      "duration_ms": 125389,
+      "name": "cyanide (feat. cryogeyser)",
+      "url": "https://open.spotify.com/track/4NR3USATEkmZv1erpa33Gx"
     },
     {
       "added_at": "2023-06-02 15:50:28",
@@ -443,22 +447,18 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
-        "name": "cyanide (feat. cryogeyser)",
-        "url": "https://open.spotify.com/album/2ALEWsC4scA4LiMxkJKjDi"
+        "name": "old dog, new tricks",
+        "url": "https://open.spotify.com/album/0nP4cdE33prgKeTaqNM0g8"
       },
       "artists": [
         {
-          "name": "Paris Texas",
-          "url": "https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq"
-        },
-        {
-          "name": "Cryogeyser",
-          "url": "https://open.spotify.com/artist/3BORonJcAjc2wbSv1DXbTZ"
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
         }
       ],
-      "duration_ms": 125389,
-      "name": "cyanide (feat. cryogeyser)",
-      "url": "https://open.spotify.com/track/4NR3USATEkmZv1erpa33Gx"
+      "duration_ms": 121604,
+      "name": "walking around with no hands",
+      "url": "https://open.spotify.com/track/26ZGLRIOtKcio6vF5ZVVd1"
     },
     {
       "added_at": "2023-06-02 15:50:28",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
+        "name": "Between the Richness",
+        "url": "https://open.spotify.com/album/64nJrI2yp3eCST6qjNAgPG"
+      },
+      "artists": [
+        {
+          "name": "Fiddlehead",
+          "url": "https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa"
+        }
+      ],
+      "duration_ms": 133211,
+      "name": "Loverman",
+      "url": "https://open.spotify.com/track/5zxqk9zM1cQ0PFz0fB031o"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
         "name": "The Reckoning",
         "url": "https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 171842,
       "name": "THREE HEADS*",
       "url": "https://open.spotify.com/track/4apXjryIqMFUdOjWMM6zZp"
-    },
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
-        "name": "Between the Richness",
-        "url": "https://open.spotify.com/album/64nJrI2yp3eCST6qjNAgPG"
-      },
-      "artists": [
-        {
-          "name": "Fiddlehead",
-          "url": "https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa"
-        }
-      ],
-      "duration_ms": 133211,
-      "name": "Loverman",
-      "url": "https://open.spotify.com/track/5zxqk9zM1cQ0PFz0fB031o"
     },
     {
       "added_at": "2023-06-02 15:50:28",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
+        "name": "Telephones 4 Eyes",
+        "url": "https://open.spotify.com/album/2MVGRJl2Yqaz2hqWPRfcZa"
+      },
+      "artists": [
+        {
+          "name": "Hak Baker",
+          "url": "https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j"
+        }
+      ],
+      "duration_ms": 189680,
+      "name": "Telephones 4 Eyes",
+      "url": "https://open.spotify.com/track/5ekvvfG6BvA4Jojm6Brpor"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
         "name": "Can't Let Go",
         "url": "https://open.spotify.com/album/30VYWmoettEwWALvhzaUUw"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 138240,
       "name": "Can't Let Go",
       "url": "https://open.spotify.com/track/2wX9CK19EnFzWUwxcQN54n"
-    },
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
-        "name": "Telephones 4 Eyes",
-        "url": "https://open.spotify.com/album/2MVGRJl2Yqaz2hqWPRfcZa"
-      },
-      "artists": [
-        {
-          "name": "Hak Baker",
-          "url": "https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j"
-        }
-      ],
-      "duration_ms": 189680,
-      "name": "Telephones 4 Eyes",
-      "url": "https://open.spotify.com/track/5ekvvfG6BvA4Jojm6Brpor"
     },
     {
       "added_at": "2023-06-02 15:50:28",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
+        "name": "Flux",
+        "url": "https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC"
+      },
+      "artists": [
+        {
+          "name": "Poppy",
+          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+        }
+      ],
+      "duration_ms": 230188,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/1h1R6w7C5PTYO5spKVvgJm"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
         "name": "Leaders",
         "url": "https://open.spotify.com/album/2JfGV0vp2gyuFpLvaybxHd"
       },
@@ -911,18 +927,18 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
-        "name": "Flux",
-        "url": "https://open.spotify.com/album/2rnbGp9o1lJ0T77RBU1bCC"
+        "name": "Leather",
+        "url": "https://open.spotify.com/album/1zomrGI2LeCPKzxfS5eN4x"
       },
       "artists": [
         {
-          "name": "Poppy",
-          "url": "https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv"
+          "name": "Talk Show",
+          "url": "https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3"
         }
       ],
-      "duration_ms": 230188,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/1h1R6w7C5PTYO5spKVvgJm"
+      "duration_ms": 260506,
+      "name": "Leather",
+      "url": "https://open.spotify.com/track/4lj9sAmb00T1JloLEsQaGl"
     },
     {
       "added_at": "2023-06-02 15:50:28",
@@ -939,22 +955,6 @@
       "duration_ms": 170200,
       "name": "Daylight Robbery",
       "url": "https://open.spotify.com/track/4nlP649wAY4jW7HwfJABWT"
-    },
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
-        "name": "Leather",
-        "url": "https://open.spotify.com/album/1zomrGI2LeCPKzxfS5eN4x"
-      },
-      "artists": [
-        {
-          "name": "Talk Show",
-          "url": "https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3"
-        }
-      ],
-      "duration_ms": 260506,
-      "name": "Leather",
-      "url": "https://open.spotify.com/track/4lj9sAmb00T1JloLEsQaGl"
     },
     {
       "added_at": "2023-06-02 15:50:28",
@@ -991,18 +991,18 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
-        "name": "Leash",
-        "url": "https://open.spotify.com/album/64AMVMXHrAas7rK3PDaayQ"
+        "name": "Comfort To Me",
+        "url": "https://open.spotify.com/album/1zAAQOVEfxCNmtPDtbLC9c"
       },
       "artists": [
         {
-          "name": "Berry Galazka",
-          "url": "https://open.spotify.com/artist/7mFqFwW9MO8lR3c28qLUFI"
+          "name": "Amyl and The Sniffers",
+          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
         }
       ],
-      "duration_ms": 162193,
-      "name": "Leash",
-      "url": "https://open.spotify.com/track/2Ev8YPIWMPVcBuMWXN7G75"
+      "duration_ms": 227600,
+      "name": "Security",
+      "url": "https://open.spotify.com/track/2MYFQY0BKWPdgqnIYses9T"
     },
     {
       "added_at": "2023-06-02 15:50:28",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
+        "name": "Leash",
+        "url": "https://open.spotify.com/album/64AMVMXHrAas7rK3PDaayQ"
+      },
+      "artists": [
+        {
+          "name": "Berry Galazka",
+          "url": "https://open.spotify.com/artist/7mFqFwW9MO8lR3c28qLUFI"
+        }
+      ],
+      "duration_ms": 162193,
+      "name": "Leash",
+      "url": "https://open.spotify.com/track/2Ev8YPIWMPVcBuMWXN7G75"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
         "name": "BACKSTAB",
         "url": "https://open.spotify.com/album/0dWSo4FLmRGBRUsPqHOafN"
       },
@@ -1087,22 +1103,6 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
-        "name": "softCORE",
-        "url": "https://open.spotify.com/album/0iv5fjooZ7WR2FvmxKwDER"
-      },
-      "artists": [
-        {
-          "name": "Foushe\u00e9",
-          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
-        }
-      ],
-      "duration_ms": 150813,
-      "name": "bored",
-      "url": "https://open.spotify.com/track/5Y3JG4ksAoLnFyRxDvvwis"
-    },
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
         "name": "grim value",
         "url": "https://open.spotify.com/album/63se1zqIgvcKzzOfqIbR8m"
       },
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
-        "name": "Comfort To Me",
-        "url": "https://open.spotify.com/album/1zAAQOVEfxCNmtPDtbLC9c"
+        "name": "softCORE",
+        "url": "https://open.spotify.com/album/0iv5fjooZ7WR2FvmxKwDER"
       },
       "artists": [
         {
-          "name": "Amyl and The Sniffers",
-          "url": "https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7"
+          "name": "Foushe\u00e9",
+          "url": "https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH"
         }
       ],
-      "duration_ms": 227600,
-      "name": "Security",
-      "url": "https://open.spotify.com/track/2MYFQY0BKWPdgqnIYses9T"
+      "duration_ms": 150813,
+      "name": "bored",
+      "url": "https://open.spotify.com/track/5Y3JG4ksAoLnFyRxDvvwis"
     },
     {
       "added_at": "2023-06-02 15:50:28",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
+        "name": "ATTENTION!",
+        "url": "https://open.spotify.com/album/7zM6DDsuOyzy85DMg6Ktfh"
+      },
+      "artists": [
+        {
+          "name": "WHOKILLEDXIX",
+          "url": "https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3"
+        }
+      ],
+      "duration_ms": 161697,
+      "name": "ATTENTION!",
+      "url": "https://open.spotify.com/track/5w4nlSCMfNT2TdopSd0Lmu"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
         "name": "just in case the world ends (deluxe edition)",
         "url": "https://open.spotify.com/album/4IML4pQ6aDgViRY1RW139y"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 134385,
       "name": "TEEN POP SENSATION",
       "url": "https://open.spotify.com/track/01BgUiNgDvBfwDizRm4qnp"
-    },
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
-        "name": "ATTENTION!",
-        "url": "https://open.spotify.com/album/7zM6DDsuOyzy85DMg6Ktfh"
-      },
-      "artists": [
-        {
-          "name": "WHOKILLEDXIX",
-          "url": "https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3"
-        }
-      ],
-      "duration_ms": 161697,
-      "name": "ATTENTION!",
-      "url": "https://open.spotify.com/track/5w4nlSCMfNT2TdopSd0Lmu"
     },
     {
       "added_at": "2023-06-02 15:50:28",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
+        "name": "Fight Alone",
+        "url": "https://open.spotify.com/album/6C1DNopbfI128o0pc2iahx"
+      },
+      "artists": [
+        {
+          "name": "Motive Black",
+          "url": "https://open.spotify.com/artist/1cCTbyI3umMlxOoqjt7uDw"
+        }
+      ],
+      "duration_ms": 220333,
+      "name": "Fight Alone",
+      "url": "https://open.spotify.com/track/3zMFgPNhMu2Em1E4HvNcqw"
+    },
+    {
+      "added_at": "2023-06-02 15:50:28",
+      "album": {
         "name": "Lonely Army",
         "url": "https://open.spotify.com/album/0DWeHnaTkA53xK43mJKfu8"
       },
@@ -1331,34 +1347,22 @@
     {
       "added_at": "2023-06-02 15:50:28",
       "album": {
-        "name": "for a reason",
-        "url": "https://open.spotify.com/album/3kZ0FQQ6Wi46hp6TKDT389"
+        "name": "LOGGERHEAD",
+        "url": "https://open.spotify.com/album/346cEAiUJrCcj2ddihbTAV"
       },
       "artists": [
         {
-          "name": "plxntkid",
-          "url": "https://open.spotify.com/artist/18Slf2vmL64UBt4TTU9cHY"
-        }
-      ],
-      "duration_ms": 135470,
-      "name": "for a reason",
-      "url": "https://open.spotify.com/track/10pjqdHFr1ZjO5nrU6Crwz"
-    },
-    {
-      "added_at": "2023-06-02 15:50:28",
-      "album": {
-        "name": "You Are a Runner and I Am My Father's Son",
-        "url": "https://open.spotify.com/album/2LAC5rux87C29bv8vuhEgj"
-      },
-      "artists": [
+          "name": "Wu-Lu",
+          "url": "https://open.spotify.com/artist/5yRolHpTcDas7KX7KiH6Wd"
+        },
         {
-          "name": "Porridge Radio",
-          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
+          "name": "Asha Lorenz",
+          "url": "https://open.spotify.com/artist/6W2HXxZcdhtB9P2Njxm3aX"
         }
       ],
-      "duration_ms": 255535,
-      "name": "New Slang",
-      "url": "https://open.spotify.com/track/1sRjSllwLDh0xHgZCywXmf"
+      "duration_ms": 220290,
+      "name": "Night Pill",
+      "url": "https://open.spotify.com/track/6M9YPsfizSSymcQCFUTlHz"
     }
   ],
   "unique_name": "unleashed",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring La Clase Loka\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,335 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,347 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,32 +31,32 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 21 | [Relinda](https://open.spotify.com/track/3f3vKpAxjOdEouwzp0VfDZ) | [Jose Villasenor](https://open.spotify.com/artist/6QEWBOQE8sY6aFA06i5ZMS) | [Relinda](https://open.spotify.com/album/6gzoZ2Gn31jXrcWlKO6J14) | 2:33 |
 | 22 | [Magia](https://open.spotify.com/track/32T7ksMVIF7pgYLgu5dpPr) | [RoseAngel](https://open.spotify.com/artist/2EWmW3xXoh1Y1R80p6zfjY) | [Magia](https://open.spotify.com/album/2H1XMncMGkoF3IRwh3i9OE) | 3:33 |
 | 23 | [MÁQUINA CULONA](https://open.spotify.com/track/5tBNafAkXWrLDQa8SOeat9) | [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [MÁQUINA CULONA](https://open.spotify.com/album/6rceA1LV2503KinfXAGF1v) | 3:12 |
-| 24 | [A Tu Lado](https://open.spotify.com/track/4VWjRBUprkEmgl9UuJxWR6) | [Edgar Alejandro](https://open.spotify.com/artist/2bCTVmSdXV1fwUmt2qpkri) | [A Tu Lado](https://open.spotify.com/album/7CIMcgqQBV2snPkWfJ3IZb) | 2:44 |
-| 25 | [Velocidad Crucero](https://open.spotify.com/track/3r1cIjl8iCoLYNK2XBr9zU) | [Puebla](https://open.spotify.com/artist/1PqKs6dNaJFy6qNgXEVCpm), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Velocidad Crucero](https://open.spotify.com/album/4Vk35EIEu45hRtoGEmq8e1) | 3:52 |
+| 24 | [Velocidad Crucero](https://open.spotify.com/track/3r1cIjl8iCoLYNK2XBr9zU) | [Puebla](https://open.spotify.com/artist/1PqKs6dNaJFy6qNgXEVCpm), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Velocidad Crucero](https://open.spotify.com/album/4Vk35EIEu45hRtoGEmq8e1) | 3:52 |
+| 25 | [A Tu Lado](https://open.spotify.com/track/4VWjRBUprkEmgl9UuJxWR6) | [Edgar Alejandro](https://open.spotify.com/artist/2bCTVmSdXV1fwUmt2qpkri) | [A Tu Lado](https://open.spotify.com/album/7CIMcgqQBV2snPkWfJ3IZb) | 2:44 |
 | 26 | [Terciopelo](https://open.spotify.com/track/3BfkRtP5fDcHa9ebwIaGMY) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT) | [Terciopelo](https://open.spotify.com/album/5ts7xYpW6igFn8lD1RYI9t) | 2:58 |
 | 27 | [Amores De Colores](https://open.spotify.com/track/6JiKdKOTGtgatt1obe5cIE) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Veraneras](https://open.spotify.com/album/3BcXlbfEI0L2Ll45yBzSMO) | 3:05 |
 | 28 | [Tommy Bahama](https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9) | [Sebimor](https://open.spotify.com/artist/6p1OHsaiF7V8qCu80f9ROH) | [Tommy Bahama](https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW) | 3:49 |
 | 29 | [MENSAJE ARCHIVADO](https://open.spotify.com/track/5JppEkq4S617HpJYZ19euu) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF) | [MENSAJE ARCHIVADO](https://open.spotify.com/album/24X9sLIjfd2oGZPgLmwGWh) | 2:59 |
 | 30 | [Media Luna](https://open.spotify.com/track/7CGKC2OL5jBy33fKDH5u5f) | [ØMG](https://open.spotify.com/artist/4LJ2wv8SaZZe50hYvpubP8) | [333](https://open.spotify.com/album/4z6cXeCAxqXOFZRXHLIUmj) | 2:46 |
-| 31 | [Si Te Quedas](https://open.spotify.com/track/2GS3KILurD7wWGJJSJZfss) | [YoGambii](https://open.spotify.com/artist/5RuWFvTN5tmKqn0KUfNruD) | [Si Te Quedas](https://open.spotify.com/album/3VqB0J3qwiUbBFtT8IPdvT) | 2:09 |
+| 31 | [Encadenados](https://open.spotify.com/track/7E2tioPhEkj7BjmIqsa5LM) | [The Soul Brothers](https://open.spotify.com/artist/4qyyx2In3fnMlPjQBfppNn) | [Encadenados](https://open.spotify.com/album/4ctyfYDZy5hm3oaiwBYvJo) | 7:24 |
 | 32 | [Tiempo Al Tiempo](https://open.spotify.com/track/7LS9HE5QzpUk2QohfrJ4Jz) | [Fukin Keno](https://open.spotify.com/artist/7J72RGmvNnos8DqvLVGg9q) | [Tiempo Al Tiempo](https://open.spotify.com/album/7mPEIFAx8WFig83SEqY5z5) | 2:24 |
 | 33 | [Olvidé Olvidarnos](https://open.spotify.com/track/7mNkhBTpvXAqv8cj8fCDKh) | [Cempasúchil](https://open.spotify.com/artist/64mAC41dkGStdl5Fb9y5TJ) | [Olvidé Olvidarnos](https://open.spotify.com/album/2xOdlPA6ZXCt5JOiecotNa) | 3:08 |
-| 34 | [Encadenados](https://open.spotify.com/track/7E2tioPhEkj7BjmIqsa5LM) | [The Soul Brothers](https://open.spotify.com/artist/4qyyx2In3fnMlPjQBfppNn) | [Encadenados](https://open.spotify.com/album/4ctyfYDZy5hm3oaiwBYvJo) | 7:24 |
+| 34 | [Si Te Quedas](https://open.spotify.com/track/2GS3KILurD7wWGJJSJZfss) | [YoGambii](https://open.spotify.com/artist/5RuWFvTN5tmKqn0KUfNruD) | [Si Te Quedas](https://open.spotify.com/album/3VqB0J3qwiUbBFtT8IPdvT) | 2:09 |
 | 35 | [Anoche](https://open.spotify.com/track/5dfBBAXwRXV4ZcgUG05FbV) | [Sueters](https://open.spotify.com/artist/6ZwMCBDg17a0DkCUUg36Lr) | [Anoche](https://open.spotify.com/album/4LpkrvNC4WiTomdX071ndr) | 3:36 |
-| 36 | [El Momento](https://open.spotify.com/track/5ivRdJj7OXU78k4e3nbknX) | [Lady Ant](https://open.spotify.com/artist/5xNT61iNuxz65g5rnhL7yZ) | [El Momento](https://open.spotify.com/album/31GPiBCGfapGfkc1pHPbic) | 3:23 |
-| 37 | [Casualidad](https://open.spotify.com/track/3qs4Pq7AwvrYhddiLUmUtJ) | [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [Casualidad](https://open.spotify.com/album/5NmrgtARnyTFbmgTxoGhki) | 2:48 |
+| 36 | [Casualidad](https://open.spotify.com/track/3qs4Pq7AwvrYhddiLUmUtJ) | [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [Casualidad](https://open.spotify.com/album/5NmrgtARnyTFbmgTxoGhki) | 2:48 |
+| 37 | [El Momento](https://open.spotify.com/track/5ivRdJj7OXU78k4e3nbknX) | [Lady Ant](https://open.spotify.com/artist/5xNT61iNuxz65g5rnhL7yZ) | [El Momento](https://open.spotify.com/album/31GPiBCGfapGfkc1pHPbic) | 3:23 |
 | 38 | [Nunca Estás](https://open.spotify.com/track/7ee2A2K4DG3Kgyt1kLYYQ4) | [Blue Saint Pablo](https://open.spotify.com/artist/1eaKDGZ4yH4nodRfwcnXrI), [uPSEt](https://open.spotify.com/artist/2xGh1v4U7auVlcWYewwHlI) | [Nunca Estás](https://open.spotify.com/album/4wCUvlPxruaWUbsevr9xEx) | 2:52 |
-| 39 | [mala](https://open.spotify.com/track/0NizLHiBid5U3tEdcfMD1b) | [carla martinez](https://open.spotify.com/artist/61boNdzdBfHexUTjbd1mrg) | [mala](https://open.spotify.com/album/3fV24ioWRPE5jfTlwhZiLj) | 3:26 |
-| 40 | [VELOCIDAD](https://open.spotify.com/track/77vznWJnp6jYri1l9qHb9D) | [RedLivah](https://open.spotify.com/artist/5xIJUBPCV72HC9aUjiNZX8), [GodBle$$](https://open.spotify.com/artist/34gWDiqInitijQzZsKjKdd) | [VELOCIDAD](https://open.spotify.com/album/3e8hAQPd2hDihjqz7vpiuN) | 1:59 |
-| 41 | [Perdí Tu Num :\(](https://open.spotify.com/track/2u7QYQ7rot9OWjJeaVubIu) | [Mørfy](https://open.spotify.com/artist/3xz62lFU8IOTCAwVXngADr) | [Perdí Tu Num :\(](https://open.spotify.com/album/5eqaPXb3m0F3YvecBxmo3k) | 2:42 |
-| 42 | [Déjame Contarte](https://open.spotify.com/track/5zGsC5MNKxkHoN2gmv32vt) | [Dariana López](https://open.spotify.com/artist/2Sji5jFULGdEMRZj5RonoR) | [Déjame Contarte](https://open.spotify.com/album/5UZtHAjFU93SIvHyhatIuz) | 3:52 |
+| 39 | [VELOCIDAD](https://open.spotify.com/track/77vznWJnp6jYri1l9qHb9D) | [RedLivah](https://open.spotify.com/artist/5xIJUBPCV72HC9aUjiNZX8), [GodBle$$](https://open.spotify.com/artist/34gWDiqInitijQzZsKjKdd) | [VELOCIDAD](https://open.spotify.com/album/3e8hAQPd2hDihjqz7vpiuN) | 1:59 |
+| 40 | [mala](https://open.spotify.com/track/0NizLHiBid5U3tEdcfMD1b) | [carla martinez](https://open.spotify.com/artist/61boNdzdBfHexUTjbd1mrg) | [mala](https://open.spotify.com/album/3fV24ioWRPE5jfTlwhZiLj) | 3:26 |
+| 41 | [Déjame Contarte](https://open.spotify.com/track/5zGsC5MNKxkHoN2gmv32vt) | [Dariana López](https://open.spotify.com/artist/2Sji5jFULGdEMRZj5RonoR) | [Déjame Contarte](https://open.spotify.com/album/5UZtHAjFU93SIvHyhatIuz) | 3:52 |
+| 42 | [Perdí Tu Num :\(](https://open.spotify.com/track/2u7QYQ7rot9OWjJeaVubIu) | [Mørfy](https://open.spotify.com/artist/3xz62lFU8IOTCAwVXngADr) | [Perdí Tu Num :\(](https://open.spotify.com/album/5eqaPXb3m0F3YvecBxmo3k) | 2:42 |
 | 43 | [Give Me Something](https://open.spotify.com/track/7pGHixdora3JTMy3vUZS91) | [francisco](https://open.spotify.com/artist/1EqvieKNEUPM45aX52ZT9o) | [Give Me Something](https://open.spotify.com/album/1t4hRCFUwvDxntg3Si9ZXA) | 3:14 |
-| 44 | [VIP](https://open.spotify.com/track/5mUa1V9AT1VnB79xCfS1vw) | [Los Domblas](https://open.spotify.com/artist/0WINk6xD44J14kJGjyt02P) | [VIP](https://open.spotify.com/album/5MdKIHQ88sc6bt4ltzVZ5w) | 2:26 |
-| 45 | [Muérete.](https://open.spotify.com/track/46pSBPlTJOZooaXUzxxVZu) | [Manda](https://open.spotify.com/artist/6qoRJ8ch8quJZ7Xyite5Fd) | [Mi Subconsciente](https://open.spotify.com/album/79j0MBfIXuia06vJ2q5bzz) | 2:03 |
+| 44 | [Muérete.](https://open.spotify.com/track/46pSBPlTJOZooaXUzxxVZu) | [Manda](https://open.spotify.com/artist/6qoRJ8ch8quJZ7Xyite5Fd) | [Mi Subconsciente](https://open.spotify.com/album/79j0MBfIXuia06vJ2q5bzz) | 2:03 |
+| 45 | [VIP](https://open.spotify.com/track/5mUa1V9AT1VnB79xCfS1vw) | [Los Domblas](https://open.spotify.com/artist/0WINk6xD44J14kJGjyt02P) | [VIP](https://open.spotify.com/album/5MdKIHQ88sc6bt4ltzVZ5w) | 2:26 |
 | 46 | [Los 90's](https://open.spotify.com/track/4aT1GQFFUwTgG3lPyM0BsM) | [Alita Jugosita](https://open.spotify.com/artist/11CQZXyjJiI16TPWJmzS8Y) | [Los 90's](https://open.spotify.com/album/5BeFEFkNbndxCLF9DNc2US) | 2:09 |
 | 47 | [Solo](https://open.spotify.com/track/745udrWtQKlcBgHFjYoKxs) | [Zenith](https://open.spotify.com/artist/4Y7t4ZD6nXgdGdzk6hFey4) | [Solo](https://open.spotify.com/album/415hnXDwNJyWqABEhpOCuS) | 3:53 |
-| 48 | [una y diez](https://open.spotify.com/track/5wuSHFYAS3kmPZBeWjts0v) | [LUANDA](https://open.spotify.com/artist/4uafDYiyPmfiBC9XJPxtsp) | [una y diez](https://open.spotify.com/album/3qUSxcib4jTzSGR2BFGRqa) | 2:39 |
-| 49 | [Escape](https://open.spotify.com/track/3scSdbvxyctahSceRXEqwJ) | [Chasing Nomads](https://open.spotify.com/artist/0zUgSPBFy9wuiq3Dcu0Qlb) | [Escape](https://open.spotify.com/album/4D6IpxlTYOy9Ttha3ooLwK) | 2:56 |
+| 48 | [Escape](https://open.spotify.com/track/3scSdbvxyctahSceRXEqwJ) | [Chasing Nomads](https://open.spotify.com/artist/0zUgSPBFy9wuiq3Dcu0Qlb) | [Escape](https://open.spotify.com/album/4D6IpxlTYOy9Ttha3ooLwK) | 2:56 |
+| 49 | [una y diez](https://open.spotify.com/track/5wuSHFYAS3kmPZBeWjts0v) | [LUANDA](https://open.spotify.com/artist/4uafDYiyPmfiBC9XJPxtsp) | [una y diez](https://open.spotify.com/album/3qUSxcib4jTzSGR2BFGRqa) | 2:39 |
 | 50 | [VAPOREON.mp3](https://open.spotify.com/track/7nxhYPFor2yKZQH7LTbCd5) | [ZOMBI3X](https://open.spotify.com/artist/69ibXoT30zlJBV5b3NMtIf), [RIIP DIEGO](https://open.spotify.com/artist/6faQ0OraxrYdQotaRRgoFS), [Oskan](https://open.spotify.com/artist/2xoCPQQ8DkXM9snPiO1f40), [Loztt](https://open.spotify.com/artist/1X6549jfWP5mOzXH6aPvdX), [Konyu](https://open.spotify.com/artist/4ev84wnlNd7LEjovGmG0fA) | [VAPOREON.mp3](https://open.spotify.com/album/1T59ousWzvRAixEZIgSogz) | 3:40 |
 
-Snapshot ID: `MCw3Y2ViY2M5OTgyNWFhMWVhNTFmMzNjMmVlNjVmZGMwOGRmNzA4YTk4`
+Snapshot ID: `MCw2ZGE3ZTA5MjRkNDYwZGRjZTEzMWEyYjVjYjAxYTc2ZmEwY2E0YzQx`

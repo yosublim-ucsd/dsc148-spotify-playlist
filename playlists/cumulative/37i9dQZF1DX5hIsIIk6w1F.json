@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Este Flow tiene otro Flow. Foto: Gino Mella.",
+  "description": "Este Flow tiene otro Flow. Foto: El Jordan 23.",
   "name": "Reggaet\u00f3n Chileno",
   "tracks": [
     {
@@ -260,7 +260,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 160776,
       "name": "A Toa",
       "url": "https://open.spotify.com/track/4Saf2YVGuBkjrFjLwjKmhn"
@@ -1685,6 +1685,28 @@
     },
     {
       "album": {
+        "name": "C\u00f3mo T\u00fa Est\u00e1s",
+        "url": "https://open.spotify.com/album/72PoGVtpkD4Qq1O4sqo3qS"
+      },
+      "artists": [
+        {
+          "name": "Benji La Maldita Escritura De Oro",
+          "url": "https://open.spotify.com/artist/2H5XfIuAQCXmaIDm7vcViA"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219587,
+      "name": "C\u00f3mo T\u00fa Est\u00e1s",
+      "url": "https://open.spotify.com/track/4toc5AJfDOkRRk1Qxg8tnV"
+    },
+    {
+      "album": {
         "name": "Dale Corte 2",
         "url": "https://open.spotify.com/album/5642dmT1KELpZJYAwG63mP"
       },
@@ -1848,6 +1870,24 @@
       "duration_ms": 215172,
       "name": "Decia Que Era Mia",
       "url": "https://open.spotify.com/track/34Of8oS43EKVkacxfY2IvW"
+    },
+    {
+      "album": {
+        "name": "DEJA TU SHOW",
+        "url": "https://open.spotify.com/album/3DCIaAZtRrAlytdhtnRIZB"
+      },
+      "artists": [
+        {
+          "name": "Dainesitta",
+          "url": "https://open.spotify.com/artist/4jUVJzcthHyWbl6IwK5EOl"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209361,
+      "name": "DEJA TU SHOW",
+      "url": "https://open.spotify.com/track/0i8fA0gCDnHbAeBpdcTpV0"
     },
     {
       "album": {
@@ -2406,7 +2446,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 194666,
       "name": "Eres Mala",
       "url": "https://open.spotify.com/track/4g8LCob8ZndoB8td9WVns6"
@@ -3266,7 +3306,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 278000,
       "name": "HABLA",
       "url": "https://open.spotify.com/track/0eD8HwEktgTG5ZOeUxyCUx"
@@ -3700,7 +3740,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 265161,
       "name": "Kela Toke (feat. Marcianeke, ITHAN NY) - Remix",
       "url": "https://open.spotify.com/track/2yZSdvXINjbXtn382oU3tp"
@@ -4632,6 +4672,32 @@
       "duration_ms": 214883,
       "name": "Maldita HP",
       "url": "https://open.spotify.com/track/53DjXmbgvnes90zUcQVRrT"
+    },
+    {
+      "album": {
+        "name": "Mami Yo Soy de la Calle",
+        "url": "https://open.spotify.com/album/3p7lLi6SdPRkwQtfSdhlou"
+      },
+      "artists": [
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        },
+        {
+          "name": "Il Nene De Oro",
+          "url": "https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T"
+        },
+        {
+          "name": "Abraham Wayne",
+          "url": "https://open.spotify.com/artist/72mrMoRnOdPYVJfcoBdV8Z"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173880,
+      "name": "Mami Yo Soy de la Calle",
+      "url": "https://open.spotify.com/track/3xRRLvwdWLg9fF52c4fA20"
     },
     {
       "album": {
@@ -5614,7 +5680,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 226464,
       "name": "MOOD",
       "url": "https://open.spotify.com/track/3Ibia40It7oyxEWOiP1h6j"
@@ -5662,6 +5728,52 @@
       "duration_ms": 200653,
       "name": "Morena Cachetona",
       "url": "https://open.spotify.com/track/7er0ansHqESONRdGQGnDwk"
+    },
+    {
+      "album": {
+        "name": "Morena Cachetona (Remix)",
+        "url": "https://open.spotify.com/album/0C8TTlq6vhpaJeJWez7CHv"
+      },
+      "artists": [
+        {
+          "name": "JOSEPE EL DEMENTE",
+          "url": "https://open.spotify.com/artist/6t90cfIUQ39eOTksTUE0zc"
+        },
+        {
+          "name": "Sayian Jimmy",
+          "url": "https://open.spotify.com/artist/3ZfYo6sKskRv0wOyrZZdAj"
+        },
+        {
+          "name": "Jairo Vera",
+          "url": "https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc"
+        },
+        {
+          "name": "Gabo El Chamaquito",
+          "url": "https://open.spotify.com/artist/6Fz1LTRJ7RAuUf1CRSN3dU"
+        },
+        {
+          "name": "Nysix Music",
+          "url": "https://open.spotify.com/artist/5v0eLOwGUJuH1lvPSzw0xD"
+        },
+        {
+          "name": "El Goldo De Las Conec",
+          "url": "https://open.spotify.com/artist/3TcTm7AGTlIJys8Wh7QzBr"
+        },
+        {
+          "name": "Gringuitos Records",
+          "url": "https://open.spotify.com/artist/5AYSnRNynWULTIDjzAbgxV"
+        },
+        {
+          "name": "Darkiel",
+          "url": "https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321941,
+      "name": "Morena Cachetona - Remix",
+      "url": "https://open.spotify.com/track/5MAroDmYxsLi4MtSEwo9wR"
     },
     {
       "album": {
@@ -6792,6 +6904,32 @@
       "duration_ms": 174188,
       "name": "Pegao",
       "url": "https://open.spotify.com/track/1s5OtespSHjidoiXpuspIO"
+    },
+    {
+      "album": {
+        "name": "Peligrosa",
+        "url": "https://open.spotify.com/album/52Vdf9JPIwEboVW6e8q603"
+      },
+      "artists": [
+        {
+          "name": "Endo",
+          "url": "https://open.spotify.com/artist/47G4aZmzN6mRtKCSoLoNDM"
+        },
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220130,
+      "name": "Peligrosa",
+      "url": "https://open.spotify.com/track/5QFZGf85nI6ZhNVHAuDYyl"
     },
     {
       "album": {
@@ -8296,7 +8434,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 191999,
       "name": "Siempre Que Llegamos",
       "url": "https://open.spotify.com/track/3V4Rn0yP6vnCkTYwTQFkWA"
@@ -9740,6 +9878,28 @@
       "duration_ms": 197434,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/6e5OjxtNWnRscqN7pZSIyC"
+    },
+    {
+      "album": {
+        "name": "V\u00c1MONOS PA LA EUROPA",
+        "url": "https://open.spotify.com/album/1wI6Z4ek2MVDY3bKDtuXwe"
+      },
+      "artists": [
+        {
+          "name": "Lleflight",
+          "url": "https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V"
+        },
+        {
+          "name": "Gino Mella",
+          "url": "https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192004,
+      "name": "V\u00c1MONOS PA LA EUROPA",
+      "url": "https://open.spotify.com/track/2VfBDjJ0tZ9XUi24aQibTM"
     },
     {
       "album": {

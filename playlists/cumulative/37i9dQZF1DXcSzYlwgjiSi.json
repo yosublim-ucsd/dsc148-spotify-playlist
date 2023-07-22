@@ -411,6 +411,28 @@
     },
     {
       "album": {
+        "name": "Beauty and the Beach (feat. Flo Rida)",
+        "url": "https://open.spotify.com/album/3sTt9m5B1zftc7BUVCZSVF"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        },
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159785,
+      "name": "Beauty and the Beach (feat. Flo Rida)",
+      "url": "https://open.spotify.com/track/3LgyWMhXMMcMKxH56hdkxz"
+    },
+    {
+      "album": {
         "name": "Center Point Road",
         "url": "https://open.spotify.com/album/5gnWhEFNbtCn0RLG2cp90g"
       },

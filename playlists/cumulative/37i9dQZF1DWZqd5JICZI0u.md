@@ -4,7 +4,7 @@
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-481 songs - 1 day 0 hr 57 min
+482 songs - 1 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Cohesion](https://open.spotify.com/track/4tX0TK8klpx4iRXB47pOFv) | [Boris Rosenbaum](https://open.spotify.com/artist/41hz9dfBrQt1zteqqTUrYd) | [Cohesion](https://open.spotify.com/album/5yAML82E28lWUo9LFWaaAN) | 2:01 | 2022-05-05 |  |
 | [Colors](https://open.spotify.com/track/1DuxD8wBMdWvovBVcYkWwN) | [Norrona](https://open.spotify.com/artist/0A4UAFw5R9u5z9doUYX0WM) | [Resilience](https://open.spotify.com/album/0yJC30cj8WL90J2Din78qZ) | 4:04 | 2021-01-06 | 2023-05-27 |
 | [Comfort Zone](https://open.spotify.com/track/3QjA9DSJn9hEIkfiRYMBZB) | [Sounds And Beyond](https://open.spotify.com/artist/751p5MqwmdTxiqWVg0J46Y) | [Comfort Zone](https://open.spotify.com/album/1svkSAU7m4SXST5rh8a7xw) | 2:34 | 2022-01-28 |  |
-| [Compassion](https://open.spotify.com/track/6nnm67RIWF9sSl0mGY3PHM) | [Mindful Changes](https://open.spotify.com/artist/6WiU7IgtszyQMUqb4tOkdC) | [Compassion](https://open.spotify.com/album/1IfpD8bKAkrP3nSuvzz0uV) | 2:35 | 2021-01-18 |  |
+| [Compassion](https://open.spotify.com/track/6nnm67RIWF9sSl0mGY3PHM) | [Mindful Changes](https://open.spotify.com/artist/6WiU7IgtszyQMUqb4tOkdC) | [Compassion](https://open.spotify.com/album/1IfpD8bKAkrP3nSuvzz0uV) | 2:35 | 2021-01-18 | 2023-07-22 |
 | [Connection](https://open.spotify.com/track/5BDIKKycvDRRpJGG76cg0n) | [Benny Dawn](https://open.spotify.com/artist/49ouFefWiDJtR7J8fn7Zqk) | [Connection](https://open.spotify.com/album/4IFgc3WJUTL09xNye07t89) | 2:24 | 2021-09-04 |  |
 | [Conversations](https://open.spotify.com/track/3P0iYHT4L8qRKcTtnYhTv5) | [Cieri](https://open.spotify.com/artist/5UuRXvPONj8EeWpeppEoAL) | [Conversations](https://open.spotify.com/album/0JQwCGixx76DYvEltMAIQC) | 3:04 | 2022-02-18 |  |
 | [Convince Me](https://open.spotify.com/track/2Voua6X82CCcgADavNaBwo) | [Aysha Mathis](https://open.spotify.com/artist/0ONhDd13hkXTpzbP8tkBSy) | [Convince Me](https://open.spotify.com/album/3i2bKg8UkKFYrEWsLuO9k1) | 3:35 | 2020-11-19 | 2023-07-15 |
@@ -370,6 +370,7 @@
 | [Secret Haven](https://open.spotify.com/track/0sk2c1F1WqhnBDFlxefiQM) | [August D\. Valentine](https://open.spotify.com/artist/4MJYe0nbmZr7ty64T1VGoN) | [Secret Haven](https://open.spotify.com/album/6VjqiyIPItbntWdMsTH3DB) | 4:30 | 2020-09-30\* | 2021-10-21 |
 | [Seguro](https://open.spotify.com/track/33jgsXDccgPQ6C4LLLPwhp) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [Descanso](https://open.spotify.com/album/1pzm6eTtrCOHYuyqGeCpoZ) | 2:37 | 2022-07-08 |  |
 | [Senses](https://open.spotify.com/track/0i4MTSz232OEJ6m1WURbzJ) | [Somnum Magnam](https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP) | [Senses](https://open.spotify.com/album/4SX3SzgRT4CPF2fDXwFFBF) | 2:58 | 2020-10-27 | 2022-03-25 |
+| [Sequencing The Future](https://open.spotify.com/track/4wvY1ruguzLDPim34lSKcH) | [Arhaa Doak](https://open.spotify.com/artist/4psjQuohUvbvwl50sFuqR9) | [Sequencing The Future](https://open.spotify.com/album/2xFci3OgWK2a1VMRjUi307) | 3:20 | 2023-07-21 |  |
 | [Serene](https://open.spotify.com/track/5B1bNtPY2jCZq87yuH4dDk) | [Claude Sabatier](https://open.spotify.com/artist/5oRDhVSff6UD1uX7cZa7mf) | [Serene](https://open.spotify.com/album/71mpsVqU6IxAXkxyuKdCnE) | 1:48 | 2020-09-30\* | 2022-08-24 |
 | [Serenity of Touch](https://open.spotify.com/track/45I8e1cnl6rzrf2AEqoMDO) | [Niigata](https://open.spotify.com/artist/74md3IYnYrHUTG6GBfem9N) | [Serenity of Touch](https://open.spotify.com/album/3xyRep7OzHkL9laLeiB6Ci) | 2:20 | 2020-09-30\* | 2022-08-13 |
 | [Shaman Dreams](https://open.spotify.com/track/3O9i7hYrsLU99msJcjPOCL) | [Primer Dia](https://open.spotify.com/artist/5kXyMVyXSK2cHnjOja5hRJ) | [Shaman Dreams](https://open.spotify.com/album/02TnwoWJCcqxX4CSI9528L) | 3:06 | 2020-09-30\* | 2021-10-21 |

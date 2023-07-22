@@ -4,7 +4,7 @@
 
 > Get ready for the final season, nerds\. Listen to the music from Never Have I Ever, new episodes now streaming on Netflix.
 
-185 songs - 11 hr 1 min
+186 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,8 @@
 | [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 | 2023-06-08 |  |
 | [Hello Goodbye](https://open.spotify.com/track/5vmGM9Lfzd2VzUwg9rfk7k) | [Angie Hudson](https://open.spotify.com/artist/3H7iRmTdr2SX0CJrFFc1RS) | [Hello Goodbye](https://open.spotify.com/album/5n0vQ8ag1kdHCubCiyA6fD) | 3:46 | 2023-06-08 |  |
 | [Hide & Seek](https://open.spotify.com/track/7vz8hk8dumlGe1OYUhCdMV) | [Causeway](https://open.spotify.com/artist/3V6PIgndeEbvQu6ThnLQ5i) | [Hide & Seek](https://open.spotify.com/album/4wAGwB2SNdBIx2w70S2LbY) | 3:47 | 2023-06-08 |  |
-| [High Price](https://open.spotify.com/track/0uINEgGTM8h4KAlhxIakfh) | [81maantra](https://open.spotify.com/artist/6eEceBIoSxLk8b0q1EByLn), [Easy Mccoy](https://open.spotify.com/artist/0V4YVmGQb4essIbj8VMGPS), [Nyzzy Nyce](https://open.spotify.com/artist/5rrWLqEEESla2vFGHGvEdp) | [High Price](https://open.spotify.com/album/5mvFpTfxbtJ4Yoe9fg1xUG) | 3:21 | 2023-06-08 |  |
+| [High Price](https://open.spotify.com/track/0uINEgGTM8h4KAlhxIakfh) | [81maantra](https://open.spotify.com/artist/6eEceBIoSxLk8b0q1EByLn), [Easy Mccoy](https://open.spotify.com/artist/0V4YVmGQb4essIbj8VMGPS), [Nyzzy Nyce](https://open.spotify.com/artist/5rrWLqEEESla2vFGHGvEdp) | [High Price](https://open.spotify.com/album/5mvFpTfxbtJ4Yoe9fg1xUG) | 3:21 | 2023-06-08 | 2023-07-22 |
+| [High Price](https://open.spotify.com/track/6ClVr2Qx1M4CGYqSG4scHF) | [81maantra](https://open.spotify.com/artist/6eEceBIoSxLk8b0q1EByLn), [Easy Mccoy](https://open.spotify.com/artist/0V4YVmGQb4essIbj8VMGPS), [Nyzzy Nyce](https://open.spotify.com/artist/5rrWLqEEESla2vFGHGvEdp) | [High Price](https://open.spotify.com/album/1IBP291xw6CZjM0qllVswI) | 3:21 | 2023-06-08 |  |
 | [Higher Lows and Lower Highs](https://open.spotify.com/track/4Z0CZgpT8gQwIRwEDh5Cnf) | [Cut Off Your Hands](https://open.spotify.com/artist/3XKuC56yvsH5bnNCjqRvcS) | [Higher Lows and Lower Highs](https://open.spotify.com/album/1v2XgsrDrGzOyCUFkTlDoo) | 4:58 | 2023-06-08 |  |
 | [Hotel Delmano](https://open.spotify.com/track/3xzULZBUc7KUFJ2emNqqw0) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Hotel Delmano](https://open.spotify.com/album/0Q22cQbWYlf61UVQe9OfIZ) | 3:24 | 2023-06-08 |  |
 | [How to Quit Smoking](https://open.spotify.com/track/0AXblcXSYCEWPE6c2VzDTw) | [Papercuts](https://open.spotify.com/artist/5fN7QZumpTbySswZyiWKXn) | [Parallel Universe Blues](https://open.spotify.com/album/2wIF23PCyAy715AR8USXMj) | 3:08 | 2023-06-08 |  |

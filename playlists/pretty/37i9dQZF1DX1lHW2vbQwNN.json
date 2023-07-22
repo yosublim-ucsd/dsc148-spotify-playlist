@@ -1,12 +1,12 @@
 {
   "description": "Taking it back to the 2000s. Cover: Clipse",
-  "num_followers": 94996,
+  "num_followers": 95120,
   "original_name": "I Love My 2000s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Yjc4OWZlODIyMDUzYzIwNjQ4NGRmZjg1MGE3ODNjNjEwODkzYzQ5",
+  "snapshot_id": "MCw1NDQwMzFkNmFhZDg1YmJiNDEyYjZjODg4YTI3ZjBkZDgwYjYxNzlm",
   "tracks": [
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "A Gangster And A Gentleman",
+        "url": "https://open.spotify.com/album/4LmiDfIReR290PQm026KNF"
+      },
+      "artists": [
+        {
+          "name": "Styles P",
+          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
+        }
+      ],
+      "duration_ms": 211493,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/7cFpB4ozcSwXuhqjvNbrbP"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Word Of Mouf",
         "url": "https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 303026,
       "name": "Area Codes",
       "url": "https://open.spotify.com/track/3lcC9CnN7Rpo1ugATzmYjY"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "A Gangster And A Gentleman",
-        "url": "https://open.spotify.com/album/4LmiDfIReR290PQm026KNF"
-      },
-      "artists": [
-        {
-          "name": "Styles P",
-          "url": "https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX"
-        }
-      ],
-      "duration_ms": 211493,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/7cFpB4ozcSwXuhqjvNbrbP"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "Word Of Mouf",
-        "url": "https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr"
-      },
-      "artists": [
-        {
-          "name": "Ludacris",
-          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        }
-      ],
-      "duration_ms": 296586,
-      "name": "Rollout (My Business)",
-      "url": "https://open.spotify.com/track/4SyadrABZJIjeND1HPJS31"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
         "name": "The Dynasty",
         "url": "https://open.spotify.com/album/3VfeeJElCEDeXlDiNZbn3E"
       },
@@ -1515,6 +1499,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "THUGS ARE US",
+        "url": "https://open.spotify.com/album/2oJxBPqylFpSb60hOJ4DcH"
+      },
+      "artists": [
+        {
+          "name": "Trick Daddy",
+          "url": "https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25"
+        }
+      ],
+      "duration_ms": 254400,
+      "name": "I'm a Thug",
+      "url": "https://open.spotify.com/track/6j2aNuhJJUnRj6UHcvn5PI"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "Tha Carter",
         "url": "https://open.spotify.com/album/5POcKy926GgzFHZpGptJac"
       },
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
-        "name": "THUGS ARE US",
-        "url": "https://open.spotify.com/album/2oJxBPqylFpSb60hOJ4DcH"
+        "name": "Word Of Mouf",
+        "url": "https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr"
       },
       "artists": [
         {
-          "name": "Trick Daddy",
-          "url": "https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25"
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
         }
       ],
-      "duration_ms": 254400,
-      "name": "I'm a Thug",
-      "url": "https://open.spotify.com/track/6j2aNuhJJUnRj6UHcvn5PI"
+      "duration_ms": 296586,
+      "name": "Rollout (My Business)",
+      "url": "https://open.spotify.com/track/4SyadrABZJIjeND1HPJS31"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2023-06-30 04:00:00",
       "album": {
+        "name": "The Inspiration",
+        "url": "https://open.spotify.com/album/4slt7bfeNHSJUOMVtuIdxP"
+      },
+      "artists": [
+        {
+          "name": "Jeezy",
+          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
+        }
+      ],
+      "duration_ms": 240613,
+      "name": "I Luv It",
+      "url": "https://open.spotify.com/track/7qFxSPDUDMQNGBqTvK4aEj"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
         "name": "The Blueprint (Explicit Version)",
         "url": "https://open.spotify.com/album/69CmkikTHkGKdkrUZTtyWl"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 212146,
       "name": "Slow Jamz (feat. Kanye West & Jamie Foxx)",
       "url": "https://open.spotify.com/track/1boHm9rjmvzxpJASd9dnGK"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "The Inspiration",
-        "url": "https://open.spotify.com/album/4slt7bfeNHSJUOMVtuIdxP"
-      },
-      "artists": [
-        {
-          "name": "Jeezy",
-          "url": "https://open.spotify.com/artist/4yBK75WVCQXej1p04GWqxH"
-        }
-      ],
-      "duration_ms": 240613,
-      "name": "I Luv It",
-      "url": "https://open.spotify.com/track/7qFxSPDUDMQNGBqTvK4aEj"
     },
     {
       "added_at": "2023-06-30 04:00:00",

@@ -671,6 +671,24 @@
     },
     {
       "album": {
+        "name": "Altaria",
+        "url": "https://open.spotify.com/album/4qWZ49m3NRmLEo5fQQpnsA"
+      },
+      "artists": [
+        {
+          "name": "Rhinestone Block",
+          "url": "https://open.spotify.com/artist/2lbLHi4d121x4E173oiUIg"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Altaria",
+      "url": "https://open.spotify.com/track/69D1OftCAldEE1BtxWBVjS"
+    },
+    {
+      "album": {
         "name": "Alterations",
         "url": "https://open.spotify.com/album/6CBggUkHr6HPMDMYvp0Xqm"
       },

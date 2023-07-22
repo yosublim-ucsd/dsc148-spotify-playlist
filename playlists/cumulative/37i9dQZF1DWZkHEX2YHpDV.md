@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Hot Mulligan
 
-997 songs - 2 day 4 hr 44 min
+998 songs - 2 day 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,6 +306,7 @@
 | [Figure 8](https://open.spotify.com/track/2Jb3hVkRFoiiwXYcELiBfC) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 3:24 | 2023-04-28 |  |
 | [Figure Eight](https://open.spotify.com/track/4JbNlNqFMVs1vBOFAutXcK) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [Figure Eight](https://open.spotify.com/album/0eU9qAlZt7kIEZnonBtixO) | 3:21 | 2021-12-10 | 2022-07-29 |
 | [Figure Eight](https://open.spotify.com/track/70nKt5OKAbXwlRrKsrf1oq) | [Trophy Eyes](https://open.spotify.com/artist/6KPdmtIl0LA5mRFSqseWhI) | [Figure Eight](https://open.spotify.com/album/6f6A2AiUD0r3HVygTAFgez) | 3:21 | 2022-07-08 | 2022-08-06 |
+| [Fireplace](https://open.spotify.com/track/6ltKvSyebk65SJtg5zKDXW) | [Sincere Engineer](https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1) | [Fireplace](https://open.spotify.com/album/5U2tNJNxYatUi2OV5SJAQQ) | 3:14 | 2023-07-14 |  |
 | [Firestorm](https://open.spotify.com/track/4bmsOlx4HU2XYDNMjMMuby) | [The Spill Canvas](https://open.spotify.com/artist/4W8SeWrRZUburGZyp5JwYj) | [Firestorm](https://open.spotify.com/album/6l5cHuFSf5pKtJYuI8qkrA) | 3:05 | 2021-12-10 | 2022-07-28 |
 | [First Blush](https://open.spotify.com/track/7z36vq5UIi8kHhd8ipG2L5) | [Locket](https://open.spotify.com/artist/6h0cRpTv4GFq0zYbCbsDXy) | [Disappear](https://open.spotify.com/album/3CH5aysv7LcybjuywWJNv1) | 3:07 | 2021-12-10 | 2022-05-19 |
 | [First to Fake It](https://open.spotify.com/track/0bmwuoJqTKoMwAEO7VRBXy) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [First to Fake It](https://open.spotify.com/album/1K2jEvzCM5kqH5TvRT2uTK) | 2:40 | 2021-12-10 | 2022-05-20 |
@@ -724,7 +725,7 @@
 | [Save Me](https://open.spotify.com/track/0AuAs2uYa4jRBztiXeNARs) | [Homesafe](https://open.spotify.com/artist/5vV4gEs3O35SdrdwhvhYwe) | [Without Warning](https://open.spotify.com/album/3oTze2jMJ1RnSBEyu0BUjy) | 3:29 | 2022-04-01 | 2022-07-04 |
 | [Save Me](https://open.spotify.com/track/4EZ2kjZgcxhvgPubV1sG7v) | [Homesafe](https://open.spotify.com/artist/5vV4gEs3O35SdrdwhvhYwe) | [Save Me](https://open.spotify.com/album/73utkAO5DupJeydwRF1zJ9) | 3:29 | 2022-01-14 | 2022-05-09 |
 | [Savior Mode](https://open.spotify.com/track/0G6fFMKdbf7fI3S1gLHSRK) | [Balance And Composure](https://open.spotify.com/artist/2fgl3me4n9diODTrVfruF3) | [Too Quick to Forgive](https://open.spotify.com/album/7ECEe6gQMlJNjykkX7F7RY) | 4:21 | 2023-04-23 |  |
-| [Say It \(To My Face\)](https://open.spotify.com/track/2UMeGWmUri9RVpmckPV9Jt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Say It \(To My Face\)](https://open.spotify.com/album/0zErHJ7vr4Ao9VgoX3RUYm) | 2:39 | 2022-09-30 |  |
+| [Say It \(To My Face\)](https://open.spotify.com/track/2UMeGWmUri9RVpmckPV9Jt) | [Meet Me @ The Altar](https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK) | [Say It \(To My Face\)](https://open.spotify.com/album/0zErHJ7vr4Ao9VgoX3RUYm) | 2:39 | 2022-09-30 | 2023-07-22 |
 | [Say Yes](https://open.spotify.com/track/0w8aZyDeFw67itdrjqy6O3) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9), [Rivals](https://open.spotify.com/artist/5YKh4YDHFhZd987g6rn3oR) | [Say Yes](https://open.spotify.com/album/41rZSLcBmbZS9FsvEDcNYI) | 2:38 | 2021-12-10 | 2022-07-23 |
 | [Scavenger](https://open.spotify.com/track/1Fu8yPptxIAtk8nDLVkGgG) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Scavenger](https://open.spotify.com/album/62sY6CmLFmREYxwdLcviOO) | 3:09 | 2021-12-10 | 2022-07-29 |
 | [Sedona](https://open.spotify.com/track/21rOdbcj8Y7glIazuWel2e) | [JunkBunny](https://open.spotify.com/artist/2UdPcvUuTpvrq7flh94PaE) | [Sedona](https://open.spotify.com/album/6h0DXUi7906RJZRrE2SYLW) | 3:09 | 2021-12-10 | 2022-07-06 |

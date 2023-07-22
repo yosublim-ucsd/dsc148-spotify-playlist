@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de indie/alternativo durante el 2020. En portada: Ela Minus",
-  "num_followers": 20915,
+  "num_followers": 20921,
   "original_name": "Lo Mejor del Indie/Alternativo 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTdmNzZlZGY2ODY3YTliOGQ1NGI4OTdmZmMxNDMzYzlkMjQ2NzBj",
+  "snapshot_id": "MCxmMDY1OTY1YzY3ODAyOGZkNWUyZjcwNzg3OWE4YTlhOTBkNDM4NGIz",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -599,22 +599,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Abriendo Latidos",
-        "url": "https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry"
-      },
-      "artists": [
-        {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
-        }
-      ],
-      "duration_ms": 194555,
-      "name": "Abriendo Latidos",
-      "url": "https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "MILLONES",
         "url": "https://open.spotify.com/album/5ZPDl7OMRFK0TwV3syXaGA"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 185920,
       "name": "El equilibrio",
       "url": "https://open.spotify.com/track/13LiYjx7tgdqjMxAt3pgtG"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Abriendo Latidos",
+        "url": "https://open.spotify.com/album/5aA6xXb2YJGRjyPhx0orry"
+      },
+      "artists": [
+        {
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+        }
+      ],
+      "duration_ms": 194555,
+      "name": "Abriendo Latidos",
+      "url": "https://open.spotify.com/track/5PnoR6ebAhK7paJET1iv6a"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Wow",
-        "url": "https://open.spotify.com/album/2h85rsLHSwAMdaBJvNnirH"
-      },
-      "artists": [
-        {
-          "name": "Margaritas Podridas",
-          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
-        }
-      ],
-      "duration_ms": 316777,
-      "name": "Wow",
-      "url": "https://open.spotify.com/track/6dH0yTwptrQIb6qMLPg1As"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "No Sentir Nada",
         "url": "https://open.spotify.com/album/4hquSaJKohf2oE50JgOBo3"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 224608,
       "name": "No Sentir Nada",
       "url": "https://open.spotify.com/track/5yO08ego5Exs0acRhxs6tn"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Wow",
+        "url": "https://open.spotify.com/album/2h85rsLHSwAMdaBJvNnirH"
+      },
+      "artists": [
+        {
+          "name": "Margaritas Podridas",
+          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
+        }
+      ],
+      "duration_ms": 316777,
+      "name": "Wow",
+      "url": "https://open.spotify.com/track/6dH0yTwptrQIb6qMLPg1As"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Sentimiento Mundial",
-        "url": "https://open.spotify.com/album/5l42UGler5fwv207TkXYtI"
-      },
-      "artists": [
-        {
-          "name": "Mint Field",
-          "url": "https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz"
-        }
-      ],
-      "duration_ms": 178146,
-      "name": "Delicadeza",
-      "url": "https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "No Hay Mal Que Dure una Vida",
         "url": "https://open.spotify.com/album/5VLrQqAQRhUIYSiAE1HxEd"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 215287,
       "name": "Qu\u00e9date Cerca",
       "url": "https://open.spotify.com/track/5dioafqgaV1ywCUXpMMAOR"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Sentimiento Mundial",
+        "url": "https://open.spotify.com/album/5l42UGler5fwv207TkXYtI"
+      },
+      "artists": [
+        {
+          "name": "Mint Field",
+          "url": "https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz"
+        }
+      ],
+      "duration_ms": 178146,
+      "name": "Delicadeza",
+      "url": "https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Miedo, Amor y Vida - EP",
-        "url": "https://open.spotify.com/album/6PHGMjErdWJtPanxKeHL93"
-      },
-      "artists": [
-        {
-          "name": "Ati Lane",
-          "url": "https://open.spotify.com/artist/3BDqVjikenQ511C0CvG5kG"
-        }
-      ],
-      "duration_ms": 216857,
-      "name": "La Oscuridad",
-      "url": "https://open.spotify.com/track/6SsSJzlvg1U0HVMrXisZ0C"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Diciembre",
         "url": "https://open.spotify.com/album/2CaTs90sNVNUxcNhVDfjzt"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 278453,
       "name": "Diciembre",
       "url": "https://open.spotify.com/track/0HWHBcKEk8aT82oHLUJ1IE"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Miedo, Amor y Vida - EP",
+        "url": "https://open.spotify.com/album/6PHGMjErdWJtPanxKeHL93"
+      },
+      "artists": [
+        {
+          "name": "Ati Lane",
+          "url": "https://open.spotify.com/artist/3BDqVjikenQ511C0CvG5kG"
+        }
+      ],
+      "duration_ms": 216857,
+      "name": "La Oscuridad",
+      "url": "https://open.spotify.com/track/6SsSJzlvg1U0HVMrXisZ0C"
     },
     {
       "added_at": "2020-12-01 05:03:00",

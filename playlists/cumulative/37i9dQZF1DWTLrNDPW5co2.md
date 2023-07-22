@@ -4,7 +4,7 @@
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the centre of electronic music culture\. Cover: Shygirl
 
-134 songs - 9 hr 11 min
+136 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,8 @@
 | [Double Tap](https://open.spotify.com/track/0wLcWLY6JuNIuqJZxOu1Z7) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Double Tap](https://open.spotify.com/album/31cA2G8w5XuCbSLU8ccPiu) | 3:10 | 2023-06-01 |  |
 | [Downtown \(feat\. Annette Bowen & Nikki\-O\)](https://open.spotify.com/track/7JN4rYLphO4zyPP04Ibftj) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Annette Bowen](https://open.spotify.com/artist/2aUKSEUEhrKaW6vkQnrXq6), [Nikki\-O](https://open.spotify.com/artist/1cVdPPKt04x4LIFGW4rUnL) | [Downtown \(feat\. Annette Bowen & Nikki\-O\)](https://open.spotify.com/album/4gxf9I5X6rUywK85hFwvrZ) | 3:55 | 2021-10-15 | 2022-06-04 |
 | [DRaiN](https://open.spotify.com/track/3wDqjtZ7Ua7Vz4QrCJqVoD) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [DRaiN](https://open.spotify.com/album/1PFSvtdr5l2fYt0L2NIDov) | 2:39 | 2022-06-03 |  |
+| [DRIFT](https://open.spotify.com/track/4YuPOUPQ3R15aSLO9wEiZK) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [DRIFT](https://open.spotify.com/album/3xLYwDzegPrnS3RJRrdKpx) | 2:51 | 2023-07-21 |  |
+| [Drugs](https://open.spotify.com/track/1Ri9aSg1W3e412PUVvVz0I) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Drugs](https://open.spotify.com/album/72qaQJS17narCyYEW3uIzV) | 3:44 | 2023-07-21 |  |
 | [Drunken Clouds](https://open.spotify.com/track/3XWCKVGT137CUdNDYm3waR) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | ['I Wanted More' EP](https://open.spotify.com/album/6ZPTQkazeYNUIN2XzInXqM) | 4:13 | 2022-06-03 |  |
 | [Dubonica](https://open.spotify.com/track/7oBTCnTBTugFqjWPEWo8gI) | [Hannah Holland](https://open.spotify.com/artist/3paxIyAbBuTSw8RDF22vHs) | [Japonica](https://open.spotify.com/album/74QnAU9Fi6iIBnj8Is0rkl) | 5:57 | 2021-10-15 | 2022-06-04 |
 | [Earth](https://open.spotify.com/track/7dx5DbxkhVWt8KsW8kePNM) | [Kiimi](https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S) | [Earth](https://open.spotify.com/album/4tEySm30Wxlad1GJSkky3J) | 4:01 | 2023-03-31 |  |
@@ -104,7 +106,7 @@
 | [Night Creature](https://open.spotify.com/track/3qEel6r284fp9ti2CYuO12) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Night Creature](https://open.spotify.com/album/7f74ViVWoWCIdBaRzKjpuu) | 3:31 | 2022-06-03 | 2023-06-02 |
 | [No Idol \- Remix](https://open.spotify.com/track/1eRLxk3ZvgJFsH2wJFcyGq) | [DJ Haram](https://open.spotify.com/artist/13VynrBSvRLrAX5YqdD1vl) | [Grace EP](https://open.spotify.com/album/6ODJBf2C5LXJGIcB9QHU7p) | 2:36 | 2022-07-14 | 2023-04-30 |
 | [No Idol \- Remix](https://open.spotify.com/track/3x15lvHEgJoj7XhRV5aXCo) | [DJ Haram](https://open.spotify.com/artist/13VynrBSvRLrAX5YqdD1vl) | [Grace EP](https://open.spotify.com/album/0Ooq11mWBxMx34PbeorVkz) | 2:36 | 2021-10-15 | 2022-07-29 |
-| [No Idol \- Remix](https://open.spotify.com/track/6uVCNLms1D9lQLIg9JG7Jr) | [DJ Haram](https://open.spotify.com/artist/13VynrBSvRLrAX5YqdD1vl) | [Grace EP](https://open.spotify.com/album/1KqDdW5d7l4g9y7JzGyyDB) | 2:36 | 2023-03-31 |  |
+| [No Idol \- Remix](https://open.spotify.com/track/6uVCNLms1D9lQLIg9JG7Jr) | [DJ Haram](https://open.spotify.com/artist/13VynrBSvRLrAX5YqdD1vl) | [Grace EP](https://open.spotify.com/album/1KqDdW5d7l4g9y7JzGyyDB) | 2:36 | 2023-03-31 | 2023-07-22 |
 | [Obliterate](https://open.spotify.com/track/12bWYZA94k9TyxAVQ5aBQ5) | [Lupa J](https://open.spotify.com/artist/1yvTsFefUSbLoOimc1vMZJ) | [To Breathe Underwater](https://open.spotify.com/album/2lL7bjuc1QrmCYFuJb1fng) | 3:33 | 2021-10-15 |  |
 | [Oh The Glamour](https://open.spotify.com/track/7CZqezgV2IyorX2tnR1hNt) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Oh The Glamour](https://open.spotify.com/album/57lGyWWdxqvvC9uxEeX62j) | 3:21 | 2023-06-09 |  |
 | [One Touch](https://open.spotify.com/track/3g4wkFSYsU7Qc7bPjaJEGV) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [One Touch](https://open.spotify.com/album/21lJDSVSuhyKBqkzxn9gAE) | 3:00 | 2023-06-20 | 2023-06-24 |

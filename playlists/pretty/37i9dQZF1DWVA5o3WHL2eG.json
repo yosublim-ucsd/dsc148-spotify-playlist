@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjQxMjBhZjM4ZWIxNDY0YTZkNDE4NjM5ZDllMGYwM2Y3ODdhOTcy",
+  "snapshot_id": "MCw0NjcwN2MwMjgzMzc0MGMzM2Y1ZTM5NjFiNDBmOTM2ZWFjMDA2Zjhl",
   "tracks": [
     {
       "added_at": "2023-07-04 22:00:00",
@@ -91,6 +91,22 @@
     {
       "added_at": "2023-07-04 22:00:00",
       "album": {
+        "name": "You Problem",
+        "url": "https://open.spotify.com/album/5WWKLGI2RgBlvhP1GkZ4HC"
+      },
+      "artists": [
+        {
+          "name": "Sandra Hesch",
+          "url": "https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh"
+        }
+      ],
+      "duration_ms": 109800,
+      "name": "You Problem",
+      "url": "https://open.spotify.com/track/4I0Wvg8YsODOPlGNpk7AmD"
+    },
+    {
+      "added_at": "2023-07-04 22:00:00",
+      "album": {
         "name": "Rosen",
         "url": "https://open.spotify.com/album/0nP0tXeSgGgkswR2BTa0cQ"
       },
@@ -119,38 +135,6 @@
       "duration_ms": 176670,
       "name": "God give me a car",
       "url": "https://open.spotify.com/track/1uea73mwQFrPWDNbPSmswm"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
-        "name": "You Problem",
-        "url": "https://open.spotify.com/album/5WWKLGI2RgBlvhP1GkZ4HC"
-      },
-      "artists": [
-        {
-          "name": "Sandra Hesch",
-          "url": "https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh"
-        }
-      ],
-      "duration_ms": 109800,
-      "name": "You Problem",
-      "url": "https://open.spotify.com/track/4I0Wvg8YsODOPlGNpk7AmD"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
-        "name": "PRiNZESSiN",
-        "url": "https://open.spotify.com/album/77pzd3wtag6QL9bThafT9L"
-      },
-      "artists": [
-        {
-          "name": "Luzine",
-          "url": "https://open.spotify.com/artist/0iaqFAg9eczKirsmESekkp"
-        }
-      ],
-      "duration_ms": 154394,
-      "name": "PRiNZESSiN",
-      "url": "https://open.spotify.com/track/0w5qokcBPOrdqefqp3vNQZ"
     },
     {
       "added_at": "2023-07-04 22:00:00",
@@ -187,6 +171,22 @@
     {
       "added_at": "2023-07-04 22:00:00",
       "album": {
+        "name": "PRiNZESSiN",
+        "url": "https://open.spotify.com/album/77pzd3wtag6QL9bThafT9L"
+      },
+      "artists": [
+        {
+          "name": "Luzine",
+          "url": "https://open.spotify.com/artist/0iaqFAg9eczKirsmESekkp"
+        }
+      ],
+      "duration_ms": 154394,
+      "name": "PRiNZESSiN",
+      "url": "https://open.spotify.com/track/0w5qokcBPOrdqefqp3vNQZ"
+    },
+    {
+      "added_at": "2023-07-04 22:00:00",
+      "album": {
         "name": "Das Ende",
         "url": "https://open.spotify.com/album/0d9xLjHz5iZonsNWlde4b5"
       },
@@ -199,22 +199,6 @@
       "duration_ms": 224280,
       "name": "Das Ende",
       "url": "https://open.spotify.com/track/0DDHtSayQu3J1TiT55N5ZX"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
-        "name": "Weit weg",
-        "url": "https://open.spotify.com/album/5Pb5dnDVTMTr2YgWDYMW3n"
-      },
-      "artists": [
-        {
-          "name": "LEA x LINDA",
-          "url": "https://open.spotify.com/artist/0tDJXFT2uUq1eAxyjC4Zro"
-        }
-      ],
-      "duration_ms": 149400,
-      "name": "Weit weg",
-      "url": "https://open.spotify.com/track/73rbG1UP8QLocaXUT68cgB"
     },
     {
       "added_at": "2023-07-04 22:00:00",
@@ -235,6 +219,22 @@
     {
       "added_at": "2023-07-04 22:00:00",
       "album": {
+        "name": "Weit weg",
+        "url": "https://open.spotify.com/album/5Pb5dnDVTMTr2YgWDYMW3n"
+      },
+      "artists": [
+        {
+          "name": "LEA x LINDA",
+          "url": "https://open.spotify.com/artist/0tDJXFT2uUq1eAxyjC4Zro"
+        }
+      ],
+      "duration_ms": 149400,
+      "name": "Weit weg",
+      "url": "https://open.spotify.com/track/73rbG1UP8QLocaXUT68cgB"
+    },
+    {
+      "added_at": "2023-07-04 22:00:00",
+      "album": {
         "name": "Wann",
         "url": "https://open.spotify.com/album/7aDSF6oPbVGr1AKmpoaGqL"
       },
@@ -247,22 +247,6 @@
       "duration_ms": 152751,
       "name": "Wann",
       "url": "https://open.spotify.com/track/4uyXyMAfJWO0bG4Q31hm7d"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
-        "name": "Das Leben ist sch\u00f6n",
-        "url": "https://open.spotify.com/album/0eYWMipurYOzRN6ms471iB"
-      },
-      "artists": [
-        {
-          "name": "MOLA",
-          "url": "https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye"
-        }
-      ],
-      "duration_ms": 225880,
-      "name": "Das Leben ist sch\u00f6n",
-      "url": "https://open.spotify.com/track/7cWUIbULyUxuKMS87ozGne"
     },
     {
       "added_at": "2023-07-04 22:00:00",
@@ -287,6 +271,22 @@
     {
       "added_at": "2023-07-04 22:00:00",
       "album": {
+        "name": "Das Leben ist sch\u00f6n",
+        "url": "https://open.spotify.com/album/0eYWMipurYOzRN6ms471iB"
+      },
+      "artists": [
+        {
+          "name": "MOLA",
+          "url": "https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye"
+        }
+      ],
+      "duration_ms": 225880,
+      "name": "Das Leben ist sch\u00f6n",
+      "url": "https://open.spotify.com/track/7cWUIbULyUxuKMS87ozGne"
+    },
+    {
+      "added_at": "2023-07-04 22:00:00",
+      "album": {
         "name": "Would Do It Again",
         "url": "https://open.spotify.com/album/7zy3Gc7G6GoZk8ULpp0kAl"
       },
@@ -299,38 +299,6 @@
       "duration_ms": 186363,
       "name": "Would Do It Again",
       "url": "https://open.spotify.com/track/4DJyKfX1ImzBnINTXUzKkQ"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
-        "name": "Club",
-        "url": "https://open.spotify.com/album/0fTpP0E2mjLeG5WbI8EMLs"
-      },
-      "artists": [
-        {
-          "name": "PANTHA",
-          "url": "https://open.spotify.com/artist/40TyBBFIw2Nw3psoWIkNI8"
-        }
-      ],
-      "duration_ms": 111946,
-      "name": "Club",
-      "url": "https://open.spotify.com/track/5NWoByaCLWNcVXbbF76vc3"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/36vbMT1dSGU7KPnIE65wKS"
-      },
-      "artists": [
-        {
-          "name": "Elen",
-          "url": "https://open.spotify.com/artist/7hR13E9Jt08a35Q2is8VvO"
-        }
-      ],
-      "duration_ms": 168243,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/2POqgTL1d4nnMZseUfoDvz"
     },
     {
       "added_at": "2023-07-04 22:00:00",
@@ -367,22 +335,6 @@
     {
       "added_at": "2023-07-04 22:00:00",
       "album": {
-        "name": "SKELETON",
-        "url": "https://open.spotify.com/album/3BB0ddbSAWyFTxCCtI34GO"
-      },
-      "artists": [
-        {
-          "name": "FL\u00d8RE",
-          "url": "https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD"
-        }
-      ],
-      "duration_ms": 168291,
-      "name": "SKELETON",
-      "url": "https://open.spotify.com/track/53EfFnax4JFA93E5YFwR3f"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
         "name": "Flasche und Zeit",
         "url": "https://open.spotify.com/album/24wU5xXnNsmGHSOz64rG2B"
       },
@@ -395,6 +347,54 @@
       "duration_ms": 156000,
       "name": "Flasche und Zeit",
       "url": "https://open.spotify.com/track/3vTwAPd57fVzzyqQqU6Kjn"
+    },
+    {
+      "added_at": "2023-07-04 22:00:00",
+      "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/36vbMT1dSGU7KPnIE65wKS"
+      },
+      "artists": [
+        {
+          "name": "Elen",
+          "url": "https://open.spotify.com/artist/7hR13E9Jt08a35Q2is8VvO"
+        }
+      ],
+      "duration_ms": 168243,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/2POqgTL1d4nnMZseUfoDvz"
+    },
+    {
+      "added_at": "2023-07-04 22:00:00",
+      "album": {
+        "name": "Club",
+        "url": "https://open.spotify.com/album/0fTpP0E2mjLeG5WbI8EMLs"
+      },
+      "artists": [
+        {
+          "name": "PANTHA",
+          "url": "https://open.spotify.com/artist/40TyBBFIw2Nw3psoWIkNI8"
+        }
+      ],
+      "duration_ms": 111946,
+      "name": "Club",
+      "url": "https://open.spotify.com/track/5NWoByaCLWNcVXbbF76vc3"
+    },
+    {
+      "added_at": "2023-07-04 22:00:00",
+      "album": {
+        "name": "SKELETON",
+        "url": "https://open.spotify.com/album/3BB0ddbSAWyFTxCCtI34GO"
+      },
+      "artists": [
+        {
+          "name": "FL\u00d8RE",
+          "url": "https://open.spotify.com/artist/5aUy7Z5Q1m6f9fNp8or3sD"
+        }
+      ],
+      "duration_ms": 168291,
+      "name": "SKELETON",
+      "url": "https://open.spotify.com/track/53EfFnax4JFA93E5YFwR3f"
     },
     {
       "added_at": "2023-07-04 22:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-07-04 22:00:00",
       "album": {
-        "name": "Nie nach Paris",
-        "url": "https://open.spotify.com/album/76w2pIPHKEdltWvUnPogjn"
-      },
-      "artists": [
-        {
-          "name": "Antje Schomaker",
-          "url": "https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n"
-        }
-      ],
-      "duration_ms": 208093,
-      "name": "Nie nach Paris",
-      "url": "https://open.spotify.com/track/7dWPvPqXNb5gVwCJI7MuE1"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
         "name": "Mirror",
         "url": "https://open.spotify.com/album/0yAcPumt8FhHVkK8IXX9Ks"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 144346,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/4GrfHweLpo4HeBrWDjvYTw"
+    },
+    {
+      "added_at": "2023-07-04 22:00:00",
+      "album": {
+        "name": "Nie nach Paris",
+        "url": "https://open.spotify.com/album/76w2pIPHKEdltWvUnPogjn"
+      },
+      "artists": [
+        {
+          "name": "Antje Schomaker",
+          "url": "https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n"
+        }
+      ],
+      "duration_ms": 208093,
+      "name": "Nie nach Paris",
+      "url": "https://open.spotify.com/track/7dWPvPqXNb5gVwCJI7MuE1"
     },
     {
       "added_at": "2023-07-04 22:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-07-04 22:00:00",
       "album": {
-        "name": "Idaho",
-        "url": "https://open.spotify.com/album/0Pnb5b2Ktexz42KLHmfdsl"
-      },
-      "artists": [
-        {
-          "name": "Velvet Two Stripes",
-          "url": "https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g"
-        }
-      ],
-      "duration_ms": 256680,
-      "name": "Idaho",
-      "url": "https://open.spotify.com/track/6Ar6r9U9usCDcAjzfgjzOY"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
         "name": "AM___PM",
         "url": "https://open.spotify.com/album/3DrDFboFQwtuL1TiYKbkBJ"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 170103,
       "name": "Night Drive",
       "url": "https://open.spotify.com/track/5k6q54IA7xeUpNU1sZm0fH"
+    },
+    {
+      "added_at": "2023-07-04 22:00:00",
+      "album": {
+        "name": "Idaho",
+        "url": "https://open.spotify.com/album/0Pnb5b2Ktexz42KLHmfdsl"
+      },
+      "artists": [
+        {
+          "name": "Velvet Two Stripes",
+          "url": "https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g"
+        }
+      ],
+      "duration_ms": 256680,
+      "name": "Idaho",
+      "url": "https://open.spotify.com/track/6Ar6r9U9usCDcAjzfgjzOY"
     },
     {
       "added_at": "2023-07-04 22:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-07-04 22:00:00",
       "album": {
-        "name": "The Poet",
-        "url": "https://open.spotify.com/album/2BRdmswRAFjmSvxRWX3lrc"
-      },
-      "artists": [
-        {
-          "name": "SKALA",
-          "url": "https://open.spotify.com/artist/43hoEqOilY8CNQ3hzms5Pq"
-        }
-      ],
-      "duration_ms": 329761,
-      "name": "The Poet",
-      "url": "https://open.spotify.com/track/17B0PtxroZPDipqeBCa85t"
-    },
-    {
-      "added_at": "2023-07-04 22:00:00",
-      "album": {
         "name": "Coming of Age",
         "url": "https://open.spotify.com/album/5eE5WBPNYnibaecmqBrwNH"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 226624,
       "name": "Coming of Age",
       "url": "https://open.spotify.com/track/2iybw2yEvgpVUNH985SaZA"
+    },
+    {
+      "added_at": "2023-07-04 22:00:00",
+      "album": {
+        "name": "The Poet",
+        "url": "https://open.spotify.com/album/2BRdmswRAFjmSvxRWX3lrc"
+      },
+      "artists": [
+        {
+          "name": "SKALA",
+          "url": "https://open.spotify.com/artist/43hoEqOilY8CNQ3hzms5Pq"
+        }
+      ],
+      "duration_ms": 329761,
+      "name": "The Poet",
+      "url": "https://open.spotify.com/track/17B0PtxroZPDipqeBCa85t"
     },
     {
       "added_at": "2023-07-04 22:00:00",

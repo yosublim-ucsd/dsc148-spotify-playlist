@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNrnYO4HTko.md) - [plain]
 
 > Fresh takes \- from new revisions and iconic covers to unexpected versions and the <a href="https://artists.spotify.com/songwriter/2M9tzAw4sMHnOJ58l5uo82">songwriter's</a> own covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 670 likes - 92 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 672 likes - 92 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNrnYO4HTko.md) - [plain]
 | 7 | [Good To Me](https://open.spotify.com/track/7jLJyjEUfFBXuXGjs1lhkm) | [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Mavis Staples](https://open.spotify.com/album/69UCRo9HJBUEZDPFMgR30r) | 3:20 |
 | 8 | [Good To Me](https://open.spotify.com/track/5DAWBCuEUbhJQgqp424IU9) | [Irma Thomas](https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv) | [Something Good: The Muscle Shoals Sessions](https://open.spotify.com/album/3vlhZH8qM5AeRY9SQDU4XH) | 2:34 |
 | 9 | [\(Sittin' On\) The Dock Of The Bay](https://open.spotify.com/track/70uzt5Ni1oBX4F0S23Lh8I) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Music Moments](https://open.spotify.com/album/0dWPVvy80WKbZlP8ik6Ffx) | 2:53 |
-| 10 | [I've Been Loving You Too Long](https://open.spotify.com/track/7ABA0eWzpQO0ZSZRWiSCaA) | [Redding](https://open.spotify.com/artist/5w38blLwP3pX3wd624uqdm), [Butler](https://open.spotify.com/artist/6fknqwgtDVPeqEs8R2W6EP), [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [More Hot Rocks \(Big Hits & Fazed Cookies\)](https://open.spotify.com/album/58P2QxVBxqTLc3GIgoWTbz) | 2:54 |
+| 10 | [I've Been Loving You Too Long](https://open.spotify.com/track/7ABA0eWzpQO0ZSZRWiSCaA) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [More Hot Rocks \(Big Hits & Fazed Cookies\)](https://open.spotify.com/album/58P2QxVBxqTLc3GIgoWTbz) | 2:54 |
 | 11 | [Mr\. Pitiful](https://open.spotify.com/track/3uPT2j8oo7S103UEsloUft) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Señor Blues](https://open.spotify.com/album/1J4901NnEbPx0sTbfQlahA) | 2:55 |
 | 12 | [Dock of the Bay](https://open.spotify.com/track/1DiQBFv49DPAdshUCmJBAe) | [Jorm](https://open.spotify.com/artist/05pZjhj26S39scU4qPUhzq), [Curl](https://open.spotify.com/artist/0Piu1e2BjLNbxYoRNlVu9i) | [Dock of the Bay](https://open.spotify.com/album/2KReXQKLOgqMA3JiP55JQE) | 3:10 |
 | 13 | [Your One and Only Man](https://open.spotify.com/track/6uhwq7W3sCAhf5RPV3STqj) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Old Sock](https://open.spotify.com/album/4P3By1D3VxXMbbNZJI0a8v) | 4:30 |
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNrnYO4HTko.md) - [plain]
 | 91 | [Sweet Soul Music](https://open.spotify.com/track/2YuIyYri67bgUXKQW5V9XW) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Sweet Soul Music](https://open.spotify.com/album/2fZ5TzqZjIWEAP5T9ktlBC) | 2:21 |
 | 92 | [Where You Lead Me](https://open.spotify.com/track/7CQfHbaz8di8UFbayDCRCl) | [Arthur Conley](https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB) | [Sweet Soul Music](https://open.spotify.com/album/6K1TG5C0rzi1tfNEmUI4CY) | 2:29 |
 
-Snapshot ID: `MCw0NzMxM2Y4ZTUxNmIxYjc1MzgyY2Q0YjUwMjU1NzcxZjVlODRmNTQ2`
+Snapshot ID: `MCwyZTg0MDc4ZTg3NDUwOTY1ZDJlOTVhYjgwMzQ5ODA1MjViMzMxYWYw`

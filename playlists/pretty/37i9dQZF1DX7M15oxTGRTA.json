@@ -1,12 +1,12 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 76730,
+  "num_followers": 76805,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDE0M2FiNTQ1ZThmZTUyYTA5MGU4NzYzNDNkYzE1OTZjZDlhM2Yx",
+  "snapshot_id": "MCwwOTViMWU4NGY4YmM4Yjc0OWU1ZDc1Y2EzZDZlYjkzYTk2N2VjMmNh",
   "tracks": [
     {
       "added_at": "2023-03-27 15:42:25",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-03-27 15:42:25",
       "album": {
-        "name": "3+3",
-        "url": "https://open.spotify.com/album/27eI33obJuyKebMTxAJJam"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 371706,
-      "name": "Summer Breeze, Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/7wcP2Aa2SliFhwi4SyfvfV"
-    },
-    {
-      "added_at": "2023-03-27 15:42:25",
-      "album": {
         "name": "Jazzy Soul",
         "url": "https://open.spotify.com/album/3n3dFmQjPGQsnAcLK9lu6I"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 250266,
       "name": "Caught Up In the Rapture",
       "url": "https://open.spotify.com/track/5ygOH8xQGicxuxa43vSWwd"
+    },
+    {
+      "added_at": "2023-03-27 15:42:25",
+      "album": {
+        "name": "3+3",
+        "url": "https://open.spotify.com/album/27eI33obJuyKebMTxAJJam"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 371706,
+      "name": "Summer Breeze, Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/7wcP2Aa2SliFhwi4SyfvfV"
     },
     {
       "added_at": "2023-03-27 15:42:25",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-03-27 15:42:25",
       "album": {
-        "name": "I'm In Love Again",
-        "url": "https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy"
-      },
-      "artists": [
-        {
-          "name": "Patti LaBelle",
-          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
-        }
-      ],
-      "duration_ms": 285333,
-      "name": "If Only You Knew",
-      "url": "https://open.spotify.com/track/60kYnvU89eL92jJ3eQcPXq"
-    },
-    {
-      "added_at": "2023-03-27 15:42:25",
-      "album": {
         "name": "Pride Classics",
         "url": "https://open.spotify.com/album/3vsDQuIiSjseCtQnNkVrIc"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 326586,
       "name": "Never Knew Love Like This Before",
       "url": "https://open.spotify.com/track/2sSQIWjGbrCqVQmTNyivVg"
+    },
+    {
+      "added_at": "2023-03-27 15:42:25",
+      "album": {
+        "name": "I'm In Love Again",
+        "url": "https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy"
+      },
+      "artists": [
+        {
+          "name": "Patti LaBelle",
+          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+        }
+      ],
+      "duration_ms": 285333,
+      "name": "If Only You Knew",
+      "url": "https://open.spotify.com/track/60kYnvU89eL92jJ3eQcPXq"
     },
     {
       "added_at": "2023-03-27 15:42:25",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2023-03-27 15:42:25",
       "album": {
-        "name": "Ask Rufus",
-        "url": "https://open.spotify.com/album/3ZJJdnvxztzpOvwvzUzUxC"
-      },
-      "artists": [
-        {
-          "name": "Rufus",
-          "url": "https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW"
-        },
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 288373,
-      "name": "Everlasting Love",
-      "url": "https://open.spotify.com/track/6MlM7j7otOKpa0jFi8htxm"
-    },
-    {
-      "added_at": "2023-03-27 15:42:25",
-      "album": {
         "name": "A Donny Hathaway Collection",
         "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 280800,
       "name": "The Closer I Get to You",
       "url": "https://open.spotify.com/track/44jdxE3S8EX1lOAxV9vQbZ"
+    },
+    {
+      "added_at": "2023-03-27 15:42:25",
+      "album": {
+        "name": "Ask Rufus",
+        "url": "https://open.spotify.com/album/3ZJJdnvxztzpOvwvzUzUxC"
+      },
+      "artists": [
+        {
+          "name": "Rufus",
+          "url": "https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW"
+        },
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 288373,
+      "name": "Everlasting Love",
+      "url": "https://open.spotify.com/track/6MlM7j7otOKpa0jFi8htxm"
     },
     {
       "added_at": "2023-03-27 15:42:25",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-03-27 15:42:25",
       "album": {
-        "name": "Girassol",
-        "url": "https://open.spotify.com/album/2z2VudqDCv38Pp6VuQvQmw"
-      },
-      "artists": [
-        {
-          "name": "Marcos Valle",
-          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
-        }
-      ],
-      "duration_ms": 101150,
-      "name": "Girassol",
-      "url": "https://open.spotify.com/track/6qrwtFwKy3brvOIuDhDfQ1"
-    },
-    {
-      "added_at": "2023-03-27 15:42:25",
-      "album": {
         "name": "Saci Perer\u00ea",
         "url": "https://open.spotify.com/album/3GcvpFejoLlbT2YsYHuyxF"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 245800,
       "name": "Amor Natural",
       "url": "https://open.spotify.com/track/3zI1MxYwvge3bTxdB3LOri"
+    },
+    {
+      "added_at": "2023-03-27 15:42:25",
+      "album": {
+        "name": "Girassol",
+        "url": "https://open.spotify.com/album/2z2VudqDCv38Pp6VuQvQmw"
+      },
+      "artists": [
+        {
+          "name": "Marcos Valle",
+          "url": "https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk"
+        }
+      ],
+      "duration_ms": 101150,
+      "name": "Girassol",
+      "url": "https://open.spotify.com/track/6qrwtFwKy3brvOIuDhDfQ1"
     },
     {
       "added_at": "2023-03-27 15:42:25",

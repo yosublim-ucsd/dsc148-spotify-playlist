@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Pesado en portada.
 
-348 songs - 18 hr 49 min
+349 songs - 18 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,7 +263,8 @@
 | [Pero Te Vas a Arrepentir](https://open.spotify.com/track/0BqupaTUKv80njcNbK0grX) | [La Reunion Nortena](https://open.spotify.com/artist/554Ew2NdutSKKljCiK3s3n), [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp) | [Pero Te Vas a Arrepentir](https://open.spotify.com/album/6vaE2TeXwrRTOc4HaKby51) | 2:50 | 2022-07-01 | 2022-07-22 |
 | [Pideme \- En Vivo](https://open.spotify.com/track/4OvWsid9gwU8nimd6KIXN6) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Pideme \(En Vivo\)](https://open.spotify.com/album/5YDFEV3hqfXdvFWO9DNFPR) | 4:16 | 2021-12-17 | 2023-04-15 |
 | [Pideme la Luna](https://open.spotify.com/track/3m2S4eEc19o5krIEplPq2c) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 2:47 | 2022-07-01 |  |
-| [Popurri Boleros Cadetes \- En Vivo](https://open.spotify.com/track/7LJKlA3EIT2UmMujVquf5S) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [En Vivo Desde la Paz](https://open.spotify.com/album/0b6lw7RY7naWJ42VJfmbtN) | 7:38 | 2022-07-01 |  |
+| [Pobre Corazón](https://open.spotify.com/track/03f6JBgQT5ZnvoojD6bVE8) | [Conjunto Rienda](https://open.spotify.com/artist/5P2aAxm2F4BMqiJvsbWmiU), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Pobre Corazón](https://open.spotify.com/album/4rJVWswYNiKmh9HVB3WXxd) | 4:00 | 2023-07-17 |  |
+| [Popurri Boleros Cadetes \- En Vivo](https://open.spotify.com/track/7LJKlA3EIT2UmMujVquf5S) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [En Vivo Desde la Paz](https://open.spotify.com/album/0b6lw7RY7naWJ42VJfmbtN) | 7:38 | 2022-07-01 | 2023-07-22 |
 | [Por Ella Tomo](https://open.spotify.com/track/0FkATCT3LOTcMaDh6nwFsl) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Por Ella Tomo](https://open.spotify.com/album/0a5Wnsr4Z7LHcqzONGR1XY) | 3:05 | 2022-07-01 | 2022-11-07 |
 | [Por Eso La Deje](https://open.spotify.com/track/6kOXYe3iDJhbuCvnCCeToK) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Por Eso La Deje](https://open.spotify.com/album/63EVky6PEKdJYaBowGkYBg) | 4:20 | 2023-01-27 |  |
 | [Por Fin](https://open.spotify.com/track/4jcFwcnHDVSB97MLQtmeAl) | [La Nueva Estrategia](https://open.spotify.com/artist/6KrsPUXRtIKhTla4QfuRW0), [Costumbre](https://open.spotify.com/artist/4GeHKoBHS3bHLGBUDEi90N) | [Por Fin](https://open.spotify.com/album/5PQmIJIX3dVagSqS9LwTVF) | 2:01 | 2023-01-27 | 2023-02-25 |

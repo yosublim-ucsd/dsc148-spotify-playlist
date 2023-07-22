@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,010 songs - 1 day 14 hr 4 min
+1,011 songs - 1 day 14 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -793,7 +793,8 @@
 | [Sightseeing \- Spotify Singles](https://open.spotify.com/track/5vCEWn2vvZJo8zbCbvraAG) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D) | [Spotify Singles](https://open.spotify.com/album/3I3g8FgFZjTqNIkAge7kja) | 4:20 | 2022-05-04 | 2023-03-18 |
 | [Silence](https://open.spotify.com/track/4ttNvUY7MsacvCSdlRwKSD) | [AWL](https://open.spotify.com/artist/7DYdwCUdpyJMKpaaL1cSBF) | [Silence](https://open.spotify.com/album/2aErA4LHZw9ZBRVQw6xqz9) | 1:58 | 2023-04-11 |  |
 | [Silk Lips](https://open.spotify.com/track/26nnd4xKNuV4jXkr9fJkKc) | [Saif Amo](https://open.spotify.com/artist/0EtMAH16SljSdJ3DFy2pod) | [Silk Lips](https://open.spotify.com/album/3T1Kxwr9f5YRF7EPXIfqeV) | 2:07 | 2021-11-10 | 2022-06-03 |
-| [simple things](https://open.spotify.com/track/1CJM6Gfherzr42RxVX5ThN) | [ninomiya tatsuki](https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep) | [simple things](https://open.spotify.com/album/71oWQEjhHfLBxiGS6ivQmj) | 3:12 | 2023-05-19 |  |
+| [simple things](https://open.spotify.com/track/1CJM6Gfherzr42RxVX5ThN) | [ninomiya tatsuki](https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep) | [simple things](https://open.spotify.com/album/71oWQEjhHfLBxiGS6ivQmj) | 3:12 | 2023-05-19 | 2023-07-22 |
+| [simple things](https://open.spotify.com/track/5dCx5QAg5BV7lTM5SGAoNr) | [ninomiya tatsuki](https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep) | [A journey to recovery](https://open.spotify.com/album/6irBGY6ICtVY3pSSW7UeU6) | 3:12 | 2023-07-13 |  |
 | [Simulated Dreams](https://open.spotify.com/track/6wVZttXiGvLabOLuMrK5cE) | [Restl3ss](https://open.spotify.com/artist/01ycQSPdw38BZhDhjOdZNt) | [Simulated Dreams](https://open.spotify.com/album/1I0wWUfPg3Bwb3ujGucFS4) | 1:46 | 2022-10-01 |  |
 | [Six In The Rain](https://open.spotify.com/track/3J5qczCznbmlyOE3mW4GMb) | [Mamoosh](https://open.spotify.com/artist/4Crh0nifXFdUqmIsxFUfen) | [Six In The Rain](https://open.spotify.com/album/3pPtW1IGXHBfp4vHsmomKV) | 2:13 | 2022-10-28 |  |
 | [Skate Home](https://open.spotify.com/track/5s27VHZCHUhdn2KNQnBhnx) | [Lomme](https://open.spotify.com/artist/2UxHowdAHxVWPhQQswzpT6), [Kayba](https://open.spotify.com/artist/6ALIOkppAXyMd9G0MbHqOL), [Elk Beats](https://open.spotify.com/artist/1Nl5io0qeF6ISnWrdTnFQB) | [Skate Home](https://open.spotify.com/album/0xPJ5W6eqtlgMbC8x1ZREe) | 2:22 | 2022-07-08 | 2022-10-29 |

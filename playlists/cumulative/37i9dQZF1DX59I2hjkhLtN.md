@@ -4,7 +4,7 @@
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: B3L2.
 
-539 songs - 1 day 3 hr 18 min
+540 songs - 1 day 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,6 +274,7 @@
 | [Md de 30](https://open.spotify.com/track/7ttO0fIe7gRKsHkij2g2Iz) | [TRIQ](https://open.spotify.com/artist/3Xk6FbumarAUp9dsJ3AoLd) | [Md de 30](https://open.spotify.com/album/2bjmy19RfJfW97bL8z4dVw) | 1:08 | 2023-02-03 | 2023-04-07 |
 | [Memórias](https://open.spotify.com/track/6n3RDwum2MJqltcMUSECBz) | [mizx999](https://open.spotify.com/artist/6EzFjRl6oNQYmyK0ulUbZc), [1200 DAV](https://open.spotify.com/artist/5PCKw5QFWOJ2nJvtbXQ0Lq) | [Egostar](https://open.spotify.com/album/4fskL1gng1MF8cONLONSJA) | 2:36 | 2022-08-18 | 2022-09-30 |
 | [Mente Chora](https://open.spotify.com/track/1IXZp0IZSK91o4locn1ghq) | [FR3DDY](https://open.spotify.com/artist/5D4bziCymPVk5UwjMLj33u) | [Mente Chora](https://open.spotify.com/album/6vdyncpUYEpvN8uQG1RKs3) | 2:05 | 2023-02-10 | 2023-04-21 |
+| [Mentirosa](https://open.spotify.com/track/0MV8lykHOTP1L0rluQwNqn) | [Guizzy](https://open.spotify.com/artist/00inQ4w5hP4mYdKHcykVdP) | [Mentirosa](https://open.spotify.com/album/31Dij2qzaZSYOaB6xXiXEU) | 2:26 | 2023-07-20 |  |
 | [Mereces](https://open.spotify.com/track/3GMiqQto55B9vjUhFUFYGK) | [Deni](https://open.spotify.com/artist/6HqlRHxDB2t1XzsLCmeK6G) | [Mereces](https://open.spotify.com/album/0jUehlIRWSQkj3XjQY1hSw) | 3:18 | 2023-03-24 | 2023-06-02 |
 | [MESMA](https://open.spotify.com/track/6rt21En0XCDmza38fjxgSp) | [YoungM295](https://open.spotify.com/artist/66P4PBoasPzM2FxwAWmb0c) | [MESMA](https://open.spotify.com/album/2ax8XcoNRj35qPiD06O4F7) | 2:22 | 2022-08-18 | 2022-11-18 |
 | [Mestre de Cerimônia](https://open.spotify.com/track/7n153KNgQ7FYgfj1356d3N) | [N'zau](https://open.spotify.com/artist/4xzcSyjkyqcbcOU0v3YDOJ) | [Mestre de Cerimônia](https://open.spotify.com/album/5HHWFX87UPXMqtJVSZ9LVs) | 3:17 | 2023-01-06 | 2023-01-17 |

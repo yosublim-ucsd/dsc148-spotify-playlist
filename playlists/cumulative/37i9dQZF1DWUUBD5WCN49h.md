@@ -4,7 +4,7 @@
 
 > New and emerging R&B and Alternative tracks\. Cover: <a href="https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA?si=GYzY\-qD7QNOnzqWnz6bMKw"> Taves </a>
 
-493 songs - 1 day 0 hr 10 min
+495 songs - 1 day 0 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Beggie Beggie](https://open.spotify.com/track/6zublRIkZocboXucqc8hgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 3:28 | 2022-06-30 | 2023-02-11 |
 | [Beside You](https://open.spotify.com/track/2yyi0FijxXpUqNoO7Q6m8j) | [Black Girls Glow](https://open.spotify.com/artist/2rzelYNts2hxyccqXrIESK), [Lindsey Abudei](https://open.spotify.com/artist/4Q6rN4TEmcx96jFxAoQoLg), [Lor](https://open.spotify.com/artist/0qB2kln0DEhQW99YeSgVPK), [Lily Asia](https://open.spotify.com/artist/5UzCUtrwz4xfsQYoA9toYu) | [Tapestry](https://open.spotify.com/album/3bP6xutBMEXvmVbecXNF6u) | 3:47 | 2022-10-13 | 2022-11-26 |
 | [Better Than This \(feat\. Tellaman\)](https://open.spotify.com/track/50PMuNQuMKQHCzxonOeDHE) | [Select Play](https://open.spotify.com/artist/5bJTdzjq8dZRcVjJ8FkAiU), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ), [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW) | [Better Than This \(feat\. Tellaman\)](https://open.spotify.com/album/4gXWlYFDwStgusk7cnXv0A) | 3:54 | 2023-06-22 |  |
+| [BILLING = CHILLING](https://open.spotify.com/track/0whm71yydiyeu8W2WnKAD4) | [Toyé](https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi) | [BILLING = CHILLING](https://open.spotify.com/album/7IUFcafS1yVSCcnI6xpYq3) | 2:50 | 2023-07-20 |  |
 | [BIO BIO](https://open.spotify.com/track/4FdqMkSkh3OFoVXdHOOufu) | [Imole](https://open.spotify.com/artist/7hMY68ne4wp5iEzEOeRuAe) | [BIO BIO](https://open.spotify.com/album/09VOTuDWx2DiNAgS6XQpHX) | 2:23 | 2023-03-10 | 2023-03-18 |
 | [Bird](https://open.spotify.com/track/014HTC0i178dC8vOoYuUqA) | [Tomi Owó](https://open.spotify.com/artist/21EqvfrgEecTOZtKffQ82k) | [Bird](https://open.spotify.com/album/7iIbb8X14YRGEJMH1Ff8uK) | 3:01 | 2022-08-05 | 2022-10-22 |
 | [Black African Girl \- Live](https://open.spotify.com/track/4nElKACxj6lwIYGdruu4qk) | [Kelvin Kay](https://open.spotify.com/artist/2GkgCn7VrfWOdeUhaS2Rby) | [Black African Girl \(Live\)](https://open.spotify.com/album/61UNUiENw0AidCyCG1KAdo) | 3:10 | 2023-01-13 | 2023-01-20 |
@@ -254,6 +255,7 @@
 | [Let me go](https://open.spotify.com/track/6w52GAsdrejKZPZPo4Iu47) | [Zenesoul](https://open.spotify.com/artist/4fjVBrdMkkYdfJ3bL6lhKX) | [Let me go](https://open.spotify.com/album/1GLbCf7kN8GExrykwIXyYS) | 3:20 | 2023-03-24 | 2023-05-12 |
 | [Let Me Know](https://open.spotify.com/track/3QdjMqPmdqQg1OeJpMTeL3) | [Ink Boy](https://open.spotify.com/artist/5h08861M7tKrIOmO3aZnCt) | [Let Me Know](https://open.spotify.com/album/5ouDvbGvXEbQsf9dG9y7pw) | 2:32 | 2023-02-03 | 2023-02-24 |
 | [Let Me Know](https://open.spotify.com/track/36SgcAZSooUZiZ5xNREtjZ) | [Kwame Vybz](https://open.spotify.com/artist/16MxvE6X1uGG7ddY3XLgdY) | [Let Me Know](https://open.spotify.com/album/2uXFbkYlnUQza6tzMloWHp) | 2:51 | 2023-03-17 | 2023-04-28 |
+| [Life](https://open.spotify.com/track/5dpkojjeGT4Q3QHojlOU0Y) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [Life](https://open.spotify.com/album/7qMz7agXz7ZBAiJLYBL1XK) | 2:24 | 2023-07-20 |  |
 | [Lifeline](https://open.spotify.com/track/7cE3h9KJvSM1GUBAdms8Hy) | [Raytheboffin](https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r), [3kene](https://open.spotify.com/artist/17OB2zVYkeBD5fX4PG1eZv), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Lifeline](https://open.spotify.com/album/4fMsahuiYmcQrooQMouiY3) | 2:53 | 2023-06-30 |  |
 | [Lights](https://open.spotify.com/track/4ehv6o4SKNuRoZG6F3aKqi) | [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [Catch Up! // Lights](https://open.spotify.com/album/0nf3qQAlrY59xIDSV4ug7f) | 2:18 | 2023-06-30 |  |
 | [Lights Down Low](https://open.spotify.com/track/7l5k2x7gv3mWPSTa84AmjE) | [OSO](https://open.spotify.com/artist/62fPxmuEy5IX40T8omAeB2), [Riunga](https://open.spotify.com/artist/5p6jlUhwtOoesY5LJ2awoN) | [R\-/LBT](https://open.spotify.com/album/2V04iRsZlNM9DCPP4wYkKc) | 3:50 | 2022-10-28 | 2023-02-04 |

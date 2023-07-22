@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,086 songs - 2 day 7 hr 43 min
+1,087 songs - 2 day 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -412,6 +412,7 @@
 | [help herself \(with BENEE\)](https://open.spotify.com/track/7bhpOnHyttMaBCg6WGCRzi) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5), [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [help herself \(with BENEE\)](https://open.spotify.com/album/1dtiE9k4fY5xKRb4r80NKa) | 2:46 | 2021-05-03 | 2021-08-14 |
 | [Her](https://open.spotify.com/track/4wrU0njLIARnN1czWi3XDP) | [Bookclub](https://open.spotify.com/artist/7EGhv1hgTSLN2ld2kDbfd1) | [Her](https://open.spotify.com/album/1RwNSpnPffYhuDACj17B9W) | 4:12 | 2022-01-21 | 2022-05-20 |
 | [Here's To Another](https://open.spotify.com/track/4Ob4ZQ6yiB6WhFGcZaC5qo) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Here's To Another](https://open.spotify.com/album/5HhdWgcutL2dYPUazA2OO0) | 3:07 | 2021-03-27 | 2021-05-08 |
+| [Hey Blondie \(From Barbie The Album\)](https://open.spotify.com/track/78JGdUz8IxGBaBpZo9BYKv) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Hey Blondie \(From Barbie The Album\)](https://open.spotify.com/album/4xkTjrcq1DSA8fZ09ILDm5) | 2:21 | 2023-07-21 |  |
 | [Hibiscus](https://open.spotify.com/track/6Q7ka1G1n1cnLnDzfwPc9R) | [Ryan Leahan](https://open.spotify.com/artist/4BX7bOS5nj3842rKfEnTIg) | [Hibiscus](https://open.spotify.com/album/4suZn3kF7vFgR6PO2I90DT) | 2:47 | 2020-10-29\* | 2021-01-06 |
 | [Hide](https://open.spotify.com/track/7GXG38022Aw5g67p1HTpOp) | [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [Hide](https://open.spotify.com/album/0rrvnWE3Wr2I8twUu80PX1) | 1:51 | 2020-10-29\* | 2020-11-14 |
 | [HIDE](https://open.spotify.com/track/1ZK4x9YUytJSgdu2yC39z7) | [Marko](https://open.spotify.com/artist/1gBpdTK92fXFog9vxL9eL5) | [HIDE](https://open.spotify.com/album/1utKbZcRFkm5ANR84UQBvk) | 2:47 | 2022-02-04 | 2022-07-16 |
@@ -825,7 +826,7 @@
 | [Shady](https://open.spotify.com/track/4SPq74rXWTLniPFUYxK2eh) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Shady](https://open.spotify.com/album/1ZKO2za2kGt7e1dGOh8nIc) | 2:55 | 2020-11-14 | 2021-01-30 |
 | [Shapeshift](https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Shapeshift](https://open.spotify.com/album/5hgChCe2iQ66hwlMAINHyf) | 2:25 | 2022-01-28 | 2022-04-16 |
 | [Sharpener](https://open.spotify.com/track/2aReOPqi6NjhJ8zxa0Mi2D) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Sharpener](https://open.spotify.com/album/3MxrCAA1Z5FOaqdqOaiFYz) | 3:57 | 2020-10-29\* | 2021-02-06 |
-| [sheluvme](https://open.spotify.com/track/64Ds8EuwkeGSOeXDzXLRZz) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [sheluvme](https://open.spotify.com/album/4jg0Buspy2uDrSajhm6rnm) | 2:30 | 2022-06-24 |  |
+| [sheluvme](https://open.spotify.com/track/64Ds8EuwkeGSOeXDzXLRZz) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [sheluvme](https://open.spotify.com/album/4jg0Buspy2uDrSajhm6rnm) | 2:30 | 2022-06-24 | 2023-07-22 |
 | [Show Runner 99](https://open.spotify.com/track/4G5bnCpOB99DIcOQa6QVYw) | [Ritt Momney](https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka) | [Show Runner 99](https://open.spotify.com/album/1ixXFuKaljRwvI8IEupLeQ) | 3:26 | 2021-08-28 | 2021-11-10 |
 | [Shut It Up!](https://open.spotify.com/track/7MvZSYL3SmiaHIXcjfhAvM) | [Flowerboy](https://open.spotify.com/artist/10HyhQTjkmDpWBpaUgO2GS) | [Shut It Up!](https://open.spotify.com/album/0uz9UTudURoUl1B7elaXMw) | 1:52 | 2022-03-11 | 2022-04-02 |
 | [si rose](https://open.spotify.com/track/2afbvWy02QHOd7PSyBp1A5) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [postcard from Paris](https://open.spotify.com/album/6wRJKg7Vnp3YDtwWXRcmxr) | 3:28 | 2022-06-10 |  |

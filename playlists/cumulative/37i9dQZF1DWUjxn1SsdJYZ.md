@@ -4,7 +4,7 @@
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: AMARNI
 
-509 songs - 23 hr 52 min
+511 songs - 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,6 +285,7 @@
 | [Melanin](https://open.spotify.com/track/5tj4mOsSHvTaivDLlg7ZqL) | [Kuda](https://open.spotify.com/artist/7yNCLwxAiLcfv77VpBCzab), [lxrdmc](https://open.spotify.com/artist/5jwVGdn7Uw3im5PtL6owZZ), [DSP](https://open.spotify.com/artist/17GAXOUu9d8YXnuwVeGphZ) | [Melanin](https://open.spotify.com/album/3HcSMiiBfkIRSzwrdqLYMV) | 2:31 | 2023-06-16 |  |
 | [MHMM](https://open.spotify.com/track/53vnp4yNfgLRjT1jfcukkq) | [Shely210](https://open.spotify.com/artist/6utJwWy5PZjCM2qYgKQKAK), [Vinny](https://open.spotify.com/artist/6WCaEpEZmlapvnhfIdTxMN) | [Stack or Starve](https://open.spotify.com/album/1EJAt0Q2dC719lyBugb3gv) | 3:17 | 2022-03-21 | 2022-09-23 |
 | [Mi Nuh Like](https://open.spotify.com/track/3zLc3jFkHu9ZUAwR83LDyZ) | [Gold Fang](https://open.spotify.com/artist/1e8lOc1h26CVBSGh3iiW7M) | [Mi Nuh Like](https://open.spotify.com/album/75RqkVHqZyV6wJCqFyP2XH) | 3:15 | 2023-02-02 | 2023-03-31 |
+| [Midnight Sun](https://open.spotify.com/track/6VruexMGmO8zonX9LIU4cK) | [Terror Reid](https://open.spotify.com/artist/5No9X0ZejwFDnD1dVllwQA), [Pouya](https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [Midnight Sun](https://open.spotify.com/album/0CHvMh24eRmthzRALhsDR4) | 2:04 | 2023-07-21 |  |
 | [Molly Meldrum](https://open.spotify.com/track/3jZaqu5nKGdJAbFPuNFG51) | [Freesouls](https://open.spotify.com/artist/1nGYnSTlhdtfiP9goJ8UaF) | [FS Type Beats](https://open.spotify.com/album/2r0tKVKRCyof88kyiyFNUL) | 2:31 | 2022-05-01 | 2022-10-28 |
 | [Money Making](https://open.spotify.com/track/5ZeVwooCDvIJzYZABdG8su) | [OHNINE](https://open.spotify.com/artist/5a9pY8lAuqzP3S6fADx8Vw), [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [Abandoned Avenue](https://open.spotify.com/album/1Nyp4JFsNBHOa0bFLFVM3d) | 2:38 | 2023-03-23 |  |
 | [Moppin](https://open.spotify.com/track/1nmHyC4nZmCwWkpgDC31n9) | [Yaz](https://open.spotify.com/artist/7zcoCcZ5ofhGbbdbl5jULg) | [Moppin](https://open.spotify.com/album/7gg2TgpdyK6Xz45qExCw6M) | 3:10 | 2022-05-05 | 2022-09-23 |
@@ -449,6 +450,7 @@
 | [TIME N PLACE](https://open.spotify.com/track/7GqYbc1Mxs2TTtjfcjXgZo) | [The GP](https://open.spotify.com/artist/0gTh7DXw0XXoq067gagX3l), [DIBZ](https://open.spotify.com/artist/6zFwkIEBUP5ASaxlgpniej), [Vicolo](https://open.spotify.com/artist/0o81qxlmZuYNqSktshNDV3) | [TIME N PLACE](https://open.spotify.com/album/5cHsnbM0L71OsMQomHdSMq) | 3:23 | 2022-07-14 | 2022-08-26 |
 | [Times Up](https://open.spotify.com/track/0mcN2AnotLaWI373LrZvfC) | [Tokyo Vendetta](https://open.spotify.com/artist/0qYhGiA7BARkaoJbklqLG7) | [Times Up](https://open.spotify.com/album/2h804f1HxwtNXklW5KiEWG) | 2:22 | 2023-03-16 |  |
 | [TN's](https://open.spotify.com/track/3tmlUmwDwHgDgKxwCRHdqE) | [Cult Shφtta](https://open.spotify.com/artist/3kjbXyjmFY15U6cCclZL3P), [lil golo](https://open.spotify.com/artist/6afabx0UIdhKSFeUbVKfhJ), [Tanboymiguel](https://open.spotify.com/artist/2jH4mrsnpTYtggAeVH9Vwc) | [TN's](https://open.spotify.com/album/3by2215TMTtgVkqonuyMGk) | 2:26 | 2022-03-21 | 2022-03-25 |
+| [TOO HOT](https://open.spotify.com/track/5I8LL0HSQM1IjPSs2r34Ra) | [Yung Maynie](https://open.spotify.com/artist/3GtXvOMS0lIg2l6Ss4sAtI) | [TOO HOT](https://open.spotify.com/album/3zK0Gw1Qnmx6tKbvCsE5lX) | 2:36 | 2023-07-21 |  |
 | [Too Many](https://open.spotify.com/track/2kXTkNH98NjNogNYl6n4n1) | [AMUthaMC](https://open.spotify.com/artist/4IdDa7k5yOYE7PBlCKKxI0), [MLBRN](https://open.spotify.com/artist/7ihFSoNSgZOARN8pLr6g5L) | [Too Many](https://open.spotify.com/album/7HEW63Uh8ACYBpScci7nIX) | 3:53 | 2022-06-30 | 2022-09-23 |
 | [Too Many](https://open.spotify.com/track/3xybk576tUmLOVNhgwoOEJ) | [AMUthaMC](https://open.spotify.com/artist/4IdDa7k5yOYE7PBlCKKxI0), [MLBRN](https://open.spotify.com/artist/7ihFSoNSgZOARN8pLr6g5L) | [Too Many](https://open.spotify.com/album/32WuPxUCxop58CcOSyYALc) | 3:53 | 2022-09-22 | 2022-10-28 |
 | [TOOT](https://open.spotify.com/track/5ojlLn2ycSRJKa1OwrZih1) | [HEETZ](https://open.spotify.com/artist/2pLgcorx08Sm04s4bnGiBW), [Xg](https://open.spotify.com/artist/58fEvKEk1EHZI2EvwBLrRQ), [Dylz](https://open.spotify.com/artist/6vUAgGvqIOZ6UDAJ7uqgCm) | [TOOT](https://open.spotify.com/album/2bR1sg2a9szXN03R201RKQ) | 3:29 | 2022-10-13 | 2023-01-20 |

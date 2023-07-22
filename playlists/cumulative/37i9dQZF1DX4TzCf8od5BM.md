@@ -4,7 +4,7 @@
 
 > Sing\-along with your favorite songs from Disney Junior shows including new music from SuperKitties!  Watch SuperKitties on Disney Junior, Disney Channel, and Disney+.
 
-185 songs - 4 hr 41 min
+187 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Baa, Baa, Black Sheep](https://open.spotify.com/track/0FQWQYmTACpK6y7LdFDzzJ) | [Genevieve Goings](https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN) | [Disney Junior Music: Nursery Rhymes Vol\. 2](https://open.spotify.com/album/2XM2zUWnQNkPyxxA5iUlOc) | 1:24 | 2022-03-18 |  |
 | [Baboons!](https://open.spotify.com/track/1OOq8w9ADim9j3Hm8H3YzH) | [Cast \- The Lion Guard](https://open.spotify.com/artist/5JzY52U0wxtkFAxSsgQub7) | [The Lion Guard: Disney Junior Music](https://open.spotify.com/album/14vTy6HIn4yERpXiN3IIuv) | 2:05 | 2022-03-18 |  |
 | [Baby Bath Time](https://open.spotify.com/track/0vASj53WHYdRqmWXKFraQZ) | [Doc McStuffins \- Cast](https://open.spotify.com/artist/0uJln5OCeNdFzQuRfV5Ddo) | [Doc McStuffins: Disney Junior Music](https://open.spotify.com/album/0L9q0keOfRGpk5ElzGFZsd) | 0:52 | 2022-03-18 |  |
+| [Be A Firebud \- From "Disney Junior Music: Firebuds"](https://open.spotify.com/track/11IfD973wh91iYe4AH0lfP) | [Firebuds \- Cast](https://open.spotify.com/artist/302laih82Q7GtW72QI8sGR), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Be A Firebud \(From "Disney Junior Music: Firebuds"\)](https://open.spotify.com/album/34YGWg1HdUBeTSxgF9vwVe) | 2:30 | 2023-07-21 |  |
 | [Best Medicine](https://open.spotify.com/track/46YX7WnuTsE8Q1JTyNw29I) | [Doc McStuffins \- Cast](https://open.spotify.com/artist/0uJln5OCeNdFzQuRfV5Ddo) | [Disney Junior Music: Doc McStuffins \- The Doc Is In Vol\. 2](https://open.spotify.com/album/2APRAxjQ9Y4HLCm2sJuQdO) | 0:55 | 2022-03-18 |  |
 | [Better Together](https://open.spotify.com/track/06XmduRx6Fhod8FnjyK9lh) | [Mickey Mouse](https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE), [Mickey Mouse Funhouse \- Cast](https://open.spotify.com/artist/1Vn7zu8r6zi4pYbSq0XWIS) | [Disney Junior Music: Mickey Mouse Funhouse Vol\. 1](https://open.spotify.com/album/4WAOBwmnOk4t3aZ7a4z7ZX) | 1:18 | 2022-03-18 |  |
 | [Bingo](https://open.spotify.com/track/32A7XEl78TS87LaA2RAF6B) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music Nursery Rhymes Vol\. 1](https://open.spotify.com/album/281OtNjwUK3eZWhEyPp53X) | 1:21 | 2022-03-18 |  |
@@ -125,6 +126,7 @@
 | [Old MacDonald Had a Farm](https://open.spotify.com/track/2BOsNAgMkMV2IbVRh6DZmG) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music Nursery Rhymes Vol\. 1](https://open.spotify.com/album/281OtNjwUK3eZWhEyPp53X) | 1:23 | 2022-03-18 |  |
 | [On the Move](https://open.spotify.com/track/2Gdr98slaL73rUB7AC4IWC) | [Firebuds \- Cast](https://open.spotify.com/artist/302laih82Q7GtW72QI8sGR), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Firebuds](https://open.spotify.com/album/6lqxNL9iYLCkY2jomLgY0u) | 0:47 | 2022-09-16 |  |
 | [One Potato, Two Potato](https://open.spotify.com/track/3bdY37qu59mFKskAeZx9qP) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Nursery Rhymes Vol\. 2](https://open.spotify.com/album/2XM2zUWnQNkPyxxA5iUlOc) | 1:24 | 2022-03-18 |  |
+| [Our Homespun Melody](https://open.spotify.com/track/1qpnk2QGQynSnCt8eARtiQ) | [Mickey Mouse](https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE) | [Mickey Mouse \(Music from the Disney Mickey Mouse Shorts\)](https://open.spotify.com/album/3CfYEWvlL7F4HYOM73YD8E) | 2:47 | 2023-07-21 |  |
 | [Pajama Jam](https://open.spotify.com/track/7o15Cd75YcT2PAOYpURnx0) | [Genevieve Goings](https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN) | [Disney Junior Music: Ready for Preschool Vol\. 3](https://open.spotify.com/album/3C9z0vWCkWpd7L3l4k1COO) | 1:27 | 2022-03-18 |  |
 | [Plain and Fancy](https://open.spotify.com/track/3w92mWSiXZYfM8wyYar7m1) | [Fancy Nancy \- Cast](https://open.spotify.com/artist/4l4bo3QrT0fqA2brroiv34) | [Disney Junior Music: Fancy Nancy](https://open.spotify.com/album/1mMKPPInoqT49MtSQYZK5N) | 0:59 | 2022-03-18 |  |
 | [Play Us Your Song](https://open.spotify.com/track/7unH9vyJYLbjCTEtqNGAk8) | [Mira, Royal Detective \- Cast](https://open.spotify.com/artist/4wz6QHgIkdmvQwhEmzwWZj) | [Disney Junior Music: Mira, Royal Detective](https://open.spotify.com/album/0bbffEsQXm7Z16d0iC3W2k) | 1:24 | 2022-03-18 |  |

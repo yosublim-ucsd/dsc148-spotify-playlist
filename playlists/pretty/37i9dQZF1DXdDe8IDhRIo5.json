@@ -1,12 +1,12 @@
 {
   "description": "Django and beyond.",
-  "num_followers": 270720,
+  "num_followers": 270770,
   "original_name": "Hot Club Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDQ4MzA3NWEyNjVjZTFhMTI5MzU2YThkYjQ1NGVhOWFiNjU3OWRi",
+  "snapshot_id": "MCw3NDNhODM5Nzc5ZTdhMTJlYmIwMTNhZWZlZWU0MWNhNTA0YmFlOWVh",
   "tracks": [
     {
       "added_at": "2022-08-19 04:02:00",
@@ -63,6 +63,26 @@
       "duration_ms": 224853,
       "name": "Billet doux",
       "url": "https://open.spotify.com/track/0q7dCoFz7QlS7vWwcuzQEO"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Place du swing",
+        "url": "https://open.spotify.com/album/3S4mE5XrpQcV2w0CPLhOIB"
+      },
+      "artists": [
+        {
+          "name": "Greg Ruby",
+          "url": "https://open.spotify.com/artist/6JAWbslWhlSq3tmcANaFS7"
+        },
+        {
+          "name": "Steve Rice",
+          "url": "https://open.spotify.com/artist/0q1LMzk9N688736AFf4146"
+        }
+      ],
+      "duration_ms": 243382,
+      "name": "Place du Swing",
+      "url": "https://open.spotify.com/track/5ybS0DddQYx9gO6YKtFcIQ"
     },
     {
       "added_at": "2022-05-13 04:02:00",

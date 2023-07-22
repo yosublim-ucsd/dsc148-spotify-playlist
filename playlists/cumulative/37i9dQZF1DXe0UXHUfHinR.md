@@ -4,7 +4,7 @@
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-622 songs - 2 day 1 hr 11 min
+624 songs - 2 day 1 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [Fever](https://open.spotify.com/track/3aPlQWU07jGgyHaBHVS5TS) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Things Are Swingin'](https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT) | 3:19 | 2022-10-27 |  |
 | [First Gymnopedie](https://open.spotify.com/track/2U0UZHljhqhX50VbzsKo0K) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [Psychicemotus](https://open.spotify.com/album/4UqqaK6LJahK6O4dbSTEKP) | 3:27 | 2022-10-27 |  |
 | [Fly Me To The Moon \(In Other Words\)](https://open.spotify.com/track/5b7OgznPJJr1vHNYGyvxau) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Sinatra/Basie: The Complete Reprise Studio Recordings](https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl) | 2:27 | 2022-10-27 |  |
-| [Foolin' Myself](https://open.spotify.com/track/1M0bEJicvT2qmdJej9wjyk) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [Motion](https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU) | 6:57 | 2022-10-27 |  |
+| [Foolin' Myself](https://open.spotify.com/track/1M0bEJicvT2qmdJej9wjyk) | [Lee Konitz](https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k) | [Motion](https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU) | 6:57 | 2022-10-27 | 2023-07-22 |
 | [Fools Rush In](https://open.spotify.com/track/7hbpUZY7qsDPBe9X2juJEz) | [Teddy Wilson](https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii) | [The Noble Art Of Teddy Wilson](https://open.spotify.com/album/32TZRpG7qCdeDEjWbSWS8G) | 2:29 | 2022-10-27 |  |
 | [Footprints \- Remastered](https://open.spotify.com/track/2JITVZu8o6ls9k8SoMRy7w) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Adam's Apple \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/4sxvTow8IffB0lisGJWb6Z) | 7:29 | 2022-10-27 |  |
 | [For All We Know](https://open.spotify.com/track/086RZ0U22i29HR5bj0sWSB) | [Ahmad Jamal](https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O) | [Happy Moods](https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj) | 2:47 | 2022-10-27 |  |
@@ -214,11 +214,13 @@
 | [Goodbye Pork Pie Hat](https://open.spotify.com/track/3PJMsxg6rz9FOo6xNiASXz) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Ah Um](https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA) | 5:42 | 2022-10-27 |  |
 | [Goodbye, Old Girl](https://open.spotify.com/track/5eFFsShr8vchESCk8HGxvn) | [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u) | [Art](https://open.spotify.com/album/3jsIHlh7BZr0HHvzPHi84G) | 4:34 | 2022-10-27 |  |
 | [Graceful Touch](https://open.spotify.com/track/4vTZifau5Us490e0sQCU1y) | [Tord Gustavsen Trio](https://open.spotify.com/artist/3aTJxwDLCqCNvjrG7USP1a) | [Changing Places](https://open.spotify.com/album/4572n5PFAccWTD3Aq3tw5g) | 3:50 | 2022-10-27 |  |
+| [Green Eyes](https://open.spotify.com/track/56z6nKTleua5OBs5dO76aV) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Light\-Foot](https://open.spotify.com/album/4TUkYB55C23uHCxyLjGAaR) | 5:19 | 2023-06-21 |  |
 | [Groovin' High](https://open.spotify.com/track/4ttUzFCVnlOmopuzM4oEUJ) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Groovin' High](https://open.spotify.com/album/6uX5idggmNHPmH1FQmw1NN) | 2:43 | 2023-04-19 | 2023-07-06 |
 | [Générique \- Bande originale du film "Ascenseur pour l'échafaud"](https://open.spotify.com/track/3I1LsXYKMeWbdgJgADH8yY) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Ascenseur pour l'échafaud](https://open.spotify.com/album/0aoOdlpGLfNCUFhQu7UIs2) | 2:48 | 2022-10-27 |  |
 | [Happiness Is](https://open.spotify.com/track/0dNx3GBIYYnHGf1msrN6ZU) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Boy Named Charlie Brown](https://open.spotify.com/album/4bNE83zw6uZs5FyDFnSCui) | 3:40 | 2022-10-27 | 2023-01-15 |
 | [Haupe](https://open.spotify.com/track/05d3KM9JTyNnnWIjo8PKvf) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Anatomy of a Murder](https://open.spotify.com/album/3WbMnT3abDjzrCzZQ9WtLK) | 2:36 | 2022-10-27 |  |
 | [Have You Ever Seen The Rain](https://open.spotify.com/track/3NgbqEb4VID47c65fyAJic) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Karen Souza Essentials](https://open.spotify.com/album/7oLFzJWMBpnAB7jd5bMOxm) | 4:10 | 2022-10-27 |  |
+| [Hay Burner](https://open.spotify.com/track/2MlQuvVsq23rnanz6OYaB5) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Straight Ahead](https://open.spotify.com/album/5btsSLBlxxrOjw0hnVV9xM) | 4:16 | 2023-06-21 |  |
 | [Hello, Dolly!](https://open.spotify.com/track/63kd4m3VFxcJjPVVtbVNAu) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello, Dolly! \(Remastered\)](https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC) | 2:27 | 2022-10-27 |  |
 | [Here's That Rainy Day](https://open.spotify.com/track/1m0dIj1PvGldkiwJUYzc1l) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [The Boss Is Back!](https://open.spotify.com/album/737Arukc7X3Nc9F5FYuBmz) | 6:07 | 2022-10-27 |  |
 | [Here, There and Everywhere](https://open.spotify.com/track/2hOd88IAX1JT3EfktlSp4D) | [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn), [Andrew Simpkins](https://open.spotify.com/artist/0NDc5hTBeKzBrfUnVSdUdg) | [The Many Facets of George Shearing](https://open.spotify.com/album/0TP4AAOdv1UszCHzTRXxK1) | 4:56 | 2023-01-03 | 2023-04-26 |
@@ -365,7 +367,7 @@
 | [Moanin'](https://open.spotify.com/track/59BrMMx45o2Q7GtJALMhAQ) | [Mingus Big Band](https://open.spotify.com/artist/54YNxT02JdAApvFBhD8ea0) | [Nostalgia in Times Square](https://open.spotify.com/album/72GOiK3svYQ616wzDN03VK) | 8:59 | 2022-10-27 |  |
 | [Monk's Dream \- Take 8](https://open.spotify.com/track/0488kXJ1YnLMrrM1ssJnev) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Monk's Dream](https://open.spotify.com/album/5VTlqV8lZH3YspQ1cDcjrL) | 6:25 | 2022-10-27 |  |
 | [Mood Indigo](https://open.spotify.com/track/2Z7ktNuO2YsY2wS5FC62k4) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Mingus Mingus Mingus Mingus Mingus](https://open.spotify.com/album/12DCd8u80PoRIvBgjQrtuH) | 4:45 | 2022-10-27 |  |
-| [Moon And Sand](https://open.spotify.com/track/6H6oxydxjCpJYEkGRnozpB) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Guitar Forms \(Expanded Edition\)](https://open.spotify.com/album/3blcKLkwfmRUFBVUbTyLHc) | 4:14 | 2023-03-15 |  |
+| [Moon And Sand](https://open.spotify.com/track/6H6oxydxjCpJYEkGRnozpB) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Guitar Forms \(Expanded Edition\)](https://open.spotify.com/album/3blcKLkwfmRUFBVUbTyLHc) | 4:14 | 2023-03-15 | 2023-07-22 |
 | [Moon River](https://open.spotify.com/track/17gxfuiFUrLhbUKdunxUPJ) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello, Dolly! \(Remastered\)](https://open.spotify.com/album/213k6pbTGOHxlMpz5lb7zC) | 2:59 | 2023-04-13 |  |
 | [Moon River](https://open.spotify.com/track/1oFnBxOvkmjiUo6dBCEEoC) | [Nicole Henry](https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn) | [Moon River](https://open.spotify.com/album/5aDmA5mUCdOmMveJoeKg3r) | 5:10 | 2022-10-27 |  |
 | [Moon River](https://open.spotify.com/track/0Vydnnxf41Ukpn7Rn6D5Wa) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Jazz Impressions Of Black Orpheus](https://open.spotify.com/album/0ExXxc4TftyLlHFsB6DfpY) | 5:18 | 2022-12-07 | 2022-12-29 |

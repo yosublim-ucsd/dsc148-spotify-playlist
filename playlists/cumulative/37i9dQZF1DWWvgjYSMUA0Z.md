@@ -4,7 +4,7 @@
 
 > Music to encourage emotional and physical healing through Reiki.
 
-155 songs - 8 hr 50 min
+156 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Revitalizing Flow](https://open.spotify.com/track/0QdJNA24npIMsJfTmukVHV) | [Michele Cabrera](https://open.spotify.com/artist/06TthPTGTvVP112NDOYJrr) | [Peaceful Warrior](https://open.spotify.com/album/1Dt7wU8jK0VSPDymPni7D7) | 3:24 | 2021-12-22 |  |
 | [Root Chakra \- Evolution \- regular](https://open.spotify.com/track/5YGKEzAvgp7CrbDR7ocU5B) | [Ben Scott / Christa Michell](https://open.spotify.com/artist/1c8h0oXHbyxkrLFu0vL1N7) | [Tibetan Chakra Meditations](https://open.spotify.com/album/0gvC6ZI3rJ3G6r5fB6qjzb) | 5:02 | 2021-12-22 | 2023-01-14 |
 | [Sacred Spirit](https://open.spotify.com/track/1reqQIEvu8AoiHf6xP0kOO) | [Golga Nesh](https://open.spotify.com/artist/3PwWkYTHc7KtBrRutAXOlg) | [Beyond My Senses](https://open.spotify.com/album/61mwT5YHs6Eig5XDeTeuu2) | 3:12 | 2022-03-09 |  |
+| [Samadhi](https://open.spotify.com/track/5Y6ViOdg0C8ZOxNk6TnGyL) | [Aitana Bayá](https://open.spotify.com/artist/0RLYYYs6bcyvH5eqzbKHq2) | [Samadhi](https://open.spotify.com/album/7h1IDbqzA8gS3vv5FgLPjy) | 2:24 | 2023-07-21 |  |
 | [Samsara](https://open.spotify.com/track/3MA4oCOy0frQdyBZx6qRGG) | [Massimu](https://open.spotify.com/artist/6HRgy5lTTh6w2SpMq2cCcP) | [Samsara](https://open.spotify.com/album/0RmyzpADBheUrCS5xtufQM) | 4:04 | 2021-12-22 |  |
 | [Scintilla](https://open.spotify.com/track/50McqobQKBuC8hBk2J3cDW) | [Xo Liam](https://open.spotify.com/artist/6cuCmSWkMV1romxctai2c2) | [Scintilla](https://open.spotify.com/album/0L5i67SXZZq52SfWZfEDBZ) | 2:38 | 2022-05-05 |  |
 | [Seiza](https://open.spotify.com/track/3LthWqBoIUpReucHmhf4Zr) | [Joborja Perc](https://open.spotify.com/artist/11otmykUQiYuTfJcqVFiE8) | [Singing Bowls And Music Meditation](https://open.spotify.com/album/039njQFCznTzhINn5jN1aa) | 2:22 | 2022-02-04 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Unearthing your new favourite artists. Cover: kiingkess. Artwork: Isu Kim.",
+  "description": "Unearthing your new favourite artists. Cover: Sissy Imann. Artwork: Isu Kim.",
   "name": "Fresh Finds SG & MY",
   "tracks": [
     {
@@ -146,6 +146,24 @@
       "duration_ms": 260000,
       "name": "Adolescence",
       "url": "https://open.spotify.com/track/7kJF6LXAdGFFYIBG0ORnjv"
+    },
+    {
+      "album": {
+        "name": "Sissy Imann",
+        "url": "https://open.spotify.com/album/0m8kflCq7b42GUadcCshc4"
+      },
+      "artists": [
+        {
+          "name": "Sissy Imann",
+          "url": "https://open.spotify.com/artist/49Ur9nGoemmrL6ABgELR8K"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190032,
+      "name": "AIN'T GONNA SPOIL MY DAY",
+      "url": "https://open.spotify.com/track/2etrtrW2rqBpiogWKkn3Yc"
     },
     {
       "album": {
@@ -2926,10 +2944,28 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 218260,
       "name": "half of my heart",
       "url": "https://open.spotify.com/track/2pwrXRM5OHVxvd7D5yqoDO"
+    },
+    {
+      "album": {
+        "name": "half of my heart (Orchestral Version)",
+        "url": "https://open.spotify.com/album/5wZUnmZcrRxyVtkMcmHJ26"
+      },
+      "artists": [
+        {
+          "name": "Josh Makazo",
+          "url": "https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193695,
+      "name": "half of my heart (Orchestral Version)",
+      "url": "https://open.spotify.com/track/3KJFFP1U9SdJrYLk1f1jRa"
     },
     {
       "album": {
@@ -3244,6 +3280,24 @@
       "duration_ms": 154766,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/22UneO4S3Num3CIsFsX3BR"
+    },
+    {
+      "album": {
+        "name": "ugh",
+        "url": "https://open.spotify.com/album/0AStBStf4EqUexpzJDidam"
+      },
+      "artists": [
+        {
+          "name": "Syamil",
+          "url": "https://open.spotify.com/artist/2gYfOpC3v81qRZJdrsXuAD"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "hold on",
+      "url": "https://open.spotify.com/track/3kWbzwcmES4iB59VA4Falf"
     },
     {
       "album": {
@@ -5754,6 +5808,24 @@
       "duration_ms": 178939,
       "name": "Only Lover",
       "url": "https://open.spotify.com/track/12hueiL6lpOWp1HlnZ8tGO"
+    },
+    {
+      "album": {
+        "name": "only us (we can forget)",
+        "url": "https://open.spotify.com/album/5bvoXK4BfuiW36EUlSbgbu"
+      },
+      "artists": [
+        {
+          "name": "Jeyes",
+          "url": "https://open.spotify.com/artist/4KTTsSuEEoNhQLzXH1JH7x"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "only us (we can forget)",
+      "url": "https://open.spotify.com/track/1wlJxfj5fISRFgdi2UH5vs"
     },
     {
       "album": {
@@ -8612,6 +8684,24 @@
       "duration_ms": 205301,
       "name": "What About Me",
       "url": "https://open.spotify.com/track/2EIRs4SUAsJBbzqQVkLSp1"
+    },
+    {
+      "album": {
+        "name": "what awaits?",
+        "url": "https://open.spotify.com/album/5PVHIhHPGwjy7JjvvTeBdu"
+      },
+      "artists": [
+        {
+          "name": "bottlewoman",
+          "url": "https://open.spotify.com/artist/24Vfz0c1aaf1k2nVAiBni5"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "what awaits?",
+      "url": "https://open.spotify.com/track/7Db0bRUVo0mjiirrpl51I0"
     },
     {
       "album": {

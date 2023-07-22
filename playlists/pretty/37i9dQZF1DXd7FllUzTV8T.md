@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7FllUzTV8T.md) - [plain]
 
 > Instrumental relaxing jazz with the cozy sound of soft vinyl crackle.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,151 likes - 25 songs - 1 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,180 likes - 25 songs - 1 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7FllUzTV8T.md) - [plain]
 | 24 | [In the Blue Of The Evening](https://open.spotify.com/track/1rLuWpZwNX4wXP4y7eRmc3) | [Kerrie Walton](https://open.spotify.com/artist/6LHJu0JVH5MbOgsogB7EhR) | [In the Blue Of The Evening](https://open.spotify.com/album/3OgbQEZ1stEBi6tw6sTvv4) | 2:36 |
 | 25 | [Journeying](https://open.spotify.com/track/7EiFxYWutlCRtrQHHwKVeS) | [Rossdale Juntion](https://open.spotify.com/artist/6ERbL5L4LpFFmA2dS9zJ9D) | [Journeying](https://open.spotify.com/album/0o2DSj4LinX5MLJGxzKcnS) | 2:33 |
 
-Snapshot ID: `MCwzZTA2MmQ5YzkyNmM2NWM0YzliYmYwOThhY2M3MDlhNTI5NjJkZjNk`
+Snapshot ID: `MCxkYWE1ODE1ZTFjNGQ2NzM5OTY1MDZlNDUyZGI0MzQwODBhNWU0MDUy`

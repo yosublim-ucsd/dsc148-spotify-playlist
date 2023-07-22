@@ -746,7 +746,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 240144,
       "name": "Aye Aye",
       "url": "https://open.spotify.com/track/3ZnHoSCItVMbFU8FhdjS7B"
@@ -1864,7 +1864,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 209694,
       "name": "Dance of the Crab",
       "url": "https://open.spotify.com/track/7tu1Bd1SfSiBdRgUvYpq7t"
@@ -2034,7 +2034,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-19",
+      "date_removed": null,
       "duration_ms": 212000,
       "name": "Desert Walk",
       "url": "https://open.spotify.com/track/4iDWPaBVgX8U0Sm7stDHoY"
@@ -2472,6 +2472,24 @@
       "duration_ms": 411633,
       "name": "Ellipse",
       "url": "https://open.spotify.com/track/0jp8whu8DYgYMupBJkVvNP"
+    },
+    {
+      "album": {
+        "name": "Embrace Me Now",
+        "url": "https://open.spotify.com/album/26WVXNlx1rvdcgZBLdqH70"
+      },
+      "artists": [
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Embrace Me Now - Techno Radio Edit",
+      "url": "https://open.spotify.com/track/53IGqGELRPyyp6DfK2eeRT"
     },
     {
       "album": {
@@ -8193,6 +8211,24 @@
     },
     {
       "album": {
+        "name": "The Night Is Blue EP",
+        "url": "https://open.spotify.com/album/7oEe61C3Ue93XHTJHHBz4D"
+      },
+      "artists": [
+        {
+          "name": "Tim Green",
+          "url": "https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 502607,
+      "name": "The Night is Blue",
+      "url": "https://open.spotify.com/track/79zxzGKkpBgnUYPGBt9yKv"
+    },
+    {
+      "album": {
         "name": "This Is SH\u00c8N",
         "url": "https://open.spotify.com/album/0BuCz58hOxBFXmfocz8eWU"
       },
@@ -9128,7 +9164,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 425906,
       "name": "Walking Away",
       "url": "https://open.spotify.com/track/6j0ao2DgHem5dpnGeHwufi"

@@ -2,9 +2,9 @@
 
 ### [Trapperz Chile](https://open.spotify.com/playlist/37i9dQZF1DWZRy1LwINMSK)
 
-> La casa del trap chileno\. Foto: Marcianeke.
+> La casa del trap chileno\. Foto: King Savagge & Il Nene De Oro.
 
-162 songs - 8 hr 50 min
+163 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Asueto](https://open.spotify.com/track/1KGiwpyYj2ImDyYezmjLHm) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [S.U.N.O](https://open.spotify.com/album/6V18lHqeCbGGFxtpkOJVpk) | 2:57 | 2022-07-22 |  |
 | [Asueto](https://open.spotify.com/track/2V3YBPnNXlonGO2U4m43Za) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [S.U.N.O](https://open.spotify.com/album/3IPfkKXkW7sFz6wnj1uyCF) | 2:57 | 2022-01-20 | 2022-07-29 |
 | [Beach with My Bix](https://open.spotify.com/track/3HgTImJQaKLT4jCOsWjrJB) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Xtaciss](https://open.spotify.com/album/7i85NxfIZcsAXR8zF9xCcA) | 2:16 | 2022-01-20 | 2022-04-29 |
-| [Benz](https://open.spotify.com/track/33YnBNWLESnvq3XQbTGwrF) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Marlon Breeze](https://open.spotify.com/artist/6WI2aStGYkbt0vslpKmDkV) | [Benz](https://open.spotify.com/album/4YyytAJdO0uurg7QLNWPb0) | 2:49 | 2022-01-20 |  |
+| [Benz](https://open.spotify.com/track/33YnBNWLESnvq3XQbTGwrF) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Marlon Breeze](https://open.spotify.com/artist/6WI2aStGYkbt0vslpKmDkV) | [Benz](https://open.spotify.com/album/4YyytAJdO0uurg7QLNWPb0) | 2:49 | 2022-01-20 | 2023-07-22 |
 | [Blue V2](https://open.spotify.com/track/3AOhQ6KDL6CY19qw2D0aOR) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [Blue V2](https://open.spotify.com/album/3VNVRVg1cYW4U7wIB03o7P) | 2:24 | 2023-03-10 | 2023-07-01 |
 | [Blue V2](https://open.spotify.com/track/0EbqWgge7ZFah2OWg7zMcT) | [AKRIILA](https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL) | [Blue V2](https://open.spotify.com/album/5At4juaXQVGzBMhRwMQ2Co) | 2:24 | 2022-04-01 | 2023-03-18 |
 | [Break](https://open.spotify.com/track/5w2vDEM6rRpIyOOYFuyNnm) | [Foreign](https://open.spotify.com/artist/5ZBw0dy3ESMOfqhMinLkqa), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [Break](https://open.spotify.com/album/2q5ojFbm8BdMTQicV0VsQw) | 3:36 | 2022-03-18 | 2022-05-28 |
@@ -110,6 +110,7 @@
 | [No Puedo Volver](https://open.spotify.com/track/79KMmSTjBXjHeKK3iCKX4F) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Gianluca](https://open.spotify.com/artist/7q9P9jadKe86eEavevbEvK) | [Moods](https://open.spotify.com/album/707uAk4QeoapehDGCcZeWb) | 3:03 | 2022-01-20 | 2023-02-25 |
 | [No Quiero Atraso](https://open.spotify.com/track/105O8vW1px3oc5Di2EC4Yd) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [Drakomafia](https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [El Rey De Los Trenches](https://open.spotify.com/album/0XnkIuet2kdHwNFMdKA9RX) | 3:34 | 2023-02-24 |  |
 | [Norty](https://open.spotify.com/track/41WenSWfGMM2moyuFtKwAK) | [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [Young Kieff](https://open.spotify.com/artist/4A7KjkSSYRNjt9Cp9MNEx4) | [Onward](https://open.spotify.com/album/7thoKr7EPk4YBgSy1zVXmc) | 2:33 | 2022-01-20 |  |
+| [OG's](https://open.spotify.com/track/2LSn8p8LjO6TB7NwtXcDx8) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Il Nene De Oro](https://open.spotify.com/artist/6WzyAaCTzd5YoVMwdin58T) | [OG's](https://open.spotify.com/album/19RmjPEFQq9xtamjNojLzH) | 2:16 | 2023-07-21 |  |
 | [Oro](https://open.spotify.com/track/0Wf76ocoKFtAMlwuKRRWZu) | [Dehilan](https://open.spotify.com/artist/3TY8uR5cMZF7zX2xw5mrYI), [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p) | [Oro](https://open.spotify.com/album/7ANEdD9W9s0uaPMFkF7oty) | 5:20 | 2023-06-30 |  |
 | [Pa' Brillar](https://open.spotify.com/track/3hflsANR6DqnHfZ2Tiv5Jl) | [Lucho SSJ](https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [Sangre Joven](https://open.spotify.com/album/2P3LeQkfS4gV91SpXEisRl) | 4:06 | 2022-01-20 | 2022-04-29 |
 | [Padres](https://open.spotify.com/track/0Tr5TQo7sJ36Y8VZ5yi4t3) | [Shishigang Records](https://open.spotify.com/artist/2DywQB5g7Vvlnu4qvNmdiu), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [ITHAN NY](https://open.spotify.com/artist/0LshXUmIub6xKvOq4QmtNs), [Tunechikidd](https://open.spotify.com/artist/0QpMp8Y7jFzwCt8OZjKQdd), [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Padres](https://open.spotify.com/album/3WjNtsro7vdlBg9k0NBbfD) | 4:21 | 2023-06-30 |  |

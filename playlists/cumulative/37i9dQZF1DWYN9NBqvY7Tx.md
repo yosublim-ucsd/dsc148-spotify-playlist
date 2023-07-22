@@ -4,7 +4,7 @@
 
 > Dance, bass, EDM, trap, phonk: the perfect gaming mix.
 
-387 songs - 20 hr 47 min
+388 songs - 20 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Daydream](https://open.spotify.com/track/5b8TXX2rT4BmF16oaP8aSX) | [The Tech Thieves](https://open.spotify.com/artist/06bun5reMRmLxFCbcB6UHW) | [Daydream](https://open.spotify.com/album/1jRziziJ06m9TjKGlrvKou) | 2:34 | 2022-05-06 | 2022-07-29 |
 | [DEMONS IN MY SOUL](https://open.spotify.com/track/72iyEnh9p6PoyJoEnAJDjO) | [SCXR SOUL](https://open.spotify.com/artist/6yxKWJK7XtaOMK2j9FXqSC), [Sx1nxwy](https://open.spotify.com/artist/0vX16aPLB5IGeyzFDHBm6T) | [DEMONS IN MY SOUL](https://open.spotify.com/album/5EDnWffEsv2TTRyMPMufl7) | 2:00 | 2023-07-18 |  |
 | [Dethroned](https://open.spotify.com/track/0qm0sW5CC0yO5rdaJ9qPIZ) | [Barren Gates](https://open.spotify.com/artist/7eMykQ9NjmtA5FnMarEG2F) | [Dethroned](https://open.spotify.com/album/13aGgZSI9cwvjXjaqN4sWT) | 2:49 | 2022-05-06 | 2022-07-24 |
+| [Detonate](https://open.spotify.com/track/49wRXpkVW8Adz5UA7XnFqt) | [G2](https://open.spotify.com/artist/4cqZIrEYvnBJEaqBWhKS9w), [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq), [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Detonate](https://open.spotify.com/album/1GUdfoaRs4EapBVtclSDN7) | 2:47 | 2023-07-18 |  |
 | [Devil](https://open.spotify.com/track/3lj59hy6FrRDyYNo8Onuud) | [Barren Gates](https://open.spotify.com/artist/7eMykQ9NjmtA5FnMarEG2F) | [Devil](https://open.spotify.com/album/4L3VVfebqok9bZFGKKSTTG) | 2:56 | 2022-07-14 |  |
 | [Devil](https://open.spotify.com/track/4BVKDnYVUxbfBYJIip2RBp) | [Barren Gates](https://open.spotify.com/artist/7eMykQ9NjmtA5FnMarEG2F) | [Devil](https://open.spotify.com/album/5gUzUIi3oyy1RZae2GkKnD) | 2:56 | 2022-05-06 | 2022-07-29 |
 | [Die For You](https://open.spotify.com/track/2lz3zjQ5QCVXiyOzIk02vW) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Die For You](https://open.spotify.com/album/4O7Fn6jEB5xN1HXjMALCHp) | 3:32 | 2022-05-06 | 2023-07-19 |
@@ -305,7 +306,7 @@
 | [Somebody To Love](https://open.spotify.com/track/7AxA87dIJ1FF4l1BQ98ZCZ) | [Axel Black & White](https://open.spotify.com/artist/3OexsqL65OHjNt8oeFn0fN) | [Somebody To Love](https://open.spotify.com/album/7FzaGZqU7lXtba0UkfoIEc) | 2:21 | 2022-07-14 |  |
 | [Someone Else](https://open.spotify.com/track/44MxUoeZg6FXDlHMrSbVjX) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Someone Else](https://open.spotify.com/album/5Q0yJFxE7xO4JuzrncIGsz) | 3:46 | 2022-05-06 | 2022-07-29 |
 | [Someone Else \- PEEKABOO Remix](https://open.spotify.com/track/1qDOI487GoDlWyvzckhzo4) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45), [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF) | [Someone Else \(PEEKABOO Remix\)](https://open.spotify.com/album/1CxrLWDUvfOaKHNsKGfUQ1) | 4:16 | 2022-05-06 | 2022-05-10 |
-| [Something Comforting](https://open.spotify.com/track/5g7bsxCqNaucnXpexUoHg8) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM) | 4:41 | 2023-07-18 |  |
+| [Something Comforting](https://open.spotify.com/track/5g7bsxCqNaucnXpexUoHg8) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM) | 4:41 | 2023-07-18 | 2023-07-22 |
 | [Spooky Phonk](https://open.spotify.com/track/7FNe6UNfm6JGctIPipvmUc) | [Nic Sarno](https://open.spotify.com/artist/3PbxfXGwcCLn85zVQK1ulo) | [Spooky Phonk](https://open.spotify.com/album/17EOtip2oAoZhm97NxOuWS) | 2:56 | 2022-07-14 | 2022-07-25 |
 | [Starseed](https://open.spotify.com/track/7LKm8GVnMcDMXfDyhVcODr) | [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU), [Leah Rye](https://open.spotify.com/artist/2rmiadqAd2xyJUVLbCnWvn) | [Starseed](https://open.spotify.com/album/74KWrRo8ZDCeL1fJF9cCbh) | 4:38 | 2022-05-06 | 2022-07-28 |
 | [Starts Right Here](https://open.spotify.com/track/0MovQqn6F6M1kyAiBIn5CA) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Foreign Air](https://open.spotify.com/artist/5ApQnMT6oR8eLguf24xb9S), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Starts Right Here](https://open.spotify.com/album/3zw7Q4NV7QJxFjSY3QnBgX) | 3:05 | 2022-05-06 | 2022-07-29 |

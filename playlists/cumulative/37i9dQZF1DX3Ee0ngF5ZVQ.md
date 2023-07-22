@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Turnpike Troubadours
 
-479 songs - 1 day 4 hr 29 min
+481 songs - 1 day 4 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Danced All Night Long](https://open.spotify.com/track/3Kqz6fQwqNjvebOaPPslFt) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Danced All Night Long](https://open.spotify.com/album/5G5OQaWKa8I4oUrC5dmLB9) | 4:04 | 2022-03-11 | 2022-03-19 |
 | [Dancin' With The Devil](https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB) | [Josh Ward](https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd) | [Dancin' With The Devil](https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4) | 2:58 | 2022-03-04 | 2023-07-20 |
 | [Dancing Around The Truth](https://open.spotify.com/track/3q41hamYDHE4lcRptEfUrz) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Unwanted Man](https://open.spotify.com/album/4o5I0LPIKI0LqNGfV88pCw) | 4:14 | 2022-06-17 | 2022-09-24 |
+| [Dancing Shoes](https://open.spotify.com/track/0VsJggPyMWdXSH3FNSKd6e) | [Parker Ryan](https://open.spotify.com/artist/6q8CPuf8PaE5fvf6WMEldG) | [3 Songs](https://open.spotify.com/album/6RaMHT37nsfajFkHLOr38m) | 3:45 | 2023-07-21 |  |
 | [Darlin'](https://open.spotify.com/track/4s0JFjzWQ99wZAQDj5FDXa) | [Rachel LaRen](https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv) | [Cowboys Don't Change](https://open.spotify.com/album/5I3F5XrX1yh9bLDVlG1B6K) | 3:32 | 2022-06-17 |  |
 | [Daylight](https://open.spotify.com/track/5OwSp5FmqDZBRujGW3PmSs) | [The Lowdown Drifters](https://open.spotify.com/artist/49tymMExHfzPYTfTRA3FaG) | [Cheating On A Memory Chapter 2](https://open.spotify.com/album/5oowEIqLmL9uBRPzXfPBXr) | 3:34 | 2022-08-19 | 2022-09-15 |
 | [Deconstruction of a Heartache](https://open.spotify.com/track/22OAfJb7n2uHuUkyfhBnk0) | [Amanda Kate Ferris](https://open.spotify.com/artist/70fLCgRxbluMfGRaiWAr49) | [Amanda Kate](https://open.spotify.com/album/5gyxMSvCLHNeS8IPLBAXQ1) | 3:34 | 2021-12-17 | 2022-08-14 |
@@ -129,7 +130,7 @@
 | [Down in Flames](https://open.spotify.com/track/2P0oaaPrziT3qhjyZCSp2f) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [Cody Hibbard](https://open.spotify.com/album/6xmxKXhPm7ZVISNoDsZo5K) | 3:35 | 2021-12-17 | 2022-08-18 |
 | [Drink Straight](https://open.spotify.com/track/2FdCMLvUosqCi5ABtfNL8F) | [Colby Keeling](https://open.spotify.com/artist/2cdVR4tZs4ErwejZVTqcnL) | [Drink Straight](https://open.spotify.com/album/4kVar6beWi8Q9e4l0lv3l4) | 3:21 | 2022-05-20 | 2022-07-15 |
 | [Drink to That](https://open.spotify.com/track/5bS0EQrItTRmdNCAmdTIpG) | [Palmer Anthony](https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s) | [Drink to That](https://open.spotify.com/album/6JBWJvkpMTe4vxTQRT5Kqe) | 3:47 | 2021-12-17 | 2022-06-25 |
-| [Drowning](https://open.spotify.com/track/30OdCACTnFCX3JeYfE6rva) | [Jay Statham](https://open.spotify.com/artist/4cf5GKzX208ouwqBzyaWu2) | [Drowning](https://open.spotify.com/album/1zkuFL6IoUYXDZDyCyjot8) | 3:13 | 2023-06-23 |  |
+| [Drowning](https://open.spotify.com/track/30OdCACTnFCX3JeYfE6rva) | [Jay Statham](https://open.spotify.com/artist/4cf5GKzX208ouwqBzyaWu2) | [Drowning](https://open.spotify.com/album/1zkuFL6IoUYXDZDyCyjot8) | 3:13 | 2023-06-23 | 2023-07-22 |
 | [Dust](https://open.spotify.com/track/3zzVwSuO5x5KB3u5gl3r5w) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Dust](https://open.spotify.com/album/63EXg2Q9oW2ZeGEpMlUtdw) | 3:06 | 2022-02-04 | 2023-06-22 |
 | [Dust](https://open.spotify.com/track/7mEK8ZfXB69HKYZrOnV9CD) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Dust](https://open.spotify.com/album/23IQqam0aRAKSCLjOv9hlu) | 3:06 | 2023-06-16 |  |
 | [Easy as Hello](https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Easy as Hello](https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm) | 4:39 | 2022-07-22 |  |
@@ -252,6 +253,7 @@
 | [Lightning Fast](https://open.spotify.com/track/5kwmkPrTLa5OCbxRtBkY1i) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Lightning Fast](https://open.spotify.com/album/5hX3XsWvSjNVbSRMd5MuFS) | 3:10 | 2021-12-17 | 2022-03-19 |
 | [Like A Desperado](https://open.spotify.com/track/7aWgiX29nEsq1YSVZ5d4La) | [Savanna Chestnut](https://open.spotify.com/artist/25Q8chabmr7xmJgVsdDErq) | [Like A Desperado](https://open.spotify.com/album/7gQXhnauu1Zn7FliaMAayR) | 3:23 | 2022-02-11 | 2022-07-21 |
 | [Like I'm Elvis](https://open.spotify.com/track/43hD7QC5J14TBVpDJrUXcv) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [Like I'm Elvis](https://open.spotify.com/album/08vOtTxMCOwuV1g5wlqko8) | 4:01 | 2022-03-25 | 2022-07-19 |
+| [Like She Does](https://open.spotify.com/track/7vLzS4QoDV2wP9zfvdhVgd) | [Wynn Williams](https://open.spotify.com/artist/6ZzXw8Du2F5Ak2udqeOTC4), [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4) | [Your Love](https://open.spotify.com/album/7gei0BhwKRgS4MhsO4RqLh) | 3:48 | 2023-07-21 |  |
 | [Like the Wind](https://open.spotify.com/track/3hO22cIoKIEmCjMIsG7kY9) | [Wynn Williams](https://open.spotify.com/artist/6ZzXw8Du2F5Ak2udqeOTC4) | [Like the Wind](https://open.spotify.com/album/4FfBY2JDKbtRUhUHK1th5U) | 3:14 | 2022-02-04 | 2022-07-29 |
 | [Livin' Like This](https://open.spotify.com/track/39k6k6fJmP1PSU6crfVuyl) | [Chris Colston](https://open.spotify.com/artist/1drW8ii2leKur6GbJtibRz) | [Livin' Like This](https://open.spotify.com/album/26XfDbVRwETxRhziXChzdC) | 3:03 | 2022-06-03 | 2022-07-27 |
 | [Long Gone](https://open.spotify.com/track/0KaQom2aaLURgTYMKSYDnC) | [Wynn Williams](https://open.spotify.com/artist/6ZzXw8Du2F5Ak2udqeOTC4) | [Long Gone](https://open.spotify.com/album/6yXet43BmB7VaNsNop2X2F) | 3:14 | 2021-12-17 | 2022-01-08 |
@@ -432,7 +434,7 @@
 | [Upside of the Ground](https://open.spotify.com/track/0z4zGI8vJOU9AXwJLzafys) | [Ned LeDoux](https://open.spotify.com/artist/0vdfJvybF4QD1rzkHYqp6Q) | [Upside of the Ground](https://open.spotify.com/album/7o2WZecCVWRq5jCUBBprDt) | 3:12 | 2022-01-07 | 2022-03-19 |
 | [Vagabond](https://open.spotify.com/track/4x2AKf7AxbsdfKFAGZWDbQ) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Vagabond](https://open.spotify.com/album/6rOdKLebsdix516lFx2xnj) | 4:12 | 2021-12-17 | 2022-07-27 |
 | [Valentine, For Valentines](https://open.spotify.com/track/22Z7wPXNDT6Vr1Gvhfa3k1) | [The Panhandlers](https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Valentine, For Valentines](https://open.spotify.com/album/2aAjdk52Un6nw3IPwB7W1H) | 3:15 | 2023-02-03 | 2023-06-03 |
-| [Varsity Type](https://open.spotify.com/track/5AyMwIlC0TrEXtECxqkwTD) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [Abstract Art of an Unstable Mind](https://open.spotify.com/album/6O5EG4fe0vKeINvGk0z2qW) | 3:22 | 2023-06-30 |  |
+| [Varsity Type](https://open.spotify.com/track/5AyMwIlC0TrEXtECxqkwTD) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [Abstract Art of an Unstable Mind](https://open.spotify.com/album/6O5EG4fe0vKeINvGk0z2qW) | 3:22 | 2023-06-30 | 2023-07-22 |
 | [Varsity Type](https://open.spotify.com/track/6ib18tpFXAP1kVlzWMmJzD) | [Austin Meade](https://open.spotify.com/artist/7Jd98Mm2x1fQBzQmQOeX79) | [Varsity Type](https://open.spotify.com/album/3QMqwEyKKpfc60T6P46ImP) | 3:22 | 2022-05-27 | 2023-02-20 |
 | [Walk Your Line](https://open.spotify.com/track/0tHRdq9LHL0Dq9KHo1oPiN) | [Presley Drake](https://open.spotify.com/artist/0IQG9LULw1mZehtAXtF9ld) | [Walk Your Line](https://open.spotify.com/album/5hWuNENhxZlk2im8Q1Nxdd) | 3:38 | 2022-10-14 | 2023-01-06 |
 | [Wannabe](https://open.spotify.com/track/22NdTBOE9CgBsMwKlwXJoI) | [Dalton Domino](https://open.spotify.com/artist/2qsLBELO7Pw7Bpffvv9yDT), [Stephanie Lambring](https://open.spotify.com/artist/7chfbqQEd0M1cJPwybXaZD) | [Wannabe](https://open.spotify.com/album/5XrGiVliWSPdiaIySBz5y4) | 4:53 | 2021-12-17 |  |

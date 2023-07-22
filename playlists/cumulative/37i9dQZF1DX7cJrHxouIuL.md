@@ -4,7 +4,7 @@
 
 > Kindie tunes for the whole family.
 
-193 songs - 9 hr 11 min
+195 songs - 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,8 @@
 | [Baby Beluga](https://open.spotify.com/track/7zQFM7bHcyMh4QQFdBkjrE) | [Raffi](https://open.spotify.com/artist/7oWSqrgMuIEyH9qp5nu2e5) | [Baby Beluga](https://open.spotify.com/album/0sOARc9azSO1btKcDtM7o1) | 2:40 | 2022-04-15 |  |
 | [Be Kind](https://open.spotify.com/track/1SSgq52TJSHbsqsh3rDB1a) | [The Quokkas](https://open.spotify.com/artist/41y8Sg5SccQXAn7JpkQDIg) | [Be Kind EP](https://open.spotify.com/album/5jdgjnN42Y3EitwLkAkNtG) | 2:00 | 2022-04-15 |  |
 | [Be the Light \(feat\. SaulPaul\)](https://open.spotify.com/track/5DKgL6ACLMjVfNgCpROmIU) | [Erica Rabner](https://open.spotify.com/artist/3u7iISrtnnqsAGE8gIovMg), [SaulPaul](https://open.spotify.com/artist/0WLNaHsTTp6sWxaL7KykCu) | [We Got This](https://open.spotify.com/album/3muDxQozNwlTlj4lMbPiSq) | 3:33 | 2022-04-15 |  |
-| [Best Day Ever](https://open.spotify.com/track/0FpG7xhSQGo2PJnfD7FM6G) | [Rissi Palmer](https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ) | [Best Day Ever](https://open.spotify.com/album/2grVEoGEw92ONy96YK5bsr) | 3:03 | 2022-04-15 |  |
+| [Best Day Ever](https://open.spotify.com/track/0FpG7xhSQGo2PJnfD7FM6G) | [Rissi Palmer](https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ) | [Best Day Ever](https://open.spotify.com/album/2grVEoGEw92ONy96YK5bsr) | 3:03 | 2022-04-15 | 2023-07-22 |
+| [Best Day Ever](https://open.spotify.com/track/4XBjDqRMWPjmYsHNb7j0XT) | [Rissi Palmer](https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ) | [Best Day Ever](https://open.spotify.com/album/2hWnXvL1PjyRncrKRYaKRC) | 3:03 | 2023-07-12 |  |
 | [Best Friend](https://open.spotify.com/track/5Cr9nRs3CLoYAPIgDf2sJ1) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Camp Lisa](https://open.spotify.com/album/0RGVyqQzh7QrRRuiMBCeZ7) | 2:44 | 2022-04-15 | 2022-07-29 |
 | [Best Friend](https://open.spotify.com/track/5DLmwKgV0xwzGcnohqKzGT) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Camp Lisa](https://open.spotify.com/album/5vwzr0ct9GkSIDz1B7LlUR) | 2:44 | 2023-02-24 |  |
 | [Best Friend](https://open.spotify.com/track/5OJKJMK5kz4mvBTYlncnLo) | [Lisa Loeb](https://open.spotify.com/artist/1TMMyiSsNzmRiZCAkVLVb2) | [Camp Lisa](https://open.spotify.com/album/4ifCn1MLPTtbVYbbEGWOeS) | 2:44 | 2022-04-15 | 2023-04-29 |
@@ -36,7 +37,8 @@
 | [Bumblebee \(Buzz Buzz\)](https://open.spotify.com/track/54n1pKrHGnVnWUQO52jffW) | [The Laurie Berkner Band](https://open.spotify.com/artist/6T2pk5T8c4Wi61x1v84sUa) | [Buzz Buzz](https://open.spotify.com/album/3ewqpIxaq4yX0rCjOKe3Ag) | 2:57 | 2022-04-15 | 2022-07-29 |
 | [Coconut](https://open.spotify.com/track/4fREsTCX2QlzJVlgPmCphS) | [Kaci Bolls](https://open.spotify.com/artist/1YKEhQzwfMQklnViW6QpX9) | [Coconut](https://open.spotify.com/album/3bDdkQhYxwP5mEsNvZDgzu) | 2:39 | 2022-04-15 |  |
 | [Conversations](https://open.spotify.com/track/6fHrHghZPCae2RF4zgR5Zg) | [Lindsay Munroe](https://open.spotify.com/artist/1FVbng9WjrAw3kLWaLLFhM) | [Frogs And Birds](https://open.spotify.com/album/1YUT7gYPCXKS5RWsII7X4o) | 1:44 | 2022-04-15 |  |
-| [Dear to Me](https://open.spotify.com/track/1Df7XWUZBHPdpveCW9n07q) | [Rissi Palmer](https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ) | [Best Day Ever](https://open.spotify.com/album/2grVEoGEw92ONy96YK5bsr) | 2:57 | 2022-04-15 |  |
+| [Dear to Me](https://open.spotify.com/track/1Df7XWUZBHPdpveCW9n07q) | [Rissi Palmer](https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ) | [Best Day Ever](https://open.spotify.com/album/2grVEoGEw92ONy96YK5bsr) | 2:57 | 2022-04-15 | 2023-07-22 |
+| [Dear to Me](https://open.spotify.com/track/6ZMPLljTat1w0sGDz69LjJ) | [Rissi Palmer](https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ) | [Best Day Ever](https://open.spotify.com/album/2hWnXvL1PjyRncrKRYaKRC) | 2:57 | 2023-07-12 |  |
 | [Different is Beautiful \(Like a Rainbow\)](https://open.spotify.com/track/2nNYC6PdllLCtCqKxD2tGM) | [Brady Rymer and the Little Band That Could](https://open.spotify.com/artist/2q0R0ObitsBJIp1sMtfHz6) | [Under the Big Umbrella](https://open.spotify.com/album/3EGoaqW3tguVFNOT985vpl) | 3:08 | 2022-04-15 |  |
 | [Disco Rain](https://open.spotify.com/track/20twtF2MePkY2WF9qdD3bd) | [Mil's Trills](https://open.spotify.com/artist/2FEJYbtk6YLtBXrTRUpIAj), [Uncle Jumbo](https://open.spotify.com/artist/7aV5KB8LdwHDrpgVb3GfAI), [Amelia Robinson](https://open.spotify.com/artist/4OqIoFW3JcA73jTeS8bMVK) | [Let It Out!](https://open.spotify.com/album/2SXHp5cFcwno6SDKJ2gL9p) | 2:44 | 2022-04-15 |  |
 | [Do You Hear the Birds Singing?](https://open.spotify.com/track/4gSpTGrxnh8xGSTs9t0Lga) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Mind of My Own](https://open.spotify.com/album/1vVu1xyubkJrslVtb1UHnk) | 2:37 | 2022-04-15 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!",
-  "num_followers": 123394,
+  "num_followers": 123471,
   "original_name": "The Hawaiian Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWFjNGFhZTRmZmRjMjExMjViZDY2ZjA4OGFlZjVmZmFkZTRjODRh",
+  "snapshot_id": "MCw0MDBkMGQ4MjVjN2JhZjVjMTM2MDEwOGM4NWE1OTRiMTFiZDhhZTZm",
   "tracks": [
     {
       "added_at": "2022-01-11 02:53:42",
@@ -191,22 +191,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "The Golden Voice of Hawai'i, Vol. 1",
-        "url": "https://open.spotify.com/album/25lpHzBnWxYSxdcBYFrGXp"
-      },
-      "artists": [
-        {
-          "name": "Dennis Pavao",
-          "url": "https://open.spotify.com/artist/0cjSMcAplLjxMqkXD6xWSX"
-        }
-      ],
-      "duration_ms": 215680,
-      "name": "I Kona",
-      "url": "https://open.spotify.com/track/0lDQYpyEmJETEUgszTP6Ns"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Dear Mama",
         "url": "https://open.spotify.com/album/1Zqt9Q1iqeRLPZBFHiMGmn"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 307213,
       "name": "Nani Wale Ka Lau Oliva",
       "url": "https://open.spotify.com/track/6GLfF4lksULpecQMFMy3lU"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "The Golden Voice of Hawai'i, Vol. 1",
+        "url": "https://open.spotify.com/album/25lpHzBnWxYSxdcBYFrGXp"
+      },
+      "artists": [
+        {
+          "name": "Dennis Pavao",
+          "url": "https://open.spotify.com/artist/0cjSMcAplLjxMqkXD6xWSX"
+        }
+      ],
+      "duration_ms": 215680,
+      "name": "I Kona",
+      "url": "https://open.spotify.com/track/0lDQYpyEmJETEUgszTP6Ns"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -303,22 +303,6 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
-        "name": "Hawaiian Blossom",
-        "url": "https://open.spotify.com/album/49HLATxWXEGjWyRHEIhrij"
-      },
-      "artists": [
-        {
-          "name": "Raiatea Helm",
-          "url": "https://open.spotify.com/artist/3OmAmym7dLlhFhpAYt3bNC"
-        }
-      ],
-      "duration_ms": 186360,
-      "name": "Ahulili",
-      "url": "https://open.spotify.com/track/5SmWyYdkX14Oj80WlRHnKY"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
         "name": "Mareld 2021",
         "url": "https://open.spotify.com/album/4cm45D4teP1JuVt2fbOrnj"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 182096,
       "name": "Mareld 2021",
       "url": "https://open.spotify.com/track/1YpgXcYZGAq40Y1VAfaSMj"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Hawaiian Blossom",
+        "url": "https://open.spotify.com/album/49HLATxWXEGjWyRHEIhrij"
+      },
+      "artists": [
+        {
+          "name": "Raiatea Helm",
+          "url": "https://open.spotify.com/artist/3OmAmym7dLlhFhpAYt3bNC"
+        }
+      ],
+      "duration_ms": 186360,
+      "name": "Ahulili",
+      "url": "https://open.spotify.com/track/5SmWyYdkX14Oj80WlRHnKY"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -563,6 +563,22 @@
     {
       "added_at": "2021-01-20 03:50:53",
       "album": {
+        "name": "Makani Olu'olu",
+        "url": "https://open.spotify.com/album/5ZVybOFjyQ8Upf2CxQStBB"
+      },
+      "artists": [
+        {
+          "name": "Na Palapalai",
+          "url": "https://open.spotify.com/artist/2wjNqTN4X13PUR2YnTqt1e"
+        }
+      ],
+      "duration_ms": 163786,
+      "name": "Lepe Ula'ula",
+      "url": "https://open.spotify.com/track/64Jafr1L2yubJO8Mywg159"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
         "name": "Primitiva",
         "url": "https://open.spotify.com/album/3iqczSRnkS7ksB3ccGiUAw"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 186536,
       "name": "Latin-Esque",
       "url": "https://open.spotify.com/track/23DqKw9YfTacYHVkIscWRV"
-    },
-    {
-      "added_at": "2021-01-20 03:50:53",
-      "album": {
-        "name": "Makani Olu'olu",
-        "url": "https://open.spotify.com/album/5ZVybOFjyQ8Upf2CxQStBB"
-      },
-      "artists": [
-        {
-          "name": "Na Palapalai",
-          "url": "https://open.spotify.com/artist/2wjNqTN4X13PUR2YnTqt1e"
-        }
-      ],
-      "duration_ms": 163786,
-      "name": "Lepe Ula'ula",
-      "url": "https://open.spotify.com/track/64Jafr1L2yubJO8Mywg159"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-01-11 02:53:42",
       "album": {
-        "name": "Quiet Village",
-        "url": "https://open.spotify.com/album/6W1nP47Yt36em8y9mNKn74"
-      },
-      "artists": [
-        {
-          "name": "Martin Denny",
-          "url": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
-        }
-      ],
-      "duration_ms": 138133,
-      "name": "Hawaiian War Chant",
-      "url": "https://open.spotify.com/track/4GuEQQreVfdO89NVhDGjdA"
-    },
-    {
-      "added_at": "2022-01-11 02:53:42",
-      "album": {
         "name": "MGANGA!",
         "url": "https://open.spotify.com/album/421iMthufbbRmsu87uHsOS"
       },
@@ -753,20 +737,20 @@
       "url": "https://open.spotify.com/track/6FL6WsCM06Q4RSVU8b3Aqr"
     },
     {
-      "added_at": "2021-01-20 03:50:53",
+      "added_at": "2022-01-11 02:53:42",
       "album": {
-        "name": "Ultra-Lounge: Bongoland",
-        "url": "https://open.spotify.com/album/40UF9C7spOXFRsCKddfrnO"
+        "name": "Quiet Village",
+        "url": "https://open.spotify.com/album/6W1nP47Yt36em8y9mNKn74"
       },
       "artists": [
         {
-          "name": "Terry Snyder",
-          "url": "https://open.spotify.com/artist/0iEZsPAuFqcd3MzuyxMIOc"
+          "name": "Martin Denny",
+          "url": "https://open.spotify.com/artist/3D9J9nPNW1cBktx5apJq4V"
         }
       ],
-      "duration_ms": 341760,
-      "name": "Deep Night/Softly As In A Morning Sunrise - Medley",
-      "url": "https://open.spotify.com/track/1vazfHobo3MVJPUD9eFSs5"
+      "duration_ms": 138133,
+      "name": "Hawaiian War Chant",
+      "url": "https://open.spotify.com/track/4GuEQQreVfdO89NVhDGjdA"
     },
     {
       "added_at": "2021-01-20 03:50:53",
@@ -783,6 +767,22 @@
       "duration_ms": 149000,
       "name": "Mini Skirt",
       "url": "https://open.spotify.com/track/2IFc95wACtdfB2tCMStLgy"
+    },
+    {
+      "added_at": "2021-01-20 03:50:53",
+      "album": {
+        "name": "Ultra-Lounge: Bongoland",
+        "url": "https://open.spotify.com/album/40UF9C7spOXFRsCKddfrnO"
+      },
+      "artists": [
+        {
+          "name": "Terry Snyder",
+          "url": "https://open.spotify.com/artist/0iEZsPAuFqcd3MzuyxMIOc"
+        }
+      ],
+      "duration_ms": 341760,
+      "name": "Deep Night/Softly As In A Morning Sunrise - Medley",
+      "url": "https://open.spotify.com/track/1vazfHobo3MVJPUD9eFSs5"
     },
     {
       "added_at": "2021-01-20 03:50:53",

@@ -1,12 +1,12 @@
 {
   "description": "The home of rave worthy melodic techno and house. Cover: Chris Stussy",
-  "num_followers": 89449,
+  "num_followers": 89656,
   "original_name": "Open Air",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzllOTdiMzU3MDllZWY0NGQ0ZmJhZjQzZWMxN2Y4YTRlMmRlYWEy",
+  "snapshot_id": "MCw0ZjlkZWE1ZjI1YTFlZjQyN2ViZGUxODE3YzA4MTJiZmY0NWMwMzRm",
   "tracks": [
     {
       "added_at": "2023-07-14 04:01:00",
@@ -975,18 +975,18 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Magalenha",
-        "url": "https://open.spotify.com/album/3KOSUwiUlteX08HipIYu5e"
+        "name": "Schwer",
+        "url": "https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10"
       },
       "artists": [
         {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+          "name": "Paul Kalkbrenner",
+          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
         }
       ],
-      "duration_ms": 174375,
-      "name": "Magalenha",
-      "url": "https://open.spotify.com/track/67UgMiTgtwjGFoiACzup1g"
+      "duration_ms": 214895,
+      "name": "Schwer",
+      "url": "https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1003,6 +1003,22 @@
       "duration_ms": 201230,
       "name": "Danielle (Smile on My Face)",
       "url": "https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Magalenha",
+        "url": "https://open.spotify.com/album/3KOSUwiUlteX08HipIYu5e"
+      },
+      "artists": [
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "duration_ms": 174375,
+      "name": "Magalenha",
+      "url": "https://open.spotify.com/track/67UgMiTgtwjGFoiACzup1g"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1067,38 +1083,6 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Schwer",
-        "url": "https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10"
-      },
-      "artists": [
-        {
-          "name": "Paul Kalkbrenner",
-          "url": "https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R"
-        }
-      ],
-      "duration_ms": 214895,
-      "name": "Schwer",
-      "url": "https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "Explore Your Future",
-        "url": "https://open.spotify.com/album/1U38OrHbK9mDQFawzU4P7B"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "The Answer",
-      "url": "https://open.spotify.com/track/2itJP0FWfjtboZdfE9A8EL"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
         "name": "Beyond Us (Hatshepsut Version)",
         "url": "https://open.spotify.com/album/72jzGPaUtzX4wwbigsKmz9"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 234795,
       "name": "Beyond Us - Hatshepsut Version",
       "url": "https://open.spotify.com/track/43eF4GLcpQkzJElhw7kGUj"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Explore Your Future",
+        "url": "https://open.spotify.com/album/1U38OrHbK9mDQFawzU4P7B"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "The Answer",
+      "url": "https://open.spotify.com/track/2itJP0FWfjtboZdfE9A8EL"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1171,6 +1171,22 @@
       "duration_ms": 255483,
       "name": "Great Southern Land",
       "url": "https://open.spotify.com/track/0EbjpQWNL0jFgepyWb9OKf"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "The Return (Edit)",
+        "url": "https://open.spotify.com/album/6HbZkybdKSNHk0TEEGnJB2"
+      },
+      "artists": [
+        {
+          "name": "Pryda",
+          "url": "https://open.spotify.com/artist/37U9sPqTZMd7AKJCWgcvkt"
+        }
+      ],
+      "duration_ms": 232380,
+      "name": "The Return - Edit",
+      "url": "https://open.spotify.com/track/0RmzDQgs6xKmVA2jsmSPXF"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1255,18 +1271,22 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "All That I Lost",
-        "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
+        "name": "Ethnica",
+        "url": "https://open.spotify.com/album/6uUKyUOz3jYwiP3giwvzfT"
       },
       "artists": [
         {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+          "name": "Nico de Andrea",
+          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
+        },
+        {
+          "name": "Vanetty",
+          "url": "https://open.spotify.com/artist/1nXSvgTKd12l7zQrjCqhf4"
         }
       ],
-      "duration_ms": 259838,
-      "name": "All That I Lost",
-      "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
+      "duration_ms": 174662,
+      "name": "Ethnica",
+      "url": "https://open.spotify.com/track/0m5oWTFhtRZwfArXOwckRm"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1287,26 +1307,6 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "I Wanna (Tchami Remix)",
-        "url": "https://open.spotify.com/album/2fOLNCoJ05kE14n4bXGDXr"
-      },
-      "artists": [
-        {
-          "name": "Shiba San",
-          "url": "https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc"
-        },
-        {
-          "name": "Tchami",
-          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
-        }
-      ],
-      "duration_ms": 215433,
-      "name": "I Wanna - Tchami Remix",
-      "url": "https://open.spotify.com/track/4eQiN1WgQ3Q8X7MF2okSTo"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
         "name": "Captain Nemo",
         "url": "https://open.spotify.com/album/7cfkSlQnFIzK5T5ZT8Q1mu"
       },
@@ -1323,38 +1323,38 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "The Return (Edit)",
-        "url": "https://open.spotify.com/album/6HbZkybdKSNHk0TEEGnJB2"
+        "name": "All That I Lost",
+        "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
       },
       "artists": [
         {
-          "name": "Pryda",
-          "url": "https://open.spotify.com/artist/37U9sPqTZMd7AKJCWgcvkt"
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
         }
       ],
-      "duration_ms": 232380,
-      "name": "The Return - Edit",
-      "url": "https://open.spotify.com/track/0RmzDQgs6xKmVA2jsmSPXF"
+      "duration_ms": 259838,
+      "name": "All That I Lost",
+      "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
     },
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Ethnica",
-        "url": "https://open.spotify.com/album/6uUKyUOz3jYwiP3giwvzfT"
+        "name": "I Wanna (Tchami Remix)",
+        "url": "https://open.spotify.com/album/2fOLNCoJ05kE14n4bXGDXr"
       },
       "artists": [
         {
-          "name": "Nico de Andrea",
-          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
+          "name": "Shiba San",
+          "url": "https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc"
         },
         {
-          "name": "Vanetty",
-          "url": "https://open.spotify.com/artist/1nXSvgTKd12l7zQrjCqhf4"
+          "name": "Tchami",
+          "url": "https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY"
         }
       ],
-      "duration_ms": 174662,
-      "name": "Ethnica",
-      "url": "https://open.spotify.com/track/0m5oWTFhtRZwfArXOwckRm"
+      "duration_ms": 215433,
+      "name": "I Wanna - Tchami Remix",
+      "url": "https://open.spotify.com/track/4eQiN1WgQ3Q8X7MF2okSTo"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1423,22 +1423,26 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Euphoria (Solomun Remix)",
-        "url": "https://open.spotify.com/album/6RUXRsAvvd3w6uRLjieWiC"
+        "name": "Slow Down (James Cole Remix)",
+        "url": "https://open.spotify.com/album/3zrP0lDAbH8sF4219tbsX4"
       },
       "artists": [
         {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
         },
         {
-          "name": "Solomun",
-          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        },
+        {
+          "name": "James Cole",
+          "url": "https://open.spotify.com/artist/4uRl0LZUcciuN8tfRQ3LRM"
         }
       ],
-      "duration_ms": 173079,
-      "name": "Euphoria (Solomun Remix) - Edit",
-      "url": "https://open.spotify.com/track/3Tg1V96P2r1yey8rHZHxdO"
+      "duration_ms": 417999,
+      "name": "Slow Down - James Cole Remix",
+      "url": "https://open.spotify.com/track/7IasAOphluLSAmgMtg9jYA"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1463,26 +1467,22 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Slow Down (James Cole Remix)",
-        "url": "https://open.spotify.com/album/3zrP0lDAbH8sF4219tbsX4"
+        "name": "Euphoria (Solomun Remix)",
+        "url": "https://open.spotify.com/album/6RUXRsAvvd3w6uRLjieWiC"
       },
       "artists": [
         {
-          "name": "Maverick Sabre",
-          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         },
         {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        },
-        {
-          "name": "James Cole",
-          "url": "https://open.spotify.com/artist/4uRl0LZUcciuN8tfRQ3LRM"
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
         }
       ],
-      "duration_ms": 417999,
-      "name": "Slow Down - James Cole Remix",
-      "url": "https://open.spotify.com/track/7IasAOphluLSAmgMtg9jYA"
+      "duration_ms": 173079,
+      "name": "Euphoria (Solomun Remix) - Edit",
+      "url": "https://open.spotify.com/track/3Tg1V96P2r1yey8rHZHxdO"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1655,6 +1655,46 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
+        "name": "Alone (Stephan Jolk Remix)",
+        "url": "https://open.spotify.com/album/6WqGjERSNf5IhAMwk2iKfs"
+      },
+      "artists": [
+        {
+          "name": "Jan Blomqvist",
+          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+        },
+        {
+          "name": "Malou",
+          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+        },
+        {
+          "name": "Stephan Jolk",
+          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "Alone - Stephan Jolk Remix",
+      "url": "https://open.spotify.com/track/2nvfQ9c2pi8OFiYb59I1gu"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "You Are My Guide",
+        "url": "https://open.spotify.com/album/2zDhAIky85X0Mn39O047bn"
+      },
+      "artists": [
+        {
+          "name": "Lilly Palmer",
+          "url": "https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU"
+        }
+      ],
+      "duration_ms": 214332,
+      "name": "You Are My Guide",
+      "url": "https://open.spotify.com/track/5u6AIMfldHGa1Fii7puEw0"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
         "name": "Back To This (feat. SoShy)",
         "url": "https://open.spotify.com/album/3BquZyD0gEAzZWJSYmLdm0"
       },
@@ -1671,30 +1711,6 @@
       "duration_ms": 157142,
       "name": "Back To This (feat. SoShy)",
       "url": "https://open.spotify.com/track/3NVCUMDnGDOPDM5jSHuVgt"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "In The Yuma (feat. Aatig) [Four Tet Remix]",
-        "url": "https://open.spotify.com/album/61pYqcKDU3ozNebk0piZoa"
-      },
-      "artists": [
-        {
-          "name": "Chris Lake",
-          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
-        },
-        {
-          "name": "Aatig",
-          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
-        },
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 289171,
-      "name": "In The Yuma (feat. Aatig) [Four Tet Remix]",
-      "url": "https://open.spotify.com/track/4jzi9TxkTRR95CVnLQYQx6"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1723,6 +1739,30 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
+        "name": "In The Yuma (feat. Aatig) [Four Tet Remix]",
+        "url": "https://open.spotify.com/album/61pYqcKDU3ozNebk0piZoa"
+      },
+      "artists": [
+        {
+          "name": "Chris Lake",
+          "url": "https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE"
+        },
+        {
+          "name": "Aatig",
+          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
+        },
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 289171,
+      "name": "In The Yuma (feat. Aatig) [Four Tet Remix]",
+      "url": "https://open.spotify.com/track/4jzi9TxkTRR95CVnLQYQx6"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
         "name": "Rumblah",
         "url": "https://open.spotify.com/album/2UnbY5sd4QS7mHAE2J3YYv"
       },
@@ -1735,22 +1775,6 @@
       "duration_ms": 242000,
       "name": "Rumblah",
       "url": "https://open.spotify.com/track/4ZhbD69otaeNjjChA9h8qv"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "Oxygen Levels Low EP",
-        "url": "https://open.spotify.com/album/7ea46yAHcKgJnhbAgtL4il"
-      },
-      "artists": [
-        {
-          "name": "Colyn",
-          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
-        }
-      ],
-      "duration_ms": 446280,
-      "name": "Oxygen Levels Low",
-      "url": "https://open.spotify.com/track/39U2Ryd4imSGCEOou6hy4W"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1771,22 +1795,18 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Criseide",
-        "url": "https://open.spotify.com/album/1ikZIk7lxSnVaa7afrWsbE"
+        "name": "Oxygen Levels Low EP",
+        "url": "https://open.spotify.com/album/7ea46yAHcKgJnhbAgtL4il"
       },
       "artists": [
         {
-          "name": "Mind Against",
-          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
-        },
-        {
-          "name": "Sideral",
-          "url": "https://open.spotify.com/artist/0og0eYW8h4bxYQXBYPvd0b"
+          "name": "Colyn",
+          "url": "https://open.spotify.com/artist/5vr1GvUstxr6nwxniKqLOh"
         }
       ],
-      "duration_ms": 383562,
-      "name": "Criseide",
-      "url": "https://open.spotify.com/track/094ZMBfb7D08l6ZDCtsJlr"
+      "duration_ms": 446280,
+      "name": "Oxygen Levels Low",
+      "url": "https://open.spotify.com/track/39U2Ryd4imSGCEOou6hy4W"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1811,46 +1831,46 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Alone (Stephan Jolk Remix)",
-        "url": "https://open.spotify.com/album/6WqGjERSNf5IhAMwk2iKfs"
+        "name": "The Loop",
+        "url": "https://open.spotify.com/album/4yn1R7xr2O30X7H3kgto2h"
       },
       "artists": [
         {
-          "name": "Jan Blomqvist",
-          "url": "https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83"
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
         },
         {
-          "name": "Malou",
-          "url": "https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp"
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
         },
         {
-          "name": "Stephan Jolk",
-          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
+          "name": "Max Mylo",
+          "url": "https://open.spotify.com/artist/70IVXvEMUXy1k2esJoJdTK"
         }
       ],
-      "duration_ms": 212903,
-      "name": "Alone - Stephan Jolk Remix",
-      "url": "https://open.spotify.com/track/2nvfQ9c2pi8OFiYb59I1gu"
+      "duration_ms": 181625,
+      "name": "The Loop",
+      "url": "https://open.spotify.com/track/7dQibCVyq03l5tGPWZwXjf"
     },
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Fuck what u heard",
-        "url": "https://open.spotify.com/album/31kvCru828NJSvrG2FymOR"
+        "name": "Criseide",
+        "url": "https://open.spotify.com/album/1ikZIk7lxSnVaa7afrWsbE"
       },
       "artists": [
         {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+          "name": "Mind Against",
+          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
         },
         {
-          "name": "Todd Edwards",
-          "url": "https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg"
+          "name": "Sideral",
+          "url": "https://open.spotify.com/artist/0og0eYW8h4bxYQXBYPvd0b"
         }
       ],
-      "duration_ms": 220166,
-      "name": "Fuck what u heard",
-      "url": "https://open.spotify.com/track/3RlcQp6Q2CrcJ6sTHYYDtq"
+      "duration_ms": 383562,
+      "name": "Criseide",
+      "url": "https://open.spotify.com/track/094ZMBfb7D08l6ZDCtsJlr"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1883,26 +1903,6 @@
       "duration_ms": 464026,
       "name": "Between Two Worlds",
       "url": "https://open.spotify.com/track/0uO5T7u4DkgfGif1wIeLNr"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "Moonlight",
-        "url": "https://open.spotify.com/album/5dJxuHqAVPrkq96UrZp8kt"
-      },
-      "artists": [
-        {
-          "name": "Space Motion",
-          "url": "https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY"
-        },
-        {
-          "name": "Angel Sanchez",
-          "url": "https://open.spotify.com/artist/0CjuBuzouj2pTHrHba4AyC"
-        }
-      ],
-      "duration_ms": 288780,
-      "name": "Moonlight - Radio Edit",
-      "url": "https://open.spotify.com/track/2XCHKQnCTDbfWueZzmHeX0"
     }
   ],
   "unique_name": "Open Air",

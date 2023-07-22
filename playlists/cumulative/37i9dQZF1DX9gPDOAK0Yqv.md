@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno.
 
-285 songs - 1 day 1 hr 12 min
+286 songs - 1 day 1 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Follow the Stars](https://open.spotify.com/track/0LJgZLFwIffaiJTrjxeXas) | [Sylvie Miles](https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE) | [Follow the Stars](https://open.spotify.com/album/7jzXCc4aoRsA1Gk5iOsMa9) | 8:03 | 2023-05-31 | 2023-06-17 |
 | [Fool's Paradise \- Joris Voorn Remix](https://open.spotify.com/track/4SH7CUxlrgvN9vf3oWa05d) | [Mees Salomé](https://open.spotify.com/artist/3vcY5vaGqSQF6UA9N2iC4L), [Celine Cairo](https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Fool's Paradise \(Joris Voorn Remix\)](https://open.spotify.com/album/7qcjHaXG3iYB6o3ifQYUel) | 4:45 | 2022-12-28 | 2023-01-06 |
 | [Free Your Mind](https://open.spotify.com/track/2o2pdKXhWnlDfwLp61koTb) | [Karla Blum](https://open.spotify.com/artist/5NSpferwNVudjza91NaBjO) | [Free Your Mind](https://open.spotify.com/album/7Fz04q3ibCWPzyZIjlRkds) | 5:37 | 2023-02-10 | 2023-02-18 |
-| [Freedom](https://open.spotify.com/track/2bHGHbsFmjQdmdE7hZSKr6) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Freedom](https://open.spotify.com/album/4GPawXGx2GGTfN8dPKUBI9) | 4:00 | 2022-11-23 |  |
+| [Freedom](https://open.spotify.com/track/2bHGHbsFmjQdmdE7hZSKr6) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Freedom](https://open.spotify.com/album/4GPawXGx2GGTfN8dPKUBI9) | 4:00 | 2022-11-23 | 2023-07-22 |
 | [Frustration](https://open.spotify.com/track/4QhQBj55JalsgKmjfLIT2w) | [Olympe](https://open.spotify.com/artist/5uK8yW5uGiMKQH3YI8DztF) | [X2](https://open.spotify.com/album/0dmvMXj4bh1YXwVKxfWcRK) | 6:32 | 2022-11-23 | 2022-11-28 |
 | [Future Self](https://open.spotify.com/track/7rXOjC0ZGvNwUdkQ7Uazq0) | [Nihil Young](https://open.spotify.com/artist/11OUxHFoGgo2NDSdT6YiEC), [LEO ISLO](https://open.spotify.com/artist/5VqnicC0xT5ja3283N8Yde) | [Future Self](https://open.spotify.com/album/0Up3Hg8E7Kx4VCWeF2v3Oi) | 4:25 | 2023-06-16 | 2023-07-01 |
 | [Futuro](https://open.spotify.com/track/302izEeCgAxrLEpnXM4nNP) | [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [Ilan Bluestone](https://open.spotify.com/artist/1yoZuH2j43vVSWsOwYuQyn) | [Futuro](https://open.spotify.com/album/1DazgXEcICNcTtmYp5SK7H) | 2:55 | 2023-07-07 |  |
@@ -259,6 +259,7 @@
 | [The Silence](https://open.spotify.com/track/0CE4CLlvJIiis5GrGWNjjN) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [The Silence](https://open.spotify.com/album/6q8vauldhdzx6900WmbYyL) | 4:23 | 2023-05-23 |  |
 | [The Tide](https://open.spotify.com/track/3UWQvz3JJJbseHOoyX7Xw0) | [Fatum](https://open.spotify.com/artist/3pt2vTpH1eI776oDZT1G2C), [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT), [Beautiful Errors](https://open.spotify.com/artist/2hXE7AOxECS5zOIPxtYYaM) | [The Tide](https://open.spotify.com/album/2YhEMk0bYtGvOQYTJY6pqc) | 4:04 | 2022-12-09 | 2023-01-25 |
 | [Tibet](https://open.spotify.com/track/7xvl39LuJ8o5yeHR1kta90) | [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX) | [Tibet](https://open.spotify.com/album/6mQ61LMEZzW5HAvFWFumbK) | 6:43 | 2022-11-23 |  |
+| [Time Keeper](https://open.spotify.com/track/7aQ5uJmlptmX4ezpvhSPrU) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Dallerium](https://open.spotify.com/artist/4fxRhGF08oSVvvjHoK6QNO), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Time Keeper](https://open.spotify.com/album/0cY7IaQHde6rUN32qiSBgx) | 3:10 | 2023-07-21 |  |
 | [To Hope](https://open.spotify.com/track/3jrHkWKbFMpv0h47O1oWJC) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [To Hope](https://open.spotify.com/album/0eauXE0fq4hMmVlzFUnXqs) | 3:16 | 2023-02-27 |  |
 | [To The Light \- Fideles Remix](https://open.spotify.com/track/4dnmKgkhPvrRrDYjajpPS5) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs) | [To The Light \(Fideles Remix\)](https://open.spotify.com/album/6jNIuiKaLvkGloJnqq40Cp) | 4:30 | 2022-12-16 | 2023-02-18 |
 | [To the Soul](https://open.spotify.com/track/2YrXmlAEz519MRKZdpcR3F) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK) | [To the Soul](https://open.spotify.com/album/5ozX77l1jnaM9dWDUGv78H) | 6:36 | 2022-12-16 | 2023-01-08 |

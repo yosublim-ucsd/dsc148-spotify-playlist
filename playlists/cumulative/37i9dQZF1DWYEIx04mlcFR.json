@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "\u00a1La Gen 23 est\u00e1 aqu\u00ed! La nueva ola de artistas con RENEE en portada. \ud83c\udf0a\u2728 ",
+  "description": "La nueva ola de artistas con Arroba Nat en portada. \ud83c\udf0a\u2728 ",
   "name": "la pop~wave",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 187741,
       "name": "23",
       "url": "https://open.spotify.com/track/0ajUM9ZopaMpzaOZ0A0sdn"
@@ -238,7 +238,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 174266,
       "name": "Acuario - Solo San Remix",
       "url": "https://open.spotify.com/track/0jrvvsqJsh4ynhqqoanibZ"
@@ -1019,6 +1019,24 @@
     },
     {
       "album": {
+        "name": "cansada de verte en todas partes",
+        "url": "https://open.spotify.com/album/2xpnndjYm4cHc3f207UNXf"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170803,
+      "name": "cansada de verte en todas partes",
+      "url": "https://open.spotify.com/track/09uBE5fjZUWZfjD2ensCGR"
+    },
+    {
+      "album": {
         "name": "Capricho",
         "url": "https://open.spotify.com/album/5YANYVqUlxVKl1SzCu8quh"
       },
@@ -1142,7 +1160,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 163095,
       "name": "Chill",
       "url": "https://open.spotify.com/track/2m0v4ZdHJQuSnmq5zWmVdf"
@@ -1160,7 +1178,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 189333,
       "name": "CHTM",
       "url": "https://open.spotify.com/track/37ACkKEaY0U1moI5aZzmKI"
@@ -1392,7 +1410,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 275226,
       "name": "Coraz\u00f3n : Classics",
       "url": "https://open.spotify.com/track/3K8FQZs0oIh6txEMuuHf7s"
@@ -1864,7 +1882,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-03-26",
+      "date_removed": null,
       "duration_ms": 174000,
       "name": "Dueles Tan Bien",
       "url": "https://open.spotify.com/track/75ncCwXqalTnnl6t1ruQRq"
@@ -2504,7 +2522,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 173944,
       "name": "Hell0 K1tty",
       "url": "https://open.spotify.com/track/1olrrUdvcKPvBYB4RsitSM"
@@ -3716,6 +3734,28 @@
       "duration_ms": 173895,
       "name": "Mon Amour",
       "url": "https://open.spotify.com/track/5liJEcanWV112vEe9uT8iP"
+    },
+    {
+      "album": {
+        "name": "moneda sin valor",
+        "url": "https://open.spotify.com/album/4Qwp5iSfODw3HnJZsLwFM7"
+      },
+      "artists": [
+        {
+          "name": "Caztro",
+          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
+        },
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174612,
+      "name": "moneda sin valor",
+      "url": "https://open.spotify.com/track/1NfGatqpE4QWyLg1VzWRbD"
     },
     {
       "album": {
@@ -5439,6 +5479,24 @@
     },
     {
       "album": {
+        "name": "Gran Disco Mini Precio - Dulce Beat",
+        "url": "https://open.spotify.com/album/3eFmEZkrFFPAhEX0xpTSir"
+      },
+      "artists": [
+        {
+          "name": "Belanova",
+          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185933,
+      "name": "Rosa Pastel",
+      "url": "https://open.spotify.com/track/6Z0ybnsUBhbZ9ZjPW64eoF"
+    },
+    {
+      "album": {
         "name": "Sal Dulce",
         "url": "https://open.spotify.com/album/1WtgHitKYHxiCuwZbcuAkg"
       },
@@ -5504,7 +5562,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 242424,
       "name": "sanvalent\u00edn:(",
       "url": "https://open.spotify.com/track/4ETb1UPd2OAem6KVOpz0WM"
@@ -5580,6 +5638,28 @@
       "duration_ms": 159378,
       "name": "Se Fue la Luz",
       "url": "https://open.spotify.com/track/5prM7f8gT8LNm8HlCdT7nl"
+    },
+    {
+      "album": {
+        "name": "Se fue la luz",
+        "url": "https://open.spotify.com/album/2qR1JnuuOc6xl48pE9elFb"
+      },
+      "artists": [
+        {
+          "name": "LATIN MAFIA",
+          "url": "https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF"
+        },
+        {
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Se fue la luz",
+      "url": "https://open.spotify.com/track/4eYhZcJRzRZLGFp7EupTEE"
     },
     {
       "album": {
@@ -5765,6 +5845,24 @@
     },
     {
       "album": {
+        "name": "Si Nos Volvemos A Encontrar",
+        "url": "https://open.spotify.com/album/5jlvEPbTSKjFcpPqDtMgeC"
+      },
+      "artists": [
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204507,
+      "name": "Si Nos Volvemos A Encontrar",
+      "url": "https://open.spotify.com/track/1BEPwgt9j3KXEhKDGfNCfM"
+    },
+    {
+      "album": {
         "name": "Recuerdo",
         "url": "https://open.spotify.com/album/1r1N5rS3RA7tLE38xCrMy8"
       },
@@ -5896,6 +5994,24 @@
       "duration_ms": 232298,
       "name": "Sitting In The Corner (feat. Adriel Favela & Kacey Musgraves)",
       "url": "https://open.spotify.com/track/1Cx5pTBRWI67JXVmMGJT23"
+    },
+    {
+      "album": {
+        "name": "SKB",
+        "url": "https://open.spotify.com/album/45Y4FneTtW9gZYhd98Sunp"
+      },
+      "artists": [
+        {
+          "name": "Joaquina Mertz",
+          "url": "https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218709,
+      "name": "SKB",
+      "url": "https://open.spotify.com/track/6gXpd9hQ2nBKlfCFBDQHsF"
     },
     {
       "album": {
@@ -6718,7 +6834,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 160000,
       "name": "Ultraviolento",
       "url": "https://open.spotify.com/track/5HoUmqqOMk4yMb7jtuJBIi"
@@ -7048,6 +7164,24 @@
       "duration_ms": 140600,
       "name": "Walking Dogs",
       "url": "https://open.spotify.com/track/2CWoyl5VCiVwxuUwfFow8R"
+    },
+    {
+      "album": {
+        "name": "LQMGDT",
+        "url": "https://open.spotify.com/album/65vQZKZABBbYxV5fCtLtOb"
+      },
+      "artists": [
+        {
+          "name": "legallyrxx",
+          "url": "https://open.spotify.com/artist/4CairTbnNW5l8GxiRIzsZ3"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207946,
+      "name": "Weeknd<3",
+      "url": "https://open.spotify.com/track/6FVq1MqAOeNLUYOiIOj4Rw"
     },
     {
       "album": {

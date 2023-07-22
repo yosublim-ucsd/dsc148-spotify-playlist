@@ -1001,6 +1001,24 @@
     },
     {
       "album": {
+        "name": "BILLING = CHILLING",
+        "url": "https://open.spotify.com/album/7IUFcafS1yVSCcnI6xpYq3"
+      },
+      "artists": [
+        {
+          "name": "Toy\u00e9",
+          "url": "https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170526,
+      "name": "BILLING = CHILLING",
+      "url": "https://open.spotify.com/track/0whm71yydiyeu8W2WnKAD4"
+    },
+    {
+      "album": {
         "name": "BIO BIO",
         "url": "https://open.spotify.com/album/09VOTuDWx2DiNAgS6XQpHX"
       },
@@ -4862,6 +4880,24 @@
       "duration_ms": 171697,
       "name": "Let Me Know",
       "url": "https://open.spotify.com/track/36SgcAZSooUZiZ5xNREtjZ"
+    },
+    {
+      "album": {
+        "name": "Life",
+        "url": "https://open.spotify.com/album/7qMz7agXz7ZBAiJLYBL1XK"
+      },
+      "artists": [
+        {
+          "name": "Emmie Muthiga",
+          "url": "https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/5dpkojjeGT4Q3QHojlOU0Y"
     },
     {
       "album": {

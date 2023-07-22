@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "Your go-to playlist for this week's hottest music featuring Lil Tjay, Dominic Fike, Harry Styles &amp; more! Cover: Lil Tjay",
+  "description": "Your go-to playlist for this week's hottest music featuring Diplo, Lil Tjay, Harry Styles &amp; more! Cover: Diplo, Jessie Murph, Polo G.",
   "name": "Columbia Records: Weekly Mix",
   "tracks": [
     {
@@ -945,6 +945,24 @@
     },
     {
       "album": {
+        "name": "Boyfriends",
+        "url": "https://open.spotify.com/album/4WTlyYWvkNmhbGxJwvyt7n"
+      },
+      "artists": [
+        {
+          "name": "Grace VanderWaal",
+          "url": "https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241318,
+      "name": "Boyfriends",
+      "url": "https://open.spotify.com/track/4lZOooja21hMfbnjw09sXw"
+    },
+    {
+      "album": {
         "name": "Boys In Boots",
         "url": "https://open.spotify.com/album/0afJB6vLFBo59YpUJpjQ1P"
       },
@@ -1116,6 +1134,24 @@
       "duration_ms": 123629,
       "name": "Bruce Wayne",
       "url": "https://open.spotify.com/track/2POzxzlAyRJ2yEMD8XyV7a"
+    },
+    {
+      "album": {
+        "name": "BUCKLE BUNNY",
+        "url": "https://open.spotify.com/album/0s3PLrYRp1PojvP8W9g1qS"
+      },
+      "artists": [
+        {
+          "name": "Tanner Adell",
+          "url": "https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192444,
+      "name": "Buckle Bunny",
+      "url": "https://open.spotify.com/track/17KfodDyg0yKQYmjGGGnlA"
     },
     {
       "album": {
@@ -1924,6 +1960,24 @@
       "duration_ms": 157563,
       "name": "Dancing In The Courthouse",
       "url": "https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ"
+    },
+    {
+      "album": {
+        "name": "De Selby (Part 2)",
+        "url": "https://open.spotify.com/album/5xq7nQjOBcUnOyRMkBLnaM"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227826,
+      "name": "De Selby (Part 2)",
+      "url": "https://open.spotify.com/track/4SFNe716eUbgX1XvGCTBu7"
     },
     {
       "album": {
@@ -3311,6 +3365,24 @@
     },
     {
       "album": {
+        "name": "God's Eyes",
+        "url": "https://open.spotify.com/album/6OK5AWd7zWg4wJrY3dPrMe"
+      },
+      "artists": [
+        {
+          "name": "Dax",
+          "url": "https://open.spotify.com/artist/5icKdCmMhNMYoAzVBAWt39"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "God's Eyes",
+      "url": "https://open.spotify.com/track/2lHRuImyzXNKwzy4pau98R"
+    },
+    {
+      "album": {
         "name": "Good Times Go EP",
         "url": "https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV"
       },
@@ -3566,6 +3638,32 @@
       "duration_ms": 231723,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/2RSHP21KqTUkCfy4xgwuN1"
+    },
+    {
+      "album": {
+        "name": "Heartbroken (feat. Jessie Murph & Polo G)",
+        "url": "https://open.spotify.com/album/4cfA6cGpQSXr8jMMxfnNaS"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Jessie Murph",
+          "url": "https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204325,
+      "name": "Heartbroken (feat. Jessie Murph & Polo G)",
+      "url": "https://open.spotify.com/track/6NdnvPwQvZb147DVa4x14h"
     },
     {
       "album": {
@@ -6113,6 +6211,28 @@
     },
     {
       "album": {
+        "name": "Off Top",
+        "url": "https://open.spotify.com/album/7a6G6hSYut799MiI5gT7xs"
+      },
+      "artists": [
+        {
+          "name": "Rican Da Menace",
+          "url": "https://open.spotify.com/artist/1JfDtCRGqUvGFKaevDPrHY"
+        },
+        {
+          "name": "Lola Brooke",
+          "url": "https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184296,
+      "name": "Off Top",
+      "url": "https://open.spotify.com/track/4B9W5xGHs5cJp47xOUBqeN"
+    },
+    {
+      "album": {
         "name": "OH MY LORD (feat. 24kGoldn)",
         "url": "https://open.spotify.com/album/5G8RlksQs4NlBrWcLEDPjY"
       },
@@ -6168,6 +6288,28 @@
       "duration_ms": 153196,
       "name": "Old Ways",
       "url": "https://open.spotify.com/track/03piMxNCT8PQTEYKvPBNDB"
+    },
+    {
+      "album": {
+        "name": "Ole",
+        "url": "https://open.spotify.com/album/1XPnkubgp63M9k5KsrMC7y"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Ole (feat. BNXN)",
+      "url": "https://open.spotify.com/track/1KR2V2DQwUWMrwYOhQ2LLx"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Hit the floor with these hot new tracks and dance remixes of your favorite country songs! Cover: Cheat Codes and MacKenzie Porter
 
-156 songs - 8 hr 35 min
+157 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Hard Out Here For A Country Boy \- + FUZZ](https://open.spotify.com/track/0YjAoqGYQuuvSWCMZBaZI4) | [The Cadillac Three](https://open.spotify.com/artist/1nivFfWu6oXBFDNyVfFU5x) | [Hard Out Here For A Country Boy \(+ FUZZ\)](https://open.spotify.com/album/2fvbbiXAYuHjZphvBOsFYZ) | 3:28 | 2021-12-10 |  |
 | [Head Over Boots \- Cahill Remix](https://open.spotify.com/track/493j3Kgwyj10g5KAOVDtuF) | [Phil Dust](https://open.spotify.com/artist/3QjqGZ3r7sMq8XHsRbFU5U), [Jaron Strom](https://open.spotify.com/artist/6Hm2cThGavZW4kAWpYzfWP), [Cahill](https://open.spotify.com/artist/02nqwOvmlIhYQtZ5kVqJZm) | [Head Over Boots \(Cahill Remix\)](https://open.spotify.com/album/3mwB1cyeK7t6OKgw2gBm5L) | 3:06 | 2022-09-02 |  |
 | [Heartless \(feat\. Morgan Wallen\)](https://open.spotify.com/track/3FU6urUVsgXa6RBuV2PdRk) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Diplo Presents Thomas Wesley: Chapter 1 \- Snake Oil](https://open.spotify.com/album/2Om5VEKaBd4Afht33ToQGD) | 2:49 | 2022-02-11 |  |
+| [Heaven \- Dave Aude Remix](https://open.spotify.com/track/4MbmEDpOLuxWlM1wmhiGAr) | [Madeline Consoer](https://open.spotify.com/artist/1bw2RHxmR0mo75zcrlarDo), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9) | [Heaven \(Dave Aude Remix\)](https://open.spotify.com/album/0SLBKFvRLyxwc3BcKydJl7) | 3:22 | 2023-07-21 |  |
 | [Hey Brother](https://open.spotify.com/track/4lhqb6JvbHId48OUJGwymk) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0) | 4:15 | 2021-12-10 | 2022-03-26 |
 | [High Heels \- Whistle While You Twerk](https://open.spotify.com/track/7nhTJJi2DYRYfQthsIJ5zM) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf), [secs on the beach](https://open.spotify.com/artist/5zDEuV2X31GgJ4R0tPosmM) | [High Heels \(Whistle While You Twerk\)](https://open.spotify.com/album/6UBDYoJ4Tji6oCp2oVlDmZ) | 2:42 | 2022-11-18 |  |
 | [High Horse \(feat\. BRELAND and Blanco Brown\)](https://open.spotify.com/track/4XMNF67BLR9zzti9XLVFR7) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i) | [High Horse](https://open.spotify.com/album/2j0bqyuBna2QagVKpxvXSK) | 2:32 | 2021-12-10 |  |

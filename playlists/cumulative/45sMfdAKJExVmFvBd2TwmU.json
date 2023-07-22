@@ -2811,6 +2811,32 @@
     },
     {
       "album": {
+        "name": "Tere Bina (Heartfelt Version)",
+        "url": "https://open.spotify.com/album/1dHeuT2clj2U5Y9QpyWnWx"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Barzin Contractor",
+          "url": "https://open.spotify.com/artist/5tzm7LT4Dh4RMMbVBQSydc"
+        },
+        {
+          "name": "Sarthak Bhave",
+          "url": "https://open.spotify.com/artist/0XFOMb1eNLNm2h0uMu3Spx"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172320,
+      "name": "Tere Bina - Heartfelt Version",
+      "url": "https://open.spotify.com/track/7gHV5XkZd2JyaI3rk2cCvo"
+    },
+    {
+      "album": {
         "name": "Tere Bina - Khanvict Remix",
         "url": "https://open.spotify.com/album/2gSeFOFJvIibTosS8Dvnz9"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Artie 5ive e Sacky in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,694 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,741 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 11 | [AMG](https://open.spotify.com/track/3vXCF2W05QjzgIcRfmuGdq) | [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW) | [AMG](https://open.spotify.com/album/253q9ai7SJzI4JxMAKtTN6) | 2:29 |
 | 12 | [ASSISTE 2 \(feat\. Kilimoney\)](https://open.spotify.com/track/6uJCQb6kWhXfWrIXnDP8mx) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Kilimoney](https://open.spotify.com/artist/01lVP0L85U9jYVREPOB8RG) | [ASSISTE 2 \(feat\. Kilimoney\)](https://open.spotify.com/album/3RBPeDOoTvwywWy8oL4pNe) | 2:38 |
 | 13 | [Hagra](https://open.spotify.com/track/1PAKJ4G5tpNK0YYloB6dBv) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Hagra](https://open.spotify.com/album/3Xmje1BFiERvTm1aRpGi0S) | 2:38 |
-| 14 | [Bipolare](https://open.spotify.com/track/6gvJmi8NRtWKOFZgemB97X) | [Voleur pnz](https://open.spotify.com/artist/6BGAhqSN3qEqlZRpMogAFN) | [Bipolare](https://open.spotify.com/album/6NNHxBFTvWztjhDqfnCXz6) | 2:22 |
+| 14 | [Bipolare](https://open.spotify.com/track/6gvJmi8NRtWKOFZgemB97X) | [Voleur pnz](https://open.spotify.com/artist/6BGAhqSN3qEqlZRpMogAFN), [Damo ça va pètèr](https://open.spotify.com/artist/6PKyPmrKFzCjuI6pWbJvB6) | [Bipolare](https://open.spotify.com/album/6NNHxBFTvWztjhDqfnCXz6) | 2:22 |
 | 15 | [Metropolitana](https://open.spotify.com/track/2LefQOKsenY4CsqByGwNDC) | [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Mojobeatz](https://open.spotify.com/artist/1Pwd1KP0QpMW7BZq6EdTB0) | [Metropolitana](https://open.spotify.com/album/4VFiQpAxljv9ikIK9QXTEQ) | 2:59 |
 | 16 | [Vegeta \(feat\. Néza\)](https://open.spotify.com/track/73TYUZ7vZ6hFP0p5NXin0g) | [Zefe](https://open.spotify.com/artist/3yNjXWi2WswJfuBZSouJRH), [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [Vegeta \(feat\. Néza\)](https://open.spotify.com/album/0kqfgJpLsbN2pysxJoNIfg) | 2:28 |
 | 17 | [Victoria's Secret \(feat\. Niky Savage\)](https://open.spotify.com/track/6e6l7PYajMX9SVpbEDqowH) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1), [Niky Savage](https://open.spotify.com/artist/4w9mPW732RnZkoqsy3lRsg), [Timongothekeys](https://open.spotify.com/artist/1pXa6QH7HpQcw3FCP7MQQk), [Blssd](https://open.spotify.com/artist/1lG5HZN4p1f0SBCRzmZXr0) | [Victoria's Secret \(feat\. Niky Savage\)](https://open.spotify.com/album/1fhQ6ZcU9gOnp6jubU91x9) | 2:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 49 | [Finta di niente](https://open.spotify.com/track/4iicf5JOcfrr3uSBucgxo3) | [Not Good](https://open.spotify.com/artist/1PG5WX3LZJHM4p6HO4qMq8) | [Finta di niente](https://open.spotify.com/album/5Pk7h4An85JI29zvO5qOzA) | 2:36 |
 | 50 | [Festa delle Streghe](https://open.spotify.com/track/2zr06Pa71vFC0PLNLAixXu) | [Prince](https://open.spotify.com/artist/1euy9qBmp31zNChfEVU0FI), [Ervie](https://open.spotify.com/artist/2jv3dj48LmJ18EwXdgzARH) | [Love Storii](https://open.spotify.com/album/6LbQhCuZ2ge0zbW6CiXD8V) | 2:40 |
 
-Snapshot ID: `MCw3OWM1YTAxYWRmOGU2NmU3NjVkM2RlY2UwOTlmYjQwZThmMzNmYmQw`
+Snapshot ID: `MCxlOTg1ZTc4OWViOGU1YmVjZGJlZTNkYzM1MTUyYWVhMWYzMGE3NTJj`

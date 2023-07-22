@@ -4,7 +4,7 @@
 
 > Ambient at the movies; great atmospheric, ethereal film soundtracks.
 
-98 songs - 5 hr 38 min
+99 songs - 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Monsters Theme](https://open.spotify.com/track/3CKstYFeiGJMGgRpHWbUGE) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Monsters \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2uMFg3hvo58SMkVlU1uhKJ) | 4:55 | 2022-05-27 | 2022-07-29 |
 | [Monsters Theme](https://open.spotify.com/track/6aiR4OPo4GSpsiRzuubaZg) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Monsters \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4xj5LGumbT2M7wq25RLNjl) | 4:55 | 2022-05-27 |  |
 | [My Journey \- Film Version for "The Father" / David Menke Remix](https://open.spotify.com/track/2ZEvdZEu3Rdh3rVcNu6VL6) | [Ludovico Einaudi](https://open.spotify.com/artist/2uFUBdaVGtyMqckSeCl0Qj), [David Menke](https://open.spotify.com/artist/469hbNk7fj83mUY9Fhd94P) | [The Father \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1znaXqdsQ9496AGReZcqJ5) | 3:52 | 2022-11-23 |  |
+| [Mysteries](https://open.spotify.com/track/3GtcIhRWihrsWXackQw2HN) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25), [Ben Schneider](https://open.spotify.com/artist/501ebBxChWPmTwFhmZzOLh) | [Music for The Starling Girl \(Score & Music from the Original Motion Picture\)](https://open.spotify.com/album/1mDpO84TgiUxVHI81x8h36) | 2:35 | 2023-07-21 |  |
 | [Nice to Meet You Zach](https://open.spotify.com/track/0hRxFSqGmQkjC7C89sITf3) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ) | [American Underdog \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4xxpX7jMfO1TUdbGpvTfTE) | 1:07 | 2022-05-27 |  |
 | [Of Mothers and Daughters](https://open.spotify.com/track/44kSIeFJVVXr5CgQynV5tY) | [Spencer Creaghan](https://open.spotify.com/artist/6UsbvSWHidueV0jQgXW5eg) | [Motherly \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mvBTUUdUwjkOPR8Dbuy1F) | 6:51 | 2022-05-27 |  |
 | [Open Foe](https://open.spotify.com/track/2MQl9KSDTXUYy2FiKm11XI) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [The Last Panthers](https://open.spotify.com/album/6jN4zYKKtmdva12AjbfXNB) | 2:08 | 2023-01-27 |  |

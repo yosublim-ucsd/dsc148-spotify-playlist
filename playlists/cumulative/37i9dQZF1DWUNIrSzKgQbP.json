@@ -7133,6 +7133,28 @@
     },
     {
       "album": {
+        "name": "Searching For Freedom (Friends Edition)",
+        "url": "https://open.spotify.com/album/7riWXyZLVwGPkyfSaYPSNO"
+      },
+      "artists": [
+        {
+          "name": "Emily Brimlow",
+          "url": "https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj"
+        },
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229000,
+      "name": "Searching For Freedom (Friends Edition)",
+      "url": "https://open.spotify.com/track/01qj7yPVba9ZzVlAG6c6BX"
+    },
+    {
+      "album": {
         "name": "Hollowed out Sea",
         "url": "https://open.spotify.com/album/6eiWuJTeAfTTlD6jpd766A"
       },

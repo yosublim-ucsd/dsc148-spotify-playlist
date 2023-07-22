@@ -1943,6 +1943,24 @@
     },
     {
       "album": {
+        "name": "July Turner",
+        "url": "https://open.spotify.com/album/42wsDwyiLxc2pG9uuHz8Ko"
+      },
+      "artists": [
+        {
+          "name": "July Turner",
+          "url": "https://open.spotify.com/artist/5cu8spTsbRlPAYBMx5rz1H"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177997,
+      "name": "Heartbreaker",
+      "url": "https://open.spotify.com/track/5r0fqmv3eSRFcEeGIWhMac"
+    },
+    {
+      "album": {
         "name": "Heaven Down Here",
         "url": "https://open.spotify.com/album/3BRywwUQdsv5iFBZ9LajTg"
       },
@@ -2547,6 +2565,24 @@
     },
     {
       "album": {
+        "name": "Kill Me",
+        "url": "https://open.spotify.com/album/7iuVd42Ad5GoLpMw3XvwPT"
+      },
+      "artists": [
+        {
+          "name": "Kolby Cooper",
+          "url": "https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163110,
+      "name": "Kill Me",
+      "url": "https://open.spotify.com/track/5pWgfYHRZuNctsKtWGDJ2E"
+    },
+    {
+      "album": {
         "name": "Kinda Bar",
         "url": "https://open.spotify.com/album/6M3sZd68dyKV2Q9gvWpSYj"
       },
@@ -2984,7 +3020,7 @@
       ],
       "date_added": "2021-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 190677,
       "name": "Never Change",
       "url": "https://open.spotify.com/track/6PuM7qkapYCJsN45KMMOwR"
@@ -3678,7 +3714,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 213826,
       "name": "Shoot From The Hip",
       "url": "https://open.spotify.com/track/4F880Aeo2WO7N0lULjWgzm"
@@ -4696,7 +4732,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 208418,
       "name": "What Do I Know (feat. HARDY)",
       "url": "https://open.spotify.com/track/2SncBUzb3UsejCoo4NHhtk"
@@ -4826,6 +4862,24 @@
       "duration_ms": 202440,
       "name": "Whiskey Sunrise",
       "url": "https://open.spotify.com/track/46oDBddhwu0gfFr2z1fvh5"
+    },
+    {
+      "album": {
+        "name": "White Horse",
+        "url": "https://open.spotify.com/album/5yeOXz3vHyMv8ySLEcCya7"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267893,
+      "name": "White Horse",
+      "url": "https://open.spotify.com/track/7MSWxMumjz6lHj7oRApNbg"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 
 > Vulgo FK e os maiores hits do país\. O que tá bombando tá aqui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,724,367 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,727,062 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0FOF1IUWK1W.md) - [plain]
 | 49 | [Papin](https://open.spotify.com/track/3khLpwuyIjEOw8vfJ1oUIT) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [MC Caja](https://open.spotify.com/artist/0zyPMXUsjcvUvgWmaRt0bY) | [Tamborzão Raiz](https://open.spotify.com/album/7qwJFRvShWMVg39UKWafzW) | 2:02 |
 | 50 | [DONA DE MIM](https://open.spotify.com/track/7sopDXkuzXtHt8AQpdBxmT) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [DONA DE MIM](https://open.spotify.com/album/6gUUHKk5qcIHyffnbfApNO) | 2:25 |
 
-Snapshot ID: `MCwwOTg5NzcwN2NmNWM4MmFkOTg1ODJmYmI2ZTRkNWU1MDk4OTY0NDZk`
+Snapshot ID: `MCxlYWYzZWUzNTk5MzUxMGE1MmRlYjllZDI0OTBkODBjMWRiOTcyZTBh`

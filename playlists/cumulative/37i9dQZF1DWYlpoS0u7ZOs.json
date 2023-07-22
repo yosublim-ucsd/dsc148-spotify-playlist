@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The new wave of rock from the UK & Ireland. Cover: Jaws The Shark",
+  "description": "The new wave of rock from the UK & Ireland. Cover: Dead Pony",
   "name": "shockwave",
   "tracks": [
     {
@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "chain",
+        "url": "https://open.spotify.com/album/1pD3mUqv8jSN4Jv08dMKmJ"
+      },
+      "artists": [
+        {
+          "name": "Aziya",
+          "url": "https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168629,
+      "name": "chain",
+      "url": "https://open.spotify.com/track/73m5RI0Mx2SNo5P6fu148x"
+    },
+    {
+      "album": {
         "name": "Chew",
         "url": "https://open.spotify.com/album/7vSeanXi9dHntVCVQmQioq"
       },
@@ -470,7 +488,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 204857,
       "name": "claws",
       "url": "https://open.spotify.com/track/2HgmmSd1lZesLJU1koxI8T"
@@ -888,6 +906,24 @@
       "duration_ms": 167575,
       "name": "Fed Rock",
       "url": "https://open.spotify.com/track/5N9WqVbPaNU6HqS4Z5as5r"
+    },
+    {
+      "album": {
+        "name": "Feel for Me",
+        "url": "https://open.spotify.com/album/1hPsPaR9azk6Yc7whUkSQP"
+      },
+      "artists": [
+        {
+          "name": "Lissy Taylor",
+          "url": "https://open.spotify.com/artist/15ZEwlfPIbAiAR20HklpR4"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202175,
+      "name": "Feel for Me",
+      "url": "https://open.spotify.com/track/1RLPKYPsBtuOnrSAXAILae"
     },
     {
       "album": {
@@ -1342,7 +1378,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 201734,
       "name": "I Lied",
       "url": "https://open.spotify.com/track/40oYCvcVxox9xwM8sR8UDW"
@@ -1475,6 +1511,24 @@
     },
     {
       "album": {
+        "name": "Join The Club",
+        "url": "https://open.spotify.com/album/45XFiYaalYoNTcM5Kb4IXW"
+      },
+      "artists": [
+        {
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183867,
+      "name": "Join The Club",
+      "url": "https://open.spotify.com/track/69GxHryDHLWjJGccowdFoJ"
+    },
+    {
+      "album": {
         "name": "Joking",
         "url": "https://open.spotify.com/album/7Mwt5rqTBTIl6qZSOAvK0N"
       },
@@ -1522,7 +1576,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 211034,
       "name": "Killer",
       "url": "https://open.spotify.com/track/1j1vwLJRvEgsfI8mgKg1p7"
@@ -1544,6 +1598,24 @@
       "duration_ms": 191755,
       "name": "Lads Lads Lads",
       "url": "https://open.spotify.com/track/3QL6ySMAq85DunV286RBVS"
+    },
+    {
+      "album": {
+        "name": "Deepest Blue",
+        "url": "https://open.spotify.com/album/2l6T54veKjGFPc4MHVPrjl"
+      },
+      "artists": [
+        {
+          "name": "Lizzie Esau",
+          "url": "https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218751,
+      "name": "Lazy Brain",
+      "url": "https://open.spotify.com/track/3lIVyH8SN5yPVExgWuyiYh"
     },
     {
       "album": {
@@ -1864,10 +1936,28 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 232679,
       "name": "Madman",
       "url": "https://open.spotify.com/track/7MGDxr4uUDqOV70Uy3iPom"
+    },
+    {
+      "album": {
+        "name": "MANA",
+        "url": "https://open.spotify.com/album/3QGNKLYpMPH1YmlVfmwSN7"
+      },
+      "artists": [
+        {
+          "name": "Dead Pony",
+          "url": "https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195777,
+      "name": "MANA",
+      "url": "https://open.spotify.com/track/3e8AAXjqnb4tLJWHGao38T"
     },
     {
       "album": {
@@ -1954,7 +2044,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 204143,
       "name": "MK Nothing",
       "url": "https://open.spotify.com/track/6P8YIrdXjCKEOxGj3jgAx2"
@@ -1990,7 +2080,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 137837,
       "name": "MOTION SICKNESS!!",
       "url": "https://open.spotify.com/track/0g5P7TjeGuIjNv308nX1PW"
@@ -2210,7 +2300,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 213153,
       "name": "parasite",
       "url": "https://open.spotify.com/track/1xXS5zW2jMxpFdxXgBwKYB"
@@ -2505,6 +2595,24 @@
     },
     {
       "album": {
+        "name": "Russian Roulette",
+        "url": "https://open.spotify.com/album/5dSgvHcSr0RE9aXpWD2HZB"
+      },
+      "artists": [
+        {
+          "name": "Liquid State",
+          "url": "https://open.spotify.com/artist/5Bn0UxpJyKDg5mpcDOaS3p"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230111,
+      "name": "Russian Roulette",
+      "url": "https://open.spotify.com/track/7KIrDWJzJGKx1xlK0tOqiU"
+    },
+    {
+      "album": {
         "name": "SADFACE",
         "url": "https://open.spotify.com/album/22a0uOqO0e5PxYmkI0C8df"
       },
@@ -2542,6 +2650,24 @@
       "duration_ms": 199613,
       "name": "Save It For Myself",
       "url": "https://open.spotify.com/track/5AWQZVceAinzjsCQH50WlX"
+    },
+    {
+      "album": {
+        "name": "Sedative",
+        "url": "https://open.spotify.com/album/7gm4FpWTFqed2uuOWbzmpr"
+      },
+      "artists": [
+        {
+          "name": "Viji",
+          "url": "https://open.spotify.com/artist/5T8jStToPqlBhbVU5WNHvi"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222240,
+      "name": "Sedative",
+      "url": "https://open.spotify.com/track/1fXoXg5bHiM7wb62CiIpTX"
     },
     {
       "album": {
@@ -2905,6 +3031,24 @@
     },
     {
       "album": {
+        "name": "Tell Me I'm Wrong",
+        "url": "https://open.spotify.com/album/12SxXpf86LVJYuNqQhkSPx"
+      },
+      "artists": [
+        {
+          "name": "Beach Riot",
+          "url": "https://open.spotify.com/artist/55bBJNuY224tmQf4odUqXV"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202197,
+      "name": "Tell Me I'm Wrong",
+      "url": "https://open.spotify.com/track/18JEq5IGhMshPnIeX2HJyY"
+    },
+    {
+      "album": {
         "name": "Tell Me Where It Hurts",
         "url": "https://open.spotify.com/album/0pGYM4iRSukPoGsCZ4w0mr"
       },
@@ -3024,7 +3168,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 195630,
       "name": "Think Straight",
       "url": "https://open.spotify.com/track/79mgVQAJLh22SZvEe6dfZZ"
@@ -3334,7 +3478,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 203605,
       "name": "Wish I Was You",
       "url": "https://open.spotify.com/track/1hZ78pAQTniUNnxIes68Jd"
@@ -3392,6 +3536,24 @@
       "duration_ms": 159111,
       "name": "Worthy",
       "url": "https://open.spotify.com/track/2WtIhJpUy1p0t1dg6Tq8bZ"
+    },
+    {
+      "album": {
+        "name": "You Don't Exist",
+        "url": "https://open.spotify.com/album/00Je4CHXNglMBntZyzIUgD"
+      },
+      "artists": [
+        {
+          "name": "Less Than Hollow",
+          "url": "https://open.spotify.com/artist/6YKUQqeyWshUssuIyayCpD"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207968,
+      "name": "You Don't Exist",
+      "url": "https://open.spotify.com/track/5abW9yOsPu6zM5KSRseT9p"
     },
     {
       "album": {

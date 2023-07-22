@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: DIESEL
 
-379 songs - 21 hr 42 min
+380 songs - 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,11 +115,12 @@
 | [Dubstep Starter Pack Vol\. 1 \[Sample Pack Demo\]](https://open.spotify.com/track/4EqeZDO7zV9O2I52NqzSkN) | [Disciple](https://open.spotify.com/artist/7a3OvvhvAvZ1FZE928i3Lk) | [Dubstep Starter Pack Vol\. 1 \[Sample Pack Demo\]](https://open.spotify.com/album/5ecmyO9qktV5vXdjZSOZdV) | 2:46 | 2023-05-12 | 2023-05-17 |
 | [DUMP TRUCC](https://open.spotify.com/track/33rKsURXyPeltTOrErKYA3) | [ZEKE BEATS](https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl), [Wreckno](https://open.spotify.com/artist/6j78LtFLqDG65Ju57NUM5N) | [DUMP TRUCC](https://open.spotify.com/album/2Fwu1JBMmy1PzUUORgvhyZ) | 2:30 | 2022-03-11 | 2022-11-17 |
 | [Eat Me \(Feel the Burn\)](https://open.spotify.com/track/5kpgmKaOgnMKKIlQzTlEcU) | [Varien](https://open.spotify.com/artist/2g1JSu9UfRcQQYb3b03Km7) | [In the Realm of Hungry Ghosts](https://open.spotify.com/album/0FMV2qVrjMoGFMFKSYmU9v) | 3:12 | 2023-06-09 | 2023-07-17 |
+| [EAT SLEEP RAGE](https://open.spotify.com/track/2s7F8qjzm1XcMKG7O4GzCY) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [EAT SLEEP RAGE](https://open.spotify.com/album/3ACwIVqUsWkj9An9umbKmF) | 3:36 | 2023-07-21 |  |
 | [Eclipse](https://open.spotify.com/track/2kY3zw2cGQOG3IL6gMW20R) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Eclipse](https://open.spotify.com/album/3XjD5Vaq09m61AYKjQth7K) | 4:13 | 2023-04-21 |  |
 | [ELIMINATE](https://open.spotify.com/track/6RJmlflJpfMENnS4R7DR7N) | [LICK](https://open.spotify.com/artist/62R6OE0R9RB43aSCyzVOxs) | [ELIMINATE](https://open.spotify.com/album/4HFka5kVY811vfUJGlVmTo) | 2:12 | 2021-12-17 | 2022-07-25 |
 | [Elite](https://open.spotify.com/track/3At9iZJpHFkIsVFO4IKe4u) | [Abelation](https://open.spotify.com/artist/3ezpQc6XHKaha2SmkFsEfR), [Saka](https://open.spotify.com/artist/78JjBYPpCRwGwaZff4qQrv) | [Elite](https://open.spotify.com/album/3O6ivFNYkhrVLtEY82PRFM) | 3:53 | 2023-01-06 |  |
 | [Encrypted](https://open.spotify.com/track/0AP5MX9obbI3ExcNqK13t8) | [Sully](https://open.spotify.com/artist/1bFUHThVEOIixkg7pKJ6VK) | [Encrypted](https://open.spotify.com/album/5kRnZ2iYR9hMmDrhrXpx4j) | 3:58 | 2022-07-01 | 2022-09-02 |
-| [Enigma](https://open.spotify.com/track/5tFlcAfwqHlfsDX88ZWMqT) | [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl) | [Enigma](https://open.spotify.com/album/5vVA18tA4NCfvCBDJd6YF5) | 3:01 | 2022-11-11 |  |
+| [Enigma](https://open.spotify.com/track/5tFlcAfwqHlfsDX88ZWMqT) | [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl) | [Enigma](https://open.spotify.com/album/5vVA18tA4NCfvCBDJd6YF5) | 3:01 | 2022-11-11 | 2023-07-22 |
 | [Escape \(feat\. Hayla\) \- Subtronics Remix](https://open.spotify.com/track/6Ep94gYKvkI4OqCOGV66Wx) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Escape \(feat\. Hayla\) \[Subtronics Remix\]](https://open.spotify.com/album/7ep1MESRYdgAghNhHDiLhc) | 3:45 | 2022-06-24 | 2022-11-17 |
 | [Escape \- Subtronics Remix](https://open.spotify.com/track/11IQ89bxoC3bklnfP5TZiM) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO) | [Escape \(Subtronics Remix\)](https://open.spotify.com/album/2aE5C3fUfSANxWHw2NXD2c) | 3:45 | 2022-11-11 |  |
 | [Event Horizon](https://open.spotify.com/track/0l2DanUokW2ZR69z2nGILg) | [Hi I'm Ghost](https://open.spotify.com/artist/7IyxUmBgkkV4jh7kHoip34), [INVCT](https://open.spotify.com/artist/5cu8lLNHcyHp1w6U1s5JZK) | [Event Horizon](https://open.spotify.com/album/1NyJ0JVameoQbDzzaR6liX) | 2:52 | 2023-04-28 |  |

@@ -4,7 +4,7 @@
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Nissy
 
-3,838 songs - 9 day 17 hr 49 min
+3,839 songs - 9 day 17 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1629,7 +1629,8 @@
 | [Rondo \(feat\. sakana\)](https://open.spotify.com/track/5Dxtjh3Q7W8FZlmlMtL8i8) | [eijun](https://open.spotify.com/artist/3fZEXtz36reclpIaZpu1Bx), [sakana](https://open.spotify.com/artist/7ynWqUtYVEl1GOhC4LmsT9) | [Rondo \(feat\. sakana\)](https://open.spotify.com/album/1QWm3TG8CIxBzds9BkxSSY) | 3:26 | 2022-07-25 | 2022-08-02 |
 | [Rondo \(feat\. さかな\)](https://open.spotify.com/track/68i1L2rYQ0IajGQHthv0Xf) | [eijun](https://open.spotify.com/artist/3fZEXtz36reclpIaZpu1Bx), [さかな](https://open.spotify.com/artist/2qZxj23rfIjWxd4PCqlW3q) | [Rondo \(feat\. さかな\)](https://open.spotify.com/album/7lzvJuMCVHLkmVm8zT3Lhj) | 3:26 | 2022-07-18 | 2022-07-29 |
 | [Rondo REMIX \(feat\. sakana\)](https://open.spotify.com/track/3IjGtOpswNWkfVzJGLssPQ) | [eijun](https://open.spotify.com/artist/3fZEXtz36reclpIaZpu1Bx), [sakana](https://open.spotify.com/artist/7ynWqUtYVEl1GOhC4LmsT9) | [Rondo REMIX \(feat\. sakana\)](https://open.spotify.com/album/5Nrv6dCdRkMt00Qc4lY0SV) | 3:24 | 2022-08-01 | 2022-08-09 |
-| [room](https://open.spotify.com/track/4YSVAmT5iefWe7ijK2whVJ) | [MONONOKE](https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x) | [room](https://open.spotify.com/album/5hzQTrpg7auHz2yZDCH84v) | 3:45 | 2023-07-17 |  |
+| [room](https://open.spotify.com/track/3kievy1iOkwTxa36cLSzPY) | [MONONOKE](https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x) | [Supply/Demand](https://open.spotify.com/album/66GKqO8pdJu5J32LyIqZ2v) | 3:45 | 2023-07-17 |  |
+| [room](https://open.spotify.com/track/4YSVAmT5iefWe7ijK2whVJ) | [MONONOKE](https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x) | [room](https://open.spotify.com/album/5hzQTrpg7auHz2yZDCH84v) | 3:45 | 2023-07-17 | 2023-07-22 |
 | [Room Tour](https://open.spotify.com/track/3VLLya1BlR43iLpsGflhWK) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs), [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [Room Tour](https://open.spotify.com/album/11jEvl4NC5zw14RbeuGrj9) | 4:25 | 2022-03-28 | 2022-04-12 |
 | [rose \- feat\. Vaundy](https://open.spotify.com/track/1GHRempxln5XiNEYYvPz7f) | [Chilli Beans.](https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7), [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [rose \(feat\. Vaundy\)](https://open.spotify.com/album/4dF1UtRhD4zW3w0h6MXerB) | 3:07 | 2023-02-06 | 2023-02-21 |
 | [Rough & Laugh](https://open.spotify.com/track/6IlncOaNCW8lJhK9AtldRV) | [clammbon](https://open.spotify.com/artist/1gpNGL4WHSegm0WXj2j1m0) | [Rough & Laugh](https://open.spotify.com/album/6PlQrXbwq61CmYpuJMVkva) | 4:36 | 2023-01-24 | 2023-02-01 |

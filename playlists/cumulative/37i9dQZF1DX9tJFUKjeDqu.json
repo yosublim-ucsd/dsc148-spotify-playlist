@@ -446,7 +446,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 324493,
       "name": "Blues for Magic Sam",
       "url": "https://open.spotify.com/track/5NL35eMxSFu4gUrztjuww6"
@@ -848,6 +848,24 @@
       "duration_ms": 138393,
       "name": "Five Pop Tunes II: Bluesy",
       "url": "https://open.spotify.com/track/3pPOTu0HzLBnfNBvGDK86v"
+    },
+    {
+      "album": {
+        "name": "Tales of the Delta",
+        "url": "https://open.spotify.com/album/19i2DMKG833LoDi7nYWNm3"
+      },
+      "artists": [
+        {
+          "name": "Will Harrison",
+          "url": "https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177354,
+      "name": "Five Star Day",
+      "url": "https://open.spotify.com/track/4aKLpPhtOiNV0mhSQmhBvr"
     },
     {
       "album": {

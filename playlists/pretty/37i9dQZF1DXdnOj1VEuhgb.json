@@ -1,12 +1,12 @@
 {
   "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Patron",
-  "num_followers": 1262138,
+  "num_followers": 1262729,
   "original_name": "NKVT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzE0NjlkNTI5MzAzNmY5YWY5NzU0NjU2ODY1Y2IwOGRjZDRiMmVj",
+  "snapshot_id": "MCxiMjgyNDgwNTQwYWQyZmE2OTQ5NjYzZDUxZjk0ZmQ0MDE0NGQ5NmY3",
   "tracks": [
     {
       "added_at": "2023-07-20 21:00:00",
@@ -95,22 +95,6 @@
     {
       "added_at": "2023-07-20 21:00:00",
       "album": {
-        "name": "Asosyal",
-        "url": "https://open.spotify.com/album/1LM0lpge7aGKOfWJdk3rMK"
-      },
-      "artists": [
-        {
-          "name": "Batuflex",
-          "url": "https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2"
-        }
-      ],
-      "duration_ms": 130951,
-      "name": "Asosyal",
-      "url": "https://open.spotify.com/track/1dmIBVNNDdGDmpXLh1nQBi"
-    },
-    {
-      "added_at": "2023-07-20 21:00:00",
-      "album": {
         "name": "BABA",
         "url": "https://open.spotify.com/album/0K41qRqQ4RRq29ZjoPmXZQ"
       },
@@ -127,26 +111,6 @@
     {
       "added_at": "2023-07-20 21:00:00",
       "album": {
-        "name": "BAKSANA B\u0130LADER (Saz Mi Caz Mi)",
-        "url": "https://open.spotify.com/album/5xS8dSZF7pVnJ7LfTsA4og"
-      },
-      "artists": [
-        {
-          "name": "Reckol",
-          "url": "https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS"
-        },
-        {
-          "name": "Kuty",
-          "url": "https://open.spotify.com/artist/1spo5AJ302sAMnRXUPlSy1"
-        }
-      ],
-      "duration_ms": 176999,
-      "name": "BAKSANA B\u0130LADER - Saz Mi Caz Mi",
-      "url": "https://open.spotify.com/track/2BepN9ElbmjHlE2loXT72r"
-    },
-    {
-      "added_at": "2023-07-20 21:00:00",
-      "album": {
         "name": "ARABA",
         "url": "https://open.spotify.com/album/5fcQowx2O7wTG0QiOdWZe6"
       },
@@ -159,6 +123,38 @@
       "duration_ms": 91413,
       "name": "ARABA",
       "url": "https://open.spotify.com/track/47l3syDKFT3PPonobpm1NA"
+    },
+    {
+      "added_at": "2023-07-20 21:00:00",
+      "album": {
+        "name": "DEFOL",
+        "url": "https://open.spotify.com/album/0qclcDdgeV7AM80qcBnWtm"
+      },
+      "artists": [
+        {
+          "name": "Lil Zey",
+          "url": "https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7"
+        }
+      ],
+      "duration_ms": 173987,
+      "name": "DEFOL",
+      "url": "https://open.spotify.com/track/6bZXS4iBLq09KhK6Mr569I"
+    },
+    {
+      "added_at": "2023-07-20 21:00:00",
+      "album": {
+        "name": "Asosyal",
+        "url": "https://open.spotify.com/album/1LM0lpge7aGKOfWJdk3rMK"
+      },
+      "artists": [
+        {
+          "name": "Batuflex",
+          "url": "https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2"
+        }
+      ],
+      "duration_ms": 130951,
+      "name": "Asosyal",
+      "url": "https://open.spotify.com/track/1dmIBVNNDdGDmpXLh1nQBi"
     },
     {
       "added_at": "2023-07-20 21:00:00",
@@ -183,18 +179,22 @@
     {
       "added_at": "2023-07-20 21:00:00",
       "album": {
-        "name": "DEFOL",
-        "url": "https://open.spotify.com/album/0qclcDdgeV7AM80qcBnWtm"
+        "name": "BAKSANA B\u0130LADER (Saz Mi Caz Mi)",
+        "url": "https://open.spotify.com/album/5xS8dSZF7pVnJ7LfTsA4og"
       },
       "artists": [
         {
-          "name": "Lil Zey",
-          "url": "https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7"
+          "name": "Reckol",
+          "url": "https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS"
+        },
+        {
+          "name": "Kuty",
+          "url": "https://open.spotify.com/artist/1spo5AJ302sAMnRXUPlSy1"
         }
       ],
-      "duration_ms": 173987,
-      "name": "DEFOL",
-      "url": "https://open.spotify.com/track/6bZXS4iBLq09KhK6Mr569I"
+      "duration_ms": 176999,
+      "name": "BAKSANA B\u0130LADER - Saz Mi Caz Mi",
+      "url": "https://open.spotify.com/track/2BepN9ElbmjHlE2loXT72r"
     },
     {
       "added_at": "2023-07-20 21:00:00",

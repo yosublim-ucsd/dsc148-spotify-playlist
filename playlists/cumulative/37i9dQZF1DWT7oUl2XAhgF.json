@@ -1064,7 +1064,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 186013,
       "name": "Don't Knock Upon My Door",
       "url": "https://open.spotify.com/track/4XAREsibFhpJJ4VwBcyoGd"
@@ -2960,7 +2960,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 184945,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/3iQFJHSLteF9a9UO3scUfh"
@@ -5159,6 +5159,24 @@
     },
     {
       "album": {
+        "name": "Take My Troubles Away (Radio Edit)",
+        "url": "https://open.spotify.com/album/1fAhIRHWIcruE6dXAbE4Wb"
+      },
+      "artists": [
+        {
+          "name": "The Vintage Explosion",
+          "url": "https://open.spotify.com/artist/3a48yEJThFMOCvgcCwOyyD"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210737,
+      "name": "Take My Troubles Away - Radio Edit",
+      "url": "https://open.spotify.com/track/6UcREbLs70qdzEMOVaCPub"
+    },
+    {
+      "album": {
         "name": "Takin' All My Lovin'",
         "url": "https://open.spotify.com/album/2uwY4YqgyxMimWaTo1KUsC"
       },
@@ -5552,6 +5570,28 @@
       "duration_ms": 174586,
       "name": "Trade of Hearts",
       "url": "https://open.spotify.com/track/6p2uzqM9QqCVxXhs2A9rBN"
+    },
+    {
+      "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/28sgphniUIB4msFwWLZfgb"
+      },
+      "artists": [
+        {
+          "name": "Emilia Sisco",
+          "url": "https://open.spotify.com/artist/4RE2veIqf9YBlKqVTDKpV4"
+        },
+        {
+          "name": "Cold Diamond & Mink",
+          "url": "https://open.spotify.com/artist/47eOrmm0M2qY5atzSNNt2b"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219945,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/6IZ0AmqxPlnhRjIqoZtrCh"
     },
     {
       "album": {

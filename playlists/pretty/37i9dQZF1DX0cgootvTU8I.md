@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 
 > Jungle is still massive!
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,183 likes - 50 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,219 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,20 +22,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 | 12 | [Consume Me](https://open.spotify.com/track/66BFj1k8VthfvDWY1e0PUp) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [BEAUTIFUL PRESENTS: BEAUTIFUL VOL 1](https://open.spotify.com/album/7vxquNykZOqoSU3MR7UJ0G) | 3:17 |
 | 13 | [Bridging Mechanics](https://open.spotify.com/track/1HNBnJhWryX0mbQBDwOdka) | [Pépe](https://open.spotify.com/artist/07AMonlLsjj4dHFU2pRjdZ) | [gayphextwin/Pépe](https://open.spotify.com/album/5nF9wHwhNxfXtyYHtV4ueg) | 5:58 |
 | 14 | [Surfing The Anxiety Waves](https://open.spotify.com/track/7l7E524hBn07XjpRzsMWT1) | [BOP](https://open.spotify.com/artist/02ZCVD3nqfqNId8lvpvCBb) | [Surfing The Anxiety Waves](https://open.spotify.com/album/6OLU1sIlbexb3zoViljR8y) | 4:03 |
-| 15 | [Who Started Jungle](https://open.spotify.com/track/6n15iBMrAgeAhiCSF0iFUs) | [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [To the Core](https://open.spotify.com/album/5jg7MkaU3gRhwufJRjxgeP) | 4:00 |
-| 16 | [The Original Certified Bubbler](https://open.spotify.com/track/1n3wnYtGsP9geUSywMFsgZ) | [Breakage](https://open.spotify.com/artist/68Wb5Pcy71lLaKdIB6cBA5) | [The Original Certified Bubbler](https://open.spotify.com/album/0xQmzZ346eae8j9bR1OxIg) | 3:06 |
+| 15 | [The Original Certified Bubbler](https://open.spotify.com/track/1n3wnYtGsP9geUSywMFsgZ) | [Breakage](https://open.spotify.com/artist/68Wb5Pcy71lLaKdIB6cBA5) | [The Original Certified Bubbler](https://open.spotify.com/album/0xQmzZ346eae8j9bR1OxIg) | 3:06 |
+| 16 | [Who Started Jungle](https://open.spotify.com/track/6n15iBMrAgeAhiCSF0iFUs) | [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [To the Core](https://open.spotify.com/album/5jg7MkaU3gRhwufJRjxgeP) | 4:00 |
 | 17 | [Gold Soul](https://open.spotify.com/track/0x7iceybhRRDkMHuY9vFzt) | [Nectax](https://open.spotify.com/artist/1UV1OG68pz1eNhIS2J0UOf) | [Gold Soul](https://open.spotify.com/album/1u9VM2GL8xRWRIZbQCM6Qz) | 4:51 |
 | 18 | [What You Wanna Do](https://open.spotify.com/track/6OhicWRzXoGeTrGk0S0KxE) | [Submerse](https://open.spotify.com/artist/6iNVICWoG8BfqoyejEQdpF) | [What You Wanna Do / Good Lookin Out](https://open.spotify.com/album/3HrGqKUzRW8TzjH6UUUp9K) | 3:27 |
 | 19 | [Drivin' Me Crazy](https://open.spotify.com/track/1fPUG09vA8KRKwdcj4rHI5) | [Particle](https://open.spotify.com/artist/7rLJelomw75vyEpt1HwwP0) | [Drivin' Me Crazy](https://open.spotify.com/album/6MpGVt0srq4BwYBvIj4Elu) | 3:38 |
-| 20 | [Drips](https://open.spotify.com/track/3KdHrB4WQsUYJ4yytUPyBo) | [Philip D Kick](https://open.spotify.com/artist/6fioiOJRfc72Mr74xgToJt), [Om Unit](https://open.spotify.com/artist/3rblB9Pm51uKd9uYPVPB7B) | [Drips](https://open.spotify.com/album/2SaX3Uv70CZpL4qSOU6mxw) | 3:39 |
-| 21 | [Seen](https://open.spotify.com/track/4YYCOTGjYUTbbegTEzcYaP) | [Settle Down](https://open.spotify.com/artist/37qo0ES6034TySyNPFhmIC) | [The Trip EP](https://open.spotify.com/album/7DpB6Bu2fw1gvZxPz9pYdC) | 4:34 |
-| 22 | [Full Train](https://open.spotify.com/track/7BVxNjnktVszs3w0biRMpf) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Full Train / Light on the Hill](https://open.spotify.com/album/4Eoa8rpZRpYmHTjfQR20X4) | 5:53 |
-| 23 | [JUNGLE TEKNAH](https://open.spotify.com/track/5eStmyvgU3yFAiHn35oPE8) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [JUNGLE TEKNAH](https://open.spotify.com/album/7frIZAGJytWq2BV7qAcwYU) | 4:01 |
-| 24 | [Untitled Dubplate](https://open.spotify.com/track/4yvT9PAz7bBpNnC1OPIKss) | [Breakage](https://open.spotify.com/artist/68Wb5Pcy71lLaKdIB6cBA5) | [At the Controls, Vol\. 2](https://open.spotify.com/album/5lGywtvzhpd7t3iN0kRPok) | 3:52 |
+| 20 | [Untitled Dubplate](https://open.spotify.com/track/4yvT9PAz7bBpNnC1OPIKss) | [Breakage](https://open.spotify.com/artist/68Wb5Pcy71lLaKdIB6cBA5) | [At the Controls, Vol\. 2](https://open.spotify.com/album/5lGywtvzhpd7t3iN0kRPok) | 3:52 |
+| 21 | [Drips](https://open.spotify.com/track/3KdHrB4WQsUYJ4yytUPyBo) | [Philip D Kick](https://open.spotify.com/artist/6fioiOJRfc72Mr74xgToJt), [Om Unit](https://open.spotify.com/artist/3rblB9Pm51uKd9uYPVPB7B) | [Drips](https://open.spotify.com/album/2SaX3Uv70CZpL4qSOU6mxw) | 3:39 |
+| 22 | [Seen](https://open.spotify.com/track/4YYCOTGjYUTbbegTEzcYaP) | [Settle Down](https://open.spotify.com/artist/37qo0ES6034TySyNPFhmIC) | [The Trip EP](https://open.spotify.com/album/7DpB6Bu2fw1gvZxPz9pYdC) | 4:34 |
+| 23 | [Full Train](https://open.spotify.com/track/7BVxNjnktVszs3w0biRMpf) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Full Train / Light on the Hill](https://open.spotify.com/album/4Eoa8rpZRpYmHTjfQR20X4) | 5:53 |
+| 24 | [JUNGLE TEKNAH](https://open.spotify.com/track/5eStmyvgU3yFAiHn35oPE8) | [SHERELLE](https://open.spotify.com/artist/2TFDQkQ7LahhuwL9p7R6MO) | [JUNGLE TEKNAH](https://open.spotify.com/album/7frIZAGJytWq2BV7qAcwYU) | 4:01 |
 | 25 | [Daktari](https://open.spotify.com/track/5owmZx9QF53AiqqldvPILj) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [Daktari EP](https://open.spotify.com/album/3UyLzpscjnDPCSEBrR7L07) | 5:37 |
 | 26 | [Good Time](https://open.spotify.com/track/2LVz0jvvdCSwSEYIvcIXqA) | [4am Kru](https://open.spotify.com/artist/7nrVhzPUJsigF7rt9BL9jQ) | [Good Time](https://open.spotify.com/album/1C9ovUwakv3dr4dMgBJcWg) | 4:37 |
-| 27 | [Off the Lorry](https://open.spotify.com/track/0P4iPgEIEDX75wUOXd9qtE) | [Bailey Ibbs](https://open.spotify.com/artist/4eD3dYFqa3RmNZlAlVHFjO) | [Helter Skelter](https://open.spotify.com/album/7yObjiXbEUKeOSL8N2XqOr) | 4:48 |
-| 28 | [Biscotti](https://open.spotify.com/track/3PyDt0e29NtPjA7H5Ry532) | [Fracture](https://open.spotify.com/artist/5imJlmURJJk9wicePHiqvo) | [Velocity EP](https://open.spotify.com/album/5eN1lpjJfhwdOXhGB0JGEe) | 4:15 |
+| 27 | [Biscotti](https://open.spotify.com/track/3PyDt0e29NtPjA7H5Ry532) | [Fracture](https://open.spotify.com/artist/5imJlmURJJk9wicePHiqvo) | [Velocity EP](https://open.spotify.com/album/5eN1lpjJfhwdOXhGB0JGEe) | 4:15 |
+| 28 | [Off the Lorry](https://open.spotify.com/track/0P4iPgEIEDX75wUOXd9qtE) | [Bailey Ibbs](https://open.spotify.com/artist/4eD3dYFqa3RmNZlAlVHFjO) | [Helter Skelter](https://open.spotify.com/album/7yObjiXbEUKeOSL8N2XqOr) | 4:48 |
 | 29 | [Ringa Ringa \(The Old Pandemic Folk Song\) \[feat\. Mediaeval Baebes\] \- Breakage Remix](https://open.spotify.com/track/0FVVU7Ok63VQCOrVOefhQW) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV), [Mediæval Bæbes](https://open.spotify.com/artist/1vQmLYgD92RwmsfHqTwjmQ), [Breakage](https://open.spotify.com/artist/68Wb5Pcy71lLaKdIB6cBA5) | [Ringa Ringa \(The Old Pandemic Folk Song\) \[Breakage Remix\]](https://open.spotify.com/album/1DQbuba1bTaOfSqryD1Q0M) | 3:04 |
 | 30 | [Kissed It Up \- Original](https://open.spotify.com/track/5EgPKy3Q9kFyiDpAGUOmdr) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [Kissed It Up](https://open.spotify.com/album/22KE4qbTKXK95RQYCDm0T9) | 6:06 |
 | 31 | [Poison Dart](https://open.spotify.com/track/0obrmAmV2GVxzIqcSVsvlD) | [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [Poison Dart](https://open.spotify.com/album/4IVVcdv4PghrHBrroHctI1) | 4:29 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 | 47 | [Cloud Busting](https://open.spotify.com/track/626yGgf3EhAd2FEYyZljIi) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [Cloud Busting / Octopus](https://open.spotify.com/album/5vILT1JDVDMq9SaxaPfRz3) | 6:50 |
 | 48 | [DANGER!](https://open.spotify.com/track/7FW0vBBn9JB364K2aUOWCp) | [Good Luck](https://open.spotify.com/artist/4qjYf4FY77csjIalUFicQS) | [DANGER!](https://open.spotify.com/album/0A2QLAw1OqmIUleF57n52T) | 2:56 |
 | 49 | [Memories](https://open.spotify.com/track/4ODFIOLukNMkAP2SQTnuBj) | [Lugovskiy](https://open.spotify.com/artist/6wozPdzuBdOnDCoesMPIkT) | [Memories](https://open.spotify.com/album/3BwiqqO6tBI5j4LoqiHJy6) | 3:15 |
-| 50 | [Yes, Ok?](https://open.spotify.com/track/6TfEn8jq0laP1hN0pw1Clf) | [Beep Tzt](https://open.spotify.com/artist/0OPS6KMivVzxP2moJjMvSS) | [Beep Tzt](https://open.spotify.com/album/3RSLqqDvm5YYXjytf1sMle) | 7:56 |
+| 50 | [Stretchpants](https://open.spotify.com/track/2EAYnPgqUx33xH4d1pOnJL) | [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd), [Dwarde](https://open.spotify.com/artist/6Yj4KzTFxItt3bGK9DuX4O) | [Stretchpants](https://open.spotify.com/album/64m3AzlGBOriNpCM8jTLd9) | 6:04 |
 
-Snapshot ID: `MCxhYzRlOGY3Mjc4NjUyZDk3ZDI4MTQ2YzMzOGFhYzgyYzk2NzMwNDhi`
+Snapshot ID: `MCwzZDZiZWQ0YThiOGEwYmRlOGNhMGI0M2RkZTY2MDc2ZDJlNjJhMWZi`

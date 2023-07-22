@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 28192,
+  "num_followers": 28219,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NTI5NTcxNDJhNjllNWNiYzQ5NTMzMTZhN2I4OGNjODBhZTZiZjMz",
+  "snapshot_id": "MCw4ZTAzZDRiODc4NDhhNDg3MTNjYzI5YzI5YTMzZWMwOThmOThkM2Q5",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -291,6 +291,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Reach",
+        "url": "https://open.spotify.com/album/0gnMjM3pPBp320Hxd3Jdvv"
+      },
+      "artists": [
+        {
+          "name": "Lil' Mo' Yin Yang",
+          "url": "https://open.spotify.com/artist/631eaalga2JEGnouXxVkYT"
+        }
+      ],
+      "duration_ms": 472043,
+      "name": "Reach - Little \"More\" Mix",
+      "url": "https://open.spotify.com/track/0Vz1JPyRqJu4JFpJB6Ygm4"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Strictly George Morel",
         "url": "https://open.spotify.com/album/3lG38OKSc0AHVmbY3V685C"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 460939,
       "name": "(Who?) Keeps Changing Your Mind? - The Night Mix",
       "url": "https://open.spotify.com/track/5XrnMnFLf7sQ6R9nRXIAGS"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Reach",
-        "url": "https://open.spotify.com/album/0gnMjM3pPBp320Hxd3Jdvv"
-      },
-      "artists": [
-        {
-          "name": "Lil' Mo' Yin Yang",
-          "url": "https://open.spotify.com/artist/631eaalga2JEGnouXxVkYT"
-        }
-      ],
-      "duration_ms": 472043,
-      "name": "Reach - Little \"More\" Mix",
-      "url": "https://open.spotify.com/track/0Vz1JPyRqJu4JFpJB6Ygm4"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -763,6 +763,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Love Trax",
+        "url": "https://open.spotify.com/album/1VyhBbnfZeiB5d5YGcxVU9"
+      },
+      "artists": [
+        {
+          "name": "DJ Pierre",
+          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
+        }
+      ],
+      "duration_ms": 406131,
+      "name": "Love Trax - Love Izz",
+      "url": "https://open.spotify.com/track/6Aiahrv9IoKgTb7OqOaqp5"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "The Swing Doctor",
         "url": "https://open.spotify.com/album/114F2eqOw7x3kYZUgcvktB"
       },
@@ -795,22 +811,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Stay Together",
-        "url": "https://open.spotify.com/album/6wuP78U4t60sCYOvA4kqUt"
-      },
-      "artists": [
-        {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
-        }
-      ],
-      "duration_ms": 777626,
-      "name": "Stay Together - Armand's ''Crazy'' Trauma Mix",
-      "url": "https://open.spotify.com/track/20WvAQIQW714BqsdLScIIs"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Strictly Rhythm Est. 1989: 20 Years of Classics",
         "url": "https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn"
       },
@@ -827,18 +827,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Love Trax",
-        "url": "https://open.spotify.com/album/1VyhBbnfZeiB5d5YGcxVU9"
+        "name": "Stay Together",
+        "url": "https://open.spotify.com/album/6wuP78U4t60sCYOvA4kqUt"
       },
       "artists": [
         {
-          "name": "DJ Pierre",
-          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
         }
       ],
-      "duration_ms": 406131,
-      "name": "Love Trax - Love Izz",
-      "url": "https://open.spotify.com/track/6Aiahrv9IoKgTb7OqOaqp5"
+      "duration_ms": 777626,
+      "name": "Stay Together - Armand's ''Crazy'' Trauma Mix",
+      "url": "https://open.spotify.com/track/20WvAQIQW714BqsdLScIIs"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -891,22 +891,34 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Generate Power (Mixes)",
-        "url": "https://open.spotify.com/album/4X5H5cObFjebRrA0sSjFnl"
+        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition; Unmixed]",
+        "url": "https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I"
       },
       "artists": [
         {
-          "name": "Photon Inc.",
-          "url": "https://open.spotify.com/artist/7zDNKiiS6xgYtgDUUgfRCP"
-        },
-        {
-          "name": "Paula Brion",
-          "url": "https://open.spotify.com/artist/60TD8QdUfVWZMl8gMjcTd4"
+          "name": "Club Ultimate",
+          "url": "https://open.spotify.com/artist/6SU9ME8HxPeC8BWYGUPNiK"
         }
       ],
-      "duration_ms": 220080,
-      "name": "Generate Power (feat. Paula Brion) - Radio Mix",
-      "url": "https://open.spotify.com/track/0F3Ywkp1Xav1h6jY7JZGam"
+      "duration_ms": 364347,
+      "name": "Carnival '95 - Pride Vocal Mix",
+      "url": "https://open.spotify.com/track/66ktG3wneUTNWw8Byg1p88"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Choices",
+        "url": "https://open.spotify.com/album/2c68ZizXWS5lDng75WLwIE"
+      },
+      "artists": [
+        {
+          "name": "Full Swing",
+          "url": "https://open.spotify.com/artist/61u5dnJOUnu9mddENoTJeQ"
+        }
+      ],
+      "duration_ms": 472984,
+      "name": "Choices - Choices Vocal Mix",
+      "url": "https://open.spotify.com/track/0snpiWB9x2GdHbaTzmutHa"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -932,22 +944,6 @@
       },
       "artists": [
         {
-          "name": "Club Ultimate",
-          "url": "https://open.spotify.com/artist/6SU9ME8HxPeC8BWYGUPNiK"
-        }
-      ],
-      "duration_ms": 364347,
-      "name": "Carnival '95 - Pride Vocal Mix",
-      "url": "https://open.spotify.com/track/66ktG3wneUTNWw8Byg1p88"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition; Unmixed]",
-        "url": "https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I"
-      },
-      "artists": [
-        {
           "name": "Rageous",
           "url": "https://open.spotify.com/artist/7FcHRtcIFMG9cm4XRbimJe"
         },
@@ -963,18 +959,38 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Choices",
-        "url": "https://open.spotify.com/album/2c68ZizXWS5lDng75WLwIE"
+        "name": "Curious",
+        "url": "https://open.spotify.com/album/7sWxOX3TNHbSJzLJ6Ttq5A"
       },
       "artists": [
         {
-          "name": "Full Swing",
-          "url": "https://open.spotify.com/artist/61u5dnJOUnu9mddENoTJeQ"
+          "name": "Sun, Sun, Sun",
+          "url": "https://open.spotify.com/artist/2Yziwi8plWF5jFU8u477tj"
         }
       ],
-      "duration_ms": 472984,
-      "name": "Choices - Choices Vocal Mix",
-      "url": "https://open.spotify.com/track/0snpiWB9x2GdHbaTzmutHa"
+      "duration_ms": 440320,
+      "name": "Curious - Vocal Mix",
+      "url": "https://open.spotify.com/track/5xybwC1yKukJ5aJAHHogNm"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Generate Power (Mixes)",
+        "url": "https://open.spotify.com/album/4X5H5cObFjebRrA0sSjFnl"
+      },
+      "artists": [
+        {
+          "name": "Photon Inc.",
+          "url": "https://open.spotify.com/artist/7zDNKiiS6xgYtgDUUgfRCP"
+        },
+        {
+          "name": "Paula Brion",
+          "url": "https://open.spotify.com/artist/60TD8QdUfVWZMl8gMjcTd4"
+        }
+      ],
+      "duration_ms": 220080,
+      "name": "Generate Power (feat. Paula Brion) - Radio Mix",
+      "url": "https://open.spotify.com/track/0F3Ywkp1Xav1h6jY7JZGam"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -999,22 +1015,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Curious",
-        "url": "https://open.spotify.com/album/7sWxOX3TNHbSJzLJ6Ttq5A"
-      },
-      "artists": [
-        {
-          "name": "Sun, Sun, Sun",
-          "url": "https://open.spotify.com/artist/2Yziwi8plWF5jFU8u477tj"
-        }
-      ],
-      "duration_ms": 440320,
-      "name": "Curious - Vocal Mix",
-      "url": "https://open.spotify.com/track/5xybwC1yKukJ5aJAHHogNm"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Get Up",
         "url": "https://open.spotify.com/album/7vEb16cbQRZ9EPywWeIgLK"
       },
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Strictly Rhythms, Vol. 1",
-        "url": "https://open.spotify.com/album/2OWNRLf5fy8nKVWWOdvW7i"
-      },
-      "artists": [
-        {
-          "name": "Kenny Dope",
-          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
-        }
-      ],
-      "duration_ms": 766733,
-      "name": "Tribal Seagulls",
-      "url": "https://open.spotify.com/track/6eO9bj2SH9yfgNytUdtC9T"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
         "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 341200,
       "name": "Jump & Sing - Hard Metro Mix",
       "url": "https://open.spotify.com/track/2028K7usL1aImoGvaFhyGx"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Strictly Rhythms, Vol. 1",
+        "url": "https://open.spotify.com/album/2OWNRLf5fy8nKVWWOdvW7i"
+      },
+      "artists": [
+        {
+          "name": "Kenny Dope",
+          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
+        }
+      ],
+      "duration_ms": 766733,
+      "name": "Tribal Seagulls",
+      "url": "https://open.spotify.com/track/6eO9bj2SH9yfgNytUdtC9T"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Strictly Rhythm Est. 1989: 20 Years of Classics",
-        "url": "https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn"
-      },
-      "artists": [
-        {
-          "name": "SuSu Bobien",
-          "url": "https://open.spotify.com/artist/0VkVSvzkH6JPRTLDJjmpvn"
-        }
-      ],
-      "duration_ms": 483750,
-      "name": "You Don't Know - MuthaFunkaz Tribute Mix",
-      "url": "https://open.spotify.com/track/1wKS5SSnWnCFSX5irtyF17"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Straight from the Bario EP",
         "url": "https://open.spotify.com/album/3uhGpKKuiNpbttZVvIjNZK"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 372800,
       "name": "The Bombero Remix 96",
       "url": "https://open.spotify.com/track/2jyvMYmuyzyKnmigDc1SGA"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Strictly Rhythm Est. 1989: 20 Years of Classics",
+        "url": "https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn"
+      },
+      "artists": [
+        {
+          "name": "SuSu Bobien",
+          "url": "https://open.spotify.com/artist/0VkVSvzkH6JPRTLDJjmpvn"
+        }
+      ],
+      "duration_ms": 483750,
+      "name": "You Don't Know - MuthaFunkaz Tribute Mix",
+      "url": "https://open.spotify.com/track/1wKS5SSnWnCFSX5irtyF17"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Everybody Dance",
+        "url": "https://open.spotify.com/album/3F5UONXKw1at69QdBsLnwr"
+      },
+      "artists": [
+        {
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+        }
+      ],
+      "duration_ms": 479440,
+      "name": "Everybody Dance - M.A.S. Club Vocal",
+      "url": "https://open.spotify.com/track/71ccVLki17DA8sVO74XoSG"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
         "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 518960,
       "name": "In Da Clouds - Da Dub",
       "url": "https://open.spotify.com/track/74Rs89DEfIgsSQQfE4Vi1d"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Everybody Dance",
-        "url": "https://open.spotify.com/album/3F5UONXKw1at69QdBsLnwr"
-      },
-      "artists": [
-        {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
-        }
-      ],
-      "duration_ms": 479440,
-      "name": "Everybody Dance - M.A.S. Club Vocal",
-      "url": "https://open.spotify.com/track/71ccVLki17DA8sVO74XoSG"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1287,18 +1287,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Muzik",
-        "url": "https://open.spotify.com/album/22swBlMglQzlAP1G0GeXJJ"
+        "name": "Keep On Jumpin' (feat. Chazzie)",
+        "url": "https://open.spotify.com/album/0n0Y0D181bMgshtIJe4Qkd"
       },
       "artists": [
         {
-          "name": "DJ Pierre",
-          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
+          "name": "Beatboxx",
+          "url": "https://open.spotify.com/artist/3eCbjMCl079pmtW3KaoxLs"
+        },
+        {
+          "name": "Chazzie",
+          "url": "https://open.spotify.com/artist/2l8Sszon3yQDStEHxwXFtV"
         }
       ],
-      "duration_ms": 379760,
-      "name": "Muzik - The Siren Mix",
-      "url": "https://open.spotify.com/track/6IqCfijEdjDSKHN3ZCBEOU"
+      "duration_ms": 381076,
+      "name": "Keep On Jumpin' (feat. Chazzie) - Egotrip Mix",
+      "url": "https://open.spotify.com/track/290S0NJujegLGdyqhoNpbb"
     }
   ],
   "unique_name": "Crate Diggin' Strictly Rhythm",

@@ -1,29 +1,13 @@
 {
-  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Gianluca Vacchi",
-  "num_followers": 121401,
+  "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Deorro x Stafford Brothers",
+  "num_followers": 121398,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "NjYzNCwwZjRkM2M1OTYyMTlkZDRmYzVmM2Q0OGM4YzhiZmU1ZWM0ZGYxZWI4",
+  "snapshot_id": "NjY1MCxhNzI2NWFjNDY2OGY2ODQ5OTYzZDk2ZDAxNjVhZWFhNmE4NmMyOTcx",
   "tracks": [
-    {
-      "added_at": "2023-07-20 22:05:00",
-      "album": {
-        "name": "Back",
-        "url": "https://open.spotify.com/album/4kmTNxdqru38Ih22egIAol"
-      },
-      "artists": [
-        {
-          "name": "Lost Capital",
-          "url": "https://open.spotify.com/artist/0ig9HLfNn48EddTcRy2x0t"
-        }
-      ],
-      "duration_ms": 117187,
-      "name": "Back",
-      "url": "https://open.spotify.com/track/67SMTchC9FYbZAUmKt4vLW"
-    },
     {
       "added_at": "2023-07-20 22:05:00",
       "album": {
@@ -53,48 +37,100 @@
       "url": "https://open.spotify.com/track/54XLaoN02yA172fUlhsXKW"
     },
     {
-      "added_at": "2023-07-20 22:05:01",
+      "added_at": "2023-07-21 07:08:45",
       "album": {
-        "name": "Can We Go Back (feat. The Frontier)",
-        "url": "https://open.spotify.com/album/21xiIbXv9TtedVEwyU5f5F"
+        "name": "The One (feat. Blair)",
+        "url": "https://open.spotify.com/album/3t0Q3BmvsuxwXE45FiC1DG"
       },
       "artists": [
         {
-          "name": "Jetlag Music",
-          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
+          "name": "M-22",
+          "url": "https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw"
         },
         {
-          "name": "Double MZK",
-          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
-        },
-        {
-          "name": "Maffei",
-          "url": "https://open.spotify.com/artist/7xVbDhHFS3g0C1XbI5raYF"
-        },
-        {
-          "name": "The Frontier",
-          "url": "https://open.spotify.com/artist/0JwymukVmFtZeyMWWfzwrV"
+          "name": "Blair",
+          "url": "https://open.spotify.com/artist/1v5DH9ArPLD3vTAPA8fN8O"
         }
       ],
-      "duration_ms": 180967,
-      "name": "Can We Go Back (feat. The Frontier)",
-      "url": "https://open.spotify.com/track/1PsVhQhr4OAgM6tQuG9CsC"
+      "duration_ms": 179636,
+      "name": "The One (feat. Blair)",
+      "url": "https://open.spotify.com/track/6BRZ1sNVHeU8ShlOJS9Hyt"
     },
     {
-      "added_at": "2023-07-20 22:05:01",
+      "added_at": "2023-07-20 22:05:00",
       "album": {
-        "name": "Way Too Good",
-        "url": "https://open.spotify.com/album/3q22v4Q0OmG0ukZVXqSuGZ"
+        "name": "Mirror Mirror",
+        "url": "https://open.spotify.com/album/4H7KW5AaytIv42LdVTzWKw"
       },
       "artists": [
         {
-          "name": "Cherry Tooth",
-          "url": "https://open.spotify.com/artist/3neju4j8u80IBvGawKA3dv"
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
         }
       ],
-      "duration_ms": 201428,
-      "name": "Way Too Good",
-      "url": "https://open.spotify.com/track/0SXWJXZmF6mT6uOqQr8rPg"
+      "duration_ms": 247272,
+      "name": "Mirror Mirror",
+      "url": "https://open.spotify.com/track/0Q3Pb5gMzpFKjIWs9s0inL"
+    },
+    {
+      "added_at": "2023-07-20 22:05:00",
+      "album": {
+        "name": "Best Of Me",
+        "url": "https://open.spotify.com/album/32mggYkHVFPCtflQOxMK0v"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Philip Strand",
+          "url": "https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q"
+        }
+      ],
+      "duration_ms": 146285,
+      "name": "Best Of Me",
+      "url": "https://open.spotify.com/track/2h9d7KuU0NppMPFiEEXbBx"
+    },
+    {
+      "added_at": "2023-07-20 22:05:00",
+      "album": {
+        "name": "Taca Taca New Beat Automotivo 2023",
+        "url": "https://open.spotify.com/album/4iJ65YO4kLdY3t555SXP30"
+      },
+      "artists": [
+        {
+          "name": "WZ Beat",
+          "url": "https://open.spotify.com/artist/7hL2l7lWkA75BpTp7bPEt9"
+        }
+      ],
+      "duration_ms": 114594,
+      "name": "Taca Taca New Beat Automotivo 2023",
+      "url": "https://open.spotify.com/track/4ATIeWGG1zqq0Ogm7lU4xJ"
+    },
+    {
+      "added_at": "2023-07-20 22:05:00",
+      "album": {
+        "name": "Cantus",
+        "url": "https://open.spotify.com/album/4EpXHxtJQBHKPK17PSyaAF"
+      },
+      "artists": [
+        {
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+        }
+      ],
+      "duration_ms": 184051,
+      "name": "Cantus",
+      "url": "https://open.spotify.com/track/0Vkf87nNUU5wJPKtpTYt4n"
     },
     {
       "added_at": "2023-07-20 22:05:00",
@@ -129,24 +165,68 @@
       "url": "https://open.spotify.com/track/3w5icXq5sD6OqSXTMJH8v9"
     },
     {
-      "added_at": "2023-07-20 22:05:00",
+      "added_at": "2023-07-21 07:08:45",
       "album": {
-        "name": "Best Of Me",
-        "url": "https://open.spotify.com/album/32mggYkHVFPCtflQOxMK0v"
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/24itoj0Xfz4utQjm6SuUJd"
       },
       "artists": [
         {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+          "name": "Robbie Mendez",
+          "url": "https://open.spotify.com/artist/1CEqpjEq6n8O8zte6YvOTM"
         },
         {
-          "name": "Philip Strand",
-          "url": "https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q"
+          "name": "Lucles",
+          "url": "https://open.spotify.com/artist/1MY4qvzTbed3hyseWVdwOa"
         }
       ],
-      "duration_ms": 146285,
-      "name": "Best Of Me",
-      "url": "https://open.spotify.com/track/2h9d7KuU0NppMPFiEEXbBx"
+      "duration_ms": 200629,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/2I9yA091lIXABCInxNs58Z"
+    },
+    {
+      "added_at": "2023-07-21 07:08:45",
+      "album": {
+        "name": "Do The Talk",
+        "url": "https://open.spotify.com/album/5hj3Obheg7trFQt9UUKRHo"
+      },
+      "artists": [
+        {
+          "name": "Galoski",
+          "url": "https://open.spotify.com/artist/19gU7Hvep0G37JeiLf3TNB"
+        }
+      ],
+      "duration_ms": 178095,
+      "name": "Do The Talk",
+      "url": "https://open.spotify.com/track/0P5upD4YarWz0T1vAn9vxr"
+    },
+    {
+      "added_at": "2023-07-20 22:05:01",
+      "album": {
+        "name": "Can We Go Back (feat. The Frontier)",
+        "url": "https://open.spotify.com/album/21xiIbXv9TtedVEwyU5f5F"
+      },
+      "artists": [
+        {
+          "name": "Jetlag Music",
+          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
+        },
+        {
+          "name": "Double MZK",
+          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
+        },
+        {
+          "name": "Maffei",
+          "url": "https://open.spotify.com/artist/7xVbDhHFS3g0C1XbI5raYF"
+        },
+        {
+          "name": "The Frontier",
+          "url": "https://open.spotify.com/artist/0JwymukVmFtZeyMWWfzwrV"
+        }
+      ],
+      "duration_ms": 180967,
+      "name": "Can We Go Back (feat. The Frontier)",
+      "url": "https://open.spotify.com/track/1PsVhQhr4OAgM6tQuG9CsC"
     },
     {
       "added_at": "2023-07-20 22:05:00",
@@ -163,26 +243,6 @@
       "duration_ms": 221413,
       "name": "Underground",
       "url": "https://open.spotify.com/track/4LGm8vygHnOdvoATybWmaW"
-    },
-    {
-      "added_at": "2023-07-20 22:05:00",
-      "album": {
-        "name": "New Generation",
-        "url": "https://open.spotify.com/album/2vMMXaQq5tRRgZe21SZ1lG"
-      },
-      "artists": [
-        {
-          "name": "Blasterjaxx",
-          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
-        },
-        {
-          "name": "LePrince",
-          "url": "https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO"
-        }
-      ],
-      "duration_ms": 140800,
-      "name": "New Generation",
-      "url": "https://open.spotify.com/track/065VacUyBvH3e5rt3C6yh5"
     },
     {
       "added_at": "2023-07-20 22:05:00",
@@ -209,20 +269,28 @@
       "url": "https://open.spotify.com/track/4cLpIm0mE5E8c51rM5qBcp"
     },
     {
-      "added_at": "2023-07-20 22:05:00",
+      "added_at": "2023-07-21 07:08:45",
       "album": {
-        "name": "Taca Taca New Beat Automotivo 2023",
-        "url": "https://open.spotify.com/album/4iJ65YO4kLdY3t555SXP30"
+        "name": "Low (Gang Speed Remix)",
+        "url": "https://open.spotify.com/album/5ylLUZw5kzjQbQcxEMeWJU"
       },
       "artists": [
         {
-          "name": "WZ Beat",
-          "url": "https://open.spotify.com/artist/7hL2l7lWkA75BpTp7bPEt9"
+          "name": "71 Digits",
+          "url": "https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC"
+        },
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "Gang Speed",
+          "url": "https://open.spotify.com/artist/1DzFcEcSVtNBrQzemT1mWv"
         }
       ],
-      "duration_ms": 114594,
-      "name": "Taca Taca New Beat Automotivo 2023",
-      "url": "https://open.spotify.com/track/4ATIeWGG1zqq0Ogm7lU4xJ"
+      "duration_ms": 168000,
+      "name": "Low (Gang Speed Remix)",
+      "url": "https://open.spotify.com/track/3l4apwfaTq2XIoS8HoHzq0"
     },
     {
       "added_at": "2023-07-20 22:05:00",
@@ -249,20 +317,56 @@
       "url": "https://open.spotify.com/track/3Z16kRDSdFCiZAmZT7u0kC"
     },
     {
-      "added_at": "2023-07-20 22:05:00",
+      "added_at": "2023-07-20 22:05:01",
       "album": {
-        "name": "Cantus",
-        "url": "https://open.spotify.com/album/4EpXHxtJQBHKPK17PSyaAF"
+        "name": "Way Too Good",
+        "url": "https://open.spotify.com/album/3q22v4Q0OmG0ukZVXqSuGZ"
       },
       "artists": [
         {
-          "name": "Mariana BO",
-          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+          "name": "Cherry Tooth",
+          "url": "https://open.spotify.com/artist/3neju4j8u80IBvGawKA3dv"
         }
       ],
-      "duration_ms": 184051,
-      "name": "Cantus",
-      "url": "https://open.spotify.com/track/0Vkf87nNUU5wJPKtpTYt4n"
+      "duration_ms": 201428,
+      "name": "Way Too Good",
+      "url": "https://open.spotify.com/track/0SXWJXZmF6mT6uOqQr8rPg"
+    },
+    {
+      "added_at": "2023-07-20 22:05:00",
+      "album": {
+        "name": "New Generation",
+        "url": "https://open.spotify.com/album/2vMMXaQq5tRRgZe21SZ1lG"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "LePrince",
+          "url": "https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO"
+        }
+      ],
+      "duration_ms": 140800,
+      "name": "New Generation",
+      "url": "https://open.spotify.com/track/065VacUyBvH3e5rt3C6yh5"
+    },
+    {
+      "added_at": "2023-07-20 22:05:00",
+      "album": {
+        "name": "Back",
+        "url": "https://open.spotify.com/album/4kmTNxdqru38Ih22egIAol"
+      },
+      "artists": [
+        {
+          "name": "Lost Capital",
+          "url": "https://open.spotify.com/artist/0ig9HLfNn48EddTcRy2x0t"
+        }
+      ],
+      "duration_ms": 117187,
+      "name": "Back",
+      "url": "https://open.spotify.com/track/67SMTchC9FYbZAUmKt4vLW"
     },
     {
       "added_at": "2023-07-20 22:05:00",
@@ -301,6 +405,46 @@
       "url": "https://open.spotify.com/track/0ncEq0yMe6fY6Z0btAFUA6"
     },
     {
+      "added_at": "2023-07-21 09:07:56",
+      "album": {
+        "name": "BORED (Remixes)",
+        "url": "https://open.spotify.com/album/5JHu5sjHOLRAuQY49TboO1"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        },
+        {
+          "name": "Rikke Darling",
+          "url": "https://open.spotify.com/artist/3eHCkAyD6HfMa8mxDKuTjc"
+        }
+      ],
+      "duration_ms": 187617,
+      "name": "BORED (Rikke Darling Remix)",
+      "url": "https://open.spotify.com/track/10oNrXPI3QOjeqTTnNqP9z"
+    },
+    {
+      "added_at": "2023-07-21 09:07:56",
+      "album": {
+        "name": "BORED (Remixes)",
+        "url": "https://open.spotify.com/album/5JHu5sjHOLRAuQY49TboO1"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        },
+        {
+          "name": "Ariis",
+          "url": "https://open.spotify.com/artist/09cKncAQn28NqTUORLMwSR"
+        }
+      ],
+      "duration_ms": 146759,
+      "name": "BORED (Ariis Remix)",
+      "url": "https://open.spotify.com/track/5qF4F8c0DR6zDHwlwf7Hn2"
+    },
+    {
       "added_at": "2023-07-13 15:29:35",
       "album": {
         "name": "Sombrerito Blanco (feat. Martina Camargo)",
@@ -335,30 +479,6 @@
       "duration_ms": 142968,
       "name": "Oh My Johnny (Banks Of The Roses)",
       "url": "https://open.spotify.com/track/4WQgGqa0b8i05URFCW7FYD"
-    },
-    {
-      "added_at": "2023-07-20 22:05:00",
-      "album": {
-        "name": "Mirror Mirror",
-        "url": "https://open.spotify.com/album/4H7KW5AaytIv42LdVTzWKw"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Showtek",
-          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
-        },
-        {
-          "name": "Jem Cooke",
-          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
-        }
-      ],
-      "duration_ms": 247272,
-      "name": "Mirror Mirror",
-      "url": "https://open.spotify.com/track/0Q3Pb5gMzpFKjIWs9s0inL"
     },
     {
       "added_at": "2023-07-13 15:29:35",

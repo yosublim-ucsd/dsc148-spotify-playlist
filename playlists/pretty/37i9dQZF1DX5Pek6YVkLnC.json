@@ -1,12 +1,12 @@
 {
   "description": "P fkn R. Esto llega al choliiiii. Cover: Omar Courtz",
-  "num_followers": 228216,
+  "num_followers": 228230,
   "original_name": "Rompiendo: Puerto Rico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzM2NWU3ODE2YmUzOTVmNWRhZjE5NGYwMDI0NDNjNzQ1YjI0YzZk",
+  "snapshot_id": "MCw0NmY0MDNmNDRiYzJiZmVmZjU4MTdmODczYTdkYTQ3ZWQ0OTc2NWU0",
   "tracks": [
     {
       "added_at": "2023-06-09 20:20:12",
@@ -211,26 +211,6 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
-        "name": "Mi Vicio (Remix)",
-        "url": "https://open.spotify.com/album/2JYeWN4UX2jOaOHay0HXgr"
-      },
-      "artists": [
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        },
-        {
-          "name": "Luar La L",
-          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
-        }
-      ],
-      "duration_ms": 284285,
-      "name": "Mi Vicio - Remix",
-      "url": "https://open.spotify.com/track/7EObfG3E9rQdUOcft0cIjb"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
         "name": "Gangsta Grillz: Mvrda Gvng",
         "url": "https://open.spotify.com/album/47SL6DJhs2qlFnP1CyCeos"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 295600,
       "name": "Trapstar (with DJ Drama & Hades66)",
       "url": "https://open.spotify.com/track/0qIiVth60KlgFjzKfWI6R0"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
+        "name": "Mi Vicio (Remix)",
+        "url": "https://open.spotify.com/album/2JYeWN4UX2jOaOHay0HXgr"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        }
+      ],
+      "duration_ms": 284285,
+      "name": "Mi Vicio - Remix",
+      "url": "https://open.spotify.com/track/7EObfG3E9rQdUOcft0cIjb"
     },
     {
       "added_at": "2023-06-09 20:20:12",
@@ -495,6 +495,26 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
+        "name": "Porche Carrera",
+        "url": "https://open.spotify.com/album/2uVaHptawzrxyZKw1GYGCn"
+      },
+      "artists": [
+        {
+          "name": "DimeWest",
+          "url": "https://open.spotify.com/artist/7lQ0RJHYziDXtTeu9Ef8Wm"
+        },
+        {
+          "name": "YOVNGCHIMI",
+          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
+        }
+      ],
+      "duration_ms": 188737,
+      "name": "Porche Carrera",
+      "url": "https://open.spotify.com/track/7n8OimjXOqjwPeTkxBe3hF"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
         "name": "512",
         "url": "https://open.spotify.com/album/17JfLaj2zx8k9whBHN8wiI"
       },
@@ -515,26 +535,6 @@
       "duration_ms": 188965,
       "name": "512",
       "url": "https://open.spotify.com/track/4zANwdkLMw3vQ2Xijg4WY8"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
-        "name": "Porche Carrera",
-        "url": "https://open.spotify.com/album/2uVaHptawzrxyZKw1GYGCn"
-      },
-      "artists": [
-        {
-          "name": "DimeWest",
-          "url": "https://open.spotify.com/artist/7lQ0RJHYziDXtTeu9Ef8Wm"
-        },
-        {
-          "name": "YOVNGCHIMI",
-          "url": "https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy"
-        }
-      ],
-      "duration_ms": 188737,
-      "name": "Porche Carrera",
-      "url": "https://open.spotify.com/track/7n8OimjXOqjwPeTkxBe3hF"
     },
     {
       "added_at": "2023-06-09 20:20:12",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
-        "name": "SHISHI",
-        "url": "https://open.spotify.com/album/3qBsliHciopWBbZf1BA6tJ"
-      },
-      "artists": [
-        {
-          "name": "Ankhal",
-          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
-        }
-      ],
-      "duration_ms": 170933,
-      "name": "SHISHI",
-      "url": "https://open.spotify.com/track/3PuU3xioX7MZ68D3UMpHW9"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
         "name": "Private Suite (Vol. 1)",
         "url": "https://open.spotify.com/album/2LWGIFtUcl0NxjjoyVv3ex"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 197280,
       "name": "Freelance",
       "url": "https://open.spotify.com/track/4OjxmjKVIKoHXMcOn9JmDa"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
+        "name": "SHISHI",
+        "url": "https://open.spotify.com/album/3qBsliHciopWBbZf1BA6tJ"
+      },
+      "artists": [
+        {
+          "name": "Ankhal",
+          "url": "https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm"
+        }
+      ],
+      "duration_ms": 170933,
+      "name": "SHISHI",
+      "url": "https://open.spotify.com/track/3PuU3xioX7MZ68D3UMpHW9"
     },
     {
       "added_at": "2023-06-09 20:20:12",
@@ -779,26 +779,6 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
-        "name": "Scarface Sin Manolo",
-        "url": "https://open.spotify.com/album/5X5ZFAlfi5LqIoI7KWkSem"
-      },
-      "artists": [
-        {
-          "name": "Pacho El Antifeka",
-          "url": "https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn"
-        },
-        {
-          "name": "Ele A El Dominio",
-          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
-        }
-      ],
-      "duration_ms": 209117,
-      "name": "Scarface Sin Manolo",
-      "url": "https://open.spotify.com/track/2QG15gotHbUzTzNfnekxWs"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
         "name": "Movie",
         "url": "https://open.spotify.com/album/1Shl9o4n9lH2ULhW2Wfj5r"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 216576,
       "name": "Movie",
       "url": "https://open.spotify.com/track/2eQIaeYSCb6hwoVJtZvETm"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
+        "name": "Scarface Sin Manolo",
+        "url": "https://open.spotify.com/album/5X5ZFAlfi5LqIoI7KWkSem"
+      },
+      "artists": [
+        {
+          "name": "Pacho El Antifeka",
+          "url": "https://open.spotify.com/artist/03Enzet8KLMkjdeQnbqbmn"
+        },
+        {
+          "name": "Ele A El Dominio",
+          "url": "https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS"
+        }
+      ],
+      "duration_ms": 209117,
+      "name": "Scarface Sin Manolo",
+      "url": "https://open.spotify.com/track/2QG15gotHbUzTzNfnekxWs"
     },
     {
       "added_at": "2023-06-09 20:20:12",
@@ -991,26 +991,6 @@
     {
       "added_at": "2023-06-09 20:20:12",
       "album": {
-        "name": "Problema",
-        "url": "https://open.spotify.com/album/0tFSa4FROGTe4e8EHyCRkR"
-      },
-      "artists": [
-        {
-          "name": "Gyanma",
-          "url": "https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s"
-        },
-        {
-          "name": "RaiNao",
-          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Problema",
-      "url": "https://open.spotify.com/track/1PD0pApsS3MqPgaQ0vnAPf"
-    },
-    {
-      "added_at": "2023-06-09 20:20:12",
-      "album": {
         "name": "Respeto X Respeto",
         "url": "https://open.spotify.com/album/24UJw0M1giFfL1APlORrar"
       },
@@ -1027,6 +1007,26 @@
       "duration_ms": 182400,
       "name": "Respeto X Respeto",
       "url": "https://open.spotify.com/track/1vrxkVgaOSQb02tyLtQnXD"
+    },
+    {
+      "added_at": "2023-06-09 20:20:12",
+      "album": {
+        "name": "Problema",
+        "url": "https://open.spotify.com/album/0tFSa4FROGTe4e8EHyCRkR"
+      },
+      "artists": [
+        {
+          "name": "Gyanma",
+          "url": "https://open.spotify.com/artist/2aja7fWFLLR3pBUk2BYf6s"
+        },
+        {
+          "name": "RaiNao",
+          "url": "https://open.spotify.com/artist/42LEQxfXLEuzdqorKBbUVN"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Problema",
+      "url": "https://open.spotify.com/track/1PD0pApsS3MqPgaQ0vnAPf"
     },
     {
       "added_at": "2023-06-09 20:20:12",

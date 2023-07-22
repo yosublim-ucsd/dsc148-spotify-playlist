@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0P1EPhWUeqB.md) - [plain]
 
 > Desde el corazón del rancho, las mejores interpretaciones en vivo\. Virlán García en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,504 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,550 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0P1EPhWUeqB.md) - [plain]
 | 37 | [No Le Aflojo](https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [No Le Aflojo](https://open.spotify.com/album/3VABPNfUfSP5DurV7CUZaH) | 3:22 |
 | 38 | [Prision de Amor \(En Vivo\)](https://open.spotify.com/track/6xD9FbY40IWNyXW9TQFZLr) | [Arturo Coronel y el Buen Estilo](https://open.spotify.com/artist/4lFwjsLFRLWRtjtsNjl5al) | [En Vivo Fiesta Privada](https://open.spotify.com/album/2p8XaEUalyK1AW0odivWfM) | 3:00 |
 | 39 | [Mientras Duermes \- En Vivo](https://open.spotify.com/track/1Yx3iqFwDTXSKoXhCAi8UI) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Mientras Duermes \(En Vivo\)](https://open.spotify.com/album/78GkhLkn5v6q6PkNFbDFYs) | 3:23 |
-| 40 | [Rey de Corazones](https://open.spotify.com/track/2RIv4aSthOp2R6xMXU0JG1) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Homenaje a Ariel Camacho](https://open.spotify.com/album/1wa28qmB7ntPQ1iMhJlRCX) | 3:36 |
+| 40 | [Rey de Corazones](https://open.spotify.com/track/0M6JOa2qb0C260t9ZZYBkq) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Homenaje a Ariel Camacho](https://open.spotify.com/album/2y2hsLQTXs010SHxs0lOFg) | 3:36 |
 | 41 | [Enhorabuena \(En Vivo\)](https://open.spotify.com/track/5aX7oH3i0fwGlOiUDberVb) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Enhorabuena \(En Vivo\)](https://open.spotify.com/album/5iUaoiGc5CgpMbG5tREyYv) | 3:00 |
 | 42 | [No Hay Novedad](https://open.spotify.com/track/6SWMzKV5PzHn607pIHSN9k) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [Puras Pa Pistiar](https://open.spotify.com/album/7nr2mTxYR1DO1RgaOOT7aJ) | 3:01 |
 | 43 | [El 24](https://open.spotify.com/track/3zV74oUCNZMTlJXLXxe9cE) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Los Corridos Favoritos Del Jefe](https://open.spotify.com/album/4ojff242HSHbiBz4JpV7Kg) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0P1EPhWUeqB.md) - [plain]
 | 49 | [Jardín Olvidado \- En Vivo](https://open.spotify.com/track/2zVVkGVN3x6odrOQzWloaC) | [Arturo Coronel y el Buen Estilo](https://open.spotify.com/artist/4lFwjsLFRLWRtjtsNjl5al) | [Con Tololoche y Charchetas \(En Vivo\)](https://open.spotify.com/album/6AKZUXVBIOZLMYNchgmmzI) | 3:34 |
 | 50 | [Andamos Mejor](https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Andamos Mejor](https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf) | 2:17 |
 
-Snapshot ID: `MCxkMmIyODY3M2RlZmUwZGU0Njk3OTZhYThmZTc4MDlhZWJiODEwOGQx`
+Snapshot ID: `MCwxOGE1ZTYwODk3MTVmMzYzM2E1YWU5ZmRmODljZDM2NjdkZDJmZWJl`

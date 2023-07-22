@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjcwMDU3ZWY3ZjJkOTk2Yzc5NDRkMDA0YjgyZDNmZmQxZTViMjA5",
+  "snapshot_id": "MCxkZGZlZjBmMTNjYzhlM2RhZmY4YWU5OWJhOWU1YzZiMzAxMDg0ZDkx",
   "tracks": [
     {
       "added_at": "2023-07-10 04:09:23",
@@ -247,22 +247,6 @@
     {
       "added_at": "2023-07-10 04:09:23",
       "album": {
-        "name": "Genius Of Modern Music (Vol.1, Expanded Edition)",
-        "url": "https://open.spotify.com/album/6DRjwkPa8kT9vifu7tH3PL"
-      },
-      "artists": [
-        {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
-        }
-      ],
-      "duration_ms": 193840,
-      "name": "'Round Midnight",
-      "url": "https://open.spotify.com/track/1wl5b2lw3YagQtZiYZbQWP"
-    },
-    {
-      "added_at": "2023-07-10 04:09:23",
-      "album": {
         "name": "The President Plays With The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/7JkisS9bjzaQCgJ9btGjfq"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 217760,
       "name": "I Can't Get Started",
       "url": "https://open.spotify.com/track/0kC4Rrdb4B4hAgt3PMoARe"
+    },
+    {
+      "added_at": "2023-07-10 04:09:23",
+      "album": {
+        "name": "Genius Of Modern Music (Vol.1, Expanded Edition)",
+        "url": "https://open.spotify.com/album/6DRjwkPa8kT9vifu7tH3PL"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        }
+      ],
+      "duration_ms": 193840,
+      "name": "'Round Midnight",
+      "url": "https://open.spotify.com/track/1wl5b2lw3YagQtZiYZbQWP"
     },
     {
       "added_at": "2023-07-10 04:09:23",
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-07-10 04:09:23",
       "album": {
+        "name": "Incredible Jazz Guitar",
+        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 292093,
+      "name": "In Your Own Sweet Way",
+      "url": "https://open.spotify.com/track/5Y8XLhYm4ZeMU25Rg24YoH"
+    },
+    {
+      "added_at": "2023-07-10 04:09:23",
+      "album": {
         "name": "Inside",
         "url": "https://open.spotify.com/album/7ynHLBTikx5EcjemNNloIy"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 313040,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/3XhKPQBEtY29ccTFzxXmxj"
-    },
-    {
-      "added_at": "2023-07-10 04:09:23",
-      "album": {
-        "name": "Incredible Jazz Guitar",
-        "url": "https://open.spotify.com/album/1junpO1JYOvWEcWOIt5PpP"
-      },
-      "artists": [
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 292093,
-      "name": "In Your Own Sweet Way",
-      "url": "https://open.spotify.com/track/5Y8XLhYm4ZeMU25Rg24YoH"
     },
     {
       "added_at": "2023-07-10 04:09:23",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-07-10 04:09:23",
       "album": {
-        "name": "Slow Love",
-        "url": "https://open.spotify.com/album/79KUKKwWpL2UZ7HmAMiZIE"
-      },
-      "artists": [
-        {
-          "name": "Capricorn",
-          "url": "https://open.spotify.com/artist/1QS2jqjyvvulJg7jOIFxDe"
-        }
-      ],
-      "duration_ms": 231933,
-      "name": "Moody Caf\u00e9",
-      "url": "https://open.spotify.com/track/6uCvwPPCSBVS95TmcB9cTj"
-    },
-    {
-      "added_at": "2023-07-10 04:09:23",
-      "album": {
         "name": "Presenting Ray Bryant",
         "url": "https://open.spotify.com/album/4hoqZsjtH7nMw3KO3tbPwq"
       },
@@ -1043,6 +1027,22 @@
     {
       "added_at": "2023-07-10 04:09:23",
       "album": {
+        "name": "Slow Love",
+        "url": "https://open.spotify.com/album/79KUKKwWpL2UZ7HmAMiZIE"
+      },
+      "artists": [
+        {
+          "name": "Capricorn",
+          "url": "https://open.spotify.com/artist/1QS2jqjyvvulJg7jOIFxDe"
+        }
+      ],
+      "duration_ms": 231933,
+      "name": "Moody Caf\u00e9",
+      "url": "https://open.spotify.com/track/6uCvwPPCSBVS95TmcB9cTj"
+    },
+    {
+      "added_at": "2023-07-10 04:09:23",
+      "album": {
         "name": "In A Sentimental Mood",
         "url": "https://open.spotify.com/album/5asv3J7FzUV8nHAZj5wJ8y"
       },
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-07-10 04:09:23",
       "album": {
-        "name": "Here's Love",
-        "url": "https://open.spotify.com/album/1ZdiCXkY42gbLVoap08HsZ"
-      },
-      "artists": [
-        {
-          "name": "Hank Jones",
-          "url": "https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv"
-        }
-      ],
-      "duration_ms": 212586,
-      "name": "My Wish",
-      "url": "https://open.spotify.com/track/2JUo9CBUz3ObTIsSzg93Fr"
-    },
-    {
-      "added_at": "2023-07-10 04:09:23",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/4eRKWNE9BbmUEzZ3IqvdH5"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 177920,
       "name": "Ida Lupino",
       "url": "https://open.spotify.com/track/3r1HC492GiqxQQHrIVSFJK"
+    },
+    {
+      "added_at": "2023-07-10 04:09:23",
+      "album": {
+        "name": "Here's Love",
+        "url": "https://open.spotify.com/album/1ZdiCXkY42gbLVoap08HsZ"
+      },
+      "artists": [
+        {
+          "name": "Hank Jones",
+          "url": "https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv"
+        }
+      ],
+      "duration_ms": 212586,
+      "name": "My Wish",
+      "url": "https://open.spotify.com/track/2JUo9CBUz3ObTIsSzg93Fr"
     },
     {
       "added_at": "2023-07-10 04:09:23",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-07-10 04:09:23",
       "album": {
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/0yjSeaa1BvDU2nlFB0E6j7"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 287373,
+      "name": "Emily",
+      "url": "https://open.spotify.com/track/6joG9hvPqUH0Bm4Zff7Nru"
+    },
+    {
+      "added_at": "2023-07-10 04:09:23",
+      "album": {
         "name": "Wisteria",
         "url": "https://open.spotify.com/album/5Ok4cskcyAERwTnaKjEA8s"
       },
@@ -1171,38 +1187,6 @@
     {
       "added_at": "2023-07-10 04:09:23",
       "album": {
-        "name": "The Complete Argo Mercury Sessions",
-        "url": "https://open.spotify.com/album/1VTJAf7legjTi6EOHHoxFG"
-      },
-      "artists": [
-        {
-          "name": "Art Farmer & Benny Golson Jazztet",
-          "url": "https://open.spotify.com/artist/2ZFVQjoQGBbNZ0quLUteyp"
-        }
-      ],
-      "duration_ms": 192893,
-      "name": "I Remember Clifford",
-      "url": "https://open.spotify.com/track/4zquVwZMHXKHUHqHIHDlNA"
-    },
-    {
-      "added_at": "2023-07-10 04:09:23",
-      "album": {
-        "name": "Summertime",
-        "url": "https://open.spotify.com/album/0yjSeaa1BvDU2nlFB0E6j7"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        }
-      ],
-      "duration_ms": 287373,
-      "name": "Emily",
-      "url": "https://open.spotify.com/track/6joG9hvPqUH0Bm4Zff7Nru"
-    },
-    {
-      "added_at": "2023-07-10 04:09:23",
-      "album": {
         "name": "Everytime around",
         "url": "https://open.spotify.com/album/0xz9q4sfWXzF0e0FSPcwJJ"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 325562,
       "name": "Everytime around",
       "url": "https://open.spotify.com/track/2aFgx18xSsCjzZo9vMtyTw"
+    },
+    {
+      "added_at": "2023-07-10 04:09:23",
+      "album": {
+        "name": "The Complete Argo Mercury Sessions",
+        "url": "https://open.spotify.com/album/1VTJAf7legjTi6EOHHoxFG"
+      },
+      "artists": [
+        {
+          "name": "Art Farmer & Benny Golson Jazztet",
+          "url": "https://open.spotify.com/artist/2ZFVQjoQGBbNZ0quLUteyp"
+        }
+      ],
+      "duration_ms": 192893,
+      "name": "I Remember Clifford",
+      "url": "https://open.spotify.com/track/4zquVwZMHXKHUHqHIHDlNA"
     },
     {
       "added_at": "2023-07-10 04:09:23",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-07-10 04:09:23",
       "album": {
-        "name": "Standards Trio: Reflections",
-        "url": "https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn"
-      },
-      "artists": [
-        {
-          "name": "Kurt Rosenwinkel",
-          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "You've Changed",
-      "url": "https://open.spotify.com/track/5iPXzdmW5wxcbWJNw46mOy"
-    },
-    {
-      "added_at": "2023-07-10 04:09:23",
-      "album": {
         "name": "The Gotland Session",
         "url": "https://open.spotify.com/album/1eMVzFOPZrjBlEGKXYxadA"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 193750,
       "name": "Last Ride Home",
       "url": "https://open.spotify.com/track/22QZgO76vLjdpZY161iF72"
+    },
+    {
+      "added_at": "2023-07-10 04:09:23",
+      "album": {
+        "name": "Standards Trio: Reflections",
+        "url": "https://open.spotify.com/album/2iQuKhBU83MbUIsRAKcYPn"
+      },
+      "artists": [
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "You've Changed",
+      "url": "https://open.spotify.com/track/5iPXzdmW5wxcbWJNw46mOy"
     },
     {
       "added_at": "2023-07-10 04:09:23",

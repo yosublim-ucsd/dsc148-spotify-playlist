@@ -4,7 +4,7 @@
 
 > Listen to your favorite songs from the ZOMBIES soundtracks\. Original movie, ZOMBIES 3, now streaming.
 
-41 songs - 1 hr 46 min
+42 songs - 1 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [BAMM \- Zombie Block Party](https://open.spotify.com/track/4dm9OrbSKvgxpWgoPOamCf) | [ZOMBIES – Cast](https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [ZOMBIES \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/5OZ8rT5NZcYNxkf8jnIAL0) | 1:17 | 2022-08-12 |  |
 | [Call to the Wild](https://open.spotify.com/track/1u6EFa4RLVRYH23FUsKe6B) | [Meg Donnelly](https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6), [Chandler Kinney](https://open.spotify.com/artist/4GsVpISKE79xqOxIrj9FTk), [Pearce Joza](https://open.spotify.com/artist/0JyZJ9UbbvNfoJ14NAUgqt), [ZOMBIES – Cast](https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [ZOMBIES 2 \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/3sZV33Gfqx8tZmAwRBtpCs) | 2:36 | 2022-08-12 |  |
 | [Come on Out](https://open.spotify.com/track/2eCAySGeTsPGXnfFb60Kgq) | [Chandler Kinney](https://open.spotify.com/artist/4GsVpISKE79xqOxIrj9FTk), [Ariel Martin](https://open.spotify.com/artist/1dE8dF47aXT5VYE74R3I42), [Pearce Joza](https://open.spotify.com/artist/0JyZJ9UbbvNfoJ14NAUgqt), [ZOMBIES – Cast](https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [ZOMBIES 3 \(Original Soundtrack\)](https://open.spotify.com/album/4utT7N3IehsJfbtUhNDaeF) | 2:45 | 2022-08-12 |  |
+| [Endless Summer \- From "ZOMBIES: The Re\-Animated Series Shorts"](https://open.spotify.com/track/7rrp6pOMU08ZT9pnYZMzZt) | [Meg Donnelly](https://open.spotify.com/artist/0jcl46xRBm9LKIwrKGQPE6), [Milo Manheim](https://open.spotify.com/artist/3Pkn59A7kZmnBHp7HBUcz5), [ZOMBIES – Cast](https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5) | [Endless Summer \(From "ZOMBIES: The Re\-Animated Series Shorts"\)](https://open.spotify.com/album/2HMw6NdRGnh4z0fNpz6Xy9) | 2:29 | 2023-07-21 |  |
 | [Exceptional Zed](https://open.spotify.com/track/1hEYnDxgrg2zcITOZgaU3J) | [ZOMBIES – Cast](https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [ZOMBIES 3 \(Original Soundtrack\)](https://open.spotify.com/album/4utT7N3IehsJfbtUhNDaeF) | 2:31 | 2022-08-12 |  |
 | [Exceptional Zed \(Reprise\)](https://open.spotify.com/track/4e5BmkLeUCVXxuAFyDQhPO) | [Milo Manheim](https://open.spotify.com/artist/3Pkn59A7kZmnBHp7HBUcz5), [ZOMBIES – Cast](https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [ZOMBIES 3 \(Original Soundtrack\)](https://open.spotify.com/album/4utT7N3IehsJfbtUhNDaeF) | 0:43 | 2022-08-12 |  |
 | [Feelin' the Power](https://open.spotify.com/track/6pu6XNfVupA7ug6Ou8kZIA) | [Cast of ZOMBIES: Addison's Moonstone Mystery](https://open.spotify.com/artist/1A0Jf1TgQQUoWAoXFWhlQf) | [ZOMBIES: Addison's Moonstone Mystery](https://open.spotify.com/album/4yowQ8Wed8f51r7ahFIqgs) | 2:20 | 2022-08-12 |  |

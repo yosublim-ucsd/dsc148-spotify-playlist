@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星星！Cover: LINION
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,733 likes - 67 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,737 likes - 67 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 2 | [Hate Myself](https://open.spotify.com/track/49CaHLWJB8Ot1vB2vAUcca) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [Hate Myself](https://open.spotify.com/album/6wps8G72MkvfLlY1iLThn3) | 3:23 |
 | 3 | [積水](https://open.spotify.com/track/4c6nW4uXXQqgyS0jHfh3lv) | [翁靖堯yao](https://open.spotify.com/artist/6i8TiylkUFKqXajJM69a7N) | [Life Buoy](https://open.spotify.com/album/1tzRVINQei2GdrfHz6GvzU) | 2:44 |
 | 4 | [輸了怎樣](https://open.spotify.com/track/5CdiPjubMoVfyG08Bczktk) | [王ADEN](https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV) | [輸了怎樣](https://open.spotify.com/album/64wfH7ifhnBn8YM9yiPUrx) | 3:32 |
-| 5 | [有個念頭](https://open.spotify.com/track/1EWoavCgg7e5DHyWHSHFLE) | [胡家誠](https://open.spotify.com/artist/200pQawht4r55tBNrWTVpx), [我自己](https://open.spotify.com/artist/2FTpYI0kEf5BptgCYdmwfz) | [有個念頭](https://open.spotify.com/album/2z7Im0ebTIL8yI5NiH3uP7) | 4:06 |
+| 5 | [有個念頭](https://open.spotify.com/track/1EWoavCgg7e5DHyWHSHFLE) | [胡家誠](https://open.spotify.com/artist/200pQawht4r55tBNrWTVpx) | [有個念頭](https://open.spotify.com/album/2z7Im0ebTIL8yI5NiH3uP7) | 4:06 |
 | 6 | [Doing Alright](https://open.spotify.com/track/1RAJfhLrvM4fE4qDvlFjhT) | [Everydaze](https://open.spotify.com/artist/3zl0vHEKbb53bbQg9ZaN3g) | [Room247](https://open.spotify.com/album/5o3vb0aBtrdSm9JzRHywoD) | 4:19 |
 | 7 | [Night Lotion「融」](https://open.spotify.com/track/1lMtUY5bgQMRmaFE99qaky) | [Andr](https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt) | [Night Lotion「融」](https://open.spotify.com/album/2H6nissJW4xMV28LLWfrBy) | 3:43 |
 | 8 | [CACTUS](https://open.spotify.com/track/5XEanyXMTmJwi6C3ECSc2j) | [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [CACTUS](https://open.spotify.com/album/4vC52K14grNuFtp8NIbLMm) | 4:06 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 66 | [放棄](https://open.spotify.com/track/5haSd5TSsrNR9G34J1W01V) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [放棄](https://open.spotify.com/album/2MD2XlJ9XntKndK3Pkhec7) | 2:41 |
 | 67 | [Black Panther](https://open.spotify.com/track/6OHNx1ADztv9b8mCBi2Y5s) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [Black Panther](https://open.spotify.com/album/1SSH4FrbiCFmlkMeUNQ7I8) | 3:30 |
 
-Snapshot ID: `MCw1NDEyZDBjNjcwYmM2YzhiZjA4Njc1MmE4ZTc4MGM1NzI5OWVkNGFi`
+Snapshot ID: `MCwzZmZiMzE2NjI1NWVhYTEzYjQ5NDg3MGY2MDZjNTQyNDg0ZjJiM2Jk`

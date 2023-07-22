@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 689100,
+  "num_followers": 689122,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzN2FmODAwOTZjY2IxMjRkMDlhNjU1ODQ5YzNkOTQxZWJkOGI3Yzgw",
+  "snapshot_id": "MCw3YjYyOWRhMjJlZjVjMjNlZmViOGZmMDdjMzEwMjM2ODhlZTlmMDY3",
   "tracks": [
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1207,26 +1207,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Don't Need Love",
-        "url": "https://open.spotify.com/album/46iHvXJt4ZEMwwpZC8cBzN"
-      },
-      "artists": [
-        {
-          "name": "220 KID",
-          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
-        },
-        {
-          "name": "GRACEY",
-          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
-        }
-      ],
-      "duration_ms": 195480,
-      "name": "Don\u2019t Need Love (with GRACEY)",
-      "url": "https://open.spotify.com/track/7uBaKZZVK0OZ6cqFGpGRXI"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix]",
         "url": "https://open.spotify.com/album/6smIdnnGseiA4jiEcOjcic"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 250280,
       "name": "Levitating (feat. Madonna and Missy Elliott) [The Blessed Madonna Remix]",
       "url": "https://open.spotify.com/track/0pk1hxhJLBSZZ5RKBhcwOa"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Don't Need Love",
+        "url": "https://open.spotify.com/album/46iHvXJt4ZEMwwpZC8cBzN"
+      },
+      "artists": [
+        {
+          "name": "220 KID",
+          "url": "https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs"
+        },
+        {
+          "name": "GRACEY",
+          "url": "https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ"
+        }
+      ],
+      "duration_ms": 195480,
+      "name": "Don\u2019t Need Love (with GRACEY)",
+      "url": "https://open.spotify.com/track/7uBaKZZVK0OZ6cqFGpGRXI"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Pump the Brakes",
-        "url": "https://open.spotify.com/album/6LF0iT7seN01JDE1LjBJm5"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        }
-      ],
-      "duration_ms": 220581,
-      "name": "Pump the Brakes",
-      "url": "https://open.spotify.com/track/1Gz2E1chOzRyhFXHJYWw8y"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Sweet Talker",
         "url": "https://open.spotify.com/album/301gSTTWjmjIa1M6Hx4hPT"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 176930,
       "name": "Sweet Talker",
       "url": "https://open.spotify.com/track/6FRxFke9VsjXmibGgSeKki"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Pump the Brakes",
+        "url": "https://open.spotify.com/album/6LF0iT7seN01JDE1LjBJm5"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "duration_ms": 220581,
+      "name": "Pump the Brakes",
+      "url": "https://open.spotify.com/track/1Gz2E1chOzRyhFXHJYWw8y"
     },
     {
       "added_at": "2022-12-31 15:51:36",
@@ -1587,26 +1587,6 @@
     {
       "added_at": "2022-12-31 15:51:36",
       "album": {
-        "name": "Afraid",
-        "url": "https://open.spotify.com/album/0hxaNsjHneCKXSOijcqPVz"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "HARLEE",
-          "url": "https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy"
-        }
-      ],
-      "duration_ms": 142971,
-      "name": "Afraid (feat. HARLEE)",
-      "url": "https://open.spotify.com/track/4FUFk1uJuPtUJrDQ8ZSylK"
-    },
-    {
-      "added_at": "2022-12-31 15:51:36",
-      "album": {
         "name": "Everybody Dance",
         "url": "https://open.spotify.com/album/28V8NPwe6KoGs9t96i0WHD"
       },
@@ -1627,6 +1607,26 @@
       "duration_ms": 168289,
       "name": "Everybody Dance",
       "url": "https://open.spotify.com/track/5GiXra1IesFbyQxHsjWQ3M"
+    },
+    {
+      "added_at": "2022-12-31 15:51:36",
+      "album": {
+        "name": "Afraid",
+        "url": "https://open.spotify.com/album/0hxaNsjHneCKXSOijcqPVz"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "HARLEE",
+          "url": "https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy"
+        }
+      ],
+      "duration_ms": 142971,
+      "name": "Afraid (feat. HARLEE)",
+      "url": "https://open.spotify.com/track/4FUFk1uJuPtUJrDQ8ZSylK"
     },
     {
       "added_at": "2022-12-31 15:51:36",

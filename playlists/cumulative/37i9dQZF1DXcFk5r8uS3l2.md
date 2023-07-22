@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Vintage Trouble
 
-313 songs - 19 hr 42 min
+314 songs - 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Devil and the Deep Blue](https://open.spotify.com/track/6Fpnv2wogd48SlWGjTQ94N) | [Bad Flamingo](https://open.spotify.com/artist/3Ht7Wd1qVgmFyW63bl5eKE) | [Devil and the Deep Blue](https://open.spotify.com/album/1xvHBAe6ThcdFQc82IElN1) | 3:07 | 2023-01-06 | 2023-04-01 |
 | [Devil Claims His Prize](https://open.spotify.com/track/0TUjdjNNsFG7z4EXpQz17o) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Devil Claims His Prize](https://open.spotify.com/album/0gNnjuMyQ6pbFDoartJbUI) | 2:42 | 2023-07-14 |  |
 | [Diving Duck Blues](https://open.spotify.com/track/0hK8IwYBQwGbTgd7C5XyRZ) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [TajMo](https://open.spotify.com/album/3NF642glRZZKf3Ng96eMfX) | 4:28 | 2021-12-17 | 2023-02-25 |
+| [Don't Leave Me](https://open.spotify.com/track/0AgUASgDyd1kZ2wFTMc9UC) | [Alex Lambert](https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN), [Dylan Chambers](https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9) | [Don't Leave Me](https://open.spotify.com/album/1zi38GN7sht32SQbjiuM65) | 3:30 | 2023-07-21 |  |
 | [Don't Let the Devil Ride](https://open.spotify.com/track/5RUJ4EFMAaWdtvso1j8kLT) | [Leo "Bud" Welch](https://open.spotify.com/artist/5UWSCmjMiTImIru9iAvNFd) | [The Angels in Heaven Done Signed My Name](https://open.spotify.com/album/5qiokBP05cRxwpCLqocWn7) | 2:45 | 2021-12-17 | 2022-07-29 |
 | [Don't Let The Devil Ride](https://open.spotify.com/track/5ZwVWdXaJSMnqduVaDXKrn) | [Leo "Bud" Welch](https://open.spotify.com/artist/5UWSCmjMiTImIru9iAvNFd) | [The Angels In Heaven Done Signed My Name](https://open.spotify.com/album/1NJxrv2i8o2eOuRHS6kRxa) | 2:45 | 2022-01-28 |  |
 | [Down to the River](https://open.spotify.com/track/0tVw6rUAUI0w01PN9FQeyD) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Down to the River](https://open.spotify.com/album/3JiILntTtRreadH6W8ftB2) | 3:51 | 2021-12-17 | 2023-01-13 |
@@ -258,7 +259,7 @@
 | [Standing In The Doorway](https://open.spotify.com/track/4JxTF9cczFqEYFd1aJIl3W) | [Andy Sydow](https://open.spotify.com/artist/3wriMPzjc6B2yfJzzgIGhE), [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp) | [Modern Songwriters Vol\. 1 \(Hiss Golden Messenger\)](https://open.spotify.com/album/6iLfP1B6qKkDUHG4MAyV5c) | 3:27 | 2022-08-05 | 2022-08-13 |
 | [Step In](https://open.spotify.com/track/1b44sEBiYyl35EbYDgNGfk) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [I Be Trying](https://open.spotify.com/album/38J9ZNteDXUiLTndROhKyY) | 2:35 | 2022-01-28 | 2023-03-11 |
 | [Step In](https://open.spotify.com/track/3NG5DtW4VQT7DjNzWtVNTy) | [Cedric Burnside](https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc) | [Step In](https://open.spotify.com/album/3Ia0YigWnUyqgjoLgSnFCg) | 2:35 | 2021-12-17 | 2022-07-29 |
-| [Still Go Marching In \(Live\)](https://open.spotify.com/track/3np14vGyPYEnbQU3bHjItw) | [Wille and the Bandits](https://open.spotify.com/artist/0TBTCmsm3UDvlFvksSiEWD), [Helm DeVegas](https://open.spotify.com/artist/6q6MksNiBbvkAWaJUvcWTL) | [The Kernow Sessions \(Live\)](https://open.spotify.com/album/0QjrKDQK2r6QLDHt03byiz) | 6:26 | 2023-02-10 |  |
+| [Still Go Marching In \(Live\)](https://open.spotify.com/track/3np14vGyPYEnbQU3bHjItw) | [Willie and the Bandits](https://open.spotify.com/artist/0TBTCmsm3UDvlFvksSiEWD), [Helm DeVegas](https://open.spotify.com/artist/6q6MksNiBbvkAWaJUvcWTL) | [The Kernow Sessions \(Live\)](https://open.spotify.com/album/0QjrKDQK2r6QLDHt03byiz) | 6:26 | 2023-02-10 |  |
 | [Stranger Blues \(feat\. Dashawn Hickman\)](https://open.spotify.com/track/6oHfxmYHneus7uI1iAZlwb) | [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [Lucy Woodward](https://open.spotify.com/artist/1hQaXAeGO0y6sQYLqdfErE), [Dashawn Hickman](https://open.spotify.com/artist/73bkH6RCIOB2BAD1RWVTBY) | [Stranger Blues \(feat\. Dashawn Hickman\)](https://open.spotify.com/album/7AJbYy5GiP9z3mGX9085tO) | 2:56 | 2021-12-17 | 2023-03-11 |
 | [Sunshine](https://open.spotify.com/track/1InEnV5LtvOlIi5tSp17vA) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Sunshine](https://open.spotify.com/album/6l9WiIy8A7MvFZvNNGJuxY) | 5:09 | 2023-03-31 |  |
 | [Sunshine](https://open.spotify.com/track/53b1hEONbOjbiM4jrd9nPb) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Sunshine](https://open.spotify.com/album/0HyNnJrfMh3pQyjQFr5j60) | 5:09 | 2023-03-31 | 2023-04-30 |
@@ -291,7 +292,7 @@
 | [This Too Shall Last](https://open.spotify.com/track/0CuXzMEgFzuQhLEYQHYas4) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Encore](https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d) | 3:42 | 2021-12-17 |  |
 | [This Will Be Our Year](https://open.spotify.com/track/2oy3hJGwD5aJSlFy4OnAkL) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [This Will Be Our Year](https://open.spotify.com/album/1aunApiIbz5beHK7ty68bT) | 2:37 | 2022-11-11 | 2023-03-25 |
 | [Through The Darkest Night](https://open.spotify.com/track/0L5K4w34pUNo5azuKac5zd) | [Ollee Owens](https://open.spotify.com/artist/36BxlE2IWlXTNTAwyMx1DD) | [CANNOT BE UNHEARD](https://open.spotify.com/album/72GY9mSMI5tivnkggaudXS) | 5:14 | 2022-09-16 | 2023-03-11 |
-| [Throw That Stone](https://open.spotify.com/track/0BGr6RE0hPLyDjCTlYzfcx) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Throw That Stone](https://open.spotify.com/album/408CkVwXz2NDA1au1j5cJV) | 2:58 | 2023-01-20 |  |
+| [Throw That Stone](https://open.spotify.com/track/0BGr6RE0hPLyDjCTlYzfcx) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Throw That Stone](https://open.spotify.com/album/408CkVwXz2NDA1au1j5cJV) | 2:58 | 2023-01-20 | 2023-07-22 |
 | [Tin Cups](https://open.spotify.com/track/622IlDFXeH6TSdmPJCBJCz) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Tin Cups](https://open.spotify.com/album/6OJY1tKwM6ZCTsWANfRT1e) | 3:02 | 2022-10-14 |  |
 | [To Rise You Gotta Fall](https://open.spotify.com/track/5zp4hfK7UcGn9EHhcP6bDE) | [Nicki Bluhm](https://open.spotify.com/artist/0Ti7wMIMMaYKv582YN47Hh) | [To Rise You Gotta Fall](https://open.spotify.com/album/4lgm1KUaNO3bp6FYRImcPL) | 4:56 | 2021-12-17 | 2023-03-11 |
 | [Transit Damage](https://open.spotify.com/track/4nUpA4KhunJgxvVvjHfRzB) | [Shinyribs](https://open.spotify.com/artist/3xkZ4A3btzE9F5oVuY25UF) | [Transit Damage](https://open.spotify.com/album/6Dn9kpVuqyaAzLSuBWiqlW) | 4:25 | 2023-07-14 |  |

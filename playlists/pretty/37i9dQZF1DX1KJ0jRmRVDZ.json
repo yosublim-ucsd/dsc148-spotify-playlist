@@ -1,12 +1,12 @@
 {
   "description": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30fb\u30ab\u30eb\u30c1\u30e3\u30fc\u304b\u3089\u6b21\u3005\u3068\u51fa\u73fe\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002Check out artists of the new Internet age! Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 95434,
+  "num_followers": 95505,
   "original_name": "\u592a\u967d\u3092\u898b\u3066\u3057\u307e\u3063\u305f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjlkYzYyZjJlMDllN2NmZjRjOTY0ZDI0NjZiNGRkZjY5NTY1Njk4",
+  "snapshot_id": "MCwyODJlZjEwYmY2ZjIyZjNkZmQ5ZjUxMzRiM2QzMmQ5ZjYxYTVjMzVj",
   "tracks": [
     {
       "added_at": "2023-07-20 15:00:00",
@@ -299,6 +299,22 @@
     {
       "added_at": "2023-07-20 15:00:00",
       "album": {
+        "name": "\u30cf\u30fc\u30c8\u30a8\u30f3\u30c9",
+        "url": "https://open.spotify.com/album/7qcNbmdD83ZgsFx2LwaYUP"
+      },
+      "artists": [
+        {
+          "name": "\u6c34\u69fd",
+          "url": "https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq"
+        }
+      ],
+      "duration_ms": 173706,
+      "name": "\u30cf\u30fc\u30c8\u30a8\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/5chLgSHt4hNwuOlxWccA0u"
+    },
+    {
+      "added_at": "2023-07-20 15:00:00",
+      "album": {
         "name": "Ghost Pop",
         "url": "https://open.spotify.com/album/6feQsJm7NRqr2ICMO4SDmB"
       },
@@ -511,18 +527,18 @@
     {
       "added_at": "2023-07-20 15:00:00",
       "album": {
-        "name": "\u6d77\u306e\u307e\u306b\u307e\u306b",
-        "url": "https://open.spotify.com/album/6M4p4S5t8PuRZiq7zvMEPB"
+        "name": "FightSong",
+        "url": "https://open.spotify.com/album/6rpUs50OKVNUGDDusbHvET"
       },
       "artists": [
         {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
         }
       ],
-      "duration_ms": 255918,
-      "name": "\u6d77\u306e\u307e\u306b\u307e\u306b",
-      "url": "https://open.spotify.com/track/0loZ1KfQSLJxYR0Y7dImKN"
+      "duration_ms": 208964,
+      "name": "FightSong",
+      "url": "https://open.spotify.com/track/37vujUbX37xoBmwoddMYck"
     },
     {
       "added_at": "2023-07-20 15:00:00",
@@ -543,18 +559,18 @@
     {
       "added_at": "2023-07-20 15:00:00",
       "album": {
-        "name": "FightSong",
-        "url": "https://open.spotify.com/album/6rpUs50OKVNUGDDusbHvET"
+        "name": "\u6d77\u306e\u307e\u306b\u307e\u306b",
+        "url": "https://open.spotify.com/album/6M4p4S5t8PuRZiq7zvMEPB"
       },
       "artists": [
         {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
         }
       ],
-      "duration_ms": 208964,
-      "name": "FightSong",
-      "url": "https://open.spotify.com/track/37vujUbX37xoBmwoddMYck"
+      "duration_ms": 255918,
+      "name": "\u6d77\u306e\u307e\u306b\u307e\u306b",
+      "url": "https://open.spotify.com/track/0loZ1KfQSLJxYR0Y7dImKN"
     },
     {
       "added_at": "2023-07-20 15:00:00",
@@ -607,18 +623,18 @@
     {
       "added_at": "2023-07-20 15:00:00",
       "album": {
-        "name": "\u597d\u304d\u3060",
-        "url": "https://open.spotify.com/album/1IOv9TZ1IarsEQ6RB7HEe0"
+        "name": "Bokurano",
+        "url": "https://open.spotify.com/album/0dS6KlBzeDJQsWZ2Krmjhh"
       },
       "artists": [
         {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+          "name": "Eve",
+          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
         }
       ],
-      "duration_ms": 217512,
-      "name": "\u597d\u304d\u3060",
-      "url": "https://open.spotify.com/track/7537JfhvVpEqkrY2CIY7zu"
+      "duration_ms": 212708,
+      "name": "Bokurano",
+      "url": "https://open.spotify.com/track/7F3R31tU4vNWrdsjNrURQX"
     },
     {
       "added_at": "2023-07-20 15:00:00",
@@ -671,24 +687,8 @@
     {
       "added_at": "2023-07-20 15:00:00",
       "album": {
-        "name": "Bokurano",
-        "url": "https://open.spotify.com/album/0dS6KlBzeDJQsWZ2Krmjhh"
-      },
-      "artists": [
-        {
-          "name": "Eve",
-          "url": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf"
-        }
-      ],
-      "duration_ms": 212708,
-      "name": "Bokurano",
-      "url": "https://open.spotify.com/track/7F3R31tU4vNWrdsjNrURQX"
-    },
-    {
-      "added_at": "2023-07-20 15:00:00",
-      "album": {
-        "name": "\u30df\u30b9\u30bf\u30fc",
-        "url": "https://open.spotify.com/album/4oGSH2U1aP0Jr0zldlMRAt"
+        "name": "\u597d\u304d\u3060",
+        "url": "https://open.spotify.com/album/1IOv9TZ1IarsEQ6RB7HEe0"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
         }
       ],
-      "duration_ms": 187000,
-      "name": "\u30df\u30b9\u30bf\u30fc",
-      "url": "https://open.spotify.com/track/2YbNZLoiREBYZo4HeKB8Np"
+      "duration_ms": 217512,
+      "name": "\u597d\u304d\u3060",
+      "url": "https://open.spotify.com/track/7537JfhvVpEqkrY2CIY7zu"
     },
     {
       "added_at": "2023-07-20 15:00:00",
@@ -807,6 +807,38 @@
     {
       "added_at": "2023-07-20 15:00:00",
       "album": {
+        "name": "Forgery",
+        "url": "https://open.spotify.com/album/6cAXnb3Ni8r1eX89OwMC2v"
+      },
+      "artists": [
+        {
+          "name": "Yupsilon",
+          "url": "https://open.spotify.com/artist/3Cl6y3KYs5OJnu7GHZJMY3"
+        }
+      ],
+      "duration_ms": 140873,
+      "name": "Forgery",
+      "url": "https://open.spotify.com/track/2itKPrLbBTKW3g1lcxTfk4"
+    },
+    {
+      "added_at": "2023-07-20 15:00:00",
+      "album": {
+        "name": "\u30df\u30b9\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/4oGSH2U1aP0Jr0zldlMRAt"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "\u30df\u30b9\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/2YbNZLoiREBYZo4HeKB8Np"
+    },
+    {
+      "added_at": "2023-07-20 15:00:00",
+      "album": {
         "name": "\u7dba\u7f85\u30ad\u30e9\u30fc",
         "url": "https://open.spotify.com/album/24HE9Q8LrZupbkTmux0U9O"
       },
@@ -823,22 +855,6 @@
       "duration_ms": 253066,
       "name": "\u7dba\u7f85\u30ad\u30e9\u30fc",
       "url": "https://open.spotify.com/track/2ZaTpgdhU8MKpiujnBGPoa"
-    },
-    {
-      "added_at": "2023-07-20 15:00:00",
-      "album": {
-        "name": "Forgery",
-        "url": "https://open.spotify.com/album/6cAXnb3Ni8r1eX89OwMC2v"
-      },
-      "artists": [
-        {
-          "name": "Yupsilon",
-          "url": "https://open.spotify.com/artist/3Cl6y3KYs5OJnu7GHZJMY3"
-        }
-      ],
-      "duration_ms": 140873,
-      "name": "Forgery",
-      "url": "https://open.spotify.com/track/2itKPrLbBTKW3g1lcxTfk4"
     }
   ],
   "unique_name": "\u592a\u967d\u3092\u898b\u3066\u3057\u307e\u3063\u305f",

@@ -4,7 +4,7 @@
 
 > Ease into the day
 
-362 songs - 21 hr 54 min
+363 songs - 21 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Eye to Eye](https://open.spotify.com/track/3VfelbVrLcwNu4b7ephZtd) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Sticking With It](https://open.spotify.com/album/4lcsKKAPES2jYFmtSyRH95) | 3:22 | 2022-03-04 |  |
 | [Face in the Scene](https://open.spotify.com/track/1oSxWP7C3ChpUzAGicKX0N) | [Black Joe Lewis & The Honeybears](https://open.spotify.com/artist/6kbzJ40luXJ5IKnSpWr7SD) | [The Difference Between Me & You](https://open.spotify.com/album/39vMDQxjFx7HO1O4YdPv5G) | 4:05 | 2020-10-17 | 2022-04-20 |
 | [Faith You Might](https://open.spotify.com/track/6UUL6mVus7dn7sw5O6Zd7p) | [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Faith You Might / In Case I Don't Feel](https://open.spotify.com/album/1xroovsaQjS7u5DmTvd0VT) | 4:12 | 2020-10-17 | 2022-07-29 |
-| [Fearless](https://open.spotify.com/track/1cU4GEpxK7Pu0RDsaQ3EAF) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Fearless](https://open.spotify.com/album/3C0mlKvUmnOGr2OOxc79ak) | 4:44 | 2023-02-17 |  |
+| [Fearless](https://open.spotify.com/track/1cU4GEpxK7Pu0RDsaQ3EAF) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Fearless](https://open.spotify.com/album/3C0mlKvUmnOGr2OOxc79ak) | 4:44 | 2023-02-17 | 2023-07-22 |
 | [Fire Away](https://open.spotify.com/track/3zaTwp8DrM5a3Ap9PZXNHD) | [Ian Santillano](https://open.spotify.com/artist/2dXwRDSHl1AmQuX73h8omy) | [1856](https://open.spotify.com/album/5DVvuVOVMErY1OEitbiitn) | 4:43 | 2020-10-17 | 2022-04-21 |
 | [Fly \(For Mike\) feat\. Brittany Howard](https://open.spotify.com/track/0qKdmI20wCPmmjSWY6wO6K) | [Nate Smith](https://open.spotify.com/artist/3C1TdpEowpf6AMf7PycuWy), [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Fly \(For Mike\) Feat\. Brittany Howard](https://open.spotify.com/album/41YY1uiKkpKySBWEpqzWpj) | 4:01 | 2021-07-21 | 2022-07-29 |
 | [for life](https://open.spotify.com/track/3wD5R5grD04FKW0zsBuiKy) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [magnolia](https://open.spotify.com/album/4lUystyYlQEstc79Eic2Q6) | 3:31 | 2020-10-17 | 2022-07-31 |
@@ -337,6 +337,7 @@
 | [Thingamajig](https://open.spotify.com/track/4YAflff8SUwLLPIUIFlfBL) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Thingamajig](https://open.spotify.com/album/32uUThcZSxa6yVzW2CrT0c) | 4:12 | 2020-10-17 | 2022-04-20 |
 | [Thinking Bout You \- acoustic](https://open.spotify.com/track/7xny8PsSulVkthmkWMCrvd) | [Rasmus Hagen](https://open.spotify.com/artist/2xE7TMnsr4hxdQW5F3urtq) | [Thinking Bout You \(acoustic\)](https://open.spotify.com/album/6UrJYGiK5bhEQ9inqkfBFY) | 3:15 | 2020-10-17 | 2022-04-18 |
 | [This Is My Home](https://open.spotify.com/track/1r6b4fRi0ISdju9oV5sioI) | [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Oklahoma](https://open.spotify.com/album/2gWSiwdkFn1t9ivEV2zPsy) | 4:53 | 2020-10-17 | 2022-04-19 |
+| [This Time](https://open.spotify.com/track/35xac9lrVm5jCNRtgxoYAS) | [Michael Carreon](https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC) | [This Time](https://open.spotify.com/album/6oOpy2bMqIoqFdK0vSfHxR) | 3:21 | 2023-07-21 |  |
 | [This Too Shall Last](https://open.spotify.com/track/0CuXzMEgFzuQhLEYQHYas4) | [Anderson East](https://open.spotify.com/artist/5q6z6GTth6lMbL9I8CAgby) | [Encore](https://open.spotify.com/album/6EIlfHDKZxmDMjcaRbFj8d) | 3:42 | 2020-10-17 | 2023-02-04 |
 | [Til You're Home \- From "A Man Called Otto" Soundtrack](https://open.spotify.com/track/4Ah5mAqvkmw5Hz2n6g5l0k) | [Rita Wilson](https://open.spotify.com/artist/60LfX8q7jliswygVxBPIL4), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Til You’re Home \(From "A Man Called Otto " Soundtrack\)](https://open.spotify.com/album/5GXMVCZstkoXrH0F021CK2) | 3:05 | 2022-12-02 |  |
 | [To Love A Man](https://open.spotify.com/track/659179UI47crJGFp0RrCwU) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [To Love A Man](https://open.spotify.com/album/2irkzjkPar5WAwxtoraDRU) | 2:41 | 2022-03-25 | 2023-06-03 |

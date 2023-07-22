@@ -4,7 +4,7 @@
 
 > 
 
-629 songs - 1 day 7 hr 24 min
+630 songs - 1 day 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [3rd Person](https://open.spotify.com/track/7zb1Sx2MUU4MJ7gAB3lnI6) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Bloodas](https://open.spotify.com/album/19YlQK3Zr5gZgEZXrmgayO) | 3:00 | 2023-03-07 |  |
 | [4Peat](https://open.spotify.com/track/05And5JRQJeIaMASE5D9Nj) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [XXXTENTACION Presents: Members Only, Vol\. 3](https://open.spotify.com/album/7ifkO4gppMVf0HNy7JJDHn) | 2:42 | 2023-01-23 |  |
 | [5% TINT](https://open.spotify.com/track/11kDth1aKUEUMq9r1pqyds) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 3:16 | 2022-12-18 |  |
+| [500lbs](https://open.spotify.com/track/1xWkeSPhf3bZqHY7Ncz8vp) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [500lbs](https://open.spotify.com/album/2Ro9gydgq5JWy7b22zPty9) | 2:24 | 2023-07-21 |  |
 | [556 \(Green Tip\)](https://open.spotify.com/track/34avwQb8IKQDlzbSwfktmv) | [iayze](https://open.spotify.com/artist/00msLVGU9crX0EC5McCiCa) | [Virtuous](https://open.spotify.com/album/1TFaFAKNXMlIeU65RasS9a) | 1:57 | 2022-08-24 |  |
 | [6:30](https://open.spotify.com/track/0KzvY1XHsfvZ5p5sUcdHSN) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p) | [6:30](https://open.spotify.com/album/6UmdJvqfSVC1MHWz95IAR3) | 2:17 | 2022-07-25 |  |
 | [6locc 6a6y](https://open.spotify.com/track/3WCXvxgQ7U3mznWsQjiEMu) | [Lil Loaded](https://open.spotify.com/artist/7scapvSjZLSm0fBgqGM0Mn) | [6locc 6a6y](https://open.spotify.com/album/6E3aLqi7SbbT7O78TNRtLP) | 2:11 | 2022-06-16 |  |

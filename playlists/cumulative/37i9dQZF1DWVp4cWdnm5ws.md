@@ -4,7 +4,7 @@
 
 > Discover new artists on the horizon this 2023.
 
-139 songs - 8 hr 45 min
+140 songs - 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [TIKTIKTOKIN](https://open.spotify.com/track/160yGlJuvJx3AnD3IXn7Am) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7) | [TIKTIKTOKIN](https://open.spotify.com/album/1WumZ7GBSO6JoTy2oMzBJs) | 2:05 | 2023-04-13 |  |
 | [Tinatangi \(feat\. Chrstn\)](https://open.spotify.com/track/5Pgssd39LAfVsR9gvUVwU7) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2), [Chrstn](https://open.spotify.com/artist/2YwTbSBUyNZTdv39z5pJNW) | [Tinatangi \(feat\. Chrstn\)](https://open.spotify.com/album/2blX1IaoX5oHe8dNb06MbE) | 4:18 | 2022-08-25 | 2022-12-01 |
 | [To Pick a Lock](https://open.spotify.com/track/2s0E9y9CCJhs9KqEcYtGx8) | [Elle Sebastian](https://open.spotify.com/artist/3tZLOm9eJAxX6Q0xkEGjWo) | [To Pick a Lock](https://open.spotify.com/album/27dbQwfPkrwR4Mn4JAH7CU) | 5:12 | 2021-11-25 | 2022-03-25 |
+| [Totoo](https://open.spotify.com/track/2xLdN3oHi4CG89H9g1DJXN) | [Kenaniah](https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS) | [Kenaniah](https://open.spotify.com/album/50ZqQAS4Cp2ATe9w1MUHB7) | 4:40 | 2023-07-21 |  |
 | [Tumitigil Ang Mundo](https://open.spotify.com/track/5fuBcv4rZP0mtjNSj3UPsk) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Tumitigil Ang Mundo](https://open.spotify.com/album/2Jg15zG5g9QnXZT0O1Wjjj) | 4:07 | 2022-07-15 | 2022-12-01 |
 | [Twin Flames](https://open.spotify.com/track/0l0m2RjO5KtBl2fZ4CgmiT) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi), [Lewis Maxwell](https://open.spotify.com/artist/5OsuXDA4kXucz8ZFujKr5T), [Ghauri](https://open.spotify.com/artist/43EGUEg0Wg5ahrwhW38qlv) | [Twin Flames](https://open.spotify.com/album/3fgOfjLn4w1J9fmVUJdNEp) | 3:38 | 2022-03-24 | 2022-10-15 |
 | [Twin Flames](https://open.spotify.com/track/3vYyA9bj5lVknfqY0PDIEb) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi), [Lewis Maxwell](https://open.spotify.com/artist/5OsuXDA4kXucz8ZFujKr5T), [Ghauri](https://open.spotify.com/artist/43EGUEg0Wg5ahrwhW38qlv) | [3rd Eye](https://open.spotify.com/album/4AD7IVbMSuXMZWES5pZCKg) | 3:38 | 2022-09-29 | 2022-12-01 |

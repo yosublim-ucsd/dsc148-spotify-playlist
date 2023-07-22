@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of pop\. Cover: Liam Ferrarri
 
-192 songs - 9 hr 46 min
+193 songs - 9 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,6 +137,7 @@
 | [OK](https://open.spotify.com/track/2RSAu3AGDi2sPhYEjSZmzv) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [OK](https://open.spotify.com/album/15kgnv34kf8eRCpNWZl79V) | 4:23 | 2023-06-15 | 2023-06-30 |
 | [On My Own](https://open.spotify.com/track/581RQr3HXrnCbVqfwmRnEj) | [Ricki\-Lee](https://open.spotify.com/artist/07lgEPGfoA4Lqos6YGYPDU) | [On My Own](https://open.spotify.com/album/6iJaI3mbYF4tlPPUnAhJ2l) | 3:04 | 2023-06-15 | 2023-07-07 |
 | [One Condition](https://open.spotify.com/track/4DINlwRuT0YxROtUJrudQF) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Mercurial \(Deluxe\)](https://open.spotify.com/album/7ujVKxJz8UhQG8dLlUFoMP) | 3:18 | 2023-06-15 | 2023-07-14 |
+| [Ordinary Girl](https://open.spotify.com/track/3PstsCDCVAdTaPUauGS1fR) | [Mason & Julez](https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB), [Chantel](https://open.spotify.com/artist/3qZ9DxnCiqZ0WPrypZFhkx) | [Ordinary Girl](https://open.spotify.com/album/4ihF0Au6FTBrJtJjVrVKUE) | 2:59 | 2023-07-20 |  |
 | [Over The Moon](https://open.spotify.com/track/4hO2oP5JnkSHHBdLEPRWcV) | [Eddie Benjamin](https://open.spotify.com/artist/1AaSeUFzwt47HhkGtWE1xn) | [Weatherman](https://open.spotify.com/album/1ZffRASy91eeruaNOasuJ4) | 2:41 | 2023-06-15 |  |
 | [Overdrive](https://open.spotify.com/track/3t0ic4mkhvhamrKDkulB8v) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Overdrive](https://open.spotify.com/album/4zHb7PAazMdVXw2sOCNJ1V) | 2:27 | 2023-07-13 |  |
 | [overthinking about you](https://open.spotify.com/track/3uxPJckvg3g5B686iNgqXU) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [overthinking about you](https://open.spotify.com/album/6HoiPGlbAGOrJRJ5ZRVnzn) | 3:16 | 2023-07-06 |  |

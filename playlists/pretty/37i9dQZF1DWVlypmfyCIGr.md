@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: Nissy
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,396 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,409 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 30 | [TYO](https://open.spotify.com/track/1NSQOGIHMnUuaMjOejhwdi) | [A.Y.A](https://open.spotify.com/artist/4OZ4FDPU8MWXKAZgmijgML), [KRICK](https://open.spotify.com/artist/4vD5wi2rLVnQoXKspx48x2) | [TYO](https://open.spotify.com/album/34e8VokCKUTEZfSvJcetgm) | 3:46 |
 | 31 | [フラチナサマー](https://open.spotify.com/track/3NccIqEokpUcANIHmBpQ0H) | [ExWHYZ](https://open.spotify.com/artist/0xOkccCl0pVdhuLBpcHDJx) | [フラチナサマー](https://open.spotify.com/album/7DYJmcsiaXVEXeIxpg5H3K) | 3:37 |
 | 32 | [修羅だってクラスメイト](https://open.spotify.com/track/1kpObJxRAUgfv49R96pzRP) | [The Otals](https://open.spotify.com/artist/2L8w8wwNFtKVGd9CLkicfe), [eureka](https://open.spotify.com/artist/7oUqP2q81T2SIUBoJjippe) | [修羅だってクラスメイト](https://open.spotify.com/album/0EnNucQLOsbYInAA8HMK8w) | 3:21 |
-| 33 | [room](https://open.spotify.com/track/4YSVAmT5iefWe7ijK2whVJ) | [MONONOKE](https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x) | [room](https://open.spotify.com/album/5hzQTrpg7auHz2yZDCH84v) | 3:45 |
+| 33 | [room](https://open.spotify.com/track/3kievy1iOkwTxa36cLSzPY) | [MONONOKE](https://open.spotify.com/artist/145u2V6RMbtZv0taOhfR6x) | [Supply/Demand](https://open.spotify.com/album/66GKqO8pdJu5J32LyIqZ2v) | 3:45 |
 | 34 | [あー](https://open.spotify.com/track/5fyOjX7LRdlOZMI8KRgOns) | [wewewe](https://open.spotify.com/artist/5JTg5GgAQ6tHnqvU2sSFOm), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [あー](https://open.spotify.com/album/4hbgY0J5OT5OzbH4MngdU0) | 2:10 |
 | 35 | [uragaeshi](https://open.spotify.com/track/63uiuhPamIBf8Pd3mChKAs) | [LioLan](https://open.spotify.com/artist/0cOeltjiLyEirwTTtaah11) | [uragaeshi](https://open.spotify.com/album/0OkEz2EelO9b1rwM2U93fK) | 3:00 |
 | 36 | [FACE VALUE](https://open.spotify.com/track/5SaWYjYAgY73r1q7l6eljY) | [MÖSHI](https://open.spotify.com/artist/5eRdc4bAdvKiEs0lUT6UDi) | [I'VE GOT EVERYTHING BUT YOU](https://open.spotify.com/album/3tzBQQVeW3nSv0H4R2BHSB) | 2:39 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [That I](https://open.spotify.com/track/53UazAHPCpRwkrsGBEIZzV) | [D.B.Inches](https://open.spotify.com/artist/7KEhGKSsPLAgoNLnRG6bd8) | [That I](https://open.spotify.com/album/4l3WEaz9RRGERXY9h5MMjP) | 3:42 |
 | 80 | [Treat Her Like A Lady](https://open.spotify.com/track/0I8yEn2GjxeRsWyqkQSG7j) | [NITE RIDERS](https://open.spotify.com/artist/23uVl1SWaq5w1mpnj9vFsB) | [Treat Her Like A Lady](https://open.spotify.com/album/0ArGC1m5Eps26krLcUSkvQ) | 4:42 |
 
-Snapshot ID: `MCw1N2JiMGVhNzIyOGUyYzdmNDZhOWMyZGZjYTQwNTE1MWJlZmU0ODI3`
+Snapshot ID: `MCw1OGJiZjhjMmYzZTc1MzgyNDA2OTc5ZjY2Y2E3M2EzYTlkYWQxODA4`

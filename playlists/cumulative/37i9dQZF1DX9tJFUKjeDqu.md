@@ -4,7 +4,7 @@
 
 > Soft, instrumental blues to help you concentrate.
 
-130 songs - 8 hr 17 min
+131 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Blues Boys Tune](https://open.spotify.com/track/63wEUQ8SN2S8nx2r21zTnl) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Blues On The Bayou](https://open.spotify.com/album/5niyTbKPj1WYWj8fVVLq0r) | 3:29 | 2022-04-15 |  |
 | [Blues For Alice](https://open.spotify.com/track/1T0NR2hR4sN25nBZymmdIH) | [Andie Wiess](https://open.spotify.com/artist/2ftzvO6OIPDrv4Fh7jMNFX) | [Everyday Life](https://open.spotify.com/album/6ONxs1fsb1I7muzUy34dbH) | 2:39 | 2022-12-02 | 2023-06-10 |
 | [Blues for Magic Sam](https://open.spotify.com/track/2fZjnNYEvJO76sc6kqN24z) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [The Luckiest Man](https://open.spotify.com/album/5bj6EpqoaEgKeaEH6Qivnh) | 5:24 | 2022-04-15 | 2022-07-29 |
-| [Blues for Magic Sam](https://open.spotify.com/track/5NL35eMxSFu4gUrztjuww6) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [The Luckiest Man](https://open.spotify.com/album/4wf5RpT8tm8BrgfuRmjojU) | 5:24 | 2022-07-08 |  |
+| [Blues for Magic Sam](https://open.spotify.com/track/5NL35eMxSFu4gUrztjuww6) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [The Luckiest Man](https://open.spotify.com/album/4wf5RpT8tm8BrgfuRmjojU) | 5:24 | 2022-07-08 | 2023-07-22 |
 | [Blues for Rj](https://open.spotify.com/track/4XSj02UDZIGVm0ZHHY9o4H) | [Paul Lenart](https://open.spotify.com/artist/5hNtEnm2mJ5CeXCLpxWHI0), [Geoff Bartley](https://open.spotify.com/artist/2B6pHv1CQAmCQBN7OrTlGB) | [Folk & Blues Guitar](https://open.spotify.com/album/5IdfA8A5wIiNFRG557NLs2) | 1:52 | 2022-05-27 |  |
 | [Blues For Ruthie Foster](https://open.spotify.com/track/6DVDYuQPe6XIC21qDUKhzR) | [Ronnie Earl](https://open.spotify.com/artist/7xjcFAzlxdwPCfWi3VOuxU), [The Broadcasters](https://open.spotify.com/artist/2qFpRpyF3BTmEGS4V5sXpH) | [Mercy Me](https://open.spotify.com/album/1wSy1a6XpkddFp8R8yHeyj) | 5:23 | 2022-04-15 |  |
 | [Blues On 5th Avenue](https://open.spotify.com/track/2AmEPE041ByXKpMuNGlfPf) | [Patrick Yandall](https://open.spotify.com/artist/4sdBlhjR2yhvidXrNrzimI) | [Of Two Cities](https://open.spotify.com/album/7iWSzyoy9SrCmIIRAY9s1w) | 5:14 | 2022-04-15 |  |
@@ -53,6 +53,7 @@
 | [Eric After Hours Blues](https://open.spotify.com/track/6gHzcDHbcoGgvoGAtcTq94) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [461 Ocean Blvd\. \(Deluxe Edition\)](https://open.spotify.com/album/408nODJ1r3nO7f3qWkCrCB) | 4:21 | 2022-04-15 |  |
 | [Everyday Life](https://open.spotify.com/track/60KGmrdtu2NOhVJNpHuJQs) | [Andie Wiess](https://open.spotify.com/artist/2ftzvO6OIPDrv4Fh7jMNFX) | [Everyday Life](https://open.spotify.com/album/6ONxs1fsb1I7muzUy34dbH) | 2:25 | 2022-12-02 | 2023-06-10 |
 | [Five Pop Tunes II: Bluesy](https://open.spotify.com/track/3pPOTu0HzLBnfNBvGDK86v) | [Daniel Murray](https://open.spotify.com/artist/0nK5viu6PiGYoeBiTTHTOk) | [Five Pop Tunes](https://open.spotify.com/album/3l0le9nsDpokAmAlWCfiex) | 2:18 | 2022-04-15 |  |
+| [Five Star Day](https://open.spotify.com/track/4aKLpPhtOiNV0mhSQmhBvr) | [Will Harrison](https://open.spotify.com/artist/01vcSVQOpFHutiYq0lrBwt) | [Tales of the Delta](https://open.spotify.com/album/19i2DMKG833LoDi7nYWNm3) | 2:57 | 2023-07-21 |  |
 | [For Ellie](https://open.spotify.com/track/6k0pWHW5jhKtN2NRJCJ3OC) | [Lenny Carr](https://open.spotify.com/artist/6gD9OrQdOh7VIuURzoFadV) | [For Elli](https://open.spotify.com/album/4Q9BQAQ35HMHEFmdG4LwgW) | 2:25 | 2023-03-17 |  |
 | [Ghost of the Mountain](https://open.spotify.com/track/4cwQ5XhN8p6UkUUYj8hPp2) | [Justin Johnson](https://open.spotify.com/artist/151RUyDTIDJM8gXwGJbv7z) | [The Bootleg Series, Vol\. 3: Son of a Witch](https://open.spotify.com/album/6RT8HJmp4VKpA7WfTdJT67) | 5:38 | 2022-04-15 |  |
 | [Good Times](https://open.spotify.com/track/4YLLXJnKBQmYVC0XXvR1XS) | [Brian Grey](https://open.spotify.com/artist/0anlv8wmuRThghL7Fw4xDS) | [Bittersweet](https://open.spotify.com/album/286Ej4KKpT8Fc02kMA1MBf) | 4:33 | 2022-04-15 |  |

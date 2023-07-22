@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZzMQgXnSUD.md) - [plain]
 
 > "Bond..\. James Bond." Cover: <a href="spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH">Billie Eilish</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,491 likes - 28 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,525 likes - 28 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZzMQgXnSUD.md) - [plain]
 | 27 | [On Her Majesty's Secret Service \- Remastered](https://open.spotify.com/track/3M0zi8iD2KRzY71XcGFUpE) | [John Barry](https://open.spotify.com/artist/7ctAOUlIAs7yuMODWE2Fyz) | [On Her Majesty's Secret Service \(Expanded Edition\)](https://open.spotify.com/album/4BVd2gkQNWj30YN5P3r8Av) | 2:35 |
 | 28 | [Moonraker](https://open.spotify.com/track/0XCszZIzEncBpgAMkKoDB2) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [Bassey \- The EMI/UA Years 1959\-1979](https://open.spotify.com/album/5aoxGBTOftx2uzyWGRKtxL) | 3:09 |
 
-Snapshot ID: `MCxhNzM2ZTIwZjE4NzM3NDlkMzBhNDI4ODViZjg2ODQ4OTU3M2ZlYjY4`
+Snapshot ID: `MCwyNzRhM2NjZDYyMTU0ODAyNzE2ZjQ2ZDk2OGQ4NTI4OTMwZjFiNTJm`

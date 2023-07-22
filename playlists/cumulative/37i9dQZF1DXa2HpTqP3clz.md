@@ -2,9 +2,9 @@
 
 ### [Grass Roots](https://open.spotify.com/playlist/37i9dQZF1DXa2HpTqP3clz)
 
-> Today's Bluegrass and old time favorites Cover: Dan Tyminski
+> Today's Bluegrass and old time favorites Cover: Molly Tuttle & Golden Highway
 
-449 songs - 1 day 3 hr 2 min
+450 songs - 1 day 3 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,6 +179,7 @@
 | [Honey Chile](https://open.spotify.com/track/2WK1OSe83Ik3dNqMkDoOzN) | [Old Crow Medicine Show](https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi) | [Honey Chile](https://open.spotify.com/album/3lQq46iProBNWmiadw2zRA) | 3:49 | 2022-03-11 | 2022-08-27 |
 | [Honey on My Tongue](https://open.spotify.com/track/00o39BbfnwhIZIhfsAGCBH) | [Steep Canyon Rangers](https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O) | [Arm in Arm](https://open.spotify.com/album/3sCoWuRHi9W0NwFpPMymlR) | 3:23 | 2023-04-28 |  |
 | [Honey on My Tongue](https://open.spotify.com/track/7dWU9dceisIvOkZuteFl1A) | [Steep Canyon Rangers](https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O) | [Honey on My Tongue](https://open.spotify.com/album/05H2cjz5UyKcNXkZAVw0vn) | 3:23 | 2021-12-17 | 2023-04-23 |
+| [Honky Tonk Nights](https://open.spotify.com/track/4tmkIG5XC53MyN7NBeTXcp) | [The Del McCoury Band](https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Almost Proud](https://open.spotify.com/album/5DlbNGFefCiS7JOMEPn6VP) | 2:32 | 2023-07-21 |  |
 | [Honky Tonk Nights](https://open.spotify.com/track/6w5sfhQvpDZlX0VR7DOGlo) | [The Del McCoury Band](https://open.spotify.com/artist/2fj5pzLyOKDpUOPZs9q3wt), [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [Honky Tonk Nights](https://open.spotify.com/album/4WDoHt0SSkLphP0oeNPUgf) | 2:32 | 2022-02-18 | 2022-07-26 |
 | [Hope You Hang Around](https://open.spotify.com/track/6DDOFj28fEmVOBC4RrtTqi) | [Maddie Denton](https://open.spotify.com/artist/2VWdN1zfWmZuG7dK7EgSaF), [James Kee](https://open.spotify.com/artist/081gIx8mUDlpJqrYq1Xmk8) | [Hope You Hang Around](https://open.spotify.com/album/2ghP3tKOIQEpdKwik2q2Rz) | 3:52 | 2021-12-17 | 2022-07-11 |
 | [How Do You Know?](https://open.spotify.com/track/1lbWWjbEQsnbERCHRTsekV) | [The Infamous Stringdusters](https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW) | [Toward the Fray](https://open.spotify.com/album/1KgFumBjY2NoJBASoLt4Ww) | 3:58 | 2022-03-25 | 2022-07-26 |
@@ -389,7 +390,7 @@
 | [The Place that I Call Home](https://open.spotify.com/track/39W90PjYGoryz9JaVuIK54) | [Circus No\. 9](https://open.spotify.com/artist/7EajkJlvOR5KiUni4v4xZu) | [Circus No\. 9](https://open.spotify.com/album/18TiTJrpGISf5ALIcr0doS) | 3:32 | 2022-07-08 | 2022-08-23 |
 | [The Seeker](https://open.spotify.com/track/2vIaCDb7ZVDCtcReCMthKP) | [Julie and Dan](https://open.spotify.com/artist/01Pk9rWj3jvIFILsJmXl7c), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Hymns\-Some Of Old, Some Of New](https://open.spotify.com/album/7f5asZCvsayLsxzQtr8aJs) | 3:49 | 2022-05-27 | 2023-05-16 |
 | [The Train That Carried My Girl From Town](https://open.spotify.com/track/2GGekGcN4bEXpifmlSzEi9) | [The Earls Of Leicester](https://open.spotify.com/artist/7fFA5wvCHgJ4SIqCuIYFNm) | [Rattle & Roar](https://open.spotify.com/album/5yktofvNIfkzNsMiQ0UFnV) | 2:46 | 2021-12-17 | 2022-03-12 |
-| [The Trappings](https://open.spotify.com/track/0gzzJTHTrLcPl6dUwROF7Z) | [Stuart Duncan](https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2), [Edgar Meyer](https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD), [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Not Our First Goat Rodeo](https://open.spotify.com/album/4NDXeXypRq8YdFCKqg4sAn) | 3:39 | 2021-12-17 |  |
+| [The Trappings](https://open.spotify.com/track/0gzzJTHTrLcPl6dUwROF7Z) | [Stuart Duncan](https://open.spotify.com/artist/53pmIwVqcTM68qW6PVhjW2), [Edgar Meyer](https://open.spotify.com/artist/7jkhwa4XMe9XSt1r0AWNqD), [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa), [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Not Our First Goat Rodeo](https://open.spotify.com/album/4NDXeXypRq8YdFCKqg4sAn) | 3:39 | 2021-12-17 | 2023-07-22 |
 | [The Way It All Began](https://open.spotify.com/track/7aa9ykTB7F7vuvo9osqkTo) | [The Lonely Heartstring Band](https://open.spotify.com/artist/3d7YNQ39OxBxWOn1VX4J26) | [Smoke & Ashes](https://open.spotify.com/album/7MMlKMU5tcTzByq993LdyZ) | 3:38 | 2021-12-17 | 2022-06-10 |
 | [The Way It Was Before](https://open.spotify.com/track/4LvIYRvuEd3Vj0cUkgaYyS) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Family Reunion](https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv) | 4:07 | 2021-12-17 | 2022-07-20 |
 | [These Ole Blues](https://open.spotify.com/track/7v773znNvjE1Gx6cIgcmYA) | [Missy Raines](https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep), [Danny Paisley](https://open.spotify.com/artist/3Pp575HZ7OzFO8xZZtB4Vi), [Darol Anger](https://open.spotify.com/artist/2Qu0gRrkqyff7e7JXOVNWf), [Shad Cobb](https://open.spotify.com/artist/7jOAerTS5LBS24HXDrD58u), [Ellie Hakanson](https://open.spotify.com/artist/2Co6Ms0rTsymHegZCNVWIu) | [These Ole Blues](https://open.spotify.com/album/7pOUqo4VhWgWlHCGCzGoaS) | 4:15 | 2023-07-08 |  |

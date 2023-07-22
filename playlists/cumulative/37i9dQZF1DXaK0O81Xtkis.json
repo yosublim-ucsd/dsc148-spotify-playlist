@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "make it pop! cover: Blusher",
+  "description": "make it pop! cover: charlieonafriday",
   "name": "soda",
   "tracks": [
     {
@@ -664,7 +664,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 126233,
       "name": "Ant Pile",
       "url": "https://open.spotify.com/track/2hR3npB7rQOqRXS4yISzFs"
@@ -1496,7 +1496,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 192106,
       "name": "Buzzkill Baby",
       "url": "https://open.spotify.com/track/5ylZhwfwtqtACJ9IDYnKkA"
@@ -1550,7 +1550,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 204055,
       "name": "Call It Like It Is",
       "url": "https://open.spotify.com/track/1KtpAFiSZ9WO5RYI7F752Y"
@@ -2961,6 +2961,24 @@
     },
     {
       "album": {
+        "name": "Driving",
+        "url": "https://open.spotify.com/album/0lzkAvzMvBddebjkEqsn3e"
+      },
+      "artists": [
+        {
+          "name": "Tyler Shaw",
+          "url": "https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Driving",
+      "url": "https://open.spotify.com/track/2Q3LZMVppaxai3TTHVxozT"
+    },
+    {
+      "album": {
         "name": "dry eyes",
         "url": "https://open.spotify.com/album/02tDOiDAvupt4ZvwauY44b"
       },
@@ -2972,7 +2990,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 165834,
       "name": "dry eyes",
       "url": "https://open.spotify.com/track/5XILrkEOLaiQR5nFjHx7Hj"
@@ -3098,7 +3116,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 197647,
       "name": "easier said",
       "url": "https://open.spotify.com/track/4gyOWF9N3bPBTpZj2a0F0R"
@@ -3480,7 +3498,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 198146,
       "name": "Fireworks",
       "url": "https://open.spotify.com/track/4vs2mQsCkcQCNeRzUDRTyE"
@@ -3541,6 +3559,24 @@
     },
     {
       "album": {
+        "name": "Forever & Again (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/0PHUzNM9vbkW3EMUiKOxo7"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139410,
+      "name": "Forever & Again (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/6Ky8ROf2VWY5vwoGfMet7x"
+    },
+    {
+      "album": {
         "name": "Frank Ocean",
         "url": "https://open.spotify.com/album/0b2NhFLMS1EhbIyFCZzE3R"
       },
@@ -3570,7 +3606,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 173263,
       "name": "Free Love",
       "url": "https://open.spotify.com/track/3hX0cncUUZ3A6cx9w1dW4w"
@@ -4552,7 +4588,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 146250,
       "name": "Hello My Name Is",
       "url": "https://open.spotify.com/track/3ekyM2RKssRCbqVhrVt2R0"
@@ -4859,6 +4895,28 @@
     },
     {
       "album": {
+        "name": "House on a Hill (feat. Em Beihold)",
+        "url": "https://open.spotify.com/album/7uitFkWZtfoUki1y2C9o8Q"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        },
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198986,
+      "name": "House on a Hill (feat. Em Beihold)",
+      "url": "https://open.spotify.com/track/2sGlzNEN74khZtPK57lfuq"
+    },
+    {
+      "album": {
         "name": "How A Man Dies",
         "url": "https://open.spotify.com/album/1lToLshywdyoNMqRqUWDHg"
       },
@@ -4942,7 +5000,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 143573,
       "name": "How Does It Feel",
       "url": "https://open.spotify.com/track/1KNYCbS2hGara6pzGCa2Ui"
@@ -4996,7 +5054,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 195221,
       "name": "Hyperfixations",
       "url": "https://open.spotify.com/track/538Ouxq5iceDnEX9k87hQR"
@@ -5414,7 +5472,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 128528,
       "name": "i still love you",
       "url": "https://open.spotify.com/track/2pmC5ZU6O9HIBYi2ORfGR2"
@@ -5562,6 +5620,24 @@
       "duration_ms": 201945,
       "name": "I'll Call You Mine",
       "url": "https://open.spotify.com/track/0RQoxryvRJZD9CShaRLASb"
+    },
+    {
+      "album": {
+        "name": "I\u2019m Not Crazy",
+        "url": "https://open.spotify.com/album/193T8nOZCynXr5GHbC5UzO"
+      },
+      "artists": [
+        {
+          "name": "charlieonnafriday",
+          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161712,
+      "name": "I'm Not Crazy",
+      "url": "https://open.spotify.com/track/3fiMmMyvoBGjfU9BWkTNWM"
     },
     {
       "album": {
@@ -5836,7 +5912,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 206000,
       "name": "In The Night",
       "url": "https://open.spotify.com/track/30Lcy59RiXJKMVVkwhfdle"
@@ -5854,7 +5930,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-25",
+      "date_removed": null,
       "duration_ms": 163738,
       "name": "Infinitely Falling",
       "url": "https://open.spotify.com/track/7KWf7gZ05NciRE6SXZveds"
@@ -5970,7 +6046,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 177479,
       "name": "i\u2019m sorry",
       "url": "https://open.spotify.com/track/3Q0ML7kvjcGOr9QnvfDz8a"
@@ -7520,7 +7596,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 137933,
       "name": "Moneymaker",
       "url": "https://open.spotify.com/track/5f18AcRmbxcTxd4ehOXuYI"
@@ -7754,7 +7830,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 195104,
       "name": "Naive",
       "url": "https://open.spotify.com/track/15INtZYXu2P3gna6hPigIg"
@@ -8434,7 +8510,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 171562,
       "name": "Other Side of the Moon",
       "url": "https://open.spotify.com/track/0inCk0sUhCu1PBscUmSvez"
@@ -8474,7 +8550,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 181135,
       "name": "Out Of My League",
       "url": "https://open.spotify.com/track/7vAMRzLhIxvRGwmyKm3tlk"
@@ -8748,7 +8824,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 176349,
       "name": "Pineapple Sunrise",
       "url": "https://open.spotify.com/track/5L5n7lyXiTR2soMhCQel6n"
@@ -8950,7 +9026,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 149118,
       "name": "Precious",
       "url": "https://open.spotify.com/track/3VdAHgjdtCYkuYP1erMWqi"
@@ -9304,6 +9380,24 @@
       "duration_ms": 160500,
       "name": "Room 421",
       "url": "https://open.spotify.com/track/4R4Ha6DCyGFP30FjWwrkZl"
+    },
+    {
+      "album": {
+        "name": "The Last Songs I'll Write About You (for real)",
+        "url": "https://open.spotify.com/album/49uA6OX4uL1St7ZPWJ4kGD"
+      },
+      "artists": [
+        {
+          "name": "BL\u00dc EYES",
+          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220305,
+      "name": "Ruin My Life",
+      "url": "https://open.spotify.com/track/64239Uo0wTZHwUVipPzBbw"
     },
     {
       "album": {
@@ -9696,7 +9790,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 141218,
       "name": "Shut Me Up",
       "url": "https://open.spotify.com/track/1XuushYZmiAuKpPYTj7p3v"
@@ -9754,6 +9848,24 @@
       "duration_ms": 177400,
       "name": "Shut Up And Kiss Me",
       "url": "https://open.spotify.com/track/2qg2TSSsquBluOPeUubLw3"
+    },
+    {
+      "album": {
+        "name": "Sick",
+        "url": "https://open.spotify.com/album/0o3P3GLyICEL3NIKT1Gv6J"
+      },
+      "artists": [
+        {
+          "name": "Aidan Bissett",
+          "url": "https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136828,
+      "name": "Sick",
+      "url": "https://open.spotify.com/track/2wkCeD6tK0MEubHoVtetAe"
     },
     {
       "album": {
@@ -10206,7 +10318,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 173658,
       "name": "Stargirl",
       "url": "https://open.spotify.com/track/4aG9dDt76InHPsbv55xz1w"
@@ -10242,7 +10354,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 171428,
       "name": "start again",
       "url": "https://open.spotify.com/track/3pkacg4CSnP4i0K907SODj"
@@ -12163,6 +12275,24 @@
     },
     {
       "album": {
+        "name": "We Can Be Anything",
+        "url": "https://open.spotify.com/album/0jTdh2q5QfILFuokmCNyHn"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201047,
+      "name": "We Can Be Anything",
+      "url": "https://open.spotify.com/track/2Tuaa6mlnDZ7vJhtdQ8ZSw"
+    },
+    {
+      "album": {
         "name": "We Were Happy",
         "url": "https://open.spotify.com/album/3xVHRG63cyad5JznT2AxfJ"
       },
@@ -12210,7 +12340,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 199367,
       "name": "wear your heart out",
       "url": "https://open.spotify.com/track/4yjtj2Xjgk1GXK81RB52hX"

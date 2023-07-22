@@ -4,7 +4,7 @@
 
 > Grandes relatos de toque reflexivo y visión consciente\. Cancerbero en portada.
 
-78 songs - 5 hr 0 min
+80 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Chismecito](https://open.spotify.com/track/0wNttLizMxBKYLStz1BcUJ) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [Rebeca Lane](https://open.spotify.com/artist/7pTTcZQa4DzCKdoyuiPfsq), [Audry Funk](https://open.spotify.com/artist/7eWbFrseRms5D5quwPDkm2), [Leyton Eme](https://open.spotify.com/artist/24cy89SjdcdhU4EfgR981Y), [La Negra MeXa](https://open.spotify.com/artist/0wF1oTllq50PkLfPBjiQDh) | [Chismecito](https://open.spotify.com/album/2zTbfSL1kATlFLVO4hNMy2) | 3:37 | 2023-04-14 |  |
 | [Cinismo](https://open.spotify.com/track/7MkRllZkWyzhJdngE7Twqn) | [Dante](https://open.spotify.com/artist/2hDnlqxEGmcq74MAfO9iEX) | [Cinismo](https://open.spotify.com/album/4Txc6DkgtPrb6egjusUk3M) | 2:26 | 2023-04-14 |  |
 | [Cuando Vayas Conmigo](https://open.spotify.com/track/1FPr4bsL5xaF4pRHoxvfJf) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Can + Zoo Índigo](https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM) | 4:19 | 2023-04-14 |  |
+| [Cuarto De Siglo](https://open.spotify.com/track/3eTgegtLXfjpr0IY2E2AKg) | [Skool 77](https://open.spotify.com/artist/1XrrYgyQChyeEcHCG6AByX), [Zaheed Santana](https://open.spotify.com/artist/4U6A7XTrz6J9D7FKHvkCMQ), [Ximbo](https://open.spotify.com/artist/0RjHsbbdfnI3okpxdZ2JOV) | [Cuarto De Siglo](https://open.spotify.com/album/22VXblIBThalOjB8xPsXWJ) | 4:04 | 2023-07-21 |  |
 | [De Mi Muerte](https://open.spotify.com/track/14OCjeksnltHj3ttKoiwtz) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Muerte](https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12) | 3:41 | 2023-04-14 |  |
 | [De Pie](https://open.spotify.com/track/5ZMaPmxqbpSrNtVAW9Y0ny) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [De Pie](https://open.spotify.com/album/2TvpFp1QIvnAlPpejVMcVY) | 4:28 | 2023-04-14 |  |
 | [Deja](https://open.spotify.com/track/6Kc4xRgbOxNqoVoXIP6h4e) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl), [ALI Prod.](https://open.spotify.com/artist/3dF74LMMxII0PDwlMXaPEu) | [Mestizo](https://open.spotify.com/album/3q3CUqz2XqQwDOFjmWphbw) | 3:31 | 2023-04-14 |  |
@@ -64,6 +65,7 @@
 | [Más & Menos](https://open.spotify.com/track/3JccwWX1NKkIGQYppnjtCA) | [Akil Ammar](https://open.spotify.com/artist/6lOqlvNZmpkmHNN1Ud4KXr), [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Más & Menos](https://open.spotify.com/album/6PF5Nfua8PnfihIwSxdwus) | 4:29 | 2023-04-14 |  |
 | [Nada Es para Siempre](https://open.spotify.com/track/7wEwIfmRcpChjEQUemMAr4) | [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ) | [Antologia de la Calle](https://open.spotify.com/album/3cTEYwaE5QBzS7Qvoq7ZW0) | 4:12 | 2023-04-14 |  |
 | [Nosotras Tenemos Otros Datos](https://open.spotify.com/track/1NmW3KNBImwfO6ej91vpHv) | [Masta Quba](https://open.spotify.com/artist/6huE8Sh7scgoA8rj2vCuwZ), [P\. Jaguar](https://open.spotify.com/artist/0dtzsqGSEudST19Mq6ilvB) | [Nosotras Tenemos Otros Datos](https://open.spotify.com/album/5c9LTfH3OcFIRHuaecGOm4) | 3:21 | 2023-04-14 |  |
+| [Origen](https://open.spotify.com/track/293p8igLtACWCeDhXohcnC) | [Mecal](https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5) | [Origen](https://open.spotify.com/album/63uuT0VHOyDaQvxUhytGpO) | 5:47 | 2023-07-21 |  |
 | [Prometo](https://open.spotify.com/track/6KhHjRqNsyY8IUH0A8besf) | [Bronko Yotte](https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7), [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX), [Dj Perez](https://open.spotify.com/artist/4pYx5PDavOZqKec3vIX9Xr) | [Gala](https://open.spotify.com/album/7DrW3wQ0xdLqFyaVXI19Y6) | 3:03 | 2023-04-14 |  |
 | [Puño en alto](https://open.spotify.com/track/7LDGnBJMPWHDgK3cwg22Dt) | [Se Armó Kokoa](https://open.spotify.com/artist/3f5hWBbWztRztAVtcYIsGO), [Alika](https://open.spotify.com/artist/0w32WixD69mKW0O6bYwRCt) | [Puño en alto](https://open.spotify.com/album/1mkNZzRhNSzZ59g67slzGo) | 4:07 | 2023-06-23 |  |
 | [Rap Conciencia](https://open.spotify.com/track/3M48BctVohfGJzssuAkAQQ) | [Rap Mexicano](https://open.spotify.com/artist/5E9kASoi5uJLs9viQAqZtq) | [Rap Conciencia](https://open.spotify.com/album/5YEwp3uA18quk8jO4w9klu) | 2:30 | 2023-04-14 |  |

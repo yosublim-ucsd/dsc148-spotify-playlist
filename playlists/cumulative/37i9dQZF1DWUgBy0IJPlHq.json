@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A new shade of Country. Cover: Colter Wall",
+  "description": "A new shade of Country. Cover: Uncle Lucius ",
   "name": "Indigo",
   "tracks": [
     {
@@ -426,6 +426,24 @@
       "duration_ms": 209126,
       "name": "All My Love Is Coming Back To Me",
       "url": "https://open.spotify.com/track/3Nc53UVSUBvYjuhuNouvfi"
+    },
+    {
+      "album": {
+        "name": "All That I Have",
+        "url": "https://open.spotify.com/album/5RxnteviK3YPjM7VFmkl51"
+      },
+      "artists": [
+        {
+          "name": "Sam Barber",
+          "url": "https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168300,
+      "name": "All That I Have",
+      "url": "https://open.spotify.com/track/40ukFTH8s3ELTyGF25P1R7"
     },
     {
       "album": {
@@ -992,7 +1010,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 191919,
       "name": "Boots Mine Gold",
       "url": "https://open.spotify.com/track/7ACy8muxyMV2T72wNVDk3k"
@@ -2972,7 +2990,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 168428,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/2U8gE23QKFcJKNtOE39f50"
@@ -6300,6 +6318,24 @@
       "duration_ms": 192539,
       "name": "Roll",
       "url": "https://open.spotify.com/track/28qparr2ZgSP8cq45EJc87"
+    },
+    {
+      "album": {
+        "name": "Rudolph",
+        "url": "https://open.spotify.com/album/0R2NgA8mg7wRzqpO0dLia1"
+      },
+      "artists": [
+        {
+          "name": "MJ Lenderman",
+          "url": "https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211348,
+      "name": "Rudolph",
+      "url": "https://open.spotify.com/track/7kTUoMrKA0duKYHWliWW7k"
     },
     {
       "album": {

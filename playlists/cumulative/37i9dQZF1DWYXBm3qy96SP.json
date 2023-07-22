@@ -1466,10 +1466,28 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 227826,
       "name": "De Selby (Part 2)",
       "url": "https://open.spotify.com/track/20kkA2JHtAF5J7iz89iOuB"
+    },
+    {
+      "album": {
+        "name": "De Selby (Part 2)",
+        "url": "https://open.spotify.com/album/5xq7nQjOBcUnOyRMkBLnaM"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227826,
+      "name": "De Selby (Part 2)",
+      "url": "https://open.spotify.com/track/4SFNe716eUbgX1XvGCTBu7"
     },
     {
       "album": {
@@ -2610,10 +2628,28 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-22",
       "duration_ms": 233512,
       "name": "Girl On the Billboard",
       "url": "https://open.spotify.com/track/4k3F6QViEuPn6Kuvey5gtd"
+    },
+    {
+      "album": {
+        "name": "Girl On The Billboard",
+        "url": "https://open.spotify.com/album/0uS3NOMvCfDF7rJAXSwuq9"
+      },
+      "artists": [
+        {
+          "name": "Brian Setzer",
+          "url": "https://open.spotify.com/artist/4xiBg5AwhlWtuxAJO9rO6f"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233512,
+      "name": "Girl On The Billboard",
+      "url": "https://open.spotify.com/track/7yobbRPbQ16iIhtlcYN9nn"
     },
     {
       "album": {

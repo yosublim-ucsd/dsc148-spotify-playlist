@@ -1,18 +1,18 @@
 {
   "description": "Gazing at pedals, soaring celestially high. Slowdive on cover.",
-  "num_followers": 88645,
+  "num_followers": 89082,
   "original_name": "Shoegaze Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWRlZjEwODExZDQyYTc2NjZmYWUwZWE4Nzk3MzU0M2RhZTE5Yzdk",
+  "snapshot_id": "MCw0MjliYTU2NDM1MGRhM2I5NzZkZjI0OWQ0MWViMThlMDQzMjBlYzk1",
   "tracks": [
     {
-      "added_at": "2023-06-20 17:08:59",
+      "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "kisses",
-        "url": "https://open.spotify.com/album/4joudQPrYtB8axFgge6MSj"
+        "name": "skin in the game",
+        "url": "https://open.spotify.com/album/1EYRoDy36KEklMF2LJRnZb"
       },
       "artists": [
         {
@@ -20,9 +20,9 @@
           "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
         }
       ],
-      "duration_ms": 237434,
-      "name": "kisses",
-      "url": "https://open.spotify.com/track/2qUNrUbCYoUE6MsOR3tTD1"
+      "duration_ms": 232537,
+      "name": "skin in the game",
+      "url": "https://open.spotify.com/track/3X0KbbFJSUK1hzXggbtreP"
     },
     {
       "added_at": "2023-05-25 03:01:47",
@@ -73,6 +73,86 @@
       "url": "https://open.spotify.com/track/7xXFPKo0us7h8kHCKV9S9B"
     },
     {
+      "added_at": "2023-06-07 17:01:15",
+      "album": {
+        "name": "wonder if u care",
+        "url": "https://open.spotify.com/album/3oPOkIUqeSMxKV5cS39kl4"
+      },
+      "artists": [
+        {
+          "name": "flyingfish",
+          "url": "https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG"
+        }
+      ],
+      "duration_ms": 134556,
+      "name": "wonder if u care",
+      "url": "https://open.spotify.com/track/0KdEx2ETCXYZeEVAZS4sJ4"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Avalon",
+        "url": "https://open.spotify.com/album/42KyfZdfBxSwA8dwRKvJDR"
+      },
+      "artists": [
+        {
+          "name": "Zeruel",
+          "url": "https://open.spotify.com/artist/7tO6Y3qnEQUM3kaVNlpXbu"
+        }
+      ],
+      "duration_ms": 176230,
+      "name": "Avalon",
+      "url": "https://open.spotify.com/track/3d9lGlazIwY8f2xBfIIGps"
+    },
+    {
+      "added_at": "2023-01-12 03:12:54",
+      "album": {
+        "name": "pushing daisies",
+        "url": "https://open.spotify.com/album/07naAGnFibTManFY20vcUL"
+      },
+      "artists": [
+        {
+          "name": "julie",
+          "url": "https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW"
+        }
+      ],
+      "duration_ms": 136221,
+      "name": "skipping tiles",
+      "url": "https://open.spotify.com/track/43phhhh1hQF7koWX3uNvO3"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "her distortion",
+        "url": "https://open.spotify.com/album/6wB6nhvNeSWUUjv0gWszLE"
+      },
+      "artists": [
+        {
+          "name": "x\u00f3jira",
+          "url": "https://open.spotify.com/artist/02k0Lp7WPTzkLbJsPWNLc2"
+        }
+      ],
+      "duration_ms": 195062,
+      "name": "her distortion",
+      "url": "https://open.spotify.com/track/3ZspmUmIrhadEBXCK2kM9Q"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "gave you my all",
+        "url": "https://open.spotify.com/album/6f2HSagGc0cJvZAZZraJqp"
+      },
+      "artists": [
+        {
+          "name": "juggler",
+          "url": "https://open.spotify.com/artist/0HX7DEWAlnzbE3sikNXQik"
+        }
+      ],
+      "duration_ms": 193907,
+      "name": "gave you my all",
+      "url": "https://open.spotify.com/track/4FkQp96ud503gquiM2Ur9l"
+    },
+    {
       "added_at": "2023-06-23 04:00:00",
       "album": {
         "name": "What Does Moon Think",
@@ -87,6 +167,22 @@
       "duration_ms": 180706,
       "name": "What Does Moon Think",
       "url": "https://open.spotify.com/track/7L25MDmLQynJSzLm8hlj16"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Full Time Job / When A Plant Is Dying",
+        "url": "https://open.spotify.com/album/3hgeBbfqWStekq4eDhXeGJ"
+      },
+      "artists": [
+        {
+          "name": "Squirrel Flower",
+          "url": "https://open.spotify.com/artist/7bI1v9NGBBhq8iGfytctni"
+        }
+      ],
+      "duration_ms": 117533,
+      "name": "Full Time Job",
+      "url": "https://open.spotify.com/track/1JBd9X9sG7HjGifXuYQ1kS"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -121,20 +217,20 @@
       "url": "https://open.spotify.com/track/4irUbLOpLME1weJjG6hoEJ"
     },
     {
-      "added_at": "2023-01-12 03:12:54",
+      "added_at": "2023-06-20 17:08:59",
       "album": {
-        "name": "pushing daisies",
-        "url": "https://open.spotify.com/album/07naAGnFibTManFY20vcUL"
+        "name": "kisses",
+        "url": "https://open.spotify.com/album/4joudQPrYtB8axFgge6MSj"
       },
       "artists": [
         {
-          "name": "julie",
-          "url": "https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW"
+          "name": "Slowdive",
+          "url": "https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF"
         }
       ],
-      "duration_ms": 136221,
-      "name": "skipping tiles",
-      "url": "https://open.spotify.com/track/43phhhh1hQF7koWX3uNvO3"
+      "duration_ms": 237434,
+      "name": "kisses",
+      "url": "https://open.spotify.com/track/2qUNrUbCYoUE6MsOR3tTD1"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -153,70 +249,6 @@
       "url": "https://open.spotify.com/track/3cVEXHZ2G8tJMGoYff4B3q"
     },
     {
-      "added_at": "2023-06-20 17:08:59",
-      "album": {
-        "name": "dark out",
-        "url": "https://open.spotify.com/album/2WobrgmAwkqkh8iCKEoMa7"
-      },
-      "artists": [
-        {
-          "name": "Max Fry",
-          "url": "https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy"
-        }
-      ],
-      "duration_ms": 145696,
-      "name": "dark out",
-      "url": "https://open.spotify.com/track/0IxDs5fNQvQXm4fKbrZwe9"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "her distortion",
-        "url": "https://open.spotify.com/album/6wB6nhvNeSWUUjv0gWszLE"
-      },
-      "artists": [
-        {
-          "name": "x\u00f3jira",
-          "url": "https://open.spotify.com/artist/02k0Lp7WPTzkLbJsPWNLc2"
-        }
-      ],
-      "duration_ms": 195062,
-      "name": "her distortion",
-      "url": "https://open.spotify.com/track/3ZspmUmIrhadEBXCK2kM9Q"
-    },
-    {
-      "added_at": "2023-06-07 17:01:15",
-      "album": {
-        "name": "wonder if u care",
-        "url": "https://open.spotify.com/album/3oPOkIUqeSMxKV5cS39kl4"
-      },
-      "artists": [
-        {
-          "name": "flyingfish",
-          "url": "https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG"
-        }
-      ],
-      "duration_ms": 134556,
-      "name": "wonder if u care",
-      "url": "https://open.spotify.com/track/0KdEx2ETCXYZeEVAZS4sJ4"
-    },
-    {
-      "added_at": "2023-07-18 21:03:21",
-      "album": {
-        "name": "Daydreaming",
-        "url": "https://open.spotify.com/album/1Q8BDjqStLsJa9fhlp5yjv"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 215986,
-      "name": "Daydreaming",
-      "url": "https://open.spotify.com/track/1m4ZGzVWW9Z6J96THHBJMj"
-    },
-    {
       "added_at": "2023-06-30 04:00:00",
       "album": {
         "name": "I Don't Know",
@@ -233,20 +265,20 @@
       "url": "https://open.spotify.com/track/0uM9bCyh6vqgN8SY5wuLJC"
     },
     {
-      "added_at": "2023-04-14 23:09:55",
+      "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V"
+        "name": "Lux",
+        "url": "https://open.spotify.com/album/5kHxWoHIvm5u8rV6DD4flR"
       },
       "artists": [
         {
-          "name": "Nabihah Iqbal",
-          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
+          "name": "Zeruel",
+          "url": "https://open.spotify.com/artist/7tO6Y3qnEQUM3kaVNlpXbu"
         }
       ],
-      "duration_ms": 233600,
-      "name": "Dreamer",
-      "url": "https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk"
+      "duration_ms": 162442,
+      "name": "Lux",
+      "url": "https://open.spotify.com/track/6VDgwdarNZ5yaQAWhSFPS5"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -329,6 +361,22 @@
       "url": "https://open.spotify.com/track/1KaqkPcXRryyLcxhed4zj2"
     },
     {
+      "added_at": "2023-06-20 17:08:59",
+      "album": {
+        "name": "dark out",
+        "url": "https://open.spotify.com/album/2WobrgmAwkqkh8iCKEoMa7"
+      },
+      "artists": [
+        {
+          "name": "Max Fry",
+          "url": "https://open.spotify.com/artist/3P01oaWiEJ2uI7ZwUuaMNy"
+        }
+      ],
+      "duration_ms": 145696,
+      "name": "dark out",
+      "url": "https://open.spotify.com/track/0IxDs5fNQvQXm4fKbrZwe9"
+    },
+    {
       "added_at": "2023-06-30 04:00:00",
       "album": {
         "name": "COME WITH ME",
@@ -359,6 +407,22 @@
       "duration_ms": 362523,
       "name": "The Skin And The Glove",
       "url": "https://open.spotify.com/track/27P3WtpJnHreSOmwAOH29O"
+    },
+    {
+      "added_at": "2023-04-14 23:09:55",
+      "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V"
+      },
+      "artists": [
+        {
+          "name": "Nabihah Iqbal",
+          "url": "https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Dreamer",
+      "url": "https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk"
     },
     {
       "added_at": "2023-06-30 04:00:00",
@@ -575,6 +639,22 @@
       "duration_ms": 225888,
       "name": "my only fantasy",
       "url": "https://open.spotify.com/track/2OumTMESFfTTtZmESGHFYf"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Sigh In My Ear",
+        "url": "https://open.spotify.com/album/0RoDxdxaHbp73JB56oSBzf"
+      },
+      "artists": [
+        {
+          "name": "claire rousay",
+          "url": "https://open.spotify.com/artist/24KMaDNklCLuxhzamE6tmq"
+        }
+      ],
+      "duration_ms": 322000,
+      "name": "Sigh In My Ear",
+      "url": "https://open.spotify.com/track/7lvtC5scO2e6fjk8vakUVq"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1151,22 +1231,6 @@
     {
       "added_at": "2023-02-17 03:32:14",
       "album": {
-        "name": "Better Off Alone",
-        "url": "https://open.spotify.com/album/5A8AvrfDtcjGfUdzbvcqyK"
-      },
-      "artists": [
-        {
-          "name": "Estrada",
-          "url": "https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE"
-        }
-      ],
-      "duration_ms": 247045,
-      "name": "Better Off Alone",
-      "url": "https://open.spotify.com/track/2q6bBFVnWvaCRxELkHdsSa"
-    },
-    {
-      "added_at": "2023-02-17 03:32:14",
-      "album": {
         "name": "Heart Under",
         "url": "https://open.spotify.com/album/0IxkOdfNHkZBUJECtBgMUZ"
       },
@@ -1213,6 +1277,22 @@
       "url": "https://open.spotify.com/track/7M3WfnNGtgWsY0h3KEpWUP"
     },
     {
+      "added_at": "2023-03-10 05:00:00",
+      "album": {
+        "name": "Rat Saw God",
+        "url": "https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "duration_ms": 190105,
+      "name": "Bath County",
+      "url": "https://open.spotify.com/track/0j9R67oZzJVlDQWo2nsRJb"
+    },
+    {
       "added_at": "2023-02-17 03:32:14",
       "album": {
         "name": "Possessions",
@@ -1227,22 +1307,6 @@
       "duration_ms": 152760,
       "name": "Sour Punch",
       "url": "https://open.spotify.com/track/13pNdu3UOvwz0NxU2EEgVD"
-    },
-    {
-      "added_at": "2023-03-13 22:23:31",
-      "album": {
-        "name": "Flood Into",
-        "url": "https://open.spotify.com/album/6LWjlR90SPGk9H3798q0qE"
-      },
-      "artists": [
-        {
-          "name": "Fazerdaze",
-          "url": "https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh"
-        }
-      ],
-      "duration_ms": 181593,
-      "name": "Flood Into",
-      "url": "https://open.spotify.com/track/27UUdY6JdDKmPyaKSVNGQz"
     },
     {
       "added_at": "2023-01-12 03:08:14",
@@ -1323,6 +1387,22 @@
       "duration_ms": 138049,
       "name": "alter",
       "url": "https://open.spotify.com/track/12QF3a3IQlA9aCDATSpNWT"
+    },
+    {
+      "added_at": "2023-02-17 03:32:14",
+      "album": {
+        "name": "Tired",
+        "url": "https://open.spotify.com/album/30sEvaWqc5kIcCSR8lZEAX"
+      },
+      "artists": [
+        {
+          "name": "photocopy",
+          "url": "https://open.spotify.com/artist/60ThgTgoPYqN2u4JmDZlkD"
+        }
+      ],
+      "duration_ms": 232043,
+      "name": "Tired",
+      "url": "https://open.spotify.com/track/4RmzqFbi61rwMfGlz2GWaC"
     },
     {
       "added_at": "2023-02-17 03:32:14",
@@ -1447,22 +1527,6 @@
     {
       "added_at": "2023-03-10 05:00:00",
       "album": {
-        "name": "Rat Saw God",
-        "url": "https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05"
-      },
-      "artists": [
-        {
-          "name": "Wednesday",
-          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
-        }
-      ],
-      "duration_ms": 190105,
-      "name": "Bath County",
-      "url": "https://open.spotify.com/track/0j9R67oZzJVlDQWo2nsRJb"
-    },
-    {
-      "added_at": "2023-03-10 05:00:00",
-      "album": {
         "name": "Involved",
         "url": "https://open.spotify.com/album/2aggWWbILLTD3maeXZc8mh"
       },
@@ -1475,26 +1539,6 @@
       "duration_ms": 307000,
       "name": "Involved",
       "url": "https://open.spotify.com/track/4vjA0e8i58eJbsa67MuIlt"
-    },
-    {
-      "added_at": "2023-02-17 03:32:14",
-      "album": {
-        "name": "Cabin Fever",
-        "url": "https://open.spotify.com/album/7EVs3WnBcbuCpe72Ac93Ty"
-      },
-      "artists": [
-        {
-          "name": "Juice Jackal",
-          "url": "https://open.spotify.com/artist/707dnhK9JFj9zyJvEhY761"
-        },
-        {
-          "name": "Cherry Glazerr",
-          "url": "https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg"
-        }
-      ],
-      "duration_ms": 186613,
-      "name": "Cabin Fever",
-      "url": "https://open.spotify.com/track/0AfsF9ulLhsYsPPXidzCU7"
     },
     {
       "added_at": "2023-03-24 16:00:50",
@@ -1527,54 +1571,6 @@
       "duration_ms": 202000,
       "name": "All That I've Wasted",
       "url": "https://open.spotify.com/track/2tHAj5Py3sXE8pJyh5ouPz"
-    },
-    {
-      "added_at": "2023-02-17 03:32:14",
-      "album": {
-        "name": "Tired",
-        "url": "https://open.spotify.com/album/30sEvaWqc5kIcCSR8lZEAX"
-      },
-      "artists": [
-        {
-          "name": "photocopy",
-          "url": "https://open.spotify.com/artist/60ThgTgoPYqN2u4JmDZlkD"
-        }
-      ],
-      "duration_ms": 232043,
-      "name": "Tired",
-      "url": "https://open.spotify.com/track/4RmzqFbi61rwMfGlz2GWaC"
-    },
-    {
-      "added_at": "2023-02-17 03:32:14",
-      "album": {
-        "name": "Dimensional Bleed",
-        "url": "https://open.spotify.com/album/1P7aLqfoIPEfSO6GiOFI5z"
-      },
-      "artists": [
-        {
-          "name": "Holy Fawn",
-          "url": "https://open.spotify.com/artist/13rS3lCWshTVt6HsCNjvBI"
-        }
-      ],
-      "duration_ms": 303600,
-      "name": "Lift Your Head",
-      "url": "https://open.spotify.com/track/6JFHZtIgmm8mtYbS5OC8J6"
-    },
-    {
-      "added_at": "2023-05-09 01:15:11",
-      "album": {
-        "name": "Toxins and Smoke",
-        "url": "https://open.spotify.com/album/7GYHsiuT0SB51WmTCsmhSc"
-      },
-      "artists": [
-        {
-          "name": "Crape",
-          "url": "https://open.spotify.com/artist/2FWet7RIyCyNlZSNpYpJxi"
-        }
-      ],
-      "duration_ms": 312857,
-      "name": "Toxins and Smoke",
-      "url": "https://open.spotify.com/track/5I9thmZdXFil80RahOaRm3"
     },
     {
       "added_at": "2023-01-12 01:30:11",

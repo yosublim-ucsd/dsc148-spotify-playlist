@@ -801,6 +801,28 @@
     },
     {
       "album": {
+        "name": "Laramie",
+        "url": "https://open.spotify.com/album/6JmyaIBchQFT7CeGRRlVbh"
+      },
+      "artists": [
+        {
+          "name": "Becky Schlegel",
+          "url": "https://open.spotify.com/artist/21KhWiFWcK4WOJqRHMmN2a"
+        },
+        {
+          "name": "The High 48s",
+          "url": "https://open.spotify.com/artist/2J7WvdhzleWvO1XRa5xBZK"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235337,
+      "name": "Laramie",
+      "url": "https://open.spotify.com/track/1BEm7Caa96l4PIlnpoJ6wo"
+    },
+    {
+      "album": {
         "name": "Shaken By A Low Sound",
         "url": "https://open.spotify.com/album/1MXfI5PVHDjkZJrlM9aFkp"
       },
@@ -1574,6 +1596,24 @@
       "duration_ms": 203802,
       "name": "Travelin' Heart",
       "url": "https://open.spotify.com/track/4rhqyg8ndPc61QEVMYlAsW"
+    },
+    {
+      "album": {
+        "name": "Tsali's Run",
+        "url": "https://open.spotify.com/album/2R0bW66PP9Ez06X4F3DPfP"
+      },
+      "artists": [
+        {
+          "name": "Carley Arrowood",
+          "url": "https://open.spotify.com/artist/0GvSG6mHtIo8KGegsVEvjK"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "Tsali's Run",
+      "url": "https://open.spotify.com/track/4AzSHrAiwUDnEo0hJ9qZpm"
     },
     {
       "album": {

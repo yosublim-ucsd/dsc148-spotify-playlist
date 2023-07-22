@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/justinlaboy/\">Justin LaBoy</a>",
-  "num_followers": 5555,
+  "num_followers": 5587,
   "original_name": "Justin Laboy's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZGRkZDI0ODQ5YmJkOTU4ZjE3MDYzOTUzOWJiNzA3ZmNmYTY4MjQ2",
+  "snapshot_id": "MCxhMWU4MWMzMmIyZWU3NjNjYWNmMzBjM2ZhYjM4OGQ4ODkxZWE3NjQw",
   "tracks": [
     {
       "added_at": "2022-10-01 16:09:56",
@@ -123,34 +123,6 @@
     {
       "added_at": "2022-10-01 16:09:56",
       "album": {
-        "name": "Bad Boy's 10th Anniversary- The Hits",
-        "url": "https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1"
-      },
-      "artists": [
-        {
-          "name": "Diddy",
-          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
-        },
-        {
-          "name": "Ginuwine",
-          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
-        },
-        {
-          "name": "Loon",
-          "url": "https://open.spotify.com/artist/2gie1bU1LwnxdFAJoTLjzT"
-        },
-        {
-          "name": "Mario Winans",
-          "url": "https://open.spotify.com/artist/4BIQA9vRkqXEnA2twmq7mU"
-        }
-      ],
-      "duration_ms": 285586,
-      "name": "I Need a Girl (Pt. 2) [feat. Loon, Ginuwine, Mario Winans]",
-      "url": "https://open.spotify.com/track/6Wt5QBzHp9vdSLAFlvdnDQ"
-    },
-    {
-      "added_at": "2022-10-01 16:09:56",
-      "album": {
         "name": "A Gangsta\u2019s Pain",
         "url": "https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe"
       },
@@ -183,6 +155,34 @@
       "duration_ms": 226220,
       "name": "You're Mines Still (feat. Drake)",
       "url": "https://open.spotify.com/track/6tiKwZppNjrls8RsPQwK6r"
+    },
+    {
+      "added_at": "2022-10-01 16:09:56",
+      "album": {
+        "name": "Bad Boy's 10th Anniversary- The Hits",
+        "url": "https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1"
+      },
+      "artists": [
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        },
+        {
+          "name": "Ginuwine",
+          "url": "https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP"
+        },
+        {
+          "name": "Loon",
+          "url": "https://open.spotify.com/artist/2gie1bU1LwnxdFAJoTLjzT"
+        },
+        {
+          "name": "Mario Winans",
+          "url": "https://open.spotify.com/artist/4BIQA9vRkqXEnA2twmq7mU"
+        }
+      ],
+      "duration_ms": 285586,
+      "name": "I Need a Girl (Pt. 2) [feat. Loon, Ginuwine, Mario Winans]",
+      "url": "https://open.spotify.com/track/6Wt5QBzHp9vdSLAFlvdnDQ"
     },
     {
       "added_at": "2022-10-01 16:09:56",

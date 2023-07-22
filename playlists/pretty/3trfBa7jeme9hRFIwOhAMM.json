@@ -6,7 +6,7 @@
     "name": "Curbi",
     "url": "https://open.spotify.com/user/curbimusic"
   },
-  "snapshot_id": "MTEwMCxkMGVlYjY2YzU1MTMzZjNmZjNiODk2MzE5MzkzOGEzNmQzYjVhN2Nh",
+  "snapshot_id": "MTEyMCw1Y2IxYzZhMzBmMGQ1NWEwMzkwOWZlNmU4MmFjN2U3MjQ5YWUyNmM5",
   "tracks": [
     {
       "added_at": "2023-07-20 22:22:48",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-07-20 22:22:48",
       "album": {
-        "name": "RUSH",
-        "url": "https://open.spotify.com/album/7EINEJTzq3iW9Xny1Kd2h4"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        }
-      ],
-      "duration_ms": 163369,
-      "name": "RUSH",
-      "url": "https://open.spotify.com/track/4BIpVhPALiMEUpSdmIitol"
-    },
-    {
-      "added_at": "2023-07-20 22:22:48",
-      "album": {
         "name": "Sometimes I Get",
         "url": "https://open.spotify.com/album/70ym3lVvCDlytS2fsOpeLD"
       },
@@ -319,6 +303,22 @@
     {
       "added_at": "2023-07-20 22:22:48",
       "album": {
+        "name": "RUSH",
+        "url": "https://open.spotify.com/album/7EINEJTzq3iW9Xny1Kd2h4"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "duration_ms": 163369,
+      "name": "RUSH",
+      "url": "https://open.spotify.com/track/4BIpVhPALiMEUpSdmIitol"
+    },
+    {
+      "added_at": "2023-07-20 22:22:48",
+      "album": {
         "name": "Shot Callers Vol. 2",
         "url": "https://open.spotify.com/album/4g7oAUx5mSEGCeqXpUlXuK"
       },
@@ -365,20 +365,76 @@
       "url": "https://open.spotify.com/track/3QzBzeXfDNR15U6X98zz1q"
     },
     {
-      "added_at": "2023-07-20 22:22:48",
+      "added_at": "2023-07-21 14:14:22",
       "album": {
-        "name": "Venezuela",
-        "url": "https://open.spotify.com/album/56lODgPHSGEw887zjqc4Cy"
+        "name": "Body Tingler",
+        "url": "https://open.spotify.com/album/28rAbsAWjImoxWVBBafmdH"
       },
       "artists": [
         {
-          "name": "ESSED",
-          "url": "https://open.spotify.com/artist/2OIFoELOhUQ0FJF4H2Qrlo"
+          "name": "Brett Allen",
+          "url": "https://open.spotify.com/artist/7p4Qsh7osD5lvfk8X3LRex"
         }
       ],
-      "duration_ms": 152395,
-      "name": "Venezuela",
-      "url": "https://open.spotify.com/track/0YbrchKexq2NTo0wwOi15S"
+      "duration_ms": 155562,
+      "name": "Body Tingler",
+      "url": "https://open.spotify.com/track/4IRpPbNa7D3vfGNguZWcPd"
+    },
+    {
+      "added_at": "2023-07-21 11:59:25",
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/1N0UZYMyQljEOnl8kxpBVk"
+      },
+      "artists": [
+        {
+          "name": "Tayri",
+          "url": "https://open.spotify.com/artist/0uoOQGX0vj7U6l3KCQqyJn"
+        }
+      ],
+      "duration_ms": 185595,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/2NLUhPapw9f686xkUQP3HT"
+    },
+    {
+      "added_at": "2023-07-21 08:04:45",
+      "album": {
+        "name": "Ravetech",
+        "url": "https://open.spotify.com/album/7sNaDqChAtNzcNyVk7XNGb"
+      },
+      "artists": [
+        {
+          "name": "VIVID",
+          "url": "https://open.spotify.com/artist/3VcAPpkjFtd3Sj5fmqPQd1"
+        }
+      ],
+      "duration_ms": 177062,
+      "name": "Take Off",
+      "url": "https://open.spotify.com/track/62PPEwfCdA9964U7PTAve7"
+    },
+    {
+      "added_at": "2023-07-21 11:56:19",
+      "album": {
+        "name": "More Than A Stranger",
+        "url": "https://open.spotify.com/album/3CtTMTP1NGNXVf6ZUBDAfa"
+      },
+      "artists": [
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        },
+        {
+          "name": "Jonasu",
+          "url": "https://open.spotify.com/artist/7u4ayw4QFEsolPxZgnPAMT"
+        },
+        {
+          "name": "Felix Samuel",
+          "url": "https://open.spotify.com/artist/2FMdAViOScZVhMjAunoYNK"
+        }
+      ],
+      "duration_ms": 142258,
+      "name": "More Than A Stranger",
+      "url": "https://open.spotify.com/track/7seOssIzCCzdbGdAfXJwE2"
     },
     {
       "added_at": "2023-07-20 22:22:48",
@@ -459,30 +515,6 @@
     {
       "added_at": "2023-07-20 22:22:48",
       "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/4anHTuGfiQAybiDedPoJ5a"
-      },
-      "artists": [
-        {
-          "name": "Sirona",
-          "url": "https://open.spotify.com/artist/2ujhjcnmXKAC4IsW9fFw6G"
-        },
-        {
-          "name": "Brieuc",
-          "url": "https://open.spotify.com/artist/7d7HOtUUHD4P5aZaeYTQf4"
-        },
-        {
-          "name": "Lacey",
-          "url": "https://open.spotify.com/artist/0jrXDZPbZ53MWEkAR5Gghz"
-        }
-      ],
-      "duration_ms": 146103,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/4kyrrxyoVBgaad4N14zk8P"
-    },
-    {
-      "added_at": "2023-07-20 22:22:48",
-      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/4s8l87cU1Z2Sg5iKualNLr"
       },
@@ -499,6 +531,34 @@
       "duration_ms": 167509,
       "name": "Vertigo",
       "url": "https://open.spotify.com/track/0Cv7pfVZT1KjaqpylUsYQH"
+    },
+    {
+      "added_at": "2023-07-21 15:44:33",
+      "album": {
+        "name": "She Knows (With Akon)",
+        "url": "https://open.spotify.com/album/0pj4zHdT9FsFOkpA9Qic4F"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Afro Bros",
+          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 135706,
+      "name": "She Knows - With Akon",
+      "url": "https://open.spotify.com/track/3zkb0907pOJqU7m3Qh5hB7"
     },
     {
       "added_at": "2023-07-20 22:22:48",
@@ -519,30 +579,6 @@
       "duration_ms": 149047,
       "name": "I'll Stay With You",
       "url": "https://open.spotify.com/track/5tc1WMHKFiGA7qmhTXA3Jx"
-    },
-    {
-      "added_at": "2023-07-20 22:22:48",
-      "album": {
-        "name": "Tuesday (PAJANE Remix)",
-        "url": "https://open.spotify.com/album/0TyCsxvEJeYCN72NYF4tC1"
-      },
-      "artists": [
-        {
-          "name": "Burak Yeter",
-          "url": "https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI"
-        },
-        {
-          "name": "Danelle Sandoval",
-          "url": "https://open.spotify.com/artist/7Dz9goFmVZZqvJxZoKg7pF"
-        },
-        {
-          "name": "PAJANE",
-          "url": "https://open.spotify.com/artist/3xur0inruYquZ8zO73xq1q"
-        }
-      ],
-      "duration_ms": 155124,
-      "name": "Tuesday - PAJANE Remix / Radio Edit",
-      "url": "https://open.spotify.com/track/3IMIk50AEhubMni5KFw7WE"
     },
     {
       "added_at": "2023-07-20 22:22:48",
@@ -599,26 +635,6 @@
     {
       "added_at": "2023-07-20 22:22:48",
       "album": {
-        "name": "Wataqui",
-        "url": "https://open.spotify.com/album/338oBgeuDJHByptkUWZpbS"
-      },
-      "artists": [
-        {
-          "name": "Gian Varela",
-          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
-        },
-        {
-          "name": "Martina Camargo",
-          "url": "https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Wataqui",
-      "url": "https://open.spotify.com/track/5FdQkUVpFicMpUv6OLy3wh"
-    },
-    {
-      "added_at": "2023-07-20 22:22:48",
-      "album": {
         "name": "Bless Me (with Discrete)",
         "url": "https://open.spotify.com/album/5TPcHw0h3ZfXmmtfFYy1gq"
       },
@@ -635,46 +651,6 @@
       "duration_ms": 190384,
       "name": "Bless Me (with Discrete)",
       "url": "https://open.spotify.com/track/4fntxnmBljT1Ve03u0njYg"
-    },
-    {
-      "added_at": "2023-07-20 22:22:48",
-      "album": {
-        "name": "Thunder",
-        "url": "https://open.spotify.com/album/1IKvd2fFqkHUTjBE4oY8Kq"
-      },
-      "artists": [
-        {
-          "name": "Pontifexx",
-          "url": "https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s"
-        },
-        {
-          "name": "Hiddeki",
-          "url": "https://open.spotify.com/artist/5DvozQySFVUBsIFMU2H3HH"
-        }
-      ],
-      "duration_ms": 181935,
-      "name": "Thunder",
-      "url": "https://open.spotify.com/track/70CJtBiTylBip3aTb7wPB6"
-    },
-    {
-      "added_at": "2023-07-20 22:22:48",
-      "album": {
-        "name": "Uncontrollable / Haters EP",
-        "url": "https://open.spotify.com/album/5grwqKWg5XsvFKqsuqZP49"
-      },
-      "artists": [
-        {
-          "name": "Eleganto",
-          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
-        },
-        {
-          "name": "Zadquiel",
-          "url": "https://open.spotify.com/artist/5hFK4GrVDIi7EOTO4QJG5o"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Uncontrollable",
-      "url": "https://open.spotify.com/track/0C2UfwJjLLNnUftt9bZdgn"
     },
     {
       "added_at": "2023-07-20 22:22:48",
@@ -703,6 +679,66 @@
     {
       "added_at": "2023-07-20 22:22:48",
       "album": {
+        "name": "Thunder",
+        "url": "https://open.spotify.com/album/1IKvd2fFqkHUTjBE4oY8Kq"
+      },
+      "artists": [
+        {
+          "name": "Pontifexx",
+          "url": "https://open.spotify.com/artist/7aFk8z1XCcKt2y9Z5PC17s"
+        },
+        {
+          "name": "Hiddeki",
+          "url": "https://open.spotify.com/artist/5DvozQySFVUBsIFMU2H3HH"
+        }
+      ],
+      "duration_ms": 181935,
+      "name": "Thunder",
+      "url": "https://open.spotify.com/track/70CJtBiTylBip3aTb7wPB6"
+    },
+    {
+      "added_at": "2023-07-20 22:22:48",
+      "album": {
+        "name": "Wataqui",
+        "url": "https://open.spotify.com/album/338oBgeuDJHByptkUWZpbS"
+      },
+      "artists": [
+        {
+          "name": "Gian Varela",
+          "url": "https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF"
+        },
+        {
+          "name": "Martina Camargo",
+          "url": "https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Wataqui",
+      "url": "https://open.spotify.com/track/5FdQkUVpFicMpUv6OLy3wh"
+    },
+    {
+      "added_at": "2023-07-20 22:22:48",
+      "album": {
+        "name": "Uncontrollable / Haters EP",
+        "url": "https://open.spotify.com/album/5grwqKWg5XsvFKqsuqZP49"
+      },
+      "artists": [
+        {
+          "name": "Eleganto",
+          "url": "https://open.spotify.com/artist/0MMdZHo4Jeldyg5awD2w5V"
+        },
+        {
+          "name": "Zadquiel",
+          "url": "https://open.spotify.com/artist/5hFK4GrVDIi7EOTO4QJG5o"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Uncontrollable",
+      "url": "https://open.spotify.com/track/0C2UfwJjLLNnUftt9bZdgn"
+    },
+    {
+      "added_at": "2023-07-20 22:22:48",
+      "album": {
         "name": "Bassline Rumble",
         "url": "https://open.spotify.com/album/2bsD1DwoXBIWh8XAjJLCwY"
       },
@@ -715,58 +751,6 @@
       "duration_ms": 175969,
       "name": "Bassline Rumble",
       "url": "https://open.spotify.com/track/2D5LwVpW4D8BhEHjWGxofw"
-    },
-    {
-      "added_at": "2023-07-20 22:22:48",
-      "album": {
-        "name": "Do My Ting / Booty Duty EP",
-        "url": "https://open.spotify.com/album/6oXSrqIUPsBMG2514pxBHT"
-      },
-      "artists": [
-        {
-          "name": "SLATIN",
-          "url": "https://open.spotify.com/artist/2K7Mq9tikWmSfodrb6ZyD3"
-        }
-      ],
-      "duration_ms": 223799,
-      "name": "Do My Ting",
-      "url": "https://open.spotify.com/track/7itFDwMmp0bvAUctxRhHkr"
-    },
-    {
-      "added_at": "2023-07-20 22:22:48",
-      "album": {
-        "name": "Rewind Reverse",
-        "url": "https://open.spotify.com/album/61BkSaLZ89EJOzOtPkeeiE"
-      },
-      "artists": [
-        {
-          "name": "Mike Cervello",
-          "url": "https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3"
-        },
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        }
-      ],
-      "duration_ms": 247832,
-      "name": "Rewind Reverse",
-      "url": "https://open.spotify.com/track/7vkfildOmCojeBvfQ836Qi"
-    },
-    {
-      "added_at": "2023-07-20 22:22:48",
-      "album": {
-        "name": "Milkyway",
-        "url": "https://open.spotify.com/album/3W1pCkXkXNcUhTy1i9NHI2"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        }
-      ],
-      "duration_ms": 234580,
-      "name": "Milkyway",
-      "url": "https://open.spotify.com/track/1XWGYEwxo99nR6ALZaVjZW"
     },
     {
       "added_at": "2023-07-20 22:22:48",

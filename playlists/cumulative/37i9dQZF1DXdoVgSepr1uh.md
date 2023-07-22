@@ -4,7 +4,7 @@
 
 > Argentina en la casa! Foto: Six Sex & El Osito Wito.
 
-190 songs - 9 hr 11 min
+191 songs - 9 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,8 @@
 | [Otra Vez Te Soñé](https://open.spotify.com/track/6X44vrKIdgwBP4I9hFT6US) | [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX), [NEGRO DUB](https://open.spotify.com/artist/65VS702SIPGgTpWgTQupMA) | [Otra Vez Te Soñé](https://open.spotify.com/album/4ZlHlbUReIOc1Cw6oudAgE) | 2:45 | 2022-05-27 | 2022-06-18 |
 | [Otro](https://open.spotify.com/track/2VZmXemWIKoKxJjbA2WHJE) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Otro](https://open.spotify.com/album/0eGqUAZJxkm2QJkZx9iXpp) | 3:28 | 2022-05-24 | 2023-03-03 |
 | [Otro Millón](https://open.spotify.com/track/2j0CA3TrxQ78vAVMTBdcNV) | [Oscu](https://open.spotify.com/artist/5iDqEobZRSTiBSAk6jLp4A) | [Otro Millón](https://open.spotify.com/album/0CNz1mTF0VWhhUdPF2ZEHf) | 2:36 | 2023-01-09 | 2023-05-13 |
-| [Pa Co](https://open.spotify.com/track/4kiTIRY4o3o9on5oYV584L) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Pa Co](https://open.spotify.com/album/3ZQtUvAOU2mPqkIcYty9GI) | 3:40 | 2022-05-24 |  |
+| [Pa Co](https://open.spotify.com/track/4HS7qS608TACaLDjh1Xfqa) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Pa Co](https://open.spotify.com/album/07SwqO1skuBkYx9LIehYql) | 3:40 | 2023-07-14 |  |
+| [Pa Co](https://open.spotify.com/track/4kiTIRY4o3o9on5oYV584L) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ) | [Pa Co](https://open.spotify.com/album/3ZQtUvAOU2mPqkIcYty9GI) | 3:40 | 2022-05-24 | 2023-07-22 |
 | [Pa' La Pared](https://open.spotify.com/track/3mdPjtqAHenQdfruvauObB) | [J.Mastermix](https://open.spotify.com/artist/1UvUSpVxlY8KvfNMMNtxSR) | [Pa' La Pared](https://open.spotify.com/album/67ddgcdFLnJfjBCIREBrBx) | 2:58 | 2022-08-05 | 2022-09-10 |
 | [Pal Carajo el Amor](https://open.spotify.com/track/4AM8g5OElpKpuHjMuH1PSk) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Pal Carajo el Amor](https://open.spotify.com/album/4gpZ0GHKxJitDg4SjosXm5) | 3:16 | 2022-05-24 | 2022-11-19 |
 | [Peligrosa](https://open.spotify.com/track/1upN12BuuI00PtPX5RwWQA) | [Rhino](https://open.spotify.com/artist/417ZD7de71arr4uRiyPAi3) | [Peligrosa](https://open.spotify.com/album/126iuno9i89GrSPRHDO4Er) | 2:22 | 2022-07-15 | 2022-07-23 |

@@ -1,12 +1,12 @@
 {
   "description": "Your everyday pick-me-up playlist.",
-  "num_followers": 59646,
+  "num_followers": 59688,
   "original_name": "Feel Good Look Good",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDU5ZDZkYTAzZDI3YzA0NDVkOTI0MWE1OTk5YzAzZWQyYzUwN2U1",
+  "snapshot_id": "MCwxOGZkZDFiOTI4ZmYyYmFkODU5ZDg3MDEzOWFhYWQ5NTI4NTU2NDU2",
   "tracks": [
     {
       "added_at": "2023-04-21 11:39:07",
@@ -1043,6 +1043,26 @@
     {
       "added_at": "2023-04-21 11:39:07",
       "album": {
+        "name": "Another Friday Night",
+        "url": "https://open.spotify.com/album/01cGIsFPOyQo6BqL1sQgq9"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "duration_ms": 166028,
+      "name": "Head & Heart (feat. MNEK)",
+      "url": "https://open.spotify.com/track/377J1aplt18Une7a21KIKr"
+    },
+    {
+      "added_at": "2023-04-21 11:39:07",
+      "album": {
         "name": "Too Blessed To Be Stressed",
         "url": "https://open.spotify.com/album/0JWVf25ijtjI41fPf0Nso5"
       },
@@ -1115,30 +1135,6 @@
       "duration_ms": 260125,
       "name": "Oh My Soul (Bloukaas Remix)",
       "url": "https://open.spotify.com/track/6MpScQlifniy57CFLOxOCC"
-    },
-    {
-      "added_at": "2023-04-21 11:39:07",
-      "album": {
-        "name": "The Moment (feat. Jimmy Nevis & Emtee)",
-        "url": "https://open.spotify.com/album/78zdmPv8xePsLa2e6Z6agw"
-      },
-      "artists": [
-        {
-          "name": "Sketchy Bongo",
-          "url": "https://open.spotify.com/artist/6da0IfHaN561OqJxQ3JyKh"
-        },
-        {
-          "name": "Jimmy Nevis",
-          "url": "https://open.spotify.com/artist/5qfN4DJ457Fvmu5z2DwUx3"
-        },
-        {
-          "name": "Emtee",
-          "url": "https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "The Moment (feat. Jimmy Nevis & Emtee)",
-      "url": "https://open.spotify.com/track/4dpNbUnGgP1f0C6B9XVXK8"
     }
   ],
   "unique_name": "Feel Good Look Good",

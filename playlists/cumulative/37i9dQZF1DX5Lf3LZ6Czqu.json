@@ -1849,6 +1849,24 @@
     },
     {
       "album": {
+        "name": "The Journey",
+        "url": "https://open.spotify.com/album/6QJNcXUow95qKDvfg1byG2"
+      },
+      "artists": [
+        {
+          "name": "Matteo Mancuso",
+          "url": "https://open.spotify.com/artist/4EEBpppjtPFQYlmXoZu8z1"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273275,
+      "name": "Silkroad",
+      "url": "https://open.spotify.com/track/6EZ4V32DQZ7V7hRUwBVb7u"
+    },
+    {
+      "album": {
         "name": "SkyBluePink",
         "url": "https://open.spotify.com/album/4300q4yRsvBxrZlr64K42v"
       },

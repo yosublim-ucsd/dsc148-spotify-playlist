@@ -1,13 +1,29 @@
 {
   "description": "De lunes a domingo, descubre un tema elegido por tus editores de Spotify.",
-  "num_followers": 422220,
+  "num_followers": 422225,
   "original_name": "Canci\u00f3n del D\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjM2YWZmYmQ5ZWNiOGMzZWZlMzZiNzkzODEzNTM0ZjhjM2E4MmUw",
+  "snapshot_id": "MCwxODRmNWI2MDk0NTE1OWM1MTE5MzgzMGY2YmNlNzk4MDA3ZjVlOTcw",
   "tracks": [
+    {
+      "added_at": "2023-07-21 03:00:00",
+      "album": {
+        "name": "ROTOS",
+        "url": "https://open.spotify.com/album/1d68YWhFsOs1jPHDryt8Id"
+      },
+      "artists": [
+        {
+          "name": "Molok0",
+          "url": "https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J"
+        }
+      ],
+      "duration_ms": 140470,
+      "name": "Tormenta",
+      "url": "https://open.spotify.com/track/6wVfMfwjfAVlpLCsALHIIb"
+    },
     {
       "added_at": "2023-07-20 03:00:00",
       "album": {
@@ -879,22 +895,6 @@
       "duration_ms": 169363,
       "name": "Soy un volc\u00e1n",
       "url": "https://open.spotify.com/track/0dGwAktrgm2gwLCcU3NLfG"
-    },
-    {
-      "added_at": "2023-06-25 03:00:00",
-      "album": {
-        "name": "Fin del Mundo",
-        "url": "https://open.spotify.com/album/51QkTeZMtaqtEHh0ERHY1O"
-      },
-      "artists": [
-        {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
-        }
-      ],
-      "duration_ms": 319743,
-      "name": "Fin del Mundo",
-      "url": "https://open.spotify.com/track/30INzB3hMnHVTazJaMNAEo"
     }
   ],
   "unique_name": "Canci\u00f3n del D\u00eda",

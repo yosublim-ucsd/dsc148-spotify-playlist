@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 181315,
+  "num_followers": 181879,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMGM1ZGY1N2U4ZDA5ZDJlNmMwNGUyNDk0YjBhZTQ0NTQ3MzgyODgz",
+  "snapshot_id": "MCxkYzM2YjMxYjk3NmE2ZmUwZGQ2NmQwNWYzNmE1MzI1YmRlYTI2YjE0",
   "tracks": [
     {
       "added_at": "2023-06-02 14:30:00",
@@ -479,6 +479,22 @@
     {
       "added_at": "2023-06-02 14:30:00",
       "album": {
+        "name": "A-Sides, Vol. 6",
+        "url": "https://open.spotify.com/album/4sHJ8SyHgP6CCJ4PGfiUk9"
+      },
+      "artists": [
+        {
+          "name": "Amelie Lens",
+          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
+        }
+      ],
+      "duration_ms": 393740,
+      "name": "In Silence",
+      "url": "https://open.spotify.com/track/7sovMMhuknCR0PHianjiEq"
+    },
+    {
+      "added_at": "2023-06-02 14:30:00",
+      "album": {
         "name": "Silence EP",
         "url": "https://open.spotify.com/album/0jk2PButBmv8Kqvu5x9Yys"
       },
@@ -515,38 +531,6 @@
     {
       "added_at": "2023-06-02 14:30:00",
       "album": {
-        "name": "A-Sides, Vol. 6",
-        "url": "https://open.spotify.com/album/4sHJ8SyHgP6CCJ4PGfiUk9"
-      },
-      "artists": [
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-        }
-      ],
-      "duration_ms": 393740,
-      "name": "In Silence",
-      "url": "https://open.spotify.com/track/7sovMMhuknCR0PHianjiEq"
-    },
-    {
-      "added_at": "2023-06-02 14:30:00",
-      "album": {
-        "name": "Asura EP",
-        "url": "https://open.spotify.com/album/4ZViSWk4pvhglsGqQ2fsAB"
-      },
-      "artists": [
-        {
-          "name": "Charlotte de Witte",
-          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
-        }
-      ],
-      "duration_ms": 469612,
-      "name": "Asura",
-      "url": "https://open.spotify.com/track/0kfCf8GLQDZFZZIhVtHZvk"
-    },
-    {
-      "added_at": "2023-06-02 14:30:00",
-      "album": {
         "name": "WANNA GO BANG",
         "url": "https://open.spotify.com/album/7LWVS2wbZIvBjEPM6ZtNFG"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 237157,
       "name": "WANNA GO BANG",
       "url": "https://open.spotify.com/track/0PfCECNGl8Udewv4b7wOCs"
+    },
+    {
+      "added_at": "2023-06-02 14:30:00",
+      "album": {
+        "name": "Asura EP",
+        "url": "https://open.spotify.com/album/4ZViSWk4pvhglsGqQ2fsAB"
+      },
+      "artists": [
+        {
+          "name": "Charlotte de Witte",
+          "url": "https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso"
+        }
+      ],
+      "duration_ms": 469612,
+      "name": "Asura",
+      "url": "https://open.spotify.com/track/0kfCf8GLQDZFZZIhVtHZvk"
     },
     {
       "added_at": "2023-06-02 14:30:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-06-02 14:30:00",
       "album": {
-        "name": "Club Vibes Part 05",
-        "url": "https://open.spotify.com/album/5ad6LcmH6riZRxu4VzI7Vf"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 485760,
-      "name": "Black Unicorn",
-      "url": "https://open.spotify.com/track/1WSF0LJGwJkYejuMtyJVuA"
-    },
-    {
-      "added_at": "2023-06-02 14:30:00",
-      "album": {
         "name": "Rebirth",
         "url": "https://open.spotify.com/album/59WoCic1VzW9qox5cE3u0p"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 400172,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/1c3OaOeSogCpXTa8BhnBEq"
+    },
+    {
+      "added_at": "2023-06-02 14:30:00",
+      "album": {
+        "name": "Club Vibes Part 05",
+        "url": "https://open.spotify.com/album/5ad6LcmH6riZRxu4VzI7Vf"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 485760,
+      "name": "Black Unicorn",
+      "url": "https://open.spotify.com/track/1WSF0LJGwJkYejuMtyJVuA"
     },
     {
       "added_at": "2023-06-02 14:30:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-06-02 14:30:00",
       "album": {
-        "name": "Experience",
-        "url": "https://open.spotify.com/album/2mHKmSPCtMud5SwgzMNEQ1"
-      },
-      "artists": [
-        {
-          "name": "Luna Lucci",
-          "url": "https://open.spotify.com/artist/2YDL5wHehd2wcAC9eBKmtp"
-        }
-      ],
-      "duration_ms": 348444,
-      "name": "Experience",
-      "url": "https://open.spotify.com/track/6ewzsniysRplwdDRA7eNdn"
-    },
-    {
-      "added_at": "2023-06-02 14:30:00",
-      "album": {
         "name": "Injection (Original Mix)",
         "url": "https://open.spotify.com/album/7tq0Eni5FK1nm27dqXGWyr"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 421846,
       "name": "Injection - Original Mix",
       "url": "https://open.spotify.com/track/52nFiIeYWwY5IJRStcbbfj"
+    },
+    {
+      "added_at": "2023-06-02 14:30:00",
+      "album": {
+        "name": "Experience",
+        "url": "https://open.spotify.com/album/2mHKmSPCtMud5SwgzMNEQ1"
+      },
+      "artists": [
+        {
+          "name": "Luna Lucci",
+          "url": "https://open.spotify.com/artist/2YDL5wHehd2wcAC9eBKmtp"
+        }
+      ],
+      "duration_ms": 348444,
+      "name": "Experience",
+      "url": "https://open.spotify.com/track/6ewzsniysRplwdDRA7eNdn"
     },
     {
       "added_at": "2023-06-02 14:30:00",

@@ -1,12 +1,12 @@
 {
   "description": "The biggest dance floor bangers of the 2000s.",
-  "num_followers": 383876,
+  "num_followers": 384264,
   "original_name": "Dance Hits 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWVhZTU3MjNhYjU2M2ZhMTk5ZDVhZGY4Y2VlNGU3YzgwZmIwYmI1",
+  "snapshot_id": "MCxiNzkzZThkMDAxNmY1MWM2MjcwN2ZjZjIwNmI5NmY1NjUzMzg5ZmU0",
   "tracks": [
     {
       "added_at": "2021-04-29 18:40:15",
@@ -611,22 +611,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Rooty",
-        "url": "https://open.spotify.com/album/6CYhVDuSbAWmy9ku7E2wrP"
-      },
-      "artists": [
-        {
-          "name": "Basement Jaxx",
-          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
-        }
-      ],
-      "duration_ms": 285533,
-      "name": "Where's Your Head At",
-      "url": "https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Different",
         "url": "https://open.spotify.com/album/5pUMfEOBMzcpVweXk3kYL9"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 218533,
       "name": "D\u00e9senchant\u00e9e",
       "url": "https://open.spotify.com/track/4yOU9FaCmFFo2qfy1FHIe3"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Rooty",
+        "url": "https://open.spotify.com/album/6CYhVDuSbAWmy9ku7E2wrP"
+      },
+      "artists": [
+        {
+          "name": "Basement Jaxx",
+          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
+        }
+      ],
+      "duration_ms": 285533,
+      "name": "Where's Your Head At",
+      "url": "https://open.spotify.com/track/3cJh89D0za2SW705fNBo3b"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -755,22 +755,18 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Music & You",
-        "url": "https://open.spotify.com/album/0RgHM6Ii7TsvTNicfHQ5mH"
+        "name": "Ready For The Weekend",
+        "url": "https://open.spotify.com/album/5Zcfw8EsPjQBJZhA0EbcyM"
       },
       "artists": [
         {
-          "name": "Room 5",
-          "url": "https://open.spotify.com/artist/0AEbDFXbsssoSoC3pj91eq"
-        },
-        {
-          "name": "Oliver Cheatham",
-          "url": "https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         }
       ],
-      "duration_ms": 212413,
-      "name": "Make Luv",
-      "url": "https://open.spotify.com/track/6xXEw4y39shgIp6pacKQFH"
+      "duration_ms": 210973,
+      "name": "I'm Not Alone - Radio Edit",
+      "url": "https://open.spotify.com/track/07POri5O6Xu0aVZzlvOcpy"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -791,18 +787,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Ready For The Weekend",
-        "url": "https://open.spotify.com/album/5Zcfw8EsPjQBJZhA0EbcyM"
+        "name": "Music & You",
+        "url": "https://open.spotify.com/album/0RgHM6Ii7TsvTNicfHQ5mH"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+          "name": "Room 5",
+          "url": "https://open.spotify.com/artist/0AEbDFXbsssoSoC3pj91eq"
+        },
+        {
+          "name": "Oliver Cheatham",
+          "url": "https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic"
         }
       ],
-      "duration_ms": 210973,
-      "name": "I'm Not Alone - Radio Edit",
-      "url": "https://open.spotify.com/track/07POri5O6Xu0aVZzlvOcpy"
+      "duration_ms": 212413,
+      "name": "Make Luv",
+      "url": "https://open.spotify.com/track/6xXEw4y39shgIp6pacKQFH"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -827,22 +827,18 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Starlight",
-        "url": "https://open.spotify.com/album/3UO75WLhEfcx45md7M3bBX"
+        "name": "Push The Beat For This Jam (The Second Chapter)",
+        "url": "https://open.spotify.com/album/485YVBf2oC9eWnj39VbtJL"
       },
       "artists": [
         {
-          "name": "The Supermen Lovers",
-          "url": "https://open.spotify.com/artist/08dJ0NJ9jMf8qdLmdhQ2yA"
-        },
-        {
-          "name": "Mani Hoffman",
-          "url": "https://open.spotify.com/artist/4h5uH2PyDzfpfZresu96cw"
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
         }
       ],
-      "duration_ms": 234400,
-      "name": "Starlight - Radio Edit",
-      "url": "https://open.spotify.com/track/4UfupbARPxljVkBmuZlJnY"
+      "duration_ms": 235413,
+      "name": "The Logical Song",
+      "url": "https://open.spotify.com/track/18kaCWM0OOdSQTnxCcoSU5"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -863,18 +859,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Push The Beat For This Jam (The Second Chapter)",
-        "url": "https://open.spotify.com/album/485YVBf2oC9eWnj39VbtJL"
+        "name": "Starlight",
+        "url": "https://open.spotify.com/album/3UO75WLhEfcx45md7M3bBX"
       },
       "artists": [
         {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+          "name": "The Supermen Lovers",
+          "url": "https://open.spotify.com/artist/08dJ0NJ9jMf8qdLmdhQ2yA"
+        },
+        {
+          "name": "Mani Hoffman",
+          "url": "https://open.spotify.com/artist/4h5uH2PyDzfpfZresu96cw"
         }
       ],
-      "duration_ms": 235413,
-      "name": "The Logical Song",
-      "url": "https://open.spotify.com/track/18kaCWM0OOdSQTnxCcoSU5"
+      "duration_ms": 234400,
+      "name": "Starlight - Radio Edit",
+      "url": "https://open.spotify.com/track/4UfupbARPxljVkBmuZlJnY"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -931,26 +931,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Heads Will Roll",
-        "url": "https://open.spotify.com/album/4HYlbaWDkCNXXNWQEYl9sV"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        },
-        {
-          "name": "A-Trak",
-          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
-        }
-      ],
-      "duration_ms": 383546,
-      "name": "Heads Will Roll - A-Trak Remix",
-      "url": "https://open.spotify.com/track/2idmlkd8oUaQvYEtINpLBX"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Leave The World Behind",
         "url": "https://open.spotify.com/album/5t99JSRaTDLRx2EDWxHlkM"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 161718,
       "name": "Leave The World Behind - Radio Edit",
       "url": "https://open.spotify.com/track/25ZEYUgCJyf3gRxkqYbkIc"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Heads Will Roll",
+        "url": "https://open.spotify.com/album/4HYlbaWDkCNXXNWQEYl9sV"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        },
+        {
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        }
+      ],
+      "duration_ms": 383546,
+      "name": "Heads Will Roll - A-Trak Remix",
+      "url": "https://open.spotify.com/track/2idmlkd8oUaQvYEtINpLBX"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
+        "name": "Encore - Live And Direct",
+        "url": "https://open.spotify.com/album/5hFUbOIIcHOchKYOHm5F0b"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "duration_ms": 208933,
+      "name": "Nessaja",
+      "url": "https://open.spotify.com/track/5RGiyzMQrBQQwMRid7SE65"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
         "name": "Armin Anthems Top 100 (Ultimate Singles Collected)",
         "url": "https://open.spotify.com/album/7EQZcAuxiKgNO6BbbgzN2a"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 181680,
       "name": "In And Out Of Love",
       "url": "https://open.spotify.com/track/57nKL06bKwjaM5Y0aMtY9v"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Encore - Live And Direct",
-        "url": "https://open.spotify.com/album/5hFUbOIIcHOchKYOHm5F0b"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        }
-      ],
-      "duration_ms": 208933,
-      "name": "Nessaja",
-      "url": "https://open.spotify.com/track/5RGiyzMQrBQQwMRid7SE65"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Just a Little More Love",
-        "url": "https://open.spotify.com/album/78M16AQffV0YUfvseg60MT"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 216893,
-      "name": "Love Don't Let Me Go",
-      "url": "https://open.spotify.com/track/5lgS45xqkTk2HVm7Jph9ya"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Gro\u00dfstadtm\u00e4rchen",
         "url": "https://open.spotify.com/album/6mM6lqJGzNcEB1PBwZHYAo"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 340560,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/0V2GX0aukyZMt6nSMxfOJk"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Just a Little More Love",
+        "url": "https://open.spotify.com/album/78M16AQffV0YUfvseg60MT"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 216893,
+      "name": "Love Don't Let Me Go",
+      "url": "https://open.spotify.com/track/5lgS45xqkTk2HVm7Jph9ya"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "We Are The Night",
-        "url": "https://open.spotify.com/album/59BUTEyxgum2KPZMwrJjVr"
-      },
-      "artists": [
-        {
-          "name": "The Chemical Brothers",
-          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
-        }
-      ],
-      "duration_ms": 220226,
-      "name": "The Salmon Dance",
-      "url": "https://open.spotify.com/track/3vRYtf5xgPrYeVzAmqvzTd"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "The Stadium Techno Experience",
         "url": "https://open.spotify.com/album/6SLDe9QuNJd0L9XoaPOa9R"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 212466,
       "name": "Weekend!",
       "url": "https://open.spotify.com/track/5aZUGyNzLjucKqp4WCqY6O"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "We Are The Night",
+        "url": "https://open.spotify.com/album/59BUTEyxgum2KPZMwrJjVr"
+      },
+      "artists": [
+        {
+          "name": "The Chemical Brothers",
+          "url": "https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo"
+        }
+      ],
+      "duration_ms": 220226,
+      "name": "The Salmon Dance",
+      "url": "https://open.spotify.com/track/3vRYtf5xgPrYeVzAmqvzTd"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1543,6 +1543,22 @@
       "duration_ms": 241466,
       "name": "Around the World - Radio Edit [Radio Edit]",
       "url": "https://open.spotify.com/track/0TxMRiAvI1s0L821BJJWzx"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Mind The Gap",
+        "url": "https://open.spotify.com/album/4MkSBDwyuxAL44TqLdD9iS"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "duration_ms": 225026,
+      "name": "One (Always Hardcore)",
+      "url": "https://open.spotify.com/track/04frI4TPBnmvaYXHeqELQL"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1623,22 +1639,6 @@
     {
       "added_at": "2021-04-29 18:40:15",
       "album": {
-        "name": "Mind The Gap",
-        "url": "https://open.spotify.com/album/4MkSBDwyuxAL44TqLdD9iS"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        }
-      ],
-      "duration_ms": 225026,
-      "name": "One (Always Hardcore)",
-      "url": "https://open.spotify.com/track/04frI4TPBnmvaYXHeqELQL"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
         "name": "Call On Me (Remixes)",
         "url": "https://open.spotify.com/album/6rLtAT39718G4HXOELGjTs"
       },
@@ -1651,6 +1651,22 @@
       "duration_ms": 171360,
       "name": "Call on Me - Radio Mix",
       "url": "https://open.spotify.com/track/25F37dHEAbzandtlTRIcV2"
+    },
+    {
+      "added_at": "2021-04-29 18:40:15",
+      "album": {
+        "name": "Jumping All Over The World",
+        "url": "https://open.spotify.com/album/3iMFrl2X1m9XF2sLnq793X"
+      },
+      "artists": [
+        {
+          "name": "Scooter",
+          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
+        }
+      ],
+      "duration_ms": 228821,
+      "name": "Jumping All Over The World",
+      "url": "https://open.spotify.com/track/6bIkBV2Wpw08A8KDJA7psE"
     },
     {
       "added_at": "2021-04-29 18:40:15",
@@ -1747,22 +1763,6 @@
       "duration_ms": 203730,
       "name": "Warp 1.9 (feat. Steve Aoki)",
       "url": "https://open.spotify.com/track/1YjoltHfLwCcatHe6xydrm"
-    },
-    {
-      "added_at": "2021-04-29 18:40:15",
-      "album": {
-        "name": "Jumping All Over The World",
-        "url": "https://open.spotify.com/album/3iMFrl2X1m9XF2sLnq793X"
-      },
-      "artists": [
-        {
-          "name": "Scooter",
-          "url": "https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA"
-        }
-      ],
-      "duration_ms": 228821,
-      "name": "Jumping All Over The World",
-      "url": "https://open.spotify.com/track/6bIkBV2Wpw08A8KDJA7psE"
     },
     {
       "added_at": "2021-04-29 18:40:15",

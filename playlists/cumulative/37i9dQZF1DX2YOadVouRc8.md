@@ -4,7 +4,7 @@
 
 > Slow jams from West Africa that unwind and relax
 
-230 songs - 11 hr 43 min
+231 songs - 11 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Better Days](https://open.spotify.com/track/794P6LrIcSEL2NCCqNnUmX) | [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [WANI](https://open.spotify.com/artist/52sXq7h0dM2d4zh1lpFRxt) | [Better Days / Wetin Dey](https://open.spotify.com/album/2iiLSjMEVjkUnpWrNQ8Qun) | 3:07 | 2022-06-09 | 2023-04-19 |
 | [Better Than This \(feat\. Tellaman\)](https://open.spotify.com/track/50PMuNQuMKQHCzxonOeDHE) | [Select Play](https://open.spotify.com/artist/5bJTdzjq8dZRcVjJ8FkAiU), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ), [Tellaman](https://open.spotify.com/artist/6DqJA9OuRcwPNk76q0cOEW) | [Better Than This \(feat\. Tellaman\)](https://open.spotify.com/album/4gXWlYFDwStgusk7cnXv0A) | 3:54 | 2023-06-22 |  |
 | [Bezos](https://open.spotify.com/track/3CL2wSAoigecJkzBLJJyjs) | [Dboi](https://open.spotify.com/artist/0Hm8XNele8yJjZXq2A0nh8) | [Bezos](https://open.spotify.com/album/0HWeesVXBwp4q78Ow2RFpx) | 2:48 | 2023-03-17 | 2023-04-21 |
+| [BILLING = CHILLING](https://open.spotify.com/track/0whm71yydiyeu8W2WnKAD4) | [Toyé](https://open.spotify.com/artist/3ako9MDpww4Y5tjUV02tmi) | [BILLING = CHILLING](https://open.spotify.com/album/7IUFcafS1yVSCcnI6xpYq3) | 2:50 | 2023-07-20 |  |
 | [Blessings](https://open.spotify.com/track/5ibf0QRiCeCmlFlNb7otEP) | [Niphkeys](https://open.spotify.com/artist/6vAWSq2hKcuItyByR5krQV), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Blessings](https://open.spotify.com/album/0tgjVqsRs4lXQ4sgJ1EFIg) | 2:03 | 2022-06-09 | 2022-10-14 |
 | [Blind](https://open.spotify.com/track/05nQi9vhgIRdm4U3Ibt5Ae) | [Jahplaka](https://open.spotify.com/artist/7LHtDuHQxPma5xK94mexGk) | [Blind](https://open.spotify.com/album/5x9iKmrB20VHunQSud1vy6) | 2:27 | 2023-03-17 | 2023-03-31 |
 | [Blue Film](https://open.spotify.com/track/2hyzt7X3NUy8cEnIqJqA0C) | [DJ Yamz](https://open.spotify.com/artist/7r7jLkop1QhNvbiD9iWG5D), [Prince Hakeem Matthews](https://open.spotify.com/artist/3VR8K8yMdHiA5lmKKMSCCt), [Rama Brew](https://open.spotify.com/artist/21UP1AGVLvaDd2bNaHnpRf) | [27 in Accra Town](https://open.spotify.com/album/45b0DqkIiLicB6YcNHea52) | 4:44 | 2022-10-13 | 2022-10-31 |

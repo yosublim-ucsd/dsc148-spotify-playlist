@@ -183,6 +183,28 @@
     },
     {
       "album": {
+        "name": "Be A Firebud (From \"Disney Junior Music: Firebuds\")",
+        "url": "https://open.spotify.com/album/34YGWg1HdUBeTSxgF9vwVe"
+      },
+      "artists": [
+        {
+          "name": "Firebuds - Cast",
+          "url": "https://open.spotify.com/artist/302laih82Q7GtW72QI8sGR"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150994,
+      "name": "Be A Firebud - From \"Disney Junior Music: Firebuds\"",
+      "url": "https://open.spotify.com/track/11IfD973wh91iYe4AH0lfP"
+    },
+    {
+      "album": {
         "name": "Disney Junior Music: Doc McStuffins - The Doc Is In Vol. 2",
         "url": "https://open.spotify.com/album/2APRAxjQ9Y4HLCm2sJuQdO"
       },
@@ -2432,6 +2454,24 @@
       "duration_ms": 84771,
       "name": "One Potato, Two Potato",
       "url": "https://open.spotify.com/track/3bdY37qu59mFKskAeZx9qP"
+    },
+    {
+      "album": {
+        "name": "Mickey Mouse (Music from the Disney Mickey Mouse Shorts)",
+        "url": "https://open.spotify.com/album/3CfYEWvlL7F4HYOM73YD8E"
+      },
+      "artists": [
+        {
+          "name": "Mickey Mouse",
+          "url": "https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167814,
+      "name": "Our Homespun Melody",
+      "url": "https://open.spotify.com/track/1qpnk2QGQynSnCt8eARtiQ"
     },
     {
       "album": {

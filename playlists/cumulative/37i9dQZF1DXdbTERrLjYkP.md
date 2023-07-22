@@ -2,9 +2,9 @@
 
 ### [Next Gen Singer\-Songwriters](https://open.spotify.com/playlist/37i9dQZF1DXdbTERrLjYkP)
 
-> Discover the next wave of talent on the scene writing their own songs\. Cover: Maddie Zahm
+> Discover the next wave of talent on the scene writing their own songs\. Cover: SkyeChristy
 
-501 songs - 1 day 2 hr 45 min
+504 songs - 1 day 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,7 +139,7 @@
 | [Every Second](https://open.spotify.com/track/0GxUJLTF4RanPVwY1YpcZ3) | [Mina Okabe](https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl) | [Better Days](https://open.spotify.com/album/5SrnJoj6SyYblCwkraKsha) | 3:02 | 2022-01-14 | 2022-09-17 |
 | [Everybody Seems to Love You](https://open.spotify.com/track/7glM6QKiCgb0w88hNf0USx) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [Things That Are Bad for Me](https://open.spotify.com/album/3MMxyF2JgR2pUD7qwvOnrg) | 3:22 | 2022-11-11 | 2023-01-28 |
 | [Face](https://open.spotify.com/track/4adUFO0GaeoZfdhdtj9RNZ) | [Alex Kehm](https://open.spotify.com/artist/13B2InTOzB64KSklQRZRmU) | [Face](https://open.spotify.com/album/3zzOvx0cCLS6z2M2iKj57F) | 3:22 | 2022-01-14 | 2022-04-02 |
-| [Fake Love](https://open.spotify.com/track/05Z4IreB9RR7ckA77xhoEK) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [Fake Love](https://open.spotify.com/album/7ETHMfLKCuyBc0m0LbkdHT) | 2:28 | 2023-05-26 |  |
+| [Fake Love](https://open.spotify.com/track/05Z4IreB9RR7ckA77xhoEK) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [Fake Love](https://open.spotify.com/album/7ETHMfLKCuyBc0m0LbkdHT) | 2:28 | 2023-05-26 | 2023-07-22 |
 | [Fall In Love Alone](https://open.spotify.com/track/5xwBIieMMFUmLDgvG4DjFe) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ) | [Fall In Love Alone](https://open.spotify.com/album/0ASnNAycI0eu91gMm9Jfe4) | 3:25 | 2022-05-13 | 2022-10-08 |
 | [Fat Funny Friend](https://open.spotify.com/track/4eaSY3ucamesaARYBsLfz2) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [Fat Funny Friend](https://open.spotify.com/album/1GPXyEfrKW38dJsC1nSXu0) | 3:19 | 2022-02-04 | 2022-06-23 |
 | [favorite crime](https://open.spotify.com/track/61W7tEpxEfmizp6V5ZRN10) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/7bYichzvtYHdjF8HF69dyA) | 2:32 | 2022-01-14 | 2022-04-29 |
@@ -155,7 +155,7 @@
 | [Floating](https://open.spotify.com/track/0g0tS35UJaSLRqS025rZHw) | [Chevy](https://open.spotify.com/artist/0lhcAgqzhRZuhHTXJsilSc) | [Floating](https://open.spotify.com/album/1p02y0dX11Mpo3K6Qx7Sad) | 4:00 | 2022-01-14 | 2022-03-30 |
 | [Flood](https://open.spotify.com/track/7uHxkxA2hcETeuDp5seg4E) | [sleep.ing](https://open.spotify.com/artist/72qGRng3c6BZNeYJH3C5ct), [Dave Faber](https://open.spotify.com/artist/2eQOHn4qBMuuKTtx7seCz8) | [Flood](https://open.spotify.com/album/3W3WfVjJJiXFZyALqfESLc) | 2:37 | 2022-02-04 | 2022-03-18 |
 | [For an Evening](https://open.spotify.com/track/2ry3JuCKfudzLz0TUeQPgp) | [Emily James](https://open.spotify.com/artist/7FxEy78P0oIVEVxdaL9npy) | [For an Evening](https://open.spotify.com/album/0auzW0Fo22oIXe48MAnZsW) | 4:15 | 2022-12-30 | 2023-04-01 |
-| [Friday Night Thriller](https://open.spotify.com/track/1o66k4kAIZT0cQKpHxDkIt) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [Friday Night Thriller](https://open.spotify.com/album/4FLj8kPkN30iRNN5Rlnrug) | 3:10 | 2023-06-30 |  |
+| [Friday Night Thriller](https://open.spotify.com/track/1o66k4kAIZT0cQKpHxDkIt) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [Friday Night Thriller](https://open.spotify.com/album/4FLj8kPkN30iRNN5Rlnrug) | 3:10 | 2023-06-30 | 2023-07-22 |
 | [Friends](https://open.spotify.com/track/3p8UR44fSAdvuwJ4FaGmZC) | [Eva Westphal](https://open.spotify.com/artist/32obs0w1xupMz2CXf5B9wb) | [Friends](https://open.spotify.com/album/4PdoqHEEpVoMKU77mMzIKt) | 2:55 | 2023-04-07 |  |
 | [Fucked Up Together](https://open.spotify.com/track/3ol5hkZ8PSLXW2fVfxsgP7) | [Peter Raffoul](https://open.spotify.com/artist/57Y46IQXUoP3ytP9Wm2xRM) | [Fucked Up Together](https://open.spotify.com/album/5lhKFQ0Jn0Zfc5VciiiP61) | 3:59 | 2022-01-14 | 2022-03-12 |
 | [Full Circle](https://open.spotify.com/track/1agBQVBW2meTYQjmLdCxbB) | [Billianne](https://open.spotify.com/artist/0MID3D49WKmEGfBINN0VJC) | [Full Circle](https://open.spotify.com/album/5ajWwglxlTJUUjIXhDg2y8) | 3:19 | 2023-03-31 | 2023-07-08 |
@@ -206,6 +206,7 @@
 | [how could you?](https://open.spotify.com/track/2RCgoGVhKqbFDSKLkliiKN) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [how could you?](https://open.spotify.com/album/67LtsN5brmaYCxqVxNjI2t) | 2:40 | 2022-11-11 | 2022-12-24 |
 | [How Do I Love Again](https://open.spotify.com/track/65aCfiCJpxr5Pwj7CXkxEE) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [Dear Ella,](https://open.spotify.com/album/1NnDilXBFyACjOuXOvY7Z7) | 3:28 | 2023-06-12 |  |
 | [How Do I Not.](https://open.spotify.com/track/2HQDOhUcS51VcBem0jmYjJ) | [Madeline Consoer](https://open.spotify.com/artist/1bw2RHxmR0mo75zcrlarDo) | [How Do I Not.](https://open.spotify.com/album/5P2C1iE7qzQkMKHgzsNwo6) | 2:43 | 2022-08-05 | 2022-12-24 |
+| [How Do We Stay In Love?](https://open.spotify.com/track/57C2Jt6xUTlN9QVrWSimBJ) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [How Do We Stay In Love?](https://open.spotify.com/album/4CPmCif9l0FLCp4jRwu8AR) | 2:39 | 2023-07-21 |  |
 | [How The Story Ends](https://open.spotify.com/track/2UZgjzIwe1luGtukImuXDi) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [How The Story Ends](https://open.spotify.com/album/6hFUWN8f9dlGuBaCeYsmul) | 2:45 | 2023-02-03 | 2023-03-11 |
 | [Hurt Again](https://open.spotify.com/track/3gdiyrJ3d1FGnYnCrVKwph) | [Jillian Rossi](https://open.spotify.com/artist/2u2MvYsk6gZY0Khn9SAMeO) | [Hurt Again](https://open.spotify.com/album/5CAl06ROTsSgP4z0ysJOmQ) | 2:06 | 2022-01-14 | 2022-03-12 |
 | [I Burned LA Down](https://open.spotify.com/track/34Mg7rSCT7nRsf1kVCAvgz) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Burned LA Down](https://open.spotify.com/album/71EPoeTo5QAlsr2OWCRNhM) | 3:15 | 2022-04-08 | 2022-07-16 |
@@ -216,7 +217,7 @@
 | [I Don't Do Anything](https://open.spotify.com/track/5sEw7zJzxgMzmLqE3Ov4XT) | [Olivia Barton](https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1) | [This is a Good Sign](https://open.spotify.com/album/6zNW862YjKUX7Iqo5o22nf) | 3:09 | 2023-04-28 | 2023-05-06 |
 | [I Don't Sing My Songs](https://open.spotify.com/track/6shIbEKPwnukg40ZQKGcBP) | [Olivia Barton](https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1) | [This is a Good Sign](https://open.spotify.com/album/6zNW862YjKUX7Iqo5o22nf) | 3:45 | 2023-04-28 |  |
 | [I Don’t Need To](https://open.spotify.com/track/1C4nLRbgwtS1vUahjaldO0) | [Maddy Hicks](https://open.spotify.com/artist/0wKl6457qdsk7WxnqOeeFJ) | [Situationships](https://open.spotify.com/album/7uBpnSHqqg4IEveWTBcbHL) | 3:04 | 2023-03-31 |  |
-| [I Get What I Want](https://open.spotify.com/track/0pkmyS5YR3IkGwOCBfXsfi) | [Sophie Holohan](https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw) | [I Get What I Want](https://open.spotify.com/album/6ykoHY56yECTvi6bxyzhdU) | 3:27 | 2023-02-24 |  |
+| [I Get What I Want](https://open.spotify.com/track/0pkmyS5YR3IkGwOCBfXsfi) | [Sophie Holohan](https://open.spotify.com/artist/4kpaI92KQcPABQj9qxIopw) | [I Get What I Want](https://open.spotify.com/album/6ykoHY56yECTvi6bxyzhdU) | 3:27 | 2023-02-24 | 2023-07-22 |
 | [I GUESS I'M IN LOVE](https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [I GUESS I'M IN LOVE](https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP) | 3:24 | 2022-01-14 | 2022-09-10 |
 | [I Guess That Was Goodbye](https://open.spotify.com/track/3mtSPmyeEkkqvHdXj7W4qg) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [I Guess That Was Goodbye](https://open.spotify.com/album/1Ta5G7cdU0U7yDjZjbvyVl) | 3:10 | 2022-02-04 | 2022-07-23 |
 | [I Hate The Beatles](https://open.spotify.com/track/6fPC2bl2J0s2WG4adY2HaJ) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [I Hate The Beatles](https://open.spotify.com/album/7u506EjfG4xdfO9EdzrqDQ) | 3:05 | 2022-03-04 | 2022-03-12 |
@@ -353,6 +354,7 @@
 | [Pretty \- Acoustic](https://open.spotify.com/track/0B2BvSv3O4tQJnwv7YYJMb) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [Pretty \(Acoustic\)](https://open.spotify.com/album/1hseSqtG2xlzQ1DWwx2Xl3) | 2:41 | 2022-01-14 | 2022-02-19 |
 | [Pretty People](https://open.spotify.com/track/3mnmpbrInwnPja7LYlc1Ks) | [Sophie Pecora](https://open.spotify.com/artist/1djGyQAjyVQh0HWCYMHCcB) | [Pretty People](https://open.spotify.com/album/7l4VSlWK9D63JLHECO69u5) | 2:30 | 2022-01-14 | 2022-04-29 |
 | [pretty when u cry](https://open.spotify.com/track/5XVz2gm474WOD26Q3pp9PA) | [Rachel Bochner](https://open.spotify.com/artist/6AdwNKE3DsPrlNNCIzdZXz) | [pretty when u cry](https://open.spotify.com/album/5o9b4Ff3zqrviSAtUfFt3w) | 3:38 | 2022-02-04 | 2022-08-06 |
+| [Prime Years](https://open.spotify.com/track/3gTtFwxQ5fbAwnbr75LxeV) | [SkyeChristy](https://open.spotify.com/artist/1gs7KrnlCg03ctwSwLuLND) | [The Summer I Lost My Lover](https://open.spotify.com/album/6LCJc8Rs72aH30ocmWoRaK) | 2:43 | 2023-07-21 |  |
 | [Priority](https://open.spotify.com/track/3YS2XHzhnFyAEmfQbLIjaM) | [Ellye Lennon](https://open.spotify.com/artist/77rboyrzZ7IKcJWX1raGGM) | [Priority](https://open.spotify.com/album/7lEsXKTCD1OspayrdWKfgQ) | 3:46 | 2022-12-02 | 2023-02-04 |
 | [promised](https://open.spotify.com/track/2Fv3WCZVsCxQtkMAQLHMmJ) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [flounder](https://open.spotify.com/album/3AmWQhIXHawKYgthdEJSLJ) | 3:58 | 2023-02-24 | 2023-06-24 |
 | [Prophecies](https://open.spotify.com/track/4Et7m1pazErkSegnrBNXkF) | [J\. Maya](https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU) | [Poetic License](https://open.spotify.com/album/7G2Dh8OsAMclQAWIShyb7v) | 3:14 | 2022-12-02 | 2023-02-25 |
@@ -436,6 +438,7 @@
 | [Talk Too Much](https://open.spotify.com/track/7haim7EewbN5RnByO5GtWV) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Talk Too Much](https://open.spotify.com/album/5rsy1T9egnzYvl4wpfyXPw) | 3:16 | 2023-07-14 |  |
 | [Teenage Mona Lisa](https://open.spotify.com/track/4CnA1w7WulFrRPehCWDULz) | [Alfie Castley](https://open.spotify.com/artist/4t5uGGNiFjujYEEyVVDEwc) | [Teenage Mona Lisa](https://open.spotify.com/album/35Sb1Pi7OBPPWPyyGf9N6d) | 3:18 | 2022-02-16 | 2022-05-14 |
 | [Terrified](https://open.spotify.com/track/101u4M8kj2rvhhUaSTprHv) | [Brynn Elliott](https://open.spotify.com/artist/43AN9FNovCCWxPX4talyzz) | [Terrified](https://open.spotify.com/album/4ldMBjS223cjhaCYxwtgO2) | 2:25 | 2022-02-04 | 2022-04-29 |
+| [Terrified](https://open.spotify.com/track/7nEGHve0DEiuJj53vEtPNz) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Learning](https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG) | 3:57 | 2023-07-21 |  |
 | [that was quick!](https://open.spotify.com/track/36tVh8MZ2bxliGj0eJyKsX) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [that was quick!](https://open.spotify.com/album/5pUdobn8VDjZku5tmsiCXa) | 2:46 | 2022-03-18 | 2022-07-02 |
 | [The Cut](https://open.spotify.com/track/6AO3YHxtUwTjoKfhZYtvLT) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [The Cut](https://open.spotify.com/album/7oC1Kz7WWSj8I8Mkjzwukt) | 3:19 | 2023-03-31 |  |
 | [The Day That I Met You](https://open.spotify.com/track/2G31WfcBUlMGZ8lpJ0bfA1) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [The Day That I Met You](https://open.spotify.com/album/2w5BVD5WObeg5FkJxBgmES) | 2:45 | 2023-02-24 | 2023-05-06 |

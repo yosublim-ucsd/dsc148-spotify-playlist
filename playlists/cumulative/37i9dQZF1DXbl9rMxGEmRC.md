@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-446 songs - 1 day 14 hr 19 min
+448 songs - 1 day 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -246,7 +246,7 @@
 | [Malfeitor](https://open.spotify.com/track/79qyNyF12jmPSLGCvPyInr) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [Lawless Darkness](https://open.spotify.com/album/2pQr4wN4SN9Ax3gdXDhrRz) | 6:58 | 2022-07-13 |  |
 | [March of the Antichrist](https://open.spotify.com/track/6Dy0BJpWP1FqqffGVldz1u) | [Path of Destiny](https://open.spotify.com/artist/1iydHn2q6TisTwNxU0yc2K) | [The Seed of All Evil](https://open.spotify.com/album/76y3jhORzJxEJnNfkjHKYj) | 6:39 | 2021-12-17 | 2022-01-22 |
 | [March to the Crater](https://open.spotify.com/track/5cKTyp5RFPALN8SbmYDGEk) | [Avhath](https://open.spotify.com/artist/18Oc9nuhdMhI1AHsciD1xu) | [Lethargy / March to the Crater](https://open.spotify.com/album/6tmF8a9xltdA3Osru96x2V) | 2:47 | 2022-03-10 | 2022-03-19 |
-| [Matter and Energy](https://open.spotify.com/track/4hdlC6vb8ZuEfdPssn41lD) | [Mesarthim](https://open.spotify.com/artist/4ZnlfGzJ64rXn81cR2OR0E) | [Vacuum Solution](https://open.spotify.com/album/3BiBB0Duax8O9UJBtibIZN) | 4:38 | 2023-06-09 |  |
+| [Matter and Energy](https://open.spotify.com/track/4hdlC6vb8ZuEfdPssn41lD) | [Mesarthim](https://open.spotify.com/artist/4ZnlfGzJ64rXn81cR2OR0E) | [Vacuum Solution](https://open.spotify.com/album/3BiBB0Duax8O9UJBtibIZN) | 4:38 | 2023-06-09 | 2023-07-22 |
 | [Mellonta Tauta](https://open.spotify.com/track/71gPwccCGNsMnsWCjKfSs1) | [Hegemon](https://open.spotify.com/artist/5KloIT5bV4mnTXMNYetENE) | [Sidereus Nuncius](https://open.spotify.com/album/0Uyv8xXfDXeTDx4Rm0aJdQ) | 5:46 | 2021-12-17 | 2022-05-21 |
 | [MEMORIES OF THE FUTURE](https://open.spotify.com/track/7Hcl0HhRJu9vkm74nJQ5Jc) | [Digress](https://open.spotify.com/artist/7joz4TQxQt5YUqJgZXaMO2), [ONI INC.](https://open.spotify.com/artist/1dW38AxhFH7xZjV7o3p3l4) | [MEMORIES OF THE FUTURE](https://open.spotify.com/album/0cpMyNT6voEnwPYBHmJ8PW) | 2:37 | 2022-03-18 | 2022-07-14 |
 | [Merkurius Gilded](https://open.spotify.com/track/6bpgcccrTm1A7peyCEzeQG) | [Imperial Triumphant](https://open.spotify.com/artist/5zvMklMSTgoGUS9Un5domO) | [Merkurius Gilded](https://open.spotify.com/album/3fzqUhl7vxsGzanjIxisKD) | 6:08 | 2022-06-10 | 2022-09-15 |
@@ -270,6 +270,7 @@
 | [Nauseating Oblivion](https://open.spotify.com/track/7JYPEnhWA1jthT9QihGnQi) | [Nightrage](https://open.spotify.com/artist/6dhqzgrbFggOBns03STnU3) | [Nauseating Oblivion](https://open.spotify.com/album/2tXlcUe6UTMOSfMnjtfS6a) | 3:15 | 2021-12-17 | 2022-07-29 |
 | [Necrobionics](https://open.spotify.com/track/3AaLvR5xPbeewAElRzRMdB) | [Undeath](https://open.spotify.com/artist/1vbr39xw4sKFUOiogA0DWN) | [Necrobionics](https://open.spotify.com/album/4XekYCMN88wxtjOxkfrOlN) | 3:31 | 2022-03-18 | 2022-07-29 |
 | [Necrotica](https://open.spotify.com/track/2AdSg9Fpi2zKtkjboSQmgb) | [Exhumed](https://open.spotify.com/artist/2OjtmMho2pBS86zQ1PliRu) | [To the Dead](https://open.spotify.com/album/4O4krXb7DWdic7axPxg4UC) | 4:30 | 2022-10-21 | 2022-11-26 |
+| [Nel vento](https://open.spotify.com/track/0vi3vh2G7Y1dHaNfsPBV3v) | [Blaze of Sorrow](https://open.spotify.com/artist/3WdAbe7LcgPuckuALu2co5) | [Vultus Fati](https://open.spotify.com/album/04HEOUUe5JoSb6htpIwxjb) | 5:29 | 2023-07-21 |  |
 | [Neptune's Eye](https://open.spotify.com/track/7IhKe2RCCVWz52hXZoFy2v) | [Blut Aus Nord](https://open.spotify.com/artist/0c0xIXQhCbmtvzM93liaSf) | [Disharmonium \- Undreamable Abysses](https://open.spotify.com/album/2E0VM3yGCaKSgd2CENiNbr) | 5:57 | 2022-05-20 | 2022-08-07 |
 | [Ner i Mörkret](https://open.spotify.com/track/2JWtP6sx2UmfeA2qDYtHH1) | [Ereb Altor](https://open.spotify.com/artist/11sL6ZJmmfutSoWopcXbFm) | [Vargtimman](https://open.spotify.com/album/3mhYdlpUs83zUAbtipURFs) | 6:06 | 2022-01-14 | 2022-07-29 |
 | [Night](https://open.spotify.com/track/5XH2xL0ahHWmOgfAwJDscJ) | [Thou](https://open.spotify.com/artist/4KoZpKiPeX4jIi7Euwcfuo), [Emma Ruth Rundle](https://open.spotify.com/artist/34gLicNdz493863yZTanvC), [Mizmor](https://open.spotify.com/artist/655AEE6ifgDJ3TYkhHdP48) | [Night](https://open.spotify.com/album/7IwWlcYAosb728DUZnw9RO) | 4:01 | 2022-04-15 | 2022-10-28 |
@@ -362,6 +363,7 @@
 | [Sunholy](https://open.spotify.com/track/0up8bZXZqgKg9TzlrSPOTR) | [Shade Empire](https://open.spotify.com/artist/7vdH23uIvKDe36XYLQZTeH) | [Sunholy](https://open.spotify.com/album/3wPqeHtegyMuh6LsNyTjJ9) | 6:57 | 2023-07-03 | 2023-07-15 |
 | [Svart Industriell Olycka](https://open.spotify.com/track/4eDKFcJDDoUcUYlK2cdemJ) | [Shining](https://open.spotify.com/artist/7wqTItc5qEyIwWw5ksN1Ya) | [III : Angst](https://open.spotify.com/album/7EkBKDQY4vPdkoEiW0fFUv) | 8:05 | 2022-07-13 | 2022-07-29 |
 | [Swamped XX](https://open.spotify.com/track/3iqzSkWevZvDTgugUQhUB9) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Swamped XX](https://open.spotify.com/album/6FkY7M23Zqy1MrRYJJJals) | 3:32 | 2022-09-16 | 2023-02-11 |
+| [Swan Season](https://open.spotify.com/track/2hqNNF4viFvXsEd7sDozD6) | [Deadly Carnage](https://open.spotify.com/artist/6Smmabcnt0gxJ3PnXAFq1L) | [Swan Season](https://open.spotify.com/album/0qxGwkCxJYjfGRP2d0XsgZ) | 4:30 | 2023-07-21 |  |
 | [Szex Witchery](https://open.spotify.com/track/2rfMZCzlXaGsrCiSdllKcT) | [Midnight](https://open.spotify.com/artist/28KjD5HkkDDytQzKW7JzTp) | [Szex Witchery](https://open.spotify.com/album/4POysr62d7E2iOCLDHe5sS) | 3:59 | 2022-01-21 | 2022-02-11 |
 | [Taken before Given](https://open.spotify.com/track/4XEx6vQCbgO7DWvAy6gI7f) | [Kalmah](https://open.spotify.com/artist/2YPVtFn6SsYNntkmrdDpGF) | [Taken before Given](https://open.spotify.com/album/6CucaBaSyHO7ZQSwVvTu2T) | 3:54 | 2023-04-28 | 2023-07-13 |
 | [The Art of Disinformation](https://open.spotify.com/track/0je097gR1Lprjq3QuGnPs6) | [Demonstealer](https://open.spotify.com/artist/7A6AxHa4xv84XTYZVnVxUd), [Alex Baillie](https://open.spotify.com/artist/4IecZ7TJVhaB9iaqwadf2s), [Anabelle Iratni](https://open.spotify.com/artist/44hl46lOwYwNLIQHUJhj7f), [Kilian Duarte](https://open.spotify.com/artist/37qb9qvrRueoTjy8x9oU5M), [Sebastian Lanser](https://open.spotify.com/artist/4lW9LAfcGZvKxmOmH5PLsE) | [The Propaganda Machine](https://open.spotify.com/album/7GKai7jel0CA2C00c3BOrk) | 6:07 | 2023-03-31 | 2023-05-20 |
@@ -425,7 +427,7 @@
 | [Vultures of North](https://open.spotify.com/track/7EtQ5CqjSRgItuTYXeEtc9) | [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY) | [Vultures of North](https://open.spotify.com/album/738F2jVcoLtg0mBuXuxows) | 4:38 | 2022-08-26 |  |
 | [War Against All](https://open.spotify.com/track/2WTI5fDM2KJJAt6f8bOtcD) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [War Against All](https://open.spotify.com/album/42itntO9qiIkUewMznm08m) | 3:26 | 2023-04-07 | 2023-05-28 |
 | [War Against All](https://open.spotify.com/track/4IQ6qp5TsASmn2BIT42sy1) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [War Against All](https://open.spotify.com/album/0i3dDHDl3RCfP1tEIqOx9h) | 3:26 | 2023-05-26 | 2023-06-24 |
-| [War Remains](https://open.spotify.com/track/01OftO0NuZARcIbsSPF5MC) | [Enforced](https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp) | [War Remains](https://open.spotify.com/album/0Fx1gRQZtxcMrdrrMkdYpN) | 4:11 | 2023-04-28 |  |
+| [War Remains](https://open.spotify.com/track/01OftO0NuZARcIbsSPF5MC) | [Enforced](https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp) | [War Remains](https://open.spotify.com/album/0Fx1gRQZtxcMrdrrMkdYpN) | 4:11 | 2023-04-28 | 2023-07-22 |
 | [Wargod](https://open.spotify.com/track/000ETNHKRNLHNPjsCojYkc) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [War Against All](https://open.spotify.com/album/0i3dDHDl3RCfP1tEIqOx9h) | 4:38 | 2023-05-26 |  |
 | [Wargod](https://open.spotify.com/track/7zMtpoUdT3TsOHQvaQAqQI) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [Wargod](https://open.spotify.com/album/2RfmZMdglQ9FC6yDrRu4Cr) | 4:38 | 2023-04-21 | 2023-05-28 |
 | [Warmen Are Here For None](https://open.spotify.com/track/3Ryy4TIDEdQ8guagOuf8LO) | [Warmen](https://open.spotify.com/artist/28pvPjZ2n9xUBEHnMgupmh) | [Warmen Are Here For None](https://open.spotify.com/album/1QnSxSXIPwXUUDDtTvmvMa) | 3:37 | 2023-06-16 |  |

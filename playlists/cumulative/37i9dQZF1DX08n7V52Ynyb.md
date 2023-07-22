@@ -4,7 +4,7 @@
 
 > Soft and smooth vocal Jazz to help you relax and unwind.
 
-176 songs - 13 hr 2 min
+177 songs - 13 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Oh My Love](https://open.spotify.com/track/4k5cfX3AIWAHvl0cpCT7XA) | [Jacky Terrasson](https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr), [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [Saint Valentin jazz](https://open.spotify.com/album/3AXIQlRug6iCuHVNlumj9y) | 4:47 | 2022-07-21 | 2022-10-22 |
 | [Once Upon A Summertime](https://open.spotify.com/track/1YlxMqTgJisGd0eH88rfId) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Once Upon A Summertime](https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n) | 2:47 | 2022-04-13 |  |
 | [Once Upon a Summertime](https://open.spotify.com/track/2JnPEk8BDhOzHeh7kzNfw6) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [You Should Have Told Me](https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ) | 4:39 | 2022-04-13 | 2023-06-28 |
-| [Only the Lonely](https://open.spotify.com/track/4BJlrxrnHmnUi6DoZHexAc) | [Lucy Yeghiazaryan](https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB) | [Only the Lonely](https://open.spotify.com/album/2LEdyJtyGv0wVJnwN5S67p) | 3:12 | 2022-12-23 |  |
+| [Only the Lonely](https://open.spotify.com/track/4BJlrxrnHmnUi6DoZHexAc) | [Lucy Yeghiazaryan](https://open.spotify.com/artist/4sXb22eyy3cbr6C2qNg6CB) | [Only the Lonely](https://open.spotify.com/album/2LEdyJtyGv0wVJnwN5S67p) | 3:12 | 2022-12-23 | 2023-07-22 |
 | [Peel Me A Grape](https://open.spotify.com/track/5lBhqsWIzC9YtjkDaFsynh) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Love Scenes](https://open.spotify.com/album/13vOgfmCMpWRzgggSu4Di9) | 5:52 | 2022-04-13 | 2022-07-29 |
 | [Peel Me A Grape](https://open.spotify.com/track/7d78grkC9XhKXKJf44so32) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Love Scenes](https://open.spotify.com/album/0BY7XVm9kLLwDmQfXFL8G8) | 5:52 | 2022-07-21 | 2022-11-15 |
 | [Perhaps You'll Wonder Why](https://open.spotify.com/track/3iJDdT5rSv6SAY5W21PHsp) | [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [Philippe Powell](https://open.spotify.com/artist/52SspApfOsCLlOO0GYnZHe) | [Perhaps You’ll Wonder Why](https://open.spotify.com/album/5JjlmBr6SE9dY2xAKO1jrr) | 4:45 | 2022-05-05 |  |
@@ -140,6 +140,7 @@
 | [Some Other Time](https://open.spotify.com/track/0wVDgWsBZkeLzERYSYj8CJ) | [Connie Lansberg](https://open.spotify.com/artist/4qLq0MatI5KT1xG49JK84A), [Mark Fitzgibbon](https://open.spotify.com/artist/6pGS8ODz3Vpeg4b6XOj2jB), [Ben Hanlon](https://open.spotify.com/artist/5wmOjwX4DBUnoS9Qz9A1WY), [Peter Hodges](https://open.spotify.com/artist/6R24JW8eOgeuOMGkehKfYh) | [Some Other Time](https://open.spotify.com/album/1KvuEly7wop2kY2YKkqjAg) | 3:27 | 2022-04-13 |  |
 | [Someone to Watch over Me](https://open.spotify.com/track/3l4c1SMbtDjz4LgmCNSWxS) | [Elisabeth Melander](https://open.spotify.com/artist/09FsiQ9vAnKdvZcM5DZGYm) | [Reflections of a Voice](https://open.spotify.com/album/7nGWElWBanIzLOX3S6jeQH) | 6:05 | 2022-04-13 | 2022-09-29 |
 | [Sometimes Today Seems Like Yesterday](https://open.spotify.com/track/4suPwKFZtB6ztKoTzppeYR) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Linger Awhile \(Deluxe Edition\)](https://open.spotify.com/album/1kQH5ZtEqzJ5GxyTtfHKE3) | 3:03 | 2023-05-18 |  |
+| [Song to Comfort](https://open.spotify.com/track/2sJl5vXX9cVaDYZFfjPTLc) | [Marie Mørck](https://open.spotify.com/artist/7hlDHwdUAnMXWDRu5Shlt7) | [Songs to Comfort](https://open.spotify.com/album/10cKBHZzGy3ykvZVHngmy8) | 5:38 | 2023-06-21 |  |
 | [Spring Can Really Hang You up the Most](https://open.spotify.com/track/3GFBG0crgjK3sjivJtMwLe) | [Amanda Ginsburg](https://open.spotify.com/artist/0WnqhdeUWBRldiZFW83Ahj), [Filip Ekestubbe](https://open.spotify.com/artist/1rhA3rMvp7PcSaxbLlTZXX), [Magnus Lindgren](https://open.spotify.com/artist/1ai1y07cRSewaRoOsQ4BfN) | [Spring Can Really Hang You up the Most](https://open.spotify.com/album/6Jl50vplY7lfIVwFpMoWSI) | 5:26 | 2022-04-13 |  |
 | [Spring Can Really Hang You Up The Most \- Demo](https://open.spotify.com/track/24mo3C5GuVTfoL8vedPMqL) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:48 | 2022-07-21 | 2022-10-12 |
 | [Spring Can Really Hang You Up The Most \- Demo](https://open.spotify.com/track/6SjpAsNdQMizJqNvvzsCK3) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Spring Can Really Hang You Up The Most / Come Away With Me](https://open.spotify.com/album/5BWCqsQ5neaxEhnVxybYuG) | 3:48 | 2022-04-13 | 2022-07-29 |

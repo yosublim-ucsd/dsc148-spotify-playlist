@@ -4,7 +4,7 @@
 
 > Set it off with these epic anthems\. Only good vibes here!
 
-635 songs - 1 day 10 hr 18 min
+636 songs - 1 day 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,7 +157,7 @@
 | [Do You Like Me?](https://open.spotify.com/track/6q4yusLwjDYEcF6jXHdt7J) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Do You Like Me?](https://open.spotify.com/album/1Jlpz65a64XDxwAVjufFUG) | 3:47 | 2023-01-27 | 2023-02-11 |
 | [Dollar](https://open.spotify.com/track/0z4zZNViQ01puQOlAFGGUy) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [KIN](https://open.spotify.com/album/5yccZqBhhSqWndfKVjNZQY) | 3:28 | 2020-04-10 | 2021-08-28 |
 | [DOLORES](https://open.spotify.com/track/7DTpAigYPkkjZJlKkdEqjZ) | [James Mantis](https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r) | [DOLORES](https://open.spotify.com/album/2ra0LCOVW2fbrf5oykQNDh) | 4:10 | 2020-08-03 | 2021-03-19 |
-| [Dominoes](https://open.spotify.com/track/5EXtmeRbTiNT8UKfIuMez9) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Dominoes](https://open.spotify.com/album/2dlpZyyRvPou3UyC7nACNp) | 2:57 | 2023-05-26 |  |
+| [Dominoes](https://open.spotify.com/track/5EXtmeRbTiNT8UKfIuMez9) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Dominoes](https://open.spotify.com/album/2dlpZyyRvPou3UyC7nACNp) | 2:57 | 2023-05-26 | 2023-07-22 |
 | [Don't You Give Up](https://open.spotify.com/track/68xBP3GnZuYEDlN4usyp4G) | [Dansu](https://open.spotify.com/artist/3vF7mdipJUsMxuFdW2udAt) | [Don't You Give Up](https://open.spotify.com/album/1XLNl0rSgAC4RPccFnpIY6) | 3:08 | 2019-09-05\* | 2021-08-28 |
 | [Don’t Lose Your Cool](https://open.spotify.com/track/7uZEIIxCVhHGVUwtOZO2Er) | [Louis Mattrs](https://open.spotify.com/artist/7qevodTHcV0rtg9O7ih6nn) | [On The Rocks](https://open.spotify.com/album/4FysGZbj0qdRRNxUdiSut0) | 3:35 | 2019-09-05\* | 2021-08-28 |
 | [Doodoodoo](https://open.spotify.com/track/02Jf3pdSKAUgseNZSiJbwp) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [Doodoodoo](https://open.spotify.com/album/1m3Iv9AHZuPQBB9IhAZwkW) | 2:53 | 2021-03-14 | 2022-03-17 |
@@ -641,6 +641,7 @@
 | [You Right](https://open.spotify.com/track/7Me3GKpQyEsHwS9xnOrUgM) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Planet Her \(Deluxe\)](https://open.spotify.com/album/4XLPYMERZZaBzkJg0mkdvO) | 3:06 | 2021-11-13 | 2022-05-14 |
 | [You're Not Missing Me](https://open.spotify.com/track/7ahYQRrOQSXJ5OhsLnpfU8) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [You're Not Missing Me](https://open.spotify.com/album/08Ll3Qer8wXXDxXE04syjX) | 3:33 | 2019-09-05\* | 2020-04-10 |
 | [Young Hearts](https://open.spotify.com/track/6EvN0yVTeZDOp7Ltuea2uo) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [Young Hearts](https://open.spotify.com/album/3CyqH3gtPaREjTbtLnPDAk) | 2:39 | 2023-01-13 | 2023-02-18 |
+| [Young In California](https://open.spotify.com/track/4HEpz9QQ8uOViMf6K8tucK) | [Paco Versailles](https://open.spotify.com/artist/5VptPtXbT0T4imW6GcobiW) | [Young In California](https://open.spotify.com/album/77AL4lIpiSzEf4P6Z2j4XF) | 3:57 | 2023-07-21 |  |
 | [Your Man](https://open.spotify.com/track/5sbZj8hcae2ebXVBonKQ6g) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Nectar](https://open.spotify.com/album/5EzDhyNZuO7kuaABHwbBKX) | 2:43 | 2020-10-13 | 2022-01-29 |
 | [Youuu](https://open.spotify.com/track/0xORFaXxl07BtES8IAJ7OD) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Youuu](https://open.spotify.com/album/59F5U8Tft9i1RhW3s9Yb8Z) | 3:55 | 2020-01-30 | 2021-09-25 |
 

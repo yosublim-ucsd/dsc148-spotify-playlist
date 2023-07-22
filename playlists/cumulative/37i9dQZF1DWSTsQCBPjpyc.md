@@ -4,7 +4,7 @@
 
 > Blues meets funk\. Cover: Eric Gales
 
-78 songs - 5 hr 23 min
+79 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Set The Record Straight](https://open.spotify.com/track/4AdSgPoYsFYrIfZZUS9zX9) | [HOROJO Trio](https://open.spotify.com/artist/66KQPvPqWNdcaKJtaumZ9m) | [Set The Record](https://open.spotify.com/album/4u6zYkjwaeYNGuYj5fy8nc) | 4:44 | 2022-04-01 |  |
 | [She Was a Doorman](https://open.spotify.com/track/1CgGro1rXhkxs7LviofPyT) | [Ana Popovic](https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf) | [Trilogy, Vol\. 1](https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP) | 4:03 | 2020-12-01 |  |
 | [Signs, High Times](https://open.spotify.com/track/2ugzSmr5FKy9AwBmTUkEiT) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Signs](https://open.spotify.com/album/2SWcIu27vvZHPxEHU3FDck) | 3:51 | 2020-12-01 |  |
+| [Spike the Punch](https://open.spotify.com/track/4tzM9L39FaKPh6uY0bmRGx) | [Carl Verheyen](https://open.spotify.com/artist/3BpUUAvJhkvkpYI6nQ7OUf) | [Riverboat Sky](https://open.spotify.com/album/6qqnFUo7wzneVRQw26ewhq) | 3:47 | 2023-07-21 |  |
 | [Stop On By](https://open.spotify.com/track/3nqj5Fx7sbZBkTIuCoRjGN) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [All The Way](https://open.spotify.com/album/7EVdCFnjNzPlPBWI89YtGs) | 4:07 | 2020-12-01 |  |
 | [Stranger Blues \(feat\. Dashawn Hickman\)](https://open.spotify.com/track/6oHfxmYHneus7uI1iAZlwb) | [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc), [Lucy Woodward](https://open.spotify.com/artist/1hQaXAeGO0y6sQYLqdfErE), [Dashawn Hickman](https://open.spotify.com/artist/73bkH6RCIOB2BAD1RWVTBY) | [Stranger Blues \(feat\. Dashawn Hickman\)](https://open.spotify.com/album/7AJbYy5GiP9z3mGX9085tO) | 2:56 | 2021-04-23 |  |
 | [Sugar Sweet](https://open.spotify.com/track/13cYITViVXDJ9PQv7YqJPM) | [Jeff Healey](https://open.spotify.com/artist/4SsLXt0cHcVRhHzxXa8Wnx) | [Mess Of Blues](https://open.spotify.com/album/6KopMX1sqafvcQVLtOpnw6) | 3:46 | 2020-12-01 |  |

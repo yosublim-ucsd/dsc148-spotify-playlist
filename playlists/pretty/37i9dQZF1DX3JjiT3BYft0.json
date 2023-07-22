@@ -1,12 +1,12 @@
 {
   "description": "Music from \u201cBanG Dream! \u201c series! \u6b21\u4e16\u4ee3\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u300eBanG Dream!\uff08\u30d0\u30f3\u30c9\u30ea\uff01\uff09\u300f\u516c\u5f0f\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002",
-  "num_followers": 58731,
+  "num_followers": 58755,
   "original_name": "BanG Dream! \u30d0\u30f3\u30c9\u30ea\uff01\u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3\uff01",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjg2NTliOTlhOTMxNTI1OTIzOWZjY2QxYjA1NjRhMDk0ZGQ3NzVl",
+  "snapshot_id": "MCwyM2JlMzQ5YzRmYTU2ZjI5MGIwNDc1ZmRhY2ZlZTkyNjM0NzJmYTU5",
   "tracks": [
     {
       "added_at": "2023-06-29 16:03:25",
@@ -411,8 +411,8 @@
     {
       "added_at": "2023-06-29 16:03:25",
       "album": {
-        "name": "Anfang",
-        "url": "https://open.spotify.com/album/7JmXCKV1IBEx2PXNLRU63H"
+        "name": "ZEAL of proud",
+        "url": "https://open.spotify.com/album/0UEMFucTRzadENAzk8wMgU"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
         }
       ],
-      "duration_ms": 214206,
-      "name": "LOUDER",
-      "url": "https://open.spotify.com/track/3SQrzvJFTclycqYohgQHhH"
+      "duration_ms": 279066,
+      "name": "ZEAL of proud",
+      "url": "https://open.spotify.com/track/0e36zF0N3J9CKxvjxrenk5"
     },
     {
       "added_at": "2023-06-29 16:03:25",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-06-29 16:03:25",
       "album": {
-        "name": "ONE OF US",
-        "url": "https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6"
-      },
-      "artists": [
-        {
-          "name": "Afterglow",
-          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
-        }
-      ],
-      "duration_ms": 270868,
-      "name": "Y.O.L.O!!!!!",
-      "url": "https://open.spotify.com/track/4sHH1pvgANEqAWt2zpQKSQ"
-    },
-    {
-      "added_at": "2023-06-29 16:03:25",
-      "album": {
         "name": "\u30d0\u30f3\u30c9\u30ea! \u30ac\u30fc\u30eb\u30ba\u30d0\u30f3\u30c9\u30d1\u30fc\u30c6\u30a3! \u30ab\u30d0\u30b3\u30ec Special Selection2",
         "url": "https://open.spotify.com/album/4WCgOSPHvttTkauOBcyyzK"
       },
@@ -539,8 +523,24 @@
     {
       "added_at": "2023-06-29 16:03:25",
       "album": {
-        "name": "ZEAL of proud",
-        "url": "https://open.spotify.com/album/0UEMFucTRzadENAzk8wMgU"
+        "name": "ONE OF US",
+        "url": "https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6"
+      },
+      "artists": [
+        {
+          "name": "Afterglow",
+          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
+        }
+      ],
+      "duration_ms": 270868,
+      "name": "Y.O.L.O!!!!!",
+      "url": "https://open.spotify.com/track/4sHH1pvgANEqAWt2zpQKSQ"
+    },
+    {
+      "added_at": "2023-06-29 16:03:25",
+      "album": {
+        "name": "Anfang",
+        "url": "https://open.spotify.com/album/7JmXCKV1IBEx2PXNLRU63H"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/1bljHdc9g7V7ZLkYuf4yfy"
         }
       ],
-      "duration_ms": 279066,
-      "name": "ZEAL of proud",
-      "url": "https://open.spotify.com/track/0e36zF0N3J9CKxvjxrenk5"
+      "duration_ms": 214206,
+      "name": "LOUDER",
+      "url": "https://open.spotify.com/track/3SQrzvJFTclycqYohgQHhH"
     },
     {
       "added_at": "2023-06-29 16:03:25",
@@ -567,70 +567,6 @@
       "duration_ms": 301266,
       "name": "Sacred world",
       "url": "https://open.spotify.com/track/6we8ssFEZQCPaCeiaA1F9s"
-    },
-    {
-      "added_at": "2023-06-29 16:03:25",
-      "album": {
-        "name": "Don't be afraid!",
-        "url": "https://open.spotify.com/album/23rMEQCxhIP52O2kkvgkjL"
-      },
-      "artists": [
-        {
-          "name": "Glitter*Green",
-          "url": "https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz"
-        }
-      ],
-      "duration_ms": 238800,
-      "name": "Don't be afraid!",
-      "url": "https://open.spotify.com/track/62W7xaodfdwWd23frUWd5W"
-    },
-    {
-      "added_at": "2023-06-29 16:03:25",
-      "album": {
-        "name": "\u30d4\u30b3\u3063\u3068!\u30d1\u30d4\u3063\u3068!!\u30ac\u30eb\u30d1\u2606\u30d4\u30b3!!!",
-        "url": "https://open.spotify.com/album/1LohNjqaHsQkrLcNZJJjCN"
-      },
-      "artists": [
-        {
-          "name": "\u9999\u6f84",
-          "url": "https://open.spotify.com/artist/2sgl0Q7BtpEJyBTvfZfgaV"
-        },
-        {
-          "name": "\u862d",
-          "url": "https://open.spotify.com/artist/7Is8KdfbbtdKXXaSz61Jeu"
-        },
-        {
-          "name": "\u5f69",
-          "url": "https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69"
-        },
-        {
-          "name": "\u53cb\u5e0c\u90a3",
-          "url": "https://open.spotify.com/artist/0FSUZ6pfjMsJRtrCNOOJkw"
-        },
-        {
-          "name": "\u3053\u3053\u308d",
-          "url": "https://open.spotify.com/artist/71qaQP4Hq29ERluMIIUdyM"
-        }
-      ],
-      "duration_ms": 259466,
-      "name": "\u30d4\u30b3\u3063\u3068!\u30d1\u30d4\u3063\u3068!!\u30ac\u30eb\u30d1\u2606\u30d4\u30b3!!!",
-      "url": "https://open.spotify.com/track/3wQLAbD6vZqRM1RjCKgDVd"
-    },
-    {
-      "added_at": "2023-06-29 16:03:25",
-      "album": {
-        "name": "Breakthrough!",
-        "url": "https://open.spotify.com/album/31WVyzxbAYQTeduFneMNi3"
-      },
-      "artists": [
-        {
-          "name": "Poppin'Party",
-          "url": "https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6"
-        }
-      ],
-      "duration_ms": 323168,
-      "name": "Returns",
-      "url": "https://open.spotify.com/track/3V8PvJTL3QUenvsUHcNFj1"
     },
     {
       "added_at": "2023-06-29 16:03:25",
@@ -667,6 +603,70 @@
     {
       "added_at": "2023-06-29 16:03:25",
       "album": {
+        "name": "Don't be afraid!",
+        "url": "https://open.spotify.com/album/23rMEQCxhIP52O2kkvgkjL"
+      },
+      "artists": [
+        {
+          "name": "Glitter*Green",
+          "url": "https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz"
+        }
+      ],
+      "duration_ms": 238800,
+      "name": "Don't be afraid!",
+      "url": "https://open.spotify.com/track/62W7xaodfdwWd23frUWd5W"
+    },
+    {
+      "added_at": "2023-06-29 16:03:25",
+      "album": {
+        "name": "Breakthrough!",
+        "url": "https://open.spotify.com/album/31WVyzxbAYQTeduFneMNi3"
+      },
+      "artists": [
+        {
+          "name": "Poppin'Party",
+          "url": "https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6"
+        }
+      ],
+      "duration_ms": 323168,
+      "name": "Returns",
+      "url": "https://open.spotify.com/track/3V8PvJTL3QUenvsUHcNFj1"
+    },
+    {
+      "added_at": "2023-06-29 16:03:25",
+      "album": {
+        "name": "\u30d4\u30b3\u3063\u3068!\u30d1\u30d4\u3063\u3068!!\u30ac\u30eb\u30d1\u2606\u30d4\u30b3!!!",
+        "url": "https://open.spotify.com/album/1LohNjqaHsQkrLcNZJJjCN"
+      },
+      "artists": [
+        {
+          "name": "\u9999\u6f84",
+          "url": "https://open.spotify.com/artist/2sgl0Q7BtpEJyBTvfZfgaV"
+        },
+        {
+          "name": "\u862d",
+          "url": "https://open.spotify.com/artist/7Is8KdfbbtdKXXaSz61Jeu"
+        },
+        {
+          "name": "\u5f69",
+          "url": "https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69"
+        },
+        {
+          "name": "\u53cb\u5e0c\u90a3",
+          "url": "https://open.spotify.com/artist/0FSUZ6pfjMsJRtrCNOOJkw"
+        },
+        {
+          "name": "\u3053\u3053\u308d",
+          "url": "https://open.spotify.com/artist/71qaQP4Hq29ERluMIIUdyM"
+        }
+      ],
+      "duration_ms": 259466,
+      "name": "\u30d4\u30b3\u3063\u3068!\u30d1\u30d4\u3063\u3068!!\u30ac\u30eb\u30d1\u2606\u30d4\u30b3!!!",
+      "url": "https://open.spotify.com/track/3wQLAbD6vZqRM1RjCKgDVd"
+    },
+    {
+      "added_at": "2023-06-29 16:03:25",
+      "album": {
         "name": "TV\u30a2\u30cb\u30e1\u300cBanG Dream!\u300d\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30bd\u30f3\u30b0 \u5e02\u30f6\u8c37\u6709\u54b2\u300c\u3059\u3001\u597d\u304d\u306a\u3093\u304b\u3058\u3083\u306a\u3044!\u300d",
         "url": "https://open.spotify.com/album/5SmqqAK33mUkAYmuwdLqvA"
       },
@@ -683,18 +683,18 @@
     {
       "added_at": "2023-06-29 16:03:25",
       "album": {
-        "name": "STAY GLOW",
-        "url": "https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV"
+        "name": "QUINTET",
+        "url": "https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS"
       },
       "artists": [
         {
-          "name": "Afterglow",
-          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
+          "name": "Morfonica",
+          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
         }
       ],
-      "duration_ms": 244200,
-      "name": "Crow Song",
-      "url": "https://open.spotify.com/track/15rV2JsUB8w2QQP2ys5MCc"
+      "duration_ms": 255000,
+      "name": "\u8a93\u3044\u306eWingbeat",
+      "url": "https://open.spotify.com/track/7naImdQq3UtTHO5w9bETn6"
     },
     {
       "added_at": "2023-06-29 16:03:25",
@@ -715,18 +715,18 @@
     {
       "added_at": "2023-06-29 16:03:25",
       "album": {
-        "name": "QUINTET",
-        "url": "https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS"
+        "name": "STAY GLOW",
+        "url": "https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV"
       },
       "artists": [
         {
-          "name": "Morfonica",
-          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
+          "name": "Afterglow",
+          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
         }
       ],
-      "duration_ms": 255000,
-      "name": "\u8a93\u3044\u306eWingbeat",
-      "url": "https://open.spotify.com/track/7naImdQq3UtTHO5w9bETn6"
+      "duration_ms": 244200,
+      "name": "Crow Song",
+      "url": "https://open.spotify.com/track/15rV2JsUB8w2QQP2ys5MCc"
     },
     {
       "added_at": "2023-06-29 16:03:25",
@@ -779,18 +779,18 @@
     {
       "added_at": "2023-06-29 16:03:25",
       "album": {
-        "name": "ONE OF US",
-        "url": "https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6"
+        "name": "QUINTET",
+        "url": "https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS"
       },
       "artists": [
         {
-          "name": "Afterglow",
-          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
+          "name": "Morfonica",
+          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
         }
       ],
-      "duration_ms": 282300,
-      "name": "ONE OF US",
-      "url": "https://open.spotify.com/track/3Eu6OI5GREV2RVksFaYgMo"
+      "duration_ms": 215968,
+      "name": "\u5bc4\u308b\u8fba\u306eSunny, Sunny",
+      "url": "https://open.spotify.com/track/2Xzbk4zG8fPtn7rGrSuRsC"
     },
     {
       "added_at": "2023-06-29 16:03:25",
@@ -939,18 +939,18 @@
     {
       "added_at": "2023-06-29 16:03:25",
       "album": {
-        "name": "QUINTET",
-        "url": "https://open.spotify.com/album/1QIuISSpNDz3Bymdh50oMS"
+        "name": "ONE OF US",
+        "url": "https://open.spotify.com/album/2cmCnDHKcqdgzdWOjG0Gb6"
       },
       "artists": [
         {
-          "name": "Morfonica",
-          "url": "https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ"
+          "name": "Afterglow",
+          "url": "https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI"
         }
       ],
-      "duration_ms": 215968,
-      "name": "\u5bc4\u308b\u8fba\u306eSunny, Sunny",
-      "url": "https://open.spotify.com/track/2Xzbk4zG8fPtn7rGrSuRsC"
+      "duration_ms": 282300,
+      "name": "ONE OF US",
+      "url": "https://open.spotify.com/track/3Eu6OI5GREV2RVksFaYgMo"
     },
     {
       "added_at": "2023-06-29 16:03:25",
