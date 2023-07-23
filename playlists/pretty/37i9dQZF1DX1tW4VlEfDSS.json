@@ -1,12 +1,12 @@
 {
   "description": "A feel-good soulful house  and disco selection.",
-  "num_followers": 345288,
+  "num_followers": 345342,
   "original_name": "Groove Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDBiNmQ1NjAwOGQyNjQ4NmZmMjhhZjRhYTdkOTdlYTIzMzEyNTc3",
+  "snapshot_id": "MCxlMWE0MGE2ZjdmMzZhZDUxYjIzZGViOWRjZTU5NzI2MjM0ZDZmMzMx",
   "tracks": [
     {
       "added_at": "2023-07-14 04:01:00",
@@ -959,6 +959,26 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
+        "name": "Affirmations (feat. Anelisa Lamola)",
+        "url": "https://open.spotify.com/album/60OriTct3aVri7Q1btWjRo"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        },
+        {
+          "name": "Anelisa Lamola",
+          "url": "https://open.spotify.com/artist/4JQspweC9s9YK2H81Nylvi"
+        }
+      ],
+      "duration_ms": 201322,
+      "name": "Affirmations (feat. Anelisa Lamola)",
+      "url": "https://open.spotify.com/track/38SHfJCoV4jdpeqX5lcn6H"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
         "name": "Second Chance (feat. Kimberly Davis)",
         "url": "https://open.spotify.com/album/22pSFdjEFh3dbm3TCw8sXc"
       },
@@ -999,58 +1019,6 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "Affirmations (feat. Anelisa Lamola)",
-        "url": "https://open.spotify.com/album/60OriTct3aVri7Q1btWjRo"
-      },
-      "artists": [
-        {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
-        },
-        {
-          "name": "Anelisa Lamola",
-          "url": "https://open.spotify.com/artist/4JQspweC9s9YK2H81Nylvi"
-        }
-      ],
-      "duration_ms": 201322,
-      "name": "Affirmations (feat. Anelisa Lamola)",
-      "url": "https://open.spotify.com/track/38SHfJCoV4jdpeqX5lcn6H"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "Come Back",
-        "url": "https://open.spotify.com/album/2TbxuBCoWx2x5gQE6bW44R"
-      },
-      "artists": [
-        {
-          "name": "NIMMO",
-          "url": "https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl"
-        }
-      ],
-      "duration_ms": 277600,
-      "name": "Come Back",
-      "url": "https://open.spotify.com/track/0jnfcPhR4K98OgIwih63Wk"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "Riviera",
-        "url": "https://open.spotify.com/album/0Mx39nltkydoVI9Z7jpFAZ"
-      },
-      "artists": [
-        {
-          "name": "Loods",
-          "url": "https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl"
-        }
-      ],
-      "duration_ms": 212313,
-      "name": "Riviera",
-      "url": "https://open.spotify.com/track/5fR1gKyVaQOFsUe9XWz6Pg"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
         "name": "It\u2019s Alright",
         "url": "https://open.spotify.com/album/6iFgMXDNtmp5byEle3guZg"
       },
@@ -1071,6 +1039,38 @@
       "duration_ms": 210181,
       "name": "It\u2019s Alright",
       "url": "https://open.spotify.com/track/3yilgLESv6zoBnGPsRM7Qh"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Riviera",
+        "url": "https://open.spotify.com/album/0Mx39nltkydoVI9Z7jpFAZ"
+      },
+      "artists": [
+        {
+          "name": "Loods",
+          "url": "https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl"
+        }
+      ],
+      "duration_ms": 212313,
+      "name": "Riviera",
+      "url": "https://open.spotify.com/track/5fR1gKyVaQOFsUe9XWz6Pg"
+    },
+    {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Come Back",
+        "url": "https://open.spotify.com/album/2TbxuBCoWx2x5gQE6bW44R"
+      },
+      "artists": [
+        {
+          "name": "NIMMO",
+          "url": "https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl"
+        }
+      ],
+      "duration_ms": 277600,
+      "name": "Come Back",
+      "url": "https://open.spotify.com/track/0jnfcPhR4K98OgIwih63Wk"
     },
     {
       "added_at": "2023-07-14 04:01:00",
@@ -1111,22 +1111,18 @@
     {
       "added_at": "2023-07-14 04:01:00",
       "album": {
-        "name": "You Ain't Love (feat. Teni Tinks)",
-        "url": "https://open.spotify.com/album/1krEcbbjaM3WoCJq8FecTA"
+        "name": "Back Tae Ayr",
+        "url": "https://open.spotify.com/album/6YGqlfu2U6aUkzPSViek27"
       },
       "artists": [
         {
-          "name": "The Shapeshifters",
-          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
-        },
-        {
-          "name": "Teni Tinks",
-          "url": "https://open.spotify.com/artist/4CeG8RL5NUdWJw8BeG5gQs"
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
         }
       ],
-      "duration_ms": 271475,
-      "name": "You Ain't Love (feat. Teni Tinks)",
-      "url": "https://open.spotify.com/track/3phnlxvLFtIwNo5ecUtLuN"
+      "duration_ms": 332931,
+      "name": "Back Tae Ayr",
+      "url": "https://open.spotify.com/track/1AH6GkZnybM0R5WZZTj7GF"
     }
   ],
   "unique_name": "Groove Theory",

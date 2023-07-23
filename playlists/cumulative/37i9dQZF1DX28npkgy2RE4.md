@@ -4,7 +4,7 @@
 
 > New styles, deep sounds\. Cover: Jenny Lewis
 
-411 songs - 1 day 1 hr 17 min
+412 songs - 1 day 1 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Deep In Love](https://open.spotify.com/track/3hmHHA69jx1hdY3TkYRKuE) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Deep In Love](https://open.spotify.com/album/27gGc7BNl7mKU3tUnjfkhH) | 5:09 | 2021-11-12 | 2022-07-29 |
 | [Deep In Love](https://open.spotify.com/track/4fyqGylwyCpUTbgzYJ6RXN) | [Bonny Light Horseman](https://open.spotify.com/artist/0Qi9Fcmn1DJAoG8Agf5ibb), [Eric D\. Johnson](https://open.spotify.com/artist/4LBdlNpHBD8dHPcVCrjSB6), [Josh Kaufman](https://open.spotify.com/artist/3kKgcBXTgyAZhXPV3AaSZc), [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Bonny Light Horseman](https://open.spotify.com/album/0FDyqe94Dh9j7U1Xyf3d8G) | 5:09 | 2022-07-11 |  |
 | [Desert Days](https://open.spotify.com/track/5pFVSFlMgx4fMqqhh8H19N) | [Blanco White](https://open.spotify.com/artist/3ccVtqcqedranb7y8eywJ5) | [Desert Days](https://open.spotify.com/album/2xHYXSquta7euwgQLtdQyZ) | 3:32 | 2022-01-21 | 2022-04-21 |
+| [Desert Woman](https://open.spotify.com/track/60YaAz53fBB3CXHPxhlUVu) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Desert Woman](https://open.spotify.com/album/2xAcvuIfPBODVL1I7FbbBc) | 4:16 | 2023-07-21 |  |
 | [Desire](https://open.spotify.com/track/12rpkK6BHssFJ3ORBGON5c) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Desire](https://open.spotify.com/album/6lYtFfi8POQtZHqToBC1ld) | 2:59 | 2021-11-12 | 2022-07-22 |
 | [Diamonds In The Snow](https://open.spotify.com/track/45FWmYpboXilptta3D9fxD) | [Scott McMicken and THE EVER\-EXPANDING](https://open.spotify.com/artist/47xDbhx3J0JVT6hnPTIRCc) | [Shabang](https://open.spotify.com/album/673d0gEuxw2dsPfNFR61gv) | 4:10 | 2023-03-31 |  |
 | [Do Re Mi](https://open.spotify.com/track/7vBPOWYgtgQ0G7m7TMPFPC) | [Front Country](https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj) | [Do Re Mi](https://open.spotify.com/album/6DqZwnuYAGTA99eqhLogCl) | 4:28 | 2022-04-01 | 2022-04-20 |
@@ -204,7 +205,7 @@
 | [Just to Hear You \(feat\. Perfume Genius\)](https://open.spotify.com/track/3XnpvaKBaEhdzDbLdIhcKs) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Fun House](https://open.spotify.com/album/60XvBfx16DrRu5GKrH4E5E) | 2:53 | 2021-11-12 | 2022-07-29 |
 | [Just to Hear You \(feat\. Perfume Genius\)](https://open.spotify.com/track/6fFMXz0mLLaql9UyyBQB9a) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Fun House](https://open.spotify.com/album/1LBaX90YupG7JKOHCWi4y0) | 2:53 | 2022-07-11 | 2023-05-09 |
 | [Keeping The Light On](https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Keeping The Light On](https://open.spotify.com/album/6frFUCnLfPHN5cuGuONc04) | 3:43 | 2022-05-25 |  |
-| [Keeps Me Light](https://open.spotify.com/track/2Py6ZjfZh23AkpQrC7CZyV) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Keeps Me Light](https://open.spotify.com/album/4X2JS2pMQD9NmoN6FhZCW6) | 3:46 | 2022-07-11 |  |
+| [Keeps Me Light](https://open.spotify.com/track/2Py6ZjfZh23AkpQrC7CZyV) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Keeps Me Light](https://open.spotify.com/album/4X2JS2pMQD9NmoN6FhZCW6) | 3:46 | 2022-07-11 | 2023-07-23 |
 | [Keeps Me Light](https://open.spotify.com/track/5l43igI28lTXnPK0KQsHQc) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Keeps Me Light](https://open.spotify.com/album/48WCft0nRsNOfquczKAH04) | 3:46 | 2021-11-12 | 2022-07-28 |
 | [Kimmy Rolla](https://open.spotify.com/track/2mgjQLBp5tqZVYxjFbeFQ4) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE) | [Kimmy Rolla](https://open.spotify.com/album/2WxtdQ4UAURabQC18pRxoI) | 5:17 | 2021-11-12 | 2022-01-15 |
 | [Labyrinth \- Acoustic](https://open.spotify.com/track/3RndHxmIeOlcqihe5bV3gq) | [A Blaze of Feather](https://open.spotify.com/artist/0j7wLGDwHdUSPLkxCH3GBQ) | [Labyrinth \(Acoustic\)](https://open.spotify.com/album/0WrzbcELAPL6BA3vsBC1Bo) | 3:15 | 2021-11-12 | 2022-04-16 |

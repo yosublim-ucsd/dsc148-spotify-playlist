@@ -1,12 +1,12 @@
 {
   "description": "Nh\u1eefng kh\u00fac nh\u1ea1c qu\u00ea h\u01b0\u01a1ng ng\u1ee3i ca v\u1ebb \u0111\u1eb9p Vi\u1ec7t Nam.",
-  "num_followers": 5595,
+  "num_followers": 5601,
   "original_name": "V\u1ec1 Qu\u00ea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZWYzMWRlODdjZDYwYzllNDI4OWM0ODM1OTdlNWE0MGFhOWJiY2I0",
+  "snapshot_id": "MCwwZTI5MDk5ZTM3MDAzMGFmYTkxM2U2ZThkNjAyNGEwZDA4NDVhZmY4",
   "tracks": [
     {
       "added_at": "2023-07-18 02:53:45",
@@ -135,6 +135,26 @@
       "duration_ms": 325120,
       "name": "N\u1eafng \u0110\u1eb9p Mi\u1ec1n Nam & Kh\u00fac Ca Ng\u00e0y M\u00f9a",
       "url": "https://open.spotify.com/track/6qNtUwwISUIMjIXxP2IhvC"
+    },
+    {
+      "added_at": "2023-07-22 14:56:47",
+      "album": {
+        "name": "Cau Tr\u1ea7u \u0110\u01b0a L\u1ed1i",
+        "url": "https://open.spotify.com/album/1IttSUasHNWMj78vrBE8yL"
+      },
+      "artists": [
+        {
+          "name": "Kh\u01b0u Huy V\u0169",
+          "url": "https://open.spotify.com/artist/4TIkbzRb0DgLNgvYFndhyP"
+        },
+        {
+          "name": "V\u00f5 L\u00ea Mi",
+          "url": "https://open.spotify.com/artist/1nrrnXuQWnuPEp6dHLXmgl"
+        }
+      ],
+      "duration_ms": 189897,
+      "name": "Cau Tr\u1ea7u \u0110\u01b0a L\u1ed1i",
+      "url": "https://open.spotify.com/track/3sFETpYTA3yFROBSzDvSLq"
     },
     {
       "added_at": "2023-07-18 02:53:45",

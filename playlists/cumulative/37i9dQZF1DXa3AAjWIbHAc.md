@@ -4,7 +4,7 @@
 
 > Get your kid's day started with these high\-energy songs in English and Spanish!
 
-73 songs - 3 hr 20 min
+74 songs - 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [One Love \- Medley](https://open.spotify.com/track/2V2by56rK60UxMHPtG02OJ) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Marley \(The Original Soundtrack\)](https://open.spotify.com/album/1lBmb7nfOeFqTDN6gQLFMx) | 2:52 | 2020-04-22 | 2022-11-13 |
 | [One Love / People Get Ready \- Medley](https://open.spotify.com/track/2HcyIzVsX45jLIxK7SH2aI) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus \(Deluxe Edition\)](https://open.spotify.com/album/1vHvJVBK0WnpbYFw4f4UTD) | 2:52 | 2020-04-22 | 2022-07-29 |
 | [One Love / People Get Ready \- Medley](https://open.spotify.com/track/6SR0dDuXH2vtgBfMLrivKV) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 2:52 | 2020-04-22 |  |
-| [Pobres los Ricos](https://open.spotify.com/track/305kI6tQRUAOhhWrxS955J) | [Floricienta](https://open.spotify.com/artist/7dtC84FkhalFSKToofOdOv) | [Grandes Éxitos](https://open.spotify.com/album/40ibA4EEknEKKs9yQjNsSM) | 3:18 | 2020-04-22 |  |
+| [Pobres los Ricos](https://open.spotify.com/track/19RXzgw9er0MoJlDrauCYl) | [Floricienta](https://open.spotify.com/artist/7dtC84FkhalFSKToofOdOv) | [Floricienta y Su Banda](https://open.spotify.com/album/0DsgA4MT651jBBaXy1It3M) | 3:18 | 2020-04-22 |  |
+| [Pobres los Ricos](https://open.spotify.com/track/305kI6tQRUAOhhWrxS955J) | [Floricienta](https://open.spotify.com/artist/7dtC84FkhalFSKToofOdOv) | [Grandes Éxitos](https://open.spotify.com/album/40ibA4EEknEKKs9yQjNsSM) | 3:18 | 2020-04-22 | 2023-07-23 |
 | [Que El Arcoíris Os Recuerde](https://open.spotify.com/track/1xPdezGU7frO4HqXrpgbTK) | [Twilight Sparkle](https://open.spotify.com/artist/53CQUfjaBNRwV2nFro1nac), [Apple Jack](https://open.spotify.com/artist/1r0v3fdCiqrr9mYtvbCccT), [Rainbow Dash](https://open.spotify.com/artist/0iKnctG436f9uUKSuSFx2n), [Pinkie Pie](https://open.spotify.com/artist/7ExZeMNpyKhYSokWo9riU5), [Rarity](https://open.spotify.com/artist/6PqIHmHPCKrZoyLMf98era), [Fluttershy](https://open.spotify.com/artist/2KL1HTA8ijZSuf7VJaL4OU) | [Songs Of Harmony \(Castellano Español / Music From The Original TV Series\)](https://open.spotify.com/album/67fWuIYsjOYRbRLni6cpiv) | 1:19 | 2020-04-22 | 2022-12-08 |
 | [Revolution](https://open.spotify.com/track/5KGLcZLBCAqdPP6sa5zLYs) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Love](https://open.spotify.com/album/1Ye7yrA7vAlQnoooj8yDXb) | 3:23 | 2020-04-22 |  |
 | [Será un Día Fenomenal \(De "Phineas & Ferb"\)](https://open.spotify.com/track/2yKwySjvnUXeIQ4eqwBmFj) | [Super Banda Infantil](https://open.spotify.com/artist/7mtajIQbgVMoKTabPTzXVU) | [Canciones Infantiles](https://open.spotify.com/album/4yu4Wj0D2Jz2FNWuJplHIB) | 3:06 | 2020-04-22 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-09",
-  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. Cover: imase",
+  "description": "What pops out!? Roll the gacha and find your Neo J-Pop treasure. Cover: Fujii Kaze (\u85e4\u4e95 \u98a8)",
   "name": "Gacha Pop",
   "tracks": [
     {
@@ -498,6 +498,24 @@
       "duration_ms": 307764,
       "name": "Galnia",
       "url": "https://open.spotify.com/track/3eM90CEzFz0LqRoQI6IVMr"
+    },
+    {
+      "album": {
+        "name": "LOVE ALL SERVE ALL",
+        "url": "https://open.spotify.com/album/7Ip9X7pnkhJ4cwDoBnvneD"
+      },
+      "artists": [
+        {
+          "name": "Fujii Kaze",
+          "url": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229333,
+      "name": "Garden",
+      "url": "https://open.spotify.com/track/2vMc8rqFmqs7RFi8NDx0CJ"
     },
     {
       "album": {
@@ -1272,7 +1290,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-23",
       "duration_ms": 202858,
       "name": "Please Play-Bite",
       "url": "https://open.spotify.com/track/0aCqK1p6zd3HsI4dLxOpny"

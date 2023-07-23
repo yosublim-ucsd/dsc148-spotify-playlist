@@ -4,7 +4,7 @@
 
 > Desde el corazón del rancho, las mejores interpretaciones en vivo\. Virlán García en portada.
 
-59 songs - 3 hr 11 min
+60 songs - 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Y Ahora Te Vas \- En Vivo](https://open.spotify.com/track/2HT39Ri8skpoDiuTPAD7LM) | [Arturo Coronel y el Buen Estilo](https://open.spotify.com/artist/4lFwjsLFRLWRtjtsNjl5al) | [Como De Costumbre \(En Vivo\)](https://open.spotify.com/album/0tefO5JXpzrflvnQdFlsaF) | 4:03 | 2022-12-30 | 2023-06-10 |
 | [Ya Te Perdi La Fe \(Live\)](https://open.spotify.com/track/6nmGuhprzvydoBnofttJoF) | [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [En Vivo Desde Culiacan](https://open.spotify.com/album/2nKOlebl1xCOTLW3BjYr5n) | 4:03 | 2022-12-30 |  |
 | [Ya Te Supere \- En Vivo](https://open.spotify.com/track/788e0doWXCkDlnufoDndcy) | [Los Parras](https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp) | [Peda en la Banqueta](https://open.spotify.com/album/1qOSDizKu1dmLl73BF6VdS) | 3:05 | 2023-06-09 |  |
-| [Yo Quisiera Entrar](https://open.spotify.com/track/17HSfx9GvpzcLxR7hBjEQR) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Homenaje a Ariel Camacho](https://open.spotify.com/album/1wa28qmB7ntPQ1iMhJlRCX) | 5:04 | 2022-12-30 |  |
+| [Yo Quisiera Entrar](https://open.spotify.com/track/17HSfx9GvpzcLxR7hBjEQR) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Homenaje a Ariel Camacho](https://open.spotify.com/album/1wa28qmB7ntPQ1iMhJlRCX) | 5:04 | 2022-12-30 | 2023-07-23 |
+| [Yo Quisiera Entrar](https://open.spotify.com/track/4MeTY5i7fFPG8xiEH5PeeO) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Homenaje a Ariel Camacho](https://open.spotify.com/album/2y2hsLQTXs010SHxs0lOFg) | 5:04 | 2023-06-09 |  |
 | [Yo Te Necesito \- En vivo](https://open.spotify.com/track/6Yjh5hEKRWoQRM3ltyBOIt) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 2 \(En vivo\)](https://open.spotify.com/album/7drHvS63o9Crp4k85GNo9D) | 3:08 | 2022-12-30 |  |
 
 \*This playlist was first scraped on 2023-03-11. Prior content cannot be recovered.

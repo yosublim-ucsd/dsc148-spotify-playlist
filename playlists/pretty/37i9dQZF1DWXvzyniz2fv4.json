@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 149463,
+  "num_followers": 149489,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDAwOTcwYTQ2ZTdhYTFjYTI2NmQzZWQ3YzliNjU3NDA4YWRiNjM2",
+  "snapshot_id": "MCw4MTc1Y2IyZGI2M2RjNTcyMWQ2MTJjNzdjMWE0ZjFlYTRhYjQyNjVj",
   "tracks": [
     {
       "added_at": "2023-07-21 03:01:00",
@@ -255,6 +255,62 @@
     {
       "added_at": "2023-07-21 03:01:00",
       "album": {
+        "name": "Poesia Ac\u00fastica 14",
+        "url": "https://open.spotify.com/album/4VM4tFlf3F3rAQfbJDvqnN"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Cesar Mc",
+          "url": "https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Derxan",
+          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        }
+      ],
+      "duration_ms": 849230,
+      "name": "Poesia Ac\u00fastica 14",
+      "url": "https://open.spotify.com/track/0Co2c6T1U06m4wLT6kOxdc"
+    },
+    {
+      "added_at": "2023-07-21 03:01:00",
+      "album": {
         "name": "Andressa",
         "url": "https://open.spotify.com/album/6XQbOoWHk2L2Cnn472eHGJ"
       },
@@ -347,62 +403,6 @@
       "duration_ms": 238763,
       "name": "Idas e Vindas",
       "url": "https://open.spotify.com/track/37I2kAE7QRxd9WCax1Z9dE"
-    },
-    {
-      "added_at": "2023-07-21 03:01:00",
-      "album": {
-        "name": "Poesia Ac\u00fastica 14",
-        "url": "https://open.spotify.com/album/4VM4tFlf3F3rAQfbJDvqnN"
-      },
-      "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Cesar Mc",
-          "url": "https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Derxan",
-          "url": "https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt"
-        },
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        },
-        {
-          "name": "Salve Malak",
-          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
-        }
-      ],
-      "duration_ms": 849230,
-      "name": "Poesia Ac\u00fastica 14",
-      "url": "https://open.spotify.com/track/0Co2c6T1U06m4wLT6kOxdc"
     },
     {
       "added_at": "2023-07-21 03:01:00",
@@ -591,6 +591,22 @@
       "duration_ms": 141000,
       "name": "Iluminado",
       "url": "https://open.spotify.com/track/4lcF1N7S5c1Sx5iK4jRfvj"
+    },
+    {
+      "added_at": "2023-07-21 03:01:00",
+      "album": {
+        "name": "Estrela do Mar",
+        "url": "https://open.spotify.com/album/4g0LAPd9UDGIX2zgeHQXnY"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "duration_ms": 195033,
+      "name": "Estrela do Mar",
+      "url": "https://open.spotify.com/track/0rULs7B1JjYnnaooUbZwy5"
     },
     {
       "added_at": "2023-07-21 03:01:00",
@@ -1079,22 +1095,6 @@
     {
       "added_at": "2023-07-21 03:01:00",
       "album": {
-        "name": "Te Ver De Novo",
-        "url": "https://open.spotify.com/album/1fkSMux23otinTEAs2eJCI"
-      },
-      "artists": [
-        {
-          "name": "IGOR",
-          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
-        }
-      ],
-      "duration_ms": 168321,
-      "name": "Te Ver De Novo",
-      "url": "https://open.spotify.com/track/71BEEPY7pGaNUXZdu9xIYd"
-    },
-    {
-      "added_at": "2023-07-21 03:01:00",
-      "album": {
         "name": "Esse Teu Sorriso",
         "url": "https://open.spotify.com/album/6PVqvFnGpciV0hzLuvIiIN"
       },
@@ -1107,6 +1107,22 @@
       "duration_ms": 189240,
       "name": "Esse Teu Sorriso",
       "url": "https://open.spotify.com/track/0vNk56sBz28p6Ior2sliTb"
+    },
+    {
+      "added_at": "2023-07-21 03:01:00",
+      "album": {
+        "name": "Te Ver De Novo",
+        "url": "https://open.spotify.com/album/1fkSMux23otinTEAs2eJCI"
+      },
+      "artists": [
+        {
+          "name": "IGOR",
+          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
+        }
+      ],
+      "duration_ms": 168321,
+      "name": "Te Ver De Novo",
+      "url": "https://open.spotify.com/track/71BEEPY7pGaNUXZdu9xIYd"
     },
     {
       "added_at": "2023-07-21 03:01:00",
@@ -1191,6 +1207,22 @@
       "duration_ms": 152000,
       "name": "Voe",
       "url": "https://open.spotify.com/track/3QRRlJmJbIlBi3i4YzLgvc"
+    },
+    {
+      "added_at": "2023-07-21 03:01:00",
+      "album": {
+        "name": "Sabe Qual \u00c9",
+        "url": "https://open.spotify.com/album/0pOetxYIZaNrd3Xdewp9Fd"
+      },
+      "artists": [
+        {
+          "name": "Nathan",
+          "url": "https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA"
+        }
+      ],
+      "duration_ms": 150361,
+      "name": "Sabe Qual \u00c9",
+      "url": "https://open.spotify.com/track/3mctWBqWWKZn7rsyjWVtDe"
     },
     {
       "added_at": "2023-07-21 03:01:00",
@@ -1311,22 +1343,6 @@
     {
       "added_at": "2023-07-21 03:01:00",
       "album": {
-        "name": "Sabe Qual \u00c9",
-        "url": "https://open.spotify.com/album/0pOetxYIZaNrd3Xdewp9Fd"
-      },
-      "artists": [
-        {
-          "name": "Nathan",
-          "url": "https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA"
-        }
-      ],
-      "duration_ms": 150361,
-      "name": "Sabe Qual \u00c9",
-      "url": "https://open.spotify.com/track/3mctWBqWWKZn7rsyjWVtDe"
-    },
-    {
-      "added_at": "2023-07-21 03:01:00",
-      "album": {
         "name": "Agrade\u00e7o",
         "url": "https://open.spotify.com/album/5JBfFsUTuop7Hn6P8LUKAn"
       },
@@ -1411,6 +1427,26 @@
     {
       "added_at": "2023-07-21 03:01:00",
       "album": {
+        "name": "Neon",
+        "url": "https://open.spotify.com/album/7LW6R1CL9Ewm7BGtXOR7ca"
+      },
+      "artists": [
+        {
+          "name": "Katari SC",
+          "url": "https://open.spotify.com/artist/0hmC5uzgar1mR5E5dqeSjm"
+        },
+        {
+          "name": "Neto S.",
+          "url": "https://open.spotify.com/artist/3w473vGECOnredmfAZRx0M"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Neon",
+      "url": "https://open.spotify.com/track/15qPFRBtnV4XdDlG8O6DoM"
+    },
+    {
+      "added_at": "2023-07-21 03:01:00",
+      "album": {
         "name": "Ir Embora",
         "url": "https://open.spotify.com/album/4P0ILvy6Lb8hvEwY8RtcFj"
       },
@@ -1455,42 +1491,6 @@
       "duration_ms": 199750,
       "name": "Nada comum",
       "url": "https://open.spotify.com/track/08y2uUZH8TJ9ugWBTPDdM1"
-    },
-    {
-      "added_at": "2023-07-21 03:01:00",
-      "album": {
-        "name": "Neon",
-        "url": "https://open.spotify.com/album/7LW6R1CL9Ewm7BGtXOR7ca"
-      },
-      "artists": [
-        {
-          "name": "Katari SC",
-          "url": "https://open.spotify.com/artist/0hmC5uzgar1mR5E5dqeSjm"
-        },
-        {
-          "name": "Neto S.",
-          "url": "https://open.spotify.com/artist/3w473vGECOnredmfAZRx0M"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Neon",
-      "url": "https://open.spotify.com/track/15qPFRBtnV4XdDlG8O6DoM"
-    },
-    {
-      "added_at": "2023-07-21 03:01:00",
-      "album": {
-        "name": "Cartas ao Divino",
-        "url": "https://open.spotify.com/album/2pYB28Ni18No49jh1OtrZi"
-      },
-      "artists": [
-        {
-          "name": "Lontraz",
-          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
-        }
-      ],
-      "duration_ms": 190769,
-      "name": "Adaptar",
-      "url": "https://open.spotify.com/track/10lxSXVB6sLUU4wfVLToPk"
     },
     {
       "added_at": "2023-07-21 03:01:00",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2023-07-21 03:01:00",
       "album": {
+        "name": "Cartas ao Divino",
+        "url": "https://open.spotify.com/album/2pYB28Ni18No49jh1OtrZi"
+      },
+      "artists": [
+        {
+          "name": "Lontraz",
+          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
+        }
+      ],
+      "duration_ms": 190769,
+      "name": "Adaptar",
+      "url": "https://open.spotify.com/track/10lxSXVB6sLUU4wfVLToPk"
+    },
+    {
+      "added_at": "2023-07-21 03:01:00",
+      "album": {
         "name": "V\u00e1rios Planos",
         "url": "https://open.spotify.com/album/48gdIpMmEfBWmJXOAQAazI"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 196729,
       "name": "Spoiler",
       "url": "https://open.spotify.com/track/2zZ8HX3Q66MkYNmfgTiWgK"
-    },
-    {
-      "added_at": "2023-07-21 03:01:00",
-      "album": {
-        "name": "Rosas Rositas",
-        "url": "https://open.spotify.com/album/5eX7MhfxlDUmN94GuJVFVt"
-      },
-      "artists": [
-        {
-          "name": "Inc\u00f3gnito",
-          "url": "https://open.spotify.com/artist/3J60BaFbuCbU1XTzLv1at8"
-        }
-      ],
-      "duration_ms": 309406,
-      "name": "Rosas Rositas",
-      "url": "https://open.spotify.com/track/6guxeipY9PFAQdCcJRqKFg"
     }
   ],
   "unique_name": "Resenha na Praia",

@@ -1,12 +1,12 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Nacee",
-  "num_followers": 2295,
+  "num_followers": 2327,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDJkMDc1ZjAwZWQ3NzM2OTQ3YzBhYjMxYTFiMjk4MmU5NWQxYmMw",
+  "snapshot_id": "MCwyYmY0ZTc3ODdkYTI0NWUxMWQ2MGE0NThjOGJkMDI3YmM1ZDkzYmIz",
   "tracks": [
     {
       "added_at": "2023-07-13 23:00:00",
@@ -547,22 +547,18 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
-        "name": "I Know",
-        "url": "https://open.spotify.com/album/6HtyFbcZM4kNGxRKdiXstv"
+        "name": "Nyansabuakwa Nyame",
+        "url": "https://open.spotify.com/album/2OzSHOEEUiFwjywLFwwrnq"
       },
       "artists": [
         {
-          "name": "LAMB CULTURE.",
-          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
-        },
-        {
-          "name": "Kojo Dave",
-          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
+          "name": "Diana Hamilton",
+          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
         }
       ],
-      "duration_ms": 135968,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/7EAjENjTiYE5xhv6x7kXEe"
+      "duration_ms": 356200,
+      "name": "Nyansabuakwa Nyame",
+      "url": "https://open.spotify.com/track/0JDNNVdxIvbnHMQiJGAdFD"
     },
     {
       "added_at": "2023-07-13 23:00:00",
@@ -583,18 +579,22 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
-        "name": "Nyansabuakwa Nyame",
-        "url": "https://open.spotify.com/album/2OzSHOEEUiFwjywLFwwrnq"
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/6HtyFbcZM4kNGxRKdiXstv"
       },
       "artists": [
         {
-          "name": "Diana Hamilton",
-          "url": "https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl"
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Kojo Dave",
+          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
         }
       ],
-      "duration_ms": 356200,
-      "name": "Nyansabuakwa Nyame",
-      "url": "https://open.spotify.com/track/0JDNNVdxIvbnHMQiJGAdFD"
+      "duration_ms": 135968,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/7EAjENjTiYE5xhv6x7kXEe"
     },
     {
       "added_at": "2023-07-13 23:00:00",
@@ -615,6 +615,22 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
+        "name": "Lord Have Your Way",
+        "url": "https://open.spotify.com/album/309FhXt3gyQzKeQ9sQ0DiD"
+      },
+      "artists": [
+        {
+          "name": "Efe Grace Official",
+          "url": "https://open.spotify.com/artist/4sUJ8WsQFdYNsOVuXTZLgS"
+        }
+      ],
+      "duration_ms": 368182,
+      "name": "Lord Have Your Way",
+      "url": "https://open.spotify.com/track/53sEAgeh4Pb2hJETL6IkcE"
+    },
+    {
+      "added_at": "2023-07-13 23:00:00",
+      "album": {
         "name": "BLESSINGS",
         "url": "https://open.spotify.com/album/7vSURO3t1M4dAUEeAMGNWZ"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 203189,
       "name": "GOD NEVER FAILS",
       "url": "https://open.spotify.com/track/1oxeayKfZKRJ9h9HhEY1nJ"
-    },
-    {
-      "added_at": "2023-07-13 23:00:00",
-      "album": {
-        "name": "Lord Have Your Way",
-        "url": "https://open.spotify.com/album/309FhXt3gyQzKeQ9sQ0DiD"
-      },
-      "artists": [
-        {
-          "name": "Efe Grace Official",
-          "url": "https://open.spotify.com/artist/4sUJ8WsQFdYNsOVuXTZLgS"
-        }
-      ],
-      "duration_ms": 368182,
-      "name": "Lord Have Your Way",
-      "url": "https://open.spotify.com/track/53sEAgeh4Pb2hJETL6IkcE"
     },
     {
       "added_at": "2023-07-13 23:00:00",

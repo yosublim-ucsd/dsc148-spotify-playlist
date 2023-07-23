@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Grupo Frontera & KePersonajes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,392 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,449 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Ojitos Rojos](https://open.spotify.com/track/5LsvrplQ7YCK4ROg4gym9a) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Ojitos Rojos](https://open.spotify.com/album/6mJsfQtxflmwDCCaeDBwYV) | 3:41 |
+| 1 | [OJITOS ROJOS](https://open.spotify.com/track/5LsvrplQ7YCK4ROg4gym9a) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [OJITOS ROJOS](https://open.spotify.com/album/6mJsfQtxflmwDCCaeDBwYV) | 3:41 |
 | 2 | [Mi Confesión](https://open.spotify.com/track/4ogtFmfPM9dRoQpNXVxq78) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O), [Caceres](https://open.spotify.com/artist/2hh9vTDXej21Upds5nlJTn) | [Mi Confesión](https://open.spotify.com/album/0QrjJ4xZ1YOMRglUhSUxSq) | 3:18 |
 | 3 | [Pedro Navaja \- En Vivo en el Coliseo de Puerto Rico, 14 de Mayo 2022](https://open.spotify.com/track/6j5HPba3RdeDmgfsmD38Dk) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Roberto Delgado & Orquesta](https://open.spotify.com/artist/5rj835Uo7VJGoT5KHkW23c) | [Siembra: 45° Aniversario \(En Vivo en el Coliseo de Puerto Rico, 14 de Mayo 2022\)](https://open.spotify.com/album/57y0cHwEuN2zJQPrKOXYfi) | 9:29 |
 | 4 | [Amor Tóxico](https://open.spotify.com/track/40LLL1MRaxG5ecVQzaePSf) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064), [Grupo K\-L](https://open.spotify.com/artist/6AZdWAXJzixK1BEq50ULbi) | [Amor Tóxico](https://open.spotify.com/album/63uYZfP0usyDZc3HqfuP6a) | 3:38 |
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 8 | [Voy A Olvidarme De Mi](https://open.spotify.com/track/7At4ts4UEcrRJSP0rR3Q0B) | [Flor Vigna](https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE), [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Voy A Olvidarme De Mi](https://open.spotify.com/album/4FEH9l7ARowZhR1kL9X4WF) | 3:07 |
 | 9 | [Ya No Te Aguanto](https://open.spotify.com/track/20UdnOkcC57mA1VPw7A099) | [Hnos Yaipen](https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg) | [Ya No Te Aguanto](https://open.spotify.com/album/0dzB3ktZVHaaNVkXF6euTS) | 3:42 |
 | 10 | [Hazme Olvidarla](https://open.spotify.com/track/3XQ8hlGg3npsH3JwwdcI1f) | [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2) | [Hazme Olvidarla](https://open.spotify.com/album/6Z4LbPRfRr5BHB4n9rUkl0) | 3:05 |
-| 11 | [Chau Chau](https://open.spotify.com/track/6FMTafTDHX2Gt9EXONkBya) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Chau Chau](https://open.spotify.com/album/667cSzgfBITHyYcjrBb9ie) | 2:45 |
+| 11 | [Chau Chau](https://open.spotify.com/track/6FMTafTDHX2Gt9EXONkBya) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Chau Chau](https://open.spotify.com/album/667cSzgfBITHyYcjrBb9ie) | 2:44 |
 | 12 | [BLOQUEADO](https://open.spotify.com/track/6d5gfLCJ8Qtg2xLL03b0u3) | [La Noche](https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9) | [BLOQUEADO](https://open.spotify.com/album/3tYAIUX5evetmCs0nBuGXz) | 3:31 |
 | 13 | [Desde Cero](https://open.spotify.com/track/3Lj8lhwQXIpBpshQNFOpMa) | [Luchy DR](https://open.spotify.com/artist/0SbiXy5hZuC7ZjOXNXygql), [Karlos Rosé](https://open.spotify.com/artist/6FQPrGwEepUrGKbzD3Zeib) | [Desde Cero](https://open.spotify.com/album/3poewmREiVEL85dIOHfped) | 3:28 |
 | 14 | [Y SI TE QUEDAS ¿QUÉ?](https://open.spotify.com/track/5Ip2spBUHOnrjcYm9lH4cY) | [El Super Hobby](https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V) | [Y SI TE QUEDAS ¿QUÉ?](https://open.spotify.com/album/5uULxdIgJ0gFeKoQS2vQDr) | 2:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 49 | [Quiéreme](https://open.spotify.com/track/7KtpVpoOsyOZ0l1OtvlnPi) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Luana](https://open.spotify.com/artist/6uJKnn4CV4IIop8mg4kCUy) | [Quiéreme](https://open.spotify.com/album/5kCvgrQyPDTFo2twOMwP63) | 2:28 |
 | 50 | [No\_se\_ve.mp3](https://open.spotify.com/track/6MZF2xNdjG24IXAVxFJNg9) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [No\_se\_ve.mp3](https://open.spotify.com/album/6i4DjgJTPYPDRPzuirxQPV) | 2:15 |
 
-Snapshot ID: `MCw2MWMxNTIwYTA2YWMxYTg3MjkyZDIyNzQ5ZTljYzRhMTUwNDhhMGI2`
+Snapshot ID: `MCw5YjllOGNlM2NhYmQ4M2QzNTk5Y2VlYzFiYjAzYTg2N2ZkZjgxM2Rm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Adiós Pop con Ñ, hola Pop del Top\. Lo mejor y lo último del pop\. Foto: Abraham Mateo
 
-[Spotify](https://open.spotify.com/user/spotify) - 986,004 likes - 78 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 986,077 likes - 78 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 77 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 |
 | 78 | [cielo violeta](https://open.spotify.com/track/57qJbIewi6XBJ0WNQmQbXW) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [cielo violeta](https://open.spotify.com/album/4ALW8npMQxUxWmBkOvhTUK) | 2:40 |
 
-Snapshot ID: `MCxmZDkzMWIyZGE4NTcyYmY1MjE0NWRjYTIwZGYxNDY2OTdlZDE1NDNj`
+Snapshot ID: `MCw1YWM4NmQzMmVlNDEzZTJjZWYyMDk5OTJhMGEyZDQzN2UxYmM2Yzlk`

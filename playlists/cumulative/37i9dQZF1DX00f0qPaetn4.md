@@ -4,7 +4,7 @@
 
 > Celebrating South Asian Heritage Month with Irfan's favorite South Asian tracks that accompany him on his travels.
 
-36 songs - 2 hr 36 min
+37 songs - 2 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,8 +14,9 @@
 | [Barkat](https://open.spotify.com/track/2gUKyAKu4fvEcKboCruSEK) | [Rozeo](https://open.spotify.com/artist/0mojEh0eM7WmhBI4WBCmE0) | [Barkat](https://open.spotify.com/album/7hf7mHdPHRA7XW6kSKyYQi) | 2:45 | 2023-07-17 |  |
 | [Dhoop](https://open.spotify.com/track/6KmxwN2j8okZ1VQkAj0LHb) | [Kashmir](https://open.spotify.com/artist/3BaXohQuxIv7oZGuHEBuLt) | [Khwaab](https://open.spotify.com/album/653VDLcUT6H1wGtxdEd8Bl) | 4:33 | 2023-07-17 |  |
 | [Dil Jalay \- Remastered](https://open.spotify.com/track/7dCqcfP2gpPalTzkh02GW4) | [Malang Party](https://open.spotify.com/artist/6XRkXHSdrFzdc7ouAMVqDn) | [Loadshedding \(Remastered\)](https://open.spotify.com/album/0vwoHNV3NVDtfwAWwDZO67) | 3:45 | 2023-07-17 |  |
-| [Dooba](https://open.spotify.com/track/1t3Na5aPNlWcKdYKRGFzfw) | [Udbhav](https://open.spotify.com/artist/5z64uWhlp31wS6DysFX99p) | [Dooba](https://open.spotify.com/album/5pRKmZsrc35J2LSpVNQUls) | 4:43 | 2023-07-17 |  |
-| [Fanaa \- Live at Nescafé Basement](https://open.spotify.com/track/0WhpTbSFKnsEG06jjDCa6h) | [Karakoram](https://open.spotify.com/artist/7iUydu6DUbUBsDDwheSlkr) | [Ibtida](https://open.spotify.com/album/5ZtwZTwn9Hn75k4YG4QyS3) | 5:18 | 2023-07-17 |  |
+| [Dooba](https://open.spotify.com/track/1t3Na5aPNlWcKdYKRGFzfw) | [Nanku](https://open.spotify.com/artist/1ZBspcSxfWh6GuxjGr5u0p) | [Dooba](https://open.spotify.com/album/5pRKmZsrc35J2LSpVNQUls) | 4:43 | 2023-07-17 |  |
+| [Fanaa \(Live at Nescafé Basement\)](https://open.spotify.com/track/43uxoEGFbkR51Wm4Gwve5U) | [Karakoram](https://open.spotify.com/artist/7iUydu6DUbUBsDDwheSlkr) | [Ibtida](https://open.spotify.com/album/0eYmVARmQczbwTwTUavy4r) | 5:18 | 2023-07-17 |  |
+| [Fanaa \- Live at Nescafé Basement](https://open.spotify.com/track/0WhpTbSFKnsEG06jjDCa6h) | [Karakoram](https://open.spotify.com/artist/7iUydu6DUbUBsDDwheSlkr) | [Ibtida](https://open.spotify.com/album/5ZtwZTwn9Hn75k4YG4QyS3) | 5:18 | 2023-07-17 | 2023-07-23 |
 | [Farak](https://open.spotify.com/track/0wcvsHMMrwA1Ah47RDJpdj) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz) | [Farak](https://open.spotify.com/album/3B9SId4F7IoFZpPKvuCJQT) | 3:08 | 2023-07-17 |  |
 | [Halkay \(Bonus\) \- Remix](https://open.spotify.com/track/074MDRro6aXJYwKSL1FMQf) | [Salor](https://open.spotify.com/artist/5p1vtdUEsj50ZTBe9BuEGF), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [Naye Maslay](https://open.spotify.com/album/6JVPEVfp267jDfA9ykqWGq) | 4:46 | 2023-07-17 |  |
 | [Humne Bhi](https://open.spotify.com/track/78bJtdSTpHYS8u9axaismu) | [The Western Ghats](https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv) | [Humne Bhi \- Single](https://open.spotify.com/album/0rfjCcKynJ2CDAwGD8Yp1z) | 4:12 | 2023-07-17 |  |

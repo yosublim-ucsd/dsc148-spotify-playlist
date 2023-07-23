@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 62939,
+  "num_followers": 62963,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTVlZTE1NDE0NWRjNWI1YjFhMGE2MzQ5YWI0OTFlYzRkNDRlYjcy",
+  "snapshot_id": "MCw0NjgxZjA4NjdhNDI5ZDBmMGVjYjU0OGU1NTRhY2EzMjI1YzdlNmVm",
   "tracks": [
     {
       "added_at": "2023-07-21 06:00:00",
@@ -159,6 +159,22 @@
     {
       "added_at": "2023-07-21 06:00:00",
       "album": {
+        "name": "Monumentos",
+        "url": "https://open.spotify.com/album/0okUAbYIWPQ9QDlHkKhYeK"
+      },
+      "artists": [
+        {
+          "name": "Sputnik",
+          "url": "https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG"
+        }
+      ],
+      "duration_ms": 187860,
+      "name": "Cien Inviernos",
+      "url": "https://open.spotify.com/track/0cOHNQigalz5bWC7hdateS"
+    },
+    {
+      "added_at": "2023-07-21 06:00:00",
+      "album": {
         "name": "RPDF",
         "url": "https://open.spotify.com/album/3bwL8cvP3ALLfMEOOnLgc1"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 229947,
       "name": "Gracias por la Herida",
       "url": "https://open.spotify.com/track/52JXNqsIEDNzEy2Iu0G5fV"
-    },
-    {
-      "added_at": "2023-07-21 06:00:00",
-      "album": {
-        "name": "Monumentos",
-        "url": "https://open.spotify.com/album/0okUAbYIWPQ9QDlHkKhYeK"
-      },
-      "artists": [
-        {
-          "name": "Sputnik",
-          "url": "https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG"
-        }
-      ],
-      "duration_ms": 187860,
-      "name": "Cien Inviernos",
-      "url": "https://open.spotify.com/track/0cOHNQigalz5bWC7hdateS"
     },
     {
       "added_at": "2023-07-21 06:00:00",
@@ -291,6 +291,22 @@
     {
       "added_at": "2023-07-21 06:00:00",
       "album": {
+        "name": "Gran Blanco",
+        "url": "https://open.spotify.com/album/4gTPdbEREPu8h4mrfZUpBf"
+      },
+      "artists": [
+        {
+          "name": "Sputnik",
+          "url": "https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG"
+        }
+      ],
+      "duration_ms": 203213,
+      "name": "Confesi\u00f3n",
+      "url": "https://open.spotify.com/track/5EaIqvYLnqFM4EQJdzR2WL"
+    },
+    {
+      "added_at": "2023-07-21 06:00:00",
+      "album": {
         "name": "La B\u00fasqueda del Tiempo Perdido",
         "url": "https://open.spotify.com/album/0kGlrYmoTRFahap6MLJ8ob"
       },
@@ -327,22 +343,6 @@
     {
       "added_at": "2023-07-21 06:00:00",
       "album": {
-        "name": "120 Km/Hr.",
-        "url": "https://open.spotify.com/album/1SgPUGiM2u18nbgcutSHxM"
-      },
-      "artists": [
-        {
-          "name": "Allison",
-          "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr"
-        }
-      ],
-      "duration_ms": 221066,
-      "name": "Vamos Otra Vez",
-      "url": "https://open.spotify.com/track/2hMFkTRHfUn9QShgYLsTWb"
-    },
-    {
-      "added_at": "2023-07-21 06:00:00",
-      "album": {
         "name": "J\u00e4ula",
         "url": "https://open.spotify.com/album/1yLnsXPIitOv2ExApCDEGE"
       },
@@ -375,18 +375,18 @@
     {
       "added_at": "2023-07-21 06:00:00",
       "album": {
-        "name": "Gran Blanco",
-        "url": "https://open.spotify.com/album/4gTPdbEREPu8h4mrfZUpBf"
+        "name": "120 Km/Hr.",
+        "url": "https://open.spotify.com/album/1SgPUGiM2u18nbgcutSHxM"
       },
       "artists": [
         {
-          "name": "Sputnik",
-          "url": "https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG"
+          "name": "Allison",
+          "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr"
         }
       ],
-      "duration_ms": 203213,
-      "name": "Confesi\u00f3n",
-      "url": "https://open.spotify.com/track/5EaIqvYLnqFM4EQJdzR2WL"
+      "duration_ms": 221066,
+      "name": "Vamos Otra Vez",
+      "url": "https://open.spotify.com/track/2hMFkTRHfUn9QShgYLsTWb"
     },
     {
       "added_at": "2023-07-21 06:00:00",
@@ -607,18 +607,18 @@
     {
       "added_at": "2023-07-21 06:00:00",
       "album": {
-        "name": "Chacach\u00e1 del Tren",
-        "url": "https://open.spotify.com/album/45Vwem5aRkEKT7YW6wUEzH"
+        "name": "Un X100To (Cover)",
+        "url": "https://open.spotify.com/album/0jZNt1uX0aBjDWatpmv0mN"
       },
       "artists": [
         {
-          "name": "Me Fritos and the Gimme Cheetos",
-          "url": "https://open.spotify.com/artist/29Ur1r8tVRPLl6TcppRLkr"
+          "name": "Pedro y el Lobo",
+          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
         }
       ],
-      "duration_ms": 121000,
-      "name": "Chacach\u00e1 del Tren",
-      "url": "https://open.spotify.com/track/4d1r4qqz6hH6Eq0YNcYGhK"
+      "duration_ms": 166265,
+      "name": "Un X100To - Cover",
+      "url": "https://open.spotify.com/track/5jAy79SzEzta9iXoGOeTfp"
     },
     {
       "added_at": "2023-07-21 06:00:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2023-07-21 06:00:00",
       "album": {
+        "name": "Chacach\u00e1 del Tren",
+        "url": "https://open.spotify.com/album/45Vwem5aRkEKT7YW6wUEzH"
+      },
+      "artists": [
+        {
+          "name": "Me Fritos and the Gimme Cheetos",
+          "url": "https://open.spotify.com/artist/29Ur1r8tVRPLl6TcppRLkr"
+        }
+      ],
+      "duration_ms": 121000,
+      "name": "Chacach\u00e1 del Tren",
+      "url": "https://open.spotify.com/track/4d1r4qqz6hH6Eq0YNcYGhK"
+    },
+    {
+      "added_at": "2023-07-21 06:00:00",
+      "album": {
         "name": "Un A\u00f1o",
         "url": "https://open.spotify.com/album/33PGlKYVigoH6jR1qwUfh6"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 166540,
       "name": "Un A\u00f1o",
       "url": "https://open.spotify.com/track/1NvuUQSActakCpCg071n2x"
-    },
-    {
-      "added_at": "2023-07-21 06:00:00",
-      "album": {
-        "name": "Un X100To (Cover)",
-        "url": "https://open.spotify.com/album/0jZNt1uX0aBjDWatpmv0mN"
-      },
-      "artists": [
-        {
-          "name": "Pedro y el Lobo",
-          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
-        }
-      ],
-      "duration_ms": 166265,
-      "name": "Un X100To - Cover",
-      "url": "https://open.spotify.com/track/5jAy79SzEzta9iXoGOeTfp"
     },
     {
       "added_at": "2023-07-21 06:00:00",
@@ -823,18 +823,18 @@
     {
       "added_at": "2023-07-21 06:00:00",
       "album": {
-        "name": "Al infierno y de regreso",
-        "url": "https://open.spotify.com/album/7rW8Qb4gpmNMZkS4h6nCKa"
+        "name": "Siempre Resistir / Nunca Desistir",
+        "url": "https://open.spotify.com/album/05oaSmUNyPQMVeNgvfn8uS"
       },
       "artists": [
         {
-          "name": "NUNO",
-          "url": "https://open.spotify.com/artist/3cvT82FVElcs4E8MBwKgV8"
+          "name": "DON",
+          "url": "https://open.spotify.com/artist/4xRGF3S9AgY23sWuzKlUDR"
         }
       ],
-      "duration_ms": 204500,
-      "name": "Diablo",
-      "url": "https://open.spotify.com/track/62mgkKxsHBxt1Hmd04GMai"
+      "duration_ms": 234773,
+      "name": "Escribe Una Canci\u00f3n",
+      "url": "https://open.spotify.com/track/4Yrn59SQBNUiWywYLERLw2"
     }
   ],
   "unique_name": "Escena Pop Punk",

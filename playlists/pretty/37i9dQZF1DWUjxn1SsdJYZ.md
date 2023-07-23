@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: AMARNI
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,576 likes - 99 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,581 likes - 99 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 98 | [Locked In Freestyle \(S1:E3\)](https://open.spotify.com/track/2OV6tNYDF3sNOrEKwz5FXc) | [CT24](https://open.spotify.com/artist/2sEZ5hpPkQP6kLqTS1i9IJ), [A9ine](https://open.spotify.com/artist/78vPCTB2rVA4KTCOYGwZ9Q) | [Locked In Freestyle \(S1:E3\)](https://open.spotify.com/album/1oQxFL8J8WC4yrjqAGVotF) | 2:03 |
 | 99 | [WE HERE NOW](https://open.spotify.com/track/1hpMwnkfGlcPTSAqTTS166) | [Th4 W3st](https://open.spotify.com/artist/49a6yPIQOQhPDL6e6d0hCB) | [WE HERE NOW](https://open.spotify.com/album/67CEXT1GE4V9iK1jNmaNta) | 3:28 |
 
-Snapshot ID: `MCw0NjgzM2RmNGU2YzhlYzI5OTQ0NTRiMjFkMjJiMWEyMGIzNzAyYWE0`
+Snapshot ID: `MCxkYmZlOGVlM2U1NjM3NTQ1YTk3MWI5NjgwYTgzZTRmMjNiZmJlYzdi`

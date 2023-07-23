@@ -4,7 +4,7 @@
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover:  <a href="https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV?si=d08d5af9b6524c44">Tiffany Hudson</a>
 
-4,015 songs - 11 day 5 hr 34 min
+4,015 songs - 11 day 5 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3070,7 +3070,7 @@
 | [Sing Hallelujah \(The Victory Song\) \- Live](https://open.spotify.com/track/6gKQVM74S0rNzdp6DtokgP) | [Stockholm Worship](https://open.spotify.com/artist/5BLAL4fBI3BB2ohYBPmCOH) | [Sing Hallelujah \(The Victory Song\) \[Live\]](https://open.spotify.com/album/0rgE37Ttcx8LHuYvqnNusy) | 4:09 | 2023-02-24 | 2023-03-04 |
 | [Sing Hallelujah \(with Natalie Grant\) \- Live](https://open.spotify.com/track/0LPrib5LGVzGhnrM6J8kl9) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Cover The Earth \(Live In New York\)](https://open.spotify.com/album/0n1rSUSza9mlKU1g6xD9l9) | 8:24 | 2023-06-02 | 2023-06-24 |
 | [Sing Our Way \- Live](https://open.spotify.com/track/1zYxz3ko5y4dHeByP4WJvY) | [Harborside Music](https://open.spotify.com/artist/5Lw266onySIyRJlK8cYzyo) | [The Meeting Place \(Live\)](https://open.spotify.com/album/3pn68rUoYkM9AbHo5Ghl6u) | 7:45 | 2022-09-23 | 2022-10-08 |
-| [Sing Over Me](https://open.spotify.com/track/7DKKu0q6waqnlTLyjFmGqk) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i), [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Sing Over Me](https://open.spotify.com/album/4AQORsFEoINGvG3OHHe9GY) | 3:21 | 2023-07-21 |  |
+| [Sing Over Me](https://open.spotify.com/track/7DKKu0q6waqnlTLyjFmGqk) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i), [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Sing Over Me](https://open.spotify.com/album/4AQORsFEoINGvG3OHHe9GY) | 4:14 | 2023-07-21 |  |
 | [sing praise](https://open.spotify.com/track/6cy0wvRiD7KnWQs3plEwng) | [Isla Vista Worship](https://open.spotify.com/artist/6SPi7yJRY3SAhwhUlFFsNB) | [sing praise](https://open.spotify.com/album/1LIgZ9KDvXkdOqi66g2xx4) | 3:13 | 2022-08-19 | 2022-09-03 |
 | [Sing! \- Live](https://open.spotify.com/track/6vrgWUW9sX7IZoE5AmiaZX) | [KXC](https://open.spotify.com/artist/4IRzqqB9lt9kxz86QP0kpO), [Damilola](https://open.spotify.com/artist/6gCE603FHtd4uvXlpdbtFQ) | [Light of Peace \(Live\)](https://open.spotify.com/album/4LUTj5vF6VW3Rg2OlYNBQH) | 5:12 | 2022-11-04 | 2022-11-26 |
 | [Sing, Sing, Sing](https://open.spotify.com/track/4XLJwnkRL4LWVvEN2kqSIW) | [Anchor Hymns](https://open.spotify.com/artist/4UuCCQRHiLAMzOWXkFtqSE), [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH), [Jasmine Mullen](https://open.spotify.com/artist/4OxSdUYHCbfXU6J84jskDj), [Antoine Bradford](https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl), [Dwan Hill](https://open.spotify.com/artist/3JviNpSnB2gu3sUo8qdEOQ) | [Sing, Sing, Sing](https://open.spotify.com/album/2pAEWheqB6vomKLBpqVDA9) | 2:56 | 2023-03-24 | 2023-04-01 |

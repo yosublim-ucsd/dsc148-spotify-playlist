@@ -1028,10 +1028,32 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-23",
       "duration_ms": 348756,
       "name": "Bristi Veja Dupur",
       "url": "https://open.spotify.com/track/5v8mrL0zFv2mjOSvRh3vWE"
+    },
+    {
+      "album": {
+        "name": "Chinno Potro",
+        "url": "https://open.spotify.com/album/4qjpE5T9ad9DOebUCw9ftH"
+      },
+      "artists": [
+        {
+          "name": "Soura Pandey",
+          "url": "https://open.spotify.com/artist/6Vu1diYOaCPEjbuMhEV0hL"
+        },
+        {
+          "name": "Joel D Costa",
+          "url": "https://open.spotify.com/artist/6TzLz534zsSVQqG4zUAlpQ"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350720,
+      "name": "Bristi Veja Dupur",
+      "url": "https://open.spotify.com/track/46l8esn7rL7sAS9GWSvL6G"
     },
     {
       "album": {

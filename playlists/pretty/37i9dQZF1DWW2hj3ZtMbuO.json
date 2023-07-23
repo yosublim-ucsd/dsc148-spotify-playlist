@@ -1,12 +1,12 @@
 {
   "description": "Sapphic songs that defined your music taste as \"yearning.\" ",
-  "num_followers": 1378864,
+  "num_followers": 1379508,
   "original_name": "sad girl starter pack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYWIwOWM4NjMwNDQ2MWEwOGZlYzU3NWMwZDljNjY5OWIxNDIyNGI5",
+  "snapshot_id": "MCw0YzA3MTM2ZmMwODIwYzNhYmM2YjZlZmRkYTZjYzZmMDc3ZGExMTg3",
   "tracks": [
     {
       "added_at": "2023-06-23 15:45:51",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-06-23 15:45:51",
       "album": {
-        "name": "Grade Pending",
-        "url": "https://open.spotify.com/album/7yFYYhAYCZpZQV4bA3t7nP"
-      },
-      "artists": [
-        {
-          "name": "Whatever, Dad",
-          "url": "https://open.spotify.com/artist/1wMNhhG8VUhDGZ249MZBtn"
-        }
-      ],
-      "duration_ms": 254116,
-      "name": "Warsh_Tippy and Zelda",
-      "url": "https://open.spotify.com/track/3R0jMlEvot7UYLeulRfl8E"
-    },
-    {
-      "added_at": "2023-06-23 15:45:51",
-      "album": {
         "name": "Good Riddance (Deluxe)",
         "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 259592,
       "name": "Amelie",
       "url": "https://open.spotify.com/track/5SnMKAJBo7X4rUyaSMseun"
+    },
+    {
+      "added_at": "2023-06-23 15:45:51",
+      "album": {
+        "name": "Grade Pending",
+        "url": "https://open.spotify.com/album/7yFYYhAYCZpZQV4bA3t7nP"
+      },
+      "artists": [
+        {
+          "name": "Whatever, Dad",
+          "url": "https://open.spotify.com/artist/1wMNhhG8VUhDGZ249MZBtn"
+        }
+      ],
+      "duration_ms": 254116,
+      "name": "Warsh_Tippy and Zelda",
+      "url": "https://open.spotify.com/track/3R0jMlEvot7UYLeulRfl8E"
     },
     {
       "added_at": "2023-06-23 15:45:51",

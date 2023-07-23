@@ -1,12 +1,12 @@
 {
   "description": "Os grandes hinos reunidos em um \u00fanico lugar. Foto: Davi Sacer, Simone",
-  "num_followers": 501642,
+  "num_followers": 501903,
   "original_name": "Gospel Cl\u00e1ssicos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NTFhYmVhNzM1MGY2MjI3MzRiZWVjNTU1ZTdiMzFlZWQ4ZDQ1NGY4",
+  "snapshot_id": "MCw0NGMxNzYyZTg1N2NmMWUzOWRkNjQ5NWZhY2Y2NzYyZWNhZGViMTQ4",
   "tracks": [
     {
       "added_at": "2023-07-21 04:44:41",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-07-21 04:44:41",
       "album": {
+        "name": "Eterno Dependente",
+        "url": "https://open.spotify.com/album/7EfEHHMC3rsLcrcpoIrSl5"
+      },
+      "artists": [
+        {
+          "name": "Marcos Ant\u00f4nio",
+          "url": "https://open.spotify.com/artist/328rxNpbUC1zFPojNBnKj4"
+        }
+      ],
+      "duration_ms": 330804,
+      "name": "Pai",
+      "url": "https://open.spotify.com/track/6M1mIjeq2kNvT8F2dHNugk"
+    },
+    {
+      "added_at": "2023-07-21 04:44:41",
+      "album": {
         "name": "At\u00e9 Transbordar (Ao Vivo)",
         "url": "https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 271866,
       "name": "Pra Onde Iremos? (feat. Felippe Valad\u00e3o) - Ao Vivo",
       "url": "https://open.spotify.com/track/3eL1SOAEopSLzdzzlHaJ18"
-    },
-    {
-      "added_at": "2023-07-21 04:44:41",
-      "album": {
-        "name": "Eterno Dependente",
-        "url": "https://open.spotify.com/album/7EfEHHMC3rsLcrcpoIrSl5"
-      },
-      "artists": [
-        {
-          "name": "Marcos Ant\u00f4nio",
-          "url": "https://open.spotify.com/artist/328rxNpbUC1zFPojNBnKj4"
-        }
-      ],
-      "duration_ms": 330804,
-      "name": "Pai",
-      "url": "https://open.spotify.com/track/6M1mIjeq2kNvT8F2dHNugk"
     },
     {
       "added_at": "2023-07-21 04:44:41",
@@ -911,26 +911,6 @@
     {
       "added_at": "2023-07-21 04:44:41",
       "album": {
-        "name": "Mem\u00f3rias 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1sngh1DpFlv5KdnRch5ECO"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        },
-        {
-          "name": "\u00c1lvaro Tito",
-          "url": "https://open.spotify.com/artist/7F0dGy9cKLrQ4Z5noPd4nT"
-        }
-      ],
-      "duration_ms": 264164,
-      "name": "N\u00e3o H\u00e1 Barreiras - Ao Vivo",
-      "url": "https://open.spotify.com/track/2fK7vE5xZRvBAjKOOqkrSe"
-    },
-    {
-      "added_at": "2023-07-21 04:44:41",
-      "album": {
         "name": "Santo Esp\u00edrito (Holy Spirit) (feat. Leonardo Gon\u00e7alves) [Ao Vivo]",
         "url": "https://open.spotify.com/album/4JSIBpnrE5KikTuUJz4q8j"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 513960,
       "name": "Santo Esp\u00edrito (Holy Spirit) (feat. Leonardo Gon\u00e7alves) - Ao Vivo",
       "url": "https://open.spotify.com/track/7gvMCmfFPtS1LY1PSWdmKT"
+    },
+    {
+      "added_at": "2023-07-21 04:44:41",
+      "album": {
+        "name": "Mem\u00f3rias 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1sngh1DpFlv5KdnRch5ECO"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        },
+        {
+          "name": "\u00c1lvaro Tito",
+          "url": "https://open.spotify.com/artist/7F0dGy9cKLrQ4Z5noPd4nT"
+        }
+      ],
+      "duration_ms": 264164,
+      "name": "N\u00e3o H\u00e1 Barreiras - Ao Vivo",
+      "url": "https://open.spotify.com/track/2fK7vE5xZRvBAjKOOqkrSe"
     },
     {
       "added_at": "2023-07-21 04:44:41",

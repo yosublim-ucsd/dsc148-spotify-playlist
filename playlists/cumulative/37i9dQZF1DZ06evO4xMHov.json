@@ -191,6 +191,28 @@
     },
     {
       "album": {
+        "name": "Fogo e Gl\u00f3ria (Ao Vivo em Curitiba)",
+        "url": "https://open.spotify.com/album/2OdyYrKg4KABWavlgvm0Qq"
+      },
+      "artists": [
+        {
+          "name": "David Quinlan",
+          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
+        },
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 897720,
+      "name": "Enche Este Lugar - Ao Vivo em Curitiba",
+      "url": "https://open.spotify.com/track/4rhzNUHKdJrPztV2edciTB"
+    },
+    {
+      "album": {
         "name": "Este \u00e9 o Som da Tua Noiva | Eu S\u00f3 Quero Te Amar",
         "url": "https://open.spotify.com/album/3ltmkD8eGzyKfH0zuwlucN"
       },
@@ -752,7 +774,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-23",
       "duration_ms": 546090,
       "name": "Primeiro Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/7cooQN6gXUKFHx7s85E0sh"

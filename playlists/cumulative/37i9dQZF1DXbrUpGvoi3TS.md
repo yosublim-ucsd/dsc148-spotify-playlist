@@ -4,7 +4,7 @@
 
 > Nurse your emotional wounds with these heartbreak tracks.
 
-373 songs - 22 hr 54 min
+374 songs - 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Cold Water](https://open.spotify.com/track/6BwWFv9GR66ibD9pZO2W5E) | [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Cold Water](https://open.spotify.com/album/0Ij4PI9izYjquB5yFNRxt3) | 2:33 | 2022-03-24 | 2022-04-20 |
 | [Colour Me](https://open.spotify.com/track/2TGNR3bhdsRY9lzyVX5mba) | [Juke Ross](https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY) | [Colour Me](https://open.spotify.com/album/1vCnVKBMHSerJekw2WaYBo) | 3:31 | 2022-03-24 | 2022-04-21 |
 | [Complicated](https://open.spotify.com/track/0jllH0usRFD4LJkJnGK9Lf) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Complicated](https://open.spotify.com/album/18IaOJpyXfqbOsZIqmnfpZ) | 3:09 | 2021-10-21 | 2023-06-22 |
+| [Complicated](https://open.spotify.com/track/226PUvIuxGdceSijXXZRRz) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Complicated](https://open.spotify.com/album/7FqJvfHEUv3vbv9FZhpsgW) | 3:09 | 2022-05-19 |  |
 | [Crazy in Love](https://open.spotify.com/track/5iJS04ZXjMkQZ5nS0PsIeY) | [Eden Project](https://open.spotify.com/artist/26plsJBmW5se3wurhwzaEK) | [Crazy in Love](https://open.spotify.com/album/0W1rDqIMNC2lg5Rtq7kn2H) | 4:25 | 2022-03-24 | 2022-04-19 |
 | [Creep](https://open.spotify.com/track/1ytTeSRAU6IRo2itVDwtPv) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Best Of](https://open.spotify.com/album/4wciNwfgbL74SJG9BFlf2R) | 3:58 | 2022-03-24 | 2022-04-19 |
 | [Creep](https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Pablo Honey](https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8) | 3:58 | 2022-05-19 |  |
@@ -117,7 +118,7 @@
 | [Ghosts](https://open.spotify.com/track/4RD9ieX3yq8OLW5tlf1KLL) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [The Twilight Saga: Breaking Dawn \- Part 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6lJrqUXdCpEINx1fi5EqMa) | 3:44 | 2022-03-24 | 2022-04-20 |
 | [Give You Up](https://open.spotify.com/track/7agjVIlvugzO0ojGzZtFjK) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [Give You Up](https://open.spotify.com/album/4Ljg1SDZZd28nHpVls7Lfj) | 3:21 | 2022-03-24 | 2022-04-20 |
 | [Godspeed](https://open.spotify.com/track/5WfACgyEk4rwdWU3rrzNt1) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Godspeed](https://open.spotify.com/album/0qYRbCu2dmz948wOiROlcC) | 2:53 | 2022-03-24 | 2022-04-20 |
-| [Goodbye](https://open.spotify.com/track/5PihYbt4uNnVt68l5D1SGb) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [The Vanishing Race](https://open.spotify.com/album/1WVavkGT7qfAwjCRrgYLN5) | 4:02 | 2022-03-24 |  |
+| [Goodbye](https://open.spotify.com/track/5PihYbt4uNnVt68l5D1SGb) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [The Vanishing Race](https://open.spotify.com/album/1WVavkGT7qfAwjCRrgYLN5) | 4:02 | 2022-03-24 | 2023-07-23 |
 | [Goodbye](https://open.spotify.com/track/29bnjt6N2OoTVL3TuEASS5) | [Jessica Lowndes](https://open.spotify.com/artist/1XNfue8YO5vg53LLS2yYcP) | [\#Tbt](https://open.spotify.com/album/5QsNs4z16FhKfVfe1QU9wa) | 3:56 | 2022-03-24 | 2022-04-18 |
 | [Goodbye My Lover](https://open.spotify.com/track/6gxycjJNMgmAyfzUXBN80P) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 4:18 | 2022-03-24 |  |
 | [Half A Man](https://open.spotify.com/track/1ugQtcwmKOXvKAYzhjncmv) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [A Place We Knew](https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C) | 2:59 | 2022-05-19 |  |

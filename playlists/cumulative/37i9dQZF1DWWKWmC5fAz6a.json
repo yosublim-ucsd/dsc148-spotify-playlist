@@ -810,10 +810,28 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-23",
       "duration_ms": 190357,
       "name": "UrbanAngel1999",
       "url": "https://open.spotify.com/track/0sDsJ3HMMzrelKD11WARqc"
+    },
+    {
+      "album": {
+        "name": "UrbanAngel1999",
+        "url": "https://open.spotify.com/album/2pIECUm6lJmCagILps1mKa"
+      },
+      "artists": [
+        {
+          "name": "Thomas Headon",
+          "url": "https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE"
+        }
+      ],
+      "date_added": "2022-05-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190357,
+      "name": "UrbanAngel1999",
+      "url": "https://open.spotify.com/track/6OjWT7MkkNFvvlRvILPg6v"
     },
     {
       "album": {

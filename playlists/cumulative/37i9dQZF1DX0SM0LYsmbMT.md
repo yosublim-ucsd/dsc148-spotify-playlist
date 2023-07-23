@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,567 songs - 5 day 16 hr 53 min
+3,568 songs - 5 day 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2194,7 +2194,7 @@
 | [Oceangrown](https://open.spotify.com/track/47HtaK8bwcTA1KgvjFKejI) | [B\-Side](https://open.spotify.com/artist/1KpqmBJgAuQIT39QH7CO2O), [OG Nuage](https://open.spotify.com/artist/1yL3sKU07bFZCMjrMbQ1Jd) | [Oceangrown](https://open.spotify.com/album/0s17ZV8lfgweQsrheV2nSj) | 2:50 | 2020-09-04 | 2021-05-07 |
 | [Oceanside](https://open.spotify.com/track/2QrMLQHBN1XQXz4qx66uzh) | [M e a d o w](https://open.spotify.com/artist/6kG4rnzy0AVEvZb7RGZtoy), [Phlocalyst](https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt) | [Reflections](https://open.spotify.com/album/6K9XNN5yXy0LlFaM1hYmEO) | 2:13 | 2021-02-14 | 2021-07-09 |
 | [Oceanview](https://open.spotify.com/track/0bIpz72pdgAHAYZIHSR2Tp) | [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs) | [Oceanview](https://open.spotify.com/album/3zsDV5pU8kzppKugiLHk1v) | 1:56 | 2021-10-01 | 2021-10-29 |
-| [Ocio](https://open.spotify.com/track/3tV3Qb9XnPitAk81Q12tlo) | [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2), [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr) | [Ocio](https://open.spotify.com/album/2ISUjEQcW6QeqN66zfevHe) | 3:27 | 2023-07-13 |  |
+| [Ocio](https://open.spotify.com/track/3tV3Qb9XnPitAk81Q12tlo) | [young.vishnu](https://open.spotify.com/artist/13ktebtZo4NRbX3uThOmP2), [Pachakuti](https://open.spotify.com/artist/2pQzPOCdgQgaUpWG3WEcYr) | [Ocio](https://open.spotify.com/album/2ISUjEQcW6QeqN66zfevHe) | 3:27 | 2023-07-13 | 2023-07-23 |
 | [October](https://open.spotify.com/track/7CqyMOgqLtNYx8cSS9fDy2) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [October](https://open.spotify.com/album/4aGZXtzbaIRWIqUmkfRyAd) | 1:57 | 2022-12-08 | 2023-06-02 |
 | [OCTOBER 17](https://open.spotify.com/track/2qp6U7c6o98wwA60ygn1cs) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR) | [IMAGINARY FRIEND](https://open.spotify.com/album/69Sp4qEiWUNDfkD1qe0mGm) | 2:14 | 2022-06-23 | 2022-07-06 |
 | [Odd Meter Groove](https://open.spotify.com/track/1V8j0JP1oYb2ZR9CmRBl89) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [Odd Meter Groove](https://open.spotify.com/album/0iEujBWqxzaKNgWDwvHaMQ) | 2:05 | 2020-10-09 | 2021-05-14 |
@@ -2817,6 +2817,7 @@
 | [Spaceride](https://open.spotify.com/track/6mjXJ24nbpGmgFmpbDfa2W) | [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [Fünf](https://open.spotify.com/album/3XMddoPIglMRVVnNjGhcea) | 1:33 | 2019-05-26\* | 2019-06-15 |
 | [Spaceship \- Instrumental](https://open.spotify.com/track/4GiHD7fLNaHKXnzyPeUpQx) | [Kuchenmann](https://open.spotify.com/artist/3t68oahCiTB0Dat0rhHVLW), [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE), [Yung Béla](https://open.spotify.com/artist/2vnP6m4nZXpoV0QcSUA0s4) | [Spaceship](https://open.spotify.com/album/0tAs2aoBKgqcDoJC3Bjyib) | 3:49 | 2020-05-22 | 2020-06-05 |
 | [Spaceships](https://open.spotify.com/track/7wrbVB48VfpYcrSX8w8cUY) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK), [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz) | [Spaceships](https://open.spotify.com/album/5odk9io63tIoXBF0HfRDOH) | 2:08 | 2020-05-15 | 2020-07-24 |
+| [Spaghetti Effect](https://open.spotify.com/track/2jARTgsRMCOX9GLkWtkA2b) | [Peter Kind](https://open.spotify.com/artist/1xMxQQ71TIGQgzH4NY0ECM) | [Spaghetti Effect](https://open.spotify.com/album/30hw3vJM0yLkAgbQk2wS7j) | 2:03 | 2023-07-13 |  |
 | [Sparkling](https://open.spotify.com/track/2G9BBEiDmuFfd2TTFootms) | [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Sparkling](https://open.spotify.com/album/4BeEaHo85oLeYjUPTnEHSA) | 2:17 | 2022-11-17 | 2022-12-16 |
 | [Speakeasy](https://open.spotify.com/track/1n4ru72obd2MB5O74KKLkn) | [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9), [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu) | [Speakeasy](https://open.spotify.com/album/1IqfowbXnSwFU6ZAA4lGNQ) | 1:56 | 2020-10-16 | 2021-01-29 |
 | [Special Day](https://open.spotify.com/track/7wZXkIg7XhmDlOXxlv3pPL) | [flowless](https://open.spotify.com/artist/71dR4Sjwy1ikQyYIcCWvxS) | [Summertime Vibes](https://open.spotify.com/album/0L5YuSOv3LViITz6QpWjFn) | 3:00 | 2020-09-30 | 2021-05-14 |

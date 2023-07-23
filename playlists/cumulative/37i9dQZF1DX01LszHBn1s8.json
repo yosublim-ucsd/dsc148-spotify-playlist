@@ -9722,6 +9722,24 @@
     {
       "album": {
         "name": "Josefin",
+        "url": "https://open.spotify.com/album/6Berl5qBDpBAksUykxTT4v"
+      },
+      "artists": [
+        {
+          "name": "Albin Lee Meldau",
+          "url": "https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221217,
+      "name": "Josefin",
+      "url": "https://open.spotify.com/track/5LDi79YkHmZ1vRLMlyNlNH"
+    },
+    {
+      "album": {
+        "name": "Josefin",
         "url": "https://open.spotify.com/album/4U9WwkTXpQmu04DCvamXXr"
       },
       "artists": [
@@ -9732,7 +9750,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-23",
       "duration_ms": 221217,
       "name": "Josefin",
       "url": "https://open.spotify.com/track/73hiGuj0dxhA1YhmSJOcMF"

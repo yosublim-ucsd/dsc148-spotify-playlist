@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Chris Young, Chris Stapleton, Ashley Cooke and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,120 likes - 73 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,339 likes - 73 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,4 +82,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 72 | [It's True](https://open.spotify.com/track/67dUtWComJOfqLFM0LANC9) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [It's True](https://open.spotify.com/album/5SIvPIgEWccqPO94dcSz3E) | 3:52 |
 | 73 | [Run Wild](https://open.spotify.com/track/3VdGJHppsVYkrOnGdEoum6) | [Tyler Halverson](https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai) | [Run Wild](https://open.spotify.com/album/4bDHHVjHjMK4zGHNZ9c918) | 3:07 |
 
-Snapshot ID: `MCw2ZDI4ODkxYmM0MDcwNGU2YjQ0YjVmNTU4ZWQ2OTM0ZjUxYWM2MGY5`
+Snapshot ID: `MCwzOThkZDJhYTAyYzIzMjFjZjE0YzI3MmU3Njk2NzdjOWNiMTVhZTg0`

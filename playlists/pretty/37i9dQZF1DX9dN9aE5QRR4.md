@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9dN9aE5QRR4.md) - [plain]
 
 > La playlist officielle de l'émission Nouvelle École Saison  2, disponible sur Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,216 likes - 44 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,258 likes - 44 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9dN9aE5QRR4.md) - [plain]
 | 28 | [Goal](https://open.spotify.com/track/3yPL30dEp7quFIPKZSNIsA) | [Slkrack](https://open.spotify.com/artist/10puYSSj5YS2rMO7euRJ85) | [Goal](https://open.spotify.com/album/3eGBwixVuMykpeIRP6CoZB) | 2:37 |
 | 29 | [Médusa](https://open.spotify.com/track/2hL0WVDLvlxZ60J4YyWvFW) | [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK) | [A\-One](https://open.spotify.com/album/7vA0TnW2lm682zNwiRKEcE) | 2:37 |
 | 30 | [Ego\-Tripes](https://open.spotify.com/track/59z8cSxWytXyQT4Kk0atTD) | [NAYRA](https://open.spotify.com/artist/1hNiaDCXQvVRhVSJHsaDmZ) | [SUMUD](https://open.spotify.com/album/1BSjnP0tKK8AoM7vj91sQY) | 2:28 |
-| 31 | [Let's Go](https://open.spotify.com/track/7h2xtz39bv1JnM3KnIt6pA) | [Arka](https://open.spotify.com/artist/3PnK1yG5p3O5dfK0m3oNRG) | [Let's Go](https://open.spotify.com/album/3jVf06aEQuuno3UUppAT3G) | 2:18 |
+| 31 | [Let's Go](https://open.spotify.com/track/6ehqPqJz9YMLS4dhmWyx3i) | [Arka](https://open.spotify.com/artist/3PnK1yG5p3O5dfK0m3oNRG) | [Rebirth](https://open.spotify.com/album/51SALtVR1ld1TmwwN4rFiw) | 2:18 |
 | 32 | [Seule](https://open.spotify.com/track/5OLUrLvTptlqQoieD1LZWP) | [Leys](https://open.spotify.com/artist/5QNv7hSi3Ba7DV4li83jFG) | [Seule](https://open.spotify.com/album/5IUFZeiYpy3b9qajjLGDNH) | 2:36 |
 | 33 | [OMAR LITTLE](https://open.spotify.com/track/5XQEVVnBwzoX86qT5rSgH6) | [Dau](https://open.spotify.com/artist/1UMnJFeGreEat6fHl5Ae1L) | [2CB](https://open.spotify.com/album/2M1YHHWOpD9WCPW45gIqA9) | 2:29 |
 | 34 | [Trop tard](https://open.spotify.com/track/2lwgB5ReDf4VaW3Jm9JGp2) | [Le Dark](https://open.spotify.com/artist/5AlpGRnWjCTZ71L5AMEbgh) | [Trop tard](https://open.spotify.com/album/2p9A9Skhl3ATeY2S71SSk0) | 2:52 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9dN9aE5QRR4.md) - [plain]
 | 43 | [S.A.D \(feat\. Josman\)](https://open.spotify.com/track/3NNawIkm2v7x971h8BIJdo) | [Oldpee](https://open.spotify.com/artist/6IxN9Jvo31OWIvYHJAeZlJ), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [S.A.D \(feat\. Josman\)](https://open.spotify.com/album/5jeTtd8qX77BCi0MvdJiF9) | 3:12 |
 | 44 | [Benze](https://open.spotify.com/track/3fwXNaxlslH41y3a47qela) | [Driss Sks](https://open.spotify.com/artist/2sbCB581cl6ZarOL5cU7t7) | [Benze](https://open.spotify.com/album/3w6eziQRJ2GqZEk1h03IKH) | 3:05 |
 
-Snapshot ID: `MCxhZDliMDBjMGZjYWFlYjI3MDhmZTk5OThiOGM5NjMxZmFhNmQ0Yjc2`
+Snapshot ID: `MCwxNGVlMWNjMzQwYzgxMTQyMmRjMmZhMzM3YjI5NDg5MzkxYzVhNGYy`

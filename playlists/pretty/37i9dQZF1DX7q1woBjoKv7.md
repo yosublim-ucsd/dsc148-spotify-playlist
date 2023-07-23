@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 > California music breaking waves\. Cover: <a href="https://open.spotify.com/artist/2bfz6u4hgmuMljhyMPCzoZ?si=odFUv1B\-S3a0z\_Tz\_8gQbg">Bla$ta</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,470 likes - 57 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,493 likes - 57 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 56 | [Even Exchange](https://open.spotify.com/track/14Ik6Ay30zfITsOaRBV6Cn) | [Niko G4](https://open.spotify.com/artist/0R4yXxa1YyORYIzlE3LfmB) | [LEAD BY EXAMPLE](https://open.spotify.com/album/4Oryztq0nZBTy2KUDL6kfJ) | 2:43 |
 | 57 | [child of GOD](https://open.spotify.com/track/4mkguQG08ITzkOuwxEEhDt) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Remble](https://open.spotify.com/artist/65s98MYZ4xFpgKlUYS5XKw) | [child of GOD](https://open.spotify.com/album/2tdQ8ymmQslIQTBSPO1xga) | 2:54 |
 
-Snapshot ID: `MCw0MmMxZTgxOWU2MTc4ZGJmZTNhMGZmODIzMzBlZDZiYmYwYmQ2MDhk`
+Snapshot ID: `MCxjNThhN2M0YzNhMWVjMDVlZTIwZDI5YWFjYmYyMjgwZmU3NGVmNGIz`

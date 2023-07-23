@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0P1EPhWUeqB.md) - [plain]
 
 > Desde el corazón del rancho, las mejores interpretaciones en vivo\. Virlán García en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,550 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,587 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0P1EPhWUeqB.md) - [plain]
 | 32 | [Ya Te Perdi La Fe \(Live\)](https://open.spotify.com/track/6nmGuhprzvydoBnofttJoF) | [Julián Mercado](https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ) | [En Vivo Desde Culiacan](https://open.spotify.com/album/2nKOlebl1xCOTLW3BjYr5n) | 4:03 |
 | 33 | [Manana Voy a Conquistarte \- En Vivo](https://open.spotify.com/track/4ZyrUecIqxtU4CmbIw39YV) | [Alta Consigna](https://open.spotify.com/artist/0DjAjUeZwSixK0dRwplBXb) | [Desde la Oficina, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/2Ks3v9EkTNK6gVADfFuXyx) | 2:32 |
 | 34 | [Vete Ya \(En Vivo\)](https://open.spotify.com/track/0PyYIGJgxnwuSZZG7NIDnr) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Vete Ya \(En Vivo\)](https://open.spotify.com/album/5IlP8UKRJ8Fl7kqRqclyua) | 2:52 |
-| 35 | [Yo Quisiera Entrar](https://open.spotify.com/track/17HSfx9GvpzcLxR7hBjEQR) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Homenaje a Ariel Camacho](https://open.spotify.com/album/1wa28qmB7ntPQ1iMhJlRCX) | 5:04 |
+| 35 | [Yo Quisiera Entrar](https://open.spotify.com/track/4MeTY5i7fFPG8xiEH5PeeO) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Homenaje a Ariel Camacho](https://open.spotify.com/album/2y2hsLQTXs010SHxs0lOFg) | 5:04 |
 | 36 | [Supe Perder](https://open.spotify.com/track/7d17BrhPWCG56idoTI7wiB) | [Zexta Alianza](https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX) | [A Nuesto Estilo](https://open.spotify.com/album/4FK0yntpe63uSLpdepJCXi) | 3:32 |
 | 37 | [No Le Aflojo](https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [No Le Aflojo](https://open.spotify.com/album/3VABPNfUfSP5DurV7CUZaH) | 3:22 |
 | 38 | [Prision de Amor \(En Vivo\)](https://open.spotify.com/track/6xD9FbY40IWNyXW9TQFZLr) | [Arturo Coronel y el Buen Estilo](https://open.spotify.com/artist/4lFwjsLFRLWRtjtsNjl5al) | [En Vivo Fiesta Privada](https://open.spotify.com/album/2p8XaEUalyK1AW0odivWfM) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0P1EPhWUeqB.md) - [plain]
 | 49 | [Jardín Olvidado \- En Vivo](https://open.spotify.com/track/2zVVkGVN3x6odrOQzWloaC) | [Arturo Coronel y el Buen Estilo](https://open.spotify.com/artist/4lFwjsLFRLWRtjtsNjl5al) | [Con Tololoche y Charchetas \(En Vivo\)](https://open.spotify.com/album/6AKZUXVBIOZLMYNchgmmzI) | 3:34 |
 | 50 | [Andamos Mejor](https://open.spotify.com/track/3K56RPWS4q200IwHiIZcUD) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Andamos Mejor](https://open.spotify.com/album/2NQwwZeDFB6bTXg8rcAFsf) | 2:17 |
 
-Snapshot ID: `MCwxOGE1ZTYwODk3MTVmMzYzM2E1YWU5ZmRmODljZDM2NjdkZDJmZWJl`
+Snapshot ID: `MCxkMmIyODY3M2RlZmUwZGU0Njk3OTZhYThmZTc4MDlhZWJiODEwOGQx`

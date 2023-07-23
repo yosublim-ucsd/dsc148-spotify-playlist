@@ -6831,6 +6831,32 @@
     },
     {
       "album": {
+        "name": "Shut It Down (P Money Remix)",
+        "url": "https://open.spotify.com/album/7gqzvebZH2m7SudhpVaD8w"
+      },
+      "artists": [
+        {
+          "name": "Mollie Collins",
+          "url": "https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu"
+        },
+        {
+          "name": "Elipsa",
+          "url": "https://open.spotify.com/artist/2HRQmTBCGufnxsFIodHske"
+        },
+        {
+          "name": "P Money",
+          "url": "https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173023,
+      "name": "Shut It Down - P Money Remix",
+      "url": "https://open.spotify.com/track/2YtunbLVHqHsFuw3R3N02Q"
+    },
+    {
+      "album": {
         "name": "Shut Ya Mouth",
         "url": "https://open.spotify.com/album/6bOY3B8OrEgR6F6vsmy0i2"
       },
@@ -8586,7 +8612,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-23",
       "duration_ms": 202758,
       "name": "Way Up",
       "url": "https://open.spotify.com/track/2398MESeCtzwLjjjJGIFl3"

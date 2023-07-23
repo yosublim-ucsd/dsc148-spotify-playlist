@@ -4,7 +4,7 @@
 
 > We hear you.
 
-609 songs - 1 day 6 hr 4 min
+610 songs - 1 day 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 | 2022-11-04 | 2023-04-27 |
 | [Dipshit](https://open.spotify.com/track/4cIWpQMGFZWEuGW0TWMDjT) | [marinelli](https://open.spotify.com/artist/0iqCNJHozJhcjPDoX1EJ6a) | [Dipshit](https://open.spotify.com/album/06tbprIHnAibGPy6s6mkPI) | 2:37 | 2022-01-21 | 2022-07-22 |
 | [disappear](https://open.spotify.com/track/5YVuTCLDxjS8pORppZhNsf) | [eli.](https://open.spotify.com/artist/05TvjXcgQveeF7wh2DBHvp) | [the way we used to love.](https://open.spotify.com/album/5TpuZa5jlD6Jf3Kf6qglHo) | 3:45 | 2021-04-02 |  |
+| [DnD \(feat\. Kenny Mason\)](https://open.spotify.com/track/4u27Hk9RfgefXzqzV2wsZW) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [DnD \(feat\. Kenny Mason\)](https://open.spotify.com/album/3BdMsYnkBajLfajXOTADHQ) | 4:11 | 2023-07-21 |  |
 | [Do You Ever Think of Me?](https://open.spotify.com/track/3UsCeel9NuKKmpls5B4osK) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH), [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c) | [Worn Out Heart](https://open.spotify.com/album/4LzEBzni6lrIqW37VP1Z6g) | 2:05 | 2021-04-02 | 2022-07-20 |
 | [don't cry](https://open.spotify.com/track/2tB9EXMGGzvRdxxwyzIJCC) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0) | [don't cry](https://open.spotify.com/album/1tVL6fR2ybpi6qt4vLx6Nq) | 2:18 | 2021-04-02 | 2022-11-13 |
 | [don't fall asleep yet](https://open.spotify.com/track/7sQhhSlMui3JOZ4s2j4IjM) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [ENRA](https://open.spotify.com/artist/1jDbZQQs4VNtiC4AerpIg4) | [don't fall asleep yet](https://open.spotify.com/album/2GuOx7qugrgnvY6p5YFw65) | 2:26 | 2021-04-02 | 2022-04-21 |
@@ -501,7 +502,7 @@
 | [Stumbling](https://open.spotify.com/track/3PFwnVVcInGph5fjyDmseJ) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [Stumbling](https://open.spotify.com/album/4oCH7CmR7SFVQU9V2ArYhN) | 2:52 | 2023-04-17 | 2023-06-11 |
 | [SUGAR](https://open.spotify.com/track/6U0FIYXCQ3TGrk4tFpLrEA) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [GINGER](https://open.spotify.com/album/1jToVugwBEzcak8gJNZG2f) | 3:24 | 2021-04-02 | 2022-05-20 |
 | [suicide](https://open.spotify.com/track/0AXgLaqOI5w3uLXh4YOsIJ) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [isaac's insects](https://open.spotify.com/album/2HbOTgPrZbFDx84oPQ0RlO) | 4:17 | 2021-04-02 | 2022-07-26 |
-| [summer nights](https://open.spotify.com/track/0o9t52kMt1yNHE0IDmdu43) | [Skinny Atlas](https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a), [Laeland](https://open.spotify.com/artist/1X6AU9VgQPke2P4ES0EhJ3), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP) | [summer nights](https://open.spotify.com/album/4H68kRq5qmXfXzx6TyU3jP) | 2:52 | 2023-04-26 |  |
+| [summer nights](https://open.spotify.com/track/0o9t52kMt1yNHE0IDmdu43) | [Skinny Atlas](https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a), [Laeland](https://open.spotify.com/artist/1X6AU9VgQPke2P4ES0EhJ3), [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP) | [summer nights](https://open.spotify.com/album/4H68kRq5qmXfXzx6TyU3jP) | 2:52 | 2023-04-26 | 2023-07-23 |
 | [summer nights](https://open.spotify.com/track/1YUWrIxYwmcrp30xtA9ZQ8) | [Snøw](https://open.spotify.com/artist/5fSVkkuijRIpxuvSqysYiP), [Laeland](https://open.spotify.com/artist/1X6AU9VgQPke2P4ES0EhJ3), [Skinny Atlas](https://open.spotify.com/artist/0E1HulHZpqPQBOA8isuQ7a) | [summer nights](https://open.spotify.com/album/21rCEovCCHZlDipi9i5TJz) | 2:52 | 2021-04-02 | 2022-07-28 |
 | [Summer Nites](https://open.spotify.com/track/0EyctakcktQjOnQynsEQbt) | [Sptmbr209](https://open.spotify.com/artist/3vjiJRTOO3V75vX4JYMcwE) | [Heart](https://open.spotify.com/album/7AyzdsK2EiIszVLx4b5t9o) | 3:12 | 2021-04-02 | 2022-04-19 |
 | [Sunsetz](https://open.spotify.com/track/69UqtTHfUKAJweQwEStRzC) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 3:34 | 2022-11-08 | 2023-04-27 |

@@ -110,7 +110,7 @@
 | [Vivo la Vida](https://open.spotify.com/track/5dSElsITPbdki1S7PuWtjV) | [Relámpagos de Chile](https://open.spotify.com/artist/0jnjgwYULpi1D4dn6k7RlD) | [Para Mi Gente Campesina](https://open.spotify.com/album/0WR66V5mPl5xkTLBo4LYAE) | 3:12 | 2023-03-03 |  |
 | [Voy a Ser](https://open.spotify.com/track/7pCYJjG0r8reKopUPzy99z) | [Talismanes del Ritmo y del amor](https://open.spotify.com/artist/7FUvwgQOS0JMHnlm08PlQd) | [Voy a Ser](https://open.spotify.com/album/1l8VoUVZi4Zg44PETgtyrD) | 3:57 | 2023-03-03 |  |
 | [Vuelvo a las Cantinas](https://open.spotify.com/track/1annSFnYdlZ0Q0YA6DWrDn) | [Los Flores de Rucalhue](https://open.spotify.com/artist/6IcXD8DoXOqLkvwpOFTFbf) | [EN HONOR A NUESTRO HERMANO](https://open.spotify.com/album/7puJ6lr1r0uSTF606zE0ZY) | 4:18 | 2023-03-03 |  |
-| [Ya No Siento Nada](https://open.spotify.com/track/4p1jnv8tDRg7e3XvQuesbX) | [Peregrinos del Amor](https://open.spotify.com/artist/2XEagtjtmE5UyBph7oonlY) | [Sueño Su Boca](https://open.spotify.com/album/73aIXXhkTKeQ4fz72gVcrr) | 3:37 | 2023-03-03 |  |
+| [Ya No Siento Nada](https://open.spotify.com/track/4p1jnv8tDRg7e3XvQuesbX) | [Peregrinos del Amor](https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM) | [Sueño Su Boca](https://open.spotify.com/album/73aIXXhkTKeQ4fz72gVcrr) | 3:37 | 2023-03-03 |  |
 | [Ya Supérame](https://open.spotify.com/track/4iDTrmoyem5De8YZkTGIag) | [RIVALES DE CHILE](https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g) | [Ella, La Que No Quiso](https://open.spotify.com/album/1aGRZjZVmiEktlVsCx5lJj) | 4:35 | 2023-03-03 |  |
 
 \*This playlist was first scraped on 2023-05-28. Prior content cannot be recovered.

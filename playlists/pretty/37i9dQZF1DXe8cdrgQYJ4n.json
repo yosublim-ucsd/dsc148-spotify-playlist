@@ -1,12 +1,12 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 13708,
+  "num_followers": 13717,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODEzZDMzMDQwODllM2I4Y2Q2MzY3YWYxYWZhZmIxYjg4NTU0ODhi",
+  "snapshot_id": "MCxkNTI4MDYwMjdhN2IyZDViZDM0MWQ0MzNlNmQ1NzQxMjgzMzdiOTA0",
   "tracks": [
     {
       "added_at": "2023-07-17 06:17:40",
@@ -955,6 +955,22 @@
     {
       "added_at": "2023-07-17 06:17:40",
       "album": {
+        "name": "\uc6b0\ub9ac \uac19\uc740 \uc0ac\ub78c\ub4e4 People like us",
+        "url": "https://open.spotify.com/album/2vJ9k7X0Bv1H6WgzSWFdTH"
+      },
+      "artists": [
+        {
+          "name": "Lee go do",
+          "url": "https://open.spotify.com/artist/18r9qka1AKwgqzUzaLdxhm"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "\uc6b0\ub9ac \uac19\uc740 \uc0ac\ub78c\ub4e4 People like us",
+      "url": "https://open.spotify.com/track/7pzn1IRBE4m2Cwod1f2RqI"
+    },
+    {
+      "added_at": "2023-07-17 06:17:40",
+      "album": {
         "name": "future island",
         "url": "https://open.spotify.com/album/04fT73y4aHKXHuFmZN63mN"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 180987,
       "name": "STUPID (feat. 2SO)",
       "url": "https://open.spotify.com/track/2JTOCHcDI9uDS08dIpN1SY"
-    },
-    {
-      "added_at": "2023-07-17 06:17:40",
-      "album": {
-        "name": "\uc6b0\ub9ac \uac19\uc740 \uc0ac\ub78c\ub4e4 People like us",
-        "url": "https://open.spotify.com/album/2vJ9k7X0Bv1H6WgzSWFdTH"
-      },
-      "artists": [
-        {
-          "name": "Lee go do",
-          "url": "https://open.spotify.com/artist/18r9qka1AKwgqzUzaLdxhm"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "\uc6b0\ub9ac \uac19\uc740 \uc0ac\ub78c\ub4e4 People like us",
-      "url": "https://open.spotify.com/track/7pzn1IRBE4m2Cwod1f2RqI"
     },
     {
       "added_at": "2023-07-17 06:17:40",

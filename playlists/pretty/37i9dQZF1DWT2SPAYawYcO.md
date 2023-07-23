@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: NewJeans
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,808 likes - 99 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,816 likes - 99 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 52 | [Everyone Who Falls In Love \(Has Someone Else They’re Thinking Of\)](https://open.spotify.com/track/56arqTWhgLtut9Ii9r3CiL) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Everyone Who Falls In Love \(Has Someone Else They’re Thinking Of\)](https://open.spotify.com/album/5fFkNwu56uYC6CB7Td6Rns) | 2:36 |
 | 53 | [Blame The Moon](https://open.spotify.com/track/3p1kSUxsCux5Zf1CeKxpqh) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Blame The Moon](https://open.spotify.com/album/372YURpTeI9L6fkMNH6Nx2) | 3:43 |
 | 54 | [Be My Summer](https://open.spotify.com/track/18QC5FsQ9FThInUrC6BScS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Be My Summer](https://open.spotify.com/album/1WStqZEbgRsqUNazxV7u9C) | 3:06 |
-| 55 | [Choosing You \(feat\. azuki\)](https://open.spotify.com/track/2SSHPogg6gOiiwUZq4Gs5m) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL), [Azuki](https://open.spotify.com/artist/0GbGRkXNWlDdYRxuRVtztp) | [Can't Commit](https://open.spotify.com/album/6asRCC3guaIZsAmru42abp) | 3:25 |
+| 55 | [Choosing You \(feat\. azuki\)](https://open.spotify.com/track/2SSHPogg6gOiiwUZq4Gs5m) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL), [azuki](https://open.spotify.com/artist/5T2CGAtjVSa7GRgLxAgyCc) | [Can't Commit](https://open.spotify.com/album/6asRCC3guaIZsAmru42abp) | 3:25 |
 | 56 | [Feel It \- Club Edit](https://open.spotify.com/track/71xKlOIhZKO55Rt3zSHzQt) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Feel It \(Club Edit\)](https://open.spotify.com/album/0xa0dJgYKO9keCfgjhuBYH) | 2:04 |
 | 57 | [500lbs](https://open.spotify.com/track/1xWkeSPhf3bZqHY7Ncz8vp) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [500lbs](https://open.spotify.com/album/2Ro9gydgq5JWy7b22zPty9) | 2:24 |
 | 58 | [Higher](https://open.spotify.com/track/2pW8MxDV77hQvyxjL3tgKi) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO), [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W) | [The Remixes](https://open.spotify.com/album/0SI7sJIrvhZtGbUo97t0aX) | 3:36 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 65 | [SCOTTIE PIPPEN](https://open.spotify.com/track/4j2L21ZlaX9rOoogFQqC20) | [Craig Isto](https://open.spotify.com/artist/6VpPEumiAuTa48CV90GzY9), [Baby Prince](https://open.spotify.com/artist/13bLOmOuvVF16DXkFbRC2d) | [SCOTTIE PIPPEN](https://open.spotify.com/album/7J6QW7N1F688TYiKrsHKtD) | 2:46 |
 | 66 | [Talk Slowly](https://open.spotify.com/track/0Fh90imjWJecFLcBNDHWPF) | [Newport](https://open.spotify.com/artist/3BfSHf6fsuUA1KMXLX1Tur) | [Talk Slowly](https://open.spotify.com/album/4ahhbrb63qtRsHGe8oCT0e) | 3:07 |
 | 67 | [skin in the game](https://open.spotify.com/track/3X0KbbFJSUK1hzXggbtreP) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [skin in the game](https://open.spotify.com/album/1EYRoDy36KEklMF2LJRnZb) | 3:52 |
-| 68 | [SHOW YOU](https://open.spotify.com/track/2ArF5GiG2R1wJNjUqc6E8U) | [JARNA](https://open.spotify.com/artist/7dURglfKbeSd5WoF28mdWs) | [SHOW YOU](https://open.spotify.com/album/4sMq7AN0JjbKXNHH8RmsiQ) | 2:59 |
+| 68 | [Show You](https://open.spotify.com/track/2ArF5GiG2R1wJNjUqc6E8U) | [JARNA](https://open.spotify.com/artist/7dURglfKbeSd5WoF28mdWs) | [Show You](https://open.spotify.com/album/4sMq7AN0JjbKXNHH8RmsiQ) | 2:59 |
 | 69 | [Three Minutes More](https://open.spotify.com/track/08CL08RywVhA1HQteJHuT3) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf), [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Three Minutes More](https://open.spotify.com/album/4Ht4iaL8A3DwlmiduQLWNX) | 3:23 |
 | 70 | [Your New Girl](https://open.spotify.com/track/5KPxwy1XLHvLBcc4Rnexyp) | [FELONY.](https://open.spotify.com/artist/1i9pNz3sJuxa6vWz60Dgd4) | [Your New Girl](https://open.spotify.com/album/50BNWynXrXLgeVo52aSTgZ) | 4:33 |
 | 71 | [ALFRESCO.](https://open.spotify.com/track/5XuFBCZaSYRj6X5CS9XwWm) | [Otiuh](https://open.spotify.com/artist/1k65Z6RR7niAIng9OtdlMc), [Shadow](https://open.spotify.com/artist/0X8YsieGthCs1x2oIoDf0X) | [ALFRESCO.](https://open.spotify.com/album/18AvBf8ERnCr04W5EBejrP) | 3:23 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 98 | [If That's What You Want](https://open.spotify.com/track/0L1Tt5ynX4SpezkmZEV1Vg) | [Andy Bull](https://open.spotify.com/artist/5O83Dn8cY3RNwhQKADA175) | [If That's What You Want](https://open.spotify.com/album/5Da9HWWYJV23IroLzcUOre) | 3:40 |
 | 99 | [Girl's feat\. Michael Kime](https://open.spotify.com/track/0csM0X6f3SXTroeTnQvhCx) | [Nice Girl](https://open.spotify.com/artist/2y5CM4wbWQ9R4JTjB860lB), [Michael Kime](https://open.spotify.com/artist/2Rt6j2PIHTzRbtwD2S69F8) | [Girl's feat\. Michael Kime](https://open.spotify.com/album/2IQOiAgFT4wiboIB29DK6U) | 4:32 |
 
-Snapshot ID: `MCw5YmViOWRjNGY5NGJiMzQ0ZTA5YmY0MTNlZWJlYzI1NTk4MGIyNzM2`
+Snapshot ID: `MCxmMjQxNzkyZWM3NTNhMmIyMDM5MTNkNjRkNjA1ZDVmZDEzN2UxNTAx`

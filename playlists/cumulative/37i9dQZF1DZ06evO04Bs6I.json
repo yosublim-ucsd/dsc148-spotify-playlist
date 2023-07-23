@@ -649,6 +649,28 @@
     },
     {
       "album": {
+        "name": "Saudade (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2a2qZ1sGQGjXwf7Net8rEy"
+      },
+      "artists": [
+        {
+          "name": "Thalles Roberto",
+          "url": "https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236470,
+      "name": "Saudade - Ao Vivo",
+      "url": "https://open.spotify.com/track/2hRiEBYbEY7jBAKm7QTkN1"
+    },
+    {
+      "album": {
         "name": "Processo",
         "url": "https://open.spotify.com/album/5gB7Il4JuXjNnmd2rtWslP"
       },

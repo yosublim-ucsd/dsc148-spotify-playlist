@@ -329,6 +329,28 @@
     },
     {
       "album": {
+        "name": "Light Places Remixes",
+        "url": "https://open.spotify.com/album/397G1LdjSwnHKWa6PdkYgS"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "DESIREE",
+          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339166,
+      "name": "All I Need - DESIREE Remix",
+      "url": "https://open.spotify.com/track/6q9RvlTvMSZSQfI6v0dKE4"
+    },
+    {
+      "album": {
         "name": "ALL I REALLY WANT",
         "url": "https://open.spotify.com/album/6ae9qY5R5WqnR5SSZusmaf"
       },
@@ -2552,7 +2574,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-23",
       "duration_ms": 203428,
       "name": "Enjoy The Rain (feat. Nathan Daisy)",
       "url": "https://open.spotify.com/track/7F6vxNOUuo6unbeEmB0BpJ"

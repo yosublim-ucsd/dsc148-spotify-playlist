@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover: Gabi \| Playlista odświeżana w każdą środę.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,754 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,007 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 99 | [Hej](https://open.spotify.com/track/6YCDnGDga5TqUXgfWNMz1u) | [UGORNA](https://open.spotify.com/artist/728KDp7TKI2VD37sg0323p) | [Hej](https://open.spotify.com/album/1Nvz4b09w6jFk0Eeauw67y) | 2:47 |
 | 100 | [monstery](https://open.spotify.com/track/22RszYFlaEOvrI9uOXL92k) | [Lotta](https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs) | [monstery](https://open.spotify.com/album/48ALEr4xePwcDfI6V41uUS) | 1:56 |
 
-Snapshot ID: `MCw2MzliNDIzNDAwMTRkOTMyOGNiOTYzMWZlYmI0ZThmN2M0M2YyZjdk`
+Snapshot ID: `MCw0YWYyMTMxODNkYjdkZjhkNWQ0NDdiNzczMWU4YmExODFjM2YzMTRl`

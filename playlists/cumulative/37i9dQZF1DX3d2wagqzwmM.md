@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: Hardwell
 
-318 songs - 17 hr 8 min
+319 songs - 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,9 +176,10 @@
 | [Metro](https://open.spotify.com/track/6kkf975GwERykpvOTu7IXZ) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Metro](https://open.spotify.com/album/2PjqXRSqBqvHWArQRYCNbS) | 3:59 | 2023-07-20 |  |
 | [MIND CONTROL](https://open.spotify.com/track/1ijNLECKPfBExLWeq9MD74) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [MIND CONTROL](https://open.spotify.com/album/3BiMWVo79A0eBXjU3ftPrT) | 4:08 | 2022-06-30 | 2023-01-03 |
 | [Mind Dimension \- Tiësto Remix](https://open.spotify.com/track/7aEivHwZvqNHoqsXoNKcWL) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Mind Dimension \(Tiësto Remix\)](https://open.spotify.com/album/3CX2LjhZKJ0ERvdKW0t5YV) | 3:40 | 2022-12-27 | 2023-01-03 |
+| [Mirror Mirror](https://open.spotify.com/track/0Q3Pb5gMzpFKjIWs9s0inL) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Mirror Mirror](https://open.spotify.com/album/4H7KW5AaytIv42LdVTzWKw) | 4:07 | 2023-07-20 |  |
 | [Missing You](https://open.spotify.com/track/2y9DDWm7kuxoSk4VPu1Spv) | [Rave Republic](https://open.spotify.com/artist/751qvO4d3fNm3WkLvOS5Wa), [Justin Prime](https://open.spotify.com/artist/0TFdkHvlyUVl9zrb4seHxJ), [EMKR](https://open.spotify.com/artist/16YZPLaST1ER7EtQizXEPA) | [Missing You](https://open.spotify.com/album/7k6GSoJGrGyF5JeksX4Hd7) | 3:04 | 2022-04-14 | 2022-05-04 |
 | [Mockmoon \(Peace, Love, XTC\)](https://open.spotify.com/track/1X4gELOOeBfWVp1dj7ycFO) | [Kai Tracid](https://open.spotify.com/artist/0frSMmZSEdr8pVRi8PBSwF), [Genlog](https://open.spotify.com/artist/3fzP4AxJEAIgQ6QgItTzJ3) | [Mockmoon \(Peace, Love, XTC\)](https://open.spotify.com/album/1PqcQOQlifaSVhPMAN6JsZ) | 6:08 | 2022-12-27 | 2023-01-03 |
-| [MOLLY \(Will Sparks Remix\)](https://open.spotify.com/track/6NHiXIDWuFMYNWza24rk9y) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [MOLLY \(Will Sparks Remix\)](https://open.spotify.com/album/6Vm4caxFmf5yGaFbSpOg2e) | 3:19 | 2023-03-30 |  |
+| [MOLLY \(Will Sparks Remix\)](https://open.spotify.com/track/6NHiXIDWuFMYNWza24rk9y) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [MOLLY \(Will Sparks Remix\)](https://open.spotify.com/album/6Vm4caxFmf5yGaFbSpOg2e) | 3:19 | 2023-03-30 | 2023-07-23 |
 | [Most People \(with Lukas Graham\) \- R3HAB VIP Remix](https://open.spotify.com/track/7quDire3GlKl1xZEJIGmbG) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Most People \(with Lukas Graham\) \[R3HAB VIP Remix\]](https://open.spotify.com/album/4QtwTNggsJrLB21cqccgDf) | 3:09 | 2022-04-14 | 2022-06-24 |
 | [Mother & Father](https://open.spotify.com/track/74XoMDxaS0blbuxeVqdOyl) | [Danny Avila](https://open.spotify.com/artist/5y3G1B8cpCTaoq0uDgjwzH), [Bukhu](https://open.spotify.com/artist/2sjkwoyC79M6I9Fmianr7K) | [Mother & Father](https://open.spotify.com/album/1OhZwd5kaBJ6QREs7ztT5f) | 3:20 | 2022-04-14 | 2022-07-28 |
 | [Motor](https://open.spotify.com/track/59YkyPuZCXyiLmcmSNKRtH) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Motor](https://open.spotify.com/album/0x6mXhYCkb1icLuxTLhAr4) | 3:02 | 2023-07-06 |  |

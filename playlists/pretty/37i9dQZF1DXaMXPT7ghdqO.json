@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OGE2MDhjNDY3MGIxODNjNGFkZTg0NGU4MzA1MTI4M2NjZjA2OGYz",
+  "snapshot_id": "MCw0N2Q5ZjNmNzkxZDA4NzI3Y2QwMTA5ZTQxYzJhNjYwNmE3NDc2MDdi",
   "tracks": [
     {
       "added_at": "2022-12-20 15:48:25",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-12-20 15:48:25",
       "album": {
-        "name": "Here We Go!!",
-        "url": "https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT"
-      },
-      "artists": [
-        {
-          "name": "\u3059\u3068\u3077\u308a",
-          "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
-        }
-      ],
-      "duration_ms": 173120,
-      "name": "\u8ee2\u751f\u3057\u305f\u3089\u738b\u5b50\u69d8\u3060\u3063\u305f\u4ef6!",
-      "url": "https://open.spotify.com/track/27tor6VqWB313GHXqZz8kC"
-    },
-    {
-      "added_at": "2022-12-20 15:48:25",
-      "album": {
         "name": "\u3059\u3068\u308d\u3079\u308a\u30fc\u306d\u304f\u3059\u3068\u3063!",
         "url": "https://open.spotify.com/album/6VnZ4k6Lr9ZySRqcMZ48GJ"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 281920,
       "name": "\u30a2\u30e2\u30fc\u30ec\u30fb\u30df\u30aa",
       "url": "https://open.spotify.com/track/2eKA779bIfY6nzcDfsoyBd"
+    },
+    {
+      "added_at": "2022-12-20 15:48:25",
+      "album": {
+        "name": "Here We Go!!",
+        "url": "https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT"
+      },
+      "artists": [
+        {
+          "name": "\u3059\u3068\u3077\u308a",
+          "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
+        }
+      ],
+      "duration_ms": 173120,
+      "name": "\u8ee2\u751f\u3057\u305f\u3089\u738b\u5b50\u69d8\u3060\u3063\u305f\u4ef6!",
+      "url": "https://open.spotify.com/track/27tor6VqWB313GHXqZz8kC"
     },
     {
       "added_at": "2022-12-20 15:48:25",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-12-20 15:48:25",
       "album": {
-        "name": "Here We Go!!",
-        "url": "https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT"
-      },
-      "artists": [
-        {
-          "name": "\u3059\u3068\u3077\u308a",
-          "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
-        }
-      ],
-      "duration_ms": 194200,
-      "name": "\u30e8\u30a2\u30b1\u30a4\u30ed",
-      "url": "https://open.spotify.com/track/03QMOcvxXRRQuk4glPBBij"
-    },
-    {
-      "added_at": "2022-12-20 15:48:25",
-      "album": {
         "name": "\u82fa\u8272\u590f\u82b1\u706b",
         "url": "https://open.spotify.com/album/4wZ7hVTUwdUtVaIYI9gIW3"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 228400,
       "name": "\u82fa\u8272\u590f\u82b1\u706b",
       "url": "https://open.spotify.com/track/2GI5FvnyRNTjqUE1y1YrRA"
+    },
+    {
+      "added_at": "2022-12-20 15:48:25",
+      "album": {
+        "name": "Here We Go!!",
+        "url": "https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT"
+      },
+      "artists": [
+        {
+          "name": "\u3059\u3068\u3077\u308a",
+          "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
+        }
+      ],
+      "duration_ms": 194200,
+      "name": "\u30e8\u30a2\u30b1\u30a4\u30ed",
+      "url": "https://open.spotify.com/track/03QMOcvxXRRQuk4glPBBij"
     },
     {
       "added_at": "2022-12-20 15:48:25",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-12-20 15:48:25",
       "album": {
-        "name": "Here We Go!!",
-        "url": "https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT"
-      },
-      "artists": [
-        {
-          "name": "\u3059\u3068\u3077\u308a",
-          "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
-        }
-      ],
-      "duration_ms": 146760,
-      "name": "\u306a\u3044\u3057\u3087\u306e\u30d7\u30ec\u30bc\u30f3\u30c8\u30d5\u30a9\u30fc\u30e6\u30fc!",
-      "url": "https://open.spotify.com/track/0y67B3CnfhwtaaqoqxpGBX"
-    },
-    {
-      "added_at": "2022-12-20 15:48:25",
-      "album": {
         "name": "\u3059\u3068\u308d\u3079\u308a\u30fc\u3059\u305f\u30fc\u3068",
         "url": "https://open.spotify.com/album/2SMrkC9bhd3o19ULQcTvGA"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 260013,
       "name": "AquaKiss",
       "url": "https://open.spotify.com/track/32yFiu9Rx5LmibnyUjq8di"
+    },
+    {
+      "added_at": "2022-12-20 15:48:25",
+      "album": {
+        "name": "Here We Go!!",
+        "url": "https://open.spotify.com/album/6Nbq2Qh6rbWgtZz7ECEkQT"
+      },
+      "artists": [
+        {
+          "name": "\u3059\u3068\u3077\u308a",
+          "url": "https://open.spotify.com/artist/2i0kSiF991uhqOBfdKfB24"
+        }
+      ],
+      "duration_ms": 146760,
+      "name": "\u306a\u3044\u3057\u3087\u306e\u30d7\u30ec\u30bc\u30f3\u30c8\u30d5\u30a9\u30fc\u30e6\u30fc!",
+      "url": "https://open.spotify.com/track/0y67B3CnfhwtaaqoqxpGBX"
     },
     {
       "added_at": "2022-12-20 15:48:25",

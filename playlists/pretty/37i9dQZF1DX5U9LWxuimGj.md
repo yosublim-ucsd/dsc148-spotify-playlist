@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 
 > Country music with a Latin flair\. Cover: Carin Leon
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,693 likes - 105 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,724 likes - 105 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 | 68 | [Nada es Mejor \(Nothing's Better \- Spanish Version\)](https://open.spotify.com/track/2qx6CtuCTZtZiUZbk5B8F9) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Nada es Mejor \(Nothing's Better \- Spanish Version\)](https://open.spotify.com/album/4E1SCECKwmYJp3to4EMCzl) | 3:12 |
 | 69 | [Hoodie \(feat\. Ollie Joseph\) \- Spanglish](https://open.spotify.com/track/5Yw4ZbzNPr7WINRb9HQvFD) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3), [Ollie Joseph](https://open.spotify.com/artist/6BZKGQf9EnToQ6F7KdMd1m) | [Hoodie \(Spanglish\)](https://open.spotify.com/album/7IkJnMk5dyQ36OAaogWf0F) | 3:03 |
 | 70 | [Down The Road](https://open.spotify.com/track/2omj4J6W4cL2cOU4Tjz0Sr) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q), [The Buckleys](https://open.spotify.com/artist/5MgruQdD3UhVfysDjMqG7p) | [Vulnerable](https://open.spotify.com/album/5S5dZ1YxS2JLDHDxjH3ZVD) | 2:59 |
-| 71 | [Girls Like Me](https://open.spotify.com/track/7sHT4a3rSs8IXdo7RZjzC6) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [Girls Like Me](https://open.spotify.com/album/2LFWLNbRoaoOkvj98gudSv) | 2:51 |
+| 71 | [Girls Like Me](https://open.spotify.com/track/5SD4XZ2UEuynMl0F0Nml1y) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [The Hard Way](https://open.spotify.com/album/4fo3Nvdjbwjz4Qc9dfMemp) | 2:51 |
 | 72 | [Jolene](https://open.spotify.com/track/1DrCBBXN9gEiMU8ME7Vhpt) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Playlist](https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x) | 3:23 |
 | 73 | [Botas Viejas](https://open.spotify.com/track/37zaEv7xyMujZ8pPLwJ0YS) | [Forasteros Country Band](https://open.spotify.com/artist/5e8fguiEHhhAF6Z5b7bSg0) | [Perder o Ganar](https://open.spotify.com/album/6nhXLyWpfRblMBerEkXitK) | 2:51 |
 | 74 | [Pienso en Ti](https://open.spotify.com/track/6187nmNResODDMkb2WNgES) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Caminando](https://open.spotify.com/album/7gKR2yAqsDQoeCRGKKrLQl) | 3:03 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U9LWxuimGj.md) - [plain]
 | 104 | [Cuando Vuelvas](https://open.spotify.com/track/52s1L7krzR2JL4L1Vi7V3X) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Cuando Vuelvas](https://open.spotify.com/album/3CR8IuxBLpzBR1vjS9ONkJ) | 3:13 |
 | 105 | [Tonto](https://open.spotify.com/track/33wYgNxWB4MXTiv6L36SoO) | [Stefano Manrique](https://open.spotify.com/artist/5QmOgnigMzwCp9MXowvpFP) | [Country Pop Latino](https://open.spotify.com/album/2UXkZRTHGwRSVKSwbdtwqm) | 3:00 |
 
-Snapshot ID: `MCxlODA2OWJkZjNhN2QyYWFlMDMzNjY3NGM3ZjRjMGM4MmI3MTEzYjA1`
+Snapshot ID: `MCw3M2E0OGNkZjNlZDJkMDg3MjQxNTBhMjFlY2NkZjFiM2VjNjUxMWEx`

@@ -1,12 +1,12 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 26465,
+  "num_followers": 26485,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYWI3ZmFlMjVmNzBiNmFmMjAyNDVhNmI2ZDFmNmY4NzkwZTI1NzBl",
+  "snapshot_id": "MCw2MmU2ZDQ2OWZmNjAxNTA3ZWUxNjRmOGJjYTViNDk3ODZkMGNkZWJh",
   "tracks": [
     {
       "added_at": "2022-05-13 10:49:08",
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3"
         }
       ],
-      "duration_ms": 322426,
-      "name": "Somebody To Shack",
-      "url": "https://open.spotify.com/track/3UpZ22PXoxj2nRzIOXbuFN"
+      "duration_ms": 246266,
+      "name": "If I Hadn't Been High",
+      "url": "https://open.spotify.com/track/4AngKkvtjelyQfgBiO9hUt"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3"
         }
       ],
-      "duration_ms": 246266,
-      "name": "If I Hadn't Been High",
-      "url": "https://open.spotify.com/track/4AngKkvtjelyQfgBiO9hUt"
+      "duration_ms": 322426,
+      "name": "Somebody To Shack",
+      "url": "https://open.spotify.com/track/3UpZ22PXoxj2nRzIOXbuFN"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -907,6 +907,22 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
+        "name": "From North Dallas to the East Side",
+        "url": "https://open.spotify.com/album/0y2COhaSasf9M8hQ0JwKb9"
+      },
+      "artists": [
+        {
+          "name": "Alex Moore",
+          "url": "https://open.spotify.com/artist/7xy38VWf17uAjb1ZOSJGq1"
+        }
+      ],
+      "duration_ms": 187160,
+      "name": "Whistling Alex Moore's Blues",
+      "url": "https://open.spotify.com/track/3HMJk1q9EfFSvvDPxqhAte"
+    },
+    {
+      "added_at": "2022-05-13 10:49:08",
+      "album": {
         "name": "Journeys To The Heart Of The Blues",
         "url": "https://open.spotify.com/album/04IPqjyafoLonfN3LDkb8z"
       },
@@ -931,18 +947,18 @@
     {
       "added_at": "2022-05-13 10:49:08",
       "album": {
-        "name": "From North Dallas to the East Side",
-        "url": "https://open.spotify.com/album/0y2COhaSasf9M8hQ0JwKb9"
+        "name": "The Blues Singer",
+        "url": "https://open.spotify.com/album/1Hp4jDVJ563PF0IzvNCwzK"
       },
       "artists": [
         {
-          "name": "Alex Moore",
-          "url": "https://open.spotify.com/artist/7xy38VWf17uAjb1ZOSJGq1"
+          "name": "Detroit Junior",
+          "url": "https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3"
         }
       ],
-      "duration_ms": 187160,
-      "name": "Whistling Alex Moore's Blues",
-      "url": "https://open.spotify.com/track/3HMJk1q9EfFSvvDPxqhAte"
+      "duration_ms": 185933,
+      "name": "Some Nerve",
+      "url": "https://open.spotify.com/track/5YzJIzdXHA9c4ShXeMG62i"
     },
     {
       "added_at": "2022-05-13 10:49:08",
@@ -959,22 +975,6 @@
       "duration_ms": 240560,
       "name": "Boot That Thing",
       "url": "https://open.spotify.com/track/5rwqwMmEWAqwRTDyUKba0u"
-    },
-    {
-      "added_at": "2022-05-13 10:49:08",
-      "album": {
-        "name": "The Blues Singer",
-        "url": "https://open.spotify.com/album/1Hp4jDVJ563PF0IzvNCwzK"
-      },
-      "artists": [
-        {
-          "name": "Detroit Junior",
-          "url": "https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3"
-        }
-      ],
-      "duration_ms": 185933,
-      "name": "Some Nerve",
-      "url": "https://open.spotify.com/track/5YzJIzdXHA9c4ShXeMG62i"
     },
     {
       "added_at": "2022-05-13 10:49:08",

@@ -1,12 +1,12 @@
 {
   "description": "Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.",
-  "num_followers": 1783489,
+  "num_followers": 1783626,
   "original_name": "Acoustic Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjN2YxZTc0MWQ0ZTk2N2MwZTdjMmMyZTk5YzEzNDhiNWM1M2NlNzdj",
+  "snapshot_id": "MCxhY2NjZDhkYTE3NmRkZDNjYmYzM2NmZDMxYTM3MmRlYmQ4MWZjNGU5",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "This Empty Northern Hemisphere",
-        "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
-      },
-      "artists": [
-        {
-          "name": "Gregory Alan Isakov",
-          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
-        }
-      ],
-      "duration_ms": 184906,
-      "name": "Dandelion Wine",
-      "url": "https://open.spotify.com/track/5AeoHJUx0PJXAzN425xryh"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Evermore",
         "url": "https://open.spotify.com/album/2Dr7n8XvcU65WuYaFZ9mmy"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 223846,
       "name": "Evermore",
       "url": "https://open.spotify.com/track/7LdUTzOChvJJbJPZNhJj5X"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "This Empty Northern Hemisphere",
+        "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
+      },
+      "artists": [
+        {
+          "name": "Gregory Alan Isakov",
+          "url": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+        }
+      ],
+      "duration_ms": 184906,
+      "name": "Dandelion Wine",
+      "url": "https://open.spotify.com/track/5AeoHJUx0PJXAzN425xryh"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Young",
-        "url": "https://open.spotify.com/album/1l7efW8h9JlIqxC7BNqgYF"
-      },
-      "artists": [
-        {
-          "name": "The National Parks",
-          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
-        }
-      ],
-      "duration_ms": 188493,
-      "name": "Wind & Anchor",
-      "url": "https://open.spotify.com/track/5FGJDxlf3t34Qfb3l9oliE"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/2pnxUdbJT2pwi44f54iCbE"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 182293,
       "name": "The One You Love",
       "url": "https://open.spotify.com/track/6EfXf9OhZ64J6D3ssVCTon"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Young",
+        "url": "https://open.spotify.com/album/1l7efW8h9JlIqxC7BNqgYF"
+      },
+      "artists": [
+        {
+          "name": "The National Parks",
+          "url": "https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6"
+        }
+      ],
+      "duration_ms": 188493,
+      "name": "Wind & Anchor",
+      "url": "https://open.spotify.com/track/5FGJDxlf3t34Qfb3l9oliE"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Beulah",
-        "url": "https://open.spotify.com/album/21hpzo9hs56n3Rh8KvslmI"
-      },
-      "artists": [
-        {
-          "name": "John Paul White",
-          "url": "https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb"
-        }
-      ],
-      "duration_ms": 243012,
-      "name": "Hate The Way You Love Me",
-      "url": "https://open.spotify.com/track/2ICMOgpboUzD1EcxkUS9qz"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "My Lover",
         "url": "https://open.spotify.com/album/1XNcrrRz2cCXzYXLfuK3TQ"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 269595,
       "name": "My Lover",
       "url": "https://open.spotify.com/track/3PgZ3mM7KT9YubwfrYqb7H"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Beulah",
+        "url": "https://open.spotify.com/album/21hpzo9hs56n3Rh8KvslmI"
+      },
+      "artists": [
+        {
+          "name": "John Paul White",
+          "url": "https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb"
+        }
+      ],
+      "duration_ms": 243012,
+      "name": "Hate The Way You Love Me",
+      "url": "https://open.spotify.com/track/2ICMOgpboUzD1EcxkUS9qz"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Highway Woman",
+        "url": "https://open.spotify.com/album/6nqOmZZeSp7hLaM3RT1uuI"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "duration_ms": 228093,
+      "name": "Highway Woman",
+      "url": "https://open.spotify.com/track/1JJUMgzCxkBeF8kaS2FR5v"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Babel (Deluxe Version)",
         "url": "https://open.spotify.com/album/3FfuUD3Je9t9tQq80Zq41y"
       },
@@ -1551,22 +1567,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "The Closest Thing to Home",
-        "url": "https://open.spotify.com/album/5n8ppNRmmYvkFGnQZPHdNc"
-      },
-      "artists": [
-        {
-          "name": "Ira Wolf",
-          "url": "https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s"
-        }
-      ],
-      "duration_ms": 241240,
-      "name": "Great Divide",
-      "url": "https://open.spotify.com/track/5zuelgle0Aqxyc9EooIPVl"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Venus (Acoustic)",
         "url": "https://open.spotify.com/album/2Qet80S6mts6V5dWy4y1sj"
       },
@@ -1579,6 +1579,22 @@
       "duration_ms": 175120,
       "name": "Sweet Love of Mine (Acoustic)",
       "url": "https://open.spotify.com/track/1d4QAtlNQCnMARsacnkoyC"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "The Closest Thing to Home",
+        "url": "https://open.spotify.com/album/5n8ppNRmmYvkFGnQZPHdNc"
+      },
+      "artists": [
+        {
+          "name": "Ira Wolf",
+          "url": "https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s"
+        }
+      ],
+      "duration_ms": 241240,
+      "name": "Great Divide",
+      "url": "https://open.spotify.com/track/5zuelgle0Aqxyc9EooIPVl"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1627,22 +1643,6 @@
       "duration_ms": 307312,
       "name": "Golden (Acoustic)",
       "url": "https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Dead Leaves",
-        "url": "https://open.spotify.com/album/0o2IV3vdXZPKlra69nlZNZ"
-      },
-      "artists": [
-        {
-          "name": "Luis Trindade",
-          "url": "https://open.spotify.com/artist/2g84j7g5nypsaX8wm1BgMk"
-        }
-      ],
-      "duration_ms": 187036,
-      "name": "Old Town",
-      "url": "https://open.spotify.com/track/62wUcF268nKH9HcMaY247d"
     }
   ],
   "unique_name": "Acoustic Love",

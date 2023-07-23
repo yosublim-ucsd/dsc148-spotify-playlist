@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX, con Ghetto Kids, El Malilla y EMJAY ",
-  "num_followers": 58954,
+  "num_followers": 58999,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGRhOTNlMjI4NGE5YzkwYjgzNjUyNjZlNDFiNGNmN2I4YTJhZDA1",
+  "snapshot_id": "MCwxZTk2YjFhY2Q4ZDExNzUxMWM4MTAwYWQ0ODc1MGY2YWIyMmUyNzMw",
   "tracks": [
     {
       "added_at": "2023-07-21 06:00:00",
@@ -247,6 +247,26 @@
       "duration_ms": 246606,
       "name": "Gasto en P",
       "url": "https://open.spotify.com/track/7dQjsvoWrFKwwsk5GpGuA5"
+    },
+    {
+      "added_at": "2023-07-21 06:00:00",
+      "album": {
+        "name": "ITALIKA",
+        "url": "https://open.spotify.com/album/3OFrKsiz3CiqpEZl12N08N"
+      },
+      "artists": [
+        {
+          "name": "Litxs",
+          "url": "https://open.spotify.com/artist/6cbxrojNkxvEOoTMK9g7qd"
+        },
+        {
+          "name": "Acidd",
+          "url": "https://open.spotify.com/artist/6piSWMrSoFP2Y2CuDSwWF9"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "ITALIKA",
+      "url": "https://open.spotify.com/track/1ztdURev2Ht99rBvrXBjuk"
     },
     {
       "added_at": "2023-07-21 06:00:00",

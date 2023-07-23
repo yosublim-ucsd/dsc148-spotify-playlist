@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Ice Spice ...like?
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,566 likes - 49 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,590 likes - 49 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 20 | [Drug Trade \(feat\. Black Thought\)](https://open.spotify.com/track/6hqazBd1QKThu6THWQrrsA) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [Drug Trade \(feat\. Black Thought\)](https://open.spotify.com/album/6SkiUm0RUqcxSNltLkk8AY) | 4:32 |
 | 21 | [Dangerous](https://open.spotify.com/track/45SON3lVRz2QMyRXOqIN8v) | [Burgettii](https://open.spotify.com/artist/5akLE4T9GWOcySnGtZdBC3), [Rocky Luciano](https://open.spotify.com/artist/3oYcWFrEQYCPu4xB53k8MW), [CORBAL](https://open.spotify.com/artist/2jjSx5EpZwv9iBAgFkGWPh) | [Dangerous](https://open.spotify.com/album/2Sl0XaBXOfw6xGivwcwoba) | 2:54 |
 | 22 | [CMFTZN](https://open.spotify.com/track/3LywxgRZlOOLF6mTAjSQyG) | [JUGGER](https://open.spotify.com/artist/1j3LdvJRNNsZCMcsBrC8mX) | [CMFTZN](https://open.spotify.com/album/0M7vliDuAoYz7yQkb0zIiE) | 2:42 |
-| 23 | [haunted](https://open.spotify.com/track/7tD2Uvsi2rWlaKfnzpIrpS) | [st4r](https://open.spotify.com/artist/6o9JSxpjLpB79jMeynTN8o), [Dom Vallie](https://open.spotify.com/artist/40jUZa9MeFVuqypI1o1yjh) | [haunted](https://open.spotify.com/album/23CcQZNHWmvlkkF9IDhqjO) | 3:11 |
+| 23 | [haunted](https://open.spotify.com/track/7tD2Uvsi2rWlaKfnzpIrpS) | [st4r](https://open.spotify.com/artist/6o9JSxpjLpB79jMeynTN8o), [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [haunted](https://open.spotify.com/album/23CcQZNHWmvlkkF9IDhqjO) | 3:11 |
 | 24 | [Imposter Syndrome](https://open.spotify.com/track/3MpA8QeT11P2e6aklQbtou) | [Akintoye](https://open.spotify.com/artist/1EgCxqT8GgE5oXX3PkeGhq) | [Imposter Syndrome](https://open.spotify.com/album/5uilQFYc81tbH2xzbzuo4d) | 2:48 |
 | 25 | [WDYM](https://open.spotify.com/track/5yUBDuIUCq1goFwlFLYqNG) | [SwitchOTR](https://open.spotify.com/artist/6Xz6ZnGZZ1KKct4jTyKKZv) | [WDYM](https://open.spotify.com/album/2HVIZGP4NsRUIH08JwVoon) | 2:01 |
 | 26 | [Sunshine](https://open.spotify.com/track/4cBrNBNJvLsW5xT4nEHacz) | [JAY1](https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi), [Hutch](https://open.spotify.com/artist/7yB77pU90Zr1My4TBU4g2Z) | [Sunshine](https://open.spotify.com/album/4HVIhSLVZl7cUHKIoYQFY3) | 2:35 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 48 | [Wrong Time](https://open.spotify.com/track/2f2kSJWmm90VJjdjjeRhwM) | [Will Ryte](https://open.spotify.com/artist/5kyrkoHcYHl2Hf74KB4fVw) | [Wrong Time](https://open.spotify.com/album/2lAdM6wIy4HU1csoTZyLyH) | 2:00 |
 | 49 | [Ouroboros](https://open.spotify.com/track/4YU1SZ0QMIzdoKCPdjWEt7) | [Isaac Zale](https://open.spotify.com/artist/6RPLfI95V4juSTtpBumiWk) | [Ouroboros](https://open.spotify.com/album/5C5bkukBuGHZFAh2JYmXAy) | 2:36 |
 
-Snapshot ID: `MCwyMTNlYjBjNmYzY2M4NWExN2I5NTg2YWY5MWU4YTczMzFmZTQwODY0`
+Snapshot ID: `MCw3YmYyZGU5YTY1ZjMwNzFkNzZjODVjNDcwYTYwZmE3NzYyOWRjMmYw`

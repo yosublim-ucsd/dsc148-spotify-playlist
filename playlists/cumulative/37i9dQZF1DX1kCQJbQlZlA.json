@@ -135,6 +135,28 @@
     },
     {
       "album": {
+        "name": "Cau Tr\u1ea7u \u0110\u01b0a L\u1ed1i",
+        "url": "https://open.spotify.com/album/1IttSUasHNWMj78vrBE8yL"
+      },
+      "artists": [
+        {
+          "name": "Kh\u01b0u Huy V\u0169",
+          "url": "https://open.spotify.com/artist/4TIkbzRb0DgLNgvYFndhyP"
+        },
+        {
+          "name": "V\u00f5 L\u00ea Mi",
+          "url": "https://open.spotify.com/artist/1nrrnXuQWnuPEp6dHLXmgl"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189897,
+      "name": "Cau Tr\u1ea7u \u0110\u01b0a L\u1ed1i",
+      "url": "https://open.spotify.com/track/3sFETpYTA3yFROBSzDvSLq"
+    },
+    {
+      "album": {
         "name": "Y\u00eau nhau gh\u00e9t nhau 1",
         "url": "https://open.spotify.com/album/4z6v1PQ0jpIWQqprhroBYN"
       },

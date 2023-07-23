@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,781 likes - 104 songs - 7 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,785 likes - 104 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 | 30 | [SOUTHPAW](https://open.spotify.com/track/6B0ufMIM7BXqleQk7pB3DV) | [MEG](https://open.spotify.com/artist/625iOFWwsLZyMXt7mx5L2X) | [WEAR I AM](https://open.spotify.com/album/6EBuvTf7SZKFBFwvjXDxMz) | 5:15 |
 | 31 | [PizzzzzzzA!!!!!!!](https://open.spotify.com/track/7F77MUUU6ZktlkcpYYDWg6) | [Aya Hirano](https://open.spotify.com/artist/3i2cfgYBlN8krGOtCqEYHj) | [FRAGMENTS](https://open.spotify.com/album/2V6BmKPiNL4nBHpJXzydJw) | 3:47 |
 | 32 | [It's Show Time!!](https://open.spotify.com/track/4n7Mb9iYt9SupLc4Wai39M) | [福原 遥](https://open.spotify.com/artist/1Iemsg3wz7BPY2ZEQ9lKRc), [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [It's Show Time!!](https://open.spotify.com/album/5WjWjow9jIxIQR3XGNgOrJ) | 4:36 |
-| 33 | [君のまんまが いいんだよ](https://open.spotify.com/track/5d5s3Okph2OF8WKoRtOUiU) | [Shoko Nakagawa](https://open.spotify.com/artist/046RRGSoYRQ7qIKliJJSNS) | [君のまんまが いいんだよ](https://open.spotify.com/album/3e3VcmGYsOD3PNrpHAWvhm) | 4:32 |
+| 33 | [君のまんまが　いいんだよ](https://open.spotify.com/track/5d5s3Okph2OF8WKoRtOUiU) | [Shoko Nakagawa](https://open.spotify.com/artist/046RRGSoYRQ7qIKliJJSNS) | [君のまんまが　いいんだよ](https://open.spotify.com/album/3e3VcmGYsOD3PNrpHAWvhm) | 4:32 |
 | 34 | [SING!!!!!](https://open.spotify.com/track/3a7f747Xv3UGGvRbhKKvpv) | [The Gospellers](https://open.spotify.com/artist/4MRHdjH8xf7OH0utAw4air) | [G20](https://open.spotify.com/album/6YcYx94kcYhcXuumKVrwhU) | 4:13 |
 | 35 | [22世紀への架け橋](https://open.spotify.com/track/7plfrGpD3sEegeTV2WATwG) | [Tetsuya Komuro](https://open.spotify.com/artist/0YXSqOpIseLknz8JjcX0UH), [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [Tetsuya Komuro JOBS\#1](https://open.spotify.com/album/24QyMQhx1lxkYfvFG9xsmg) | 4:36 |
 | 36 | [はすっぱ](https://open.spotify.com/track/7cX1R3VUSnX2rPIBNSY2kb) | [Kishidan](https://open.spotify.com/artist/58WqD0AmJH03qw4AUN00Yx) | [万謡集](https://open.spotify.com/album/2iFMzTeny0SdTHzj0oJKD6) | 4:58 |
@@ -113,4 +113,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 | 103 | [おやつ いいやつ すごいやつ](https://open.spotify.com/track/5JhwM9KWxA3Q1yP8XrQAMZ) | [グミベアとガチャピン・ムック](https://open.spotify.com/artist/16R1lT06rzVT5GyUTLpG4m) | [おやつ いいやつ すごいやつ](https://open.spotify.com/album/4qa1WJzAfElFg5Uhnsx1xg) | 3:34 |
 | 104 | [ムーンライト伝説 \- Short ver.](https://open.spotify.com/track/08PIISUEfJHCmySMleOMmG) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2), [Five Eighth Guardians](https://open.spotify.com/artist/5D299xgUtdFOMXsEPk5hLU) | ["Pretty Guardian Sailor Moon" The Super Live Original Soundtrack \[Instrumental\]](https://open.spotify.com/album/3Q9vNfIcxtolwZjtQaUciY) | 1:35 |
 
-Snapshot ID: `MCxmYWJiYTJjYjFhZWViMjFmOTM2NjEyNTg0YmUxZmE0OTgxNmZjYzNi`
+Snapshot ID: `MCxmNGNhMjA0MjdlNzYwMDM0ODMxNzEyMzQ3MTdkYTUzMDZlZDczYmVk`

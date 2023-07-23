@@ -4,7 +4,7 @@
 
 > Revive lo mejor del trap latino del año.<br/>Foto: Jhay Cortez, Anuel AA & J Balvin.
 
-72 songs - 4 hr 26 min
+73 songs - 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Como Me Ven](https://open.spotify.com/track/7j13aYb9i5749QxSI8Yhfv) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [LVV the Real Rondon](https://open.spotify.com/album/790bSD1HVSOob9fVklUzQR) | 2:47 | 2020-12-01 |  |
 | [Coroné](https://open.spotify.com/track/0SepUdFlQjKMBB3LETGaeK) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [ANHMATSV](https://open.spotify.com/album/5cpUiATf6r2KWEBb9aGPqz) | 3:07 | 2020-12-01 |  |
 | [Coroné](https://open.spotify.com/track/6KHtkTlIFgN8ZISoX8X9sN) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Coroné](https://open.spotify.com/album/5IHsWTk87UdGdSb9TJca4v) | 3:07 | 2020-12-01 | 2022-07-29 |
-| [Creo Que \(feat\. Asan\)](https://open.spotify.com/track/4ysuHVUGF4kMlpn3naUuXT) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN) | [Trapicheo \(Mixtape\)](https://open.spotify.com/album/3SKOwn9ASrBi8kdvcnKE5H) | 3:42 | 2020-12-01 |  |
+| [Creo Que \(feat\. Asan\)](https://open.spotify.com/track/48CHmh2VroEEF6knqEmYX8) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN) | [Trapicheo \(Mixtape\)](https://open.spotify.com/album/2ItWF0mUyOYDDPYkTgpiVz) | 3:42 | 2020-12-01 |  |
+| [Creo Que \(feat\. Asan\)](https://open.spotify.com/track/4ysuHVUGF4kMlpn3naUuXT) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Asan](https://open.spotify.com/artist/6Nl4VXcX86fBMO4YE6oYfN) | [Trapicheo \(Mixtape\)](https://open.spotify.com/album/3SKOwn9ASrBi8kdvcnKE5H) | 3:42 | 2020-12-01 | 2023-07-23 |
 | [Criminal](https://open.spotify.com/track/0eo85yo2kaUvjBHOa4iQX6) | [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [Criminal](https://open.spotify.com/album/1Zo9QC0RI2OqsdEX5IFHmG) | 3:40 | 2020-12-01 |  |
 | [Cállese](https://open.spotify.com/track/360mOrU0yolwXKY8z2uEaE) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [OPYI](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl), [Jay Romero](https://open.spotify.com/artist/4VECwDIJ0DYczPqCyP85kQ), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Mixtape Rich Vagos](https://open.spotify.com/album/6Md2vrD9ioekgr6GmzF5ce) | 4:57 | 2020-12-01 |  |
 | [Dime Pa Que](https://open.spotify.com/track/3qRv6M9TyPVTeeTSjXBj9C) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Trap Tumbado](https://open.spotify.com/album/6xO4H08B7Ps67z9wuPExZb) | 2:38 | 2020-12-01 |  |

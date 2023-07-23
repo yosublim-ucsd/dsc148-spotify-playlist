@@ -4,7 +4,7 @@
 
 > Discover indie covers\. Cover: Lovejoy
 
-406 songs - 1 day 0 hr 53 min
+407 songs - 1 day 0 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [Friday I’m In Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/07vS8obfeZbr8H4MgQfXR7) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/1y2zWE0vkqUSXZ92lFAO2P) | 3:40 | 2021-03-12 | 2022-07-29 |
 | [Friday I’m In Love \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6vC7mF2CXYW6MVF2voO4FU) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm) | 3:40 | 2021-03-12 |  |
 | [Genesis](https://open.spotify.com/track/2whpmafYrsKIIeqwdSCjj1) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [Genesis](https://open.spotify.com/album/2okSmN83SWjZXl1Fgqwt4S) | 4:29 | 2021-03-19 | 2022-06-01 |
+| [Gente Corriente](https://open.spotify.com/track/14nR4STG0GeaCLYtlJXjHI) | [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Gente Corriente](https://open.spotify.com/album/5AnfMJ8UaWOcDm995FN4SZ) | 3:31 | 2023-07-20 |  |
 | [ghost town \(voice memo\)](https://open.spotify.com/track/0PKAijroHpnEtdY20bkGdr) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y) | [ghost town \(voice memo\)](https://open.spotify.com/album/6W4tUP2tcem0izGTVzxx5g) | 2:17 | 2022-01-20 |  |
 | [Girls Just Want to Have Fun](https://open.spotify.com/track/4PVvih9vJedYSZq5Msc6Lh) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Jupiter](https://open.spotify.com/album/7zJwGjwS47fP6PipDu9RWA) | 3:07 | 2021-03-12 | 2022-04-15 |
 | [Gloria](https://open.spotify.com/track/1pW5qCqDVDtCtDVYDPev1c) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Gloria](https://open.spotify.com/album/22pfkoRaSV0uZ9E9WOF42h) | 4:37 | 2021-07-21 | 2022-07-26 |
@@ -369,7 +370,7 @@
 | [Unchained Melody](https://open.spotify.com/track/2eH4LAMhD20bl8tQseKckb) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Unchained Melody](https://open.spotify.com/album/7BKTOFQtwCo78sCpM7woOG) | 2:36 | 2021-03-12 | 2022-08-10 |
 | [Under Control](https://open.spotify.com/track/3FEgvVQvTqiREuHFVuyp58) | [Rostam](https://open.spotify.com/artist/04XggbrM51GcFPTxBYtRXT) | [Under Control](https://open.spotify.com/album/0If44PoYp8HT13HORU0jqM) | 3:17 | 2021-03-12 | 2022-07-28 |
 | [Under Control \(Strokes Cover\)](https://open.spotify.com/track/54fnGU9oxD4sjJUBelvf9G) | [Aaron Taos](https://open.spotify.com/artist/3AcBSoCVhxILXJnfLcJb66), [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [Under Control \(Strokes Cover\)](https://open.spotify.com/album/0jq39NsPsDRs7ebeVMFrqp) | 3:27 | 2023-06-16 | 2023-07-21 |
-| [Under The Milky Way](https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Under The Milky Way](https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS) | 4:20 | 2023-04-11 |  |
+| [Under The Milky Way](https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Under The Milky Way](https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS) | 4:20 | 2023-04-11 | 2023-07-23 |
 | [ur beautiful](https://open.spotify.com/track/7sYqPc5RX952FbquTeNZ9q) | [omgkirby](https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1) | [ur beautiful](https://open.spotify.com/album/5qtkHXFm4g5i1KlXo2ArLN) | 1:33 | 2021-07-21 | 2022-04-16 |
 | [Video Games](https://open.spotify.com/track/2KzIu1XsqTPBppYYVAJC4i) | [Turin Brakes](https://open.spotify.com/artist/1zrBQvkTNhFFby4V5UiK2L) | [Video Games](https://open.spotify.com/album/5DhsyilbRneJfspCcVu5Yx) | 3:36 | 2021-03-12 | 2022-06-25 |
 | [Viva La Vida](https://open.spotify.com/track/7cNNiZYPFtWyojppe2MK8J) | [Katie Herzig](https://open.spotify.com/artist/5jbP6txZCMe5l7QLZ1pmJ3) | [Viva La Vida](https://open.spotify.com/album/24a1xuBGgOqj62qlBR1eZR) | 3:13 | 2021-03-12 | 2022-04-21 |

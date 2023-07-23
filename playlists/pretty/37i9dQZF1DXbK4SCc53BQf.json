@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 87067,
+  "num_followers": 87107,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNjZiODJmNjY1NjVkZWQ3MGQ2YjM2YWI4NDA0ZDM2NDEzYmY1MzEz",
+  "snapshot_id": "MCwyZTBjN2FhNWJjMWZiNzc2OGRmN2I5MWFmYmQzN2E5YWFhNjQ4OTdh",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:55",
@@ -675,6 +675,26 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Ancla",
+        "url": "https://open.spotify.com/album/3Hfdb0KVrFw3gix8Xc0t38"
+      },
+      "artists": [
+        {
+          "name": "Daniela Galeano",
+          "url": "https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be"
+        },
+        {
+          "name": "Daniela Ara\u00fajo",
+          "url": "https://open.spotify.com/artist/7k1mBV7McqMl1WEyuC1M4m"
+        }
+      ],
+      "duration_ms": 207333,
+      "name": "Ancla",
+      "url": "https://open.spotify.com/track/4vWqtYT69Ivi5dXOisjL62"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Tu Amor",
         "url": "https://open.spotify.com/album/1TbMgpLI7P6CCq1mqVff90"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 192402,
       "name": "Tu Amor",
       "url": "https://open.spotify.com/track/61No7p1QjC00WCWM6wP88E"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Ancla",
-        "url": "https://open.spotify.com/album/3Hfdb0KVrFw3gix8Xc0t38"
-      },
-      "artists": [
-        {
-          "name": "Daniela Galeano",
-          "url": "https://open.spotify.com/artist/5iBuQW2ANJlj4eqhEv43Be"
-        },
-        {
-          "name": "Daniela Ara\u00fajo",
-          "url": "https://open.spotify.com/artist/7k1mBV7McqMl1WEyuC1M4m"
-        }
-      ],
-      "duration_ms": 207333,
-      "name": "Ancla",
-      "url": "https://open.spotify.com/track/4vWqtYT69Ivi5dXOisjL62"
     },
     {
       "added_at": "2020-11-24 13:23:55",

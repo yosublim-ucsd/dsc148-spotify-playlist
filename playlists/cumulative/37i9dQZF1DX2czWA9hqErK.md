@@ -4,7 +4,7 @@
 
 > Laid back sounds to see you through your day.
 
-515 songs - 1 day 4 hr 54 min
+516 songs - 1 day 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -427,7 +427,7 @@
 | [Something Better](https://open.spotify.com/track/7fOm21YavgLjP7ocs6hrG5) | [Taylor Janzen](https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc) | [Something Better](https://open.spotify.com/album/4WHtwKJY1SGHl6yWldPY6n) | 3:55 | 2022-03-25 | 2022-04-16 |
 | [Something Like I Love You](https://open.spotify.com/track/2MaTW2Q1HcL51RvY3Vr27X) | [Jemma Johnson](https://open.spotify.com/artist/7uhRd4COwyCLdMiTXzw7Hq) | [Something Like I Love You](https://open.spotify.com/album/3eFh8oUlBJH3JcMnmKVzp9) | 2:20 | 2022-03-25 | 2022-07-29 |
 | [Something Sentimental](https://open.spotify.com/track/6mnqCMfVvuXz1rN7upr13S) | [Mathilda Homer](https://open.spotify.com/artist/0uwGk8b2zINQFSKiLbK50Y) | [Something Sentimental](https://open.spotify.com/album/08J3jHocUai4q6KiCCCOlE) | 3:18 | 2021-12-16 | 2022-03-07 |
-| [Something to Someone \- Piano](https://open.spotify.com/track/5LMMHLhxyicdWm3uEdbNrV) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Something to Someone](https://open.spotify.com/album/26WEpGNBMTJE5jyRcMtE01) | 3:03 | 2022-12-02 |  |
+| [Something to Someone \- Piano](https://open.spotify.com/track/5LMMHLhxyicdWm3uEdbNrV) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Something to Someone](https://open.spotify.com/album/26WEpGNBMTJE5jyRcMtE01) | 3:03 | 2022-12-02 | 2023-07-23 |
 | [Something to Someone \- Piano](https://open.spotify.com/track/5YLGr2aXsNZWpZmwQiaX7H) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Something to Someone \(Piano\)](https://open.spotify.com/album/2es7Wvv9mh7IK9K874jQJW) | 3:03 | 2022-08-02 | 2022-11-30 |
 | [Soul Mate](https://open.spotify.com/track/2xo3D4eKXs19ISgTcICbua) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [Soul Mate](https://open.spotify.com/album/3pFB2FG0kMs3MhfDfcjHRr) | 3:57 | 2021-12-16 | 2022-02-15 |
 | [squares](https://open.spotify.com/track/0byJI4UB0ibHxUVz5Fz5Ne) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [squares / y 13](https://open.spotify.com/album/1TszPNUGDtDdfgg1SPDPH6) | 4:27 | 2022-03-29 | 2022-10-22 |
@@ -508,6 +508,7 @@
 | [Wish You The Best](https://open.spotify.com/track/3W5KHP0Yr56ejVDns9vci3) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Wish You The Best](https://open.spotify.com/album/7dhkqX7ovYADB1xwZr9bwS) | 3:30 | 2023-04-14 | 2023-05-24 |
 | [Wish You The Best](https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:30 | 2023-05-16 |  |
 | [With The Band](https://open.spotify.com/track/2bY0fCLZ2wzWFqujDEGQKY) | [Sophie May](https://open.spotify.com/artist/20je656lhatFVl4EoaNupn) | [With The Band / Bruises & Scratches](https://open.spotify.com/album/4xzhwzrYdU5RGOhLTXrZp8) | 2:53 | 2022-04-11 | 2023-02-19 |
+| [Without You](https://open.spotify.com/track/26AXhNPL6CBLlsV49j5opa) | [ADMT](https://open.spotify.com/artist/33M0vL5kF0AMJqXYxeX7kF) | [Without You](https://open.spotify.com/album/2PK5nQeplHKyoKyjv8T20w) | 2:32 | 2023-07-18 |  |
 | [Words](https://open.spotify.com/track/1vZ80JagXskYRxBkq0FYAP) | [Esme Emerson](https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL) | [Words](https://open.spotify.com/album/183zuL478HRdAZPiyqA67W) | 4:07 | 2022-03-25 | 2022-04-19 |
 | [Worry](https://open.spotify.com/track/5162TbRdE10dMwToCsKa7J) | [Roses & Revolutions](https://open.spotify.com/artist/1EQiPk32D03HxHmExyCg9l), [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Worry](https://open.spotify.com/album/59kXMOrbDR0CbXg1bdCLhL) | 2:41 | 2022-04-04 | 2022-07-29 |
 | [Worst Ways](https://open.spotify.com/track/3Vyg7aVSl2vOMSSw5X11pD) | [Rudie Edwards](https://open.spotify.com/artist/0UoYusnqGbla21PGYGmLfk) | [Worst Ways](https://open.spotify.com/album/415C1JkrCi5cNjMboEW9jG) | 3:21 | 2022-01-11 | 2022-07-29 |

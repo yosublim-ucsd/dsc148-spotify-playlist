@@ -293,6 +293,28 @@
     },
     {
       "album": {
+        "name": "C\u00f3mo Te Extra\u00f1o",
+        "url": "https://open.spotify.com/album/7IvILOjGYxYa7eUsiDQjwl"
+      },
+      "artists": [
+        {
+          "name": "La Revoluci\u00f3n De Emiliano Zapata",
+          "url": "https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2"
+        },
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "C\u00f3mo Te Extra\u00f1o",
+      "url": "https://open.spotify.com/track/1QeTrtktIEFqZXtSKvuzxM"
+    },
+    {
+      "album": {
         "name": "Al Estilo Tierra Caliente",
         "url": "https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb"
       },

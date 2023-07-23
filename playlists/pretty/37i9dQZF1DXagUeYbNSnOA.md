@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring La Clase Loka\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,347 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,352 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 38 | [Nunca Estás](https://open.spotify.com/track/7ee2A2K4DG3Kgyt1kLYYQ4) | [Blue Saint Pablo](https://open.spotify.com/artist/1eaKDGZ4yH4nodRfwcnXrI), [uPSEt](https://open.spotify.com/artist/2xGh1v4U7auVlcWYewwHlI) | [Nunca Estás](https://open.spotify.com/album/4wCUvlPxruaWUbsevr9xEx) | 2:52 |
 | 39 | [VELOCIDAD](https://open.spotify.com/track/77vznWJnp6jYri1l9qHb9D) | [RedLivah](https://open.spotify.com/artist/5xIJUBPCV72HC9aUjiNZX8), [GodBle$$](https://open.spotify.com/artist/34gWDiqInitijQzZsKjKdd) | [VELOCIDAD](https://open.spotify.com/album/3e8hAQPd2hDihjqz7vpiuN) | 1:59 |
 | 40 | [mala](https://open.spotify.com/track/0NizLHiBid5U3tEdcfMD1b) | [carla martinez](https://open.spotify.com/artist/61boNdzdBfHexUTjbd1mrg) | [mala](https://open.spotify.com/album/3fV24ioWRPE5jfTlwhZiLj) | 3:26 |
-| 41 | [Déjame Contarte](https://open.spotify.com/track/5zGsC5MNKxkHoN2gmv32vt) | [Dariana López](https://open.spotify.com/artist/2Sji5jFULGdEMRZj5RonoR) | [Déjame Contarte](https://open.spotify.com/album/5UZtHAjFU93SIvHyhatIuz) | 3:52 |
-| 42 | [Perdí Tu Num :\(](https://open.spotify.com/track/2u7QYQ7rot9OWjJeaVubIu) | [Mørfy](https://open.spotify.com/artist/3xz62lFU8IOTCAwVXngADr) | [Perdí Tu Num :\(](https://open.spotify.com/album/5eqaPXb3m0F3YvecBxmo3k) | 2:42 |
-| 43 | [Give Me Something](https://open.spotify.com/track/7pGHixdora3JTMy3vUZS91) | [francisco](https://open.spotify.com/artist/1EqvieKNEUPM45aX52ZT9o) | [Give Me Something](https://open.spotify.com/album/1t4hRCFUwvDxntg3Si9ZXA) | 3:14 |
-| 44 | [Muérete.](https://open.spotify.com/track/46pSBPlTJOZooaXUzxxVZu) | [Manda](https://open.spotify.com/artist/6qoRJ8ch8quJZ7Xyite5Fd) | [Mi Subconsciente](https://open.spotify.com/album/79j0MBfIXuia06vJ2q5bzz) | 2:03 |
+| 41 | [Perdí Tu Num :\(](https://open.spotify.com/track/2u7QYQ7rot9OWjJeaVubIu) | [Mørfy](https://open.spotify.com/artist/3xz62lFU8IOTCAwVXngADr) | [Perdí Tu Num :\(](https://open.spotify.com/album/5eqaPXb3m0F3YvecBxmo3k) | 2:42 |
+| 42 | [Déjame Contarte](https://open.spotify.com/track/5zGsC5MNKxkHoN2gmv32vt) | [Dariana López](https://open.spotify.com/artist/2Sji5jFULGdEMRZj5RonoR) | [Déjame Contarte](https://open.spotify.com/album/5UZtHAjFU93SIvHyhatIuz) | 3:52 |
+| 43 | [Muérete.](https://open.spotify.com/track/46pSBPlTJOZooaXUzxxVZu) | [Manda](https://open.spotify.com/artist/6qoRJ8ch8quJZ7Xyite5Fd) | [Mi Subconsciente](https://open.spotify.com/album/79j0MBfIXuia06vJ2q5bzz) | 2:03 |
+| 44 | [Give Me Something](https://open.spotify.com/track/7pGHixdora3JTMy3vUZS91) | [francisco](https://open.spotify.com/artist/1EqvieKNEUPM45aX52ZT9o) | [Give Me Something](https://open.spotify.com/album/1t4hRCFUwvDxntg3Si9ZXA) | 3:14 |
 | 45 | [VIP](https://open.spotify.com/track/5mUa1V9AT1VnB79xCfS1vw) | [Los Domblas](https://open.spotify.com/artist/0WINk6xD44J14kJGjyt02P) | [VIP](https://open.spotify.com/album/5MdKIHQ88sc6bt4ltzVZ5w) | 2:26 |
 | 46 | [Los 90's](https://open.spotify.com/track/4aT1GQFFUwTgG3lPyM0BsM) | [Alita Jugosita](https://open.spotify.com/artist/11CQZXyjJiI16TPWJmzS8Y) | [Los 90's](https://open.spotify.com/album/5BeFEFkNbndxCLF9DNc2US) | 2:09 |
 | 47 | [Solo](https://open.spotify.com/track/745udrWtQKlcBgHFjYoKxs) | [Zenith](https://open.spotify.com/artist/4Y7t4ZD6nXgdGdzk6hFey4) | [Solo](https://open.spotify.com/album/415hnXDwNJyWqABEhpOCuS) | 3:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [una y diez](https://open.spotify.com/track/5wuSHFYAS3kmPZBeWjts0v) | [LUANDA](https://open.spotify.com/artist/4uafDYiyPmfiBC9XJPxtsp) | [una y diez](https://open.spotify.com/album/3qUSxcib4jTzSGR2BFGRqa) | 2:39 |
 | 50 | [VAPOREON.mp3](https://open.spotify.com/track/7nxhYPFor2yKZQH7LTbCd5) | [ZOMBI3X](https://open.spotify.com/artist/69ibXoT30zlJBV5b3NMtIf), [RIIP DIEGO](https://open.spotify.com/artist/6faQ0OraxrYdQotaRRgoFS), [Oskan](https://open.spotify.com/artist/2xoCPQQ8DkXM9snPiO1f40), [Loztt](https://open.spotify.com/artist/1X6549jfWP5mOzXH6aPvdX), [Konyu](https://open.spotify.com/artist/4ev84wnlNd7LEjovGmG0fA) | [VAPOREON.mp3](https://open.spotify.com/album/1T59ousWzvRAixEZIgSogz) | 3:40 |
 
-Snapshot ID: `MCw2ZGE3ZTA5MjRkNDYwZGRjZTEzMWEyYjVjYjAxYTc2ZmEwY2E0YzQx`
+Snapshot ID: `MCw3Y2ViY2M5OTgyNWFhMWVhNTFmMzNjMmVlNjVmZGMwOGRmNzA4YTk4`

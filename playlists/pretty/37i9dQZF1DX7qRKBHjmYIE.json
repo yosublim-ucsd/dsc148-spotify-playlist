@@ -1,12 +1,12 @@
 {
   "description": "De aqu\u00ed y de all\u00e1 ~ un poquito de todo. Freshly picked every week. Cover: Bebo Dumont & Seba Otero",
-  "num_followers": 765011,
+  "num_followers": 765000,
   "original_name": "Mixto",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzI0YjBmN2IzZmIxZGIzNWM2NWZmMDYxZjBhYzhlMjFkMWYzYzUz",
+  "snapshot_id": "MCxiNDljYWZiNmYzZTg4N2I0MmQyNTA3YTViMGQyNDgwYWM3YWI5OTNj",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -16,12 +16,12 @@
       },
       "artists": [
         {
-          "name": "Bebo Dumont",
-          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
-        },
-        {
           "name": "Seba Otero",
           "url": "https://open.spotify.com/artist/4KcUp7k6HasVCPeB4uIA1i"
+        },
+        {
+          "name": "Bebo Dumont",
+          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
         }
       ],
       "duration_ms": 179541,
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "MAKIA",
-        "url": "https://open.spotify.com/album/2zMjcbAV32pgiNPe5cuaDv"
-      },
-      "artists": [
-        {
-          "name": "ARIA VEGA",
-          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
-        }
-      ],
-      "duration_ms": 195411,
-      "name": "LA DROGA ES MIA (Yuca_Ab_120BPM)",
-      "url": "https://open.spotify.com/track/1S5StNTWW8ZCBNS9EtF7E0"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "In My Bones",
         "url": "https://open.spotify.com/album/6dxeJJi4Sbj1k89jS0gRyp"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 217082,
       "name": "In My Bones",
       "url": "https://open.spotify.com/track/79nl5WirZHBsWvTCy3s4iv"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "MAKIA",
+        "url": "https://open.spotify.com/album/2zMjcbAV32pgiNPe5cuaDv"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "duration_ms": 195411,
+      "name": "LA DROGA ES MIA (Yuca_Ab_120BPM)",
+      "url": "https://open.spotify.com/track/1S5StNTWW8ZCBNS9EtF7E0"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "odio esta casa (cuando te vas)",
+        "url": "https://open.spotify.com/album/13BfMjOrCPVMQsaz89js8b"
+      },
+      "artists": [
+        {
+          "name": "Carlos Colosio",
+          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
+        }
+      ],
+      "duration_ms": 194048,
+      "name": "odio esta casa (cuando te vas)",
+      "url": "https://open.spotify.com/track/2gz0jf6QA7EhF8P29AUYbE"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Tarde",
         "url": "https://open.spotify.com/album/4TFbd9bF0VZlQQqPHHDUiM"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 169411,
       "name": "Tarde",
       "url": "https://open.spotify.com/track/1ZclY4XEkj9cz9uqj2Ueqo"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "odio esta casa (cuando te vas)",
-        "url": "https://open.spotify.com/album/13BfMjOrCPVMQsaz89js8b"
-      },
-      "artists": [
-        {
-          "name": "Carlos Colosio",
-          "url": "https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au"
-        }
-      ],
-      "duration_ms": 194048,
-      "name": "odio esta casa (cuando te vas)",
-      "url": "https://open.spotify.com/track/2gz0jf6QA7EhF8P29AUYbE"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -795,6 +795,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Last Spa on Earth",
+        "url": "https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB"
+      },
+      "artists": [
+        {
+          "name": "Divino Ni\u00f1o",
+          "url": "https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi"
+        }
+      ],
+      "duration_ms": 185350,
+      "name": "XO",
+      "url": "https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Luna Villera",
         "url": "https://open.spotify.com/album/5Vm7UF6GDOFqCNfOMDtxwi"
       },
@@ -815,22 +831,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Last Spa on Earth",
-        "url": "https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB"
-      },
-      "artists": [
-        {
-          "name": "Divino Ni\u00f1o",
-          "url": "https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi"
-        }
-      ],
-      "duration_ms": 185350,
-      "name": "XO",
-      "url": "https://open.spotify.com/track/7Hv1cgxfZs6pswYKvh0tDJ"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "bossa nova",
         "url": "https://open.spotify.com/album/0SDPb2lJmgdtehUWb6HeSN"
       },
@@ -843,26 +843,6 @@
       "duration_ms": 188070,
       "name": "bossa nova",
       "url": "https://open.spotify.com/track/139gVTrvNg7LVY7aX0rUmc"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "No Way I Wake Up (Without You)",
-        "url": "https://open.spotify.com/album/5UR3t0kyK73DYsKv0mg60c"
-      },
-      "artists": [
-        {
-          "name": "Ariza",
-          "url": "https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5"
-        },
-        {
-          "name": "Daylight",
-          "url": "https://open.spotify.com/artist/6KKA9Dt82ybAI0G64ADodJ"
-        }
-      ],
-      "duration_ms": 195451,
-      "name": "No Way I Wake Up (Without You)",
-      "url": "https://open.spotify.com/track/51Af7WSJaBYJ8DSmYxYmP1"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -899,6 +879,26 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "No Way I Wake Up (Without You)",
+        "url": "https://open.spotify.com/album/5UR3t0kyK73DYsKv0mg60c"
+      },
+      "artists": [
+        {
+          "name": "Ariza",
+          "url": "https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5"
+        },
+        {
+          "name": "Daylight",
+          "url": "https://open.spotify.com/artist/6KKA9Dt82ybAI0G64ADodJ"
+        }
+      ],
+      "duration_ms": 195451,
+      "name": "No Way I Wake Up (Without You)",
+      "url": "https://open.spotify.com/track/51Af7WSJaBYJ8DSmYxYmP1"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "en la ciudad",
         "url": "https://open.spotify.com/album/6FC9OVa2vFyot2dp23GdiM"
       },
@@ -915,6 +915,22 @@
       "duration_ms": 211986,
       "name": "en la ciudad",
       "url": "https://open.spotify.com/track/5smdosXwKG5czbMDXqRtc7"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/3bEF4EGgg3GCjbYi5Exfhk"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+        }
+      ],
+      "duration_ms": 183617,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/505iqAgEkO1dFrMgfB3rEw"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -955,34 +971,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/3bEF4EGgg3GCjbYi5Exfhk"
+        "name": "Clich\u00e9",
+        "url": "https://open.spotify.com/album/7dcFO10Q12E0n1AAtv6c4E"
       },
       "artists": [
         {
-          "name": "Sof\u00eda Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT"
+          "name": "Marte",
+          "url": "https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm"
         }
       ],
-      "duration_ms": 183617,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/505iqAgEkO1dFrMgfB3rEw"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "OJALA",
-        "url": "https://open.spotify.com/album/3Ux3Zepw6rUNYiXh1n1m0v"
-      },
-      "artists": [
-        {
-          "name": "YADAM",
-          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
-        }
-      ],
-      "duration_ms": 218800,
-      "name": "OJALA",
-      "url": "https://open.spotify.com/track/3yd7sPPW1X7jYBlyuN6QKd"
+      "duration_ms": 196588,
+      "name": "Clich\u00e9",
+      "url": "https://open.spotify.com/track/1IeIu8G0uzcrDKl2l6eg99"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Clich\u00e9",
-        "url": "https://open.spotify.com/album/7dcFO10Q12E0n1AAtv6c4E"
+        "name": "OJALA",
+        "url": "https://open.spotify.com/album/3Ux3Zepw6rUNYiXh1n1m0v"
       },
       "artists": [
         {
-          "name": "Marte",
-          "url": "https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm"
+          "name": "YADAM",
+          "url": "https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf"
         }
       ],
-      "duration_ms": 196588,
-      "name": "Clich\u00e9",
-      "url": "https://open.spotify.com/track/1IeIu8G0uzcrDKl2l6eg99"
+      "duration_ms": 218800,
+      "name": "OJALA",
+      "url": "https://open.spotify.com/track/3yd7sPPW1X7jYBlyuN6QKd"
     },
     {
       "added_at": "2023-07-21 04:00:00",

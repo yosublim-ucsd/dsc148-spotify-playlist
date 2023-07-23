@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-402 songs - 1 day 11 hr 22 min
+403 songs - 1 day 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Bring the Heat](https://open.spotify.com/track/4509YwOHu4aDFR8gagFuw1) | [Herr Lang](https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5) | [Bring the Heat](https://open.spotify.com/album/21oRCK6XtAfsxIbfuEWGRA) | 6:22 | 2021-12-08 |  |
 | [Broken](https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Broken](https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO) | 3:18 | 2023-04-21 |  |
 | [Broken Parts](https://open.spotify.com/track/1TS3hIyeGdWqeBQyj5HgoT) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Found In The Wild](https://open.spotify.com/album/12uYfX0tNuYsyS6BNaoJNS) | 3:56 | 2021-12-08 |  |
-| [Cameo](https://open.spotify.com/track/1xltPGjeNgtjO8zLHZ6mCf) | [Guy Gerber](https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC) | [Cameo](https://open.spotify.com/album/67yxzpLfTndtBK2RD2yGvp) | 5:17 | 2021-12-08 |  |
+| [Cameo](https://open.spotify.com/track/1xltPGjeNgtjO8zLHZ6mCf) | [Guy Gerber](https://open.spotify.com/artist/3bqBkAzdPwEDe1JUvb7ZeC) | [Cameo](https://open.spotify.com/album/67yxzpLfTndtBK2RD2yGvp) | 5:17 | 2021-12-08 | 2023-07-23 |
 | [Canvey Island](https://open.spotify.com/track/5h9PBWm5EZmOORfkFGnMpv) | [Wayward](https://open.spotify.com/artist/6QzNZv95Ql8TJ7PsHvOvZS) | [Waiting For The World](https://open.spotify.com/album/0CLJNPrkoE2czy7go4sdZA) | 5:43 | 2021-12-08 | 2023-04-09 |
 | [Can’t Quite Understand](https://open.spotify.com/track/5cZhGl84mK2JzltfSzqJR9) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Lore EP](https://open.spotify.com/album/1DCXlz2JvEcTUOZqgn5tDB) | 3:29 | 2021-12-08 | 2022-12-04 |
 | [Captivated](https://open.spotify.com/track/3pNnSLPQUHxUrLMoiMNN6d) | [LTN](https://open.spotify.com/artist/2IK99qf3aYxFWkgCkc7kQ3), [Ghostbeat](https://open.spotify.com/artist/6HM5cyDWiTq4ijhdsaRZiS), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Captivated](https://open.spotify.com/album/4vVmbCnag2aKDlEiB4iy6G) | 3:07 | 2021-12-08 |  |
@@ -195,6 +195,7 @@
 | [Loops For Healing](https://open.spotify.com/track/1RL9gghbn6lqDyCTPteNfB) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [For Lovers](https://open.spotify.com/album/1kV1CYyGYVePD90IJ7ZzYZ) | 5:27 | 2021-12-08 | 2023-02-23 |
 | [Lost](https://open.spotify.com/track/4HWadIQagwXOjf14aUD6qg) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [Lost](https://open.spotify.com/album/5vC7gyO1QMBpkkqkTr6aGu) | 4:47 | 2023-02-03 |  |
 | [Lost in the Sun \(feat\. Ruth Royall\)](https://open.spotify.com/track/5td5z2iVZ8n9cF95pxXTVW) | [Because of Art](https://open.spotify.com/artist/4Cmrx83CCgN8X1hkyhkUkq), [Ruth Royall](https://open.spotify.com/artist/68mfV6tyHCTHZrNWNbVXmu) | [Lost in the Sun \(feat\. Ruth Royall\)](https://open.spotify.com/album/20WgeTKy5S1nhrB7FakTR8) | 3:25 | 2021-12-08 | 2023-05-06 |
+| [Lost In Time](https://open.spotify.com/track/3NgS3hX9JXheEU0g7c1H7T) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Lost In Time](https://open.spotify.com/album/3WF0tSjsDIbYgdttZTWO8f) | 5:24 | 2023-07-21 |  |
 | [Lotus](https://open.spotify.com/track/6BTrnCVnRpQCRWwXb0bIyc) | [Dubfire](https://open.spotify.com/artist/3bVYqr2NfmwmL4YJisWhJI), [Kate Elsworth](https://open.spotify.com/artist/3lHI0h5NymKIJmDOxqHIgJ), [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [Lotus](https://open.spotify.com/album/1r9p0yLaYNvz4iNYnU9GDV) | 12:03 | 2021-12-08 |  |
 | [Lux](https://open.spotify.com/track/6xCLzgEhnX5lLSBYkyiYnd) | [Colton Jefferson](https://open.spotify.com/artist/4dB5DX9CCgOE5LIOciYR7n) | [Lux](https://open.spotify.com/album/1w40aoGmgckodC4xEf1nyQ) | 2:22 | 2023-05-05 |  |
 | [Magnetic](https://open.spotify.com/track/4avYediY0ck6jMfRK5LK6r) | [Phil Anker](https://open.spotify.com/artist/22DTXq0MpXJRZPaTVZD7ED) | [Magnetic](https://open.spotify.com/album/7GMaki32RP1IoRkqqxsTZZ) | 5:28 | 2021-12-08 | 2023-05-06 |

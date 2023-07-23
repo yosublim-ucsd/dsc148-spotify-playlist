@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-1,229 songs - 2 day 17 hr 43 min
+1,230 songs - 2 day 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Amnesia](https://open.spotify.com/track/7AeJhLrw5gWEh2p0yQKAGE) | [Sigma](https://open.spotify.com/artist/71cZMt4XdCynLn983qeFow), [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH) | [Amnesia](https://open.spotify.com/album/1RsM7nU3ULcuuL6H11EsGP) | 3:20 | 2021-06-04 | 2021-10-23 |
 | [AMOR](https://open.spotify.com/track/1OGTkqFF8EmYZvDLuHAXsw) | [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [RACKATTACK 2](https://open.spotify.com/album/2d5prllsnc3IMl0IHIpsw8) | 3:14 | 2022-07-15 | 2023-07-16 |
 | [An](https://open.spotify.com/track/2w40y6rlhc1FzbtsV2QrU5) | [Christos Mastoras](https://open.spotify.com/artist/1XlTr7C0vwBmlpnsN8OMhu) | [An](https://open.spotify.com/album/4ZYLzSRoK60bAvqUwcGFVl) | 3:43 | 2021-12-14 | 2022-04-02 |
-| [An Apopse Figo](https://open.spotify.com/track/09u3uU5KzkdsoUTDeBF10J) | [Bloody Hawk](https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy) | [Fthina Tricks](https://open.spotify.com/album/7MqSq1YDxSsLL5vEvBPsAk) | 2:07 | 2023-05-20 |  |
+| [An Apopse Figo](https://open.spotify.com/track/09u3uU5KzkdsoUTDeBF10J) | [Bloody Hawk](https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy) | [Fthina Tricks](https://open.spotify.com/album/7MqSq1YDxSsLL5vEvBPsAk) | 2:07 | 2023-05-20 | 2023-07-23 |
 | [An Me Agapas](https://open.spotify.com/track/3FJWi2h98dYd0XXPdu1Stc) | [Mad Clip](https://open.spotify.com/artist/3KcZf8BFeFBtnGyOZmUggd), [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [Money and Drugs Can't Live in Poverty \(Deluxe Version\)](https://open.spotify.com/album/3FmU169FLMfnRt9vEronwN) | 3:39 | 2022-07-26 | 2022-07-28 |
 | [Anapantites](https://open.spotify.com/track/2pydsgLB77gocwSQINmZEV) | [Ypo](https://open.spotify.com/artist/2ZXlAIBIejTdK0VlfsAqMV), [Lil PoP](https://open.spotify.com/artist/6Z53MNjWyTH16xE6hXwttS), [Chico Beatz](https://open.spotify.com/artist/00TgUofD51utqGzkMdAbWY) | [Tesla](https://open.spotify.com/album/0sScRh4fH6mjdteRBi6u7m) | 2:33 | 2021-03-27\* | 2021-03-27 |
 | [ANETOI](https://open.spotify.com/track/6PLfzYi3p5S8Jp7QNoYyYQ) | [VLOSPA](https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa) | [ANETOI](https://open.spotify.com/album/1qmfkG5HrpJEzV437Elx1V) | 3:09 | 2021-08-19 | 2021-09-11 |
@@ -539,6 +539,7 @@
 | [Joey](https://open.spotify.com/track/4iWB4YtmTxGj9uFljqgidL) | [Bloody Hawk](https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy) | [90 BPM PACK](https://open.spotify.com/album/0T89TjXznLYFYlVA2EJ72G) | 2:37 | 2022-10-28 | 2022-10-31 |
 | [Jonah](https://open.spotify.com/track/3gWzTnziivUYzqXtnvgN8q) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:15 | 2021-08-31 | 2021-09-02 |
 | [Junya](https://open.spotify.com/track/1aF9TeHZbe6OVo9dtjPuzK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:27 | 2021-08-31 | 2021-09-02 |
+| [K\-POP](https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [K\-POP](https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb) | 3:05 | 2023-07-22 |  |
 | [Kaka Paidia](https://open.spotify.com/track/4Q7anuXO1MfPJnON2UdGaZ) | [ATC Nico](https://open.spotify.com/artist/1uENJBsvFjDUv7OrH3DaKR), [Ggreco](https://open.spotify.com/artist/1xmg9v1H65Mxv8bprL3yMU) | [Kaka Paidia](https://open.spotify.com/album/2MPTrrWjzwusObYllFved5) | 2:46 | 2021-05-20 | 2021-05-22 |
 | [Kako Karma](https://open.spotify.com/track/2VQidoGtNcSHQdKL0908u8) | [DJ Stephan](https://open.spotify.com/artist/0fxvzvlu3VQV3wDIhAxBmn), [Fy](https://open.spotify.com/artist/0WxSlQlue0fq99fXfGBmxA), [DJ PaCo](https://open.spotify.com/artist/6YxjAAOm4MVd55JQM8ijbG) | [Cruel Summer 2](https://open.spotify.com/album/2rZjwirB0VOMa7ycpcTiH2) | 2:56 | 2021-06-27 | 2021-07-04 |
 | [KALABAKA](https://open.spotify.com/track/608yxSWu2eBBz0xieqY70v) | [iLLEOo](https://open.spotify.com/artist/1SZwJYkX5jEm8xqZXSGXjj), [RealKofii](https://open.spotify.com/artist/5CVuVQVJmj01iTnmnlnYbx), [Night Grind](https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk) | [KALABAKA](https://open.spotify.com/album/11YmU7XMrgZCpA3khOJAsZ) | 2:50 | 2021-10-30 | 2021-11-21 |

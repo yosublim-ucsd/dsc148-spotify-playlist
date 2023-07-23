@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFFegQlq0Hb.md) - [plain]
 
 > TVアニメ<a href="https://jujutsukaisen.jp/">「呪術廻戦」</a> の公式プレイリスト。これまでのOP/ED曲、 <a href="spotify:show:1OApR2wyRtWRAydfmg3Vto">「呪術廻戦 じゅじゅとーく ニキ </a>」ポッドキャストを合わせてチェック！ / "You should use your strength to help others." \- Enjoy music and podcast from Jujutsu Kaisen!
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,706 likes - 56 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,833 likes - 56 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFFegQlq0Hb.md) - [plain]
 | 55 | [REMEMBER](https://open.spotify.com/track/5LpoOEvLsPtK9baecA3Gnp) | [Masto \(coldrain\)](https://open.spotify.com/artist/6lnOwnN8wy4PO5nbkYRQ7D), [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [Jujutsu Kaisen \(Original Television Soundtrack\)](https://open.spotify.com/album/5QYGsl05fLEEE4fUjz4rkt) | 4:03 |
 | 56 | [Hurt](https://open.spotify.com/track/6QGA2ZzFliSA1Dsg7rBoJJ) | [Hiroaki Tsutsumi](https://open.spotify.com/artist/4uXJgaCc1GtHWtFq8CmPmQ) | [Jujutsu Kaisen \(Original Television Soundtrack\)](https://open.spotify.com/album/5QYGsl05fLEEE4fUjz4rkt) | 1:46 |
 
-Snapshot ID: `MCwwY2RlZWRlZjU2NWMzYTE3NTVlMmU5MjYyNWIxMmIzNWIyOWJhZGI3`
+Snapshot ID: `MCwyNjY3MDI4NzEwYzg3NDNkNDdhOTE3ZTk4YTA1MTU0NjE0N2E2ODlm`

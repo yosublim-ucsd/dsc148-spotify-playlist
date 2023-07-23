@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Cloonee
 
-1,184 songs - 2 day 20 hr 37 min
+1,185 songs - 2 day 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,6 +373,7 @@
 | [Freefall \(feat\. Moxie Knox\) \- Edit](https://open.spotify.com/track/5imVAY20zvISpCoBuoeqZ2) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2), [Moxie Knox](https://open.spotify.com/artist/74CYFM6ycgObPCetlhgcbj) | [Freefall \(feat\. Moxie Knox\)](https://open.spotify.com/album/1yiyLSoz0FdiTDCUCwhd69) | 3:07 | 2022-12-28 | 2023-01-06 |
 | [Fresa](https://open.spotify.com/track/2Q3bwD8BRMigfIv8lGLanG) | [MOSKA](https://open.spotify.com/artist/1rVo9h17cHhWerDiZj0yXH), [Dazed](https://open.spotify.com/artist/2KkAz09DAbDp3yHn1cjDCi) | [Fresa](https://open.spotify.com/album/68lmYLEndJUSXenZewnp0R) | 3:43 | 2023-05-19 | 2023-07-13 |
 | [Friends](https://open.spotify.com/track/3YCr7Q8EbWoGLByCTPmxoe) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t) | [Friends](https://open.spotify.com/album/5LSnkj5aoJBih89lJ21D5w) | 2:27 | 2023-03-31 |  |
+| [Frikitona](https://open.spotify.com/track/0q9YhUuxm8G1UatNDgBAdh) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI) | [Frikitona](https://open.spotify.com/album/7nsb4hMX1yb6GOILmcp7Kl) | 2:54 | 2023-07-21 |  |
 | [Fuego](https://open.spotify.com/track/7HVwI8txOUrRdIGV5Z9lhP) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Fuego](https://open.spotify.com/album/4iHXJluidkU10vc0FmRqdc) | 3:10 | 2023-06-23 | 2023-07-20 |
 | [Fuego \(VIP\)](https://open.spotify.com/track/6BXEWL3JzbTlEMefaRw1BM) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [GotSome](https://open.spotify.com/artist/5eALE6GKSAiBNMyqpsqoeX), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Fuego \(VIP\)](https://open.spotify.com/album/4CAfJlVsnGypCwurPp5jTw) | 2:49 | 2022-12-09 | 2023-03-04 |
 | [Funk Accelerator](https://open.spotify.com/track/3QORLvINZ5ie3lRsTOZJqD) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr) | [Funk Accelerator](https://open.spotify.com/album/72t6Fxyx5KRt0SaZ801jOl) | 3:52 | 2022-04-15 | 2022-05-07 |
@@ -407,7 +408,7 @@
 | [Goodies](https://open.spotify.com/track/1rGd2CoMxEg2dnaytLY5ZG) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf) | [Goodies](https://open.spotify.com/album/67bFXY7O9MCywon0nEyS1Z) | 2:01 | 2022-09-05 | 2023-02-11 |
 | [Goodies](https://open.spotify.com/track/68q05Ar0SJHEI1padmFRp9) | [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg) | [Goodies](https://open.spotify.com/album/1C1b1rHuDE9xVal5ybjaz2) | 2:55 | 2022-02-25 | 2022-04-23 |
 | [Gory Love](https://open.spotify.com/track/6M8iLzSQZ3DAe79X0hDlkL) | [AJ Christou](https://open.spotify.com/artist/6dWcGqZzMm3mNuvc4yLVsj) | [Gory Love](https://open.spotify.com/album/2alPuqga9DmG6ojNm26eXM) | 7:24 | 2022-12-28 | 2023-01-06 |
-| [Got Me](https://open.spotify.com/track/6j9eOtDMnw1W03Ny6NA0pP) | [Rodrigo Serna](https://open.spotify.com/artist/5eCVBdu5kAqZ2OMZnBXR90), [Bexxie](https://open.spotify.com/artist/3lwq28uuT7bAqQ3shl4d9Q) | [Got Me](https://open.spotify.com/album/5t6eG1UIxM0uz4ud71QtNf) | 2:58 | 2023-07-21 |  |
+| [Got Me](https://open.spotify.com/track/6j9eOtDMnw1W03Ny6NA0pP) | [Rodrigo Serna](https://open.spotify.com/artist/5eCVBdu5kAqZ2OMZnBXR90), [Bexxie](https://open.spotify.com/artist/3lwq28uuT7bAqQ3shl4d9Q) | [Got Me](https://open.spotify.com/album/5t6eG1UIxM0uz4ud71QtNf) | 2:58 | 2023-07-21 | 2023-07-23 |
 | [Got To Give It Up](https://open.spotify.com/track/6qO2wnfMKP3KW5PdDdlYW2) | [Soul Divide](https://open.spotify.com/artist/6HSztNQrWxC66G1HObZuJv) | [Got To Give It Up](https://open.spotify.com/album/0mq1H4uxW1sIzODJzRMa8Q) | 6:10 | 2022-12-28 | 2023-01-06 |
 | [Gotta Be Big](https://open.spotify.com/track/7cpYKw9EqeKiro8Wy4pBbV) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [Gotta Be Big](https://open.spotify.com/album/6gxe86HXlBpnKb9CDirJBa) | 3:14 | 2022-04-22 | 2022-06-11 |
 | [Gotta Let You Go](https://open.spotify.com/track/7Ikf5qsW8GxJq0ZfpZUHsX) | [Felix Leiter](https://open.spotify.com/artist/0NgdQNyMEbiVR0HBpzMptO), [Ango Tamarin](https://open.spotify.com/artist/7uSgmPTHeYgIu7Q5JwQpQy), [Dominica](https://open.spotify.com/artist/6bETcPKjsI4UE4ZMHtcZCh) | [Gotta Let You Go](https://open.spotify.com/album/6yCg2t2ZZ7LBjIHsR3DVND) | 2:47 | 2023-02-10 | 2023-05-20 |

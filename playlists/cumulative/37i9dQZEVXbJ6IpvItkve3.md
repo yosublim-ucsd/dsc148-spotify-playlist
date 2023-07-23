@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-745 songs - 1 day 17 hr 52 min
+747 songs - 1 day 17 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Intro: Singularity](https://open.spotify.com/track/5rNZsITjXf23iFkRA924FV) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 轉 'Tear'](https://open.spotify.com/album/4NIqCxqP9o8Tp6tGLBqd8O) | 3:16 | 2022-06-11 | 2022-06-16 |
 | [Jail](https://open.spotify.com/track/42ZrMq4BKsWDrrbMnMRYaK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 4:57 | 2021-08-31 | 2021-09-03 |
 | [Jimmy Cooks \(feat\. 21 Savage\)](https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Honestly, Nevermind](https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw) | 3:38 | 2022-06-18 | 2022-08-25 |
+| [K\-POP](https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [K\-POP](https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb) | 3:05 | 2023-07-22 |  |
 | [Karma](https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:24 | 2022-10-22 | 2022-10-27 |
 | [Keep Driving](https://open.spotify.com/track/2NcQic8JxdjAlAHuNbOIRE) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:20 | 2022-05-21 | 2022-05-24 |
 | [Kill Bill](https://open.spotify.com/track/1Qrg8KqiBpW07V7PNxwwwL) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/1nrVofqDRs7cpWXJ49qTnP) | 2:33 | 2022-12-16 | 2023-06-16 |
@@ -408,7 +409,7 @@
 | [אפס מאמץ](https://open.spotify.com/track/3scEZ2JrbtrqfUvgHrPnSt) | [Static & Ben El](https://open.spotify.com/artist/0xHa28taiElkcQf9o3z76g), [Netta](https://open.spotify.com/artist/4Z4afeDmHFxPmJorIwupbZ) | [אפס מאמץ](https://open.spotify.com/album/6isaVgYKgKOhbRSNppMkGx) | 3:20 | 2021-07-04 | 2021-07-08 |
 | [אפר ואבק](https://open.spotify.com/track/1e5SBUMJfQ9Mx3Zk0OXZmg) | [Yehuda Poliker](https://open.spotify.com/artist/4rQnQQusV2VVuGmDTLlybe) | [אפר ואבק](https://open.spotify.com/album/2px1DDWf7a8xfM55qoMAXB) | 4:32 | 2023-04-19 | 2023-04-21 |
 | [אצלנו בגן](https://open.spotify.com/track/1Jn1ZoYCWdFhdPH9cG8Y8j) | [Shaylee Atary](https://open.spotify.com/artist/6jUAxR5KFMX2hcKKFebeL4) | [באמת שרציתי](https://open.spotify.com/album/1KnRVQXTCmlL49Ule62eU3) | 3:11 | 2021-04-16 | 2023-04-28 |
-| [אקורדים בלילות](https://open.spotify.com/track/6ubV4TOnHggG27ygsPxjvR) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [אושר](https://open.spotify.com/album/0mqMqD84CEJAQIaHYLggLr) | 3:18 | 2023-02-13 |  |
+| [אקורדים בלילות](https://open.spotify.com/track/6ubV4TOnHggG27ygsPxjvR) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [אושר](https://open.spotify.com/album/0mqMqD84CEJAQIaHYLggLr) | 3:18 | 2023-02-13 | 2023-07-23 |
 | [ארים ראשי](https://open.spotify.com/track/2WqZYfSeozPYN9bX8tWPyT) | [Shay Gabso](https://open.spotify.com/artist/018HTJ9Cu6WXLAHEbUpU6r) | [ארים ראשי](https://open.spotify.com/album/0uLEEb2fwhBk2YfBQD6W3x) | 3:38 | 2022-05-05 | 2023-04-28 |
 | [ארץ ישראל שלי](https://open.spotify.com/track/58gjKhdAyYFvtuw0sGn95e) | [נירה רבינוביץ](https://open.spotify.com/artist/3mBMLsSr0PuSkTmPxtQu5i) | [דתיה בן דור \- עוד שירי משחק](https://open.spotify.com/album/1g5zWDkBTPvnse7CjVCSuJ) | 1:56 | 2023-04-27 | 2023-04-29 |
 | [את חסרה לי](https://open.spotify.com/track/3RBpmZJ0YG9abVBXI2U1UO) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [אלבום 2](https://open.spotify.com/album/4Y0qA5fFbat53aqfeN9IcE) | 2:49 | 2022-03-26 | 2023-05-27 |
@@ -520,6 +521,7 @@
 | [יום חדש](https://open.spotify.com/track/4mRreSUqP7waa2jT5ul41T) | [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [ברוכים הבאים לפתח תקוה](https://open.spotify.com/album/3lg5JGBlIiGeMbRwSh53hS) | 3:28 | 2023-05-20 | 2023-06-10 |
 | [יותר חזק מה?](https://open.spotify.com/track/4C7X3ja0DeTxMaTQJXtQ8W) | [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [יותר חזק מה?](https://open.spotify.com/album/0r3z6vvJSpUWhMHLWgbJj1) | 2:19 | 2022-09-06 | 2022-10-02 |
 | [יחפים](https://open.spotify.com/track/1lHlKCdVZ4CGbbkTuG6LfT) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [יחפים](https://open.spotify.com/album/6xWVozXfIqzTHKIVARSnY2) | 3:16 | 2021-12-08 |  |
+| [ילד מטריה](https://open.spotify.com/track/29ZGOiRf0t8zjvz5JwwdM4) | [עטרה אוריה](https://open.spotify.com/artist/2B5CIVuJLzMYbtw6ViL85R) | [ילד מטריה](https://open.spotify.com/album/0RMHBV15CrRX9qvub7MjwN) | 3:10 | 2023-07-22 |  |
 | [ים הרחמים](https://open.spotify.com/track/5OLFgqtdjdZJVByMwUEZfg) | [Kobi Aflalo](https://open.spotify.com/artist/0xYY2tRJGTvQC6rPjk758w) | [בא מן השתיקה](https://open.spotify.com/album/5KsNUKsnSKIrYH8X23Ykgi) | 3:59 | 2023-04-26 | 2023-04-28 |
 | [יצאה שבת](https://open.spotify.com/track/4f15d7Qc81qw4LKMAQhfYz) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [סוף העולם](https://open.spotify.com/album/1wkBFAYxB3n1hriR7rAZlT) | 3:08 | 2023-06-02 | 2023-07-20 |
 | [כאב של לוחמים](https://open.spotify.com/track/2X8mBXrZ6HJPCgKAzC87k5) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox) | [עידן עמדי](https://open.spotify.com/album/38ULaBgGevy5UhbI9yXAvg) | 3:18 | 2022-05-04 | 2023-04-28 |
@@ -710,7 +712,7 @@
 | [רעשים](https://open.spotify.com/track/1KszHjECoMXM3d5y31ZRVl) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN), [Noa Kirel](https://open.spotify.com/artist/1wak0ZG1LUrZPYx8RDTQoD) | [רעשים](https://open.spotify.com/album/7620BHUxKd5j1KF8CVE6Kb) | 3:40 | 2021-12-16 | 2022-03-27 |
 | [רק אותך אהבתי](https://open.spotify.com/track/48foShYuWKW4geyIU4RRkS) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [האמת](https://open.spotify.com/album/2As67LcrZgVdpKqa0YAnSA) | 2:34 | 2023-03-31 | 2023-05-07 |
 | [רק אותך אהבתי](https://open.spotify.com/track/5Ds7Ji9KSweBBQbw7gLk5V) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [רק אותך אהבתי](https://open.spotify.com/album/6tYAYz8rkq7suOCowuvzFg) | 2:34 | 2023-03-18 | 2023-04-01 |
-| [רק אני יודע](https://open.spotify.com/track/0NdV41q6lBoO4WyCaZmIJU) | [Stephane Legar](https://open.spotify.com/artist/2ZRiDEplNEZDgPBziiFEmk) | [רק אני יודע](https://open.spotify.com/album/1lclZGan78IHDPYl6p8iJ2) | 2:44 | 2023-07-20 |  |
+| [רק אני יודע](https://open.spotify.com/track/0NdV41q6lBoO4WyCaZmIJU) | [Stephane Legar](https://open.spotify.com/artist/2ZRiDEplNEZDgPBziiFEmk) | [רק אני יודע](https://open.spotify.com/album/1lclZGan78IHDPYl6p8iJ2) | 2:44 | 2023-07-20 | 2023-07-23 |
 | [רק בישראל](https://open.spotify.com/track/7JB4mboAYxW7PVUlPKy5WL) | [Lehakat Heyl Hayam](https://open.spotify.com/artist/110wHDAsaXDaKKdUztwGlE) | [וביום השלישי](https://open.spotify.com/album/0Wes9s8uPfGDGJhT1DGJyC) | 2:06 | 2023-04-27 | 2023-04-29 |
 | [שבוע טוב](https://open.spotify.com/track/4Ow0gCGxYfOcyiCuZOt9mp) | [Avraham Tal](https://open.spotify.com/artist/6h7LtkzHunGiOPhnv3HHVd) | [שבוע טוב](https://open.spotify.com/album/6YSSGpUdgORmCEZ6vXTjZW) | 2:31 | 2021-03-27\* | 2023-04-29 |
 | [שוב](https://open.spotify.com/track/4D5BAc9GN5Q8r5LVO7mxBI) | [Eden Hason](https://open.spotify.com/artist/6uQl3gu1AIXyvqCAxnc2q4) | [שוב](https://open.spotify.com/album/2ako4WJK0NWapW65t4yM7K) | 3:10 | 2023-02-22 | 2023-04-05 |

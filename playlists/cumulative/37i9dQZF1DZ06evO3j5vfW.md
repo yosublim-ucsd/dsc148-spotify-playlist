@@ -4,7 +4,7 @@
 
 > This is Nicky Romero\. The essential tracks, all in one playlist.
 
-91 songs - 4 hr 49 min
+92 songs - 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Find You](https://open.spotify.com/track/0bWHZZkzy7wgTYaTcrkyvE) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Monocule \(Volume 2\)](https://open.spotify.com/album/0Lo3tsG5drmteljSwQX01I) | 3:03 | 2021-12-20 | 2022-01-15 |
 | [For The People](https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V) | [For The People](https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj) | 3:39 | 2022-10-29 |  |
 | [Forever](https://open.spotify.com/track/5nUyqq07mqo7dt8xd7BfYP) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Nico & Vinz](https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn) | [Forever](https://open.spotify.com/album/2iGZU0LNQmhZ5QbRDmCNZz) | 2:20 | 2023-03-11 |  |
+| [Give In](https://open.spotify.com/track/50FvSZE7zXdP3tvKYLDQY0) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Give In](https://open.spotify.com/album/7sRz2CJyxpX3ejI3vRnKjR) | 3:04 | 2023-07-22 |  |
 | [Harmony](https://open.spotify.com/track/0qwPUvS4Eofc19Uw2IDodG) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Stadiumx](https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH) | [Harmony](https://open.spotify.com/album/4SnEzerWvY2jHhNiMu0iKE) | 3:33 | 2022-04-11 | 2022-10-07 |
 | [Harmony \- Extended Stadiumx Remix](https://open.spotify.com/track/11SwOkvwTXlCfprgPCA5yP) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Stadiumx](https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH) | [Harmony \(Stadiumx Remix\)](https://open.spotify.com/album/166oI2CSmmp0Wk4IaVbNrU) | 5:25 | 2023-01-08 | 2023-02-22 |
 | [Hear Me Now](https://open.spotify.com/track/2RENEC1I3hpe1PXVbqSvr6) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Perception EP](https://open.spotify.com/album/2YE08q7reI4y0Ucx8mfJtE) | 3:29 | 2022-05-29 | 2023-02-05 |
@@ -96,7 +97,7 @@
 | [Why Do I Call](https://open.spotify.com/track/7sRjDSJ5Vp3xC669buQVGi) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Why Do I Call](https://open.spotify.com/album/5eNuYTGzaZ36i04rdcz3bN) | 2:38 | 2021-12-20 |  |
 | [Work My Body](https://open.spotify.com/track/5p1HNuc2P64Au0hwh2PcSB) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Perception EP](https://open.spotify.com/album/2YE08q7reI4y0Ucx8mfJtE) | 2:50 | 2022-06-13 | 2022-07-01 |
 | [World Through Your Eyes](https://open.spotify.com/track/2kP8XBdhI9NRQkbDxye43P) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Teamworx](https://open.spotify.com/artist/5AVL4JohmPpJASDshyUzQj), [Joseph Feinstein](https://open.spotify.com/artist/7ahEpNiwqIG5GJ3NkfHt1L) | [World Through Your Eyes](https://open.spotify.com/album/0RVvcarH2fXvoIkkiGql2s) | 3:43 | 2021-12-20 | 2022-10-13 |
-| [You Don't Know](https://open.spotify.com/track/4sXrwNmYfg5x5CCfKpxYiO) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [You Don't Know](https://open.spotify.com/album/2U506HHxpTv7cpl4v7zUpN) | 3:15 | 2021-12-20 |  |
+| [You Don't Know](https://open.spotify.com/track/4sXrwNmYfg5x5CCfKpxYiO) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [You Don't Know](https://open.spotify.com/album/2U506HHxpTv7cpl4v7zUpN) | 3:15 | 2021-12-20 | 2023-07-23 |
 | [You Used To](https://open.spotify.com/track/0NMhB5jf4SJhzqnx6pBHNh) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [You Used To](https://open.spotify.com/album/7vYgMBgseLvWJUa1TCyKO9) | 2:54 | 2021-12-20 |  |
 | [Your Eyes](https://open.spotify.com/track/3CBwgDX3JaYLqFLuCNwYJd) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [LAMAS \(BR\)](https://open.spotify.com/artist/3sEeagShEwr9APxjh62Hr8), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Your Eyes](https://open.spotify.com/album/1yqaJ3y0XGEvzpwOawFxeS) | 3:39 | 2021-12-20 | 2023-07-19 |
 

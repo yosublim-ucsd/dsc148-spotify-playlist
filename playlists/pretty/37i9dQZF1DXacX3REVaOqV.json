@@ -1,12 +1,12 @@
 {
   "description": "The best in house music",
-  "num_followers": 168834,
+  "num_followers": 168933,
   "original_name": "House Supreme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDcyODE2ODY2ODAyMDA2YmYxMWIxNTUzYzg2NTQyZGE3YjczYWZh",
+  "snapshot_id": "MCw2ZTQ2Y2ZiZTlhNzZhZGMzZDA1MWQ2NTE2ZTI1ZWIyNzk2OGM2NDM0",
   "tracks": [
     {
       "added_at": "2023-07-20 22:00:00",
@@ -399,6 +399,26 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E"
+      },
+      "artists": [
+        {
+          "name": "Butch",
+          "url": "https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv"
+        },
+        {
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+        }
+      ],
+      "duration_ms": 187286,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
         "name": "Pasilda",
         "url": "https://open.spotify.com/album/7nTVeqrRHtGvTRCrrUmdoc"
       },
@@ -439,26 +459,6 @@
       "duration_ms": 214687,
       "name": "Out The Fire (At The Hotel) - Radio Edit",
       "url": "https://open.spotify.com/track/1xZOYV0Z6i7z0nAnyL1zmT"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E"
-      },
-      "artists": [
-        {
-          "name": "Butch",
-          "url": "https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv"
-        },
-        {
-          "name": "Nic Fanciulli",
-          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
-        }
-      ],
-      "duration_ms": 187286,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Hungry (For Love)",
-        "url": "https://open.spotify.com/album/2VhVESPvETnPjoM9XOoeRA"
-      },
-      "artists": [
-        {
-          "name": "LF SYSTEM",
-          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
-        }
-      ],
-      "duration_ms": 129375,
-      "name": "Hungry (For Love)",
-      "url": "https://open.spotify.com/track/4Uz7te06snSlkmcIwwAvkw"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
         "name": "My Mind",
         "url": "https://open.spotify.com/album/5Dk6CuF9SdE23YdfJUZLDd"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 167746,
       "name": "My Mind",
       "url": "https://open.spotify.com/track/1o0tOUwRDX6isTfSPxzXkD"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "Hungry (For Love)",
+        "url": "https://open.spotify.com/album/2VhVESPvETnPjoM9XOoeRA"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "duration_ms": 129375,
+      "name": "Hungry (For Love)",
+      "url": "https://open.spotify.com/track/4Uz7te06snSlkmcIwwAvkw"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
+        "name": "Burnin' Up",
+        "url": "https://open.spotify.com/album/4y3iXKpZJXlpbLRDV6MwlM"
+      },
+      "artists": [
+        {
+          "name": "Ben Van Kuringen",
+          "url": "https://open.spotify.com/artist/26l6VHwzbStlQFOsGqS0s2"
+        }
+      ],
+      "duration_ms": 158740,
+      "name": "Burnin' Up",
+      "url": "https://open.spotify.com/track/1NYFMZMcvu8eEdVIZOJJKz"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
         "name": "Assumptions (Jengi Remix)",
         "url": "https://open.spotify.com/album/2waZkaQGtcdGPWIkcUMxbQ"
       },
@@ -1763,18 +1779,22 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Burnin' Up",
-        "url": "https://open.spotify.com/album/4y3iXKpZJXlpbLRDV6MwlM"
+        "name": "Be Funky",
+        "url": "https://open.spotify.com/album/64IIYvUmAiRd7InY8Ik4Q3"
       },
       "artists": [
         {
-          "name": "Ben Van Kuringen",
-          "url": "https://open.spotify.com/artist/26l6VHwzbStlQFOsGqS0s2"
+          "name": "Dutchican Soul",
+          "url": "https://open.spotify.com/artist/4N3bEmG3H0UjxBI0PNhDTB"
+        },
+        {
+          "name": "Yogi",
+          "url": "https://open.spotify.com/artist/5B9P0p88CmlArc27XLyRnB"
         }
       ],
-      "duration_ms": 158740,
-      "name": "Burnin' Up",
-      "url": "https://open.spotify.com/track/1NYFMZMcvu8eEdVIZOJJKz"
+      "duration_ms": 207105,
+      "name": "Be Funky",
+      "url": "https://open.spotify.com/track/347yYEUgjRg4Db6ZFh0G2v"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -1819,42 +1839,26 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Be Funky",
-        "url": "https://open.spotify.com/album/64IIYvUmAiRd7InY8Ik4Q3"
+        "name": "It\u2019s Alright",
+        "url": "https://open.spotify.com/album/6iFgMXDNtmp5byEle3guZg"
       },
       "artists": [
         {
-          "name": "Dutchican Soul",
-          "url": "https://open.spotify.com/artist/4N3bEmG3H0UjxBI0PNhDTB"
+          "name": "Marshall Jefferson",
+          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
         },
         {
-          "name": "Yogi",
-          "url": "https://open.spotify.com/artist/5B9P0p88CmlArc27XLyRnB"
-        }
-      ],
-      "duration_ms": 207105,
-      "name": "Be Funky",
-      "url": "https://open.spotify.com/track/347yYEUgjRg4Db6ZFh0G2v"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
-        "name": "Head up High",
-        "url": "https://open.spotify.com/album/0Jn0pFULhYcDnEEG6QQHub"
-      },
-      "artists": [
-        {
-          "name": "Jason Herd",
-          "url": "https://open.spotify.com/artist/6NoGVcOrK4W1Xuxcl8hrCQ"
+          "name": "George Smeddles",
+          "url": "https://open.spotify.com/artist/5HT6hDqzq0B7EFlokN0hK2"
         },
         {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+          "name": "Paris Brightledge",
+          "url": "https://open.spotify.com/artist/0qYaFWcuXTF2AsQ49N6Kul"
         }
       ],
-      "duration_ms": 296000,
-      "name": "Head up High - Radio Edit",
-      "url": "https://open.spotify.com/track/4Rmf1ApAOj7iznhlGloqcV"
+      "duration_ms": 210181,
+      "name": "It\u2019s Alright",
+      "url": "https://open.spotify.com/track/3yilgLESv6zoBnGPsRM7Qh"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -1899,26 +1903,38 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "It\u2019s Alright",
-        "url": "https://open.spotify.com/album/6iFgMXDNtmp5byEle3guZg"
+        "name": "House Music (The Anthem)",
+        "url": "https://open.spotify.com/album/23X9hjUOBzrtzAhjp0EZie"
       },
       "artists": [
         {
-          "name": "Marshall Jefferson",
-          "url": "https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz"
-        },
-        {
-          "name": "George Smeddles",
-          "url": "https://open.spotify.com/artist/5HT6hDqzq0B7EFlokN0hK2"
-        },
-        {
-          "name": "Paris Brightledge",
-          "url": "https://open.spotify.com/artist/0qYaFWcuXTF2AsQ49N6Kul"
+          "name": "Tom Novy",
+          "url": "https://open.spotify.com/artist/1EVpn7mXyF07LuJqgUk6RX"
         }
       ],
-      "duration_ms": 210181,
-      "name": "It\u2019s Alright",
-      "url": "https://open.spotify.com/track/3yilgLESv6zoBnGPsRM7Qh"
+      "duration_ms": 256043,
+      "name": "House Music - Radio-Edit",
+      "url": "https://open.spotify.com/track/3BaOvxpetcgkgs1KM6o4k6"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "Head up High",
+        "url": "https://open.spotify.com/album/0Jn0pFULhYcDnEEG6QQHub"
+      },
+      "artists": [
+        {
+          "name": "Jason Herd",
+          "url": "https://open.spotify.com/artist/6NoGVcOrK4W1Xuxcl8hrCQ"
+        },
+        {
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "Head up High - Radio Edit",
+      "url": "https://open.spotify.com/track/4Rmf1ApAOj7iznhlGloqcV"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -1935,22 +1951,6 @@
       "duration_ms": 189798,
       "name": "Chance To Dance",
       "url": "https://open.spotify.com/track/6T9cSQMRmd1sJC6UJLYywZ"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
-        "name": "House Music (The Anthem)",
-        "url": "https://open.spotify.com/album/23X9hjUOBzrtzAhjp0EZie"
-      },
-      "artists": [
-        {
-          "name": "Tom Novy",
-          "url": "https://open.spotify.com/artist/1EVpn7mXyF07LuJqgUk6RX"
-        }
-      ],
-      "duration_ms": 256043,
-      "name": "House Music - Radio-Edit",
-      "url": "https://open.spotify.com/track/3BaOvxpetcgkgs1KM6o4k6"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -2055,22 +2055,6 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Think About You",
-        "url": "https://open.spotify.com/album/3dTfmlo34vmVlv9Zk1Jgc1"
-      },
-      "artists": [
-        {
-          "name": "Mohtiv",
-          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
-        }
-      ],
-      "duration_ms": 178306,
-      "name": "Think About You",
-      "url": "https://open.spotify.com/track/5d5VMeHx2y623Ejj5JHC8m"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
         "name": "Freedom (You Bring Me)",
         "url": "https://open.spotify.com/album/0qOobOFo9xvOSFRd4pAxZP"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 188920,
       "name": "Freedom (You Bring Me)",
       "url": "https://open.spotify.com/track/2I0EV5B4RgDQPcSuDGzz2N"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "Think About You",
+        "url": "https://open.spotify.com/album/3dTfmlo34vmVlv9Zk1Jgc1"
+      },
+      "artists": [
+        {
+          "name": "Mohtiv",
+          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
+        }
+      ],
+      "duration_ms": 178306,
+      "name": "Think About You",
+      "url": "https://open.spotify.com/track/5d5VMeHx2y623Ejj5JHC8m"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -2583,26 +2583,6 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Never Seen You Dance (Demi Riqu\u00edsimo Remix)",
-        "url": "https://open.spotify.com/album/7DUxxi3K83DylaxT9jqCC3"
-      },
-      "artists": [
-        {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        },
-        {
-          "name": "Demi Riqu\u00edsimo",
-          "url": "https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac"
-        }
-      ],
-      "duration_ms": 328356,
-      "name": "Never Seen You Dance - Demi Riqu\u00edsimo Remix",
-      "url": "https://open.spotify.com/track/64kBKl5m9YXX2l8KCn9rVP"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
         "name": "Une Nuit \u00c0 La Cour EP",
         "url": "https://open.spotify.com/album/67q0iSaE7ylm1OFudYVWA6"
       },
@@ -2623,18 +2603,22 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Organ",
-        "url": "https://open.spotify.com/album/3r9Q20TK6MIkM3CbsaFPIy"
+        "name": "Never Seen You Dance (Demi Riqu\u00edsimo Remix)",
+        "url": "https://open.spotify.com/album/7DUxxi3K83DylaxT9jqCC3"
       },
       "artists": [
         {
-          "name": "CINTHIE",
-          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        },
+        {
+          "name": "Demi Riqu\u00edsimo",
+          "url": "https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac"
         }
       ],
-      "duration_ms": 216774,
-      "name": "Organ (DJ-Kicks) - Edit",
-      "url": "https://open.spotify.com/track/0NPDoArWeGDBcGzO5m7g4t"
+      "duration_ms": 328356,
+      "name": "Never Seen You Dance - Demi Riqu\u00edsimo Remix",
+      "url": "https://open.spotify.com/track/64kBKl5m9YXX2l8KCn9rVP"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -2659,6 +2643,22 @@
       "duration_ms": 238376,
       "name": "Drop The Pressure - Sonny Fodera Remix",
       "url": "https://open.spotify.com/track/0W3QlGq4NUOZvUnYjiJa6u"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "Organ",
+        "url": "https://open.spotify.com/album/3r9Q20TK6MIkM3CbsaFPIy"
+      },
+      "artists": [
+        {
+          "name": "CINTHIE",
+          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
+        }
+      ],
+      "duration_ms": 216774,
+      "name": "Organ (DJ-Kicks) - Edit",
+      "url": "https://open.spotify.com/track/0NPDoArWeGDBcGzO5m7g4t"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -2751,26 +2751,6 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Bangene",
-        "url": "https://open.spotify.com/album/5nQmadlbC2c58qYqXfzudk"
-      },
-      "artists": [
-        {
-          "name": "Gregor Salto",
-          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
-        },
-        {
-          "name": "BCUC",
-          "url": "https://open.spotify.com/artist/5CGnQOjeOoZW4a4FoPhUxW"
-        }
-      ],
-      "duration_ms": 165853,
-      "name": "Bangene",
-      "url": "https://open.spotify.com/track/4u913jJW52x8fqJlQBTrig"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
         "name": "Spaces and Places",
         "url": "https://open.spotify.com/album/4Q4G4hrAms9J3mYmofZlrT"
       },
@@ -2791,6 +2771,26 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
+        "name": "Bangene",
+        "url": "https://open.spotify.com/album/5nQmadlbC2c58qYqXfzudk"
+      },
+      "artists": [
+        {
+          "name": "Gregor Salto",
+          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
+        },
+        {
+          "name": "BCUC",
+          "url": "https://open.spotify.com/artist/5CGnQOjeOoZW4a4FoPhUxW"
+        }
+      ],
+      "duration_ms": 165853,
+      "name": "Bangene",
+      "url": "https://open.spotify.com/track/4u913jJW52x8fqJlQBTrig"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
         "name": "Good Woman (Edit)",
         "url": "https://open.spotify.com/album/2wY62BWaup5b7NB02dNPxm"
       },
@@ -2803,6 +2803,22 @@
       "duration_ms": 215768,
       "name": "Good Woman - Edit",
       "url": "https://open.spotify.com/track/3moxYB3Zti5dXy9dIDlBrR"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "Fiesta en el Cielo EP",
+        "url": "https://open.spotify.com/album/4vyjGa1RxCZuPv5Q6AfZ0Q"
+      },
+      "artists": [
+        {
+          "name": "Kenny Brian",
+          "url": "https://open.spotify.com/artist/11Wf5ZORjHp2zPQxbRTyKc"
+        }
+      ],
+      "duration_ms": 140811,
+      "name": "Fiesta en el Cielo",
+      "url": "https://open.spotify.com/track/19HppP8DRZMJU15pXel51k"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -2827,22 +2843,6 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "On Da Groove",
-        "url": "https://open.spotify.com/album/0KJqUg1zkiFL6df3ZmOXfI"
-      },
-      "artists": [
-        {
-          "name": "Stef Davidse",
-          "url": "https://open.spotify.com/artist/7JXk6wlswhEGYkmtpdqYEX"
-        }
-      ],
-      "duration_ms": 312000,
-      "name": "On Da Groove",
-      "url": "https://open.spotify.com/track/3jotybhgTZeCqXFMqzfInI"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
         "name": "In My Soul",
         "url": "https://open.spotify.com/album/5qGTRXeMm43C7brMe0TdNl"
       },
@@ -2859,18 +2859,18 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Fiesta en el Cielo EP",
-        "url": "https://open.spotify.com/album/4vyjGa1RxCZuPv5Q6AfZ0Q"
+        "name": "On Da Groove",
+        "url": "https://open.spotify.com/album/0KJqUg1zkiFL6df3ZmOXfI"
       },
       "artists": [
         {
-          "name": "Kenny Brian",
-          "url": "https://open.spotify.com/artist/11Wf5ZORjHp2zPQxbRTyKc"
+          "name": "Stef Davidse",
+          "url": "https://open.spotify.com/artist/7JXk6wlswhEGYkmtpdqYEX"
         }
       ],
-      "duration_ms": 140811,
-      "name": "Fiesta en el Cielo",
-      "url": "https://open.spotify.com/track/19HppP8DRZMJU15pXel51k"
+      "duration_ms": 312000,
+      "name": "On Da Groove",
+      "url": "https://open.spotify.com/track/3jotybhgTZeCqXFMqzfInI"
     }
   ],
   "unique_name": "House Supreme",

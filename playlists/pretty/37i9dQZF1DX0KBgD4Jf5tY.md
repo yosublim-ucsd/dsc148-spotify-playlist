@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica italiana indipendente, aggiornata ogni mercoledì\. Cover: <a href="spotify:artist:0d8W1CF5vivAV6Fps5ELPZ">La Messa</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,100 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,103 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 49 | [Sleep Baby](https://open.spotify.com/track/0CNqOVBbNDAcWlyTaFgonI) | [Kuni](https://open.spotify.com/artist/3NRwU9dSKi9QKRDnsQI9pG) | [Sleep Baby](https://open.spotify.com/album/42y5EufFsZNa2nmCMwjajk) | 2:38 |
 | 50 | [Seta calante](https://open.spotify.com/track/4EMFNsoX8uNFaj5TgYxY9T) | [AKA5HA](https://open.spotify.com/artist/68OhnLZAssjyMJueiCX7jf) | [Seta calante](https://open.spotify.com/album/04mP1wcQ99OobnrOjhK4fW) | 2:43 |
 
-Snapshot ID: `MCw2MGExOTkzMGVhZTllMzNmMTEzMDZmNTcwMTBiNjQxZGNlM2NmNDdm`
+Snapshot ID: `MCwzYTZlYTFjM2ViNmU5MTdjZGM0Y2VjYjU1OGY2MzNkZTNmNDk4YjIy`

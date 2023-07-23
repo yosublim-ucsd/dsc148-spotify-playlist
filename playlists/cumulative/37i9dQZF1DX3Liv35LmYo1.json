@@ -663,6 +663,28 @@
     },
     {
       "album": {
+        "name": "The Time Is Right",
+        "url": "https://open.spotify.com/album/09ZI5fmiFgqISZbUD15CLo"
+      },
+      "artists": [
+        {
+          "name": "DJ Marky",
+          "url": "https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV"
+        },
+        {
+          "name": "Pola & Bryson",
+          "url": "https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253793,
+      "name": "Colours Of My Mind",
+      "url": "https://open.spotify.com/track/6Tsgdnj9ezGo6cIgOKbl1m"
+    },
+    {
+      "album": {
         "name": "Condition",
         "url": "https://open.spotify.com/album/4SeGILepZRhket1VhSA8DV"
       },
@@ -1474,7 +1496,7 @@
       ],
       "date_added": "2023-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-23",
       "duration_ms": 214920,
       "name": "In Response",
       "url": "https://open.spotify.com/track/2Twprkt2frZEbhG3ADc3BF"
@@ -1986,7 +2008,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-23",
       "duration_ms": 337266,
       "name": "Plastic Future",
       "url": "https://open.spotify.com/track/3r0MPlszKS3iIYcZOAJDME"
@@ -2780,6 +2802,24 @@
       "duration_ms": 317183,
       "name": "Ultra Truth",
       "url": "https://open.spotify.com/track/5XJbxQd5go9wRFpYq4fChY"
+    },
+    {
+      "album": {
+        "name": "Infirmary / Unknown Summer",
+        "url": "https://open.spotify.com/album/5ZlBVAiMNEnlgrXGNu1tiE"
+      },
+      "artists": [
+        {
+          "name": "Burial",
+          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 580834,
+      "name": "Unknown Summer",
+      "url": "https://open.spotify.com/track/4ulN5Xnx05Vkzq3tSqTGGP"
     },
     {
       "album": {

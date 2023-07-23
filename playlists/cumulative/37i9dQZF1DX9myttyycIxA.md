@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: Geese
 
-1,007 songs - 2 day 9 hr 21 min
+1,008 songs - 2 day 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -422,7 +422,8 @@
 | [Headland](https://open.spotify.com/track/5eOpEzv3ftBbzS7tkVOimJ) | [Ruby Haunt](https://open.spotify.com/artist/7LpofGzdLlzTnTLOFUhDD5) | [Cures for Opposites](https://open.spotify.com/album/6hNwZmO8FIXPhhQKrbew75) | 4:14 | 2022-11-07 | 2023-05-27 |
 | [Heartbreak Rules](https://open.spotify.com/track/1LedFrOIttg8GidthtZJpF) | [Horse Jumper of Love](https://open.spotify.com/artist/6U1lmwvy3I9dIYu9RalJi6) | [Heartbreak Rules](https://open.spotify.com/album/4bPspFQjjplnW3564NNnxu) | 2:06 | 2023-05-19 | 2023-06-10 |
 | [Heaven in Your Head](https://open.spotify.com/track/4GBxHpWJ8kF8w1hX8pw4VL) | [Nuclear Daisies](https://open.spotify.com/artist/4YeyVA4cQEijNzJIBMqYOo) | [Heaven in Your Head](https://open.spotify.com/album/1ijAzqI3b0LJdS0fgWaDJ1) | 3:14 | 2022-05-06 | 2022-10-01 |
-| [Heaven Is Your Company](https://open.spotify.com/track/5FuSWZB44fvaG86WNoZIPn) | [Death Bells](https://open.spotify.com/artist/14aKkOrkqm6amS81rUMZPg) | [Heaven Is Your Company](https://open.spotify.com/album/2DGj34CUI2CdjstGXkAtRN) | 3:09 | 2023-06-15 |  |
+| [Heaven Is Your Company](https://open.spotify.com/track/5FuSWZB44fvaG86WNoZIPn) | [Death Bells](https://open.spotify.com/artist/14aKkOrkqm6amS81rUMZPg) | [Heaven Is Your Company](https://open.spotify.com/album/2DGj34CUI2CdjstGXkAtRN) | 3:09 | 2023-06-15 | 2023-07-23 |
+| [Heaven Is Your Company](https://open.spotify.com/track/7kZs1XgzlyQhMNHLzPA9cj) | [Death Bells](https://open.spotify.com/artist/14aKkOrkqm6amS81rUMZPg) | [Take My Spirit Now](https://open.spotify.com/album/5icbSNSho1t6Yc82qWC0vR) | 3:09 | 2023-06-15 |  |
 | [Hello, Hi](https://open.spotify.com/track/6IVk7Q7oc6rDBIvj77HUD2) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Hello, Hi](https://open.spotify.com/album/15SPCpxHawJKpc7y3x4wqx) | 2:46 | 2022-04-29 | 2022-05-18 |
 | [Her](https://open.spotify.com/track/3vOfOukwKoWE6AGRXscucS) | [FUR](https://open.spotify.com/artist/0e0z6v7dIm0XM7BgQTtB0a) | [Her](https://open.spotify.com/album/5SlWmYvt5uc2ga9MmkUxBH) | 3:51 | 2022-08-05 | 2023-05-20 |
 | [Here](https://open.spotify.com/track/7N0QvvRIhXZ0bT4uSkH9up) | [Meyru](https://open.spotify.com/artist/4keWylzqUIJiaFfq6Ox0nB) | [Here](https://open.spotify.com/album/7DKTCusn3ob9PhbY3veVgL) | 4:04 | 2023-04-28 | 2023-06-16 |

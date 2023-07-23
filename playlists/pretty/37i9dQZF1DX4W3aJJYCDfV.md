@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Stormzy + Raye \(pictured\), ZAYN, Ice Spice and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 835,253 likes - 147 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 835,316 likes - 147 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 35 | [Cool With You](https://open.spotify.com/track/02wk5BttM0QL38ERjLPQJB) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 2nd EP 'Get Up'](https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18) | 2:27 |
 | 36 | [Brilliant Mind](https://open.spotify.com/track/2maR0wuP92sNy48SMVowzZ) | [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [Brilliant Mind](https://open.spotify.com/album/59FcOmk7WRkJCRrv4gQJ5e) | 2:17 |
 | 37 | [Far Too Much \- Edit](https://open.spotify.com/track/7IwYXEY1pLVnoWlmvdmMU1) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Far Too Much \(Edit\)](https://open.spotify.com/album/3lX0OPG0tJAgcNjsUCmKm2) | 3:15 |
-| 38 | [win your love \- Radio Edit](https://open.spotify.com/track/3sw09qpH0FM5PRKcgJ358h) | [SHEE](https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv) | [win your love \(Radio Edit\)](https://open.spotify.com/album/7rgMBpHoFHoyMFmoDmblst) | 3:35 |
+| 38 | [win your love](https://open.spotify.com/track/3sw09qpH0FM5PRKcgJ358h) | [SHEE](https://open.spotify.com/artist/1jrRLqDsOOKIagQXYPq2Iv) | [win your love](https://open.spotify.com/album/7rgMBpHoFHoyMFmoDmblst) | 3:35 |
 | 39 | [Choose Your Fighter \(From Barbie The Album\)](https://open.spotify.com/track/3SexEc7om0q1awRqi8nCd1) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Choose Your Fighter \(From Barbie The Album\)](https://open.spotify.com/album/718h0CzRHO6ums1CTrB5L1) | 2:17 |
 | 40 | [Too Fast \(Pull Over\) \(with Anderson .Paak & Latto\)](https://open.spotify.com/track/6vz3Fyhj6smbuYuaIZHksu) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Too Fast \(Pull Over\) \(with Anderson .Paak & Latto\)](https://open.spotify.com/album/1KNyxPSXQoZJ2KMQySCUUo) | 3:46 |
 | 41 | [What You Done](https://open.spotify.com/track/5IouffaYEX67BICjTSCckE) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3), [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [What You Done](https://open.spotify.com/album/1Ov1O2B3CeuAmHhFG5f0yL) | 2:54 |
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 80 | [Blacked Out](https://open.spotify.com/track/0Hv8BT3S6Ww0qV5EfIgxJS) | [Yxng Dave](https://open.spotify.com/artist/1zpptQ5p9E7oIfWsfNCf9n), [Chip](https://open.spotify.com/artist/0tJCNteqwm7LmRZ6KWr8GT), [DJ Fricktion](https://open.spotify.com/artist/77G0QBYtNoaVhQcpkpAsGU) | [Blacked Out](https://open.spotify.com/album/6dZoGjRpfdW0VkYrIT1hfi) | 2:19 |
 | 81 | [I Know](https://open.spotify.com/track/6CyMr0iiErMiwbtUvUCMmv) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD) | [I Know](https://open.spotify.com/album/0PeuO0ofVdQ2RTy6OFysjz) | 3:30 |
 | 82 | [Bounce](https://open.spotify.com/track/3PU3EFLStwouUMxiB9yk3w) | [Ellie Dixon](https://open.spotify.com/artist/4mvJltDSlBawXCZhq6NAso) | [In Case Of Emergency](https://open.spotify.com/album/2AuaATkaI9VKHuJ4Yi5zSd) | 2:56 |
-| 83 | [Choosing You \(feat\. azuki\)](https://open.spotify.com/track/2SSHPogg6gOiiwUZq4Gs5m) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL), [Azuki](https://open.spotify.com/artist/0GbGRkXNWlDdYRxuRVtztp) | [Can't Commit](https://open.spotify.com/album/6asRCC3guaIZsAmru42abp) | 3:25 |
+| 83 | [Choosing You \(feat\. azuki\)](https://open.spotify.com/track/2SSHPogg6gOiiwUZq4Gs5m) | [Arz](https://open.spotify.com/artist/369T15zvlCiF4zAzdZNhQL), [azuki](https://open.spotify.com/artist/5T2CGAtjVSa7GRgLxAgyCc) | [Can't Commit](https://open.spotify.com/album/6asRCC3guaIZsAmru42abp) | 3:25 |
 | 84 | [Scissors](https://open.spotify.com/track/0jIXZaSMj34eUHgMJcWxvk) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Scissors](https://open.spotify.com/album/5JaPTF6lQBgfvhPb7zjYo2) | 4:39 |
 | 85 | [High \(On Your Memory\)](https://open.spotify.com/track/27jHsXkSK6dFcGO03ccBON) | [Duvall](https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc), [MALARKEY](https://open.spotify.com/artist/3Wx6i3YgqSGlvxVTS4UsMV) | [High \(On Your Memory\)](https://open.spotify.com/album/0TmMwJH4ncYqwzsOlSkJKo) | 3:02 |
 | 86 | [Time To Smile](https://open.spotify.com/track/1OWGvI17cxmFMilKKigme3) | [Alex Amor](https://open.spotify.com/artist/5Zyv8W3WkYfo1PTbVBBHs0) | [Time To Smile](https://open.spotify.com/album/0H5TPfIplr5ZhkNsR3ujqX) | 2:58 |
@@ -121,7 +121,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 111 | [What You Need](https://open.spotify.com/track/2KR32tVW39lfG4tO1yOwdq) | [Steve Angello](https://open.spotify.com/artist/4FqPRilb0Ja0TKG3RS3y4s), [Wh0](https://open.spotify.com/artist/132Hhe61bhvXtkygENHZHA) | [What You Need](https://open.spotify.com/album/36WVqPt4HocsuiPQer82ob) | 3:38 |
 | 112 | [unposted letters](https://open.spotify.com/track/2IvWwO7uGWthBDqifdv9kc) | [Liang Lawrence](https://open.spotify.com/artist/3nMWhKVpR0rMn7WFZ0XQoQ) | [unposted letters](https://open.spotify.com/album/6GHaGnLbjpvGCqXWxQpemG) | 3:25 |
 | 113 | [Where Are They Now?](https://open.spotify.com/track/7DxYIRK5Nq6OxbtfzM8t5X) | [Hilts](https://open.spotify.com/artist/2UvkNW59ABnaOlkGXCGxot), [Nix Northwest](https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt) | [Where Are They Now?](https://open.spotify.com/album/6YEHNXYcrTYsGZtRn5sjCb) | 4:20 |
-| 114 | [Colours Of My Mind](https://open.spotify.com/track/6Tsgdnj9ezGo6cIgOKbl1m) | [DJ Marky](https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV) | [The Time Is Right](https://open.spotify.com/album/09ZI5fmiFgqISZbUD15CLo) | 4:13 |
+| 114 | [Colours Of My Mind](https://open.spotify.com/track/6Tsgdnj9ezGo6cIgOKbl1m) | [DJ Marky](https://open.spotify.com/artist/1rd51IrbtX9DqoU0Zxu4TV), [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr) | [The Time Is Right](https://open.spotify.com/album/09ZI5fmiFgqISZbUD15CLo) | 4:13 |
 | 115 | [Now I'm The Fool](https://open.spotify.com/track/7wQlEPz7M6TvqkuCFma4yc) | [Angelina Jordan](https://open.spotify.com/artist/0iQDOaYEA5i9RAF0Z73iXb) | [Old Enough](https://open.spotify.com/album/6dLrkt8x23Xxt2fnBWHFny) | 3:07 |
 | 116 | [Know Someone](https://open.spotify.com/track/0cTNeoYonQaeArcopcPt73) | [Kiimi](https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S) | [Know Someone](https://open.spotify.com/album/4pAP4YIHv1v7qrpxyhRLbf) | 4:20 |
 | 117 | [The Indigo Streak](https://open.spotify.com/track/57bBIId9EiuZEMzNA54bKk) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Starcatcher](https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE) | 4:04 |
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 146 | [Find Me \(Blank Page Edit\)](https://open.spotify.com/track/0PtCxCUaNAGfghi7Mg1NB2) | [Vertefeuille](https://open.spotify.com/artist/3gXakrGYirVsWpOVlEmOaO), [Blank Page](https://open.spotify.com/artist/1ZwCQVciFsCneJFpwSdA0r) | [Find Me \(Deluxe\)](https://open.spotify.com/album/5B0Bxoa9p4zDIN2xbCTvFp) | 2:42 |
 | 147 | [Terra Incognita](https://open.spotify.com/track/2SAxp3KwUbk3hzrZEALCVt) | [Bawo](https://open.spotify.com/artist/1nrJKGxkiSY6FjJRXcc9CB) | [Terra Incognita](https://open.spotify.com/album/5BwcoQGiKmDxSfMbVNq8go) | 3:20 |
 
-Snapshot ID: `MCxiMjM0NGJiNWQ0ZWFlMmNmNTZhZThiY2MzMjIwYjI3NjU2Mzk1ZWUy`
+Snapshot ID: `MCwwZTEwMzk4MmFkYjBmZjZiNmIxYjJiNjkwZGRkY2Y4Zjk0ZGJhMGY2`

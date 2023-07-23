@@ -1,12 +1,12 @@
 {
   "description": "Drift away with enthralling instrumentals.",
-  "num_followers": 633886,
+  "num_followers": 633909,
   "original_name": "DayDreamer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTM4ZWU3ZTQ5NTQyYmJkZDI5ZjJiNjQ1MTY5ODVhMGE0OTA4Nzg1",
+  "snapshot_id": "MCwxY2Y2YzA5OTgzNmQyMWZlYjQ0YjJiMjJjZGE0ZGM2NjZiZjU1N2Y4",
   "tracks": [
     {
       "added_at": "2023-07-14 00:01:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "The Unforgetting Heart",
-        "url": "https://open.spotify.com/album/2VJzpfkWxjCDkBEaoALdEG"
-      },
-      "artists": [
-        {
-          "name": "Michael Hopp\u00e9",
-          "url": "https://open.spotify.com/artist/7xwtpo11n9GHMFZUg2kLJK"
-        }
-      ],
-      "duration_ms": 271893,
-      "name": "Eventide",
-      "url": "https://open.spotify.com/track/7szRAnIxz9i8lV83LdrDAm"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
         "name": "My Halo Orbit",
         "url": "https://open.spotify.com/album/3cwIS81w4HcrlgE6RCg3WA"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 199923,
       "name": "My Halo Orbit",
       "url": "https://open.spotify.com/track/2p2mFunyYlzwWAOomLVEKt"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
+        "name": "The Unforgetting Heart",
+        "url": "https://open.spotify.com/album/2VJzpfkWxjCDkBEaoALdEG"
+      },
+      "artists": [
+        {
+          "name": "Michael Hopp\u00e9",
+          "url": "https://open.spotify.com/artist/7xwtpo11n9GHMFZUg2kLJK"
+        }
+      ],
+      "duration_ms": 271893,
+      "name": "Eventide",
+      "url": "https://open.spotify.com/track/7szRAnIxz9i8lV83LdrDAm"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "Charcoal",
-        "url": "https://open.spotify.com/album/6wIw0on4JGm2gdtfSs0h9f"
-      },
-      "artists": [
-        {
-          "name": "Brambles",
-          "url": "https://open.spotify.com/artist/0sNXk2NCcF4VpqvJ0KRffX"
-        }
-      ],
-      "duration_ms": 329773,
-      "name": "Such Owls As You",
-      "url": "https://open.spotify.com/track/3EIrbAYM18GhcimENnuO91"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
         "name": "Arrivals",
         "url": "https://open.spotify.com/album/2916XN3NlK1G7JQhsxIhRz"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 188000,
       "name": "Takamatsu",
       "url": "https://open.spotify.com/track/2aYiFoNV3dRUckwX6KJdLS"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
+        "name": "Charcoal",
+        "url": "https://open.spotify.com/album/6wIw0on4JGm2gdtfSs0h9f"
+      },
+      "artists": [
+        {
+          "name": "Brambles",
+          "url": "https://open.spotify.com/artist/0sNXk2NCcF4VpqvJ0KRffX"
+        }
+      ],
+      "duration_ms": 329773,
+      "name": "Such Owls As You",
+      "url": "https://open.spotify.com/track/3EIrbAYM18GhcimENnuO91"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "Even Silence",
-        "url": "https://open.spotify.com/album/5AOSpri4QnbpLT0aTVvBcj"
-      },
-      "artists": [
-        {
-          "name": "Sadia Leys",
-          "url": "https://open.spotify.com/artist/12oCsQ3twydLkl0RigltLK"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Even Silence",
-      "url": "https://open.spotify.com/track/13UDiSFsM5AmnAvMZqK61r"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
         "name": "Beautiful Morning",
         "url": "https://open.spotify.com/album/0Mqhh958wkwxu4UvUAQos0"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 252000,
       "name": "First Day",
       "url": "https://open.spotify.com/track/2Wsu9gvKCWRXLA1nEdFfXt"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
+        "name": "Even Silence",
+        "url": "https://open.spotify.com/album/5AOSpri4QnbpLT0aTVvBcj"
+      },
+      "artists": [
+        {
+          "name": "Sadia Leys",
+          "url": "https://open.spotify.com/artist/12oCsQ3twydLkl0RigltLK"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Even Silence",
+      "url": "https://open.spotify.com/track/13UDiSFsM5AmnAvMZqK61r"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "Meadow / Forests",
-        "url": "https://open.spotify.com/album/7HvFAw0jmKpcn78c5LyDur"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Winskog",
-          "url": "https://open.spotify.com/artist/7u3qMD0XE43b26dN6FgmZb"
-        }
-      ],
-      "duration_ms": 140878,
-      "name": "Forests",
-      "url": "https://open.spotify.com/track/07c4gDvK93SjexpBDtHL3o"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
         "name": "Softly",
         "url": "https://open.spotify.com/album/1vjK9hSqKvWZq30rD1Zpin"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 145768,
       "name": "Softly",
       "url": "https://open.spotify.com/track/0X70gdVmAI0mu7iDTnvjra"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
+        "name": "Meadow / Forests",
+        "url": "https://open.spotify.com/album/7HvFAw0jmKpcn78c5LyDur"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Winskog",
+          "url": "https://open.spotify.com/artist/7u3qMD0XE43b26dN6FgmZb"
+        }
+      ],
+      "duration_ms": 140878,
+      "name": "Forests",
+      "url": "https://open.spotify.com/track/07c4gDvK93SjexpBDtHL3o"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "Myriads",
-        "url": "https://open.spotify.com/album/4Xkij5Ve4jgQ9qFAIBZoCr"
-      },
-      "artists": [
-        {
-          "name": "12dust",
-          "url": "https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J"
-        }
-      ],
-      "duration_ms": 175250,
-      "name": "Myriads",
-      "url": "https://open.spotify.com/track/5JUL9mfxiKDuBx4H3ZZJAD"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
         "name": "Lumiere",
         "url": "https://open.spotify.com/album/1EHS63JLrpttlvWRdSvQE3"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 168000,
       "name": "Lumiere",
       "url": "https://open.spotify.com/track/3hwdOeUfiDpXZi7hNzM1Ho"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
+        "name": "Myriads",
+        "url": "https://open.spotify.com/album/4Xkij5Ve4jgQ9qFAIBZoCr"
+      },
+      "artists": [
+        {
+          "name": "12dust",
+          "url": "https://open.spotify.com/artist/14gSyhJmT6Vl9e4vJCxF5J"
+        }
+      ],
+      "duration_ms": 175250,
+      "name": "Myriads",
+      "url": "https://open.spotify.com/track/5JUL9mfxiKDuBx4H3ZZJAD"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
+        "name": "The Light of Day",
+        "url": "https://open.spotify.com/album/7mMVxWIPhNEyozLDXxqw71"
+      },
+      "artists": [
+        {
+          "name": "Chymeris",
+          "url": "https://open.spotify.com/artist/2WuwBckoWivO9e7DgRFt6F"
+        }
+      ],
+      "duration_ms": 167386,
+      "name": "The Light of Day",
+      "url": "https://open.spotify.com/track/214O1Gcgv9lCWJoley3Ttg"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
         "name": "Surface",
         "url": "https://open.spotify.com/album/15TlhBkBFqzJzIUBxv0CH6"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 162500,
       "name": "Hvis du bare vidste",
       "url": "https://open.spotify.com/track/7vGejPhO5QFV6H8U5eMPmL"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
-        "name": "The Light of Day",
-        "url": "https://open.spotify.com/album/7mMVxWIPhNEyozLDXxqw71"
-      },
-      "artists": [
-        {
-          "name": "Chymeris",
-          "url": "https://open.spotify.com/artist/2WuwBckoWivO9e7DgRFt6F"
-        }
-      ],
-      "duration_ms": 167386,
-      "name": "The Light of Day",
-      "url": "https://open.spotify.com/track/214O1Gcgv9lCWJoley3Ttg"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "Son\u00e1mbulos",
-        "url": "https://open.spotify.com/album/5ZD37ffzlkkgsDPA6Ayc4V"
+        "name": "Floating Hearts",
+        "url": "https://open.spotify.com/album/5EoiOmTiADBanOUgtYbWSg"
       },
       "artists": [
         {
-          "name": "Abril Iluso",
-          "url": "https://open.spotify.com/artist/4VaiVpNkuR1Al07mvPZZXd"
+          "name": "Julyan Brynn",
+          "url": "https://open.spotify.com/artist/4M5Z3s7BTxyZuifI4YWp6v"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Son\u00e1mbulos",
-      "url": "https://open.spotify.com/track/2VGNut5q4xdof5VwISg3kX"
+      "duration_ms": 199831,
+      "name": "Svalbard",
+      "url": "https://open.spotify.com/track/4JfiZjxURRSroTqETjK2za"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "Floating Hearts",
-        "url": "https://open.spotify.com/album/5EoiOmTiADBanOUgtYbWSg"
-      },
-      "artists": [
-        {
-          "name": "Julyan Brynn",
-          "url": "https://open.spotify.com/artist/4M5Z3s7BTxyZuifI4YWp6v"
-        }
-      ],
-      "duration_ms": 199831,
-      "name": "Svalbard",
-      "url": "https://open.spotify.com/track/4JfiZjxURRSroTqETjK2za"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
         "name": "Dreams of Mercury",
         "url": "https://open.spotify.com/album/20w0DgJyuI0CcvKQ5CukmL"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 192748,
       "name": "Dreams of Mercury",
       "url": "https://open.spotify.com/track/2M6elrz0YlVFCH4VW7cs6o"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
+        "name": "Son\u00e1mbulos",
+        "url": "https://open.spotify.com/album/5ZD37ffzlkkgsDPA6Ayc4V"
+      },
+      "artists": [
+        {
+          "name": "Abril Iluso",
+          "url": "https://open.spotify.com/artist/4VaiVpNkuR1Al07mvPZZXd"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Son\u00e1mbulos",
+      "url": "https://open.spotify.com/track/2VGNut5q4xdof5VwISg3kX"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "Somi",
-        "url": "https://open.spotify.com/album/1RPe8vnWTQCXJhmfwFOJDU"
-      },
-      "artists": [
-        {
-          "name": "Taylor Deupree",
-          "url": "https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T"
-        }
-      ],
-      "duration_ms": 227093,
-      "name": "Minism",
-      "url": "https://open.spotify.com/track/6bJVQy8VspBFEWHlaoxbY5"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
         "name": "Distant Voices",
         "url": "https://open.spotify.com/album/7awFxbltxhtOq6iakKUof5"
       },
@@ -1315,18 +1299,18 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "Black Hole",
-        "url": "https://open.spotify.com/album/6hBR6PiXKh6HpMhBb7UcDW"
+        "name": "Somi",
+        "url": "https://open.spotify.com/album/1RPe8vnWTQCXJhmfwFOJDU"
       },
       "artists": [
         {
-          "name": "Astro.Not",
-          "url": "https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS"
+          "name": "Taylor Deupree",
+          "url": "https://open.spotify.com/artist/4X3dUbGsTpVH6EbxtWnj6T"
         }
       ],
-      "duration_ms": 165333,
-      "name": "Black Hole",
-      "url": "https://open.spotify.com/track/7nKDcvT0DdqI2FQNUrxico"
+      "duration_ms": 227093,
+      "name": "Minism",
+      "url": "https://open.spotify.com/track/6bJVQy8VspBFEWHlaoxbY5"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -1375,6 +1359,22 @@
       "duration_ms": 112660,
       "name": "Aftermath",
       "url": "https://open.spotify.com/track/1tlMeO99ebk4LXwB5oqcmX"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
+        "name": "Black Hole",
+        "url": "https://open.spotify.com/album/6hBR6PiXKh6HpMhBb7UcDW"
+      },
+      "artists": [
+        {
+          "name": "Astro.Not",
+          "url": "https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/7nKDcvT0DdqI2FQNUrxico"
     },
     {
       "added_at": "2023-07-14 00:01:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-07-14 00:01:00",
       "album": {
-        "name": "Ver Weg",
-        "url": "https://open.spotify.com/album/4AxpA6SoCBa7cWqMVrIrQO"
-      },
-      "artists": [
-        {
-          "name": "Pauline Huijbers",
-          "url": "https://open.spotify.com/artist/0GipzWTQjjaxqU7mtmNq2o"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Ver Weg",
-      "url": "https://open.spotify.com/track/1UbYOb8VDHmEyDO6S3UtGU"
-    },
-    {
-      "added_at": "2023-07-14 00:01:00",
-      "album": {
         "name": "Neend",
         "url": "https://open.spotify.com/album/1JKk0JTE1wSml1uHTYIOBo"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 157306,
       "name": "Neend",
       "url": "https://open.spotify.com/track/2NYZLz3zPsLt5pZlLbN2zQ"
+    },
+    {
+      "added_at": "2023-07-14 00:01:00",
+      "album": {
+        "name": "Ver Weg",
+        "url": "https://open.spotify.com/album/4AxpA6SoCBa7cWqMVrIrQO"
+      },
+      "artists": [
+        {
+          "name": "Pauline Huijbers",
+          "url": "https://open.spotify.com/artist/0GipzWTQjjaxqU7mtmNq2o"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Ver Weg",
+      "url": "https://open.spotify.com/track/1UbYOb8VDHmEyDO6S3UtGU"
     },
     {
       "added_at": "2023-07-14 00:01:00",

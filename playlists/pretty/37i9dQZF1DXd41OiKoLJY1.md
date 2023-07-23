@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Polo Pi Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,199 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,204 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 74 | [Hiwaga](https://open.spotify.com/track/7klPzCSFQUjii4cVf0IFTO) | [Joshua Feliciano](https://open.spotify.com/artist/7KX5v2c2WjRTjHce9xLQSL) | [Hiwaga](https://open.spotify.com/album/0Rv1chOstAxLx9OnOLlnSf) | 4:02 |
 | 75 | [Ikot](https://open.spotify.com/track/0rd6noFWDqPWWcCFasvkLR) | [Ian](https://open.spotify.com/artist/0cGEajsmUu72utDiZfM9lY) | [Ikot](https://open.spotify.com/album/573S9oVOjislJJVL3lEIoQ) | 3:32 |
 
-Snapshot ID: `MCw0ZDY1NDdiZGE4YzI0NzBmZTFjZGVkZDEwNTljYzAzN2I1OGQ1NDFi`
+Snapshot ID: `MCxhZjlmMmFjNGZlZTJmYTJjM2MzOTNkMDA2YTAzNTBlZmEwNDhiYTli`

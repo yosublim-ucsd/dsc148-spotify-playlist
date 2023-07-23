@@ -4,7 +4,7 @@
 
 > Nuevos hallazgos de música indie latina\. En portada: Arroba Nat.
 
-2,678 songs - 6 day 5 hr 47 min
+2,679 songs - 6 day 5 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1227,7 +1227,8 @@
 | [La Nave](https://open.spotify.com/track/2WNoJSTBcBvLbEbvMc0Qz9) | [Angie Foster](https://open.spotify.com/artist/4HDFbU9ag2dEgwuxUbGbWf) | [La Nave](https://open.spotify.com/album/6tlFQrjunXHu3Qg41MLuIo) | 3:25 | 2022-06-24 | 2022-07-02 |
 | [La Neta Es](https://open.spotify.com/track/3QFnwI5b2UBKx5nPth0mtx) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U), [Alezza](https://open.spotify.com/artist/26NSzK2kX9RFIbkrBWgRuh) | [La Neta Es](https://open.spotify.com/album/382Pid4h14lKmIRO16Pv9S) | 2:11 | 2022-10-14 | 2022-10-22 |
 | [la noche de ayer](https://open.spotify.com/track/7aSmfvPckOTRr0AJ3rmCCF) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [la noche de ayer](https://open.spotify.com/album/4e31Xo3NfTRxm9TdVgw4DR) | 4:15 | 2022-09-02 | 2022-09-10 |
-| [La Noche Eterna](https://open.spotify.com/track/1HsmBrhhiFArXJWRJAN3vu) | [Haunt Me](https://open.spotify.com/artist/0xc6gzkeMKN1R3cAkEKCK6) | [En Tu Cama](https://open.spotify.com/album/1IExDu6qEqm8mq9r78sxiJ) | 3:56 | 2023-07-14 |  |
+| [La Noche Eterna](https://open.spotify.com/track/1HsmBrhhiFArXJWRJAN3vu) | [Haunt Me](https://open.spotify.com/artist/0xc6gzkeMKN1R3cAkEKCK6) | [En Tu Cama](https://open.spotify.com/album/1IExDu6qEqm8mq9r78sxiJ) | 3:56 | 2023-07-14 | 2023-07-23 |
+| [La Noche Eterna](https://open.spotify.com/track/2HubXiu4yRdqaVOnjDShmG) | [Haunt Me](https://open.spotify.com/artist/0xc6gzkeMKN1R3cAkEKCK6) | [En Tu Cama](https://open.spotify.com/album/2Aupy8s3h48wDNAh4eJww8) | 3:56 | 2023-07-21 |  |
 | [La Noche Se Pasa](https://open.spotify.com/track/6CfxWGYYV05LFbjFIc7rn0) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [La Noche Se Pasa](https://open.spotify.com/album/2zd3g3Pfg3nT8c067Gl45H) | 3:09 | 2022-07-22 | 2022-07-30 |
 | [LA PALIDA](https://open.spotify.com/track/1ivKReTvye8ihOiAIycEKI) | [Pepe Pecas](https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq) | [LA PALIDA](https://open.spotify.com/album/32rKvPWD7jfKUcyCcW9pXF) | 2:40 | 2022-12-05 | 2022-12-10 |
 | [La Peregrina](https://open.spotify.com/track/0cbwnTw4LllpOZC5GMpxKL) | [La Villana](https://open.spotify.com/artist/6hZrSCRkq3lgHZ9dFxpzhq) | [Valkenburg](https://open.spotify.com/album/6DAcewxTM6M7oFpYpaK7h1) | 3:54 | 2022-09-30 | 2022-10-15 |

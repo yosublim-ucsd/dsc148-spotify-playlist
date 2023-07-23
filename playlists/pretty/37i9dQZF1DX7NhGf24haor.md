@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > The newest Hardstyle tracks \| 2023 Hardstyle\. Cover: Sefa
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,029 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,172 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 15 | [Overdrive](https://open.spotify.com/track/1qfZJC2ZdTgzhb4l5RawGs) | [ZIGGY X](https://open.spotify.com/artist/02c73sVTVC2NrbEjCdhU83), [Daniel Seven](https://open.spotify.com/artist/4zRiD4QO1sRhP4BnHGhNkW) | [Overdrive](https://open.spotify.com/album/3xZylehst79tLUp3S4yBH2) | 2:17 |
 | 16 | [In Our Heads](https://open.spotify.com/track/0RgjcOXX5GlI2kEsFzyLnC) | [Audiotricz](https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP), [Ecstatic](https://open.spotify.com/artist/7tEAlsvmuaVnKQyswnonem), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [In Our Heads \(feat\. MERYLL\)](https://open.spotify.com/album/4XMym4nnDGsKHAptYhEz1V) | 3:00 |
 | 17 | [Ain't The Same](https://open.spotify.com/track/3xNsPK0Bpm5lEvgI7pJlm6) | [Crypsis](https://open.spotify.com/artist/4Kr8tEhZ6ecAQnqxd7WkTb), [Vasto](https://open.spotify.com/artist/35l9BKzdhvLy5HOC50NECa) | [Ain't The Same](https://open.spotify.com/album/4SMBzVQuVsGBxMkpR1JEzU) | 3:27 |
-| 18 | [Sober](https://open.spotify.com/track/7JGGBrGxjuHSrvrtf7fvL6) | [Patrick Praise](https://open.spotify.com/artist/6iJAhVQznM9o1CWIQYsfHT), [Darius & Finlay](https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke), [Yumpo](https://open.spotify.com/artist/3Et4VsJesAoVbSQxBuJgGN), [Savi Kaboo](https://open.spotify.com/artist/41Wv5YihKZTmiieeuxQeGD) | [Sober](https://open.spotify.com/album/1EoTKITHfkZZBwEj9fq4GE) | 3:12 |
+| 18 | [Sober](https://open.spotify.com/track/7JGGBrGxjuHSrvrtf7fvL6) | [Patrick Praise](https://open.spotify.com/artist/6iJAhVQznM9o1CWIQYsfHT), [Darius](https://open.spotify.com/artist/3Z4JrDxBfRGViVcU8NpaZH), [Finlay](https://open.spotify.com/artist/6fc9ns19HMKTNFwaGNH1Wg), [Yumpo](https://open.spotify.com/artist/3Et4VsJesAoVbSQxBuJgGN), [Savi Kaboo](https://open.spotify.com/artist/41Wv5YihKZTmiieeuxQeGD) | [Sober](https://open.spotify.com/album/1EoTKITHfkZZBwEj9fq4GE) | 3:12 |
 | 19 | [Heartache](https://open.spotify.com/track/6D58y0FkssslpxMqC2UfB9) | [TNT](https://open.spotify.com/artist/1CqOLQmjzVWXQTiIN5Wucs), [Technoboy](https://open.spotify.com/artist/37jL2LnGjAkadOCszr8v7C), [Tuneboy](https://open.spotify.com/artist/3mZnhzeAyjpFhO3cIepzBr) | [Heartache](https://open.spotify.com/album/3l79VbT1LAHSIVB3Scrsk4) | 3:11 |
 | 20 | [Toxic](https://open.spotify.com/track/35xi46XXp07VOwqFNMsSyW) | [Adrenalize](https://open.spotify.com/artist/6GebWeCCtey5pbQepRYD6c) | [Toxic](https://open.spotify.com/album/4r9gVPNQm6fwwMj3L8GycV) | 3:03 |
 | 21 | [Code Of The Warrior](https://open.spotify.com/track/1jpg0FjnPxm9WxszLJ60b2) | [Ran\-D](https://open.spotify.com/artist/7IeovKzVkfcG9mIJGNzTcT), [E\-Life](https://open.spotify.com/artist/4EnzLaY6syM2lVhfMRolW2) | [Code Of The Warrior](https://open.spotify.com/album/6OFww3bgGwytoKjLUJbCca) | 3:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 99 | [I'll be fine](https://open.spotify.com/track/2dqTlgUaIJgufoaRSCKbDa) | [Mirisz](https://open.spotify.com/artist/2uGfa8SP7ICbWj3hxaSnoH) | [I´ll be fine](https://open.spotify.com/album/06X5BvNmFim7e14jxJuL7r) | 3:17 |
 | 100 | [Satellites](https://open.spotify.com/track/0ueLLmCacZAdtP23ecNWAu) | [LUNAX](https://open.spotify.com/artist/7CLsFRcEkn0Amc9VlVOFwR), [Marc Blou](https://open.spotify.com/artist/3NqSZ6T8QqQLyA5baayI19) | [Satellites](https://open.spotify.com/album/4CTKqkSwHk3N1nEDMnchrx) | 2:26 |
 
-Snapshot ID: `MCwyM2E4MzNlY2ZkMmY0YmViNTJjZjNhODIyM2Q3NTdmMTk0YjkxNjA1`
+Snapshot ID: `MCxkOWI2ZTE4YWFlODc5Mjc1YWJhZTcwNTUzMDY5YWQ4ZDM0MTU0YjJh`

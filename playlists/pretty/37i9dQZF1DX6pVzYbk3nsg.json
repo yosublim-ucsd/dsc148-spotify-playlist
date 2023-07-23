@@ -1,12 +1,12 @@
 {
   "description": "Los sonidos tradicionales de la Isla del Encanto.",
-  "num_followers": 2070,
+  "num_followers": 2084,
   "original_name": "Bomba y Plena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYzgxOWQ1NjFmODRhYTM1MjIwNmFiYmIzMzU3NTZkOGNmNjY5YzE3",
+  "snapshot_id": "MCw5M2MyZGJmMzMzMjk1OTdlOTVmZWY0Y2Q4NjdmMzE5ZmQ4ZDRkZmJl",
   "tracks": [
     {
       "added_at": "2023-06-13 22:15:19",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
+        "name": "Los Pleneros del Quinto Olivo",
+        "url": "https://open.spotify.com/album/6qiTayP9dcVf9c8WvmUvXs"
+      },
+      "artists": [
+        {
+          "name": "Los Pleneros del Quinto Olivo",
+          "url": "https://open.spotify.com/artist/0z9lpQaueAr4klPeko7UJG"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Una Noche En Borinquen",
+      "url": "https://open.spotify.com/track/37jIcJvAVdr2MwozISalA3"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
         "name": "Tamb\u00f3",
         "url": "https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda"
       },
@@ -703,22 +719,6 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Los Pleneros del Quinto Olivo",
-        "url": "https://open.spotify.com/album/6qiTayP9dcVf9c8WvmUvXs"
-      },
-      "artists": [
-        {
-          "name": "Los Pleneros del Quinto Olivo",
-          "url": "https://open.spotify.com/artist/0z9lpQaueAr4klPeko7UJG"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Una Noche En Borinquen",
-      "url": "https://open.spotify.com/track/37jIcJvAVdr2MwozISalA3"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
         "name": "Buya (Live)",
         "url": "https://open.spotify.com/album/3CN7dh6Ov68yvDzIwl2udq"
       },
@@ -747,26 +747,6 @@
       "duration_ms": 236785,
       "name": "Julieta",
       "url": "https://open.spotify.com/track/4THak1xPF11ZaOjglcy44M"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
-        "name": "Tamb\u00f3",
-        "url": "https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda"
-      },
-      "artists": [
-        {
-          "name": "Paracumb\u00e9",
-          "url": "https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt"
-        },
-        {
-          "name": "Nelie Lebron Robles",
-          "url": "https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99"
-        }
-      ],
-      "duration_ms": 213106,
-      "name": "Gua\u00f1eco pi\u00e9",
-      "url": "https://open.spotify.com/track/6WJk2pIiUCgBcTe3DbBJde"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -831,6 +811,26 @@
       "duration_ms": 310440,
       "name": "La Marej\u00e1 de los Muertos",
       "url": "https://open.spotify.com/track/0bObIC8XTOqsOdEoo7A3ys"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
+        "name": "Tamb\u00f3",
+        "url": "https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda"
+      },
+      "artists": [
+        {
+          "name": "Paracumb\u00e9",
+          "url": "https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt"
+        },
+        {
+          "name": "Nelie Lebron Robles",
+          "url": "https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99"
+        }
+      ],
+      "duration_ms": 213106,
+      "name": "Gua\u00f1eco pi\u00e9",
+      "url": "https://open.spotify.com/track/6WJk2pIiUCgBcTe3DbBJde"
     }
   ],
   "unique_name": "Bomba y Plena",

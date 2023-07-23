@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 788,136 likes - 85 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 788,914 likes - 85 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 14 | [破壊前夜のこと](https://open.spotify.com/track/7ccRC7ORwX4MqopJNucBai) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [破壊前夜のこと](https://open.spotify.com/album/5WKsrFoF3xsCQ4ui9d51Ud) | 3:42 |
 | 15 | [Please, please!](https://open.spotify.com/track/2Y8X7mYmu8dDK4o5mFaI0G) | [大橋彩香](https://open.spotify.com/artist/74VIJfMSLnKe5eU3yvv2RT) | [Please, please!](https://open.spotify.com/album/4jHpWzvHRJZovJhVo6x7WL) | 3:42 |
 | 16 | [bloomin'](https://open.spotify.com/track/7IGV9PfdVzqhdol3lgtnIs) | [Liyuu](https://open.spotify.com/artist/3KEJMe6WtlsRJP9qR3Juqn) | [bloomin'](https://open.spotify.com/album/0kRxrSqr36nVM58sq8vOPz) | 4:09 |
-| 17 | [Gotoubun no Mirai](https://open.spotify.com/track/6p14PfSxvGcnylxuECeLxb) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Mirai EP](https://open.spotify.com/album/4jvd7eCcRAs14lAG4Wcvse) | 3:39 |
+| 17 | [Gotoubun no Mirai](https://open.spotify.com/track/2TUjc5l9TCPx76wpHDKS4Z) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Mirai](https://open.spotify.com/album/00l4qRX62LwlUm0zSY5sTS) | 3:39 |
 | 18 | [Another Self](https://open.spotify.com/track/7gz4Eo94PvX01geJuH8xDx) | [熊田茜音](https://open.spotify.com/artist/6atbj1ekQT3aHVY551wxqb) | [Another Self](https://open.spotify.com/album/2txcg6rnTnKDCfHy9DivYm) | 3:35 |
 | 19 | [ユートピア](https://open.spotify.com/track/2ALfxGK9zPIkTvJbCjkSeI) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [ユートピア](https://open.spotify.com/album/5sHVrMHdMBPBTkQtq3ka4V) | 4:32 |
 | 20 | [twilight little star](https://open.spotify.com/track/4oG0BhjzyJOvYRxym74qwG) | [ChouCho](https://open.spotify.com/artist/5t7eQ2d1UmzfIr9oWQ538Y) | [twilight little star](https://open.spotify.com/album/5Ptb0Ov5HrW4xfJhd7uG0u) | 3:34 |
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 68 | [PLAY BOY](https://open.spotify.com/track/6S4Rnq6SiezLyFQuxcVlws) | [降幡 愛](https://open.spotify.com/artist/1VWk7Kn85D60gL6BPzaMWD) | [PLAY BOY](https://open.spotify.com/album/4dtfnK52VwroWF6hLKivaf) | 4:56 |
 | 69 | [HONEY](https://open.spotify.com/track/69gvCK1fWci65yKgVcsv7A) | [小林柊矢](https://open.spotify.com/artist/0DcIlk5wRoT8icLCpFOwox) | [HONEY](https://open.spotify.com/album/33RwLxDH0fD5NBxn3y2PoM) | 3:05 |
 | 70 | [Fanfare](https://open.spotify.com/track/4Vdov2ST1VEZhRTVETYJ2T) | [BRADIO](https://open.spotify.com/artist/4bykb0rz2eT2t2kzihCsne) | [Fanfare](https://open.spotify.com/album/4cgG5W8JYUij1nLOekVBEZ) | 4:14 |
-| 71 | [コト・モノ・トキ](https://open.spotify.com/track/1SQH9DuoKwEa8mPVwlFJJZ) | [柿原徹也](https://open.spotify.com/artist/1p3FN7q7Hd6AaVGOgyJMku) | [笑っていて…](https://open.spotify.com/album/3jaaO4xOwXZUbCIHn5NPbE) | 5:08 |
+| 71 | [コト・モノ・トキ](https://open.spotify.com/track/1SQH9DuoKwEa8mPVwlFJJZ) | [Tetsuya Kakihara](https://open.spotify.com/artist/1p3FN7q7Hd6AaVGOgyJMku) | [笑っていて…](https://open.spotify.com/album/3jaaO4xOwXZUbCIHn5NPbE) | 5:08 |
 | 72 | [フラッシュバック](https://open.spotify.com/track/7mohgpGIPJJFnu4htjKQ8G) | [saji](https://open.spotify.com/artist/1jA2LiMI5yb5QOSpVI51fC) | [フラッシュバック](https://open.spotify.com/album/2Ho2OzcpbmVqPTeNudHolK) | 3:30 |
 | 73 | [Crack\-Crack\-Crackle](https://open.spotify.com/track/4cFkNoWvPbLJSe7bay50sI) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [Crack\-Crack\-Crackle](https://open.spotify.com/album/3zJ35atNR9JjftDeGXhwF8) | 3:12 |
 | 74 | [Call Your Name](https://open.spotify.com/track/3pRl5QoiepOfraAbXTRvkN) | [Katagiri](https://open.spotify.com/artist/5duYVbF1t32VmVaI33fYAS) | [Call Your Name](https://open.spotify.com/album/3p7SxKPzfrVf5ipQyhZpDH) | 4:01 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [Kakuriyo](https://open.spotify.com/track/5AcpugY3aqM57SLVuTC3If) | [luz](https://open.spotify.com/artist/1i3YSQOJCGYeNKbSjEhqO9) | [Kakuriyo](https://open.spotify.com/album/6G2dCzjkvQTfdS1AtpXCSx) | 3:53 |
 | 85 | [Be as one!!!](https://open.spotify.com/track/3Cil1Zo5OJ9Oo1MVXxwUgG) | [ダイヤ\(CV.小宮有紗\)](https://open.spotify.com/artist/3uys3CJZKoRxBYyxz5dyV1), [ルビィ\(CV.降幡 愛\)](https://open.spotify.com/artist/7i71Jz4xNyVQ9BELptOa2i), [チカ\(CV.伊波杏樹\)](https://open.spotify.com/artist/3ogujBje6P7bPnrjnLrK8g) | [Be as one!!!](https://open.spotify.com/album/5ecRtDo4wKnugST8C9OKNR) | 4:13 |
 
-Snapshot ID: `MCwyYmI4NDljMTA0NjY1MjRiMTRjNGE1MGQ2NjMxNTY5MzdlZTdmMTMw`
+Snapshot ID: `MCxmZjA2ZDQ1NzgzYjhkOWRiZmZhMTRkNWViMDU1NjA4MjIxODVmNTNi`

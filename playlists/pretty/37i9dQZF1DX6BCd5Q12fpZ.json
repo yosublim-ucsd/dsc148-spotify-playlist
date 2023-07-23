@@ -1,12 +1,12 @@
 {
   "description": "Floor fillers from the long, illustrious history of the show. Cover: Verka Serduchka",
-  "num_followers": 65323,
+  "num_followers": 65334,
   "original_name": "Eurovision Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDM2NDVmMmVmMmEyNjlkMmRjNzljNzAzYzMzZjJhMGYwODBlYjI2",
+  "snapshot_id": "MCwxNzEwMmExYTQ4Y2NjN2MxY2MwNzQ5ZWY5NzhlMTYyMGE0MjM5Yzlm",
   "tracks": [
     {
       "added_at": "2023-05-05 17:20:54",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Hold Me Closer (Eurovision Version)",
-        "url": "https://open.spotify.com/album/1DUJ7u6fKeEkfVeTvE3FAq"
-      },
-      "artists": [
-        {
-          "name": "Cornelia Jakobs",
-          "url": "https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4"
-        }
-      ],
-      "duration_ms": 180573,
-      "name": "Hold Me Closer - Eurovision Version",
-      "url": "https://open.spotify.com/track/6cTWJgNkmhATsI6RJgTPH4"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Nadav Guedj",
         "url": "https://open.spotify.com/album/6LKtYHQmNgH8woDwwG1dVE"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 180608,
       "name": "Golden Boy",
       "url": "https://open.spotify.com/track/76SQ1MeAThYnjO9U9v6zZp"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Hold Me Closer (Eurovision Version)",
+        "url": "https://open.spotify.com/album/1DUJ7u6fKeEkfVeTvE3FAq"
+      },
+      "artists": [
+        {
+          "name": "Cornelia Jakobs",
+          "url": "https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4"
+        }
+      ],
+      "duration_ms": 180573,
+      "name": "Hold Me Closer - Eurovision Version",
+      "url": "https://open.spotify.com/track/6cTWJgNkmhATsI6RJgTPH4"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -663,22 +663,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Replay",
-        "url": "https://open.spotify.com/album/4CfWfExyyIuTxTXd7jjmy7"
-      },
-      "artists": [
-        {
-          "name": "Tamta",
-          "url": "https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ"
-        }
-      ],
-      "duration_ms": 173812,
-      "name": "Replay",
-      "url": "https://open.spotify.com/track/2UOyQB26wSQzM0jiTcUg50"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Always",
         "url": "https://open.spotify.com/album/2tJbLZDH2pNDCYQYaUl2oC"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 174626,
       "name": "Always - Single Version",
       "url": "https://open.spotify.com/track/4xMRFkFYufAuTEKR0YMN3Z"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Replay",
+        "url": "https://open.spotify.com/album/4CfWfExyyIuTxTXd7jjmy7"
+      },
+      "artists": [
+        {
+          "name": "Tamta",
+          "url": "https://open.spotify.com/artist/0VGybH10ziMPo99SYOwMoQ"
+        }
+      ],
+      "duration_ms": 173812,
+      "name": "Replay",
+      "url": "https://open.spotify.com/track/2UOyQB26wSQzM0jiTcUg50"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "Presenting Brotherhood of Man",
-        "url": "https://open.spotify.com/album/1soWUJdpSw74xbk3ILnwb7"
-      },
-      "artists": [
-        {
-          "name": "Brotherhood of Man",
-          "url": "https://open.spotify.com/artist/4Cyr5aqgXza16isOrQNOvo"
-        }
-      ],
-      "duration_ms": 178568,
-      "name": "Save Your Kisses for Me - Alternate Take",
-      "url": "https://open.spotify.com/track/1biEfqHE3I6ttUqTjrJMwH"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "No Boundaries",
         "url": "https://open.spotify.com/album/2olQK1JiXCvshFLlTV7UCu"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 166893,
       "name": "Every Way That I Can - Philippe Laurent from Galleon Radio Edit",
       "url": "https://open.spotify.com/track/5Hi2aJQzS0U7u1wwo8WIFp"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "Presenting Brotherhood of Man",
+        "url": "https://open.spotify.com/album/1soWUJdpSw74xbk3ILnwb7"
+      },
+      "artists": [
+        {
+          "name": "Brotherhood of Man",
+          "url": "https://open.spotify.com/artist/4Cyr5aqgXza16isOrQNOvo"
+        }
+      ],
+      "duration_ms": 178568,
+      "name": "Save Your Kisses for Me - Alternate Take",
+      "url": "https://open.spotify.com/track/1biEfqHE3I6ttUqTjrJMwH"
     },
     {
       "added_at": "2023-05-05 17:20:54",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-05-05 17:20:54",
       "album": {
-        "name": "J'ai cherch\u00e9",
-        "url": "https://open.spotify.com/album/0YCltMp8QcXykcaXjAvZ1u"
-      },
-      "artists": [
-        {
-          "name": "Amir",
-          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
-        }
-      ],
-      "duration_ms": 212280,
-      "name": "J'ai cherch\u00e9",
-      "url": "https://open.spotify.com/track/1QJFNfsVQA7VfUJFKgQJzI"
-    },
-    {
-      "added_at": "2023-05-05 17:20:54",
-      "album": {
         "name": "Glorious",
         "url": "https://open.spotify.com/album/5kbxsF7LoGVuD6JivCLLtC"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 207594,
       "name": "Glorious - Video Edit",
       "url": "https://open.spotify.com/track/1UqzLT0ZGWXD9K5npit5Nr"
+    },
+    {
+      "added_at": "2023-05-05 17:20:54",
+      "album": {
+        "name": "J'ai cherch\u00e9",
+        "url": "https://open.spotify.com/album/0YCltMp8QcXykcaXjAvZ1u"
+      },
+      "artists": [
+        {
+          "name": "Amir",
+          "url": "https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh"
+        }
+      ],
+      "duration_ms": 212280,
+      "name": "J'ai cherch\u00e9",
+      "url": "https://open.spotify.com/track/1QJFNfsVQA7VfUJFKgQJzI"
     },
     {
       "added_at": "2023-05-05 17:20:54",

@@ -4,7 +4,7 @@
 
 > Essential kids songs to add to your family's collection.
 
-136 songs - 6 hr 22 min
+137 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,8 @@
 | [Sunshine](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Sunshine](https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6) | 2:43 | 2022-04-15 |  |
 | [Sway](https://open.spotify.com/track/2Y2pWaHeqp0W7OqhFSj0ra) | [Frances England](https://open.spotify.com/artist/4JSWvkbDnumAidofuVTCrD) | [Sway](https://open.spotify.com/album/5YH1c6XadFeBRLXRiyQUR8) | 3:14 | 2022-04-15 |  |
 | [Sweet Child O' Mine](https://open.spotify.com/track/3yOMhAM9ZwBjuKQv4pPWYs) | [Renee & Jeremy](https://open.spotify.com/artist/7IBisryIBGbvj4wBDuRvy5), [Renee Stahl](https://open.spotify.com/artist/2WfQMdILaDJoPYCcWKKqpJ), [Jeremy Toback](https://open.spotify.com/artist/1aH1XTozXuGinGzdNWzyrt) | [Whole Lotta Love](https://open.spotify.com/album/1VbKUzv2wMxhQq1itmdHyR) | 3:20 | 2022-04-15 |  |
-| [Take You With Me](https://open.spotify.com/track/7GsjgNjd62uAKktoQrqyud) | [Rissi Palmer](https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ) | [Best Day Ever](https://open.spotify.com/album/2grVEoGEw92ONy96YK5bsr) | 3:28 | 2022-04-15 |  |
+| [Take You With Me](https://open.spotify.com/track/6WvRWVYp6F3QodAGKtOEeV) | [Rissi Palmer](https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ) | [Best Day Ever](https://open.spotify.com/album/2hWnXvL1PjyRncrKRYaKRC) | 3:28 | 2023-06-21 |  |
+| [Take You With Me](https://open.spotify.com/track/7GsjgNjd62uAKktoQrqyud) | [Rissi Palmer](https://open.spotify.com/artist/5M6DR8vZz7e0DZmIHKyjZQ) | [Best Day Ever](https://open.spotify.com/album/2grVEoGEw92ONy96YK5bsr) | 3:28 | 2022-04-15 | 2023-07-23 |
 | [That's My Jam](https://open.spotify.com/track/7CB3LgsiVtE8cSyvPvgcVA) | [Gabe Bondoc](https://open.spotify.com/artist/6YloMIsWjpHzIRK8s5tzAr) | [That's My Jam](https://open.spotify.com/album/58FLYqIhOzYMgxN8MRCfaq) | 3:13 | 2022-04-15 |  |
 | [The BeeeeeOOP Walk](https://open.spotify.com/track/0FEeadvRW7DD4s7RvfPuFs) | [Bluey](https://open.spotify.com/artist/6ca3AFdIIgaP4ZIW8J6zXu), [Joff Bush](https://open.spotify.com/artist/6aNjg7pL4fUyvEgdGczOAV) | [The BeeeeeOOP Walk](https://open.spotify.com/album/5X54Bsl16r62QApNO9jbie) | 2:18 | 2023-02-24 |  |
 | [The Bicycle Song](https://open.spotify.com/track/7q0vOWQvZBSAZbOEAJYfE4) | [The Swinging Belles](https://open.spotify.com/artist/01eojLsVBj3CRaLmUXCfDM) | [The Bicycle Song \(from the Welcome to the Flea Circus EP\)](https://open.spotify.com/album/4u1FQyRQUWvcDTgsH63JzR) | 2:07 | 2023-06-21 |  |

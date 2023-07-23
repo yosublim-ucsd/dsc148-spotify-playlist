@@ -1066,10 +1066,28 @@
       ],
       "date_added": "2022-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-23",
       "duration_ms": 304079,
       "name": "Yo Quisiera Entrar",
       "url": "https://open.spotify.com/track/17HSfx9GvpzcLxR7hBjEQR"
+    },
+    {
+      "album": {
+        "name": "Homenaje a Ariel Camacho",
+        "url": "https://open.spotify.com/album/2y2hsLQTXs010SHxs0lOFg"
+      },
+      "artists": [
+        {
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304079,
+      "name": "Yo Quisiera Entrar",
+      "url": "https://open.spotify.com/track/4MeTY5i7fFPG8xiEH5PeeO"
     },
     {
       "album": {

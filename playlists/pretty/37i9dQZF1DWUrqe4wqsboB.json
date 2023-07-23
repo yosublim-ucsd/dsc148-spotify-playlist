@@ -1,12 +1,12 @@
 {
   "description": "Indie, pop, alternativo... y un poco m\u00e1s all\u00e1. Cover: Buscabulla",
-  "num_followers": 1905,
+  "num_followers": 1940,
   "original_name": "Indie Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOTQwMTg1ODE1NmY0MDQ5YzE4ODA2ZGM1YTlkMTUxMmExZjc4OWZk",
+  "snapshot_id": "MCxmZjI1NDJlYWM3ZDY4MmIyMDAxZTMyMzA1ODc4OGI3OWFkNmU2OTQ5",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -643,6 +643,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Hasta el final",
+        "url": "https://open.spotify.com/album/2O3KVLfiSA5slbTTobMVRd"
+      },
+      "artists": [
+        {
+          "name": "Alexxander",
+          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Hasta el final",
+      "url": "https://open.spotify.com/track/53sjsn7vEChKgNiDXOXoQF"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "El Hijo de Borik\u00e9n",
         "url": "https://open.spotify.com/album/3DXb3q4cW3pttaTVFouNaV"
       },
@@ -675,22 +691,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Watersport",
-        "url": "https://open.spotify.com/album/2fVylpcjB0l3QJV716RrXg"
-      },
-      "artists": [
-        {
-          "name": "Baby City Club",
-          "url": "https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h"
-        }
-      ],
-      "duration_ms": 241360,
-      "name": "Watersport",
-      "url": "https://open.spotify.com/track/4n088AKH0Qq0VUSvKV8F3D"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Lo Sencillo",
         "url": "https://open.spotify.com/album/22DTgDpU40DVijro8GQhGT"
       },
@@ -707,18 +707,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Exclusive",
-        "url": "https://open.spotify.com/album/5JKKt233aF55L0qtCubR6m"
+        "name": "Watersport",
+        "url": "https://open.spotify.com/album/2fVylpcjB0l3QJV716RrXg"
       },
       "artists": [
         {
-          "name": "Ana Macho",
-          "url": "https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu"
+          "name": "Baby City Club",
+          "url": "https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h"
         }
       ],
-      "duration_ms": 149333,
-      "name": "Exclusive",
-      "url": "https://open.spotify.com/track/3oXtsk0XZtIgKIGLCSoh8I"
+      "duration_ms": 241360,
+      "name": "Watersport",
+      "url": "https://open.spotify.com/track/4n088AKH0Qq0VUSvKV8F3D"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Exclusive",
+        "url": "https://open.spotify.com/album/5JKKt233aF55L0qtCubR6m"
+      },
+      "artists": [
+        {
+          "name": "Ana Macho",
+          "url": "https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Exclusive",
+      "url": "https://open.spotify.com/track/3oXtsk0XZtIgKIGLCSoh8I"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Miento",
         "url": "https://open.spotify.com/album/0AKbl4MBCdVIRCn1qQ2vne"
       },
@@ -755,34 +771,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Hasta el final",
-        "url": "https://open.spotify.com/album/2O3KVLfiSA5slbTTobMVRd"
-      },
-      "artists": [
-        {
-          "name": "Alexxander",
-          "url": "https://open.spotify.com/artist/0J2jZKEeGZ01I7D86P6VJp"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Hasta el final",
-      "url": "https://open.spotify.com/track/53sjsn7vEChKgNiDXOXoQF"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Miel y Mantequilla",
-        "url": "https://open.spotify.com/album/59NP5vnw0wIR1CAJKeiU0b"
+        "name": "Guarapo y Flor",
+        "url": "https://open.spotify.com/album/4gAOfHDqhgTYdwEsVBfObJ"
       },
       "artists": [
         {
           "name": "Seba Otero",
           "url": "https://open.spotify.com/artist/4KcUp7k6HasVCPeB4uIA1i"
+        },
+        {
+          "name": "Bebo Dumont",
+          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
         }
       ],
-      "duration_ms": 227319,
-      "name": "Miel y Mantequilla",
-      "url": "https://open.spotify.com/track/2YnlDzQ7jw9LwLhapCOYLU"
+      "duration_ms": 179541,
+      "name": "Guarapo y Flor",
+      "url": "https://open.spotify.com/track/0kVjvfryus4UWTFKD42KzG"
     },
     {
       "added_at": "2023-07-21 04:00:00",

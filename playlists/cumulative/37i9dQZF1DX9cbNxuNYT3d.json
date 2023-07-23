@@ -1410,24 +1410,6 @@
     {
       "album": {
         "name": "Lucky Boy At Night",
-        "url": "https://open.spotify.com/album/34ir3zlhfLzKq2kO54Gall"
-      },
-      "artists": [
-        {
-          "name": "DJ Mehdi",
-          "url": "https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun"
-        }
-      ],
-      "date_added": "2022-07-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 218626,
-      "name": "Signatune - Thomas Bangalter Edit",
-      "url": "https://open.spotify.com/track/0lbVB3ktcJkLZwX3GkiNi9"
-    },
-    {
-      "album": {
-        "name": "Lucky Boy At Night",
         "url": "https://open.spotify.com/album/7vKadQtVqp973qUGS9yPvA"
       },
       "artists": [
@@ -1442,6 +1424,28 @@
       "duration_ms": 218626,
       "name": "Signatune - Thomas Bangalter Edit",
       "url": "https://open.spotify.com/track/16KsLLVY50usR4urQYmSQP"
+    },
+    {
+      "album": {
+        "name": "Lucky Boy At Night",
+        "url": "https://open.spotify.com/album/34ir3zlhfLzKq2kO54Gall"
+      },
+      "artists": [
+        {
+          "name": "DJ Mehdi",
+          "url": "https://open.spotify.com/artist/5ffMSKGQRhetAjBjEgkRun"
+        },
+        {
+          "name": "Thomas Bangalter",
+          "url": "https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi"
+        }
+      ],
+      "date_added": "2022-07-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218626,
+      "name": "Signatune - Thomas Bangalter Edit",
+      "url": "https://open.spotify.com/track/0lbVB3ktcJkLZwX3GkiNi9"
     },
     {
       "album": {

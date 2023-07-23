@@ -1131,6 +1131,24 @@
     },
     {
       "album": {
+        "name": "Floricienta y Su Banda",
+        "url": "https://open.spotify.com/album/0DsgA4MT651jBBaXy1It3M"
+      },
+      "artists": [
+        {
+          "name": "Floricienta",
+          "url": "https://open.spotify.com/artist/7dtC84FkhalFSKToofOdOv"
+        }
+      ],
+      "date_added": "2020-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198893,
+      "name": "Pobres los Ricos",
+      "url": "https://open.spotify.com/track/19RXzgw9er0MoJlDrauCYl"
+    },
+    {
+      "album": {
         "name": "Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/40ibA4EEknEKKs9yQjNsSM"
       },
@@ -1142,7 +1160,7 @@
       ],
       "date_added": "2020-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-23",
       "duration_ms": 198893,
       "name": "Pobres los Ricos",
       "url": "https://open.spotify.com/track/305kI6tQRUAOhhWrxS955J"

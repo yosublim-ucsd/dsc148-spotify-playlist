@@ -4,7 +4,7 @@
 
 > Celebremos el orgullo mexicano con estas alegres canciones.
 
-190 songs - 9 hr 52 min
+191 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,8 +14,8 @@
 | [Alla En El Rancho Grande](https://open.spotify.com/track/4nyBbyrarSkoxROa6xUhNt) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Lo Mejor De Nuestro Mexico, Vol\. 1](https://open.spotify.com/album/1lZL5FGjlYH3hTX4QkCnxD) | 2:47 | 2021-09-01 | 2022-07-29 |
 | [Allá En El Rancho Grande](https://open.spotify.com/track/0qERspzL3jC2bJA4u9sXeA) | [Darvelio Arredondo](https://open.spotify.com/artist/2L9w9WQZxRBqoRaeJSXP9r) | [Lo Mejor De La Música Mexicana](https://open.spotify.com/album/4gG6Kvj7leK60K4VJtq7SC) | 2:47 | 2022-09-12 | 2022-11-13 |
 | [Allá en el Rancho Grande](https://open.spotify.com/track/0fX9atsFdcUWXKPKwyUURm) | [Jorge Negrete](https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE) | [Selección 5 Estrellas: Jorge Negrete](https://open.spotify.com/album/2Kbyct5Jou6EltGP3WfwB3) | 2:15 | 2022-09-12 | 2022-11-13 |
-| [Allá En El Rancho Grande](https://open.spotify.com/track/26LABlj8Jq3a0uKYnp2bf9) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Lo Mejor De La Música Mexicana](https://open.spotify.com/album/35XRyDZl5xoWF0wVNQ5VeL) | 2:47 | 2022-09-12 |  |
-| [Allá en el Rancho Grande](https://open.spotify.com/track/7zPgDdoFF6hEaryYF5nokL) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Aires de Mexico](https://open.spotify.com/album/5fMXK7VoIGri38AtHiTzwi) | 2:47 | 2022-01-25 | 2023-04-25 |
+| [Allá En El Rancho Grande](https://open.spotify.com/track/26LABlj8Jq3a0uKYnp2bf9) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Lo Mejor De La Música Mexicana](https://open.spotify.com/album/35XRyDZl5xoWF0wVNQ5VeL) | 2:47 | 2022-09-12 | 2023-07-23 |
+| [Allá en el Rancho Grande](https://open.spotify.com/track/7zPgDdoFF6hEaryYF5nokL) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Aires de Mexico](https://open.spotify.com/album/5fMXK7VoIGri38AtHiTzwi) | 2:47 | 2022-01-25 |  |
 | [Allá en el rancho grande \(remastered\)](https://open.spotify.com/track/3a9QpnHcG3KeLgv7Lhc6yy) | [Jorge Negrete](https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE) | [Jorge Negrete\. Sus 40 Grandes Canciones \(1911\-1953\)](https://open.spotify.com/album/4fowTvcUyT2fJDYgor7l6b) | 2:13 | 2021-09-01 | 2022-07-29 |
 | [Ay Jalisco](https://open.spotify.com/track/3xI51SnRTo8nhSwnq00fFI) | [Manuel Esperon](https://open.spotify.com/artist/4R2lVKHhuxpVXjOsgIQKjr), [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Mariachi Azteca](https://open.spotify.com/album/7L0qYDZ1E8Pww3fz8qkMpr) | 2:22 | 2021-09-01 | 2022-07-29 |
 | [Ay jalisco](https://open.spotify.com/track/0qp8CfpKpNbT6P8wLoF3fC) | [Mariachi Azteca](https://open.spotify.com/artist/2uQSnz6JKQynX8x4BigTTW) | [Mariachi Azteca](https://open.spotify.com/album/224xkKynDgFfWPQXnTTgMo) | 2:25 | 2022-01-25 |  |
@@ -33,7 +33,8 @@
 | [Cancion Mexicana](https://open.spotify.com/track/5vG5yOxyMHnWDR4Aj1wDg1) | [María de Lourdes](https://open.spotify.com/artist/3jDbRC3mbW9SwWYDZatz5R) | [Fiesta Mexicana 15 de Septiembre](https://open.spotify.com/album/0bqCCnTmAA8NqLEnnV1w3N) | 2:46 | 2022-09-12 | 2022-11-13 |
 | [Canción Mixteca](https://open.spotify.com/track/5JNNjvunaFiUT56W8GRs80) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar](https://open.spotify.com/album/7Ed2u1RL16YZTKbew4O6HS) | 3:15 | 2022-08-02 |  |
 | [Cielito Lindo](https://open.spotify.com/track/0d3QIQcaCHdt9aJlRQlOpE) | [Darvelio Arredondo](https://open.spotify.com/artist/2L9w9WQZxRBqoRaeJSXP9r) | [Lo Mejor De La Música Mexicana](https://open.spotify.com/album/4gG6Kvj7leK60K4VJtq7SC) | 3:41 | 2022-01-25 | 2023-04-25 |
-| [Cielito Lindo](https://open.spotify.com/track/2GzOrRCr4yyz2DqcEqTdBS) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Lo Mejor De La Música Mexicana](https://open.spotify.com/album/35XRyDZl5xoWF0wVNQ5VeL) | 3:41 | 2021-09-01 |  |
+| [Cielito Lindo](https://open.spotify.com/track/2GzOrRCr4yyz2DqcEqTdBS) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Lo Mejor De La Música Mexicana](https://open.spotify.com/album/35XRyDZl5xoWF0wVNQ5VeL) | 3:41 | 2021-09-01 | 2023-07-23 |
+| [Cielito Lindo](https://open.spotify.com/track/17UQaysFON93fn278DeWqg) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Mariachi Total](https://open.spotify.com/album/2n9v73CTGTAUFrrdxbLMHD) | 3:41 | 2022-09-12 |  |
 | [Copitas Copotas](https://open.spotify.com/track/4Cx4gl9qwnfwmhntA4kDEL) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Rancheras de Relajo](https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N) | 1:57 | 2021-09-01 |  |
 | [Cumbia Medley: Mariachi Loco / La Pollera Colora / La Bala / No Te Metas Con Mi Cucu / Rosa Maria / La Cucaracha / Yo No Fui](https://open.spotify.com/track/0e0ZiHw8tqL1Kg6BbQDCXx) | [Mariachi Divas de Cindy Shea](https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd) | [Dulce Daño](https://open.spotify.com/album/5FpgZ4UE69N4JZfvTwHC4U) | 4:56 | 2022-01-25 | 2022-08-03 |
 | [Cumbia Medley: Mariachi Loco, La Pollera Colora, La Bala, No Te Metas Con Mi Cucu, Rosa Maria, La Cucaracha, Yo No Fui](https://open.spotify.com/track/5eK3yqT9NrWPh36KszcjDU) | [Mariachi Divas](https://open.spotify.com/artist/27c4TvzdsKPi3kDRPBW96u) | [Dulce Dano](https://open.spotify.com/album/64kCvIceqzonCUngVgk9KC) | 4:56 | 2021-09-01 | 2022-07-29 |

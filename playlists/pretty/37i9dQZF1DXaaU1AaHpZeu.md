@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Arroba Nat.
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,838 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,879 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 47 | [t quiero baby](https://open.spotify.com/track/5Ism0pljdp59O89F22begB) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [t quiero baby](https://open.spotify.com/album/7hAtgp27UmRzzUdsaHL8DG) | 2:26 |
 | 48 | [Sueño con Encontrarte](https://open.spotify.com/track/6xtw2JpsQkoYyeqsIXmKPR) | [Güili](https://open.spotify.com/artist/1P4R6sU4WSNcitkFlLawvK), [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Sueño con Encontrarte](https://open.spotify.com/album/6EeLJzNkjT9o3i26SNL1Ag) | 3:19 |
 | 49 | [Cortaste Toda La Luz](https://open.spotify.com/track/6sEkyi71nwR0Z7UC9OLWTg) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [Cortaste Toda La Luz](https://open.spotify.com/album/5lbpiRYTFik8UBu7UKRI9E) | 2:58 |
-| 50 | [La Noche Eterna](https://open.spotify.com/track/1HsmBrhhiFArXJWRJAN3vu) | [Haunt Me](https://open.spotify.com/artist/0xc6gzkeMKN1R3cAkEKCK6) | [En Tu Cama](https://open.spotify.com/album/1IExDu6qEqm8mq9r78sxiJ) | 3:56 |
+| 50 | [La Noche Eterna](https://open.spotify.com/track/2HubXiu4yRdqaVOnjDShmG) | [Haunt Me](https://open.spotify.com/artist/0xc6gzkeMKN1R3cAkEKCK6) | [En Tu Cama](https://open.spotify.com/album/2Aupy8s3h48wDNAh4eJww8) | 3:56 |
 
-Snapshot ID: `MCxiYzcwYmM2ZGNmNmM2YzM4OTk1ZDJlZTEyMDZhNDNhZTk4YWE1NThm`
+Snapshot ID: `MCw4NWZlOWJkY2VmOGY1MDFmYjVjZDQ5ZjVjMWQ5OGFjYTA4YTA3NWJm`

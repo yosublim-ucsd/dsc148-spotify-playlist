@@ -740,10 +740,28 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-23",
       "duration_ms": 171045,
       "name": "Girls Like Me",
       "url": "https://open.spotify.com/track/7sHT4a3rSs8IXdo7RZjzC6"
+    },
+    {
+      "album": {
+        "name": "The Hard Way",
+        "url": "https://open.spotify.com/album/4fo3Nvdjbwjz4Qc9dfMemp"
+      },
+      "artists": [
+        {
+          "name": "Alyssa Micaela",
+          "url": "https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171745,
+      "name": "Girls Like Me",
+      "url": "https://open.spotify.com/track/5SD4XZ2UEuynMl0F0Nml1y"
     },
     {
       "album": {

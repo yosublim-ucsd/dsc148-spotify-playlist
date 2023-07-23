@@ -4,7 +4,7 @@
 
 > zayn is back 🖤❤️‍🔥
 
-1,156 songs - 2 day 12 hr 35 min
+1,157 songs - 2 day 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -520,7 +520,8 @@
 | [Jericho](https://open.spotify.com/track/4ztdjZ2t7BVo5DLIFQBdJh) | [Iniko](https://open.spotify.com/artist/2ih5M0aTrQ97JX1nZuxDQY) | [Jericho](https://open.spotify.com/album/3TF9WzclcGdnebpaHgMyxh) | 2:38 | 2023-04-27 |  |
 | [Jiggle Jiggle](https://open.spotify.com/track/1I4lCSP69P74nU3a6Su5L2) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Louis Theroux](https://open.spotify.com/artist/016Rz5DsXUPPxosNTZLYcv) | [Jiggle Jiggle](https://open.spotify.com/album/3WcZOQwZQ5gLyNrA0aXUeT) | 1:37 | 2022-05-19 |  |
 | [Joke](https://open.spotify.com/track/73EYYiYI71DplWLlVIvUMF) | [Just Stef](https://open.spotify.com/artist/42nUrC2xMrNMbO2gFyvIKD) | [Joke](https://open.spotify.com/album/64CZHSIQbf08kuKgJGIEtW) | 2:57 | 2022-05-19 |  |
-| [Josefin](https://open.spotify.com/track/73hiGuj0dxhA1YhmSJOcMF) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Josefin](https://open.spotify.com/album/4U9WwkTXpQmu04DCvamXXr) | 3:41 | 2023-05-02 |  |
+| [Josefin](https://open.spotify.com/track/5LDi79YkHmZ1vRLMlyNlNH) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Josefin](https://open.spotify.com/album/6Berl5qBDpBAksUykxTT4v) | 3:41 | 2023-07-21 |  |
+| [Josefin](https://open.spotify.com/track/73hiGuj0dxhA1YhmSJOcMF) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [Josefin](https://open.spotify.com/album/4U9WwkTXpQmu04DCvamXXr) | 3:41 | 2023-05-02 | 2023-07-23 |
 | [Judas](https://open.spotify.com/track/0QkWikH5Z3U0f79T9iuF6c) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Born This Way](https://open.spotify.com/album/2KkMVsxymoNR7hRmBcMttd) | 4:09 | 2022-12-08 |  |
 | [Jungle](https://open.spotify.com/track/5sAYqcQTEQbTbxdcqI4b8v) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718) | [Vs Head Vs Heart](https://open.spotify.com/album/53QfQ7ykD9nVoTaCvsdVi8) | 3:22 | 2022-05-19 | 2022-10-14 |
 | [Jungle](https://open.spotify.com/track/7LFNVbFQGY1T3fekzMLziQ) | [Emma Louise](https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718) | [Vs Head Vs Heart](https://open.spotify.com/album/5tEmti4tXrxurQdIgOizpI) | 3:22 | 2022-10-06 |  |

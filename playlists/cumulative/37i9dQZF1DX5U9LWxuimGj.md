@@ -4,7 +4,7 @@
 
 > Country music with a Latin flair\. Cover: Carin Leon
 
-126 songs - 6 hr 57 min
+127 songs - 7 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,8 @@
 | [El Trabajador](https://open.spotify.com/track/4HMN1CLGPYKs1tRda7U7iC) | [Jesse Daniel](https://open.spotify.com/artist/69YAYxHfpqcXtsQ8n1pupY), [Raul Malo](https://open.spotify.com/artist/2GHyWa3uUslUFgOayQLW6b) | [Beyond These Walls](https://open.spotify.com/album/2KQOp4bGm40HvQIcxQbrCp) | 3:11 | 2021-12-10 |  |
 | [Friend](https://open.spotify.com/track/0ae7hcCowMnsMAreiJq9AT) | [Angie K](https://open.spotify.com/artist/7tk53T02nvDYOvWz5T9qZL) | [Sun Up to Sundown](https://open.spotify.com/album/57FPKfJyjp3hXukgNjFsym) | 3:06 | 2022-04-08 |  |
 | [Friends in Low Places](https://open.spotify.com/track/2xAexQlBRpLrHsTk7hvdPk) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp), [Robert Ray](https://open.spotify.com/artist/2gCYmuikCF3r1WCLfqo8Hb), [Clay Hollis](https://open.spotify.com/artist/6TgIvoihzya5Cf6b5Eq5I1), [Jerry DeLeon & Southbound](https://open.spotify.com/artist/0BhWkzHglAanDkZISPU6QQ) | [Friends in Low Places](https://open.spotify.com/album/2xsdKICcsa8pXbUByoP3tv) | 2:57 | 2021-12-10 |  |
-| [Girls Like Me](https://open.spotify.com/track/7sHT4a3rSs8IXdo7RZjzC6) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [Girls Like Me](https://open.spotify.com/album/2LFWLNbRoaoOkvj98gudSv) | 2:51 | 2022-06-10 |  |
+| [Girls Like Me](https://open.spotify.com/track/7sHT4a3rSs8IXdo7RZjzC6) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [Girls Like Me](https://open.spotify.com/album/2LFWLNbRoaoOkvj98gudSv) | 2:51 | 2022-06-10 | 2023-07-23 |
+| [Girls Like Me](https://open.spotify.com/track/5SD4XZ2UEuynMl0F0Nml1y) | [Alyssa Micaela](https://open.spotify.com/artist/7k7mCkZfVpQUXTgSowcpej) | [The Hard Way](https://open.spotify.com/album/4fo3Nvdjbwjz4Qc9dfMemp) | 2:51 | 2023-07-14 |  |
 | [Got It From My Mama \(Lo Tengo De Mi Mama\)](https://open.spotify.com/track/7Ez88DLp50CyywDPZeEN4j) | [Dani Rose](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Got It From My Mama \(Lo Tengo De Mi Mama\)](https://open.spotify.com/album/6QXVVqTWjbGQA3RZsYoUDc) | 3:18 | 2023-05-05 |  |
 | [gracias a la vida](https://open.spotify.com/track/0ROvxmZFJNRm0PyYcFKHbm) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 4:32 | 2021-12-10 |  |
 | [Gracias A La Vida](https://open.spotify.com/track/5bHSXxczMdoPWVg3RemYHq) | [Lindi Ortega](https://open.spotify.com/artist/0F8GZ29QxpnfOZvM25l7tJ) | [Liberty: Piano Songbook](https://open.spotify.com/album/5osw6hJrMHsAFfKuJUlHMW) | 2:46 | 2021-12-10 | 2022-09-03 |

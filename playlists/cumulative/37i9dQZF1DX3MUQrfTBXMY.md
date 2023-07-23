@@ -4,7 +4,7 @@
 
 > Headbangers of Bangladesh\. Cover \- Chondropith
 
-249 songs - 21 hr 34 min
+250 songs - 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,8 @@
 | [Bonobibi](https://open.spotify.com/track/46pfDFfuuRkeSKsNMKtZO9) | [Meghdol](https://open.spotify.com/artist/0WBg7b6KiPmfh7lI5vbFKC), [Jahura Baul](https://open.spotify.com/artist/39od5TdWqtNPjiBaafbo00) | [Bonobibi](https://open.spotify.com/album/7CEYIYT7y1CaqMlPABZ2Be) | 7:08 | 2023-03-07 |  |
 | [Bose Aachhi \(Bose Aachhi Eka\)](https://open.spotify.com/track/4PIrHcNo9aVhKrlk9hPOLG) | [Warfaze](https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2) | [Pathchala](https://open.spotify.com/album/4cyc9rSyklY4JtbwAjVsnc) | 6:39 | 2022-06-16 | 2023-07-14 |
 | [Brishtir Opare](https://open.spotify.com/track/5rGFMRxRt68bguL3gxSnZC) | [The Attempted Band](https://open.spotify.com/artist/1yCW8tZOgAjAHBJYt5COWt) | [Agoon O Moushumi](https://open.spotify.com/album/5KPR9AgO2hMyEfGYWPbrao) | 3:51 | 2022-06-16 | 2023-01-21 |
-| [Bristi Veja Dupur](https://open.spotify.com/track/5v8mrL0zFv2mjOSvRh3vWE) | [Soura Pandey](https://open.spotify.com/artist/6Vu1diYOaCPEjbuMhEV0hL), [Joel D Costa](https://open.spotify.com/artist/6TzLz534zsSVQqG4zUAlpQ) | [Chinno Potro](https://open.spotify.com/album/2atbTyFkndA0Yi7iGzyiDX) | 5:48 | 2023-07-17 |  |
+| [Bristi Veja Dupur](https://open.spotify.com/track/5v8mrL0zFv2mjOSvRh3vWE) | [Soura Pandey](https://open.spotify.com/artist/6Vu1diYOaCPEjbuMhEV0hL), [Joel D Costa](https://open.spotify.com/artist/6TzLz534zsSVQqG4zUAlpQ) | [Chinno Potro](https://open.spotify.com/album/2atbTyFkndA0Yi7iGzyiDX) | 5:48 | 2023-07-17 | 2023-07-23 |
+| [Bristi Veja Dupur](https://open.spotify.com/track/46l8esn7rL7sAS9GWSvL6G) | [Soura Pandey](https://open.spotify.com/artist/6Vu1diYOaCPEjbuMhEV0hL), [Joel D Costa](https://open.spotify.com/artist/6TzLz534zsSVQqG4zUAlpQ) | [Chinno Potro](https://open.spotify.com/album/4qjpE5T9ad9DOebUCw9ftH) | 5:50 | 2023-07-20 |  |
 | [Bujhe Na Bujhe](https://open.spotify.com/track/0FWmRjraRmR6KiERSM2780) | [AvoidRafa](https://open.spotify.com/artist/0j4Xv6B3jAu40gzdooipIB) | [Bujhe Na Bujhe](https://open.spotify.com/album/2HycxvT9WPAV2xuKdnbcc9) | 4:31 | 2023-02-17 |  |
 | [Bullshit](https://open.spotify.com/track/38vKlNkIGf226qscAwKiBY) | [Subconscious](https://open.spotify.com/artist/7naDXHAHLyVnJPC545dpbB) | [Bullshit](https://open.spotify.com/album/4kGNmloxvXSTwc3fkmL1Qb) | 4:33 | 2023-07-20 |  |
 | [Camera](https://open.spotify.com/track/5mb6nSUu3ozmmHJLPDpD7w) | [Avash](https://open.spotify.com/artist/1yg6sCbwRCFjo545X0qLgd) | [Camera](https://open.spotify.com/album/5oVZ0QlCiGNiHkn2O6qtch) | 4:05 | 2023-07-20 |  |

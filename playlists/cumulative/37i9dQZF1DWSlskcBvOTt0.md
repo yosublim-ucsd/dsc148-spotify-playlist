@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-459 songs - 1 day 21 hr 26 min
+460 songs - 1 day 21 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Alkebulan \- David Mayer Remix](https://open.spotify.com/track/4Bl14xQWo7Q6jagOcPZ5mI) | [ANT LaROCK](https://open.spotify.com/artist/6u4RO7eYTIJW3TEITwgzhS), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5), [David Mayer](https://open.spotify.com/artist/7Mf7RKErlQ5maEdHTXNexf) | [Alkebulan Remix](https://open.spotify.com/album/2JoZyLBoWtjzNLJKsXNoVs) | 7:50 | 2021-04-21 | 2023-01-11 |
 | [All I Ever Wanted](https://open.spotify.com/track/73RyhUtQnXgHB0Ko51EniR) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8) | [All I Ever Wanted](https://open.spotify.com/album/79nKwdi5pP3PwYlaSmFqHT) | 6:32 | 2022-10-14 |  |
 | [All I Got](https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [All I Got](https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h) | 5:04 | 2022-09-30 |  |
+| [All I Need \- DESIREE Remix](https://open.spotify.com/track/6q9RvlTvMSZSQfI6v0dKE4) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Light Places Remixes](https://open.spotify.com/album/397G1LdjSwnHKWa6PdkYgS) | 5:39 | 2023-07-21 |  |
 | [ALL I REALLY WANT](https://open.spotify.com/track/2w88pnj10jrdX2jJyaAUKT) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [ALL I REALLY WANT](https://open.spotify.com/album/6ae9qY5R5WqnR5SSZusmaf) | 5:58 | 2023-07-07 |  |
 | [Alone \- Stephan Jolk Remix](https://open.spotify.com/track/2nvfQ9c2pi8OFiYb59I1gu) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [Alone \(Stephan Jolk Remix\)](https://open.spotify.com/album/6WqGjERSNf5IhAMwk2iKfs) | 3:32 | 2023-07-14 |  |
 | [Alongside \- Omeria & NU Edit](https://open.spotify.com/track/2lAZJjUyFklZXQK5vDjzbp) | [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Omeria](https://open.spotify.com/artist/0Gn7ZHvOfbvZBxPoknZeYl) | [Alongside](https://open.spotify.com/album/6uCN30Zwc6nqxczXVcNQ36) | 6:50 | 2021-04-21 | 2023-03-11 |
@@ -128,7 +129,7 @@
 | [Embrace Me Now \- Techno Radio Edit](https://open.spotify.com/track/53IGqGELRPyyp6DfK2eeRT) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Embrace Me Now](https://open.spotify.com/album/26WVXNlx1rvdcgZBLdqH70) | 3:12 | 2023-07-21 |  |
 | [Embre](https://open.spotify.com/track/3wbUuzRdemeNJuqnMNBC9m) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB), [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Moho EP](https://open.spotify.com/album/5UFFlblxN3PC2hYcNT4i9t) | 8:56 | 2021-04-21 | 2022-12-17 |
 | [Endless History](https://open.spotify.com/track/5OhycGO6E8HwsbtOPeCRxI) | [Gorje Hewek](https://open.spotify.com/artist/0HBaoUIo3fXlnWz1dc4mro), [Facundo Losardo](https://open.spotify.com/artist/4saM6vfv68Mb1xB3EEb9IQ) | [Greatness of Blooming Twig](https://open.spotify.com/album/3jQnaplLlukpbKQlUh6SCM) | 5:04 | 2022-01-21 | 2022-07-29 |
-| [Enjoy The Rain \(feat\. Nathan Daisy\)](https://open.spotify.com/track/7F6vxNOUuo6unbeEmB0BpJ) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Nathan Daisy](https://open.spotify.com/artist/2CtFUBZT6hZPF8fF4XDRGf) | [Temple Of Dreams](https://open.spotify.com/album/5s105s5HclJA4c6NlKm5hX) | 3:23 | 2023-06-16 |  |
+| [Enjoy The Rain \(feat\. Nathan Daisy\)](https://open.spotify.com/track/7F6vxNOUuo6unbeEmB0BpJ) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx), [Nathan Daisy](https://open.spotify.com/artist/2CtFUBZT6hZPF8fF4XDRGf) | [Temple Of Dreams](https://open.spotify.com/album/5s105s5HclJA4c6NlKm5hX) | 3:23 | 2023-06-16 | 2023-07-23 |
 | [Enough Love To Hate It](https://open.spotify.com/track/5acS3Wo0XQYn8AaDwysMfk) | [Martin Buttrich](https://open.spotify.com/artist/2bP72uOaVvJ2syINURI42n) | [Crash Test](https://open.spotify.com/album/6vOOK2LSuBTZHxyEXQFJx1) | 7:41 | 2021-05-07 | 2022-04-21 |
 | [Entropia](https://open.spotify.com/track/3Pr1mDjQtdlmL3PNhAwI6x) | [Cream \(PL\)](https://open.spotify.com/artist/42lamKjAQaDXMmc96XnVXF) | [Entropia / Oz](https://open.spotify.com/album/12EPii6rzVBf0VSm0ycrcP) | 8:05 | 2022-09-23 | 2023-02-11 |
 | [Epic Resurrection](https://open.spotify.com/track/5lqCgngDCc1YtBoWvAT5tI) | [Space Motion](https://open.spotify.com/artist/1k7iyyK6j5IJzF0cUMcaGY) | [Epic Resurrection](https://open.spotify.com/album/30HmyV4zjyZiB4ET1b9Kma) | 6:41 | 2022-07-22 | 2023-04-01 |

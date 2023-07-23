@@ -4,7 +4,7 @@
 
 > High energy Techno to boost your workout.
 
-167 songs - 15 hr 26 min
+168 songs - 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Dark Market \- Original Mix](https://open.spotify.com/track/3VeVNC1XuZrReIJymrbAU6) | [UMEK](https://open.spotify.com/artist/5Hini2nQyoglzpdKe41cZt) | [Dark Market](https://open.spotify.com/album/0pb8z2YTrIML56C2nzDlng) | 7:12 | 2022-07-05 | 2022-07-27 |
 | [Dark Sun](https://open.spotify.com/track/1N3ZXedV7bYmNLnZ5toPaS) | [Dok & Martin](https://open.spotify.com/artist/1rV7LSzJ2ZzL3FicYplmLX) | [Dark Sun](https://open.spotify.com/album/01u976hEIH1nzhd386t1hO) | 6:46 | 2022-09-09 | 2022-10-01 |
 | [Darkness Falls](https://open.spotify.com/track/3ba0mZUI7Hg1B7G2qUy9eJ) | [Ben Dust](https://open.spotify.com/artist/4smTLJEoRPULdc4QuG7JGo), [Markus Weigelt](https://open.spotify.com/artist/2rMiCAbbUX2ywySQCSZRbI) | [Darkness Falls](https://open.spotify.com/album/0jKYzvWcpUZErGjZCcQPHL) | 6:29 | 2022-07-05 | 2022-07-27 |
+| [Deep Down](https://open.spotify.com/track/2gyh8uqnB5jkZQT9norbkW) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Deep Down](https://open.spotify.com/album/5BmzD0le5f5nt4mbTzz2VT) | 3:40 | 2023-06-02 |  |
 | [Deep Down](https://open.spotify.com/track/4Lt27VZ8plZTjllm4jeb3x) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Deep Down](https://open.spotify.com/album/5N0PPn3ZKVfC4XHEq3i1Xp) | 3:40 | 2022-08-26 | 2023-07-02 |
 | [Destiny](https://open.spotify.com/track/222opzC3cyboeyO6KrK6L7) | [Monsieur Warradi](https://open.spotify.com/artist/5gARJT3niBXARYHtHWB1eA) | [Destiny](https://open.spotify.com/album/2wwDX8cXpomw1eEiQk2cPU) | 4:56 | 2022-07-05 | 2022-07-29 |
 | [Dimension](https://open.spotify.com/track/0pW2QctYRtN7crHRcGYaxy) | [Felix Kröcher](https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ) | [Dimension](https://open.spotify.com/album/4gsbBzVgdrPwfK84vlLluJ) | 5:55 | 2022-12-16 | 2023-02-13 |
@@ -86,7 +87,7 @@
 | [Life](https://open.spotify.com/track/0hgBCww9bE8ufZPndRdURi) | [2088](https://open.spotify.com/artist/4m1zEw1eweA16IcRBIWxNo) | [Life](https://open.spotify.com/album/7lViivbC59hJG6hr6aYuJj) | 6:09 | 2022-07-05 | 2022-07-12 |
 | [Lift Me Up](https://open.spotify.com/track/72TMpXTDPAo7aWpHleue8S) | [Oliver Rauch](https://open.spotify.com/artist/69A0XvHkEgLaSNelHsSuuV) | [Lift Me Up](https://open.spotify.com/album/69wmSV0itJ2bNrv0kEUsga) | 5:51 | 2022-07-05 | 2022-07-10 |
 | [Little Hero](https://open.spotify.com/track/73Z9bB6pDnpj4pQhzScrWm) | [Cosmic Boys](https://open.spotify.com/artist/2jvTYwyzxK1FVYGEoKfZLQ), [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z) | [Little Hero](https://open.spotify.com/album/0iwVgKvRzzYRLDNgfalW4H) | 6:30 | 2022-09-09 | 2022-12-02 |
-| [Lonely Traveller](https://open.spotify.com/track/2tfiF1GUsv0z78VraiNU5A) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Lonely Traveller](https://open.spotify.com/album/4i9RkTe3UWHPknzuGLHHit) | 6:06 | 2022-10-01 |  |
+| [Lonely Traveller](https://open.spotify.com/track/2tfiF1GUsv0z78VraiNU5A) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Lonely Traveller](https://open.spotify.com/album/4i9RkTe3UWHPknzuGLHHit) | 6:06 | 2022-10-01 | 2023-07-23 |
 | [Mars Powder \- Radio Edit](https://open.spotify.com/track/3PJkEdIheSss9bhIdqnQju) | [Chris Veron](https://open.spotify.com/artist/1DgZ9kWEsYktFBYml3iK8S) | [Mars Powder](https://open.spotify.com/album/7cuM14P80mW17Tzi4bYxGm) | 4:03 | 2022-07-05 | 2022-07-09 |
 | [Maschine](https://open.spotify.com/track/5mX46VGRf2zGXrSQ2utxbA) | [Kaufmann \(DE\)](https://open.spotify.com/artist/4vyVLlQZTWLkuvSXaNMv4v) | [Maschine](https://open.spotify.com/album/21s6LGNDIZ6TMdEIDZbgO8) | 6:47 | 2022-07-11 | 2022-07-29 |
 | [ME/AN](https://open.spotify.com/track/1SyfZAsQpy1ITVx96ZCjZy) | [Marco V](https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv), [Vision 20/20](https://open.spotify.com/artist/2H3YaPmQxrV9eHZ9lcmvoM) | [ME/AN](https://open.spotify.com/album/501Goc9jbp4cFU1PN7HRVR) | 3:49 | 2022-07-11 | 2023-02-04 |

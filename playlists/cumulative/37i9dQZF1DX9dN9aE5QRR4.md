@@ -4,7 +4,7 @@
 
 > La playlist officielle de l'émission Nouvelle École Saison  2, disponible sur Netflix.
 
-46 songs - 2 hr 15 min
+47 songs - 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [KYLL](https://open.spotify.com/track/1VYTP4prOc62xQe1KWf3S5) | [Médine](https://open.spotify.com/artist/1afjj7vSBkpIjkiJdSV6bV), [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [KYLL](https://open.spotify.com/album/0iaSXjvJQx0AAVoOeaBt44) | 3:20 | 2023-05-31 |  |
 | [La kiffance](https://open.spotify.com/track/4CWcaGtaOyAqBDKIeZMUe0) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [La kiffance](https://open.spotify.com/album/1YrIKS84a899NhW15PDswr) | 2:59 | 2023-05-31 |  |
 | [Le jour se lève](https://open.spotify.com/track/3yIxVwVr33e5tW453JRlCt) | [Arka](https://open.spotify.com/artist/3PnK1yG5p3O5dfK0m3oNRG), [Lpee](https://open.spotify.com/artist/79oE8fUBhUxb5rDnlUObQz) | [Le jour se lève](https://open.spotify.com/album/3k3Os3Ekj0WGCcIVY10Xxd) | 2:36 | 2023-06-28 |  |
-| [Let's Go](https://open.spotify.com/track/7h2xtz39bv1JnM3KnIt6pA) | [Arka](https://open.spotify.com/artist/3PnK1yG5p3O5dfK0m3oNRG) | [Let's Go](https://open.spotify.com/album/3jVf06aEQuuno3UUppAT3G) | 2:18 | 2023-05-31 |  |
+| [Let's Go](https://open.spotify.com/track/6ehqPqJz9YMLS4dhmWyx3i) | [Arka](https://open.spotify.com/artist/3PnK1yG5p3O5dfK0m3oNRG) | [Rebirth](https://open.spotify.com/album/51SALtVR1ld1TmwwN4rFiw) | 2:18 | 2023-05-31 |  |
+| [Let's Go](https://open.spotify.com/track/7h2xtz39bv1JnM3KnIt6pA) | [Arka](https://open.spotify.com/artist/3PnK1yG5p3O5dfK0m3oNRG) | [Let's Go](https://open.spotify.com/album/3jVf06aEQuuno3UUppAT3G) | 2:18 | 2023-05-31 | 2023-07-23 |
 | [Mwaka Moon](https://open.spotify.com/track/7LDq2cE0TQV66BXorbV8FD) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Mwaka Moon](https://open.spotify.com/album/0JiHJJGVSHzQMdTJ2fp9dh) | 3:57 | 2023-05-31 |  |
 | [Médusa](https://open.spotify.com/track/2hL0WVDLvlxZ60J4YyWvFW) | [Landy](https://open.spotify.com/artist/2EFpb61Lpi0l5ldOiqbZkK) | [A\-One](https://open.spotify.com/album/7vA0TnW2lm682zNwiRKEcE) | 2:37 | 2023-05-31 |  |
 | [No Blabla](https://open.spotify.com/track/3CBRIyl1ZsGu8rE0J8fDB9) | [Bayass](https://open.spotify.com/artist/0PT8CEHQdV4RtZfgpEdSgb), [Couli B](https://open.spotify.com/artist/7bgcmZOHdCpmDHAE6ZJltg) | [No Blabla](https://open.spotify.com/album/0yu4Y2aRR7yZDLTSGpgwK0) | 2:10 | 2023-05-31 |  |

@@ -23462,10 +23462,28 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-23",
       "duration_ms": 236800,
       "name": "La Noche Eterna",
       "url": "https://open.spotify.com/track/1HsmBrhhiFArXJWRJAN3vu"
+    },
+    {
+      "album": {
+        "name": "En Tu Cama",
+        "url": "https://open.spotify.com/album/2Aupy8s3h48wDNAh4eJww8"
+      },
+      "artists": [
+        {
+          "name": "Haunt Me",
+          "url": "https://open.spotify.com/artist/0xc6gzkeMKN1R3cAkEKCK6"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236800,
+      "name": "La Noche Eterna",
+      "url": "https://open.spotify.com/track/2HubXiu4yRdqaVOnjDShmG"
     },
     {
       "album": {

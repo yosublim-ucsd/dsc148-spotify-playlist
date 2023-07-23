@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-541 songs - 21 hr 0 min
+542 songs - 21 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Awareness](https://open.spotify.com/track/24vFPHmQXc0CzfAkNId1al) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [Awareness](https://open.spotify.com/album/108amnU3JXbyo488sSPcrx) | 3:58 | 2022-07-29 | 2022-09-03 |
 | [Bad](https://open.spotify.com/track/0xh3rJzsM46voJkwrAwmUI) | [Mari Ferrari](https://open.spotify.com/artist/6WEmnL6VvRN4QKUqq9dZHs) | [Bad](https://open.spotify.com/album/5do94hiALxLzO7Y10UuAoP) | 2:39 | 2021-08-27 | 2022-06-18 |
 | [bad!](https://open.spotify.com/track/5LEwPPegulMXShjwMYOfmH) | [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH), [Kaito Shoma](https://open.spotify.com/artist/3Tv1UzQAvn0v0hKTxisXnR) | [bad!](https://open.spotify.com/album/5KWppkfciMOrdPwafy03Si) | 2:14 | 2022-07-22 | 2022-08-27 |
-| [BALADINHA SINISTRA](https://open.spotify.com/track/6wntHk37oMHAqt71RrZOeF) | [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj), [$pidxrs?808](https://open.spotify.com/artist/17O62eZOtm0vgSiCwDHHeO), [Crazy Mano](https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl) | [BALADINHA SINISTRA](https://open.spotify.com/album/4VtwEXsNAQ9n5dekSnzhsO) | 1:58 | 2023-05-19 |  |
+| [BALADINHA SINISTRA](https://open.spotify.com/track/0mmcXLiY4njgLDU1kiGoQX) | [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj), [$pidxrs?808](https://open.spotify.com/artist/17O62eZOtm0vgSiCwDHHeO), [Crazy Mano](https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl) | [BALADINHA SINISTRA](https://open.spotify.com/album/75cDagHmrQzeeig8DJr698) | 1:58 | 2023-05-19 |  |
+| [BALADINHA SINISTRA](https://open.spotify.com/track/6wntHk37oMHAqt71RrZOeF) | [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj), [$pidxrs?808](https://open.spotify.com/artist/17O62eZOtm0vgSiCwDHHeO), [Crazy Mano](https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl) | [BALADINHA SINISTRA](https://open.spotify.com/album/4VtwEXsNAQ9n5dekSnzhsO) | 1:58 | 2023-05-19 | 2023-07-23 |
 | [BANKAI](https://open.spotify.com/track/33sPNJZxIi4Qq9jy4rACPJ) | [DXNT L13](https://open.spotify.com/artist/24NDY4ShaX2L5g3LEkr9hL) | [BANKAI](https://open.spotify.com/album/0M5a69FH1OBRpDXVZKPiCd) | 1:55 | 2022-11-25 | 2023-02-11 |
 | [Beat das Trevas](https://open.spotify.com/track/3bzkdI9iT7ygXbHMzl4rkB) | [DJ MENOR DA ZN](https://open.spotify.com/artist/7GwhJndjWpGB4APQOWpD22), [MC MTOODIO](https://open.spotify.com/artist/7JM0ahYY9xjYeKVUf3Rauf) | [Beat das Trevas \[Slowed + Reverb\]](https://open.spotify.com/album/75fDow9Ssrsi6sQQqzjJuu) | 2:12 | 2023-05-05 |  |
 | [Beat Mágico Que Mexe Com a Sua Mente \(Slowed\)](https://open.spotify.com/track/7dDnis2a3lqOXHYuSrdcVL) | [KMJ](https://open.spotify.com/artist/0yuBErKkIfxbvwd7eXaBEI) | [Beat Mágico Que Mexe Com a Sua Mente \(Slowed\)](https://open.spotify.com/album/3FdDZifanuNd6ju9m1zw5V) | 3:02 | 2023-06-30 |  |

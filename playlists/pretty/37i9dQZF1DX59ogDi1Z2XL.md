@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 
 > The coldest sounds of Hip\-Hop, coming out of Canada\. Cover: Smiley
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,537 likes - 100 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 163,551 likes - 100 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 30 | [21 Questions](https://open.spotify.com/track/7xYZrvdWXSGmNgobMEqqoC) | [Top5](https://open.spotify.com/artist/761R6TmYhSbPNOFfEf80pw), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [6ixbuzz](https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk) | [Pedro Activated](https://open.spotify.com/album/3LuXNv2ZXL9ErZklnvSJ0W) | 3:24 |
 | 31 | [Just Like Me feat\. NAV](https://open.spotify.com/track/3NNHfUOA7t6VEZ8j1hqtmv) | [Belly](https://open.spotify.com/artist/0FOWNUFHPnMy0vOw1siGqi), [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC) | [Mumble Rap 2](https://open.spotify.com/album/5AESfqbUcud4cq4xkvmFAq) | 2:12 |
 | 32 | [Member Times](https://open.spotify.com/track/0kQvSJNrfEPN8H4c4eZkt2) | [Duvy](https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy) | [Hope You Notice](https://open.spotify.com/album/0LrQrBWMWYRUET3YDLZrdu) | 2:04 |
-| 33 | [haunted](https://open.spotify.com/track/7tD2Uvsi2rWlaKfnzpIrpS) | [st4r](https://open.spotify.com/artist/6o9JSxpjLpB79jMeynTN8o), [Dom Vallie](https://open.spotify.com/artist/40jUZa9MeFVuqypI1o1yjh) | [haunted](https://open.spotify.com/album/23CcQZNHWmvlkkF9IDhqjO) | 3:11 |
+| 33 | [haunted](https://open.spotify.com/track/7tD2Uvsi2rWlaKfnzpIrpS) | [st4r](https://open.spotify.com/artist/6o9JSxpjLpB79jMeynTN8o), [Dom Vallie](https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk) | [haunted](https://open.spotify.com/album/23CcQZNHWmvlkkF9IDhqjO) | 3:11 |
 | 34 | [Posts](https://open.spotify.com/track/3j4p2KmpdzqrvcISyN8lJQ) | [100 OTD](https://open.spotify.com/artist/5VBRo4Do6f7TDyC3MNmOLC) | [Posts](https://open.spotify.com/album/5siEfiKTiUgxd4hpmAJcbM) | 2:11 |
 | 35 | [Never Let You Down](https://open.spotify.com/track/7h83KeGUSXJ7l8nMXSQV4k) | [Mindflip](https://open.spotify.com/artist/1EH4lsraLQb7WNDW5h4sKi) | [Duality: The Life of a Gemini](https://open.spotify.com/album/4IeLfqsa9tCFIsLS7G2IHB) | 2:57 |
 | 36 | [THE BOOGIE](https://open.spotify.com/track/2qdVGxtESeHLeuOI2RbYNM) | [Lex Leosis](https://open.spotify.com/artist/3l5iTPvfsSfyeaurhaAeh6), [Teon Gibbs](https://open.spotify.com/artist/6C526McCewIs40ZHQLrmZm) | [THE BOOGIE](https://open.spotify.com/album/6aG9Dc8vW4m9l8AiqKjXGa) | 2:13 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59ogDi1Z2XL.md) - [plain]
 | 99 | [Private Landing \(feat\. Justin Bieber & Future\)](https://open.spotify.com/track/52NGJPcLUzQq5w7uv4e5gf) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:58 |
 | 100 | [Govy](https://open.spotify.com/track/7bjMaavKbuW9r98SWIQZ7i) | [Dr\. Bushman](https://open.spotify.com/artist/67CMLRzkbiW2rmBS6LzhZ7) | [Canvas](https://open.spotify.com/album/1KBfkj5rVWY4PZ4q2yW4lC) | 1:58 |
 
-Snapshot ID: `MCw1M2RhM2Q3NGJkOTYwOWQ0YmY2ZWE0ZDhlOGQxOGMyOTY2YjExZThk`
+Snapshot ID: `MCw4MTA5YmU0NjUxZGQ4OTUzM2I3YTFiMGNiMjVlNDMwZWFlYzFlYjk2`

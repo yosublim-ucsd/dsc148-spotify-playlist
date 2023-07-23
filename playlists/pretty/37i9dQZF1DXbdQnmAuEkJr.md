@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdQnmAuEkJr.md) - [plain]
 
 > Un viaje al país del amor a través de sus canciones más hermosas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,136 likes - 70 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,144 likes - 70 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdQnmAuEkJr.md) - [plain]
 | 43 | [Champs\-Elysées](https://open.spotify.com/track/61C3u9OeAUq6fH2mrEpcan) | [Zaz](https://open.spotify.com/artist/1mbgj8ERPs8lWi7t5cYrdy) | [Paris](https://open.spotify.com/album/6qYw0ETyjvdY8neuXBIdwO) | 2:55 |
 | 44 | [Les mêmes chansons](https://open.spotify.com/track/53rwAYjIvXnwRC5Pw1uYdQ) | [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Les mêmes chansons](https://open.spotify.com/album/6KUWVfxPMU1HNWQjHK37Mh) | 3:12 |
 | 45 | [L'oiseau](https://open.spotify.com/track/7wTE6zKPCgCZiByuAxSUNV) | [Feu! Chatterton](https://open.spotify.com/artist/538TfjnJpRXI80MHYWfKlo) | [L’oiseleur](https://open.spotify.com/album/7lrBYSO9Rqnq7XPEHMNRtQ) | 3:32 |
-| 46 | [La Liste](https://open.spotify.com/track/0GIRUl3YJAGBauaqe10oWm) | [Rose](https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd) | [Rose](https://open.spotify.com/album/3ACdkFZ2IR9cXqeqWMz2V7) | 3:11 |
+| 46 | [La liste](https://open.spotify.com/track/0GIRUl3YJAGBauaqe10oWm) | [Rose](https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd) | [Rose](https://open.spotify.com/album/3ACdkFZ2IR9cXqeqWMz2V7) | 3:11 |
 | 47 | [Liberté](https://open.spotify.com/track/78wiDEHp621vWNSehUxGT2) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Anthem](https://open.spotify.com/album/3a6ln2VwpNL5Nve4QDyzRo) | 4:29 |
 | 48 | [Sombre con](https://open.spotify.com/track/3jPCKU1tGMcKtAn7a9k9GW) | [Rose](https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd) | [Rose](https://open.spotify.com/album/3ACdkFZ2IR9cXqeqWMz2V7) | 3:34 |
 | 49 | [Les jeux interdits](https://open.spotify.com/track/5NMFd6FcM3YWRyn6zelhp2) | [Jane Birkin](https://open.spotify.com/artist/4XYH5Be5pn1qkxhfaID3J5) | [Oh! Pardon tu dormais…](https://open.spotify.com/album/7cntvTVCO1Xx0sneL900tC) | 3:12 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbdQnmAuEkJr.md) - [plain]
 | 69 | [à quoi tu penses quand tu m'adores ?](https://open.spotify.com/track/6zI9QsktCCl9NLJ5Vdop7k) | [Mélodie Lauret](https://open.spotify.com/artist/4gceoi6b3eqGyx9dLQU1S4) | [à quoi tu penses quand tu m'adores ?](https://open.spotify.com/album/6on8d8g4VHiUM3AkT7ElJn) | 3:13 |
 | 70 | [Les eaux de mars](https://open.spotify.com/track/32FfL5hpFQdweMkxg8Z55o) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Jim Tomlinson](https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq), [Graham Harvey](https://open.spotify.com/artist/1x7a6AcM8lS9mfpkzfIgAt), [Matt Skelton](https://open.spotify.com/artist/1Ak5vW938xaMoVfXuHeZfA), [John Parricelli](https://open.spotify.com/artist/55Ib86Ob0dKLELhJ1gvUri), [Jeremy Brown](https://open.spotify.com/artist/2GryQVS8rv0VqHUGN4Ua3v) | [Raconte\-moi..\. \(Bonus Edition\)](https://open.spotify.com/album/3afGgL2rBWMuLYEWXScDFb) | 3:38 |
 
-Snapshot ID: `MCxiNDQwODFiYjM0ZWVjY2U4Njk3N2FjZDU4YWNlZThkOGNjNzdhNjI0`
+Snapshot ID: `MCwyNTI0Y2UzM2M1ZTU3NTMyODk2MDZmMzU4YjViMWExNzhlNWU0NWZm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > Home to all the latest indie jams\. Cover: The Beaches
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,590 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,605 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [Selfish](https://open.spotify.com/track/7IS25VAQf7gVKBFqqSlOYW) | [Zoe Sky Jordan](https://open.spotify.com/artist/2eA4glPCdlED6WRJreG0aS) | [Selfish](https://open.spotify.com/album/6klbUhqZOmHCPhBxP9rqdI) | 4:12 |
 | 100 | [Familiarity](https://open.spotify.com/track/6hB5O4G6L5xa4r3wKSisH3) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [Familiarity](https://open.spotify.com/album/48CGCAKq0qCLqZjEnKFBbE) | 3:27 |
 
-Snapshot ID: `MCw4NTQ4OTZmNDZjODNkZWU4OTFjODhmYmQ2NjE2YWZlMDM1NThhMzVj`
+Snapshot ID: `MCxmYTUxMDE0YTA1NzFmYjBjNWMwZTRjMTc4ODY4NWUzMDc5YjQzODY4`

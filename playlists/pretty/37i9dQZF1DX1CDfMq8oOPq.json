@@ -1,12 +1,12 @@
 {
   "description": "s\u00f3 faixa rosa, tem disposi\u00e7\u00e3o? \ud83c\udf80 Foto: Kloe",
-  "num_followers": 38241,
+  "num_followers": 38261,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjZmMDM3NWRiM2QzMTE4NDcwYTQwOGMyODQyYjFlMjJhMzBiNjg4",
+  "snapshot_id": "MCw4YjJiMTQ4ZTlmNDU1MGIwZWY5N2ZjNjI3NjAwNDAyM2I2ZWMxZTg4",
   "tracks": [
     {
       "added_at": "2023-07-21 03:01:00",
@@ -22,6 +22,10 @@
         {
           "name": "Nagalli",
           "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
         }
       ],
       "duration_ms": 128086,
@@ -1023,30 +1027,6 @@
     {
       "added_at": "2023-07-21 03:01:00",
       "album": {
-        "name": "Tava Escrito",
-        "url": "https://open.spotify.com/album/2lc1MuuCaYQ3D0DHP3qK8O"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Limas",
-          "url": "https://open.spotify.com/artist/2wCuCtSHCIcTfwa0kQA0Pf"
-        },
-        {
-          "name": "Cristal",
-          "url": "https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX"
-        },
-        {
-          "name": "Nitro Di",
-          "url": "https://open.spotify.com/artist/4WKIMkuZv5Ab2jlWU9Drrh"
-        }
-      ],
-      "duration_ms": 181500,
-      "name": "Tava Escrito",
-      "url": "https://open.spotify.com/track/5kKxINTPSxO6JEpIRCzG0K"
-    },
-    {
-      "added_at": "2023-07-21 03:01:00",
-      "album": {
         "name": "A Tran\u00e7a",
         "url": "https://open.spotify.com/album/2I9FyslpABgSZQ7zKizUGb"
       },
@@ -1067,6 +1047,30 @@
       "duration_ms": 147456,
       "name": "A Tran\u00e7a",
       "url": "https://open.spotify.com/track/0qyvAoh5RL05BlUbGTnYBm"
+    },
+    {
+      "added_at": "2023-07-21 03:01:00",
+      "album": {
+        "name": "Tava Escrito",
+        "url": "https://open.spotify.com/album/2lc1MuuCaYQ3D0DHP3qK8O"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Limas",
+          "url": "https://open.spotify.com/artist/2wCuCtSHCIcTfwa0kQA0Pf"
+        },
+        {
+          "name": "Cristal",
+          "url": "https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX"
+        },
+        {
+          "name": "Nitro Di",
+          "url": "https://open.spotify.com/artist/4WKIMkuZv5Ab2jlWU9Drrh"
+        }
+      ],
+      "duration_ms": 181500,
+      "name": "Tava Escrito",
+      "url": "https://open.spotify.com/track/5kKxINTPSxO6JEpIRCzG0K"
     },
     {
       "added_at": "2023-07-21 03:01:00",

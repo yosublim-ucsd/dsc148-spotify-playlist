@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti\. Spirito di Lupo in cover questa settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,985 likes - 55 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,996 likes - 55 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 54 | [Stranidei](https://open.spotify.com/track/233ArIuVyP9GNBlfNavB4W) | [Bud Spencer Blues Explosion](https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S) | [Vandali / Stranidei](https://open.spotify.com/album/7mxKYjIXX1kGlV5RRDGvpI) | 4:05 |
 | 55 | [Occhi rossi](https://open.spotify.com/track/2nIQIZWYXDVrjbD570hbTd) | [ALIPERTI](https://open.spotify.com/artist/2wyyxE2lzVUrOD4tPGitor) | [Occhi rossi](https://open.spotify.com/album/1aM3xThqq4qdTRASt79Wye) | 2:43 |
 
-Snapshot ID: `MCw2YTk5MzU2OTIwNWQ4N2Y5MDM2MWYyOGQwY2ZkODIxNmFhM2IxYzlk`
+Snapshot ID: `MCxmMTZhZmZkMTRmMmNiNjBkOTkwYTNjYjc1ODk0MzdlYmY3Y2M5YWFj`

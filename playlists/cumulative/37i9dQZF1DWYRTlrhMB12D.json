@@ -2954,10 +2954,28 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-23",
       "duration_ms": 296240,
       "name": "Yeh Raat Yeh Chandni",
       "url": "https://open.spotify.com/track/0tbLiwkqvzQnDaRQUKBgrD"
+    },
+    {
+      "album": {
+        "name": "Baarishein, Chai Aur Hemant Kumar",
+        "url": "https://open.spotify.com/album/0Z4dnIU8RAr8hDEb8IKhko"
+      },
+      "artists": [
+        {
+          "name": "Hemant Kumar",
+          "url": "https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296240,
+      "name": "Yeh Raat Yeh Chandni",
+      "url": "https://open.spotify.com/track/1X8ZEqYlX1rSlaoQt5dRy9"
     },
     {
       "album": {

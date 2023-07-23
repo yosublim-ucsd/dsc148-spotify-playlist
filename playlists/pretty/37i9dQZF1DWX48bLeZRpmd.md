@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX48bLeZRpmd.md) - [plain]
 
 > Enjoy music & episodes from "The Quintessential Quintuplets"! / かわいさ500%の五つ子ラブコメ！アニメ『五等分の花嫁』プレイリスト！©春場ねぎ・講談社／「五等分の花嫁∽」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,556 likes - 51 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,613 likes - 51 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [五等分の花嫁・水瀬いのりプレイリストコメント](https://open.spotify.com/track/1Y72VRNrNrpk2PnWtet0KA) | [Inori Minase](https://open.spotify.com/artist/6Aal2uLlwnLAQwSI7apV11) | [五等分の花嫁・水瀬いのりプレイリストコメント](https://open.spotify.com/album/1tbEFvChqlpJxd4uRnBHSu) | 0:15 |
-| 2 | [Gotoubun no Mirai](https://open.spotify.com/track/6p14PfSxvGcnylxuECeLxb) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Mirai EP](https://open.spotify.com/album/4jvd7eCcRAs14lAG4Wcvse) | 3:39 |
+| 2 | [Gotoubun no Mirai](https://open.spotify.com/track/2TUjc5l9TCPx76wpHDKS4Z) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Mirai](https://open.spotify.com/album/00l4qRX62LwlUm0zSY5sTS) | 3:39 |
 | 3 | [Takaramono](https://open.spotify.com/track/3MklwvBKPAEC2RD8WMEay1) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Mirai EP](https://open.spotify.com/album/4jvd7eCcRAs14lAG4Wcvse) | 3:27 |
 | 4 | [Sekaiju Tatta Hitotsu](https://open.spotify.com/track/0ZzCuP5rRqL4wBg4b8Btn6) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Mirai EP](https://open.spotify.com/album/4jvd7eCcRAs14lAG4Wcvse) | 3:46 |
 | 5 | [Watashi no Hero](https://open.spotify.com/track/3LFvIFYmpKhdHr0KGffGeQ) | [Raiha Uesugi\(CV:Natsumi Takamori\)](https://open.spotify.com/artist/7xkyAety9rplkifdQ5FgZV) | [Gotoubun no Mirai EP](https://open.spotify.com/album/4jvd7eCcRAs14lAG4Wcvse) | 3:35 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX48bLeZRpmd.md) - [plain]
 | 50 | [Gobun no Ichi \- Pandaboy Tropical House Edit](https://open.spotify.com/track/2HZTjHng09WdSzAQC9Fnt8) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Hanayome \(Kawaisa Max Remix\)](https://open.spotify.com/album/2MtezrwA8SIntTXJsJ86eP) | 4:40 |
 | 51 | [Gotoubun no Kimochi \- Pandaboy Five Flowers Dance Edit](https://open.spotify.com/track/6oAfira2qMlknBX1EIBeQ3) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Hanayome \(Kawaisa Max Remix\)](https://open.spotify.com/album/2MtezrwA8SIntTXJsJ86eP) | 3:48 |
 
-Snapshot ID: `MCw2NGNlNzIxNzBlNjI0NmFlNTY1MmUxNTUyZmUyMWI2ZDZmNjM2ZjI3`
+Snapshot ID: `MCxiMzVjZDRhZGJmZTU1NTI0YTQ3NDgyMGZmOTRlYWU3YzdhMGU1YTE2`

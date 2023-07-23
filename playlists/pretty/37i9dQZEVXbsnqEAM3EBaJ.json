@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgxNjUyMDAsMDAwMDAwMDA5NmY3Y2I3OTU2NGJhNGE3NWRjY2RmNjAxMDRjZDYzZg==",
+  "snapshot_id": "MjgxNjUyMDAsMDAwMDAwMDBiNjg2NzBjNjE0ZThiMjcyOWJkZTVmZjVlOWIzNGIzMA==",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -84,17 +84,13 @@
           "url": "https://open.spotify.com/artist/5IRFMGI8aEtZdN07OYrBZc"
         },
         {
-          "name": "Walter Giardino",
-          "url": "https://open.spotify.com/artist/13sN20Fe1isPXTYSsL7AX5"
-        },
-        {
           "name": "Torsten Stenzel",
           "url": "https://open.spotify.com/artist/0wxa02PwiKJW3ZpzYHlCN2"
         }
       ],
-      "duration_ms": 389250,
-      "name": "1971",
-      "url": "https://open.spotify.com/track/7KdtM4CcK29gLAUqvCOibR"
+      "duration_ms": 366282,
+      "name": "Mystique Voyage (Outlanders Remix 2015)",
+      "url": "https://open.spotify.com/track/76jSAal20IizDaSI97fBwO"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -595,22 +591,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "All Too Much (Live)",
-        "url": "https://open.spotify.com/album/5PhuI6ggRPPUoBaUH1l5uF"
-      },
-      "artists": [
-        {
-          "name": "Lou Reed",
-          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
-        }
-      ],
-      "duration_ms": 250336,
-      "name": "Turn Out The Light - Live 1984",
-      "url": "https://open.spotify.com/track/0LzG0yOOEk8ocYJ69cVyPn"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Ni\u00f1os de Pl\u00e1stico (Cover)",
         "url": "https://open.spotify.com/album/1m4oMUOvb9jwd28xf9Md1S"
       },
@@ -779,42 +759,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "El Perd\u00f3n (feat. Mon Laferte)",
-        "url": "https://open.spotify.com/album/6lozW74MS46Wi4TBg8eInD"
-      },
-      "artists": [
-        {
-          "name": "Pascuala Ilabaca y Fauna",
-          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
-        },
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 169145,
-      "name": "El Perd\u00f3n (feat. Mon Laferte)",
-      "url": "https://open.spotify.com/track/70b8lQmciDIfPQNNEpp3Sj"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "We're On Our Way (Live)",
-        "url": "https://open.spotify.com/album/16mVmRH1aVa5eJBezfVo3J"
-      },
-      "artists": [
-        {
-          "name": "Carpenters",
-          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
-        }
-      ],
-      "duration_ms": 47673,
-      "name": "Band Introductions, Pt.2 - Live 1974",
-      "url": "https://open.spotify.com/track/409sy5a6mjUpfO3e9nw0zU"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Plein D'Amour",
         "url": "https://open.spotify.com/album/13CuZhFz03sBZ0pGP1guLM"
       },
@@ -827,22 +771,6 @@
       "duration_ms": 247181,
       "name": "People Around Me",
       "url": "https://open.spotify.com/track/2HA6CdEuci6hDvzHXEmjY0"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "We Didn\u2019t Start The Fire",
-        "url": "https://open.spotify.com/album/1PWKDjoZgljWTZJ7HCL4Ja"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 215530,
-      "name": "We Didn\u2019t Start The Fire",
-      "url": "https://open.spotify.com/track/60glT2wsoSHV3B8yCRSB8v"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -907,34 +835,6 @@
       "duration_ms": 193814,
       "name": "Got Me All Wrong",
       "url": "https://open.spotify.com/track/2d9A8njtdFo4MOI3v17kpw"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Thank You For Being A Friend",
-        "url": "https://open.spotify.com/album/79BU4B95CURHJXN6MSjCoc"
-      },
-      "artists": [
-        {
-          "name": "Tony Christie",
-          "url": "https://open.spotify.com/artist/7KK6M2jPylHa6gLbMBI6V0"
-        },
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        },
-        {
-          "name": "Nile Rodgers",
-          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
-        },
-        {
-          "name": "Manchester Camerata",
-          "url": "https://open.spotify.com/artist/5sYNdMlE64V0PjSMIxnB8B"
-        }
-      ],
-      "duration_ms": 247550,
-      "name": "Thank You For Being A Friend",
-      "url": "https://open.spotify.com/track/2xBs9IVBX8L9HoZYDBhN7u"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1027,74 +927,6 @@
       "duration_ms": 197781,
       "name": "The One",
       "url": "https://open.spotify.com/track/7JmnFOR3DUiRTkEybOlDqh"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Re-Industrialized",
-        "url": "https://open.spotify.com/album/3dbC9oQ5is3z8VR4Ninpuv"
-      },
-      "artists": [
-        {
-          "name": "Fear Factory",
-          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
-        }
-      ],
-      "duration_ms": 249360,
-      "name": "Recharger",
-      "url": "https://open.spotify.com/track/3C5jj2rhMP5Qw7AiKyMoWQ"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Strange Currencies",
-        "url": "https://open.spotify.com/album/40T3SNRshZsTw1PtCIiqeW"
-      },
-      "artists": [
-        {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
-        }
-      ],
-      "duration_ms": 253471,
-      "name": "Strange Currencies - Live Road Movie Version",
-      "url": "https://open.spotify.com/track/0LIJqJ8IoKfdFuoa3KOVzA"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Crashed The Wedding 2.0",
-        "url": "https://open.spotify.com/album/5GXTkl0pETPZJ0i2hlbWF9"
-      },
-      "artists": [
-        {
-          "name": "Busted",
-          "url": "https://open.spotify.com/artist/3Z6IRCo7umuk8K2XQy0ZDj"
-        },
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 160186,
-      "name": "Crashed The Wedding 2.0",
-      "url": "https://open.spotify.com/track/4DuUOYH15hqgaewjLvBUzR"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "La voz del pueblo (Extended)",
-        "url": "https://open.spotify.com/album/3E7vyyUPAduuhPDIksgtS5"
-      },
-      "artists": [
-        {
-          "name": "Los Miserables",
-          "url": "https://open.spotify.com/artist/7EP6QHjz7FSJZBVjDuAmas"
-        }
-      ],
-      "duration_ms": 201786,
-      "name": "Arriba en la Cordillera",
-      "url": "https://open.spotify.com/track/09RmhH2TuVdOoRfml3QeBX"
     }
   ],
   "unique_name": "Release Radar (@pipemanuel10)",

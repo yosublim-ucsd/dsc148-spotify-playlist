@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > 100 LIVE @ Way Out West 2023: Dizzy, Jelassi, Mohelá m.fl.
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,544 likes - 85 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,588 likes - 85 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 84 | [Kom ihåg](https://open.spotify.com/track/6fJvX7Pc1deCghPhVOVm7i) | [Gas](https://open.spotify.com/artist/2Uto5OzT6T7DacclzYKvq3) | [Kom ihåg](https://open.spotify.com/album/4GfuAdQ3XGqDTPQhdLnrIj) | 2:11 |
 | 85 | [PARANOIA](https://open.spotify.com/track/43DbkHDgzf9kvGi8eXxfS1) | [Mazzo](https://open.spotify.com/artist/4cPM4H1MtqNzsuNdkRJ6Qx), [RUNI](https://open.spotify.com/artist/4hmrUcRgiNbJn6tcXMzqEN), [9liv](https://open.spotify.com/artist/1CoE5ue29WuTIHn0QE5mrO) | [PARANOIA](https://open.spotify.com/album/68NNwLH3DHcTNFUmitcX2p) | 2:32 |
 
-Snapshot ID: `MCw0OGZjNTMwZTQ4MWFlYzQ4YzUwNDdkZGNmMzE5YTNlMzU0YzI2NGJi`
+Snapshot ID: `MCwzYTk3ZjNhMDc4ZTc4NWNmNjIzNzUwMzVkOTI5M2ExZDU3NzVmMWM0`

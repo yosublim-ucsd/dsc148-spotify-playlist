@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: Saucy Dog
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,736 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,799 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [FLASH](https://open.spotify.com/track/5FBjzAdXRTY8MV3f7vXwtE) | [Jam Fuzz Kid](https://open.spotify.com/artist/6GQODml23klZ80TrKLUOfv) | [FLASH](https://open.spotify.com/album/53h95LaMjbvS67NdTqNqOq) | 4:30 |
 | 100 | [チルチルクラブ](https://open.spotify.com/track/3sHny0lv31L1D0EhogKEpt) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [チルチルクラブ](https://open.spotify.com/album/62Z9g2fCTSC64htta3ZFB7) | 3:49 |
 
-Snapshot ID: `MCw2ZGQ0MGU5Y2I5ODY1Y2RhOGFhMWUwZjBkYmM1ZjQ1NDViNzE1ZDE0`
+Snapshot ID: `MCxlODIzYzI1MTA4ODgxYjYxMGE1MmE2ODU5MDU2ZmFkOTJkZTQ0MGYy`

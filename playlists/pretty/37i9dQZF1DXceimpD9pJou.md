@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto: <a href="https://open.spotify.com/artist/1wUcqswHv80fp5nMF2hVwM?si=6771e768eb674c63">NewSpring Worship</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,936 likes - 100 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,020 likes - 100 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Presente Y Futuro](https://open.spotify.com/track/4Pt3XjZidq0ChEYpMdvMDC) | [NewSpring Worship](https://open.spotify.com/artist/1wUcqswHv80fp5nMF2hVwM), [Charlee Buitrago](https://open.spotify.com/artist/76g8gyIWxuCkaeiqynU9L8), [Dariann González](https://open.spotify.com/artist/1sgmTpjFhU8xeSlrDGpiSQ) | [Presente Y Futuro](https://open.spotify.com/album/7JMdznd473lSaMPvzqx0NR) | 3:52 |
 | 2 | [Que Mi Fe No Falle](https://open.spotify.com/track/5HgrYEjrqxiZRb4Er78CG9) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [Que Mi Fe No Falle](https://open.spotify.com/album/1AEqPqJDfplFLsvg4Yeubx) | 3:10 |
-| 3 | [Perdido y Lejos \- Rerecorded](https://open.spotify.com/track/4imYSFcf60hBP0EATb8Lmx) | [Mariannah y Diego](https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG), [Un Acorde](https://open.spotify.com/artist/5ZRvZGqtTjZLOTkEdZM2Px) | [Perdido y Lejos \(Rerecorded\)](https://open.spotify.com/album/0Ik6JlwpSHWrR0atTkr0P1) | 3:42 |
+| 3 | [Perdido y Lejos \- Re\-recorded](https://open.spotify.com/track/4imYSFcf60hBP0EATb8Lmx) | [Mariannah y Diego](https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG), [Un Acorde](https://open.spotify.com/artist/5ZRvZGqtTjZLOTkEdZM2Px) | [Perdido y Lejos \(Re\-recorded\)](https://open.spotify.com/album/0Ik6JlwpSHWrR0atTkr0P1) | 3:42 |
 | 4 | [Cicatrices](https://open.spotify.com/track/4StjHsFC7u4bOn4rCMcbRr) | [ECCOS](https://open.spotify.com/artist/6OnDxasjEMPIRrazHkH61l), [Lluvia Richards](https://open.spotify.com/artist/3kcszo6x9oxggpewnHZheB), [Steven Richards](https://open.spotify.com/artist/7nV5z8aBZuot66MlL143o4) | [Cicatrices](https://open.spotify.com/album/2twMtrRYea5KW5DFCga0Dq) | 3:05 |
 | 5 | [GPS](https://open.spotify.com/track/7oIHk7ItHZowvrxm1CTdh1) | [Nataly Mora](https://open.spotify.com/artist/40RPXwhyUfZez3qkxbcTl8) | [GPS](https://open.spotify.com/album/3oVg0LK6IcmlkxqiHrjCvh) | 3:05 |
 | 6 | [Siempre Esperarás](https://open.spotify.com/track/5nVRYaCFq8nwqGen8tThlH) | [Edu Linares](https://open.spotify.com/artist/3unyXg4kPMCsKrn8cboutD), [Sophiv](https://open.spotify.com/artist/791UqFkAPOo2MqGZr8rudS) | [Siempre Esperarás](https://open.spotify.com/album/5n51C2vbyels6BSs9PfDFz) | 2:31 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [NORTE](https://open.spotify.com/track/1YgVkW9PRa6lF8nMUKPcks) | [Vito Vasquez](https://open.spotify.com/artist/6X77ZznZkcQj4vcIEwYRM5) | [NORTE](https://open.spotify.com/album/29Hzdk7JSJ9fxbvrOU7sWw) | 2:49 |
 | 100 | [No Lo Prenda](https://open.spotify.com/track/0C0iMkdxFqHoDgXEVSiQy8) | [Peter Metivier](https://open.spotify.com/artist/1dRxdmjynLZ3uWalEN5wrg), [Rubinsky Rbk](https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH), [Dixson Waz](https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt) | [El Mejor Dembow](https://open.spotify.com/album/2pptLT2BLYvXIT8zmUqfVm) | 3:03 |
 
-Snapshot ID: `MCxjZjBiNTZmMzZhNDA5ZTE2YThhNDRmN2E3MWM3NGYwOGVhN2ZkZGQx`
+Snapshot ID: `MCwwNTRkNTkxM2NjZTBjODllZGI1ZWZkMGU2ZjFmZjU4NWE4OWM4NmU2`

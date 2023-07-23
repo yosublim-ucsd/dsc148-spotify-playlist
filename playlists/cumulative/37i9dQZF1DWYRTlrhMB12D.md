@@ -4,7 +4,7 @@
 
 > Soulful Hindi songs for your nostalgic journey\. Cover \- Kabhi Kabhie
 
-156 songs - 11 hr 53 min
+157 songs - 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,8 @@
 | [Yeh Lo Main Haari Piya](https://open.spotify.com/track/2Qlx7OlT4o9JIsAbgLwhm1) | [Geeta Dutt](https://open.spotify.com/artist/0QsbYX8XslSSUcztc6u4pO) | [Aar Paar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0f846jv2LgmzT2ZvqWcLYe) | 3:10 | 2021-09-29 | 2023-05-03 |
 | [Yeh Mera Diwanapan Hai](https://open.spotify.com/track/6O9tpC8F1dzV1JhkiGQ5iU) | [Mukesh](https://open.spotify.com/artist/4etv0ut4ws0GbXBtolzf5e) | [Yahudi](https://open.spotify.com/album/3mD0hz6wZyw1JVpauwKlT4) | 3:46 | 2021-09-29 | 2022-07-29 |
 | [Yeh Raat Bheegi Bheegi](https://open.spotify.com/track/4B3UcOcsfqurNkTnO9tczy) | [Manna Dey](https://open.spotify.com/artist/4kcoiVXIxvUoLUoHY1vJYU), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Chori Chori \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0QhuFKn0eSrmf64IhtBzfW) | 4:29 | 2021-09-29 |  |
-| [Yeh Raat Yeh Chandni](https://open.spotify.com/track/0tbLiwkqvzQnDaRQUKBgrD) | [Hemant Kumar](https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj) | [Jaal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5j5JVwPuM8uM1S7Sx0LVtE) | 4:56 | 2023-06-08 |  |
+| [Yeh Raat Yeh Chandni](https://open.spotify.com/track/0tbLiwkqvzQnDaRQUKBgrD) | [Hemant Kumar](https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj) | [Jaal \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5j5JVwPuM8uM1S7Sx0LVtE) | 4:56 | 2023-06-08 | 2023-07-23 |
+| [Yeh Raat Yeh Chandni](https://open.spotify.com/track/1X8ZEqYlX1rSlaoQt5dRy9) | [Hemant Kumar](https://open.spotify.com/artist/02Um2HIOrUdsy3wqPBZwsj) | [Baarishein, Chai Aur Hemant Kumar](https://open.spotify.com/album/0Z4dnIU8RAr8hDEb8IKhko) | 4:56 | 2023-07-21 |  |
 | [Yeh Raaten \- From "Julie"](https://open.spotify.com/track/2QbjqY4vGkqC4eMrI4KiUX) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [The Golden Melodies, Vol\. 1](https://open.spotify.com/album/2qrLaaJpaQKJQF0fUS0lBJ) | 5:35 | 2023-02-03 |  |
 | [Yeh Raaten \- From "Julie" / Soundtrack Version](https://open.spotify.com/track/6jWYM50qljcVX5gypDKl2J) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Julie](https://open.spotify.com/album/77TiM1bLTtAg8Y5wc4W93B) | 5:36 | 2021-09-29 | 2022-07-27 |
 | [Yeh Raaten Yeh Mausam](https://open.spotify.com/track/5ZKMBzpA8E2dDOmL06pK3J) | [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y), [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Dilli Ka Thug](https://open.spotify.com/album/45Fd3urpMLMCbjqiHYWEBD) | 3:21 | 2021-09-29 | 2022-07-29 |

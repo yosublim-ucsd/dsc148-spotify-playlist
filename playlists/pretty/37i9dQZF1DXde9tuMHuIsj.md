@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 
 > The best of Latin Trap\. Cover: Chris Jedi, YOVNGCHIMI & Dei V
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,526,004 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,526,013 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXde9tuMHuIsj.md) - [plain]
 | 49 | [Drippin](https://open.spotify.com/track/5LH8MkYXQ9C43PNrbCMVwq) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7) | [Drippin](https://open.spotify.com/album/72qQWFH7ABnGnn3y7npnpA) | 3:38 |
 | 50 | [Mi Vicio \- Remix](https://open.spotify.com/track/7tpeqecMwVxj1iQHDQt2TI) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Trap Vibes](https://open.spotify.com/album/3EwegJkjEyMRTOXDlRTeXQ) | 4:44 |
 
-Snapshot ID: `MCw4ZDQwYTk2MzgzMGU2NzE2ZDE3OTRlMTEwODk0ZTA5YmViYWEwNzZl`
+Snapshot ID: `MCxlNjZjYjgzNGEzNzU0NWIwNjIzYzRjZjNkZTY5OTU0ZWNmMjMxYzk0`

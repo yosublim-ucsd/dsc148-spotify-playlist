@@ -4,7 +4,7 @@
 
 > A calm sea, a quiet beach, a peaceful moment..\. <br/>Relax, sleep, meditate, with soft sounds of the soothing surf.
 
-140 songs - 6 hr 52 min
+141 songs - 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Salty Waves](https://open.spotify.com/track/2aRy7pklD5hTboN2N8TbCm) | [AQUELLE](https://open.spotify.com/artist/6QpxjwGg7Ni071gSexGP0j) | [Salty Waves](https://open.spotify.com/album/69F69VuU2LQCaTp3U0hyoV) | 2:37 | 2022-11-22 |  |
 | [Santa Teresa \(Ocean\)](https://open.spotify.com/track/5cxdMghnuN2EpTpeJ1v6Qm) | [Shorenights](https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1) | [Yugen \(Nature\)](https://open.spotify.com/album/1jcqwtMzGwHCGRD2BzfNXa) | 2:34 | 2022-11-22 |  |
 | [Scandinavian Lakeside Waves](https://open.spotify.com/track/4RKVd3htw5JMFUanJC5HoD) | [Aurise](https://open.spotify.com/artist/2hxzpIVNlctBSHKs4aUZkP) | [Scandinavian Lakeside Waves](https://open.spotify.com/album/0GtfIW0lSsCkcHypnkEEaJ) | 3:11 | 2022-04-22 |  |
+| [Sea, Sand and Seashells](https://open.spotify.com/track/1jzIE1bZcx6s4aMxVDDtNO) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [Tropical Ocean Wave Dreams](https://open.spotify.com/album/4aW0CgnkvlMpfukTxLDb3u) | 3:06 | 2023-06-19 |  |
 | [Seagull's Song](https://open.spotify.com/track/5ezlsYbXfhMQTh5BH904PT) | [Ocean Bank](https://open.spotify.com/artist/0Hv3Q7w8U9OJRP8t78JhJr) | [Dancing with the Sea](https://open.spotify.com/album/0A784kyTLE8armtk5OTXi7) | 2:01 | 2023-02-15 |  |
 | [Seaside In The Stockholm Archipelago 2](https://open.spotify.com/track/1KQPyKNFWNkGpUi1BnPHVJ) | [Archipelago Smoothe](https://open.spotify.com/artist/3n3Br1Nm8nuHT6kH7gZerv) | [Seaside In The Stockholm Archipelago](https://open.spotify.com/album/7ffphDQ0QuttrqokstevrY) | 2:12 | 2022-04-22 |  |
 | [Seaside Waves](https://open.spotify.com/track/4jj9EEvizpNARAlvjPR96w) | [Epic Sleep](https://open.spotify.com/artist/38dOlLBxTQQFh4ElaWTpCt) | [Seaside Waves](https://open.spotify.com/album/5gDuTy9AEOA2JLw5FAk1RR) | 1:53 | 2022-04-22 | 2023-06-20 |
@@ -116,7 +117,7 @@
 | [Sleeping at the Calm Coast](https://open.spotify.com/track/67RbgGgHDNYiJKBGjCBvO6) | [Nature Vibrations](https://open.spotify.com/artist/0l3CplnniDfzLGdeOJlF95) | [Echo of Waves](https://open.spotify.com/album/2A1V2bnCjWGXYrKKTAE7HV) | 3:15 | 2022-04-22 |  |
 | [Sleepy Wave Crashes](https://open.spotify.com/track/6lrRldi6EPan1Wb32Zp8pW) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Sleeping Sea](https://open.spotify.com/album/18ILKhH92zixHoHbWDwMUF) | 4:30 | 2022-11-22 |  |
 | [Slow Churning Waves](https://open.spotify.com/track/1nfIxmlozKXrdWq15ozay6) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [Tropical Ocean Wave Dreams](https://open.spotify.com/album/4aW0CgnkvlMpfukTxLDb3u) | 3:05 | 2023-02-15 |  |
-| [Slow Laps Background Ocean](https://open.spotify.com/track/6ex0RelF7uGg4I8zoJlCTN) | [Shorenights](https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1) | [Ocean's Edge](https://open.spotify.com/album/2XSyhlBiYtUsjuJ3gB0shQ) | 2:56 | 2022-11-22 |  |
+| [Slow Laps Background Ocean](https://open.spotify.com/track/6ex0RelF7uGg4I8zoJlCTN) | [Shorenights](https://open.spotify.com/artist/5LG3LsvrCVe6h2BVrcaqc1) | [Ocean's Edge](https://open.spotify.com/album/2XSyhlBiYtUsjuJ3gB0shQ) | 2:56 | 2022-11-22 | 2023-07-23 |
 | [Somnolent Sea \- Ocean](https://open.spotify.com/track/6TCHKBGVGYMNx55r5SQnA4) | [The Forest Escape](https://open.spotify.com/artist/63nWC8U7RxoOnCLl3b6AK4) | [Earth's Gentle Whisper \(Nature\)](https://open.spotify.com/album/6MkMYudGBe4kTQSlX55ajz) | 3:24 | 2023-06-19 |  |
 | [Soothing Ocean Sound](https://open.spotify.com/track/2ACz2tjRaxwK2v7Gsmm5X2) | [Astrinity](https://open.spotify.com/artist/1w4jhXTFvr5k1Zk7GJ7Iyq) | [Soothing Ocean Sound](https://open.spotify.com/album/6YwzxAxdw92YooMgYSLbeq) | 2:49 | 2022-11-22 |  |
 | [Soothing Waves](https://open.spotify.com/track/3afgb2bRHdcpGgssbzd2kv) | [In The Ocean \(Sound FX\)](https://open.spotify.com/artist/6gKlW4QncpQHg6n6eMUNxF) | [Wave Sounds From Scandinavia Vol\. 2](https://open.spotify.com/album/5YbKpZftWuKq5JUPEZC9Le) | 2:40 | 2022-11-22 |  |

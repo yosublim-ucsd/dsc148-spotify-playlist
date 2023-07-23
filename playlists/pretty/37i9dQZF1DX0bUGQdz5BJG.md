@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Frank Ray
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,416 likes - 207 songs - 10 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,481 likes - 207 songs - 10 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 93 | [What's Wrong With That?](https://open.spotify.com/track/2ScbqIrRmoyPtRuokRPPAg) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [What's Wrong With That?](https://open.spotify.com/album/5TCPh0eScFvcue2bSkb1db) | 2:51 |
 | 94 | [Takes After You](https://open.spotify.com/track/4xqyXdcLeaqDD5XDBg1BuR) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [Takes After You](https://open.spotify.com/album/1wLYS5lFasLJ9By9Khyi8K) | 3:04 |
 | 95 | [Truck I Grew Up In](https://open.spotify.com/track/49in7PtAI0hHhi8I65SZlv) | [Styles Haury](https://open.spotify.com/artist/57sVUbHm2z4eBvAnexnZEG) | [Truck I Grew Up In](https://open.spotify.com/album/1wtVYClCFqBqywx97YXS1W) | 3:08 |
-| 96 | [Heart to Break](https://open.spotify.com/track/3cjXpD1y4R8YPMIMcPir3p) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT) | [Heart to Break](https://open.spotify.com/album/0TMjCBtovYgd7OXnBwMbIL) | 3:17 |
+| 96 | [Heart to Break](https://open.spotify.com/track/5NdYqiRuJdRIyHZU0OIEYy) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT) | [Phases](https://open.spotify.com/album/2ZjmoWEahVtrvcHECaxqTk) | 3:17 |
 | 97 | [Changing Me](https://open.spotify.com/track/2p9pk1ecXomNAC88DW7cCK) | [Andrew Jannakos](https://open.spotify.com/artist/6DAX5iORnv8nsZYYeZqket) | [Changing Me](https://open.spotify.com/album/1d2SMehUE9sbbBUhkJn8N1) | 3:14 |
 | 98 | [History Of Repeating](https://open.spotify.com/track/49BOywRTICAn5UxVoTtt3L) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [History Of Repeating](https://open.spotify.com/album/51gd1r5IT0mPSJ0iajOwN1) | 3:14 |
 | 99 | [Layaway](https://open.spotify.com/track/3ek1xBskVhQc7VgzRuSAO9) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw) | [Layaway](https://open.spotify.com/album/7JZJw2ZjWy9wvCbUQrkMpC) | 3:29 |
@@ -216,4 +216,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 | 206 | [Stranger](https://open.spotify.com/track/10RtSGZV9YgUICMOKdynY0) | [Cassie Cenzano](https://open.spotify.com/artist/6Gtm8eyXjLSXaTo9YGU98D) | [Stranger](https://open.spotify.com/album/118ixOSc2tdqJufYiZpgrs) | 3:17 |
 | 207 | [Adam's Song](https://open.spotify.com/track/5J5YyGh055rlYQMq298bz9) | [Muscadine Bloodline](https://open.spotify.com/artist/0EyZDKtc41e4A3a3v69MxD) | [Teenage Angst](https://open.spotify.com/album/1VoaFBLj3xWmGXzARjTpQT) | 2:26 |
 
-Snapshot ID: `MCwxYWE2Y2ZiZmQ0YzczMzJhOTU4OTY2NGM4MzJlN2I2ZjA2ZGVmMmY3`
+Snapshot ID: `MCwxZDQ1MGIzNzM2ZTdiNjgzNTk3NzZjNmRiNWJmYjE4NWUzYTIxNDQ3`

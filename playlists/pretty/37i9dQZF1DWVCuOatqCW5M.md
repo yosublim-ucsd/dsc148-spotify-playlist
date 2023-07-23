@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Gurnazar, Stebin Ben
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,772 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,867 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 30 | [Baarishon Ki Dhun](https://open.spotify.com/track/2nm7MOVPN2ZTMkaKetjmcg) | [Saaj Bhatt](https://open.spotify.com/artist/5X6ShVeOR0RNA0QLpFksuj), [Sanjeev Chaturvedi](https://open.spotify.com/artist/5a4Lwkfl8momi2Two1wSBA) | [Baarishon Ki Dhun](https://open.spotify.com/album/4v9QWEdfOAUfz2blMImF1N) | 3:22 |
 | 31 | [Aao Zara](https://open.spotify.com/track/0blUP1s0RReqSeijPeZDnf) | [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo), [Shreya Phukan](https://open.spotify.com/artist/5Hfymmb6YdN0BXT5z394b6), [Raaj Jyoti Konwar](https://open.spotify.com/artist/5olB8pxiBEf6xV6cJlawbD) | [Aao Zara](https://open.spotify.com/album/6ybCBo24WHhTEa9obMijpQ) | 2:33 |
 | 32 | [Pyaar Mein Paagal](https://open.spotify.com/track/4vuny1FH57OGF5ZCUnNrIN) | [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH), [Uddipan Sharma](https://open.spotify.com/artist/0NFh0I6PVc02IebwluGscm), [Shloke Lal](https://open.spotify.com/artist/1pjDnQK4lN75yaCU4ikNz1) | [Pyaar Mein Paagal](https://open.spotify.com/album/5AjrIWpmAHwjDNFLduF9mX) | 2:32 |
-| 33 | [Khwabon Ka Hai Tu Rehguzar](https://open.spotify.com/track/0MZyI2TT2jy888mSjSKCuG) | [Raj Barman](https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU), [Rupali Kashyap](https://open.spotify.com/artist/2snKNPk7kKCFQiWQzdSNEg) | [Khwabon Ka Hai Tu Rehguzar](https://open.spotify.com/album/5ZkYa5ME7yN4tnqP5V7XK9) | 4:03 |
+| 33 | [Khwabon Ka Tu Hai Rehguzar](https://open.spotify.com/track/0MZyI2TT2jy888mSjSKCuG) | [Raj Barman](https://open.spotify.com/artist/5qERXbPWPdUePjrAW00vuU), [Rupali Kashyap](https://open.spotify.com/artist/2snKNPk7kKCFQiWQzdSNEg) | [Khwabon Ka Tu Hai Rehguzar](https://open.spotify.com/album/5ZkYa5ME7yN4tnqP5V7XK9) | 4:03 |
 | 34 | [Aarzoo](https://open.spotify.com/track/6JojggN2GAcUg4fvNROB1s) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Aarzoo](https://open.spotify.com/album/65mN0z094HGFbyZnmpQpqO) | 2:44 |
 | 35 | [Sanam Aa Gaya](https://open.spotify.com/track/2Tc6AF0CJVBgYvEIWsNO1e) | [Payal Dev](https://open.spotify.com/artist/6FtZhorjCMfkaVJ7kKdmq7), [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Sanam Aa Gaya](https://open.spotify.com/album/4nmJmgcGvyM0alnqq2GVog) | 4:00 |
 | 36 | [Naal Tere](https://open.spotify.com/track/4lOufXmr8qbx671STvnogs) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Naal Tere](https://open.spotify.com/album/3mdxOU5iutIQTOhs9wnBee) | 3:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Baarish Aayi Hai](https://open.spotify.com/track/7c0rTqSdcIYvbU3jLKzdYF) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Rana Sotal](https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y) | [Baarish Aayi Hai](https://open.spotify.com/album/6a851oa8UJOEXLIf9sKPNc) | 3:17 |
 | 50 | [Hasi Ban Gaye](https://open.spotify.com/track/7HExkRyYBly0RMz47kzgS5) | [Ami Mishra](https://open.spotify.com/artist/5ugsiK49gIkIVh8U93EO0z), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx), [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP), [VIBIE](https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh) | [Hasi Ban Gaye](https://open.spotify.com/album/2BbxHq6N8pt8jHM5uv7Enh) | 2:45 |
 
-Snapshot ID: `MCwzNTQ2ZTNiMTAwMDFkNmNmNTMxYzYwYWQ1ZmYxYmQxMGYwMDgzNWRm`
+Snapshot ID: `MCxhN2JmMTVlYjA2YTEwNzZhNTRiNzUwM2IyMDY0Mzg2YzJlYmIzNGM1`

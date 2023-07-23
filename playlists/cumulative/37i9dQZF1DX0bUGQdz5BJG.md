@@ -4,7 +4,7 @@
 
 > Music City must\-hears\. Cover: Frank Ray
 
-1,483 songs - 3 day 7 hr 23 min
+1,484 songs - 3 day 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -509,7 +509,8 @@
 | [Heart of Stone](https://open.spotify.com/track/6lPmuDm7kvUcdK2omu6B38) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Tornillo](https://open.spotify.com/album/4U5NlmzgbAlqmHIEq8L8nT) | 4:25 | 2022-07-29 | 2022-11-12 |
 | [Heart On Fire In Mexico](https://open.spotify.com/track/72SRZVihNBosupaENmkdrv) | [Abby Anderson](https://open.spotify.com/artist/0WicR9iYAPd0Bi7i3bz9MB) | [Heart On Fire In Mexico](https://open.spotify.com/album/5mJcJMEQLumfNkNYo2mTN7) | 3:24 | 2023-03-31 | 2023-05-13 |
 | [Heart on My Glass](https://open.spotify.com/track/5z5u8Kp8bDkc3QSNhn7wpv) | [Meghan Patrick](https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ) | [Heart on My Glass](https://open.spotify.com/album/5wn3rXI7ahFosQJmt14ZJ2) | 3:10 | 2022-01-21 | 2022-02-26 |
-| [Heart to Break](https://open.spotify.com/track/3cjXpD1y4R8YPMIMcPir3p) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT) | [Heart to Break](https://open.spotify.com/album/0TMjCBtovYgd7OXnBwMbIL) | 3:17 | 2023-04-21 |  |
+| [Heart to Break](https://open.spotify.com/track/3cjXpD1y4R8YPMIMcPir3p) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT) | [Heart to Break](https://open.spotify.com/album/0TMjCBtovYgd7OXnBwMbIL) | 3:17 | 2023-04-21 | 2023-07-23 |
+| [Heart to Break](https://open.spotify.com/track/5NdYqiRuJdRIyHZU0OIEYy) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT) | [Phases](https://open.spotify.com/album/2ZjmoWEahVtrvcHECaxqTk) | 3:17 | 2023-07-21 |  |
 | [Heartbeat](https://open.spotify.com/track/51uld0hwaPZQkreLc9lnd8) | [Jacob Bryant](https://open.spotify.com/artist/53Pdb9rdy3SWEzBtyKk1om) | [Heartbeat](https://open.spotify.com/album/3d1huYxmyq3L3Uhe7eFPNk) | 2:53 | 2022-01-07 | 2022-01-15 |
 | [Heartbreak Away](https://open.spotify.com/track/7mwIAamZoMFiYnhBgePpPn) | [Kelsey Lamb](https://open.spotify.com/artist/2eoYr2pnDgyoDe9GLhuBoo) | [Heartbreak Away](https://open.spotify.com/album/4yKJbxQduRXmACOp8zCTLs) | 3:11 | 2022-08-26 | 2023-01-06 |
 | [Heartbreak Closer](https://open.spotify.com/track/3vvIRXmSrMWqjjzfgyGSbQ) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3), [Rae Isla](https://open.spotify.com/artist/7dfrA1fYW7chYdftUxLnk5) | [Heartbreak Closer](https://open.spotify.com/album/7xDSGy074RoRlUn48B7E85) | 3:02 | 2023-07-14 |  |

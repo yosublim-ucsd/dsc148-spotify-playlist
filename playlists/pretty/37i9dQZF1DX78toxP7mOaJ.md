@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Picture Parlour \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,967 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,021 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 58 | [parasite](https://open.spotify.com/track/1xXS5zW2jMxpFdxXgBwKYB) | [OC Saint](https://open.spotify.com/artist/1W80xMiJWGfGsymfrjCCLa) | [parasite](https://open.spotify.com/album/4EI3dIY1GHQ8gZrkfDO3fm) | 3:33 |
 | 59 | [Outta My Mind](https://open.spotify.com/track/20Xj7F8TKGEmDbAsbVGmav) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx) | [Outta My Mind](https://open.spotify.com/album/0zFmBki2eFR3QZEgqKZHdd) | 2:45 |
 | 60 | [Doomer](https://open.spotify.com/track/3bGfDpcaUIKZhXM0x776re) | [THICK](https://open.spotify.com/artist/3y6q4JBOyyoETYPw1yHYli) | [Doomer](https://open.spotify.com/album/4KZtS7Mbox8WP1HF8Ugtz1) | 3:43 |
-| 61 | [Heaven Is Your Company](https://open.spotify.com/track/5FuSWZB44fvaG86WNoZIPn) | [Death Bells](https://open.spotify.com/artist/14aKkOrkqm6amS81rUMZPg) | [Heaven Is Your Company](https://open.spotify.com/album/2DGj34CUI2CdjstGXkAtRN) | 3:09 |
+| 61 | [Heaven Is Your Company](https://open.spotify.com/track/7kZs1XgzlyQhMNHLzPA9cj) | [Death Bells](https://open.spotify.com/artist/14aKkOrkqm6amS81rUMZPg) | [Take My Spirit Now](https://open.spotify.com/album/5icbSNSho1t6Yc82qWC0vR) | 3:09 |
 | 62 | [Manic](https://open.spotify.com/track/5MEDzX4SegWLP5ip2jR73r) | [Bleach Garden](https://open.spotify.com/artist/74v0EH5Gl2zsUhXXWzGJyI) | [Nepenthe](https://open.spotify.com/album/1iwuk5tV77trbyFApJmLyT) | 4:29 |
 | 63 | [Scream Queen](https://open.spotify.com/track/7MQyVPZtNRyIFY49WCMIll) | [The Dumes](https://open.spotify.com/artist/1sDeMYlZRiudJljM1BKMWb) | [Scream Queen](https://open.spotify.com/album/2lEyMWJR49WXz3O9hF5RwB) | 2:56 |
 | 64 | [Moving On](https://open.spotify.com/track/6x8TBdLQ6XpAoF3c4bhYtW) | [Porsh Bet$](https://open.spotify.com/artist/6744gF2rjCRtqwbMb9ldk4) | [Moving On](https://open.spotify.com/album/5PdOlosh5fbfrbNm9XEh1M) | 3:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 99 | [fix](https://open.spotify.com/track/4vOXwlSR8SzM3C0TDvkV4m) | [knitting](https://open.spotify.com/artist/2eRDm8pl8MFrZv1gsfqUtj) | [fix](https://open.spotify.com/album/50csy4OVo88eEGhERT6We1) | 3:12 |
 | 100 | [Cadillac](https://open.spotify.com/track/0KAxcmnTqf2g8ToqAkhKHd) | [King Falcon](https://open.spotify.com/artist/65CoIqXCFvKUzD0WfKhyq2) | [Cadillac](https://open.spotify.com/album/7EIDHIB7Gg4JFTTnNWTuGP) | 3:02 |
 
-Snapshot ID: `MCwxZDc1MjM0Y2ZiZGIwMzljNzUwODIzMjBhZmU5ZWE1ZDA4Y2RiY2E1`
+Snapshot ID: `MCw3Y2UxOTk3OTkwMTRmZDQ4NjUwNDRjZTVjODVmMGE2ZjU3ZmMzMGY0`

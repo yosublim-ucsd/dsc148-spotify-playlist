@@ -1,12 +1,12 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: TOBi",
-  "num_followers": 6163,
+  "num_followers": 6177,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MThmNjQ1MWE4MzI3YTI1YjYzOTg0MzkyMTdkOWFhYTdhZTU2ZDRm",
+  "snapshot_id": "MCw4NGEwYWYwZjI0MDk5YjUyZDA2YzljODUxYWYwNmU3YjBhNjI4MDE2",
   "tracks": [
     {
       "added_at": "2023-07-20 20:22:20",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-07-20 20:22:20",
       "album": {
-        "name": "Come Outside",
-        "url": "https://open.spotify.com/album/2rjsJgXKKQRrLOrgmHHIby"
-      },
-      "artists": [
-        {
-          "name": "K Money",
-          "url": "https://open.spotify.com/artist/3WC4zw6QqkpKgs9rqk6ot6"
-        }
-      ],
-      "duration_ms": 198321,
-      "name": "Come Outside",
-      "url": "https://open.spotify.com/track/6N078G7btmtHvTLPPLL1wf"
-    },
-    {
-      "added_at": "2023-07-20 20:22:20",
-      "album": {
         "name": "Bionic Man",
         "url": "https://open.spotify.com/album/4Wm4hGN6m5ZaaFm1LyTtkd"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 192000,
       "name": "Bionic Man",
       "url": "https://open.spotify.com/track/7x9DxO4BrMKsQlmN2vPURS"
+    },
+    {
+      "added_at": "2023-07-20 20:22:20",
+      "album": {
+        "name": "Come Outside",
+        "url": "https://open.spotify.com/album/2rjsJgXKKQRrLOrgmHHIby"
+      },
+      "artists": [
+        {
+          "name": "K Money",
+          "url": "https://open.spotify.com/artist/3WC4zw6QqkpKgs9rqk6ot6"
+        }
+      ],
+      "duration_ms": 198321,
+      "name": "Come Outside",
+      "url": "https://open.spotify.com/track/6N078G7btmtHvTLPPLL1wf"
     },
     {
       "added_at": "2023-07-20 20:22:20",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2023-07-20 20:22:20",
       "album": {
-        "name": "Body & A Face",
-        "url": "https://open.spotify.com/album/3CRgye6TS3mO54pNpvVh7J"
-      },
-      "artists": [
-        {
-          "name": "Baka Not Nice",
-          "url": "https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU"
-        }
-      ],
-      "duration_ms": 159205,
-      "name": "Body & A Face",
-      "url": "https://open.spotify.com/track/6cezfmuJT9mpkv7AwWRYpQ"
-    },
-    {
-      "added_at": "2023-07-20 20:22:20",
-      "album": {
         "name": "All Aces",
         "url": "https://open.spotify.com/album/5soFx6s5E0fpGrrAEvSaVg"
       },
@@ -1079,6 +1063,22 @@
     {
       "added_at": "2023-07-20 20:22:20",
       "album": {
+        "name": "Body & A Face",
+        "url": "https://open.spotify.com/album/3CRgye6TS3mO54pNpvVh7J"
+      },
+      "artists": [
+        {
+          "name": "Baka Not Nice",
+          "url": "https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU"
+        }
+      ],
+      "duration_ms": 159205,
+      "name": "Body & A Face",
+      "url": "https://open.spotify.com/track/6cezfmuJT9mpkv7AwWRYpQ"
+    },
+    {
+      "added_at": "2023-07-20 20:22:20",
+      "album": {
         "name": "Vallie Mode",
         "url": "https://open.spotify.com/album/0y1MaVOQk1jI3VTHlKQ6uN"
       },
@@ -1091,6 +1091,42 @@
       "duration_ms": 148349,
       "name": "Vallie Mode",
       "url": "https://open.spotify.com/track/6c9JGhWjQgGydAxlS49f8Y"
+    },
+    {
+      "added_at": "2023-07-20 20:22:20",
+      "album": {
+        "name": "DUSK to DAWN",
+        "url": "https://open.spotify.com/album/79YZv5y3Heiw4QZ6i77FTE"
+      },
+      "artists": [
+        {
+          "name": "Boslen",
+          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
+        }
+      ],
+      "duration_ms": 150292,
+      "name": "VULTURES",
+      "url": "https://open.spotify.com/track/0gTmo8jEPfVnAFBKN0jndQ"
+    },
+    {
+      "added_at": "2023-07-20 20:22:20",
+      "album": {
+        "name": "30,000 ft",
+        "url": "https://open.spotify.com/album/4pe6ylc2vjCU7zQ6EI8ayn"
+      },
+      "artists": [
+        {
+          "name": "NorthSideBenji",
+          "url": "https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d"
+        },
+        {
+          "name": "Dj Charlie B",
+          "url": "https://open.spotify.com/artist/0mSZAfNTdQcxi9IIBF6TS5"
+        }
+      ],
+      "duration_ms": 157873,
+      "name": "30,000 ft",
+      "url": "https://open.spotify.com/track/2zR8U7MLwxlLf7xkAew9BR"
     },
     {
       "added_at": "2023-07-20 20:22:20",
@@ -1119,62 +1155,6 @@
     {
       "added_at": "2023-07-20 20:22:20",
       "album": {
-        "name": "30,000 ft",
-        "url": "https://open.spotify.com/album/4pe6ylc2vjCU7zQ6EI8ayn"
-      },
-      "artists": [
-        {
-          "name": "NorthSideBenji",
-          "url": "https://open.spotify.com/artist/2EzNKTHTCUaHUkKaNFUH8d"
-        },
-        {
-          "name": "Dj Charlie B",
-          "url": "https://open.spotify.com/artist/0mSZAfNTdQcxi9IIBF6TS5"
-        }
-      ],
-      "duration_ms": 157873,
-      "name": "30,000 ft",
-      "url": "https://open.spotify.com/track/2zR8U7MLwxlLf7xkAew9BR"
-    },
-    {
-      "added_at": "2023-07-20 20:22:20",
-      "album": {
-        "name": "DUSK to DAWN",
-        "url": "https://open.spotify.com/album/79YZv5y3Heiw4QZ6i77FTE"
-      },
-      "artists": [
-        {
-          "name": "Boslen",
-          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
-        }
-      ],
-      "duration_ms": 150292,
-      "name": "VULTURES",
-      "url": "https://open.spotify.com/track/0gTmo8jEPfVnAFBKN0jndQ"
-    },
-    {
-      "added_at": "2023-07-20 20:22:20",
-      "album": {
-        "name": "no long talk.",
-        "url": "https://open.spotify.com/album/3RIerAmfvbXRl9uFX3UZyT"
-      },
-      "artists": [
-        {
-          "name": "Baka Not Nice",
-          "url": "https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU"
-        },
-        {
-          "name": "Giggs",
-          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
-        }
-      ],
-      "duration_ms": 198676,
-      "name": "My Town (feat. Giggs)",
-      "url": "https://open.spotify.com/track/41l1RaDtTRnSPsy22JUFVC"
-    },
-    {
-      "added_at": "2023-07-20 20:22:20",
-      "album": {
         "name": "HOOD AVANT-GARDE (Deluxe)",
         "url": "https://open.spotify.com/album/7MP5EdHUb1PxYW5SYv440k"
       },
@@ -1187,22 +1167,6 @@
       "duration_ms": 168426,
       "name": "WOO!",
       "url": "https://open.spotify.com/track/5vYn0idAvSminM8fdyTB1U"
-    },
-    {
-      "added_at": "2023-07-20 20:22:20",
-      "album": {
-        "name": "Been Himma",
-        "url": "https://open.spotify.com/album/526OhvWv7oWC5xTrwG75Cq"
-      },
-      "artists": [
-        {
-          "name": "Dom Vallie",
-          "url": "https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk"
-        }
-      ],
-      "duration_ms": 166829,
-      "name": "Been Himma",
-      "url": "https://open.spotify.com/track/5G9i6PTCmXdOVmUfDRlc6t"
     },
     {
       "added_at": "2023-07-20 20:22:20",
@@ -1223,6 +1187,42 @@
       "duration_ms": 142640,
       "name": "\u2022 RIGHT NOW",
       "url": "https://open.spotify.com/track/1L5iqYFGMpKnmNjMgtiq0k"
+    },
+    {
+      "added_at": "2023-07-20 20:22:20",
+      "album": {
+        "name": "Been Himma",
+        "url": "https://open.spotify.com/album/526OhvWv7oWC5xTrwG75Cq"
+      },
+      "artists": [
+        {
+          "name": "Dom Vallie",
+          "url": "https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk"
+        }
+      ],
+      "duration_ms": 166829,
+      "name": "Been Himma",
+      "url": "https://open.spotify.com/track/5G9i6PTCmXdOVmUfDRlc6t"
+    },
+    {
+      "added_at": "2023-07-20 20:22:20",
+      "album": {
+        "name": "no long talk.",
+        "url": "https://open.spotify.com/album/3RIerAmfvbXRl9uFX3UZyT"
+      },
+      "artists": [
+        {
+          "name": "Baka Not Nice",
+          "url": "https://open.spotify.com/artist/3yvCFkK57FXH7JIwZQ5CmU"
+        },
+        {
+          "name": "Giggs",
+          "url": "https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip"
+        }
+      ],
+      "duration_ms": 198676,
+      "name": "My Town (feat. Giggs)",
+      "url": "https://open.spotify.com/track/41l1RaDtTRnSPsy22JUFVC"
     },
     {
       "added_at": "2023-07-20 20:22:20",

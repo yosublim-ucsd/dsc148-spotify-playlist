@@ -7652,10 +7652,28 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-23",
       "duration_ms": 189000,
       "name": "Heaven Is Your Company",
       "url": "https://open.spotify.com/track/5FuSWZB44fvaG86WNoZIPn"
+    },
+    {
+      "album": {
+        "name": "Take My Spirit Now",
+        "url": "https://open.spotify.com/album/5icbSNSho1t6Yc82qWC0vR"
+      },
+      "artists": [
+        {
+          "name": "Death Bells",
+          "url": "https://open.spotify.com/artist/14aKkOrkqm6amS81rUMZPg"
+        }
+      ],
+      "date_added": "2023-06-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Heaven Is Your Company",
+      "url": "https://open.spotify.com/track/7kZs1XgzlyQhMNHLzPA9cj"
     },
     {
       "album": {

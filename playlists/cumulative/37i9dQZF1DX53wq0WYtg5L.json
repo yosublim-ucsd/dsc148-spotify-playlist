@@ -124,7 +124,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-23",
       "duration_ms": 167106,
       "name": "All\u00e1 En El Rancho Grande",
       "url": "https://open.spotify.com/track/26LABlj8Jq3a0uKYnp2bf9"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-01-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-25",
+      "date_removed": null,
       "duration_ms": 167836,
       "name": "All\u00e1 en el Rancho Grande",
       "url": "https://open.spotify.com/track/7zPgDdoFF6hEaryYF5nokL"
@@ -470,10 +470,28 @@
       ],
       "date_added": "2021-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-23",
       "duration_ms": 221780,
       "name": "Cielito Lindo",
       "url": "https://open.spotify.com/track/2GzOrRCr4yyz2DqcEqTdBS"
+    },
+    {
+      "album": {
+        "name": "Mariachi Total",
+        "url": "https://open.spotify.com/album/2n9v73CTGTAUFrrdxbLMHD"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "date_added": "2022-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221831,
+      "name": "Cielito Lindo",
+      "url": "https://open.spotify.com/track/17UQaysFON93fn278DeWqg"
     },
     {
       "album": {

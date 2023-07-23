@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,340 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,343 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [Hospital](https://open.spotify.com/track/57iBALFO6fJIzVETrCSGMY) | [kegøn](https://open.spotify.com/artist/1K65FMS221HfgzjJoYo1Jb) | [Hospital](https://open.spotify.com/album/4Q1fPeZpby2YdcXXrfYQTv) | 2:50 |
 | 60 | [Cluster A \- fusq Remix](https://open.spotify.com/track/1Wxhakk2iNL20jnvzOKdUC) | [in the blue shirt](https://open.spotify.com/artist/4OyqzBV6i2e7Ycs5LwLDxE), [fusq](https://open.spotify.com/artist/0q0K0FV5t8OnVpbIQTXOhI) | [Cluster A \(fusq Remix\)](https://open.spotify.com/album/1lmSA005loW9j7yjHlAftc) | 2:24 |
 
-Snapshot ID: `MCw3YTFiZmNmZDYxZjc5MWQwNTdlMzUxNjkwOGM2ODBkODc0ZGY1MDMx`
+Snapshot ID: `MCw1NGU3YTdjOTU4OWQyNTA2OTM4OTRjYTMyMGU0ZjI5NDBlNjg3Y2Ew`

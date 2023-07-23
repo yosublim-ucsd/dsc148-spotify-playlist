@@ -4,7 +4,7 @@
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Cinder Well \| Visual Artist: Bailey Elder
 
-740 songs - 1 day 20 hr 9 min
+741 songs - 1 day 20 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,8 @@
 | [Automatic Love](https://open.spotify.com/track/153xNtmzRqNgvKkHz5M2Po) | [Aoife Nessa Frances](https://open.spotify.com/artist/53HMXaQpXt5m6cBJNO5OFX) | [Automatic Love](https://open.spotify.com/album/1uiZW1HmcgLN1Zaq3NyUIK) | 6:31 | 2023-03-08 | 2023-04-13 |
 | [B\-Roads](https://open.spotify.com/track/3tFRup3wgBnSRhxi9vvSWW) | [Sparky Deathcap](https://open.spotify.com/artist/2Ru6erK9heeCeWQDx0sDmR) | [B\-Roads](https://open.spotify.com/album/7BYHbUrnTW9Aupp0HRU1Q3) | 2:18 | 2022-11-23 | 2023-02-23 |
 | [Baby Boy](https://open.spotify.com/track/2MLhKQJDsk4RtbIrDDjM19) | [Natalie Duffy](https://open.spotify.com/artist/0kqkhvH8aNlv2hxIaBcslv) | [Baby Boy](https://open.spotify.com/album/2UuY0Rb7DSTjbLYd4CYvZc) | 2:34 | 2022-08-10 | 2022-11-10 |
-| [Basil Noodles](https://open.spotify.com/track/183iUHqxHdcj7pQdrP3Zuq) | [tofusmell](https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ) | [Basil Noodles](https://open.spotify.com/album/1bN1Bz39AWgYyw8guBJa4K) | 2:16 | 2023-05-24 |  |
+| [Basil Noodles](https://open.spotify.com/track/183iUHqxHdcj7pQdrP3Zuq) | [tofusmell](https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ) | [Basil Noodles](https://open.spotify.com/album/1bN1Bz39AWgYyw8guBJa4K) | 2:16 | 2023-05-24 | 2023-07-23 |
+| [Basil Noodles](https://open.spotify.com/track/4dmDoUAL9cFrHkE5En0RPH) | [tofusmell](https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ) | [Humor](https://open.spotify.com/album/2bcAwgtbyhdjmUSxsxHAoR) | 2:16 | 2023-07-19 |  |
 | [Be Free](https://open.spotify.com/track/5ykk5qOMCLtgQabMEySJN3) | [Ny Oh](https://open.spotify.com/artist/6IiR2T9WMQnYHK2HQUiPTx) | [Be Free](https://open.spotify.com/album/2vA7BmNYaoDFrDAqqh6InW) | 4:38 | 2023-03-22 | 2023-05-04 |
 | [Beach \(Real Love\)](https://open.spotify.com/track/2UhmfBMRzBVBFLjVtnUN8H) | [lilo](https://open.spotify.com/artist/0UHZYAHCtBGKef12trPQrL) | [Sleep Country](https://open.spotify.com/album/6JHsAMuGUgtq7UnxLufX5f) | 3:43 | 2023-02-01 | 2023-03-23 |
 | [Beautiful View](https://open.spotify.com/track/0gdMIAslro1oqM25deOsBP) | [Hannah Georgas](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS) | [Beautiful View](https://open.spotify.com/album/3dVN0luiXkpytUScfzB1q8) | 3:27 | 2023-05-03 | 2023-06-15 |

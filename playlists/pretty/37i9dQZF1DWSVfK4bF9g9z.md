@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVfK4bF9g9z.md) - [plain]
 
 > Legendary Italian DJ <a href="spotify:artist:6PozOimyS8a9OxMddMSBCf">Molella</a> delivers a mix for the ages, featuring a blend of classics and new tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,537 likes - 21 songs - 58 min 17 sec
+[Spotify](https://open.spotify.com/user/spotify) - 2,543 likes - 21 songs - 58 min 17 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVfK4bF9g9z.md) - [plain]
 | 7 | [Just Love \- Molella VIP Remix \- Mixed](https://open.spotify.com/track/6Rw8T1MQADdmLLhM0Wv52A) | [Devonte](https://open.spotify.com/artist/4whfX8XnEN3QaUp6ZnN8ui), [Molella](https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf) | [Just Love \- Molella VIP Remix \(Mixed\)](https://open.spotify.com/album/3uPzmYQmFSLpaCNDVVTZ7Y) | 2:52 |
 | 8 | [Move Your Body \- Tiësto Edit \- Mixed](https://open.spotify.com/track/7t1i1hxz6GxyoNzgmWMxgn) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj) | [Move Your Body \- Tiësto Edit \(Mixed\)](https://open.spotify.com/album/20mhy8TtzIBEkQMhwCHewQ) | 2:16 |
 | 9 | [Starlight & Gold \- Fabrique Remix \- Mixed](https://open.spotify.com/track/2yDE0sZFTdYmt0FMjVWhSY) | [KT Tunstall](https://open.spotify.com/artist/5zzrJD2jXrE9dZ1AklRFcL), [Molella](https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf), [Fabrique](https://open.spotify.com/artist/0VxcpGwMhUzwOchIqMcCW3) | [Starlight & Gold \- Fabrique Remix \(Mixed\)](https://open.spotify.com/album/6KVuaXlQlBh0xZbXfV6Zlo) | 2:38 |
-| 10 | [Aquí las Colombianas \- Mixed](https://open.spotify.com/track/6g5kgxCIA98vMnqNt21bSp) | [BADDIES ONLY](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot) | [Aquí las Colombianas \(Mixed\)](https://open.spotify.com/album/7xFUS2a75NXh8IQlCvqiIO) | 1:54 |
+| 10 | [Aquí las Colombianas \- Mixed](https://open.spotify.com/track/6g5kgxCIA98vMnqNt21bSp) | [BADDIES ONLY](https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot), [Martina Camargo](https://open.spotify.com/artist/2vGRgVlsY6BB9PyESPm6IH) | [Aquí las Colombianas \(Mixed\)](https://open.spotify.com/album/7xFUS2a75NXh8IQlCvqiIO) | 1:54 |
 | 11 | [Loco Por Ti \- IMMA Remix \- Mixed](https://open.spotify.com/track/2qb2Vf1eBMWc6LTMfOlmL7) | [Biagio D'Anelli](https://open.spotify.com/artist/1kDOFmYr4rDby27mKxSUMb), [Molella](https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf), [J.PERALTA](https://open.spotify.com/artist/11YN7LqPQXSbuQqwLD5bJO), [IMMA](https://open.spotify.com/artist/5w3zT0eceNr7PGPDDBHMYt) | [Loco Por Ti \- IMMA Remix \(Mixed\)](https://open.spotify.com/album/4j7tVAGtn5xfNw7bdpa39k) | 2:58 |
 | 12 | [La Danza \- Extended Mix \- Mixed](https://open.spotify.com/track/4mwgMeFBYYTRglj7OyMdqC) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205) | [La Danza \- Extended Mix \(Mixed\)](https://open.spotify.com/album/6TufAT9woOEDvckFjMGHgJ) | 3:02 |
 | 13 | [Surrender \- Birretta Edit \- Mixed](https://open.spotify.com/track/70S9qN9ElBnKBqaf0UTOLS) | [The Soundlovers](https://open.spotify.com/artist/6NRwWuLcR6Zcc8nzX4nBTv) | [Surrender \- Birretta Edit \(Mixed\)](https://open.spotify.com/album/6mqpLNrsWav6HYoTqd1HfI) | 2:28 |
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVfK4bF9g9z.md) - [plain]
 | 20 | [1x1 \- Mixed](https://open.spotify.com/track/4CWtEWfBZtC4vJB81tlEOL) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [1x1 \(Mixed\)](https://open.spotify.com/album/0fNHNL4tOQpGapjjmBCtxs) | 2:24 |
 | 21 | [My Feelings For You \- Don Diablo Remix \- Mixed](https://open.spotify.com/track/5JYT3EsGniJeQPCczfFFYk) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Sebastien Drums](https://open.spotify.com/artist/0lHsjYcb3lGjkJQQqC6HVt), [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [My Feelings For You \- Don Diablo Remix \(Mixed\)](https://open.spotify.com/album/44mL5dyf2KEWdzIu6pmFOQ) | 3:52 |
 
-Snapshot ID: `MCw0ZmYyMzg2MzFjMTc5MjRjNGViNjc2MzU5Zjk5NjU2MmMwMjczNTRk`
+Snapshot ID: `MCw2ZTg1YTk2YzRmYzJiZTcwYWE2YzFiZWJmNDQyOGE0MzZlOTIxNjQw`

@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Jai Wolf
 
-483 songs - 1 day 2 hr 49 min
+484 songs - 1 day 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [cloudy](https://open.spotify.com/track/13ogVSkKK2zmNGDOaaiBc9) | [Meridian](https://open.spotify.com/artist/29owBAmwvaDTUsoyT9N5fm), [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [halfway](https://open.spotify.com/album/0Z3FEnCOZaLw0YVnAClBfu) | 2:45 | 2021-08-06 | 2023-02-11 |
 | [cloudy](https://open.spotify.com/track/4uN3fqx0mRqf61RemIFhIq) | [Meridian](https://open.spotify.com/artist/29owBAmwvaDTUsoyT9N5fm), [Ayelle](https://open.spotify.com/artist/5aNJpeK3hUdPY9orfExdOF) | [halfway](https://open.spotify.com/album/5b3lit9cjrFHrBytPJBppS) | 2:45 | 2021-08-06 | 2022-10-14 |
 | [cløud](https://open.spotify.com/track/3zWmdLGRHHjQlmFMQXuMRL) | [La+ch](https://open.spotify.com/artist/22w0Xg5kpu5simeHw3afNG) | [cløud](https://open.spotify.com/album/7fMeET29KTCnxxz7xtotDI) | 3:28 | 2021-08-06 | 2022-07-29 |
-| [Cold](https://open.spotify.com/track/3lur6dt8Y6z7BaiFQ9ymaN) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [Cold](https://open.spotify.com/album/6KFMKCIu6X2rwPt8z29cp9) | 3:05 | 2023-06-16 |  |
+| [Cold](https://open.spotify.com/track/3lur6dt8Y6z7BaiFQ9ymaN) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [Cold](https://open.spotify.com/album/6KFMKCIu6X2rwPt8z29cp9) | 3:05 | 2023-06-16 | 2023-07-23 |
 | [Cold Blooded](https://open.spotify.com/track/6ULPq2iNWiykHX1acI2SGn) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Good Lies](https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp) | 3:37 | 2023-05-12 |  |
 | [Colorblind.](https://open.spotify.com/track/6o7OCNQhllaLVRkrGCWFeW) | [Shrimpnose](https://open.spotify.com/artist/6My0aHQrZyz0vqqcf06s1D) | [Colorblind.](https://open.spotify.com/album/7CZvPpkSL9Bl1Z6gzXexbj) | 2:50 | 2022-02-18 | 2022-07-27 |
 | [Comb \- Absent Chronicles Remix](https://open.spotify.com/track/12OtYMAKuPrBdXxEmEoanq) | [Brijs](https://open.spotify.com/artist/1w6YfDok1oXwLvE1rlHewV), [Absent Chronicles](https://open.spotify.com/artist/1WSsJkMrQi0G4nMZ1ad8nx) | [Comb \(Absent Chronicles Remix\)](https://open.spotify.com/album/1SJlf9DoWyzcmSM59JeDik) | 3:24 | 2021-08-06 | 2022-12-01 |
@@ -182,6 +182,7 @@
 | [Fuck Right Off](https://open.spotify.com/track/7tu0XNOoQxBm4TpvRx8e65) | [Aliiias](https://open.spotify.com/artist/4Y8otp9Ld9PkZeNPq20uFG) | [Fuck Right Off](https://open.spotify.com/album/54r00dZGEIr77NjIy16JGv) | 2:39 | 2023-03-03 |  |
 | [game point](https://open.spotify.com/track/2JMCa4YAC2wp0HY0ChY0BQ) | [weird inside](https://open.spotify.com/artist/4iylWAhvTVtSVhIeAoM7Bl) | [game point](https://open.spotify.com/album/4uQ7FC2FsJjv3RdQLKPhHZ) | 3:15 | 2021-08-06 | 2023-05-13 |
 | [Get Closer](https://open.spotify.com/track/24NIpLql6QM8gA1fDbNvUT) | [Sem](https://open.spotify.com/artist/3MNRl7HX8LItpUynecii15), [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M) | [Get Closer](https://open.spotify.com/album/4I3MgTn8Qods1j0HpYeqPa) | 3:08 | 2021-08-06 | 2022-04-19 |
+| [Glow In The Dark](https://open.spotify.com/track/43QTqbEuSMnofYrZ1fuNwi) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Microworlds](https://open.spotify.com/album/1OrVf4ejXLTMfWUiXtXU3C) | 3:29 | 2023-07-21 |  |
 | [Go](https://open.spotify.com/track/1n00VLKDicKiJtu28ogqtZ) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg), [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [Euphoria](https://open.spotify.com/album/27aIXvQ2Vn34Ezy4uNNovK) | 3:06 | 2023-07-21 |  |
 | [Go My Way](https://open.spotify.com/track/5y0X2gA8jlovyL5YmFamIv) | [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl), [The Arcturians](https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K) | [Kid Calamity](https://open.spotify.com/album/4zLskraUiS712MsuxYeQL3) | 3:53 | 2021-08-06 |  |
 | [Go My Way](https://open.spotify.com/track/7baJMiTsqpoQwPOjM7ZlRE) | [Oski](https://open.spotify.com/artist/7ERTOmWXRyme5WJUpXVVSl), [The Arcturians](https://open.spotify.com/artist/39Igqv4O9OUd0De2mCdB9K) | [Kid Calamity](https://open.spotify.com/album/4I1tlO8XZZTnydjNrv0m45) | 3:53 | 2021-08-06 | 2022-04-21 |

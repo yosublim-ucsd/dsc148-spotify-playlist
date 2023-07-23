@@ -1,12 +1,12 @@
 {
   "description": "Breathe deep, and relax with the softer side of Christian music.",
-  "num_followers": 317030,
+  "num_followers": 317217,
   "original_name": "Calming Christian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZGI2NWZkYzQxZmEzMTIyNjhjNTg4ZjlkZjI2MTVkOWU1ZDk4ZGYy",
+  "snapshot_id": "MCxkMjI0MWQ0NGE0MjMyMTQ0NTNmMzg5OTUyYzUzMTA2Y2FjMzBiZDI5",
   "tracks": [
     {
       "added_at": "2023-02-07 17:43:02",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
+        "name": "Helpless One",
+        "url": "https://open.spotify.com/album/4MEBE9KVyYrQqDbUqZvyvN"
+      },
+      "artists": [
+        {
+          "name": "Joseph O'Brien",
+          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
+        }
+      ],
+      "duration_ms": 195466,
+      "name": "Helpless One",
+      "url": "https://open.spotify.com/track/4DccX20AEk2LUgaDht4eHt"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
         "name": "Songs from Home",
         "url": "https://open.spotify.com/album/6jdZFEEGZA6KcSUiETNOUP"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 194102,
       "name": "Meet Me There",
       "url": "https://open.spotify.com/track/7js5yI5wAbDheUWCs1VFJy"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
-        "name": "Helpless One",
-        "url": "https://open.spotify.com/album/4MEBE9KVyYrQqDbUqZvyvN"
-      },
-      "artists": [
-        {
-          "name": "Joseph O'Brien",
-          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
-        }
-      ],
-      "duration_ms": 195466,
-      "name": "Helpless One",
-      "url": "https://open.spotify.com/track/4DccX20AEk2LUgaDht4eHt"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -879,22 +879,22 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Rest On Us",
-        "url": "https://open.spotify.com/album/6CMg5UAglJqxvtWakN3YcF"
+        "name": "Nothing Else",
+        "url": "https://open.spotify.com/album/4ZbxrL9T8SPMUYlgj0tZMm"
       },
       "artists": [
         {
-          "name": "Ben Potter",
-          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
+          "name": "Gatton",
+          "url": "https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE"
         },
         {
-          "name": "Eric Gilmour",
-          "url": "https://open.spotify.com/artist/6fVjCsKdS30DoRnMfOlG4j"
+          "name": "sxxnt.",
+          "url": "https://open.spotify.com/artist/4T0c560DVGr1cAtE3reOP1"
         }
       ],
-      "duration_ms": 209739,
-      "name": "Rest On Us",
-      "url": "https://open.spotify.com/track/4NPEyG5EK6PwJCBNr9phnE"
+      "duration_ms": 264332,
+      "name": "Nothing Else",
+      "url": "https://open.spotify.com/track/1noA1mip0whVmqAfOQGooU"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -911,6 +911,26 @@
       "duration_ms": 217573,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/47GwIvmWNwmzurul1rFyJ2"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Rest On Us",
+        "url": "https://open.spotify.com/album/6CMg5UAglJqxvtWakN3YcF"
+      },
+      "artists": [
+        {
+          "name": "Ben Potter",
+          "url": "https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX"
+        },
+        {
+          "name": "Eric Gilmour",
+          "url": "https://open.spotify.com/artist/6fVjCsKdS30DoRnMfOlG4j"
+        }
+      ],
+      "duration_ms": 209739,
+      "name": "Rest On Us",
+      "url": "https://open.spotify.com/track/4NPEyG5EK6PwJCBNr9phnE"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -947,26 +967,6 @@
       "duration_ms": 293160,
       "name": "Lord Send Revival - Acoustic",
       "url": "https://open.spotify.com/track/13cY2FEHsAtgwJANN9kRKr"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
-        "name": "Nothing Else",
-        "url": "https://open.spotify.com/album/4ZbxrL9T8SPMUYlgj0tZMm"
-      },
-      "artists": [
-        {
-          "name": "Gatton",
-          "url": "https://open.spotify.com/artist/09wV1iFg4DBtreMGzepTaE"
-        },
-        {
-          "name": "sxxnt.",
-          "url": "https://open.spotify.com/artist/4T0c560DVGr1cAtE3reOP1"
-        }
-      ],
-      "duration_ms": 264332,
-      "name": "Nothing Else",
-      "url": "https://open.spotify.com/track/1noA1mip0whVmqAfOQGooU"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
+        "name": "When I Say Amen",
+        "url": "https://open.spotify.com/album/1OnvG3dApeM5v61vNW3yUZ"
+      },
+      "artists": [
+        {
+          "name": "Rachel Wammack",
+          "url": "https://open.spotify.com/artist/5QpNKnsD0biAkM2sHA7OXR"
+        }
+      ],
+      "duration_ms": 208626,
+      "name": "When I Say Amen",
+      "url": "https://open.spotify.com/track/72dkOjbNYK7xOstSxUiguh"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
         "name": "Omnipotent Yet Intimate",
         "url": "https://open.spotify.com/album/4qUDEpOHh14cpHgKrFLabN"
       },
@@ -1127,22 +1143,6 @@
       "duration_ms": 279107,
       "name": "Omnipotent Yet Intimate",
       "url": "https://open.spotify.com/track/6gveqMRdyw6wxWgmSKW4vT"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
-        "name": "When I Say Amen",
-        "url": "https://open.spotify.com/album/1OnvG3dApeM5v61vNW3yUZ"
-      },
-      "artists": [
-        {
-          "name": "Rachel Wammack",
-          "url": "https://open.spotify.com/artist/5QpNKnsD0biAkM2sHA7OXR"
-        }
-      ],
-      "duration_ms": 208626,
-      "name": "When I Say Amen",
-      "url": "https://open.spotify.com/track/72dkOjbNYK7xOstSxUiguh"
     },
     {
       "added_at": "2023-02-07 17:43:02",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2023-02-07 17:43:02",
       "album": {
-        "name": "Hymns & Soul",
-        "url": "https://open.spotify.com/album/4hDfflz1fKAQt3ZRGVZ8cB"
-      },
-      "artists": [
-        {
-          "name": "Mark Barlow",
-          "url": "https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl"
-        }
-      ],
-      "duration_ms": 367465,
-      "name": "Precious",
-      "url": "https://open.spotify.com/track/2jTjDrh3tF5YEDBTrp29hI"
-    },
-    {
-      "added_at": "2023-02-07 17:43:02",
-      "album": {
         "name": "Dawn",
         "url": "https://open.spotify.com/album/4X8FlSjZW7YUTj277XNyFY"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 297546,
       "name": "Dawn",
       "url": "https://open.spotify.com/track/5rKbWEBYZNIR3ep6pBOK0t"
+    },
+    {
+      "added_at": "2023-02-07 17:43:02",
+      "album": {
+        "name": "Way Maker (Acoustic)",
+        "url": "https://open.spotify.com/album/5KAHkPE1V2eFznIELyRYNX"
+      },
+      "artists": [
+        {
+          "name": "Will Morrison",
+          "url": "https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB"
+        }
+      ],
+      "duration_ms": 253378,
+      "name": "Way Maker - Acoustic",
+      "url": "https://open.spotify.com/track/4mX7EwCwqR6iW2Wl5WzDxG"
     }
   ],
   "unique_name": "Calming Christian",

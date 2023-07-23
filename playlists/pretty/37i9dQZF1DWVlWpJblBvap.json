@@ -1,12 +1,12 @@
 {
   "description": "Majestic and bold, these new and known worship songs are great for every day.  Cover artist: <a href=\"https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz?si=nomEqKq7SM6sx93LoxQChw\">Kim Walker-Smith</a>",
-  "num_followers": 515670,
+  "num_followers": 515908,
   "original_name": "Songs of Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YzQ1NGFjMzMwYzRlMTU1MmFjNjQ5MmFjOGJiZWI0NDkxN2ZlNmE0",
+  "snapshot_id": "MCxiMDJlZGE3MmMxYWE4NmU5YzVjMzgyMzI1M2QwMjlhNGY0NDI1ZjM4",
   "tracks": [
     {
       "added_at": "2023-02-18 03:38:32",
@@ -355,18 +355,18 @@
     {
       "added_at": "2023-02-18 03:38:32",
       "album": {
-        "name": "How Can It Be",
-        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
+        "name": "Rescue Story",
+        "url": "https://open.spotify.com/album/4TlLYmspdNdUAIitDn3WEk"
       },
       "artists": [
         {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+          "name": "Zach Williams",
+          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
         }
       ],
-      "duration_ms": 259293,
-      "name": "How Can It Be",
-      "url": "https://open.spotify.com/track/27wkiHSSNOB0TyfXzNziaD"
+      "duration_ms": 237338,
+      "name": "Rescue Story",
+      "url": "https://open.spotify.com/track/0P0IfSuzTC6bLUsHjmDuvW"
     },
     {
       "added_at": "2023-02-18 03:38:32",
@@ -391,18 +391,18 @@
     {
       "added_at": "2023-02-18 03:38:32",
       "album": {
-        "name": "Rescue Story",
-        "url": "https://open.spotify.com/album/4TlLYmspdNdUAIitDn3WEk"
+        "name": "How Can It Be",
+        "url": "https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu"
       },
       "artists": [
         {
-          "name": "Zach Williams",
-          "url": "https://open.spotify.com/artist/6g10GEtmIVqIQBhPZh4ScQ"
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
         }
       ],
-      "duration_ms": 237338,
-      "name": "Rescue Story",
-      "url": "https://open.spotify.com/track/0P0IfSuzTC6bLUsHjmDuvW"
+      "duration_ms": 259293,
+      "name": "How Can It Be",
+      "url": "https://open.spotify.com/track/27wkiHSSNOB0TyfXzNziaD"
     },
     {
       "added_at": "2023-02-18 03:38:32",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-02-18 03:38:32",
       "album": {
+        "name": "Breathe In",
+        "url": "https://open.spotify.com/album/5klRUhngB9JrMVjiPFDHbP"
+      },
+      "artists": [
+        {
+          "name": "Phillips, Craig & Dean",
+          "url": "https://open.spotify.com/artist/0g5OkLnQogzLrT9s5vw6kl"
+        }
+      ],
+      "duration_ms": 269786,
+      "name": "Great I Am",
+      "url": "https://open.spotify.com/track/29wltCk6XgsiLdIWw8vbKN"
+    },
+    {
+      "added_at": "2023-02-18 03:38:32",
+      "album": {
         "name": "You Are the Avalanche",
         "url": "https://open.spotify.com/album/21t1ObaaRvRIRRrF1bwlhw"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 295720,
       "name": "King of My Heart",
       "url": "https://open.spotify.com/track/4HBXdr8LXB22UPBi191b6S"
-    },
-    {
-      "added_at": "2023-02-18 03:38:32",
-      "album": {
-        "name": "Breathe In",
-        "url": "https://open.spotify.com/album/5klRUhngB9JrMVjiPFDHbP"
-      },
-      "artists": [
-        {
-          "name": "Phillips, Craig & Dean",
-          "url": "https://open.spotify.com/artist/0g5OkLnQogzLrT9s5vw6kl"
-        }
-      ],
-      "duration_ms": 269786,
-      "name": "Great I Am",
-      "url": "https://open.spotify.com/track/29wltCk6XgsiLdIWw8vbKN"
     },
     {
       "added_at": "2023-02-18 03:38:32",

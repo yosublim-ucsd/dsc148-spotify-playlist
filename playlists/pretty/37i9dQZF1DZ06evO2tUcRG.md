@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tUcRG.md) - [plain]
 
 > This is Gabriela Rocha\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,993 likes - 50 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,091 likes - 50 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tUcRG.md) - [plain]
 | 49 | [Estou Seguro \- Ao Vivo](https://open.spotify.com/track/7JVs5vtuapjOQrwoyL3G52) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Estou Seguro \(Ao Vivo\)](https://open.spotify.com/album/0uFoi9NafZvm8eL34TUrpr) | 5:16 |
 | 50 | [Teu Espírito](https://open.spotify.com/track/55zblk2lc63AQNhlPganW1) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Teu Espírito](https://open.spotify.com/album/4XEpjNr50dWWgBRPOV1eMs) | 5:12 |
 
-Snapshot ID: `MjgxNjU3NzcsMDAwMDAwMDBmYWNiMGYxZGNiZjJlNmJlMGIwNzAzNzM3NDIyYjQ2Nw==`
+Snapshot ID: `MjgxNjcxNjYsMDAwMDAwMDA3MGMwNDU5OTdhOWQ3MzBkNzdkNDM4MTIwYmQ4N2M3NQ==`

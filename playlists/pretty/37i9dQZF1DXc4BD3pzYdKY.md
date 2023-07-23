@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Hip Hop today\.  Cover:  <a href="https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy?si=31be8d0d68a64c36">Trip Lee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,779 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,889 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 60 | [Life I Chose \(feat\. 2J Mako & GQ Dasteppa\)](https://open.spotify.com/track/4Nz5ui2QPkUXo1BfFI0PJg) | [Zauntee](https://open.spotify.com/artist/7jyr9Co4MKL1iWML1G7vch), [2J Mako](https://open.spotify.com/artist/4PW8LhWM1NaETYEzlYTpqV), [GQ DASTEPPA](https://open.spotify.com/artist/6FJTRJCbi7oGB9n8CyLMNU) | [The Stonebrook Project](https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU) | 4:11 |
 | 61 | [Nobody](https://open.spotify.com/track/03hQRnlKSJvfICRvTXAZLO) | [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr) | [Nobody](https://open.spotify.com/album/0YFfb5QYJrdbeSEqPSmdRo) | 3:06 |
 | 62 | [New Day](https://open.spotify.com/track/5DPZx70S847lrn640OizK3) | [Blanca](https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [New Day](https://open.spotify.com/album/03BX2eYHXIAC0MfXdK943H) | 3:01 |
-| 63 | [I Can't Fail](https://open.spotify.com/track/3Ngil1du8DDdROkk5MZKa3) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL) | [Everyone Loves A Comeback Story](https://open.spotify.com/album/5RjwtLy4rECKCcqF5Cbs20) | 3:22 |
-| 64 | [MY HAPPY](https://open.spotify.com/track/2AUrcjKg71AaqyYwuAbOEd) | [Dee\-1](https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox), [DJ Mal\-Ski](https://open.spotify.com/artist/0k4zCHqnp7ICf5IUBvhViS) | [MY HAPPY](https://open.spotify.com/album/1nlHCQbk0LNmnkg2KLME1A) | 2:56 |
+| 63 | [MY HAPPY](https://open.spotify.com/track/2AUrcjKg71AaqyYwuAbOEd) | [Dee\-1](https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox), [DJ Mal\-Ski](https://open.spotify.com/artist/0k4zCHqnp7ICf5IUBvhViS) | [MY HAPPY](https://open.spotify.com/album/1nlHCQbk0LNmnkg2KLME1A) | 2:56 |
+| 64 | [I Can't Fail](https://open.spotify.com/track/3Ngil1du8DDdROkk5MZKa3) | [Social Club Misfits](https://open.spotify.com/artist/0wnsM0ziqToBwQeEbH0akL) | [Everyone Loves A Comeback Story](https://open.spotify.com/album/5RjwtLy4rECKCcqF5Cbs20) | 3:22 |
 | 65 | [Swerve That](https://open.spotify.com/track/6IRXMRAckv2A7lB7rrFzrP) | [Noexcuse](https://open.spotify.com/artist/0IyOmgAmods7syYBxwsZJK), [DJ Mykael V](https://open.spotify.com/artist/2WLOBjz9WOZrJcbS2w93zt), [Not Klyde](https://open.spotify.com/artist/052Mwr5vCyfzG81pUr19Kw) | [Swerve That](https://open.spotify.com/album/3DB8Imp4jE0LaXof9fzu11) | 2:36 |
 | 66 | [Pray](https://open.spotify.com/track/21SWInttXP3DP6bqxmoZI9) | [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x), [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Pray](https://open.spotify.com/album/6yhfureGMC38z0FDckHp2V) | 2:56 |
 | 67 | [Hottest In The City \(feat\. EmanuelDaProphet\)](https://open.spotify.com/track/5nz7NodXphguBQbfhYp5rE) | [BrvndonP](https://open.spotify.com/artist/0hO40pJ3oZNnq7joT2xQGy), [EmanuelDaProphet](https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC) | [The Bottom Line](https://open.spotify.com/album/1CAS074eX1UHOVehsuIhDy) | 2:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 99 | [josiah.](https://open.spotify.com/track/0g6UbSmO8by3ecCSNmS7ca) | [Dillon Chase](https://open.spotify.com/artist/3cj7pwtC0GuRFHayrbazV8) | [josiah.](https://open.spotify.com/album/0cm3YLe7A3sNtFPEqix58J) | 2:09 |
 | 100 | [Up](https://open.spotify.com/track/3bY6606BZNDJsMJiFUQ9qj) | [Aaron Cole](https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr) | [Up](https://open.spotify.com/album/339EY1xqT4QUJvGHDbCxCq) | 2:53 |
 
-Snapshot ID: `MCxlN2Q3ZWNhOTA3OGUwM2E4MTQwMTBjMjExNTI5YzQ3OWExOGJjNjVh`
+Snapshot ID: `MCxhYWUyMDUzZWYyMDgxYTI4MDYzOTIwMTFmNzQ1NjQxYTAyMWJhOTVk`

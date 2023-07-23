@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Cinder Well \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,215 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,267 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 62 | [Friends on the Internet](https://open.spotify.com/track/7aYKCCeORfNzrMOzPgPSdi) | [Kris Ulrich](https://open.spotify.com/artist/49MmzOKdISsus72tEIhJQN) | [Big in the USA](https://open.spotify.com/album/2EdNo7ykBjuHpFFx28O4dY) | 2:56 |
 | 63 | [\(over now\)](https://open.spotify.com/track/6cDD86N1pfP0mB05VHRccs) | [summersets](https://open.spotify.com/artist/56UCNajlvDjMgHedDlPr6v) | [small town story](https://open.spotify.com/album/5BXqfI4uM589DboivtSbN1) | 4:00 |
 | 64 | [Mother](https://open.spotify.com/track/67tPIfy0LupBLMZMcLphtv) | [Steven van Betten](https://open.spotify.com/artist/2Txt8BxMl4npWRDxQAKvX7) | [Mother](https://open.spotify.com/album/7zFwRc3nSNDRVOPmA9szZD) | 2:53 |
-| 65 | [Basil Noodles](https://open.spotify.com/track/183iUHqxHdcj7pQdrP3Zuq) | [tofusmell](https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ) | [Basil Noodles](https://open.spotify.com/album/1bN1Bz39AWgYyw8guBJa4K) | 2:16 |
+| 65 | [Basil Noodles](https://open.spotify.com/track/4dmDoUAL9cFrHkE5En0RPH) | [tofusmell](https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ) | [Humor](https://open.spotify.com/album/2bcAwgtbyhdjmUSxsxHAoR) | 2:16 |
 | 66 | [Better Somehow](https://open.spotify.com/track/2XOiVanXYsxeYy9eYtb9nX) | [Hannah Georgas](https://open.spotify.com/artist/1ZBR8sri8ddYowXDENBwKS) | [Better Somehow](https://open.spotify.com/album/2PB1n9ej3Ib53qDVmVpeXT) | 3:58 |
 | 67 | [Matter](https://open.spotify.com/track/7hEvYHGa0Ln9TQU2ui0WUY) | [Family Stereo](https://open.spotify.com/artist/4HUyWDdAowsbbtJQQEn5RT) | [Matter](https://open.spotify.com/album/0hIh8Z6PY3Hs0dGyGDkYLp) | 6:45 |
 | 68 | [Ordinary Ways](https://open.spotify.com/track/0MzFMTIinu35De9kWpbjwf) | [North Arm](https://open.spotify.com/artist/33Fqrr2sZZ96XLPbzWJY95) | [Ordinary Ways](https://open.spotify.com/album/2S4mCEVxpPualfHSUfDtZq) | 3:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 99 | [borderline](https://open.spotify.com/track/5p24bN6IbEp2tZAw33Jqdr) | [summersets](https://open.spotify.com/artist/56UCNajlvDjMgHedDlPr6v) | [borderline](https://open.spotify.com/album/4gxTBjHOhFBivLhZ9Y4SZG) | 4:22 |
 | 100 | [Pressing Down](https://open.spotify.com/track/7FiiXwfEJnQ21sTktQ5gDm) | [Sister Ray](https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC) | [Teeth](https://open.spotify.com/album/7tTD3rUp3MltWeCdwviCl0) | 3:59 |
 
-Snapshot ID: `MCwxYTJlMzJlM2M2NzMzNmUxNWEyMWRhMjZjNzU1ODk1YjhjOWE5ZjAw`
+Snapshot ID: `MCxlZWI1OThlMTc1ZDY4NzdmMGFiMmVhYWZmYjY2OWJlZWM2YjIzZTk0`

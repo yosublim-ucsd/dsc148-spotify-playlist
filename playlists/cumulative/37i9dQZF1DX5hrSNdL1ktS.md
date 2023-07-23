@@ -4,7 +4,7 @@
 
 > Lo nuevo del popetón y reggaetón emergente en MX, con Ghetto Kids, El Malilla y EMJAY
 
-307 songs - 15 hr 41 min
+308 songs - 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [Inolvidable](https://open.spotify.com/track/3UKifMst3KThDnakM5mYxE) | [Mendoza](https://open.spotify.com/artist/3I6jrkKaO8HTBay9K9V9bP), [Moncas](https://open.spotify.com/artist/0YGk64Wutw57HhRzL6Jxei), [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Inolvidable](https://open.spotify.com/album/3uELVtlt5jNtdea6DlmjIC) | 3:53 | 2022-01-07 | 2022-01-23 |
 | [Intentar](https://open.spotify.com/track/0sXJ4xkFdaz74DlR96ExXw) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Intentar](https://open.spotify.com/album/5FqUUExmHL9kEvncTI2XNn) | 3:10 | 2022-01-07 | 2022-02-16 |
 | [Ir por Ti](https://open.spotify.com/track/65S5ZhV3ATRA4iHrTIj6mz) | [Dianuka Yogi](https://open.spotify.com/artist/59GCKFXfP1wbxvQ0voGjs2) | [Ir por Ti](https://open.spotify.com/album/6CmrNA7Brd2b1f00bYNkqS) | 3:18 | 2022-02-01 | 2022-07-31 |
+| [ITALIKA](https://open.spotify.com/track/1ztdURev2Ht99rBvrXBjuk) | [Litxs](https://open.spotify.com/artist/6cbxrojNkxvEOoTMK9g7qd), [Acidd](https://open.spotify.com/artist/6piSWMrSoFP2Y2CuDSwWF9) | [ITALIKA](https://open.spotify.com/album/3OFrKsiz3CiqpEZl12N08N) | 2:38 | 2023-07-21 |  |
 | [Jake Long](https://open.spotify.com/track/5LifmYrL4h8gqOnZrym65U) | [LUANA](https://open.spotify.com/artist/0sPEX6boGhIE9qWpzpSHET) | [Jake Long](https://open.spotify.com/album/7rK1SC8EtVWFDMHGMjRmAM) | 2:38 | 2022-02-15 | 2023-03-18 |
 | [Kawasaki](https://open.spotify.com/track/2PsoB4xiGvxgpkYVbUj2TQ) | [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV), [Karen Méndez](https://open.spotify.com/artist/0txXDZCdXBzha20sgN1GRk) | [Kawasaki](https://open.spotify.com/album/7bNlYJL23unjxt02PnnefB) | 2:38 | 2023-04-14 |  |
 | [Kbron](https://open.spotify.com/track/6kf91uP80iUuYgM4Hmnq6B) | [Cuvan](https://open.spotify.com/artist/600tEotuBvksb03YwjVkX0), [Buttcher](https://open.spotify.com/artist/7uD8FqqF8PnoZ3MJdyc8qr) | [Kbron](https://open.spotify.com/album/7qVzzMsDaxFZe7DrDyOjYu) | 2:28 | 2023-04-07 | 2023-04-15 |

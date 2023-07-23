@@ -4,7 +4,7 @@
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: Lay Bankz
 
-267 songs - 10 hr 47 min
+268 songs - 10 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [Brand New](https://open.spotify.com/track/7tLXo5YmfBoyCYSNG62hJZ) | [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk), [Teez](https://open.spotify.com/artist/1CdH7hPovN32oz65xSnWHy) | [Brand New](https://open.spotify.com/album/3nae8nex8etjw0c1zY0L7Y) | 2:10 | 2022-08-12 | 2022-11-09 |
 | [BULLET](https://open.spotify.com/track/4mw4UMR9Vu0iXGVamW2RQj) | [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1) | [BULLET](https://open.spotify.com/album/6S96N0bJT2KmDmn1zUZtpv) | 1:38 | 2022-02-11 |  |
 | [Bust Down](https://open.spotify.com/track/3QSQCwfiYdb3aiEwpNqP9O) | [Constantine](https://open.spotify.com/artist/51J2nuOQ1AtyZ5KS7DgzGX), [Squadooble](https://open.spotify.com/artist/5bJewgbw67gH5bq00Bzptp) | [Made U Juke](https://open.spotify.com/album/14CJU3MxfDIX4fTaQ9OVYE) | 2:48 | 2022-02-11 | 2022-09-03 |
-| [Can You Bounce? \- Remix](https://open.spotify.com/track/0NEFhpfDe0ObM1mg1J7paV) | [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK), [DJ Blizz](https://open.spotify.com/artist/76fhX39W3Z3NnXvTphr3qh) | [Can You Bounce? \(Remix\)](https://open.spotify.com/album/73COd8PD1PZMDlOvVjVNW1) | 2:06 | 2022-07-08 |  |
+| [Can You Bounce? \- Remix](https://open.spotify.com/track/0NEFhpfDe0ObM1mg1J7paV) | [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK), [DJ Blizz](https://open.spotify.com/artist/76fhX39W3Z3NnXvTphr3qh) | [Can You Bounce? \(Remix\)](https://open.spotify.com/album/73COd8PD1PZMDlOvVjVNW1) | 2:06 | 2022-07-08 | 2023-07-23 |
 | [Candy](https://open.spotify.com/track/5XRBpyoHqvWl6sB5vIocwn) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [Club Soda Vol\. 3](https://open.spotify.com/album/4BbClEFUGxAdwWViJdMDS2) | 1:56 | 2023-04-27 | 2023-05-20 |
 | [Checkers \(feat\. Bandmanrill\)](https://open.spotify.com/track/2UUEnFfWx3y3lPKiwHTknQ) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [Bandmanrill](https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1) | [Checkers \(feat\. Bandmanrill\)](https://open.spotify.com/album/3xszxg2o7K6EPVBpihMo4n) | 2:41 | 2022-12-30 | 2023-01-06 |
 | [Chicago \(Jersey Club\)](https://open.spotify.com/track/7pVuGWgUcABk3ToWt2hGNU) | [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [Chicago \(Jersey Club\)](https://open.spotify.com/album/7261mhJQq6ZRDZT8hW6VOX) | 1:58 | 2022-02-11 |  |
@@ -157,6 +157,7 @@
 | [Like This \- Original Mix](https://open.spotify.com/track/6OdA6suwVTuQFO7xSLqrEk) | [ClubHeadSLiiM](https://open.spotify.com/artist/5E3B8B1N2G8bvngwKJ0tqk) | [New Jersey Club vol.2](https://open.spotify.com/album/0CVlQ5bbSPjxRHEyOUWooW) | 2:56 | 2022-02-11 | 2022-12-27 |
 | [Look Back at It \(Club Mix\)](https://open.spotify.com/track/0viwsuWYy2OV7QFlbjm0iw) | [Ziggy](https://open.spotify.com/artist/4YNeMA58IPpXjOOUO43kjG) | [Reloaded](https://open.spotify.com/album/1yfZgVp1uADXX59Q86RDVU) | 1:42 | 2022-02-11 | 2022-07-28 |
 | [Look Back It \(Club Mix\)](https://open.spotify.com/track/7lPL2wD5oCwBuqBLJhCFEa) | [Ziggy](https://open.spotify.com/artist/4YNeMA58IPpXjOOUO43kjG) | [Ziggy Reloaded II](https://open.spotify.com/album/69j9CVp7HejIYEcMy2Gsil) | 1:42 | 2022-07-22 |  |
+| [Love Like That](https://open.spotify.com/track/22haNP7zwUCrqPJIjfgOjx) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO), [Torey D'Shaun](https://open.spotify.com/artist/78DvQP3rczGqfgEiLfFnCD), [Alex Jean](https://open.spotify.com/artist/5kUMwkAXjNzS8D8ACuvp3L) | [Love Like That](https://open.spotify.com/album/1ewhccVD32md195nWwLG3u) | 2:46 | 2023-07-21 |  |
 | [Love Song \- TrillzAL Jersey Edit](https://open.spotify.com/track/5fEyVjWSDAkZzpkeinGBfx) | [IV JAY](https://open.spotify.com/artist/0S63sOasTLdgPXIycsCsMX), [TrillzAL](https://open.spotify.com/artist/4jovnMrcMoNDMhx8xLnp7A) | [Love Song \(Remixes\)](https://open.spotify.com/album/1qWGucN0AWEu5S0wdNOKPu) | 2:22 | 2022-02-11 | 2022-12-31 |
 | [Low Budget Bass Trash \- W.A.S.H\. Remix](https://open.spotify.com/track/30v9quHl4dLXfpv2Q8ERqO) | [Not Your Shadow](https://open.spotify.com/artist/1cOezzAcftrq3gR6ABPJ9C), [W.A.S.H.](https://open.spotify.com/artist/0v8Wb0xRJcWNUjDc5sL9Og) | [Low Budget Bass Trash \(W.A.S.H\. Remix\)](https://open.spotify.com/album/5vygzgKP1YZtBWdQpgzfGk) | 3:13 | 2022-04-01 | 2022-07-28 |
 | [Luhh Galore](https://open.spotify.com/track/1MOcUvdRYdVMTAYuHfMILj) | [DJ Flex](https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125) | [Luhh Galore](https://open.spotify.com/album/0qWRPNvv1f7Ai6KBi4zgAH) | 1:28 | 2022-02-11 | 2022-07-29 |

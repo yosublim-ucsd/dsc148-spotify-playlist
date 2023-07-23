@@ -1163,6 +1163,32 @@
     },
     {
       "album": {
+        "name": "WASTED",
+        "url": "https://open.spotify.com/album/56ZGWOdDU4kFTvSPXINDOO"
+      },
+      "artists": [
+        {
+          "name": "Ekoh",
+          "url": "https://open.spotify.com/artist/5lC7N2Mm9i92KSfW4opawO"
+        },
+        {
+          "name": "Senses Fail",
+          "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
+        },
+        {
+          "name": "Buddy Nielsen",
+          "url": "https://open.spotify.com/artist/2H6DEyiv5p0f3s5Bl7mAOc"
+        }
+      ],
+      "date_added": "2023-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145454,
+      "name": "WASTED",
+      "url": "https://open.spotify.com/track/6SMIjm419Gr0iWKxBCb8U8"
+    },
+    {
+      "album": {
         "name": "Through Being Ghoul",
         "url": "https://open.spotify.com/album/3Px8B6UkiHL0qpaorSn4EA"
       },

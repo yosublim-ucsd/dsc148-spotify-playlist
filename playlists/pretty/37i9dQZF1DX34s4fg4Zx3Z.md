@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Southalid; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,774 likes - 99 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,796 likes - 99 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 98 | [Sẽ Không Còn Nữa](https://open.spotify.com/track/0D6z6cD2BLytrL0nQjmt1I) | [Mars Anh Tú](https://open.spotify.com/artist/1FSFk4EW0J2Yeb0Fua26b9) | [Chill With Mars](https://open.spotify.com/album/5IeyDQhSthSgElZFmcunUQ) | 4:46 |
 | 99 | [Con tim bít iu](https://open.spotify.com/track/7KvMPaAFnHCDulukFliZaI) | [NhiiT](https://open.spotify.com/artist/5LuUfRA2eKyjdK8ucMOXwk), [mơ](https://open.spotify.com/artist/6T870Q2zfiDi7s4aAxk3rm), [Kart](https://open.spotify.com/artist/4qpeGhUog7p0HHP2ZQEoC3) | [Con tim bít iu](https://open.spotify.com/album/1faUhnW51CK3Q1qOr2xMiT) | 2:57 |
 
-Snapshot ID: `MCxjMjc4OWY3YTU3OTcwYzhjMTczNjIyYjgxZjdkY2M4NWRhZDA4OGNm`
+Snapshot ID: `MCwxOWM1ZWQwYmNjMTlhNzA5MjkxMWVjNTM3MGY0NzA1MzBiZDZjNmY0`

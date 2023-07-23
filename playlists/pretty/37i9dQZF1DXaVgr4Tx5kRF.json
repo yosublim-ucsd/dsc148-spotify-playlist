@@ -1,12 +1,12 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 616889,
+  "num_followers": 617162,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTM0ZDJjNzdmZGRkYTljMmY4MGU1ZDBmMzVlZjQ1ZGNhYTljOWM1",
+  "snapshot_id": "MCxmNTAzMTFlYmY3ODMwYzNjMWEyYzQ1NWJhNzllNzMwNWM5OGUxYjhl",
   "tracks": [
     {
       "added_at": "2022-05-04 17:11:49",
@@ -827,8 +827,8 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Screamadelica",
-        "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
+        "name": "Give Out But Don't Give Up",
+        "url": "https://open.spotify.com/album/51wKnaqc8kVTPeR99dpXg8"
       },
       "artists": [
         {
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
         }
       ],
-      "duration_ms": 422600,
-      "name": "Loaded",
-      "url": "https://open.spotify.com/track/7dSBZzVmyBaLDxT2v3EJHB"
+      "duration_ms": 217373,
+      "name": "Rocks",
+      "url": "https://open.spotify.com/track/2MjYMvn7PlS4HAE1EtP7BJ"
     },
     {
       "added_at": "2022-05-04 17:11:49",
@@ -987,8 +987,8 @@
     {
       "added_at": "2022-05-04 17:11:49",
       "album": {
-        "name": "Give Out But Don't Give Up",
-        "url": "https://open.spotify.com/album/51wKnaqc8kVTPeR99dpXg8"
+        "name": "Screamadelica",
+        "url": "https://open.spotify.com/album/4TECsw2dFHZ1ULrT7OA3OL"
       },
       "artists": [
         {
@@ -996,9 +996,9 @@
           "url": "https://open.spotify.com/artist/3wury2nd8idV4GecUg5xze"
         }
       ],
-      "duration_ms": 217373,
-      "name": "Rocks",
-      "url": "https://open.spotify.com/track/2MjYMvn7PlS4HAE1EtP7BJ"
+      "duration_ms": 422600,
+      "name": "Loaded",
+      "url": "https://open.spotify.com/track/7dSBZzVmyBaLDxT2v3EJHB"
     },
     {
       "added_at": "2022-05-04 17:11:49",

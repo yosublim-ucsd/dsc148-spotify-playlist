@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 
 > Headbangers of Bangladesh\. Cover \- Chondropith
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,195 likes - 100 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,235 likes - 100 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 | 81 | [Epitaph](https://open.spotify.com/track/1U6tiLQYPT9C3GEhJlAsAQ) | [Shonar Bangla Circus](https://open.spotify.com/artist/0VunpVWO2MCBMR1qwGRWzh) | [Hyena Express](https://open.spotify.com/album/1y3dEPRfsbLgGelBKtXyuq) | 6:43 |
 | 82 | [Eto Kosto Keno](https://open.spotify.com/track/4tp8j4lPEbwaRxmcmIG0GU) | [Hasan](https://open.spotify.com/artist/1A6hdufES0mRTJ8h3duDp5) | [Chuti](https://open.spotify.com/album/5C7WL2LcsbQD8g6eTwA8Cm) | 4:20 |
 | 83 | [Matir Roud \(Bonus Track\)](https://open.spotify.com/track/0JnTceZvCOPnRcRiGQvWEj) | [Aftermath](https://open.spotify.com/artist/79iOqoOkavfzftyQjx21qp) | [JED](https://open.spotify.com/album/1oLSVb8CrKCdQyoY7LIeIZ) | 4:29 |
-| 84 | [Bristi Veja Dupur](https://open.spotify.com/track/5v8mrL0zFv2mjOSvRh3vWE) | [Soura Pandey](https://open.spotify.com/artist/6Vu1diYOaCPEjbuMhEV0hL), [Joel D Costa](https://open.spotify.com/artist/6TzLz534zsSVQqG4zUAlpQ) | [Chinno Potro](https://open.spotify.com/album/2atbTyFkndA0Yi7iGzyiDX) | 5:48 |
+| 84 | [Bristi Veja Dupur](https://open.spotify.com/track/46l8esn7rL7sAS9GWSvL6G) | [Soura Pandey](https://open.spotify.com/artist/6Vu1diYOaCPEjbuMhEV0hL), [Joel D Costa](https://open.spotify.com/artist/6TzLz534zsSVQqG4zUAlpQ) | [Chinno Potro](https://open.spotify.com/album/4qjpE5T9ad9DOebUCw9ftH) | 5:50 |
 | 85 | [Joto Durey](https://open.spotify.com/track/3jHx5tU9xQhrnb4uIQAphs) | [Warfaze](https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2) | [Pothchola](https://open.spotify.com/album/00r7NhiTZHBe78IvgLdxyA) | 5:57 |
 | 86 | [Mitther Agrashon](https://open.spotify.com/track/69Hg5HO5xhagCRBuzTH13D) | [Powersurge](https://open.spotify.com/artist/3DthXkylda8Shpje531yPa) | [Auprostut Juddho](https://open.spotify.com/album/3pgjG6tK61cJalXZ7qyHsg) | 6:39 |
 | 87 | [Tamakpata](https://open.spotify.com/track/54rbC8m2E1ghnwJyTHTPM8) | [Ashes](https://open.spotify.com/artist/7dHv80FOCQj8SoWjREiojc) | [Rockoholic 3](https://open.spotify.com/album/0sUGhA7xMLiaxkTyo2aXdp) | 5:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 | 99 | [Ohona](https://open.spotify.com/track/3GH0XQTz3y2EztDLkC2Hnl) | [Subconscious](https://open.spotify.com/artist/7naDXHAHLyVnJPC545dpbB) | [Ohona](https://open.spotify.com/album/44y5Ix6vo0CjLtJNcPcK1g) | 4:39 |
 | 100 | [Utshorgo](https://open.spotify.com/track/7tcHBMra1AZ3QWIHX3hX0r) | [Aftermath](https://open.spotify.com/artist/79iOqoOkavfzftyQjx21qp) | [JED](https://open.spotify.com/album/1oLSVb8CrKCdQyoY7LIeIZ) | 5:52 |
 
-Snapshot ID: `MCxmZjIwMzQwOWJhYjkzMDU5NjQ2OWU0OGE1MzEwZDA0OTU0MTczZmZh`
+Snapshot ID: `MCxlMzQ1MDlmYTc5NDQzZDVjOGVkM2YwMjg0OTY3N2U1MzAxYjE3YmVk`

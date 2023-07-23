@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 
 > Underground indie rock gems\. Cover: Geese
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,626 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,690 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 55 | [Rain So Hard](https://open.spotify.com/track/4fU0miO1uP9bESZotV0JfS) | [Strange Ranger](https://open.spotify.com/artist/3psutwIiyR5tfTM1TTNxFv) | [Rain So Hard](https://open.spotify.com/album/2Dgk2bh8D0kOXXXNFPfrSL) | 4:50 |
 | 56 | [Telephone](https://open.spotify.com/track/6kmeI9upOHk6TRSi2StNlr) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [Norm](https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC) | 3:42 |
 | 57 | [Daedelus and Us](https://open.spotify.com/track/35MC54zocUwcqf9iGqxrn8) | [Nuzzle](https://open.spotify.com/artist/2yT5IedrQEo4AXTF9UMtAq) | [Daedelus and Us](https://open.spotify.com/album/5WNeMUJ7FcmygBAg78LDnD) | 3:34 |
-| 58 | [Heaven Is Your Company](https://open.spotify.com/track/5FuSWZB44fvaG86WNoZIPn) | [Death Bells](https://open.spotify.com/artist/14aKkOrkqm6amS81rUMZPg) | [Heaven Is Your Company](https://open.spotify.com/album/2DGj34CUI2CdjstGXkAtRN) | 3:09 |
+| 58 | [Heaven Is Your Company](https://open.spotify.com/track/7kZs1XgzlyQhMNHLzPA9cj) | [Death Bells](https://open.spotify.com/artist/14aKkOrkqm6amS81rUMZPg) | [Take My Spirit Now](https://open.spotify.com/album/5icbSNSho1t6Yc82qWC0vR) | 3:09 |
 | 59 | [bite>chew](https://open.spotify.com/track/6TrG5IUHKV3lTZ6RNViIzs) | [sai nara](https://open.spotify.com/artist/4kNEZWghigRYYs07fJWBqb), [Ifys](https://open.spotify.com/artist/2JJuMFyGSGUltwqf32E8YT), [Joe Worker](https://open.spotify.com/artist/512ryQI6aOrN662xL2g1C9), [Drkshdw](https://open.spotify.com/artist/6XIObThoJNghGJjjN5Cdev), [purzs](https://open.spotify.com/artist/77nPCr1hr3CZFe9JkkvWxU), [fadewtf](https://open.spotify.com/artist/72DLLZbXqjq55h6TWNt3oa), [TopConniver](https://open.spotify.com/artist/2ywwxdoBTSjjGB2bls6Bz4), [dyingoutlay](https://open.spotify.com/artist/23iXJEufmtnarRpaAUL2pi), [coldoutlay](https://open.spotify.com/artist/6iVZjzQSsPC4iuI1JUV2Zs), [Jerm](https://open.spotify.com/artist/5JSpdSi1RHQ3KgNovJBJhF), [Keltechh](https://open.spotify.com/artist/0OyK93tUwOD7XAHcEA2Q7L), [jahhde](https://open.spotify.com/artist/3iwgpA6jf4fXM5ZuH7qglb), [vjac0b](https://open.spotify.com/artist/2dSAZN7PmMiI5UCTJUALer), [Rick Owens](https://open.spotify.com/artist/2pC7dYql1Qm5KdhVwkhpS2) | [bite>chew](https://open.spotify.com/album/34ZWURnharBbMxXDFy39oE) | 1:17 |
 | 60 | [Too Cold to Hold](https://open.spotify.com/track/5BUHjtdwcBBeIVKViknLfV) | [Bass Drum of Death](https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY) | [Say I Won't](https://open.spotify.com/album/5sImBI3vR27SaInKMVtT6m) | 3:10 |
 | 61 | [If the Wheels Are Coming off, The Wheels Are Coming Off](https://open.spotify.com/track/3wZmkZ64WdPwkhJUBkfYe2) | [Ulrika Spacek](https://open.spotify.com/artist/07vC6cutbett8UknXnqxsu) | [Compact Trauma](https://open.spotify.com/album/6ADAOhSIu5dIJqBN2rxMtz) | 4:18 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9myttyycIxA.md) - [plain]
 | 79 | [bleed](https://open.spotify.com/track/1KaqkPcXRryyLcxhed4zj2) | [she's green](https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY) | [bleed](https://open.spotify.com/album/5g7nVEocQGj2yBKJcWVgIX) | 2:57 |
 | 80 | [Suburban Mall Jewelry](https://open.spotify.com/track/7jkyjrW4PspGKdR9YpYQJl) | [Thoom](https://open.spotify.com/artist/2Tpvy7ryLgM835gDgN2nL5) | [Fantasy For Danger](https://open.spotify.com/album/3E2cDKt4O1oy4e329IGvPM) | 3:06 |
 
-Snapshot ID: `MCwwODZjMWU3ZjBiMTNiMzExMDEzZTQxNDNiMmFmOTk5NjgxYmM2NDFl`
+Snapshot ID: `MCxhYTBiMDQyZDIzMmQwNTE0M2M4NGMxMDk4YTkwZTM0YTRiNmZjYWRh`

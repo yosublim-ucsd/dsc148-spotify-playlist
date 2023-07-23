@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Romania.
 
-1,199 songs - 2 day 15 hr 24 min
+1,201 songs - 2 day 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,7 +349,7 @@
 | [Escapism.](https://open.spotify.com/track/5WxVXxCMRnvxUKFq40ELwq) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. \(Sped Up\)](https://open.spotify.com/album/1bdKI997loh6G68NED2cwX) | 4:32 | 2022-12-09 | 2023-02-05 |
 | [Escapism.](https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:32 | 2023-02-04 | 2023-02-19 |
 | [Está Dañada](https://open.spotify.com/track/6G2xXQRSZlEzYsUEb3uvuR) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Alma Vacía](https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk) | 3:34 | 2021-10-12 | 2021-10-18 |
-| [Evantai](https://open.spotify.com/track/6XYMIIUwcX78OVdqnjKSAk) | [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [Slayer](https://open.spotify.com/album/4A9R8TRrRsslTgzsvMW4Ui) | 2:08 | 2022-11-10 |  |
+| [Evantai](https://open.spotify.com/track/6XYMIIUwcX78OVdqnjKSAk) | [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [Slayer](https://open.spotify.com/album/4A9R8TRrRsslTgzsvMW4Ui) | 2:08 | 2022-11-10 | 2023-07-23 |
 | [Every Angel is Terrifying](https://open.spotify.com/track/3vJcz8exedHCjQ9ed95NqU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 2:47 | 2022-01-08 | 2022-01-13 |
 | [Evian](https://open.spotify.com/track/5Ibxha7N01DUemV7b99LH4) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ), [YNY Sebi](https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM) | [Evian](https://open.spotify.com/album/6puOlWCymDg0gXxs9UW3sq) | 2:27 | 2021-10-26 | 2021-12-12 |
 | [Exorcist \(Bgm\)](https://open.spotify.com/track/3I6v1zLqMFoDUeJWsgjJOO) | [Rajsofficial](https://open.spotify.com/artist/4xDNdyI0CDo5h81bDUwD6n) | [Exorcist \(Bgm\)](https://open.spotify.com/album/6MQfIis9bPmQ7tMH2iMrFu) | 1:11 | 2022-03-25 | 2022-03-27 |
@@ -547,6 +547,7 @@
 | [Junya](https://open.spotify.com/track/1aF9TeHZbe6OVo9dtjPuzK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:27 | 2021-08-31 | 2021-09-04 |
 | [Junya pt 2](https://open.spotify.com/track/7soCc4TpT99bOhJoCiMqFN) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:02 | 2021-08-31 | 2021-09-01 |
 | [Just Wanna Rock](https://open.spotify.com/track/4Ls53fBNVfaXTROBi6X8Hw) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Pink Tape](https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz) | 2:03 | 2023-07-01 | 2023-07-03 |
+| [K\-POP](https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [K\-POP](https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb) | 3:05 | 2023-07-22 |  |
 | [Kankun](https://open.spotify.com/track/0btRiLdhc6u5z8WUK0HTFS) | [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [Kankun](https://open.spotify.com/album/2dVXE42hlHu4O3t1FRH1K8) | 3:22 | 2023-05-22 |  |
 | [Karma](https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:24 | 2022-10-22 | 2022-10-27 |
 | [Kawasaki](https://open.spotify.com/track/1dMR1ltIgyYRq5vmFXvu07) | [Iuly Neamtu](https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD), [Manele Mentolate](https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR) | [Kawasaki](https://open.spotify.com/album/3jYiuW7mj6Cxrxavgh1ZaP) | 2:53 | 2022-02-13 | 2023-06-25 |
@@ -823,6 +824,7 @@
 | [PRADATORI](https://open.spotify.com/track/2PqjL97IhV1XAUITc1aLOh) | [FLORIS](https://open.spotify.com/artist/6oCCIhNLreyOTp3krqOfeM), [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [PRADATORI](https://open.spotify.com/album/6H9fCHAT3f54h7voQqFs9i) | 2:52 | 2022-12-08 | 2022-12-12 |
 | [Praf](https://open.spotify.com/track/4X1KfuOJRRDOZi1JgfxbN9) | [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR), [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS), [Alberto Grasu](https://open.spotify.com/artist/6nzeqmuQeZAVidJy3j5Dck) | [Kira](https://open.spotify.com/album/5ERKxoGCGnW0HME75haHA4) | 3:15 | 2022-03-26 | 2022-06-30 |
 | [Praf](https://open.spotify.com/track/7jTmA2i0UzIgObLLETZm3y) | [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR), [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS), [Alberto Grasu](https://open.spotify.com/artist/6nzeqmuQeZAVidJy3j5Dck) | [Praf](https://open.spotify.com/album/01Og6fMaT3OAkDCFiHG2ke) | 3:15 | 2021-06-03 | 2021-06-27 |
+| [PRAF 2](https://open.spotify.com/track/7C7fxYADplhQoLZ72qAPqL) | [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR), [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [PRAF 2](https://open.spotify.com/album/2Fa0obZbTSrOraUMQBgeq9) | 3:26 | 2023-07-22 |  |
 | [Praise God](https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 3:46 | 2021-11-02 | 2021-11-21 |
 | [Praise God](https://open.spotify.com/track/0Zm7NKJgoKY6ZWwtoEUILK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:46 | 2021-08-31 | 2021-09-05 |
 | [Prea Gagiu](https://open.spotify.com/track/0Owa67CcizuE3BJSSrUE7i) | [YNY Sebi](https://open.spotify.com/artist/5BUJV1dbGNb61hYPK6rhtM) | [Most Wanted](https://open.spotify.com/album/42DkWsNfjrhOjSfiDPTBHK) | 2:40 | 2022-06-24 | 2022-07-09 |
@@ -904,7 +906,7 @@
 | [Santa Tell Me](https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Santa Tell Me](https://open.spotify.com/album/27MNgBEnLCKoafz1g2Zu97) | 3:24 | 2021-12-07 | 2022-12-28 |
 | [Santa's Coming for Us](https://open.spotify.com/track/1N1ZpYUJc9fwrqk53FGgWv) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 3:25 | 2021-12-25 | 2021-12-27 |
 | [Satellite](https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:38 | 2022-05-21 | 2022-05-26 |
-| [Sauditii](https://open.spotify.com/track/6SiHINMCAPTGwojLqIP4ah) | [Alex Botea](https://open.spotify.com/artist/0P8GOB6ZytMhZX8fd1OUsz) | [Sauditii](https://open.spotify.com/album/4ZA7PL19wmYttxkZ5XmjOu) | 3:54 | 2023-06-10 |  |
+| [Sauditii](https://open.spotify.com/track/6SiHINMCAPTGwojLqIP4ah) | [Alex Botea](https://open.spotify.com/artist/0P8GOB6ZytMhZX8fd1OUsz) | [Sauditii](https://open.spotify.com/album/4ZA7PL19wmYttxkZ5XmjOu) | 3:54 | 2023-06-10 | 2023-07-23 |
 | [Savana](https://open.spotify.com/track/4BJsV9Iu4sJphgvAyDxfkp) | [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS) | [Savana](https://open.spotify.com/album/73ptPb6GTjOCkxsPqJxfjr) | 2:56 | 2021-03-27\* | 2021-09-29 |
 | [Savana 2](https://open.spotify.com/track/399MLVoQbxi9MTNqMRy575) | [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS), [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR) | [Savana 2](https://open.spotify.com/album/4QqjHArQJL69xymlQkCDCh) | 2:31 | 2021-05-18 | 2021-05-22 |
 | [Save Your Tears](https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:35 | 2021-03-27\* | 2022-04-10 |

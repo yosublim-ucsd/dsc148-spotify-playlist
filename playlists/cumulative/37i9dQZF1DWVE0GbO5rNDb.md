@@ -4,7 +4,7 @@
 
 > Hit dance per l'estate 2023! ☀️🍹🏝️
 
-313 songs - 15 hr 24 min
+314 songs - 15 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Call On Me](https://open.spotify.com/track/1gX4wETtMGvOB7u1proVfj) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Call On Me](https://open.spotify.com/album/4l78jaWeylIINTLaAdIHJy) | 3:14 | 2022-05-06 | 2023-05-23 |
 | [Can't Forget You](https://open.spotify.com/track/726GMkrLFseCdHebF8LdVU) | [Briron Gauri](https://open.spotify.com/artist/2Aydybx286zfOnz7DQXw7N), [Estie](https://open.spotify.com/artist/6wWfHA1CxWIjDRF4FOFb5o), [Able Faces](https://open.spotify.com/artist/7nL523vzwv24ad0oFf2VZ2) | [Can't Forget You](https://open.spotify.com/album/2lRF3otwcBQFr4EfJRLp2C) | 2:46 | 2022-05-06 | 2022-07-21 |
 | [Can't Get Away from You](https://open.spotify.com/track/0s4Y8phoPkgGpDe6nFSMyA) | [Tullio](https://open.spotify.com/artist/3LbMrfAq8YnMksyS3H5zWD), [Vide](https://open.spotify.com/artist/33DYTSjYcxK2DzjeK7w539) | [Can't Get Away from You](https://open.spotify.com/album/2DJrh6OXykMToIEHrvQrjH) | 2:53 | 2022-05-17 | 2022-07-01 |
-| [Candela](https://open.spotify.com/track/0WR1IwdoZvOe9eyvIiOsxN) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5), [TECHOLOGY](https://open.spotify.com/artist/21EyWBa08Y6OXjA6s8GR8s) | [Candela](https://open.spotify.com/album/06Sv0nfkDslR2zt14sArMZ) | 2:08 | 2023-07-14 |  |
+| [Candela](https://open.spotify.com/track/0WR1IwdoZvOe9eyvIiOsxN) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Raffa Fl](https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5), [TECHOLOGY](https://open.spotify.com/artist/21EyWBa08Y6OXjA6s8GR8s) | [Candela](https://open.spotify.com/album/06Sv0nfkDslR2zt14sArMZ) | 2:08 | 2023-07-14 | 2023-07-23 |
 | [Capital Letters](https://open.spotify.com/track/6l0Ky2PycJV1Bz88kFeVGL) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [BloodPop®](https://open.spotify.com/artist/1okJ4NC308qbtY9LyHn6DO) | [Fifty Shades Freed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) | 3:39 | 2022-07-29 | 2023-03-18 |
 | [Car Keys \(Ayla\)](https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Car Keys \(Ayla\)](https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs) | 2:27 | 2023-06-30 |  |
 | [Castles](https://open.spotify.com/track/3QdzpmSbCNb8zh98lnUeXE) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [World's First Cinema](https://open.spotify.com/artist/4twMMV3DuDCtmSUosQeWPF) | [Castles](https://open.spotify.com/album/3BSnLCAE4SOZkMFiy10Rik) | 3:35 | 2022-12-20 | 2023-03-18 |
@@ -111,6 +111,7 @@
 | [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 | 2023-05-24 |  |
 | [GO](https://open.spotify.com/track/2s0lm5AwB5xoul4SOftEMw) | [Faruk Orakci](https://open.spotify.com/artist/2jjH04yNhYlg9ELbQnzEGe) | [GO](https://open.spotify.com/album/6cQ8DdwVVQgD4WmPQ4X8MK) | 2:31 | 2022-05-30 | 2022-07-09 |
 | [Good Feeling \(feat\. Rhys Lewis\)](https://open.spotify.com/track/7hmdTvWQgw2p8aG26MIdCO) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Good Feeling \(feat\. Rhys Lewis\)](https://open.spotify.com/album/4Jx380oGmnaf6mbEgH4rSu) | 3:34 | 2023-05-04 |  |
+| [Good Life](https://open.spotify.com/track/09rcsC6M15EZPbCVmrqUYK) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Good Life](https://open.spotify.com/album/4L7JQYnj8oGhI4OfdQjFjv) | 3:16 | 2023-07-14 |  |
 | [Good Love](https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Good Love](https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48) | 2:49 | 2023-06-07 |  |
 | [Got You For Life](https://open.spotify.com/track/4kln9ecLNpOwjIiueHy7Yq) | [Dualities](https://open.spotify.com/artist/7qplXWyxHyxChnW37jxBxt), [Ruhde](https://open.spotify.com/artist/1xLhhhPXc6NUNxUXDG5Psb) | [Got You For Life](https://open.spotify.com/album/1JIcujaJ1JCY6yH5h1HhfS) | 2:31 | 2022-05-17 | 2022-07-26 |
 | [Hallucinate](https://open.spotify.com/track/1nYeVF5vIBxMxfPoL0SIWg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:28 | 2022-05-13 | 2023-03-18 |

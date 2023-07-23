@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Artie 5ive e Sacky in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,741 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,781 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 49 | [Finta di niente](https://open.spotify.com/track/4iicf5JOcfrr3uSBucgxo3) | [Not Good](https://open.spotify.com/artist/1PG5WX3LZJHM4p6HO4qMq8) | [Finta di niente](https://open.spotify.com/album/5Pk7h4An85JI29zvO5qOzA) | 2:36 |
 | 50 | [Festa delle Streghe](https://open.spotify.com/track/2zr06Pa71vFC0PLNLAixXu) | [Prince](https://open.spotify.com/artist/1euy9qBmp31zNChfEVU0FI), [Ervie](https://open.spotify.com/artist/2jv3dj48LmJ18EwXdgzARH) | [Love Storii](https://open.spotify.com/album/6LbQhCuZ2ge0zbW6CiXD8V) | 2:40 |
 
-Snapshot ID: `MCxlOTg1ZTc4OWViOGU1YmVjZGJlZTNkYzM1MTUyYWVhMWYzMGE3NTJj`
+Snapshot ID: `MCw3OWM1YTAxYWRmOGU2NmU3NjVkM2RlY2UwOTlmYjQwZThmMzNmYmQw`

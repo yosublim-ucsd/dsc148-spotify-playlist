@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 
 > 2001年バンドSound Scheduleのメンバーとしてデビュー。ソロ名義「オーイシマサヨシ」およびユニットOxTでは、アニメ音楽シーンの立役者として知られる作曲家/アーティスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,421 likes - 78 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,420 likes - 78 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 | 50 | [Fukashin Ryoiki Destroyer](https://open.spotify.com/track/3kAZSfG4Y5NUxdlg1QpDYY) | [Rib](https://open.spotify.com/artist/4eO7EIigOqHaFTZD1oqK5f) | [MYLIST](https://open.spotify.com/album/6kHpapyshMJa3KcKA7KuZa) | 3:55 |
 | 51 | [Petenshi no Yuuutsu](https://open.spotify.com/track/7aY5JhCXFCwy5Di77tODbW) | [Utsuki Chikage \(CV: Wataru Hatano\)](https://open.spotify.com/artist/2mJEBOqW95SK373lnenYtj) | [A3! Vivid Spring EP](https://open.spotify.com/album/7JnNNAbW1Li5QiBMoyjb8t) | 3:07 |
 | 52 | [シンデレラステップ](https://open.spotify.com/track/6kBW41TUekIPyVkfMhYLSw) | [Urashimasakatasen](https://open.spotify.com/artist/1EYvO39JCY52RH1buMSgX2) | [L∞VE](https://open.spotify.com/album/4qKM6NdUMTNFFTPPvOFhvp) | 3:40 |
-| 53 | [リングオブドランカー](https://open.spotify.com/track/4RsRkT4lHhC8mA9XODdRGn) | [柿原徹也](https://open.spotify.com/artist/1p3FN7q7Hd6AaVGOgyJMku) | [Circle of LIFE](https://open.spotify.com/album/4Pfa4j6GQWOJ6WTQy47vay) | 3:26 |
+| 53 | [リングオブドランカー](https://open.spotify.com/track/4RsRkT4lHhC8mA9XODdRGn) | [Tetsuya Kakihara](https://open.spotify.com/artist/1p3FN7q7Hd6AaVGOgyJMku) | [Circle of LIFE](https://open.spotify.com/album/4Pfa4j6GQWOJ6WTQy47vay) | 3:26 |
 | 54 | [君じゃなきゃダメみたい](https://open.spotify.com/track/3ampsSIgy89L2INLIp3ym3) | [Tomohisa Sako](https://open.spotify.com/artist/0wqa4zlg4Ru1nVJRrOlx5B) | [キミの耳にラブソングを](https://open.spotify.com/album/7J3tNqe5P6sJQdG4dWavZs) | 4:29 |
 | 55 | [Mankai Kaika Sengen \- MANKAI STAGE SPRING Ver.](https://open.spotify.com/track/2QQ1xK0YNypz0ySeAQZDnB) | [Harugumi \(MANKAI STAGE\)](https://open.spotify.com/artist/5sL4777jRj9D4Zqs8HE2hv) | [Mankai Stage "A3!" Spring Troupe: Mankai no Sakura no Shita de](https://open.spotify.com/album/6yGNcCvrOM1v2zXCqJwW3n) | 3:48 |
 | 56 | [私と、わたし](https://open.spotify.com/track/1I3qzeVrhFnvzoRTSAp9lg) | [上田桃夏](https://open.spotify.com/artist/3SIHbizkbUxIRtDlVY0OtH) | [私と、わたし](https://open.spotify.com/album/3m0DMn0ETvJ9RGXK5b54Gl) | 3:52 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 | 77 | [Moratorium Dance Floor \- Live](https://open.spotify.com/track/6YImKwLnSElvNSeMVbWixk) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Masayoshi Oishi One\-Man Live Entertainer](https://open.spotify.com/album/4TQelLZa9wM5cW9OdWIdLM) | 3:54 |
 | 78 | [Otomodachi Film \- Live](https://open.spotify.com/track/6YMWAFs84TJWbW0zBZAhQQ) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Masayoshi Oishi One\-Man Live Entertainer](https://open.spotify.com/album/4TQelLZa9wM5cW9OdWIdLM) | 3:33 |
 
-Snapshot ID: `MCxiYTAxMzk1MGRmOTlkMmE1Yzc3OWU3OGM4MjMzZmZjMTAzZGVlMDY1`
+Snapshot ID: `MCw0YTJmZGQ2NWQxM2QyZmU4YTZhYjBkYzIyN2RlODgzM2M4MGE2NThi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Robert Finley
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,606 likes - 100 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,654 likes - 100 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 | 99 | [Rescue Me](https://open.spotify.com/track/2DR9xCM5wVzjKPR9EkwFoT) | [Danny Bryant](https://open.spotify.com/artist/0y5sFo3j8Mo01UVEfqeuqn) | [The Rage to Survive](https://open.spotify.com/album/2t3Eb0q4rD04xtQIChzKPw) | 4:49 |
 | 100 | [Solid Ground](https://open.spotify.com/track/29kOOOgYW6OfqblR5Kawqt) | [Davy Knowles](https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB) | [What Happens Next](https://open.spotify.com/album/5YPB4NSqjifClpCCbiNVXB) | 2:34 |
 
-Snapshot ID: `MCxmNzgxNzVmOWVlOWNjZDUxNGI1MjM3MmExNDE0MGZhMGQ4YzBhNDZm`
+Snapshot ID: `MCw4NjkwNGVlYWY3Mjc1OGUxNzViNTMyZDNjNDlmN2E0NjM1MzY0NzMy`

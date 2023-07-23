@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 
 > Come for the stew stay for the craic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,738 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,815 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 | 11 | [The Dublin Pub Crawl](https://open.spotify.com/track/78nceFqT22hjM0pLjQh1Lg) | [The Irish Rovers](https://open.spotify.com/artist/0tkKwWigaADLYB9HdFCjYo) | [Drunken Sailor](https://open.spotify.com/album/5iyQuCFO65zkVXaqtBYFuo) | 4:28 |
 | 12 | [Molly Malone](https://open.spotify.com/track/6K5kPhYPbLNkkdyvyjzP3t) | [The Dubliners](https://open.spotify.com/artist/72RvmgEg2omdlMV9aExO6a) | [The Best Of The Dubliners](https://open.spotify.com/album/14p25ZN9xDdhJP5Vkn1NG1) | 2:58 |
 | 13 | [Wild Mountain Thyme](https://open.spotify.com/track/1Kue1YD3a8ANnrcS4o87Cc) | [Sean Tyrrell](https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o) | [The Orchard](https://open.spotify.com/album/7aUKDSAEpvc7b2SEnPAzX7) | 3:43 |
-| 14 | [The Wild Rover](https://open.spotify.com/track/47Aj72P6zTD6UqkIN44IiM) | [Brogue](https://open.spotify.com/artist/5KHKWKrJziaGcg7LG7SNdL), [Paddy O'Gorman](https://open.spotify.com/artist/0KTaPPzzokXm78lUl6Bu1b) | [Irish Ballads and Songs](https://open.spotify.com/album/015erneqKmEPClgUAzqc1L) | 3:04 |
+| 14 | [Smoke and Strong Whiskey](https://open.spotify.com/track/7ok6fq3vNfyIqjSby1UbpV) | [Turlough](https://open.spotify.com/artist/7lGlBusQq3p9LjkdD9iF7R) | [Canyon Moonrise](https://open.spotify.com/album/7E003F3IUQEbMqNPs7GVWq) | 4:16 |
 | 15 | [Merrily Kissed The Quaker](https://open.spotify.com/track/0PSXpbeWUPrxoUfZluO0CM) | [Planxty](https://open.spotify.com/artist/15EMC4BhBrkCPwIxCfuY9c) | [The Planxty Collection](https://open.spotify.com/album/7EBGNTzxA5We3cdWqrj1Mf) | 2:39 |
-| 16 | [Smoke and Strong Whiskey](https://open.spotify.com/track/7ok6fq3vNfyIqjSby1UbpV) | [Turlough](https://open.spotify.com/artist/7lGlBusQq3p9LjkdD9iF7R) | [Canyon Moonrise](https://open.spotify.com/album/7E003F3IUQEbMqNPs7GVWq) | 4:16 |
+| 16 | [The Wild Rover](https://open.spotify.com/track/47Aj72P6zTD6UqkIN44IiM) | [Brogue](https://open.spotify.com/artist/5KHKWKrJziaGcg7LG7SNdL), [Paddy O'Gorman](https://open.spotify.com/artist/0KTaPPzzokXm78lUl6Bu1b) | [Irish Ballads and Songs](https://open.spotify.com/album/015erneqKmEPClgUAzqc1L) | 3:04 |
 | 17 | [The Bright Side of the Moon](https://open.spotify.com/track/4Mz9saLVP35oxyLpizLIq5) | [Cyril O Donoghue](https://open.spotify.com/artist/6WBavOkLualW4j6VU1orFR) | [Irish Folk At Its Best](https://open.spotify.com/album/6l1hq6H7ivCIntkIj24Diz) | 3:47 |
 | 18 | [Galway Bay](https://open.spotify.com/track/6XqzrUnvg1hqOAqIuVQHhY) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV) | [Noel Mcloughlin: Ireland](https://open.spotify.com/album/0qfxcep6yTL2PPHta6CGwf) | 3:18 |
 | 19 | [Water Sammon's Grandmother/Concertina Reel/Brendan McMahon's](https://open.spotify.com/track/0AVIewuLIa4XLARxEnoK4p) | [Patrick Street](https://open.spotify.com/artist/6dEsbh3jq2v9kjY7X1pbWp) | [Patrick Street](https://open.spotify.com/album/4MXdPytlVlMbmtEQp9yBTO) | 4:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHVwrs6y0hc.md) - [plain]
 | 49 | [Dublin in the Rare Old Times](https://open.spotify.com/track/6cUmT8gumNhb2Y9GOghnmh) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV) | [20 Best Irish Songs](https://open.spotify.com/album/6wyX3vo0E5pKCKaRECy0SQ) | 4:24 |
 | 50 | [The Cliffs of Dooneen](https://open.spotify.com/track/68MgzkKuWdBRsfXHWPiY2Z) | [Noel McLoughlin](https://open.spotify.com/artist/2ZdRKfJb3mvE4PyHptYzgV), [Noel McLoughlin Group](https://open.spotify.com/artist/3X06t2DWR44EmCpR0AX8gx) | [20 Best of Ireland](https://open.spotify.com/album/4NHRHesF4AR2P6qU7sjBL1) | 3:33 |
 
-Snapshot ID: `MCw0YjQ4ZmVhM2IwMTlmN2M3MzAxZTBhMjZhY2Y4N2NlZjY3NGVlMDE0`
+Snapshot ID: `MCw3ZjJkNDIxNjRlZmU0NWFkNWQ4Y2I3MTkwYmQxZmViZjE5OGY4N2Iw`

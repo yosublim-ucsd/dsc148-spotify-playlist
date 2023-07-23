@@ -1,12 +1,12 @@
 {
   "description": "The best Blues for a long trip behind the wheel. ",
-  "num_followers": 22368,
+  "num_followers": 22435,
   "original_name": "Blues Road Trip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYWYyYzA5MTRiZTdiMWI0YzlhMTJkOGE2MTJkYjljNTkwZDM3OTFm",
+  "snapshot_id": "MCxjNTQyYjM0ZWU0ZWRkMWZlZjNiZDk4ZmYwMGQ0NjgxOTQzMzdkOWQx",
   "tracks": [
     {
       "added_at": "2023-01-27 16:34:16",
@@ -323,26 +323,22 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "The Super, Super Blues Band",
-        "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
+        "name": "Having a Rave Up with The Yardbirds (2015 Remaster)",
+        "url": "https://open.spotify.com/album/5SC92pfXSbQvZjgfk0oGno"
       },
       "artists": [
         {
-          "name": "Bo Diddley",
-          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
+          "name": "The Yardbirds",
+          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
         },
         {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        },
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 289173,
-      "name": "Goin' Down Slow",
-      "url": "https://open.spotify.com/track/2DonFSnhEr0WQcuHcHb5ti"
+      "duration_ms": 159866,
+      "name": "I'm a Man - 2015 Remaster",
+      "url": "https://open.spotify.com/track/0hIuZ0A7mlWQvSAoqYBbRn"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -363,22 +359,26 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Having a Rave Up with The Yardbirds (2015 Remaster)",
-        "url": "https://open.spotify.com/album/5SC92pfXSbQvZjgfk0oGno"
+        "name": "The Super, Super Blues Band",
+        "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
       },
       "artists": [
         {
-          "name": "The Yardbirds",
-          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
+          "name": "Bo Diddley",
+          "url": "https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq"
         },
         {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        },
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
         }
       ],
-      "duration_ms": 159866,
-      "name": "I'm a Man - 2015 Remaster",
-      "url": "https://open.spotify.com/track/0hIuZ0A7mlWQvSAoqYBbRn"
+      "duration_ms": 289173,
+      "name": "Goin' Down Slow",
+      "url": "https://open.spotify.com/track/2DonFSnhEr0WQcuHcHb5ti"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Grits Ain't Groceries",
-        "url": "https://open.spotify.com/album/17RGtwjrKiOPFR02ccaaGG"
-      },
-      "artists": [
-        {
-          "name": "Little Milton",
-          "url": "https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan"
-        }
-      ],
-      "duration_ms": 402600,
-      "name": "I Can't Quit You Baby",
-      "url": "https://open.spotify.com/track/0Ni4KPzSzbooiyE2AD4emq"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Whiskey & Wimmen: John Lee Hooker's Finest",
         "url": "https://open.spotify.com/album/2IREyf1bkFTWuZMCayQ5V7"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 137920,
       "name": "Big Legs, Tight Skirt",
       "url": "https://open.spotify.com/track/1RjsFNsXnkFETdkLNRpAg0"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Grits Ain't Groceries",
+        "url": "https://open.spotify.com/album/17RGtwjrKiOPFR02ccaaGG"
+      },
+      "artists": [
+        {
+          "name": "Little Milton",
+          "url": "https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan"
+        }
+      ],
+      "duration_ms": 402600,
+      "name": "I Can't Quit You Baby",
+      "url": "https://open.spotify.com/track/0Ni4KPzSzbooiyE2AD4emq"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Men of the World: The Early Years",
-        "url": "https://open.spotify.com/album/2K7v8gzTtmyX0fjvAVUkzt"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 468800,
-      "name": "Rattlesnake Shake - Live 2000",
-      "url": "https://open.spotify.com/track/0bjh0j7BgECHjNn805jTX5"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Frijid Pink (Digitially Remastered)",
         "url": "https://open.spotify.com/album/0iGAC7IoWSGGFXEDqtddNI"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 228626,
       "name": "Drivin' Blues - Remastered",
       "url": "https://open.spotify.com/track/5HvEnevlPtko7RRHFYfOrL"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Men of the World: The Early Years",
+        "url": "https://open.spotify.com/album/2K7v8gzTtmyX0fjvAVUkzt"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 468800,
+      "name": "Rattlesnake Shake - Live 2000",
+      "url": "https://open.spotify.com/track/0bjh0j7BgECHjNn805jTX5"
     },
     {
       "added_at": "2023-01-27 16:34:16",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-01-27 16:34:16",
       "album": {
-        "name": "Truckin' With Albert Collins",
-        "url": "https://open.spotify.com/album/1RVKFYjaQtyNFTsVRSwcLj"
-      },
-      "artists": [
-        {
-          "name": "Albert Collins",
-          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
-        }
-      ],
-      "duration_ms": 134693,
-      "name": "Shiver 'N Shake",
-      "url": "https://open.spotify.com/track/5B2kT9wJ3EQJDSJKrHGbd2"
-    },
-    {
-      "added_at": "2023-01-27 16:34:16",
-      "album": {
         "name": "Vivid Sound",
         "url": "https://open.spotify.com/album/4TxbXyp5SZGPxZoKCll7ZF"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 150693,
       "name": "Highway 60",
       "url": "https://open.spotify.com/track/17LkS9mDYDkkHjRz8M6OIe"
+    },
+    {
+      "added_at": "2023-01-27 16:34:16",
+      "album": {
+        "name": "Truckin' With Albert Collins",
+        "url": "https://open.spotify.com/album/1RVKFYjaQtyNFTsVRSwcLj"
+      },
+      "artists": [
+        {
+          "name": "Albert Collins",
+          "url": "https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW"
+        }
+      ],
+      "duration_ms": 134693,
+      "name": "Shiver 'N Shake",
+      "url": "https://open.spotify.com/track/5B2kT9wJ3EQJDSJKrHGbd2"
     },
     {
       "added_at": "2023-01-27 16:34:16",

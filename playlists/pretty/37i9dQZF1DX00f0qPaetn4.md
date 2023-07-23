@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00f0qPaetn4.md) - [plain]
 
 > Celebrating South Asian Heritage Month with Irfan's favorite South Asian tracks that accompany him on his travels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 507 likes - 35 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 514 likes - 35 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00f0qPaetn4.md) - [plain]
 | 8 | [Humne Bhi](https://open.spotify.com/track/78bJtdSTpHYS8u9axaismu) | [The Western Ghats](https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv) | [Humne Bhi \- Single](https://open.spotify.com/album/0rfjCcKynJ2CDAwGD8Yp1z) | 4:12 |
 | 9 | [Mustt Mustt](https://open.spotify.com/track/3xSz5q0i3aTVD446ucans3) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Mustt Mustt \(Real World Gold\)](https://open.spotify.com/album/57ObW7qW6CN1CWLXV5DOGb) | 5:18 |
 | 10 | [Jab Se Tu Ne](https://open.spotify.com/track/1CvX80n0LXBYDtCvoN6yTk) | [Khamaaj](https://open.spotify.com/artist/0Ib6OQsc3AELl7TACor6VZ) | [Chimta](https://open.spotify.com/album/1CEcmzGqCYtpF3noQON8If) | 7:51 |
-| 11 | [Fanaa \- Live at Nescafé Basement](https://open.spotify.com/track/0WhpTbSFKnsEG06jjDCa6h) | [Karakoram](https://open.spotify.com/artist/7iUydu6DUbUBsDDwheSlkr) | [Ibtida](https://open.spotify.com/album/5ZtwZTwn9Hn75k4YG4QyS3) | 5:18 |
+| 11 | [Fanaa \(Live at Nescafé Basement\)](https://open.spotify.com/track/43uxoEGFbkR51Wm4Gwve5U) | [Karakoram](https://open.spotify.com/artist/7iUydu6DUbUBsDDwheSlkr) | [Ibtida](https://open.spotify.com/album/0eYmVARmQczbwTwTUavy4r) | 5:18 |
 | 12 | [Kadi Ao](https://open.spotify.com/track/11SUxDP3M7FkUw2spPddYe) | [I.F.R.A](https://open.spotify.com/artist/42vsgzwTkjOqh2IrHCMLDM) | [Kadi Ao](https://open.spotify.com/album/2nEoR3ZFtQkzRZpwUfoXBS) | 3:13 |
 | 13 | [Peero](https://open.spotify.com/track/7GXZK8y0acwyAj6JhIT7Ks) | [Mehdi Maloof](https://open.spotify.com/artist/6TL4dC4u5Nb3ZpROsM7DzR), [Talal Qureshi](https://open.spotify.com/artist/0t7x34UItH68l04vHrRcOR) | [The Return of Kobra](https://open.spotify.com/album/7ioDbVLzbmeq93pl43za5q) | 3:55 |
 | 14 | [Dil Jalay \- Remastered](https://open.spotify.com/track/7dCqcfP2gpPalTzkh02GW4) | [Malang Party](https://open.spotify.com/artist/6XRkXHSdrFzdc7ouAMVqDn) | [Loadshedding \(Remastered\)](https://open.spotify.com/album/0vwoHNV3NVDtfwAWwDZO67) | 3:45 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00f0qPaetn4.md) - [plain]
 | 21 | [Kana Yaari](https://open.spotify.com/track/7MTUN4bpk7Im3Sxz9oCULf) | [Kaifi Khalil](https://open.spotify.com/artist/1n9EM0Y4A89vuRiA93gSS9), [Eva B](https://open.spotify.com/artist/6uKDXHJSM9VI5H6FhONorO), [Wahab Bugti](https://open.spotify.com/artist/2IBpBrzMIaeeXJnzfJIVLA) | [Kana Yaari](https://open.spotify.com/album/6DRq94aOT9Ml8WhJ4PzNGT) | 3:46 |
 | 22 | [Ye Dunya](https://open.spotify.com/track/3CLlelB1UWvrGYCyvdAA4B) | [Karakoram](https://open.spotify.com/artist/7iUydu6DUbUBsDDwheSlkr), [Faris Shafi](https://open.spotify.com/artist/1LAdnp9wIdKClX7Cool0GD), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [Ye Dunya](https://open.spotify.com/album/0y1QkPyIPPq7UcZ63QNCol) | 5:12 |
 | 23 | [Life Goes On](https://open.spotify.com/track/0GD8UKZxIfKGMLrmrmatZm) | [aleemrk](https://open.spotify.com/artist/384pA1WJO9B09gUcuIL2XP) | [Life Goes On](https://open.spotify.com/album/3TM5mdqSJRUdGu1nBr1KoC) | 3:37 |
-| 24 | [Dooba](https://open.spotify.com/track/1t3Na5aPNlWcKdYKRGFzfw) | [Udbhav](https://open.spotify.com/artist/5z64uWhlp31wS6DysFX99p) | [Dooba](https://open.spotify.com/album/5pRKmZsrc35J2LSpVNQUls) | 4:43 |
+| 24 | [Dooba](https://open.spotify.com/track/1t3Na5aPNlWcKdYKRGFzfw) | [Nanku](https://open.spotify.com/artist/1ZBspcSxfWh6GuxjGr5u0p) | [Dooba](https://open.spotify.com/album/5pRKmZsrc35J2LSpVNQUls) | 4:43 |
 | 25 | [Halkay \(Bonus\) \- Remix](https://open.spotify.com/track/074MDRro6aXJYwKSL1FMQf) | [Salor](https://open.spotify.com/artist/5p1vtdUEsj50ZTBe9BuEGF), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [Naye Maslay](https://open.spotify.com/album/6JVPEVfp267jDfA9ykqWGq) | 4:46 |
 | 26 | [sanwarey](https://open.spotify.com/track/0hJWGgn7XT5L6icb2n7BHR) | [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [Sanwarey](https://open.spotify.com/album/0IejIWdFG4VDz4ZSpMsZX5) | 2:12 |
 | 27 | [Saaya](https://open.spotify.com/track/2YJ4juvijGwB1lw8tjOyi7) | [Kashmir](https://open.spotify.com/artist/3BaXohQuxIv7oZGuHEBuLt) | [Saaya](https://open.spotify.com/album/0vlqxjHOhhtT4RCPUMweip) | 5:32 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX00f0qPaetn4.md) - [plain]
 | 34 | [Peace Of Mind](https://open.spotify.com/track/3oMU1p4h2mL2YG6TbRzXOi) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP), [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST) | [Notes from Therapy](https://open.spotify.com/album/0FMVEUTTvMBM0Hyo8oldqX) | 3:06 |
 | 35 | [Rang](https://open.spotify.com/track/6IDdsMYRvj3ljsP7jj9wlK) | [Abi Sampa](https://open.spotify.com/artist/38AgJlwpYZlFsqztzBfopz), [Rushil](https://open.spotify.com/artist/1gHxomNGjRJHDAl7INHnxE) | [Rang](https://open.spotify.com/album/4wwAoOOKJI0UAVzezwbW68) | 4:12 |
 
-Snapshot ID: `MCwwOGY2YTFiYmU1NmViYzYxNWU4NzJlMWUyZmM0ZDM3YTk1NzEyYmFh`
+Snapshot ID: `MCw3YjI3ZTM0ZTRkZDgyYTU3YzFlMWM4Nzg5NGI2M2VlZTNlY2MwZmMx`

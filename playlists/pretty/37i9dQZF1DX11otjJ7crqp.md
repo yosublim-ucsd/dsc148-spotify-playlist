@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Sam Smith
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,236 likes - 105 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,292 likes - 105 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 104 | [Young & In Love](https://open.spotify.com/track/1dj8VrsGGLhBGuQctmL58F) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Young & In Love](https://open.spotify.com/album/6l4uNHIP9IoOl8AwTdY2Nc) | 2:18 |
 | 105 | [ANGEL](https://open.spotify.com/track/2Sk1QT5uvAnMjx5YZdvG27) | [Chelsea Collins](https://open.spotify.com/artist/7BtP9ddB2rW3Q5TDfsI5YG) | [ANGEL](https://open.spotify.com/album/3FtEW8ejad1gQ81SgXfx4N) | 3:14 |
 
-Snapshot ID: `MCw1NjAxYmMzMDU1M2Q1ZTFlZWExNjc0NTQzYWFhNDZjNjI4NmIxY2Jm`
+Snapshot ID: `MCw1ZWIxNTA2YTFhYWVmY2ZhNThjMDVkZTRkYWQ2NGFmNTFlYzc2NmUy`

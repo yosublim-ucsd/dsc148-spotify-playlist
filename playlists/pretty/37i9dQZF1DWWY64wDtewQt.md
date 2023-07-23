@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 
 > the beat of your drift
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,980,113 likes - 100 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,990,556 likes - 100 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 31 | [Why Not](https://open.spotify.com/track/4oMyggIzClkOcCTvotFLkP) | [Ghostface Playa](https://open.spotify.com/artist/5xegBBY3vjR75woVR9kiy7) | [Why Not](https://open.spotify.com/album/0Qj2wwdBRq690kG8hShuaR) | 2:45 |
 | 32 | [Override](https://open.spotify.com/track/6O4oKV3btLiEtOgEuplIUn) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Override](https://open.spotify.com/album/3IivT4yfr3wvtbo1PTgzCP) | 1:54 |
 | 33 | [COWBELL GOTH](https://open.spotify.com/track/0zcvETeNHWNO050bqZAjOs) | [DRAGONMANE](https://open.spotify.com/artist/1pawMASwj4RTc1oB80un2X) | [COWBELL GOTH](https://open.spotify.com/album/03wA9W4auCxQsRWGCE8LWM) | 2:21 |
-| 34 | [BALADINHA SINISTRA](https://open.spotify.com/track/6wntHk37oMHAqt71RrZOeF) | [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj), [$pidxrs?808](https://open.spotify.com/artist/17O62eZOtm0vgSiCwDHHeO), [Crazy Mano](https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl) | [BALADINHA SINISTRA](https://open.spotify.com/album/4VtwEXsNAQ9n5dekSnzhsO) | 1:58 |
+| 34 | [BALADINHA SINISTRA](https://open.spotify.com/track/0mmcXLiY4njgLDU1kiGoQX) | [$werve](https://open.spotify.com/artist/60vF1fLR6yzLxCQUlnAYYj), [$pidxrs?808](https://open.spotify.com/artist/17O62eZOtm0vgSiCwDHHeO), [Crazy Mano](https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl) | [BALADINHA SINISTRA](https://open.spotify.com/album/75cDagHmrQzeeig8DJr698) | 1:58 |
 | 35 | [POOR](https://open.spotify.com/track/0LDUzTvKVEla4L7GusNck2) | [gqtis](https://open.spotify.com/artist/5b62Fx0yQzdpnX9xkUjMnB) | [POOR](https://open.spotify.com/album/2LGwRNb8cYUJ02huVGfhxY) | 2:40 |
 | 36 | [METAMORPHOSIS 3](https://open.spotify.com/track/3J5y9v6vK5ginTnMroJ1Nn) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN), [zxcursed](https://open.spotify.com/artist/53fwP60M1QNPDiXALVMeOs), [Sadfriendd](https://open.spotify.com/artist/4UT0p3ljEiD472lZp44KLH) | [METAMORPHOSIS 3](https://open.spotify.com/album/6mMcdfZJVwHQfVLZocxKfs) | 2:08 |
 | 37 | [OneShot](https://open.spotify.com/track/65YPiyiBBGQgqjiSG8jkvM) | [msht](https://open.spotify.com/artist/5XD3dFUaYtaiBRrs7UbakO) | [OneShot](https://open.spotify.com/album/5dfKkLx9NF3xgwKo3pfxrq) | 2:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWY64wDtewQt.md) - [plain]
 | 99 | [Scary Garry](https://open.spotify.com/track/658QJ4p8WcbT3O7iWLpO1D) | [Kaito Shoma](https://open.spotify.com/artist/3Tv1UzQAvn0v0hKTxisXnR), [DJ Paul](https://open.spotify.com/artist/2ledyuziz6YjLK5Dw483Oc), [Kingpin Skinny Pimp](https://open.spotify.com/artist/5kkVPwCLmdkqaSQpptZtXj) | [Scary Garry](https://open.spotify.com/album/04QDTmdKMoDHqqFaHEoDVP) | 1:39 |
 | 100 | [BLAST EM'](https://open.spotify.com/track/4hClBQVJ6nxafNtkDZFqJH) | [Aega](https://open.spotify.com/artist/2N0BopkxZUQkMLNDEuHaEJ) | [BLAST EM'](https://open.spotify.com/album/2hqasGIYmGCBQwmzL9Pwa8) | 2:07 |
 
-Snapshot ID: `MCw3MDI0NWIwYzQzMDgwNmZjMGU1NjBiMjA0OWEwZjdkYzczZjdkOTJj`
+Snapshot ID: `MCwyMTJiMzQyN2JkZDNhYWYzYzIyYzc0MmZjOTdiNWQxOGE3MTUxZjY1`

@@ -1108,7 +1108,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-23",
       "duration_ms": 166504,
       "name": "DODGE A BULLET",
       "url": "https://open.spotify.com/track/0VoNtFDVvqndbPHYnR7JYC"
@@ -1632,6 +1632,24 @@
       "duration_ms": 78531,
       "name": "I Can't Breathe",
       "url": "https://open.spotify.com/track/3HfU7GWHpPWt9nnwcnC1iX"
+    },
+    {
+      "album": {
+        "name": "I Spit On Your Grave",
+        "url": "https://open.spotify.com/album/7c9h4IjSx9c6B7uuZkT88R"
+      },
+      "artists": [
+        {
+          "name": "ZAND",
+          "url": "https://open.spotify.com/artist/0zCrrgklotTrkkJDNUAury"
+        }
+      ],
+      "date_added": "2022-11-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219686,
+      "name": "I Spit On Your Grave",
+      "url": "https://open.spotify.com/track/0Emgsja9zrXLSPTmOEY0C5"
     },
     {
       "album": {

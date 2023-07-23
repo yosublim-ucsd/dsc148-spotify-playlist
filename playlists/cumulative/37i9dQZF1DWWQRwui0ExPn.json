@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "Abra",
+        "url": "https://open.spotify.com/album/0I0o1BWXCreZ4DiZ72V54y"
+      },
+      "artists": [
+        {
+          "name": "Laflov",
+          "url": "https://open.spotify.com/artist/6EFjl8owc4s7CFfcBcS9AH"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206286,
+      "name": "+ 2",
+      "url": "https://open.spotify.com/track/1hKeQ8WnQMWGHzmTBj5vZ4"
+    },
+    {
+      "album": {
         "name": ".What if it was all just a dream?",
         "url": "https://open.spotify.com/album/12jTpZ1yomW5LmQ1bxEv86"
       },
@@ -6334,7 +6352,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-23",
       "duration_ms": 120500,
       "name": "Astro",
       "url": "https://open.spotify.com/track/6xFRWlLR7xMpNheFUdRea1"
@@ -34978,7 +34996,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-23",
       "duration_ms": 144269,
       "name": "Florentina",
       "url": "https://open.spotify.com/track/4UNmh5VGu4Hqfn8ehBvGvY"
@@ -35228,7 +35246,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 123385,
       "name": "Flowerpath",
       "url": "https://open.spotify.com/track/4TvyILq5u0fNlcdMCZHRiV"
@@ -46480,7 +46498,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-18",
+      "date_removed": null,
       "duration_ms": 146866,
       "name": "ILY Eeve",
       "url": "https://open.spotify.com/track/3tSkSs0h0zeC6mtvmXz0Uu"
@@ -49896,7 +49914,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-01",
+      "date_removed": null,
       "duration_ms": 147256,
       "name": "Jinbe",
       "url": "https://open.spotify.com/track/4REpI6N3D4rQ1yEXAY1B0s"
@@ -64522,7 +64540,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-23",
       "duration_ms": 117162,
       "name": "Morning Rays",
       "url": "https://open.spotify.com/track/7D8dbSD6PTu9uwNfzuwoAR"
@@ -68718,7 +68736,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-23",
       "duration_ms": 124125,
       "name": "No One's Ever Asked For Their Money Back",
       "url": "https://open.spotify.com/track/20Ykmduv1yUwCYTxo38jnM"

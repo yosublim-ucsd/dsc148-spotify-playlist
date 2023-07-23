@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 
 > Damn son, where'd ya find this? Cover: Nas
 
-[Spotify](https://open.spotify.com/user/spotify) - 271,169 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 271,358 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XgesiUXnsq.md) - [plain]
 | 99 | [Just a Second](https://open.spotify.com/track/63khjxx6Jcz8YGhWFWrL2P) | [Choclair](https://open.spotify.com/artist/6Ku2nSbcjRann6nTPimcFS) | [Just a Second](https://open.spotify.com/album/5O7awejDSOSd92idYH870A) | 4:26 |
 | 100 | [Can’t Punk Me \(feat\. EARTHGANG\)](https://open.spotify.com/track/2H2l7zo9EqtqxFr8R8N8Zg) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:23 |
 
-Snapshot ID: `MCw0MzQxZTYyYTBjMThkMmVjN2Y4Yzg0MDUwZTA5NDQyZmQ1NjZhMTY0`
+Snapshot ID: `MCwyNDhhZjk2OWVjOTgwOTQ4MzYzZGFkZTdiNTEyNWY2NWU5YmRlYjU4`

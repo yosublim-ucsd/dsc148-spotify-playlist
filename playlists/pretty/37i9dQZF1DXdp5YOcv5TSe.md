@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 
 > The official G2 Esports playlist\. Currently curated by: G2 Gozen
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,467 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,635 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdp5YOcv5TSe.md) - [plain]
 | 49 | [Heartless Madness](https://open.spotify.com/track/4QaxyJsbo5AR3bnEB7ko8h) | [Dynazty](https://open.spotify.com/artist/5deRBvKxJssHVa9n6B7tWV) | [The Dark Delight](https://open.spotify.com/album/44k8riSJcKxQH5hIX2s1G7) | 3:59 |
 | 50 | [Trip to Ireland](https://open.spotify.com/track/6u8pHCsBSo1rahkWXUxPzW) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3) | [Trip Around The World](https://open.spotify.com/album/1BvIT5ansBTj4lVoNDjMlT) | 4:03 |
 
-Snapshot ID: `MCwwYmEwNTRjMjIwNTMxOTI2YmY4ZTE2NmZjM2NkMjE0ZjcxNGEzMWY4`
+Snapshot ID: `MCxiMDc4ZGYwNDM0NDkwNjJkOTkyZjcxNWZlZWY3YWFmNzQ4MDliYzk5`

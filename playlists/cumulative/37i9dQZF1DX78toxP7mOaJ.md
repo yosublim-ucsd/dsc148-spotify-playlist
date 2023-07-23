@@ -4,7 +4,7 @@
 
 > Fresh rock from independent artists every Wednesday\. Cover: Picture Parlour \| Artwork: Jim Klok
 
-1,038 songs - 2 day 8 hr 38 min
+1,039 songs - 2 day 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -419,7 +419,8 @@
 | [Heaven Can Wait](https://open.spotify.com/track/6fc4wYjA7u2HUogOOrlid9) | [LOSER](https://open.spotify.com/artist/28erIPSPyu1d4BtolxQ624) | [Stadium Dreams On A Bedroom Budget](https://open.spotify.com/album/5OmL7X45YNYmlN4JECxdi3) | 3:00 | 2023-01-11 | 2023-02-02 |
 | [Heaven Can Wait](https://open.spotify.com/track/73NpteJe447ilGqgvXW2EH) | [LOSER](https://open.spotify.com/artist/28erIPSPyu1d4BtolxQ624) | [Stadium Dreams On A Bedroom Budget](https://open.spotify.com/album/1yu0ZfTJVvsrgjMF9tDuGn) | 3:00 | 2023-03-01 | 2023-04-09 |
 | [Heaven Down Here](https://open.spotify.com/track/0Fvu11hpxdjpr0kUGK0FZ7) | [Kate Clover](https://open.spotify.com/artist/2ruUPKyey3uXmASjTMOsu5) | [Bleed Your Heart Out](https://open.spotify.com/album/55ow5n5coIs45tttCxuSVu) | 3:35 | 2022-04-27 | 2022-05-05 |
-| [Heaven Is Your Company](https://open.spotify.com/track/5FuSWZB44fvaG86WNoZIPn) | [Death Bells](https://open.spotify.com/artist/14aKkOrkqm6amS81rUMZPg) | [Heaven Is Your Company](https://open.spotify.com/album/2DGj34CUI2CdjstGXkAtRN) | 3:09 | 2023-06-21 |  |
+| [Heaven Is Your Company](https://open.spotify.com/track/5FuSWZB44fvaG86WNoZIPn) | [Death Bells](https://open.spotify.com/artist/14aKkOrkqm6amS81rUMZPg) | [Heaven Is Your Company](https://open.spotify.com/album/2DGj34CUI2CdjstGXkAtRN) | 3:09 | 2023-06-21 | 2023-07-23 |
+| [Heaven Is Your Company](https://open.spotify.com/track/7kZs1XgzlyQhMNHLzPA9cj) | [Death Bells](https://open.spotify.com/artist/14aKkOrkqm6amS81rUMZPg) | [Take My Spirit Now](https://open.spotify.com/album/5icbSNSho1t6Yc82qWC0vR) | 3:09 | 2023-07-19 |  |
 | [Heaven Or Hell](https://open.spotify.com/track/3SeVLSlHtjKkmGEr8DQHD0) | [HARRY WAS HERE](https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP) | [Heaven Or Hell](https://open.spotify.com/album/01l3MwF9ObfZSnKPCGo8bs) | 2:29 | 2022-10-05 | 2022-11-10 |
 | [Heaven Was Full \(I'm Headed Straight to Hell\)](https://open.spotify.com/track/4Kwyg3JFL5yThzzkc4yqyc) | [TX2](https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H) | [Heaven Was Full \(I'm Headed Straight to Hell\)](https://open.spotify.com/album/5h1ZsL9l2XsUHQSkJWHd1J) | 2:36 | 2023-01-18 | 2023-03-02 |
 | [Heavy](https://open.spotify.com/track/357QUMHpXOdfavXNrN8A0j) | [Double Grave](https://open.spotify.com/artist/432pBIkMh8DwgQBQ5cDILK) | [Heavy](https://open.spotify.com/album/6QfQbHKGJsPshyyOcEAzHY) | 4:00 | 2023-02-15 | 2023-04-06 |

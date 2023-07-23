@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: CC:DISCO!
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,379 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,382 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 25 | [Time To Run](https://open.spotify.com/track/7kcGTBLBblNXP2tSs49s5k) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Time To Run](https://open.spotify.com/album/4hDuBgVAlRGJT5Bv1wWeoq) | 4:13 |
 | 26 | [Mother \- Pretty Girl Remix](https://open.spotify.com/track/2rGOL5VgjeJUjQEoRVSQ8o) | [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t), [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Mother \(Remixes\)](https://open.spotify.com/album/4dkxdBbALMtQCORM3vne8u) | 5:50 |
 | 27 | [Make Me](https://open.spotify.com/track/6RaaQvkGUe8Je8yAkdwQNm) | [Borai & Denham Audio](https://open.spotify.com/artist/6QsxKDNLJbtYqxb2wRmsu1), [Borai](https://open.spotify.com/artist/5H8NL83Hl16bYRy4LCqriO), [Denham Audio](https://open.spotify.com/artist/2gyrzIEBDddx6GsW60DnW1) | [Make Me](https://open.spotify.com/album/3T7bNNnQ5b8BgsaF43jGku) | 2:31 |
-| 28 | [We Run The Area \- Flava D Jungle Remix](https://open.spotify.com/track/1B9sNBIMcJojeVM2gZcRxI) | [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I), [Naomi Cowan](https://open.spotify.com/artist/129TLJBvb1WfwaaBsSIH1m), [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ) | [We Run The Area \(TQD Remixes\)](https://open.spotify.com/album/7ErnTMkOYY6REn15wz6uaT) | 3:04 |
+| 28 | [We Run The Area \- Flava D Jungle Remix](https://open.spotify.com/track/1B9sNBIMcJojeVM2gZcRxI) | [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Toddla T](https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I), [Naomi Cowan](https://open.spotify.com/artist/129TLJBvb1WfwaaBsSIH1m), [TQD](https://open.spotify.com/artist/4VUDd8QHsZm8qSVUsAhCFG), [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ) | [We Run The Area \(TQD Remixes\)](https://open.spotify.com/album/7ErnTMkOYY6REn15wz6uaT) | 3:04 |
 | 29 | [Clam Zone](https://open.spotify.com/track/52K66oJ6ZHC73J3lJ71QTY) | [DJ Life](https://open.spotify.com/artist/04BIVyq0BJcYluY7n3Mz0t) | [Guardian](https://open.spotify.com/album/7hWlh6VCsaWkvzukc86AHn) | 5:31 |
 | 30 | [Skinner](https://open.spotify.com/track/2HTmGmUw65VOkObvJAPZi6) | [Piezo](https://open.spotify.com/artist/4vr49Ycb253qEyUuXnlYaM) | [Cyclic Wavez](https://open.spotify.com/album/5NRSbzbF7ykk8vj9EVNJ6E) | 5:02 |
 | 31 | [Big Hammer](https://open.spotify.com/track/3tdxmSKTmtMLlohrIxZ2EG) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Big Hammer](https://open.spotify.com/album/7yT5OWUrzLWQQ5LTgGpZ36) | 4:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 74 | [Dreamscape](https://open.spotify.com/track/3Vj2GECLhHkxtEl86kzjlK) | [Loure](https://open.spotify.com/artist/0oj4QK4zH3lghS2Oa418zZ) | [Translucid Transit](https://open.spotify.com/album/7w2Tq5FbO7wcGmKz4pZfxb) | 5:50 |
 | 75 | [Feels Just Like it](https://open.spotify.com/track/1hEnVkgNq0t9WFO5Smzq5Y) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Caroline Byrne](https://open.spotify.com/artist/2tVd9Bpt5Li9UsmKwhJ1nG) | [Light Places](https://open.spotify.com/album/5k3OoQgNSIK8dt0WhRRKku) | 4:01 |
 
-Snapshot ID: `MCwzMzliMGUxNWU1YmM4M2E5YmRjMDBkYjg4MGE5ZGYyN2U0ZmJjZTE3`
+Snapshot ID: `MCxhYzE1ZmUyMjJlZjkwZDllY2ZiZmQwMTY0M2FiODQ3NWRkYjY0MGQ5`

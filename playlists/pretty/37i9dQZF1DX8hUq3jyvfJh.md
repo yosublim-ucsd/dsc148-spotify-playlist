@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Mahmundi e mais mulheres para serem ouvidas no volume máximo!
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,346 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,352 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 6 | [Lá De Onde Eu Vim](https://open.spotify.com/track/46TRHeVkHNhsxDHzamiSh0) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Lá De Onde Eu Vim](https://open.spotify.com/album/0NQiTiTp3Qa4OJpL2gYZ8B) | 3:07 |
 | 7 | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/track/5nBrdTO6k3DJZJdB6IRp1c) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq) | 4:31 |
 | 8 | [Tudo Seu](https://open.spotify.com/track/3DkC02GRxCISS2mo0MwQYd) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Vício Inerente](https://open.spotify.com/album/13TC44Gy2ClqvvwxGOQ6pr) | 3:32 |
-| 9 | [No Tempo da Intolerância](https://open.spotify.com/track/2GY2ilbruCbGkeyRKQL7yB) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [No Tempo da Intolerância](https://open.spotify.com/album/0zi3FiBTSw5ZL98oW4wEZV) | 2:50 |
-| 10 | [Gente Aberta \- Acorda Amor](https://open.spotify.com/track/6P5vzOMnn0h1vszZquA1If) | [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH), [Xênia França](https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D), [Letrux](https://open.spotify.com/artist/4U1VRNe8VwcTAA6ShGyuke), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Acorda Amor](https://open.spotify.com/album/5eh6PHaZrwQJ0xG9d7OS8n) | 5:55 |
+| 9 | [Gente Aberta \- Acorda Amor](https://open.spotify.com/track/6P5vzOMnn0h1vszZquA1If) | [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH), [Xênia França](https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D), [Letrux](https://open.spotify.com/artist/4U1VRNe8VwcTAA6ShGyuke), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Acorda Amor](https://open.spotify.com/album/5eh6PHaZrwQJ0xG9d7OS8n) | 5:55 |
+| 10 | [No Tempo da Intolerância](https://open.spotify.com/track/2GY2ilbruCbGkeyRKQL7yB) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [No Tempo da Intolerância](https://open.spotify.com/album/0zi3FiBTSw5ZL98oW4wEZV) | 2:50 |
 | 11 | [Amor Perfeito](https://open.spotify.com/track/4BOtcJGScXbhPH0lrsokLF) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Trilhas](https://open.spotify.com/album/6pFk6M5FURqtdmHDFNJjt5) | 3:48 |
 | 12 | [Ar da Sua Graça](https://open.spotify.com/track/5FuoSDgqXrYYsS8epzUnAb) | [Clarice Falcão](https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d) | [Ar da Sua Graça](https://open.spotify.com/album/22dDDhDIzVGU1AcGtyINig) | 3:26 |
 | 13 | [No Escuro](https://open.spotify.com/track/6zMXPo9fLkvGjyQ3PihLTQ) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Degradê](https://open.spotify.com/album/2TUTbVCtk6nWQM55vLKZvs) | 3:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Uva Niágara](https://open.spotify.com/track/7MKKA2t5XffoOxksp0m1vH) | [Anelis Assumpção](https://open.spotify.com/artist/18XQILNxVCcvcU1VhwNJJv), [Larissa Luz](https://open.spotify.com/artist/14pUxO8NDxospQBy9W1aIq) | [Uva Niágara](https://open.spotify.com/album/0NZcfKoQQpQIBxqgAkkIyd) | 3:05 |
 | 50 | [Miragem](https://open.spotify.com/track/78u4YOG1RMUXZcj6UH1LMv) | [Xênia França](https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D) | [Xenia](https://open.spotify.com/album/5x930Gsxzg0cWr6TThqmXS) | 3:51 |
 
-Snapshot ID: `MCxiMDVlMWQ4ODg4OTU4Mzc5MzBmODJkMzc1MTA4ZWM3ZTg5MmU3YzVh`
+Snapshot ID: `MCwxYjE1NGEyMTcwOTQyYWM0ZDFmNzBmZTI0MGFiNWVkMmQ5NDZiYWZl`

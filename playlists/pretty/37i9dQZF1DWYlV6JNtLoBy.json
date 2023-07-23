@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 1630,
+  "num_followers": 1641,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYTgzNTQyMjUzOGUxYzg5YjVjM2IzZDViYzBlMmViMzkxMWQzZTE5",
+  "snapshot_id": "MCxmNDQyMzIzOGE4MzcxZTI5YmZlZmMzNWVhM2QwZmU1Mjk5Y2Y1MTBh",
   "tracks": [
     {
       "added_at": "2023-06-16 00:01:00",
@@ -429,22 +429,6 @@
       "url": "https://open.spotify.com/track/3CnETTK4rc5A5XnTWpvjWZ"
     },
     {
-      "added_at": "2023-06-16 00:01:00",
-      "album": {
-        "name": "Nimekutana Na Yesu",
-        "url": "https://open.spotify.com/album/7uG3igTPfTvad0ePaGCWM2"
-      },
-      "artists": [
-        {
-          "name": "Angela Chibalonza",
-          "url": "https://open.spotify.com/artist/6o1Crwek2BEtkfAsI204iR"
-        }
-      ],
-      "duration_ms": 295920,
-      "name": "Ebenezer",
-      "url": "https://open.spotify.com/track/0FMRioTf40f4KVHSeVvqLh"
-    },
-    {
       "added_at": "2023-07-14 00:01:00",
       "album": {
         "name": "The Sound of Redemption",
@@ -463,6 +447,22 @@
       "duration_ms": 403568,
       "name": "We Worship",
       "url": "https://open.spotify.com/track/6df95vCVl83PMM0SHJp9CP"
+    },
+    {
+      "added_at": "2023-06-16 00:01:00",
+      "album": {
+        "name": "Nimekutana Na Yesu",
+        "url": "https://open.spotify.com/album/7uG3igTPfTvad0ePaGCWM2"
+      },
+      "artists": [
+        {
+          "name": "Angela Chibalonza",
+          "url": "https://open.spotify.com/artist/6o1Crwek2BEtkfAsI204iR"
+        }
+      ],
+      "duration_ms": 295920,
+      "name": "Ebenezer",
+      "url": "https://open.spotify.com/track/0FMRioTf40f4KVHSeVvqLh"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -599,18 +599,18 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Kirathimo",
-        "url": "https://open.spotify.com/album/4ol5duZtTeX4gpDZZm2SWa"
+        "name": "Ipo Siku",
+        "url": "https://open.spotify.com/album/4XeVEyWo9UFsSGXfzuIu8C"
       },
       "artists": [
         {
-          "name": "Grace Mwai",
-          "url": "https://open.spotify.com/artist/3DY2UOhqxJUmaYW3yUgAIQ"
+          "name": "Goodluck Gozbert",
+          "url": "https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA"
         }
       ],
-      "duration_ms": 223160,
-      "name": "Kirathimo",
-      "url": "https://open.spotify.com/track/5lSJluCdq3PPXnawgjLVr6"
+      "duration_ms": 347593,
+      "name": "Ipo Siku",
+      "url": "https://open.spotify.com/track/3fFvTmzx1VcXY27OZ81FgH"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -631,18 +631,18 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Ipo Siku",
-        "url": "https://open.spotify.com/album/4XeVEyWo9UFsSGXfzuIu8C"
+        "name": "Kirathimo",
+        "url": "https://open.spotify.com/album/4ol5duZtTeX4gpDZZm2SWa"
       },
       "artists": [
         {
-          "name": "Goodluck Gozbert",
-          "url": "https://open.spotify.com/artist/4B9O301rvLS2j8hIwzGzHA"
+          "name": "Grace Mwai",
+          "url": "https://open.spotify.com/artist/3DY2UOhqxJUmaYW3yUgAIQ"
         }
       ],
-      "duration_ms": 347593,
-      "name": "Ipo Siku",
-      "url": "https://open.spotify.com/track/3fFvTmzx1VcXY27OZ81FgH"
+      "duration_ms": 223160,
+      "name": "Kirathimo",
+      "url": "https://open.spotify.com/track/5lSJluCdq3PPXnawgjLVr6"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -693,26 +693,6 @@
       "url": "https://open.spotify.com/track/6RShwwY6EHo3sOJtkUMKvh"
     },
     {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
-        "name": "Tumeshinda",
-        "url": "https://open.spotify.com/album/1RdqSSPAjSvXgGo7IhXNo9"
-      },
-      "artists": [
-        {
-          "name": "Eunice Njeri",
-          "url": "https://open.spotify.com/artist/1n8hmSTaHZs3Pz2VuVfda4"
-        },
-        {
-          "name": "Godwill Babette",
-          "url": "https://open.spotify.com/artist/5lv5S2ScpxW28v6koO2f4X"
-        }
-      ],
-      "duration_ms": 365417,
-      "name": "Tumeshinda",
-      "url": "https://open.spotify.com/track/4P7IRSGCVIynyzUWRoXHBK"
-    },
-    {
       "added_at": "2023-04-21 00:01:00",
       "album": {
         "name": "Praise Him",
@@ -731,6 +711,26 @@
       "duration_ms": 324808,
       "name": "Praise Him",
       "url": "https://open.spotify.com/track/0Q4g7Rwa40qx134hPutVFx"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
+        "name": "Tumeshinda",
+        "url": "https://open.spotify.com/album/1RdqSSPAjSvXgGo7IhXNo9"
+      },
+      "artists": [
+        {
+          "name": "Eunice Njeri",
+          "url": "https://open.spotify.com/artist/1n8hmSTaHZs3Pz2VuVfda4"
+        },
+        {
+          "name": "Godwill Babette",
+          "url": "https://open.spotify.com/artist/5lv5S2ScpxW28v6koO2f4X"
+        }
+      ],
+      "duration_ms": 365417,
+      "name": "Tumeshinda",
+      "url": "https://open.spotify.com/track/4P7IRSGCVIynyzUWRoXHBK"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
+        "name": "Mfalme Wa Amani",
+        "url": "https://open.spotify.com/album/36ZilAXt9d4ZqUphTaJaTG"
+      },
+      "artists": [
+        {
+          "name": "Solomon Mkubwa",
+          "url": "https://open.spotify.com/artist/3Up2Sprj20ft57tCYus7UZ"
+        }
+      ],
+      "duration_ms": 472477,
+      "name": "Mfalme Wa Amani",
+      "url": "https://open.spotify.com/track/131ZGEBLS3GBmcVcs57S3W"
+    },
+    {
+      "added_at": "2023-04-06 20:59:00",
+      "album": {
         "name": "Mwema",
         "url": "https://open.spotify.com/album/6nXlu9652BlZrJySXjdnsX"
       },
@@ -819,34 +835,18 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Mfalme Wa Amani",
-        "url": "https://open.spotify.com/album/36ZilAXt9d4ZqUphTaJaTG"
+        "name": "Yahwe Uhimidiwe",
+        "url": "https://open.spotify.com/album/2IKNfYCQSbUEwjSVMDQzJn"
       },
       "artists": [
         {
-          "name": "Solomon Mkubwa",
-          "url": "https://open.spotify.com/artist/3Up2Sprj20ft57tCYus7UZ"
+          "name": "Angela Chibalonza Muliri",
+          "url": "https://open.spotify.com/artist/4AX5pJN0bFBqQQK2u6rnIS"
         }
       ],
-      "duration_ms": 472477,
-      "name": "Mfalme Wa Amani",
-      "url": "https://open.spotify.com/track/131ZGEBLS3GBmcVcs57S3W"
-    },
-    {
-      "added_at": "2023-04-06 20:59:00",
-      "album": {
-        "name": "NADEKA",
-        "url": "https://open.spotify.com/album/3yUcY9wjNDbc2Rw1kcvw5A"
-      },
-      "artists": [
-        {
-          "name": "Guardian Angel",
-          "url": "https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ"
-        }
-      ],
-      "duration_ms": 204042,
-      "name": "NADEKA",
-      "url": "https://open.spotify.com/track/4cveFG3uFYK6Pe7UMct8OE"
+      "duration_ms": 270968,
+      "name": "Uliniumba Nikuabudu",
+      "url": "https://open.spotify.com/track/3zTWVZR28Tl9wcVhSzqf9P"
     },
     {
       "added_at": "2023-04-06 20:59:00",
@@ -867,38 +867,34 @@
     {
       "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "Yahwe Uhimidiwe",
-        "url": "https://open.spotify.com/album/2IKNfYCQSbUEwjSVMDQzJn"
+        "name": "NADEKA",
+        "url": "https://open.spotify.com/album/3yUcY9wjNDbc2Rw1kcvw5A"
       },
       "artists": [
         {
-          "name": "Angela Chibalonza Muliri",
-          "url": "https://open.spotify.com/artist/4AX5pJN0bFBqQQK2u6rnIS"
+          "name": "Guardian Angel",
+          "url": "https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ"
         }
       ],
-      "duration_ms": 270968,
-      "name": "Uliniumba Nikuabudu",
-      "url": "https://open.spotify.com/track/3zTWVZR28Tl9wcVhSzqf9P"
+      "duration_ms": 204042,
+      "name": "NADEKA",
+      "url": "https://open.spotify.com/track/4cveFG3uFYK6Pe7UMct8OE"
     },
     {
-      "added_at": "2023-07-14 00:01:00",
+      "added_at": "2023-04-06 20:59:00",
       "album": {
-        "name": "RANDOM CHAPTER",
-        "url": "https://open.spotify.com/album/63klHeWXnQ972Rz4jCtEm9"
+        "name": "SATISFIED",
+        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
       },
       "artists": [
         {
-          "name": "Lesynem Junior",
-          "url": "https://open.spotify.com/artist/3wXe3E8A7Lwa1W08cYDsxU"
-        },
-        {
-          "name": "XLVI K",
-          "url": "https://open.spotify.com/artist/25gWj8pjTtslFIsLHx31IT"
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 153043,
-      "name": "RANDOM CHAPTER",
-      "url": "https://open.spotify.com/track/62YgrP3kKNumc3BVX3rjwD"
+      "duration_ms": 291657,
+      "name": "Tasted Of Your Power",
+      "url": "https://open.spotify.com/track/6ygiRazaywRpL5VLClqQwe"
     }
   ],
   "unique_name": "Sunday Service",

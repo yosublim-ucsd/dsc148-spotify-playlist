@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,951 likes - 99 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,957 likes - 99 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 41 | [Super 8](https://open.spotify.com/track/0PKtiwZX73i0TedkfDH7qs) | [Zikai](https://open.spotify.com/artist/1bnxdcJP0Kn0EP2sBfd8Sn) | [Super 8](https://open.spotify.com/album/30wFpy1u4wjNpAxOcqD6Mq) | 2:58 |
 | 42 | [Vibrant](https://open.spotify.com/track/3Z8V7mdG2LQNNWnT8GQM6C) | [Valee](https://open.spotify.com/artist/4hRL2QmahOYxXNmNKtG1AI), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ) | [Vibrant](https://open.spotify.com/album/2CKPE9pWUWW4OeMFqDRUq1) | 2:03 |
 | 43 | [Stay \(Alive\)](https://open.spotify.com/track/1jsYWDXBIo1AobhSzJu9rG) | [boerd](https://open.spotify.com/artist/5E5cEevLYdQHU04gIkA3ff), [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Stay \(Alive\)](https://open.spotify.com/album/4ABgrSwqFC5lowwcUEj8pv) | 5:11 |
-| 44 | [Take A Chance](https://open.spotify.com/track/6KJBwR1yrqviwL31XRpu3n) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Greatest Tits](https://open.spotify.com/album/3yZSOcz06tt6XFh5sWGnkI) | 4:24 |
+| 44 | [Take A Chance On Me](https://open.spotify.com/track/6KJBwR1yrqviwL31XRpu3n) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75) | [Greatest Tits](https://open.spotify.com/album/3yZSOcz06tt6XFh5sWGnkI) | 4:24 |
 | 45 | [Spiral Dive](https://open.spotify.com/track/5q5ZZJ0hELI7caZwS7sj4n) | [Quartermaster](https://open.spotify.com/artist/1MUakDk1Xh3bfow45GJR1o), [Stella Explorer](https://open.spotify.com/artist/4dPeWqBSnhunEI2okArvwD) | [Crystal Heaven](https://open.spotify.com/album/7IlxNAL3tudrv4pbOY5OV6) | 2:48 |
 | 46 | [Gotta Go](https://open.spotify.com/track/2GVPTJkPnWhv9eLujeOiBv) | [Varas](https://open.spotify.com/artist/7cqV19335f0Yhf76d76D8I) | [Gotta Go](https://open.spotify.com/album/5lYfkbaTOoxTvyMi7qozJ7) | 3:17 |
 | 47 | [You're The One](https://open.spotify.com/track/7rjtSHViWOy8fiA6s8Oxkp) | [Say Lou Lou](https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj) | [You're The One](https://open.spotify.com/album/4yziUadPCx0ChZWQyXXAV0) | 3:55 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 98 | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/track/3CblJq8QQQ0bb7vwJu8c3v) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [4EVA \(feat\. Pharrell Williams\)](https://open.spotify.com/album/3unS7dpXcZ0MmNBDkp5Hqx) | 3:10 |
 | 99 | [CONSTELLATIONS \(feat\. NAO\)](https://open.spotify.com/track/6B6FxQxSSVwvSgcNUe5QZQ) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [THE ONE AFTER ME](https://open.spotify.com/album/1CpAZ5SVa6llHILfePxjRq) | 2:52 |
 
-Snapshot ID: `MCw0OWYzZTk4NjFjZDFlOGQ0N2RiZjkxZTg2N2U0MTQ5ZWM5M2JlYTM5`
+Snapshot ID: `MCxlMGNkZmQ1MGJhN2MzYzQyODY5ZjgzOGJhMGNlYWIxMDY2MDdlMzE2`

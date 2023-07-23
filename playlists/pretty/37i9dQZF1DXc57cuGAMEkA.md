@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。Travis Scott, Sam Smith, The Kid LAROI, ZAYN, \[Alexandros\] & WurtS and more! cover: Travis Scott
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,437 likes - 87 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,464 likes - 87 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 86 | [Rudolph](https://open.spotify.com/track/7kTUoMrKA0duKYHWliWW7k) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Rudolph](https://open.spotify.com/album/0R2NgA8mg7wRzqpO0dLia1) | 3:31 |
 | 87 | [Sando](https://open.spotify.com/track/7gTZW1WEZcp7spllnVb2s6) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05), [KOM\_I](https://open.spotify.com/artist/6sOK1O5rpqEad0ZCzk5FnM), [Fumiya Otonashi](https://open.spotify.com/artist/6SA1xl7yWAdoyqHn5qQs3w) | [Sando](https://open.spotify.com/album/5Rcuks9u9QBW641KXpTGd3) | 3:17 |
 
-Snapshot ID: `MCwzMWU1Y2I0ZTk4MWZiMzU3ZjY5YWUzMjg4OTJlYWJmMzdjNWY1ZWZl`
+Snapshot ID: `MCxkYzZlZWFlMTk4ZDZlYzFlYzA2NDE2Yjc1YTcyNGQ2ZTUzOGZhMDBm`

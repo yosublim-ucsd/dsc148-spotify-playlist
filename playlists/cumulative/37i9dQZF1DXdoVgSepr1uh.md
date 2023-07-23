@@ -4,7 +4,7 @@
 
 > Argentina en la casa! Foto: Six Sex & El Osito Wito.
 
-191 songs - 9 hr 15 min
+192 songs - 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [DONDE SEA](https://open.spotify.com/track/7gKMsitQAQRu0xmr4weDlb) | [BANDIDO](https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE) | [DONDE SEA](https://open.spotify.com/album/6fX3aAR6VgAmRKPCTlheG6) | 2:38 | 2022-05-24 | 2022-12-07 |
 | [DUBAI](https://open.spotify.com/track/3R8XAtUiwnjePpeJ6SghO6) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt) | [DUBAI](https://open.spotify.com/album/6LYXmkU5doOyO7XQ3yFLTd) | 2:26 | 2023-05-26 |  |
 | [Dándote](https://open.spotify.com/track/4qjxEKW5hIOhsZ3O584W63) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX), [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Dándote](https://open.spotify.com/album/0TMWoq8coUwBzUbSGeijwG) | 3:38 | 2022-05-24 |  |
-| [Dónde Estás](https://open.spotify.com/track/16DNJ8y6k97DxuMyV49W7V) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Dónde Estás](https://open.spotify.com/album/0ZyvU9dSoBua8NOYnAP0x3) | 2:33 | 2022-05-24 |  |
+| [Dónde Estás](https://open.spotify.com/track/16DNJ8y6k97DxuMyV49W7V) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Dónde Estás](https://open.spotify.com/album/0ZyvU9dSoBua8NOYnAP0x3) | 2:33 | 2022-05-24 | 2023-07-23 |
+| [Dónde Estás](https://open.spotify.com/track/71nkNlFUY4d9mBvTAyV9ig) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Dónde Estás](https://open.spotify.com/album/3uwIRMTeueP92bS46L6d7q) | 2:33 | 2023-07-14 |  |
 | [El Freno](https://open.spotify.com/track/4xYY1nKA9XVJgZYJ1ESysM) | [FABRO](https://open.spotify.com/artist/64CJy4LTJjFj7lcDxTECn2) | [El Freno](https://open.spotify.com/album/6mvuFU08OZXKTNT7C17ALE) | 2:25 | 2022-05-24 | 2023-01-10 |
 | [El Maquinon](https://open.spotify.com/track/1NOImFygNaIBUSoL3C6Jnt) | [El Osito Wito](https://open.spotify.com/artist/3BaNymWUlGvGOXKRJmySoG) | [El Maquinon](https://open.spotify.com/album/0bMZM5lXzUqJonFQyMU49P) | 2:16 | 2022-05-27 | 2022-12-10 |
 | [Ella Dice](https://open.spotify.com/track/5UKBbglwH7gZEkzfuWGn5J) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [Ella Dice](https://open.spotify.com/album/2lfpTAKfLmWjcqUl34D1GS) | 2:41 | 2022-05-24 | 2022-06-04 |

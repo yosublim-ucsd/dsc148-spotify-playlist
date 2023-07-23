@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: The Alchemist
 
-489 songs - 1 day 2 hr 8 min
+490 songs - 1 day 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -393,6 +393,7 @@
 | [Skegee](https://open.spotify.com/track/4MwhUpDkOOb4UU7BtKznlu) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Skegee](https://open.spotify.com/album/18ZCRn9GAuLUVMiuNXGyIL) | 3:06 | 2021-09-03 | 2023-03-04 |
 | [Slip](https://open.spotify.com/track/6TH7vmxNibiSynNVMZU5bW) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [The Distance](https://open.spotify.com/album/2ZVkCDIJ8IFDqTO5DNWR2L) | 2:50 | 2022-02-18 | 2022-07-26 |
 | [Slipping Into Darkness](https://open.spotify.com/track/7oTTYjFN9TksJwsj55r2hb) | [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Slipping Into Darkness](https://open.spotify.com/album/05HfppEroQ2s6h4CkBbr6N) | 4:16 | 2023-03-17 | 2023-06-11 |
+| [Slow it Down](https://open.spotify.com/track/2oOMMKZV7SmCLdjALkOgkA) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Magic 2](https://open.spotify.com/album/2TcGsG6Ht4iMbEQ0u62Rbz) | 3:30 | 2023-07-21 |  |
 | [Snake Eyes \(feat\. Ghostface Killah, Crimeapple & Jim Jones\)](https://open.spotify.com/track/1cd4aIc8yZ5CsauM01BTUJ) | [Peter Rosenberg](https://open.spotify.com/artist/36OaFcMjn2RWlJlcez2fhA), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [CRIMEAPPLE](https://open.spotify.com/artist/0giUOGLTAaVVbdr7aSwM0N), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [Real Late](https://open.spotify.com/album/6hgwv6TtbsWtwEIkybFJDs) | 3:02 | 2022-02-04 | 2022-02-19 |
 | [So.Incredible.pkg \[Robert Glasper Version Feat\. Smino\]](https://open.spotify.com/track/4eOtmXtgxmzDsZcdc0lwiz) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn) | [So.Incredible.pkg \[Robert Glasper Version Feat\. Smino\]](https://open.spotify.com/album/5FT1DfAMQ8ewLsCP6c8PtF) | 3:15 | 2021-09-03 | 2022-07-26 |
 | [Sobering Thoughts From The Mondrian](https://open.spotify.com/track/3XpLvrrfkNpAYXmFxBfUpi) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o) | [I Thought It'd Be Different](https://open.spotify.com/album/1YA6dnUyaevjSC6hGQ9wmX) | 3:40 | 2023-05-26 | 2023-06-03 |
@@ -489,7 +490,7 @@
 | [Who Wants What](https://open.spotify.com/track/2z3woIGj8hClFZVq0Hvcwr) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Who Wants What](https://open.spotify.com/album/6d4Jwyp4LsakoykTAvHL6Z) | 5:23 | 2021-09-03 | 2022-07-14 |
 | [Whoop Tang Flow \(feat\. Raekwon\)](https://open.spotify.com/track/091VDkLyQvQBS0YXC0nEtg) | [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE), [Raekwon](https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1) | [Bebey](https://open.spotify.com/album/01ewz4ezvpzgz1R1WOetVy) | 4:01 | 2021-09-03 | 2022-06-18 |
 | [Wimbledon](https://open.spotify.com/track/7AUXScBeRD7EXEFOsglJag) | [Free Party](https://open.spotify.com/artist/2A1dxDBORVkkbHJDVDOhed) | [Wimbledon](https://open.spotify.com/album/3AlI6rmqiVJWDopXWdCb2m) | 2:22 | 2022-05-20 | 2023-04-22 |
-| [Win](https://open.spotify.com/track/4X4EtnTuuVY0QMZroFVwHY) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Win](https://open.spotify.com/album/5bncDKF5dQRBc1Ze0GbGUf) | 3:55 | 2023-06-16 |  |
+| [Win](https://open.spotify.com/track/4X4EtnTuuVY0QMZroFVwHY) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Win](https://open.spotify.com/album/5bncDKF5dQRBc1Ze0GbGUf) | 3:55 | 2023-06-16 | 2023-07-23 |
 | [World Champ](https://open.spotify.com/track/6Nt8M5jgmtRCxY2yGZdGKK) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [World Champ](https://open.spotify.com/album/6138iEeNObAgJOFw5pSVUw) | 2:26 | 2022-04-29 | 2022-07-29 |
 | [Worldwide Steppers](https://open.spotify.com/track/5p56JT5F9a1z9pwXnqTg7d) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:23 | 2022-05-20 | 2022-05-28 |
 | [Worst Comes To Worst](https://open.spotify.com/track/44AnNS0mBwYbnVpmLAj049) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Melt My Eyez See Your Future](https://open.spotify.com/album/7KtyUeiJidoZO0ybxBXw0Q) | 2:50 | 2022-03-25 | 2022-10-01 |

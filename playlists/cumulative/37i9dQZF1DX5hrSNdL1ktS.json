@@ -2419,6 +2419,28 @@
     },
     {
       "album": {
+        "name": "ITALIKA",
+        "url": "https://open.spotify.com/album/3OFrKsiz3CiqpEZl12N08N"
+      },
+      "artists": [
+        {
+          "name": "Litxs",
+          "url": "https://open.spotify.com/artist/6cbxrojNkxvEOoTMK9g7qd"
+        },
+        {
+          "name": "Acidd",
+          "url": "https://open.spotify.com/artist/6piSWMrSoFP2Y2CuDSwWF9"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158000,
+      "name": "ITALIKA",
+      "url": "https://open.spotify.com/track/1ztdURev2Ht99rBvrXBjuk"
+    },
+    {
+      "album": {
         "name": "Jake Long",
         "url": "https://open.spotify.com/album/7rK1SC8EtVWFDMHGMjRmAM"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 
 > Wyjątkowe polskie artystki na jednej playliście\. Słuchaj kobiet na cały głos! Cover: Rosalie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,207 likes - 55 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,212 likes - 55 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWsiJMaq2jt5.md) - [plain]
 | 54 | [Motyle Nocy](https://open.spotify.com/track/1MX7jtHtmFTZBeKjt73ME4) | [Felicja](https://open.spotify.com/artist/6i9ytdDRuDjWegbqTJkjDw) | [Motyle Nocy](https://open.spotify.com/album/5LQoiV2piwSpL9kyfGwk8a) | 3:18 |
 | 55 | [Ciągle mnie masz](https://open.spotify.com/track/4JOigQknSJHy8Fsl4Zjalw) | [Kasia Wilk](https://open.spotify.com/artist/5BsWrVOkWrvgFPUQQRDNpR) | [Ciągle mnie masz](https://open.spotify.com/album/0SmTDu2Z2xDXEBLlPVdfIw) | 3:23 |
 
-Snapshot ID: `MCw0ZDI5NDQ4OTM0YTk5NDkzMjczZjM1ZDBjOWZiYjg2MTEzOTM3ZWIx`
+Snapshot ID: `MCwyOTQ4MDU4NWFjYjkwZWMzZmIzMGViN2NlMGU1NGQ4NGZhOWRjYzUy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Sidoka
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,712 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,754 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 3 | [Celine](https://open.spotify.com/track/1aDGzQHWNCMy3pF1Stqjk7) | [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Perdas & Ganhos](https://open.spotify.com/album/3qwvyGMmybAvkvyIKhlGwB) | 2:42 |
 | 4 | [Tchau e Vaza](https://open.spotify.com/track/0w2JWMbEu99359482TztOA) | [Braão](https://open.spotify.com/artist/0GGDntDaQgJVknzJlXD1Nd), [Tillmann](https://open.spotify.com/artist/4ozkb2MvrszWeLI6moQi8h) | [Tchau e Vaza](https://open.spotify.com/album/4MKHOe31aGoO1lqxMtQojU) | 3:30 |
 | 5 | [Big D!!!!!](https://open.spotify.com/track/6YSAbJ9fQCMYcCqaYwSIph) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Duani](https://open.spotify.com/artist/2GeuUpdRlUDJWW9FLmwhI1), [Rizzi Get Busy](https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO) | [TAURUS](https://open.spotify.com/album/0CG4W3xxvDlL7tEm4aZZyN) | 3:29 |
-| 6 | [Hora Certa](https://open.spotify.com/track/2YqqmVZW0bCIXpWip8bjEl) | [SV](https://open.spotify.com/artist/6fgtFTpCDLz7xDyS6OVQgh), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [RUXN](https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i), [Dexter](https://open.spotify.com/artist/76IyGPd3y2mBZCljGcke0x) | [Hora Certa](https://open.spotify.com/album/5qCLJADRwIka8Z042uEAKS) | 3:25 |
+| 6 | [Hora Certa](https://open.spotify.com/track/2YqqmVZW0bCIXpWip8bjEl) | [SV](https://open.spotify.com/artist/6fgtFTpCDLz7xDyS6OVQgh), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [RUXN](https://open.spotify.com/artist/30Hiyu8fW3upjYdoXoXy8i), [Dexter](https://open.spotify.com/artist/48lXqQpHuWvJWm6JkNjVRR) | [Hora Certa](https://open.spotify.com/album/5qCLJADRwIka8Z042uEAKS) | 3:25 |
 | 7 | [Movimentações](https://open.spotify.com/track/7royICXlvN3tiakpjrWICz) | [The Frey](https://open.spotify.com/artist/4O679gmByNNPch3mIngSxC), [tchelo rodrigues](https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY) | [Movimentações](https://open.spotify.com/album/60rxq4D3O4YvmlYyDG4TTS) | 3:27 |
 | 8 | [20K no Dior](https://open.spotify.com/track/5Tgz5DZOH2oImtnpyPSeS5) | [BLACK MOB](https://open.spotify.com/artist/6fln1Tr6HEnvnYy4NqkaQu), [Gree Cassua](https://open.spotify.com/artist/2TXfWr90cpiyJ1MHrwsjnQ), [Mc negrone](https://open.spotify.com/artist/660rMB6VLmtOdSBdtm62hw) | [20K no Dior](https://open.spotify.com/album/2JdbOPFrVMCi2fTgdSiJE0) | 2:45 |
 | 9 | [Colecionador de Histórias](https://open.spotify.com/track/46g28kKtJcpmUosYlst8Fw) | [Dimarola](https://open.spotify.com/artist/6H8F5y3oBfI6NKsIDMWLjf), [Ayo Th](https://open.spotify.com/artist/5peXkFS2EUmRp7Llv7yDty), [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx) | [Colecionador de Histórias](https://open.spotify.com/album/0NVAlPA9LS5s9wUMXeG55p) | 3:18 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [Sobrenatural ;7](https://open.spotify.com/track/3QncTbkiAhGomFf0KHaqlf) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Sobrenatural ;7](https://open.spotify.com/album/2CJ5Vpgc8ibMiu0gchg4uL) | 3:12 |
 | 75 | [Jovens do Reggae](https://open.spotify.com/track/3HdEOUNuFuoWj06rXpQQ4o) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Jovens do Reggae](https://open.spotify.com/album/1GJLb6DW0nVTH9rcaCzKgp) | 3:03 |
 
-Snapshot ID: `MCwwZDgzZjk4MWQ1ZGFiNDM3Nzg1NDYxOWNlZTM4YzIwZTUxZTU4NGQ3`
+Snapshot ID: `MCxlZWMyMjVkN2NhMDNiZWM3ODRiZjE3NGZhMThmZTA5YzkxYmZlZTAy`

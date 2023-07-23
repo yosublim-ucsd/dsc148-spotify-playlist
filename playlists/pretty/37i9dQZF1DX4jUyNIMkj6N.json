@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 183909,
+  "num_followers": 183973,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNGNjM2EzZjI4ZGZjNWFhOWFkZGU4ODlmMDYyYzhlYWRiZWU4ZDBl",
+  "snapshot_id": "MCxkZTYzNDk0ZjlhODAxYzY0YmIwMjEyY2E0MzM0MDZlOGU3MmJhZTdl",
   "tracks": [
     {
       "added_at": "2023-07-13 22:00:00",
@@ -743,18 +743,18 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Unknown / (It's Not About) Running",
-        "url": "https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC"
+        "name": "Malory",
+        "url": "https://open.spotify.com/album/139qxM4hgaUdqp8UuJS3E7"
       },
       "artists": [
         {
-          "name": "Tuvaband",
-          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
+          "name": "Martin Stahl",
+          "url": "https://open.spotify.com/artist/7ylfdeeD5JK8el6XcP8z8l"
         }
       ],
-      "duration_ms": 246316,
-      "name": "(It's Not About) Running",
-      "url": "https://open.spotify.com/track/6yeVAVnUskTNb3TutTaU64"
+      "duration_ms": 178003,
+      "name": "Malory",
+      "url": "https://open.spotify.com/track/4C5UxFQ0okYz2NGUGWtees"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -775,18 +775,18 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Malory",
-        "url": "https://open.spotify.com/album/139qxM4hgaUdqp8UuJS3E7"
+        "name": "Unknown / (It's Not About) Running",
+        "url": "https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC"
       },
       "artists": [
         {
-          "name": "Martin Stahl",
-          "url": "https://open.spotify.com/artist/7ylfdeeD5JK8el6XcP8z8l"
+          "name": "Tuvaband",
+          "url": "https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT"
         }
       ],
-      "duration_ms": 178003,
-      "name": "Malory",
-      "url": "https://open.spotify.com/track/4C5UxFQ0okYz2NGUGWtees"
+      "duration_ms": 246316,
+      "name": "(It's Not About) Running",
+      "url": "https://open.spotify.com/track/6yeVAVnUskTNb3TutTaU64"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -807,26 +807,6 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Jag \u00e4r sen igen",
-        "url": "https://open.spotify.com/album/0UiQGJXyPQz6ZEvl6I2Y5d"
-      },
-      "artists": [
-        {
-          "name": "Benedikt",
-          "url": "https://open.spotify.com/artist/4PctuqqAnmfZRDGZFNSH1Y"
-        },
-        {
-          "name": "\u00c6vestaden",
-          "url": "https://open.spotify.com/artist/7r8pTV56VazgkUAAUW4ucw"
-        }
-      ],
-      "duration_ms": 170875,
-      "name": "Halsmandlar",
-      "url": "https://open.spotify.com/track/22f4SB1GpL4PCqrwsxHNav"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
         "name": "Jonas Alaska",
         "url": "https://open.spotify.com/album/6j9O86yZRjGScUxrgRJzy9"
       },
@@ -843,18 +823,22 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Girl",
-        "url": "https://open.spotify.com/album/0y5ESvnTHcaF8McoxWYr3W"
+        "name": "Jag \u00e4r sen igen",
+        "url": "https://open.spotify.com/album/0UiQGJXyPQz6ZEvl6I2Y5d"
       },
       "artists": [
         {
-          "name": "Hajk",
-          "url": "https://open.spotify.com/artist/3cBN6cBqKYBdXjENOSeA8z"
+          "name": "Benedikt",
+          "url": "https://open.spotify.com/artist/4PctuqqAnmfZRDGZFNSH1Y"
+        },
+        {
+          "name": "\u00c6vestaden",
+          "url": "https://open.spotify.com/artist/7r8pTV56VazgkUAAUW4ucw"
         }
       ],
-      "duration_ms": 140334,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/7MxAeo2fTyOaJyRFknwvVY"
+      "duration_ms": 170875,
+      "name": "Halsmandlar",
+      "url": "https://open.spotify.com/track/22f4SB1GpL4PCqrwsxHNav"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -887,6 +871,22 @@
       "duration_ms": 155213,
       "name": "Oh God",
       "url": "https://open.spotify.com/track/3LHSrehhdEgEvQRpFpc0VC"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "Girl",
+        "url": "https://open.spotify.com/album/0y5ESvnTHcaF8McoxWYr3W"
+      },
+      "artists": [
+        {
+          "name": "Hajk",
+          "url": "https://open.spotify.com/artist/3cBN6cBqKYBdXjENOSeA8z"
+        }
+      ],
+      "duration_ms": 140334,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/7MxAeo2fTyOaJyRFknwvVY"
     },
     {
       "added_at": "2023-07-13 22:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2023-07-13 22:00:00",
       "album": {
-        "name": "Hold On Dreamer",
-        "url": "https://open.spotify.com/album/28d2gIKg6Ma04rKAghPvQA"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00f8kedal",
-          "url": "https://open.spotify.com/artist/7uTDwdxKfkZtEfjpofiYwr"
-        }
-      ],
-      "duration_ms": 230840,
-      "name": "The Man Who Isn't Here",
-      "url": "https://open.spotify.com/track/5e4TjReNPm7FGEdVHGl9GO"
-    },
-    {
-      "added_at": "2023-07-13 22:00:00",
-      "album": {
         "name": "Br\u00e5tebrann",
         "url": "https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 146573,
       "name": "Ei ny tid",
       "url": "https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi"
+    },
+    {
+      "added_at": "2023-07-13 22:00:00",
+      "album": {
+        "name": "Hold On Dreamer",
+        "url": "https://open.spotify.com/album/28d2gIKg6Ma04rKAghPvQA"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00f8kedal",
+          "url": "https://open.spotify.com/artist/7uTDwdxKfkZtEfjpofiYwr"
+        }
+      ],
+      "duration_ms": 230840,
+      "name": "The Man Who Isn't Here",
+      "url": "https://open.spotify.com/track/5e4TjReNPm7FGEdVHGl9GO"
     }
   ],
   "unique_name": "Nordic Folk",

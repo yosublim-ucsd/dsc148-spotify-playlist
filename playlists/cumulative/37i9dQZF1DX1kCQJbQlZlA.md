@@ -4,7 +4,7 @@
 
 > Những khúc nhạc quê hương ngợi ca vẻ đẹp Việt Nam.
 
-117 songs - 9 hr 20 min
+118 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Bằng Lòng Đi Em](https://open.spotify.com/track/2J8kDQ6h2MK161CqDN3X8r) | [Quoc Dai](https://open.spotify.com/artist/2nfy0nJ70ftD2p3WeEVrw9) | [Bằng Lòng Đi Em](https://open.spotify.com/album/6so9Ru7VnYXoCAdkVPQd3x) | 4:25 | 2022-07-15 |  |
 | [Bến Sông Chiều](https://open.spotify.com/track/3PVWp9WJgbJiZzRfTXKfkT) | [Lê Như](https://open.spotify.com/artist/3859HForwBR1clV9yc3ugC) | [Bến Sông Chiều](https://open.spotify.com/album/5q8d4rWRhhUUWf4AJZykjy) | 5:12 | 2022-05-12 | 2023-01-19 |
 | [Bức Hoạ Ngày Xuân](https://open.spotify.com/track/062i43r07joG1CObyjLRfA) | [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb) | [Liên Khúc Nhạc Xuân](https://open.spotify.com/album/3bEHBaGGskHytWN0oavyFB) | 4:34 | 2023-01-18 | 2023-07-14 |
+| [Cau Trầu Đưa Lối](https://open.spotify.com/track/3sFETpYTA3yFROBSzDvSLq) | [Khưu Huy Vũ](https://open.spotify.com/artist/4TIkbzRb0DgLNgvYFndhyP), [Võ Lê Mi](https://open.spotify.com/artist/1nrrnXuQWnuPEp6dHLXmgl) | [Cau Trầu Đưa Lối](https://open.spotify.com/album/1IttSUasHNWMj78vrBE8yL) | 3:09 | 2023-07-22 |  |
 | [Chim sáo ngày xưa](https://open.spotify.com/track/5bWqMXjLukN5Y6Cb3yIrVC) | [Quang Linh](https://open.spotify.com/artist/3JwyehW3Ls8vt8GSons5eA) | [Yêu nhau ghét nhau 1](https://open.spotify.com/album/4z6v1PQ0jpIWQqprhroBYN) | 5:56 | 2022-05-12 |  |
 | [Chiếc Xuồng](https://open.spotify.com/track/63eOuMVbPmonUiBcUvS4rK) | [Hương Thủy](https://open.spotify.com/artist/62fblWo293n6H96ETSYmxR), [Quang Le](https://open.spotify.com/artist/2PQLOJKDN5j1q0q3xltIk8) | [Chuyện Người Con Gái](https://open.spotify.com/album/4SWMrSAUEIj06uJUyzGHa7) | 5:14 | 2022-05-12 |  |
 | [Chuyến Đò Quê Hương](https://open.spotify.com/track/1hGEgucgKg6Y8ebfWdhOPC) | [Cẩm Ly](https://open.spotify.com/artist/5sXudh7NFkU6fjQL6BQOj0) | [Chim Trắng Mồ Côi](https://open.spotify.com/album/2AC61uaicZk9Km1YUb9JCB) | 4:51 | 2022-05-12 | 2022-07-29 |
