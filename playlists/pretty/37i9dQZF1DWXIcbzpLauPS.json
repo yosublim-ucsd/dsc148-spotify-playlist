@@ -1,12 +1,12 @@
 {
   "description": "Metalcore at its finest. Cover: Imminence",
-  "num_followers": 890293,
+  "num_followers": 890384,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZGZmNzZlYzZiYzZkNTVkODg1ZDFjOTRlMWViNjk5OWM1NWY4YjQx",
+  "snapshot_id": "MCxjODY1OWJhZDljNzI5YTlkNWE3OGU0Y2IyZjA4ZjU4YjM0NmY1NDA4",
   "tracks": [
     {
       "added_at": "2023-07-21 04:01:00",
@@ -998,6 +998,10 @@
         {
           "name": "Static Dress",
           "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
+        },
+        {
+          "name": "World of Pleasure",
+          "url": "https://open.spotify.com/artist/3SR0KKxXYspg7mJwSUsGBb"
         }
       ],
       "duration_ms": 175101,

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Dominican Republic.
 
-973 songs - 2 day 5 hr 31 min
+974 songs - 2 day 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Billetes Verdes](https://open.spotify.com/track/1ytsLEBwKNUO8ziB0jncem) | [Engel Montaz](https://open.spotify.com/artist/11oaKJc8rsz6x8YPVjca4X), [Latinnites Music](https://open.spotify.com/artist/0c0Yh1P4gMYmDwebhyzIDv), [Kuv507](https://open.spotify.com/artist/0kwa5ELbi8xm7vbwywoLtg), [Lui3o5](https://open.spotify.com/artist/08TS0cq1oBlIIFVSsJhoe4) | [Billetes Verdes](https://open.spotify.com/album/4XAN5qEv4UHo2kGcOtF9Rl) | 3:14 | 2023-07-17 | 2023-07-21 |
 | [Bisami](https://open.spotify.com/track/1XqNcROzfUTq9kVeQ9RQBa) | [Sherman Smith](https://open.spotify.com/artist/0AHS7Ls2S2SqYAruOvl9b0), [Dezz](https://open.spotify.com/artist/0LYSViMkI78r31ER85Vxxh) | [Bisami](https://open.spotify.com/album/5vqlGFDDRQp5F7hWlrWWbJ) | 3:01 | 2022-06-29 | 2022-07-01 |
 | [BLOKE](https://open.spotify.com/track/4GTPtRKvv3smlg6LwQhyD5) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 2:44 | 2022-03-26 | 2022-03-28 |
-| [Bobo \- Remix](https://open.spotify.com/track/27MRm3ERqaasIuqqONCgep) | [Dariel J](https://open.spotify.com/artist/2pam2WdDEmpm4xYsUcFlPI), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Bobo \(Remix\)](https://open.spotify.com/album/0ZatlaLzcdWxzLaSivJDae) | 2:19 | 2022-12-21 |  |
+| [Bobo \- Remix](https://open.spotify.com/track/27MRm3ERqaasIuqqONCgep) | [Dariel J](https://open.spotify.com/artist/2pam2WdDEmpm4xYsUcFlPI), [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Bobo \(Remix\)](https://open.spotify.com/album/0ZatlaLzcdWxzLaSivJDae) | 2:19 | 2022-12-21 | 2023-07-24 |
 | [Bocina Bom](https://open.spotify.com/track/0kSFS3u3KvnuyaBS9VYJ3p) | [Kaly Ocho](https://open.spotify.com/artist/4Y2ohblGXsra540HyqjKFD) | [Bocina Bom](https://open.spotify.com/album/4ofxfex3ConEDY1WyrB0GI) | 3:17 | 2022-04-04 | 2022-06-29 |
 | [BOMBÓN](https://open.spotify.com/track/4OAPnWJ3J5w4c4IBLh2chn) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:02 | 2022-03-26 | 2022-04-01 |
 | [Bonito](https://open.spotify.com/track/0w8xgeyS3hxk6M24v8wkYk) | [El Duglas](https://open.spotify.com/artist/0TihXBYo70wnbfcmJ47bF9) | [Bonito](https://open.spotify.com/album/71v6y9ZimfNQoVSdHw8wir) | 3:05 | 2022-12-11 | 2022-12-13 |
@@ -697,6 +697,7 @@
 | [Por Ti](https://open.spotify.com/track/38aDYQkkB3DzbF2Rl8lugB) | [Wanton chulito](https://open.spotify.com/artist/2Y8dw810oc7wqr6D0eWrJp) | [Colapso](https://open.spotify.com/album/1A8pFYoAULq2VxTo6PmkeX) | 3:49 | 2022-09-11 | 2022-10-02 |
 | [PortoBello](https://open.spotify.com/track/4HXcnBfKuqGC2fIYXquurs) | [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [SR\. SANTOS](https://open.spotify.com/album/2AvuFDqTlnxvYhyVaLU6NY) | 3:46 | 2022-12-03 | 2022-12-06 |
 | [Prende el Arbolito \- Spotify Singles Holiday](https://open.spotify.com/track/1C6bP1OpwtZO2RDKlQfFtW) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [El Cherry Scom](https://open.spotify.com/artist/1tfhFc2Y8iplDKCteuXjCY), [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E), [Shelow Shaq](https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU) | [Prende el Arbolito \- Spotify Singles Holiday](https://open.spotify.com/album/6p9QNLWNLeW8cyo8W2g60n) | 2:50 | 2021-11-25 | 2021-11-26 |
+| [Prepotente](https://open.spotify.com/track/3a5oq7iRY1kLKTwojU7Qfa) | [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL), [Kreizy k](https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ) | [Prepotente](https://open.spotify.com/album/641RNNuxJx1wbSDgPn6pcP) | 2:05 | 2023-07-23 |  |
 | [Primera Vez](https://open.spotify.com/track/0jRnQ0qTi3BRei6p0AunAH) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:09 | 2021-12-05 | 2021-12-06 |
 | [Princesa De Otro](https://open.spotify.com/track/1FcLVdE8zzLY1olRQYUgsb) | [Pescy la Ley](https://open.spotify.com/artist/4KEsGu4CXTPHy7ZvDGnqub) | [Princesa De Otro](https://open.spotify.com/album/5B1CNEHH3HobzDFlidyIgm) | 3:27 | 2022-10-25 | 2022-10-30 |
 | [Probadita](https://open.spotify.com/track/43XGVPv2cXGIoVxXMDbvRL) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [Sabiduria](https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU) | 2:50 | 2022-04-09 | 2022-04-12 |

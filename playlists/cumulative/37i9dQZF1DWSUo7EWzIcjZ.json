@@ -1176,7 +1176,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-24",
       "duration_ms": 242613,
       "name": "Con las Manos en la Masa",
       "url": "https://open.spotify.com/track/6fowwGHZH717DW2PfrvI7O"
@@ -1528,7 +1528,7 @@
     {
       "album": {
         "name": "Es Mejor Decir Adios",
-        "url": "https://open.spotify.com/album/18YYQe5VRMW0ol0TuXIe2k"
+        "url": "https://open.spotify.com/album/2bNVUO6TyN1hZvN8TOEi0s"
       },
       "artists": [
         {
@@ -1539,6 +1539,24 @@
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 317492,
+      "name": "De Que Manera Te Olvido",
+      "url": "https://open.spotify.com/track/0wM04UVM5yqnZYgfmW4Kyo"
+    },
+    {
+      "album": {
+        "name": "Es Mejor Decir Adios",
+        "url": "https://open.spotify.com/album/18YYQe5VRMW0ol0TuXIe2k"
+      },
+      "artists": [
+        {
+          "name": "Jochy Hernandez",
+          "url": "https://open.spotify.com/artist/3WDEmWVINk7sTXoUkCj231"
+        }
+      ],
+      "date_added": "2021-02-02",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-24",
       "duration_ms": 317492,
       "name": "De Que Manera Te Olvido",
       "url": "https://open.spotify.com/track/4kXP9pHrqMpPHOMJdIWu6k"
@@ -3188,7 +3206,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-24",
       "duration_ms": 263314,
       "name": "La Queria",
       "url": "https://open.spotify.com/track/2YtajvxAkEk3CK13BttMpH"
@@ -3674,7 +3692,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 263328,
       "name": "Lo Que Mas Quer\u00eda",
       "url": "https://open.spotify.com/track/5owjrItInEpNGHrROUV9LQ"
@@ -4766,7 +4784,7 @@
       ],
       "date_added": "2021-02-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-25",
+      "date_removed": null,
       "duration_ms": 230876,
       "name": "Peluche",
       "url": "https://open.spotify.com/track/2xsAJtfqVdSnqAhwq0141f"

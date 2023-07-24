@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4WDwW7forWdQWutkAEVZMR.md) - [plain]
 
 > Your go\-to playlist for this week's hottest music featuring Diplo, Lil Tjay, Harry Styles &amp; more! Cover: Diplo, Jessie Murph, Polo G.
 
-[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,675 likes - 44 songs - 2 hr 26 min
+[Columbia Records](https://open.spotify.com/user/columbiarecords_us) - 8,676 likes - 44 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

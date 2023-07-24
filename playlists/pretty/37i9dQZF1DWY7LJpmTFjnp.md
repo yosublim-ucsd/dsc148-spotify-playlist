@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 
 > Una dosis con lo más chingón pa'l gusto mexicano\. El Tri en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,002,062 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,002,196 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7LJpmTFjnp.md) - [plain]
 | 99 | [Antes de Que Nos Olviden](https://open.spotify.com/track/0LRZqcKCnNoPtDBUkVPDYp) | [Gran Sur](https://open.spotify.com/artist/6hZo7kuKScllGTpkj3HXAC), [Saúl Hernández](https://open.spotify.com/artist/3VdwsMY5MqUl5WCw7SqnRG) | [Antes de Que Nos Olviden](https://open.spotify.com/album/16Iuo1w5vENzHH6YVVSb6R) | 3:51 |
 | 100 | [Beber De Tu Sangre XXX](https://open.spotify.com/track/3o1PVyasePBLSdU2uqlHvY) | [Los Amantes De Lola](https://open.spotify.com/artist/7IwYwKG6VacXOThKHvPgUc) | [Beber De Tu Sangre XXX](https://open.spotify.com/album/4xMrf9KNtKd0u2Go1qrJWc) | 4:44 |
 
-Snapshot ID: `MCwyZTI4MjAyNDNjZjc5ZTE1ZWNiN2NkMGQzMTc0MmZiODY0YWIyNjMw`
+Snapshot ID: `MCw3ODVlZjMzOWJiOTRiMDFkMjZmZGEyMDk2Y2ZkMjU0YjY5ZThhMjBi`

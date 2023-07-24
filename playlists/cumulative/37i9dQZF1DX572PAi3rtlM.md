@@ -4,7 +4,7 @@
 
 > That summer in the city feeling, any day of the week.
 
-162 songs - 14 hr 29 min
+163 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Love Endeavor \(Maurice Fulton Remix\) \- Mixed](https://open.spotify.com/track/0oGM4LIuCrXG5aYOAu6ANJ) | [Alice Smith](https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw), [Maurice Fulton](https://open.spotify.com/artist/4T6l995AHz8HCY7TCfQorD) | [Weekends and Beginnings](https://open.spotify.com/album/4TyJKOcgM9gQlbzAGoOy3C) | 5:32 | 2021-09-01 |  |
 | [Love To The World](https://open.spotify.com/track/7M4L1kiKMhtQZmpyO78DKd) | [L.T.D.](https://open.spotify.com/artist/0H4sfMNK9hoasHItAgD1kJ), [Jeffrey Osborne](https://open.spotify.com/artist/5qUHCOUsvVKUpVrMMmztMK) | [Love To The World](https://open.spotify.com/album/5WzRUGjYSwLljGPn6ceeg0) | 5:03 | 2021-09-01 | 2022-05-08 |
 | [Lurk](https://open.spotify.com/track/18uMuvNai5GtXxw4q8qjKR) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [Casey MQ](https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8) | [For the Beasts](https://open.spotify.com/album/7thl8MxQ3IyU91WpifnEZH) | 2:33 | 2021-09-01 | 2022-10-22 |
-| [Lurk](https://open.spotify.com/track/67GSQd7BWT55EZSQdEuDd4) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [Casey MQ](https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8) | [For the Beasts](https://open.spotify.com/album/02uTOzzQ6KmhFjN40LQbuK) | 2:33 | 2021-09-01 |  |
+| [Lurk](https://open.spotify.com/track/67GSQd7BWT55EZSQdEuDd4) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [Casey MQ](https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8) | [For the Beasts](https://open.spotify.com/album/02uTOzzQ6KmhFjN40LQbuK) | 2:33 | 2021-09-01 | 2023-07-24 |
 | [Ma quale idea](https://open.spotify.com/track/0nHdPB5NA4xkoDoSLbREwD) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [...Balla!](https://open.spotify.com/album/1nFv7xx9OHyArzWuCke1yE) | 4:22 | 2021-09-01 |  |
 | [Ma quale idea \- Myd Remix \(Club Edit\)](https://open.spotify.com/track/5nxeRnW9Y7oAXuZJzHmy7n) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Ma quale idea \(Myd Remix\)](https://open.spotify.com/album/0mRoBEyOI7MmBwtHpDOliY) | 4:41 | 2023-07-21 |  |
 | [Manhattan Skyline \- JN Spirit of '77 Extended Mix](https://open.spotify.com/track/7i6jzIErXC8cnYhgpCt7b9) | [AC Soul Symphony](https://open.spotify.com/artist/5DsFurQjk8iOOLwG3uj4wQ), [Dave Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f) | [Manhattan Skyline](https://open.spotify.com/album/4YHDGOswqmUbLbPjmDA5lb) | 11:06 | 2021-09-01 | 2022-07-29 |
@@ -134,6 +134,7 @@
 | [Sometimes](https://open.spotify.com/track/5zFSTUf1xX6auJSx31m5kq) | [DJ Island](https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY), [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Sometimes](https://open.spotify.com/album/0ln5gUk6tfxo2Ie8vQOCM1) | 5:54 | 2021-09-01 | 2022-11-27 |
 | [Sometimes](https://open.spotify.com/track/7vApqfnpLqrKeR6VISh0wH) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa), [DJ Island](https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY) | [Love Will Set U Free](https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc) | 5:54 | 2021-09-01 |  |
 | [Soul Shoes \- Edit](https://open.spotify.com/track/58cSF5Hp2cib67QVwExSbu) | [Vincent Caira](https://open.spotify.com/artist/7k7rFBWrEfJJWjDubjkRNw) | [Soul Shoes](https://open.spotify.com/album/6NQqSfD1zmuzzk9pH2HbS6) | 4:08 | 2021-09-01 | 2022-07-27 |
+| [Stand Up](https://open.spotify.com/track/4LcpxbumkUC8OBNiwBf616) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Stand Up](https://open.spotify.com/album/2830antyeEz07AIkDQpWhP) | 4:01 | 2023-07-21 |  |
 | [Stanley's Disco](https://open.spotify.com/track/0oYEtzXK2sftKizIpiTp8O) | [George Feely](https://open.spotify.com/artist/754g9H1CJLzlgTmMZTFC81) | [Stanley's Disco](https://open.spotify.com/album/2X7iTmP185SzEeQyQ2tDtM) | 6:58 | 2021-09-01 | 2022-07-29 |
 | [Step By Step](https://open.spotify.com/track/2EHXZQ0OymfHsydisuANXk) | [Discognosis](https://open.spotify.com/artist/3aVyhzjj7lkSBm4DOoyaM0) | [Discognosis](https://open.spotify.com/album/5Wwwzt5946djdiEF3yIBgs) | 2:53 | 2021-09-01 | 2022-07-13 |
 | [Summer Grooves](https://open.spotify.com/track/1w2YjNjCfxRQLWEWVFzJ7Z) | [Mirage](https://open.spotify.com/artist/64bYHpPNqRYmu5g0BTvU4p) | [Back Street Brit Funk compiled by Joey Negro](https://open.spotify.com/album/3oVHLixmU76yOp2ciXBCop) | 5:35 | 2021-09-01 | 2022-07-28 |

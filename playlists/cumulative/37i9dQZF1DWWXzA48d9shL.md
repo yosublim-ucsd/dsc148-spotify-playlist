@@ -4,7 +4,7 @@
 
 > The home of dark trap\. Rap from hell\. Cover: $uicideboy$
 
-474 songs - 18 hr 41 min
+475 songs - 18 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,8 @@
 | [CODE MISTAKE](https://open.spotify.com/track/39iRz0h1eZOyXzch8tKQit) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [CODE MISTAKE](https://open.spotify.com/album/02V5iAi2paX4K7Z20R5lvl) | 2:45 | 2023-06-30 |  |
 | [cold.world](https://open.spotify.com/track/6ho3mh8740rHFElC0H86RH) | [trees](https://open.spotify.com/artist/1NJKdtvnP2T0P97URYd5d5), [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [cold.world](https://open.spotify.com/album/3hGbC7ApJVoV2ypPx7dujE) | 4:00 | 2022-04-01 | 2022-05-17 |
 | [Contingency Clip](https://open.spotify.com/track/5YxSPO3PPISlrqDvSbT0Dz) | [do not resurrect](https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3) | [Contingency Clip](https://open.spotify.com/album/7aoSX7FxnN4wAZ37tQrhrF) | 2:25 | 2022-07-22 | 2022-11-19 |
-| [Coopa](https://open.spotify.com/track/3S9xFuZvWb0FuC7sN8Iiek) | [Kiraw](https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4), [ARXMANE](https://open.spotify.com/artist/3c4ngCW3y8USmyrjRdB1mG), [Crazy Mano](https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl) | [Coopa](https://open.spotify.com/album/1WTyu0j5b7gBzBFRxV2EhI) | 1:29 | 2023-05-24 |  |
+| [Coopa](https://open.spotify.com/track/3S9xFuZvWb0FuC7sN8Iiek) | [Kiraw](https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4), [ARXMANE](https://open.spotify.com/artist/3c4ngCW3y8USmyrjRdB1mG), [Crazy Mano](https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl) | [Coopa](https://open.spotify.com/album/1WTyu0j5b7gBzBFRxV2EhI) | 1:29 | 2023-05-24 | 2023-07-24 |
+| [Coopa](https://open.spotify.com/track/6YbQ1QyjmMMpVVhIB6L1mg) | [Kiraw](https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4), [ARXMANE](https://open.spotify.com/artist/3c4ngCW3y8USmyrjRdB1mG), [Crazy Mano](https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl) | [Coopa](https://open.spotify.com/album/5X1oPeYQy2Go8krwHEkMVY) | 1:30 | 2023-05-24 |  |
 | [CousinEddie](https://open.spotify.com/track/7zaeTWU2pJU0OgGTPtfpEE) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN), [Lyson](https://open.spotify.com/artist/5qSqbVmHM1dtIazNNyTP7c) | [SCRAPS](https://open.spotify.com/album/0DezD1oqJZMt5b793b1SCx) | 2:19 | 2021-12-15 | 2022-06-01 |
 | [Coven](https://open.spotify.com/track/4jaTTZNqlpt2QISSLvtRoC) | [nAvvvi](https://open.spotify.com/artist/2xTxOg2hhTL9PV8IYaZ18W), [Fenrir](https://open.spotify.com/artist/4YZviEft6zoVGQdKJ0DOuH), [Kill Dyll](https://open.spotify.com/artist/1r5YzslA0QwyIZISgHJrU7) | [Coven](https://open.spotify.com/album/5lvfSW9rBcjGVZqu7oi5dQ) | 2:39 | 2023-02-24 | 2023-03-09 |
 | [COWBELL WARRIORS! \(feat\. Ski Mask The Slump God\)](https://open.spotify.com/track/1ExIc6AQIFUvIhCuomEwrU) | [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [COWBELL WARRIORS! \(feat\. Ski Mask The Slump God\)](https://open.spotify.com/album/2PPp5gJJHW3AfLxyjaBlG7) | 2:29 | 2023-05-26 |  |

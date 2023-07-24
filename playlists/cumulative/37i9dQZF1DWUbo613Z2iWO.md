@@ -2,9 +2,9 @@
 
 ### [R&B Rising](https://open.spotify.com/playlist/37i9dQZF1DWUbo613Z2iWO)
 
-> R&B of the moment by the artists of the future\. Cover: Mack Keane
+> R&B of the moment by the artists of the future\. Cover: Idman
 
-627 songs - 1 day 8 hr 20 min
+629 songs - 1 day 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,7 +357,7 @@
 | [Mad At Fire](https://open.spotify.com/track/3PqLsRd5qvGGYllBy1IWII) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Mad At Fire](https://open.spotify.com/album/42wSOecTzWrjEUke9JPLYz) | 3:51 | 2023-06-30 |  |
 | [Maddest Hoes](https://open.spotify.com/track/2JOAClTouRjLpemnmAutOV) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq), [SHOW N PROVE](https://open.spotify.com/artist/0w2Ehjy06vmXNTs3e3NQIU) | [Maddest Hoes](https://open.spotify.com/album/0zXtM0yyZaWZh2gYu0GFwU) | 2:34 | 2023-05-05 | 2023-07-08 |
 | [Made For 2](https://open.spotify.com/track/0mxezMhQVXJuzdVbVvL6wb) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL), [OG Parker](https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I) | [While You Wait](https://open.spotify.com/album/3L0ST7zHUCBnqXGNQmy2TL) | 3:29 | 2022-08-05 | 2022-11-28 |
-| [MAGIC!](https://open.spotify.com/track/03bFDCogqEAeXsiNdTBY1D) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [MAGIC!](https://open.spotify.com/album/7rZ8d3jhHarpijjU57Waqo) | 3:15 | 2023-05-12 |  |
+| [MAGIC!](https://open.spotify.com/track/03bFDCogqEAeXsiNdTBY1D) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [MAGIC!](https://open.spotify.com/album/7rZ8d3jhHarpijjU57Waqo) | 3:15 | 2023-05-12 | 2023-07-24 |
 | [Mango Butter](https://open.spotify.com/track/2biRwgdbRj553k78fgoz86) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Wanderlust](https://open.spotify.com/album/4srecdfVYmg9qp7cIGFj0Z) | 3:42 | 2022-11-27 | 2022-12-03 |
 | [Marvin](https://open.spotify.com/track/4B9pkP1vAVHU35xHFekMTo) | [Malik Moses](https://open.spotify.com/artist/5I2ctAF4nrkZcdvZSETLOB) | [Marvin](https://open.spotify.com/album/6N7BbixouvGZuD4VmjpIY7) | 2:44 | 2022-04-29 | 2022-06-25 |
 | [Marvin \- A COLORS SHOW](https://open.spotify.com/track/23XcjGXBJgeb6aLDb0ctKI) | [Malik Moses](https://open.spotify.com/artist/5I2ctAF4nrkZcdvZSETLOB) | [Marvin \- A COLORS SHOW](https://open.spotify.com/album/6Ellw4Bij0X79QNjWoX8dM) | 2:44 | 2022-03-18 | 2022-04-09 |
@@ -365,6 +365,7 @@
 | [MF \(feat\. 24kGoldn\)](https://open.spotify.com/track/7v27vTy3PP70lBHgfvPnKQ) | [Bailey Bryan](https://open.spotify.com/artist/2YcTXkrGXpftY9AR0BKEz0), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [MF \(feat\. 24kGoldn\)](https://open.spotify.com/album/5EXnj8f715BdwncOrZQ2H1) | 2:42 | 2022-03-25 | 2022-04-16 |
 | [Mine](https://open.spotify.com/track/4w1tInexl8p2Tc13q2T1NI) | [Upstrz](https://open.spotify.com/artist/36Jhnuvj1ZVWty7io450Fi) | [Meet Me Upstrz](https://open.spotify.com/album/3g0MhX3p1UViH1m3H660LY) | 2:36 | 2022-12-16 | 2023-07-01 |
 | [Mirage](https://open.spotify.com/track/4nVqAzqBNNTA28majHbIqZ) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq) | [Mirage](https://open.spotify.com/album/03GVz1bOYQQbQI9pCLXbU3) | 3:51 | 2022-02-12 | 2022-03-26 |
+| [Miss Me Yet?](https://open.spotify.com/track/4sYHPWHkiGHRIhrC3noVDO) | [Jastin Martin](https://open.spotify.com/artist/44JW18XzNr86kKNWJq8eg1) | [Miss Me Yet?](https://open.spotify.com/album/5DHemqn1jvUaxUvvAQpcDG) | 2:54 | 2023-07-23 |  |
 | [Miss U](https://open.spotify.com/track/2kCizKXvF27rJLPVvgIIvm) | [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Miss U](https://open.spotify.com/album/6EInKwjhMtF3zGFE04NpKL) | 3:53 | 2022-06-17 | 2022-07-16 |
 | [mmadu](https://open.spotify.com/track/3IzBeYT0GyvpPMTlppy5qr) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/3ACXMteQNTrTws6UWTtEgo) | 3:16 | 2022-11-27 | 2022-12-03 |
 | [Most Girlz](https://open.spotify.com/track/5w5ztCy71lCOoIWCo7dJss) | [Inayah](https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ) | [Most Girlz](https://open.spotify.com/album/6fm8dGkZ9EH9euZQnm4Qbb) | 2:46 | 2022-08-19 | 2023-01-21 |
@@ -433,6 +434,7 @@
 | [Portals](https://open.spotify.com/track/4XY348mLkMShpnyhhx9UYr) | [Arima Ederra](https://open.spotify.com/artist/0wJIP9Wlhn3aSLLaB31IK3) | [Portals](https://open.spotify.com/album/4gw6B4mV2AebjcFKDGdwc3) | 2:45 | 2022-08-26 | 2022-10-15 |
 | [Post Nut Clarity](https://open.spotify.com/track/0J0VOMFRsLrxd04uOIYxac) | [Alemeda](https://open.spotify.com/artist/33Se8kMYeTPkeeM2LnsPF8) | [Post Nut Clarity](https://open.spotify.com/album/5E4FRTJyliNAWkPX84mA5f) | 1:53 | 2022-02-18 | 2022-03-26 |
 | [Poster Girl](https://open.spotify.com/track/5cbmKj0MMYHB7Z6VusQpWn) | [Talia Goddess](https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw) | [Poster Girl](https://open.spotify.com/album/5YgXXwuwTim607qGUWXbph) | 2:54 | 2022-08-19 | 2022-11-19 |
+| [Presence](https://open.spotify.com/track/2Yld53VYV6QE7Dy7uqYHHD) | [Gemaine](https://open.spotify.com/artist/6WnCnGe06iOO6fTPYAPF03), [Jacob Latimore](https://open.spotify.com/artist/7t7KCNFOwuMChaQg6L8I69) | [Presence](https://open.spotify.com/album/7qLaG83ajGXlT4qwVwZNXs) | 3:04 | 2023-07-23 |  |
 | [Pressure](https://open.spotify.com/track/4oGzPrWCL1cMa4JQTYfRjV) | [Joyia](https://open.spotify.com/artist/5XmuPCMjLwYLKWvOCyh6jK) | [Pressure](https://open.spotify.com/album/10lqGyG2HYtsZr1R4FApdS) | 3:22 | 2022-04-29 | 2022-06-18 |
 | [Pressure](https://open.spotify.com/track/1CCzCMKgPsm27LgUWhP4Up) | [Mychelle](https://open.spotify.com/artist/2JXmEUolvdLFZc1PoLGC71) | [Someone Who Knows](https://open.spotify.com/album/5P6FYHPjKPVSVNSdWZDsfe) | 3:01 | 2022-05-20 | 2022-07-30 |
 | [pressure](https://open.spotify.com/track/1uf4itZeNCVYDHExNH9Ov3) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Getaway](https://open.spotify.com/album/2WtfCHRb8cy4a2x8vOMVkM) | 3:40 | 2022-03-11 | 2022-04-09 |
@@ -458,7 +460,7 @@
 | [Rebel \(feat\. Jeremih\)](https://open.spotify.com/track/1yCaGeVkeiHwM0EnErYDrR) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Heat Of The Moment](https://open.spotify.com/album/3EjN3Lt1gd4M0KrYKz7GrD) | 2:34 | 2021-12-15 | 2022-03-26 |
 | [recognize](https://open.spotify.com/track/5Gx86X2wrF2J2hih6RPLGV) | [Eli Derby](https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u) | [recognize](https://open.spotify.com/album/426MzFU7UEXUNFw8sGbxLx) | 3:13 | 2022-10-14 | 2022-10-29 |
 | [RED HOT](https://open.spotify.com/track/3grdg1YUd5ypDi9gvchE3n) | [Justin Garner](https://open.spotify.com/artist/3xOsqNaO7F3UNdQjJJif8o) | [RED HOT](https://open.spotify.com/album/7xksRxG6MURC3k7kOJ3Qo7) | 3:04 | 2022-08-05 | 2022-08-27 |
-| [RENT FREE](https://open.spotify.com/track/4AlHUPwYtEJHAl9H7EGKMD) | [Abby Jasmine](https://open.spotify.com/artist/53GHCxP37vt9f8h2CWNBnf), [Prxd\. Jay](https://open.spotify.com/artist/6aWD4xaqUuAnuHLf2exCow) | [GROWING PAINS](https://open.spotify.com/album/4vFy8YrDun1YEZFaa3u4OS) | 3:45 | 2023-05-26 |  |
+| [RENT FREE](https://open.spotify.com/track/4AlHUPwYtEJHAl9H7EGKMD) | [Abby Jasmine](https://open.spotify.com/artist/53GHCxP37vt9f8h2CWNBnf), [Prxd\. Jay](https://open.spotify.com/artist/6aWD4xaqUuAnuHLf2exCow) | [GROWING PAINS](https://open.spotify.com/album/4vFy8YrDun1YEZFaa3u4OS) | 3:45 | 2023-05-26 | 2023-07-24 |
 | [Replay](https://open.spotify.com/track/4nU9J4u7vgVzSu1oFGohGE) | [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [Songs for Women, Free Game for Niggas \- EP](https://open.spotify.com/album/64iyjndrqCyY9dbldsSZx1) | 3:23 | 2023-03-03 | 2023-05-27 |
 | [reprise](https://open.spotify.com/track/1gQrLTJ3i09hLEIuK0zeuZ) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [reprise](https://open.spotify.com/album/6173hx0cTeTSCoiR4lOKHu) | 4:25 | 2022-05-13 | 2022-07-10 |
 | [restless](https://open.spotify.com/track/4Rgf41ic8OWW0Ah19yQAVC) | [Finding Neo](https://open.spotify.com/artist/1cCSaRtUGbb4ox3zMhqfPh) | [no man is an island](https://open.spotify.com/album/3lVVg98XNvwy64Kz22i1Qq) | 4:08 | 2022-04-15 | 2022-05-21 |

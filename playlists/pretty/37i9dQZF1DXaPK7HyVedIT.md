@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Felguk
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,232,851 likes - 77 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,232,829 likes - 77 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 5 | [The Sound Of San Francisco \- 2023 Brazil Mix](https://open.spotify.com/track/6tkJc0PnU2srkTzczhzUYO) | [Global Deejays](https://open.spotify.com/artist/5M0Y6NBi3Wfwo2H1gtPl1L), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1) | [The Sound Of San Francisco \(2023 Brazil Mix\)](https://open.spotify.com/album/3ycvr7h9pmQUloGCwRzyt1) | 2:20 |
 | 6 | [Creepin'](https://open.spotify.com/track/3t1KAeqDaTizVw0UcnOaPS) | [Krmoni](https://open.spotify.com/artist/0VdvafugKlyxzDZ4S7t1Dz) | [Creepin'](https://open.spotify.com/album/4NN5vXPGsEnIjg0EyT721i) | 2:07 |
 | 7 | [Focus \(Double MZK Remix\)](https://open.spotify.com/track/1EKXeIujIqra3DJhx3qqRT) | [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI) | [Focus \(Double MZK Remix\)](https://open.spotify.com/album/0qo4zOP29YgQAWvbkP18RW) | 2:21 |
-| 8 | [Ultrasound \- Lost Version](https://open.spotify.com/track/3SpsELhWCTNZRcTGQqJK32) | [Gabriel Boni](https://open.spotify.com/artist/0bm790gMtTnJ9RWUijkC24) | [Ultrasound](https://open.spotify.com/album/1lHDDfSWRSh2qRDY0xqegh) | 5:17 |
+| 8 | [Ultrasound \- Original mix](https://open.spotify.com/track/3SpsELhWCTNZRcTGQqJK32) | [Gabriel Boni](https://open.spotify.com/artist/0bm790gMtTnJ9RWUijkC24) | [Ultrasound](https://open.spotify.com/album/1lHDDfSWRSh2qRDY0xqegh) | 2:54 |
 | 9 | [Remote Control](https://open.spotify.com/track/6WxTq95ZNZ58MVTHGIKsfV) | [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt) | [May 23rd](https://open.spotify.com/album/465uKcpgmFpMmcEAwIW8J1) | 3:28 |
 | 10 | [Bad Love \- Antdot & Maz Remix](https://open.spotify.com/track/1OzMejgdMtjfTdlS5iQHud) | [Fahlberg](https://open.spotify.com/artist/6lFGvLLUwT6MB6Fx0CkRwk), [Antdot](https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx), [Maz \(BR\)](https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn) | [Bad Love \(Antdot & Maz Remix\)](https://open.spotify.com/album/0ZsUU0Sz04c4NtLzvBAWsr) | 3:50 |
 | 11 | [Music Frees The Mind 2.0](https://open.spotify.com/track/6m7eS2BHMmis8Ho9y0Gi60) | [Devochka](https://open.spotify.com/artist/02xYwCW4WypA3nRQv6qEcX) | [Music Frees The Mind 2.0](https://open.spotify.com/album/29TKxrW2jziLybOe4Ohsg6) | 3:07 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 76 | [Talk It Over](https://open.spotify.com/track/4HRWIVz78yFcWNbZSKzDYY) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Talk It Over](https://open.spotify.com/album/5mtqqWz5M3wJTszXfVvKkY) | 3:29 |
 | 77 | [On My Own](https://open.spotify.com/track/0xDhj2p2bWsAfrCk03CbLm) | [D\-Nox](https://open.spotify.com/artist/1TqcQwnBqloJrKkGs4l4LT), [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [On My Own](https://open.spotify.com/album/5ri3loSW74BRAg2lYll25h) | 6:38 |
 
-Snapshot ID: `MCw5NjNkMGE5NTJkMjI1ODU2NWUwYzljYWYzMDUyMWVlZjkzNzNkOTJm`
+Snapshot ID: `MCxmMmEyOGU4ZDdkYzk1ZGUyYThmYTI0Zjc4MzAzNThjYTkwNDBmNDky`

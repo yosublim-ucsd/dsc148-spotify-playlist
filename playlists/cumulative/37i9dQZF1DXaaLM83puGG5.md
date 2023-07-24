@@ -4,7 +4,7 @@
 
 > Keeping the party going w/ Everyday People
 
-632 songs - 1 day 13 hr 31 min
+633 songs - 1 day 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,8 @@
 | [Don't Walk Away](https://open.spotify.com/track/7tsRp7QKUBp6hc9bth0h7x) | [Jade](https://open.spotify.com/artist/7ypgj95aGInvJMJbMv78wB) | [Jade To The Max](https://open.spotify.com/album/2EwwOSHl7oOX1vyjQBx4Zc) | 3:36 | 2023-04-28 | 2023-05-19 |
 | [Double Back](https://open.spotify.com/track/2sWem9BHygCfktVvDIIPeV) | [HENNESSY](https://open.spotify.com/artist/0d3nLtBfguQFq20JzWSlIW), [Dee Gomes](https://open.spotify.com/artist/17cQawMg0m4Z5VCzkIMI1i) | [Double Back](https://open.spotify.com/album/3tZgZiTzozDMFBfQ4lzx2L) | 2:43 | 2022-04-08 | 2022-09-03 |
 | [Down Dey](https://open.spotify.com/track/7AGm3aWTaC7LRni0xcrhMw) | [Gbmnutron](https://open.spotify.com/artist/4EfvuRX05W5WiDkij0nTbq), [DJ Spider](https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq) | [Down Dey](https://open.spotify.com/album/246WFT6xDiyEoqaAy7YH8F) | 2:13 | 2022-09-03 | 2022-10-26 |
-| [Drift](https://open.spotify.com/track/2dSxEBLtCSDuA83zaypLaB) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc) | [Drift](https://open.spotify.com/album/1Ogea1poX1WNZnbnfRF7CG) | 2:43 | 2023-07-18 |  |
+| [Drift](https://open.spotify.com/track/0ydoqpTVhaDzjDg7WVcg4m) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc) | [Drift](https://open.spotify.com/album/3MZbcKtTrzsjh0iNOEgHcP) | 2:43 | 2023-07-19 |  |
+| [Drift](https://open.spotify.com/track/2dSxEBLtCSDuA83zaypLaB) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc) | [Drift](https://open.spotify.com/album/1Ogea1poX1WNZnbnfRF7CG) | 2:43 | 2023-07-18 | 2023-07-24 |
 | [Drink to Dat](https://open.spotify.com/track/0joSvXptTBr0oY2WdKYc7i) | [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Location Riddim](https://open.spotify.com/album/4jqjbqQZqq015ZNGhke1da) | 3:10 | 2022-09-03 | 2022-10-05 |
 | [Drink to Dat](https://open.spotify.com/track/5zTfojcQTaMHhT4auLiysR) | [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Location Riddim](https://open.spotify.com/album/1jkdIPsKGWZgJxzA9fiXjS) | 3:10 | 2022-09-03 | 2022-10-26 |
 | [Drinks On Me](https://open.spotify.com/track/5GDQZMDNRs616xROrcuoFb) | [Lily Rayne](https://open.spotify.com/artist/04DqcxM5TVBjxdGwGlxACa) | [Femme](https://open.spotify.com/album/43G6kyYnUIjj7MQtm6mTNC) | 2:24 | 2022-04-08 | 2022-09-03 |

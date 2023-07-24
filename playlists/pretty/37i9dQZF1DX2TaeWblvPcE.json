@@ -1,12 +1,12 @@
 {
   "description": "Concentrate comfortably with sweet k-pop accompaniments without lyrics. (\uac00\uc0ac \uc5c6\ub294 \uac10\ubbf8\ub85c\uc6b4 \uac00\uc694 \ubc18\uc8fc\uace1\ub4e4\uacfc \ud3b8\uc548\ud558\uac8c \uc9d1\uc911\ud558\uc138\uc694.)",
-  "num_followers": 6986,
+  "num_followers": 6991,
   "original_name": "K-Pop Instruments (\uac00\uc694 \ubc18\uc8fc\uace1)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MDcwZDc5N2U4OGM3MGRiMjMyZWQ4Mjc3NmY0OWQ5MjlkZjhhNGJk",
+  "snapshot_id": "MCxkNWQ2ZTE2MDJjN2U4YjY5MmMyZjAyNmZhZmQ1MGVjNmEyYTVkYzk3",
   "tracks": [
     {
       "added_at": "2022-11-02 13:40:53",
@@ -219,18 +219,22 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "TALE OF THE NINE TAILED (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/7yHvBfT4IADI9iNN2DGsLQ"
+        "name": "Mr. Sunshine (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/37aYl9SbXXzYZs6ZquzgNQ"
       },
       "artists": [
         {
-          "name": "Lyn",
-          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
+          "name": "Nam Hye Seung",
+          "url": "https://open.spotify.com/artist/1vOJqsD0H57xUKg9IcknD9"
+        },
+        {
+          "name": "Park Sang Hee",
+          "url": "https://open.spotify.com/artist/1icVxSPmme4DhN7q0HTM5p"
         }
       ],
-      "duration_ms": 262720,
-      "name": "Moonchild Ballad - Instrumental",
-      "url": "https://open.spotify.com/track/0huNakYFuJW9ovnvdv6nOY"
+      "duration_ms": 290078,
+      "name": "Sad Ending",
+      "url": "https://open.spotify.com/track/5Zl4NyyonixQ2cqgd4Y2Mo"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -251,22 +255,18 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Mr. Sunshine (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/37aYl9SbXXzYZs6ZquzgNQ"
+        "name": "TALE OF THE NINE TAILED (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/7yHvBfT4IADI9iNN2DGsLQ"
       },
       "artists": [
         {
-          "name": "Nam Hye Seung",
-          "url": "https://open.spotify.com/artist/1vOJqsD0H57xUKg9IcknD9"
-        },
-        {
-          "name": "Park Sang Hee",
-          "url": "https://open.spotify.com/artist/1icVxSPmme4DhN7q0HTM5p"
+          "name": "Lyn",
+          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
         }
       ],
-      "duration_ms": 290078,
-      "name": "Sad Ending",
-      "url": "https://open.spotify.com/track/5Zl4NyyonixQ2cqgd4Y2Mo"
+      "duration_ms": 262720,
+      "name": "Moonchild Ballad - Instrumental",
+      "url": "https://open.spotify.com/track/0huNakYFuJW9ovnvdv6nOY"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.2",
-        "url": "https://open.spotify.com/album/0rd9znGGrqyiKk4KVRJvqq"
-      },
-      "artists": [
-        {
-          "name": "Sam Kim",
-          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
-        }
-      ],
-      "duration_ms": 253186,
-      "name": "Breath - instrumental",
-      "url": "https://open.spotify.com/track/1AZnSd1alHTdZvienjSRs9"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "\uc774 \uaca8\uc6b8 \ud53c\uc544\ub178\ub85c \ub9cc\ub098\ub294 \ub530\ub048\ud55c K-Pop K-Pop Hotlist Piano for the Winter",
         "url": "https://open.spotify.com/album/7yd99ZqQC40i1hTjnncf4H"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 256526,
       "name": "Love Poem",
       "url": "https://open.spotify.com/track/37OnDQ4E9gSzfyn7KlDvTF"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.2",
+        "url": "https://open.spotify.com/album/0rd9znGGrqyiKk4KVRJvqq"
+      },
+      "artists": [
+        {
+          "name": "Sam Kim",
+          "url": "https://open.spotify.com/artist/4BBN286rBKyCWsSPq2cxYO"
+        }
+      ],
+      "duration_ms": 253186,
+      "name": "Breath - instrumental",
+      "url": "https://open.spotify.com/track/1AZnSd1alHTdZvienjSRs9"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.7",
-        "url": "https://open.spotify.com/album/6KIxtLeORsEDYeYjVlLuD1"
-      },
-      "artists": [
-        {
-          "name": "YONGZOO",
-          "url": "https://open.spotify.com/artist/4bpY9pKx3mCQXZFO4RqsDb"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "Puzzle - Instrumental",
-      "url": "https://open.spotify.com/track/2B182oxJh9qvJVp5BQE220"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "A Poem a Day (tvN DRAMA) OST Part.12",
         "url": "https://open.spotify.com/album/4U97Mqn59HGk2fDIfPHaX9"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 251483,
       "name": "A Poem For Poetry - Instrumental",
       "url": "https://open.spotify.com/track/3tiwlfxr6X0srg3ya5VXqo"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "It's Okay to Not Be Okay (Original Television Soundtrack), Pt.7",
+        "url": "https://open.spotify.com/album/6KIxtLeORsEDYeYjVlLuD1"
+      },
+      "artists": [
+        {
+          "name": "YONGZOO",
+          "url": "https://open.spotify.com/artist/4bpY9pKx3mCQXZFO4RqsDb"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "Puzzle - Instrumental",
+      "url": "https://open.spotify.com/track/2B182oxJh9qvJVp5BQE220"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -939,22 +939,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Trying to say good-bye",
-        "url": "https://open.spotify.com/album/3WgFwwCXgMNxz2bAqwl817"
-      },
-      "artists": [
-        {
-          "name": "Moon Byul",
-          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
-        }
-      ],
-      "duration_ms": 238573,
-      "name": "Trying to say good-bye (Inst.)",
-      "url": "https://open.spotify.com/track/0prQ2KfBBPwSZ45IIrRoWk"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "Mystic Pop-up Bar, Pt. 5 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5y5QgjKcmGgMZehvukxm8y"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 222786,
       "name": "I'll Take You To Tomorrow - Instrumental",
       "url": "https://open.spotify.com/track/4wD07bJUFDTNWeqqYkYgxG"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "Trying to say good-bye",
+        "url": "https://open.spotify.com/album/3WgFwwCXgMNxz2bAqwl817"
+      },
+      "artists": [
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        }
+      ],
+      "duration_ms": 238573,
+      "name": "Trying to say good-bye (Inst.)",
+      "url": "https://open.spotify.com/track/0prQ2KfBBPwSZ45IIrRoWk"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "K-POP PIANO BEST",
-        "url": "https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ"
-      },
-      "artists": [
-        {
-          "name": "Moonlight Jazz Blue",
-          "url": "https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI"
-        }
-      ],
-      "duration_ms": 418375,
-      "name": "EYES , NOSE ,LIPS - Piano Version",
-      "url": "https://open.spotify.com/track/40as6OommszxopxIZ2KcaR"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "Almost Famous (Original Television Soundtrack) Pt. 3",
         "url": "https://open.spotify.com/album/1QkDlS5FWdQ2cRzLsPCqKC"
       },
@@ -1191,22 +1175,6 @@
       "duration_ms": 230768,
       "name": "Please Forget Me - Instrumental",
       "url": "https://open.spotify.com/track/0xI92gm5ftOnLTEzQnpcZ6"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
-        "name": "K-pop Reimaginings",
-        "url": "https://open.spotify.com/album/5WXYTdgPeuGvSpHIxeOiKS"
-      },
-      "artists": [
-        {
-          "name": "postmoderndisco",
-          "url": "https://open.spotify.com/artist/6E4pqcVaaYZWD5Ni9GBDWp"
-        }
-      ],
-      "duration_ms": 131612,
-      "name": "Serendipity x Fake Love",
-      "url": "https://open.spotify.com/track/2A1AtpcXGZfNpfHdQwixyK"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1227,6 +1195,38 @@
       "duration_ms": 181680,
       "name": "OH NONONO - Instrumental",
       "url": "https://open.spotify.com/track/1Ajq6IgAXUCiJZ8aXDkg8q"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "K-pop Reimaginings",
+        "url": "https://open.spotify.com/album/5WXYTdgPeuGvSpHIxeOiKS"
+      },
+      "artists": [
+        {
+          "name": "postmoderndisco",
+          "url": "https://open.spotify.com/artist/6E4pqcVaaYZWD5Ni9GBDWp"
+        }
+      ],
+      "duration_ms": 131612,
+      "name": "Serendipity x Fake Love",
+      "url": "https://open.spotify.com/track/2A1AtpcXGZfNpfHdQwixyK"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "K-POP PIANO BEST",
+        "url": "https://open.spotify.com/album/7jhaI82ddfeABIpMfUnBLZ"
+      },
+      "artists": [
+        {
+          "name": "Moonlight Jazz Blue",
+          "url": "https://open.spotify.com/artist/1RqKUH4eKbKQrzO1bh8IFI"
+        }
+      ],
+      "duration_ms": 418375,
+      "name": "EYES , NOSE ,LIPS - Piano Version",
+      "url": "https://open.spotify.com/track/40as6OommszxopxIZ2KcaR"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "MAP OF THE SOUL: 7 Piano Collection",
-        "url": "https://open.spotify.com/album/3n5KzHi67JKyPkVBK9Ks2a"
-      },
-      "artists": [
-        {
-          "name": "DooPiano",
-          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
-        }
-      ],
-      "duration_ms": 217680,
-      "name": "Black Swan",
-      "url": "https://open.spotify.com/track/19KkK8hM5JzQBSqjQilIhb"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "KPOP Piano Collection, Vol. 1",
         "url": "https://open.spotify.com/album/0olugUdHVknbu88YN4ODyX"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 300840,
       "name": "Into The New World",
       "url": "https://open.spotify.com/track/5ECj49QATlIZ13JP58SVW8"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "MAP OF THE SOUL: 7 Piano Collection",
+        "url": "https://open.spotify.com/album/3n5KzHi67JKyPkVBK9Ks2a"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "duration_ms": 217680,
+      "name": "Black Swan",
+      "url": "https://open.spotify.com/track/19KkK8hM5JzQBSqjQilIhb"
     },
     {
       "added_at": "2022-11-02 13:40:53",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2022-11-02 13:40:53",
       "album": {
-        "name": "Lovesick Girls",
-        "url": "https://open.spotify.com/album/73HYFSLXh4g4YnSts7sKGx"
-      },
-      "artists": [
-        {
-          "name": "DooPiano",
-          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
-        }
-      ],
-      "duration_ms": 207960,
-      "name": "Lovesick Girls",
-      "url": "https://open.spotify.com/track/1PzHoeGjx1ccdV6usWNfW0"
-    },
-    {
-      "added_at": "2022-11-02 13:40:53",
-      "album": {
         "name": "Blood Sweat & Tears",
         "url": "https://open.spotify.com/album/56EROHjI2C2z9MGg680i7o"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 241992,
       "name": "Blood Sweat & Tears",
       "url": "https://open.spotify.com/track/5DggVRzTXeN8Jm729lIKNA"
+    },
+    {
+      "added_at": "2022-11-02 13:40:53",
+      "album": {
+        "name": "Lovesick Girls",
+        "url": "https://open.spotify.com/album/73HYFSLXh4g4YnSts7sKGx"
+      },
+      "artists": [
+        {
+          "name": "DooPiano",
+          "url": "https://open.spotify.com/artist/3rcCgAX9YWcN86ljeWvpIY"
+        }
+      ],
+      "duration_ms": 207960,
+      "name": "Lovesick Girls",
+      "url": "https://open.spotify.com/track/1PzHoeGjx1ccdV6usWNfW0"
     },
     {
       "added_at": "2022-11-02 13:40:53",

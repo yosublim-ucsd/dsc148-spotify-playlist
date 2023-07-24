@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YyEO1dtgbR.md) - [plain]
 
 > Experimental electronic beyond the borders of tradition.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,075 likes - 75 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,088 likes - 75 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YyEO1dtgbR.md) - [plain]
 | 47 | [On\-Line](https://open.spotify.com/track/356mCkfTkc75lPlPxAsKFU) | [Carlos do Complexo](https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2) | [Torus / On\-Line](https://open.spotify.com/album/1hIdgjyTLTzxUb2KuoFoHP) | 3:53 |
 | 48 | [Trouble](https://open.spotify.com/track/6nhUxgNa071Y79ihXy8K1c) | [Friz07](https://open.spotify.com/artist/39HPoPdSDDc9nJO6d3mOZR) | [Save The Night \- House: Trouble](https://open.spotify.com/album/4WyBZhrBG7FJTKXFRBLRf6) | 7:13 |
 | 49 | [Everything In Its Right Place](https://open.spotify.com/track/4hIjfcWeaUIg5JIgFsqyXj) | [Third Son](https://open.spotify.com/artist/3V0CkmupRFH97LSOafzfbc) | [Everything In Its Right Place](https://open.spotify.com/album/0IyUMNyvIsMMm1v6WyQ2oQ) | 5:16 |
-| 50 | [Parenthesis](https://open.spotify.com/track/75cgKglcEvg8GLXkWEIzTE) | [Neukrapsio](https://open.spotify.com/artist/61Z4ARbgYmgk3nsXcyazoa) | [Parenthesis](https://open.spotify.com/album/5eqyNKSdpiq17jzg8R3Hoy) | 3:12 |
+| 50 | [Parenthesis](https://open.spotify.com/track/4oSjtDkvYK0mEVJb6m3Y0U) | [Neukrapsio](https://open.spotify.com/artist/61Z4ARbgYmgk3nsXcyazoa) | [Parenthesis](https://open.spotify.com/album/5dKEV7dfFbH6YU5FOQBYmg) | 3:12 |
 | 51 | [Cosmic Serpent \- Dub](https://open.spotify.com/track/38mnl6h9zf6ByndcoRkujW) | [Zongamin](https://open.spotify.com/artist/3GpAL7oEFD37IJDOOiirqy) | [O! Versions](https://open.spotify.com/album/3VTa5w9IrSNqd1MxejXFlu) | 5:46 |
 | 52 | [Danza De Los Voladores](https://open.spotify.com/track/1r9R3iy3SjeFXlDgeuxzo8) | [Marco Shuttle](https://open.spotify.com/artist/2DqPerh6whhlts8Pb0BUJi) | [Cobalt Desert Oasis](https://open.spotify.com/album/5CF51zMpCiEKUReRLJyoDb) | 4:47 |
 | 53 | [Ritual](https://open.spotify.com/track/1fiLAzFX7J5cfsOqe5Hm3U) | [Arthur Hnatek](https://open.spotify.com/artist/7iKMlMMzSb9jVQDwygYlOT), [Taut](https://open.spotify.com/artist/414TcEcyOyBiJu8cRdKrxE) | [Ritual](https://open.spotify.com/album/3CJw1Ly9KaVZyZQCcLmump) | 4:27 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YyEO1dtgbR.md) - [plain]
 | 74 | [I'll be 20 when I'm 40](https://open.spotify.com/track/4x47gRjGYRRiDGhbdtpnCs) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv) | [Patrimony](https://open.spotify.com/album/7olQu6AkixLOum1nfMkZvf) | 5:13 |
 | 75 | [Those Tears of Hutton](https://open.spotify.com/track/49WbV4XtJ5QWJd2m5UrwSg) | [Denis Sulta](https://open.spotify.com/artist/7cDu9zG1gVQrMdSGBAhzvn) | [This Moment of Silence](https://open.spotify.com/album/6Zj6qfpTfQCmlyajevOM8z) | 6:15 |
 
-Snapshot ID: `MCwzMzUzNzEwMTY2NTdjZTk2ZDYxMWE2MGMwOTJkNDM4ZjkzOTJkOTgx`
+Snapshot ID: `MCwwZGI4ODIyMDQ2MWNlOTc1NGI3NjhiNDRhZDE3MGI1OGIwMzFlM2Qz`

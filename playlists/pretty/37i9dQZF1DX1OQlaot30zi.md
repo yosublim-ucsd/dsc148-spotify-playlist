@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Coco, Luchè, Artie 5ive, MV Killa, Vale Pain e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,961 likes - 80 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,974 likes - 80 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 79 | [KLK!](https://open.spotify.com/track/5yXmTl7gKH8nvFjb4Plhze) | [Samuel Heron](https://open.spotify.com/artist/7CkfnjbIBJisquAJCZv6oU), [Blaze Drumz](https://open.spotify.com/artist/5t3bdtfB81ZtP8XmMctkCQ) | [COUNCIL ESTATE, VOL\. 2](https://open.spotify.com/album/2zE0I6noMtYf7lTEIVrbKM) | 1:47 |
 | 80 | [LEBLOCK 2 \(feat\. BRESCO, MarZa, Flus Brain, Caesar & TOLKA\)](https://open.spotify.com/track/61Neusrn6GoNaH9wcXmiV3) | [ZT5](https://open.spotify.com/artist/4sOcYYwEEMVaa9yJFm0BTT), [BRESCO](https://open.spotify.com/artist/2RKPNB2UZU3nZqoGUFpFGC), [MarZa](https://open.spotify.com/artist/6EZjglJoWh9Rz2hwjJy0Xs), [Flus Brain](https://open.spotify.com/artist/3cIN4XjkAfNwfGLKVPoofY), [Caesar](https://open.spotify.com/artist/3oHyQMgRYjhjp2nMLhmiiP), [TOLKA](https://open.spotify.com/artist/4DESc2JN2OQtR74Xdk0k9W) | [LEBLOCK 2 \(feat\. BRESCO, MarZa, Flus Brain, Caesar & TOLKA\)](https://open.spotify.com/album/4JDUUeUslKPBP0otHJTq1a) | 3:05 |
 
-Snapshot ID: `MCw2ZGI1ZjViNzE0ZTZkYjNhODYzOTU1NWE4NmZlNTI4ZGViM2QyMzNk`
+Snapshot ID: `MCw4NGM1MDBkODVjYmVkMmJkYzc2NjhiMWJjMmE4ZDE2ZGQ2NjFkODE2`

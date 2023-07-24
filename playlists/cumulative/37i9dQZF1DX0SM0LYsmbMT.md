@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,568 songs - 5 day 16 hr 55 min
+3,569 songs - 5 day 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,7 +204,7 @@
 | [Atum](https://open.spotify.com/track/6N1Mr2o9hBaNl7M5uMvnkm) | [Blue Fox](https://open.spotify.com/artist/4VfNwO9Vm7qytrCtUlwwGY), [No Spirit](https://open.spotify.com/artist/4XbnhifKeOnyfTsCInrQsX), [Dario Lessing](https://open.spotify.com/artist/0EocooOvTYLsjqSSQdqiyi) | [Atum](https://open.spotify.com/album/0GiOqOFSNm77t8XCnHbN98) | 2:45 | 2021-05-07 | 2021-07-09 |
 | [Au Du](https://open.spotify.com/track/24iqTu6JHHYPP7P9k6v95k) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [Au Du](https://open.spotify.com/album/6UFjUYZi9Yz9UfzGkV2rtb) | 2:48 | 2021-01-17 | 2021-02-12 |
 | [Aubade](https://open.spotify.com/track/0gbUFxxYG1tnXjFcsCLNk2) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [Aubade](https://open.spotify.com/album/55tPJivAF0H4j5Zy85kVfU) | 1:51 | 2022-08-11 | 2022-11-20 |
-| [Aubade](https://open.spotify.com/track/3vDlW4JNICUAN27xLrYj08) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [Aubade](https://open.spotify.com/album/5tgMXvZEChCejwI882yJDy) | 1:51 | 2022-11-17 |  |
+| [Aubade](https://open.spotify.com/track/3vDlW4JNICUAN27xLrYj08) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [Aubade](https://open.spotify.com/album/5tgMXvZEChCejwI882yJDy) | 1:51 | 2022-11-17 | 2023-07-24 |
 | [August](https://open.spotify.com/track/7gN1MJGsdP0L2ENMjWw9zi) | [Richie Rych](https://open.spotify.com/artist/4DAnH7C46v8Z0xhaw5ktTo) | [August](https://open.spotify.com/album/2XANU3KjgZaGcrncErOD1a) | 2:06 | 2020-09-26 | 2021-05-14 |
 | [August \- Vacant](https://open.spotify.com/track/0f9mCjcefox0H8ucJkvSqa) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k) | [August \- Vacant](https://open.spotify.com/album/1b94gdhIXWmoj1RIwi3yXs) | 2:35 | 2019-08-30 | 2019-12-20 |
 | [auras](https://open.spotify.com/track/0c6yUkSXOx7GseW24IbS0V) | [digitalluc](https://open.spotify.com/artist/4WT5TNNUvgRLjAiWce3K5z) | [auras](https://open.spotify.com/album/5hVjFNVS0blgqbkSt5efzh) | 1:45 | 2020-02-01 | 2020-05-12 |
@@ -687,7 +687,7 @@
 | [Currents](https://open.spotify.com/track/1GSIehO11qXUnvCveqrwMX) | [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9), [goosetaf](https://open.spotify.com/artist/46NCqFl8vhQZD77y7XkvJs) | [Currents](https://open.spotify.com/album/7FYOOzLJ6eNKN4N61o7dLK) | 2:06 | 2020-03-13 | 2020-06-05 |
 | [Cute](https://open.spotify.com/track/55YsnzdFe3aoRRCTUZgpJF) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [Cute](https://open.spotify.com/album/2j7JbEPXDkjTSaJFh4J4BK) | 2:32 | 2019-05-26\* | 2019-08-13 |
 | [cuuurt](https://open.spotify.com/track/067IFuK8YLMVdi3LjgrZsr) | [Flughand](https://open.spotify.com/artist/6x5HLaMcoxaULXpgN0NJbb), [steichi](https://open.spotify.com/artist/6KjHEB4Dy7zHFoOMClXKQl) | [cuuurt](https://open.spotify.com/album/0xfcolcImNKNMAr7bUTse9) | 2:28 | 2021-06-01 | 2021-07-16 |
-| [Cyanea](https://open.spotify.com/track/5s4YGlFclQbrXwlbdeQNLU) | [Dentist](https://open.spotify.com/artist/53z9A5LmoNT72JhgxsMCLb) | [Cyanea](https://open.spotify.com/album/7B0J92Q3arDhnC5Vf3eRFh) | 1:55 | 2023-06-01 |  |
+| [Cyanea](https://open.spotify.com/track/5s4YGlFclQbrXwlbdeQNLU) | [Dentist](https://open.spotify.com/artist/53z9A5LmoNT72JhgxsMCLb) | [Cyanea](https://open.spotify.com/album/7B0J92Q3arDhnC5Vf3eRFh) | 1:55 | 2023-06-01 | 2023-07-24 |
 | [cycles](https://open.spotify.com/track/5qWtEiW3RdcnP1MFmObsYH) | [L.Dre](https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k) | [cycles](https://open.spotify.com/album/4qhlNGAtRLJ0hbMheZ8BvR) | 2:28 | 2021-07-09 | 2021-08-13 |
 | [Cypress](https://open.spotify.com/track/3oQPMwQ6eoAdfYmLSV54DW) | [Middle School](https://open.spotify.com/artist/6AjXxPL8C44rc1yJdi6RZB), [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [Chillhop Essentials Fall 2019](https://open.spotify.com/album/5rkRqokaqegqzawViUDpQT) | 3:30 | 2019-09-27 | 2020-03-04 |
 | [Cyprus Rain](https://open.spotify.com/track/4TvKpBIfYJEQH02nAknQEh) | [Butter](https://open.spotify.com/artist/2K113zxCwp0w4JrGBlbMHj) | [Drive Slow](https://open.spotify.com/album/3xyRycYwthOnMm3DqJge5k) | 1:48 | 2022-11-03 | 2023-07-14 |
@@ -3009,6 +3009,7 @@
 | [swag on](https://open.spotify.com/track/2S36OuK8PYZkkLkled3GAd) | [Kazam](https://open.spotify.com/artist/5DjLsaAyJZ1jFz1azbJ0ha) | [swag on](https://open.spotify.com/album/4H1qSzq3XjPpht57ZtxsDL) | 2:19 | 2019-05-26\* | 2019-06-15 |
 | [Swan Of '82](https://open.spotify.com/track/0jKvGPVPznSL6d65oXZjbO) | [sumishii](https://open.spotify.com/artist/7eXNSXnJu1Az7K9PxADwwq) | [Swan Of '82](https://open.spotify.com/album/6AmE097uJyQa8k4fiWgMrK) | 1:49 | 2020-09-18 | 2020-12-18 |
 | [sway](https://open.spotify.com/track/0J9JGXgFQw3sC9S3sgL6Tv) | [BROCKBEATS](https://open.spotify.com/artist/0DrshpbzI0ItncVhYZ2BtW) | [sway / on the wave](https://open.spotify.com/album/1o7DpE1ceztgnSaRQfkGzo) | 2:28 | 2019-05-26\* | 2019-09-17 |
+| [Sway](https://open.spotify.com/track/75sZBm6xeoNEOewWjk8yCB) | [Ganzo](https://open.spotify.com/artist/2eZYqViRzYxEWVhIRvL5g8) | [Sway](https://open.spotify.com/album/3v1t6eYKqogshn2hVZ1uI3) | 2:24 | 2023-07-13 |  |
 | [sweating along](https://open.spotify.com/track/03LHGwm3w938nv2Vu06SPe) | [Bassti](https://open.spotify.com/artist/0tFVT92PBHTTLoKmS8WbFP), [Nalim](https://open.spotify.com/artist/4jCcTzbBzXz7vIGVilN52F) | [sweating along](https://open.spotify.com/album/0PIEzirhnoUkmdtDhhicSJ) | 2:19 | 2020-04-10 | 2020-06-12 |
 | [Sweep](https://open.spotify.com/track/1OMPl6TsG6jHl3eojT27wY) | [Sammy TQ](https://open.spotify.com/artist/1IPB8PvMnq9bTmBY58Qsrl) | [Sweep](https://open.spotify.com/album/31qdhQ3rFy80zGmRbML04Z) | 2:56 | 2022-03-04 | 2022-04-29 |
 | [Sweet And Sour](https://open.spotify.com/track/1pOVUZj53BISvRtOME19Gw) | [Uli Tiro](https://open.spotify.com/artist/0330hhfjAyvYe2YFcVaD4t), [MALIWA](https://open.spotify.com/artist/0u3T2vPkvzAH861FkJtS2I), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Sweet And Sour](https://open.spotify.com/album/2ReChmGQuFGegE2vaqRw9o) | 1:53 | 2023-06-01 |  |
@@ -3131,7 +3132,7 @@
 | [The Trail](https://open.spotify.com/track/3BnXclvUwcS7iKV0iSR1zv) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [The Trail](https://open.spotify.com/album/6nzJLUQCXfcGDQOlEqkArE) | 2:03 | 2022-04-21 |  |
 | [THE VIEW](https://open.spotify.com/track/5OSy0Rmn2xKNDGR32GgAnV) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs), [Miles Singleton](https://open.spotify.com/artist/6D2oQFsBu917I9n3KhVXNM) | [GISEKE](https://open.spotify.com/album/697BmXjyTQ2M8bi7jGrova) | 2:10 | 2021-08-25 | 2021-10-08 |
 | [The Watcher](https://open.spotify.com/track/7w8nwOG04fyJ1rzrlOppIJ) | [Ganzo](https://open.spotify.com/artist/2eZYqViRzYxEWVhIRvL5g8) | [The Watcher](https://open.spotify.com/album/75RvHKUJoQIH3N0SBbBZ0U) | 2:21 | 2021-12-12 | 2022-01-14 |
-| [The Window](https://open.spotify.com/track/5ytrNTP8dqIYdresL6ktrq) | [Basmati](https://open.spotify.com/artist/58B9CtFf40bkC9mgFnD96f) | [The Window](https://open.spotify.com/album/3LhghqvpRgYrBqJApGZvJh) | 2:44 | 2023-07-13 | 2023-07-16 |
+| [The Window](https://open.spotify.com/track/5ytrNTP8dqIYdresL6ktrq) | [Basmati](https://open.spotify.com/artist/58B9CtFf40bkC9mgFnD96f) | [The Window](https://open.spotify.com/album/3LhghqvpRgYrBqJApGZvJh) | 2:44 | 2023-07-13 |  |
 | [Them Sweet Waffles](https://open.spotify.com/track/4o6yYAExlEIfVHXMaA6k2j) | [Burrito Eats](https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT), [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh) | [Them Sweet Waffles](https://open.spotify.com/album/3447p9lXxAdafgzrwa96Ca) | 2:23 | 2022-08-04 | 2022-09-23 |
 | [Theme 3](https://open.spotify.com/track/3x7TTsk6FK4HRKzvucIPr3) | [Jazzy James](https://open.spotify.com/artist/4Bhy1qgJgnqzCNQ9dmx3MR), [Peter Thomas Sound Orchester](https://open.spotify.com/artist/2guRkkGBMKiboUZJr0NhZF), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Theme 3](https://open.spotify.com/album/1nrgvX69fLq9Rw8kBVk8DB) | 3:11 | 2023-06-01 | 2023-07-07 |
 | [Then Come In](https://open.spotify.com/track/6DGk8V4erA5sGMHOp0fXI5) | [Eddy Mugre](https://open.spotify.com/artist/4Jj53RUvud8LQYuM3cPh25), [POSTPARTUM.](https://open.spotify.com/artist/5GU48EOP3UriL7epL58iWH) | [Cocoa Sax / Then Come In](https://open.spotify.com/album/3zvL0mje1QWwhzViPQrXc5) | 3:38 | 2021-06-11 | 2021-08-06 |

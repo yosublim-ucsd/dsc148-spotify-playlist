@@ -772,7 +772,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-24",
       "duration_ms": 400680,
       "name": "Catalyst - Remastered",
       "url": "https://open.spotify.com/track/5SCCzPzozC2v2wqHev6M0M"
@@ -3811,6 +3811,24 @@
     },
     {
       "album": {
+        "name": "Bloom and Breathe",
+        "url": "https://open.spotify.com/album/0tDVIJZ1JbJpRSHf8IrW6f"
+      },
+      "artists": [
+        {
+          "name": "Gates",
+          "url": "https://open.spotify.com/artist/1R9C48jnKgFN93otwSYnd6"
+        }
+      ],
+      "date_added": "2023-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355560,
+      "name": "Not My Blood",
+      "url": "https://open.spotify.com/track/1gQ8DBHjMhWNMOeykRDjix"
+    },
+    {
+      "album": {
         "name": "Catch Without Arms",
         "url": "https://open.spotify.com/album/1csjcf2pCTJiKFdYgVgmA9"
       },
@@ -4549,6 +4567,24 @@
     },
     {
       "album": {
+        "name": "Dazed",
+        "url": "https://open.spotify.com/album/5OMhpOEVJ9kXp2ayrCFMLK"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "date_added": "2023-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247640,
+      "name": "Slide Away",
+      "url": "https://open.spotify.com/track/1hhkgFC178vWe1xBS23tj9"
+    },
+    {
+      "album": {
         "name": "Smiles All Round",
         "url": "https://open.spotify.com/album/0WNSf4eDakhxOWXO9LlV0y"
       },
@@ -4848,7 +4884,7 @@
       ],
       "date_added": "2023-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-24",
       "duration_ms": 248426,
       "name": "Stained Silver",
       "url": "https://open.spotify.com/track/6WnG5MU8GbAiQVFnXZQorG"
@@ -4902,7 +4938,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-30",
+      "date_removed": null,
       "duration_ms": 173458,
       "name": "Stuck In A Loop",
       "url": "https://open.spotify.com/track/4jjavTdo58RR0CEzTa2TjJ"
@@ -5568,7 +5604,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-24",
       "duration_ms": 353582,
       "name": "Trans Am Sunday",
       "url": "https://open.spotify.com/track/72pKKGbVrb8tk0jpf1OCsF"

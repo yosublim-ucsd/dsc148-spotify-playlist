@@ -17286,7 +17286,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-24",
       "duration_ms": 139019,
       "name": "L'amour - Spotify Singles",
       "url": "https://open.spotify.com/track/4nL8XR8Q353qWRfa23Aqqw"
@@ -27846,6 +27846,28 @@
       "duration_ms": 146750,
       "name": "Pour le pire - Radio edit",
       "url": "https://open.spotify.com/track/1Wi1mITr79mUl0NuxSh3vU"
+    },
+    {
+      "album": {
+        "name": "Pour nous",
+        "url": "https://open.spotify.com/album/51rumLSZOQswEty93fSey3"
+      },
+      "artists": [
+        {
+          "name": "Imen Es",
+          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
+        },
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167251,
+      "name": "Pour nous",
+      "url": "https://open.spotify.com/track/406vkcaidoH3fKPfdytL6Y"
     },
     {
       "album": {

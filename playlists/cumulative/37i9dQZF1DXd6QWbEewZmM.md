@@ -4,7 +4,7 @@
 
 > \#SadCuhHour gems 🥀🥹
 
-359 songs - 20 hr 29 min
+360 songs - 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,7 +317,7 @@
 | [Te Vas](https://open.spotify.com/track/3Ma4TCNOyyRdH8LanPHygk) | [Maxima Velocidad ENT](https://open.spotify.com/artist/2ROLPTXE7kcrxRqsjQZIPT), [XODERICK](https://open.spotify.com/artist/6p4uhW3K5NmxiGswulf8PG) | [Vibezzz, Vol\. 2](https://open.spotify.com/album/6Lv98eedMbicF9BTyAQJaB) | 3:17 | 2022-07-22 | 2022-09-24 |
 | [Te Vas A Recordar](https://open.spotify.com/track/7uEruRFEeMn57hrmZhA4w5) | [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [Te Vas A Recordar](https://open.spotify.com/album/1toqZv5ko57peyVVpYJFvo) | 2:34 | 2022-02-04 |  |
 | [Te Voy a Olvidar](https://open.spotify.com/track/2tsj8yvl0Di3DVyPjLye6S) | [Ariel Camacho](https://open.spotify.com/artist/5s31VTVh96lZBPphv51mIH) | [Las Mas Pedidas](https://open.spotify.com/album/5gV4kuUy0Wv9N4XQ3QzhOA) | 2:53 | 2022-10-14 | 2022-10-19 |
-| [Te Voy a Olvidar \- En Vivo Desde Culican 2013](https://open.spotify.com/track/5fedAEelUOnWUd9URBVhbl) | [Ariel Camacho](https://open.spotify.com/artist/5s31VTVh96lZBPphv51mIH) | [Las Preferidas, Vol\. 1](https://open.spotify.com/album/2BoP3cmbcNHpQnpBgcSgmm) | 2:54 | 2022-10-14 |  |
+| [Te Voy a Olvidar \- En Vivo Desde Culican 2013](https://open.spotify.com/track/5fedAEelUOnWUd9URBVhbl) | [Ariel Camacho](https://open.spotify.com/artist/5s31VTVh96lZBPphv51mIH) | [Las Preferidas, Vol\. 1](https://open.spotify.com/album/2BoP3cmbcNHpQnpBgcSgmm) | 2:54 | 2022-10-14 | 2023-07-24 |
 | [Tengo Que Olvidarla](https://open.spotify.com/track/5tVsT5NHj96fBlJksV7CpE) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Underground](https://open.spotify.com/album/3E55ZUsGx7KneVnbiXyoA4) | 2:46 | 2022-01-01 | 2022-07-19 |
 | [Tiempo](https://open.spotify.com/track/4hupfKQFsQuj55bMNMbk4r) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [Alejandroo](https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ) | [Tiempo](https://open.spotify.com/album/0YK6koGYXva8aceQpman6H) | 2:21 | 2022-01-01 |  |
 | [Tierra de los Olvidados](https://open.spotify.com/track/3njxvE2qVZ1XbsxYD1SMXE) | [Christian Velazquez](https://open.spotify.com/artist/3cvTVJdxaeTGsf32wurofE) | [Tierra de los Olvidados](https://open.spotify.com/album/1ugetVSwBfY4F2QfvUW8ZY) | 3:50 | 2023-05-26 | 2023-06-10 |
@@ -355,6 +355,7 @@
 | [Vámonos](https://open.spotify.com/track/1j28oMz59dlJCFQLtDYnfj) | [Alfredo Manzo](https://open.spotify.com/artist/2bLVfd7SyWSloS4isXMazU) | [Vámonos](https://open.spotify.com/album/1ghQDPEyBjfCds0vskvKZA) | 2:55 | 2023-02-24 | 2023-04-15 |
 | [XXXXX](https://open.spotify.com/track/6a722MT4feZC2A1ZRVjDI0) | [El Proyecto](https://open.spotify.com/artist/5tm5SxkL3KMVzl9XQvr5Ai) | [CRISIS](https://open.spotify.com/album/4pVG8E79smfV0m2S1KUTGX) | 2:42 | 2022-09-23 | 2022-10-15 |
 | [Y Cambió Mi Suerte](https://open.spotify.com/track/2OBX8tIXkbnRG82Hdm7OmT) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Y Cambió Mi Suerte](https://open.spotify.com/album/7AhZ4dvdeMlKnVgfsVIEHC) | 3:05 | 2022-01-01 | 2023-07-22 |
+| [Y Cambió Mi Suerte](https://open.spotify.com/track/6O66RxXRZOfQSpgLEo65GO) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Y Cambió Mi Suerte](https://open.spotify.com/album/3CQHB0ViD8q0O385StFTq2) | 3:05 | 2023-06-09 |  |
 | [Ya Acabo](https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [DEV, Vol\. 2](https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU) | 3:09 | 2022-01-01 |  |
 | [Ya No Puedo](https://open.spotify.com/track/4d9aNnhP67nti6DyOOjRP0) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc), [Miguelito](https://open.spotify.com/artist/2ZGU4pX3bRp1JPLi2m2Noq) | [Escribiéndote Letras](https://open.spotify.com/album/4rHTnLVRylw6Vgt7SlEDv0) | 6:07 | 2022-01-01 | 2022-07-29 |
 | [Ya No Quiero](https://open.spotify.com/track/6ftypMzhY6uRLp7Fk4IoXv) | [Nivel Codiciado](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Ya No Quiero](https://open.spotify.com/album/0gvd3EdcW8t9gZsVFlEe8Q) | 3:25 | 2022-01-01 | 2023-01-21 |

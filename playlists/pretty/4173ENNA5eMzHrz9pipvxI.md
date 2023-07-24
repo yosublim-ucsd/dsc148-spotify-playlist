@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Deorro x Stafford Brothers
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 121,398 likes - 40 songs - 1 hr 52 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 121,416 likes - 40 songs - 1 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 6 | [Cantus](https://open.spotify.com/track/0Vkf87nNUU5wJPKtpTYt4n) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22) | [Cantus](https://open.spotify.com/album/4EpXHxtJQBHKPK17PSyaAF) | 3:04 |
 | 7 | [Sky Is The Limit](https://open.spotify.com/track/3ZEbf0BAkXXZefJqEIbzrY) | [Martin Badder](https://open.spotify.com/artist/6YDB8EqiwJvkIzXUtYgpA8) | [Sky Is The Limit](https://open.spotify.com/album/1OfMZBCDFgCVkYCOak41be) | 3:06 |
 | 8 | [You Do](https://open.spotify.com/track/3w5icXq5sD6OqSXTMJH8v9) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6) | [You Do](https://open.spotify.com/album/37UuuBfGL1b06mmEpeLyrl) | 2:29 |
-| 9 | [All Night](https://open.spotify.com/track/2I9yA091lIXABCInxNs58Z) | [Robbie Mendez](https://open.spotify.com/artist/1CEqpjEq6n8O8zte6YvOTM), [Lucles](https://open.spotify.com/artist/1MY4qvzTbed3hyseWVdwOa) | [All Night](https://open.spotify.com/album/24itoj0Xfz4utQjm6SuUJd) | 3:20 |
+| 9 | [All Night](https://open.spotify.com/track/2I9yA091lIXABCInxNs58Z) | [Robbie Mendez](https://open.spotify.com/artist/1CEqpjEq6n8O8zte6YvOTM), [Lucles](https://open.spotify.com/artist/1MY4qvzTbed3hyseWVdwOa) | [All Night](https://open.spotify.com/album/24itoj0Xfz4utQjm6SuUJd) | 2:22 |
 | 10 | [Do The Talk](https://open.spotify.com/track/0P5upD4YarWz0T1vAn9vxr) | [Galoski](https://open.spotify.com/artist/19gU7Hvep0G37JeiLf3TNB) | [Do The Talk](https://open.spotify.com/album/5hj3Obheg7trFQt9UUKRHo) | 2:58 |
 | 11 | [Can We Go Back \(feat\. The Frontier\)](https://open.spotify.com/track/1PsVhQhr4OAgM6tQuG9CsC) | [Jetlag Music](https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh), [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI), [Maffei](https://open.spotify.com/artist/7xVbDhHFS3g0C1XbI5raYF), [The Frontier](https://open.spotify.com/artist/0JwymukVmFtZeyMWWfzwrV) | [Can We Go Back \(feat\. The Frontier\)](https://open.spotify.com/album/21xiIbXv9TtedVEwyU5f5F) | 3:00 |
 | 12 | [Underground](https://open.spotify.com/track/4LGm8vygHnOdvoATybWmaW) | [Ship Wrek](https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif) | [Underground](https://open.spotify.com/album/3xjnO30PBWtbz6CuaMn3gg) | 3:41 |

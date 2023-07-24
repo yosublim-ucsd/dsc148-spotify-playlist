@@ -4,7 +4,7 @@
 
 > Ride the bassline\. Cover: Nostalgix
 
-535 songs - 1 day 5 hr 38 min
+536 songs - 1 day 5 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [CRY](https://open.spotify.com/track/1xeOJfKycH2GR5UDwDNjzu) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi) | [CRY](https://open.spotify.com/album/3VzskMtVDfE6uU1JAci7Ct) | 2:28 | 2022-03-11 | 2022-04-29 |
 | [Dance 2 The Beat](https://open.spotify.com/track/3sP5Qa52HgEZUpbJtNJKs0) | [HeyMcFly!](https://open.spotify.com/artist/65lYK1dU8mQjVthSTNtJS2) | [Dance 2 The Beat](https://open.spotify.com/album/6qwyUm3xT0G3C0acI1jlPY) | 3:36 | 2022-07-08 | 2022-08-06 |
 | [Dani Girl](https://open.spotify.com/track/5DgCDCuuevkqBmyFMjhbUc) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [Dani Girl](https://open.spotify.com/album/5DwZ3AojZ1hZoKPyXzADYa) | 3:54 | 2022-02-25 | 2022-07-16 |
+| [Dark & Danger](https://open.spotify.com/track/5sx06tqV0g8C8jZiyTCSJx) | [One True God](https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp), [The Tech Thieves](https://open.spotify.com/artist/06bun5reMRmLxFCbcB6UHW) | [Dark & Danger](https://open.spotify.com/album/52on97V2vFf9FfCGziCmox) | 2:43 | 2023-07-21 |  |
 | [Deep Inside Of Me](https://open.spotify.com/track/7j5eg5Mb7n5iapdqY1T74A) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Deep Inside Of Me](https://open.spotify.com/album/5RVbXqlePWY6CrEIWnGpUX) | 3:01 | 2022-07-29 | 2022-08-27 |
 | [Deja Reve](https://open.spotify.com/track/1nkpXkr1Qacmp2BPd6mgct) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Deja Reve](https://open.spotify.com/album/1hKAyeVJEnIJWZtKOkhnsu) | 2:48 | 2022-03-25 | 2022-07-16 |
 | [Desire](https://open.spotify.com/track/4o9qh1t4OlY0CiuTNwhMiG) | [Capozzi](https://open.spotify.com/artist/1cNpMm9NSchdIe9RdGA1MC), [Blush](https://open.spotify.com/artist/0kM8578RqYDhRJMOHVMt06) | [Desire](https://open.spotify.com/album/5s21XVqI0I31porPGWJ97T) | 3:27 | 2023-06-23 | 2023-07-15 |
@@ -378,7 +379,7 @@
 | [Play It Cool](https://open.spotify.com/track/4Uhgyf8VL7qfcSmZf6tpc5) | [TWINNS](https://open.spotify.com/artist/77vbRLApUtIjEvFLDdL7dg) | [Play It Cool](https://open.spotify.com/album/2pRWNnWyBn07lBcIersFhK) | 2:33 | 2023-06-23 |  |
 | [Polite \(feat\. Malokyo\)](https://open.spotify.com/track/0ymIxPq8P10uANAKQVCwCp) | [Return Of The Jaded](https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS), [Malokyo](https://open.spotify.com/artist/3xLrKqOIgw2kuEdaB1eWs6) | [Polite \(feat\. Malokyo\)](https://open.spotify.com/album/5rLswFt7tvu4Zh4rq2Yndt) | 3:19 | 2022-01-28 | 2022-05-07 |
 | [Pop Like](https://open.spotify.com/track/6lG6sIWzNkntKpBSBxat4V) | [KARBON](https://open.spotify.com/artist/3KQWdNzEwAMedviqUBAodQ) | [6am EP](https://open.spotify.com/album/5gllxDkktUWrcUZK0ORhmh) | 3:31 | 2022-12-16 | 2023-03-02 |
-| [Post\-Rave Heist](https://open.spotify.com/track/7fvxVumQ30aRR1RDmkiuI6) | [EDDIE](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd), [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc) | [Post\-Rave Heist](https://open.spotify.com/album/30HXtVrHxww4WwnRgHQf5m) | 3:12 | 2023-02-24 |  |
+| [Post\-Rave Heist](https://open.spotify.com/track/7fvxVumQ30aRR1RDmkiuI6) | [EDDIE](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd), [LŪN](https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc) | [Post\-Rave Heist](https://open.spotify.com/album/30HXtVrHxww4WwnRgHQf5m) | 3:12 | 2023-02-24 | 2023-07-24 |
 | [Prayers](https://open.spotify.com/track/32AM51AZPlQ7NqpuGqK4rP) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [Wasiu](https://open.spotify.com/artist/5U1eJDpMKZiQustw16e0g2) | [Prayers](https://open.spotify.com/album/1l5hWqjF2bmh6NgduCsMwj) | 3:20 | 2022-01-14 | 2022-01-29 |
 | [Psychedelic Girls](https://open.spotify.com/track/3ekMDfXCRTwlXXtfxwA0jP) | [Disfreq](https://open.spotify.com/artist/2r6S8dhE6TLxyYJndSd345) | [Psychedelic Girls](https://open.spotify.com/album/0kjg5HYPH9fM4gwTWTOaWD) | 2:52 | 2022-11-25 | 2023-04-02 |
 | [Pullin Up](https://open.spotify.com/track/75Q1p8Sm2xZiTaZLFkKWWL) | [Dave Summit](https://open.spotify.com/artist/75FwhSvdHTkLKe5pLaPEQq) | [Pullin Up](https://open.spotify.com/album/1K1Ijtex4R7JxPpRpJqOJn) | 3:05 | 2022-05-13 | 2022-08-20 |

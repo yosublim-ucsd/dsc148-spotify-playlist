@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: 水曜日のカンパネラ
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,376 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,414 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 49 | [Motto](https://open.spotify.com/track/1Y6YzmcAplb3PJVql7vHd4) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [May Dream](https://open.spotify.com/album/5b4Ch2PIXd1p3ve5CT1nYk) | 4:50 |
 | 50 | [kyou Izonshite](https://open.spotify.com/track/7rZisqzXQlYYfBZcU4iRj8) | [AVAM](https://open.spotify.com/artist/6QYNfAOyqSzJ06hoKdfWLe) | [Boku no Sekai ha Ao de Somatteiku](https://open.spotify.com/album/0gAHEksPGmsx8eqGutJKSO) | 3:26 |
 
-Snapshot ID: `MCwzYTkzZTFjYzhiYjRiZjJjNzZhZTg0YmY3ODUyN2E1MzQyYjc5ZmU5`
+Snapshot ID: `MCxmYzI3YjNkZDIyNWQ5ZGU4NDk4ZDhlNTgwZWFlYmRlN2VlZWEwZGQ5`

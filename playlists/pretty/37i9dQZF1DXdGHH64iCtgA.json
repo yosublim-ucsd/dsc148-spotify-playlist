@@ -1,12 +1,12 @@
 {
   "description": "Strut to electronic tracks that grace runways in Paris, New York City and Milan.",
-  "num_followers": 64405,
+  "num_followers": 64428,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjU4YTEwYzllOWZkODBlYjljOGFkMzhlYmJkM2E1MGYyODE5M2Vj",
+  "snapshot_id": "MCw0YmIwNDk4NDYxNzYzYTc5OWRlM2M2ZjBjMDQwMmI5ZDEyYjU2Mzhj",
   "tracks": [
     {
       "added_at": "2023-07-07 04:00:00",
@@ -423,22 +423,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Caution",
-        "url": "https://open.spotify.com/album/4JOlhEazXmlErhrnmABjYZ"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        }
-      ],
-      "duration_ms": 155758,
-      "name": "Caution",
-      "url": "https://open.spotify.com/track/2mykLbf6YfpFmZwUWowZv3"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "Controller",
         "url": "https://open.spotify.com/album/4oZmVz6iGZzIjNMCkEITht"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 208460,
       "name": "Controller",
       "url": "https://open.spotify.com/track/7vHlOaJF7lfWOfProxfCot"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Caution",
+        "url": "https://open.spotify.com/album/4JOlhEazXmlErhrnmABjYZ"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 155758,
+      "name": "Caution",
+      "url": "https://open.spotify.com/track/2mykLbf6YfpFmZwUWowZv3"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -471,22 +471,6 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "Hyperborea (Deluxe Version / Remastered 2020)",
-        "url": "https://open.spotify.com/album/4Mft3FkYzPHdWTmRW0yS1U"
-      },
-      "artists": [
-        {
-          "name": "Tangerine Dream",
-          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
-        }
-      ],
-      "duration_ms": 239238,
-      "name": "Love On A Real Train - From 'Risky Business' Original Motion Picture Soundtrack",
-      "url": "https://open.spotify.com/track/0DYCw5AZIX3S11QQUiPiqN"
-    },
-    {
-      "added_at": "2023-07-07 04:00:00",
-      "album": {
         "name": "LOOK AT ME RIGHT NOW",
         "url": "https://open.spotify.com/album/2nJ18bOFgFIwKOkNryaJrn"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 128358,
       "name": "LOOK AT ME RIGHT NOW",
       "url": "https://open.spotify.com/track/74b8ZwgaV6wEokRZt8eWkG"
+    },
+    {
+      "added_at": "2023-07-07 04:00:00",
+      "album": {
+        "name": "Hyperborea (Deluxe Version / Remastered 2020)",
+        "url": "https://open.spotify.com/album/4Mft3FkYzPHdWTmRW0yS1U"
+      },
+      "artists": [
+        {
+          "name": "Tangerine Dream",
+          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
+        }
+      ],
+      "duration_ms": 239238,
+      "name": "Love On A Real Train - From 'Risky Business' Original Motion Picture Soundtrack",
+      "url": "https://open.spotify.com/track/0DYCw5AZIX3S11QQUiPiqN"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -1775,18 +1775,26 @@
     {
       "added_at": "2023-07-07 04:00:00",
       "album": {
-        "name": "DIAMOND TAPE",
-        "url": "https://open.spotify.com/album/5LxQdOjqtNNq8CLLC4cS5P"
+        "name": "Blessed / Cleopatra Remixes",
+        "url": "https://open.spotify.com/album/5CgPI0nQzecD4IeCx6tEVg"
       },
       "artists": [
         {
-          "name": "Devault",
-          "url": "https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL"
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "The Martinez Brothers",
+          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+        },
+        {
+          "name": "Virgil Abloh",
+          "url": "https://open.spotify.com/artist/6zKRU70JFcCQtP3vKV4ANm"
         }
       ],
-      "duration_ms": 246101,
-      "name": "3AM IN CHELSEA",
-      "url": "https://open.spotify.com/track/78Y0MDNQJea7OsrUpcatF2"
+      "duration_ms": 398664,
+      "name": "Blessed - Virgil Abloh Future-Jazz Remix",
+      "url": "https://open.spotify.com/track/0n5lyd7CH2765y89ayEwHN"
     }
   ],
   "unique_name": "Runway",

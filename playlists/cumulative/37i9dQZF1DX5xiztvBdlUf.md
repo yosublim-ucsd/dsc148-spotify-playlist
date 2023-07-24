@@ -4,7 +4,7 @@
 
 > Deep House in all its shapes and colours.
 
-340 songs - 1 day 7 hr 57 min
+341 songs - 1 day 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Auriol \- Bondi Remix](https://open.spotify.com/track/5otyAwp1rylIyQOFjkPFnZ) | [T.M.A](https://open.spotify.com/artist/2byiSAqYCxVFaUmm0KxiIe), [Bondi](https://open.spotify.com/artist/0ZPxafqcgMv07OtNWFapKk) | [Auriol \(Bondi Remix\)](https://open.spotify.com/album/5HN2RJ0aquwMYhkk1rVjia) | 7:06 | 2021-11-26 | 2022-04-20 |
 | [Azure](https://open.spotify.com/track/50uP3LQRrc7Sv2NSrYYlON) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Azure](https://open.spotify.com/album/4hWmiRig0GOIbfoDZUV6ar) | 2:41 | 2021-11-26 | 2022-07-25 |
 | [Baby Flute](https://open.spotify.com/track/3335q25uuuOxltjChRUxSx) | [Vladimir Cauchemar](https://open.spotify.com/artist/2V5xArcB3BGAHmwsK46tyU) | [Baby Flute](https://open.spotify.com/album/4BBdOydRsJSZjZ1dRUQHR4) | 2:31 | 2022-06-24 | 2022-10-01 |
+| [Back to the Days](https://open.spotify.com/track/7DtMXfDUpgXx9PjZrPLaNh) | [El Mukuka](https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd), [Sebastien Dutch](https://open.spotify.com/artist/3DhrN38YbHljOGNxVfWNLI), [Abel Chungu Musuka](https://open.spotify.com/artist/49LXAemdmdSqQ6yCo3UNlt) | [ZEBRA](https://open.spotify.com/album/1KX6XM1mCfO4sEj3qli3JJ) | 3:34 | 2023-06-30 |  |
 | [Bakaval](https://open.spotify.com/track/1LMTieioqpptv3VmvtLc1A) | [Aquarius Heaven](https://open.spotify.com/artist/0lAjFl20uNiFMWafrHRxea) | [Don't Back Down](https://open.spotify.com/album/5dhbt3FsdrW5wPwSinWJtj) | 6:56 | 2021-11-26 | 2022-04-16 |
 | [Bala](https://open.spotify.com/track/6GXMhdGDKvheXLVZHPkNO0) | [Prismode](https://open.spotify.com/artist/58kYFWtUBY05pp6TmlKOiH), [Solvane](https://open.spotify.com/artist/3bOQBNZv9K0NMW4WudrKb0), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [Bala](https://open.spotify.com/album/21TPmAcPygMrtin1HVkSod) | 4:18 | 2021-11-26 | 2022-07-25 |
 | [Basic Juno](https://open.spotify.com/track/1hgWPFzfyUuKPSieELghgg) | [Ian Pooley](https://open.spotify.com/artist/1m4GViPjIy4T8Pd0Iz6hRS) | [Studio A Pt.1](https://open.spotify.com/album/09lUmMUXdwkYhizeDg2NpO) | 6:07 | 2021-11-26 | 2023-04-16 |
@@ -87,7 +88,7 @@
 | [Designer Love \- Short Version](https://open.spotify.com/track/5NfgFRdfNQ4HFVPGRoVMU6) | [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ) | [Designer Love](https://open.spotify.com/album/6OK84B4MX87uzZ7umm25f3) | 4:20 | 2021-11-26 |  |
 | [Deía \- AVEM Remix](https://open.spotify.com/track/4pgBB90REWf829lym8RE6N) | [Mira \(Berlin\)](https://open.spotify.com/artist/6p31dmLI4jnatyEQmrVPDc), [Christopher Schwarzwälder](https://open.spotify.com/artist/11i3tISGuOUmWFuXTRNrtD), [AVEM](https://open.spotify.com/artist/7xu4DQ5wfoGi4koqPFfXAe) | [Deía Remixes](https://open.spotify.com/album/4kCjJCTbwQiHDIjSIZpFtv) | 6:54 | 2021-11-26 | 2023-05-25 |
 | [Differences](https://open.spotify.com/track/7pAcSh8OXgAVAWT7VdqUDs) | [Kalyma](https://open.spotify.com/artist/08Qus19mV9XncqLz2bL6eo) | [Differences](https://open.spotify.com/album/6y08yLAEY6TKovLXFMJKIK) | 6:09 | 2022-01-14 | 2022-07-13 |
-| [Dig Deep](https://open.spotify.com/track/35vMyIh6E7NZ50YtYb2Kxc) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [WAIRUNGA](https://open.spotify.com/album/4MAhJnzuVI9wuq16A2Jidk) | 10:30 | 2021-11-26 |  |
+| [Dig Deep](https://open.spotify.com/track/35vMyIh6E7NZ50YtYb2Kxc) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS) | [WAIRUNGA](https://open.spotify.com/album/4MAhJnzuVI9wuq16A2Jidk) | 10:30 | 2021-11-26 | 2023-07-24 |
 | [Dilemma](https://open.spotify.com/track/1BTExvMirjnjdYDND60zjV) | [Modeplex](https://open.spotify.com/artist/1NnerRuA7QMi4ILFMoQsaU) | [Phantom Nova / Dilemma](https://open.spotify.com/album/4vPQGnb9suKVKSG6gqsbVQ) | 4:58 | 2022-02-18 | 2022-04-15 |
 | [Disappear \- Short Edit](https://open.spotify.com/track/0dEjDFIY7aLwNj2DAcy98s) | [Yulia Niko](https://open.spotify.com/artist/3RUNl0j2ISAQdC2Fxhj2q3), [Mery Kilic](https://open.spotify.com/artist/2Vlx9Gl4A2rI2fjEe97PR5) | [Disappear](https://open.spotify.com/album/3M8am3fJKzNubjgDktouA5) | 4:36 | 2021-11-26 | 2022-07-28 |
 | [Disco Voador \- Oliver Koletzki Remix](https://open.spotify.com/track/2EjIqupvKOa71EF7MzJPNx) | [Xique\-Xique](https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp), [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR) | [Disco Voador \(Oliver Koletzki Remix\)](https://open.spotify.com/album/1WiwLf8ecO1vO41xkWV9OL) | 6:21 | 2022-09-30 | 2022-12-08 |

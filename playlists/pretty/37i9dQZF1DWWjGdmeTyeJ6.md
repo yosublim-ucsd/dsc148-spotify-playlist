@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Cover: ARIA VEGA\. Artwork by Isu Kim\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,158,819 likes - 56 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,158,806 likes - 56 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,33 +36,33 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 26 | [Plastic Ring](https://open.spotify.com/track/2YprJIzgd5mrlHrX57kOvO) | [Emelie Trahan](https://open.spotify.com/artist/26ZYSsr8RPofalTXPh4yyq) | [Plastic Ring](https://open.spotify.com/album/7H753DfuLX1FmbALEsllU9) | 3:46 |
 | 27 | [HANGING WITH YOU](https://open.spotify.com/track/2Fj4zjw9tV9NY1wWq0bAKN) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [HANGING WITH YOU](https://open.spotify.com/album/5HDraXX5eNcpYzNcyVyykH) | 3:50 |
 | 28 | [Been Missing You](https://open.spotify.com/track/5MqDjpqTN0SilCStaEPqlj) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT) | [Phases](https://open.spotify.com/album/2ZjmoWEahVtrvcHECaxqTk) | 3:03 |
-| 29 | [Flexin](https://open.spotify.com/track/1JgDsJQGG9ZPdZaL8Y0Afb) | [Aida Lae](https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc) | [Flexin](https://open.spotify.com/album/3rOki3JLECyVDkCn6o7XMX) | 2:55 |
-| 30 | [Your The One](https://open.spotify.com/track/5rzB3KJ2v3Br3XKjQPArxG) | [TAAYLEE G](https://open.spotify.com/artist/3UL3HL2fv69tDavqXTwDhM) | [Waiting To Exhale](https://open.spotify.com/album/66p0Gpgv4Tz6psDCNZputd) | 2:41 |
+| 29 | [Kids Driving The Elevator](https://open.spotify.com/track/2pzPC40SA14bElnW9tqgoI) | [Micah Preite](https://open.spotify.com/artist/2jx7boBXTsMt8NvBRH4gYg) | [Kids Driving The Elevator](https://open.spotify.com/album/11q7OSad2MdkC3eh2kEZlO) | 3:01 |
+| 30 | [Flexin](https://open.spotify.com/track/1JgDsJQGG9ZPdZaL8Y0Afb) | [Aida Lae](https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc) | [Flexin](https://open.spotify.com/album/3rOki3JLECyVDkCn6o7XMX) | 2:55 |
 | 31 | [Settle For A Drink](https://open.spotify.com/track/1Fc2DYFDozcoHe5f3uw7U3) | [Shawn Austin](https://open.spotify.com/artist/72iCV78mmAfr5s4A5dhjYg) | [Dirt Roads Downtown](https://open.spotify.com/album/1CjIXqlMqW8Vb9082oKhyl) | 3:06 |
-| 32 | [Kids Driving The Elevator](https://open.spotify.com/track/2pzPC40SA14bElnW9tqgoI) | [Micah Preite](https://open.spotify.com/artist/2jx7boBXTsMt8NvBRH4gYg) | [Kids Driving The Elevator](https://open.spotify.com/album/11q7OSad2MdkC3eh2kEZlO) | 3:01 |
+| 32 | [Your The One](https://open.spotify.com/track/5rzB3KJ2v3Br3XKjQPArxG) | [TAAYLEE G](https://open.spotify.com/artist/3UL3HL2fv69tDavqXTwDhM) | [Waiting To Exhale](https://open.spotify.com/album/66p0Gpgv4Tz6psDCNZputd) | 2:41 |
 | 33 | [Underdogs](https://open.spotify.com/track/2DXCuZniSyeNnasWrcgtgj) | [His His](https://open.spotify.com/artist/2TMWd2oE1MAzSt4V10lnVO) | [Underdogs](https://open.spotify.com/album/1Ck8vQiQptvphCgMMVRJTj) | 3:01 |
 | 34 | [Dying In The City](https://open.spotify.com/track/1qL844cbmaVe7dlsWGq2i3) | [FRIDAY\*](https://open.spotify.com/artist/0blI5gUBCHXkvOYrJ8kRvk) | [Dying In The City](https://open.spotify.com/album/4naMqYADQer6dNkLn7dvOZ) | 2:34 |
 | 35 | [Dirk Gently \(Know Yourself\)](https://open.spotify.com/track/4IttRLtG3qw9qtVifGMpDj) | [JayWood](https://open.spotify.com/artist/4b9Dr3XFxT65mrPBFY6mqG) | [Dirk Gently \(Know Yourself\)](https://open.spotify.com/album/3ZK3LPzxfs76vIZDatrTAA) | 5:15 |
-| 36 | [Break Itself](https://open.spotify.com/track/2oz7E5CBbelWfZ9MxQZtO6) | [On The Outside](https://open.spotify.com/artist/13Li6fzmLzxxOzMEIRr0TN) | [Break Itself](https://open.spotify.com/album/0OLlFbAMpveR9vevPEWivq) | 2:36 |
-| 37 | [POPSTAR](https://open.spotify.com/track/1cv1fc7ROfBivIBXrTLpEj) | [Tac](https://open.spotify.com/artist/1IEcJewQlzlvd07P8wzG40) | [POPSTAR](https://open.spotify.com/album/4Vo7MdEU444vesnHfHWi4b) | 2:24 |
-| 38 | [cup!](https://open.spotify.com/track/4DuLxRMYMFmawBRM9ZTJeL) | [Cassie Marin](https://open.spotify.com/artist/1zrtALLG8cavle3fFQ0dFH) | [cup!](https://open.spotify.com/album/5gAQRdHjiDyojF1Er7FOwe) | 2:14 |
+| 36 | [cup!](https://open.spotify.com/track/4DuLxRMYMFmawBRM9ZTJeL) | [Cassie Marin](https://open.spotify.com/artist/1zrtALLG8cavle3fFQ0dFH) | [cup!](https://open.spotify.com/album/5gAQRdHjiDyojF1Er7FOwe) | 2:14 |
+| 37 | [Break Itself](https://open.spotify.com/track/2oz7E5CBbelWfZ9MxQZtO6) | [On The Outside](https://open.spotify.com/artist/13Li6fzmLzxxOzMEIRr0TN) | [Break Itself](https://open.spotify.com/album/0OLlFbAMpveR9vevPEWivq) | 2:36 |
+| 38 | [POPSTAR](https://open.spotify.com/track/1cv1fc7ROfBivIBXrTLpEj) | [Tac](https://open.spotify.com/artist/1IEcJewQlzlvd07P8wzG40) | [POPSTAR](https://open.spotify.com/album/4Vo7MdEU444vesnHfHWi4b) | 2:24 |
 | 39 | [Give In](https://open.spotify.com/track/25QnFnHnzY8xr61IQxVuw9) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [Give In](https://open.spotify.com/album/5d1sYgeRv77RXDHjMQA3nL) | 2:38 |
 | 40 | [Frandship Song](https://open.spotify.com/track/2o8eORg7cVQnJly8TWxqx3) | [Batty Jr.](https://open.spotify.com/artist/2VYqve4kXlLX4OCB2xypHY) | [Do A U E!](https://open.spotify.com/album/3zKB9tOgVPJvww8ASi86UP) | 1:55 |
 | 41 | [Connect](https://open.spotify.com/track/4tifnKy6Q0quNJJWR8WTOa) | [Vertigeux](https://open.spotify.com/artist/5IxQNpPGtK9EXaak32n1qo) | [Connect](https://open.spotify.com/album/1Q3CvSoiHD9TTE2dv6XjHK) | 5:20 |
 | 42 | [Red Neck Yaught Club](https://open.spotify.com/track/39KGtlVBMQueYRKrGEDLHX) | [Louisa Stancioff](https://open.spotify.com/artist/57bd2dcysq88J5fleUcS57) | [Red Neck Yaught Club](https://open.spotify.com/album/2cjhzkb743LHhIcyRFMIui) | 3:09 |
 | 43 | [one heart baby](https://open.spotify.com/track/1zE0h13gK1JpzyoH1VLkkr) | [Madge](https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo) | [ravepack](https://open.spotify.com/album/4iwZiSOwmoDqBZlN4e3NBd) | 2:57 |
 | 44 | [Rush](https://open.spotify.com/track/6Y1nNd6fuIFcbOvTYWhQ2K) | [Jay Pareil](https://open.spotify.com/artist/7bROBB1DkMVz52NoCTaIfc) | [Rush](https://open.spotify.com/album/0QnmkXaajsb3XkF3UtW7To) | 2:14 |
-| 45 | [anymore](https://open.spotify.com/track/3jWx8u8LTC4X0oB9tXGEdk) | [OC Saint](https://open.spotify.com/artist/1W80xMiJWGfGsymfrjCCLa) | [anymore](https://open.spotify.com/album/2MqtjWSDMmd1f2zQSdVk68) | 4:38 |
-| 46 | [never let you fall](https://open.spotify.com/track/7iMjGbFX8nQGQ496wVWZqt) | [incndscnt](https://open.spotify.com/artist/4371nTNSwkq5eho5b8QOFw), [Chemtrails](https://open.spotify.com/artist/4PJZd2eiajrwKMAnyM4c6A) | [never let you fall](https://open.spotify.com/album/2wyCAkvggcWRXkW5AMvw13) | 3:35 |
-| 47 | [Habits](https://open.spotify.com/track/42p0WZN8y8bqx29WXYA52U) | [Cal in Red](https://open.spotify.com/artist/3dXBDrVfLai40505fF4HH1) | [Habits](https://open.spotify.com/album/10OBztaOJGy5eDO5gOzfly) | 4:00 |
-| 48 | [Athene](https://open.spotify.com/track/02pXk68MbRpG26YFRxWzJh) | [The Velveteins](https://open.spotify.com/artist/1jUEqf1F3oW4JGoMfYxCvN) | [Athene](https://open.spotify.com/album/6pqA7APcsNeUqI7Nqj9Vde) | 3:21 |
-| 49 | [MENSAJE ARCHIVADO](https://open.spotify.com/track/5JppEkq4S617HpJYZ19euu) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF) | [MENSAJE ARCHIVADO](https://open.spotify.com/album/24X9sLIjfd2oGZPgLmwGWh) | 2:59 |
-| 50 | [Gently, Dreamer](https://open.spotify.com/track/0KA6ceIREcn5faI34kAkZa) | [Cayo Coco](https://open.spotify.com/artist/3MB3k9TH723vnvvLQXxeN3) | [Gently, Dreamer](https://open.spotify.com/album/2N14yYLWpAu8LYvH0H9Ooy) | 2:47 |
-| 51 | [Take My Heart](https://open.spotify.com/track/5dfWFfYDxKotlANr4jFaes) | [Florry](https://open.spotify.com/artist/5b1DzFl2lTpE9v5fjAZ9kn) | [Take My Heart](https://open.spotify.com/album/50vcz0ruVgrmxVAEdxD2vy) | 2:53 |
+| 45 | [Habits](https://open.spotify.com/track/42p0WZN8y8bqx29WXYA52U) | [Cal in Red](https://open.spotify.com/artist/3dXBDrVfLai40505fF4HH1) | [Habits](https://open.spotify.com/album/10OBztaOJGy5eDO5gOzfly) | 4:00 |
+| 46 | [anymore](https://open.spotify.com/track/3jWx8u8LTC4X0oB9tXGEdk) | [OC Saint](https://open.spotify.com/artist/1W80xMiJWGfGsymfrjCCLa) | [anymore](https://open.spotify.com/album/2MqtjWSDMmd1f2zQSdVk68) | 4:38 |
+| 47 | [never let you fall](https://open.spotify.com/track/7iMjGbFX8nQGQ496wVWZqt) | [incndscnt](https://open.spotify.com/artist/4371nTNSwkq5eho5b8QOFw), [Chemtrails](https://open.spotify.com/artist/4PJZd2eiajrwKMAnyM4c6A) | [never let you fall](https://open.spotify.com/album/2wyCAkvggcWRXkW5AMvw13) | 3:35 |
+| 48 | [Gently, Dreamer](https://open.spotify.com/track/0KA6ceIREcn5faI34kAkZa) | [Cayo Coco](https://open.spotify.com/artist/3MB3k9TH723vnvvLQXxeN3) | [Gently, Dreamer](https://open.spotify.com/album/2N14yYLWpAu8LYvH0H9Ooy) | 2:47 |
+| 49 | [Athene](https://open.spotify.com/track/02pXk68MbRpG26YFRxWzJh) | [The Velveteins](https://open.spotify.com/artist/1jUEqf1F3oW4JGoMfYxCvN) | [Athene](https://open.spotify.com/album/6pqA7APcsNeUqI7Nqj9Vde) | 3:21 |
+| 50 | [Take My Heart](https://open.spotify.com/track/5dfWFfYDxKotlANr4jFaes) | [Florry](https://open.spotify.com/artist/5b1DzFl2lTpE9v5fjAZ9kn) | [Take My Heart](https://open.spotify.com/album/50vcz0ruVgrmxVAEdxD2vy) | 2:53 |
+| 51 | [MENSAJE ARCHIVADO](https://open.spotify.com/track/5JppEkq4S617HpJYZ19euu) | [MAGNA](https://open.spotify.com/artist/3r7eiuLSmaw4jXeUG6NatF) | [MENSAJE ARCHIVADO](https://open.spotify.com/album/24X9sLIjfd2oGZPgLmwGWh) | 2:59 |
 | 52 | [Media Luna](https://open.spotify.com/track/7CGKC2OL5jBy33fKDH5u5f) | [ØMG](https://open.spotify.com/artist/4LJ2wv8SaZZe50hYvpubP8) | [333](https://open.spotify.com/album/4z6cXeCAxqXOFZRXHLIUmj) | 2:46 |
 | 53 | [Tenderness and Purity](https://open.spotify.com/track/3d7AppklPbBmKap2mBi6aM) | [The Purest Blue](https://open.spotify.com/artist/4gLOH9QcvymfFLcsiPuf7G) | [Tenderness and Purity](https://open.spotify.com/album/7saw3rJ7XbES6Iv2lGgk3q) | 2:08 |
 | 54 | [angel numbers](https://open.spotify.com/track/2m20gc2fNcai0gI1uU5YLV) | [MaZz](https://open.spotify.com/artist/107O5LIqkinsrUzpFr9gu7) | [angel numbers](https://open.spotify.com/album/3aZYhkmL0GXMeA3mVIGhkK) | 2:29 |
-| 55 | [Ode To T](https://open.spotify.com/track/21hzJoieDGFJtnelfEvWNF) | [Saint Precious](https://open.spotify.com/artist/7EtHe2rjA7F4wVXM1rxsy6) | [Ode To T](https://open.spotify.com/album/1KhPpYOXaFZbxRkDy1XExg) | 4:59 |
-| 56 | [Should Have Told You](https://open.spotify.com/track/6Sw0WowIGdmGfxNfI3hRkQ) | [Fourth Daughter](https://open.spotify.com/artist/39tnRWNqVYGhzm1SipX6cA) | [Should Have Told You](https://open.spotify.com/album/5l7eHoImCCEjYvJjxnU6HF) | 2:58 |
+| 55 | [Should Have Told You](https://open.spotify.com/track/6Sw0WowIGdmGfxNfI3hRkQ) | [Fourth Daughter](https://open.spotify.com/artist/39tnRWNqVYGhzm1SipX6cA) | [Should Have Told You](https://open.spotify.com/album/5l7eHoImCCEjYvJjxnU6HF) | 2:58 |
+| 56 | [Walk Away](https://open.spotify.com/track/72SxbJ4G1EZvVwQUqLT96X) | [buffchick](https://open.spotify.com/artist/0bySwTrRN75nqs2vLS00zn) | [Walk Away](https://open.spotify.com/album/2rjxMMrjeTFgorZ1F4wCnd) | 3:52 |
 
-Snapshot ID: `MCwwMDY2YzNlODMwNmE4ODY4ZGQ5ODcyN2M5ZDM4YjJkZjM3ZmNjYmVm`
+Snapshot ID: `MCxiMTNhMWYwZTk5ZTE3ZGZkMjM1NjU3MzUzZTFjYjM2NTA1MzZmNDdl`

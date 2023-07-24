@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Vanita
 
-[Spotify](https://open.spotify.com/user/spotify) - 601,824 likes - 88 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 601,994 likes - 88 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 87 | [Y U LIE Y](https://open.spotify.com/track/29dL0v4JxKE5Li9LYA5lgw) | [Lassjo](https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth), [CHOYCES](https://open.spotify.com/artist/7788VslApM8XUivJAnmNFs), [TRUKANADA](https://open.spotify.com/artist/2gYg2jSiNf0Cbp8n41JvNp), [KTRNA](https://open.spotify.com/artist/5pKcy7BcqjgJ632BpR6wMa) | [Y U LIE Y](https://open.spotify.com/album/3LyZb0Zy2Yok31oT2cODwL) | 5:26 |
 | 88 | [You’re Everything](https://open.spotify.com/track/31j0qU6GnhauFcJNnnbmMl) | [edapollo](https://open.spotify.com/artist/5BCLvW3qaUm39VjiZ8INmm) | [Technicolour Places](https://open.spotify.com/album/0AEYQ1ErcrYSaNtmq1NjzA) | 3:50 |
 
-Snapshot ID: `MCxiNmYyYTVlYTE2ZmRjMDdhYjg4OTAyN2M2ZmRiZTBjNmRjMTlhNmVh`
+Snapshot ID: `MCw2ODJkMWRiNjU5YzExYjExYmJhNzI4YmRmZDQ5MWJhMjkxOGNiNWFl`

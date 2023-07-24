@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Filipe Ret e Ludmilla, Gustavo Mioto, Poesia Acústica 14, Felipe Amorim, Xamã e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,896,487 likes - 97 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,896,782 likes - 97 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 49 | [RIOT \(Rowdy Pipe'n\)](https://open.spotify.com/track/0B1xarnfKvUFWUoFdQnooq) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [RIOT \(Rowdy Pipe'n\)](https://open.spotify.com/album/0GQJ1yZpVEzJjfzXbkD0Ui) | 3:09 |
 | 50 | [DEZ EM DEZ](https://open.spotify.com/track/7B2R72DIxC8tftZY0eSTcU) | [Tristão](https://open.spotify.com/artist/4VYCiHxylPSMQEa9KlTJHH), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [DEZ EM DEZ](https://open.spotify.com/album/2EvPoH55P6BNg7gn3RFFmE) | 1:57 |
 | 51 | [Oh Na Na](https://open.spotify.com/track/6mBgBLSngXOtVWa8Lun5Ot) | [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg), [Rafman](https://open.spotify.com/artist/637329eW8xlkX599i55b9m), [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg), [Supa Squad](https://open.spotify.com/artist/4kMEocHCIwaO4u4J01U8Dw), [Lukinhas](https://open.spotify.com/artist/0vsOB7tW4ItHtdZBzKQZxp) | [Oh Na Na](https://open.spotify.com/album/0XdmuzUiPi81wcCSEJr84q) | 2:20 |
-| 52 | [Versão Beta](https://open.spotify.com/track/4zFUgRg9wz4ASTEwP7iLGw) | [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO), [PNDA](https://open.spotify.com/artist/1oVSM3B0L5snowR4S0j0w0) | [Versão Beta](https://open.spotify.com/album/1I8UNZ5kbxS30jr20UUDrL) | 2:13 |
+| 52 | [Versão Beta](https://open.spotify.com/track/4zFUgRg9wz4ASTEwP7iLGw) | [Yas](https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO), [PNDA](https://open.spotify.com/artist/6DYuSFwiyWFr9HE1BBOYWI) | [Versão Beta](https://open.spotify.com/album/1I8UNZ5kbxS30jr20UUDrL) | 2:13 |
 | 53 | [Muito Sou\(L\)](https://open.spotify.com/track/13JrvtgrEvyk5hCXhdHO26) | [Flavia K](https://open.spotify.com/artist/4IlT0E6L6RdAetLBw5aDgn), [Rashid](https://open.spotify.com/artist/6MAebUQUc54IEPRoaIv5My) | [Universo Suspenso](https://open.spotify.com/album/7A6eBJTbdBIkLzD21yYskR) | 3:42 |
 | 54 | [Se Eu Pego Essa Mina](https://open.spotify.com/track/4hfWD8MwqFBxCXZ3sURinF) | [MC Zaquin](https://open.spotify.com/artist/1OwYxVDNKP9JtSpp5E0uA4) | [Se Eu Pego Essa Mina](https://open.spotify.com/album/2UqChTu0waX7gjNyKhp3pW) | 2:24 |
 | 55 | [5 Minutos](https://open.spotify.com/track/24xhwQJsuDx8mmnny5wccp) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Fontes](https://open.spotify.com/artist/0TcujpNyXBNScchl8oh06P), [prodbyeros](https://open.spotify.com/artist/2VykmpwjNmZuVWKiKnqonz) | [5 Minutos](https://open.spotify.com/album/23UIze1dLT29KTOmJ6RTYh) | 3:10 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 96 | [Bandida Má](https://open.spotify.com/track/1ChbtX3f0ASWlcrXVkybz2) | [DJ THG](https://open.spotify.com/artist/2SvKC08nVN1betbwPtr3Lc), [Mc Scar](https://open.spotify.com/artist/59QeFVjDVrtm42TTVs4ZR0), [Dj Hm Oliveira](https://open.spotify.com/artist/0XLrjcXTNJmPJTF3ByHJfV) | [Bandida Má](https://open.spotify.com/album/2ZJCv9Rb4LTRINkjuGuXlu) | 2:13 |
 | 97 | [Só Pauladão](https://open.spotify.com/track/5ZW1WKHCAxA6KqVqpSwSpD) | [Mc Brunyn](https://open.spotify.com/artist/4wwEIIZHZG4WFy0PfZnKTn), [Almir delas](https://open.spotify.com/artist/09SqCWuz8I7uQWDpEgtfLu) | [Só Pauladão](https://open.spotify.com/album/5M8mX7kRhfJqZgOOYs08CZ) | 2:10 |
 
-Snapshot ID: `MCxkZmU5NjczOGU5NWM1OTg1NWE0ZGE5YWNiZWUzZDhjZjhiMmNlYzA2`
+Snapshot ID: `MCw1NGQ0YWNjNzYyZDZiMTczZWRjNzkxZWVkOGE1NDdkZDVkZTk2NTVm`

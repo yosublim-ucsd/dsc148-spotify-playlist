@@ -1,12 +1,12 @@
 {
   "description": "Funk-inspired beats by latinos.",
-  "num_followers": 13978,
+  "num_followers": 14013,
   "original_name": "feels like latin funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZGM1NGRhY2JlYTk2MTQ3NTEzYTMyMzVjNTcxMDkzODc4MWEyNmI5",
+  "snapshot_id": "MCxhNWZlYjY5NWZiNzY2ODJhYzIzZmViYzk3MjI2M2ZjNDliYTg5MjYy",
   "tracks": [
     {
       "added_at": "2023-07-21 04:01:00",
@@ -443,18 +443,26 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Bajo las Luces",
-        "url": "https://open.spotify.com/album/1dNEgzCpvrqeF64dp9iESC"
+        "name": "In My Bones",
+        "url": "https://open.spotify.com/album/6dxeJJi4Sbj1k89jS0gRyp"
       },
       "artists": [
         {
-          "name": "Rubytates",
-          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
+          "name": "DJ Who",
+          "url": "https://open.spotify.com/artist/2MI03I2UxwCen2VjYktQA7"
+        },
+        {
+          "name": "Willy Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee"
+        },
+        {
+          "name": "Mr. Talkbox",
+          "url": "https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH"
         }
       ],
-      "duration_ms": 212195,
-      "name": "Bajo las Luces",
-      "url": "https://open.spotify.com/track/53cRE3WlbO3mH0f9npC1FP"
+      "duration_ms": 217082,
+      "name": "In My Bones",
+      "url": "https://open.spotify.com/track/79nl5WirZHBsWvTCy3s4iv"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -491,26 +499,18 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "In My Bones",
-        "url": "https://open.spotify.com/album/6dxeJJi4Sbj1k89jS0gRyp"
+        "name": "Bajo las Luces",
+        "url": "https://open.spotify.com/album/1dNEgzCpvrqeF64dp9iESC"
       },
       "artists": [
         {
-          "name": "DJ Who",
-          "url": "https://open.spotify.com/artist/2MI03I2UxwCen2VjYktQA7"
-        },
-        {
-          "name": "Willy Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee"
-        },
-        {
-          "name": "Mr. Talkbox",
-          "url": "https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH"
+          "name": "Rubytates",
+          "url": "https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj"
         }
       ],
-      "duration_ms": 217082,
-      "name": "In My Bones",
-      "url": "https://open.spotify.com/track/79nl5WirZHBsWvTCy3s4iv"
+      "duration_ms": 212195,
+      "name": "Bajo las Luces",
+      "url": "https://open.spotify.com/track/53cRE3WlbO3mH0f9npC1FP"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
+        "name": "Fino",
+        "url": "https://open.spotify.com/album/7LukmvcXz75vKINXivcMjl"
+      },
+      "artists": [
+        {
+          "name": "Ferraz",
+          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
+        }
+      ],
+      "duration_ms": 243113,
+      "name": "No Puedo Parar",
+      "url": "https://open.spotify.com/track/18jJegd092oIkvSWiezdW3"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
         "name": "Uno de nosotros (feat. Javiera Mena)",
         "url": "https://open.spotify.com/album/18I7niIiTfGvgJ2rEtdKq3"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 249518,
       "name": "Unx de nosotrxs (feat. Javiera Mena)",
       "url": "https://open.spotify.com/track/7yVGw6fxhYPOLsD9BPWXnA"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "Fino",
-        "url": "https://open.spotify.com/album/7LukmvcXz75vKINXivcMjl"
-      },
-      "artists": [
-        {
-          "name": "Ferraz",
-          "url": "https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2"
-        }
-      ],
-      "duration_ms": 243113,
-      "name": "No Puedo Parar",
-      "url": "https://open.spotify.com/track/18jJegd092oIkvSWiezdW3"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -931,26 +931,6 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Ritmo y Poes\u00eda",
-        "url": "https://open.spotify.com/album/64UFcG14sdEZuIhUBfJdnF"
-      },
-      "artists": [
-        {
-          "name": "Mike Diaz",
-          "url": "https://open.spotify.com/artist/5pR3pEU0bCMZhhAzag3DUz"
-        },
-        {
-          "name": "iQlover",
-          "url": "https://open.spotify.com/artist/4f3gfMiBebyuTylgG4hHbq"
-        }
-      ],
-      "duration_ms": 218580,
-      "name": "Ritmo y Poes\u00eda",
-      "url": "https://open.spotify.com/track/1KAPPC7a9T8cLGR06LuknQ"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
         "name": "Cool Love",
         "url": "https://open.spotify.com/album/3u5uYLbUjSKqK9y3DDFwAe"
       },
@@ -967,6 +947,26 @@
       "duration_ms": 204172,
       "name": "Tuyonama (feat. Charles Ans)",
       "url": "https://open.spotify.com/track/74AMpBBqy0JOJaWHF0r7cR"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Ritmo y Poes\u00eda",
+        "url": "https://open.spotify.com/album/64UFcG14sdEZuIhUBfJdnF"
+      },
+      "artists": [
+        {
+          "name": "Mike Diaz",
+          "url": "https://open.spotify.com/artist/5pR3pEU0bCMZhhAzag3DUz"
+        },
+        {
+          "name": "iQlover",
+          "url": "https://open.spotify.com/artist/4f3gfMiBebyuTylgG4hHbq"
+        }
+      ],
+      "duration_ms": 218580,
+      "name": "Ritmo y Poes\u00eda",
+      "url": "https://open.spotify.com/track/1KAPPC7a9T8cLGR06LuknQ"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "En el club",
-        "url": "https://open.spotify.com/album/48vfTCzzQbVfHOznCUf9Sr"
-      },
-      "artists": [
-        {
-          "name": "Surfistas Del Sistema",
-          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
-        }
-      ],
-      "duration_ms": 259799,
-      "name": "En el club",
-      "url": "https://open.spotify.com/track/1Mj9nMrnDxpymovkerbhhp"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
         "name": "M\u00fasica para verse bien",
         "url": "https://open.spotify.com/album/0BJV6b6EauKG7XbLT0OQkZ"
       },
@@ -1019,22 +1003,6 @@
       "duration_ms": 318058,
       "name": "Esta canci\u00f3n",
       "url": "https://open.spotify.com/track/4sKS8hXdU95mCgPUsdgi7f"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "Dame una se\u00f1al",
-        "url": "https://open.spotify.com/album/6q2Qh4xPwCHNNjAb0Jcj0r"
-      },
-      "artists": [
-        {
-          "name": "Lika Nova",
-          "url": "https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy"
-        }
-      ],
-      "duration_ms": 233974,
-      "name": "Dame una se\u00f1al",
-      "url": "https://open.spotify.com/track/2N1TDOZLjpLLGwPiRoeuwT"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -1055,6 +1023,38 @@
       "duration_ms": 227658,
       "name": "Eso Que Me Das",
       "url": "https://open.spotify.com/track/3xOZWx6fJc65Z4R2Hrq06N"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "En el club",
+        "url": "https://open.spotify.com/album/48vfTCzzQbVfHOznCUf9Sr"
+      },
+      "artists": [
+        {
+          "name": "Surfistas Del Sistema",
+          "url": "https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ"
+        }
+      ],
+      "duration_ms": 259799,
+      "name": "En el club",
+      "url": "https://open.spotify.com/track/1Mj9nMrnDxpymovkerbhhp"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Dame una se\u00f1al",
+        "url": "https://open.spotify.com/album/6q2Qh4xPwCHNNjAb0Jcj0r"
+      },
+      "artists": [
+        {
+          "name": "Lika Nova",
+          "url": "https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy"
+        }
+      ],
+      "duration_ms": 233974,
+      "name": "Dame una se\u00f1al",
+      "url": "https://open.spotify.com/track/2N1TDOZLjpLLGwPiRoeuwT"
     }
   ],
   "unique_name": "feels like latin funk",

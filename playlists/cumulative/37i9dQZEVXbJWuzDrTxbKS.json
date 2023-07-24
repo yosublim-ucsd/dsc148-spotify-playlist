@@ -2108,7 +2108,7 @@
       ],
       "date_added": "2023-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-24",
       "duration_ms": 140017,
       "name": "Baby Don't Hurt Me",
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
@@ -2410,7 +2410,7 @@
       ],
       "date_added": "2022-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-24",
       "duration_ms": 148629,
       "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
       "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
@@ -4954,7 +4954,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-24",
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
@@ -5384,7 +5384,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 244213,
       "name": "Debesis iekrita tev\u012b",
       "url": "https://open.spotify.com/track/0lNWDFt02EXYm86vH9BBRE"
@@ -9410,7 +9410,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-24",
       "duration_ms": 238805,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
@@ -11760,7 +11760,7 @@
       ],
       "date_added": "2021-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 181920,
       "name": "Ka\u0137\u0113ns, Kur\u0161 Atteic\u0101s No J\u016brasskolas",
       "url": "https://open.spotify.com/track/6Fs2nN1jo4PXhGXfbsgTDp"
@@ -12708,7 +12708,7 @@
       ],
       "date_added": "2023-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 148840,
       "name": "Lidma\u0161\u012bnas",
       "url": "https://open.spotify.com/track/55yNb2ORYTGvrSXuuSVS7e"
@@ -15204,7 +15204,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-24",
       "duration_ms": 61673,
       "name": "MONTAGEM - PR FUNK",
       "url": "https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf"
@@ -16952,7 +16952,7 @@
       ],
       "date_added": "2022-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-24",
+      "date_removed": null,
       "duration_ms": 245195,
       "name": "Ogles",
       "url": "https://open.spotify.com/track/0xZbTUeLOIXjAHFuyZNQr2"
@@ -18156,7 +18156,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 219986,
       "name": "Plaukstas lieluma pavasaris",
       "url": "https://open.spotify.com/track/7qIV9g3fbu56fkEUg6nIAH"
@@ -19368,7 +19368,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-24",
       "duration_ms": 189011,
       "name": "RIOT (Rowdy Pipe'n)",
       "url": "https://open.spotify.com/track/0B1xarnfKvUFWUoFdQnooq"
@@ -19704,7 +19704,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-24",
+      "date_removed": null,
       "duration_ms": 230880,
       "name": "Rudens",
       "url": "https://open.spotify.com/track/4J3B1bPmhh0qp8sez5Ga9g"
@@ -22029,6 +22029,24 @@
     },
     {
       "album": {
+        "name": "Starp Div\u0101m Saul\u0113m",
+        "url": "https://open.spotify.com/album/7fxVL0ZZiGhro0djTzjsAa"
+      },
+      "artists": [
+        {
+          "name": "Pr\u0101ta V\u0113tra",
+          "url": "https://open.spotify.com/artist/52SusfPq6EW5PgrjUqMHSy"
+        }
+      ],
+      "date_added": "2023-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212866,
+      "name": "Starp Div\u0101m Saul\u0113m",
+      "url": "https://open.spotify.com/track/7huNyRFrpKb2y7UfnnDE92"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/1bupWi00723vxZoS7MX9NU"
       },
@@ -22877,6 +22895,24 @@
     },
     {
       "album": {
+        "name": "Par to z\u0113nu, kas sit sk\u0101rda bungas",
+        "url": "https://open.spotify.com/album/277YZ9Au7DyEEqBgKChIct"
+      },
+      "artists": [
+        {
+          "name": "Pr\u0101ta V\u0113tra",
+          "url": "https://open.spotify.com/artist/52SusfPq6EW5PgrjUqMHSy"
+        }
+      ],
+      "date_added": "2023-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234017,
+      "name": "S\u030cokola\u0304des salde\u0304jums",
+      "url": "https://open.spotify.com/track/7JSUrkUnBoM8zDzKKkKCT3"
+    },
+    {
+      "album": {
         "name": "The Off-Season",
         "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
       },
@@ -23196,6 +23232,28 @@
       "duration_ms": 197761,
       "name": "Tavas P\u0113das Pagalm\u0101",
       "url": "https://open.spotify.com/track/1ur7PgMA8DB0qDemnKEJiA"
+    },
+    {
+      "album": {
+        "name": "Cilv\u0113ks",
+        "url": "https://open.spotify.com/album/7eF3DrXFEsVdmJW5D5AlyZ"
+      },
+      "artists": [
+        {
+          "name": "Instrumenti",
+          "url": "https://open.spotify.com/artist/7aifttRblwr2CswzvfNfc5"
+        },
+        {
+          "name": "Pr\u0101ta V\u0113tra",
+          "url": "https://open.spotify.com/artist/52SusfPq6EW5PgrjUqMHSy"
+        }
+      ],
+      "date_added": "2023-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222288,
+      "name": "Te Saule aust",
+      "url": "https://open.spotify.com/track/62VZXeC3AwCXjdzggLl3CP"
     },
     {
       "album": {
@@ -24328,7 +24386,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-24",
       "duration_ms": 194786,
       "name": "Trance (with Travis Scott & Young Thug)",
       "url": "https://open.spotify.com/track/5wG3HvLhF6Y5KTGlK0IW3J"
@@ -24874,7 +24932,7 @@
       ],
       "date_added": "2023-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-24",
       "duration_ms": 156943,
       "name": "Unholy (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/0NZPBYD5qbEWRs3PrGiRkT"
@@ -26820,7 +26878,7 @@
       ],
       "date_added": "2021-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-27",
+      "date_removed": null,
       "duration_ms": 279440,
       "name": "\u010cetri krasti",
       "url": "https://open.spotify.com/track/6ay1wKfMAH4jpAzUIxF39f"
@@ -27670,7 +27728,7 @@
       ],
       "date_added": "2023-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-24",
       "duration_ms": 152000,
       "name": "\u0417\u0435\u0440\u043a\u0430\u043b\u043e",
       "url": "https://open.spotify.com/track/2PpAAi4RMQKof0Ya3JEJfU"
@@ -28564,7 +28622,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-24",
       "duration_ms": 118378,
       "name": "\u0421\u043a\u0430\u0436\u0438 \u043c\u043d\u0435 \u043a\u0442\u043e \u0442\u044b",
       "url": "https://open.spotify.com/track/5lo91NO6ZaP656Wy28dez1"

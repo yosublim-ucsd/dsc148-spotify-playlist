@@ -1,12 +1,12 @@
 {
   "description": "Your chill anime soundtrack. ",
-  "num_followers": 83810,
+  "num_followers": 83915,
   "original_name": "Slice of Life ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNjVhMzg2ZWU1MTkwZmE3NThiZDc4MjFmODQ1ODk4MmQ3N2I0OGJl",
+  "snapshot_id": "MCxhY2YzYzMwMGQ3ZWU4Njc2OTI0Y2ZiYmVhZjJjYWJiNjkwOGY5ZjZj",
   "tracks": [
     {
       "added_at": "2023-07-06 15:07:54",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-07-06 15:07:54",
       "album": {
+        "name": "\u604b\u604b\u98a8\u6b4c",
+        "url": "https://open.spotify.com/album/0PeCvuASxym6PnrEzvBCl7"
+      },
+      "artists": [
+        {
+          "name": "Tsuji Ayano",
+          "url": "https://open.spotify.com/artist/73kAoAaI4yjMeHuLwpsL4i"
+        }
+      ],
+      "duration_ms": 276600,
+      "name": "\u98a8\u306b\u306a\u308b",
+      "url": "https://open.spotify.com/track/1BMYkyKXS6UfnJteWN7nSD"
+    },
+    {
+      "added_at": "2023-07-06 15:07:54",
+      "album": {
         "name": "UTA'S SONGS ONE PIECE FILM RED",
         "url": "https://open.spotify.com/album/7Ixqxq13tWhrbnIabk3172"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 181594,
       "name": "Shogeki",
       "url": "https://open.spotify.com/track/5QwAdWCnauw0GpDzM3glrO"
-    },
-    {
-      "added_at": "2023-07-06 15:07:54",
-      "album": {
-        "name": "\u604b\u604b\u98a8\u6b4c",
-        "url": "https://open.spotify.com/album/0PeCvuASxym6PnrEzvBCl7"
-      },
-      "artists": [
-        {
-          "name": "Tsuji Ayano",
-          "url": "https://open.spotify.com/artist/73kAoAaI4yjMeHuLwpsL4i"
-        }
-      ],
-      "duration_ms": 276600,
-      "name": "\u98a8\u306b\u306a\u308b",
-      "url": "https://open.spotify.com/track/1BMYkyKXS6UfnJteWN7nSD"
     },
     {
       "added_at": "2023-07-06 15:07:54",

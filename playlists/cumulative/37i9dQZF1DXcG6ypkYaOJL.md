@@ -4,7 +4,7 @@
 
 > Aquí está la música de Fanático, la serie de Netflix.
 
-18 songs - 58 min 12 sec
+19 songs - 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [Qué Hice](https://open.spotify.com/track/51YZsnWXxpQCE6VYwTBTFz) | [Quimera](https://open.spotify.com/artist/4ivGfYMnTioPixc0e9Prfi) | [Qué Hice](https://open.spotify.com/album/6ElCUYN1fgyyLhmaMUi3uW) | 2:22 | 2022-07-12 |  |
 | [Rebelión](https://open.spotify.com/track/3jM59UshXAZ94eRYLTL016) | [Quimera](https://open.spotify.com/artist/4ivGfYMnTioPixc0e9Prfi) | [Rebelión](https://open.spotify.com/album/2DIAML1x1kCKNRJGtAGFDP) | 2:57 | 2022-07-12 |  |
 | [Urano](https://open.spotify.com/track/3Lsx8At5mPvKvKoztNlgvy) | [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [DJ Stuart](https://open.spotify.com/artist/7aS2yrmVy9YdStiDXluOSE) | [Urano](https://open.spotify.com/album/1yIfCDdjG79SmvZJGoZfWp) | 2:16 | 2022-07-12 |  |
-| [WALO](https://open.spotify.com/track/65v0r10DBGY5C0Z4pjHmI2) | [Ounacer98](https://open.spotify.com/artist/4jHEwlCebsIxEnDF63OsS5) | [WALO](https://open.spotify.com/album/1rj3PKD2lsNk1E5sdBHa46) | 3:49 | 2022-07-12 |  |
+| [WALO](https://open.spotify.com/track/2kO739EXBh5TRXImLK4kss) | [Ounacer98](https://open.spotify.com/artist/4jHEwlCebsIxEnDF63OsS5) | [WALO](https://open.spotify.com/album/0cIKUd5egRKBNIKl4GZouU) | 3:49 | 2022-07-12 |  |
+| [WALO](https://open.spotify.com/track/65v0r10DBGY5C0Z4pjHmI2) | [Ounacer98](https://open.spotify.com/artist/4jHEwlCebsIxEnDF63OsS5) | [WALO](https://open.spotify.com/album/1rj3PKD2lsNk1E5sdBHa46) | 3:49 | 2022-07-12 | 2023-07-24 |
 | [WTF Is In My Cup](https://open.spotify.com/track/66HxHtqsgk2NgVQRqEgxyb) | [Chico Blanco](https://open.spotify.com/artist/7xLtt3vnhKGANQKpsaIMVa) | [WTF Is In My Cup](https://open.spotify.com/album/64sTPt8sHRwmqpTq63jmEV) | 4:27 | 2022-07-12 |  |
 
 \*This playlist was first scraped on 2023-04-07. Prior content cannot be recovered.

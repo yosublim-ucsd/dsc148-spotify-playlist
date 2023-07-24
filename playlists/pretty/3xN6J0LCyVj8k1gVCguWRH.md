@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > Which is going to be the next Song of the Summer!? \(Includes the 22, 21 &amp; 20 editions + bonus tracks\)
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 106,085 likes - 202 songs - 12 hr 44 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 106,929 likes - 202 songs - 12 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

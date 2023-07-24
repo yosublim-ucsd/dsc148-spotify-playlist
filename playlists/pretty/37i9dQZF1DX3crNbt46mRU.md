@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Pronto
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,532 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,539 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 99 | [Oddly Romantic](https://open.spotify.com/track/4hjyFKinATTmR5f2qgjInh) | [Blush Always](https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U) | [Oddly Romantic](https://open.spotify.com/album/6DjhS8JwpjsXHIVjqidazW) | 3:35 |
 | 100 | [Talk To Me Nice](https://open.spotify.com/track/0k4C2siRScZQAb7eIEQDI5) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Talk To Me Nice](https://open.spotify.com/album/47SFbNznLU50PNraq3mIdn) | 3:49 |
 
-Snapshot ID: `MCw0N2RmMTUxNTkwNDVkNGMyMDg1NTBhY2ZhYjVmNGMxMGM4ZjIzZGNl`
+Snapshot ID: `MCxlZjBkZWFmYmFhMDAwOGFhZTE4Y2UwOWI2NjVkM2FhZjA1ZDEzZmQ1`

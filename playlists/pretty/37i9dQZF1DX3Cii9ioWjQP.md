@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 ### [Jazzy Korea](https://open.spotify.com/playlist/37i9dQZF1DX3Cii9ioWjQP)
 
-> All about Korean Jazz hits & new \(Cover: Jane\(재인\)\)
+> All about Korean Jazz hits & new \(Cover: Heemin Chae\(채희민\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,058 likes - 103 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,067 likes - 103 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Time of Love](https://open.spotify.com/track/5v3ESa7ytuyb2I2YJbCgPF) | [Leon Ivins](https://open.spotify.com/artist/1rtKDIjSOPLNteccCWJ3ON) | [Glowing Memory Puzzle](https://open.spotify.com/album/4qLsAEK84iy6iJJwb46MMZ) | 3:52 |
-| 2 | [Entropy](https://open.spotify.com/track/5Csh0PKROPzYGlUJOPyXDc) | [Urban Forest](https://open.spotify.com/artist/3Byry2lVyIyWfS0wkFNIbj) | [Entropy](https://open.spotify.com/album/40GVHu5UsuObOAoAhPgcdr) | 8:13 |
-| 3 | [Now I'm Alive](https://open.spotify.com/track/2JODszmQKfirJaIb2QebHp) | [Gomm](https://open.spotify.com/artist/2Zlxg4WEB6pNeM6tdO3RoE) | [Now I'm Alive](https://open.spotify.com/album/3CVYFeLwjz5scaMfpN04AK) | 2:27 |
-| 4 | [Rio](https://open.spotify.com/track/48lfomyBFdLCXfBpcZyhQt) | [최보미](https://open.spotify.com/artist/4reDRRPmtXBJbqblTeDtPh) | [Rio](https://open.spotify.com/album/5RPRCu9BcWck0FZcyHVIDK) | 3:33 |
-| 5 | [A Finite time](https://open.spotify.com/track/1cGYyqTaHbuv0R472C9bLT) | [Heemin Chae](https://open.spotify.com/artist/4n6gUX8ldyO9nBHGPCnwKy) | [A Finite time](https://open.spotify.com/album/6eGJky3HqQ0sLH7zUjBLuI) | 4:27 |
+| 1 | [A Finite time](https://open.spotify.com/track/1cGYyqTaHbuv0R472C9bLT) | [Heemin Chae](https://open.spotify.com/artist/4n6gUX8ldyO9nBHGPCnwKy) | [A Finite time](https://open.spotify.com/album/6eGJky3HqQ0sLH7zUjBLuI) | 4:27 |
+| 2 | [Rio](https://open.spotify.com/track/48lfomyBFdLCXfBpcZyhQt) | [최보미](https://open.spotify.com/artist/4reDRRPmtXBJbqblTeDtPh) | [Rio](https://open.spotify.com/album/5RPRCu9BcWck0FZcyHVIDK) | 3:33 |
+| 3 | [Time of Love](https://open.spotify.com/track/5v3ESa7ytuyb2I2YJbCgPF) | [Leon Ivins](https://open.spotify.com/artist/1rtKDIjSOPLNteccCWJ3ON) | [Glowing Memory Puzzle](https://open.spotify.com/album/4qLsAEK84iy6iJJwb46MMZ) | 3:52 |
+| 4 | [Entropy](https://open.spotify.com/track/5Csh0PKROPzYGlUJOPyXDc) | [Urban Forest](https://open.spotify.com/artist/3Byry2lVyIyWfS0wkFNIbj) | [Entropy](https://open.spotify.com/album/40GVHu5UsuObOAoAhPgcdr) | 8:13 |
+| 5 | [Now I'm Alive](https://open.spotify.com/track/2JODszmQKfirJaIb2QebHp) | [Gomm](https://open.spotify.com/artist/2Zlxg4WEB6pNeM6tdO3RoE) | [Now I'm Alive](https://open.spotify.com/album/3CVYFeLwjz5scaMfpN04AK) | 2:27 |
 | 6 | [몬순 \(Monsoon\)](https://open.spotify.com/track/1CvFuxdYZT3bmM5F5MMmyZ) | [Time & Place](https://open.spotify.com/artist/4jBZhMOklXll4vFL5QZxho) | [범람 \(The Surge\)](https://open.spotify.com/album/33DcogyZUE6ATX0rEGMGM1) | 3:56 |
 | 7 | [Miles N Miles \(with\. Senri Kawaguchi\)](https://open.spotify.com/track/6i4IY859rUWMQthlaDJ3Hp) | [Jane](https://open.spotify.com/artist/6S1pEId4oXUshfDpbIJHf5), [Senri Kawaguchi](https://open.spotify.com/artist/3Nxp13gGTys81Mpl041vJe) | [Miles N Miles](https://open.spotify.com/album/5TDMeo2xnGusqM44Wk0pj5) | 3:39 |
 | 8 | [Only One](https://open.spotify.com/track/0Un3kqZvQ77N6YzGc5TzkG) | [Kiik](https://open.spotify.com/artist/5jUF0vJTYlZ6zGKnS9WK7v), [Shin Giwon Piano](https://open.spotify.com/artist/0hKq3u04JU5IuGNSTGyngJ) | [Only One](https://open.spotify.com/album/6Da3vfFcCPL9w0g68L7Gxp) | 1:43 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 102 | [Consolation](https://open.spotify.com/track/33SBaRtJMTaOVsqNZvYg2p) | [준킴 X 이한얼](https://open.spotify.com/artist/1zq70EDZpkLQXiNUsvdlI5) | [위로](https://open.spotify.com/album/6D4cKP9spFxsWYdbFkjQWu) | 9:39 |
 | 103 | [Purple Wave](https://open.spotify.com/track/34Shh5noYkuYyheOnzWs5g) | [J&](https://open.spotify.com/artist/1yt0psswSKE37IwwZVFeuc) | [Rising](https://open.spotify.com/album/0KNNPQuVGnTdmyuka4re6q) | 4:09 |
 
-Snapshot ID: `MCw0M2Y2ZjQ0OGU1MWM5YjEzM2NiOWM2MGExOGUzMWEyODIwYjI3MThl`
+Snapshot ID: `MCw5MThjMjk1Y2IzOWFlYTFkMTk5OGZmYjJmMGQxZjJiZTRhMTQyY2Q0`

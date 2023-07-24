@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 
 > A collection of insane progressive rock creations, from classic acts to recent gems\. Cover: Rush
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,542 likes - 50 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,675 likes - 50 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 | 8 | [Time](https://open.spotify.com/track/3TO7bbrUKrOSPGRTB5MeCz) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side of the Moon](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv) | 6:53 |
 | 9 | [Time To Turn](https://open.spotify.com/track/3DW1BXUHalgmS7QfcS1TnY) | [Eloy](https://open.spotify.com/artist/00ZLLJ51l9Ir5gyaGSUYxL) | [Time To Turn](https://open.spotify.com/album/24xpef77qNidD1GoWXBHLf) | 4:34 |
 | 10 | [Reflection](https://open.spotify.com/track/0R7HFX1LW3E0ZR5BnAJLHz) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Lateralus](https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T) | 11:07 |
-| 11 | [The Advent of Panurge \- Steven Wilson Mix](https://open.spotify.com/track/7BCG8qrwGFsTMT3R4AhF10) | [Gentle Giant](https://open.spotify.com/artist/1hrQ50kU6hMQBVLatqUqnO), [Steven Wilson](https://open.spotify.com/artist/4X42BfuhWCAZ2swiVze9O0) | [Octopus \(Steven Wilson Mix\)](https://open.spotify.com/album/77JV3at9mjHWzD3Iub1zSh) | 4:43 |
+| 11 | [The Advent of Panurge \(2011 Remaster\)](https://open.spotify.com/track/0dgwyLC0Be4eTvMYT6INoq) | [Gentle Giant](https://open.spotify.com/artist/1hrQ50kU6hMQBVLatqUqnO) | [Octopus \(2011 Remaster\)](https://open.spotify.com/album/51H2cJ6f296y5OtWMD2Vjo) | 4:43 |
 | 12 | [What's on My Mind](https://open.spotify.com/track/4DF4knUo8uST0QOR6ZqLsD) | [Kansas](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) | [Leftoverture \(Expanded Edition\)](https://open.spotify.com/album/7MejfRSNnrpcLZIxkeZDqR) | 3:28 |
 | 13 | [Fear of a Blank Planet](https://open.spotify.com/track/5TnIBKE4G3OEqOnRG7gnNb) | [Porcupine Tree](https://open.spotify.com/artist/5NXHXK6hOCotCF8lvGM1I0) | [Fear of a Blank Planet](https://open.spotify.com/album/59J51uy6r6QcYe7cX0Fzz6) | 7:30 |
 | 14 | [Thick as a Brick \(Pt\. I\) \- 1997 Remaster](https://open.spotify.com/track/0eufeeCADKlpxLA7HATWBW) | [Jethro Tull](https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R) | [Thick as a Brick](https://open.spotify.com/album/1ZxChDw03SUFGUz0RC8A8M) | 22:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uqkwkR49kK.md) - [plain]
 | 49 | [Drunkship Of Lanterns](https://open.spotify.com/track/1hWw1UGI5GuowixFmunO9y) | [The Mars Volta](https://open.spotify.com/artist/75U40yZLLPglFgXbDVnmVs) | [Deloused in the Comatorium](https://open.spotify.com/album/0CA2EVHhRPR5VPV78KZw89) | 7:05 |
 | 50 | [The Crowing](https://open.spotify.com/track/7fT97iUO2mul3BIAAut70b) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [In Keeping Secrets Of Silent Earth: 3](https://open.spotify.com/album/2oWXmi9uLRKn60yRmY22MB) | 6:35 |
 
-Snapshot ID: `MCxlZjM0YzU2YWU5YThlOTQyMjZiMWEwNWY0NmZhNzIwNGY5YTE0MDk3`
+Snapshot ID: `MCw5NmUyNzdjNTMzMDU4NmM5NzE3ZWNlMjZiNjI3MTQ1ZDdjMTY1MmFh`

@@ -1,12 +1,12 @@
 {
-  "description": "Discover your favorite new chill pop songs. Cover: Alex Warren ",
-  "num_followers": 1333022,
+  "description": "Discover your favorite new chill pop songs. Cover: Diplo, Jessie Murph, Polo G",
+  "num_followers": 1333150,
   "original_name": "Fresh & Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGY2NTczZjQ4MWE3YzM5YWFiZjdiYjkyMzBiYTNkZGM4YTUwNmJj",
+  "snapshot_id": "MCxiMTUwMTY0NmRlMWVhMWJhZTRkMWY0ODM3NDQyZDk1MjJkYTZhY2Y3",
   "tracks": [
     {
       "added_at": "2023-07-21 17:57:09",
@@ -539,6 +539,22 @@
       "duration_ms": 175495,
       "name": "Show Me Off",
       "url": "https://open.spotify.com/track/4YGHPxZbzLFpFQTSFruLzW"
+    },
+    {
+      "added_at": "2023-07-23 15:27:35",
+      "album": {
+        "name": "I Need to Start a Garden",
+        "url": "https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B"
+      },
+      "artists": [
+        {
+          "name": "Haley Heynderickx",
+          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
+        }
+      ],
+      "duration_ms": 228459,
+      "name": "The Bug Collector",
+      "url": "https://open.spotify.com/track/5nVE45ithgyVocZp5XLAk6"
     },
     {
       "added_at": "2023-07-21 17:57:09",
@@ -1419,22 +1435,6 @@
       "duration_ms": 156194,
       "name": "Rocketship",
       "url": "https://open.spotify.com/track/5q2zRUEMUMh51Ipd97bmAa"
-    },
-    {
-      "added_at": "2023-07-21 17:57:09",
-      "album": {
-        "name": "Just Because",
-        "url": "https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT"
-      },
-      "artists": [
-        {
-          "name": "Sadie Jean",
-          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
-        }
-      ],
-      "duration_ms": 132096,
-      "name": "Just Because",
-      "url": "https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ"
     },
     {
       "added_at": "2023-07-21 17:57:09",

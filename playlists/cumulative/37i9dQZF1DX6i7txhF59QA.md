@@ -4,7 +4,7 @@
 
 > Let's party with cheerful Korean trot medley\. Cover: Na Hoon\-a\(나훈아\) \(신나는 트로트 멜로디를 즐겨보세요!\)
 
-799 songs - 1 day 21 hr 42 min
+800 songs - 1 day 21 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,7 +279,7 @@
 | [I collapse](https://open.spotify.com/track/0B1UGyhwmxjkAPXfXuWhU0) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART15](https://open.spotify.com/album/1UgH4tI8dEaChllPEOCs6i) | 3:16 | 2022-05-03 | 2022-05-10 |
 | [I cried](https://open.spotify.com/track/4OQyfnMZhVGGqeCX9bpol1) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART20](https://open.spotify.com/album/1fMNZMCXM4NAQEZaaVWQNa) | 2:53 | 2022-05-03 | 2022-05-30 |
 | [I don't know yet what love is](https://open.spotify.com/track/5MenhS1Q4C4gPjfT8N0NJW) | [Jeong Dong Won](https://open.spotify.com/artist/7fB8Qn00ToFmUY3mAJJSki) | [Love call center PART31](https://open.spotify.com/album/4XlwWbWwoFf8yBp2iksviX) | 3:46 | 2022-05-03 | 2022-07-25 |
-| [I happened to see her](https://open.spotify.com/track/2dJWB9GmhYlQGSr2gbuH8q) | [Noh Jihun](https://open.spotify.com/artist/0hKPEEvGtYQOod7pjcaJ1D) | [Music source of Mr.Trot Trot Aid Best](https://open.spotify.com/album/14UvNhswZOXciZ2nH0d9uR) | 3:10 | 2022-04-07 |  |
+| [I happened to see her](https://open.spotify.com/track/2dJWB9GmhYlQGSr2gbuH8q) | [Noh Jihun](https://open.spotify.com/artist/0hKPEEvGtYQOod7pjcaJ1D) | [Music source of Mr.Trot Trot Aid Best](https://open.spotify.com/album/14UvNhswZOXciZ2nH0d9uR) | 3:10 | 2022-04-07 | 2023-07-24 |
 | [I hate you](https://open.spotify.com/track/34VcCwGcGHUksaf36NawUa) | [Lee Chanwon](https://open.spotify.com/artist/1XlyP7FKwWs9j8GTdk5m4k) | [Love call center PART28](https://open.spotify.com/album/5KgKaiW0GORPs45M6Ewp2v) | 2:55 | 2022-04-22 | 2022-05-25 |
 | [I hate you\. I hate you\. I hate you](https://open.spotify.com/track/6qet57OeIlqqs0zt9UNd3G) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Love call center PART31](https://open.spotify.com/album/4XlwWbWwoFf8yBp2iksviX) | 2:43 | 2022-05-03 | 2022-07-27 |
 | [I have to live today, too](https://open.spotify.com/track/69rAk8oQxtgL3cSDLN1KVG) | [TAE JIN A](https://open.spotify.com/artist/7Hm7HaPth1NwFOU9BJXbhG) | [I have to live today, too](https://open.spotify.com/album/62lm0gN9Drss5R8uIJLLXb) | 3:18 | 2022-05-03 | 2022-07-17 |
@@ -337,7 +337,7 @@
 | [Just smile](https://open.spotify.com/track/28LN8F4kzIIrT1GSA7ItFv) | [Kim Da Hyun](https://open.spotify.com/artist/1ndks5hJNX9FpfenPSq2hf) | [Chapter 2 of Sound Flower](https://open.spotify.com/album/7jh0LvLmH5C6I0tbTv4Bln) | 3:39 | 2022-04-07 | 2022-07-29 |
 | [Just Smile](https://open.spotify.com/track/5PLChOnTLu2oNErIPd5CzW) | [Youngki](https://open.spotify.com/artist/2u6u4hr9H1B70v4m5CKq1R), [HAUBI](https://open.spotify.com/artist/7lRCndss9u3tg2zPQJaBR8) | [Just Smile](https://open.spotify.com/album/2axxwA4f2fjNBgJbgfvtQY) | 3:20 | 2022-04-22 | 2022-07-26 |
 | [Kkondae Latte](https://open.spotify.com/track/2Ff3LQRkRuCSdyOy80dfwh) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Kkondae Intern \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/3dPfuzpbPmsxGJf6DS6l6p) | 3:09 | 2022-04-07 | 2022-07-27 |
-| [Kkondae Latte](https://open.spotify.com/track/37cMBBGLgg0mRiqs01wcwP) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Kkondae Intern OST Part 1](https://open.spotify.com/album/2QHH1GCZwF4jbCLsKQe9Yn) | 3:09 | 2023-05-10 |  |
+| [Kkondae Latte](https://open.spotify.com/track/37cMBBGLgg0mRiqs01wcwP) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Kkondae Intern OST Part 1](https://open.spotify.com/album/2QHH1GCZwF4jbCLsKQe9Yn) | 3:09 | 2023-05-10 | 2023-07-24 |
 | [Lady in Casbah](https://open.spotify.com/track/4ilcFfXmKVLnvqT9Afk45b) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [Love call center PART19](https://open.spotify.com/album/2KUWccXjVSNPJadz0hZxhb) | 3:09 | 2022-04-07 | 2022-07-20 |
 | [Lady voyeur](https://open.spotify.com/track/44t1uGQgpGrprZzFCgVIs9) | [Jang Minho](https://open.spotify.com/artist/2SeVOe0CXUEKtCq3BR5A0v) | [Love call center premium](https://open.spotify.com/album/0Xn5gjlbJrqc9NjPb3VCB4) | 3:20 | 2022-04-07 | 2022-04-21 |
 | [Lalala](https://open.spotify.com/track/4cQwFAPCTfANutB5cweoi5) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR), [Jeong Myeong Kyu](https://open.spotify.com/artist/4MT304jerDdVCtOutaqajA) | [Love call center PART23](https://open.spotify.com/album/5YIfFi4cR1FIkrFWiu6Ot1) | 4:33 | 2022-04-07 | 2022-07-23 |
@@ -463,6 +463,7 @@
 | [Old Song](https://open.spotify.com/track/4t4KJfgbViWprTyPCo2zvl) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART19](https://open.spotify.com/album/2KUWccXjVSNPJadz0hZxhb) | 4:19 | 2022-04-07 | 2022-07-29 |
 | [Olle](https://open.spotify.com/track/6BaHd4rHtl6bIo02EY8tj0) | [Kim Heejae](https://open.spotify.com/artist/02mf5BLKtAfIkAKozHPmU5) | [Love call center premium](https://open.spotify.com/album/0Xn5gjlbJrqc9NjPb3VCB4) | 3:13 | 2022-04-22 | 2022-07-25 |
 | [On Your Side](https://open.spotify.com/track/46g4W1SZa9oQMDp1w7ItKI) | [Jang Yoon\-Jeong](https://open.spotify.com/artist/1zeaekWal9sG8T6INxaeQM) | [On Your Side](https://open.spotify.com/album/6ICVii1l4RuNegMBBZ20ZW) | 3:06 | 2022-04-21 | 2022-07-16 |
+| [On Your Side](https://open.spotify.com/track/6DmrMG6iTGu2e086WHEPtw) | [YOUNGTAK](https://open.spotify.com/artist/0qDHjPB7TJPxYaQ0CWMEU4) | [On Your Side](https://open.spotify.com/album/3IJF1fOkMAMqnfcLKHjVjX) | 2:46 | 2023-07-24 |  |
 | [Once smile will bring once youth and once anger will bring once oldness.](https://open.spotify.com/track/6TduKL7PEDWAweV2X0Ah1j) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center PART2](https://open.spotify.com/album/6QHKWnpYwEUyuuuZxVU76O) | 3:00 | 2022-06-18 | 2022-07-02 |
 | [One bus](https://open.spotify.com/track/4iawxCTGMvlbm2YgaUCMR5) | [Lim Young Woong](https://open.spotify.com/artist/75MOYjGEyyH5U4ZFHOPvxR) | [Love call center premium](https://open.spotify.com/album/0Xn5gjlbJrqc9NjPb3VCB4) | 3:42 | 2022-04-21 | 2022-07-11 |
 | [One of my people go](https://open.spotify.com/track/0nLH0CJ6zZ2FYLongrK4Z4) | [Kim Ho Joong](https://open.spotify.com/artist/4T9AuhR3YqSqaPgXzPiAuH) | [Love call center PART7](https://open.spotify.com/album/7MQC5I1mXnuget0Se48yOQ) | 3:47 | 2022-04-07 | 2022-07-22 |
@@ -778,7 +779,7 @@
 | [우쭈쭈](https://open.spotify.com/track/02yfGvVWiSMHckXHLCT22k) | [YOYOMI](https://open.spotify.com/artist/0wsUMUOnEa7yYtdqo1WFOR) | [우쭈쭈](https://open.spotify.com/album/7M2xMJP7S2PCuGQpsURP55) | 3:24 | 2022-05-03 | 2022-07-13 |
 | [운명에게](https://open.spotify.com/track/5vMuxEioWkhfLmJae7W7Vl) | [Jang Yoon\-Jeong](https://open.spotify.com/artist/1zeaekWal9sG8T6INxaeQM) | [운명에게](https://open.spotify.com/album/757sVf8hYQhMRBoTRo8oKi) | 3:31 | 2022-04-07 | 2022-07-29 |
 | [울엄마](https://open.spotify.com/track/7e3kodG53Mzgl11PvErf5p) | [충청걸스\(윤서령](https://open.spotify.com/artist/00G21dVdlwAqBfhnjWoOCj), [이송연](https://open.spotify.com/artist/1V0rYogNR6sKkRqP3A2p1Z), [김산하\)](https://open.spotify.com/artist/554bhzomwHRS7Y5OGWL2qY) | [Korean Trot Contest PART.5](https://open.spotify.com/album/73AYOATUIFhqWlhWCAR3eF) | 4:57 | 2022-05-03 | 2022-07-26 |
-| [이 오빠 뭐야](https://open.spotify.com/track/2trWoBXnXzsovpZiemRdwD) | [YOYOMI](https://open.spotify.com/artist/0wsUMUOnEa7yYtdqo1WFOR) | [첫번째 이야기](https://open.spotify.com/album/0e0mopDBIDzNOBPJDEwmXo) | 3:38 | 2022-04-22 | 2022-07-23 |
+| [이 오빠 뭐야](https://open.spotify.com/track/2trWoBXnXzsovpZiemRdwD) | [YOYOMI](https://open.spotify.com/artist/0wsUMUOnEa7yYtdqo1WFOR) | [첫번째 이야기](https://open.spotify.com/album/0e0mopDBIDzNOBPJDEwmXo) | 3:38 | 2022-04-22 |  |
 | [인생열차](https://open.spotify.com/track/6D4uRhsvsOtMjGk02EsZwG) | [나태주](https://open.spotify.com/artist/61km720PlFBWz14G7qHSCP) | [인생열차](https://open.spotify.com/album/7gnE6znPjohbNzPfQ4R0qE) | 3:30 | 2022-04-21 | 2022-07-26 |
 | [인생한방](https://open.spotify.com/track/3axdJCMyTeVIjJZWEws1E6) | [김재롱](https://open.spotify.com/artist/7tiJRYZ93kZlsQMDp6Ny8F) | [Let's Trot Pt\. 5](https://open.spotify.com/album/6oF55uxyfn3ra0BpbAbFRI) | 3:09 | 2022-04-22 | 2022-07-29 |
 | [있기없기](https://open.spotify.com/track/1906DgjH7ssjKl84LsaXA0) | [YOYOMI](https://open.spotify.com/artist/0wsUMUOnEa7yYtdqo1WFOR) | [있기없기](https://open.spotify.com/album/4FQrPNnzU7dE7mPh00Z1Ul) | 3:10 | 2022-04-07 | 2022-07-27 |

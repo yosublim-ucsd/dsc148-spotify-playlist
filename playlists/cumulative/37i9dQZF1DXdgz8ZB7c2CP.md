@@ -4,14 +4,14 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Jai Wolf
 
-484 songs - 1 day 2 hr 52 min
+485 songs - 1 day 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(I Dread The Day He Takes You To\) Paris \[feat\. MYRNE\]](https://open.spotify.com/track/2FEF1UNTCXQjgFYhh0zAm6) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [\(I Dread The Day He Takes You To\) Paris \[feat\. MYRNE\]](https://open.spotify.com/album/5DAft4bZcUYr4hxHwgCoST) | 3:38 | 2023-05-19 |  |
 | [\(if only i could\) hold you](https://open.spotify.com/track/36RptY85cUNXflnNCWY6PA) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [stay vibrant](https://open.spotify.com/album/1WZNZ7eVqTy5THc4DCnfcs) | 4:20 | 2021-08-06 | 2022-04-21 |
 | [20:25](https://open.spotify.com/track/7bg3UimnS4beLnE476hfEE) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [The Chain Gang Of 1974](https://open.spotify.com/artist/3Qy1IxDSU8SLpUUOfbOpxM) | [.wav](https://open.spotify.com/album/55G3rxvjqebzSyHapheVF3) | 3:51 | 2021-10-01 | 2023-02-04 |
-| [222† ∂∆ §§§](https://open.spotify.com/track/6vfkZpkACUVfUZlZOYbprt) | [Chet Porter](https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb) | [222† ∂∆ §§§](https://open.spotify.com/album/7eYOa53TWuUcfRpf8f6Nar) | 4:52 | 2023-06-16 |  |
+| [222† ∂∆ §§§](https://open.spotify.com/track/6vfkZpkACUVfUZlZOYbprt) | [Chet Porter](https://open.spotify.com/artist/1BjaGDkxwa2fb2pSCXlFXb) | [222† ∂∆ §§§](https://open.spotify.com/album/7eYOa53TWuUcfRpf8f6Nar) | 4:52 | 2023-06-16 | 2023-07-24 |
 | [2gether](https://open.spotify.com/track/4dzBqc5t2GWJKpGqUoTbrU) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Gretel Hänlyn](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [2gether](https://open.spotify.com/album/3DG2mNSbwGZjzSJxnpM1Qf) | 3:11 | 2021-11-26 |  |
 | [2hard2letgo](https://open.spotify.com/track/5ZXIXykKMHmCRoZJz53OnA) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [2hard2letgo](https://open.spotify.com/album/3PR1n9VEgRTrjkfG8DStrp) | 3:46 | 2023-02-10 |  |
 | [A Drowning Cry](https://open.spotify.com/track/4iH6a6Cd76QdA1ipw0mQpV) | [acloudyskye](https://open.spotify.com/artist/5OeSHuvHTS9qUgAUTt3GIR) | [A Place Where Mountains Hide](https://open.spotify.com/album/3Ozaixxep6xD8hJN6PjegS) | 4:13 | 2021-08-06 | 2023-05-13 |
@@ -203,6 +203,7 @@
 | [Heart On Fire](https://open.spotify.com/track/3Gyk1QfuK1318hUsCMttjM) | [ShockOne](https://open.spotify.com/artist/1yShtQaHjChbToQboKRzgH), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Heart On Fire](https://open.spotify.com/album/7uoWQOCpw0VSBVQgY1egad) | 3:50 | 2023-03-31 |  |
 | [heights](https://open.spotify.com/track/5BUG8bEiTNV44s2SCFML0V) | [53 Thieves](https://open.spotify.com/artist/4IwM0dNvhWqqtsTyulxe2K) | [heights](https://open.spotify.com/album/3gcAlGXMz9NQnIu2Hl4g2j) | 3:51 | 2021-08-06 | 2023-05-13 |
 | [Her](https://open.spotify.com/track/3hUZ0j3ED7sZ3PwyxrrmZH) | [VALENTINE](https://open.spotify.com/artist/1oSgUcr4PGbytOf7G7Y4DZ) | [Her](https://open.spotify.com/album/0YftsFeJDR0IykBqmUVHlp) | 4:53 | 2021-08-06 | 2022-04-20 |
+| [High](https://open.spotify.com/track/2Ej2CTyhrhOg0AXY1LkWNT) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM) | [High](https://open.spotify.com/album/0GDqyCePdn98PHuMoWCuMJ) | 2:52 | 2023-07-21 |  |
 | [High Like This \(feat\. Reo Cragun\)](https://open.spotify.com/track/1HF9IpKHAqYgU4Kl1HseaS) | [QUIET BISON](https://open.spotify.com/artist/5PmmaiHnrygDvhj3kaPT0f), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy) | [High Like This \(feat\. Reo Cragun\)](https://open.spotify.com/album/3CgdnhlwCIsvZ5JZeFOS10) | 2:33 | 2021-08-06 | 2022-07-26 |
 | [Hold On \(Feat\. MOONZz\)](https://open.spotify.com/track/6SXlHewUNdxtoa9QrZm77f) | [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr), [MOONZz](https://open.spotify.com/artist/7cTaYwNT1P49mASgKULKab) | [Nouvelle Era](https://open.spotify.com/album/5N9rmzw0qgh6gOhrzoszyi) | 4:36 | 2021-08-13 | 2023-05-03 |
 | [Holding On \- Rome In Silver Remix](https://open.spotify.com/track/6mz7PNKMuRb38q9WN6nERP) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Lowell](https://open.spotify.com/artist/3MJ2o2vTovueQARKmOzHls), [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Holding On \(Rome In Silver Remix\)](https://open.spotify.com/album/1bhDZ4U0FIFxILggKHBY3M) | 3:00 | 2022-01-21 | 2023-04-02 |

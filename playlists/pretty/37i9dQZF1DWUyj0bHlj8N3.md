@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyj0bHlj8N3.md) - [plain]
 
 > Canciones y beats que te llevan al siguiente nivel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 253,927 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,043 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyj0bHlj8N3.md) - [plain]
 | 45 | [One \- Radio Edit](https://open.spotify.com/track/41KPpw0EZCytxNkmEMJVgr) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [One \(Your Name\)](https://open.spotify.com/album/5aLY2ivPGXvFX770ihBnmd) | 2:49 |
 | 46 | [Peanut Butter Jelly](https://open.spotify.com/track/3aIhJDHxr1kgTSnutJxPTH) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Pharmacy](https://open.spotify.com/album/4QcXq4vTVN7dFb7bZa9jG2) | 3:23 |
 | 47 | [Valhalla](https://open.spotify.com/track/7dWef6DMTYxClvMzObXrE3) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Valhalla](https://open.spotify.com/album/010aOeZeXdgryXu1OKwIDc) | 3:17 |
-| 48 | [Sofi Needs a Ladder](https://open.spotify.com/track/6Zw3tJS2U6GIUcq52ZtLQF) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [SOFI](https://open.spotify.com/artist/5JQzXeT8vXc1N4Y6tGenCb) | [4x4=12](https://open.spotify.com/album/0tCLiTicEOdRuqFWJrHDcR) | 6:41 |
+| 48 | [Sofi Needs a Ladder](https://open.spotify.com/track/0vMeJiwuTZL61CtF2OAQxW) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [5 Years of mau5](https://open.spotify.com/album/0PManGPRcHlL7fZBoQStK2) | 6:41 |
 | 49 | [PROGRESSO](https://open.spotify.com/track/2LLXE4cV9Fcusx2WiSIhwC) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [ALESSO MIXTAPE \- PROGRESSO VOLUME 1](https://open.spotify.com/album/3d0kltye1eEt6vbHZJSJVE) | 4:59 |
 | 50 | [Greyhound](https://open.spotify.com/track/0VffaI2jwQknRrxpECYHsF) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Until Now](https://open.spotify.com/album/4ljisoNarj0BpQSMIEv88L) | 6:50 |
 | 51 | [Day Or Night](https://open.spotify.com/track/2Y3P9IFAeNGH9qTZDp9N6W) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7) | [Day Or Night](https://open.spotify.com/album/3WCAbSvgGztK9VoqAY76ox) | 2:54 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUyj0bHlj8N3.md) - [plain]
 | 59 | [Tell Me A Lie](https://open.spotify.com/track/4ccYRZ7WptUbPD3RZ0BhvP) | [Jonas Aden](https://open.spotify.com/artist/1qq5e02CcWNFqZMbmdrIcj) | [Tell Me A Lie](https://open.spotify.com/album/02NfjCu6aYB6k14uNchflD) | 2:41 |
 | 60 | [The G.O.A.T.](https://open.spotify.com/track/1hUmqRBZpseNjByPAEW6AJ) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9) | [The G.O.A.T.](https://open.spotify.com/album/3WNP6JVlFZke5TwAToMtkh) | 3:21 |
 
-Snapshot ID: `MCw0OGNiZmEzYWFiZGM5MGViMjJlMWI4MGMyOGM4MjhlNDBkYWUyOTkz`
+Snapshot ID: `MCw4ZjE2YzQ2ZGVhMjllMzJhNjUyZmFkNzU1ZDE0N2FkMjZlYWQ1ZTVl`

@@ -4,7 +4,7 @@
 
 > A cup of Joe and the raw Blues.
 
-168 songs - 10 hr 27 min
+169 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [I Ain't Blue \- 2008 Remaster](https://open.spotify.com/track/54CBPWCAZ37nY94t16ocyL) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 3:36 | 2022-05-25 |  |
 | [I Want to Go](https://open.spotify.com/track/6y2PzzIq9rPM5zzcRDmuYH) | [J.B\. Lenoir](https://open.spotify.com/artist/3enRG6NEAfCkJI2muGcnT1) | [Alabama Blues!](https://open.spotify.com/album/04PVRugR8vyIXmXMWE0ZKa) | 1:39 | 2023-01-27 |  |
 | [If My Mind Don't Change \(feat\. Sharde Thomas\)](https://open.spotify.com/track/0EUW0WhEBHJlUOw0JaO38W) | [G\. Love & Special Sauce](https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89), [Sharde Turner](https://open.spotify.com/artist/5RkXIaQtDyVsWKfNzn08yz) | [Philadelphia Mississippi](https://open.spotify.com/album/7LPvvSqf27OBr5a8Erupl3) | 3:40 | 2022-10-14 |  |
+| [If You Go](https://open.spotify.com/track/1YLLWrUeR99ztUaGGn355R) | [Bai Kamara Jr](https://open.spotify.com/artist/6XaT6lZurc7ceDovVXISOi), [The Voodoo Sniffers](https://open.spotify.com/artist/2BdhGmWY0JPdRMrT6Kfc8C) | [Traveling Medicine Man](https://open.spotify.com/album/6aLYdXRTaEBtmQctYJog8l) | 4:01 | 2023-07-21 |  |
 | [Imidiwaren](https://open.spotify.com/track/1BcEPYZS6rVhPhQ4L06zlr) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [The Radio Tisdas Sessions](https://open.spotify.com/album/5O5TvfdtaQn6AiTkSYBbAr) | 6:26 | 2022-06-14 | 2023-02-11 |
 | [Imidiwaren](https://open.spotify.com/track/1Qwja8HWcjNHEPSE4ctSvz) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb) | [The Radio Tisdas Sessions](https://open.spotify.com/album/3RHckcouC1a09YjhaznsrM) | 6:26 | 2023-02-17 |  |
 | [Is You Is Or Is You Ain't My Baby](https://open.spotify.com/track/2KIICpEd4rTapEYDzfECii) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Is You Is Or Is You Ain't My Baby](https://open.spotify.com/album/5Yh1kXHrJHNud6Vmp5HB9A) | 4:36 | 2023-02-17 |  |
@@ -127,7 +128,7 @@
 | [Please Take My Hand](https://open.spotify.com/track/4b5MhQ12ztQKOIPoyESfR3) | [Sugaray Rayford](https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3) | [In Too Deep](https://open.spotify.com/album/4UsUWtLQqW0QyGFBKgddue) | 3:03 | 2022-11-18 |  |
 | [Preachin' Blues](https://open.spotify.com/track/2oVDBaesJPlOsvr3FmRIFW) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Peach](https://open.spotify.com/album/0rvaC10w4nAe8NT8y2Zuwl) | 3:21 | 2022-07-01 | 2023-04-07 |
 | [Racing To A Red Light](https://open.spotify.com/track/171aGpy6zowgTlHROdFKdY) | [Early James](https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY) | [Racing To A Red Light](https://open.spotify.com/album/19gorkDhGxNv1eydTzvZ1a) | 4:24 | 2022-07-29 |  |
-| [Rainy Day Blues](https://open.spotify.com/track/705dziPMwWKnhm3LPgn4o7) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Singles](https://open.spotify.com/album/7jpPnxy9JeYTcF2dHlpr4A) | 2:14 | 2023-01-13 |  |
+| [Rainy Day Blues](https://open.spotify.com/track/705dziPMwWKnhm3LPgn4o7) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [Singles](https://open.spotify.com/album/7jpPnxy9JeYTcF2dHlpr4A) | 2:14 | 2023-01-13 | 2023-07-24 |
 | [Rattlesnake](https://open.spotify.com/track/6BT4oFPJsrhsaPxNmwJAGK) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS), [John Brim](https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 3:08 | 2022-05-25 |  |
 | [Rollin' and Tumblin'](https://open.spotify.com/track/2xELkOxY7Idw8dAn3SQ6bZ) | [Buddy Guy & Junior Wells](https://open.spotify.com/artist/3M9QUu7NXaZrssCdFlrA5t) | [Guitar Blues 101](https://open.spotify.com/album/0mCotLBZPPVWi32oF1Cwnr) | 4:33 | 2022-05-25 |  |
 | [Rollin' On \(Acoustic\)](https://open.spotify.com/track/2lFGq1alf0bQKUx3uoTA4Z) | [Jackie Venson](https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg) | [Love Transcends](https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2) | 4:18 | 2023-02-24 |  |

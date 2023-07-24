@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: サザンオールスターズ \*👉 <a href="https://spice.eplus.jp/articles/320350?utm\_source=spotify.com&utm\_medium=referral">SPICE連動記事</a>から新着情報をキャッチ!
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,579 likes - 82 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,600 likes - 82 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 81 | [Chemtrail](https://open.spotify.com/track/5w5BMubg5Yr5jsyKNerV5P) | [In\-Bou\-Ron\-Ja](https://open.spotify.com/artist/0bPUz4RWipdqFQrEgG65cr), [TWIGY](https://open.spotify.com/artist/3LRuRmJcuRBvc7mLhTli0v) | [Chemtrail](https://open.spotify.com/album/0s1H47rEBSUcLOgtpsBUTN) | 4:20 |
 | 82 | [Trapped](https://open.spotify.com/track/5nCOX5CoUg3YnxH3RtkFaH) | [vuefloor](https://open.spotify.com/artist/4ut8eVBaW8x99Ibio3pfVe), [Hakonotoriko](https://open.spotify.com/artist/1pThOsXF5rGRLxKmMZe0zG) | [Trapped](https://open.spotify.com/album/3LrmZv496ozwAnW3V3rDGI) | 3:55 |
 
-Snapshot ID: `MCxkNWM5ZjMwODQ2NTJmOGYxOWIxMjc5Mzc2OGViNDQzOTkzYWViMDhl`
+Snapshot ID: `MCw1OGI2ZDNkNjM5MTM5MWE4OWUwZjg3Yzg1ZTIyNzdhZjdhZmRjODkx`

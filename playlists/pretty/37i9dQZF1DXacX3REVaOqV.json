@@ -1,12 +1,12 @@
 {
   "description": "The best in house music",
-  "num_followers": 168933,
+  "num_followers": 169021,
   "original_name": "House Supreme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTQ2Y2ZiZTlhNzZhZGMzZDA1MWQ2NTE2ZTI1ZWIyNzk2OGM2NDM0",
+  "snapshot_id": "MCxkMDcyODE2ODY2ODAyMDA2YmYxMWIxNTUzYzg2NTQyZGE3YjczYWZh",
   "tracks": [
     {
       "added_at": "2023-07-20 22:00:00",
@@ -371,6 +371,26 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E"
+      },
+      "artists": [
+        {
+          "name": "Butch",
+          "url": "https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv"
+        },
+        {
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+        }
+      ],
+      "duration_ms": 187286,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
         "name": "You're in My System (Dennis Quin Remixes)",
         "url": "https://open.spotify.com/album/11hmXIEpilxzxlCKjdaK6U"
       },
@@ -395,26 +415,6 @@
       "duration_ms": 365853,
       "name": "You're in My System - Dennis Quin Vocal Mix",
       "url": "https://open.spotify.com/track/7uRqCJHRsrkBU5W3RG0cnL"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E"
-      },
-      "artists": [
-        {
-          "name": "Butch",
-          "url": "https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv"
-        },
-        {
-          "name": "Nic Fanciulli",
-          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
-        }
-      ],
-      "duration_ms": 187286,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
+        "name": "The Spirit",
+        "url": "https://open.spotify.com/album/03QPSJVsJgW4I1rlCknymF"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        }
+      ],
+      "duration_ms": 135865,
+      "name": "The Spirit",
+      "url": "https://open.spotify.com/track/0dw0rUG1YSUOArsOL5Ky8I"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
         "name": "Pearls (SILK Remix)",
         "url": "https://open.spotify.com/album/3yo2oAvILNLiOcmswEzYfr"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 246718,
       "name": "Pearls - SILK Remix",
       "url": "https://open.spotify.com/track/3COoBjp98dAjysxl5ksTsV"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
-        "name": "The Spirit",
-        "url": "https://open.spotify.com/album/03QPSJVsJgW4I1rlCknymF"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        }
-      ],
-      "duration_ms": 135865,
-      "name": "The Spirit",
-      "url": "https://open.spotify.com/track/0dw0rUG1YSUOArsOL5Ky8I"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -1315,6 +1315,22 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/7a5CUFbjwkJI6aGUAQONub"
+      },
+      "artists": [
+        {
+          "name": "Jack Back",
+          "url": "https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt"
+        }
+      ],
+      "duration_ms": 158639,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/1q1ECI7iGvuYsEilkZRC1m"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
         "name": "Cosmic Witch (feat. Anan\u00e9) [Mochakk Remix]",
         "url": "https://open.spotify.com/album/38fWBTKNq37hFnBRCruAVm"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 240000,
       "name": "Cosmic Witch (feat. Anan\u00e9) - Mochakk Remix",
       "url": "https://open.spotify.com/track/6DFsOKG0Xlf441cChjW8lV"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/7a5CUFbjwkJI6aGUAQONub"
-      },
-      "artists": [
-        {
-          "name": "Jack Back",
-          "url": "https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt"
-        }
-      ],
-      "duration_ms": 158639,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/1q1ECI7iGvuYsEilkZRC1m"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -1487,30 +1487,6 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Do What You Wanna Do (Live It Cool)",
-        "url": "https://open.spotify.com/album/2YJhDgE14tkf03WfkC4GTw"
-      },
-      "artists": [
-        {
-          "name": "Franky Rizardo",
-          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
-        },
-        {
-          "name": "Ros T",
-          "url": "https://open.spotify.com/artist/4sG0aI4xrubRmrdWBIn4RO"
-        },
-        {
-          "name": "T-Connection",
-          "url": "https://open.spotify.com/artist/4zLYrCC0iBYDV8QmEYzUFS"
-        }
-      ],
-      "duration_ms": 206740,
-      "name": "Do What You Wanna Do (Live It Cool)",
-      "url": "https://open.spotify.com/track/25xngz98icEi4W3O6682KD"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
         "name": "On My Mind",
         "url": "https://open.spotify.com/album/3hKR8rhN4plMOZFHXo4N3f"
       },
@@ -1539,6 +1515,30 @@
       "duration_ms": 200156,
       "name": "Pass Me The Wine Please (My Body) - Edit",
       "url": "https://open.spotify.com/track/2SSKzTxfeLddZau6f6WDem"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "Do What You Wanna Do (Live It Cool)",
+        "url": "https://open.spotify.com/album/2YJhDgE14tkf03WfkC4GTw"
+      },
+      "artists": [
+        {
+          "name": "Franky Rizardo",
+          "url": "https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl"
+        },
+        {
+          "name": "Ros T",
+          "url": "https://open.spotify.com/artist/4sG0aI4xrubRmrdWBIn4RO"
+        },
+        {
+          "name": "T-Connection",
+          "url": "https://open.spotify.com/artist/4zLYrCC0iBYDV8QmEYzUFS"
+        }
+      ],
+      "duration_ms": 206740,
+      "name": "Do What You Wanna Do (Live It Cool)",
+      "url": "https://open.spotify.com/track/25xngz98icEi4W3O6682KD"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -1647,26 +1647,6 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Nu World (Solomun Remix)",
-        "url": "https://open.spotify.com/album/3N2BT7AISV9IgwfursJE3D"
-      },
-      "artists": [
-        {
-          "name": "Maceo Plex",
-          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
-        },
-        {
-          "name": "Solomun",
-          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
-        }
-      ],
-      "duration_ms": 234285,
-      "name": "Nu World - Solomun Remix",
-      "url": "https://open.spotify.com/track/4gIXnT4VbM21eqhWMinnpo"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
         "name": "Dam Swindle x Salsoul Reworks Vol. 1",
         "url": "https://open.spotify.com/album/1axQNdwJ7JJ4yjmQ4ryPzf"
       },
@@ -1683,6 +1663,26 @@
       "duration_ms": 454873,
       "name": "Let No Man Put Asunder - Dam Swindle Remix",
       "url": "https://open.spotify.com/track/5nyWYE1Ld3Gr3xbFUMIbVP"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "Nu World (Solomun Remix)",
+        "url": "https://open.spotify.com/album/3N2BT7AISV9IgwfursJE3D"
+      },
+      "artists": [
+        {
+          "name": "Maceo Plex",
+          "url": "https://open.spotify.com/artist/3TXQ1ddouwQAI78hV4hXDj"
+        },
+        {
+          "name": "Solomun",
+          "url": "https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC"
+        }
+      ],
+      "duration_ms": 234285,
+      "name": "Nu World - Solomun Remix",
+      "url": "https://open.spotify.com/track/4gIXnT4VbM21eqhWMinnpo"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -1799,26 +1799,6 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Gonna Be Mine (feat. Sydney Jo Jackson)",
-        "url": "https://open.spotify.com/album/2GOpLg4olpbxvFhJL8pO5H"
-      },
-      "artists": [
-        {
-          "name": "Guz",
-          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
-        },
-        {
-          "name": "Sydney Jo Jackson",
-          "url": "https://open.spotify.com/artist/3TV2LSYttSMFFHYIzbCvjn"
-        }
-      ],
-      "duration_ms": 140190,
-      "name": "Gonna Be Mine (feat. Sydney Jo Jackson)",
-      "url": "https://open.spotify.com/track/2elJe4Zx5TJzXTjPBVgtNW"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
         "name": "My Own Way",
         "url": "https://open.spotify.com/album/6sgwScp59KuNiOPvexBNfA"
       },
@@ -1835,6 +1815,26 @@
       "duration_ms": 293000,
       "name": "My Own Way - Extended",
       "url": "https://open.spotify.com/track/5x0e4uMMRFnRMxcsEYaSgC"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "Gonna Be Mine (feat. Sydney Jo Jackson)",
+        "url": "https://open.spotify.com/album/2GOpLg4olpbxvFhJL8pO5H"
+      },
+      "artists": [
+        {
+          "name": "Guz",
+          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
+        },
+        {
+          "name": "Sydney Jo Jackson",
+          "url": "https://open.spotify.com/artist/3TV2LSYttSMFFHYIzbCvjn"
+        }
+      ],
+      "duration_ms": 140190,
+      "name": "Gonna Be Mine (feat. Sydney Jo Jackson)",
+      "url": "https://open.spotify.com/track/2elJe4Zx5TJzXTjPBVgtNW"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -1863,22 +1863,18 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Diving Into Minds",
-        "url": "https://open.spotify.com/album/2MvKF44F9EhwL46cMgWE8z"
+        "name": "House Music (The Anthem)",
+        "url": "https://open.spotify.com/album/23X9hjUOBzrtzAhjp0EZie"
       },
       "artists": [
         {
-          "name": "Soichi Terada",
-          "url": "https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9"
-        },
-        {
-          "name": "Masalo",
-          "url": "https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53"
+          "name": "Tom Novy",
+          "url": "https://open.spotify.com/artist/1EVpn7mXyF07LuJqgUk6RX"
         }
       ],
-      "duration_ms": 387302,
-      "name": "Diving Into Minds - Club Mix",
-      "url": "https://open.spotify.com/track/2DRUTKWuuWebFUXu6p1krH"
+      "duration_ms": 256043,
+      "name": "House Music - Radio-Edit",
+      "url": "https://open.spotify.com/track/3BaOvxpetcgkgs1KM6o4k6"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -1903,38 +1899,22 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "House Music (The Anthem)",
-        "url": "https://open.spotify.com/album/23X9hjUOBzrtzAhjp0EZie"
+        "name": "Diving Into Minds",
+        "url": "https://open.spotify.com/album/2MvKF44F9EhwL46cMgWE8z"
       },
       "artists": [
         {
-          "name": "Tom Novy",
-          "url": "https://open.spotify.com/artist/1EVpn7mXyF07LuJqgUk6RX"
-        }
-      ],
-      "duration_ms": 256043,
-      "name": "House Music - Radio-Edit",
-      "url": "https://open.spotify.com/track/3BaOvxpetcgkgs1KM6o4k6"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
-        "name": "Head up High",
-        "url": "https://open.spotify.com/album/0Jn0pFULhYcDnEEG6QQHub"
-      },
-      "artists": [
-        {
-          "name": "Jason Herd",
-          "url": "https://open.spotify.com/artist/6NoGVcOrK4W1Xuxcl8hrCQ"
+          "name": "Soichi Terada",
+          "url": "https://open.spotify.com/artist/7nBJ5F2V7hDZE1hhKgqXM9"
         },
         {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+          "name": "Masalo",
+          "url": "https://open.spotify.com/artist/6kFJNl3ISQSkOq2iS0Lk53"
         }
       ],
-      "duration_ms": 296000,
-      "name": "Head up High - Radio Edit",
-      "url": "https://open.spotify.com/track/4Rmf1ApAOj7iznhlGloqcV"
+      "duration_ms": 387302,
+      "name": "Diving Into Minds - Club Mix",
+      "url": "https://open.spotify.com/track/2DRUTKWuuWebFUXu6p1krH"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -1979,6 +1959,26 @@
       "duration_ms": 179166,
       "name": "Jumpin' - Wh0 Remix",
       "url": "https://open.spotify.com/track/3aSM13jZZAdcS3YUXQLQNB"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "Head up High",
+        "url": "https://open.spotify.com/album/0Jn0pFULhYcDnEEG6QQHub"
+      },
+      "artists": [
+        {
+          "name": "Jason Herd",
+          "url": "https://open.spotify.com/artist/6NoGVcOrK4W1Xuxcl8hrCQ"
+        },
+        {
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "Head up High - Radio Edit",
+      "url": "https://open.spotify.com/track/4Rmf1ApAOj7iznhlGloqcV"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -2199,22 +2199,6 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "EXPO Series 001",
-        "url": "https://open.spotify.com/album/0S6RkjxQNKbIG3uLr6J1QW"
-      },
-      "artists": [
-        {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        }
-      ],
-      "duration_ms": 391961,
-      "name": "TALI",
-      "url": "https://open.spotify.com/track/5wkTldxaE77e8W5zZW8fR5"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
         "name": "Nice To Arise",
         "url": "https://open.spotify.com/album/5mWUjINeG8lLczGG7NOXKf"
       },
@@ -2227,6 +2211,22 @@
       "duration_ms": 241875,
       "name": "Nice To Arise - Edit",
       "url": "https://open.spotify.com/track/6KKA6rp9TD7s7F4ck8SGW4"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "EXPO Series 001",
+        "url": "https://open.spotify.com/album/0S6RkjxQNKbIG3uLr6J1QW"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        }
+      ],
+      "duration_ms": 391961,
+      "name": "TALI",
+      "url": "https://open.spotify.com/track/5wkTldxaE77e8W5zZW8fR5"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -2291,26 +2291,6 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Tell You What It Is (Shermanology SoulTec Mix)",
-        "url": "https://open.spotify.com/album/7GJ2eSxgOOjIbTm57N8HUV"
-      },
-      "artists": [
-        {
-          "name": "Eats Everything",
-          "url": "https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA"
-        },
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 219375,
-      "name": "Tell You What It Is - Shermanology SoulTec Mix",
-      "url": "https://open.spotify.com/track/0hb2n69F0yHdBfvMOuRs13"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
         "name": "Harder (With Busta Rhymes) - Shermanology Remix",
         "url": "https://open.spotify.com/album/2YKdhOGgOq29ImtFWvwin2"
       },
@@ -2331,6 +2311,26 @@
       "duration_ms": 204651,
       "name": "Harder (Shermanology Remix) - Radio Edit",
       "url": "https://open.spotify.com/track/2ZhZ76JnLYcjFmcExTdxNF"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "Tell You What It Is (Shermanology SoulTec Mix)",
+        "url": "https://open.spotify.com/album/7GJ2eSxgOOjIbTm57N8HUV"
+      },
+      "artists": [
+        {
+          "name": "Eats Everything",
+          "url": "https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA"
+        },
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 219375,
+      "name": "Tell You What It Is - Shermanology SoulTec Mix",
+      "url": "https://open.spotify.com/track/0hb2n69F0yHdBfvMOuRs13"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -2647,22 +2647,6 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Organ",
-        "url": "https://open.spotify.com/album/3r9Q20TK6MIkM3CbsaFPIy"
-      },
-      "artists": [
-        {
-          "name": "CINTHIE",
-          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
-        }
-      ],
-      "duration_ms": 216774,
-      "name": "Organ (DJ-Kicks) - Edit",
-      "url": "https://open.spotify.com/track/0NPDoArWeGDBcGzO5m7g4t"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
         "name": "Drowning In Your Love (feat. Jem Cooke)",
         "url": "https://open.spotify.com/album/36YT5gZk5ceqW9DwkxOHad"
       },
@@ -2683,6 +2667,22 @@
       "duration_ms": 204793,
       "name": "Drowning In Your Love (feat. Jem Cooke) - Mark Knight Remix",
       "url": "https://open.spotify.com/track/3stfe0XW3KIF1G1MNyn238"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "Organ",
+        "url": "https://open.spotify.com/album/3r9Q20TK6MIkM3CbsaFPIy"
+      },
+      "artists": [
+        {
+          "name": "CINTHIE",
+          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
+        }
+      ],
+      "duration_ms": 216774,
+      "name": "Organ (DJ-Kicks) - Edit",
+      "url": "https://open.spotify.com/track/0NPDoArWeGDBcGzO5m7g4t"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -2751,26 +2751,6 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Spaces and Places",
-        "url": "https://open.spotify.com/album/4Q4G4hrAms9J3mYmofZlrT"
-      },
-      "artists": [
-        {
-          "name": "Kerri Chandler",
-          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
-        },
-        {
-          "name": "Mauro Capitale",
-          "url": "https://open.spotify.com/artist/7n0JKnLWFw5nlpJNwdL1Hc"
-        }
-      ],
-      "duration_ms": 359951,
-      "name": "Milan [Magazzini Generali] - Full Sax Mix",
-      "url": "https://open.spotify.com/track/3sKXJ4LQ3UzecvBdtuWol9"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
         "name": "Bangene",
         "url": "https://open.spotify.com/album/5nQmadlbC2c58qYqXfzudk"
       },
@@ -2791,18 +2771,22 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Good Woman (Edit)",
-        "url": "https://open.spotify.com/album/2wY62BWaup5b7NB02dNPxm"
+        "name": "Spaces and Places",
+        "url": "https://open.spotify.com/album/4Q4G4hrAms9J3mYmofZlrT"
       },
       "artists": [
         {
-          "name": "Dam Swindle",
-          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+          "name": "Kerri Chandler",
+          "url": "https://open.spotify.com/artist/7nqpEU6DCHkNtK1bYsyS3W"
+        },
+        {
+          "name": "Mauro Capitale",
+          "url": "https://open.spotify.com/artist/7n0JKnLWFw5nlpJNwdL1Hc"
         }
       ],
-      "duration_ms": 215768,
-      "name": "Good Woman - Edit",
-      "url": "https://open.spotify.com/track/3moxYB3Zti5dXy9dIDlBrR"
+      "duration_ms": 359951,
+      "name": "Milan [Magazzini Generali] - Full Sax Mix",
+      "url": "https://open.spotify.com/track/3sKXJ4LQ3UzecvBdtuWol9"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -2823,22 +2807,18 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Strobe Queen (Remixes)",
-        "url": "https://open.spotify.com/album/4ViYiynlMfOqLLu52vhryj"
+        "name": "Good Woman (Edit)",
+        "url": "https://open.spotify.com/album/2wY62BWaup5b7NB02dNPxm"
       },
       "artists": [
         {
-          "name": "Radio Slave",
-          "url": "https://open.spotify.com/artist/4rzWjR3L3M54c6I25NzdM3"
-        },
-        {
-          "name": "Eric Kupper",
-          "url": "https://open.spotify.com/artist/2ATkDceAaeLUkxPnJPHGkz"
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
         }
       ],
-      "duration_ms": 350443,
-      "name": "Strobe Queen - Eric Kupper Remix",
-      "url": "https://open.spotify.com/track/2S5MuGkMZl3KmBa1PCqFqP"
+      "duration_ms": 215768,
+      "name": "Good Woman - Edit",
+      "url": "https://open.spotify.com/track/3moxYB3Zti5dXy9dIDlBrR"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -2871,6 +2851,26 @@
       "duration_ms": 312000,
       "name": "On Da Groove",
       "url": "https://open.spotify.com/track/3jotybhgTZeCqXFMqzfInI"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "The Reason",
+        "url": "https://open.spotify.com/album/1KzFfzFJcAWqUEP4fSnmNO"
+      },
+      "artists": [
+        {
+          "name": "Simon Kidzoo",
+          "url": "https://open.spotify.com/artist/7rsKf4S6rilmYTPrViFPlA"
+        },
+        {
+          "name": "Elliot Fitch",
+          "url": "https://open.spotify.com/artist/2KgR6IARKVVczX7fhfDDrB"
+        }
+      ],
+      "duration_ms": 146675,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/1mMjjYg5ig6kC9LGWx9G54"
     }
   ],
   "unique_name": "House Supreme",

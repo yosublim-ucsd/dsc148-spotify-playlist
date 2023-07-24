@@ -1,12 +1,12 @@
 {
   "description": "Music from the award-winning doc: The Black Power Mixtape 1967\u20131975.",
-  "num_followers": 694731,
+  "num_followers": 694916,
   "original_name": "The Black Power Mixtape 1967\u20131975",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjRmYTdjZjEwODcxMzdmYWY4NWU3MTQxMjdlMmFiYzE1YzgyYzQ0",
+  "snapshot_id": "MCw3MzI1NjcwMmEzMDk0ZTNlYjNjZDc4MjEyYTZiZmU0NDIzMmQ5ZTQy",
   "tracks": [
     {
       "added_at": "2021-04-29 10:16:48",
@@ -639,22 +639,6 @@
     {
       "added_at": "2021-04-29 10:16:48",
       "album": {
-        "name": "Hang On In There Baby",
-        "url": "https://open.spotify.com/album/6eoKjEg7UGE9ZeT3S3Q6Ix"
-      },
-      "artists": [
-        {
-          "name": "Johnny Bristol",
-          "url": "https://open.spotify.com/artist/0F4yfY9manxJrgsfwbXdZa"
-        }
-      ],
-      "duration_ms": 233720,
-      "name": "Hang On In There Baby",
-      "url": "https://open.spotify.com/track/4RYNJVKgNpwSZguajVfsef"
-    },
-    {
-      "added_at": "2021-04-29 10:16:48",
-      "album": {
         "name": "Brook Benton Today",
         "url": "https://open.spotify.com/album/5rEchSYf1EpZ0CxmwnRwKx"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 233573,
       "name": "Rainy Night in Georgia",
       "url": "https://open.spotify.com/track/2zbV4xRYLuElz4PWOXI5P7"
+    },
+    {
+      "added_at": "2021-04-29 10:16:48",
+      "album": {
+        "name": "Hang On In There Baby",
+        "url": "https://open.spotify.com/album/6eoKjEg7UGE9ZeT3S3Q6Ix"
+      },
+      "artists": [
+        {
+          "name": "Johnny Bristol",
+          "url": "https://open.spotify.com/artist/0F4yfY9manxJrgsfwbXdZa"
+        }
+      ],
+      "duration_ms": 233720,
+      "name": "Hang On In There Baby",
+      "url": "https://open.spotify.com/track/4RYNJVKgNpwSZguajVfsef"
     },
     {
       "added_at": "2021-04-29 10:16:48",
@@ -717,22 +717,6 @@
       "url": "https://open.spotify.com/track/7dwJqwTXDtsrX1QLqb0o96"
     },
     {
-      "added_at": "2021-04-29 10:16:48",
-      "album": {
-        "name": "Got To Be There",
-        "url": "https://open.spotify.com/album/0F4XW0iBOhNFkbn1BuQ8cu"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 154840,
-      "name": "Rockin' Robin",
-      "url": "https://open.spotify.com/track/63gcHyuhAC8G2C0bVQUOJI"
-    },
-    {
       "added_at": "2021-05-10 06:34:11",
       "album": {
         "name": "The Ultimate Chi-Lites",
@@ -747,6 +731,22 @@
       "duration_ms": 217520,
       "name": "Oh Girl",
       "url": "https://open.spotify.com/track/5tcR6nVpY1JRDyDcK0K60f"
+    },
+    {
+      "added_at": "2021-04-29 10:16:48",
+      "album": {
+        "name": "Got To Be There",
+        "url": "https://open.spotify.com/album/0F4XW0iBOhNFkbn1BuQ8cu"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 154840,
+      "name": "Rockin' Robin",
+      "url": "https://open.spotify.com/track/63gcHyuhAC8G2C0bVQUOJI"
     },
     {
       "added_at": "2021-04-29 10:16:48",

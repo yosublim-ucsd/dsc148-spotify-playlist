@@ -4,7 +4,7 @@
 
 > 
 
-478 songs - 21 hr 28 min
+479 songs - 21 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,6 +367,7 @@
 | [Rental](https://open.spotify.com/track/0rDLJbeXXNLZ2gbPOm87Ar) | [Lunarrr](https://open.spotify.com/artist/0Tlfd0GGFcWZxrbdkykoxn) | [Rental](https://open.spotify.com/album/70ODUDHIEOZ96NJMSgBPSn) | 4:43 | 2023-03-20 |  |
 | [Rich As Hell](https://open.spotify.com/track/5A6tFAdihqILHJrWuR6wD4) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [AI YoungBoy 2](https://open.spotify.com/album/1nzUj7VkiaytMmf2KrhK2L) | 3:35 | 2022-08-26 |  |
 | [Ride Me](https://open.spotify.com/track/3IYJlal3AW4uFQJtcLdp3O) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Rest My Case](https://open.spotify.com/album/3qQj92jS1nXAXBubXFooJU) | 1:52 | 2023-01-06 | 2023-05-09 |
+| [Roc\-A\-Fella Y'all](https://open.spotify.com/track/5Ax1mDY1KtJUrTAOde9CRp) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Roc\-A\-Fella Y'all](https://open.spotify.com/album/4hc2RNjiW54PMIkbMDFfzu) | 4:59 | 2023-07-22 |  |
 | [Rocc Climbing \(feat\. Lil Yachty\)](https://open.spotify.com/track/5bBzkJE9BqYTL27webAUCw) | [Remble](https://open.spotify.com/artist/65s98MYZ4xFpgKlUYS5XKw), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Rocc Climbing \(feat\. Lil Yachty\)](https://open.spotify.com/album/6MJPvYn6Xw3PIwUMyNXpS7) | 2:55 | 2022-10-18 | 2023-05-09 |
 | [Rock and Roll](https://open.spotify.com/track/1ghSpHC4nGlqWzbPJiVeDU) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Master the Day of Judgement](https://open.spotify.com/album/3rNf2SErEqCBoyHVYEDNU9) | 2:15 | 2022-06-10 |  |
 | [Rock N Roll](https://open.spotify.com/track/1V0jEAE4UreyX8KYxGLnLP) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Project X](https://open.spotify.com/album/0VotmXUwQt1UHyFH4VVrvt) | 2:28 | 2022-06-09 | 2023-05-09 |

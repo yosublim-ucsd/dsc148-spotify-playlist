@@ -2078,10 +2078,36 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-24",
       "duration_ms": 89600,
       "name": "Coopa",
       "url": "https://open.spotify.com/track/3S9xFuZvWb0FuC7sN8Iiek"
+    },
+    {
+      "album": {
+        "name": "Coopa",
+        "url": "https://open.spotify.com/album/5X1oPeYQy2Go8krwHEkMVY"
+      },
+      "artists": [
+        {
+          "name": "Kiraw",
+          "url": "https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4"
+        },
+        {
+          "name": "ARXMANE",
+          "url": "https://open.spotify.com/artist/3c4ngCW3y8USmyrjRdB1mG"
+        },
+        {
+          "name": "Crazy Mano",
+          "url": "https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl"
+        }
+      ],
+      "date_added": "2023-05-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90400,
+      "name": "Coopa",
+      "url": "https://open.spotify.com/track/6YbQ1QyjmMMpVVhIB6L1mg"
     },
     {
       "album": {

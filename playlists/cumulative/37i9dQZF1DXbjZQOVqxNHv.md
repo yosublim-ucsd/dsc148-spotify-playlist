@@ -4,7 +4,7 @@
 
 > All the Intelligent Dance Music you'll need \(not necessarily to dance to\)\. Aphex Twin on cover.
 
-564 songs - 2 day 5 hr 9 min
+565 songs - 2 day 5 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -550,7 +550,7 @@
 | [Why It Got to Be So Damn Tough](https://open.spotify.com/track/6Wi1XCJjhzay4ZcnfMSPkj) | [Nautilis](https://open.spotify.com/artist/7cy4FiBBQEERLyrRaBy9Kx) | [Are You an Axolotl](https://open.spotify.com/album/0Myr0vepTAQNPj1i9mek4l) | 2:04 | 2022-04-13 |  |
 | [Why It Got to Be So Damn Tough](https://open.spotify.com/track/6n2HwQcsXgf72flOkhAhUE) | [Nautilis](https://open.spotify.com/artist/7cy4FiBBQEERLyrRaBy9Kx) | [Are You an Axolotl](https://open.spotify.com/album/3TRqMvo3GGPhIVUYDiA9Xk) | 2:04 | 2022-04-13 | 2023-04-29 |
 | [Wiert](https://open.spotify.com/track/2OmbcseTy6LlPwLXQNLGRv) | [Funckarma](https://open.spotify.com/artist/0Q2lYLp53K9LwFyEHWtrIu) | [Part 4 EP](https://open.spotify.com/album/1CDsELmwjANmbhgSQ4HMBv) | 7:07 | 2022-04-13 | 2022-07-28 |
-| [Wiffle](https://open.spotify.com/track/6BvyJiRxxJ2ElvzRztqJZz) | [Delarosa And Asora](https://open.spotify.com/artist/2gzO7eVmhdwxkPYj2XDi0k) | [Agony Part 1 / Backsome](https://open.spotify.com/album/4SU0IGVBQZf1yUcgwfdw7t) | 3:07 | 2022-04-13 |  |
+| [Wiffle](https://open.spotify.com/track/6BvyJiRxxJ2ElvzRztqJZz) | [Delarosa And Asora](https://open.spotify.com/artist/2gzO7eVmhdwxkPYj2XDi0k) | [Agony Part 1 / Backsome](https://open.spotify.com/album/4SU0IGVBQZf1yUcgwfdw7t) | 3:07 | 2022-04-13 | 2023-07-24 |
 | [Windowlicker](https://open.spotify.com/track/60Pe9j2pCBa4Zp4ztf5nhd) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Windowlicker](https://open.spotify.com/album/64XdBdXNdguPHzBg8bdk5A) | 6:08 | 2022-04-13 | 2023-02-02 |
 | [Winter strobing](https://open.spotify.com/track/4OXdj44Ril1GlJE8MXeekX) | [patten](https://open.spotify.com/artist/1ld2Kfp4s2LHg94Lby403n) | [ESTOILE NAIANT](https://open.spotify.com/album/6AD69WciPpBEpTFv1tyx90) | 5:41 | 2022-04-13 | 2022-07-27 |
 | [Within You](https://open.spotify.com/track/40L2JdMiYRh19pKkdh9BkR) | [Ross 154](https://open.spotify.com/artist/7GttAya0rbCKi3boUgQXjC) | [Hybrids EP](https://open.spotify.com/album/79OajCuB8Z62Z5Dv5cekDB) | 7:06 | 2022-04-13 | 2023-04-15 |
@@ -571,6 +571,7 @@
 | [Zenus Aphalon](https://open.spotify.com/track/0vVRtPyxwUZ2FfDkIsyNsk) | [Roel Funcken](https://open.spotify.com/artist/7lKLBnxOkHjFtF5emELEnp) | [Hexavalent](https://open.spotify.com/album/1jUo9Q5w0rbX2CmJk6MLxc) | 4:54 | 2022-05-10 | 2023-07-19 |
 | [Zip Left, Zip Right](https://open.spotify.com/track/3oGa7UEICaO8EcA7tlVJ8d) | [Isan](https://open.spotify.com/artist/7a7MvRxJIoVblndypH8XgC) | [Digitalis](https://open.spotify.com/album/6SwEpgSxk3oRekFjMl69Oo) | 5:55 | 2022-04-13 | 2022-07-29 |
 | [µ\-Ziq Theme](https://open.spotify.com/track/1fwH44zNWFYUc1OAwSIbkd) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Tango N'Vectif](https://open.spotify.com/album/0SV8Fc8l7S3tRNUBUTgkqy) | 4:36 | 2022-04-13 | 2023-04-29 |
+| [µ\-Ziq Theme](https://open.spotify.com/track/3jiRMszW0zfo4cO1gT7unu) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Tango N'Vectif](https://open.spotify.com/album/1mwzd45uIahVmQ2A7UvHoq) | 4:36 | 2022-04-13 |  |
 | [µ\-Ziq Theme](https://open.spotify.com/track/71SdX5avHceBTkacN935ri) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Tango N'Vectif](https://open.spotify.com/album/1gd89zVAfPT4PSZPdRdat7) | 4:36 | 2022-04-13 | 2022-07-28 |
 
 \*This playlist was first scraped on 2022-05-30. Prior content cannot be recovered.

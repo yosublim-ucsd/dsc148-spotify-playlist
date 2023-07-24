@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: El Fantasma & La Receta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 615,965 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 616,217 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 18 | [RAYBEN CAP 5: CORONAMOS](https://open.spotify.com/track/2v1NtZLK6zqn6JzwpvwbPC) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47), [Razeth](https://open.spotify.com/artist/77rxkeN6QawsVfX7J4dm0n), [Dan García](https://open.spotify.com/artist/2yqTf1WKahF4ViLmvnX6Fy) | [RAYBEN CAP 5: CORONAMOS](https://open.spotify.com/album/7tXgDBqyvyryC9Aa5iyFAg) | 3:08 |
 | 19 | [Pa Tanto](https://open.spotify.com/track/3WewvS7iUUyev8cka7Mgl0) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Pa Tanto](https://open.spotify.com/album/20ULysRftwowCX4GCySy6f) | 2:49 |
 | 20 | [El Morro \(feat\. Carlos Caro\)](https://open.spotify.com/track/3QP1OAQFXByRcLh3tfYWfo) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm), [Amilkar Galaviz](https://open.spotify.com/artist/13IcxOeQD6jVtvtzCuDjX4), [Carlos Caro](https://open.spotify.com/artist/3zXsxf39Mj3d96u8Seopdd) | [El Morro \(feat\. Carlos Caro\)](https://open.spotify.com/album/7rviFmhdxXDawdiIkTUPho) | 4:07 |
-| 21 | [A 150](https://open.spotify.com/track/1efOV43D7VeE2YyTZflN6F) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [A 150](https://open.spotify.com/album/51g8xFmtl2Bm6TXRNidRkC) | 2:28 |
+| 21 | [A 150](https://open.spotify.com/track/1efOV43D7VeE2YyTZflN6F) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz) | [A 150](https://open.spotify.com/album/51g8xFmtl2Bm6TXRNidRkC) | 2:28 |
 | 22 | [A Punta De Balazos](https://open.spotify.com/track/1F8lAxMlkzk9EEwW9fhK5Q) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [A Punta De Balazos](https://open.spotify.com/album/1Y8deZVdBttxBmA1GJf6X8) | 4:03 |
 | 23 | [La Misma Linea](https://open.spotify.com/track/4hAMLTpgURkqiXRiAgHnc7) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [La Misma Linea](https://open.spotify.com/album/1j5EH7pzJmwcQGOVi81e6o) | 3:05 |
 | 24 | [Mándame La Ubi](https://open.spotify.com/track/3Mf9g8CqMffIownIgBEtrA) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn) | [Mándame La Ubi](https://open.spotify.com/album/42gxZZTjAR9lUp77qFLdv9) | 2:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 49 | [Sobran Motivos](https://open.spotify.com/track/0UqFVRFPxC6SfwFOTRfhRp) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Sobran Motivos](https://open.spotify.com/album/5OlH80w34KGZEUvUvTk75l) | 3:06 |
 | 50 | [Al César Lo Que Es Del César](https://open.spotify.com/track/4Lj5mqggPrFWifyfL4iFvG) | [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm), [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Al César Lo Que Es Del César](https://open.spotify.com/album/4WxxnnMwaYjTZnjdxOCnnZ) | 3:43 |
 
-Snapshot ID: `MCxkNjZiMjM0NWE4NmI0YzZhZDNmMGY0NjVkZjc1MWZiMGFmOWQ5MmRk`
+Snapshot ID: `MCxiNGIwZTAwZDJkNzc3YTEwNDY0ZDM0MWI3NWU3MmQ3NGZjNDFlZDYy`

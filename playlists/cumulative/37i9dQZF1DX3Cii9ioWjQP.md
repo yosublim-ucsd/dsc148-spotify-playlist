@@ -2,7 +2,7 @@
 
 ### [Jazzy Korea](https://open.spotify.com/playlist/37i9dQZF1DX3Cii9ioWjQP)
 
-> All about Korean Jazz hits & new \(Cover: Jane\(재인\)\)
+> All about Korean Jazz hits & new \(Cover: Heemin Chae\(채희민\)\)
 
 153 songs - 11 hr 2 min
 

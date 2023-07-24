@@ -60,7 +60,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-24",
       "duration_ms": 368386,
       "name": "Accordia",
       "url": "https://open.spotify.com/track/19pZBVcKIpZe6DqpzTEPCM"
@@ -2002,6 +2002,24 @@
       "duration_ms": 211330,
       "name": "Haunt You",
       "url": "https://open.spotify.com/track/0hqTaKU4KpCUL4dFC75rx6"
+    },
+    {
+      "album": {
+        "name": "Head In The Ocean",
+        "url": "https://open.spotify.com/album/4swIW4PM47efBmMIxm9oGa"
+      },
+      "artists": [
+        {
+          "name": "FoundSound",
+          "url": "https://open.spotify.com/artist/4kcQyzzr1khNtD4LhXmUBp"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244909,
+      "name": "Head In The Ocean",
+      "url": "https://open.spotify.com/track/77jAFxvaAYalxQsAjegc0i"
     },
     {
       "album": {

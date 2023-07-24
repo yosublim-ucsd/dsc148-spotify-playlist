@@ -1458,6 +1458,24 @@
     {
       "album": {
         "name": "Parenthesis",
+        "url": "https://open.spotify.com/album/5dKEV7dfFbH6YU5FOQBYmg"
+      },
+      "artists": [
+        {
+          "name": "Neukrapsio",
+          "url": "https://open.spotify.com/artist/61Z4ARbgYmgk3nsXcyazoa"
+        }
+      ],
+      "date_added": "2022-06-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192446,
+      "name": "Parenthesis",
+      "url": "https://open.spotify.com/track/4oSjtDkvYK0mEVJb6m3Y0U"
+    },
+    {
+      "album": {
+        "name": "Parenthesis",
         "url": "https://open.spotify.com/album/5eqyNKSdpiq17jzg8R3Hoy"
       },
       "artists": [
@@ -1468,7 +1486,7 @@
       ],
       "date_added": "2021-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-24",
       "duration_ms": 192446,
       "name": "Parenthesis",
       "url": "https://open.spotify.com/track/75cgKglcEvg8GLXkWEIzTE"

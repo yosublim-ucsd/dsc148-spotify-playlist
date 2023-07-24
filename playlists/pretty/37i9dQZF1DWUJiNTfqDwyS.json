@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Metallica",
-  "num_followers": 287523,
+  "num_followers": 287859,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MmNhMWNmMjVjYTU5OTE2NGYzYWFjYzM3OWVhM2ViZjM2YjIzMWY3",
+  "snapshot_id": "MCxjNzQ0ZmRhYjg5MTY0MTZmNGQ5ZWRmNTllYTQ1MGE4ZWM2OTE1NDI2",
   "tracks": [
     {
       "added_at": "2023-06-22 11:25:49",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-06-22 11:25:49",
       "album": {
-        "name": "Astronaut In The Ocean",
-        "url": "https://open.spotify.com/album/3OilDLxf5rFVhaQmez7ent"
-      },
-      "artists": [
-        {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
-        }
-      ],
-      "duration_ms": 134200,
-      "name": "Astronaut In The Ocean",
-      "url": "https://open.spotify.com/track/2qjH6wZfR0g11ZiT7KqyRO"
-    },
-    {
-      "added_at": "2023-06-22 11:25:49",
-      "album": {
         "name": "Garage, Inc.",
         "url": "https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 366400,
       "name": "Turn The Page",
       "url": "https://open.spotify.com/track/7HPhrbgMHV5cUskknWA2oo"
+    },
+    {
+      "added_at": "2023-06-22 11:25:49",
+      "album": {
+        "name": "Astronaut In The Ocean",
+        "url": "https://open.spotify.com/album/3OilDLxf5rFVhaQmez7ent"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 134200,
+      "name": "Astronaut In The Ocean",
+      "url": "https://open.spotify.com/track/2qjH6wZfR0g11ZiT7KqyRO"
     },
     {
       "added_at": "2023-06-22 11:25:49",

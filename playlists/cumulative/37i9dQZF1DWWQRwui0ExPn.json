@@ -35246,7 +35246,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-24",
       "duration_ms": 123385,
       "name": "Flowerpath",
       "url": "https://open.spotify.com/track/4TvyILq5u0fNlcdMCZHRiV"
@@ -51260,7 +51260,7 @@
       ],
       "date_added": "2023-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-17",
+      "date_removed": null,
       "duration_ms": 183000,
       "name": "Keep It Meta",
       "url": "https://open.spotify.com/track/73fERCJHbwaSTAQCM3qI3M"
@@ -56892,7 +56892,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-24",
       "duration_ms": 122000,
       "name": "Looking At You",
       "url": "https://open.spotify.com/track/2JyCCjIX6yP38NMckgXG5u"
@@ -70498,7 +70498,7 @@
       ],
       "date_added": "2023-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-25",
+      "date_removed": null,
       "duration_ms": 154285,
       "name": "Ocean Drive",
       "url": "https://open.spotify.com/track/6GgMDqcanxSBjqK705fOf8"
@@ -95267,6 +95267,28 @@
     },
     {
       "album": {
+        "name": "Sunset Groove",
+        "url": "https://open.spotify.com/album/6ku9NbloqgAeftuG4iBf7Q"
+      },
+      "artists": [
+        {
+          "name": "Worldtraveller",
+          "url": "https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb"
+        },
+        {
+          "name": "Max Merseny",
+          "url": "https://open.spotify.com/artist/6aRqlZxNdGFk7AGAOsl83u"
+        }
+      ],
+      "date_added": "2023-07-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140714,
+      "name": "Sunset Groove",
+      "url": "https://open.spotify.com/track/1KNFueTS6EB9uzYLctU13Q"
+    },
+    {
+      "album": {
         "name": "Sunset Hues",
         "url": "https://open.spotify.com/album/1VOZtaXhIcdabBPpiK9iOP"
       },
@@ -99222,7 +99244,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-24",
       "duration_ms": 125647,
       "name": "The Stairs are Staring",
       "url": "https://open.spotify.com/track/12WqLCwkZWzfPMCiEKWpwD"

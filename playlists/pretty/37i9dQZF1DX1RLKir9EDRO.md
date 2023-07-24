@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden en taze keşifler\. Kapak: GOSS Çizim: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,696 likes - 75 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,686 likes - 75 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 74 | [Mevsimlere Hapsoldum](https://open.spotify.com/track/3EvV2rENLgTRnUUBry1ERO) | [Sam Oray](https://open.spotify.com/artist/1B3svgVIyi5022afNa8roV) | [Mevsimlere Hapsoldum](https://open.spotify.com/album/0qrKT5QzsLSn5gFNRQtZY8) | 3:36 |
 | 75 | [Yalnız Kalp](https://open.spotify.com/track/5z59q3cc83RZg10UTFkP1c) | [Başak Çalık](https://open.spotify.com/artist/7rmp4C7dbpPmlf3Uyt4rAm) | [Yalnız Kalp](https://open.spotify.com/album/4kd4kTictkNvos8A50MRg1) | 4:21 |
 
-Snapshot ID: `MCxlODZjMjc3MjEyMDMzMGY1YjFmMWNiNDFiNTc4MjA2MjZmMjVmZWNi`
+Snapshot ID: `MCw4Yzk1MmNkYjZiY2NkZjRiZTMzNWQzZWJkMjA2MzI1MDIxZTUxZTc1`

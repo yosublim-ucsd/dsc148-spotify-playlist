@@ -1626,7 +1626,7 @@
     {
       "album": {
         "name": "Drift",
-        "url": "https://open.spotify.com/album/1Ogea1poX1WNZnbnfRF7CG"
+        "url": "https://open.spotify.com/album/3MZbcKtTrzsjh0iNOEgHcP"
       },
       "artists": [
         {
@@ -1641,6 +1641,28 @@
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 163190,
+      "name": "Drift",
+      "url": "https://open.spotify.com/track/0ydoqpTVhaDzjDg7WVcg4m"
+    },
+    {
+      "album": {
+        "name": "Drift",
+        "url": "https://open.spotify.com/album/1Ogea1poX1WNZnbnfRF7CG"
+      },
+      "artists": [
+        {
+          "name": "Teejay",
+          "url": "https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma"
+        },
+        {
+          "name": "DJ MAC",
+          "url": "https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc"
+        }
+      ],
+      "date_added": "2023-07-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-24",
       "duration_ms": 163190,
       "name": "Drift",
       "url": "https://open.spotify.com/track/2dSxEBLtCSDuA83zaypLaB"

@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: DIESEL
 
-380 songs - 21 hr 45 min
+381 songs - 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [Cobra Kai](https://open.spotify.com/track/0zch7NlCU5Jej5CO7QlovI) | [Jayceeoh](https://open.spotify.com/artist/1tCaVerFstPJotxmXX6lFL), [1000volts](https://open.spotify.com/artist/6MiWYUZOD7VJbJNSx8nUNW), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Cobra Kai](https://open.spotify.com/album/4eFypJ2teJpv9r5TdyUL3r) | 2:24 | 2022-07-08 | 2022-10-22 |
 | [Cold Case \- VIP](https://open.spotify.com/track/0l5fWjOl1LaY8LdGpMVAaa) | [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Chassi](https://open.spotify.com/artist/3uSdOouuT7NoUXdDSeJnky), [BLUPILL](https://open.spotify.com/artist/3ZJYnAKri70UCI388uqGac) | [Cold Case \(VIP\)](https://open.spotify.com/album/4JLyjTkd8KIRPAtRVnwD13) | 2:08 | 2022-08-26 |  |
 | [collusion](https://open.spotify.com/track/1fuD0mWleShbrcRQmFYifG) | [phonon](https://open.spotify.com/artist/4CySw3P8BeBPMBr9Rymc8Y), [benjamin francis](https://open.spotify.com/artist/77orLdlSeYbDKQwXPbXQMB) | [collusion](https://open.spotify.com/album/2G3OTX6tRPNNOjl7d5oeOY) | 2:56 | 2022-04-01 | 2022-07-27 |
-| [Control](https://open.spotify.com/track/3cWVaWR049bfJpxqIn0RrJ) | [Calcium](https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM) | [Control](https://open.spotify.com/album/7jkL9mLVusMyCHby3Rnj1N) | 3:24 | 2023-06-23 |  |
+| [Control](https://open.spotify.com/track/3cWVaWR049bfJpxqIn0RrJ) | [Calcium](https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM) | [Control](https://open.spotify.com/album/7jkL9mLVusMyCHby3Rnj1N) | 3:24 | 2023-06-23 | 2023-07-24 |
 | [Control \(feat\. Add1ction\)](https://open.spotify.com/track/5oWyUpdAW3PqOg8lSiRxli) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Add1ction](https://open.spotify.com/artist/4RDLjBccKYkC5mJqxDEbt6) | [Control \(feat\. Add1ction\)](https://open.spotify.com/album/58yeuRwPRp7KFoIn0uhtzw) | 3:15 | 2021-12-17 | 2022-03-12 |
 | [COUNTRY RIDDIM](https://open.spotify.com/track/1dayiIC3odxNLViFQ7Iq4W) | [HOL!](https://open.spotify.com/artist/75YeSAKC6xPhgkjnltCmGB) | [COUNTRY RIDDIM](https://open.spotify.com/album/5m8PDUPsNjUHjdGcfP4IXc) | 2:57 | 2023-04-28 |  |
 | [Crash Landing](https://open.spotify.com/track/3nwiXEeuhYGWszEWPOzvK4) | [Barely Alive](https://open.spotify.com/artist/5c3akKV3CUqAVOnGZqf4S3), [Drew Seeley](https://open.spotify.com/artist/1ryIDQiTzFFxHmmjijqghs) | [Feel The Panic EP](https://open.spotify.com/album/0cqklN2AwGsjJpKwBAvfmZ) | 3:12 | 2022-11-11 | 2023-06-10 |
@@ -252,6 +252,7 @@
 | [Open Up This Pit](https://open.spotify.com/track/6vKOUJvLj02q7zdGrS2vp1) | [Boogie T](https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY) | [The Archives](https://open.spotify.com/album/4zCDRA2KaDa8UdX8GgeOil) | 3:15 | 2023-06-30 |  |
 | [Our Fire](https://open.spotify.com/track/2EgXhbQ9SliIgqWbB4JYHW) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Onyx](https://open.spotify.com/album/7tWLBskvupaWXOWzfmiU97) | 4:19 | 2022-01-14 | 2023-04-01 |
 | [Out Of My Head](https://open.spotify.com/track/2GbInmkrrUOSG0Q57gt2Na) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Thrashout](https://open.spotify.com/artist/06gQPVgdmLJUAo4HdW8oLy) | [Out Of My Head](https://open.spotify.com/album/6FGebBndNrEv5hNPPHqHFJ) | 2:43 | 2022-06-24 |  |
+| [Overtone](https://open.spotify.com/track/2ytaa43QSNp4UDXRV2LyX9) | [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums) | [Overtone](https://open.spotify.com/album/6ar4vhJRAdixcN4uSFH4l8) | 3:06 | 2023-07-21 |  |
 | [Own The Night](https://open.spotify.com/track/73yiAXig9qPlUYYAQGTT8F) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Own The Night](https://open.spotify.com/album/7C5kxq9EAe1TeyT0fMiOB3) | 3:00 | 2022-04-22 | 2023-04-01 |
 | [Parachute](https://open.spotify.com/track/4rGJKqbPpn5HUhMKeZMFhe) | [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj), [Amidy](https://open.spotify.com/artist/685c4a84PTRlygc8EUE7tV) | [Parachute](https://open.spotify.com/album/5g9FEdY7SHc21AD2duTgac) | 3:52 | 2022-06-03 | 2023-04-01 |
 | [Paradise](https://open.spotify.com/track/2n7eITOXa1UK6AksMavXk6) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [Paradise](https://open.spotify.com/album/6NyCqZSQdkZimUqULFUIPG) | 3:31 | 2023-03-17 |  |

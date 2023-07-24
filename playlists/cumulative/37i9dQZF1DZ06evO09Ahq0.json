@@ -376,7 +376,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-24",
       "duration_ms": 217653,
       "name": "G",
       "url": "https://open.spotify.com/track/3hpB5SlyESKXrmc6NUNQhd"
@@ -1014,6 +1014,24 @@
       "duration_ms": 259800,
       "name": "Warmness On The Soul",
       "url": "https://open.spotify.com/track/018zT8xThRbMH2QeUoMlKQ"
+    },
+    {
+      "album": {
+        "name": "Life Is But a Dream\u2026",
+        "url": "https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2023-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375026,
+      "name": "We Love You",
+      "url": "https://open.spotify.com/track/0JUZetZb7lxLsmT7HwNCQv"
     },
     {
       "album": {

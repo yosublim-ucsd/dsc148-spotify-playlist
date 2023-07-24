@@ -1,12 +1,12 @@
 {
   "description": "Classic party anthems from the club to your ears!",
-  "num_followers": 268030,
+  "num_followers": 268131,
   "original_name": "Warehouse Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYThjYjNkYTliNzc3YmRjYTY1YzdhMjFmMjBkYjdhZjZhN2QxNjUz",
+  "snapshot_id": "MCxmMDdhNGEwZTYyN2U5MjBhMDI1Mjg5MzQ2NzM1YWM4OGIzY2JjMWVi",
   "tracks": [
     {
       "added_at": "2020-11-06 16:59:04",
@@ -343,26 +343,6 @@
     {
       "added_at": "2020-11-06 16:59:04",
       "album": {
-        "name": "Torus",
-        "url": "https://open.spotify.com/album/5VDg2zP4jsc8Ufj1dPEA3d"
-      },
-      "artists": [
-        {
-          "name": "Sub Focus",
-          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
-        },
-        {
-          "name": "Alpines",
-          "url": "https://open.spotify.com/artist/5Rja2iSIMNhzHMRoKzHKNX"
-        }
-      ],
-      "duration_ms": 228826,
-      "name": "Tidal Wave",
-      "url": "https://open.spotify.com/track/3NKLPcvDM0pefpLNcmui2W"
-    },
-    {
-      "added_at": "2020-11-06 16:59:04",
-      "album": {
         "name": "Cola",
         "url": "https://open.spotify.com/album/06M4lDqeBSMxVTFsNE8Sxi"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 223869,
       "name": "Cola",
       "url": "https://open.spotify.com/track/7ir1tVqAtNjctvteJPw5MF"
+    },
+    {
+      "added_at": "2020-11-06 16:59:04",
+      "album": {
+        "name": "Torus",
+        "url": "https://open.spotify.com/album/5VDg2zP4jsc8Ufj1dPEA3d"
+      },
+      "artists": [
+        {
+          "name": "Sub Focus",
+          "url": "https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO"
+        },
+        {
+          "name": "Alpines",
+          "url": "https://open.spotify.com/artist/5Rja2iSIMNhzHMRoKzHKNX"
+        }
+      ],
+      "duration_ms": 228826,
+      "name": "Tidal Wave",
+      "url": "https://open.spotify.com/track/3NKLPcvDM0pefpLNcmui2W"
     },
     {
       "added_at": "2020-11-06 16:59:04",

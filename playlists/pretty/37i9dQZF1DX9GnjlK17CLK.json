@@ -1,12 +1,12 @@
 {
   "description": "Plugged in and cranked up; the hottest Blues records from an amplified era. Cover: B.B. King.",
-  "num_followers": 105288,
+  "num_followers": 105407,
   "original_name": "Electric Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmFlYmFhYTFkNzIwMzYwMjg4OTNjN2JkODQyODVlMTAxYTNmMTY3",
+  "snapshot_id": "MCxhNjQ2ZGM4NThhMzcyNmE5NjgzYmM2M2I3OWVkOGVlZTZiY2E4Mzll",
   "tracks": [
     {
       "added_at": "2023-06-16 14:13:18",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-06-16 14:13:18",
       "album": {
-        "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
-        "url": "https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD"
-      },
-      "artists": [
-        {
-          "name": "Willie Dixon",
-          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
-        }
-      ],
-      "duration_ms": 295466,
-      "name": "Spoonful",
-      "url": "https://open.spotify.com/track/6c2qCpSjexlM9HYg9TnFFt"
-    },
-    {
-      "added_at": "2023-06-16 14:13:18",
-      "album": {
         "name": "In Session (Remaster w/ eBooklet)",
         "url": "https://open.spotify.com/album/62rUsLpP1lxJ1gJUiXJJI4"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 540573,
       "name": "Call It Stormy Monday",
       "url": "https://open.spotify.com/track/0v6tG0HoAHiluZAeany7oU"
+    },
+    {
+      "added_at": "2023-06-16 14:13:18",
+      "album": {
+        "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
+        "url": "https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD"
+      },
+      "artists": [
+        {
+          "name": "Willie Dixon",
+          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
+        }
+      ],
+      "duration_ms": 295466,
+      "name": "Spoonful",
+      "url": "https://open.spotify.com/track/6c2qCpSjexlM9HYg9TnFFt"
     },
     {
       "added_at": "2023-06-16 14:13:18",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-06-16 14:13:18",
       "album": {
-        "name": "I Am The Blues",
-        "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
-      },
-      "artists": [
-        {
-          "name": "Willie Dixon",
-          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
-        }
-      ],
-      "duration_ms": 400760,
-      "name": "I Can't Quit You, Baby",
-      "url": "https://open.spotify.com/track/4iKp3icJChjTFQBYbydH43"
-    },
-    {
-      "added_at": "2023-06-16 14:13:18",
-      "album": {
         "name": "The Best Of Muddy Waters",
         "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
       },
@@ -635,18 +619,18 @@
     {
       "added_at": "2023-06-16 14:13:18",
       "album": {
-        "name": "Al's Big Deal",
-        "url": "https://open.spotify.com/album/4tjoWIPvhO3GW5vty6tHUn"
+        "name": "I Am The Blues",
+        "url": "https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N"
       },
       "artists": [
         {
-          "name": "Al Kooper",
-          "url": "https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv"
+          "name": "Willie Dixon",
+          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
         }
       ],
-      "duration_ms": 414000,
-      "name": "Albert's Shuffle",
-      "url": "https://open.spotify.com/track/1eWZY9g8A7GAbBTfxMUy14"
+      "duration_ms": 400760,
+      "name": "I Can't Quit You, Baby",
+      "url": "https://open.spotify.com/track/4iKp3icJChjTFQBYbydH43"
     },
     {
       "added_at": "2023-06-16 14:13:18",
@@ -663,6 +647,22 @@
       "duration_ms": 291080,
       "name": "Motherless Children",
       "url": "https://open.spotify.com/track/1v0PatOEeF1g1fVRNlmw9k"
+    },
+    {
+      "added_at": "2023-06-16 14:13:18",
+      "album": {
+        "name": "Al's Big Deal",
+        "url": "https://open.spotify.com/album/4tjoWIPvhO3GW5vty6tHUn"
+      },
+      "artists": [
+        {
+          "name": "Al Kooper",
+          "url": "https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv"
+        }
+      ],
+      "duration_ms": 414000,
+      "name": "Albert's Shuffle",
+      "url": "https://open.spotify.com/track/1eWZY9g8A7GAbBTfxMUy14"
     },
     {
       "added_at": "2023-06-16 14:13:18",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-06-16 14:13:18",
       "album": {
-        "name": "The Chess Story 1957-1964",
-        "url": "https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB"
-      },
-      "artists": [
-        {
-          "name": "Betty James",
-          "url": "https://open.spotify.com/artist/4aBu3Gcusv3NI99mFiMI6v"
-        }
-      ],
-      "duration_ms": 171266,
-      "name": "I'm A Little Mixed Up",
-      "url": "https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG"
-    },
-    {
-      "added_at": "2023-06-16 14:13:18",
-      "album": {
         "name": "Green Onions",
         "url": "https://open.spotify.com/album/2sSDqJOZ7gea3yMbqPUrhq"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 150693,
       "name": "Jelly Bread",
       "url": "https://open.spotify.com/track/2eaAUnd8AKIFD0RAfPiW3z"
+    },
+    {
+      "added_at": "2023-06-16 14:13:18",
+      "album": {
+        "name": "The Chess Story 1957-1964",
+        "url": "https://open.spotify.com/album/6hLDuFXaABk2LySPldc5CB"
+      },
+      "artists": [
+        {
+          "name": "Betty James",
+          "url": "https://open.spotify.com/artist/4aBu3Gcusv3NI99mFiMI6v"
+        }
+      ],
+      "duration_ms": 171266,
+      "name": "I'm A Little Mixed Up",
+      "url": "https://open.spotify.com/track/4cLPvcojgZHpaxP7d5akhG"
     },
     {
       "added_at": "2023-06-16 14:13:18",
@@ -883,22 +883,6 @@
     {
       "added_at": "2023-06-16 14:13:18",
       "album": {
-        "name": "Buddy Guy/ Freddie King/ Sonny Boy Williamson",
-        "url": "https://open.spotify.com/album/0K4t8v6w7lXab6n0yTNkA9"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 264400,
-      "name": "Sweet Home Chicago",
-      "url": "https://open.spotify.com/track/1vshrZ49jUnyLM6udiv2vo"
-    },
-    {
-      "added_at": "2023-06-16 14:13:18",
-      "album": {
         "name": "Mr. Wonderful (Deluxe)",
         "url": "https://open.spotify.com/album/3RT7bmMbIAuDHB9L1HwTzh"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 161040,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/2ovvpvMVd1ZcvP0qttCnDa"
+    },
+    {
+      "added_at": "2023-06-16 14:13:18",
+      "album": {
+        "name": "Buddy Guy/ Freddie King/ Sonny Boy Williamson",
+        "url": "https://open.spotify.com/album/0K4t8v6w7lXab6n0yTNkA9"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 264400,
+      "name": "Sweet Home Chicago",
+      "url": "https://open.spotify.com/track/1vshrZ49jUnyLM6udiv2vo"
     },
     {
       "added_at": "2023-06-16 14:13:18",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-06-16 14:13:18",
       "album": {
+        "name": "Peter Green's Fleetwood Mac (Deluxe)",
+        "url": "https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 193626,
+      "name": "Shake Your Moneymaker",
+      "url": "https://open.spotify.com/track/1FJtni7NloBrRmPZlpqZ20"
+    },
+    {
+      "added_at": "2023-06-16 14:13:18",
+      "album": {
         "name": "His Best",
         "url": "https://open.spotify.com/album/5u0ERVy1Cic5KiDnGpgMRj"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 207000,
       "name": "Nine Below Zero",
       "url": "https://open.spotify.com/track/1OOgibj50nhRqNqUVQWuoi"
-    },
-    {
-      "added_at": "2023-06-16 14:13:18",
-      "album": {
-        "name": "Blues 100",
-        "url": "https://open.spotify.com/album/3jU0cukuViSuOm3EqTaOQe"
-      },
-      "artists": [
-        {
-          "name": "Little Milton",
-          "url": "https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan"
-        }
-      ],
-      "duration_ms": 283106,
-      "name": "4:59am",
-      "url": "https://open.spotify.com/track/4mKYXnWs3NLCK8VSSqJdv3"
     }
   ],
   "unique_name": "Electric Blues Classics",

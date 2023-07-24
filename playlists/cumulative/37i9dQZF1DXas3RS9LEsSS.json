@@ -1154,10 +1154,28 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-24",
       "duration_ms": 172898,
       "name": "Que Pena",
       "url": "https://open.spotify.com/track/4xOLS2Fa48jL47HszrEewo"
+    },
+    {
+      "album": {
+        "name": "Ahora es Cuando",
+        "url": "https://open.spotify.com/album/2wY6Aw7iQXHA5aXzvzjEOk"
+      },
+      "artists": [
+        {
+          "name": "Bender Bucowski",
+          "url": "https://open.spotify.com/artist/6i5Zx8vR9kRUFfDnZRKAMa"
+        }
+      ],
+      "date_added": "2022-10-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172898,
+      "name": "Que Pena",
+      "url": "https://open.spotify.com/track/6VKj8RsvScqfn5k8ol8qih"
     },
     {
       "album": {

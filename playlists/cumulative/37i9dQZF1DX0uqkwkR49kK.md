@@ -4,7 +4,7 @@
 
 > A collection of insane progressive rock creations, from classic acts to recent gems\. Cover: Rush
 
-207 songs - 1 day 5 hr 14 min
+208 songs - 1 day 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,8 +170,9 @@
 | [Tarkus](https://open.spotify.com/track/5IZvOrxSUY40xMGqfPRtzH) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Tarkus \(Deluxe Edition\)](https://open.spotify.com/album/3tt3D35QdEs139bdb7wCoi) | 20:37 | 2018-09-28 | 2022-07-29 |
 | [Tarkus \- i\. Eruption / ii\. Stones of Years / iii\. Iconoclast / iv\. Mass / v\. Manticore / vi\. Battlefield / vii\. Aquatarkus; 2012 Remaster](https://open.spotify.com/track/62d0aGpYF2p8fpvJ1qa32V) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Tarkus \(Deluxe\)](https://open.spotify.com/album/6mqJylLfGnLCXhdyMPBCRo) | 20:37 | 2018-09-28 |  |
 | [Tarkus \- i\. Eruption / ii\. Stones of Years / iii\. Iconoclast / iv\. Mass / v\. Manticore / vi\. Battlefield / vii\. Aquatarkus; 2012 Remaster](https://open.spotify.com/track/53XV0umjeHpsobMTPzcwc3) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [The Anthology](https://open.spotify.com/album/0frleTv0z2bVtd6ZwAr2LV) | 20:38 | 2018-09-28 | 2022-11-13 |
+| [The Advent of Panurge \(2011 Remaster\)](https://open.spotify.com/track/0dgwyLC0Be4eTvMYT6INoq) | [Gentle Giant](https://open.spotify.com/artist/1hrQ50kU6hMQBVLatqUqnO) | [Octopus \(2011 Remaster\)](https://open.spotify.com/album/51H2cJ6f296y5OtWMD2Vjo) | 4:43 | 2023-03-22 |  |
 | [The Advent of Panurge \- 2011 Remaster](https://open.spotify.com/track/3Z8tGcjElFgFZnga729G2m) | [Gentle Giant](https://open.spotify.com/artist/1hrQ50kU6hMQBVLatqUqnO) | [Octopus \(2011 Remaster\)](https://open.spotify.com/album/2xar45ZLETOzJwDH4DwihG) | 4:43 | 2023-03-22 | 2023-04-21 |
-| [The Advent of Panurge \- Steven Wilson Mix](https://open.spotify.com/track/7BCG8qrwGFsTMT3R4AhF10) | [Gentle Giant](https://open.spotify.com/artist/1hrQ50kU6hMQBVLatqUqnO), [Steven Wilson](https://open.spotify.com/artist/4X42BfuhWCAZ2swiVze9O0) | [Octopus \(Steven Wilson Mix\)](https://open.spotify.com/album/77JV3at9mjHWzD3Iub1zSh) | 4:43 | 2023-03-22 |  |
+| [The Advent of Panurge \- Steven Wilson Mix](https://open.spotify.com/track/7BCG8qrwGFsTMT3R4AhF10) | [Gentle Giant](https://open.spotify.com/artist/1hrQ50kU6hMQBVLatqUqnO), [Steven Wilson](https://open.spotify.com/artist/4X42BfuhWCAZ2swiVze9O0) | [Octopus \(Steven Wilson Mix\)](https://open.spotify.com/album/77JV3at9mjHWzD3Iub1zSh) | 4:43 | 2023-03-22 | 2023-07-24 |
 | [The Cinema Show](https://open.spotify.com/track/6ZrMg5HC55GPJxh7YXZ9yf) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Selling England by the Pound](https://open.spotify.com/album/7xaM3ah9ZO4BjrcFj5vOZe) | 11:06 | 2021-05-05 | 2023-03-23 |
 | [The Court Of The Crimson King](https://open.spotify.com/track/1OFjv0Cq2JeK3FPvPG98rJ) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [In The Court Of The Crimson King \(Expanded & Remastered Original Album Mix\)](https://open.spotify.com/album/5wec5BciMpDMzlEFpYeHse) | 10:02 | 2019-07-01 | 2022-07-29 |
 | [The Court Of The Crimson King \- Including "The Return of the Fire Witch" and "The Dance of the Puppets"](https://open.spotify.com/track/05xYoVj6QuFk0U7PVl5Tf2) | [King Crimson](https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi) | [In The Court Of The Crimson King \(Expanded & Remastered Original Album Mix\)](https://open.spotify.com/album/6tVg2Wl9hVKMpHYcAl2V2M) | 10:02 | 2019-07-01 | 2023-03-23 |

@@ -2547,6 +2547,24 @@
     },
     {
       "album": {
+        "name": "Vasos Vac\u00edos",
+        "url": "https://open.spotify.com/album/54A9Agody2BGDXtTGMdFn4"
+      },
+      "artists": [
+        {
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+        }
+      ],
+      "date_added": "2023-07-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275893,
+      "name": "Matador - Remasterizado 2008",
+      "url": "https://open.spotify.com/track/7d4pdMym8ZBOgf1oVPTiPb"
+    },
+    {
+      "album": {
         "name": "Infinite summer",
         "url": "https://open.spotify.com/album/5jAs6j5Dbpqo1Zr7QcZAoP"
       },
@@ -2888,7 +2906,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-24",
       "duration_ms": 255986,
       "name": "No Te Veo - Digital Single",
       "url": "https://open.spotify.com/track/40EDOraCqoiMf14TzODihf"

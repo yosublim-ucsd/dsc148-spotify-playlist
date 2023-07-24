@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > Chique e confortável como a realeza do Trap\. Foto: Senndy
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,755 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,878 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 44 | [Isso Que É Bom](https://open.spotify.com/track/2LUj933qs4IEFzSLLS9aJS) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Hash Produções](https://open.spotify.com/artist/4BZ0ACrHCLropCpHJypPvV) | [Isso Que É Bom](https://open.spotify.com/album/5FtV4axHZhRLHjT33tpaMk) | 2:35 |
 | 45 | [Frozone](https://open.spotify.com/track/5jzcxib2TSkbcEuZPPF1DT) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Salve Crazy](https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q), [prod by bila](https://open.spotify.com/artist/5nbCda7BnnfQC3V1Ft5ic2) | [Frozone](https://open.spotify.com/album/4JpuEAM5YMFpyhNwd9IkSs) | 2:58 |
 | 46 | [Animais Traidores](https://open.spotify.com/track/0joR9BM1Y2ieSnl7bA2EHY) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [VEGA](https://open.spotify.com/artist/6x0SXnV5f1D9q5pHkwToub) | [Animais Traidores](https://open.spotify.com/album/6y2A0eRXjwkJ0b9VCaLkum) | 3:16 |
-| 47 | [Seu Namorado é Playboy](https://open.spotify.com/track/73JahDSn0kwEHFZtJzYXf0) | [Fabin](https://open.spotify.com/artist/5CFIBhFm7Ndt7xVCBwwlrF), [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Nord Gang](https://open.spotify.com/artist/5i1hyePuUBJf1Yxv5V5WqA) | [Seu Namorado é Playboy](https://open.spotify.com/album/57bzWfU1i2nCCEzAord7Kz) | 2:39 |
-| 48 | [Big D!!!!!](https://open.spotify.com/track/6YSAbJ9fQCMYcCqaYwSIph) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Duani](https://open.spotify.com/artist/2GeuUpdRlUDJWW9FLmwhI1), [Rizzi Get Busy](https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO) | [TAURUS](https://open.spotify.com/album/0CG4W3xxvDlL7tEm4aZZyN) | 3:29 |
+| 47 | [Big D!!!!!](https://open.spotify.com/track/6YSAbJ9fQCMYcCqaYwSIph) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Duani](https://open.spotify.com/artist/2GeuUpdRlUDJWW9FLmwhI1), [Rizzi Get Busy](https://open.spotify.com/artist/4VlgWkOGAvRh8Ke38UvqgO) | [TAURUS](https://open.spotify.com/album/0CG4W3xxvDlL7tEm4aZZyN) | 3:29 |
+| 48 | [Seu Namorado é Playboy](https://open.spotify.com/track/73JahDSn0kwEHFZtJzYXf0) | [Fabin](https://open.spotify.com/artist/5CFIBhFm7Ndt7xVCBwwlrF), [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Nord Gang](https://open.spotify.com/artist/5i1hyePuUBJf1Yxv5V5WqA) | [Seu Namorado é Playboy](https://open.spotify.com/album/57bzWfU1i2nCCEzAord7Kz) | 2:39 |
 | 49 | [Melhor Gestão](https://open.spotify.com/track/22yszoADkRxUuvJosP9hNg) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx) | [Melhor Gestão](https://open.spotify.com/album/7cEPHEZOTSlTztMevEMXRT) | 3:26 |
 | 50 | [Volvo sem placa](https://open.spotify.com/track/4QiAwMtRTvSdup6BtOgDYJ) | [Distrito 23](https://open.spotify.com/artist/5itNRAG8DPcD6Yrm1rFPLv), [Raflow](https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0), [SD9](https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52) | [Volvo sem placa](https://open.spotify.com/album/1SfbniI5nihS2tv51SvZ6z) | 2:48 |
 
-Snapshot ID: `MCw3NTU1ZDY3ZmJmYTA4YTIyODhhNTIyMGRmZjdhZWI1NGUwN2VhNzBl`
+Snapshot ID: `MCw4ODRjYWY3ZmFjZmJkZGI4M2M3YWE3M2EzNzExMDE4MDY5Mzg2ZTcw`

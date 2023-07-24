@@ -1,12 +1,12 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Ronisia",
-  "num_followers": 37277,
+  "num_followers": 37282,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5OGE1NjQ2OTZhYzVkYzA2NmI1ODQ4NTJkN2QxNzk3MGUyNTZmYjcw",
+  "snapshot_id": "MCw2ODI3NzExYjBhNWMyZTk4MDEzNjg3OWZmNjA5OWE4MGE4NjVjMmVl",
   "tracks": [
     {
       "added_at": "2023-07-21 04:01:00",
@@ -443,26 +443,6 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Salement",
-        "url": "https://open.spotify.com/album/1aYMtmu2bfmxGqggmMjSnk"
-      },
-      "artists": [
-        {
-          "name": "Kerchak",
-          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
-        },
-        {
-          "name": "Alonzo",
-          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
-        }
-      ],
-      "duration_ms": 163034,
-      "name": "Salement",
-      "url": "https://open.spotify.com/track/5YcUFycFAyWzPs94nnP63O"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
         "name": "Derni\u00e8re danse",
         "url": "https://open.spotify.com/album/59Aeo4d7E0FVfHH5wZVi3Q"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 191773,
       "name": "Derni\u00e8re danse",
       "url": "https://open.spotify.com/track/3UYc8Rc0hskiAzyvczieGl"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Salement",
+        "url": "https://open.spotify.com/album/1aYMtmu2bfmxGqggmMjSnk"
+      },
+      "artists": [
+        {
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+        },
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        }
+      ],
+      "duration_ms": 163034,
+      "name": "Salement",
+      "url": "https://open.spotify.com/track/5YcUFycFAyWzPs94nnP63O"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
+        "name": "Roly",
+        "url": "https://open.spotify.com/album/0WNbPgSGD0Csc2XVihcrpS"
+      },
+      "artists": [
+        {
+          "name": "Timal",
+          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
+        }
+      ],
+      "duration_ms": 225996,
+      "name": "Roly",
+      "url": "https://open.spotify.com/track/0TjodbaIbejaVOY2uQnCxO"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
         "name": "Daddy 9",
         "url": "https://open.spotify.com/album/7myGxTlSrRIav4gOCybgsa"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 176453,
       "name": "Molo (feat. Dadju)",
       "url": "https://open.spotify.com/track/4ZhuivUPhDFWj9rjImvyYM"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "Roly",
-        "url": "https://open.spotify.com/album/0WNbPgSGD0Csc2XVihcrpS"
-      },
-      "artists": [
-        {
-          "name": "Timal",
-          "url": "https://open.spotify.com/artist/2ptKt4yP4mYRZmvi09JYyi"
-        }
-      ],
-      "duration_ms": 225996,
-      "name": "Roly",
-      "url": "https://open.spotify.com/track/0TjodbaIbejaVOY2uQnCxO"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -587,18 +587,18 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Eyes Contact",
-        "url": "https://open.spotify.com/album/670uKRQ9Io0xWqQ98lS9rK"
+        "name": "Femmes",
+        "url": "https://open.spotify.com/album/14I7PjywH21Zptb8VxDG3u"
       },
       "artists": [
         {
-          "name": "Hornet La Frappe",
-          "url": "https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW"
+          "name": "Kerchak",
+          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
         }
       ],
-      "duration_ms": 138109,
-      "name": "Eyes Contact",
-      "url": "https://open.spotify.com/track/1LU5LqBOgdJIQvNIjV41Ky"
+      "duration_ms": 131399,
+      "name": "Femmes",
+      "url": "https://open.spotify.com/track/6k6Orw2NCDFuTiyyRYAcRB"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -635,18 +635,18 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Femmes",
-        "url": "https://open.spotify.com/album/14I7PjywH21Zptb8VxDG3u"
+        "name": "Eyes Contact",
+        "url": "https://open.spotify.com/album/670uKRQ9Io0xWqQ98lS9rK"
       },
       "artists": [
         {
-          "name": "Kerchak",
-          "url": "https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332"
+          "name": "Hornet La Frappe",
+          "url": "https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW"
         }
       ],
-      "duration_ms": 131399,
-      "name": "Femmes",
-      "url": "https://open.spotify.com/track/6k6Orw2NCDFuTiyyRYAcRB"
+      "duration_ms": 138109,
+      "name": "Eyes Contact",
+      "url": "https://open.spotify.com/track/1LU5LqBOgdJIQvNIjV41Ky"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/2lecuAW041jFGznJIATbhz"
-      },
-      "artists": [
-        {
-          "name": "Ana\u00efs Cardot",
-          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
-        }
-      ],
-      "duration_ms": 248759,
-      "name": "Colors",
-      "url": "https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
         "name": "Alg\u00e9rien F\u00e2ch\u00e9",
         "url": "https://open.spotify.com/album/3O3dTqhhkmORFUULWIvxgb"
       },
@@ -823,6 +807,22 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/2lecuAW041jFGznJIATbhz"
+      },
+      "artists": [
+        {
+          "name": "Ana\u00efs Cardot",
+          "url": "https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU"
+        }
+      ],
+      "duration_ms": 248759,
+      "name": "Colors",
+      "url": "https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
         "name": "Et si ?",
         "url": "https://open.spotify.com/album/7cmRDU8mSCgoZKEC8nmr9f"
       },
@@ -835,26 +835,6 @@
       "duration_ms": 181714,
       "name": "Et si ?",
       "url": "https://open.spotify.com/track/59Ej6X1MZD00tL8roBI9hx"
-    },
-    {
-      "added_at": "2023-07-21 04:01:00",
-      "album": {
-        "name": "On finira peut-\u00eatre heureux",
-        "url": "https://open.spotify.com/album/6TXAt7Cr5LrRefCBOEQJYX"
-      },
-      "artists": [
-        {
-          "name": "Tsew The Kid",
-          "url": "https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC"
-        },
-        {
-          "name": "Hatik",
-          "url": "https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU"
-        }
-      ],
-      "duration_ms": 197869,
-      "name": "D\u00e9sert",
-      "url": "https://open.spotify.com/track/5WXSQ6fdFGybbY6ZdknoLr"
     },
     {
       "added_at": "2023-07-21 04:01:00",
@@ -891,18 +871,42 @@
     {
       "added_at": "2023-07-21 04:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4dmxL8WtniD8zHWqp4GabV"
+        "name": "On finira peut-\u00eatre heureux",
+        "url": "https://open.spotify.com/album/6TXAt7Cr5LrRefCBOEQJYX"
       },
       "artists": [
         {
-          "name": "Jay Sc\u00f8tt",
-          "url": "https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx"
+          "name": "Tsew The Kid",
+          "url": "https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC"
+        },
+        {
+          "name": "Hatik",
+          "url": "https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU"
         }
       ],
-      "duration_ms": 139019,
-      "name": "L'amour - Spotify Singles",
-      "url": "https://open.spotify.com/track/4nL8XR8Q353qWRfa23Aqqw"
+      "duration_ms": 197869,
+      "name": "D\u00e9sert",
+      "url": "https://open.spotify.com/track/5WXSQ6fdFGybbY6ZdknoLr"
+    },
+    {
+      "added_at": "2023-07-21 04:01:00",
+      "album": {
+        "name": "Pour nous",
+        "url": "https://open.spotify.com/album/51rumLSZOQswEty93fSey3"
+      },
+      "artists": [
+        {
+          "name": "Imen Es",
+          "url": "https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E"
+        },
+        {
+          "name": "Rsko",
+          "url": "https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44"
+        }
+      ],
+      "duration_ms": 167251,
+      "name": "Pour nous",
+      "url": "https://open.spotify.com/track/406vkcaidoH3fKPfdytL6Y"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

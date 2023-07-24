@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6r8hObcpBOeuCd7Zua3L5E.md) - [plain]
 
 > Sped up songs from TikTok and around the internet.
 
-[Digster](https://open.spotify.com/user/digster.fm) - 25,279 likes - 50 songs - 2 hr 18 min
+[Digster](https://open.spotify.com/user/digster.fm) - 25,288 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/6r8hObcpBOeuCd7Zua3L5E.md) - [plain]
 | 49 | [Hotel \(Sped Up\)](https://open.spotify.com/track/0yQgvvEyDS5xICpMsj6O2k) | [Lawsy](https://open.spotify.com/artist/4KatuTqriDODW9YiAIZD3T) | [Hotel \(Sped Up\)](https://open.spotify.com/album/5R41oZrPS2ehYpdndO7Muu) | 2:08 |
 | 50 | [ICU \- Sped Up Version](https://open.spotify.com/track/5RIOjcxeB7zF3O1btOekxk) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [ICU \(Sped Up Version\)](https://open.spotify.com/album/2b6OcNQsFaeRHf0VyAjDDA) | 2:47 |
 
-Snapshot ID: `Nzk5LGIyODEzMWY5YWFkMTdjOGFhMWNhZjllZTFhMWUwYWY5NDc3MTUxM2Y=`
+Snapshot ID: `ODAxLDExZmFhOTMwMDIyZjE2ZWUwMGUyMmIyMjk5NDNkNDJjNzc2Y2YzYjA=`

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG6ypkYaOJL.md) - [plain]
 
 > Aquí está la música de Fanático, la serie de Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,068 likes - 18 songs - 58 min 12 sec
+[Spotify](https://open.spotify.com/user/spotify) - 1,069 likes - 18 songs - 58 min 12 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Rebelión](https://open.spotify.com/track/3jM59UshXAZ94eRYLTL016) | [Quimera](https://open.spotify.com/artist/4ivGfYMnTioPixc0e9Prfi) | [Rebelión](https://open.spotify.com/album/2DIAML1x1kCKNRJGtAGFDP) | 2:57 |
 | 2 | [Diablos](https://open.spotify.com/track/7oILlqkIKl0mNBN4k8eaSG) | [Quimera](https://open.spotify.com/artist/4ivGfYMnTioPixc0e9Prfi) | [Diablos](https://open.spotify.com/album/0k79I6niA0AMFCEuLw8pJ9) | 2:58 |
-| 3 | [WALO](https://open.spotify.com/track/65v0r10DBGY5C0Z4pjHmI2) | [Ounacer98](https://open.spotify.com/artist/4jHEwlCebsIxEnDF63OsS5) | [WALO](https://open.spotify.com/album/1rj3PKD2lsNk1E5sdBHa46) | 3:49 |
+| 3 | [WALO](https://open.spotify.com/track/2kO739EXBh5TRXImLK4kss) | [Ounacer98](https://open.spotify.com/artist/4jHEwlCebsIxEnDF63OsS5) | [WALO](https://open.spotify.com/album/0cIKUd5egRKBNIKl4GZouU) | 3:49 |
 | 4 | [Qué Hice](https://open.spotify.com/track/51YZsnWXxpQCE6VYwTBTFz) | [Quimera](https://open.spotify.com/artist/4ivGfYMnTioPixc0e9Prfi) | [Qué Hice](https://open.spotify.com/album/6ElCUYN1fgyyLhmaMUi3uW) | 2:22 |
 | 5 | [Urano](https://open.spotify.com/track/3Lsx8At5mPvKvKoztNlgvy) | [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH), [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [DJ Stuart](https://open.spotify.com/artist/7aS2yrmVy9YdStiDXluOSE) | [Urano](https://open.spotify.com/album/1yIfCDdjG79SmvZJGoZfWp) | 2:16 |
 | 6 | [Good Bad Times](https://open.spotify.com/track/2YY6BmV3FAsCPXj3RK28H3) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [The Prettiest Curse](https://open.spotify.com/album/7mBtzjnzUXnaDk9LtBrjZx) | 3:18 |
@@ -27,4 +27,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG6ypkYaOJL.md) - [plain]
 | 17 | [Atlantis Riddim](https://open.spotify.com/track/0hdOZXtse8WYVsA1Ok3ZWl) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC) | [Soul Waste](https://open.spotify.com/album/4ungK52Ght7QUuKwRc0rlF) | 2:10 |
 | 18 | [6 Feet](https://open.spotify.com/track/78EDmwVdZzp6vTl3hVWzpW) | [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [Lxrdszn](https://open.spotify.com/album/77esJILHiTRAXl6yGgR4kW) | 2:01 |
 
-Snapshot ID: `MCxkNTViYzc1ZTI2YzFhN2ZmNzI4ZTYyNTZjNWEyOTI2YzAwYmFmMDNk`
+Snapshot ID: `MCw5ZGIyOGM2ZmM2Y2UwMTYyYTU4ZTRjZmQzMzk5MTEwNGM1ZDJkMWJi`

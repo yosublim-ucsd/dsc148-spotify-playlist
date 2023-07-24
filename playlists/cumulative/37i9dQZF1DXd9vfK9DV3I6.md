@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-258 songs - 19 hr 0 min
+259 songs - 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [all the things i got](https://open.spotify.com/track/6v23NC6jtRJaAZJehAfxoZ) | [Faruk Orakci](https://open.spotify.com/artist/2jjH04yNhYlg9ELbQnzEGe), [Ceren Toksöz](https://open.spotify.com/artist/0myjfPfYo0O5lpWRZZMpzT) | [all the things i got](https://open.spotify.com/album/5aoS1dovoz26u81WOSE3nz) | 2:25 | 2020-12-13 | 2022-07-29 |
 | [all the things i got](https://open.spotify.com/track/7yKrNNtG7zSXceOoQf1XQv) | [Faruk Orakci](https://open.spotify.com/artist/2jjH04yNhYlg9ELbQnzEGe), [Ceren Toksöz](https://open.spotify.com/artist/0myjfPfYo0O5lpWRZZMpzT) | [all the things i got](https://open.spotify.com/album/6YDWYDGrrEIrTc4mC32b06) | 2:25 | 2022-06-27 | 2023-03-18 |
 | [Alone](https://open.spotify.com/track/6h8NuIBrwMcXkoLZNPqCzt) | [Furkan Sert](https://open.spotify.com/artist/4IzsCody9kpNcm6FKl459I), [Elnur Mikayilov](https://open.spotify.com/artist/7hdMO5XGg4Dgy0hVYA9BIi) | [Alone](https://open.spotify.com/album/0aEauJP7jXHDBkdibASYlU) | 3:45 | 2020-10-18\* |  |
+| [Amelia](https://open.spotify.com/track/04v56jvsU9UbDDfW5WgSNj) | [Efemero](https://open.spotify.com/artist/1L2VE46yd9NmPWDukWhO7D) | [Amelia](https://open.spotify.com/album/0zvW1EeUdL5KWzOTfcGf3f) | 3:13 | 2023-07-21 |  |
 | [Amelia](https://open.spotify.com/track/6QFe6vJhkqlHEgejKYc992) | [Efemero](https://open.spotify.com/artist/1L2VE46yd9NmPWDukWhO7D) | [Amelia](https://open.spotify.com/album/5cYxKr8O3AnJs17QeF6M9t) | 3:13 | 2022-09-29 | 2023-07-17 |
 | [Amor](https://open.spotify.com/track/6zqQCPgWUqJZSfaAbG6o8p) | [Otilia](https://open.spotify.com/artist/6RQDTlies3nrNDJwXvbBZT), [Umut Kilic](https://open.spotify.com/artist/4LTPqfgIAxjjCcPtszxBiT) | [Amor](https://open.spotify.com/album/2sXEo5lJtkMIFLgyS5Oxwx) | 3:00 | 2021-11-05 | 2022-09-05 |
 | [Anatolian Vibe](https://open.spotify.com/track/5VgX4eEeWruVUwFvNvtYld) | [Kad1r](https://open.spotify.com/artist/3jE4ASRCE1MR5GDzP2jkIi), [Bugra Atmaca](https://open.spotify.com/artist/7jKUdhVs6dJS5bvaKIhh23) | [Anatolian Vibe](https://open.spotify.com/album/4xSOeTuBYmLOrYbkXUkmHK) | 3:07 | 2022-04-15 | 2023-03-16 |
@@ -251,7 +252,7 @@
 | [Will You Stay \(feat\. Georgia Alexandra\) \[Rivo Remix\]](https://open.spotify.com/track/1QJhtBw5LBWEqXJBCEHNaV) | [Melih Aydogan](https://open.spotify.com/artist/5697sWl951kKEnsCXGZarM), [Georgia Alexandra](https://open.spotify.com/artist/0Hd8Cz0ljrjCJLnQaym8Wz), [Rivo](https://open.spotify.com/artist/4yURwmb56ISSxwTu6G0hvY) | [Will You Stay \(feat\. Georgia Alexandra\) \[Rivo Remix\]](https://open.spotify.com/album/4nmUacLVvnSw4xO5e2bMgT) | 2:46 | 2022-06-27 |  |
 | [Will You Stay \- Rivo Remix](https://open.spotify.com/track/5fktYPyklwA6zScbpyti0X) | [Melih Aydogan](https://open.spotify.com/artist/5697sWl951kKEnsCXGZarM), [Georgia Alexandra](https://open.spotify.com/artist/0Hd8Cz0ljrjCJLnQaym8Wz), [Rivo](https://open.spotify.com/artist/4yURwmb56ISSxwTu6G0hvY) | [Will You Stay \(Rivo Remix\)](https://open.spotify.com/album/386Pl8HoGXswgsMrvCEqOh) | 2:46 | 2021-04-19 | 2022-07-29 |
 | [Ya Ghayeb](https://open.spotify.com/track/5HRonL7F7N4Sd3XeVyLGBt) | [DJ Maximus](https://open.spotify.com/artist/2p0tbndG8hGG7q756YN6WE), [Bob Zoabi](https://open.spotify.com/artist/45Tb1ZlbaGsVsWaWT0P8eW) | [Ya Ghayeb](https://open.spotify.com/album/6XJCSklPxNl8IJZyPOrq3F) | 3:37 | 2020-10-18\* |  |
-| [Ya Rayeh](https://open.spotify.com/track/3PU7mVJbqsEsowKgEPdqNW) | [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74), [Latif El Idrissi](https://open.spotify.com/artist/3jBG8lkqZiBWL2GDMsE2rD) | [Ya Rayeh](https://open.spotify.com/album/3rxXVZ7hyrgUlzlT64C5QM) | 5:30 | 2023-04-11 |  |
+| [Ya Rayeh](https://open.spotify.com/track/3PU7mVJbqsEsowKgEPdqNW) | [Faylasuf](https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74), [Latif El Idrissi](https://open.spotify.com/artist/3jBG8lkqZiBWL2GDMsE2rD) | [Ya Rayeh](https://open.spotify.com/album/3rxXVZ7hyrgUlzlT64C5QM) | 5:30 | 2023-04-11 | 2023-07-24 |
 | [Yaman \- Radio Edit](https://open.spotify.com/track/1JomuRkday0y29kjtxJQ0q) | [DJ Dark](https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn), [Dj Nil](https://open.spotify.com/artist/6qD8aNIxyqa7SXCJNLDi47), [Zara](https://open.spotify.com/artist/4wMiYZnNDSQGBGLlBT4cAb) | [Yaman](https://open.spotify.com/album/5xWy7VAU1D1e6RJandRATO) | 4:53 | 2020-10-18\* | 2023-03-18 |
 | [Yasameen](https://open.spotify.com/track/47bVE60Uy0ocuG1przWZh4) | [Recham](https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP), [Douae El Rhiouane](https://open.spotify.com/artist/7sgfspDSlZvFOGchSj9Wki) | [Yasameen](https://open.spotify.com/album/66Z8bUrODtB5OW7unF0h8h) | 5:44 | 2020-10-18\* |  |
 | [Yorgunum Kaptan](https://open.spotify.com/track/4jSLy6yaQLomhIpcpxCryu) | [islandman](https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4), [Cem Karaca](https://open.spotify.com/artist/1lIbZfJvMQRqzhtCQsg5EI) | [Yorgunum Kaptan](https://open.spotify.com/album/0orjdc2Bx5usV46bsmD3ut) | 4:28 | 2022-10-27 | 2022-12-05 |

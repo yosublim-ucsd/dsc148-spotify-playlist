@@ -1,12 +1,12 @@
 {
   "description": "Grandes sucessos e novidades do rock Crist\u00e3o. Foto: Fernandinho",
-  "num_followers": 120820,
+  "num_followers": 120930,
   "original_name": "Templo do Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjNkODY5ZDRmNDU1MDFjNDhhMTg1NmRmMzljNzdkNDI0M2M1ODIx",
+  "snapshot_id": "MCwwMjI1YTcyYzJiZGZiZGE4Y2M0YThkNzQ4MzkzN2ZkODMxNzFmM2Rm",
   "tracks": [
     {
       "added_at": "2023-07-21 04:50:34",
@@ -391,22 +391,18 @@
     {
       "added_at": "2023-07-21 04:50:34",
       "album": {
-        "name": "NAVES IMPERIAIS",
-        "url": "https://open.spotify.com/album/7bmxgJFIVD4rNi4x73i2Jy"
+        "name": "ELE \u00c9 EXALTADO",
+        "url": "https://open.spotify.com/album/103JMiPuCFhMwLccEbFiLZ"
       },
       "artists": [
         {
           "name": "PG",
           "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
-        },
-        {
-          "name": "Walter Lopes",
-          "url": "https://open.spotify.com/artist/6QH24lnUEMFIhGmKyuNgFV"
         }
       ],
-      "duration_ms": 314137,
-      "name": "NAVES IMPERIAIS",
-      "url": "https://open.spotify.com/track/4puX3OiPSEFC5AgLbStFNJ"
+      "duration_ms": 298342,
+      "name": "ELE \u00c9 EXALTADO",
+      "url": "https://open.spotify.com/track/0xxfg8088Vi7oAhGpjbYII"
     },
     {
       "added_at": "2023-07-21 04:50:34",
@@ -583,18 +579,22 @@
     {
       "added_at": "2023-07-21 04:50:34",
       "album": {
-        "name": "ELE \u00c9 EXALTADO",
-        "url": "https://open.spotify.com/album/103JMiPuCFhMwLccEbFiLZ"
+        "name": "NAVES IMPERIAIS",
+        "url": "https://open.spotify.com/album/7bmxgJFIVD4rNi4x73i2Jy"
       },
       "artists": [
         {
           "name": "PG",
           "url": "https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM"
+        },
+        {
+          "name": "Walter Lopes",
+          "url": "https://open.spotify.com/artist/6QH24lnUEMFIhGmKyuNgFV"
         }
       ],
-      "duration_ms": 298342,
-      "name": "ELE \u00c9 EXALTADO",
-      "url": "https://open.spotify.com/track/0xxfg8088Vi7oAhGpjbYII"
+      "duration_ms": 314137,
+      "name": "NAVES IMPERIAIS",
+      "url": "https://open.spotify.com/track/4puX3OiPSEFC5AgLbStFNJ"
     },
     {
       "added_at": "2023-07-21 04:50:34",
@@ -615,18 +615,22 @@
     {
       "added_at": "2023-07-21 04:50:34",
       "album": {
-        "name": "A Carta",
-        "url": "https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba"
+        "name": "Mente Brilhante",
+        "url": "https://open.spotify.com/album/5c35wXVbHDGXhnY84WFmSy"
       },
       "artists": [
         {
-          "name": "Abel Junho",
-          "url": "https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn"
+          "name": "Palankin",
+          "url": "https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ"
+        },
+        {
+          "name": "Ana Rock",
+          "url": "https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U"
         }
       ],
-      "duration_ms": 296500,
-      "name": "A Carta",
-      "url": "https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn"
+      "duration_ms": 307533,
+      "name": "Mente Brilhante",
+      "url": "https://open.spotify.com/track/7GJdlUbMQHcAS9ztW6YFZ7"
     },
     {
       "added_at": "2023-07-21 04:50:34",
@@ -647,22 +651,18 @@
     {
       "added_at": "2023-07-21 04:50:34",
       "album": {
-        "name": "Mente Brilhante",
-        "url": "https://open.spotify.com/album/5c35wXVbHDGXhnY84WFmSy"
+        "name": "A Carta",
+        "url": "https://open.spotify.com/album/1uFoMEXuKx7EBN3IDSXpba"
       },
       "artists": [
         {
-          "name": "Palankin",
-          "url": "https://open.spotify.com/artist/796gkD2e78sHPMakFcnqUJ"
-        },
-        {
-          "name": "Ana Rock",
-          "url": "https://open.spotify.com/artist/7hh91Pi4y3ey6t0m8I0P5U"
+          "name": "Abel Junho",
+          "url": "https://open.spotify.com/artist/3oI345jxR8FTbMegl0N1mn"
         }
       ],
-      "duration_ms": 307533,
-      "name": "Mente Brilhante",
-      "url": "https://open.spotify.com/track/7GJdlUbMQHcAS9ztW6YFZ7"
+      "duration_ms": 296500,
+      "name": "A Carta",
+      "url": "https://open.spotify.com/track/6wKQ84PvskrEA0Oum0sUMn"
     },
     {
       "added_at": "2023-07-21 04:50:34",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-07-21 04:50:34",
       "album": {
-        "name": "Hoje",
-        "url": "https://open.spotify.com/album/2ce7nhONsfJkhYvbdG302z"
-      },
-      "artists": [
-        {
-          "name": "Arianne",
-          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
-        }
-      ],
-      "duration_ms": 244457,
-      "name": "N\u00e1ufrago",
-      "url": "https://open.spotify.com/track/4S59qX21KI984gd80DhHCx"
-    },
-    {
-      "added_at": "2023-07-21 04:50:34",
-      "album": {
         "name": "Profundo",
         "url": "https://open.spotify.com/album/1m0GeZjCt95u0WiONSKcDc"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 323440,
       "name": "Simplesmente",
       "url": "https://open.spotify.com/track/2bHetBlOSHbqxRdqcgu9NP"
+    },
+    {
+      "added_at": "2023-07-21 04:50:34",
+      "album": {
+        "name": "Hoje",
+        "url": "https://open.spotify.com/album/2ce7nhONsfJkhYvbdG302z"
+      },
+      "artists": [
+        {
+          "name": "Arianne",
+          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
+        }
+      ],
+      "duration_ms": 244457,
+      "name": "N\u00e1ufrago",
+      "url": "https://open.spotify.com/track/4S59qX21KI984gd80DhHCx"
     },
     {
       "added_at": "2023-07-21 04:50:34",

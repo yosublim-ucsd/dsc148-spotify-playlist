@@ -157,6 +157,24 @@
     },
     {
       "album": {
+        "name": "Aunque Digan",
+        "url": "https://open.spotify.com/album/29b00fvXr3hwLz02dQb3ng"
+      },
+      "artists": [
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+        }
+      ],
+      "date_added": "2023-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112875,
+      "name": "Batallandole",
+      "url": "https://open.spotify.com/track/11rWU8SmenUBGXxcdgtGbN"
+    },
+    {
+      "album": {
         "name": "Bien Alerta (En vivo)",
         "url": "https://open.spotify.com/album/1Wz6iNlCxF0iyuwnoe22kx"
       },
@@ -678,7 +696,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-24",
       "duration_ms": 202296,
       "name": "La Mitad - en Vivo",
       "url": "https://open.spotify.com/track/7pjkkFo5S9KVObBPbthtDw"

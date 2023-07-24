@@ -4,7 +4,7 @@
 
 > The <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels\. Cover: ARIA VEGA\. Artwork by Isu Kim\. Updates every Wednesday.
 
-4,538 songs - 10 day 7 hr 48 min
+4,539 songs - 10 day 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2877,7 +2877,7 @@
 | [Oddities and Prodigies](https://open.spotify.com/track/4BG1QQGeyyssmRKy0OuXlm) | [Caroline Romano](https://open.spotify.com/artist/1MgbE6bu4MzbVLfAesPRol) | [Oddities & Prodigies](https://open.spotify.com/album/46n8rL1vHBdtUh9x7Bcud1) | 1:59 | 2022-03-02 | 2022-03-10 |
 | [Odds Are Good](https://open.spotify.com/track/4c5TkIDTIQnwnqRW4zt7Dt) | [Annett Gapstream](https://open.spotify.com/artist/1aRB0SZZ28qswBQ037uYvD) | [Annett Gapstream \| Local Dialect](https://open.spotify.com/album/1K2K06zyyAcB6Twe2mPqWO) | 6:34 | 2022-08-24 | 2022-09-01 |
 | [ode to praying to the answering machine](https://open.spotify.com/track/2jWYA3Z7rd7HvZyMeVKrll) | [amy michelle](https://open.spotify.com/artist/3aHbuUBU52Ht7xdrCH4moR) | [ode to praying to the answering machine](https://open.spotify.com/album/4Q0junC1R59aklFFyFTTYB) | 3:11 | 2023-03-15 | 2023-03-23 |
-| [Ode To T](https://open.spotify.com/track/21hzJoieDGFJtnelfEvWNF) | [Saint Precious](https://open.spotify.com/artist/7EtHe2rjA7F4wVXM1rxsy6) | [Ode To T](https://open.spotify.com/album/1KhPpYOXaFZbxRkDy1XExg) | 4:59 | 2023-07-19 |  |
+| [Ode To T](https://open.spotify.com/track/21hzJoieDGFJtnelfEvWNF) | [Saint Precious](https://open.spotify.com/artist/7EtHe2rjA7F4wVXM1rxsy6) | [Ode To T](https://open.spotify.com/album/1KhPpYOXaFZbxRkDy1XExg) | 4:59 | 2023-07-19 | 2023-07-24 |
 | [Odyssey](https://open.spotify.com/track/1Dp7whHQLqyhlWV4z8jJc5) | [Julia Pratt](https://open.spotify.com/artist/0F9yMp30FUREoa635VLsY8) | [Odyssey](https://open.spotify.com/album/4uuWpzTfQzJp6dV6HrlhgG) | 3:03 | 2023-01-11 | 2023-01-19 |
 | [Off The Edge](https://open.spotify.com/track/7JuLymV0sWOQZauGwtCn7y) | [Toby Hobart](https://open.spotify.com/artist/3tUXWcfWHvxepLCfAZUKK9) | [Off The Edge](https://open.spotify.com/album/6tJ0cCZAiqAGro9nQqnnyk) | 3:37 | 2022-09-21 | 2022-09-29 |
 | [Off The Grid](https://open.spotify.com/track/6B06hIQolypbuU8DRmK4Jf) | [gardenstate](https://open.spotify.com/artist/1XcPIHqirx1Jaxm2bAxMeV) | [Inspirations](https://open.spotify.com/album/0i73CBJl788pVN1OendqgI) | 4:37 | 2021-11-17 | 2022-01-13 |
@@ -4285,6 +4285,7 @@
 | [Wake Up](https://open.spotify.com/track/12316rlI7Mrr3cBNCMCOEV) | [Odet](https://open.spotify.com/artist/6NluCdkugeqhK6bjknJbLl), [Szatt](https://open.spotify.com/artist/7CvAaHIdLQdAGOIEL9MKkS) | [Wake Up](https://open.spotify.com/album/6b8rj6M7LJojPlZXWLukYv) | 4:46 | 2023-04-26 | 2023-05-04 |
 | [Wake up and Leave](https://open.spotify.com/track/4S2M8ptshVlXDpgsjVB5nJ) | [just\_leben](https://open.spotify.com/artist/1goS4gdV9d01XZWHDOXcOe) | [Wake up and Leave](https://open.spotify.com/album/3AJ8kW01JlY4yWwPKZmy25) | 2:33 | 2023-02-22 | 2023-03-02 |
 | [Waking Up 2 A Heartbreak](https://open.spotify.com/track/7CrP18CRBQjKIfr6R68zAJ) | [Max Volante](https://open.spotify.com/artist/4bVHt4QRWHMTRbb27flRon) | [Waking Up 2 A Heartbreak](https://open.spotify.com/album/1eY6U2NnpeAvh1lPz6PG0L) | 2:22 | 2023-02-01 | 2023-02-09 |
+| [Walk Away](https://open.spotify.com/track/72SxbJ4G1EZvVwQUqLT96X) | [buffchick](https://open.spotify.com/artist/0bySwTrRN75nqs2vLS00zn) | [Walk Away](https://open.spotify.com/album/2rjxMMrjeTFgorZ1F4wCnd) | 3:52 | 2023-07-19 |  |
 | [Walk in the Dark](https://open.spotify.com/track/3g3bipEmAdh12uRH2pGpLe) | [A.O\. Gerber](https://open.spotify.com/artist/2OywDp0ldLitUL5iM8phSf) | [Meet Me at the Gloaming](https://open.spotify.com/album/2h503WD2Ll2p8oEbBx6LmK) | 4:00 | 2022-10-19 | 2022-10-27 |
 | [Walk The Streets On Sunrise](https://open.spotify.com/track/2vFUMvndbd3L8rQHNCOudi) | [Michael Dunstan](https://open.spotify.com/artist/1NiUyWpQtsymFf3Ks4DZlt) | [Walk The Streets On Sunrise](https://open.spotify.com/album/4Ppuzpq395r6xmMcy5p8hr) | 3:55 | 2022-07-20 | 2022-07-28 |
 | [walkin'](https://open.spotify.com/track/1MFaK9LHLoh7zKaW5D1zYg) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR) | [walkin'](https://open.spotify.com/album/5dWRgcv6C12uB8iuNE1UsS) | 2:53 | 2022-10-26 | 2022-11-10 |

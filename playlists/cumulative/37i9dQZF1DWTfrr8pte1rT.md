@@ -4,7 +4,7 @@
 
 > Rock with a Drop\. Cover: Rezz \\m/
 
-313 songs - 17 hr 54 min
+314 songs - 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Black Velvet](https://open.spotify.com/track/0UyvpiRpS6aR33jAHweZbL) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI), [Ninet Tayeb](https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4) | [Black Velvet](https://open.spotify.com/album/2sLR9P3xAhR74bmiyK6V8i) | 4:08 | 2022-08-12 |  |
 | [Blame It On Me](https://open.spotify.com/track/4v7GciNsOxRYSgkEsaFjn7) | [Cadmium](https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy), [Shiah Maisel](https://open.spotify.com/artist/7wGFrLo9v8FKS2iWyYx75t) | [Blame It On Me](https://open.spotify.com/album/7iJ9URmWTk2Yy6DG941ZY5) | 2:53 | 2022-09-02 | 2022-10-16 |
 | [Blood // Water](https://open.spotify.com/track/7clyJIrLkEbXUDwj1tC9zz) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [a modern tragedy vol\. 1](https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV) | 3:34 | 2021-12-10 | 2022-02-26 |
+| [Blue Monday](https://open.spotify.com/track/0wR44usvM0qPk1TiLkjovX) | [Zardonic](https://open.spotify.com/artist/7BqEidErPMNiUXCRE0dV2n), [REEBZ](https://open.spotify.com/artist/2cUSgme8otbeKGRDl6xm1t) | [Superstars](https://open.spotify.com/album/0d0hlFmmPN2ez86f5jgzBJ) | 4:29 | 2023-07-21 |  |
 | [BLVCK](https://open.spotify.com/track/41klTnnqKeBmhwqgbIuTOA) | [TOKYO ROSE](https://open.spotify.com/artist/3kwoPkICT4iPkNjr6mL13N), [Becko](https://open.spotify.com/artist/6Vu1oZl4ozrU6zqdidyCMU) | [BLVCK](https://open.spotify.com/album/2Av1p0DEnZTPnteLzJ2YKF) | 2:53 | 2021-12-10 | 2022-06-25 |
 | [Bored To Death \- Steve Aoki Remix](https://open.spotify.com/track/7xddswKFyyesNjV8wpCGLo) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [Bored To Death \(Steve Aoki Remix\)](https://open.spotify.com/album/7E7PahPGnTqpY4OxzSs9pY) | 3:58 | 2022-04-01 | 2023-02-01 |
 | [Born For Greatness \(Felmax Remix\)](https://open.spotify.com/track/3vUx53e6Ua4DfvCdWutAey) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [FelMax](https://open.spotify.com/artist/3oLY5NvzasiNds27QLs9Pa) | [Born For Greatness \(Felmax Remix\)](https://open.spotify.com/album/1Ht9ty8NxxZRboVktH5Y4S) | 3:15 | 2021-12-10 | 2022-04-02 |
@@ -307,7 +308,7 @@
 | [Wait](https://open.spotify.com/track/64pmOdBwsj6t3hMDlWpz42) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf), [Qoiet](https://open.spotify.com/artist/7vlBJhLIORnTMtC9ZKcTFo) | [The Year The World Stood Still](https://open.spotify.com/album/4F3hXEsI6xyNz6C7auqAq2) | 3:38 | 2021-12-10 | 2022-07-29 |
 | [Waiting](https://open.spotify.com/track/5IctAQm39y9qiMtbKdzLzf) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Waiting](https://open.spotify.com/album/07ndCcq4Rtg94YEaEwDTKI) | 3:30 | 2021-12-10 | 2022-06-25 |
 | [Wake Up](https://open.spotify.com/track/1XP0VR8KMArstV37bfzkt8) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Apex](https://open.spotify.com/album/6zAoh1dmY6dDlkh9CSO5Im) | 5:39 | 2021-12-10 | 2022-03-22 |
-| [Walk On Water \(with Danni Carra\)](https://open.spotify.com/track/3cLJPj03j74cOPa2g7ci3M) | [Fells](https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7), [Danni Carra](https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1) | [Walk On Water \(with Danni Carra\)](https://open.spotify.com/album/5IAUJvKcJ7ItrUa0Kc5hO1) | 3:02 | 2022-11-18 |  |
+| [Walk On Water \(with Danni Carra\)](https://open.spotify.com/track/3cLJPj03j74cOPa2g7ci3M) | [Fells](https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7), [Danni Carra](https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1) | [Walk On Water \(with Danni Carra\)](https://open.spotify.com/album/5IAUJvKcJ7ItrUa0Kc5hO1) | 3:02 | 2022-11-18 | 2023-07-24 |
 | [War](https://open.spotify.com/track/2LUsPNpXp7vpLK3U7AIJoG) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [War](https://open.spotify.com/album/3Tb37lT5xnXxi1WS4kyOfW) | 3:15 | 2023-01-30 |  |
 | [WARNING](https://open.spotify.com/track/5VVQFkUixspcTsNkW9X3v6) | [REAPER](https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf) | [WARNING](https://open.spotify.com/album/2TTNyWrwWrmKgYzOkGpFO4) | 3:13 | 2022-02-25 |  |
 | [Watch Me Now \(feat\. Koda & VAAAL\)](https://open.spotify.com/track/7Lc7Sqh2drQf8c2LK5v2Hu) | [The Crystal Method](https://open.spotify.com/artist/5eKLa1xyHLq8ERWmT1CRHj), [Koda](https://open.spotify.com/artist/3WhvgoOwfFRjuHf7zgCptu), [VAAAL](https://open.spotify.com/artist/69F2d9RXVEVXH6Dhy5G7ng) | [The Trip Out](https://open.spotify.com/album/78qwuQ29QWiA4PkfF6CC2b) | 3:21 | 2022-04-15 | 2023-04-09 |

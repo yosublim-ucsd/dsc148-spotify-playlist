@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: NewJeans
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,669 likes - 85 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,679 likes - 85 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 84 | [There's Nothing Else](https://open.spotify.com/track/15NKx0UmvfJEkuiyiHckTu) | [Assia Keva](https://open.spotify.com/artist/78rdZWsKiflQNcM4ecLyi8) | [There's Nothing Else](https://open.spotify.com/album/3nVq24HfZtk38x8TgHHIVq) | 3:42 |
 | 85 | [Love On Our Side](https://open.spotify.com/track/3LKQxFbjggBP8HckHIVXxR) | [Tanayu](https://open.spotify.com/artist/32mJinuGJRIppgtdgxUXE5) | [Love On Our Side](https://open.spotify.com/album/3Dsten0a5DcWBpGojl6VqE) | 4:24 |
 
-Snapshot ID: `MCxiM2ZkYmUzYzhlMGZiMGU4OThjNTkxMmMxOTEwOTMzMDdiNDEzOGQx`
+Snapshot ID: `MCw2OGY2NTQzYzYwYWRkMGVlNzE4MzVmMmI4ZmIzYjg4NzM3MTRmZjRl`

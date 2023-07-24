@@ -1366,10 +1366,28 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-24",
       "duration_ms": 241176,
       "name": "Expectativas",
       "url": "https://open.spotify.com/track/52VSw6NJEKV9IOzi1oSiEp"
+    },
+    {
+      "album": {
+        "name": "Expectativas",
+        "url": "https://open.spotify.com/album/28fdrhpIWCcRPqfa42EZJv"
+      },
+      "artists": [
+        {
+          "name": "Elisa",
+          "url": "https://open.spotify.com/artist/0gnQN7JojqeQnPJllZWNoX"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244705,
+      "name": "Expectativas",
+      "url": "https://open.spotify.com/track/6Uda7OXP87LTXj6slEiPRv"
     },
     {
       "album": {

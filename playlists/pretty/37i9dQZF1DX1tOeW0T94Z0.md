@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 
 > Nothing but precious sounds from the 90s & 2000s\. Cover: Jully Black
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,169 likes - 75 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,180 likes - 75 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tOeW0T94Z0.md) - [plain]
 | 74 | [Formation](https://open.spotify.com/track/1ohNGsQ3anAsAywqjFvUMA) | [Mathematik](https://open.spotify.com/artist/2Kixa46IDOKcm9T5LeBZ1H) | [Ecology](https://open.spotify.com/album/7flLLFOfhJ2zGXiyPzCJnJ) | 4:02 |
 | 75 | [The Radio Edit](https://open.spotify.com/track/3LucZMivE3CYFWGFgdao1Q) | [Sugar Jones](https://open.spotify.com/artist/3PDXxxiHRyqwU2GLg6zJHT), [Justin Grey For Big Boom Entertainment](https://open.spotify.com/artist/05JfwFiagvihkfnK64VP9g) | [Days Like That](https://open.spotify.com/album/3MCI6hWXIU3ViGaITU6yz3) | 3:49 |
 
-Snapshot ID: `MCwwYTY0ZjI0YjE2YmUwMDI1YzI2ZTQ0MmFlNDQzOGE3YzQ3NGY5MzY2`
+Snapshot ID: `MCxlYWJiM2EzMDhkMjc4NDc5M2Y1ZTkxMjI5ZTU5OTQ3NGUwNjkwOTM5`

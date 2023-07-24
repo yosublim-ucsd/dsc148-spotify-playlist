@@ -1,12 +1,12 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \ub2f9\uc2e0\uc744 \uc704\ub85c\ud558\ub294 \uac00\uc0ac\uc640 \ub530\ub73b\ud55c \ube44\ud2b8.",
-  "num_followers": 7583,
+  "num_followers": 7588,
   "original_name": "\ud790\ub9c1 \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOGYxMDc0YzJkYTdkMWZhYWE3MDQ2NzRmZWFmY2YxZTRhNGU0OTZm",
+  "snapshot_id": "MCw0NzI2MDY4NWJjMzdjODQ5N2U2NzE1NTRkNjY0MTdjNTQ1ZDdjYzFm",
   "tracks": [
     {
       "added_at": "2023-07-17 05:25:27",
@@ -951,26 +951,18 @@
     {
       "added_at": "2023-07-17 05:25:27",
       "album": {
-        "name": "School Rapper2 Team-battle Pt. 2",
-        "url": "https://open.spotify.com/album/47coyu6GWT5dclpds2Znj2"
+        "name": "The Anecdote",
+        "url": "https://open.spotify.com/album/2C6c7NXZwrSOqCNzrfNI4Q"
       },
       "artists": [
         {
-          "name": "HAON",
-          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
-        },
-        {
-          "name": "PULLIK",
-          "url": "https://open.spotify.com/artist/6vhLgVqFLRdTEilwzSs98z"
-        },
-        {
-          "name": "Godic",
-          "url": "https://open.spotify.com/artist/2uxZlbouekTNiuOnjTzbKV"
+          "name": "E SENS",
+          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
         }
       ],
-      "duration_ms": 164035,
-      "name": "The Little Prince (Prod. Godic)",
-      "url": "https://open.spotify.com/track/7rJaRkfLLhOBkdyJ8OCPSq"
+      "duration_ms": 218526,
+      "name": "Writer's Block",
+      "url": "https://open.spotify.com/track/1QJwFcDBwo6BdBEjEh8IXd"
     },
     {
       "added_at": "2023-07-17 05:25:27",
@@ -995,18 +987,26 @@
     {
       "added_at": "2023-07-17 05:25:27",
       "album": {
-        "name": "The Anecdote",
-        "url": "https://open.spotify.com/album/2C6c7NXZwrSOqCNzrfNI4Q"
+        "name": "School Rapper2 Team-battle Pt. 2",
+        "url": "https://open.spotify.com/album/47coyu6GWT5dclpds2Znj2"
       },
       "artists": [
         {
-          "name": "E SENS",
-          "url": "https://open.spotify.com/artist/6a8cUmqOsXmjzq1aWKiVpH"
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        },
+        {
+          "name": "PULLIK",
+          "url": "https://open.spotify.com/artist/6vhLgVqFLRdTEilwzSs98z"
+        },
+        {
+          "name": "Godic",
+          "url": "https://open.spotify.com/artist/2uxZlbouekTNiuOnjTzbKV"
         }
       ],
-      "duration_ms": 218526,
-      "name": "Writer's Block",
-      "url": "https://open.spotify.com/track/1QJwFcDBwo6BdBEjEh8IXd"
+      "duration_ms": 164035,
+      "name": "The Little Prince (Prod. Godic)",
+      "url": "https://open.spotify.com/track/7rJaRkfLLhOBkdyJ8OCPSq"
     },
     {
       "added_at": "2023-07-17 05:25:27",

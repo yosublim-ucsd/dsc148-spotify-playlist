@@ -4,7 +4,7 @@
 
 > Carnival Sounds getting you ready for the Toronto Caribbean Carnival 2023, curated by Night Owl Sound\. 🦉
 
-318 songs - 16 hr 6 min
+319 songs - 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,8 @@
 | [Dirt To Bentley \(feat\. Kranium\)](https://open.spotify.com/track/4fUw8ekzehYoBXjVc5fzsk) | [Jahvillani](https://open.spotify.com/artist/40vpvFOIfRil2lXkK5GrTK), [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Dirt To Bentley](https://open.spotify.com/album/4mc1Lnsr9yyZ6y6LEzf5tY) | 3:16 | 2022-07-29 | 2022-09-10 |
 | [DOGGY STYLE](https://open.spotify.com/track/7sGPyceH2EdIzW5vDqtGYU) | [Fittis](https://open.spotify.com/artist/65ckf44h6fvV1qbuo2RvjZ), [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [DOGGY STYLE](https://open.spotify.com/album/6x3KI2Z8vWrzoyBh5dNFeZ) | 2:54 | 2023-01-31 | 2023-07-11 |
 | [Dream](https://open.spotify.com/track/6IihMo9RAyoMrEFZTOZBcT) | [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7) | [Dream](https://open.spotify.com/album/7hnuztKiUjardIRhGGzVnR) | 3:35 | 2022-07-29 | 2022-09-10 |
-| [Drift](https://open.spotify.com/track/2dSxEBLtCSDuA83zaypLaB) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc) | [Drift](https://open.spotify.com/album/1Ogea1poX1WNZnbnfRF7CG) | 2:43 | 2023-07-10 |  |
+| [Drift](https://open.spotify.com/track/0ydoqpTVhaDzjDg7WVcg4m) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc) | [Drift](https://open.spotify.com/album/3MZbcKtTrzsjh0iNOEgHcP) | 2:43 | 2023-07-10 |  |
+| [Drift](https://open.spotify.com/track/2dSxEBLtCSDuA83zaypLaB) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc) | [Drift](https://open.spotify.com/album/1Ogea1poX1WNZnbnfRF7CG) | 2:43 | 2023-07-10 | 2023-07-24 |
 | [Dude](https://open.spotify.com/track/746nPV2NXSoxW3imGpG8gk) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Ms\. Thing](https://open.spotify.com/artist/72cbi5bA8U2sMttAnKIaen) | [Back To Basics](https://open.spotify.com/album/1WWXhQfZhwZR67iLJ9rBI2) | 4:15 | 2023-07-10 |  |
 | [DUNCE BARBIE](https://open.spotify.com/track/2I1fpOTZmVr6ATXe6fCTXI) | [Armanii](https://open.spotify.com/artist/48ZXHIYtqeBiklzhu3lAey), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc) | [Dunce Barbie](https://open.spotify.com/album/6jwIFkOJ1blyCR0hzsY0MP) | 2:45 | 2023-04-21 | 2023-07-11 |
 | [Dunce Bat](https://open.spotify.com/track/3hDwJFAZcw0kOwwjzQBAWo) | [RajahWild](https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI) | [Dunce Bat](https://open.spotify.com/album/6JfEFqt2dfB7vwrAseppiV) | 2:36 | 2023-03-03 | 2023-07-11 |

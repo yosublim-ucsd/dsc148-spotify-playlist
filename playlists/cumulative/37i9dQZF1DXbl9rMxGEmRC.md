@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-448 songs - 1 day 14 hr 29 min
+449 songs - 1 day 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Damned In Black](https://open.spotify.com/track/2YY18uNgbN6YlLh0I72QAL) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [Damned In Black](https://open.spotify.com/album/1BZyUaPqQrSfnK1OCSEFau) | 6:51 | 2022-07-13 | 2023-04-22 |
 | [Dark Medieval Times](https://open.spotify.com/track/3lVL1Jr6osIOLAbPHXUDkr) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [Dark Medieval Times](https://open.spotify.com/album/0xXdL2dhLdLfAgw9wAB6bC) | 8:11 | 2022-07-13 | 2022-07-29 |
 | [Dark Medieval Times \- Remastered 2021](https://open.spotify.com/track/7qTuFxOFVJnmWP0FuGWegz) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [Dark Medieval Times \(Remastered 2021\)](https://open.spotify.com/album/1PI7BARhjM3hpdvt6dGtYl) | 8:11 | 2022-07-13 |  |
+| [Datalysium](https://open.spotify.com/track/5pNXfPMQK2MCplLsa9OzdD) | [The Zenith Passage](https://open.spotify.com/artist/55ISuKXdlefU2R5hV3GWnf) | [Datalysium](https://open.spotify.com/album/5jK98rWaNqgZISUm3Mg5QG) | 7:01 | 2023-07-21 |  |
 | [Dawn Never Breaks](https://open.spotify.com/track/6ZrXr1vAlFq1zjJanMGddY) | [Destinity](https://open.spotify.com/artist/553eIV3aSzE17cxgVVG7o6), [Andy Gillion](https://open.spotify.com/artist/5XFD3Ovpy2MkJ1DFGxrH1O) | [Dawn Never Breaks](https://open.spotify.com/album/4QJZuKTCSuq4XmyHbVmmll) | 5:36 | 2021-12-17 | 2022-04-29 |
 | [Day Of Reckoning](https://open.spotify.com/track/60WxTHidnICRt1b4JdoWWC) | [Vanir](https://open.spotify.com/artist/6DCYYeX3Iqic6GnQTXM3n4) | [Day Of Reckoning](https://open.spotify.com/album/5zWNR6TtpcdMCKzGmj8auM) | 7:33 | 2022-02-11 | 2022-07-26 |
 | [De Mysteriis Dom Sathanas](https://open.spotify.com/track/3zjoCDlA31nt9s1QXsEqxr) | [Mayhem](https://open.spotify.com/artist/0dR10i73opHXuRuLbgxltM) | [De Mysteriis Dom Sathanas](https://open.spotify.com/album/7mHVfSXtdzvPk7TkdhoekE) | 6:21 | 2022-07-13 | 2023-03-01 |
@@ -431,7 +432,7 @@
 | [Wargod](https://open.spotify.com/track/000ETNHKRNLHNPjsCojYkc) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [War Against All](https://open.spotify.com/album/0i3dDHDl3RCfP1tEIqOx9h) | 4:38 | 2023-05-26 |  |
 | [Wargod](https://open.spotify.com/track/7zMtpoUdT3TsOHQvaQAqQI) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [Wargod](https://open.spotify.com/album/2RfmZMdglQ9FC6yDrRu4Cr) | 4:38 | 2023-04-21 | 2023-05-28 |
 | [Warmen Are Here For None](https://open.spotify.com/track/3Ryy4TIDEdQ8guagOuf8LO) | [Warmen](https://open.spotify.com/artist/28pvPjZ2n9xUBEHnMgupmh) | [Warmen Are Here For None](https://open.spotify.com/album/1QnSxSXIPwXUUDDtTvmvMa) | 3:37 | 2023-06-16 |  |
-| [Warriors](https://open.spotify.com/track/2hqWQD8NaFvFJTDzVvON72) | [I](https://open.spotify.com/artist/5E9XOlEicDpLGlRZCRarR7) | [Between Two Worlds](https://open.spotify.com/album/6ijplltR1r4fCjYvcriRFP) | 5:53 | 2022-07-13 |  |
+| [Warriors](https://open.spotify.com/track/2hqWQD8NaFvFJTDzVvON72) | [I](https://open.spotify.com/artist/5E9XOlEicDpLGlRZCRarR7) | [Between Two Worlds](https://open.spotify.com/album/6ijplltR1r4fCjYvcriRFP) | 5:53 | 2022-07-13 | 2023-07-24 |
 | [We Are Pack](https://open.spotify.com/track/4LxoWlsbZR9gWsFsTAkhSv) | [Wolftopia](https://open.spotify.com/artist/3bJi0mvzPsQzu8uoZdB1Tj) | [Ways of the Pack](https://open.spotify.com/album/0VXVayHw6OxU4h9PYLGGTP) | 4:58 | 2021-12-17 | 2022-02-11 |
 | [We remain](https://open.spotify.com/track/4bAlw2L4PvzK1R0tEaJ6m9) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [We remain](https://open.spotify.com/album/7EpxjX4ymARMfMdd1glws2) | 6:13 | 2022-04-01 | 2022-04-29 |
 | [Weltschmerz \(2022\)](https://open.spotify.com/track/0pWJVJRag6toLd3vJ643EL) | [Heretoir](https://open.spotify.com/artist/4W1aTc1mS8IudqNaxfGKar) | [Heretoir](https://open.spotify.com/album/5vHVuLogKSPfDAtTqM9uul) | 8:19 | 2023-02-10 | 2023-03-04 |

@@ -4,7 +4,7 @@
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Felguk
 
-77 songs - 4 hr 6 min
+77 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [The Weekend](https://open.spotify.com/track/4UPcfEc5whve9QxkgO1Ctl) | [Reznikov](https://open.spotify.com/artist/2INLOHIkRAYNha5uKGiRhn) | [The Weekend](https://open.spotify.com/album/78vyj9aBIscDMC6QNujqbH) | 3:09 | 2023-07-21 |  |
 | [Think It's Just Enough](https://open.spotify.com/track/5lia1eBt1OvZRFngvsga6g) | [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L) | [Think It's Just Enough](https://open.spotify.com/album/0EttXqOKkbEkhKwKXmUTxv) | 4:24 | 2023-07-21 |  |
 | [Tina](https://open.spotify.com/track/22MfEGdH3Noyx9GfyZWpFz) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Meca](https://open.spotify.com/artist/4BXrJLagIbiwWnfJMd1sKQ), [The Vic](https://open.spotify.com/artist/5Yme0D6xmxktmVYHLNULgR) | [Tina](https://open.spotify.com/album/6Ei3g5NrMOOnjKi4CeNuF8) | 4:22 | 2023-07-21 |  |
-| [Ultrasound \- Lost Version](https://open.spotify.com/track/3SpsELhWCTNZRcTGQqJK32) | [Gabriel Boni](https://open.spotify.com/artist/0bm790gMtTnJ9RWUijkC24) | [Ultrasound](https://open.spotify.com/album/1lHDDfSWRSh2qRDY0xqegh) | 5:17 | 2023-07-21 |  |
+| [Ultrasound \- Original mix](https://open.spotify.com/track/3SpsELhWCTNZRcTGQqJK32) | [Gabriel Boni](https://open.spotify.com/artist/0bm790gMtTnJ9RWUijkC24) | [Ultrasound](https://open.spotify.com/album/1lHDDfSWRSh2qRDY0xqegh) | 2:54 | 2023-07-21 |  |
 | [Under The Sun](https://open.spotify.com/track/6E1N387p5fOdtSI0KQSyLd) | [Santti](https://open.spotify.com/artist/7e6KqpXfInWHjdQufAnsyj) | [Under The Sun](https://open.spotify.com/album/6wAZiwPTKXTG0yuD4G2M6v) | 3:13 | 2023-07-21 |  |
 | [Wasted Love](https://open.spotify.com/track/5KsDSE4NZWcQ8mlZDBddB3) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Crazy Donkey](https://open.spotify.com/artist/4FFIm6lcL4VDCTWteKwspi), [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [Wasted Love](https://open.spotify.com/album/367AlFAsBmmsmtSFrKzc80) | 2:10 | 2023-07-21 |  |
 | [Where'd You Go](https://open.spotify.com/track/7KLlDR1Q1CNWm38nlcCgF2) | [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC), [FROZT](https://open.spotify.com/artist/4CH9dyJuNxBP59EBVSykF5), [Kohen](https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB) | [Where'd You Go](https://open.spotify.com/album/4IJ3rgtpv55ZmemYFskHc6) | 3:02 | 2023-07-21 |  |

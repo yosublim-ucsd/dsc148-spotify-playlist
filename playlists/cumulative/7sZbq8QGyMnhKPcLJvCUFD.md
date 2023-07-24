@@ -4,7 +4,7 @@
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Alan Walker
 
-334 songs - 16 hr 50 min
+336 songs - 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Everything U Promised](https://open.spotify.com/track/40KuxBJftkJQGmEQr6dCMt) | [MALARKEY](https://open.spotify.com/artist/3Wx6i3YgqSGlvxVTS4UsMV), [JJL](https://open.spotify.com/artist/41QZ7uWNkyqF0PbJsd5nXv) | [Everything U Promised](https://open.spotify.com/album/2MeFsuUheaxvbwXsBHpocf) | 2:40 | 2023-04-14 |  |
 | [Everything Will Be Okay.](https://open.spotify.com/track/0UrDqX6CTQFrOnRo1chtLo) | [Maze](https://open.spotify.com/artist/6lAnJw7YqGPgG1ShMCjcbQ), [Trinist](https://open.spotify.com/artist/6XTrviAQeBuCkWgDenoiId) | [Lost Words EP](https://open.spotify.com/album/3bS5ZqH24CFVNO43q2I0uI) | 3:05 | 2023-06-23 |  |
 | [EX](https://open.spotify.com/track/2jPZeSOSA0rFr9YIfpdNtD) | [Coopex](https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO), [Afterfab](https://open.spotify.com/artist/48VdMxJ3HAgAMmjPoXc28i), [Heleen](https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6) | [EX](https://open.spotify.com/album/3oPmjApdBC7DFJYekgWEVp) | 2:15 | 2023-06-16 |  |
+| [Fall Too Deep](https://open.spotify.com/track/2u3vR9khIpQjCYu9TCUn5L) | [Andrew A](https://open.spotify.com/artist/01BNEFdzawMyAXoHVdtyPx), [Barmuda](https://open.spotify.com/artist/5SoTfJZxWxfm9TkVEkvcLM) | [Fall Too Deep](https://open.spotify.com/album/2OpVgefNKPZTYbIEmyIAi1) | 3:05 | 2023-07-21 |  |
 | [Falling](https://open.spotify.com/track/2Bhv2dpgjAfpJejQltrlOJ) | [Outlandr](https://open.spotify.com/artist/3rEAjEIr7devKI01WDprkl), [Aleya Mae](https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb) | [Eternity](https://open.spotify.com/album/0VKsGtPK6AupzW1IvsiEjh) | 4:27 | 2023-06-21 |  |
 | [Falling](https://open.spotify.com/track/4y2PKLDSnodMO1r94Qupxl) | [Outlandr](https://open.spotify.com/artist/3rEAjEIr7devKI01WDprkl), [Aleya Mae](https://open.spotify.com/artist/2O1Sw6WZ4ZVtIQO5LZIOjb) | [Falling](https://open.spotify.com/album/3Z2FL8pu662FCuXF2cIuRb) | 4:27 | 2023-05-24 |  |
 | [Falling](https://open.spotify.com/track/2mBji77pNUVeI0PVKqskIc) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [CRVN](https://open.spotify.com/artist/6Lk4en2wu5IjMxZWzJfJ28) | [Falling](https://open.spotify.com/album/4PmsOH9a3agTL1QrFeyfFp) | 3:35 | 2022-04-08 | 2023-04-28 |
@@ -201,6 +202,7 @@
 | [Need You](https://open.spotify.com/track/6SrzmgeSOjNoSv1BkTPz6A) | [Yonexx](https://open.spotify.com/artist/1qSxzYgUuAxLbHuzCXXvmm), [lunar](https://open.spotify.com/artist/6ba0gaC9S69uLIwRyRvdMr) | [Need You](https://open.spotify.com/album/4DzkeyUJipyGcl8h1kvGuz) | 2:49 | 2023-01-31 | 2023-04-28 |
 | [Neomorph](https://open.spotify.com/track/6W6mHDZCAcdRdFFavmru6u) | [NO QVLT](https://open.spotify.com/artist/4KhqCc2m8ZmB3fraLwK4fg) | [Neomorph](https://open.spotify.com/album/68jkhRlVn7skH09QaF5AzL) | 2:46 | 2022-10-26 | 2023-04-28 |
 | [Next Level](https://open.spotify.com/track/6ieN1XasQHTd98sCSDmieM) | [JOXION](https://open.spotify.com/artist/4c0rN45hGTsmOVu0qg5x6U) | [Go Off EP](https://open.spotify.com/album/2BdA0bIcagPyuUxevSv2mC) | 2:21 | 2022-12-07 | 2023-04-28 |
+| [No Money](https://open.spotify.com/track/2i9uoxjvgN6sA7fSfoHtKA) | [Clarx](https://open.spotify.com/artist/0FlpBojQwomu07ckcyz3wr), [Zaug](https://open.spotify.com/artist/2EaTQL9xXLLtRR3ypvRqL1) | [No Money](https://open.spotify.com/album/1aEeJSaTZMOF42T36FMpa7) | 1:59 | 2023-07-21 |  |
 | [No More Levitation](https://open.spotify.com/track/1xsUjMmrGeW18jVbg7xRPP) | [Rex Hooligan](https://open.spotify.com/artist/3ssYaK748UoelLJBctaKWL), [Anna Simone](https://open.spotify.com/artist/1PLrdBJr5VTanR7zNI2nes) | [No More Levitation](https://open.spotify.com/album/4AzdEsWq896xPo46LQskW9) | 4:08 | 2023-01-06 |  |
 | [No Rival](https://open.spotify.com/track/1Q9IvR1mzz2qzElvcARuXF) | [Egzod](https://open.spotify.com/artist/3exvMmrLV6o4R42YnG3Id6), [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Alaina Cross](https://open.spotify.com/artist/0jlGRdZB3lcogSl6nuojI5) | [No Rival](https://open.spotify.com/album/7cf61DeA3JoCN9n9nyBQ4V) | 3:18 | 2022-04-29 |  |
 | [No Way Back](https://open.spotify.com/track/4M5FGieNXYe8aZDnLehIJ8) | [SFRNG](https://open.spotify.com/artist/0PkBrqmi8Ma9hmKD0hB2W2), [MADZI](https://open.spotify.com/artist/3TfYPq0TUpyzE2QR4iEU8K), [Just Isac](https://open.spotify.com/artist/4WfRJXoLtLLCxbyOGBbzKV), [Custody](https://open.spotify.com/artist/7dzrpQi4ITF86WilQbPBr8) | [No Way Back](https://open.spotify.com/album/4rpSDrUxE8fzv247TUX9Da) | 2:39 | 2022-06-28 | 2023-04-28 |

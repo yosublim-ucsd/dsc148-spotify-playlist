@@ -4,7 +4,7 @@
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: Deorro x Stafford Brothers
 
-962 songs - 1 day 22 hr 2 min
+962 songs - 1 day 22 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Alive \(with Und3rsound\)](https://open.spotify.com/track/3D8NVux74xT04G4HZfufIW) | [Luca Testa](https://open.spotify.com/artist/0Dzj2bn9ivDSjvJVSKL4q7), [Und3rsound](https://open.spotify.com/artist/6Mu4CynRtQyYX8al5IJO47) | [Alive \(with Und3rsound\)](https://open.spotify.com/album/6hnNe7xxL91alQmVsoIxTN) | 4:01 | 2023-03-30 | 2023-04-14 |
 | [All For One](https://open.spotify.com/track/1khuwxWPjyHdjbp5PZPcBp) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Orange INC](https://open.spotify.com/artist/0k9vcRDtl7YbZ0ZYcprdhi) | [All For One](https://open.spotify.com/album/1WvmdRUMXLgH9D1yUmdEgU) | 2:29 | 2023-04-06 | 2023-04-28 |
 | [All For One](https://open.spotify.com/track/6uCXc2ut1vAGgQG0qcRhbv) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Orange INC](https://open.spotify.com/artist/0k9vcRDtl7YbZ0ZYcprdhi) | [Tungeworld](https://open.spotify.com/album/72bAuczUzGfO4Z4WvDO2xt) | 2:29 | 2023-05-05 | 2023-05-26 |
-| [All Night](https://open.spotify.com/track/2I9yA091lIXABCInxNs58Z) | [Robbie Mendez](https://open.spotify.com/artist/1CEqpjEq6n8O8zte6YvOTM), [Lucles](https://open.spotify.com/artist/1MY4qvzTbed3hyseWVdwOa) | [All Night](https://open.spotify.com/album/24itoj0Xfz4utQjm6SuUJd) | 3:20 | 2023-07-21 |  |
+| [All Night](https://open.spotify.com/track/2I9yA091lIXABCInxNs58Z) | [Robbie Mendez](https://open.spotify.com/artist/1CEqpjEq6n8O8zte6YvOTM), [Lucles](https://open.spotify.com/artist/1MY4qvzTbed3hyseWVdwOa) | [All Night](https://open.spotify.com/album/24itoj0Xfz4utQjm6SuUJd) | 2:22 | 2023-07-21 |  |
 | [All Nighter](https://open.spotify.com/track/7bqg7RANz4RaboN0Ga1Miq) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [All Nighter](https://open.spotify.com/album/1cQUgdn5goiU3fbKc3aykV) | 2:14 | 2023-03-09 | 2023-03-31 |
 | [All The Way](https://open.spotify.com/track/6t4KvBSTG8J4u50RZiEob6) | [Saffron Stone](https://open.spotify.com/artist/71FmTfYoEXhF3kSsbPiuKz), [MISS DRE](https://open.spotify.com/artist/4EFAuQI8Ou0bmpf5Vh1P5P) | [All The Way](https://open.spotify.com/album/3FdDfyX2JsStc0nVNSzKAY) | 3:22 | 2023-06-30 | 2023-07-14 |
 | [Alley Oop](https://open.spotify.com/track/1U6KaIshYmRV3DTpPQFkQI) | [U Know Who](https://open.spotify.com/artist/05l3lWoAqlSOEfoYKbNait) | [Alley Oop](https://open.spotify.com/album/1JDZATDTbpsE39AmBkAxmw) | 1:42 | 2022-11-24 | 2022-12-09 |

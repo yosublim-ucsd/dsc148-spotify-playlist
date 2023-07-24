@@ -4,7 +4,7 @@
 
 > Canciones y beats que te llevan al siguiente nivel.
 
-78 songs - 4 hr 33 min
+79 songs - 4 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,9 +74,10 @@
 | [Sail](https://open.spotify.com/track/5xhQChGGhKLWqBqX4XhtYE) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony Deluxe](https://open.spotify.com/album/6dMfMvS3hyk3ZCl4yljEDD) | 4:19 | 2021-12-17 | 2022-07-29 |
 | [Shockwave](https://open.spotify.com/track/3sOGVdj5VPY6C2XImtlzj7) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Shockwave](https://open.spotify.com/album/6yXPyhVxt3PHBwkinPFn6I) | 3:01 | 2021-12-17 |  |
 | [Silence](https://open.spotify.com/track/7vGuf3Y35N4wmASOKLUVVU) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Silence](https://open.spotify.com/album/2bw00gRKNKbTFOqCkohbSh) | 3:00 | 2021-12-17 |  |
+| [Sofi Needs a Ladder](https://open.spotify.com/track/0vMeJiwuTZL61CtF2OAQxW) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [5 Years of mau5](https://open.spotify.com/album/0PManGPRcHlL7fZBoQStK2) | 6:41 | 2021-12-17 |  |
 | [Sofi Needs A Ladder](https://open.spotify.com/track/5pewxEBnMo72rY6pGH0HJz) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [4x4=12](https://open.spotify.com/album/1rSvgtvNAFSl0AJt9NhJCU) | 6:43 | 2021-12-17 | 2022-07-29 |
 | [Sofi Needs a Ladder](https://open.spotify.com/track/5twGfHaejoZM2Z4T4L3bCs) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [SOFI](https://open.spotify.com/artist/5JQzXeT8vXc1N4Y6tGenCb) | [5 Years of mau5](https://open.spotify.com/album/7BPS2kgyzObOvy07j0lk06) | 6:41 | 2021-12-17 | 2022-11-14 |
-| [Sofi Needs a Ladder](https://open.spotify.com/track/6Zw3tJS2U6GIUcq52ZtLQF) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [SOFI](https://open.spotify.com/artist/5JQzXeT8vXc1N4Y6tGenCb) | [4x4=12](https://open.spotify.com/album/0tCLiTicEOdRuqFWJrHDcR) | 6:41 | 2021-12-17 |  |
+| [Sofi Needs a Ladder](https://open.spotify.com/track/6Zw3tJS2U6GIUcq52ZtLQF) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [SOFI](https://open.spotify.com/artist/5JQzXeT8vXc1N4Y6tGenCb) | [4x4=12](https://open.spotify.com/album/0tCLiTicEOdRuqFWJrHDcR) | 6:41 | 2021-12-17 | 2023-07-24 |
 | [Tell Me A Lie](https://open.spotify.com/track/4ccYRZ7WptUbPD3RZ0BhvP) | [Jonas Aden](https://open.spotify.com/artist/1qq5e02CcWNFqZMbmdrIcj) | [Tell Me A Lie](https://open.spotify.com/album/02NfjCu6aYB6k14uNchflD) | 2:41 | 2021-12-17 |  |
 | [The G.O.A.T.](https://open.spotify.com/track/1hUmqRBZpseNjByPAEW6AJ) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9) | [The G.O.A.T.](https://open.spotify.com/album/3WNP6JVlFZke5TwAToMtkh) | 3:21 | 2021-12-17 |  |
 | [Thunder](https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Thunder](https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf) | 2:40 | 2021-12-17 |  |

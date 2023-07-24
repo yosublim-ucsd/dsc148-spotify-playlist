@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgA6FKKHSd6.md) - [plain]
 
 > A perfect rendezvous of funk, jazz, R&B, and soul\. Cover: Eric Darius
 
-[Spotify](https://open.spotify.com/user/spotify) - 214,373 likes - 100 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 214,424 likes - 100 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,26 +60,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgA6FKKHSd6.md) - [plain]
 | 50 | [Stratosphere](https://open.spotify.com/track/0PClILX1b9qL40YodPjBzS) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Poetry In Motion](https://open.spotify.com/album/65KJcqC8fnZhmAlp2xsJAd) | 4:40 |
 | 51 | [Solux](https://open.spotify.com/track/2eEQtEfr7JdPSSwYjNsznv) | [Phil Denny](https://open.spotify.com/artist/1qRb36fHSmuSGm6WewqmdH), [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX) | [Align](https://open.spotify.com/album/76yw5fyBIXtxEGr1XqrZsv) | 4:04 |
 | 52 | [Leave It to the Gods](https://open.spotify.com/track/3DvdHFeQ3AeZNzxHy61Gcu) | [D.S\. Wilson](https://open.spotify.com/artist/7n8T90C12QlPZnMCOOegmO) | [Leave It to the Gods](https://open.spotify.com/album/6VEDP9KD6ndDnNnBene1aX) | 4:26 |
-| 53 | [Issa Party](https://open.spotify.com/track/7JYY97wmXOk5U779v8abHL) | [LeBron](https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0) | [Undeniable](https://open.spotify.com/album/12rCQKDKu8QCRfXa87uP8G) | 4:18 |
+| 53 | [Before I Let Go](https://open.spotify.com/track/1sJ8Z4FBUNSjSMDx2RrxmW) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Summer Horns II From A To Z](https://open.spotify.com/album/1qpQY8EzHc1BqPr4Bhb7CT) | 4:54 |
 | 54 | [Trinity](https://open.spotify.com/track/4d0TZ8gt6iAShHB7Y9nRM2) | [Jackiem Joyner](https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg) | [Main Street Beat](https://open.spotify.com/album/0lLrGjwlJgeXhy3W1Z4v1N) | 4:13 |
-| 55 | [Before I Let Go](https://open.spotify.com/track/1sJ8Z4FBUNSjSMDx2RrxmW) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm) | [Summer Horns II From A To Z](https://open.spotify.com/album/1qpQY8EzHc1BqPr4Bhb7CT) | 4:54 |
-| 56 | [One More Time](https://open.spotify.com/track/4V3dOJuQQwy0kjSWBkO0Ay) | [Jaared](https://open.spotify.com/artist/0SaucWNgFLWiUFMEplJnyL) | [Manhattan Nights](https://open.spotify.com/album/5DGDEZkZPkc2OrnBAp9ij1) | 3:52 |
-| 57 | [Breakin' thru](https://open.spotify.com/track/1qzYFva6wcTgmz12aDwSC7) | [Eric Darius](https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8) | [Breakin' thru](https://open.spotify.com/album/4tUrzcR8b7PZGzInJNoOog) | 4:30 |
-| 58 | [Limitless \- Radio Edit](https://open.spotify.com/track/6EKw5whgxDjZzjBGV7i74H) | [Patrick Lamb](https://open.spotify.com/artist/3qR6sqXnnwZm3tLed2CO35) | [Limitless](https://open.spotify.com/album/2a558EhzWmryaB6ewwikZQ) | 3:53 |
+| 55 | [Issa Party](https://open.spotify.com/track/7JYY97wmXOk5U779v8abHL) | [LeBron](https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0) | [Undeniable](https://open.spotify.com/album/12rCQKDKu8QCRfXa87uP8G) | 4:18 |
+| 56 | [Breakin' thru](https://open.spotify.com/track/1qzYFva6wcTgmz12aDwSC7) | [Eric Darius](https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8) | [Breakin' thru](https://open.spotify.com/album/4tUrzcR8b7PZGzInJNoOog) | 4:30 |
+| 57 | [Limitless \- Radio Edit](https://open.spotify.com/track/6EKw5whgxDjZzjBGV7i74H) | [Patrick Lamb](https://open.spotify.com/artist/3qR6sqXnnwZm3tLed2CO35) | [Limitless](https://open.spotify.com/album/2a558EhzWmryaB6ewwikZQ) | 3:53 |
+| 58 | [One More Time](https://open.spotify.com/track/4V3dOJuQQwy0kjSWBkO0Ay) | [Jaared](https://open.spotify.com/artist/0SaucWNgFLWiUFMEplJnyL) | [Manhattan Nights](https://open.spotify.com/album/5DGDEZkZPkc2OrnBAp9ij1) | 3:52 |
 | 59 | [As the Days Go by...](https://open.spotify.com/track/2ysmazV8DCgEZ6T49FKlKE) | [Alfonzo Blackwell](https://open.spotify.com/artist/5EBTM4IYuzYJX0MbvYPwXz) | [As the Days Go by...](https://open.spotify.com/album/3EefR2XmjoXKQSX80HncCa) | 5:09 |
 | 60 | [Cachaca](https://open.spotify.com/track/4cKdYSn1NdPawP7qCQrFH1) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Summer Madness](https://open.spotify.com/album/7Ax03GJGYiUOrhiq9M2vjt) | 4:03 |
 | 61 | [Lasting Impression](https://open.spotify.com/track/4eJIsCmuhgkuxnB2qmoHx4) | [James Vargas](https://open.spotify.com/artist/75zhICFfHLHabeEW0ZTlnC) | [James Vargas](https://open.spotify.com/album/3RoZERiO1xREfMW5ZId0jh) | 5:12 |
-| 62 | [Green Light](https://open.spotify.com/track/4M7bB1Bx82oR4GIY1HntRn) | [LeBron](https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0) | [Undeniable](https://open.spotify.com/album/12rCQKDKu8QCRfXa87uP8G) | 4:21 |
-| 63 | [Always There](https://open.spotify.com/track/3piYbySL0X1f4ZYfwuIWm2) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp), [Mindi Abair](https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4), [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Dave Koz And Friends Summer Horns](https://open.spotify.com/album/3yh9UkYQLK0ZlFBdeEcPmF) | 4:03 |
+| 62 | [Always There](https://open.spotify.com/track/3piYbySL0X1f4ZYfwuIWm2) | [Dave Koz](https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm), [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp), [Mindi Abair](https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4), [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Dave Koz And Friends Summer Horns](https://open.spotify.com/album/3yh9UkYQLK0ZlFBdeEcPmF) | 4:03 |
+| 63 | [Green Light](https://open.spotify.com/track/4M7bB1Bx82oR4GIY1HntRn) | [LeBron](https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0) | [Undeniable](https://open.spotify.com/album/12rCQKDKu8QCRfXa87uP8G) | 4:21 |
 | 64 | [Hard Work \(feat\. Michael O'Hara\)](https://open.spotify.com/track/7mDJQJu8HAyeALcGNNWZ9x) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP), [Michael O'Hara](https://open.spotify.com/artist/7snMO6N0CoAKYdO3wJQzHQ) | [I'm Back](https://open.spotify.com/album/35LyXPSnkCbeQ6aYIHpIFi) | 4:12 |
 | 65 | [L.I.T.](https://open.spotify.com/track/7JWyMt0OBBnPKuTGx6UNYs) | [Riley Richard](https://open.spotify.com/artist/3gYM4qdpRiNT5GRIMB5iY4) | [L.I.T.](https://open.spotify.com/album/59i6TmB5fQ806IkSl5XyeN) | 4:18 |
 | 66 | [Taking Control](https://open.spotify.com/track/6WVShGy8xN8TfrQcRDpv4t) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [G \(Bonus Version\)](https://open.spotify.com/album/7gKMIxgMTUdd4D6kNQwDRR) | 4:04 |
 | 67 | [The Lucky One](https://open.spotify.com/track/0ipCht4s0zuTzjLvLDstXf) | [Jeff Kashiwa](https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW) | [Play](https://open.spotify.com/album/6LWgHsHvcDcVg0Oj5inJP4) | 4:52 |
 | 68 | [Say What](https://open.spotify.com/track/7vrvAwJcZTprmPELVAPmir) | [Jackiem Joyner](https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg) | [Say What](https://open.spotify.com/album/4Sv7jKSOmNE0Lhagi9DKlo) | 3:47 |
-| 69 | [Kiss and Tell](https://open.spotify.com/track/0aEsunPp77rq2mEHvF5zUD) | [LeBron](https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0) | [Shades](https://open.spotify.com/album/3SpvwBiPeTbAddFLA46ry7) | 4:08 |
-| 70 | [Soho](https://open.spotify.com/track/5D3zhloazy4TDWxClQAkIo) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Gratitude](https://open.spotify.com/album/5fe2fP7BIfmGBTnw5UUcdO) | 4:18 |
-| 71 | [Quintastic](https://open.spotify.com/track/7CBCAj6NaFYKjFhIEMYtBf) | [Deon Yates](https://open.spotify.com/artist/7rRyjSFGUWRFh7UgN70MZO) | [Quintastic](https://open.spotify.com/album/4LzFSL2q6GErS6Kq1PnOxS) | 4:03 |
-| 72 | [Gonna' Miss You](https://open.spotify.com/track/4TCscGfdcw4qamFgbtwBpA) | [Mike Phillips](https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb) | [M.P.3](https://open.spotify.com/album/5dHIYzhFckBVCZO7FTA5VN) | 3:19 |
+| 69 | [Soho](https://open.spotify.com/track/5D3zhloazy4TDWxClQAkIo) | [Steve Cole](https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb) | [Gratitude](https://open.spotify.com/album/5fe2fP7BIfmGBTnw5UUcdO) | 4:18 |
+| 70 | [Kiss and Tell](https://open.spotify.com/track/0aEsunPp77rq2mEHvF5zUD) | [LeBron](https://open.spotify.com/artist/5xKKWBUG5WC7q5ru3a37q0) | [Shades](https://open.spotify.com/album/3SpvwBiPeTbAddFLA46ry7) | 4:08 |
+| 71 | [Gonna' Miss You](https://open.spotify.com/track/4TCscGfdcw4qamFgbtwBpA) | [Mike Phillips](https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb) | [M.P.3](https://open.spotify.com/album/5dHIYzhFckBVCZO7FTA5VN) | 3:19 |
+| 72 | [Quintastic](https://open.spotify.com/track/7CBCAj6NaFYKjFhIEMYtBf) | [Deon Yates](https://open.spotify.com/artist/7rRyjSFGUWRFh7UgN70MZO) | [Quintastic](https://open.spotify.com/album/4LzFSL2q6GErS6Kq1PnOxS) | 4:03 |
 | 73 | [Got To Be Real](https://open.spotify.com/track/7KHGWMvaCKv0kIZ5RmM0ts) | [Uko](https://open.spotify.com/artist/3GF9F9bP8oiMaReworAOSp) | [Smooth Jazz SAX Showcase](https://open.spotify.com/album/457oSFJJWye9WFlKlhHGUn) | 4:56 |
 | 74 | [City Beat](https://open.spotify.com/track/3T9bPsBqGslbXXKMcUBjMo) | [Michael J Thomas](https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0) | [City Beat](https://open.spotify.com/album/2qh5ZiEghmYBPamiTUeO2z) | 4:02 |
 | 75 | [I Smile](https://open.spotify.com/track/5Eug7AiCUq449ZsPpDae7P) | [Jackiem Joyner](https://open.spotify.com/artist/7v8LpmcY0BFVhJCispRDgg) | [Church Boy](https://open.spotify.com/album/2PIgTemiHmAhSigq3FxWKM) | 5:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgA6FKKHSd6.md) - [plain]
 | 99 | [So Into You](https://open.spotify.com/track/6DCHiBPhfiOm4qg8BrmfmE) | [Nathan Allen](https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce) | [So Into You](https://open.spotify.com/album/3QJ1n935JMUMT3uxmG2XcU) | 4:19 |
 | 100 | [In the Moment](https://open.spotify.com/track/4cEmNYuJF3sRAHTHcV16c4) | [Deon Yates](https://open.spotify.com/artist/7rRyjSFGUWRFh7UgN70MZO), [Nathan Mitchell](https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX) | [In the Moment](https://open.spotify.com/album/34TYKRmrFk5xS76FOzBQBS) | 3:58 |
 
-Snapshot ID: `MCwwZTZiZjIzZmRkMGU5MDVmNmU1YmFjM2I1YjE2MDFmMjdhNWM2MzRj`
+Snapshot ID: `MCxiMzY2NmY4YTM2Njg5ZDE4YTI5NTkzNDcyMjA5N2FhYzUwNzViYzBj`

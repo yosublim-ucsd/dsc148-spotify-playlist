@@ -4,7 +4,7 @@
 
 > Instrumental Jazz to set the mood for a relaxed evening.
 
-278 songs - 1 day 1 hr 4 min
+279 songs - 1 day 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Jackie In The Rain](https://open.spotify.com/track/6FPEC5iUtgi0GzYhRnE1FU) | [Terence Blanchard](https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv), [Kenny Barron](https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3), [Carl Allen](https://open.spotify.com/artist/44gLY8zUnF4xRzi4X0zl1n), [David Pulphus](https://open.spotify.com/artist/02amhnCtIA62SbXmNashjW) | [The Comedian \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1a1fkH8V57Wxm1cEVzRgxt) | 5:04 | 2020-03-31 | 2022-11-25 |
 | [Joy Is Sorrow Unmasked](https://open.spotify.com/track/1no5aBlOtuHcBeY6fWU0Oc) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Earfood](https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo) | 4:46 | 2022-04-28 |  |
 | [June in January](https://open.spotify.com/track/1JZCH5xEj7DwhLpQIj1ZtX) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [June in January](https://open.spotify.com/album/0FCEbjfR4gIC3DTfFGFbxR) | 3:49 | 2023-02-16 |  |
+| [Just a Memory](https://open.spotify.com/track/0wKLM3gGArJc8IUPVmL6OV) | [Owen Broder](https://open.spotify.com/artist/6IPqNkZOxgZ3lAubAiVtWy), [Riley Mulherkar](https://open.spotify.com/artist/6IbzJR3PPXN7Lbq8DmAscD), [Carmen Staaf](https://open.spotify.com/artist/2xr1royHsrxmyorwGs51V7) | [Hodges: Front and Center, Vol\. 1](https://open.spotify.com/album/28dVtoSWcKtalEahjQqnxv) | 5:15 | 2023-06-21 |  |
 | [Just a Memory](https://open.spotify.com/track/2SiBmTUp1CHjkhtJDJzOTR) | [Owen Broder](https://open.spotify.com/artist/6IPqNkZOxgZ3lAubAiVtWy), [Riley Mulherkar](https://open.spotify.com/artist/6IbzJR3PPXN7Lbq8DmAscD), [Carmen Staaf](https://open.spotify.com/artist/2xr1royHsrxmyorwGs51V7) | [Hodges: Front and Center, Vol\. 1](https://open.spotify.com/album/0RzxAxiOOJgClVialkdLmD) | 5:15 | 2022-10-20 | 2023-06-25 |
 | [L'appuntamento](https://open.spotify.com/track/6abl6iqjPN4SGjD74AUnPy) | [Massimo Faraò Trio](https://open.spotify.com/artist/58dTi4Xr0bd6yd8XKgimAr), [Giampaolo Casati](https://open.spotify.com/artist/46i1fJpLVO8VrBDG54kfPc) | [50 Trumpet \(Smooth Jazz\)](https://open.spotify.com/album/7jJThjXtuAbCd4h638VrtS) | 3:18 | 2020-03-31 | 2022-02-23 |
 | [L.A\. 58](https://open.spotify.com/track/0jqMv6eLhPbsFbKlHsV9hv) | [Aldo Romano](https://open.spotify.com/artist/1Z0lthC9NP1vvut7ijv3FF) | [Mélodies en noir & blanc](https://open.spotify.com/album/019jkstAav7gCfwinh0asK) | 4:06 | 2020-03-31 |  |
@@ -276,7 +277,7 @@
 | [Very Late](https://open.spotify.com/track/62nSghHUT2LHaMukgWuyCx) | [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF) | [Visitor](https://open.spotify.com/album/4syZHZiuvbXt0nWb9QT39A) | 5:14 | 2022-04-07 |  |
 | [Walking With You](https://open.spotify.com/track/7EwokoNF4KoWS1lVnGw8cs) | [Hanbeen Park](https://open.spotify.com/artist/3XZBufPlf8pHAt9g6Rkx5f) | [Scratch](https://open.spotify.com/album/0sJ01VN22iocwWroEiPhfh) | 5:49 | 2022-06-02 |  |
 | [What Are You Doing the Rest of Your Life?](https://open.spotify.com/track/3ZnPVp4Frub6UadiiiGDD9) | [Rolf Kühn](https://open.spotify.com/artist/73xPAo16RiiVu6X90p7UVb) | [Yellow + Blue](https://open.spotify.com/album/4HENgrWOdYVohdxPJXIK0H) | 7:56 | 2020-03-31 |  |
-| [What's Up](https://open.spotify.com/track/3TdiCaHISm2x7waIHKC9Ms) | [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6) | [Relaxin'](https://open.spotify.com/album/7mbbHojRg6i6tGjKrMogsJ) | 4:38 | 2022-06-02 |  |
+| [What's Up](https://open.spotify.com/track/3TdiCaHISm2x7waIHKC9Ms) | [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6) | [Relaxin'](https://open.spotify.com/album/7mbbHojRg6i6tGjKrMogsJ) | 4:38 | 2022-06-02 | 2023-07-24 |
 | [When It's Sleepytime Down South](https://open.spotify.com/track/0ZO3xca4fN38Be1un20nc9) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Standard Time Vol\. 2: Intimacy Calling](https://open.spotify.com/album/4cmRWv6XOmC9sRryBkeU8U) | 5:09 | 2020-03-31 | 2023-04-14 |
 | [When You Wish Upon a Star](https://open.spotify.com/track/0xZyf3x2BDnKMbmtoIfRRO) | [Leif Shires](https://open.spotify.com/artist/3YVt5oKfFEE0yJa7yJ3wWE), [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM) | [When You Wish Upon a Star](https://open.spotify.com/album/5yWDtcRDW1Rf4ebROZlx8u) | 5:54 | 2022-08-25 | 2022-09-07 |
 | [When You Wish Upon a Star](https://open.spotify.com/track/6EhFiHD4n3JIfrLzS11dn6) | [Rob Barron](https://open.spotify.com/artist/1QoFjUjxsHULNzFihvt8Sd) | [Composure](https://open.spotify.com/album/5XuYdAL3b6oZIkDUiyciiu) | 4:45 | 2023-05-11 |  |

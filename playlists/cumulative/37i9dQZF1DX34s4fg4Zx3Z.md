@@ -2,9 +2,9 @@
 
 ### [Fresh Finds Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX34s4fg4Zx3Z)
 
-> Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Southalid; thiết kế: Isu Kim
+> Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Kim Kunni; thiết kế: Isu Kim
 
-1,127 songs - 2 day 18 hr 12 min
+1,128 songs - 2 day 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -966,6 +966,7 @@
 | [Tự Nhiên Bị Thôi Miên](https://open.spotify.com/track/123KpivLIGSSxV25qukKDh) | [Thảo Phạm](https://open.spotify.com/artist/5Ww6Cn2DJH4s6mZjFRH2kF), [DT](https://open.spotify.com/artist/56YvnYcOAPPIuSwoZ6uoBP), [Rum](https://open.spotify.com/artist/2FzQt1F2hU6M2h0w9AZ6kT) | [Tự Nhiên Bị Thôi Miên](https://open.spotify.com/album/3Vj1hVYcwEuncvlxwelWF5) | 3:22 | 2023-03-24 | 2023-05-05 |
 | [Tựa Đầu Vào Vibe](https://open.spotify.com/track/7cq2OXx6RLe1gI1YIaj9vn) | [Freaky](https://open.spotify.com/artist/3JlzPlR5FYYa402qPCCaAm) | [Tựa Đầu Vào Vibe](https://open.spotify.com/album/3BU2ybxIb9b80gIe7MjMyh) | 2:51 | 2022-04-22 | 2022-06-19 |
 | [U OH U OH](https://open.spotify.com/track/6bwB7bBl77O6QczQcmctCF) | [NAM23](https://open.spotify.com/artist/6cNFDwWYmBdufV0b6C461O) | [U OH U OH](https://open.spotify.com/album/1e5wZneFoJpHN7xifNCRAk) | 4:14 | 2023-06-06 | 2023-06-30 |
+| [Ulala \(feat\. T.R.I\)](https://open.spotify.com/track/1RV2oiNHqagcwOAvLN9qeX) | [Kim Kunni](https://open.spotify.com/artist/2OONhLKGZlcgaA9PQ2e64g), [T.R.I](https://open.spotify.com/artist/2rVYwIYNEsMxtt8j5yemHb) | [Ulala](https://open.spotify.com/album/6T4E1Vk1gP5LM300KhSW6I) | 3:02 | 2023-07-23 |  |
 | [Uuu](https://open.spotify.com/track/6SAGcsRLCJPUmndzApbuUw) | [tnglinh](https://open.spotify.com/artist/6ZXaSrHSpCyZlOjOhhFnOy) | [Cry In Italic](https://open.spotify.com/album/0aLv0BrB76HRZ2o9hs15cL) | 3:44 | 2023-06-26 | 2023-07-18 |
 | [Uống Chén Say](https://open.spotify.com/track/0jw1fjRmyY8nrSg864aJOR) | [KHOA](https://open.spotify.com/artist/4mVk10ulshxfn0yRO491IE) | [Uống Chén Say](https://open.spotify.com/album/1wdj6QqOf9p8amk2vAtZbc) | 3:06 | 2022-09-22 | 2022-11-01 |
 | [Uống Với Anh Đi \(feat\. To$ka\)](https://open.spotify.com/track/7JYW1U4IHIqjMtLlluSt7i) | [1nG](https://open.spotify.com/artist/12scI4mEdyEDBi7cdkxkVZ), [To$ka](https://open.spotify.com/artist/75cMwotbmBUlIpgiJACce5) | [Uống Với Anh Đi \(feat\. To$ka\)](https://open.spotify.com/album/40ac7HzCmig9ZgegWmnY1F) | 3:57 | 2022-01-06 | 2022-01-15 |

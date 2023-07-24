@@ -1,12 +1,12 @@
 {
   "description": "Indie, pop, alternativo... y un poco m\u00e1s all\u00e1. Cover: Buscabulla",
-  "num_followers": 1940,
+  "num_followers": 1967,
   "original_name": "Indie Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjI1NDJlYWM3ZDY4MmIyMDAxZTMyMzA1ODc4OGI3OWFkNmU2OTQ5",
+  "snapshot_id": "MCwyOTQwMTg1ODE1NmY0MDQ5YzE4ODA2ZGM1YTlkMTUxMmExZjc4OWZk",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Mares\u00eda",
-        "url": "https://open.spotify.com/album/5DwISBzdYnnULIlRaie7xV"
-      },
-      "artists": [
-        {
-          "name": "Karina Daza",
-          "url": "https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp"
-        }
-      ],
-      "duration_ms": 211169,
-      "name": "Mares\u00eda",
-      "url": "https://open.spotify.com/track/31v5xyilb2gRi1Zk7URiuz"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Hasta el final",
         "url": "https://open.spotify.com/album/2O3KVLfiSA5slbTTobMVRd"
       },
@@ -655,6 +639,42 @@
       "duration_ms": 208000,
       "name": "Hasta el final",
       "url": "https://open.spotify.com/track/53sjsn7vEChKgNiDXOXoQF"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Guarapo y Flor",
+        "url": "https://open.spotify.com/album/4gAOfHDqhgTYdwEsVBfObJ"
+      },
+      "artists": [
+        {
+          "name": "Seba Otero",
+          "url": "https://open.spotify.com/artist/4KcUp7k6HasVCPeB4uIA1i"
+        },
+        {
+          "name": "Bebo Dumont",
+          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
+        }
+      ],
+      "duration_ms": 179541,
+      "name": "Guarapo y Flor",
+      "url": "https://open.spotify.com/track/0kVjvfryus4UWTFKD42KzG"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Mares\u00eda",
+        "url": "https://open.spotify.com/album/5DwISBzdYnnULIlRaie7xV"
+      },
+      "artists": [
+        {
+          "name": "Karina Daza",
+          "url": "https://open.spotify.com/artist/4GCZ1YoIw5s7JycQgTFvTp"
+        }
+      ],
+      "duration_ms": 211169,
+      "name": "Mares\u00eda",
+      "url": "https://open.spotify.com/track/31v5xyilb2gRi1Zk7URiuz"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -707,22 +727,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Watersport",
-        "url": "https://open.spotify.com/album/2fVylpcjB0l3QJV716RrXg"
-      },
-      "artists": [
-        {
-          "name": "Baby City Club",
-          "url": "https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h"
-        }
-      ],
-      "duration_ms": 241360,
-      "name": "Watersport",
-      "url": "https://open.spotify.com/track/4n088AKH0Qq0VUSvKV8F3D"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Prisma Tropical",
         "url": "https://open.spotify.com/album/5rxHa78aHnkv9r0yzzo1fU"
       },
@@ -735,6 +739,22 @@
       "duration_ms": 293873,
       "name": "La Nueva Ciudad",
       "url": "https://open.spotify.com/track/07A2ymyQdaN7P1sbmJ6miC"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Watersport",
+        "url": "https://open.spotify.com/album/2fVylpcjB0l3QJV716RrXg"
+      },
+      "artists": [
+        {
+          "name": "Baby City Club",
+          "url": "https://open.spotify.com/artist/0C0N9lnbb1PTCOU7Rltx6h"
+        }
+      ],
+      "duration_ms": 241360,
+      "name": "Watersport",
+      "url": "https://open.spotify.com/track/4n088AKH0Qq0VUSvKV8F3D"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -771,26 +791,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Guarapo y Flor",
-        "url": "https://open.spotify.com/album/4gAOfHDqhgTYdwEsVBfObJ"
-      },
-      "artists": [
-        {
-          "name": "Seba Otero",
-          "url": "https://open.spotify.com/artist/4KcUp7k6HasVCPeB4uIA1i"
-        },
-        {
-          "name": "Bebo Dumont",
-          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
-        }
-      ],
-      "duration_ms": 179541,
-      "name": "Guarapo y Flor",
-      "url": "https://open.spotify.com/track/0kVjvfryus4UWTFKD42KzG"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Algo X Dentro",
         "url": "https://open.spotify.com/album/6PcvdxnAeRkgyqriORyrrN"
       },
@@ -803,6 +803,22 @@
       "duration_ms": 198206,
       "name": "Dime Juan",
       "url": "https://open.spotify.com/track/7fgCxatCNdVd1zmQfzlJ0b"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Miel y Mantequilla",
+        "url": "https://open.spotify.com/album/59NP5vnw0wIR1CAJKeiU0b"
+      },
+      "artists": [
+        {
+          "name": "Seba Otero",
+          "url": "https://open.spotify.com/artist/4KcUp7k6HasVCPeB4uIA1i"
+        }
+      ],
+      "duration_ms": 227319,
+      "name": "Miel y Mantequilla",
+      "url": "https://open.spotify.com/track/2YnlDzQ7jw9LwLhapCOYLU"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -835,22 +851,6 @@
       "duration_ms": 162102,
       "name": "Perd\u00ed Tu Num :(",
       "url": "https://open.spotify.com/track/2u7QYQ7rot9OWjJeaVubIu"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Venados y Artefactos",
-        "url": "https://open.spotify.com/album/5mV2121bnc1MAZyEsqf7lp"
-      },
-      "artists": [
-        {
-          "name": "MaryOla",
-          "url": "https://open.spotify.com/artist/5kooQfRbaDYVBAVAaGrFCT"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Venados y Artefactos",
-      "url": "https://open.spotify.com/track/6FjYW3LQtsKgd7SYSy6zgw"
     }
   ],
   "unique_name": "Indie Boricua",

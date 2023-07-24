@@ -4,7 +4,7 @@
 
 > Questionable in both morals and taste.
 
-66 songs - 3 hr 42 min
+67 songs - 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Sovietoblaster](https://open.spotify.com/track/2t8d5f6cR7QY8XrdRy1lsB) | [Rotfront](https://open.spotify.com/artist/4aY5KQo2g0QxZJA5djS0Jz) | [Emigrantski Raggamuffin](https://open.spotify.com/album/1Zw5RQlTFL520baBQt5FDT) | 3:09 | 2022-05-06 |  |
 | [Spider](https://open.spotify.com/track/0TIkZpO9NBw8WYYRTDnHv5) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Apollo 18](https://open.spotify.com/album/5HswYyErxPHfQtHhNlzhnR) | 0:50 | 2022-05-06 |  |
 | [Stayin' Alive](https://open.spotify.com/track/4Yrp0XlskLPSDStBxXIrKx) | [Brian David Gilbert](https://open.spotify.com/artist/2kHRbJk5oBq8T5fWYLFzpm) | [Bee Dee Gee's Hee Bee Bee Gees](https://open.spotify.com/album/0GOWf73AODnueap6qkvsOJ) | 4:15 | 2023-03-28 |  |
+| [Stop Being Poor](https://open.spotify.com/track/2n0OJhTkQBLw3mJyUbXI7D) | [ziwe](https://open.spotify.com/artist/4MPEpqfNghhc9u2QZhveib), [Patti Harrison](https://open.spotify.com/artist/3BNcOjxzqOP2N71Ygdw0Bk) | [Ziwe: a Famously Iconic Soundtrack \- EP](https://open.spotify.com/album/1gBsz23p2pNQJYyudz3cmm) | 2:14 | 2023-07-23 |  |
 | [Synopsis for Latecomers](https://open.spotify.com/track/6DhYcsWKfeCygCSX8Q7tmL) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [BOOK](https://open.spotify.com/album/5QbnWsYJtws83X3yXSOKkH) | 2:25 | 2023-03-26 |  |
 | [Take 'Em Down \(Take Your Trump Signs Down\)](https://open.spotify.com/track/4BjIajLqiUhAUVnR854RJr) | [Tom McGovern](https://open.spotify.com/artist/7sdTDjtp0SEve3nZk2mfEk) | [Take 'Em Down \(Take Your Trump Signs Down\)](https://open.spotify.com/album/2quKDe4qshXgtiGogCHq5v) | 1:01 | 2022-05-06 | 2023-07-09 |
 | [Terry's Taxidermy](https://open.spotify.com/track/5JYQEV4kFJoEBFqADbdvSY) | [Teddy Hyde](https://open.spotify.com/artist/62DKpfVgNt372d3Zz6TRc7) | [Splittsville](https://open.spotify.com/album/5YbIovTXkJS00GlBNcdTeS) | 5:41 | 2023-04-01 |  |

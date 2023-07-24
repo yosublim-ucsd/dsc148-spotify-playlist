@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance</a> to the rhythm and move your feet!
 
-970 songs - 2 day 4 hr 52 min
+971 songs - 2 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,6 +355,7 @@
 | [Good Dope](https://open.spotify.com/track/342IN7R7WLFvxwxkJ5vkaj) | [Future Class](https://open.spotify.com/artist/2jFK9ZXWDd7auJvfNfBcuC), [Makloud](https://open.spotify.com/artist/5pmx4PcrEWphi2Z8lW9rUN) | [Good Dope](https://open.spotify.com/album/4fcH341UhnzIcZPEHlZKys) | 2:57 | 2020-11-03 | 2021-12-11 |
 | [Good Feeling](https://open.spotify.com/track/1h4zfNDe8UapUvTuaDsTuM) | [Duvall](https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc), [Sam Gray](https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18) | [Good Feeling](https://open.spotify.com/album/1t8zwTa01KvKH925GrKmNE) | 2:49 | 2022-04-01 | 2022-07-29 |
 | [Good for Me \(feat\. Anna Straker\)](https://open.spotify.com/track/1S69G657rrHOIfPkKNihwH) | [Jay Pryor](https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd), [Coldabank](https://open.spotify.com/artist/3JOvRLynmP4mA6dvlWARoA), [Anna Straker](https://open.spotify.com/artist/4irCZ5mqRsmTXEEbMvO2VZ) | [Good for Me \(feat\. Anna Straker\)](https://open.spotify.com/album/0k5HLDaHBUT1fR8V6DeEoR) | 2:24 | 2021-10-16 | 2022-10-29 |
+| [Good Life](https://open.spotify.com/track/09rcsC6M15EZPbCVmrqUYK) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Good Life](https://open.spotify.com/album/4L7JQYnj8oGhI4OfdQjFjv) | 3:16 | 2023-07-14 |  |
 | [Good Life](https://open.spotify.com/track/5sJiLlgQKBL81QCTOkoLB5) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp) | [Paradise](https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs) | 4:04 | 2022-07-14 | 2022-07-30 |
 | [Good Luck](https://open.spotify.com/track/7CTdh15dTO5HqoeqRPHFha) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Good Luck](https://open.spotify.com/album/51QKtoBoHMU2dcOrRzeYBg) | 3:55 | 2022-04-01 | 2023-04-25 |
 | [Good Luck \(feat\. Pia Mia\) \- PS1 Remix](https://open.spotify.com/track/3txlbadheKtYDsywClnjMU) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Pia Mia](https://open.spotify.com/artist/1BhWF9W2PngtPSyobKg0rP), [PS1](https://open.spotify.com/artist/7bZGP9ijvv55LOENT634Mj) | [Good Luck \(PS1 Remix\)](https://open.spotify.com/album/4T3g98OUQjo3XNQ7pMpTZs) | 2:26 | 2021-12-31 | 2022-07-29 |
@@ -652,7 +653,7 @@
 | [Oxygen \- Dario Rodriguez Remix](https://open.spotify.com/track/7tks4SpHKvcPiMb6cql9Er) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Dario Rodriguez](https://open.spotify.com/artist/2hWrmZhAfziW6WnBytCCUv) | [Oxygen \(Dario Rodriguez Remix\)](https://open.spotify.com/album/1ZPuFcMFMPZS4Jr3NoXFeO) | 2:59 | 2020-08-04 | 2022-02-11 |
 | [Oye Mami](https://open.spotify.com/track/3YWYtU9jDCUfOOeo7iprbJ) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Oye Mami](https://open.spotify.com/album/2YpeWtXSXhMLCNWH2UpGhr) | 2:20 | 2020-05-22\* | 2022-04-19 |
 | [Padam Padam](https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV) | 2:46 | 2023-06-05 |  |
-| [Padam Padam \- Extended Mix](https://open.spotify.com/track/75U2gLyqfxbQGUNhnFe8tb) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/70OdX6NTbaZKdp9NULekl2) | 4:03 | 2023-06-23 |  |
+| [Padam Padam \- Extended Mix](https://open.spotify.com/track/75U2gLyqfxbQGUNhnFe8tb) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/70OdX6NTbaZKdp9NULekl2) | 4:03 | 2023-06-23 | 2023-07-24 |
 | [Paradise](https://open.spotify.com/track/6S8QooXikGI3RqJcarCcrY) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl), [Hugo Cantarra](https://open.spotify.com/artist/7bI21Y9xsFRFVtt3cWf73n), [OMEM](https://open.spotify.com/artist/6PEbhxAoBVdvwWFGwDmfoN) | [Paradise](https://open.spotify.com/album/6TUnvAYhgmJs2G8MuoQ3eb) | 2:54 | 2021-12-11 | 2022-07-07 |
 | [Paradise \(feat\. Dermot Kennedy\)](https://open.spotify.com/track/6ft4hAq6yde8jPZY2i5zLr) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Paradise](https://open.spotify.com/album/15sy3XQFShOFiDpKoxByyA) | 2:47 | 2020-12-27 | 2023-03-21 |
 | [Party Never Ends](https://open.spotify.com/track/35F2tdWosmulYdcmsXpQ7x) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Party Never Ends](https://open.spotify.com/album/34safHRUbL0hGUi5JB86tM) | 2:28 | 2020-05-22\* | 2021-12-21 |

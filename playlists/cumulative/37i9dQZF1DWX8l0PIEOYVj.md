@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: Dabin.
 
-401 songs - 1 day 0 hr 2 min
+402 songs - 1 day 0 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Army Of Angels](https://open.spotify.com/track/5C8Xk9oi6Kpiln7ZdEe1JQ) | [Synymata](https://open.spotify.com/artist/6mLoXZQPyVJgzOqKLkJQoC), [Elle Vee](https://open.spotify.com/artist/7b1FMiWXZwOBsxi0uWw6wH), [ANDY KAUTZ](https://open.spotify.com/artist/3LOMW9qqOdqeimIDQNmMIh) | [Army Of Angels](https://open.spotify.com/album/08vRZUFEVTfO1Qd7oVIMxG) | 4:33 | 2022-09-09 | 2023-06-18 |
 | [Art Of Letting Go \(feat\. James Gillespie\)](https://open.spotify.com/track/4dt4MyGRdBmpAukq0r5GuX) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [James Gillespie](https://open.spotify.com/artist/6wlk4iqaEgEvADMVG6QMd8) | [Discovery](https://open.spotify.com/album/1PpVHHdTAnWPTWg2v6ERZH) | 3:22 | 2023-06-02 |  |
 | [As Above So Below](https://open.spotify.com/track/5ZYi0t2DmjYEIvANnvHYKN) | [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Tasha Baxter](https://open.spotify.com/artist/7sLv4bED064cYa2XhF85og), [Bro Safari](https://open.spotify.com/artist/6d9SnuHI2bRer7c76d8sLq), [Macky](https://open.spotify.com/artist/6HkeW3Skr3NaxC6uWXw2lJ) | [As Above So Below](https://open.spotify.com/album/0XXmZS61tYClRAcJU5oXHG) | 2:16 | 2022-07-08 |  |
+| [Atmosphere](https://open.spotify.com/track/1jz0xzCf8SXUY8hLg8oCdY) | [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [sød ven](https://open.spotify.com/artist/6Gt5kTPVe7tuYK44gRPVdJ) | [Atmosphere](https://open.spotify.com/album/1Kb2RNaDVyqmx5PhV9ghBQ) | 3:35 | 2023-07-21 |  |
 | [Awaken](https://open.spotify.com/track/6cXUM8nvtbs9rsn1IPVtZB) | [Au5](https://open.spotify.com/artist/40WIa01eubnEVkxUHeDZyF), [NOHC](https://open.spotify.com/artist/4UkPjMAJX3pG27D7uaubXG) | [Awaken](https://open.spotify.com/album/2umbvECEkmXv27TTDi1z0B) | 6:27 | 2022-07-08 | 2023-06-10 |
 | [Away From Myself](https://open.spotify.com/track/1MTHQrIE43p9HnjtC5kBDP) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [ALRT](https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf) | [Away From Myself](https://open.spotify.com/album/2X04oTtQLfh0rcvHVsbcbB) | 3:12 | 2022-07-08 | 2023-04-09 |
 | [Back Now](https://open.spotify.com/track/1U4EJlYgHHuEzZPgiuUvEH) | [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [Ethan Dufault](https://open.spotify.com/artist/5c7oIOloT3runmK9YMayzJ) | [Back Now](https://open.spotify.com/album/6duea3hJJt63P5zYcoLThO) | 3:42 | 2023-06-09 |  |
@@ -220,7 +221,7 @@
 | [Knowing How To Break \(with RUNN\)](https://open.spotify.com/track/3cLJYCnJVVAWZgPcAafv6u) | [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Knowing How To Break \(with RUNN\)](https://open.spotify.com/album/6PfII0JtBwU9Si3KBW3S59) | 3:07 | 2022-07-08 | 2022-08-06 |
 | [La Luz](https://open.spotify.com/track/49SDbPxXIowntSFzL429SZ) | [Softest Hard](https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [La Luz](https://open.spotify.com/album/4fY0BnLX8BHIJrMl1jIkfh) | 3:48 | 2022-07-08 | 2023-02-26 |
 | [Last Forever](https://open.spotify.com/track/4qIdQ85ScIvl4E4ibBGjMp) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC), [Monika Santucci](https://open.spotify.com/artist/5E1FAGKopxyWqEREQblCDA) | [Last Forever](https://open.spotify.com/album/7yQNJPHh8ZeZBUE7AjK9Nf) | 4:09 | 2022-07-08 | 2022-07-29 |
-| [Let Go](https://open.spotify.com/track/4OVbQktMGvlMiRbXiW9mKu) | [FLOTE](https://open.spotify.com/artist/5GlpEfsBmDxKXL5Sr3ZTMO), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [Let Go](https://open.spotify.com/album/2t9SgkmJ2iccLKbptPCC6r) | 2:46 | 2023-03-10 |  |
+| [Let Go](https://open.spotify.com/track/4OVbQktMGvlMiRbXiW9mKu) | [FLOTE](https://open.spotify.com/artist/5GlpEfsBmDxKXL5Sr3ZTMO), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [Let Go](https://open.spotify.com/album/2t9SgkmJ2iccLKbptPCC6r) | 2:46 | 2023-03-10 | 2023-07-24 |
 | [Let You Down](https://open.spotify.com/track/4koJOexsJfCdpyiWPlu3K9) | [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64), [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [Let You Down](https://open.spotify.com/album/53fvgmWkvP8FKGbdO4zWiI) | 3:29 | 2023-05-19 |  |
 | [Lifeline](https://open.spotify.com/track/13IZmcVnhtkMMGqO9P4IUU) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Lena Leon](https://open.spotify.com/artist/0izKfMblL8LX6Bv2wG3Cy7) | [Lifeline](https://open.spotify.com/album/2Ok5nuAXcRNMqYh9DRlahf) | 3:45 | 2023-07-07 |  |
 | [Lifetime](https://open.spotify.com/track/3apU7oAtxowTACEEidRrSd) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF), [Roseanna](https://open.spotify.com/artist/3dEerTuAiYw5ZgMEtlTM5s) | [Lifetime](https://open.spotify.com/album/7IGiVdIK9PNhm0Tl6Lmtwq) | 3:03 | 2022-09-09 | 2023-05-08 |

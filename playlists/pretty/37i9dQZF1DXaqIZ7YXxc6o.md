@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Jazzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,691 likes - 105 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,700 likes - 105 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 104 | [Back To You](https://open.spotify.com/track/0TLHzVO3fyM2pTg9XQWutm) | [Duvall](https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc), [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Back To You](https://open.spotify.com/album/5bluYOQ6ASt8vaB1LSA1TI) | 2:33 |
 | 105 | [Receiver](https://open.spotify.com/track/4HigIvqZB8Wq329TR36uuf) | [mavzy grx](https://open.spotify.com/artist/2V0LlbHf7s77boS37hUkgR), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [Receiver](https://open.spotify.com/album/2f2ROVJ040d3fLzj74uF4F) | 2:44 |
 
-Snapshot ID: `MCxiMGFlNDZkMzBiYTI4ZTM4MWZjZDg1NjRhZjA3MDg5YTY3ZjhlODVl`
+Snapshot ID: `MCw0Y2E5NDMyYzY5YzFjYzhlYTdmZTY5Njc3MTFkMjU0ZDQ2YzBjMmI3`

@@ -4,7 +4,7 @@
 
 > Experimental electronic beyond the borders of tradition.
 
-119 songs - 9 hr 12 min
+120 songs - 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [Old Wives Tale](https://open.spotify.com/track/6P5mzQQddhBUa4EE3n6Zlu) | [Kessler](https://open.spotify.com/artist/3p0aq3vKGFP6N7rDc0UhJC) | [Old Wives Tale](https://open.spotify.com/album/1rM2WHjFo4m9P3McADxcC8) | 5:17 | 2021-10-15 |  |
 | [Olga](https://open.spotify.com/track/1jCOMWObV0nWG0qqjcPKwi) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [LP.8](https://open.spotify.com/album/2nDuOMxIgxcimqobgE5veh) | 3:02 | 2022-05-06 |  |
 | [On\-Line](https://open.spotify.com/track/356mCkfTkc75lPlPxAsKFU) | [Carlos do Complexo](https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2) | [Torus / On\-Line](https://open.spotify.com/album/1hIdgjyTLTzxUb2KuoFoHP) | 3:53 | 2021-10-15 |  |
-| [Parenthesis](https://open.spotify.com/track/75cgKglcEvg8GLXkWEIzTE) | [Neukrapsio](https://open.spotify.com/artist/61Z4ARbgYmgk3nsXcyazoa) | [Parenthesis](https://open.spotify.com/album/5eqyNKSdpiq17jzg8R3Hoy) | 3:12 | 2021-10-15 |  |
+| [Parenthesis](https://open.spotify.com/track/4oSjtDkvYK0mEVJb6m3Y0U) | [Neukrapsio](https://open.spotify.com/artist/61Z4ARbgYmgk3nsXcyazoa) | [Parenthesis](https://open.spotify.com/album/5dKEV7dfFbH6YU5FOQBYmg) | 3:12 | 2022-06-14 |  |
+| [Parenthesis](https://open.spotify.com/track/75cgKglcEvg8GLXkWEIzTE) | [Neukrapsio](https://open.spotify.com/artist/61Z4ARbgYmgk3nsXcyazoa) | [Parenthesis](https://open.spotify.com/album/5eqyNKSdpiq17jzg8R3Hoy) | 3:12 | 2021-10-15 | 2023-07-24 |
 | [Pixie Ring](https://open.spotify.com/track/1dpUCzuT5fFQRxhTuTiTjI) | [galen tipton](https://open.spotify.com/artist/4yk43MhqPWsrrzoRyoMZhv), [diana starshine](https://open.spotify.com/artist/2i7HtVZgy9BmqgUqZ9NA3L), [N\. Hell](https://open.spotify.com/artist/65Lo1Ijr8pT2vwQhWxD74O), [Junior Astronaut](https://open.spotify.com/artist/3ctsRe9vT9ehY8ppn5kUn1) | [Pixie Ring](https://open.spotify.com/album/5r06eodyrryQegLUF8iIPA) | 3:03 | 2021-10-15 | 2022-06-15 |
 | [Pomisea](https://open.spotify.com/track/5ZTLEuxMIVieBhFD4nBIsY) | [LA Timpa](https://open.spotify.com/artist/5Q6ahJqmdN5iYXkTujJIkC) | [Modern Antics in a Deserted Place](https://open.spotify.com/album/2yAbgYcYrEKDDVedvlH7nb) | 6:05 | 2021-10-15 | 2022-06-15 |
 | [Price of Highest Consciousness](https://open.spotify.com/track/1LqkejkhJzZ01dAO5lH0iS) | [rRoxymore](https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf) | [SOS MUSIC VOLUME 1](https://open.spotify.com/album/2sW21vXlX1MNW0VyJLo4LM) | 6:08 | 2022-06-14 | 2022-11-13 |

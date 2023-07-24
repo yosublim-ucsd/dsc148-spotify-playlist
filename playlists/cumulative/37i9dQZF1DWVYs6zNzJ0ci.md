@@ -4,7 +4,7 @@
 
 > Vibraciones rastafari en español\. Foto: MYA, Dread Mar I
 
-284 songs - 19 hr 0 min
+285 songs - 19 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Basyer](https://open.spotify.com/track/6wrS7j5YmRT1qtTE7jLCOB) | [Rastrillos](https://open.spotify.com/artist/7oVQXVtyLC8b7pxGefZX50) | [Basyer](https://open.spotify.com/album/6wUDb1VSlXl8cKulCmZfhx) | 4:20 | 2021-12-10 | 2022-07-29 |
 | [Besos de Limón](https://open.spotify.com/track/6OFLfh8JGk19XO7w0bnVio) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB), [Ky\-Mani Marley](https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC), [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV) | [Besos de Limón](https://open.spotify.com/album/1Enr4SWH5n5D78TskeugFA) | 3:29 | 2021-12-10 | 2022-06-28 |
 | [Besos Para Ti](https://open.spotify.com/track/0AM2PfqCT9Qj7B47Zld57W) | [Los Afro Brothers](https://open.spotify.com/artist/7asyO9hw31DnRSekSfu9Bq) | [Dejando Huella](https://open.spotify.com/album/7EqfRs662QaBqWfpqYiWYa) | 3:03 | 2021-12-10 | 2023-07-22 |
+| [Bff <3](https://open.spotify.com/track/0XQsWXjHkSjLuSHnHB1qLL) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Bff <3](https://open.spotify.com/album/0sQbAzt4xQNbYTVRcEEhss) | 2:53 | 2023-07-21 |  |
 | [Bff <3](https://open.spotify.com/track/1i1RYy42uVr7KBCpA5Gjym) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Bff <3](https://open.spotify.com/album/25pzrcoYq32V2h8LNz42Wu) | 2:53 | 2022-03-11 | 2023-07-22 |
 | [Binikini](https://open.spotify.com/track/1Iy4dJWborISHY9FHWGKPD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Binikini](https://open.spotify.com/album/7jAzRi4PeWM3E2MJnBmedj) | 3:03 | 2023-03-03 |  |
 | [Birdman](https://open.spotify.com/track/5GKm9oJsbVaKL5vuYkxOCK) | [Man After Man](https://open.spotify.com/artist/1jxHgQ48lEj9OZ7o3y1HfQ), [Richie Alexander](https://open.spotify.com/artist/4YMhNKBGJfOR1jsrtcbR6e), [Masai Méndez](https://open.spotify.com/artist/16ATlFZC9Rz8a9Xo2hEmsk) | [Galactic Echo](https://open.spotify.com/album/569HJOiydTPUQd3oHuT9fg) | 3:03 | 2022-04-01 | 2022-05-04 |
@@ -204,7 +205,7 @@
 | [Pensando En Ti](https://open.spotify.com/track/5XORpyys9dvyjJWpTYeame) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Eleven](https://open.spotify.com/album/7fNhdRorm3P66FXPCa6GZt) | 4:09 | 2021-12-10 |  |
 | [Perfecta](https://open.spotify.com/track/5rGorQ0R06XveTJXMd3QRi) | [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Perfecta](https://open.spotify.com/album/0bltv9msqv6kh3PSqjACXY) | 2:44 | 2022-09-30 |  |
 | [Perla Negra](https://open.spotify.com/track/3dhSQB8rGgNix3d82H7GLc) | [Providencia](https://open.spotify.com/artist/5Jfv3Fh8E4Gb8AYLwl4OCv), [Big Mountain](https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH) | [Perla Negra \(feat\. Big Mountain\)](https://open.spotify.com/album/3zIb9YlYBXQlkWocMzPquQ) | 4:33 | 2021-12-10 | 2022-07-29 |
-| [Pipa y Placa](https://open.spotify.com/track/6CiBBWXURdhh84dJZbGAfU) | [Mistah Godeh](https://open.spotify.com/artist/5HM6HBJLoQMwsZCEC5Uu8L), [Fyahbwoy](https://open.spotify.com/artist/6uFTGm4t8Z6tXyCm22sLQM), [Calero LDN](https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR), [Accion Sanchez](https://open.spotify.com/artist/3R8z9YIb6DBi9Z8gPbhyXs) | [Pipa y Placa](https://open.spotify.com/album/6ASgaytLSi6bq1Hc8m8heS) | 3:33 | 2023-01-20 |  |
+| [Pipa y Placa](https://open.spotify.com/track/6CiBBWXURdhh84dJZbGAfU) | [Mistah Godeh](https://open.spotify.com/artist/5HM6HBJLoQMwsZCEC5Uu8L), [Fyahbwoy](https://open.spotify.com/artist/6uFTGm4t8Z6tXyCm22sLQM), [Calero LDN](https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR), [Accion Sanchez](https://open.spotify.com/artist/3R8z9YIb6DBi9Z8gPbhyXs) | [Pipa y Placa](https://open.spotify.com/album/6ASgaytLSi6bq1Hc8m8heS) | 3:33 | 2023-01-20 | 2023-07-24 |
 | [Por Cultivar Marihuana](https://open.spotify.com/track/3hcGo9ePUX6CFqB1NpZE9L) | [Resistencia Suburbana](https://open.spotify.com/artist/0LlH3BrcSkLqcQ1flElWNJ) | [Worrrrssss!!!!](https://open.spotify.com/album/4vwvC9kGtFHo17jY2KvnIb) | 5:09 | 2021-12-10 | 2022-07-28 |
 | [Por Cultivar Marihuana](https://open.spotify.com/track/74ELoGdDLdfAq0zeA0AL8x) | [Resistencia Suburbana](https://open.spotify.com/artist/0LlH3BrcSkLqcQ1flElWNJ) | [Worrrrssss!!!!](https://open.spotify.com/album/1PAXVnVivLuG9O6fJA3EXu) | 5:09 | 2022-07-08 |  |
 | [Primaveras](https://open.spotify.com/track/38WEdyXzzj63zhClgLaUgq) | [Toby Deltin](https://open.spotify.com/artist/5NWVeyZSNXkufVv5W5xNDr), [La Skandalosa Tripulación](https://open.spotify.com/artist/3dTtKHXPMLmyevUFZO941G) | [Primaveras](https://open.spotify.com/album/6YSYJyoNdNOFzZnSf88soO) | 3:29 | 2023-07-21 |  |

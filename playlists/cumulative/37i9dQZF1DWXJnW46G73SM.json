@@ -5459,24 +5459,6 @@
     },
     {
       "album": {
-        "name": "Oooh",
-        "url": "https://open.spotify.com/album/5UomHwXDMZNAumKNzGBubk"
-      },
-      "artists": [
-        {
-          "name": "Ahmed Helmy",
-          "url": "https://open.spotify.com/artist/6weFHq6TU2aoz3eb6JNSbB"
-        }
-      ],
-      "date_added": "2023-06-29",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 150303,
-      "name": "Oooh",
-      "url": "https://open.spotify.com/track/4tHH28eKHx2B5k7jjbcTGQ"
-    },
-    {
-      "album": {
         "name": "Or2os",
         "url": "https://open.spotify.com/album/6e134cNPBba31udAGXUTzr"
       },
@@ -7331,6 +7313,24 @@
     },
     {
       "album": {
+        "name": "\u0623\u0648\u0648\u0648\u0648\u0647",
+        "url": "https://open.spotify.com/album/5UomHwXDMZNAumKNzGBubk"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Helmy",
+          "url": "https://open.spotify.com/artist/6weFHq6TU2aoz3eb6JNSbB"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150303,
+      "name": "\u0623\u0648\u0648\u0648\u0648\u0647",
+      "url": "https://open.spotify.com/track/4tHH28eKHx2B5k7jjbcTGQ"
+    },
+    {
+      "album": {
         "name": "\u0625\u0633\u062a\u0645\u0627\u0631\u0629 6",
         "url": "https://open.spotify.com/album/52FCk5Px74jp8QVX3YjYCT"
       },
@@ -8347,7 +8347,7 @@
     },
     {
       "album": {
-        "name": "\u0633\u0645\u0639 \u0647\u0633 (feat. Karim Abdelaziz & Karim Mahmoud Abdelaziz)",
+        "name": "\u0633\u0645\u0639 \u0647\u0633",
         "url": "https://open.spotify.com/album/44zSqMLdhsuJc6iGs9VruL"
       },
       "artists": [
@@ -8368,7 +8368,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 156108,
-      "name": "\u0633\u0645\u0639 \u0647\u0633 (feat. Karim Abdelaziz & Karim Mahmoud Abdelaziz)",
+      "name": "\u0633\u0645\u0639 \u0647\u0633",
       "url": "https://open.spotify.com/track/7v6T4DIvmmmUmyAxMdNUAJ"
     },
     {

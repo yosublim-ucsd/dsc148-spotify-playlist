@@ -1,12 +1,12 @@
 {
   "description": "Cool down with these chill beats",
-  "num_followers": 58034,
+  "num_followers": 58065,
   "original_name": "Lo-Fi Cool Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODAwZjYyYWQyYzU0YmMzNzM2Yzk5ZTY4YTM0ZmNkMWEyZGVlOWRh",
+  "snapshot_id": "MCwxYWU0NzA1MjQ3NjY1Yjg1ZjhmNmFlMjAzODBmNTg3OTE4MjA0NDgz",
   "tracks": [
     {
       "added_at": "2020-11-12 22:28:34",
@@ -495,6 +495,22 @@
     {
       "added_at": "2020-11-12 22:28:34",
       "album": {
+        "name": "late night bumps, Vol. 4",
+        "url": "https://open.spotify.com/album/6pRT23z9R7zEok9972HPgY"
+      },
+      "artists": [
+        {
+          "name": "bsd.u",
+          "url": "https://open.spotify.com/artist/5ng3zK89O4P9BHqLFwkcXn"
+        }
+      ],
+      "duration_ms": 116119,
+      "name": "blueberry",
+      "url": "https://open.spotify.com/track/5tNzLWnbpR7tpW0zdN5TCE"
+    },
+    {
+      "added_at": "2020-11-12 22:28:34",
+      "album": {
         "name": "Haven",
         "url": "https://open.spotify.com/album/1h9XWzr2rj00yCSmxAeFyy"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 155200,
       "name": "Umbrellas",
       "url": "https://open.spotify.com/track/5PwVDKa5tAPIYRiRF21pnC"
-    },
-    {
-      "added_at": "2020-11-12 22:28:34",
-      "album": {
-        "name": "late night bumps, Vol. 4",
-        "url": "https://open.spotify.com/album/6pRT23z9R7zEok9972HPgY"
-      },
-      "artists": [
-        {
-          "name": "bsd.u",
-          "url": "https://open.spotify.com/artist/5ng3zK89O4P9BHqLFwkcXn"
-        }
-      ],
-      "duration_ms": 116119,
-      "name": "blueberry",
-      "url": "https://open.spotify.com/track/5tNzLWnbpR7tpW0zdN5TCE"
     },
     {
       "added_at": "2020-11-12 22:28:34",
@@ -627,22 +627,6 @@
     {
       "added_at": "2020-11-12 22:28:34",
       "album": {
-        "name": "Chillhop Essentials Summer 2018",
-        "url": "https://open.spotify.com/album/2YvRkxlqhH67oyLI0xC1mM"
-      },
-      "artists": [
-        {
-          "name": "HM Surf",
-          "url": "https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Oracle Night",
-      "url": "https://open.spotify.com/track/5sAxHA9vc2phSUff2793GX"
-    },
-    {
-      "added_at": "2020-11-12 22:28:34",
-      "album": {
         "name": "Heart Ache",
         "url": "https://open.spotify.com/album/1oeoiDkblHaCEdZi6GA7AS"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 127080,
       "name": "Heart Ache",
       "url": "https://open.spotify.com/track/1fUtnylny4kCekSRCTYqnl"
+    },
+    {
+      "added_at": "2020-11-12 22:28:34",
+      "album": {
+        "name": "Chillhop Essentials Summer 2018",
+        "url": "https://open.spotify.com/album/2YvRkxlqhH67oyLI0xC1mM"
+      },
+      "artists": [
+        {
+          "name": "HM Surf",
+          "url": "https://open.spotify.com/artist/6TeBxtluBMQixZcKkJ3ZrB"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Oracle Night",
+      "url": "https://open.spotify.com/track/5sAxHA9vc2phSUff2793GX"
     },
     {
       "added_at": "2022-07-08 04:02:00",
@@ -809,6 +809,26 @@
       "url": "https://open.spotify.com/track/62SSYJZ70LM4WjPfZZlvQs"
     },
     {
+      "added_at": "2022-06-03 04:02:00",
+      "album": {
+        "name": "Close Distance (Deluxe)",
+        "url": "https://open.spotify.com/album/4aSu2qefcm9v4hcALQy4It"
+      },
+      "artists": [
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        },
+        {
+          "name": "K, Le Maestro",
+          "url": "https://open.spotify.com/artist/47e5ouk0xXSflqOEUuuEP7"
+        }
+      ],
+      "duration_ms": 141773,
+      "name": "Solst\u00e5nd - Bonus Track",
+      "url": "https://open.spotify.com/track/5JhnZmoePRQaSjhtVWPlVZ"
+    },
+    {
       "added_at": "2020-11-12 22:28:34",
       "album": {
         "name": "Collabs, Vol 2",
@@ -831,26 +851,6 @@
       "duration_ms": 104945,
       "name": "Sandcastle",
       "url": "https://open.spotify.com/track/4uzI5lrZY5XD9D8QpUVESB"
-    },
-    {
-      "added_at": "2022-06-03 04:02:00",
-      "album": {
-        "name": "Close Distance (Deluxe)",
-        "url": "https://open.spotify.com/album/4aSu2qefcm9v4hcALQy4It"
-      },
-      "artists": [
-        {
-          "name": "FloFilz",
-          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
-        },
-        {
-          "name": "K, Le Maestro",
-          "url": "https://open.spotify.com/artist/47e5ouk0xXSflqOEUuuEP7"
-        }
-      ],
-      "duration_ms": 141773,
-      "name": "Solst\u00e5nd - Bonus Track",
-      "url": "https://open.spotify.com/track/5JhnZmoePRQaSjhtVWPlVZ"
     },
     {
       "added_at": "2020-11-12 22:28:34",
@@ -1001,26 +1001,6 @@
       "url": "https://open.spotify.com/track/2IB7U1RPRbCuPspDCq1ecj"
     },
     {
-      "added_at": "2022-05-20 04:02:00",
-      "album": {
-        "name": "Granat Session Vol. II",
-        "url": "https://open.spotify.com/album/0JqAJeILF8gY4vOzmjUXkE"
-      },
-      "artists": [
-        {
-          "name": "damaa.beats",
-          "url": "https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY"
-        },
-        {
-          "name": "Otis Ubaka",
-          "url": "https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK"
-        }
-      ],
-      "duration_ms": 150507,
-      "name": "The Soul of Things",
-      "url": "https://open.spotify.com/track/0ZDNgOOkCqfJK4jrXGb8wj"
-    },
-    {
       "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Colorful Skies",
@@ -1039,6 +1019,26 @@
       "duration_ms": 115182,
       "name": "Colorful Skies",
       "url": "https://open.spotify.com/track/1mVDTs9JE7sNEwH25jnxtP"
+    },
+    {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "Granat Session Vol. II",
+        "url": "https://open.spotify.com/album/0JqAJeILF8gY4vOzmjUXkE"
+      },
+      "artists": [
+        {
+          "name": "damaa.beats",
+          "url": "https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY"
+        },
+        {
+          "name": "Otis Ubaka",
+          "url": "https://open.spotify.com/artist/1YreDOGr8en691i5jQJJMK"
+        }
+      ],
+      "duration_ms": 150507,
+      "name": "The Soul of Things",
+      "url": "https://open.spotify.com/track/0ZDNgOOkCqfJK4jrXGb8wj"
     },
     {
       "added_at": "2022-09-23 04:01:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2020-11-12 22:28:34",
       "album": {
-        "name": "If It Moves",
-        "url": "https://open.spotify.com/album/0v3jKmP16FeoC05qddyZnw"
-      },
-      "artists": [
-        {
-          "name": "Michael Michaelson",
-          "url": "https://open.spotify.com/artist/72FGRiJVcSofI5bOBzoilz"
-        }
-      ],
-      "duration_ms": 98778,
-      "name": "If It Moves",
-      "url": "https://open.spotify.com/track/146q2OSfFlvk9VBKTKR2Ms"
-    },
-    {
-      "added_at": "2020-11-12 22:28:34",
-      "album": {
         "name": "Suave",
         "url": "https://open.spotify.com/album/5txeC1tIBt4cbMNlS2dLR4"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 80000,
       "name": "Suave",
       "url": "https://open.spotify.com/track/1PS3K87McFoH9jI9RAgmnr"
+    },
+    {
+      "added_at": "2020-11-12 22:28:34",
+      "album": {
+        "name": "If It Moves",
+        "url": "https://open.spotify.com/album/0v3jKmP16FeoC05qddyZnw"
+      },
+      "artists": [
+        {
+          "name": "Michael Michaelson",
+          "url": "https://open.spotify.com/artist/72FGRiJVcSofI5bOBzoilz"
+        }
+      ],
+      "duration_ms": 98778,
+      "name": "If It Moves",
+      "url": "https://open.spotify.com/track/146q2OSfFlvk9VBKTKR2Ms"
     },
     {
       "added_at": "2020-11-12 22:28:34",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2020-11-12 22:28:34",
       "album": {
-        "name": "1988",
-        "url": "https://open.spotify.com/album/0YePXgGfk39Rd1OWgqFKRS"
-      },
-      "artists": [
-        {
-          "name": "Knxwledge",
-          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
-        }
-      ],
-      "duration_ms": 78120,
-      "name": "makeuseofthetime",
-      "url": "https://open.spotify.com/track/4YblvnMhr0V2lbn8IPVb35"
-    },
-    {
-      "added_at": "2020-11-12 22:28:34",
-      "album": {
         "name": "Safehouse",
         "url": "https://open.spotify.com/album/0aeSj329rAsSdeLDDsyP6q"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 159982,
       "name": "Safehouse",
       "url": "https://open.spotify.com/track/0MObi1btcXOB5Yk3XrRA6T"
+    },
+    {
+      "added_at": "2020-11-12 22:28:34",
+      "album": {
+        "name": "1988",
+        "url": "https://open.spotify.com/album/0YePXgGfk39Rd1OWgqFKRS"
+      },
+      "artists": [
+        {
+          "name": "Knxwledge",
+          "url": "https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ"
+        }
+      ],
+      "duration_ms": 78120,
+      "name": "makeuseofthetime",
+      "url": "https://open.spotify.com/track/4YblvnMhr0V2lbn8IPVb35"
     },
     {
       "added_at": "2020-11-12 22:28:34",

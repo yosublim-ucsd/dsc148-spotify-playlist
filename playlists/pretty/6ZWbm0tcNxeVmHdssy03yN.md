@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 35,756 likes - 90 songs - 4 hr 40 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 35,776 likes - 90 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 16 | [green bag red bag](https://open.spotify.com/track/3UHF1bf6zh2KaxvAT1xTvw) | [Smak](https://open.spotify.com/artist/1nLwxxHDsAR66ULDacUSse), [Ginge Mansion](https://open.spotify.com/artist/59sLfyYQ6c1DRDIqI8zxIw) | [green bag red bag](https://open.spotify.com/album/2F209fXtvpLyzUqwLdkF0I) | 2:42 |
 | 17 | [Un Solo Vientre](https://open.spotify.com/track/652EkO5aFAC08No1JV0zqs) | [Japonica](https://open.spotify.com/artist/2cI95BrKbMFINYuR0IanPD) | [Un Solo Vientre](https://open.spotify.com/album/4klUqNMjFqtTdR0Zzajow6) | 3:38 |
 | 18 | [Bajo la piel](https://open.spotify.com/track/30vd3jTxbr6UYuuTvayxPX) | [Proyecto Gomez Casa](https://open.spotify.com/artist/2llTGhog6PYF3KfYg5sTYe), [Alejo y Valentin](https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum) | [Bajo la piel](https://open.spotify.com/album/06KYlFtTKi0XoT444EMjDM) | 4:00 |
-| 19 | [Pal' Pueblo!](https://open.spotify.com/track/3jSXRRM06qIRCSF1NUKQGv) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [Pal' Pueblo!](https://open.spotify.com/album/04cYMv9Uoogo9zv61kelCW) | 3:29 |
+| 19 | [Pal' Pueblo!](https://open.spotify.com/track/3jSXRRM06qIRCSF1NUKQGv) | [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [Pal' Pueblo!](https://open.spotify.com/album/04cYMv9Uoogo9zv61kelCW) | 3:31 |
 | 20 | [Se Solta](https://open.spotify.com/track/03qlAYKt8pzZfDDS52dNDz) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW) | [Se Solta](https://open.spotify.com/album/5xESkjCLWsw4bN5HsOXPgo) | 1:46 |
 | 21 | [Deathwish \- Invisible Squirrel Remix](https://open.spotify.com/track/2dV2SM8DkETNCU7Hg3XjHD) | [KILL, THE ICON!](https://open.spotify.com/artist/2qM0u5t1l6nuAhmOZKn5Wg), [Invisible Squirrel](https://open.spotify.com/artist/0yzRDAvXmljxvWBTDmO8ck) | [Deathwish \(Invisible Squirrel Remix\)](https://open.spotify.com/album/3FUB2z1cC8RP7T6TZMrLko) | 3:58 |
 | 22 | [Living Room](https://open.spotify.com/track/6DPmvogAL1AH6QJ4NfQ3ba) | [Loie](https://open.spotify.com/artist/1IcA6oyWXac8laFWul0ZaJ) | [What We Become](https://open.spotify.com/album/59orHxxohwog8QsHMSXjso) | 2:53 |

@@ -1,12 +1,12 @@
 {
   "description": "Stomping Blues Rock for cooking and eating with friends. ",
-  "num_followers": 5896,
+  "num_followers": 5908,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYzkxZWFjNGNhY2Q4NTk0MTBmMzFhYzg1MGRkMzExOTE2Mzg2YzVi",
+  "snapshot_id": "MCw1YWQ2NzFjMTk4ZDg5MzkyMDJhZjdlZmE3N2YwYWY4YjkwNGM1NGE3",
   "tracks": [
     {
       "added_at": "2023-07-21 15:58:03",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "Sho Been Worse",
-        "url": "https://open.spotify.com/album/3sxE8PeJB8tUFIM5soGgco"
-      },
-      "artists": [
-        {
-          "name": "Tyler Bryant & the Shakedown",
-          "url": "https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo"
-        }
-      ],
-      "duration_ms": 174124,
-      "name": "Sho Been Worse",
-      "url": "https://open.spotify.com/track/2Qg9TUOmezQXfKV1NrT8bx"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
         "name": "Well, I Done Got Over It",
         "url": "https://open.spotify.com/album/4ftRZ5GU9UPwhRhs7JXMp7"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 174560,
       "name": "Well, I Done Got Over It",
       "url": "https://open.spotify.com/track/1lcBFiv1gUfSGtKSmrVwkn"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
+        "name": "Sho Been Worse",
+        "url": "https://open.spotify.com/album/3sxE8PeJB8tUFIM5soGgco"
+      },
+      "artists": [
+        {
+          "name": "Tyler Bryant & the Shakedown",
+          "url": "https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo"
+        }
+      ],
+      "duration_ms": 174124,
+      "name": "Sho Been Worse",
+      "url": "https://open.spotify.com/track/2Qg9TUOmezQXfKV1NrT8bx"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -175,6 +175,22 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
+        "name": "I Want To Shout About It",
+        "url": "https://open.spotify.com/album/4msee0HokeDJun37ZYZLLl"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 252493,
+      "name": "I Want To Shout About It",
+      "url": "https://open.spotify.com/track/6MJzbRnxAbQ2Uke7e5vM2H"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
         "name": "Peace...Like A River",
         "url": "https://open.spotify.com/album/251yYklVfkeGg5TP3xssV2"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 219454,
       "name": "FLorida Man",
       "url": "https://open.spotify.com/track/2oN86MTxnHp1ST30tDL4h0"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
-        "name": "I Want To Shout About It",
-        "url": "https://open.spotify.com/album/4msee0HokeDJun37ZYZLLl"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 252493,
-      "name": "I Want To Shout About It",
-      "url": "https://open.spotify.com/track/6MJzbRnxAbQ2Uke7e5vM2H"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
+        "name": "Walk The Wire",
+        "url": "https://open.spotify.com/album/5ADpXCosDjpGMFbDznwb6X"
+      },
+      "artists": [
+        {
+          "name": "Brent Lindsay",
+          "url": "https://open.spotify.com/artist/26cglONxlfyTejxQrbWJaO"
+        }
+      ],
+      "duration_ms": 124218,
+      "name": "Walk The Wire",
+      "url": "https://open.spotify.com/track/38VyicJEfQueeQPIH0tZDp"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
         "name": "Good Love Goes Bad",
         "url": "https://open.spotify.com/album/0s1mtwlKIxnASFrd442eW9"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 214666,
       "name": "A Good Thing",
       "url": "https://open.spotify.com/track/0etGqvLZLSJ99bvh3mluj8"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
-        "name": "Walk The Wire",
-        "url": "https://open.spotify.com/album/5ADpXCosDjpGMFbDznwb6X"
-      },
-      "artists": [
-        {
-          "name": "Brent Lindsay",
-          "url": "https://open.spotify.com/artist/26cglONxlfyTejxQrbWJaO"
-        }
-      ],
-      "duration_ms": 124218,
-      "name": "Walk The Wire",
-      "url": "https://open.spotify.com/track/38VyicJEfQueeQPIH0tZDp"
     },
     {
       "added_at": "2023-07-21 15:58:03",

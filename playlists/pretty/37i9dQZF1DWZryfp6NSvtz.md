@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Magnolia Park
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,675 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,953 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 49 | [Su Nombre Es el Tuyo](https://open.spotify.com/track/21bbADKE5VtWFDe3xhW7fi) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Su Nombre Es el Tuyo](https://open.spotify.com/album/4PIBAHP1GHhqSLGn5c5yFh) | 4:47 |
 | 50 | [Ten Billion People](https://open.spotify.com/track/66bDEpl6qeZD7XCRVLO5iW) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Ten Billion People](https://open.spotify.com/album/5tsiqQB6hht6JVZgh5gM2Q) | 6:29 |
 
-Snapshot ID: `MCwwOTM4ZTY1MjQ3ODZhMzFkZjMwMGM3ZWY2MDJhYTU4YTIyN2Y5NjU4`
+Snapshot ID: `MCw4YjQ1NmY2OTE3NzhkNzM1ODY0ZDMzMTJlY2IxZTEzZWY1MDM1YmZl`

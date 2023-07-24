@@ -4,7 +4,7 @@
 
 > The best of Latin blues\. Cover: Carlos Santana
 
-77 songs - 5 hr 15 min
+78 songs - 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,8 @@
 | [Putreblues](https://open.spotify.com/track/1E9kMrrh3q58raTfz3L0kC) | [Blues Motel](https://open.spotify.com/artist/2VD4qhDrH6pU7dbaK9nuni) | [Abrazo Insomnio](https://open.spotify.com/album/7aw5ksKElZajzM9OPC0MTf) | 4:29 | 2020-12-01 |  |
 | [Que Curioso](https://open.spotify.com/track/2CyvqsB03KpExsynQbXme9) | [Nasta Super](https://open.spotify.com/artist/2BHl0Z177jpqHlFR5f4G9D), [Chris Cain](https://open.spotify.com/artist/3HFfi1wOWbXd83qSiwJhuv) | [Sólo por Mí](https://open.spotify.com/album/0B1UcrgwdRhCvHKhECshAZ) | 5:14 | 2020-12-01 |  |
 | [Que Pena](https://open.spotify.com/track/1GBga6jrKsaw3QKZx82IGB) | [Bender Bucowski](https://open.spotify.com/artist/6i5Zx8vR9kRUFfDnZRKAMa) | [Que Pena](https://open.spotify.com/album/26W9CnAEctnOkYV0MEVAtv) | 2:52 | 2022-10-14 | 2023-01-13 |
-| [Que Pena](https://open.spotify.com/track/4xOLS2Fa48jL47HszrEewo) | [Bender Bucowski](https://open.spotify.com/artist/6i5Zx8vR9kRUFfDnZRKAMa) | [Ahora Es Cuando](https://open.spotify.com/album/0swiunze7QIGHOYQwROnOq) | 2:52 | 2022-10-14 |  |
+| [Que Pena](https://open.spotify.com/track/4xOLS2Fa48jL47HszrEewo) | [Bender Bucowski](https://open.spotify.com/artist/6i5Zx8vR9kRUFfDnZRKAMa) | [Ahora Es Cuando](https://open.spotify.com/album/0swiunze7QIGHOYQwROnOq) | 2:52 | 2022-10-14 | 2023-07-24 |
+| [Que Pena](https://open.spotify.com/track/6VKj8RsvScqfn5k8ol8qih) | [Bender Bucowski](https://open.spotify.com/artist/6i5Zx8vR9kRUFfDnZRKAMa) | [Ahora es Cuando](https://open.spotify.com/album/2wY6Aw7iQXHA5aXzvzjEOk) | 2:52 | 2022-10-14 |  |
 | [Ruta 66](https://open.spotify.com/track/3TDVu80AX1ajC3BRJYlmeJ) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol.8: Caso Cerrado](https://open.spotify.com/album/3YiOZf1gNNtzbyCkLqzKi5) | 3:06 | 2020-12-01 |  |
 | [Ruta 66](https://open.spotify.com/track/3nl6qTl9qmaWYgNkvxt9v7) | [Pappo's Blues](https://open.spotify.com/artist/59dLJG3ZVwkMZLFKByQCJB) | [Pappo's Blues, Vol.8: Caso Cerrado](https://open.spotify.com/album/5HLhnpzahXgWFXpaXUMAGM) | 3:06 | 2020-12-01 | 2022-07-29 |
 | [Sucio y Desprolijo](https://open.spotify.com/track/0T6gj3F46FYqRUGKPyYpSj) | [La Mississippi](https://open.spotify.com/artist/2haNFSI2XvHycF4x0nhp2w), [Vargas Blues Band](https://open.spotify.com/artist/3K6ueahyMBq96ZtDjo9LSn) | [Sucio y Desprolijo](https://open.spotify.com/album/1b2aq9eJwiPZPlUOJz8bgU) | 6:32 | 2023-02-17 |  |

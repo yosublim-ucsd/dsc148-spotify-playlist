@@ -1,12 +1,12 @@
 {
   "description": "Boss music for boss people. Cover: Jamie T",
-  "num_followers": 112773,
+  "num_followers": 112795,
   "original_name": "Proper Belters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NjUxNzhiYmM4MTY4NmJlMGQyNmJjNzg4NDQ0YTgyNzRhZDAxMWJh",
+  "snapshot_id": "MCxmMmNlODA0ZjVkZWRjZDg5NDZiMTJjYzdkYTgzNzM5NDE4ZjcyMWZm",
   "tracks": [
     {
       "added_at": "2023-06-13 08:58:04",
@@ -587,38 +587,6 @@
     {
       "added_at": "2023-06-13 08:58:04",
       "album": {
-        "name": "3AM",
-        "url": "https://open.spotify.com/album/1Cmfz56eoj4qs3ZMvfvCUx"
-      },
-      "artists": [
-        {
-          "name": "overpass",
-          "url": "https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8"
-        }
-      ],
-      "duration_ms": 211119,
-      "name": "3AM",
-      "url": "https://open.spotify.com/track/7q6sN7NKKowCDvPHS0SaCi"
-    },
-    {
-      "added_at": "2023-07-11 12:37:14",
-      "album": {
-        "name": "Landmines",
-        "url": "https://open.spotify.com/album/04LUnLAInGUPqzJu0a0b7w"
-      },
-      "artists": [
-        {
-          "name": "The K's",
-          "url": "https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH"
-        }
-      ],
-      "duration_ms": 283593,
-      "name": "Landmines",
-      "url": "https://open.spotify.com/track/2bA5I2vNPWWRx2nyi3DBMI"
-    },
-    {
-      "added_at": "2023-06-13 08:58:04",
-      "album": {
         "name": "Waste",
         "url": "https://open.spotify.com/album/01sJMqpfqlYFMvVF1H0FBj"
       },
@@ -631,6 +599,38 @@
       "duration_ms": 186996,
       "name": "Waste",
       "url": "https://open.spotify.com/track/1jDVf3LzkHI2rz5BGveizV"
+    },
+    {
+      "added_at": "2023-06-13 08:58:04",
+      "album": {
+        "name": "Hometown",
+        "url": "https://open.spotify.com/album/0aMx31rpahrCtfQbOf2AiP"
+      },
+      "artists": [
+        {
+          "name": "The K's",
+          "url": "https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH"
+        }
+      ],
+      "duration_ms": 292435,
+      "name": "Hometown",
+      "url": "https://open.spotify.com/track/7jY9kYe3KKy6abWf08x18M"
+    },
+    {
+      "added_at": "2023-06-13 08:58:04",
+      "album": {
+        "name": "3AM",
+        "url": "https://open.spotify.com/album/1Cmfz56eoj4qs3ZMvfvCUx"
+      },
+      "artists": [
+        {
+          "name": "overpass",
+          "url": "https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8"
+        }
+      ],
+      "duration_ms": 211119,
+      "name": "3AM",
+      "url": "https://open.spotify.com/track/7q6sN7NKKowCDvPHS0SaCi"
     },
     {
       "added_at": "2023-06-13 08:58:04",
@@ -681,10 +681,10 @@
       "url": "https://open.spotify.com/track/3CTZvBM4GoGazlOfR2aopV"
     },
     {
-      "added_at": "2023-06-13 08:58:04",
+      "added_at": "2023-07-11 12:37:14",
       "album": {
-        "name": "Hometown",
-        "url": "https://open.spotify.com/album/0aMx31rpahrCtfQbOf2AiP"
+        "name": "Landmines",
+        "url": "https://open.spotify.com/album/04LUnLAInGUPqzJu0a0b7w"
       },
       "artists": [
         {
@@ -692,25 +692,25 @@
           "url": "https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH"
         }
       ],
-      "duration_ms": 292435,
-      "name": "Hometown",
-      "url": "https://open.spotify.com/track/7jY9kYe3KKy6abWf08x18M"
+      "duration_ms": 283593,
+      "name": "Landmines",
+      "url": "https://open.spotify.com/track/2bA5I2vNPWWRx2nyi3DBMI"
     },
     {
       "added_at": "2023-06-13 08:58:04",
       "album": {
-        "name": "I Let Go",
-        "url": "https://open.spotify.com/album/4Ms87tkNkj8S76XBmabn5N"
+        "name": "Right Time",
+        "url": "https://open.spotify.com/album/1VsVEFWRQdn1MtFcjrTUXW"
       },
       "artists": [
         {
-          "name": "STONE",
-          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
+          "name": "overpass",
+          "url": "https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8"
         }
       ],
-      "duration_ms": 141265,
-      "name": "I Let Go",
-      "url": "https://open.spotify.com/track/6gJkGHGvqikDZbsQXUo2Id"
+      "duration_ms": 240214,
+      "name": "Right Time",
+      "url": "https://open.spotify.com/track/6ShMhtk1om88amkkiUrpS9"
     },
     {
       "added_at": "2023-06-13 08:58:04",
@@ -731,18 +731,18 @@
     {
       "added_at": "2023-06-13 08:58:04",
       "album": {
-        "name": "Right Time",
-        "url": "https://open.spotify.com/album/1VsVEFWRQdn1MtFcjrTUXW"
+        "name": "I Let Go",
+        "url": "https://open.spotify.com/album/4Ms87tkNkj8S76XBmabn5N"
       },
       "artists": [
         {
-          "name": "overpass",
-          "url": "https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8"
+          "name": "STONE",
+          "url": "https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H"
         }
       ],
-      "duration_ms": 240214,
-      "name": "Right Time",
-      "url": "https://open.spotify.com/track/6ShMhtk1om88amkkiUrpS9"
+      "duration_ms": 141265,
+      "name": "I Let Go",
+      "url": "https://open.spotify.com/track/6gJkGHGvqikDZbsQXUo2Id"
     },
     {
       "added_at": "2023-06-13 08:58:04",

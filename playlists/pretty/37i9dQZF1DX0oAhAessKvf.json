@@ -1,12 +1,12 @@
 {
   "description": "La calle temblaba con los primeros pasos del reggaet\u00f3n. Foto: El General",
-  "num_followers": 102987,
+  "num_followers": 103033,
   "original_name": "Reggaeton: El Inicio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGU3MjdkN2FlNGI3OTBmYTQ2M2IxOGVlMTFjNTllM2NmMjdkN2Q1",
+  "snapshot_id": "MCxiMmNjZWYwNTFhZDNmNDc4NGIwYmYwN2Q3ZjI1NGQ2NDlkZTRiNzg0",
   "tracks": [
     {
       "added_at": "2021-12-20 17:02:25",
@@ -375,22 +375,6 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "El Mundo De Plan B",
-        "url": "https://open.spotify.com/album/7N120TiGhRlzC5WI9YSueT"
-      },
-      "artists": [
-        {
-          "name": "Plan B",
-          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
-        }
-      ],
-      "duration_ms": 199640,
-      "name": "La Danza Bella",
-      "url": "https://open.spotify.com/track/68WGyc8Am3SpUOo9dMjRAY"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
         "name": "Mi Trayectoria",
         "url": "https://open.spotify.com/album/05SjZ7u69wnd12tDLo7x2v"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 182125,
       "name": "Guayando",
       "url": "https://open.spotify.com/track/5KfTXVRme8sMRFOqHUlWYo"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
+        "name": "El Mundo De Plan B",
+        "url": "https://open.spotify.com/album/7N120TiGhRlzC5WI9YSueT"
+      },
+      "artists": [
+        {
+          "name": "Plan B",
+          "url": "https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP"
+        }
+      ],
+      "duration_ms": 199640,
+      "name": "La Danza Bella",
+      "url": "https://open.spotify.com/track/68WGyc8Am3SpUOo9dMjRAY"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -895,22 +895,6 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Fuera de lo Comun",
-        "url": "https://open.spotify.com/album/6bikXQQ5LBHm7qeFk5sTQk"
-      },
-      "artists": [
-        {
-          "name": "Ledesma",
-          "url": "https://open.spotify.com/artist/6xlXWDWOnEBcK2u8urv69Z"
-        }
-      ],
-      "duration_ms": 235826,
-      "name": "Ansias",
-      "url": "https://open.spotify.com/track/4trY8SoftYUaIjJgS0qvXJ"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/1llS73lFiGdCx72C9xOCfQ"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 133766,
       "name": "Reggae Respect - Live",
       "url": "https://open.spotify.com/track/6RyawEEdxTWMFtwRBpfFV3"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
+        "name": "Fuera de lo Comun",
+        "url": "https://open.spotify.com/album/6bikXQQ5LBHm7qeFk5sTQk"
+      },
+      "artists": [
+        {
+          "name": "Ledesma",
+          "url": "https://open.spotify.com/artist/6xlXWDWOnEBcK2u8urv69Z"
+        }
+      ],
+      "duration_ms": 235826,
+      "name": "Ansias",
+      "url": "https://open.spotify.com/track/4trY8SoftYUaIjJgS0qvXJ"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Fuera de lo Comun",
-        "url": "https://open.spotify.com/album/6bikXQQ5LBHm7qeFk5sTQk"
-      },
-      "artists": [
-        {
-          "name": "Ledesma",
-          "url": "https://open.spotify.com/artist/6xlXWDWOnEBcK2u8urv69Z"
-        }
-      ],
-      "duration_ms": 229160,
-      "name": "Chin A Chin",
-      "url": "https://open.spotify.com/track/6HCqz9dMD3WWBArOSnyiDK"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/1llS73lFiGdCx72C9xOCfQ"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 156389,
       "name": "Muchos Quieren Tumbarnos - Live",
       "url": "https://open.spotify.com/track/6W7kLstGdPKlAYp84HmMNk"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
+        "name": "Fuera de lo Comun",
+        "url": "https://open.spotify.com/album/6bikXQQ5LBHm7qeFk5sTQk"
+      },
+      "artists": [
+        {
+          "name": "Ledesma",
+          "url": "https://open.spotify.com/artist/6xlXWDWOnEBcK2u8urv69Z"
+        }
+      ],
+      "duration_ms": 229160,
+      "name": "Chin A Chin",
+      "url": "https://open.spotify.com/track/6HCqz9dMD3WWBArOSnyiDK"
     },
     {
       "added_at": "2021-12-20 17:02:25",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2021-12-20 17:02:25",
       "album": {
-        "name": "Flashback",
-        "url": "https://open.spotify.com/album/02yQT1coQ6ohLWBOPh8F7D"
-      },
-      "artists": [
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        }
-      ],
-      "duration_ms": 123723,
-      "name": "Muchos Quieren Tumbarme",
-      "url": "https://open.spotify.com/track/74bOsHdd28eUPW2SQBG7z8"
-    },
-    {
-      "added_at": "2021-12-20 17:02:25",
-      "album": {
         "name": "Sandunguero",
         "url": "https://open.spotify.com/album/1pfyZxMl8mNIxvJoz1E6sV"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 216053,
       "name": "Por Mi Reggae Muero",
       "url": "https://open.spotify.com/track/4FoEobQ4dNAMzDcIGkdEHF"
+    },
+    {
+      "added_at": "2021-12-20 17:02:25",
+      "album": {
+        "name": "Flashback",
+        "url": "https://open.spotify.com/album/02yQT1coQ6ohLWBOPh8F7D"
+      },
+      "artists": [
+        {
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
+        }
+      ],
+      "duration_ms": 123723,
+      "name": "Muchos Quieren Tumbarme",
+      "url": "https://open.spotify.com/track/74bOsHdd28eUPW2SQBG7z8"
     },
     {
       "added_at": "2021-12-20 17:02:25",

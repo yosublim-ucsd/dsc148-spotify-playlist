@@ -1,12 +1,12 @@
 {
   "description": "The best new songs of the week! Cover: NewJeans",
-  "num_followers": 362816,
+  "num_followers": 362823,
   "original_name": "New Music Friday AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMjQxNzkyZWM3NTNhMmIyMDM5MTNkNjRkNjA1ZDVmZDEzN2UxNTAx",
+  "snapshot_id": "MCw5YmViOWRjNGY5NGJiMzQ0ZTA5YmY0MTNlZWJlYzI1NTk4MGIyNzM2",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -590,6 +590,10 @@
         {
           "name": "Chase Woods",
           "url": "https://open.spotify.com/artist/3U2CCYy6gtdm2Ni9GjgX5V"
+        },
+        {
+          "name": "Shush",
+          "url": "https://open.spotify.com/artist/6ENz2sCA2z0BlNfSxWaAVN"
         }
       ],
       "duration_ms": 207157,

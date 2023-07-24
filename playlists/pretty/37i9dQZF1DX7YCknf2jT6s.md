@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Cautious Clay
 
-[Spotify](https://open.spotify.com/user/spotify) - 891,075 likes - 100 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 891,186 likes - 100 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 99 | [Lights Away from Home](https://open.spotify.com/track/1MddW2SVQk0AklDHArtN3v) | [ARTEMIS](https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W) | [Lights Away from Home](https://open.spotify.com/album/3kGTTuz6VveX3AibqUxsHJ) | 4:51 |
 | 100 | [Foreword](https://open.spotify.com/track/2n0GcL4eZ110vdaU16OBdJ) | [Alfa Mist](https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI) | [Variables](https://open.spotify.com/album/0sW6bNCjzPlrJM100nIST6) | 6:43 |
 
-Snapshot ID: `MCwzNTYxYmU2YjUxY2Y2YTAxMmFiNGY2YmFkMWE1ZDhiMWZiYmQ3Y2Rh`
+Snapshot ID: `MCxkYTk3ODcyNWYxMmYzNTdlMTRkZjhlNGJjMDA3NzllOGVjZDU4ODFl`

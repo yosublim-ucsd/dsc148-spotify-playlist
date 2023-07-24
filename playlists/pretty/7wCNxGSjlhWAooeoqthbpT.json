@@ -6,8 +6,148 @@
     "name": "Epic Records",
     "url": "https://open.spotify.com/user/epicrecords"
   },
-  "snapshot_id": "MjE4OSwwODdhNGQxOTFiMGJkMWQ2NzAzOTU0MDRlZDJmODA4MzgyYTA1NGM2",
+  "snapshot_id": "MjIyMCw4MzQ2ZjhiMDhlODQ4MDcxNTI3MDA1ZjgwMmIwZWZiNjg5OTM2NGIz",
   "tracks": [
+    {
+      "added_at": "2023-07-21 15:48:04",
+      "album": {
+        "name": "K-POP",
+        "url": "https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 185220,
+      "name": "K-POP",
+      "url": "https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C"
+    },
+    {
+      "added_at": "2023-07-21 15:50:18",
+      "album": {
+        "name": "MIND YOUR BUSINESS",
+        "url": "https://open.spotify.com/album/3ecBg8wGhu2TrZxFmEFA7h"
+      },
+      "artists": [
+        {
+          "name": "will.i.am",
+          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
+        },
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "MIND YOUR BUSINESS",
+      "url": "https://open.spotify.com/track/6SihMpwoVMy75GwvBXFxJ4"
+    },
+    {
+      "added_at": "2023-07-21 15:48:28",
+      "album": {
+        "name": "BRING IT ON",
+        "url": "https://open.spotify.com/album/5ijUADIrfpFo27bLLMoR46"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        },
+        {
+          "name": "BIA",
+          "url": "https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER"
+        },
+        {
+          "name": "Diarra Sylla",
+          "url": "https://open.spotify.com/artist/2EYuvkN3J1DP2LxiMOKrYS"
+        }
+      ],
+      "duration_ms": 214838,
+      "name": "BRING IT ON",
+      "url": "https://open.spotify.com/track/2p2o0ffbSvj91SHt1aFfIa"
+    },
+    {
+      "added_at": "2023-07-21 15:48:14",
+      "album": {
+        "name": "Send a Blitz",
+        "url": "https://open.spotify.com/album/5B8cRQj7W21bAg4cBJiljs"
+      },
+      "artists": [
+        {
+          "name": "Real Boston Richey",
+          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
+        }
+      ],
+      "duration_ms": 147239,
+      "name": "Send a Blitz",
+      "url": "https://open.spotify.com/track/5g9fY0Y3u6fz1gXkzh8MEm"
+    },
+    {
+      "added_at": "2023-07-21 15:48:46",
+      "album": {
+        "name": "talk 2 em",
+        "url": "https://open.spotify.com/album/2Kwe1GT8kYZmOh6hmJhGyX"
+      },
+      "artists": [
+        {
+          "name": "AG Club",
+          "url": "https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c"
+        }
+      ],
+      "duration_ms": 144200,
+      "name": "talk 2 em",
+      "url": "https://open.spotify.com/track/7L4gDJcbomtunXe5zEgYGZ"
+    },
+    {
+      "added_at": "2023-07-21 15:48:20",
+      "album": {
+        "name": "Main One (feat. Tyga)",
+        "url": "https://open.spotify.com/album/3poW1IiF8t9MNcrk2CgJWF"
+      },
+      "artists": [
+        {
+          "name": "Mario",
+          "url": "https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 199440,
+      "name": "Main One (feat. Tyga)",
+      "url": "https://open.spotify.com/track/2nB44lzuvxp40hNMkT6BZj"
+    },
+    {
+      "added_at": "2023-07-21 15:49:04",
+      "album": {
+        "name": "HOW I FEEL",
+        "url": "https://open.spotify.com/album/2m1LhVzh4JgdcSRAHfV40p"
+      },
+      "artists": [
+        {
+          "name": "Kid Culture",
+          "url": "https://open.spotify.com/artist/2BaeUcNB0I5fVO5W1UskiU"
+        }
+      ],
+      "duration_ms": 67500,
+      "name": "HOW I FEEL",
+      "url": "https://open.spotify.com/track/2STycksffJuqHGlJkoGbWl"
+    },
     {
       "added_at": "2023-07-14 13:11:28",
       "album": {
@@ -177,26 +317,6 @@
       "url": "https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62"
     },
     {
-      "added_at": "2023-05-05 15:17:11",
-      "album": {
-        "name": "THE FORMULA",
-        "url": "https://open.spotify.com/album/24pHyKS76eb4SCY16nKQ9k"
-      },
-      "artists": [
-        {
-          "name": "will.i.am",
-          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 227633,
-      "name": "THE FORMULA",
-      "url": "https://open.spotify.com/track/4Y4Mwx5w7huiZhpgcaZ5wT"
-    },
-    {
       "added_at": "2023-07-07 14:44:54",
       "album": {
         "name": "GD Woman",
@@ -245,6 +365,22 @@
       "url": "https://open.spotify.com/track/4hO2oP5JnkSHHBdLEPRWcV"
     },
     {
+      "added_at": "2023-07-21 15:50:03",
+      "album": {
+        "name": "Alpha Wolf",
+        "url": "https://open.spotify.com/album/02ehniiotaZRN8WiM69LwP"
+      },
+      "artists": [
+        {
+          "name": "YoDogg",
+          "url": "https://open.spotify.com/artist/6uWApIkHAMSpgBmDmrvQnF"
+        }
+      ],
+      "duration_ms": 100240,
+      "name": "Vegetarian",
+      "url": "https://open.spotify.com/track/41RKlnFgfpJ5DHnxjJ4oBj"
+    },
+    {
       "added_at": "2023-03-17 15:40:24",
       "album": {
         "name": "missin u",
@@ -259,22 +395,6 @@
       "duration_ms": 177524,
       "name": "missin u",
       "url": "https://open.spotify.com/track/4TQCxVR2rmR3ozusDumesX"
-    },
-    {
-      "added_at": "2023-04-28 04:30:27",
-      "album": {
-        "name": "GOODSEX",
-        "url": "https://open.spotify.com/album/7vy0aVfHqIRjtbTwk93z7d"
-      },
-      "artists": [
-        {
-          "name": "Kid Culture",
-          "url": "https://open.spotify.com/artist/2BaeUcNB0I5fVO5W1UskiU"
-        }
-      ],
-      "duration_ms": 164956,
-      "name": "GOODSEX",
-      "url": "https://open.spotify.com/track/6zRlpxpNBRIqqDb6HqRbhS"
     },
     {
       "added_at": "2023-01-27 16:30:38",
@@ -307,22 +427,6 @@
       "duration_ms": 232606,
       "name": "Last Train To London (I Won't Look Back)",
       "url": "https://open.spotify.com/track/3KRKN196F3i6G1HnIqd2e5"
-    },
-    {
-      "added_at": "2023-04-14 14:51:34",
-      "album": {
-        "name": "2MORE",
-        "url": "https://open.spotify.com/album/78gh9A7ti6abCaTZiHK0rV"
-      },
-      "artists": [
-        {
-          "name": "AG Club",
-          "url": "https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c"
-        }
-      ],
-      "duration_ms": 131913,
-      "name": "aorta",
-      "url": "https://open.spotify.com/track/7IBxi4jju9JTSE3s41904R"
     },
     {
       "added_at": "2023-03-24 15:00:29",
@@ -397,22 +501,6 @@
       "url": "https://open.spotify.com/track/2IZZrIXBfMqWtbhNZUfLrz"
     },
     {
-      "added_at": "2023-04-07 15:00:56",
-      "album": {
-        "name": "PERSISTENCE OF MEMORY",
-        "url": "https://open.spotify.com/album/0TgF49Q3rtApL5JWEIjkId"
-      },
-      "artists": [
-        {
-          "name": "Kid Culture",
-          "url": "https://open.spotify.com/artist/2BaeUcNB0I5fVO5W1UskiU"
-        }
-      ],
-      "duration_ms": 132990,
-      "name": "PERSISTENCE OF MEMORY",
-      "url": "https://open.spotify.com/track/5uvSgKHzCOQr9RubvbRI76"
-    },
-    {
       "added_at": "2023-03-17 15:40:16",
       "album": {
         "name": "Good News",
@@ -427,26 +515,6 @@
       "duration_ms": 242000,
       "name": "Pit stop",
       "url": "https://open.spotify.com/track/7xRzl8bqp2M7W9niFua0h3"
-    },
-    {
-      "added_at": "2023-07-07 14:45:12",
-      "album": {
-        "name": "Beam Me Up (feat. Tony Shhnow)",
-        "url": "https://open.spotify.com/album/6KhF9p6MssFEzeoKdsBCYU"
-      },
-      "artists": [
-        {
-          "name": "YoDogg",
-          "url": "https://open.spotify.com/artist/6uWApIkHAMSpgBmDmrvQnF"
-        },
-        {
-          "name": "Tony Shhnow",
-          "url": "https://open.spotify.com/artist/6w1PsA3Lux2vlfaymj66w8"
-        }
-      ],
-      "duration_ms": 163932,
-      "name": "Beam Me Up (feat. Tony Shhnow)",
-      "url": "https://open.spotify.com/track/6mKNr0BZvcVTyHgs1qNKa6"
     },
     {
       "added_at": "2023-01-27 16:30:19",
@@ -467,30 +535,6 @@
       "duration_ms": 147497,
       "name": "Made You Look (feat. Kim Petras)",
       "url": "https://open.spotify.com/track/3EdDaqA9IkOwD8rcRyK60b"
-    },
-    {
-      "added_at": "2022-10-28 14:48:36",
-      "album": {
-        "name": "SIMPLY THE BEST",
-        "url": "https://open.spotify.com/album/2vqMDVpyKpisE4PiSmg7TJ"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 236190,
-      "name": "SIMPLY THE BEST",
-      "url": "https://open.spotify.com/track/3LBBSmoGHWC91u754Tp21C"
     },
     {
       "added_at": "2022-11-11 14:35:10",
@@ -591,26 +635,6 @@
       "duration_ms": 180953,
       "name": "Lost Me",
       "url": "https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim"
-    },
-    {
-      "added_at": "2022-11-11 14:35:31",
-      "album": {
-        "name": "ELEVATION",
-        "url": "https://open.spotify.com/album/1mXYeysTByG8rC6YCFNwpn"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        },
-        {
-          "name": "J. Rey Soul",
-          "url": "https://open.spotify.com/artist/1OB278sOZVSFx5vXqYha83"
-        }
-      ],
-      "duration_ms": 200191,
-      "name": "DOUBLE D'Z",
-      "url": "https://open.spotify.com/track/4u6G3AHLpiNZdpijHa07SV"
     },
     {
       "added_at": "2023-06-02 15:58:30",
@@ -925,22 +949,6 @@
       "url": "https://open.spotify.com/track/0f8Pt4d2M5MVdrg5PWRAQW"
     },
     {
-      "added_at": "2021-11-05 14:17:36",
-      "album": {
-        "name": "ESCAPE PLAN / MAFIA",
-        "url": "https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 149610,
-      "name": "ESCAPE PLAN",
-      "url": "https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez"
-    },
-    {
       "added_at": "2022-10-07 14:20:19",
       "album": {
         "name": "FLA Boy",
@@ -1049,22 +1057,6 @@
       "url": "https://open.spotify.com/track/2BQSzyr5tnLcnyQrK3Io7a"
     },
     {
-      "added_at": "2023-06-02 15:27:21",
-      "album": {
-        "name": "Neck of the Woods",
-        "url": "https://open.spotify.com/album/3VioKoXwbiYOICFLrGitKI"
-      },
-      "artists": [
-        {
-          "name": "Real Boston Richey",
-          "url": "https://open.spotify.com/artist/1iwUuIOKYjV7SKIg27v4zi"
-        }
-      ],
-      "duration_ms": 129570,
-      "name": "Neck of the Woods",
-      "url": "https://open.spotify.com/track/7u1H2ggH2Q6VvFn1KBS6L2"
-    },
-    {
       "added_at": "2023-06-09 15:19:48",
       "album": {
         "name": "Going Places",
@@ -1095,6 +1087,26 @@
       "duration_ms": 180877,
       "name": "Let's Go MIA",
       "url": "https://open.spotify.com/track/5QSoe7DgjaIjDH8ov6B43V"
+    },
+    {
+      "added_at": "2023-07-21 15:50:49",
+      "album": {
+        "name": "ALTOID COWBOY",
+        "url": "https://open.spotify.com/album/343vSuShIqEKKXrdQ1LKV3"
+      },
+      "artists": [
+        {
+          "name": "Jamie Ray",
+          "url": "https://open.spotify.com/artist/08sIoHx2vZUsqaWtoVHHo2"
+        },
+        {
+          "name": "Tay Money",
+          "url": "https://open.spotify.com/artist/6R6EfP43F8ZuMcilsE4zs7"
+        }
+      ],
+      "duration_ms": 156902,
+      "name": "UH HUH (feat. Tay Money)",
+      "url": "https://open.spotify.com/track/7uoFImyxzGwMH1aSkYQrGU"
     }
   ],
   "unique_name": "EPIC VIBES",

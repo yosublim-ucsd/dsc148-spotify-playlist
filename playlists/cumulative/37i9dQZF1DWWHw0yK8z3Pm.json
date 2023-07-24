@@ -2498,7 +2498,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-24",
       "duration_ms": 177668,
       "name": "Hey Who's Counting?",
       "url": "https://open.spotify.com/track/2EddSxlJ381PsiQkEmZNeL"
@@ -6228,6 +6228,24 @@
       "duration_ms": 309746,
       "name": "You're Not Alone [Feat. Brandi Carlile]",
       "url": "https://open.spotify.com/track/4ltCYG04Xhzv5cViM6mp16"
+    },
+    {
+      "album": {
+        "name": "Young at Heart",
+        "url": "https://open.spotify.com/album/2owx5fxhJfK0ObNtz6sCpa"
+      },
+      "artists": [
+        {
+          "name": "Good Lovelies",
+          "url": "https://open.spotify.com/artist/3hh35eWuRs5ZqIUIKyne5S"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226159,
+      "name": "Young at Heart",
+      "url": "https://open.spotify.com/track/2SL5zG9aPwXVLN97YQl3pH"
     },
     {
       "album": {

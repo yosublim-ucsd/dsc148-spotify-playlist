@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Peso Pluma en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 596,420 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,178 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 49 | [Tu Verano <3](https://open.spotify.com/track/60FS4EkXM2t7odFb69Jfyv) | [Proximo Nivel](https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94) | [Tu Verano <3](https://open.spotify.com/album/0WctAvNJcLBLdQccvPrD1h) | 2:43 |
 | 50 | [TRAICIONADO](https://open.spotify.com/track/4rTd6t7bTU3UvdLdw9XIyy) | [juanitoo2x](https://open.spotify.com/artist/73URHaZxYQMyyiVqxKfBDf) | [TRAICIONADO](https://open.spotify.com/album/1lgzeshYy11QmjANXcU94N) | 2:11 |
 
-Snapshot ID: `MCwyZWM0Zjc2YTEyYzA5YjFlMWFhMjVhZGFhM2E0NTM1MDMxYjgwYTIx`
+Snapshot ID: `MCxjYzE5N2E2ZGMxMGQ5YzY4OThhZGYzOGUzZjVhN2VmOTRlMjc3MWIx`

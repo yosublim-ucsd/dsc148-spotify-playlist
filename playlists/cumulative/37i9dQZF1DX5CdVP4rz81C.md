@@ -2,9 +2,9 @@
 
 ### [Fresh & Chill](https://open.spotify.com/playlist/37i9dQZF1DX5CdVP4rz81C)
 
-> Discover your favorite new chill pop songs\. Cover: Alex Warren
+> Discover your favorite new chill pop songs\. Cover: Diplo, Jessie Murph, Polo G
 
-1,391 songs - 3 day 0 hr 54 min
+1,392 songs - 3 day 0 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -692,7 +692,7 @@
 | [johnny & june](https://open.spotify.com/track/5vPUJuGOxGReRc4eyR2xbZ) | [Zachary Knowles](https://open.spotify.com/artist/5BxcZnUcETSt90VlbsdugI) | [johnny & june](https://open.spotify.com/album/2Y3pvLv8mm11sTVSwxbwlS) | 2:44 | 2021-02-12 | 2021-05-29 |
 | [Juliene](https://open.spotify.com/track/7K3YUKGYPFeAb6TbDvHmM2) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Juliene](https://open.spotify.com/album/3QReCnRfEfYbqnmsdnFxeU) | 3:22 | 2023-07-02 | 2023-07-15 |
 | [Just Another Thing We Don't Talk About](https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Best Day of My Life](https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw) | 3:39 | 2022-10-28 | 2022-11-19 |
-| [Just Because](https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Just Because](https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT) | 2:12 | 2023-05-09 |  |
+| [Just Because](https://open.spotify.com/track/6sy0CvtlBXtXDd6yTW0koJ) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Just Because](https://open.spotify.com/album/73Kc0ifKlg9Pw6D8s850BT) | 2:12 | 2023-05-09 | 2023-07-24 |
 | [just for the night](https://open.spotify.com/track/2kZSry1RFeI8IzFk0RTr0y) | [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH), [Rnla](https://open.spotify.com/artist/5lKJ1MdVwexXUEEUFLI4l9) | [just for the night](https://open.spotify.com/album/1cbKJJrsN37uwfmFw4q9xI) | 2:15 | 2023-02-24 | 2023-05-20 |
 | [justified](https://open.spotify.com/track/6IW4TUC3zHW4tpikDg1w7Y) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [justified](https://open.spotify.com/album/4d4qaLHCcfXzMbGa33Kpqg) | 3:00 | 2021-08-28 | 2021-09-18 |
 | [Justify](https://open.spotify.com/track/3r9lmRwmoa5Pibf2iNzY3I) | [Rosie Darling](https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI) | [Justify](https://open.spotify.com/album/4rll2JS6G515VQjdLqAinJ) | 3:04 | 2023-06-09 |  |
@@ -1201,6 +1201,7 @@
 | [the author](https://open.spotify.com/track/0uqFo6F9DppKZtwm3zhG3s) | [Luz](https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c) | [the author](https://open.spotify.com/album/0Uee3lkF3m9B8KIVFr4y9p) | 3:37 | 2020-10-13\* | 2020-11-05 |
 | [the banker](https://open.spotify.com/track/6o8srCcQqB2adJ1SclNc3W) | [Daniel Leggs](https://open.spotify.com/artist/39csiig8WOh2SMguk2nuL5) | [the banker](https://open.spotify.com/album/3RnNk54aKPMD07IzS36vKc) | 2:28 | 2023-06-23 |  |
 | [The Breaks](https://open.spotify.com/track/0gueawLShEbZoAfMaADOkP) | [Sarah Proctor](https://open.spotify.com/artist/7uz8DZsGBlVbCVpACJGfNl) | [The Breaks](https://open.spotify.com/album/0VU1pdKj120ZSfxMppb238) | 3:20 | 2021-02-19 | 2021-03-26 |
+| [The Bug Collector](https://open.spotify.com/track/5nVE45ithgyVocZp5XLAk6) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 3:48 | 2023-07-23 |  |
 | [The Cut](https://open.spotify.com/track/6AO3YHxtUwTjoKfhZYtvLT) | [Grace Enger](https://open.spotify.com/artist/49EzPBcvDdWe93QJcA7UPf) | [The Cut](https://open.spotify.com/album/7oC1Kz7WWSj8I8Mkjzwukt) | 3:19 | 2023-03-31 | 2023-04-22 |
 | [The Dark](https://open.spotify.com/track/4zfdaZxEFXgZDrGP8UWq10) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [The Dark](https://open.spotify.com/album/0eAHJ8R9M3X1GYeBotCPVV) | 4:58 | 2020-10-13\* | 2020-12-10 |
 | [The Girl In The Mirror](https://open.spotify.com/track/4fqh151dNBN7UmLaeFKEON) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [The Girl In The Mirror](https://open.spotify.com/album/7CYLJ7N2pnF7DK4sbpFAsm) | 3:45 | 2023-04-28 | 2023-05-20 |

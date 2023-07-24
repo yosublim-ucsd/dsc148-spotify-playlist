@@ -641,24 +641,6 @@
     },
     {
       "album": {
-        "name": "Akher Esdar",
-        "url": "https://open.spotify.com/album/23L8LytnejUzj4JUQWKxR5"
-      },
-      "artists": [
-        {
-          "name": "Nancy Ajram",
-          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
-        }
-      ],
-      "date_added": "2023-05-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 254617,
-      "name": "Akher Esdar",
-      "url": "https://open.spotify.com/track/1IxYVfYIWehtSsTZW4PwrD"
-    },
-    {
-      "album": {
         "name": "Al Forga",
         "url": "https://open.spotify.com/album/5ydSYLaBAPJIV2bn2HmkSs"
       },
@@ -3887,6 +3869,24 @@
     },
     {
       "album": {
+        "name": "Kathaab",
+        "url": "https://open.spotify.com/album/0fh4OLIjGRYcSwWCCVtj9o"
+      },
+      "artists": [
+        {
+          "name": "Waed",
+          "url": "https://open.spotify.com/artist/2lJxCVBy3A4nHP3kh1lkDg"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290315,
+      "name": "Kathaab",
+      "url": "https://open.spotify.com/track/0owHcMZfxaX79H6hIKwso5"
+    },
+    {
+      "album": {
         "name": "Keda Wala Keda",
         "url": "https://open.spotify.com/album/3tr3MAqqpmGfYA69xfVIRb"
       },
@@ -4392,7 +4392,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-24",
       "duration_ms": 233035,
       "name": "Li Ma Byehsob Ma Byeslam",
       "url": "https://open.spotify.com/track/4OvtRUrYCk65k6a8x6Fq6u"
@@ -7450,6 +7450,24 @@
       "duration_ms": 189126,
       "name": "Zuruni",
       "url": "https://open.spotify.com/track/1n1Qfej8CS4L0xX5niQpxU"
+    },
+    {
+      "album": {
+        "name": "\u0622\u062e\u0631 \u0625\u0635\u062f\u0627\u0631",
+        "url": "https://open.spotify.com/album/23L8LytnejUzj4JUQWKxR5"
+      },
+      "artists": [
+        {
+          "name": "Nancy Ajram",
+          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
+        }
+      ],
+      "date_added": "2023-05-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254617,
+      "name": "\u0622\u062e\u0631 \u0625\u0635\u062f\u0627\u0631",
+      "url": "https://open.spotify.com/track/1IxYVfYIWehtSsTZW4PwrD"
     },
     {
       "album": {

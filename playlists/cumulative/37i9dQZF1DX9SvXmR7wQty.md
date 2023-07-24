@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Ronisia
 
-1,958 songs - 4 day 8 hr 36 min
+1,959 songs - 4 day 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -891,7 +891,7 @@
 | [L'amour](https://open.spotify.com/track/67iIpALe9LicIOwMmhlraA) | [Christophe Maé](https://open.spotify.com/artist/7jgnJBnpZTiGnCF2Wvka2Z), [Amadou & Mariam](https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6) | [C'est drôle la vie](https://open.spotify.com/album/2MT10PyQwdm84H37J2nyrD) | 2:47 | 2023-03-17 | 2023-04-15 |
 | [L'Amour](https://open.spotify.com/track/7Hh67FpP9rDPk93a27CVd1) | [Kayos KF](https://open.spotify.com/artist/6sAVp1U2N61SR2o6BtAwMC) | [L'Amour](https://open.spotify.com/album/0tNnoimq7aNxyC1FoA3X1F) | 2:55 | 2022-04-08 | 2022-04-23 |
 | [L'amour](https://open.spotify.com/track/4dvrujB0S62Bin2CGthC36) | [Sophie Pelletier](https://open.spotify.com/artist/5uXoTuYyWyAPGj93tZzZH8) | [en transit](https://open.spotify.com/album/2kTZE5CoVv3m3Yie5Qw1tH) | 2:41 | 2022-09-23 | 2022-10-01 |
-| [L'amour \- Spotify Singles](https://open.spotify.com/track/4nL8XR8Q353qWRfa23Aqqw) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [Spotify Singles](https://open.spotify.com/album/4dmxL8WtniD8zHWqp4GabV) | 2:19 | 2023-06-16 |  |
+| [L'amour \- Spotify Singles](https://open.spotify.com/track/4nL8XR8Q353qWRfa23Aqqw) | [Jay Scøtt](https://open.spotify.com/artist/3G9XTWY09egHqHlbRcP5cx) | [Spotify Singles](https://open.spotify.com/album/4dmxL8WtniD8zHWqp4GabV) | 2:19 | 2023-06-16 | 2023-07-24 |
 | [L'amour au temps de la fin des temps](https://open.spotify.com/track/6jMxxm7PXllHakD5C7XVjb) | [Émile Bilodeau](https://open.spotify.com/artist/0q9gV5iFHokttrI4WBuRQu) | [L'amour au temps de la fin des temps](https://open.spotify.com/album/5mv0ow0St9W11qd7hxFx2V) | 2:46 | 2023-03-24 | 2023-04-22 |
 | [L'amour me va](https://open.spotify.com/track/53nUVs4zeLYPmvsmZz5lRR) | [Laura Gagné](https://open.spotify.com/artist/34UjqWd6fDAaLYo7CWVwSA) | [L'amour me va](https://open.spotify.com/album/0MnYbaPVh1KhioCB8ClPUr) | 2:52 | 2022-03-11 | 2022-03-18 |
 | [L'angle mort](https://open.spotify.com/track/6iI71ISS7X0T5nHHRYyjG9) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [L'angle mort](https://open.spotify.com/album/4CK0HSqv3dn1WfO0owPk28) | 2:22 | 2023-02-24 | 2023-03-11 |
@@ -1440,6 +1440,7 @@
 | [Pour l'amour qu'il nous reste \(Radio Edit\)](https://open.spotify.com/track/7qQq6F5BUSp921Fv1ysTQj) | [Dave Harmo](https://open.spotify.com/artist/7xY1y1babnSBXJxQF64q14) | [Pour l'amour qu'il nous reste \(Radio Edit\)](https://open.spotify.com/album/5QW7RYJFdCxB1fzRKe67p9) | 3:33 | 2022-02-25 | 2022-03-05 |
 | [Pour la vie entière](https://open.spotify.com/track/2vMq9s42ULbH9v3CdNABI3) | [blond](https://open.spotify.com/artist/6bAfbEF8yCMBTtXEBFLh2x) | [Pour la vie entière](https://open.spotify.com/album/1zB0u5tMdZF5RkAXZvr6yb) | 3:02 | 2022-09-23 | 2022-10-01 |
 | [Pour le pire \- Radio edit](https://open.spotify.com/track/1Wi1mITr79mUl0NuxSh3vU) | [Joémi](https://open.spotify.com/artist/25cKcxFoxsh54c8T8aaAMJ) | [Pour le pire \(Radio edit\)](https://open.spotify.com/album/5mILhJQJRVtutv80K36I31) | 2:26 | 2023-03-03 | 2023-03-18 |
+| [Pour nous](https://open.spotify.com/track/406vkcaidoH3fKPfdytL6Y) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Pour nous](https://open.spotify.com/album/51rumLSZOQswEty93fSey3) | 2:47 | 2023-07-21 |  |
 | [Pour toi](https://open.spotify.com/track/4OOCL2Sfbm6VVy8KrcuTjO) | [Marie\-Mai](https://open.spotify.com/artist/1BmW7gk5sNUff7U3JEWqxa) | [Pour toi](https://open.spotify.com/album/6lIdkfl8jfTmc4xMaG6JwG) | 3:11 | 2023-02-17 | 2023-03-04 |
 | [POUR UNE NUIT](https://open.spotify.com/track/7tCLG0VK1S0aVk75Icn2OY) | [GreenWoodz](https://open.spotify.com/artist/4unjY2cWa4org4JmrS0GES) | [POUR UNE NUIT](https://open.spotify.com/album/03QxUveh9wb8UzrIIqGSYi) | 3:07 | 2022-09-09 | 2022-09-24 |
 | [Pour une ride](https://open.spotify.com/track/5bYIXjObyvAT6BASDkszny) | [Joanna](https://open.spotify.com/artist/5k7czLtvpvADY4FkRnTS4p) | [Sérotonine](https://open.spotify.com/album/64VaRxG95D8liyQJTAZr3x) | 3:04 | 2022-01-21 | 2022-02-05 |

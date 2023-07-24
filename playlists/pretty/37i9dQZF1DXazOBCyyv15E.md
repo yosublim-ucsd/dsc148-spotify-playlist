@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 
 > The home of the best new alternative music\. Cover: Lauren Auder
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,842 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,915 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazOBCyyv15E.md) - [plain]
 | 99 | [Who Is Afraid Of Blue](https://open.spotify.com/track/6XMPzkE6lxZm9ZyejFbbgC) | [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Who Is Afraid Of Blue?](https://open.spotify.com/album/6ToJr94k8ZAtm4cJwOrzBX) | 4:35 |
 | 100 | [Revolve Around You](https://open.spotify.com/track/49t1fiNQJvSfeMLOJosjvm) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Revolve Around You](https://open.spotify.com/album/1qqRC1EH1jPDPuSogMQT61) | 3:12 |
 
-Snapshot ID: `MCxkYjA1NmM5ZGMxMDRjYzE4YzRhOTllMDQ5MjAyNTMyMzNmMzE2MTcy`
+Snapshot ID: `MCw4Yjg4NjExZGUyZmVkYjdmNTk3OTk5MzE0ZjFkNWU2NDRjMTU5ZGY0`

@@ -4,7 +4,7 @@
 
 > Descubre lo más nuevo del movimiento\. Cover: Young Miko
 
-677 songs - 1 day 12 hr 27 min
+678 songs - 1 day 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -422,7 +422,8 @@
 | [No Pinto Pajaritos](https://open.spotify.com/track/3uvgwwqNvWHc7S32PvPD7r) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [No Pinto Pajaritos](https://open.spotify.com/album/65w3z9tO7ZFDYP8QH9tsPh) | 2:25 | 2023-01-20 | 2023-03-11 |
 | [NO SE OLVIDA](https://open.spotify.com/track/49qCDjCcu8OvKlSDBYDzHv) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [NO SE OLVIDA](https://open.spotify.com/album/0HVoLSZFWBp9F5JbiWrJqA) | 4:10 | 2022-03-21 | 2022-06-04 |
 | [No Te Deseo el Mal](https://open.spotify.com/track/3HQxzXOb4p9pfpD5gP38D5) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:52 | 2022-03-21 | 2022-04-02 |
-| [No Traje Naki](https://open.spotify.com/track/6wZVFscvWZbJaTl4Ju5MOF) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [OG CITY](https://open.spotify.com/album/2tio4413w3hOjYmb6MlDVz) | 4:01 | 2023-04-21 |  |
+| [No Te Quiero Mas](https://open.spotify.com/track/1IuvysUsgClVYvyElLroY9) | [Catalyna](https://open.spotify.com/artist/7bwjYGg7DOoLpV3AFK2Jmz) | [No Te Quiero Mas](https://open.spotify.com/album/7vDW5sUQ0faPEpmm1Ix6VJ) | 3:16 | 2023-07-21 |  |
+| [No Traje Naki](https://open.spotify.com/track/6wZVFscvWZbJaTl4Ju5MOF) | [Miky Woodz](https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [OG CITY](https://open.spotify.com/album/2tio4413w3hOjYmb6MlDVz) | 4:01 | 2023-04-21 | 2023-07-24 |
 | [NOCHE DE CRIMEN](https://open.spotify.com/track/5elEvXPHWnxlxEpxJkG1an) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [NOCHE DE CRIMEN](https://open.spotify.com/album/3YGFouN7jKcib5DSHWGIrm) | 2:23 | 2023-06-16 | 2023-06-24 |
 | [NOPALATELE](https://open.spotify.com/track/0gytcfGU4mtSfckMajYQS9) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Nopalatele](https://open.spotify.com/album/1snuYixt90LiQwCVQtUwOC) | 4:17 | 2023-01-20 | 2023-03-18 |
 | [Nos Comemos \(feat\. Ozuna\)](https://open.spotify.com/track/6ojZtz3sZr6ynvejLOqgCj) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Nos Comemos \(feat\. Ozuna\)](https://open.spotify.com/album/1iBXwOCBoWC1LdSxdD0ZlC) | 3:11 | 2022-06-03 | 2022-08-12 |

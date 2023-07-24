@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4A3rC4WqAr1Mk5TI21QGkm.md) - [plain]
 
 > 
 
-[Kerembulutt](https://open.spotify.com/user/argonit670) - 3 likes - 187 songs - 10 hr 37 min
+[Kerembulutt](https://open.spotify.com/user/argonit670) - 2 likes - 187 songs - 10 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

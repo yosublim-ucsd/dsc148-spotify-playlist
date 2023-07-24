@@ -1,12 +1,12 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 281360,
+  "num_followers": 281526,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZGQ1YzQ3NmY2MjRiYjU0OGRkNmEzZGJkNzE4ZTM5YmU3MGQ5ZTQw",
+  "snapshot_id": "MCxjZDBmY2NmYzNhMmI0NzM1OGY1OWRmZjlmZGJjMGM2YWQxODgzYTRh",
   "tracks": [
     {
       "added_at": "2023-05-05 03:01:00",
@@ -987,18 +987,22 @@
     {
       "added_at": "2023-05-05 03:01:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1zNkENtarEag1002VNNhT7"
+        "name": "Moska Apresenta Zoombido: Dado Villa-Lobos",
+        "url": "https://open.spotify.com/album/3zLzFVZjxn13eycidc60xp"
       },
       "artists": [
         {
-          "name": "Noel Gallagher's High Flying Birds",
-          "url": "https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L"
+          "name": "Dado Villa-Lobos",
+          "url": "https://open.spotify.com/artist/5hmsETFK65bzCg0ORAboDr"
+        },
+        {
+          "name": "Paulinho Moska",
+          "url": "https://open.spotify.com/artist/50sWvKw2zsmX9lmcPWmJaT"
         }
       ],
-      "duration_ms": 303081,
-      "name": "Go Let It Out - Recorded At Abbey Road Studios, London",
-      "url": "https://open.spotify.com/track/1sbfciYGPMMqR5dwfT54KQ"
+      "duration_ms": 227541,
+      "name": "O Teatro dos Vampiros",
+      "url": "https://open.spotify.com/track/7kQejoMuF2whRQPOIwqWfU"
     },
     {
       "added_at": "2023-05-05 03:01:00",
@@ -1019,22 +1023,18 @@
     {
       "added_at": "2023-05-05 03:01:00",
       "album": {
-        "name": "Moska Apresenta Zoombido: Dado Villa-Lobos",
-        "url": "https://open.spotify.com/album/3zLzFVZjxn13eycidc60xp"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1zNkENtarEag1002VNNhT7"
       },
       "artists": [
         {
-          "name": "Dado Villa-Lobos",
-          "url": "https://open.spotify.com/artist/5hmsETFK65bzCg0ORAboDr"
-        },
-        {
-          "name": "Paulinho Moska",
-          "url": "https://open.spotify.com/artist/50sWvKw2zsmX9lmcPWmJaT"
+          "name": "Noel Gallagher's High Flying Birds",
+          "url": "https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L"
         }
       ],
-      "duration_ms": 227541,
-      "name": "O Teatro dos Vampiros",
-      "url": "https://open.spotify.com/track/7kQejoMuF2whRQPOIwqWfU"
+      "duration_ms": 303081,
+      "name": "Go Let It Out - Recorded At Abbey Road Studios, London",
+      "url": "https://open.spotify.com/track/1sbfciYGPMMqR5dwfT54KQ"
     },
     {
       "added_at": "2023-05-05 03:01:00",

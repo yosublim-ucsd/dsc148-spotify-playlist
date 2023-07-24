@@ -1,12 +1,12 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: TOBi",
-  "num_followers": 6177,
+  "num_followers": 6203,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGEwYWYwZjI0MDk5YjUyZDA2YzljODUxYWYwNmU3YjBhNjI4MDE2",
+  "snapshot_id": "MCw3MThmNjQ1MWE4MzI3YTI1YjYzOTg0MzkyMTdkOWFhYTdhZTU2ZDRm",
   "tracks": [
     {
       "added_at": "2023-07-20 20:22:20",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-07-20 20:22:20",
       "album": {
+        "name": "100 Rounds",
+        "url": "https://open.spotify.com/album/405f18dnyh3ElPJj1tkshp"
+      },
+      "artists": [
+        {
+          "name": "FRVRFRIDAY",
+          "url": "https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW"
+        }
+      ],
+      "duration_ms": 132739,
+      "name": "100 Rounds",
+      "url": "https://open.spotify.com/track/5sJwRlYM8Wg9vGrfe0FNTO"
+    },
+    {
+      "added_at": "2023-07-20 20:22:20",
+      "album": {
         "name": "The Jungle",
         "url": "https://open.spotify.com/album/2Ao1lDSZ1N9JmkTaR9PuQF"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 167026,
       "name": "The Jungle",
       "url": "https://open.spotify.com/track/6bpsyayAnCZoPTjGt9Ifhw"
-    },
-    {
-      "added_at": "2023-07-20 20:22:20",
-      "album": {
-        "name": "100 Rounds",
-        "url": "https://open.spotify.com/album/405f18dnyh3ElPJj1tkshp"
-      },
-      "artists": [
-        {
-          "name": "FRVRFRIDAY",
-          "url": "https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW"
-        }
-      ],
-      "duration_ms": 132739,
-      "name": "100 Rounds",
-      "url": "https://open.spotify.com/track/5sJwRlYM8Wg9vGrfe0FNTO"
     },
     {
       "added_at": "2023-07-20 20:22:20",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-07-20 20:22:20",
       "album": {
+        "name": "Come Outside",
+        "url": "https://open.spotify.com/album/2rjsJgXKKQRrLOrgmHHIby"
+      },
+      "artists": [
+        {
+          "name": "K Money",
+          "url": "https://open.spotify.com/artist/3WC4zw6QqkpKgs9rqk6ot6"
+        }
+      ],
+      "duration_ms": 198321,
+      "name": "Come Outside",
+      "url": "https://open.spotify.com/track/6N078G7btmtHvTLPPLL1wf"
+    },
+    {
+      "added_at": "2023-07-20 20:22:20",
+      "album": {
         "name": "Bionic Man",
         "url": "https://open.spotify.com/album/4Wm4hGN6m5ZaaFm1LyTtkd"
       },
@@ -775,18 +791,22 @@
     {
       "added_at": "2023-07-20 20:22:20",
       "album": {
-        "name": "Come Outside",
-        "url": "https://open.spotify.com/album/2rjsJgXKKQRrLOrgmHHIby"
+        "name": "DUSK to DAWN",
+        "url": "https://open.spotify.com/album/79YZv5y3Heiw4QZ6i77FTE"
       },
       "artists": [
         {
-          "name": "K Money",
-          "url": "https://open.spotify.com/artist/3WC4zw6QqkpKgs9rqk6ot6"
+          "name": "Boslen",
+          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
+        },
+        {
+          "name": "Dro Kenji",
+          "url": "https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R"
         }
       ],
-      "duration_ms": 198321,
-      "name": "Come Outside",
-      "url": "https://open.spotify.com/track/6N078G7btmtHvTLPPLL1wf"
+      "duration_ms": 149042,
+      "name": "NIGHTFALL (feat. Dro Kenji)",
+      "url": "https://open.spotify.com/track/04EvAhYmelTjLIxWzK7JLm"
     },
     {
       "added_at": "2023-07-20 20:22:20",
@@ -807,26 +827,6 @@
       "duration_ms": 156000,
       "name": "Examples",
       "url": "https://open.spotify.com/track/44p4I5E6fECcUdbX53K8Ze"
-    },
-    {
-      "added_at": "2023-07-20 20:22:20",
-      "album": {
-        "name": "DUSK to DAWN",
-        "url": "https://open.spotify.com/album/79YZv5y3Heiw4QZ6i77FTE"
-      },
-      "artists": [
-        {
-          "name": "Boslen",
-          "url": "https://open.spotify.com/artist/7mX72Bq2iXNr8fZdu23fQL"
-        },
-        {
-          "name": "Dro Kenji",
-          "url": "https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R"
-        }
-      ],
-      "duration_ms": 149042,
-      "name": "NIGHTFALL (feat. Dro Kenji)",
-      "url": "https://open.spotify.com/track/04EvAhYmelTjLIxWzK7JLm"
     },
     {
       "added_at": "2023-07-20 20:22:20",

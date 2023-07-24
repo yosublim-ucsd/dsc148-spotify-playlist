@@ -6000,7 +6000,7 @@
       ],
       "date_added": "2023-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-23",
+      "date_removed": null,
       "duration_ms": 170435,
       "name": "Business (feat. Naza)",
       "url": "https://open.spotify.com/track/2Qzt61URbXBb9N2MSVDoDv"
@@ -6244,7 +6244,7 @@
       ],
       "date_added": "2022-11-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-23",
+      "date_removed": null,
       "duration_ms": 154560,
       "name": "Call It Love",
       "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
@@ -6324,7 +6324,7 @@
       ],
       "date_added": "2022-06-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-16",
+      "date_removed": null,
       "duration_ms": 219668,
       "name": "Calm Down",
       "url": "https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo"
@@ -7552,7 +7552,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-23",
+      "date_removed": null,
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39"
@@ -8412,7 +8412,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 198773,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
@@ -22376,7 +22376,7 @@
       ],
       "date_added": "2023-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-24",
       "duration_ms": 142999,
       "name": "Mh Mh",
       "url": "https://open.spotify.com/track/7nftwanrXNZxK2l1W6tmHl"
@@ -22518,7 +22518,7 @@
       ],
       "date_added": "2023-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-24",
       "duration_ms": 141026,
       "name": "mietfrei",
       "url": "https://open.spotify.com/track/1CknK1sYAhoYxZEs5OfqEq"
@@ -26198,7 +26198,7 @@
       ],
       "date_added": "2023-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-24",
       "duration_ms": 183964,
       "name": "PA MU",
       "url": "https://open.spotify.com/track/23qetAF34qHyq0w2qgCPHR"
@@ -31420,7 +31420,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-24",
       "duration_ms": 157912,
       "name": "So\ud83e\udd1e",
       "url": "https://open.spotify.com/track/5EqZIbLptCkJARJXOdseF9"
@@ -33552,7 +33552,7 @@
       ],
       "date_added": "2023-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-24",
       "duration_ms": 228844,
       "name": "TIKI TAKA",
       "url": "https://open.spotify.com/track/2RMALBOw1E6ZDJJEPGrKif"
@@ -34066,7 +34066,7 @@
       ],
       "date_added": "2023-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-24",
       "duration_ms": 90447,
       "name": "Traum_V2",
       "url": "https://open.spotify.com/track/714u8kwDsxE4Jdv5QVmMkt"
@@ -35398,6 +35398,32 @@
       "duration_ms": 215506,
       "name": "Visiting Hours",
       "url": "https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA"
+    },
+    {
+      "album": {
+        "name": "Vitamin D",
+        "url": "https://open.spotify.com/album/0PajQXgZaI2iMjYXXFVyBi"
+      },
+      "artists": [
+        {
+          "name": "Don Ismo",
+          "url": "https://open.spotify.com/artist/69K2jyKOwsNYVvz8NnT2IC"
+        },
+        {
+          "name": "Saint Purp",
+          "url": "https://open.spotify.com/artist/0cM0t9aMmYDkASV69O8Bsm"
+        },
+        {
+          "name": "DaVinci The Kid",
+          "url": "https://open.spotify.com/artist/7Kuh2BTp7rZpkctAQ4yoNG"
+        }
+      ],
+      "date_added": "2023-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160158,
+      "name": "Vitamin D",
+      "url": "https://open.spotify.com/track/1u3QCmjPXhSeykgQfZ3fxJ"
     },
     {
       "album": {

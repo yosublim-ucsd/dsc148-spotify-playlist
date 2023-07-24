@@ -4,7 +4,7 @@
 
 > Carnival Sounds getting you ready for Toronto Caribbean Carnival 2023 curated by D' Bandit
 
-343 songs - 18 hr 43 min
+344 songs - 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,8 @@
 | [Down Dey](https://open.spotify.com/track/7AGm3aWTaC7LRni0xcrhMw) | [Gbmnutron](https://open.spotify.com/artist/4EfvuRX05W5WiDkij0nTbq), [DJ Spider](https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq) | [Down Dey](https://open.spotify.com/album/246WFT6xDiyEoqaAy7YH8F) | 2:13 | 2021-08-26 | 2022-02-25 |
 | [Down Dey \- Refix](https://open.spotify.com/track/6ergIagYJbc09n51JHK3y1) | [Gbmnutron](https://open.spotify.com/artist/4EfvuRX05W5WiDkij0nTbq), [DJ Spider](https://open.spotify.com/artist/4IIKLm6H0rXxvn6DWNhWcq), [Parry Jack](https://open.spotify.com/artist/3bD41MPiBepcsiRyqlc9DA), [All Star Brass](https://open.spotify.com/artist/5gMdbj51leNGDWTs35qsTa) | [Down Dey \(Refix\)](https://open.spotify.com/album/3KlpWoAIm83G0QQFZsubCY) | 2:53 | 2023-07-10 |  |
 | [Dr Cassandra](https://open.spotify.com/track/1Z26eeelZV7txnP7GVSksr) | [Gabby](https://open.spotify.com/artist/4WSVq8tRn39MS2agWMJKHq) | [Til Now](https://open.spotify.com/album/4ESffqtJAuhY2eeQ72QkES) | 4:15 | 2022-08-18 | 2023-02-22 |
-| [Drift](https://open.spotify.com/track/2dSxEBLtCSDuA83zaypLaB) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc) | [Drift](https://open.spotify.com/album/1Ogea1poX1WNZnbnfRF7CG) | 2:43 | 2023-07-10 |  |
+| [Drift](https://open.spotify.com/track/0ydoqpTVhaDzjDg7WVcg4m) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc) | [Drift](https://open.spotify.com/album/3MZbcKtTrzsjh0iNOEgHcP) | 2:43 | 2023-07-10 |  |
+| [Drift](https://open.spotify.com/track/2dSxEBLtCSDuA83zaypLaB) | [Teejay](https://open.spotify.com/artist/30hElzuHCZ1qzCl364SHma), [DJ MAC](https://open.spotify.com/artist/3EC3CDEkhHY70vYFBVasZc) | [Drift](https://open.spotify.com/album/1Ogea1poX1WNZnbnfRF7CG) | 2:43 | 2023-07-10 | 2023-07-24 |
 | [Dubai](https://open.spotify.com/track/78c4QeY29z947xqT4Gvnyg) | [DJ Private Ryan](https://open.spotify.com/artist/1ODw2LIpFN4MPGnah95PBp), [Sekon Sta](https://open.spotify.com/artist/6Jkbr7HmDNtlnBjWL3BdNk) | [Sweet Tooth Symphony](https://open.spotify.com/album/2SBW3eXaWG6hWlvtjRgKra) | 3:14 | 2021-08-26 | 2022-02-25 |
 | [Ducking](https://open.spotify.com/track/1ec8eWlZSWg4djoQaMrI1u) | [Fadda Fox](https://open.spotify.com/artist/52wGOFV1AYyda1VRjsb5wK) | [Studio B Presents Crop Over Hits 2014 \- EP](https://open.spotify.com/album/4mukCjOR9dpnHqhLTwDequ) | 3:53 | 2022-02-24 | 2022-08-19 |
 | [Dushi \(Juicy\)](https://open.spotify.com/track/3wRwxgYqoiWWAIZXILA0u7) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Project 2020 Riddim](https://open.spotify.com/album/5HWlancr8FD18sbtDX8mtg) | 3:15 | 2022-02-24 | 2022-07-31 |

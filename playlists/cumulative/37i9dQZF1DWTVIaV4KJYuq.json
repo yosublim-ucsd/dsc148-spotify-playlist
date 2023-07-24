@@ -554,7 +554,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-24",
       "duration_ms": 264362,
       "name": "Didn't Want to Have to Do It",
       "url": "https://open.spotify.com/track/6UdTSQDnAFyvnxMRXBFzlN"
@@ -2490,6 +2490,28 @@
       "duration_ms": 288618,
       "name": "Stranger In A Strange Land",
       "url": "https://open.spotify.com/track/6yGXIjPdJXL0Sj9ZKC1aNN"
+    },
+    {
+      "album": {
+        "name": "Strangers (From \"Life In A Day\")",
+        "url": "https://open.spotify.com/album/2R1whJdo3obmdC009WcaYC"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        },
+        {
+          "name": "Lucius",
+          "url": "https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192963,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/4rhqHKUFyeXBfdGUcbYVCQ"
     },
     {
       "album": {

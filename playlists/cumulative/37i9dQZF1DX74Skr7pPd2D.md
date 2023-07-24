@@ -4,7 +4,7 @@
 
 > Releases from the legendary label.
 
-124 songs - 9 hr 58 min
+125 songs - 10 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,8 +57,9 @@
 | [I Got It Bad And That Ain't Good](https://open.spotify.com/track/0oHGZrx8ZfxfU2QEOPqNig) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Calm Jazz](https://open.spotify.com/album/37mbpCd2VMUeD7xMtU5T6u) | 5:06 | 2019-10-02 | 2022-11-13 |
 | [I Got It Bad And That Ain't Good](https://open.spotify.com/track/4ol2UyMTiklHVujAWg02nE) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 5:06 | 2019-10-02 |  |
 | [I Put A Spell On You](https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:35 | 2019-10-04 |  |
+| [I Still Love Him So](https://open.spotify.com/track/1mpmReowWLJGf3BTRKfyJv) | [Roy Eldridge](https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [The Urbane Jazz Of Roy Eldridge And Benny Carter](https://open.spotify.com/album/0pvE5UDLRUUUm05zmxzTXF) | 5:43 | 2019-10-02 |  |
 | [I Still Love Him So](https://open.spotify.com/track/5EJTEZfm0Zj8bOK4uxQVFJ) | [Roy Eldridge](https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [New Jazz Sounds: The Benny Carter Verve Story](https://open.spotify.com/album/4oXHYdguAaz3AIeFKnEUTF) | 5:43 | 2019-10-02 | 2022-11-13 |
-| [I Still Love Him So](https://open.spotify.com/track/7eqSzIGV9rWdheW84WUuiy) | [Roy Eldridge](https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [The Complete Verve Studio Sessions](https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2) | 5:46 | 2019-10-02 |  |
+| [I Still Love Him So](https://open.spotify.com/track/7eqSzIGV9rWdheW84WUuiy) | [Roy Eldridge](https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [The Complete Verve Studio Sessions](https://open.spotify.com/album/7MtvcTxFnvzzhkmRsPiHA2) | 5:46 | 2019-10-02 | 2023-07-24 |
 | [I Still Love Him So](https://open.spotify.com/track/5GXB4PGdmjlz6ckQmY8eDc) | [Roy Eldridge](https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc), [Benny Carter](https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32) | [A Night Out With Verve](https://open.spotify.com/album/3r4lO5qBgyr5zCokAyDAq0) | 5:47 | 2019-10-02 | 2022-07-29 |
 | [I Wished On The Moon \- Stereo Version](https://open.spotify.com/track/2dcLrmsyULzRcPH0IHRwVh) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [The Genius Of Coleman Hawkins \(Expanded Edition\)](https://open.spotify.com/album/0Z2OKl1GiVUStRfHyqMZzz) | 3:37 | 2019-10-02 |  |
 | [I Wished On The Moon \- Stereo Version](https://open.spotify.com/track/48wey0ZaWxQao8e605Aqe5) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [A Night Out With Verve](https://open.spotify.com/album/3r4lO5qBgyr5zCokAyDAq0) | 3:40 | 2019-10-02 | 2022-07-29 |

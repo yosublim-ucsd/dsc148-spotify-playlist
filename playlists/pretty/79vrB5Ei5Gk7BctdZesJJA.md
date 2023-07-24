@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79vrB5Ei5Gk7BctdZesJJA.md) - [plain]
 
 > Official Roadrunner Records Playlist \- Guest curator: Simon Neil and Mike Vennart from Empire State Bastard! \(New guest curator every 2 weeks\)
 
-[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,513 likes - 27 songs - 2 hr 21 min
+[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,514 likes - 27 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

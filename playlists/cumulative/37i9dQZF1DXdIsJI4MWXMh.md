@@ -4,7 +4,7 @@
 
 > ¡A gastar la suela con lo mejor de la ranchera chilena!
 
-104 songs - 7 hr 5 min
+105 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,11 +70,12 @@
 | [Me Voy a Lanzar](https://open.spotify.com/track/6AS0noGYYnY35moMZw1SdH) | [RIVALES DE CHILE](https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g) | [Me Voy a Lanzar](https://open.spotify.com/album/6C290sB6hyH66rNUqu70jt) | 2:57 | 2023-03-03 |  |
 | [Mentirosa](https://open.spotify.com/track/4fLSNdj45MMwAynymYuWJz) | [Los Potros Del Sur](https://open.spotify.com/artist/6zWLSfAWJ35c78VgLRs7EY) | [En 3d y a Todo Color](https://open.spotify.com/album/4izoOBAYsECpgty3zi9w80) | 3:43 | 2023-03-03 |  |
 | [Mi Complice](https://open.spotify.com/track/2ZpdaHko5m2cehTqfLFMIs) | [Lupita Aguilar](https://open.spotify.com/artist/3Hn4kMDi1EFK7690fnMMyb) | [Entre el Amor y el Odio](https://open.spotify.com/album/5gjgNFQSFUxRa0Bi5DuKCo) | 3:08 | 2023-03-03 |  |
+| [Mi Decisión](https://open.spotify.com/track/67k7yjg8G46fmLQj19YXc8) | [Los Chacales del Maule](https://open.spotify.com/artist/3JwCj883t6VDr4EXsn0UYN) | [Mi Decisión](https://open.spotify.com/album/6zfpEB0wUGsmsMgsxcPyyd) | 4:14 | 2023-05-29 |  |
 | [Michelada](https://open.spotify.com/track/6wXMK7J7eNmwxOoIBexT7B) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR), [Los Kuatreros Del Sur](https://open.spotify.com/artist/1uf5mwjVjGlTj38TRAB4k8) | [Michelada](https://open.spotify.com/album/5ROfzY597Mylv1i5xJUPzQ) | 2:42 | 2023-03-03 |  |
 | [Mil Cantinas](https://open.spotify.com/track/4RqPXmm4yUUgDxSIbu4nOf) | [Los Pincheira del Sur](https://open.spotify.com/artist/1BnQrx8p0bHBpidjIGq26z) | [Puro Sur Puro Chile](https://open.spotify.com/album/5YWjUPIjgoWkKHKgdHBNIG) | 3:30 | 2023-03-03 |  |
 | [Mis Ojos Estuvieron Llorando](https://open.spotify.com/track/0T9VAznUOBpYvyFsn6Lz3U) | [Los Peñis del sur](https://open.spotify.com/artist/2DNYcW0pAlFg6vKAKaDMdO) | [Y Su Newen Ranchero](https://open.spotify.com/album/6dcawJThQiTLWdHKeUFyjA) | 3:08 | 2023-03-03 |  |
 | [Mujer Traicionera](https://open.spotify.com/track/470NyufWXbCRyJTh35n4Go) | [Los Rancheros De Rio Maule](https://open.spotify.com/artist/6r90tCIVqGvSHLouiTUhQW) | [18 Exitos](https://open.spotify.com/album/0wYu6VATuQ9vuMvrZzXf2c) | 4:13 | 2023-03-03 |  |
-| [Mátame a Besos](https://open.spotify.com/track/3ONpHZJC9UxDsWhjx04yVV) | [Los Halcones Negros](https://open.spotify.com/artist/3gKLNRsPFUsiUA1gk9tXyS) | [Alma Enamorada](https://open.spotify.com/album/2BoTjs0a7IgcKXQNQqJgdg) | 3:02 | 2023-03-03 |  |
+| [Mátame a Besos](https://open.spotify.com/track/3ONpHZJC9UxDsWhjx04yVV) | [Los Halcones Negros](https://open.spotify.com/artist/3gKLNRsPFUsiUA1gk9tXyS) | [Alma Enamorada](https://open.spotify.com/album/2BoTjs0a7IgcKXQNQqJgdg) | 3:02 | 2023-03-03 | 2023-07-24 |
 | [Ni Por Mil Puñados de Oro / Dos Monedas / De Padre Desconocido \(Éxitos Festivos 2021\- 2022\)](https://open.spotify.com/track/74ge2rdkufNd7a6F6Tnle0) | [Los Llaneros De La Frontera](https://open.spotify.com/artist/0lU35vHpvzadavslHv2pVV) | [Ni Por Mil Puñados de Oro / Dos Monedas / De Padre Desconocido \(Éxitos Festivos 2021\- 2022\)](https://open.spotify.com/album/4PrQw2MbxeywRgy6zjZWdU) | 11:32 | 2023-03-03 |  |
 | [Ni Que Fueras la Mas Buena](https://open.spotify.com/track/69CiCaacgCf6S6GBMIgpm0) | [Grupo el duelo](https://open.spotify.com/artist/00q1iEmkH6dNeT4Os4mAOv), [RIVALES DE CHILE](https://open.spotify.com/artist/33AD9OZTMS2oNnsuDcVw9g) | [Por una Yegua No Se para la Trilla](https://open.spotify.com/album/1ImwrMRcka92sIKex1lbmm) | 3:06 | 2023-03-03 |  |
 | [No Te Creas Tan Importante](https://open.spotify.com/track/1xew4s5581HZOaES46OSTN) | [Los Villanos de Coltauco](https://open.spotify.com/artist/653hTCHsQjYo9jLOEGJenk) | [Siempre en Tu Corazón](https://open.spotify.com/album/59vA22sZsQ0exXTI07xc3R) | 5:11 | 2023-03-03 |  |
