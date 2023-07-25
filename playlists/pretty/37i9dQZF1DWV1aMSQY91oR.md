@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Ice Spice ...like?
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,611 likes - 49 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,645 likes - 49 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 36 | [Leverage](https://open.spotify.com/track/4K59InY9uTtcWRM42DjPBr) | [Mnnyyz](https://open.spotify.com/artist/4sTu12jqFnXvdGIdu9THCM) | [The Tape](https://open.spotify.com/album/0X8A4v8t3JtwMjKPRX0sFB) | 3:09 |
 | 37 | [STRETCH IT OUT](https://open.spotify.com/track/5kxdTks1eSUwR4mc7OXZ6H) | [Devontée](https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d) | [STRETCH IT OUT](https://open.spotify.com/album/0GSLEMM6DhPQudEhpabyEh) | 2:15 |
 | 38 | [MOB TIES](https://open.spotify.com/track/07AUrZJt218IV4ZJ6OHsFL) | [Un!dentified](https://open.spotify.com/artist/4vPqYPVLwUrooOL3Pylp8Q) | [MOB TIES](https://open.spotify.com/album/7j7jeFadvlXU1T8TGADrhp) | 2:39 |
-| 39 | [BAD DAY](https://open.spotify.com/track/2eCnsNsQxP4lCirC8Yaiux) | [Chaz French](https://open.spotify.com/artist/3BYzEWh3pY0DZpMN0hFufv) | [BAD DAY](https://open.spotify.com/album/1duFuqqdmRvtFHVjgT45qX) | 3:53 |
+| 39 | [BAD DAY](https://open.spotify.com/track/2eCnsNsQxP4lCirC8Yaiux) | [Chaz French](https://open.spotify.com/artist/3BYzEWh3pY0DZpMN0hFufv) | [BAD DAY](https://open.spotify.com/album/1duFuqqdmRvtFHVjgT45qX) | 3:39 |
 | 40 | [Walls Down](https://open.spotify.com/track/5uZ7tj1INvIEGpCRmzNK37) | [Dub J](https://open.spotify.com/artist/0bKlQYTyLjDzgm33F15jNE), [Young Stitch](https://open.spotify.com/artist/1DLisHEPEkaQl0hBvFQpiF), [Paris Richards](https://open.spotify.com/artist/2QKgfzDlgGJCv1hkfOovKH) | [Walls Down](https://open.spotify.com/album/20U5TysDKPLk2tx50xx9bI) | 3:18 |
 | 41 | [Posts](https://open.spotify.com/track/3j4p2KmpdzqrvcISyN8lJQ) | [100 OTD](https://open.spotify.com/artist/5VBRo4Do6f7TDyC3MNmOLC) | [Posts](https://open.spotify.com/album/5siEfiKTiUgxd4hpmAJcbM) | 2:11 |
 | 42 | [Money & Bodies](https://open.spotify.com/track/1vXHaIzWeYCRcrG1neqIba) | [Streameum](https://open.spotify.com/artist/1UznbdggJpgD7TdnaIq6Hh), [Why G](https://open.spotify.com/artist/3QoFljZxcB1DQuP3WmYVJB) | [Money & Bodies](https://open.spotify.com/album/4Q2bpS8YGciBfHSPClyCBW) | 1:30 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV1aMSQY91oR.md) - [plain]
 | 48 | [Wrong Time](https://open.spotify.com/track/2f2kSJWmm90VJjdjjeRhwM) | [Will Ryte](https://open.spotify.com/artist/5kyrkoHcYHl2Hf74KB4fVw) | [Wrong Time](https://open.spotify.com/album/2lAdM6wIy4HU1csoTZyLyH) | 2:00 |
 | 49 | [Ouroboros](https://open.spotify.com/track/4YU1SZ0QMIzdoKCPdjWEt7) | [Isaac Zale](https://open.spotify.com/artist/6RPLfI95V4juSTtpBumiWk) | [Ouroboros](https://open.spotify.com/album/5C5bkukBuGHZFAh2JYmXAy) | 2:36 |
 
-Snapshot ID: `MCwyMTNlYjBjNmYzY2M4NWExN2I5NTg2YWY5MWU4YTczMzFmZTQwODY0`
+Snapshot ID: `MCw3YmYyZGU5YTY1ZjMwNzFkNzZjODVjNDcwYTYwZmE3NzYyOWRjMmYw`

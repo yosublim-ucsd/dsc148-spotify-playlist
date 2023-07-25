@@ -4,7 +4,7 @@
 
 > Listen to the soundtracks of the drama Revenant\. \(드라마 악귀의 사운드 트랙들을 즐겨보세요!\) You can also listen to thriller music that makes you cool on a summer night\. \(여름밤을 시원하게 만드는 스릴러 음악도 즐겨보실 수 있습니다.\)
 
-19 songs - 1 hr 5 min
+20 songs - 1 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Nothing](https://open.spotify.com/track/2pyH87conA4SW4VmRhRUAy) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Secret Mother, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/15jrAAFaQff12nsNZN0kSH) | 4:24 | 2023-07-05 |  |
 | [Perfect Love](https://open.spotify.com/track/1op752KyLvopYxqcsCZtxs) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Secret Mother, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/5Gybhk6IErhOvhRHghcHsK) | 2:25 | 2023-07-05 |  |
 | [Prelude Of Counterattack](https://open.spotify.com/track/2XnfteCJlVDZqoTq9LpPaC) | [Jung Se Rin](https://open.spotify.com/artist/4nZVGTg50D9VAXllvDofSI) | [Penthouse 2&3 Score Album \(Original Television Soundtrack\)](https://open.spotify.com/album/7vBJOMapLNX9n1NTzifzf3) | 3:06 | 2023-07-05 |  |
+| [The door](https://open.spotify.com/track/3jOmQxYDgwhygI9QKXGqMO) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Revenant \(Original Soundtrack\) Pt.3](https://open.spotify.com/album/6zs7BgVQ1EuROfYDrAzWRl) | 3:04 | 2023-07-24 |  |
 | [The morass](https://open.spotify.com/track/0ufmJfKZnd8agzcIi0Wrs3) | [Lee Yejoon](https://open.spotify.com/artist/3GS6aA2KRewQL4VhUtIpet) | [Penthouse2 \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/1zWN2Vz1TcgEBRRJzZD5Uw) | 3:16 | 2023-07-05 |  |
 | [trolley](https://open.spotify.com/track/1Dg4uXR9ZzV0Z12kUFC13j) | [Jun Seok Kim](https://open.spotify.com/artist/3NNk3sbGKHqIhfs6Sm5dsB) | [Trolley \(Original Soundtrack\)](https://open.spotify.com/album/5dU891HMwAs9uYyqUlBn9W) | 3:09 | 2023-07-05 |  |
 | [Villain](https://open.spotify.com/track/188Fa4orcugsnlfeLUHRym) | [KLANG](https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF) | [Trolley \(Original Soundtrack Part.3\)](https://open.spotify.com/album/1YSAjSAvHuoTaXF11Esxnu) | 3:08 | 2023-07-05 |  |

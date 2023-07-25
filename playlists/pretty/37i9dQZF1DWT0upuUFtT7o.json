@@ -1,12 +1,12 @@
 {
   "description": "The best new indie tracks from independent artists & labels. Updates every Wednesday. Cover: Malcolm Todd",
-  "num_followers": 183215,
+  "num_followers": 183277,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGYwYzViOWNlZGY3ODY5Nzg4MTNhYTU4YWQxN2EzZDQxMmYyOWE3",
+  "snapshot_id": "MCwxOGVmNzdkYjMzNmJjZjZlZGUwYjAxMmZmOWUzNzMyZGNhY2RkMTcz",
   "tracks": [
     {
       "added_at": "2023-07-10 16:14:41",
@@ -61,6 +61,22 @@
       "url": "https://open.spotify.com/track/23jUolbn4TlFlnxV9CFAPO"
     },
     {
+      "added_at": "2023-07-24 17:53:30",
+      "album": {
+        "name": "Tore",
+        "url": "https://open.spotify.com/album/41ksxVl2MrrsUOFjPyjlGM"
+      },
+      "artists": [
+        {
+          "name": "Mali Velasquez",
+          "url": "https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP"
+        }
+      ],
+      "duration_ms": 206364,
+      "name": "Tore",
+      "url": "https://open.spotify.com/track/62IJLBwpm1ax73HidrU9pm"
+    },
+    {
       "added_at": "2023-07-19 05:00:22",
       "album": {
         "name": "Dirk Gently (Know Yourself)",
@@ -107,6 +123,22 @@
       "duration_ms": 145080,
       "name": "Good Things Take Time",
       "url": "https://open.spotify.com/track/1rMPAjBFGWHcaiZ6O6t0jW"
+    },
+    {
+      "added_at": "2023-07-24 23:54:06",
+      "album": {
+        "name": "Limerence",
+        "url": "https://open.spotify.com/album/7wPNxfaGRGhBGpdfQXAV10"
+      },
+      "artists": [
+        {
+          "name": "Ava Maybee",
+          "url": "https://open.spotify.com/artist/56XHwBrYEOBDDGKr7BLDv9"
+        }
+      ],
+      "duration_ms": 171026,
+      "name": "Limerence",
+      "url": "https://open.spotify.com/track/7ejzjqjzcJ7K2YRlcUd55w"
     },
     {
       "added_at": "2023-07-19 05:00:22",
@@ -1321,22 +1353,6 @@
       "url": "https://open.spotify.com/track/0qYNUduazu2fVQ78BiMkGp"
     },
     {
-      "added_at": "2023-06-21 18:02:34",
-      "album": {
-        "name": "I Don't Know If I Treated It Right",
-        "url": "https://open.spotify.com/album/1aZ96zuE5I2Oljnj53HmwP"
-      },
-      "artists": [
-        {
-          "name": "Solitude is Bliss",
-          "url": "https://open.spotify.com/artist/5BLLhENK8t8r0PP0klTBZx"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "I Don't Know If I Treated It Right",
-      "url": "https://open.spotify.com/track/6QzPWxqfDwvDdaOFG1nX7Y"
-    },
-    {
       "added_at": "2023-06-14 13:33:17",
       "album": {
         "name": "Grand Eug\u00e8ne",
@@ -1465,20 +1481,20 @@
       "url": "https://open.spotify.com/track/3GHRiiO4GxqQhjMGbHxI21"
     },
     {
-      "added_at": "2023-06-14 13:33:17",
+      "added_at": "2023-05-31 01:28:37",
       "album": {
-        "name": "Look the Other Way",
-        "url": "https://open.spotify.com/album/3g3OR1LmPmzp9ufa5cF3o5"
+        "name": "POOL",
+        "url": "https://open.spotify.com/album/6CzJdW38fi4F6ICPWygYN8"
       },
       "artists": [
         {
-          "name": "Nick Wagen",
-          "url": "https://open.spotify.com/artist/553dRRGA9Fvnu5OBmGpLBZ"
+          "name": "POLICE CAR COLLECTIVE",
+          "url": "https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2"
         }
       ],
-      "duration_ms": 153000,
-      "name": "Look the Other Way",
-      "url": "https://open.spotify.com/track/1ThdBhDTOyVxk2VcN8DaTI"
+      "duration_ms": 215712,
+      "name": "POOL",
+      "url": "https://open.spotify.com/track/1jyQFB8qPYz5LklSPP02sn"
     },
     {
       "added_at": "2023-06-14 13:33:17",
@@ -1575,22 +1591,6 @@
       "duration_ms": 161360,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/4Z1olDl8aym5xZYZAat672"
-    },
-    {
-      "added_at": "2023-05-31 01:28:37",
-      "album": {
-        "name": "POOL",
-        "url": "https://open.spotify.com/album/6CzJdW38fi4F6ICPWygYN8"
-      },
-      "artists": [
-        {
-          "name": "POLICE CAR COLLECTIVE",
-          "url": "https://open.spotify.com/artist/4FaTP0DGcGHdaTAcUIFTQ2"
-        }
-      ],
-      "duration_ms": 215712,
-      "name": "POOL",
-      "url": "https://open.spotify.com/track/1jyQFB8qPYz5LklSPP02sn"
     },
     {
       "added_at": "2023-05-17 01:05:32",

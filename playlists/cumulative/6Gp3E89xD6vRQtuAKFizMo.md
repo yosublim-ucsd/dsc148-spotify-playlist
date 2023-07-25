@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-190 songs - 9 hr 24 min
+192 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [GOIN' ROUND](https://open.spotify.com/track/7l0N0ZzO2TCcXn6fA29mAe) | [SMITHWORKS](https://open.spotify.com/artist/2xMjDjnnCw558pO4C96qnS) | [GOIN' ROUND](https://open.spotify.com/album/1qGRDjPagTLav0Cvy4kIto) | 2:25 | 2023-02-14 | 2023-04-01 |
 | [Guaracha En Reggaetonlandia](https://open.spotify.com/track/1LwzyjKxQiUwfBWpuwlapN) | [2DEEP](https://open.spotify.com/artist/1ky3PEixUHYvSHGeO8TSmb) | [Guaracha En Reggaetonlandia](https://open.spotify.com/album/2c1dWyAgvufd10liQGhbUf) | 2:26 | 2022-10-28 | 2023-04-15 |
 | [H8 December](https://open.spotify.com/track/2GmduVx3DDAyqMys6xgqem) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe), [Mackenzie Sol](https://open.spotify.com/artist/3E9DITocLFcvQi0v56uhYA) | [H8 December](https://open.spotify.com/album/7uyYsla4oPYWFRWwHYJ71S) | 2:20 | 2022-09-19 | 2023-04-09 |
+| [Hachiroku](https://open.spotify.com/track/1i4abDsWpBNJZ0FIwxcwZi) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [R7CKY](https://open.spotify.com/artist/7nwTgB0QOv2yGprKxofyT8) | [Mini Motors](https://open.spotify.com/album/1wZ4JnsQ0Lfert1OwBrc2H) | 2:53 | 2023-07-24 |  |
 | [heavy metals](https://open.spotify.com/track/4sI100hB4VQQqHQonPq9I2) | [plumpy](https://open.spotify.com/artist/50OV9n9Rnrf8BqUdzEVZMI), [daisy maize](https://open.spotify.com/artist/6SAsm9v5Z1fJpbrXGvuQu4) | [heavy metals](https://open.spotify.com/album/1l3e0TB5IdVOwFuOleUmjo) | 3:21 | 2022-05-10 | 2022-11-19 |
 | [Higher \(feat\. Eso.XO.Supreme\)](https://open.spotify.com/track/5SETcigvLiz4rQ3eUjR0k4) | [24hrs](https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J), [Eso.XO.Supreme](https://open.spotify.com/artist/12VfdgL4i9hoFoaIFdE7qV) | [Higher \(feat\. Eso.XO.Supreme\)](https://open.spotify.com/album/5sMgGok0VfV3zg5uhopzXj) | 3:25 | 2023-03-17 |  |
 | [Home 2 Me](https://open.spotify.com/track/34fH6Q1MOz5xT4PMItdvnV) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Home 2 Me](https://open.spotify.com/album/4W4GQvDqlb18eNR4tl87vE) | 2:38 | 2022-07-08 | 2022-10-12 |
@@ -152,6 +153,7 @@
 | [Scream It Out](https://open.spotify.com/track/5KDiYtQEf4jYPusjrH56nb) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy), [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [Scream It Out](https://open.spotify.com/album/7BgFGZkagV6LALhmdQQhMb) | 2:03 | 2022-05-06 | 2022-11-12 |
 | [Se Paga](https://open.spotify.com/track/6ytHXR6ioDphURLvGn7rTX) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego) | [No Es Igual](https://open.spotify.com/album/5po5aRjADzoXK1CkrifUIw) | 3:58 | 2023-05-30 |  |
 | [SHEEESH](https://open.spotify.com/track/2vCJT0We2y2065mfddct7b) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Bandlez](https://open.spotify.com/artist/7kIxfmjYGQui2LCqXGLfWA) | [SHEEESH EP](https://open.spotify.com/album/6vTMvT40qQINkChUjN3VWU) | 2:12 | 2023-05-05 |  |
+| [Smash!](https://open.spotify.com/track/26kyr3Yr7lXCUCOWhMZumY) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Fahjah](https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id) | [Mini Motors](https://open.spotify.com/album/1wZ4JnsQ0Lfert1OwBrc2H) | 2:26 | 2023-07-24 |  |
 | [Smoke](https://open.spotify.com/track/6ApteRcCdPgoSlE5jCYWxs) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Smoke](https://open.spotify.com/album/1yr7m2ScfY46QpjJacjdKG) | 2:58 | 2022-08-26 | 2023-04-09 |
 | [SOLO](https://open.spotify.com/track/51gPXzSUjtjlgOtGh7M0bd) | [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [SOLO](https://open.spotify.com/album/5v7v1enr2SRCVNyeGUCF4y) | 3:11 | 2022-06-24 | 2023-04-09 |
 | [Something To Luv For \(with Advokid\)](https://open.spotify.com/track/5iq4IyI8oj7gHiRGxo8qLO) | [Callie Reiff](https://open.spotify.com/artist/0XRFU9DhKXOo9vM4wKClyy), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb), [Advokid](https://open.spotify.com/artist/3aO9yUQwH6uBCtV9c5kflf) | [Something To Luv For \(with Advokid\)](https://open.spotify.com/album/1Lm5PKdzBTNBwR2WxPmJnP) | 2:33 | 2023-05-19 |  |

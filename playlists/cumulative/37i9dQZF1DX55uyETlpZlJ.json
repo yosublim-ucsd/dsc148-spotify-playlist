@@ -174,7 +174,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 182652,
       "name": "Anu Anuvaagi",
       "url": "https://open.spotify.com/track/4Bm3A0X9VHciIX1U1dCjqn"
@@ -1092,7 +1092,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 268798,
       "name": "Kanasella - Female Version",
       "url": "https://open.spotify.com/track/7kbJqyrHwdUCmQ3H7Fkgl5"
@@ -1271,6 +1271,28 @@
     },
     {
       "album": {
+        "name": "Lokada Kalaji (Rendition) [SKODA Deccan Beats]",
+        "url": "https://open.spotify.com/album/6pIZpEbcqhKgVJJXw5CTxd"
+      },
+      "artists": [
+        {
+          "name": "Raghu Dixit",
+          "url": "https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc"
+        },
+        {
+          "name": "Sunil Nakod",
+          "url": "https://open.spotify.com/artist/5b6rKTAj1FD4aaerrJ8nay"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105482,
+      "name": "Lokada Kalaji (Rendition) - SKODA Deccan Beats",
+      "url": "https://open.spotify.com/track/3CrD7UchbZpqrm3Q6rzFGp"
+    },
+    {
+      "album": {
         "name": "Madhya Raatri",
         "url": "https://open.spotify.com/album/5CsVCGI8MUuW7xSjG4rTDg"
       },
@@ -1440,6 +1462,28 @@
       "duration_ms": 47779,
       "name": "Melusire (Remix)",
       "url": "https://open.spotify.com/track/0BpOi8WfgJPoMroHN4eknX"
+    },
+    {
+      "album": {
+        "name": "Money In The World",
+        "url": "https://open.spotify.com/album/1cGiCtgfbtXuda2WIO41jj"
+      },
+      "artists": [
+        {
+          "name": "Paluz45",
+          "url": "https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04"
+        },
+        {
+          "name": "Manu Rao",
+          "url": "https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90918,
+      "name": "Money In The World",
+      "url": "https://open.spotify.com/track/3mb6cmdGfriBt5WHamvtdo"
     },
     {
       "album": {
@@ -2251,6 +2295,24 @@
     },
     {
       "album": {
+        "name": "Omme Nee Nanage",
+        "url": "https://open.spotify.com/album/5QnUKIJmZmwHT7gfqRIFSp"
+      },
+      "artists": [
+        {
+          "name": "Swaroop Ramesh",
+          "url": "https://open.spotify.com/artist/6d0aG9002M0Y7me7eBWL0y"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317449,
+      "name": "Omme Nee Nanage",
+      "url": "https://open.spotify.com/track/3E2XCnmVjZdpisYfHL1Ewf"
+    },
+    {
+      "album": {
         "name": "Pakshi",
         "url": "https://open.spotify.com/album/3zHwN65sNNAvlgZBPWzCyc"
       },
@@ -2926,7 +2988,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 216588,
       "name": "Yenaagide",
       "url": "https://open.spotify.com/track/2iO7QR9TKXGECiozwKR9yP"

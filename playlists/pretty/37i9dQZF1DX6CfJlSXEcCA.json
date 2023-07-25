@@ -1,12 +1,12 @@
 {
   "description": "Enjoy game soundtracks from Capcom! \u6700\u65b0\u4f5c\u304b\u3089\u904e\u53bb\u307e\u3067\u3001\u591a\u6570\u306e\u4eba\u6c17\u4f5c\u54c1\u3092\u751f\u307f\u51fa\u3057\u305f\u30ab\u30d7\u30b3\u30f3\u306e\u30b2\u30fc\u30e0\u30b5\u30f3\u30c8\u30e9\u3092\u304a\u5c4a\u3051\uff01\u00a9CAPCOM CO., LTD. ALL RIGHTS RESERVED.",
-  "num_followers": 26603,
+  "num_followers": 26674,
   "original_name": "This Is Capcom Sound Team",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NjRmNDgzMTM3ZTY0MDA3NjFmNGI3MTEyYmM5YzhmMmQyMzU4ZmM1",
+  "snapshot_id": "MCxjZTc1NzdkOGI4NGU2NzhhNGQzOWQ4ZmQxNTFmNmI5NTkyMzczYWQx",
   "tracks": [
     {
       "added_at": "2021-06-30 15:18:23",
@@ -243,6 +243,22 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
+        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
+        "url": "https://open.spotify.com/album/1MGsZkc3qudBr8rjhWu8k0"
+      },
+      "artists": [
+        {
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
+        }
+      ],
+      "duration_ms": 79173,
+      "name": "Save Theme",
+      "url": "https://open.spotify.com/track/77VG3p0Ua6MrnqeUE85ENb"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
         "name": "RESIDENT EVIL VILLAGE ORIGINAL SOUNDTRACK",
         "url": "https://open.spotify.com/album/0OmHth9izCltpC5ggqkLkA"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 163466,
       "name": "X vs ZERO",
       "url": "https://open.spotify.com/track/5DmiafSW6i4jp0sJ9z95qW"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
-        "name": "Super Street Fighter II Turbo Original Soundtrack",
-        "url": "https://open.spotify.com/album/3sinqjuzlAI7QWTyJxNut6"
-      },
-      "artists": [
-        {
-          "name": "Capcom Sound Team",
-          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
-        }
-      ],
-      "duration_ms": 223560,
-      "name": "Guile's Theme",
-      "url": "https://open.spotify.com/track/29drzlJamuYPBRh1LPpXM4"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -355,6 +355,22 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
+        "name": "\u5927\u9006\u8ee2\u88c1\u52242 -\u6210\u6b69\u5802\u9f8d\u30ce\u4ecb\u306e\u89ba\u609f- \u5287\u4f34\u97f3\u6a02\u5927\u5168\u96c6",
+        "url": "https://open.spotify.com/album/6eOTzkW3xOLBwG8zRfA2V4"
+      },
+      "artists": [
+        {
+          "name": "Yasumasa Kitagawa",
+          "url": "https://open.spotify.com/artist/02rAgib3SCbMTFZuHSii3d"
+        }
+      ],
+      "duration_ms": 129946,
+      "name": "\u5927\u8ffd\u6c42 \u301c\u6210\u6b69\u5802\u9f8d\u30ce\u4ecb\u306e\u89ba\u609f",
+      "url": "https://open.spotify.com/track/7a0PMLaZMhu18Hl88STQBk"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
         "name": "\u9006\u8ee2\u691c\u4e8b2 \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/2gtH1BW56OyOl68hDJqQgB"
       },
@@ -371,18 +387,18 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "\u5927\u9006\u8ee2\u88c1\u52242 -\u6210\u6b69\u5802\u9f8d\u30ce\u4ecb\u306e\u89ba\u609f- \u5287\u4f34\u97f3\u6a02\u5927\u5168\u96c6",
-        "url": "https://open.spotify.com/album/6eOTzkW3xOLBwG8zRfA2V4"
+        "name": "Super Street Fighter II Turbo Original Soundtrack",
+        "url": "https://open.spotify.com/album/3sinqjuzlAI7QWTyJxNut6"
       },
       "artists": [
         {
-          "name": "Yasumasa Kitagawa",
-          "url": "https://open.spotify.com/artist/02rAgib3SCbMTFZuHSii3d"
+          "name": "Capcom Sound Team",
+          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
         }
       ],
-      "duration_ms": 129946,
-      "name": "\u5927\u8ffd\u6c42 \u301c\u6210\u6b69\u5802\u9f8d\u30ce\u4ecb\u306e\u89ba\u609f",
-      "url": "https://open.spotify.com/track/7a0PMLaZMhu18Hl88STQBk"
+      "duration_ms": 223560,
+      "name": "Guile's Theme",
+      "url": "https://open.spotify.com/track/29drzlJamuYPBRh1LPpXM4"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -415,22 +431,6 @@
       "duration_ms": 342120,
       "name": "Rising Sun",
       "url": "https://open.spotify.com/track/4yB3Ljw5lrhqmAISGaNPsd"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
-        "name": "biohazard SOUND CHRONICLE BEST TRACK BOX",
-        "url": "https://open.spotify.com/album/1MGsZkc3qudBr8rjhWu8k0"
-      },
-      "artists": [
-        {
-          "name": "Capcom Sound Team",
-          "url": "https://open.spotify.com/artist/3w1Q754jb31h5CXQCcnLNL"
-        }
-      ],
-      "duration_ms": 79173,
-      "name": "Save Theme",
-      "url": "https://open.spotify.com/track/77VG3p0Ua6MrnqeUE85ENb"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -563,18 +563,18 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "MEGA MAN X3 SOUND COLLECTION",
-        "url": "https://open.spotify.com/album/5eFeLu7bfa5BSZFYXMqmfK"
+        "name": "MEGA MAN X LEGACY COLLECTION SOUNDTRACK",
+        "url": "https://open.spotify.com/album/3tD6VBpy9e1p7hYJob5OvP"
       },
       "artists": [
         {
-          "name": "Kinuyo Yamashita",
-          "url": "https://open.spotify.com/artist/1aQZ53vh1tmTROhWsBrJIx"
+          "name": "Yasumasa Kitagawa",
+          "url": "https://open.spotify.com/artist/02rAgib3SCbMTFZuHSii3d"
         }
       ],
-      "duration_ms": 114160,
-      "name": "GRAVITY BEETBOOD STAGE",
-      "url": "https://open.spotify.com/track/1n8n4H2nn4pr6g4UE9ZBgg"
+      "duration_ms": 171065,
+      "name": "X4 - BOSS",
+      "url": "https://open.spotify.com/track/6UDrl7GL31sroGclleWa3H"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -595,18 +595,18 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "MEGA MAN X LEGACY COLLECTION SOUNDTRACK",
-        "url": "https://open.spotify.com/album/3tD6VBpy9e1p7hYJob5OvP"
+        "name": "MEGA MAN X3 SOUND COLLECTION",
+        "url": "https://open.spotify.com/album/5eFeLu7bfa5BSZFYXMqmfK"
       },
       "artists": [
         {
-          "name": "Yasumasa Kitagawa",
-          "url": "https://open.spotify.com/artist/02rAgib3SCbMTFZuHSii3d"
+          "name": "Kinuyo Yamashita",
+          "url": "https://open.spotify.com/artist/1aQZ53vh1tmTROhWsBrJIx"
         }
       ],
-      "duration_ms": 171065,
-      "name": "X4 - BOSS",
-      "url": "https://open.spotify.com/track/6UDrl7GL31sroGclleWa3H"
+      "duration_ms": 114160,
+      "name": "GRAVITY BEETBOOD STAGE",
+      "url": "https://open.spotify.com/track/1n8n4H2nn4pr6g4UE9ZBgg"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -643,22 +643,22 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "Ghosts 'n Goblins Resurrection Original Soundtrack",
-        "url": "https://open.spotify.com/album/37hqNN5sXkKcJnpohmKydu"
+        "name": "E.X.TROOPERS - END OF CONVERSATION",
+        "url": "https://open.spotify.com/album/5hHmRqbgktyVUM4OdUVG1F"
       },
       "artists": [
         {
-          "name": "M-TWO Inc.",
-          "url": "https://open.spotify.com/artist/0SFDksnq3pViyCqr4K57z9"
+          "name": "Yasumasa Kitagawa",
+          "url": "https://open.spotify.com/artist/02rAgib3SCbMTFZuHSii3d"
         },
         {
-          "name": "designwave co.,ltd.",
-          "url": "https://open.spotify.com/artist/1sIQbqXeBZtxgZPwEFUU62"
+          "name": "Saori Hayami",
+          "url": "https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN"
         }
       ],
-      "duration_ms": 102607,
-      "name": "Graveyard",
-      "url": "https://open.spotify.com/track/3Rv6dMArRUGv7X2JzpGgbe"
+      "duration_ms": 298874,
+      "name": "\u89e3\u653e\u30ec\u30be\u30ca\u30f3\u30b9 The Soar",
+      "url": "https://open.spotify.com/track/60o03jgMfwbnjqLItcPcTa"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -695,6 +695,26 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
+        "name": "Ghosts 'n Goblins Resurrection Original Soundtrack",
+        "url": "https://open.spotify.com/album/37hqNN5sXkKcJnpohmKydu"
+      },
+      "artists": [
+        {
+          "name": "M-TWO Inc.",
+          "url": "https://open.spotify.com/artist/0SFDksnq3pViyCqr4K57z9"
+        },
+        {
+          "name": "designwave co.,ltd.",
+          "url": "https://open.spotify.com/artist/1sIQbqXeBZtxgZPwEFUU62"
+        }
+      ],
+      "duration_ms": 102607,
+      "name": "Graveyard",
+      "url": "https://open.spotify.com/track/3Rv6dMArRUGv7X2JzpGgbe"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
         "name": "SENGOKU BASARA 15th Anniversary BEST",
         "url": "https://open.spotify.com/album/7wSvpfURZ4bmv5RcHGC3RB"
       },
@@ -727,22 +747,6 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "\u6226\u56fdBASARA \u897f\u8ecdBEST",
-        "url": "https://open.spotify.com/album/21DOCWhm8R6mRKuiEQctKD"
-      },
-      "artists": [
-        {
-          "name": "T\u2019s MUSIC",
-          "url": "https://open.spotify.com/artist/1vJ78AUEDFR40dhshXwW1V"
-        }
-      ],
-      "duration_ms": 109706,
-      "name": "\u4e0a\u7530\u5408\u6226",
-      "url": "https://open.spotify.com/track/2pmeO8bvihl5LQUmwyWA7v"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
         "name": "SHINSEKAI Into the Depths Hidden Tracks",
         "url": "https://open.spotify.com/album/4J34Ttmtw29MOBVMdNgRM0"
       },
@@ -759,22 +763,34 @@
     {
       "added_at": "2021-06-30 15:18:23",
       "album": {
-        "name": "E.X.TROOPERS - END OF CONVERSATION",
-        "url": "https://open.spotify.com/album/5hHmRqbgktyVUM4OdUVG1F"
+        "name": "Resident Evil 3 Special Soundtrack",
+        "url": "https://open.spotify.com/album/7pQYu8IdEDcvmlhCTCSsaP"
       },
       "artists": [
         {
-          "name": "Yasumasa Kitagawa",
-          "url": "https://open.spotify.com/artist/02rAgib3SCbMTFZuHSii3d"
-        },
-        {
-          "name": "Saori Hayami",
-          "url": "https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN"
+          "name": "Masami Ueda",
+          "url": "https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU"
         }
       ],
-      "duration_ms": 298874,
-      "name": "\u89e3\u653e\u30ec\u30be\u30ca\u30f3\u30b9 The Soar",
-      "url": "https://open.spotify.com/track/60o03jgMfwbnjqLItcPcTa"
+      "duration_ms": 338026,
+      "name": "Metamorphosis",
+      "url": "https://open.spotify.com/track/6EKwFfps4FEnXfqjAednwm"
+    },
+    {
+      "added_at": "2021-06-30 15:18:23",
+      "album": {
+        "name": "\u6226\u56fdBASARA \u897f\u8ecdBEST",
+        "url": "https://open.spotify.com/album/21DOCWhm8R6mRKuiEQctKD"
+      },
+      "artists": [
+        {
+          "name": "T\u2019s MUSIC",
+          "url": "https://open.spotify.com/artist/1vJ78AUEDFR40dhshXwW1V"
+        }
+      ],
+      "duration_ms": 109706,
+      "name": "\u4e0a\u7530\u5408\u6226",
+      "url": "https://open.spotify.com/track/2pmeO8bvihl5LQUmwyWA7v"
     },
     {
       "added_at": "2021-06-30 15:18:23",
@@ -795,22 +811,6 @@
       "duration_ms": 102588,
       "name": "Prologue",
       "url": "https://open.spotify.com/track/4WLG39EfWheywWdmo4exqh"
-    },
-    {
-      "added_at": "2021-06-30 15:18:23",
-      "album": {
-        "name": "Resident Evil 3 Special Soundtrack",
-        "url": "https://open.spotify.com/album/7pQYu8IdEDcvmlhCTCSsaP"
-      },
-      "artists": [
-        {
-          "name": "Masami Ueda",
-          "url": "https://open.spotify.com/artist/4Zc9ID5YsCSgTf2l00RmiU"
-        }
-      ],
-      "duration_ms": 338026,
-      "name": "Metamorphosis",
-      "url": "https://open.spotify.com/track/6EKwFfps4FEnXfqjAednwm"
     },
     {
       "added_at": "2021-06-30 15:18:23",

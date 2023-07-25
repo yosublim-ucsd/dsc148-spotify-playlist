@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 
 > Deep House in all its shapes and colours.
 
-[Spotify](https://open.spotify.com/user/spotify) - 585,614 likes - 80 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 585,808 likes - 80 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 | 60 | [What U Doing](https://open.spotify.com/track/6jn47IP90tvtvb7ddhOnS1) | [Dennis Cruz](https://open.spotify.com/artist/27mWOSZjlpmtoqsRjRwQyu), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [What U Doing](https://open.spotify.com/album/65xPPLYFiHhx6YxRV3S9fV) | 3:49 |
 | 61 | [Can't Get Enough](https://open.spotify.com/track/3IvodZAm4vD1PM3bIEw9Ik) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [Fact & Fiction / Can't Get Enough](https://open.spotify.com/album/0nV7hufCHvKb7qEWH5WKOm) | 6:19 |
 | 62 | [Trojan Love \- Original Club Mix](https://open.spotify.com/track/283e2rkf3A78qmcp5xjOTT) | [Definition](https://open.spotify.com/artist/7KT19dObRj1T5OgnyQFm4C), [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96) | [Trojan Love \(Original Club Mix\)](https://open.spotify.com/album/5VGOmMOd2ke7rAFmaU125O) | 5:57 |
-| 63 | [Rebirth](https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [Rebirth](https://open.spotify.com/album/0DNO6OZBhdVtJ8Q1D8ZiVY) | 7:59 |
-| 64 | [Laufen](https://open.spotify.com/track/3l09ozhFppcBhSXXalTtsf) | [MonoJack](https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9), [Fritz Kölner](https://open.spotify.com/artist/5kUq5J6UHtwVWgtrpE4zGh) | [Laufen](https://open.spotify.com/album/0rBQ3XoH7MGsyTroRmawqT) | 4:17 |
+| 63 | [Laufen](https://open.spotify.com/track/3l09ozhFppcBhSXXalTtsf) | [MonoJack](https://open.spotify.com/artist/0cOtwWgfpavqmqhEkqner9), [Fritz Kölner](https://open.spotify.com/artist/5kUq5J6UHtwVWgtrpE4zGh) | [Laufen](https://open.spotify.com/album/0rBQ3XoH7MGsyTroRmawqT) | 4:17 |
+| 64 | [Rebirth](https://open.spotify.com/track/2maR9zs9UfgQpB1hr9UjpS) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [Rebirth](https://open.spotify.com/album/0DNO6OZBhdVtJ8Q1D8ZiVY) | 7:59 |
 | 65 | [Kami](https://open.spotify.com/track/3fPOazjC0Pv6bJBfG8sFFN) | [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Body Language, Vol\. 24](https://open.spotify.com/album/5ckimbNORdaunDCjWmr1If) | 5:15 |
 | 66 | [Kilian](https://open.spotify.com/track/3vaJ9CccAzBkvHZ6EQwbMe) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Kilian](https://open.spotify.com/album/0wyMMh9VFDAppQM1lzI0HV) | 7:00 |
 | 67 | [Love And Hate](https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi) | [Bedouin](https://open.spotify.com/artist/5bKdC6382t97Qnpvs81Rqx) | [Love And Hate](https://open.spotify.com/album/1NEZ9FtarC6DX5hbnC7H1c) | 4:27 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5xiztvBdlUf.md) - [plain]
 | 74 | [Copal \- Super Flu Remix](https://open.spotify.com/track/2Eu5IxBvLxCd1HFVR4JbR4) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Made of Wood Remixed](https://open.spotify.com/album/17vbriNfPim1tG9mGO6GGA) | 6:37 |
 | 75 | [Nice to Meet You](https://open.spotify.com/track/1AuaqlZieND0Ydk2xTZRqe) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Nice to Meet You](https://open.spotify.com/album/3s82Nf6qJ4CmQCvMXkJ2Y6) | 6:13 |
 | 76 | [Downtown](https://open.spotify.com/track/6BiXzWCVJwTUT4fFLuDNeM) | [Literatura](https://open.spotify.com/artist/50Nc8VBlHSdkoUyzJtDmnc), [Stereo MC's](https://open.spotify.com/artist/1k8VBufn1nBs8LN9n4snc8), [Junket](https://open.spotify.com/artist/1bQ7x7BvGHp7450Mqb239d) | [Downtown EP](https://open.spotify.com/album/5bZGoM751YhCKPibQpUCrl) | 7:44 |
-| 77 | [Paradise](https://open.spotify.com/track/5EyshuHNc7NxTZlHOySUqk) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY), [Audrey Janssens](https://open.spotify.com/artist/5v7Dp2yoppf8qFcyLsjgZB) | [Paradise](https://open.spotify.com/album/74bsF0jmkPRYstzqMaos1j) | 3:39 |
+| 77 | [Back to the Days](https://open.spotify.com/track/7DtMXfDUpgXx9PjZrPLaNh) | [El Mukuka](https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd), [Sebastien Dutch](https://open.spotify.com/artist/3DhrN38YbHljOGNxVfWNLI), [Abel Chungu Musuka](https://open.spotify.com/artist/49LXAemdmdSqQ6yCo3UNlt) | [ZEBRA](https://open.spotify.com/album/1KX6XM1mCfO4sEj3qli3JJ) | 3:34 |
 | 78 | [Cold Shoulder \- Helsloot Remix](https://open.spotify.com/track/2Y9yBWz14WmHO8xrCZUORP) | [Words of Niō](https://open.spotify.com/artist/7c3dmSLhJKpO6UQLWYJdPq), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Cold Shoulder \(Helsloot Remix\)](https://open.spotify.com/album/4qInKgA6JFPScaE58BR7st) | 4:06 |
-| 79 | [Back to the Days](https://open.spotify.com/track/7DtMXfDUpgXx9PjZrPLaNh) | [El Mukuka](https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd), [Sebastien Dutch](https://open.spotify.com/artist/3DhrN38YbHljOGNxVfWNLI), [Abel Chungu Musuka](https://open.spotify.com/artist/49LXAemdmdSqQ6yCo3UNlt) | [ZEBRA](https://open.spotify.com/album/1KX6XM1mCfO4sEj3qli3JJ) | 3:34 |
+| 79 | [Paradise](https://open.spotify.com/track/5EyshuHNc7NxTZlHOySUqk) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY), [Audrey Janssens](https://open.spotify.com/artist/5v7Dp2yoppf8qFcyLsjgZB) | [Paradise](https://open.spotify.com/album/74bsF0jmkPRYstzqMaos1j) | 3:39 |
 | 80 | [Camaleon](https://open.spotify.com/track/3yYGdYXbtXT2cc1TVcc1Ld) | [Pablo Fierro](https://open.spotify.com/artist/5N7gp2n04e1TJ6MaKyvrbI) | [Camaleon](https://open.spotify.com/album/2XY0Id6FDFM644I1vluaQX) | 5:59 |
 
-Snapshot ID: `MCxjZjAwZmEzYTBhNjQ5YTY0NGQ3NDgwYmI0YTU1MTk1YmRjZmI1NDNm`
+Snapshot ID: `MCwzZDJjMDA3ODAxNDFjMDE3ZmEzOThhZDlkYzI0OGI1ODJlMmY5ZmU0`

@@ -4,7 +4,7 @@
 
 > Rock independiente, pop alternativo y golden hour.
 
-468 songs - 1 day 3 hr 46 min
+470 songs - 1 day 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [El Fin](https://open.spotify.com/track/1KQ9arIyVcyvbixRfog2NB) | [Riel](https://open.spotify.com/artist/4ys8P86LOOHUoO954p2Ciu) | [Principio del Fin](https://open.spotify.com/album/0I1uNlrv0RNdmWoUOIXe0m) | 4:09 | 2023-05-12 | 2023-06-10 |
 | [El Heladero](https://open.spotify.com/track/1y6MQ82qLW8AIXpXmLHtGh) | [Karamelo Santo](https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1), [Charlie Desidney](https://open.spotify.com/artist/3917O9DQNLgjxTSYOly6Uu) | [El Heladero](https://open.spotify.com/album/5u8PajcQdVpjFns2nUWzET) | 2:45 | 2022-07-01 | 2022-07-28 |
 | [El Imán](https://open.spotify.com/track/2AzQoLgqijY6WVBndchJvP) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Como Bailan los Demás](https://open.spotify.com/album/4wz7oHddJ7WT2MwROywUQF) | 4:03 | 2022-10-28 |  |
+| [El Juego de la Sed](https://open.spotify.com/track/0Gadp13jH5EsojTAXyhMwW) | [Julián Desbats](https://open.spotify.com/artist/6qzRpe1gOXSbcd7NsblkdP) | [El Juego de la Sed](https://open.spotify.com/album/2BSgQC5v96a3oITrZ6ykRS) | 3:15 | 2023-07-24 |  |
 | [El Lago \- Remix](https://open.spotify.com/track/2kOzsYkc2kBFViZLRrgpSY) | [Déjenme Dormir](https://open.spotify.com/artist/0wlw3iBVFnAzSviZyLjxDJ), [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [El Lago \(Remix\)](https://open.spotify.com/album/11zavB3xrK6eHp2TZPgzA6) | 3:50 | 2022-07-15 | 2022-07-25 |
 | [El Límite](https://open.spotify.com/track/19UGBEYHwRc7UJQnesJViB) | [Marina Fages](https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3), [Melanie Williams & El Cabloide](https://open.spotify.com/artist/6O4UKE8rYpWbEBg2LxIS31) | [El Límite](https://open.spotify.com/album/6c5uQ4l7Dj2WeEthNTXFva) | 4:08 | 2022-07-01 | 2022-07-23 |
 | [El Mar](https://open.spotify.com/track/6p4igyHvj10o6AfIVBpUzB) | [Lisboa](https://open.spotify.com/artist/0XUGMV6jNYjZdu9WYZCfsQ), [Pablo "El Tordo" Mondello](https://open.spotify.com/artist/3rINWWsVEjmyBSnMYDp5Ie) | [El Mar](https://open.spotify.com/album/0LMPGtmWzT6uXOkkglAdxJ) | 3:46 | 2022-07-15 | 2022-07-19 |
@@ -193,6 +194,7 @@
 | [Hombre Paloma](https://open.spotify.com/track/33MjnTrlEgYbra2prv0l5i) | [Jardín Mojado](https://open.spotify.com/artist/7wgFf7kPgz7eVjcmZ2n3zx) | [Hombre Paloma](https://open.spotify.com/album/2yZ4h4VN6iWBjseopIbsS7) | 3:02 | 2022-07-01 | 2022-07-16 |
 | [Huele amarillo](https://open.spotify.com/track/4NBUs3oAIGAz2ZHTCznjYq) | [Santiago Moraes](https://open.spotify.com/artist/2pfLPT9ZTkPrLd8ZJiDBld) | [Huele amarillo](https://open.spotify.com/album/4XH65quBLvAln0tbp265qx) | 4:34 | 2022-10-12 | 2022-12-02 |
 | [Hábitat](https://open.spotify.com/track/27XZVuWnI6J6xA3QNO2eAp) | [Nadar de Noche](https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get), [El príncipe idiota](https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u) | [Hábitat](https://open.spotify.com/album/4vAkxysCMVfWxB60VQCLFO) | 3:49 | 2022-06-03 | 2022-07-29 |
+| [Ideograma](https://open.spotify.com/track/0h5zsbK2qdJo079qgLtp9q) | [Media Hermana](https://open.spotify.com/artist/0oa0TL1V6tfg7ERfm2sMiE) | [Ideograma](https://open.spotify.com/album/5AZFPqMNLc85eO8FoKGSnY) | 4:22 | 2023-07-24 |  |
 | [Igual](https://open.spotify.com/track/4808bFO0Mw34MmuSjAtQSR) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Igual](https://open.spotify.com/album/0i3T9mspLdgOaOoei0FqKZ) | 4:10 | 2022-11-11 |  |
 | [Incendio](https://open.spotify.com/track/0TJJXZHUu2qqwCCQzgRhHm) | [Surfeadores Rosa](https://open.spotify.com/artist/6BecaP398CIWCEHspNCxQh) | [Incendio](https://open.spotify.com/album/1GD7KnMcyOfA4Dk6OQDDWd) | 2:52 | 2022-07-01 | 2022-07-22 |
 | [Inhumano](https://open.spotify.com/track/2BA2tCyrlMuoyacTadYQa5) | [TELESCOPIOS](https://open.spotify.com/artist/3JGkYP1X7liTn0IhJqFcMG) | [Telescopios](https://open.spotify.com/album/71hxwc4qWEP4Sfe5QGYqmV) | 2:19 | 2022-06-03 | 2022-07-28 |
@@ -226,7 +228,7 @@
 | [La Noche](https://open.spotify.com/track/1NPScuwas3jC2PpOO86vJX) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Fin del Mundo](https://open.spotify.com/album/4GffZQPSerrC3OR1n9sjiu) | 3:33 | 2022-06-03 |  |
 | [La Otra Ciudad](https://open.spotify.com/track/1VvPOzTmEtvXuH2l3gG05Y) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Unas Vacaciones Raras](https://open.spotify.com/album/0Vg08UGOqRNtsdhILEmsjH) | 4:18 | 2022-07-15 |  |
 | [La Otra Ciudad](https://open.spotify.com/track/4fycTqg8GHP5434ND7kKvq) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Unas Vacaciones Raras](https://open.spotify.com/album/5QTe4ln96FBIbCgR0rSjdf) | 4:18 | 2022-06-03 | 2022-07-29 |
-| [La Poesia Intermitente](https://open.spotify.com/track/5sEEsMp1Q2a0vccFrxSZkD) | [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [Tranki Town](https://open.spotify.com/album/7EN6Gq75GPfuHvcptkuOsk) | 3:53 | 2022-06-03 |  |
+| [La Poesia Intermitente](https://open.spotify.com/track/5sEEsMp1Q2a0vccFrxSZkD) | [El Chacal & Los Alpes Floreados](https://open.spotify.com/artist/6vtp1NouNva4jvDI2IqQey), [Goyo Degano](https://open.spotify.com/artist/2jdmT8GGcp6lWM58D0ROYf) | [Tranki Town](https://open.spotify.com/album/7EN6Gq75GPfuHvcptkuOsk) | 3:53 | 2022-06-03 | 2023-07-25 |
 | [La Rompiente](https://open.spotify.com/track/36TbMvfNBbgqbMfKWcF3xL) | [Sr Tomate](https://open.spotify.com/artist/4H1MDie4DNcC292GeGPoZ8) | [Desde el Centro del Naufragio](https://open.spotify.com/album/6B2sBm6bjWWxWrx9V92rxP) | 6:24 | 2022-07-01 | 2022-07-29 |
 | [La Sorpresa](https://open.spotify.com/track/4uCjn3FvBY07DAYHBDrNiw) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH) | [La Sorpresa](https://open.spotify.com/album/5QhWdYNpz3GNWlMuwNoQ5P) | 2:35 | 2022-07-01 | 2022-09-09 |
 | [La Verdad](https://open.spotify.com/track/41e6XAUwzXXu9CcKqYtOoa) | [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [La Verdad](https://open.spotify.com/album/5liRXIIe5NXzgqR1c1qvjn) | 3:24 | 2022-11-11 | 2023-04-14 |
@@ -462,7 +464,7 @@
 | [videoclub](https://open.spotify.com/track/462xoGsHcgDbnVZVHqMSUJ) | [mitimitis](https://open.spotify.com/artist/3iEWpEqmO2yLUPIiu7Dv9F) | [videoclub](https://open.spotify.com/album/0AuLG5EdbX6yBkJG2pjrLz) | 3:14 | 2022-06-03 | 2022-07-28 |
 | [VOID](https://open.spotify.com/track/6uPUgwjxECrLR7X5O7XacW) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [VOID](https://open.spotify.com/album/5KidTGNtKDsqsItKqUcG9V) | 3:19 | 2023-05-19 | 2023-06-24 |
 | [Volviste Desarmado](https://open.spotify.com/track/6bsjkK53hGEU7khkaQ4ELq) | [La Sánchez Viamonte](https://open.spotify.com/artist/75Ls2clsNSLsuGQqAwBAJa) | [Volviste Desarmado](https://open.spotify.com/album/2Pubgf7Ke14LTjXc0yBJE9) | 4:48 | 2022-06-03 | 2022-07-24 |
-| [Vos y Yo](https://open.spotify.com/track/6DXjmuP875gbBFKjzoXudZ) | [Rocco Posca](https://open.spotify.com/artist/1d7BLhorBcreW8Zs9SxHcd) | [EL GAVIOTA](https://open.spotify.com/album/3AC4oh8TEA1CYzIV8UuuFT) | 3:37 | 2022-06-03 |  |
+| [Vos y Yo](https://open.spotify.com/track/6DXjmuP875gbBFKjzoXudZ) | [Rocco Posca](https://open.spotify.com/artist/1d7BLhorBcreW8Zs9SxHcd) | [EL GAVIOTA](https://open.spotify.com/album/3AC4oh8TEA1CYzIV8UuuFT) | 3:37 | 2022-06-03 | 2023-07-25 |
 | [XXYY](https://open.spotify.com/track/7t3wLZi6Xit8XRt24POyQW) | [Mujer Cebra](https://open.spotify.com/artist/6UZQzfJ09W8Dqmr0UoU5HL) | [Mujer Cebra](https://open.spotify.com/album/0hVew2aVwFr9160hSXbaf3) | 2:46 | 2022-07-01 | 2023-03-03 |
 | [ya fue / ya está](https://open.spotify.com/track/31VaZ78vgHa1N5J9oLvFAi) | [Equipo Nacional](https://open.spotify.com/artist/3vYmeeuL2e2C0MqNdAVAXE) | [ya fue / ya está](https://open.spotify.com/album/3wATlKrcm7Y7NDfbJQwIal) | 4:03 | 2022-07-01 | 2022-07-24 |
 | [Ya Hablamos de Esto](https://open.spotify.com/track/7E7GOlNAywQK65Wg4EQf1e) | [Aerobot](https://open.spotify.com/artist/7BO2i1MVKhUrwQHFBkvBfQ), [Amelia](https://open.spotify.com/artist/5ww5jJ8UVQ7jxFQBfN7VoQ) | [Ya Hablamos de Esto](https://open.spotify.com/album/1sCAPYU44MdvDr6YSj9J6f) | 3:22 | 2022-07-01 | 2022-07-28 |

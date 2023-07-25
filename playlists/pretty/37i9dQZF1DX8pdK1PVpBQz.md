@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: FELONY\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,723 likes - 101 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,733 likes - 101 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 100 | [G\-SHOCK](https://open.spotify.com/track/5oWNnvoFLH5dRu56carDpq) | [Shady Nasty](https://open.spotify.com/artist/5fEdUhbIAf9JlPhlc3swPx) | [G\-SHOCK](https://open.spotify.com/album/1GonweWEWhZjMxdxI7db3A) | 2:11 |
 | 101 | [The World Is Here For You](https://open.spotify.com/track/26KHeStct1X9bFpWSCOhjb) | [Immy Owusu](https://open.spotify.com/artist/5gmKrR6QTu7AfVN7u1uPwO) | [The World Is Here For You](https://open.spotify.com/album/5aDnjZgPThp7hgOXVAaGeI) | 5:30 |
 
-Snapshot ID: `MCxmZDg5ZDBiMTcwYjNkYWEyODc0MDM2Yjc0ZDU4NGQ3Mzg5YzQ2MWYz`
+Snapshot ID: `MCxlMmM5MzNhMDgyMGI1MGQ0MjdiYWNkMDIwNTEzMjViOTc1OWRkNGNl`

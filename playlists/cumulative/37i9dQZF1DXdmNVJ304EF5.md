@@ -4,7 +4,7 @@
 
 > Where the local scene started.
 
-55 songs - 3 hr 13 min
+56 songs - 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,8 @@
 | [Sleepwalking](https://open.spotify.com/track/0gchQwxmBWj5no8NJ8b2yH) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Sempiternal \(Expanded Edition\)](https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz) | 3:50 | 2022-12-28 |  |
 | [Something Better](https://open.spotify.com/track/49p2lVw2SIn1cCfjaBptQo) | [Canterbury](https://open.spotify.com/artist/2xnkhppPrflQ02TWRtIthQ) | [Heavy in the Day](https://open.spotify.com/album/281202APzTHOf2hs6RFcmr) | 3:30 | 2022-12-28 |  |
 | [Sorry You're Not a Winner](https://open.spotify.com/track/6PwxotrB99xgatKVzibmkz) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Take to the Skies](https://open.spotify.com/album/5cO7wtkaJCY3SiV6g0MKHE) | 4:14 | 2022-12-28 |  |
-| [Sssnakepit](https://open.spotify.com/track/6Jh59vr2EoZSvvBzyjZNpQ) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [A Flash Flood Of Colour](https://open.spotify.com/album/0BsWXEhcP7Ac7BbTETVRg6) | 3:25 | 2022-12-28 |  |
+| [Sssnakepit](https://open.spotify.com/track/0JYefPYO1WKxLGG4gEnDoc) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [A Flash Flood of Colour \(Redux Version\)](https://open.spotify.com/album/04MBMCMj7OK72h3qGAwsMm) | 3:25 | 2022-12-28 |  |
+| [Sssnakepit](https://open.spotify.com/track/6Jh59vr2EoZSvvBzyjZNpQ) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [A Flash Flood Of Colour](https://open.spotify.com/album/0BsWXEhcP7Ac7BbTETVRg6) | 3:25 | 2022-12-28 | 2023-07-25 |
 | [Stay With Me](https://open.spotify.com/track/2if2ZfIY26NB8bFeGAxWGD) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Stay With Me](https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5) | 3:18 | 2022-12-28 |  |
 | [Streetcar](https://open.spotify.com/track/3QvcNLv6ljvuU1KD7dSINg) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Hours](https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7) | 3:36 | 2022-12-28 |  |
 | [The House of Wolves](https://open.spotify.com/track/7hntkdvG3jWdFKm7pGCCzd) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Sempiternal \(Expanded Edition\)](https://open.spotify.com/album/6IYPmM3xsOPL2XPSvf1ZAz) | 3:25 | 2022-12-28 |  |

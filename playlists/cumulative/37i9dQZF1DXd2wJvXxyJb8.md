@@ -2,9 +2,9 @@
 
 ### [Hits da Internet](https://open.spotify.com/playlist/37i9dQZF1DXd2wJvXxyJb8)
 
-> ATENZZIONEEEEEEEEEEEEeeeeeeeeeeeeeeeeeEEeeeeeEeE
+> sobrancelha da nossa piriquita tá em dia esqueça tudo VAI BRASIL
 
-303 songs - 13 hr 51 min
+304 songs - 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Facilita Aí](https://open.spotify.com/track/4bT4Gbs7FA4cLyZeKtlGVO) | [Zé Felipe](https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu) | [Facilita Aí](https://open.spotify.com/album/7xdmkdtyNToObPGmRYKVJc) | 2:23 | 2023-02-06 |  |
 | [Faz o Teu Nome](https://open.spotify.com/track/2SFc3dFgkPvADsqz84MYi6) | [Os Quebradeiras](https://open.spotify.com/artist/4ttjWi3eElnVE8qPjqhj9x), [DJ Zullu](https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE), [Stefan Baby](https://open.spotify.com/artist/0SmhJO6Nt4XdUaVwycMRn3) | [Faz o Teu Nome](https://open.spotify.com/album/5TW9EKpA3iQoRMy8JdlP5B) | 1:39 | 2023-07-12 |  |
 | [FAZ O VUK VUK SENTANDO \(SERIE GOLD\)](https://open.spotify.com/track/3mMLHPnMcT4jEM95zzqaBc) | [Dj Godim](https://open.spotify.com/artist/1EVMpP0oubPkCR1VQnu4rj) | [FAZ O VUK VUK SENTANDO \(SERIE GOLD\)](https://open.spotify.com/album/3LCAf01y20MLmQ0tZ2HdEw) | 2:31 | 2023-07-18 |  |
+| [Faz um Vuk Vuk \(Teto Espelhado\)](https://open.spotify.com/track/64CovjRwInpOJW4PiGMprY) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Dj Nk Da Serra](https://open.spotify.com/artist/3DIMAAaWSlVl1YQ9nsQmUN) | [Faz um Vuk Vuk \(Teto Espelhado\)](https://open.spotify.com/album/59qldBzRiQutEYO1hqxw7H) | 2:18 | 2023-07-24 |  |
 | [Festa em 4 Rodas](https://open.spotify.com/track/2d2njiAeylPU4vhSe35J7C) | [Mc Laranjinha](https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp), [Mc Lakost](https://open.spotify.com/artist/3GJTGb7EwLTnV9EIFOLsic), [Mc Anjim](https://open.spotify.com/artist/0DjQFfVxBipTFTXRCwImMP), [Os Gemeos da Putaria](https://open.spotify.com/artist/5ZEpz4ei1jHqvA4EHUeKqs), [Mc Junior Pk](https://open.spotify.com/artist/4WRkJpqyrKEdwhrFlCrI4A) | [Festa em 4 Rodas](https://open.spotify.com/album/1ZLjmOti4547ALMx2hVqIw) | 2:46 | 2022-05-26 | 2022-08-25 |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-01-16 | 2023-04-12 |
 | [Formosa](https://open.spotify.com/track/1QmupixsVNc0osesKXraZC) | [Kaio Viana](https://open.spotify.com/artist/2XGuDrQEuJXo3FfBQMeUn4), [MC CJ](https://open.spotify.com/artist/6JXRSEJa8jE6sxsjMFMozp) | [Formosa](https://open.spotify.com/album/4cEk2x8T69nPNXnryzvrJI) | 3:05 | 2022-05-26 | 2022-07-19 |

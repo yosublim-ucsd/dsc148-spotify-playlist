@@ -1413,6 +1413,28 @@
     },
     {
       "album": {
+        "name": "Mini Motors",
+        "url": "https://open.spotify.com/album/1wZ4JnsQ0Lfert1OwBrc2H"
+      },
+      "artists": [
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        },
+        {
+          "name": "R7CKY",
+          "url": "https://open.spotify.com/artist/7nwTgB0QOv2yGprKxofyT8"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173199,
+      "name": "Hachiroku",
+      "url": "https://open.spotify.com/track/1i4abDsWpBNJZ0FIwxcwZi"
+    },
+    {
+      "album": {
         "name": "heavy metals",
         "url": "https://open.spotify.com/album/1l3e0TB5IdVOwFuOleUmjo"
       },
@@ -3046,6 +3068,28 @@
       "duration_ms": 132413,
       "name": "SHEEESH",
       "url": "https://open.spotify.com/track/2vCJT0We2y2065mfddct7b"
+    },
+    {
+      "album": {
+        "name": "Mini Motors",
+        "url": "https://open.spotify.com/album/1wZ4JnsQ0Lfert1OwBrc2H"
+      },
+      "artists": [
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        },
+        {
+          "name": "Fahjah",
+          "url": "https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146857,
+      "name": "Smash!",
+      "url": "https://open.spotify.com/track/26kyr3Yr7lXCUCOWhMZumY"
     },
     {
       "album": {

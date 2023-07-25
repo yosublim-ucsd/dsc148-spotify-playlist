@@ -1,12 +1,12 @@
 {
   "description": "romanticizing indie music",
-  "num_followers": 111297,
+  "num_followers": 111694,
   "original_name": "The summer I turned indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzNhMTg3NDMzMTc3Zjg0YTE3ZTBjOGFhYWI5ZWNjOGIyOGZiNDk1",
+  "snapshot_id": "MCwxMWY2ZTZkNzYwMWY2YjBiZjZhYTY1MjAxZWQzODVjYTIwMWY0NmIz",
   "tracks": [
     {
       "added_at": "2023-01-30 15:22:38",
@@ -587,6 +587,22 @@
     {
       "added_at": "2023-01-30 15:22:38",
       "album": {
+        "name": "The Yearbook",
+        "url": "https://open.spotify.com/album/5AxHpSJXhis5BFb1AA24pe"
+      },
+      "artists": [
+        {
+          "name": "Baby Queen",
+          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
+        }
+      ],
+      "duration_ms": 218053,
+      "name": "Dover Beach",
+      "url": "https://open.spotify.com/track/5BCYtpbTyUQSMRwDVPb5wk"
+    },
+    {
+      "added_at": "2023-01-30 15:22:38",
+      "album": {
         "name": "Impatience",
         "url": "https://open.spotify.com/album/5EHlNWLkGeSSpWkKpDNptJ"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 154500,
       "name": "Impatience",
       "url": "https://open.spotify.com/track/3BiTSDAHDZeQSJEwM9EprI"
-    },
-    {
-      "added_at": "2023-01-30 15:22:38",
-      "album": {
-        "name": "The Yearbook",
-        "url": "https://open.spotify.com/album/5AxHpSJXhis5BFb1AA24pe"
-      },
-      "artists": [
-        {
-          "name": "Baby Queen",
-          "url": "https://open.spotify.com/artist/4VqlewwKZJoIcA88PYHUDd"
-        }
-      ],
-      "duration_ms": 218053,
-      "name": "Dover Beach",
-      "url": "https://open.spotify.com/track/5BCYtpbTyUQSMRwDVPb5wk"
     },
     {
       "added_at": "2023-01-30 15:22:38",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-01-30 15:22:38",
       "album": {
-        "name": "the wire",
-        "url": "https://open.spotify.com/album/653dQi5wRhgX38vQSOe96i"
-      },
-      "artists": [
-        {
-          "name": "ego apartment",
-          "url": "https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4"
-        }
-      ],
-      "duration_ms": 218631,
-      "name": "the wire",
-      "url": "https://open.spotify.com/track/3FKAW8AaZmFYthqHvGg1hT"
-    },
-    {
-      "added_at": "2023-01-30 15:22:38",
-      "album": {
         "name": "The Last Thing Left",
         "url": "https://open.spotify.com/album/72cFlLceKsrnhEOMugnHNj"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 222626,
       "name": "Around You",
       "url": "https://open.spotify.com/track/5pQEVqVONaO8AlWXdmKdye"
+    },
+    {
+      "added_at": "2023-01-30 15:22:38",
+      "album": {
+        "name": "the wire",
+        "url": "https://open.spotify.com/album/653dQi5wRhgX38vQSOe96i"
+      },
+      "artists": [
+        {
+          "name": "ego apartment",
+          "url": "https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4"
+        }
+      ],
+      "duration_ms": 218631,
+      "name": "the wire",
+      "url": "https://open.spotify.com/track/3FKAW8AaZmFYthqHvGg1hT"
     },
     {
       "added_at": "2023-01-30 15:22:38",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-01-30 15:22:38",
       "album": {
+        "name": "UrbanAngel1999",
+        "url": "https://open.spotify.com/album/2pIECUm6lJmCagILps1mKa"
+      },
+      "artists": [
+        {
+          "name": "Thomas Headon",
+          "url": "https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE"
+        }
+      ],
+      "duration_ms": 190357,
+      "name": "UrbanAngel1999",
+      "url": "https://open.spotify.com/track/6OjWT7MkkNFvvlRvILPg6v"
+    },
+    {
+      "added_at": "2023-01-30 15:22:38",
+      "album": {
         "name": "UNO",
         "url": "https://open.spotify.com/album/6OZef64g2SeanHZyzsaLiW"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 190322,
       "name": "UNO",
       "url": "https://open.spotify.com/track/6Fsp0QzecAzkHEJn1QInU8"
-    },
-    {
-      "added_at": "2023-01-30 15:22:38",
-      "album": {
-        "name": "UrbanAngel1999",
-        "url": "https://open.spotify.com/album/2pIECUm6lJmCagILps1mKa"
-      },
-      "artists": [
-        {
-          "name": "Thomas Headon",
-          "url": "https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE"
-        }
-      ],
-      "duration_ms": 190357,
-      "name": "UrbanAngel1999",
-      "url": "https://open.spotify.com/track/6OjWT7MkkNFvvlRvILPg6v"
     }
   ],
   "unique_name": "The summer I turned indie",

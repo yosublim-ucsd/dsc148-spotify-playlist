@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "You Broke Me",
+        "url": "https://open.spotify.com/album/6FUkiLmFmp38aCV9DP6vAh"
+      },
+      "artists": [
+        {
+          "name": "Ghost Hounds",
+          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
+        }
+      ],
+      "date_added": "2023-07-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236543,
+      "name": "Baby We're Through",
+      "url": "https://open.spotify.com/track/138LkLoWuHhs4eteMxjPde"
+    },
+    {
+      "album": {
         "name": "Baby We're Through",
         "url": "https://open.spotify.com/album/07BLwEv9lflgXcyLqihBNU"
       },
@@ -366,7 +384,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 132173,
       "name": "Don't Start Crying Now",
       "url": "https://open.spotify.com/track/3Q7RuFIaAf7iJ2sd5R0NXQ"

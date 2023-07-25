@@ -4,7 +4,7 @@
 
 > Tropical y refrescante\. Con todo el sabor y tradición de México.
 
-160 songs - 8 hr 2 min
+161 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,8 +73,9 @@
 | [Espinita](https://open.spotify.com/track/0mYvrd6bEvIb6eVlo8G0zN) | [Ana María González](https://open.spotify.com/artist/5kUndRPKfSpxJ8WoDImOZU) | [Presentando a Ana María González](https://open.spotify.com/album/1xUHmBMg8McZqErft7qraw) | 2:21 | 2023-01-23 |  |
 | [Espinita](https://open.spotify.com/track/6elJAHz5ZQTjDbjD6PCEMw) | [Ana María González](https://open.spotify.com/artist/5kUndRPKfSpxJ8WoDImOZU) | [La Música en la Radio](https://open.spotify.com/album/2mzryIN4cCL6StAlH6tVqX) | 2:21 | 2022-01-25 | 2023-06-12 |
 | [Espinita](https://open.spotify.com/track/5mFqq5Eaojhf7cKe9CVz8x) | [Ana María González](https://open.spotify.com/artist/5kUndRPKfSpxJ8WoDImOZU) | [Historia Musical de la Radio en los 50's Vol\. 1](https://open.spotify.com/album/3Bvb3pv8lyqzcMS5YciXiO) | 2:21 | 2022-01-25 | 2022-11-13 |
+| [Fiesta](https://open.spotify.com/track/5I0HxQ5xorz04qWXHZBrEN) | [Rigo Dominguez Y Su Grupo Audaz](https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr) | [Ni Juana la Cubana](https://open.spotify.com/album/5MQwY3jZs6Nqqg2JwMGPGw) | 2:51 | 2023-01-23 |  |
 | [Fiesta](https://open.spotify.com/track/3JzsuJd0ZkxxRxTwVokRnO) | [Rigo Dominguez Y Su Grupo Audaz](https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr) | [20 Éxitos Bailables](https://open.spotify.com/album/0iaD5gNCR3LNMkXpNYBizV) | 2:52 | 2022-01-25 | 2022-10-08 |
-| [Flor del Río](https://open.spotify.com/track/6B91idlI85dgcjfP2lHKe3) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9) | [Los Grandes Éxitos de los Grandes Grupos](https://open.spotify.com/album/5wpdSJcSJ99JbsxBtqrmGt) | 2:50 | 2022-01-25 |  |
+| [Flor del Río](https://open.spotify.com/track/6B91idlI85dgcjfP2lHKe3) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9) | [Los Grandes Éxitos de los Grandes Grupos](https://open.spotify.com/album/5wpdSJcSJ99JbsxBtqrmGt) | 2:50 | 2022-01-25 | 2023-07-25 |
 | [Hola Que Tal](https://open.spotify.com/track/2SNkVt3vtVMCieuLsQ6umR) | [Los Plebeyos](https://open.spotify.com/artist/3VZbsevxBrgXLWjJ2Q8O7a) | [Edixion Platino](https://open.spotify.com/album/5Z5pcN4h06hEKvudzeo1sj) | 2:49 | 2022-01-25 | 2022-07-29 |
 | [Hola Que Tal \(Banda\)](https://open.spotify.com/track/0IqT6xFFEkq4v8GCsDPlKa) | [Los Plebeyos](https://open.spotify.com/artist/3VZbsevxBrgXLWjJ2Q8O7a) | [Carnaval De Exitos](https://open.spotify.com/album/7dyohvEEENhKuTsYXOn4HV) | 2:47 | 2022-01-25 | 2022-11-13 |
 | [Huapango 2 El Violin](https://open.spotify.com/track/72yAnJRLVJOjim7NUHa9XO) | [Mexican Music Factory](https://open.spotify.com/artist/3ofuI9bNKWZgszE18Gfijb), [Luis Alberto Ballesteros](https://open.spotify.com/artist/3Yy1uofnPXBT03X7ZQBkg4), [Domingo Suarez](https://open.spotify.com/artist/6keBbpvKC7Wrdq6x7ufCvx), [Julio Jaramillo](https://open.spotify.com/artist/6HqPNOo6OV9rPbEY7MP9T8) | [Mariachi Vol\. 2](https://open.spotify.com/album/12k9uBRmZFFLMajKtlNKDu) | 1:45 | 2022-01-25 |  |

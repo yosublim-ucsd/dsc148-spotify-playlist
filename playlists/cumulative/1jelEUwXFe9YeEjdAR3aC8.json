@@ -455,6 +455,24 @@
     },
     {
       "album": {
+        "name": "anatomy",
+        "url": "https://open.spotify.com/album/1HqB6FRF465zbiakkjsCLg"
+      },
+      "artists": [
+        {
+          "name": "kenzie",
+          "url": "https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182073,
+      "name": "anatomy",
+      "url": "https://open.spotify.com/track/7r2DoJ1tzl12CJ3fbsmoUT"
+    },
+    {
+      "album": {
         "name": "Angel Baby",
         "url": "https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43"
       },
@@ -596,6 +614,24 @@
       "duration_ms": 104761,
       "name": "artifact 22",
       "url": "https://open.spotify.com/track/1dnN0DI60lCnVEp0YpGCe2"
+    },
+    {
+      "album": {
+        "name": "artifacts 01",
+        "url": "https://open.spotify.com/album/0w9GY37KgBG59zla77FBwq"
+      },
+      "artists": [
+        {
+          "name": "fearofmakingout",
+          "url": "https://open.spotify.com/artist/6dYf0mDvC886saRIV4on5c"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103225,
+      "name": "artifact 37",
+      "url": "https://open.spotify.com/track/4VwN7ukpw2CvoEvX3MtEKK"
     },
     {
       "album": {
@@ -1456,6 +1492,24 @@
       "duration_ms": 172208,
       "name": "Close My Eyes",
       "url": "https://open.spotify.com/track/2h4I9QSVxzP6DwsKMO52st"
+    },
+    {
+      "album": {
+        "name": "Close One",
+        "url": "https://open.spotify.com/album/5tpLjmCPdpBn81pZTqiygc"
+      },
+      "artists": [
+        {
+          "name": "FIZZ",
+          "url": "https://open.spotify.com/artist/0zooagBp2tYdvvSLp74S7U"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235887,
+      "name": "Close One",
+      "url": "https://open.spotify.com/track/1xIT1hBftZGBNLIf35XlgV"
     },
     {
       "album": {
@@ -2360,7 +2414,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 143428,
       "name": "FAIRWEATHER FRIENDS",
       "url": "https://open.spotify.com/track/2DJKddEKlheoF8fdfnGT0E"
@@ -2714,7 +2768,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 135066,
       "name": "Glue Song (feat. Clairo)",
       "url": "https://open.spotify.com/track/0tMMPZEt6Gyrl9FI8zSicm"
@@ -3244,6 +3298,24 @@
       "duration_ms": 301506,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/0v3lkM0UK7RfbtdkeycqdI"
+    },
+    {
+      "album": {
+        "name": "Holes",
+        "url": "https://open.spotify.com/album/1AAJoXqYgInrxXjoRCK4Uh"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238890,
+      "name": "Holes",
+      "url": "https://open.spotify.com/track/0B6v7ZT2yrqYaCQb6OP5Gn"
     },
     {
       "album": {
@@ -4074,6 +4146,24 @@
       "duration_ms": 252657,
       "name": "Innocence and Sadness",
       "url": "https://open.spotify.com/track/1oZqKv594G6ojGvDhEFsDw"
+    },
+    {
+      "album": {
+        "name": "Part I \u2013 When Everything Was Lost",
+        "url": "https://open.spotify.com/album/47O3IGWPznhWBKQfs9yKz2"
+      },
+      "artists": [
+        {
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191450,
+      "name": "Inside My Chest",
+      "url": "https://open.spotify.com/track/7aW3ig8WrV4ynt1xiAua2l"
     },
     {
       "album": {
@@ -5196,7 +5286,7 @@
       ],
       "date_added": "2023-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 225253,
       "name": "motion of the moon",
       "url": "https://open.spotify.com/track/1d7jH0Tkrw6hqHlBCN6jvg"
@@ -5442,7 +5532,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 150348,
       "name": "nice 2 me - acoustic",
       "url": "https://open.spotify.com/track/5ygX6eMmxTrjG7I8zgNe86"
@@ -5828,7 +5918,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 167675,
       "name": "paper",
       "url": "https://open.spotify.com/track/0r3sjyiC4jE179QJHG9geQ"
@@ -6568,7 +6658,7 @@
       ],
       "date_added": "2023-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 170666,
       "name": "Save Me (From Myself) - Acoustic",
       "url": "https://open.spotify.com/track/6kQPKx4DAlDKfPFdGjXY3d"
@@ -7344,7 +7434,7 @@
       ],
       "date_added": "2023-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 231892,
       "name": "superglue (stripped)",
       "url": "https://open.spotify.com/track/1JkFZhU00Ztdv1c4GvzrP2"
@@ -7724,6 +7814,24 @@
       "duration_ms": 180000,
       "name": "THE SUN & THE SEA (feat. Donovan Woods)",
       "url": "https://open.spotify.com/track/0gQEH2kiQT4d95wWfkzSJh"
+    },
+    {
+      "album": {
+        "name": "the way things go",
+        "url": "https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187800,
+      "name": "the way things go",
+      "url": "https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv"
     },
     {
       "album": {
@@ -8538,6 +8646,28 @@
       "duration_ms": 216866,
       "name": "when love leaves",
       "url": "https://open.spotify.com/track/0eXdYY3YVP8IsbG9ic6JMP"
+    },
+    {
+      "album": {
+        "name": "Look Now",
+        "url": "https://open.spotify.com/album/3xlR9r8agdyf0JJ8kf3R9t"
+      },
+      "artists": [
+        {
+          "name": "Oscar Lang",
+          "url": "https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn"
+        },
+        {
+          "name": "Molly Payton",
+          "url": "https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303093,
+      "name": "When You Were A Child",
+      "url": "https://open.spotify.com/track/2zTaWaQSwBGjb0phVwL9Uw"
     },
     {
       "album": {

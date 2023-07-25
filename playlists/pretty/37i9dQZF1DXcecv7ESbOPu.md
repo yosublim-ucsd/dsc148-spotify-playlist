@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag! Lyssna på veckans hetaste nya releaser i New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,821 likes - 108 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,822 likes - 108 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 107 | [Du är så \(Yeah Yeah, Wow Wow\)](https://open.spotify.com/track/5r06qiAZOmiFKgnOdmLhlw) | [Ferdinand](https://open.spotify.com/artist/1DIiXNFlKuRBQMKIrvwuha) | [Du är så \(Yeah Yeah, Wow Wow\)](https://open.spotify.com/album/1V5HnuTNGrTBplDFxaGAhK) | 2:48 |
 | 108 | [3:ans spårvagn genom ljuva livet \- Kolingsborg, Stockholm 14 september 1983](https://open.spotify.com/track/1yrvXyNCrT6ZiYXppY0nbT) | [Eldkvarn](https://open.spotify.com/artist/6TLywjDgcz3M1rTrX7ht5k) | [Tillbaks i stan](https://open.spotify.com/album/6JzJCS6lZt6Nso4zj0RYD7) | 3:33 |
 
-Snapshot ID: `MCw0ZmYxMzM1ZDgwYzc5NmM0OTY1NTgxNmM4MjQ1OTY5NzFmNzM4NzNm`
+Snapshot ID: `MCxlNDc2MWJhYjQzNjI1MTJkZjkwYzlhMTFkYjNlMzNjMDljZGJiYThj`

@@ -4,7 +4,7 @@
 
 > Brazilian Phonk FOCUS ON YOU!  crdrecordsofficial@gmail.com This account is not associated with any social media account!
 
-250 songs - 11 hr 5 min
+252 songs - 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Call Me](https://open.spotify.com/track/4iqtDvbICWuBERMTz9cz41) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Call Me](https://open.spotify.com/album/2NlSt0ZVPsx3dblkIoamuo) | 2:19 | 2023-06-12 | 2023-06-26 |
 | [Call Me \- Slowed](https://open.spotify.com/track/5t1i75ExuS97cGtrbXoQnQ) | [plenka](https://open.spotify.com/artist/6yjz9vY01vOQUcFIAEYVQ0) | [Call Me \(Slowed\)](https://open.spotify.com/album/0CyXyiYB0DGkfVDy0t2pSN) | 2:40 | 2023-06-12 |  |
 | [Casualties](https://open.spotify.com/track/3j7X2wLlmTpM6xaY2kplUA) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Casualties](https://open.spotify.com/album/1ZlJVi4isUQZH65pD7ryVd) | 2:03 | 2023-06-12 |  |
+| [CATACLYSM](https://open.spotify.com/track/0rDoIX84nNoFgYwJOY1rem) | [bckrøøm$](https://open.spotify.com/artist/5umOc7U00gyTlobZXuQe0o), [Ploragé](https://open.spotify.com/artist/0h9fLPM2Nz1ZShCD6IHa7w) | [CATACLYSM](https://open.spotify.com/album/2V1LeQpf1yWZmP0jx921fI) | 1:30 | 2023-07-24 |  |
 | [Champione](https://open.spotify.com/track/15vyWTQp2jXmsK5AAfTd78) | [A!MS](https://open.spotify.com/artist/4kRfa7RBzBu7mxeWo3FkOe), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y), [Ramz](https://open.spotify.com/artist/6ywXRaHY7m2DJ0dd7CsLAB) | [Champione](https://open.spotify.com/album/50lpPl3PK2P5Nq3qwNQdU7) | 3:19 | 2023-06-12 |  |
 | [Classicore](https://open.spotify.com/track/2ppnnVPKPAnFQ5fW3aQIpA) | [Romantekker](https://open.spotify.com/artist/6D5xS19kvP9v5ZbrviJEFr) | [Classicore](https://open.spotify.com/album/286hhJXW53YZ0ucrec4qnM) | 4:49 | 2023-06-12 | 2023-06-19 |
 | [Close Eyes](https://open.spotify.com/track/3CLSHJv5aUROAN2vfOyCOh) | [DVRST](https://open.spotify.com/artist/0XFgyr4jwM0MGeZZW0VzA5) | [Close Eyes](https://open.spotify.com/album/3G0b8ob9anYQl8a1t3GpOF) | 2:12 | 2023-06-12 |  |
@@ -97,7 +98,7 @@
 | [Hit They Block](https://open.spotify.com/track/7fAzFEtjInkP8l2PZa4t2M) | [Onsight Deeda](https://open.spotify.com/artist/3T6NFoNsKDpm22Ve9YsdAO) | [Hit They Block](https://open.spotify.com/album/4iOnDGQpZLEx78o18yIkE2) | 4:04 | 2023-06-12 |  |
 | [HOLLOW!](https://open.spotify.com/track/3Xoev7ljloR0PYQu5FlzHz) | [fkbambam](https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6), [6YNTHMANE](https://open.spotify.com/artist/24YUNOEuu3kf4OOtC8cQE5) | [HOLLOW!](https://open.spotify.com/album/6cSgx3g5fRwAx6MaAYp4Oz) | 1:37 | 2023-07-19 |  |
 | [How It Goes](https://open.spotify.com/track/6ztUQKIOgoW2OJcJB5cApI) | [Sean Movez](https://open.spotify.com/artist/2N1W77ClLlCh3GtEwN3wrw) | [How It Goes](https://open.spotify.com/album/4KO7P5KriiKG9NxEvNetyU) | 2:09 | 2023-07-09 |  |
-| [HYSTERICAL](https://open.spotify.com/track/6aHr2pS02pja61XXgHXyG1) | [LILAAX](https://open.spotify.com/artist/3mKJdXTKRUXdNj8f8GrsLz), [$wedPR0D](https://open.spotify.com/artist/4zbnM40l9xbOXRUlJWBgJ1) | [HYSTERICAL](https://open.spotify.com/album/3xiGbfnRgggZopEiWWX5tH) | 2:17 | 2023-07-19 |  |
+| [HYSTERICAL](https://open.spotify.com/track/6aHr2pS02pja61XXgHXyG1) | [LILAAX](https://open.spotify.com/artist/3mKJdXTKRUXdNj8f8GrsLz), [$wedPR0D](https://open.spotify.com/artist/4zbnM40l9xbOXRUlJWBgJ1) | [HYSTERICAL](https://open.spotify.com/album/3xiGbfnRgggZopEiWWX5tH) | 2:17 | 2023-07-19 | 2023-07-25 |
 | [i love techno](https://open.spotify.com/track/5QaUJb1TT12DtUWc7TyKq7) | [Kiraw](https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4) | [i love techno](https://open.spotify.com/album/62nDfCUYCcRXB0vZNlyJ1f) | 1:38 | 2023-06-18 | 2023-07-21 |
 | [IMMACULATE](https://open.spotify.com/track/5Txeau6Fi96zS4THXUJ4w7) | [VISXGE](https://open.spotify.com/artist/6kLsCQ1gKvJmjmC8XbfqFE) | [IMMACULATE](https://open.spotify.com/album/4dWpLZBzW0M5FG3H3nbtTt) | 2:20 | 2023-06-12 |  |
 | [in here but not of here \- Sped Up](https://open.spotify.com/track/0Xs8xtisJB1eUNiQ5anaLa) | [Alex Galli](https://open.spotify.com/artist/7E5VvoxYlaeHeEphQXtpHR) | [in here but not of here \(Sped Up\)](https://open.spotify.com/album/1MkHqIUkK4AohTCnSD1BJT) | 3:11 | 2023-06-22 | 2023-07-11 |
@@ -132,6 +133,7 @@
 | [MAD!](https://open.spotify.com/track/0CGLVrRC9afMSY0Qai1wgv) | [KNØTTZ](https://open.spotify.com/artist/2GnZjutUSbk3z6P4b5yO1v), [tønejustdied](https://open.spotify.com/artist/5QlahVwsgQNtftpHbMr6eG) | [MAD!](https://open.spotify.com/album/4F9JN2oJg180Q0boWbCPnc) | 2:03 | 2023-06-12 |  |
 | [Make Me Dance](https://open.spotify.com/track/74EhA3zRrETjYVwF1Bk7fv) | [Florian Picasso](https://open.spotify.com/artist/4GWqzTTt2uA9Ms6HfUhWUn) | [Make Me Dance](https://open.spotify.com/album/7rtujDA0jiEoaKDu0jLera) | 2:58 | 2023-06-12 | 2023-07-03 |
 | [Makeba \(Tiktok Remix\)](https://open.spotify.com/track/2xE5tQ9wMkN0KcsoNSEax7) | [Pier Tunes](https://open.spotify.com/artist/3dq7EAXgVfLhuBHQZ5sI9t) | [Makeba \(Tiktok Remix\)](https://open.spotify.com/album/76Fh7bWPrR2FvbfHoQ5Jyd) | 2:22 | 2023-06-25 | 2023-07-03 |
+| [Maniac](https://open.spotify.com/track/1vY1s5SzWlksdLEa5erp18) | [LAVANT](https://open.spotify.com/artist/3tLBrZPWCDnCMRVSvE6wFv) | [Maniac](https://open.spotify.com/album/5qSlUGhGA07AmizswfaCdw) | 2:23 | 2023-07-24 |  |
 | [Maniac](https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe) | [Michael Sembello](https://open.spotify.com/artist/771qBvjnXOH9Azr6lKy6FB) | [Flashdance \(Original Soundtrack From The Motion Picture\)](https://open.spotify.com/album/3R6Z3Hp8EMdhgkA5t89NiL) | 4:04 | 2023-06-12 |  |
 | [Mean Girls](https://open.spotify.com/track/6PwNI9GCU40m6MQaSzwqKk) | [1of1](https://open.spotify.com/artist/16xUu0jxpkJahfbALyUyEV), [dentist](https://open.spotify.com/artist/2JN4zH19furaqCqlOkVrPz) | [Mean Girls](https://open.spotify.com/album/7c2CNMqtnonrCPrVU1dw5F) | 1:23 | 2023-06-12 |  |
 | [Memories](https://open.spotify.com/track/0DLONDYlAigtIoOUvTfq9y) | [1of1](https://open.spotify.com/artist/16xUu0jxpkJahfbALyUyEV) | [Memories](https://open.spotify.com/album/7tTQxDT1EXX8jcQaF4EEDa) | 1:33 | 2023-06-12 |  |
@@ -146,7 +148,7 @@
 | [MTG \(MALDICAO ETERNA 1.0\)](https://open.spotify.com/track/3BkpvJpaE7LCrrCiusfhsj) | [Cupid Ruszo](https://open.spotify.com/artist/4ra8KaHMx0jp4rI5RICw3n) | [MTG \(MALDICAO ETERNA 1.0\)](https://open.spotify.com/album/6TQlpFMlpJgc7jw7cexz5R) | 2:17 | 2023-06-12 |  |
 | [MURDER FUNK](https://open.spotify.com/track/4k5JXi9LFYoYXSraIXiLCw) | [Kiraw](https://open.spotify.com/artist/3yAqBJSMpsseHSCtbJNlc4), [ICHIRO](https://open.spotify.com/artist/5MUljcWL3VylwkBxs9xw0p) | [MURDER FUNK](https://open.spotify.com/album/20c20ohwMuZ3vnQ7pecFmo) | 1:41 | 2023-07-20 |  |
 | [Murder In My Mind](https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind](https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y) | 2:25 | 2023-06-12 |  |
-| [MUSTANG](https://open.spotify.com/track/3lLDBAfGYx4ITHoXodltRn) | [DEAD HENDRIX](https://open.spotify.com/artist/4ZyGFfi6pXvtdvAHGG3hAH), [Yungcudii](https://open.spotify.com/artist/3mwtOvDz72R7r20IB3XuFN) | [MUSTANG](https://open.spotify.com/album/1t4puCS44u3PzXhH6wDo7u) | 3:30 | 2023-06-25 |  |
+| [MUSTANG](https://open.spotify.com/track/3lLDBAfGYx4ITHoXodltRn) | [DEAD HENDRIX](https://open.spotify.com/artist/4ZyGFfi6pXvtdvAHGG3hAH), [Yungcudii](https://open.spotify.com/artist/3mwtOvDz72R7r20IB3XuFN) | [MUSTANG](https://open.spotify.com/album/1t4puCS44u3PzXhH6wDo7u) | 3:30 | 2023-06-25 | 2023-07-25 |
 | [Mwanza](https://open.spotify.com/track/7lN6y4bRh5rx9OisjyDxgG) | [Duet Duet](https://open.spotify.com/artist/2oX9kFy8LAmOsDwBHG3xVi), [Sebastian Alm](https://open.spotify.com/artist/4mM5TuFqtIVOqCSemHP21x) | [Mwanza](https://open.spotify.com/album/70MLGaHhqdMIwSvEw3LU12) | 5:37 | 2023-06-12 | 2023-07-06 |
 | [My Time](https://open.spotify.com/track/4VlFjMNQgctMjKOHqQaYxV) | [Master Yeti](https://open.spotify.com/artist/1xR2S5GSN26FYw6KuytiGU) | [My Time](https://open.spotify.com/album/3dGDZR5Xw4Pi7dadkxdIUc) | 2:28 | 2023-06-12 |  |
 | [NEON BLADE](https://open.spotify.com/track/56aUyjq8nTiqcfPD5qBLfm) | [MoonDeity](https://open.spotify.com/artist/5ja9cfKWW8Zj9aloyK8WuY) | [NEON BLADE](https://open.spotify.com/album/2gVcJD2rhO3LY71roEl0iE) | 4:25 | 2023-06-12 |  |

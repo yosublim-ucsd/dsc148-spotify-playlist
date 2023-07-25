@@ -1,12 +1,12 @@
 {
   "description": "Listen to women at full volume. Cover:  <a href=\u201cspotify:artist:1YRqgFNXqRyMDRr8ClS1NL\u201d>Kaliii</a> ",
-  "num_followers": 40707,
+  "num_followers": 40713,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZjgwNTBjYTUxZjgwNGRjM2FlYjczY2M5NDM0YjI5YzczNjhlZTk4",
+  "snapshot_id": "MCxhYmJjNjVjNTcxYTFjZmI3MjU2YjQ3ZGVlZmUxM2ZlYTk1ZWM5MzEy",
   "tracks": [
     {
       "added_at": "2023-07-21 04:01:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-07-05 04:00:00",
       "album": {
-        "name": "But Not Kiss",
-        "url": "https://open.spotify.com/album/0KeY6QJLo4UfpR3jNSZPwh"
-      },
-      "artists": [
-        {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
-        }
-      ],
-      "duration_ms": 222555,
-      "name": "But Not Kiss",
-      "url": "https://open.spotify.com/track/0UaqZbfeKuOdPxkyK7782l"
-    },
-    {
-      "added_at": "2023-07-05 04:00:00",
-      "album": {
         "name": "Like Dat",
         "url": "https://open.spotify.com/album/3vUjwG73H1QBNs3W3HuyNn"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 165669,
       "name": "Like Dat",
       "url": "https://open.spotify.com/track/0Jpy3D9eHScoriQ8VJaJN8"
+    },
+    {
+      "added_at": "2023-07-05 04:00:00",
+      "album": {
+        "name": "But Not Kiss",
+        "url": "https://open.spotify.com/album/0KeY6QJLo4UfpR3jNSZPwh"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 222555,
+      "name": "But Not Kiss",
+      "url": "https://open.spotify.com/track/0UaqZbfeKuOdPxkyK7782l"
     },
     {
       "added_at": "2023-07-05 04:00:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2023-07-05 04:00:00",
       "album": {
+        "name": "Ascension",
+        "url": "https://open.spotify.com/album/4gh5Xrt4Azk5lCyHanoED1"
+      },
+      "artists": [
+        {
+          "name": "Sarah Kinsley",
+          "url": "https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC"
+        }
+      ],
+      "duration_ms": 222656,
+      "name": "Black Horse",
+      "url": "https://open.spotify.com/track/5FF1oWxyDdSLEmqi4pp5mv"
+    },
+    {
+      "added_at": "2023-07-05 04:00:00",
+      "album": {
         "name": "Janet",
         "url": "https://open.spotify.com/album/4ZVtzeaYdozUchuelYDo80"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 115764,
       "name": "Janet",
       "url": "https://open.spotify.com/track/4TlIIHzB3LgHmrPofscKtv"
-    },
-    {
-      "added_at": "2023-07-05 04:00:00",
-      "album": {
-        "name": "shy girl",
-        "url": "https://open.spotify.com/album/3A99FyN9ydpMhAaFkn2Vac"
-      },
-      "artists": [
-        {
-          "name": "wilo wilde",
-          "url": "https://open.spotify.com/artist/1u8WMRSaZzgqRia2uU5uJc"
-        }
-      ],
-      "duration_ms": 156551,
-      "name": "shy girl",
-      "url": "https://open.spotify.com/track/1BIzfT74hOzKieuBjk7jKf"
     }
   ],
   "unique_name": "EQUAL US",

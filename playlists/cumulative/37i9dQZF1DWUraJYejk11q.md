@@ -4,7 +4,7 @@
 
 > Instrumental bliss beyond genre classification.
 
-232 songs - 18 hr 29 min
+233 songs - 18 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Bodies Of Water](https://open.spotify.com/track/5649TeZnAjSa6ENwPKG6h8) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [Baby, We're Ascending](https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48) | 5:04 | 2022-02-25 | 2022-08-25 |
 | [Brick Figures](https://open.spotify.com/track/72eT0Fpa5QBbzvteNIK1aE) | [TNGHT](https://open.spotify.com/artist/40jiZfvsiAi1aIarh5Z3d3), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb), [Lunice](https://open.spotify.com/artist/5I0593TTVPzkanWW8xsTns) | [Brick Figures](https://open.spotify.com/album/49dWT6BEhoLm7QIiNWxCIA) | 3:00 | 2022-01-21 | 2022-03-18 |
 | [BUD](https://open.spotify.com/track/61PfhJNup3uF1msSd1US69) | [Mark Guiliana](https://open.spotify.com/artist/798TUNb6IfpsZzMkkzVGu1) | [BUD](https://open.spotify.com/album/62E3FuXeBjp5e8bfvRf4xT) | 3:56 | 2021-10-15 | 2022-01-22 |
+| [Butterfly Effect](https://open.spotify.com/track/6pVzSO33n03YNefcafgvzA) | [Forest Swords](https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP) | [Butterfly Effect](https://open.spotify.com/album/2vRxyC0FDfmCSc3Xh6c06p) | 3:31 | 2023-07-24 |  |
 | [C.A.](https://open.spotify.com/track/0Ep1pV0KhVvSof5eGN8803) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [C.A.](https://open.spotify.com/album/5UguzHZtztr352RQ9froFT) | 3:06 | 2022-09-21 | 2023-02-02 |
 | [C.A.](https://open.spotify.com/track/13aqTF1q4504gb1WxzDZ1k) | [Plaid](https://open.spotify.com/artist/5akVqMzdZOdbMYbE4vNZWD) | [Feorm Falorx](https://open.spotify.com/album/6gSz7SaYTBVaAORAO6j0ME) | 3:06 | 2022-09-21 |  |
 | [Canone Infinito](https://open.spotify.com/track/1KRNinMZ37zFITv0i1nqOR) | [Lorenzo Senni](https://open.spotify.com/artist/7mKwhB3UiepqzM946jBOyi) | [Canone Infinito](https://open.spotify.com/album/6tbfwIkDEdGOURCQ2vMvYC) | 4:59 | 2021-10-15 | 2022-02-10 |
@@ -176,7 +177,7 @@
 | [See The Stars](https://open.spotify.com/track/4Wd3WrBPJrNVLlszaIT6T1) | [Nolan](https://open.spotify.com/artist/1TtKsd7XZu2JFQtDiZQiFm), [Luke Brancaccio](https://open.spotify.com/artist/1Wtioib1IFtGZHOJEZCwqr) | [See The Stars](https://open.spotify.com/album/3MbrBZmGJwpbXp9TjoKwYo) | 4:41 | 2022-01-13 | 2022-05-14 |
 | [SEQUENCE](https://open.spotify.com/track/3352NJ15FsCKvBfKKpUEyz) | [Slikback](https://open.spotify.com/artist/0NwRAG9DawUqqgur9925fA) | [22122](https://open.spotify.com/album/0mEMOUGU3MA2epy6Xk38Ai) | 2:39 | 2022-05-12 | 2022-07-16 |
 | [Serenity](https://open.spotify.com/track/6isKSUpCXSpVLIPT0HMtny) | [Emerald Lake](https://open.spotify.com/artist/4fQ7G9vwE2mfl62bZ9NPaf) | [Serenity](https://open.spotify.com/album/6jenbIXaHvG7jPCfMTpLS6) | 3:12 | 2021-10-15 | 2022-01-13 |
-| [Shallots](https://open.spotify.com/track/3un8NWwFpSvbN0m0JZ29da) | [Frequent](https://open.spotify.com/artist/71Q5SkUpc26h0swrRjrGEc) | [Shallots](https://open.spotify.com/album/1rKFlOuwvqORkzO0tQiyPw) | 3:41 | 2022-08-03 |  |
+| [Shallots](https://open.spotify.com/track/3un8NWwFpSvbN0m0JZ29da) | [Frequent](https://open.spotify.com/artist/71Q5SkUpc26h0swrRjrGEc) | [Shallots](https://open.spotify.com/album/1rKFlOuwvqORkzO0tQiyPw) | 3:41 | 2022-08-03 | 2023-07-25 |
 | [Silent Talking \- French II Remix](https://open.spotify.com/track/3aPEt4Efx0NYzhbSXtX4LD) | [Bing](https://open.spotify.com/artist/000KH5miITrYDL3ZmYxtIL), [French II](https://open.spotify.com/artist/6ipkiHnGXAsGSRlG5RPkjt) | [Silent Talking / White Divide](https://open.spotify.com/album/778S6sqUwLWkAfBJn6RFwm) | 4:44 | 2022-01-13 | 2022-07-16 |
 | [Sip It](https://open.spotify.com/track/1luiFY5znojT6YoJrn5HIb) | [SFV Acid](https://open.spotify.com/artist/6n6FVIstoz4bEZSPYB3YEi) | [Firezone](https://open.spotify.com/album/65uFN8GiouuRmMghukyEoX) | 4:17 | 2021-10-15 | 2022-01-14 |
 | [Siren](https://open.spotify.com/track/5umBsHgpB2WsRA9ccQZGdz) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Siren](https://open.spotify.com/album/0IUYJNrMt8Eny3zaKeEAc2) | 6:22 | 2021-10-15 | 2022-01-20 |

@@ -4,7 +4,7 @@
 
 > Soothing, soft piano.
 
-231 songs - 12 hr 30 min
+232 songs - 12 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [A Minor Story](https://open.spotify.com/track/5qzjSDe4bFCyAjihgWJd7B) | [Pieter de Graaf](https://open.spotify.com/artist/387mxb1p13O8OdJ6r8pc2q) | [A Minor Story](https://open.spotify.com/album/3YrJOh8Zfv2EQ8bzglcf7T) | 3:41 | 2019-04-17 | 2022-02-05 |
 | [A New Error](https://open.spotify.com/track/5wakd1HmmslRhTcQMee8Mw) | [Gernot Bronsert](https://open.spotify.com/artist/2gq9VADddWF3qZFFJadHfY), [Sascha Ring](https://open.spotify.com/artist/26phCDSGUjMBbiPN7eKK07), [Sebastian Szary](https://open.spotify.com/artist/5QeCFZV3VxAFFd4iIhc7Nj), [Kai Schumacher](https://open.spotify.com/artist/1eLXOYXUMsXM6BSDibcJ7A) | [A New Error](https://open.spotify.com/album/7AgYNfVtMdO6Bt1qV7LqIi) | 6:49 | 2019-04-17 | 2022-02-05 |
 | [A Place To Hide](https://open.spotify.com/track/0eMa3P0kQJjYqguUgKFt4y) | [Boil The Ocean](https://open.spotify.com/artist/2I5UjNu4WPindIoyWAPnXI) | [A Place To Hide](https://open.spotify.com/album/0MaWkUPlnRLcS7U5oXYp4F) | 2:27 | 2023-07-05 |  |
+| [A tale to tell](https://open.spotify.com/track/1b1A6Z7pI8myEX3TSyweOk) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [A tale to tell](https://open.spotify.com/album/0eaPaXCdf4G33QFO93cfXc) | 2:10 | 2023-07-24 |  |
 | [A Time of Wonder](https://open.spotify.com/track/2SiUDrcdc9iewegA0TmH6s) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [The Piano Whisperer](https://open.spotify.com/album/6YY3fbUoQYSacQglLohdQU) | 2:49 | 2019-04-17 | 2022-02-05 |
 | [Ab major](https://open.spotify.com/track/1przLCFos6gvm8wlIZTmjd) | [Matteo Myderwyk](https://open.spotify.com/artist/5fNGQT58pOykJbZQVDx3R6) | [Ab major](https://open.spotify.com/album/2Xwqla1QZYYZsVuNu7Gif1) | 3:26 | 2019-04-17 | 2022-02-05 |
 | [Ab Ovo](https://open.spotify.com/track/1G0gPuaIFKB8Ua6mFUh2pu) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Ab Ovo](https://open.spotify.com/album/2Zg3YIxgAy5hnEvuy3LThJ) | 4:48 | 2019-04-17 | 2022-06-12 |
@@ -118,7 +119,7 @@
 | [Innocence \- From "Free The Mind" Soundtrack](https://open.spotify.com/track/3zxT39EqRCqelkW905AsCA) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [The Mercy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6DV6e43XHzDFXctbjmZ8bT) | 1:10 | 2019-04-17 | 2022-02-05 |
 | [Late](https://open.spotify.com/track/6wfm9juwwokarp3HiI1tg2) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Old Friends New Friends](https://open.spotify.com/album/1Urrycrm9pFy2F3xSoQ3fj) | 3:18 | 2022-02-04 |  |
 | [Lately \(Interlude\)](https://open.spotify.com/track/3mZg4qv8X55kolcHiQw2hy) | [City Fidelia](https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB) | [FreeDumb](https://open.spotify.com/album/3DgKFCcChPWJrDACBf9Wi4) | 0:56 | 2019-04-17 | 2022-02-05 |
-| [Lawson: Rain](https://open.spotify.com/track/0Kjk0SINNnInVhaSe0xedc) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [You Finally Knew](https://open.spotify.com/album/7asD3WvGakevPFYg89jh9K) | 3:23 | 2022-02-04 |  |
+| [Lawson: Rain](https://open.spotify.com/track/0Kjk0SINNnInVhaSe0xedc) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [You Finally Knew](https://open.spotify.com/album/7asD3WvGakevPFYg89jh9K) | 3:23 | 2022-02-04 | 2023-07-25 |
 | [Le Jardin de Monsieur Monet](https://open.spotify.com/track/3uzaVkdNuUZOn3KtsQjwDy) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Lionheart](https://open.spotify.com/album/3O26r0jhu5oE0ITWbQJdnX) | 5:13 | 2022-02-04 |  |
 | [Leaves and Light](https://open.spotify.com/track/4mMUP5bUF4hHT3NKYU3cBC) | [Itoko Toma](https://open.spotify.com/artist/3HvDJH01baTm3p6Wcqh7x7) | [The Window](https://open.spotify.com/album/2nTATeum0AwsxHcBwMDSqu) | 2:20 | 2022-02-04 |  |
 | [Leo Minor](https://open.spotify.com/track/4PTSguUQ2hpeglvpBNn1qd) | [Evening Tales from the Stars](https://open.spotify.com/artist/4VftS6I87aCiaNvLRYhgBM) | [Leo Minor](https://open.spotify.com/album/4hqu9hDEGMbXCQKC8Znlyh) | 2:19 | 2022-03-18 | 2023-02-10 |

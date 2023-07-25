@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Nieuwe Nederlandstalige hits vind je hier! Cover: Tabitha & Jonna Fraser
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,759 likes - 90 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,807 likes - 90 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hou Me Los Van Dichtbij](https://open.spotify.com/track/7bG8a7JbcBftmxVtFMyz9Y) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Hou Me Los Van Dichtbij](https://open.spotify.com/album/58WgPfVCz1tOCJ4DTcwVKA) | 2:34 |
 | 2 | [Hypnose](https://open.spotify.com/track/4qghq0qfx432ZSTF7DhUPT) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Hypnose](https://open.spotify.com/album/3SyrnhZBklWC6wMamSxfQF) | 2:32 |
-| 3 | [Als Ik Haar Was](https://open.spotify.com/track/5IBW1Rni8F0CRSCuHQhVRr) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Echte Meisjes Huilen Niet \(Als Ik Haar Was\)](https://open.spotify.com/album/1p2rvLp5vQklvWRDttx17I) | 2:45 |
+| 3 | [Als Ik Haar Was](https://open.spotify.com/track/0mOdv3w3W9ZkAsTmlJ3rUs) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Echte Meisjes Huilen Niet](https://open.spotify.com/album/2RcaeG5ATd0CwPLNcYuTMx) | 2:45 |
 | 4 | [OVERSCHAT](https://open.spotify.com/track/4kwQiaBoC8lRtOAtoegKto) | [TIJN](https://open.spotify.com/artist/13cnCFcBgn9RdB5k0Skoc4) | [OVERSCHAT](https://open.spotify.com/album/0n2GLPc0fgHPKkVtib3PVx) | 2:32 |
 | 5 | [Droom Het Donker Weg \(feat\. MEAU\)](https://open.spotify.com/track/7mYoKmUoppdfr51cIYdR1l) | [Pommelien Thijs](https://open.spotify.com/artist/3zGV7t4BDmYZBLVA24487b), [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Per Ongeluk](https://open.spotify.com/album/4e4ksXE7OauJdBlmebPHJJ) | 2:54 |
 | 6 | [Het Heeft Zo Moeten Zijn](https://open.spotify.com/track/2vEIeP2yzMbijx7o27YT39) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Het Heeft Zo Moeten Zijn](https://open.spotify.com/album/3Zm4rS2BrqDniIQxHWy8kE) | 3:42 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 89 | [Trouw Met Mij](https://open.spotify.com/track/5Afbp36L9C3MhUh8zapTyH) | [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Trouw Met Mij](https://open.spotify.com/album/3DxQ6vASImCivW7rAc8AAJ) | 3:17 |
 | 90 | [Ze Redt Zich Wel](https://open.spotify.com/track/7HD3Hz5p3ZIoCRVLxzVuMi) | [Maya Shanti](https://open.spotify.com/artist/5AbFun8ItgssbcfrKqCeWn) | [Ze Redt Zich Wel](https://open.spotify.com/album/14SgT1lfqsH40QuxFSvwuy) | 2:26 |
 
-Snapshot ID: `MCxkYjE2NGZjMjkxMzJmNWQ0NzkwYTQxM2Q2N2VmM2M0MWY1MDdjMDQz`
+Snapshot ID: `MCxkNTJiOWQxZjJlYjgyZWY3ZWNhNWRmZmM0YzUwMmIwMTlhNzcxMzBm`

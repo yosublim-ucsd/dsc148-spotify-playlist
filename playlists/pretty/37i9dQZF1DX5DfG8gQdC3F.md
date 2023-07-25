@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Travis Scott, Bad Bunny & The Weeknd, Diplo, ZAYN and Smiley.
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,248 likes - 99 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,266 likes - 99 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 98 | [fetišh](https://open.spotify.com/track/2wsO7krbelmisvhff6Y3WW) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [KLEPTO](https://open.spotify.com/album/7ojW1z49CULkNISvs2dEzT) | 2:13 |
 | 99 | [DOPAMINE](https://open.spotify.com/track/5zn72oZUR8Ldi1pRF1fVUe) | [Mute Choir](https://open.spotify.com/artist/3gpigA0gozgJpoFVyhVUPu) | [DOPAMINE](https://open.spotify.com/album/3LVXGFy9HeSFsRl9iLp3PQ) | 2:47 |
 
-Snapshot ID: `MCw5MjMyOGNlZWZlOGI4MmIwNmY4MjcyMGJhODY3OWM4ODg5MDRjNjRl`
+Snapshot ID: `MCxiOTdhMmNiZDNiMGYzNjZmNzA3NGU1YWY1ZjMxNTQwOTI0ZmVlNGNi`

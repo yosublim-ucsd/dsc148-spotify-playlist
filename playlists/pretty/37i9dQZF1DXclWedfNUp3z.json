@@ -1,12 +1,12 @@
 {
   "description": "Mellow vibrations for green leaves, green thumbs and green ears.",
-  "num_followers": 182947,
+  "num_followers": 183046,
   "original_name": "Music for Plants",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZWMzZWQxMTRlZWM0YTNkM2NiNTBjMjBiN2E3ZDZiMjkzODQ4YWNh",
+  "snapshot_id": "MCw4MDRmZjdlY2IxYzIzZjA4MDQ1YzUzZTJkMTE1MzY2NzBmM2Q4NDQ1",
   "tracks": [
     {
       "added_at": "2021-10-20 17:59:21",
@@ -235,22 +235,18 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "ocean tales",
-        "url": "https://open.spotify.com/album/0ENr07q7h0vsydKinh36FM"
+        "name": "Six Songs for Invisible Gardens",
+        "url": "https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t"
       },
       "artists": [
         {
-          "name": "santpoort",
-          "url": "https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ"
-        },
-        {
-          "name": "Tennyson",
-          "url": "https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8"
+          "name": "Green-House",
+          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
         }
       ],
-      "duration_ms": 152901,
-      "name": "eons away",
-      "url": "https://open.spotify.com/track/3CMzipkTzyGP4g0YaEeuNd"
+      "duration_ms": 328000,
+      "name": "Soft Meadow",
+      "url": "https://open.spotify.com/track/4Xe5aArRgoUutgD8MP00Qs"
     },
     {
       "added_at": "2023-05-24 00:55:55",
@@ -271,18 +267,22 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "Six Songs for Invisible Gardens",
-        "url": "https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t"
+        "name": "ocean tales",
+        "url": "https://open.spotify.com/album/0ENr07q7h0vsydKinh36FM"
       },
       "artists": [
         {
-          "name": "Green-House",
-          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
+          "name": "santpoort",
+          "url": "https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ"
+        },
+        {
+          "name": "Tennyson",
+          "url": "https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8"
         }
       ],
-      "duration_ms": 328000,
-      "name": "Soft Meadow",
-      "url": "https://open.spotify.com/track/4Xe5aArRgoUutgD8MP00Qs"
+      "duration_ms": 152901,
+      "name": "eons away",
+      "url": "https://open.spotify.com/track/3CMzipkTzyGP4g0YaEeuNd"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -333,22 +333,6 @@
       "url": "https://open.spotify.com/track/0DuKfzPUyHNS92DuruNqpK"
     },
     {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
-        "name": "Meditations for Woods & Winds",
-        "url": "https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH"
-      },
-      "artists": [
-        {
-          "name": "Northern Lights",
-          "url": "https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny"
-        }
-      ],
-      "duration_ms": 172563,
-      "name": "Nature Calling",
-      "url": "https://open.spotify.com/track/3Wj156M6wtJeAC0DeIuy9h"
-    },
-    {
       "added_at": "2021-11-12 19:01:27",
       "album": {
         "name": "Music For Psychedelic Therapy",
@@ -367,6 +351,22 @@
       "duration_ms": 382773,
       "name": "Welcome",
       "url": "https://open.spotify.com/track/2Mt27qdkzzjwSQq2TbTRnN"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "Meditations for Woods & Winds",
+        "url": "https://open.spotify.com/album/6z79twbAshQfUTVxUW8oJH"
+      },
+      "artists": [
+        {
+          "name": "Northern Lights",
+          "url": "https://open.spotify.com/artist/0pJ7c6jclXmQmxW4Doz1Ny"
+        }
+      ],
+      "duration_ms": 172563,
+      "name": "Nature Calling",
+      "url": "https://open.spotify.com/track/3Wj156M6wtJeAC0DeIuy9h"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -615,22 +615,6 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "Greenhouse",
-        "url": "https://open.spotify.com/album/7jprQbnbFyOAJL64Jc7HmU"
-      },
-      "artists": [
-        {
-          "name": "Louie Zong",
-          "url": "https://open.spotify.com/artist/7jOY91ZU7kn86slH3fBbaD"
-        }
-      ],
-      "duration_ms": 114987,
-      "name": "Photosynesthesia",
-      "url": "https://open.spotify.com/track/0Re28d5ry1y6p7QV2KQB1z"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
         "name": "Because of a Flower",
         "url": "https://open.spotify.com/album/4JShepplFefZ43GXoE4bRd"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 421463,
       "name": "Suite Pour L'invisible",
       "url": "https://open.spotify.com/track/5JTRbD6x9nnYh3mrrK3kcR"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "Greenhouse",
+        "url": "https://open.spotify.com/album/7jprQbnbFyOAJL64Jc7HmU"
+      },
+      "artists": [
+        {
+          "name": "Louie Zong",
+          "url": "https://open.spotify.com/artist/7jOY91ZU7kn86slH3fBbaD"
+        }
+      ],
+      "duration_ms": 114987,
+      "name": "Photosynesthesia",
+      "url": "https://open.spotify.com/track/0Re28d5ry1y6p7QV2KQB1z"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -773,22 +773,6 @@
       "url": "https://open.spotify.com/track/3ci95cJaK7fYZN3o9YBTXf"
     },
     {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
-        "name": "Comme \u00e7a",
-        "url": "https://open.spotify.com/album/55YrEqkp3Qrnue9WXHXo8t"
-      },
-      "artists": [
-        {
-          "name": "Domenique Dumont",
-          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
-        }
-      ],
-      "duration_ms": 245418,
-      "name": "Le ch\u00e2teau de corail",
-      "url": "https://open.spotify.com/track/5JPlGsRGCUyFvWzAE0n7Ch"
-    },
-    {
       "added_at": "2021-12-07 05:45:16",
       "album": {
         "name": "Marshmallow",
@@ -803,6 +787,22 @@
       "duration_ms": 236253,
       "name": "Marshmallow",
       "url": "https://open.spotify.com/track/2kjXaoPGBh9nOIjzaRd2Fv"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "Comme \u00e7a",
+        "url": "https://open.spotify.com/album/55YrEqkp3Qrnue9WXHXo8t"
+      },
+      "artists": [
+        {
+          "name": "Domenique Dumont",
+          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
+        }
+      ],
+      "duration_ms": 245418,
+      "name": "Le ch\u00e2teau de corail",
+      "url": "https://open.spotify.com/track/5JPlGsRGCUyFvWzAE0n7Ch"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -891,6 +891,22 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
+        "name": "Late Spring",
+        "url": "https://open.spotify.com/album/2rQNhghqpXlCo76GE6a9Jy"
+      },
+      "artists": [
+        {
+          "name": "Chihei Hatakeyama",
+          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
+        }
+      ],
+      "duration_ms": 163426,
+      "name": "Breaking Dawn",
+      "url": "https://open.spotify.com/track/7axrDVwVVxAHolvnddXG71"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
         "name": "Ecom\u00fasica: Conversas de um Piano Com a Fauna Brasileira",
         "url": "https://open.spotify.com/album/40tSqhnInwzfSBMC75n3rM"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 368000,
       "name": "Woodland Encounter",
       "url": "https://open.spotify.com/track/2bH1jLEt4LFtgkNSuWYvyR"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
-        "name": "Late Spring",
-        "url": "https://open.spotify.com/album/2rQNhghqpXlCo76GE6a9Jy"
-      },
-      "artists": [
-        {
-          "name": "Chihei Hatakeyama",
-          "url": "https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg"
-        }
-      ],
-      "duration_ms": 163426,
-      "name": "Breaking Dawn",
-      "url": "https://open.spotify.com/track/7axrDVwVVxAHolvnddXG71"
     },
     {
       "added_at": "2022-08-02 14:51:09",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
+        "name": "In the Hidden Chambers of Caracol",
+        "url": "https://open.spotify.com/album/0oA7WnF8V6pOfpwbLrdvVi"
+      },
+      "artists": [
+        {
+          "name": "The Golden Islands",
+          "url": "https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf"
+        }
+      ],
+      "duration_ms": 175609,
+      "name": "In the Hidden Chambers of Caracol",
+      "url": "https://open.spotify.com/track/3UhZCLlkRcJB1rl8UTQLYH"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
         "name": "The Box Tree",
         "url": "https://open.spotify.com/album/0GLlwTGHxAZpOTPLMFFaCH"
       },
@@ -1079,34 +1095,18 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "In the Hidden Chambers of Caracol",
-        "url": "https://open.spotify.com/album/0oA7WnF8V6pOfpwbLrdvVi"
+        "name": "Gal\u00e1pagos (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/0TnVlRcyGLlnxPfhk9ov1A"
       },
       "artists": [
         {
-          "name": "The Golden Islands",
-          "url": "https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf"
+          "name": "Cosmo Sheldrake",
+          "url": "https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD"
         }
       ],
-      "duration_ms": 175609,
-      "name": "In the Hidden Chambers of Caracol",
-      "url": "https://open.spotify.com/track/3UhZCLlkRcJB1rl8UTQLYH"
-    },
-    {
-      "added_at": "2022-09-15 12:29:37",
-      "album": {
-        "name": "caso de estudio",
-        "url": "https://open.spotify.com/album/7k3qFMpJYBXVg4x634Aopp"
-      },
-      "artists": [
-        {
-          "name": "s e r \u00e9 n a t e",
-          "url": "https://open.spotify.com/artist/6Mrjj6yM6eFCKfQtHxzeUq"
-        }
-      ],
-      "duration_ms": 225822,
-      "name": "to all the plants i loved",
-      "url": "https://open.spotify.com/track/6lvQXM7GBbnuFMQwEIHCDX"
+      "duration_ms": 138773,
+      "name": "Seals",
+      "url": "https://open.spotify.com/track/0kLnVksfJso8EyfwctEVw4"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -1125,20 +1125,20 @@
       "url": "https://open.spotify.com/track/4Apw7hpz0mMcYeNhNZq3ml"
     },
     {
-      "added_at": "2021-10-20 17:59:21",
+      "added_at": "2022-09-15 12:29:37",
       "album": {
-        "name": "Gal\u00e1pagos (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/0TnVlRcyGLlnxPfhk9ov1A"
+        "name": "caso de estudio",
+        "url": "https://open.spotify.com/album/7k3qFMpJYBXVg4x634Aopp"
       },
       "artists": [
         {
-          "name": "Cosmo Sheldrake",
-          "url": "https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD"
+          "name": "s e r \u00e9 n a t e",
+          "url": "https://open.spotify.com/artist/6Mrjj6yM6eFCKfQtHxzeUq"
         }
       ],
-      "duration_ms": 138773,
-      "name": "Seals",
-      "url": "https://open.spotify.com/track/0kLnVksfJso8EyfwctEVw4"
+      "duration_ms": 225822,
+      "name": "to all the plants i loved",
+      "url": "https://open.spotify.com/track/6lvQXM7GBbnuFMQwEIHCDX"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -1205,6 +1205,22 @@
       "url": "https://open.spotify.com/track/2dziNfL0S9awABp30vNN08"
     },
     {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "Sleep Through the Storm",
+        "url": "https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7"
+      },
+      "artists": [
+        {
+          "name": "A Lily",
+          "url": "https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS"
+        }
+      ],
+      "duration_ms": 191413,
+      "name": "Kalimba Heart",
+      "url": "https://open.spotify.com/track/4UVYWa3Pq8pjm0bKw9uZ9u"
+    },
+    {
       "added_at": "2022-01-12 18:38:07",
       "album": {
         "name": "Hope!",
@@ -1227,18 +1243,18 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "Sleep Through the Storm",
-        "url": "https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7"
+        "name": "Six Songs for Invisible Gardens",
+        "url": "https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t"
       },
       "artists": [
         {
-          "name": "A Lily",
-          "url": "https://open.spotify.com/artist/1OugEGrHZi728PHbhwUSUS"
+          "name": "Green-House",
+          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
         }
       ],
-      "duration_ms": 191413,
-      "name": "Kalimba Heart",
-      "url": "https://open.spotify.com/track/4UVYWa3Pq8pjm0bKw9uZ9u"
+      "duration_ms": 163000,
+      "name": "Perennial Bloom",
+      "url": "https://open.spotify.com/track/3DA8rIHh0707C3pwsbbuwH"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -1255,22 +1271,6 @@
       "duration_ms": 180000,
       "name": "Circular Wave Forms.",
       "url": "https://open.spotify.com/track/7b6GiDnHmOC18lYhDCUJfj"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
-        "name": "Six Songs for Invisible Gardens",
-        "url": "https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t"
-      },
-      "artists": [
-        {
-          "name": "Green-House",
-          "url": "https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Perennial Bloom",
-      "url": "https://open.spotify.com/track/3DA8rIHh0707C3pwsbbuwH"
     },
     {
       "added_at": "2022-05-18 01:37:47",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "SVMMER SVN vol. 6",
-        "url": "https://open.spotify.com/album/2SmSHjiG0ri6sOSHUkhdWV"
-      },
-      "artists": [
-        {
-          "name": "John Looke",
-          "url": "https://open.spotify.com/artist/1QhkInKbE89KGSmit4gxS5"
-        }
-      ],
-      "duration_ms": 267027,
-      "name": "Redder Than The Moon",
-      "url": "https://open.spotify.com/track/0BBpFwknocf5z2ydAkTjDd"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
         "name": "blue moon",
         "url": "https://open.spotify.com/album/665irKdzu7aptrhBycT5NJ"
       },
@@ -1339,6 +1323,38 @@
       "duration_ms": 86292,
       "name": "conversations with grandma",
       "url": "https://open.spotify.com/track/5GgoR6lurqxLpfMjNOMUmG"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "Silver Ladders",
+        "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "duration_ms": 225934,
+      "name": "Silver Ladders",
+      "url": "https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "SVMMER SVN vol. 6",
+        "url": "https://open.spotify.com/album/2SmSHjiG0ri6sOSHUkhdWV"
+      },
+      "artists": [
+        {
+          "name": "John Looke",
+          "url": "https://open.spotify.com/artist/1QhkInKbE89KGSmit4gxS5"
+        }
+      ],
+      "duration_ms": 267027,
+      "name": "Redder Than The Moon",
+      "url": "https://open.spotify.com/track/0BBpFwknocf5z2ydAkTjDd"
     },
     {
       "added_at": "2022-03-30 02:54:54",
@@ -1363,22 +1379,6 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "Silver Ladders",
-        "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
-      },
-      "artists": [
-        {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
-        }
-      ],
-      "duration_ms": 225934,
-      "name": "Silver Ladders",
-      "url": "https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
         "name": "Tantra Loom",
         "url": "https://open.spotify.com/album/3MjKf7c5JLNMQIj2XTDOGa"
       },
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2021-10-20 17:59:21",
       "album": {
-        "name": "Sova",
-        "url": "https://open.spotify.com/album/4m2xqgJlpPXgWwaz9NNBRY"
-      },
-      "artists": [
-        {
-          "name": "Guustavv",
-          "url": "https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX"
-        }
-      ],
-      "duration_ms": 132958,
-      "name": "Yawn Machine",
-      "url": "https://open.spotify.com/track/3wXAeVIUbRF9pReSBdgpkE"
-    },
-    {
-      "added_at": "2021-10-20 17:59:21",
-      "album": {
         "name": "Green",
         "url": "https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 319666,
       "name": "SHEEP",
       "url": "https://open.spotify.com/track/5GCfrtUTMag66ZXcyBUwcd"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "Sova",
+        "url": "https://open.spotify.com/album/4m2xqgJlpPXgWwaz9NNBRY"
+      },
+      "artists": [
+        {
+          "name": "Guustavv",
+          "url": "https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX"
+        }
+      ],
+      "duration_ms": 132958,
+      "name": "Yawn Machine",
+      "url": "https://open.spotify.com/track/3wXAeVIUbRF9pReSBdgpkE"
     },
     {
       "added_at": "2021-10-20 17:59:21",
@@ -1653,22 +1653,6 @@
       "url": "https://open.spotify.com/track/7CuqddnG0PqziRanIm6WrQ"
     },
     {
-      "added_at": "2022-09-30 02:46:10",
-      "album": {
-        "name": "Music For Growing Flowers",
-        "url": "https://open.spotify.com/album/15xCuPMi8UqL86dH6FCykt"
-      },
-      "artists": [
-        {
-          "name": "Erland Cooper",
-          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
-        }
-      ],
-      "duration_ms": 368703,
-      "name": "Music For Growing Flowers - Edit",
-      "url": "https://open.spotify.com/track/0lcI9iucqPdKXa7AL48zaN"
-    },
-    {
       "added_at": "2021-10-20 17:59:21",
       "album": {
         "name": "Nocturnal",
@@ -1683,6 +1667,22 @@
       "duration_ms": 168490,
       "name": "V.",
       "url": "https://open.spotify.com/track/3dNY6woOGqmjAGYWCxutOw"
+    },
+    {
+      "added_at": "2021-10-20 17:59:21",
+      "album": {
+        "name": "Hoshi No Koe",
+        "url": "https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb"
+      },
+      "artists": [
+        {
+          "name": "Nobukazu Takemura",
+          "url": "https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9"
+        }
+      ],
+      "duration_ms": 103360,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s"
     }
   ],
   "unique_name": "Music for Plants",

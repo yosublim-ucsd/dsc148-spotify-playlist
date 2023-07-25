@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Artie 5ive e Sacky in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,809 likes - 50 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,856 likes - 50 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,12 +33,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 23 | [Pas De Salam](https://open.spotify.com/track/4odaNK2WriH7cXdTOaOxKH) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv), [Keta](https://open.spotify.com/artist/0noBqdN1IGlVyoYkpd6Vrn) | [Pas De Salam](https://open.spotify.com/album/3XmmEZ7dvQw18C8KsRKWhf) | 2:39 |
 | 24 | [Che ne sai](https://open.spotify.com/track/2iWgpDNIAKHQm4kT6TaTaQ) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Umile](https://open.spotify.com/album/1ewXxOuO1Oi9F8Wan0gEi9) | 2:50 |
 | 25 | [Passaggi Di Mano](https://open.spotify.com/track/4J1mgFkAYXbDV2Zm2X1LlB) | [Yunes LaGrintaa](https://open.spotify.com/artist/2Ny7KtAFxJ0Ac3FPBiClWW) | [Passaggi Di Mano](https://open.spotify.com/album/078xzTGG29Ef2GowUOGWDt) | 2:24 |
-| 26 | [Mamma mia](https://open.spotify.com/track/7cUPqZgJGZZ3Ljg51wn1by) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p), [La traviesa malcría](https://open.spotify.com/artist/3OKlJrSBwCQSGnWZOQ2zeW) | [Mamma mia](https://open.spotify.com/album/1HBL5a07HaFQe4W4t87F3u) | 2:25 |
+| 26 | [a noi](https://open.spotify.com/track/5pz649irprcCCLgevRsNjo) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [a noi](https://open.spotify.com/album/1UhfqV38NlewYCRIPVSCHO) | 2:03 |
 | 27 | [SACRIFICIO \(feat\. Kid Yugi\)](https://open.spotify.com/track/1ghLr2XLBgkTAInmmyuVnp) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [ASPETTANDO LA BELLA VITA](https://open.spotify.com/album/4yLaK5BMdKh7Pa6VefKjsh) | 2:13 |
 | 28 | [Snobbava](https://open.spotify.com/track/7KGOocrNaKZBPQr4VLDz49) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [Snobbava](https://open.spotify.com/album/0I4nw0CPX7J1MLRzy9jBXs) | 2:33 |
 | 29 | [Fidèle](https://open.spotify.com/track/04nSLIugSHc12J7v4ansEL) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D) | [Fidèle](https://open.spotify.com/album/1sMos7HLI4co6zgJ0loIM3) | 2:37 |
-| 30 | [a noi](https://open.spotify.com/track/5pz649irprcCCLgevRsNjo) | [22simba](https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7) | [a noi](https://open.spotify.com/album/1UhfqV38NlewYCRIPVSCHO) | 2:03 |
-| 31 | [Con Te](https://open.spotify.com/track/0d3X6EsJll4q4rmMdDRtvf) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1) | [Con Te](https://open.spotify.com/album/6yRcSRnjcoc9kSvWEmkR2i) | 2:17 |
+| 30 | [Con Te](https://open.spotify.com/track/0d3X6EsJll4q4rmMdDRtvf) | [Mikush](https://open.spotify.com/artist/3eBlbhY21Q1L6xwbVMCQa1) | [Con Te](https://open.spotify.com/album/6yRcSRnjcoc9kSvWEmkR2i) | 2:17 |
+| 31 | [Mamma mia](https://open.spotify.com/track/7cUPqZgJGZZ3Ljg51wn1by) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p), [La traviesa malcría](https://open.spotify.com/artist/3OKlJrSBwCQSGnWZOQ2zeW) | [Mamma mia](https://open.spotify.com/album/1HBL5a07HaFQe4W4t87F3u) | 2:25 |
 | 32 | [Alo \(feat\. Hani\)](https://open.spotify.com/track/2PiN4K8PKGBZa0xFYRPMY6) | [Fre\_nky](https://open.spotify.com/artist/1CGjnYcvLGQhbAGVIR8aBW), [Hani](https://open.spotify.com/artist/4kuGWktJ7E7vy1Ttz5QNv4) | [Alo \(feat\. Hani\)](https://open.spotify.com/album/0OQFz1TDv4CHxGKbXrjEyd) | 3:04 |
 | 33 | [Modus Operandi](https://open.spotify.com/track/14Dep7nFNka7vSw00d8pVp) | [Harmann](https://open.spotify.com/artist/7vNFdksWR78dwtW1Tx3Zsw) | [Modus Operandi](https://open.spotify.com/album/4ytcYFGwDv09QxwjiTZwxG) | 3:31 |
 | 34 | [Guess](https://open.spotify.com/track/0e4Dqn2igrNelqflegUa0N) | [Kalash247](https://open.spotify.com/artist/0uWqSeCUMHjnUwa3Ia3ZcL), [Uzi Lvke](https://open.spotify.com/artist/5n73VcgD8TKQvtG7gOSjjv), [Linch](https://open.spotify.com/artist/0NWr9rFOUD5cFtprFySf5p) | [247 \- EP](https://open.spotify.com/album/0DC5Ny65xEF66F00OiTsnR) | 3:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 49 | [Finta di niente](https://open.spotify.com/track/4iicf5JOcfrr3uSBucgxo3) | [Not Good](https://open.spotify.com/artist/1PG5WX3LZJHM4p6HO4qMq8) | [Finta di niente](https://open.spotify.com/album/5Pk7h4An85JI29zvO5qOzA) | 2:36 |
 | 50 | [Festa delle Streghe](https://open.spotify.com/track/2zr06Pa71vFC0PLNLAixXu) | [Prince](https://open.spotify.com/artist/1euy9qBmp31zNChfEVU0FI), [Ervie](https://open.spotify.com/artist/2jv3dj48LmJ18EwXdgzARH) | [Love Storii](https://open.spotify.com/album/6LbQhCuZ2ge0zbW6CiXD8V) | 2:40 |
 
-Snapshot ID: `MCxlOTg1ZTc4OWViOGU1YmVjZGJlZTNkYzM1MTUyYWVhMWYzMGE3NTJj`
+Snapshot ID: `MCw0MTYzODgzMTVjOTBiM2E2NjQ1ZTRlNjczMmFlNDZkNGQ0MzU1ZDI0`

@@ -1,12 +1,12 @@
 {
   "description": "The best in house music",
-  "num_followers": 169021,
+  "num_followers": 169108,
   "original_name": "House Supreme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDcyODE2ODY2ODAyMDA2YmYxMWIxNTUzYzg2NTQyZGE3YjczYWZh",
+  "snapshot_id": "MCw2ZTQ2Y2ZiZTlhNzZhZGMzZDA1MWQ2NTE2ZTI1ZWIyNzk2OGM2NDM0",
   "tracks": [
     {
       "added_at": "2023-07-20 22:00:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Hungry (For Love)",
-        "url": "https://open.spotify.com/album/2VhVESPvETnPjoM9XOoeRA"
-      },
-      "artists": [
-        {
-          "name": "LF SYSTEM",
-          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
-        }
-      ],
-      "duration_ms": 129375,
-      "name": "Hungry (For Love)",
-      "url": "https://open.spotify.com/track/4Uz7te06snSlkmcIwwAvkw"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
         "name": "My Paradise",
         "url": "https://open.spotify.com/album/1dM4NGu8XRvlZx5CtXM8J2"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 211029,
       "name": "My Paradise",
       "url": "https://open.spotify.com/track/5erkBzi1uzfVzRotIEDevu"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "Hungry (For Love)",
+        "url": "https://open.spotify.com/album/2VhVESPvETnPjoM9XOoeRA"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "duration_ms": 129375,
+      "name": "Hungry (For Love)",
+      "url": "https://open.spotify.com/track/4Uz7te06snSlkmcIwwAvkw"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
+        "name": "Cada Vez (Ultimate Mix Collection)",
+        "url": "https://open.spotify.com/album/71dj4KMbkN7P4dGdUW4xyD"
+      },
+      "artists": [
+        {
+          "name": "Negrocan",
+          "url": "https://open.spotify.com/artist/1nFfBHyjC9addR3ck76QiS"
+        }
+      ],
+      "duration_ms": 232058,
+      "name": "Cada Vez - Grant Nelson Radio Edit",
+      "url": "https://open.spotify.com/track/6NYctBsuODhva162XjwYq5"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
         "name": "Pearls (SILK Remix)",
         "url": "https://open.spotify.com/album/3yo2oAvILNLiOcmswEzYfr"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 246718,
       "name": "Pearls - SILK Remix",
       "url": "https://open.spotify.com/track/3COoBjp98dAjysxl5ksTsV"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
-        "name": "Cada Vez (Ultimate Mix Collection)",
-        "url": "https://open.spotify.com/album/71dj4KMbkN7P4dGdUW4xyD"
-      },
-      "artists": [
-        {
-          "name": "Negrocan",
-          "url": "https://open.spotify.com/artist/1nFfBHyjC9addR3ck76QiS"
-        }
-      ],
-      "duration_ms": 232058,
-      "name": "Cada Vez - Grant Nelson Radio Edit",
-      "url": "https://open.spotify.com/track/6NYctBsuODhva162XjwYq5"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -1595,22 +1595,18 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Back To Love",
-        "url": "https://open.spotify.com/album/4oeALA3Duci3OwWivbVNAN"
+        "name": "Jungle Trip (Edit Versions)",
+        "url": "https://open.spotify.com/album/1MJMWMX98kLbXSoIZKxrCg"
       },
       "artists": [
         {
-          "name": "Low Steppa",
-          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
-        },
-        {
-          "name": "Reigns",
-          "url": "https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG"
+          "name": "Menesix",
+          "url": "https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ"
         }
       ],
-      "duration_ms": 165833,
-      "name": "Back To Love",
-      "url": "https://open.spotify.com/track/7bgg6TYXN8OCHDli94lOKe"
+      "duration_ms": 221250,
+      "name": "Jungle Trip - Edit",
+      "url": "https://open.spotify.com/track/4LpjBeeKDhUQiFTyS87y8u"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -1631,22 +1627,6 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Jungle Trip (Edit Versions)",
-        "url": "https://open.spotify.com/album/1MJMWMX98kLbXSoIZKxrCg"
-      },
-      "artists": [
-        {
-          "name": "Menesix",
-          "url": "https://open.spotify.com/artist/4g6OmxrDFvrYD0PS9Ki0fQ"
-        }
-      ],
-      "duration_ms": 221250,
-      "name": "Jungle Trip - Edit",
-      "url": "https://open.spotify.com/track/4LpjBeeKDhUQiFTyS87y8u"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
         "name": "Dam Swindle x Salsoul Reworks Vol. 1",
         "url": "https://open.spotify.com/album/1axQNdwJ7JJ4yjmQ4ryPzf"
       },
@@ -1663,6 +1643,26 @@
       "duration_ms": 454873,
       "name": "Let No Man Put Asunder - Dam Swindle Remix",
       "url": "https://open.spotify.com/track/5nyWYE1Ld3Gr3xbFUMIbVP"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "Back To Love",
+        "url": "https://open.spotify.com/album/4oeALA3Duci3OwWivbVNAN"
+      },
+      "artists": [
+        {
+          "name": "Low Steppa",
+          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
+        },
+        {
+          "name": "Reigns",
+          "url": "https://open.spotify.com/artist/4tKUuPctyFQus63BKH4JtG"
+        }
+      ],
+      "duration_ms": 165833,
+      "name": "Back To Love",
+      "url": "https://open.spotify.com/track/7bgg6TYXN8OCHDli94lOKe"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Feel My Needs",
-        "url": "https://open.spotify.com/album/1DhXzsPrJjFpwOKRPV2Hpu"
-      },
-      "artists": [
-        {
-          "name": "WEISS",
-          "url": "https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB"
-        }
-      ],
-      "duration_ms": 364672,
-      "name": "Feel My Needs - Original Mix",
-      "url": "https://open.spotify.com/track/6OtWYitKPq5RJdmbjuRFCf"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
         "name": "Burnin' Up",
         "url": "https://open.spotify.com/album/4y3iXKpZJXlpbLRDV6MwlM"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 158740,
       "name": "Burnin' Up",
       "url": "https://open.spotify.com/track/1NYFMZMcvu8eEdVIZOJJKz"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "Feel My Needs",
+        "url": "https://open.spotify.com/album/1DhXzsPrJjFpwOKRPV2Hpu"
+      },
+      "artists": [
+        {
+          "name": "WEISS",
+          "url": "https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB"
+        }
+      ],
+      "duration_ms": 364672,
+      "name": "Feel My Needs - Original Mix",
+      "url": "https://open.spotify.com/track/6OtWYitKPq5RJdmbjuRFCf"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -1819,26 +1819,6 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Gonna Be Mine (feat. Sydney Jo Jackson)",
-        "url": "https://open.spotify.com/album/2GOpLg4olpbxvFhJL8pO5H"
-      },
-      "artists": [
-        {
-          "name": "Guz",
-          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
-        },
-        {
-          "name": "Sydney Jo Jackson",
-          "url": "https://open.spotify.com/artist/3TV2LSYttSMFFHYIzbCvjn"
-        }
-      ],
-      "duration_ms": 140190,
-      "name": "Gonna Be Mine (feat. Sydney Jo Jackson)",
-      "url": "https://open.spotify.com/track/2elJe4Zx5TJzXTjPBVgtNW"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
         "name": "It\u2019s Alright",
         "url": "https://open.spotify.com/album/6iFgMXDNtmp5byEle3guZg"
       },
@@ -1859,6 +1839,26 @@
       "duration_ms": 210181,
       "name": "It\u2019s Alright",
       "url": "https://open.spotify.com/track/3yilgLESv6zoBnGPsRM7Qh"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "Gonna Be Mine (feat. Sydney Jo Jackson)",
+        "url": "https://open.spotify.com/album/2GOpLg4olpbxvFhJL8pO5H"
+      },
+      "artists": [
+        {
+          "name": "Guz",
+          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
+        },
+        {
+          "name": "Sydney Jo Jackson",
+          "url": "https://open.spotify.com/artist/3TV2LSYttSMFFHYIzbCvjn"
+        }
+      ],
+      "duration_ms": 140190,
+      "name": "Gonna Be Mine (feat. Sydney Jo Jackson)",
+      "url": "https://open.spotify.com/track/2elJe4Zx5TJzXTjPBVgtNW"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -1963,26 +1963,6 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Head up High",
-        "url": "https://open.spotify.com/album/0Jn0pFULhYcDnEEG6QQHub"
-      },
-      "artists": [
-        {
-          "name": "Jason Herd",
-          "url": "https://open.spotify.com/artist/6NoGVcOrK4W1Xuxcl8hrCQ"
-        },
-        {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "Head up High - Radio Edit",
-      "url": "https://open.spotify.com/track/4Rmf1ApAOj7iznhlGloqcV"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
         "name": "Play It Down 100",
         "url": "https://open.spotify.com/album/2QfqR0h7cBP7Q8TjKlb8lU"
       },
@@ -2003,6 +1983,26 @@
       "duration_ms": 379932,
       "name": "We Are The One",
       "url": "https://open.spotify.com/track/6DP4GiIbMupB6X9aExpLTT"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "Head up High",
+        "url": "https://open.spotify.com/album/0Jn0pFULhYcDnEEG6QQHub"
+      },
+      "artists": [
+        {
+          "name": "Jason Herd",
+          "url": "https://open.spotify.com/artist/6NoGVcOrK4W1Xuxcl8hrCQ"
+        },
+        {
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "Head up High - Radio Edit",
+      "url": "https://open.spotify.com/track/4Rmf1ApAOj7iznhlGloqcV"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -2111,26 +2111,6 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "R U",
-        "url": "https://open.spotify.com/album/2FYERtgM9kZqwShxZyHY5E"
-      },
-      "artists": [
-        {
-          "name": "ATFC",
-          "url": "https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs"
-        },
-        {
-          "name": "Gene Farris",
-          "url": "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
-        }
-      ],
-      "duration_ms": 214285,
-      "name": "R U",
-      "url": "https://open.spotify.com/track/0YOgkVf88IfKjV5dbEnK15"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
         "name": "So Fine",
         "url": "https://open.spotify.com/album/7tcQHmLF5xdqM93umRMdt5"
       },
@@ -2151,6 +2131,26 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
+        "name": "R U",
+        "url": "https://open.spotify.com/album/2FYERtgM9kZqwShxZyHY5E"
+      },
+      "artists": [
+        {
+          "name": "ATFC",
+          "url": "https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs"
+        },
+        {
+          "name": "Gene Farris",
+          "url": "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
+        }
+      ],
+      "duration_ms": 214285,
+      "name": "R U",
+      "url": "https://open.spotify.com/track/0YOgkVf88IfKjV5dbEnK15"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
         "name": "RUSH (Blush)",
         "url": "https://open.spotify.com/album/3Mb7Mtq5mzfrHsfL8EloXp"
       },
@@ -2163,22 +2163,6 @@
       "duration_ms": 242545,
       "name": "RUSH (Blush)",
       "url": "https://open.spotify.com/track/6pjI3CKUkIGbvSgo7TuRuu"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
-        "name": "Calle EP",
-        "url": "https://open.spotify.com/album/42oVlIMe03B1WQjTRaFlF3"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 224262,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/1YmMirswl1qi0tc8Xbyh6w"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -2215,6 +2199,22 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
+        "name": "Calle EP",
+        "url": "https://open.spotify.com/album/42oVlIMe03B1WQjTRaFlF3"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "duration_ms": 224262,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1YmMirswl1qi0tc8Xbyh6w"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
         "name": "EXPO Series 001",
         "url": "https://open.spotify.com/album/0S6RkjxQNKbIG3uLr6J1QW"
       },
@@ -2227,6 +2227,22 @@
       "duration_ms": 391961,
       "name": "TALI",
       "url": "https://open.spotify.com/track/5wkTldxaE77e8W5zZW8fR5"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "Gotta Dance",
+        "url": "https://open.spotify.com/album/7wA4GPJlfCzw8EZfDohnTP"
+      },
+      "artists": [
+        {
+          "name": "Mike D' Jais",
+          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
+        }
+      ],
+      "duration_ms": 197796,
+      "name": "Gotta Dance",
+      "url": "https://open.spotify.com/track/7fsbIRS0QbKgtgiSyPaDAf"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -2255,22 +2271,6 @@
       "duration_ms": 173392,
       "name": "Free - Ferreck Dawn Remix",
       "url": "https://open.spotify.com/track/0qaFVIeo7NYNi0WqycON6A"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
-        "name": "Gotta Dance",
-        "url": "https://open.spotify.com/album/7wA4GPJlfCzw8EZfDohnTP"
-      },
-      "artists": [
-        {
-          "name": "Mike D' Jais",
-          "url": "https://open.spotify.com/artist/1ekYM3tHN9Dt7HAUoHclwq"
-        }
-      ],
-      "duration_ms": 197796,
-      "name": "Gotta Dance",
-      "url": "https://open.spotify.com/track/7fsbIRS0QbKgtgiSyPaDAf"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -2483,6 +2483,22 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/4PdC05N3eKyTqAsG3NGybb"
+      },
+      "artists": [
+        {
+          "name": "Marcus Cito",
+          "url": "https://open.spotify.com/artist/3r26IN2ktuEyJs4hUoOlzC"
+        }
+      ],
+      "duration_ms": 155520,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/2jzmiQmmiO9M1uudbgdSM1"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
         "name": "Supposed To Do",
         "url": "https://open.spotify.com/album/3LI9sswfUvO0IvgT2D6E1B"
       },
@@ -2507,18 +2523,18 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Medicine",
-        "url": "https://open.spotify.com/album/4PdC05N3eKyTqAsG3NGybb"
+        "name": "D.A.N.C.E.",
+        "url": "https://open.spotify.com/album/43ZNEDJJifJJZk7hFa9pvO"
       },
       "artists": [
         {
-          "name": "Marcus Cito",
-          "url": "https://open.spotify.com/artist/3r26IN2ktuEyJs4hUoOlzC"
+          "name": "Superlover",
+          "url": "https://open.spotify.com/artist/4OxEbB5MV7rDnbYtWUL1UO"
         }
       ],
-      "duration_ms": 155520,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/2jzmiQmmiO9M1uudbgdSM1"
+      "duration_ms": 275322,
+      "name": "D.A.N.C.E.",
+      "url": "https://open.spotify.com/track/0MZRo88rWKsWlRzM61Tyv2"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -2539,22 +2555,6 @@
       "duration_ms": 215648,
       "name": "Mary Go Wild! - Franky Rizardo \u201897 Remix",
       "url": "https://open.spotify.com/track/5mGHkOssoHmrdtZ4GX81HP"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
-        "name": "D.A.N.C.E.",
-        "url": "https://open.spotify.com/album/43ZNEDJJifJJZk7hFa9pvO"
-      },
-      "artists": [
-        {
-          "name": "Superlover",
-          "url": "https://open.spotify.com/artist/4OxEbB5MV7rDnbYtWUL1UO"
-        }
-      ],
-      "duration_ms": 275322,
-      "name": "D.A.N.C.E.",
-      "url": "https://open.spotify.com/track/0MZRo88rWKsWlRzM61Tyv2"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -2751,26 +2751,6 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Bangene",
-        "url": "https://open.spotify.com/album/5nQmadlbC2c58qYqXfzudk"
-      },
-      "artists": [
-        {
-          "name": "Gregor Salto",
-          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
-        },
-        {
-          "name": "BCUC",
-          "url": "https://open.spotify.com/artist/5CGnQOjeOoZW4a4FoPhUxW"
-        }
-      ],
-      "duration_ms": 165853,
-      "name": "Bangene",
-      "url": "https://open.spotify.com/track/4u913jJW52x8fqJlQBTrig"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
         "name": "Spaces and Places",
         "url": "https://open.spotify.com/album/4Q4G4hrAms9J3mYmofZlrT"
       },
@@ -2787,6 +2767,26 @@
       "duration_ms": 359951,
       "name": "Milan [Magazzini Generali] - Full Sax Mix",
       "url": "https://open.spotify.com/track/3sKXJ4LQ3UzecvBdtuWol9"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "Bangene",
+        "url": "https://open.spotify.com/album/5nQmadlbC2c58qYqXfzudk"
+      },
+      "artists": [
+        {
+          "name": "Gregor Salto",
+          "url": "https://open.spotify.com/artist/0l59CBSPDfKBXlyHya0pew"
+        },
+        {
+          "name": "BCUC",
+          "url": "https://open.spotify.com/artist/5CGnQOjeOoZW4a4FoPhUxW"
+        }
+      ],
+      "duration_ms": 165853,
+      "name": "Bangene",
+      "url": "https://open.spotify.com/track/4u913jJW52x8fqJlQBTrig"
     },
     {
       "added_at": "2023-07-20 22:00:00",

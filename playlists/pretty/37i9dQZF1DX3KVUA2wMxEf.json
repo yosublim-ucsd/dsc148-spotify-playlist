@@ -1,12 +1,12 @@
 {
   "description": "Vibras rastafari para poner en sinton\u00eda el coraz\u00f3n.",
-  "num_followers": 80490,
+  "num_followers": 80557,
   "original_name": "Reggae Luv",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTFmNDc3NDY3YjU3NjI1ZTRkNDJhM2E2MTdlNDRmNmY5MTNiZGNj",
+  "snapshot_id": "MCxkYmQxOTEyYzg1ZDgwMmUxOGVjNWUzNjk2ZjhhMzgwNTQ3YTA4OTk1",
   "tracks": [
     {
       "added_at": "2023-04-28 00:04:00",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-04-28 00:04:00",
       "album": {
-        "name": "La Dulzura",
-        "url": "https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 364959,
-      "name": "La Complicidad",
-      "url": "https://open.spotify.com/track/0yAc7tMrxA3KwdVpVDe402"
-    },
-    {
-      "added_at": "2023-04-28 00:04:00",
-      "album": {
         "name": "Binikini",
         "url": "https://open.spotify.com/album/7jAzRi4PeWM3E2MJnBmedj"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 257881,
       "name": "Mas Alla De Tus Ojos",
       "url": "https://open.spotify.com/track/4Wbc65UGEKfToeo4w8rQO7"
+    },
+    {
+      "added_at": "2023-04-28 00:04:00",
+      "album": {
+        "name": "La Dulzura",
+        "url": "https://open.spotify.com/album/0ma0z5JUPvi7ZZtfV8Di0A"
+      },
+      "artists": [
+        {
+          "name": "Cultura Prof\u00e9tica",
+          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
+        }
+      ],
+      "duration_ms": 364959,
+      "name": "La Complicidad",
+      "url": "https://open.spotify.com/track/0yAc7tMrxA3KwdVpVDe402"
     },
     {
       "added_at": "2023-04-28 00:04:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-04-28 00:04:00",
       "album": {
-        "name": "\u00bfQui\u00e9n da M\u00e1s ?",
-        "url": "https://open.spotify.com/album/5eYOXxWRhk2Lqj93pE7zwG"
-      },
-      "artists": [
-        {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "Si El Amor Se Cae",
-      "url": "https://open.spotify.com/track/0fzgd6DgpsSYg5igdOUGJR"
-    },
-    {
-      "added_at": "2023-04-28 00:04:00",
-      "album": {
         "name": "B\u00e9same Morenita",
         "url": "https://open.spotify.com/album/3ilG3dxJg0MGmDlVnkLeZ5"
       },
@@ -347,34 +331,18 @@
     {
       "added_at": "2023-04-28 00:04:00",
       "album": {
-        "name": "Vibrasound",
-        "url": "https://open.spotify.com/album/1x5SELdr0eqHfNDMsMJnv6"
+        "name": "\u00bfQui\u00e9n da M\u00e1s ?",
+        "url": "https://open.spotify.com/album/5eYOXxWRhk2Lqj93pE7zwG"
       },
       "artists": [
         {
-          "name": "Kameleba",
-          "url": "https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST"
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
         }
       ],
-      "duration_ms": 316066,
-      "name": "Con Vos",
-      "url": "https://open.spotify.com/track/0UYtcbHyTJYuWLTHBx9GGe"
-    },
-    {
-      "added_at": "2023-04-28 00:04:00",
-      "album": {
-        "name": "Hagan Correr la Voz",
-        "url": "https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY"
-      },
-      "artists": [
-        {
-          "name": "Nonpalidece",
-          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
-        }
-      ],
-      "duration_ms": 221040,
-      "name": "Tu Presencia",
-      "url": "https://open.spotify.com/track/58KaBE2fnHA8R0iesCbe8o"
+      "duration_ms": 271000,
+      "name": "Si El Amor Se Cae",
+      "url": "https://open.spotify.com/track/0fzgd6DgpsSYg5igdOUGJR"
     },
     {
       "added_at": "2023-04-28 00:04:00",
@@ -391,6 +359,22 @@
       "duration_ms": 262771,
       "name": "V\u00e9ngase I",
       "url": "https://open.spotify.com/track/1kOzw10XqOtFA7Qar4Bjpu"
+    },
+    {
+      "added_at": "2023-04-28 00:04:00",
+      "album": {
+        "name": "Vibrasound",
+        "url": "https://open.spotify.com/album/1x5SELdr0eqHfNDMsMJnv6"
+      },
+      "artists": [
+        {
+          "name": "Kameleba",
+          "url": "https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST"
+        }
+      ],
+      "duration_ms": 316066,
+      "name": "Con Vos",
+      "url": "https://open.spotify.com/track/0UYtcbHyTJYuWLTHBx9GGe"
     },
     {
       "added_at": "2023-04-28 00:04:00",
@@ -427,6 +411,22 @@
       "duration_ms": 246400,
       "name": "International Love",
       "url": "https://open.spotify.com/track/2O282x8rik9PMihQAx6bAq"
+    },
+    {
+      "added_at": "2023-04-28 00:04:00",
+      "album": {
+        "name": "Hagan Correr la Voz",
+        "url": "https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY"
+      },
+      "artists": [
+        {
+          "name": "Nonpalidece",
+          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
+        }
+      ],
+      "duration_ms": 221040,
+      "name": "Tu Presencia",
+      "url": "https://open.spotify.com/track/58KaBE2fnHA8R0iesCbe8o"
     },
     {
       "added_at": "2023-04-28 00:04:00",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-04-28 00:04:00",
       "album": {
-        "name": "Eleven",
-        "url": "https://open.spotify.com/album/7fNhdRorm3P66FXPCa6GZt"
-      },
-      "artists": [
-        {
-          "name": "Quique Neira",
-          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
-        }
-      ],
-      "duration_ms": 249906,
-      "name": "Pensando En Ti",
-      "url": "https://open.spotify.com/track/5XORpyys9dvyjJWpTYeame"
-    },
-    {
-      "added_at": "2023-04-28 00:04:00",
-      "album": {
         "name": "Forever Together !",
         "url": "https://open.spotify.com/album/2tmdMhMxeLkpn4X1LgNhht"
       },
@@ -567,18 +551,18 @@
     {
       "added_at": "2023-04-28 00:04:00",
       "album": {
-        "name": "Donde Brilla el Sol",
-        "url": "https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T"
+        "name": "Eleven",
+        "url": "https://open.spotify.com/album/7fNhdRorm3P66FXPCa6GZt"
       },
       "artists": [
         {
-          "name": "Riddim",
-          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
+          "name": "Quique Neira",
+          "url": "https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe"
         }
       ],
-      "duration_ms": 248093,
-      "name": "En Tus Manos",
-      "url": "https://open.spotify.com/track/0IwS12JNt9V2Ur2eI09tpr"
+      "duration_ms": 249906,
+      "name": "Pensando En Ti",
+      "url": "https://open.spotify.com/track/5XORpyys9dvyjJWpTYeame"
     },
     {
       "added_at": "2023-04-28 00:04:00",
@@ -595,6 +579,38 @@
       "duration_ms": 235426,
       "name": "Armonia de Amor",
       "url": "https://open.spotify.com/track/0FGiRaJJoao1C1pNrqpxQA"
+    },
+    {
+      "added_at": "2023-04-28 00:04:00",
+      "album": {
+        "name": "Bff <3",
+        "url": "https://open.spotify.com/album/0sQbAzt4xQNbYTVRcEEhss"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "duration_ms": 173466,
+      "name": "Bff <3",
+      "url": "https://open.spotify.com/track/0XQsWXjHkSjLuSHnHB1qLL"
+    },
+    {
+      "added_at": "2023-04-28 00:04:00",
+      "album": {
+        "name": "Donde Brilla el Sol",
+        "url": "https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T"
+      },
+      "artists": [
+        {
+          "name": "Riddim",
+          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
+        }
+      ],
+      "duration_ms": 248093,
+      "name": "En Tus Manos",
+      "url": "https://open.spotify.com/track/0IwS12JNt9V2Ur2eI09tpr"
     },
     {
       "added_at": "2023-04-28 00:04:00",
@@ -627,22 +643,6 @@
       "duration_ms": 215197,
       "name": "Eres T\u00fa",
       "url": "https://open.spotify.com/track/54PNVT1xT6FDtKUnR7zSsj"
-    },
-    {
-      "added_at": "2023-04-28 00:04:00",
-      "album": {
-        "name": "Bff <3",
-        "url": "https://open.spotify.com/album/0sQbAzt4xQNbYTVRcEEhss"
-      },
-      "artists": [
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        }
-      ],
-      "duration_ms": 173466,
-      "name": "Bff <3",
-      "url": "https://open.spotify.com/track/0XQsWXjHkSjLuSHnHB1qLL"
     },
     {
       "added_at": "2023-04-28 00:04:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-04-28 00:04:00",
       "album": {
+        "name": "Mucha Cosa Buena",
+        "url": "https://open.spotify.com/album/2Lvsyubptl5ITRCjy0FTmH"
+      },
+      "artists": [
+        {
+          "name": "Sie7e",
+          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
+        }
+      ],
+      "duration_ms": 204360,
+      "name": "Te Regalo una Promesa",
+      "url": "https://open.spotify.com/track/0OEWFr9nOhfuHaeLcuQaHe"
+    },
+    {
+      "added_at": "2023-04-28 00:04:00",
+      "album": {
         "name": "Atento",
         "url": "https://open.spotify.com/album/3VgzoPLs5aIr6Xk4K1IYOD"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 251878,
       "name": "Puedo esperarte",
       "url": "https://open.spotify.com/track/21noFdEzJUoFq2apeT3mXh"
-    },
-    {
-      "added_at": "2023-04-28 00:04:00",
-      "album": {
-        "name": "Mucha Cosa Buena",
-        "url": "https://open.spotify.com/album/2Lvsyubptl5ITRCjy0FTmH"
-      },
-      "artists": [
-        {
-          "name": "Sie7e",
-          "url": "https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz"
-        }
-      ],
-      "duration_ms": 204360,
-      "name": "Te Regalo una Promesa",
-      "url": "https://open.spotify.com/track/0OEWFr9nOhfuHaeLcuQaHe"
     },
     {
       "added_at": "2023-04-28 00:04:00",
@@ -775,22 +775,6 @@
       "duration_ms": 196164,
       "name": "La Playa",
       "url": "https://open.spotify.com/track/0VFp2NOB2gUYtD1raVIFir"
-    },
-    {
-      "added_at": "2023-04-28 00:04:00",
-      "album": {
-        "name": "Donde Brilla el Sol",
-        "url": "https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T"
-      },
-      "artists": [
-        {
-          "name": "Riddim",
-          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
-        }
-      ],
-      "duration_ms": 269186,
-      "name": "Tu Amor",
-      "url": "https://open.spotify.com/track/0TM45NFoyeOOMAy6sdxX3n"
     },
     {
       "added_at": "2023-04-28 00:04:00",
@@ -859,18 +843,18 @@
     {
       "added_at": "2023-04-28 00:04:00",
       "album": {
-        "name": "Los Due\u00f1os De La Playa",
-        "url": "https://open.spotify.com/album/2zVtWSTT0PPvpN1mSmVsAp"
+        "name": "Donde Brilla el Sol",
+        "url": "https://open.spotify.com/album/1zJ6d4lkzKbjSKdPW6CP4T"
       },
       "artists": [
         {
-          "name": "Alkilados",
-          "url": "https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB"
+          "name": "Riddim",
+          "url": "https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk"
         }
       ],
-      "duration_ms": 169832,
-      "name": "Dicen",
-      "url": "https://open.spotify.com/track/4lbUG41pBCWUc0gtc0ukTu"
+      "duration_ms": 269186,
+      "name": "Tu Amor",
+      "url": "https://open.spotify.com/track/0TM45NFoyeOOMAy6sdxX3n"
     },
     {
       "added_at": "2023-04-28 00:04:00",
@@ -887,22 +871,6 @@
       "duration_ms": 230898,
       "name": "Llegaste a Mi",
       "url": "https://open.spotify.com/track/2HFIOrC4KVKwzHgr7MMmvK"
-    },
-    {
-      "added_at": "2023-04-28 00:04:00",
-      "album": {
-        "name": "Una cosa es el ska y otra cosa es el rocksteady",
-        "url": "https://open.spotify.com/album/2dhZbX2nJzVIFAKQgOz76C"
-      },
-      "artists": [
-        {
-          "name": "Melodycans",
-          "url": "https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF"
-        }
-      ],
-      "duration_ms": 209442,
-      "name": "Me cambiaste la vida",
-      "url": "https://open.spotify.com/track/2WhlxYJTtXQHYWG6CcnBam"
     },
     {
       "added_at": "2023-04-28 00:04:00",
@@ -931,6 +899,22 @@
     {
       "added_at": "2023-04-28 00:04:00",
       "album": {
+        "name": "Una cosa es el ska y otra cosa es el rocksteady",
+        "url": "https://open.spotify.com/album/2dhZbX2nJzVIFAKQgOz76C"
+      },
+      "artists": [
+        {
+          "name": "Melodycans",
+          "url": "https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF"
+        }
+      ],
+      "duration_ms": 209442,
+      "name": "Me cambiaste la vida",
+      "url": "https://open.spotify.com/track/2WhlxYJTtXQHYWG6CcnBam"
+    },
+    {
+      "added_at": "2023-04-28 00:04:00",
+      "album": {
         "name": "Placer",
         "url": "https://open.spotify.com/album/0e1ZAcg5owwo6xy9lOCiP7"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 173967,
       "name": "Placer",
       "url": "https://open.spotify.com/track/6VDVW9NnhfB0J9AzTdyyQq"
+    },
+    {
+      "added_at": "2023-04-28 00:04:00",
+      "album": {
+        "name": "Los Due\u00f1os De La Playa",
+        "url": "https://open.spotify.com/album/2zVtWSTT0PPvpN1mSmVsAp"
+      },
+      "artists": [
+        {
+          "name": "Alkilados",
+          "url": "https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB"
+        }
+      ],
+      "duration_ms": 169832,
+      "name": "Dicen",
+      "url": "https://open.spotify.com/track/4lbUG41pBCWUc0gtc0ukTu"
     },
     {
       "added_at": "2023-04-28 00:04:00",

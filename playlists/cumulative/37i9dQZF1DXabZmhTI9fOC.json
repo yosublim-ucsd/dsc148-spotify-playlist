@@ -663,6 +663,24 @@
     },
     {
       "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/3elAEx4xtUP6mlJAYiM8Uk"
+      },
+      "artists": [
+        {
+          "name": "Able Heart",
+          "url": "https://open.spotify.com/artist/1Qr7z3g1f7L93ZWdCKGSjV"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/67PfwSoG0Du7vmwbi2Neax"
+    },
+    {
+      "album": {
         "name": "Witness (Deluxe)",
         "url": "https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z"
       },
@@ -4456,7 +4474,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-19",
+      "date_removed": null,
       "duration_ms": 186018,
       "name": "No One Dies From Love",
       "url": "https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1"
@@ -4710,7 +4728,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-19",
+      "date_removed": null,
       "duration_ms": 153600,
       "name": "Ready or Not (feat. Esthero)",
       "url": "https://open.spotify.com/track/0tjTzWkZwjoyQwd0NgnL3y"
@@ -5321,6 +5339,24 @@
     },
     {
       "album": {
+        "name": "Start of Something New",
+        "url": "https://open.spotify.com/album/4dhMHtA1NZMSjwf8RqRXvM"
+      },
+      "artists": [
+        {
+          "name": "Ely Eira",
+          "url": "https://open.spotify.com/artist/5IdqmiFiHkfWGSQcjdz41u"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182272,
+      "name": "Start of Something New",
+      "url": "https://open.spotify.com/track/28eWw6U9PofoJbLbp3LdSe"
+    },
+    {
+      "album": {
         "name": "Wild In Our Ways",
         "url": "https://open.spotify.com/album/5MU1rYYbP0CAaCYGRcgVjv"
       },
@@ -5551,6 +5587,24 @@
     },
     {
       "album": {
+        "name": "TECHNICOLOR: The Full Spectrum",
+        "url": "https://open.spotify.com/album/5PxSXvwxo1pKKcEl0S6qY7"
+      },
+      "artists": [
+        {
+          "name": "Madison Rose",
+          "url": "https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149087,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/19AbIIdWxmJoLkk41jJWkc"
+    },
+    {
+      "album": {
         "name": "Sunshine (feat. Dan Harkna) [Radio Edit]",
         "url": "https://open.spotify.com/album/7qAljACjJJN2jhgB4aA9sZ"
       },
@@ -5708,6 +5762,24 @@
       "duration_ms": 145737,
       "name": "Taste Of Your Love (feat. KOOLKID)",
       "url": "https://open.spotify.com/track/3MYCQktaoMWhtaP2Uq7mhn"
+    },
+    {
+      "album": {
+        "name": "Tattoo Me",
+        "url": "https://open.spotify.com/album/0FQkq0uVVyzhePyM5zr1qq"
+      },
+      "artists": [
+        {
+          "name": "Haley Joelle",
+          "url": "https://open.spotify.com/artist/4pZOG8ump4odtJJA4Cy7S8"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197226,
+      "name": "Tattoo Me",
+      "url": "https://open.spotify.com/track/6w7pIPYCU3rdEN4bkA7uM9"
     },
     {
       "album": {
@@ -5890,6 +5962,24 @@
       "duration_ms": 261557,
       "name": "The Sign",
       "url": "https://open.spotify.com/track/5ic8rTak2Oayk2CAgcDtfL"
+    },
+    {
+      "album": {
+        "name": "Thinking",
+        "url": "https://open.spotify.com/album/6ba6t2QiNOTPDft0CLToQ4"
+      },
+      "artists": [
+        {
+          "name": "ELLIANA",
+          "url": "https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161206,
+      "name": "Thinking",
+      "url": "https://open.spotify.com/track/7A4EuppedQjfYJwR9Rpbvs"
     },
     {
       "album": {
@@ -6448,6 +6538,28 @@
       "duration_ms": 193015,
       "name": "when the party\u2019s over",
       "url": "https://open.spotify.com/track/0U9oiRl4hYwORmWwkYihZN"
+    },
+    {
+      "album": {
+        "name": "Cinematic Songs (Vol. 1)",
+        "url": "https://open.spotify.com/album/6uRzweLeJ13G56tHv7zvWK"
+      },
+      "artists": [
+        {
+          "name": "Tommee Profitt",
+          "url": "https://open.spotify.com/artist/73jlPRxT7z5xk29sMqFDjU"
+        },
+        {
+          "name": "Ruelle",
+          "url": "https://open.spotify.com/artist/5tIkXJTex4JY7cv9mmgAZx"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191529,
+      "name": "Whose Side Are You On",
+      "url": "https://open.spotify.com/track/0MOlM2M1hR6MYzQtXe4GVd"
     },
     {
       "album": {

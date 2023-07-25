@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,501 songs - 4 day 7 hr 28 min
+1,502 songs - 4 day 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -784,6 +784,7 @@
 | [Lose My Head](https://open.spotify.com/track/5HWQWYk7rgkRA9fJ68geNY) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/0gIAWTyvnOntQSd3yxyiW5) | 4:23 | 2020-05-18 | 2020-07-03 |
 | [Losing Ground](https://open.spotify.com/track/7mXcMycQqLHzo60E7WkvvG) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Tishmal](https://open.spotify.com/artist/5lzYtvETBVL9Rqen5RUpPu) | [Losing Ground](https://open.spotify.com/album/2CLaKRjhzUhuIu8tLysXZq) | 4:33 | 2022-12-09 | 2023-04-03 |
 | [Lost](https://open.spotify.com/track/3XYMybUYCtTKm3ZzoJmn8C) | [Deltium](https://open.spotify.com/artist/0QroI8p7Rd0bK54HCFtelN) | [Fields of White](https://open.spotify.com/album/6hNh6rAko5Z5dtcgoKRzve) | 4:19 | 2022-12-28 | 2023-01-06 |
+| [Lost](https://open.spotify.com/track/1ludJD4Vbpy7LRrHDStEkB) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33) | [Lost](https://open.spotify.com/album/0bGbb6GedLfGM1fJqX3G8a) | 3:14 | 2023-07-21 |  |
 | [Lost](https://open.spotify.com/track/4HWadIQagwXOjf14aUD6qg) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx), [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [Lost](https://open.spotify.com/album/5vC7gyO1QMBpkkqkTr6aGu) | 4:47 | 2023-01-20 |  |
 | [Lost](https://open.spotify.com/track/5WYNZf8enqbyPk4bKXKpou) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [yuma.](https://open.spotify.com/artist/5ynMbTlnZvBUxrxUrd6gs0), [Darla Jade](https://open.spotify.com/artist/615ZycClQL8KQ8qzZiuP8T) | [Lost](https://open.spotify.com/album/0ksXLhcJTB8DLxoEFnV93Z) | 3:26 | 2022-02-18 | 2022-07-27 |
 | [Lost \(feat\. Chelsea Jade\)](https://open.spotify.com/track/50pEs4BEQlgoZo6rKHNtEA) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [Chelsea Jade](https://open.spotify.com/artist/5K0BVchFxmuKBw7DojGSQO) | [Lost \(feat\. Chelsea Jade\)](https://open.spotify.com/album/5BFBhnlWveg1RCn6Q4RX7W) | 4:01 | 2020-03-20 | 2020-07-18 |
@@ -965,7 +966,7 @@
 | [Odd One Out](https://open.spotify.com/track/18bDohH2zLgO3oKkyOELgU) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Hyperfall](https://open.spotify.com/album/5C1WWowUnx2d4yIOp1hnIy) | 3:24 | 2020-02-29\* | 2020-07-18 |
 | [Of Sea](https://open.spotify.com/track/3cGYeXxZTPqmxaZ27JUJsD) | [Nuage](https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD), [Omfeel](https://open.spotify.com/artist/01koLF6f9W9lvfj1EIsSbQ) | [Our Language](https://open.spotify.com/album/26s1tsgYX1rsNvsjjYmxuc) | 6:04 | 2021-04-03 | 2022-08-26 |
 | [Off the Grid \- Mastrovita Remix Edit](https://open.spotify.com/track/6vrrOd2wEt0gXlWBwuzEEK) | [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6), [Amba Shepherd](https://open.spotify.com/artist/4RTCIP5yp2tL1AtBCq7ukj), [Mastrovita](https://open.spotify.com/artist/4XU8dozOz0okhDgr9Fq3eN) | [Off the Grid \(Mastrovita Remix\)](https://open.spotify.com/album/4hZTx54cIDanVGHKCUK5A7) | 4:12 | 2020-03-28 | 2020-05-22 |
-| [Oh, Miles](https://open.spotify.com/track/61Hn9ssQkVEWq4ZmPwHyzd) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Oh, Miles](https://open.spotify.com/album/4qf7IxbVrv9eLCGpCA8Asu) | 5:33 | 2021-01-15 |  |
+| [Oh, Miles](https://open.spotify.com/track/61Hn9ssQkVEWq4ZmPwHyzd) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Oh, Miles](https://open.spotify.com/album/4qf7IxbVrv9eLCGpCA8Asu) | 5:33 | 2021-01-15 | 2023-07-25 |
 | [Omni DX](https://open.spotify.com/track/0f0VD49YdgKYG1e0ASVmJz) | [Christopher Ledger](https://open.spotify.com/artist/7E23JdeLeRkzJFuIY5KUwA) | [Dial 2020 \(II\)](https://open.spotify.com/album/2rwZVVj0gLRL7z1D09QmYE) | 4:22 | 2020-08-20 | 2020-10-09 |
 | [On Hold \- Jamie xx Remix](https://open.spotify.com/track/0iALOYqXaVoluUIsSyDAny) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [On Hold \(Jamie xx Remix\)](https://open.spotify.com/album/01W0uSuNffDSC2RT8Cjha3) | 6:11 | 2020-08-06 | 2020-10-09 |
 | [On My Mind \- Billy Kenny Remix](https://open.spotify.com/track/4wdUnILEeWFzbB6tEaw3cH) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Billy Kenny](https://open.spotify.com/artist/4vOWtH59x00IhY805tdf74) | [On My Mind \(Billy Kenny Remix\)](https://open.spotify.com/album/5dUpZKc2pZ0mEAWOhiG3f8) | 3:16 | 2020-05-18 | 2020-08-20 |

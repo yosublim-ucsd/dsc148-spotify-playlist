@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The hardest songs, loud\. Very loud\. Cover: Beartooth
 
-[Spotify](https://open.spotify.com/user/spotify) - 920,814 likes - 155 songs - 9 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 920,973 likes - 155 songs - 9 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -150,7 +150,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 140 | [Grey Veins](https://open.spotify.com/track/7mdBFu9SMR39e7lK8uQvFB) | [L.S\. Dunes](https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG) | [Past Lives](https://open.spotify.com/album/40py8Fn35TC6GnszSKccjZ) | 4:26 |
 | 141 | [Broken Bones](https://open.spotify.com/track/2nZ4tfb14C5ozg4cLK9MFq) | [Kill The Lights](https://open.spotify.com/artist/2b2c6xP76y8HCLiovv7kIZ) | [Broken Bones](https://open.spotify.com/album/07AJQ5cFZY1izt8clG1BqF) | 3:38 |
 | 142 | [Parasite](https://open.spotify.com/track/0sBXPxWJpMlQBnVF2y78Rg) | [Archetypes Collide](https://open.spotify.com/artist/6Gnk08ItppARKX1z1EW3Vn) | [Parasite](https://open.spotify.com/album/0sx2ImaWkigyLHH45jdIo1) | 3:32 |
-| 143 | [Outsider](https://open.spotify.com/track/2QQqlUWiLDROQJ6MGpL3o5) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [Outsider](https://open.spotify.com/album/1BVsgwH1tbz8ga50B3Sqda) | 4:05 |
+| 143 | [Outsider](https://open.spotify.com/track/0IM9DQkmVjiRr0RpdUXIEo) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [BLOODSUCKERS](https://open.spotify.com/album/78xfo3XQBKNBUzHXuXVYOb) | 4:05 |
 | 144 | [THE CURSED ONE](https://open.spotify.com/track/6NHVEjxxdZzEHXsgoLeOJ4) | [From Fall to Spring](https://open.spotify.com/artist/373XSzgRHjl6imFLdGNlQm) | [RISE](https://open.spotify.com/album/2x73F3tjGb16GlzrwwxuES) | 2:25 |
 | 145 | [Chasing Stars](https://open.spotify.com/track/5uWWDJfWRHtd3F5tAMgqyp) | [Royal Bliss](https://open.spotify.com/artist/2DntubHirEICSdXa23WNpV) | [Survival](https://open.spotify.com/album/20nHfQZxWN5YHRVRzMGVyL) | 3:12 |
 | 146 | [Missile](https://open.spotify.com/track/1LNE7fC5D7fjipwng8IXGu) | [The Anix](https://open.spotify.com/artist/6nFvVbL2RN5czSm7NZjE51) | [NIGHTVISION](https://open.spotify.com/album/04Wf69y2V5QM4dl5XKTT7Q) | 2:19 |
@@ -164,4 +164,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 154 | [Bad Dog](https://open.spotify.com/track/1owUcE0dWvXZz3766PsJLy) | [Cinnamon Babe](https://open.spotify.com/artist/0U2rJW6ug1KAvcegC2E004) | [Bad Dog](https://open.spotify.com/album/6a8l6w5G7T8xHJeJT7hRo7) | 3:29 |
 | 155 | [Pity Sex](https://open.spotify.com/track/5IbSfGOpPGcpeKn6lPaMFr) | [Off Road Minivan](https://open.spotify.com/artist/21JxgGAXZjSjBg9JRgIo9q) | [May This Keep You Safe From Harm](https://open.spotify.com/album/4QP40xoxTzTyDrDJ86MjMy) | 4:24 |
 
-Snapshot ID: `MCw1MzUzZDUzYjYxMDAyMjllMGZiY2E3ZGRjODY5NzYxYjQzNzQ1NDI2`
+Snapshot ID: `MCxkOTkxMWYxZDkyNmEyYzFlMTQ0YmY4ZTczYzk3NjllODZjNzFhZTA2`

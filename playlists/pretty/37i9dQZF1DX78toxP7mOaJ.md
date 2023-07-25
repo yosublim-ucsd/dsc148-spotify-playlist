@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Picture Parlour \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,070 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,108 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 99 | [fix](https://open.spotify.com/track/4vOXwlSR8SzM3C0TDvkV4m) | [knitting](https://open.spotify.com/artist/2eRDm8pl8MFrZv1gsfqUtj) | [fix](https://open.spotify.com/album/50csy4OVo88eEGhERT6We1) | 3:12 |
 | 100 | [Cadillac](https://open.spotify.com/track/0KAxcmnTqf2g8ToqAkhKHd) | [King Falcon](https://open.spotify.com/artist/65CoIqXCFvKUzD0WfKhyq2) | [Cadillac](https://open.spotify.com/album/7EIDHIB7Gg4JFTTnNWTuGP) | 3:02 |
 
-Snapshot ID: `MCwxZDc1MjM0Y2ZiZGIwMzljNzUwODIzMjBhZmU5ZWE1ZDA4Y2RiY2E1`
+Snapshot ID: `MCw3Y2UxOTk3OTkwMTRmZDQ4NjUwNDRjZTVjODVmMGE2ZjU3ZmMzMGY0`

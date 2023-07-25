@@ -1,12 +1,12 @@
 {
   "description": "Un'estate al mare, stile balenare... \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 17198,
+  "num_followers": 17269,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzgwOTYxMzQ4YzkwMjA2ODg4M2I2YWE3ZDY3OTcxNzgxMTEzODQ3",
+  "snapshot_id": "MCw5MTZhZTQyN2NhNzJhYjJiYWY4OWU5YTkyMWUxMTZiZDVjMTgzZjY0",
   "tracks": [
     {
       "added_at": "2023-06-05 07:42:38",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Un'ora con...",
-        "url": "https://open.spotify.com/album/3jYaY4hJL3Ene7hctpoX44"
-      },
-      "artists": [
-        {
-          "name": "Marcella Bella",
-          "url": "https://open.spotify.com/artist/6IvnpywSnAcBLBjlyme9oW"
-        }
-      ],
-      "duration_ms": 236813,
-      "name": "Nell'aria",
-      "url": "https://open.spotify.com/track/5PXaja7dpezSS8nSDsyfb7"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Riccardo Del Turco",
         "url": "https://open.spotify.com/album/4yn8guJVqtimO17DbpdsEO"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 191693,
       "name": "Luglio",
       "url": "https://open.spotify.com/track/083VTM4yXnNrspPRcVadTm"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Un'ora con...",
+        "url": "https://open.spotify.com/album/3jYaY4hJL3Ene7hctpoX44"
+      },
+      "artists": [
+        {
+          "name": "Marcella Bella",
+          "url": "https://open.spotify.com/artist/6IvnpywSnAcBLBjlyme9oW"
+        }
+      ],
+      "duration_ms": 236813,
+      "name": "Nell'aria",
+      "url": "https://open.spotify.com/track/5PXaja7dpezSS8nSDsyfb7"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Come lei non c'e' nessuno",
-        "url": "https://open.spotify.com/album/1qrNVv0IOFFmyff1kLJy4Q"
-      },
-      "artists": [
-        {
-          "name": "Rita Pavone",
-          "url": "https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7"
-        }
-      ],
-      "duration_ms": 133026,
-      "name": "La partita di pallone",
-      "url": "https://open.spotify.com/track/467plYfT62efo0yW6qdqCl"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "Profumo di sole...",
         "url": "https://open.spotify.com/album/3hZVHN9BomKxHogbobO2hR"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 137893,
       "name": "Sei come una lucertola",
       "url": "https://open.spotify.com/track/3osISWWukeIUBLpNg9GcJ2"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Come lei non c'e' nessuno",
+        "url": "https://open.spotify.com/album/1qrNVv0IOFFmyff1kLJy4Q"
+      },
+      "artists": [
+        {
+          "name": "Rita Pavone",
+          "url": "https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7"
+        }
+      ],
+      "duration_ms": 133026,
+      "name": "La partita di pallone",
+      "url": "https://open.spotify.com/track/467plYfT62efo0yW6qdqCl"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -771,6 +771,26 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
+        "name": "Estate",
+        "url": "https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi"
+      },
+      "artists": [
+        {
+          "name": "Edoardo Vianello",
+          "url": "https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo"
+        },
+        {
+          "name": "Elfrida Ismolli",
+          "url": "https://open.spotify.com/artist/7KgjTBE5cyhpRvaePgqexx"
+        }
+      ],
+      "duration_ms": 159312,
+      "name": "Pinne fucile ed occhiali",
+      "url": "https://open.spotify.com/track/5nmP6zIrPL7GTAiHZjTEZ8"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
         "name": "Le pi\u00f9 belle canzoni di Milva",
         "url": "https://open.spotify.com/album/02bbP27Gmj806q1chWuZP1"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 156920,
       "name": "Con Te Sulla Spiaggia",
       "url": "https://open.spotify.com/track/1pN4eiEz2QqVMq34ltToWI"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
-        "name": "Estate",
-        "url": "https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi"
-      },
-      "artists": [
-        {
-          "name": "Edoardo Vianello",
-          "url": "https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo"
-        },
-        {
-          "name": "Elfrida Ismolli",
-          "url": "https://open.spotify.com/artist/7KgjTBE5cyhpRvaePgqexx"
-        }
-      ],
-      "duration_ms": 159312,
-      "name": "Pinne fucile ed occhiali",
-      "url": "https://open.spotify.com/track/5nmP6zIrPL7GTAiHZjTEZ8"
     }
   ],
   "unique_name": "Sapore di Sale",

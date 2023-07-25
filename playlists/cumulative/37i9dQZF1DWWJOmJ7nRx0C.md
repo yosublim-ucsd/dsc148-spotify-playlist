@@ -4,7 +4,7 @@
 
 > The hardest songs, loud\. Very loud\. Cover: Beartooth
 
-875 songs - 2 day 4 hr 27 min
+876 songs - 2 day 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -554,7 +554,8 @@
 | [Out to the Inside](https://open.spotify.com/track/4fIbgStSL1II8DS74pdI26) | [The Veer Union](https://open.spotify.com/artist/2WQQRKpu2PMLsHSrUJmyCS), [Mob Machine](https://open.spotify.com/artist/7MmCmVajYpt2NTXg1kTqm9) | [Quarantine Collaborations](https://open.spotify.com/album/0C2DCVriqRYCWhancrKQBv) | 3:58 | 2021-12-17 | 2022-04-09 |
 | [Outcasts vs Everyone](https://open.spotify.com/track/4GPyVNFRDepnBPhJczVXGQ) | [Destroy Rebuild Until God Shows](https://open.spotify.com/artist/6XjXff8FNS5CqpF8dVAtoo), [Brennan Savage](https://open.spotify.com/artist/6SSmy635N3a4oWmPk85xpK) | [Outcasts vs Everyone](https://open.spotify.com/album/58aBP5JabGIqqPWYG9pd5q) | 3:45 | 2022-05-13 | 2022-10-08 |
 | [Outsider](https://open.spotify.com/track/6QzpOnLnIs96PFZ831d6zU) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [Outsider](https://open.spotify.com/album/2WukwhVY6nvzF3OSAwdmYb) | 4:05 | 2023-06-02 | 2023-06-08 |
-| [Outsider](https://open.spotify.com/track/2QQqlUWiLDROQJ6MGpL3o5) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [Outsider](https://open.spotify.com/album/1BVsgwH1tbz8ga50B3Sqda) | 4:05 | 2023-06-02 |  |
+| [Outsider](https://open.spotify.com/track/0IM9DQkmVjiRr0RpdUXIEo) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [BLOODSUCKERS](https://open.spotify.com/album/78xfo3XQBKNBUzHXuXVYOb) | 4:05 | 2023-07-21 |  |
+| [Outsider](https://open.spotify.com/track/2QQqlUWiLDROQJ6MGpL3o5) | [Saint Agnes](https://open.spotify.com/artist/7c7LKkvEU9xLPyFmvV4njL) | [Outsider](https://open.spotify.com/album/1BVsgwH1tbz8ga50B3Sqda) | 4:05 | 2023-06-02 | 2023-07-25 |
 | [Overrated](https://open.spotify.com/track/41MoaoWW7iea2MdNQQtxhv) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Overrated](https://open.spotify.com/album/7c7GHatXPn7nFKQfQcmYkm) | 3:38 | 2022-09-30 | 2023-04-15 |
 | [Pain // Happiness](https://open.spotify.com/track/3eCpH7rYjareU4NBxlG91G) | [Rain Paris](https://open.spotify.com/artist/10TCOjSPs9ywBN1Q083BnB) | [Pain // Happiness](https://open.spotify.com/album/20yzGvOcgJQWzJJx7nIXtL) | 3:12 | 2023-03-24 | 2023-05-13 |
 | [Paper Machete](https://open.spotify.com/track/5vdEuDGGG5PuyHwN6xtc6W) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Paper Machete](https://open.spotify.com/album/2ec7VED8zxmb93zpjdFYBM) | 3:22 | 2023-07-14 |  |

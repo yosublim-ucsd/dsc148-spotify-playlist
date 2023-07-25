@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ITTpGLyrci.md) - [plain]
 
 > Get the drinks on ice, this one is on us
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,100 likes - 100 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,249 likes - 100 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ITTpGLyrci.md) - [plain]
 | 99 | [Ain't Me Without You](https://open.spotify.com/track/2sYjsgw4R4wJhThhSGlSZS) | [WEISS](https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB) | [Ain't Me Without You](https://open.spotify.com/album/57Y1Qva1WV0As9PPcgjl1x) | 3:50 |
 | 100 | [2AM](https://open.spotify.com/track/074x9OaRq8m4Kn3J3Qgavf) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [2AM](https://open.spotify.com/album/1y13T3X8wjnVPYKMltcpzz) | 3:02 |
 
-Snapshot ID: `MCxmYWFiMjE3ODY2M2U0MDY3NjhmMmVlOTM3NjY2Yzk2MmRiZmZiZGRh`
+Snapshot ID: `MCxlNGM4OWIyNzgwOTgyZjE5MmI2YjdlMmU2Mjg4ZDZmNDgwMjJiOTg1`

@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-780 songs - 1 day 18 hr 30 min
+781 songs - 1 day 18 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Antidote](https://open.spotify.com/track/4abpXJR8JbbUcvse4ahiQn) | [Ryllz](https://open.spotify.com/artist/4CmWCpaevTZBnw2QHxmBpJ) | [RUPTURE EP](https://open.spotify.com/album/7LnfIDPLv8OgdwZfXN7iGt) | 2:36 | 2022-09-02 | 2022-11-24 |
 | [Anxious](https://open.spotify.com/track/3oHu4UWGFkZ44PcBGELEdf) | [Neovaii](https://open.spotify.com/artist/45f1m9SROETaiqSyGcqTzv) | [Aurora](https://open.spotify.com/album/7zqw1bn9eX0xi6ZjL9SYH0) | 2:40 | 2022-01-14 | 2022-06-04 |
 | [Anywhere You Want](https://open.spotify.com/track/5ELKE3vp9qZ2war37maWN3) | [BB Cooper](https://open.spotify.com/artist/2J1QfFspvaEyOJ4w4GhLGi) | [In My Dreams](https://open.spotify.com/album/6VMdhmUtWuoZtG866uXm9j) | 3:02 | 2022-08-26 | 2022-10-08 |
+| [Apart](https://open.spotify.com/track/56gMrEGMFmkAyWwKK3Ffs0) | [Fancy Monster](https://open.spotify.com/artist/2mTmPVVrjt7SLOtJIaI9LY), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [Apart](https://open.spotify.com/album/5DVWgBrMyC4L1TbSr5COuC) | 3:41 | 2023-07-24 |  |
 | [Aperture](https://open.spotify.com/track/3sSWpHdkiwuZaS7tPdDJig) | [Rev Lane](https://open.spotify.com/artist/5FikemeDBPnFrW5mL7dAOd), [Gunpoint](https://open.spotify.com/artist/6OabPCZQ3SpVBtpqiK2lyu), [Nick Yorko](https://open.spotify.com/artist/0Kp37dYTLzLkV9EndnDsHZ), [418](https://open.spotify.com/artist/0gFaXWb7YkFAGj8bVJLpjh) | [Aperture](https://open.spotify.com/album/6rWp0YzgUDib50H6zYQVCy) | 3:52 | 2023-03-10 | 2023-04-29 |
 | [Apex](https://open.spotify.com/track/1XA70LvTgplYtHMzgB8N3A) | [Far Out](https://open.spotify.com/artist/7aB2KbM3pphL9mU3dXbyh2) | [Apex](https://open.spotify.com/album/1c8Jrs7Bl2yzT6CytnKv0A) | 3:26 | 2023-03-03 |  |
 | [Apogee](https://open.spotify.com/track/783dzFJfeOk2UeayUPZ6Ct) | [Fytch](https://open.spotify.com/artist/4A18NGfdKU0HrkmvVlPO7I) | [Apogee](https://open.spotify.com/album/2FxL8igcB5IhOs8wsauSnH) | 4:17 | 2022-01-14 | 2022-09-15 |

@@ -2,7 +2,7 @@
 
 ### [RapCaviar](https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd)
 
-> New music from Lil Tjay, Quavo and JT of City Girls.
+> New music from A$AP Rocky, Lil Tecca and Travis Scott.
 
 1,703 songs - 3 day 15 hr 53 min
 

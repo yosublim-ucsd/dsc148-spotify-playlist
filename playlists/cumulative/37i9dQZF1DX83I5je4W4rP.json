@@ -433,6 +433,24 @@
     },
     {
       "album": {
+        "name": "Pacific Vibration",
+        "url": "https://open.spotify.com/album/3kc0N4gkYRwUCcuuCbmDa4"
+      },
+      "artists": [
+        {
+          "name": "Wheeland Brothers",
+          "url": "https://open.spotify.com/artist/5mabMBNdrC8AIPmjpiqvEq"
+        }
+      ],
+      "date_added": "2023-05-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199109,
+      "name": "Board Meeting",
+      "url": "https://open.spotify.com/track/2xsH55uRuzapn3AtYqnEja"
+    },
+    {
+      "album": {
         "name": "Gettin' Filthy",
         "url": "https://open.spotify.com/album/5kEwAtq7VqWsm1Aa1Qqket"
       },
@@ -854,7 +872,7 @@
       ],
       "date_added": "2022-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 199600,
       "name": "Corona and Lime",
       "url": "https://open.spotify.com/track/4mu0eDIt9weCJ6gG3Lox71"

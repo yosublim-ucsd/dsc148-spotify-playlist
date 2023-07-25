@@ -4,7 +4,7 @@
 
 > Kickstart your morning workout with these upbeat workout tracks, updated weekly!
 
-688 songs - 1 day 12 hr 19 min
+689 songs - 1 day 12 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Alright](https://open.spotify.com/track/0erkfOrhEHd40xipSC8vqi) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [Alright](https://open.spotify.com/album/30c5njwDLzLB83s407ZAkj) | 3:53 | 2022-07-15 | 2022-09-17 |
 | [Alright \(feat\. 24kGoldn & Quavo\)](https://open.spotify.com/track/5T0ahhwM0f4YYExfIGEHVw) | [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Alright \(feat\. 24kGoldn & Quavo\)](https://open.spotify.com/album/5UT5cy2zj70DQrV4jlENIu) | 2:26 | 2021-07-24 | 2022-04-29 |
 | [Always Be My Baby Boy \(feat\. Becce J\)](https://open.spotify.com/track/5ycjyEkMSlLCMifjYgQOfp) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV), [Becce J](https://open.spotify.com/artist/3oq7pPTvwW6l6yl89fQbYC) | [Disrespectful](https://open.spotify.com/album/73fDT1q6Y3ADL0hokKEnvG) | 3:39 | 2022-02-17 | 2022-02-25 |
-| [Always Dancin'](https://open.spotify.com/track/6zrSkJkNcGjiZ7Kzeyjwz0) | [BAVHU](https://open.spotify.com/artist/16cM5HFziqNPx2h4esvrOd) | [Always Dancin'](https://open.spotify.com/album/5xAip5ulkGcPu1xQJqrfTy) | 2:53 | 2023-06-16 |  |
+| [Always Dancin'](https://open.spotify.com/track/6zrSkJkNcGjiZ7Kzeyjwz0) | [BAVHU](https://open.spotify.com/artist/16cM5HFziqNPx2h4esvrOd) | [Always Dancin'](https://open.spotify.com/album/5xAip5ulkGcPu1xQJqrfTy) | 2:53 | 2023-06-16 | 2023-07-25 |
 | [AMERICA HAS A PROBLEM](https://open.spotify.com/track/2XMAWynSTIst5KmLSv0Npf) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:18 | 2023-07-14 |  |
 | [Andes](https://open.spotify.com/track/480ZOuiTxdrlwbBjUEMXWP) | [Motez](https://open.spotify.com/artist/3SwgftmsT5rVepCSSco3ZR) | [Andes](https://open.spotify.com/album/54RMY8aaK7xzJeZMX8mvq3) | 4:02 | 2021-03-06 | 2021-03-14 |
 | [Another Level \(ft\. Lovespeake\)](https://open.spotify.com/track/2jSVBVxFFQY15Ce0V8HUH9) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Lovespeake](https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk) | [Another Level \(ft\. Lovespeake\)](https://open.spotify.com/album/2xeEcUG4blN1kzZYfid0Wd) | 2:25 | 2021-06-19 | 2021-08-13 |
@@ -260,6 +260,7 @@
 | [Goosebumps \- Remix](https://open.spotify.com/track/3xiVh7Be0tcpU8MBap62nm) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [HVME](https://open.spotify.com/artist/2o08sCWF5yyo2G4DCiT7T9) | [Goosebumps \(Remix\)](https://open.spotify.com/album/7N0XWQzj92gqmS5OmzX2YH) | 2:43 | 2021-02-12 | 2022-04-22 |
 | [Gravity](https://open.spotify.com/track/70coW4zgrBZ2XnvqMqIDKe) | [Arno Faraji](https://open.spotify.com/artist/46jtLFOHGcnIqW74ESazFQ) | [Gravity](https://open.spotify.com/album/1R546kkf5YqomrugvVPCBf) | 2:56 | 2022-07-29 | 2022-10-07 |
 | [Great Southern Land](https://open.spotify.com/track/0EbjpQWNL0jFgepyWb9OKf) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [ICEHOUSE](https://open.spotify.com/artist/3IUisqn0mluZR0LITs8Sqk) | [Great Southern Land](https://open.spotify.com/album/26XLm5ta9PDZn7uVTdt1M6) | 4:15 | 2023-05-29 |  |
+| [Groove Thang](https://open.spotify.com/track/6pyjUNNPUAHqRkvD0ZEDFz) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Groove Thang](https://open.spotify.com/album/1PPPSHY19tixIaMCbDJihZ) | 3:40 | 2023-07-24 |  |
 | [groove1](https://open.spotify.com/track/0FDjodDxf6qlzSDVKs8f3l) | [BeepBeepChild](https://open.spotify.com/artist/0cAcRTWMSeuezcHpxInChD), [SIXTYUPTOWN](https://open.spotify.com/artist/6uAa2LaYiWLsy8FlwtKvay), [Daisy Le Garçon](https://open.spotify.com/artist/5J3aJu1LxotI5WXEtTPiHo) | [groove1](https://open.spotify.com/album/5CBneVRx0DZ2Obfxb6FSdY) | 3:07 | 2022-11-18 | 2022-12-02 |
 | [Guarantees](https://open.spotify.com/track/1HGjOjUOPntNujrvpD0D1k) | [Thandi Phoenix](https://open.spotify.com/artist/3PAjYEQ8KpL6u0fNDR0p1v), [Arona Mane](https://open.spotify.com/artist/70yqFQVIWhHa89ELLSB69B) | [Guarantees](https://open.spotify.com/album/0o3iQuYunyNhzwrFUSWjrC) | 3:22 | 2022-12-09 | 2022-12-16 |
 | [Gucci](https://open.spotify.com/track/4UQuyiposzTgE7uOQM2DBB) | [J Bookey](https://open.spotify.com/artist/2fnWn2arMNwYLP2OURItc2) | [Gucci](https://open.spotify.com/album/1E1Nsxo1DndfMRIsmhtVm7) | 3:02 | 2023-02-03 | 2023-05-09 |

@@ -537,6 +537,28 @@
     },
     {
       "album": {
+        "name": "CATACLYSM",
+        "url": "https://open.spotify.com/album/2V1LeQpf1yWZmP0jx921fI"
+      },
+      "artists": [
+        {
+          "name": "bckr\u00f8\u00f8m$",
+          "url": "https://open.spotify.com/artist/5umOc7U00gyTlobZXuQe0o"
+        },
+        {
+          "name": "Plorag\u00e9",
+          "url": "https://open.spotify.com/artist/0h9fLPM2Nz1ZShCD6IHa7w"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90710,
+      "name": "CATACLYSM",
+      "url": "https://open.spotify.com/track/0rDoIX84nNoFgYwJOY1rem"
+    },
+    {
+      "album": {
         "name": "Champione",
         "url": "https://open.spotify.com/album/50lpPl3PK2P5Nq3qwNQdU7"
       },
@@ -1798,7 +1820,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 137432,
       "name": "HYSTERICAL",
       "url": "https://open.spotify.com/track/6aHr2pS02pja61XXgHXyG1"
@@ -2461,6 +2483,24 @@
     },
     {
       "album": {
+        "name": "Maniac",
+        "url": "https://open.spotify.com/album/5qSlUGhGA07AmizswfaCdw"
+      },
+      "artists": [
+        {
+          "name": "LAVANT",
+          "url": "https://open.spotify.com/artist/3tLBrZPWCDnCMRVSvE6wFv"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143225,
+      "name": "Maniac",
+      "url": "https://open.spotify.com/track/1vY1s5SzWlksdLEa5erp18"
+    },
+    {
+      "album": {
         "name": "Flashdance (Original Soundtrack From The Motion Picture)",
         "url": "https://open.spotify.com/album/3R6Z3Hp8EMdhgkA5t89NiL"
       },
@@ -2740,7 +2780,7 @@
       ],
       "date_added": "2023-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 210254,
       "name": "MUSTANG",
       "url": "https://open.spotify.com/track/3lLDBAfGYx4ITHoXodltRn"

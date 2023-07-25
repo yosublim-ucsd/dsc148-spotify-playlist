@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "the infinite spine",
+        "url": "https://open.spotify.com/album/0U6mF03dmB2ba3XZXnxgOO"
+      },
+      "artists": [
+        {
+          "name": "Lauren Auder",
+          "url": "https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185668,
+      "name": "33 & golden",
+      "url": "https://open.spotify.com/track/7uCrOs58TqlOEHrEoQkBta"
+    },
+    {
+      "album": {
         "name": "6 In The Morning",
         "url": "https://open.spotify.com/album/2dDroSoRtp3FeUeVSvqUry"
       },
@@ -214,7 +232,7 @@
       ],
       "date_added": "2022-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 283970,
       "name": "Antichrist",
       "url": "https://open.spotify.com/track/5wmBV7RrEDrEamTvCnuLxX"
@@ -581,6 +599,24 @@
     },
     {
       "album": {
+        "name": "Bubblegum",
+        "url": "https://open.spotify.com/album/0rImMICTHs4ayGu4Jzj3Dv"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279133,
+      "name": "Bubblegum",
+      "url": "https://open.spotify.com/track/0DgOpYaaJtM0MELwbHFAeT"
+    },
+    {
+      "album": {
         "name": "Burn It Down",
         "url": "https://open.spotify.com/album/2ys3qNu1mWQpVwL4O4bZYR"
       },
@@ -646,7 +682,7 @@
       ],
       "date_added": "2022-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 158733,
       "name": "Cage Girl",
       "url": "https://open.spotify.com/track/1INxSAGo3BIvfxGBIp7XeM"
@@ -700,7 +736,7 @@
       ],
       "date_added": "2023-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 228016,
       "name": "Counting Empties",
       "url": "https://open.spotify.com/track/7E24Lrt5981VzxUAZQ8Cw2"
@@ -1161,6 +1197,28 @@
     },
     {
       "album": {
+        "name": "Famous Last Words (An Ode to Eaters)",
+        "url": "https://open.spotify.com/album/47mfwMreABCnlLm7EEtHsB"
+      },
+      "artists": [
+        {
+          "name": "1017 ALYX 9SM",
+          "url": "https://open.spotify.com/artist/72Kzyue7ShXymPjcjOZwHk"
+        },
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202867,
+      "name": "Famous Last Words (An Ode to Eaters)",
+      "url": "https://open.spotify.com/track/7bpfZYrS4dQKxiuj6QiRaX"
+    },
+    {
+      "album": {
         "name": "You Don\u2019t Have To Live In Pain",
         "url": "https://open.spotify.com/album/3zUGrOA2TO6l1qX0IqkpeU"
       },
@@ -1352,7 +1410,7 @@
       ],
       "date_added": "2023-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 518745,
       "name": "Go Dig My Grave",
       "url": "https://open.spotify.com/track/5FBto2Mh2gVkGWV0mRh0hg"
@@ -2156,6 +2214,24 @@
       "duration_ms": 316899,
       "name": "My Cosmos Is Mine",
       "url": "https://open.spotify.com/track/4KsArIpW1fuKW6ULDI44lx"
+    },
+    {
+      "album": {
+        "name": "Eye On The Bat",
+        "url": "https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR"
+      },
+      "artists": [
+        {
+          "name": "Palehound",
+          "url": "https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144404,
+      "name": "My Evil",
+      "url": "https://open.spotify.com/track/25acuSS8Mfoo0XVHdPlHTJ"
     },
     {
       "album": {
@@ -3187,6 +3263,24 @@
     },
     {
       "album": {
+        "name": "Somebody Told Me",
+        "url": "https://open.spotify.com/album/3kLyeLRbV9sExn8j6Dxd5P"
+      },
+      "artists": [
+        {
+          "name": "Sorcha Richardson",
+          "url": "https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231242,
+      "name": "Somebody Told Me",
+      "url": "https://open.spotify.com/track/1NipBTZQXFIeQaqzy1Mdjj"
+    },
+    {
+      "album": {
         "name": "Something Better",
         "url": "https://open.spotify.com/album/4Wi3Lw9LbvfBbpPXyEJBCr"
       },
@@ -4052,7 +4146,7 @@
       ],
       "date_added": "2022-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 258733,
       "name": "Waking The Witch",
       "url": "https://open.spotify.com/track/1f4J04qKp7y3UJCxbUOr7z"

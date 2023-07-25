@@ -4,7 +4,7 @@
 
 > Get your bassface on with these classic Dubstep tracks.
 
-94 songs - 7 hr 7 min
+95 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Ginger Pubes](https://open.spotify.com/track/2s0xboyJ9qfdUQVS3ZcY8B) | [Cookie Monsta](https://open.spotify.com/artist/2uGNBmaWvxF6HAcWuhK7OP) | [Ginger Pubes / Blurgh!](https://open.spotify.com/album/4n7w7SRIJxV6oKySEmaAlK) | 5:09 | 2020-10-03 |  |
 | [Hard](https://open.spotify.com/track/35M4cbE6QoUF5b3SlOR9GS) | [Breakage](https://open.spotify.com/artist/68Wb5Pcy71lLaKdIB6cBA5), [David Rodigan](https://open.spotify.com/artist/3Ecj5Hl1oHo9V7XKXdursh), [Newham Generals](https://open.spotify.com/artist/4uvxuGejwpYNsKHUkNNtc7) | [Foundation](https://open.spotify.com/album/3xy1r4NNCOswj3q7vKJpDd) | 3:43 | 2020-10-03 |  |
 | [Heartbeat \- Chase & Status We Just Bought A Guitar Mix](https://open.spotify.com/track/5qPmR4nG3nNAECAN5JxrEV) | [Nneka](https://open.spotify.com/artist/0VX4MyYhvKRtU1AZUVGLUZ), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Heartbeat EP](https://open.spotify.com/album/7cFT0IlqXCMqkjYi7iL5Jf) | 3:57 | 2020-10-03 |  |
-| [Hold Me](https://open.spotify.com/track/1tdDgdYqi3v9kCesCLb9GA) | [Delta Heavy](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T) | [Overkill / Hold Me](https://open.spotify.com/album/6EKQ1n9SIQnyi6VKZXU7Tl) | 5:36 | 2020-10-03 |  |
+| [Hold Me](https://open.spotify.com/track/1tdDgdYqi3v9kCesCLb9GA) | [Delta Heavy](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T) | [Overkill / Hold Me](https://open.spotify.com/album/6EKQ1n9SIQnyi6VKZXU7Tl) | 5:36 | 2020-10-03 | 2023-07-25 |
 | [Hold Me](https://open.spotify.com/track/4KyRFye8Zqh7RAYakwtt65) | [Delta Heavy](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T) | [Overkill / Hold Me](https://open.spotify.com/album/7bKAVmV4Df9cAcyk5BsInf) | 5:36 | 2020-10-03 | 2022-07-28 |
 | [Hold On \- Sub Focus Remix](https://open.spotify.com/track/1p3pNDVO8n9UyNpnNY0qyx) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10), [Amber Coffman](https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn) | [Blow Your Head \- Diplo Presents: Dubstep](https://open.spotify.com/album/4L07DEQ2oZzbNGRd5AHjzH) | 4:26 | 2020-10-03 | 2022-07-25 |
 | [Hold On \- Sub Focus Remix](https://open.spotify.com/track/2bVqnNylWgywBVsUHYBs3R) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10), [Amber Coffman](https://open.spotify.com/artist/4vpGVGgxSDcCTmqYbsOnsn), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Hold On](https://open.spotify.com/album/5cwM3hSW2juHIYuX3GWrqY) | 4:27 | 2020-10-03 | 2023-07-10 |
@@ -101,6 +101,7 @@
 | [Where's My Money \- Caspa Remix](https://open.spotify.com/track/3p3LVZ7hDnIaiIMVXpBOp1) | [TC](https://open.spotify.com/artist/6b1Reb7bhjdXtkR7wUYW61), [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6) | [Where's My Money \(Caspa Remix\) / Tron](https://open.spotify.com/album/0og95zcha0fmiJCMgTfjAV) | 4:58 | 2020-10-03 |  |
 | [Woo Boost](https://open.spotify.com/track/7INs3UHgJ7VCv4IHt2afvG) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [O.M.G.!](https://open.spotify.com/album/4bg3kc8sfr4ArbeEJiFJa5) | 4:08 | 2020-10-03 | 2022-07-29 |
 | [Woo Boost](https://open.spotify.com/track/4lY0v0skiWm1UjRZTVXCnh) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [O.M.G.!](https://open.spotify.com/album/5bhKvBHw9ByWAGYEBLE1lI) | 4:09 | 2020-10-03 | 2023-06-23 |
+| [Woo Boost](https://open.spotify.com/track/5NqgbZeRoGf5ZV7B9Z4gcG) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [O.M.G.!](https://open.spotify.com/album/07BD9T4zyqIl3bIbSrwgmw) | 4:09 | 2020-10-03 |  |
 | [You Can Do It](https://open.spotify.com/track/0kmD6lsVNLzU6dpWxjYxLd) | [Cookie Monsta](https://open.spotify.com/artist/2uGNBmaWvxF6HAcWuhK7OP) | [Me Want Cookie](https://open.spotify.com/album/6oLAMVK3lpLvqWFqqy07Ax) | 3:22 | 2020-10-03 | 2022-07-29 |
 
 \*This playlist was first scraped on 2022-01-17. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas para dan\u00e7ar e louvar com os pequenos adoradores.",
-  "num_followers": 56871,
+  "num_followers": 56942,
   "original_name": "Gospel Kids",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTBiYzU1ZTZlZTM2NDc5Y2E1YTUxMGM4Mzg4Yjc5NmRjMDkwMmNm",
+  "snapshot_id": "MCw0ZjEwNmY5NGVjN2QwZDNlNzJkNjIyMjNlMGY0MzMzNmFiMzE4MWI2",
   "tracks": [
     {
       "added_at": "2023-06-02 03:00:00",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Crian\u00e7as Diante do Trono",
-        "url": "https://open.spotify.com/album/0NQ0gD4kZUZ7NR76X1QCqk"
-      },
-      "artists": [
-        {
-          "name": "Crian\u00e7as Diante do Trono",
-          "url": "https://open.spotify.com/artist/1DrV98ubDph1jAWq7ikcF5"
-        }
-      ],
-      "duration_ms": 310106,
-      "name": "O Amor do Nosso Deus",
-      "url": "https://open.spotify.com/track/2gvn5QvlQdnE2T06ErTaer"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
         "name": "Cabe\u00e7a, Ombro, Joelho e P\u00e9",
         "url": "https://open.spotify.com/album/1F1pwnUBYMI9vFVpIQF97W"
       },
@@ -203,6 +187,22 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
+        "name": "Crian\u00e7as Diante do Trono",
+        "url": "https://open.spotify.com/album/0NQ0gD4kZUZ7NR76X1QCqk"
+      },
+      "artists": [
+        {
+          "name": "Crian\u00e7as Diante do Trono",
+          "url": "https://open.spotify.com/artist/1DrV98ubDph1jAWq7ikcF5"
+        }
+      ],
+      "duration_ms": 310106,
+      "name": "O Amor do Nosso Deus",
+      "url": "https://open.spotify.com/track/2gvn5QvlQdnE2T06ErTaer"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
         "name": "Eu Canto pra Jesus",
         "url": "https://open.spotify.com/album/6iU37mu4rSSCnrUhjnhrWJ"
       },
@@ -215,22 +215,6 @@
       "duration_ms": 181458,
       "name": "Eu Canto pra Jesus",
       "url": "https://open.spotify.com/track/6dWRzM5A2KxgYtzfZozviQ"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "Bruna Kids",
-        "url": "https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 174660,
-      "name": "Corpo Perfeito",
-      "url": "https://open.spotify.com/track/0ppgTngQMJwHyM5DTjo8nv"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -251,18 +235,18 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Minha Pequena Luz",
-        "url": "https://open.spotify.com/album/6CnrRYF7ONjhhmCVzjRkg9"
+        "name": "Bruna Kids",
+        "url": "https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2"
       },
       "artists": [
         {
-          "name": "3 Palavrinhas",
-          "url": "https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL"
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 122626,
-      "name": "Minha Pequena Luz",
-      "url": "https://open.spotify.com/track/1fr5LcT7TguvSZJRlNQNNv"
+      "duration_ms": 174660,
+      "name": "Corpo Perfeito",
+      "url": "https://open.spotify.com/track/0ppgTngQMJwHyM5DTjo8nv"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -279,6 +263,22 @@
       "duration_ms": 188653,
       "name": "Brilhando",
       "url": "https://open.spotify.com/track/6aMHKxUyAUsbVNJa8TbyuX"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
+        "name": "Minha Pequena Luz",
+        "url": "https://open.spotify.com/album/6CnrRYF7ONjhhmCVzjRkg9"
+      },
+      "artists": [
+        {
+          "name": "3 Palavrinhas",
+          "url": "https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL"
+        }
+      ],
+      "duration_ms": 122626,
+      "name": "Minha Pequena Luz",
+      "url": "https://open.spotify.com/track/1fr5LcT7TguvSZJRlNQNNv"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -335,6 +335,22 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
+        "name": "Aline Barros e Cia 2",
+        "url": "https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 189939,
+      "name": "Pedro, Tiago e Jo\u00e3o no Barquinho",
+      "url": "https://open.spotify.com/track/1180Pe0jjGNslftSXTrEKi"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
         "name": "Crian\u00e7a Nota 10",
         "url": "https://open.spotify.com/album/2nFtRppoPctEbxAUTpynL3"
       },
@@ -355,40 +371,8 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Aline Barros e Cia 2",
-        "url": "https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 189939,
-      "name": "Pedro, Tiago e Jo\u00e3o no Barquinho",
-      "url": "https://open.spotify.com/track/1180Pe0jjGNslftSXTrEKi"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "Bruna Kids",
-        "url": "https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        }
-      ],
-      "duration_ms": 186967,
-      "name": "Sapo Aben\u00e7oado",
-      "url": "https://open.spotify.com/track/6udRCH0KMT8k4GrXAsoI6e"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "Toc Toc Toc - Baby Fun (Remix)",
-        "url": "https://open.spotify.com/album/1g7vUqTtKS2DzSRn3lugll"
+        "name": "Caminhando Vou Para Cana\u00e3",
+        "url": "https://open.spotify.com/album/051Ck9PEoQhBlON1mnw0gN"
       },
       "artists": [
         {
@@ -396,9 +380,9 @@
           "url": "https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL"
         }
       ],
-      "duration_ms": 137639,
-      "name": "Toc Toc Toc - Baby Fun - Remix",
-      "url": "https://open.spotify.com/track/6KjIPIOhwSHq2K4ItYRDJb"
+      "duration_ms": 137320,
+      "name": "Caminhando Vou Para Cana\u00e3",
+      "url": "https://open.spotify.com/track/1gjyW1dkU6SfYlo6dwByJz"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -435,6 +419,22 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
+        "name": "Bruna Kids",
+        "url": "https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 186967,
+      "name": "Sapo Aben\u00e7oado",
+      "url": "https://open.spotify.com/track/6udRCH0KMT8k4GrXAsoI6e"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
         "name": "Fam\u00edlia Perfeita",
         "url": "https://open.spotify.com/album/2BOtSzS45MKiRwNHHoPD6V"
       },
@@ -467,8 +467,8 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
-        "name": "Caminhando Vou Para Cana\u00e3",
-        "url": "https://open.spotify.com/album/051Ck9PEoQhBlON1mnw0gN"
+        "name": "Toc Toc Toc - Baby Fun (Remix)",
+        "url": "https://open.spotify.com/album/1g7vUqTtKS2DzSRn3lugll"
       },
       "artists": [
         {
@@ -476,9 +476,9 @@
           "url": "https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL"
         }
       ],
-      "duration_ms": 137320,
-      "name": "Caminhando Vou Para Cana\u00e3",
-      "url": "https://open.spotify.com/track/1gjyW1dkU6SfYlo6dwByJz"
+      "duration_ms": 137639,
+      "name": "Toc Toc Toc - Baby Fun - Remix",
+      "url": "https://open.spotify.com/track/6KjIPIOhwSHq2K4ItYRDJb"
     },
     {
       "added_at": "2023-06-02 03:00:00",
@@ -603,6 +603,26 @@
     {
       "added_at": "2023-06-02 03:00:00",
       "album": {
+        "name": "Chevere (feat. Lito Atalaia)",
+        "url": "https://open.spotify.com/album/2nuYrKJ4TCQ1B9ZV2Mjupg"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Lito Atalaia",
+          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
+        }
+      ],
+      "duration_ms": 213422,
+      "name": "Chevere (feat. Lito Atalaia)",
+      "url": "https://open.spotify.com/track/3Ecllma7tEPF8gZZZsNp1v"
+    },
+    {
+      "added_at": "2023-06-02 03:00:00",
+      "album": {
         "name": "Tudo Vai Terminar Bem",
         "url": "https://open.spotify.com/album/45SiWKT4wFF9c67wCqiMBA"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 158282,
       "name": "Na Trilha da Cria\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2AeUTBwpPLpEJbu6T7I335"
-    },
-    {
-      "added_at": "2023-06-02 03:00:00",
-      "album": {
-        "name": "Chevere (feat. Lito Atalaia)",
-        "url": "https://open.spotify.com/album/2nuYrKJ4TCQ1B9ZV2Mjupg"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        },
-        {
-          "name": "Lito Atalaia",
-          "url": "https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3"
-        }
-      ],
-      "duration_ms": 213422,
-      "name": "Chevere (feat. Lito Atalaia)",
-      "url": "https://open.spotify.com/track/3Ecllma7tEPF8gZZZsNp1v"
     },
     {
       "added_at": "2023-06-02 03:00:00",

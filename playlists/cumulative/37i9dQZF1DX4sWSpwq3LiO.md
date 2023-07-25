@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,606 songs - 2 day 23 hr 27 min
+1,607 songs - 2 day 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [as the sun shines, dewdrops glisten](https://open.spotify.com/track/4ZrV1hcAXWu6ahXEE8PIK0) | [Tom Merrall](https://open.spotify.com/artist/6yA3IxrqgMBl7qOZDJZ3hG) | [as the sun shines, dewdrops glisten](https://open.spotify.com/album/0vRufu0u2fR8A6H6GlUcTN) | 2:31 | 2022-01-19 | 2022-07-29 |
 | [As We Fall In Love Again](https://open.spotify.com/track/2lwkWns2UHsmppqcpjIl5R) | [Joy Meyer\-Williams](https://open.spotify.com/artist/0uGHltM64FZJWH1uOr8YWU) | [As We Fall In Love Again](https://open.spotify.com/album/37lCe2jTM8UEYXcS1tESar) | 2:50 | 2020-06-09 | 2021-02-17 |
 | [As You Close Your Eyes](https://open.spotify.com/track/5yLEm7dJOXoMBR5OztKbY4) | [Elias Braun](https://open.spotify.com/artist/2LwwTAjeVNZ8DAtyaBrsE8), [Denis Turbide](https://open.spotify.com/artist/3Ivps5evkCqTJp50aqXTlu) | [As You Close Your Eyes](https://open.spotify.com/album/6Yq5oI6Ao8NfA5ESWn10Qa) | 2:06 | 2021-06-24 | 2022-10-14 |
+| [Ash of memory](https://open.spotify.com/track/6rb8PeoAVfIyAJ0EqQCgU2) | [Thomas Preber](https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79) | [Ash of memory](https://open.spotify.com/album/4WEz8LHe96zM7RwV4IKxVq) | 1:55 | 2023-07-24 |  |
 | [Ashokan](https://open.spotify.com/track/3wa8YzkpiHEhmcpiuiqUem) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft) | [Ashokan](https://open.spotify.com/album/04BQhBmWuSAD0P7Ko1TopF) | 1:57 | 2019-05-26\* | 2020-03-31 |
 | [Ask Me Anything](https://open.spotify.com/track/36wwYDM1vuWHuocV3Nq9hf) | [Joseph Seabolt](https://open.spotify.com/artist/3DBTOIFpBevoljTuKMfmHS) | [Ask Me Anything](https://open.spotify.com/album/0aNWplsJgFaWTHjp33JWj6) | 2:23 | 2023-01-09 |  |
 | [Asteroid](https://open.spotify.com/track/5Enc5JAvGziRBT7YQqdgXO) | [Saddest Girl In The World](https://open.spotify.com/artist/08g585oJkNJi7zMacm8LA6) | [Tomorrow EP](https://open.spotify.com/album/2XLQK7qXj1syMDkuPpmLId) | 2:57 | 2019-08-23 | 2020-03-17 |

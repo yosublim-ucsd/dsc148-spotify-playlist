@@ -505,6 +505,24 @@
     },
     {
       "album": {
+        "name": "Bye",
+        "url": "https://open.spotify.com/album/48bWV4aSOwyLBhgmoxQCF8"
+      },
+      "artists": [
+        {
+          "name": "Aditya Bhardwaj",
+          "url": "https://open.spotify.com/artist/4LZrB16vINsCHc28cE6oQo"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174285,
+      "name": "Bye",
+      "url": "https://open.spotify.com/track/0PGU5mcLncBYE8yuVpSwqA"
+    },
+    {
+      "album": {
         "name": "Chaand Baaliyan",
         "url": "https://open.spotify.com/album/6AJaDEafyyyWWXHZQtcFGe"
       },
@@ -1915,6 +1933,24 @@
     },
     {
       "album": {
+        "name": "Khaak",
+        "url": "https://open.spotify.com/album/2TRkDF25nPk8cwga28yooJ"
+      },
+      "artists": [
+        {
+          "name": "Ramil Ganjoo",
+          "url": "https://open.spotify.com/artist/2tQF5y205UlqIPUB4kSsDg"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214500,
+      "name": "Khaak",
+      "url": "https://open.spotify.com/track/1Y74Rn3fLUbYRNhzXpFMx4"
+    },
+    {
+      "album": {
         "name": "Khidki",
         "url": "https://open.spotify.com/album/6r12VYHgQOjtsJxhJGKLeQ"
       },
@@ -1956,6 +1992,24 @@
       "duration_ms": 178197,
       "name": "Khoya",
       "url": "https://open.spotify.com/track/0P4AQdNDgEdi7J8mpgY8Jx"
+    },
+    {
+      "album": {
+        "name": "Khoya Khoya",
+        "url": "https://open.spotify.com/album/2cOBQYgex5kvjrF1gkSxjb"
+      },
+      "artists": [
+        {
+          "name": "Anumita Nadesan",
+          "url": "https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211495,
+      "name": "Khoya Khoya",
+      "url": "https://open.spotify.com/track/5N21MtYa2f16k5XrgweCv6"
     },
     {
       "album": {
@@ -2276,7 +2330,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 198303,
       "name": "Muskan",
       "url": "https://open.spotify.com/track/16ZcfVSuCcBDdlpvmEIA1i"
@@ -2644,7 +2698,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 237980,
       "name": "Pukaroge",
       "url": "https://open.spotify.com/track/2fLoGliNPrkYu3538MEXAr"
@@ -3082,7 +3136,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 153977,
       "name": "Shola",
       "url": "https://open.spotify.com/track/2wMF8mtqMtQbROrsyCca7p"
@@ -3542,7 +3596,7 @@
       ],
       "date_added": "2023-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 172823,
       "name": "Tere Bina",
       "url": "https://open.spotify.com/track/6k1hBhDbcwyh1KuSFAoLTJ"
@@ -3680,6 +3734,24 @@
       "duration_ms": 227500,
       "name": "Toh Kya Ye Teh Hai",
       "url": "https://open.spotify.com/track/682n0ZYSJuHmxJ28Mxn7qK"
+    },
+    {
+      "album": {
+        "name": "Tu Kahaan Hai?",
+        "url": "https://open.spotify.com/album/7wnywQW8a2YFp2gpsaiC19"
+      },
+      "artists": [
+        {
+          "name": "Akanksha Sethi",
+          "url": "https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191034,
+      "name": "Tu Kahaan Hai?",
+      "url": "https://open.spotify.com/track/2UmL7Lg9B1vpDQoopwfYcD"
     },
     {
       "album": {
@@ -3892,7 +3964,7 @@
       ],
       "date_added": "2022-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 201810,
       "name": "Ye Teri Meri Kahani",
       "url": "https://open.spotify.com/track/1IsMTMT8ASvZqApzGKkAG9"

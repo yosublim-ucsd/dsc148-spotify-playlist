@@ -4,7 +4,7 @@
 
 > All\-new releases by Latin artists! Cover: Mau y Ricky & La Joaqui
 
-4,733 songs - 10 day 9 hr 41 min
+4,735 songs - 10 day 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2202,6 +2202,7 @@
 | [La Vida Es Así](https://open.spotify.com/track/2X4CAuJnQIVQKG7YUwSXI9) | [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [La Vida Es Así](https://open.spotify.com/album/4ApY38KVEw58DxrAAMxiig) | 3:47 | 2022-01-28 | 2022-02-05 |
 | [La Vida Es Un Carnaval \- From "La Usurpadora The Musical" Original Soundtrack](https://open.spotify.com/track/5vxh0gewBJMT0VSWlCN2E9) | [La Usurpadora The Musical Cast](https://open.spotify.com/artist/7zquus1cn1lekHTgumnCcw), [Isabella Castillo](https://open.spotify.com/artist/1VMbsWJQQaRlubXsKcEOcL) | [La Vida Es Un Carnaval \(From "La Usurpadora The Musical" Original Soundtrack\)](https://open.spotify.com/album/5EzYTIbfHxqDOdPksSk4YF) | 2:49 | 2023-03-24 | 2023-04-01 |
 | [La Vida Es Una \(From Puss in Boots: The Last Wish\)](https://open.spotify.com/track/35HgzqAoEZ28Ovq7kb9nDz) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [La Vida Es Una \(From Puss in Boots: The Last Wish\)](https://open.spotify.com/album/4IhIx79me6iItoaJzR0Xqb) | 3:09 | 2022-12-09 | 2022-12-17 |
+| [La Vuelta](https://open.spotify.com/track/0bRVUjuxbJSobty6cK6V8F) | [Manuel La Joya](https://open.spotify.com/artist/69o2LUrX032mHuCEAxSB6P) | [La Vuelta](https://open.spotify.com/album/6QIsSRlTsS4OVEkKFzVbJx) | 2:43 | 2023-07-24 |  |
 | [La última \- De La Serie "La última"](https://open.spotify.com/track/65XxnbzaflcACTIOHum0A6) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [La última \(De La Serie "La última"\)](https://open.spotify.com/album/5AXFBfTaJDz8eWx80QMThY) | 3:36 | 2022-11-12 | 2022-11-19 |
 | [La Última Canción](https://open.spotify.com/track/0wKivXf3kIW91AtEll1Aqa) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [La Última Canción](https://open.spotify.com/album/0pSYqGyZXM9SlyTdyB1t1N) | 3:15 | 2023-05-05 | 2023-05-13 |
 | [Laberinto](https://open.spotify.com/track/0dLGjsAIbZjyPWJmiSiSsN) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [David Palacio](https://open.spotify.com/artist/07O1E4p8TxhyvbMoVPgV5k) | [Piratas, Pero Románticos \(Con Ritmos Chidos\)](https://open.spotify.com/album/2RphpJJRwZgzHQHqiF1PGr) | 3:20 | 2022-09-30 | 2022-10-08 |
@@ -4499,6 +4500,7 @@
 | [Velero](https://open.spotify.com/track/4mQ4EM1rxdOo7Cc9g5dXK2) | [Matt Hunter](https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU), [Jambene](https://open.spotify.com/artist/4u1dsEB1FKbGcdG0EAvxP8) | [Velero](https://open.spotify.com/album/7tBeAWDG3WD9AtaxpAjpU4) | 2:16 | 2023-01-27 | 2023-02-04 |
 | [VEN ARREBÁTATE](https://open.spotify.com/track/36GbqfgNwZJQULo5YghqKk) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [VEN ARREBÁTATE](https://open.spotify.com/album/5fepa7gJGppMHycR9XP2qr) | 4:18 | 2023-05-26 | 2023-06-03 |
 | [Ven Conmigo](https://open.spotify.com/track/65yi0yP8iLDfjhTeUfVIsE) | [Dariell Cano](https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Ven Conmigo](https://open.spotify.com/album/4Wv3K2luunVJZoA6DJ3OIo) | 3:22 | 2022-12-09 | 2022-12-17 |
+| [VEN VEN](https://open.spotify.com/track/6nEECusf3D3cutpvoGtpyL) | [Darho](https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq) | [VEN VEN](https://open.spotify.com/album/7noLLrkePRQ20CJnyFn1Wr) | 2:46 | 2023-07-24 |  |
 | [Veneno](https://open.spotify.com/track/2WHw2kiG0nhWXgTUqQjr4v) | [Gian Varela](https://open.spotify.com/artist/0vN342SOFAsCVGGZwLU9AF), [Steve Andreas](https://open.spotify.com/artist/5cgrJ6S2UcstdytAs5PQz6), [Felicia](https://open.spotify.com/artist/2vn8ZAQQc9NvtQ5gxb77Hp) | [Veneno](https://open.spotify.com/album/0YxHSCJZ6C7AWznpuXH4wF) | 3:07 | 2022-05-06 | 2022-05-14 |
 | [Veneno](https://open.spotify.com/track/0Dx6Z3k4Df9o6QfGdDIBXo) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Veneno](https://open.spotify.com/album/7bmsR2hl2kqvsHbP2c5OxC) | 3:10 | 2023-05-05 | 2023-05-13 |
 | [Veneno Ajeno](https://open.spotify.com/track/5jBcaTpkHFjMBMfXPYZSah) | [Mila](https://open.spotify.com/artist/1A4rgJKh9qAm9PWIDAT1x5) | [Veneno Ajeno](https://open.spotify.com/album/3XIZ9vevMpbNn5kmJIVdJo) | 3:41 | 2022-08-26 | 2022-09-03 |

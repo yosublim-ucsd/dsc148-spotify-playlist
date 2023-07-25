@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > it's a generation ⛓ ft\. knox
 
-[Spotify](https://open.spotify.com/user/spotify) - 343,928 likes - 85 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 343,945 likes - 85 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 | 84 | [I Love Myself](https://open.spotify.com/track/0ObrhGyCklNz4yM6OBsbMk) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [I Love Myself](https://open.spotify.com/album/4DhPfoDuwknZjkQPFPiEEo) | 2:25 |
 | 85 | [DOWN BAD](https://open.spotify.com/track/0tvKYDs3fTQeBKMLYhSElW) | [Red Leather](https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1) | [DOWN BAD](https://open.spotify.com/album/14tgVsMWL28HnQBxmqV6Io) | 2:57 |
 
-Snapshot ID: `MCxhNTJjZmZjNWFiYjBkY2Y0N2U5NzY4YzBkMDE5YThjZDBmZTYwY2U5`
+Snapshot ID: `MCxkOWU2YTY2M2ZmNTg4ZTEzZTc1MzEzNTBhNTRkY2IzOThlMjg5NTc4`

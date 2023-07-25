@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: NewJeans
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,515 likes - 111 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,545 likes - 111 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 110 | [Where's My Fourleaf Clover Gone?](https://open.spotify.com/track/2rALrQTKbTLG0Mic7f4Gkn) | [Jh4y](https://open.spotify.com/artist/01yGyVB1FyqBdpe7usXZ9o), [JAKS](https://open.spotify.com/artist/1sNWjZHgC7t467cyPzoDgG) | [Where's My Fourleaf Clover Gone?](https://open.spotify.com/album/4e5jCbx69ziZsT2uXi8FWF) | 3:50 |
 | 111 | [Lullaby](https://open.spotify.com/track/3e3dNF0OkAyfQ5pV2Tfwm8) | [Matilde G](https://open.spotify.com/artist/4kV6iM6LBNfZX4qRHJUoNH) | [Lullaby](https://open.spotify.com/album/3G1zM28u6OefzrrIUowAu0) | 3:03 |
 
-Snapshot ID: `MCw4ZDAxOWUwNDdiNmJkMWJmZTEyMzY0MTRiOWNhOTE1ZmNmMjYzMjk2`
+Snapshot ID: `MCw3ZjgxNDYyMjMwZDk2YjY2Y2M3Y2Y4NmY5NmRjNWVhOTZhNmU1N2Qy`

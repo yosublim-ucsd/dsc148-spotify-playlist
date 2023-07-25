@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 
 > 2023 全新陣容出列！台灣出發， 展望世界，他們就是未來的巨星星！Cover: LINION
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,753 likes - 67 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,760 likes - 67 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2P3E6UOxZyt.md) - [plain]
 | 66 | [放棄](https://open.spotify.com/track/5haSd5TSsrNR9G34J1W01V) | [Vicky Chen](https://open.spotify.com/artist/01u3qI3xMGFvktXyRSMGRZ) | [放棄](https://open.spotify.com/album/2MD2XlJ9XntKndK3Pkhec7) | 2:41 |
 | 67 | [Black Panther](https://open.spotify.com/track/6OHNx1ADztv9b8mCBi2Y5s) | [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [Black Panther](https://open.spotify.com/album/1SSH4FrbiCFmlkMeUNQ7I8) | 3:30 |
 
-Snapshot ID: `MCwzZmZiMzE2NjI1NWVhYTEzYjQ5NDg3MGY2MDZjNTQyNDg0ZjJiM2Jk`
+Snapshot ID: `MCw1NDEyZDBjNjcwYmM2YzhiZjA4Njc1MmE4ZTc4MGM1NzI5OWVkNGFi`

@@ -235,6 +235,32 @@
     },
     {
       "album": {
+        "name": "Bhussi",
+        "url": "https://open.spotify.com/album/1bRdFGU7FkyGzJdODQz3dj"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        },
+        {
+          "name": "Seedhe Maut",
+          "url": "https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo"
+        },
+        {
+          "name": "Karan Kanchan",
+          "url": "https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Bhussi",
+      "url": "https://open.spotify.com/track/4jwC6DDNc7zhe6f6g4yqAd"
+    },
+    {
+      "album": {
         "name": "Blowing Up",
         "url": "https://open.spotify.com/album/0nzNYneCXJhO6OZQLHROri"
       },
@@ -584,6 +610,28 @@
       "duration_ms": 174897,
       "name": "HELLO",
       "url": "https://open.spotify.com/track/5HTVLbAStMB6MgfGOww6xW"
+    },
+    {
+      "album": {
+        "name": "Hona Door",
+        "url": "https://open.spotify.com/album/7pdDgRl2GqNxWbcDCArEAo"
+      },
+      "artists": [
+        {
+          "name": "Yunan",
+          "url": "https://open.spotify.com/artist/6gIUB3nYX67IbwUi2bcrUJ"
+        },
+        {
+          "name": "Ysoblue",
+          "url": "https://open.spotify.com/artist/2ASakRf4a8CynyqnuCMEww"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165818,
+      "name": "Hona Door",
+      "url": "https://open.spotify.com/track/5V53iOEMA72GtdvMyCoooa"
     },
     {
       "album": {

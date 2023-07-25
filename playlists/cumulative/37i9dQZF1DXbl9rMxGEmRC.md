@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-449 songs - 1 day 14 hr 36 min
+450 songs - 1 day 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Death from Above](https://open.spotify.com/track/3UEGcNxDDunUiGR6KIbCZ0) | [Goatwhore](https://open.spotify.com/artist/59YfPxuxGghrdPumu6aFKI) | [Death from Above](https://open.spotify.com/album/47k2MkyzdzyjBUHumB3OaO) | 3:32 | 2022-09-01 | 2022-11-17 |
 | [Death Walks Among Us \- Single Edit](https://open.spotify.com/track/005yHsz6xGZubdhG8ghJdY) | [Depressed Mode](https://open.spotify.com/artist/2vKi7KUTYLHqKVQQ3cpBo0) | [Death Walks Among Us](https://open.spotify.com/album/3UuzBA3t6Krm96ydpYXaei) | 4:38 | 2022-01-14 | 2022-04-02 |
 | [Deathcrush](https://open.spotify.com/track/5wWRdIjndDOh1j4OXAPpdD) | [Mayhem](https://open.spotify.com/artist/0dR10i73opHXuRuLbgxltM) | [Deathcrush](https://open.spotify.com/album/2RxBdrvHKwgx57RKrNQ9hz) | 3:32 | 2022-07-13 | 2023-03-01 |
-| [Decade of Therion](https://open.spotify.com/track/1CrBmNLLRTuq19YHFxZV6h) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Satanica](https://open.spotify.com/album/5GVt3QeIw7ueuou2AZlzcV) | 3:19 | 2022-07-13 |  |
+| [Decade of Therion](https://open.spotify.com/track/1CrBmNLLRTuq19YHFxZV6h) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [Satanica](https://open.spotify.com/album/5GVt3QeIw7ueuou2AZlzcV) | 3:19 | 2022-07-13 | 2023-07-25 |
 | [Demonon Vrosis](https://open.spotify.com/track/6YuVmHEXQU3Dgg3w3LSZnZ) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ) | [Aealo](https://open.spotify.com/album/16ywSYjE1gvCU1GtlYVXgV) | 4:56 | 2022-07-13 |  |
 | [Destination Woe](https://open.spotify.com/track/1J4V8aJYMKrFAj64ry7Pxl) | [Shores Of Null](https://open.spotify.com/artist/76lKNyW77arKg42qdDO9Sm) | [Destination Woe](https://open.spotify.com/album/5q13Ch3bg28ZqVrHhPsP1y) | 4:52 | 2023-03-17 | 2023-04-01 |
 | [Devil's Blood](https://open.spotify.com/track/3YW1hcnwzRIjwBfXuxl99Q) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [Casus Luciferi \(Remastered\)](https://open.spotify.com/album/56zmJY3VeoWpC2j71DbsOI) | 5:54 | 2022-07-13 | 2022-07-29 |
@@ -374,6 +374,7 @@
 | [The Calling](https://open.spotify.com/track/0FqwZuGCQLvXIMwbob6bo1) | [Saturnus](https://open.spotify.com/artist/7HY8HFHBM9zrY5R9rlY3Id) | [The Calling](https://open.spotify.com/album/6mNPBN9o73Hon2zGRVvQC0) | 6:59 | 2023-03-17 | 2023-05-13 |
 | [The Celestial Keeper](https://open.spotify.com/track/3OQ3r2qzMj1gBpfQpo4HEZ) | [Fall Of The Leafe](https://open.spotify.com/artist/74wuD78VWnyGSwDvVtrQwn) | [Evanescent, Everfading](https://open.spotify.com/album/1zv5yNwJ91m73bxYe0r87V) | 4:29 | 2023-02-15 | 2023-03-18 |
 | [The Common Breed](https://open.spotify.com/track/3GT73Y2VeQaxa4XczlckO8) | [Creeping Death](https://open.spotify.com/artist/0m8C12hSt640ovLaxlsd5u) | [The Common Breed](https://open.spotify.com/album/2GfU8qLbwtmiGQ75f42IEE) | 4:32 | 2023-05-12 | 2023-06-18 |
+| [The Dark \(Winter\)](https://open.spotify.com/track/451BYwGZF7lYLxkhJk1zCE) | [Uada](https://open.spotify.com/artist/30R8X3xhfDbxAcfxSZ0UaQ) | [The Dark \(Winter\)](https://open.spotify.com/album/1K2Z23Ff5NNhERhuqhiAF2) | 7:31 | 2023-07-21 |  |
 | [The Dhampir, Pt\. I](https://open.spotify.com/track/2u3DAKhCPzGIZQfKRrm5zU) | [Tribulation](https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge) | [The Dhampir](https://open.spotify.com/album/2Oc0qi4XSeJgm6b8IqgChm) | 5:49 | 2022-04-22 | 2022-07-29 |
 | [The Dregs of Hades](https://open.spotify.com/track/03NK3EtH3txhiF6HiDH649) | [Lock Up](https://open.spotify.com/artist/0AKZrsOYW77C7QW1jzdhNX) | [The Dregs of Hades](https://open.spotify.com/album/2LAZb8cxJwce79vcz8gJCn) | 2:00 | 2021-12-17 | 2022-07-26 |
 | [The End Times](https://open.spotify.com/track/6FzzjKoj5Py692r0H7avNK) | [Saturnian Mist](https://open.spotify.com/artist/6AxkeLJs2XstRIeKqgSGTW) | [Shamatanic](https://open.spotify.com/album/1M5a4v5udsE4wUhKl3Lzi3) | 6:06 | 2021-12-17 | 2022-05-07 |

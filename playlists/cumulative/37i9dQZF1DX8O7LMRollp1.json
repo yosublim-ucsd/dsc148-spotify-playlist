@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "Revenant (Original Soundtrack) Pt.3",
+        "url": "https://open.spotify.com/album/6zs7BgVQ1EuROfYDrAzWRl"
+      },
+      "artists": [
+        {
+          "name": "LEEBADA",
+          "url": "https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184834,
+      "name": "The door",
+      "url": "https://open.spotify.com/track/3jOmQxYDgwhygI9QKXGqMO"
+    },
+    {
+      "album": {
         "name": "Penthouse2 (Original Television Soundtrack) Pt. 3",
         "url": "https://open.spotify.com/album/1zWN2Vz1TcgEBRRJzZD5Uw"
       },

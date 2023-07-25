@@ -45421,6 +45421,24 @@
     },
     {
       "album": {
+        "name": "La Vuelta",
+        "url": "https://open.spotify.com/album/6QIsSRlTsS4OVEkKFzVbJx"
+      },
+      "artists": [
+        {
+          "name": "Manuel La Joya",
+          "url": "https://open.spotify.com/artist/69o2LUrX032mHuCEAxSB6P"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163358,
+      "name": "La Vuelta",
+      "url": "https://open.spotify.com/track/0bRVUjuxbJSobty6cK6V8F"
+    },
+    {
+      "album": {
         "name": "La \u00faltima (De La Serie \"La \u00faltima\")",
         "url": "https://open.spotify.com/album/5AXFBfTaJDz8eWx80QMThY"
       },
@@ -92896,6 +92914,24 @@
       "duration_ms": 202197,
       "name": "Ven Conmigo",
       "url": "https://open.spotify.com/track/65yi0yP8iLDfjhTeUfVIsE"
+    },
+    {
+      "album": {
+        "name": "VEN VEN",
+        "url": "https://open.spotify.com/album/7noLLrkePRQ20CJnyFn1Wr"
+      },
+      "artists": [
+        {
+          "name": "Darho",
+          "url": "https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166905,
+      "name": "VEN VEN",
+      "url": "https://open.spotify.com/track/6nEECusf3D3cutpvoGtpyL"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: 落日飛車 Sunset Rollercoaster
 
-889 songs - 2 day 5 hr 19 min
+890 songs - 2 day 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -588,7 +588,8 @@
 | [Rude Awakening](https://open.spotify.com/track/7lwHFDcmB0z3yRzxfG2pJV) | [Grrrl Gang](https://open.spotify.com/artist/4GgA61hzcYno3GYTrjhZ6A) | [Rude Awakening](https://open.spotify.com/album/1zWz2sQDloQECeaiszhPng) | 2:23 | 2023-06-29 | 2023-07-21 |
 | [Rule The World](https://open.spotify.com/track/3GElb4cD3GkscbanLhYlQQ) | [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg) | [Rule The World](https://open.spotify.com/album/4D2GvlKXrCTl0WEDgzgjxe) | 2:27 | 2023-03-09 | 2023-04-21 |
 | [Run](https://open.spotify.com/track/6Lnb8cCLqHwpofO3o3pgzI) | [Frys](https://open.spotify.com/artist/4lCBdUlETFSzE8JhSHyhyJ) | [La Journée](https://open.spotify.com/album/6MwK3P1HHWGBQAK7Wl9yq8) | 3:43 | 2023-03-23 | 2023-04-21 |
-| [running away from whatever you call paradise](https://open.spotify.com/track/60rBSYpVF3uPhWsO45a0GW) | [a kid named rufus](https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j) | [whatever works](https://open.spotify.com/album/63x6ehILu5223aljaHfeiK) | 3:28 | 2023-07-13 |  |
+| [running away from whatever you call paradise](https://open.spotify.com/track/60rBSYpVF3uPhWsO45a0GW) | [a kid named rufus](https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j) | [whatever works](https://open.spotify.com/album/63x6ehILu5223aljaHfeiK) | 3:28 | 2023-07-13 | 2023-07-25 |
+| [running away from whatever you call paradise](https://open.spotify.com/track/6letrIiNyYIxpQZnbs8e3j) | [a kid named rufus](https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j) | [whatever works](https://open.spotify.com/album/6gEyHGNecWqivhWhMn7fFj) | 3:28 | 2023-07-20 |  |
 | [Rush](https://open.spotify.com/track/0zUw0nXudjwn9V9MoS6h4U) | [Echo Resort](https://open.spotify.com/artist/5DDzVl7PztpChpK9ZxTXZe) | [Rush](https://open.spotify.com/album/4Dv57kw9Y2U6MMJFcNiesU) | 5:15 | 2022-11-24 | 2023-02-17 |
 | [Saan?](https://open.spotify.com/track/61DuXKQqvXkxcrAIiNLIgR) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Saan?](https://open.spotify.com/album/2USw0nRD3YRnfofRyufJnR) | 3:26 | 2023-04-20 |  |
 | [sad girl](https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [sad girl](https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN) | 2:28 | 2023-07-20 |  |
@@ -638,7 +639,7 @@
 | [sorry it's december](https://open.spotify.com/track/7oReofzcCaync7NIOx4gnA) | [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [sorry it's december](https://open.spotify.com/album/78R3ypvc7HzPLf35YkUJh6) | 2:51 | 2022-12-23 | 2023-01-27 |
 | [SOUL \(feat\. sunshine blvd.\)](https://open.spotify.com/track/7BCMGPexL5U99IY3pBrxog) | [minor.](https://open.spotify.com/artist/4XZyugjrzgUfkvScYggo71), [sunshine blvd.](https://open.spotify.com/artist/0hqb9YnV2YAr2lPHwn5rKe) | [SOUL \(feat\. sunshine blvd.\)](https://open.spotify.com/album/3HGos1wXHhSXT4Vq5okUa6) | 2:53 | 2022-05-06 | 2022-06-24 |
 | [sour patch](https://open.spotify.com/track/2wE6tegCkdlnJZtFbDScsA) | [Darren & Cashwell](https://open.spotify.com/artist/047tIYfc2xQ4IlQvKwKeh6) | [sour patch](https://open.spotify.com/album/7AxUn89z5i2BiiBbjKMtjh) | 2:39 | 2022-04-07 | 2022-06-17 |
-| [South East](https://open.spotify.com/track/2CiWIw60PWOYliSOk2iZKk) | [Ali](https://open.spotify.com/artist/7k5N7JJKEPUPQfK8whGITe) | [Malaka](https://open.spotify.com/album/3APaflMX3wNb1BCJZ0UUOS) | 3:36 | 2023-07-20 |  |
+| [South East](https://open.spotify.com/track/2CiWIw60PWOYliSOk2iZKk) | [Ali](https://open.spotify.com/artist/6NNWuImyEhZANj6R2JnDwZ) | [Malaka](https://open.spotify.com/album/3APaflMX3wNb1BCJZ0UUOS) | 3:36 | 2023-07-20 |  |
 | [Space Orphans](https://open.spotify.com/track/4IXZoWKRxDqw7hfz3jLwwg) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Space Orphans](https://open.spotify.com/album/5t1LwQUXqYyGxHDbivxXEo) | 4:35 | 2023-05-25 |  |
 | [Sparks](https://open.spotify.com/track/2z6EbZR9tXxESExgrUjVyP) | [Cornelius](https://open.spotify.com/artist/2vJObElaIZWYDLpiXiJMo9) | [Sparks](https://open.spotify.com/album/3NIn670h7MTBhU1VGfmQF7) | 4:23 | 2023-05-25 | 2023-06-02 |
 | [Spell](https://open.spotify.com/track/4VWYQQyJs09I6A4FdjoOun) | [Dvy](https://open.spotify.com/artist/27mZIRyex2VVr6mmELKI1i) | [Same As You](https://open.spotify.com/album/0c8ihXb0VoNdEPIpwVG2CL) | 3:18 | 2023-05-11 | 2023-06-09 |

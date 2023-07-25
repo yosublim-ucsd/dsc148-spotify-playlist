@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules or boundaries\. The very best new alternative tracks\. Cover: Paris Texas
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,130,883 likes - 128 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,130,972 likes - 128 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 | 127 | [Cheerleader](https://open.spotify.com/track/2fxoNGEf4hMPfNKwxL7irU) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [Cheerleader](https://open.spotify.com/album/0G7TZnfLKBjCBRksNsiN3P) | 2:27 |
 | 128 | [I Can Do Better Than You](https://open.spotify.com/track/1iXLSF3ubFsM6vQAIvWwvR) | [Little Hurt](https://open.spotify.com/artist/3QN1rAppoKbXhExveckTuO) | [Lovely Hours](https://open.spotify.com/album/6UNyLXllCgkdwuDuudZFYY) | 2:26 |
 
-Snapshot ID: `MCxlNDQyYzE3NGEwYjBkMGEwMThjNGM0NWUzZDcyODcyMGY3ZmRmYTY5`
+Snapshot ID: `MCwyMjI5ZDQ0MGNjNTJkZGM5ZDkxZGViMWQ4ZGIxM2EzYWJjZjJmMzQ0`

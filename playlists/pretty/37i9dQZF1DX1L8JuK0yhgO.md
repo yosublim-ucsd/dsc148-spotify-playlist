@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,350 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,375 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [\#CONCAFE \- Remix](https://open.spotify.com/track/0sgpd2GnfHipEgFCwPncWy) | [DARE](https://open.spotify.com/artist/2zW8YcLjESJvIVlS6Qx7jv), [zakodoll](https://open.spotify.com/artist/0YMbl0nYpVHQVNQWv9Jz2I), [Tiger Roar Beats](https://open.spotify.com/artist/3ADg43onakfwtXhmC68Ptk) | [\#CONCAFE \(Remix\)](https://open.spotify.com/album/45HVsxzxVYmzIdpQulciFP) | 2:30 |
 | 60 | [eyes](https://open.spotify.com/track/2qkomBfK3Oca2IDKVnjnxF) | [safmusic](https://open.spotify.com/artist/6Iq2QcwNckedD5LwLDusw7), [fox4G](https://open.spotify.com/artist/2UpNMu0j9KUHodQicPHTTQ) | [eyes](https://open.spotify.com/album/3SbI4DgKegaI2trXdNtpwI) | 3:04 |
 
-Snapshot ID: `MCwyNzlmMTliNzI1OGRiOTJjMDE5ZDQ5NjViZDUyNGU1Y2Y3OGJmOTEz`
+Snapshot ID: `MCxkYzdjMGQyN2JmZTgzOTEyMDFlZmFmZTc2MjMxYWVhYmE1MzY2NmUy`

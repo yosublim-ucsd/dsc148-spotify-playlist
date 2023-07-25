@@ -4,7 +4,7 @@
 
 > Current indie tunes from Asia and around the world\. Cover: Cigarettes After Sex
 
-1,054 songs - 2 day 15 hr 29 min
+1,055 songs - 2 day 15 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -757,7 +757,8 @@
 | [run away](https://open.spotify.com/track/0HWEriyFnKofjQDYNQwiBo) | [GOTCHA !](https://open.spotify.com/artist/4EF3hQH5Jao0sf0ZpgRb9u) | [run away](https://open.spotify.com/album/38vueCDuspel1zTJFGT20w) | 3:01 | 2022-01-06 | 2022-03-11 |
 | [Run To The Moon](https://open.spotify.com/track/03tXFHO65orOSnHlEDf0JK) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Run To The Moon](https://open.spotify.com/album/5OUIMs7DlmNEY1ia8IVQfs) | 3:45 | 2023-04-28 | 2023-05-27 |
 | [Run to you \- Christmas Special](https://open.spotify.com/track/2LeNMdCRoqrLue1lsCMW5i) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Run to you \(Christmas Special\)](https://open.spotify.com/album/590gdVrqvyYCcbPcbXsPZf) | 3:06 | 2021-12-23 | 2022-02-11 |
-| [running away from whatever you call paradise](https://open.spotify.com/track/60rBSYpVF3uPhWsO45a0GW) | [a kid named rufus](https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j) | [whatever works](https://open.spotify.com/album/63x6ehILu5223aljaHfeiK) | 3:28 | 2023-07-16 |  |
+| [running away from whatever you call paradise](https://open.spotify.com/track/60rBSYpVF3uPhWsO45a0GW) | [a kid named rufus](https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j) | [whatever works](https://open.spotify.com/album/63x6ehILu5223aljaHfeiK) | 3:28 | 2023-07-16 | 2023-07-25 |
+| [running away from whatever you call paradise](https://open.spotify.com/track/6letrIiNyYIxpQZnbs8e3j) | [a kid named rufus](https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j) | [whatever works](https://open.spotify.com/album/6gEyHGNecWqivhWhMn7fFj) | 3:28 | 2023-07-21 |  |
 | [RunRun](https://open.spotify.com/track/1SBlTvVNZ4UeKHVKWW91sx) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Posture and Attitude](https://open.spotify.com/album/6RLEGJSkCl5o1KVQvckHRe) | 2:46 | 2022-08-04 | 2022-08-27 |
 | [Ruthless](https://open.spotify.com/track/4okcOFaWiH7Zl22gIRIA7M) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Ruthless](https://open.spotify.com/album/6cQT58l4HEG57VzaqsGIOC) | 3:25 | 2021-12-16 | 2022-02-18 |
 | [sad disco](https://open.spotify.com/track/2AuvCgODcdFVPHdErDoQuY) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [sad disco](https://open.spotify.com/album/6b8x1yW2fvpElEYMnJzkGl) | 3:03 | 2022-03-24 | 2022-04-08 |

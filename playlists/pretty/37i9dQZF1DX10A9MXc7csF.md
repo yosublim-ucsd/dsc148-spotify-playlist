@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Diferente Nivel
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,694 likes - 60 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,701 likes - 60 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 59 | [Solo Mírame](https://open.spotify.com/track/1HZ06Z9NVJV3iQK8neTN7n) | [Juanchito](https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v) | [Solo Mírame](https://open.spotify.com/album/43gLeBSBn391baPX1NbUUr) | 2:46 |
 | 60 | [Falsas Palabras](https://open.spotify.com/track/3jGcnH4WfCUYjM0vxTh88Q) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Falsas Palabras](https://open.spotify.com/album/2uEdCtczwsa9RvpvBzsDmw) | 3:25 |
 
-Snapshot ID: `MCwwMmFjN2QxYjM3YzU0NzZhM2UxMjUzYmY3MTk3Mzc4OGE1Y2I3Zjhm`
+Snapshot ID: `MCw1MjVhMzQ2MTI0ZGVjNGZlMDc5ZDQ3ODM1MDliNTUxYzc5YjJmOGM5`

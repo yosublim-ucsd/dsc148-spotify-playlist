@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム「EQUAL」。今月のアンバサダー: Daoko
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,512 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,513 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [Kininaru Ano Ko](https://open.spotify.com/track/5BIl5T1vtqE4tRk6eMpBdk) | [Soutaiseiriron](https://open.spotify.com/artist/1bj13qFAwnyM3ILOiFnn1Y) | [Synchroniciteen](https://open.spotify.com/album/4oYijXtFIv6PmxdRY8dwKC) | 3:02 |
 | 50 | [好きなものは手のひらの中](https://open.spotify.com/track/3FrwPF0EFJFLE9yVprrbd5) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [好きなものは手のひらの中](https://open.spotify.com/album/1rCQBrvCaa54giOkANP59K) | 2:54 |
 
-Snapshot ID: `MCwzZTE0MDZhMGM1NDc5OWZiMTIyMDgzNDJmYjg0OGFkMmZmMjMwMzNl`
+Snapshot ID: `MCw5OThkMzJkNzY2MjFlZDk3NzU0YTU4OTg5MzExNzZhYzY2NWE4ODkz`

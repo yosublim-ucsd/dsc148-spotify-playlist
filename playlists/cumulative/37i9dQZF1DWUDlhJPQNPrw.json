@@ -851,6 +851,24 @@
     },
     {
       "album": {
+        "name": "If I knew",
+        "url": "https://open.spotify.com/album/6o46Pt6wgVtZ29zsuuTjo2"
+      },
+      "artists": [
+        {
+          "name": "Tanit Breo",
+          "url": "https://open.spotify.com/artist/3MAWaQn9QYHFPA6cwbHhqE"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115875,
+      "name": "If I knew",
+      "url": "https://open.spotify.com/track/1VcOEnQ2idqqgKxLX2MK4S"
+    },
+    {
+      "album": {
         "name": "Abstractions",
         "url": "https://open.spotify.com/album/53SuOpa0YYC9BfyC2tdFC2"
       },
@@ -1208,6 +1226,24 @@
       "duration_ms": 149324,
       "name": "Moon Glow",
       "url": "https://open.spotify.com/track/2lGO4YrvkZQqSHIwMZQm6c"
+    },
+    {
+      "album": {
+        "name": "Moonless Night",
+        "url": "https://open.spotify.com/album/1adV9CNTKpFte0bJNjZz9E"
+      },
+      "artists": [
+        {
+          "name": "Polly Carter",
+          "url": "https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178461,
+      "name": "Moonless Night",
+      "url": "https://open.spotify.com/track/5cskpL3Fmkn6tQZwW9cL9J"
     },
     {
       "album": {
@@ -1860,6 +1896,24 @@
       "duration_ms": 127152,
       "name": "Somersault - Revisited",
       "url": "https://open.spotify.com/track/1hpZuDKO80t1lR5BR0BaKP"
+    },
+    {
+      "album": {
+        "name": "Stretch",
+        "url": "https://open.spotify.com/album/4iXA4CDdh5Z4jiXRdGU3fd"
+      },
+      "artists": [
+        {
+          "name": "Hearth Mason",
+          "url": "https://open.spotify.com/artist/5AOB5inMqu92bUZuE6q9L7"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Stretch",
+      "url": "https://open.spotify.com/track/4KQlV2TCwuN2GwHQ8fsFrB"
     },
     {
       "album": {

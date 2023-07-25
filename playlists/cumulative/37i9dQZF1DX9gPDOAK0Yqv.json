@@ -343,6 +343,24 @@
     },
     {
       "album": {
+        "name": "Artefact",
+        "url": "https://open.spotify.com/album/0VU4JkITnhQ5zpfVeaIVDb"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325908,
+      "name": "Artefact",
+      "url": "https://open.spotify.com/track/6gok4VbHKJhAsRXADBYZVX"
+    },
+    {
+      "album": {
         "name": "Ascent (Reb\u016bke Remix)",
         "url": "https://open.spotify.com/album/7uGGt7zDGBY00AaGf3Pk8s"
       },
@@ -1618,7 +1636,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-22",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "Freedom",
       "url": "https://open.spotify.com/track/2bHGHbsFmjQdmdE7hZSKr6"
@@ -3960,7 +3978,7 @@
       ],
       "date_added": "2023-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 221669,
       "name": "Resonate",
       "url": "https://open.spotify.com/track/3uMmez8jeegK8HpgcwbA1V"
@@ -5126,7 +5144,7 @@
       ],
       "date_added": "2023-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 196666,
       "name": "To Hope",
       "url": "https://open.spotify.com/track/3jrHkWKbFMpv0h47O1oWJC"

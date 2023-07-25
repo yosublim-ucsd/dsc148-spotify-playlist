@@ -4,7 +4,7 @@
 
 > The newest Hip\-Hop, refreshed weekly\. Cover: Ice Spice ...like?
 
-948 songs - 1 day 21 hr 50 min
+948 songs - 1 day 21 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [BACKSEAT](https://open.spotify.com/track/5JNGhSPsiuHyXmLVfDWbpf) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [GO+](https://open.spotify.com/album/3bBREOGR2MXC5kNkxg3Lsw) | 2:35 | 2023-06-16 | 2023-06-24 |
 | [Backstreets](https://open.spotify.com/track/5qrnsLx9U0r1YlJ1pHsBKI) | [Swavy](https://open.spotify.com/artist/6CHTgEfOTvm5flR5Cpzw0I) | [Backstreets and Basic Bitches](https://open.spotify.com/album/4BMKBdAcX7MX37KaGw2SkY) | 2:30 | 2023-05-19 | 2023-05-27 |
 | [Bad Bitches \(Remix\) \[feat\. Lola Brooke & Kali\]](https://open.spotify.com/track/5uNg131mN22zZzQ9XjRQ5Q) | [BreezyLYN](https://open.spotify.com/artist/2Yt4zPxa9X6hQeIUieQiEq), [Kali](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Bad Bitches \(Remix\) \[feat\. Lola Brooke & Kali\]](https://open.spotify.com/album/4lUP6CjI2ZsClgPCGi6bbW) | 3:10 | 2023-05-12 | 2023-05-27 |
-| [BAD DAY](https://open.spotify.com/track/2eCnsNsQxP4lCirC8Yaiux) | [Chaz French](https://open.spotify.com/artist/3BYzEWh3pY0DZpMN0hFufv) | [BAD DAY](https://open.spotify.com/album/1duFuqqdmRvtFHVjgT45qX) | 3:53 | 2023-07-21 |  |
+| [BAD DAY](https://open.spotify.com/track/2eCnsNsQxP4lCirC8Yaiux) | [Chaz French](https://open.spotify.com/artist/3BYzEWh3pY0DZpMN0hFufv) | [BAD DAY](https://open.spotify.com/album/1duFuqqdmRvtFHVjgT45qX) | 3:39 | 2023-07-21 |  |
 | [Badman Ting](https://open.spotify.com/track/22gLjnplMrRMhiTlXPEYu1) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [M24](https://open.spotify.com/artist/601bmA9VRZnMVclsxG7W6T) | [Badman Ting](https://open.spotify.com/album/0RfhROkWzPSa8p0owManev) | 2:53 | 2023-03-10 | 2023-03-18 |
 | [BALL LIKE ME TOO](https://open.spotify.com/track/2niJk9HZuWEBGPuR1aGYjy) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [MAD](https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k) | 2:38 | 2023-03-17 | 2023-03-25 |
 | [Ballen](https://open.spotify.com/track/34aL6QfzsD9a7FGhwiXBFe) | [Chingy](https://open.spotify.com/artist/3s2wTjWxK8NOX09dmsvVOh) | [Chinglish](https://open.spotify.com/album/3NcdIPMib8izaFhFaZYHxI) | 5:32 | 2023-06-16 | 2023-06-24 |

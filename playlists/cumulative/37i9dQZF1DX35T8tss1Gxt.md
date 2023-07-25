@@ -4,7 +4,7 @@
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover:  <a href="https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz?si=e38a49f3f17a4147">Dante Bowe</a>
 
-403 songs - 1 day 0 hr 19 min
+404 songs - 1 day 0 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,7 +198,7 @@
 | [Jesus Will Fix It \(Trouble In My Way\)](https://open.spotify.com/track/5kvaIF6bsSQWvvDIQkU9ue) | [Shontelle Norman\-Beatty](https://open.spotify.com/artist/7v8SIpv9peJmgRSROMQ2NX) | [Jesus Will Fix It \(Trouble In My Way\)](https://open.spotify.com/album/5kwykZUsyHdpcRaflSv7XC) | 4:08 | 2022-02-19 | 2022-06-26 |
 | [joyful](https://open.spotify.com/track/1Eg2byzEpuiG5rM5PUFVAt) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz) | [joyful](https://open.spotify.com/album/57XPU0P5oh5VlO9wfR6EK1) | 2:16 | 2022-02-19 | 2022-06-26 |
 | [Jump Ship \- Live](https://open.spotify.com/track/5tfxw0QXyytTKAUAtxVG57) | [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [Jonny x Mali: Live in LA \(Stereo\)](https://open.spotify.com/album/7ze06tCYbvgbZWVcGIQdfO) | 3:50 | 2022-02-19 | 2022-06-26 |
-| [Just Wondering](https://open.spotify.com/track/18llnkPVNrqx3XRfsU9IVy) | [V\. Rose](https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom) | [Wilder Wonderland](https://open.spotify.com/album/5SrfybzLy0wP66xzsUyLDF) | 3:40 | 2023-01-20 |  |
+| [Just Wondering](https://open.spotify.com/track/18llnkPVNrqx3XRfsU9IVy) | [V\. Rose](https://open.spotify.com/artist/2OHB0NOUxQ4MgM1BwEJSom) | [Wilder Wonderland](https://open.spotify.com/album/5SrfybzLy0wP66xzsUyLDF) | 3:40 | 2023-01-20 | 2023-07-25 |
 | [Keep Me](https://open.spotify.com/track/1bOR6zNOiMpVd2LDKP8XCE) | [Eris Ford](https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4), [Evan and Eris](https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf) | [Keep Me](https://open.spotify.com/album/56QvP6bxRamLdPzp1YwL52) | 2:30 | 2022-02-19 | 2022-06-24 |
 | [Kinda Love](https://open.spotify.com/track/6N16WmTbELJ8p6MFUE9lcr) | [S.O.](https://open.spotify.com/artist/6nELoJ6eMXfYHX5xocKf33) | [Larry Ginni Crescent](https://open.spotify.com/album/5guOQHPvxFAxhER52dfQNf) | 2:33 | 2022-02-19 | 2022-06-26 |
 | [King of Kings](https://open.spotify.com/track/1XjfamozcDQ4FzhiBkUdgO) | [Stephen McWhirter](https://open.spotify.com/artist/1DIpWfeb5YTJmmvSy5TSL3), [Jason Clayborn](https://open.spotify.com/artist/0ml3hRZcRv7vHeIPGke7hW) | [King of Kings](https://open.spotify.com/album/2EwNW4WtmA5PLCfchjXGIR) | 4:58 | 2022-04-01 | 2023-01-21 |
@@ -292,6 +292,7 @@
 | [Prodigal](https://open.spotify.com/track/6LjwbDC3LHoYmxbOhGQHnh) | [Madison Ryann Ward](https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI), [Benji](https://open.spotify.com/artist/0HUqpd0yqVjDWnLo91j8zY) | [Prodigal](https://open.spotify.com/album/2kBPEOfYZcxBVl636hk9Lk) | 3:54 | 2022-07-08 |  |
 | [Promise Keeper](https://open.spotify.com/track/1bMjLziHSeLBZ4wuAsCfcx) | [Anthony Evans](https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV) | [Promise Keeper](https://open.spotify.com/album/0GRtoCgh0GL3kUgxHxuVtv) | 4:17 | 2022-02-19 | 2022-06-26 |
 | [prove it](https://open.spotify.com/track/2lQzzCFOMzM1nrKPMH8eoG) | [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h), [Faith Lofi](https://open.spotify.com/artist/3Mu22Y9BefRhJRYhyfP463) | [prove it](https://open.spotify.com/album/5iN9wvIKMNLlOw6es5Kc03) | 2:42 | 2022-02-19 | 2022-06-26 |
+| [Provider](https://open.spotify.com/track/7hllC9WneRH2JYVaVjSQNL) | [Kingdmusic](https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL) | [Provider](https://open.spotify.com/album/1sITlmcQXf1rY1L85dj285) | 3:32 | 2023-07-21 |  |
 | [Psalm 91](https://open.spotify.com/track/0DG9MlPHBIaiki54DnsF6E) | [Sharyn](https://open.spotify.com/artist/3Q4LCCA4pELbkozdmAZtKS), [Calibleubird](https://open.spotify.com/artist/2lQaoKj7zkAINiqf56vduT) | [In Full Bloom](https://open.spotify.com/album/2jX9LJoAkzvLlqRLoHXgH5) | 5:26 | 2022-02-19 | 2022-06-26 |
 | [Pull My Heart Away](https://open.spotify.com/track/4vFZjVQKlYM7vOPfvAc4dn) | [Samuel Sweat](https://open.spotify.com/artist/7aOUerIr7SYARgetssONKz), [Mark Barlow](https://open.spotify.com/artist/6hR5fuwetYvTHfea4EwHvl) | [Pull My Heart Away](https://open.spotify.com/album/1OxM5G8WOARS4BKwh9Hiuv) | 2:30 | 2023-01-20 |  |
 | [Raise Me up](https://open.spotify.com/track/0lJqOsIkXILwog3TlKe4fN) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp), [BINDANG](https://open.spotify.com/artist/3TFW2ZeRoCbbx7SrS3rcNW) | [Amen](https://open.spotify.com/album/0StVTQHd3IOeTswapad1i7) | 2:46 | 2022-07-17 | 2022-10-21 |

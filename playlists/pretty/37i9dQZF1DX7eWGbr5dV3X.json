@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYmY0OGVlNGU0MTEzNGM0YjJkNmZjYjFkN2VkMWQ4ZDM2ZjdlOWZm",
+  "snapshot_id": "MCwzODllNWFmMThjZmIxZDNjM2U3NzRlZGIwMzBhYWIxZDFlNDQ0ZmJl",
   "tracks": [
     {
       "added_at": "2023-06-30 23:59:00",
@@ -215,22 +215,6 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "PANORAMA",
-        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 199070,
-      "name": "chance",
-      "url": "https://open.spotify.com/track/74jOmqVRM9Ha4xu8G15iKv"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
         "name": "Good Advice",
         "url": "https://open.spotify.com/album/0Wwpyq7v2FvZONXMastMpb"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 164295,
       "name": "Good Advice",
       "url": "https://open.spotify.com/track/0ZuIJlkCgHwqc21CgHDZjB"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/3EcOE2h7DHr5m6IaALejAs"
+      },
+      "artists": [
+        {
+          "name": "Emily Vu",
+          "url": "https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS"
+        }
+      ],
+      "duration_ms": 166044,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/0XoRbQwHULyjf0tO1S9abf"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -263,18 +263,18 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "Weekend",
-        "url": "https://open.spotify.com/album/3EcOE2h7DHr5m6IaALejAs"
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
       },
       "artists": [
         {
-          "name": "Emily Vu",
-          "url": "https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS"
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
         }
       ],
-      "duration_ms": 166044,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/0XoRbQwHULyjf0tO1S9abf"
+      "duration_ms": 199070,
+      "name": "chance",
+      "url": "https://open.spotify.com/track/74jOmqVRM9Ha4xu8G15iKv"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -359,18 +359,18 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "Boys Aside",
-        "url": "https://open.spotify.com/album/0GlNcL9wQ1WdtXywFzKhYB"
+        "name": "What Happened, Happened",
+        "url": "https://open.spotify.com/album/38Vulf6o5aVnrQae85FmOZ"
       },
       "artists": [
         {
-          "name": "Sofya Wang",
-          "url": "https://open.spotify.com/artist/4axDBKx7Segq3j5P2VVSjx"
+          "name": "Emily Vu",
+          "url": "https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Boys Aside",
-      "url": "https://open.spotify.com/track/2FV7xvk1NeplzSxoUk6Egc"
+      "duration_ms": 184528,
+      "name": "What Happened, Happened",
+      "url": "https://open.spotify.com/track/2Ck8r31kURBqC7K2G9lLBo"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -387,6 +387,38 @@
       "duration_ms": 241920,
       "name": "Honey Understand",
       "url": "https://open.spotify.com/track/0QUAfk0TLwlhAdqhQgtaV3"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
+        "name": "Boys Aside",
+        "url": "https://open.spotify.com/album/0GlNcL9wQ1WdtXywFzKhYB"
+      },
+      "artists": [
+        {
+          "name": "Sofya Wang",
+          "url": "https://open.spotify.com/artist/4axDBKx7Segq3j5P2VVSjx"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Boys Aside",
+      "url": "https://open.spotify.com/track/2FV7xvk1NeplzSxoUk6Egc"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
+        "name": "NEVERLAND",
+        "url": "https://open.spotify.com/album/2y8I9aWRSnBXSUtVWVwBes"
+      },
+      "artists": [
+        {
+          "name": "Holland",
+          "url": "https://open.spotify.com/artist/3PA9tXcZqiaBXwopM9GPZP"
+        }
+      ],
+      "duration_ms": 222928,
+      "name": "NEVERLAND",
+      "url": "https://open.spotify.com/track/5e9gNMrGlVblMER6iN2tnJ"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -423,18 +455,18 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "What Happened, Happened",
-        "url": "https://open.spotify.com/album/38Vulf6o5aVnrQae85FmOZ"
+        "name": "Stay Proud of Me",
+        "url": "https://open.spotify.com/album/5YSwTbPxb10MLaSU71w2y2"
       },
       "artists": [
         {
-          "name": "Emily Vu",
-          "url": "https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS"
+          "name": "NoSo",
+          "url": "https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o"
         }
       ],
-      "duration_ms": 184528,
-      "name": "What Happened, Happened",
-      "url": "https://open.spotify.com/track/2Ck8r31kURBqC7K2G9lLBo"
+      "duration_ms": 209360,
+      "name": "Man Who Loves You",
+      "url": "https://open.spotify.com/track/68dUmGSHlVI88mej6pb418"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -487,22 +519,6 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "NEVERLAND",
-        "url": "https://open.spotify.com/album/2y8I9aWRSnBXSUtVWVwBes"
-      },
-      "artists": [
-        {
-          "name": "Holland",
-          "url": "https://open.spotify.com/artist/3PA9tXcZqiaBXwopM9GPZP"
-        }
-      ],
-      "duration_ms": 222928,
-      "name": "NEVERLAND",
-      "url": "https://open.spotify.com/track/5e9gNMrGlVblMER6iN2tnJ"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
         "name": "You Look so Good",
         "url": "https://open.spotify.com/album/5r73WnvgjwL3ydzrtsmqpm"
       },
@@ -519,18 +535,18 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "Stay Proud of Me",
-        "url": "https://open.spotify.com/album/5YSwTbPxb10MLaSU71w2y2"
+        "name": "Nothing's Gonna Hurt You Baby - ASIA RISING FOREVER",
+        "url": "https://open.spotify.com/album/1kGTO4BzCPpI74w4yr9MVB"
       },
       "artists": [
         {
-          "name": "NoSo",
-          "url": "https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o"
+          "name": "Alextbh",
+          "url": "https://open.spotify.com/artist/0kXDB5aeESWj5BD9TCLkMu"
         }
       ],
-      "duration_ms": 209360,
-      "name": "Man Who Loves You",
-      "url": "https://open.spotify.com/track/68dUmGSHlVI88mej6pb418"
+      "duration_ms": 273080,
+      "name": "Nothing's Gonna Hurt You Baby - ASIA RISING FOREVER",
+      "url": "https://open.spotify.com/track/2LPibirlWTAdLuw0UW72au"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -551,22 +567,6 @@
       "duration_ms": 267000,
       "name": "Open up Babe - Perry twins remix",
       "url": "https://open.spotify.com/track/64juiILJDA5pLdP2nV0Dvz"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
-        "name": "Nothing's Gonna Hurt You Baby - ASIA RISING FOREVER",
-        "url": "https://open.spotify.com/album/1kGTO4BzCPpI74w4yr9MVB"
-      },
-      "artists": [
-        {
-          "name": "Alextbh",
-          "url": "https://open.spotify.com/artist/0kXDB5aeESWj5BD9TCLkMu"
-        }
-      ],
-      "duration_ms": 273080,
-      "name": "Nothing's Gonna Hurt You Baby - ASIA RISING FOREVER",
-      "url": "https://open.spotify.com/track/2LPibirlWTAdLuw0UW72au"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -599,22 +599,6 @@
       "duration_ms": 193333,
       "name": "Hyperdome",
       "url": "https://open.spotify.com/track/47z3fqsE7tSXGkFFCzNaFH"
-    },
-    {
-      "added_at": "2023-06-30 23:59:00",
-      "album": {
-        "name": "Say My Name",
-        "url": "https://open.spotify.com/album/3GvF4miurhOMPd7Rg2Q9eL"
-      },
-      "artists": [
-        {
-          "name": "Priyanka",
-          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
-        }
-      ],
-      "duration_ms": 167026,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/4syAu4kgVGtLa4j1x0rKCa"
     },
     {
       "added_at": "2023-06-30 23:59:00",
@@ -687,6 +671,22 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/3GvF4miurhOMPd7Rg2Q9eL"
+      },
+      "artists": [
+        {
+          "name": "Priyanka",
+          "url": "https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO"
+        }
+      ],
+      "duration_ms": 167026,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/4syAu4kgVGtLa4j1x0rKCa"
+    },
+    {
+      "added_at": "2023-06-30 23:59:00",
+      "album": {
         "name": "All I Have To Do Is Dream",
         "url": "https://open.spotify.com/album/0uoZnGYyRF3QWuf0RKU1mo"
       },
@@ -735,18 +735,18 @@
     {
       "added_at": "2023-06-30 23:59:00",
       "album": {
-        "name": "Goals_",
-        "url": "https://open.spotify.com/album/6zs8IZxCicVdrnUnpGC82a"
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/3LOID2hbE7cWAkTpZBK0Tw"
       },
       "artists": [
         {
-          "name": "SuperKnova",
-          "url": "https://open.spotify.com/artist/7om8BpNIYHtacdW2rDVHuD"
+          "name": "LEADR",
+          "url": "https://open.spotify.com/artist/5MBtoGEv50nmq08tb3y38v"
         }
       ],
-      "duration_ms": 209361,
-      "name": "Goals_",
-      "url": "https://open.spotify.com/track/26kLjAnE9RZhySfSBkASND"
+      "duration_ms": 194206,
+      "name": "I'm Alright",
+      "url": "https://open.spotify.com/track/2k1R9dCYOEWKn4ZV6Tk8HD"
     }
   ],
   "unique_name": "API Pride",

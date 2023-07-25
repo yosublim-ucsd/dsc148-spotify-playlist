@@ -2795,6 +2795,24 @@
     },
     {
       "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/4mSPv9m5vsDzPjzxocDbDt"
+      },
+      "artists": [
+        {
+          "name": "Ciara Bess",
+          "url": "https://open.spotify.com/artist/21mEXcNj7iVlrmlhownRpL"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189568,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/4oJ0J34QTkknq9ciWkb3O8"
+    },
+    {
+      "album": {
         "name": "Brooklyn Sessions 8",
         "url": "https://open.spotify.com/album/5QehVVf9rIVoiS12V9DPMq"
       },

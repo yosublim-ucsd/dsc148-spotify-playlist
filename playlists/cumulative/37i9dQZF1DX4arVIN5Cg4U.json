@@ -698,7 +698,7 @@
       ],
       "date_added": "2020-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 336079,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/1tdDgdYqi3v9kCesCLb9GA"
@@ -1832,6 +1832,24 @@
       "duration_ms": 249480,
       "name": "Woo Boost",
       "url": "https://open.spotify.com/track/4lY0v0skiWm1UjRZTVXCnh"
+    },
+    {
+      "album": {
+        "name": "O.M.G.!",
+        "url": "https://open.spotify.com/album/07BD9T4zyqIl3bIbSrwgmw"
+      },
+      "artists": [
+        {
+          "name": "Rusko",
+          "url": "https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10"
+        }
+      ],
+      "date_added": "2020-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249480,
+      "name": "Woo Boost",
+      "url": "https://open.spotify.com/track/5NqgbZeRoGf5ZV7B9Z4gcG"
     },
     {
       "album": {

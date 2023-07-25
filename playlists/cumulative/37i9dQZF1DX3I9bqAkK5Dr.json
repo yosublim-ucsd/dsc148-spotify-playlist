@@ -220,7 +220,7 @@
       ],
       "date_added": "2023-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 210375,
       "name": "Bulugu Sokkaa Pilagadu",
       "url": "https://open.spotify.com/track/7uZDuC1sW3YJ3iv7PVBGWX"
@@ -422,6 +422,36 @@
       "duration_ms": 227994,
       "name": "Dooram",
       "url": "https://open.spotify.com/track/2XU0F3MuaqimD5RJkTaNUw"
+    },
+    {
+      "album": {
+        "name": "Dosthi",
+        "url": "https://open.spotify.com/album/6Y92q7B2qqgQQyRTHAm1bO"
+      },
+      "artists": [
+        {
+          "name": "PVR Raja",
+          "url": "https://open.spotify.com/artist/6tz2nw9kPvbVmlYZb9XLvV"
+        },
+        {
+          "name": "Tanvi Manjula Ghantasala",
+          "url": "https://open.spotify.com/artist/4m1ehuNqR59FNh5ZEw0pcn"
+        },
+        {
+          "name": "Thaman Sai Jakkam",
+          "url": "https://open.spotify.com/artist/2HsQl6VisUVm3wNAmH2skl"
+        },
+        {
+          "name": "Prabhath",
+          "url": "https://open.spotify.com/artist/2289Y7PfjWzJMtcQ7G4LSk"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262584,
+      "name": "Dosthi",
+      "url": "https://open.spotify.com/track/4ds6oPJGfWaDcTuEAvjAWZ"
     },
     {
       "album": {
@@ -1738,7 +1768,7 @@
       ],
       "date_added": "2023-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 267000,
       "name": "Nuvve Naa Lokam",
       "url": "https://open.spotify.com/track/7F1p60yC1Gb7De3omM8335"
@@ -2140,7 +2170,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 195291,
       "name": "Priya",
       "url": "https://open.spotify.com/track/5EsYWuhhGZQEj1GZmxF4l3"
@@ -2209,6 +2239,32 @@
     },
     {
       "album": {
+        "name": "Raane Raava",
+        "url": "https://open.spotify.com/album/56HGf8gQ64AIT8I1pEKwIX"
+      },
+      "artists": [
+        {
+          "name": "Siddharth Tanuku",
+          "url": "https://open.spotify.com/artist/6CEaNdvNoW4WAOQU8Y616N"
+        },
+        {
+          "name": "Krishna Tejasvi",
+          "url": "https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q"
+        },
+        {
+          "name": "Sindhuja Tanuku",
+          "url": "https://open.spotify.com/artist/6MFgsuRbk8fELevIMJWFQr"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227303,
+      "name": "Raane Raava",
+      "url": "https://open.spotify.com/track/02sEnHsPSSlyxdRzxpqOJg"
+    },
+    {
+      "album": {
         "name": "Raba Raba",
         "url": "https://open.spotify.com/album/05WGgEw9k8SU61WsFU6Ig2"
       },
@@ -2228,6 +2284,32 @@
       "duration_ms": 278461,
       "name": "Raba Raba",
       "url": "https://open.spotify.com/track/1XiHI6xjy82Pkef0EnC8ec"
+    },
+    {
+      "album": {
+        "name": "Saagave Manasa",
+        "url": "https://open.spotify.com/album/4X1Mxr9lLfdiRyFEo4GIKw"
+      },
+      "artists": [
+        {
+          "name": "Indosoul by Karthick Iyer",
+          "url": "https://open.spotify.com/artist/04czw5AgY218VUkgCtwRv9"
+        },
+        {
+          "name": "Sreerama Chandra",
+          "url": "https://open.spotify.com/artist/2bfyLSCw72lQ5qoD8cdVBB"
+        },
+        {
+          "name": "Maalavika Sundar",
+          "url": "https://open.spotify.com/artist/6FziTGxRwHQviQ4uZdSdIP"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267272,
+      "name": "Saagave Manasa",
+      "url": "https://open.spotify.com/track/59sZ0SlnVdZGHR6psqE8HW"
     },
     {
       "album": {
@@ -2734,7 +2816,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 211276,
       "name": "Yevaro - Tune In For Love",
       "url": "https://open.spotify.com/track/19mpCjxB2QVnD9UPbMBRGh"

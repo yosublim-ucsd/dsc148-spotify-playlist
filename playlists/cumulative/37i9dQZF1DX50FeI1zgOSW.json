@@ -63,6 +63,28 @@
     },
     {
       "album": {
+        "name": "Adiye",
+        "url": "https://open.spotify.com/album/3I5C4OE79iGOAGazuzmVth"
+      },
+      "artists": [
+        {
+          "name": "Stefan Packianathan",
+          "url": "https://open.spotify.com/artist/0P5zcM5KLVBTlapyoESJIa"
+        },
+        {
+          "name": "Krishan J",
+          "url": "https://open.spotify.com/artist/3sCHA0pWlvQDwqcjX9TIdw"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213409,
+      "name": "Adiye",
+      "url": "https://open.spotify.com/track/2ZVIeS1p17UmWSjLSJYOt3"
+    },
+    {
+      "album": {
         "name": "Alavilla Azhagiye",
         "url": "https://open.spotify.com/album/0m5QDfTQuK0gz9h1hHsDMd"
       },
@@ -134,7 +156,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 193333,
       "name": "Azhagai Oru Matram",
       "url": "https://open.spotify.com/track/2mHq2tCYbtQ9grc6sMwdGd"
@@ -160,7 +182,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 232000,
       "name": "Azhagale",
       "url": "https://open.spotify.com/track/3Or8quXbuFLp5KPeI2K9vf"
@@ -230,7 +252,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 157754,
       "name": "Bodhai",
       "url": "https://open.spotify.com/track/0gLk5qIZFQJAXc4bkom7qL"
@@ -248,7 +270,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 197994,
       "name": "Bodhai Penne Nee",
       "url": "https://open.spotify.com/track/3v4TGyHakUilgOmxsWNlJ6"
@@ -387,6 +409,24 @@
     },
     {
       "album": {
+        "name": "Dry Ice",
+        "url": "https://open.spotify.com/album/4kULflG4C2hAYSCUcbU2hD"
+      },
+      "artists": [
+        {
+          "name": "AathiRaja",
+          "url": "https://open.spotify.com/artist/09YaD1pWXZ7NqU8yWdHBsE"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191998,
+      "name": "Dry Ice",
+      "url": "https://open.spotify.com/track/1mg6Gv8G88c7BLYolp8FF4"
+    },
+    {
+      "album": {
         "name": "Eechi",
         "url": "https://open.spotify.com/album/0iPmXoG0jBG0XQWaWQVvZx"
       },
@@ -398,7 +438,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 223500,
       "name": "Eechi",
       "url": "https://open.spotify.com/track/76hoUb5s8mWHN07iUxzmYY"
@@ -762,7 +802,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 197777,
       "name": "Kaadhal Dhevathaiye",
       "url": "https://open.spotify.com/track/1J3fwSmN2BNVgptyBYdLpu"
@@ -950,7 +990,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 235520,
       "name": "Kanaa",
       "url": "https://open.spotify.com/track/0ThL8U5OaPtjrgz7BB38az"
@@ -1012,7 +1052,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 160298,
       "name": "Kanmoodiye",
       "url": "https://open.spotify.com/track/2IkUztqsbiqVPZutx7SPqX"
@@ -1038,7 +1078,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 216000,
       "name": "Kannaamoochi",
       "url": "https://open.spotify.com/track/3PsFYwXnytC7hR2Ev23oLq"
@@ -1228,7 +1268,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 227647,
       "name": "Lalala Cindrella",
       "url": "https://open.spotify.com/track/03tXg4jq1WCOvYLlb0GOq4"
@@ -1268,7 +1308,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 174430,
       "name": "Malarum Vazhvey",
       "url": "https://open.spotify.com/track/1VM7VykzWXMDRbFgOl6BUH"
@@ -1316,7 +1356,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 236988,
       "name": "Mannipaya",
       "url": "https://open.spotify.com/track/2zhTPVJtOlwDMpaUYfQIjn"
@@ -1462,7 +1502,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 169104,
       "name": "Mudhal Murai",
       "url": "https://open.spotify.com/track/3HwPouek9TmVxN2S7upmyb"
@@ -1484,7 +1524,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 207797,
       "name": "Mudhal Parvai",
       "url": "https://open.spotify.com/track/7M2wK4BB2Uhc74QWEV3Jjc"
@@ -1588,7 +1628,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 226301,
       "name": "Nee Dhaan Parisae (From \"Woh Kaun Thi\")",
       "url": "https://open.spotify.com/track/1pWZsoNmKQSyV9fMcX5Dc4"
@@ -1716,7 +1756,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 253714,
       "name": "Office Anthem",
       "url": "https://open.spotify.com/track/5630irusLB5Zn3GY0QHReL"
@@ -1752,7 +1792,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 251947,
       "name": "Oru Theniyin Kadhal",
       "url": "https://open.spotify.com/track/25pEd2JmX87sckTCxRFwDU"
@@ -1844,7 +1884,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 198545,
       "name": "Pona Pongadi",
       "url": "https://open.spotify.com/track/44EKpEa7RPINMRh70iJiRZ"
@@ -1956,7 +1996,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 224472,
       "name": "Rowdy Ponnu",
       "url": "https://open.spotify.com/track/2joKMaye4sULpsCJuWZf3y"
@@ -2136,7 +2176,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 257500,
       "name": "Thathalithen",
       "url": "https://open.spotify.com/track/0tR9ONL0jexF09Z8FEAnc1"
@@ -2192,7 +2232,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 177540,
       "name": "Thedathey",
       "url": "https://open.spotify.com/track/1vjWrLi4w55MBEfATFI5Me"
@@ -2276,7 +2316,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 155094,
       "name": "Vaa Poola",
       "url": "https://open.spotify.com/track/6dv0QIadLzgOYN2KY3ScAt"

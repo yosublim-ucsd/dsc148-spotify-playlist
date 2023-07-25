@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,525 likes - 100 songs - 9 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,588 likes - 100 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 14 | [Aguacero](https://open.spotify.com/track/0KCXPIaGPL1du07EW1MPVU) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA) | [Aguacero](https://open.spotify.com/album/41Vp1IJHY3bHf6YS1Lc6gF) | 6:42 |
 | 15 | [Vha Vhenda \(THEMBA's Herd Mix\)](https://open.spotify.com/track/23xHKVpe8QA9Nv0yoBQQ0P) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [Philip Tabane](https://open.spotify.com/artist/3wC1W9e4Ycoji9LEM1MBTa) | [Heritage](https://open.spotify.com/album/0IGMuacSlufINDCHLNBNNa) | 2:44 |
 | 16 | [Amathole](https://open.spotify.com/track/6wZ6TRdwuvLhKQF5gEyHwx) | [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Amathole](https://open.spotify.com/album/723AK0TOT5jy1foQuDpuPx) | 8:07 |
-| 17 | [Figures](https://open.spotify.com/track/3qb2uMaR60HP0cTWLI2DM7) | [Rob Hes](https://open.spotify.com/artist/3x7ReRfnt4LPXsEYxgsbgu), [Paralel](https://open.spotify.com/artist/6gx1uCxt263iyrRJG6XBR6) | [Nocturnal 010](https://open.spotify.com/album/2Qls9LLSmjCLKgxK29GBqy) | 4:23 |
-| 18 | [Does It Matter \- Ajna \(BE\) Remix](https://open.spotify.com/track/6yD4nL8def39R3QplxYGo5) | [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0), [Ajna \(BE\)](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN) | [Does It Matter \(Ajna Remix\)](https://open.spotify.com/album/4IZK2sBwj3A4tDpxyxtpct) | 5:40 |
+| 17 | [Does It Matter \- Ajna \(BE\) Remix](https://open.spotify.com/track/6yD4nL8def39R3QplxYGo5) | [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0), [Ajna \(BE\)](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN) | [Does It Matter \(Ajna Remix\)](https://open.spotify.com/album/4IZK2sBwj3A4tDpxyxtpct) | 5:40 |
+| 18 | [Blame \- VooDoo Tribe Mix](https://open.spotify.com/track/24RWbgjoFZUUMm2UPTo9rF) | [DJ Tomer](https://open.spotify.com/artist/0hpl6679CBWX360qBPGIVj), [Ricardo Gi](https://open.spotify.com/artist/6D12U0cOJwowjazT7V1s3c), [Kawtar Sadik](https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb) | [Echoes](https://open.spotify.com/album/2I8nf79Ctv3Y62e7hQsDpr) | 3:00 |
 | 19 | [Hammanda](https://open.spotify.com/track/1NB9xPbu3uKvIfg4F7PqSx) | [Romaryo](https://open.spotify.com/artist/7rcH8pvmUQC8beKuCSUqEY), [Robert Georgescu](https://open.spotify.com/artist/3xUdGxXE3z5cwzIae3xEZI), [White](https://open.spotify.com/artist/6dYI97SNU1SUUeKrJhzIlQ) | [Hammanda](https://open.spotify.com/album/5tOJrLZKQT1TgYrIzgNM6s) | 2:50 |
 | 20 | [Latlal \- Hyenah Remix](https://open.spotify.com/track/4zFwlzD1d4XJcelTfhpbgr) | [Fairplay](https://open.spotify.com/artist/7yEerdfOSWrViliIsYNJ2U), [Hyenah](https://open.spotify.com/artist/1YUlJfwsUoerJd3mCK6Ccu) | [Latlal Remixes](https://open.spotify.com/album/02gSwfolTEMomY1JaJsxWg) | 6:53 |
 | 21 | [AfriKa2](https://open.spotify.com/track/5s7VoXTBBdrqaJdTQWGhRE) | [Ka2](https://open.spotify.com/artist/29f8h7eSlWQAUyfjkdOUGe) | [AfriKa2](https://open.spotify.com/album/4YgJK9AH2g2A4eHaiTX3wi) | 6:07 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 99 | [Fragile](https://open.spotify.com/track/5Q9Ds8Q34V9ZPfi0noJ7Xe) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW), [Syon](https://open.spotify.com/artist/7eKtGS8Huzy0vi0KVmNfqE) | [Fragile](https://open.spotify.com/album/37abhSU412bkiwXr3ShshM) | 3:56 |
 | 100 | [Rasme Zmune](https://open.spotify.com/track/2nuBil30xSfvm8xgbKHj62) | [Jean Vayat](https://open.spotify.com/artist/6fmbuS3uHI2jXDmTl9d64K), [Mohsen Neshom](https://open.spotify.com/artist/3wqDjOH7IwQHnqdSWgb2jo) | [Rasme Zmune](https://open.spotify.com/album/7eBetateogBdX7nSPynMbD) | 6:58 |
 
-Snapshot ID: `MCxhZjZhNGJlYWI3Nzg0NzlmMTMwYTY4MjQxNGY5OGM1NzNkZGYzYWM3`
+Snapshot ID: `MCw4OTE2YzUwYTg5MDA2ODhmNjhlYzU0ZTNkNTM1NWMzMzcwNmVhOWNh`

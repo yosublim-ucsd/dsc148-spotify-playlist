@@ -4,7 +4,7 @@
 
 > Adiós Pop con Ñ, hola Pop del Top\. Lo mejor y lo último del pop\. Foto: Abraham Mateo
 
-215 songs - 10 hr 50 min
+216 songs - 10 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -184,6 +184,7 @@
 | [si tiene que ser será.](https://open.spotify.com/track/0wtD6yzuqTv3EkRcJ6SHQZ) | [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz) | [si tiene que ser será.](https://open.spotify.com/album/7mUcTOv2KgYCkrbDmxO7H3) | 3:21 | 2023-03-13 | 2023-06-13 |
 | [SI TÚ SUPIERAS](https://open.spotify.com/track/2h9dTYIe6GxmuK0nQvfj6C) | [Funzo & Baby Loud](https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC) | [SI TÚ SUPIERAS](https://open.spotify.com/album/11ZSWjcfUSFULN9YHHxX7i) | 2:49 | 2023-03-13 | 2023-05-20 |
 | [Sin Antifaz \(feat\. Rayden\)](https://open.spotify.com/track/790vlvIwUc0KIb1A3nr79w) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5), [Rayden](https://open.spotify.com/artist/6G43BFwUJvFWbev3knhgEa) | [Sin Antifaz \(feat\. Rayden\)](https://open.spotify.com/album/0yOUsQ3o0jq2UwGe6EDw52) | 3:03 | 2023-05-30 | 2023-06-21 |
+| [Solita y SueltAAA](https://open.spotify.com/track/3gtZLsncEuG3gNO4Qswhuf) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [AfroLOVA' 23](https://open.spotify.com/album/4eycRqS93AqCf74BVzj6JP) | 2:35 | 2023-07-24 |  |
 | [Soltera](https://open.spotify.com/track/41ffIDkb10CvzGNBYXm498) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF) | [Soltera](https://open.spotify.com/album/1LpGk730HxND92t3AW8Jee) | 2:51 | 2023-03-13 | 2023-04-18 |
 | [Soy Yo](https://open.spotify.com/track/74yNlKlythblKb9INN5ZOx) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo) | [Soy Yo](https://open.spotify.com/album/6rus1wE3yIOoOqCXTMWlmn) | 2:37 | 2023-03-13 | 2023-05-31 |
 | [Sueltas](https://open.spotify.com/track/6PkiSdWbhsuFP9qaFyu3CA) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Sueltas](https://open.spotify.com/album/7owbqoUvVQBJYuoEto3IMe) | 2:43 | 2023-03-21 | 2023-04-04 |

@@ -717,24 +717,6 @@
     },
     {
       "album": {
-        "name": "River Of Dreams - The Very Best of Hayley Westenra",
-        "url": "https://open.spotify.com/album/2mTBvr7If9pz5DplK6bE9r"
-      },
-      "artists": [
-        {
-          "name": "Hayley Westenra",
-          "url": "https://open.spotify.com/artist/7Jotu5LupekFt00kZZZ7C6"
-        }
-      ],
-      "date_added": "2022-06-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 193333,
-      "name": "Never Say Goodbye (Adapted From \"Pavane, M. 19\")",
-      "url": "https://open.spotify.com/track/3I31KiGNOh9uelfmpAjCGE"
-    },
-    {
-      "album": {
         "name": "Pure (Includes Bonus Tracks and Exclusive Track)",
         "url": "https://open.spotify.com/album/4F4cYsACedydHGyvpZCXN5"
       },
@@ -750,6 +732,36 @@
       "duration_ms": 193493,
       "name": "Never Say Goodbye (Adapted from \"Pavane, M. 19\")",
       "url": "https://open.spotify.com/track/6DFlIKgiThAgpfXJNqa7eB"
+    },
+    {
+      "album": {
+        "name": "River Of Dreams - The Very Best of Hayley Westenra",
+        "url": "https://open.spotify.com/album/2mTBvr7If9pz5DplK6bE9r"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Hayley Westenra",
+          "url": "https://open.spotify.com/artist/7Jotu5LupekFt00kZZZ7C6"
+        },
+        {
+          "name": "Ian Dean",
+          "url": "https://open.spotify.com/artist/2Tfy0lv32xUPXOojV10tCV"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "Never Say Goodbye (Adapted From \"Pavane, M. 19\")",
+      "url": "https://open.spotify.com/track/3I31KiGNOh9uelfmpAjCGE"
     },
     {
       "album": {

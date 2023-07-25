@@ -321,6 +321,28 @@
     },
     {
       "album": {
+        "name": "Barkha",
+        "url": "https://open.spotify.com/album/6ccAHAXH8lV27buSFuvx69"
+      },
+      "artists": [
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261631,
+      "name": "Barkha",
+      "url": "https://open.spotify.com/track/0uYiSskLUJ6s7acqyUWX68"
+    },
+    {
+      "album": {
         "name": "Saari Raat",
         "url": "https://open.spotify.com/album/2TbC3ffg6NqCvYtbRZ3bVE"
       },
@@ -1178,7 +1200,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 327382,
       "name": "Jheeni Jheeni Beeni Chadariya",
       "url": "https://open.spotify.com/track/7sFrXIq0TJZUYVgASM9bDv"

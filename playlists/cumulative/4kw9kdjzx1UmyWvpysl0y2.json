@@ -1166,7 +1166,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 166363,
       "name": "Be With You",
       "url": "https://open.spotify.com/track/1VdCgotTRcPwbbRnCrzIfR"
@@ -7655,6 +7655,28 @@
     },
     {
       "album": {
+        "name": "restless",
+        "url": "https://open.spotify.com/album/3EDRGL855m5gnbykVzektt"
+      },
+      "artists": [
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        },
+        {
+          "name": "Kazukii",
+          "url": "https://open.spotify.com/artist/5d07MpiIaNmmEMTq79KAga"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "restless",
+      "url": "https://open.spotify.com/track/0HkqBi1na692hJl5nrTDit"
+    },
+    {
+      "album": {
         "name": "Garden's Edge",
         "url": "https://open.spotify.com/album/495RJ4HV475juBo05YQXBh"
       },
@@ -8078,6 +8100,24 @@
       "duration_ms": 186000,
       "name": "SCUMBAG",
       "url": "https://open.spotify.com/track/033oLyTtjiWPmHadxRcBm9"
+    },
+    {
+      "album": {
+        "name": "Sea Turtles",
+        "url": "https://open.spotify.com/album/30aZunnIfn312Vtv4C3tiV"
+      },
+      "artists": [
+        {
+          "name": "IVORY",
+          "url": "https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237681,
+      "name": "Sea Turtles",
+      "url": "https://open.spotify.com/track/1PNwfTqnN6vECSMjb5sluO"
     },
     {
       "album": {

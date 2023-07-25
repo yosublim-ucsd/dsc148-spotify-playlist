@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Raghavendra Stores",
-  "num_followers": 50260,
+  "num_followers": 50272,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NmNmYzUyNDdjMzhhMTA5ZjJjNTU2ZWI5MzE0YThhM2I5ZDY0MmQy",
+  "snapshot_id": "MCwwZWViODUwMjEwZmM3NWM5NjdjMjE2YWI4ZTFhMDFkMmFhYzc3N2Uz",
   "tracks": [
     {
       "added_at": "2023-07-21 06:52:36",
@@ -31,6 +31,22 @@
       "duration_ms": 188639,
       "name": "Horaata (From \"Sapta Sagaradaache Ello - Side A\")",
       "url": "https://open.spotify.com/track/19XKmDIjW4lgzkEXNAQPhH"
+    },
+    {
+      "added_at": "2023-07-24 06:31:36",
+      "album": {
+        "name": "Baang (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/34OaK98ABbmabUH5VCEfW1"
+      },
+      "artists": [
+        {
+          "name": "All Ok",
+          "url": "https://open.spotify.com/artist/2wQP7peRciPJyvzDDmroBV"
+        }
+      ],
+      "duration_ms": 206518,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/6Sr7biN3hb1hesaxAeownv"
     },
     {
       "added_at": "2023-04-12 13:37:54",
@@ -105,6 +121,30 @@
       "url": "https://open.spotify.com/track/2grYgChOuQAzGW8fI5Ww9p"
     },
     {
+      "added_at": "2023-07-24 06:31:36",
+      "album": {
+        "name": "Devara Kanassu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5irvveJ2VkyKtQSDaLBKcQ"
+      },
+      "artists": [
+        {
+          "name": "Sandy Sandellow",
+          "url": "https://open.spotify.com/artist/3V0QBKJQQZJdNi5GwWkcyv"
+        },
+        {
+          "name": "Lingaraj Ithihas",
+          "url": "https://open.spotify.com/artist/5ZXHAWNuPjnJNfeTsIr8KF"
+        },
+        {
+          "name": "Zubin Paul",
+          "url": "https://open.spotify.com/artist/1oXfbG8k6rwPkPfYkxlmO7"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Malehaniyea",
+      "url": "https://open.spotify.com/track/1Ywxy20GhIJOcusnKK2Z9d"
+    },
+    {
       "added_at": "2023-07-04 11:00:31",
       "album": {
         "name": "Neeli Neeli Aakasha (From \"30 Dinadalli Preetsod Hege\")",
@@ -169,6 +209,62 @@
       "url": "https://open.spotify.com/track/7rfPcV4f8Ew7cPi0Mo03Gx"
     },
     {
+      "added_at": "2023-07-24 06:31:36",
+      "album": {
+        "name": "Badalaavane (From \"Aura\")",
+        "url": "https://open.spotify.com/album/2OsqxWWrDg7sKxGjV8LJj0"
+      },
+      "artists": [
+        {
+          "name": "Pancham Jeeva",
+          "url": "https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s"
+        },
+        {
+          "name": "Rakesh Jogi",
+          "url": "https://open.spotify.com/artist/0nsDGnGBoPzCzfeqyqdb9T"
+        },
+        {
+          "name": "AR Rohit",
+          "url": "https://open.spotify.com/artist/69tKXP6iohK3uFB2vVcdlC"
+        },
+        {
+          "name": "Girish Hothur",
+          "url": "https://open.spotify.com/artist/29O31xO7j46cpvDLf7yOd0"
+        },
+        {
+          "name": "Manu Devarahalli",
+          "url": "https://open.spotify.com/artist/16sc7jfPOa1VlkzbOBOUZC"
+        }
+      ],
+      "duration_ms": 224810,
+      "name": "Badalaavane - From \"Aura\"",
+      "url": "https://open.spotify.com/track/5lBKlgFUSzTnOafGb0nGAx"
+    },
+    {
+      "added_at": "2023-07-24 06:31:36",
+      "album": {
+        "name": "90 Haaku (From \"Kousalya Supraja Rama\")",
+        "url": "https://open.spotify.com/album/3UIbArydxRdfjvYNcRZiXD"
+      },
+      "artists": [
+        {
+          "name": "Aishwarya Rangarajan",
+          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
+        },
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        },
+        {
+          "name": "Shashank",
+          "url": "https://open.spotify.com/artist/37yERfVx2mLLJAVigQekAN"
+        }
+      ],
+      "duration_ms": 163555,
+      "name": "90 Haaku (From \"Kousalya Supraja Rama\")",
+      "url": "https://open.spotify.com/track/7guLFKh9fms3nNu8tu21Ov"
+    },
+    {
       "added_at": "2023-07-19 11:13:36",
       "album": {
         "name": "Daredevil Musthafa (Original Motion Picture Soundtrack)",
@@ -213,24 +309,28 @@
       "url": "https://open.spotify.com/track/2Vw00Nw9SqkD0UxLfw3dy9"
     },
     {
-      "added_at": "2023-07-13 11:19:20",
+      "added_at": "2023-07-24 06:31:36",
       "album": {
-        "name": "Guilt (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1DXKn75BqwfA2jUI0e8BRA"
+        "name": "Devara Kanassu (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5irvveJ2VkyKtQSDaLBKcQ"
       },
       "artists": [
         {
-          "name": "Akash Parva",
-          "url": "https://open.spotify.com/artist/2LyrhBPTEuifocZjRarMW6"
+          "name": "Sandy Sandellow",
+          "url": "https://open.spotify.com/artist/3V0QBKJQQZJdNi5GwWkcyv"
         },
         {
-          "name": "Vijeth Urs",
-          "url": "https://open.spotify.com/artist/2aGAKpJXklASWkahlvrDW5"
+          "name": "Lingaraj Ithihas",
+          "url": "https://open.spotify.com/artist/5ZXHAWNuPjnJNfeTsIr8KF"
+        },
+        {
+          "name": "Zubi Paul",
+          "url": "https://open.spotify.com/artist/3j2igpljgntlwMP47IJBOp"
         }
       ],
-      "duration_ms": 260917,
-      "name": "Naguve Summane (from \"Guilt\")",
-      "url": "https://open.spotify.com/track/1ICkq8Oj1mhv14oz0tqjd5"
+      "duration_ms": 261250,
+      "name": "Belakondu Saagutide",
+      "url": "https://open.spotify.com/track/2NtSBPWIPvlm3nDBv12rpT"
     },
     {
       "added_at": "2023-07-17 11:10:06",
@@ -327,30 +427,6 @@
       "duration_ms": 127540,
       "name": "Dharaniye Daniyali (From \"Paramvah\")",
       "url": "https://open.spotify.com/track/4c1OQoXJmwktgTNgPFQbVI"
-    },
-    {
-      "added_at": "2023-07-12 11:22:29",
-      "album": {
-        "name": "Aasare (From \"Nimmellara Aashirvada \")",
-        "url": "https://open.spotify.com/album/48MQ48TQGcCQclseDhEW5e"
-      },
-      "artists": [
-        {
-          "name": "Rajath Hegde",
-          "url": "https://open.spotify.com/artist/4vNkAvYtFhyUwSftoj41bu"
-        },
-        {
-          "name": "Sunaad Gowtham",
-          "url": "https://open.spotify.com/artist/0jvZKMruVEIk8chn4pt0vB"
-        },
-        {
-          "name": "Ganapathi Diwan",
-          "url": "https://open.spotify.com/artist/0dRnjhvWhBiDnsKyabNepu"
-        }
-      ],
-      "duration_ms": 300948,
-      "name": "Aasare - From \"Nimmellara Aashirvada \"",
-      "url": "https://open.spotify.com/track/2fquawD0QH7ALTaY5B7R2o"
     },
     {
       "added_at": "2023-07-19 11:13:36",
@@ -477,26 +553,6 @@
       "url": "https://open.spotify.com/track/0U9so7ube4YJdIHgvBRq20"
     },
     {
-      "added_at": "2023-07-13 11:19:20",
-      "album": {
-        "name": "Guilt (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1DXKn75BqwfA2jUI0e8BRA"
-      },
-      "artists": [
-        {
-          "name": "Akash Parva",
-          "url": "https://open.spotify.com/artist/2LyrhBPTEuifocZjRarMW6"
-        },
-        {
-          "name": "Adithi Akash",
-          "url": "https://open.spotify.com/artist/6rkIqmWukoPqE7iS49n3BY"
-        }
-      ],
-      "duration_ms": 104511,
-      "name": "Karago Chandrana Nambi (from \"Guilt\")",
-      "url": "https://open.spotify.com/track/0yLHWDYyFi5dbJOBLQeuKm"
-    },
-    {
       "added_at": "2023-06-07 04:40:04",
       "album": {
         "name": "Adipurush (KANNADA)",
@@ -563,30 +619,6 @@
       "duration_ms": 260570,
       "name": "Naane Raama Naane Raavana (from \"Kiraathaka 2\")",
       "url": "https://open.spotify.com/track/1ruiOa3vHHJGDEgcFUKzr3"
-    },
-    {
-      "added_at": "2023-06-09 06:29:08",
-      "album": {
-        "name": "Bekitta Bekitta (From \"Raju James Bond\")",
-        "url": "https://open.spotify.com/album/37NBlQ4DIpQV8RqsMdElUa"
-      },
-      "artists": [
-        {
-          "name": "Anthony Daasan",
-          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
-        },
-        {
-          "name": "J. Anoop Seelin",
-          "url": "https://open.spotify.com/artist/6ALy9cwte5hjLcjAjCxu4R"
-        },
-        {
-          "name": "Deepak Madhuvanahalli",
-          "url": "https://open.spotify.com/artist/2Gxl4gcAiLwBSaPjDXAwdA"
-        }
-      ],
-      "duration_ms": 252583,
-      "name": "Bekitta Bekitta - From \"Raju James Bond\"",
-      "url": "https://open.spotify.com/track/0ZDWGu4skxJ2RGAgg4BTeC"
     },
     {
       "added_at": "2023-05-26 10:03:05",
@@ -691,26 +723,6 @@
       "duration_ms": 174133,
       "name": "Yaaro Yaaro (From \"Yadha Yadha Hi\")",
       "url": "https://open.spotify.com/track/1ASDt2sOPKNGdb4m84fQMS"
-    },
-    {
-      "added_at": "2023-07-13 11:19:20",
-      "album": {
-        "name": "Guilt (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1DXKn75BqwfA2jUI0e8BRA"
-      },
-      "artists": [
-        {
-          "name": "Akash Parva",
-          "url": "https://open.spotify.com/artist/2LyrhBPTEuifocZjRarMW6"
-        },
-        {
-          "name": "Vijeth Urs",
-          "url": "https://open.spotify.com/artist/2aGAKpJXklASWkahlvrDW5"
-        }
-      ],
-      "duration_ms": 67176,
-      "name": "Marali Baruveya Churu",
-      "url": "https://open.spotify.com/track/1WIZDAlF92EP4frsti7rjp"
     },
     {
       "added_at": "2023-05-24 12:20:30",

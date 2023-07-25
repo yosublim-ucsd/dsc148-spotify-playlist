@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 
 > The new wave of rock from the UK & Ireland\. Cover: Dead Pony
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,433 likes - 80 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,437 likes - 80 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlpoS0u7ZOs.md) - [plain]
 | 79 | [Catch Myself](https://open.spotify.com/track/0zWZ48DAJDEisU3Nhnil8g) | [Izzy T](https://open.spotify.com/artist/2YoA6qpLPKl5KkGbxlxDMg) | [Catch Myself](https://open.spotify.com/album/3TDbkmi5wlY2eZeWw9xduR) | 3:01 |
 | 80 | [Geisha](https://open.spotify.com/track/02wRK11rA8xRXBWAoI42iP) | [Egyptian Blue](https://open.spotify.com/artist/3IW8WBsi0vGrcdMNsXS6Bi) | [Geisha](https://open.spotify.com/album/3GunDz6ntvuNGQcFHPtMiW) | 3:17 |
 
-Snapshot ID: `MCwyNGU1YjliMWQ0ODkwNTk1NzgzZmJmNDIyMmJhYmZmZmRhOThlZjVh`
+Snapshot ID: `MCw0NDU5MGI4NjlkMmI3MWU5MGVhODJlZDY5M2VlOTE4ZmZkNDgzNThm`

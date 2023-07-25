@@ -4,7 +4,7 @@
 
 > soft, chewy & good for the soul\. uwu
 
-634 songs - 1 day 10 hr 45 min
+635 songs - 1 day 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -456,7 +456,8 @@
 | [Risk It All](https://open.spotify.com/track/1nNBUK7ktg9n96YR4NNktg) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y3](https://open.spotify.com/album/684We4tIOzKAyNFV5MtWNj) | 3:38 | 2022-07-22 | 2022-09-26 |
 | [Romantic Comedies](https://open.spotify.com/track/32UFQyrBNdSaIXPrqvRkaJ) | [Francis Karel](https://open.spotify.com/artist/2ICBdsgeKJwqgRZv2yU5s6) | [Crash & Burn](https://open.spotify.com/album/5oxH5EJsmjUgl3bFyohapb) | 2:49 | 2023-02-19 | 2023-04-09 |
 | [Rumours](https://open.spotify.com/track/19rYI8oRZAdz0gQIQ2yHld) | [Mirror](https://open.spotify.com/artist/6B9YF4eOv99klogeZUzkYM) | [Rumours](https://open.spotify.com/album/7vawAmxGohhTYN53lzenQW) | 3:19 | 2023-03-18 | 2023-04-12 |
-| [running away from whatever you call paradise](https://open.spotify.com/track/60rBSYpVF3uPhWsO45a0GW) | [a kid named rufus](https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j) | [whatever works](https://open.spotify.com/album/63x6ehILu5223aljaHfeiK) | 3:28 | 2023-07-18 |  |
+| [running away from whatever you call paradise](https://open.spotify.com/track/60rBSYpVF3uPhWsO45a0GW) | [a kid named rufus](https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j) | [whatever works](https://open.spotify.com/album/63x6ehILu5223aljaHfeiK) | 3:28 | 2023-07-18 | 2023-07-25 |
+| [running away from whatever you call paradise](https://open.spotify.com/track/6letrIiNyYIxpQZnbs8e3j) | [a kid named rufus](https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j) | [whatever works](https://open.spotify.com/album/6gEyHGNecWqivhWhMn7fFj) | 3:28 | 2023-07-21 |  |
 | [Sailing Boat](https://open.spotify.com/track/2l37gpBtjpvF2xW0QnTS8J) | [Lester Lam](https://open.spotify.com/artist/2oicwXEZfc7OVHxgpszBX9) | [Sailing Boat](https://open.spotify.com/album/686eANueSKRW9VFefIR1lR) | 3:55 | 2022-04-15 | 2022-07-26 |
 | [sallow](https://open.spotify.com/track/5oT0zTD2I38HEqJpPUYBaS) | [lo\-key design](https://open.spotify.com/artist/4Yw0OkfWbeOb0Q6ATaxZoB) | [sallow](https://open.spotify.com/album/7GjFkGCRrqXnLiDs111rWU) | 4:05 | 2022-03-29 | 2022-04-18 |
 | [same old](https://open.spotify.com/track/1NPugQ5FaJ3rySdrWUSdoJ) | [fcj](https://open.spotify.com/artist/1Nv875EklW8XLTduI6I3Js), [Michelle](https://open.spotify.com/artist/13VDZTUvX9b5ivTysrXuMk), [Milky Day](https://open.spotify.com/artist/7FIqXqYZHMomTAcTXF4UHu) | [same old](https://open.spotify.com/album/1JGJWLg9Sl86XrH4u8VynZ) | 2:28 | 2023-01-26 | 2023-02-20 |

@@ -4,7 +4,7 @@
 
 > The soft sound of some of the smoothest and sweetest vocal Jazz.
 
-311 songs - 21 hr 13 min
+312 songs - 21 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [But For Now](https://open.spotify.com/track/1oSmMZfuhctJjbrn3joJKc) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething \(Special Edition\)](https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh) | 3:55 | 2022-01-20 |  |
 | [California Dreamin'](https://open.spotify.com/track/14IV6ycAWxurGj5KvHtNAT) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Wallflower](https://open.spotify.com/album/6xUodRTpBiWXfQwPVZ5hIN) | 3:17 | 2022-01-20 | 2022-05-25 |
 | [Can't Get Out Of This Mood](https://open.spotify.com/track/0uEy5F2mkuapZBLYHpxG7K) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Can't Get Out Of This Mood](https://open.spotify.com/album/3EZm9GEXCyc7RV3JtYCDTy) | 3:42 | 2022-08-11 | 2023-03-02 |
+| [Careless Whisper](https://open.spotify.com/track/3ye2omDBPm3MpR3aQDbfA7) | [Julio Iglesias Jr](https://open.spotify.com/artist/3GjoS8zAETCfiBvgfvlpGm), [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Under the Covers](https://open.spotify.com/album/2n1QUTdi2StG378HUORudq) | 4:56 | 2023-06-21 |  |
 | [Castles in the Air](https://open.spotify.com/track/2EHOINS6ULWahXvResI7mo) | [Laura & Anton](https://open.spotify.com/artist/5zhAV9E0xJDguU5SBk39Zy) | [Castles in the Air](https://open.spotify.com/album/1gqx5mQl7BM8A1j5QtZt0S) | 3:53 | 2022-01-20 |  |
 | [Cheek to Cheek](https://open.spotify.com/track/1KTaQ86FXc2K1yQg6aSWeq) | [Ed Jones](https://open.spotify.com/artist/50jTSB3cxLenKinb52wt9h), [Heine Hansen](https://open.spotify.com/artist/5LKzsRa8ZxAqjPH8QrJtvL), [Bastian Sjelberg](https://open.spotify.com/artist/3Rgg1JKEs7YEpXZYeEHa2z), [Kristoffer Sjelberg](https://open.spotify.com/artist/4bSEbauSFayttziimmWabS) | [Cookin' at the Swing \(Vol\. 1\)](https://open.spotify.com/album/6qE8slTHKK8ruoKt8nQaL3) | 6:29 | 2022-03-25 |  |
 | [City Garden](https://open.spotify.com/track/271DgzkEDb5ojjbZNaZw91) | [Katrine Madsen](https://open.spotify.com/artist/20QOEqeaMRFRLa839sDCnj), [Anders Jormin](https://open.spotify.com/artist/4GyvHXnvKDjmMjMQJmsOTy), [Jacob Christoffersen](https://open.spotify.com/artist/3ljK3UprmcWotHs686486V) | [City Garden](https://open.spotify.com/album/6ziyb5Tcw8wGU9hISjQZEr) | 6:34 | 2022-01-20 | 2022-10-08 |
@@ -283,7 +284,7 @@
 | [The Way You Look Tonight](https://open.spotify.com/track/5C6D1r13OrEp1MpKVDUF8v) | [Cassandra Wilson](https://open.spotify.com/artist/6TZ5t4kclsmGWHqb3mGyha) | [Coming Forth by Day](https://open.spotify.com/album/3Remng6plhUxCGnBHbQsYU) | 3:50 | 2022-02-18 |  |
 | [The Way You Look Tonight](https://open.spotify.com/track/3mADbrwcu80uRhrgrAaPTz) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [The Silver Lining \- The Songs of Jerome Kern](https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m) | 2:54 | 2022-01-20 |  |
 | [These Are the Memories](https://open.spotify.com/track/6cBAQr4SjyDLDfkUa1oprE) | [Emmaline](https://open.spotify.com/artist/4qCLr26rRwbXkdhcEBKjc5) | [These Are the Memories](https://open.spotify.com/album/4wmAugLcz7Whavrrr1t1Kb) | 4:33 | 2023-02-01 |  |
-| [Thinker and a Fool](https://open.spotify.com/track/5yO7yyLiVsvBj1xrAvZLnR) | [Mathieu Soucy](https://open.spotify.com/artist/34EB0yXyCqgJZ9i0axQfes), [Caity Gyorgy](https://open.spotify.com/artist/0TSL0OGIj6V45IpatPaVZO) | [Thinker and a Fool](https://open.spotify.com/album/6WuEy5rVoYSdLWKBFA2REb) | 6:00 | 2022-07-14 |  |
+| [Thinker and a Fool](https://open.spotify.com/track/5yO7yyLiVsvBj1xrAvZLnR) | [Mathieu Soucy](https://open.spotify.com/artist/34EB0yXyCqgJZ9i0axQfes), [Caity Gyorgy](https://open.spotify.com/artist/0TSL0OGIj6V45IpatPaVZO) | [Thinker and a Fool](https://open.spotify.com/album/6WuEy5rVoYSdLWKBFA2REb) | 6:00 | 2022-07-14 | 2023-07-25 |
 | [Till There Was You \- Remastered](https://open.spotify.com/track/0CczH75yFBo53bVqLRvYn4) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Latin Ala Lee](https://open.spotify.com/album/5A7sAUKBDHvRyA5AxkeKAK) | 2:31 | 2022-01-20 |  |
 | [To Love You All Over Again](https://open.spotify.com/track/4EPwpBN0t11bIxjsAI8oaF) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [Bare Bones](https://open.spotify.com/album/5WSZnecSUMQprzWZLlk5ha) | 3:57 | 2022-01-20 |  |
 | [Too Late Now](https://open.spotify.com/track/6iYaFLnX3epoWlQhGdbTRy) | [Johanna Pettersson](https://open.spotify.com/artist/3K6nNpFGe2X8oY5SuZu7w0), [Filip Ekestubbe](https://open.spotify.com/artist/1rhA3rMvp7PcSaxbLlTZXX), [Tomas Sjödell](https://open.spotify.com/artist/5t0kuw9leStrP3KsH1XFJv), [Adam Ross](https://open.spotify.com/artist/1mdEyNmkyJgaeVRF5PrmjM) | [The Show Must Go On](https://open.spotify.com/album/6jKTnQzbrpRONtKbIt3kfo) | 5:09 | 2022-02-18 | 2022-10-26 |

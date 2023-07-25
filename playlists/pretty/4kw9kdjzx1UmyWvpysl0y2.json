@@ -1,13 +1,49 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 127236,
+  "num_followers": 127239,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDMyMiw2ZWJjYzdmYTM2MDY1ODc1NGQ4ZmIyNWJiN2NmNTY1MDAyMmZkZTli",
+  "snapshot_id": "NDMyNSwyNzBjNGNlNDAyY2Y4YzkwNDRhNjUxZmZhZjNlNTRjMjI4YmRkNzhi",
   "tracks": [
+    {
+      "added_at": "2023-07-24 16:56:32",
+      "album": {
+        "name": "restless",
+        "url": "https://open.spotify.com/album/3EDRGL855m5gnbykVzektt"
+      },
+      "artists": [
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        },
+        {
+          "name": "Kazukii",
+          "url": "https://open.spotify.com/artist/5d07MpiIaNmmEMTq79KAga"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "restless",
+      "url": "https://open.spotify.com/track/0HkqBi1na692hJl5nrTDit"
+    },
+    {
+      "added_at": "2023-07-24 16:53:19",
+      "album": {
+        "name": "Sea Turtles",
+        "url": "https://open.spotify.com/album/30aZunnIfn312Vtv4C3tiV"
+      },
+      "artists": [
+        {
+          "name": "IVORY",
+          "url": "https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo"
+        }
+      ],
+      "duration_ms": 237681,
+      "name": "Sea Turtles",
+      "url": "https://open.spotify.com/track/1PNwfTqnN6vECSMjb5sluO"
+    },
     {
       "added_at": "2023-07-20 19:45:15",
       "album": {
@@ -1107,22 +1143,6 @@
       "duration_ms": 179000,
       "name": "We Are All Equal",
       "url": "https://open.spotify.com/track/5B1NXRJoU4Bs1D74Qdsokg"
-    },
-    {
-      "added_at": "2023-05-01 20:21:58",
-      "album": {
-        "name": "Be With You",
-        "url": "https://open.spotify.com/album/0kiZ251Slwv3rlGwdAHuRk"
-      },
-      "artists": [
-        {
-          "name": "RetroVision",
-          "url": "https://open.spotify.com/artist/6heMlLFM6RDDHRz99uKMqS"
-        }
-      ],
-      "duration_ms": 166363,
-      "name": "Be With You",
-      "url": "https://open.spotify.com/track/1VdCgotTRcPwbbRnCrzIfR"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

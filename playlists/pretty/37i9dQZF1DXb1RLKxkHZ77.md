@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 
 > Lagu\-lagu yang terbaik di Malaysia\. Cover: Anggi Marito
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,815 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,892 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb1RLKxkHZ77.md) - [plain]
 | 49 | [Bukan Dengan Kita](https://open.spotify.com/track/33wlhlxa8yY7NUtdJi2AI6) | [Dalia Farhana](https://open.spotify.com/artist/5yfr8xJi6ZAFs50aNSddtg), [Irfan Haris](https://open.spotify.com/artist/0k30WyXe7aXAIgFKgUVAtP) | [Bukan Dengan Kita](https://open.spotify.com/album/1xOjV9DAO2qgx1lk0DZBmy) | 4:33 |
 | 50 | [Is It True](https://open.spotify.com/track/0teG0iZkp0hNgLrb7coc9c) | [Afiq Adnan](https://open.spotify.com/artist/4N5d5HPKGz8hi3Tv9WdPJu), [Amira Othman](https://open.spotify.com/artist/31aRV0LJpJ88B7WX6PNspi) | [Is It True](https://open.spotify.com/album/5s1cax8A6OsD5KUihrExie) | 2:49 |
 
-Snapshot ID: `MCw4Nzc5MWQ2MWZhNzQ5ZjU5MGM5OGM3M2JhMzg3OTk2YjY1YjEwMDU4`
+Snapshot ID: `MCxlYzdiY2IwYWJlY2RkNDQ3ZDk5NWY4OGY3YjBkZjA3MzEyZjYyZjI4`

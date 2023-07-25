@@ -4,27 +4,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Paula Carolina
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,140 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,337 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Heiß/Kalt](https://open.spotify.com/track/0BiieGdpvQqs1KhLCSbrT5) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Heiß/Kalt](https://open.spotify.com/album/4bvtp5T7GeQmtjeXDghCFL) | 2:53 |
+| 1 | [Egoist](https://open.spotify.com/track/1I9Pfp7ME8LRDuarPaBz3H) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Egoist](https://open.spotify.com/album/6cLgeh84azkbBltd6ZOw7S) | 3:18 |
 | 2 | [rosa rugosa](https://open.spotify.com/track/6JbEv82gvOqbjEMJs24MiF) | [Lucry & Suena](https://open.spotify.com/artist/4TPAWIeZhHw6CnsoPe9vxY), [Blumengarten](https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS), [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [rosa rugosa](https://open.spotify.com/album/1ywF3kbsYJUOa0hxfbZY08) | 2:25 |
-| 3 | [Egoist](https://open.spotify.com/track/1I9Pfp7ME8LRDuarPaBz3H) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Egoist](https://open.spotify.com/album/6cLgeh84azkbBltd6ZOw7S) | 3:18 |
+| 3 | [Heiß/Kalt](https://open.spotify.com/track/0BiieGdpvQqs1KhLCSbrT5) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Heiß/Kalt](https://open.spotify.com/album/4bvtp5T7GeQmtjeXDghCFL) | 2:53 |
 | 4 | [Blaue Stunde](https://open.spotify.com/track/3hdluTsPx0vbVdLZsZPE2K) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Blaue Stunde](https://open.spotify.com/album/10L1i38qodCnhxdvg7LxQZ) | 3:17 |
 | 5 | [sommer \(feat\. CRO\)](https://open.spotify.com/track/1SaSTeiR7cqi5fUXZlGr4e) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv), [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [sommer \(feat\. CRO\)](https://open.spotify.com/album/4UK5FLZLXuCFJwtNZg8l8L) | 2:51 |
-| 6 | [1 hertz](https://open.spotify.com/track/0SQItD7OT756ZeYEOVeNKz) | [Trille](https://open.spotify.com/artist/7z7UeKh2Y7m3DLpVs0458h) | [1 hertz](https://open.spotify.com/album/38x03kzY0gNwycJmFwZ7mR) | 3:15 |
-| 7 | [sommernacht](https://open.spotify.com/track/3ycfNtMAv09Ul6qiTOcfWI) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [sommernacht](https://open.spotify.com/album/3S7EQ9i1CSXVn5C91wnSkP) | 2:15 |
-| 8 | [Bei dir melden](https://open.spotify.com/track/2ELLvcm0ygosQHVQwfBTKa) | [Pablu](https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3) | [Bei dir melden](https://open.spotify.com/album/3MfYFTs9X8ct3eKlroTnuY) | 2:53 |
+| 6 | [sommernacht](https://open.spotify.com/track/3ycfNtMAv09Ul6qiTOcfWI) | [Kasi](https://open.spotify.com/artist/49jnuRVkvqT093caXQnJBw), [antonius](https://open.spotify.com/artist/5w3u2cHM1H7URZVsLiCxqi) | [sommernacht](https://open.spotify.com/album/3S7EQ9i1CSXVn5C91wnSkP) | 2:15 |
+| 7 | [Bei dir melden](https://open.spotify.com/track/2ELLvcm0ygosQHVQwfBTKa) | [Pablu](https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3) | [Bei dir melden](https://open.spotify.com/album/3MfYFTs9X8ct3eKlroTnuY) | 2:53 |
+| 8 | [1 hertz](https://open.spotify.com/track/0SQItD7OT756ZeYEOVeNKz) | [Trille](https://open.spotify.com/artist/7z7UeKh2Y7m3DLpVs0458h) | [1 hertz](https://open.spotify.com/album/38x03kzY0gNwycJmFwZ7mR) | 3:15 |
 | 9 | [Rote Flaggen](https://open.spotify.com/track/7bkUa9kDFGxgCC7d36dzFI) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [ROTE FLAGGEN](https://open.spotify.com/album/0EWCRqTiWqdumuQKybIzWa) | 3:44 |
 | 10 | [Tanz In Deiner Wohnung](https://open.spotify.com/track/1HK0OkZNHBGUwG4BkcydKB) | [PaulWetz](https://open.spotify.com/artist/1uaDw0T6O916Kv8TxJsQzb) | [Tanz In Deiner Wohnung](https://open.spotify.com/album/4yzLVO788gfMjTO43aX3ws) | 3:04 |
 | 11 | [Kurz vor Mitternacht](https://open.spotify.com/track/1VlweHpugA3HVSVSdklfWE) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg) | [Kurz vor Mitternacht](https://open.spotify.com/album/7snqlkdNQbrjlFpixzg1vw) | 4:25 |
 | 12 | [Hallo](https://open.spotify.com/track/66kh9O5vsEh4nKAb5jM5vc) | [Ivo Martin](https://open.spotify.com/artist/4bId6MR2fskVKIeCSEmktg) | [Hallo](https://open.spotify.com/album/4muwv9nlu37zdTF6R2m30u) | 2:00 |
-| 13 | [Feelings](https://open.spotify.com/track/3ARaFYOzYgmbyHNxYRlJZ2) | [Ottolien](https://open.spotify.com/artist/6tzzvlOZtxLiD4OkowLXDA), [Kicker Dibs](https://open.spotify.com/artist/0VVyXeKjpFojiRo57RjbMt) | [Feelings](https://open.spotify.com/album/4sSwJVJ2R6L5ajWkM8c2HA) | 2:37 |
-| 14 | [Verrückt](https://open.spotify.com/track/3fdtL03cpv8g91L8ZB2xXA) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Verrückt](https://open.spotify.com/album/3V4NoETSPCqAiKSlY1ckWe) | 3:06 |
-| 15 | [Unendlichkeit](https://open.spotify.com/track/5oUaUa8t6ld88QUCyYFb2H) | [MilleniumKid](https://open.spotify.com/artist/6nJEMDVNcq7fduXgk7EdGG), [JBS BEATS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [Unendlichkeit](https://open.spotify.com/album/0DDedQfbStXhO5HzFh4uC3) | 3:18 |
-| 16 | [June](https://open.spotify.com/track/5MOQEkTya2UEh5N2pHiYf6) | [BECKS](https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57) | [June](https://open.spotify.com/album/2gRsAYk3oBYBJoKFhXflgf) | 2:44 |
-| 17 | [emma](https://open.spotify.com/track/2RvLlxea9woaqb2ZLgAmv7) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv) | [emma](https://open.spotify.com/album/6PbZLTQ1tsF7ZlIUdZfpNc) | 3:15 |
+| 13 | [Verrückt](https://open.spotify.com/track/3fdtL03cpv8g91L8ZB2xXA) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Verrückt](https://open.spotify.com/album/3V4NoETSPCqAiKSlY1ckWe) | 3:06 |
+| 14 | [Unendlichkeit](https://open.spotify.com/track/5oUaUa8t6ld88QUCyYFb2H) | [MilleniumKid](https://open.spotify.com/artist/6nJEMDVNcq7fduXgk7EdGG), [JBS BEATS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [Unendlichkeit](https://open.spotify.com/album/0DDedQfbStXhO5HzFh4uC3) | 3:18 |
+| 15 | [June](https://open.spotify.com/track/5MOQEkTya2UEh5N2pHiYf6) | [BECKS](https://open.spotify.com/artist/7Bk6OavbjEK5gtMvSRns57) | [June](https://open.spotify.com/album/2gRsAYk3oBYBJoKFhXflgf) | 2:44 |
+| 16 | [emma](https://open.spotify.com/track/2RvLlxea9woaqb2ZLgAmv7) | [Casper](https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv) | [emma](https://open.spotify.com/album/6PbZLTQ1tsF7ZlIUdZfpNc) | 3:15 |
+| 17 | [Feelings](https://open.spotify.com/track/3ARaFYOzYgmbyHNxYRlJZ2) | [Ottolien](https://open.spotify.com/artist/6tzzvlOZtxLiD4OkowLXDA), [Kicker Dibs](https://open.spotify.com/artist/0VVyXeKjpFojiRo57RjbMt) | [Feelings](https://open.spotify.com/album/4sSwJVJ2R6L5ajWkM8c2HA) | 2:37 |
 | 18 | [Ich glaub ich will heut nicht mehr gehen](https://open.spotify.com/track/4zLCLlqLivpZXvYfQCqTWh) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5), [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Glas](https://open.spotify.com/album/1oMWwWSqcGxpn2YhsYkNt6) | 2:55 |
 | 19 | [Alle Farben](https://open.spotify.com/track/3YGE4ji9cuQOpnPtCoNUYl) | [Ritter Lean](https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt) | [Auch ein Atze muss mal weinen](https://open.spotify.com/album/2lY9XiTel43ofsXz4qsHI5) | 1:55 |
 | 20 | [Mut](https://open.spotify.com/track/51oVxCfHSOp8oZc0HhBwf8) | [KAFFKIEZ](https://open.spotify.com/artist/02RMYgMewVfvyoxyAbegTo) | [Mut](https://open.spotify.com/album/4aYZfCtzXSvMFAVRApKo4R) | 2:43 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Feuer](https://open.spotify.com/track/1bSKKdLrgpRC82W0IwUtnB) | [Pippa](https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x) | [Feuer](https://open.spotify.com/album/03vZXPAc1R2G7dRIyZJukl) | 2:54 |
 | 75 | [Teenage Dirtbag](https://open.spotify.com/track/1qua00ZPrL5IHm6mmqBfRI) | [Flinte](https://open.spotify.com/artist/3ZqXNocGLSBgDcpM2QyQMS), [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Teenage Dirtbag](https://open.spotify.com/album/0gwLX3eAeSh7sADfI2VAXc) | 2:29 |
 
-Snapshot ID: `MCwxZDE4OTY3ZjU5YmQwMjlkZjNhNmM0NmI4N2UxZTUxMGFmMmJhZWE4`
+Snapshot ID: `MCxmZWUwMDllODBlMzFhZTk0NGU0MzM1NDg1M2MyZjFkNWQwM2ZlY2Fk`

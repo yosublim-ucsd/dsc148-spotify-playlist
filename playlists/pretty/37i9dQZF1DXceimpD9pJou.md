@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto: <a href="https://open.spotify.com/artist/1wUcqswHv80fp5nMF2hVwM?si=6771e768eb674c63">NewSpring Worship</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,104 likes - 100 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,205 likes - 100 songs - 7 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [NORTE](https://open.spotify.com/track/1YgVkW9PRa6lF8nMUKPcks) | [Vito Vasquez](https://open.spotify.com/artist/6X77ZznZkcQj4vcIEwYRM5) | [NORTE](https://open.spotify.com/album/29Hzdk7JSJ9fxbvrOU7sWw) | 2:49 |
 | 100 | [No Lo Prenda](https://open.spotify.com/track/0C0iMkdxFqHoDgXEVSiQy8) | [Peter Metivier](https://open.spotify.com/artist/1dRxdmjynLZ3uWalEN5wrg), [Rubinsky Rbk](https://open.spotify.com/artist/5K6MRaKDEJ1bLuHQQFaUFH), [Dixson Waz](https://open.spotify.com/artist/0ojgcvasAUtJXXV8ddYQNt) | [El Mejor Dembow](https://open.spotify.com/album/2pptLT2BLYvXIT8zmUqfVm) | 3:03 |
 
-Snapshot ID: `MCxjZjBiNTZmMzZhNDA5ZTE2YThhNDRmN2E3MWM3NGYwOGVhN2ZkZGQx`
+Snapshot ID: `MCwwNTRkNTkxM2NjZTBjODllZGI1ZWZkMGU2ZjFmZjU4NWE4OWM4NmU2`

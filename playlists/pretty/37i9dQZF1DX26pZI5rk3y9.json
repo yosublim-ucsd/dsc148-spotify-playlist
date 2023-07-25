@@ -1,12 +1,12 @@
 {
   "description": "Stomping Blues Rock for cooking and eating with friends. ",
-  "num_followers": 5908,
+  "num_followers": 5916,
   "original_name": "Blues BBQ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YWQ2NzFjMTk4ZDg5MzkyMDJhZjdlZmE3N2YwYWY4YjkwNGM1NGE3",
+  "snapshot_id": "MCxlYzkxZWFjNGNhY2Q4NTk0MTBmMzFhYzg1MGRkMzExOTE2Mzg2YzVi",
   "tracks": [
     {
       "added_at": "2023-07-21 15:58:03",
@@ -75,6 +75,22 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
+        "name": "Last Train To Nowhere",
+        "url": "https://open.spotify.com/album/194b6KWWEOdwDe19wO13eh"
+      },
+      "artists": [
+        {
+          "name": "Ghost Hounds",
+          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
+        }
+      ],
+      "duration_ms": 216613,
+      "name": "Last Train To Nowhere",
+      "url": "https://open.spotify.com/track/4qx1YtrtGyG4sRrYx6PgKR"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
         "name": "Well, I Done Got Over It",
         "url": "https://open.spotify.com/album/4ftRZ5GU9UPwhRhs7JXMp7"
       },
@@ -107,38 +123,6 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "The Big Come Up",
-        "url": "https://open.spotify.com/album/4GcL493CWgWz5SVoxd7UIh"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 140933,
-      "name": "I'll Be Your Man",
-      "url": "https://open.spotify.com/track/7ve0nLuGlLfqw0EbL2UZEV"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
-        "name": "Last Train To Nowhere",
-        "url": "https://open.spotify.com/album/194b6KWWEOdwDe19wO13eh"
-      },
-      "artists": [
-        {
-          "name": "Ghost Hounds",
-          "url": "https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor"
-        }
-      ],
-      "duration_ms": 216613,
-      "name": "Last Train To Nowhere",
-      "url": "https://open.spotify.com/track/4qx1YtrtGyG4sRrYx6PgKR"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
         "name": "Deathwish",
         "url": "https://open.spotify.com/album/1mC7lvCfUsyDISPlpJHThL"
       },
@@ -159,6 +143,22 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
+        "name": "The Big Come Up",
+        "url": "https://open.spotify.com/album/4GcL493CWgWz5SVoxd7UIh"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 140933,
+      "name": "I'll Be Your Man",
+      "url": "https://open.spotify.com/track/7ve0nLuGlLfqw0EbL2UZEV"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
         "name": "What Goes Around (Comes Around)",
         "url": "https://open.spotify.com/album/6ukUrjZCCv4obWWAtnTYBk"
       },
@@ -171,22 +171,6 @@
       "duration_ms": 216845,
       "name": "What Goes Around (Comes Around)",
       "url": "https://open.spotify.com/track/4JsLGSecBb3okq0qZ5oZFJ"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
-        "name": "I Want To Shout About It",
-        "url": "https://open.spotify.com/album/4msee0HokeDJun37ZYZLLl"
-      },
-      "artists": [
-        {
-          "name": "Joe Bonamassa",
-          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
-        }
-      ],
-      "duration_ms": 252493,
-      "name": "I Want To Shout About It",
-      "url": "https://open.spotify.com/track/6MJzbRnxAbQ2Uke7e5vM2H"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -243,6 +227,26 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
+        "name": "Death Wish Blues",
+        "url": "https://open.spotify.com/album/1V6NLZLBvncmstnaziEQ4C"
+      },
+      "artists": [
+        {
+          "name": "Samantha Fish",
+          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
+        },
+        {
+          "name": "Jesse Dayton",
+          "url": "https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa"
+        }
+      ],
+      "duration_ms": 261064,
+      "name": "Rippin' And Runnin'",
+      "url": "https://open.spotify.com/track/5s0ZgnSyYuVejBMtrkDmIH"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
         "name": "FLorida Man",
         "url": "https://open.spotify.com/album/4CsAr4hOUgzB4IOKtnbJxn"
       },
@@ -255,6 +259,22 @@
       "duration_ms": 219454,
       "name": "FLorida Man",
       "url": "https://open.spotify.com/track/2oN86MTxnHp1ST30tDL4h0"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
+        "name": "I Want To Shout About It",
+        "url": "https://open.spotify.com/album/4msee0HokeDJun37ZYZLLl"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "duration_ms": 252493,
+      "name": "I Want To Shout About It",
+      "url": "https://open.spotify.com/track/6MJzbRnxAbQ2Uke7e5vM2H"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -303,26 +323,6 @@
       "duration_ms": 247319,
       "name": "Well Well Well",
       "url": "https://open.spotify.com/track/7K89YBfukxKcrm4hOVKQpk"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
-        "name": "Death Wish Blues",
-        "url": "https://open.spotify.com/album/1V6NLZLBvncmstnaziEQ4C"
-      },
-      "artists": [
-        {
-          "name": "Samantha Fish",
-          "url": "https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5"
-        },
-        {
-          "name": "Jesse Dayton",
-          "url": "https://open.spotify.com/artist/1NXXAtaI7ZYLazlZy2bXGa"
-        }
-      ],
-      "duration_ms": 261064,
-      "name": "Rippin' And Runnin'",
-      "url": "https://open.spotify.com/track/5s0ZgnSyYuVejBMtrkDmIH"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
+        "name": "Ramble No More",
+        "url": "https://open.spotify.com/album/2sXnVW6Il6yPtQp43N1nbC"
+      },
+      "artists": [
+        {
+          "name": "Nat Myers",
+          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
+        }
+      ],
+      "duration_ms": 175320,
+      "name": "Ramble No More",
+      "url": "https://open.spotify.com/track/073JQ7h40PFebZzVmYNb3l"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
         "name": "Gotta Bleed (Remix)",
         "url": "https://open.spotify.com/album/2X83Qtb3o6hw3RuZd9vdfe"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 214500,
       "name": "Gotta Bleed - Remix",
       "url": "https://open.spotify.com/track/5bbYD8wu2XFNyG76R41IAt"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
-        "name": "Ramble No More",
-        "url": "https://open.spotify.com/album/2sXnVW6Il6yPtQp43N1nbC"
-      },
-      "artists": [
-        {
-          "name": "Nat Myers",
-          "url": "https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS"
-        }
-      ],
-      "duration_ms": 175320,
-      "name": "Ramble No More",
-      "url": "https://open.spotify.com/track/073JQ7h40PFebZzVmYNb3l"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "Rubber Hits the Road",
-        "url": "https://open.spotify.com/album/7jcSy88anzSZ4NI0F3Bbgz"
-      },
-      "artists": [
-        {
-          "name": "SUSU",
-          "url": "https://open.spotify.com/artist/5dwHPgebBx3t7vvd9hWjXv"
-        }
-      ],
-      "duration_ms": 181133,
-      "name": "Rubber Hits the Road",
-      "url": "https://open.spotify.com/track/0w2HU4QlVqJTlQ7K27cs44"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
         "name": "Buffalo Road",
         "url": "https://open.spotify.com/album/29p1rFGBhwEVQf5BYS0heD"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 178893,
       "name": "Buffalo Road",
       "url": "https://open.spotify.com/track/6iSopPflVbtSJjLRCmksfl"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
+        "name": "Rubber Hits the Road",
+        "url": "https://open.spotify.com/album/7jcSy88anzSZ4NI0F3Bbgz"
+      },
+      "artists": [
+        {
+          "name": "SUSU",
+          "url": "https://open.spotify.com/artist/5dwHPgebBx3t7vvd9hWjXv"
+        }
+      ],
+      "duration_ms": 181133,
+      "name": "Rubber Hits the Road",
+      "url": "https://open.spotify.com/track/0w2HU4QlVqJTlQ7K27cs44"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "Take My Rider",
-        "url": "https://open.spotify.com/album/3qXggGZPRZT1vhEwTEg04Y"
-      },
-      "artists": [
-        {
-          "name": "Douglas Avery",
-          "url": "https://open.spotify.com/artist/2XEctRJbJDP8XUaNd8MMHz"
-        }
-      ],
-      "duration_ms": 312640,
-      "name": "Take My Rider",
-      "url": "https://open.spotify.com/track/6lSGLbVy39cBvcqk4HD5nl"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
         "name": "Walk The Wire",
         "url": "https://open.spotify.com/album/5ADpXCosDjpGMFbDznwb6X"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 124218,
       "name": "Walk The Wire",
       "url": "https://open.spotify.com/track/38VyicJEfQueeQPIH0tZDp"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
+        "name": "Take My Rider",
+        "url": "https://open.spotify.com/album/3qXggGZPRZT1vhEwTEg04Y"
+      },
+      "artists": [
+        {
+          "name": "Douglas Avery",
+          "url": "https://open.spotify.com/artist/2XEctRJbJDP8XUaNd8MMHz"
+        }
+      ],
+      "duration_ms": 312640,
+      "name": "Take My Rider",
+      "url": "https://open.spotify.com/track/6lSGLbVy39cBvcqk4HD5nl"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
-        "name": "Ain't Giving Up",
-        "url": "https://open.spotify.com/album/7if1zXFGoL0maOFlWKX6yE"
-      },
-      "artists": [
-        {
-          "name": "Chris Duarte",
-          "url": "https://open.spotify.com/artist/1W3SfQdOetqQqjsBCRpBqN"
-        }
-      ],
-      "duration_ms": 277904,
-      "name": "Gimme Your Love",
-      "url": "https://open.spotify.com/track/2atugg2VUdakDZqAbCbHDO"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
         "name": "So Free",
         "url": "https://open.spotify.com/album/3kiLL8akJ1EtTeVxiK3z1L"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 197800,
       "name": "So Free",
       "url": "https://open.spotify.com/track/6eHZdpqac4SxIDwX4b9lhR"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
+        "name": "Ain't Giving Up",
+        "url": "https://open.spotify.com/album/7if1zXFGoL0maOFlWKX6yE"
+      },
+      "artists": [
+        {
+          "name": "Chris Duarte",
+          "url": "https://open.spotify.com/artist/1W3SfQdOetqQqjsBCRpBqN"
+        }
+      ],
+      "duration_ms": 277904,
+      "name": "Gimme Your Love",
+      "url": "https://open.spotify.com/track/2atugg2VUdakDZqAbCbHDO"
     },
     {
       "added_at": "2023-07-21 15:58:03",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-07-21 15:58:03",
       "album": {
+        "name": "Cassanova Kirk Daniel",
+        "url": "https://open.spotify.com/album/1id1eNB9jWS9GshEtzTsMR"
+      },
+      "artists": [
+        {
+          "name": "Mittch",
+          "url": "https://open.spotify.com/artist/1MuW8Hbzbz2l2cx9wLx0gV"
+        }
+      ],
+      "duration_ms": 203599,
+      "name": "Cassanova Kirk Daniel",
+      "url": "https://open.spotify.com/track/7c2L7LpGqN1ZXjgbFR6AH3"
+    },
+    {
+      "added_at": "2023-07-21 15:58:03",
+      "album": {
         "name": "Got till it's gone",
         "url": "https://open.spotify.com/album/2FYDgrorxE3CBkgWWs7CBA"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 228857,
       "name": "Got till it's gone",
       "url": "https://open.spotify.com/track/0iN8dVHfDWV2HSmPSvrUlR"
-    },
-    {
-      "added_at": "2023-07-21 15:58:03",
-      "album": {
-        "name": "Cassanova Kirk Daniel",
-        "url": "https://open.spotify.com/album/1id1eNB9jWS9GshEtzTsMR"
-      },
-      "artists": [
-        {
-          "name": "Mittch",
-          "url": "https://open.spotify.com/artist/1MuW8Hbzbz2l2cx9wLx0gV"
-        }
-      ],
-      "duration_ms": 203599,
-      "name": "Cassanova Kirk Daniel",
-      "url": "https://open.spotify.com/track/7c2L7LpGqN1ZXjgbFR6AH3"
     },
     {
       "added_at": "2023-07-21 15:58:03",

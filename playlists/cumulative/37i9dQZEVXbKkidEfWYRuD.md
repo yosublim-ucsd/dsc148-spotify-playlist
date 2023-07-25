@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,158 songs - 2 day 5 hr 33 min
+1,159 songs - 2 day 5 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [D\-Day](https://open.spotify.com/track/22W6wI4hDTjMAYKKBQW9dU) | [Agust D](https://open.spotify.com/artist/5RmQ8k4l3HZ8JoPb4mNsML) | [D\-DAY](https://open.spotify.com/album/446ROKmKfpEwkbi2SjELVX) | 3:31 | 2023-04-22 | 2023-04-24 |
 | [Daleko](https://open.spotify.com/track/7n8TQPcPNpmzfKpTBBzsMh) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [AA LANGUAGE](https://open.spotify.com/album/5FU5AT1bUt4YrkrNI8eZ9q) | 2:27 | 2022-08-13 | 2022-08-19 |
 | [DALEKO](https://open.spotify.com/track/17SiOJ50b7dQU1ZSFtAXVc) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l), [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo) | [DALEKO](https://open.spotify.com/album/129hDAnA0r5LAsUOo1oPAa) | 2:28 | 2022-07-09 | 2022-08-08 |
+| [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-07-24 |  |
 | [Dark Side](https://open.spotify.com/track/6A8B1kJ9ZNHbl2uFPN6Wtm) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Dark Side](https://open.spotify.com/album/6Lzb7EjZXgtelxgBsZUhMS) | 2:57 | 2021-05-25 | 2021-06-01 |
 | [DAVID BECKHAM](https://open.spotify.com/track/6i1wYW9aYzrPTbqYfjamS8) | [OBLADAET](https://open.spotify.com/artist/1hwKCeSXpLrh4OQND6iQHw) | [PLAYERS CLUB](https://open.spotify.com/album/5sw0ehyM0UI5NX7BwPQlXI) | 2:51 | 2021-03-27 | 2021-04-02 |
 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-04-15 |  |
@@ -863,7 +864,7 @@
 | [МАЛИНОВАЯ ЛАДА](https://open.spotify.com/track/77B4S4jkrAkL3Ng5hEHoUU) | [GAYAZOV$ BROTHER$](https://open.spotify.com/artist/0xTdDjeCoM89b7n9fLcZvR) | [МАЛИНОВАЯ ЛАДА](https://open.spotify.com/album/6U8jV8xU3eysZU4EJO7gkI) | 3:33 | 2022-01-19 | 2022-04-05 |
 | [Мальчик на девятке](https://open.spotify.com/track/1tzTlRMcw9xDqrNRzj3H2g) | [DEAD BLONDE](https://open.spotify.com/artist/4k0dbhJImJWSJf9PsH7H3z) | [ПРОПАГАНДА](https://open.spotify.com/album/5sdvzhYvXZFTyCG6TaRljJ) | 3:35 | 2021-04-21 | 2021-09-22 |
 | [МАНИЯ](https://open.spotify.com/track/3Eb1hUNG5e1gF7OkftH9Hg) | [MORGENSHTERN](https://open.spotify.com/artist/0XNKQFs2Ewb3y0VsFUFc5l) | [MILLION DOLLAR: BUSINESS](https://open.spotify.com/album/04KjJSDImRLbElsI39hPLY) | 2:00 | 2021-05-30 | 2021-06-06 |
-| [Маніфест](https://open.spotify.com/track/0pWMr82unREASQGFJrrI5S) | [Artem Pivovarov](https://open.spotify.com/artist/11sIz9STeD6yVSuBaD8nMW) | [Маніфест](https://open.spotify.com/album/735VsIME5VK3hrbDLkUUFz) | 2:00 | 2023-01-18 |  |
+| [Маніфест](https://open.spotify.com/track/0pWMr82unREASQGFJrrI5S) | [Artem Pivovarov](https://open.spotify.com/artist/11sIz9STeD6yVSuBaD8nMW) | [Маніфест](https://open.spotify.com/album/735VsIME5VK3hrbDLkUUFz) | 2:00 | 2023-01-18 | 2023-07-25 |
 | [Матильда](https://open.spotify.com/track/48DqTa5F3e21LdVhTlNL8Q) | [lil krystalll](https://open.spotify.com/artist/2cYbwKKlCOv5VaoU9DZwGA) | [Матильда](https://open.spotify.com/album/6qNMXsKNHHNnrCbuKcLxsS) | 1:31 | 2021-12-12 | 2021-12-19 |
 | [маша](https://open.spotify.com/track/64epifHS5CvRUVgKEDbRJm) | [ПОЛМАТЕРИ](https://open.spotify.com/artist/3NDasZQ8ZbOssdAPNkZgW1) | [маша](https://open.spotify.com/album/0wcEoN1N8t2IpmeFIRa3Fy) | 1:55 | 2023-01-03 | 2023-01-18 |
 | [Маяк](https://open.spotify.com/track/73yFhVfJGEuFbLcJlXvysO) | [The Hardkiss](https://open.spotify.com/artist/4IJcztNtY5L7G3qK4yu1qt) | [Маяк](https://open.spotify.com/album/6PSB8QBCTsz961PJ0KMLoq) | 3:26 | 2023-05-13 | 2023-06-03 |

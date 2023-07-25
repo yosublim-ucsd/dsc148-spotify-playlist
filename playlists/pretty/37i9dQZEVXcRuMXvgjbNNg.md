@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcRuMXvgjbNNg.md) - [plain]
 | 29 | [Peace of Mind](https://open.spotify.com/track/0gadjOoL8sEResgrhXsSHV) | [Juice](https://open.spotify.com/artist/0Rq1n6pHHHUQwXnCO8IF4E) | [you are simply magnificent](https://open.spotify.com/album/7bAf2q3vuiWkw54shAnW03) | 4:19 |
 | 30 | [New Song](https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe), [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Notes from the Archive: Recordings 2011\-2016](https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb) | 6:22 |
 
-Snapshot ID: `MCwwMDAwMDAwMDI5YjQ0MDNhNDQ3MGJkZjE1NjgwMDVjZmQ5MmFjYWEw`
+Snapshot ID: `MCwwMDAwMDAwMDA2MmVlNWUwNTVkMDM3MTYyMjQzM2YwNWJkZjRkMTc2`

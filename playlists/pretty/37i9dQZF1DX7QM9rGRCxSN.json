@@ -1,12 +1,12 @@
 {
   "description": "Belleza y distorsi\u00f3n imaginada por bandas iberoamericanas. Con te vi en un planetario, en portada.",
-  "num_followers": 25077,
+  "num_followers": 25103,
   "original_name": "Shoegaze & Dreampop en espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwM2FmNWNjOWUzOTQ2OWQwY2E0YWU2ZTQ4MTY3YTM5NWFjYTk2OTBj",
+  "snapshot_id": "MCxjOGUxMmEzY2Q2MjVjYjE2NWQ2YTA4MGU1MWM5NzRiMzBkODM0NWIy",
   "tracks": [
     {
       "added_at": "2023-05-05 06:00:00",
@@ -143,18 +143,18 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "vampiro",
-        "url": "https://open.spotify.com/album/0Mic1a4JCZSEf1dAujC8x4"
+        "name": "tdbn",
+        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
       },
       "artists": [
         {
-          "name": "Kiddie Gang",
-          "url": "https://open.spotify.com/artist/1BIPunmLho7BYxe9gD4bFg"
+          "name": "Bratty",
+          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
         }
       ],
-      "duration_ms": 178275,
-      "name": "vampiro",
-      "url": "https://open.spotify.com/track/50swtPDEWetyPIuK4Pug08"
+      "duration_ms": 194640,
+      "name": "tdbn",
+      "url": "https://open.spotify.com/track/5PKQelL3yzmUpKTDj0j72t"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -175,6 +175,22 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
+        "name": "vampiro",
+        "url": "https://open.spotify.com/album/0Mic1a4JCZSEf1dAujC8x4"
+      },
+      "artists": [
+        {
+          "name": "Kiddie Gang",
+          "url": "https://open.spotify.com/artist/1BIPunmLho7BYxe9gD4bFg"
+        }
+      ],
+      "duration_ms": 178275,
+      "name": "vampiro",
+      "url": "https://open.spotify.com/track/50swtPDEWetyPIuK4Pug08"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
         "name": "Nubes",
         "url": "https://open.spotify.com/album/7t0vBigNHXs9SuwH1AaJXd"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 194440,
       "name": "Nubes",
       "url": "https://open.spotify.com/track/03DwGjU8lK4wiDdgSett0i"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
-        "name": "tdbn",
-        "url": "https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T"
-      },
-      "artists": [
-        {
-          "name": "Bratty",
-          "url": "https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn"
-        }
-      ],
-      "duration_ms": 194640,
-      "name": "tdbn",
-      "url": "https://open.spotify.com/track/5PKQelL3yzmUpKTDj0j72t"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Wow",
-        "url": "https://open.spotify.com/album/2h85rsLHSwAMdaBJvNnirH"
-      },
-      "artists": [
-        {
-          "name": "Margaritas Podridas",
-          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
-        }
-      ],
-      "duration_ms": 316777,
-      "name": "Wow",
-      "url": "https://open.spotify.com/track/6dH0yTwptrQIb6qMLPg1As"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "El Primero",
         "url": "https://open.spotify.com/album/1SXArpME4RyxxFkwgXQM8H"
       },
@@ -319,6 +303,22 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
+        "name": "Wow",
+        "url": "https://open.spotify.com/album/2h85rsLHSwAMdaBJvNnirH"
+      },
+      "artists": [
+        {
+          "name": "Margaritas Podridas",
+          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
+        }
+      ],
+      "duration_ms": 316777,
+      "name": "Wow",
+      "url": "https://open.spotify.com/track/6dH0yTwptrQIb6qMLPg1As"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
         "name": "Ghost In The Machine",
         "url": "https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi"
       },
@@ -331,22 +331,6 @@
       "duration_ms": 204856,
       "name": "Lloro",
       "url": "https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
-        "name": "Especial",
-        "url": "https://open.spotify.com/album/6jTRjT19UMchfrkupOwJ8c"
-      },
-      "artists": [
-        {
-          "name": "sailawway",
-          "url": "https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q"
-        }
-      ],
-      "duration_ms": 242813,
-      "name": "Especial",
-      "url": "https://open.spotify.com/track/01NQwSOqajbHOhRRnHPUWH"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -383,18 +367,18 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Unidad De Desplazamiento",
-        "url": "https://open.spotify.com/album/3CALAHUrBmAtGjVj82x5tz"
+        "name": "Especial",
+        "url": "https://open.spotify.com/album/6jTRjT19UMchfrkupOwJ8c"
       },
       "artists": [
         {
-          "name": "Los Planetas",
-          "url": "https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL"
+          "name": "sailawway",
+          "url": "https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q"
         }
       ],
-      "duration_ms": 279800,
-      "name": "Santos Que Yo Te Pinte",
-      "url": "https://open.spotify.com/track/1L4irrN3TGmOHS65WM1g4W"
+      "duration_ms": 242813,
+      "name": "Especial",
+      "url": "https://open.spotify.com/track/01NQwSOqajbHOhRRnHPUWH"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -431,6 +415,22 @@
       "duration_ms": 183080,
       "name": "Mapas",
       "url": "https://open.spotify.com/track/4KBhtcvm7Rb91wTMIVtZKP"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Unidad De Desplazamiento",
+        "url": "https://open.spotify.com/album/3CALAHUrBmAtGjVj82x5tz"
+      },
+      "artists": [
+        {
+          "name": "Los Planetas",
+          "url": "https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL"
+        }
+      ],
+      "duration_ms": 279800,
+      "name": "Santos Que Yo Te Pinte",
+      "url": "https://open.spotify.com/track/1L4irrN3TGmOHS65WM1g4W"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Tri\u00e1ngulo de Amor Bizarro",
-        "url": "https://open.spotify.com/album/5g6VFGlvYtGIOuIVy4zU8m"
-      },
-      "artists": [
-        {
-          "name": "Tri\u00e1ngulo de Amor Bizarro",
-          "url": "https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e"
-        }
-      ],
-      "duration_ms": 361064,
-      "name": "Fukushima",
-      "url": "https://open.spotify.com/track/1tnyObmkojHC10zaTFV0rT"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "El Tiempo",
         "url": "https://open.spotify.com/album/0tchM8Ti4qw4TU7VjQC5Su"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 267019,
       "name": "Morning Sun",
       "url": "https://open.spotify.com/track/5ObGH4iynfz5WQ8KJAYpbZ"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Tri\u00e1ngulo de Amor Bizarro",
+        "url": "https://open.spotify.com/album/5g6VFGlvYtGIOuIVy4zU8m"
+      },
+      "artists": [
+        {
+          "name": "Tri\u00e1ngulo de Amor Bizarro",
+          "url": "https://open.spotify.com/artist/6A6B4fkbxVlQtNASPk5e2e"
+        }
+      ],
+      "duration_ms": 361064,
+      "name": "Fukushima",
+      "url": "https://open.spotify.com/track/1tnyObmkojHC10zaTFV0rT"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Fuera de Lugar",
-        "url": "https://open.spotify.com/album/1m5YP0jEENVLbhbNJuZCWO"
-      },
-      "artists": [
-        {
-          "name": "Myun\u00e9",
-          "url": "https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT"
-        }
-      ],
-      "duration_ms": 283000,
-      "name": "Boni Nait\u00f3",
-      "url": "https://open.spotify.com/track/3GVI5TbNvYLj70ws5ZPFcW"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "La Carretera",
         "url": "https://open.spotify.com/album/6pCTij28fog7AIWLFsdtko"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 251595,
       "name": "La Carretera",
       "url": "https://open.spotify.com/track/4eSXJnfSowWSP9kefNFiww"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Fuera de Lugar",
+        "url": "https://open.spotify.com/album/1m5YP0jEENVLbhbNJuZCWO"
+      },
+      "artists": [
+        {
+          "name": "Myun\u00e9",
+          "url": "https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT"
+        }
+      ],
+      "duration_ms": 283000,
+      "name": "Boni Nait\u00f3",
+      "url": "https://open.spotify.com/track/3GVI5TbNvYLj70ws5ZPFcW"
     },
     {
       "added_at": "2023-05-05 06:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "\u591c\u306b\u306a\u308b\u4e00\u6b69\u624b\u524d\u306e\u6642\u523b\u306b\u4e00\u77ac\u3067\u3082\u30ea\u30e9\u30c3\u30af\u30b9\u3067\u304d\u308b\u3088\u3046\u306a\u3001\u97f3\u97ff\u7cfb\u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6\u3068\u30af\u30e9\u30b7\u30c3\u30af\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3092\u3002",
-  "num_followers": 48622,
+  "num_followers": 48645,
   "original_name": "\u9759\u5bc2\u3068\u9ec4\u660f",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYmZjNWM5YTFkYzBkZmIxNGU4ODI1MTJlNWYzNjliYTkxMmMwNDI1",
+  "snapshot_id": "MCw2ZGNhZDE0OTI4ZTQxNWI4OTA4YjVlODU2ZGUwYTFhMDQyNmZmZTVj",
   "tracks": [
     {
       "added_at": "2023-07-20 15:00:00",
@@ -767,38 +767,6 @@
     {
       "added_at": "2023-07-20 15:00:00",
       "album": {
-        "name": "piano room",
-        "url": "https://open.spotify.com/album/065gbiFR9Km7J1hQATfXtG"
-      },
-      "artists": [
-        {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
-        }
-      ],
-      "duration_ms": 150833,
-      "name": "Koto - piano room",
-      "url": "https://open.spotify.com/track/48Jivh6jAj87eK6lj3FtUo"
-    },
-    {
-      "added_at": "2023-07-20 15:00:00",
-      "album": {
-        "name": "Folk",
-        "url": "https://open.spotify.com/album/4tN0BiON9BDadZH342DV4e"
-      },
-      "artists": [
-        {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
-        }
-      ],
-      "duration_ms": 203360,
-      "name": "Folk",
-      "url": "https://open.spotify.com/track/19R61PjvSy7OBegMWOu6rF"
-    },
-    {
-      "added_at": "2023-07-20 15:00:00",
-      "album": {
         "name": "Gershwin: Piano Works",
         "url": "https://open.spotify.com/album/4MkPnDnWYJvpJZDo2HhlKU"
       },
@@ -819,22 +787,18 @@
     {
       "added_at": "2023-07-20 15:00:00",
       "album": {
-        "name": "neiro",
-        "url": "https://open.spotify.com/album/6TCmGyhwZAo6A2DuLSsctc"
+        "name": "Folk",
+        "url": "https://open.spotify.com/album/4tN0BiON9BDadZH342DV4e"
       },
       "artists": [
         {
-          "name": "Naoki Kanda",
-          "url": "https://open.spotify.com/artist/6LjDW7YzX2GubNeJR9Yk5b"
-        },
-        {
-          "name": "Yukiharu Ito",
-          "url": "https://open.spotify.com/artist/2eatv5mHMm8Tk8sjnqMT8t"
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
         }
       ],
-      "duration_ms": 197226,
-      "name": "Always You",
-      "url": "https://open.spotify.com/track/4743TsEgme4vHSjWOmH1oi"
+      "duration_ms": 203360,
+      "name": "Folk",
+      "url": "https://open.spotify.com/track/19R61PjvSy7OBegMWOu6rF"
     },
     {
       "added_at": "2023-07-20 15:00:00",
@@ -859,18 +823,22 @@
     {
       "added_at": "2023-07-20 15:00:00",
       "album": {
-        "name": "A journey to recovery",
-        "url": "https://open.spotify.com/album/6irBGY6ICtVY3pSSW7UeU6"
+        "name": "neiro",
+        "url": "https://open.spotify.com/album/6TCmGyhwZAo6A2DuLSsctc"
       },
       "artists": [
         {
-          "name": "ninomiya tatsuki",
-          "url": "https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep"
+          "name": "Naoki Kanda",
+          "url": "https://open.spotify.com/artist/6LjDW7YzX2GubNeJR9Yk5b"
+        },
+        {
+          "name": "Yukiharu Ito",
+          "url": "https://open.spotify.com/artist/2eatv5mHMm8Tk8sjnqMT8t"
         }
       ],
-      "duration_ms": 173167,
-      "name": "stroll",
-      "url": "https://open.spotify.com/track/2OA5j0qpdH9eBnZ98SjbRq"
+      "duration_ms": 197226,
+      "name": "Always You",
+      "url": "https://open.spotify.com/track/4743TsEgme4vHSjWOmH1oi"
     },
     {
       "added_at": "2023-07-20 15:00:00",
@@ -887,6 +855,38 @@
       "duration_ms": 313040,
       "name": "Gold",
       "url": "https://open.spotify.com/track/6RGrfHoY9vHkpkvsyGNCBx"
+    },
+    {
+      "added_at": "2023-07-20 15:00:00",
+      "album": {
+        "name": "A journey to recovery",
+        "url": "https://open.spotify.com/album/6irBGY6ICtVY3pSSW7UeU6"
+      },
+      "artists": [
+        {
+          "name": "ninomiya tatsuki",
+          "url": "https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep"
+        }
+      ],
+      "duration_ms": 173167,
+      "name": "stroll",
+      "url": "https://open.spotify.com/track/2OA5j0qpdH9eBnZ98SjbRq"
+    },
+    {
+      "added_at": "2023-07-20 15:00:00",
+      "album": {
+        "name": "Columbo",
+        "url": "https://open.spotify.com/album/6DW1K4bAZPcJHzCW17pAnP"
+      },
+      "artists": [
+        {
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+        }
+      ],
+      "duration_ms": 213316,
+      "name": "Columbo",
+      "url": "https://open.spotify.com/track/0y26ehF7JqHVHqb2Fik0uG"
     },
     {
       "added_at": "2023-07-20 15:00:00",
@@ -915,18 +915,18 @@
     {
       "added_at": "2023-07-20 15:00:00",
       "album": {
-        "name": "Columbo",
-        "url": "https://open.spotify.com/album/6DW1K4bAZPcJHzCW17pAnP"
+        "name": "Best Day of My Life",
+        "url": "https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw"
       },
       "artists": [
         {
-          "name": "Bruno Major",
-          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 213316,
-      "name": "Columbo",
-      "url": "https://open.spotify.com/track/0y26ehF7JqHVHqb2Fik0uG"
+      "duration_ms": 219020,
+      "name": "Just Another Thing We Don't Talk About",
+      "url": "https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf"
     },
     {
       "added_at": "2023-07-20 15:00:00",
@@ -947,18 +947,18 @@
     {
       "added_at": "2023-07-20 15:00:00",
       "album": {
-        "name": "Best Day of My Life",
-        "url": "https://open.spotify.com/album/1uwRGASmRNUTbd4KD3A6bw"
+        "name": "piano room",
+        "url": "https://open.spotify.com/album/065gbiFR9Km7J1hQATfXtG"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
         }
       ],
-      "duration_ms": 219020,
-      "name": "Just Another Thing We Don't Talk About",
-      "url": "https://open.spotify.com/track/2FjX5cfe8tBV4Qd6ELhUNf"
+      "duration_ms": 150833,
+      "name": "Koto - piano room",
+      "url": "https://open.spotify.com/track/48Jivh6jAj87eK6lj3FtUo"
     },
     {
       "added_at": "2023-07-20 15:00:00",
@@ -975,42 +975,6 @@
       "duration_ms": 356258,
       "name": "\u89d2\u3092\u63a2\u3059\u4eba",
       "url": "https://open.spotify.com/track/78qoF0s9vf9twx2eOijPuq"
-    },
-    {
-      "added_at": "2023-07-20 15:00:00",
-      "album": {
-        "name": "N\u00e9o-Romance",
-        "url": "https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1"
-      },
-      "artists": [
-        {
-          "name": "Alexandra Streliski",
-          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
-        }
-      ],
-      "duration_ms": 190232,
-      "name": "a new romance",
-      "url": "https://open.spotify.com/track/0LGbC0S4fcUIcaEk08Hc8r"
-    },
-    {
-      "added_at": "2023-07-20 15:00:00",
-      "album": {
-        "name": "\u30e2\u30fc\u30c4\u30a1\u30eb\u30c8:\u30d2\u309a\u30a2\u30ce\u30fb\u30bd\u30ca\u30bf\u5168\u96c6",
-        "url": "https://open.spotify.com/album/4r9qv03kgEh1KT0FEBDhyL"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Ikuyo Nakamichi",
-          "url": "https://open.spotify.com/artist/1Ie9ADna4vfkFA5lBfjGyd"
-        }
-      ],
-      "duration_ms": 274466,
-      "name": "\u30d4\u30a2\u30ce\u30fb\u30bd\u30ca\u30bf\u7b2c12\u756a \u30d8\u9577\u8abf K.332(300k) \u7b2c2\u697d\u7ae0 \u30a2\u30c0\u30fc\u30b8\u30e7",
-      "url": "https://open.spotify.com/track/1NszhP8H7EpgbLcV4OtK5A"
     },
     {
       "added_at": "2023-07-20 15:00:00",
@@ -1035,6 +999,42 @@
       "duration_ms": 212000,
       "name": "Sadko: Hindu Song (arr. N. Mercz): Hindu Song from the Opera 'Sadko'",
       "url": "https://open.spotify.com/track/5WpGVggkaT3phJEwrVG3EC"
+    },
+    {
+      "added_at": "2023-07-20 15:00:00",
+      "album": {
+        "name": "\u30e2\u30fc\u30c4\u30a1\u30eb\u30c8:\u30d2\u309a\u30a2\u30ce\u30fb\u30bd\u30ca\u30bf\u5168\u96c6",
+        "url": "https://open.spotify.com/album/4r9qv03kgEh1KT0FEBDhyL"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Ikuyo Nakamichi",
+          "url": "https://open.spotify.com/artist/1Ie9ADna4vfkFA5lBfjGyd"
+        }
+      ],
+      "duration_ms": 274466,
+      "name": "\u30d4\u30a2\u30ce\u30fb\u30bd\u30ca\u30bf\u7b2c12\u756a \u30d8\u9577\u8abf K.332(300k) \u7b2c2\u697d\u7ae0 \u30a2\u30c0\u30fc\u30b8\u30e7",
+      "url": "https://open.spotify.com/track/1NszhP8H7EpgbLcV4OtK5A"
+    },
+    {
+      "added_at": "2023-07-20 15:00:00",
+      "album": {
+        "name": "N\u00e9o-Romance",
+        "url": "https://open.spotify.com/album/0Uv7rvKUVNnEUOBkKyF1Q1"
+      },
+      "artists": [
+        {
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+        }
+      ],
+      "duration_ms": 190232,
+      "name": "a new romance",
+      "url": "https://open.spotify.com/track/0LGbC0S4fcUIcaEk08Hc8r"
     },
     {
       "added_at": "2023-07-20 15:00:00",
@@ -1347,18 +1347,22 @@
     {
       "added_at": "2023-07-20 15:00:00",
       "album": {
-        "name": "I Inside the Old Year Dying",
-        "url": "https://open.spotify.com/album/28VGPTYyQhSBsbn6Yz0DIK"
+        "name": "From Afar",
+        "url": "https://open.spotify.com/album/0WBYzTL6L84FgYGfc3W2Ll"
       },
       "artists": [
         {
-          "name": "PJ Harvey",
-          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "V\u00edkingur \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
         }
       ],
-      "duration_ms": 228333,
-      "name": "Lwonesome Tonight",
-      "url": "https://open.spotify.com/track/0MzUvSZGhN3XiRbYboZKeu"
+      "duration_ms": 297253,
+      "name": "Vesperae solennes de confessore in C Major, K. 339: V. Laudate Dominum omnes gentes (Arr. V\u00edkingur \u00d3lafsson) - Upright Piano",
+      "url": "https://open.spotify.com/track/2EJXYTlMDXkCcGEVRwdFAG"
     },
     {
       "added_at": "2023-07-20 15:00:00",
@@ -1387,22 +1391,18 @@
     {
       "added_at": "2023-07-20 15:00:00",
       "album": {
-        "name": "From Afar",
-        "url": "https://open.spotify.com/album/0WBYzTL6L84FgYGfc3W2Ll"
+        "name": "I Inside the Old Year Dying",
+        "url": "https://open.spotify.com/album/28VGPTYyQhSBsbn6Yz0DIK"
       },
       "artists": [
         {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "V\u00edkingur \u00d3lafsson",
-          "url": "https://open.spotify.com/artist/0iqgjl0OG3z53PZVIB7ZyD"
+          "name": "PJ Harvey",
+          "url": "https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz"
         }
       ],
-      "duration_ms": 297253,
-      "name": "Vesperae solennes de confessore in C Major, K. 339: V. Laudate Dominum omnes gentes (Arr. V\u00edkingur \u00d3lafsson) - Upright Piano",
-      "url": "https://open.spotify.com/track/2EJXYTlMDXkCcGEVRwdFAG"
+      "duration_ms": 228333,
+      "name": "Lwonesome Tonight",
+      "url": "https://open.spotify.com/track/0MzUvSZGhN3XiRbYboZKeu"
     },
     {
       "added_at": "2023-07-20 15:00:00",
@@ -1707,22 +1707,18 @@
     {
       "added_at": "2023-07-20 15:00:00",
       "album": {
-        "name": "Cloud9",
-        "url": "https://open.spotify.com/album/5if4TAmZGtsuUpyIqRludq"
+        "name": "Stereo Mind Game",
+        "url": "https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf"
       },
       "artists": [
         {
-          "name": "edbl",
-          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
-        },
-        {
-          "name": "JPRK",
-          "url": "https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH"
+          "name": "Daughter",
+          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
         }
       ],
-      "duration_ms": 126730,
-      "name": "Cloud9",
-      "url": "https://open.spotify.com/track/1guVDJWyU2q5BGIaos8jZ2"
+      "duration_ms": 285839,
+      "name": "To Rage",
+      "url": "https://open.spotify.com/track/3yYPoZq0fsQ6d5iLvraz72"
     },
     {
       "added_at": "2023-07-20 15:00:00",
@@ -1743,18 +1739,22 @@
     {
       "added_at": "2023-07-20 15:00:00",
       "album": {
-        "name": "Stereo Mind Game",
-        "url": "https://open.spotify.com/album/6xzsQpZtlqLFxmO1GeM7Cf"
+        "name": "Cloud9",
+        "url": "https://open.spotify.com/album/5if4TAmZGtsuUpyIqRludq"
       },
       "artists": [
         {
-          "name": "Daughter",
-          "url": "https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me"
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        },
+        {
+          "name": "JPRK",
+          "url": "https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH"
         }
       ],
-      "duration_ms": 285839,
-      "name": "To Rage",
-      "url": "https://open.spotify.com/track/3yYPoZq0fsQ6d5iLvraz72"
+      "duration_ms": 126730,
+      "name": "Cloud9",
+      "url": "https://open.spotify.com/track/1guVDJWyU2q5BGIaos8jZ2"
     },
     {
       "added_at": "2023-07-20 15:00:00",

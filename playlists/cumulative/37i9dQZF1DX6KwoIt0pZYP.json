@@ -8512,10 +8512,28 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 208665,
       "name": "running away from whatever you call paradise",
       "url": "https://open.spotify.com/track/60rBSYpVF3uPhWsO45a0GW"
+    },
+    {
+      "album": {
+        "name": "whatever works",
+        "url": "https://open.spotify.com/album/6gEyHGNecWqivhWhMn7fFj"
+      },
+      "artists": [
+        {
+          "name": "a kid named rufus",
+          "url": "https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208665,
+      "name": "running away from whatever you call paradise",
+      "url": "https://open.spotify.com/track/6letrIiNyYIxpQZnbs8e3j"
     },
     {
       "album": {

@@ -1,51 +1,15 @@
 {
-  "description": "Trending Sinhalese pop hits. Cover - DILU Beats",
-  "num_followers": 26346,
+  "description": "Trending Sinhalese pop hits. Cover -  Anushka Udana",
+  "num_followers": 26384,
   "original_name": "Sinhala Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Mzg3ZTMxYTE0OTdmZGVmYTQxMjBmODAzNWIwMTAxNmJhM2FjZTcw",
+  "snapshot_id": "MCwyM2JhZTZjMTkzY2Y2ZjIxZjA4MjMxY2U0OTYyYjQwNjkzMjQxYWY5",
   "tracks": [
     {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Numba Ha",
-        "url": "https://open.spotify.com/album/2UpdfQtZJ1YwrgHmvVArcx"
-      },
-      "artists": [
-        {
-          "name": "DILU Beats",
-          "url": "https://open.spotify.com/artist/01O8OueZDiqUJjOu7XPb4t"
-        }
-      ],
-      "duration_ms": 163446,
-      "name": "Numba Ha",
-      "url": "https://open.spotify.com/track/5W6S1EYj5hH2PK5ro6sv5Z"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Kaari Na Sanda",
-        "url": "https://open.spotify.com/album/6rydb4HGEQg65cwZQslYTQ"
-      },
-      "artists": [
-        {
-          "name": "Methun SK",
-          "url": "https://open.spotify.com/artist/321A10RJQEZo2P1nLnS84x"
-        },
-        {
-          "name": "Wayanaka Perera",
-          "url": "https://open.spotify.com/artist/6u7ZJYEiPjmuDq0xU351UX"
-        }
-      ],
-      "duration_ms": 181282,
-      "name": "Kaari Na Sanda",
-      "url": "https://open.spotify.com/track/4qAIsr12Op1MTkHX0FJe37"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
+      "added_at": "2023-07-24 11:29:15",
       "album": {
         "name": "Mandaaram Kathawe",
         "url": "https://open.spotify.com/album/1dRosK2zVDLdWIr4TmmAbI"
@@ -73,7 +37,43 @@
       "url": "https://open.spotify.com/track/0HPgrZPFOHxobYLHxLneoj"
     },
     {
-      "added_at": "2023-07-05 07:42:06",
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Kaari Na Sanda",
+        "url": "https://open.spotify.com/album/6rydb4HGEQg65cwZQslYTQ"
+      },
+      "artists": [
+        {
+          "name": "Methun SK",
+          "url": "https://open.spotify.com/artist/321A10RJQEZo2P1nLnS84x"
+        },
+        {
+          "name": "Wayanaka Perera",
+          "url": "https://open.spotify.com/artist/6u7ZJYEiPjmuDq0xU351UX"
+        }
+      ],
+      "duration_ms": 181282,
+      "name": "Kaari Na Sanda",
+      "url": "https://open.spotify.com/track/4qAIsr12Op1MTkHX0FJe37"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Numba Ha",
+        "url": "https://open.spotify.com/album/2UpdfQtZJ1YwrgHmvVArcx"
+      },
+      "artists": [
+        {
+          "name": "DILU Beats",
+          "url": "https://open.spotify.com/artist/01O8OueZDiqUJjOu7XPb4t"
+        }
+      ],
+      "duration_ms": 163446,
+      "name": "Numba Ha",
+      "url": "https://open.spotify.com/track/5W6S1EYj5hH2PK5ro6sv5Z"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
       "album": {
         "name": "Mulawe",
         "url": "https://open.spotify.com/album/4MMgRRBqvX28YQt00pENmc"
@@ -89,7 +89,119 @@
       "url": "https://open.spotify.com/track/5uD17gOSGsnFgaqe9xFwX7"
     },
     {
-      "added_at": "2023-07-05 07:42:06",
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/2jQHW7TwPc83Ux3LeM1w25"
+      },
+      "artists": [
+        {
+          "name": "La Signore",
+          "url": "https://open.spotify.com/artist/3wRgCqDCo0rwgjvCEPoDMP"
+        }
+      ],
+      "duration_ms": 173696,
+      "name": "Dekopul Kandulin Thema",
+      "url": "https://open.spotify.com/track/5q95k2ht4oE5rJSUTGyKU3"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Galana Ganga",
+        "url": "https://open.spotify.com/album/6x891Q8N2GwGaSsPbQmBJT"
+      },
+      "artists": [
+        {
+          "name": "Charitha Attalage",
+          "url": "https://open.spotify.com/artist/65U1qIqriL4ZawzjoMX1QP"
+        },
+        {
+          "name": "Ravi Jay",
+          "url": "https://open.spotify.com/artist/2OXLUIzYqgydsWcHh38LJ2"
+        }
+      ],
+      "duration_ms": 177187,
+      "name": "Galana Ganga",
+      "url": "https://open.spotify.com/track/7apMJLpmlv90I67HMSJGbr"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Manali",
+        "url": "https://open.spotify.com/album/1jUBdlcy1UFW7IHIfTSMr7"
+      },
+      "artists": [
+        {
+          "name": "Yuki Navaratne",
+          "url": "https://open.spotify.com/artist/00ZpGGB5F7Ytw781Qsr1sR"
+        },
+        {
+          "name": "Ravi Jay",
+          "url": "https://open.spotify.com/artist/2OXLUIzYqgydsWcHh38LJ2"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "Manali",
+      "url": "https://open.spotify.com/track/7cg3ddKVkg4benueRkqtYr"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "DIAS",
+        "url": "https://open.spotify.com/album/1SmwEglEo2GiwE7MAnkOlP"
+      },
+      "artists": [
+        {
+          "name": "FREEZE",
+          "url": "https://open.spotify.com/artist/2T6JxFkkrJsZY4TCHmm7Hb"
+        }
+      ],
+      "duration_ms": 196330,
+      "name": "DIAS",
+      "url": "https://open.spotify.com/track/627U5dQ8rInhEXLm5UWXIY"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Ru Ra",
+        "url": "https://open.spotify.com/album/1CID5j3JO9XK7U0FaOdnBn"
+      },
+      "artists": [
+        {
+          "name": "Sanjula himala",
+          "url": "https://open.spotify.com/artist/7yn5qtJ1n0HkQh0K2LQLWr"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Ru Ra",
+      "url": "https://open.spotify.com/track/0TxZCH6wo1JFnoZBn8Nbl1"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Mala Kada Kada",
+        "url": "https://open.spotify.com/album/25G5AEF45z7ZORY7e1CvmW"
+      },
+      "artists": [
+        {
+          "name": "Dinesh Gamage",
+          "url": "https://open.spotify.com/artist/6c4RrYCE1gOHAGZPJRmG2o"
+        },
+        {
+          "name": "Yasas Medagedara",
+          "url": "https://open.spotify.com/artist/7ztQG7rQkPNasrhffZTqY9"
+        },
+        {
+          "name": "Kaizer Kaiz",
+          "url": "https://open.spotify.com/artist/79GTGDgSIN8i5DAngINh7k"
+        }
+      ],
+      "duration_ms": 194897,
+      "name": "Mala Kada Kada",
+      "url": "https://open.spotify.com/track/5WPeMdupVP00VnQ2ecVfPj"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
       "album": {
         "name": "Naden",
         "url": "https://open.spotify.com/album/0zADfkyzT1osNAGFhd5OVw"
@@ -113,79 +225,7 @@
       "url": "https://open.spotify.com/track/0FSk1OsGWoTCS8lA74x5lF"
     },
     {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Manali",
-        "url": "https://open.spotify.com/album/1jUBdlcy1UFW7IHIfTSMr7"
-      },
-      "artists": [
-        {
-          "name": "Yuki Navaratne",
-          "url": "https://open.spotify.com/artist/00ZpGGB5F7Ytw781Qsr1sR"
-        },
-        {
-          "name": "Ravi Jay",
-          "url": "https://open.spotify.com/artist/2OXLUIzYqgydsWcHh38LJ2"
-        }
-      ],
-      "duration_ms": 167142,
-      "name": "Manali",
-      "url": "https://open.spotify.com/track/7cg3ddKVkg4benueRkqtYr"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Galana Ganga",
-        "url": "https://open.spotify.com/album/6x891Q8N2GwGaSsPbQmBJT"
-      },
-      "artists": [
-        {
-          "name": "Charitha Attalage",
-          "url": "https://open.spotify.com/artist/65U1qIqriL4ZawzjoMX1QP"
-        },
-        {
-          "name": "Ravi Jay",
-          "url": "https://open.spotify.com/artist/2OXLUIzYqgydsWcHh38LJ2"
-        }
-      ],
-      "duration_ms": 177187,
-      "name": "Galana Ganga",
-      "url": "https://open.spotify.com/track/7apMJLpmlv90I67HMSJGbr"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/2jQHW7TwPc83Ux3LeM1w25"
-      },
-      "artists": [
-        {
-          "name": "La Signore",
-          "url": "https://open.spotify.com/artist/3wRgCqDCo0rwgjvCEPoDMP"
-        }
-      ],
-      "duration_ms": 173696,
-      "name": "Dekopul Kandulin Thema",
-      "url": "https://open.spotify.com/track/5q95k2ht4oE5rJSUTGyKU3"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Ru Ra",
-        "url": "https://open.spotify.com/album/1CID5j3JO9XK7U0FaOdnBn"
-      },
-      "artists": [
-        {
-          "name": "Sanjula himala",
-          "url": "https://open.spotify.com/artist/7yn5qtJ1n0HkQh0K2LQLWr"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Ru Ra",
-      "url": "https://open.spotify.com/track/0TxZCH6wo1JFnoZBn8Nbl1"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
+      "added_at": "2023-07-24 11:29:15",
       "album": {
         "name": "Mal Onchilla",
         "url": "https://open.spotify.com/album/67zFApoGwQ250TbCqGg3aQ"
@@ -201,55 +241,7 @@
       "url": "https://open.spotify.com/track/1kQzWYUZnqQJm3H43eDNXd"
     },
     {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Manabandu Karanawak",
-        "url": "https://open.spotify.com/album/5sJnrVN5bVRlPa3Vmhug7P"
-      },
-      "artists": [
-        {
-          "name": "Yuki Navaratne",
-          "url": "https://open.spotify.com/artist/00ZpGGB5F7Ytw781Qsr1sR"
-        }
-      ],
-      "duration_ms": 177645,
-      "name": "Manabandu Karanawak",
-      "url": "https://open.spotify.com/track/7ha2TzmkgClpKKiLD2WJG8"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Viramayak",
-        "url": "https://open.spotify.com/album/4Q9uelQARIr02onE5thyaP"
-      },
-      "artists": [
-        {
-          "name": "Bhashi Devanga",
-          "url": "https://open.spotify.com/artist/08cTJNoDTsbYbZ1YwSpz2y"
-        }
-      ],
-      "duration_ms": 222933,
-      "name": "Viramayak",
-      "url": "https://open.spotify.com/track/2KAIdNfyUQEUF6CrilVWac"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Dawasak Ewi",
-        "url": "https://open.spotify.com/album/4TzVvOLGixhBhVC4vt05ks"
-      },
-      "artists": [
-        {
-          "name": "Piyath Rajapakse",
-          "url": "https://open.spotify.com/artist/2p59mmRUY5z4P2GGYd8a9a"
-        }
-      ],
-      "duration_ms": 195999,
-      "name": "Dawasak Ewi",
-      "url": "https://open.spotify.com/track/4LbnwSS3UQ6syG4ZIUFFXD"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
+      "added_at": "2023-07-24 11:29:15",
       "album": {
         "name": "H\u00e4ma Heenema",
         "url": "https://open.spotify.com/album/0Ejcme3r4lRYzZJU3xArS5"
@@ -265,7 +257,87 @@
       "url": "https://open.spotify.com/track/5OM14r0sz2gYucEKq2BiRe"
     },
     {
-      "added_at": "2023-07-05 07:42:06",
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Viramayak",
+        "url": "https://open.spotify.com/album/4Q9uelQARIr02onE5thyaP"
+      },
+      "artists": [
+        {
+          "name": "Bhashi Devanga",
+          "url": "https://open.spotify.com/artist/08cTJNoDTsbYbZ1YwSpz2y"
+        }
+      ],
+      "duration_ms": 222933,
+      "name": "Viramayak",
+      "url": "https://open.spotify.com/track/2KAIdNfyUQEUF6CrilVWac"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Pandama",
+        "url": "https://open.spotify.com/album/2jTzaIGhYlWkS3bQjxNMan"
+      },
+      "artists": [
+        {
+          "name": "Dhanith Sri",
+          "url": "https://open.spotify.com/artist/25JFNpUo9kGJwGwMPUDBRs"
+        }
+      ],
+      "duration_ms": 185916,
+      "name": "Pandama",
+      "url": "https://open.spotify.com/track/4tCZJuBi83jzxwdo8TskUa"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Dawasak Ewi",
+        "url": "https://open.spotify.com/album/4TzVvOLGixhBhVC4vt05ks"
+      },
+      "artists": [
+        {
+          "name": "Piyath Rajapakse",
+          "url": "https://open.spotify.com/artist/2p59mmRUY5z4P2GGYd8a9a"
+        }
+      ],
+      "duration_ms": 195999,
+      "name": "Dawasak Ewi",
+      "url": "https://open.spotify.com/track/4LbnwSS3UQ6syG4ZIUFFXD"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Manabandu Karanawak",
+        "url": "https://open.spotify.com/album/5sJnrVN5bVRlPa3Vmhug7P"
+      },
+      "artists": [
+        {
+          "name": "Yuki Navaratne",
+          "url": "https://open.spotify.com/artist/00ZpGGB5F7Ytw781Qsr1sR"
+        }
+      ],
+      "duration_ms": 177645,
+      "name": "Manabandu Karanawak",
+      "url": "https://open.spotify.com/track/7ha2TzmkgClpKKiLD2WJG8"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Sansarini",
+        "url": "https://open.spotify.com/album/6gI0AFK6lYIS2pRzwTMZf9"
+      },
+      "artists": [
+        {
+          "name": "Yasas Medagedara",
+          "url": "https://open.spotify.com/artist/7ztQG7rQkPNasrhffZTqY9"
+        }
+      ],
+      "duration_ms": 305526,
+      "name": "Sansarini",
+      "url": "https://open.spotify.com/track/7iSpuul3P4BzaxFPVFFRkr"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
       "album": {
         "name": "Datha Dara",
         "url": "https://open.spotify.com/album/5ACrismOfjk5EW5n9oz4t6"
@@ -305,95 +377,23 @@
       "url": "https://open.spotify.com/track/7Dl4H08P6ZsuQnN3rl3X5Q"
     },
     {
-      "added_at": "2023-07-05 07:42:06",
+      "added_at": "2023-07-24 11:29:15",
       "album": {
-        "name": "Hawasaka Ma",
-        "url": "https://open.spotify.com/album/4eEoUBODtF68bzZl3OgmGZ"
+        "name": "Kailashini",
+        "url": "https://open.spotify.com/album/2NmNUhh84QmvY0WCy6pbRP"
       },
       "artists": [
         {
-          "name": "La Signore",
-          "url": "https://open.spotify.com/artist/3wRgCqDCo0rwgjvCEPoDMP"
+          "name": "Eranga Abeygunasekara",
+          "url": "https://open.spotify.com/artist/2uVK6f58StKQjs7ZPlkZnM"
         }
       ],
-      "duration_ms": 184760,
-      "name": "Hawasaka Ma",
-      "url": "https://open.spotify.com/track/6pnC2gyFfl7uDRcjpsWp6l"
+      "duration_ms": 247000,
+      "name": "Kailashini",
+      "url": "https://open.spotify.com/track/4nwcEh4AXxcCHsREJybyic"
     },
     {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Sansarini",
-        "url": "https://open.spotify.com/album/6gI0AFK6lYIS2pRzwTMZf9"
-      },
-      "artists": [
-        {
-          "name": "Yasas Medagedara",
-          "url": "https://open.spotify.com/artist/7ztQG7rQkPNasrhffZTqY9"
-        }
-      ],
-      "duration_ms": 305526,
-      "name": "Sansarini",
-      "url": "https://open.spotify.com/track/7iSpuul3P4BzaxFPVFFRkr"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Ayemath Adaren",
-        "url": "https://open.spotify.com/album/0VRegvF3mP3k0Blm3oD1HB"
-      },
-      "artists": [
-        {
-          "name": "Thilina Ruhunage",
-          "url": "https://open.spotify.com/artist/3uxggUmuI6OX5tcW12y7cn"
-        },
-        {
-          "name": "Athma Liyanage",
-          "url": "https://open.spotify.com/artist/5VCJFF8MGzfQI7EjbuV1nX"
-        }
-      ],
-      "duration_ms": 237290,
-      "name": "Ayemath Adaren",
-      "url": "https://open.spotify.com/track/5AFdPg3PlQGncQLq0z1AWM"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Me Hitha Na Palu",
-        "url": "https://open.spotify.com/album/18pO3n4X5utq5x0O0wl06l"
-      },
-      "artists": [
-        {
-          "name": "Dhyan Hewage",
-          "url": "https://open.spotify.com/artist/3ES7kGNf8O344XSDG3kW8G"
-        },
-        {
-          "name": "Yuki Navaratne",
-          "url": "https://open.spotify.com/artist/00ZpGGB5F7Ytw781Qsr1sR"
-        }
-      ],
-      "duration_ms": 188936,
-      "name": "Me Hitha Na Palu",
-      "url": "https://open.spotify.com/track/1r5X6i6U11nStErNNd0opg"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Mandaram Eli",
-        "url": "https://open.spotify.com/album/7DH1ArjMLHLpfysdHLtDtx"
-      },
-      "artists": [
-        {
-          "name": "Bhashi Devanga",
-          "url": "https://open.spotify.com/artist/08cTJNoDTsbYbZ1YwSpz2y"
-        }
-      ],
-      "duration_ms": 200053,
-      "name": "Mandaram Eli",
-      "url": "https://open.spotify.com/track/2US9BVE4YN1Werb6WEc34o"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
+      "added_at": "2023-07-24 11:29:15",
       "album": {
         "name": "Sanda Mithuri",
         "url": "https://open.spotify.com/album/07l4FWkt6dT4eQm0mmza3F"
@@ -413,103 +413,23 @@
       "url": "https://open.spotify.com/track/6eZ4DLBjBKZbjhnwuOghfZ"
     },
     {
-      "added_at": "2023-07-05 07:42:06",
+      "added_at": "2023-07-24 11:29:15",
       "album": {
-        "name": "Dura Akahe",
-        "url": "https://open.spotify.com/album/6UkkSB8EJzR88alvG0eAuz"
+        "name": "Thamarasa",
+        "url": "https://open.spotify.com/album/1N96g0SkTQmZ9GpK5sM1F6"
       },
       "artists": [
         {
-          "name": "Charitha Attalage",
-          "url": "https://open.spotify.com/artist/65U1qIqriL4ZawzjoMX1QP"
-        },
-        {
-          "name": "Ravi Jay",
-          "url": "https://open.spotify.com/artist/2OXLUIzYqgydsWcHh38LJ2"
+          "name": "Dinesh Gamage",
+          "url": "https://open.spotify.com/artist/6c4RrYCE1gOHAGZPJRmG2o"
         }
       ],
-      "duration_ms": 250090,
-      "name": "Dura Akahe",
-      "url": "https://open.spotify.com/track/6l6ponf8TLRkam1BWG3Vxq"
+      "duration_ms": 190654,
+      "name": "Thamarasa",
+      "url": "https://open.spotify.com/track/04zcTEJlcrynVJIWWl01Bn"
     },
     {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Allan Yanna Bari Athak",
-        "url": "https://open.spotify.com/album/3HutgQn9ksIXiL9j5J0D3m"
-      },
-      "artists": [
-        {
-          "name": "Sudeera Dilshan",
-          "url": "https://open.spotify.com/artist/7gHkPTRQJ2DBMAqSvEgvzx"
-        }
-      ],
-      "duration_ms": 193375,
-      "name": "Allan Yanna Bari Athak",
-      "url": "https://open.spotify.com/track/3oCRnqSDze1igc7Vnovc5C"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Nira (From \"Takkar\")",
-        "url": "https://open.spotify.com/album/6CulSk0k3tb1La8QAagSj1"
-      },
-      "artists": [
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        },
-        {
-          "name": "Gautham Vasudev Menon",
-          "url": "https://open.spotify.com/artist/2Fl0BwBH1KNwkrinajN5dI"
-        },
-        {
-          "name": "Malvi Sundaresan",
-          "url": "https://open.spotify.com/artist/0kuJvSWvqLidbIjQaJh8DA"
-        },
-        {
-          "name": "Nivas K Prasanna",
-          "url": "https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp"
-        }
-      ],
-      "duration_ms": 304772,
-      "name": "Nira - From \"Takkar\"",
-      "url": "https://open.spotify.com/track/1VxCdnd46iCgHP5zXGCXPe"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Kailashini",
-        "url": "https://open.spotify.com/album/2NmNUhh84QmvY0WCy6pbRP"
-      },
-      "artists": [
-        {
-          "name": "Eranga Abeygunasekara",
-          "url": "https://open.spotify.com/artist/2uVK6f58StKQjs7ZPlkZnM"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "Kailashini",
-      "url": "https://open.spotify.com/track/4nwcEh4AXxcCHsREJybyic"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Aaley Mal",
-        "url": "https://open.spotify.com/album/6ylzj3RX29c94AFlPMncD2"
-      },
-      "artists": [
-        {
-          "name": "Kanchana Anuradhi",
-          "url": "https://open.spotify.com/artist/5FvRanU1qnYzZQ5BpIfU9u"
-        }
-      ],
-      "duration_ms": 191388,
-      "name": "Aaley Mal",
-      "url": "https://open.spotify.com/track/50glmmttAW6MTnx9iQHQKj"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
+      "added_at": "2023-07-24 11:29:15",
       "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/2jQHW7TwPc83Ux3LeM1w25"
@@ -525,27 +445,27 @@
       "url": "https://open.spotify.com/track/7ft5a2Qp16zOS9F6mIIkeG"
     },
     {
-      "added_at": "2023-07-05 07:42:06",
+      "added_at": "2023-07-24 11:29:15",
       "album": {
-        "name": "Ridma Weerawardena",
-        "url": "https://open.spotify.com/album/4D1eJLNw9dTUcB1pYDK3mt"
+        "name": "Ayemath Adaren",
+        "url": "https://open.spotify.com/album/0VRegvF3mP3k0Blm3oD1HB"
       },
       "artists": [
         {
-          "name": "Ridma Weerawardena",
-          "url": "https://open.spotify.com/artist/03lEcjt6I9zmO8g0tJi4zT"
+          "name": "Thilina Ruhunage",
+          "url": "https://open.spotify.com/artist/3uxggUmuI6OX5tcW12y7cn"
         },
         {
-          "name": "Charitha Attalage",
-          "url": "https://open.spotify.com/artist/65U1qIqriL4ZawzjoMX1QP"
+          "name": "Athma Liyanage",
+          "url": "https://open.spotify.com/artist/5VCJFF8MGzfQI7EjbuV1nX"
         }
       ],
-      "duration_ms": 230000,
-      "name": "Kuweni",
-      "url": "https://open.spotify.com/track/6V9CHG6y1FmHiLv3REsCy8"
+      "duration_ms": 237290,
+      "name": "Ayemath Adaren",
+      "url": "https://open.spotify.com/track/5AFdPg3PlQGncQLq0z1AWM"
     },
     {
-      "added_at": "2023-07-05 07:42:06",
+      "added_at": "2023-07-24 11:29:15",
       "album": {
         "name": "Handa Allanna Aasa Gamana",
         "url": "https://open.spotify.com/album/3BBXDK9dx0RMpee4wZWCix"
@@ -561,7 +481,119 @@
       "url": "https://open.spotify.com/track/1udodaXTGGnQjajZl8LBD1"
     },
     {
-      "added_at": "2023-07-05 07:42:06",
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Adarei Uthuranna",
+        "url": "https://open.spotify.com/album/78ayrcPhbdqKsYe4kA0R3K"
+      },
+      "artists": [
+        {
+          "name": "Gangadara",
+          "url": "https://open.spotify.com/artist/0LgNWOFOH2xGYD0MOdNZVw"
+        }
+      ],
+      "duration_ms": 66760,
+      "name": "Adarei Uthuranna",
+      "url": "https://open.spotify.com/track/6oKf9ytZVyfsbheiHHTMn1"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Sanasennam Ma",
+        "url": "https://open.spotify.com/album/4Ir17vtrjwfYKVZNktjqcp"
+      },
+      "artists": [
+        {
+          "name": "Senaka Batagoda",
+          "url": "https://open.spotify.com/artist/6ydHFgQbtjfJ41qxQFhXwe"
+        }
+      ],
+      "duration_ms": 209528,
+      "name": "Sanasennam Ma",
+      "url": "https://open.spotify.com/track/6C2gXRUgmB6FUqdlUMTITM"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Hinahenne Mung",
+        "url": "https://open.spotify.com/album/0boxtVsTzHrAIqzx368Eyy"
+      },
+      "artists": [
+        {
+          "name": "Ranidu",
+          "url": "https://open.spotify.com/artist/29A2v7wxGk7GK0EmRKgrOW"
+        }
+      ],
+      "duration_ms": 238720,
+      "name": "Hinahenne mung (Nil Nayaniye)",
+      "url": "https://open.spotify.com/track/1zCGWOEgZR3gNcTQ9aRvw3"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Aaley Mal",
+        "url": "https://open.spotify.com/album/6ylzj3RX29c94AFlPMncD2"
+      },
+      "artists": [
+        {
+          "name": "Kanchana Anuradhi",
+          "url": "https://open.spotify.com/artist/5FvRanU1qnYzZQ5BpIfU9u"
+        }
+      ],
+      "duration_ms": 191388,
+      "name": "Aaley Mal",
+      "url": "https://open.spotify.com/track/50glmmttAW6MTnx9iQHQKj"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Ehema Dewal Na Hithe Mage",
+        "url": "https://open.spotify.com/album/3TlhwlfRSKYcSsjjCrZbEa"
+      },
+      "artists": [
+        {
+          "name": "Dhanith Sri",
+          "url": "https://open.spotify.com/artist/25JFNpUo9kGJwGwMPUDBRs"
+        }
+      ],
+      "duration_ms": 228006,
+      "name": "Ehema Dewal Na Hithe Mage",
+      "url": "https://open.spotify.com/track/41hu3Fe8KT4Ew0ZLkqDGPg"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Man Italiye Thani Una",
+        "url": "https://open.spotify.com/album/0BlrxPb7Nj8QXk56qIxLl6"
+      },
+      "artists": [
+        {
+          "name": "Gayan Udawatta",
+          "url": "https://open.spotify.com/artist/6nqL4Zw9dlneJn4CDNKPhI"
+        }
+      ],
+      "duration_ms": 256250,
+      "name": "Man Italiye Thani Una",
+      "url": "https://open.spotify.com/track/11oGbpKNMqMWAStXluVPpn"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Ranwan Maldam",
+        "url": "https://open.spotify.com/album/2L581ffA4tmnrkSW3AmA3l"
+      },
+      "artists": [
+        {
+          "name": "Centigradz",
+          "url": "https://open.spotify.com/artist/0gKH2HLKS4gR21CozdoPse"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Ranwan Maldam",
+      "url": "https://open.spotify.com/track/1bzsi0xA8MxBZICdtB23pO"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
       "album": {
         "name": "Danena Thuru Maa",
         "url": "https://open.spotify.com/album/0V3JnYuxmhAWEkNniY2lii"
@@ -589,7 +621,27 @@
       "url": "https://open.spotify.com/track/0HSAlDJA3C54woJgIUPice"
     },
     {
-      "added_at": "2023-07-05 07:42:06",
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Windimi Adare",
+        "url": "https://open.spotify.com/album/0Ib8tYe9rUZciU7vkuCuyw"
+      },
+      "artists": [
+        {
+          "name": "Dinesh Gamage",
+          "url": "https://open.spotify.com/artist/6c4RrYCE1gOHAGZPJRmG2o"
+        },
+        {
+          "name": "Amith Guru",
+          "url": "https://open.spotify.com/artist/7n7yFD0oaBaphaVWZpfbbT"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Windimi Adare",
+      "url": "https://open.spotify.com/track/0Y56B9kMMqtzAKU8RTORuy"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
       "album": {
         "name": "Prathihari",
         "url": "https://open.spotify.com/album/10e9nMnlID8P2XOY7PY0yk"
@@ -605,27 +657,7 @@
       "url": "https://open.spotify.com/track/0p4R29GP0b3qj955AXqJsS"
     },
     {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Hade Upan Lande",
-        "url": "https://open.spotify.com/album/3vcRlZNbQZRq9IhyiD0lDf"
-      },
-      "artists": [
-        {
-          "name": "Dinusha Chathuranga",
-          "url": "https://open.spotify.com/artist/4S9CK2n2WypliMLphh4GYB"
-        },
-        {
-          "name": "Skay Jay",
-          "url": "https://open.spotify.com/artist/11X1A3y1BjzxrsATn8OYod"
-        }
-      ],
-      "duration_ms": 182692,
-      "name": "Hade Upan Lande",
-      "url": "https://open.spotify.com/track/38cgta810Jq6DQbPK1q0nU"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
+      "added_at": "2023-07-24 11:29:15",
       "album": {
         "name": "Sandaganawa",
         "url": "https://open.spotify.com/album/0nP20eooA9ifW0qNcaDAaS"
@@ -641,27 +673,95 @@
       "url": "https://open.spotify.com/track/6u9Gj1nB4YXGARh1DedClj"
     },
     {
-      "added_at": "2023-07-05 07:42:06",
+      "added_at": "2023-07-24 11:29:15",
       "album": {
-        "name": "Senkadagala Nuwarata",
-        "url": "https://open.spotify.com/album/6fBrvPKAqaOupeGTiDNLqI"
+        "name": "Hawasaka Ma",
+        "url": "https://open.spotify.com/album/4eEoUBODtF68bzZl3OgmGZ"
       },
       "artists": [
         {
-          "name": "Dinesh Gamage",
-          "url": "https://open.spotify.com/artist/6c4RrYCE1gOHAGZPJRmG2o"
-        },
-        {
-          "name": "Manuranga Wijesekara",
-          "url": "https://open.spotify.com/artist/5TQ1Cdq1qkEVgmU0En5vxw"
+          "name": "La Signore",
+          "url": "https://open.spotify.com/artist/3wRgCqDCo0rwgjvCEPoDMP"
         }
       ],
-      "duration_ms": 235822,
-      "name": "Senkadagala Nuwarata",
-      "url": "https://open.spotify.com/track/31F6ey8UEapbPbXj8ihGzR"
+      "duration_ms": 184760,
+      "name": "Hawasaka Ma",
+      "url": "https://open.spotify.com/track/6pnC2gyFfl7uDRcjpsWp6l"
     },
     {
-      "added_at": "2023-07-05 07:42:06",
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Ridma Weerawardena",
+        "url": "https://open.spotify.com/album/4D1eJLNw9dTUcB1pYDK3mt"
+      },
+      "artists": [
+        {
+          "name": "Ridma Weerawardena",
+          "url": "https://open.spotify.com/artist/03lEcjt6I9zmO8g0tJi4zT"
+        },
+        {
+          "name": "Charitha Attalage",
+          "url": "https://open.spotify.com/artist/65U1qIqriL4ZawzjoMX1QP"
+        }
+      ],
+      "duration_ms": 273062,
+      "name": "Sansaraye Maa",
+      "url": "https://open.spotify.com/track/0JvXCpykHHvvK53XQZd3Tv"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Mandaram Eli",
+        "url": "https://open.spotify.com/album/7DH1ArjMLHLpfysdHLtDtx"
+      },
+      "artists": [
+        {
+          "name": "Bhashi Devanga",
+          "url": "https://open.spotify.com/artist/08cTJNoDTsbYbZ1YwSpz2y"
+        }
+      ],
+      "duration_ms": 200053,
+      "name": "Mandaram Eli",
+      "url": "https://open.spotify.com/track/2US9BVE4YN1Werb6WEc34o"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Mohini",
+        "url": "https://open.spotify.com/album/773CcSlELfchY80wB0smkb"
+      },
+      "artists": [
+        {
+          "name": "SANUKA",
+          "url": "https://open.spotify.com/artist/6FD5oL7fAbrg43q0bcbWhe"
+        }
+      ],
+      "duration_ms": 241052,
+      "name": "Mohini",
+      "url": "https://open.spotify.com/track/4UlPkYWzyo3Z8nHuoyj5LP"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Dura Akahe",
+        "url": "https://open.spotify.com/album/6UkkSB8EJzR88alvG0eAuz"
+      },
+      "artists": [
+        {
+          "name": "Charitha Attalage",
+          "url": "https://open.spotify.com/artist/65U1qIqriL4ZawzjoMX1QP"
+        },
+        {
+          "name": "Ravi Jay",
+          "url": "https://open.spotify.com/artist/2OXLUIzYqgydsWcHh38LJ2"
+        }
+      ],
+      "duration_ms": 250090,
+      "name": "Dura Akahe",
+      "url": "https://open.spotify.com/track/6l6ponf8TLRkam1BWG3Vxq"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
       "album": {
         "name": "Radical Premaya",
         "url": "https://open.spotify.com/album/16StplF90fnFPHGlt0BHEZ"
@@ -693,7 +793,59 @@
       "url": "https://open.spotify.com/track/3soObrLZGSt1oFCb9plfcO"
     },
     {
-      "added_at": "2023-07-05 07:42:06",
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Wasanthe",
+        "url": "https://open.spotify.com/album/4TAHhmCJTbWqtgPkvLAd4g"
+      },
+      "artists": [
+        {
+          "name": "Yuki Navaratne",
+          "url": "https://open.spotify.com/artist/00ZpGGB5F7Ytw781Qsr1sR"
+        },
+        {
+          "name": "Ravi Jay",
+          "url": "https://open.spotify.com/artist/2OXLUIzYqgydsWcHh38LJ2"
+        }
+      ],
+      "duration_ms": 172173,
+      "name": "Wasanthe",
+      "url": "https://open.spotify.com/track/1xJJFVjfjYkqdbR53p7LM7"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Hanthaney",
+        "url": "https://open.spotify.com/album/2V1UlRbJ07HHWThvsmFzYM"
+      },
+      "artists": [
+        {
+          "name": "Dhyan Hewage",
+          "url": "https://open.spotify.com/artist/3ES7kGNf8O344XSDG3kW8G"
+        }
+      ],
+      "duration_ms": 220689,
+      "name": "Hanthaney",
+      "url": "https://open.spotify.com/track/70JBYyMJ6PI2UDgPOH1OLU"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Jock Jam",
+        "url": "https://open.spotify.com/album/1boj6wwgjLIpKlbwY6Rc6x"
+      },
+      "artists": [
+        {
+          "name": "Centigradz",
+          "url": "https://open.spotify.com/artist/0gKH2HLKS4gR21CozdoPse"
+        }
+      ],
+      "duration_ms": 206426,
+      "name": "Pahasara obe adare",
+      "url": "https://open.spotify.com/track/3HpQHecSd9nenSCm7d5Ejj"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
       "album": {
         "name": "Ridma Weerawardena",
         "url": "https://open.spotify.com/album/4D1eJLNw9dTUcB1pYDK3mt"
@@ -708,12 +860,160 @@
           "url": "https://open.spotify.com/artist/65U1qIqriL4ZawzjoMX1QP"
         }
       ],
-      "duration_ms": 273062,
-      "name": "Sansaraye Maa",
-      "url": "https://open.spotify.com/track/0JvXCpykHHvvK53XQZd3Tv"
+      "duration_ms": 234110,
+      "name": "Soya Awa",
+      "url": "https://open.spotify.com/track/3709XXZvLGFFS3vhFnNlHc"
     },
     {
-      "added_at": "2023-07-05 07:42:06",
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Kanda Gena",
+        "url": "https://open.spotify.com/album/2J5xmYoBVwg0S7qE56dsgk"
+      },
+      "artists": [
+        {
+          "name": "Chanuka Mora",
+          "url": "https://open.spotify.com/artist/6RC38fA9dGFORf48RRLPbl"
+        },
+        {
+          "name": "Shavindya Kariyawasam",
+          "url": "https://open.spotify.com/artist/0xW7XKb8ysmQAj6OrpcHve"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Kanda Gena",
+      "url": "https://open.spotify.com/track/5ac6xOh6mzjGZTKalirBjP"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Radhawani",
+        "url": "https://open.spotify.com/album/0BupRDRcYRA4HlotHdPS8G"
+      },
+      "artists": [
+        {
+          "name": "Supun Perera",
+          "url": "https://open.spotify.com/artist/2bnE4eD3MMcteNaIhd9TqN"
+        },
+        {
+          "name": "Charitha Attalage",
+          "url": "https://open.spotify.com/artist/65U1qIqriL4ZawzjoMX1QP"
+        }
+      ],
+      "duration_ms": 208285,
+      "name": "Radhawani",
+      "url": "https://open.spotify.com/track/5rG1xu8DZCl3yGTZFFYy5Q"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Matath Kaviyak Liyanna",
+        "url": "https://open.spotify.com/album/4trHuq1QaZaYb9k6Qe9sdD"
+      },
+      "artists": [
+        {
+          "name": "Kasun Kalhara",
+          "url": "https://open.spotify.com/artist/33Y7dADrRWpD5ZVrVm8tw9"
+        }
+      ],
+      "duration_ms": 157308,
+      "name": "Matath Kaviyak Liyanna",
+      "url": "https://open.spotify.com/track/0elX6W7MMJgt9bxcOIuaHD"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Adharema Geethayak - Single",
+        "url": "https://open.spotify.com/album/0PG9iipAVPaTyGGrYgQTyz"
+      },
+      "artists": [
+        {
+          "name": "Raj Thillaiyampalam",
+          "url": "https://open.spotify.com/artist/0j0eGN0Ujo81Qm1z1Yc7ak"
+        },
+        {
+          "name": "Kasun Kalhara",
+          "url": "https://open.spotify.com/artist/33Y7dADrRWpD5ZVrVm8tw9"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "Adharema Geethayak",
+      "url": "https://open.spotify.com/track/46VimbcJgReDr9shAcyVJ3"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Tikiriliya",
+        "url": "https://open.spotify.com/album/1hfLIkPovGwc492gKhfUKm"
+      },
+      "artists": [
+        {
+          "name": "Shehara Sandaruwan",
+          "url": "https://open.spotify.com/artist/5uteGdWzVulxfM4wH8fOSC"
+        },
+        {
+          "name": "Harshana K",
+          "url": "https://open.spotify.com/artist/7id5XxWfKqpRJxo9bApn4p"
+        }
+      ],
+      "duration_ms": 181569,
+      "name": "Tikiriliya",
+      "url": "https://open.spotify.com/track/0uPMPdNC0m318PuBBFiGGS"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Marunu Hithe",
+        "url": "https://open.spotify.com/album/6AEPBrvsP17lzplo3Un2Qa"
+      },
+      "artists": [
+        {
+          "name": "Anushka Udana",
+          "url": "https://open.spotify.com/artist/0zJOY7KeiOgOIGQ150u7hz"
+        }
+      ],
+      "duration_ms": 188316,
+      "name": "Marunu Hithe",
+      "url": "https://open.spotify.com/track/6dH8lGP2nESxdM1gih7fHb"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Senkadagala Nuwarata",
+        "url": "https://open.spotify.com/album/6fBrvPKAqaOupeGTiDNLqI"
+      },
+      "artists": [
+        {
+          "name": "Dinesh Gamage",
+          "url": "https://open.spotify.com/artist/6c4RrYCE1gOHAGZPJRmG2o"
+        },
+        {
+          "name": "Manuranga Wijesekara",
+          "url": "https://open.spotify.com/artist/5TQ1Cdq1qkEVgmU0En5vxw"
+        }
+      ],
+      "duration_ms": 235822,
+      "name": "Senkadagala Nuwarata",
+      "url": "https://open.spotify.com/track/31F6ey8UEapbPbXj8ihGzR"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Handa Gawin",
+        "url": "https://open.spotify.com/album/0yqIEof1HHy2cjBeID0BMF"
+      },
+      "artists": [
+        {
+          "name": "DILU Beats",
+          "url": "https://open.spotify.com/artist/01O8OueZDiqUJjOu7XPb4t"
+        }
+      ],
+      "duration_ms": 196333,
+      "name": "Handa Gawin",
+      "url": "https://open.spotify.com/track/6q54NPEivZfu0w4mfi2pzk"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
       "album": {
         "name": "Sobana",
         "url": "https://open.spotify.com/album/1vy6cgjOFbSspNXYSBRJMm"
@@ -737,311 +1037,23 @@
       "url": "https://open.spotify.com/track/62UhJum9yoy3FporPpFxjT"
     },
     {
-      "added_at": "2023-07-05 07:42:06",
+      "added_at": "2023-07-24 11:29:15",
       "album": {
-        "name": "Kanda Gena",
-        "url": "https://open.spotify.com/album/2J5xmYoBVwg0S7qE56dsgk"
+        "name": "Rae Sihinen Maa",
+        "url": "https://open.spotify.com/album/5DAIp1ljmX5ubj8ZJ9HRgD"
       },
       "artists": [
         {
-          "name": "Chanuka Mora",
-          "url": "https://open.spotify.com/artist/6RC38fA9dGFORf48RRLPbl"
-        },
-        {
-          "name": "Shavindya Kariyawasam",
-          "url": "https://open.spotify.com/artist/0xW7XKb8ysmQAj6OrpcHve"
+          "name": "Sanka Dineth",
+          "url": "https://open.spotify.com/artist/1Uqk24JsikzOJO5gHx9AJG"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Kanda Gena",
-      "url": "https://open.spotify.com/track/5ac6xOh6mzjGZTKalirBjP"
+      "duration_ms": 240576,
+      "name": "Rae Sihinen Maa",
+      "url": "https://open.spotify.com/track/75f4NlJv46zv4CuhdtYEwz"
     },
     {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Adharema Geethayak - Single",
-        "url": "https://open.spotify.com/album/0PG9iipAVPaTyGGrYgQTyz"
-      },
-      "artists": [
-        {
-          "name": "Raj Thillaiyampalam",
-          "url": "https://open.spotify.com/artist/0j0eGN0Ujo81Qm1z1Yc7ak"
-        },
-        {
-          "name": "Kasun Kalhara",
-          "url": "https://open.spotify.com/artist/33Y7dADrRWpD5ZVrVm8tw9"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "Adharema Geethayak",
-      "url": "https://open.spotify.com/track/46VimbcJgReDr9shAcyVJ3"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Marunu Hithe",
-        "url": "https://open.spotify.com/album/6AEPBrvsP17lzplo3Un2Qa"
-      },
-      "artists": [
-        {
-          "name": "Anushka Udana",
-          "url": "https://open.spotify.com/artist/0zJOY7KeiOgOIGQ150u7hz"
-        }
-      ],
-      "duration_ms": 188316,
-      "name": "Marunu Hithe",
-      "url": "https://open.spotify.com/track/6dH8lGP2nESxdM1gih7fHb"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Jock Jam",
-        "url": "https://open.spotify.com/album/1boj6wwgjLIpKlbwY6Rc6x"
-      },
-      "artists": [
-        {
-          "name": "Centigradz",
-          "url": "https://open.spotify.com/artist/0gKH2HLKS4gR21CozdoPse"
-        }
-      ],
-      "duration_ms": 206426,
-      "name": "Pahasara obe adare",
-      "url": "https://open.spotify.com/track/3HpQHecSd9nenSCm7d5Ejj"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Ranwan Maldam",
-        "url": "https://open.spotify.com/album/2L581ffA4tmnrkSW3AmA3l"
-      },
-      "artists": [
-        {
-          "name": "Centigradz",
-          "url": "https://open.spotify.com/artist/0gKH2HLKS4gR21CozdoPse"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Ranwan Maldam",
-      "url": "https://open.spotify.com/track/1bzsi0xA8MxBZICdtB23pO"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "DIAS",
-        "url": "https://open.spotify.com/album/1SmwEglEo2GiwE7MAnkOlP"
-      },
-      "artists": [
-        {
-          "name": "FREEZE",
-          "url": "https://open.spotify.com/artist/2T6JxFkkrJsZY4TCHmm7Hb"
-        }
-      ],
-      "duration_ms": 196330,
-      "name": "DIAS",
-      "url": "https://open.spotify.com/track/627U5dQ8rInhEXLm5UWXIY"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Man Italiye Thani Una",
-        "url": "https://open.spotify.com/album/0BlrxPb7Nj8QXk56qIxLl6"
-      },
-      "artists": [
-        {
-          "name": "Gayan Udawatta",
-          "url": "https://open.spotify.com/artist/6nqL4Zw9dlneJn4CDNKPhI"
-        }
-      ],
-      "duration_ms": 256250,
-      "name": "Man Italiye Thani Una",
-      "url": "https://open.spotify.com/track/11oGbpKNMqMWAStXluVPpn"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Ridma Weerawardena",
-        "url": "https://open.spotify.com/album/4D1eJLNw9dTUcB1pYDK3mt"
-      },
-      "artists": [
-        {
-          "name": "Ridma Weerawardena",
-          "url": "https://open.spotify.com/artist/03lEcjt6I9zmO8g0tJi4zT"
-        },
-        {
-          "name": "Charitha Attalage",
-          "url": "https://open.spotify.com/artist/65U1qIqriL4ZawzjoMX1QP"
-        }
-      ],
-      "duration_ms": 240366,
-      "name": "Sandawathiye",
-      "url": "https://open.spotify.com/track/0qypAiOkwILdSD9MxubFu4"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Pawela Kodu Akase",
-        "url": "https://open.spotify.com/album/5yM7fEWom6JO1g780noZ3d"
-      },
-      "artists": [
-        {
-          "name": "Thilina Ruhunage",
-          "url": "https://open.spotify.com/artist/3uxggUmuI6OX5tcW12y7cn"
-        },
-        {
-          "name": "Samitha Mudunkotuwa",
-          "url": "https://open.spotify.com/artist/4JZtZyM8iEjVLR56DgrI4c"
-        }
-      ],
-      "duration_ms": 237517,
-      "name": "Pawela Kodu Akase",
-      "url": "https://open.spotify.com/track/3IfseEvp5VAI6Bcc0NZWGe"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Hadunada Ridunada",
-        "url": "https://open.spotify.com/album/09F9MPJ78nHSSMVosAhaZL"
-      },
-      "artists": [
-        {
-          "name": "Dinesh Tharanga",
-          "url": "https://open.spotify.com/artist/0JCmse6ZKrAURE9VcS0Mz1"
-        },
-        {
-          "name": "Skay Jay",
-          "url": "https://open.spotify.com/artist/11X1A3y1BjzxrsATn8OYod"
-        },
-        {
-          "name": "EVO BEATS",
-          "url": "https://open.spotify.com/artist/2D3YwelCtVLnZIoq2NlSox"
-        }
-      ],
-      "duration_ms": 215145,
-      "name": "Hadunada Ridunada",
-      "url": "https://open.spotify.com/track/2ra5d22Eli92gjT6ldddo6"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Radhawani",
-        "url": "https://open.spotify.com/album/0BupRDRcYRA4HlotHdPS8G"
-      },
-      "artists": [
-        {
-          "name": "Supun Perera",
-          "url": "https://open.spotify.com/artist/2bnE4eD3MMcteNaIhd9TqN"
-        },
-        {
-          "name": "Charitha Attalage",
-          "url": "https://open.spotify.com/artist/65U1qIqriL4ZawzjoMX1QP"
-        }
-      ],
-      "duration_ms": 208285,
-      "name": "Radhawani",
-      "url": "https://open.spotify.com/track/5rG1xu8DZCl3yGTZFFYy5Q"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Hinawenna Beri Tharamata",
-        "url": "https://open.spotify.com/album/1iiNAMae8E53h5zUpupSW7"
-      },
-      "artists": [
-        {
-          "name": "Thilina Ruhunage",
-          "url": "https://open.spotify.com/artist/3uxggUmuI6OX5tcW12y7cn"
-        },
-        {
-          "name": "Dammika Edirisinghe",
-          "url": "https://open.spotify.com/artist/5sJJMhb0y5ndWJ9v7QpTbx"
-        },
-        {
-          "name": "Uresha Ravihari",
-          "url": "https://open.spotify.com/artist/5T4mymgJStVIyosEmFreK1"
-        }
-      ],
-      "duration_ms": 231367,
-      "name": "Hinawenna Beri Tharamata",
-      "url": "https://open.spotify.com/track/46K9BAyCI1fxoTKfFIL18s"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Pathu Senehe",
-        "url": "https://open.spotify.com/album/2zI0GPFNklCT170bOLHGF5"
-      },
-      "artists": [
-        {
-          "name": "Thilina Ruhunage",
-          "url": "https://open.spotify.com/artist/3uxggUmuI6OX5tcW12y7cn"
-        },
-        {
-          "name": "Poorna Sachintha",
-          "url": "https://open.spotify.com/artist/6qv1RiuhjjYJ4AzTWhwZNt"
-        },
-        {
-          "name": "Kushani Sandarekha",
-          "url": "https://open.spotify.com/artist/5SKyDKN538iUcic8y38gGA"
-        }
-      ],
-      "duration_ms": 197908,
-      "name": "Pathu Senehe",
-      "url": "https://open.spotify.com/track/6KUWoAuTBI2cjyEQU3BGGA"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Gajaman Nona",
-        "url": "https://open.spotify.com/album/4ioPNbZVGmtOcqvp9O24lx"
-      },
-      "artists": [
-        {
-          "name": "Tehan Perera",
-          "url": "https://open.spotify.com/artist/1iH07mFEjrWomKuOTLzfWQ"
-        },
-        {
-          "name": "Yohani",
-          "url": "https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI"
-        }
-      ],
-      "duration_ms": 163798,
-      "name": "Gajaman Nona",
-      "url": "https://open.spotify.com/track/23OqflDGsKLH6XtMAieuEH"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Sri Lankan Top Chart",
-        "url": "https://open.spotify.com/album/29IsYWjeG37GwRB2VTZUOB"
-      },
-      "artists": [
-        {
-          "name": "Centigradz",
-          "url": "https://open.spotify.com/artist/0gKH2HLKS4gR21CozdoPse"
-        }
-      ],
-      "duration_ms": 225912,
-      "name": "Diurala Pawasanna",
-      "url": "https://open.spotify.com/track/0wjno8lHmDep5uhLVowoSA"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Hinahenne Mung",
-        "url": "https://open.spotify.com/album/0boxtVsTzHrAIqzx368Eyy"
-      },
-      "artists": [
-        {
-          "name": "Ranidu",
-          "url": "https://open.spotify.com/artist/29A2v7wxGk7GK0EmRKgrOW"
-        }
-      ],
-      "duration_ms": 238720,
-      "name": "Hinahenne mung (Nil Nayaniye)",
-      "url": "https://open.spotify.com/track/1zCGWOEgZR3gNcTQ9aRvw3"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
+      "added_at": "2023-07-24 11:29:15",
       "album": {
         "name": "Mathakada Handaawe",
         "url": "https://open.spotify.com/album/7A98hZocr9LtyY53brC0VN"
@@ -1057,7 +1069,7 @@
       "url": "https://open.spotify.com/track/7gFbtLi4CqjjquCDJKxhka"
     },
     {
-      "added_at": "2023-07-05 07:42:06",
+      "added_at": "2023-07-24 11:29:15",
       "album": {
         "name": "Charitha Attalage Medley",
         "url": "https://open.spotify.com/album/2sg23mpKHyH4ed5oNcPBbH"
@@ -1073,23 +1085,7 @@
       "url": "https://open.spotify.com/track/57o1kkC9RBwoSIuSfHKKBC"
     },
     {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Hanthaney",
-        "url": "https://open.spotify.com/album/2V1UlRbJ07HHWThvsmFzYM"
-      },
-      "artists": [
-        {
-          "name": "Dhyan Hewage",
-          "url": "https://open.spotify.com/artist/3ES7kGNf8O344XSDG3kW8G"
-        }
-      ],
-      "duration_ms": 220689,
-      "name": "Hanthaney",
-      "url": "https://open.spotify.com/track/70JBYyMJ6PI2UDgPOH1OLU"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
+      "added_at": "2023-07-24 11:29:15",
       "album": {
         "name": "Wasthi Unplugged Live",
         "url": "https://open.spotify.com/album/2BVHtZRfXGLKdryzzWf4PU"
@@ -1109,231 +1105,23 @@
       "url": "https://open.spotify.com/track/4eQ7AZ9OY4YWVRKf6p9Wo0"
     },
     {
-      "added_at": "2023-07-05 07:42:06",
+      "added_at": "2023-07-24 11:29:15",
       "album": {
-        "name": "Rae Sihinen Maa",
-        "url": "https://open.spotify.com/album/5DAIp1ljmX5ubj8ZJ9HRgD"
+        "name": "Priyawee - Single",
+        "url": "https://open.spotify.com/album/5wLw7iEmwl7IwadGqkibyS"
       },
       "artists": [
         {
-          "name": "Sanka Dineth",
-          "url": "https://open.spotify.com/artist/1Uqk24JsikzOJO5gHx9AJG"
+          "name": "Piyath Rajapaksha",
+          "url": "https://open.spotify.com/artist/2S27TB6CngbE1hmLkEQWYS"
         }
       ],
-      "duration_ms": 240576,
-      "name": "Rae Sihinen Maa",
-      "url": "https://open.spotify.com/track/75f4NlJv46zv4CuhdtYEwz"
+      "duration_ms": 228245,
+      "name": "Priyawee",
+      "url": "https://open.spotify.com/track/1gEgaeOW0at0yNufAQviJz"
     },
     {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Navarathna Gamage: Classics Collection 02",
-        "url": "https://open.spotify.com/album/67p2UEb2TQtIDpRPjeouKv"
-      },
-      "artists": [
-        {
-          "name": "Navarathna Gamage",
-          "url": "https://open.spotify.com/artist/7ig9GO5GVADIGAxma4KnJO"
-        },
-        {
-          "name": "Kasun Kalhara",
-          "url": "https://open.spotify.com/artist/33Y7dADrRWpD5ZVrVm8tw9"
-        },
-        {
-          "name": "Indrachapa Liyanage",
-          "url": "https://open.spotify.com/artist/1Fn2KPtMKwFLpjrfCgR4kr"
-        }
-      ],
-      "duration_ms": 210040,
-      "name": "Adara Mal Wala",
-      "url": "https://open.spotify.com/track/0SnQXsOTmbVGOjvXj9IkTB"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Marunu Hithe (Ida Illa) [Unplugged Version]",
-        "url": "https://open.spotify.com/album/0OLjWLgQzUBL114EZNr6Hc"
-      },
-      "artists": [
-        {
-          "name": "Wasthi",
-          "url": "https://open.spotify.com/artist/6SuMIiPGM6P4hLLNdT0nNt"
-        }
-      ],
-      "duration_ms": 145972,
-      "name": "Marunu Hithe (Ida Illa) - Unplugged Version",
-      "url": "https://open.spotify.com/track/1FAQwbqWPPOD7IT3R3Y4wD"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Maa Nubata Pemkale",
-        "url": "https://open.spotify.com/album/4X6E5jrpFM06LjxLYXi9Ey"
-      },
-      "artists": [
-        {
-          "name": "Dinesh Tharanga",
-          "url": "https://open.spotify.com/artist/0JCmse6ZKrAURE9VcS0Mz1"
-        }
-      ],
-      "duration_ms": 273606,
-      "name": "Maa Nubata Pemkale",
-      "url": "https://open.spotify.com/track/48KHBgC6d9sGXg7SLcoCF9"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Ahasama Ridawa",
-        "url": "https://open.spotify.com/album/3ch0Fu0GrJKTwGD8U5bcKh"
-      },
-      "artists": [
-        {
-          "name": "Thilina Ruhunage",
-          "url": "https://open.spotify.com/artist/3uxggUmuI6OX5tcW12y7cn"
-        },
-        {
-          "name": "Shihan Mihiranga",
-          "url": "https://open.spotify.com/artist/0djxQZgKR9AcxtVjypEkwc"
-        },
-        {
-          "name": "Nirosha Virajini",
-          "url": "https://open.spotify.com/artist/6wHi07ZWI3mgwehxRbd8x9"
-        }
-      ],
-      "duration_ms": 161965,
-      "name": "Ahasama Ridawa",
-      "url": "https://open.spotify.com/track/3y2D1m9SaL1itNDyHPHPUW"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "MAGE",
-        "url": "https://open.spotify.com/album/2JQPe7xoFerVtANTr0gmZ1"
-      },
-      "artists": [
-        {
-          "name": "Kanchana Anuradhi",
-          "url": "https://open.spotify.com/artist/5FvRanU1qnYzZQ5BpIfU9u"
-        },
-        {
-          "name": "Chamath Sangeeth",
-          "url": "https://open.spotify.com/artist/3Bej6ikcqBylMRbkX1DKpu"
-        }
-      ],
-      "duration_ms": 162285,
-      "name": "MAGE",
-      "url": "https://open.spotify.com/track/2tyGqrHSrExJNR0IeWcpoX"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Adariye",
-        "url": "https://open.spotify.com/album/52zMzSez0sHDuqQz9jHFq0"
-      },
-      "artists": [
-        {
-          "name": "Dhanith Sri",
-          "url": "https://open.spotify.com/artist/25JFNpUo9kGJwGwMPUDBRs"
-        }
-      ],
-      "duration_ms": 237756,
-      "name": "Adariye",
-      "url": "https://open.spotify.com/track/0s4E6PZVtU28SMeE3cvpZ1"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/2jQHW7TwPc83Ux3LeM1w25"
-      },
-      "artists": [
-        {
-          "name": "La Signore",
-          "url": "https://open.spotify.com/artist/3wRgCqDCo0rwgjvCEPoDMP"
-        }
-      ],
-      "duration_ms": 220500,
-      "name": "Labendiye",
-      "url": "https://open.spotify.com/track/2O5hhvnny2r1KTIQrUR0Lq"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Kawiya",
-        "url": "https://open.spotify.com/album/0Pw4f024OJYTupVf1YL5N8"
-      },
-      "artists": [
-        {
-          "name": "Vidula Ravishara",
-          "url": "https://open.spotify.com/artist/4FzhdScTHPgweAc4Ka9fOB"
-        }
-      ],
-      "duration_ms": 293184,
-      "name": "Kawiya",
-      "url": "https://open.spotify.com/track/1GmQ31oaEMtoF2CcQySsiN"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Sansare Suba Gaman",
-        "url": "https://open.spotify.com/album/1sTyrA1okHc7mDF8jjw9jA"
-      },
-      "artists": [
-        {
-          "name": "Dinesh Tharanga",
-          "url": "https://open.spotify.com/artist/0JCmse6ZKrAURE9VcS0Mz1"
-        },
-        {
-          "name": "Kanishka Akmeemana",
-          "url": "https://open.spotify.com/artist/5AqMmzfIqQbN568bf1eX95"
-        }
-      ],
-      "duration_ms": 175379,
-      "name": "Sansare Suba Gaman",
-      "url": "https://open.spotify.com/track/2Ka8UhyHEScUHxUU9X0EvT"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Saragaye",
-        "url": "https://open.spotify.com/album/2Jw8l7dB4FR5bhngaFZ4Ma"
-      },
-      "artists": [
-        {
-          "name": "SANUKA",
-          "url": "https://open.spotify.com/artist/6FD5oL7fAbrg43q0bcbWhe"
-        }
-      ],
-      "duration_ms": 231805,
-      "name": "Saragaye",
-      "url": "https://open.spotify.com/track/56Yy12DwYDPusNYMjPD6xG"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Iraj",
-        "url": "https://open.spotify.com/album/0G3cSwm9YKbM4RSFOCTXg7"
-      },
-      "artists": [
-        {
-          "name": "Iraj",
-          "url": "https://open.spotify.com/artist/6RoQz9twE1wPVEcFvwv7iO"
-        },
-        {
-          "name": "Infaas",
-          "url": "https://open.spotify.com/artist/0Y4h56wa6ocAQMbT2dAPhP"
-        },
-        {
-          "name": "Devashri",
-          "url": "https://open.spotify.com/artist/1NXRIHnvqJtwLdCrV6pGCP"
-        }
-      ],
-      "duration_ms": 199877,
-      "name": "Surangana Kiriliye",
-      "url": "https://open.spotify.com/track/35iEX7nktYAjA0HZ8pHJMF"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
+      "added_at": "2023-07-24 11:29:15",
       "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/2jQHW7TwPc83Ux3LeM1w25"
@@ -1349,7 +1137,7 @@
       "url": "https://open.spotify.com/track/00JSed4i2Pt8s0MN8pUgvJ"
     },
     {
-      "added_at": "2023-07-05 07:42:06",
+      "added_at": "2023-07-24 11:29:15",
       "album": {
         "name": "Mandakini",
         "url": "https://open.spotify.com/album/1NPJtfIMlsJ0IPEtpRT9d7"
@@ -1365,7 +1153,75 @@
       "url": "https://open.spotify.com/track/1o8lvyUYVKDyiILBv3UDuj"
     },
     {
-      "added_at": "2023-07-05 07:42:06",
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/2jQHW7TwPc83Ux3LeM1w25"
+      },
+      "artists": [
+        {
+          "name": "La Signore",
+          "url": "https://open.spotify.com/artist/3wRgCqDCo0rwgjvCEPoDMP"
+        }
+      ],
+      "duration_ms": 220500,
+      "name": "Labendiye",
+      "url": "https://open.spotify.com/track/2O5hhvnny2r1KTIQrUR0Lq"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Saragaye",
+        "url": "https://open.spotify.com/album/2Jw8l7dB4FR5bhngaFZ4Ma"
+      },
+      "artists": [
+        {
+          "name": "SANUKA",
+          "url": "https://open.spotify.com/artist/6FD5oL7fAbrg43q0bcbWhe"
+        }
+      ],
+      "duration_ms": 231805,
+      "name": "Saragaye",
+      "url": "https://open.spotify.com/track/56Yy12DwYDPusNYMjPD6xG"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Marunu Hithe (Ida Illa) [Unplugged Version]",
+        "url": "https://open.spotify.com/album/0OLjWLgQzUBL114EZNr6Hc"
+      },
+      "artists": [
+        {
+          "name": "Wasthi",
+          "url": "https://open.spotify.com/artist/6SuMIiPGM6P4hLLNdT0nNt"
+        }
+      ],
+      "duration_ms": 145972,
+      "name": "Marunu Hithe (Ida Illa) - Unplugged Version",
+      "url": "https://open.spotify.com/track/1FAQwbqWPPOD7IT3R3Y4wD"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Mawila",
+        "url": "https://open.spotify.com/album/0Qtwnlus6ow1jB1KGrBZ5O"
+      },
+      "artists": [
+        {
+          "name": "DILU Beats",
+          "url": "https://open.spotify.com/artist/01O8OueZDiqUJjOu7XPb4t"
+        },
+        {
+          "name": "King Lotuss",
+          "url": "https://open.spotify.com/artist/7py18FduZRYdSo7FzNpt13"
+        }
+      ],
+      "duration_ms": 242456,
+      "name": "Mawila",
+      "url": "https://open.spotify.com/track/1eAAmf2ccUFXvz3KsUQ5bE"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
       "album": {
         "name": "Scattered Singles",
         "url": "https://open.spotify.com/album/7KNpklR3h1lj5zeFHuGlYE"
@@ -1381,27 +1237,23 @@
       "url": "https://open.spotify.com/track/1tfds8cHC1G2emUZjs7VHM"
     },
     {
-      "added_at": "2023-07-05 07:42:06",
+      "added_at": "2023-07-24 11:29:15",
       "album": {
-        "name": "Ridma Weerawardena",
-        "url": "https://open.spotify.com/album/4D1eJLNw9dTUcB1pYDK3mt"
+        "name": "Adariye",
+        "url": "https://open.spotify.com/album/52zMzSez0sHDuqQz9jHFq0"
       },
       "artists": [
         {
-          "name": "Ridma Weerawardena",
-          "url": "https://open.spotify.com/artist/03lEcjt6I9zmO8g0tJi4zT"
-        },
-        {
-          "name": "Charitha Attalage",
-          "url": "https://open.spotify.com/artist/65U1qIqriL4ZawzjoMX1QP"
+          "name": "Dhanith Sri",
+          "url": "https://open.spotify.com/artist/25JFNpUo9kGJwGwMPUDBRs"
         }
       ],
-      "duration_ms": 271194,
-      "name": "Naadagam Geeya",
-      "url": "https://open.spotify.com/track/2z1xxec9iMmanvQEYsuJUO"
+      "duration_ms": 237756,
+      "name": "Adariye",
+      "url": "https://open.spotify.com/track/0s4E6PZVtU28SMeE3cvpZ1"
     },
     {
-      "added_at": "2023-07-05 07:42:06",
+      "added_at": "2023-07-24 11:29:15",
       "album": {
         "name": "Kalu Sudu",
         "url": "https://open.spotify.com/album/5Uleal5FwpZQ1szYa5edsd"
@@ -1421,39 +1273,27 @@
       "url": "https://open.spotify.com/track/5euNAITDs98fToDDS9nIYw"
     },
     {
-      "added_at": "2023-07-05 07:42:06",
+      "added_at": "2023-07-24 11:29:15",
       "album": {
-        "name": "Me Waare",
-        "url": "https://open.spotify.com/album/5rfa6cHggU4TSuZX95N06y"
+        "name": "Kalhara Mal",
+        "url": "https://open.spotify.com/album/5PRRFYHSUTGrXt7VDR4XnA"
       },
       "artists": [
         {
-          "name": "Sanjula himala",
-          "url": "https://open.spotify.com/artist/7yn5qtJ1n0HkQh0K2LQLWr"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Me Waare",
-      "url": "https://open.spotify.com/track/565NrCOtLkrCJAA5GXDX6f"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Mata Rawana",
-        "url": "https://open.spotify.com/album/6bnr41pddsGgZIzlebcvDD"
-      },
-      "artists": [
+          "name": "Anjitha Kuruppu",
+          "url": "https://open.spotify.com/artist/7fgkv2V4UnwYJ6gGsSeabv"
+        },
         {
-          "name": "La Signore",
-          "url": "https://open.spotify.com/artist/3wRgCqDCo0rwgjvCEPoDMP"
+          "name": "Yuki Navaratne",
+          "url": "https://open.spotify.com/artist/00ZpGGB5F7Ytw781Qsr1sR"
         }
       ],
-      "duration_ms": 197328,
-      "name": "Mata Rawana",
-      "url": "https://open.spotify.com/track/3iQ3tzIb85Z5Pi6emy8KeJ"
+      "duration_ms": 252521,
+      "name": "Kalhara Mal",
+      "url": "https://open.spotify.com/track/1nrGc9Ha15ZVvKRbIROwuv"
     },
     {
-      "added_at": "2023-07-05 07:42:06",
+      "added_at": "2023-07-24 11:29:15",
       "album": {
         "name": "Iraj",
         "url": "https://open.spotify.com/album/0G3cSwm9YKbM4RSFOCTXg7"
@@ -1481,39 +1321,215 @@
       "url": "https://open.spotify.com/track/2KcsI1xnZE6Px7ToatQQqL"
     },
     {
-      "added_at": "2023-07-05 07:42:06",
+      "added_at": "2023-07-24 11:29:15",
       "album": {
-        "name": "Priyawee - Single",
-        "url": "https://open.spotify.com/album/5wLw7iEmwl7IwadGqkibyS"
+        "name": "Kinduriye Nura",
+        "url": "https://open.spotify.com/album/50hUD8FmYuRBrHwvTtRgGq"
       },
       "artists": [
         {
-          "name": "Piyath Rajapaksha",
-          "url": "https://open.spotify.com/artist/2S27TB6CngbE1hmLkEQWYS"
+          "name": "Dasun Madushan",
+          "url": "https://open.spotify.com/artist/1FayHtaXhMf8Ry5pEQZywZ"
         }
       ],
-      "duration_ms": 228245,
-      "name": "Priyawee",
-      "url": "https://open.spotify.com/track/1gEgaeOW0at0yNufAQviJz"
+      "duration_ms": 205808,
+      "name": "Adare Pawasala",
+      "url": "https://open.spotify.com/track/7gMgFyHlCljeJ5or13y1U2"
     },
     {
-      "added_at": "2023-07-05 07:42:06",
+      "added_at": "2023-07-24 11:29:15",
       "album": {
-        "name": "Nena",
-        "url": "https://open.spotify.com/album/6bA4ykfGp5wdDPYD40bzXw"
+        "name": "Sanda Renu Galana",
+        "url": "https://open.spotify.com/album/2pakEQGas1sOThHdcQAY8I"
       },
       "artists": [
         {
-          "name": "Thiwanka Dilshan",
-          "url": "https://open.spotify.com/artist/3yvx0NGMRfcq8Gres1PUxx"
+          "name": "Theekshana Anuradha",
+          "url": "https://open.spotify.com/artist/3c33f68AHkfTw11ytylU5l"
         }
       ],
-      "duration_ms": 176029,
-      "name": "Nena",
-      "url": "https://open.spotify.com/track/0WFz48as786EyNex70sOy7"
+      "duration_ms": 215706,
+      "name": "Sanda Renu Galana",
+      "url": "https://open.spotify.com/track/0kppBJxAQY9Lx20qSGmAyj"
     },
     {
-      "added_at": "2023-07-05 07:42:06",
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Sansare Suba Gaman",
+        "url": "https://open.spotify.com/album/1sTyrA1okHc7mDF8jjw9jA"
+      },
+      "artists": [
+        {
+          "name": "Dinesh Tharanga",
+          "url": "https://open.spotify.com/artist/0JCmse6ZKrAURE9VcS0Mz1"
+        },
+        {
+          "name": "Kanishka Akmeemana",
+          "url": "https://open.spotify.com/artist/5AqMmzfIqQbN568bf1eX95"
+        }
+      ],
+      "duration_ms": 175379,
+      "name": "Sansare Suba Gaman",
+      "url": "https://open.spotify.com/track/2Ka8UhyHEScUHxUU9X0EvT"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Gajaman Nona",
+        "url": "https://open.spotify.com/album/4ioPNbZVGmtOcqvp9O24lx"
+      },
+      "artists": [
+        {
+          "name": "Tehan Perera",
+          "url": "https://open.spotify.com/artist/1iH07mFEjrWomKuOTLzfWQ"
+        },
+        {
+          "name": "Yohani",
+          "url": "https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI"
+        }
+      ],
+      "duration_ms": 163798,
+      "name": "Gajaman Nona",
+      "url": "https://open.spotify.com/track/23OqflDGsKLH6XtMAieuEH"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Navarathna Gamage: Classics Collection 02",
+        "url": "https://open.spotify.com/album/67p2UEb2TQtIDpRPjeouKv"
+      },
+      "artists": [
+        {
+          "name": "Navarathna Gamage",
+          "url": "https://open.spotify.com/artist/7ig9GO5GVADIGAxma4KnJO"
+        },
+        {
+          "name": "Kasun Kalhara",
+          "url": "https://open.spotify.com/artist/33Y7dADrRWpD5ZVrVm8tw9"
+        },
+        {
+          "name": "Indrachapa Liyanage",
+          "url": "https://open.spotify.com/artist/1Fn2KPtMKwFLpjrfCgR4kr"
+        }
+      ],
+      "duration_ms": 210040,
+      "name": "Adara Mal Wala",
+      "url": "https://open.spotify.com/track/0SnQXsOTmbVGOjvXj9IkTB"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Mata Rawana",
+        "url": "https://open.spotify.com/album/6bnr41pddsGgZIzlebcvDD"
+      },
+      "artists": [
+        {
+          "name": "La Signore",
+          "url": "https://open.spotify.com/artist/3wRgCqDCo0rwgjvCEPoDMP"
+        }
+      ],
+      "duration_ms": 197328,
+      "name": "Mata Rawana",
+      "url": "https://open.spotify.com/track/3iQ3tzIb85Z5Pi6emy8KeJ"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "MAGE",
+        "url": "https://open.spotify.com/album/2JQPe7xoFerVtANTr0gmZ1"
+      },
+      "artists": [
+        {
+          "name": "Kanchana Anuradhi",
+          "url": "https://open.spotify.com/artist/5FvRanU1qnYzZQ5BpIfU9u"
+        },
+        {
+          "name": "Chamath Sangeeth",
+          "url": "https://open.spotify.com/artist/3Bej6ikcqBylMRbkX1DKpu"
+        }
+      ],
+      "duration_ms": 162285,
+      "name": "MAGE",
+      "url": "https://open.spotify.com/track/2tyGqrHSrExJNR0IeWcpoX"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Numbata Mathakada",
+        "url": "https://open.spotify.com/album/0BtXsK7y1T24BXbbJ1qWs8"
+      },
+      "artists": [
+        {
+          "name": "Ravi Jay",
+          "url": "https://open.spotify.com/artist/2OXLUIzYqgydsWcHh38LJ2"
+        },
+        {
+          "name": "Yuki Navaratne",
+          "url": "https://open.spotify.com/artist/00ZpGGB5F7Ytw781Qsr1sR"
+        }
+      ],
+      "duration_ms": 250285,
+      "name": "Numbata Mathakada",
+      "url": "https://open.spotify.com/track/45VOLZmSHFEv6d0GUgcl0J"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Riduman",
+        "url": "https://open.spotify.com/album/1SN3KCEJJQtQoDnojy0PoE"
+      },
+      "artists": [
+        {
+          "name": "Mihiran",
+          "url": "https://open.spotify.com/artist/5geuqF6BLOASj8FVq2Tbes"
+        },
+        {
+          "name": "Themiya Thejan",
+          "url": "https://open.spotify.com/artist/7KOQwe1vcolnuIBhMmvZo9"
+        }
+      ],
+      "duration_ms": 210018,
+      "name": "Riduman",
+      "url": "https://open.spotify.com/track/0Qh90Eu5a2MxkroJTayOl0"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Kakuli",
+        "url": "https://open.spotify.com/album/1aFOpDCBNRfxEO9EYCEl8J"
+      },
+      "artists": [
+        {
+          "name": "Costa",
+          "url": "https://open.spotify.com/artist/0xQI3u4hVl2KnZf5tq38LR"
+        },
+        {
+          "name": "Tikx Kooda",
+          "url": "https://open.spotify.com/artist/550h9wiTpYT12T8Zyihl69"
+        }
+      ],
+      "duration_ms": 183250,
+      "name": "Kakuli",
+      "url": "https://open.spotify.com/track/5Ka78MdVmy0Ocj48RpWbvx"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Tikx Tapes",
+        "url": "https://open.spotify.com/album/7k4G8ivmx6fcatD7bg9nls"
+      },
+      "artists": [
+        {
+          "name": "Tikx Kooda",
+          "url": "https://open.spotify.com/artist/550h9wiTpYT12T8Zyihl69"
+        }
+      ],
+      "duration_ms": 157998,
+      "name": "Aluth Dawasak",
+      "url": "https://open.spotify.com/track/6mMB2n3WG1WmRs2DZjfjMC"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
       "album": {
         "name": "Rasthafari",
         "url": "https://open.spotify.com/album/09vx2Igx3O63EQ2LdXZRFT"
@@ -1533,23 +1549,63 @@
       "url": "https://open.spotify.com/track/4c0x76H50LPCueqovoKhHZ"
     },
     {
-      "added_at": "2023-07-05 07:42:06",
+      "added_at": "2023-07-24 11:29:15",
       "album": {
-        "name": "Sanda Renu Galana",
-        "url": "https://open.spotify.com/album/2pakEQGas1sOThHdcQAY8I"
+        "name": "Mandakini",
+        "url": "https://open.spotify.com/album/1NPJtfIMlsJ0IPEtpRT9d7"
       },
       "artists": [
         {
-          "name": "Theekshana Anuradha",
-          "url": "https://open.spotify.com/artist/3c33f68AHkfTw11ytylU5l"
+          "name": "Romesh Sugathapala",
+          "url": "https://open.spotify.com/artist/1e3JYUy2zWuu6afa85vG0C"
         }
       ],
-      "duration_ms": 215706,
-      "name": "Sanda Renu Galana",
-      "url": "https://open.spotify.com/track/0kppBJxAQY9Lx20qSGmAyj"
+      "duration_ms": 232000,
+      "name": "Mihiravi",
+      "url": "https://open.spotify.com/track/7ooVgnzRPAGEhxXabMdUIl"
     },
     {
-      "added_at": "2023-07-05 07:42:06",
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Me Waare",
+        "url": "https://open.spotify.com/album/5rfa6cHggU4TSuZX95N06y"
+      },
+      "artists": [
+        {
+          "name": "Sanjula himala",
+          "url": "https://open.spotify.com/artist/7yn5qtJ1n0HkQh0K2LQLWr"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Me Waare",
+      "url": "https://open.spotify.com/track/565NrCOtLkrCJAA5GXDX6f"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Iraj",
+        "url": "https://open.spotify.com/album/0G3cSwm9YKbM4RSFOCTXg7"
+      },
+      "artists": [
+        {
+          "name": "Iraj",
+          "url": "https://open.spotify.com/artist/6RoQz9twE1wPVEcFvwv7iO"
+        },
+        {
+          "name": "Infaas",
+          "url": "https://open.spotify.com/artist/0Y4h56wa6ocAQMbT2dAPhP"
+        },
+        {
+          "name": "Devashri",
+          "url": "https://open.spotify.com/artist/1NXRIHnvqJtwLdCrV6pGCP"
+        }
+      ],
+      "duration_ms": 199877,
+      "name": "Surangana Kiriliye",
+      "url": "https://open.spotify.com/track/35iEX7nktYAjA0HZ8pHJMF"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
       "album": {
         "name": "Math mal sena - Single",
         "url": "https://open.spotify.com/album/2tm4Ykx0XVqwMQ5Yl4WDUT"
@@ -1565,7 +1621,163 @@
       "url": "https://open.spotify.com/track/7E6wWTSb8PkNraYazUFLt7"
     },
     {
-      "added_at": "2023-07-05 07:42:06",
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Komali",
+        "url": "https://open.spotify.com/album/0ZhgkRIIvEYrYkO6YDfSCd"
+      },
+      "artists": [
+        {
+          "name": "Jagath Rasnayake",
+          "url": "https://open.spotify.com/artist/56KLHRxPSMyeryEqdaosry"
+        }
+      ],
+      "duration_ms": 184609,
+      "name": "Komali",
+      "url": "https://open.spotify.com/track/50lJqPX8a1zcYyj0M4kcuS"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Nena",
+        "url": "https://open.spotify.com/album/6bA4ykfGp5wdDPYD40bzXw"
+      },
+      "artists": [
+        {
+          "name": "Thiwanka Dilshan",
+          "url": "https://open.spotify.com/artist/3yvx0NGMRfcq8Gres1PUxx"
+        }
+      ],
+      "duration_ms": 176029,
+      "name": "Nena",
+      "url": "https://open.spotify.com/track/0WFz48as786EyNex70sOy7"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Roo Dhari",
+        "url": "https://open.spotify.com/album/4FvFHsnvIVYLPymZ4Qgr6J"
+      },
+      "artists": [
+        {
+          "name": "Dilki Uresha",
+          "url": "https://open.spotify.com/artist/2cikzwXVq83CvsKLNIwol4"
+        },
+        {
+          "name": "Eranga Madushan",
+          "url": "https://open.spotify.com/artist/4tfzk87Sr9b78DcEpmqPZp"
+        }
+      ],
+      "duration_ms": 177244,
+      "name": "Roo Dhari",
+      "url": "https://open.spotify.com/track/1OKVEavwxeIyt2zM4bGuNZ"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Dumbara Manika",
+        "url": "https://open.spotify.com/album/5xephapBRhHAIgvzmW4czY"
+      },
+      "artists": [
+        {
+          "name": "Dilshan Maduranga",
+          "url": "https://open.spotify.com/artist/4obT6DEemZ91OPuXDn8wdQ"
+        }
+      ],
+      "duration_ms": 199399,
+      "name": "Dumbara Manika",
+      "url": "https://open.spotify.com/track/2JXpQdGqv14nQcUyFGTLVa"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Iraj",
+        "url": "https://open.spotify.com/album/3eziddzZzScoO5irfm7gbE"
+      },
+      "artists": [
+        {
+          "name": "Iraj",
+          "url": "https://open.spotify.com/artist/6RoQz9twE1wPVEcFvwv7iO"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Kathirina",
+      "url": "https://open.spotify.com/track/1YQFEhlvBHaQQ387dG1YCZ"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Oba Nisa",
+        "url": "https://open.spotify.com/album/0O9qQMFwTHFtQCerzmL3DO"
+      },
+      "artists": [
+        {
+          "name": "Dinesh Gamage",
+          "url": "https://open.spotify.com/artist/6c4RrYCE1gOHAGZPJRmG2o"
+        }
+      ],
+      "duration_ms": 194973,
+      "name": "Oba Nisa",
+      "url": "https://open.spotify.com/track/5mWvTPVLykLwt33B6PuPsx"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Awathan Hade",
+        "url": "https://open.spotify.com/album/4VrMPeAWPUydlc3YksKBsj"
+      },
+      "artists": [
+        {
+          "name": "Harsha Withanage",
+          "url": "https://open.spotify.com/artist/5zVC4vxjDqpw3wqRxrLblW"
+        }
+      ],
+      "duration_ms": 262608,
+      "name": "Awathan Hade",
+      "url": "https://open.spotify.com/track/3ZLDLqcazGUTuOq2mcqXW2"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Hithana Tharam",
+        "url": "https://open.spotify.com/album/6umc3DD3LO7O3n9Wk4iHvu"
+      },
+      "artists": [
+        {
+          "name": "Gayya",
+          "url": "https://open.spotify.com/artist/1usFJ5O83nJLHBB1PWpyPP"
+        },
+        {
+          "name": "Charitha Attalage",
+          "url": "https://open.spotify.com/artist/65U1qIqriL4ZawzjoMX1QP"
+        },
+        {
+          "name": "Manasick",
+          "url": "https://open.spotify.com/artist/0WiLnjeexWpOxERDTtzC55"
+        }
+      ],
+      "duration_ms": 252678,
+      "name": "Hithana Tharam",
+      "url": "https://open.spotify.com/track/0dYXXzfBdwAOxN9UkVDplP"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
+      "album": {
+        "name": "Sri Lankan Top Chart",
+        "url": "https://open.spotify.com/album/29IsYWjeG37GwRB2VTZUOB"
+      },
+      "artists": [
+        {
+          "name": "Centigradz",
+          "url": "https://open.spotify.com/artist/0gKH2HLKS4gR21CozdoPse"
+        }
+      ],
+      "duration_ms": 225912,
+      "name": "Diurala Pawasanna",
+      "url": "https://open.spotify.com/track/0wjno8lHmDep5uhLVowoSA"
+    },
+    {
+      "added_at": "2023-07-24 11:29:15",
       "album": {
         "name": "Pawela Kodu Akase Cover",
         "url": "https://open.spotify.com/album/13ASLbqFfqXUsQokTuBoBM"
@@ -1585,23 +1797,27 @@
       "url": "https://open.spotify.com/track/0GW24FIbWpwYn5BIXCKFhR"
     },
     {
-      "added_at": "2023-07-05 07:42:06",
+      "added_at": "2023-07-24 11:29:15",
       "album": {
-        "name": "Mandakini",
-        "url": "https://open.spotify.com/album/1NPJtfIMlsJ0IPEtpRT9d7"
+        "name": "Dumbara Manika (Remix)",
+        "url": "https://open.spotify.com/album/1Pj7ZzCHoWBL9bJ4AlJHOg"
       },
       "artists": [
         {
-          "name": "Romesh Sugathapala",
-          "url": "https://open.spotify.com/artist/1e3JYUy2zWuu6afa85vG0C"
+          "name": "Dilshan Maduranga",
+          "url": "https://open.spotify.com/artist/4obT6DEemZ91OPuXDn8wdQ"
+        },
+        {
+          "name": "EVO BEATS",
+          "url": "https://open.spotify.com/artist/2D3YwelCtVLnZIoq2NlSox"
         }
       ],
-      "duration_ms": 232000,
-      "name": "Mihiravi",
-      "url": "https://open.spotify.com/track/7ooVgnzRPAGEhxXabMdUIl"
+      "duration_ms": 165198,
+      "name": "Dumbara Manika (Remix)",
+      "url": "https://open.spotify.com/track/7qND2tqTC6LfaSQIIAtiM7"
     },
     {
-      "added_at": "2023-07-05 07:42:06",
+      "added_at": "2023-07-24 11:29:15",
       "album": {
         "name": "Unuhuma",
         "url": "https://open.spotify.com/album/3K2YCxI0RRNLhYZj6K54Kq"
@@ -1617,284 +1833,20 @@
       "url": "https://open.spotify.com/track/1xgwtehcIrJmltXphW9cEd"
     },
     {
-      "added_at": "2023-07-05 07:42:06",
+      "added_at": "2023-07-24 11:29:15",
       "album": {
-        "name": "Awathan Hade",
-        "url": "https://open.spotify.com/album/4VrMPeAWPUydlc3YksKBsj"
+        "name": "Hith Ochcham",
+        "url": "https://open.spotify.com/album/46s4zoRLxIbIa3UfjOKwRH"
       },
       "artists": [
         {
-          "name": "Harsha Withanage",
-          "url": "https://open.spotify.com/artist/5zVC4vxjDqpw3wqRxrLblW"
+          "name": "Lashan Herath",
+          "url": "https://open.spotify.com/artist/2GKt5532rbjOVlrGyvVHcC"
         }
       ],
-      "duration_ms": 262608,
-      "name": "Awathan Hade",
-      "url": "https://open.spotify.com/track/3ZLDLqcazGUTuOq2mcqXW2"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Na Shoken",
-        "url": "https://open.spotify.com/album/15T63Ta9UcPUEH51Dq46RO"
-      },
-      "artists": [
-        {
-          "name": "K80",
-          "url": "https://open.spotify.com/artist/7jvKsuq2aPoiq2JXYGiOQ3"
-        },
-        {
-          "name": "SHAN PUTHA",
-          "url": "https://open.spotify.com/artist/5xniI4GjmLsnYzG7WXkGEQ"
-        },
-        {
-          "name": "Prasa Kg",
-          "url": "https://open.spotify.com/artist/3HaP9sMgQL1AheFPTrjwkB"
-        }
-      ],
-      "duration_ms": 359399,
-      "name": "Na Shoken",
-      "url": "https://open.spotify.com/track/5XxwvH8oOYZA4d1dTPycf7"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Yali Hamuwenne Kedhinadha Api",
-        "url": "https://open.spotify.com/album/63486ST8UfeU8LPcRvNhc9"
-      },
-      "artists": [
-        {
-          "name": "Piyath Rajapakse",
-          "url": "https://open.spotify.com/artist/2p59mmRUY5z4P2GGYd8a9a"
-        }
-      ],
-      "duration_ms": 168631,
-      "name": "Yali Hamuwenne Kedhinadha Api",
-      "url": "https://open.spotify.com/track/7zc9ULSvndl929EWvvGJZ8"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Nurawee",
-        "url": "https://open.spotify.com/album/7o9VkXQeL8JznotCU6iaWs"
-      },
-      "artists": [
-        {
-          "name": "Sandeep Jayalath",
-          "url": "https://open.spotify.com/artist/1YXPaC4veUevXiHXh7D41t"
-        }
-      ],
-      "duration_ms": 231836,
-      "name": "Nurawee",
-      "url": "https://open.spotify.com/track/4CcxO8JFiX6pYxXHBT7Ncs"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Komali",
-        "url": "https://open.spotify.com/album/0ZhgkRIIvEYrYkO6YDfSCd"
-      },
-      "artists": [
-        {
-          "name": "Jagath Rasnayake",
-          "url": "https://open.spotify.com/artist/56KLHRxPSMyeryEqdaosry"
-        }
-      ],
-      "duration_ms": 184609,
-      "name": "Komali",
-      "url": "https://open.spotify.com/track/50lJqPX8a1zcYyj0M4kcuS"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Iraj",
-        "url": "https://open.spotify.com/album/3eziddzZzScoO5irfm7gbE"
-      },
-      "artists": [
-        {
-          "name": "Iraj",
-          "url": "https://open.spotify.com/artist/6RoQz9twE1wPVEcFvwv7iO"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Kathirina",
-      "url": "https://open.spotify.com/track/1YQFEhlvBHaQQ387dG1YCZ"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Namal mitak",
-        "url": "https://open.spotify.com/album/4ko27S6A4omMpV5UDKYgqI"
-      },
-      "artists": [
-        {
-          "name": "Randhir",
-          "url": "https://open.spotify.com/artist/1YMDbJ09hbqy97l9YU4R08"
-        }
-      ],
-      "duration_ms": 224493,
-      "name": "Namal mitak",
-      "url": "https://open.spotify.com/track/19BNzTGIT1SXUHpjhixMUX"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Seetha Maruthe",
-        "url": "https://open.spotify.com/album/6x6Da0dnpTS30o8ecU7OCQ"
-      },
-      "artists": [
-        {
-          "name": "Ruwan Hettiarachchi",
-          "url": "https://open.spotify.com/artist/5W04KJt6WI2LpfzkMVai8B"
-        }
-      ],
-      "duration_ms": 222746,
-      "name": "Seetha Maruthe",
-      "url": "https://open.spotify.com/track/7i6qIqPKcxJafhHj1aMnld"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Aloke",
-        "url": "https://open.spotify.com/album/5YCLlmDmRfRJIwBLEkSnYw"
-      },
-      "artists": [
-        {
-          "name": "Iraj",
-          "url": "https://open.spotify.com/artist/6RoQz9twE1wPVEcFvwv7iO"
-        },
-        {
-          "name": "Samitha",
-          "url": "https://open.spotify.com/artist/4JPcKmzmWuYsqGnQE9msvj"
-        },
-        {
-          "name": "Malith",
-          "url": "https://open.spotify.com/artist/3svmJ8z3HTh8XA5LppHKXI"
-        }
-      ],
-      "duration_ms": 214786,
-      "name": "Mathaka mandira (Chanchala)",
-      "url": "https://open.spotify.com/track/1k8OGKIFLHlGkhz9Ut1xhW"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Oba Nisa",
-        "url": "https://open.spotify.com/album/0O9qQMFwTHFtQCerzmL3DO"
-      },
-      "artists": [
-        {
-          "name": "Dinesh Gamage",
-          "url": "https://open.spotify.com/artist/6c4RrYCE1gOHAGZPJRmG2o"
-        }
-      ],
-      "duration_ms": 194973,
-      "name": "Oba Nisa",
-      "url": "https://open.spotify.com/track/5mWvTPVLykLwt33B6PuPsx"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Kinduriye Nura",
-        "url": "https://open.spotify.com/album/50hUD8FmYuRBrHwvTtRgGq"
-      },
-      "artists": [
-        {
-          "name": "Dasun Madushan",
-          "url": "https://open.spotify.com/artist/1FayHtaXhMf8Ry5pEQZywZ"
-        }
-      ],
-      "duration_ms": 205808,
-      "name": "Adare Pawasala",
-      "url": "https://open.spotify.com/track/7gMgFyHlCljeJ5or13y1U2"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Hitha Dura Handa",
-        "url": "https://open.spotify.com/album/4pkbD7dhcYfQOEthicaUga"
-      },
-      "artists": [
-        {
-          "name": "Thilina Ruhunage",
-          "url": "https://open.spotify.com/artist/3uxggUmuI6OX5tcW12y7cn"
-        },
-        {
-          "name": "Athma Liyanage",
-          "url": "https://open.spotify.com/artist/5VCJFF8MGzfQI7EjbuV1nX"
-        }
-      ],
-      "duration_ms": 259078,
-      "name": "Hitha Dura Handa",
-      "url": "https://open.spotify.com/track/4cce1ePAiXbXYtirSLHk6b"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Man Thaniwama",
-        "url": "https://open.spotify.com/album/5H4irljypa0byvA5QcGMGC"
-      },
-      "artists": [
-        {
-          "name": "Dinesh Gamage",
-          "url": "https://open.spotify.com/artist/6c4RrYCE1gOHAGZPJRmG2o"
-        },
-        {
-          "name": "K2",
-          "url": "https://open.spotify.com/artist/386Cj5vLKQGSvA8nAOSp3X"
-        },
-        {
-          "name": "Manuranga Wijesekara",
-          "url": "https://open.spotify.com/artist/5TQ1Cdq1qkEVgmU0En5vxw"
-        }
-      ],
-      "duration_ms": 202864,
-      "name": "Man Thaniwama",
-      "url": "https://open.spotify.com/track/7vFDvle7b5hFMdCGxJiDNx"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Ma Ithin Yanna Yanawa",
-        "url": "https://open.spotify.com/album/04lZ6dK5I9TpzAtSbcy07g"
-      },
-      "artists": [
-        {
-          "name": "Ridma Weerawardena",
-          "url": "https://open.spotify.com/artist/03lEcjt6I9zmO8g0tJi4zT"
-        },
-        {
-          "name": "Rohana Weerasinghe",
-          "url": "https://open.spotify.com/artist/7xtH99LIfTdFERRQE7kT8z"
-        },
-        {
-          "name": "Mahiru Senarathne",
-          "url": "https://open.spotify.com/artist/3Od0SSFki2d6U1jnmoUaBC"
-        },
-        {
-          "name": "Rathna Sri Wijesinghe",
-          "url": "https://open.spotify.com/artist/57HmXUi4GvSd5QzW8HHW3u"
-        }
-      ],
-      "duration_ms": 201360,
-      "name": "Ma Ithin Yanna Yanawa",
-      "url": "https://open.spotify.com/track/2VMr0vvGBKnciZwRxDMcRJ"
-    },
-    {
-      "added_at": "2023-07-05 07:42:06",
-      "album": {
-        "name": "Boho De",
-        "url": "https://open.spotify.com/album/5pscBsQIFkm3bruaDT2LaK"
-      },
-      "artists": [
-        {
-          "name": "Yuki Navaratne",
-          "url": "https://open.spotify.com/artist/00ZpGGB5F7Ytw781Qsr1sR"
-        }
-      ],
-      "duration_ms": 241474,
-      "name": "Boho De",
-      "url": "https://open.spotify.com/track/4wAlwgiU1CuXMs1VIR2WkI"
+      "duration_ms": 210000,
+      "name": "Hith Ochcham",
+      "url": "https://open.spotify.com/track/792WeaFnWJIIEed9JnnWLW"
     }
   ],
   "unique_name": "Sinhala Pop",

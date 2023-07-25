@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-992 songs - 2 day 6 hr 9 min
+993 songs - 2 day 6 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Deep Sea \(with R3HAB\)](https://open.spotify.com/track/1txEi16dxuNGSU3VokEtOb) | [Minelli](https://open.spotify.com/artist/5T0j6On1EthT2QVNXh8vqc), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Deep Sea \(with R3HAB\)](https://open.spotify.com/album/0HB8Rsf0bLnuXmDflKcLFc) | 2:35 | 2022-07-29 | 2023-04-11 |
 | [Delilah](https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm) | [Mikolas Josef](https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR), [Mark Neve](https://open.spotify.com/artist/0JRqO4cmb3UXFw4itnYSaH) | [Delilah](https://open.spotify.com/album/1SFAJGQ2ix6WpYCPVlF1jh) | 2:21 | 2023-07-14 |  |
 | [Desire](https://open.spotify.com/track/33yWC2Sf9kdjF9T4es4y6I) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Desire](https://open.spotify.com/album/0AL99H8IKDqCqAAoraDKQH) | 2:35 | 2020-09-21\* | 2021-02-20 |
+| [Desire](https://open.spotify.com/track/1g2D7SpGbRPPXKLCly1mPc) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY) | [Desire](https://open.spotify.com/album/0iveF55RhHxTp2IB8vxoTH) | 2:39 | 2023-07-21 |  |
 | [Destination](https://open.spotify.com/track/4CiWLaMrGQ9CR5j604HyoW) | [DLMT](https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF), [Mahalo](https://open.spotify.com/artist/1SeU8Y2rEUpEoeWmUCdQIR) | [Destination](https://open.spotify.com/album/6XI1OjhyceEToQJfDRpLEC) | 3:05 | 2021-03-27 | 2021-08-07 |
 | [Devils](https://open.spotify.com/track/3jOyg77BUcPtbRtObyogTG) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Vince Freeman](https://open.spotify.com/artist/74fA5V74G5FAxND01a42is) | [Devils](https://open.spotify.com/album/32lQX81sQIEFC7Qslj46Va) | 2:38 | 2021-08-14 | 2022-03-12 |
 | [Devotion \- 2020 Remix](https://open.spotify.com/track/039VxfSo5FErqE65169VZL) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf), [Fafaq](https://open.spotify.com/artist/0EK2nCt5jxbkN2HCmtKy4V) | [Devotion \(2020 Remix\)](https://open.spotify.com/album/7IEKWKox1xVi1tlUyWnHHk) | 2:32 | 2020-12-18 | 2021-09-11 |
@@ -998,7 +999,7 @@
 | [Your Body](https://open.spotify.com/track/4A9kMqwijHsdsnkoluwkoJ) | [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh), [Nitti Gritti](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk) | [Your Body](https://open.spotify.com/album/4nwu5zKNGEcHWzoZOezBJ3) | 2:37 | 2021-08-07 | 2022-03-12 |
 | [Your Last Memory](https://open.spotify.com/track/6k0EQrSaXxzbmRoN05XynY) | [Bentley Dean](https://open.spotify.com/artist/2yazcd9mOGErgHm7VaBaNT) | [Inside My Mind](https://open.spotify.com/album/3whDfc8PCL2yzRN0oMwfO6) | 4:22 | 2020-09-21\* | 2020-10-10 |
 | [Your Love \(9PM\)](https://open.spotify.com/track/5YaskwnGDZFDRipaqzbwQx) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Your Love \(9PM\)](https://open.spotify.com/album/7F9yYqHRtIZnEGF2tANI4b) | 2:30 | 2021-01-23 | 2021-08-07 |
-| [Your Mind Is Dirty](https://open.spotify.com/track/0Ykdq9BLJqxLmEGobCkaix) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Your Mind Is Dirty](https://open.spotify.com/album/2CAWKp11LNJGtt3ROH1XsR) | 3:18 | 2023-06-09 |  |
+| [Your Mind Is Dirty](https://open.spotify.com/track/0Ykdq9BLJqxLmEGobCkaix) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Your Mind Is Dirty](https://open.spotify.com/album/2CAWKp11LNJGtt3ROH1XsR) | 3:18 | 2023-06-09 | 2023-07-25 |
 | [Your Tongue](https://open.spotify.com/track/00WQxluVREF12JZkKWvio4) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [Your Tongue](https://open.spotify.com/album/6UKVwQpP25N2sMC37kN8Hz) | 2:37 | 2022-04-01 | 2022-06-22 |
 
 \*This playlist was first scraped on 2020-09-21. Prior content cannot be recovered.

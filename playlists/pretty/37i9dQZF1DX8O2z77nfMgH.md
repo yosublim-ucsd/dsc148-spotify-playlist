@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Música nueva de toda la región\. Foto: Wisin, Jowell & Randy
 
-[Spotify](https://open.spotify.com/user/spotify) - 936,926 likes - 65 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 936,986 likes - 65 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 64 | [Não Deixa Eu Saber](https://open.spotify.com/track/4C1zrTdEYE55CfWuYlYZ28) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5), [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Não Deixa Eu Saber](https://open.spotify.com/album/4VLUQTD9p8yXgqnS8oBqN3) | 3:05 |
 | 65 | [Toca o Trompete](https://open.spotify.com/track/54u86CmMqGI1rRuULlTqaB) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [Cadê o After? Pt\. 1](https://open.spotify.com/album/4Vy1Rn4htx3L0ojjaeePww) | 2:43 |
 
-Snapshot ID: `MCwwMTJkMmMwMDliMmE5MWM5Y2VlZGU3MmYyZTcwN2FjZDM4Yjc2ZGM0`
+Snapshot ID: `MCw2MDhhNWNkN2JmMjcyNWQ0YWE2NjMzNjY2ZDdmYWNlMTQyNDgyY2Vh`

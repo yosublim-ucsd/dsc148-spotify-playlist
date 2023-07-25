@@ -24,10 +24,36 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 243954,
       "name": "305",
       "url": "https://open.spotify.com/track/4L5ExFknSOS7ZN3RFUUy2p"
+    },
+    {
+      "album": {
+        "name": "305",
+        "url": "https://open.spotify.com/album/1al69Guh5GCnfuuFxTpZXa"
+      },
+      "artists": [
+        {
+          "name": "MOSKA",
+          "url": "https://open.spotify.com/artist/1rVo9h17cHhWerDiZj0yXH"
+        },
+        {
+          "name": "Happy Face",
+          "url": "https://open.spotify.com/artist/0ED4nwCVzVNO4epxO86cOR"
+        },
+        {
+          "name": "MelyMel",
+          "url": "https://open.spotify.com/artist/4tM8sp8yDce3Km1pYHQb6Y"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243954,
+      "name": "305",
+      "url": "https://open.spotify.com/track/4a6WhZfqxLyV0Cd6EwLspC"
     },
     {
       "album": {
@@ -58,6 +84,28 @@
     {
       "album": {
         "name": "Amor en la Playa",
+        "url": "https://open.spotify.com/album/4vqGhRDHwCslPAP983rk78"
+      },
+      "artists": [
+        {
+          "name": "Dr. Stev",
+          "url": "https://open.spotify.com/artist/52wcA7uQEIW0jVqgd6DvUf"
+        },
+        {
+          "name": "Erika Perdomo",
+          "url": "https://open.spotify.com/artist/2Jb4ROzv0sYIJfm9D38tlf"
+        }
+      ],
+      "date_added": "2023-01-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234843,
+      "name": "Amor en la Playa",
+      "url": "https://open.spotify.com/track/4OHNBsIbM33o4BfDh29o1s"
+    },
+    {
+      "album": {
+        "name": "Amor en la Playa",
         "url": "https://open.spotify.com/album/0I3VQaK9LSkAdI4l73cHpe"
       },
       "artists": [
@@ -72,7 +120,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 234843,
       "name": "Amor en la Playa",
       "url": "https://open.spotify.com/track/7AGyPaTqoFSExT0YAybdgV"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Mau y Ricky & La Joaqui
 
-[Spotify](https://open.spotify.com/user/spotify) - 571,616 likes - 55 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 571,715 likes - 57 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,13 +55,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 45 | [UnoDoce](https://open.spotify.com/track/70xUEwLN1ueqTebmEEth50) | [ALOISIO](https://open.spotify.com/artist/5kY3nTdGsS4deOS46Auy6U) | [UnoDoce](https://open.spotify.com/album/2FXkHYPtMxXJXSzVvBYCbd) | 1:13 |
 | 46 | [El Gato](https://open.spotify.com/track/6xElr6S76SUqI3bXB3SAyA) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [El Gato](https://open.spotify.com/album/1BybwpuGsonqX5Xhq3M9CS) | 3:11 |
 | 47 | [COCO](https://open.spotify.com/track/2uAj0NnXZtKkU6puYwqJpN) | [DEEIKEL](https://open.spotify.com/artist/4ct2cBBso7eggPi2Qcjwbi) | [COCO](https://open.spotify.com/album/6CQJFxGwEMSreu8Gq7EjJ2) | 1:52 |
-| 48 | [Te Escogería a Ti](https://open.spotify.com/track/2YqtfoRTJhb3vdmn78gtXV) | [Tanatox](https://open.spotify.com/artist/0a2CIoGIYHjQpmnsGL1vk6) | [Te Escogería a Ti](https://open.spotify.com/album/7guLgew1107yP72cDip88A) | 3:27 |
-| 49 | [Conversaciones](https://open.spotify.com/track/50f92jK2DgwABH9wq7Oee2) | [Remers](https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb), [Bassyy](https://open.spotify.com/artist/61WAImpfuhK7Ymzctrk0Au) | [Conversaciones](https://open.spotify.com/album/3FxoMCIPgPFWcBDkUrjAFF) | 2:44 |
-| 50 | [Alguien](https://open.spotify.com/track/1LlpsZ4SPhFHOuxUbQDJ7C) | [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA) | [Alguien](https://open.spotify.com/album/2kKFoJ6V8vToRSgZLszdkd) | 2:36 |
-| 51 | [Eclipse](https://open.spotify.com/track/0fGNKSW2BTa2AytRheXuDw) | [JACE Carrillo](https://open.spotify.com/artist/3SkH0TcPc8cxGospxnjClx), [Alyko](https://open.spotify.com/artist/6LgOFiGZVIUExt48t3hpWd) | [Eclipse](https://open.spotify.com/album/69G45JAMGjkJbgEzOyDIvW) | 2:38 |
-| 52 | [Helado](https://open.spotify.com/track/4Xt4fsb5et5RbgYlpNWlSg) | [Juan Rached](https://open.spotify.com/artist/7w9jqn7Maks8umHJEnEUsM), [Antonio Amor](https://open.spotify.com/artist/3sdhE3P837YcWdHSe67KcS) | [Helado](https://open.spotify.com/album/7DjhY1wDaIydWWcUmXSmwo) | 2:51 |
-| 53 | [Se Acaba](https://open.spotify.com/track/7FCvwds9Prp18YA3zYjeoT) | [Adrie](https://open.spotify.com/artist/4RuSib7ZtJd4SI61XGkCto) | [Se Acaba](https://open.spotify.com/album/5HQdNPcwZb1Rxe95vxEIdt) | 2:33 |
-| 54 | [SKB](https://open.spotify.com/track/6gXpd9hQ2nBKlfCFBDQHsF) | [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ) | [SKB](https://open.spotify.com/album/45Y4FneTtW9gZYhd98Sunp) | 3:38 |
-| 55 | [mosquito bite](https://open.spotify.com/track/6NvzOBxtfxg9EYo2QDfzho) | [George Arthur Calendar](https://open.spotify.com/artist/79W4JcW6IfUtgzPWs3Ubem) | [mosquito bite](https://open.spotify.com/album/2P9wgcJCaoDmKOhmKblaaS) | 3:24 |
+| 48 | [VEN VEN](https://open.spotify.com/track/6nEECusf3D3cutpvoGtpyL) | [Darho](https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq) | [VEN VEN](https://open.spotify.com/album/7noLLrkePRQ20CJnyFn1Wr) | 2:46 |
+| 49 | [Te Escogería a Ti](https://open.spotify.com/track/2YqtfoRTJhb3vdmn78gtXV) | [Tanatox](https://open.spotify.com/artist/0a2CIoGIYHjQpmnsGL1vk6) | [Te Escogería a Ti](https://open.spotify.com/album/7guLgew1107yP72cDip88A) | 3:27 |
+| 50 | [Conversaciones](https://open.spotify.com/track/50f92jK2DgwABH9wq7Oee2) | [Remers](https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb), [Bassyy](https://open.spotify.com/artist/61WAImpfuhK7Ymzctrk0Au) | [Conversaciones](https://open.spotify.com/album/3FxoMCIPgPFWcBDkUrjAFF) | 2:44 |
+| 51 | [Alguien](https://open.spotify.com/track/1LlpsZ4SPhFHOuxUbQDJ7C) | [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA) | [Alguien](https://open.spotify.com/album/2kKFoJ6V8vToRSgZLszdkd) | 2:36 |
+| 52 | [Eclipse](https://open.spotify.com/track/0fGNKSW2BTa2AytRheXuDw) | [JACE Carrillo](https://open.spotify.com/artist/3SkH0TcPc8cxGospxnjClx), [Alyko](https://open.spotify.com/artist/6LgOFiGZVIUExt48t3hpWd) | [Eclipse](https://open.spotify.com/album/69G45JAMGjkJbgEzOyDIvW) | 2:38 |
+| 53 | [Helado](https://open.spotify.com/track/4Xt4fsb5et5RbgYlpNWlSg) | [Juan Rached](https://open.spotify.com/artist/7w9jqn7Maks8umHJEnEUsM), [Antonio Amor](https://open.spotify.com/artist/3sdhE3P837YcWdHSe67KcS) | [Helado](https://open.spotify.com/album/7DjhY1wDaIydWWcUmXSmwo) | 2:51 |
+| 54 | [Se Acaba](https://open.spotify.com/track/7FCvwds9Prp18YA3zYjeoT) | [Adrie](https://open.spotify.com/artist/4RuSib7ZtJd4SI61XGkCto) | [Se Acaba](https://open.spotify.com/album/5HQdNPcwZb1Rxe95vxEIdt) | 2:33 |
+| 55 | [SKB](https://open.spotify.com/track/6gXpd9hQ2nBKlfCFBDQHsF) | [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ) | [SKB](https://open.spotify.com/album/45Y4FneTtW9gZYhd98Sunp) | 3:38 |
+| 56 | [mosquito bite](https://open.spotify.com/track/6NvzOBxtfxg9EYo2QDfzho) | [George Arthur Calendar](https://open.spotify.com/artist/79W4JcW6IfUtgzPWs3Ubem) | [mosquito bite](https://open.spotify.com/album/2P9wgcJCaoDmKOhmKblaaS) | 3:24 |
+| 57 | [La Vuelta](https://open.spotify.com/track/0bRVUjuxbJSobty6cK6V8F) | [Manuel La Joya](https://open.spotify.com/artist/69o2LUrX032mHuCEAxSB6P) | [La Vuelta](https://open.spotify.com/album/6QIsSRlTsS4OVEkKFzVbJx) | 2:43 |
 
-Snapshot ID: `MCw1OTVjYmFjN2U0MGQxOTRlZTg0NTNlNDY5YjBjYTUwMzQ3ZGUyNzQx`
+Snapshot ID: `MCw5ZGIyODlkZGNlY2M0M2VmN2ZkZGRmZTViZjNkZGE5NzdlYWVhZmYw`

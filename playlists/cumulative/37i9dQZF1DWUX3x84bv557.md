@@ -4,7 +4,7 @@
 
 > Nieuwe Nederlandstalige hits vind je hier! Cover: Tabitha & Jonna Fraser
 
-269 songs - 13 hr 0 min
+270 songs - 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Als Alles Wegvalt](https://open.spotify.com/track/4dcu7nIDBIYVDFXWtd5cf1) | [Glen Faria](https://open.spotify.com/artist/0O0Hr8JCTPqXyPLdN6kzdC) | [Als Alles Wegvalt](https://open.spotify.com/album/6gdAvpnRN6VPdknvgSNyID) | 3:26 | 2023-04-13 |  |
 | [Als Geen Ander](https://open.spotify.com/track/1QzzCEcKxcELzdJcHpinQ6) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e), [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Als Geen Ander](https://open.spotify.com/album/68ObzZyYcFZOO1NdiQlFSP) | 3:30 | 2023-02-23 | 2023-03-10 |
 | [Als Ik God Was](https://open.spotify.com/track/2MZrYnUf8qYIDuKaQeH5u8) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Als Ik God Was](https://open.spotify.com/album/3nqQbZABmtHrz6T7coZ4QG) | 2:52 | 2023-02-23 | 2023-04-28 |
-| [Als Ik Haar Was](https://open.spotify.com/track/5IBW1Rni8F0CRSCuHQhVRr) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Echte Meisjes Huilen Niet \(Als Ik Haar Was\)](https://open.spotify.com/album/1p2rvLp5vQklvWRDttx17I) | 2:45 | 2023-07-10 |  |
+| [Als Ik Haar Was](https://open.spotify.com/track/0mOdv3w3W9ZkAsTmlJ3rUs) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Echte Meisjes Huilen Niet](https://open.spotify.com/album/2RcaeG5ATd0CwPLNcYuTMx) | 2:45 | 2023-07-20 |  |
+| [Als Ik Haar Was](https://open.spotify.com/track/5IBW1Rni8F0CRSCuHQhVRr) | [Sigourney K](https://open.spotify.com/artist/0JgazfmeUqlV0HSXvs7kvj) | [Echte Meisjes Huilen Niet \(Als Ik Haar Was\)](https://open.spotify.com/album/1p2rvLp5vQklvWRDttx17I) | 2:45 | 2023-07-10 | 2023-07-25 |
 | [Als Ik Met De Wind Kon Dansen](https://open.spotify.com/track/09fw5Vabe6GDAdiZgkVxPE) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Als Ik Met De Wind Kon Dansen](https://open.spotify.com/album/5CIzpyQn84ju4CbgwLHAIh) | 2:49 | 2023-02-23 | 2023-04-28 |
 | [Als Je Haar Ziet](https://open.spotify.com/track/60JWfBfFzHeZWoQBE6rLwW) | [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV) | [Als Je Haar Ziet](https://open.spotify.com/album/6cAw10hJOgG4ovnIsikgl5) | 4:19 | 2023-03-16 | 2023-05-12 |
 | [Als Je Me Kwijt Bent](https://open.spotify.com/track/3b4x1jEdKCLioVPZbphndQ) | [Ben Forte](https://open.spotify.com/artist/0W1IlzwhrQJcdagiDZhrz7) | [Als Je Me Kwijt Bent](https://open.spotify.com/album/4cJvlN6leu2QgK7FJ2N7kF) | 4:00 | 2023-07-20 |  |

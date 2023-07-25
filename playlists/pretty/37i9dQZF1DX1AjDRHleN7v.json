@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 275956,
+  "num_followers": 275993,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNmIyZTFiZDA4Y2JkYWZhYWUxMzA3MDMzNTVhNzllYmMzY2VjMzJk",
+  "snapshot_id": "MCwwM2JiNjI3ZTQwOGRiOTdkZjZhMWU1MTJlNjI2NDk0Y2YxYjYyNTM5",
   "tracks": [
     {
       "added_at": "2023-07-21 03:01:00",
@@ -343,22 +343,6 @@
     {
       "added_at": "2023-07-21 03:01:00",
       "album": {
-        "name": "Fugir Com o Sol (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3bsGrxytQaqdDDoBDipGAP"
-      },
-      "artists": [
-        {
-          "name": "Oriente",
-          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
-        }
-      ],
-      "duration_ms": 195918,
-      "name": "Fugir Com o Sol - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/32HSy2asY8z7qd0mGUgenI"
-    },
-    {
-      "added_at": "2023-07-21 03:01:00",
-      "album": {
         "name": "Look For The Good (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2KRilDRNGoK60NM5gXfF63"
       },
@@ -407,26 +391,6 @@
     {
       "added_at": "2023-07-21 03:01:00",
       "album": {
-        "name": "TROPICALIA",
-        "url": "https://open.spotify.com/album/2Kx09C96ugvfDpiE2cfeMp"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        },
-        {
-          "name": "Big Mountain",
-          "url": "https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH"
-        }
-      ],
-      "duration_ms": 227294,
-      "name": "Love So Strong",
-      "url": "https://open.spotify.com/track/70oUkZVnH2WQWaNZ8zwn8p"
-    },
-    {
-      "added_at": "2023-07-21 03:01:00",
-      "album": {
         "name": "Positiva",
         "url": "https://open.spotify.com/album/1Jx0BnQVqn5jXMA2LVJzTd"
       },
@@ -439,6 +403,22 @@
       "duration_ms": 150280,
       "name": "Positiva",
       "url": "https://open.spotify.com/track/33U3Gmoy3PzawWRSXujlrk"
+    },
+    {
+      "added_at": "2023-07-21 03:01:00",
+      "album": {
+        "name": "Fugir Com o Sol (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3bsGrxytQaqdDDoBDipGAP"
+      },
+      "artists": [
+        {
+          "name": "Oriente",
+          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
+        }
+      ],
+      "duration_ms": 195918,
+      "name": "Fugir Com o Sol - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/32HSy2asY8z7qd0mGUgenI"
     },
     {
       "added_at": "2023-07-21 03:01:00",
@@ -499,6 +479,26 @@
     {
       "added_at": "2023-07-21 03:01:00",
       "album": {
+        "name": "TROPICALIA",
+        "url": "https://open.spotify.com/album/2Kx09C96ugvfDpiE2cfeMp"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        },
+        {
+          "name": "Big Mountain",
+          "url": "https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH"
+        }
+      ],
+      "duration_ms": 227294,
+      "name": "Love So Strong",
+      "url": "https://open.spotify.com/track/70oUkZVnH2WQWaNZ8zwn8p"
+    },
+    {
+      "added_at": "2023-07-21 03:01:00",
+      "album": {
         "name": "Na Positiva",
         "url": "https://open.spotify.com/album/6CDNIF3HiM0fBmJuzsEoPR"
       },
@@ -535,6 +535,22 @@
     {
       "added_at": "2023-07-21 03:01:00",
       "album": {
+        "name": "Santa Terra",
+        "url": "https://open.spotify.com/album/75Z8oFAjxXrGABH4URez3B"
+      },
+      "artists": [
+        {
+          "name": "Qback",
+          "url": "https://open.spotify.com/artist/6Uvbaff54Nvzomm1kQLX8q"
+        }
+      ],
+      "duration_ms": 276509,
+      "name": "Santa Terra",
+      "url": "https://open.spotify.com/track/0yjWotYZzx2xrW2SxTZyeG"
+    },
+    {
+      "added_at": "2023-07-21 03:01:00",
+      "album": {
         "name": "Melhor Assunto (Bus Live Session)",
         "url": "https://open.spotify.com/album/5kNBIykzFFamaBRteogvJG"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 163311,
       "name": "Melhor Assunto - Bus Live Session",
       "url": "https://open.spotify.com/track/7xva0maR5No7LbH70UEj5M"
-    },
-    {
-      "added_at": "2023-07-21 03:01:00",
-      "album": {
-        "name": "Santa Terra",
-        "url": "https://open.spotify.com/album/75Z8oFAjxXrGABH4URez3B"
-      },
-      "artists": [
-        {
-          "name": "Qback",
-          "url": "https://open.spotify.com/artist/6Uvbaff54Nvzomm1kQLX8q"
-        }
-      ],
-      "duration_ms": 276509,
-      "name": "Santa Terra",
-      "url": "https://open.spotify.com/track/0yjWotYZzx2xrW2SxTZyeG"
     },
     {
       "added_at": "2023-07-21 03:01:00",
@@ -943,26 +943,6 @@
     {
       "added_at": "2023-07-21 03:01:00",
       "album": {
-        "name": "Volta pra Casa.",
-        "url": "https://open.spotify.com/album/4LhRECtSYSozf5WQTYTZ8c"
-      },
-      "artists": [
-        {
-          "name": "Dom Vinera",
-          "url": "https://open.spotify.com/artist/6cbcX5qJMGAjqiQmpoKhhx"
-        },
-        {
-          "name": "Mariii Batista",
-          "url": "https://open.spotify.com/artist/1hpaqFjce9vQVa4Bre9Wve"
-        }
-      ],
-      "duration_ms": 219980,
-      "name": "Volta pra Casa.",
-      "url": "https://open.spotify.com/track/57DFFCpq1UjzTdD0yEOq4I"
-    },
-    {
-      "added_at": "2023-07-21 03:01:00",
-      "album": {
         "name": "Cardeal",
         "url": "https://open.spotify.com/album/6hqXlThpyF5IUy3PMtPwm3"
       },
@@ -979,18 +959,22 @@
     {
       "added_at": "2023-07-21 03:01:00",
       "album": {
-        "name": "sei l\u00e1",
-        "url": "https://open.spotify.com/album/3RIB8BEpinwrq093EmVt8h"
+        "name": "Volta pra Casa.",
+        "url": "https://open.spotify.com/album/4LhRECtSYSozf5WQTYTZ8c"
       },
       "artists": [
         {
-          "name": "Jambu",
-          "url": "https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX"
+          "name": "Dom Vinera",
+          "url": "https://open.spotify.com/artist/6cbcX5qJMGAjqiQmpoKhhx"
+        },
+        {
+          "name": "Mariii Batista",
+          "url": "https://open.spotify.com/artist/1hpaqFjce9vQVa4Bre9Wve"
         }
       ],
-      "duration_ms": 192446,
-      "name": "sei l\u00e1",
-      "url": "https://open.spotify.com/track/1qZnStNVnb35sjENUA4G3B"
+      "duration_ms": 219980,
+      "name": "Volta pra Casa.",
+      "url": "https://open.spotify.com/track/57DFFCpq1UjzTdD0yEOq4I"
     },
     {
       "added_at": "2023-07-21 03:01:00",
@@ -1019,18 +1003,18 @@
     {
       "added_at": "2023-07-21 03:01:00",
       "album": {
-        "name": "Cai\u00e7ara",
-        "url": "https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK"
+        "name": "sei l\u00e1",
+        "url": "https://open.spotify.com/album/3RIB8BEpinwrq093EmVt8h"
       },
       "artists": [
         {
-          "name": "Vitti Romera",
-          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
+          "name": "Jambu",
+          "url": "https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX"
         }
       ],
-      "duration_ms": 174622,
-      "name": "Cai\u00e7ara",
-      "url": "https://open.spotify.com/track/348fxaFJRVpt775GjR31aM"
+      "duration_ms": 192446,
+      "name": "sei l\u00e1",
+      "url": "https://open.spotify.com/track/1qZnStNVnb35sjENUA4G3B"
     },
     {
       "added_at": "2023-07-21 03:01:00",
@@ -1059,18 +1043,18 @@
     {
       "added_at": "2023-07-21 03:01:00",
       "album": {
-        "name": "Corri Demais",
-        "url": "https://open.spotify.com/album/4Dlj7HusLNSwUWS2URvZIV"
+        "name": "Cai\u00e7ara",
+        "url": "https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK"
       },
       "artists": [
         {
-          "name": "Cau\u00ea Castro",
-          "url": "https://open.spotify.com/artist/5lAz5CTHn1cuYROHKmoAvB"
+          "name": "Vitti Romera",
+          "url": "https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk"
         }
       ],
-      "duration_ms": 178470,
-      "name": "Corri Demais",
-      "url": "https://open.spotify.com/track/4g1YmClJHZJKdPgZkaXKzo"
+      "duration_ms": 174622,
+      "name": "Cai\u00e7ara",
+      "url": "https://open.spotify.com/track/348fxaFJRVpt775GjR31aM"
     },
     {
       "added_at": "2023-07-21 03:01:00",
@@ -1087,6 +1071,22 @@
       "duration_ms": 282560,
       "name": "Abre a Janela",
       "url": "https://open.spotify.com/track/1BpohBNMRmbD2mbm1Z0PBZ"
+    },
+    {
+      "added_at": "2023-07-21 03:01:00",
+      "album": {
+        "name": "Corri Demais",
+        "url": "https://open.spotify.com/album/4Dlj7HusLNSwUWS2URvZIV"
+      },
+      "artists": [
+        {
+          "name": "Cau\u00ea Castro",
+          "url": "https://open.spotify.com/artist/5lAz5CTHn1cuYROHKmoAvB"
+        }
+      ],
+      "duration_ms": 178470,
+      "name": "Corri Demais",
+      "url": "https://open.spotify.com/track/4g1YmClJHZJKdPgZkaXKzo"
     }
   ],
   "unique_name": "Praiana",

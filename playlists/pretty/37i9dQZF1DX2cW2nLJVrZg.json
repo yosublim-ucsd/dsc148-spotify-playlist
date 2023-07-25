@@ -1,12 +1,12 @@
 {
   "description": "Nominees \u2014 and past winners \u2014 from the 95th annual event celebrating Hollywood's brightest stars.",
-  "num_followers": 267793,
+  "num_followers": 267775,
   "original_name": "Hollywood's Big Night",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzQwM2YyZGNmN2Y5NTUzMDM4YjQyMjFhMjg1MzkzYmMyMzBhZDI1",
+  "snapshot_id": "MCw0OWM4ZmM4MGJmZGU3ZDkwZTYxYWJhMjY5YmEyNzFiNGM4OWU1YjMw",
   "tracks": [
     {
       "added_at": "2023-03-13 02:59:21",
@@ -643,26 +643,6 @@
     {
       "added_at": "2023-03-13 02:59:21",
       "album": {
-        "name": "The Lion King",
-        "url": "https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd"
-      },
-      "artists": [
-        {
-          "name": "Hans Zimmer",
-          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
-        },
-        {
-          "name": "Lebo M.",
-          "url": "https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA"
-        }
-      ],
-      "duration_ms": 225266,
-      "name": "Under the Stars - From \"The Lion King\"/Score",
-      "url": "https://open.spotify.com/track/37lotBTQcBbYI7vEoGsOfg"
-    },
-    {
-      "added_at": "2023-03-13 02:59:21",
-      "album": {
         "name": "Glory (From the Motion Picture Selma)",
         "url": "https://open.spotify.com/album/3cZ3dS7ogHb55sWjVzaBnx"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 250773,
       "name": "(I'm Gonna) Love Me Again",
       "url": "https://open.spotify.com/track/1q8lLOgfciaGLwXCvOpH6w"
+    },
+    {
+      "added_at": "2023-03-13 02:59:21",
+      "album": {
+        "name": "The Lion King",
+        "url": "https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd"
+      },
+      "artists": [
+        {
+          "name": "Hans Zimmer",
+          "url": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+        },
+        {
+          "name": "Lebo M.",
+          "url": "https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA"
+        }
+      ],
+      "duration_ms": 225266,
+      "name": "Under the Stars - From \"The Lion King\"/Score",
+      "url": "https://open.spotify.com/track/37lotBTQcBbYI7vEoGsOfg"
     },
     {
       "added_at": "2023-03-13 02:59:21",
@@ -843,6 +843,22 @@
     {
       "added_at": "2023-03-13 02:59:21",
       "album": {
+        "name": "The Essential Henry Mancini",
+        "url": "https://open.spotify.com/album/70Qq0MrNWfFyQlVAxZh7LE"
+      },
+      "artists": [
+        {
+          "name": "Henry Mancini",
+          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+        }
+      ],
+      "duration_ms": 160693,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/4BjVSvKAfQA4CncucM2Aa9"
+    },
+    {
+      "added_at": "2023-03-13 02:59:21",
+      "album": {
         "name": "Evita: The Complete Motion Picture Music Soundtrack",
         "url": "https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 222573,
       "name": "The Shape Of Water",
       "url": "https://open.spotify.com/track/2VzJH2QeNO1PiZwXZMvx7g"
-    },
-    {
-      "added_at": "2023-03-13 02:59:21",
-      "album": {
-        "name": "The Essential Henry Mancini",
-        "url": "https://open.spotify.com/album/70Qq0MrNWfFyQlVAxZh7LE"
-      },
-      "artists": [
-        {
-          "name": "Henry Mancini",
-          "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
-        }
-      ],
-      "duration_ms": 160693,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/4BjVSvKAfQA4CncucM2Aa9"
     },
     {
       "added_at": "2023-03-13 02:59:21",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-03-13 02:59:21",
       "album": {
+        "name": "I'm Breathless",
+        "url": "https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 200160,
+      "name": "Sooner or Later",
+      "url": "https://open.spotify.com/track/0QLuoNpyzXMcCLfVtFScE2"
+    },
+    {
+      "added_at": "2023-03-13 02:59:21",
+      "album": {
         "name": "John Williams: At the Movies",
         "url": "https://open.spotify.com/album/3BRxBWpUZ9yerHGn1nY1Mr"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 225066,
       "name": "E.T.: Flying Theme",
       "url": "https://open.spotify.com/track/3lK9mpcQfPLMn2GhiOGSTG"
-    },
-    {
-      "added_at": "2023-03-13 02:59:21",
-      "album": {
-        "name": "I'm Breathless",
-        "url": "https://open.spotify.com/album/38nngL1nidjNYdHvJ3xJED"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 200160,
-      "name": "Sooner or Later",
-      "url": "https://open.spotify.com/track/0QLuoNpyzXMcCLfVtFScE2"
     },
     {
       "added_at": "2023-03-13 02:59:21",

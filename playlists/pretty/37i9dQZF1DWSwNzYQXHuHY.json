@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 7851,
+  "num_followers": 7855,
   "original_name": "\uc378",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNGQwMmQ0ZjUyNmFlYTNlMWU5YTQ3NGFiMjg5MTZiMGUxMDU0MWYw",
+  "snapshot_id": "MCxiODQ4ZDdiMDczYjZjYTE4MDMzMDdlNjkwMDQ5ZjdlZDFjZTI4NTNl",
   "tracks": [
     {
       "added_at": "2023-07-17 06:18:36",
@@ -151,22 +151,6 @@
     {
       "added_at": "2023-07-17 06:18:36",
       "album": {
-        "name": "Love, Maybe (A Business Proposal OST Bonus Track)",
-        "url": "https://open.spotify.com/album/7I3EMy3n72e6ABSq4Ubhoz"
-      },
-      "artists": [
-        {
-          "name": "KIMSEJEONG",
-          "url": "https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu"
-        }
-      ],
-      "duration_ms": 171680,
-      "name": "Love, Maybe (Acoustic Ver.)",
-      "url": "https://open.spotify.com/track/3V2fMXzPJLkIQyRgwOLgip"
-    },
-    {
-      "added_at": "2023-07-17 06:18:36",
-      "album": {
         "name": "The Hyena on the Keyboard, Pt. 4",
         "url": "https://open.spotify.com/album/50dXh98sRsMOrf9D5QMb77"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 231654,
       "name": "Don\u2019t",
       "url": "https://open.spotify.com/track/4MidkNeonif4PcWSjkwOb7"
+    },
+    {
+      "added_at": "2023-07-17 06:18:36",
+      "album": {
+        "name": "Love, Maybe (A Business Proposal OST Bonus Track)",
+        "url": "https://open.spotify.com/album/7I3EMy3n72e6ABSq4Ubhoz"
+      },
+      "artists": [
+        {
+          "name": "KIMSEJEONG",
+          "url": "https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu"
+        }
+      ],
+      "duration_ms": 171680,
+      "name": "Love, Maybe (Acoustic Ver.)",
+      "url": "https://open.spotify.com/track/3V2fMXzPJLkIQyRgwOLgip"
     },
     {
       "added_at": "2023-07-17 06:18:36",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-07-17 06:18:36",
       "album": {
-        "name": "Sequence : 7272",
-        "url": "https://open.spotify.com/album/7gUINtQDM7WsXmrmRB8GGo"
-      },
-      "artists": [
-        {
-          "name": "CSR",
-          "url": "https://open.spotify.com/artist/06MX3Ecb8PHyNFmq8irTWC"
-        }
-      ],
-      "duration_ms": 215346,
-      "name": "Pop? Pop!",
-      "url": "https://open.spotify.com/track/3YN1BTbPyHC4h05Bw3u2g9"
-    },
-    {
-      "added_at": "2023-07-17 06:18:36",
-      "album": {
         "name": "START-UP (Original Television Soundtrack) Pt. 6",
         "url": "https://open.spotify.com/album/4D3ygcJ5f0tM0Bb7p3ECbu"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 190746,
       "name": "Who?",
       "url": "https://open.spotify.com/track/18LJbCkas0JWVIrSWsnucr"
+    },
+    {
+      "added_at": "2023-07-17 06:18:36",
+      "album": {
+        "name": "Sequence : 7272",
+        "url": "https://open.spotify.com/album/7gUINtQDM7WsXmrmRB8GGo"
+      },
+      "artists": [
+        {
+          "name": "CSR",
+          "url": "https://open.spotify.com/artist/06MX3Ecb8PHyNFmq8irTWC"
+        }
+      ],
+      "duration_ms": 215346,
+      "name": "Pop? Pop!",
+      "url": "https://open.spotify.com/track/3YN1BTbPyHC4h05Bw3u2g9"
     },
     {
       "added_at": "2023-07-17 06:18:36",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-07-17 06:18:36",
       "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/6bj3FAvqE5M3tfANem3X08"
-      },
-      "artists": [
-        {
-          "name": "Jukjae",
-          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
-        }
-      ],
-      "duration_ms": 189093,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/3B4AOfW6nDbCPb1pIEczJQ"
-    },
-    {
-      "added_at": "2023-07-17 06:18:36",
-      "album": {
         "name": "3rd Digital Single 'Not In Public'",
         "url": "https://open.spotify.com/album/4LX6PAK8lwgaKtC00wFGcy"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 171560,
       "name": "Not In Public",
       "url": "https://open.spotify.com/track/6WQE9m9BhyKcsXZXWeGBqD"
+    },
+    {
+      "added_at": "2023-07-17 06:18:36",
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/6bj3FAvqE5M3tfANem3X08"
+      },
+      "artists": [
+        {
+          "name": "Jukjae",
+          "url": "https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U"
+        }
+      ],
+      "duration_ms": 189093,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/3B4AOfW6nDbCPb1pIEczJQ"
     },
     {
       "added_at": "2023-07-17 06:18:36",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-07-17 06:18:36",
       "album": {
-        "name": "Kakao Webtoon \u3008Since I Met You\u3009 OST Part.1",
-        "url": "https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7"
-      },
-      "artists": [
-        {
-          "name": "MOONBIN&SANHA(ASTRO)",
-          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
-        }
-      ],
-      "duration_ms": 212493,
-      "name": "Dive into you",
-      "url": "https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4"
-    },
-    {
-      "added_at": "2023-07-17 06:18:36",
-      "album": {
         "name": "The One and Only, Pt. 4 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/53JUFGKYYyfhlHXMRirdIB"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 225133,
       "name": "Your name",
       "url": "https://open.spotify.com/track/0gblvM8zgTe3d4WSYeamBI"
+    },
+    {
+      "added_at": "2023-07-17 06:18:36",
+      "album": {
+        "name": "Kakao Webtoon \u3008Since I Met You\u3009 OST Part.1",
+        "url": "https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7"
+      },
+      "artists": [
+        {
+          "name": "MOONBIN&SANHA(ASTRO)",
+          "url": "https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h"
+        }
+      ],
+      "duration_ms": 212493,
+      "name": "Dive into you",
+      "url": "https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4"
     }
   ],
   "unique_name": "\uc378",

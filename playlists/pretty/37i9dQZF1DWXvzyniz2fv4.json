@@ -1,12 +1,12 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 149581,
+  "num_followers": 149599,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDAwOTcwYTQ2ZTdhYTFjYTI2NmQzZWQ3YzliNjU3NDA4YWRiNjM2",
+  "snapshot_id": "MCw4MTc1Y2IyZGI2M2RjNTcyMWQ2MTJjNzdjMWE0ZjFlYTRhYjQyNjVj",
   "tracks": [
     {
       "added_at": "2023-07-21 03:01:00",
@@ -503,6 +503,22 @@
     {
       "added_at": "2023-07-21 03:01:00",
       "album": {
+        "name": "Estrela do Mar",
+        "url": "https://open.spotify.com/album/4g0LAPd9UDGIX2zgeHQXnY"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        }
+      ],
+      "duration_ms": 195033,
+      "name": "Estrela do Mar",
+      "url": "https://open.spotify.com/track/0rULs7B1JjYnnaooUbZwy5"
+    },
+    {
+      "added_at": "2023-07-21 03:01:00",
+      "album": {
         "name": "Pra Praia",
         "url": "https://open.spotify.com/album/4jJxKxxUVHzqGmhTKiCE4U"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 206549,
       "name": "De Longe. - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1RSdTzKm5vE3ELZPwbTbuQ"
-    },
-    {
-      "added_at": "2023-07-21 03:01:00",
-      "album": {
-        "name": "Estrela do Mar",
-        "url": "https://open.spotify.com/album/4g0LAPd9UDGIX2zgeHQXnY"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        }
-      ],
-      "duration_ms": 195033,
-      "name": "Estrela do Mar",
-      "url": "https://open.spotify.com/track/0rULs7B1JjYnnaooUbZwy5"
     },
     {
       "added_at": "2023-07-21 03:01:00",
@@ -807,42 +807,6 @@
     {
       "added_at": "2023-07-21 03:01:00",
       "album": {
-        "name": "Sabor Cereja",
-        "url": "https://open.spotify.com/album/7yUdixa2zBINA6XiIz3PyM"
-      },
-      "artists": [
-        {
-          "name": "26:15",
-          "url": "https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv"
-        }
-      ],
-      "duration_ms": 175074,
-      "name": "Sabor Cereja",
-      "url": "https://open.spotify.com/track/5momT3wRuYsg2s4hHZVHML"
-    },
-    {
-      "added_at": "2023-07-21 03:01:00",
-      "album": {
-        "name": "Sensualizando",
-        "url": "https://open.spotify.com/album/1JGc8II1qAYsSrZKJmREZ4"
-      },
-      "artists": [
-        {
-          "name": "NaBrisa",
-          "url": "https://open.spotify.com/artist/6hsjrcWvWqeIJaEUa9Fh3c"
-        },
-        {
-          "name": "CMK",
-          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Sensualizando",
-      "url": "https://open.spotify.com/track/43GIzToKuU1L5yeMOIzyLg"
-    },
-    {
-      "added_at": "2023-07-21 03:01:00",
-      "album": {
         "name": "Ac\u00fastico Altamira #8 - Leonina",
         "url": "https://open.spotify.com/album/6hIMQijH2Wz9T5sPDE2gy0"
       },
@@ -875,6 +839,42 @@
       "duration_ms": 282666,
       "name": "Ac\u00fastico Altamira #8 - Leonina",
       "url": "https://open.spotify.com/track/6YMi3tJujGfeXWmA9KRDhC"
+    },
+    {
+      "added_at": "2023-07-21 03:01:00",
+      "album": {
+        "name": "Sabor Cereja",
+        "url": "https://open.spotify.com/album/7yUdixa2zBINA6XiIz3PyM"
+      },
+      "artists": [
+        {
+          "name": "26:15",
+          "url": "https://open.spotify.com/artist/7zyWAQgUX6rJprlFm6sqFv"
+        }
+      ],
+      "duration_ms": 175074,
+      "name": "Sabor Cereja",
+      "url": "https://open.spotify.com/track/5momT3wRuYsg2s4hHZVHML"
+    },
+    {
+      "added_at": "2023-07-21 03:01:00",
+      "album": {
+        "name": "Sensualizando",
+        "url": "https://open.spotify.com/album/1JGc8II1qAYsSrZKJmREZ4"
+      },
+      "artists": [
+        {
+          "name": "NaBrisa",
+          "url": "https://open.spotify.com/artist/6hsjrcWvWqeIJaEUa9Fh3c"
+        },
+        {
+          "name": "CMK",
+          "url": "https://open.spotify.com/artist/6QmnOxsr8M6iD5Zqpb2src"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Sensualizando",
+      "url": "https://open.spotify.com/track/43GIzToKuU1L5yeMOIzyLg"
     },
     {
       "added_at": "2023-07-21 03:01:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-07-21 03:01:00",
       "album": {
-        "name": "Te Ver De Novo",
-        "url": "https://open.spotify.com/album/1fkSMux23otinTEAs2eJCI"
-      },
-      "artists": [
-        {
-          "name": "IGOR",
-          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
-        }
-      ],
-      "duration_ms": 168321,
-      "name": "Te Ver De Novo",
-      "url": "https://open.spotify.com/track/71BEEPY7pGaNUXZdu9xIYd"
-    },
-    {
-      "added_at": "2023-07-21 03:01:00",
-      "album": {
         "name": "Doses",
         "url": "https://open.spotify.com/album/7iPcwRcW1XYDiElkwZzqEd"
       },
@@ -1187,6 +1171,38 @@
     {
       "added_at": "2023-07-21 03:01:00",
       "album": {
+        "name": "Te Ver De Novo",
+        "url": "https://open.spotify.com/album/1fkSMux23otinTEAs2eJCI"
+      },
+      "artists": [
+        {
+          "name": "IGOR",
+          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
+        }
+      ],
+      "duration_ms": 168321,
+      "name": "Te Ver De Novo",
+      "url": "https://open.spotify.com/track/71BEEPY7pGaNUXZdu9xIYd"
+    },
+    {
+      "added_at": "2023-07-21 03:01:00",
+      "album": {
+        "name": "Sabe Qual \u00c9",
+        "url": "https://open.spotify.com/album/0pOetxYIZaNrd3Xdewp9Fd"
+      },
+      "artists": [
+        {
+          "name": "Nathan",
+          "url": "https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA"
+        }
+      ],
+      "duration_ms": 150361,
+      "name": "Sabe Qual \u00c9",
+      "url": "https://open.spotify.com/track/3mctWBqWWKZn7rsyjWVtDe"
+    },
+    {
+      "added_at": "2023-07-21 03:01:00",
+      "album": {
         "name": "Voe",
         "url": "https://open.spotify.com/album/19QEAyEf7chXx2vpyKOoGs"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 152000,
       "name": "Voe",
       "url": "https://open.spotify.com/track/3QRRlJmJbIlBi3i4YzLgvc"
-    },
-    {
-      "added_at": "2023-07-21 03:01:00",
-      "album": {
-        "name": "Sabe Qual \u00c9",
-        "url": "https://open.spotify.com/album/0pOetxYIZaNrd3Xdewp9Fd"
-      },
-      "artists": [
-        {
-          "name": "Nathan",
-          "url": "https://open.spotify.com/artist/2ZBQCf1PXTCH95h3msgluA"
-        }
-      ],
-      "duration_ms": 150361,
-      "name": "Sabe Qual \u00c9",
-      "url": "https://open.spotify.com/track/3mctWBqWWKZn7rsyjWVtDe"
     },
     {
       "added_at": "2023-07-21 03:01:00",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2023-07-21 03:01:00",
       "album": {
+        "name": "Cartas ao Divino",
+        "url": "https://open.spotify.com/album/2pYB28Ni18No49jh1OtrZi"
+      },
+      "artists": [
+        {
+          "name": "Lontraz",
+          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
+        }
+      ],
+      "duration_ms": 190769,
+      "name": "Adaptar",
+      "url": "https://open.spotify.com/track/10lxSXVB6sLUU4wfVLToPk"
+    },
+    {
+      "added_at": "2023-07-21 03:01:00",
+      "album": {
         "name": "27 Dias",
         "url": "https://open.spotify.com/album/6qT1jE8wcY0PvuV9gBBjOX"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 139097,
       "name": "27 Dias",
       "url": "https://open.spotify.com/track/1H72zdqyZ4BDjqtgtHm4Z6"
-    },
-    {
-      "added_at": "2023-07-21 03:01:00",
-      "album": {
-        "name": "Cartas ao Divino",
-        "url": "https://open.spotify.com/album/2pYB28Ni18No49jh1OtrZi"
-      },
-      "artists": [
-        {
-          "name": "Lontraz",
-          "url": "https://open.spotify.com/artist/3Wn4mhmC40P4e8NEdUGSIa"
-        }
-      ],
-      "duration_ms": 190769,
-      "name": "Adaptar",
-      "url": "https://open.spotify.com/track/10lxSXVB6sLUU4wfVLToPk"
     },
     {
       "added_at": "2023-07-21 03:01:00",

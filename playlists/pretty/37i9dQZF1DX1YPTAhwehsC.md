@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 
 > Up and down I\-95\. Cover: Lil Uzi Vert
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,173 likes - 100 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,243 likes - 100 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 50 | [Rich Problems](https://open.spotify.com/track/5wCqSOUqA8orGqTVqei04h) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5) | [Rich Problems](https://open.spotify.com/album/3umyqwAkITHw17JJjODAcv) | 3:54 |
 | 51 | [RIP TDOTT](https://open.spotify.com/track/7pJbsB0LNhRTFBqE2MFX2K) | [Rowdy Rebel](https://open.spotify.com/artist/6LXRvV2OAtXF7685fzh3mj) | [RIP TDOTT](https://open.spotify.com/album/71xYuVZn3h1Oq6dgH6a9aZ) | 2:10 |
 | 52 | [Evident](https://open.spotify.com/track/1OUbqWrUSf3ZL3fEAod7b6) | [SheedTs](https://open.spotify.com/artist/6YOu8dp0Y0Nev97d8OjqIQ) | [Evident](https://open.spotify.com/album/2pOwipyWeVT4gcf49lzqux) | 2:28 |
-| 53 | [BAD DAY](https://open.spotify.com/track/2eCnsNsQxP4lCirC8Yaiux) | [Chaz French](https://open.spotify.com/artist/3BYzEWh3pY0DZpMN0hFufv) | [BAD DAY](https://open.spotify.com/album/1duFuqqdmRvtFHVjgT45qX) | 3:53 |
+| 53 | [BAD DAY](https://open.spotify.com/track/2eCnsNsQxP4lCirC8Yaiux) | [Chaz French](https://open.spotify.com/artist/3BYzEWh3pY0DZpMN0hFufv) | [BAD DAY](https://open.spotify.com/album/1duFuqqdmRvtFHVjgT45qX) | 3:39 |
 | 54 | [No Comin’ Back](https://open.spotify.com/track/1Ch8XsdhzuZIMrYP5m2Wh5) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9) | [No Comin’ Back](https://open.spotify.com/album/6GqRinXPSk04eVZyXxyghC) | 1:49 |
 | 55 | [Google Maps](https://open.spotify.com/track/1CNwYnjWQHMTmDgYxGiOHw) | [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4), [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Google Maps](https://open.spotify.com/album/1DmSyJlANj7mzbwjpJhK3Y) | 2:49 |
 | 56 | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Princess Diana \(with Nicki Minaj\)](https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK) | 2:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YPTAhwehsC.md) - [plain]
 | 99 | [Slangn KK](https://open.spotify.com/track/59W0iGCityApGKS1DlWcxo) | [Hardo](https://open.spotify.com/artist/3ohrdimoWGwbjGMOnTDoUJ), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Slangn KK](https://open.spotify.com/album/5oK5N32z1FiNDucFj0C32t) | 3:13 |
 | 100 | [Act Bad](https://open.spotify.com/track/5uzTQQDcW2BbTyPsOoZreP) | [B\-Lovee](https://open.spotify.com/artist/7hf5PZjVOqTQ2id3PF7I5Y), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Act Bad](https://open.spotify.com/album/2F7hxeskVPFaHDqUT7lfz2) | 2:40 |
 
-Snapshot ID: `MCw2NWVhYjlhNTcxZmI5MDY1YzFhYjY3OWUzZDllNDM4NDMyODgzZWM3`
+Snapshot ID: `MCw2NDMyZDAwMTRlNWJhMGZhN2IzMGFjODYyNTZhOGU2NGUzNzU3NzA4`

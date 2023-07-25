@@ -4,7 +4,7 @@
 
 > Unwind to the best Indian classical sounds out there.
 
-173 songs - 16 hr 4 min
+174 songs - 16 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Baju Band](https://open.spotify.com/track/6pygtqf5cO7uiy9kgbY8KD) | [Sniti Mishra](https://open.spotify.com/artist/1N1zYh2GCcsgr0E4UfcRy2) | [Baju Band](https://open.spotify.com/album/5c80mJiH3c7rKKQ7HVp49f) | 4:18 | 2022-05-17 |  |
 | [Baras](https://open.spotify.com/track/2eJeQraCbVdmkFsLqPkBHP) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa) | [Elements](https://open.spotify.com/album/4PDXWMxlqPHO4Ox9KCvoJ8) | 4:58 | 2022-05-17 | 2023-03-23 |
 | [Bargat Ke Pedo Pe Shakhe Purani](https://open.spotify.com/track/1gFDuN2HElEtr030D5yDRs) | [Piyush Mishra](https://open.spotify.com/artist/0kttITJItx4bssbq6EcXCS) | [Jalpari \- The Desert Mermaid \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1ygwH3yJqtGFDozsANxJoF) | 6:40 | 2023-02-01 |  |
+| [Barkha](https://open.spotify.com/track/0uYiSskLUJ6s7acqyUWX68) | [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Barkha](https://open.spotify.com/album/6ccAHAXH8lV27buSFuvx69) | 4:21 | 2023-07-24 |  |
 | [Barkha Bahaar](https://open.spotify.com/track/1TDL5PY1CO05RRmxepSF0v) | [Devika](https://open.spotify.com/artist/6H3vcjNh7U6YKyuMuzSWAv) | [Saari Raat](https://open.spotify.com/album/2TbC3ffg6NqCvYtbRZ3bVE) | 6:19 | 2022-07-12 | 2023-04-01 |
 | [Barkha Bahar](https://open.spotify.com/track/4zMh0HDWkXubHj43dwjXuJ) | [Devika](https://open.spotify.com/artist/6H3vcjNh7U6YKyuMuzSWAv) | [Saari Raat](https://open.spotify.com/album/0EtApMEmLEz21D8Ia4L2Jo) | 6:19 | 2022-05-17 | 2022-07-29 |
 | [Barsan Lagi](https://open.spotify.com/track/2DolnMsowdoeGwD9f1P9iJ) | [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5) | [Barsan Lagi](https://open.spotify.com/album/24Ro5vvqnf9ElJX9ZgdhL4) | 3:39 | 2022-12-22 |  |
@@ -65,7 +66,7 @@
 | [Jagaave Saari Raina](https://open.spotify.com/track/7CQ0O1bdOHZINqyOf1W3kz) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT) | [Dedh Ishqiya](https://open.spotify.com/album/0x33kdKVOuPpUNyuQdX1LR) | 5:38 | 2023-03-02 |  |
 | [Jamuna Kinare](https://open.spotify.com/track/4CXTIuPWk4ArUANlD5k3Af) | [Sooryagayathri](https://open.spotify.com/artist/5qfJHcOsAD4qaRzxUJzr2K) | [Jamuna Kinare](https://open.spotify.com/album/2augZUhTpR5kFbuXZRzZut) | 7:41 | 2022-12-07 | 2023-04-22 |
 | [Jheeni Jheeni Beeni Chadariya](https://open.spotify.com/track/2FlrURkLtjLKlfkVmgQRob) | [Baiju Mangeshkar](https://open.spotify.com/artist/5lf48jDMFrdJkvnYW8Gg5T) | [Man Mast Kabira](https://open.spotify.com/album/6h564cMA06UJRCmanWFdqp) | 5:27 | 2023-03-30 | 2023-04-01 |
-| [Jheeni Jheeni Beeni Chadariya](https://open.spotify.com/track/7sFrXIq0TJZUYVgASM9bDv) | [Baiju Mangeshkar](https://open.spotify.com/artist/5lf48jDMFrdJkvnYW8Gg5T) | [Man Mast Kabira](https://open.spotify.com/album/6cLEimgx42vKP8ReAXgcAc) | 5:27 | 2023-03-31 |  |
+| [Jheeni Jheeni Beeni Chadariya](https://open.spotify.com/track/7sFrXIq0TJZUYVgASM9bDv) | [Baiju Mangeshkar](https://open.spotify.com/artist/5lf48jDMFrdJkvnYW8Gg5T) | [Man Mast Kabira](https://open.spotify.com/album/6cLEimgx42vKP8ReAXgcAc) | 5:27 | 2023-03-31 | 2023-07-25 |
 | [Jhinjhoti](https://open.spotify.com/track/4oWJqeGeJK1N5M0dUqogYD) | [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Jhinjhoti](https://open.spotify.com/album/6weyfGZOlWKTnp5Yq49Fjn) | 5:02 | 2022-05-17 |  |
 | [Jiya Mora Re](https://open.spotify.com/track/2n3H9PPBOXWproji7x3g0E) | [The PriyaRang Project](https://open.spotify.com/artist/0V9JIMj8rpAb5sLaETyJdn), [Priyanka Barve](https://open.spotify.com/artist/2SrMwYFxsZjEQSl8sVMu3P), [Sarang Kulkarni](https://open.spotify.com/artist/5AbDGuiDyG6kdlMLbo2njR) | [Jiya Mora Re](https://open.spotify.com/album/2z6FfQtPih0s6iSkPne2PV) | 6:21 | 2022-12-22 |  |
 | [Jiyara](https://open.spotify.com/track/2tCyldMmgrHlhP8IWiSy4h) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C) | [Fungeet](https://open.spotify.com/album/2pWlLUrt2y0QppU4OUXFTh) | 2:54 | 2023-04-24 |  |

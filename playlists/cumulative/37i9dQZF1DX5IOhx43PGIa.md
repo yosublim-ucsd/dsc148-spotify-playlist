@@ -4,7 +4,7 @@
 
 > Illuminating Asian artists everywhere & celebrating South Asian Heritage Month! Cover: Rhea Raj.
 
-500 songs - 1 day 1 hr 54 min
+501 songs - 1 day 1 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [inhibitions \(feat\. P\-Lo\)](https://open.spotify.com/track/38i2wm5NBB5iS3WpjlMmWY) | [thuy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [inhibitions \(feat\. P\-Lo\)](https://open.spotify.com/album/0W84AyMDAbWKIGN1gHObDA) | 2:49 | 2022-05-27 | 2022-07-29 |
 | [INSOMNIA](https://open.spotify.com/track/1KfhDYbODqQoclom9Izd5u) | [Diverseddie](https://open.spotify.com/artist/3aia8Qn8pZXJldrYzQqOOq), [Kyra Z](https://open.spotify.com/artist/1igjPRdGajoTLco5Zn3sPz) | [INSOMNIA](https://open.spotify.com/album/2tTZqMSUcxBmZ1NobJSZqX) | 3:39 | 2022-07-08 | 2022-07-21 |
 | [Introspection Reimagined](https://open.spotify.com/track/1zQnPw58ITvKYIhk5lvlDV) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Introspection Reimagined](https://open.spotify.com/album/3H1v8w26UVp4tylel4cRrr) | 5:02 | 2022-05-27 | 2022-12-14 |
+| [Invited](https://open.spotify.com/track/4gLxqqLYKew729IbVXjqsv) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO) | [Invited](https://open.spotify.com/album/3qa53IyUxtxuCiyD1gPZj0) | 2:21 | 2023-07-21 |  |
 | [Irresponsible](https://open.spotify.com/track/60SugyNV4FdewZfktXfXte) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Irresponsible](https://open.spotify.com/album/59S6Jtnow51dgkKl1pKBKd) | 2:04 | 2023-05-26 |  |
 | [Issues](https://open.spotify.com/track/7DscinmgmQGwSblBKjrGy7) | [Eric Reprid](https://open.spotify.com/artist/1f2Bnuuv7FxEx2x8iiEBzR) | [3TERNITY](https://open.spotify.com/album/3boXTQdSoIt4RCJqXWArsx) | 2:30 | 2022-05-27 | 2022-06-21 |
 | [ITIM](https://open.spotify.com/track/2akEAk7cu3FNtIzNUMtfX2) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [ITIM](https://open.spotify.com/album/5KvLMStgJsZiYziduNFOIh) | 3:02 | 2022-05-27 | 2022-07-28 |
@@ -317,7 +318,7 @@
 | [NEED IT FROM YOU](https://open.spotify.com/track/79bPtuYBpnNJTwCJEVzECO) | [MANILA GREY](https://open.spotify.com/artist/7KC9q5wx0bxMD5ABgLCoEd) | [Spirits](https://open.spotify.com/album/0bkNnBx5lLhRT1xXELdBYC) | 2:55 | 2022-09-09 | 2023-03-05 |
 | [NERVE](https://open.spotify.com/track/06FYjJDuCF2agn3rJBuNiv) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [NERVE](https://open.spotify.com/album/2beatj9EGiW7MRNWbMVARe) | 2:28 | 2023-03-10 | 2023-06-04 |
 | [Never Easy](https://open.spotify.com/track/6ggH9Ph0LiwqfTKZCtt4iJ) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Never Easy](https://open.spotify.com/album/6hfjf52GzZmtmlz4hzsoFo) | 3:44 | 2022-07-22 | 2023-02-19 |
-| [No Explanations](https://open.spotify.com/track/6C8nmYYiWCess3VeX3z8ub) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO), [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G), [ZHANG YANQI](https://open.spotify.com/artist/0ygjYRcmPUdSwSnN47xq8F) | [No Explanations](https://open.spotify.com/album/5DfXqXeruwDNlfcCxxjKN9) | 3:07 | 2023-03-31 |  |
+| [No Explanations](https://open.spotify.com/track/6C8nmYYiWCess3VeX3z8ub) | [Stephanie Poetri](https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO), [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G), [ZHANG YANQI](https://open.spotify.com/artist/0ygjYRcmPUdSwSnN47xq8F) | [No Explanations](https://open.spotify.com/album/5DfXqXeruwDNlfcCxxjKN9) | 3:07 | 2023-03-31 | 2023-07-25 |
 | [Nobody Sees Me Like You Do](https://open.spotify.com/track/3vGsonmcc2Y7x8BZYKnjhi) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Nobody Sees Me Like You Do](https://open.spotify.com/album/6W8UhZlIF4yuQolmJPAO1P) | 3:31 | 2022-05-27 | 2023-04-09 |
 | [Oceans & Engines](https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Oceans & Engines](https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9) | 5:36 | 2022-07-08 |  |
 | [Off the Rails](https://open.spotify.com/track/0h7Vz5MQyJjO4ZnMW7HTjV) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Off the Rails](https://open.spotify.com/album/7lhVwtCdwtbtDkfZ0747aS) | 2:20 | 2022-05-27 | 2022-05-31 |

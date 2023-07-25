@@ -3995,6 +3995,24 @@
     },
     {
       "album": {
+        "name": "Kheles El Kalam",
+        "url": "https://open.spotify.com/album/5acNcctheDVFIMvTlliQEL"
+      },
+      "artists": [
+        {
+          "name": "Shaimaa El Maghraby",
+          "url": "https://open.spotify.com/artist/2JVy6Z1pDdqDfTtZ03ePE9"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155428,
+      "name": "Kheles El Kalam",
+      "url": "https://open.spotify.com/track/7lrnS2D78WccsAro9d9QTR"
+    },
+    {
+      "album": {
         "name": "Khelini Alik",
         "url": "https://open.spotify.com/album/3xxDAETT4jq0Ee1ZR8MqH2"
       },
@@ -8056,7 +8074,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 293071,
       "name": "\u0631\u062d\u064a\u0644",
       "url": "https://open.spotify.com/track/3JlGlUGcHXG2YXyykHGLWS"

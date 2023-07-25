@@ -1031,6 +1031,24 @@
     },
     {
       "album": {
+        "name": "Desde Pico Rivera!",
+        "url": "https://open.spotify.com/album/757G9Xm99Wt6DrdgTusxhU"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286950,
+      "name": "Miel Amarga / Amigo - En Vivo",
+      "url": "https://open.spotify.com/track/1XFm3pC9ppFaQJUG663K8k"
+    },
+    {
+      "album": {
         "name": "En Vivo! Desde Pico Rivera, Ca",
         "url": "https://open.spotify.com/album/4XqFliWLK6IJUXGeFVFArd"
       },

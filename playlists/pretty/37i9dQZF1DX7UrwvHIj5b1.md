@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UrwvHIj5b1.md) - [plain]
 
 > Meditative dubstep rhythms for focus and contemplation.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,492 likes - 69 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,581 likes - 70 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,17 +65,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7UrwvHIj5b1.md) - [plain]
 | 55 | [Lucid](https://open.spotify.com/track/5B2SBpFLNXgsxJUIkdr2YT) | [Formless](https://open.spotify.com/artist/7hXf0gBQHoIPWMWKZnxSj6) | [Lucid](https://open.spotify.com/album/1zIx1aP24zBQrP01inAiV9) | 5:59 |
 | 56 | [Vacant](https://open.spotify.com/track/4KtEedfcRM9VycSED3sWnF) | [Sepia](https://open.spotify.com/artist/7v5C9SalNHvwDF5sTpWDhi) | [Ancient Tribes](https://open.spotify.com/album/30v5J4ieBtoICdxv0ss6Qc) | 5:03 |
 | 57 | [Lankershim Stroll](https://open.spotify.com/track/3LHETC47Ll94QcwN1Y0gMx) | [Subtle Mind](https://open.spotify.com/artist/37o1xku99QSw8IHyTRDfHB) | [Los Angeles EP](https://open.spotify.com/album/4hsPWLX9kUyCecLp2BsNIj) | 5:03 |
-| 58 | [Insomnias](https://open.spotify.com/track/4nV6k7nnof6wV4tbXSZiKB) | [Soreab](https://open.spotify.com/artist/3gDCHnajxKxIGUtweD6p9k) | [Sensitivity 6.0](https://open.spotify.com/album/7cZkjYF4onpWWy5ftfZFcM) | 5:27 |
-| 59 | [Where Ya From](https://open.spotify.com/track/2BaqPUM4FO9CH4YxKmy1gN) | [Taiko](https://open.spotify.com/artist/7aymYFvvaOtSIxBICCWSeq) | [Oaken](https://open.spotify.com/album/64AHueA64ofjV9g69ZXHhi) | 4:42 |
-| 60 | [Sacred](https://open.spotify.com/track/0Xs48wQVbi3MdPzYPVlmDP) | [ESCPE](https://open.spotify.com/artist/0BmnB01PeIJC2Dqgnr5A1L) | [Cloud Walk](https://open.spotify.com/album/4V0RpNiBzEDrsu32equ8Kw) | 3:15 |
-| 61 | [Out Here](https://open.spotify.com/track/2d5mIkHNiBzHfpRpPAxV3o) | [Ourman](https://open.spotify.com/artist/50fccMrp2zhFFghqN6JIp8) | [FKOFd043](https://open.spotify.com/album/1nlEE0hPDSYxJd6R2y5rLR) | 3:37 |
-| 62 | [Buddha](https://open.spotify.com/track/0IVC3iGfFt9CFojERArRgB) | [Leon Switch](https://open.spotify.com/artist/33jPdsTCBt9bITZucsvhqG), [Kwizma](https://open.spotify.com/artist/1m7dukoGV16L1hVKHcX5CZ) | [Buddha](https://open.spotify.com/album/6F22J3Y1CKlCRLRHgc68Cy) | 6:22 |
-| 63 | [Focus Mode](https://open.spotify.com/track/73tBBMZkHLn59Z39ZP2Xgg) | [Baitface](https://open.spotify.com/artist/41brhxliN5EvAXlo4y773r) | [Focus Mode](https://open.spotify.com/album/55UU40jLmmKeOMwPRd4IKa) | 5:36 |
-| 64 | [Paranoid](https://open.spotify.com/track/0HkJbZv5vOoWaJkHxrf307) | [Zoobi](https://open.spotify.com/artist/2K2fcKbKCe95DCdLlohq6z) | [Paranoid](https://open.spotify.com/album/6EZ8CwbvJGzbOlyX7qM59D) | 6:08 |
-| 65 | [Generation Sound](https://open.spotify.com/track/6ZBHdFUvqhX2px4mcmxUjP) | [Jack Sparrow](https://open.spotify.com/artist/6iI4RUhF2HROnohuxUKfzR) | [My Religion EP](https://open.spotify.com/album/3IynPUiKNPQ6SeEJ3Uze8x) | 5:08 |
-| 66 | [Bliss \- Original Mix](https://open.spotify.com/track/4Jj9wXI1FRoMRa2RqzgY20) | [SubDimension](https://open.spotify.com/artist/6fwIH24ZNPIqkWa6BLjyqb) | [Woe & Bliss EP](https://open.spotify.com/album/1rwQMdcIf52wbSVG3YvmOH) | 6:13 |
-| 67 | [Iridescence](https://open.spotify.com/track/4BEXZPaK0706p5tPy1UR3l) | [Sleeper](https://open.spotify.com/artist/4EtCpNKcQ3JXXm5essTfPE), [Youngsta](https://open.spotify.com/artist/4YOzXUg5iPj9vF0tapoXi6) | [Systematic Error](https://open.spotify.com/album/5QfyKIygTW2mqUT5GZnyvb) | 4:10 |
-| 68 | [Neural Net](https://open.spotify.com/track/41G3eYZhncCJ4bAGbC5d7Q) | [Dillard](https://open.spotify.com/artist/5nAvegaN5UuHkKfAo9a2kq) | [Afterlife LP](https://open.spotify.com/album/73vOuqvQHY2dc1PejsEa69) | 3:25 |
-| 69 | [Slow Waves](https://open.spotify.com/track/29SS6TB8ndmcr2YnyVuTF8) | [Khromi](https://open.spotify.com/artist/3rc9ONB9LXLOFeDSEqqwer) | [Slow Waves](https://open.spotify.com/album/04y570E9mDBEKHOMHvMSx6) | 4:20 |
+| 58 | [Nu Era Dub](https://open.spotify.com/track/6mD3RkOwL0sBjCAD8ky0uu) | [Kromestar](https://open.spotify.com/artist/0KcQg2Xc2IMImvAKbpZlhO), [N\-Type](https://open.spotify.com/artist/2L3xOZQKjlT0Hb2QpTM4XY) | [Nu Era Dub](https://open.spotify.com/album/41IFclO5dnmbX31dgbpkaG) | 4:46 |
+| 59 | [Insomnias](https://open.spotify.com/track/4nV6k7nnof6wV4tbXSZiKB) | [Soreab](https://open.spotify.com/artist/3gDCHnajxKxIGUtweD6p9k) | [Sensitivity 6.0](https://open.spotify.com/album/7cZkjYF4onpWWy5ftfZFcM) | 5:27 |
+| 60 | [Where Ya From](https://open.spotify.com/track/2BaqPUM4FO9CH4YxKmy1gN) | [Taiko](https://open.spotify.com/artist/7aymYFvvaOtSIxBICCWSeq) | [Oaken](https://open.spotify.com/album/64AHueA64ofjV9g69ZXHhi) | 4:42 |
+| 61 | [Sacred](https://open.spotify.com/track/0Xs48wQVbi3MdPzYPVlmDP) | [ESCPE](https://open.spotify.com/artist/0BmnB01PeIJC2Dqgnr5A1L) | [Cloud Walk](https://open.spotify.com/album/4V0RpNiBzEDrsu32equ8Kw) | 3:15 |
+| 62 | [Out Here](https://open.spotify.com/track/2d5mIkHNiBzHfpRpPAxV3o) | [Ourman](https://open.spotify.com/artist/50fccMrp2zhFFghqN6JIp8) | [FKOFd043](https://open.spotify.com/album/1nlEE0hPDSYxJd6R2y5rLR) | 3:37 |
+| 63 | [Buddha](https://open.spotify.com/track/0IVC3iGfFt9CFojERArRgB) | [Leon Switch](https://open.spotify.com/artist/33jPdsTCBt9bITZucsvhqG), [Kwizma](https://open.spotify.com/artist/1m7dukoGV16L1hVKHcX5CZ) | [Buddha](https://open.spotify.com/album/6F22J3Y1CKlCRLRHgc68Cy) | 6:22 |
+| 64 | [Focus Mode](https://open.spotify.com/track/73tBBMZkHLn59Z39ZP2Xgg) | [Baitface](https://open.spotify.com/artist/41brhxliN5EvAXlo4y773r) | [Focus Mode](https://open.spotify.com/album/55UU40jLmmKeOMwPRd4IKa) | 5:36 |
+| 65 | [Paranoid](https://open.spotify.com/track/0HkJbZv5vOoWaJkHxrf307) | [Zoobi](https://open.spotify.com/artist/2K2fcKbKCe95DCdLlohq6z) | [Paranoid](https://open.spotify.com/album/6EZ8CwbvJGzbOlyX7qM59D) | 6:08 |
+| 66 | [Generation Sound](https://open.spotify.com/track/6ZBHdFUvqhX2px4mcmxUjP) | [Jack Sparrow](https://open.spotify.com/artist/6iI4RUhF2HROnohuxUKfzR) | [My Religion EP](https://open.spotify.com/album/3IynPUiKNPQ6SeEJ3Uze8x) | 5:08 |
+| 67 | [Bliss \- Original Mix](https://open.spotify.com/track/4Jj9wXI1FRoMRa2RqzgY20) | [SubDimension](https://open.spotify.com/artist/6fwIH24ZNPIqkWa6BLjyqb) | [Woe & Bliss EP](https://open.spotify.com/album/1rwQMdcIf52wbSVG3YvmOH) | 6:13 |
+| 68 | [Iridescence](https://open.spotify.com/track/4BEXZPaK0706p5tPy1UR3l) | [Sleeper](https://open.spotify.com/artist/4EtCpNKcQ3JXXm5essTfPE), [Youngsta](https://open.spotify.com/artist/4YOzXUg5iPj9vF0tapoXi6) | [Systematic Error](https://open.spotify.com/album/5QfyKIygTW2mqUT5GZnyvb) | 4:10 |
+| 69 | [Neural Net](https://open.spotify.com/track/41G3eYZhncCJ4bAGbC5d7Q) | [Dillard](https://open.spotify.com/artist/5nAvegaN5UuHkKfAo9a2kq) | [Afterlife LP](https://open.spotify.com/album/73vOuqvQHY2dc1PejsEa69) | 3:25 |
+| 70 | [Slow Waves](https://open.spotify.com/track/29SS6TB8ndmcr2YnyVuTF8) | [Khromi](https://open.spotify.com/artist/3rc9ONB9LXLOFeDSEqqwer) | [Slow Waves](https://open.spotify.com/album/04y570E9mDBEKHOMHvMSx6) | 4:20 |
 
-Snapshot ID: `MCxkNmY2YzA1ZmZmYmIwZjZlNTVhMzJmZDllYmU0MWUxMzk2ODE1OWUy`
+Snapshot ID: `MCwzZDg0MDBjNWE3ODViMDFkNDVlZGYyMjIwMmYwMmMxZjRjMTkzNWMy`

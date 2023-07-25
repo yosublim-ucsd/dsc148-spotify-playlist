@@ -851,6 +851,28 @@
     },
     {
       "album": {
+        "name": "Apart",
+        "url": "https://open.spotify.com/album/5DVWgBrMyC4L1TbSr5COuC"
+      },
+      "artists": [
+        {
+          "name": "Fancy Monster",
+          "url": "https://open.spotify.com/artist/2mTmPVVrjt7SLOtJIaI9LY"
+        },
+        {
+          "name": "broke",
+          "url": "https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221538,
+      "name": "Apart",
+      "url": "https://open.spotify.com/track/56gMrEGMFmkAyWwKK3Ffs0"
+    },
+    {
+      "album": {
         "name": "Aperture",
         "url": "https://open.spotify.com/album/6rWp0YzgUDib50H6zYQVCy"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Pop classics and show tunes, sung by legendary classical voices. Cover: Andrea Bocelli",
-  "num_followers": 230381,
+  "num_followers": 230638,
   "original_name": "Classical Crossover",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOGU4MjI3ZjkwYmEzZmVjNzZkYWJkYzg0ODhlYjFhOTA5ZmY3YjQx",
+  "snapshot_id": "MCxmZDk5Y2I3YTJkNjA1N2Y3YWZhMTE0YzI4NjE4YTYxYzA5MGQ1YzU5",
   "tracks": [
     {
       "added_at": "2023-06-30 10:39:50",
@@ -848,8 +848,20 @@
       },
       "artists": [
         {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
           "name": "Hayley Westenra",
           "url": "https://open.spotify.com/artist/7Jotu5LupekFt00kZZZ7C6"
+        },
+        {
+          "name": "Ian Dean",
+          "url": "https://open.spotify.com/artist/2Tfy0lv32xUPXOojV10tCV"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
         }
       ],
       "duration_ms": 193333,

@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: Hardwell
 
-319 songs - 17 hr 13 min
+320 songs - 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,7 +166,7 @@
 | [Lowrider](https://open.spotify.com/track/4QmrKRhtR8r16U0rDEVCvr) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Lowrider](https://open.spotify.com/album/26R1i4mklMHdNGF83QxaP0) | 2:31 | 2022-07-28 |  |
 | [MAIA](https://open.spotify.com/track/1M50UhY5allL6W5QbwFBcZ) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [MAIA](https://open.spotify.com/album/76RWt2AfhIAiEAIqTEzAC1) | 3:08 | 2023-06-01 | 2023-07-13 |
 | [Make It Louder](https://open.spotify.com/track/4ncKmpQLkgdUWf7HUpWc8K) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Make It Louder](https://open.spotify.com/album/1TyjMtZ1ZtzBc8hoqHHVip) | 2:37 | 2022-04-14 | 2022-06-29 |
-| [Make Some Noise](https://open.spotify.com/track/7kk5uXHvIq9APSfAuoPfvk) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Maikki](https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID) | [Make Some Noise \(feat\. Maikki\)](https://open.spotify.com/album/7FDfFGtICR15kqaUlgHItx) | 3:28 | 2022-10-27 |  |
+| [Make Some Noise](https://open.spotify.com/track/7kk5uXHvIq9APSfAuoPfvk) | [Brennan Heart](https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC), [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Maikki](https://open.spotify.com/artist/6kK6lCbJfPgDH6plFWQQID) | [Make Some Noise \(feat\. Maikki\)](https://open.spotify.com/album/7FDfFGtICR15kqaUlgHItx) | 3:28 | 2022-10-27 | 2023-07-25 |
 | [MAKI](https://open.spotify.com/track/49zTxpRczdi1GiWNIhkJ3A) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [MAKI](https://open.spotify.com/album/5zGhZkuwcKxl2saMNt7h8H) | 3:20 | 2022-04-14 | 2022-07-29 |
 | [Maria Maria](https://open.spotify.com/track/6scnPzPV3aHgsusrG9uHMZ) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS) | [Maria Maria](https://open.spotify.com/album/1zR7dGlwSYBvfbPQum2JbO) | 3:15 | 2022-07-28 | 2023-05-30 |
 | [Mas Que Nada \(with Marnik\)](https://open.spotify.com/track/1BNawYa1bUgOfRSSyQQzNe) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Moonshine](https://open.spotify.com/artist/3t66HrWji19Ey3uJE2DSyC), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc) | [Mas Que Nada \(with Marnik\)](https://open.spotify.com/album/3gAd6B5avXHX8IrOvXEKDO) | 2:47 | 2023-02-02 |  |
@@ -191,6 +191,7 @@
 | [Nasty](https://open.spotify.com/track/2XYUIu1N5iUQw4p0lzpM0E) | [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [Nasty](https://open.spotify.com/album/5TaUsd9PMFYsKk9ipZiGC4) | 2:40 | 2023-05-04 |  |
 | [Nasty](https://open.spotify.com/track/5mLMev7skmmcBn0Woo03SM) | [3 Are Legend](https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II), [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk) | [Nasty](https://open.spotify.com/album/2Lt6F1UoKsFa6qYk60wdOy) | 2:40 | 2023-05-04 | 2023-05-06 |
 | [Never Be Alone](https://open.spotify.com/track/3ewziyfcz9bPtaqISZs67N) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Never Be Alone](https://open.spotify.com/album/3K8MJLnd39gLaoFCZZwVxx) | 2:56 | 2022-10-13 |  |
+| [New Generation](https://open.spotify.com/track/065VacUyBvH3e5rt3C6yh5) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [LePrince](https://open.spotify.com/artist/6CVjs7KznQ47r8xZwPtZsO) | [New Generation](https://open.spotify.com/album/2vMMXaQq5tRRgZe21SZ1lG) | 2:20 | 2023-07-24 |  |
 | [Ninja](https://open.spotify.com/track/5iczDu05vLCuJyFyqJwF5S) | [Husman](https://open.spotify.com/artist/38IfmizrHTCxFjd8UKhWnp), [Justin Prime](https://open.spotify.com/artist/0TFdkHvlyUVl9zrb4seHxJ) | [Ninja](https://open.spotify.com/album/2KPtAfovw9KR978fSaL9Eu) | 2:51 | 2022-05-05 | 2022-07-23 |
 | [No Beef \(feat\. Miss Palmer\) \- R3HAB Remix](https://open.spotify.com/track/3SDpTnbpSjnNRLgsDML5iX) | [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Miss Palmer](https://open.spotify.com/artist/2Vd2ZmSFVZ9LEwHeJ8vf7U), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [No Beef \(feat\. Miss Palmer\) \[R3HAB Remix\]](https://open.spotify.com/album/0ecbPAKud7pA86JlexUF14) | 2:48 | 2022-04-14 | 2022-07-29 |
 | [No Escape](https://open.spotify.com/track/3ytww1ezoYfvTYaiNWnxG2) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [No Escape](https://open.spotify.com/album/4dgs1IAwfLF9DcquCpm3MA) | 2:07 | 2022-12-27 | 2023-01-03 |

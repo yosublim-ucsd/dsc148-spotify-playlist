@@ -2805,6 +2805,24 @@
     },
     {
       "album": {
+        "name": "Small Shelter",
+        "url": "https://open.spotify.com/album/586Tbs7Rzob4HBU0eyCAId"
+      },
+      "artists": [
+        {
+          "name": "Max Walltine",
+          "url": "https://open.spotify.com/artist/1fjExu7rpJivThwzQp5fq5"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101252,
+      "name": "Small Shelter",
+      "url": "https://open.spotify.com/track/5Jo3ULRpXZqzc4bY8uhdFm"
+    },
+    {
+      "album": {
         "name": "Snuggle Snore",
         "url": "https://open.spotify.com/album/249QCyyRj3rD7uy4zEwp9J"
       },

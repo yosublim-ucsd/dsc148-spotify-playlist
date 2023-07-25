@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Ronisia
 
-1,959 songs - 4 day 8 hr 39 min
+1,960 songs - 4 day 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -507,7 +507,7 @@
 | [Démons](https://open.spotify.com/track/3gAEAmxdP1GIjgQ3Zud2mE) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Nonante\-Cinq](https://open.spotify.com/album/3I756vFQ1PWvG2Q2jJsIkA) | 4:11 | 2021-12-31 | 2022-01-22 |
 | [Démons \- live orchestral](https://open.spotify.com/track/0sGTe0XXW28rCjrsx8VrD2) | [Angèle](https://open.spotify.com/artist/3QVolfxko2UyCOtexhVTli), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Nonante\-Cinq](https://open.spotify.com/album/2kL80GlrYJfxLHLB7PMr8f) | 3:54 | 2022-03-04 | 2022-03-18 |
 | [Dépotoir](https://open.spotify.com/track/7HabPxO3C9KQBQGEhepYNh) | [Gab Bouchard](https://open.spotify.com/artist/0J0nIuBa8qMlDnlS5QrkiP) | [Dépotoir](https://open.spotify.com/album/6kOh93M2REASQ1GF8Hbf26) | 3:13 | 2022-04-15 | 2022-04-29 |
-| [Désert](https://open.spotify.com/track/5WXSQ6fdFGybbY6ZdknoLr) | [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC), [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [On finira peut\-être heureux](https://open.spotify.com/album/6TXAt7Cr5LrRefCBOEQJYX) | 3:17 | 2023-06-23 |  |
+| [Désert](https://open.spotify.com/track/5WXSQ6fdFGybbY6ZdknoLr) | [Tsew The Kid](https://open.spotify.com/artist/0SXZ0s0MoLOjw4Af6i3OGC), [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU) | [On finira peut\-être heureux](https://open.spotify.com/album/6TXAt7Cr5LrRefCBOEQJYX) | 3:17 | 2023-06-23 | 2023-07-25 |
 | [désert alimentaire](https://open.spotify.com/track/59TJbm04rprGfGZRSzKrse) | [comment debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [désert alimentaire](https://open.spotify.com/album/7vN3Q76FIrnHxPs2DElKyk) | 3:10 | 2023-05-19 | 2023-05-27 |
 | [Désolée de vous déranger](https://open.spotify.com/track/61DbsM7z2tDRvQpS6al7fG) | [Melissa Ouimet](https://open.spotify.com/artist/2VcWCneechtPXpyO6l7eth) | [Sans tomber](https://open.spotify.com/album/74EiP9IkxZgQQzRBmlIX7f) | 2:55 | 2022-05-06 | 2022-05-20 |
 | [Désordre insensé](https://open.spotify.com/track/0LG9F3iWjlzR6q6RpbyJNS) | [Désirée](https://open.spotify.com/artist/7igTH5z3uoVbKRvQ3M10fG) | [Les souvenirs flous](https://open.spotify.com/album/2qiD7xcB164I74T1fzHb6c) | 3:30 | 2023-02-17 | 2023-03-04 |
@@ -1953,6 +1953,7 @@
 | [Ça fait longtemps](https://open.spotify.com/track/5gQFRhFhFbvcEKd14RjW5o) | [Guillaume Laroche](https://open.spotify.com/artist/15mBsQXYcklrlBSrBqUXey) | [Ça fait longtemps](https://open.spotify.com/album/7DHoTpa2QK0hKd52RQ5gGi) | 3:20 | 2022-04-29 | 2022-05-07 |
 | [Ça ira](https://open.spotify.com/track/7a2jqQYzYPH3HDqhWd2fjf) | [Jeanick Fournier](https://open.spotify.com/artist/2BDPAOnxUpnVhzI7UCX246) | [Moment / Ça ira](https://open.spotify.com/album/2vw8q1BYFjh4GCJnJQpgeD) | 3:42 | 2022-09-30 | 2022-10-15 |
 | [Ça m'manque](https://open.spotify.com/track/1C1hagvlPCvPHHB1VSOTpr) | [Rook](https://open.spotify.com/artist/22lEQdayTnrxrHGf8ddTcn) | [Ça m'manque](https://open.spotify.com/album/6X9cLJ890XkCzjJkSerTDR) | 4:02 | 2022-04-01 | 2022-04-16 |
+| [Ça va !](https://open.spotify.com/track/5YmJ1Ts7Qv2GA2hKi8JxVv) | [DJ Bens](https://open.spotify.com/artist/6eOVzayMT2EKOMAawR01tV), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Ça va !](https://open.spotify.com/album/6XwsjQcPxdmNAS3a9QwaWT) | 2:34 | 2023-07-21 |  |
 | [Ça va vite](https://open.spotify.com/track/0Ih1wDnAxtcaa6LTFS5SgC) | [L'Allemand](https://open.spotify.com/artist/3BX2N7cc1OrBUJQiiei3On) | [Ça va vite](https://open.spotify.com/album/7uAnKgLJj4AaeGmustZxur) | 2:10 | 2022-07-29 | 2022-08-27 |
 | [Ça vient du south](https://open.spotify.com/track/5vfmc4DiJbuKa3nqMlQl0t) | [Mouss](https://open.spotify.com/artist/3zhPXb3F4YcYSkzwBRC3Zk), [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ), [Dj Ghxst](https://open.spotify.com/artist/6zHYC1eALaSEOF6u8C8896), [KGN16](https://open.spotify.com/artist/0kPgdfGqvMvnH7euvIejFK) | [Ça vient du south](https://open.spotify.com/album/6u1hsxuetUOsWctrCKXgNY) | 3:26 | 2022-09-23 | 2022-10-08 |
 | [Échapper à la nuit](https://open.spotify.com/track/5vSCx5P8XF7dqRVhH8bRuX) | [Les sœurs Boulay](https://open.spotify.com/artist/4x2kecgGRpDooou3CIYnlr) | [Échapper à la nuit](https://open.spotify.com/album/7tuf8ByiAjlsfAEMjuxdBy) | 3:38 | 2022-10-21 | 2022-11-12 |

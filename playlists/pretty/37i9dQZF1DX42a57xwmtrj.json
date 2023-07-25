@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo naco es chido, y que viva el rocanroool! Botellita de Jerez en portada.",
-  "num_followers": 143840,
+  "num_followers": 143907,
   "original_name": "Rock Urbano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZmRlNTg5ZTE4YTQwYmYxZGU4NjlkYTg5MDc1MTc1N2NiNjFjYTU5",
+  "snapshot_id": "MCw4YWVmODI2OGQ0NDc4ZTkyMTNmODNhYmU1NTBiMjg5NmU3ZTgyOWYx",
   "tracks": [
     {
       "added_at": "2023-07-21 00:57:54",
@@ -183,38 +183,6 @@
     {
       "added_at": "2023-07-21 00:57:54",
       "album": {
-        "name": "Rock En Espa\u00f1ol - Lo Mejor De Tijuana No!",
-        "url": "https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g"
-      },
-      "artists": [
-        {
-          "name": "Tijuana No!",
-          "url": "https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1"
-        }
-      ],
-      "duration_ms": 282120,
-      "name": "Pobre de Ti",
-      "url": "https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon"
-    },
-    {
-      "added_at": "2023-07-21 00:57:54",
-      "album": {
-        "name": "25 a\u00f1os",
-        "url": "https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 230693,
-      "name": "Pobre so\u00f1ador",
-      "url": "https://open.spotify.com/track/6UjxBtLPznyXztlMAFrtOW"
-    },
-    {
-      "added_at": "2023-07-21 00:57:54",
-      "album": {
         "name": "Mar\u00eda (Remastered)",
         "url": "https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF"
       },
@@ -231,18 +199,18 @@
     {
       "added_at": "2023-07-21 00:57:54",
       "album": {
-        "name": "Delincuentes Con Placa",
-        "url": "https://open.spotify.com/album/4Sdi8I9p9AkGbx8LnFf4wn"
+        "name": "Rock En Espa\u00f1ol - Lo Mejor De Tijuana No!",
+        "url": "https://open.spotify.com/album/53yl7Z1s91Fyq3Y69La68g"
       },
       "artists": [
         {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+          "name": "Tijuana No!",
+          "url": "https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1"
         }
       ],
-      "duration_ms": 253653,
-      "name": "El No Lo Mato",
-      "url": "https://open.spotify.com/track/2hntX3w48OucbEqoLoDnPZ"
+      "duration_ms": 282120,
+      "name": "Pobre de Ti",
+      "url": "https://open.spotify.com/track/17ASXCVH7zxBHC8P1dThon"
     },
     {
       "added_at": "2023-07-21 00:57:54",
@@ -279,6 +247,38 @@
     {
       "added_at": "2023-07-21 00:57:54",
       "album": {
+        "name": "Delincuentes Con Placa",
+        "url": "https://open.spotify.com/album/4Sdi8I9p9AkGbx8LnFf4wn"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 253653,
+      "name": "El No Lo Mato",
+      "url": "https://open.spotify.com/track/2hntX3w48OucbEqoLoDnPZ"
+    },
+    {
+      "added_at": "2023-07-21 00:57:54",
+      "album": {
+        "name": "25 a\u00f1os",
+        "url": "https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 230693,
+      "name": "Pobre so\u00f1ador",
+      "url": "https://open.spotify.com/track/6UjxBtLPznyXztlMAFrtOW"
+    },
+    {
+      "added_at": "2023-07-21 00:57:54",
+      "album": {
         "name": "15 Rolitas de Amor, Vol. 7",
         "url": "https://open.spotify.com/album/2Y46Nv8WCalJxXUVIR8Pnt"
       },
@@ -307,6 +307,70 @@
       "duration_ms": 213000,
       "name": "Un Minuto de Amor, Pt. 1",
       "url": "https://open.spotify.com/track/56eJXlNuSgZ7ylwPSXWtvK"
+    },
+    {
+      "added_at": "2023-07-21 00:57:54",
+      "album": {
+        "name": "Mar\u00eda (Remastered)",
+        "url": "https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF"
+      },
+      "artists": [
+        {
+          "name": "Liran' Roll",
+          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
+        }
+      ],
+      "duration_ms": 264289,
+      "name": "Mar\u00eda",
+      "url": "https://open.spotify.com/track/0GMNzFmH1JTNBbA09az4Vw"
+    },
+    {
+      "added_at": "2023-07-21 00:57:54",
+      "album": {
+        "name": "La Ciudad",
+        "url": "https://open.spotify.com/album/1cFOUdbvsmvi5WtQTJErEa"
+      },
+      "artists": [
+        {
+          "name": "Blues Boys",
+          "url": "https://open.spotify.com/artist/2fsmmyD3SsJL2suRoZwI6z"
+        }
+      ],
+      "duration_ms": 214366,
+      "name": "El Perdedor",
+      "url": "https://open.spotify.com/track/4mjRBGJ2HKf9cvL8ymKnlg"
+    },
+    {
+      "added_at": "2023-07-21 00:57:54",
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/44zewT40ZvoTw2uqBDB9xb"
+      },
+      "artists": [
+        {
+          "name": "Karatula",
+          "url": "https://open.spotify.com/artist/7Cua15H5PkQUNlea7KAfkH"
+        }
+      ],
+      "duration_ms": 267853,
+      "name": "Al Final Llor\u00e9",
+      "url": "https://open.spotify.com/track/1U8O8ZjjM4b7ROyOPQonDj"
+    },
+    {
+      "added_at": "2023-07-21 00:57:54",
+      "album": {
+        "name": "Anda Borracho Pancho",
+        "url": "https://open.spotify.com/album/6h5XBXviV0nnD4ZgyAbuXw"
+      },
+      "artists": [
+        {
+          "name": "Sam Sam",
+          "url": "https://open.spotify.com/artist/0LRuvIEgEeGnU02JG2Rbcb"
+        }
+      ],
+      "duration_ms": 302091,
+      "name": "Anda Borracho Pancho",
+      "url": "https://open.spotify.com/track/7w4yt7qtiS6hAFWr4drUdw"
     },
     {
       "added_at": "2023-07-21 00:57:54",
@@ -343,24 +407,8 @@
     {
       "added_at": "2023-07-21 00:57:54",
       "album": {
-        "name": "La Ciudad",
-        "url": "https://open.spotify.com/album/1cFOUdbvsmvi5WtQTJErEa"
-      },
-      "artists": [
-        {
-          "name": "Blues Boys",
-          "url": "https://open.spotify.com/artist/2fsmmyD3SsJL2suRoZwI6z"
-        }
-      ],
-      "duration_ms": 214366,
-      "name": "El Perdedor",
-      "url": "https://open.spotify.com/track/4mjRBGJ2HKf9cvL8ymKnlg"
-    },
-    {
-      "added_at": "2023-07-21 00:57:54",
-      "album": {
-        "name": "Mar\u00eda (Remastered)",
-        "url": "https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF"
+        "name": "Quiero Cambiar (Remastered)",
+        "url": "https://open.spotify.com/album/4Bl52OEsKDB2zcYIrakJVy"
       },
       "artists": [
         {
@@ -368,9 +416,9 @@
           "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
         }
       ],
-      "duration_ms": 264289,
-      "name": "Mar\u00eda",
-      "url": "https://open.spotify.com/track/0GMNzFmH1JTNBbA09az4Vw"
+      "duration_ms": 418795,
+      "name": "Barco Azul - Remastered",
+      "url": "https://open.spotify.com/track/3g30HfhfhNzSem6XEaljXy"
     },
     {
       "added_at": "2023-07-21 00:57:54",
@@ -387,38 +435,6 @@
       "duration_ms": 210666,
       "name": "Me Dijiste",
       "url": "https://open.spotify.com/track/630TIL2bWuseStelIhFT6L"
-    },
-    {
-      "added_at": "2023-07-21 00:57:54",
-      "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/44zewT40ZvoTw2uqBDB9xb"
-      },
-      "artists": [
-        {
-          "name": "Karatula",
-          "url": "https://open.spotify.com/artist/7Cua15H5PkQUNlea7KAfkH"
-        }
-      ],
-      "duration_ms": 267853,
-      "name": "Al Final Llor\u00e9",
-      "url": "https://open.spotify.com/track/1U8O8ZjjM4b7ROyOPQonDj"
-    },
-    {
-      "added_at": "2023-07-21 00:57:54",
-      "album": {
-        "name": "Anda Borracho Pancho",
-        "url": "https://open.spotify.com/album/6h5XBXviV0nnD4ZgyAbuXw"
-      },
-      "artists": [
-        {
-          "name": "Sam Sam",
-          "url": "https://open.spotify.com/artist/0LRuvIEgEeGnU02JG2Rbcb"
-        }
-      ],
-      "duration_ms": 302091,
-      "name": "Anda Borracho Pancho",
-      "url": "https://open.spotify.com/track/7w4yt7qtiS6hAFWr4drUdw"
     },
     {
       "added_at": "2023-07-21 00:57:54",
@@ -471,22 +487,6 @@
     {
       "added_at": "2023-07-21 00:57:54",
       "album": {
-        "name": "Quiero Cambiar (Remastered)",
-        "url": "https://open.spotify.com/album/4Bl52OEsKDB2zcYIrakJVy"
-      },
-      "artists": [
-        {
-          "name": "Liran' Roll",
-          "url": "https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS"
-        }
-      ],
-      "duration_ms": 418795,
-      "name": "Barco Azul - Remastered",
-      "url": "https://open.spotify.com/track/3g30HfhfhNzSem6XEaljXy"
-    },
-    {
-      "added_at": "2023-07-21 00:57:54",
-      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/5K7JaRLKjYiSr4zYl7ldBO"
       },
@@ -503,42 +503,6 @@
     {
       "added_at": "2023-07-21 00:57:54",
       "album": {
-        "name": "\u00c9l No Lo Mat\u00f3",
-        "url": "https://open.spotify.com/album/0kYHzDHyOWhCjBDAqDgoM8"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        },
-        {
-          "name": "Alex Lora",
-          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
-        }
-      ],
-      "duration_ms": 278934,
-      "name": "\u00c9l No Lo Mat\u00f3",
-      "url": "https://open.spotify.com/track/0HCppMSh838nCgSxskJGzz"
-    },
-    {
-      "added_at": "2023-07-21 00:57:54",
-      "album": {
-        "name": "Rock En Espa\u00f1ol - Lo Mejor De Tex Tex",
-        "url": "https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG"
-      },
-      "artists": [
-        {
-          "name": "Tex Tex",
-          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
-        }
-      ],
-      "duration_ms": 188373,
-      "name": "Ahora Que No Vives Conmigo",
-      "url": "https://open.spotify.com/track/2yFG7bR0njsm6ZpWXIT5n2"
-    },
-    {
-      "added_at": "2023-07-21 00:57:54",
-      "album": {
         "name": "Suicida (Remastered)",
         "url": "https://open.spotify.com/album/3IT3HKS1d8nRgQyMmwH9dX"
       },
@@ -551,58 +515,6 @@
       "duration_ms": 243670,
       "name": "Tu Mam\u00e1 No Me Quiere - Remastered",
       "url": "https://open.spotify.com/track/0vGzODOKTWE2jJQgBbYF3v"
-    },
-    {
-      "added_at": "2023-07-21 00:57:54",
-      "album": {
-        "name": "Inhalando Amor",
-        "url": "https://open.spotify.com/album/7L1jJusN1PUODglxbCykzG"
-      },
-      "artists": [
-        {
-          "name": "Hazel",
-          "url": "https://open.spotify.com/artist/6rRH3dKCPZ8L550tadjx1i"
-        }
-      ],
-      "duration_ms": 244160,
-      "name": "Inhalando Amor",
-      "url": "https://open.spotify.com/track/69hdWx8Zy66wkVrocafrrd"
-    },
-    {
-      "added_at": "2023-07-21 00:57:54",
-      "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/5MPP3YL3rZgYG5Bl6iJxha"
-      },
-      "artists": [
-        {
-          "name": "California Blues",
-          "url": "https://open.spotify.com/artist/6T2x1Mz4MTYr3R8evdSDxn"
-        }
-      ],
-      "duration_ms": 186493,
-      "name": "Y Como Es \u00c9l",
-      "url": "https://open.spotify.com/track/6ZRnVnjp57UMZPQqVLMZgS"
-    },
-    {
-      "added_at": "2023-07-21 00:57:54",
-      "album": {
-        "name": "Mun\u0303equita Sinte\u0301tica",
-        "url": "https://open.spotify.com/album/2iPJkJKGh18tLEVvesivr6"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        },
-        {
-          "name": "Rub\u00e9n Albarr\u00e1n",
-          "url": "https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0"
-        }
-      ],
-      "duration_ms": 283488,
-      "name": "Mun\u0303equita Sinte\u0301tica",
-      "url": "https://open.spotify.com/track/0SztZWdbPLXk7EcvQJ6MLt"
     },
     {
       "added_at": "2023-07-21 00:57:54",
@@ -635,6 +547,74 @@
       "duration_ms": 224351,
       "name": "Una Rola de Amor",
       "url": "https://open.spotify.com/track/4oc6fWlPQfoERkPs9TOZGj"
+    },
+    {
+      "added_at": "2023-07-21 00:57:54",
+      "album": {
+        "name": "\u00c9l No Lo Mat\u00f3",
+        "url": "https://open.spotify.com/album/0kYHzDHyOWhCjBDAqDgoM8"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        },
+        {
+          "name": "Alex Lora",
+          "url": "https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh"
+        }
+      ],
+      "duration_ms": 278934,
+      "name": "\u00c9l No Lo Mat\u00f3",
+      "url": "https://open.spotify.com/track/0HCppMSh838nCgSxskJGzz"
+    },
+    {
+      "added_at": "2023-07-21 00:57:54",
+      "album": {
+        "name": "Inhalando Amor",
+        "url": "https://open.spotify.com/album/7L1jJusN1PUODglxbCykzG"
+      },
+      "artists": [
+        {
+          "name": "Hazel",
+          "url": "https://open.spotify.com/artist/6rRH3dKCPZ8L550tadjx1i"
+        }
+      ],
+      "duration_ms": 244160,
+      "name": "Inhalando Amor",
+      "url": "https://open.spotify.com/track/69hdWx8Zy66wkVrocafrrd"
+    },
+    {
+      "added_at": "2023-07-21 00:57:54",
+      "album": {
+        "name": "Rock En Espa\u00f1ol - Lo Mejor De Tex Tex",
+        "url": "https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 188373,
+      "name": "Ahora Que No Vives Conmigo",
+      "url": "https://open.spotify.com/track/2yFG7bR0njsm6ZpWXIT5n2"
+    },
+    {
+      "added_at": "2023-07-21 00:57:54",
+      "album": {
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/5MPP3YL3rZgYG5Bl6iJxha"
+      },
+      "artists": [
+        {
+          "name": "California Blues",
+          "url": "https://open.spotify.com/artist/6T2x1Mz4MTYr3R8evdSDxn"
+        }
+      ],
+      "duration_ms": 186493,
+      "name": "Y Como Es \u00c9l",
+      "url": "https://open.spotify.com/track/6ZRnVnjp57UMZPQqVLMZgS"
     },
     {
       "added_at": "2023-07-21 00:57:54",
@@ -703,6 +683,26 @@
     {
       "added_at": "2023-07-21 00:57:54",
       "album": {
+        "name": "Mun\u0303equita Sinte\u0301tica",
+        "url": "https://open.spotify.com/album/2iPJkJKGh18tLEVvesivr6"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        },
+        {
+          "name": "Rub\u00e9n Albarr\u00e1n",
+          "url": "https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0"
+        }
+      ],
+      "duration_ms": 283488,
+      "name": "Mun\u0303equita Sinte\u0301tica",
+      "url": "https://open.spotify.com/track/0SztZWdbPLXk7EcvQJ6MLt"
+    },
+    {
+      "added_at": "2023-07-21 00:57:54",
+      "album": {
         "name": "Lo Mejor de Tex Tex",
         "url": "https://open.spotify.com/album/1yicTVpvbAWlZMPdiyXf0X"
       },
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-07-21 00:57:54",
       "album": {
+        "name": "15 Rolitas de Amor",
+        "url": "https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21"
+      },
+      "artists": [
+        {
+          "name": "Interpuesto",
+          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
+        }
+      ],
+      "duration_ms": 200053,
+      "name": "Quien Te Cantara",
+      "url": "https://open.spotify.com/track/6h4YWETL6DAEKpeSr0CaGu"
+    },
+    {
+      "added_at": "2023-07-21 00:57:54",
+      "album": {
         "name": "La Ciudad",
         "url": "https://open.spotify.com/album/1cFOUdbvsmvi5WtQTJErEa"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 228693,
       "name": "La chica banda",
       "url": "https://open.spotify.com/track/5fckoQosqCX9xJvHlwITY8"
-    },
-    {
-      "added_at": "2023-07-21 00:57:54",
-      "album": {
-        "name": "15 Rolitas de Amor",
-        "url": "https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21"
-      },
-      "artists": [
-        {
-          "name": "Interpuesto",
-          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
-        }
-      ],
-      "duration_ms": 200053,
-      "name": "Quien Te Cantara",
-      "url": "https://open.spotify.com/track/6h4YWETL6DAEKpeSr0CaGu"
     },
     {
       "added_at": "2023-07-21 00:57:54",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-07-21 00:57:54",
       "album": {
-        "name": "Grandes \u00c9xitos a Nuestro Estilo, Vol. 1",
-        "url": "https://open.spotify.com/album/5N3V31gLMUfOt999zrpKpV"
-      },
-      "artists": [
-        {
-          "name": "Interpuesto",
-          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
-        }
-      ],
-      "duration_ms": 215746,
-      "name": "Volver\u00e9",
-      "url": "https://open.spotify.com/track/1Cgos3Sy03bCQMKxqnswGU"
-    },
-    {
-      "added_at": "2023-07-21 00:57:54",
-      "album": {
         "name": "Lucha Rock",
         "url": "https://open.spotify.com/album/3qFQ5sXiOUEy0vVMj1LIii"
       },
@@ -927,18 +911,18 @@
     {
       "added_at": "2023-07-21 00:57:54",
       "album": {
-        "name": "Por Tu Amor",
-        "url": "https://open.spotify.com/album/4M1twGVolM2JCjLET2zQBa"
+        "name": "Grandes \u00c9xitos a Nuestro Estilo, Vol. 1",
+        "url": "https://open.spotify.com/album/5N3V31gLMUfOt999zrpKpV"
       },
       "artists": [
         {
-          "name": "Isis",
-          "url": "https://open.spotify.com/artist/1LONEO5qtKtO4HqMcc4OpC"
+          "name": "Interpuesto",
+          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
         }
       ],
-      "duration_ms": 200388,
-      "name": "Por Tu Amor",
-      "url": "https://open.spotify.com/track/14Piw2n4E4fsRs8Ay3BhPS"
+      "duration_ms": 215746,
+      "name": "Volver\u00e9",
+      "url": "https://open.spotify.com/track/1Cgos3Sy03bCQMKxqnswGU"
     },
     {
       "added_at": "2023-07-21 00:57:54",
@@ -955,6 +939,22 @@
       "duration_ms": 389863,
       "name": "Hotel California",
       "url": "https://open.spotify.com/track/3JrPxPnQ2TdBF6BZuZpzTK"
+    },
+    {
+      "added_at": "2023-07-21 00:57:54",
+      "album": {
+        "name": "Por Tu Amor",
+        "url": "https://open.spotify.com/album/4M1twGVolM2JCjLET2zQBa"
+      },
+      "artists": [
+        {
+          "name": "Isis",
+          "url": "https://open.spotify.com/artist/1LONEO5qtKtO4HqMcc4OpC"
+        }
+      ],
+      "duration_ms": 200388,
+      "name": "Por Tu Amor",
+      "url": "https://open.spotify.com/track/14Piw2n4E4fsRs8Ay3BhPS"
     },
     {
       "added_at": "2023-07-21 00:57:54",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-07-21 00:57:54",
       "album": {
-        "name": "S\u00e9 Lo Que Hicieron el Disco Pasado (Del Creador de Suicida)",
-        "url": "https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 251000,
-      "name": "Hip\u00f3crita",
-      "url": "https://open.spotify.com/track/5Ct7MKwBBOuBr8uTh8uisv"
-    },
-    {
-      "added_at": "2023-07-21 00:57:54",
-      "album": {
         "name": "Ella Ya Muri\u00f3",
         "url": "https://open.spotify.com/album/2dC9MuUxi90lLwlqnbrSwV"
       },
@@ -1035,22 +1019,6 @@
       "duration_ms": 301680,
       "name": "D\u00e9jalo",
       "url": "https://open.spotify.com/track/6CqGIY1S178hzRvAKh1Z1r"
-    },
-    {
-      "added_at": "2023-07-21 00:57:54",
-      "album": {
-        "name": "Un Panteon Muy Vivo",
-        "url": "https://open.spotify.com/album/0HgimXrbh89mAHF3nLGsLP"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 389733,
-      "name": "La Dosis Perfecta",
-      "url": "https://open.spotify.com/track/5aLGdqM8EbHC3B1iKWKDIJ"
     },
     {
       "added_at": "2023-07-21 00:57:54",
@@ -1071,18 +1039,34 @@
     {
       "added_at": "2023-07-21 00:57:54",
       "album": {
-        "name": "15 Grandes Exitos",
-        "url": "https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR"
+        "name": "S\u00e9 Lo Que Hicieron el Disco Pasado (Del Creador de Suicida)",
+        "url": "https://open.spotify.com/album/7fn7RJLP6jySOnTxhRefLm"
       },
       "artists": [
         {
-          "name": "Three Souls In My Mind",
-          "url": "https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R"
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
         }
       ],
-      "duration_ms": 210720,
-      "name": "Chavo de onda",
-      "url": "https://open.spotify.com/track/21eBjW0qDhxhqSWF7RTVp8"
+      "duration_ms": 251000,
+      "name": "Hip\u00f3crita",
+      "url": "https://open.spotify.com/track/5Ct7MKwBBOuBr8uTh8uisv"
+    },
+    {
+      "added_at": "2023-07-21 00:57:54",
+      "album": {
+        "name": "Un Panteon Muy Vivo",
+        "url": "https://open.spotify.com/album/0HgimXrbh89mAHF3nLGsLP"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 389733,
+      "name": "La Dosis Perfecta",
+      "url": "https://open.spotify.com/track/5aLGdqM8EbHC3B1iKWKDIJ"
     },
     {
       "added_at": "2023-07-21 00:57:54",
@@ -1099,22 +1083,6 @@
       "duration_ms": 255053,
       "name": "Dolor de Madre",
       "url": "https://open.spotify.com/track/5My9wcnFr3dFFEO6yh8VBO"
-    },
-    {
-      "added_at": "2023-07-21 00:57:54",
-      "album": {
-        "name": "15 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 215480,
-      "name": "Tocando el Cielo",
-      "url": "https://open.spotify.com/track/3pE3ecB6BsdzovRRtcieRB"
     },
     {
       "added_at": "2023-07-21 00:57:54",
@@ -1160,9 +1128,9 @@
           "url": "https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R"
         }
       ],
-      "duration_ms": 123386,
-      "name": "Abuso de autoridad",
-      "url": "https://open.spotify.com/track/1XheWGcrMGywXilhQPoZzr"
+      "duration_ms": 210720,
+      "name": "Chavo de onda",
+      "url": "https://open.spotify.com/track/21eBjW0qDhxhqSWF7RTVp8"
     },
     {
       "added_at": "2023-07-21 00:57:54",
@@ -1179,6 +1147,22 @@
       "duration_ms": 176706,
       "name": "Alarmala De Tos",
       "url": "https://open.spotify.com/track/5w2jRK3JTtHT7IUxcZwn89"
+    },
+    {
+      "added_at": "2023-07-21 00:57:54",
+      "album": {
+        "name": "15 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "duration_ms": 215480,
+      "name": "Tocando el Cielo",
+      "url": "https://open.spotify.com/track/3pE3ecB6BsdzovRRtcieRB"
     },
     {
       "added_at": "2023-07-21 00:57:54",
@@ -1227,6 +1211,22 @@
       "duration_ms": 202266,
       "name": "Me Gusta Tu Chava",
       "url": "https://open.spotify.com/track/3w4AROEjy3xNq7hBvKXbN0"
+    },
+    {
+      "added_at": "2023-07-21 00:57:54",
+      "album": {
+        "name": "Srita Martinez Punk",
+        "url": "https://open.spotify.com/album/7zUKgICWPou4BmMc0cYNGV"
+      },
+      "artists": [
+        {
+          "name": "Tex Tex",
+          "url": "https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4"
+        }
+      ],
+      "duration_ms": 198240,
+      "name": "Srita Martinez Punk",
+      "url": "https://open.spotify.com/track/5xtJYEAXKpBNFQZisiS9sr"
     }
   ],
   "unique_name": "Rock Urbano",

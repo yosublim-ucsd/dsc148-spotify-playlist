@@ -1,12 +1,12 @@
 {
   "description": "Ya Wailee! Get ready for some serious 90s nostalgia. Cover : Amr Diab",
-  "num_followers": 89218,
+  "num_followers": 89268,
   "original_name": "90s Arabic Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjJhMGQ1MTQ4NjUyYjgzNWU0MzRjMDJkNDgzZjUyMWM2YmM2ZmI1",
+  "snapshot_id": "MCxkNzNmMzE1NjFiNTY0NDEzMzBmNjI3MjIyNmQyMTA3NzE3ZjRjMDY4",
   "tracks": [
     {
       "added_at": "2023-04-12 09:27:22",
@@ -383,22 +383,6 @@
     {
       "added_at": "2023-04-12 09:27:22",
       "album": {
-        "name": "Sahrany",
-        "url": "https://open.spotify.com/album/5uHM1w5ArPnv1foKaRqoiI"
-      },
-      "artists": [
-        {
-          "name": "Ehab Tawfik",
-          "url": "https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C"
-        }
-      ],
-      "duration_ms": 259613,
-      "name": "Sahrany",
-      "url": "https://open.spotify.com/track/0Ky7MMa6YeAXNofU3F1hoe"
-    },
-    {
-      "added_at": "2023-04-12 09:27:22",
-      "album": {
         "name": "Lolaki",
         "url": "https://open.spotify.com/album/5lysbcklI2aaHzhUqPULow"
       },
@@ -431,6 +415,22 @@
     {
       "added_at": "2023-04-12 09:27:22",
       "album": {
+        "name": "Sahrany",
+        "url": "https://open.spotify.com/album/5uHM1w5ArPnv1foKaRqoiI"
+      },
+      "artists": [
+        {
+          "name": "Ehab Tawfik",
+          "url": "https://open.spotify.com/artist/7AuBGlcUaHok37yr6u963C"
+        }
+      ],
+      "duration_ms": 259613,
+      "name": "Sahrany",
+      "url": "https://open.spotify.com/track/0Ky7MMa6YeAXNofU3F1hoe"
+    },
+    {
+      "added_at": "2023-04-12 09:27:22",
+      "album": {
         "name": "The Very Best Of Wadi Al-Safi",
         "url": "https://open.spotify.com/album/2LEdgefrrQ0KRSUpT6Cnh9"
       },
@@ -443,22 +443,6 @@
       "duration_ms": 184946,
       "name": "Tallou Hbabna",
       "url": "https://open.spotify.com/track/3vvOccEtVWGrNbPaUsyNso"
-    },
-    {
-      "added_at": "2023-04-12 09:27:22",
-      "album": {
-        "name": "Roh Alby",
-        "url": "https://open.spotify.com/album/09iSw6kGLKGL65mTxXUHp9"
-      },
-      "artists": [
-        {
-          "name": "Mohamed Mohie",
-          "url": "https://open.spotify.com/artist/0kx1MvP6InHp52v64yCRx4"
-        }
-      ],
-      "duration_ms": 277026,
-      "name": "Ahl El Malama",
-      "url": "https://open.spotify.com/track/5ROxylabINxB4l9Y6vxaBt"
     },
     {
       "added_at": "2023-04-12 09:27:22",
@@ -479,18 +463,18 @@
     {
       "added_at": "2023-04-12 09:27:22",
       "album": {
-        "name": "Ya Leila",
-        "url": "https://open.spotify.com/album/651XwngqHNHNhwEsvOUL10"
+        "name": "Roh Alby",
+        "url": "https://open.spotify.com/album/09iSw6kGLKGL65mTxXUHp9"
       },
       "artists": [
         {
-          "name": "Hisham Abbas",
-          "url": "https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG"
+          "name": "Mohamed Mohie",
+          "url": "https://open.spotify.com/artist/0kx1MvP6InHp52v64yCRx4"
         }
       ],
-      "duration_ms": 260167,
-      "name": "Ya Leila Disco",
-      "url": "https://open.spotify.com/track/04IvZrvzumdtX3sH2AmHXG"
+      "duration_ms": 277026,
+      "name": "Ahl El Malama",
+      "url": "https://open.spotify.com/track/5ROxylabINxB4l9Y6vxaBt"
     },
     {
       "added_at": "2023-04-12 09:27:22",
@@ -515,6 +499,22 @@
       "duration_ms": 368933,
       "name": "Didi",
       "url": "https://open.spotify.com/track/39GNZAuUKTvX1sSEfMUKGf"
+    },
+    {
+      "added_at": "2023-04-12 09:27:22",
+      "album": {
+        "name": "Ya Leila",
+        "url": "https://open.spotify.com/album/651XwngqHNHNhwEsvOUL10"
+      },
+      "artists": [
+        {
+          "name": "Hisham Abbas",
+          "url": "https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG"
+        }
+      ],
+      "duration_ms": 260167,
+      "name": "Ya Leila Disco",
+      "url": "https://open.spotify.com/track/04IvZrvzumdtX3sH2AmHXG"
     },
     {
       "added_at": "2023-04-12 09:27:22",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-04-12 09:27:22",
       "album": {
-        "name": "Hayel",
-        "url": "https://open.spotify.com/album/7aNsmE7MTPD6xH4QVCB5NW"
-      },
-      "artists": [
-        {
-          "name": "Hakim",
-          "url": "https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt"
-        }
-      ],
-      "duration_ms": 232986,
-      "name": "Ya Khsartaq Ya Alby",
-      "url": "https://open.spotify.com/track/1EV6LK5yWxxCe7qtY2w0Rm"
-    },
-    {
-      "added_at": "2023-04-12 09:27:22",
-      "album": {
         "name": "Ya Leila",
         "url": "https://open.spotify.com/album/651XwngqHNHNhwEsvOUL10"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 291383,
       "name": "Layali El Shouq",
       "url": "https://open.spotify.com/track/1qQzDpRp5r54W6qdCWW0VX"
+    },
+    {
+      "added_at": "2023-04-12 09:27:22",
+      "album": {
+        "name": "Hayel",
+        "url": "https://open.spotify.com/album/7aNsmE7MTPD6xH4QVCB5NW"
+      },
+      "artists": [
+        {
+          "name": "Hakim",
+          "url": "https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt"
+        }
+      ],
+      "duration_ms": 232986,
+      "name": "Ya Khsartaq Ya Alby",
+      "url": "https://open.spotify.com/track/1EV6LK5yWxxCe7qtY2w0Rm"
     }
   ],
   "unique_name": "90s Arabic Hits",

@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: フジタ カコ
 
-1,543 songs - 4 day 4 hr 11 min
+1,544 songs - 4 day 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -923,7 +923,7 @@
 | [いとをかし](https://open.spotify.com/track/7EDm2Hy7WYm49AXywJdpkW) | [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [いとをかし](https://open.spotify.com/album/0IeYhVouWKJSzL9RoaJoQf) | 3:15 | 2022-05-29 | 2022-11-04 |
 | [いまここ](https://open.spotify.com/track/06NsjfSGnA7jfhrWRjq7wE) | [Ikuko Harada](https://open.spotify.com/artist/37bsUoMW0Hbqj1l0MxDkDw) | [いま](https://open.spotify.com/album/3y1iNXWyjKx62G6EKq3Hr3) | 11:23 | 2023-06-20 | 2023-06-28 |
 | [いまだけ](https://open.spotify.com/track/5hvX6FzExPLJgmPRVLyvqZ) | [Kana Adachi](https://open.spotify.com/artist/6SY4uTql6IMmzbAJH9oAsJ) | [いまだけ](https://open.spotify.com/album/7fAKRqfPEoqDFWhRbQ5qZm) | 3:14 | 2022-09-29 | 2022-10-05 |
-| [うそつき](https://open.spotify.com/track/5IBNmCgZO97b2wqgh8dQSf) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [うそつき](https://open.spotify.com/album/2JDz624JdZ8McGoKJAXPvX) | 4:57 | 2023-05-11 |  |
+| [うそつき](https://open.spotify.com/track/5IBNmCgZO97b2wqgh8dQSf) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [うそつき](https://open.spotify.com/album/2JDz624JdZ8McGoKJAXPvX) | 4:57 | 2023-05-11 | 2023-07-25 |
 | [うつろぶね](https://open.spotify.com/track/6jJK86HoqRhebpT1Tisdfb) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [うつろぶね](https://open.spotify.com/album/3RrSnMnxlKcLCtHgu2p9SZ) | 3:53 | 2022-05-29 | 2022-07-28 |
 | [うらぎりもの](https://open.spotify.com/track/4PT1JrWIZyeF9koWq78PcP) | [RYUTist](https://open.spotify.com/artist/4BSpF4yQWrGiYdxNsLRdX1), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [うらぎりもの/しるし](https://open.spotify.com/album/2nC1uWzDL0LT7oGvolVw7p) | 4:27 | 2022-08-09 | 2022-08-17 |
 | [えっか](https://open.spotify.com/track/3wPm5NGWQqLx2aYOhMeCo6) | [mihoro\*](https://open.spotify.com/artist/6klHctW8dryXG9b5RrCLmV) | [えっか](https://open.spotify.com/album/5oFyxyRwNVIbgak4z6l8bq) | 3:42 | 2023-01-10 | 2023-01-12 |
@@ -1292,6 +1292,7 @@
 | [天使のキス](https://open.spotify.com/track/0BPqXMCGVxCIcBo7WPjOzj) | [みらん](https://open.spotify.com/artist/2yfpy1pbfniKZ3I4rMjKnX) | [天使のキス](https://open.spotify.com/album/3lt2LRlBbR6N0OuRSpCuz4) | 3:00 | 2023-05-30 | 2023-06-07 |
 | [天国](https://open.spotify.com/track/2fsdF5wmRf34jJEaWoEaIM) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [天国](https://open.spotify.com/album/6gdC0J09Uv87Wuqc3eVBJq) | 4:11 | 2022-09-06 | 2022-09-09 |
 | [天国にいちばん近い島](https://open.spotify.com/track/67wpz675S04tMcORr36Psb) | [Asako Toki](https://open.spotify.com/artist/4VIGlACQnSacU0b1HTLA7y) | [天国にいちばん近い島](https://open.spotify.com/album/4YPZiZnV40IFY4X3j8Jnta) | 4:43 | 2022-10-04 | 2022-11-28 |
+| [天悪](https://open.spotify.com/track/6QVXXnFhB9xqos2aqwczhi) | [shimamo](https://open.spotify.com/artist/2NbtPKvGZ9Ss2KkbMtUhNm) | [天悪](https://open.spotify.com/album/5AN3eT7pdKKPrBpSFQcJE2) | 3:21 | 2023-07-20 |  |
 | [天気雨 \-Still Love me\- \(feat\. ひかり\)](https://open.spotify.com/track/7trAsgfCsb4zWYAu1ydGM9) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [天気雨 \-Still Love me\- \(feat\. ひかり\)](https://open.spotify.com/album/57LhNeBgIORm3Q9G6tVaOH) | 3:21 | 2022-06-21 | 2022-08-04 |
 | [太陽](https://open.spotify.com/track/7aRxiKCYo9xsF96roJNco2) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [太陽](https://open.spotify.com/album/5MfsRSyPjJ5BcufN5r6LEO) | 3:29 | 2022-08-23 | 2022-08-25 |
 | [太陽が昇るまで](https://open.spotify.com/track/58m5kIRscFXdd2SNmvdsMD) | [salasa](https://open.spotify.com/artist/5WcurhZ9M2BpSQWhUC4oPc) | [Inner Ocean](https://open.spotify.com/album/1wtnBDpaRDystPjLmcX2D1) | 3:43 | 2022-12-13 | 2023-01-25 |

@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Gurnazar, Stebin Ben
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,944 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,999 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tu Aaja Na](https://open.spotify.com/track/2j7qCAaDElA5gpw5YK3A4z) | [Gurnazar](https://open.spotify.com/artist/682M6cmwGHOyAB1ZmPv38W), [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Kartik Dev](https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz) | [Tu Aaja Na](https://open.spotify.com/album/0W8AHNB6vV1cf2gzmXR8IH) | 4:50 |
 | 2 | [Dilon Ki Doriyan \(From "Bawaal"\)](https://open.spotify.com/track/1S6LtcjRzG5uONe3v6I0IT) | [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Zahrah S Khan](https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P), [Romy](https://open.spotify.com/artist/0bRPtPZQkWHeG7MGk9eWlh) | [Dilon Ki Doriyan \(From "Bawaal"\)](https://open.spotify.com/album/0weAJmsM6oa2aJAv2TBsPc) | 3:00 |
 | 3 | [Lo Aayi Barsaat](https://open.spotify.com/track/2VsWBRKYkZH9FdD7AE6hRQ) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Lo Aayi Barsaat](https://open.spotify.com/album/4A6JkFOHnUTSlZamQXCD58) | 3:42 |
-| 4 | [Love Stereo Again](https://open.spotify.com/track/1LncMhHiC46mKQy7bIrcTp) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Tiger Shroff](https://open.spotify.com/artist/3fRSA5zbD43VMmgwW84rOo), [Zahrah S Khan](https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt) | [Love Stereo Again](https://open.spotify.com/album/6WtmDSX5oMJbjY95toxXQl) | 3:26 |
+| 4 | [Love Stereo Again](https://open.spotify.com/track/1LncMhHiC46mKQy7bIrcTp) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Zahrah S Khan](https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P), [Tiger Shroff](https://open.spotify.com/artist/3fRSA5zbD43VMmgwW84rOo) | [Love Stereo Again](https://open.spotify.com/album/6WtmDSX5oMJbjY95toxXQl) | 3:26 |
 | 5 | [Ghoome](https://open.spotify.com/track/2S8g6nlwCih4u4GAn14GqE) | [Vismay Patel](https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs) | [Ghoome](https://open.spotify.com/album/4u73oMykwBdkhBuJ9ufJjT) | 2:49 |
 | 6 | [Dil Mera \(feat\. Yashraj\)](https://open.spotify.com/track/1nVSxDyWTQbRrn3PudCibw) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Savera](https://open.spotify.com/artist/3CVXA5TAWpmfGPqyMqXpPb), [Burrah](https://open.spotify.com/artist/6YB1D1koiebYqzQesSUfIS), [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST) | [Dil Mera \(feat\. Yashraj\)](https://open.spotify.com/album/7GlA1ckwyopYmRxvSZs4Hs) | 2:40 |
 | 7 | [Fida](https://open.spotify.com/track/1RnGyOqCbgpfmSh423M4t1) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP) | [Fida](https://open.spotify.com/album/0JQ7xpuT2g8TlnT8r7hamD) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Baarish Aayi Hai](https://open.spotify.com/track/7c0rTqSdcIYvbU3jLKzdYF) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB), [Rana Sotal](https://open.spotify.com/artist/0AS5y6FY1c4JRl0oWAYu2y) | [Baarish Aayi Hai](https://open.spotify.com/album/6a851oa8UJOEXLIf9sKPNc) | 3:17 |
 | 50 | [Hasi Ban Gaye](https://open.spotify.com/track/7HExkRyYBly0RMz47kzgS5) | [Ami Mishra](https://open.spotify.com/artist/5ugsiK49gIkIVh8U93EO0z), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx), [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP), [VIBIE](https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh) | [Hasi Ban Gaye](https://open.spotify.com/album/2BbxHq6N8pt8jHM5uv7Enh) | 2:45 |
 
-Snapshot ID: `MCwzNTQ2ZTNiMTAwMDFkNmNmNTMxYzYwYWQ1ZmYxYmQxMGYwMDgzNWRm`
+Snapshot ID: `MCxhN2JmMTVlYjA2YTEwNzZhNTRiNzUwM2IyMDY0Mzg2YzJlYmIzNGM1`

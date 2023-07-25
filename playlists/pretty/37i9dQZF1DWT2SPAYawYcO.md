@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: NewJeans
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,823 likes - 99 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,831 likes - 99 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 98 | [If That's What You Want](https://open.spotify.com/track/0L1Tt5ynX4SpezkmZEV1Vg) | [Andy Bull](https://open.spotify.com/artist/5O83Dn8cY3RNwhQKADA175) | [If That's What You Want](https://open.spotify.com/album/5Da9HWWYJV23IroLzcUOre) | 3:40 |
 | 99 | [Girl's feat\. Michael Kime](https://open.spotify.com/track/0csM0X6f3SXTroeTnQvhCx) | [Nice Girl](https://open.spotify.com/artist/2y5CM4wbWQ9R4JTjB860lB), [Michael Kime](https://open.spotify.com/artist/2Rt6j2PIHTzRbtwD2S69F8) | [Girl's feat\. Michael Kime](https://open.spotify.com/album/2IQOiAgFT4wiboIB29DK6U) | 4:32 |
 
-Snapshot ID: `MCw5YmViOWRjNGY5NGJiMzQ0ZTA5YmY0MTNlZWJlYzI1NTk4MGIyNzM2`
+Snapshot ID: `MCxmMjQxNzkyZWM3NTNhMmIyMDM5MTNkNjRkNjA1ZDVmZDEzN2UxNTAx`

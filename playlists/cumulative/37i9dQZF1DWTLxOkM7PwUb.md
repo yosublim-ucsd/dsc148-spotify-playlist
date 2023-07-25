@@ -4,7 +4,7 @@
 
 > ❤️ o 💔
 
-171 songs - 9 hr 56 min
+172 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [No Lo Se](https://open.spotify.com/track/2AzgvH7QJkq4nXBLQeLhuD) | [Klave](https://open.spotify.com/artist/4hw9WaVkOzRQN6XaUqULv1), [Coscu](https://open.spotify.com/artist/5iDY2x1LHqHUH73t2p0YOV), [AYWA](https://open.spotify.com/artist/6GEVw5yA5Oe5UxuiN2YOIO) | [No Lo Se](https://open.spotify.com/album/60CojhteCCRDrHyEggr75i) | 3:44 | 2021-12-03 | 2022-07-23 |
 | [No Me Llores](https://open.spotify.com/track/2fBL047Cv32R3UFEup6xkP) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Leby](https://open.spotify.com/artist/1Pk9sKrTxQ1lLfCg9b0PlF) | [No Me Llores](https://open.spotify.com/album/3Iz5tFIsYZ1K6jV5nCjD52) | 3:11 | 2022-06-18 |  |
 | [No Me Llores](https://open.spotify.com/track/4DNzemGNnckcJSr8DVk8Uj) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Leby](https://open.spotify.com/artist/1Pk9sKrTxQ1lLfCg9b0PlF) | [No Me Llores](https://open.spotify.com/album/1icQUm91R0BRAMckJHyLwQ) | 3:11 | 2021-12-03 | 2022-07-29 |
-| [No Puedo Fingir](https://open.spotify.com/track/61I0O29lEDZA6kOY7bWh2t) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [No Puedo Fingir](https://open.spotify.com/album/79G1pr97ZqPkgoIc88RaUS) | 2:44 | 2021-12-03 |  |
+| [No Puedo Fingir](https://open.spotify.com/track/61I0O29lEDZA6kOY7bWh2t) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [No Puedo Fingir](https://open.spotify.com/album/79G1pr97ZqPkgoIc88RaUS) | 2:44 | 2021-12-03 | 2023-07-25 |
 | [No Te Hagas](https://open.spotify.com/track/5hKjEpYrJIJs6uPl7zw6Y6) | [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [No Te Hagas](https://open.spotify.com/album/5z6CpoA90Y3xIZC45maoYu) | 3:53 | 2021-12-03 |  |
 | [Nunca Me Amo](https://open.spotify.com/track/6jCF6MQ050engg73RJnN87) | [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF), [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN) | [Nunca Me Amo](https://open.spotify.com/album/1sCGtFPVUO2xyNO5FrwXvU) | 3:19 | 2022-12-09 |  |
 | [Nunca Me Amo](https://open.spotify.com/track/1uihSnDxZidO3IMM2hmUBW) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Baby Rasta](https://open.spotify.com/artist/0GgyFUpOyzWDRDqx8FCTDN), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF) | [Nunca Me Amo](https://open.spotify.com/album/68D3lrpkYBgh6RwxNqZ0l4) | 3:19 | 2021-12-03 | 2022-12-22 |
@@ -139,6 +139,7 @@
 | [S.A.D](https://open.spotify.com/track/0ZGNuav3HfUf1iOLoF3CaO) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [S.A.D](https://open.spotify.com/album/2y4bx11ZTk9jxo0zXwLhLm) | 2:08 | 2022-08-02 |  |
 | [S.A.D](https://open.spotify.com/track/46D8MyZ8htLBj7BjblMyeX) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [S.A.D](https://open.spotify.com/album/08FuW6Ze2LksgpPpjRqJTd) | 2:08 | 2021-12-03 | 2022-07-29 |
 | [Se Terminó \(feat\. Kodigo\)](https://open.spotify.com/track/4dpNEp0XiI4dP2soHsxDkZ) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Se Terminó \(feat\. Kodigo\)](https://open.spotify.com/album/2gFUic8OPDGYxehK7JIddH) | 3:22 | 2021-12-03 |  |
+| [Sexy \(feat\. Marlku\)](https://open.spotify.com/track/07op5jYgtFXEdA5NGqBgEr) | [Eich](https://open.spotify.com/artist/0sNvI8p4fuICGGH0pOCxUT), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Marlku](https://open.spotify.com/artist/4o3YJfgarCUSVyPH5HKRA5) | [Sexy \(feat\. Marlku\)](https://open.spotify.com/album/0kVRyKb6YCBggbll6m5QSu) | 4:14 | 2022-12-09 |  |
 | [Sexy \(feat\. Marlku\)](https://open.spotify.com/track/67598hFUFPWCIEy8biXn9D) | [Eich](https://open.spotify.com/artist/0sNvI8p4fuICGGH0pOCxUT), [Marlku](https://open.spotify.com/artist/4o3YJfgarCUSVyPH5HKRA5), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Sexy \(feat\. Marlku\)](https://open.spotify.com/album/2lHn3ehlogEok7DEUe1yfC) | 4:14 | 2021-12-03 | 2023-07-22 |
 | [She Don't Give a Fo](https://open.spotify.com/track/03a359wbiUsjN9h6yzXvmS) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [She Don't Give a Fo](https://open.spotify.com/album/42ZO19JImkKWh6y7rfvrfM) | 3:29 | 2022-06-18 |  |
 | [She Don't Give a FO \(feat\. Khea\)](https://open.spotify.com/track/7ehmaSwhEZv4aaJzxsVMGY) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [She Don't Give a FO \(feat\. Khea\)](https://open.spotify.com/album/0iGKT2RH3hdRRPbf0qAOG3) | 3:29 | 2021-12-03 | 2022-07-29 |

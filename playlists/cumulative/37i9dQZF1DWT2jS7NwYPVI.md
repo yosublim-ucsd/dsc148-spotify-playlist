@@ -4,7 +4,7 @@
 
 > Your cheat sheet for everything on the rise in the rock/alt world\. Cover: PÆRISH
 
-1,631 songs - 3 day 13 hr 38 min
+1,633 songs - 3 day 13 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [<maybe> it's my fault](https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<maybe> it's my fault](https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM) | 2:39 | 2022-06-24 | 2022-08-06 |
 | [\[swiffer\]](https://open.spotify.com/track/2NkAY2jusfzCksQ8QD2awT) | [James Mantis](https://open.spotify.com/artist/0HzRhsDxi3nyKikga3GW5r), [Alysdare](https://open.spotify.com/artist/6yOBXIYRbIDaUgqa9frzxD) | [\[swiffer\]](https://open.spotify.com/album/4ePiQiVJMBua2tZhAhst7D) | 2:15 | 2023-05-19 | 2023-07-08 |
 | [A Disappearing Act](https://open.spotify.com/track/04flu1A6UXP4Stissk3G1l) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Vaxis II: A Window of the Waking Mind](https://open.spotify.com/album/5YRtvIMApwxnUTcWUBcaON) | 3:29 | 2022-06-24 | 2022-10-15 |
+| [A Feeling](https://open.spotify.com/track/2ZutXbnInegCq7HuzlowoU) | [Another Sky](https://open.spotify.com/artist/08p5D6BYuwPqGsFuIDLNFr) | [A Feeling](https://open.spotify.com/album/1sABhF8EK5cn1ErlTOD48M) | 2:35 | 2023-07-24 |  |
 | [a hundred million things](https://open.spotify.com/track/3wR0pgWhNyX9LvXBJNQ9nA) | [Orson Wilds](https://open.spotify.com/artist/3XnFTYeZVpwvW5qQtmWAWe) | [a hundred million things](https://open.spotify.com/album/2rQnVntZLiWFNVZLEyabA4) | 4:11 | 2021-11-19 | 2022-02-12 |
 | [A Kiss for the Whole World x](https://open.spotify.com/track/1LAuVHMWdVkdbNmSVXWw2K) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [A Kiss for the Whole World](https://open.spotify.com/album/5bTSXCOLlIH6gsOvuI3PCI) | 3:31 | 2023-04-21 | 2023-05-20 |
 | [A Little Bit Happy](https://open.spotify.com/track/0QligzLNiKkIKW1Ea2MFHt) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [A Little Bit Happy](https://open.spotify.com/album/1sijQqTWjxFFCYg71WR0oh) | 3:15 | 2023-06-16 | 2023-07-15 |
@@ -264,6 +265,7 @@
 | [Change Your Mind](https://open.spotify.com/track/1tsNTi7wiL0jOhs6kDmZRC) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Lucky For You](https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz) | 3:57 | 2023-06-02 | 2023-06-17 |
 | [Change Your Mind](https://open.spotify.com/track/45KJZeYbF0N1tezwHWpeiz) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Change Your Mind](https://open.spotify.com/album/22PlF1r7TVJujwnutC9vb1) | 3:57 | 2023-05-19 | 2023-06-08 |
 | [Changes](https://open.spotify.com/track/1OJg6070T1v5dVZoU8uj0m) | [The Happy Fits](https://open.spotify.com/artist/73rPcaYEhBd0UuVZBqqyQJ) | [Changes](https://open.spotify.com/album/4UySs59gSRB08g9WEF5Gow) | 3:31 | 2022-03-18 | 2022-05-28 |
+| [Changing](https://open.spotify.com/track/1q82CyiOZzBOyXZUnH7MNA) | [Finish Ticket](https://open.spotify.com/artist/3RthMq3xfDQZl80cMEg1JQ) | [Changing](https://open.spotify.com/album/1ua9vRYID9ginNkC2qxSwe) | 3:48 | 2023-07-24 |  |
 | [Chapstick](https://open.spotify.com/track/2c0NslS6dfGp1LT1iXbqyS) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Chapstick](https://open.spotify.com/album/4AspTebwxBeNJHCWzBWrC9) | 3:13 | 2021-11-19 | 2022-02-05 |
 | [Charlie Bronson](https://open.spotify.com/track/7dZFOg2cJIz57li5yByDXK) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Charlie Bronson](https://open.spotify.com/album/4epVkITSRbajj8VlnOIWvN) | 3:24 | 2022-08-12 | 2022-10-08 |
 | [Checking In](https://open.spotify.com/track/7t2YrgFxbTxTUxkl8bbYHa) | [Arrows in Action](https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ) | [Checking In](https://open.spotify.com/album/1BSES1gYrSt5nUVPfDunDQ) | 2:59 | 2023-05-12 | 2023-05-27 |

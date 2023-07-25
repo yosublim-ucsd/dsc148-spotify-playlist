@@ -1,12 +1,12 @@
 {
   "description": "Los ni\u00f1os se volver\u00e1n locos por estas canciones de fiesta.",
-  "num_followers": 12785,
+  "num_followers": 12801,
   "original_name": "Fiesta para Ni\u00f1os",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MmUwODQyMWRmM2ZkYjA5YzIyMjFiYzk4ZmY1MDI5NjVmNzA0YzVi",
+  "snapshot_id": "MCwyYmUzM2U2OTgzYzA2Y2RmNGRmYzMzNGUzMTkyMmMxNTI3Y2FhYjc5",
   "tracks": [
     {
       "added_at": "2020-04-27 17:12:16",
@@ -151,30 +151,6 @@
     {
       "added_at": "2020-04-27 17:12:16",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Brendon Urie",
-          "url": "https://open.spotify.com/artist/6eYFryfcEu3QSq59D62wZQ"
-        },
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "ME! (feat. Brendon Urie of Panic! At The Disco)",
-      "url": "https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45"
-    },
-    {
-      "added_at": "2020-04-27 17:12:16",
-      "album": {
         "name": "Dance Monkey (Stripped Back) / Dance Monkey",
         "url": "https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD"
       },
@@ -219,6 +195,30 @@
       "duration_ms": 176266,
       "name": "Better When I'm Dancin'",
       "url": "https://open.spotify.com/track/5k5fWendNngd89O8JKoE8L"
+    },
+    {
+      "added_at": "2020-04-27 17:12:16",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Brendon Urie",
+          "url": "https://open.spotify.com/artist/6eYFryfcEu3QSq59D62wZQ"
+        },
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "ME! (feat. Brendon Urie of Panic! At The Disco)",
+      "url": "https://open.spotify.com/track/2Rk4JlNc2TPmZe2af99d45"
     },
     {
       "added_at": "2020-04-27 17:12:16",
@@ -401,22 +401,6 @@
       "url": "https://open.spotify.com/track/463PQggkmk5tTw8ug0ahOX"
     },
     {
-      "added_at": "2020-12-21 17:16:17",
-      "album": {
-        "name": "La Leyenda (Version Super Deluxe)",
-        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        }
-      ],
-      "duration_ms": 187524,
-      "name": "Bidi Bidi Bom Bom",
-      "url": "https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU"
-    },
-    {
       "added_at": "2022-07-11 22:02:08",
       "album": {
         "name": "Encanto (Banda Sonora Original en Espa\u00f1ol)",
@@ -517,6 +501,38 @@
       "url": "https://open.spotify.com/track/58vnVBWfKWIjSVvKTZJly2"
     },
     {
+      "added_at": "2020-12-21 17:16:17",
+      "album": {
+        "name": "La Leyenda (Version Super Deluxe)",
+        "url": "https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        }
+      ],
+      "duration_ms": 187524,
+      "name": "Bidi Bidi Bom Bom",
+      "url": "https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU"
+    },
+    {
+      "added_at": "2020-04-27 17:12:16",
+      "album": {
+        "name": "SIE7E +",
+        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 186946,
+      "name": "Sodio",
+      "url": "https://open.spotify.com/track/7jYZU1CIruZU3puB5tiYiW"
+    },
+    {
       "added_at": "2020-04-27 17:12:16",
       "album": {
         "name": "Faith (From \"Sing\" Original Motion Picture Soundtrack)",
@@ -567,22 +583,6 @@
       "duration_ms": 160718,
       "name": "chiquita suelta",
       "url": "https://open.spotify.com/track/2tu1kkUvtloityaRwbSNZQ"
-    },
-    {
-      "added_at": "2020-04-27 17:12:16",
-      "album": {
-        "name": "SIE7E +",
-        "url": "https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 186946,
-      "name": "Sodio",
-      "url": "https://open.spotify.com/track/7jYZU1CIruZU3puB5tiYiW"
     },
     {
       "added_at": "2023-03-23 17:47:05",
@@ -783,6 +783,22 @@
     {
       "added_at": "2020-04-27 17:12:16",
       "album": {
+        "name": "Go Diego Go Live! The Great Jaguar Rescue",
+        "url": "https://open.spotify.com/album/11OpLREZ8C62lJ9EPFLVAg"
+      },
+      "artists": [
+        {
+          "name": "Go, Diego, Go!",
+          "url": "https://open.spotify.com/artist/5eOdiRdTA8ZsIsHxcjHFm6"
+        }
+      ],
+      "duration_ms": 75306,
+      "name": "Merengue!",
+      "url": "https://open.spotify.com/track/3T5DRtuj3RlqKM70IL5Dzu"
+    },
+    {
+      "added_at": "2020-04-27 17:12:16",
+      "album": {
         "name": "Junior Express - Grandes \u00c9xitos",
         "url": "https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 168253,
       "name": "Me Muevo para Aqu\u00ed",
       "url": "https://open.spotify.com/track/4HnfVgHmTZ7kzOdZMY0FIt"
-    },
-    {
-      "added_at": "2020-04-27 17:12:16",
-      "album": {
-        "name": "Go Diego Go Live! The Great Jaguar Rescue",
-        "url": "https://open.spotify.com/album/11OpLREZ8C62lJ9EPFLVAg"
-      },
-      "artists": [
-        {
-          "name": "Go, Diego, Go!",
-          "url": "https://open.spotify.com/artist/5eOdiRdTA8ZsIsHxcjHFm6"
-        }
-      ],
-      "duration_ms": 75306,
-      "name": "Merengue!",
-      "url": "https://open.spotify.com/track/3T5DRtuj3RlqKM70IL5Dzu"
     },
     {
       "added_at": "2020-04-27 17:12:16",
@@ -967,6 +967,22 @@
     {
       "added_at": "2020-04-27 17:12:16",
       "album": {
+        "name": "Viva Kids, Vol. 1",
+        "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 175333,
+      "name": "Vamos a Jugar",
+      "url": "https://open.spotify.com/track/4qRrtwjr7wKWniPuFr2Cu9"
+    },
+    {
+      "added_at": "2020-04-27 17:12:16",
+      "album": {
         "name": "Yo Soy Franky (M\u00fasica Original de la Serie)",
         "url": "https://open.spotify.com/album/4b1h8Ne7RKTyIpQ9WfWm8F"
       },
@@ -999,22 +1015,6 @@
     {
       "added_at": "2020-04-27 17:12:16",
       "album": {
-        "name": "Viva Kids, Vol. 1",
-        "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 175333,
-      "name": "Vamos a Jugar",
-      "url": "https://open.spotify.com/track/4qRrtwjr7wKWniPuFr2Cu9"
-    },
-    {
-      "added_at": "2020-04-27 17:12:16",
-      "album": {
         "name": "Colorea Tu Portada Vol.25",
         "url": "https://open.spotify.com/album/6B4ZCjw573fCJh94YZq6nV"
       },
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2020-04-27 17:12:16",
       "album": {
-        "name": "La Canci\u00f2n",
-        "url": "https://open.spotify.com/album/7p3hSlLxQtEZ3OWinN1TF8"
-      },
-      "artists": [
-        {
-          "name": "Kidz Bop Kids",
-          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
-        }
-      ],
-      "duration_ms": 189066,
-      "name": "La Canci\u00f2n",
-      "url": "https://open.spotify.com/track/58Ezud7EmDJTWdN5enfRpM"
-    },
-    {
-      "added_at": "2020-04-27 17:12:16",
-      "album": {
         "name": "Adelante",
         "url": "https://open.spotify.com/album/0npmHTuGBf093p6kFgZKam"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 131442,
       "name": "Pi\u00f1ata Attack! (Spanish Version)",
       "url": "https://open.spotify.com/track/6vB7wGPBsUbF68x2oP49lY"
+    },
+    {
+      "added_at": "2020-04-27 17:12:16",
+      "album": {
+        "name": "La Canci\u00f2n",
+        "url": "https://open.spotify.com/album/7p3hSlLxQtEZ3OWinN1TF8"
+      },
+      "artists": [
+        {
+          "name": "Kidz Bop Kids",
+          "url": "https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW"
+        }
+      ],
+      "duration_ms": 189066,
+      "name": "La Canci\u00f2n",
+      "url": "https://open.spotify.com/track/58Ezud7EmDJTWdN5enfRpM"
     },
     {
       "added_at": "2020-04-27 17:12:16",

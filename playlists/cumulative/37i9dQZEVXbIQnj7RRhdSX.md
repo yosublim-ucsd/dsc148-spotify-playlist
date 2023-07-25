@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Italy.
 
-1,351 songs - 2 day 21 hr 31 min
+1,352 songs - 2 day 21 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -479,6 +479,7 @@
 | [Giorno del giudizio \(feat\. Luchè & Mahmood\)](https://open.spotify.com/track/3ERsuauNoR8WVbCdJRHo1P) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2), [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [Salvatore](https://open.spotify.com/album/0RZfejsPZnXDvacWKUe85B) | 2:50 | 2022-03-12 | 2022-03-21 |
 | [Giovane e triste](https://open.spotify.com/track/56WecW5HnWstqg0GvhseEP) | [Nashley](https://open.spotify.com/artist/5RiGhrEoM1SBjZoY25lCfe) | [Giovane e triste](https://open.spotify.com/album/0ZfMM8FzMhHGffOGdew5R1) | 3:06 | 2021-10-20 | 2022-02-05 |
 | [Giovani Wannabe](https://open.spotify.com/track/7iLuBTHJSXM2HalKHFqEEy) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Giovani Wannabe](https://open.spotify.com/album/4Z93gEHbpIBqeNbIK337oA) | 3:32 | 2022-05-29 | 2022-12-04 |
+| [Giovani Wannabe](https://open.spotify.com/track/4ICCU06b8FkQIrMv0XTzlv) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Fake News](https://open.spotify.com/album/6rOuSJCksAl2B5KUvVChR3) | 3:34 | 2023-07-24 |  |
 | [Giovani Wannabe](https://open.spotify.com/track/4z48kVLZOFuRYWSVwzFI5q) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Fake News](https://open.spotify.com/album/3ahrf3cEevIthgGeNcJyZF) | 3:34 | 2023-02-02 | 2023-02-10 |
 | [Giovani Wannabe](https://open.spotify.com/track/58ePbnPGFlX1gBblI23RiG) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Fake News](https://open.spotify.com/album/0gi61wtNNe973Tx5SN7ElT) | 3:34 | 2022-12-03 | 2023-02-01 |
 | [Girls Want Girls \(with Lil Baby\)](https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:41 | 2021-09-05 | 2021-09-12 |
@@ -912,7 +913,7 @@
 | [okk@pp@](https://open.spotify.com/track/6Eut6MtJYENAxBtNG0stnT) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [okk@pp@](https://open.spotify.com/album/2Ev7vWEFWmMsWdiZZKgVR1) | 2:22 | 2022-09-24 | 2022-10-02 |
 | [okk@pp@](https://open.spotify.com/track/75vXpgRif6ZFOBemaQUTfu) | [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA) | [c@ra++ere s?ec!@le](https://open.spotify.com/album/7nDSuDHGJMKFtUTEEVJvUS) | 2:22 | 2022-10-01 | 2022-10-24 |
 | [On BS](https://open.spotify.com/track/34tz0eDhGuFErIuW3q4mPX) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 4:21 | 2022-11-05 | 2022-11-07 |
-| [ON FIRE \- paid in full](https://open.spotify.com/track/2pGbOFiWVwZaTq3iKi5sGb) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Effetto notte](https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga) | 2:56 | 2023-05-20 |  |
+| [ON FIRE \- paid in full](https://open.spotify.com/track/2pGbOFiWVwZaTq3iKi5sGb) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Effetto notte](https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga) | 2:56 | 2023-05-20 | 2023-07-25 |
 | [ONLYFANS \(feat\. MamboLosco\)](https://open.spotify.com/track/1FAhWNoesPUUfBSl8fSe4L) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [Wave Part 1](https://open.spotify.com/album/4Y08M5HjxOECzNZY0DTlFg) | 2:23 | 2021-09-07 | 2021-10-03 |
 | [Onore e rispetto](https://open.spotify.com/track/71zK5vv65rUPWaFmT1S8PY) | [Paky](https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2) | [Salvatore Vive](https://open.spotify.com/album/1VSve1RDkpnGq2J1VL1Ux4) | 3:12 | 2022-10-29 | 2022-10-31 |
 | [Open Bar](https://open.spotify.com/track/3EyZw5sCXxOkE8EWsOIkB1) | [Il Pagante](https://open.spotify.com/artist/1vKXVGgIDP1XXZX4Tehjtn) | [Open Bar](https://open.spotify.com/album/1PPMHFwkol2a62EyRujI8E) | 3:10 | 2021-07-04 | 2022-01-03 |

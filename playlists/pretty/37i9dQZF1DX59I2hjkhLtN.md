@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: B3L2.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,502 likes - 99 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,509 likes - 99 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 98 | [No meu bairro](https://open.spotify.com/track/6BuYjqWXb48pRz9HenS1o5) | [Ziki Ks](https://open.spotify.com/artist/5h7FvtwckwDBdLlC3yOHgU), [Dabanda](https://open.spotify.com/artist/1k3SV9swAsIXA7vAbuNk6M), [AET](https://open.spotify.com/artist/1PSaLNwxWV9e6NCrxNbpIu), [Katana Produções](https://open.spotify.com/artist/5I2uvNh5EoCts6Gs2n9Q1t) | [No meu bairro](https://open.spotify.com/album/6VcN00QHNAKkCfUxvpbh4G) | 2:40 |
 | 99 | [de longe](https://open.spotify.com/track/64Dw1NR6wGTJHMIdWyZUz9) | [Bala de Prata](https://open.spotify.com/artist/6oh2B9GVxXsJ0cEMZuHbpr), [Hernani](https://open.spotify.com/artist/0pv7KRBmPGExsFFLcyPv1y), [Djimetta](https://open.spotify.com/artist/1v1FKWoa3qc7TZBySi0eCW) | [de longe](https://open.spotify.com/album/04GuuwxXFyYKrApJTvDobv) | 4:13 |
 
-Snapshot ID: `MCxjYWM1ZjQ5M2NhZjExZWE4ZmMxY2FmMDYzZjk4Y2I0MzcyN2ZjNjFi`
+Snapshot ID: `MCxmY2FlMDU1YWZjMjQ1NWYwNjU3ZWRkNThmNjRlZGM2MDA1NzA5ZjU5`

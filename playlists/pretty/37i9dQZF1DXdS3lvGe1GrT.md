@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday\. Cover: Cinder Well \| Visual Artist: Bailey Elder
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,310 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,352 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 99 | [borderline](https://open.spotify.com/track/5p24bN6IbEp2tZAw33Jqdr) | [summersets](https://open.spotify.com/artist/56UCNajlvDjMgHedDlPr6v) | [borderline](https://open.spotify.com/album/4gxTBjHOhFBivLhZ9Y4SZG) | 4:22 |
 | 100 | [Pressing Down](https://open.spotify.com/track/7FiiXwfEJnQ21sTktQ5gDm) | [Sister Ray](https://open.spotify.com/artist/40rYcgQG8MPbjZDOfDMzyC) | [Teeth](https://open.spotify.com/album/7tTD3rUp3MltWeCdwviCl0) | 3:59 |
 
-Snapshot ID: `MCwxYTJlMzJlM2M2NzMzNmUxNWEyMWRhMjZjNzU1ODk1YjhjOWE5ZjAw`
+Snapshot ID: `MCxlZWI1OThlMTc1ZDY4NzdmMGFiMmVhYWZmYjY2OWJlZWM2YjIzZTk0`

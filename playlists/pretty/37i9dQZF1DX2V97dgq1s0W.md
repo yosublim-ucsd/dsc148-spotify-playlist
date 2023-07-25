@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 
 > Beautifully chilled vocals from around the world\. Cover: PHABO
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,788 likes - 79 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,922 likes - 79 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2V97dgq1s0W.md) - [plain]
 | 78 | [Already Yours](https://open.spotify.com/track/6CNzC5wJNXDPumzQp13BYa) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Already Yours](https://open.spotify.com/album/3c1dHRVoVtPBAPIv2h282h) | 3:11 |
 | 79 | [Outside](https://open.spotify.com/track/7HUWDK8W290h5FD9G5t3eH) | [Dayo Bello](https://open.spotify.com/artist/41mwTkqJfMxPMbQmEdN2S2), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Outside](https://open.spotify.com/album/48GGRBVO34uMUTyCII8ZpY) | 3:25 |
 
-Snapshot ID: `MCxhOGUzZDM2YWZkMTFmNjU0N2Q0MmQ0ODczNzkwMzcwYzliZTI1MzVk`
+Snapshot ID: `MCxjMTNhMzE4Y2EyYTdlMzI4YWI4YTU4MmVkNjA1YmUzOTU3ZDIzMDBm`

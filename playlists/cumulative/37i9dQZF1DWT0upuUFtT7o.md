@@ -4,7 +4,7 @@
 
 > The best new indie tracks from independent artists & labels\. Updates every Wednesday\. Cover: Malcolm Todd
 
-1,686 songs - 3 day 20 hr 12 min
+1,688 songs - 3 day 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -714,7 +714,7 @@
 | [I can't remember](https://open.spotify.com/track/1q1C5tH1Q4vUG2k9bxcnHI) | [Surely Tempo](https://open.spotify.com/artist/70zssbn2dycY2RzSGLbWGQ) | [I can't remember](https://open.spotify.com/album/26Bn50yU2TnMVyTGca1lqs) | 3:21 | 2022-06-08 | 2022-06-30 |
 | [I Could Go out There](https://open.spotify.com/track/45FSwLegZUodITRnMTYhUj) | [Miles](https://open.spotify.com/artist/6VNWy1nX6Wf6yDmhFHjHMy) | [I Could Go out There](https://open.spotify.com/album/14kpxrqKwM1a3SQRm9HtTW) | 1:38 | 2022-11-11 | 2022-12-01 |
 | [I Dare You](https://open.spotify.com/track/33948g0QTA5uP9Hn3kYZBO) | [Swansea Skag](https://open.spotify.com/artist/4MV1kXqC76IgYoOdBQdp3T) | [I Dare You](https://open.spotify.com/album/2RI5OP3wh2VnWZ1JzI1ZpU) | 2:11 | 2022-01-12 | 2022-01-27 |
-| [I Don't Know If I Treated It Right](https://open.spotify.com/track/6QzPWxqfDwvDdaOFG1nX7Y) | [Solitude is Bliss](https://open.spotify.com/artist/5BLLhENK8t8r0PP0klTBZx) | [I Don't Know If I Treated It Right](https://open.spotify.com/album/1aZ96zuE5I2Oljnj53HmwP) | 4:16 | 2023-06-21 |  |
+| [I Don't Know If I Treated It Right](https://open.spotify.com/track/6QzPWxqfDwvDdaOFG1nX7Y) | [Solitude is Bliss](https://open.spotify.com/artist/5BLLhENK8t8r0PP0klTBZx) | [I Don't Know If I Treated It Right](https://open.spotify.com/album/1aZ96zuE5I2Oljnj53HmwP) | 4:16 | 2023-06-21 | 2023-07-25 |
 | [I Don't Know Why I Don't Leave You](https://open.spotify.com/track/0rnr29AKXifEZuGZWETZVG) | [Beckah Amani](https://open.spotify.com/artist/6AlUh97NNEBLo3OqYORyIi) | [I Don't Know Why I Don't Leave You](https://open.spotify.com/album/18db1ozBHypbbaovttXGEx) | 3:22 | 2022-05-11 | 2022-06-30 |
 | [I Don't Think You Do](https://open.spotify.com/track/74xVKLa9xDlQXYNx6LNQAq) | [S\. T\. Manville](https://open.spotify.com/artist/4tKt9PfIUo7Src0Nmz1sSr), [and the agony](https://open.spotify.com/artist/4JSlrvvgR7F4rN6pbUTewq) | [And The Agony \- EP](https://open.spotify.com/album/6JzxwL7HMuHmjUnsh8lo3Z) | 3:14 | 2023-06-14 | 2023-07-04 |
 | [I Don't Wanna Be Strong](https://open.spotify.com/track/0xubojJoftLTsiM8tzIqmB) | [Leo Sun](https://open.spotify.com/artist/40F0oisdGBuAC0i1vh2cxW) | [I Don't Wanna Be Strong](https://open.spotify.com/album/29LGWbz1h6EmM4Mt5Y4w1U) | 3:08 | 2022-09-06 | 2022-10-15 |
@@ -879,6 +879,7 @@
 | [Like Two Ships..](https://open.spotify.com/track/1cJqIoI9eMZJycXjuch0N9) | [Worse.](https://open.spotify.com/artist/7tvfx4O3RAeEyfbNtKYdnv) | [The Ceilings Are Floors Too](https://open.spotify.com/album/17V35SiTuDXoKcZgMaws5u) | 4:55 | 2023-03-15 | 2023-04-27 |
 | [Like You](https://open.spotify.com/track/5qpv56mk9Sbs5gx9wAD9uD) | [Miss Grit](https://open.spotify.com/artist/0kUsW40KML1SWGeOAvGtzD) | [Like You](https://open.spotify.com/album/1OjE1EtUXj4FBJ9TYC5whs) | 3:50 | 2022-09-28 | 2022-11-10 |
 | [Liked to Party](https://open.spotify.com/track/0NYW30HgzHRpRRuBLKQjh1) | [Husbands](https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP) | [Liked to Party](https://open.spotify.com/album/7uyICxpHtV74Fiq77qfNIN) | 4:13 | 2021-12-01 | 2022-01-13 |
+| [Limerence](https://open.spotify.com/track/7ejzjqjzcJ7K2YRlcUd55w) | [Ava Maybee](https://open.spotify.com/artist/56XHwBrYEOBDDGKr7BLDv9) | [Limerence](https://open.spotify.com/album/7wPNxfaGRGhBGpdfQXAV10) | 2:51 | 2023-07-24 |  |
 | [Little Apartment](https://open.spotify.com/track/3znHxjS5i9p8cneHkkRsqb) | [Squitch](https://open.spotify.com/artist/3jqY1GhtAfQyuDv1u8yT3Q) | [Tumbledown Mountain](https://open.spotify.com/album/3S2Yq61ewxlJw6nnJMNgjZ) | 2:34 | 2023-06-27 |  |
 | [Little Changes](https://open.spotify.com/track/6UvEGfQroiyYg82Pf7MllO) | [carego](https://open.spotify.com/artist/3kAQ9u4vBl2uVXWtUW41FR) | [Little Changes](https://open.spotify.com/album/2vU7Z5KpCofZCf3VKvg1RA) | 2:40 | 2022-08-31 | 2022-10-06 |
 | [little fingers \- demo](https://open.spotify.com/track/4kK2y1Mpfivr9gdWfh71kU) | [rockstar1000](https://open.spotify.com/artist/78isn9U2jo3LrPkq3zPYEZ) | [little fingers/lungs \(demo\)](https://open.spotify.com/album/40aWFH4lt0LIlqXc9v52Xa) | 4:19 | 2023-03-23 | 2023-04-13 |
@@ -895,7 +896,7 @@
 | [Lonestar](https://open.spotify.com/track/37KGFi7a0KHTjQZIFillyn) | [Monét Ngo](https://open.spotify.com/artist/1fEFxSI9yJtuiUipeHuBLw) | [Lonestar](https://open.spotify.com/album/71Zvujy1Ec93ZtxCDrQFNi) | 3:14 | 2022-03-22 | 2022-04-27 |
 | [Long Distance Call](https://open.spotify.com/track/3eMdLexEuUVYmbnfROmGh2) | [Bedon](https://open.spotify.com/artist/4cp8omCI76QHM1uf9jzWnJ) | [Long Distance Call](https://open.spotify.com/album/1VLVoXK44oIgUvBXomTnSV) | 2:47 | 2022-07-27 | 2022-08-25 |
 | [Long Sleeves](https://open.spotify.com/track/3FhR2wKrImxzGWbLEk8323) | [Love You Later](https://open.spotify.com/artist/5NnHZjAQDhWUb5ISZO7FSw) | [Long Sleeves](https://open.spotify.com/album/25TWkHnNyeUDIq6nkB1baW) | 2:50 | 2023-05-03 | 2023-05-31 |
-| [Look the Other Way](https://open.spotify.com/track/1ThdBhDTOyVxk2VcN8DaTI) | [Nick Wagen](https://open.spotify.com/artist/553dRRGA9Fvnu5OBmGpLBZ) | [Look the Other Way](https://open.spotify.com/album/3g3OR1LmPmzp9ufa5cF3o5) | 2:33 | 2023-06-14 |  |
+| [Look the Other Way](https://open.spotify.com/track/1ThdBhDTOyVxk2VcN8DaTI) | [Nick Wagen](https://open.spotify.com/artist/553dRRGA9Fvnu5OBmGpLBZ) | [Look the Other Way](https://open.spotify.com/album/3g3OR1LmPmzp9ufa5cF3o5) | 2:33 | 2023-06-14 | 2023-07-25 |
 | [Lookin' 4 Pleasure](https://open.spotify.com/track/2zpFidqnzXMpzQCLTBHTtA) | [Dominic Sen](https://open.spotify.com/artist/152t0HrYcs72GHrhM6x5gF) | [Lookin' 4 Pleasure](https://open.spotify.com/album/40iGpxXRNe5Hx9K9ac26WF) | 3:39 | 2022-05-19 | 2022-05-26 |
 | [Looking at You](https://open.spotify.com/track/0qYNUduazu2fVQ78BiMkGp) | [Juniper Honey](https://open.spotify.com/artist/0KwqvjIByt3CTj5OnldokY) | [Looking at You](https://open.spotify.com/album/1hQanJQ8o0l3Sgf63MtrlL) | 3:26 | 2023-06-28 |  |
 | [Looking Backward](https://open.spotify.com/track/478ZW3J7G43YjMRLUlisaq) | [Darksoft](https://open.spotify.com/artist/5pD33SUgX5GQ8NvqZ6IdeE) | [Cryo](https://open.spotify.com/album/5Y27T3hgkcXG4cCVIqNyZp) | 3:29 | 2022-01-26 | 2022-04-07 |
@@ -1530,6 +1531,7 @@
 | [Too Much for Me](https://open.spotify.com/track/4n7yADHdl49Z0R13zOv15w) | [Lo Noom](https://open.spotify.com/artist/03OMNIRl2S7PLASNxIeION) | [Too Much for Me](https://open.spotify.com/album/5TJPtvfEouXDbFfFRSWrGq) | 3:43 | 2023-02-15 | 2023-03-23 |
 | [too much too soon](https://open.spotify.com/track/2JJoUZhEMlUHEWYLMA58yY) | [Cindë](https://open.spotify.com/artist/6UmkItoyk0QIRoEQGMhEYz) | [too much too soon](https://open.spotify.com/album/2CHJagCyB48dhJhgh594ZK) | 3:43 | 2022-03-16 | 2022-04-27 |
 | [Too Young to Understand](https://open.spotify.com/track/0KcbL2mfhCb3xAThqKqzES) | [Work Wife](https://open.spotify.com/artist/3uPvy8pktQ5n3mZCZzOew9) | [Too Young to Understand](https://open.spotify.com/album/6rMlQHN2dSzNdikqFjmoz9) | 4:46 | 2022-11-09 | 2023-02-16 |
+| [Tore](https://open.spotify.com/track/62IJLBwpm1ax73HidrU9pm) | [Mali Velasquez](https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP) | [Tore](https://open.spotify.com/album/41ksxVl2MrrsUOFjPyjlGM) | 3:26 | 2023-07-24 |  |
 | [Touring in January](https://open.spotify.com/track/0KtIEZgs6wl4Oa6smhTTAI) | [String Machine](https://open.spotify.com/artist/0YxHMJ1H95yl1lu1P0oNQj) | [Touring in January](https://open.spotify.com/album/26rhbSIcEoUY3wZHCO51j3) | 3:14 | 2022-01-19 | 2022-02-10 |
 | [Trader Joe's](https://open.spotify.com/track/2BwKe3zhLFkWYqY2DDB1Yo) | [Landon Conrath](https://open.spotify.com/artist/2PJ06l59DomDd440az768u) | [Trader Joe's](https://open.spotify.com/album/5sSf26h9dzlgnSkAnTLv3a) | 2:57 | 2022-06-29 | 2022-08-04 |
 | [Transients](https://open.spotify.com/track/39Wa42w288HXCa5I2qkHKD) | [Honeywhip](https://open.spotify.com/artist/1yyRuOZtns01N2hUtseLT0) | [Transients](https://open.spotify.com/album/149kG0Ln8mP316svShU5fk) | 3:16 | 2022-03-02 | 2023-01-12 |

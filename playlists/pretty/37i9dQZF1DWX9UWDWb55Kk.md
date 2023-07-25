@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 
 > Escucha la música de las seis temporadas de Élite.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,775 likes - 354 songs - 22 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,794 likes - 354 songs - 22 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 64 | [HOPE](https://open.spotify.com/track/1DB4WqlBzijxc8b21Xjl8Y) | [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD) | [Shades of Guilt](https://open.spotify.com/album/4oTVPfIhIHs8PNQMQtkoR3) | 4:12 |
 | 65 | [Floating](https://open.spotify.com/track/0WyioCJi9ox0PYMUR0NGxy) | [Lealani](https://open.spotify.com/artist/75tAH33KAd0BiKI23i27NK) | [Fantastic Planet](https://open.spotify.com/album/7bkPyT3AJXIUXCunkA0xun) | 2:38 |
 | 66 | [I Hid In Him](https://open.spotify.com/track/5pWOK5bEv5TDkBpPv9cEHu) | [vōx](https://open.spotify.com/artist/4epdWRtuY7tFHyV7mIW7pE) | [I Hid In Him](https://open.spotify.com/album/39A0a8LBVTiM4k85PRkCox) | 3:05 |
-| 67 | [Talking Dirty](https://open.spotify.com/track/1bCdntYo52BzYMP7s38dQp) | [Bonkers Beat Club](https://open.spotify.com/artist/4iOBGfQcQnaCbchbsOdEQx) | [Drippin](https://open.spotify.com/album/4g8T9QR3asXXB9RLTNyMP9) | 3:34 |
+| 67 | [Talking Dirty](https://open.spotify.com/track/1bCdntYo52BzYMP7s38dQp) | [Bonkers Beat Club](https://open.spotify.com/artist/2NT86Nm7sNQwakG7N0Url3) | [Drippin](https://open.spotify.com/album/4g8T9QR3asXXB9RLTNyMP9) | 3:34 |
 | 68 | [The Witness](https://open.spotify.com/track/5dna0ShfmtsCcgZfi8pEjl) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564), [KÁRYYN](https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI) | [The Witness](https://open.spotify.com/album/2agQCuwawKF5udp9i3wD9t) | 7:03 |
 | 69 | [Hat Trick](https://open.spotify.com/track/02Y5afO1mCHxKp9ozmBv1Q) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [2030](https://open.spotify.com/album/3EDheqSnBlJIST8dU7baWF) | 2:49 |
 | 70 | [Dime](https://open.spotify.com/track/0wyV7uIeaON89oWBcL0AA6) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka) | [Dime](https://open.spotify.com/album/3en3ILNZj2XjDqrljiz1VQ) | 2:48 |
@@ -363,4 +363,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX9UWDWb55Kk.md) - [plain]
 | 353 | [Out Of Touch](https://open.spotify.com/track/3DgjbN7e2gppallutVbat6) | [CUT\_](https://open.spotify.com/artist/7HPVAGjCVDzP7xcNrkwgxL) | [A Small Group Of Individuals](https://open.spotify.com/album/5QQRlQ7JnXy6c7HNDWVibk) | 4:01 |
 | 354 | [Witch Hunt](https://open.spotify.com/track/5nTCnGR4NtI3yyOp66NuOI) | [HXXS](https://open.spotify.com/artist/4zBSDjtYyrLC99ot3LV8hF) | [MKDRONE](https://open.spotify.com/album/2NtylLjjafbzfoAOPOMsO1) | 3:57 |
 
-Snapshot ID: `MCxkY2E4ZTNhY2Q4YWZmZmRkMDQyMTU4MjZmOTJmNTU0NjkxZDNhOGQ0`
+Snapshot ID: `MCwwODAwMWRmZWM4MzI3YzYwODI1ZDE3NTM0ZjVhMzg5MTczZDhiMjQx`

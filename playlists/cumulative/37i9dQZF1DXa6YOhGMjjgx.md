@@ -2,9 +2,9 @@
 
 ### [New  Alt\-Rock Mixtape](https://open.spotify.com/playlist/37i9dQZF1DXa6YOhGMjjgx)
 
-> The best of today's true alternative rock scene\. Cover: PÆRISH
+> The very best of the alternative rock scene\. Cover: PÆRISH
 
-321 songs - 18 hr 24 min
+322 songs - 18 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Centipede](https://open.spotify.com/track/49xISBZpODXRwd7vVxGL93) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [Centipede](https://open.spotify.com/album/5JeWduRYfv1Sj4Y2Vf9hQj) | 2:37 | 2023-03-01 |  |
 | [Change the Waters](https://open.spotify.com/track/7DFOK8SDu7hSaqDGxpZRY6) | [Lonely Spring](https://open.spotify.com/artist/3noGPmqOwQzkj3lMzblV3f) | [Change the Waters](https://open.spotify.com/album/4Xp8qrp6IPU1obR7a8E6m0) | 3:48 | 2021-07-23 | 2022-07-25 |
 | [Cheer Up Baby](https://open.spotify.com/track/4jwrBNhvazRacmab5ArWSZ) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [It Won't Always Be Like This](https://open.spotify.com/album/54NhZZmsHYbKtTjarvGPwu) | 3:53 | 2022-02-28 | 2023-01-28 |
-| [Chewing Glass](https://open.spotify.com/track/4uQeaos1wK3UDNtlYasgys) | [James and the Cold Gun](https://open.spotify.com/artist/5YFIVhzlaYH9Yadjw9gSUx) | [Chewing Glass](https://open.spotify.com/album/3X5tZI8clJZkaQFkR4ICsv) | 3:01 | 2023-01-27 | 2023-03-12 |
+| [Chewing Glass](https://open.spotify.com/track/4uQeaos1wK3UDNtlYasgys) | [James and the Cold Gun](https://open.spotify.com/artist/5YFIVhzlaYH9Yadjw9gSUx) | [Chewing Glass](https://open.spotify.com/album/3X5tZI8clJZkaQFkR4ICsv) | 3:01 | 2023-01-27 |  |
 | [Choking](https://open.spotify.com/track/7pFibnxpBbPhCtA3VthLAS) | [The Velveteers](https://open.spotify.com/artist/79wCmFlJs2qglR5n4UHMoq) | [Nightmare Daydream](https://open.spotify.com/album/3QJ2obeLQY61RE4vVLLilH) | 2:07 | 2022-01-14 |  |
 | [Cold Hands](https://open.spotify.com/track/7jLJ9769nvwETkjrUHzi2y) | [The Dose](https://open.spotify.com/artist/65WoSEy79EvncG0JqbU23R) | [The Dose](https://open.spotify.com/album/3qXqGE2TCCWZHDYRHTNbTi) | 4:18 | 2021-03-31 | 2022-04-27 |
 | [Come On](https://open.spotify.com/track/2YUTrl4xlX9jAlpxWEpOnU) | [Mondo Cozmo](https://open.spotify.com/artist/7ybnRZKtRbWQzJfKyYSyh6) | [Come On](https://open.spotify.com/album/6F1GXCFUTG8bRPcRiFEZ3m) | 3:29 | 2021-03-31 | 2023-05-06 |
@@ -127,7 +127,7 @@
 | [Had Enough](https://open.spotify.com/track/2xSC2Tvr2I44VZmCXg60dW) | [Lower Than Atlantis](https://open.spotify.com/artist/1kF0gYnHLUJvFuPdoowO02) | [Safe In Sound](https://open.spotify.com/album/2QEGCBGVqN0WvX2wHeuwMP) | 3:20 | 2021-03-31 | 2022-01-12 |
 | [Hallelujah Moment](https://open.spotify.com/track/1UOkwtqARzu9QW4IMQjeO0) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Burn The Empire](https://open.spotify.com/album/4aufPz4ZGcxWHNt2lp2lTf) | 2:15 | 2023-01-27 |  |
 | [Hayloft II](https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Inside \(Deluxe\)](https://open.spotify.com/album/03EqExvZuxLK86huLxGIa2) | 3:35 | 2022-02-04 |  |
-| [Head First](https://open.spotify.com/track/24Wc1dCou67Mgn0vi5LK5z) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Head First](https://open.spotify.com/album/5Au7ooskCj2MPG0VTnDfV7) | 3:32 | 2023-05-05 |  |
+| [Head First](https://open.spotify.com/track/24Wc1dCou67Mgn0vi5LK5z) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Head First](https://open.spotify.com/album/5Au7ooskCj2MPG0VTnDfV7) | 3:32 | 2023-05-05 | 2023-07-25 |
 | [Hell Will Wait](https://open.spotify.com/track/6gH90ldgKSavrVGdeN6Rcm) | [COLISION](https://open.spotify.com/artist/5DTSjTb2jYT5D40f6MW3xJ) | [Lost Ghosts, Vol\. 1](https://open.spotify.com/album/2ZsBSBmRkl5OvVVOFqQWZr) | 3:50 | 2021-05-07 | 2022-01-31 |
 | [Heroes](https://open.spotify.com/track/1VDCjvlEZMFL45Et4KJrEK) | [Dead Sara](https://open.spotify.com/artist/589tFv4Vf1K27wpf0uWz2j) | [Heroes](https://open.spotify.com/album/2IJKpiAkXohfg7O9RQf1qp) | 3:16 | 2021-08-13 | 2023-05-06 |
 | [High](https://open.spotify.com/track/0IUynghSgeaQuZ5I0Bi5Zc) | [Sir Sly](https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue) | [High](https://open.spotify.com/album/1Og46GGOK9tp1BmhU1JFGi) | 3:51 | 2021-03-31 | 2022-01-15 |
@@ -213,7 +213,7 @@
 | [Myopic](https://open.spotify.com/track/02PbIkn24emrkP1LDBymUp) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Myopic](https://open.spotify.com/album/3eOLdLhghHk4EUNxrTzt8i) | 2:58 | 2023-03-17 |  |
 | [MYSTERY](https://open.spotify.com/track/1QlGmLx0IWNZq8Dm4N94xm) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [MYSTERY](https://open.spotify.com/album/7fESyOnq9rZD3b37TuMXJq) | 2:35 | 2021-05-28 |  |
 | [Need You No More](https://open.spotify.com/track/52wTxB7XWwR0Ix6zT57PM0) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Need You No More](https://open.spotify.com/album/6R32sE46xgopHel6O69Hhm) | 3:18 | 2023-03-17 | 2023-06-04 |
-| [Never Enough](https://open.spotify.com/track/06fffo52aqA0mtecLvyE3I) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [Never Enough](https://open.spotify.com/album/3R3ALCiU33uYjXqandhEtV) | 2:52 | 2022-04-29 |  |
+| [Never Enough](https://open.spotify.com/track/06fffo52aqA0mtecLvyE3I) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [Never Enough](https://open.spotify.com/album/3R3ALCiU33uYjXqandhEtV) | 2:52 | 2022-04-29 | 2023-07-25 |
 | [Never Enough](https://open.spotify.com/track/1yYtgpfXMbP6b8kJrZ4Dea) | [The Pale White](https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0) | [Never Enough](https://open.spotify.com/album/0tmRaWJN8L1HUBwiva62gz) | 2:52 | 2022-01-14 | 2022-10-13 |
 | [New Comedown](https://open.spotify.com/track/4kbBYfLMIfzAnt9WoSDmvS) | [Plague Vendor](https://open.spotify.com/artist/680qtSVCs3xqNWqZd4khh5) | [New Comedown](https://open.spotify.com/album/3Dtvv3X6YgICRPEAlywpt3) | 3:07 | 2021-03-31 | 2023-01-27 |
 | [No Sale](https://open.spotify.com/track/0X6PQ9P3OXKnJbomkuZPLT) | [Middle Class Rut](https://open.spotify.com/artist/1jl7jCbWw8fQApXAgP7vQN) | [No Sale](https://open.spotify.com/album/3xzOUX28RI7Q72RlMaaVUu) | 3:22 | 2021-03-31 | 2022-04-29 |
@@ -326,6 +326,7 @@
 | [You Dig Yours](https://open.spotify.com/track/3tGvyYRqaxM5CVnAUQQ0cC) | [Starcrawler](https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i) | [Devour You](https://open.spotify.com/album/5uPMb6JzczfxacRspRA1RG) | 2:40 | 2021-03-31 | 2022-07-29 |
 | [You'll Be Fine](https://open.spotify.com/track/3ZCTAoFsYaWTWGX8IH07Cf) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [You'll Be Fine](https://open.spotify.com/album/65OSRLLDmgJCRze8PSSmUR) | 3:33 | 2021-03-31 | 2022-04-29 |
 | [Young Lady, You're Scaring Me](https://open.spotify.com/track/1z9tECYvYsvautkr8G2XDK) | [Ron Gallo](https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg) | [Heavy Meta](https://open.spotify.com/album/397kqeXjazlPQ3JqquxDz5) | 3:40 | 2021-03-31 | 2022-01-15 |
+| [Youngest Daughter](https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 4:09 | 2023-07-24 |  |
 | [Youth](https://open.spotify.com/track/6Rs6ZGyppL4ity5nDI6S1y) | [Hundredth](https://open.spotify.com/artist/2rtsR8zno5naTxY0iJr7M0) | [Youth](https://open.spotify.com/album/2D4sH35C5mt8XXaPp8mPLV) | 3:30 | 2021-03-31 | 2022-04-29 |
 | [Zyko](https://open.spotify.com/track/2Pcdgrj6XS4V1HeBndrXtc) | [New Candys](https://open.spotify.com/artist/0pPa2J0HCTVmaL8PurSeoC) | [Zyko](https://open.spotify.com/album/7qSj7QLq2rcXCol7F4BceU) | 2:46 | 2021-05-14 | 2022-07-28 |
 | [•OUTSIDE•](https://open.spotify.com/track/4HateMT8YtbMll1LmQmMB7) | [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [•OUTSIDE•](https://open.spotify.com/album/6Y9hVwqc0HGINlORyTVzI8) | 1:46 | 2023-01-27 | 2023-03-01 |

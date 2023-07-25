@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/36h6nx6m9lMF0kfa4FHo7G.md) - [plain]
 
 > 
 
-[John Delf](https://open.spotify.com/user/12157842341) - 7,928 likes - 185 songs - 12 hr 8 min
+[John Delf](https://open.spotify.com/user/12157842341) - 7,928 likes - 187 songs - 12 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -193,5 +193,7 @@ pretty - [cumulative](/playlists/cumulative/36h6nx6m9lMF0kfa4FHo7G.md) - [plain]
 | 183 | [Space Oddity](https://open.spotify.com/track/3CDd3KJKMdkN13BCzsj9ch) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [De Tijdloze](https://open.spotify.com/album/7LMZEJRugbATrTWJyrzVOL) | 3:50 |
 | 184 | [I Missed The Bus](https://open.spotify.com/track/0TaA8F05BdKCrvvEdAzDAk) | [Skankin' Pickle](https://open.spotify.com/artist/26BpEfuiARwt9sdvkKWr6S) | [Skankin' Pickle Fever](https://open.spotify.com/album/6nx5XZS7u8salNSHe3YUMo) | 3:17 |
 | 185 | [Hold Back the Rain \- 2009 Remaster](https://open.spotify.com/track/25fQaP5GWQXhqHeLkcdPzO) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Rio \(Collector's Edition\)](https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm) | 4:00 |
+| 186 | [Say Yes \- Remastered 2017](https://open.spotify.com/track/15Iczlf2Xl2s4EiLFrkYeg) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or \(Expanded Edition\)](https://open.spotify.com/album/3UVJu0QdTJBfGJBl1AMWEM) | 2:19 |
+| 187 | [Thunderstruck](https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [The Razors Edge](https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy) | 4:52 |
 
-Snapshot ID: `NDc1LGQ3MTg5MDQwNWYwZWE1MjY2MjAzYzRjZDFiNjVjMTY2MGEyZTE2YTM=`
+Snapshot ID: `NDc3LDZlNTM2ZWY5YmI4MzJkMmYzNGNlYTI5NWYzYjUwNzk4ODRiZjQyNzU=`

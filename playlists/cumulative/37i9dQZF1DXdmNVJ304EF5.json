@@ -823,6 +823,24 @@
     },
     {
       "album": {
+        "name": "A Flash Flood of Colour (Redux Version)",
+        "url": "https://open.spotify.com/album/04MBMCMj7OK72h3qGAwsMm"
+      },
+      "artists": [
+        {
+          "name": "Enter Shikari",
+          "url": "https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF"
+        }
+      ],
+      "date_added": "2022-12-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205840,
+      "name": "Sssnakepit",
+      "url": "https://open.spotify.com/track/0JYefPYO1WKxLGG4gEnDoc"
+    },
+    {
+      "album": {
         "name": "A Flash Flood Of Colour",
         "url": "https://open.spotify.com/album/0BsWXEhcP7Ac7BbTETVRg6"
       },
@@ -834,7 +852,7 @@
       ],
       "date_added": "2022-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-25",
       "duration_ms": 205840,
       "name": "Sssnakepit",
       "url": "https://open.spotify.com/track/6Jh59vr2EoZSvvBzyjZNpQ"

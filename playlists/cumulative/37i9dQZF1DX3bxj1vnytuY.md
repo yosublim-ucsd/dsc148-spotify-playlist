@@ -4,7 +4,7 @@
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-219 songs - 22 hr 2 min
+220 songs - 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Birdcall](https://open.spotify.com/track/46wxNcRKABQBQwVQrgkl8l) | [Panuma](https://open.spotify.com/artist/3YvNtTSaJ2YAt1RhaE9eiH), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Birdcall](https://open.spotify.com/album/3mtQOIxTbI56OPW3iIstwa) | 3:49 | 2022-04-13 | 2022-07-29 |
 | [Birdcall](https://open.spotify.com/track/53IT9veqMzZwnBv2SpdRHB) | [Panuma](https://open.spotify.com/artist/3YvNtTSaJ2YAt1RhaE9eiH), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Birdcall](https://open.spotify.com/album/1edvx2phtAODVo2MmZKmw4) | 3:49 | 2022-07-21 | 2023-03-09 |
 | [Birdcall](https://open.spotify.com/track/0sb9RPtYKV9SjtRdQoO3F7) | [Panuma](https://open.spotify.com/artist/3YvNtTSaJ2YAt1RhaE9eiH), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Smooved \- Deep House Collection, Vol\. 67](https://open.spotify.com/album/4a7gzwkhlZePF1wHCaeUek) | 3:49 | 2022-11-10 | 2022-11-13 |
+| [Blame \- VooDoo Tribe Mix](https://open.spotify.com/track/24RWbgjoFZUUMm2UPTo9rF) | [DJ Tomer](https://open.spotify.com/artist/0hpl6679CBWX360qBPGIVj), [Ricardo Gi](https://open.spotify.com/artist/6D12U0cOJwowjazT7V1s3c), [Kawtar Sadik](https://open.spotify.com/artist/76hWhGu3o57UxXrt5BLljb) | [Echoes](https://open.spotify.com/album/2I8nf79Ctv3Y62e7hQsDpr) | 3:00 | 2023-07-24 |  |
 | [Blazin](https://open.spotify.com/track/6fBCHr4DWUwpv3IYxy38zQ) | [Boddhi Satva](https://open.spotify.com/artist/1f1bsto5CRaRaaGkZvvjOn), [Alton Miller](https://open.spotify.com/artist/0MGh53azHRLHTJ1flx9KGs) | [Blazin'](https://open.spotify.com/album/3cFSGk4d5O5fBhDkOSeGoB) | 8:03 | 2023-04-07 |  |
 | [Blind](https://open.spotify.com/track/5njYulCs6uy94s3zf5W3YP) | [Darksidevinyl](https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0), [Ucha](https://open.spotify.com/artist/6cC53OuM6AJxU0jJrEgiT3) | [Blind](https://open.spotify.com/album/4a1U2aEn9PAkZ7xKvdR5fX) | 7:09 | 2023-06-01 |  |
 | [Borealis](https://open.spotify.com/track/7opM0UdIFdCMbSOCIibLAr) | [Idrissi](https://open.spotify.com/artist/5KYjLxvBWL3P087kSFs3QF), [Qaayel](https://open.spotify.com/artist/2T6efS085VLyjvrFPnkYDv) | [Borealis](https://open.spotify.com/album/7GJzsBX2cIrYaZbwtOjlbM) | 4:16 | 2022-09-15 | 2022-10-14 |
@@ -81,7 +82,7 @@
 | [Farsi](https://open.spotify.com/track/4D993tkt3yeeEzxWxi2dbi) | [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e), [Cafe De Anatolia](https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v) | [Farsi](https://open.spotify.com/album/4Jd4Zg8HdEqhYIeLUkflAU) | 8:41 | 2022-05-26 |  |
 | [Fidale \(I Feel\) \- Vocal Version](https://open.spotify.com/track/2lpsHgTJaQ75uU24WzjsFx) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Zigan Aldi](https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1) | [Fidale \(I Feel\)](https://open.spotify.com/album/3Jbfc8oozmmj4SZ57eMSGE) | 4:44 | 2022-07-21 | 2023-03-10 |
 | [Fidale \(I Feel\) \- Vocal Version](https://open.spotify.com/track/7xrUhbMPCC6yBiok3Pb1Ej) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Zigan Aldi](https://open.spotify.com/artist/5nNJbOr2phyzj0KvIv7HL1) | [Fidale \(I Feel\)](https://open.spotify.com/album/7slMAeG3JZAQKYO16H6ViD) | 4:44 | 2022-04-13 | 2022-07-29 |
-| [Figures](https://open.spotify.com/track/3qb2uMaR60HP0cTWLI2DM7) | [Rob Hes](https://open.spotify.com/artist/3x7ReRfnt4LPXsEYxgsbgu), [Paralel](https://open.spotify.com/artist/6gx1uCxt263iyrRJG6XBR6) | [Nocturnal 010](https://open.spotify.com/album/2Qls9LLSmjCLKgxK29GBqy) | 4:23 | 2023-06-22 |  |
+| [Figures](https://open.spotify.com/track/3qb2uMaR60HP0cTWLI2DM7) | [Rob Hes](https://open.spotify.com/artist/3x7ReRfnt4LPXsEYxgsbgu), [Paralel](https://open.spotify.com/artist/6gx1uCxt263iyrRJG6XBR6) | [Nocturnal 010](https://open.spotify.com/album/2Qls9LLSmjCLKgxK29GBqy) | 4:23 | 2023-06-22 | 2023-07-25 |
 | [Flow \- Sunset Mix](https://open.spotify.com/track/1QpU3A0dkKVJhI3o6xYBok) | [DP\-6](https://open.spotify.com/artist/3ydKQmXGxjmM2IBOYCzYLJ) | [Flow \(Sunset Mix\)](https://open.spotify.com/album/3pel2JNZHZVeaGlqUBfKTk) | 6:51 | 2022-04-13 | 2022-09-09 |
 | [Fomalah](https://open.spotify.com/track/3y0NlHjBLhQdGoK3OscjeD) | [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW), [YASS](https://open.spotify.com/artist/1mChelK5fqmS7lxluoXP9C) | [Fomalah](https://open.spotify.com/album/1Mzpalm1vye6Rz709d4qtt) | 7:08 | 2023-01-17 |  |
 | [Fragile](https://open.spotify.com/track/5Q9Ds8Q34V9ZPfi0noJ7Xe) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC), [FNX OMAR](https://open.spotify.com/artist/3dcqf190oFqc5FQNI05mVW), [Syon](https://open.spotify.com/artist/7eKtGS8Huzy0vi0KVmNfqE) | [Fragile](https://open.spotify.com/album/37abhSU412bkiwXr3ShshM) | 3:56 | 2022-07-06 |  |

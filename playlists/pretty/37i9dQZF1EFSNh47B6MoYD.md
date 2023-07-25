@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0lIpJfAmU1IfLj1RQiDaPS">Erika Ender</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 426 likes - 148 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 430 likes - 148 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 19 | [Me Falta Un Pecado](https://open.spotify.com/track/4pI1jddE9zk3jHOMWGGiAb) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [La Reunión \(Deluxe\)](https://open.spotify.com/album/3yIX4FmlUxf2E1UK2fURll) | 3:13 |
 | 20 | [Abreme la Puerta](https://open.spotify.com/track/7jvU6ZxbwoGtIkE9Z7DnnN) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [Abreme la Puerta \(New Edition\)](https://open.spotify.com/album/1iIseStXM2EpYcP6NcuGvA) | 3:37 |
 | 21 | [Cuando Ya No Me Acuerde de Ti](https://open.spotify.com/track/3SzlElxX0OMeYHldppCl5m) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Que Suenen los Tambores](https://open.spotify.com/album/3LygiJakSDkP4F5UAUFmNH) | 3:57 |
-| 22 | [Ay Mama](https://open.spotify.com/track/3x7w1y7WLU7lpCSh39VSrZ) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Simplemente](https://open.spotify.com/album/5ktMfzQRYlQawZcnmIB1VW) | 3:43 |
-| 23 | [Agradecido](https://open.spotify.com/track/7AgOwMTDdIYwQEif2hejNg) | [José Luis Rodríguez](https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV) | [Agradecido](https://open.spotify.com/album/0JZhd1lgjDXmtQodgc9yIr) | 3:44 |
+| 22 | [Agradecido](https://open.spotify.com/track/7AgOwMTDdIYwQEif2hejNg) | [José Luis Rodríguez](https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV) | [Agradecido](https://open.spotify.com/album/0JZhd1lgjDXmtQodgc9yIr) | 3:44 |
+| 23 | [Ay Mama](https://open.spotify.com/track/3x7w1y7WLU7lpCSh39VSrZ) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Simplemente](https://open.spotify.com/album/5ktMfzQRYlQawZcnmIB1VW) | 3:43 |
 | 24 | [Al Revés](https://open.spotify.com/track/6N6vIKtNeuWBr1Pn2aipYr) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [El Buen Ejemplo](https://open.spotify.com/album/4FNrB1vD9kdIUQpoTPG5K3) | 3:11 |
 | 25 | [Donde \- Remix](https://open.spotify.com/track/2TKx2VX1WS8SakXQcYNG0v) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Donde \(Remix\)](https://open.spotify.com/album/3SUCEzZG84ZDXRJfemBHzV) | 3:30 |
 | 26 | [No Me Interesa](https://open.spotify.com/track/00GOmCFx8PuXHiR4oeVVbB) | [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR) | [Desafío](https://open.spotify.com/album/3kX3uXURTgM3CX3FOelpu5) | 3:10 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 147 | [Sin Rumbo](https://open.spotify.com/track/6cNFdyjODCc2ooX7XyMAxt) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 3:30 |
 | 148 | [Se Me Fue](https://open.spotify.com/track/5CVi8yEadTLUL5qmHRjpaS) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 4:48 |
 
-Snapshot ID: `MjgxNjk0MTAsMDAwMDAwMDBkODFlN2M1Zjk1YmFkNjA4YmQ0Y2EwMWUyZmNlOWRhYw==`
+Snapshot ID: `MjgxNzA4NTAsMDAwMDAwMDAzMWYxYjkzYWI1ZmExMjI5OGM5ZjUyY2NhZjJhNzBiYw==`

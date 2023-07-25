@@ -18093,6 +18093,24 @@
     },
     {
       "album": {
+        "name": "Profound poetry",
+        "url": "https://open.spotify.com/album/1FCxAp8C0V1R7ccSJxhAVO"
+      },
+      "artists": [
+        {
+          "name": "Sheila Withmore",
+          "url": "https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2"
+        }
+      ],
+      "date_added": "2023-07-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121144,
+      "name": "Profound poetry",
+      "url": "https://open.spotify.com/track/6e1PioC0uJFwSq48cveCoQ"
+    },
+    {
+      "album": {
         "name": "Prologue Marlene",
         "url": "https://open.spotify.com/album/3KrGZpZ98pmWxB2KZj9vSg"
       },
