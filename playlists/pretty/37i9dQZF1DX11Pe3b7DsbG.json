@@ -1,12 +1,12 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 228861,
+  "num_followers": 228878,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OGE3MGRlYTU4NTYwMjgxOTYyM2VmOWY2ODliYWNkMzg1MDJlMDQ5",
+  "snapshot_id": "MCwxZTJlMzkzYzM4ZjIwNGRmNjU2YzFmODM0NDllM2MxOTg5ODRjNDgy",
   "tracks": [
     {
       "added_at": "2023-01-25 16:05:09",
@@ -599,26 +599,6 @@
     {
       "added_at": "2023-01-25 16:05:09",
       "album": {
-        "name": "Ao Vivo Com Os Amigos",
-        "url": "https://open.spotify.com/album/5CPyXPaL9Qzv5Mpi2HQBug"
-      },
-      "artists": [
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        },
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        }
-      ],
-      "duration_ms": 203320,
-      "name": "Mulheres - Ao Vivo No Rio De Janeiro / 2007",
-      "url": "https://open.spotify.com/track/5oMUdUhM7kbUnQmxG2AK6j"
-    },
-    {
-      "added_at": "2023-01-25 16:05:09",
-      "album": {
         "name": "Roda de Samba do Fundo de Quintal no Cacique de Ramos (Ao Vivo)",
         "url": "https://open.spotify.com/album/7t8nVY3TatDEUVFRMSkEA5"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 146613,
       "name": "Caciqueando - Ao Vivo",
       "url": "https://open.spotify.com/track/0QRctW6iyXZIVML10fCIsT"
+    },
+    {
+      "added_at": "2023-01-25 16:05:09",
+      "album": {
+        "name": "Ao Vivo Com Os Amigos",
+        "url": "https://open.spotify.com/album/5CPyXPaL9Qzv5Mpi2HQBug"
+      },
+      "artists": [
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        },
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        }
+      ],
+      "duration_ms": 203320,
+      "name": "Mulheres - Ao Vivo No Rio De Janeiro / 2007",
+      "url": "https://open.spotify.com/track/5oMUdUhM7kbUnQmxG2AK6j"
     },
     {
       "added_at": "2023-01-25 16:05:09",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-01-25 16:05:09",
       "album": {
+        "name": "Jovelina P\u00e9rola Negra",
+        "url": "https://open.spotify.com/album/2QWtUqNmlr3PVU9qPANbPf"
+      },
+      "artists": [
+        {
+          "name": "Jovelina Perola Negra",
+          "url": "https://open.spotify.com/artist/7AicXtLi5qHsZLArE6V9EP"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "Menina Voc\u00ea Bebeu",
+      "url": "https://open.spotify.com/track/2Co2GQ3XPmFEYpQJnOTNPX"
+    },
+    {
+      "added_at": "2023-01-25 16:05:09",
+      "album": {
         "name": "Mais Feliz",
         "url": "https://open.spotify.com/album/4fN80AnER7ua5DH8U1A7k9"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 222577,
       "name": "Bota Pra Tocar Tim Maia",
       "url": "https://open.spotify.com/track/60a5kYlSisLg8291QSfsh4"
-    },
-    {
-      "added_at": "2023-01-25 16:05:09",
-      "album": {
-        "name": "Jovelina P\u00e9rola Negra",
-        "url": "https://open.spotify.com/album/2QWtUqNmlr3PVU9qPANbPf"
-      },
-      "artists": [
-        {
-          "name": "Jovelina Perola Negra",
-          "url": "https://open.spotify.com/artist/7AicXtLi5qHsZLArE6V9EP"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Menina Voc\u00ea Bebeu",
-      "url": "https://open.spotify.com/track/2Co2GQ3XPmFEYpQJnOTNPX"
     },
     {
       "added_at": "2023-01-25 16:05:09",

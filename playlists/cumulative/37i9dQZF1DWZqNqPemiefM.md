@@ -4,7 +4,7 @@
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-473 songs - 1 day 13 hr 39 min
+474 songs - 1 day 13 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -382,7 +382,7 @@
 | [Sweeping the leaves like a quiet wave.](https://open.spotify.com/track/1XTMUW8WQ3PdAR5c2rdoqG) | [ASUNA](https://open.spotify.com/artist/3LEHiXHn9lLao21ZKGlUJt), [Tomoyoshi Date](https://open.spotify.com/artist/4eacRnyNxlt0crHyunpgjR), [Federico Durand](https://open.spotify.com/artist/4egL1JbZdtppKXl547U1vW) | [In The Open](https://open.spotify.com/album/7oC9KGsnXo7BjrlJ1YBHIJ) | 5:00 | 2022-04-28 | 2022-05-04 |
 | [Take me to the fairyland](https://open.spotify.com/track/30tQCZoIyRRFeGmfDke7Tx) | [Rayons](https://open.spotify.com/artist/1AVhlGtQyoDC58vaUh2mKf) | [After the noise is gone](https://open.spotify.com/album/2ZUgmYcuQF8DXDTs88NK58) | 3:36 | 2022-04-28 | 2022-07-22 |
 | [talk](https://open.spotify.com/track/4mIC0dzRkVJkAByMoYQhov) | [yoshinori takezawa](https://open.spotify.com/artist/0DtSFAYXpepz39MyKktbMD) | [murmuration](https://open.spotify.com/album/5WDDqsm89PQhrYZuHUnjee) | 4:20 | 2022-03-31 | 2022-07-21 |
-| [Tear](https://open.spotify.com/track/77Jnb9dlnX1LZwIYLaDrpV) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Tear](https://open.spotify.com/album/3JEazjKg3or8cAtHi61KgS) | 4:36 | 2023-05-11 |  |
+| [Tear](https://open.spotify.com/track/77Jnb9dlnX1LZwIYLaDrpV) | [Nobuhiro Okahashi](https://open.spotify.com/artist/4gAoGTuZFsbSGctCuiy7Py) | [Tear](https://open.spotify.com/album/3JEazjKg3or8cAtHi61KgS) | 4:36 | 2023-05-11 | 2023-07-26 |
 | [TEEVEE](https://open.spotify.com/track/4j8X5lYsXlWFr6hZ9Djs3h) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Green](https://open.spotify.com/album/07KJ48Y7pbXvz3Q4H44GZl) | 3:36 | 2022-04-07 | 2022-07-27 |
 | [That Мorning](https://open.spotify.com/track/5gKCeE1TQeudhmwKQzS0OY) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Afterimage](https://open.spotify.com/album/09JqZXxkKVOdcLkzDSui6S) | 4:53 | 2022-03-30 | 2022-04-03 |
 | [That's All](https://open.spotify.com/track/7L4Ty83tfVpK5PvZB2sF3l) | [Satoshi & Makoto](https://open.spotify.com/artist/4DoCz7g09pGItevU36MmPr) | [CZ\-5000 Sounds & Sequences](https://open.spotify.com/album/7I6mXMQcL6uyGNFVCspar2) | 3:30 | 2022-03-31 | 2022-05-03 |
@@ -459,6 +459,7 @@
 | [ヴェニス風縞模様](https://open.spotify.com/track/4ov5ZrFBeUhXZ8mJ3lXpM6) | [柴野さつき](https://open.spotify.com/artist/3ZEZtytFUtMhTrjr5LK9qR) | [ランデ・ヴ](https://open.spotify.com/album/5NisOSPqxx4ApGyO2efQNb) | 3:24 | 2022-03-31 | 2022-07-21 |
 | [傷つきやすくて](https://open.spotify.com/track/4mIWz0pIJ9Svto6arLLfps) | [Shiho Yabuki](https://open.spotify.com/artist/7duimCZBx2z090JINWDE5V) | [Kanebo Sound Esthetique 1 「きっと、すなおになれる。」](https://open.spotify.com/album/3Ir5KdZhcpyFvHm8QeuzmU) | 3:52 | 2022-04-07 | 2022-07-21 |
 | [天地創造](https://open.spotify.com/track/2e45ykC30DtsWWXcrwDFp6) | [Jun Sato](https://open.spotify.com/artist/4vVCFsF43SWyMzFPOssB3O) | [CHAOS](https://open.spotify.com/album/34iJCZVlWiNQ088fyN5sbL) | 1:35 | 2022-03-31 | 2022-04-21 |
+| [家屋風雪月日の鼓動テラスで乾杯](https://open.spotify.com/track/49gf801a7Zyank37ARDWkn) | [MOOTY](https://open.spotify.com/artist/0ZEqcDapsv0OZbjt36sjrU) | [アンビエントジャンクション](https://open.spotify.com/album/0eRLfyOfKjloqSdQ9ACT3z) | 7:33 | 2023-07-25 |  |
 | [少年](https://open.spotify.com/track/0cWaWjXEp36hvAVaJFafFV) | [Mariah](https://open.spotify.com/artist/0yMkwfeRG8lviQY0mZ1BBI) | [うたかたの日々](https://open.spotify.com/album/4dFZ6TOj7UCV3IrWaGdh4x) | 5:05 | 2022-03-31 | 2022-04-04 |
 | [常夏の島](https://open.spotify.com/track/7rbRpKQnLD9vaAcpvzLDLB) | [清水靖晃](https://open.spotify.com/artist/1phxSHEGeNHiIuab2u6N4K) | [NHK 特集ドラマ「マンゴーの樹の下で\~ルソン島、戦火の約束\~」オリジナル・サウンドトラック](https://open.spotify.com/album/2LIrkmb80XuXce27DOXMLr) | 3:36 | 2022-03-31 | 2022-07-27 |
 | [憩い](https://open.spotify.com/track/2eMHd5adUXFgANehcG7zeC) | [小久保隆](https://open.spotify.com/artist/1yzyqMZjuHLEkX1zVARhu7) | [ウォーター・ヒーリング\~ビューティー・トリートメント・ミュージック](https://open.spotify.com/album/72cIdL4xCHj4NXSGQYjo0w) | 8:03 | 2022-03-31 | 2022-07-29 |

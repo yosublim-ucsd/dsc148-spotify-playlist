@@ -1,12 +1,12 @@
 {
   "description": "Your go to Christian playlist for every day listening . Cover: Sadie Robertson Huff",
-  "num_followers": 12921,
+  "num_followers": 12922,
   "original_name": "Living Christian",
   "owner": {
     "name": "SOZO Playlists ",
     "url": "https://open.spotify.com/user/sozoofficial"
   },
-  "snapshot_id": "MzI4Nyw0NGQ0NGU0Zjc1YjQ3OTVkNzVmNzU4NzMyZGFiMDYwZWYwZThhODM3",
+  "snapshot_id": "MzI4OSw2YmE1ZmNhNTc2NjU0MTg0MWZlYTY1NzU2MzU0M2JlOGU1Yzc4ZTZi",
   "tracks": [
     {
       "added_at": "2023-07-14 15:35:28",
@@ -271,6 +271,38 @@
       "duration_ms": 599374,
       "name": "Who Is This Man - Live",
       "url": "https://open.spotify.com/track/4ZyKugiffVoGadDGowUQKv"
+    },
+    {
+      "added_at": "2023-07-25 19:32:08",
+      "album": {
+        "name": "Rescue",
+        "url": "https://open.spotify.com/album/49sgj5TsAza6TkXow8DQWa"
+      },
+      "artists": [
+        {
+          "name": "Jordan St. Cyr",
+          "url": "https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il"
+        }
+      ],
+      "duration_ms": 221403,
+      "name": "Rescue",
+      "url": "https://open.spotify.com/track/4ANZqWyzB9fIW2XtthkVQV"
+    },
+    {
+      "added_at": "2023-07-25 19:30:29",
+      "album": {
+        "name": "Never",
+        "url": "https://open.spotify.com/album/1DdKZXJOtsK4N1YKMcGN9f"
+      },
+      "artists": [
+        {
+          "name": "Tasha Layton",
+          "url": "https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq"
+        }
+      ],
+      "duration_ms": 214932,
+      "name": "Never",
+      "url": "https://open.spotify.com/track/5HGrUHHL9w04CI4FAV0ebl"
     },
     {
       "added_at": "2023-03-24 18:02:54",

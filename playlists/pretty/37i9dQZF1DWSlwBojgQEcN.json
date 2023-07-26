@@ -1,12 +1,12 @@
 {
   "description": "Songs to soundtrack your love story, from butterflies and first kisses to bittersweet memories and everything in between.",
-  "num_followers": 1783899,
+  "num_followers": 1784026,
   "original_name": "Acoustic Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhY2NjZDhkYTE3NmRkZDNjYmYzM2NmZDMxYTM3MmRlYmQ4MWZjNGU5",
+  "snapshot_id": "MCxjN2YxZTc0MWQ0ZTk2N2MwZTdjMmMyZTk5YzEzNDhiNWM1M2NlNzdj",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Highway Woman",
+        "url": "https://open.spotify.com/album/6nqOmZZeSp7hLaM3RT1uuI"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "duration_ms": 228093,
+      "name": "Highway Woman",
+      "url": "https://open.spotify.com/track/1JJUMgzCxkBeF8kaS2FR5v"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Things I Chose To Remember",
         "url": "https://open.spotify.com/album/13DpMn525oKHXLQSgq96TF"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 235720,
       "name": "Reunite",
       "url": "https://open.spotify.com/track/3stIYspWCgBe0JxbQvkKsv"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Highway Woman",
-        "url": "https://open.spotify.com/album/6nqOmZZeSp7hLaM3RT1uuI"
-      },
-      "artists": [
-        {
-          "name": "John Vincent III",
-          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
-        }
-      ],
-      "duration_ms": 228093,
-      "name": "Highway Woman",
-      "url": "https://open.spotify.com/track/1JJUMgzCxkBeF8kaS2FR5v"
     },
     {
       "added_at": "2023-07-21 04:00:00",

@@ -284,10 +284,28 @@
       ],
       "date_added": "2022-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 386773,
       "name": "Descansarei",
       "url": "https://open.spotify.com/track/5yNfMRJ8byUpEscMcy1ZXb"
+    },
+    {
+      "album": {
+        "name": "Promessas",
+        "url": "https://open.spotify.com/album/58uhE9XLy6EojFpJ6UQKA2"
+      },
+      "artists": [
+        {
+          "name": "Ronaldo Medeiros",
+          "url": "https://open.spotify.com/artist/6RMUphSh8PJC2llQHlFARe"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 387613,
+      "name": "Descansarei - Ao Vivo",
+      "url": "https://open.spotify.com/track/44PXCOuQXQIq40BiTBjVW6"
     },
     {
       "album": {

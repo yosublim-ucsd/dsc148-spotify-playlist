@@ -1,12 +1,12 @@
 {
   "description": "The best in house music",
-  "num_followers": 169108,
+  "num_followers": 169165,
   "original_name": "House Supreme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTQ2Y2ZiZTlhNzZhZGMzZDA1MWQ2NTE2ZTI1ZWIyNzk2OGM2NDM0",
+  "snapshot_id": "MCxkMDcyODE2ODY2ODAyMDA2YmYxMWIxNTUzYzg2NTQyZGE3YjczYWZh",
   "tracks": [
     {
       "added_at": "2023-07-20 22:00:00",
@@ -331,22 +331,22 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "ENERGY (Deluxe)",
-        "url": "https://open.spotify.com/album/6wp1us3xBnYz5qldxrZXRf"
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E"
       },
       "artists": [
         {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+          "name": "Butch",
+          "url": "https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv"
         },
         {
-          "name": "Eko Roosevelt",
-          "url": "https://open.spotify.com/artist/7hs75D38FalYWr7BDO1WPh"
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
         }
       ],
-      "duration_ms": 329280,
-      "name": "Tondo",
-      "url": "https://open.spotify.com/track/0csz09qS2n8Jo7LogHKu7j"
+      "duration_ms": 187286,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -371,22 +371,22 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E"
+        "name": "ENERGY (Deluxe)",
+        "url": "https://open.spotify.com/album/6wp1us3xBnYz5qldxrZXRf"
       },
       "artists": [
         {
-          "name": "Butch",
-          "url": "https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv"
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
         },
         {
-          "name": "Nic Fanciulli",
-          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+          "name": "Eko Roosevelt",
+          "url": "https://open.spotify.com/artist/7hs75D38FalYWr7BDO1WPh"
         }
       ],
-      "duration_ms": 187286,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh"
+      "duration_ms": 329280,
+      "name": "Tondo",
+      "url": "https://open.spotify.com/track/0csz09qS2n8Jo7LogHKu7j"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Cada Vez (Ultimate Mix Collection)",
-        "url": "https://open.spotify.com/album/71dj4KMbkN7P4dGdUW4xyD"
-      },
-      "artists": [
-        {
-          "name": "Negrocan",
-          "url": "https://open.spotify.com/artist/1nFfBHyjC9addR3ck76QiS"
-        }
-      ],
-      "duration_ms": 232058,
-      "name": "Cada Vez - Grant Nelson Radio Edit",
-      "url": "https://open.spotify.com/track/6NYctBsuODhva162XjwYq5"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
         "name": "Pearls (SILK Remix)",
         "url": "https://open.spotify.com/album/3yo2oAvILNLiOcmswEzYfr"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 246718,
       "name": "Pearls - SILK Remix",
       "url": "https://open.spotify.com/track/3COoBjp98dAjysxl5ksTsV"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "Cada Vez (Ultimate Mix Collection)",
+        "url": "https://open.spotify.com/album/71dj4KMbkN7P4dGdUW4xyD"
+      },
+      "artists": [
+        {
+          "name": "Negrocan",
+          "url": "https://open.spotify.com/artist/1nFfBHyjC9addR3ck76QiS"
+        }
+      ],
+      "duration_ms": 232058,
+      "name": "Cada Vez - Grant Nelson Radio Edit",
+      "url": "https://open.spotify.com/track/6NYctBsuODhva162XjwYq5"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -1759,26 +1759,6 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "A Bit Patchy (Remixes)",
-        "url": "https://open.spotify.com/album/0K671SykDDeXHZ2qOUb3rm"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/602MOqXiySUsSi7y6jFpvI"
-        },
-        {
-          "name": "Eric Prydz",
-          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
-        }
-      ],
-      "duration_ms": 460000,
-      "name": "A Bit Patchy - Eric Prydz Remix",
-      "url": "https://open.spotify.com/track/5JArDbrDlZPae70oqyVQov"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
         "name": "Be Funky",
         "url": "https://open.spotify.com/album/64IIYvUmAiRd7InY8Ik4Q3"
       },
@@ -1799,22 +1779,22 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "My Own Way",
-        "url": "https://open.spotify.com/album/6sgwScp59KuNiOPvexBNfA"
+        "name": "A Bit Patchy (Remixes)",
+        "url": "https://open.spotify.com/album/0K671SykDDeXHZ2qOUb3rm"
       },
       "artists": [
         {
-          "name": "A-Trak",
-          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/602MOqXiySUsSi7y6jFpvI"
         },
         {
-          "name": "Ferreck Dawn",
-          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+          "name": "Eric Prydz",
+          "url": "https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R"
         }
       ],
-      "duration_ms": 293000,
-      "name": "My Own Way - Extended",
-      "url": "https://open.spotify.com/track/5x0e4uMMRFnRMxcsEYaSgC"
+      "duration_ms": 460000,
+      "name": "A Bit Patchy - Eric Prydz Remix",
+      "url": "https://open.spotify.com/track/5JArDbrDlZPae70oqyVQov"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -1843,6 +1823,42 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
+        "name": "House Music (The Anthem)",
+        "url": "https://open.spotify.com/album/23X9hjUOBzrtzAhjp0EZie"
+      },
+      "artists": [
+        {
+          "name": "Tom Novy",
+          "url": "https://open.spotify.com/artist/1EVpn7mXyF07LuJqgUk6RX"
+        }
+      ],
+      "duration_ms": 256043,
+      "name": "House Music - Radio-Edit",
+      "url": "https://open.spotify.com/track/3BaOvxpetcgkgs1KM6o4k6"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "My Own Way",
+        "url": "https://open.spotify.com/album/6sgwScp59KuNiOPvexBNfA"
+      },
+      "artists": [
+        {
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        },
+        {
+          "name": "Ferreck Dawn",
+          "url": "https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8"
+        }
+      ],
+      "duration_ms": 293000,
+      "name": "My Own Way - Extended",
+      "url": "https://open.spotify.com/track/5x0e4uMMRFnRMxcsEYaSgC"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
         "name": "Gonna Be Mine (feat. Sydney Jo Jackson)",
         "url": "https://open.spotify.com/album/2GOpLg4olpbxvFhJL8pO5H"
       },
@@ -1859,22 +1875,6 @@
       "duration_ms": 140190,
       "name": "Gonna Be Mine (feat. Sydney Jo Jackson)",
       "url": "https://open.spotify.com/track/2elJe4Zx5TJzXTjPBVgtNW"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
-        "name": "House Music (The Anthem)",
-        "url": "https://open.spotify.com/album/23X9hjUOBzrtzAhjp0EZie"
-      },
-      "artists": [
-        {
-          "name": "Tom Novy",
-          "url": "https://open.spotify.com/artist/1EVpn7mXyF07LuJqgUk6RX"
-        }
-      ],
-      "duration_ms": 256043,
-      "name": "House Music - Radio-Edit",
-      "url": "https://open.spotify.com/track/3BaOvxpetcgkgs1KM6o4k6"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Think About You",
-        "url": "https://open.spotify.com/album/3dTfmlo34vmVlv9Zk1Jgc1"
-      },
-      "artists": [
-        {
-          "name": "Mohtiv",
-          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
-        }
-      ],
-      "duration_ms": 178306,
-      "name": "Think About You",
-      "url": "https://open.spotify.com/track/5d5VMeHx2y623Ejj5JHC8m"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
         "name": "Lay It On Me",
         "url": "https://open.spotify.com/album/2BdsJUemIZQAcxmNG0z8yL"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 214285,
       "name": "R U",
       "url": "https://open.spotify.com/track/0YOgkVf88IfKjV5dbEnK15"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "Think About You",
+        "url": "https://open.spotify.com/album/3dTfmlo34vmVlv9Zk1Jgc1"
+      },
+      "artists": [
+        {
+          "name": "Mohtiv",
+          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
+        }
+      ],
+      "duration_ms": 178306,
+      "name": "Think About You",
+      "url": "https://open.spotify.com/track/5d5VMeHx2y623Ejj5JHC8m"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -2275,22 +2275,6 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Offenbach Anthem",
-        "url": "https://open.spotify.com/album/1QmqhZWQqGiwAkpQ40gYyN"
-      },
-      "artists": [
-        {
-          "name": "CINTHIE",
-          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
-        }
-      ],
-      "duration_ms": 344577,
-      "name": "Offenbach Anthem",
-      "url": "https://open.spotify.com/track/64HEmeFcnMSiBMLbfah3yx"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
         "name": "Harder (With Busta Rhymes) - Shermanology Remix",
         "url": "https://open.spotify.com/album/2YKdhOGgOq29ImtFWvwin2"
       },
@@ -2311,6 +2295,38 @@
       "duration_ms": 204651,
       "name": "Harder (Shermanology Remix) - Radio Edit",
       "url": "https://open.spotify.com/track/2ZhZ76JnLYcjFmcExTdxNF"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "Offenbach Anthem",
+        "url": "https://open.spotify.com/album/1QmqhZWQqGiwAkpQ40gYyN"
+      },
+      "artists": [
+        {
+          "name": "CINTHIE",
+          "url": "https://open.spotify.com/artist/764H8zG8sTf5FPHWHW5bvh"
+        }
+      ],
+      "duration_ms": 344577,
+      "name": "Offenbach Anthem",
+      "url": "https://open.spotify.com/track/64HEmeFcnMSiBMLbfah3yx"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "Savane Colour EP",
+        "url": "https://open.spotify.com/album/7ztOnf2el2HVw3xnUe1r53"
+      },
+      "artists": [
+        {
+          "name": "Tomasz Wakulewski",
+          "url": "https://open.spotify.com/artist/0OJHtyT4Hbh4LZ9VorqlEN"
+        }
+      ],
+      "duration_ms": 281628,
+      "name": "Savane Colour",
+      "url": "https://open.spotify.com/track/5G21xDksGi4bc2Nfh4QvQW"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -2359,22 +2375,6 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Savane Colour EP",
-        "url": "https://open.spotify.com/album/7ztOnf2el2HVw3xnUe1r53"
-      },
-      "artists": [
-        {
-          "name": "Tomasz Wakulewski",
-          "url": "https://open.spotify.com/artist/0OJHtyT4Hbh4LZ9VorqlEN"
-        }
-      ],
-      "duration_ms": 281628,
-      "name": "Savane Colour",
-      "url": "https://open.spotify.com/track/5G21xDksGi4bc2Nfh4QvQW"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
         "name": "OOH",
         "url": "https://open.spotify.com/album/4buhxinCoBiAx52a6OQBSj"
       },
@@ -2411,6 +2411,26 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
+        "name": "Red Alert (Remixes)",
+        "url": "https://open.spotify.com/album/60bXKwhboGfLtL8b3kfZRA"
+      },
+      "artists": [
+        {
+          "name": "Basement Jaxx",
+          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
+        },
+        {
+          "name": "Grant Nelson",
+          "url": "https://open.spotify.com/artist/6uEi6lYYhf6Fkd40ZVCKqi"
+        }
+      ],
+      "duration_ms": 269666,
+      "name": "Red Alert - Grant Nelson Remix - Edit",
+      "url": "https://open.spotify.com/track/3uYz0ZtiATdgOU8TItF0vD"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
         "name": "Don't Cry For Me (The Remixes)",
         "url": "https://open.spotify.com/album/3n9jVh3tTq0tjMeFmsnfZB"
       },
@@ -2431,22 +2451,18 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Red Alert (Remixes)",
-        "url": "https://open.spotify.com/album/60bXKwhboGfLtL8b3kfZRA"
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/4PdC05N3eKyTqAsG3NGybb"
       },
       "artists": [
         {
-          "name": "Basement Jaxx",
-          "url": "https://open.spotify.com/artist/4YrKBkKSVeqDamzBPWVnSJ"
-        },
-        {
-          "name": "Grant Nelson",
-          "url": "https://open.spotify.com/artist/6uEi6lYYhf6Fkd40ZVCKqi"
+          "name": "Marcus Cito",
+          "url": "https://open.spotify.com/artist/3r26IN2ktuEyJs4hUoOlzC"
         }
       ],
-      "duration_ms": 269666,
-      "name": "Red Alert - Grant Nelson Remix - Edit",
-      "url": "https://open.spotify.com/track/3uYz0ZtiATdgOU8TItF0vD"
+      "duration_ms": 155520,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/2jzmiQmmiO9M1uudbgdSM1"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -2479,22 +2495,6 @@
       "duration_ms": 379200,
       "name": "After All This Time",
       "url": "https://open.spotify.com/track/5WN9wAj9Bn8Rf8i4cesLmJ"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
-        "name": "Medicine",
-        "url": "https://open.spotify.com/album/4PdC05N3eKyTqAsG3NGybb"
-      },
-      "artists": [
-        {
-          "name": "Marcus Cito",
-          "url": "https://open.spotify.com/artist/3r26IN2ktuEyJs4hUoOlzC"
-        }
-      ],
-      "duration_ms": 155520,
-      "name": "Medicine",
-      "url": "https://open.spotify.com/track/2jzmiQmmiO9M1uudbgdSM1"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -2559,6 +2559,26 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
+        "name": "Never Seen You Dance (Demi Riqu\u00edsimo Remix)",
+        "url": "https://open.spotify.com/album/7DUxxi3K83DylaxT9jqCC3"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        },
+        {
+          "name": "Demi Riqu\u00edsimo",
+          "url": "https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac"
+        }
+      ],
+      "duration_ms": 328356,
+      "name": "Never Seen You Dance - Demi Riqu\u00edsimo Remix",
+      "url": "https://open.spotify.com/track/64kBKl5m9YXX2l8KCn9rVP"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
         "name": "Release Me (feat. Rationale) [Jess Bays Remix]",
         "url": "https://open.spotify.com/album/19Tp9FoAw2zcmvizQ3mjO1"
       },
@@ -2599,26 +2619,6 @@
       "duration_ms": 241889,
       "name": "Une Nuit \u00c0 La Cour - Edit",
       "url": "https://open.spotify.com/track/7jbPFpeOuZ9UA0H8Aq6XUh"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
-        "name": "Never Seen You Dance (Demi Riqu\u00edsimo Remix)",
-        "url": "https://open.spotify.com/album/7DUxxi3K83DylaxT9jqCC3"
-      },
-      "artists": [
-        {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        },
-        {
-          "name": "Demi Riqu\u00edsimo",
-          "url": "https://open.spotify.com/artist/1GIv2BGriYO1IdownXWWac"
-        }
-      ],
-      "duration_ms": 328356,
-      "name": "Never Seen You Dance - Demi Riqu\u00edsimo Remix",
-      "url": "https://open.spotify.com/track/64kBKl5m9YXX2l8KCn9rVP"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -2791,22 +2791,6 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "Fiesta en el Cielo EP",
-        "url": "https://open.spotify.com/album/4vyjGa1RxCZuPv5Q6AfZ0Q"
-      },
-      "artists": [
-        {
-          "name": "Kenny Brian",
-          "url": "https://open.spotify.com/artist/11Wf5ZORjHp2zPQxbRTyKc"
-        }
-      ],
-      "duration_ms": 140811,
-      "name": "Fiesta en el Cielo",
-      "url": "https://open.spotify.com/track/19HppP8DRZMJU15pXel51k"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
         "name": "Good Woman (Edit)",
         "url": "https://open.spotify.com/album/2wY62BWaup5b7NB02dNPxm"
       },
@@ -2819,6 +2803,22 @@
       "duration_ms": 215768,
       "name": "Good Woman - Edit",
       "url": "https://open.spotify.com/track/3moxYB3Zti5dXy9dIDlBrR"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "Fiesta en el Cielo EP",
+        "url": "https://open.spotify.com/album/4vyjGa1RxCZuPv5Q6AfZ0Q"
+      },
+      "artists": [
+        {
+          "name": "Kenny Brian",
+          "url": "https://open.spotify.com/artist/11Wf5ZORjHp2zPQxbRTyKc"
+        }
+      ],
+      "duration_ms": 140811,
+      "name": "Fiesta en el Cielo",
+      "url": "https://open.spotify.com/track/19HppP8DRZMJU15pXel51k"
     },
     {
       "added_at": "2023-07-20 22:00:00",
@@ -2839,22 +2839,6 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "On Da Groove",
-        "url": "https://open.spotify.com/album/0KJqUg1zkiFL6df3ZmOXfI"
-      },
-      "artists": [
-        {
-          "name": "Stef Davidse",
-          "url": "https://open.spotify.com/artist/7JXk6wlswhEGYkmtpdqYEX"
-        }
-      ],
-      "duration_ms": 312000,
-      "name": "On Da Groove",
-      "url": "https://open.spotify.com/track/3jotybhgTZeCqXFMqzfInI"
-    },
-    {
-      "added_at": "2023-07-20 22:00:00",
-      "album": {
         "name": "The Reason",
         "url": "https://open.spotify.com/album/1KzFfzFJcAWqUEP4fSnmNO"
       },
@@ -2871,6 +2855,26 @@
       "duration_ms": 146675,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/1mMjjYg5ig6kC9LGWx9G54"
+    },
+    {
+      "added_at": "2023-07-20 22:00:00",
+      "album": {
+        "name": "Boiling Point",
+        "url": "https://open.spotify.com/album/6CyUL4F4TskBlqBYn4ft65"
+      },
+      "artists": [
+        {
+          "name": "Low Steppa",
+          "url": "https://open.spotify.com/artist/5OImcY3khBn9UFjzgaapob"
+        },
+        {
+          "name": "Mica Paris",
+          "url": "https://open.spotify.com/artist/7ooehj86xYi05XJoVNxJGO"
+        }
+      ],
+      "duration_ms": 152683,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/0y4BhKDH3cGPWg8UbHGlHl"
     }
   ],
   "unique_name": "House Supreme",

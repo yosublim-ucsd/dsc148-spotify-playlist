@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 
 > La casa de lxs MC's\. Foto: Liricistas & Utopiko.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,433 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,475 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxFkXW4j8RX.md) - [plain]
 | 93 | [El Lamento del Pueblo](https://open.spotify.com/track/5nTnKJ1eDoU4dxwsjrXFql) | [Cevlade](https://open.spotify.com/artist/7FavRzQTgusKjQCqvO4xXY) | [El Lamento del Pueblo](https://open.spotify.com/album/1VwM1cng7ptbUgkSWVSBYS) | 4:07 |
 | 94 | [Capital Bacteria](https://open.spotify.com/track/0rfUN5Pqg5bonCr9JO9gXv) | [Soledades Pasajeras](https://open.spotify.com/artist/7zEThbBAXC72yuedExxjUE), [Benour](https://open.spotify.com/artist/3fXjWSQMP1Uq1zHyq9wBHV) | [Capital Bacteria](https://open.spotify.com/album/4xhnubL68qjOAijDJg7TZt) | 2:55 |
 | 95 | [Tiempo al tiempo](https://open.spotify.com/track/0ZBpz8fPm3Evsp1O8zMmOJ) | [Catana](https://open.spotify.com/artist/5M93gtdh8dIv85CDYnuP90), [Ese Té](https://open.spotify.com/artist/7iDtJkNeuBUsUU03UMzZzE) | [Tiempo al tiempo](https://open.spotify.com/album/49xKvARWjC4aqG3yydZnGz) | 2:22 |
-| 96 | [La Felicidad](https://open.spotify.com/track/7gCeqPyODFh7rtkLpekpZk) | [Mecal](https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5), [Cevlade](https://open.spotify.com/artist/7FavRzQTgusKjQCqvO4xXY) | [La Felicidad](https://open.spotify.com/album/2WGxPfmod29I9jcrnRtn7Q) | 3:23 |
+| 96 | [La Felicidad](https://open.spotify.com/track/7gCeqPyODFh7rtkLpekpZk) | [Mecal](https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5), [Cevlade](https://open.spotify.com/artist/7FavRzQTgusKjQCqvO4xXY), [InVnerable](https://open.spotify.com/artist/5DVq4JmHmFWBoFk7K0vCMY) | [La Felicidad](https://open.spotify.com/album/2WGxPfmod29I9jcrnRtn7Q) | 3:23 |
 | 97 | [Cuentos](https://open.spotify.com/track/1Qo4WtxrJ11TRLiwnMpxkJ) | [KMC](https://open.spotify.com/artist/6XRepE59HrVuIQgfWXdBJ4), [Seamoon](https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O) | [Cuentos](https://open.spotify.com/album/7a5a20D7POPe4lKraQkpVf) | 3:12 |
 | 98 | [No Le Bajes](https://open.spotify.com/track/4lfJ1o9QFUhqULepgZdlD8) | [Zita Zoe](https://open.spotify.com/artist/5w3yQZC4IFbbGaOTTne3Nk), [Cjupiter](https://open.spotify.com/artist/3tSPx7EgteNsCF9RiGF8RN) | [No Le Bajes](https://open.spotify.com/album/2IJhnQ4zhnRG11pEbz3wFT) | 2:57 |
 | 99 | [De Donde Vengo](https://open.spotify.com/track/0B7YG0Rd4Jp3IMwaq6mAJL) | [Rapacortes](https://open.spotify.com/artist/4vpADGNWS3zDDxd2hQrOoM), [Kainos Mc](https://open.spotify.com/artist/24GzJuRlLgJhXKlIivLtFx) | [De Donde Vengo](https://open.spotify.com/album/7rmjij4qA9ZnOzZEPAwvAb) | 3:24 |
 | 100 | [III Figura](https://open.spotify.com/track/7aukVJcUSYzvbpyP3LhZwN) | [Como Asesinar a Felipes](https://open.spotify.com/artist/17WostYl0Ep0nyJmA0m2ds) | [III Figura](https://open.spotify.com/album/4zgFIrq7Nxsc5M3GDeax1d) | 3:32 |
 
-Snapshot ID: `MCw0NGYzNzcyMzkyNTJjNGMwNDY3OWU3ZmMwOWUyMjE0ODlhMzRkY2Rj`
+Snapshot ID: `MCw3YzZkNTVmYzQzYWUyNjNlMTQxOGYyNDIyMTk3NWMwMWM2MTNhYTYw`

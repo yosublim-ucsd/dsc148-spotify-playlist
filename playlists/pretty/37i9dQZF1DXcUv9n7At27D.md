@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 
 > 今年の夏に聴きたい日本のクラシックを集めました。
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,936 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,967 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 | 29 | [Widmung, S\. 566 \(After R\. Schumann\)](https://open.spotify.com/track/6Lh6zaxc4P4grGdma3cAT0) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Mao Fujita](https://open.spotify.com/artist/1jN4Xmeo6upsAer2hRZhrl) | [Passage](https://open.spotify.com/album/3daO9WSjhyVWc0ZzexB4Ml) | 3:52 |
 | 30 | [Cello Suite No\. 1 in G Major, BWV 1007: I\. Prelude](https://open.spotify.com/track/54oEItp3u4b57iFWiXPKwH) | [LEO](https://open.spotify.com/artist/1WxBBV8qyCtx1H0f5oP2dS) | [In a Landscape](https://open.spotify.com/album/4q0ZalAdIxVz61oN8QScNP) | 3:09 |
 | 31 | [放課後の音楽室](https://open.spotify.com/track/3n56mOZsaRw6HILof6Nhlb) | [Gontiti](https://open.spotify.com/artist/3MDnw7OjazzthpD3Jk5hKR) | [WORKS〜The Best of Gontiti Works〜](https://open.spotify.com/album/5h1njYH3znhvVagMqcRIfZ) | 1:54 |
-| 32 | [Ravel: 亡き王女のためのパヴァーヌ](https://open.spotify.com/track/3MS8nkpuVTS53i1WlKUkP8) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Fujiko Hemming](https://open.spotify.com/artist/4dHQoSYxFs7VSpbMRC9S6t) | [ピアノ名曲集](https://open.spotify.com/album/45XasnhM03A5fXf12xumR3) | 7:02 |
+| 32 | [亡き王女のためのパヴァーヌ](https://open.spotify.com/track/3MS8nkpuVTS53i1WlKUkP8) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Fujiko Hemming](https://open.spotify.com/artist/4dHQoSYxFs7VSpbMRC9S6t) | [ピアノ名曲集](https://open.spotify.com/album/45XasnhM03A5fXf12xumR3) | 7:02 |
 | 33 | [Inscape](https://open.spotify.com/track/1O8kxSIMJn8haD9Q2f1z49) | [Marihiko Hara](https://open.spotify.com/artist/16EpmlbvM3Zh46GMfxyunm) | [PASSION](https://open.spotify.com/album/7zDwBr55zeXkyVTrdU87sC) | 3:14 |
 | 34 | [アランフェス協奏曲より II\. アダージョ](https://open.spotify.com/track/4drls67YIZQVwF03TxkIJa) | [ホアキン・ロドリーゴ](https://open.spotify.com/artist/4rrSNmtdtILZy9sQ4OGtp9), [Shin\-ichi Fukuda](https://open.spotify.com/artist/1VpxOqn6Ruc8z3AS7yexEm), [Norichika Iimori](https://open.spotify.com/artist/3tGixEmlU0amxltz83a0tc), [Württembergische Philharmonie Reutlingen](https://open.spotify.com/artist/3aSDuAvPFkSnli24u0aZDp) | [マチネの終わりに](https://open.spotify.com/album/1dbUHD0sP27OXcdIKItn06) | 10:40 |
 | 35 | [Scene II, Kyoto](https://open.spotify.com/track/1PAir9FZ9zwcb5xyVECQfk) | [Umitaro Abe](https://open.spotify.com/artist/5JZautVqz7ojSZdWHldk7b) | [Cahier de musique / 音楽手帖](https://open.spotify.com/album/58qq0mSyZZV66wEDiMu93i) | 4:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcUv9n7At27D.md) - [plain]
 | 49 | [Always You](https://open.spotify.com/track/4743TsEgme4vHSjWOmH1oi) | [Naoki Kanda](https://open.spotify.com/artist/6LjDW7YzX2GubNeJR9Yk5b), [Yukiharu Ito](https://open.spotify.com/artist/2eatv5mHMm8Tk8sjnqMT8t) | [neiro](https://open.spotify.com/album/6TCmGyhwZAo6A2DuLSsctc) | 3:17 |
 | 50 | [mou](https://open.spotify.com/track/12zymbsA9SpQ9TZqRg7gCn) | [Teruyuki Nobuchika](https://open.spotify.com/artist/2TJHKFB5XTGjMcTZ04tAkM) | [Sonorite](https://open.spotify.com/album/4faTpoJmxjd59tAvoxsCi8) | 2:53 |
 
-Snapshot ID: `MCwxNDYxZDY4MzQ5NzIyN2MzMzFiYzhkYjdlZmFmYzI4ZmE2OWExMTBh`
+Snapshot ID: `MCxlNDU1Nzg3MTBmOTdjYzMyMDM2MmI5MWRmNDkwNzZhNjEyZGYwY2Nh`

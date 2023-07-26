@@ -1,12 +1,12 @@
 {
   "description": "The very best in new music from around the world. Cover: Zayn",
-  "num_followers": 386094,
+  "num_followers": 386256,
   "original_name": "New Music Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOTllNmNkNjUxYmQ5NjZhMTFiYjczYmRkODRiYTgxYTU4MDcwODUz",
+  "snapshot_id": "MCw4NWZjNmViZWY5ZmE2MTFiOTEzMDc3NmJlOTYzOTVkYmIyZmJiNzhh",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -339,7 +339,7 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "She Knows (With Akon)",
+        "name": "She Knows (with Akon)",
         "url": "https://open.spotify.com/album/0pj4zHdT9FsFOkpA9Qic4F"
       },
       "artists": [
@@ -361,7 +361,7 @@
         }
       ],
       "duration_ms": 135706,
-      "name": "She Knows - With Akon",
+      "name": "She Knows - with Akon",
       "url": "https://open.spotify.com/track/3zkb0907pOJqU7m3Qh5hB7"
     },
     {

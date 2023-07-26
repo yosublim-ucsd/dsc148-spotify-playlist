@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave! La nueva ola de m\u00fasica tejana. Cover: Gary Hobbs",
-  "num_followers": 142548,
+  "num_followers": 142553,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTg5MjAyZjgxY2FhM2U3YTZmMjhiZjcyNGZlYjAyMmZjNWUxOTMx",
+  "snapshot_id": "MCxlNmFjODEyMzQ0ZDM2YmUwNzc1ODA2OTg5ZTNhM2QwZTU5MTE5N2Rl",
   "tracks": [
     {
       "added_at": "2023-03-10 18:43:28",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Ay Amor",
-        "url": "https://open.spotify.com/album/7MkYFmRwumTmK74vY990jB"
-      },
-      "artists": [
-        {
-          "name": "Gabriella",
-          "url": "https://open.spotify.com/artist/1n6ZR4WIvyvuioc07O5UiM"
-        }
-      ],
-      "duration_ms": 228032,
-      "name": "Ay Amor",
-      "url": "https://open.spotify.com/track/0lY5lJa3XSkivRhSEkc0nQ"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "Dime Que Si",
         "url": "https://open.spotify.com/album/5UBDeSU8OLzFB6UxO3cZJq"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 185947,
       "name": "Dime Que Si",
       "url": "https://open.spotify.com/track/0bgfyx78KRzHFOj78fUH9x"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "Ay Amor",
+        "url": "https://open.spotify.com/album/7MkYFmRwumTmK74vY990jB"
+      },
+      "artists": [
+        {
+          "name": "Gabriella",
+          "url": "https://open.spotify.com/artist/1n6ZR4WIvyvuioc07O5UiM"
+        }
+      ],
+      "duration_ms": 228032,
+      "name": "Ay Amor",
+      "url": "https://open.spotify.com/track/0lY5lJa3XSkivRhSEkc0nQ"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -319,6 +319,22 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
+        "name": "Coleccion De Canciones",
+        "url": "https://open.spotify.com/album/4relDr0ItEwUCjOO9gBJ5v"
+      },
+      "artists": [
+        {
+          "name": "Los Garcia Bros.",
+          "url": "https://open.spotify.com/artist/4oI2xE94fPz2FbKvtrJEgD"
+        }
+      ],
+      "duration_ms": 191824,
+      "name": "Cuatro O Cinco Farolasos",
+      "url": "https://open.spotify.com/track/5GrQy4hk0EXu5XO1W89Ero"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
         "name": "Anhelos",
         "url": "https://open.spotify.com/album/6bQNxIp5ebYjjlnlZr69xd"
       },
@@ -339,18 +355,18 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Coleccion De Canciones",
-        "url": "https://open.spotify.com/album/4relDr0ItEwUCjOO9gBJ5v"
+        "name": "Oddz",
+        "url": "https://open.spotify.com/album/2tkBSXvOoKzeXRfKRAjPwC"
       },
       "artists": [
         {
-          "name": "Los Garcia Bros.",
-          "url": "https://open.spotify.com/artist/4oI2xE94fPz2FbKvtrJEgD"
+          "name": "The Homeboyz",
+          "url": "https://open.spotify.com/artist/1l61cJnRmPBJTtyx8i6qDv"
         }
       ],
-      "duration_ms": 191824,
-      "name": "Cuatro O Cinco Farolasos",
-      "url": "https://open.spotify.com/track/5GrQy4hk0EXu5XO1W89Ero"
+      "duration_ms": 241381,
+      "name": "Que Bonito Fuera",
+      "url": "https://open.spotify.com/track/3Y5ToqDRUVDCCdg5fmf4pY"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -371,22 +387,6 @@
       "duration_ms": 207517,
       "name": "Cuando Me D\u00e9 la Gana",
       "url": "https://open.spotify.com/track/6vMQHbiTjjqAEP3ZPZKYIQ"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
-        "name": "Oddz",
-        "url": "https://open.spotify.com/album/2tkBSXvOoKzeXRfKRAjPwC"
-      },
-      "artists": [
-        {
-          "name": "The Homeboyz",
-          "url": "https://open.spotify.com/artist/1l61cJnRmPBJTtyx8i6qDv"
-        }
-      ],
-      "duration_ms": 241381,
-      "name": "Que Bonito Fuera",
-      "url": "https://open.spotify.com/track/3Y5ToqDRUVDCCdg5fmf4pY"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -439,22 +439,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Dame Un Besito",
-        "url": "https://open.spotify.com/album/1UsFXTfhEuJPhwz0VEFgaT"
-      },
-      "artists": [
-        {
-          "name": "La Fiebre",
-          "url": "https://open.spotify.com/artist/2dJ841WWMQuBwrFtQmsOE9"
-        }
-      ],
-      "duration_ms": 186453,
-      "name": "Dame Un Besito",
-      "url": "https://open.spotify.com/track/1eujaqtBOGkVnY3oVkcTnG"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "Estoy Encari\u00f1ado",
         "url": "https://open.spotify.com/album/4dRU5z6FXddnElpKP66L7H"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 180949,
       "name": "Estoy Encari\u00f1ado",
       "url": "https://open.spotify.com/track/3qK4WO2Ce5s9snSR6V6bEY"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "Dame Un Besito",
+        "url": "https://open.spotify.com/album/1UsFXTfhEuJPhwz0VEFgaT"
+      },
+      "artists": [
+        {
+          "name": "La Fiebre",
+          "url": "https://open.spotify.com/artist/2dJ841WWMQuBwrFtQmsOE9"
+        }
+      ],
+      "duration_ms": 186453,
+      "name": "Dame Un Besito",
+      "url": "https://open.spotify.com/track/1eujaqtBOGkVnY3oVkcTnG"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "No Olvides Nuestro Amor",
-        "url": "https://open.spotify.com/album/3n0v17UcuyufwjmzRz4jFg"
-      },
-      "artists": [
-        {
-          "name": "Savannah V.",
-          "url": "https://open.spotify.com/artist/4tIM2vdL2VzMLAG4HjvcCo"
-        }
-      ],
-      "duration_ms": 185728,
-      "name": "No Olvides Nuestro Amor",
-      "url": "https://open.spotify.com/track/1Ta3yiAmE3pwV0PTHh7aQi"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "Si Manana No Me Ves",
         "url": "https://open.spotify.com/album/3NqmmCyTpThcgwBSalVtH6"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 209836,
       "name": "Sed\u00faceme",
       "url": "https://open.spotify.com/track/29Rhx1cGgyB3jtBSx6SkoL"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "No Olvides Nuestro Amor",
+        "url": "https://open.spotify.com/album/3n0v17UcuyufwjmzRz4jFg"
+      },
+      "artists": [
+        {
+          "name": "Savannah V.",
+          "url": "https://open.spotify.com/artist/4tIM2vdL2VzMLAG4HjvcCo"
+        }
+      ],
+      "duration_ms": 185728,
+      "name": "No Olvides Nuestro Amor",
+      "url": "https://open.spotify.com/track/1Ta3yiAmE3pwV0PTHh7aQi"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Entiende Corazon",
-        "url": "https://open.spotify.com/album/1Loi3JQQha8KJ64mnpwvj6"
-      },
-      "artists": [
-        {
-          "name": "Zereno",
-          "url": "https://open.spotify.com/artist/1gg5ZEil8p1ezUJNSOLcJ5"
-        }
-      ],
-      "duration_ms": 189166,
-      "name": "Entiende Corazon",
-      "url": "https://open.spotify.com/track/30s5of3Zk9mTK71nc2PJas"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "Me Estoy Enamorando",
         "url": "https://open.spotify.com/album/5RJg4RhFCjohxFLkga8e4C"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 193850,
       "name": "Me Estoy Enamorando",
       "url": "https://open.spotify.com/track/125nNouH95Q996cSYS79lb"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "Entiende Corazon",
+        "url": "https://open.spotify.com/album/1Loi3JQQha8KJ64mnpwvj6"
+      },
+      "artists": [
+        {
+          "name": "Zereno",
+          "url": "https://open.spotify.com/artist/1gg5ZEil8p1ezUJNSOLcJ5"
+        }
+      ],
+      "duration_ms": 189166,
+      "name": "Entiende Corazon",
+      "url": "https://open.spotify.com/track/30s5of3Zk9mTK71nc2PJas"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Soy Ella",
-        "url": "https://open.spotify.com/album/0C6cJPsfO7pVrAA6TP7reN"
-      },
-      "artists": [
-        {
-          "name": "Joanna Rae",
-          "url": "https://open.spotify.com/artist/3qYF2FA6cKdt8jFsOlzljR"
-        }
-      ],
-      "duration_ms": 179908,
-      "name": "Soy Ella",
-      "url": "https://open.spotify.com/track/5buceuRTk8ODJu1t3B4r8H"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "Que Dolor",
         "url": "https://open.spotify.com/album/3T5RCMyFCQyE3BC91EgYIO"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 202292,
       "name": "Que Dolor",
       "url": "https://open.spotify.com/track/3XlYYqMbpFXKmHfmYR2oPR"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "Soy Ella",
+        "url": "https://open.spotify.com/album/0C6cJPsfO7pVrAA6TP7reN"
+      },
+      "artists": [
+        {
+          "name": "Joanna Rae",
+          "url": "https://open.spotify.com/artist/3qYF2FA6cKdt8jFsOlzljR"
+        }
+      ],
+      "duration_ms": 179908,
+      "name": "Soy Ella",
+      "url": "https://open.spotify.com/track/5buceuRTk8ODJu1t3B4r8H"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "Simplemente",
-        "url": "https://open.spotify.com/album/5eIDua0uFxreLZCNTJPuP4"
-      },
-      "artists": [
-        {
-          "name": "Madison Pulido",
-          "url": "https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz"
-        }
-      ],
-      "duration_ms": 210651,
-      "name": "Tengo Ganas De Ti",
-      "url": "https://open.spotify.com/track/1FQi3kvUFUx6dQk3PBAa6L"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "\u00bfC\u00f3mo Puede Ser As\u00ed?",
         "url": "https://open.spotify.com/album/0ZNklUBNTfrn5OeFPWYJci"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 187058,
       "name": "\u00bfComo Puede Ser As\u00ed?",
       "url": "https://open.spotify.com/track/3dl1BnbuZitazqKqjCjp5d"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "Simplemente",
+        "url": "https://open.spotify.com/album/5eIDua0uFxreLZCNTJPuP4"
+      },
+      "artists": [
+        {
+          "name": "Madison Pulido",
+          "url": "https://open.spotify.com/artist/3uqd6Xta3sWDMEZha0dzwz"
+        }
+      ],
+      "duration_ms": 210651,
+      "name": "Tengo Ganas De Ti",
+      "url": "https://open.spotify.com/track/1FQi3kvUFUx6dQk3PBAa6L"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "NADIE",
-        "url": "https://open.spotify.com/album/3YqlDwjNBkHNRko6zm7jeA"
-      },
-      "artists": [
-        {
-          "name": "Esmeralda G",
-          "url": "https://open.spotify.com/artist/6icgyIXLRejVRb3MiJpyrJ"
-        }
-      ],
-      "duration_ms": 161623,
-      "name": "NADIE",
-      "url": "https://open.spotify.com/track/1wML61KAX8TTp70dVqqa9V"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "Ilusiones",
         "url": "https://open.spotify.com/album/3RuGEPSv2fjAkSAZ3zi06i"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 197500,
       "name": "Ilusiones",
       "url": "https://open.spotify.com/track/2ppb8UJGd46K2s3amo3Tdf"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "NADIE",
+        "url": "https://open.spotify.com/album/3YqlDwjNBkHNRko6zm7jeA"
+      },
+      "artists": [
+        {
+          "name": "Esmeralda G",
+          "url": "https://open.spotify.com/artist/6icgyIXLRejVRb3MiJpyrJ"
+        }
+      ],
+      "duration_ms": 161623,
+      "name": "NADIE",
+      "url": "https://open.spotify.com/track/1wML61KAX8TTp70dVqqa9V"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
-        "name": "La Buena Vida",
-        "url": "https://open.spotify.com/album/52gAwlY9atQCXP0q57ECAk"
-      },
-      "artists": [
-        {
-          "name": "Rose Elva & the Crew",
-          "url": "https://open.spotify.com/artist/3DZ3z0HmuuNFD5JiIukSKn"
-        }
-      ],
-      "duration_ms": 222041,
-      "name": "La Buena Vida",
-      "url": "https://open.spotify.com/track/6pQIozvtUk94Ov0TQO1dNz"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
         "name": "La Tequilera",
         "url": "https://open.spotify.com/album/53cZ3SkhH68ANd45Ot24Ua"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 204355,
       "name": "La Tequilera",
       "url": "https://open.spotify.com/track/1EKTizBZMHG2SG3jbmiAUd"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
+        "name": "La Buena Vida",
+        "url": "https://open.spotify.com/album/52gAwlY9atQCXP0q57ECAk"
+      },
+      "artists": [
+        {
+          "name": "Rose Elva & the Crew",
+          "url": "https://open.spotify.com/artist/3DZ3z0HmuuNFD5JiIukSKn"
+        }
+      ],
+      "duration_ms": 222041,
+      "name": "La Buena Vida",
+      "url": "https://open.spotify.com/track/6pQIozvtUk94Ov0TQO1dNz"
     },
     {
       "added_at": "2023-03-10 18:43:28",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2023-03-10 18:43:28",
       "album": {
+        "name": "Amor Condicional",
+        "url": "https://open.spotify.com/album/3FvlHuZ5cApjPitglJEdVK"
+      },
+      "artists": [
+        {
+          "name": "Hilda Lamas",
+          "url": "https://open.spotify.com/artist/1MnHZrj8MWzylwPK8gPJUG"
+        }
+      ],
+      "duration_ms": 257137,
+      "name": "Amor Condicional",
+      "url": "https://open.spotify.com/track/5vo00ry3fXxFLbMQdgnJDd"
+    },
+    {
+      "added_at": "2023-03-10 18:43:28",
+      "album": {
         "name": "Te Quiero Mas",
         "url": "https://open.spotify.com/album/0W08397Xa5q57fL4gOX4iK"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 202346,
       "name": "Ac\u00e9rcate",
       "url": "https://open.spotify.com/track/5tGsIfgtxm864ScDT6loZi"
-    },
-    {
-      "added_at": "2023-03-10 18:43:28",
-      "album": {
-        "name": "Amor Condicional",
-        "url": "https://open.spotify.com/album/3FvlHuZ5cApjPitglJEdVK"
-      },
-      "artists": [
-        {
-          "name": "Hilda Lamas",
-          "url": "https://open.spotify.com/artist/1MnHZrj8MWzylwPK8gPJUG"
-        }
-      ],
-      "duration_ms": 257137,
-      "name": "Amor Condicional",
-      "url": "https://open.spotify.com/track/5vo00ry3fXxFLbMQdgnJDd"
     },
     {
       "added_at": "2023-03-10 18:43:28",

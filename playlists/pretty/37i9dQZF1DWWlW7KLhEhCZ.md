@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 
 > Lançamentos e novos nomes do trap nacional\. Foto: Sidoka
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,836 likes - 75 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,888 likes - 75 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 11 | [Dchefe](https://open.spotify.com/track/0fIrZwWPBe4rnili6ECsuN) | [Xlira](https://open.spotify.com/artist/04QWfJ4FFEDQ4Y87453zmj) | [Dchefe](https://open.spotify.com/album/3ko7J3r38t0z5R4aSJwtjY) | 2:05 |
 | 12 | [Ela Julgava Meus Erros](https://open.spotify.com/track/1j6q2KjkdxE2XLIUEddmaN) | [UCLÃ](https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP), [Shoy](https://open.spotify.com/artist/3qGnDZ8BHEsA9Go8ui3RUJ) | [Ela Julgava Meus Erros](https://open.spotify.com/album/195A1RValgeQdDMR5psuih) | 3:04 |
 | 13 | [Chapando](https://open.spotify.com/track/1QuZGu4AM9LfcWzYr76cqt) | [EAGLE](https://open.spotify.com/artist/0ZqMXm6JYztVVqFXvHh7v3), [Did Brock](https://open.spotify.com/artist/5ASe9YmAl9N92Wz048P558) | [Chapando](https://open.spotify.com/album/1BzRkDsuIZN8EpY4k8CUXR) | 3:04 |
-| 14 | [Rei da Madrugada](https://open.spotify.com/track/59WERrLBfvgAOR6ejjIfEK) | [MC Negão da BL](https://open.spotify.com/artist/6AfahUc7TbvGBfpl0Ppvfq) | [Rei da Madrugada](https://open.spotify.com/album/6hNcLenB8iMRbOGcIMWMrH) | 2:17 |
+| 14 | [Rei da Madrugada](https://open.spotify.com/track/59WERrLBfvgAOR6ejjIfEK) | [MC Negão da BL](https://open.spotify.com/artist/6AfahUc7TbvGBfpl0Ppvfq), [Vinta](https://open.spotify.com/artist/5xcDWx5ijKmZyxlgbtcK0C) | [Rei da Madrugada](https://open.spotify.com/album/6hNcLenB8iMRbOGcIMWMrH) | 2:17 |
 | 15 | [Cristo Redentor](https://open.spotify.com/track/4nytlvI1loe1AdvZFh9wWl) | [Hashi](https://open.spotify.com/artist/137b3EpKbbmxmY2dGgzx2Q), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [Cristo Redentor](https://open.spotify.com/album/7FFXM8hlnJz0cnvkS2g3jX) | 2:10 |
 | 16 | [Cabra da Peste \(feat\. Lil Whind\) \- Remix](https://open.spotify.com/track/1ZLeapymblusbu3NkoHrfE) | [Welisson](https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ), [Doode](https://open.spotify.com/artist/3Ns5FA1ANQOzsHLWspsrC6), [Arthurzim](https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri), [Lil Whind](https://open.spotify.com/artist/3r3YJUzNBJc9y703QG8zkr) | [Cabra da Peste \(feat\. Lil Whind\) \[Remix\]](https://open.spotify.com/album/31nY8dXQ9TFy7V7nDRiVqU) | 4:11 |
 | 17 | [Latina](https://open.spotify.com/track/2exEtkHxaBXBCVU8v5H56T) | [Burn\-O](https://open.spotify.com/artist/2L8Zk7Y14wkqiiYQ3J53Sn) | [Latina](https://open.spotify.com/album/2y2YyxURVs5Tz6UlFTo4pa) | 2:08 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlW7KLhEhCZ.md) - [plain]
 | 74 | [Sobrenatural ;7](https://open.spotify.com/track/3QncTbkiAhGomFf0KHaqlf) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l) | [Sobrenatural ;7](https://open.spotify.com/album/2CJ5Vpgc8ibMiu0gchg4uL) | 3:12 |
 | 75 | [Jovens do Reggae](https://open.spotify.com/track/3HdEOUNuFuoWj06rXpQQ4o) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Jovens do Reggae](https://open.spotify.com/album/1GJLb6DW0nVTH9rcaCzKgp) | 3:03 |
 
-Snapshot ID: `MCxlZWMyMjVkN2NhMDNiZWM3ODRiZjE3NGZhMThmZTA5YzkxYmZlZTAy`
+Snapshot ID: `MCwwZDgzZjk4MWQ1ZGFiNDM3Nzg1NDYxOWNlZTM4YzIwZTUxZTU4NGQ3`

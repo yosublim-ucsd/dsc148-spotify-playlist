@@ -1,12 +1,12 @@
 {
   "description": "Discover your new favourite artists from UK&IE. Cover: Cian Ducrot",
-  "num_followers": 119941,
+  "num_followers": 119933,
   "original_name": "RADAR UK & Ireland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MjkwYzU3MGY0YTgyYWZkYzU3NTA3MzZmNzkxMGZhNmRjMTFmZGRh",
+  "snapshot_id": "MCw2ZmQwODRmNDIzYTYyOGNhODU2MjM0YTU1NGI4Y2U3N2M1MjBjYmZl",
   "tracks": [
     {
       "added_at": "2023-07-21 01:00:00",
@@ -158,6 +158,10 @@
         {
           "name": "needanamebro",
           "url": "https://open.spotify.com/artist/4hjO4rBY3DJqEhvLvCeIRp"
+        },
+        {
+          "name": "Say Now",
+          "url": "https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn"
         }
       ],
       "duration_ms": 125346,

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/19PgP2QSGPcm6Ve8VhbtpG.md) - [plain]
 
 ### [80s HITS \| TOP 100 SONGS](https://open.spotify.com/playlist/19PgP2QSGPcm6Ve8VhbtpG)
 
-> The best of the 1980s classics for July 4th, from Michael Jackson, Journey, Whitney Houston, TOTO, AC/DC, Kenny Loggins, Billy Joel, Survivor + more\. Fourth of July \| 4th of July \| Independence Day
+> The best of the 1980s classics for July 4th, from Michael Jackson, Journey, Whitney Houston, TOTO, AC/DC, Kenny Loggins, Billy Joel, Survivor + more.
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 2,480,672 likes - 100 songs - 7 hr 4 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 2,480,773 likes - 100 songs - 7 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/19PgP2QSGPcm6Ve8VhbtpG.md) - [plain]
 | 99 | [Tell It to My Heart](https://open.spotify.com/track/3YVPpVJvJG2EauXurPA90F) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Tell It to My Heart \(Expanded Edition\)](https://open.spotify.com/album/2hlHv54WpTInFIRMk3Hwjk) | 3:40 |
 | 100 | [Jump \(Original Mix\)](https://open.spotify.com/track/1kIu9zpYtWjgrLlsactlna) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Break Out \(1983 Version \- Expanded Edition\)](https://open.spotify.com/album/6h1sv7NHAZA7tiErfICYLM) | 4:22 |
 
-Snapshot ID: `Mjg1Miw3MzVkMTExNDkyOGE1MDQ3NDMzNzYyYmNkNWY5MWVhYzI3ZGQwNjlj`
+Snapshot ID: `Mjg1Myw5OWYxYjc4NWY5N2NjODIzMzliODNkZGNhMzUzMjI3YWI5ZWQ1Y2E4`

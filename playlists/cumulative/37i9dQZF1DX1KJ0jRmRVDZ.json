@@ -2048,7 +2048,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 208233,
       "name": "Hollows...",
       "url": "https://open.spotify.com/track/6QqQqCg9dQdjAqIkw2CBTQ"
@@ -2088,7 +2088,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 194439,
       "name": "Honky Tonky Night",
       "url": "https://open.spotify.com/track/3TO59cUi9nNcfCDHrQ9t2W"
@@ -2682,7 +2682,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 184266,
       "name": "Liberty & Freedom",
       "url": "https://open.spotify.com/track/1eSh1CNHLemDDwsVgUccop"
@@ -4267,6 +4267,24 @@
     },
     {
       "album": {
+        "name": "six feet under",
+        "url": "https://open.spotify.com/album/28JxzreIDNjj8KacsfV8Y1"
+      },
+      "artists": [
+        {
+          "name": "Mori Calliope",
+          "url": "https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217106,
+      "name": "six feet under",
+      "url": "https://open.spotify.com/track/1LNsuwA5ql2sUcbSgjX42q"
+    },
+    {
+      "album": {
         "name": "slash",
         "url": "https://open.spotify.com/album/4oLomJzmXTSNYrOYsEg4u3"
       },
@@ -5440,7 +5458,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 175531,
       "name": "\u304c\u306a\u304b\u3080",
       "url": "https://open.spotify.com/track/4qgGhDx54syrYimhK0YlIP"
@@ -9349,6 +9367,24 @@
     },
     {
       "album": {
+        "name": "\u30e1\u30eb\u30c8\u30b7\u30c6\u30a3",
+        "url": "https://open.spotify.com/album/1pjgrbKpN6raYDVv2UI6sr"
+      },
+      "artists": [
+        {
+          "name": "R+...",
+          "url": "https://open.spotify.com/artist/0h64O16J1F4o7wfmOBhN32"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226043,
+      "name": "\u30e1\u30eb\u30c8\u30b7\u30c6\u30a3",
+      "url": "https://open.spotify.com/track/0PaphhsiFcynmB2pZEhLlX"
+    },
+    {
+      "album": {
         "name": "\u30e1\u30ed\u30a6",
         "url": "https://open.spotify.com/album/0jkxbnOM0JnTw4c3Uegf6e"
       },
@@ -10456,7 +10492,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 185706,
       "name": "\u53f0\u98a8\u306e\u5b50",
       "url": "https://open.spotify.com/track/5PE7EuwPXcQmY7MIndcDFF"
@@ -10759,6 +10795,32 @@
     },
     {
       "album": {
+        "name": "\u56de\u8ee2\u706f (feat. \u30ed\u30b9, \u5c0f\u6797\u79c1)",
+        "url": "https://open.spotify.com/album/1unaIh0m8L9lAw151mCD5A"
+      },
+      "artists": [
+        {
+          "name": "Goat",
+          "url": "https://open.spotify.com/artist/4mfb1N5wHaJn88xVYvHq8H"
+        },
+        {
+          "name": "\u30ed\u30b9",
+          "url": "https://open.spotify.com/artist/1ZJ9RKrUKQB5wEl5Liv4kL"
+        },
+        {
+          "name": "\u5c0f\u6797\u79c1",
+          "url": "https://open.spotify.com/artist/7gkC9QnFDqLzmk8t8bpI7Y"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167452,
+      "name": "\u56de\u8ee2\u706f - feat. \u30ed\u30b9, \u5c0f\u6797\u79c1",
+      "url": "https://open.spotify.com/track/1TGLgH4vtdLR7ZOexn9Rlf"
+    },
+    {
+      "album": {
         "name": "\u58f0\u306e\u5728\u308a\u51e6",
         "url": "https://open.spotify.com/album/6P2hoyHDCKtoiaZDEIEglb"
       },
@@ -11052,6 +11114,24 @@
       "duration_ms": 53021,
       "name": "\u5929\u56fd\u306e\u6539\u672d",
       "url": "https://open.spotify.com/track/7dIvHqdCVZGukFm7t5pCDm"
+    },
+    {
+      "album": {
+        "name": "\u5929\u6674\u308c\u4e7e\u676f",
+        "url": "https://open.spotify.com/album/5HAaLNB2DC6md6BoPY6Y4T"
+      },
+      "artists": [
+        {
+          "name": "TOOBOE",
+          "url": "https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185831,
+      "name": "\u5929\u6674\u308c\u4e7e\u676f",
+      "url": "https://open.spotify.com/track/6v1mLqz48y1wj9vhTloX0B"
     },
     {
       "album": {
@@ -12350,6 +12430,24 @@
       "duration_ms": 230066,
       "name": "\u6b8b\u6a5f",
       "url": "https://open.spotify.com/track/1XeOqgzh2fZhmgxnmyiIJ8"
+    },
+    {
+      "album": {
+        "name": "\u307e\u3060\u8ab0\u4e00\u4eba\u3068\u77e5\u3089\u306a\u3044\u8a71\u3092",
+        "url": "https://open.spotify.com/album/1PCgdYrzUQ2IUo9DhRvs89"
+      },
+      "artists": [
+        {
+          "name": "\u73c0",
+          "url": "https://open.spotify.com/artist/5pYWH9L8OcnvIXS1V1cO2L"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259466,
+      "name": "\u6b8b\u7167\u3068\u30cf\u30ca\u30e0\u30b1",
+      "url": "https://open.spotify.com/track/2yZzVhpPJloKZkWoqmAH5W"
     },
     {
       "album": {

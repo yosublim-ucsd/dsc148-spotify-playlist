@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 
 > Corey Taylor on top of the biggest Metal playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,433,685 likes - 75 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,434,117 likes - 75 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcqUzwhNmKv.md) - [plain]
 | 74 | [Waste Of Myself](https://open.spotify.com/track/05EAMJGwvxDcqcGxhT4t9R) | [Malevolence](https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk) | [The Aggression Sessions](https://open.spotify.com/album/3mPX3GO24FWBfxy1NqMkhl) | 3:21 |
 | 75 | [Fall Of Man \(feat\. Matthew K\. Heafy\)](https://open.spotify.com/track/2rCtd6DcWfIJIy7AFSlrdt) | [Sophie Lloyd](https://open.spotify.com/artist/6jOoEU2E2d2kGbxw33oJs3), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Fall Of Man \(feat\. Matthew K\. Heafy\)](https://open.spotify.com/album/30vZNuVyzbDmTBt1ftIFcE) | 3:38 |
 
-Snapshot ID: `MCw0YjEyZDA5NGYyZDhmMTA2Y2ZjYmFhZTA2YjJjODMwMTAzNzBiY2Vk`
+Snapshot ID: `MCxhOTU2NjU1ZDJlZTdjZDQ3NGMwZTEzMjQyMGY5NDFkOThjNGZjYWI2`

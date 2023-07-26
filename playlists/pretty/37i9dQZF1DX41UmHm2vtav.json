@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 426867,
+  "num_followers": 427083,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYTgyYWFiMDg1Njk2ZTBkMGY1YTk5M2JlN2Q1YzdkOTQ2YWZkZDBh",
+  "snapshot_id": "MCxiYzc3NWU1ZTIxNWZhNTRmMjkxNTc2ODA4N2UwZjEwMjg4ZTYxMjkw",
   "tracks": [
     {
       "added_at": "2023-07-14 03:03:00",
@@ -435,30 +435,6 @@
     {
       "added_at": "2023-07-14 03:03:00",
       "album": {
-        "name": "Um Erro (Malifoo, Voltech Remix)",
-        "url": "https://open.spotify.com/album/5SMXWvlU5nqmk261Hh5OUE"
-      },
-      "artists": [
-        {
-          "name": "Malifoo",
-          "url": "https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5"
-        },
-        {
-          "name": "Voltech",
-          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
-        },
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        }
-      ],
-      "duration_ms": 161904,
-      "name": "Um Erro (Malifoo, Voltech Remix)",
-      "url": "https://open.spotify.com/track/0HGGQcBOouXNzapKPoJsOq"
-    },
-    {
-      "added_at": "2023-07-14 03:03:00",
-      "album": {
         "name": "It's Your Life",
         "url": "https://open.spotify.com/album/1WqhtgNg8RsHbErNKCsNd8"
       },
@@ -479,6 +455,30 @@
       "duration_ms": 160909,
       "name": "It's Your Life",
       "url": "https://open.spotify.com/track/3PctkXl7b63vh1TixH00IF"
+    },
+    {
+      "added_at": "2023-07-14 03:03:00",
+      "album": {
+        "name": "Um Erro (Malifoo, Voltech Remix)",
+        "url": "https://open.spotify.com/album/5SMXWvlU5nqmk261Hh5OUE"
+      },
+      "artists": [
+        {
+          "name": "Malifoo",
+          "url": "https://open.spotify.com/artist/6Mt8or6ZkKPJSSECpY7Pu5"
+        },
+        {
+          "name": "Voltech",
+          "url": "https://open.spotify.com/artist/66DRc0RcwzeQcm1wKdDQ4o"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        }
+      ],
+      "duration_ms": 161904,
+      "name": "Um Erro (Malifoo, Voltech Remix)",
+      "url": "https://open.spotify.com/track/0HGGQcBOouXNzapKPoJsOq"
     },
     {
       "added_at": "2023-07-14 03:03:00",
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2023-07-14 03:03:00",
       "album": {
-        "name": "Colours & Lights",
-        "url": "https://open.spotify.com/album/13MUQgmPxJOOPTp5xOK0RO"
-      },
-      "artists": [
-        {
-          "name": "GoldFish",
-          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
-        },
-        {
-          "name": "Cat Dealers",
-          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
-        }
-      ],
-      "duration_ms": 188995,
-      "name": "Colours & Lights",
-      "url": "https://open.spotify.com/track/3mlofacGjfLS5qrEG2Pm6B"
-    },
-    {
-      "added_at": "2023-07-14 03:03:00",
-      "album": {
         "name": "Lovezinho",
         "url": "https://open.spotify.com/album/5DcJcjPxI78aGL7LCvbMsx"
       },
@@ -1439,6 +1419,26 @@
       "duration_ms": 172986,
       "name": "Lovezinho",
       "url": "https://open.spotify.com/track/7kjfe7IZeVHpBDaa4ftu7K"
+    },
+    {
+      "added_at": "2023-07-14 03:03:00",
+      "album": {
+        "name": "Colours & Lights",
+        "url": "https://open.spotify.com/album/13MUQgmPxJOOPTp5xOK0RO"
+      },
+      "artists": [
+        {
+          "name": "GoldFish",
+          "url": "https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7"
+        },
+        {
+          "name": "Cat Dealers",
+          "url": "https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40"
+        }
+      ],
+      "duration_ms": 188995,
+      "name": "Colours & Lights",
+      "url": "https://open.spotify.com/track/3mlofacGjfLS5qrEG2Pm6B"
     },
     {
       "added_at": "2023-07-14 03:03:00",

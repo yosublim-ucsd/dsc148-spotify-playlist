@@ -4,7 +4,7 @@
 
 > A collection of the best Deathcore tracks, mixing recent and fresh new tracks\. Cover: To The Grave
 
-488 songs - 1 day 7 hr 41 min
+489 songs - 1 day 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,8 @@
 | [Behold The Crown](https://open.spotify.com/track/5PFkELKIBBztVIZYh9eBYT) | [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [Evergreen](https://open.spotify.com/album/1UTq74jYfOIWst1gXyE05p) | 4:34 | 2022-10-27 |  |
 | [Behold The Crown](https://open.spotify.com/track/6mlipsFWvQ1dfOWuHAHtOA) | [After The Burial](https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en) | [Behold The Crown](https://open.spotify.com/album/7xvmc4DDMSokbn96oWC4r3) | 4:34 | 2021-12-17 | 2022-07-29 |
 | [Berserker](https://open.spotify.com/track/650R4q7Hv0g7K1b2rlPXH6) | [Dal Av](https://open.spotify.com/artist/1086cg4qU8kfji9Iex24Ri) | [Berserker](https://open.spotify.com/album/1bDfE45bgk86NAfuiKesrP) | 3:58 | 2022-01-14 | 2022-07-24 |
-| [Bestial Devastation \- Re\-Recorded](https://open.spotify.com/track/5NyRZzzOx5QfWpPxuqR4Mt) | [Cavalera Conspiracy](https://open.spotify.com/artist/7F1K4WlMshx23V2TTz4KwV) | [Bestial Devastation \(Re\-Recorded\)](https://open.spotify.com/album/5N7pN5cLMGEpSbfQ7TRPjG) | 3:04 | 2023-06-16 |  |
+| [Bestial Devastation \- Re\-Recorded](https://open.spotify.com/track/0qWD1JSQ3NH4bq9ZkRcDbm) | [Cavalera Conspiracy](https://open.spotify.com/artist/7F1K4WlMshx23V2TTz4KwV) | [Bestial Devastation](https://open.spotify.com/album/7daofMPFpO2A5zfIfWWJo3) | 3:04 | 2023-07-21 |  |
+| [Bestial Devastation \- Re\-Recorded](https://open.spotify.com/track/5NyRZzzOx5QfWpPxuqR4Mt) | [Cavalera Conspiracy](https://open.spotify.com/artist/7F1K4WlMshx23V2TTz4KwV) | [Bestial Devastation \(Re\-Recorded\)](https://open.spotify.com/album/5N7pN5cLMGEpSbfQ7TRPjG) | 3:04 | 2023-06-16 | 2023-07-26 |
 | [Birth of the Butcher](https://open.spotify.com/track/7vsIRXXqtHBFbEhcd9lwtB) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [Birth of the Butcher](https://open.spotify.com/album/4Zvc0dmE82sOd9sg4RDZc7) | 4:46 | 2021-12-17 | 2022-07-29 |
 | [Bitter Friend \(feat\. Matt Heafy\)](https://open.spotify.com/track/4nCekuTPAxUJg8n5druzdZ) | [CABAL](https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5) | [Bitter Friend \(feat\. Matt Heafy\)](https://open.spotify.com/album/64Mk40J7fF8l4InpaTBARD) | 2:51 | 2021-12-17 | 2022-07-26 |
 | [Black Colors](https://open.spotify.com/track/1RaP9HvKpIICb0HFWFjX5m) | [Victim Of Deception](https://open.spotify.com/artist/0EiohUJSIPGACElZ7CE5S5) | [VoD vs LDD](https://open.spotify.com/album/14wWJX2bVWtyIhiRNf2g8x) | 4:07 | 2021-12-17 | 2022-02-10 |

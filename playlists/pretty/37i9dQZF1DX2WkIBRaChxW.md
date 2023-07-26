@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 
 > What's happening in R&B, right now – featuring Roy Woods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,562 likes - 80 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,557 likes - 80 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 | 79 | [Creepin' \(feat\. 21 Savage\) \- Remix](https://open.spotify.com/track/5Ee4IyhPaOVRMc15fUOeG9) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Creepin' \(Remix\)](https://open.spotify.com/album/3P2UkOkqWp8ucd1EOnVAH7) | 3:52 |
 | 80 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 |
 
-Snapshot ID: `MCxjZTA4Y2Q1MmRmNDE1NDQ2OWU2YTZhZTNiNTE3MTQyYmZiYjY4MzI0`
+Snapshot ID: `MCw0Y2MyODQ4OTViYTc2NGVhMzlmM2NiODJmMmZiMWRkODIwNjM2ZmQy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop nở hoa trên những ca khúc này\. Ảnh bìa: ERIK
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,695 likes - 57 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,756 likes - 57 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 2 | [Anh Đánh Rơi Người Yêu Này](https://open.spotify.com/track/5J90ah0ppUSev1uahqQiN6) | [Andiez](https://open.spotify.com/artist/0tBmmwc8j8zbJxISwdsvjA), [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [Anh Đánh Rơi Người Yêu Này](https://open.spotify.com/album/1bcAQ84PmlX74hvGD403VV) | 3:37 |
 | 3 | [Xoa Đầu](https://open.spotify.com/track/6kSqwxia5o0DhzteO4Iwfa) | [ERIK](https://open.spotify.com/artist/1L1VfizWn4DkFt602yD80U) | [< 3RIK](https://open.spotify.com/album/1SVV4z7YJSU0B1RxM2h1cS) | 3:12 |
 | 4 | [Không Còn Em](https://open.spotify.com/track/1RGA13K66cABN7nYek6WNk) | [Madihu](https://open.spotify.com/artist/1OIYKbmhG0RxPXvVPNj3NN) | [Không Còn Em](https://open.spotify.com/album/7k9BqIUVoIQNaSOS62wbd1) | 3:54 |
-| 5 | [Từ Khung Cửa Sổ Này](https://open.spotify.com/track/6C1uzaA6dThCNQt89fk4kJ) | [Suni Hạ Linh](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0) | [Từ Khung Cửa Sổ Này](https://open.spotify.com/album/3MP2DEC3eGwYHvBqmvlrMK) | 3:38 |
+| 5 | [Từ Khung Cửa Sổ Này](https://open.spotify.com/track/6C1uzaA6dThCNQt89fk4kJ) | [Suni Hạ Linh](https://open.spotify.com/artist/4x1fUORHa2EsxrQ6ZzAoQ0) | [Từ Khung Cửa Sổ Này](https://open.spotify.com/album/3MP2DEC3eGwYHvBqmvlrMK) | 3:41 |
 | 6 | [Tiếp Đất](https://open.spotify.com/track/2tZjAcLcg7k0p0c1wA3Ggk) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe), [Thắng](https://open.spotify.com/artist/1oD9fKbb7qQ2nhn9JJC24F) | [Tiếp Đất](https://open.spotify.com/album/1UddUVHgfgI6DuP0DfRLKi) | 3:15 |
 | 7 | [có hẹn với thanh xuân](https://open.spotify.com/track/0zCGKGZB5aySnQQSHWRGIT) | [MONSTAR](https://open.spotify.com/artist/2CLdtsyD2NsTOBBOVr7fi8), [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV) | [có hẹn với thanh xuân](https://open.spotify.com/album/6nhbul7dYBCe9NS0eGwN6L) | 3:38 |
 | 8 | [Vì Anh Đâu Có Biết](https://open.spotify.com/track/6VXVYATpQXEIoZ97NnWCmn) | [Madihu](https://open.spotify.com/artist/1OIYKbmhG0RxPXvVPNj3NN), [Vũ.](https://open.spotify.com/artist/57g2v7gJZepcwsuwssIfZs) | [Vì Anh Đâu Có Biết](https://open.spotify.com/album/3C5z2dMU7D6VLpnNtYujPJ) | 4:01 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 56 | [Hoa Cỏ Lau](https://open.spotify.com/track/4ZOCzRRThD32cGu8aeqOBb) | [Phong Max](https://open.spotify.com/artist/4NWh1VEbymD3S6774EbK2Z) | [Hoa Cỏ Lau](https://open.spotify.com/album/3jjbONfjvGpMwi7JPGXZIM) | 3:30 |
 | 57 | [đưa em về nhàa](https://open.spotify.com/track/08ULi904W2Po6pVj8nN7KC) | [GREY D](https://open.spotify.com/artist/6d0dLenjy5CnR5ZMn2agiV), [Chillies](https://open.spotify.com/artist/2xvW7dgL1640K8exTcRMS4) | [đưa em về nhàa](https://open.spotify.com/album/5ED6WiHXLHGTBITUv6ayAy) | 4:00 |
 
-Snapshot ID: `MCw3MDczYWJjNTNkNzAzMjE1ZjU2MTU3MDQwNmFmYjIxMzcyMjVjMTFl`
+Snapshot ID: `MCxiZTMxYTE4Yjk3NDhjNDM3MDhiODJlYmIxZTQ1MjMzZTUyMDRjMzA4`

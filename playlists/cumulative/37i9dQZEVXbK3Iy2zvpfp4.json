@@ -797,6 +797,24 @@
     },
     {
       "album": {
+        "name": "Afterka",
+        "url": "https://open.spotify.com/album/7iEGBaBy7w0XLwtAGSJi00"
+      },
+      "artists": [
+        {
+          "name": "SIMILIVINLIFE",
+          "url": "https://open.spotify.com/artist/1jHpBumJuu1B6LCJQVh49x"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132142,
+      "name": "Afterka",
+      "url": "https://open.spotify.com/track/5hdHTyA75Dz5OyV4Xeel3V"
+    },
+    {
+      "album": {
         "name": "Aha-Aha",
         "url": "https://open.spotify.com/album/70x4V15158Bk5OE6iTtS6U"
       },
@@ -4441,6 +4459,32 @@
     },
     {
       "album": {
+        "name": "Cynical",
+        "url": "https://open.spotify.com/album/2FSVbytdzBlR6SBT4AFewv"
+      },
+      "artists": [
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        },
+        {
+          "name": "Safri Duo",
+          "url": "https://open.spotify.com/artist/2UOx6w3eHpPKc3RBnNV3Rl"
+        },
+        {
+          "name": "Chris de Sarandy",
+          "url": "https://open.spotify.com/artist/3xAB6KlDT1mrv1y74c3H3X"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191365,
+      "name": "Cynical",
+      "url": "https://open.spotify.com/track/2grS8y9w2vVp7sDJ3RnSx9"
+    },
+    {
+      "album": {
         "name": "Who is Nardo Wick?? (Deluxe)",
         "url": "https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi"
       },
@@ -4718,7 +4762,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 141027,
       "name": "Delilah",
       "url": "https://open.spotify.com/track/60O0CjviBowszlKb9R4Xjm"
@@ -4798,7 +4842,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-21",
+      "date_removed": null,
       "duration_ms": 210332,
       "name": "DETVIANSKY SEN",
       "url": "https://open.spotify.com/track/0VOSU6UPlAnyq6elMiWKEQ"
@@ -8275,6 +8319,24 @@
     },
     {
       "album": {
+        "name": "HARIBO",
+        "url": "https://open.spotify.com/album/5wa6Pvq6pAlELrtkEpmOOF"
+      },
+      "artists": [
+        {
+          "name": "Lorien",
+          "url": "https://open.spotify.com/artist/4k7DGZxvv6NPUQsCL9io9z"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139354,
+      "name": "Haribo",
+      "url": "https://open.spotify.com/track/4ETUIzIVBLwiOShp8uelL0"
+    },
+    {
+      "album": {
         "name": "Hate.",
         "url": "https://open.spotify.com/album/58Wux1agKhGHX31vtdmKsV"
       },
@@ -8704,7 +8766,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 420466,
       "name": "Hip Hop \u017dije",
       "url": "https://open.spotify.com/track/1yEvfrCuUJ6lrx1rZbj6Pv"
@@ -14230,7 +14292,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 191796,
       "name": "Need 2",
       "url": "https://open.spotify.com/track/3kQfBtkQqgN1fAMfhks8TU"
@@ -14564,7 +14626,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 206570,
       "name": "Ni\u010d sa nemen\u00ed",
       "url": "https://open.spotify.com/track/0NJQHng8dKNfJfOktO9XgF"
@@ -15328,7 +15390,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 118800,
       "name": "One Margarita (Margarita Song)",
       "url": "https://open.spotify.com/track/17Um25RxAOpc2NgtDiYKl9"
@@ -16654,7 +16716,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 215466,
       "name": "Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series",
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
@@ -17512,7 +17574,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 97846,
       "name": "REI DO BRASIL",
       "url": "https://open.spotify.com/track/6Seth37t5I69wFbuGFrsiG"
@@ -18058,7 +18120,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-20",
+      "date_removed": null,
       "duration_ms": 156781,
       "name": "S tebou",
       "url": "https://open.spotify.com/track/3hEkAArF6wAyQEWuR80YRr"
@@ -19221,6 +19283,32 @@
     },
     {
       "album": {
+        "name": "Ketamine Girl",
+        "url": "https://open.spotify.com/album/6MW6qxThKOfnRVqFkxK0H2"
+      },
+      "artists": [
+        {
+          "name": "akiaura",
+          "url": "https://open.spotify.com/artist/0zilOJ2Ze0FLrQ76cZQaoc"
+        },
+        {
+          "name": "LONOWN",
+          "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
+        },
+        {
+          "name": "STM",
+          "url": "https://open.spotify.com/artist/31wcwYyqQIfZCtIzCY3R53"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Sleepwalker",
+      "url": "https://open.spotify.com/track/1IPHnu3hVkawJMzkP97tcm"
+    },
+    {
+      "album": {
         "name": "Slep\u00e1 Main",
         "url": "https://open.spotify.com/album/5nRotw8WTqjDlu1nkePXKR"
       },
@@ -19776,6 +19864,24 @@
       "duration_ms": 320466,
       "name": "Space Song",
       "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
+    },
+    {
+      "album": {
+        "name": "Speed Drive (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117809,
+      "name": "Speed Drive (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2"
     },
     {
       "album": {
@@ -20678,7 +20784,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 192000,
       "name": "Tahle jedna vte\u0159ina",
       "url": "https://open.spotify.com/track/6I3jLsRIAX8KZ0GY8DLYKf"
@@ -21236,7 +21342,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 241111,
       "name": "The Lost Soul Down - Slowed & Reverb",
       "url": "https://open.spotify.com/track/5XtsfMFmpM401S6dbVaOQw"
@@ -22145,6 +22251,28 @@
     },
     {
       "album": {
+        "name": "TY A JA / NO HATE",
+        "url": "https://open.spotify.com/album/2X9Q9aILUXS1RPEu1XCT4E"
+      },
+      "artists": [
+        {
+          "name": "Porsche Boy",
+          "url": "https://open.spotify.com/artist/4aQh3DGBy4kwn7QnYTR4KH"
+        },
+        {
+          "name": "Bejby Blue",
+          "url": "https://open.spotify.com/artist/3XYU2Hbrx2exAlIJROPY9E"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "TY A JA / NO HATE",
+      "url": "https://open.spotify.com/track/4z44KQgxT2xx2o2yt4NSNq"
+    },
+    {
+      "album": {
         "name": "UFO PORNO",
         "url": "https://open.spotify.com/album/1YJ4XzYzyacjoobU1RyOz7"
       },
@@ -22476,6 +22604,24 @@
       "duration_ms": 120827,
       "name": "Valeriya",
       "url": "https://open.spotify.com/track/09MbMeMVENgLv6Z9ogzkuG"
+    },
+    {
+      "album": {
+        "name": "vampire",
+        "url": "https://open.spotify.com/album/5kqfR7EuGbyp8x27Pr1kY9"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219724,
+      "name": "vampire",
+      "url": "https://open.spotify.com/track/3k79jB4aGmMDUQzEwa46Rz"
     },
     {
       "album": {

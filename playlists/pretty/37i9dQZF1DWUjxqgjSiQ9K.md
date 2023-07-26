@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\.  Foto:   <a href="https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm?si=4bbdf10fd5024c8d">Redimi2</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 578,223 likes - 99 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 578,453 likes - 99 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 98 | [En Ti Esperamos](https://open.spotify.com/track/59Yp147e2KqyyMz3uZ3AJB) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [En Ti Esperamos](https://open.spotify.com/album/4q0sY1u8JRyXTnXIoWXroG) | 3:38 |
 | 99 | [Fuente](https://open.spotify.com/track/77HM9474iN1caGgAFSLsWX) | [Ale Fdz](https://open.spotify.com/artist/1m3YfDehEub35DvsmG9gMy) | [Fuente](https://open.spotify.com/album/2KI68yyvIzkthZi19LeFlX) | 3:36 |
 
-Snapshot ID: `MCw5NDUxMzhiNWFkNWNlOTgzN2VhZWYzYzExMTFjMjNjNjk0N2VlZTVk`
+Snapshot ID: `MCw4NjIwMGZiMWFkNTI2ZmE0MWU1NmI1MjQwNmU5NTU5YjZkY2ZiZTM4`

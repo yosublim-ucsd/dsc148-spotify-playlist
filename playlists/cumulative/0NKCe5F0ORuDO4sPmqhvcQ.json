@@ -8559,6 +8559,24 @@
     },
     {
       "album": {
+        "name": "The Vortex",
+        "url": "https://open.spotify.com/album/0ji8HEJxJ9KnkhvquiP30g"
+      },
+      "artists": [
+        {
+          "name": "Gromo",
+          "url": "https://open.spotify.com/artist/0fZTPSPLC75QesDYUfSPdx"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "The Vortex",
+      "url": "https://open.spotify.com/track/2XhfNg6trek448vkXR1zaW"
+    },
+    {
+      "album": {
         "name": "The World (camoufly Remix)",
         "url": "https://open.spotify.com/album/4suezxo3IOqKI8f94rTsWl"
       },

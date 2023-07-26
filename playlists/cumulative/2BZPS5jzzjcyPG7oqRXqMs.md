@@ -4,7 +4,7 @@
 
 > Your go to Christian playlist for every day listening \. Cover: Sadie Robertson Huff
 
-195 songs - 12 hr 42 min
+197 songs - 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Morning By Morning \(I Will Trust\) \- Radio Version](https://open.spotify.com/track/0L5KFZnYagllkmT5YwiVDa) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Morning By Morning \(I Will Trust\)](https://open.spotify.com/album/5AY2fZnCXDI6xgtmY2JwJv) | 3:41 | 2022-05-19 |  |
 | [Mountains](https://open.spotify.com/track/1MIuSxzMBDUcLqHzI1Dfo1) | [Jonas Myrin](https://open.spotify.com/artist/2NFO8MvrS1FOyjQZKwgra5) | [Mountains](https://open.spotify.com/album/01CGd2LzkhL2l85kU0bgpP) | 3:24 | 2022-06-24 |  |
 | [My Jesus](https://open.spotify.com/track/0KNvJzxdbslBddN27BEhfm) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [My Jesus](https://open.spotify.com/album/5ZwIIiWOaDiCIE9mNaAoWG) | 3:37 | 2022-02-17 | 2022-08-27 |
+| [Never](https://open.spotify.com/track/5HGrUHHL9w04CI4FAV0ebl) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Never](https://open.spotify.com/album/1DdKZXJOtsK4N1YKMcGN9f) | 3:34 | 2023-07-25 |  |
 | [Never Found A Love](https://open.spotify.com/track/4WwB2Q0MBXldoo2xIBqeOU) | [City Students Worship](https://open.spotify.com/artist/6mGZBhDHH1Ypnwg3VoSD4G), [Church of the City](https://open.spotify.com/artist/0JEaOx0otT35qgkj1w4oBw), [Brantley Pollock](https://open.spotify.com/artist/5m0P6dlB9jrsCinSWm09Fk) | [Never Found A Love](https://open.spotify.com/album/714Uq6GBID0a8xnQaZuugc) | 4:03 | 2022-10-18 |  |
 | [Never Let You Go](https://open.spotify.com/track/4ibXvko2WeZPDemlRNOyZl) | [Equippers Revolution](https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY) | [Clarity](https://open.spotify.com/album/64fVuTbjAULFsImYYYXByp) | 3:22 | 2022-02-17 | 2022-08-27 |
 | [New](https://open.spotify.com/track/5vgLcy6kPSc1pgi1dUS0G8) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [New](https://open.spotify.com/album/7G3VkOhIDKjuhFEKnNt1xE) | 3:15 | 2022-07-01 |  |
@@ -146,6 +147,7 @@
 | [Promised Land](https://open.spotify.com/track/2VXNUklng1AswoKNgjiKJy) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Promised Land](https://open.spotify.com/album/1oSlXZXXKv4yHkaLDvgFij) | 3:29 | 2022-02-17 | 2022-08-27 |
 | [Promised Land \(Collab New\) \(feat\. Sheryl Crow\)](https://open.spotify.com/track/5eQCKQKBFcyMQAAsVk3clf) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3), [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Promised Land](https://open.spotify.com/album/1gSbjqSJcZWYdN9u2Gbn8z) | 3:34 | 2022-02-17 |  |
 | [Rejoice](https://open.spotify.com/track/7tyPrq1HOd2wNG0Ga6H1JW) | [Keith & Kristyn Getty](https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx), [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Christ Our Hope In Life And Death](https://open.spotify.com/album/5gYXqVgY9nDZQUKI6g9FiZ) | 3:47 | 2022-09-23 |  |
+| [Rescue](https://open.spotify.com/track/4ANZqWyzB9fIW2XtthkVQV) | [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il) | [Rescue](https://open.spotify.com/album/49sgj5TsAza6TkXow8DQWa) | 3:41 | 2023-07-25 |  |
 | [Rise](https://open.spotify.com/track/4zwNcBy4PfmeE1x6AMi4gF) | [Sam Rivera](https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x) | [Rise](https://open.spotify.com/album/4KQQU41Z2YuBvDqZZJ8NHr) | 2:56 | 2022-02-17 | 2022-08-27 |
 | [Rollin'](https://open.spotify.com/track/3TjzAhRpmo4wH7Msh4rMcC) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [My Tribe](https://open.spotify.com/album/6BiS5wWmp1iWnRsxkq4BzD) | 3:18 | 2023-01-13 |  |
 | [Roses](https://open.spotify.com/track/0PxGlcbHynkl6kd7zceA4T) | [Matthew Parker](https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54), [Sajan Nauriyal](https://open.spotify.com/artist/2gJudBgAFdkmKegrBl0yT6) | [Roses](https://open.spotify.com/album/6lhTeH73cwlgrdtOS4PXLF) | 3:11 | 2022-02-17 | 2022-08-27 |

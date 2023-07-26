@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Bulgaria.",
-  "num_followers": 13481,
+  "num_followers": 13483,
   "original_name": "Top 50 - Bulgaria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzQzNTY1MDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzQzNjUwODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-07-24 09:27:38",
+      "added_at": "2023-07-25 09:36:13",
       "album": {
         "name": "\u0415\u043b\u0430, \u0425\u0430\u0431\u0438\u0431\u0438",
         "url": "https://open.spotify.com/album/4yarZg2w7Qn15Nc1lDecVD"
@@ -29,7 +29,27 @@
       "url": "https://open.spotify.com/track/0mOFdyp76eRHMi09yTolXS"
     },
     {
-      "added_at": "2023-07-24 09:27:38",
+      "added_at": "2023-07-25 09:36:13",
+      "album": {
+        "name": "\u041d\u044f\u043c\u0430\u0448 \u043c\u0435\u043d\u0435",
+        "url": "https://open.spotify.com/album/3YDsTkqKN1V7ujLFGChKqZ"
+      },
+      "artists": [
+        {
+          "name": "Anelia",
+          "url": "https://open.spotify.com/artist/5tUV7pEJAFzJXWbJBtTkjt"
+        },
+        {
+          "name": "Konstantin",
+          "url": "https://open.spotify.com/artist/09dmaVobfJspAF2KEumlH8"
+        }
+      ],
+      "duration_ms": 234041,
+      "name": "\u041d\u044f\u043c\u0430\u0448 \u043c\u0435\u043d\u0435",
+      "url": "https://open.spotify.com/track/37vQo8j33koOfhL5qK0YId"
+    },
+    {
+      "added_at": "2023-07-25 09:36:13",
       "album": {
         "name": "Popular (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
@@ -53,63 +73,7 @@
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
     },
     {
-      "added_at": "2023-07-24 09:27:38",
-      "album": {
-        "name": "Seven (feat. Latto)",
-        "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
-      },
-      "artists": [
-        {
-          "name": "Jung Kook",
-          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 184400,
-      "name": "Seven (feat. Latto) (Explicit Ver.)",
-      "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
-    },
-    {
-      "added_at": "2023-07-24 09:27:38",
-      "album": {
-        "name": "\u0414\u0440\u0430\u0441\u043a\u0430\u0439 \u043a\u043b\u0435\u0447\u043a\u0430\u0442\u0430",
-        "url": "https://open.spotify.com/album/2qq6QeRqXDYov7JUxXkEt7"
-      },
-      "artists": [
-        {
-          "name": "Tsvetelina Yaneva",
-          "url": "https://open.spotify.com/artist/4AZihrM3P96d5mA9kvsxxH"
-        }
-      ],
-      "duration_ms": 218400,
-      "name": "\u0414\u0440\u0430\u0441\u043a\u0430\u0439 \u043a\u043b\u0435\u0447\u043a\u0430\u0442\u0430",
-      "url": "https://open.spotify.com/track/5zGNZb89Vq33vOvyqjgYvF"
-    },
-    {
-      "added_at": "2023-07-24 09:27:38",
-      "album": {
-        "name": "\u041d\u044f\u043c\u0430\u0448 \u043c\u0435\u043d\u0435",
-        "url": "https://open.spotify.com/album/3YDsTkqKN1V7ujLFGChKqZ"
-      },
-      "artists": [
-        {
-          "name": "Anelia",
-          "url": "https://open.spotify.com/artist/5tUV7pEJAFzJXWbJBtTkjt"
-        },
-        {
-          "name": "Konstantin",
-          "url": "https://open.spotify.com/artist/09dmaVobfJspAF2KEumlH8"
-        }
-      ],
-      "duration_ms": 234041,
-      "name": "\u041d\u044f\u043c\u0430\u0448 \u043c\u0435\u043d\u0435",
-      "url": "https://open.spotify.com/track/37vQo8j33koOfhL5qK0YId"
-    },
-    {
-      "added_at": "2023-07-24 09:27:38",
+      "added_at": "2023-07-25 09:36:13",
       "album": {
         "name": "3/3",
         "url": "https://open.spotify.com/album/0iPAgdeorXevx4eVGu3rpt"
@@ -133,7 +97,43 @@
       "url": "https://open.spotify.com/track/3H1jUz6uPDIIUmfBvS0YhQ"
     },
     {
-      "added_at": "2023-07-24 09:27:38",
+      "added_at": "2023-07-25 09:36:13",
+      "album": {
+        "name": "Seven (feat. Latto)",
+        "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
+      },
+      "artists": [
+        {
+          "name": "Jung Kook",
+          "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 184400,
+      "name": "Seven (feat. Latto) (Explicit Ver.)",
+      "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
+    },
+    {
+      "added_at": "2023-07-25 09:36:13",
+      "album": {
+        "name": "\u0414\u0440\u0430\u0441\u043a\u0430\u0439 \u043a\u043b\u0435\u0447\u043a\u0430\u0442\u0430",
+        "url": "https://open.spotify.com/album/2qq6QeRqXDYov7JUxXkEt7"
+      },
+      "artists": [
+        {
+          "name": "Tsvetelina Yaneva",
+          "url": "https://open.spotify.com/artist/4AZihrM3P96d5mA9kvsxxH"
+        }
+      ],
+      "duration_ms": 218400,
+      "name": "\u0414\u0440\u0430\u0441\u043a\u0430\u0439 \u043a\u043b\u0435\u0447\u043a\u0430\u0442\u0430",
+      "url": "https://open.spotify.com/track/5zGNZb89Vq33vOvyqjgYvF"
+    },
+    {
+      "added_at": "2023-07-25 09:36:13",
       "album": {
         "name": "Sprinter",
         "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
@@ -153,7 +153,39 @@
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
     },
     {
-      "added_at": "2023-07-24 09:27:38",
+      "added_at": "2023-07-25 09:36:13",
+      "album": {
+        "name": "a Gift & a Curse",
+        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 125040,
+      "name": "fukumean",
+      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
+    },
+    {
+      "added_at": "2023-07-25 09:36:13",
+      "album": {
+        "name": "7 Dni",
+        "url": "https://open.spotify.com/album/6FjH4zDKyAEV8dZgzcFXOK"
+      },
+      "artists": [
+        {
+          "name": "Molec",
+          "url": "https://open.spotify.com/artist/7H9Le3C3Z6DHOLxZrA3lVr"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "7 Dni",
+      "url": "https://open.spotify.com/track/1BnF35gLqCRWiTzSWgC9hK"
+    },
+    {
+      "added_at": "2023-07-25 09:36:13",
       "album": {
         "name": "Gucci Forema",
         "url": "https://open.spotify.com/album/6UkkP8qztSAwlnQLEgk8wY"
@@ -177,23 +209,7 @@
       "url": "https://open.spotify.com/track/4ZXqF3KNXMeaeS6VukUKFD"
     },
     {
-      "added_at": "2023-07-24 09:27:38",
-      "album": {
-        "name": "a Gift & a Curse",
-        "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 125040,
-      "name": "fukumean",
-      "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
-    },
-    {
-      "added_at": "2023-07-24 09:27:38",
+      "added_at": "2023-07-25 09:36:13",
       "album": {
         "name": "AZ I TI",
         "url": "https://open.spotify.com/album/1sGVD9m3Z9kTgDAZjt5W4H"
@@ -213,47 +229,7 @@
       "url": "https://open.spotify.com/track/0itd5lrE0cjqqIho0TYTKN"
     },
     {
-      "added_at": "2023-07-24 09:27:38",
-      "album": {
-        "name": "7 Dni",
-        "url": "https://open.spotify.com/album/6FjH4zDKyAEV8dZgzcFXOK"
-      },
-      "artists": [
-        {
-          "name": "Molec",
-          "url": "https://open.spotify.com/artist/7H9Le3C3Z6DHOLxZrA3lVr"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "7 Dni",
-      "url": "https://open.spotify.com/track/1BnF35gLqCRWiTzSWgC9hK"
-    },
-    {
-      "added_at": "2023-07-24 09:27:38",
-      "album": {
-        "name": "K-POP",
-        "url": "https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 185220,
-      "name": "K-POP",
-      "url": "https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C"
-    },
-    {
-      "added_at": "2023-07-24 09:27:38",
+      "added_at": "2023-07-25 09:36:13",
       "album": {
         "name": "\u0416\u0438\u0432\u0435\u0439, \u043c\u0438\u043b\u043e \u043c\u043e\u0435",
         "url": "https://open.spotify.com/album/793qXnOneVVHQrbebbRpfc"
@@ -269,7 +245,23 @@
       "url": "https://open.spotify.com/track/2LMdXVxVRKM5Ls7IVBjqb9"
     },
     {
-      "added_at": "2023-07-24 09:27:38",
+      "added_at": "2023-07-25 09:36:13",
+      "album": {
+        "name": "MAZNA",
+        "url": "https://open.spotify.com/album/3cugOGZrC7vLybuDCJ3L0B"
+      },
+      "artists": [
+        {
+          "name": "Dimoff",
+          "url": "https://open.spotify.com/artist/0lWhRqKSRYsM6QpHaFuZXP"
+        }
+      ],
+      "duration_ms": 121297,
+      "name": "MAZNA",
+      "url": "https://open.spotify.com/track/6fDWIHsi9yw805Op5G6dtD"
+    },
+    {
+      "added_at": "2023-07-25 09:36:13",
       "album": {
         "name": "Spomeni / Anamniseis",
         "url": "https://open.spotify.com/album/1gBBu1rUFOXrVNEuOmXnZc"
@@ -289,23 +281,47 @@
       "url": "https://open.spotify.com/track/4ihsE0B7tB0rIKdBRig7qq"
     },
     {
-      "added_at": "2023-07-24 09:27:38",
+      "added_at": "2023-07-25 09:36:13",
       "album": {
-        "name": "\u0413\u043e\u0440\u0447\u0438\u0432\u043e",
-        "url": "https://open.spotify.com/album/0FjTFwmO3GBJT7ASdZsist"
+        "name": "K-POP (Chopped & Screwed)",
+        "url": "https://open.spotify.com/album/0jiAYLsE1PumLJncO7vUIl"
       },
       "artists": [
         {
-          "name": "Galena",
-          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 202271,
-      "name": "\u0413\u043e\u0440\u0447\u0438\u0432\u043e",
-      "url": "https://open.spotify.com/track/5oH8yCgjc0GoB9HTHB3wA0"
+      "duration_ms": 185220,
+      "name": "K-POP",
+      "url": "https://open.spotify.com/track/1RlcvK95g0XfRpDvFbGLUO"
     },
     {
-      "added_at": "2023-07-24 09:27:38",
+      "added_at": "2023-07-25 09:36:13",
+      "album": {
+        "name": "FREESTYLE 1",
+        "url": "https://open.spotify.com/album/0NTHsDHK0ocVXHpOUSlyhN"
+      },
+      "artists": [
+        {
+          "name": "Dimoff",
+          "url": "https://open.spotify.com/artist/0lWhRqKSRYsM6QpHaFuZXP"
+        }
+      ],
+      "duration_ms": 121315,
+      "name": "FREESTYLE 1",
+      "url": "https://open.spotify.com/track/6g12ki5xI3oUmz8yznhCxt"
+    },
+    {
+      "added_at": "2023-07-25 09:36:13",
       "album": {
         "name": "Abracadabra",
         "url": "https://open.spotify.com/album/2aqCdoM9yEWZkXkikyMdH5"
@@ -325,7 +341,7 @@
       "url": "https://open.spotify.com/track/4dEkUVNnb3flPRtdknJ1yw"
     },
     {
-      "added_at": "2023-07-24 09:27:38",
+      "added_at": "2023-07-25 09:36:13",
       "album": {
         "name": "Gonka",
         "url": "https://open.spotify.com/album/5PhF3fH2LwQ8ht03WIrsfR"
@@ -345,107 +361,7 @@
       "url": "https://open.spotify.com/track/1HhDpamkdO5DK65VjAmxBf"
     },
     {
-      "added_at": "2023-07-24 09:27:38",
-      "album": {
-        "name": "MAZNA",
-        "url": "https://open.spotify.com/album/3cugOGZrC7vLybuDCJ3L0B"
-      },
-      "artists": [
-        {
-          "name": "Dimoff",
-          "url": "https://open.spotify.com/artist/0lWhRqKSRYsM6QpHaFuZXP"
-        }
-      ],
-      "duration_ms": 121297,
-      "name": "MAZNA",
-      "url": "https://open.spotify.com/track/6fDWIHsi9yw805Op5G6dtD"
-    },
-    {
-      "added_at": "2023-07-24 09:27:38",
-      "album": {
-        "name": "Alcohol",
-        "url": "https://open.spotify.com/album/57UKx4LXqW0P7PmT9OHXw8"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0j6Z5YMSqBePHbPKLQwrcU"
-        },
-        {
-          "name": "Galin",
-          "url": "https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai"
-        }
-      ],
-      "duration_ms": 191666,
-      "name": "Alcohol",
-      "url": "https://open.spotify.com/track/1Oxshg4204lRdcogzvdP4x"
-    },
-    {
-      "added_at": "2023-07-24 09:27:38",
-      "album": {
-        "name": "FREESTYLE 1",
-        "url": "https://open.spotify.com/album/0NTHsDHK0ocVXHpOUSlyhN"
-      },
-      "artists": [
-        {
-          "name": "Dimoff",
-          "url": "https://open.spotify.com/artist/0lWhRqKSRYsM6QpHaFuZXP"
-        }
-      ],
-      "duration_ms": 121315,
-      "name": "FREESTYLE 1",
-      "url": "https://open.spotify.com/track/6g12ki5xI3oUmz8yznhCxt"
-    },
-    {
-      "added_at": "2023-07-24 09:27:38",
-      "album": {
-        "name": "\u041c\u0430\u043b\u043a\u0430\u0442\u0430 \u0431\u0435\u043b\u044f",
-        "url": "https://open.spotify.com/album/30tRJ14dRISdoMJeedfayf"
-      },
-      "artists": [
-        {
-          "name": "Djordan",
-          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
-        }
-      ],
-      "duration_ms": 188571,
-      "name": "\u041c\u0430\u043b\u043a\u0430\u0442\u0430 \u0431\u0435\u043b\u044f",
-      "url": "https://open.spotify.com/track/2Fs3HuNZQ2QK0Qcfr19L8Y"
-    },
-    {
-      "added_at": "2023-07-24 09:27:38",
-      "album": {
-        "name": "Se Perno Gia Na Sou Po",
-        "url": "https://open.spotify.com/album/3eyN8gT097UThbE4RdiYOp"
-      },
-      "artists": [
-        {
-          "name": "Triantafillos",
-          "url": "https://open.spotify.com/artist/21DdJEcvxk3t2u53LWUQ0H"
-        }
-      ],
-      "duration_ms": 234935,
-      "name": "Se Perno Gia Na Sou Po",
-      "url": "https://open.spotify.com/track/6wDkQnxxbRwGsWMElQkrdB"
-    },
-    {
-      "added_at": "2023-07-24 09:27:38",
-      "album": {
-        "name": "\u0422\u0430\u0439\u043d\u0438 \u0437\u043d\u0430\u043c",
-        "url": "https://open.spotify.com/album/3RlYzrwkWDm7upLJS80j5U"
-      },
-      "artists": [
-        {
-          "name": "ToTo H",
-          "url": "https://open.spotify.com/artist/3vIccdVCJt0pImyvORjoQP"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "\u0422\u0430\u0439\u043d\u0438 \u0437\u043d\u0430\u043c",
-      "url": "https://open.spotify.com/track/3MKjnQVRYKRDfNMOKFyviA"
-    },
-    {
-      "added_at": "2023-07-24 09:27:38",
+      "added_at": "2023-07-25 09:36:13",
       "album": {
         "name": "Barbie World (with Aqua) [From Barbie The Album]",
         "url": "https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs"
@@ -469,39 +385,75 @@
       "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
     },
     {
-      "added_at": "2023-07-24 09:27:38",
+      "added_at": "2023-07-25 09:36:13",
       "album": {
-        "name": "Balerina",
-        "url": "https://open.spotify.com/album/0yqpVQia1Pjt3j58RCPFCQ"
+        "name": "Alcohol",
+        "url": "https://open.spotify.com/album/57UKx4LXqW0P7PmT9OHXw8"
       },
       "artists": [
         {
-          "name": "Tea Tairovic",
-          "url": "https://open.spotify.com/artist/39QpkKA8DlIerdivENnMdU"
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0j6Z5YMSqBePHbPKLQwrcU"
+        },
+        {
+          "name": "Galin",
+          "url": "https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai"
         }
       ],
-      "duration_ms": 176115,
-      "name": "Izrael i Palestina",
-      "url": "https://open.spotify.com/track/5sTXwdL41dTDCTUoaJ1aV3"
+      "duration_ms": 191666,
+      "name": "Alcohol",
+      "url": "https://open.spotify.com/track/1Oxshg4204lRdcogzvdP4x"
     },
     {
-      "added_at": "2023-07-24 09:27:38",
+      "added_at": "2023-07-25 09:36:13",
       "album": {
-        "name": "\u0426\u044f\u043b\u043e\u0442\u043e \u0432\u0440\u0435\u043c\u0435",
-        "url": "https://open.spotify.com/album/6s7oGfomxLI0SevxWrfFrv"
+        "name": "\u0413\u043e\u0440\u0447\u0438\u0432\u043e",
+        "url": "https://open.spotify.com/album/0FjTFwmO3GBJT7ASdZsist"
       },
       "artists": [
         {
-          "name": "Molec",
-          "url": "https://open.spotify.com/artist/7H9Le3C3Z6DHOLxZrA3lVr"
+          "name": "Galena",
+          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
         }
       ],
-      "duration_ms": 224301,
-      "name": "\u0426\u044f\u043b\u043e\u0442\u043e \u0432\u0440\u0435\u043c\u0435",
-      "url": "https://open.spotify.com/track/5wzAdu3hiINC5egjffwlpA"
+      "duration_ms": 202271,
+      "name": "\u0413\u043e\u0440\u0447\u0438\u0432\u043e",
+      "url": "https://open.spotify.com/track/5oH8yCgjc0GoB9HTHB3wA0"
     },
     {
-      "added_at": "2023-07-24 09:27:38",
+      "added_at": "2023-07-25 09:36:13",
+      "album": {
+        "name": "\u0422\u0430\u0439\u043d\u0438 \u0437\u043d\u0430\u043c",
+        "url": "https://open.spotify.com/album/3RlYzrwkWDm7upLJS80j5U"
+      },
+      "artists": [
+        {
+          "name": "ToTo H",
+          "url": "https://open.spotify.com/artist/3vIccdVCJt0pImyvORjoQP"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "\u0422\u0430\u0439\u043d\u0438 \u0437\u043d\u0430\u043c",
+      "url": "https://open.spotify.com/track/3MKjnQVRYKRDfNMOKFyviA"
+    },
+    {
+      "added_at": "2023-07-25 09:36:13",
+      "album": {
+        "name": "\u041c\u0430\u043b\u043a\u0430\u0442\u0430 \u0431\u0435\u043b\u044f",
+        "url": "https://open.spotify.com/album/30tRJ14dRISdoMJeedfayf"
+      },
+      "artists": [
+        {
+          "name": "Djordan",
+          "url": "https://open.spotify.com/artist/4vczAVLBVJzhMndKRCsQls"
+        }
+      ],
+      "duration_ms": 188571,
+      "name": "\u041c\u0430\u043b\u043a\u0430\u0442\u0430 \u0431\u0435\u043b\u044f",
+      "url": "https://open.spotify.com/track/2Fs3HuNZQ2QK0Qcfr19L8Y"
+    },
+    {
+      "added_at": "2023-07-25 09:36:13",
       "album": {
         "name": "Dance The Night (From Barbie The Album)",
         "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
@@ -517,63 +469,7 @@
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
     },
     {
-      "added_at": "2023-07-24 09:27:38",
-      "album": {
-        "name": "(It Goes Like) Nanana [Edit]",
-        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 231545,
-      "name": "(It Goes Like) Nanana - Edit",
-      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
-    },
-    {
-      "added_at": "2023-07-24 09:27:38",
-      "album": {
-        "name": "\u0414\u0436\u0435\u043d\u0442\u044a\u043b\u043c\u0435\u043d",
-        "url": "https://open.spotify.com/album/2u9hkU7grdSjkLPClwZ3He"
-      },
-      "artists": [
-        {
-          "name": "Medi",
-          "url": "https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq"
-        }
-      ],
-      "duration_ms": 185217,
-      "name": "\u0414\u0436\u0435\u043d\u0442\u044a\u043b\u043c\u0435\u043d",
-      "url": "https://open.spotify.com/track/3VjtC9G89HrlWKwd1TuWwk"
-    },
-    {
-      "added_at": "2023-07-24 09:27:38",
-      "album": {
-        "name": "HEROES & VILLAINS",
-        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Don Toliver",
-          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
-        }
-      ],
-      "duration_ms": 199920,
-      "name": "Too Many Nights (feat. Don Toliver & with Future)",
-      "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g"
-    },
-    {
-      "added_at": "2023-07-24 09:27:38",
+      "added_at": "2023-07-25 09:36:13",
       "album": {
         "name": "Capo Di Tutti Capi",
         "url": "https://open.spotify.com/album/26ujBmNf6INzTKFMrAgcJ7"
@@ -589,131 +485,39 @@
       "url": "https://open.spotify.com/track/1nTivkmTADTOu1UJwghpXv"
     },
     {
-      "added_at": "2023-07-24 09:27:38",
+      "added_at": "2023-07-25 09:36:13",
       "album": {
-        "name": "BUTAM",
-        "url": "https://open.spotify.com/album/5yvnGI21iNAJ9Kmqs43Bz9"
+        "name": "Se Perno Gia Na Sou Po",
+        "url": "https://open.spotify.com/album/3eyN8gT097UThbE4RdiYOp"
       },
       "artists": [
         {
-          "name": "V:RGO",
-          "url": "https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW"
-        },
-        {
-          "name": "FYRE",
-          "url": "https://open.spotify.com/artist/5Qp3JNCRbT2jq54o50tq4F"
+          "name": "Triantafillos",
+          "url": "https://open.spotify.com/artist/21DdJEcvxk3t2u53LWUQ0H"
         }
       ],
-      "duration_ms": 189648,
-      "name": "BUTAM",
-      "url": "https://open.spotify.com/track/1E8Wj96aHN4JSaD4B6kxoc"
+      "duration_ms": 234935,
+      "name": "Se Perno Gia Na Sou Po",
+      "url": "https://open.spotify.com/track/6wDkQnxxbRwGsWMElQkrdB"
     },
     {
-      "added_at": "2023-07-24 09:27:38",
+      "added_at": "2023-07-25 09:36:13",
       "album": {
-        "name": "\u0411\u044f\u043b \u041b\u0438\u0441\u0442",
-        "url": "https://open.spotify.com/album/2LJ3B5ptAdTes0vLACGMxt"
+        "name": "(It Goes Like) Nanana [Edit]",
+        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
       },
       "artists": [
         {
-          "name": "Molec",
-          "url": "https://open.spotify.com/artist/7H9Le3C3Z6DHOLxZrA3lVr"
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
         }
       ],
-      "duration_ms": 259118,
-      "name": "\u0411\u044f\u043b \u041b\u0438\u0441\u0442",
-      "url": "https://open.spotify.com/track/1c4BIOZLkdxnpApJ9kpqpG"
+      "duration_ms": 231545,
+      "name": "(It Goes Like) Nanana - Edit",
+      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
     },
     {
-      "added_at": "2023-07-24 09:27:38",
-      "album": {
-        "name": "HEROES & VILLAINS",
-        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
-      },
-      "artists": [
-        {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 221520,
-      "name": "Creepin' (with The Weeknd & 21 Savage)",
-      "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
-    },
-    {
-      "added_at": "2023-07-24 09:27:38",
-      "album": {
-        "name": "\u0415\u0440\u0433\u0435\u043d\u044a\u0442",
-        "url": "https://open.spotify.com/album/6B5fRlZmYySSwijGswmJ1g"
-      },
-      "artists": [
-        {
-          "name": "Emrah",
-          "url": "https://open.spotify.com/artist/4aL5skAlrmagFwCx6OXKPr"
-        },
-        {
-          "name": "Galena",
-          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
-        },
-        {
-          "name": "\u0427\u0430\u0440",
-          "url": "https://open.spotify.com/artist/31wm402BlJEVmT6IXtcgfJ"
-        }
-      ],
-      "duration_ms": 272481,
-      "name": "\u0415\u0440\u0433\u0435\u043d\u044a\u0442",
-      "url": "https://open.spotify.com/track/03bI9QgaNNzCmtwSnhOKsY"
-    },
-    {
-      "added_at": "2023-07-24 09:27:38",
-      "album": {
-        "name": "\u041d\u0435\u043f\u043e\u0441\u043b\u0443\u0448\u0435\u043d",
-        "url": "https://open.spotify.com/album/2508B3fZ3ydH58AolXMxp5"
-      },
-      "artists": [
-        {
-          "name": "Krisko",
-          "url": "https://open.spotify.com/artist/4oopAFtLdKXCoq2XoEjDZD"
-        },
-        {
-          "name": "Konstantin",
-          "url": "https://open.spotify.com/artist/09dmaVobfJspAF2KEumlH8"
-        }
-      ],
-      "duration_ms": 188082,
-      "name": "\u041d\u0435\u043f\u043e\u0441\u043b\u0443\u0448\u0435\u043d",
-      "url": "https://open.spotify.com/track/601FfTcj3tkX4tSBG9UK8S"
-    },
-    {
-      "added_at": "2023-07-24 09:27:38",
-      "album": {
-        "name": "MASHALLAH",
-        "url": "https://open.spotify.com/album/0XmArgYWXHdICFDvrIHZXa"
-      },
-      "artists": [
-        {
-          "name": "V:RGO",
-          "url": "https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW"
-        },
-        {
-          "name": "NICKA",
-          "url": "https://open.spotify.com/artist/1u9mRq2oxHHIveQ41vjZkX"
-        }
-      ],
-      "duration_ms": 204269,
-      "name": "MASHALLAH",
-      "url": "https://open.spotify.com/track/73mz2oaeBXFURTfp10Cyun"
-    },
-    {
-      "added_at": "2023-07-24 09:27:38",
+      "added_at": "2023-07-25 09:36:13",
       "album": {
         "name": "The Idol Episode 4 (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
@@ -737,63 +541,159 @@
       "url": "https://open.spotify.com/track/010ZkIVv6Ay5vqqHVCCiKB"
     },
     {
-      "added_at": "2023-07-24 09:27:38",
+      "added_at": "2023-07-25 09:36:13",
       "album": {
-        "name": "117",
-        "url": "https://open.spotify.com/album/3PQnZ0sHy2XaXxeR0ujMUr"
+        "name": "\u0426\u044f\u043b\u043e\u0442\u043e \u0432\u0440\u0435\u043c\u0435",
+        "url": "https://open.spotify.com/album/6s7oGfomxLI0SevxWrfFrv"
       },
       "artists": [
         {
-          "name": "Papi Hans",
-          "url": "https://open.spotify.com/artist/27szsMQxZzAUJrm5BmhaNY"
+          "name": "Molec",
+          "url": "https://open.spotify.com/artist/7H9Le3C3Z6DHOLxZrA3lVr"
         }
       ],
-      "duration_ms": 210319,
-      "name": "117",
-      "url": "https://open.spotify.com/track/4dlvu78hiWiAdaFHZSDsF3"
+      "duration_ms": 224301,
+      "name": "\u0426\u044f\u043b\u043e\u0442\u043e \u0432\u0440\u0435\u043c\u0435",
+      "url": "https://open.spotify.com/track/5wzAdu3hiINC5egjffwlpA"
     },
     {
-      "added_at": "2023-07-24 09:27:38",
+      "added_at": "2023-07-25 09:36:13",
       "album": {
-        "name": "Seven",
-        "url": "https://open.spotify.com/album/1e3AsihMn2vg7ivyWt1Hgt"
+        "name": "Balerina",
+        "url": "https://open.spotify.com/album/0yqpVQia1Pjt3j58RCPFCQ"
       },
       "artists": [
         {
-          "name": "Marso",
-          "url": "https://open.spotify.com/artist/1UUQq3z2RCIqSE1eiP00Jv"
-        },
-        {
-          "name": "MBT",
-          "url": "https://open.spotify.com/artist/3yFsv1OXPdnKzt9dqdkrgQ"
+          "name": "Tea Tairovic",
+          "url": "https://open.spotify.com/artist/39QpkKA8DlIerdivENnMdU"
         }
       ],
-      "duration_ms": 137142,
-      "name": "Kradena",
-      "url": "https://open.spotify.com/track/2RgC1nTzRNAf9MiOhoLHxk"
+      "duration_ms": 176115,
+      "name": "Izrael i Palestina",
+      "url": "https://open.spotify.com/track/5sTXwdL41dTDCTUoaJ1aV3"
     },
     {
-      "added_at": "2023-07-24 09:27:38",
+      "added_at": "2023-07-25 09:36:13",
       "album": {
-        "name": "\u0424\u0438\u043b\u043c \u0437\u0430 \u043d\u0430\u0441",
-        "url": "https://open.spotify.com/album/4appOGvrMiOg4RjZOYkcCV"
+        "name": "BUTAM",
+        "url": "https://open.spotify.com/album/5yvnGI21iNAJ9Kmqs43Bz9"
       },
       "artists": [
         {
-          "name": "Tsvetelina Yaneva",
-          "url": "https://open.spotify.com/artist/4AZihrM3P96d5mA9kvsxxH"
+          "name": "V:RGO",
+          "url": "https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW"
         },
+        {
+          "name": "FYRE",
+          "url": "https://open.spotify.com/artist/5Qp3JNCRbT2jq54o50tq4F"
+        }
+      ],
+      "duration_ms": 189648,
+      "name": "BUTAM",
+      "url": "https://open.spotify.com/track/1E8Wj96aHN4JSaD4B6kxoc"
+    },
+    {
+      "added_at": "2023-07-25 09:36:13",
+      "album": {
+        "name": "\u0411\u044f\u043b \u041b\u0438\u0441\u0442",
+        "url": "https://open.spotify.com/album/2LJ3B5ptAdTes0vLACGMxt"
+      },
+      "artists": [
+        {
+          "name": "Molec",
+          "url": "https://open.spotify.com/artist/7H9Le3C3Z6DHOLxZrA3lVr"
+        }
+      ],
+      "duration_ms": 259118,
+      "name": "\u0411\u044f\u043b \u041b\u0438\u0441\u0442",
+      "url": "https://open.spotify.com/track/1c4BIOZLkdxnpApJ9kpqpG"
+    },
+    {
+      "added_at": "2023-07-25 09:36:13",
+      "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "duration_ms": 199920,
+      "name": "Too Many Nights (feat. Don Toliver & with Future)",
+      "url": "https://open.spotify.com/track/2Hh3ETdQKrmSI3QS0hme7g"
+    },
+    {
+      "added_at": "2023-07-25 09:36:13",
+      "album": {
+        "name": "\u0414\u0436\u0435\u043d\u0442\u044a\u043b\u043c\u0435\u043d",
+        "url": "https://open.spotify.com/album/2u9hkU7grdSjkLPClwZ3He"
+      },
+      "artists": [
         {
           "name": "Medi",
           "url": "https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq"
         }
       ],
-      "duration_ms": 181304,
-      "name": "\u0424\u0438\u043b\u043c \u0437\u0430 \u043d\u0430\u0441",
-      "url": "https://open.spotify.com/track/772ARvmnEjryug7ce0lRAF"
+      "duration_ms": 185217,
+      "name": "\u0414\u0436\u0435\u043d\u0442\u044a\u043b\u043c\u0435\u043d",
+      "url": "https://open.spotify.com/track/3VjtC9G89HrlWKwd1TuWwk"
     },
     {
-      "added_at": "2023-07-24 09:27:38",
+      "added_at": "2023-07-25 09:36:13",
+      "album": {
+        "name": "HEROES & VILLAINS",
+        "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 221520,
+      "name": "Creepin' (with The Weeknd & 21 Savage)",
+      "url": "https://open.spotify.com/track/2dHHgzDwk4BJdRwy9uXhTO"
+    },
+    {
+      "added_at": "2023-07-25 09:36:13",
+      "album": {
+        "name": "Gucci \u043c\u0438 \u043f\u0440\u0438\u043b\u044f\u0433\u0430",
+        "url": "https://open.spotify.com/album/3ENM5mPMlAwTcGB0T3VC8k"
+      },
+      "artists": [
+        {
+          "name": "Galin",
+          "url": "https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai"
+        },
+        {
+          "name": "Adam",
+          "url": "https://open.spotify.com/artist/696J4fiOALx5ifVKv10VbK"
+        }
+      ],
+      "duration_ms": 200500,
+      "name": "Gucci \u043c\u0438 \u043f\u0440\u0438\u043b\u044f\u0433\u0430",
+      "url": "https://open.spotify.com/track/267o5sEjclBd08rFWLKMOC"
+    },
+    {
+      "added_at": "2023-07-25 09:36:13",
       "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
@@ -813,30 +713,30 @@
       "url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB"
     },
     {
-      "added_at": "2023-07-24 09:27:38",
+      "added_at": "2023-07-25 09:36:13",
       "album": {
-        "name": "\u041d\u0435 \u0441\u0438 \u043c\u0435 \u0434\u0430\u0432\u0430\u0439",
-        "url": "https://open.spotify.com/album/3ylmJjcYM6utvUqGpYVZjw"
+        "name": "\u041d\u0435\u043f\u043e\u0441\u043b\u0443\u0448\u0435\u043d",
+        "url": "https://open.spotify.com/album/2508B3fZ3ydH58AolXMxp5"
       },
       "artists": [
         {
-          "name": "Sabi",
-          "url": "https://open.spotify.com/artist/1goOMQQ0WvAs1SUlaVpI8r"
+          "name": "Krisko",
+          "url": "https://open.spotify.com/artist/4oopAFtLdKXCoq2XoEjDZD"
         },
         {
-          "name": "Galena",
-          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
+          "name": "Konstantin",
+          "url": "https://open.spotify.com/artist/09dmaVobfJspAF2KEumlH8"
         }
       ],
-      "duration_ms": 233333,
-      "name": "\u041d\u0435 \u0441\u0438 \u043c\u0435 \u0434\u0430\u0432\u0430\u0439",
-      "url": "https://open.spotify.com/track/3e0vQbNB9cw7b6ke7L8ZeN"
+      "duration_ms": 188082,
+      "name": "\u041d\u0435\u043f\u043e\u0441\u043b\u0443\u0448\u0435\u043d",
+      "url": "https://open.spotify.com/track/601FfTcj3tkX4tSBG9UK8S"
     },
     {
-      "added_at": "2023-07-24 09:27:38",
+      "added_at": "2023-07-25 09:36:13",
       "album": {
-        "name": "LOTUS",
-        "url": "https://open.spotify.com/album/4UzpGInDoYUvfYA5UT3m1I"
+        "name": "MASHALLAH",
+        "url": "https://open.spotify.com/album/0XmArgYWXHdICFDvrIHZXa"
       },
       "artists": [
         {
@@ -844,72 +744,36 @@
           "url": "https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW"
         },
         {
-          "name": "Emil TRF",
-          "url": "https://open.spotify.com/artist/3zM12oJgWeFu7k2kl9I3UB"
+          "name": "NICKA",
+          "url": "https://open.spotify.com/artist/1u9mRq2oxHHIveQ41vjZkX"
+        }
+      ],
+      "duration_ms": 204269,
+      "name": "MASHALLAH",
+      "url": "https://open.spotify.com/track/73mz2oaeBXFURTfp10Cyun"
+    },
+    {
+      "added_at": "2023-07-25 09:36:13",
+      "album": {
+        "name": "Seven",
+        "url": "https://open.spotify.com/album/1e3AsihMn2vg7ivyWt1Hgt"
+      },
+      "artists": [
+        {
+          "name": "Marso",
+          "url": "https://open.spotify.com/artist/1UUQq3z2RCIqSE1eiP00Jv"
         },
         {
-          "name": "FYRE",
-          "url": "https://open.spotify.com/artist/5Qp3JNCRbT2jq54o50tq4F"
-        },
-        {
-          "name": "2bona",
-          "url": "https://open.spotify.com/artist/3gsp4PXZKqOqaOK166AdMh"
+          "name": "MBT",
+          "url": "https://open.spotify.com/artist/3yFsv1OXPdnKzt9dqdkrgQ"
         }
       ],
-      "duration_ms": 273753,
-      "name": "PARALIA",
-      "url": "https://open.spotify.com/track/5N4ry530dm8VSSxrWKqOgr"
+      "duration_ms": 137142,
+      "name": "Kradena",
+      "url": "https://open.spotify.com/track/2RgC1nTzRNAf9MiOhoLHxk"
     },
     {
-      "added_at": "2023-07-24 09:27:38",
-      "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 156391,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3"
-    },
-    {
-      "added_at": "2023-07-24 09:27:38",
-      "album": {
-        "name": "Endless Summer Vacation",
-        "url": "https://open.spotify.com/album/0HiZ8fNXwJOQcrf5iflrdz"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 200600,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/4DHcnVTT87F0zZhRPYmZ3B"
-    },
-    {
-      "added_at": "2023-07-24 09:27:38",
-      "album": {
-        "name": "Daylight",
-        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 212953,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
-    },
-    {
-      "added_at": "2023-07-24 09:27:38",
+      "added_at": "2023-07-25 09:36:13",
       "album": {
         "name": "\u041d\u0435 \u043c\u0435 \u0434\u0430\u0432\u0430\u0439, \u0442\u0430\u0442\u043a\u043e!",
         "url": "https://open.spotify.com/album/6ijbBCe2tXLLb4MpDO06Yo"
@@ -925,27 +789,87 @@
       "url": "https://open.spotify.com/track/4hq3RTXfB9Y6sVhZ7insII"
     },
     {
-      "added_at": "2023-07-24 09:27:38",
+      "added_at": "2023-07-25 09:36:13",
       "album": {
-        "name": "I'm Good (Blue)",
-        "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
+        "name": "117",
+        "url": "https://open.spotify.com/album/3PQnZ0sHy2XaXxeR0ujMUr"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+          "name": "Papi Hans",
+          "url": "https://open.spotify.com/artist/27szsMQxZzAUJrm5BmhaNY"
         }
       ],
-      "duration_ms": 175238,
-      "name": "I'm Good (Blue)",
-      "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
+      "duration_ms": 210319,
+      "name": "117",
+      "url": "https://open.spotify.com/track/4dlvu78hiWiAdaFHZSDsF3"
     },
     {
-      "added_at": "2023-07-24 09:27:38",
+      "added_at": "2023-07-25 09:36:13",
+      "album": {
+        "name": "\u0415\u0440\u0433\u0435\u043d\u044a\u0442",
+        "url": "https://open.spotify.com/album/6B5fRlZmYySSwijGswmJ1g"
+      },
+      "artists": [
+        {
+          "name": "Emrah",
+          "url": "https://open.spotify.com/artist/4aL5skAlrmagFwCx6OXKPr"
+        },
+        {
+          "name": "Galena",
+          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
+        },
+        {
+          "name": "\u0427\u0430\u0440",
+          "url": "https://open.spotify.com/artist/31wm402BlJEVmT6IXtcgfJ"
+        }
+      ],
+      "duration_ms": 272481,
+      "name": "\u0415\u0440\u0433\u0435\u043d\u044a\u0442",
+      "url": "https://open.spotify.com/track/03bI9QgaNNzCmtwSnhOKsY"
+    },
+    {
+      "added_at": "2023-07-25 09:36:13",
+      "album": {
+        "name": "\u0424\u0438\u043b\u043c \u0437\u0430 \u043d\u0430\u0441",
+        "url": "https://open.spotify.com/album/4appOGvrMiOg4RjZOYkcCV"
+      },
+      "artists": [
+        {
+          "name": "Tsvetelina Yaneva",
+          "url": "https://open.spotify.com/artist/4AZihrM3P96d5mA9kvsxxH"
+        },
+        {
+          "name": "Medi",
+          "url": "https://open.spotify.com/artist/6sEfX6ntbBxeWBLggUMyyq"
+        }
+      ],
+      "duration_ms": 181304,
+      "name": "\u0424\u0438\u043b\u043c \u0437\u0430 \u043d\u0430\u0441",
+      "url": "https://open.spotify.com/track/772ARvmnEjryug7ce0lRAF"
+    },
+    {
+      "added_at": "2023-07-25 09:36:13",
+      "album": {
+        "name": "Masquerade",
+        "url": "https://open.spotify.com/album/47oLHYHuwdGtZ70V7hVxQL"
+      },
+      "artists": [
+        {
+          "name": "MBT",
+          "url": "https://open.spotify.com/artist/7iCQglTnIkivy8E3yP7WMd"
+        },
+        {
+          "name": "BM",
+          "url": "https://open.spotify.com/artist/7dIMk9WD4Q6zenoCibMWyu"
+        }
+      ],
+      "duration_ms": 215771,
+      "name": "Nqma Kak",
+      "url": "https://open.spotify.com/track/5nuqX3R4iAhbXO1sGrBLqi"
+    },
+    {
+      "added_at": "2023-07-25 09:36:13",
       "album": {
         "name": "Tequila",
         "url": "https://open.spotify.com/album/3UZvne3wQUQ7X435i5CM2c"
@@ -975,6 +899,86 @@
       "duration_ms": 221680,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/1zEduJhFjspuggnzOEbuPY"
+    },
+    {
+      "added_at": "2023-07-25 09:36:13",
+      "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 156391,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3"
+    },
+    {
+      "added_at": "2023-07-25 09:36:13",
+      "album": {
+        "name": "\u041d\u0435 \u0441\u0438 \u043c\u0435 \u0434\u0430\u0432\u0430\u0439",
+        "url": "https://open.spotify.com/album/3ylmJjcYM6utvUqGpYVZjw"
+      },
+      "artists": [
+        {
+          "name": "Sabi",
+          "url": "https://open.spotify.com/artist/1goOMQQ0WvAs1SUlaVpI8r"
+        },
+        {
+          "name": "Galena",
+          "url": "https://open.spotify.com/artist/5M7RMcbgYy45XzC51HU355"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "\u041d\u0435 \u0441\u0438 \u043c\u0435 \u0434\u0430\u0432\u0430\u0439",
+      "url": "https://open.spotify.com/track/3e0vQbNB9cw7b6ke7L8ZeN"
+    },
+    {
+      "added_at": "2023-07-25 09:36:13",
+      "album": {
+        "name": "LOTUS",
+        "url": "https://open.spotify.com/album/4UzpGInDoYUvfYA5UT3m1I"
+      },
+      "artists": [
+        {
+          "name": "V:RGO",
+          "url": "https://open.spotify.com/artist/556XyBuO17TCo0Bviw5nCW"
+        },
+        {
+          "name": "Emil TRF",
+          "url": "https://open.spotify.com/artist/3zM12oJgWeFu7k2kl9I3UB"
+        },
+        {
+          "name": "FYRE",
+          "url": "https://open.spotify.com/artist/5Qp3JNCRbT2jq54o50tq4F"
+        },
+        {
+          "name": "2bona",
+          "url": "https://open.spotify.com/artist/3gsp4PXZKqOqaOK166AdMh"
+        }
+      ],
+      "duration_ms": 273753,
+      "name": "PARALIA",
+      "url": "https://open.spotify.com/track/5N4ry530dm8VSSxrWKqOgr"
+    },
+    {
+      "added_at": "2023-07-25 09:36:13",
+      "album": {
+        "name": "Daylight",
+        "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 212953,
+      "name": "Daylight",
+      "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     }
   ],
   "unique_name": "Top 50 - Bulgaria",

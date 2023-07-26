@@ -106,7 +106,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 117625,
       "name": "A Gentle Sunlight",
       "url": "https://open.spotify.com/track/2QV0SPhmLDd9jqshZRnLY5"
@@ -772,7 +772,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 113290,
       "name": "Alignment",
       "url": "https://open.spotify.com/track/3JRA65bOIayOI3nag2qqhI"
@@ -1352,7 +1352,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 117546,
       "name": "Ascend",
       "url": "https://open.spotify.com/track/77x7n1Qvcit2rxRrWIJFqg"
@@ -1388,7 +1388,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 115078,
       "name": "Ascent",
       "url": "https://open.spotify.com/track/4QKo1Fs1rxblTxdWl6fzEC"
@@ -2324,7 +2324,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 116752,
       "name": "Con Cupido",
       "url": "https://open.spotify.com/track/54eceUoCcFJUi1YV20rXfY"
@@ -2432,7 +2432,7 @@
       ],
       "date_added": "2022-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 115129,
       "name": "Contours",
       "url": "https://open.spotify.com/track/7a5R2EBE3U9cByR9EbD1zC"
@@ -2868,7 +2868,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 112125,
       "name": "Dorian",
       "url": "https://open.spotify.com/track/1DWg10tzVICdCpZoIdZ9qB"
@@ -4490,7 +4490,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 114725,
       "name": "Hands and Feet",
       "url": "https://open.spotify.com/track/3SwnQKMO2D0jOUKxaqIHLw"
@@ -4670,7 +4670,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 115312,
       "name": "Hellebore",
       "url": "https://open.spotify.com/track/7DW0XpB02S7NiWex6tl8tN"
@@ -4688,7 +4688,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 117560,
       "name": "Hem Of Mooncast",
       "url": "https://open.spotify.com/track/0Ni16R0l8Im162vt5NoMRV"
@@ -5740,7 +5740,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 114275,
       "name": "Kay's Recovery",
       "url": "https://open.spotify.com/track/6heseVBVY5E1zh6z4FyMDA"
@@ -6370,7 +6370,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 119554,
       "name": "Light Heart",
       "url": "https://open.spotify.com/track/1PVN8pKYgISfY2sA58ahFG"
@@ -6809,6 +6809,24 @@
     },
     {
       "album": {
+        "name": "Luminous",
+        "url": "https://open.spotify.com/album/1hWA2NOx6oYqSDAyiEIn3q"
+      },
+      "artists": [
+        {
+          "name": "Treman",
+          "url": "https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204250,
+      "name": "Luminous",
+      "url": "https://open.spotify.com/track/08vlEPtp1Pxz4IJWsZnMJR"
+    },
+    {
+      "album": {
         "name": "Lure / Elegiac",
         "url": "https://open.spotify.com/album/435QkFbt0x0yrEJs6j5jtC"
       },
@@ -6910,7 +6928,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 115892,
       "name": "Marigold",
       "url": "https://open.spotify.com/track/2lKWcuILwTVURJflD1vka8"
@@ -6928,7 +6946,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 113996,
       "name": "Marquesue",
       "url": "https://open.spotify.com/track/2CJyD8EayNejbgadmf6qxR"
@@ -7324,7 +7342,7 @@
       ],
       "date_added": "2023-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 112692,
       "name": "Morning Frost",
       "url": "https://open.spotify.com/track/62lauFlgnyCxmKnCrdXHBj"
@@ -7486,7 +7504,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 115374,
       "name": "M\u00e9lange",
       "url": "https://open.spotify.com/track/2knwTrCOAR61eCReFMJ03z"
@@ -7792,7 +7810,7 @@
       ],
       "date_added": "2022-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 119578,
       "name": "Nothingness Began Slowly",
       "url": "https://open.spotify.com/track/6QuO9a1qf3bfEJZL1TeCS2"
@@ -7918,7 +7936,7 @@
       ],
       "date_added": "2022-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 112812,
       "name": "On The Hills",
       "url": "https://open.spotify.com/track/3SrUZDjXnl6tQk7MDA3o32"
@@ -8242,7 +8260,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 112874,
       "name": "Patchouli",
       "url": "https://open.spotify.com/track/3QIfNvbHw3XP1y6uN9mEeU"
@@ -8944,7 +8962,7 @@
       ],
       "date_added": "2023-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 119541,
       "name": "Reconciliation",
       "url": "https://open.spotify.com/track/2LHIoiVLEAbMktLPry7cdd"
@@ -9617,6 +9635,24 @@
     },
     {
       "album": {
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/3uOzcnthiPwrYCrCyb4Txy"
+      },
+      "artists": [
+        {
+          "name": "Vivian Roost",
+          "url": "https://open.spotify.com/artist/7aCsFWCF4YljmoHrXRA63I"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214675,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/5N56pgOicPJjfMsYV5ppyK"
+    },
+    {
+      "album": {
         "name": "Saugerties",
         "url": "https://open.spotify.com/album/6PgqV1jHVZyboBAzgGaSoM"
       },
@@ -10140,7 +10176,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 117271,
       "name": "Solace",
       "url": "https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5"
@@ -11812,7 +11848,7 @@
       ],
       "date_added": "2022-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 116525,
       "name": "Transnistria",
       "url": "https://open.spotify.com/track/51yKQJ4uJXSB2usG9ycoyv"
@@ -12428,7 +12464,7 @@
       ],
       "date_added": "2023-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 111500,
       "name": "Vargs\u00e5ngen",
       "url": "https://open.spotify.com/track/5Lh0wf1GEOKJ7pYXM4qTs3"
@@ -12950,7 +12986,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 119605,
       "name": "Whispering Keys",
       "url": "https://open.spotify.com/track/4k8IkMaNrLu4MYdzCs0vF1"
@@ -13004,7 +13040,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 115861,
       "name": "Windborn",
       "url": "https://open.spotify.com/track/3AX6tUG6JdBBtjZVxnDIYB"
@@ -13130,7 +13166,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 115405,
       "name": "World For A Dance",
       "url": "https://open.spotify.com/track/7rIN1EjL0P78qaM46slfD7"
@@ -13364,7 +13400,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 114228,
       "name": "Your Own Kind",
       "url": "https://open.spotify.com/track/3V6ocwEhy5BD9rpzrLFXfn"

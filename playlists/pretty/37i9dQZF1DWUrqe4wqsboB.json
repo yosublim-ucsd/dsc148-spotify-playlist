@@ -1,12 +1,12 @@
 {
   "description": "Indie, pop, alternativo... y un poco m\u00e1s all\u00e1. Cover: Buscabulla",
-  "num_followers": 1994,
+  "num_followers": 2026,
   "original_name": "Indie Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjI1NDJlYWM3ZDY4MmIyMDAxZTMyMzA1ODc4OGI3OWFkNmU2OTQ5",
+  "snapshot_id": "MCwyOTQwMTg1ODE1NmY0MDQ5YzE4ODA2ZGM1YTlkMTUxMmExZjc4OWZk",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -307,22 +307,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/6C5Q7Ot0hYpCuIeV6v9jgB"
-      },
-      "artists": [
-        {
-          "name": "Chesca",
-          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
-        }
-      ],
-      "duration_ms": 170175,
-      "name": "Que Te Vaya Bien",
-      "url": "https://open.spotify.com/track/0B96PPohQ9YmlvHFkGEfob"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Ll\u00e9vame",
         "url": "https://open.spotify.com/album/4MUmKDn5xEfGpBo2ihzTJM"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 258523,
       "name": "Ll\u00e9vame",
       "url": "https://open.spotify.com/track/79yN85jSmZsQVkcovCOv3o"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/6C5Q7Ot0hYpCuIeV6v9jgB"
+      },
+      "artists": [
+        {
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+        }
+      ],
+      "duration_ms": 170175,
+      "name": "Que Te Vaya Bien",
+      "url": "https://open.spotify.com/track/0B96PPohQ9YmlvHFkGEfob"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -407,22 +407,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Lo Que No Te Dije",
-        "url": "https://open.spotify.com/album/0KrPRk1FK1ToydnMvBZ315"
-      },
-      "artists": [
-        {
-          "name": "GALE",
-          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
-        }
-      ],
-      "duration_ms": 176236,
-      "name": "La Mitad",
-      "url": "https://open.spotify.com/track/2NoqbmRul942IxBxlE0IDE"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Tommy Bahama",
         "url": "https://open.spotify.com/album/28rGVwaeWzeUOlwaew40FW"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 229963,
       "name": "Tommy Bahama",
       "url": "https://open.spotify.com/track/0rAzw6N1msr3fNzqmOLLU9"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Lo Que No Te Dije",
+        "url": "https://open.spotify.com/album/0KrPRk1FK1ToydnMvBZ315"
+      },
+      "artists": [
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+        }
+      ],
+      "duration_ms": 176236,
+      "name": "La Mitad",
+      "url": "https://open.spotify.com/track/2NoqbmRul942IxBxlE0IDE"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -579,6 +579,26 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Guarapo y Flor",
+        "url": "https://open.spotify.com/album/4gAOfHDqhgTYdwEsVBfObJ"
+      },
+      "artists": [
+        {
+          "name": "Seba Otero",
+          "url": "https://open.spotify.com/artist/4KcUp7k6HasVCPeB4uIA1i"
+        },
+        {
+          "name": "Bebo Dumont",
+          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
+        }
+      ],
+      "duration_ms": 179541,
+      "name": "Guarapo y Flor",
+      "url": "https://open.spotify.com/track/0kVjvfryus4UWTFKD42KzG"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Duo Deleite",
         "url": "https://open.spotify.com/album/5Dgw1ImjLlgCH2EmPSw1bY"
       },
@@ -603,26 +623,6 @@
       "duration_ms": 187500,
       "name": "Caf\u00e9",
       "url": "https://open.spotify.com/track/3v39Tno23I21Uot44jt1s8"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Guarapo y Flor",
-        "url": "https://open.spotify.com/album/4gAOfHDqhgTYdwEsVBfObJ"
-      },
-      "artists": [
-        {
-          "name": "Seba Otero",
-          "url": "https://open.spotify.com/artist/4KcUp7k6HasVCPeB4uIA1i"
-        },
-        {
-          "name": "Bebo Dumont",
-          "url": "https://open.spotify.com/artist/1K3l8XdgOtySWPTvBfhgYe"
-        }
-      ],
-      "duration_ms": 179541,
-      "name": "Guarapo y Flor",
-      "url": "https://open.spotify.com/track/0kVjvfryus4UWTFKD42KzG"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Lo Sencillo",
-        "url": "https://open.spotify.com/album/22DTgDpU40DVijro8GQhGT"
-      },
-      "artists": [
-        {
-          "name": "Polem",
-          "url": "https://open.spotify.com/artist/1omEowkpCo5RWWaWj6l6aw"
-        }
-      ],
-      "duration_ms": 210031,
-      "name": "Dulce Estar",
-      "url": "https://open.spotify.com/track/3EZciZlYPvhbF0IpPC6EoB"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Prisma Tropical",
         "url": "https://open.spotify.com/album/5rxHa78aHnkv9r0yzzo1fU"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 293873,
       "name": "La Nueva Ciudad",
       "url": "https://open.spotify.com/track/07A2ymyQdaN7P1sbmJ6miC"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Lo Sencillo",
+        "url": "https://open.spotify.com/album/22DTgDpU40DVijro8GQhGT"
+      },
+      "artists": [
+        {
+          "name": "Polem",
+          "url": "https://open.spotify.com/artist/1omEowkpCo5RWWaWj6l6aw"
+        }
+      ],
+      "duration_ms": 210031,
+      "name": "Dulce Estar",
+      "url": "https://open.spotify.com/track/3EZciZlYPvhbF0IpPC6EoB"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -791,6 +791,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Pir\u00e1mide",
+        "url": "https://open.spotify.com/album/4kSAzEEJE6MzVHKvGFYv18"
+      },
+      "artists": [
+        {
+          "name": "Epilogio",
+          "url": "https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Pir\u00e1mide",
+      "url": "https://open.spotify.com/track/5Cn79rGGFSePXgVIPS19Tb"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Miel y Mantequilla",
         "url": "https://open.spotify.com/album/59NP5vnw0wIR1CAJKeiU0b"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 198206,
       "name": "Dime Juan",
       "url": "https://open.spotify.com/track/7fgCxatCNdVd1zmQfzlJ0b"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Pir\u00e1mide",
-        "url": "https://open.spotify.com/album/4kSAzEEJE6MzVHKvGFYv18"
-      },
-      "artists": [
-        {
-          "name": "Epilogio",
-          "url": "https://open.spotify.com/artist/3VbATB9xUq0UsLkb9tXKaA"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Pir\u00e1mide",
-      "url": "https://open.spotify.com/track/5Cn79rGGFSePXgVIPS19Tb"
     },
     {
       "added_at": "2023-07-21 04:00:00",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,150 songs - 2 day 11 hr 58 min
+1,151 songs - 2 day 12 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -580,7 +580,8 @@
 | [Jungletur](https://open.spotify.com/track/6dAbZzVdRMGLXTqHOHcnHX) | [Mowgli](https://open.spotify.com/artist/1dMKCVDiKj96gvK3Agana5) | [Jungletur](https://open.spotify.com/album/5QsTGJrIGpovE81FxU2Xp7) | 2:19 | 2021-07-25 | 2021-08-01 |
 | [Junya](https://open.spotify.com/track/1aF9TeHZbe6OVo9dtjPuzK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:27 | 2021-08-31 | 2021-09-04 |
 | [K O L O](https://open.spotify.com/track/4DVOsxcYoOPd0Su0lzULed) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [K O L O](https://open.spotify.com/album/0NZqyszNT65qzP0Qac24DU) | 2:54 | 2022-03-12 | 2022-05-22 |
-| [K\-POP](https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [K\-POP](https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb) | 3:05 | 2023-07-22 |  |
+| [K\-POP](https://open.spotify.com/track/1RlcvK95g0XfRpDvFbGLUO) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [K\-POP \(Chopped & Screwed\)](https://open.spotify.com/album/0jiAYLsE1PumLJncO7vUIl) | 3:05 | 2023-07-25 |  |
+| [K\-POP](https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [K\-POP](https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb) | 3:05 | 2023-07-22 | 2023-07-26 |
 | [Kalde Dem for Du](https://open.spotify.com/track/11AizyYnfVVvK1i7f2QmSz) | [Malte Ebert](https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl) | [Kalde Dem for Du](https://open.spotify.com/album/1o1w8fXVBaUliNbod4KH1O) | 3:17 | 2022-09-14 | 2023-01-01 |
 | [Kalder På Dig \(feat\. Rasmus Seebach\)](https://open.spotify.com/track/4pFlr2xeJO1wgwiUw6pkaJ) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [B.O.C](https://open.spotify.com/artist/2X22Hm97hQA8mFjSrn2foA), [Rasmus Seebach](https://open.spotify.com/artist/0yqCOSZ1i0c49UUbE8AzbQ) | [Mere End Musik](https://open.spotify.com/album/1nwiXLlvr8dLlh5XVOrwD9) | 2:50 | 2021-06-20 | 2021-08-31 |
 | [Kamæleon](https://open.spotify.com/track/51UOsHi1DotcI4708sED8s) | [Fyr Og Flamme](https://open.spotify.com/artist/7EuzcvdfScUqksgKfyN7J0) | [Kamæleon](https://open.spotify.com/album/4qZEDO5vWaoFkyOdz8lYo0) | 3:07 | 2021-03-27\* | 2021-04-11 |

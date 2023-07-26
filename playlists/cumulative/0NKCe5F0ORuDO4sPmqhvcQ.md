@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-475 songs - 1 day 2 hr 42 min
+476 songs - 1 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -427,6 +427,7 @@
 | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/track/4XeIiGpUBshIfs9yrBDVZC) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Bettye LaVette](https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3) | [The Last Goodbye \(feat\. Bettye LaVette\)](https://open.spotify.com/album/4vpnU0Hu4c0KNq2p4nz4U2) | 5:59 | 2022-02-10 | 2022-03-10 |
 | [The One](https://open.spotify.com/track/1DOBYtW1ttXbZaI7ekcbYF) | [meesh](https://open.spotify.com/artist/6qEfyIMkz6rkRRhmuBTFWI) | [The One](https://open.spotify.com/album/2hOOvHnYeIOkS3QMzbIknb) | 4:00 | 2021-10-14 |  |
 | [The Sea that Swallowed Me Whole](https://open.spotify.com/track/3JDvRAfXZ6aTc4vPehFBQg) | [Kuoga.](https://open.spotify.com/artist/6zVuQdorqzJrQy6jPACUr7) | [Until It Isn't](https://open.spotify.com/album/0PUh79wOZHNlFddJytsl9z) | 3:11 | 2022-02-15 | 2022-03-10 |
+| [The Vortex](https://open.spotify.com/track/2XhfNg6trek448vkXR1zaW) | [Gromo](https://open.spotify.com/artist/0fZTPSPLC75QesDYUfSPdx) | [The Vortex](https://open.spotify.com/album/0ji8HEJxJ9KnkhvquiP30g) | 3:12 | 2023-07-25 |  |
 | [The World \- camoufly Remix](https://open.spotify.com/track/3yZfA14Zgp2UZyb5BysEa7) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB), [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [The World \(camoufly Remix\)](https://open.spotify.com/album/4suezxo3IOqKI8f94rTsWl) | 2:15 | 2022-04-13 |  |
 | [There's Another Life 4 U](https://open.spotify.com/track/4LiZi2fbEIxcC9tZUtu0WW) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [There's Another Life 4 U / So Long](https://open.spotify.com/album/5VwbMyHjQ1hPcIHnEEvTKa) | 3:33 | 2023-03-31 |  |
 | [Think About It](https://open.spotify.com/track/1yAThAiJFPoKepwK6jiCHd) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Think About It](https://open.spotify.com/album/5mL2ZU969ZAdz9MmyihsvV) | 2:54 | 2022-03-09 | 2022-03-31 |

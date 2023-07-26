@@ -4,13 +4,14 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,159 songs - 2 day 5 hr 36 min
+1,160 songs - 2 day 5 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#HABIBATI](https://open.spotify.com/track/6HMk2bFT4VkIWwIAmDCqHj) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2), [HOFMANNITA](https://open.spotify.com/artist/6J48nc1Q9SmB4gEl9c4IgC) | [\#HABIBATI](https://open.spotify.com/album/251HxTPJ9TixCopti7Zn2g) | 2:33 | 2022-10-09 | 2022-11-20 |
 | [\#МОСКАЛЬ\_НЕКРАСІВИЙ](https://open.spotify.com/track/3sYyBDC4zPM3UZsgUfPhbb) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr), [Verka Serduchka](https://open.spotify.com/artist/7uH6CJjqK71HlHW4WHNAJg) | [\#МОСКАЛЬ\_НЕКРАСІВИЙ](https://open.spotify.com/album/5HuWOKv1OjsRmhIU4L5A70) | 2:00 | 2022-05-14 | 2022-08-27 |
 | [\#ПОШТА](https://open.spotify.com/track/1n7AVWNbLx5OUhItzDTj4A) | [Jerry Heil](https://open.spotify.com/artist/71DkA619tW0bpaMi4QBzmr) | [\#ПОШТА](https://open.spotify.com/album/08nLZLI6PUimVUPq9FQr0g) | 2:48 | 2022-04-05 | 2022-06-21 |
+| [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-07-25 |  |
 | [\(Po\)ciąg dalszy nastąpi](https://open.spotify.com/track/3UMqSWigx4NrVPIkpPDP2U) | [Gibbs](https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ) | [Czarno na białym](https://open.spotify.com/album/4uxD1b9je0iDbdY1BMamMZ) | 4:25 | 2022-04-13 | 2022-04-23 |
 | [\(Не\)идеальна](https://open.spotify.com/track/4td0GwMmapEdpV2g5C2l9K) | [Egor Kreed](https://open.spotify.com/artist/2KoLmBXwsgMkfAvoPBlPmb) | [\(Не\)идеальна](https://open.spotify.com/album/4vm9d1inYJkGY81jfbJEkh) | 2:38 | 2021-04-26 | 2021-05-03 |
 | [+44](https://open.spotify.com/track/1ngGGsWzGONyiOlxdXRDr7) | [lil krystalll](https://open.spotify.com/artist/2cYbwKKlCOv5VaoU9DZwGA) | [+44](https://open.spotify.com/album/5RKI4eixkCmtxfSwhB9RkY) | 2:28 | 2021-03-27\* | 2021-04-04 |
@@ -1033,7 +1034,7 @@
 | [Сонячна \(feat\. Сальто Назад, Skofka\)](https://open.spotify.com/track/6elbXjrCvueg010YEQJx8X) | [KALUSH](https://open.spotify.com/artist/46rVVJwHWNS7C7MaWXd842), [Сальто Назад](https://open.spotify.com/artist/51y4QBUQpFncG7cY6HMsIW), [Skofka](https://open.spotify.com/artist/0Aj4ZvDgwd9DSs7E2nrox0) | [Сонячна \(feat\. Сальто Назад, Skofka\)](https://open.spotify.com/album/21C44WE8R5bt1pkWJuZbNJ) | 3:13 | 2022-05-16 | 2022-05-29 |
 | [Социум](https://open.spotify.com/track/1hj897uhUQWnIvucLp4BRt) | [БРЕДИШЬ](https://open.spotify.com/artist/0P9E2MHee0cXNpIeAvFAt1) | [Хочешь кричать?](https://open.spotify.com/album/4BJISczzj7yRyKR9txfmGC) | 1:23 | 2022-09-10 | 2022-09-15 |
 | [Социум](https://open.spotify.com/track/6KQz9Xgc82clHGWzGUA5xw) | [БРЕДИШЬ](https://open.spotify.com/artist/0P9E2MHee0cXNpIeAvFAt1) | [Хочешь кричать?](https://open.spotify.com/album/3xvupSTQaLuGSZXU9Vkmwg) | 1:23 | 2022-09-14 | 2022-10-02 |
-| [Спалахи](https://open.spotify.com/track/6sVoLpo3i7p2WCaU3bpvpF) | [POSITIFF](https://open.spotify.com/artist/3f7zhsCueKsjZbwOkoTsME) | [Спалахи](https://open.spotify.com/album/4DgFv3Bs9zX3QhK7iaKD1d) | 2:11 | 2023-07-22 |  |
+| [Спалахи](https://open.spotify.com/track/6sVoLpo3i7p2WCaU3bpvpF) | [POSITIFF](https://open.spotify.com/artist/3f7zhsCueKsjZbwOkoTsME) | [Спалахи](https://open.spotify.com/album/4DgFv3Bs9zX3QhK7iaKD1d) | 2:11 | 2023-07-22 | 2023-07-26 |
 | [Спали \- Бонус\-трек](https://open.spotify.com/track/78EmEP95w4Nae7LQcS2TQZ) | [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW), [SODA LUV](https://open.spotify.com/artist/3TikHXhctY4FUIMlkl0tzR) | [FREERIO 2](https://open.spotify.com/album/4Bxc3xz4eRLzZBfluYRfiP) | 2:26 | 2022-04-30 | 2022-05-02 |
 | [СПАСАТЕЛЬНЫЙ КРУГ](https://open.spotify.com/track/08pVm2BCyMSevBLXYLysqi) | [FACE](https://open.spotify.com/artist/2z20q6EEfm6w6PiIKsgtb3) | [SLIME](https://open.spotify.com/album/0eyy6mYeDddAxpPFOzVtuJ) | 2:33 | 2022-03-31 | 2022-04-13 |
 | [Спиннинг](https://open.spotify.com/track/0rZohB4MKaywoxsqsS1FVP) | [LSP](https://open.spotify.com/artist/4h8pGxEIOi7j4me1yhYxlD) | [Спиннинг](https://open.spotify.com/album/5cYgP7VPL9NC5MGPAgOCdg) | 3:01 | 2021-08-29 | 2021-08-30 |

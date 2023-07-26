@@ -1,12 +1,12 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 141842,
+  "num_followers": 141992,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDk4MzI3NDk5NDFlZmJiMWE4NTg3MGViODc4MWEyNjc5MTU3MGNh",
+  "snapshot_id": "MCwwMWY5NWJiMjk4Y2E5MmIyZGU2ZTIzYjQ2NWZiZDU4YjFhYzE1MTg5",
   "tracks": [
     {
       "added_at": "2023-04-09 08:31:46",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "Sin Ti No Vivo (En Vivo)",
-        "url": "https://open.spotify.com/album/0tVI6eSPZ2WMOcG4nqmPHy"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Del Bosque",
-          "url": "https://open.spotify.com/artist/2827XOUsEosrxxYdNhyC5h"
-        }
-      ],
-      "duration_ms": 299773,
-      "name": "Me Entrego a Ti (En Vivo)",
-      "url": "https://open.spotify.com/track/08p6rede6WyjmjbPzzuDsw"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
         "name": "Ven Y Llena Esta Casa",
         "url": "https://open.spotify.com/album/5M3Y7vUdrfZgtIbzUhepuN"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 300040,
       "name": "Por Las Llagas",
       "url": "https://open.spotify.com/track/127BY9LPFhtLMu3pkmXcrh"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
+        "name": "Sin Ti No Vivo (En Vivo)",
+        "url": "https://open.spotify.com/album/0tVI6eSPZ2WMOcG4nqmPHy"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Del Bosque",
+          "url": "https://open.spotify.com/artist/2827XOUsEosrxxYdNhyC5h"
+        }
+      ],
+      "duration_ms": 299773,
+      "name": "Me Entrego a Ti (En Vivo)",
+      "url": "https://open.spotify.com/track/08p6rede6WyjmjbPzzuDsw"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
+        "name": "Colecci\u00f3n Ac\u00fastica I",
+        "url": "https://open.spotify.com/album/02jkCYZGrqvDsMFPnsY2JS"
+      },
+      "artists": [
+        {
+          "name": "Majo Sol\u00eds",
+          "url": "https://open.spotify.com/artist/1gofTzaOSte0KzDoubTJhS"
+        }
+      ],
+      "duration_ms": 282345,
+      "name": "Fija Tus Ojos En Cristo",
+      "url": "https://open.spotify.com/track/0h8xH56h5XD7BeHPWYqDC4"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
         "name": "Tu Amor",
         "url": "https://open.spotify.com/album/7up0mQ3oTyRGHGwa9YXVES"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 468529,
       "name": "Tu Amor",
       "url": "https://open.spotify.com/track/4A323YPkioQfDqhKmPhtaI"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
-        "name": "Colecci\u00f3n Ac\u00fastica I",
-        "url": "https://open.spotify.com/album/02jkCYZGrqvDsMFPnsY2JS"
-      },
-      "artists": [
-        {
-          "name": "Majo Sol\u00eds",
-          "url": "https://open.spotify.com/artist/1gofTzaOSte0KzDoubTJhS"
-        }
-      ],
-      "duration_ms": 282345,
-      "name": "Fija Tus Ojos En Cristo",
-      "url": "https://open.spotify.com/track/0h8xH56h5XD7BeHPWYqDC4"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -1635,18 +1635,22 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "Mi Coraz\u00f3n Te Anhela",
-        "url": "https://open.spotify.com/album/1IoMVo2hPhfuDWKvcCxBfE"
+        "name": "Yo Navegar\u00e9",
+        "url": "https://open.spotify.com/album/7vq363NGh8YcUITw1OSmdH"
       },
       "artists": [
         {
-          "name": "Andrea Bernal",
-          "url": "https://open.spotify.com/artist/51JOqmQTWX5eqqOlSYBIs6"
+          "name": "Jotta A",
+          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
+        },
+        {
+          "name": "Marcos Yaroide",
+          "url": "https://open.spotify.com/artist/6vg0y8f0OEXhKvk4EiKHtJ"
         }
       ],
-      "duration_ms": 295692,
-      "name": "Mi Coraz\u00f3n Te Anhela",
-      "url": "https://open.spotify.com/track/2v6tJGan59otCNvwSWD19y"
+      "duration_ms": 385066,
+      "name": "Mateo 17",
+      "url": "https://open.spotify.com/track/6phOeAec12tnILyQPwNmej"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -1667,22 +1671,18 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "Yo Navegar\u00e9",
-        "url": "https://open.spotify.com/album/7vq363NGh8YcUITw1OSmdH"
+        "name": "Mi Coraz\u00f3n Te Anhela",
+        "url": "https://open.spotify.com/album/1IoMVo2hPhfuDWKvcCxBfE"
       },
       "artists": [
         {
-          "name": "Jotta A",
-          "url": "https://open.spotify.com/artist/1q0fWAYirCJgGf8ysLla6y"
-        },
-        {
-          "name": "Marcos Yaroide",
-          "url": "https://open.spotify.com/artist/6vg0y8f0OEXhKvk4EiKHtJ"
+          "name": "Andrea Bernal",
+          "url": "https://open.spotify.com/artist/51JOqmQTWX5eqqOlSYBIs6"
         }
       ],
-      "duration_ms": 385066,
-      "name": "Mateo 17",
-      "url": "https://open.spotify.com/track/6phOeAec12tnILyQPwNmej"
+      "duration_ms": 295692,
+      "name": "Mi Coraz\u00f3n Te Anhela",
+      "url": "https://open.spotify.com/track/2v6tJGan59otCNvwSWD19y"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "Como en Casa (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/73FehpfDRan2EMqqnlyW5V"
-      },
-      "artists": [
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        }
-      ],
-      "duration_ms": 363772,
-      "name": "Vives T\u00fa Vivo Yo - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3aQ72h2vInTXJvE72Z6V0E"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
         "name": "Nada Guardaste",
         "url": "https://open.spotify.com/album/2ijSFbYgcekIrCJLcpsHrd"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 219320,
       "name": "Nada Guardaste",
       "url": "https://open.spotify.com/track/5tI6ogwTmRC4M9xR9PF8QS"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
+        "name": "Como en Casa (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/73FehpfDRan2EMqqnlyW5V"
+      },
+      "artists": [
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "duration_ms": 363772,
+      "name": "Vives T\u00fa Vivo Yo - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3aQ72h2vInTXJvE72Z6V0E"
     },
     {
       "added_at": "2023-04-09 08:31:46",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 
 > The best new dance & electronic by independent artists and labels\. Cover: ilykimchi\. Artwork by Rewina Beshue\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,105 likes - 100 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,172 likes - 100 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6bBjHfdRnza.md) - [plain]
 | 99 | [Old School](https://open.spotify.com/track/2Li8oPaDeGowwaKK3lXoYf) | [Ghetto Birds](https://open.spotify.com/artist/1Obs7jiOM1afyArwQkOC1U), [Seb Todd](https://open.spotify.com/artist/0xEjjjF3bMMnMDmOropIrv) | [Old School](https://open.spotify.com/album/0K8ZNj9YbH2BGFtQD4uUW7) | 2:34 |
 | 100 | [What's The Matter](https://open.spotify.com/track/4Aq2GPLOOeeDkm6FVrGshQ) | [Fabrication](https://open.spotify.com/artist/73MDrv3SUYLE1yNOBQMlsy) | [What's The Matter](https://open.spotify.com/album/6Ni3kVfOSSAJY6IVaCqIkG) | 7:33 |
 
-Snapshot ID: `MCxlMzg5MmJhNDk3ZDI0NjQ2MTMzNmI3M2ZkYmU2MTA5NTI4MjY5MTJj`
+Snapshot ID: `MCxjOGIxYjI1ZGJlMTU5MzMwZDczNWRkNzFiOGI0ODI2MzVhM2EyYTcz`

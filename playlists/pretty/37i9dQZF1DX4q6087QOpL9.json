@@ -1,12 +1,12 @@
 {
   "description": "That real soulful house sound. Cover: Kerri Chandler",
-  "num_followers": 75334,
+  "num_followers": 75374,
   "original_name": "Soulful House Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOGE1MjFkMjUxNmFhMjY4YTUwMDllYmQwNjQxYTM0NjQwZDAzZDY3",
+  "snapshot_id": "MCw3ZmFjNWU4NmUxMjViZDc2YjllNWZlNzNhZGMwNGY4OTdjNTc4NGMw",
   "tracks": [
     {
       "added_at": "2023-03-07 17:49:21",
@@ -859,6 +859,26 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
+        "name": "Dance",
+        "url": "https://open.spotify.com/album/6ojblANvXgceb7VeUn2QSS"
+      },
+      "artists": [
+        {
+          "name": "3 Winans Brothers",
+          "url": "https://open.spotify.com/artist/7xbASS1kd4OAMYms7T3uo3"
+        },
+        {
+          "name": "The Clark Sisters",
+          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
+        }
+      ],
+      "duration_ms": 569724,
+      "name": "Dance - Louie Vega Dance Ritual Mix",
+      "url": "https://open.spotify.com/track/5MPpG8Z31ys5BanX8ug7El"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
         "name": "Alex Attias Presents Lillygood Party Vol. 2",
         "url": "https://open.spotify.com/album/2oeRB95IyG2Pr2KpB83HbP"
       },
@@ -879,26 +899,6 @@
       "duration_ms": 538744,
       "name": "How Bad I Want Ya - Gu Peak True Time Mix",
       "url": "https://open.spotify.com/track/1ahoN2VQWi84I48TrV7r0X"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
-        "name": "Dance",
-        "url": "https://open.spotify.com/album/6ojblANvXgceb7VeUn2QSS"
-      },
-      "artists": [
-        {
-          "name": "3 Winans Brothers",
-          "url": "https://open.spotify.com/artist/7xbASS1kd4OAMYms7T3uo3"
-        },
-        {
-          "name": "The Clark Sisters",
-          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
-        }
-      ],
-      "duration_ms": 569724,
-      "name": "Dance - Louie Vega Dance Ritual Mix",
-      "url": "https://open.spotify.com/track/5MPpG8Z31ys5BanX8ug7El"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Collection 1999-2011",
-        "url": "https://open.spotify.com/album/36kZ9hTS3K8Fm29zgoelSD"
-      },
-      "artists": [
-        {
-          "name": "Karizma",
-          "url": "https://open.spotify.com/artist/0HPOumWRIYOhcJ8FRraEsb"
-        }
-      ],
-      "duration_ms": 515039,
-      "name": "The Power",
-      "url": "https://open.spotify.com/track/0fmdJ1YLOeeYb30RzXhObS"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
         "name": "He Is The Joy",
         "url": "https://open.spotify.com/album/1QuipireXfiZkcHNOV3Up6"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 546000,
       "name": "He Is The Joy - U.B.P. Classic Mix",
       "url": "https://open.spotify.com/track/0MdJIw6VpOIiV2vd5nEfgr"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
+        "name": "Collection 1999-2011",
+        "url": "https://open.spotify.com/album/36kZ9hTS3K8Fm29zgoelSD"
+      },
+      "artists": [
+        {
+          "name": "Karizma",
+          "url": "https://open.spotify.com/artist/0HPOumWRIYOhcJ8FRraEsb"
+        }
+      ],
+      "duration_ms": 515039,
+      "name": "The Power",
+      "url": "https://open.spotify.com/track/0fmdJ1YLOeeYb30RzXhObS"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -1331,22 +1331,18 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Best of the Last",
-        "url": "https://open.spotify.com/album/0F97K61LRqeWkHJoCoq1ib"
+        "name": "Bad Habit",
+        "url": "https://open.spotify.com/album/2zMznSDvdN7F0J32yNZeBL"
       },
       "artists": [
         {
-          "name": "Studio Apartment",
-          "url": "https://open.spotify.com/artist/4qiZmlChOmtDYF2YVDkDrg"
-        },
-        {
-          "name": "Monique Bingham",
-          "url": "https://open.spotify.com/artist/2DpGG0b6Rt9q69o8Rk1DCa"
+          "name": "ATFC",
+          "url": "https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs"
         }
       ],
-      "duration_ms": 452439,
-      "name": "Flight (feat. Monique Bingham) - Nulife Vocal Mix",
-      "url": "https://open.spotify.com/track/3pZPJCTjm5r53Na4V6weLs"
+      "duration_ms": 406813,
+      "name": "Bad Habit - feat. Lisa Millett",
+      "url": "https://open.spotify.com/track/2WlL39aheJp01hsbVtZPcZ"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -1367,18 +1363,22 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Bad Habit",
-        "url": "https://open.spotify.com/album/2zMznSDvdN7F0J32yNZeBL"
+        "name": "Best of the Last",
+        "url": "https://open.spotify.com/album/0F97K61LRqeWkHJoCoq1ib"
       },
       "artists": [
         {
-          "name": "ATFC",
-          "url": "https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs"
+          "name": "Studio Apartment",
+          "url": "https://open.spotify.com/artist/4qiZmlChOmtDYF2YVDkDrg"
+        },
+        {
+          "name": "Monique Bingham",
+          "url": "https://open.spotify.com/artist/2DpGG0b6Rt9q69o8Rk1DCa"
         }
       ],
-      "duration_ms": 406813,
-      "name": "Bad Habit - feat. Lisa Millett",
-      "url": "https://open.spotify.com/track/2WlL39aheJp01hsbVtZPcZ"
+      "duration_ms": 452439,
+      "name": "Flight (feat. Monique Bingham) - Nulife Vocal Mix",
+      "url": "https://open.spotify.com/track/3pZPJCTjm5r53Na4V6weLs"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
+        "name": "DJ-Kicks (DJ Tennis) [DJ Mix]",
+        "url": "https://open.spotify.com/album/2pzrqp12CEqxTDmzJY3QbV"
+      },
+      "artists": [
+        {
+          "name": "Kenny Dixon Jr.",
+          "url": "https://open.spotify.com/artist/17D4XhKTcpssfBwEITytUb"
+        }
+      ],
+      "duration_ms": 285617,
+      "name": "Soul Sounds - Mixed",
+      "url": "https://open.spotify.com/track/2PlH4gu2nA5yU1mLg904Py"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
         "name": "Joey Negro presents 30 Years of Z Records",
         "url": "https://open.spotify.com/album/2tiE4dyEl6oDQmGX2U6P7o"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 271680,
       "name": "Change for Me - Joey Negro Radio Edit",
       "url": "https://open.spotify.com/track/4CZDxv04XuF7yaDDXpAoD5"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
-        "name": "DJ-Kicks (DJ Tennis) [DJ Mix]",
-        "url": "https://open.spotify.com/album/2pzrqp12CEqxTDmzJY3QbV"
-      },
-      "artists": [
-        {
-          "name": "Kenny Dixon Jr.",
-          "url": "https://open.spotify.com/artist/17D4XhKTcpssfBwEITytUb"
-        }
-      ],
-      "duration_ms": 285617,
-      "name": "Soul Sounds - Mixed",
-      "url": "https://open.spotify.com/track/2PlH4gu2nA5yU1mLg904Py"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -1607,6 +1607,26 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
+        "name": "Think Twice (Remixes)",
+        "url": "https://open.spotify.com/album/61K70Q4gJ3wUzEMQDYV2aN"
+      },
+      "artists": [
+        {
+          "name": "The Detroit Experiment",
+          "url": "https://open.spotify.com/artist/54g168aY2BbLhQ0g6SpoTa"
+        },
+        {
+          "name": "Mark E",
+          "url": "https://open.spotify.com/artist/4fCHedqRf3deyVeK2beyBo"
+        }
+      ],
+      "duration_ms": 578013,
+      "name": "Think Twice - Mark E Remix",
+      "url": "https://open.spotify.com/track/5FqKVL72KUO2vKM6nxcQYd"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
         "name": "Turntables on the Hudson: Twenty Years of Good Vibes (20 Year Anniversary)",
         "url": "https://open.spotify.com/album/5sgsO9BDA1z8DTNa5kXIkv"
       },
@@ -1619,22 +1639,6 @@
       "duration_ms": 447026,
       "name": "Je Ka Jo - Demo Mix",
       "url": "https://open.spotify.com/track/1IlYrlylgU4hsdnMNlyWES"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
-        "name": "The Afro Club Night",
-        "url": "https://open.spotify.com/album/0BT0H5aadr5TFW8pl4yY4K"
-      },
-      "artists": [
-        {
-          "name": "Men From The Nile",
-          "url": "https://open.spotify.com/artist/40dtUsUbqQfyoQ6Ec5XpYO"
-        }
-      ],
-      "duration_ms": 335506,
-      "name": "Watch Them Come (Men from the Nile aka Roy Davis Jr.)",
-      "url": "https://open.spotify.com/track/6SNja7FTHw7sazeyKqdk28"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -1667,6 +1671,22 @@
       "duration_ms": 440854,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/4oc5WWzY3pKZ5R1H0nj8b9"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
+        "name": "The Afro Club Night",
+        "url": "https://open.spotify.com/album/0BT0H5aadr5TFW8pl4yY4K"
+      },
+      "artists": [
+        {
+          "name": "Men From The Nile",
+          "url": "https://open.spotify.com/artist/40dtUsUbqQfyoQ6Ec5XpYO"
+        }
+      ],
+      "duration_ms": 335506,
+      "name": "Watch Them Come (Men from the Nile aka Roy Davis Jr.)",
+      "url": "https://open.spotify.com/track/6SNja7FTHw7sazeyKqdk28"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -1719,26 +1739,6 @@
       "duration_ms": 383160,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/2AOZ9fi8iUZdvoPpjODjIX"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
-        "name": "Think Twice (Remixes)",
-        "url": "https://open.spotify.com/album/61K70Q4gJ3wUzEMQDYV2aN"
-      },
-      "artists": [
-        {
-          "name": "The Detroit Experiment",
-          "url": "https://open.spotify.com/artist/54g168aY2BbLhQ0g6SpoTa"
-        },
-        {
-          "name": "Mark E",
-          "url": "https://open.spotify.com/artist/4fCHedqRf3deyVeK2beyBo"
-        }
-      ],
-      "duration_ms": 578013,
-      "name": "Think Twice - Mark E Remix",
-      "url": "https://open.spotify.com/track/5FqKVL72KUO2vKM6nxcQYd"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -1835,26 +1835,6 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "When The Morning Comes",
-        "url": "https://open.spotify.com/album/5C44djamaXUXQI1U1NzdS2"
-      },
-      "artists": [
-        {
-          "name": "Alton Miller",
-          "url": "https://open.spotify.com/artist/0MGh53azHRLHTJ1flx9KGs"
-        },
-        {
-          "name": "Amp Fiddler",
-          "url": "https://open.spotify.com/artist/39g75EmRFeFbvHhsGjUpLU"
-        }
-      ],
-      "duration_ms": 475262,
-      "name": "When The Morning Comes - Main Vocal Mix",
-      "url": "https://open.spotify.com/track/0sZmHiIFlz2RfXzrZCGiIu"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
         "name": "La Vida (Atjazz Remix)",
         "url": "https://open.spotify.com/album/5Vj3FGalGRJajFhQxarU4F"
       },
@@ -1871,6 +1851,26 @@
       "duration_ms": 387100,
       "name": "La Vida (Atjazz Remix)",
       "url": "https://open.spotify.com/track/1BwUatAjiQe7DT5QqxILLZ"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
+        "name": "When The Morning Comes",
+        "url": "https://open.spotify.com/album/5C44djamaXUXQI1U1NzdS2"
+      },
+      "artists": [
+        {
+          "name": "Alton Miller",
+          "url": "https://open.spotify.com/artist/0MGh53azHRLHTJ1flx9KGs"
+        },
+        {
+          "name": "Amp Fiddler",
+          "url": "https://open.spotify.com/artist/39g75EmRFeFbvHhsGjUpLU"
+        }
+      ],
+      "duration_ms": 475262,
+      "name": "When The Morning Comes - Main Vocal Mix",
+      "url": "https://open.spotify.com/track/0sZmHiIFlz2RfXzrZCGiIu"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -2275,6 +2275,22 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
+        "name": "Black Resurrection",
+        "url": "https://open.spotify.com/album/7kNu3USRBHZOrkPSEUadFZ"
+      },
+      "artists": [
+        {
+          "name": "Glenn Underground",
+          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
+        }
+      ],
+      "duration_ms": 525130,
+      "name": "Spiritually Speaking",
+      "url": "https://open.spotify.com/track/789wnKvp59iToENtaczsab"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
         "name": "Good Morning EP",
         "url": "https://open.spotify.com/album/4OceKEsE23D5MJbgWCoL7r"
       },
@@ -2291,22 +2307,6 @@
       "duration_ms": 373664,
       "name": "Good Morning - Kaytronik Remix",
       "url": "https://open.spotify.com/track/5XFwHSECR0Iy4bhdT0hSvP"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
-        "name": "Black Resurrection",
-        "url": "https://open.spotify.com/album/7kNu3USRBHZOrkPSEUadFZ"
-      },
-      "artists": [
-        {
-          "name": "Glenn Underground",
-          "url": "https://open.spotify.com/artist/1ZdinLDX0e8r5dIlWLpmAc"
-        }
-      ],
-      "duration_ms": 525130,
-      "name": "Spiritually Speaking",
-      "url": "https://open.spotify.com/track/789wnKvp59iToENtaczsab"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -2479,22 +2479,18 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "Dem People Go",
-        "url": "https://open.spotify.com/album/6NX2kxi7JIu9Jdw8K5bPef"
+        "name": "You Give Good Love",
+        "url": "https://open.spotify.com/album/0iaa34P40gFme6zgMmxqQe"
       },
       "artists": [
         {
-          "name": "Dennis Ferrer",
-          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
-        },
-        {
-          "name": "Bola Belo",
-          "url": "https://open.spotify.com/artist/4IG29194bJO2uXvnmp0vjs"
+          "name": "Kathy Brown",
+          "url": "https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq"
         }
       ],
-      "duration_ms": 402088,
-      "name": "Dem People Go - Get Out! Mix",
-      "url": "https://open.spotify.com/track/51QIC18zwmCwzzubAmVFod"
+      "duration_ms": 397240,
+      "name": "You Give Good Love (Jay-J's Mouton Studios Dub)",
+      "url": "https://open.spotify.com/track/6SarIzRckv0TnNqoJbew5a"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -2519,18 +2515,22 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
-        "name": "You Give Good Love",
-        "url": "https://open.spotify.com/album/0iaa34P40gFme6zgMmxqQe"
+        "name": "Dem People Go",
+        "url": "https://open.spotify.com/album/6NX2kxi7JIu9Jdw8K5bPef"
       },
       "artists": [
         {
-          "name": "Kathy Brown",
-          "url": "https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq"
+          "name": "Dennis Ferrer",
+          "url": "https://open.spotify.com/artist/0MGTHZpAGf7isSfw8yMIoi"
+        },
+        {
+          "name": "Bola Belo",
+          "url": "https://open.spotify.com/artist/4IG29194bJO2uXvnmp0vjs"
         }
       ],
-      "duration_ms": 397240,
-      "name": "You Give Good Love (Jay-J's Mouton Studios Dub)",
-      "url": "https://open.spotify.com/track/6SarIzRckv0TnNqoJbew5a"
+      "duration_ms": 402088,
+      "name": "Dem People Go - Get Out! Mix",
+      "url": "https://open.spotify.com/track/51QIC18zwmCwzzubAmVFod"
     },
     {
       "added_at": "2023-03-07 17:49:21",
@@ -2727,6 +2727,26 @@
     {
       "added_at": "2023-03-07 17:49:21",
       "album": {
+        "name": "Let's Do It Again (Kenny Dope Remixes)",
+        "url": "https://open.spotify.com/album/2oJhbjPREc8OjdCWq1BLff"
+      },
+      "artists": [
+        {
+          "name": "The Brand New Heavies",
+          "url": "https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14"
+        },
+        {
+          "name": "Kenny Dope",
+          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
+        }
+      ],
+      "duration_ms": 381386,
+      "name": "Let's Do It Again - Kenny Dope O'gutta Remix",
+      "url": "https://open.spotify.com/track/458Ky1y8fOO2ahnH4xEYO6"
+    },
+    {
+      "added_at": "2023-03-07 17:49:21",
+      "album": {
         "name": "Glad I Found You",
         "url": "https://open.spotify.com/album/081ccWtCpuZsrPrxiFPA2k"
       },
@@ -2751,26 +2771,6 @@
       "duration_ms": 487773,
       "name": "Glad I Found You - Scott Wozniak Vocal Mix",
       "url": "https://open.spotify.com/track/6bo7IFO1394OXEJGcG284e"
-    },
-    {
-      "added_at": "2023-03-07 17:49:21",
-      "album": {
-        "name": "Let's Do It Again (Kenny Dope Remixes)",
-        "url": "https://open.spotify.com/album/2oJhbjPREc8OjdCWq1BLff"
-      },
-      "artists": [
-        {
-          "name": "The Brand New Heavies",
-          "url": "https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14"
-        },
-        {
-          "name": "Kenny Dope",
-          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
-        }
-      ],
-      "duration_ms": 381386,
-      "name": "Let's Do It Again - Kenny Dope O'gutta Remix",
-      "url": "https://open.spotify.com/track/458Ky1y8fOO2ahnH4xEYO6"
     },
     {
       "added_at": "2023-03-07 17:49:21",

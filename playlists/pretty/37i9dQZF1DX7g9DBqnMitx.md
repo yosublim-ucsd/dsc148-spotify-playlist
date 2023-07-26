@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7g9DBqnMitx.md) - [plain]
 
 > Le cinéma ça s'écoute aussi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,561 likes - 70 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,578 likes - 70 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7g9DBqnMitx.md) - [plain]
 | 36 | [Lose Yourself](https://open.spotify.com/track/6GkTKjv1XbFVdI2D8vvDPu) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [8 Mile \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/353HFOqGHySp027oyr3aGs) | 5:20 |
 | 37 | [Betty et Zorg](https://open.spotify.com/track/6vHmR3htXYkcXoKf6ktNfu) | [Gabriel Yared](https://open.spotify.com/artist/6quKdQHmx2x7FBJwLhmpmB) | [37°2 le matin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2pIZNnAgeWIrWGyZb3Etrt) | 2:30 |
 | 38 | [Summer Nights \- From “Grease”](https://open.spotify.com/track/2AVkArcfALVk2X8sfPRzya) | [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Grease \(The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq) | 3:36 |
-| 39 | [Love Theme From "The Godfather"](https://open.spotify.com/track/39zu6JGd6tvRNsqyK78RLk) | [Nino Rota](https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo), [Carlo Savina](https://open.spotify.com/artist/0JPH3a8DUy38JvZsdhmEnC) | [The Godfather](https://open.spotify.com/album/5CeLOKEJeP3EpEdT9v2lep) | 2:38 |
+| 39 | [Love Theme From "The Godfather" \- From "The Godfather" Soundtrack](https://open.spotify.com/track/0OJ0eNR9c53PkfXuwX3DJ0) | [Nino Rota](https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo), [Carlo Savina](https://open.spotify.com/artist/0JPH3a8DUy38JvZsdhmEnC) | [Love Theme From "The Godfather" / The Godfather Waltz \(Main Title\)](https://open.spotify.com/album/7hBpMvQgZzFVt8LQOsUJFY) | 2:38 |
 | 40 | [Diamonds Are Forever](https://open.spotify.com/track/3Tp3nTswQmMzmQRqZu4iM2) | [Shirley Bassey](https://open.spotify.com/artist/090VebphoycdEyH165iMqc) | [Let Me Sing and I'm Happy](https://open.spotify.com/album/7Ln5CiGZ9hMBVJVRhyoTL5) | 2:41 |
 | 41 | [The Sound of Silence \- Acoustic Version](https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Wednesday Morning, 3 A.M.](https://open.spotify.com/album/5pnJrocLlZ3FWEbcr2PTz0) | 3:05 |
 | 42 | [Hedwig's Theme](https://open.spotify.com/track/1n8NKQRg8LVHy7oUhUgbFF) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Harry Potter and The Sorcerer's Stone Original Motion Picture Soundtrack](https://open.spotify.com/album/6zeHM5CV0CjcS0K8ouWE4N) | 5:09 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7g9DBqnMitx.md) - [plain]
 | 69 | [Society](https://open.spotify.com/track/3bHhUEOTIbezeZ856R0BX5) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Into The Wild \(Music For The Motion Picture\)](https://open.spotify.com/album/13xlpKbai3GGoMSr75lOeX) | 3:56 |
 | 70 | [Reality](https://open.spotify.com/track/1gci2QBGH5nzPWePv6ATom) | [Vladimir Cosma](https://open.spotify.com/artist/30YHp6jELIUSYUGssR9JRY), [Richard Sanderson](https://open.spotify.com/artist/2VYfYBKv8RPlY3MhwI7mSR) | [La boum \(Bande originale du film de Claude Pinoteau\)](https://open.spotify.com/album/57piLRISNJFwpMwXfWC5kL) | 4:49 |
 
-Snapshot ID: `MCxkZGQ5ZDViNjViMjA2YzY1ZWI5ZTBkOGZlZmJmZDUyNmU2MGFlMTcy`
+Snapshot ID: `MCxhOGJjMzg2MGZhZjIxOTM1NzU1NzBhMWUwZGYxZGE3NGJhMzA4ZmNj`

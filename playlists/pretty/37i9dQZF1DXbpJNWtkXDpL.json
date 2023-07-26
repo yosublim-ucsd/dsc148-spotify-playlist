@@ -1,12 +1,12 @@
 {
   "description": "De Culiac\u00e1n, Sinaloa, para el mundo... La Receta en RADAR M\u00e9xico. ",
-  "num_followers": 71562,
+  "num_followers": 71609,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTQ2OTRiZmI1YTBlNDYzZWU3ZTE3ZGUzOTU5ZmMwOWVmNmRiZjVm",
+  "snapshot_id": "MCw3MjAyNGE4NDIwODkzOTI5Nzc4NzI5YTg5ZDY0NDM2MjJkZThjN2U4",
   "tracks": [
     {
       "added_at": "2023-07-03 06:00:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-07-03 06:00:00",
       "album": {
+        "name": "Aqu\u00ed No Hay Suerte",
+        "url": "https://open.spotify.com/album/3djvuc0wMeAmhCrvVSrw3g"
+      },
+      "artists": [
+        {
+          "name": "Jaziel Avilez",
+          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
+        }
+      ],
+      "duration_ms": 140146,
+      "name": "Aqu\u00ed No Hay Suerte",
+      "url": "https://open.spotify.com/track/42K8b2MTsQS7IWLXTvpz6R"
+    },
+    {
+      "added_at": "2023-07-03 06:00:00",
+      "album": {
         "name": "Hoy Toco La Luna",
         "url": "https://open.spotify.com/album/0T9bLYnoIJn0ffqbyhl83P"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 227320,
       "name": "Hoy Toco La Luna",
       "url": "https://open.spotify.com/track/1AIp8XDmpIbtCuCMnSZt1v"
-    },
-    {
-      "added_at": "2023-07-03 06:00:00",
-      "album": {
-        "name": "Aqu\u00ed No Hay Suerte",
-        "url": "https://open.spotify.com/album/3djvuc0wMeAmhCrvVSrw3g"
-      },
-      "artists": [
-        {
-          "name": "Jaziel Avilez",
-          "url": "https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ"
-        }
-      ],
-      "duration_ms": 140146,
-      "name": "Aqu\u00ed No Hay Suerte",
-      "url": "https://open.spotify.com/track/42K8b2MTsQS7IWLXTvpz6R"
     },
     {
       "added_at": "2023-07-03 06:00:00",

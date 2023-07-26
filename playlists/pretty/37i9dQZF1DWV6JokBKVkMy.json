@@ -1,12 +1,12 @@
 {
   "description": "The sound and soul that keeps Mauritius jamming",
-  "num_followers": 1083,
+  "num_followers": 1086,
   "original_name": "Sega Hitlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzFiZDY1Nzc1OTIyZWQ4ODlmMDE4ZDhjYTkyNzQ1ZmEwNmY4MmFl",
+  "snapshot_id": "MCwzZTEzNzg3NzNmNGRmNWRkMWVjNWFiMmU5MGVhZjgyYThhNGEyOTc0",
   "tracks": [
     {
       "added_at": "2022-08-11 10:05:16",
@@ -95,22 +95,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Alim\u00e9 dif\u00e9 (Ile Maurice)",
-        "url": "https://open.spotify.com/album/70LlYn7WYSI6QLSBUCAjFb"
-      },
-      "artists": [
-        {
-          "name": "Cari\u00f1o",
-          "url": "https://open.spotify.com/artist/0DZpMT7NzKkrCPjYBtT3K0"
-        }
-      ],
-      "duration_ms": 313000,
-      "name": "Alim\u00e9 dif\u00e9 - Version originale",
-      "url": "https://open.spotify.com/track/1eW6Go45BRf63uRPsZ3XeJ"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Tik tiker",
         "url": "https://open.spotify.com/album/6FPK9Rz9fKmNgOmtY7jQKW"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 246880,
       "name": "Tik tike",
       "url": "https://open.spotify.com/track/5cTWHkZlLsAGF2yZKqSz5g"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Alim\u00e9 dif\u00e9 (Ile Maurice)",
+        "url": "https://open.spotify.com/album/70LlYn7WYSI6QLSBUCAjFb"
+      },
+      "artists": [
+        {
+          "name": "Cari\u00f1o",
+          "url": "https://open.spotify.com/artist/0DZpMT7NzKkrCPjYBtT3K0"
+        }
+      ],
+      "duration_ms": 313000,
+      "name": "Alim\u00e9 dif\u00e9 - Version originale",
+      "url": "https://open.spotify.com/track/1eW6Go45BRf63uRPsZ3XeJ"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -295,6 +295,22 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
+        "name": "Sega Ar Pwa",
+        "url": "https://open.spotify.com/album/5m1fAvzB5et9ka6sjSlVSn"
+      },
+      "artists": [
+        {
+          "name": "Sky to Be",
+          "url": "https://open.spotify.com/artist/7uWVHfDA75struQziMT7Ch"
+        }
+      ],
+      "duration_ms": 209128,
+      "name": "Longanis",
+      "url": "https://open.spotify.com/track/5ychRz2LtFOqD5phpKVlEM"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
         "name": "Elle danse",
         "url": "https://open.spotify.com/album/6Vzxd84ITvDqoJSZGchxYV"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 216270,
       "name": "Zoli mamzel (Remix 2016) [feat. Kymai, DJ Cutson & DJ Cedrik]",
       "url": "https://open.spotify.com/track/16xNpqUqRcTEMIrpu1NNYH"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
-        "name": "Sega Ar Pwa",
-        "url": "https://open.spotify.com/album/5m1fAvzB5et9ka6sjSlVSn"
-      },
-      "artists": [
-        {
-          "name": "Sky to Be",
-          "url": "https://open.spotify.com/artist/7uWVHfDA75struQziMT7Ch"
-        }
-      ],
-      "duration_ms": 209128,
-      "name": "Longanis",
-      "url": "https://open.spotify.com/track/5ychRz2LtFOqD5phpKVlEM"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Sega Ar Pwa",
-        "url": "https://open.spotify.com/album/5m1fAvzB5et9ka6sjSlVSn"
-      },
-      "artists": [
-        {
-          "name": "Sky to Be",
-          "url": "https://open.spotify.com/artist/7uWVHfDA75struQziMT7Ch"
-        }
-      ],
-      "duration_ms": 287316,
-      "name": "Sega Ar Pwa",
-      "url": "https://open.spotify.com/track/2SS0rS7nObBiXaAv7iAoZ2"
-    },
-    {
-      "added_at": "2022-08-11 10:05:16",
-      "album": {
         "name": "Music from Mauritius",
         "url": "https://open.spotify.com/album/1DRPsjliENVvsUKDZ469x3"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 247136,
       "name": "Ingra",
       "url": "https://open.spotify.com/track/2s87WVUExrg6x979SqMdwL"
+    },
+    {
+      "added_at": "2022-08-11 10:05:16",
+      "album": {
+        "name": "Sega Ar Pwa",
+        "url": "https://open.spotify.com/album/5m1fAvzB5et9ka6sjSlVSn"
+      },
+      "artists": [
+        {
+          "name": "Sky to Be",
+          "url": "https://open.spotify.com/artist/7uWVHfDA75struQziMT7Ch"
+        }
+      ],
+      "duration_ms": 287316,
+      "name": "Sega Ar Pwa",
+      "url": "https://open.spotify.com/track/2SS0rS7nObBiXaAv7iAoZ2"
     },
     {
       "added_at": "2022-08-11 10:05:16",
@@ -875,18 +875,18 @@
     {
       "added_at": "2022-08-11 10:05:16",
       "album": {
-        "name": "Craz\u00e9 s\u00e9ga 2019",
-        "url": "https://open.spotify.com/album/3gcsbOnQDbwUzjGMgbJNnF"
+        "name": "Moris Zekler: Fuzz & Soul Sega from 70's Mauritius",
+        "url": "https://open.spotify.com/album/5jSShrhgr5xkYNsXJMxOx9"
       },
       "artists": [
         {
-          "name": "Morgan",
-          "url": "https://open.spotify.com/artist/0WuwdC5RXZ3UNa1CI64O6p"
+          "name": "Ti L'Afrique",
+          "url": "https://open.spotify.com/artist/7psU4qxB98jFalXz3seXsX"
         }
       ],
-      "duration_ms": 218769,
-      "name": "Medley marcel",
-      "url": "https://open.spotify.com/track/5QQhJPbtk9b75jlM0bg8t9"
+      "duration_ms": 252964,
+      "name": "Pop Soul Sega",
+      "url": "https://open.spotify.com/track/7CTdKdYu5sGpzmKBl2Ixdj"
     }
   ],
   "unique_name": "Sega Hitlist",

@@ -1,12 +1,12 @@
 {
   "description": "Great songs from great people.  Enjoy music from artists you can believe in!",
-  "num_followers": 83064,
+  "num_followers": 83125,
   "original_name": "Good People Good Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjlmMDk3Yzc4ZDdmYmQ2YmE2YmYxOTNiMjE5OTU1MjhkYmYzM2Fi",
+  "snapshot_id": "MCxjNTQwZTk1ODRhODIyNjA3ZDIyZDY0MzM3M2RmNzNkNTZlOTM1NzVi",
   "tracks": [
     {
       "added_at": "2020-09-04 04:02:00",
@@ -635,26 +635,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "If In Case You Feel The Same",
-        "url": "https://open.spotify.com/album/2M9xs7ILwOXsMgvH8aObmA"
-      },
-      "artists": [
-        {
-          "name": "Thad Cockrell",
-          "url": "https://open.spotify.com/artist/1kZ6UUBDcd4a0H3wKFhzvM"
-        },
-        {
-          "name": "The New Respects",
-          "url": "https://open.spotify.com/artist/5lwtznzBlmVM2IhgrCWbT9"
-        }
-      ],
-      "duration_ms": 289626,
-      "name": "Fill My Cup",
-      "url": "https://open.spotify.com/track/0J4WBSk4f5QDsuF12I3oA1"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Grateful (feat. Poo Bear)",
         "url": "https://open.spotify.com/album/0ZsYHZvZVDfo6CWE8IgpoH"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 246081,
       "name": "Grateful (feat. Poo Bear)",
       "url": "https://open.spotify.com/track/4vdzAzlQHMp225TA0mT4mq"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "If In Case You Feel The Same",
+        "url": "https://open.spotify.com/album/2M9xs7ILwOXsMgvH8aObmA"
+      },
+      "artists": [
+        {
+          "name": "Thad Cockrell",
+          "url": "https://open.spotify.com/artist/1kZ6UUBDcd4a0H3wKFhzvM"
+        },
+        {
+          "name": "The New Respects",
+          "url": "https://open.spotify.com/artist/5lwtznzBlmVM2IhgrCWbT9"
+        }
+      ],
+      "duration_ms": 289626,
+      "name": "Fill My Cup",
+      "url": "https://open.spotify.com/track/0J4WBSk4f5QDsuF12I3oA1"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Steady",
-        "url": "https://open.spotify.com/album/6dvtEGmtpQTlzekzXHMm08"
-      },
-      "artists": [
-        {
-          "name": "Daniella Mason",
-          "url": "https://open.spotify.com/artist/2VJxb44nmZ4ECXBZFV1HBi"
-        }
-      ],
-      "duration_ms": 211173,
-      "name": "Steady",
-      "url": "https://open.spotify.com/track/6Yhuev1iuchCqHY9q27I4N"
-    },
-    {
-      "added_at": "2020-09-04 04:02:00",
-      "album": {
         "name": "Roses",
         "url": "https://open.spotify.com/album/2srdHwegmNXJf9g68h5vhs"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 188092,
       "name": "Roses",
       "url": "https://open.spotify.com/track/0mT0NsnCx7jydlJ6bAKyyK"
+    },
+    {
+      "added_at": "2020-09-04 04:02:00",
+      "album": {
+        "name": "Steady",
+        "url": "https://open.spotify.com/album/6dvtEGmtpQTlzekzXHMm08"
+      },
+      "artists": [
+        {
+          "name": "Daniella Mason",
+          "url": "https://open.spotify.com/artist/2VJxb44nmZ4ECXBZFV1HBi"
+        }
+      ],
+      "duration_ms": 211173,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/6Yhuev1iuchCqHY9q27I4N"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Dawned On Me",
-        "url": "https://open.spotify.com/album/1t9g1ZwBOn2EvDFc1copoe"
+        "name": "Radiant (Shine Like Diamonds)",
+        "url": "https://open.spotify.com/album/5G2zZlIJhCqKAT5Pjoqr2Y"
       },
       "artists": [
         {
-          "name": "Brewer",
-          "url": "https://open.spotify.com/artist/1WNwNKCMaAZKRhB1PAquF2"
+          "name": "Quiet Science",
+          "url": "https://open.spotify.com/artist/6ClKRjCUNwKVuR5MjFPjY0"
         }
       ],
-      "duration_ms": 177633,
-      "name": "Dawned On Me",
-      "url": "https://open.spotify.com/track/4rTJ1zQvTsXNAs365RWGYj"
+      "duration_ms": 241031,
+      "name": "Radiant (Shine Like Diamonds)",
+      "url": "https://open.spotify.com/track/1y6A6uJmgWWXyD9sO7iCtp"
     },
     {
       "added_at": "2020-09-04 04:02:00",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2020-09-04 04:02:00",
       "album": {
-        "name": "Radiant (Shine Like Diamonds)",
-        "url": "https://open.spotify.com/album/5G2zZlIJhCqKAT5Pjoqr2Y"
+        "name": "Dawned On Me",
+        "url": "https://open.spotify.com/album/1t9g1ZwBOn2EvDFc1copoe"
       },
       "artists": [
         {
-          "name": "Quiet Science",
-          "url": "https://open.spotify.com/artist/6ClKRjCUNwKVuR5MjFPjY0"
+          "name": "Brewer",
+          "url": "https://open.spotify.com/artist/1WNwNKCMaAZKRhB1PAquF2"
         }
       ],
-      "duration_ms": 241031,
-      "name": "Radiant (Shine Like Diamonds)",
-      "url": "https://open.spotify.com/track/1y6A6uJmgWWXyD9sO7iCtp"
+      "duration_ms": 177633,
+      "name": "Dawned On Me",
+      "url": "https://open.spotify.com/track/4rTJ1zQvTsXNAs365RWGYj"
     },
     {
       "added_at": "2020-09-04 04:02:00",

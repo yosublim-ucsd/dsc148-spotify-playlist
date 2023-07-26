@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : All OK
 
-142 songs - 7 hr 51 min
+143 songs - 7 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Antariksha](https://open.spotify.com/track/5PtZ9krK8nQ5c9sJx6lViv) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ) | [Antariksha](https://open.spotify.com/album/67fzzYghJI5aPHJCwokERt) | 3:29 | 2022-10-12 |  |
 | [Anu Anuvaagi](https://open.spotify.com/track/4Bm3A0X9VHciIX1U1dCjqn) | [Sathya Radhakrishna](https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N) | [Anu Anuvaagi](https://open.spotify.com/album/5C10KZmpA0P1MR1eiGxSgc) | 3:02 | 2023-06-16 | 2023-07-25 |
 | [Avarisu \- SKODA Deccan Beats](https://open.spotify.com/track/3XBolYD5LpZ0ayiuRJPt1a) | [Neehar Kiran Dabade](https://open.spotify.com/artist/7HoTwBEDd1pZucJ0ntVVlQ), [Sunil Nakod](https://open.spotify.com/artist/5b6rKTAj1FD4aaerrJ8nay), [Nivas](https://open.spotify.com/artist/4xhaMczwBV4FBeTAxr6I7O) | [Avarisu \(SKODA Deccan Beats\)](https://open.spotify.com/album/1tHo4gHFxWE1ZjxCqXhhrd) | 3:42 | 2022-09-27 | 2023-06-21 |
+| [Baare Banake](https://open.spotify.com/track/77YIyUafNBzKHEY8Mn5OAT) | [Sunitha Ananthaswamy](https://open.spotify.com/artist/08gkxhUNRG3oLI20fDL0ON), [Kalashree Dr.Jayashree Aravind](https://open.spotify.com/artist/597E5ncWmDZhEkPzePD5tJ), [Anitha Ananthaswamy](https://open.spotify.com/artist/45DEqOuTvLi5bEXHFwTyEv) | [Baare Banake](https://open.spotify.com/album/1PcxPwTbGTjdaBPcsfEYNJ) | 7:18 | 2023-07-25 |  |
 | [Baby Girl](https://open.spotify.com/track/0opL1zxD6848uM3p2FTE3r) | [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo), [Gagan SD](https://open.spotify.com/artist/56G6hPOGCql9tJB6DnuwuP) | [Baby Girl](https://open.spotify.com/album/0VXE7EcubunGAzkMQVTAQy) | 3:17 | 2023-03-13 | 2023-06-13 |
 | [Bae](https://open.spotify.com/track/67DY60lKpxmESNLKyHoNZN) | [Pratham Kathare](https://open.spotify.com/artist/6OZn7BoAKutsXDPCN490rw) | [Bae](https://open.spotify.com/album/5qOKwBFn3F00te00jfyN06) | 2:33 | 2023-06-21 |  |
 | [BANAVASI DESHADOL](https://open.spotify.com/track/2GiRSXId5mUMxcauOoiRn6) | [MC.Adz](https://open.spotify.com/artist/1TQRoRqV3OeH7SOg4VMD5h) | [BANAVASI DESHADOL](https://open.spotify.com/album/5dOoCl9a2Q9Z5WvXvb52oU) | 3:27 | 2023-02-20 | 2023-07-04 |

@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Prem Dhillon
 
-170 songs - 8 hr 14 min
+171 songs - 8 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Nah They Can’t](https://open.spotify.com/track/6PO6EnP2QoP4vN27KmKvrj) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/3TvDVoxi5iIi1oqCPMt4zp) | 3:24 | 2023-03-29 | 2023-07-06 |
 | [Nakhra](https://open.spotify.com/track/2mCSLb0iW0XRrKDVjMzNhm) | [Sargi Maan](https://open.spotify.com/artist/2WcrD17Io276ir3miEHCrc), [Gurjas Sidhu](https://open.spotify.com/artist/5PG1p5BLA6PsBFu2V2nC6y), [Gulab Sidhu](https://open.spotify.com/artist/0OytfiwNkc1KzXE4ImyjgW) | [Nakhra](https://open.spotify.com/album/2pbLLIj7fyi6Zqokwew87o) | 2:28 | 2023-03-29 | 2023-04-09 |
 | [Nattiyan](https://open.spotify.com/track/0DzcKCvxOBiueaJOnK9WhG) | [Homeboy](https://open.spotify.com/artist/1ZGICPQ7A8H3vsWxHV9GO7), [Yeah Proof](https://open.spotify.com/artist/3GOxylxqB046EtIQynePq2) | [Infinite](https://open.spotify.com/album/4XeEBSXQZI0LISx8a81mLe) | 3:07 | 2023-04-01 | 2023-04-15 |
+| [Navigation](https://open.spotify.com/track/1FEv3Eim0qpTQP5DMLZeXe) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Sejal Puri](https://open.spotify.com/artist/4RhRPyU8sQguJwLGoaf4xA), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Navigation](https://open.spotify.com/album/3b1uXfpYcttiBlXZ804FSz) | 3:00 | 2023-07-25 |  |
 | [Never Ending](https://open.spotify.com/track/3QWwHA9yV64KMcUUggOofL) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Haakam](https://open.spotify.com/artist/1gPdNRLkL8J1nZrck72moJ) | [Never Ending](https://open.spotify.com/album/3UPmZcg6np0DqEo2SonSNu) | 2:38 | 2023-07-24 |  |
 | [No Reason](https://open.spotify.com/track/3ICNl7gysAiDxFtpYAPOZK) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG) | [No Reason](https://open.spotify.com/album/0wzfXAUHyTS4jzRA0HciwY) | 3:38 | 2023-03-29 |  |
 | [No Way Back](https://open.spotify.com/track/6OA60KrsBqTBUS1uk4kVwo) | [Zehr Vibe](https://open.spotify.com/artist/48cVwD5hffidwvlxLCc2pm), [Yaari Ghumaan](https://open.spotify.com/artist/7IStg4VLfRCVMMIL5RgToK) | [Versatile](https://open.spotify.com/album/7EDCJpN41sqQERoxzIsk4V) | 2:34 | 2023-04-14 | 2023-04-21 |
@@ -168,7 +169,7 @@
 | [Violence](https://open.spotify.com/track/5eUZPftNEXKMin9Evi5aJq) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV) | [Violence](https://open.spotify.com/album/5Yo740RpqOBrqJwuaeByNY) | 2:26 | 2023-03-29 |  |
 | [W](https://open.spotify.com/track/2c4J01PS0n3oGz0uTHBnK8) | [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [TVGUCCI](https://open.spotify.com/artist/0WXyxXKOWXDEYN3aFxerXw), [Inderpal Moga](https://open.spotify.com/artist/4Lk9Mory8nRTolPO1TMMcN) | [W](https://open.spotify.com/album/0lOS792KEOjaIjlAMW4dNP) | 3:09 | 2023-03-29 | 2023-04-21 |
 | [Waaka](https://open.spotify.com/track/2TQWYINUwDQnKwNwweCL6A) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY) | [Waaka](https://open.spotify.com/album/1ae98eyinEiWmkEJzGhhE9) | 2:20 | 2023-05-05 |  |
-| [Wanted](https://open.spotify.com/track/71E7wc5trYqxDhMZlp7QQb) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G) | [Wanted](https://open.spotify.com/album/3kGwZQ8qm6h9UJkzUszAI8) | 2:54 | 2023-03-29 |  |
+| [Wanted](https://open.spotify.com/track/71E7wc5trYqxDhMZlp7QQb) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT), [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G) | [Wanted](https://open.spotify.com/album/3kGwZQ8qm6h9UJkzUszAI8) | 2:54 | 2023-03-29 | 2023-07-26 |
 | [We Rollin](https://open.spotify.com/track/6ZYxNjuAU9Vy3VtF6W1dtE) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [We Rollin](https://open.spotify.com/album/09vnsHZoXH0OQWNAaOkVcf) | 3:19 | 2023-03-29 | 2023-07-21 |
 | [We Up](https://open.spotify.com/track/7JHizhhBIgetbfoKd4esq9) | [Snappy](https://open.spotify.com/artist/4HYqQGd6sHdPhq6qwikEix), [UV](https://open.spotify.com/artist/6fqQh90LDwU1Qz1cy3rbe4) | [We Up](https://open.spotify.com/album/2mNhvB60kK3FNQQyqmZp79) | 3:36 | 2023-06-08 |  |
 | [WHIPZ](https://open.spotify.com/track/6iXe41VKKp4qhUHkck3PLn) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Josh Sidhu](https://open.spotify.com/artist/6ce1Ysig2iILmcVc0lmTKW) | [WHIPZ](https://open.spotify.com/album/5wHzhNd4mvCJDLElJ4863a) | 2:15 | 2023-06-23 |  |

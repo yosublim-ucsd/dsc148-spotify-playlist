@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal tracks\. Cover: Code Orange
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,332 likes - 74 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,596 likes - 74 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 73 | [Dreamdead](https://open.spotify.com/track/1gbZY761NDYHi9YximW58B) | [Damnation Plan](https://open.spotify.com/artist/3LhVTmnVEbbCqdpXOB16uX) | [Dreamdead](https://open.spotify.com/album/3pa0gcZNkMpx4GZFS77t6r) | 4:37 |
 | 74 | [Malediction](https://open.spotify.com/track/3fMDpql7vPSfez1LjUMAOT) | [Ursular](https://open.spotify.com/artist/19j6TsD4MW6th4SBGljzzR) | [Preta](https://open.spotify.com/album/2LewaGThuUlnoZfSO3y809) | 10:56 |
 
-Snapshot ID: `MCw2MTZmZTNjMmZhNzVlY2UyZjRiNDVmN2ZiYzQ2NWM0MjcxMjdlNzNm`
+Snapshot ID: `MCw5Yjk5ZjJlNDg2YTcyNDI4NGQ5YzY1ZTdkOTJlNWQxMmViY2Y0ZWQw`

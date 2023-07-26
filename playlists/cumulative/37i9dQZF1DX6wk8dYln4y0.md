@@ -2,7 +2,7 @@
 
 ### [\*hits different\*](https://open.spotify.com/playlist/37i9dQZF1DX6wk8dYln4y0)
 
-> music that just..\. cover: Billie Eilish twemoji graphics: Twitter licensed under CC\-BY 4.0
+> The real world is not perfect, but you inspire me\. \- Barbie
 
 145 songs - 8 hr 17 min
 

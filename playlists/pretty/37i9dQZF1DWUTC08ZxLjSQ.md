@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 
 > The best new music by independent artists and labels from the MENA region\. Updates every Wednesday\. Cover: Mvndila\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,761 likes - 48 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,763 likes - 48 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUTC08ZxLjSQ.md) - [plain]
 | 47 | [Uncovered](https://open.spotify.com/track/59aIHEHhiwvnlGCmwumfgH) | [Abdu B](https://open.spotify.com/artist/0ZOnIEMRVWqPDuqzJTkGbE) | [Uncovered](https://open.spotify.com/album/66ZJVQmOhlQAcF7yUDLtXg) | 2:32 |
 | 48 | [FAG2A](https://open.spotify.com/track/7mokTKlzN0a3zlBGZeSsdM) | [Malek](https://open.spotify.com/artist/3il7Rv594x5CYajnBuqIEv), [Sage](https://open.spotify.com/artist/4ipwFBBwR2qfKHEA9bcoHg) | [FAG2A](https://open.spotify.com/album/7tRGdl7s0qbaWAi47qeZjQ) | 2:54 |
 
-Snapshot ID: `MCw3ZWUzYmM5Njg3Y2VlM2ZjZThmOTc3ZWU4Njc1MTc1MDI5YjlhNmY1`
+Snapshot ID: `MCwzYjIzYzE4N2Y1NjNlYjBlOTk3ZDJkMjI1ZjE2MmI1NWQxZmIyZGUy`

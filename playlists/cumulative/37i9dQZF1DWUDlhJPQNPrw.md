@@ -4,7 +4,7 @@
 
 > things will get better soon\. for now, just listen and dream.
 
-143 songs - 6 hr 17 min
+144 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,7 +148,8 @@
 | [Weightless](https://open.spotify.com/track/3yXQyJLMVElujd88Gt4fAf) | [Norman Dück](https://open.spotify.com/artist/5v5UYx58FiFAcbWIjZ4kPB) | [Weightless](https://open.spotify.com/album/7xkqit6sN8sKvCfT62uw3s) | 2:18 | 2023-07-19 |  |
 | [Winter im Herzen](https://open.spotify.com/track/5mz01kqyV5Q02HRq0ITNQr) | [Sander Berisha](https://open.spotify.com/artist/3ZaOGDVy8OEsLOgdtI0Aay) | [Winter im Herzen](https://open.spotify.com/album/02dj7DzGAXlqxpxm3tIBQx) | 2:56 | 2023-07-19 |  |
 | [With you](https://open.spotify.com/track/3saXbQ6vzfvSYTUcpBBm2t) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [With you](https://open.spotify.com/album/4DmiOhynq2H08YRRz2KEIf) | 2:17 | 2023-07-19 |  |
-| [XV...with gravitas](https://open.spotify.com/track/2fE6qaDpRnn3dImpGar0g6) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [XV...with gravitas](https://open.spotify.com/album/5SJa52VZuA7tAEBB8KJjtW) | 2:22 | 2023-07-19 |  |
+| [XV...with gravitas](https://open.spotify.com/track/2fE6qaDpRnn3dImpGar0g6) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [XV...with gravitas](https://open.spotify.com/album/5SJa52VZuA7tAEBB8KJjtW) | 2:22 | 2023-07-19 | 2023-07-26 |
+| [XV...with gravitas](https://open.spotify.com/track/4aWS0YU1fWeQMeiGiSVuwv) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [THE \(HE\)ART OF US](https://open.spotify.com/album/6NAg8FBuYOMmoKN7orCqcI) | 2:22 | 2023-07-24 |  |
 | [Yearning](https://open.spotify.com/track/6nAIhrJFemcnHMrtfWcQ7k) | [Carl Moir](https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO) | [Yearning](https://open.spotify.com/album/5XCkU63XSSr8e4skFj37M9) | 2:10 | 2023-07-19 |  |
 | [Your Heart Will Mend](https://open.spotify.com/track/60bojdGBpwUfilmhILcPsK) | [Donald Kutcher](https://open.spotify.com/artist/5UvqlmBYi8RQyIyNZPiHTh) | [Your Heart Will Mend](https://open.spotify.com/album/35YyAwBX2Ft3ZJArG1Y2DG) | 2:26 | 2023-07-19 |  |
 

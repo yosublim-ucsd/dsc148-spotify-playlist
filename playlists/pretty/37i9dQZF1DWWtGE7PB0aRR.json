@@ -1,12 +1,12 @@
 {
   "description": "Blues with a British flavor. Cover: Jeff Beck",
-  "num_followers": 121253,
+  "num_followers": 121310,
   "original_name": "Brit-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzUyMDIyMjJlMTY5NjIyZGZjNTE5YmNhYzE3MGQ2Y2I2MjhiZjMx",
+  "snapshot_id": "MCw1NzZiYWU5ZmNiMmY0OWI0YjA4YWNkNTlhZmIxMDE0NTYyYzE4YjBj",
   "tracks": [
     {
       "added_at": "2021-04-22 22:35:02",
@@ -479,6 +479,14 @@
         "url": "https://open.spotify.com/album/5oq20r8iNOO9fpw8R2h3vE"
       },
       "artists": [
+        {
+          "name": "Paul Raymond",
+          "url": "https://open.spotify.com/artist/67bQw5L8lA3vR1dELskESp"
+        },
+        {
+          "name": "Kim Simmonds",
+          "url": "https://open.spotify.com/artist/4sma2sfozeiZbmxSTWJBMz"
+        },
         {
           "name": "Savoy Brown",
           "url": "https://open.spotify.com/artist/17obwOahRWI121iMUZznh2"

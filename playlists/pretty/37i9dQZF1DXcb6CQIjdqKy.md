@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover:  <a href="https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8?si=7ytoR5\-FTwC7F3qs6teXRA">Jesus Culture</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,564,085 likes - 102 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,564,397 likes - 102 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 101 | [I Don't Wanna Live Like This](https://open.spotify.com/track/1srAm9ubDjmaNkACrQKtdN) | [Gable Price and Friends](https://open.spotify.com/artist/6d9rhdwIVsqblUFXu7qEBp) | [The Consequence Of Being Alive](https://open.spotify.com/album/18lesZi0aFfIUMClfCK1l7) | 2:57 |
 | 102 | [Fingerprints](https://open.spotify.com/track/5JaUGYbQIackRPTU8VuGFf) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Into The Wild](https://open.spotify.com/album/2hZfROCvTvSqmOpYJUeT1b) | 2:37 |
 
-Snapshot ID: `MCw4YTdjNWY0ZjA0ZmFjMzg1YTY5ZWE5ZWUyNjE5MjA4Y2IxZTZhZDNk`
+Snapshot ID: `MCxhMGIwMzJhYzZlN2YzY2Y1ZTBhYTFlMmJmZDRkNzMyNzVhMWQ0YzEw`

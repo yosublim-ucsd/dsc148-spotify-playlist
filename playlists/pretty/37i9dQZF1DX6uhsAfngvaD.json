@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 286507,
+  "num_followers": 286594,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZTczNWUyYzk5ZWVkNGMxN2UyNmNhY2FiM2YwYWIzNWMzMTQ4MTZm",
+  "snapshot_id": "MCxlOTAyMjlkYTZlYTI2NDA5ZWE4NmY3NzZmMjZiZjM5YzE0NjE5MWEx",
   "tracks": [
     {
       "added_at": "2023-07-21 10:37:28",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Lean Into Life",
-        "url": "https://open.spotify.com/album/0bhNAmedySXmdR9xBhbpmZ"
-      },
-      "artists": [
-        {
-          "name": "Petey",
-          "url": "https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA"
-        }
-      ],
-      "duration_ms": 327266,
-      "name": "Lean Into Life",
-      "url": "https://open.spotify.com/track/59I8EVpxxsE50dQRPpaBms"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Days",
         "url": "https://open.spotify.com/album/3jUF9M3uQuvXz1n7WUC3vc"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 320328,
       "name": "Days",
       "url": "https://open.spotify.com/track/77YVeXd29xVJrJdGQRJNYp"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Lean Into Life",
+        "url": "https://open.spotify.com/album/0bhNAmedySXmdR9xBhbpmZ"
+      },
+      "artists": [
+        {
+          "name": "Petey",
+          "url": "https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA"
+        }
+      ],
+      "duration_ms": 327266,
+      "name": "Lean Into Life",
+      "url": "https://open.spotify.com/track/59I8EVpxxsE50dQRPpaBms"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
-      },
-      "artists": [
-        {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
-        }
-      ],
-      "duration_ms": 389948,
-      "name": "Deceiver",
-      "url": "https://open.spotify.com/track/272VxhXNv8vFjtZi3FC9eJ"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "The Middle of Nowhere",
         "url": "https://open.spotify.com/album/222Te8JiZ4gbgurHkY0v1l"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 258876,
       "name": "Jeune",
       "url": "https://open.spotify.com/track/51tJQf4oxTMvONqstKnqmR"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/7B6lEObl7aYkMjX8M89IRQ"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "duration_ms": 389948,
+      "name": "Deceiver",
+      "url": "https://open.spotify.com/track/272VxhXNv8vFjtZi3FC9eJ"
     },
     {
       "added_at": "2023-07-21 10:37:28",

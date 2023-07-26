@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:7o2Y6TQr9B0ynZGhUDAkyj">Lotic</a>'s favorite tracks\. Updated regularly\. Curated by Lotic\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-138 songs - 7 hr 34 min
+139 songs - 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,9 +108,10 @@
 | [Simple Stuff](https://open.spotify.com/track/3BcxJBOyszuugusEIt5Xv2) | [Loraine James](https://open.spotify.com/artist/536qHynzDH1QviwhWY9dE3) | [Simple Stuff](https://open.spotify.com/album/2yIiTqFhmfkZ5qRHq3mkKv) | 3:26 | 2021-11-16 | 2022-01-22 |
 | [Skindeepskyhighheartwide \- Asmara Remix](https://open.spotify.com/track/7JQWFoEywbsTCnoHsZT00g) | [Lawrence Rothman](https://open.spotify.com/artist/2Jn2Lx4gkmqFZN1t90Vp5N), [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA), [The Turning](https://open.spotify.com/artist/5SqSERX1QBiXgeKVtR76yM), [NGUZUNGUZU](https://open.spotify.com/artist/5wJl2eFe6LqoSHSlk73vRr), [Asmara](https://open.spotify.com/artist/3M6lVgfxN572fXUs9YVN5F) | [Skindeepskyhighheartwide \(Asmara Remix\)](https://open.spotify.com/album/6wEbo8n0X1C33AnPk5hakI) | 4:59 | 2021-11-16 | 2022-01-29 |
 | [SLIME](https://open.spotify.com/track/5alFLxnNmBmTdNM6Oq0nqD) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [SLIME](https://open.spotify.com/album/1VCGsWYP7dY5fLXUrEPG6L) | 2:39 | 2021-11-16 |  |
+| [Spread That Puss](https://open.spotify.com/track/2CYQIo0X7R3j15aLQJeyav) | [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [Queen Of Pop](https://open.spotify.com/album/3p5OnIPAfqO0HuycRJJQVN) | 2:27 | 2022-06-09 |  |
 | [Spread That Puss](https://open.spotify.com/track/4o2SgZjUWdy78MldvkYFd1) | [Ayesha Erotica](https://open.spotify.com/artist/6TMGw1UYn6DFEtn2f9mv8J) | [Queen Of Pop](https://open.spotify.com/album/04OoSxx5A0j1Nk5UJfjaFS) | 2:27 | 2022-06-09 | 2023-02-15 |
 | [Spread That Puss](https://open.spotify.com/track/6Fq0oSeE0vod2UfW86H2we) | [Ayesha Erotica](https://open.spotify.com/artist/6TMGw1UYn6DFEtn2f9mv8J) | [Queen of Pop](https://open.spotify.com/album/69Zb4HWI0aANun26JLN0Rf) | 2:27 | 2022-06-09 | 2022-10-23 |
-| [Spread That Puss](https://open.spotify.com/track/3snk3DKrjHBu2TMdYYXhah) | [Miss Ayesha](https://open.spotify.com/artist/3aJK7LhPLg4rDr6hTbABzZ) | [Spread That Puss](https://open.spotify.com/album/0gLzh0qmiZh928mKBzWLKN) | 2:27 | 2022-01-21 |  |
+| [Spread That Puss](https://open.spotify.com/track/3snk3DKrjHBu2TMdYYXhah) | [Miss Ayesha](https://open.spotify.com/artist/3aJK7LhPLg4rDr6hTbABzZ) | [Spread That Puss](https://open.spotify.com/album/0gLzh0qmiZh928mKBzWLKN) | 2:27 | 2022-01-21 | 2023-07-26 |
 | [Spread That Puss](https://open.spotify.com/track/3g59XKbT4NoJCecD97Vaa3) | [Miss Ayesha](https://open.spotify.com/artist/3aJK7LhPLg4rDr6hTbABzZ) | [Spread That Puss](https://open.spotify.com/album/0WDQu39bTeX5nrPMIthTTN) | 2:27 | 2022-06-09 | 2023-04-26 |
 | [STAND BACK](https://open.spotify.com/track/4jK2loL0NeRIXT5u084b9V) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx), [93rd](https://open.spotify.com/artist/5J4q52NSlOOu2qN2gOWFzx) | [STAND BACK](https://open.spotify.com/album/41kWWMCzw0OYNva6I8DhQh) | 2:17 | 2021-11-16 |  |
 | [STFU](https://open.spotify.com/track/2LdyEquG8v8ByBCkYzVoiq) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Nightmare Vacation](https://open.spotify.com/album/0jJEiaA2W9eFhTXC1EGMqG) | 2:16 | 2021-11-16 |  |

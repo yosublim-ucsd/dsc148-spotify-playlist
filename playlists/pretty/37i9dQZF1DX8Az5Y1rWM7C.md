@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Az5Y1rWM7C.md) - [plain]
 
 > Revive lo mejor del trap latino del año.<br/>Foto: Jhay Cortez, Anuel AA & J Balvin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,019 likes - 60 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,064 likes - 60 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Az5Y1rWM7C.md) - [plain]
 | 34 | [Benz](https://open.spotify.com/track/0M1fBFg2mxlFpYeBUBOseQ) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Marlon Breeze](https://open.spotify.com/artist/6WI2aStGYkbt0vslpKmDkV) | [KUN](https://open.spotify.com/album/0MnNn3zWWUP8CcHUXuOnCc) | 2:47 |
 | 35 | [Yakuza](https://open.spotify.com/track/0gPM83N4pcucaFMNbUX2eR) | [Mesita](https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6), [El Futuro Fuera De Orbita](https://open.spotify.com/artist/7thOJx5gcuoJcEcaoHsPAk), [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS), [Blunted Vato](https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR) | [Yakuza](https://open.spotify.com/album/4njpct4ZRvdI4ZsdrkRyQo) | 4:28 |
 | 36 | [Café](https://open.spotify.com/track/2vHfWA1QJh66ln7dhy4QUN) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [LUYO](https://open.spotify.com/artist/1CEbjili13aEiNZGfyApZL) | [Café](https://open.spotify.com/album/2IO81a5tK82jSynV3E5HCX) | 3:39 |
-| 37 | [Vengo De Nada](https://open.spotify.com/track/5pUlI3bMpx2GPu7rXBbk0w) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Buen Viaje](https://open.spotify.com/album/5VeCe0dQWJgeQ2zQG1K58m) | 3:41 |
+| 37 | [Vengo De Nada](https://open.spotify.com/track/5pUlI3bMpx2GPu7rXBbk0w) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Buen Viaje](https://open.spotify.com/album/5VeCe0dQWJgeQ2zQG1K58m) | 3:41 |
 | 38 | [La Cone](https://open.spotify.com/track/4QV1UDysVcpkHOGh2va5nt) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [La Cone](https://open.spotify.com/album/4GXtfTQ5fsxTOc0TgGLlDL) | 4:11 |
 | 39 | [Hennessy](https://open.spotify.com/track/3A4mcukwxLsaD5Q4J5Iixr) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Cosculluela](https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU) | [Sauce Boyz](https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ) | 3:04 |
 | 40 | [Flexin'](https://open.spotify.com/track/0hwEhPxCBLKiqeBMZavGAv) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [Flexin'](https://open.spotify.com/album/7GHdU4lGW377dQYUfpWR7u) | 2:59 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Az5Y1rWM7C.md) - [plain]
 | 59 | [Arre](https://open.spotify.com/track/6lQ7ubRjFRpxkRtlFnMJRl) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Arre](https://open.spotify.com/album/5AvCEcQVDKDRsQpx0fmtxN) | 2:48 |
 | 60 | [FULL ICE \(prod\. ORODEMBOW\)](https://open.spotify.com/track/2wK7D7i9bfVt3uLjFsZSEU) | [YSY A](https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6) | [HECHO A MANO](https://open.spotify.com/album/7vpRavovNYZYzEOieN5pvU) | 2:40 |
 
-Snapshot ID: `MCwyZTBlNThlMTAxZmRhOTUxMGQwZjhhZmIwODRjNjhmY2ViZWQ1ZWFk`
+Snapshot ID: `MCxkZTA3NjQyY2I3MDRhYWJlNzM1NTgwZTE3MjkxNmE0MWE0OWZhNWUz`

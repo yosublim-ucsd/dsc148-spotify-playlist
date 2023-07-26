@@ -4,7 +4,7 @@
 
 > Uma seleção de novos artistas da cena brasileira que você precisa conhecer\.  Foto: Dani\-Vie / Arte: Isu Kim
 
-272 songs - 14 hr 2 min
+274 songs - 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [10%](https://open.spotify.com/track/0liXZVfUKI5Jttqoipnavz) | [Camaleoa](https://open.spotify.com/artist/5LijwxkcAViVr8bMwdYHwk) | [10%](https://open.spotify.com/album/1DFnXp9kPkp2GpUrUubx1O) | 2:49 | 2022-09-02 | 2022-12-10 |
 | [20 e poucos](https://open.spotify.com/track/6zsyDhdQb7Kk0HLeRjUeLA) | [Belle](https://open.spotify.com/artist/2HDu3X8LSyHU8SggdwHNmc) | [20 e poucos](https://open.spotify.com/album/1yNAcEBYQTtemgIrZMUocV) | 2:27 | 2022-03-25 | 2023-01-28 |
 | [4 Da Tarde](https://open.spotify.com/track/4qnnh8MopXJCqj8doN5dok) | [Dupoint](https://open.spotify.com/artist/54GML44bZteHh8aoqc644G) | [4 Da Tarde](https://open.spotify.com/album/3f8B8HAmQquLVXVkKuMms0) | 2:48 | 2022-10-07 |  |
-| [A Coisa Mais Bonita](https://open.spotify.com/track/3iLP4mpaKMEbDyZPMTku6V) | [Manda](https://open.spotify.com/artist/1ZeF4gSmzi8ZdlXJUu4LG5) | [A Coisa Mais Bonita](https://open.spotify.com/album/4myBNDGlwkJv92GYgN3SZ3) | 2:49 | 2022-11-25 |  |
+| [A Coisa Mais Bonita](https://open.spotify.com/track/3iLP4mpaKMEbDyZPMTku6V) | [Manda](https://open.spotify.com/artist/1ZeF4gSmzi8ZdlXJUu4LG5) | [A Coisa Mais Bonita](https://open.spotify.com/album/4myBNDGlwkJv92GYgN3SZ3) | 2:49 | 2022-11-25 | 2023-07-26 |
 | [A Nossa Bossa](https://open.spotify.com/track/33vbDli8ByiNhw5vdM9Esh) | [NUNEZ](https://open.spotify.com/artist/6RvP5pZMli48YYw0nwreXZ), [Jair Oliveira](https://open.spotify.com/artist/1kuKDHZD1oPXwVZviVgRbV) | [A Nossa Bossa](https://open.spotify.com/album/53CQgPLHrM1HGyZHz2pqPl) | 2:44 | 2022-08-19 | 2022-12-10 |
 | [A ROSA DOS VENTOS](https://open.spotify.com/track/2buP6yNPdxndWDntaRzicQ) | [Osvaldinho](https://open.spotify.com/artist/5S9lM2gX2RBJaWNtKuCs1c), [Circuladô de Fulô](https://open.spotify.com/artist/2d4Axz1kGnLt5XjLw4MLoW) | [A ROSA DOS VENTOS](https://open.spotify.com/album/05chG2pT2QJsDKiVYn7ccf) | 3:01 | 2022-07-22 | 2022-11-05 |
 | [A Vida é Uma Granada](https://open.spotify.com/track/6MCrJunzD53N8RzvbuzkXm) | [DINGO](https://open.spotify.com/artist/2sUDjU3jdpKtqxUMn0GRc4) | [A Vida é Uma Granada](https://open.spotify.com/album/2mM0SEjQaE4PnR9zpPeIrO) | 3:26 | 2022-11-18 |  |
@@ -158,7 +158,7 @@
 | [Mulher](https://open.spotify.com/track/46uBprY5NXWwAt1A2N88VI) | [Renife](https://open.spotify.com/artist/4TFGb89oFmLWuW5nRqJPOG) | [Mulher](https://open.spotify.com/album/4maHeiiGiCaiJ19zytMbaB) | 3:21 | 2022-01-07 | 2022-08-20 |
 | [Máfia](https://open.spotify.com/track/2ATyqTOa2IROqjP1laQGle) | [Lil Keef](https://open.spotify.com/artist/4W3yMfi6HUVxWEq2qVt7Nt) | [Máfia](https://open.spotify.com/album/63wxSYDicTNV3n5ueRtaU5) | 2:04 | 2023-01-27 | 2023-02-14 |
 | [NA CIDADE](https://open.spotify.com/track/48SRrE5cEEHH0DASXzOnKv) | [felino](https://open.spotify.com/artist/2uGXjH16PSBfrZ56uoKdNq), [Mariana Ramos](https://open.spotify.com/artist/7dbcgDHRj6hl6VMSrIyHCM) | [NA CIDADE](https://open.spotify.com/album/1mfz9gaY8BNO6biqJ3NyUC) | 2:36 | 2022-01-07 | 2022-01-22 |
-| [Nada \(Além de Você\)](https://open.spotify.com/track/0G14NxlIvaxlCszVZOimOc) | [DeLuca](https://open.spotify.com/artist/64Pq2n0zi2MAdGSPmwq1bG) | [Nada \(Além de Você\)](https://open.spotify.com/album/6eh8PdDo6Wv9lTLiGqO1JH) | 2:09 | 2023-02-13 |  |
+| [Nada \(Além de Você\)](https://open.spotify.com/track/0G14NxlIvaxlCszVZOimOc) | [DeLuca](https://open.spotify.com/artist/64Pq2n0zi2MAdGSPmwq1bG) | [Nada \(Além de Você\)](https://open.spotify.com/album/6eh8PdDo6Wv9lTLiGqO1JH) | 2:09 | 2023-02-13 | 2023-07-26 |
 | [Nada \(Além de Você\)](https://open.spotify.com/track/1Mf03EauuFA4HQBDqFjmiD) | [DeLuca](https://open.spotify.com/artist/64Pq2n0zi2MAdGSPmwq1bG) | [Nada \(Além de Você\)](https://open.spotify.com/album/6yZfMNvZ0O1V97ilVkGkiy) | 2:09 | 2022-12-09 | 2023-02-15 |
 | [ninho](https://open.spotify.com/track/3xWLmF4mjDE6hBtHUZhQF3) | [Kelton](https://open.spotify.com/artist/29WFp1aJPBMaKswnXrbd2B) | [Ofício da Solidão](https://open.spotify.com/album/2IU7pbJO1GW9OjoIOrb3LH) | 3:10 | 2022-01-07 | 2022-02-19 |
 | [Noite Passada](https://open.spotify.com/track/5mfIhpw2TWDFaHdZ1GKo3J) | [THAIS](https://open.spotify.com/artist/6HiZPv12Ycvmmg4AZQXz29) | [Noite Passada](https://open.spotify.com/album/44XRxT09VtGgaBQcIBHMiU) | 2:45 | 2023-01-13 |  |
@@ -179,6 +179,7 @@
 | [Olhos Coloridos](https://open.spotify.com/track/16uWITf1BYQrxq9579qi5n) | [Oblomov](https://open.spotify.com/artist/2EUaba83feGXNAGXAhERE7) | [Oblomov II](https://open.spotify.com/album/0F9fNWVNLnhNJSaCOjSEAs) | 5:22 | 2022-01-07 | 2022-08-13 |
 | [Orfeu](https://open.spotify.com/track/6e7WdQ8m93gu91m4Qrt9rl) | [Camurça](https://open.spotify.com/artist/403tGQ47rMxSshoKZCmTck) | [Orfeu](https://open.spotify.com/album/2FWeHrVr8JHKxi8Q8XJtR5) | 2:49 | 2022-01-07 | 2022-03-26 |
 | [Oxi \(Dio Mio!\)](https://open.spotify.com/track/7rNs5lk3spufNxHP2C8pjX) | [Belita](https://open.spotify.com/artist/2xlX2xlzRLg1y914U4acVR) | [Oxi \(Dio Mio!\)](https://open.spotify.com/album/34gsitMxdH7mewppzUB7F6) | 2:40 | 2022-09-23 |  |
+| [Palavra de Amor](https://open.spotify.com/track/7z8gTjbcWPazkxjybrwV3K) | [Ítallo](https://open.spotify.com/artist/3Z8iiGCNdH9SM2dxr0WZp9) | [Tarde no Walkiria](https://open.spotify.com/album/3d9WQ7ir8GSaHmMMog7qfr) | 3:59 | 2023-07-25 |  |
 | [Paraíso](https://open.spotify.com/track/4jWowg9G99UztDCjW41i7T) | [Mario MP](https://open.spotify.com/artist/6Yvq0nboAiaidaVEXRorfS) | [Paraíso](https://open.spotify.com/album/0OpTjEJgTrEXjCf1I71SOi) | 3:11 | 2022-01-07 | 2022-02-19 |
 | [Paraíso Astral](https://open.spotify.com/track/04dKPoNUfNnAQldSvWFei0) | [Guma](https://open.spotify.com/artist/0ZzAWoYMZEgOwz3jz4LbQF) | [Paraíso Astral](https://open.spotify.com/album/5MFfEqDIkfHMYVE7H5gTFv) | 3:50 | 2022-01-07 | 2022-04-02 |
 | [Passa](https://open.spotify.com/track/7GBiuTh9aykFc1c4AIDwky) | [Martins](https://open.spotify.com/artist/4enkj7NOHAaVi7l7PkQiTg) | [Passa](https://open.spotify.com/album/0Z70oBy0p7wjoxnV1SyGkq) | 2:56 | 2022-12-09 |  |
@@ -280,5 +281,6 @@
 | [Água de Coco](https://open.spotify.com/track/2d54xbByYlXbb7lwt0CM9W) | [Letícia Gusmão](https://open.spotify.com/artist/4x0oeQactOdKWWoX9YcPOi) | [Água de Coco](https://open.spotify.com/album/6Eqo1wVbjVkjstkxrSc7H9) | 2:40 | 2022-01-07 | 2022-09-03 |
 | [É preciso Calma](https://open.spotify.com/track/0INaEInPtDdJJSSENNS2VY) | [Unidade Nova Praia](https://open.spotify.com/artist/1Onj9Nq0eoWQ1SOdxFJksp) | [Cardeal](https://open.spotify.com/album/6hqXlThpyF5IUy3PMtPwm3) | 3:35 | 2022-12-23 |  |
 | [Óleo de Coco](https://open.spotify.com/track/5mF6dnj2rxGMVrGLbLXk5Z) | [Guilé](https://open.spotify.com/artist/3LcImgfMSyblXrPbb2FeZl) | [Óleo de Coco](https://open.spotify.com/album/33oj13c8oLa1KVFK2f5jpr) | 2:58 | 2022-12-09 |  |
+| [Ô Lulu](https://open.spotify.com/track/4zANO1rVIY1EeaDyyI3BN6) | [dadá Joãozinho](https://open.spotify.com/artist/2iGbCpu2oDuyZHrYdNwD1X) | [Ô Lulu](https://open.spotify.com/album/55xxEtIfagPjZR5LcCMJbP) | 3:04 | 2023-07-25 |  |
 
 \*This playlist was first scraped on 2022-01-09. Prior content cannot be recovered.

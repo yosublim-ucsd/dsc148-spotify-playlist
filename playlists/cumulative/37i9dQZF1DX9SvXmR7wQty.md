@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Ronisia
 
-1,960 songs - 4 day 8 hr 42 min
+1,961 songs - 4 day 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -565,7 +565,7 @@
 | [Escorte](https://open.spotify.com/track/41owO9tpVFmNAZ4IEpM2iK) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Carré](https://open.spotify.com/album/2oTwdgQB5duCr067NgoEOP) | 3:14 | 2023-03-10 | 2023-03-25 |
 | [Esprit libre](https://open.spotify.com/track/0cJKxZzWTN36amL9JpcJfg) | [Georgio](https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO) | [Esprit libre](https://open.spotify.com/album/0cZqzT4qVvLp1GinzEe6Bh) | 3:16 | 2023-01-13 | 2023-01-28 |
 | [Esprit méfiant](https://open.spotify.com/track/1YJTQylI2qGPjd9sbC2Ki8) | [og cyrus](https://open.spotify.com/artist/3KRSccEFVrRnMRe0XKGuNy), [Connaisseur Ticaso](https://open.spotify.com/artist/6Z7e35747Ty7EmmcOaKa8o) | [Esprit méfiant](https://open.spotify.com/album/55ri3vgj9Oqw6XF8EHNDvo) | 2:39 | 2022-05-13 | 2022-05-28 |
-| [Et si ?](https://open.spotify.com/track/59Ej6X1MZD00tL8roBI9hx) | [Krisy](https://open.spotify.com/artist/6RwBaA9wZC0BPWZfmGeWMo) | [Et si ?](https://open.spotify.com/album/7cmRDU8mSCgoZKEC8nmr9f) | 3:01 | 2023-06-23 |  |
+| [Et si ?](https://open.spotify.com/track/59Ej6X1MZD00tL8roBI9hx) | [Krisy](https://open.spotify.com/artist/6RwBaA9wZC0BPWZfmGeWMo) | [Et si ?](https://open.spotify.com/album/7cmRDU8mSCgoZKEC8nmr9f) | 3:01 | 2023-06-23 | 2023-07-26 |
 | [Et si jamais](https://open.spotify.com/track/2sXWfiRM4qbt0rqJBeMtoT) | [Rip Pop Mutant](https://open.spotify.com/artist/0Fkytt8xfwUxXZztw9UD58) | [FLUXUS POP](https://open.spotify.com/album/3gZFUIX32H0d5GQiU4X4Xv) | 3:25 | 2022-04-08 | 2022-04-16 |
 | [Et si je me mens](https://open.spotify.com/track/4tXQIKGPPrZvNBAtEQCpNQ) | [Junes](https://open.spotify.com/artist/7gVX2tLip13N0qGifgsWQl) | [Et si je me mens](https://open.spotify.com/album/5tr05j2RRC0x3Bwezdlfd7) | 2:44 | 2022-10-07 | 2022-10-15 |
 | [Et tu restes \- Extrait de la bande originale du film « Le Chêne »](https://open.spotify.com/track/7bEMeRs0T6cvohiBY9TstF) | [Tim Dup](https://open.spotify.com/artist/2Ksaxtwx8hMgjUkzIoGDXE) | [Et tu restes \(Extrait de la bande originale du film « Le Chêne »\)](https://open.spotify.com/album/1bTfOmrlL73qIyNxKOqLYC) | 4:14 | 2021-12-31 | 2022-01-22 |
@@ -694,6 +694,7 @@
 | [Gravité](https://open.spotify.com/track/5fBkJQXG6UiwGUkZtkVMKz) | [Zazie](https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD) | [L'EP](https://open.spotify.com/album/30Sl2MlX4q0DBQni39JFFo) | 3:17 | 2022-09-23 | 2022-10-08 |
 | [Grind](https://open.spotify.com/track/6CuXSXrJ6KCvQk0CZcI9GY) | [Jeune Rebeu](https://open.spotify.com/artist/1Eqk1dyp15e8W7meILuhgD) | [Grind](https://open.spotify.com/album/1Pp1NzqkXEFVm8kdIIAotZ) | 3:24 | 2022-04-22 | 2022-04-29 |
 | [Gucci, Chanel](https://open.spotify.com/track/15HDG2RFHASg5citb8CGqN) | [Réejo](https://open.spotify.com/artist/0NATGrD6MxqX3q23GqnW0k) | [Gucci, Chanel](https://open.spotify.com/album/0qoC5fTTM48wh4MSzAsFgY) | 2:13 | 2022-03-11 | 2022-03-18 |
+| [GÉ VOULAIT](https://open.spotify.com/track/0zjj6xLdVtzIzkOHEWqbWH) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [GÉ VOULAIT](https://open.spotify.com/album/4ANS3cQf0SZux2I7zlkAxC) | 2:41 | 2023-07-21 |  |
 | [Génie](https://open.spotify.com/track/6d47cASiELHow0wPMkDZbw) | [Mahdi Ba](https://open.spotify.com/artist/4bjdItQFpfNUmAWpY2ao7M), [Youv Dee](https://open.spotify.com/artist/5P3mgWx3KvnURMhlVm5pMS) | [Génie](https://open.spotify.com/album/5nJbetDfb7n5oHvOz6JAX9) | 1:47 | 2022-07-01 | 2022-07-16 |
 | [Habiba](https://open.spotify.com/track/3S4VwM5QzaYKnuw5cEGNh1) | [Jebz](https://open.spotify.com/artist/3vbbyh0Nav4O5afKC2rolq) | [Habiba](https://open.spotify.com/album/0c4YneW6tpjp5PSfmqxsTl) | 2:02 | 2022-06-24 | 2022-08-06 |
 | [Habitué](https://open.spotify.com/track/7xkEwqP3Re1IONk53wIryU) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ), [Random](https://open.spotify.com/artist/20JaTdfk3frqSwaYIf0ko8), [Mody](https://open.spotify.com/artist/6dkxSINLJmaCC2uxuM61ds) | [Les Trois Étoiles, Vol\. 2](https://open.spotify.com/album/7HkXzitPnzf2j40h3fzz9a) | 2:53 | 2023-03-17 | 2023-04-15 |

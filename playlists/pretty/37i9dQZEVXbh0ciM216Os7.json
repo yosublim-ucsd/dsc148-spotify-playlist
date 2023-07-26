@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgxNjUyMDAsMDAwMDAwMDA4NjVhNjY4MzQyYTY2ZWI3ZWUwMmMxYzNlYTYzNjRlMw==",
+  "snapshot_id": "MjgxNjUyMDAsMDAwMDAwMDBlYTU2ZTQ5ZGYxNDFkYjliM2U1ODNkNTBjYjMwNDYwZA==",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -295,30 +295,6 @@
       "duration_ms": 164213,
       "name": "Sideways",
       "url": "https://open.spotify.com/track/1lVYnUQjno6unaOAGSsJBS"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Sophisticated",
-        "url": "https://open.spotify.com/album/5zgcXfbKZKdAfFXvavBzCK"
-      },
-      "artists": [
-        {
-          "name": "SHAQ WILLIAMS",
-          "url": "https://open.spotify.com/artist/3pQBfLMcHtWigAxuBxYmtv"
-        },
-        {
-          "name": "GZA",
-          "url": "https://open.spotify.com/artist/6ns6XAOsw4B0nDUIovAOUO"
-        },
-        {
-          "name": "U-God",
-          "url": "https://open.spotify.com/artist/0G070wUUUBptmqGEKAAUVx"
-        }
-      ],
-      "duration_ms": 154200,
-      "name": "Sophisticated",
-      "url": "https://open.spotify.com/track/5LZ3zbyyCVFmGBC5Sdvwlk"
     },
     {
       "added_at": "2023-07-21 04:00:00",

@@ -4,7 +4,7 @@
 
 > Feel\-good <a href="spotify:genre:edm\_dance">dance music</a>!
 
-363 songs - 19 hr 22 min
+364 songs - 19 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,7 +261,7 @@
 | [Real Love x Sunchyme \(feat\. Jess Glynne\) \[VIP Mash\-up\]](https://open.spotify.com/track/17fPLuA4TttWwfNcf833J1) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Dario G](https://open.spotify.com/artist/3Eo78i1MPfle0XVjMvia8A), [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [Real Love x Sunchyme \(feat\. Jess Glynne\) \[VIP Mash\-up\]](https://open.spotify.com/album/47ZID0LqufsflsEdOtWk5H) | 3:39 | 2021-12-03 | 2022-10-06 |
 | [Relax My Eyes](https://open.spotify.com/track/1J3C8kdqUckBrTtgttm0AA) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [The Reset](https://open.spotify.com/album/37b8oZGEqxo6EUcOLnx9TG) | 3:11 | 2023-02-11 | 2023-04-15 |
 | [Relax My Eyes](https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [Relax My Eyes](https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN) | 3:12 | 2023-03-10 |  |
-| [Relight My Love](https://open.spotify.com/track/6dKDKwtdZtGlR8e1tZGEYS) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Relight My Love](https://open.spotify.com/album/4nPnujo6paeU0XbRMpYO40) | 2:57 | 2021-12-03 |  |
+| [Relight My Love](https://open.spotify.com/track/6dKDKwtdZtGlR8e1tZGEYS) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD) | [Relight My Love](https://open.spotify.com/album/4nPnujo6paeU0XbRMpYO40) | 2:57 | 2021-12-03 | 2023-07-26 |
 | [Remember](https://open.spotify.com/track/2nEdgiHdguBvGmES5Pv4Ca) | [J Lisk](https://open.spotify.com/artist/6IbEdXQyS4jMvheGTgKtSr) | [Remember](https://open.spotify.com/album/2nOJh2CwWDMAzZsn07gKRU) | 2:51 | 2021-12-03 | 2022-01-08 |
 | [Ride or Die \(feat\. Phoebe Ryan\)](https://open.spotify.com/track/2tYbp6gUNzQXYj8XhVAh9e) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Phoebe Ryan](https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr) | [Say It Like You Feel It](https://open.spotify.com/album/0Y24lHaBzmJFT613svjsex) | 3:08 | 2021-12-03 | 2022-07-29 |
 | [Ride or Die \(feat\. Phoebe Ryan\)](https://open.spotify.com/track/5vlOmC9rYZKO69KYkcX8va) | [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF), [Phoebe Ryan](https://open.spotify.com/artist/4N874uPqBka1QiCvnCVOtr) | [Say It Like You Feel It](https://open.spotify.com/album/0H6bk8i41v1IKnuIPlPF6b) | 3:08 | 2022-07-22 | 2023-03-05 |
@@ -371,5 +371,6 @@
 | [Young Summer](https://open.spotify.com/track/1OfHes9WQdGQSIgNwrqIAw) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Young Summer](https://open.spotify.com/album/6yXyTpttvpLCCLq7zZQASo) | 2:36 | 2021-12-03 | 2022-11-19 |
 | [Your Light](https://open.spotify.com/track/1QuoMcTglBzFIsPwiXHNQQ) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut) | [Your Light](https://open.spotify.com/album/62nlkAM6lQIqQ2v7g75jdI) | 3:57 | 2022-09-09 | 2022-10-26 |
 | [Your Love Keeps Lifting Me Higher](https://open.spotify.com/track/7hLqii5dbwnwn3IiHt7k4D) | [Revival](https://open.spotify.com/artist/2PwQi1kdRI5FfS7Q5ukpxk), [Kathy Brown](https://open.spotify.com/artist/1dYwUvGX41uwyOuabIEJUq), [GeO Gospel Choir](https://open.spotify.com/artist/6hE7obcJBo7760EpnmhR1H) | [Your Love Keeps Lifting Me Higher](https://open.spotify.com/album/2b19uYnO6jSwzTrT221lyA) | 2:57 | 2023-05-12 |  |
+| [‎Sing Hallelujah](https://open.spotify.com/track/7KDQodSd62lRySw3kjHYXJ) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75), [Dr\. Alban](https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8) | [‎Sing Hallelujah](https://open.spotify.com/album/5VqXJYT1QOyVxIlSnCu7Ee) | 4:37 | 2023-07-14 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

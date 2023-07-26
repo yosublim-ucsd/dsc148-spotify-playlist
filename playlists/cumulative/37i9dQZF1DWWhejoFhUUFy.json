@@ -704,7 +704,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 215113,
       "name": "Kahaani",
       "url": "https://open.spotify.com/track/6gK2gR0uyFFYJ5sKH4zyjx"
@@ -1068,6 +1068,24 @@
       "duration_ms": 258716,
       "name": "Muskurahat",
       "url": "https://open.spotify.com/track/6oURWs2pULRYC9JAhLEaw8"
+    },
+    {
+      "album": {
+        "name": "Na Sata (From \"Highway Love\")",
+        "url": "https://open.spotify.com/album/6rIeU5F1D0nB0LRZ41xKma"
+      },
+      "artists": [
+        {
+          "name": "Saudur",
+          "url": "https://open.spotify.com/artist/2mg1YLOST3mNhhkP60Ni4I"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211456,
+      "name": "Na Sata (From \"Highway Love\")",
+      "url": "https://open.spotify.com/track/4zqSM3FthOw4OhabVdOPvr"
     },
     {
       "album": {

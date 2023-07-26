@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 
 > A selection of new, quality electro sounds from your favorite EDM acts! Cover: Alesso x John Newman
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,796 likes - 76 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,805 likes - 76 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 2 | [Try Everything](https://open.spotify.com/track/0kY3ZIOomJdziCeOYjuq6o) | [Jimmy KUAN](https://open.spotify.com/artist/0RvW6NX5Txwg455rTgalox) | [Try Everything](https://open.spotify.com/album/4CBWh3sJuSdmcA1pPCmA8M) | 3:47 |
 | 3 | [MIND YOUR BUSINESS](https://open.spotify.com/track/6SihMpwoVMy75GwvBXFxJ4) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA), [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [MIND YOUR BUSINESS](https://open.spotify.com/album/3ecBg8wGhu2TrZxFmEFA7h) | 3:15 |
 | 4 | [Call Me](https://open.spotify.com/track/4wJwh34rm2dDZbYh8Kxzh4) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [Call Me](https://open.spotify.com/album/6g9D1wN5E3s8fPvvRLCanx) | 2:53 |
-| 5 | [She Knows \- With Akon](https://open.spotify.com/track/3zkb0907pOJqU7m3Qh5hB7) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [She Knows \(With Akon\)](https://open.spotify.com/album/0pj4zHdT9FsFOkpA9Qic4F) | 2:15 |
+| 5 | [She Knows \- with Akon](https://open.spotify.com/track/3zkb0907pOJqU7m3Qh5hB7) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [She Knows \(with Akon\)](https://open.spotify.com/album/0pj4zHdT9FsFOkpA9Qic4F) | 2:15 |
 | 6 | [Aglow](https://open.spotify.com/track/5ytMbojsX5HtlvDPd5dam7) | [Shunichi Komazu](https://open.spotify.com/artist/12pmBFJ1S6dxyClYKSsusN), [Ardiyan](https://open.spotify.com/artist/00g1aTs2cVNUeCO1QhelxG), [Zoe](https://open.spotify.com/artist/3BORdvvXzwjXCTGMztDqRY) | [Aglow](https://open.spotify.com/album/7s1JNHj5Iymj6IK5O8ZdOF) | 2:17 |
 | 7 | [feel something real](https://open.spotify.com/track/5VvioUzVaqjG47o2apofIh) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [feel something real](https://open.spotify.com/album/52TOMnil8DaZdVWoP4oa9N) | 3:28 |
 | 8 | [U & I \- Sped Up](https://open.spotify.com/track/6eLtpiCjzpl1uhq9Q5DNH3) | [Nawrras Music](https://open.spotify.com/artist/3OViSm0E5Rt3wugziSjW2y), [Speed Up Unlimited](https://open.spotify.com/artist/18XJJZo4JaA9Yz8TPQmy95) | [U & I \(Sped Up\)](https://open.spotify.com/album/7tGeeAj5bTSf9fDkOvOFM7) | 2:15 |
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 45 | [Phone](https://open.spotify.com/track/0GTuyzPTs2G0wqFD1trSOw) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Phone](https://open.spotify.com/album/7ajeVOWfz9qfKlEXDBN5Uo) | 2:35 |
 | 46 | [Better Time](https://open.spotify.com/track/4VNitd6KZNDlAabGK4gK7c) | [Hurshel](https://open.spotify.com/artist/6z6uBfaMCKFCDIuHNYhRra) | [Better Time](https://open.spotify.com/album/7JI2ltlFmlDYzS51Q0j80n) | 3:16 |
 | 47 | [Take My Love](https://open.spotify.com/track/0osz6OhmqmYcmYoMU0MP74) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [Don't Tell Me EP](https://open.spotify.com/album/5PcAKVlSt3xticijD5emnd) | 3:14 |
-| 48 | [Good Life \- feat\. mimiko](https://open.spotify.com/track/15vktwvhLlloOkXlyvxZn1) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [mimiko](https://open.spotify.com/artist/455lBfYUwxeXcAnya8Aa9M) | [Traveling Without Moving](https://open.spotify.com/album/6VHlFWg2dznxkqwj6TadSZ) | 3:47 |
+| 48 | [Good Life \- feat\. mimiko](https://open.spotify.com/track/15vktwvhLlloOkXlyvxZn1) | [AmPm](https://open.spotify.com/artist/5Xcbv83o11Ez2XPHa1n8Pf), [mimiko](https://open.spotify.com/artist/7KXwqoQBwHj35MABELoo5I) | [Traveling Without Moving](https://open.spotify.com/album/6VHlFWg2dznxkqwj6TadSZ) | 3:47 |
 | 49 | [All or Nothing](https://open.spotify.com/track/0Kwq7KPBeyMbV38q9LQnaq) | [Aiobahn](https://open.spotify.com/artist/3AMFQZ3Tt549kShRG2IBYT), [Guy Arthur](https://open.spotify.com/artist/7I82CsIAyE2RTFwtP6gcrP), [SGNLS](https://open.spotify.com/artist/4Gr5otnLxK9f0fLpm9jK74) | [All or Nothing](https://open.spotify.com/album/7cnlX7Jz1kd1VbIzI6w2R2) | 3:03 |
 | 50 | [Unstoppable](https://open.spotify.com/track/1sLFzxbXKvOeTkDgnsKbXI) | [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Unstoppable](https://open.spotify.com/album/01onMvpJIQJ8KEznfzLC3U) | 3:08 |
 | 51 | [Westside Story](https://open.spotify.com/track/0IS0PXQLPjMyc2Zq7r0oQy) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Westside Story](https://open.spotify.com/album/1GvHNHkgLAbFVWsyfcruxa) | 4:02 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW668oFRU96k.md) - [plain]
 | 75 | [Higher Than Ever Before](https://open.spotify.com/track/0H2idlyIDxyotmpAJ2NUeh) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Alchemy](https://open.spotify.com/album/5RMkjbbZvLo9TNdpKrmP71) | 3:16 |
 | 76 | [One Chance \(feat\. Marlhy\)](https://open.spotify.com/track/2PqmZr6uk48GxTmvZRYjfd) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg), [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Marlhy](https://open.spotify.com/artist/1fvH6NeNDohKGKwvRiebRA) | [One Chance \(feat\. Marlhy\)](https://open.spotify.com/album/0BYFccSPThA43XhTzn6gfu) | 3:40 |
 
-Snapshot ID: `MCwxZDdhOTE4NmE1Mzk1OTQyYTE5ZmI3NTQ0MmVmNGRlY2U2NGU1NTEz`
+Snapshot ID: `MCxhYTEyOTNlMDUxMzY5ZDY3YTk1OWNiMGVmZGZkOGM2NGI5Njg4MTU3`

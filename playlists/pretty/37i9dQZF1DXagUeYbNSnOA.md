@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring La Clase Loka\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,358 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,359 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 31 | [Encadenados](https://open.spotify.com/track/7E2tioPhEkj7BjmIqsa5LM) | [The Soul Brothers](https://open.spotify.com/artist/4qyyx2In3fnMlPjQBfppNn) | [Encadenados](https://open.spotify.com/album/4ctyfYDZy5hm3oaiwBYvJo) | 7:24 |
 | 32 | [Olvidé Olvidarnos](https://open.spotify.com/track/7mNkhBTpvXAqv8cj8fCDKh) | [Cempasúchil](https://open.spotify.com/artist/64mAC41dkGStdl5Fb9y5TJ) | [Olvidé Olvidarnos](https://open.spotify.com/album/2xOdlPA6ZXCt5JOiecotNa) | 3:08 |
 | 33 | [Tiempo Al Tiempo](https://open.spotify.com/track/7LS9HE5QzpUk2QohfrJ4Jz) | [Fukin Keno](https://open.spotify.com/artist/7J72RGmvNnos8DqvLVGg9q) | [Tiempo Al Tiempo](https://open.spotify.com/album/7mPEIFAx8WFig83SEqY5z5) | 2:24 |
-| 34 | [Si Te Quedas](https://open.spotify.com/track/2GS3KILurD7wWGJJSJZfss) | [YoGambii](https://open.spotify.com/artist/5RuWFvTN5tmKqn0KUfNruD) | [Si Te Quedas](https://open.spotify.com/album/3VqB0J3qwiUbBFtT8IPdvT) | 2:09 |
-| 35 | [Anoche](https://open.spotify.com/track/5dfBBAXwRXV4ZcgUG05FbV) | [Sueters](https://open.spotify.com/artist/6ZwMCBDg17a0DkCUUg36Lr) | [Anoche](https://open.spotify.com/album/4LpkrvNC4WiTomdX071ndr) | 3:36 |
+| 34 | [Anoche](https://open.spotify.com/track/5dfBBAXwRXV4ZcgUG05FbV) | [Sueters](https://open.spotify.com/artist/6ZwMCBDg17a0DkCUUg36Lr) | [Anoche](https://open.spotify.com/album/4LpkrvNC4WiTomdX071ndr) | 3:36 |
+| 35 | [Si Te Quedas](https://open.spotify.com/track/2GS3KILurD7wWGJJSJZfss) | [YoGambii](https://open.spotify.com/artist/5RuWFvTN5tmKqn0KUfNruD) | [Si Te Quedas](https://open.spotify.com/album/3VqB0J3qwiUbBFtT8IPdvT) | 2:09 |
 | 36 | [Casualidad](https://open.spotify.com/track/3qs4Pq7AwvrYhddiLUmUtJ) | [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [Casualidad](https://open.spotify.com/album/5NmrgtARnyTFbmgTxoGhki) | 2:48 |
 | 37 | [El Momento](https://open.spotify.com/track/5ivRdJj7OXU78k4e3nbknX) | [Lady Ant](https://open.spotify.com/artist/5xNT61iNuxz65g5rnhL7yZ) | [El Momento](https://open.spotify.com/album/31GPiBCGfapGfkc1pHPbic) | 3:23 |
 | 38 | [Déjame Contarte](https://open.spotify.com/track/5zGsC5MNKxkHoN2gmv32vt) | [Dariana López](https://open.spotify.com/artist/2Sji5jFULGdEMRZj5RonoR) | [Déjame Contarte](https://open.spotify.com/album/5UZtHAjFU93SIvHyhatIuz) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [una y diez](https://open.spotify.com/track/5wuSHFYAS3kmPZBeWjts0v) | [LUANDA](https://open.spotify.com/artist/4uafDYiyPmfiBC9XJPxtsp) | [una y diez](https://open.spotify.com/album/3qUSxcib4jTzSGR2BFGRqa) | 2:39 |
 | 50 | [VAPOREON.mp3](https://open.spotify.com/track/7nxhYPFor2yKZQH7LTbCd5) | [ZOMBI3X](https://open.spotify.com/artist/69ibXoT30zlJBV5b3NMtIf), [RIIP DIEGO](https://open.spotify.com/artist/6faQ0OraxrYdQotaRRgoFS), [Oskan](https://open.spotify.com/artist/2xoCPQQ8DkXM9snPiO1f40), [Loztt](https://open.spotify.com/artist/1X6549jfWP5mOzXH6aPvdX), [Konyu](https://open.spotify.com/artist/4ev84wnlNd7LEjovGmG0fA) | [VAPOREON.mp3](https://open.spotify.com/album/1T59ousWzvRAixEZIgSogz) | 3:40 |
 
-Snapshot ID: `MCw3Y2ViY2M5OTgyNWFhMWVhNTFmMzNjMmVlNjVmZGMwOGRmNzA4YTk4`
+Snapshot ID: `MCw2ZGE3ZTA5MjRkNDYwZGRjZTEzMWEyYjVjYjAxYTc2ZmEwY2E0YzQx`

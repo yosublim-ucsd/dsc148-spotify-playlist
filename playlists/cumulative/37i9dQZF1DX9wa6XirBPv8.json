@@ -160,7 +160,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 202573,
       "name": "All over You",
       "url": "https://open.spotify.com/track/4b9jRNwMUvABxTD1amyfA6"
@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Decadence",
+        "url": "https://open.spotify.com/album/4PQJiFSYykABCgha6bU4O6"
+      },
+      "artists": [
+        {
+          "name": "Head Automatica",
+          "url": "https://open.spotify.com/artist/2cyaobEho8uxhqLxwG7j6i"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203733,
+      "name": "Beating Heart Baby",
+      "url": "https://open.spotify.com/track/24efdUt3KGbZ6wnBLp6j2n"
+    },
+    {
+      "album": {
         "name": "Bike Scene (Demo)",
         "url": "https://open.spotify.com/album/0blqJN15msLvbOeEsXJHjB"
       },
@@ -340,7 +358,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 179986,
       "name": "Buried a Lie",
       "url": "https://open.spotify.com/track/2y8VWxzuw49UaIc4F5QIQk"
@@ -430,10 +448,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-15",
+      "date_removed": null,
       "duration_ms": 187546,
       "name": "Can't Be Saved",
       "url": "https://open.spotify.com/track/63k8KXOgawK2cNtvm2ZW8y"
+    },
+    {
+      "album": {
+        "name": "Colourmeinkindness",
+        "url": "https://open.spotify.com/album/5uRI7KHcBALPpwhAB9RKnb"
+      },
+      "artists": [
+        {
+          "name": "Basement",
+          "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227340,
+      "name": "Covet",
+      "url": "https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF"
     },
     {
       "album": {
@@ -484,10 +520,28 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 180266,
       "name": "Dance, Dance",
       "url": "https://open.spotify.com/track/5Xbx9mAWoTiLbMOMQofoE6"
+    },
+    {
+      "album": {
+        "name": "Best Buds",
+        "url": "https://open.spotify.com/album/0KzElSxcfAvleUIuOg0TOQ"
+      },
+      "artists": [
+        {
+          "name": "Mom Jeans.",
+          "url": "https://open.spotify.com/artist/6PsktPFR0UZptKdSqmlS5h"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276000,
+      "name": "Death Cup",
+      "url": "https://open.spotify.com/track/19aUuDd6udp1ACNo9t3IuZ"
     },
     {
       "album": {
@@ -502,7 +556,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-16",
+      "date_removed": null,
       "duration_ms": 209626,
       "name": "Devotion And Desire",
       "url": "https://open.spotify.com/track/27O9FuS1UIm6ZyLplgLQAH"
@@ -596,6 +650,24 @@
       "duration_ms": 192000,
       "name": "Face Down",
       "url": "https://open.spotify.com/track/4wzjNqjKAKDU82e8uMhzmr"
+    },
+    {
+      "album": {
+        "name": "Never Hungover Again",
+        "url": "https://open.spotify.com/album/6cPoZUF1MLvQvXkfDGHwsf"
+      },
+      "artists": [
+        {
+          "name": "Joyce Manor",
+          "url": "https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148120,
+      "name": "Falling in Love Again",
+      "url": "https://open.spotify.com/track/2M0IWOmIi079R1MaPVlOW3"
     },
     {
       "album": {
@@ -880,7 +952,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 199959,
       "name": "I Just Wanna Run",
       "url": "https://open.spotify.com/track/2S4CfxZG29GZWwDeMtBq2R"
@@ -1024,7 +1096,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-17",
+      "date_removed": null,
       "duration_ms": 298413,
       "name": "In Circles - Remastered",
       "url": "https://open.spotify.com/track/7MtlureL5VXmDnyoUeBxsd"
@@ -1467,6 +1539,24 @@
     },
     {
       "album": {
+        "name": "Dear Diary, My Teen Angst Has A Body Count",
+        "url": "https://open.spotify.com/album/0Q6C8p6g47jEOU6G7SoRrS"
+      },
+      "artists": [
+        {
+          "name": "From First To Last",
+          "url": "https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233762,
+      "name": "Note to Self",
+      "url": "https://open.spotify.com/track/7hZ1JuwJm4hZsS8IHnKDt3"
+    },
+    {
+      "album": {
         "name": "Ocean Avenue",
         "url": "https://open.spotify.com/album/24IBCzEJlHBI0ioxlSuSPA"
       },
@@ -1593,6 +1683,24 @@
     },
     {
       "album": {
+        "name": "Tigers Jaw",
+        "url": "https://open.spotify.com/album/431AISQsFUi33lirU9vNI5"
+      },
+      "artists": [
+        {
+          "name": "Tigers Jaw",
+          "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122680,
+      "name": "Plane Vs. Tank Vs. Submarine",
+      "url": "https://open.spotify.com/track/1JxUKhB7QGd082YGskroob"
+    },
+    {
+      "album": {
         "name": "The Lonesome Crowded West",
         "url": "https://open.spotify.com/album/5mvHTVy1iUIkAflIufoOpj"
       },
@@ -1604,7 +1712,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 209960,
       "name": "Polar Opposites",
       "url": "https://open.spotify.com/track/5EsM3rVaMDRsOXJq7oe3tY"
@@ -1658,7 +1766,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-10",
+      "date_removed": null,
       "duration_ms": 232200,
       "name": "Punk Rock Princess",
       "url": "https://open.spotify.com/track/07oVZP9Er2Fz8S59ePWLyK"
@@ -1676,7 +1784,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 281040,
       "name": "Radio",
       "url": "https://open.spotify.com/track/3VVstQ0fpj4pdSPe2QZT5z"
@@ -1766,7 +1874,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-24",
+      "date_removed": null,
       "duration_ms": 192786,
       "name": "Seven Years",
       "url": "https://open.spotify.com/track/0C71NJD4BhvPopTwI7a8KV"
@@ -1838,7 +1946,7 @@
       ],
       "date_added": "2022-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 205209,
       "name": "Skyway Avenue",
       "url": "https://open.spotify.com/track/3RQFICPJMsBazO66qK808s"
@@ -1899,6 +2007,24 @@
     },
     {
       "album": {
+        "name": "The Artist In The Ambulance",
+        "url": "https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA"
+      },
+      "artists": [
+        {
+          "name": "Thrice",
+          "url": "https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203240,
+      "name": "Stare At The Sun",
+      "url": "https://open.spotify.com/track/0FXSU5PXzvKl3CpA5h3Hqx"
+    },
+    {
+      "album": {
         "name": "From Here to Infirmary",
         "url": "https://open.spotify.com/album/74FavWuKZGG8tp3jpMVzN4"
       },
@@ -1910,7 +2036,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-02",
+      "date_removed": null,
       "duration_ms": 143533,
       "name": "Stupid Kid",
       "url": "https://open.spotify.com/track/504aMSptpjhMNdtYvbXzjv"
@@ -2162,7 +2288,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-15",
+      "date_removed": null,
       "duration_ms": 257693,
       "name": "The Difference Between Medicine And Poison Is In The Dose",
       "url": "https://open.spotify.com/track/3SizB9Beb0HZHww3PjoXbQ"
@@ -2274,6 +2400,24 @@
       "duration_ms": 168253,
       "name": "The Middle",
       "url": "https://open.spotify.com/track/5kD9T7GForh8LnRz5ClbL8"
+    },
+    {
+      "album": {
+        "name": "Brand New Eyes",
+        "url": "https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267653,
+      "name": "The Only Exception",
+      "url": "https://open.spotify.com/track/7JIuqL4ZqkpfGKQhYlrirs"
     },
     {
       "album": {
@@ -2404,6 +2548,24 @@
     {
       "album": {
         "name": "Crisis",
+        "url": "https://open.spotify.com/album/1eAMmJv65w0W2w50HDmTEw"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243466,
+      "name": "This Could Be Anywhere In The World",
+      "url": "https://open.spotify.com/track/6hKnIY2Ssrmqw2TYXW0K5e"
+    },
+    {
+      "album": {
+        "name": "Crisis",
         "url": "https://open.spotify.com/album/5KlHprkUumEKWLTWT1bjGf"
       },
       "artists": [
@@ -2436,6 +2598,24 @@
       "duration_ms": 203506,
       "name": "Thnks fr th Mmrs",
       "url": "https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP"
+    },
+    {
+      "album": {
+        "name": "Transatlanticism (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5UKAhD2VmFAuThgq4OQyEe"
+      },
+      "artists": [
+        {
+          "name": "Death Cab for Cutie",
+          "url": "https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 475093,
+      "name": "Transatlanticism",
+      "url": "https://open.spotify.com/track/4LF1dMlOHe8VfmMut7YiIs"
     },
     {
       "album": {
@@ -2594,7 +2774,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 269026,
       "name": "What It Is To Burn - New Version",
       "url": "https://open.spotify.com/track/2DGFNAg4pTPLFKPeQRbGDZ"

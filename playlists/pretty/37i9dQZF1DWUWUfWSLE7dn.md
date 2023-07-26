@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWUfWSLE7dn.md) - [plain]
 
 > Scores and soundtracks for daring quests, epic journeys, and the greatest reading adventures.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,713 likes - 52 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,034 likes - 52 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWUfWSLE7dn.md) - [plain]
 | 30 | [Once Upon a Time..\. Storybook Love](https://open.spotify.com/track/1BqKefd5oV2c3nu0M3i563) | [Mark Knopfler](https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug) | [Screenplaying](https://open.spotify.com/album/0SiPnLSrn9us9PBus8VkbI) | 4:00 |
 | 31 | [Coming Home](https://open.spotify.com/track/45jrXtFx8ERLW66AF4r53F) | [Inon Zur](https://open.spotify.com/artist/5tzixIjD4uBPCqZTljYvQi) | [The Elder Scrolls Blades: Original Game Soundtrack](https://open.spotify.com/album/6zBhT9ZcGURdtZjA0q1JlG) | 3:14 |
 | 32 | [Hometown Hero](https://open.spotify.com/track/0LMCBbY32nJJlGTQLc8MgV) | [William Ross](https://open.spotify.com/artist/2cmxX7dd4i6kexfulvdpZg) | [My Dog Skip \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4Jed2zOJ0h2XudOaMHt5vP) | 1:59 |
-| 33 | [Tristan & Yvaine](https://open.spotify.com/track/6svHFFWix7M7Jey0mHx1bd) | [Ilan Eshkeri](https://open.spotify.com/artist/147dKKwnUn9qesNx8uAs3Z), [London Metropolitan Orchestra](https://open.spotify.com/artist/3fYr24qYhJejxewFrckFE4), [Andy Brown](https://open.spotify.com/artist/6u83LnSsShAAixAassk1pB) | [Stardust \- Music From The Motion Picture](https://open.spotify.com/album/0HBJxR0Sm2tUcrL5wGOPof) | 2:05 |
+| 33 | [Eshkeri: Tristan & Yvaine](https://open.spotify.com/track/6svHFFWix7M7Jey0mHx1bd) | [Ilan Eshkeri](https://open.spotify.com/artist/147dKKwnUn9qesNx8uAs3Z), [London Metropolitan Orchestra](https://open.spotify.com/artist/3fYr24qYhJejxewFrckFE4), [Andy Brown](https://open.spotify.com/artist/6u83LnSsShAAixAassk1pB) | [Stardust \- Music From The Motion Picture](https://open.spotify.com/album/0HBJxR0Sm2tUcrL5wGOPof) | 2:05 |
 | 34 | [Feast of Starlight](https://open.spotify.com/track/1hOavq1yyy1GqzjVpx3vjq) | [Howard Shore](https://open.spotify.com/artist/0OcclcP5o8VKH2TRqSY2A7) | [The Hobbit: The Desolation of Smaug \(Original Motion Picture Soundtrack\) \[Special Edition\]](https://open.spotify.com/album/3MCUHjDo3wSm2QuLh1Fyrf) | 2:48 |
 | 35 | [Dumbledore's Farewell](https://open.spotify.com/track/0bmb8jg6ljmt8qBmIsMNvL) | [Nicholas Hooper](https://open.spotify.com/artist/6S9bLkEZSVIcY18RNcNG50) | [Harry Potter and the Half\-Blood Prince \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2xXblCIb5G6ji70efT7THx) | 2:22 |
 | 36 | [When I Sail](https://open.spotify.com/track/0DMQWtHyI2OoEoAeFuI72Q) | [Clinton Shorter](https://open.spotify.com/artist/23Vu6ClvSnmNSbz3ODd3iJ) | [The Expanse Season 4 \(Music From The Amazon Original Series\)](https://open.spotify.com/album/1lQXSh4P7wmUNGrW3msSOV) | 1:26 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWUfWSLE7dn.md) - [plain]
 | 51 | [Bathsheba and Oak Unite](https://open.spotify.com/track/5EdYF3AG4xOETuvBHukWZn) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [Far from the Madding Crowd \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4J9mOsvXXsEy7ocReEwBBP) | 1:35 |
 | 52 | [The Grey Havens](https://open.spotify.com/track/2Slmu6R8mf90wskb1xk6aB) | [Chance Thomas](https://open.spotify.com/artist/1VPqJ10EqqXOQNDw1ppYeh) | [The Lord of the Rings Online \(10th Anniversary Commemorative Soundtrack\)](https://open.spotify.com/album/1lkI0MpnnccE364waiYGOY) | 2:18 |
 
-Snapshot ID: `MCwwYzRjNmU2M2ZhMzU3ODMwZmI1MjBiOTQ2NzkxNGMyZDM1MmY2ZWQx`
+Snapshot ID: `MCw1MTEyZjFmYzAxYzdkNmFkYzczNGI2OGE0ZTYyN2M3NmU3YWYwZmI3`

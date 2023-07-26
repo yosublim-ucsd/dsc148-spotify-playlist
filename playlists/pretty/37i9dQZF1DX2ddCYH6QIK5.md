@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: Ronja, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,962 likes - 80 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,980 likes - 80 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Island](https://open.spotify.com/track/4rCFE6QdmNcPjRPr0uYHQz) | [MIBLU](https://open.spotify.com/artist/3HoYVojQrcPcPHFiO26sJh) | [Island](https://open.spotify.com/album/4cYz3DPXtRUse4uziYKMKw) | 1:57 |
 | 80 | [ICH JAGE EINEN ZUG IN DIE LUFT](https://open.spotify.com/track/0vh7IEWBOUBMmPx5x0Eaqo) | [Peat](https://open.spotify.com/artist/63PWHfegUNVId6jDiZLOCL) | [WEICH](https://open.spotify.com/album/7ffhILR3RMdTQCWRQyui6d) | 2:46 |
 
-Snapshot ID: `MCw2MzI1ODQ4NTM2ZGQyNTJhNTQzMTAzZjU5YjlkYzY1NGIxYjg0ZjMx`
+Snapshot ID: `MCwzZWRhOWVlODVlYTA5MDIxNDcxN2RmMDJkODA4MmY2OWU5NWY2ZDZk`

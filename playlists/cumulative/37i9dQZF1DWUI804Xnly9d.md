@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai
 
-144 songs - 8 hr 3 min
+145 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Aye Ajnabi](https://open.spotify.com/track/2pifOwXzqTdRHnVWXWoozl) | [Azadd](https://open.spotify.com/artist/03iLvvBbav8KGD0s6j8bPA) | [Aye Ajnabi](https://open.spotify.com/album/1n55d51MmvrGDqKba3Fx5W) | 2:56 | 2023-05-31 |  |
 | [Baarish Ki Boondein](https://open.spotify.com/track/18FhNEar51YMYXureTvkIn) | [Vibhas Arora](https://open.spotify.com/artist/5XNdEnoXYNrEm253PGukm3) | [Baarish Ki Boondein](https://open.spotify.com/album/178HTP7ToLI97nK9HySr0m) | 3:28 | 2023-07-07 |  |
 | [Baarishein \(Acoustic\)](https://open.spotify.com/track/3Ro0jYDrZcygFkdomURHqt) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Baarishein \(Acoustic\)](https://open.spotify.com/album/2YzCwXR0mLizrGV0sRVF2I) | 3:29 | 2023-07-14 |  |
-| [Baarishein Lana](https://open.spotify.com/track/6RuodKizBBkchDPm4a39m0) | [Reshabh Chhabra](https://open.spotify.com/artist/0CH9aQmuz1i2RyBW4dOtIk) | [Baarishein Lana](https://open.spotify.com/album/2dytF2kzDYrmyD5jlSbvOZ) | 3:08 | 2023-07-05 |  |
+| [Baarishein Lana](https://open.spotify.com/track/6RuodKizBBkchDPm4a39m0) | [Reshabh Chhabra](https://open.spotify.com/artist/0CH9aQmuz1i2RyBW4dOtIk) | [Baarishein Lana](https://open.spotify.com/album/2dytF2kzDYrmyD5jlSbvOZ) | 3:08 | 2023-07-05 | 2023-07-26 |
 | [Baarishon Mein](https://open.spotify.com/track/5vy3eZEsqsDH06DVtyvuLj) | [Gurashish Singh](https://open.spotify.com/artist/2HZX9rmB8FMz1C7Oq6q3Ir), [Vidur Anand](https://open.spotify.com/artist/3PzaEhia9yDWE1BMmadPEL) | [Baarishon Mein](https://open.spotify.com/album/28cnP6Q0Nk6D0Ty7spGDWq) | 3:43 | 2023-07-13 |  |
 | [Baat Itni Si Hai \- Unplugged](https://open.spotify.com/track/2xkyznh2fVteFDmWjUlZ9U) | [Twin Strings](https://open.spotify.com/artist/0cPN6x5LmDIZjp6gFmAkqw) | [Baat Itni Si Hai \(Unplugged\)](https://open.spotify.com/album/0rjJuTIRRXK6KOv3UuUSvC) | 3:47 | 2023-05-17 |  |
 | [Back To College](https://open.spotify.com/track/6UXNYzUEn7WMmdrA3d52vE) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh) | [Back To College](https://open.spotify.com/album/4YstqbeaEbhxWhZrihruzM) | 3:01 | 2023-05-17 | 2023-06-07 |
@@ -95,6 +95,7 @@
 | [Meherbaan](https://open.spotify.com/track/0wJ9ScQ2fMJspiwOU1oO12) | [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv), [Sonu Kakkar](https://open.spotify.com/artist/1Pn6pKlgzxcH6iIRp08dQr), [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Amjad Bagadwa](https://open.spotify.com/artist/1ShV4w1KY1Sofk04H6qzdL) | [Meherbaan](https://open.spotify.com/album/0YxC1L4SSsWUrg5OgoyTEi) | 2:56 | 2023-05-25 | 2023-06-06 |
 | [Mein Aur Tum](https://open.spotify.com/track/2xb679KGUYTQUXeJK0IqMo) | [Kushal Chokshi](https://open.spotify.com/artist/3O4inKp31pcolbyohgKuYa) | [Mein Aur Tum](https://open.spotify.com/album/7JjirikQXBXGNkoSHMmTFm) | 2:49 | 2023-05-17 | 2023-05-26 |
 | [Meri Jaan](https://open.spotify.com/track/3uilAC3xBH3PclTwcOZLPG) | [Nitin Sharma](https://open.spotify.com/artist/3MJdIBBwnU6bgvdZ5Opq1b), [Swati Marwal](https://open.spotify.com/artist/5AaZWpvlOxpKkBYfBR3PDQ) | [Meri Jaan \- Single](https://open.spotify.com/album/20JpqXx3m3XsWEROa6JCfd) | 3:17 | 2023-05-17 | 2023-06-10 |
+| [Milke Jana](https://open.spotify.com/track/6nZQeNdsgaTFvCenGKFmU5) | [Sparsh Jain](https://open.spotify.com/artist/2f8uBrO8Mb5D0TOwEgiD19) | [Milke Jana](https://open.spotify.com/album/22oi49hSGGw8MOpL08zYDN) | 3:10 | 2023-07-25 |  |
 | [Moonrise \- Acoustic Version](https://open.spotify.com/track/0lyVQP4aWjnbW3T3a21wh9) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Moonrise \(Acoustic Version\)](https://open.spotify.com/album/40UTvukiFB88tuyc3oN2NJ) | 2:44 | 2023-05-17 |  |
 | [Mujhe Mere Naam Se](https://open.spotify.com/track/3QaIy5RwASN8UuRVuw5BHz) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Mujhe Mere Naam Se](https://open.spotify.com/album/6KGAJk0rHos4UNZErML5Ap) | 3:43 | 2023-05-17 |  |
 | [Muntazir](https://open.spotify.com/track/3PonH7yz2s72SOlmpe15g1) | [Gagan Baderiya](https://open.spotify.com/artist/0288VNkaL5hm0SBDGEv5uq), [Debasish Mishra](https://open.spotify.com/artist/6py2MHhbiiwkAtcyAZmFAO), [Nesz](https://open.spotify.com/artist/2G3O79IP2hfuZjJ7RyjZWj) | [Muntazir](https://open.spotify.com/album/1VxmU9VcPqLGyoZl3GbLhp) | 3:45 | 2023-05-22 |  |

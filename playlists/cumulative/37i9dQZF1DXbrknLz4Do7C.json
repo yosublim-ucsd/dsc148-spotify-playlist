@@ -1140,7 +1140,7 @@
     {
       "album": {
         "name": "Kingdom Book One (Deluxe)",
-        "url": "https://open.spotify.com/album/3w8cEFKC4JCLPKiOSOhWzh"
+        "url": "https://open.spotify.com/album/6yyl9jkkJYITe8z6dNDvIj"
       },
       "artists": [
         {
@@ -1159,6 +1159,32 @@
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 268865,
+      "name": "God's Got Us (feat. Chandler Moore)",
+      "url": "https://open.spotify.com/track/2hblLgMBErp2DQCWCjjmdy"
+    },
+    {
+      "album": {
+        "name": "Kingdom Book One (Deluxe)",
+        "url": "https://open.spotify.com/album/3w8cEFKC4JCLPKiOSOhWzh"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "date_added": "2022-12-01",
+      "date_added_asterisk": false,
+      "date_removed": "2023-07-26",
       "duration_ms": 268865,
       "name": "God's Got Us (feat. Chandler Moore)",
       "url": "https://open.spotify.com/track/5KmQTbZx32wyekcRD0pllw"

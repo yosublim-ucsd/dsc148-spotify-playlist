@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,375 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,380 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 42 | [Jurassic](https://open.spotify.com/track/7HcpoYSDvOks6YAE2A3JQn) | [NIKO NIKO TAN TAN](https://open.spotify.com/artist/1A6I0Pth32o41Soay7HhZb) | [Jurassic](https://open.spotify.com/album/6dgCSpkDbi4Y4WJpC24nZ8) | 2:57 |
 | 43 | [1\-100](https://open.spotify.com/track/6Fva1KtL0ryRQDJq13MTUW) | [FORD TRIO](https://open.spotify.com/artist/0bZ5ScqjtPLTNfTLEFiJJN) | [TAI TAI](https://open.spotify.com/album/4HDkV2t2petv9GJuAI831s) | 3:11 |
 | 44 | [R★STAR](https://open.spotify.com/track/786JuYz9Shz9pYpn0B8bdn) | [DALU](https://open.spotify.com/artist/0hdHoi970cAuqTINgtnLrm), [MOON](https://open.spotify.com/artist/6r5W7XKP7KNzxUby9XNzQd) | [R★STAR](https://open.spotify.com/album/25TmtkdwNibjDI9RcnFzCQ) | 3:07 |
-| 45 | [Tears](https://open.spotify.com/track/6c0ZFhceKoell7QaXI4ku9) | [tne engy](https://open.spotify.com/artist/4thuya8hRq4f4gUmccyrlw) | [Tears](https://open.spotify.com/album/0WApi0kl9qDEhBhk5RVPzV) | 4:17 |
+| 45 | [Tears](https://open.spotify.com/track/6c0ZFhceKoell7QaXI4ku9) | [the engy](https://open.spotify.com/artist/0SLHzcDJxE57ySNIP8tTxO) | [Tears](https://open.spotify.com/album/0WApi0kl9qDEhBhk5RVPzV) | 4:17 |
 | 46 | [Starlight](https://open.spotify.com/track/1z39usGi4dXhcBoGGJz97c) | [高井息吹](https://open.spotify.com/artist/7zfwhvxWePJ4CqKqkbndML) | [Starlight / yoakemae](https://open.spotify.com/album/0UiMGbnQYzC9kQYTpoaG6r) | 5:17 |
 | 47 | [Hashirimizu](https://open.spotify.com/track/5fkYMB9PzML9A8QvoPfJB2) | [Yamafutatsu](https://open.spotify.com/artist/75mN0rbQkBImvS8yohWlnP) | [Hashirimizu](https://open.spotify.com/album/1vlaBwdpatZ4HsUBVH3vJe) | 6:26 |
 | 48 | [ヒミツ \(tofubeats Remix\)](https://open.spotify.com/track/14f8zBk88PxBZtrg1oZYgv) | [Uilou](https://open.spotify.com/artist/3CdEu2bSpVDTmpSMWqFKCL), [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT) | [ヒミツ \(tofubeats Remix\)](https://open.spotify.com/album/0scUjW85sGBfvGExWa34OH) | 4:46 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [\#CONCAFE \- Remix](https://open.spotify.com/track/0sgpd2GnfHipEgFCwPncWy) | [DARE](https://open.spotify.com/artist/2zW8YcLjESJvIVlS6Qx7jv), [zakodoll](https://open.spotify.com/artist/0YMbl0nYpVHQVNQWv9Jz2I), [Tiger Roar Beats](https://open.spotify.com/artist/3ADg43onakfwtXhmC68Ptk) | [\#CONCAFE \(Remix\)](https://open.spotify.com/album/45HVsxzxVYmzIdpQulciFP) | 2:30 |
 | 60 | [eyes](https://open.spotify.com/track/2qkomBfK3Oca2IDKVnjnxF) | [safmusic](https://open.spotify.com/artist/6Iq2QcwNckedD5LwLDusw7), [fox4G](https://open.spotify.com/artist/2UpNMu0j9KUHodQicPHTTQ) | [eyes](https://open.spotify.com/album/3SbI4DgKegaI2trXdNtpwI) | 3:04 |
 
-Snapshot ID: `MCxkYzdjMGQyN2JmZTgzOTEyMDFlZmFmZTc2MjMxYWVhYmE1MzY2NmUy`
+Snapshot ID: `MCwyNzlmMTliNzI1OGRiOTJjMDE5ZDQ5NjViZDUyNGU1Y2Y3OGJmOTEz`

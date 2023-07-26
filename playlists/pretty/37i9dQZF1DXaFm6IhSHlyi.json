@@ -1,12 +1,12 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 140923,
+  "num_followers": 140952,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzQzMTAzOTA3N2IwMzY0Zjc2NGIzODc2N2MyOTcwMjgyN2UwY2E5",
+  "snapshot_id": "MCxlOGMwZDBhNDBjZjRkYzMxMDNiOTgxODZmYzhiZmIxNTBiOTRmMmY4",
   "tracks": [
     {
       "added_at": "2022-10-17 15:00:00",
@@ -571,6 +571,22 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
+        "name": "\u56a3\u5f20",
+        "url": "https://open.spotify.com/album/09KIrKBU3kamLtHV5IkHSp"
+      },
+      "artists": [
+        {
+          "name": "en",
+          "url": "https://open.spotify.com/artist/7z7tLLiBfmH0kZ2lNVs8LW"
+        }
+      ],
+      "duration_ms": 253994,
+      "name": "\u56a3\u5f20",
+      "url": "https://open.spotify.com/track/1vfUASvUGt3gxQ1x3T3u1C"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
         "name": "Meri Pyaari Bindu",
         "url": "https://open.spotify.com/album/5aB2ao1SUs9f4bAmptE1yM"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 264614,
       "name": "Maana Ke Hum Yaar Nahin",
       "url": "https://open.spotify.com/track/1O3WfEwaSpsgZ6tw8jNT8I"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "\u56a3\u5f20",
-        "url": "https://open.spotify.com/album/09KIrKBU3kamLtHV5IkHSp"
-      },
-      "artists": [
-        {
-          "name": "en",
-          "url": "https://open.spotify.com/artist/7z7tLLiBfmH0kZ2lNVs8LW"
-        }
-      ],
-      "duration_ms": 253994,
-      "name": "\u56a3\u5f20",
-      "url": "https://open.spotify.com/track/1vfUASvUGt3gxQ1x3T3u1C"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Con La Miel En Los Labios",
-        "url": "https://open.spotify.com/album/4pIf4sqEVKaTjXUgLsG6aD"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 202446,
-      "name": "Con La Miel En Los Labios",
-      "url": "https://open.spotify.com/track/5VOPzPBHcubxHK1BEru2G5"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "PINK PLANET",
         "url": "https://open.spotify.com/album/21iLTKX2O7LTHijlyXsbG1"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 169748,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/4oqf6MtycHSGQ1g1q6XFwc"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Con La Miel En Los Labios",
+        "url": "https://open.spotify.com/album/4pIf4sqEVKaTjXUgLsG6aD"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 202446,
+      "name": "Con La Miel En Los Labios",
+      "url": "https://open.spotify.com/track/5VOPzPBHcubxHK1BEru2G5"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Schritte",
-        "url": "https://open.spotify.com/album/20LClG6Zq5sVEGo2HDOtjY"
-      },
-      "artists": [
-        {
-          "name": "Silbermond",
-          "url": "https://open.spotify.com/artist/3GbUWWI1rMwAIPbUVPvnPA"
-        }
-      ],
-      "duration_ms": 225453,
-      "name": "In meiner Erinnerung",
-      "url": "https://open.spotify.com/track/7hEogFloi0A60JMFfgVi3l"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "\u0410 \u0435\u0441\u043b\u0438 \u044d\u0442\u043e \u043b\u044e\u0431\u043e\u0432\u044c?",
         "url": "https://open.spotify.com/album/3WTrVz82sYtWNhY5QWdOAf"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 240971,
       "name": "\u0410 \u0435\u0441\u043b\u0438 \u044d\u0442\u043e \u043b\u044e\u0431\u043e\u0432\u044c?",
       "url": "https://open.spotify.com/track/5Un71eDlbiGDEzZJzACuNp"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Schritte",
+        "url": "https://open.spotify.com/album/20LClG6Zq5sVEGo2HDOtjY"
+      },
+      "artists": [
+        {
+          "name": "Silbermond",
+          "url": "https://open.spotify.com/artist/3GbUWWI1rMwAIPbUVPvnPA"
+        }
+      ],
+      "duration_ms": 225453,
+      "name": "In meiner Erinnerung",
+      "url": "https://open.spotify.com/track/7hEogFloi0A60JMFfgVi3l"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 205583,
-      "name": "For You - Recorded At Spotify Studios Stockholm",
-      "url": "https://open.spotify.com/track/4AHIgOApMmqVfpvc1hxK6x"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "When Smoke Rises",
         "url": "https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 181372,
       "name": "Stay Alive",
       "url": "https://open.spotify.com/track/4SwVWcia2JyWFTNHkFZ2tA"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 205583,
+      "name": "For You - Recorded At Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/4AHIgOApMmqVfpvc1hxK6x"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Naaalala Ka / Maging Sino Ka Man (Spotify Jams: OPM Love Songs - Recorded at Kodama Studios, Philippines)",
-        "url": "https://open.spotify.com/album/6w1N1jNKdtg5vUQFOEG0ns"
-      },
-      "artists": [
-        {
-          "name": "Moira Dela Torre",
-          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
-        }
-      ],
-      "duration_ms": 287500,
-      "name": "Naaalala Ka / Maging Sino Ka Man (Spotify Jams: OPM Love Songs - Recorded at Kodama Studios, Philippines)",
-      "url": "https://open.spotify.com/track/3efCao3RLbsz52LQ66o8Ac"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Right There",
         "url": "https://open.spotify.com/album/4xGFzLizscpyGNhPmK7vZK"
       },
@@ -2015,6 +1999,22 @@
       "duration_ms": 239946,
       "name": "Right There",
       "url": "https://open.spotify.com/track/1LJlfMCNcVuIRTUJY3BmTX"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Naaalala Ka / Maging Sino Ka Man (Spotify Jams: OPM Love Songs - Recorded at Kodama Studios, Philippines)",
+        "url": "https://open.spotify.com/album/6w1N1jNKdtg5vUQFOEG0ns"
+      },
+      "artists": [
+        {
+          "name": "Moira Dela Torre",
+          "url": "https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc"
+        }
+      ],
+      "duration_ms": 287500,
+      "name": "Naaalala Ka / Maging Sino Ka Man (Spotify Jams: OPM Love Songs - Recorded at Kodama Studios, Philippines)",
+      "url": "https://open.spotify.com/track/3efCao3RLbsz52LQ66o8Ac"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2171,8 +2171,8 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Stories",
-        "url": "https://open.spotify.com/album/2bnab6jju2LE7NyFGjykqI"
+        "name": "How Is This Love ?",
+        "url": "https://open.spotify.com/album/4aTc14CgoXenF4HPuJzA2T"
       },
       "artists": [
         {
@@ -2180,29 +2180,13 @@
           "url": "https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D"
         },
         {
-          "name": "Belfa",
-          "url": "https://open.spotify.com/artist/6sBNAhdkb34YfSofjjZf9L"
+          "name": "Dylan Longworth",
+          "url": "https://open.spotify.com/artist/41G8BJILf7hhwCit2mViIH"
         }
       ],
-      "duration_ms": 178906,
-      "name": "Stories",
-      "url": "https://open.spotify.com/track/5bwb4M1BhqVfjLmR3N1n6B"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
-        "name": "Day By Day",
-        "url": "https://open.spotify.com/album/37xHrWe3x5HMq8Eg7b8PWb"
-      },
-      "artists": [
-        {
-          "name": "Bigman",
-          "url": "https://open.spotify.com/artist/3wdiLqjRgb0Zcxj6ZgODFU"
-        }
-      ],
-      "duration_ms": 218501,
-      "name": "Day By Day",
-      "url": "https://open.spotify.com/track/66aVhQYpkvr6ZkxX5g8edl"
+      "duration_ms": 195273,
+      "name": "How Is This Love ?",
+      "url": "https://open.spotify.com/track/2lD4UJXfytonquvY7HQdGO"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2223,6 +2207,22 @@
       "duration_ms": 163366,
       "name": "I See The Dream (Badna Salam) (feat. Ali Gatie) - Acoustic",
       "url": "https://open.spotify.com/track/00Uz6dZGLeIJxWV1FnsqgM"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Day By Day",
+        "url": "https://open.spotify.com/album/37xHrWe3x5HMq8Eg7b8PWb"
+      },
+      "artists": [
+        {
+          "name": "Bigman",
+          "url": "https://open.spotify.com/artist/3wdiLqjRgb0Zcxj6ZgODFU"
+        }
+      ],
+      "duration_ms": 218501,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/66aVhQYpkvr6ZkxX5g8edl"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2291,8 +2291,8 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "How Is This Love ?",
-        "url": "https://open.spotify.com/album/4aTc14CgoXenF4HPuJzA2T"
+        "name": "Stories",
+        "url": "https://open.spotify.com/album/2bnab6jju2LE7NyFGjykqI"
       },
       "artists": [
         {
@@ -2300,13 +2300,13 @@
           "url": "https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D"
         },
         {
-          "name": "Dylan Longworth",
-          "url": "https://open.spotify.com/artist/41G8BJILf7hhwCit2mViIH"
+          "name": "Belfa",
+          "url": "https://open.spotify.com/artist/6sBNAhdkb34YfSofjjZf9L"
         }
       ],
-      "duration_ms": 195273,
-      "name": "How Is This Love ?",
-      "url": "https://open.spotify.com/track/2lD4UJXfytonquvY7HQdGO"
+      "duration_ms": 178906,
+      "name": "Stories",
+      "url": "https://open.spotify.com/track/5bwb4M1BhqVfjLmR3N1n6B"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2423,18 +2423,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Burnout",
-        "url": "https://open.spotify.com/album/6k47ejXCq00U0GjjDlhBdJ"
+        "name": "Cardamom Tea",
+        "url": "https://open.spotify.com/album/0O1cH9xGBP2R9op3r2p3bq"
       },
       "artists": [
         {
-          "name": "Calby",
-          "url": "https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa"
+          "name": "Dania",
+          "url": "https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx"
         }
       ],
-      "duration_ms": 187535,
-      "name": "The Everyday Bit",
-      "url": "https://open.spotify.com/track/0FA50lbxlU1lY24uhT8nkp"
+      "duration_ms": 221714,
+      "name": "Cardamom Tea",
+      "url": "https://open.spotify.com/track/66ny3dMX2VHExd8qX9KaTh"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2459,18 +2459,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Cardamom Tea",
-        "url": "https://open.spotify.com/album/0O1cH9xGBP2R9op3r2p3bq"
+        "name": "Burnout",
+        "url": "https://open.spotify.com/album/6k47ejXCq00U0GjjDlhBdJ"
       },
       "artists": [
         {
-          "name": "Dania",
-          "url": "https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx"
+          "name": "Calby",
+          "url": "https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa"
         }
       ],
-      "duration_ms": 221714,
-      "name": "Cardamom Tea",
-      "url": "https://open.spotify.com/track/66ny3dMX2VHExd8qX9KaTh"
+      "duration_ms": 187535,
+      "name": "The Everyday Bit",
+      "url": "https://open.spotify.com/track/0FA50lbxlU1lY24uhT8nkp"
     },
     {
       "added_at": "2022-10-17 15:00:00",

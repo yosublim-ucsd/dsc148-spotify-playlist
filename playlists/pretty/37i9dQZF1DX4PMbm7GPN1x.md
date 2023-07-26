@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PMbm7GPN1x.md) - [plain]
 
 ### [Disco Deewane](https://open.spotify.com/playlist/37i9dQZF1DX4PMbm7GPN1x)
 
-> Relive the disco era with these superhits\. Cover \- Bappi Lahiri
+> Relive the disco era with these superhits\. Cover \- Disco Dancer
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,528 likes - 48 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,543 likes - 48 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PMbm7GPN1x.md) - [plain]
 | 47 | [Bongo Bongo](https://open.spotify.com/track/3jZbbZ05FQ0Qo8h6xiaHcE) | [Asha Bhosle](https://open.spotify.com/artist/5as8A4G47Ohu9NSWs3Je8U) | [Qaidi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3uMoa1ydIsv8YHks7iq0MI) | 5:05 |
 | 48 | [Y.O.G.A\. / Dialogue : Aurat Ke Khoobsurati \(Haadsaa\) \- Haadsaa / Soundtrack Version](https://open.spotify.com/track/6lcmNYpKOZTPOHoXh13V3Y) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Haadsaa](https://open.spotify.com/album/5nJU3UwPAn7lxPqI7TUI7B) | 6:04 |
 
-Snapshot ID: `MCwzZTFmZjkxZjY4MTE5ZWVhNTkzZjQ1OWZmMGYwM2EzOWY3ZDFhZjI5`
+Snapshot ID: `MCwyMzI5OGZlOTUzMDBmNmY4NDZmMjRkZWNiNGNjMDEzMTIwNjBlOGEx`

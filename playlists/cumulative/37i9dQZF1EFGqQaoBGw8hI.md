@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-601 songs - 1 day 18 hr 18 min
+602 songs - 1 day 18 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,7 +313,7 @@
 | [Look Ma, No Hands](https://open.spotify.com/track/07p0uEk2UznuI56V5Xly3B) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 4:22 | 2022-09-08 |  |
 | [Looking Up](https://open.spotify.com/track/5fOsO9KAvay8VY7Wr6p3BY) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Wonderful Crazy Night \(Deluxe\)](https://open.spotify.com/album/2n7B7svtcYIrYJFtYREauV) | 4:06 | 2022-09-08 |  |
 | [Lord Of The Flies](https://open.spotify.com/track/0FMPjB9iuFP01ware69epp) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 4:40 | 2022-11-16 |  |
-| [Loučení](https://open.spotify.com/track/4intsoHfgFi43gtk5OCE7i) | [Zora Jandová](https://open.spotify.com/artist/50LmFlbKjhGBX8vlRHDNWz), [Martin Stropnický](https://open.spotify.com/artist/7Jj9aiJaRi6CZlmMnJWqSL) | [Tisíckrát](https://open.spotify.com/album/1VVAd7oKlLjsU037Nx058X) | 3:49 | 2023-06-05 |  |
+| [Loučení](https://open.spotify.com/track/4intsoHfgFi43gtk5OCE7i) | [Zora Jandová](https://open.spotify.com/artist/50LmFlbKjhGBX8vlRHDNWz), [Martin Stropnický](https://open.spotify.com/artist/7Jj9aiJaRi6CZlmMnJWqSL) | [Tisíckrát](https://open.spotify.com/album/1VVAd7oKlLjsU037Nx058X) | 3:49 | 2023-06-05 | 2023-07-26 |
 | [Love Builds a Garden](https://open.spotify.com/track/0CjPt6FMbL18Q2WThDHTTb) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Gnomeo and Juliet \(Mexico Version\)](https://open.spotify.com/album/2eIFTd7bwydk2yfOqUFIMP) | 3:34 | 2022-09-08 |  |
 | [Love Her Like Me](https://open.spotify.com/track/4QRoLbpMElBejhYvU5MSni) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Songs From The West Coast \(Expanded Edition\)](https://open.spotify.com/album/1hBowxbDuRdbm5NouddGgq) | 3:58 | 2022-09-08 |  |
 | [Love So Cold](https://open.spotify.com/track/2RmXLOSrK4LJ3zzGz5lwUA) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Jewel Box](https://open.spotify.com/album/2iYJtrayurslsdw7qswCNs) | 5:04 | 2023-05-26 |  |
@@ -609,5 +609,6 @@
 | [Your Sister Can't Twist \(But She Can Rock'n' Roll\) \- Remastered 2014](https://open.spotify.com/track/2fYxpSFhg95sBwaGp5JlFU) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Goodbye Yellow Brick Road \(Remastered\)](https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun) | 2:41 | 2022-09-08 |  |
 | [Your Song](https://open.spotify.com/track/38zsOOcu31XbbYj9BIPUF1) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/69P9Ro0W286yLFgYwrGVN0) | 4:01 | 2022-09-08 |  |
 | [Your Song](https://open.spotify.com/track/4olgfOwijIxciV0RKawvFo) | [Isla Bell](https://open.spotify.com/artist/0W4zTvt8vI2WqTHuDluYth) | [Keyside](https://open.spotify.com/album/6c4QsoNkS3hGpNsLDwefZQ) | 4:25 | 2022-09-08 |  |
+| [Část Knížky](https://open.spotify.com/track/30G8BhKXy9lsm3EVM9bdU9) | [Jitka Zelenková](https://open.spotify.com/artist/7JiWNPWFog0sTz1f63HToI) | [Máme Si Co Říct](https://open.spotify.com/album/60A8iAi3QswNe3I2UsmJB4) | 3:49 | 2023-07-25 |  |
 
 \*This playlist was first scraped on 2022-09-09. Prior content cannot be recovered.

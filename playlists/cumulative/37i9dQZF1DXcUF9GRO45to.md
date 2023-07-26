@@ -4,7 +4,7 @@
 
 > French scene makes some noise!
 
-272 songs - 17 hr 24 min
+273 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,7 +190,7 @@
 | [Parasite](https://open.spotify.com/track/0mGb7YHq64JP1ZpO3VEfUY) | [Fabulous Sheep](https://open.spotify.com/artist/53PR6aQRtneL0Gf0ZhxWvh) | [Parasite](https://open.spotify.com/album/0N25IgHC5ZLWSsPYfdWWRz) | 2:38 | 2022-01-27 | 2023-06-30 |
 | [Pas la peine](https://open.spotify.com/track/71t2WYBSLCx3fHYDK8qr1w) | [MSS FRNCE](https://open.spotify.com/artist/5udREH1WTD1lhBsTRdKAfO) | [V](https://open.spotify.com/album/6aazZ0tJt34n32dgPitbum) | 1:47 | 2021-12-31 |  |
 | [Passing On](https://open.spotify.com/track/77RdXeklfjztw82RQxDYl4) | [Untitled With Drums](https://open.spotify.com/artist/4XiFVuDepsbUebkmNbTjlu) | [Hollow](https://open.spotify.com/album/1UsNAHV9iXUpZtfKQVM8bQ) | 4:05 | 2021-12-15 | 2022-07-28 |
-| [Peeling the Onion](https://open.spotify.com/track/5e8Fj1zNqVK5aDhpBjICev) | [Th Da Freak](https://open.spotify.com/artist/21bdasKU3vHrH6tjuhBIjd) | [Freakenstein](https://open.spotify.com/album/46CswcgmRweHhj7oSvqeS4) | 3:43 | 2021-12-15 |  |
+| [Peeling the Onion](https://open.spotify.com/track/5e8Fj1zNqVK5aDhpBjICev) | [Th Da Freak](https://open.spotify.com/artist/21bdasKU3vHrH6tjuhBIjd) | [Freakenstein](https://open.spotify.com/album/46CswcgmRweHhj7oSvqeS4) | 3:43 | 2021-12-15 | 2023-07-26 |
 | [People In The Shadow](https://open.spotify.com/track/13Kk7Slvx443ZmMAFB9fjP) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB) | [Can Be Late \(Super Deluxe Version\)](https://open.spotify.com/album/2D9zCv79mWQw6j3nRTcf4N) | 4:30 | 2022-04-17 | 2022-07-29 |
 | [People In The Shadow](https://open.spotify.com/track/23IOlyuOIfugicmFf6yfNf) | [Skip the Use](https://open.spotify.com/artist/6UWiE4V9p2HK4C74A0CGKB) | [Can Be Late](https://open.spotify.com/album/0b4jmkqHnglDe9FUvsuGIW) | 4:31 | 2022-06-30 | 2023-06-30 |
 | [Piece Of You](https://open.spotify.com/track/591M3gxvS0gc4JdZZqn6oy) | [Storm Orchestra](https://open.spotify.com/artist/5Zl04O5XJOu7kGrAosCPfR) | [Piece Of You](https://open.spotify.com/album/7xZrte2sbYarQDDjHMvHBc) | 4:15 | 2023-01-26 |  |
@@ -279,6 +279,7 @@
 | [You Suck Dude](https://open.spotify.com/track/4QpTAGLsHj7iXT2VlRwc5R) | [Dory\-Loup](https://open.spotify.com/artist/7hlVD6C022u1z25lu7abd2) | [You Suck Dude](https://open.spotify.com/album/47qPZfTscKx7zKxWC2aSpG) | 2:44 | 2022-04-17 | 2022-09-10 |
 | [Your Great Deception](https://open.spotify.com/track/6Lw5MyuDZVVE1G2ZbLU7Fm) | [Dirty Black Summer](https://open.spotify.com/artist/5sJdiL5P0UK2MvpW1uPeuq) | [Your Great Deception](https://open.spotify.com/album/6oQ0AQ3JRMTPbZRwFhXWP3) | 5:22 | 2021-12-30 | 2022-07-28 |
 | [Your Journey](https://open.spotify.com/track/0A6O68cIOH623uzRkXBR2h) | [Gaelle Buswel](https://open.spotify.com/artist/53kw9wmXqjXcd9MqpR4GQQ) | [Your Journey](https://open.spotify.com/album/18zbFCl3TwprTXX8g5j3ZD) | 3:29 | 2021-12-30 | 2022-07-25 |
+| [Zone 51](https://open.spotify.com/track/2lPQSkalkNnFAu1d50Wh9j) | [Bandit Bandit](https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h) | [Tachycardie \(Extended Version\)](https://open.spotify.com/album/5E3RiKz8pmxeCRgbSH8NFT) | 4:23 | 2023-07-23 |  |
 | [Zone 51](https://open.spotify.com/track/3T3NtoZ0MKjw5MR5MvGWRD) | [Bandit Bandit](https://open.spotify.com/artist/0A1HmlpMHsKQXyXkwoS26h) | [Tachycardie \(Extended Version\)](https://open.spotify.com/album/1J71QndbwpN6jpzgjzki7D) | 4:23 | 2023-06-29 | 2023-07-09 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

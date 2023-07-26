@@ -1,12 +1,12 @@
 {
   "description": "Nuevos temas de g\u00e9neros tropicales. Foto: Grupo Frontera & KePersonajes.",
-  "num_followers": 44564,
+  "num_followers": 44625,
   "original_name": "Novedades Tropicales",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YjllOGNlM2NhYmQ4M2QzNTk5Y2VlYzFiYjAzYTg2N2ZkZjgxM2Rm",
+  "snapshot_id": "MCw2MWMxNTIwYTA2YWMxYTg3MjkyZDIyNzQ5ZTljYzRhMTUwNDhhMGI2",
   "tracks": [
     {
       "added_at": "2023-07-21 06:00:00",
@@ -370,6 +370,10 @@
         {
           "name": "Velandia y La Tigra",
           "url": "https://open.spotify.com/artist/2saVhSlCKjNZnW4QZcFHkE"
+        },
+        {
+          "name": "Edson Velandia",
+          "url": "https://open.spotify.com/artist/3ljnYB3ODjEMEJgdHUPMPi"
         }
       ],
       "duration_ms": 230447,

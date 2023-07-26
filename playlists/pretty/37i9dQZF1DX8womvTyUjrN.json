@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Sobrino",
-  "num_followers": 282275,
+  "num_followers": 282326,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDNhYzMyM2E3Y2JlN2Y0NGVhYjA0NzA2MjNkZmVlMzJmOTdmODEw",
+  "snapshot_id": "MCw3MTlmM2E3ZTZmNzk3MjgyNmUzZTMzNmNjODg3NDA3YWQzNzgwY2Fj",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -635,18 +635,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "LIC\u00c1NTROPO",
-        "url": "https://open.spotify.com/album/1ya3tWZT4yE8OfEuIzSKdE"
+        "name": "Reina de la Selva",
+        "url": "https://open.spotify.com/album/7MCEgz1kjLJ2CaZH9DMkf6"
       },
       "artists": [
         {
-          "name": "Bel\u00e9n Aguilera",
-          "url": "https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp"
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
         }
       ],
-      "duration_ms": 166771,
-      "name": "LIC\u00c1NTROPO",
-      "url": "https://open.spotify.com/track/3HjaJVZlDcX7b1lxCuE3Ko"
+      "duration_ms": 176986,
+      "name": "Reina de la Selva",
+      "url": "https://open.spotify.com/track/68i3siyBxZpKxYW1TVXMHj"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -667,22 +671,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Reina de la Selva",
-        "url": "https://open.spotify.com/album/7MCEgz1kjLJ2CaZH9DMkf6"
+        "name": "LIC\u00c1NTROPO",
+        "url": "https://open.spotify.com/album/1ya3tWZT4yE8OfEuIzSKdE"
       },
       "artists": [
         {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+          "name": "Bel\u00e9n Aguilera",
+          "url": "https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp"
         }
       ],
-      "duration_ms": 176986,
-      "name": "Reina de la Selva",
-      "url": "https://open.spotify.com/track/68i3siyBxZpKxYW1TVXMHj"
+      "duration_ms": 166771,
+      "name": "LIC\u00c1NTROPO",
+      "url": "https://open.spotify.com/track/3HjaJVZlDcX7b1lxCuE3Ko"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -807,26 +807,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "EL DRAG\u00d3N",
-        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Sael",
-          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "TURISMO",
-      "url": "https://open.spotify.com/track/3ZZjnPbfDxvZB5lLaFRBCS"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Besos y Pendientes",
         "url": "https://open.spotify.com/album/0yzbu4LzWQWLA9y5E7LQsF"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 171680,
       "name": "Besos y Pendientes",
       "url": "https://open.spotify.com/track/4xxIXKRyO2t4KiPzzZvHnj"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "EL DRAG\u00d3N",
+        "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Sael",
+          "url": "https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "TURISMO",
+      "url": "https://open.spotify.com/track/3ZZjnPbfDxvZB5lLaFRBCS"
     },
     {
       "added_at": "2023-07-21 04:00:00",

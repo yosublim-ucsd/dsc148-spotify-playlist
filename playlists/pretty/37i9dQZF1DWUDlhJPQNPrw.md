@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDlhJPQNPrw.md) - [plain]
 
 > things will get better soon\. for now, just listen and dream.
 
-[Spotify](https://open.spotify.com/user/spotify) - 102 likes - 143 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 139 likes - 143 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDlhJPQNPrw.md) - [plain]
 | 40 | [Overcast](https://open.spotify.com/track/5ACLrTERL7b7JQd2ZTfMjz) | [Sylvio](https://open.spotify.com/artist/3xi1oLL4AB1BfQBN9eZA8O) | [Overcast](https://open.spotify.com/album/6UcJJ2rPauLCJLaEzqFvCR) | 2:33 |
 | 41 | [Union](https://open.spotify.com/track/1YXZwiyB9hjKl4kbRBdEY3) | [Jiří Horák](https://open.spotify.com/artist/43HScyaOrzPzHaKEqEkc3x) | [Union](https://open.spotify.com/album/6hNI27nQvkYfDQvmyN6yUs) | 2:14 |
 | 42 | [Trumpets Of Datura](https://open.spotify.com/track/0bGyHFMw91fp3ghaw85wxo) | [Leisel Walker](https://open.spotify.com/artist/4yTf0AFWlZAq1Stliy2qou) | [Trumpets Of Datura](https://open.spotify.com/album/3NtT2DyYz6JfTrjznupDap) | 2:23 |
-| 43 | [XV...with gravitas](https://open.spotify.com/track/2fE6qaDpRnn3dImpGar0g6) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [XV...with gravitas](https://open.spotify.com/album/5SJa52VZuA7tAEBB8KJjtW) | 2:22 |
+| 43 | [XV...with gravitas](https://open.spotify.com/track/4aWS0YU1fWeQMeiGiSVuwv) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [THE \(HE\)ART OF US](https://open.spotify.com/album/6NAg8FBuYOMmoKN7orCqcI) | 2:22 |
 | 44 | [Chrysalis](https://open.spotify.com/track/6dzhIRxruUuzbiLF4gqZAz) | [Abel Laloux](https://open.spotify.com/artist/5gt4p9v2Omsd6MVkR5Tm54) | [Chrysalis](https://open.spotify.com/album/4cohq3GCrl8vtb0yB8N0nR) | 2:31 |
 | 45 | [Melancholy](https://open.spotify.com/track/0nE4j0wkGn5ijBPguBbZau) | [Les Moray](https://open.spotify.com/artist/3oJtOPrahfYye5Ffs05pYR) | [Melancholy](https://open.spotify.com/album/7rrwtqNk6EUU4nVsCof0M3) | 3:34 |
 | 46 | [Better times](https://open.spotify.com/track/18JB1Jm8SkaeVWn9a2P8fn) | [Delevski](https://open.spotify.com/artist/7jWYbcMTpLqG9gi67M5H2k) | [Better times](https://open.spotify.com/album/0vXDqElEDfg9rc0PfA4VDb) | 2:10 |
@@ -152,4 +152,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDlhJPQNPrw.md) - [plain]
 | 142 | [Through My Eyes](https://open.spotify.com/track/1qPf5T5XSCkBKDOCtLI6X9) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [Through My Eyes](https://open.spotify.com/album/0B02Uvb9zJ0kw1fENyd0CN) | 2:53 |
 | 143 | [October stroll](https://open.spotify.com/track/0djBbURQR8Zu4SD4K48lzJ) | [Jutila](https://open.spotify.com/artist/58Rq5hbLIcvGAlFeMAQFWn) | [October stroll](https://open.spotify.com/album/7dnDyRoLFwV6HSSiZ3L1AP) | 2:09 |
 
-Snapshot ID: `MCw4NWFhMjUwZGNlYWVkNTIzZjA2MjRmY2QzMzVhMmM1YTI1NTJjNGMy`
+Snapshot ID: `MCw4YWUxZjJjMWI3MGY3ODVlZTkxODMzYmQ1ZDg1YTQwZDA5NDkxNjM4`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: \u633e\u9593\u7f8e\u5e06",
+  "description": "\u65e5\u672c\u306e\u73fe\u4ee3\u30b8\u30e3\u30ba\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\u3002 cover: \u677e\u4e95 \u79c0\u592a\u90ce",
   "name": "Modern Jazz Japan",
   "tracks": [
     {
@@ -1336,7 +1336,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 320000,
       "name": "Long Way",
       "url": "https://open.spotify.com/track/1pj3uHbRdGqR74BinsUQtb"
@@ -2348,7 +2348,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 252215,
       "name": "Spring Kiss",
       "url": "https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh"
@@ -2406,6 +2406,44 @@
       "duration_ms": 222133,
       "name": "Stella's Cough",
       "url": "https://open.spotify.com/track/7c6RAOcYgwDFf0R6gusrbr"
+    },
+    {
+      "album": {
+        "name": "STEPS OF THE BLUE",
+        "url": "https://open.spotify.com/album/0jWAhTG0ICulGMf3nc3GWz"
+      },
+      "artists": [
+        {
+          "name": "\u677e\u4e95 \u79c0\u592a\u90ce",
+          "url": "https://open.spotify.com/artist/55DWXZw1Np3eYrtMMY0MTQ"
+        },
+        {
+          "name": "\u4e2d\u5ddd\u82f1\u4e8c\u90ce",
+          "url": "https://open.spotify.com/artist/3RDzAdDGSqwUDi28zZm28q"
+        },
+        {
+          "name": "\u4e2d\u6797\u4fca\u4e5f",
+          "url": "https://open.spotify.com/artist/4FPy6vfB5dk2J0yjVPeTnc"
+        },
+        {
+          "name": "Makoto Ozone",
+          "url": "https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged"
+        },
+        {
+          "name": "\u5c0f\u5ddd\u664b\u5e73",
+          "url": "https://open.spotify.com/artist/33jumhkSNkMnmiln5lqPE7"
+        },
+        {
+          "name": "\u5c0f\u7530\u6850\u548c\u5bdb",
+          "url": "https://open.spotify.com/artist/0hO0QqiB0B3Vh843MaMKTE"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342146,
+      "name": "STEPS OF THE BLUE",
+      "url": "https://open.spotify.com/track/5gF1MiHJNecYAu3wQyGdne"
     },
     {
       "album": {
@@ -2778,7 +2816,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 310264,
       "name": "Tutumikomuyouni",
       "url": "https://open.spotify.com/track/3HoWRTwLaGRCnHS9hvRoOz"
@@ -2822,6 +2860,28 @@
       "duration_ms": 263556,
       "name": "UHOPE",
       "url": "https://open.spotify.com/track/1xUJg0XOmAN7u0Y2YAu7St"
+    },
+    {
+      "album": {
+        "name": "Virtual Insanity",
+        "url": "https://open.spotify.com/album/3de7QqjProXuPJwFL74Tgg"
+      },
+      "artists": [
+        {
+          "name": "Nautilus",
+          "url": "https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA"
+        },
+        {
+          "name": "\u30ab\u30de\u30bf\u30df\u30ba\u30ad",
+          "url": "https://open.spotify.com/artist/3B31bknspbYzHM9oUEYl0s"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287045,
+      "name": "Virtual Insanity",
+      "url": "https://open.spotify.com/track/7xGjUF9Lq1pwGEua5hANDX"
     },
     {
       "album": {
@@ -3402,6 +3462,24 @@
       "duration_ms": 278341,
       "name": "\u604b\u306e\u4e88\u611f - The Handoors version",
       "url": "https://open.spotify.com/track/2APXmeWh7KQ1ssXVCMSKeD"
+    },
+    {
+      "album": {
+        "name": "\u611b\u3057\u306e\u30d0\u30bf\u30d5\u30e9\u30a4",
+        "url": "https://open.spotify.com/album/3bXouFomasJnoi0Rwyt3FT"
+      },
+      "artists": [
+        {
+          "name": "JiLL-Decoy association",
+          "url": "https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324574,
+      "name": "\u611b\u3057\u306e\u30d0\u30bf\u30d5\u30e9\u30a4",
+      "url": "https://open.spotify.com/track/3DtljUi2CC9NSgZ6uab6QY"
     },
     {
       "album": {

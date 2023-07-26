@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Tinashe
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,015,123 likes - 170 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,015,349 likes - 170 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 169 | [Charismatic](https://open.spotify.com/track/4zJD8PyDnzzA3WCi8Eg0jc) | [Hailey Knox](https://open.spotify.com/artist/6PgkNi6EyAfgiKtFwAwvbH) | [Charismatic](https://open.spotify.com/album/6mbkUcTvJ5eS6OBzeuAwyw) | 3:04 |
 | 170 | [I Care](https://open.spotify.com/track/0YWmIEuPAIp8vezxX1m1Z3) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq), [Lxrd Rossi](https://open.spotify.com/artist/10a1pn8WLc7Ek2uoy3s4JQ) | [Big Boss](https://open.spotify.com/album/0ZLuL6c8Kr4Vx2XTsWzTzQ) | 4:05 |
 
-Snapshot ID: `MCwzMTJmYTJkMWY5YmE1OWUyY2QwZDA2OGNkYTU0NmVlNWExZjI2OTRl`
+Snapshot ID: `MCxmYTJjYzIyN2Q5MDI1M2E3OWVjMWZkYzVlOGMwYzg4ODQ4MDVmZGVl`

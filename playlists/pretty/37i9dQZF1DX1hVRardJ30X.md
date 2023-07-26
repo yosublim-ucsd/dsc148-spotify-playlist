@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Mau y Ricky & La Joaqui
 
-[Spotify](https://open.spotify.com/user/spotify) - 571,715 likes - 57 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 571,831 likes - 57 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 56 | [mosquito bite](https://open.spotify.com/track/6NvzOBxtfxg9EYo2QDfzho) | [George Arthur Calendar](https://open.spotify.com/artist/79W4JcW6IfUtgzPWs3Ubem) | [mosquito bite](https://open.spotify.com/album/2P9wgcJCaoDmKOhmKblaaS) | 3:24 |
 | 57 | [La Vuelta](https://open.spotify.com/track/0bRVUjuxbJSobty6cK6V8F) | [Manuel La Joya](https://open.spotify.com/artist/69o2LUrX032mHuCEAxSB6P) | [La Vuelta](https://open.spotify.com/album/6QIsSRlTsS4OVEkKFzVbJx) | 2:43 |
 
-Snapshot ID: `MCw5ZGIyODlkZGNlY2M0M2VmN2ZkZGRmZTViZjNkZGE5NzdlYWVhZmYw`
+Snapshot ID: `MCw0NmM5MzEyNGIzNGIxNzE3M2IzMzgxY2Q5OWFkODQyYzBmNDI4OGM2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY?si=oEXGZ\_\-qTYKMlpPOtq4KwQ">Travis Scott</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,742 likes - 52 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,783 likes - 52 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 46 | [TJEYA](https://open.spotify.com/track/3RY7Xboz7N9wErI4WhT7Z4) | [The Lowkeys](https://open.spotify.com/artist/7FlhY1KXkExO3TcdSsJUjQ), [Sims Noreng](https://open.spotify.com/artist/3GMbwC9hehaCMs6JqiZBeE), [13 Nor Mabena](https://open.spotify.com/artist/10qTCdKDndG0dh96co25Pd), [Ocean Biller](https://open.spotify.com/artist/2os0iexM51EDevBsMrrBz9), [Tshego Dee](https://open.spotify.com/artist/5qxGlpO8OR6FKrK8pENkUQ), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg) | [TJEYA](https://open.spotify.com/album/7m9UQRUI0WzZMLt4PmHaPE) | 7:04 |
 | 47 | [Chasing after light](https://open.spotify.com/track/4Md4oP07r2jLa9eHPYA6Ij) | [Earldridge](https://open.spotify.com/artist/1071DpFPZNIXO0xPakaNJ6) | [We'll Never Be June](https://open.spotify.com/album/2Z04ixpCQAuIGFIIaUW4W8) | 2:59 |
 | 48 | [Tattoo](https://open.spotify.com/track/2xA6PRx9xJbgT5lXl5SiBR) | [Samantha Leonard](https://open.spotify.com/artist/0t70FT0xcfRAuHAM8C9Tgw) | [Tattoo](https://open.spotify.com/album/7vMA2ilx4cnlDLwVDderm2) | 3:04 |
-| 49 | [Shayimoto](https://open.spotify.com/track/7bZlTmuNs58MyicgZvC6KG) | [Zulu Mkhathini](https://open.spotify.com/artist/2RpDiqMd85E6oDYUtqQNBx), [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro) | [Shayimoto](https://open.spotify.com/album/729OoO0P71IivugLM57yqX) | 4:10 |
+| 49 | [SHAYIMOTO](https://open.spotify.com/track/7bZlTmuNs58MyicgZvC6KG) | [Zulu Mkhathini](https://open.spotify.com/artist/2RpDiqMd85E6oDYUtqQNBx), [Zee Nxumalo](https://open.spotify.com/artist/5m5lgddffBHA2pv0m5E2Ro) | [SHAYIMOTO](https://open.spotify.com/album/729OoO0P71IivugLM57yqX) | 4:10 |
 | 50 | [Romancin](https://open.spotify.com/track/13hmigSZZz16OK2mS1RBlB) | [Thor Rixon](https://open.spotify.com/artist/53Gm4E92lh1hMANUw9r2pX), [Yoshe](https://open.spotify.com/artist/4v9lEuK0nSxVknvcwOWfYn) | [Romancin](https://open.spotify.com/album/2cI79bkYrs8LLljdwoeAh7) | 4:56 |
 | 51 | [Khuleka \(feat\. Basetsana\)](https://open.spotify.com/track/79RDaYRDCywyMiO0oHG2Qz) | [SUPTA](https://open.spotify.com/artist/0ijOhiIUwe56EdrfG7dKuM), [Basetsana](https://open.spotify.com/artist/5tOlDzzo2n5dhYJDG6GFbe) | [Khuleka \(feat\. Basetsana\)](https://open.spotify.com/album/06Oe3930ELCPxOPDB04dwK) | 6:03 |
 | 52 | [Nzimeni](https://open.spotify.com/track/454QUpNwhWUMDL8zOtb5iB) | [Iyane Jamdong](https://open.spotify.com/artist/5GJHtxMt5kp2gfBrnLZO3o), [B33Kay SA](https://open.spotify.com/artist/3JnGUDpLOhd0VXPUSv6j1R) | [Nzimeni](https://open.spotify.com/album/6mkMActIwzIj60BZ1Rr13J) | 6:49 |
 
-Snapshot ID: `MCw1NGMwNTFkN2VhZTQzZTYxNjA2YWIzOGExZjRjMGFmYmZiZjJhMWQ5`
+Snapshot ID: `MCwwYTg0OTlhYzIzNzcyZjgzZjcwMjlkM2FiYzcyOWM3NzczNDk0NTRj`

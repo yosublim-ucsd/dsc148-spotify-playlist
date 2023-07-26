@@ -4,7 +4,7 @@
 
 > The ultimate Lo\-Fi soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-623 songs - 1 day 4 hr 8 min
+624 songs - 1 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [Blue bird](https://open.spotify.com/track/6KlKbt570ht0FhgRZHkm8K) | [KOYANMUSIC](https://open.spotify.com/artist/19rxuAEQkRaSpW53OyHqzu) | [DOSER](https://open.spotify.com/album/3W1Jm1zBBkpXL2XTMby5Rg) | 2:38 | 2021-12-23 | 2022-06-29 |
 | [BLUE MOON](https://open.spotify.com/track/2gt5R59niPj7cFflsCNBEI) | [DJ ZEEK](https://open.spotify.com/artist/6jX9IZnwPeKQyuAMkJE8OK) | [BLUE MOON](https://open.spotify.com/album/6wya2peFBrgmH7VhYvh9DF) | 3:05 | 2021-12-23 | 2022-02-09 |
 | [Blue Ocean](https://open.spotify.com/track/7Ez0jBEB4kzZpOxlrmnfrm) | [gummy3000](https://open.spotify.com/artist/0q2gFnL3Jr1BlvwIeK29f7) | [Blue Ocean](https://open.spotify.com/album/7eFZkyETGlx6hrzExVHplF) | 3:00 | 2022-12-01 | 2022-12-16 |
+| [Bocuk](https://open.spotify.com/track/1lTfFxZjZG3Xagd4clrCBj) | [Zen Miyako](https://open.spotify.com/artist/7bQoGwzUNcgjhl5wn7gpOu) | [Bocuk](https://open.spotify.com/album/2n9E01iiTHEtmLZmjKWj6B) | 2:17 | 2023-07-25 |  |
 | [bouquet](https://open.spotify.com/track/6DQeJ0buwVm5Y4a6ATogBn) | [Smika](https://open.spotify.com/artist/0aek9ZQsX0KemPlW7dkh2X) | [Opal](https://open.spotify.com/album/6J6EDFF8w2nRW2YGGxIMnh) | 2:25 | 2022-03-24 | 2022-04-20 |
 | [Breakin' up](https://open.spotify.com/track/3zuqP7sq9LOHeHIHJ0ElZy) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [Breakin' up](https://open.spotify.com/album/5BFxVlpvsWgSV3yv0fDr5H) | 1:36 | 2021-12-23 | 2022-12-24 |
 | [Breathless](https://open.spotify.com/track/7K76pNICpiDDFttIaC6AC9) | [Goldusk](https://open.spotify.com/artist/1vhLM6xIiTjnhzb54G7lXc) | [Breathless](https://open.spotify.com/album/32rbFzTwhILmdD8Uly8z05) | 1:37 | 2021-12-23 | 2022-07-28 |
@@ -270,7 +271,7 @@
 | [kageokuri](https://open.spotify.com/track/7iSSU0thqBlc4bfhIb2rxV) | [ninomiya tatsuki](https://open.spotify.com/artist/68WyxSkXEJNwJUwlIIaIep) | [kageokuri](https://open.spotify.com/album/1wLNWD7YpVkWnWhcy5pRoL) | 3:35 | 2022-12-22 | 2023-05-11 |
 | [Kalanchoe ”Green apple”](https://open.spotify.com/track/6mkbOYTzAoDZAb1rYMGr5r) | [STUDIO75](https://open.spotify.com/artist/426lQwhWajxrxgvl7BRSiH) | [Kalanchoe ”Green apple”](https://open.spotify.com/album/1Ict1AS58yVpuOlhcQbcFc) | 2:12 | 2021-12-23 | 2022-07-29 |
 | [Kanda](https://open.spotify.com/track/2ou6Mgmk9pd1c0rV5AHTGq) | [Mr\. Shirai](https://open.spotify.com/artist/6nndu85w7OaaggJul6H0GH) | [Kanda](https://open.spotify.com/album/6EtFragQz86X5qaPOpW4mk) | 2:23 | 2021-12-23 | 2022-04-21 |
-| [karen](https://open.spotify.com/track/2ITops8wfJv8pfWBftXdFp) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [karen](https://open.spotify.com/album/7HXUQ0wldUM1kHP6YIzlKu) | 2:17 | 2023-07-13 |  |
+| [karen](https://open.spotify.com/track/2ITops8wfJv8pfWBftXdFp) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [karen](https://open.spotify.com/album/7HXUQ0wldUM1kHP6YIzlKu) | 2:17 | 2023-07-13 | 2023-07-26 |
 | [Karma](https://open.spotify.com/track/0yCQJ02WABOcU8uDvYPxLR) | [ID3](https://open.spotify.com/artist/1r1cn1uejHtdYt3VJ95duD), [Enlia](https://open.spotify.com/artist/4pGE3dPAL7rlSvoBgTw91S) | [Karma](https://open.spotify.com/album/5fMuztGxsKpZkh1k6TH3io) | 1:34 | 2022-03-24 | 2022-04-19 |
 | [kczsdeg](https://open.spotify.com/track/1IovOeRY9QeBs8MDgqN9dO) | [slowstoop](https://open.spotify.com/artist/759vJrda9Y2XsEsfjmtqET) | [BUD](https://open.spotify.com/album/1ICwHwkNbIFFzp7rZXvk92) | 2:05 | 2022-07-14 | 2022-11-05 |
 | [Keemel](https://open.spotify.com/track/7kc96tpLbfO5IP3Vg1aaQT) | [MASARO](https://open.spotify.com/artist/13Gxb7d1eiQFoZEDy2HcBX) | [Keemel](https://open.spotify.com/album/7mq1DoDjlRCILEfodZvnit) | 1:16 | 2022-01-06 | 2022-06-13 |
@@ -380,7 +381,7 @@
 | [Nicely Nostalgic](https://open.spotify.com/track/5fFZlk4YnpPJkCHllhCXvq) | [Shou](https://open.spotify.com/artist/58bxvGanzCO4oGzoGlI8B9), [Komorebi](https://open.spotify.com/artist/7odF0qJzDWWCaejDebtCIb), [Idyllic](https://open.spotify.com/artist/5mdmC9YgXSrp4YrEYL4S5K) | [Nicely Nostalgic](https://open.spotify.com/album/5Qi3p41NKuIZRQY8M2dpJr) | 1:54 | 2022-02-10 | 2023-06-11 |
 | [Night Crawl](https://open.spotify.com/track/0qtpXpFtLklZHtComSaSoE) | [LONELY ONES](https://open.spotify.com/artist/1LKvEhiNWYuFkzrfBsX1i7) | [Night Crawl](https://open.spotify.com/album/2UjBnYEd7L0XNWSLmkRrqu) | 2:52 | 2021-12-23 | 2022-07-28 |
 | [Night Drip](https://open.spotify.com/track/2RTmgpcbkD9LTyjjqWTlXl) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [Night Drip](https://open.spotify.com/album/3gSJQV6vzdcnmKGoLSxpUn) | 3:03 | 2023-04-20 | 2023-07-05 |
-| [Night Lighter](https://open.spotify.com/track/1cwmPs5fpiJo9Mu0vlTXTl) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Night Lighter](https://open.spotify.com/album/3ljFX8ZaBp0Q6wj1JylOSF) | 2:19 | 2023-06-22 |  |
+| [Night Lighter](https://open.spotify.com/track/1cwmPs5fpiJo9Mu0vlTXTl) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Night Lighter](https://open.spotify.com/album/3ljFX8ZaBp0Q6wj1JylOSF) | 2:19 | 2023-06-22 | 2023-07-26 |
 | [Night Lighter](https://open.spotify.com/track/2o926ylJ6b9NAgs7GxeJlA) | [Shin\-Ski](https://open.spotify.com/artist/6Ei1ABb1YNXZviQKBE7RI7) | [Night Lighter](https://open.spotify.com/album/4hj26tah8NTrWsjyN4GOZt) | 2:19 | 2023-06-22 | 2023-06-24 |
 | [Night Lights](https://open.spotify.com/track/6lD4z9pp562jUf3mJx1xSl) | [Kicktracks](https://open.spotify.com/artist/2dGFrQsjmTaLK8o8aNuAeG) | [Night Lights](https://open.spotify.com/album/0zfibDEedhD4zQiJFEk0SC) | 2:37 | 2022-01-06 | 2022-07-17 |
 | [Night Lights 2020](https://open.spotify.com/track/4EJIzAOBenyU7kQ6D7AvFe) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf) | [Night Lights 2020](https://open.spotify.com/album/5rqqrponuFtxKYusVGzSl2) | 4:01 | 2021-12-23 | 2023-04-02 |

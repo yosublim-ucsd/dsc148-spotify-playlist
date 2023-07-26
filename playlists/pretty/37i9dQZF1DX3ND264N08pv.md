@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,868 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,951 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,10 +72,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 62 | [Fvcking One](https://open.spotify.com/track/2sruUp3twkNTByH73uIpeY) | [Edwar](https://open.spotify.com/artist/19hHL1D21GLb6xREDCyuhC), [Sidekick](https://open.spotify.com/artist/2tYAj8dL6XAthBoFXwl6co) | [Fvcking One](https://open.spotify.com/album/26DXvklEuDelfT7fLjyRCj) | 3:33 |
 | 63 | [Attack](https://open.spotify.com/track/5cfYYPJJku0DQI22bKJ2og) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6), [Psycho Boys Club](https://open.spotify.com/artist/17NhTFMWDCB9nU8eDbRWiu) | [Attack](https://open.spotify.com/album/3bbvFPegYo9XTjaaWQXZ9i) | 3:14 |
 | 64 | [Den Haag Hakkûh](https://open.spotify.com/track/4i4Wy1Rp9OmeHz98xWMR4V) | [Hans Glock](https://open.spotify.com/artist/2z6v7CjHOFGCsZlICgl52s), [The Darkraver](https://open.spotify.com/artist/3Lu9zTGOtzT2MZpfxdaHJv) | [Den Haag Hakkûh](https://open.spotify.com/album/26nTumwHgIcZNrGuFZC3UR) | 3:21 |
-| 65 | [Outta Here](https://open.spotify.com/track/5rNTq1vr12Iat2C34SuJ35) | [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w), [Sihk](https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6) | [Outta Here](https://open.spotify.com/album/17rOS7Yhhhe4tGSoXD9RTw) | 2:18 |
-| 66 | [One Way](https://open.spotify.com/track/0OT4p81EBNnYoxWcPQM7wk) | [Bloodfire](https://open.spotify.com/artist/18AdMCxQQcKmL5NbIZYjV7) | [One Way](https://open.spotify.com/album/2bD0r8cGZ69E6uBqU9oDFM) | 3:20 |
-| 67 | [Shadows in the Dark](https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt) | [Re\-Fuzz](https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs) | [Shadows in the Dark](https://open.spotify.com/album/39LODywZvMhYTjECv7poxU) | 4:48 |
-| 68 | [Mutilate](https://open.spotify.com/track/5Th8O9vWzImhIqb1kO8TLE) | [Chapter V](https://open.spotify.com/artist/1YYs95M2z6CIPc0zWfMrab), [Amduscias](https://open.spotify.com/artist/2s2uHpjXIyzhPIXkm8iP2y) | [Mutilate](https://open.spotify.com/album/1N5ZJaQFOrT6GJnqUW2c6b) | 3:50 |
+| 65 | [One Way](https://open.spotify.com/track/0OT4p81EBNnYoxWcPQM7wk) | [Bloodfire](https://open.spotify.com/artist/18AdMCxQQcKmL5NbIZYjV7) | [One Way](https://open.spotify.com/album/2bD0r8cGZ69E6uBqU9oDFM) | 3:20 |
+| 66 | [Outta Here](https://open.spotify.com/track/5rNTq1vr12Iat2C34SuJ35) | [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w), [Sihk](https://open.spotify.com/artist/0GRYh4b8TJ9LQelJhQuKh6) | [Outta Here](https://open.spotify.com/album/17rOS7Yhhhe4tGSoXD9RTw) | 2:18 |
+| 67 | [Mutilate](https://open.spotify.com/track/5Th8O9vWzImhIqb1kO8TLE) | [Chapter V](https://open.spotify.com/artist/1YYs95M2z6CIPc0zWfMrab), [Amduscias](https://open.spotify.com/artist/2s2uHpjXIyzhPIXkm8iP2y) | [Mutilate](https://open.spotify.com/album/1N5ZJaQFOrT6GJnqUW2c6b) | 3:50 |
+| 68 | [Shadows in the Dark](https://open.spotify.com/track/0L4i68FCrTrwev3PxUUpQt) | [Re\-Fuzz](https://open.spotify.com/artist/3zw7BR7E9LWK6n6w3FKMxs) | [Shadows in the Dark](https://open.spotify.com/album/39LODywZvMhYTjECv7poxU) | 4:48 |
 | 69 | [Force Of Salvation \- Official Masters of Hardcore Austria 2023 Anthem](https://open.spotify.com/track/56tEduBCyWPZ3gVAWONJCu) | [GridKiller](https://open.spotify.com/artist/7njBiH1Uy0qNA8VvPPtEG7) | [Force Of Salvation \(Official Masters of Hardcore Austria 2023 Anthem\)](https://open.spotify.com/album/3frDN1XwkMYXIB504jjoKY) | 5:22 |
 | 70 | [Hardcore Style](https://open.spotify.com/track/1uS5kcnuELQLIVSaYoBJpr) | [Dj Mad Dog](https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4) | [The Bones Collection](https://open.spotify.com/album/46UvKuPSGJm7KLJDtWsVsR) | 3:20 |
 | 71 | [The Ultimate Sound](https://open.spotify.com/track/2Jum2ypFvxaNcLWHUyi17g) | [Neophyte](https://open.spotify.com/artist/2AfGElfjqXuSyUny7dsj9p) | [The Ultimate Sound](https://open.spotify.com/album/2yxYtxZZmQDIchjXz0gegW) | 2:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 99 | [Playing Terror \- Tears of Fury Remix](https://open.spotify.com/track/0hroickpD4N19Ap4ZpZKht) | [Anime](https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO), [Tears Of Fury](https://open.spotify.com/artist/2gbX1134Wq3J1bY1Rcv2mX) | [Gangsters Remixes](https://open.spotify.com/album/4OGtp1f7NptYItyZpqLbhX) | 3:06 |
 | 100 | [Ruthless For Life](https://open.spotify.com/track/5nw5bT4RGTpXsqSISwQKuS) | [Chaos Project](https://open.spotify.com/artist/31yN9ocbPndhIWUxTIQArT) | [Ruthless For Life](https://open.spotify.com/album/3rhZ9GJY55O4BxfxX0RP5i) | 2:48 |
 
-Snapshot ID: `MCwwZDMzYTRjNTE3NjViZGNmNjg0ZDkyNjQ4MjY5YzVhNDU1MTU0ZjI1`
+Snapshot ID: `MCwxZTgyZWZmNTA0ZDdmNmZhNjgwNzY0YjQwOWMyZjJiYzBiNTE5OTEy`

@@ -4,7 +4,7 @@
 
 > Música en vivo de tus artistas favoritos del Regional Mexicano\. Portada: Grupo Recluta y Adrian Chaparro
 
-388 songs - 21 hr 31 min
+389 songs - 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [El Inmigrante \(En Vivo\)](https://open.spotify.com/track/4vTOriU3pZrfRkbR5tu43p) | [Uziel Payan](https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ), [Traviezoz de la Zierra](https://open.spotify.com/artist/1tX4Yf64m81Ju9THQiXAzn) | [El Inmigrante \(En Vivo\)](https://open.spotify.com/album/0k1zLGzjpIbLLF0w5IWyZn) | 3:23 | 2022-05-12 | 2023-03-18 |
 | [El Jardinero \- En Vivo](https://open.spotify.com/track/2SFkbDxKc6vxXog0jxEhqG) | [Los Originales De San Juan](https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag) | [El Jardinero \(En Vivo\)](https://open.spotify.com/album/6lxrgPOv4TeGuPKcV9htWj) | 3:16 | 2022-05-12 | 2022-07-29 |
 | [El Jardinero \- En Vivo](https://open.spotify.com/track/2axaZeLCNirl8b03moUCUA) | [Los Originales De San Juan](https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag) | [El Jardinero \(En Vivo\)](https://open.spotify.com/album/4Wlx4BInT94rbYM4Rr1kD4) | 3:16 | 2022-05-12 | 2022-12-09 |
-| [El Juan \- Vivo](https://open.spotify.com/track/3vvMHwRReo6VdAYw7vNOhj) | [Diego Herrera](https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi), [Humberto Herrera](https://open.spotify.com/artist/3oGU6JOOVjwy1eChS1j4dC) | [El Juan](https://open.spotify.com/album/4L9mAa5eSsHZl94K4SYVEl) | 2:18 | 2022-05-12 |  |
+| [El Juan \- Vivo](https://open.spotify.com/track/3vvMHwRReo6VdAYw7vNOhj) | [Diego Herrera](https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi), [Humberto Herrera](https://open.spotify.com/artist/3oGU6JOOVjwy1eChS1j4dC) | [El Juan](https://open.spotify.com/album/4L9mAa5eSsHZl94K4SYVEl) | 2:18 | 2022-05-12 | 2023-07-26 |
 | [El Mencho](https://open.spotify.com/track/7jLjRDPlT8xYoDTOHUQMEZ) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [\(EN VIVO\) con Banda Sinaloense La Tuyia de Culiacán, Sinaloa](https://open.spotify.com/album/7fH3B249lIrp6YapI1HHEy) | 2:49 | 2022-05-12 | 2022-07-29 |
 | [El Mencho \- En Vivo](https://open.spotify.com/track/5Vw0NBy4t0Q6AHpF3sXB9e) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [EN VIVO con Banda Sinaloense La Tuyia de Culiacán, Sinaloa \(En Vivo\)](https://open.spotify.com/album/6oFayPQwUEha5VnlkwANz3) | 2:49 | 2022-05-12 | 2022-12-09 |
 | [El Mensaje](https://open.spotify.com/track/0kI4ECAdY6qItGhPa3TgJy) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Mensaje](https://open.spotify.com/album/4boHu426ldWkKuKjrDq4Mv) | 3:13 | 2022-12-08 |  |
@@ -317,6 +317,7 @@
 | [Paz En Este Amor \- En Vivo](https://open.spotify.com/track/3GgiMQuguXzayxZmrnp93g) | [Fidel Rueda](https://open.spotify.com/artist/1lQO7ePBTp5yOfVK9hicoJ) | [En Vivo Desde El Estudio RM](https://open.spotify.com/album/6GgqjUId7lI5HRfUkKU2pn) | 3:29 | 2022-05-12 | 2022-07-29 |
 | [Peleando La Ciudad \(En Vivo\)](https://open.spotify.com/track/1xEii4pWw0awhAmkYO7Rap) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Peleando La Ciudad \(En Vivo\)](https://open.spotify.com/album/4B95B43CS1GoJpYEnpCae9) | 3:27 | 2022-05-12 | 2023-03-18 |
 | [Pideme \- En Vivo](https://open.spotify.com/track/4OvWsid9gwU8nimd6KIXN6) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Pideme \(En Vivo\)](https://open.spotify.com/album/5YDFEV3hqfXdvFWO9DNFPR) | 4:16 | 2023-03-17 |  |
+| [Popurri Boleros Cadetes \- En Vivo](https://open.spotify.com/track/5Lia7C8L7kLH0xQOwOY8pG) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [En Vivo Desde la Paz](https://open.spotify.com/album/2lytKS4AnSzjNUD00xzA6f) | 7:38 | 2023-06-16 |  |
 | [Popurri Boleros Cadetes \- En Vivo](https://open.spotify.com/track/7LJKlA3EIT2UmMujVquf5S) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [En Vivo Desde la Paz](https://open.spotify.com/album/0b6lw7RY7naWJ42VJfmbtN) | 7:38 | 2022-12-08 | 2023-07-22 |
 | [Popurri De Cumbias \(En Vivo\)](https://open.spotify.com/track/2Vi4spIGqXoqeCd63PWVQM) | [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN) | [En Vivo Desde Hacienda Heights](https://open.spotify.com/album/6nQUTyzVC8h10TDOEf9tYl) | 8:42 | 2022-12-08 |  |
 | [Popurrí Cumbias: Se Murió De Amor/Desvelado/Otra Vez \- En Vivo](https://open.spotify.com/track/2rNksx1mb49Vb35MiKgUiJ) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [En Vivo Desde El Rancho](https://open.spotify.com/album/3I8GLnjxkdr32OnYSir6bh) | 8:41 | 2023-03-17 |  |

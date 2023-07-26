@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes for mellow moods.",
-  "num_followers": 255676,
+  "num_followers": 255720,
   "original_name": "Mellow Mood",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NzczZDIzMDIxYzc2MzlhMGRiZDQzM2QyMmJlZjAwMTlmMmQ1YjQz",
+  "snapshot_id": "MCwyNjg0ZTFhNDNhOTkzZGJiZWIzMjgzYjdlNjY0ZGY3OGY0MzQ1OThi",
   "tracks": [
     {
       "added_at": "2018-12-11 21:12:31",
@@ -479,6 +479,22 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
+        "name": "Someone\u2019s EP I",
+        "url": "https://open.spotify.com/album/0jaSZMSUlrruDM8FtSWK8d"
+      },
+      "artists": [
+        {
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+        }
+      ],
+      "duration_ms": 87037,
+      "name": "INT.",
+      "url": "https://open.spotify.com/track/0WDSwWdXOjXmzw6QOOxl7C"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
         "name": "Unusable Love",
         "url": "https://open.spotify.com/album/2t7XHE3SmGWwLIXSjuzT8p"
       },
@@ -499,18 +515,18 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Someone\u2019s EP I",
-        "url": "https://open.spotify.com/album/0jaSZMSUlrruDM8FtSWK8d"
+        "name": "Old Compilation 3",
+        "url": "https://open.spotify.com/album/7CYCQNeHoMWXQXg9NzqTyM"
       },
       "artists": [
         {
-          "name": "BAYNK",
-          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+          "name": "Meltycanon",
+          "url": "https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC"
         }
       ],
-      "duration_ms": 87037,
-      "name": "INT.",
-      "url": "https://open.spotify.com/track/0WDSwWdXOjXmzw6QOOxl7C"
+      "duration_ms": 146880,
+      "name": "thankful",
+      "url": "https://open.spotify.com/track/6DRCs3oOkPYa1NHdgjwHcZ"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -547,22 +563,6 @@
       "duration_ms": 245000,
       "name": "Homegrown - Empty Woods Remix",
       "url": "https://open.spotify.com/track/6VzTPQCvXtcMfFsuoCBYRs"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Old Compilation 3",
-        "url": "https://open.spotify.com/album/7CYCQNeHoMWXQXg9NzqTyM"
-      },
-      "artists": [
-        {
-          "name": "Meltycanon",
-          "url": "https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC"
-        }
-      ],
-      "duration_ms": 146880,
-      "name": "thankful",
-      "url": "https://open.spotify.com/track/6DRCs3oOkPYa1NHdgjwHcZ"
     },
     {
       "added_at": "2019-09-16 15:44:25",
@@ -697,6 +697,22 @@
       "url": "https://open.spotify.com/track/2wfqHxQtKQxHrsscsJRNrM"
     },
     {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Cycle",
+        "url": "https://open.spotify.com/album/6CtjNeLtxpPZ2y7vHZMtVS"
+      },
+      "artists": [
+        {
+          "name": "Su Na",
+          "url": "https://open.spotify.com/artist/3GZowazH5ZdOUanJadDd4s"
+        }
+      ],
+      "duration_ms": 188573,
+      "name": "Cycle",
+      "url": "https://open.spotify.com/track/2rbA1YZpRnpCWRIk3oF6wR"
+    },
+    {
       "added_at": "2019-05-24 08:01:00",
       "album": {
         "name": "another time (world$tar money)",
@@ -719,22 +735,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Cycle",
-        "url": "https://open.spotify.com/album/6CtjNeLtxpPZ2y7vHZMtVS"
-      },
-      "artists": [
-        {
-          "name": "Su Na",
-          "url": "https://open.spotify.com/artist/3GZowazH5ZdOUanJadDd4s"
-        }
-      ],
-      "duration_ms": 188573,
-      "name": "Cycle",
-      "url": "https://open.spotify.com/track/2rbA1YZpRnpCWRIk3oF6wR"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "After the Tone with Lossapardo",
         "url": "https://open.spotify.com/album/4O6xAkwEEunTtOIv05VpOm"
       },
@@ -753,6 +753,22 @@
       "url": "https://open.spotify.com/track/6fKX7zoYa5nfpHnnmcKg6t"
     },
     {
+      "added_at": "2019-06-07 08:01:00",
+      "album": {
+        "name": "Boys by Girls",
+        "url": "https://open.spotify.com/album/1p4LNBjRCMqNja3EfvdrwC"
+      },
+      "artists": [
+        {
+          "name": "Instupendo",
+          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
+        }
+      ],
+      "duration_ms": 210745,
+      "name": "Pinch",
+      "url": "https://open.spotify.com/track/4aBSowf9IG9wauVq8tddRz"
+    },
+    {
       "added_at": "2018-12-11 21:12:31",
       "album": {
         "name": "Island -EP",
@@ -767,6 +783,22 @@
       "duration_ms": 185758,
       "name": "Together Alone",
       "url": "https://open.spotify.com/track/2WgDeHNKHm2pjk9ee9eHzB"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Small Clan",
+        "url": "https://open.spotify.com/album/0b8dYZrXDD65hMekrzie9J"
+      },
+      "artists": [
+        {
+          "name": "Miink",
+          "url": "https://open.spotify.com/artist/17Rhw8lEDjOqM3GSVqrzhg"
+        }
+      ],
+      "duration_ms": 232312,
+      "name": "Yellow Dust",
+      "url": "https://open.spotify.com/track/01JqaZsSE7IaIdxtI1FSvM"
     },
     {
       "added_at": "2018-12-11 21:12:31",
@@ -791,38 +823,6 @@
       "duration_ms": 114929,
       "name": "I've Always Been",
       "url": "https://open.spotify.com/track/0Uxmhbm1sUiyh6geMnwzG4"
-    },
-    {
-      "added_at": "2019-06-07 08:01:00",
-      "album": {
-        "name": "Boys by Girls",
-        "url": "https://open.spotify.com/album/1p4LNBjRCMqNja3EfvdrwC"
-      },
-      "artists": [
-        {
-          "name": "Instupendo",
-          "url": "https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC"
-        }
-      ],
-      "duration_ms": 210745,
-      "name": "Pinch",
-      "url": "https://open.spotify.com/track/4aBSowf9IG9wauVq8tddRz"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
-        "name": "Small Clan",
-        "url": "https://open.spotify.com/album/0b8dYZrXDD65hMekrzie9J"
-      },
-      "artists": [
-        {
-          "name": "Miink",
-          "url": "https://open.spotify.com/artist/17Rhw8lEDjOqM3GSVqrzhg"
-        }
-      ],
-      "duration_ms": 232312,
-      "name": "Yellow Dust",
-      "url": "https://open.spotify.com/track/01JqaZsSE7IaIdxtI1FSvM"
     },
     {
       "added_at": "2019-05-24 08:01:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2018-12-11 21:12:31",
       "album": {
-        "name": "Wave001",
-        "url": "https://open.spotify.com/album/35oHamcgtC5WELUtHUGJQk"
-      },
-      "artists": [
-        {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Glow",
-      "url": "https://open.spotify.com/track/4B7XzgVjcNfoF8tIKgYhXE"
-    },
-    {
-      "added_at": "2018-12-11 21:12:31",
-      "album": {
         "name": "Fleur",
         "url": "https://open.spotify.com/album/03TbEEt7j2I4NnSqOa2F44"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 259423,
       "name": "Fleur",
       "url": "https://open.spotify.com/track/3xSZxEmRIZAZT7pgzT0Ik0"
+    },
+    {
+      "added_at": "2018-12-11 21:12:31",
+      "album": {
+        "name": "Wave001",
+        "url": "https://open.spotify.com/album/35oHamcgtC5WELUtHUGJQk"
+      },
+      "artists": [
+        {
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Glow",
+      "url": "https://open.spotify.com/track/4B7XzgVjcNfoF8tIKgYhXE"
     },
     {
       "added_at": "2018-12-11 21:12:31",

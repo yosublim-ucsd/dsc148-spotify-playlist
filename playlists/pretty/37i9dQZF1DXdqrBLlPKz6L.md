@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 
 > Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: Blessd
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,445 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,468 likes - 60 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 | 56 | [Sométeme](https://open.spotify.com/track/51Jt04zgh7coezey8YlnRO) | [Stefficrown](https://open.spotify.com/artist/03kZtQufUPClcJ4y4jYTes), [Crabeats](https://open.spotify.com/artist/3N9ZDSxevGQn5u7D1nRlvN) | [Act II](https://open.spotify.com/album/30NxdbAihSxvSAeihvWw7i) | 3:31 |
 | 57 | [Panamera](https://open.spotify.com/track/6ggVSxqawOpYsjsyOYKtGC) | [D'Avila](https://open.spotify.com/artist/6elNbQJgp30Ml9u2jO9RwX), [Dimc](https://open.spotify.com/artist/6dsf1MmhDry9AMFBGy6A1O), [Zuco OMG](https://open.spotify.com/artist/2AsK0GD1xFCS4L3lv8im4w) | [Panamera](https://open.spotify.com/album/4CZrPqu9r8VFm5RA6M4v5v) | 3:15 |
 | 58 | [No Puedo Fingir](https://open.spotify.com/track/61I0O29lEDZA6kOY7bWh2t) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [No Puedo Fingir](https://open.spotify.com/album/79G1pr97ZqPkgoIc88RaUS) | 2:44 |
-| 59 | [No Me Digas Na](https://open.spotify.com/track/3BhPjlUWvkWjAeTxhxbCcl) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Trainer](https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Humo en la Trampa 2](https://open.spotify.com/album/48081X2ns6kHKFS84IowXl) | 3:36 |
+| 59 | [No Me Digas Na](https://open.spotify.com/track/3BhPjlUWvkWjAeTxhxbCcl) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Trainer](https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Humo en la Trampa 2](https://open.spotify.com/album/48081X2ns6kHKFS84IowXl) | 3:36 |
 | 60 | [Negro](https://open.spotify.com/track/1oiQSttaF5b3ZI5masPw6i) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Negro](https://open.spotify.com/album/43q3UPszpuNHz8gBFwKBtg) | 3:17 |
 
-Snapshot ID: `MCw0MTQ2NDU4ZDcwNDcyNjYyY2U3YjA2NTQ2Nzg3MzJiOWZjYjQ4NDZm`
+Snapshot ID: `MCwxMDM0NThlNTY1YmMzZTI1ZWI3NWQyNjk3OGE1OWIzMWMyMmM3ZDMx`

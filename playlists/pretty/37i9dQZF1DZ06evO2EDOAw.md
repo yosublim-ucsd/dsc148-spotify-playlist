@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EDOAw.md) - [plain]
 
 > This is Kierra Sheard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,555 likes - 50 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,556 likes - 50 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EDOAw.md) - [plain]
 | 38 | [Better Than I Found It \(feat\. Kierra Sheard\)](https://open.spotify.com/track/2nss3BcDr3j1xUN6S09kyf) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Rise](https://open.spotify.com/album/6pndQqpqNLi5Snk9qX43w9) | 3:09 |
 | 39 | [So Glad](https://open.spotify.com/track/51BH2ibqUvomGPYProjKtR) | [Isaac Carree](https://open.spotify.com/artist/2bTfKyEM0bSDqmDcZybqzH), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Reset](https://open.spotify.com/album/7zEQOVHHzD8U0YybvF79rS) | 4:42 |
 | 40 | [Follow \(Live\) \(feat\. Todd Dulaney\)](https://open.spotify.com/track/732kJrVACGEk9wiYJYJh1y) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [KIERRA](https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a) | 5:41 |
-| 41 | [Since I Found Christ](https://open.spotify.com/track/6aF7NI4aBCRAxicyBDaZQR) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY), [JDS](https://open.spotify.com/artist/7GeIcTu4YxcVc0stcO5oQm) | [Free](https://open.spotify.com/album/3Wqg1YZuXCLZtsxn26cXee) | 3:43 |
-| 42 | [You](https://open.spotify.com/track/7z6Jurf9Zop6ORA1FGGZPO) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [This Is Me](https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB) | 2:49 |
-| 43 | [All I Am](https://open.spotify.com/track/1FZFAtqLVRrB9pWZWoNd3z) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [I Owe You](https://open.spotify.com/album/2xmUC6JDf6PS06lb1ZJffL) | 2:52 |
+| 41 | [You](https://open.spotify.com/track/7z6Jurf9Zop6ORA1FGGZPO) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [This Is Me](https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB) | 2:49 |
+| 42 | [Since I Found Christ](https://open.spotify.com/track/6aF7NI4aBCRAxicyBDaZQR) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY), [JDS](https://open.spotify.com/artist/7GeIcTu4YxcVc0stcO5oQm) | [Free](https://open.spotify.com/album/3Wqg1YZuXCLZtsxn26cXee) | 3:43 |
+| 43 | [All Glory](https://open.spotify.com/track/2rXdqg7tdmrwJZmXTi5Cym) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Glory Song](https://open.spotify.com/album/1NxngYgTVoZp0kDOe8EdDo) | 5:07 |
 | 44 | [Grateful](https://open.spotify.com/track/4KRV4TREh5zVsIxrnvA8XL) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [KIERRA](https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a) | 3:29 |
-| 45 | [All Glory](https://open.spotify.com/track/2rXdqg7tdmrwJZmXTi5Cym) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Glory Song](https://open.spotify.com/album/1NxngYgTVoZp0kDOe8EdDo) | 5:07 |
+| 45 | [All I Am](https://open.spotify.com/track/1FZFAtqLVRrB9pWZWoNd3z) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [I Owe You](https://open.spotify.com/album/2xmUC6JDf6PS06lb1ZJffL) | 2:52 |
 | 46 | [Somehow \(feat\. Kierra Sheard\)](https://open.spotify.com/track/2TmKgQy6If0wrPHtLKbmWp) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Oil + Water](https://open.spotify.com/album/35XjZJwNLZj6RbTVXakIbX) | 5:15 |
 | 47 | [Alright](https://open.spotify.com/track/6v01OWiPG9SPxO8FVtK35Y) | [Guvna B](https://open.spotify.com/artist/3XgNFNKLstByGKqplDht0H), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [The Village Is On Fire](https://open.spotify.com/album/0bwfKYDJUaLAmy05HnfkIh) | 4:38 |
 | 48 | [Things You Do](https://open.spotify.com/track/4VUmDewHDyFXG18HW5usFi) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [KIERRA](https://open.spotify.com/album/2twow9qKoLnhZO8FDjw82a) | 2:46 |
 | 49 | [Grace](https://open.spotify.com/track/5lDoWeZK3ExOS5iwmgeVHR) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [KIERRA \(Deluxe\)](https://open.spotify.com/album/0MyC3Pbt7pkhDBRXxhBiJy) | 4:46 |
 | 50 | [Victory \- Live](https://open.spotify.com/track/4QZRa08aiH7wgQXAfjOwoL) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH), [BRL](https://open.spotify.com/artist/7aOTcGOCh3ZQv0vY93hGoZ) | [Free](https://open.spotify.com/album/6uibqw6D0zCO7FGvAGSf5s) | 6:25 |
 
-Snapshot ID: `MjgxNzAxMDYsMDAwMDAwMDBhZjBmNTc0NmVkMTYyNGE5MGVhNjI3ZTQyN2I4YWFkYQ==`
+Snapshot ID: `MjgxNzE1MTIsMDAwMDAwMDBhYWJkOTk4NjdlZGY3OGJkNmU5OGVjOGU3OTQ4NjhlZQ==`

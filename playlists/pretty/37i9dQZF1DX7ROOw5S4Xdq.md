@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Thalles Roberto, Isadora Pompeo
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,208 likes - 40 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,397 likes - 40 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 39 | [Tudo o Que Sou](https://open.spotify.com/track/1dqywAyR0E5xasRAq9BWdA) | [Vocal Renascer](https://open.spotify.com/artist/3khrOLayDDtaAbUBeUQDd2), [Naielly](https://open.spotify.com/artist/0fNnCnzmzMDAmxUgPygioi) | [Tudo o Que Sou](https://open.spotify.com/album/3Dq6FiMfBjEgodbEsOWBBs) | 3:29 |
 | 40 | [Sou o Milagre](https://open.spotify.com/track/5FRSgf4JlZRvB9W3hqIPkK) | [Vanderson Santos](https://open.spotify.com/artist/0qmGMjtYTEdwGXCiMO9uXM) | [Sou o Milagre](https://open.spotify.com/album/5naI0qp0q0KB2jKkCpGom3) | 4:02 |
 
-Snapshot ID: `MCw0Y2I0Zjg0ZDQ2NzBmZWNlM2ZjMDdmZGQ5NDg3ZjJmMWZhY2I4NGQw`
+Snapshot ID: `MCwxZjkyOWI0YTc3ZThlOTVmZDFiODhmMTUxM2Y2NGJkN2Q5NTQzZDRl`

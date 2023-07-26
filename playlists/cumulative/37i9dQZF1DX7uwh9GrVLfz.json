@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: \u6625\u306d\u3080\u308a(Haru Nemuri)",
+  "description": "The legendary classics meet the newest cutting edge. This is Japanese punk. cover: \u30cf\u30eb\u30ab\u30df\u30e9\u30a4 (Haruka Mirai)",
   "name": "Punk Japan",
   "tracks": [
     {
@@ -4330,7 +4330,7 @@
       ],
       "date_added": "2023-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 174102,
       "name": "naze kyou tenkiga warui",
       "url": "https://open.spotify.com/track/6xKi8s3RnwFSrBrqJ6H55F"
@@ -7573,6 +7573,24 @@
     },
     {
       "album": {
+        "name": "YAEN",
+        "url": "https://open.spotify.com/album/3hZXeTpEDbl0gIRlUz6a3m"
+      },
+      "artists": [
+        {
+          "name": "\u30cf\u30eb\u30ab\u30df\u30e9\u30a4",
+          "url": "https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139892,
+      "name": "YAEN",
+      "url": "https://open.spotify.com/track/1UDmCjvSERuwfm71qJoOqs"
+    },
+    {
+      "album": {
         "name": "Super Champon",
         "url": "https://open.spotify.com/album/5jMq8144QUTyhsSOAh8cTS"
       },
@@ -7984,7 +8002,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-21",
+      "date_removed": null,
       "duration_ms": 214100,
       "name": "\u304a\u524d\u306e\u8a71\u306f\u805e\u3044\u3066\u3044\u306a\u3044",
       "url": "https://open.spotify.com/track/57eiMqz3NKsE9wrQxQuBke"
@@ -9338,7 +9356,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 265746,
       "name": "\u4eca\u591c",
       "url": "https://open.spotify.com/track/3OIZncmhlLb29Ude4fffmj"

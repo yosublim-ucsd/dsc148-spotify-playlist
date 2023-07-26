@@ -2728,7 +2728,7 @@
       },
       "artists": [
         {
-          "name": "Aleman",
+          "name": "Alem\u00e1n",
           "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
         },
         {
@@ -3494,7 +3494,7 @@
       },
       "artists": [
         {
-          "name": "Aleman",
+          "name": "Alem\u00e1n",
           "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
         }
       ],
@@ -3884,32 +3884,6 @@
     {
       "album": {
         "name": "Eclipse",
-        "url": "https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3"
-      },
-      "artists": [
-        {
-          "name": "Aleman",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        },
-        {
-          "name": "Yung Sarria",
-          "url": "https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf"
-        },
-        {
-          "name": "Fntxy",
-          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
-        }
-      ],
-      "date_added": "2022-06-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 273485,
-      "name": "Tantas Veces",
-      "url": "https://open.spotify.com/track/1IkpQA0SPJilH29vEnocOB"
-    },
-    {
-      "album": {
-        "name": "Eclipse",
         "url": "https://open.spotify.com/album/5GxpIIm0Vlf3CcDZih5F3T"
       },
       "artists": [
@@ -3932,6 +3906,32 @@
       "duration_ms": 273485,
       "name": "Tantas Veces",
       "url": "https://open.spotify.com/track/3oBJ5L6SEAKXgxuU0eeG7H"
+    },
+    {
+      "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/58bkzXIuIabVia7LjAOpT3"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        },
+        {
+          "name": "Yung Sarria",
+          "url": "https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf"
+        },
+        {
+          "name": "Fntxy",
+          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+        }
+      ],
+      "date_added": "2022-06-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273485,
+      "name": "Tantas Veces",
+      "url": "https://open.spotify.com/track/1IkpQA0SPJilH29vEnocOB"
     },
     {
       "album": {

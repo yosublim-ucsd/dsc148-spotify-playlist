@@ -363,6 +363,28 @@
     },
     {
       "album": {
+        "name": "4000k (feat. Guest Julka)",
+        "url": "https://open.spotify.com/album/5FoXywnyrTjTrDeGTkF2Xx"
+      },
+      "artists": [
+        {
+          "name": "Lipi\u0144ski",
+          "url": "https://open.spotify.com/artist/5NwXxwbRwk0MZJXKQZxcjR"
+        },
+        {
+          "name": "Guest Julka",
+          "url": "https://open.spotify.com/artist/7nmNPZucUmo9x6Mh5llOoZ"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149500,
+      "name": "4000k (feat. Guest Julka)",
+      "url": "https://open.spotify.com/track/2Y4uinDbsBytOcLDJsGeGL"
+    },
+    {
+      "album": {
         "name": "BASEMENT SESSION",
         "url": "https://open.spotify.com/album/1lxwNrUYKH0SgCdCmNH8bd"
       },
@@ -2004,7 +2026,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 247072,
       "name": "Bluzy z USA",
       "url": "https://open.spotify.com/track/0BK3N1kQeY21YaM4mpW2xw"
@@ -2286,7 +2308,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 227000,
       "name": "Buzia",
       "url": "https://open.spotify.com/track/4jFML07ea2jLdMyzyd7H5k"
@@ -2488,7 +2510,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 220588,
       "name": "Ca\u0142a Ta Zabawa",
       "url": "https://open.spotify.com/track/6adNwhiNcVvUnqiir7yGxX"
@@ -2932,7 +2954,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 179625,
       "name": "Ciao",
       "url": "https://open.spotify.com/track/6pNSqB9OR1LbsLUth4ZFU3"
@@ -4574,7 +4596,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 159026,
       "name": "Dreszcz",
       "url": "https://open.spotify.com/track/1VTmOY7LhTrhiCPxXLnNkD"
@@ -6486,7 +6508,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 167145,
       "name": "Hej",
       "url": "https://open.spotify.com/track/6YCDnGDga5TqUXgfWNMz1u"
@@ -6678,6 +6700,24 @@
       "duration_ms": 199128,
       "name": "How Do I Even Breathe Still",
       "url": "https://open.spotify.com/track/7BvOmzHLzdNwvFTI5VAthQ"
+    },
+    {
+      "album": {
+        "name": "HULIGANI",
+        "url": "https://open.spotify.com/album/7ue42OIQvngIn8Jjxa2PRE"
+      },
+      "artists": [
+        {
+          "name": "Bedzik",
+          "url": "https://open.spotify.com/artist/2rLulWQ79BASTjvtgbggmT"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185142,
+      "name": "HULIGANI",
+      "url": "https://open.spotify.com/track/74zamKZeI7mAKS6Ezh4u8s"
     },
     {
       "album": {
@@ -7383,6 +7423,24 @@
     },
     {
       "album": {
+        "name": "Jeden moment",
+        "url": "https://open.spotify.com/album/0sLZZrfdPfvuUtEdFAMxCW"
+      },
+      "artists": [
+        {
+          "name": "JET PACK",
+          "url": "https://open.spotify.com/artist/0JDCaL8f3ou4j54pizsaVW"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194555,
+      "name": "Jeden moment",
+      "url": "https://open.spotify.com/track/1KNVpbSQqpZtV6LbQJNmGX"
+    },
+    {
+      "album": {
         "name": "Jeden raz",
         "url": "https://open.spotify.com/album/29tMqW7UAFeuBIio83SVTw"
       },
@@ -7782,6 +7840,24 @@
       "duration_ms": 172173,
       "name": "Jutro",
       "url": "https://open.spotify.com/track/292dASilR4GFaXWI5QCQYH"
+    },
+    {
+      "album": {
+        "name": "Jutro b\u0119d\u0119 si\u0119 martwi\u0107",
+        "url": "https://open.spotify.com/album/4m5qDTLxNT8w2YCU5Y9fjy"
+      },
+      "artists": [
+        {
+          "name": "Micha\u0142 Sie\u0144kowski",
+          "url": "https://open.spotify.com/artist/4BaVIKHnJfYgrfiAkXKAXN"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158367,
+      "name": "Jutro b\u0119d\u0119 si\u0119 martwi\u0107",
+      "url": "https://open.spotify.com/track/2JXFY9KSRRF0k20R3bmHD3"
     },
     {
       "album": {
@@ -9238,7 +9314,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 135867,
       "name": "Kwitn\u0105ce trawy",
       "url": "https://open.spotify.com/track/2mE2yzhwH6Zhl6dKgDsfuB"
@@ -9326,7 +9402,7 @@
       },
       "artists": [
         {
-          "name": "602 & BSK",
+          "name": "BSK",
           "url": "https://open.spotify.com/artist/5yx3ksMAPQgeaCbT7pgko2"
         },
         {
@@ -10260,10 +10336,40 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 214660,
       "name": "Mamy jeszcze osiem \u017cy\u0107",
       "url": "https://open.spotify.com/track/2HY6YpeHT77r6s8fQ20p33"
+    },
+    {
+      "album": {
+        "name": "Allintapes",
+        "url": "https://open.spotify.com/album/4cAy1lrxp3QWGqrxutoIwb"
+      },
+      "artists": [
+        {
+          "name": "Krzaquu",
+          "url": "https://open.spotify.com/artist/4nK9Szdh0NKJpySxhGEvfj"
+        },
+        {
+          "name": "BUMP'12",
+          "url": "https://open.spotify.com/artist/6lP03Rz1J9cN1YlJ3oGeWu"
+        },
+        {
+          "name": "Kosma Kr\u00f3l",
+          "url": "https://open.spotify.com/artist/4F3X9OYQhZkUfaniE6u3NI"
+        },
+        {
+          "name": "Joter",
+          "url": "https://open.spotify.com/artist/0FFnc18cPaGiJnL5edrqQu"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154000,
+      "name": "Manewr",
+      "url": "https://open.spotify.com/track/2Z3Fd2Zo5ufVXevtxkmWx9"
     },
     {
       "album": {
@@ -10286,6 +10392,24 @@
       "duration_ms": 166412,
       "name": "MANHATTAN",
       "url": "https://open.spotify.com/track/6DIbsL72MuXNO7E2dTSVQ0"
+    },
+    {
+      "album": {
+        "name": "Mania",
+        "url": "https://open.spotify.com/album/1tGEwBatxFNaGgeADTi4ht"
+      },
+      "artists": [
+        {
+          "name": "Spok\u00f3j",
+          "url": "https://open.spotify.com/artist/0HdsXbapycRoUPMinx53fL"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186315,
+      "name": "Mania",
+      "url": "https://open.spotify.com/track/1q7rzdj0StAmDtHjsWYJkV"
     },
     {
       "album": {
@@ -11070,7 +11194,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 116086,
       "name": "monstery",
       "url": "https://open.spotify.com/track/22RszYFlaEOvrI9uOXL92k"
@@ -11512,6 +11636,24 @@
       "duration_ms": 192229,
       "name": "Na marne",
       "url": "https://open.spotify.com/track/0HUsZoL5JZX9eVvhPuoHrU"
+    },
+    {
+      "album": {
+        "name": "Na par\u0119 dni",
+        "url": "https://open.spotify.com/album/42PF2pUZoMHtLX5xKZWhsN"
+      },
+      "artists": [
+        {
+          "name": "evelina ross",
+          "url": "https://open.spotify.com/artist/1oKaZug8yJYjW4ljicp8Iw"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188210,
+      "name": "Na par\u0119 dni",
+      "url": "https://open.spotify.com/track/2ECT7JcfwANQlY9S7zNS2W"
     },
     {
       "album": {
@@ -11996,7 +12138,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 157845,
       "name": "Nie dzwo\u0144 do mnie o 12",
       "url": "https://open.spotify.com/track/7ib2IZ5MOkOgcaZ6MCcnzg"
@@ -12414,7 +12556,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 203041,
       "name": "Nie ta\u0144cz\u0119",
       "url": "https://open.spotify.com/track/3GUzsEroC18uze9fBTbivX"
@@ -12812,6 +12954,24 @@
       "duration_ms": 178779,
       "name": "Niedozobaczenia",
       "url": "https://open.spotify.com/track/2GFGNk14vyWUH37eMABDef"
+    },
+    {
+      "album": {
+        "name": "Niedziela",
+        "url": "https://open.spotify.com/album/0b1gWryQpa34TLTJi0uA6b"
+      },
+      "artists": [
+        {
+          "name": "Sara Kordowska",
+          "url": "https://open.spotify.com/artist/0tEwXd8Y8XF92pbRVVGq9P"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "Niedziela",
+      "url": "https://open.spotify.com/track/2u7h1gZJ0r1nQK1HNLqLn9"
     },
     {
       "album": {
@@ -15221,6 +15381,24 @@
     },
     {
       "album": {
+        "name": "Pixies",
+        "url": "https://open.spotify.com/album/0Atrc19yN6YraASDuUWvnR"
+      },
+      "artists": [
+        {
+          "name": "Pretensje",
+          "url": "https://open.spotify.com/artist/4ERcPXKRGC38uXupJTfWGC"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225258,
+      "name": "Pixies",
+      "url": "https://open.spotify.com/track/3YVNzmsM8XFqxlAm6IrqzJ"
+    },
+    {
+      "album": {
         "name": "Pi\u00f3ra",
         "url": "https://open.spotify.com/album/5ZWw141KHOakjnQQ91WkjE"
       },
@@ -16165,6 +16343,28 @@
     },
     {
       "album": {
+        "name": "Promocja",
+        "url": "https://open.spotify.com/album/2ZHCeSpyy6z2JVucbD7yIi"
+      },
+      "artists": [
+        {
+          "name": "Ola Bird",
+          "url": "https://open.spotify.com/artist/3Zp731uRE5DetTNcJjcLO6"
+        },
+        {
+          "name": "Jedyny",
+          "url": "https://open.spotify.com/artist/6VZpEg7oH5aLEBzu1KtMZF"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143076,
+      "name": "Promocja",
+      "url": "https://open.spotify.com/track/5zoc7YDzrLJknVrx4eajmu"
+    },
+    {
+      "album": {
         "name": "Prosecco",
         "url": "https://open.spotify.com/album/0ErGxuvwWHteWwbJSTJlLB"
       },
@@ -16444,7 +16644,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 148757,
       "name": "Psychiczne Spa",
       "url": "https://open.spotify.com/track/5pq1DkboQeqYpP8DYgXzxd"
@@ -17130,7 +17330,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 204000,
       "name": "Sabota\u017cysta",
       "url": "https://open.spotify.com/track/7GT16KwtIp4MZiZLCcg7sC"
@@ -18585,6 +18785,24 @@
     },
     {
       "album": {
+        "name": "Spadam",
+        "url": "https://open.spotify.com/album/7aBdvrrwYH5aVZ3x1myH0c"
+      },
+      "artists": [
+        {
+          "name": "Zale\u015b",
+          "url": "https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202568,
+      "name": "Spadam",
+      "url": "https://open.spotify.com/track/1BdTmUqAGgd5qJd5LHLOie"
+    },
+    {
+      "album": {
         "name": "Spellcaster",
         "url": "https://open.spotify.com/album/2mdKVn2DQYZ5rnO7qA7VC1"
       },
@@ -19672,7 +19890,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 187333,
       "name": "Tak najlepiej jest",
       "url": "https://open.spotify.com/track/5tD63i2O2Lfrata3EBUYRS"
@@ -19842,6 +20060,28 @@
       "duration_ms": 180000,
       "name": "Taste Of God",
       "url": "https://open.spotify.com/track/5OJNsg2hzFS2BtiScd6VcR"
+    },
+    {
+      "album": {
+        "name": "Tata",
+        "url": "https://open.spotify.com/album/62PsbubnFEpTeqPx3bgbC2"
+      },
+      "artists": [
+        {
+          "name": "Damian Sikorski Projekt",
+          "url": "https://open.spotify.com/artist/6XlClXxej63SqpWd3MpN4c"
+        },
+        {
+          "name": "Micha\u0142 Kowalonek",
+          "url": "https://open.spotify.com/artist/3oIZFLMAjPpJjv74YpRl5O"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170686,
+      "name": "Tata",
+      "url": "https://open.spotify.com/track/3ucBTDKJRX4gIrRz7Q9vsa"
     },
     {
       "album": {
@@ -20442,7 +20682,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 178639,
       "name": "To jeszcze za wcze\u015bnie",
       "url": "https://open.spotify.com/track/20d4XH3JOqVijocGqhHWb6"
@@ -20669,6 +20909,24 @@
     },
     {
       "album": {
+        "name": "To\u0144",
+        "url": "https://open.spotify.com/album/5DBfraRo8hFpwmxGZC55m2"
+      },
+      "artists": [
+        {
+          "name": "Moose",
+          "url": "https://open.spotify.com/artist/0IPuIVES6K0q9Oegw0MUbo"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153820,
+      "name": "To\u0144",
+      "url": "https://open.spotify.com/track/53059dEqGhvzaByBh31Tj0"
+    },
+    {
+      "album": {
         "name": "Trac\u0119",
         "url": "https://open.spotify.com/album/3caYjbKKrcKpYVpf8yK9W2"
       },
@@ -20692,6 +20950,24 @@
       "duration_ms": 137379,
       "name": "Trac\u0119",
       "url": "https://open.spotify.com/track/5YNXgJjwLdk3d6V8hgsms8"
+    },
+    {
+      "album": {
+        "name": "Trac\u0119 czas",
+        "url": "https://open.spotify.com/album/4VFTbDqrFS6iAWZO7q1yyu"
+      },
+      "artists": [
+        {
+          "name": "Justyna Biedrawa",
+          "url": "https://open.spotify.com/artist/2jonFoAFilDQI0GmJJu3qE"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193659,
+      "name": "Trac\u0119 czas",
+      "url": "https://open.spotify.com/track/4JWisHDLtxABXGh4H6E92A"
     },
     {
       "album": {
@@ -21029,6 +21305,24 @@
     },
     {
       "album": {
+        "name": "Twarz\u0105 w twarz",
+        "url": "https://open.spotify.com/album/6TVUzQYgr5uD5QHNZuXFh0"
+      },
+      "artists": [
+        {
+          "name": "IGA",
+          "url": "https://open.spotify.com/artist/7vZNNXqodOE1TWpiZnSqYv"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Twarz\u0105 w twarz",
+      "url": "https://open.spotify.com/track/2mif7oGhSZJF9hnxPmdpFM"
+    },
+    {
+      "album": {
         "name": "Reflected In",
         "url": "https://open.spotify.com/album/1A5LROAzhfzFLDi3z0RLau"
       },
@@ -21102,6 +21396,24 @@
       "duration_ms": 213087,
       "name": "TY",
       "url": "https://open.spotify.com/track/41QJL0NRo3buGw3HZzHdeI"
+    },
+    {
+      "album": {
+        "name": "Ty i Ja",
+        "url": "https://open.spotify.com/album/0LUYlL3fXoxWdWRyim5wuA"
+      },
+      "artists": [
+        {
+          "name": "LINA",
+          "url": "https://open.spotify.com/artist/6lBBKOkpTnfVKIP0e0CrOQ"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200105,
+      "name": "Ty i Ja",
+      "url": "https://open.spotify.com/track/4qWsqrMGL5xLxINIZxh3Dn"
     },
     {
       "album": {
@@ -21530,7 +21842,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 137319,
       "name": "UNCUT GEMS",
       "url": "https://open.spotify.com/track/1iCd0beQeLdxhvXEyGfv3W"
@@ -21552,6 +21864,24 @@
       "duration_ms": 178818,
       "name": "Unfollow",
       "url": "https://open.spotify.com/track/10G3uITnOFD0XPBm27rlNx"
+    },
+    {
+      "album": {
+        "name": "Unspoken",
+        "url": "https://open.spotify.com/album/009D9RvNApc2fMC8UPkFSZ"
+      },
+      "artists": [
+        {
+          "name": "Norbert Grzegorczyk",
+          "url": "https://open.spotify.com/artist/3OmTpaZrQ7V8zKEOsrymHN"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270000,
+      "name": "Unspoken",
+      "url": "https://open.spotify.com/track/7fRj2peGoCzUZmibVyft6N"
     },
     {
       "album": {
@@ -21966,7 +22296,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 230759,
       "name": "Wakacje",
       "url": "https://open.spotify.com/track/692wW3ECxQTibLanO9R6S7"

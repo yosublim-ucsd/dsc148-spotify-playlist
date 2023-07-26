@@ -1,12 +1,12 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
-  "num_followers": 62505,
+  "num_followers": 62566,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTdkN2U2YjUwNzg3ZTQ2NjAxMjEyNzM5ZGIxOWQxYTUzNDY3NDhm",
+  "snapshot_id": "MCw0NzNlN2Q0MmYxM2UyOGZlZmE3ZWYxNTM2M2Q2ZmU1YWQ3YmVhOWIx",
   "tracks": [
     {
       "added_at": "2023-06-08 23:00:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2023-06-08 23:00:00",
       "album": {
+        "name": "Never Gonna Be",
+        "url": "https://open.spotify.com/album/4NPusQqsK7m5CDLa0CebYM"
+      },
+      "artists": [
+        {
+          "name": "Villager",
+          "url": "https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7"
+        }
+      ],
+      "duration_ms": 225699,
+      "name": "Never Gonna Be",
+      "url": "https://open.spotify.com/track/4U776N5SlNQ7CtQYB5CY8p"
+    },
+    {
+      "added_at": "2023-06-08 23:00:00",
+      "album": {
         "name": "B With Me (Bump & Flex Mix Radio Edit)",
         "url": "https://open.spotify.com/album/66W3MW1IhxWpa1g5tZccgC"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 218640,
       "name": "B With Me - Bump & Flex Radio Edit",
       "url": "https://open.spotify.com/track/3r7xbYVEMRXiP9PZ8bh1xj"
-    },
-    {
-      "added_at": "2023-06-08 23:00:00",
-      "album": {
-        "name": "Never Gonna Be",
-        "url": "https://open.spotify.com/album/4NPusQqsK7m5CDLa0CebYM"
-      },
-      "artists": [
-        {
-          "name": "Villager",
-          "url": "https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7"
-        }
-      ],
-      "duration_ms": 225699,
-      "name": "Never Gonna Be",
-      "url": "https://open.spotify.com/track/4U776N5SlNQ7CtQYB5CY8p"
     },
     {
       "added_at": "2023-06-08 23:00:00",
@@ -1139,26 +1139,18 @@
     {
       "added_at": "2023-06-08 23:00:00",
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/75JBBBbv7mgBvp6q8z0idD"
+        "name": "Visions",
+        "url": "https://open.spotify.com/album/3rWDCqvvj2cmJjhUlFSIMa"
       },
       "artists": [
         {
-          "name": "Mikey B",
-          "url": "https://open.spotify.com/artist/5WVfrnCWJYHvQEUIc1ViWy"
-        },
-        {
-          "name": "Emma Cannon",
-          "url": "https://open.spotify.com/artist/5lImHD87PNxK8nA7mGRRSN"
-        },
-        {
-          "name": "Local",
-          "url": "https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2"
+          "name": "Direct",
+          "url": "https://open.spotify.com/artist/5eOyDcFvvdc7D7BD6gCdsi"
         }
       ],
-      "duration_ms": 243557,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/0SOWbNlPwGqO4uO6YP5spS"
+      "duration_ms": 135573,
+      "name": "Visions",
+      "url": "https://open.spotify.com/track/1nQpu5Bzfc2HylKKwX06Lk"
     }
   ],
   "unique_name": "New UK Garage",

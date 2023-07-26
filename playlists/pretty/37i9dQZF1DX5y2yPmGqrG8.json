@@ -1,12 +1,12 @@
 {
   "description": "Immerse in an imaginary panorama of atmospheric soundscapes.",
-  "num_followers": 317863,
+  "num_followers": 318004,
   "original_name": "Deep Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDM3YjZmMDkyOTIwZjZjOGQzOGZkN2I2ZWJhZWY1MGNlODg2MWRi",
+  "snapshot_id": "MCw0ZDQ1OThiZjc5NTc0MzczZWNjZmNiNzE5Zjk2OWY4YWQwMWQ4NzJh",
   "tracks": [
     {
       "added_at": "2022-03-30 05:08:29",
@@ -217,22 +217,6 @@
       "url": "https://open.spotify.com/track/6nIVSeN1LtdGW7pngh7lrq"
     },
     {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Othona",
-        "url": "https://open.spotify.com/album/4WW91JTZprRyFHT7A8ZGS5"
-      },
-      "artists": [
-        {
-          "name": "Dark Sky",
-          "url": "https://open.spotify.com/artist/1qo9Fb4nYgez0Hpfi2RuiV"
-        }
-      ],
-      "duration_ms": 256532,
-      "name": "Angels",
-      "url": "https://open.spotify.com/track/0ZrpYZAJWku0zk4i0WVXUT"
-    },
-    {
       "added_at": "2022-10-14 04:40:55",
       "album": {
         "name": "I Could Be Your Dog / I Could Be Your Moon",
@@ -251,6 +235,22 @@
       "duration_ms": 80427,
       "name": "Brush",
       "url": "https://open.spotify.com/track/5HRpMnbWQ1xwQ6kOJseu59"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Othona",
+        "url": "https://open.spotify.com/album/4WW91JTZprRyFHT7A8ZGS5"
+      },
+      "artists": [
+        {
+          "name": "Dark Sky",
+          "url": "https://open.spotify.com/artist/1qo9Fb4nYgez0Hpfi2RuiV"
+        }
+      ],
+      "duration_ms": 256532,
+      "name": "Angels",
+      "url": "https://open.spotify.com/track/0ZrpYZAJWku0zk4i0WVXUT"
     },
     {
       "added_at": "2023-04-13 19:40:42",
@@ -351,22 +351,6 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Raising Your Voice... Trying to Stop an Echo (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2AbCfihy80zuR1mPwN5yLl"
-      },
-      "artists": [
-        {
-          "name": "Hammock",
-          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
-        }
-      ],
-      "duration_ms": 255335,
-      "name": "I Can Almost See You",
-      "url": "https://open.spotify.com/track/11n8LudggXuZXmldSlAadR"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 234320,
       "name": "Falaise",
       "url": "https://open.spotify.com/track/3rkJH9BaiCWpRY718WTkBP"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Raising Your Voice... Trying to Stop an Echo (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2AbCfihy80zuR1mPwN5yLl"
+      },
+      "artists": [
+        {
+          "name": "Hammock",
+          "url": "https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1"
+        }
+      ],
+      "duration_ms": 255335,
+      "name": "I Can Almost See You",
+      "url": "https://open.spotify.com/track/11n8LudggXuZXmldSlAadR"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -461,22 +461,6 @@
       "url": "https://open.spotify.com/track/1i8MaQec4fQXj1enX8ZWF4"
     },
     {
-      "added_at": "2022-10-14 04:40:55",
-      "album": {
-        "name": "Gelis",
-        "url": "https://open.spotify.com/album/7ezhsL45DIZcUzv8HdGR2l"
-      },
-      "artists": [
-        {
-          "name": "Flako",
-          "url": "https://open.spotify.com/artist/4gYKVizj3uSquuZvokYgZm"
-        }
-      ],
-      "duration_ms": 188250,
-      "name": "Gelis",
-      "url": "https://open.spotify.com/track/3vy3sOpzkTWc3VsIBjgrrS"
-    },
-    {
       "added_at": "2021-10-06 04:52:47",
       "album": {
         "name": "Promises",
@@ -499,6 +483,22 @@
       "duration_ms": 530894,
       "name": "Movement 6",
       "url": "https://open.spotify.com/track/5i0EqAX50KcKNgMDMHZndM"
+    },
+    {
+      "added_at": "2022-10-14 04:40:55",
+      "album": {
+        "name": "Gelis",
+        "url": "https://open.spotify.com/album/7ezhsL45DIZcUzv8HdGR2l"
+      },
+      "artists": [
+        {
+          "name": "Flako",
+          "url": "https://open.spotify.com/artist/4gYKVizj3uSquuZvokYgZm"
+        }
+      ],
+      "duration_ms": 188250,
+      "name": "Gelis",
+      "url": "https://open.spotify.com/track/3vy3sOpzkTWc3VsIBjgrrS"
     },
     {
       "added_at": "2023-06-02 00:29:19",
@@ -557,22 +557,6 @@
       "url": "https://open.spotify.com/track/7Gb3UUUaX0A46FJUgXxily"
     },
     {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Waende",
-        "url": "https://open.spotify.com/album/3w9bvWO480nCjEQuxzwrkc"
-      },
-      "artists": [
-        {
-          "name": "Ceeys",
-          "url": "https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT"
-        }
-      ],
-      "duration_ms": 232742,
-      "name": "Waende",
-      "url": "https://open.spotify.com/track/0jIymbEdH6q5ZgFVwGJehs"
-    },
-    {
       "added_at": "2022-10-14 04:40:55",
       "album": {
         "name": "Persona",
@@ -587,6 +571,22 @@
       "duration_ms": 351948,
       "name": "Untravel",
       "url": "https://open.spotify.com/track/39tUHDzQ5nlGPtYaA71Y9v"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Waende",
+        "url": "https://open.spotify.com/album/3w9bvWO480nCjEQuxzwrkc"
+      },
+      "artists": [
+        {
+          "name": "Ceeys",
+          "url": "https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT"
+        }
+      ],
+      "duration_ms": 232742,
+      "name": "Waende",
+      "url": "https://open.spotify.com/track/0jIymbEdH6q5ZgFVwGJehs"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -711,22 +711,6 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z"
-      },
-      "artists": [
-        {
-          "name": "Floating Points",
-          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
-        }
-      ],
-      "duration_ms": 143080,
-      "name": "Requiem for CS70 and Strings",
-      "url": "https://open.spotify.com/track/5tJZSE0l9xTnRrccjBZZXg"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
         "name": "Angel's Flight",
         "url": "https://open.spotify.com/album/33d7YxK49GlKrzATMvdhyR"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 352357,
       "name": "Angel's Flight",
       "url": "https://open.spotify.com/track/3W3xcAOWb0TkMqqI7Rd5xg"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/1WwZwdTICfaZI51BIIEN9z"
+      },
+      "artists": [
+        {
+          "name": "Floating Points",
+          "url": "https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L"
+        }
+      ],
+      "duration_ms": 143080,
+      "name": "Requiem for CS70 and Strings",
+      "url": "https://open.spotify.com/track/5tJZSE0l9xTnRrccjBZZXg"
     },
     {
       "added_at": "2021-10-06 04:52:47",
@@ -799,6 +799,22 @@
     {
       "added_at": "2021-10-06 04:52:47",
       "album": {
+        "name": "Los Desamores de Dewey Martino",
+        "url": "https://open.spotify.com/album/2piXKaen2vZtVg4ZDDUtYg"
+      },
+      "artists": [
+        {
+          "name": "Dewey Martino",
+          "url": "https://open.spotify.com/artist/5kY5tnaN1fW6DHy7br4AGX"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "Pipopapipo",
+      "url": "https://open.spotify.com/track/4mk4svlMfeb0BIdQahW1ZC"
+    },
+    {
+      "added_at": "2021-10-06 04:52:47",
+      "album": {
         "name": "\u97f3\u306f\u5149\u308b (The Sound Is Shining)",
         "url": "https://open.spotify.com/album/1GYbiaI0mZ9OQPnggq6d4T"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 292466,
       "name": "There Were Bells",
       "url": "https://open.spotify.com/track/16e88gyG4rLhaAAYqRPujQ"
-    },
-    {
-      "added_at": "2021-10-06 04:52:47",
-      "album": {
-        "name": "Los Desamores de Dewey Martino",
-        "url": "https://open.spotify.com/album/2piXKaen2vZtVg4ZDDUtYg"
-      },
-      "artists": [
-        {
-          "name": "Dewey Martino",
-          "url": "https://open.spotify.com/artist/5kY5tnaN1fW6DHy7br4AGX"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Pipopapipo",
-      "url": "https://open.spotify.com/track/4mk4svlMfeb0BIdQahW1ZC"
     },
     {
       "added_at": "2023-06-02 00:49:40",

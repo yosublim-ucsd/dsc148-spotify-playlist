@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL?si=LffdCU\-nReObp\_8lBgHXpA">Kingdmusic</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,422 likes - 100 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,537 likes - 100 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 99 | [We Give You Glory](https://open.spotify.com/track/6Iw88a7ORvZWfRmphg627e) | [Minister Ogense](https://open.spotify.com/artist/2KRSmba65eENhcKye3LAsh) | [We Give You Glory](https://open.spotify.com/album/3DctwplBKCmJfJANyaxQxs) | 5:23 |
 | 100 | [Hallelujah anyhow](https://open.spotify.com/track/0Avf2VL3oZpbMHSy5idioX) | [Prophet Festus Akhidenor](https://open.spotify.com/artist/7lcPb5GGIGiv0haN07HFek) | [Hallelujah anyhow](https://open.spotify.com/album/394J2wiYWl6jNn8KzHYRD0) | 3:22 |
 
-Snapshot ID: `MCwwYzE0NGFmMjNmYTQ1NTAwYzZmYTkxNDMzNzQ3NDE3ZDgzNjA2OGU5`
+Snapshot ID: `MCxmMmZkYWM5MmQyOGZmZWM2NzVlZTFmMWVkZTFlMjEzZjM3OWE5MGZi`

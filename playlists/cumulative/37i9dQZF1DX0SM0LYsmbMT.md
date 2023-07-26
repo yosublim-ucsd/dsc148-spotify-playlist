@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-3,569 songs - 5 day 16 hr 58 min
+3,570 songs - 5 day 17 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1829,6 +1829,7 @@
 | [Macaw](https://open.spotify.com/track/38bsmblcMrlD6eGZ6DSVtF) | [Aebleo](https://open.spotify.com/artist/0GKYxvZzuFPYIVARmbipyR), [Dezl](https://open.spotify.com/artist/0Rrqv6SWqD5cYgOOSBjwGc), [SamuW](https://open.spotify.com/artist/2tqQ33SdGO1LqNg8DQDCio) | [Macaw](https://open.spotify.com/album/5oKESZw9NhVhg4Xd4Zkowm) | 1:44 | 2020-05-12 | 2020-07-18 |
 | [Macchina Infinita](https://open.spotify.com/track/0O02t69SS3c8JEQwmJoADM) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY) | [Macchina Infinita](https://open.spotify.com/album/11036KOn5cjHXT1BVwTzi8) | 1:54 | 2021-04-09 | 2021-08-27 |
 | [Macintosh](https://open.spotify.com/track/4mAuP7hMw6FbDTVAo3DazH) | [A S T R O](https://open.spotify.com/artist/35iqidtNbi2CzifmDD4URB) | [Macintosh](https://open.spotify.com/album/2VIq3ir5aNQOa8MLSIVWrM) | 2:08 | 2019-10-11 | 2020-03-13 |
+| [Madrid](https://open.spotify.com/track/7sn2vY1Uh0jLQNiFuMETSo) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Madrid](https://open.spotify.com/album/7nPajU253ClFSt0PVMbBs1) | 2:12 | 2023-07-13 |  |
 | [Magic Experience](https://open.spotify.com/track/1aCCAjPxrOgqIQWIXdDS36) | [Marcos Caixa](https://open.spotify.com/artist/2MnrAvsTKE41QWJzhqNmq5) | [Magic Experience](https://open.spotify.com/album/1r7mrHKrAktjcCH0a1YreY) | 2:09 | 2020-05-15 | 2020-07-28 |
 | [Magnificent Minds](https://open.spotify.com/track/5qtNshZntEZX5szPbTcSio) | [mädmäx](https://open.spotify.com/artist/6e1SIZMnXuUFsXt7xMbkg0) | [Magnificent Minds](https://open.spotify.com/album/4mDUULtAAfTZYnGb83fNHn) | 1:28 | 2022-03-24 |  |
 | [Magnifico Disastro](https://open.spotify.com/track/2MOMbPmESd5YkmNz8LjKAe) | [XXIII](https://open.spotify.com/artist/1iMewV5kCtODzBgKmPnIq7), [Silvaa.beats](https://open.spotify.com/artist/3TpGusolSBzkwFqtj9Kwre) | [Me And Myself](https://open.spotify.com/album/2dBNeVqZCCIu27Oy05SuMH) | 1:20 | 2022-05-05 | 2023-07-14 |
@@ -3518,7 +3519,7 @@
 | [With You](https://open.spotify.com/track/6WAlH9EjWmonX5AQWSYX7K) | [C4C](https://open.spotify.com/artist/5jZeLexrrwGNUy6nv7tzdr), [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84) | [With You](https://open.spotify.com/album/6KFCowhSiHSUUpp06yPcWL) | 3:23 | 2021-10-08 | 2021-11-12 |
 | [With Your Toes Dipped In](https://open.spotify.com/track/2YfBGI5vd7gfiQ9VRbrrPT) | [Hz.](https://open.spotify.com/artist/59HCGLavl7XxBSiAdB2L8j), [Thoreau](https://open.spotify.com/artist/0mXq227LEoIqWSv4bTuGe2) | [With Your Toes Dipped In](https://open.spotify.com/album/1Ih9BAvSM69zT8hFn4yKYR) | 2:21 | 2021-07-30 | 2021-08-13 |
 | [With\(out\) You](https://open.spotify.com/track/4gcGtTNHCu3u98zmYyF0iC) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Aperitivo](https://open.spotify.com/album/5CHVzPfi1ENxlYlGU9RruZ) | 1:50 | 2021-09-24 | 2021-11-12 |
-| [Withered Flowers](https://open.spotify.com/track/1YkcLEmOUVmGFD3snAyEN2) | [Iassu](https://open.spotify.com/artist/2ojxL6kb0AB5KaHAYoXUDe) | [Withered Flowers](https://open.spotify.com/album/1tImnzWhnlCt4nPP0E27b8) | 1:37 | 2022-11-17 |  |
+| [Withered Flowers](https://open.spotify.com/track/1YkcLEmOUVmGFD3snAyEN2) | [Iassu](https://open.spotify.com/artist/2ojxL6kb0AB5KaHAYoXUDe) | [Withered Flowers](https://open.spotify.com/album/1tImnzWhnlCt4nPP0E27b8) | 1:37 | 2022-11-17 | 2023-07-26 |
 | [Without You](https://open.spotify.com/track/5OxW1UtWzcCxpixf4UUZFg) | [F\. Of Audiotreats](https://open.spotify.com/artist/5Xzs0dh0Edme7rKAurunCL) | [Without You](https://open.spotify.com/album/0znlOAcX9oDvkC2mBjgOpc) | 2:32 | 2020-09-04 | 2021-02-06 |
 | [Without You](https://open.spotify.com/track/0g52f9P5ayxN6hHv7z9q8Y) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Without You](https://open.spotify.com/album/34PZjsdCEGoARjSl1rNyF5) | 2:02 | 2023-05-05 | 2023-05-19 |
 | [WithoutU](https://open.spotify.com/track/4H6oPYg7sOleIhqw2LTpY3) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK), [braj mahal](https://open.spotify.com/artist/2uHJReWme1oJ0jaXD1fiHT) | [WithoutU](https://open.spotify.com/album/2coryi3G3CfRwUDKNTijM8) | 1:49 | 2020-10-16 | 2021-05-21 |

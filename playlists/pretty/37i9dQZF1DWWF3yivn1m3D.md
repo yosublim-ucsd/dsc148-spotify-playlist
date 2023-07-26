@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWF3yivn1m3D.md) - [plain]
 
 > The best of the legendary composer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 632,611 likes - 77 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 633,070 likes - 77 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Time](https://open.spotify.com/track/6ZFbXIJkuI1dVNWvzJzown) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Inception \(Music from the Motion Picture\)](https://open.spotify.com/album/2qvA7HmSg1iM6XMiFF76dp) | 4:35 |
 | 2 | [Cornfield Chase](https://open.spotify.com/track/6pWgRkpqVfxnj3WuIcJ7WP) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Interstellar \(Original Motion Picture Soundtrack\) \[Expanded Edition\]](https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP) | 2:06 |
 | 3 | [This Land \- From "The Lion King"/Score](https://open.spotify.com/track/6EKywtYHtZLAvxyEcqrbE7) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Lebo M.](https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA) | [The Lion King](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) | 2:55 |
-| 4 | [Now We Are Free](https://open.spotify.com/track/1elGwF4VwkwglV4nCBPJtv) | [Lisa Gerrard](https://open.spotify.com/artist/3C4MmUJYQN9svNdedAR2BK), [Klaus Badelt](https://open.spotify.com/artist/03GruNQP8X25PCoWzdvIGZ), [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Gavin Greenaway](https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q), [The Lyndhurst Orchestra](https://open.spotify.com/artist/6djeIA7Gl9v9gvnpRc1eIF) | [Gladiator \- Music From The Motion Picture](https://open.spotify.com/album/0mN9E0N4bRBD7GKktlaRI0) | 4:14 |
+| 4 | [Now We Are Free](https://open.spotify.com/track/1elGwF4VwkwglV4nCBPJtv) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Klaus Badelt](https://open.spotify.com/artist/03GruNQP8X25PCoWzdvIGZ), [Lisa Gerrard](https://open.spotify.com/artist/3C4MmUJYQN9svNdedAR2BK), [Gavin Greenaway](https://open.spotify.com/artist/3TaTCYiv3QcamWjvRCcz6Q), [The Lyndhurst Orchestra](https://open.spotify.com/artist/6djeIA7Gl9v9gvnpRc1eIF) | [Gladiator \- Music From The Motion Picture](https://open.spotify.com/album/0mN9E0N4bRBD7GKktlaRI0) | 4:14 |
 | 5 | [The Frozen Planet \- From Frozen Planet II](https://open.spotify.com/track/3Jqj5iGN9OeK6aTJhjKSEA) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Adam Lukas](https://open.spotify.com/artist/4E39NH9eiLP3IMISn28wCd), [James Everingham](https://open.spotify.com/artist/2gn4jnqcC9yMXt6433gleQ), [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Frozen Planet \(From Frozen Planet II\)](https://open.spotify.com/album/4KkII36tTfopBWuElxzaQt) | 4:23 |
 | 6 | [S.T.A.Y.](https://open.spotify.com/track/6GUq9y0Iy5QrAuPYxTrFp2) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Interstellar \(Original Motion Picture Soundtrack\) \[Expanded Edition\]](https://open.spotify.com/album/3B61kSKTxlY36cYgzvf3cP) | 6:23 |
 | 7 | [Flight](https://open.spotify.com/track/1mUG7ftwIxuq5fhMPkyM02) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Man of Steel \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2rgInD5nZNONheZwqir4Xg) | 4:18 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWF3yivn1m3D.md) - [plain]
 | 76 | [Run Free](https://open.spotify.com/track/75OrTolKEnimJj625JUIft) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [Spirit: Stallion Of The Cimarron \(Music From The Original Motion Picture\)](https://open.spotify.com/album/3pDG0vQ5LfL2BQZJJtkbg8) | 6:21 |
 | 77 | [Iris And Jasper](https://open.spotify.com/track/4JCi6FpV6DHi0OBFhmrKGy) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Holiday \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1wJZSN3VrWTR8OcFJ4lp9I) | 3:24 |
 
-Snapshot ID: `MCwyYjcwZDU0ODVhYzYzMzMyMGFmM2RmYWE1YjlkZmRmNzI5YWFhYWQ0`
+Snapshot ID: `MCxmNGFhZDY4NDQ5NjY4YTk4N2RiOTUwOGE4YTUwYzM0YmQ0NjUwMDBi`

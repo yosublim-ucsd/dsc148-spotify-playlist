@@ -2706,7 +2706,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 143346,
       "name": "Don't Stop Believin' (feat. Andy Marsh & DMNDS)",
       "url": "https://open.spotify.com/track/5mcwpRXcOiIuepIeNphJJa"
@@ -2736,7 +2736,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 143346,
       "name": "Don't Stop Believin' (feat. Andy Marsh & DMNDS)",
       "url": "https://open.spotify.com/track/7qb2oHJElgItGAdflIprDU"
@@ -7482,10 +7482,36 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 133000,
       "name": "Seven Nation Army (feat. KOYSINA)",
       "url": "https://open.spotify.com/track/05y860js7tl7pqqleQz1Ib"
+    },
+    {
+      "album": {
+        "name": "NYE Party",
+        "url": "https://open.spotify.com/album/7vnuG7sCqQDUsNfYl5rMi7"
+      },
+      "artists": [
+        {
+          "name": "Dance Fruits Music",
+          "url": "https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC"
+        },
+        {
+          "name": "DMNDS",
+          "url": "https://open.spotify.com/artist/0U3b0BjITtQHwjwBVtiGcO"
+        },
+        {
+          "name": "KOYSINA",
+          "url": "https://open.spotify.com/artist/5n7PIY3yS7npRtQuI5qgjF"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133000,
+      "name": "Seven Nation Army (feat. KOYSINA)",
+      "url": "https://open.spotify.com/track/4Q2GtFvtexpC7K6meIhHba"
     },
     {
       "album": {
@@ -8360,10 +8386,32 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 122000,
       "name": "Sweet Dreams (Are Made of This)",
       "url": "https://open.spotify.com/track/5s453WOoAxGOUvPGHeUhi1"
+    },
+    {
+      "album": {
+        "name": "NYE Party",
+        "url": "https://open.spotify.com/album/7vnuG7sCqQDUsNfYl5rMi7"
+      },
+      "artists": [
+        {
+          "name": "Dance Fruits Music",
+          "url": "https://open.spotify.com/artist/3HphLd0XiELTvIPYf55dYC"
+        },
+        {
+          "name": "Steve Void",
+          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
+        }
+      ],
+      "date_added": "2023-06-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "Sweet Dreams (Are Made of This)",
+      "url": "https://open.spotify.com/track/7rHWOyfAaoeFgG2BJ80zSB"
     },
     {
       "album": {

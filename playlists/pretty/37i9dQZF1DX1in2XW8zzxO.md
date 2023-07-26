@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 
 > Amapiano tracks to fuel your beast mode!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,306 likes - 79 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,469 likes - 79 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 | 78 | [Bulldozer](https://open.spotify.com/track/63aJ6gi41fLZdmd29AMi01) | [DJ Lag](https://open.spotify.com/artist/1svX5cMlY22N60RxwzeJNO), [Novelist](https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc) | [Bulldozer](https://open.spotify.com/album/3mmGpsFRLodEWkK3kmBsHt) | 5:01 |
 | 79 | [Bundle of Joy](https://open.spotify.com/track/63HL27uW6RXQq0vjL8XZIe) | [Vigro Deep](https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH) | [Baby Boy 2 Reloaded](https://open.spotify.com/album/1yWI355GWrXToRiwrP6osF) | 7:27 |
 
-Snapshot ID: `MCxmMTNmYzA1M2M2ZWQ4YjdkY2FmNzhlYjdmNGI4YTVkODRmNzRlYzM2`
+Snapshot ID: `MCw5ZDc2YWQ1ODQ4Nzc4YTNiNzQ3OGEwMWNkZWZkNDY5NmNmNTRmNzFj`

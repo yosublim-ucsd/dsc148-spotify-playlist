@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXahxq4Q8el6.md) - [plain]
 
 > Uplifting scores and soundtracks to make your heart happy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,246 likes - 56 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,373 likes - 56 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXahxq4Q8el6.md) - [plain]
 | 51 | [The Burning Bush](https://open.spotify.com/track/5tgyHc2LLF0BI2udBTMFJz) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ) | [The Prince Of Egypt \(Music From The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5l7lj9nJbbTs0vCHhV0hVA) | 7:16 |
 | 52 | [End Titles](https://open.spotify.com/track/1CxT3WZkSuEAxPOKAPzDDl) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [The Duchess \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6nOhQTzY8IZPRcYpkfZOsl) | 2:08 |
 | 53 | [Adventures of a London Gentleman](https://open.spotify.com/track/16iqQIS5kz8tj2EeoDvq7i) | [Christopher Willis](https://open.spotify.com/artist/1Qu6r22G2M8Xqz0GawYv8P) | [The Personal History of David Copperfield \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5b1HuHbpxKSfnjmuHFhFVW) | 3:49 |
-| 54 | [Flying Vessel](https://open.spotify.com/track/1kmkBb6u7bA37GxDaNPils) | [Ilan Eshkeri](https://open.spotify.com/artist/147dKKwnUn9qesNx8uAs3Z), [London Metropolitan Orchestra](https://open.spotify.com/artist/3fYr24qYhJejxewFrckFE4), [Andy Brown](https://open.spotify.com/artist/6u83LnSsShAAixAassk1pB) | [Stardust \- Music From The Motion Picture](https://open.spotify.com/album/0HBJxR0Sm2tUcrL5wGOPof) | 3:41 |
+| 54 | [Eshkeri: Flying Vessel](https://open.spotify.com/track/1kmkBb6u7bA37GxDaNPils) | [Ilan Eshkeri](https://open.spotify.com/artist/147dKKwnUn9qesNx8uAs3Z), [London Metropolitan Orchestra](https://open.spotify.com/artist/3fYr24qYhJejxewFrckFE4), [Andy Brown](https://open.spotify.com/artist/6u83LnSsShAAixAassk1pB) | [Stardust \- Music From The Motion Picture](https://open.spotify.com/album/0HBJxR0Sm2tUcrL5wGOPof) | 3:41 |
 | 55 | [Nuovo Cinema Paradiso](https://open.spotify.com/track/4xx3UI7cLCk1awQPAPLeHj) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C) | [Nuovo Cinema Paradiso \(Original Motion Picture Soundtrack\) \[Remastered Edition\]](https://open.spotify.com/album/0O1LCjDQ6gFjaLG05xj0xH) | 2:58 |
 | 56 | [Under the Stars \- From "The Lion King"/Score](https://open.spotify.com/track/37lotBTQcBbYI7vEoGsOfg) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Lebo M.](https://open.spotify.com/artist/0zp9qNDSeYi3QEodhcKAAA) | [The Lion King](https://open.spotify.com/album/3YA5DdB3wSz4pdfEXoMyRd) | 3:45 |
 
-Snapshot ID: `MCxjZDY2MzYwNTk3OGM3NmE2OGExZDE5NmJkZGUxZjU1ZjExZGY0ZjU3`
+Snapshot ID: `MCw1Zjk4M2U0Y2M4YmU4NzI4Y2NkZDc0YzUwMTZhYTgzYzdkNWQ0MDYz`

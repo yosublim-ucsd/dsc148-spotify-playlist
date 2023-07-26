@@ -1,12 +1,12 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 130009,
+  "num_followers": 130071,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OGM5YTUxNjAxY2ZmMzNiY2Q2ZTY3NzcyYWJlYjMyMTU5OGNiOWZi",
+  "snapshot_id": "MCxmZjdlOWM4Zjk4OGNiYzEyZDk2OWQ3ZmM4YzliNTNjNTNhOTg5MTNm",
   "tracks": [
     {
       "added_at": "2023-05-19 14:45:56",
@@ -531,6 +531,22 @@
     {
       "added_at": "2023-05-19 14:45:56",
       "album": {
+        "name": "Hooked",
+        "url": "https://open.spotify.com/album/69QTaXErGkvPW9pQ0GYY4H"
+      },
+      "artists": [
+        {
+          "name": "NOTION",
+          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
+        }
+      ],
+      "duration_ms": 206250,
+      "name": "Hooked",
+      "url": "https://open.spotify.com/track/4v7kKFlEDmpVToHOICsXaM"
+    },
+    {
+      "added_at": "2023-05-19 14:45:56",
+      "album": {
         "name": "Stan Smith",
         "url": "https://open.spotify.com/album/2s7f4Qihh5MV7D6lKLPBjB"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 235000,
       "name": "Stan Smith",
       "url": "https://open.spotify.com/track/0nCgsAki7e7I243CUblGxU"
-    },
-    {
-      "added_at": "2023-05-19 14:45:56",
-      "album": {
-        "name": "Hooked",
-        "url": "https://open.spotify.com/album/69QTaXErGkvPW9pQ0GYY4H"
-      },
-      "artists": [
-        {
-          "name": "NOTION",
-          "url": "https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM"
-        }
-      ],
-      "duration_ms": 206250,
-      "name": "Hooked",
-      "url": "https://open.spotify.com/track/4v7kKFlEDmpVToHOICsXaM"
     },
     {
       "added_at": "2023-05-19 14:45:56",
@@ -743,26 +743,6 @@
     {
       "added_at": "2023-05-19 14:45:56",
       "album": {
-        "name": "Stars On The Roof (feat. MoMo)",
-        "url": "https://open.spotify.com/album/6o2oXNriDnljYllyCIaL99"
-      },
-      "artists": [
-        {
-          "name": "Alcemist",
-          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
-        },
-        {
-          "name": "MoMo",
-          "url": "https://open.spotify.com/artist/1UjH8hHfaPKRnTg8FO0uaJ"
-        }
-      ],
-      "duration_ms": 242769,
-      "name": "Stars On The Roof (feat. MoMo)",
-      "url": "https://open.spotify.com/track/354Cv7huFJnlEdVAHvhH3Q"
-    },
-    {
-      "added_at": "2023-05-19 14:45:56",
-      "album": {
         "name": "OUTSIDER",
         "url": "https://open.spotify.com/album/0gAyGESgFfil520X4zmk1v"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 136615,
       "name": "FOUND LOVE (feat. Carrie Baxter)",
       "url": "https://open.spotify.com/track/5Ndsdhx3jKxjQmHw7QkHmi"
+    },
+    {
+      "added_at": "2023-05-19 14:45:56",
+      "album": {
+        "name": "Stars On The Roof (feat. MoMo)",
+        "url": "https://open.spotify.com/album/6o2oXNriDnljYllyCIaL99"
+      },
+      "artists": [
+        {
+          "name": "Alcemist",
+          "url": "https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0"
+        },
+        {
+          "name": "MoMo",
+          "url": "https://open.spotify.com/artist/1UjH8hHfaPKRnTg8FO0uaJ"
+        }
+      ],
+      "duration_ms": 242769,
+      "name": "Stars On The Roof (feat. MoMo)",
+      "url": "https://open.spotify.com/track/354Cv7huFJnlEdVAHvhH3Q"
     },
     {
       "added_at": "2023-05-19 14:45:56",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-05-19 14:45:56",
       "album": {
-        "name": "Want You",
-        "url": "https://open.spotify.com/album/1gwNOFmeMRGzIj2752iJEB"
-      },
-      "artists": [
-        {
-          "name": "Kanine",
-          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
-        }
-      ],
-      "duration_ms": 247210,
-      "name": "Want You",
-      "url": "https://open.spotify.com/track/3QRE0rMSiI6ceS0ZOxFblB"
-    },
-    {
-      "added_at": "2023-05-19 14:45:56",
-      "album": {
         "name": "Shut It Down",
         "url": "https://open.spotify.com/album/540Df5chb7iGHb1GSCYD8B"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 178604,
       "name": "Shut It Down",
       "url": "https://open.spotify.com/track/1KsTta93YQGtGid1W1x6ki"
+    },
+    {
+      "added_at": "2023-05-19 14:45:56",
+      "album": {
+        "name": "Want You",
+        "url": "https://open.spotify.com/album/1gwNOFmeMRGzIj2752iJEB"
+      },
+      "artists": [
+        {
+          "name": "Kanine",
+          "url": "https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV"
+        }
+      ],
+      "duration_ms": 247210,
+      "name": "Want You",
+      "url": "https://open.spotify.com/track/3QRE0rMSiI6ceS0ZOxFblB"
     },
     {
       "added_at": "2023-05-19 14:45:56",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-05-19 14:45:56",
       "album": {
-        "name": "Problematik",
-        "url": "https://open.spotify.com/album/3omXYWmxB50sNFrnOECCuy"
-      },
-      "artists": [
-        {
-          "name": "Mr Traumatik",
-          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
-        }
-      ],
-      "duration_ms": 175383,
-      "name": "SPECTACULAR",
-      "url": "https://open.spotify.com/track/2KbYcnZQmfwe8RrCMSMwym"
-    },
-    {
-      "added_at": "2023-05-19 14:45:56",
-      "album": {
         "name": "Moments",
         "url": "https://open.spotify.com/album/2Qkuca2YzJW0cSPiGrPXmR"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 227657,
       "name": "Moments",
       "url": "https://open.spotify.com/track/6fdr24Ns8PoBQ8wGwuupRr"
+    },
+    {
+      "added_at": "2023-05-19 14:45:56",
+      "album": {
+        "name": "Problematik",
+        "url": "https://open.spotify.com/album/3omXYWmxB50sNFrnOECCuy"
+      },
+      "artists": [
+        {
+          "name": "Mr Traumatik",
+          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
+        }
+      ],
+      "duration_ms": 175383,
+      "name": "SPECTACULAR",
+      "url": "https://open.spotify.com/track/2KbYcnZQmfwe8RrCMSMwym"
     },
     {
       "added_at": "2023-05-19 14:45:56",

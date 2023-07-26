@@ -1,12 +1,12 @@
 {
   "description": "Acu\u00e9rdate de estos cl\u00e1sicos. Foto: Don Omar.",
-  "num_followers": 2659201,
+  "num_followers": 2662236,
   "original_name": "Reggaet\u00f3n Viejito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOWNlZjI3N2RjMGYwZGM4NjRkZGVmNjY0NjRjYzhjZjc2ODM1ZTlm",
+  "snapshot_id": "MCxjMTk3NzUxY2NhMDFmYWMxNTRjOTgwNWI3NjlkOTQyNGUxYjM3MThi",
   "tracks": [
     {
       "added_at": "2023-07-24 22:15:51",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2023-07-24 22:15:51",
       "album": {
+        "name": "M\u00e1s Lun\u00e1ticos",
+        "url": "https://open.spotify.com/album/27PjrmYvDUsl1MdTHvZsUR"
+      },
+      "artists": [
+        {
+          "name": "Golpe a Golpe",
+          "url": "https://open.spotify.com/artist/0nqpXa8bkBlWgS9FKhNCuj"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "Estar Enamorado",
+      "url": "https://open.spotify.com/track/5WhH88hPbiOk95Vz4rcbbQ"
+    },
+    {
+      "added_at": "2023-07-24 22:15:51",
+      "album": {
         "name": "Pura Playa",
         "url": "https://open.spotify.com/album/4MKfVmMrhQzmlolHL7VIlk"
       },
@@ -1323,22 +1339,6 @@
       "duration_ms": 246080,
       "name": "Shorty",
       "url": "https://open.spotify.com/track/7d05Cx72W1WsWUw7MAD7ia"
-    },
-    {
-      "added_at": "2023-07-24 22:15:51",
-      "album": {
-        "name": "M\u00e1s Lun\u00e1ticos",
-        "url": "https://open.spotify.com/album/27PjrmYvDUsl1MdTHvZsUR"
-      },
-      "artists": [
-        {
-          "name": "Golpe a Golpe",
-          "url": "https://open.spotify.com/artist/0nqpXa8bkBlWgS9FKhNCuj"
-        }
-      ],
-      "duration_ms": 221333,
-      "name": "Estar Enamorado",
-      "url": "https://open.spotify.com/track/5WhH88hPbiOk95Vz4rcbbQ"
     },
     {
       "added_at": "2023-07-24 22:15:51",
@@ -2483,22 +2483,6 @@
     {
       "added_at": "2023-07-24 22:15:51",
       "album": {
-        "name": "Los Reyes del Perreo",
-        "url": "https://open.spotify.com/album/6bPsYMsG4sR9DgITKxATkF"
-      },
-      "artists": [
-        {
-          "name": "Alexis y Fido",
-          "url": "https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA"
-        }
-      ],
-      "duration_ms": 155413,
-      "name": "Me Quiere Besar",
-      "url": "https://open.spotify.com/track/62N7RkB1weggv5VHqgYOsb"
-    },
-    {
-      "added_at": "2023-07-24 22:15:51",
-      "album": {
         "name": "El Bokisucio",
         "url": "https://open.spotify.com/album/6z9x1lTBNUSF8qCZ7kMiWd"
       },
@@ -2511,6 +2495,22 @@
       "duration_ms": 234733,
       "name": "Gata Oficial",
       "url": "https://open.spotify.com/track/4jdwQISB7rhP1EO4JiwnJF"
+    },
+    {
+      "added_at": "2023-07-24 22:15:51",
+      "album": {
+        "name": "Los Reyes del Perreo",
+        "url": "https://open.spotify.com/album/6bPsYMsG4sR9DgITKxATkF"
+      },
+      "artists": [
+        {
+          "name": "Alexis y Fido",
+          "url": "https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA"
+        }
+      ],
+      "duration_ms": 155413,
+      "name": "Me Quiere Besar",
+      "url": "https://open.spotify.com/track/62N7RkB1weggv5VHqgYOsb"
     },
     {
       "added_at": "2023-07-24 22:15:51",
@@ -2675,22 +2675,6 @@
     {
       "added_at": "2023-07-24 22:15:51",
       "album": {
-        "name": "Broke & Famous",
-        "url": "https://open.spotify.com/album/35ejmbRlV32Qng9jGF34ve"
-      },
-      "artists": [
-        {
-          "name": "\u00d1ejo & Dalmata",
-          "url": "https://open.spotify.com/artist/1ykothWH0xl8drRyJWuw7I"
-        }
-      ],
-      "duration_ms": 218386,
-      "name": "Sexo En La Playa",
-      "url": "https://open.spotify.com/track/7000lIDeQQURNIsLINOYZo"
-    },
-    {
-      "added_at": "2023-07-24 22:15:51",
-      "album": {
         "name": "M\u00e1s Lun\u00e1ticos",
         "url": "https://open.spotify.com/album/27PjrmYvDUsl1MdTHvZsUR"
       },
@@ -2703,6 +2687,22 @@
       "duration_ms": 208999,
       "name": "No S\u00e9 Como Se Llama",
       "url": "https://open.spotify.com/track/4oFFNRZDaOfNIihHn6aIfN"
+    },
+    {
+      "added_at": "2023-07-24 22:15:51",
+      "album": {
+        "name": "Broke & Famous",
+        "url": "https://open.spotify.com/album/35ejmbRlV32Qng9jGF34ve"
+      },
+      "artists": [
+        {
+          "name": "\u00d1ejo & Dalmata",
+          "url": "https://open.spotify.com/artist/1ykothWH0xl8drRyJWuw7I"
+        }
+      ],
+      "duration_ms": 218386,
+      "name": "Sexo En La Playa",
+      "url": "https://open.spotify.com/track/7000lIDeQQURNIsLINOYZo"
     },
     {
       "added_at": "2023-07-24 22:15:51",
@@ -2879,18 +2879,18 @@
     {
       "added_at": "2023-07-24 22:15:51",
       "album": {
-        "name": "Sin Miedo",
-        "url": "https://open.spotify.com/album/151z3gITteVJACjqfyFnvQ"
+        "name": "La Melodia de la Calle \"Updated\"",
+        "url": "https://open.spotify.com/album/6RDOn06oitF2wzme2uWDX8"
       },
       "artists": [
         {
-          "name": "Reykon",
-          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+          "name": "Tony Dize",
+          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
         }
       ],
-      "duration_ms": 196468,
-      "name": "Sin Miedo",
-      "url": "https://open.spotify.com/track/6hWW4e5GeZpppndu1IwKzR"
+      "duration_ms": 264146,
+      "name": "El Doctorado",
+      "url": "https://open.spotify.com/track/1GLyxov9LCuqj9jWFXI3cy"
     },
     {
       "added_at": "2023-07-24 22:15:51",
@@ -2911,18 +2911,18 @@
     {
       "added_at": "2023-07-24 22:15:51",
       "album": {
-        "name": "La Melodia de la Calle \"Updated\"",
-        "url": "https://open.spotify.com/album/6RDOn06oitF2wzme2uWDX8"
+        "name": "Sin Miedo",
+        "url": "https://open.spotify.com/album/151z3gITteVJACjqfyFnvQ"
       },
       "artists": [
         {
-          "name": "Tony Dize",
-          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
         }
       ],
-      "duration_ms": 264146,
-      "name": "El Doctorado",
-      "url": "https://open.spotify.com/track/1GLyxov9LCuqj9jWFXI3cy"
+      "duration_ms": 196468,
+      "name": "Sin Miedo",
+      "url": "https://open.spotify.com/track/6hWW4e5GeZpppndu1IwKzR"
     },
     {
       "added_at": "2023-07-24 22:15:51",
@@ -2947,6 +2947,22 @@
     {
       "added_at": "2023-07-24 22:15:51",
       "album": {
+        "name": "Eso En 4 No Se Ve (feat. Nejo Y Dalmata & Luigi 21 Plus)",
+        "url": "https://open.spotify.com/album/5h67fwP7oqhvvPkSWKv9g3"
+      },
+      "artists": [
+        {
+          "name": "J Alvarez",
+          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
+        }
+      ],
+      "duration_ms": 271986,
+      "name": "Eso En 4 No Se Ve (feat. Nejo Y Dalmata & Luigi 21 Plus)",
+      "url": "https://open.spotify.com/track/3AiSzVa7e1thtKKnJfs03I"
+    },
+    {
+      "added_at": "2023-07-24 22:15:51",
+      "album": {
         "name": "Money Is Still A Major Issue",
         "url": "https://open.spotify.com/album/0gayfOCt1DJX4j8MOhv7we"
       },
@@ -2967,22 +2983,6 @@
       "duration_ms": 240133,
       "name": "Culo Remix",
       "url": "https://open.spotify.com/track/02a3YjaSKk3KZxK5mMnSW1"
-    },
-    {
-      "added_at": "2023-07-24 22:15:51",
-      "album": {
-        "name": "Eso En 4 No Se Ve (feat. Nejo Y Dalmata & Luigi 21 Plus)",
-        "url": "https://open.spotify.com/album/5h67fwP7oqhvvPkSWKv9g3"
-      },
-      "artists": [
-        {
-          "name": "J Alvarez",
-          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
-        }
-      ],
-      "duration_ms": 271986,
-      "name": "Eso En 4 No Se Ve (feat. Nejo Y Dalmata & Luigi 21 Plus)",
-      "url": "https://open.spotify.com/track/3AiSzVa7e1thtKKnJfs03I"
     },
     {
       "added_at": "2023-07-24 22:15:51",
@@ -3419,30 +3419,6 @@
     {
       "added_at": "2023-07-24 22:15:51",
       "album": {
-        "name": "Exitos",
-        "url": "https://open.spotify.com/album/5uLpJQSoYXqglBHaG8MbPx"
-      },
-      "artists": [
-        {
-          "name": "\u00d1ejo & Dalmata",
-          "url": "https://open.spotify.com/artist/1ykothWH0xl8drRyJWuw7I"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 209452,
-      "name": "Algo Musical",
-      "url": "https://open.spotify.com/track/4oYN44rloSqxabqrSgIani"
-    },
-    {
-      "added_at": "2023-07-24 22:15:51",
-      "album": {
         "name": "Masacre Musical",
         "url": "https://open.spotify.com/album/7bomhBj43r4bhkdFLNoQEe"
       },
@@ -3455,6 +3431,26 @@
       "duration_ms": 280680,
       "name": "Es Dificil",
       "url": "https://open.spotify.com/track/2yIt5SGOZCHE2PuzcXfOof"
+    },
+    {
+      "added_at": "2023-07-24 22:15:51",
+      "album": {
+        "name": "Rompiendo El Hielo",
+        "url": "https://open.spotify.com/album/4TaG2wkqRP03AhD2z4T4sY"
+      },
+      "artists": [
+        {
+          "name": "Magnate",
+          "url": "https://open.spotify.com/artist/0adUZVrjlyffZEwp9bCj4V"
+        },
+        {
+          "name": "Valentino",
+          "url": "https://open.spotify.com/artist/4GAS1OgXh8D5pEA6s6eBNW"
+        }
+      ],
+      "duration_ms": 198720,
+      "name": "Gata Celosa",
+      "url": "https://open.spotify.com/track/31IeSPRxSCtQqyi7ixc3WZ"
     },
     {
       "added_at": "2023-07-24 22:15:51",
@@ -3479,22 +3475,26 @@
     {
       "added_at": "2023-07-24 22:15:51",
       "album": {
-        "name": "Rompiendo El Hielo",
-        "url": "https://open.spotify.com/album/4TaG2wkqRP03AhD2z4T4sY"
+        "name": "Exitos",
+        "url": "https://open.spotify.com/album/5uLpJQSoYXqglBHaG8MbPx"
       },
       "artists": [
         {
-          "name": "Magnate",
-          "url": "https://open.spotify.com/artist/0adUZVrjlyffZEwp9bCj4V"
+          "name": "\u00d1ejo & Dalmata",
+          "url": "https://open.spotify.com/artist/1ykothWH0xl8drRyJWuw7I"
         },
         {
-          "name": "Valentino",
-          "url": "https://open.spotify.com/artist/4GAS1OgXh8D5pEA6s6eBNW"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
         }
       ],
-      "duration_ms": 198720,
-      "name": "Gata Celosa",
-      "url": "https://open.spotify.com/track/31IeSPRxSCtQqyi7ixc3WZ"
+      "duration_ms": 209452,
+      "name": "Algo Musical",
+      "url": "https://open.spotify.com/track/4oYN44rloSqxabqrSgIani"
     },
     {
       "added_at": "2023-07-24 22:15:51",

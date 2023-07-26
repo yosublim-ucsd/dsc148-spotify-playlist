@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Feli Colina.
 
-441 songs - 1 day 2 hr 47 min
+442 songs - 1 day 2 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,6 +324,7 @@
 | [Ponme](https://open.spotify.com/track/6lSqiqPaYyPcEBShRsOLRX) | [Pala](https://open.spotify.com/artist/48NwWz7YpfhM5w6Zx5dz0j), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [El Siglo del Loro](https://open.spotify.com/album/6fHlGoOh1zAqMX431jJ115) | 1:40 | 2022-07-22 |  |
 | [Ponme](https://open.spotify.com/track/38U8dbAhadvm7Afy3o38G5) | [Pala](https://open.spotify.com/artist/48NwWz7YpfhM5w6Zx5dz0j), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Ponme](https://open.spotify.com/album/6RvRFLAJHZcjDPlFwbZk81) | 1:40 | 2021-12-24 | 2022-07-29 |
 | [poquito](https://open.spotify.com/track/7skFOMFTB16Cqi8O4DT6ec) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [poquito](https://open.spotify.com/album/57MSbOD2JbedXsfeJZoCQI) | 3:39 | 2022-11-25 |  |
+| [Portarse Bien](https://open.spotify.com/track/1b4wKuDw9JCcAaQff5gc98) | [Lichi](https://open.spotify.com/artist/1VJpLdCb3HI6WfG3uUA9ht) | [Tecnología: Colección](https://open.spotify.com/album/1lb23XAYTsS9kmeg39DJGh) | 4:59 | 2023-07-21 |  |
 | [Prefiero No Decir Nada](https://open.spotify.com/track/4pJZMDrisNXbw8XUb1rVw2) | [Maria Rodés](https://open.spotify.com/artist/2uCphK8yRHj9DHJmmE5Isf) | [Fuimos Los Dos](https://open.spotify.com/album/55qQ7r6u0H5KAbaGIjAhjd) | 2:17 | 2022-10-28 | 2023-02-18 |
 | [Propuestas Imposibles](https://open.spotify.com/track/2hqbxrVkDwUGjW37FcpUMy) | [Daniela Escalante](https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd) | [Propuestas Imposibles](https://open.spotify.com/album/1cmDYMQXjP5IGxgp2KPwfb) | 3:43 | 2021-12-24 | 2022-07-28 |
 | [Pulmón](https://open.spotify.com/track/0cawJnGa5dqxVTBakjrfGd) | [Andrea Santiago](https://open.spotify.com/artist/25ujYqJknNjORPPtUIDUXo) | [Pulmón](https://open.spotify.com/album/5oTyIaIFvkOpeCPU4UJ3cl) | 3:49 | 2022-04-01 | 2022-05-16 |
@@ -434,7 +435,7 @@
 | [Vidrieritas](https://open.spotify.com/track/0iII2cRRg31qEKRmfKx545) | [María de la Flor](https://open.spotify.com/artist/0kQpC0wjuUoy6ppyXWgYH3) | [Vidrieritas](https://open.spotify.com/album/7coLrKNPKAPDZfgLotJ1VW) | 3:35 | 2021-12-24 | 2022-07-29 |
 | [Viento](https://open.spotify.com/track/7F5YuObBApawjkj91ltz9f) | [Natalia Vega](https://open.spotify.com/artist/5ksEvufQxwKs7S2DZb8mxK) | [Viento](https://open.spotify.com/album/6AaumDD4kbBMzZyO94VB9M) | 3:39 | 2021-12-24 | 2022-01-01 |
 | [Visiones Doradas](https://open.spotify.com/track/3K2EEF60dB0dGNlKXXxljH) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Lucio Mantel](https://open.spotify.com/artist/5kCJ9ht14oLO98WlBRfwyk) | [Visiones Doradas](https://open.spotify.com/album/0Mf1iyELe7inwpUyiOmDL8) | 2:46 | 2021-12-24 | 2022-08-15 |
-| [Visiones Doradas](https://open.spotify.com/track/55Kk2Tx8dtv3JxeSCEHueP) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Lucio Mantel](https://open.spotify.com/artist/5kCJ9ht14oLO98WlBRfwyk) | [Visiones Doradas](https://open.spotify.com/album/5RcL7gPipFECCe8MAAZRUS) | 2:46 | 2023-04-28 |  |
+| [Visiones Doradas](https://open.spotify.com/track/55Kk2Tx8dtv3JxeSCEHueP) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Lucio Mantel](https://open.spotify.com/artist/5kCJ9ht14oLO98WlBRfwyk) | [Visiones Doradas](https://open.spotify.com/album/5RcL7gPipFECCe8MAAZRUS) | 2:46 | 2023-04-28 | 2023-07-26 |
 | [Volaré](https://open.spotify.com/track/0i63K6PMAQOw60aJRPV7lm) | [Chiki Lora](https://open.spotify.com/artist/6grE6CSOumB8bUQNh1RPtY), [Canteca de macao](https://open.spotify.com/artist/66xBjuCrzVfhXXvmLxF2UL), [Miryam Latrece](https://open.spotify.com/artist/3QcEeHjRSvL4aQBDaTDKi7) | [Pilares](https://open.spotify.com/album/2DgMUQX65M1iCN3dSW4R0e) | 3:15 | 2023-04-25 |  |
 | [Volaré](https://open.spotify.com/track/1Xzn8guV6Xwux2sS786EwA) | [Chiki Lora](https://open.spotify.com/artist/6grE6CSOumB8bUQNh1RPtY), [Miryam Latrece](https://open.spotify.com/artist/3QcEeHjRSvL4aQBDaTDKi7) | [Volaré](https://open.spotify.com/album/7nFTKMMawHcln7i25yJpoF) | 3:15 | 2021-12-24 | 2022-09-17 |
 | [Volaré](https://open.spotify.com/track/3uOlDLlb6pSt6W4VffyXJR) | [Chiki Lora](https://open.spotify.com/artist/6grE6CSOumB8bUQNh1RPtY), [Miryam Latrece](https://open.spotify.com/artist/3QcEeHjRSvL4aQBDaTDKi7) | [Volaré](https://open.spotify.com/album/4hRvRKx006dk4eFUtNrDH1) | 3:15 | 2022-10-21 | 2022-11-05 |

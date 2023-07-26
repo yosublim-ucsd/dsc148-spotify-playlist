@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: Bad Snacks.<br/>Feeling inspired? Check out Bad Snacks' exclusive sound pack for <a href=“https://www.soundtrap.com/”>Soundtrap, </a>  Spotify’s online music studio for songwriters and beat makers.
 
-1,080 songs - 2 day 17 hr 59 min
+1,082 songs - 2 day 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,6 +143,7 @@
 | [C'est La Vie No.2 \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0XrjzAczxJw7MnEsJ0jIUI) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Spotify Singles](https://open.spotify.com/album/3Frbqi5ATPYTb4Kh7UBDn4) | 3:34 | 2022-07-05 |  |
 | [C'est La Vie No.2 \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7DRaGgNHhD9ajdYtZ7Muxp) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Spotify Singles](https://open.spotify.com/album/26f6iHa9lvKe4T2VqvFyzo) | 3:34 | 2022-01-19 | 2022-07-29 |
 | [California Dreamin' \- Spotify Singles](https://open.spotify.com/track/7D0q9XQg10KdlrjdDrrHph) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Spotify Singles](https://open.spotify.com/album/4U1VNYvSn36Xgak49ScRZD) | 2:53 | 2022-01-19 |  |
+| [Candlelight \- Spotify Singles](https://open.spotify.com/track/326EM9zAMPmr1JkGtzHnH6) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Spotify Singles](https://open.spotify.com/album/7ChLJ2d4pLNKIrLSuGl8Df) | 3:21 | 2023-07-25 |  |
 | [Cantaloupe Island \- Spotify Singles](https://open.spotify.com/track/35Up1VtzDnwdBleWKlDKxO) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Spotify Singles](https://open.spotify.com/album/1EdtxyWMoFkoWAE2g7gd5T) | 2:01 | 2022-05-04 |  |
 | [Can’t Let Go, Juno \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0JCAkoJtmFbZFhtBoFj5SL) | [Kishi Bashi](https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0) | [Spotify Singles](https://open.spotify.com/album/6dapn7qrubEtLbB8ZnU6Xw) | 4:21 | 2022-01-19 | 2022-07-29 |
 | [Can’t Let Go, Juno \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4UGMqwrm5dRhwhdTGX3cZ4) | [Kishi Bashi](https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0) | [Spotify Singles](https://open.spotify.com/album/23eXBuGFc0aHSnDhYXaAZk) | 4:21 | 2022-07-05 |  |
@@ -1088,5 +1089,6 @@
 | [Young Blood \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5IIytiriguJDtDUyGFEkTV) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Spotify Singles](https://open.spotify.com/album/13scWMWL4kcdSX4yFLF0x5) | 3:34 | 2022-10-12 |  |
 | [Young Dumb & Broke \- Recorded At The Colosseum, Caesars Palace, Las Vegas](https://open.spotify.com/track/28rT3OwXdw4VF1MPYIk1P6) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Spotify Singles](https://open.spotify.com/album/7HNrFnh0uwG7DuXdgGEY0z) | 3:49 | 2022-01-19 |  |
 | [Yours If You Want It \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7IEKsQr25onXLLYaOyD27n) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Spotify Singles](https://open.spotify.com/album/45zKHbhnFK7yWhr3PvCwlC) | 3:25 | 2022-01-19 |  |
+| [腦海中 \- Spotify Singles](https://open.spotify.com/track/0IIKkSAxQhi8Kd2vKsC2qo) | [落日飛車 Sunset Rollercoaster](https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532) | [Spotify Singles](https://open.spotify.com/album/7ChLJ2d4pLNKIrLSuGl8Df) | 3:46 | 2023-07-25 |  |
 
 \*This playlist was first scraped on 2022-01-25. Prior content cannot be recovered.

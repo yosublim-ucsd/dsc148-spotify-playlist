@@ -1,12 +1,12 @@
 {
   "description": "Latest and biggest tracks from Jamaica's Dancehall scene. Cover: Intence ",
-  "num_followers": 49881,
+  "num_followers": 49934,
   "original_name": "Back a Yard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Nzg3MWU3NDk3ODllYjQ4M2Q5NjdiM2M4MzBlMjg5NjIyYThhNDlh",
+  "snapshot_id": "MCxmYjcyOWMzMzhmMzQ1OGM0OTI2MGMwNmJjYjNhYzBmNTJjMDQ2ZDRm",
   "tracks": [
     {
       "added_at": "2023-05-24 08:21:37",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Bufu",
-        "url": "https://open.spotify.com/album/7MTyYh2AMh6Whf6zpB1OTe"
-      },
-      "artists": [
-        {
-          "name": "Boy Boy",
-          "url": "https://open.spotify.com/artist/3UwGbC4Sl9MmonrpWo6grS"
-        }
-      ],
-      "duration_ms": 198716,
-      "name": "Bufu",
-      "url": "https://open.spotify.com/track/63b8nIX4nLik9ZCtKTTGcX"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Calmc",
         "url": "https://open.spotify.com/album/2VqdB8PN5Fm5JEfHlTee4X"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 173844,
       "name": "Calmc",
       "url": "https://open.spotify.com/track/4qRTXseVumpZKty0AGH1o5"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Bufu",
+        "url": "https://open.spotify.com/album/7MTyYh2AMh6Whf6zpB1OTe"
+      },
+      "artists": [
+        {
+          "name": "Boy Boy",
+          "url": "https://open.spotify.com/artist/3UwGbC4Sl9MmonrpWo6grS"
+        }
+      ],
+      "duration_ms": 198716,
+      "name": "Bufu",
+      "url": "https://open.spotify.com/track/63b8nIX4nLik9ZCtKTTGcX"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Mona Lisa",
-        "url": "https://open.spotify.com/album/4Pf654V1D7cwZaQ5Hqwvv4"
-      },
-      "artists": [
-        {
-          "name": "Kranium",
-          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "Mona Lisa",
-      "url": "https://open.spotify.com/track/4FOLsEGYFzPy1CyO0vkLwH"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Static",
         "url": "https://open.spotify.com/album/7r54RUpeMgdMbDh9YPVc0O"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 156951,
       "name": "Static",
       "url": "https://open.spotify.com/track/30OaDvU7L0CjE4amrbRNi9"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Mona Lisa",
+        "url": "https://open.spotify.com/album/4Pf654V1D7cwZaQ5Hqwvv4"
+      },
+      "artists": [
+        {
+          "name": "Kranium",
+          "url": "https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Mona Lisa",
+      "url": "https://open.spotify.com/track/4FOLsEGYFzPy1CyO0vkLwH"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1011,26 +1011,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Shootaz",
-        "url": "https://open.spotify.com/album/43SV1kuMfBm9HCPI6v0l3c"
-      },
-      "artists": [
-        {
-          "name": "Vybz Kartel",
-          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
-        },
-        {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
-        }
-      ],
-      "duration_ms": 208351,
-      "name": "Shootaz",
-      "url": "https://open.spotify.com/track/1bNpPT16lRsUyK8FFHqYab"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "GPP",
         "url": "https://open.spotify.com/album/05JFI9UgHFBD6gvanViaTW"
       },
@@ -1047,6 +1027,26 @@
       "duration_ms": 193958,
       "name": "GPP",
       "url": "https://open.spotify.com/track/3rnMusaZSGqhvWJG63Li55"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Shootaz",
+        "url": "https://open.spotify.com/album/43SV1kuMfBm9HCPI6v0l3c"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        },
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        }
+      ],
+      "duration_ms": 208351,
+      "name": "Shootaz",
+      "url": "https://open.spotify.com/track/1bNpPT16lRsUyK8FFHqYab"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Update",
+        "url": "https://open.spotify.com/album/0PaM6uUQDeF2SSv3o4noRe"
+      },
+      "artists": [
+        {
+          "name": "Masicka",
+          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
+        }
+      ],
+      "duration_ms": 204257,
+      "name": "Update",
+      "url": "https://open.spotify.com/track/1Vso1T5aUUflMhgijuG4SZ"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Great Is He",
         "url": "https://open.spotify.com/album/5DVnzAiFpPirUnh3QPv1ZR"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 236425,
       "name": "Next To Me (feat. Toni-Ann Singh)",
       "url": "https://open.spotify.com/track/18okB3tFyUOaQLWFoBOC1H"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Update",
-        "url": "https://open.spotify.com/album/0PaM6uUQDeF2SSv3o4noRe"
-      },
-      "artists": [
-        {
-          "name": "Masicka",
-          "url": "https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK"
-        }
-      ],
-      "duration_ms": 204257,
-      "name": "Update",
-      "url": "https://open.spotify.com/track/1Vso1T5aUUflMhgijuG4SZ"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Try Dat Riddim, Vol.2",
+        "url": "https://open.spotify.com/album/5Ujgt78gz3JRjku4oGKKhR"
+      },
+      "artists": [
+        {
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+        }
+      ],
+      "duration_ms": 192156,
+      "name": "Try Dat",
+      "url": "https://open.spotify.com/track/2Qml2dT7JFGgWRkNQTGRvh"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/2pW2gzJ33UZYvkBurZaF1r"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 155611,
       "name": "Peace of Mind",
       "url": "https://open.spotify.com/track/1MosK3moAfGVRiAGum2Ngf"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Try Dat Riddim, Vol.2",
-        "url": "https://open.spotify.com/album/5Ujgt78gz3JRjku4oGKKhR"
-      },
-      "artists": [
-        {
-          "name": "Vybz Kartel",
-          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
-        }
-      ],
-      "duration_ms": 192156,
-      "name": "Try Dat",
-      "url": "https://open.spotify.com/track/2Qml2dT7JFGgWRkNQTGRvh"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1267,6 +1267,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "21 Psalm",
+        "url": "https://open.spotify.com/album/0J3Ilvx9rIi0aHvgmiIy31"
+      },
+      "artists": [
+        {
+          "name": "Mavado",
+          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
+        }
+      ],
+      "duration_ms": 203265,
+      "name": "21 Psalm",
+      "url": "https://open.spotify.com/track/5omLQJya4umViap9GwViw8"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "Sell Lie",
         "url": "https://open.spotify.com/album/0zWgUFZyASepcog3tIv36N"
       },
@@ -1283,22 +1299,6 @@
       "duration_ms": 171206,
       "name": "Sell Lie",
       "url": "https://open.spotify.com/track/1HPix6ZDvjjNMo3npaIrIq"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "21 Psalm",
-        "url": "https://open.spotify.com/album/0J3Ilvx9rIi0aHvgmiIy31"
-      },
-      "artists": [
-        {
-          "name": "Mavado",
-          "url": "https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu"
-        }
-      ],
-      "duration_ms": 203265,
-      "name": "21 Psalm",
-      "url": "https://open.spotify.com/track/5omLQJya4umViap9GwViw8"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1499,18 +1499,18 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Perfect Summer",
-        "url": "https://open.spotify.com/album/0pnBHpLJHnVWbR4mviWab6"
+        "name": "Crook",
+        "url": "https://open.spotify.com/album/42swaElolib5BwSAtaZYQl"
       },
       "artists": [
         {
-          "name": "Vybz Kartel",
-          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
+          "name": "Malie Donn",
+          "url": "https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW"
         }
       ],
-      "duration_ms": 191526,
-      "name": "Perfect Summer",
-      "url": "https://open.spotify.com/track/2pCzjC7lGoH9KCv3ygYva3"
+      "duration_ms": 245995,
+      "name": "Crook",
+      "url": "https://open.spotify.com/track/5mXpQWrAZoPVgp4cV0Avh0"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Crook",
-        "url": "https://open.spotify.com/album/42swaElolib5BwSAtaZYQl"
+        "name": "Perfect Summer",
+        "url": "https://open.spotify.com/album/0pnBHpLJHnVWbR4mviWab6"
       },
       "artists": [
         {
-          "name": "Malie Donn",
-          "url": "https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW"
+          "name": "Vybz Kartel",
+          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
         }
       ],
-      "duration_ms": 245995,
-      "name": "Crook",
-      "url": "https://open.spotify.com/track/5mXpQWrAZoPVgp4cV0Avh0"
+      "duration_ms": 191526,
+      "name": "Perfect Summer",
+      "url": "https://open.spotify.com/track/2pCzjC7lGoH9KCv3ygYva3"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -1947,6 +1947,22 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
+        "name": "Sidepiece",
+        "url": "https://open.spotify.com/album/77BNOHzrIMr1Mpnq5feG77"
+      },
+      "artists": [
+        {
+          "name": "Projexx",
+          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Sidepiece",
+      "url": "https://open.spotify.com/track/1WO6MRJNAjq4qV65DpAFOg"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
         "name": "I Am Great",
         "url": "https://open.spotify.com/album/4mrDtR4iMb2dxD1YfY0ttz"
       },
@@ -1963,22 +1979,6 @@
       "duration_ms": 187711,
       "name": "Paranoid",
       "url": "https://open.spotify.com/track/2CzOkRsKah0qNRsAMiSD0p"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
-        "name": "Sidepiece",
-        "url": "https://open.spotify.com/album/77BNOHzrIMr1Mpnq5feG77"
-      },
-      "artists": [
-        {
-          "name": "Projexx",
-          "url": "https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Sidepiece",
-      "url": "https://open.spotify.com/track/1WO6MRJNAjq4qV65DpAFOg"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2343,22 +2343,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "Weak Spot",
-        "url": "https://open.spotify.com/album/6S6hs9wcy2hxJwkmQdKLwO"
-      },
-      "artists": [
-        {
-          "name": "Elephant Man",
-          "url": "https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on"
-        }
-      ],
-      "duration_ms": 213760,
-      "name": "Weak Spot",
-      "url": "https://open.spotify.com/track/0G7OH0l8A8qipYKUh4KsSJ"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Three Little Birds",
         "url": "https://open.spotify.com/album/5hnQr1o6d92rF3xQ78xngP"
       },
@@ -2371,6 +2355,22 @@
       "duration_ms": 208835,
       "name": "Three Little Birds",
       "url": "https://open.spotify.com/track/4bfAZUN7Y2yxxrANVpcErC"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "Weak Spot",
+        "url": "https://open.spotify.com/album/6S6hs9wcy2hxJwkmQdKLwO"
+      },
+      "artists": [
+        {
+          "name": "Elephant Man",
+          "url": "https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on"
+        }
+      ],
+      "duration_ms": 213760,
+      "name": "Weak Spot",
+      "url": "https://open.spotify.com/track/0G7OH0l8A8qipYKUh4KsSJ"
     },
     {
       "added_at": "2023-05-24 08:21:37",
@@ -2415,26 +2415,6 @@
     {
       "added_at": "2023-05-24 08:21:37",
       "album": {
-        "name": "DOGGY STYLE",
-        "url": "https://open.spotify.com/album/6x3KI2Z8vWrzoyBh5dNFeZ"
-      },
-      "artists": [
-        {
-          "name": "Fittis",
-          "url": "https://open.spotify.com/artist/65ckf44h6fvV1qbuo2RvjZ"
-        },
-        {
-          "name": "Chronic Law",
-          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
-        }
-      ],
-      "duration_ms": 174915,
-      "name": "DOGGY STYLE",
-      "url": "https://open.spotify.com/track/7sGPyceH2EdIzW5vDqtGYU"
-    },
-    {
-      "added_at": "2023-05-24 08:21:37",
-      "album": {
         "name": "Dior Kicks",
         "url": "https://open.spotify.com/album/3LUDwZHFWsZSn9s23RKUNt"
       },
@@ -2455,6 +2435,26 @@
       "duration_ms": 207060,
       "name": "Dior Kicks",
       "url": "https://open.spotify.com/track/4r07a9L5IDW5l68WfzOAed"
+    },
+    {
+      "added_at": "2023-05-24 08:21:37",
+      "album": {
+        "name": "DOGGY STYLE",
+        "url": "https://open.spotify.com/album/6x3KI2Z8vWrzoyBh5dNFeZ"
+      },
+      "artists": [
+        {
+          "name": "Fittis",
+          "url": "https://open.spotify.com/artist/65ckf44h6fvV1qbuo2RvjZ"
+        },
+        {
+          "name": "Chronic Law",
+          "url": "https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w"
+        }
+      ],
+      "duration_ms": 174915,
+      "name": "DOGGY STYLE",
+      "url": "https://open.spotify.com/track/7sGPyceH2EdIzW5vDqtGYU"
     },
     {
       "added_at": "2023-05-24 08:21:37",

@@ -1,12 +1,12 @@
 {
   "description": "The freshest pop sounds. Cover: NewJeans",
-  "num_followers": 200507,
+  "num_followers": 200513,
   "original_name": "New Pop Revolution",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNGQxMzMwYTk0NTk4NDNjODUxYjk1MTc5NGZiOTFhMmJhZDRlYTEw",
+  "snapshot_id": "MCwwZTAyYzMwZjhiZmY4NTYyNmNkMjJhMzM3NDYzMGExMzNiYjZhODg2",
   "tracks": [
     {
       "added_at": "2023-07-21 13:39:34",
@@ -738,6 +738,10 @@
         {
           "name": "needanamebro",
           "url": "https://open.spotify.com/artist/4hjO4rBY3DJqEhvLvCeIRp"
+        },
+        {
+          "name": "Say Now",
+          "url": "https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn"
         }
       ],
       "duration_ms": 125346,

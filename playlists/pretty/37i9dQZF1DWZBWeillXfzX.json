@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 19037,
+  "num_followers": 19054,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiY2JiMjQ0OTljZGE5OWY1MDUwNTMyZGUyYjRhYTBjMGNiZDQ0YmJl",
+  "snapshot_id": "MCxkNDNmNjJlOTJmNGY0YzUxNmNhYTA1ZjMwZWEzNzhkYjI5OGQ1NGZj",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -417,24 +417,20 @@
       "url": "https://open.spotify.com/track/7pi7XTGGaVBzrhlaYH97CV"
     },
     {
-      "added_at": "2020-10-21 17:37:12",
+      "added_at": "2022-01-28 05:00:00",
       "album": {
-        "name": "The Bookends",
-        "url": "https://open.spotify.com/album/4pV2mDVEGOrHIA9kqmbtBU"
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
       },
       "artists": [
         {
           "name": "Eric Gales",
           "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        },
-        {
-          "name": "B. Slade",
-          "url": "https://open.spotify.com/artist/73qNi3Z0jNl1erMNwApiWH"
         }
       ],
-      "duration_ms": 259906,
-      "name": "Something's Gotta Give",
-      "url": "https://open.spotify.com/track/2HYRDy22RodG4Kp8DtsdDU"
+      "duration_ms": 63720,
+      "name": "Rattlin' Change",
+      "url": "https://open.spotify.com/track/7HAhsCREaTXjiQMxpNtXb1"
     },
     {
       "added_at": "2020-10-21 17:37:12",
@@ -557,20 +553,24 @@
       "url": "https://open.spotify.com/track/3Q7alLUVqvmpSVT7aAkFLG"
     },
     {
-      "added_at": "2022-01-28 05:00:00",
+      "added_at": "2020-10-21 17:37:12",
       "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
+        "name": "The Bookends",
+        "url": "https://open.spotify.com/album/4pV2mDVEGOrHIA9kqmbtBU"
       },
       "artists": [
         {
           "name": "Eric Gales",
           "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        },
+        {
+          "name": "B. Slade",
+          "url": "https://open.spotify.com/artist/73qNi3Z0jNl1erMNwApiWH"
         }
       ],
-      "duration_ms": 63720,
-      "name": "Rattlin' Change",
-      "url": "https://open.spotify.com/track/7HAhsCREaTXjiQMxpNtXb1"
+      "duration_ms": 259906,
+      "name": "Something's Gotta Give",
+      "url": "https://open.spotify.com/track/2HYRDy22RodG4Kp8DtsdDU"
     },
     {
       "added_at": "2020-10-21 17:37:12",

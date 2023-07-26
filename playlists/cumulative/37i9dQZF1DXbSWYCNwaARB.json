@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. Cover: MAMAMOO+ (\ub9c8\ub9c8\ubb34+)",
+  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. Cover: ILY:1(\uc544\uc77c\ub9ac\uc6d0)",
   "name": "Girl Krush",
   "tracks": [
     {
@@ -1688,6 +1688,24 @@
       "duration_ms": 187800,
       "name": "ESPRESSO",
       "url": "https://open.spotify.com/track/61iEzLnJzBnMwumWtn0nFp"
+    },
+    {
+      "album": {
+        "name": "NewJeans 2nd EP 'Get Up'",
+        "url": "https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151373,
+      "name": "ETA",
+      "url": "https://open.spotify.com/track/56v8WEnGzLByGsDAXDiv4d"
     },
     {
       "album": {
@@ -3843,6 +3861,24 @@
     },
     {
       "album": {
+        "name": "New Chapter",
+        "url": "https://open.spotify.com/album/2t3Ph06OHzPdaOz457yYJG"
+      },
+      "artists": [
+        {
+          "name": "ILY:1",
+          "url": "https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201760,
+      "name": "MY COLOR",
+      "url": "https://open.spotify.com/track/5elQqjmREJkadJWsNMW4ej"
+    },
+    {
+      "album": {
         "name": "NEW MOON",
         "url": "https://open.spotify.com/album/61mlBNUkU8QKvYOfTiwFR5"
       },
@@ -4910,7 +4946,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 196933,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/253vMOP9LPVdYNgOqwAhAi"
@@ -5357,6 +5393,24 @@
     },
     {
       "album": {
+        "name": "NewJeans 2nd EP 'Get Up'",
+        "url": "https://open.spotify.com/album/4N1fROq2oeyLGAlQ1C1j18"
+      },
+      "artists": [
+        {
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154666,
+      "name": "Super Shy",
+      "url": "https://open.spotify.com/track/0kwrPQkiGVE8KTHalH1uMo"
+    },
+    {
+      "album": {
         "name": "SURI SURI",
         "url": "https://open.spotify.com/album/4AvQ3aVomxUowwzig2xVAw"
       },
@@ -5516,7 +5570,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 174933,
       "name": "This love (feat. Paul Blanco)",
       "url": "https://open.spotify.com/track/7vgvV8dD2L0l7pMSOBPD26"
@@ -6626,7 +6680,7 @@
       ],
       "date_added": "2023-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 154194,
       "name": "Zero",
       "url": "https://open.spotify.com/track/5LMoKDVzW2kDneNu2UbspP"

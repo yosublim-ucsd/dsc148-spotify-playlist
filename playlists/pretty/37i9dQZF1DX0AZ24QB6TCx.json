@@ -1,12 +1,12 @@
 {
   "description": "Relax with deep house and electronica.",
-  "num_followers": 299633,
+  "num_followers": 299715,
   "original_name": "Afterhours",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MjY5NTBmZjBiOThmMTI2ZWY2MmQxOGRjZjc1Zjg4ZTU3ZWYyMjEz",
+  "snapshot_id": "MCw1YWY2ZWVkNDhkNTgwNTY2OTI3ZGUxMjFmMjJlZDFkYWQ2MzMzZGE5",
   "tracks": [
     {
       "added_at": "2023-07-14 11:00:00",
@@ -371,22 +371,6 @@
     {
       "added_at": "2023-07-14 11:00:00",
       "album": {
-        "name": "Three Drums",
-        "url": "https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237"
-      },
-      "artists": [
-        {
-          "name": "Four Tet",
-          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
-        }
-      ],
-      "duration_ms": 495858,
-      "name": "Three Drums",
-      "url": "https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN"
-    },
-    {
-      "added_at": "2023-07-14 11:00:00",
-      "album": {
         "name": "MORE D4TA",
         "url": "https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 219014,
       "name": "FAST LAND",
       "url": "https://open.spotify.com/track/7g6zG8DhkZoqhbTk5j0lbB"
+    },
+    {
+      "added_at": "2023-07-14 11:00:00",
+      "album": {
+        "name": "Three Drums",
+        "url": "https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237"
+      },
+      "artists": [
+        {
+          "name": "Four Tet",
+          "url": "https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh"
+        }
+      ],
+      "duration_ms": 495858,
+      "name": "Three Drums",
+      "url": "https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN"
     },
     {
       "added_at": "2023-07-14 11:00:00",
@@ -863,30 +863,6 @@
     {
       "added_at": "2023-07-14 11:00:00",
       "album": {
-        "name": "Oh, Lover (NTO Remix)",
-        "url": "https://open.spotify.com/album/7sCU7QpAGHxxqvekykCm2N"
-      },
-      "artists": [
-        {
-          "name": "R\u00f6yksopp",
-          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
-        },
-        {
-          "name": "Susanne Sundf\u00f8r",
-          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
-        },
-        {
-          "name": "NTO",
-          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
-        }
-      ],
-      "duration_ms": 316840,
-      "name": "Oh, Lover - NTO Remix",
-      "url": "https://open.spotify.com/track/2gWA2eWOso3Ncj5navWlmz"
-    },
-    {
-      "added_at": "2023-07-14 11:00:00",
-      "album": {
         "name": "A Radiant Sign (Remixed)",
         "url": "https://open.spotify.com/album/5gWPZTg4FHp9yi7uXjDGgM"
       },
@@ -911,22 +887,26 @@
     {
       "added_at": "2023-07-14 11:00:00",
       "album": {
-        "name": "Clarion (Kiasmos Remix)",
-        "url": "https://open.spotify.com/album/57HX6lB11c4KENls8XUfAD"
+        "name": "Oh, Lover (NTO Remix)",
+        "url": "https://open.spotify.com/album/7sCU7QpAGHxxqvekykCm2N"
       },
       "artists": [
         {
-          "name": "Ben Lukas Boysen",
-          "url": "https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER"
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
         },
         {
-          "name": "Kiasmos",
-          "url": "https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD"
+          "name": "Susanne Sundf\u00f8r",
+          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
+        },
+        {
+          "name": "NTO",
+          "url": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq"
         }
       ],
-      "duration_ms": 343278,
-      "name": "Clarion - Kiasmos Remix",
-      "url": "https://open.spotify.com/track/3VSQJhXdcJZOLyTLPbmxDr"
+      "duration_ms": 316840,
+      "name": "Oh, Lover - NTO Remix",
+      "url": "https://open.spotify.com/track/2gWA2eWOso3Ncj5navWlmz"
     },
     {
       "added_at": "2023-07-14 11:00:00",
@@ -955,42 +935,22 @@
     {
       "added_at": "2023-07-14 11:00:00",
       "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/7HbFStkVZ2gnHmCq6HPrCh"
+        "name": "Clarion (Kiasmos Remix)",
+        "url": "https://open.spotify.com/album/57HX6lB11c4KENls8XUfAD"
       },
       "artists": [
         {
-          "name": "Oliver Schories",
-          "url": "https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq"
-        }
-      ],
-      "duration_ms": 224262,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/2nzWf9oHcn6uXBQ4Gsq0Nc"
-    },
-    {
-      "added_at": "2023-07-14 11:00:00",
-      "album": {
-        "name": "Gypsy Woman (She's Homeless) [Atmos Blaq & Chymamusique Remixes]",
-        "url": "https://open.spotify.com/album/1iML6kYmw5LThCd4ONdgtZ"
-      },
-      "artists": [
-        {
-          "name": "beatsbyhand",
-          "url": "https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ"
+          "name": "Ben Lukas Boysen",
+          "url": "https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER"
         },
         {
-          "name": "Kali Mija",
-          "url": "https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP"
-        },
-        {
-          "name": "Atmos Blaq",
-          "url": "https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM"
+          "name": "Kiasmos",
+          "url": "https://open.spotify.com/artist/6X8lhZ7YaRUBlOsOYimlyD"
         }
       ],
-      "duration_ms": 385203,
-      "name": "Gypsy Woman (She's Homeless) - Atmos Blaq Remix",
-      "url": "https://open.spotify.com/track/0OIkGLJOrJtrQ9pm805I5m"
+      "duration_ms": 343278,
+      "name": "Clarion - Kiasmos Remix",
+      "url": "https://open.spotify.com/track/3VSQJhXdcJZOLyTLPbmxDr"
     },
     {
       "added_at": "2023-07-14 11:00:00",
@@ -1023,6 +983,46 @@
       "duration_ms": 323919,
       "name": "World Turns",
       "url": "https://open.spotify.com/track/7gLVKmFdPHGTrrK5QknUnw"
+    },
+    {
+      "added_at": "2023-07-14 11:00:00",
+      "album": {
+        "name": "Gypsy Woman (She's Homeless) [Atmos Blaq & Chymamusique Remixes]",
+        "url": "https://open.spotify.com/album/1iML6kYmw5LThCd4ONdgtZ"
+      },
+      "artists": [
+        {
+          "name": "beatsbyhand",
+          "url": "https://open.spotify.com/artist/133w581YYo0NNLrK5pHAuZ"
+        },
+        {
+          "name": "Kali Mija",
+          "url": "https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP"
+        },
+        {
+          "name": "Atmos Blaq",
+          "url": "https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM"
+        }
+      ],
+      "duration_ms": 385203,
+      "name": "Gypsy Woman (She's Homeless) - Atmos Blaq Remix",
+      "url": "https://open.spotify.com/track/0OIkGLJOrJtrQ9pm805I5m"
+    },
+    {
+      "added_at": "2023-07-14 11:00:00",
+      "album": {
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/7HbFStkVZ2gnHmCq6HPrCh"
+      },
+      "artists": [
+        {
+          "name": "Oliver Schories",
+          "url": "https://open.spotify.com/artist/0iTjLBepeGaLgZS18kxgRq"
+        }
+      ],
+      "duration_ms": 224262,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/2nzWf9oHcn6uXBQ4Gsq0Nc"
     },
     {
       "added_at": "2023-07-14 11:00:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-07-14 11:00:00",
       "album": {
-        "name": "Bosquemar",
-        "url": "https://open.spotify.com/album/6sjXeme4j3kjsQqhniTSp5"
-      },
-      "artists": [
-        {
-          "name": "Bosquemar",
-          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
-        }
-      ],
-      "duration_ms": 393428,
-      "name": "Bosque",
-      "url": "https://open.spotify.com/track/0ZNZu14IJ7gFmWeKo4B7pv"
-    },
-    {
-      "added_at": "2023-07-14 11:00:00",
-      "album": {
         "name": "Blood Moon (Remixes)",
         "url": "https://open.spotify.com/album/4TGKtivFRBZl4BymLiQTpK"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 289134,
       "name": "A Thousand Knives (Enamour Remix) - Edit",
       "url": "https://open.spotify.com/track/37Zi74wmcWpaFGogWQipqx"
+    },
+    {
+      "added_at": "2023-07-14 11:00:00",
+      "album": {
+        "name": "Bosquemar",
+        "url": "https://open.spotify.com/album/6sjXeme4j3kjsQqhniTSp5"
+      },
+      "artists": [
+        {
+          "name": "Bosquemar",
+          "url": "https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY"
+        }
+      ],
+      "duration_ms": 393428,
+      "name": "Bosque",
+      "url": "https://open.spotify.com/track/0ZNZu14IJ7gFmWeKo4B7pv"
     },
     {
       "added_at": "2023-07-14 11:00:00",

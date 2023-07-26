@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 
 > Queens everywhere \- givin' us life\. Cover: Tia Kofi
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,803 likes - 90 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,830 likes - 90 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Cover Girl](https://open.spotify.com/track/7jman10UPhzhtOOqZLjSsh) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Champion](https://open.spotify.com/album/3ExxyWO7DdCsNlYDuoIP8b) | 2:58 |
+| 1 | [Cover Girl](https://open.spotify.com/track/38u74wUfcE5N47L2m9qYrZ) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Cover Girl \- The RuMixes](https://open.spotify.com/album/6Ocm1OulB1CVMNCVw5JjqO) | 3:03 |
 | 2 | [Bitch Like Me](https://open.spotify.com/track/1lV3NdZCVc8wZ1wdv25Gw5) | [Bob the Drag Queen](https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj) | [Bitch Like Me](https://open.spotify.com/album/1VtO6ikGbNWY3bQa0aacg1) | 2:36 |
 | 3 | [Satellite](https://open.spotify.com/track/3KwLphYunPNCGwsCkr9OCq) | [Tia Kofi](https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva) | [Satellite](https://open.spotify.com/album/2lxWhVphx12GD6HEP6KidW) | 2:48 |
 | 4 | [Hectic](https://open.spotify.com/track/5Ia7bTwJ1gTCFlztPvSHRC) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [Hectic](https://open.spotify.com/album/2UKVkOF6pHGKleJXFL32dB) | 2:37 |
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 16 | [Champion \(Ru X Blu\)](https://open.spotify.com/track/3Hi69uRksd7Z2YQ9dEGDJP) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe), [Blu Hydrangea](https://open.spotify.com/artist/0oYqfQLQ6DfSaJvjobEps0) | [Champion \(Ru X Blu\)](https://open.spotify.com/album/1NeBhG3TwAJ1YYk0bAT6pQ) | 2:58 |
 | 17 | [Malibu](https://open.spotify.com/track/1BjZQhaQy04o37ETiZrXdl) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [Barbara](https://open.spotify.com/album/6PMAcubRYoflJL5bnAW0nZ) | 3:02 |
 | 18 | [Break Up Bye Bye \- Frock Destroyers Version](https://open.spotify.com/track/13lgFanIzQVjIiVvxyAjjS) | [The Cast of RuPaul's Drag Race UK](https://open.spotify.com/artist/7oNsk0nkBTccrd9DTdeiPc), [Frock Destroyers](https://open.spotify.com/artist/0bgDzuEKKYLcQrvb0XANf1) | [Break Up Bye Bye \(Frock Destroyers Version\)](https://open.spotify.com/album/4vydhCuNsBlq3S4PNCO5K6) | 2:31 |
-| 19 | [London](https://open.spotify.com/track/1XoOdlKTaLhg4RouORhowS) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [You're a Winner, Baby](https://open.spotify.com/album/7MtBOfcnTleOXzDniwiqs3) | 3:20 |
-| 20 | [Sissy That Walk](https://open.spotify.com/track/5PHPENfE3RVmHGAA2A7Hfx) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Born Naked](https://open.spotify.com/album/3stAjHtCDSCavGtkxzvYE7) | 3:32 |
+| 19 | [London](https://open.spotify.com/track/3UckjaecFyTplgXULMGpJ6) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [You're a Winner, Baby](https://open.spotify.com/album/3keYbnmOowk2l1xWdo8vVq) | 3:20 |
+| 20 | [Sissy That Walk](https://open.spotify.com/track/4KvHJkVdQQrskjVfGoYedT) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Born Naked](https://open.spotify.com/album/3Kl2udummuO8MuE3cYa3sM) | 3:32 |
 | 21 | [UK Hun? \(United Kingdolls Version\)](https://open.spotify.com/track/1lZS5NcFUVEZNYSWHtfJPk) | [The Cast of RuPaul's Drag Race UK, Season 2](https://open.spotify.com/artist/5B8MzBYbmhTUA47z1mJFMs) | [UK Hun? \(United Kingdolls Version\)](https://open.spotify.com/album/5UyzUjmnkRX9acY27xknpE) | 2:46 |
 | 22 | [God Save This Queen](https://open.spotify.com/track/7gDcVXlWdaNTewQqEEzd1a) | [Bimini](https://open.spotify.com/artist/5QSfJ3Ny5A3AAmv2gg1pCk) | [God Save This Queen](https://open.spotify.com/album/1EquwaplprBYC9n146AuPG) | 3:14 |
 | 23 | [Werqin' Girl \(Professional\)](https://open.spotify.com/track/3MCG7KYRFM4uFErWnmTIuv) | [Shangela Laquifa](https://open.spotify.com/artist/7czghyR75hlwV4ddLK5MeD) | [Werqin' Girl \(Professional\)](https://open.spotify.com/album/4cAQ8XGLVUtvVSpo2KYAnm) | 3:42 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZCoBbLu26P.md) - [plain]
 | 89 | [AAA \(feat\. Alaska Thunderfuck, Courtney Act & Willam \)](https://open.spotify.com/track/4aCczCIMedqUdGUcUqVb1N) | [The AAA Girls](https://open.spotify.com/artist/0RQTMmeu6M6VQg5zPeWKgw), [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy), [Courtney Act](https://open.spotify.com/artist/1zoflf6jZMLDZ65uJXAAwq), [Willam](https://open.spotify.com/artist/6l0msaZPAzFDz1UDDv6BV8) | [Access All Areas](https://open.spotify.com/album/4K8CUDdTzgmhtlVPTpGIS9) | 3:13 |
 | 90 | [Pray for Love \- Formation Remix](https://open.spotify.com/track/3sOd6DeqHC1wkKBqyZbfE4) | [Love Ssega](https://open.spotify.com/artist/5NxG91O2LcOKUktBYVWiWd) | [Pray for Love](https://open.spotify.com/album/66CHixhq5wWkHHhsGJ3wpl) | 3:55 |
 
-Snapshot ID: `MCw1MjY2MTM1MDNkODk5ZTdhZGNiODMxMTE3MDllODM1NjFmM2YzY2Zi`
+Snapshot ID: `MCw2MjAyODZlMzIxODhjNzYzYzA5MzY3ODJiZjI1MTUwOWUzMWVhOTk3`

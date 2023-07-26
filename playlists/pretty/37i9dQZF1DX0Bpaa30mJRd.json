@@ -1,18 +1,794 @@
 {
   "description": "\u201c\u8a18\u5ff5\u65e5\u201d\u306b\u5408\u308f\u305b\u3066<a href=\"https://filmaga.filmarks.com/articles/243160/\">\u5168\u56fd\u4e0a\u6620</a>\uff01\u590f\u306b\u89b3\u305f\u3044\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u6620\u753b\u300e\u6642\u3092\u304b\u3051\u308b\u5c11\u5973\u300f\u300e\u30b5\u30de\u30fc\u30a6\u30a9\u30fc\u30ba\u300f\u5168\u56fd\u306e\u6620\u753b\u9928\u30672\u9031\u9593\u9650\u5b9a\u4e0a\u6620\u3002",
-  "num_followers": 33474,
+  "num_followers": 33538,
   "original_name": "This Is \u30b9\u30bf\u30b8\u30aa\u5730\u56f3 -Studio Chizu-",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZTUyYzRjZDg2MmYxODBjNjA3OWQxMjEzNmU4YTRjMDI1YzNjM2U2",
+  "snapshot_id": "MCw2ZDkyYjhiMjQxZDNlM2UzMjUzNTk4ZjNkNGIzM2RhNWM4MjkxNDcx",
   "tracks": [
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
-        "name": "\u5909\u308f\u3089\u306a\u3044\u3082\u306e (\u300c\u6642\u3092\u304b\u3051\u308b\u5c11\u5973\u300d\u3088\u308a)",
-        "url": "https://open.spotify.com/album/4iTNKoTCtyEctBDruQ2bgF"
+        "name": "\u30b9\u30bf\u30b8\u30aa\u5730\u56f3 Music Journey Vol. 1 - \u30b7\u30cd\u30de\u30c6\u30a3\u30c3\u30af\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9 2022",
+        "url": "https://open.spotify.com/album/2SrS1B2im6BV3OrgI7C2s8"
+      },
+      "artists": [
+        {
+          "name": "\u6817\u7530\u535a\u6587",
+          "url": "https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx"
+        },
+        {
+          "name": "Tokyo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6"
+        }
+      ],
+      "duration_ms": 244693,
+      "name": "\u795d\u796d - \u300c\u30d0\u30b1\u30e2\u30ce\u306e\u5b50\u300d\u3088\u308a",
+      "url": "https://open.spotify.com/track/0RA7Q47573D2M13MwLDUgU"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "The Boy and The Beast (Original Soundtrack Album)",
+        "url": "https://open.spotify.com/album/7Ahkr6PnLvSmrwJugM4Bue"
+      },
+      "artists": [
+        {
+          "name": "Masakatsu Takagi",
+          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
+        }
+      ],
+      "duration_ms": 162826,
+      "name": "The Beast Festivities",
+      "url": "https://open.spotify.com/track/609QeFudpDFTVqMalOqGx8"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "\u30b9\u30bf\u30b8\u30aa\u5730\u56f3 Music Journey Vol. 1 - \u30b7\u30cd\u30de\u30c6\u30a3\u30c3\u30af\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9 2022",
+        "url": "https://open.spotify.com/album/2SrS1B2im6BV3OrgI7C2s8"
+      },
+      "artists": [
+        {
+          "name": "\u6817\u7530\u535a\u6587",
+          "url": "https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx"
+        },
+        {
+          "name": "Tokyo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6"
+        }
+      ],
+      "duration_ms": 84866,
+      "name": "\u4e09\u5343\u4e16\u754c\u306e\u8ff7\u3044\u5b50 - \u300c\u30d0\u30b1\u30e2\u30ce\u306e\u5b50\u300d\u3088\u308a",
+      "url": "https://open.spotify.com/track/4xJg2GT5GNKQYwnXQHAvfn"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "The Boy and The Beast (Original Soundtrack Album)",
+        "url": "https://open.spotify.com/album/7Ahkr6PnLvSmrwJugM4Bue"
+      },
+      "artists": [
+        {
+          "name": "Masakatsu Takagi",
+          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
+        }
+      ],
+      "duration_ms": 149293,
+      "name": "Stray Boy",
+      "url": "https://open.spotify.com/track/1FxVaKqQ3w9Cy0ULieCcVU"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "\u30b9\u30bf\u30b8\u30aa\u5730\u56f3 Music Journey Vol. 1 - \u30b7\u30cd\u30de\u30c6\u30a3\u30c3\u30af\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9 2022",
+        "url": "https://open.spotify.com/album/2SrS1B2im6BV3OrgI7C2s8"
+      },
+      "artists": [
+        {
+          "name": "\u6817\u7530\u535a\u6587",
+          "url": "https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx"
+        },
+        {
+          "name": "Tokyo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6"
+        }
+      ],
+      "duration_ms": 212773,
+      "name": "\u5145\u305f\u3055\u308c\u305f\u5b50\u3069\u3082 - \u300c\u30d0\u30b1\u30e2\u30ce\u306e\u5b50\u300d\u3088\u308a",
+      "url": "https://open.spotify.com/track/2AqxocW9EfSLkq498lt6Nj"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "The Boy and The Beast (Original Soundtrack Album)",
+        "url": "https://open.spotify.com/album/7Ahkr6PnLvSmrwJugM4Bue"
+      },
+      "artists": [
+        {
+          "name": "Masakatsu Takagi",
+          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
+        }
+      ],
+      "duration_ms": 187266,
+      "name": "A Child Full Of Life",
+      "url": "https://open.spotify.com/track/5QNObYyORuKmXcMNdfvh8C"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "\u30b9\u30bf\u30b8\u30aa\u5730\u56f3 Music Journey Vol. 1 - \u30b7\u30cd\u30de\u30c6\u30a3\u30c3\u30af\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9 2022",
+        "url": "https://open.spotify.com/album/2SrS1B2im6BV3OrgI7C2s8"
+      },
+      "artists": [
+        {
+          "name": "\u6817\u7530\u535a\u6587",
+          "url": "https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx"
+        },
+        {
+          "name": "Tokyo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6"
+        }
+      ],
+      "duration_ms": 211893,
+      "name": "\u80f8\u306e\u5263 - \u300c\u30d0\u30b1\u30e2\u30ce\u306e\u5b50\u300d\u3088\u308a",
+      "url": "https://open.spotify.com/track/0dPTShIgi2olcwuv2BDjlj"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "The Boy and The Beast (Original Soundtrack Album)",
+        "url": "https://open.spotify.com/album/7Ahkr6PnLvSmrwJugM4Bue"
+      },
+      "artists": [
+        {
+          "name": "Masakatsu Takagi",
+          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
+        }
+      ],
+      "duration_ms": 181226,
+      "name": "A Sword In Your Soul",
+      "url": "https://open.spotify.com/track/1FGpiMBQKgIGaKBaHgnlin"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "\u30b9\u30bf\u30b8\u30aa\u5730\u56f3 Music Journey Vol. 1 - \u30b7\u30cd\u30de\u30c6\u30a3\u30c3\u30af\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9 2022",
+        "url": "https://open.spotify.com/album/2SrS1B2im6BV3OrgI7C2s8"
+      },
+      "artists": [
+        {
+          "name": "Ann Sally",
+          "url": "https://open.spotify.com/artist/1g9zG323vBvafWMplgUEQx"
+        },
+        {
+          "name": "Masakatsu Takagi",
+          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
+        },
+        {
+          "name": "\u6817\u7530\u535a\u6587",
+          "url": "https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx"
+        },
+        {
+          "name": "Tokyo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6"
+        }
+      ],
+      "duration_ms": 230640,
+      "name": "\u307b\u3057\u307c\u3057\u306e\u306f\u3089 - \u300c\u304a\u304a\u304b\u307f\u3053\u3069\u3082\u306e\u96e8\u3068\u96ea\u300d\u3088\u308a",
+      "url": "https://open.spotify.com/track/0r8Eat7aHk9VcQgBjr56uS"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "Wolf Children (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3vZyva1XWxRbf0wq4MsU8q"
+      },
+      "artists": [
+        {
+          "name": "Masakatsu Takagi",
+          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
+        }
+      ],
+      "duration_ms": 94720,
+      "name": "Cradle Of Myriad Stars",
+      "url": "https://open.spotify.com/track/6HZe0TaYIBP9fwtn4nYUuu"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "\u30b9\u30bf\u30b8\u30aa\u5730\u56f3 Music Journey Vol. 1 - \u30b7\u30cd\u30de\u30c6\u30a3\u30c3\u30af\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9 2022",
+        "url": "https://open.spotify.com/album/2SrS1B2im6BV3OrgI7C2s8"
+      },
+      "artists": [
+        {
+          "name": "Masakatsu Takagi",
+          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
+        },
+        {
+          "name": "\u6817\u7530\u535a\u6587",
+          "url": "https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx"
+        },
+        {
+          "name": "Tokyo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6"
+        }
+      ],
+      "duration_ms": 206986,
+      "name": "\u304d\u3068\u304d\u3068 - \u56db\u672c\u8db3\u306e\u8e0a\u308a - \u300c\u304a\u304a\u304b\u307f\u3053\u3069\u3082\u306e\u96e8\u3068\u96ea\u300d\u3088\u308a",
+      "url": "https://open.spotify.com/track/263JPYJD84LfWT9LRFeERX"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "Wolf Children (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3vZyva1XWxRbf0wq4MsU8q"
+      },
+      "artists": [
+        {
+          "name": "Masakatsu Takagi",
+          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
+        }
+      ],
+      "duration_ms": 128013,
+      "name": "Kito Kito - Dance Of Your Nature",
+      "url": "https://open.spotify.com/track/2USTbyR31nUvf1LCLRdIf7"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "\u30b9\u30bf\u30b8\u30aa\u5730\u56f3 Music Journey Vol. 1 - \u30b7\u30cd\u30de\u30c6\u30a3\u30c3\u30af\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9 2022",
+        "url": "https://open.spotify.com/album/2SrS1B2im6BV3OrgI7C2s8"
+      },
+      "artists": [
+        {
+          "name": "Masakatsu Takagi",
+          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
+        },
+        {
+          "name": "\u6817\u7530\u535a\u6587",
+          "url": "https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx"
+        },
+        {
+          "name": "Tokyo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6"
+        }
+      ],
+      "duration_ms": 270480,
+      "name": "\u96e8\u4e0a\u304c\u308a\u306e\u5bb6 - \u300c\u304a\u304a\u304b\u307f\u3053\u3069\u3082\u306e\u96e8\u3068\u96ea\u300d\u3088\u308a",
+      "url": "https://open.spotify.com/track/1ZK6D6j1dYybCzuzbI6NM9"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "Wolf Children (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3vZyva1XWxRbf0wq4MsU8q"
+      },
+      "artists": [
+        {
+          "name": "Masakatsu Takagi",
+          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
+        }
+      ],
+      "duration_ms": 291906,
+      "name": "Home After Rain",
+      "url": "https://open.spotify.com/track/2P0Vz9pjdTnq6iRDnFXavr"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "\u30b9\u30bf\u30b8\u30aa\u5730\u56f3 Music Journey Vol. 1 - \u30b7\u30cd\u30de\u30c6\u30a3\u30c3\u30af\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9 2022",
+        "url": "https://open.spotify.com/album/2SrS1B2im6BV3OrgI7C2s8"
+      },
+      "artists": [
+        {
+          "name": "Ann Sally",
+          "url": "https://open.spotify.com/artist/1g9zG323vBvafWMplgUEQx"
+        },
+        {
+          "name": "Masakatsu Takagi",
+          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
+        },
+        {
+          "name": "\u6817\u7530\u535a\u6587",
+          "url": "https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx"
+        },
+        {
+          "name": "Tokyo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6"
+        }
+      ],
+      "duration_ms": 321080,
+      "name": "\u304a\u304b\u3042\u3055\u3093\u306e\u5504 - \u300c\u304a\u304a\u304b\u307f\u3053\u3069\u3082\u306e\u96e8\u3068\u96ea\u300d\u3088\u308a",
+      "url": "https://open.spotify.com/track/1EhyaIc4jTrXEMaMVUrUDK"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "Wolf Children (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3vZyva1XWxRbf0wq4MsU8q"
+      },
+      "artists": [
+        {
+          "name": "Ann Sally",
+          "url": "https://open.spotify.com/artist/1g9zG323vBvafWMplgUEQx"
+        }
+      ],
+      "duration_ms": 310640,
+      "name": "Mother's Song",
+      "url": "https://open.spotify.com/track/3pkVDKAPIhrpsAR79fa05P"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "\u30b9\u30bf\u30b8\u30aa\u5730\u56f3 Music Journey Vol. 1 - \u30b7\u30cd\u30de\u30c6\u30a3\u30c3\u30af\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9 2022",
+        "url": "https://open.spotify.com/album/2SrS1B2im6BV3OrgI7C2s8"
+      },
+      "artists": [
+        {
+          "name": "\u6817\u7530\u535a\u6587",
+          "url": "https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx"
+        },
+        {
+          "name": "Tokyo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6"
+        }
+      ],
+      "duration_ms": 147946,
+      "name": "\u4eee\u60f3\u90fd\u5e02OZ - \u300c\u30b5\u30de\u30fc\u30a6\u30a9\u30fc\u30ba\u300d\u3088\u308a",
+      "url": "https://open.spotify.com/track/0qQutR6SbR9yPFRxllW7By"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "\u30b5\u30de\u30fc\u30a6\u30a9\u30fc\u30ba \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/17e9w6ZxwFroAAKP9Ybtqa"
+      },
+      "artists": [
+        {
+          "name": "Akihiko Matsumoto",
+          "url": "https://open.spotify.com/artist/7npYxeGYDN9qZmbxYuzunM"
+        }
+      ],
+      "duration_ms": 173373,
+      "name": "\u4eee\u60f3\u90fd\u5e02OZ",
+      "url": "https://open.spotify.com/track/3LToQzRfeZ9eB2zjUEMMFP"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "\u30b9\u30bf\u30b8\u30aa\u5730\u56f3 Music Journey Vol. 1 - \u30b7\u30cd\u30de\u30c6\u30a3\u30c3\u30af\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9 2022",
+        "url": "https://open.spotify.com/album/2SrS1B2im6BV3OrgI7C2s8"
+      },
+      "artists": [
+        {
+          "name": "\u6817\u7530\u535a\u6587",
+          "url": "https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx"
+        },
+        {
+          "name": "Tokyo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6"
+        }
+      ],
+      "duration_ms": 83013,
+      "name": "KING KAZMA - \u300c\u30b5\u30de\u30fc\u30a6\u30a9\u30fc\u30ba\u300d\u3088\u308a",
+      "url": "https://open.spotify.com/track/2uioT4Xyr4dj9LtIp9LKQC"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "\u30b5\u30de\u30fc\u30a6\u30a9\u30fc\u30ba \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/17e9w6ZxwFroAAKP9Ybtqa"
+      },
+      "artists": [
+        {
+          "name": "Akihiko Matsumoto",
+          "url": "https://open.spotify.com/artist/7npYxeGYDN9qZmbxYuzunM"
+        }
+      ],
+      "duration_ms": 187400,
+      "name": "KING KAZMA",
+      "url": "https://open.spotify.com/track/1LRy43zm7FhgAj9Q4EHlah"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "\u30b9\u30bf\u30b8\u30aa\u5730\u56f3 Music Journey Vol. 1 - \u30b7\u30cd\u30de\u30c6\u30a3\u30c3\u30af\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9 2022",
+        "url": "https://open.spotify.com/album/2SrS1B2im6BV3OrgI7C2s8"
+      },
+      "artists": [
+        {
+          "name": "\u6817\u7530\u535a\u6587",
+          "url": "https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx"
+        },
+        {
+          "name": "Tokyo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6"
+        }
+      ],
+      "duration_ms": 192613,
+      "name": "\u6804\u306e\u6d3b\u8e8d - \u300c\u30b5\u30de\u30fc\u30a6\u30a9\u30fc\u30ba\u300d\u3088\u308a",
+      "url": "https://open.spotify.com/track/3HdMTQQNpChoeR1d4iayIc"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "\u30b5\u30de\u30fc\u30a6\u30a9\u30fc\u30ba \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/17e9w6ZxwFroAAKP9Ybtqa"
+      },
+      "artists": [
+        {
+          "name": "Akihiko Matsumoto",
+          "url": "https://open.spotify.com/artist/7npYxeGYDN9qZmbxYuzunM"
+        }
+      ],
+      "duration_ms": 189480,
+      "name": "\u6804\u306e\u6d3b\u8e8d",
+      "url": "https://open.spotify.com/track/1uPiELzYT6EZSIz6NBIzyX"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "\u30b9\u30bf\u30b8\u30aa\u5730\u56f3 Music Journey Vol. 1 - \u30b7\u30cd\u30de\u30c6\u30a3\u30c3\u30af\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9 2022",
+        "url": "https://open.spotify.com/album/2SrS1B2im6BV3OrgI7C2s8"
+      },
+      "artists": [
+        {
+          "name": "\u6817\u7530\u535a\u6587",
+          "url": "https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx"
+        },
+        {
+          "name": "Tokyo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6"
+        }
+      ],
+      "duration_ms": 198786,
+      "name": "1\u51045\u5343\u4e07\u306e\u5947\u8de1 - \u300c\u30b5\u30de\u30fc\u30a6\u30a9\u30fc\u30ba\u300d\u3088\u308a",
+      "url": "https://open.spotify.com/track/6nIbOycDmd1aVVtlcpqhxI"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "\u30b5\u30de\u30fc\u30a6\u30a9\u30fc\u30ba \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/17e9w6ZxwFroAAKP9Ybtqa"
+      },
+      "artists": [
+        {
+          "name": "Akihiko Matsumoto",
+          "url": "https://open.spotify.com/artist/7npYxeGYDN9qZmbxYuzunM"
+        }
+      ],
+      "duration_ms": 213853,
+      "name": "1\u51045\u5343\u4e07\u306e\u5947\u8de1",
+      "url": "https://open.spotify.com/track/5WhZRzY0K5NkmMGqZVD1wk"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "\u30b9\u30bf\u30b8\u30aa\u5730\u56f3 Music Journey Vol. 1 - \u30b7\u30cd\u30de\u30c6\u30a3\u30c3\u30af\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9 2022",
+        "url": "https://open.spotify.com/album/2SrS1B2im6BV3OrgI7C2s8"
+      },
+      "artists": [
+        {
+          "name": "\u6817\u7530\u535a\u6587",
+          "url": "https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx"
+        },
+        {
+          "name": "Tokyo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6"
+        }
+      ],
+      "duration_ms": 119013,
+      "name": "The Summer Wars - \u300c\u30b5\u30de\u30fc\u30a6\u30a9\u30fc\u30ba\u300d\u3088\u308a",
+      "url": "https://open.spotify.com/track/6IGWLWng0SHJIVRb6kH3yo"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "\u30b5\u30de\u30fc\u30a6\u30a9\u30fc\u30ba \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/17e9w6ZxwFroAAKP9Ybtqa"
+      },
+      "artists": [
+        {
+          "name": "Akihiko Matsumoto",
+          "url": "https://open.spotify.com/artist/7npYxeGYDN9qZmbxYuzunM"
+        }
+      ],
+      "duration_ms": 112560,
+      "name": "The Summer Wars",
+      "url": "https://open.spotify.com/track/76Ke05Z8W1hsSOul0KRnMG"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "\u30b9\u30bf\u30b8\u30aa\u5730\u56f3 Music Journey Vol. 1 - \u30b7\u30cd\u30de\u30c6\u30a3\u30c3\u30af\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9 2022",
+        "url": "https://open.spotify.com/album/2SrS1B2im6BV3OrgI7C2s8"
+      },
+      "artists": [
+        {
+          "name": "\u6817\u7530\u535a\u6587",
+          "url": "https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx"
+        },
+        {
+          "name": "Tokyo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6"
+        }
+      ],
+      "duration_ms": 125693,
+      "name": "\u30df\u30e9\u30a4\u306e\u30c6\u30fc\u30de - \u300c\u672a\u6765\u306e\u30df\u30e9\u30a4\u300d\u3088\u308a",
+      "url": "https://open.spotify.com/track/6OFjQqdeDDyQSEmWZT4tUx"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "\u30b9\u30bf\u30b8\u30aa\u5730\u56f3 Music Journey Vol. 1 - \u30b7\u30cd\u30de\u30c6\u30a3\u30c3\u30af\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9 2022",
+        "url": "https://open.spotify.com/album/2SrS1B2im6BV3OrgI7C2s8"
+      },
+      "artists": [
+        {
+          "name": "Masakatsu Takagi",
+          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
+        },
+        {
+          "name": "\u6817\u7530\u535a\u6587",
+          "url": "https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx"
+        },
+        {
+          "name": "Tokyo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6"
+        }
+      ],
+      "duration_ms": 78933,
+      "name": "Trans Train - \u300c\u672a\u6765\u306e\u30df\u30e9\u30a4\u300d\u3088\u308a",
+      "url": "https://open.spotify.com/track/19f3AQgnhWebOilLCe2lgq"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "Mirai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3CVU0gY4r5hYuf23oLOszP"
+      },
+      "artists": [
+        {
+          "name": "Masakatsu Takagi",
+          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
+        }
+      ],
+      "duration_ms": 76786,
+      "name": "Trans Train",
+      "url": "https://open.spotify.com/track/7nDxppqdfAekogQJeYdZ1o"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "\u30b9\u30bf\u30b8\u30aa\u5730\u56f3 Music Journey Vol. 1 - \u30b7\u30cd\u30de\u30c6\u30a3\u30c3\u30af\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9 2022",
+        "url": "https://open.spotify.com/album/2SrS1B2im6BV3OrgI7C2s8"
+      },
+      "artists": [
+        {
+          "name": "Masakatsu Takagi",
+          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
+        },
+        {
+          "name": "\u6817\u7530\u535a\u6587",
+          "url": "https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx"
+        },
+        {
+          "name": "Tokyo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6"
+        }
+      ],
+      "duration_ms": 219306,
+      "name": "Marginalia Song - \u300c\u672a\u6765\u306e\u30df\u30e9\u30a4\u300d\u3088\u308a",
+      "url": "https://open.spotify.com/track/4nkQWfhgFTJ1daRhqIZpEj"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "Mirai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3CVU0gY4r5hYuf23oLOszP"
+      },
+      "artists": [
+        {
+          "name": "Masakatsu Takagi",
+          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
+        }
+      ],
+      "duration_ms": 212320,
+      "name": "Marginalia Song",
+      "url": "https://open.spotify.com/track/4SpIBnUUqTY8Lbvxqa24Br"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "\u30b9\u30bf\u30b8\u30aa\u5730\u56f3 Music Journey Vol. 1 - \u30b7\u30cd\u30de\u30c6\u30a3\u30c3\u30af\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9 2022",
+        "url": "https://open.spotify.com/album/2SrS1B2im6BV3OrgI7C2s8"
+      },
+      "artists": [
+        {
+          "name": "Masakatsu Takagi",
+          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
+        },
+        {
+          "name": "\u6817\u7530\u535a\u6587",
+          "url": "https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx"
+        },
+        {
+          "name": "Tokyo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6"
+        }
+      ],
+      "duration_ms": 235813,
+      "name": "Of Angels - \u300c\u672a\u6765\u306e\u30df\u30e9\u30a4\u300d\u3088\u308a",
+      "url": "https://open.spotify.com/track/4Qelqh4wChUeTNBAc1g3FF"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "Mirai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3CVU0gY4r5hYuf23oLOszP"
+      },
+      "artists": [
+        {
+          "name": "Masakatsu Takagi",
+          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
+        }
+      ],
+      "duration_ms": 339080,
+      "name": "Of Angels",
+      "url": "https://open.spotify.com/track/4fIAZ5bNlwg2Xpsrt1MqmC"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "\u30b9\u30bf\u30b8\u30aa\u5730\u56f3 Music Journey Vol. 1 - \u30b7\u30cd\u30de\u30c6\u30a3\u30c3\u30af\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9 2022",
+        "url": "https://open.spotify.com/album/2SrS1B2im6BV3OrgI7C2s8"
+      },
+      "artists": [
+        {
+          "name": "\u6817\u7530\u535a\u6587",
+          "url": "https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx"
+        },
+        {
+          "name": "Tokyo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6"
+        }
+      ],
+      "duration_ms": 176133,
+      "name": "\u590f\u7a7a - \u300c\u6642\u3092\u304b\u3051\u308b\u5c11\u5973\u300d\u3088\u308a",
+      "url": "https://open.spotify.com/track/1Cdd1v1LCefr3075koh694"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "\u5287\u5834\u7248\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300c\u6642\u3092\u304b\u3051\u308b\u5c11\u5973\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/29DDbva4BT30CiTl2kO1Sg"
+      },
+      "artists": [
+        {
+          "name": "Kiyoshi Yoshida",
+          "url": "https://open.spotify.com/artist/1im9uoXp0eRWfygAuNVouL"
+        }
+      ],
+      "duration_ms": 317733,
+      "name": "\u590f\u7a7a - \u30ed\u30f3\u30b0\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/1xkCOzaNmdhkcKrqNgAfkr"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "\u30b9\u30bf\u30b8\u30aa\u5730\u56f3 Music Journey Vol. 1 - \u30b7\u30cd\u30de\u30c6\u30a3\u30c3\u30af\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9 2022",
+        "url": "https://open.spotify.com/album/2SrS1B2im6BV3OrgI7C2s8"
+      },
+      "artists": [
+        {
+          "name": "\u6817\u7530\u535a\u6587",
+          "url": "https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx"
+        },
+        {
+          "name": "Tokyo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6"
+        }
+      ],
+      "duration_ms": 61586,
+      "name": "\u30b9\u30b1\u30c3\u30c1 - \u300c\u6642\u3092\u304b\u3051\u308b\u5c11\u5973\u300d\u3088\u308a",
+      "url": "https://open.spotify.com/track/0F1JMBGWXSyE6MZXeGxb4Q"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "\u5287\u5834\u7248\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300c\u6642\u3092\u304b\u3051\u308b\u5c11\u5973\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/29DDbva4BT30CiTl2kO1Sg"
+      },
+      "artists": [
+        {
+          "name": "Kiyoshi Yoshida",
+          "url": "https://open.spotify.com/artist/1im9uoXp0eRWfygAuNVouL"
+        }
+      ],
+      "duration_ms": 277506,
+      "name": "\u30b9\u30b1\u30c3\u30c1 - \u30ed\u30f3\u30b0\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/5FioAqX4TwChHUQIlpn5yV"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "\u30b9\u30bf\u30b8\u30aa\u5730\u56f3 Music Journey Vol. 1 - \u30b7\u30cd\u30de\u30c6\u30a3\u30c3\u30af\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9 2022",
+        "url": "https://open.spotify.com/album/2SrS1B2im6BV3OrgI7C2s8"
+      },
+      "artists": [
+        {
+          "name": "\u6817\u7530\u535a\u6587",
+          "url": "https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx"
+        },
+        {
+          "name": "Tokyo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6"
+        }
+      ],
+      "duration_ms": 147040,
+      "name": "\u5c11\u5973\u306e\u4e0d\u5b89 - \u300c\u6642\u3092\u304b\u3051\u308b\u5c11\u5973\u300d\u3088\u308a",
+      "url": "https://open.spotify.com/track/4CW5J4JMPsMUZgmeNFnTOd"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "\u5287\u5834\u7248\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300c\u6642\u3092\u304b\u3051\u308b\u5c11\u5973\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/29DDbva4BT30CiTl2kO1Sg"
+      },
+      "artists": [
+        {
+          "name": "Kiyoshi Yoshida",
+          "url": "https://open.spotify.com/artist/1im9uoXp0eRWfygAuNVouL"
+        }
+      ],
+      "duration_ms": 166680,
+      "name": "\u5c11\u5973\u306e\u4e0d\u5b89",
+      "url": "https://open.spotify.com/track/3gSxn7wfp8w81BCuTVeehM"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "\u30b9\u30bf\u30b8\u30aa\u5730\u56f3 Music Journey Vol. 1 - \u30b7\u30cd\u30de\u30c6\u30a3\u30c3\u30af\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9 2022",
+        "url": "https://open.spotify.com/album/2SrS1B2im6BV3OrgI7C2s8"
+      },
+      "artists": [
+        {
+          "name": "\u6817\u7530\u535a\u6587",
+          "url": "https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx"
+        },
+        {
+          "name": "Tokyo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6"
+        }
+      ],
+      "duration_ms": 51186,
+      "name": "\u304b\u3089\u304f\u308a\u6642\u8a08~\u30bf\u30a4\u30e0\u30ea\u30fc\u30d7 - \u300c\u6642\u3092\u304b\u3051\u308b\u5c11\u5973\u300d\u3088\u308a",
+      "url": "https://open.spotify.com/track/4CSUItE366scx1YzrN9D4b"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "\u5287\u5834\u7248\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300c\u6642\u3092\u304b\u3051\u308b\u5c11\u5973\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/29DDbva4BT30CiTl2kO1Sg"
+      },
+      "artists": [
+        {
+          "name": "Kiyoshi Yoshida",
+          "url": "https://open.spotify.com/artist/1im9uoXp0eRWfygAuNVouL"
+        }
+      ],
+      "duration_ms": 51160,
+      "name": "\u304b\u3089\u304f\u308a\u6642\u8a08~\u30bf\u30a4\u30e0\u30ea\u30fc\u30d5\u309a",
+      "url": "https://open.spotify.com/track/4CYFlYOE4RmAWMF2sj4IOD"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "\u30b9\u30bf\u30b8\u30aa\u5730\u56f3 Music Journey Vol. 1 - \u30b7\u30cd\u30de\u30c6\u30a3\u30c3\u30af\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9 2022",
+        "url": "https://open.spotify.com/album/2SrS1B2im6BV3OrgI7C2s8"
       },
       "artists": [
         {
@@ -30,10 +806,10 @@
       ],
       "duration_ms": 295466,
       "name": "\u5909\u308f\u3089\u306a\u3044\u3082\u306e - \u300c\u6642\u3092\u304b\u3051\u308b\u5c11\u5973\u300d\u3088\u308a",
-      "url": "https://open.spotify.com/track/6iPkaq0b2Tr7zJDbtL7iaH"
+      "url": "https://open.spotify.com/track/0o5zmM3IRUwjUxEU3n6hsh"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "Hanako Oku Best ~ My Letters ~",
         "url": "https://open.spotify.com/album/10S0x53VUJYn6Dcw7sY1fq"
@@ -44,44 +820,36 @@
           "url": "https://open.spotify.com/artist/2tOwqfTtAMswbLySSaTRYR"
         }
       ],
-      "duration_ms": 320493,
-      "name": "Garnet",
-      "url": "https://open.spotify.com/track/40jwSjLscs3wDOvYUpaJoB"
+      "duration_ms": 283533,
+      "name": "Kawaranai Mono",
+      "url": "https://open.spotify.com/track/0t3g7yO7fPEyuegfJjyukf"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
-        "name": "\u5287\u5834\u7248\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300c\u6642\u3092\u304b\u3051\u308b\u5c11\u5973\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/29DDbva4BT30CiTl2kO1Sg"
+        "name": "\u30b9\u30bf\u30b8\u30aa\u5730\u56f3 Music Journey Vol. 1 - \u30b7\u30cd\u30de\u30c6\u30a3\u30c3\u30af\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9 2022",
+        "url": "https://open.spotify.com/album/2SrS1B2im6BV3OrgI7C2s8"
       },
       "artists": [
         {
-          "name": "Kiyoshi Yoshida",
-          "url": "https://open.spotify.com/artist/1im9uoXp0eRWfygAuNVouL"
-        }
-      ],
-      "duration_ms": 177466,
-      "name": "\u590f\u7a7a~\u30aa\u30fc\u30d5\u309a\u30cb\u30f3\u30af\u3099\u30c6\u30fc\u30de~",
-      "url": "https://open.spotify.com/track/6Q7YfM1aKjSYhVojMsMxrC"
-    },
-    {
-      "added_at": "2023-07-14 03:58:30",
-      "album": {
-        "name": "\u30b5\u30de\u30fc\u30a6\u30a9\u30fc\u30ba \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/17e9w6ZxwFroAAKP9Ybtqa"
-      },
-      "artists": [
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        },
         {
-          "name": "Akihiko Matsumoto",
-          "url": "https://open.spotify.com/artist/7npYxeGYDN9qZmbxYuzunM"
+          "name": "\u6817\u7530\u535a\u6587",
+          "url": "https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx"
+        },
+        {
+          "name": "Tokyo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6"
         }
       ],
-      "duration_ms": 112560,
-      "name": "The Summer Wars",
-      "url": "https://open.spotify.com/track/76Ke05Z8W1hsSOul0KRnMG"
+      "duration_ms": 189240,
+      "name": "U - \u300c\u7adc\u3068\u305d\u3070\u304b\u3059\u306e\u59eb\u300d\u3088\u308a",
+      "url": "https://open.spotify.com/track/1MKl53PZ7F6KzgB8399ElD"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "U",
         "url": "https://open.spotify.com/album/6geoEKwXSuETawoDPOkfV7"
@@ -101,7 +869,27 @@
       "url": "https://open.spotify.com/track/32H7fwKsaYtSl6qiXFI6I6"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "\u30b9\u30bf\u30b8\u30aa\u5730\u56f3 Music Journey Vol. 1 - \u30b7\u30cd\u30de\u30c6\u30a3\u30c3\u30af\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9 2022",
+        "url": "https://open.spotify.com/album/2SrS1B2im6BV3OrgI7C2s8"
+      },
+      "artists": [
+        {
+          "name": "\u6817\u7530\u535a\u6587",
+          "url": "https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx"
+        },
+        {
+          "name": "Tokyo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6"
+        }
+      ],
+      "duration_ms": 92026,
+      "name": "\u6b4c\u3088 - \u300c\u7adc\u3068\u305d\u3070\u304b\u3059\u306e\u59eb\u300d\u3088\u308a",
+      "url": "https://open.spotify.com/track/4AbzJAEQ706FLlzLMq7wDC"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "Belle (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp"
@@ -112,108 +900,184 @@
           "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
         }
       ],
-      "duration_ms": 481378,
-      "name": "A Million Miles Away",
-      "url": "https://open.spotify.com/track/0WQRbcwmUd1fZ5AJcH5GDT"
+      "duration_ms": 239263,
+      "name": "\u6b4c\u3088",
+      "url": "https://open.spotify.com/track/4DPovSJonVPid3EDSxL9K8"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
-        "name": "REFLECTION{Drip}",
-        "url": "https://open.spotify.com/album/4n8pb6Vgi9a1k9eD0u4h95"
+        "name": "\u30b9\u30bf\u30b8\u30aa\u5730\u56f3 Music Journey Vol. 1 - \u30b7\u30cd\u30de\u30c6\u30a3\u30c3\u30af\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9 2022",
+        "url": "https://open.spotify.com/album/2SrS1B2im6BV3OrgI7C2s8"
       },
       "artists": [
         {
-          "name": "Mr.Children",
-          "url": "https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY"
+          "name": "\u6817\u7530\u535a\u6587",
+          "url": "https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx"
+        },
+        {
+          "name": "Tokyo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6"
         }
       ],
-      "duration_ms": 299880,
-      "name": "Starting Over",
-      "url": "https://open.spotify.com/track/4I87AgUvLk5VZqu7XM3MXq"
+      "duration_ms": 199160,
+      "name": "\u7adc\u306e\u57ce - \u300c\u7adc\u3068\u305d\u3070\u304b\u3059\u306e\u59eb\u300d\u3088\u308a",
+      "url": "https://open.spotify.com/track/56ZQYCqZULijefYRYSjJRA"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
-        "name": "The Boy and The Beast (Original Soundtrack Album)",
-        "url": "https://open.spotify.com/album/7Ahkr6PnLvSmrwJugM4Bue"
+        "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
+        "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"
       },
       "artists": [
         {
-          "name": "Masakatsu Takagi",
-          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
+          "name": "Yuta Bandoh",
+          "url": "https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb"
         }
       ],
-      "duration_ms": 162826,
-      "name": "The Beast Festivities",
-      "url": "https://open.spotify.com/track/609QeFudpDFTVqMalOqGx8"
+      "duration_ms": 190859,
+      "name": "Dragon's Lair",
+      "url": "https://open.spotify.com/track/2vVJbJ9NM1E74vaPlcBPWc"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
-        "name": "Wolf Children (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3vZyva1XWxRbf0wq4MsU8q"
+        "name": "\u30b9\u30bf\u30b8\u30aa\u5730\u56f3 Music Journey Vol. 1 - \u30b7\u30cd\u30de\u30c6\u30a3\u30c3\u30af\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9 2022",
+        "url": "https://open.spotify.com/album/2SrS1B2im6BV3OrgI7C2s8"
       },
       "artists": [
         {
-          "name": "Ann Sally",
-          "url": "https://open.spotify.com/artist/1g9zG323vBvafWMplgUEQx"
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        },
+        {
+          "name": "\u6817\u7530\u535a\u6587",
+          "url": "https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx"
+        },
+        {
+          "name": "Tokyo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6"
         }
       ],
-      "duration_ms": 310640,
-      "name": "Mother's Song",
-      "url": "https://open.spotify.com/track/3pkVDKAPIhrpsAR79fa05P"
+      "duration_ms": 303840,
+      "name": "\u5fc3\u306e\u305d\u3070\u306b - \u300c\u7adc\u3068\u305d\u3070\u304b\u3059\u306e\u59eb\u300d\u3088\u308a",
+      "url": "https://open.spotify.com/track/56AvTWrX8XIimw6h7ea5xj"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
-        "name": "Wolf Children (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3vZyva1XWxRbf0wq4MsU8q"
+        "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
+        "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"
       },
       "artists": [
         {
-          "name": "Masakatsu Takagi",
-          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
+          "name": "Yuta Bandoh",
+          "url": "https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb"
         }
       ],
-      "duration_ms": 128013,
-      "name": "Kito Kito - Dance Of Your Nature",
-      "url": "https://open.spotify.com/track/2USTbyR31nUvf1LCLRdIf7"
+      "duration_ms": 228704,
+      "name": "Assault",
+      "url": "https://open.spotify.com/track/64bKAprQGe1zqiqRxevbyd"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
-        "name": "Mirai (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3CVU0gY4r5hYuf23oLOszP"
+        "name": "\u30b9\u30bf\u30b8\u30aa\u5730\u56f3 Music Journey Vol. 1 - \u30b7\u30cd\u30de\u30c6\u30a3\u30c3\u30af\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9 2022",
+        "url": "https://open.spotify.com/album/2SrS1B2im6BV3OrgI7C2s8"
       },
       "artists": [
         {
-          "name": "Masakatsu Takagi",
-          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
+          "name": "\u6817\u7530\u535a\u6587",
+          "url": "https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx"
+        },
+        {
+          "name": "Tokyo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6"
         }
       ],
-      "duration_ms": 339080,
-      "name": "Of Angels",
-      "url": "https://open.spotify.com/track/4fIAZ5bNlwg2Xpsrt1MqmC"
+      "duration_ms": 144600,
+      "name": "\u7d20\u9854 - \u300c\u7adc\u3068\u305d\u3070\u304b\u3059\u306e\u59eb\u300d\u3088\u308a",
+      "url": "https://open.spotify.com/track/04ZntToSlnEVp9zkcFXvIe"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
-        "name": "Mirai (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3CVU0gY4r5hYuf23oLOszP"
+        "name": "Belle (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp"
       },
       "artists": [
         {
-          "name": "Masakatsu Takagi",
-          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
+          "name": "\u4e2d\u6751\u4f73\u7a42",
+          "url": "https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u"
         }
       ],
-      "duration_ms": 63533,
-      "name": "Sweet Spirit",
-      "url": "https://open.spotify.com/track/1K7jgwtOxXJY1DLUCdqu29"
+      "duration_ms": 142837,
+      "name": "Faces in the Rain",
+      "url": "https://open.spotify.com/track/47glEWHDcFq99QJIG41uyF"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "\u30b9\u30bf\u30b8\u30aa\u5730\u56f3 Music Journey Vol. 1 - \u30b7\u30cd\u30de\u30c6\u30a3\u30c3\u30af\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9 2022",
+        "url": "https://open.spotify.com/album/2SrS1B2im6BV3OrgI7C2s8"
+      },
+      "artists": [
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        },
+        {
+          "name": "\u6817\u7530\u535a\u6587",
+          "url": "https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx"
+        },
+        {
+          "name": "Tokyo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6"
+        }
+      ],
+      "duration_ms": 399000,
+      "name": "\u306f\u306a\u308c\u3070\u306a\u308c\u306e\u541b\u3078 (reprise) - \u300c\u7adc\u3068\u305d\u3070\u304b\u3059\u306e\u59eb\u300d\u3088\u308a",
+      "url": "https://open.spotify.com/track/0CH4uqALjiaMWBIe2fQGhH"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp"
+      },
+      "artists": [
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        }
+      ],
+      "duration_ms": 387832,
+      "name": "A Million Miles Away - reprise",
+      "url": "https://open.spotify.com/track/464cJTFfwAzl8tkJy9OSoy"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "\u30b9\u30bf\u30b8\u30aa\u5730\u56f3 Music Journey Vol. 1 - \u30b7\u30cd\u30de\u30c6\u30a3\u30c3\u30af\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9 2022",
+        "url": "https://open.spotify.com/album/2SrS1B2im6BV3OrgI7C2s8"
+      },
+      "artists": [
+        {
+          "name": "\u6817\u7530\u535a\u6587",
+          "url": "https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx"
+        },
+        {
+          "name": "Tokyo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6"
+        }
+      ],
+      "duration_ms": 301693,
+      "name": "Overture of the Summer Wars - \u300c\u30b5\u30de\u30fc\u30a6\u30a9\u30fc\u30ba\u300d\u3088\u308a",
+      "url": "https://open.spotify.com/track/7hst7PNZ75K9cDq6kdUHPF"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "\u30b5\u30de\u30fc\u30a6\u30a9\u30fc\u30ba \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/17e9w6ZxwFroAAKP9Ybtqa"
@@ -229,7 +1093,111 @@
       "url": "https://open.spotify.com/track/79W3ceBOw2XHZlu6jVgjxn"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "\u30b9\u30bf\u30b8\u30aa\u5730\u56f3 Music Journey Vol. 1 - \u30b7\u30cd\u30de\u30c6\u30a3\u30c3\u30af\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9 2022",
+        "url": "https://open.spotify.com/album/2SrS1B2im6BV3OrgI7C2s8"
+      },
+      "artists": [
+        {
+          "name": "Hanako Oku",
+          "url": "https://open.spotify.com/artist/2tOwqfTtAMswbLySSaTRYR"
+        },
+        {
+          "name": "\u6817\u7530\u535a\u6587",
+          "url": "https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx"
+        },
+        {
+          "name": "Tokyo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6"
+        }
+      ],
+      "duration_ms": 310306,
+      "name": "\u30ac\u30fc\u30cd\u30c3\u30c8 - \u300c\u6642\u3092\u304b\u3051\u308b\u5c11\u5973\u300d\u3088\u308a",
+      "url": "https://open.spotify.com/track/28RVMMCxOY82rwyce6pufb"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "Hanako Oku Best ~ My Letters ~",
+        "url": "https://open.spotify.com/album/10S0x53VUJYn6Dcw7sY1fq"
+      },
+      "artists": [
+        {
+          "name": "Hanako Oku",
+          "url": "https://open.spotify.com/artist/2tOwqfTtAMswbLySSaTRYR"
+        }
+      ],
+      "duration_ms": 320493,
+      "name": "Garnet",
+      "url": "https://open.spotify.com/track/40jwSjLscs3wDOvYUpaJoB"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "\u5287\u5834\u7248\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300c\u6642\u3092\u304b\u3051\u308b\u5c11\u5973\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
+        "url": "https://open.spotify.com/album/29DDbva4BT30CiTl2kO1Sg"
+      },
+      "artists": [
+        {
+          "name": "Kiyoshi Yoshida",
+          "url": "https://open.spotify.com/artist/1im9uoXp0eRWfygAuNVouL"
+        }
+      ],
+      "duration_ms": 177466,
+      "name": "\u590f\u7a7a~\u30aa\u30fc\u30d5\u309a\u30cb\u30f3\u30af\u3099\u30c6\u30fc\u30de~",
+      "url": "https://open.spotify.com/track/6Q7YfM1aKjSYhVojMsMxrC"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "Belle (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp"
+      },
+      "artists": [
+        {
+          "name": "Belle",
+          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
+        }
+      ],
+      "duration_ms": 481378,
+      "name": "A Million Miles Away",
+      "url": "https://open.spotify.com/track/0WQRbcwmUd1fZ5AJcH5GDT"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "REFLECTION{Drip}",
+        "url": "https://open.spotify.com/album/4n8pb6Vgi9a1k9eD0u4h95"
+      },
+      "artists": [
+        {
+          "name": "Mr.Children",
+          "url": "https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY"
+        }
+      ],
+      "duration_ms": 299880,
+      "name": "Starting Over",
+      "url": "https://open.spotify.com/track/4I87AgUvLk5VZqu7XM3MXq"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
+      "album": {
+        "name": "Mirai (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3CVU0gY4r5hYuf23oLOszP"
+      },
+      "artists": [
+        {
+          "name": "Masakatsu Takagi",
+          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
+        }
+      ],
+      "duration_ms": 63533,
+      "name": "Sweet Spirit",
+      "url": "https://open.spotify.com/track/1K7jgwtOxXJY1DLUCdqu29"
+    },
+    {
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "The Boy and The Beast (Original Soundtrack Album)",
         "url": "https://open.spotify.com/album/7Ahkr6PnLvSmrwJugM4Bue"
@@ -245,39 +1213,7 @@
       "url": "https://open.spotify.com/track/0r3cg5Co9bAsNgLqcKVMlr"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
-      "album": {
-        "name": "Hanako Oku Best ~ My Letters ~",
-        "url": "https://open.spotify.com/album/10S0x53VUJYn6Dcw7sY1fq"
-      },
-      "artists": [
-        {
-          "name": "Hanako Oku",
-          "url": "https://open.spotify.com/artist/2tOwqfTtAMswbLySSaTRYR"
-        }
-      ],
-      "duration_ms": 283533,
-      "name": "Kawaranai Mono",
-      "url": "https://open.spotify.com/track/0t3g7yO7fPEyuegfJjyukf"
-    },
-    {
-      "added_at": "2023-07-14 03:58:30",
-      "album": {
-        "name": "Wolf Children (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3vZyva1XWxRbf0wq4MsU8q"
-      },
-      "artists": [
-        {
-          "name": "Masakatsu Takagi",
-          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
-        }
-      ],
-      "duration_ms": 94720,
-      "name": "Cradle Of Myriad Stars",
-      "url": "https://open.spotify.com/track/6HZe0TaYIBP9fwtn4nYUuu"
-    },
-    {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "Belle (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp"
@@ -293,7 +1229,7 @@
       "url": "https://open.spotify.com/track/3VXkaNgYFHOxbuOmKejypT"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
         "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"
@@ -313,7 +1249,7 @@
       "url": "https://open.spotify.com/track/169YBmYRX0JNR3o4CJVWXY"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "Mirai (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3CVU0gY4r5hYuf23oLOszP"
@@ -329,7 +1265,7 @@
       "url": "https://open.spotify.com/track/6MD5Tz0SBZkqfI8m6Tg09G"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "Wolf Children (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3vZyva1XWxRbf0wq4MsU8q"
@@ -345,7 +1281,7 @@
       "url": "https://open.spotify.com/track/4R6eGYnAIPpOiToakO18Bl"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "Mirai (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3CVU0gY4r5hYuf23oLOszP"
@@ -361,39 +1297,7 @@
       "url": "https://open.spotify.com/track/5J4QpLfLp5RyGt2epWw0ZU"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
-      "album": {
-        "name": "Belle (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp"
-      },
-      "artists": [
-        {
-          "name": "Belle",
-          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
-        }
-      ],
-      "duration_ms": 239263,
-      "name": "\u6b4c\u3088",
-      "url": "https://open.spotify.com/track/4DPovSJonVPid3EDSxL9K8"
-    },
-    {
-      "added_at": "2023-07-14 03:58:30",
-      "album": {
-        "name": "\u5287\u5834\u7248\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300c\u6642\u3092\u304b\u3051\u308b\u5c11\u5973\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/29DDbva4BT30CiTl2kO1Sg"
-      },
-      "artists": [
-        {
-          "name": "Kiyoshi Yoshida",
-          "url": "https://open.spotify.com/artist/1im9uoXp0eRWfygAuNVouL"
-        }
-      ],
-      "duration_ms": 277506,
-      "name": "\u30b9\u30b1\u30c3\u30c1 - \u30ed\u30f3\u30b0\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3",
-      "url": "https://open.spotify.com/track/5FioAqX4TwChHUQIlpn5yV"
-    },
-    {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "\u5287\u5834\u7248\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300c\u6642\u3092\u304b\u3051\u308b\u5c11\u5973\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/29DDbva4BT30CiTl2kO1Sg"
@@ -409,39 +1313,7 @@
       "url": "https://open.spotify.com/track/70xuGKTs5kdl511SB94eEo"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
-      "album": {
-        "name": "\u5287\u5834\u7248\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300c\u6642\u3092\u304b\u3051\u308b\u5c11\u5973\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/29DDbva4BT30CiTl2kO1Sg"
-      },
-      "artists": [
-        {
-          "name": "Kiyoshi Yoshida",
-          "url": "https://open.spotify.com/artist/1im9uoXp0eRWfygAuNVouL"
-        }
-      ],
-      "duration_ms": 51160,
-      "name": "\u304b\u3089\u304f\u308a\u6642\u8a08~\u30bf\u30a4\u30e0\u30ea\u30fc\u30d5\u309a",
-      "url": "https://open.spotify.com/track/4CYFlYOE4RmAWMF2sj4IOD"
-    },
-    {
-      "added_at": "2023-07-14 03:58:30",
-      "album": {
-        "name": "\u5287\u5834\u7248\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300c\u6642\u3092\u304b\u3051\u308b\u5c11\u5973\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/29DDbva4BT30CiTl2kO1Sg"
-      },
-      "artists": [
-        {
-          "name": "Kiyoshi Yoshida",
-          "url": "https://open.spotify.com/artist/1im9uoXp0eRWfygAuNVouL"
-        }
-      ],
-      "duration_ms": 166680,
-      "name": "\u5c11\u5973\u306e\u4e0d\u5b89",
-      "url": "https://open.spotify.com/track/3gSxn7wfp8w81BCuTVeehM"
-    },
-    {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "\u5287\u5834\u7248\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300c\u6642\u3092\u304b\u3051\u308b\u5c11\u5973\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/29DDbva4BT30CiTl2kO1Sg"
@@ -457,7 +1329,7 @@
       "url": "https://open.spotify.com/track/4xgd11qq6iFpKAEm9ZPSW5"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "\u5287\u5834\u7248\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300c\u6642\u3092\u304b\u3051\u308b\u5c11\u5973\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/29DDbva4BT30CiTl2kO1Sg"
@@ -473,71 +1345,7 @@
       "url": "https://open.spotify.com/track/4uctnHHq1ve63ZNRgCSzlc"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
-      "album": {
-        "name": "\u5287\u5834\u7248\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300c\u6642\u3092\u304b\u3051\u308b\u5c11\u5973\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/29DDbva4BT30CiTl2kO1Sg"
-      },
-      "artists": [
-        {
-          "name": "Kiyoshi Yoshida",
-          "url": "https://open.spotify.com/artist/1im9uoXp0eRWfygAuNVouL"
-        }
-      ],
-      "duration_ms": 157466,
-      "name": "\u590f\u7a7a~\u30a8\u30f3\u30c6\u3099\u30a3\u30f3\u30af\u3099\u30fb\u30c6\u30fc\u30de~",
-      "url": "https://open.spotify.com/track/50kc2WQjhsItSRs822Hrds"
-    },
-    {
-      "added_at": "2023-07-14 03:58:30",
-      "album": {
-        "name": "\u30b5\u30de\u30fc\u30a6\u30a9\u30fc\u30ba \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/17e9w6ZxwFroAAKP9Ybtqa"
-      },
-      "artists": [
-        {
-          "name": "Akihiko Matsumoto",
-          "url": "https://open.spotify.com/artist/7npYxeGYDN9qZmbxYuzunM"
-        }
-      ],
-      "duration_ms": 173373,
-      "name": "\u4eee\u60f3\u90fd\u5e02OZ",
-      "url": "https://open.spotify.com/track/3LToQzRfeZ9eB2zjUEMMFP"
-    },
-    {
-      "added_at": "2023-07-14 03:58:30",
-      "album": {
-        "name": "\u30b5\u30de\u30fc\u30a6\u30a9\u30fc\u30ba \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/17e9w6ZxwFroAAKP9Ybtqa"
-      },
-      "artists": [
-        {
-          "name": "Akihiko Matsumoto",
-          "url": "https://open.spotify.com/artist/7npYxeGYDN9qZmbxYuzunM"
-        }
-      ],
-      "duration_ms": 187400,
-      "name": "KING KAZMA",
-      "url": "https://open.spotify.com/track/1LRy43zm7FhgAj9Q4EHlah"
-    },
-    {
-      "added_at": "2023-07-14 03:58:30",
-      "album": {
-        "name": "\u30b5\u30de\u30fc\u30a6\u30a9\u30fc\u30ba \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/17e9w6ZxwFroAAKP9Ybtqa"
-      },
-      "artists": [
-        {
-          "name": "Akihiko Matsumoto",
-          "url": "https://open.spotify.com/artist/7npYxeGYDN9qZmbxYuzunM"
-        }
-      ],
-      "duration_ms": 189480,
-      "name": "\u6804\u306e\u6d3b\u8e8d",
-      "url": "https://open.spotify.com/track/1uPiELzYT6EZSIz6NBIzyX"
-    },
-    {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "\u30b5\u30de\u30fc\u30a6\u30a9\u30fc\u30ba \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/17e9w6ZxwFroAAKP9Ybtqa"
@@ -553,23 +1361,7 @@
       "url": "https://open.spotify.com/track/52JNprjHLV1rLmfAKN330E"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
-      "album": {
-        "name": "\u30b5\u30de\u30fc\u30a6\u30a9\u30fc\u30ba \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
-        "url": "https://open.spotify.com/album/17e9w6ZxwFroAAKP9Ybtqa"
-      },
-      "artists": [
-        {
-          "name": "Akihiko Matsumoto",
-          "url": "https://open.spotify.com/artist/7npYxeGYDN9qZmbxYuzunM"
-        }
-      ],
-      "duration_ms": 213853,
-      "name": "1\u51045\u5343\u4e07\u306e\u5947\u8de1",
-      "url": "https://open.spotify.com/track/5WhZRzY0K5NkmMGqZVD1wk"
-    },
-    {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "Wolf Children (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3vZyva1XWxRbf0wq4MsU8q"
@@ -585,7 +1377,7 @@
       "url": "https://open.spotify.com/track/4nL2Hh3mO0kxks6cENw3bS"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "Wolf Children (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3vZyva1XWxRbf0wq4MsU8q"
@@ -601,7 +1393,7 @@
       "url": "https://open.spotify.com/track/08cx2NSZT86HpYzkVLKoRd"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "Wolf Children (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3vZyva1XWxRbf0wq4MsU8q"
@@ -617,7 +1409,7 @@
       "url": "https://open.spotify.com/track/6dA5npLaZX89hZM9SpOQPP"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "Wolf Children (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3vZyva1XWxRbf0wq4MsU8q"
@@ -633,23 +1425,7 @@
       "url": "https://open.spotify.com/track/51f3TzZ2zI6Ai4rApXy7gs"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
-      "album": {
-        "name": "Wolf Children (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3vZyva1XWxRbf0wq4MsU8q"
-      },
-      "artists": [
-        {
-          "name": "Masakatsu Takagi",
-          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
-        }
-      ],
-      "duration_ms": 291906,
-      "name": "Home After Rain",
-      "url": "https://open.spotify.com/track/2P0Vz9pjdTnq6iRDnFXavr"
-    },
-    {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "Wolf Children (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3vZyva1XWxRbf0wq4MsU8q"
@@ -665,7 +1441,7 @@
       "url": "https://open.spotify.com/track/5Zig4vmTyyGhO26R3CghPw"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "Wolf Children (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3vZyva1XWxRbf0wq4MsU8q"
@@ -681,23 +1457,7 @@
       "url": "https://open.spotify.com/track/6kxNuuukN1dBO4VWmnAW1K"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
-      "album": {
-        "name": "The Boy and The Beast (Original Soundtrack Album)",
-        "url": "https://open.spotify.com/album/7Ahkr6PnLvSmrwJugM4Bue"
-      },
-      "artists": [
-        {
-          "name": "Masakatsu Takagi",
-          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
-        }
-      ],
-      "duration_ms": 149293,
-      "name": "Stray Boy",
-      "url": "https://open.spotify.com/track/1FxVaKqQ3w9Cy0ULieCcVU"
-    },
-    {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "The Boy and The Beast (Original Soundtrack Album)",
         "url": "https://open.spotify.com/album/7Ahkr6PnLvSmrwJugM4Bue"
@@ -713,7 +1473,7 @@
       "url": "https://open.spotify.com/track/5tBQykcYjtinrF9ev9mgST"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "The Boy and The Beast (Original Soundtrack Album)",
         "url": "https://open.spotify.com/album/7Ahkr6PnLvSmrwJugM4Bue"
@@ -729,7 +1489,7 @@
       "url": "https://open.spotify.com/track/5tRQ0GGLS4GOA8GlSdCcbo"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "The Boy and The Beast (Original Soundtrack Album)",
         "url": "https://open.spotify.com/album/7Ahkr6PnLvSmrwJugM4Bue"
@@ -745,23 +1505,7 @@
       "url": "https://open.spotify.com/track/0u0YnjJ2aHyDUXNhYREmwH"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
-      "album": {
-        "name": "The Boy and The Beast (Original Soundtrack Album)",
-        "url": "https://open.spotify.com/album/7Ahkr6PnLvSmrwJugM4Bue"
-      },
-      "artists": [
-        {
-          "name": "Masakatsu Takagi",
-          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
-        }
-      ],
-      "duration_ms": 187266,
-      "name": "A Child Full Of Life",
-      "url": "https://open.spotify.com/track/5QNObYyORuKmXcMNdfvh8C"
-    },
-    {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "The Boy and The Beast (Original Soundtrack Album)",
         "url": "https://open.spotify.com/album/7Ahkr6PnLvSmrwJugM4Bue"
@@ -777,7 +1521,7 @@
       "url": "https://open.spotify.com/track/0f7xHVyHOyjNYHPNnSUYeR"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "The Boy and The Beast (Original Soundtrack Album)",
         "url": "https://open.spotify.com/album/7Ahkr6PnLvSmrwJugM4Bue"
@@ -793,23 +1537,7 @@
       "url": "https://open.spotify.com/track/6ThlAevpehqH92HlrPcaz6"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
-      "album": {
-        "name": "The Boy and The Beast (Original Soundtrack Album)",
-        "url": "https://open.spotify.com/album/7Ahkr6PnLvSmrwJugM4Bue"
-      },
-      "artists": [
-        {
-          "name": "Masakatsu Takagi",
-          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
-        }
-      ],
-      "duration_ms": 181226,
-      "name": "A Sword In Your Soul",
-      "url": "https://open.spotify.com/track/1FGpiMBQKgIGaKBaHgnlin"
-    },
-    {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "Mirai (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3CVU0gY4r5hYuf23oLOszP"
@@ -825,7 +1553,7 @@
       "url": "https://open.spotify.com/track/3jgy85oHTxMMDAmBai1NFQ"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "Mirai (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3CVU0gY4r5hYuf23oLOszP"
@@ -841,7 +1569,7 @@
       "url": "https://open.spotify.com/track/3RFt9KbXxy7pp97vq5lPtM"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "Mirai (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3CVU0gY4r5hYuf23oLOszP"
@@ -857,7 +1585,7 @@
       "url": "https://open.spotify.com/track/74jkq7D6I8gH5Wc31B7Lqf"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "Mirai (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3CVU0gY4r5hYuf23oLOszP"
@@ -873,23 +1601,7 @@
       "url": "https://open.spotify.com/track/2zszfnsU9IqrzCd1Nhuf2A"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
-      "album": {
-        "name": "Mirai (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3CVU0gY4r5hYuf23oLOszP"
-      },
-      "artists": [
-        {
-          "name": "Masakatsu Takagi",
-          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
-        }
-      ],
-      "duration_ms": 212320,
-      "name": "Marginalia Song",
-      "url": "https://open.spotify.com/track/4SpIBnUUqTY8Lbvxqa24Br"
-    },
-    {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "Mirai (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3CVU0gY4r5hYuf23oLOszP"
@@ -905,23 +1617,7 @@
       "url": "https://open.spotify.com/track/4yTKtoZPjU3MYaDuSc6Hsv"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
-      "album": {
-        "name": "Mirai (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3CVU0gY4r5hYuf23oLOszP"
-      },
-      "artists": [
-        {
-          "name": "Masakatsu Takagi",
-          "url": "https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N"
-        }
-      ],
-      "duration_ms": 76786,
-      "name": "Trans Train",
-      "url": "https://open.spotify.com/track/7nDxppqdfAekogQJeYdZ1o"
-    },
-    {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "Belle (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp"
@@ -937,39 +1633,7 @@
       "url": "https://open.spotify.com/track/2TfGYRcqttX6KLCkXgwSM7"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
-      "album": {
-        "name": "Belle (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp"
-      },
-      "artists": [
-        {
-          "name": "Belle",
-          "url": "https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40"
-        }
-      ],
-      "duration_ms": 387832,
-      "name": "A Million Miles Away - reprise",
-      "url": "https://open.spotify.com/track/464cJTFfwAzl8tkJy9OSoy"
-    },
-    {
-      "added_at": "2023-07-14 03:58:30",
-      "album": {
-        "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
-        "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"
-      },
-      "artists": [
-        {
-          "name": "Yuta Bandoh",
-          "url": "https://open.spotify.com/artist/0fWXujm0LZNZGgHRkt6JSb"
-        }
-      ],
-      "duration_ms": 190859,
-      "name": "Dragon's Lair",
-      "url": "https://open.spotify.com/track/2vVJbJ9NM1E74vaPlcBPWc"
-    },
-    {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
         "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"
@@ -985,7 +1649,7 @@
       "url": "https://open.spotify.com/track/37kK5OaohLmZEz4Vm6gsVN"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "Belle (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp"
@@ -1005,23 +1669,7 @@
       "url": "https://open.spotify.com/track/0B1yXwS1FWBHkkzLwIC2n8"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
-      "album": {
-        "name": "Belle (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0Dh6RJv03InPzUWLwmpezp"
-      },
-      "artists": [
-        {
-          "name": "\u4e2d\u6751\u4f73\u7a42",
-          "url": "https://open.spotify.com/artist/0illCOhPkFBykngmCWos6u"
-        }
-      ],
-      "duration_ms": 142837,
-      "name": "Faces in the Rain",
-      "url": "https://open.spotify.com/track/47glEWHDcFq99QJIG41uyF"
-    },
-    {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
         "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"
@@ -1041,7 +1689,7 @@
       "url": "https://open.spotify.com/track/3LhgpuRdAULZQkhO4aBSdB"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
         "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"
@@ -1057,7 +1705,7 @@
       "url": "https://open.spotify.com/track/1mNn2pSi0JAyMZY2h16xh2"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "\u5287\u5834\u7248\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300c\u6642\u3092\u304b\u3051\u308b\u5c11\u5973\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/29DDbva4BT30CiTl2kO1Sg"
@@ -1068,12 +1716,12 @@
           "url": "https://open.spotify.com/artist/1im9uoXp0eRWfygAuNVouL"
         }
       ],
-      "duration_ms": 317733,
-      "name": "\u590f\u7a7a - \u30ed\u30f3\u30b0\u30fb\u30d0\u30fc\u30b8\u30e7\u30f3",
-      "url": "https://open.spotify.com/track/1xkCOzaNmdhkcKrqNgAfkr"
+      "duration_ms": 157466,
+      "name": "\u590f\u7a7a~\u30a8\u30f3\u30c6\u3099\u30a3\u30f3\u30af\u3099\u30fb\u30c6\u30fc\u30de~",
+      "url": "https://open.spotify.com/track/50kc2WQjhsItSRs822Hrds"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "\u5287\u5834\u7248\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300c\u6642\u3092\u304b\u3051\u308b\u5c11\u5973\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/29DDbva4BT30CiTl2kO1Sg"
@@ -1089,7 +1737,7 @@
       "url": "https://open.spotify.com/track/1vbPuYhJnTrajuLJcU4HoC"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "\u5287\u5834\u7248\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u300c\u6642\u3092\u304b\u3051\u308b\u5c11\u5973\u300d\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/29DDbva4BT30CiTl2kO1Sg"
@@ -1105,7 +1753,7 @@
       "url": "https://open.spotify.com/track/4GWlN27AbE541dfQjw8PPP"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "\u30b5\u30de\u30fc\u30a6\u30a9\u30fc\u30ba \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/17e9w6ZxwFroAAKP9Ybtqa"
@@ -1121,7 +1769,7 @@
       "url": "https://open.spotify.com/track/1ZmTFaumHNmZQmroStp3ae"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "\u30b5\u30de\u30fc\u30a6\u30a9\u30fc\u30ba \u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af",
         "url": "https://open.spotify.com/album/17e9w6ZxwFroAAKP9Ybtqa"
@@ -1137,7 +1785,7 @@
       "url": "https://open.spotify.com/track/6TNOeaUODaYyu76c06ezuu"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "Wolf Children (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3vZyva1XWxRbf0wq4MsU8q"
@@ -1153,7 +1801,7 @@
       "url": "https://open.spotify.com/track/0VYYaE6SMhg3cr9jvW5ZVV"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "Wolf Children (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3vZyva1XWxRbf0wq4MsU8q"
@@ -1169,7 +1817,7 @@
       "url": "https://open.spotify.com/track/60ifReooSk4yKVr4k059CG"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "The Boy and The Beast (Original Soundtrack Album)",
         "url": "https://open.spotify.com/album/7Ahkr6PnLvSmrwJugM4Bue"
@@ -1185,7 +1833,7 @@
       "url": "https://open.spotify.com/track/3ZQnZpaTd52cSoBDUeHaAk"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "The Boy and The Beast (Original Soundtrack Album)",
         "url": "https://open.spotify.com/album/7Ahkr6PnLvSmrwJugM4Bue"
@@ -1201,7 +1849,7 @@
       "url": "https://open.spotify.com/track/4cmKY721xWyeUsKTJVfS8M"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "The Boy and The Beast (Original Soundtrack Album)",
         "url": "https://open.spotify.com/album/7Ahkr6PnLvSmrwJugM4Bue"
@@ -1217,7 +1865,7 @@
       "url": "https://open.spotify.com/track/5WRVDkY4hVZNZwEe9VlRzO"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "Mirai (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3CVU0gY4r5hYuf23oLOszP"
@@ -1233,7 +1881,7 @@
       "url": "https://open.spotify.com/track/32f8ZKJqRUqIoCxWBxw0j6"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "Mirai (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3CVU0gY4r5hYuf23oLOszP"
@@ -1249,7 +1897,7 @@
       "url": "https://open.spotify.com/track/20o7nyygE5zDTjQJvqeVk5"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
         "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"
@@ -1265,7 +1913,7 @@
       "url": "https://open.spotify.com/track/1sK8lWSdU9LftDYvckLd6V"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
         "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"
@@ -1281,7 +1929,7 @@
       "url": "https://open.spotify.com/track/0jD2Fa9VjjtkeCOWyQftdt"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
         "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"
@@ -1297,7 +1945,7 @@
       "url": "https://open.spotify.com/track/5ZnV5RzUKhkxBRUGcMr1K4"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
         "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"
@@ -1313,7 +1961,7 @@
       "url": "https://open.spotify.com/track/3G7lL3qz3jYYG8dfvyYpjn"
     },
     {
-      "added_at": "2023-07-14 03:58:30",
+      "added_at": "2023-07-25 15:22:10",
       "album": {
         "name": "Belle (Original Motion Picture Soundtrack) [English Edition]",
         "url": "https://open.spotify.com/album/7MK9ztclhDon7AgJroo6l4"

@@ -1,12 +1,12 @@
 {
   "description": "-8 LUFS if you can. Ft. mykel online",
-  "num_followers": 21897,
+  "num_followers": 21965,
   "original_name": "feedBack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDM0ZDNmNTVlOWY1NTAxOTFjOTFlZmE2MmU3MmMxMDBjMzVhNGQw",
+  "snapshot_id": "MCw3MDlkNTcyMGFmMzlhNDdkODU1NmE4NzNlYTlmODRlYzI5MTZkZTMy",
   "tracks": [
     {
       "added_at": "2023-06-16 04:00:00",
@@ -301,22 +301,6 @@
       "url": "https://open.spotify.com/track/0IxDs5fNQvQXm4fKbrZwe9"
     },
     {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "A Violent Dichotomy",
-        "url": "https://open.spotify.com/album/5kKivJoHCGybHPa0HZRqQt"
-      },
-      "artists": [
-        {
-          "name": "LUCIUS ARTHUR",
-          "url": "https://open.spotify.com/artist/67vICzj4HQ8LayBYXqF5YD"
-        }
-      ],
-      "duration_ms": 184665,
-      "name": "Humans",
-      "url": "https://open.spotify.com/track/07TVw9EACsJKkgkb729Bs6"
-    },
-    {
       "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "can we change the subject?",
@@ -331,6 +315,22 @@
       "duration_ms": 160413,
       "name": "can we change the subject?",
       "url": "https://open.spotify.com/track/2Ogq99MVLM7DaxzIymjE26"
+    },
+    {
+      "added_at": "2023-04-07 04:00:00",
+      "album": {
+        "name": "A Violent Dichotomy",
+        "url": "https://open.spotify.com/album/5kKivJoHCGybHPa0HZRqQt"
+      },
+      "artists": [
+        {
+          "name": "LUCIUS ARTHUR",
+          "url": "https://open.spotify.com/artist/67vICzj4HQ8LayBYXqF5YD"
+        }
+      ],
+      "duration_ms": 184665,
+      "name": "Humans",
+      "url": "https://open.spotify.com/track/07TVw9EACsJKkgkb729Bs6"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -481,20 +481,20 @@
       "url": "https://open.spotify.com/track/1VjFGmdI8jKbs3rCjGfc1G"
     },
     {
-      "added_at": "2023-05-05 04:00:00",
+      "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Cops and robbers",
-        "url": "https://open.spotify.com/album/6yXnKNNgTQ732nJwM5WAXo"
+        "name": "FlySolo",
+        "url": "https://open.spotify.com/album/1fPetlgE9MxlziP9R7J1G7"
       },
       "artists": [
         {
-          "name": "underscores",
-          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
+          "name": "heavn",
+          "url": "https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz"
         }
       ],
-      "duration_ms": 265959,
-      "name": "Cops and robbers",
-      "url": "https://open.spotify.com/track/7s4EFCLbEw5HUm2lKjnOTW"
+      "duration_ms": 98417,
+      "name": "FlySolo",
+      "url": "https://open.spotify.com/track/1OCSVSRG9udIgyZQGTnRgq"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -517,20 +517,20 @@
       "url": "https://open.spotify.com/track/3uWiz4o4sFeLcjFiELuDa1"
     },
     {
-      "added_at": "2023-06-23 04:00:00",
+      "added_at": "2023-05-05 04:00:00",
       "album": {
-        "name": "FlySolo",
-        "url": "https://open.spotify.com/album/1fPetlgE9MxlziP9R7J1G7"
+        "name": "Cops and robbers",
+        "url": "https://open.spotify.com/album/6yXnKNNgTQ732nJwM5WAXo"
       },
       "artists": [
         {
-          "name": "heavn",
-          "url": "https://open.spotify.com/artist/3nOmqhdVTODRutSb5Y8kYz"
+          "name": "underscores",
+          "url": "https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7"
         }
       ],
-      "duration_ms": 98417,
-      "name": "FlySolo",
-      "url": "https://open.spotify.com/track/1OCSVSRG9udIgyZQGTnRgq"
+      "duration_ms": 265959,
+      "name": "Cops and robbers",
+      "url": "https://open.spotify.com/track/7s4EFCLbEw5HUm2lKjnOTW"
     },
     {
       "added_at": "2023-03-15 19:57:27",
@@ -547,6 +547,22 @@
       "duration_ms": 137844,
       "name": "boythots",
       "url": "https://open.spotify.com/track/57miWCpd7kX78sbys9uWRg"
+    },
+    {
+      "added_at": "2023-03-15 19:57:27",
+      "album": {
+        "name": "The Industry (don't care)",
+        "url": "https://open.spotify.com/album/6rUilXx3us9UOXNrl0pqoR"
+      },
+      "artists": [
+        {
+          "name": "PROP",
+          "url": "https://open.spotify.com/artist/0i6afccJI8mJKOrX3OFZvp"
+        }
+      ],
+      "duration_ms": 114461,
+      "name": "The Industry (don't care)",
+      "url": "https://open.spotify.com/track/6NAgvXj85XGeUHU1R3uwdE"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -567,22 +583,6 @@
       "duration_ms": 117333,
       "name": "poison",
       "url": "https://open.spotify.com/track/4E6RRv2D91G1P665WSBADB"
-    },
-    {
-      "added_at": "2023-03-15 19:57:27",
-      "album": {
-        "name": "The Industry (don't care)",
-        "url": "https://open.spotify.com/album/6rUilXx3us9UOXNrl0pqoR"
-      },
-      "artists": [
-        {
-          "name": "PROP",
-          "url": "https://open.spotify.com/artist/0i6afccJI8mJKOrX3OFZvp"
-        }
-      ],
-      "duration_ms": 114461,
-      "name": "The Industry (don't care)",
-      "url": "https://open.spotify.com/track/6NAgvXj85XGeUHU1R3uwdE"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -665,22 +665,6 @@
       "url": "https://open.spotify.com/track/4bxRiXW0qivXhOmeIGE2AU"
     },
     {
-      "added_at": "2023-03-21 18:24:02",
-      "album": {
-        "name": "HOLD",
-        "url": "https://open.spotify.com/album/0WZvUnHEnnAzpxd60ZeJVp"
-      },
-      "artists": [
-        {
-          "name": "Caleb Peters",
-          "url": "https://open.spotify.com/artist/1AaJS5oq6oQMUjd1mpO1t3"
-        }
-      ],
-      "duration_ms": 167272,
-      "name": "HOLD",
-      "url": "https://open.spotify.com/track/0YJBmQTqJyexrx5DNfog6n"
-    },
-    {
       "added_at": "2023-03-15 19:57:27",
       "album": {
         "name": "battle",
@@ -695,6 +679,22 @@
       "duration_ms": 77300,
       "name": "battle",
       "url": "https://open.spotify.com/track/5nXCKJngc7V11pMXSyUkfK"
+    },
+    {
+      "added_at": "2023-03-21 18:24:02",
+      "album": {
+        "name": "HOLD",
+        "url": "https://open.spotify.com/album/0WZvUnHEnnAzpxd60ZeJVp"
+      },
+      "artists": [
+        {
+          "name": "Caleb Peters",
+          "url": "https://open.spotify.com/artist/1AaJS5oq6oQMUjd1mpO1t3"
+        }
+      ],
+      "duration_ms": 167272,
+      "name": "HOLD",
+      "url": "https://open.spotify.com/track/0YJBmQTqJyexrx5DNfog6n"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -833,22 +833,6 @@
       "url": "https://open.spotify.com/track/6i94abfEAkbOluMpdcbS7w"
     },
     {
-      "added_at": "2023-03-15 19:57:27",
-      "album": {
-        "name": "Cdbaby<3 (underscores remix)",
-        "url": "https://open.spotify.com/album/7k0ASIqBBCc8jjwIBgQ216"
-      },
-      "artists": [
-        {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
-        }
-      ],
-      "duration_ms": 133305,
-      "name": "Cdbaby<3 - underscores remix",
-      "url": "https://open.spotify.com/track/5iJzSaKVGOWGJwN2So6vWF"
-    },
-    {
       "added_at": "2023-04-21 04:00:00",
       "album": {
         "name": "red",
@@ -867,6 +851,22 @@
       "duration_ms": 388186,
       "name": "red",
       "url": "https://open.spotify.com/track/5xjCG1XNmz5eWkYMLrGFZl"
+    },
+    {
+      "added_at": "2023-03-15 19:57:27",
+      "album": {
+        "name": "Cdbaby<3 (underscores remix)",
+        "url": "https://open.spotify.com/album/7k0ASIqBBCc8jjwIBgQ216"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "duration_ms": 133305,
+      "name": "Cdbaby<3 - underscores remix",
+      "url": "https://open.spotify.com/track/5iJzSaKVGOWGJwN2So6vWF"
     },
     {
       "added_at": "2023-03-15 19:57:27",
@@ -953,6 +953,26 @@
       "url": "https://open.spotify.com/track/2IK1FToSpevCE11x3OuxeG"
     },
     {
+      "added_at": "2023-05-05 04:00:00",
+      "album": {
+        "name": "anything u want",
+        "url": "https://open.spotify.com/album/7nPPo0dyXrRFscTHV4k0yY"
+      },
+      "artists": [
+        {
+          "name": "Internet Girl",
+          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
+        },
+        {
+          "name": "re6ce",
+          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
+        }
+      ],
+      "duration_ms": 146526,
+      "name": "anything u want",
+      "url": "https://open.spotify.com/track/3PvsmNvUhhIaAeMK2PFe6p"
+    },
+    {
       "added_at": "2023-05-19 12:36:59",
       "album": {
         "name": "i wna be like you",
@@ -967,6 +987,22 @@
       "duration_ms": 123333,
       "name": "i wna be like you",
       "url": "https://open.spotify.com/track/4cLhQxR5p74hslc5ao4B15"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "cybercrush222",
+        "url": "https://open.spotify.com/album/09xWmIzUAG9kuyCUMupEQa"
+      },
+      "artists": [
+        {
+          "name": "han.irl <3",
+          "url": "https://open.spotify.com/artist/5VfSeZYcDwD8WQVwbaoL6z"
+        }
+      ],
+      "duration_ms": 119476,
+      "name": "cybercrush222",
+      "url": "https://open.spotify.com/track/0E4wLngBTydfvANcDA6k6O"
     },
     {
       "added_at": "2023-05-19 12:36:59",
@@ -985,20 +1021,20 @@
       "url": "https://open.spotify.com/track/0PXDA0Fp2a3fL1HZ7hQZan"
     },
     {
-      "added_at": "2023-06-23 04:00:00",
+      "added_at": "2023-03-17 05:00:00",
       "album": {
-        "name": "cybercrush222",
-        "url": "https://open.spotify.com/album/09xWmIzUAG9kuyCUMupEQa"
+        "name": "WISH I NEVER KNEW YOU",
+        "url": "https://open.spotify.com/album/39VudHdhAGwLJ51ZYOzKHp"
       },
       "artists": [
         {
-          "name": "han.irl <3",
-          "url": "https://open.spotify.com/artist/5VfSeZYcDwD8WQVwbaoL6z"
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
         }
       ],
-      "duration_ms": 119476,
-      "name": "cybercrush222",
-      "url": "https://open.spotify.com/track/0E4wLngBTydfvANcDA6k6O"
+      "duration_ms": 179047,
+      "name": "WISH I NEVER KNEW YOU",
+      "url": "https://open.spotify.com/track/2PGdJ3bE9j8TwwGkge8To2"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -1021,42 +1057,6 @@
       "url": "https://open.spotify.com/track/1Mq8BdG6aNUqZnDe5Ca4e1"
     },
     {
-      "added_at": "2023-03-17 05:00:00",
-      "album": {
-        "name": "WISH I NEVER KNEW YOU",
-        "url": "https://open.spotify.com/album/39VudHdhAGwLJ51ZYOzKHp"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 179047,
-      "name": "WISH I NEVER KNEW YOU",
-      "url": "https://open.spotify.com/track/2PGdJ3bE9j8TwwGkge8To2"
-    },
-    {
-      "added_at": "2023-05-05 04:00:00",
-      "album": {
-        "name": "anything u want",
-        "url": "https://open.spotify.com/album/7nPPo0dyXrRFscTHV4k0yY"
-      },
-      "artists": [
-        {
-          "name": "Internet Girl",
-          "url": "https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL"
-        },
-        {
-          "name": "re6ce",
-          "url": "https://open.spotify.com/artist/4ULUpM5hJYKWhWdIViYrGK"
-        }
-      ],
-      "duration_ms": 146526,
-      "name": "anything u want",
-      "url": "https://open.spotify.com/track/3PvsmNvUhhIaAeMK2PFe6p"
-    },
-    {
       "added_at": "2023-06-23 04:00:00",
       "album": {
         "name": "heart attack",
@@ -1075,6 +1075,22 @@
       "duration_ms": 181346,
       "name": "heart attack",
       "url": "https://open.spotify.com/track/69hETV9gK14D20pyT55RMH"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "2",
+        "url": "https://open.spotify.com/album/2cwwBz019F7hQwggBShXCv"
+      },
+      "artists": [
+        {
+          "name": "2hollis",
+          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
+        }
+      ],
+      "duration_ms": 186390,
+      "name": "GOD",
+      "url": "https://open.spotify.com/track/4iShoHVUGeSVT7jqyAVgnC"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1103,22 +1119,6 @@
       "duration_ms": 185714,
       "name": "gnaw",
       "url": "https://open.spotify.com/track/2tDo8TqJfrQGwtUHxRXP7A"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "2",
-        "url": "https://open.spotify.com/album/2cwwBz019F7hQwggBShXCv"
-      },
-      "artists": [
-        {
-          "name": "2hollis",
-          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
-        }
-      ],
-      "duration_ms": 186390,
-      "name": "GOD",
-      "url": "https://open.spotify.com/track/4iShoHVUGeSVT7jqyAVgnC"
     },
     {
       "added_at": "2023-03-24 04:00:00",
@@ -1157,6 +1157,22 @@
       "url": "https://open.spotify.com/track/0qxeW8peAWYm9iF6bvE7tq"
     },
     {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Nothin",
+        "url": "https://open.spotify.com/album/60qxRLUI5bH6vM0jp25XES"
+      },
+      "artists": [
+        {
+          "name": "Worry Club",
+          "url": "https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl"
+        }
+      ],
+      "duration_ms": 167112,
+      "name": "Nothin",
+      "url": "https://open.spotify.com/track/5B8YgxWQB7DJixto3dMXga"
+    },
+    {
       "added_at": "2023-03-15 19:57:27",
       "album": {
         "name": "don't change the channel",
@@ -1179,18 +1195,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Nothin",
-        "url": "https://open.spotify.com/album/60qxRLUI5bH6vM0jp25XES"
+        "name": "Started With",
+        "url": "https://open.spotify.com/album/0mvV5B0MFOk3UKWcSuVOte"
       },
       "artists": [
         {
-          "name": "Worry Club",
-          "url": "https://open.spotify.com/artist/7Fkc1Q81Zy25eZ5dmnURGl"
+          "name": "HARRY WAS HERE",
+          "url": "https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP"
         }
       ],
-      "duration_ms": 167112,
-      "name": "Nothin",
-      "url": "https://open.spotify.com/track/5B8YgxWQB7DJixto3dMXga"
+      "duration_ms": 125647,
+      "name": "Started With",
+      "url": "https://open.spotify.com/track/0HItsiWHdkju9IHa1wUAIv"
     },
     {
       "added_at": "2023-06-09 04:01:00",
@@ -1227,22 +1243,6 @@
       "duration_ms": 121445,
       "name": "fell in love with a ghost",
       "url": "https://open.spotify.com/track/1ihqfU2ejlabQ1nV5XWcXj"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Started With",
-        "url": "https://open.spotify.com/album/0mvV5B0MFOk3UKWcSuVOte"
-      },
-      "artists": [
-        {
-          "name": "HARRY WAS HERE",
-          "url": "https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP"
-        }
-      ],
-      "duration_ms": 125647,
-      "name": "Started With",
-      "url": "https://open.spotify.com/track/0HItsiWHdkju9IHa1wUAIv"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2023-03-15 19:57:27",
       "album": {
+        "name": "catherine never broke again",
+        "url": "https://open.spotify.com/album/0SS7QRTl0W0CBbUCPkmmaM"
+      },
+      "artists": [
+        {
+          "name": "saoirse dream",
+          "url": "https://open.spotify.com/artist/2xNs2zfnh52ORUTI4Qfvxf"
+        }
+      ],
+      "duration_ms": 114582,
+      "name": "catherine never broke again",
+      "url": "https://open.spotify.com/track/2RP8p6uDqJCMvpXxfo3L7s"
+    },
+    {
+      "added_at": "2023-03-15 19:57:27",
+      "album": {
         "name": "losemymind",
         "url": "https://open.spotify.com/album/5P8gmVPWC5O21bN5rkNaWu"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 177136,
       "name": "Bargain (with ThxSoMch)",
       "url": "https://open.spotify.com/track/6ZuapdXPe54vleFxBSQMqL"
-    },
-    {
-      "added_at": "2023-03-15 19:57:27",
-      "album": {
-        "name": "catherine never broke again",
-        "url": "https://open.spotify.com/album/0SS7QRTl0W0CBbUCPkmmaM"
-      },
-      "artists": [
-        {
-          "name": "saoirse dream",
-          "url": "https://open.spotify.com/artist/2xNs2zfnh52ORUTI4Qfvxf"
-        }
-      ],
-      "duration_ms": 114582,
-      "name": "catherine never broke again",
-      "url": "https://open.spotify.com/track/2RP8p6uDqJCMvpXxfo3L7s"
     },
     {
       "added_at": "2023-03-15 19:57:27",
@@ -1589,6 +1589,38 @@
       "url": "https://open.spotify.com/track/1lKfJNwi0MmvBhDqkefait"
     },
     {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "post spring self destruction",
+        "url": "https://open.spotify.com/album/3CoriDOCAUysBZPAbghdXo"
+      },
+      "artists": [
+        {
+          "name": "aldn",
+          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
+        }
+      ],
+      "duration_ms": 153495,
+      "name": "hold it love it",
+      "url": "https://open.spotify.com/track/7pKwKqGnRjLJNFbbP7kBbI"
+    },
+    {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "lies i tell myself",
+        "url": "https://open.spotify.com/album/5lLCAEQ0lITFwBavqE1Wd7"
+      },
+      "artists": [
+        {
+          "name": "Auvic",
+          "url": "https://open.spotify.com/artist/0UM3yh4PeDSWa9cnHJ0jgW"
+        }
+      ],
+      "duration_ms": 165991,
+      "name": "lies i tell myself",
+      "url": "https://open.spotify.com/track/6dYoZuKHoSBiSHeGIDNPXn"
+    },
+    {
       "added_at": "2023-06-23 04:00:00",
       "album": {
         "name": "memorex",
@@ -1617,22 +1649,6 @@
       "url": "https://open.spotify.com/track/7idSFgXU9XQt31br2PF45w"
     },
     {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "post spring self destruction",
-        "url": "https://open.spotify.com/album/3CoriDOCAUysBZPAbghdXo"
-      },
-      "artists": [
-        {
-          "name": "aldn",
-          "url": "https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD"
-        }
-      ],
-      "duration_ms": 153495,
-      "name": "hold it love it",
-      "url": "https://open.spotify.com/track/7pKwKqGnRjLJNFbbP7kBbI"
-    },
-    {
       "added_at": "2023-03-15 19:57:27",
       "album": {
         "name": "ur the devil and i\u2019ve seen the truth (feat. Verzache)",
@@ -1653,22 +1669,6 @@
       "url": "https://open.spotify.com/track/3k1IuNcDLXsB191yDLmoDm"
     },
     {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "BENDER",
-        "url": "https://open.spotify.com/album/3HasSpfec6qc3xQB5ujNC8"
-      },
-      "artists": [
-        {
-          "name": "benny mayne",
-          "url": "https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "BENDER",
-      "url": "https://open.spotify.com/track/3LEE81zDZ24QCjI5ZnvSfI"
-    },
-    {
       "added_at": "2023-03-15 19:57:27",
       "album": {
         "name": "alone",
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "lies i tell myself",
-        "url": "https://open.spotify.com/album/5lLCAEQ0lITFwBavqE1Wd7"
+        "name": "BENDER",
+        "url": "https://open.spotify.com/album/3HasSpfec6qc3xQB5ujNC8"
       },
       "artists": [
         {
-          "name": "Auvic",
-          "url": "https://open.spotify.com/artist/0UM3yh4PeDSWa9cnHJ0jgW"
+          "name": "benny mayne",
+          "url": "https://open.spotify.com/artist/2R2Yg2qPloNOTOfqxfXX7l"
         }
       ],
-      "duration_ms": 165991,
-      "name": "lies i tell myself",
-      "url": "https://open.spotify.com/track/6dYoZuKHoSBiSHeGIDNPXn"
+      "duration_ms": 177000,
+      "name": "BENDER",
+      "url": "https://open.spotify.com/track/3LEE81zDZ24QCjI5ZnvSfI"
     },
     {
       "added_at": "2023-06-23 04:00:00",

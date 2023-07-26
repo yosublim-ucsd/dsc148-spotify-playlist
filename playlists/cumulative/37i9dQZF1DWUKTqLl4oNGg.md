@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2401](https://open.spotify.com/track/5lDoRJ2vW6G4YXeUciQd3R) | [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC) | [Blues From Laurel Canyon](https://open.spotify.com/album/3NpLHWshxHfxbhdYdgtmPL) | 3:47 | 2019-12-05 |  |
+| [2401](https://open.spotify.com/track/5lDoRJ2vW6G4YXeUciQd3R) | [John Mayall](https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h), [John Mayall & The Bluesbreakers](https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC) | [Blues From Laurel Canyon](https://open.spotify.com/album/3NpLHWshxHfxbhdYdgtmPL) | 3:47 | 2019-12-05 |  |
 | [A Good Feelin' to Know](https://open.spotify.com/track/6Mh983JRc0qvEtLrmaJppt) | [Poco](https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR) | [A Good Feelin' To Know](https://open.spotify.com/album/2HC4VawLviGmxXmK8RUPZu) | 3:49 | 2019-12-05 |  |
 | [Anywhere like Heaven](https://open.spotify.com/track/3SxGMzbXkGzXwI0rXgAT6e) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James](https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ) | 3:28 | 2019-12-05 | 2022-07-29 |
 | [Anywhere like Heaven \- 2019 Remaster](https://open.spotify.com/track/4G9b4sc68Sx0mIdEO59VMM) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James \(2019 Remaster\)](https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx) | 3:27 | 2019-12-05 |  |

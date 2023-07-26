@@ -1,12 +1,12 @@
 {
   "description": "Mujeres que la rompen feat. Aura BAE.\nDales PLAY, dales POWER.",
-  "num_followers": 12371,
+  "num_followers": 12379,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYTgyNTc1ODg1Njg2NDFkYzhkN2Y2YjE0MjJmNzJjMTRmN2VhZDU0",
+  "snapshot_id": "MCxmZDRkZTUyZDcwMTcwMDFjZTRjNzkxYzc5NmYxNDE4MWFmNDhhMzQz",
   "tracks": [
     {
       "added_at": "2023-07-05 03:00:00",
@@ -103,6 +103,22 @@
     {
       "added_at": "2023-07-05 03:00:00",
       "album": {
+        "name": "Kintsugi",
+        "url": "https://open.spotify.com/album/6nMidcYOqTOBbbnBiwhe8J"
+      },
+      "artists": [
+        {
+          "name": "Seamoon",
+          "url": "https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Kintsugi",
+      "url": "https://open.spotify.com/track/6wKI2NwASglOeCVimzdeD6"
+    },
+    {
+      "added_at": "2023-07-05 03:00:00",
+      "album": {
         "name": "Porte",
         "url": "https://open.spotify.com/album/4aU679nTE0dDkQmIVqK7RW"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 156024,
       "name": "Porte",
       "url": "https://open.spotify.com/track/2ixCtJ3dVGT3pyjL7PDex1"
-    },
-    {
-      "added_at": "2023-07-05 03:00:00",
-      "album": {
-        "name": "Kintsugi",
-        "url": "https://open.spotify.com/album/6nMidcYOqTOBbbnBiwhe8J"
-      },
-      "artists": [
-        {
-          "name": "Seamoon",
-          "url": "https://open.spotify.com/artist/2h0ht04lePhc9LY0GHHJ1O"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Kintsugi",
-      "url": "https://open.spotify.com/track/6wKI2NwASglOeCVimzdeD6"
     },
     {
       "added_at": "2023-07-05 03:00:00",
@@ -687,26 +687,6 @@
     {
       "added_at": "2023-07-05 03:00:00",
       "album": {
-        "name": "Bla",
-        "url": "https://open.spotify.com/album/6kFEaWWaU8j8LslrPMtMUB"
-      },
-      "artists": [
-        {
-          "name": "Nihla",
-          "url": "https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf"
-        },
-        {
-          "name": "Bdilla",
-          "url": "https://open.spotify.com/artist/25AdttfBeDkaglOlR4WdBo"
-        }
-      ],
-      "duration_ms": 179478,
-      "name": "Bla",
-      "url": "https://open.spotify.com/track/6XD2MtoHHVVjyF748XHS8U"
-    },
-    {
-      "added_at": "2023-07-05 03:00:00",
-      "album": {
         "name": "Despeje",
         "url": "https://open.spotify.com/album/1dlwGAQwMrfZRPqOdiTS1I"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 250504,
       "name": "Despeje",
       "url": "https://open.spotify.com/track/6jCe4NY1PWr0lNkNbhI7YZ"
+    },
+    {
+      "added_at": "2023-07-05 03:00:00",
+      "album": {
+        "name": "Bla",
+        "url": "https://open.spotify.com/album/6kFEaWWaU8j8LslrPMtMUB"
+      },
+      "artists": [
+        {
+          "name": "Nihla",
+          "url": "https://open.spotify.com/artist/74UNE9EF6heknm43N3LPMf"
+        },
+        {
+          "name": "Bdilla",
+          "url": "https://open.spotify.com/artist/25AdttfBeDkaglOlR4WdBo"
+        }
+      ],
+      "duration_ms": 179478,
+      "name": "Bla",
+      "url": "https://open.spotify.com/track/6XD2MtoHHVVjyF748XHS8U"
     },
     {
       "added_at": "2023-07-05 03:00:00",

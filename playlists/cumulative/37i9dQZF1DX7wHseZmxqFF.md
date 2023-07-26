@@ -4,7 +4,7 @@
 
 > The UK girl group grab the power and show their love for Pride, unfurling a no\-fail list of pop party jams and club classics.
 
-48 songs - 2 hr 42 min
+50 songs - 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,8 @@
 | [Little Mix on Pride](https://open.spotify.com/track/5oCm9VmiP5bkYqm7EfVQg7) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Little Mix \- Spotify Pride](https://open.spotify.com/album/5Q8yeAnDW8RkSpQCsotmCC) | 0:33 | 2017-06-02 |  |
 | [Little Mix Spotify Pride Intro](https://open.spotify.com/track/4ENuIjI1dQOQGYkgIwQgSX) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Little Mix \- Spotify Pride](https://open.spotify.com/album/5Q8yeAnDW8RkSpQCsotmCC) | 0:14 | 2017-06-02 |  |
 | [Peacock](https://open.spotify.com/track/0rXw5rWZpOdfeeCbMln8MU) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:51 | 2017-06-02 |  |
-| [Peanut Butter \(feat\. Big Freedia\)](https://open.spotify.com/track/3Y3K9KOHuH3ZXsNNI2AibB) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Peanut Butter \(feat\. Big Freedia\)](https://open.spotify.com/album/0zludVbhS2rzVhhPkYi4O6) | 3:23 | 2017-06-02 |  |
+| [Peanut Butter \(feat\. Big Freedia\)](https://open.spotify.com/track/3Y3K9KOHuH3ZXsNNI2AibB) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Peanut Butter \(feat\. Big Freedia\)](https://open.spotify.com/album/0zludVbhS2rzVhhPkYi4O6) | 3:23 | 2017-06-02 | 2023-07-26 |
+| [Peanut Butter \(feat\. Big Freedia\)](https://open.spotify.com/track/0OCMVtFWfemXv7IyVGM1ri) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Essential, Vol\. 2](https://open.spotify.com/album/7dt2x6NDDgt3IePbm5RrMB) | 3:26 | 2023-07-26 |  |
 | [Power \(feat\. Stormzy\)](https://open.spotify.com/track/3rqD6sdvstqWHeFhzT9UXv) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Between Us \(The Experience\)](https://open.spotify.com/album/2gX0nMFSbHtcCY6F2GGgU4) | 4:02 | 2022-11-11 | 2022-11-13 |
 | [Power \(feat\. Stormzy\)](https://open.spotify.com/track/4BJ5T8ZZZ3UrPG7k0OVQrp) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Power \(feat\. Stormzy\)](https://open.spotify.com/album/2lSpirhgGBiKAyl38y8RJs) | 4:02 | 2017-06-02 | 2022-07-29 |
 | [Power \(feat\. Stormzy\)](https://open.spotify.com/track/4QVFtAswXqPoAWRLo5yu8a) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Glory Days \(Expanded Edition\)](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) | 4:02 | 2022-07-29 |  |
@@ -42,7 +43,8 @@
 | [Relax](https://open.spotify.com/track/6qSbgxH3PgAhlL9pfC1kpJ) | [Frankie Goes To Hollywood](https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY) | [LGBTQ Anthems](https://open.spotify.com/album/03mBD0RM3AVceMltmtuV4k) | 3:57 | 2022-11-11 | 2022-11-14 |
 | [Secret Love Song \(feat\. Jason Derulo\)](https://open.spotify.com/track/6KHL1En9v6iNWjcs44mcmU) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Get Weird \(Expanded Edition\)](https://open.spotify.com/album/2FnfZiFMv7bmXAIATOJDHs) | 4:09 | 2022-07-29 |  |
 | [Secret Love Song \(feat\. Jason Derulo\)](https://open.spotify.com/track/4JIo8RztBbELr2gWJ5OGK6) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Get Weird \(Deluxe\)](https://open.spotify.com/album/4bzVI1FElc13HQagFR7S1W) | 4:09 | 2017-06-02 | 2022-07-29 |
-| [Sissy That Walk](https://open.spotify.com/track/5PHPENfE3RVmHGAA2A7Hfx) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Born Naked](https://open.spotify.com/album/3stAjHtCDSCavGtkxzvYE7) | 3:32 | 2017-06-02 |  |
+| [Sissy That Walk](https://open.spotify.com/track/4KvHJkVdQQrskjVfGoYedT) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Born Naked](https://open.spotify.com/album/3Kl2udummuO8MuE3cYa3sM) | 3:32 | 2023-07-26 |  |
+| [Sissy That Walk](https://open.spotify.com/track/5PHPENfE3RVmHGAA2A7Hfx) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Born Naked](https://open.spotify.com/album/3stAjHtCDSCavGtkxzvYE7) | 3:32 | 2017-06-02 | 2023-07-26 |
 | [Spice Up Your Life](https://open.spotify.com/track/5qGwqO0lkbBXw4xNfzT7SF) | [Spice Girls](https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF) | [Spiceworld](https://open.spotify.com/album/3sr6lAuO3nmB1u8ZuQgpiX) | 2:53 | 2017-06-02 |  |
 | [The Promise](https://open.spotify.com/track/2cbfCJFIX0RlIPNkLydHmj) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [Ten \(Deluxe Edition\)](https://open.spotify.com/album/7nPNZ0M4qgVUTjlcCPzfSw) | 3:44 | 2023-04-27 |  |
 | [The Promise](https://open.spotify.com/track/3wyMwEpzoIWBGqEkHeEvi6) | [Girls Aloud](https://open.spotify.com/artist/12EtLdLfJ41vUOoVzPZIUy) | [Ten](https://open.spotify.com/album/664RHc5JaWz4ELLzzybn2T) | 3:44 | 2022-07-29 | 2023-04-27 |

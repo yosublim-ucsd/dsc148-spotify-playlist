@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: (G)I-DLE",
+  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: MISAMO",
   "name": "K-Pop Fresh",
   "tracks": [
     {
@@ -1219,6 +1219,24 @@
     },
     {
       "album": {
+        "name": "Masterpiece",
+        "url": "https://open.spotify.com/album/3qmO83vO1SsdmP1Y0ljhSQ"
+      },
+      "artists": [
+        {
+          "name": "MISAMO",
+          "url": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178733,
+      "name": "Behind The Curtain",
+      "url": "https://open.spotify.com/track/14nturKxV48wR3lbknehiu"
+    },
+    {
+      "album": {
         "name": "Best Friend Ever",
         "url": "https://open.spotify.com/album/4cT6f8tGzBtybpBNYPEQoX"
       },
@@ -1582,7 +1600,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 213506,
       "name": "BONVOYAGE",
       "url": "https://open.spotify.com/track/3Jnwl9zlbFNEqKQjydxLxe"
@@ -1912,6 +1930,24 @@
       "duration_ms": 318413,
       "name": "C.h.a.o.s.m.y.t.h.",
       "url": "https://open.spotify.com/track/0otEROKHToIBnFqLNn3WFc"
+    },
+    {
+      "album": {
+        "name": "C.O.S.M.I.C Love",
+        "url": "https://open.spotify.com/album/4lckurvjmOR7q2fzICwsAq"
+      },
+      "artists": [
+        {
+          "name": "Kawaguchi Yurina",
+          "url": "https://open.spotify.com/artist/3snqW31jInsZwoYRZTaixr"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "C.O.S.M.I.C Love",
+      "url": "https://open.spotify.com/track/2ldvJ1OU6rd9Isg750dwqu"
     },
     {
       "album": {
@@ -2736,7 +2772,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 197733,
       "name": "Delicious",
       "url": "https://open.spotify.com/track/53gU09JrGtZfXTPBFpukKr"
@@ -3412,7 +3448,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 189079,
       "name": "Expectations",
       "url": "https://open.spotify.com/track/3szFx3SyWFpRbehaPxpyqq"
@@ -6201,6 +6237,24 @@
     },
     {
       "album": {
+        "name": "THE UNSEEN",
+        "url": "https://open.spotify.com/album/4gV0rLK0np1Nyde3N38RBh"
+      },
+      "artists": [
+        {
+          "name": "SHOWNU X HYUNGWON (MONSTA X)",
+          "url": "https://open.spotify.com/artist/3AFqxSVdKDJD9qPx3K8tKg"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199640,
+      "name": "Love Me A Little",
+      "url": "https://open.spotify.com/track/66RK4bz7fZGrfyBb3y9Yal"
+    },
+    {
+      "album": {
         "name": "exp\u00e9rgo",
         "url": "https://open.spotify.com/album/6PjYm8BNtMDDsflyAQUcDx"
       },
@@ -6396,7 +6450,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 167866,
       "name": "LUV LUV LUV (Korean Version)",
       "url": "https://open.spotify.com/track/7gFp8lhfCrQCskkTzLaFA6"
@@ -6906,6 +6960,24 @@
       "duration_ms": 133904,
       "name": "MotoSpeed 24",
       "url": "https://open.spotify.com/track/0BPwEuU9qegqVSob1Ihm97"
+    },
+    {
+      "album": {
+        "name": "New Chapter",
+        "url": "https://open.spotify.com/album/2t3Ph06OHzPdaOz457yYJG"
+      },
+      "artists": [
+        {
+          "name": "ILY:1",
+          "url": "https://open.spotify.com/artist/3FvFhUWP00xtwBrHtby3v8"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201760,
+      "name": "MY COLOR",
+      "url": "https://open.spotify.com/track/5elQqjmREJkadJWsNMW4ej"
     },
     {
       "album": {
@@ -8896,7 +8968,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 200929,
       "name": "Set Me Free Pt.2",
       "url": "https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp"
@@ -9753,6 +9825,24 @@
     },
     {
       "album": {
+        "name": "Golden Hourglass",
+        "url": "https://open.spotify.com/album/6DFc3S7krKwWYIqsHB2Yif"
+      },
+      "artists": [
+        {
+          "name": "OH MY GIRL",
+          "url": "https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200493,
+      "name": "Summer Comes",
+      "url": "https://open.spotify.com/track/71DQGd44Wyie6hJu1yBzdQ"
+    },
+    {
+      "album": {
         "name": "Summer Strike, Pt. 2 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5pjR18FQIZSGmFk7EqzdVF"
       },
@@ -10334,7 +10424,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 178156,
       "name": "The Planet",
       "url": "https://open.spotify.com/track/4IJsVXbSeGPUrgwpVoHmlg"
@@ -10406,7 +10496,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 215373,
       "name": "There",
       "url": "https://open.spotify.com/track/6gHeWGamtOYHBd1LBZ7Fv6"
@@ -11202,7 +11292,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 182680,
       "name": "Wasteland",
       "url": "https://open.spotify.com/track/4bml9BznT3E0sX4xpa0voN"
@@ -11332,7 +11422,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 206920,
       "name": "Welcome To MY World (feat. n\u00e6vis)",
       "url": "https://open.spotify.com/track/6qVqWJxIpsabUKBILG7d6N"
@@ -12004,6 +12094,24 @@
       "duration_ms": 148522,
       "name": "\u30b7\u30e3\u30c3\u30bf\u30fc\u9589\u3081\u308d",
       "url": "https://open.spotify.com/track/5Uyi5O6Hb2PKZdleSJrK6m"
+    },
+    {
+      "album": {
+        "name": "\u30b8\u30e5\u30a8\u30ea\u30fc (Prod. imase)",
+        "url": "https://open.spotify.com/album/6mw2LvoVp9MP0jMv0ZuJla"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163813,
+      "name": "\u30b8\u30e5\u30a8\u30ea\u30fc (Prod. imase)",
+      "url": "https://open.spotify.com/track/1PeBPKbOCc370rnLKploBL"
     },
     {
       "album": {

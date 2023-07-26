@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > Gazing at pedals, soaring celestially high\. Slowdive on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,379 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,837 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 | 99 | [Lambspring](https://open.spotify.com/track/0Uz7iEsz2mME7o48aXcasP) | [Cloakroom](https://open.spotify.com/artist/2lP34R0Q7edlojuJrUMPnj) | [Dissolution Wave](https://open.spotify.com/album/0XABQZMWdLKgGfpFcsmBjR) | 5:20 |
 | 100 | [Fatal Blue](https://open.spotify.com/track/5nzjHP1ALPAqnaqu9CxOyw) | [Grivo](https://open.spotify.com/artist/0NsL0iHM7x5iahPLXXGf9C) | [Omit](https://open.spotify.com/album/3DglweTTqaGzB198Ex36vF) | 5:34 |
 
-Snapshot ID: `MCwxODZmODY0NTQ5Y2MyYTNkYmRjYjg2OTE2ZGFiNTMwZmI0MGYxNTVj`
+Snapshot ID: `MCw0MjliYTU2NDM1MGRhM2I5NzZkZjI0OWQ0MWViMThlMDQzMjBlYzk1`

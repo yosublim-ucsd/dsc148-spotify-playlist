@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 
 > Neighborhood Storytellers\. Cover: Rylo Rodriguez
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,140 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,149 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTplaZ1W7ARf.md) - [plain]
 | 49 | [Miss U Already \(feat\. NoCap\)](https://open.spotify.com/track/7JovyD4uIND8KKEyOM3zcC) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Miss U Already](https://open.spotify.com/album/2ZbYM1zZA7znvErcrNKmgi) | 5:09 |
 | 50 | [Neighborhood Hero \(feat\. No Cap\)](https://open.spotify.com/track/2Ebn0K5I06J09d9GmzNNkU) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Vultures Don't Kry \(Deluxe\)](https://open.spotify.com/album/0P23gdec7VQ44s1dZaxWLv) | 2:56 |
 
-Snapshot ID: `MCwzZDExMThmMmVkY2MwNTM4MGRlYjYyMTk0ZjA4NTExZDRhNDRmYzZl`
+Snapshot ID: `MCxiMmY2ZWU0NjRlMTdkZmMwZTIyZWMyZGQwYzc4Nzg0MTU0Y2ZkMjg2`

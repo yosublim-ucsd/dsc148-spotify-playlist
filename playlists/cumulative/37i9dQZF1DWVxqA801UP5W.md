@@ -4,7 +4,7 @@
 
 > All your favourite pop songs, remixed to perfection\. Cover: Zara Larsson
 
-65 songs - 3 hr 34 min
+66 songs - 3 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [911 \- Charli XCX & A\. G\. Cook Remix](https://open.spotify.com/track/4xx8LCv4tUv7PNk6g7VQmY) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Dawn Of Chromatica](https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y) | 4:13 | 2022-06-20 | 2023-06-20 |
 | [911 \- Sofi Tukker Remix](https://open.spotify.com/track/4jw0We86Jsyj134Yp5RseD) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [911 \(Sofi Tukker Remix\)](https://open.spotify.com/album/25eMUZJOY6nhsIZl9D5WUb) | 3:46 | 2023-04-12 | 2023-07-25 |
 | [About Damn Time \- Purple Disco Machine Remix](https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [About Damn Time \(Purple Disco Machine Remix\)](https://open.spotify.com/album/5sJDNPqLeEUPnod5ovf5h6) | 3:38 | 2022-06-20 |  |
+| [Anti\-Hero \- Jayda G Remix](https://open.spotify.com/track/4YrpqEBNuz7IMsZtUP6bNQ) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Anti\-Hero \(Remixes\)](https://open.spotify.com/album/7irmI5g3OLC1gUXlxysOWt) | 3:35 | 2023-04-12 |  |
 | [Bad Habits \- MEDUZA Remix](https://open.spotify.com/track/12N23tQKmfGcEO0z8ObwtM) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Bad Habits \(MEDUZA Remix\)](https://open.spotify.com/album/6KMHosj3h5fkGwPoTK9gvB) | 3:14 | 2022-06-20 |  |
 | [Better Days \- Galantis Remix](https://open.spotify.com/track/1kYNaMuGXWWrXW8KbZ4uXF) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Better Days \(Remixes\)](https://open.spotify.com/album/13dDSW9xyUVLBPaClCXEyJ) | 3:01 | 2022-06-20 |  |
 | [Boyfriend \- Tiësto Remix](https://open.spotify.com/track/3LfCdPrgeIikpAoHuMsN3b) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Boyfriend \(Tiësto Remix\)](https://open.spotify.com/album/4x7whh3CrAeZ5fF7WdraNN) | 2:57 | 2022-06-20 | 2023-07-22 |
@@ -72,6 +73,6 @@
 | [Where Are You Now \- Kungs Remix](https://open.spotify.com/track/4GIMEDzfakGjbIUme3waUb) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX), [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Where Are You Now \(Remix Pack\)](https://open.spotify.com/album/6lEVcSBDsn0YgGjUxGO1dX) | 3:12 | 2022-06-20 |  |
 | [Wonder \- Surf Mesa Remix](https://open.spotify.com/track/6V7E9bDZaKUfFcfiScXaCc) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ) | [Wonder \(Deluxe\)](https://open.spotify.com/album/2sDPTkswUWDLtZYiOzubTe) | 3:18 | 2022-06-20 | 2023-04-11 |
 | [WOW \- Imanbek Remix](https://open.spotify.com/track/07dzaQfXNcQPVm149RGlMg) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [WOW \(Imanbek Remix\)](https://open.spotify.com/album/0c04EkrQHr79i4rU53qTRQ) | 3:07 | 2022-06-20 | 2023-04-13 |
-| [You & I \- Emily Nash Remix](https://open.spotify.com/track/6Mxaum98mQ7PySB9jvunYL) | [Navos](https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb), [HARLEE](https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy), [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [You & I \(Emily Nash Remix\)](https://open.spotify.com/album/6fRRqRFnCivghMKQG6yHZz) | 2:52 | 2022-06-20 |  |
+| [You & I \- Emily Nash Remix](https://open.spotify.com/track/6Mxaum98mQ7PySB9jvunYL) | [Navos](https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb), [HARLEE](https://open.spotify.com/artist/6eNlaSdxs8F7F0XlfDBhZy), [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [You & I \(Emily Nash Remix\)](https://open.spotify.com/album/6fRRqRFnCivghMKQG6yHZz) | 2:52 | 2022-06-20 | 2023-07-26 |
 
 \*This playlist was first scraped on 2022-12-29. Prior content cannot be recovered.

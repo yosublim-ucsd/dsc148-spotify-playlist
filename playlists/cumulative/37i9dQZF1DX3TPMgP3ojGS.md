@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,725 songs - 3 day 5 hr 21 min
+1,726 songs - 3 day 5 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,7 +185,7 @@
 | [Bedtime Story](https://open.spotify.com/track/6Vfbw73ppOiI72xfTwxeRz) | [Pierre Koenigs](https://open.spotify.com/artist/5VfDxDonlL9ImwQFQksAcY) | [Images of Now](https://open.spotify.com/album/4Fyk5yMOFNqjG2NTCksZQb) | 2:34 | 2021-03-22 | 2022-04-03 |
 | [Before Dawn](https://open.spotify.com/track/42mnMZ6db1BFIzrW89JpoU) | [Shaunta Coburn](https://open.spotify.com/artist/6Brh18kVDBzXLS2Uu38SuX) | [Before Dawn](https://open.spotify.com/album/4v89u5szEzd1HZbltZ8KPq) | 2:17 | 2022-03-29 | 2022-07-25 |
 | [Before the End](https://open.spotify.com/track/4tyxHnPMfFZcJdZS8R1zcT) | [Max Rossiter](https://open.spotify.com/artist/1QBHSnspvme5KAL4PJ2tDw) | [Before the End](https://open.spotify.com/album/7zEORVyhxLXS2AXKtWNI08) | 2:20 | 2022-03-29 | 2022-04-12 |
-| [Before We Met](https://open.spotify.com/track/1gB9Hvz050IuA28oxXtydl) | [Minik Jakobsen](https://open.spotify.com/artist/6UJfJw5p9sg08LBKb9Ckfe) | [Before We Met](https://open.spotify.com/album/6dD11SUFl17tNcD0qxpZAJ) | 1:53 | 2022-08-17 |  |
+| [Before We Met](https://open.spotify.com/track/1gB9Hvz050IuA28oxXtydl) | [Minik Jakobsen](https://open.spotify.com/artist/6UJfJw5p9sg08LBKb9Ckfe) | [Before We Met](https://open.spotify.com/album/6dD11SUFl17tNcD0qxpZAJ) | 1:53 | 2022-08-17 | 2023-07-26 |
 | [Before your eyes](https://open.spotify.com/track/4xugZez7zpHFNTgkf0DLV1) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Before your eyes](https://open.spotify.com/album/0o9d8yy6sU4pkrwu06Y84t) | 3:00 | 2022-03-08 | 2022-09-30 |
 | [Beginning](https://open.spotify.com/track/0xfBAFqqp2bMbtRV2AIWRe) | [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Awake](https://open.spotify.com/album/6sf1sDNB9paGfjOzavrIXj) | 2:26 | 2021-03-06\* | 2022-07-29 |
 | [Belle Vie De Tous Les Jours](https://open.spotify.com/track/3irfOZS30z0snSh5vOPs2V) | [Baudouin Béringer](https://open.spotify.com/artist/1zQiEG2u3FSEMD9QU0Brxg) | [Belle Vie De Tous Les Jours](https://open.spotify.com/album/2dYmnpSKtsLNFONuHvofaI) | 2:37 | 2021-10-07 | 2022-11-22 |
@@ -239,6 +239,7 @@
 | [Calm At Last](https://open.spotify.com/track/1cpsFVBA63bmSjNIhLGvhF) | [Una Luna](https://open.spotify.com/artist/6hKJteZkxCj4rEW8Enp9r7) | [Calm At Last](https://open.spotify.com/album/6Zqt1z1JPfVCz3lSC2KrtK) | 2:58 | 2021-03-06\* | 2022-04-21 |
 | [Calm Wind](https://open.spotify.com/track/6fjZ39b5dT9uZzFsVRLwSi) | [Elfrieda](https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t) | [Calm Wind](https://open.spotify.com/album/3wpbjtW8zANzFTOIcdvF3K) | 2:20 | 2023-06-20 |  |
 | [Camera Obscura](https://open.spotify.com/track/6cbLWx2NlOs3LvpfR44NPg) | [Jose Carcavelos](https://open.spotify.com/artist/3WSJGymGbgPhHHqTRBUE0H) | [Camera Obscura](https://open.spotify.com/album/5tuhTyI3R9LUbF6EH1p5cU) | 2:11 | 2021-04-24 | 2022-04-08 |
+| [Candles](https://open.spotify.com/track/3c2mI16b5l3zEPNsNdWqSf) | [Anthony Jacobus](https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi) | [Candles](https://open.spotify.com/album/1eQlINbY8VmjpT2nmQm6Nn) | 2:52 | 2023-07-25 |  |
 | [Can´t Help Smiling](https://open.spotify.com/track/2iVPty0FBstGSURghngIgo) | [James DiResta](https://open.spotify.com/artist/3eV4rEEDa28eEDqtKAz99w) | [Winter Unflorished](https://open.spotify.com/album/1meKAKWKJYjC4TzeGvgxA8) | 2:44 | 2021-03-19 | 2022-07-23 |
 | [Carol Of The Bells](https://open.spotify.com/track/1RNzv8ufhQVyQIt6wYH2UY) | [Sasha Cohn](https://open.spotify.com/artist/7zB6bpjg6Cl3ngSwB3nNvm) | [Weinachten](https://open.spotify.com/album/0vC2jwHlYlIBt0omi48bmm) | 1:48 | 2021-04-26 | 2021-04-27 |
 | [Carousel](https://open.spotify.com/track/5mqs59Yb2tIctEYKo6dwb4) | [Pierre Koenigs](https://open.spotify.com/artist/5VfDxDonlL9ImwQFQksAcY) | [Carousel](https://open.spotify.com/album/2QYvsvHJdg9V3mcxDXzTMH) | 2:12 | 2021-04-27 | 2022-04-13 |
@@ -261,7 +262,7 @@
 | [Chasing Stars](https://open.spotify.com/track/0Ngo7SiCaF52cyNQWghHs1) | [Moux](https://open.spotify.com/artist/4jsMhXef3DBlwIfiVLEGDZ) | [Gaze](https://open.spotify.com/album/3EP4Mrb7MevuHiA2btSpNC) | 2:22 | 2021-03-22 | 2022-04-18 |
 | [Che ricordarsi del tempo felice](https://open.spotify.com/track/0F2IGd7OdrD3P8yM2TJb2z) | [Seraghi](https://open.spotify.com/artist/1IBCumHV8JTujZVeLEaAGD) | [Che ricordarsi del tempo felice](https://open.spotify.com/album/5uDkSxYNFljm25qH820ux5) | 1:59 | 2021-03-10 | 2022-03-27 |
 | [Cherry Trees 桜](https://open.spotify.com/track/4YNhjGtSnzvyZCo3Gd5GPT) | [Asuka Eiko](https://open.spotify.com/artist/63uZjpJB9MlWSGMMlar4sK) | [Cherry Trees 桜](https://open.spotify.com/album/7ELmHiPBbnqSxEU1aIIaJ9) | 2:06 | 2021-05-30 | 2022-07-28 |
-| [Chichiro](https://open.spotify.com/track/1RJ5iNyOaBhTHNMVn2HnkH) | [Kye Wood](https://open.spotify.com/artist/6DHce4xCnG7D6j4BMlN0II) | [Chichiro](https://open.spotify.com/album/2AxdaIwqNenrGpogPL4Svx) | 1:49 | 2023-04-15 |  |
+| [Chichiro](https://open.spotify.com/track/1RJ5iNyOaBhTHNMVn2HnkH) | [Kye Wood](https://open.spotify.com/artist/6DHce4xCnG7D6j4BMlN0II) | [Chichiro](https://open.spotify.com/album/2AxdaIwqNenrGpogPL4Svx) | 1:49 | 2023-04-15 | 2023-07-26 |
 | [Chiral](https://open.spotify.com/track/0bda1IFiwlTA3qgmTGzMZg) | [Sven Grimm](https://open.spotify.com/artist/0Yg8xlGiBpP2gdXx24nTlj) | [Chiral](https://open.spotify.com/album/2GGXazjr151pmesoEHWst8) | 2:27 | 2022-12-22 | 2023-04-16 |
 | [Chorale](https://open.spotify.com/track/3Fui3CaWi2fm2gOELtrwmx) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [Open Heart](https://open.spotify.com/album/6KqwdEQSVFX3SkaT6hrcJd) | 3:22 | 2021-03-09 | 2022-07-17 |
 | [Chord Left](https://open.spotify.com/track/53pUvuojWWNx0VWfPa7iwk) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Aventine](https://open.spotify.com/album/3eVwN9Qju2pxBERkOQQv1Q) | 2:29 | 2021-03-14 | 2022-03-30 |
@@ -1097,7 +1098,7 @@
 | [Peace](https://open.spotify.com/track/1wVGlAEohNLnz29Iojl2BI) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [Peace](https://open.spotify.com/album/3KICqMtSBj3fRLRcdXhZKs) | 2:13 | 2021-09-25 | 2022-08-10 |
 | [Peace Of Mind](https://open.spotify.com/track/7pGfuq7ffLt0UbAX8xki74) | [Figgy Malone](https://open.spotify.com/artist/0MeNDWmyEBS65fk2Vihetl) | [Hope And Glory](https://open.spotify.com/album/1VQrnnzNwCvlVSGyByljgE) | 3:17 | 2021-03-18 | 2021-05-20 |
 | [Peace Within](https://open.spotify.com/track/1Wfu5TKZ6B6B7rkpIEmrUE) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Nocturne](https://open.spotify.com/album/7b2fxYSSumh0ViCuTTUQOc) | 3:48 | 2021-04-02 | 2021-11-16 |
-| [Peaceful Thoughts](https://open.spotify.com/track/5xm1Ot6JDIp5r9SFM6XQrW) | [Listening Wind](https://open.spotify.com/artist/1kgG3gkwM4b5riMk7GVKSz) | [Peaceful Thoughts](https://open.spotify.com/album/0F5GQBM8fyRwcTi3KSU3Ip) | 2:20 | 2023-04-15 | 2023-07-25 |
+| [Peaceful Thoughts](https://open.spotify.com/track/5xm1Ot6JDIp5r9SFM6XQrW) | [Listening Wind](https://open.spotify.com/artist/1kgG3gkwM4b5riMk7GVKSz) | [Peaceful Thoughts](https://open.spotify.com/album/0F5GQBM8fyRwcTi3KSU3Ip) | 2:20 | 2023-04-15 |  |
 | [Pearly White](https://open.spotify.com/track/32e2eC33BCyektlkaYjYIS) | [Adam Fincher](https://open.spotify.com/artist/0PmeWY74IzTbfmYPC3Fsq6) | [Pearly White](https://open.spotify.com/album/5JkhzfBjn2jzwTozpuCrS9) | 2:25 | 2021-04-23 | 2022-04-16 |
 | [Peggy's Cove](https://open.spotify.com/track/7yplIuBnFYA8eUje0Vi0UP) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Peggy's Cove](https://open.spotify.com/album/6u1kaq0ueouDEcdpyyvsFM) | 2:15 | 2023-07-06 |  |
 | [Peinture](https://open.spotify.com/track/4qgftOOU3U9AuzH8Cidlbm) | [Rachmano](https://open.spotify.com/artist/1GRFB3CNdhiQTCVLOMgW4I) | [Peinture](https://open.spotify.com/album/2qrNNJcWzPFI8TmpwkxZZG) | 2:34 | 2022-03-24 | 2022-03-30 |

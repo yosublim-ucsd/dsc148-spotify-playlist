@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 
 > The powerful, expressive sound of Ballroom and Vogue culture \- pioneered by the black LGBTQIA+ community\. Cover: Cakes da Killa
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,757 likes - 110 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,811 likes - 110 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 | 26 | [Good PusS \(feat\. cupcakKe\) \- Remix](https://open.spotify.com/track/0jiThGoZ1qdJrImd4U6XE5) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne), [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [Good PusS \(feat\. cupcakKe\) \[Remix\]](https://open.spotify.com/album/7bHH8XTv8INRsqbvF507iO) | 3:39 |
 | 27 | [Yo Ma \(feat\. Cakes da Killa & Leikeli47\)](https://open.spotify.com/track/7A9XxAxvhWLmKIEVjowM9Y) | [Astrolith](https://open.spotify.com/artist/0IUxlmCR6kfMxOuLdyen0I), [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Yo Ma \(feat\. Cakes da Killa & Leikeli47\)](https://open.spotify.com/album/2urlO3qmSew5tEXa0tr5xO) | 3:19 |
 | 28 | [Xtravaganza \- Radio Edit](https://open.spotify.com/track/7mdguyC4dPAgeZvQdCs7NJ) | [Naomi Leone](https://open.spotify.com/artist/6F0NV75fPzOq50SCX8b60x), [Velvet Code](https://open.spotify.com/artist/7EZWiujk2DXkuWUsSaUCKd) | [Xtravaganza \(Radio Edit\)](https://open.spotify.com/album/3pZrV5Bg3BZWjFVKTrYg49) | 2:56 |
-| 29 | [Just What They Want](https://open.spotify.com/track/62s3hLvgAt4gavLSMPGcLT) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Just What They Want](https://open.spotify.com/album/5NKFYyhUTlEh6RmgRJc5AY) | 3:12 |
+| 29 | [Just What They Want](https://open.spotify.com/track/0jq1oPbJ8seaxmHURGYlde) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Mamaru](https://open.spotify.com/album/2jBDNqjSMY1hUz1BGHsXWB) | 3:12 |
 | 30 | [BBB](https://open.spotify.com/track/6iYyeyUc0zEXCOFm8kgKSA) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD), [Grove](https://open.spotify.com/artist/1ymLBAEb4VHg1sObM20pQ3) | [BBB](https://open.spotify.com/album/6DKpHRzwz47gcPyHFVpSgF) | 2:51 |
 | 31 | [Legendary](https://open.spotify.com/track/4J1AnCdae0k9iEcZSfJuUq) | [MikeQ](https://open.spotify.com/artist/0H2tgKu7aoe1YVflaRWH6o), [Ash B.](https://open.spotify.com/artist/73C4in0N0LZovDdQBtCoez) | [Legendary](https://open.spotify.com/album/5gMfeKrP2jXGxgVHahlDwz) | 2:58 |
 | 32 | [Sickening](https://open.spotify.com/track/0yO8JKlIOY6phGSlzFpKcm) | [Alsace Carcione](https://open.spotify.com/artist/43oMOJeZr8shNmaBvgvAKr) | [Sickening](https://open.spotify.com/album/2ZrjxpBRyOH2TdWntgXEre) | 3:11 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX147VuwpqwJX.md) - [plain]
 | 109 | [Realness](https://open.spotify.com/track/1Fh6UKeOozklnE9a24GSSh) | [Ash B.](https://open.spotify.com/artist/73C4in0N0LZovDdQBtCoez) | [Qweendom](https://open.spotify.com/album/4cuWLmE34YTJkiUgQVBeLv) | 2:03 |
 | 110 | [Witch Doktor](https://open.spotify.com/track/3ntelFceNINxt3xhEXhRc8) | [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Greatest Hits](https://open.spotify.com/album/4t09XQnmG7HufzESXNdWn4) | 6:46 |
 
-Snapshot ID: `MCxlODk4NmFlYjhiZTE1OGVjYmQ5NTcyN2Y3NmNmMDRjNjNjOWE2Yzlm`
+Snapshot ID: `MCw4MWVmNzgxY2ZhNjk5YWIxODZkNTE5ZGY3ODY1NjM5OTc5MzVjYjYx`

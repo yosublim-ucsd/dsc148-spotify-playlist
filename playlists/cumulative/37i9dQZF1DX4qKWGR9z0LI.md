@@ -4,7 +4,7 @@
 
 > Lo último y lo mejor de la salsa\. Cover: Adolescent's Orquestra
 
-236 songs - 17 hr 50 min
+237 songs - 17 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,6 +73,7 @@
 | [El Amor Mas Grande Del Planeta](https://open.spotify.com/track/5lgJByAmkgnisZYU6XwtJ2) | [Orquesta la Fuga de Cali](https://open.spotify.com/artist/1hKqqasAon1KaQurWRpuOe) | [El Amor Mas Grande Del Planeta](https://open.spotify.com/album/5ZfRJmapY2FJTavdzU6Bxy) | 4:10 | 2022-01-01 | 2022-04-28 |
 | [El Bailarín de la Avenida](https://open.spotify.com/track/6WXNXsF3F8oiqc0EGsCG20) | [Sonora Carruseles](https://open.spotify.com/artist/34qU0b0yRjEzRJtknerEDS) | [Salsa Brava Con Todos los Hierros](https://open.spotify.com/album/4HGxgo1ysteh87S9lsGvYe) | 4:08 | 2022-01-21 | 2022-05-28 |
 | [El Breve Espacio En Que No Está \- 80 Aniversario](https://open.spotify.com/track/1zfxsKycKs9Fgk9xJy57bR) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [El Breve Espacio En Que No Está \(80 Aniversario\)](https://open.spotify.com/album/08H66qqmYkvqLMbBT8Tj3V) | 4:45 | 2023-05-19 | 2023-06-12 |
+| [El Callejón](https://open.spotify.com/track/65mTGc1h4zh40PExo9BXfI) | [Jorge Carmona](https://open.spotify.com/artist/1cyJ1lO4GCV0npo5vyg3xX), [Sipo One](https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2) | [El Callejón](https://open.spotify.com/album/0UwpMqSIC8OLScazUEkLaW) | 4:16 | 2023-07-21 |  |
 | [El Combo del Mundo](https://open.spotify.com/track/7papz71lGIeD4yHPraTfD7) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [El Combo del Mundo](https://open.spotify.com/album/0cZr0vIcUNsPWDnRKhf2s5) | 4:19 | 2022-01-01 | 2022-07-27 |
 | [El Dinero](https://open.spotify.com/track/0CEcTqeL5BC0V7gzmwytn3) | [TIMBALIVE](https://open.spotify.com/artist/5skRgtmxRx7ukwds6UlS7R) | [From Miami a La Habana](https://open.spotify.com/album/1tNsdZEoSb3YrilndEMSmn) | 4:23 | 2022-05-20 |  |
 | [El Dinero](https://open.spotify.com/track/0hUFHcJHCPsvq9F2ClNKxt) | [TIMBALIVE](https://open.spotify.com/artist/5skRgtmxRx7ukwds6UlS7R) | [From Miami a La Habana](https://open.spotify.com/album/2xqB7zwRnJHhV4A0Sw5yMi) | 4:23 | 2022-05-20 | 2022-07-03 |
@@ -176,7 +177,7 @@
 | [Quimbara](https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia & Johnny](https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1) | 4:51 | 2022-01-01 |  |
 | [Qué Precio Tiene el Cielo \- Salsa Version](https://open.spotify.com/track/2MnKininlD8bY9ggRNSJ37) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Sigo Siendo Yo](https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ) | 5:02 | 2022-01-01 |  |
 | [Resistiré \- Salsa](https://open.spotify.com/track/4Qpom4kmnP9PEFOF2TAoxi) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Resistiré \(Salsa\)](https://open.spotify.com/album/4uJZ8kVOQW8T1ehTZqltfy) | 4:48 | 2022-01-01 | 2022-11-13 |
-| [Salsa](https://open.spotify.com/track/6hJShCXE9NWqhZfH2Qbi6n) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [Salsa](https://open.spotify.com/album/5ioWdgA2k4FhPQIC5bjSCY) | 2:56 | 2023-05-19 |  |
+| [Salsa](https://open.spotify.com/track/6hJShCXE9NWqhZfH2Qbi6n) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [Salsa](https://open.spotify.com/album/5ioWdgA2k4FhPQIC5bjSCY) | 2:56 | 2023-05-19 | 2023-07-26 |
 | [Salsa Con Coco](https://open.spotify.com/track/1XONug0va1DREQdZZlA30K) | [Pochi Y Su Cocoband](https://open.spotify.com/artist/1gCNIckvK4GTbbRa8c3CLi) | [El Arrollador](https://open.spotify.com/album/0EnSVKULe1MN6qZjLukamq) | 4:54 | 2022-01-01 | 2022-07-29 |
 | [Salsa Con Coco](https://open.spotify.com/track/3Xy4svERcnUuFcOaBI0539) | [Pochy Y Su Cocoband](https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu) | [El Arrollador](https://open.spotify.com/album/2JWLAvJiDRdUJfrr2Xhfju) | 4:54 | 2022-05-20 |  |
 | [Salsa Pa' Olvidar las Penas \(feat\. Gilberto Santa Rosa\)](https://open.spotify.com/track/0TgbqQpWj06HsIREGbJoOi) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [25/7](https://open.spotify.com/album/2cJRX7IOFH07xtkDvB3gcG) | 4:58 | 2022-01-01 | 2022-07-29 |

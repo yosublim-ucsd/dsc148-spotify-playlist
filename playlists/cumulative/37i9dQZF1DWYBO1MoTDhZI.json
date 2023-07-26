@@ -2848,7 +2848,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 147008,
       "name": "DIGGIN U",
       "url": "https://open.spotify.com/track/0Ni50H8KZDx9WVaKHId38j"
@@ -7856,6 +7856,28 @@
       "duration_ms": 157000,
       "name": "NO HAY LEY",
       "url": "https://open.spotify.com/track/5enNYN3hDG4Dsey9WsF6TJ"
+    },
+    {
+      "album": {
+        "name": "California Cowboy",
+        "url": "https://open.spotify.com/album/2a9qafMKqGnx33ScYB8nbp"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        },
+        {
+          "name": "Hulvey",
+          "url": "https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "No Longer Bound",
+      "url": "https://open.spotify.com/track/08HjPPTP1GWkiIpVZKw2E3"
     },
     {
       "album": {

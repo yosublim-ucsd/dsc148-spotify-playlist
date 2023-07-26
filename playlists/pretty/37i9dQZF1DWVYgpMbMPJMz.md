@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  <a href="https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s?si=2854b16b9fbb41d4">Planetshakers<a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 974,910 likes - 100 songs - 9 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 975,034 likes - 100 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 54 | [I Believe \- Live At Shepherd Church](https://open.spotify.com/track/1NPlveoW4PT55ifwkj8i8y) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4) | [I Believe \(Live At Shepherd Church\)](https://open.spotify.com/album/55TjmmV2j8S0WFRnGWpt4q) | 4:46 |
 | 55 | [Behold Our God \- Live at WorshipGod](https://open.spotify.com/track/4hQy5mspN7mLiQokKsR4WT) | [Sovereign Grace Music](https://open.spotify.com/artist/6MYKRhEIKscR8qdGlvpk9y) | [Behold Our God \(Live at WorshipGod\)](https://open.spotify.com/album/008jbLWJxgzDKQ6Aq74QDa) | 5:40 |
 | 56 | [Reflection](https://open.spotify.com/track/7EV5YGeMxguEhWFZZJi21V) | [CCV Music](https://open.spotify.com/artist/70Gna7fVbm97TQzkkWai3e) | [Reflection](https://open.spotify.com/album/7qDEjJbSBc4xBKZhoiEwGw) | 5:33 |
-| 57 | [Greater Than It All \- Live](https://open.spotify.com/track/4Vqvuy5Z4Lhn5wdqFDpTjx) | [Spring Harvest](https://open.spotify.com/artist/6okBvpENAfIe6u7n5bdFDK), [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [Greater Than It All \(Live\)](https://open.spotify.com/album/0beZjVg2wi1FiDYA7abeFe) | 4:52 |
+| 57 | [Greater Than It All \- Live](https://open.spotify.com/track/36v3znbKACA4BkhaUHSjbE) | [Spring Harvest](https://open.spotify.com/artist/6okBvpENAfIe6u7n5bdFDK) | [Gratitude: 10 Live Worship Songs From Spring Harvest 2022](https://open.spotify.com/album/33QIgV6G5UIDN2neiShgyM) | 4:52 |
 | 58 | [This Is How I Thank The Lord \(feat\. Cody Carnes, Amanda Cook, Joe L Barnes\)](https://open.spotify.com/track/2t8f07knCNSY19avq19l1R) | [Mosaic MSC](https://open.spotify.com/artist/4hAridhpYF50cbO6o7jB3b), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0), [Amanda Cook](https://open.spotify.com/artist/53Gnd3lGlcL8ua9Yyu9xDP), [Joe L Barnes](https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T) | [Thanks](https://open.spotify.com/album/3VKdWSElM9EjchBZaXZVML) | 3:41 |
 | 59 | [Monday Morning Faith \- Studio Version](https://open.spotify.com/track/5pttLvlCeWoUsjMqoQL54O) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Chelsea Plank](https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y), [Tiffany Hudson](https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV) | [Monday Morning Faith \(Studio Version\)](https://open.spotify.com/album/34SQZDK7kntzsEMmWfFCaL) | 4:16 |
 | 60 | [Just One Drop \- Live From New Orleans](https://open.spotify.com/track/21zNU75QW1NfvPZ8lQVb24) | [Bethany Music](https://open.spotify.com/artist/6zJA80S2jrsIqiqukh36WP), [BJ Putnam](https://open.spotify.com/artist/60aBgW2uAx0DWjANS99500) | [Just One Drop \(Live From New Orleans\)](https://open.spotify.com/album/2olHHPtJYdCWpgN1XaX7ZD) | 6:24 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 99 | [It Is Finished](https://open.spotify.com/track/3pBJ1CM7P48h9XaExiL6EX) | [Kingdom Kids](https://open.spotify.com/artist/5ZEFkYy6VPMg1C4QssVKCZ), [Davy Flowers](https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU) | [Kingdom Kids, Vol\. 2](https://open.spotify.com/album/09SYVhIz581fCHeLcRI4oU) | 4:26 |
 | 100 | [He Wears A Crown](https://open.spotify.com/track/5lNo4SMJW33l7Izhu6CY9b) | [Bryan McCleery](https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1) | [He Wears A Crown](https://open.spotify.com/album/1XgBnHO6xTm7Tzodli0rsZ) | 3:37 |
 
-Snapshot ID: `MCwwNGUyMzAwOWIzYjk1Njg4MTdhMTA0MzhhOWEzMDBjODk3YTEzMDQw`
+Snapshot ID: `MCw5NTYwYjMyZjJiZGIzODk3YjNiZTVmMGI1OTZmNmY3NGI4MWQ1ZDI3`

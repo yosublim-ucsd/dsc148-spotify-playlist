@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-23",
-  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: SiM",
+  "description": "\u56fd\u5185\u5916\u306e\u69d8\u3005\u306a\u30b7\u30fc\u30f3\u3068\u5171\u9cf4\u3059\u308b\u65e5\u672c\u306e\u30e9\u30a6\u30c9\u30fb\u30ed\u30c3\u30af\u3092\u7279\u96c6\u3002Cover: PRAISE",
   "name": "Loud Rock Japan",
   "tracks": [
     {
@@ -132,10 +132,28 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 206999,
       "name": "Better Left Unsaid",
       "url": "https://open.spotify.com/track/1mBUIIEyK9jRMnY9cGknNH"
+    },
+    {
+      "album": {
+        "name": "Black Jean Boogie",
+        "url": "https://open.spotify.com/album/5iEulwmiFqO7uZMeYNiVZT"
+      },
+      "artists": [
+        {
+          "name": "The Ravens",
+          "url": "https://open.spotify.com/artist/3me3XE0gkkSvPUQAZtdP1r"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227333,
+      "name": "Black Jean Boogie",
+      "url": "https://open.spotify.com/track/6ooCR2BIdsMSzddhiElEnp"
     },
     {
       "album": {
@@ -702,7 +720,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 256459,
       "name": "LAST FOREVER",
       "url": "https://open.spotify.com/track/3LGrZHuqKCts17QUjaOPm8"
@@ -720,7 +738,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 223773,
       "name": "Lazy",
       "url": "https://open.spotify.com/track/4ukEJalqEgdaG5DYXKZjf8"
@@ -796,10 +814,28 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 153866,
       "name": "Love song",
       "url": "https://open.spotify.com/track/4gtuaF2M5Lpl5EYSdAA3Th"
+    },
+    {
+      "album": {
+        "name": "MEITEI EXCITE",
+        "url": "https://open.spotify.com/album/03ta7GAyYavhFhLIaANBMO"
+      },
+      "artists": [
+        {
+          "name": "PRAISE",
+          "url": "https://open.spotify.com/artist/301xcRUdsWFXu49ELyWxUs"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180458,
+      "name": "MEITEI EXCITE",
+      "url": "https://open.spotify.com/track/5jQyTZB2Izc3NXHtut5SVE"
     },
     {
       "album": {
@@ -922,7 +958,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 112500,
       "name": "One step forward",
       "url": "https://open.spotify.com/track/4lgr7mrXi5JM34HZrZTaOd"
@@ -1251,6 +1287,24 @@
     },
     {
       "album": {
+        "name": "SUPER YABAI",
+        "url": "https://open.spotify.com/album/3Qi48Pfzq8FldO2nv4KlVw"
+      },
+      "artists": [
+        {
+          "name": "PRAISE",
+          "url": "https://open.spotify.com/artist/301xcRUdsWFXu49ELyWxUs"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171300,
+      "name": "SUPER YABAI",
+      "url": "https://open.spotify.com/track/0x2uTiLUzZcmuDGxQeYVcK"
+    },
+    {
+      "album": {
         "name": "CAVU",
         "url": "https://open.spotify.com/album/5ZGyjBoHMJb8M2diIt9af8"
       },
@@ -1493,6 +1547,24 @@
     },
     {
       "album": {
+        "name": "YAEN",
+        "url": "https://open.spotify.com/album/3hZXeTpEDbl0gIRlUz6a3m"
+      },
+      "artists": [
+        {
+          "name": "\u30cf\u30eb\u30ab\u30df\u30e9\u30a4",
+          "url": "https://open.spotify.com/artist/75md6zjRjnsWICkdIzl8iI"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139892,
+      "name": "YAEN",
+      "url": "https://open.spotify.com/track/1UDmCjvSERuwfm71qJoOqs"
+    },
+    {
+      "album": {
         "name": "yoake",
         "url": "https://open.spotify.com/album/5jugeblIbCduKGADB7Y09A"
       },
@@ -1674,6 +1746,24 @@
       "duration_ms": 222479,
       "name": "\u30d3\u30ad\u30cb\u30fb\u30b9\u30dd\u30fc\u30c4\u30fb\u30dd\u30f3\u30c1\u30f3",
       "url": "https://open.spotify.com/track/3cSfR5ePuViozu47qMhxNv"
+    },
+    {
+      "album": {
+        "name": "\u30e6\u30a8\u30cb",
+        "url": "https://open.spotify.com/album/1ZuPsCdjOY2hJyM3Y6KO84"
+      },
+      "artists": [
+        {
+          "name": "Mr.FanTastiC",
+          "url": "https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240550,
+      "name": "\u30e6\u30a8\u30cb",
+      "url": "https://open.spotify.com/track/7hZQgHQ1NH8WYs5UBtjRET"
     },
     {
       "album": {

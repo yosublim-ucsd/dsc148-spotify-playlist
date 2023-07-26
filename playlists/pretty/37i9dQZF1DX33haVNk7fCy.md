@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 
 > When everything around you is falling apart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,341 likes - 68 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,588 likes - 68 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 28 | [Teri Yaad](https://open.spotify.com/track/3uUAbrwsttRpv2kfAvAUN9) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Teri Yaad](https://open.spotify.com/album/1QE4rDAvMrYGSpVdbrFIRH) | 3:50 |
 | 29 | [Jiyein Kyun](https://open.spotify.com/track/0up9rhm9qt2LW7cnoDFCMk) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Papon](https://open.spotify.com/artist/2FPwX3Gh0w4Qr1v3zSTtcT) | [Dum Maaro Dum](https://open.spotify.com/album/5RM8pIBX8zU9g8U5WG4zfZ) | 4:24 |
 | 30 | [cold/mess](https://open.spotify.com/track/7uhINGViZPygI2AljxO8KN) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [cold/mess](https://open.spotify.com/album/6FzicG6wlKHogiRaGAbvBK) | 4:41 |
-| 31 | [Beqadra](https://open.spotify.com/track/4LIQacKPUjto8rVlVuY09O) | [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Beqadra](https://open.spotify.com/album/5SGHD9oHkRZ2zkYDcfGqq5) | 3:03 |
-| 32 | [Chan Kithan](https://open.spotify.com/track/7A5AXwJZ6DRVSGgHk82ww6) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Chan Kithan](https://open.spotify.com/album/3uT8TZPflh9SQBQw7tZoeH) | 3:53 |
-| 33 | [Mere Paas Tum Raho](https://open.spotify.com/track/4KesmOv91PmUtzTC4ltGhB) | [Sumedh Mudgalkar](https://open.spotify.com/artist/4MjnXdCTzppLKxnfNv1G7h), [Bharat Kamal](https://open.spotify.com/artist/7w089qcbkrJcuYYDzpWTeJ), [Mohit Lalwani](https://open.spotify.com/artist/5Nfs3z1NSsrI3wxInUl6v8), [Ambika Devi](https://open.spotify.com/artist/00uMWk0Zgw5qUziwylo2b3), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Mere Paas Tum Raho](https://open.spotify.com/album/3I0bHAfRH2tUA6OWNX5nEG) | 3:29 |
+| 31 | [Chan Kithan](https://open.spotify.com/track/7A5AXwJZ6DRVSGgHk82ww6) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Chan Kithan](https://open.spotify.com/album/3uT8TZPflh9SQBQw7tZoeH) | 3:53 |
+| 32 | [Mere Paas Tum Raho](https://open.spotify.com/track/4KesmOv91PmUtzTC4ltGhB) | [Sumedh Mudgalkar](https://open.spotify.com/artist/4MjnXdCTzppLKxnfNv1G7h), [Bharat Kamal](https://open.spotify.com/artist/7w089qcbkrJcuYYDzpWTeJ), [Mohit Lalwani](https://open.spotify.com/artist/5Nfs3z1NSsrI3wxInUl6v8), [Ambika Devi](https://open.spotify.com/artist/00uMWk0Zgw5qUziwylo2b3), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Mere Paas Tum Raho](https://open.spotify.com/album/3I0bHAfRH2tUA6OWNX5nEG) | 3:29 |
+| 33 | [Beqadra](https://open.spotify.com/track/4LIQacKPUjto8rVlVuY09O) | [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Beqadra](https://open.spotify.com/album/5SGHD9oHkRZ2zkYDcfGqq5) | 3:03 |
 | 34 | [Dhaaga](https://open.spotify.com/track/4wUtptr1RLnHyTlkbUKutH) | [Nilotpal Bora](https://open.spotify.com/artist/2JexWjjyHRNgAiDXNn7rsV) | [Aspirants: Season 1 \(Music From the TVF Original Series\)](https://open.spotify.com/album/3hFz046pdpJkSIGSXtG5jE) | 3:52 |
 | 35 | [Saaya](https://open.spotify.com/track/5fMbzjIsGUT4tVm55TOn8O) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Saaya](https://open.spotify.com/album/1Ov7xUOV1socUOw4KNKRLu) | 2:44 |
 | 36 | [Aana Nahi](https://open.spotify.com/track/3nvJWarZv8kNyusyXfdu44) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Aana Nahi](https://open.spotify.com/album/6KUEDNzv39oXcvuxklZoxn) | 3:01 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 67 | [Tera Chehra \(From "Sanam Teri Kasam"\)](https://open.spotify.com/track/6scAzfVRotuyZgGw8RRTN9) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Sanam Teri Kasam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/20gToc2WrKuZEAMnZTjJ5s) | 4:34 |
 | 68 | [Channa Mereya \(From "Ae Dil Hai Mushkil"\)](https://open.spotify.com/track/1plFCZ6QFAjSRutT02GTCn) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Channa Mereya \(From "Ae Dil Hai Mushkil"\)](https://open.spotify.com/album/7IuYiJjqLtPUqgDYlUTuML) | 4:49 |
 
-Snapshot ID: `MCxmZjMwZTA2OGFkNzM1MTRkZTI5YzMwZTg0MDA4MzdkZTk0YjkwN2Ji`
+Snapshot ID: `MCw0ZGM4NGJjYjQwNTAxNjQ0N2UxZDA4YzgyMzc3NGNkMjE4NDk3OWMz`

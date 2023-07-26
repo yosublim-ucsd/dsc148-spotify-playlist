@@ -1,12 +1,12 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B creado en el continente y Espa\u00f1a. Legallyrxx en portada.",
-  "num_followers": 100979,
+  "num_followers": 101015,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZGQ5MTM5ODZhODgwOTMzNjMxZmI2YzA0Y2M3YzNiNGZhNWE5NDk5",
+  "snapshot_id": "MCxmNGU4Zjg3NDBiYmFlMWNjNGM1ZTVlMDIxNDY5Mzk1NTcwZmE4N2Zm",
   "tracks": [
     {
       "added_at": "2023-07-21 06:00:00",
@@ -384,7 +384,7 @@
       },
       "artists": [
         {
-          "name": "Aleman",
+          "name": "Alem\u00e1n",
           "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
         },
         {
@@ -584,7 +584,7 @@
       },
       "artists": [
         {
-          "name": "Aleman",
+          "name": "Alem\u00e1n",
           "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
         },
         {
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-07-21 06:00:00",
       "album": {
-        "name": "No Le Llames Amor",
-        "url": "https://open.spotify.com/album/1ubOrTTzo085mnwEU0P7iE"
-      },
-      "artists": [
-        {
-          "name": "Maikel Delacalle",
-          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "No Le Llames Amor",
-      "url": "https://open.spotify.com/track/4UGBuJ6rKndVjaPtzs3knZ"
-    },
-    {
-      "added_at": "2023-07-21 06:00:00",
-      "album": {
         "name": "radar",
         "url": "https://open.spotify.com/album/5NoZoiJBQJz4a5FZSjGXei"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 160694,
       "name": "radar",
       "url": "https://open.spotify.com/track/3xYtmu8IcDfXGEw7I9oChp"
+    },
+    {
+      "added_at": "2023-07-21 06:00:00",
+      "album": {
+        "name": "No Le Llames Amor",
+        "url": "https://open.spotify.com/album/1ubOrTTzo085mnwEU0P7iE"
+      },
+      "artists": [
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "No Le Llames Amor",
+      "url": "https://open.spotify.com/track/4UGBuJ6rKndVjaPtzs3knZ"
     },
     {
       "added_at": "2023-07-21 06:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-07-21 06:00:00",
       "album": {
-        "name": "Room 302",
-        "url": "https://open.spotify.com/album/2ahKg6oAm6bUCnCaUob2mV"
-      },
-      "artists": [
-        {
-          "name": "Maikel Delacalle",
-          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Room 302",
-      "url": "https://open.spotify.com/track/1CRG6Br8GUtDwpi2l4LuIW"
-    },
-    {
-      "added_at": "2023-07-21 06:00:00",
-      "album": {
         "name": "Qu\u00e9 Maldici\u00f3n",
         "url": "https://open.spotify.com/album/34b6Qme3ZOs6jrgx0BWV3O"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 188737,
       "name": "Makin Money",
       "url": "https://open.spotify.com/track/0nMeCH0qe2CTdA6YDzyFRW"
+    },
+    {
+      "added_at": "2023-07-21 06:00:00",
+      "album": {
+        "name": "Room 302",
+        "url": "https://open.spotify.com/album/2ahKg6oAm6bUCnCaUob2mV"
+      },
+      "artists": [
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Room 302",
+      "url": "https://open.spotify.com/track/1CRG6Br8GUtDwpi2l4LuIW"
     },
     {
       "added_at": "2023-07-21 06:00:00",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-07-21 06:00:00",
       "album": {
-        "name": "como te va?",
-        "url": "https://open.spotify.com/album/113FXbf4zKRInNJksj2H8V"
-      },
-      "artists": [
-        {
-          "name": "Corina Smith",
-          "url": "https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8"
-        }
-      ],
-      "duration_ms": 154401,
-      "name": "como te va?",
-      "url": "https://open.spotify.com/track/64gyDJ9fXpZvsycMEHRLUG"
-    },
-    {
-      "added_at": "2023-07-21 06:00:00",
-      "album": {
         "name": "Gotas",
         "url": "https://open.spotify.com/album/76YyNZPRiXT5cyULAqajlB"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 215156,
       "name": "Gotas",
       "url": "https://open.spotify.com/track/3RPVMsjKwcPb4M9BsqeYhd"
+    },
+    {
+      "added_at": "2023-07-21 06:00:00",
+      "album": {
+        "name": "como te va?",
+        "url": "https://open.spotify.com/album/113FXbf4zKRInNJksj2H8V"
+      },
+      "artists": [
+        {
+          "name": "Corina Smith",
+          "url": "https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8"
+        }
+      ],
+      "duration_ms": 154401,
+      "name": "como te va?",
+      "url": "https://open.spotify.com/track/64gyDJ9fXpZvsycMEHRLUG"
     },
     {
       "added_at": "2023-07-21 06:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-07-21 06:00:00",
       "album": {
-        "name": "Cada D\u00eda Te Quiero M\u00e1s",
-        "url": "https://open.spotify.com/album/5x4CBMHXg9zVY37KEZSS3J"
-      },
-      "artists": [
-        {
-          "name": "Robot95",
-          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
-        }
-      ],
-      "duration_ms": 192418,
-      "name": "Cada D\u00eda Te Quiero M\u00e1s",
-      "url": "https://open.spotify.com/track/3cj60CwhSsrMr0nxMRIGKP"
-    },
-    {
-      "added_at": "2023-07-21 06:00:00",
-      "album": {
         "name": "Invierno",
         "url": "https://open.spotify.com/album/36akjquegYLPv8C90n0Hqu"
       },
@@ -1247,18 +1231,18 @@
     {
       "added_at": "2023-07-21 06:00:00",
       "album": {
-        "name": "As\u00ed De Simple",
-        "url": "https://open.spotify.com/album/0SOdrZudNfMThST5GBTzGT"
+        "name": "Cada D\u00eda Te Quiero M\u00e1s",
+        "url": "https://open.spotify.com/album/5x4CBMHXg9zVY37KEZSS3J"
       },
       "artists": [
         {
-          "name": "Nicole Favre",
-          "url": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
+          "name": "Robot95",
+          "url": "https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975"
         }
       ],
-      "duration_ms": 189133,
-      "name": "As\u00ed De Simple",
-      "url": "https://open.spotify.com/track/0uwFYmzl08pS4XOmNRnTWo"
+      "duration_ms": 192418,
+      "name": "Cada D\u00eda Te Quiero M\u00e1s",
+      "url": "https://open.spotify.com/track/3cj60CwhSsrMr0nxMRIGKP"
     },
     {
       "added_at": "2023-07-21 06:00:00",
@@ -1283,6 +1267,22 @@
       "duration_ms": 201290,
       "name": "Tus Ojos Me Hablaron",
       "url": "https://open.spotify.com/track/2lwPsHNyohO98CZY0ag3YQ"
+    },
+    {
+      "added_at": "2023-07-21 06:00:00",
+      "album": {
+        "name": "As\u00ed De Simple",
+        "url": "https://open.spotify.com/album/0SOdrZudNfMThST5GBTzGT"
+      },
+      "artists": [
+        {
+          "name": "Nicole Favre",
+          "url": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
+        }
+      ],
+      "duration_ms": 189133,
+      "name": "As\u00ed De Simple",
+      "url": "https://open.spotify.com/track/0uwFYmzl08pS4XOmNRnTWo"
     },
     {
       "added_at": "2023-07-21 06:00:00",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2023-07-21 06:00:00",
       "album": {
-        "name": "Roxanne",
-        "url": "https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo"
-      },
-      "artists": [
-        {
-          "name": "Sofia Thompson",
-          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
-        }
-      ],
-      "duration_ms": 213993,
-      "name": "A la Mitad (Suceso 1)",
-      "url": "https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN"
-    },
-    {
-      "added_at": "2023-07-21 06:00:00",
-      "album": {
         "name": "Caliope",
         "url": "https://open.spotify.com/album/5DVrsMjDWl9a7xUGjIpYJa"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 202528,
       "name": "Caliope",
       "url": "https://open.spotify.com/track/7LS0dVaYiiVQcSRl3HDUxS"
+    },
+    {
+      "added_at": "2023-07-21 06:00:00",
+      "album": {
+        "name": "Roxanne",
+        "url": "https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo"
+      },
+      "artists": [
+        {
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+        }
+      ],
+      "duration_ms": 213993,
+      "name": "A la Mitad (Suceso 1)",
+      "url": "https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN"
     },
     {
       "added_at": "2023-07-21 06:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-07-21 06:00:00",
       "album": {
-        "name": "Thinking About You",
-        "url": "https://open.spotify.com/album/2zGh2g7PX9BkdqvwSaOwFj"
-      },
-      "artists": [
-        {
-          "name": "Z\u00f6elle",
-          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
-        }
-      ],
-      "duration_ms": 157267,
-      "name": "Thinking About You",
-      "url": "https://open.spotify.com/track/7iHjnyUtas9LaP2RFblNGG"
-    },
-    {
-      "added_at": "2023-07-21 06:00:00",
-      "album": {
         "name": "No Fui Solo Yo",
         "url": "https://open.spotify.com/album/3S79UyK6xDUnMq5N3Nqbio"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 202942,
       "name": "No Fui Solo Yo",
       "url": "https://open.spotify.com/track/1dcK53g1EHNpmWlGvt8Mhf"
+    },
+    {
+      "added_at": "2023-07-21 06:00:00",
+      "album": {
+        "name": "Thinking About You",
+        "url": "https://open.spotify.com/album/2zGh2g7PX9BkdqvwSaOwFj"
+      },
+      "artists": [
+        {
+          "name": "Z\u00f6elle",
+          "url": "https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl"
+        }
+      ],
+      "duration_ms": 157267,
+      "name": "Thinking About You",
+      "url": "https://open.spotify.com/track/7iHjnyUtas9LaP2RFblNGG"
     },
     {
       "added_at": "2023-07-21 06:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2023-07-21 06:00:00",
       "album": {
-        "name": "Drama Vol. 1",
-        "url": "https://open.spotify.com/album/5SoVXEF6lDQzvKAHqdf5sM"
-      },
-      "artists": [
-        {
-          "name": "Junior Zamora",
-          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
-        }
-      ],
-      "duration_ms": 164376,
-      "name": "Emiliana",
-      "url": "https://open.spotify.com/track/6YRbXDDO4qYimOJB2wLwMr"
-    },
-    {
-      "added_at": "2023-07-21 06:00:00",
-      "album": {
         "name": "Qui\u00e9n Dir\u00eda",
         "url": "https://open.spotify.com/album/0mdmUs0b4LjKcwGwP0EeQk"
       },
@@ -1651,18 +1635,18 @@
     {
       "added_at": "2023-07-21 06:00:00",
       "album": {
-        "name": "Sin Kerer",
-        "url": "https://open.spotify.com/album/73Oo5M4eCl2COT9fOmp7km"
+        "name": "Drama Vol. 1",
+        "url": "https://open.spotify.com/album/5SoVXEF6lDQzvKAHqdf5sM"
       },
       "artists": [
         {
-          "name": "Aleesha",
-          "url": "https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi"
+          "name": "Junior Zamora",
+          "url": "https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ"
         }
       ],
-      "duration_ms": 169565,
-      "name": "Sin Kerer",
-      "url": "https://open.spotify.com/track/0sCUbih1waSFC1xrUlzoW2"
+      "duration_ms": 164376,
+      "name": "Emiliana",
+      "url": "https://open.spotify.com/track/6YRbXDDO4qYimOJB2wLwMr"
     },
     {
       "added_at": "2023-07-21 06:00:00",
@@ -1679,6 +1663,22 @@
       "duration_ms": 221250,
       "name": "Elige Bien",
       "url": "https://open.spotify.com/track/2Oy8GcHX1LHyBEvTvnE816"
+    },
+    {
+      "added_at": "2023-07-21 06:00:00",
+      "album": {
+        "name": "Sin Kerer",
+        "url": "https://open.spotify.com/album/73Oo5M4eCl2COT9fOmp7km"
+      },
+      "artists": [
+        {
+          "name": "Aleesha",
+          "url": "https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi"
+        }
+      ],
+      "duration_ms": 169565,
+      "name": "Sin Kerer",
+      "url": "https://open.spotify.com/track/0sCUbih1waSFC1xrUlzoW2"
     },
     {
       "added_at": "2023-07-21 06:00:00",
@@ -1719,26 +1719,6 @@
     {
       "added_at": "2023-07-21 06:00:00",
       "album": {
-        "name": "Navegantes",
-        "url": "https://open.spotify.com/album/59ZWU9GOX523Im1B05n7mC"
-      },
-      "artists": [
-        {
-          "name": "Dany Calvario",
-          "url": "https://open.spotify.com/artist/7hieapEQgIf8bO2eadP1MS"
-        },
-        {
-          "name": "Santa RM",
-          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
-        }
-      ],
-      "duration_ms": 243664,
-      "name": "Navegantes",
-      "url": "https://open.spotify.com/track/6T5HmWq4GIX4ujSMuvl4oZ"
-    },
-    {
-      "added_at": "2023-07-21 06:00:00",
-      "album": {
         "name": "Nada M\u00e1s",
         "url": "https://open.spotify.com/album/4CmNOJ4aObpDo3bUSIq8Hz"
       },
@@ -1759,6 +1739,26 @@
       "duration_ms": 203076,
       "name": "Nada M\u00e1s",
       "url": "https://open.spotify.com/track/2zGgmBG8ARyxzFQWwZR1aF"
+    },
+    {
+      "added_at": "2023-07-21 06:00:00",
+      "album": {
+        "name": "Navegantes",
+        "url": "https://open.spotify.com/album/59ZWU9GOX523Im1B05n7mC"
+      },
+      "artists": [
+        {
+          "name": "Dany Calvario",
+          "url": "https://open.spotify.com/artist/7hieapEQgIf8bO2eadP1MS"
+        },
+        {
+          "name": "Santa RM",
+          "url": "https://open.spotify.com/artist/30BSBWLKnYJION1lCPugXc"
+        }
+      ],
+      "duration_ms": 243664,
+      "name": "Navegantes",
+      "url": "https://open.spotify.com/track/6T5HmWq4GIX4ujSMuvl4oZ"
     },
     {
       "added_at": "2023-07-21 06:00:00",
@@ -1839,22 +1839,22 @@
     {
       "added_at": "2023-07-21 06:00:00",
       "album": {
-        "name": "Olv\u00eddate de mi",
-        "url": "https://open.spotify.com/album/02U5XvAvtLyA3YgDMoRwI2"
+        "name": "A Mi Ritmo",
+        "url": "https://open.spotify.com/album/0kZuOQA9W3hC6j3nhYxuUX"
       },
       "artists": [
         {
-          "name": "Jv01",
-          "url": "https://open.spotify.com/artist/3mDqaTnON2hDcDzlXLeIhU"
+          "name": "A.C.O",
+          "url": "https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO"
         },
         {
-          "name": "Tank",
-          "url": "https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l"
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
         }
       ],
-      "duration_ms": 228000,
-      "name": "Olv\u00eddate de mi",
-      "url": "https://open.spotify.com/track/1FDTx9qFA8I5d7VsQdXNC3"
+      "duration_ms": 186883,
+      "name": "A Mi Ritmo",
+      "url": "https://open.spotify.com/track/51h83YT521kYxTLng0FyRv"
     }
   ],
   "unique_name": "R&B Latino",

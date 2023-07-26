@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-450 songs - 1 day 14 hr 43 min
+452 songs - 1 day 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,8 @@
 | [Belie All Gods](https://open.spotify.com/track/0QvLYw1dPsNCvLmGcooCGV) | [Lord Belial](https://open.spotify.com/artist/7gVIcvxZLQ9mKI7k6tXQdq) | [Belie All Gods](https://open.spotify.com/album/0Em2sY5Yr5fKxP0iKtzW7f) | 5:05 | 2022-04-29 | 2022-05-28 |
 | [Bergtatt\-Ind I Fjeldkamrene](https://open.spotify.com/track/0i1xhn4lNnR2G3hUwybhW7) | [Ulver](https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv) | [Bergtatt](https://open.spotify.com/album/0IzZybUYqSYhCnt1FI5SWz) | 8:06 | 2022-07-13 | 2022-07-28 |
 | [Bergtatt\-Ind I Fjeldkamrene](https://open.spotify.com/track/54gobTrNsykhJzLP2hL1ju) | [Ulver](https://open.spotify.com/artist/6bYFkBNvayh3nGqxcPp7Sv) | [Bergtatt](https://open.spotify.com/album/5OEz7YwAQyYvaSl1pmkPCI) | 8:06 | 2022-07-13 | 2022-08-02 |
-| [Bestial Devastation \- Re\-Recorded](https://open.spotify.com/track/5NyRZzzOx5QfWpPxuqR4Mt) | [Cavalera Conspiracy](https://open.spotify.com/artist/7F1K4WlMshx23V2TTz4KwV) | [Bestial Devastation \(Re\-Recorded\)](https://open.spotify.com/album/5N7pN5cLMGEpSbfQ7TRPjG) | 3:04 | 2023-06-16 |  |
+| [Bestial Devastation \- Re\-Recorded](https://open.spotify.com/track/0qWD1JSQ3NH4bq9ZkRcDbm) | [Cavalera Conspiracy](https://open.spotify.com/artist/7F1K4WlMshx23V2TTz4KwV) | [Bestial Devastation](https://open.spotify.com/album/7daofMPFpO2A5zfIfWWJo3) | 3:04 | 2023-07-21 |  |
+| [Bestial Devastation \- Re\-Recorded](https://open.spotify.com/track/5NyRZzzOx5QfWpPxuqR4Mt) | [Cavalera Conspiracy](https://open.spotify.com/artist/7F1K4WlMshx23V2TTz4KwV) | [Bestial Devastation \(Re\-Recorded\)](https://open.spotify.com/album/5N7pN5cLMGEpSbfQ7TRPjG) | 3:04 | 2023-06-16 | 2023-07-26 |
 | [Black Crow on a Tombstone](https://open.spotify.com/track/0ceibOL5IiWDOeBv2PYUGS) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [The Age Of Nero](https://open.spotify.com/album/6aRs27tvkatPTAIE7gaj1j) | 3:50 | 2022-07-13 | 2022-07-29 |
 | [Black Crow On A Tombstone](https://open.spotify.com/track/4yx8w5d2k8Ku4QXf7eSac1) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [The Age Of Nero](https://open.spotify.com/album/4Yzl4aZZ6Qs9LvKuOIRHJw) | 3:56 | 2022-07-13 |  |
 | [Black Dragon](https://open.spotify.com/track/2ECiOFk2i28TFEZUDQXefc) | [Dissection](https://open.spotify.com/artist/6qpmcQfxhmNxNMCJUrpHwe) | [Reinkaos](https://open.spotify.com/album/4va3x8PEXjTkguSQy70YPw) | 4:48 | 2022-07-13 |  |
@@ -257,7 +258,8 @@
 | [Momentary Trails](https://open.spotify.com/track/2KAnVNkix64ZZwDQSQ6Xuy) | [Shadecrown](https://open.spotify.com/artist/27vaCCevKMJ2eS6UBxzqJQ) | [Solitarian](https://open.spotify.com/album/66xupchKxjGI4LcE8dOMG5) | 5:14 | 2021-12-17 | 2022-04-09 |
 | [Mono No Aware](https://open.spotify.com/track/2gsV4pyZk0hTkZKOGISkcF) | [Sylvaine](https://open.spotify.com/artist/5C9ocrDvsfSz8qcxG70QEe) | [Mono No Aware](https://open.spotify.com/album/5sBYlEpYJG7XDEj4BECS9P) | 9:43 | 2022-01-14 | 2022-02-11 |
 | [Moonflowers Bloom in Misery](https://open.spotify.com/track/1aE3j2yUjvfeUexBdMDKHA) | [Swallow The Sun](https://open.spotify.com/artist/0ulKlNlo0iPx5ZS6VMTHWQ) | [Moonflowers \(Deluxe Edition\)](https://open.spotify.com/album/5RuHZCFV4cYtFIrj4NIXek) | 6:19 | 2021-12-17 |  |
-| [Morbid Visions \- Re\-Recorded](https://open.spotify.com/track/3HS94Y8gl2Tly3fBmjgu69) | [Cavalera Conspiracy](https://open.spotify.com/artist/7F1K4WlMshx23V2TTz4KwV) | [Morbid Visions \(Re\-Recorded\)](https://open.spotify.com/album/4ZKPVKY1AOOL1Mm0a5idjH) | 3:37 | 2023-05-12 |  |
+| [Morbid Visions \- Re\-Recorded](https://open.spotify.com/track/3HS94Y8gl2Tly3fBmjgu69) | [Cavalera Conspiracy](https://open.spotify.com/artist/7F1K4WlMshx23V2TTz4KwV) | [Morbid Visions \(Re\-Recorded\)](https://open.spotify.com/album/4ZKPVKY1AOOL1Mm0a5idjH) | 3:37 | 2023-05-12 | 2023-07-26 |
+| [Morbid Visions \- Re\-Recorded](https://open.spotify.com/track/7c59qpYgeS1g0LRYr3Wh7z) | [Cavalera Conspiracy](https://open.spotify.com/artist/7F1K4WlMshx23V2TTz4KwV) | [Morbid Visions](https://open.spotify.com/album/2ZHqbNI33ZdAaw2i4Jdv1U) | 3:37 | 2023-07-21 |  |
 | [Moribunda](https://open.spotify.com/track/0jy5t9s6Ooqx08G7keyS6F) | [Aara](https://open.spotify.com/artist/3UpDjZ41s0rOQsDKSECKmt) | [Triade III : Nyx](https://open.spotify.com/album/4XuMfuiIXtS6yPc9nE6Zp0) | 7:36 | 2023-04-07 | 2023-05-08 |
 | [Mother North](https://open.spotify.com/track/79iREiH6mrODItQGLaidt8) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [Nemesis Divina](https://open.spotify.com/album/1R4Dava3wQxKN0As0OcQFb) | 6:25 | 2022-07-13 |  |
 | [Mother North \- Remastered 2016](https://open.spotify.com/track/2kBBRk0vuVdQjA1LH494Qz) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [Nemesis Divina](https://open.spotify.com/album/6K0rkORxLaVvOC72xW9ZgB) | 6:25 | 2022-07-13 | 2022-07-29 |

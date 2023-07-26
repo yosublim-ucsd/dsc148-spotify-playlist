@@ -460,7 +460,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 191866,
       "name": "Dentecane",
       "url": "https://open.spotify.com/track/0XJWHhigCRsq1JPmULi1ws"
@@ -680,7 +680,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-24",
+      "date_removed": null,
       "duration_ms": 174000,
       "name": "Hotel Luna",
       "url": "https://open.spotify.com/track/225CpNDvmJKuJZdCIlaSjh"
@@ -950,7 +950,7 @@
       ],
       "date_added": "2023-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 210400,
       "name": "Midnight Rendezvous",
       "url": "https://open.spotify.com/track/4Otn2jAeW577E6tVVb3gJ7"
@@ -1274,7 +1274,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-25",
+      "date_removed": null,
       "duration_ms": 229080,
       "name": "Silver Ship",
       "url": "https://open.spotify.com/track/3sWBvGaYnq0cDN6lNNNAIt"
@@ -1332,6 +1332,28 @@
       "duration_ms": 196333,
       "name": "Sogno Agitato",
       "url": "https://open.spotify.com/track/3vuYkYDHb4mSJfP0ewpBUh"
+    },
+    {
+      "album": {
+        "name": "Soul Cruiser",
+        "url": "https://open.spotify.com/album/7ydN8OWmIKaQoNLsDiQScz"
+      },
+      "artists": [
+        {
+          "name": "Sleepyard",
+          "url": "https://open.spotify.com/artist/64e3bEnNXtalk8Mft1dSyn"
+        },
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 352041,
+      "name": "Soul Cruiser",
+      "url": "https://open.spotify.com/track/6CS5Lm4wev6bipUzcxB6vG"
     },
     {
       "album": {
@@ -1598,7 +1620,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 252333,
       "name": "Time Stops",
       "url": "https://open.spotify.com/track/3r3nBeuWpbhrA0UyROJ5VS"

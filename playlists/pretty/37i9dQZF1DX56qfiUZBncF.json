@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 380036,
+  "num_followers": 380065,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YzJkNDc0NzQ2NmE1OTg1ZjQ1ZjRhNzk3OWI4MWEzM2UxZTc3MzNi",
+  "snapshot_id": "MCwwMzJiOWRmNDY4NzYzMzU4YmJkZWFlYWUyNWJhZjdkYWYyZGIwMDE3",
   "tracks": [
     {
       "added_at": "2023-01-11 21:01:15",
@@ -739,6 +739,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Concrete",
+        "url": "https://open.spotify.com/album/4ZdyRUMRbY9plmxLjQtkF1"
+      },
+      "artists": [
+        {
+          "name": "Ben Kessler",
+          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
+        }
+      ],
+      "duration_ms": 152051,
+      "name": "Concrete",
+      "url": "https://open.spotify.com/track/7HGwpUzbvszA3q7pnokHkY"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "The Juicebox",
         "url": "https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 177409,
       "name": "Bonafide (feat. Chiiild)",
       "url": "https://open.spotify.com/track/6AwhhAhVLPvaDYmfR4j3bQ"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Concrete",
-        "url": "https://open.spotify.com/album/4ZdyRUMRbY9plmxLjQtkF1"
-      },
-      "artists": [
-        {
-          "name": "Ben Kessler",
-          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
-        }
-      ],
-      "duration_ms": 152051,
-      "name": "Concrete",
-      "url": "https://open.spotify.com/track/7HGwpUzbvszA3q7pnokHkY"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -915,6 +915,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Fading",
+        "url": "https://open.spotify.com/album/7GCPAZQCDwH0jF731PGq0I"
+      },
+      "artists": [
+        {
+          "name": "Vallis Alps",
+          "url": "https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm"
+        }
+      ],
+      "duration_ms": 282701,
+      "name": "Fading",
+      "url": "https://open.spotify.com/track/1H8qj01KxNgHyKHsF5QHXB"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "The Juice: Vol. I",
         "url": "https://open.spotify.com/album/3No5rGRQefAlVJgWusDEwQ"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 187466,
       "name": "The Pines",
       "url": "https://open.spotify.com/track/78YCcccbjHCFBFnboEBtpg"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Fading",
-        "url": "https://open.spotify.com/album/7GCPAZQCDwH0jF731PGq0I"
-      },
-      "artists": [
-        {
-          "name": "Vallis Alps",
-          "url": "https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm"
-        }
-      ],
-      "duration_ms": 282701,
-      "name": "Fading",
-      "url": "https://open.spotify.com/track/1H8qj01KxNgHyKHsF5QHXB"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Iridescent",
+        "url": "https://open.spotify.com/album/7kHDeoEZxg9OfOMr13b2IU"
+      },
+      "artists": [
+        {
+          "name": "Ayoni",
+          "url": "https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6"
+        }
+      ],
+      "duration_ms": 202906,
+      "name": "Santa Monica",
+      "url": "https://open.spotify.com/track/2oEyCPWce5scvt5k5eBL1M"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "Heart (Alternative Version)",
         "url": "https://open.spotify.com/album/3raFKyVQMl05qPHSDUUjcS"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 175862,
       "name": "Heart - Alternative Version",
       "url": "https://open.spotify.com/track/44EPCM1s8YWZKGUTTcbxOB"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Iridescent",
-        "url": "https://open.spotify.com/album/7kHDeoEZxg9OfOMr13b2IU"
-      },
-      "artists": [
-        {
-          "name": "Ayoni",
-          "url": "https://open.spotify.com/artist/2Tju7nLsAMD6RTBna56hj6"
-        }
-      ],
-      "duration_ms": 202906,
-      "name": "Santa Monica",
-      "url": "https://open.spotify.com/track/2oEyCPWce5scvt5k5eBL1M"
     },
     {
       "added_at": "2023-01-11 21:01:15",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2023-01-11 21:01:15",
       "album": {
+        "name": "Size of Relief",
+        "url": "https://open.spotify.com/album/0DdOMiD6kPE0Kv119dNZCI"
+      },
+      "artists": [
+        {
+          "name": "Young & Sick",
+          "url": "https://open.spotify.com/artist/3pQXFWbvLit77NpvNmOo3k"
+        }
+      ],
+      "duration_ms": 246118,
+      "name": "Queen of the Valley",
+      "url": "https://open.spotify.com/track/164PqKYitMXTrr8nMt7owN"
+    },
+    {
+      "added_at": "2023-01-11 21:01:15",
+      "album": {
         "name": "WONDER (reimagined)",
         "url": "https://open.spotify.com/album/7tnVzkSZO9tTv9EGhxQ5d8"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 240108,
       "name": "Fallss",
       "url": "https://open.spotify.com/track/3rO7acmvb3TTaFBUD9jI1i"
-    },
-    {
-      "added_at": "2023-01-11 21:01:15",
-      "album": {
-        "name": "Size of Relief",
-        "url": "https://open.spotify.com/album/0DdOMiD6kPE0Kv119dNZCI"
-      },
-      "artists": [
-        {
-          "name": "Young & Sick",
-          "url": "https://open.spotify.com/artist/3pQXFWbvLit77NpvNmOo3k"
-        }
-      ],
-      "duration_ms": 246118,
-      "name": "Queen of the Valley",
-      "url": "https://open.spotify.com/track/164PqKYitMXTrr8nMt7owN"
     },
     {
       "added_at": "2023-01-11 21:01:15",

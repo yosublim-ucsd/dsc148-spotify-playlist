@@ -1,12 +1,12 @@
 {
   "description": "If it's buzzing, it's here. The hottest new songs of the week. Cover: Ice Spice",
-  "num_followers": 870301,
+  "num_followers": 870364,
   "original_name": "Singled Out",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2FhMjA2Y2NlNDJiMDQ4NGIwM2ExMzFhYjA5ZWQ0YjljOTIwOTM1",
+  "snapshot_id": "MCw5OTkxZDZhZWJkNGNjYmIwMzYwYzFlZWFmNmJiYjZmNGVjNzI2N2Iw",
   "tracks": [
     {
       "added_at": "2023-07-24 21:07:48",
@@ -247,7 +247,7 @@
     {
       "added_at": "2023-07-24 21:07:48",
       "album": {
-        "name": "She Knows (With Akon)",
+        "name": "She Knows (with Akon)",
         "url": "https://open.spotify.com/album/0pj4zHdT9FsFOkpA9Qic4F"
       },
       "artists": [
@@ -269,7 +269,7 @@
         }
       ],
       "duration_ms": 135706,
-      "name": "She Knows - With Akon",
+      "name": "She Knows - with Akon",
       "url": "https://open.spotify.com/track/3zkb0907pOJqU7m3Qh5hB7"
     },
     {

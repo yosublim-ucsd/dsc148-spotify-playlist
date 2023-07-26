@@ -1550,10 +1550,32 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 158960,
       "name": "Love Theme From \"The Godfather\"",
       "url": "https://open.spotify.com/track/39zu6JGd6tvRNsqyK78RLk"
+    },
+    {
+      "album": {
+        "name": "Love Theme From \"The Godfather\" / The Godfather Waltz (Main Title)",
+        "url": "https://open.spotify.com/album/7hBpMvQgZzFVt8LQOsUJFY"
+      },
+      "artists": [
+        {
+          "name": "Nino Rota",
+          "url": "https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo"
+        },
+        {
+          "name": "Carlo Savina",
+          "url": "https://open.spotify.com/artist/0JPH3a8DUy38JvZsdhmEnC"
+        }
+      ],
+      "date_added": "2023-02-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158960,
+      "name": "Love Theme From \"The Godfather\" - From \"The Godfather\" Soundtrack",
+      "url": "https://open.spotify.com/track/0OJ0eNR9c53PkfXuwX3DJ0"
     },
     {
       "album": {

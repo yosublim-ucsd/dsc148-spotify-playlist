@@ -4,7 +4,7 @@
 
 > Go hard or go home
 
-152 songs - 8 hr 24 min
+153 songs - 8 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Go Down Low](https://open.spotify.com/track/6QCs2VEwYeSrhutMPGw5Vs) | [Crude Intentions](https://open.spotify.com/artist/5zXPv1332E2IWXvjotBr09), [NLCK](https://open.spotify.com/artist/5vG7sNDSCANSuZ71jkHxCL) | [Go Down Low](https://open.spotify.com/album/7tWUHSKe7LYJGSNT1NFLTb) | 3:32 | 2023-02-09 | 2023-03-25 |
 | [Go Mental](https://open.spotify.com/track/3RFdqTUaDhCb6sZiLJ2b6j) | [Audiotricz](https://open.spotify.com/artist/52I8HbScEEvgwiiSDaM7gP) | [Go Mental](https://open.spotify.com/album/15A99aAZGYFpTuwvzQsjsu) | 2:45 | 2022-12-08 | 2023-06-23 |
 | [GO STUPID](https://open.spotify.com/track/4qfD7xjF4ZhteeAc6B7TjA) | [Sickmode](https://open.spotify.com/artist/5PbgCU02dfdBCAzpOaNmYW) | [GO STUPID](https://open.spotify.com/album/2EKRY3rSfqZQmUfkbVzL5q) | 3:37 | 2022-12-08 | 2023-02-10 |
-| [Goodbye \(feat\. Xillions\) \- Crude Intentions & Dr\. Rude Remix](https://open.spotify.com/track/4Fn9Z5LVGc4f0Qq6L53eEg) | [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u), [Xillions](https://open.spotify.com/artist/4bi8SmsdSp5AoD6RFZjyjW), [Crude Intentions](https://open.spotify.com/artist/5zXPv1332E2IWXvjotBr09) | [Goodbye \(feat\. Xillions\) \[Crude Intentions & Dr\. Rude Remix\]](https://open.spotify.com/album/6p0ibrMdpqhsMu67uNEQuq) | 2:55 | 2022-12-08 |  |
+| [Goodbye \(feat\. Xillions\) \- Crude Intentions & Dr\. Rude Remix](https://open.spotify.com/track/4Fn9Z5LVGc4f0Qq6L53eEg) | [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u), [Xillions](https://open.spotify.com/artist/4bi8SmsdSp5AoD6RFZjyjW), [Crude Intentions](https://open.spotify.com/artist/5zXPv1332E2IWXvjotBr09) | [Goodbye \(feat\. Xillions\) \[Crude Intentions & Dr\. Rude Remix\]](https://open.spotify.com/album/6p0ibrMdpqhsMu67uNEQuq) | 2:55 | 2022-12-08 | 2023-07-26 |
 | [Halo](https://open.spotify.com/track/0ln00F04EahMrWIb1Qijqo) | [Always Mirin](https://open.spotify.com/artist/1bHV3u8ZUs2J2XNYxpvF8y) | [Halo](https://open.spotify.com/album/7ai7NJEVkIVTe2lPfYfC1X) | 2:50 | 2023-03-30 |  |
 | [Hard To Tell](https://open.spotify.com/track/58qwngsMklWQLew2rA9Nbg) | [Radical Redemption](https://open.spotify.com/artist/3Ij56hbjOTHq8RgutQwfxC) | [Hard To Tell](https://open.spotify.com/album/2i2ZfgWXTGG5i9LWIgmXWj) | 3:15 | 2022-12-08 |  |
 | [Heart On Fire](https://open.spotify.com/track/6tv7rh2WOO6WEbzYI9aUYd) | [Malice](https://open.spotify.com/artist/0endjvK01uydkCL84mD3Z5) | [Heart On Fire](https://open.spotify.com/album/2klKsbqt3GHjUSDekdotrL) | 2:31 | 2023-04-25 |  |
@@ -125,6 +125,7 @@
 | [The Gambling Zone](https://open.spotify.com/track/3CdD2Hqu1JrwonhkYr8fiv) | [Rejecta](https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof), [Restrained](https://open.spotify.com/artist/2ym6Gwn7qNzgiAm6VA3nsV) | [The Gambling Zone](https://open.spotify.com/album/3jWZ3na0qjuAGh54DK809V) | 4:12 | 2022-12-08 | 2023-04-07 |
 | [The Get Back](https://open.spotify.com/track/22wegVv3MYQOu4WgVbhaXp) | [The Prophet](https://open.spotify.com/artist/2iRqqPkOyIvvb7qFZN1Onz), [Frontliner](https://open.spotify.com/artist/7momuad2Twkv5O7MY3dODa) | [The Get Back](https://open.spotify.com/album/408QsFdYz9ZT0jq9uqAyOY) | 2:10 | 2023-06-01 |  |
 | [The Keymaker](https://open.spotify.com/track/54Qx60cjse61OwpSV3uFV0) | [Rejecta](https://open.spotify.com/artist/2lmihUu4FzVOepdJpDDrof) | [The Keymaker](https://open.spotify.com/album/2P5DmfM29EIvlYoFiLnAJG) | 3:07 | 2022-12-08 | 2023-05-11 |
+| [The Kraken](https://open.spotify.com/track/398aJwlA11z0Nep0NQlORu) | [Atmozfears](https://open.spotify.com/artist/0MBGxwmCdXdO26ojaNcT64), [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [The Kraken](https://open.spotify.com/album/2LmBua3Yh0Y5b5N83kDRKK) | 4:32 | 2023-07-25 |  |
 | [The Limelight](https://open.spotify.com/track/5Q1GQOVxIYkz3UwoPIBtcY) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE) | [The Limelight](https://open.spotify.com/album/4yKbI3bQM6YR4TGvAdnE5j) | 4:32 | 2022-12-15 | 2023-04-07 |
 | [The Night \- Hardstyle Mix](https://open.spotify.com/track/3XikEye0OgF9rJ4BSCtLp1) | [Rob & Chris](https://open.spotify.com/artist/4TpbEVsX4U0Cs9QhhI2JyG), [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT) | [The Night \(Hardstyle Mix\)](https://open.spotify.com/album/7foUHVIJy7YFBDP1OFskL1) | 2:28 | 2023-01-26 |  |
 | [The Nights \- Hardstyle Edit](https://open.spotify.com/track/6V074QUpLYTJCaCJMfvX6q) | [Thymo](https://open.spotify.com/artist/0Gmzk17bmcYkxnZqyOWfbn) | [The Nights \(Hardstyle Edit\)](https://open.spotify.com/album/44i8OiSQzIOYJ69XyxooPP) | 2:30 | 2023-03-30 |  |

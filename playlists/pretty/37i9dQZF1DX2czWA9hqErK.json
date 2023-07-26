@@ -1,12 +1,12 @@
 {
   "description": "Laid back sounds to see you through your day.",
-  "num_followers": 419305,
+  "num_followers": 419316,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YzA5ZDgwNTUzZGY5MTE4YjlkZDYzNTQxNGNiZGRhOTQwNzVjOGY4",
+  "snapshot_id": "MCxkMGUzZjYxZDBkNjYwZTAyNDY3OTM2YzBmMjczMTkxOTUzNWVhMzQz",
   "tracks": [
     {
       "added_at": "2023-07-18 16:45:57",
@@ -147,18 +147,18 @@
     {
       "added_at": "2023-07-18 16:45:57",
       "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
       },
       "artists": [
         {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
         }
       ],
-      "duration_ms": 201800,
-      "name": "Snooze",
-      "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
+      "duration_ms": 222369,
+      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
     },
     {
       "added_at": "2023-07-18 16:45:57",
@@ -179,18 +179,18 @@
     {
       "added_at": "2023-07-18 16:45:57",
       "album": {
-        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 222369,
-      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
+      "duration_ms": 201800,
+      "name": "Snooze",
+      "url": "https://open.spotify.com/track/4iZ4pt7kvcaH6Yo8UoZ4s2"
     },
     {
       "added_at": "2023-07-18 16:45:57",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-07-18 16:45:57",
       "album": {
-        "name": "Broken By Desire To Be Heavenly Sent",
-        "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 210880,
-      "name": "Wish You The Best",
-      "url": "https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr"
-    },
-    {
-      "added_at": "2023-07-18 16:45:57",
-      "album": {
         "name": "From The Start",
         "url": "https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 169573,
       "name": "From The Start",
       "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
+    },
+    {
+      "added_at": "2023-07-18 16:45:57",
+      "album": {
+        "name": "Broken By Desire To Be Heavenly Sent",
+        "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 210880,
+      "name": "Wish You The Best",
+      "url": "https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr"
     },
     {
       "added_at": "2023-07-18 16:45:57",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-07-18 16:45:57",
       "album": {
-        "name": "Dancing In The Courthouse",
-        "url": "https://open.spotify.com/album/6y1x1MUnhsqTIRkp6KpYkq"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 157563,
-      "name": "Dancing In The Courthouse",
-      "url": "https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ"
-    },
-    {
-      "added_at": "2023-07-18 16:45:57",
-      "album": {
         "name": "Walk Me Home...",
         "url": "https://open.spotify.com/album/02J3tX2gpJqKArEzWsFYTz"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 172514,
       "name": "NIGHTS LIKE THESE",
       "url": "https://open.spotify.com/track/33vZRjxJScapmRShRJq8I0"
+    },
+    {
+      "added_at": "2023-07-18 16:45:57",
+      "album": {
+        "name": "Dancing In The Courthouse",
+        "url": "https://open.spotify.com/album/6y1x1MUnhsqTIRkp6KpYkq"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 157563,
+      "name": "Dancing In The Courthouse",
+      "url": "https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ"
     },
     {
       "added_at": "2023-07-18 16:45:57",
@@ -855,22 +855,6 @@
     {
       "added_at": "2023-07-18 16:45:57",
       "album": {
-        "name": "We Were Never Really Friends",
-        "url": "https://open.spotify.com/album/2S7z1CuntMrp5YhDvVRQA9"
-      },
-      "artists": [
-        {
-          "name": "Bruno Major",
-          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
-        }
-      ],
-      "duration_ms": 204325,
-      "name": "We Were Never Really Friends",
-      "url": "https://open.spotify.com/track/3oUam1JxcuLVFKaAr5MWnN"
-    },
-    {
-      "added_at": "2023-07-18 16:45:57",
-      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 366004,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/6bGMSP3H9YqkmaLnaJTIoF"
+    },
+    {
+      "added_at": "2023-07-18 16:45:57",
+      "album": {
+        "name": "We Were Never Really Friends",
+        "url": "https://open.spotify.com/album/2S7z1CuntMrp5YhDvVRQA9"
+      },
+      "artists": [
+        {
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+        }
+      ],
+      "duration_ms": 204325,
+      "name": "We Were Never Really Friends",
+      "url": "https://open.spotify.com/track/3oUam1JxcuLVFKaAr5MWnN"
     },
     {
       "added_at": "2023-07-18 16:45:57",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-07-18 16:45:57",
       "album": {
-        "name": "The Good Witch",
-        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 179453,
-      "name": "Two Weeks Ago",
-      "url": "https://open.spotify.com/track/0bnUDXvwi2s8924tLTDg3K"
-    },
-    {
-      "added_at": "2023-07-18 16:45:57",
-      "album": {
         "name": "Gold Rush Kid",
         "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 225728,
       "name": "Sweetest Human Being Alive",
       "url": "https://open.spotify.com/track/1zwplwLfK5H0D86lPYkxBG"
+    },
+    {
+      "added_at": "2023-07-18 16:45:57",
+      "album": {
+        "name": "The Good Witch",
+        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 179453,
+      "name": "Two Weeks Ago",
+      "url": "https://open.spotify.com/track/0bnUDXvwi2s8924tLTDg3K"
     },
     {
       "added_at": "2023-07-18 16:45:57",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-07-18 16:45:57",
       "album": {
-        "name": "favourite girl",
-        "url": "https://open.spotify.com/album/2CY6ds96kJPwcSlaiSuZMS"
-      },
-      "artists": [
-        {
-          "name": "Rio Rainz",
-          "url": "https://open.spotify.com/artist/1r6P4oTQ7kUvMXTkNjrb4C"
-        }
-      ],
-      "duration_ms": 154560,
-      "name": "favourite girl",
-      "url": "https://open.spotify.com/track/6VaZbfreoleaP0yyWErMAf"
-    },
-    {
-      "added_at": "2023-07-18 16:45:57",
-      "album": {
         "name": "The Giver",
         "url": "https://open.spotify.com/album/49aUKXpJ9U0llET9mhgOqI"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 227209,
       "name": "The Giver",
       "url": "https://open.spotify.com/track/7A3uhvZBmoLzCCFQT14lGU"
+    },
+    {
+      "added_at": "2023-07-18 16:45:57",
+      "album": {
+        "name": "favourite girl",
+        "url": "https://open.spotify.com/album/2CY6ds96kJPwcSlaiSuZMS"
+      },
+      "artists": [
+        {
+          "name": "Rio Rainz",
+          "url": "https://open.spotify.com/artist/1r6P4oTQ7kUvMXTkNjrb4C"
+        }
+      ],
+      "duration_ms": 154560,
+      "name": "favourite girl",
+      "url": "https://open.spotify.com/track/6VaZbfreoleaP0yyWErMAf"
     },
     {
       "added_at": "2023-07-18 16:45:57",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-07-18 16:45:57",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/2GKhkvJTatWhOmgpCCJ8Hn"
-      },
-      "artists": [
-        {
-          "name": "Lucy Spraggan",
-          "url": "https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N"
-        }
-      ],
-      "duration_ms": 214517,
-      "name": "Balance",
-      "url": "https://open.spotify.com/track/7BgNOCMi4rACAAFwy7o9mu"
-    },
-    {
-      "added_at": "2023-07-18 16:45:57",
-      "album": {
         "name": "Without You",
         "url": "https://open.spotify.com/album/2PK5nQeplHKyoKyjv8T20w"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 152000,
       "name": "Without You",
       "url": "https://open.spotify.com/track/26AXhNPL6CBLlsV49j5opa"
+    },
+    {
+      "added_at": "2023-07-18 16:45:57",
+      "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/2GKhkvJTatWhOmgpCCJ8Hn"
+      },
+      "artists": [
+        {
+          "name": "Lucy Spraggan",
+          "url": "https://open.spotify.com/artist/3QLPy7F0m9XgChp2Lk9B3N"
+        }
+      ],
+      "duration_ms": 214517,
+      "name": "Balance",
+      "url": "https://open.spotify.com/track/7BgNOCMi4rACAAFwy7o9mu"
     },
     {
       "added_at": "2023-07-18 16:45:57",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-07-18 16:45:57",
       "album": {
-        "name": "Angels & Queens (Deluxe)",
-        "url": "https://open.spotify.com/album/1WA44V7P0nv1spaWdsrxD2"
-      },
-      "artists": [
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 239533,
-      "name": "Great Wind",
-      "url": "https://open.spotify.com/track/05XH6Bl3LxOCc1PsN3SyIj"
-    },
-    {
-      "added_at": "2023-07-18 16:45:57",
-      "album": {
         "name": "Broken Memories",
         "url": "https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 130042,
       "name": "Sad Anymore",
       "url": "https://open.spotify.com/track/3YYWgUWXcK1Bo9dpnZdAEr"
+    },
+    {
+      "added_at": "2023-07-18 16:45:57",
+      "album": {
+        "name": "Angels & Queens (Deluxe)",
+        "url": "https://open.spotify.com/album/1WA44V7P0nv1spaWdsrxD2"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 239533,
+      "name": "Great Wind",
+      "url": "https://open.spotify.com/track/05XH6Bl3LxOCc1PsN3SyIj"
     },
     {
       "added_at": "2023-07-18 16:45:57",

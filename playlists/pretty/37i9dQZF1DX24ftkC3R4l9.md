@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24ftkC3R4l9.md) - [plain]
 
 > Max Richter's Takeover selection, as previously featured on <a href="spotify:user:spotify:playlist:37i9dQZF1DX9c7yCloFHHL">Ambient X</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,820 likes - 21 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,861 likes - 21 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,4 +30,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24ftkC3R4l9.md) - [plain]
 | 20 | [Violin Sonata No\. 2 in A Minor, BWV 1003: IV\. Allegro](https://open.spotify.com/track/2djkDNY0TN5C34OZvZmxHx) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Christiane Edinger](https://open.spotify.com/artist/2qn7oYvrCrKti56IQXOyLt) | [Bach: Sonatas and Partitas for Solo Violin, Vol\. 1](https://open.spotify.com/album/4Jj0A2cAFVSdYkAdhZ4Oju) | 5:08 |
 | 21 | [Find Our Way \(Arr\. Clements\)](https://open.spotify.com/track/0surAOdlCORVWoKRg2V6ef) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5), [Sebastian Plano](https://open.spotify.com/artist/7epYP6gVqTvHaKG7iSMAzr), [Voces8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc), [Gabriella Swallow](https://open.spotify.com/artist/6AwvMaVqPLCm4wOjmq2WFT) | [Infinity](https://open.spotify.com/album/74eIgzLtcbJVr4NIajGzrb) | 3:47 |
 
-Snapshot ID: `MCw5MTYyYWNjYWJhMjExNDdiNjk0MTJhYmZkNDQ2NGY3MWYyYTQ0ZWJl`
+Snapshot ID: `MCxkYTU0ZDQyMjkxZDczNmQzMjg5NTY3ZTljNDUyMTVjMjhmZTQxZDc2`

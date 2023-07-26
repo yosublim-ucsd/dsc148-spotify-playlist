@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 
 > Nothing but the best in modern country music\. Cover: Dan + Shay
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,282 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 523,357 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSK8os4XIQBk.md) - [plain]
 | 74 | [What Colour You Drive](https://open.spotify.com/track/5Zp4gbFOTHdzuTCdiTbRdn) | [Hunter Brothers](https://open.spotify.com/artist/13WkWlzyPWxHSfnNQxPsFT) | [What Colour You Drive](https://open.spotify.com/album/0pcnBEavBIxMwpz7Oi46Ro) | 3:48 |
 | 75 | [Same Car](https://open.spotify.com/track/6yCW8qaDobbzDQS4qjTfJO) | [Madeline Merlo](https://open.spotify.com/artist/4KH3T3jZJtfFtNyfBqwUuu) | [Same Car](https://open.spotify.com/album/18QJ8qka8jU6I9P4SAgmGo) | 3:39 |
 
-Snapshot ID: `MCwzOTU2NjIyZjk4OTJiOWEzOGQ1NDA1YTQwOThlMjA3OTVhNTU1NTBm`
+Snapshot ID: `MCw0MzY3ZDkzYTNkNTVmZWE5ODNiMDlhNTMzNjVhZjE3MjIyZjE3MTJm`

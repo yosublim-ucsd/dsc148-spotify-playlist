@@ -1,12 +1,12 @@
 {
   "description": "All the indescribable feelings that music gives you. Lil Yachty's psych album >",
-  "num_followers": 1097245,
+  "num_followers": 1097374,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDM0MDNmYWNjMDJiMGUzYjNiNGE1NjRlN2ViMGUwMmFhNmIxMjM0",
+  "snapshot_id": "MCxjMTYwYzE2OWZkNjIwZjViMDJmNDFhOTQ0YTFlY2Q3MWMwMWUyNjc3",
   "tracks": [
     {
       "added_at": "2023-01-27 20:16:55",
@@ -23,22 +23,6 @@
       "duration_ms": 229804,
       "name": "drive ME crazy!",
       "url": "https://open.spotify.com/track/6luBKkFUt5wTwz7hpLhp12"
-    },
-    {
-      "added_at": "2023-07-18 18:30:00",
-      "album": {
-        "name": "the way things go",
-        "url": "https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 187800,
-      "name": "the way things go",
-      "url": "https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv"
     },
     {
       "added_at": "2023-07-13 22:54:30",
@@ -73,6 +57,22 @@
       "url": "https://open.spotify.com/track/23Suz2um7Wp2WULUePemCv"
     },
     {
+      "added_at": "2023-07-25 17:52:53",
+      "album": {
+        "name": "Older",
+        "url": "https://open.spotify.com/album/7BZ8EqAsTS7GNfU8MhMCpe"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 415969,
+      "name": "Older",
+      "url": "https://open.spotify.com/track/5ejTKcE8LBKrPD9ZTwuMeJ"
+    },
+    {
       "added_at": "2023-07-05 08:00:00",
       "album": {
         "name": "In the End It Always Does",
@@ -89,6 +89,22 @@
       "url": "https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n"
     },
     {
+      "added_at": "2023-07-18 18:30:00",
+      "album": {
+        "name": "the way things go",
+        "url": "https://open.spotify.com/album/2rLVMQbIw1C8JHmad6H0Pk"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 187800,
+      "name": "the way things go",
+      "url": "https://open.spotify.com/track/5sA3i6SGkILMiZW6Fhx4wv"
+    },
+    {
       "added_at": "2023-07-11 18:07:46",
       "album": {
         "name": "Sweet Bonita",
@@ -103,6 +119,42 @@
       "duration_ms": 189882,
       "name": "Sweet Bonita",
       "url": "https://open.spotify.com/track/6HeCWexSUG87Uok9hsrE83"
+    },
+    {
+      "added_at": "2023-06-30 04:05:22",
+      "album": {
+        "name": "Speed Drive (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 117809,
+      "name": "Speed Drive (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2"
+    },
+    {
+      "added_at": "2023-07-19 19:29:09",
+      "album": {
+        "name": "Blue Jeans Remixes",
+        "url": "https://open.spotify.com/album/6IQC6W4qrTWIQmUmNGFyKo"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        },
+        {
+          "name": "RAC",
+          "url": "https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC"
+        }
+      ],
+      "duration_ms": 218213,
+      "name": "Blue Jeans - RAC Mix",
+      "url": "https://open.spotify.com/track/7JVNRVPeXFAOdMrxOHNjVv"
     },
     {
       "added_at": "2023-07-05 08:00:00",
@@ -129,26 +181,6 @@
       "url": "https://open.spotify.com/track/6eSlDHA3XYLha1e0z8I9DO"
     },
     {
-      "added_at": "2023-07-21 05:48:16",
-      "album": {
-        "name": "Famous Last Words (An Ode to Eaters)",
-        "url": "https://open.spotify.com/album/47mfwMreABCnlLm7EEtHsB"
-      },
-      "artists": [
-        {
-          "name": "1017 ALYX 9SM",
-          "url": "https://open.spotify.com/artist/72Kzyue7ShXymPjcjOZwHk"
-        },
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 202867,
-      "name": "Famous Last Words (An Ode to Eaters)",
-      "url": "https://open.spotify.com/track/7bpfZYrS4dQKxiuj6QiRaX"
-    },
-    {
       "added_at": "2023-04-28 04:00:00",
       "album": {
         "name": "as if",
@@ -163,6 +195,22 @@
       "duration_ms": 191929,
       "name": "as if",
       "url": "https://open.spotify.com/track/1cFZRfy12JX983GcY15Dlr"
+    },
+    {
+      "added_at": "2023-07-25 21:09:55",
+      "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/1QqipMXWzJhr6yfcNKTp8B"
+      },
+      "artists": [
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "duration_ms": 138800,
+      "name": "Yuck",
+      "url": "https://open.spotify.com/track/5cYEuFqzITZlZzpoR1sHvu"
     },
     {
       "added_at": "2023-07-07 18:45:59",
@@ -197,6 +245,42 @@
       "url": "https://open.spotify.com/track/3p84R45PM75ngq8XRoe45o"
     },
     {
+      "added_at": "2023-07-25 17:52:53",
+      "album": {
+        "name": "Doubt",
+        "url": "https://open.spotify.com/album/1vezGOGezdPu9GzJaFEjZF"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 155733,
+      "name": "Doubt",
+      "url": "https://open.spotify.com/track/6zGXpYNIkVYy5QRmj9Qlg4"
+    },
+    {
+      "added_at": "2023-07-21 05:48:16",
+      "album": {
+        "name": "Famous Last Words (An Ode to Eaters)",
+        "url": "https://open.spotify.com/album/47mfwMreABCnlLm7EEtHsB"
+      },
+      "artists": [
+        {
+          "name": "1017 ALYX 9SM",
+          "url": "https://open.spotify.com/artist/72Kzyue7ShXymPjcjOZwHk"
+        },
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 202867,
+      "name": "Famous Last Words (An Ode to Eaters)",
+      "url": "https://open.spotify.com/track/7bpfZYrS4dQKxiuj6QiRaX"
+    },
+    {
       "added_at": "2023-07-21 05:48:16",
       "album": {
         "name": "Soft Words",
@@ -211,26 +295,6 @@
       "duration_ms": 198000,
       "name": "Soft Words",
       "url": "https://open.spotify.com/track/5s4jURjJx4bEPAq8FuZrtO"
-    },
-    {
-      "added_at": "2023-07-19 19:29:09",
-      "album": {
-        "name": "Blue Jeans Remixes",
-        "url": "https://open.spotify.com/album/6IQC6W4qrTWIQmUmNGFyKo"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        },
-        {
-          "name": "RAC",
-          "url": "https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC"
-        }
-      ],
-      "duration_ms": 218213,
-      "name": "Blue Jeans - RAC Mix",
-      "url": "https://open.spotify.com/track/7JVNRVPeXFAOdMrxOHNjVv"
     },
     {
       "added_at": "2023-05-02 15:43:51",
@@ -347,22 +411,6 @@
       "duration_ms": 213237,
       "name": "Prescription",
       "url": "https://open.spotify.com/track/0ZlTm4xJKaSU98ZLza858W"
-    },
-    {
-      "added_at": "2023-07-19 05:04:41",
-      "album": {
-        "name": "Kids Driving The Elevator",
-        "url": "https://open.spotify.com/album/11q7OSad2MdkC3eh2kEZlO"
-      },
-      "artists": [
-        {
-          "name": "Micah Preite",
-          "url": "https://open.spotify.com/artist/2jx7boBXTsMt8NvBRH4gYg"
-        }
-      ],
-      "duration_ms": 181781,
-      "name": "Kids Driving The Elevator",
-      "url": "https://open.spotify.com/track/2pzPC40SA14bElnW9tqgoI"
     },
     {
       "added_at": "2023-07-07 04:00:00",
@@ -597,22 +645,6 @@
       "url": "https://open.spotify.com/track/2MMHDP5jHn6oNoBJvEA88L"
     },
     {
-      "added_at": "2023-06-30 04:05:22",
-      "album": {
-        "name": "Speed Drive (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/6MLx7SZjcmMHNUJc1Tcir0"
-      },
-      "artists": [
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 117809,
-      "name": "Speed Drive (From Barbie The Album)",
-      "url": "https://open.spotify.com/track/5VxmI3IdgAxWVvUnJoLuY2"
-    },
-    {
       "added_at": "2023-07-13 22:54:30",
       "album": {
         "name": "Sunburn",
@@ -643,6 +675,22 @@
       "duration_ms": 124080,
       "name": "Coffee Shop",
       "url": "https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI"
+    },
+    {
+      "added_at": "2023-07-19 05:04:41",
+      "album": {
+        "name": "Kids Driving The Elevator",
+        "url": "https://open.spotify.com/album/11q7OSad2MdkC3eh2kEZlO"
+      },
+      "artists": [
+        {
+          "name": "Micah Preite",
+          "url": "https://open.spotify.com/artist/2jx7boBXTsMt8NvBRH4gYg"
+        }
+      ],
+      "duration_ms": 181781,
+      "name": "Kids Driving The Elevator",
+      "url": "https://open.spotify.com/track/2pzPC40SA14bElnW9tqgoI"
     },
     {
       "added_at": "2023-06-30 04:14:15",
@@ -1213,22 +1261,6 @@
       "url": "https://open.spotify.com/track/2eGEIhx0owrAgHCyYR0QUr"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Since September",
-        "url": "https://open.spotify.com/album/6lvciV8L3fuHDz2bxPrbHg"
-      },
-      "artists": [
-        {
-          "name": "Walter The Producer",
-          "url": "https://open.spotify.com/artist/59QOcYlBSqJMi5rTHcwplJ"
-        }
-      ],
-      "duration_ms": 182307,
-      "name": "Since September",
-      "url": "https://open.spotify.com/track/1bB04geBJPO5dLx51CWj5V"
-    },
-    {
       "added_at": "2023-06-23 04:00:00",
       "album": {
         "name": "2D",
@@ -1371,22 +1403,6 @@
       "duration_ms": 213089,
       "name": "I am not the sun",
       "url": "https://open.spotify.com/track/5LgiT8dSS0vTeyJBq7bS4i"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Holdup",
-        "url": "https://open.spotify.com/album/0xwKLtHe9vEa7a4w88guxk"
-      },
-      "artists": [
-        {
-          "name": "Ethan Tasch",
-          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
-        }
-      ],
-      "duration_ms": 155262,
-      "name": "Holdup",
-      "url": "https://open.spotify.com/track/698FjMKtAofPXufwpCbsxo"
     },
     {
       "added_at": "2023-04-24 22:21:03",

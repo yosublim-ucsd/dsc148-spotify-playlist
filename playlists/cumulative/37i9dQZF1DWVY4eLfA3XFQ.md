@@ -4,7 +4,7 @@
 
 > Tech house technicians, featuring Cloonee
 
-1,185 songs - 2 day 20 hr 40 min
+1,186 songs - 2 day 20 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Carry On](https://open.spotify.com/track/0MzErqKtUmrdmCCNi8QAIA) | [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7), [Amaal](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz) | [Carry On](https://open.spotify.com/album/5jKSODSBHwVLaQvJ6nivsY) | 2:35 | 2023-01-27 | 2023-04-04 |
 | [Case Of The Ex \(feat\. Mya Francis\)](https://open.spotify.com/track/0jwGDGBIyzdsNxYkj7vNUb) | [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt), [N.F.I](https://open.spotify.com/artist/1UmSNiqXtkwAXtzdejWypd), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Mya Francis](https://open.spotify.com/artist/0kfbyRaQxHrJavbstTdvrU) | [Case Of The Ex \(feat\. Mya Francis\)](https://open.spotify.com/album/0S5Baqi47D7SIXRlheqPVM) | 2:07 | 2023-02-24 | 2023-05-20 |
 | [Chase The Ace](https://open.spotify.com/track/0yB7ZYnJqp8GBpHV4fk4nI) | [AZETE](https://open.spotify.com/artist/5e6nRKm8reY5xeYhC7efVC) | [Chase The Ace EP](https://open.spotify.com/album/3SygSCRnYOXB2HyBY9qBKi) | 2:59 | 2022-03-11 | 2022-06-04 |
+| [Chase The Sun \- VIP](https://open.spotify.com/track/5KGDSRODIjVBAN040ovdQw) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci) | [Chase The Sun \(VIP\)](https://open.spotify.com/album/162y1Nz7mvmRpChNXHQNwu) | 4:01 | 2023-07-21 |  |
 | [Check Out](https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Check Out](https://open.spotify.com/album/1i9flcfwW08i5ynf4YZHsb) | 2:54 | 2021-11-26 | 2022-04-23 |
 | [Cherry Pop](https://open.spotify.com/track/1ChclGQktTSCb8KM6hY1CR) | [ZOOTAH](https://open.spotify.com/artist/7DyqaNyG0Y8bztrBWBdKo1), [Mingue](https://open.spotify.com/artist/4esHHdhDN4oeg9zYkAFpUs) | [Cherry Pop](https://open.spotify.com/album/6bP0HBYULtzWMS0Z4EURUa) | 2:02 | 2023-04-28 | 2023-06-10 |
 | [Chicago Gangsta](https://open.spotify.com/track/5RjWYXb8eJgaswm9GXTSQK) | [Gettoblaster](https://open.spotify.com/artist/5LGa1U6Mwiib6ocVuJItcG), [Robert Armani](https://open.spotify.com/artist/3sHkYrW1ZXf3juwNvnxQO6) | [Chicago Gangsta](https://open.spotify.com/album/46TOKEQIER2uMqWliTkY0g) | 5:22 | 2022-04-22 | 2022-05-07 |
@@ -220,7 +221,7 @@
 | [Dance Lapse](https://open.spotify.com/track/5wbxaVhha6KUXecFt6vwga) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5), [Prok & Fitch](https://open.spotify.com/artist/62akbR2hpk0ArA98zOYNys) | [Dance Lapse](https://open.spotify.com/album/2b4NPwke84IRf676LoKaVZ) | 2:48 | 2022-10-28 | 2022-12-10 |
 | [Dance Or Die](https://open.spotify.com/track/0bf5Jsf2DzO8TXuV5eEDPE) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Dance Or Die](https://open.spotify.com/album/02dDeBJv14dvvF6p4kXVlR) | 6:16 | 2022-07-29 | 2022-09-17 |
 | [Dance To Be Free](https://open.spotify.com/track/3E2SR7MduIBu37iaehNLIW) | [Mr\. V](https://open.spotify.com/artist/659qXyHaiMTKxFjBMMDpo8), [Wolf Story](https://open.spotify.com/artist/14JV8iKfnjeB6gykm98EKD) | [Dance To Be Free](https://open.spotify.com/album/5JqMXmQOMYFgsvUJqqZ2T5) | 7:20 | 2022-12-28 | 2023-01-06 |
-| [Dance With The Groove](https://open.spotify.com/track/6gO3915DpPoGjdYAuNSSel) | [Ben Kim](https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL) | [Dance With The Groove](https://open.spotify.com/album/6j6xw4YIAvFAX9sn0oaso2) | 3:51 | 2023-04-07 |  |
+| [Dance With The Groove](https://open.spotify.com/track/6gO3915DpPoGjdYAuNSSel) | [Ben Kim](https://open.spotify.com/artist/0quOpHBDwcOmM5B9V3TPpL) | [Dance With The Groove](https://open.spotify.com/album/6j6xw4YIAvFAX9sn0oaso2) | 3:51 | 2023-04-07 | 2023-07-26 |
 | [Dancing In The Shadows](https://open.spotify.com/track/2edB8M0PPZCoYKm8ohDaNm) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Dancing In The Shadows](https://open.spotify.com/album/2rJpFV7L5MsabqxrEeHVd6) | 4:37 | 2023-01-03 | 2023-01-06 |
 | [Dancing On My Own \- Matt Sassari Remix](https://open.spotify.com/track/1uffw4RWKTSJGic3KEADAz) | [Mosimann](https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK), [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Dancing On My Own \(Matt Sassari Remix\)](https://open.spotify.com/album/0xg8AXR4ELaxzqRpJe08hk) | 5:11 | 2022-12-09 | 2023-03-25 |
 | [Dani Girl](https://open.spotify.com/track/5DgCDCuuevkqBmyFMjhbUc) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [Dani Girl](https://open.spotify.com/album/5DwZ3AojZ1hZoKPyXzADYa) | 3:54 | 2022-02-04 | 2022-06-04 |

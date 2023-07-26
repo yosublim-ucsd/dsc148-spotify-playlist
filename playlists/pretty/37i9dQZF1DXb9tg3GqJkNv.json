@@ -1,12 +1,12 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: TOBi",
-  "num_followers": 6222,
+  "num_followers": 6235,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGEwYWYwZjI0MDk5YjUyZDA2YzljODUxYWYwNmU3YjBhNjI4MDE2",
+  "snapshot_id": "MCw3MThmNjQ1MWE4MzI3YTI1YjYzOTg0MzkyMTdkOWFhYTdhZTU2ZDRm",
   "tracks": [
     {
       "added_at": "2023-07-20 20:22:20",
@@ -991,6 +991,30 @@
     {
       "added_at": "2023-07-20 20:22:20",
       "album": {
+        "name": "All Aces",
+        "url": "https://open.spotify.com/album/5soFx6s5E0fpGrrAEvSaVg"
+      },
+      "artists": [
+        {
+          "name": "Prem Dhillon",
+          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
+        },
+        {
+          "name": "Byg Byrd",
+          "url": "https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT"
+        },
+        {
+          "name": "Blamo",
+          "url": "https://open.spotify.com/artist/217YiebQLxLOSubsItInzR"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "All Aces",
+      "url": "https://open.spotify.com/track/0uDfuXjHlSQaSAFELqqk7p"
+    },
+    {
+      "added_at": "2023-07-20 20:22:20",
+      "album": {
         "name": "Time & It's Order",
         "url": "https://open.spotify.com/album/5k0XSTYg5WgESO7PolSjkV"
       },
@@ -1019,30 +1043,6 @@
       "duration_ms": 130560,
       "name": "Til The Morning",
       "url": "https://open.spotify.com/track/4pvUifF5EPmy70TsS7nDI7"
-    },
-    {
-      "added_at": "2023-07-20 20:22:20",
-      "album": {
-        "name": "All Aces",
-        "url": "https://open.spotify.com/album/5soFx6s5E0fpGrrAEvSaVg"
-      },
-      "artists": [
-        {
-          "name": "Prem Dhillon",
-          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
-        },
-        {
-          "name": "Byg Byrd",
-          "url": "https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT"
-        },
-        {
-          "name": "Blamo",
-          "url": "https://open.spotify.com/artist/217YiebQLxLOSubsItInzR"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "All Aces",
-      "url": "https://open.spotify.com/track/0uDfuXjHlSQaSAFELqqk7p"
     },
     {
       "added_at": "2023-07-20 20:22:20",
@@ -1079,8 +1079,8 @@
     {
       "added_at": "2023-07-20 20:22:20",
       "album": {
-        "name": "Vallie Mode",
-        "url": "https://open.spotify.com/album/0y1MaVOQk1jI3VTHlKQ6uN"
+        "name": "Been Himma",
+        "url": "https://open.spotify.com/album/526OhvWv7oWC5xTrwG75Cq"
       },
       "artists": [
         {
@@ -1088,9 +1088,9 @@
           "url": "https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk"
         }
       ],
-      "duration_ms": 148349,
-      "name": "Vallie Mode",
-      "url": "https://open.spotify.com/track/6c9JGhWjQgGydAxlS49f8Y"
+      "duration_ms": 166829,
+      "name": "Been Himma",
+      "url": "https://open.spotify.com/track/5G9i6PTCmXdOVmUfDRlc6t"
     },
     {
       "added_at": "2023-07-20 20:22:20",
@@ -1243,8 +1243,8 @@
     {
       "added_at": "2023-07-20 20:22:20",
       "album": {
-        "name": "Been Himma",
-        "url": "https://open.spotify.com/album/526OhvWv7oWC5xTrwG75Cq"
+        "name": "Vallie Mode",
+        "url": "https://open.spotify.com/album/0y1MaVOQk1jI3VTHlKQ6uN"
       },
       "artists": [
         {
@@ -1252,9 +1252,9 @@
           "url": "https://open.spotify.com/artist/7z29vXpa0PYA6mngEsWNXk"
         }
       ],
-      "duration_ms": 166829,
-      "name": "Been Himma",
-      "url": "https://open.spotify.com/track/5G9i6PTCmXdOVmUfDRlc6t"
+      "duration_ms": 148349,
+      "name": "Vallie Mode",
+      "url": "https://open.spotify.com/track/6c9JGhWjQgGydAxlS49f8Y"
     },
     {
       "added_at": "2023-07-20 20:22:20",

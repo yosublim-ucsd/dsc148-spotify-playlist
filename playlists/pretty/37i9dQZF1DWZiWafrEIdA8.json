@@ -1,12 +1,12 @@
 {
   "description": "\ud55c \uc904, \ud55c \uc904 \ub2f9\uc2e0\uc744 \uc704\ub85c\ud558\ub294 \uac00\uc0ac\uc640 \ub530\ub73b\ud55c \ube44\ud2b8.",
-  "num_followers": 7589,
+  "num_followers": 7595,
   "original_name": "\ud790\ub9c1 \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOGYxMDc0YzJkYTdkMWZhYWE3MDQ2NzRmZWFmY2YxZTRhNGU0OTZm",
+  "snapshot_id": "MCw0NzI2MDY4NWJjMzdjODQ5N2U2NzE1NTRkNjY0MTdjNTQ1ZDdjYzFm",
   "tracks": [
     {
       "added_at": "2023-07-17 05:25:27",
@@ -871,26 +871,6 @@
     {
       "added_at": "2023-07-17 05:25:27",
       "album": {
-        "name": "HALO",
-        "url": "https://open.spotify.com/album/557aGJNY6gixheNKVOs8Mi"
-      },
-      "artists": [
-        {
-          "name": "pH-1",
-          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 233013,
-      "name": "Til I Die",
-      "url": "https://open.spotify.com/track/0hAkJkaTMKEK5KEKAm0719"
-    },
-    {
-      "added_at": "2023-07-17 05:25:27",
-      "album": {
         "name": "Primary and the Messengers LP",
         "url": "https://open.spotify.com/album/20MnU7TMGi4OEPkPZjZxYA"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 235311,
       "name": "poison",
       "url": "https://open.spotify.com/track/3BSuec8O8wWWUo82kaCw5T"
+    },
+    {
+      "added_at": "2023-07-17 05:25:27",
+      "album": {
+        "name": "HALO",
+        "url": "https://open.spotify.com/album/557aGJNY6gixheNKVOs8Mi"
+      },
+      "artists": [
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 233013,
+      "name": "Til I Die",
+      "url": "https://open.spotify.com/track/0hAkJkaTMKEK5KEKAm0719"
     },
     {
       "added_at": "2023-07-17 05:25:27",

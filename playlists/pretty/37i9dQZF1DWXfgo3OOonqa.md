@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > 100 LIVE @ Way Out West 2023: Dizzy, Jelassi, Mohelá m.fl.
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,663 likes - 85 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,751 likes - 85 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 60 | [Stockholm By Night](https://open.spotify.com/track/795T6YRPyvgcKACmqqrvrD) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [Stockholm By Night](https://open.spotify.com/album/0mJ6MX3Ac4S6XhDANlLu2P) | 2:45 |
 | 61 | [Stora blå](https://open.spotify.com/track/4iOofOqrmdCTLopFFbUw6D) | [STOR](https://open.spotify.com/artist/4XLISC9SzRTcR34fosyMtw), [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7), [Ison & Fille](https://open.spotify.com/artist/1fhvwCr1HKEZgZYOrfsHyk) | [Över Broarna](https://open.spotify.com/album/3v9SCu8MMIpxu3lVYF9Xvv) | 2:59 |
 | 62 | [Dum av dej](https://open.spotify.com/track/3i9UKYqNJtG0ufxxYimRu1) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Dum av dej](https://open.spotify.com/album/3DO3n0BmJmDsnQNhuCziQC) | 2:39 |
-| 63 | [POLLEN \(feat\. BELL\)](https://open.spotify.com/track/7AfpaQEypz50V2r3IlwqVT) | [Papi Santana](https://open.spotify.com/artist/4uI7ac18IMjcGh45QzR1BZ), [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [POLLEN \(feat\. BELL\)](https://open.spotify.com/album/21PJSOuXESN1VkaEmNL3ea) | 2:30 |
+| 63 | [POLLEN](https://open.spotify.com/track/7AfpaQEypz50V2r3IlwqVT) | [Papi Santana](https://open.spotify.com/artist/4uI7ac18IMjcGh45QzR1BZ), [BELL](https://open.spotify.com/artist/2MnEe6M7ibhg3RAG0Ydtp4) | [POLLEN](https://open.spotify.com/album/21PJSOuXESN1VkaEmNL3ea) | 2:30 |
 | 64 | [Luftslott](https://open.spotify.com/track/78puouSL3uJOhWxWUm4acV) | [PreGame](https://open.spotify.com/artist/0MeqrNMZbF4Nv9HCwmi0qC) | [Luftslott](https://open.spotify.com/album/7bObnQZLpoBiZx7koajewZ) | 2:28 |
 | 65 | [03:30](https://open.spotify.com/track/0JDnYc55QAbgBH9FMDvksn) | [Solo](https://open.spotify.com/artist/3U2nefv8SP86Y3fI47xfxh) | [03:30](https://open.spotify.com/album/5r7vOF3pjDZrz29Ek0V4zn) | 2:00 |
 | 66 | [Tapper](https://open.spotify.com/track/3YkDAb7Fryws1ozTxq82zR) | [4yye](https://open.spotify.com/artist/5mJaAw5lTHiVY6mxfCtz2X) | [Tapper](https://open.spotify.com/album/0F2poHl0Dbbpx2nDqRi530) | 2:50 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 84 | [Kom ihåg](https://open.spotify.com/track/6fJvX7Pc1deCghPhVOVm7i) | [Gas](https://open.spotify.com/artist/2Uto5OzT6T7DacclzYKvq3) | [Kom ihåg](https://open.spotify.com/album/4GfuAdQ3XGqDTPQhdLnrIj) | 2:11 |
 | 85 | [PARANOIA](https://open.spotify.com/track/43DbkHDgzf9kvGi8eXxfS1) | [Mazzo](https://open.spotify.com/artist/4cPM4H1MtqNzsuNdkRJ6Qx), [RUNI](https://open.spotify.com/artist/4hmrUcRgiNbJn6tcXMzqEN), [9liv](https://open.spotify.com/artist/1CoE5ue29WuTIHn0QE5mrO) | [PARANOIA](https://open.spotify.com/album/68NNwLH3DHcTNFUmitcX2p) | 2:32 |
 
-Snapshot ID: `MCwzYTk3ZjNhMDc4ZTc4NWNmNjIzNzUwMzVkOTI5M2ExZDU3NzVmMWM0`
+Snapshot ID: `MCw0OGZjNTMwZTQ4MWFlYzQ4YzUwNDdkZGNmMzE5YTNlMzU0YzI2NGJi`

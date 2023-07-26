@@ -1757,6 +1757,24 @@
     },
     {
       "album": {
+        "name": "I'm On Fire",
+        "url": "https://open.spotify.com/album/0PabAcEXD3IktrddWuZf9f"
+      },
+      "artists": [
+        {
+          "name": "Imaginary Future",
+          "url": "https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF"
+        }
+      ],
+      "date_added": "2023-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140130,
+      "name": "I'm On Fire",
+      "url": "https://open.spotify.com/track/3i38IJBfk99KziSacMYO9l"
+    },
+    {
+      "album": {
         "name": "I'm on Fire",
         "url": "https://open.spotify.com/album/6EQMRKHTgh1ajs7NChXIkg"
       },
@@ -3734,7 +3752,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 160500,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/0KeJcgrv8IsaFchZOFfx7S"

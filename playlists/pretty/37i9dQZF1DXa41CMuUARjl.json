@@ -1,12 +1,12 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from Gorgon City.",
-  "num_followers": 445029,
+  "num_followers": 445157,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzUwZTc3ZTFmOTQwYzY3NDEyNDY4ZmVhMjMxNGI5YzE0NDgyZDM5",
+  "snapshot_id": "MCw4MGRhYTg4NWU5OWNkNTI2YWUzOGI2ZWFiMGEzNjRjNTQzY2U0MWRk",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -31,7 +31,7 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "She Knows (With Akon)",
+        "name": "She Knows (with Akon)",
         "url": "https://open.spotify.com/album/0pj4zHdT9FsFOkpA9Qic4F"
       },
       "artists": [
@@ -53,7 +53,7 @@
         }
       ],
       "duration_ms": 135706,
-      "name": "She Knows - With Akon",
+      "name": "She Knows - with Akon",
       "url": "https://open.spotify.com/track/3zkb0907pOJqU7m3Qh5hB7"
     },
     {
@@ -623,6 +623,26 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Makeba (Ian Asher Remix)",
+        "url": "https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj"
+      },
+      "artists": [
+        {
+          "name": "Jain",
+          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
+        },
+        {
+          "name": "Ian Asher",
+          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
+        }
+      ],
+      "duration_ms": 125178,
+      "name": "Makeba - Ian Asher Remix",
+      "url": "https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "CRESCENDO",
         "url": "https://open.spotify.com/album/2WAxjTUkv403ujorGiYcOE"
       },
@@ -719,26 +739,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Makeba (Ian Asher Remix)",
-        "url": "https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj"
-      },
-      "artists": [
-        {
-          "name": "Jain",
-          "url": "https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0"
-        },
-        {
-          "name": "Ian Asher",
-          "url": "https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km"
-        }
-      ],
-      "duration_ms": 125178,
-      "name": "Makeba - Ian Asher Remix",
-      "url": "https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Groove Thang",
         "url": "https://open.spotify.com/album/1PPPSHY19tixIaMCbDJihZ"
       },
@@ -807,26 +807,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "The Remixes",
-        "url": "https://open.spotify.com/album/0SI7sJIrvhZtGbUo97t0aX"
-      },
-      "artists": [
-        {
-          "name": "London Grammar",
-          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
-        },
-        {
-          "name": "CamelPhat",
-          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
-        }
-      ],
-      "duration_ms": 216795,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/2pW8MxDV77hQvyxjL3tgKi"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Alive (THEMBA Remix)",
         "url": "https://open.spotify.com/album/0PDJlOUSSFMBwbyEuPOP1i"
       },
@@ -867,6 +847,26 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "The Remixes",
+        "url": "https://open.spotify.com/album/0SI7sJIrvhZtGbUo97t0aX"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        },
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        }
+      ],
+      "duration_ms": 216795,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/2pW8MxDV77hQvyxjL3tgKi"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Listen to Me",
         "url": "https://open.spotify.com/album/0DcTQ4aO64SkFDXqo9A84n"
       },
@@ -903,26 +903,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Light Places Remixes",
-        "url": "https://open.spotify.com/album/397G1LdjSwnHKWa6PdkYgS"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "DESIREE",
-          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
-        }
-      ],
-      "duration_ms": 339166,
-      "name": "All I Need - DESIREE Remix",
-      "url": "https://open.spotify.com/track/6q9RvlTvMSZSQfI6v0dKE4"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Fiya (Curbi Edit)",
         "url": "https://open.spotify.com/album/296eebCCSymVYHR6fjiISA"
       },
@@ -939,6 +919,26 @@
       "duration_ms": 280771,
       "name": "Fiya - Curbi Edit",
       "url": "https://open.spotify.com/track/6hKNTG13AmbPZXy891jAZk"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Light Places Remixes",
+        "url": "https://open.spotify.com/album/397G1LdjSwnHKWa6PdkYgS"
+      },
+      "artists": [
+        {
+          "name": "LP Giobbi",
+          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
+        },
+        {
+          "name": "DESIREE",
+          "url": "https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa"
+        }
+      ],
+      "duration_ms": 339166,
+      "name": "All I Need - DESIREE Remix",
+      "url": "https://open.spotify.com/track/6q9RvlTvMSZSQfI6v0dKE4"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Everybody Wanna Be Free",
-        "url": "https://open.spotify.com/album/5c0oDivBXJPNITtodMG0tJ"
-      },
-      "artists": [
-        {
-          "name": "Dada Life",
-          "url": "https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9"
-        }
-      ],
-      "duration_ms": 198834,
-      "name": "Everybody Wanna Be Free",
-      "url": "https://open.spotify.com/track/68opPx3ozq3QZNGMfr0HvD"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "The Sound",
         "url": "https://open.spotify.com/album/0uri04wRc2whr9SDFk8lT8"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 138750,
       "name": "The Sound",
       "url": "https://open.spotify.com/track/5uERB9eIMX1mozhIW7XyCX"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Everybody Wanna Be Free",
+        "url": "https://open.spotify.com/album/5c0oDivBXJPNITtodMG0tJ"
+      },
+      "artists": [
+        {
+          "name": "Dada Life",
+          "url": "https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9"
+        }
+      ],
+      "duration_ms": 198834,
+      "name": "Everybody Wanna Be Free",
+      "url": "https://open.spotify.com/track/68opPx3ozq3QZNGMfr0HvD"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1075,6 +1075,26 @@
       "duration_ms": 221413,
       "name": "Underground",
       "url": "https://open.spotify.com/track/4LGm8vygHnOdvoATybWmaW"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "The One (feat. Blair)",
+        "url": "https://open.spotify.com/album/3t0Q3BmvsuxwXE45FiC1DG"
+      },
+      "artists": [
+        {
+          "name": "M-22",
+          "url": "https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw"
+        },
+        {
+          "name": "Blair",
+          "url": "https://open.spotify.com/artist/1v5DH9ArPLD3vTAPA8fN8O"
+        }
+      ],
+      "duration_ms": 179636,
+      "name": "The One (feat. Blair)",
+      "url": "https://open.spotify.com/track/6BRZ1sNVHeU8ShlOJS9Hyt"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1131,22 +1151,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "The One (feat. Blair)",
-        "url": "https://open.spotify.com/album/3t0Q3BmvsuxwXE45FiC1DG"
+        "name": "Involved",
+        "url": "https://open.spotify.com/album/52mrqtjggttxNbvjtS0LQ2"
       },
       "artists": [
         {
-          "name": "M-22",
-          "url": "https://open.spotify.com/artist/4WFtYn5RyU8VGPpPyW9Pxw"
-        },
-        {
-          "name": "Blair",
-          "url": "https://open.spotify.com/artist/1v5DH9ArPLD3vTAPA8fN8O"
+          "name": "Boye & Sigvardt",
+          "url": "https://open.spotify.com/artist/5waIYqZSsMaTQqdL4QnqyR"
         }
       ],
-      "duration_ms": 179636,
-      "name": "The One (feat. Blair)",
-      "url": "https://open.spotify.com/track/6BRZ1sNVHeU8ShlOJS9Hyt"
+      "duration_ms": 147505,
+      "name": "Involved",
+      "url": "https://open.spotify.com/track/12bVIaoSMJoihksMmbPCDL"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1167,26 +1183,6 @@
       "duration_ms": 155515,
       "name": "Watch Me (feat. Linney)",
       "url": "https://open.spotify.com/track/3rWjjleBSSdkKJIg5pdjwU"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "All Good (Jasper Tygner Remix)",
-        "url": "https://open.spotify.com/album/0l8JO6jLZBpLzcNe0vo4Ri"
-      },
-      "artists": [
-        {
-          "name": "Pretty Girl",
-          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
-        },
-        {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
-        }
-      ],
-      "duration_ms": 243853,
-      "name": "All Good - Jasper Tygner Remix",
-      "url": "https://open.spotify.com/track/19FSj8Zq5ZUEF6C87rKPcH"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1215,38 +1211,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Involved",
-        "url": "https://open.spotify.com/album/52mrqtjggttxNbvjtS0LQ2"
-      },
-      "artists": [
-        {
-          "name": "Boye & Sigvardt",
-          "url": "https://open.spotify.com/artist/5waIYqZSsMaTQqdL4QnqyR"
-        }
-      ],
-      "duration_ms": 147505,
-      "name": "Involved",
-      "url": "https://open.spotify.com/track/12bVIaoSMJoihksMmbPCDL"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "High",
-        "url": "https://open.spotify.com/album/0GDqyCePdn98PHuMoWCuMJ"
-      },
-      "artists": [
-        {
-          "name": "Snavs",
-          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
-        }
-      ],
-      "duration_ms": 172991,
-      "name": "High",
-      "url": "https://open.spotify.com/track/2Ej2CTyhrhOg0AXY1LkWNT"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Take My Hand (feat. Josh Barry)",
         "url": "https://open.spotify.com/album/3FsMheFQtusAMlfV75Nbyc"
       },
@@ -1267,6 +1231,42 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "All Good (Jasper Tygner Remix)",
+        "url": "https://open.spotify.com/album/0l8JO6jLZBpLzcNe0vo4Ri"
+      },
+      "artists": [
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        },
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        }
+      ],
+      "duration_ms": 243853,
+      "name": "All Good - Jasper Tygner Remix",
+      "url": "https://open.spotify.com/track/19FSj8Zq5ZUEF6C87rKPcH"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "High",
+        "url": "https://open.spotify.com/album/0GDqyCePdn98PHuMoWCuMJ"
+      },
+      "artists": [
+        {
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+        }
+      ],
+      "duration_ms": 172991,
+      "name": "High",
+      "url": "https://open.spotify.com/track/2Ej2CTyhrhOg0AXY1LkWNT"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Drugs",
         "url": "https://open.spotify.com/album/72qaQJS17narCyYEW3uIzV"
       },
@@ -1279,26 +1279,6 @@
       "duration_ms": 224380,
       "name": "Drugs",
       "url": "https://open.spotify.com/track/1Ri9aSg1W3e412PUVvVz0I"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "OFF+ON",
-        "url": "https://open.spotify.com/album/2wg66fKfk9Hs30UwxJutM5"
-      },
-      "artists": [
-        {
-          "name": "veggi",
-          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
-        },
-        {
-          "name": "Ella Rosa",
-          "url": "https://open.spotify.com/artist/1qHw9CyK6GsvipKuY7J70F"
-        }
-      ],
-      "duration_ms": 196846,
-      "name": "OFF+ON",
-      "url": "https://open.spotify.com/track/3PNrKIzVnDDGAsnekImbOI"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1319,6 +1299,26 @@
       "duration_ms": 267111,
       "name": "Chez Moi (Waiting For You) - Edit",
       "url": "https://open.spotify.com/track/1VwmC2Sw9b9EztWkRvC07M"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "OFF+ON",
+        "url": "https://open.spotify.com/album/2wg66fKfk9Hs30UwxJutM5"
+      },
+      "artists": [
+        {
+          "name": "veggi",
+          "url": "https://open.spotify.com/artist/1hrOvw6197WGlXcIBJAp7v"
+        },
+        {
+          "name": "Ella Rosa",
+          "url": "https://open.spotify.com/artist/1qHw9CyK6GsvipKuY7J70F"
+        }
+      ],
+      "duration_ms": 196846,
+      "name": "OFF+ON",
+      "url": "https://open.spotify.com/track/3PNrKIzVnDDGAsnekImbOI"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Say Something",
+        "url": "https://open.spotify.com/album/0ZlDyS6kzMipun19zAEHKe"
+      },
+      "artists": [
+        {
+          "name": "Swimming Paul",
+          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
+        }
+      ],
+      "duration_ms": 200329,
+      "name": "Say Something",
+      "url": "https://open.spotify.com/track/77Q0qbZPx8ikjqvPOADORA"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Atmosphere",
         "url": "https://open.spotify.com/album/1Kb2RNaDVyqmx5PhV9ghBQ"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 215142,
       "name": "Atmosphere",
       "url": "https://open.spotify.com/track/1jz0xzCf8SXUY8hLg8oCdY"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Say Something",
-        "url": "https://open.spotify.com/album/0ZlDyS6kzMipun19zAEHKe"
-      },
-      "artists": [
-        {
-          "name": "Swimming Paul",
-          "url": "https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s"
-        }
-      ],
-      "duration_ms": 200329,
-      "name": "Say Something",
-      "url": "https://open.spotify.com/track/77Q0qbZPx8ikjqvPOADORA"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Theory of Everything",
+        "url": "https://open.spotify.com/album/1dOYf62WhMSRsO5KuNahrc"
+      },
+      "artists": [
+        {
+          "name": "Vanita",
+          "url": "https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur"
+        }
+      ],
+      "duration_ms": 454369,
+      "name": "Theory of Everything",
+      "url": "https://open.spotify.com/track/1fM2fEvOf7Jt2AApLE1fNJ"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "So Good",
         "url": "https://open.spotify.com/album/6sDBmrhOFwAgqs9HK3STCd"
       },
@@ -1531,38 +1547,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Theory of Everything",
-        "url": "https://open.spotify.com/album/1dOYf62WhMSRsO5KuNahrc"
-      },
-      "artists": [
-        {
-          "name": "Vanita",
-          "url": "https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur"
-        }
-      ],
-      "duration_ms": 454369,
-      "name": "Theory of Everything",
-      "url": "https://open.spotify.com/track/1fM2fEvOf7Jt2AApLE1fNJ"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Lemme Fantasize",
-        "url": "https://open.spotify.com/album/5Ph9wWfK5bcR5GiDyzuffL"
-      },
-      "artists": [
-        {
-          "name": "Take Van",
-          "url": "https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "Lemme Fantasize",
-      "url": "https://open.spotify.com/track/5HoBABnGo4MmxowXCjKozt"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Makes Me Feel (feat. Lilly Ahlberg)",
         "url": "https://open.spotify.com/album/3fQxYgXlAZUAGNfLntK78d"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 169375,
       "name": "Makes Me Feel (feat. Lilly Ahlberg)",
       "url": "https://open.spotify.com/track/6pzs1AC9ycgzLeUOGHGq7k"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Lemme Fantasize",
+        "url": "https://open.spotify.com/album/5Ph9wWfK5bcR5GiDyzuffL"
+      },
+      "artists": [
+        {
+          "name": "Take Van",
+          "url": "https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj"
+        }
+      ],
+      "duration_ms": 148571,
+      "name": "Lemme Fantasize",
+      "url": "https://open.spotify.com/track/5HoBABnGo4MmxowXCjKozt"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Saudade",
-        "url": "https://open.spotify.com/album/2g2QztKayrk3B359mHieDn"
-      },
-      "artists": [
-        {
-          "name": "Canabliss",
-          "url": "https://open.spotify.com/artist/6F7DcdohhC72MYZn4k0wZ9"
-        }
-      ],
-      "duration_ms": 321186,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/2GIqYIttEVbhwVVZPafAAQ"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Air",
         "url": "https://open.spotify.com/album/7u63iM7QHAkCKC0X7nnRP2"
       },
@@ -1671,6 +1655,42 @@
       "duration_ms": 230488,
       "name": "Run To The Rhythm",
       "url": "https://open.spotify.com/track/7L7lq0sjeVcyg5Phg4CkCv"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/2g2QztKayrk3B359mHieDn"
+      },
+      "artists": [
+        {
+          "name": "Canabliss",
+          "url": "https://open.spotify.com/artist/6F7DcdohhC72MYZn4k0wZ9"
+        }
+      ],
+      "duration_ms": 321186,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/2GIqYIttEVbhwVVZPafAAQ"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "What Is Love",
+        "url": "https://open.spotify.com/album/5CtoOexfXMG0hr0roKgSh3"
+      },
+      "artists": [
+        {
+          "name": "Eden Prince",
+          "url": "https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z"
+        },
+        {
+          "name": "Empara Mi",
+          "url": "https://open.spotify.com/artist/2nhyc8aipr32vUz8Sd5Gp6"
+        }
+      ],
+      "duration_ms": 181625,
+      "name": "What Is Love",
+      "url": "https://open.spotify.com/track/7EhDs3oFf203YIObBDrEYX"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1707,26 +1727,6 @@
       "duration_ms": 260868,
       "name": "Me + You - Chill Mix",
       "url": "https://open.spotify.com/track/0CgU7AKWdjR0bTxswhgxFH"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "What Is Love",
-        "url": "https://open.spotify.com/album/5CtoOexfXMG0hr0roKgSh3"
-      },
-      "artists": [
-        {
-          "name": "Eden Prince",
-          "url": "https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z"
-        },
-        {
-          "name": "Empara Mi",
-          "url": "https://open.spotify.com/artist/2nhyc8aipr32vUz8Sd5Gp6"
-        }
-      ],
-      "duration_ms": 181625,
-      "name": "What Is Love",
-      "url": "https://open.spotify.com/track/7EhDs3oFf203YIObBDrEYX"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1771,6 +1771,26 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Mini Motors",
+        "url": "https://open.spotify.com/album/1wZ4JnsQ0Lfert1OwBrc2H"
+      },
+      "artists": [
+        {
+          "name": "CHYL",
+          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
+        },
+        {
+          "name": "Fahjah",
+          "url": "https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id"
+        }
+      ],
+      "duration_ms": 146857,
+      "name": "Smash!",
+      "url": "https://open.spotify.com/track/26kyr3Yr7lXCUCOWhMZumY"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Sweet Feeling",
         "url": "https://open.spotify.com/album/5hMSWtsq621ccfzwSjsljk"
       },
@@ -1791,22 +1811,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Mini Motors",
-        "url": "https://open.spotify.com/album/1wZ4JnsQ0Lfert1OwBrc2H"
+        "name": "Know Someone",
+        "url": "https://open.spotify.com/album/4pAP4YIHv1v7qrpxyhRLbf"
       },
       "artists": [
         {
-          "name": "CHYL",
-          "url": "https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc"
-        },
-        {
-          "name": "Fahjah",
-          "url": "https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id"
+          "name": "Kiimi",
+          "url": "https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S"
         }
       ],
-      "duration_ms": 146857,
-      "name": "Smash!",
-      "url": "https://open.spotify.com/track/26kyr3Yr7lXCUCOWhMZumY"
+      "duration_ms": 260500,
+      "name": "Know Someone",
+      "url": "https://open.spotify.com/track/0cTNeoYonQaeArcopcPt73"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1859,22 +1875,6 @@
       "duration_ms": 169302,
       "name": "Freaks Out",
       "url": "https://open.spotify.com/track/2UCLVLMEPj8RGhEbwTttb3"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Know Someone",
-        "url": "https://open.spotify.com/album/4pAP4YIHv1v7qrpxyhRLbf"
-      },
-      "artists": [
-        {
-          "name": "Kiimi",
-          "url": "https://open.spotify.com/artist/3EMzfV9nhsrQWF7Ww8M74S"
-        }
-      ],
-      "duration_ms": 260500,
-      "name": "Know Someone",
-      "url": "https://open.spotify.com/track/0cTNeoYonQaeArcopcPt73"
     },
     {
       "added_at": "2023-07-21 04:00:00",

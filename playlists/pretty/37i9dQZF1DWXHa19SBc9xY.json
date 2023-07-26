@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 69877,
+  "num_followers": 69968,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODE4ODE0NWYzNTliYWU0N2ZmMGFiOGY2MjNmYjgxMzcyNjI4ZGVl",
+  "snapshot_id": "MCxjMzBkNjI4ODc0MjdjZWRhNGNkYjI1ODJlZDkxMzA0NGI1ZmU5MjU0",
   "tracks": [
     {
       "added_at": "2023-06-23 03:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "O amor te d\u00e1",
-        "url": "https://open.spotify.com/album/6qSldIF6nA00siaQqtfhFW"
-      },
-      "artists": [
-        {
-          "name": "Amanda Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
-        }
-      ],
-      "duration_ms": 247812,
-      "name": "O amor te d\u00e1",
-      "url": "https://open.spotify.com/track/3x4niJ27HxoLK5JNLRZmSq"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Banho de Mar",
         "url": "https://open.spotify.com/album/2eM3zzHADGI95319Ti9gl2"
       },
@@ -831,6 +815,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "O amor te d\u00e1",
+        "url": "https://open.spotify.com/album/6qSldIF6nA00siaQqtfhFW"
+      },
+      "artists": [
+        {
+          "name": "Amanda Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/5wQwhxkFXV3FVQcK8Jc0sO"
+        }
+      ],
+      "duration_ms": 247812,
+      "name": "O amor te d\u00e1",
+      "url": "https://open.spotify.com/track/3x4niJ27HxoLK5JNLRZmSq"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "De Onde Eu Venho",
         "url": "https://open.spotify.com/album/3XKyRkEpNarQ7BQxLIzk5U"
       },
@@ -847,22 +847,18 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Rara",
-        "url": "https://open.spotify.com/album/2m5bdA9o8QOPWTcGE63pOn"
+        "name": "Gente",
+        "url": "https://open.spotify.com/album/3CDZRUJC4rCsKWuDsJli6Z"
       },
       "artists": [
         {
-          "name": "Bruno Chelles",
-          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
-        },
-        {
-          "name": "Santino",
-          "url": "https://open.spotify.com/artist/3uOdcexXWraBw0SYLSHxBa"
+          "name": "Leo Middea",
+          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
         }
       ],
-      "duration_ms": 197883,
-      "name": "Rara",
-      "url": "https://open.spotify.com/track/00GX7uIqyTPC5MQtnBahY5"
+      "duration_ms": 196546,
+      "name": "Que Sorte",
+      "url": "https://open.spotify.com/track/1FQ3cnx1IURASKIdNsAV7z"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -883,18 +879,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Gente",
-        "url": "https://open.spotify.com/album/3CDZRUJC4rCsKWuDsJli6Z"
+        "name": "Rara",
+        "url": "https://open.spotify.com/album/2m5bdA9o8QOPWTcGE63pOn"
       },
       "artists": [
         {
-          "name": "Leo Middea",
-          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
+          "name": "Bruno Chelles",
+          "url": "https://open.spotify.com/artist/0QRmYyPJ4gzQmSVWMYgF2d"
+        },
+        {
+          "name": "Santino",
+          "url": "https://open.spotify.com/artist/3uOdcexXWraBw0SYLSHxBa"
         }
       ],
-      "duration_ms": 196546,
-      "name": "Que Sorte",
-      "url": "https://open.spotify.com/track/1FQ3cnx1IURASKIdNsAV7z"
+      "duration_ms": 197883,
+      "name": "Rara",
+      "url": "https://open.spotify.com/track/00GX7uIqyTPC5MQtnBahY5"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Entre Homens e Autom\u00f3veis",
+        "url": "https://open.spotify.com/album/2Wa5PKMLUefVYZWQomYHv6"
+      },
+      "artists": [
+        {
+          "name": "Brolo Gonzalez",
+          "url": "https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg"
+        }
+      ],
+      "duration_ms": 189882,
+      "name": "Mais Perto",
+      "url": "https://open.spotify.com/track/2CgP6wLHomU7h1sMGCXIBC"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Balan\u00e7o de Amor",
         "url": "https://open.spotify.com/album/4f2aBuhQFZfiWxBx5jA2iu"
       },
@@ -1035,22 +1051,6 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
-        "name": "Entre Homens e Autom\u00f3veis",
-        "url": "https://open.spotify.com/album/2Wa5PKMLUefVYZWQomYHv6"
-      },
-      "artists": [
-        {
-          "name": "Brolo Gonzalez",
-          "url": "https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg"
-        }
-      ],
-      "duration_ms": 189882,
-      "name": "Mais Perto",
-      "url": "https://open.spotify.com/track/2CgP6wLHomU7h1sMGCXIBC"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
         "name": "Amanheceu (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/113z8oUYAMr59RfzyKHvTM"
       },
@@ -1063,26 +1063,6 @@
       "duration_ms": 196743,
       "name": "Amanheceu - Ac\u00fastico",
       "url": "https://open.spotify.com/track/3XQkfQ7Qsacd6Xbpj1ZLvt"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Lua Nova",
-        "url": "https://open.spotify.com/album/14AZf0JZKJgmls9y59eA2c"
-      },
-      "artists": [
-        {
-          "name": "PH Moraes",
-          "url": "https://open.spotify.com/artist/71p4sNYcu8jEUqJ69tfrVU"
-        },
-        {
-          "name": "Marina Peralta",
-          "url": "https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "Lua Nova",
-      "url": "https://open.spotify.com/track/5uZDrsNXW8qUuP9pli1CO3"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1103,6 +1083,26 @@
       "duration_ms": 182587,
       "name": "Som de Alceu",
       "url": "https://open.spotify.com/track/6ZMrnPndAh1UdZsHBAbAQo"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
+        "name": "Lua Nova",
+        "url": "https://open.spotify.com/album/14AZf0JZKJgmls9y59eA2c"
+      },
+      "artists": [
+        {
+          "name": "PH Moraes",
+          "url": "https://open.spotify.com/artist/71p4sNYcu8jEUqJ69tfrVU"
+        },
+        {
+          "name": "Marina Peralta",
+          "url": "https://open.spotify.com/artist/5zL3IWBA5pdMvLUmj0Dq2O"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "Lua Nova",
+      "url": "https://open.spotify.com/track/5uZDrsNXW8qUuP9pli1CO3"
     },
     {
       "added_at": "2023-06-23 03:00:00",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-06-23 03:00:00",
       "album": {
+        "name": "Te Levar (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/53DSOKPvUINVwmFN32JqhJ"
+      },
+      "artists": [
+        {
+          "name": "Nanno",
+          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
+        }
+      ],
+      "duration_ms": 173397,
+      "name": "Te Levar - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/4QmLP7fU49UyWgxED0hvAI"
+    },
+    {
+      "added_at": "2023-06-23 03:00:00",
+      "album": {
         "name": "Pagodin",
         "url": "https://open.spotify.com/album/2K5fTigQ0osypS0CPqZLUD"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 164131,
       "name": "Pagodin",
       "url": "https://open.spotify.com/track/1t2sFfQqAZwxLRdDzWafNc"
-    },
-    {
-      "added_at": "2023-06-23 03:00:00",
-      "album": {
-        "name": "Te Levar (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/53DSOKPvUINVwmFN32JqhJ"
-      },
-      "artists": [
-        {
-          "name": "Nanno",
-          "url": "https://open.spotify.com/artist/4UnPlU7ZiB5msWRpEDYsP3"
-        }
-      ],
-      "duration_ms": 173397,
-      "name": "Te Levar - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/4QmLP7fU49UyWgxED0hvAI"
     },
     {
       "added_at": "2023-06-23 03:00:00",

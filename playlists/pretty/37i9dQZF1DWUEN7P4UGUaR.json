@@ -1,12 +1,12 @@
 {
   "description": "Fresh gospel music from Ghana. Cover: Nacee",
-  "num_followers": 2395,
+  "num_followers": 2418,
   "original_name": "Aseda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYmY0ZTc3ODdkYTI0NWUxMWQ2MGE0NThjOGJkMDI3YmM1ZDkzYmIz",
+  "snapshot_id": "MCxlMDJkMDc1ZjAwZWQ3NzM2OTQ3YzBhYjMxYTFiMjk4MmU5NWQxYmMw",
   "tracks": [
     {
       "added_at": "2023-07-13 23:00:00",
@@ -563,22 +563,18 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
-        "name": "I Know",
-        "url": "https://open.spotify.com/album/6HtyFbcZM4kNGxRKdiXstv"
+        "name": "Deeper Touch",
+        "url": "https://open.spotify.com/album/5nOXDaaJq1brfEv9jEYAGP"
       },
       "artists": [
         {
-          "name": "LAMB CULTURE.",
-          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
-        },
-        {
-          "name": "Kojo Dave",
-          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
+          "name": "Denzel Prempeh",
+          "url": "https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p"
         }
       ],
-      "duration_ms": 135968,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/7EAjENjTiYE5xhv6x7kXEe"
+      "duration_ms": 781930,
+      "name": "Deeper Medley",
+      "url": "https://open.spotify.com/track/0ZAXIDq2pDCoFQxtk7ldwg"
     },
     {
       "added_at": "2023-07-13 23:00:00",
@@ -599,18 +595,22 @@
     {
       "added_at": "2023-07-13 23:00:00",
       "album": {
-        "name": "Deeper Touch",
-        "url": "https://open.spotify.com/album/5nOXDaaJq1brfEv9jEYAGP"
+        "name": "I Know",
+        "url": "https://open.spotify.com/album/6HtyFbcZM4kNGxRKdiXstv"
       },
       "artists": [
         {
-          "name": "Denzel Prempeh",
-          "url": "https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p"
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Kojo Dave",
+          "url": "https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce"
         }
       ],
-      "duration_ms": 781930,
-      "name": "Deeper Medley",
-      "url": "https://open.spotify.com/track/0ZAXIDq2pDCoFQxtk7ldwg"
+      "duration_ms": 135968,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/7EAjENjTiYE5xhv6x7kXEe"
     },
     {
       "added_at": "2023-07-13 23:00:00",

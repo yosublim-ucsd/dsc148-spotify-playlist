@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Digitalism, Softee
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,520 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 434,001 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Finally Dancing \- Radio Edit](https://open.spotify.com/track/0yXAPv7nVDyXxmCvah6Nlc) | [Mollono.Bass](https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF), [KUOKO](https://open.spotify.com/artist/2h8Egzl8WxLijmpQtmuwHK) | [Finally Dancing](https://open.spotify.com/album/0ohn99T1dBbsBaegkf53NU) | 3:30 |
 | 75 | [Before We Meet Again](https://open.spotify.com/track/1uZehIWzCcwqrlmZSBD2xC) | [Anja Schneider](https://open.spotify.com/artist/0f14r70OISSfJoyqYaHbgV) | [Before We Meet Again](https://open.spotify.com/album/05DWdwz5EVwV5Zzvvy7kNa) | 4:22 |
 
-Snapshot ID: `MCxlZWE5ZGY3MGQ5NzA3N2UwNmRiZmNkNjg4OGE0MzEzNzg2YWQwMWI5`
+Snapshot ID: `MCxkZmE2MTg5ZmE3NDA1NGI2ODUzYWQ0MDc0ZTA2NzEzZDA0MjdiYzAy`

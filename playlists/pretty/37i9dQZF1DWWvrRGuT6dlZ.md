@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: Sissy Imann\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,119 likes - 128 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,125 likes - 128 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -137,4 +137,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 127 | [patterns](https://open.spotify.com/track/3tDY2gPHumQcyQc98Rnno5) | [d0my](https://open.spotify.com/artist/1qgcFvdiH5hS2Nkf4mZ5Gx) | [patterns](https://open.spotify.com/album/0tNRfOMisa2o4GRlRXQ92H) | 4:08 |
 | 128 | [April](https://open.spotify.com/track/24QSZBkPrq8nP5jC8UsA01) | [IZZY DANIYA](https://open.spotify.com/artist/4YTuQxRYY33qBIb7z9XG19) | [April](https://open.spotify.com/album/0wmXjCIz9FynQsAnIfQgLc) | 3:48 |
 
-Snapshot ID: `MCxiOTliOWNmNjA3YmViZTM5YzZiZWNjYzBhMmI0OGIwNzA2MGFhMTc3`
+Snapshot ID: `MCxmZjRhZjgxZGZjOTMyZDVhNzk0ODAyMDQwMGZhMjU1OTFjYThmYjRl`

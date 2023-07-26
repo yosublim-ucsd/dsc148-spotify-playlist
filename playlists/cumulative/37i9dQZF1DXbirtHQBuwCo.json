@@ -42,7 +42,7 @@
       ],
       "date_added": "2022-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 205771,
       "name": "007 (feat. Syd)",
       "url": "https://open.spotify.com/track/6FqOUCihYYu3OisVBpoEp3"
@@ -5069,6 +5069,24 @@
     },
     {
       "album": {
+        "name": "Honeymoon",
+        "url": "https://open.spotify.com/album/4q1e0pt969Sd4PaINKE0Tb"
+      },
+      "artists": [
+        {
+          "name": "twlv",
+          "url": "https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182062,
+      "name": "Honeymoon",
+      "url": "https://open.spotify.com/track/2ZPQAI9Co4ob1x5TS8kkiL"
+    },
+    {
+      "album": {
         "name": "hope you think about me",
         "url": "https://open.spotify.com/album/2tWn3EoabVDMVkCdBPQEJx"
       },
@@ -6137,6 +6155,24 @@
     },
     {
       "album": {
+        "name": "LOLO",
+        "url": "https://open.spotify.com/album/5ZBe80f6DrwaoDt8DT9oB3"
+      },
+      "artists": [
+        {
+          "name": "YUGYEOM",
+          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142893,
+      "name": "LOLO",
+      "url": "https://open.spotify.com/track/0LC7FqUsJ4NbS1kklXZH2y"
+    },
+    {
+      "album": {
         "name": "Lonely Hearts Club",
         "url": "https://open.spotify.com/album/5QGUnNNZXHaBJmymTTufoy"
       },
@@ -6622,7 +6658,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 210546,
       "name": "Lovers In The Night",
       "url": "https://open.spotify.com/track/2dX2W20qzwqM6G910woDKo"
@@ -8126,7 +8162,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 169893,
       "name": "ONCE AGAIN",
       "url": "https://open.spotify.com/track/5vsjD4VbQzkUUlvwFOhppn"
@@ -8224,6 +8260,28 @@
       "duration_ms": 240906,
       "name": "ONLY",
       "url": "https://open.spotify.com/track/6TBJkXHPhu3EsMk1bshwuI"
+    },
+    {
+      "album": {
+        "name": "Flyin' Part2 Single 1",
+        "url": "https://open.spotify.com/album/5eeZEPGJnisr35XDEirELT"
+      },
+      "artists": [
+        {
+          "name": "SURAN",
+          "url": "https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K"
+        },
+        {
+          "name": "Daniel Schulz",
+          "url": "https://open.spotify.com/artist/3pVuaUisHmRfVy53qWwmql"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185440,
+      "name": "Only one (feat. Daniel Schulz)",
+      "url": "https://open.spotify.com/track/6sZDpl4d3TEO7DSGWHCEjv"
     },
     {
       "album": {

@@ -904,7 +904,7 @@
       ],
       "date_added": "2022-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 240125,
       "name": "Antidepresan",
       "url": "https://open.spotify.com/track/4OH5Cd8ZOI1eSgJSC9PYmU"
@@ -3234,7 +3234,7 @@
       ],
       "date_added": "2023-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-26",
+      "date_removed": null,
       "duration_ms": 184182,
       "name": "DAMLA",
       "url": "https://open.spotify.com/track/1HPYGaSGPzz1QVnjCffc1f"
@@ -4263,6 +4263,24 @@
     },
     {
       "album": {
+        "name": "Enerci",
+        "url": "https://open.spotify.com/album/7HanPFqztqG1srQ7pNxDwB"
+      },
+      "artists": [
+        {
+          "name": "Dilan Polat",
+          "url": "https://open.spotify.com/artist/3VN1vaUIJPMBa90eZP2yeB"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170666,
+      "name": "Enerci",
+      "url": "https://open.spotify.com/track/3a8mVeic6p5DdMSbsQXWIx"
+    },
+    {
+      "album": {
         "name": "ESCAPE PLAN / MAFIA",
         "url": "https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve"
       },
@@ -4822,7 +4840,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 145015,
       "name": "GAZ PEDAL",
       "url": "https://open.spotify.com/track/0TbeXCwQz1oSK5eZVLnEIn"
@@ -8456,7 +8474,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 163165,
       "name": "Masal Gibi",
       "url": "https://open.spotify.com/track/05QuKF12UfS8ReyTQKbs4o"
@@ -12376,6 +12394,24 @@
       "duration_ms": 182240,
       "name": "Tutsak",
       "url": "https://open.spotify.com/track/33eHMRTXayncWkfj72BI3U"
+    },
+    {
+      "album": {
+        "name": "T\u00f6vbe",
+        "url": "https://open.spotify.com/album/27Wl0Q1RGlcHVgMgikuZrR"
+      },
+      "artists": [
+        {
+          "name": "Derya Bedavac\u0131",
+          "url": "https://open.spotify.com/artist/6eBKQVpzyvlMoQaR7buvX8"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192166,
+      "name": "T\u00f6vbe",
+      "url": "https://open.spotify.com/track/3miwaS9uZ7pZHi1zNyLGi0"
     },
     {
       "album": {

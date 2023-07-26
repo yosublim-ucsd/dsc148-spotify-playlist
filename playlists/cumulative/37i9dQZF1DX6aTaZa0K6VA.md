@@ -2,7 +2,7 @@
 
 ### [Pop Up](https://open.spotify.com/playlist/37i9dQZF1DX6aTaZa0K6VA)
 
-> Super mega hits! Foto: Dua Lipa
+> Super mega hits! Foto: Barbie
 
 367 songs - 20 hr 23 min
 

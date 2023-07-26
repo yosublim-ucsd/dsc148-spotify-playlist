@@ -1,12 +1,12 @@
 {
   "description": "self-reinvention never sounded so good.",
-  "num_followers": 46599,
+  "num_followers": 46750,
   "original_name": "hair dye",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZGMwNzU4MmU5OGQ1MzlkZjkxMjE5N2FiZmRiYjk1NmI2ODYyNDI2",
+  "snapshot_id": "MCwzMzZhYTUyNmExZTA0YzVjNmFjNzkzZjBiMTc3MGQ5OGY5YjFmODNl",
   "tracks": [
     {
       "added_at": "2023-06-02 04:00:00",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "The Frights",
-        "url": "https://open.spotify.com/album/4gCxVCBV1bThixzOFIkZB0"
-      },
-      "artists": [
-        {
-          "name": "The Frights",
-          "url": "https://open.spotify.com/artist/2HSEdXKVq1WWtBbsIeNjRX"
-        }
-      ],
-      "duration_ms": 259239,
-      "name": "Crust Bucket",
-      "url": "https://open.spotify.com/track/6YWtvUPKgCYSiPDBuAjj0Q"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "I Wish I Was Stephen Malkmus",
         "url": "https://open.spotify.com/album/75TCL3IpDAOclMk0PveSNM"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 231860,
       "name": "I Wish I Was Stephen Malkmus",
       "url": "https://open.spotify.com/track/0MXwuLvZU9cauIEXlMZcdC"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "The Frights",
+        "url": "https://open.spotify.com/album/4gCxVCBV1bThixzOFIkZB0"
+      },
+      "artists": [
+        {
+          "name": "The Frights",
+          "url": "https://open.spotify.com/artist/2HSEdXKVq1WWtBbsIeNjRX"
+        }
+      ],
+      "duration_ms": 259239,
+      "name": "Crust Bucket",
+      "url": "https://open.spotify.com/track/6YWtvUPKgCYSiPDBuAjj0Q"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-06-02 04:00:00",
       "album": {
-        "name": "Get Damaged",
-        "url": "https://open.spotify.com/album/0UpDz8iVPhlZPRLwJVkkSk"
-      },
-      "artists": [
-        {
-          "name": "Be Your Own Pet",
-          "url": "https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x"
-        }
-      ],
-      "duration_ms": 180266,
-      "name": "Becky",
-      "url": "https://open.spotify.com/track/258n2M8Xg97Vk15PzmY24O"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
         "name": "Caffeine",
         "url": "https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 144466,
       "name": "THAT SUCKS!",
       "url": "https://open.spotify.com/track/20Js2PFcXZKEdQdy7y97Jj"
+    },
+    {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Get Damaged",
+        "url": "https://open.spotify.com/album/0UpDz8iVPhlZPRLwJVkkSk"
+      },
+      "artists": [
+        {
+          "name": "Be Your Own Pet",
+          "url": "https://open.spotify.com/artist/60oPm94IK14iPqnGwkbw8x"
+        }
+      ],
+      "duration_ms": 180266,
+      "name": "Becky",
+      "url": "https://open.spotify.com/track/258n2M8Xg97Vk15PzmY24O"
     },
     {
       "added_at": "2023-06-02 04:00:00",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! Cover: The Rose",
+  "description": "Future K-Pop hits! Cover: SHOWNU X HYUNGWON (MONSTA X)",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -2502,7 +2502,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 171840,
       "name": "Cherry Talk",
       "url": "https://open.spotify.com/track/7CmjviM3EY4Xi7w8VzeULP"
@@ -2538,7 +2538,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 159053,
       "name": "Chico malo",
       "url": "https://open.spotify.com/track/7kDmaRZ2kbxqcsJrynRR8i"
@@ -7250,7 +7250,7 @@
       ],
       "date_added": "2023-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 198440,
       "name": "Journey",
       "url": "https://open.spotify.com/track/6dxgKYAH0TvoSb16xD30rD"
@@ -7652,7 +7652,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 200641,
       "name": "LEMON (Feat. SOLE, MINO)",
       "url": "https://open.spotify.com/track/1NZDEgM9f7j5l447FAcHYq"
@@ -7883,6 +7883,24 @@
     },
     {
       "album": {
+        "name": "LOLO",
+        "url": "https://open.spotify.com/album/5ZBe80f6DrwaoDt8DT9oB3"
+      },
+      "artists": [
+        {
+          "name": "YUGYEOM",
+          "url": "https://open.spotify.com/artist/3ohXmy1PGdB3XgzhPqQ0tY"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142893,
+      "name": "LOLO",
+      "url": "https://open.spotify.com/track/0LC7FqUsJ4NbS1kklXZH2y"
+    },
+    {
+      "album": {
         "name": "Daybreak",
         "url": "https://open.spotify.com/album/233QLBM9p2grpC7GMpMK6X"
       },
@@ -8058,6 +8076,24 @@
       "duration_ms": 173440,
       "name": "LOVE me",
       "url": "https://open.spotify.com/track/3oiMjDZ1bShIpFfOQf55IW"
+    },
+    {
+      "album": {
+        "name": "THE UNSEEN",
+        "url": "https://open.spotify.com/album/4gV0rLK0np1Nyde3N38RBh"
+      },
+      "artists": [
+        {
+          "name": "SHOWNU X HYUNGWON (MONSTA X)",
+          "url": "https://open.spotify.com/artist/3AFqxSVdKDJD9qPx3K8tKg"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199640,
+      "name": "Love Me A Little",
+      "url": "https://open.spotify.com/track/66RK4bz7fZGrfyBb3y9Yal"
     },
     {
       "album": {
@@ -8272,7 +8308,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 172189,
       "name": "love you twice",
       "url": "https://open.spotify.com/track/0GLXQAdrh4tdvz0JLw8DX8"
@@ -14356,7 +14392,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 180662,
       "name": "VingleVingle (Prod. R.Tee)",
       "url": "https://open.spotify.com/track/4mSb6RA9eJnXuMWChHLpgn"
@@ -14522,7 +14558,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 185400,
       "name": "Wake Up",
       "url": "https://open.spotify.com/track/6l6EPz5kfTHW6gCpRQXEQo"
@@ -15276,7 +15312,7 @@
       ],
       "date_added": "2023-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 221466,
       "name": "Wind And Wish",
       "url": "https://open.spotify.com/track/0feBL3YZOwuLcVjTZhMjRZ"

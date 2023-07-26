@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。7月23日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,292 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,348 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [優しいあの子](https://open.spotify.com/track/29RAzfejW1O69okBQXibca) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [見っけ](https://open.spotify.com/album/3nJLoQE9KBv1Nq6SGOwyK2) | 3:24 |
 | 50 | [Dial Drunk \(with Post Malone\)](https://open.spotify.com/track/22VHOlVYBqytsrAqV8yXBK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Dial Drunk \(with Post Malone\)](https://open.spotify.com/album/4XahqkOmEsKLKEhBpX8DAe) | 3:33 |
 
-Snapshot ID: `MCwxNDVlNDUzNzA0MDNjM2U3YTU4NGU3MTNmZWUxMjIxYjhjY2ViMWY3`
+Snapshot ID: `MCw1MmJmOGU0MmYxMjE1YWUxYjRjMDQ1NjRjN2VkZWQ5OGU3ZTI1OWEz`

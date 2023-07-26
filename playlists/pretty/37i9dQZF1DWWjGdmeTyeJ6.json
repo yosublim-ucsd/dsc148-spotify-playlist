@@ -1,12 +1,12 @@
 {
   "description": "The <a href=\"spotify:genre:0JQ5DAqbMKFImHYGo3eTSg\">best new music</a> by independent artists and labels. Cover: ARIA VEGA. Artwork by Isu Kim. Updates every Wednesday.",
-  "num_followers": 1158810,
+  "num_followers": 1158833,
   "original_name": "Fresh Finds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMDY2YzNlODMwNmE4ODY4ZGQ5ODcyN2M5ZDM4YjJkZjM3ZmNjYmVm",
+  "snapshot_id": "MCxiMTNhMWYwZTk5ZTE3ZGZkMjM1NjU3MzUzZTFjYjM2NTA1MzZmNDdl",
   "tracks": [
     {
       "added_at": "2023-07-19 13:30:00",
@@ -343,6 +343,26 @@
     {
       "added_at": "2023-07-19 13:30:00",
       "album": {
+        "name": "agony",
+        "url": "https://open.spotify.com/album/1Om3YkaTqCgjVsFrvyYW2V"
+      },
+      "artists": [
+        {
+          "name": "Ilykimchi",
+          "url": "https://open.spotify.com/artist/6cCXgBhHKKuftmzJTL9Omb"
+        },
+        {
+          "name": "Niles",
+          "url": "https://open.spotify.com/artist/5ZJamUavXzHaddUzHWzRHc"
+        }
+      ],
+      "duration_ms": 179090,
+      "name": "agony",
+      "url": "https://open.spotify.com/track/6KzU3opKYx4dTqnhkSUG2U"
+    },
+    {
+      "added_at": "2023-07-19 13:30:00",
+      "album": {
         "name": "What's The Point In Life",
         "url": "https://open.spotify.com/album/4rUczOIIrnjN06ezLBgt9l"
       },
@@ -389,26 +409,6 @@
       "url": "https://open.spotify.com/track/538NTj2XofLaddz3jCm6Vh"
     },
     {
-      "added_at": "2023-07-19 13:30:00",
-      "album": {
-        "name": "agony",
-        "url": "https://open.spotify.com/album/1Om3YkaTqCgjVsFrvyYW2V"
-      },
-      "artists": [
-        {
-          "name": "Ilykimchi",
-          "url": "https://open.spotify.com/artist/6cCXgBhHKKuftmzJTL9Omb"
-        },
-        {
-          "name": "Niles",
-          "url": "https://open.spotify.com/artist/5ZJamUavXzHaddUzHWzRHc"
-        }
-      ],
-      "duration_ms": 179090,
-      "name": "agony",
-      "url": "https://open.spotify.com/track/6KzU3opKYx4dTqnhkSUG2U"
-    },
-    {
       "added_at": "2023-07-19 17:46:40",
       "album": {
         "name": "HANGING WITH YOU",
@@ -423,6 +423,22 @@
       "duration_ms": 230649,
       "name": "HANGING WITH YOU",
       "url": "https://open.spotify.com/track/2Fj4zjw9tV9NY1wWq0bAKN"
+    },
+    {
+      "added_at": "2023-07-19 13:30:00",
+      "album": {
+        "name": "Kids Driving The Elevator",
+        "url": "https://open.spotify.com/album/11q7OSad2MdkC3eh2kEZlO"
+      },
+      "artists": [
+        {
+          "name": "Micah Preite",
+          "url": "https://open.spotify.com/artist/2jx7boBXTsMt8NvBRH4gYg"
+        }
+      ],
+      "duration_ms": 181781,
+      "name": "Kids Driving The Elevator",
+      "url": "https://open.spotify.com/track/2pzPC40SA14bElnW9tqgoI"
     },
     {
       "added_at": "2023-07-19 13:30:00",
@@ -481,22 +497,6 @@
       "url": "https://open.spotify.com/track/5MqDjpqTN0SilCStaEPqlj"
     },
     {
-      "added_at": "2023-07-19 13:30:00",
-      "album": {
-        "name": "Kids Driving The Elevator",
-        "url": "https://open.spotify.com/album/11q7OSad2MdkC3eh2kEZlO"
-      },
-      "artists": [
-        {
-          "name": "Micah Preite",
-          "url": "https://open.spotify.com/artist/2jx7boBXTsMt8NvBRH4gYg"
-        }
-      ],
-      "duration_ms": 181781,
-      "name": "Kids Driving The Elevator",
-      "url": "https://open.spotify.com/track/2pzPC40SA14bElnW9tqgoI"
-    },
-    {
       "added_at": "2023-07-19 17:46:40",
       "album": {
         "name": "Flexin",
@@ -545,6 +545,22 @@
       "url": "https://open.spotify.com/track/5rzB3KJ2v3Br3XKjQPArxG"
     },
     {
+      "added_at": "2023-07-19 13:30:00",
+      "album": {
+        "name": "Dying In The City",
+        "url": "https://open.spotify.com/album/4naMqYADQer6dNkLn7dvOZ"
+      },
+      "artists": [
+        {
+          "name": "FRIDAY*",
+          "url": "https://open.spotify.com/artist/0blI5gUBCHXkvOYrJ8kRvk"
+        }
+      ],
+      "duration_ms": 154224,
+      "name": "Dying In The City",
+      "url": "https://open.spotify.com/track/1qL844cbmaVe7dlsWGq2i3"
+    },
+    {
       "added_at": "2023-07-19 17:46:40",
       "album": {
         "name": "Underdogs",
@@ -563,18 +579,18 @@
     {
       "added_at": "2023-07-19 13:30:00",
       "album": {
-        "name": "Dying In The City",
-        "url": "https://open.spotify.com/album/4naMqYADQer6dNkLn7dvOZ"
+        "name": "cup!",
+        "url": "https://open.spotify.com/album/5gAQRdHjiDyojF1Er7FOwe"
       },
       "artists": [
         {
-          "name": "FRIDAY*",
-          "url": "https://open.spotify.com/artist/0blI5gUBCHXkvOYrJ8kRvk"
+          "name": "Cassie Marin",
+          "url": "https://open.spotify.com/artist/1zrtALLG8cavle3fFQ0dFH"
         }
       ],
-      "duration_ms": 154224,
-      "name": "Dying In The City",
-      "url": "https://open.spotify.com/track/1qL844cbmaVe7dlsWGq2i3"
+      "duration_ms": 134807,
+      "name": "cup!",
+      "url": "https://open.spotify.com/track/4DuLxRMYMFmawBRM9ZTJeL"
     },
     {
       "added_at": "2023-07-19 13:30:00",
@@ -593,20 +609,20 @@
       "url": "https://open.spotify.com/track/4IttRLtG3qw9qtVifGMpDj"
     },
     {
-      "added_at": "2023-07-19 13:30:00",
+      "added_at": "2023-07-19 17:46:40",
       "album": {
-        "name": "cup!",
-        "url": "https://open.spotify.com/album/5gAQRdHjiDyojF1Er7FOwe"
+        "name": "Give In",
+        "url": "https://open.spotify.com/album/5d1sYgeRv77RXDHjMQA3nL"
       },
       "artists": [
         {
-          "name": "Cassie Marin",
-          "url": "https://open.spotify.com/artist/1zrtALLG8cavle3fFQ0dFH"
+          "name": "Liza",
+          "url": "https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk"
         }
       ],
-      "duration_ms": 134807,
-      "name": "cup!",
-      "url": "https://open.spotify.com/track/4DuLxRMYMFmawBRM9ZTJeL"
+      "duration_ms": 158400,
+      "name": "Give In",
+      "url": "https://open.spotify.com/track/25QnFnHnzY8xr61IQxVuw9"
     },
     {
       "added_at": "2023-07-19 13:30:00",
@@ -641,20 +657,20 @@
       "url": "https://open.spotify.com/track/1cv1fc7ROfBivIBXrTLpEj"
     },
     {
-      "added_at": "2023-07-19 17:46:40",
+      "added_at": "2023-07-19 13:30:00",
       "album": {
-        "name": "Give In",
-        "url": "https://open.spotify.com/album/5d1sYgeRv77RXDHjMQA3nL"
+        "name": "Habits",
+        "url": "https://open.spotify.com/album/10OBztaOJGy5eDO5gOzfly"
       },
       "artists": [
         {
-          "name": "Liza",
-          "url": "https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk"
+          "name": "Cal in Red",
+          "url": "https://open.spotify.com/artist/3dXBDrVfLai40505fF4HH1"
         }
       ],
-      "duration_ms": 158400,
-      "name": "Give In",
-      "url": "https://open.spotify.com/track/25QnFnHnzY8xr61IQxVuw9"
+      "duration_ms": 240268,
+      "name": "Habits",
+      "url": "https://open.spotify.com/track/42p0WZN8y8bqx29WXYA52U"
     },
     {
       "added_at": "2023-07-19 17:46:40",
@@ -675,22 +691,6 @@
     {
       "added_at": "2023-07-19 13:30:00",
       "album": {
-        "name": "Connect",
-        "url": "https://open.spotify.com/album/1Q3CvSoiHD9TTE2dv6XjHK"
-      },
-      "artists": [
-        {
-          "name": "Vertigeux",
-          "url": "https://open.spotify.com/artist/5IxQNpPGtK9EXaak32n1qo"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "Connect",
-      "url": "https://open.spotify.com/track/4tifnKy6Q0quNJJWR8WTOa"
-    },
-    {
-      "added_at": "2023-07-19 13:30:00",
-      "album": {
         "name": "ravepack",
         "url": "https://open.spotify.com/album/4iwZiSOwmoDqBZlN4e3NBd"
       },
@@ -703,6 +703,22 @@
       "duration_ms": 177230,
       "name": "one heart baby",
       "url": "https://open.spotify.com/track/1zE0h13gK1JpzyoH1VLkkr"
+    },
+    {
+      "added_at": "2023-07-19 13:30:00",
+      "album": {
+        "name": "Connect",
+        "url": "https://open.spotify.com/album/1Q3CvSoiHD9TTE2dv6XjHK"
+      },
+      "artists": [
+        {
+          "name": "Vertigeux",
+          "url": "https://open.spotify.com/artist/5IxQNpPGtK9EXaak32n1qo"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "Connect",
+      "url": "https://open.spotify.com/track/4tifnKy6Q0quNJJWR8WTOa"
     },
     {
       "added_at": "2023-07-19 17:46:40",
@@ -719,22 +735,6 @@
       "duration_ms": 189169,
       "name": "Red Neck Yaught Club",
       "url": "https://open.spotify.com/track/39KGtlVBMQueYRKrGEDLHX"
-    },
-    {
-      "added_at": "2023-07-19 13:30:00",
-      "album": {
-        "name": "Habits",
-        "url": "https://open.spotify.com/album/10OBztaOJGy5eDO5gOzfly"
-      },
-      "artists": [
-        {
-          "name": "Cal in Red",
-          "url": "https://open.spotify.com/artist/3dXBDrVfLai40505fF4HH1"
-        }
-      ],
-      "duration_ms": 240268,
-      "name": "Habits",
-      "url": "https://open.spotify.com/track/42p0WZN8y8bqx29WXYA52U"
     },
     {
       "added_at": "2023-07-19 13:30:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-07-19 13:30:00",
       "album": {
-        "name": "333",
-        "url": "https://open.spotify.com/album/4z6cXeCAxqXOFZRXHLIUmj"
-      },
-      "artists": [
-        {
-          "name": "\u00d8MG",
-          "url": "https://open.spotify.com/artist/4LJ2wv8SaZZe50hYvpubP8"
-        }
-      ],
-      "duration_ms": 166336,
-      "name": "Media Luna",
-      "url": "https://open.spotify.com/track/7CGKC2OL5jBy33fKDH5u5f"
-    },
-    {
-      "added_at": "2023-07-19 13:30:00",
-      "album": {
         "name": "Tenderness and Purity",
         "url": "https://open.spotify.com/album/7saw3rJ7XbES6Iv2lGgk3q"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 128000,
       "name": "Tenderness and Purity",
       "url": "https://open.spotify.com/track/3d7AppklPbBmKap2mBi6aM"
+    },
+    {
+      "added_at": "2023-07-19 13:30:00",
+      "album": {
+        "name": "333",
+        "url": "https://open.spotify.com/album/4z6cXeCAxqXOFZRXHLIUmj"
+      },
+      "artists": [
+        {
+          "name": "\u00d8MG",
+          "url": "https://open.spotify.com/artist/4LJ2wv8SaZZe50hYvpubP8"
+        }
+      ],
+      "duration_ms": 166336,
+      "name": "Media Luna",
+      "url": "https://open.spotify.com/track/7CGKC2OL5jBy33fKDH5u5f"
     },
     {
       "added_at": "2023-07-19 13:30:00",
@@ -919,18 +919,18 @@
     {
       "added_at": "2023-07-19 13:30:00",
       "album": {
-        "name": "Should Have Told You",
-        "url": "https://open.spotify.com/album/5l7eHoImCCEjYvJjxnU6HF"
+        "name": "GOD INSIDE A HUMAN MACHINE",
+        "url": "https://open.spotify.com/album/1rM5dgYSZk1yGjqafhgk8A"
       },
       "artists": [
         {
-          "name": "Fourth Daughter",
-          "url": "https://open.spotify.com/artist/39tnRWNqVYGhzm1SipX6cA"
+          "name": "cool sorcery",
+          "url": "https://open.spotify.com/artist/2ql2HUwWCBWJ6mRPX3lIA4"
         }
       ],
-      "duration_ms": 178154,
-      "name": "Should Have Told You",
-      "url": "https://open.spotify.com/track/6Sw0WowIGdmGfxNfI3hRkQ"
+      "duration_ms": 90947,
+      "name": "GOD INSIDE A HUMAN MACHINE",
+      "url": "https://open.spotify.com/track/2TrVp4q1tuIXmOdRzCosMN"
     }
   ],
   "unique_name": "Fresh Finds",

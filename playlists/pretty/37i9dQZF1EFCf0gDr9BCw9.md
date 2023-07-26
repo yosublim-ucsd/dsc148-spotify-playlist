@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 546 likes - 142 songs - 10 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 547 likes - 142 songs - 10 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 58 | [Drawing Room Blues](https://open.spotify.com/track/1WqFswiLuP8cji7nskoepu) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [Miti: Duke Ellington](https://open.spotify.com/album/2l3Twfq8UB4oUGXvl3j2L0) | 3:41 |
 | 59 | [Pretty Girl \(aka The Star\-Crossed Lovers\)](https://open.spotify.com/track/3luMzvGFRxc8yFpdQGfviv) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder \(Expanded Edition\)](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 8:54 |
 | 60 | [Paris Blues](https://open.spotify.com/track/37oXUGR543Dt5z8DW2W0lB) | [Milt Jackson Quartet](https://open.spotify.com/artist/0OkXd29wRAUpYRin6jbXMQ) | [A Thrill from the Blues](https://open.spotify.com/album/0yNscfZjhm8kQO6MikxrVU) | 2:57 |
-| 61 | [Absinthe](https://open.spotify.com/track/3ZBQ8TTYYRWFlVDhV0T35f) | [Duke Ellington Orchestra](https://open.spotify.com/artist/3W4GTSHxlqXfXjdmSNIbTB) | [Afro Bossa](https://open.spotify.com/album/4rVb2K3F6BHB5aY7kg0021) | 3:32 |
-| 62 | [Night Time](https://open.spotify.com/track/3MEjLuXVGxrFBLUUmq0lni) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Piano Reflections](https://open.spotify.com/album/4fRxNElUcNCq9rUADhX1rY) | 2:33 |
+| 61 | [Night Time](https://open.spotify.com/track/3MEjLuXVGxrFBLUUmq0lni) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Piano Reflections](https://open.spotify.com/album/4fRxNElUcNCq9rUADhX1rY) | 2:33 |
+| 62 | [Absinthe](https://open.spotify.com/track/3ZBQ8TTYYRWFlVDhV0T35f) | [Duke Ellington Orchestra](https://open.spotify.com/artist/3W4GTSHxlqXfXjdmSNIbTB) | [Afro Bossa](https://open.spotify.com/album/4rVb2K3F6BHB5aY7kg0021) | 3:32 |
 | 63 | [Boo\-Dah](https://open.spotify.com/track/3lboFV3xYtNiRtHQI9Ga4D) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [And His Mother Called Him Bill](https://open.spotify.com/album/1VFa3WWYDJJCmEIwU4Ee2g) | 3:32 |
 | 64 | [Circle \- Exodus Album Version](https://open.spotify.com/track/4JZ9Pc0QK921qM5g5Aexeg) | [Plus One](https://open.spotify.com/artist/5TMRulP603VraQhrFUUKnR) | [Exodus](https://open.spotify.com/album/156VxyrWt0Y50ypQYm8HCd) | 3:26 |
 | 65 | [Medley: Toot Suite \(feat\. Britt Woodman, feat\. Britt Woodman, Jimmy Hamilton, Shorty Baker, Russell Procope, Quentin Jackson & Paul Gonsalves, feat\. Jimmy Hamilton & Shorty Baker, feat\. Paul Gonsalves, feat\. Russell Proscope & Quentin Jackson\)](https://open.spotify.com/track/6lVEpRlUShV1oev5QSe7v7) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A), [Britt Woodman](https://open.spotify.com/artist/2uWUfjAPSMukkv9JYXRRfR), [Jimmy Hamilton](https://open.spotify.com/artist/2DyjqJKeLalliPzVY3jkiO), [Paul Gonsalves](https://open.spotify.com/artist/23hRv3SqLMrj4i3b3tfUu4), [Russell Proscope](https://open.spotify.com/artist/2VkhklRSF85ZgedNixqVXZ), [Quentin Jackson](https://open.spotify.com/artist/3wjEknI2VOYTXX19XYM6hC), [Shorty Baker](https://open.spotify.com/artist/7DP7PBKuVbfPeShXxvQjXA), [Russell Procope](https://open.spotify.com/artist/5vaCDVsZZuXM6xw1VX8DR3) | [Jazz Party](https://open.spotify.com/album/3in4NPGC2wwEBgqFnCDryo) | 21:34 |
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCf0gDr9BCw9.md) - [plain]
 | 141 | [Suite For The Duo](https://open.spotify.com/track/2LhGv7K7runCfDvvacEs9L) | [The Mitchell\-Ruff Duo](https://open.spotify.com/artist/6EuDBKUzhOpVFircumtEz6) | [Strayhorn: A Mitchell\-Ruff Interpretation](https://open.spotify.com/album/5ZAbG3O5SXsmw9U7szA1Sq) | 12:42 |
 | 142 | [Zajj's Dream](https://open.spotify.com/track/0GFIr9C7miDD3jxL7i54Ra) | [Claude Bolling Big Band](https://open.spotify.com/artist/3YxemJtRsk1WR4ikdnfy6L) | [A Drum Is a Woman, conte musical de Duke Ellington \(Live au Théâtre National de Chaillot en 1996\)](https://open.spotify.com/album/4sTOOHhshmGFyo6GvxHQRc) | 5:26 |
 
-Snapshot ID: `MjgxNzA4NTAsMDAwMDAwMDA2MmQ1MzliYzU4ZWZjYjg3MzlkZDdlY2VhYmRjNWQ5MA==`
+Snapshot ID: `MjgxNzIyOTAsMDAwMDAwMDA1MGQ0ZGQyYjc4ZDA3YzRhNDNmOGU2NTllMjBkZmVlOQ==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0J6DFF0p3Vs.md) - [plain]
 
 > in a dim, dusty library, reading your novel, and thinking of that special someone
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,748 likes - 101 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,862 likes - 101 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0J6DFF0p3Vs.md) - [plain]
 | 100 | [You Don't Know What Love Is \- Rudy Van Gelder Remaster](https://open.spotify.com/track/1to5IySvboywOgXW9jCjDn) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR), [Tommy Flanagan](https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d), [Doug Watkins](https://open.spotify.com/artist/3j0ZsENc1qq8vQ0stKX2z1), [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [Saxophone Colossus](https://open.spotify.com/album/2dtjLAwt7Cq763h6AupyPZ) | 6:29 |
 | 101 | [Almost Blue](https://open.spotify.com/track/2Mb0UmjVuMQ1Pgcyko9dW3) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker In Tokyo \(The Complete Concert\)](https://open.spotify.com/album/5Bybs5AFT2nP55AlP27d0q) | 7:55 |
 
-Snapshot ID: `MCw1MzRlMGY4YWU2NzQzMDAzMmMxMTQ1YWZmZWU5NWM3ZWQ5Y2MzNjRh`
+Snapshot ID: `MCw5OGNlYWI2ZjBhZDFkOWVjOWRhZWVkNThhNmFmOTAzMGM3MzBjMmFh`

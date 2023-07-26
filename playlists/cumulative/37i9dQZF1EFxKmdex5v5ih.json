@@ -5661,6 +5661,24 @@
     },
     {
       "album": {
+        "name": "i care so much that i dont care at all",
+        "url": "https://open.spotify.com/album/05vrswB4MQ52sF3ZyX1jDC"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193612,
+      "name": "tiziana",
+      "url": "https://open.spotify.com/track/1sRk2aDhvKOoBvXc225wgl"
+    },
+    {
+      "album": {
         "name": "Try Again (feat. Lauv)",
         "url": "https://open.spotify.com/album/19CXVGNF0uSHVc5f4zCmi4"
       },

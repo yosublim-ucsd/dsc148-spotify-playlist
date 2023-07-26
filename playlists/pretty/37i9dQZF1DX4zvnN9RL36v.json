@@ -1,12 +1,12 @@
 {
   "description": "\ub0b4 \ub9c8\uc74c\uc744 \ub178\ub7ab\ub9d0\uc774 \uc54c\uc544\uc904 \ub54c.",
-  "num_followers": 5588,
+  "num_followers": 5592,
   "original_name": "\ub098 \ud63c\uc790 \uc88b\uc544\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Y2NkZjU2NzkwOTBmYzEzZGY4ZDFkOGJjZWZmMmQ4Nzc3MTNkZGFk",
+  "snapshot_id": "MCw3ZTdlZTY5NjBkYTAwMDM2NWFkMzZkY2IyNDA1MDAyZjQxZDgyNjZm",
   "tracks": [
     {
       "added_at": "2023-05-02 09:09:27",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "My Mister (Original Television Soundtrack), Pt. 3",
-        "url": "https://open.spotify.com/album/1UMbArkE5oPJArjsfiDxqw"
-      },
-      "artists": [
-        {
-          "name": "Jung Seung Hwan",
-          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
-        }
-      ],
-      "duration_ms": 274836,
-      "name": "An Ordinary Day",
-      "url": "https://open.spotify.com/track/2RzUXBM4M82BfsGriLx8mk"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
         "name": "\uad6c\uc560 (\u6c42\u611b) Propose",
         "url": "https://open.spotify.com/album/0Kkbekrv59RZxdbbZ6ICyZ"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 213222,
       "name": "\uad6c\uc560 (\u6c42\u611b) Propose",
       "url": "https://open.spotify.com/track/5l4dUjmoMoPaobxwjOZYPY"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
+        "name": "My Mister (Original Television Soundtrack), Pt. 3",
+        "url": "https://open.spotify.com/album/1UMbArkE5oPJArjsfiDxqw"
+      },
+      "artists": [
+        {
+          "name": "Jung Seung Hwan",
+          "url": "https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng"
+        }
+      ],
+      "duration_ms": 274836,
+      "name": "An Ordinary Day",
+      "url": "https://open.spotify.com/track/2RzUXBM4M82BfsGriLx8mk"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -519,6 +519,22 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
+        "name": "First Love",
+        "url": "https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 232729,
+      "name": "One-Sided Love",
+      "url": "https://open.spotify.com/track/3D37MXSt6srzIR4nhopEoE"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
         "name": "Da Capo",
         "url": "https://open.spotify.com/album/2aFUFpaIjQQV7dWYsWsvEx"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 267640,
       "name": "She Said (With Kwon Jin Ah)",
       "url": "https://open.spotify.com/track/7B6NK8YKCwPNqKnVTgMmtE"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
-        "name": "First Love",
-        "url": "https://open.spotify.com/album/74thqvuyVQfosFffvKx2uo"
-      },
-      "artists": [
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 232729,
-      "name": "One-Sided Love",
-      "url": "https://open.spotify.com/track/3D37MXSt6srzIR4nhopEoE"
     },
     {
       "added_at": "2023-05-02 09:09:27",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-05-02 09:09:27",
       "album": {
-        "name": "The Forbidden Marriage, Pt. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0l0tL7F4yLUwG3Ms2ivBsI"
-      },
-      "artists": [
-        {
-          "name": "EUNHA",
-          "url": "https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk"
-        }
-      ],
-      "duration_ms": 213823,
-      "name": "Do You Know That",
-      "url": "https://open.spotify.com/track/4EjqDwJRJUfalKsIMfhjMt"
-    },
-    {
-      "added_at": "2023-05-02 09:09:27",
-      "album": {
         "name": "AMY",
         "url": "https://open.spotify.com/album/0qocbypKL5iOqhvbt3n3uo"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 199960,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/6ly2IeEPXEtzsUMgwOk3P6"
+    },
+    {
+      "added_at": "2023-05-02 09:09:27",
+      "album": {
+        "name": "The Forbidden Marriage, Pt. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0l0tL7F4yLUwG3Ms2ivBsI"
+      },
+      "artists": [
+        {
+          "name": "EUNHA",
+          "url": "https://open.spotify.com/artist/4MLK9Hhz7UhxAzU2awoLxk"
+        }
+      ],
+      "duration_ms": 213823,
+      "name": "Do You Know That",
+      "url": "https://open.spotify.com/track/4EjqDwJRJUfalKsIMfhjMt"
     },
     {
       "added_at": "2023-05-02 09:09:27",

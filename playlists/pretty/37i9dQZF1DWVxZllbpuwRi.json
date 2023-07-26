@@ -1,12 +1,12 @@
 {
   "description": "Aqui o ver\u00e3o dura 365 dias! Passe o protetor solar, aumente o som e aperte o play!",
-  "num_followers": 628287,
+  "num_followers": 628253,
   "original_name": "Ver\u00e3o Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlN2RhMTY4NDhhNzUzNTNmNjM2MzczYTg2MjhlMTVlYjE5NWE1MTM4",
+  "snapshot_id": "MCwyMzQ3ODdlODFjN2YwZjlhN2FkZDc1MWJjYTlhYzU3Yjc1ZWUyMWI3",
   "tracks": [
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1399,26 +1399,6 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "Lento",
-        "url": "https://open.spotify.com/album/3P5vWf0KJyYObvNKB7jP00"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 188910,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/2XghxCSGfhpGR2B3ahQXVr"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
         "name": "Rueda (Remix)",
         "url": "https://open.spotify.com/album/30hCIU4mQfd14LVCLCOdmA"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 212307,
       "name": "Rueda - Remix",
       "url": "https://open.spotify.com/track/3EWxpqOSP0KWgUmRiklqGy"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
+        "name": "Lento",
+        "url": "https://open.spotify.com/album/3P5vWf0KJyYObvNKB7jP00"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 188910,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/2XghxCSGfhpGR2B3ahQXVr"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -2011,6 +2011,22 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
+        "name": "Carita Linda",
+        "url": "https://open.spotify.com/album/74MzjPeqHE1Hl1rfjbsess"
+      },
+      "artists": [
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "duration_ms": 199026,
+      "name": "Carita Linda",
+      "url": "https://open.spotify.com/track/3nEpf7LfISOfV1lxtAD6ks"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
         "name": "CHAMA MEU NOME",
         "url": "https://open.spotify.com/album/0wPKAGItuL6gBgVsgxbjn1"
       },
@@ -2043,22 +2059,6 @@
       "duration_ms": 212106,
       "name": "La fiesta",
       "url": "https://open.spotify.com/track/0v1EnT2sDsuLnvwo7Z3N3c"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
-        "name": "Carita Linda",
-        "url": "https://open.spotify.com/album/74MzjPeqHE1Hl1rfjbsess"
-      },
-      "artists": [
-        {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
-        }
-      ],
-      "duration_ms": 199026,
-      "name": "Carita Linda",
-      "url": "https://open.spotify.com/track/3nEpf7LfISOfV1lxtAD6ks"
     },
     {
       "added_at": "2023-02-17 03:00:00",

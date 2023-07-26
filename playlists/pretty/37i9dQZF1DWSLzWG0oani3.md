@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLzWG0oani3.md) - [plain]
 
 > Suena en el barrio, suena acá\. Foto: DT.Bilardo
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,812 likes - 68 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,813 likes - 68 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLzWG0oani3.md) - [plain]
 | 54 | [Soltera \(feat\. Yubeili\)](https://open.spotify.com/track/1hWqwMeqQLKEp8YWziERbv) | [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Papichamp](https://open.spotify.com/artist/1qoJTYkRvsRJMTOxnUnpNW), [Yubeili](https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV) | [Soltera \(feat\. Yubeili\)](https://open.spotify.com/album/5Qrm1Punx3Da7bmCLxt9tX) | 3:11 |
 | 55 | [Los P\*\*\*s De Tu Barrio](https://open.spotify.com/track/1imiqMjAQXY4nFpWhcrULD) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Los P\*\*\*s De Tu Barrio](https://open.spotify.com/album/4xvznKupTijPk5f8wTanwS) | 3:06 |
 | 56 | [PELIKULON](https://open.spotify.com/track/0rPEpIVIp65ZumM73NHF1g) | [John C](https://open.spotify.com/artist/66lf5bQo2BIEue1pxfgxQS) | [PELIKULON](https://open.spotify.com/album/1VE8jKvj4DI44sYqDg8xp7) | 2:43 |
-| 57 | [Requisito 420](https://open.spotify.com/track/5gBstAsizJCElj5GZiYaXO) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Requisito 420](https://open.spotify.com/album/0qUMeOVnDA8pRLJsulFYTG) | 3:22 |
+| 57 | [Requisito 420](https://open.spotify.com/track/5gBstAsizJCElj5GZiYaXO) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Requisito 420](https://open.spotify.com/album/0qUMeOVnDA8pRLJsulFYTG) | 3:22 |
 | 58 | [CARANCHO](https://open.spotify.com/track/6PMWJlpsP6uocjP4YTUW3H) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [CARANCHO](https://open.spotify.com/album/0YnJLL2o3w6VkVWZKTpz6N) | 2:29 |
 | 59 | [INDIQUEN \| E3](https://open.spotify.com/track/0mrioCB3wq09Zz7YN3Q4C4) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [Alejo Isakk](https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ) | [INDIQUEN \| E3](https://open.spotify.com/album/0tR8VEP2fcNDGdQFEOpfAo) | 2:40 |
 | 60 | [TÓXICO](https://open.spotify.com/track/7lVexLyckzOX9JA5cpit2q) | [Miyah](https://open.spotify.com/artist/5rE2HaYrmTza8MPBzzujzw), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [TÓXICO](https://open.spotify.com/album/2o6MmB7F65tlt1XSQhNLby) | 2:08 |
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLzWG0oani3.md) - [plain]
 | 67 | [COLALESS](https://open.spotify.com/track/1dFLJAcfWbmi6StNxbINYC) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [Al Records](https://open.spotify.com/artist/6gzfKa8KmgcAfhbeeKo28T) | [COLALESS](https://open.spotify.com/album/6ce7xozbRAShrQTAyLVlQV) | 1:48 |
 | 68 | [Bandera](https://open.spotify.com/track/3eFsHyp8k4jkfdTIoIj3BN) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [El Mas Berrako](https://open.spotify.com/artist/4QCMJeV5aPlZCswgzTyX2X) | [Bandera](https://open.spotify.com/album/0f3uhIYi9PccAtszSB6AcM) | 2:19 |
 
-Snapshot ID: `MCw3NDQ0YzA2OGJhNDA5NzRiYTQxMjliNDIzY2JiNjkzZTcwYzRlNWNi`
+Snapshot ID: `MCw3ZGIyNzZiZWVmYTVlYzY2M2JkOGQ4MTAwZjQzNjJlYzVlYjdmZTg2`

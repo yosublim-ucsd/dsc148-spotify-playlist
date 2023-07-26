@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-1,230 songs - 2 day 17 hr 47 min
+1,231 songs - 2 day 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,7 @@
 | [CC GIRL](https://open.spotify.com/track/45F9bX6w7mfa4uTDyQtAOu) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [Hawk](https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw) | [BLESSED](https://open.spotify.com/album/4Q9oW9CToVGcsXmkgj1ykP) | 3:29 | 2023-05-13 | 2023-06-10 |
 | [CC Set](https://open.spotify.com/track/3v8fxsdHFgyBzpHhWcuYd3) | [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9) | [Traplife](https://open.spotify.com/album/3nTsR92xyAHjKmlz7xNAT3) | 2:35 | 2023-04-29 | 2023-05-13 |
 | [Ccinderella](https://open.spotify.com/track/66CYbiCfPLwHJ3BUX4XMym) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [Koas](https://open.spotify.com/artist/0tkAO7XjyXcLahiHPTtfqW), [Sickside](https://open.spotify.com/artist/2XURl3PiYtmMgwhOcVuhoU) | [Kentrodytika](https://open.spotify.com/album/5Bu0bh5LUjTmJjJXffLEMS) | 4:12 | 2021-07-15 | 2021-07-18 |
-| [CELINE](https://open.spotify.com/track/2oAoWaGzQeq8JMywmukQ8J) | [Hawk](https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw), [Baghdad](https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma) | [LIBERTA](https://open.spotify.com/album/049c0BOb2WWKTE7QoSZr2F) | 2:27 | 2022-05-20 |  |
+| [CELINE](https://open.spotify.com/track/2oAoWaGzQeq8JMywmukQ8J) | [Hawk](https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw), [Baghdad](https://open.spotify.com/artist/5XABVWdxtyuupsE2YUGrma) | [LIBERTA](https://open.spotify.com/album/049c0BOb2WWKTE7QoSZr2F) | 2:27 | 2022-05-20 | 2023-07-26 |
 | [Certy](https://open.spotify.com/track/14vC8q17NqQXBp5wHHBE3J) | [Gio Melody](https://open.spotify.com/artist/0Sh0w5zB1VEVANn4VO0GEp), [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [FoReal](https://open.spotify.com/artist/6H2UYbeIstv2s1ZTlaE29W) | [DFFRNT](https://open.spotify.com/album/0gnRsSDnkKSmiHdAEFA3nn) | 3:57 | 2021-11-25 | 2021-11-26 |
 | [Cha Cha Cha](https://open.spotify.com/track/5RX8T3EoTuXcybAxe6oPAw) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r) | [Cha Cha Cha](https://open.spotify.com/album/5rBqeRlrrzR77MAkbgAmS6) | 2:55 | 2023-05-15 | 2023-05-21 |
 | [Chacha](https://open.spotify.com/track/6Fpi76OfQzByjPqBmp8CT0) | [Sin Boy](https://open.spotify.com/artist/6WP5LSNdr1E55tl6USzhVB), [Rina](https://open.spotify.com/artist/3YcL3bSWEjKaFlTpZtF7P7) | [Nos](https://open.spotify.com/album/0XlORSbgngaZZaKPvJbv3d) | 3:15 | 2021-07-09 | 2021-07-10 |
@@ -1201,6 +1201,7 @@
 | [WHO YOU?](https://open.spotify.com/track/1sUJwKbP3Ci9nXeWKID9lc) | [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z) | [WHO YOU?](https://open.spotify.com/album/4lWvqIPlyxtlYnjATYx4Q3) | 3:01 | 2022-11-26 | 2022-12-03 |
 | [Whoopty](https://open.spotify.com/track/1t9WgS8FN0534tLBRwbaxO) | [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb) | [Loyalty Over Royalty](https://open.spotify.com/album/0kHRftVXaiRHgQdtviml0G) | 2:03 | 2021-03-27\* | 2021-05-06 |
 | [Willie Wonka](https://open.spotify.com/track/65E5pMq4njVePLPorQnolb) | [RICTA](https://open.spotify.com/artist/4YiKEuOS5GwMujJMkIPGFN), [Koas](https://open.spotify.com/artist/0tkAO7XjyXcLahiHPTtfqW), [Ortiz](https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR), [Savv](https://open.spotify.com/artist/0OFppp8Z3TaehuqGoC6BD1) | [Kentrodytika](https://open.spotify.com/album/5Bu0bh5LUjTmJjJXffLEMS) | 3:10 | 2021-07-15 | 2021-07-16 |
+| [WKEANOUS](https://open.spotify.com/track/4R2e2aZ1oHB2kZkJTKJtCY) | [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [WKEANOUS](https://open.spotify.com/album/3ozfHeYk4S4aV11Czfc4Ul) | 2:30 | 2023-07-25 |  |
 | [WOAH](https://open.spotify.com/track/4xZ59WxpeOJ8REpvsdfraN) | [Wang](https://open.spotify.com/artist/3ef2an5giEP6Hc60lKEVEy), [Mateos Nps](https://open.spotify.com/artist/24GETi9IpzvcwHLVIegWwV) | [WOAH](https://open.spotify.com/album/5OwymxCmRK0yDbTzWRKwOs) | 3:02 | 2023-01-28 | 2023-03-04 |
 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 | 2021-08-11 | 2021-10-27 |
 | [Woo Baby \(feat\. Chris Brown\)](https://open.spotify.com/track/58T4yPLn4NjBYXfRxeweyM) | [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Faith](https://open.spotify.com/album/2MlT9dGKoGH2hsfcz7UUXL) | 2:36 | 2021-07-18 | 2021-07-19 |

@@ -563,6 +563,28 @@
     },
     {
       "album": {
+        "name": "Deva Raaja (From \"Baby\")",
+        "url": "https://open.spotify.com/album/0aSxprg9rrJscWulKritHu"
+      },
+      "artists": [
+        {
+          "name": "Vijai Bulganin",
+          "url": "https://open.spotify.com/artist/6umn0ODoYa5UsGpswA99gx"
+        },
+        {
+          "name": "Arya Dhayal",
+          "url": "https://open.spotify.com/artist/3wgZfKbyO4MfUMvfDlxdQp"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341600,
+      "name": "Deva Raaja (From \"Baby\")",
+      "url": "https://open.spotify.com/track/6KUAJvrLISj8EytPvGu7Yu"
+    },
+    {
+      "album": {
         "name": "Vinaya Vidheya Rama",
         "url": "https://open.spotify.com/album/6LgFMvJH3ChdcFHgpCYCkF"
       },

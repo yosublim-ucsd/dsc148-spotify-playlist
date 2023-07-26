@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 
 > Artistas independientes emergentes, cada miércoles\. Foto: MENTIRA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,177 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,184 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhn3qoy98w6.md) - [plain]
 | 49 | [MUEREN LAS ESTRELLAS ☆](https://open.spotify.com/track/39GHO5eAortkl2St1TKnWi) | [Goldb](https://open.spotify.com/artist/6XoCMoXP0JgPXeSGdglEXt) | [MUEREN LAS ESTRELLAS ☆](https://open.spotify.com/album/5zPtmNQl4BBAGk4jcrWpJn) | 3:30 |
 | 50 | [PAY FOR IT](https://open.spotify.com/track/71PGzpNPZi05YnkeiyaXXw) | [BRAVA](https://open.spotify.com/artist/3O2c7Rx1wcqMVkq9pZn4WZ), [Dellachaouen](https://open.spotify.com/artist/42KvInQHbbKzmb8rsimvwv), [LaJoyeria](https://open.spotify.com/artist/0jhPpyUbC4zYPoNWJ0PQLt) | [PAY FOR IT](https://open.spotify.com/album/5Q79nemJLztzqYrdgJ4MOd) | 2:56 |
 
-Snapshot ID: `MCw4ODY2ZWFiYmQ0Y2Y1NDYwZjhiNTMyZGNhYTAwNDNhYjI0Mjg2MjRl`
+Snapshot ID: `MCxkMWQ0NjU4YWEwMTFkYmI5NjkwMjU5ZmUyOTJkYzJiYzFmOGRiODMy`

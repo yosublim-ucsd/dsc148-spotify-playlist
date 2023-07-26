@@ -4,7 +4,7 @@
 
 > Le cinéma ça s'écoute aussi.
 
-155 songs - 9 hr 1 min
+156 songs - 9 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,8 @@
 | [Lose Yourself](https://open.spotify.com/track/6GkTKjv1XbFVdI2D8vvDPu) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [8 Mile \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/353HFOqGHySp027oyr3aGs) | 5:20 | 2023-02-24 |  |
 | [Love Is A Losing Game \- Live At The Mercury Music Awards](https://open.spotify.com/track/1DYCdxNAVNUCAOlAi7aP5o) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [AMY \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3) | 2:32 | 2022-09-07 | 2023-02-25 |
 | [Love Is Strange](https://open.spotify.com/track/66Yxbr2UODJjVBKdZtbnOL) | [Mickey & Sylvia](https://open.spotify.com/artist/4Ej7Oks6loB2oJQ3O7Rujs) | [Dirty Dancing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g) | 2:53 | 2022-09-07 | 2023-02-25 |
-| [Love Theme From "The Godfather"](https://open.spotify.com/track/39zu6JGd6tvRNsqyK78RLk) | [Nino Rota](https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo), [Carlo Savina](https://open.spotify.com/artist/0JPH3a8DUy38JvZsdhmEnC) | [The Godfather](https://open.spotify.com/album/5CeLOKEJeP3EpEdT9v2lep) | 2:38 | 2022-09-07 |  |
+| [Love Theme From "The Godfather"](https://open.spotify.com/track/39zu6JGd6tvRNsqyK78RLk) | [Nino Rota](https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo), [Carlo Savina](https://open.spotify.com/artist/0JPH3a8DUy38JvZsdhmEnC) | [The Godfather](https://open.spotify.com/album/5CeLOKEJeP3EpEdT9v2lep) | 2:38 | 2022-09-07 | 2023-07-26 |
+| [Love Theme From "The Godfather" \- From "The Godfather" Soundtrack](https://open.spotify.com/track/0OJ0eNR9c53PkfXuwX3DJ0) | [Nino Rota](https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo), [Carlo Savina](https://open.spotify.com/artist/0JPH3a8DUy38JvZsdhmEnC) | [Love Theme From "The Godfather" / The Godfather Waltz \(Main Title\)](https://open.spotify.com/album/7hBpMvQgZzFVt8LQOsUJFY) | 2:38 | 2023-02-24 |  |
 | [Lux Aeterna](https://open.spotify.com/track/62Da3JOu9H9EIgmqV7DoLG) | [Clint Mansell](https://open.spotify.com/artist/01xiB0IlXMXy3wrrotgDnU), [Kronos Quartet](https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3) | [Requiem for a Dream / OST](https://open.spotify.com/album/7Jkv05qDgXZynnNaYcxY5W) | 3:54 | 2022-09-07 | 2023-02-25 |
 | [Main on End](https://open.spotify.com/track/5POrWnsqEV6HwTcRKLdXxk) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Avengers: Endgame \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6r4Vfnoifx2CLiTKCaKji8) | 3:11 | 2022-09-07 | 2022-12-29 |
 | [Main Title and The Attack on the Jakku Village](https://open.spotify.com/track/0o9AEYW61Jb0dwmHlVhXk5) | [John Williams](https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb) | [Star Wars: The Force Awakens \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3fUKGTsiYL1kSroBWBLmmR) | 6:25 | 2023-02-24 |  |

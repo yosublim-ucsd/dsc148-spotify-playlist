@@ -4,7 +4,7 @@
 
 > Uma seleção especial do jazz nacional\. Foto: Amaro Freitas
 
-125 songs - 10 hr 35 min
+126 songs - 10 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [Casa do Pai](https://open.spotify.com/track/5SthlSWzSjysVpA83OJ8T0) | [Letieres Leite Quinteto](https://open.spotify.com/artist/7enKCa7fe6QKapOmqkDExx), [Letieres Leite](https://open.spotify.com/artist/6PfM3hmcsbnVIKi8sW6VuC), [Marcelo Galter](https://open.spotify.com/artist/46ZH0DbyOESN5WRGnOOzLQ), [Ldson Galter](https://open.spotify.com/artist/0UHNgcAR4c2zaOU8wRcq4R), [Tito Oliveira](https://open.spotify.com/artist/2JBwVBVCmhgLzbq6QrnhZ4), [Luizinho do Jêje](https://open.spotify.com/artist/55xiLy2qB26L3qGslEMszh) | [O Enigma Lexeu](https://open.spotify.com/album/52Vs6AyLKN7Fzw22WKsUzl) | 7:36 | 2022-07-08 |  |
 | [CasaBrancaBrinCadeira](https://open.spotify.com/track/5q39i9docmNZaQzwNDA9YH) | [Jaques Morelenbaum](https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d), [Jaques Morelenbaum Cellosam3atrio](https://open.spotify.com/artist/5Du1aBiUwXn3ObWKa3BmjS), [Lula Galvão](https://open.spotify.com/artist/1fjf6ys7DWMxBlHVVT8HTs), [Rafael Barata](https://open.spotify.com/artist/5H0JsjEdShoczu7NKURyJ2), [Zeca Assumpção](https://open.spotify.com/artist/7gKUlLG0rXbo1vFLzl59AF), [Cristóvão Bastos](https://open.spotify.com/artist/1lOQN7mWnDiUd5GIauuTc7) | [CasaBrancaBrinCadeira](https://open.spotify.com/album/3tqXcipTksGPAWJbqVvN48) | 6:36 | 2022-07-08 |  |
 | [Caxanga](https://open.spotify.com/track/00zXlQzPHRh1rwq7v2CvC5) | [Antonio Adolfo](https://open.spotify.com/artist/41ZdHyHrzKwE6Y8dtDQ1Q9) | [Bruma: Celebrating Milton Nascimento](https://open.spotify.com/album/5SN0MQBy1iyHIjbYyl7J0e) | 4:56 | 2022-07-08 |  |
-| [Chablis](https://open.spotify.com/track/5dbtSvnRtBa4eSzm4hqVD1) | [Angel Ruediger](https://open.spotify.com/artist/3Xp2zhqhMeT9j9bNIeyZWU) | [Rioja](https://open.spotify.com/album/4EGJWju5MvV3Wtoaj1fThC) | 1:58 | 2023-07-07 |  |
+| [Chablis](https://open.spotify.com/track/5dbtSvnRtBa4eSzm4hqVD1) | [Angel Ruediger](https://open.spotify.com/artist/3Xp2zhqhMeT9j9bNIeyZWU) | [Rioja](https://open.spotify.com/album/4EGJWju5MvV3Wtoaj1fThC) | 1:58 | 2023-07-07 | 2023-07-26 |
+| [Chablis](https://open.spotify.com/track/79YRnWQobPXpN4WrxhUXgY) | [Angel Ruediger](https://open.spotify.com/artist/3Xp2zhqhMeT9j9bNIeyZWU) | [Somethin' Jazzy](https://open.spotify.com/album/6H1R9I9eR9VUF6rlIhfu6m) | 1:58 | 2023-07-07 |  |
 | [Cinepoesia: Samba do Árvore](https://open.spotify.com/track/5Y8IdY1g5QhXlC9hZR1Db4) | [Léa Freire](https://open.spotify.com/artist/5Xi6LikdXrsu4boWVR03Uo) | [Cinepoesia: Samba do Árvore](https://open.spotify.com/album/64Muop8ZCdm90mIyf1Llvk) | 2:43 | 2022-07-08 |  |
 | [Climão](https://open.spotify.com/track/6ovDXiIzy40XMI85632P48) | [RP Project](https://open.spotify.com/artist/2G96dMRTHqkjyMbCO9htbY), [Walmir Gil](https://open.spotify.com/artist/3nOhlQgPhTYWJ9WOvyFygs) | [Climão](https://open.spotify.com/album/45j1UtPcqzwclLJlZcFjBm) | 7:10 | 2022-07-08 | 2023-04-29 |
 | [Clube da Esquina \#2](https://open.spotify.com/track/7zsmMYWpFYuwbUBoS7ZoN3) | [Hamilton De Holanda Quintet](https://open.spotify.com/artist/6MzenfFiF1pl744GDCZbKP) | [Casa De Bituca](https://open.spotify.com/album/0jSp6arhifs3cSVyiRURX3) | 3:58 | 2022-07-08 |  |

@@ -2,7 +2,7 @@
 
 ### [K\-Pop Acoustic](https://open.spotify.com/playlist/37i9dQZF1DX1wdZM1FEz79)
 
-> Chillout to the coolest Korean acoustic tunes\. \(Cover: hoonjeongyang\(훈정양\)\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
+> Chillout to the coolest Korean acoustic tunes\. \(Cover: GyeongseoYeji\(경서예지\)\) \(감미롭고 부드러운 한국 어쿠스틱 음악과 함께하세요.\)
 
 464 songs - 1 day 3 hr 36 min
 
@@ -246,7 +246,7 @@
 | [My Dearest](https://open.spotify.com/track/5wypJbC2SO46N03RaEhy3w) | [DRAWMODE](https://open.spotify.com/artist/5GyIzYxwroBU1oR2y7cdDB) | [My Dearest](https://open.spotify.com/album/7vmIcDy2nEGulK63hHo3HY) | 3:21 | 2023-01-19 | 2023-02-07 |
 | [My Destiny](https://open.spotify.com/track/2AttvRNr7CW8KEYOaK2ElA) | [KIM YO HAN](https://open.spotify.com/artist/49p6UP6XmVrB73XB2CSOVD) | [Love Catcher in Bali, Pt\. 3 \(Original Soundtrack\)](https://open.spotify.com/album/439TfzqRqaIX84wfVmSrg4) | 3:14 | 2023-01-11 | 2023-01-26 |
 | [My Love](https://open.spotify.com/track/3B60EkZSvq0tuY7xzjb9Fu) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [공감 \(Empathy\) \- The 1st Mini Album](https://open.spotify.com/album/4dqWy2Soq1Z1rqgKfXOATk) | 2:54 | 2021-12-10 |  |
-| [My Love](https://open.spotify.com/track/5nNT4r7Uf5BC2q1YGBAHKS) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [\[01\]](https://open.spotify.com/album/1GVFJfl3LTpXNR1kwbEONJ) | 3:53 | 2023-04-27 | 2023-07-13 |
+| [My Love](https://open.spotify.com/track/5nNT4r7Uf5BC2q1YGBAHKS) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [\[01\]](https://open.spotify.com/album/1GVFJfl3LTpXNR1kwbEONJ) | 3:53 | 2023-04-27 |  |
 | [My Night My Star](https://open.spotify.com/track/1SXVfhKdeOm5zEVtB5KLWG) | [GUNHO](https://open.spotify.com/artist/2eR3EeRLLHMoluqhYh0IGb) | [My Night My Star](https://open.spotify.com/album/6XPt8zxnyX6fww9hiTxIcd) | 3:41 | 2022-03-31 | 2022-04-13 |
 | [My secret, My everything](https://open.spotify.com/track/6VNyKGgsdiRCh7943735wV) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp), [Vincent Blue](https://open.spotify.com/artist/2AZgVjkPB4a4ULepFyPPgZ) | [Sh\*\*ting Stars \(Original Television Soundtrack\) Pt.3](https://open.spotify.com/album/3CtH176Djh4qoKAaV2NHdL) | 4:11 | 2022-05-13 | 2023-06-04 |
 | [My Ultimate First Love](https://open.spotify.com/track/0CTjpVWIfGtKKrluFFF0Ua) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.4 \[My Ultimate First Love\]](https://open.spotify.com/album/1nUlrJhEFlXlLDWF5DgBpT) | 4:26 | 2023-05-15 |  |
@@ -464,7 +464,7 @@
 | [안아줄게 Hug](https://open.spotify.com/track/47eclhrYK6S9x4jdkyxI2C) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [REPLAY \- The 8th Repackage Album](https://open.spotify.com/album/5uxH9so2Yrmi6nLClUZJkv) | 3:46 | 2022-03-31 | 2022-04-07 |
 | [여름밤이 좋아](https://open.spotify.com/track/080VL8QproPYARQU7GIPIC) | [Machiato](https://open.spotify.com/artist/2w03NP16AfyZ3rFUkfHu7J), [차유리](https://open.spotify.com/artist/0S2su7wGhjyz0ayWGMgdbu) | [여름밤이 좋아](https://open.spotify.com/album/3I3t9IBkw24sehiIxwzIJC) | 3:02 | 2022-03-31 | 2022-04-12 |
 | [오늘의 너](https://open.spotify.com/track/5lvvCgodu7FpPbtGB55vUi) | [O.WHEN](https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq) | [오늘의 웹툰 \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/6dmQsUekAewFhnzEi3jjFk) | 3:09 | 2022-08-18 | 2022-09-03 |
-| [오래된 친구야](https://open.spotify.com/track/68GizNN1vaMDigMglrNSbz) | [훈정양](https://open.spotify.com/artist/4dv6MuOGWS4Y6tt7IbTnfp) | [오래된 친구야](https://open.spotify.com/album/4bribotdlCA4my5DopU8aS) | 3:20 | 2023-07-19 |  |
+| [오래된 친구야](https://open.spotify.com/track/68GizNN1vaMDigMglrNSbz) | [훈정양](https://open.spotify.com/artist/4dv6MuOGWS4Y6tt7IbTnfp) | [오래된 친구야](https://open.spotify.com/album/4bribotdlCA4my5DopU8aS) | 3:20 | 2023-07-19 | 2023-07-26 |
 | [오월의 나무](https://open.spotify.com/track/4SvybiKZukEaXOk4xA2laz) | [Lucite Tokki](https://open.spotify.com/artist/5AXPLM73kNsbt3lh5bysN9) | [오월의 나무](https://open.spotify.com/album/7eyIv9fDkaHtnVtJGj5It4) | 3:43 | 2022-03-31 | 2022-04-02 |
 | [오지 않을 너에게 Don\`t Say Goodbye](https://open.spotify.com/track/49hDsEZITRSiMpDj3DG2xu) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Jooyeahin](https://open.spotify.com/artist/26N01XaKDXpRwspCsxM82w) | [새봄, 03 소품집 \`겨울 우리\` How I Love You](https://open.spotify.com/album/450lHoZWkYEPoVAAMygbgB) | 3:40 | 2022-03-31 | 2022-04-20 |
 | [일기예보](https://open.spotify.com/track/0L0fkd5rNncIy3PWKe4OW9) | [카페모카](https://open.spotify.com/artist/5BF4JZwqktSwyAEmpjLLN0), [명다원](https://open.spotify.com/artist/62PadTYQecttv7r6Gc2L77) | [weather forecast](https://open.spotify.com/album/1y0mXaR9Zo3nIKUdxldpnF) | 3:13 | 2022-03-31 | 2022-06-06 |

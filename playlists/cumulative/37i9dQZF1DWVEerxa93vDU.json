@@ -160,7 +160,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 111719,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/6L72yLmrVEasOQ42jonfO1"
@@ -268,7 +268,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 96400,
       "name": "Apr\u00e8s la pluie",
       "url": "https://open.spotify.com/track/3ka7WVr5XgsMSION5OLKOl"
@@ -304,7 +304,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 96500,
       "name": "As The Crow Flies",
       "url": "https://open.spotify.com/track/3Tny1IsUZeQyXJEwrzSYSp"
@@ -326,6 +326,24 @@
       "duration_ms": 135959,
       "name": "As time passes",
       "url": "https://open.spotify.com/track/6F8fHH6VPXMF1DIG3lEg0R"
+    },
+    {
+      "album": {
+        "name": "Ash of memory",
+        "url": "https://open.spotify.com/album/4WEz8LHe96zM7RwV4IKxVq"
+      },
+      "artists": [
+        {
+          "name": "Thomas Preber",
+          "url": "https://open.spotify.com/artist/69HZUsV2eMEw0ka0BQTZ79"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115985,
+      "name": "Ash of memory",
+      "url": "https://open.spotify.com/track/6rb8PeoAVfIyAJ0EqQCgU2"
     },
     {
       "album": {
@@ -574,7 +592,7 @@
       ],
       "date_added": "2022-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 117520,
       "name": "Cadeau",
       "url": "https://open.spotify.com/track/0MDnGRpaRcJguZKX66P6Ap"
@@ -610,7 +628,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 109565,
       "name": "Casa luminosa",
       "url": "https://open.spotify.com/track/3JxLzqk5HisNeh5I03Mx22"
@@ -668,7 +686,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 119000,
       "name": "Cavtat",
       "url": "https://open.spotify.com/track/69cCYMgf3Hk9BzbYLmzY7V"
@@ -1244,7 +1262,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 99567,
       "name": "Emerald Enlightenment",
       "url": "https://open.spotify.com/track/4uoJsS8jQmsHmdoORGzxh0"
@@ -1316,7 +1334,7 @@
       ],
       "date_added": "2022-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 105066,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/77Ou8ploPVp1uIrw6YJttx"
@@ -1766,7 +1784,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 108655,
       "name": "Hope",
       "url": "https://open.spotify.com/track/3S7SNC9cRo5DwtAaCJio4I"
@@ -2180,7 +2198,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 110000,
       "name": "Just For Now",
       "url": "https://open.spotify.com/track/2mmkokfVO72zAHkz9OTRZO"
@@ -2522,7 +2540,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 110146,
       "name": "Little Bird",
       "url": "https://open.spotify.com/track/2n1QbWSRwYIGwMybFB730q"
@@ -2828,7 +2846,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 111492,
       "name": "Meraviglia",
       "url": "https://open.spotify.com/track/0BoqkSGAGK4hDsf4coC1IE"
@@ -3098,7 +3116,7 @@
       ],
       "date_added": "2022-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 110954,
       "name": "Old Friends",
       "url": "https://open.spotify.com/track/7gK75qkpI8WjfL2Tpi3Z5C"
@@ -3624,7 +3642,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 119894,
       "name": "Reverence",
       "url": "https://open.spotify.com/track/5q2VSybNASfP0KNdAQRDY8"
@@ -3660,7 +3678,7 @@
       ],
       "date_added": "2023-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 101000,
       "name": "rose and gold",
       "url": "https://open.spotify.com/track/51B0EnQL0geSxcBzBvSjFv"
@@ -4056,7 +4074,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 99474,
       "name": "Signs",
       "url": "https://open.spotify.com/track/2rcfgubkSTNwpNIpURgTmx"
@@ -4380,7 +4398,7 @@
       ],
       "date_added": "2022-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 98250,
       "name": "Sunday breeze",
       "url": "https://open.spotify.com/track/1atf2cbN3stTERkx9AafmN"
@@ -4524,7 +4542,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 113342,
       "name": "Thaw",
       "url": "https://open.spotify.com/track/4uDMx10yG5CQgJTxR3dK66"
@@ -4614,7 +4632,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 108179,
       "name": "The Right Time",
       "url": "https://open.spotify.com/track/3FA1m1pT3dnbRfZdiWCKQZ"

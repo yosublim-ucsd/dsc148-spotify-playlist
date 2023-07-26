@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 
 > All new indie rock\. Featuring new music by spill tab.
 
-[Spotify](https://open.spotify.com/user/spotify) - 847,164 likes - 101 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 847,204 likes - 101 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30HHrCAl4ZG.md) - [plain]
 | 100 | [Quarry](https://open.spotify.com/track/2rQw8ZLhgYDGMS8ijHk6Tr) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 4:07 |
 | 101 | [Doomsday](https://open.spotify.com/track/3cfgcCQd4wcOzVHpODQbEv) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Doomsday](https://open.spotify.com/album/02zEFZOxorMIOSEs1HIs19) | 2:30 |
 
-Snapshot ID: `MCxhZmUzMmJlOWIwNGU5OTkxOTY5NjdmMjFjMmUzN2Q1MGJlNjU4Yjg3`
+Snapshot ID: `MCw4YjcwNGVlOTUzNjE5ZTcyZGIwYWI1Zjg5YzQ5MmZiM2ExNjU4M2Rj`

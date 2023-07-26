@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-560 songs - 1 day 14 hr 18 min
+562 songs - 1 day 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [Kiss U](https://open.spotify.com/track/7lrRFHIvCkqWt0C4UZu0tr) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Kiss U](https://open.spotify.com/album/0Tqz0ondJkl9B1ysii9fOd) | 5:35 | 2022-09-12 | 2022-10-21 |
 | [Kiss U \- Ricardo Villalobos Remix](https://open.spotify.com/track/2BsDtdmu8H6ZlMWK4oPlL6) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl), [Ricardo Villalobos](https://open.spotify.com/artist/0s2YIpNnjdf0FY4tNrF8Y4) | [♡ \(Ricardo Villalobos Remixes\)](https://open.spotify.com/album/09Sz1xnLiKWOXPz0BMxt51) | 13:16 | 2023-03-23 | 2023-05-11 |
 | [kisses](https://open.spotify.com/track/2qUNrUbCYoUE6MsOR3tTD1) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [kisses](https://open.spotify.com/album/4joudQPrYtB8axFgge6MSj) | 3:57 | 2023-06-21 |  |
+| [LA Hex](https://open.spotify.com/track/2J40ajaXq2hP9Z1xxwbad0) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [New York / LA Hex](https://open.spotify.com/album/1cDeSZLnliZgQ07a6VvDAK) | 3:14 | 2023-07-25 |  |
 | [Late Summer](https://open.spotify.com/track/2QHz1w5U0f1WH8ERUeaqTY) | [Saint Jude](https://open.spotify.com/artist/3xjaPchHHfcWBvkFtpejFh) | [Late Summer](https://open.spotify.com/album/03W3LbVi8mDI8ROPCHFHMZ) | 3:22 | 2022-10-20 | 2022-12-08 |
 | [Lay Down Your Roses](https://open.spotify.com/track/62TP94nFhtUIkXu2lhMKXM) | [The Bug Club](https://open.spotify.com/artist/7eiTMbuHYUPjrAMjIhAVDB) | [Two Beauties](https://open.spotify.com/album/6cTVO4cyNK7bFGFh2ivUHQ) | 3:05 | 2022-06-08 | 2022-06-23 |
 | [Leavin](https://open.spotify.com/track/2pPKrqMneGx5WzIcOf13ja) | [Inwards](https://open.spotify.com/artist/542nHHjo4wRmP3AbeJWkse) | [Leavin](https://open.spotify.com/album/1RHQm5DPitTEdZgS43L6GJ) | 2:57 | 2023-02-15 | 2023-03-23 |
@@ -353,6 +354,7 @@
 | [Natural One](https://open.spotify.com/track/4GJqOznH6ocrP5j2kI0PrU) | [Folk Implosion](https://open.spotify.com/artist/6DM1YETeVIN3ce24DhnMhU) | [Natural One](https://open.spotify.com/album/6FYBYfXfovEfEdmqH0vk1F) | 3:09 | 2023-06-28 |  |
 | [Natural One \- 2023 Live Session](https://open.spotify.com/track/1dJ16Kc7WYHlDlazaWU7nj) | [Folk Implosion](https://open.spotify.com/artist/6DM1YETeVIN3ce24DhnMhU) | [Natural One](https://open.spotify.com/album/6FYBYfXfovEfEdmqH0vk1F) | 3:16 | 2023-06-28 |  |
 | [Never Coming Back](https://open.spotify.com/track/0ZtUCVf7uuDAQ7dXGTALEG) | [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [Annie](https://open.spotify.com/artist/7zt6Af78CalxaPDqORfw8L) | [The Upper Cuts Singles \(2023 Edition\)](https://open.spotify.com/album/7gggj6SUuzQ8x2NSySkzTu) | 3:23 | 2023-03-09 | 2023-04-27 |
+| [New York](https://open.spotify.com/track/71Ohbh25hv8SzzZCfq8i4B) | [The Kills](https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr) | [New York / LA Hex](https://open.spotify.com/album/1cDeSZLnliZgQ07a6VvDAK) | 4:04 | 2023-07-25 |  |
 | [Night Crawling](https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Night Crawling](https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm) | 4:53 | 2022-08-01 | 2022-09-22 |
 | [Night Walk](https://open.spotify.com/track/1ufmBDHamjH3v8Ms1cyNsN) | [Junior Boys](https://open.spotify.com/artist/39x9e2QDpAxK8xTuJDwRqR) | [Night Walk](https://open.spotify.com/album/4gSxWOsNY1BvLAzHPc3lOU) | 4:49 | 2022-09-21 | 2022-10-21 |
 | [No More \- Edit](https://open.spotify.com/track/1EVjpQLLO19e7PYmZAlR2S) | [Steve Mason](https://open.spotify.com/artist/4ieS1hHc74D9RXhkyoriDU), [Javed Bashir](https://open.spotify.com/artist/5diMmmNkRVfgUnXJrzXzjZ) | [No More](https://open.spotify.com/album/1PsR8yp7LUlHti7lu5HFK1) | 3:38 | 2022-11-08 | 2023-01-12 |

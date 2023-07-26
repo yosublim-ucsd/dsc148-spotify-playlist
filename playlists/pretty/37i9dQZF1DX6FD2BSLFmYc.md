@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FD2BSLFmYc.md) - [plain]
 
 > Encuentra la paz interior con esencias y vibraciones místicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,474 likes - 83 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,522 likes - 83 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FD2BSLFmYc.md) - [plain]
 | 82 | [Hot Stone Massage](https://open.spotify.com/track/6ECjbXSjaUHBkAig0SipLD) | [Healing Oriental Spa Collection](https://open.spotify.com/artist/0LohrwJvGCI9TAxhXIDf2v) | [Asian Meditation and Relax \(Oriental Soothing Music, Yoga, Massage & Zen Spa\)](https://open.spotify.com/album/1j3G1QVFmF1twCSAA0zgL9) | 3:59 |
 | 83 | [Dream Birds](https://open.spotify.com/track/10XcNcTJsPmsnqjiI0aUeE) | [Ashcan Johansen](https://open.spotify.com/artist/2ct2G7jHNMHPisFrLyBpMh) | [Dream Birds](https://open.spotify.com/album/16PvXp8E8Sw3IxQRrokYq3) | 2:20 |
 
-Snapshot ID: `MCw5ODhlNmE5MDA4Njc0NThlNjQ2NWE1N2M1MmQyZDE2NzY1YTI4ODE1`
+Snapshot ID: `MCw3NTVmMWJiYWIyZTcyMmQzZDhiY2E5OTkwZWYzZDMyOWQ5YmZjZjUw`

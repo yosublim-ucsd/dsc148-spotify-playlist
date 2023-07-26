@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Coco, Luchè, Artie 5ive, MV Killa, Vale Pain e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,973 likes - 80 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,987 likes - 80 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 30 | [Chakachà](https://open.spotify.com/track/2y7MyvmXf54VAohtg6eb6s) | [Disme](https://open.spotify.com/artist/0CXnO9kUawdDjzToSqCC3p), [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Chakachà](https://open.spotify.com/album/1a3jocnw41bCF7HsoHUXh9) | 2:47 |
 | 31 | [La citè](https://open.spotify.com/track/0rKCp9Obl3biQTNsuYRbcY) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [La citè](https://open.spotify.com/album/4yPMwt7qWlahYoM2oirc2e) | 2:51 |
 | 32 | [4LOCOS](https://open.spotify.com/track/2ikdZFKR2sEKlvbjwSs1ya) | [emanuelino](https://open.spotify.com/artist/3XvGNKkWf5TQoR1xcfm5TU) | [4LOCOS](https://open.spotify.com/album/6fg87EmMuDXPDvYvM8BxJz) | 2:29 |
-| 33 | [Young & Beautiful](https://open.spotify.com/track/6bPIbqGdZVtg16FS6C0eC8) | [Clah](https://open.spotify.com/artist/3vmKDgnPCYhyxQOQAFO9Iy) | [Young & Beautiful](https://open.spotify.com/album/7pgIPZ9RtnZWqLSnqhKr38) | 3:23 |
+| 33 | [Youngin & Beautiful](https://open.spotify.com/track/6bPIbqGdZVtg16FS6C0eC8) | [Clah](https://open.spotify.com/artist/3vmKDgnPCYhyxQOQAFO9Iy) | [Youngin & Beautiful](https://open.spotify.com/album/7pgIPZ9RtnZWqLSnqhKr38) | 3:23 |
 | 34 | [Soy Marrocchino](https://open.spotify.com/track/0Jn0cZJl3q7nXR09Njn7DC) | [LocoArmy](https://open.spotify.com/artist/5QxZpEkReGa0HfPC5ls6ZE) | [Soy Marrocchino](https://open.spotify.com/album/3MlOECNTN6j04xGgQqaCNL) | 3:28 |
 | 35 | [Wa Zwina](https://open.spotify.com/track/3bxRbTAzbVNvTfUfENvs4J) | [hmizo](https://open.spotify.com/artist/364qkrUT2TKnSW6YmIfeai) | [Wa Zwina](https://open.spotify.com/album/4xC3ge0yiYLupIZsq8npOY) | 2:20 |
 | 36 | [Tu ta ta \(Il Ballo della Scimmia\)](https://open.spotify.com/track/3AnPTdcuZKDQwf3r8qlwQe) | [INCE](https://open.spotify.com/artist/06hLqaGYqDyCF8ZjaAyEaw), [Elmatadormc7](https://open.spotify.com/artist/7516jrFSCN9rahmTvPAYUu) | [Tu ta ta \(Il Ballo della Scimmia\)](https://open.spotify.com/album/0q0CyudUuar5D8NVG2cVF9) | 2:28 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 79 | [KLK!](https://open.spotify.com/track/5yXmTl7gKH8nvFjb4Plhze) | [Samuel Heron](https://open.spotify.com/artist/7CkfnjbIBJisquAJCZv6oU), [Blaze Drumz](https://open.spotify.com/artist/5t3bdtfB81ZtP8XmMctkCQ) | [COUNCIL ESTATE, VOL\. 2](https://open.spotify.com/album/2zE0I6noMtYf7lTEIVrbKM) | 1:47 |
 | 80 | [LEBLOCK 2 \(feat\. BRESCO, MarZa, Flus Brain, Caesar & TOLKA\)](https://open.spotify.com/track/61Neusrn6GoNaH9wcXmiV3) | [ZT5](https://open.spotify.com/artist/4sOcYYwEEMVaa9yJFm0BTT), [BRESCO](https://open.spotify.com/artist/2RKPNB2UZU3nZqoGUFpFGC), [MarZa](https://open.spotify.com/artist/6EZjglJoWh9Rz2hwjJy0Xs), [Flus Brain](https://open.spotify.com/artist/3cIN4XjkAfNwfGLKVPoofY), [Caesar](https://open.spotify.com/artist/3oHyQMgRYjhjp2nMLhmiiP), [TOLKA](https://open.spotify.com/artist/4DESc2JN2OQtR74Xdk0k9W) | [LEBLOCK 2 \(feat\. BRESCO, MarZa, Flus Brain, Caesar & TOLKA\)](https://open.spotify.com/album/4JDUUeUslKPBP0otHJTq1a) | 3:05 |
 
-Snapshot ID: `MCw2ZGI1ZjViNzE0ZTZkYjNhODYzOTU1NWE4NmZlNTI4ZGViM2QyMzNk`
+Snapshot ID: `MCw4NGM1MDBkODVjYmVkMmJkYzc2NjhiMWJjMmE4ZDE2ZGQ2NjFkODE2`

@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: DIESEL
 
-381 songs - 21 hr 48 min
+382 songs - 21 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [Kill The Machine \(feat\. Bad/Love\)](https://open.spotify.com/track/0AkxZb3XkSOdLghm6EB7p2) | [Lucille Croft](https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy), [Bad/Love](https://open.spotify.com/artist/0lJyKe4CxWOeYOV4dbAFkZ), [TMRRW](https://open.spotify.com/artist/2T5c5IrQGkNGuQNOVJSU9y) | [Kill The Machine \(feat\. Bad/Love\)](https://open.spotify.com/album/7e10DqzsnP6wu5FJJmAZJi) | 3:15 | 2022-01-28 | 2023-04-01 |
 | [Kill to Feel](https://open.spotify.com/track/4hSCaNNtzVlek62PCmsti5) | [Ganja White Night](https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3), [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI) | [Unity](https://open.spotify.com/album/2AhomobPIGZiBZodF1cVEg) | 5:55 | 2023-04-28 |  |
 | [Killing Machine](https://open.spotify.com/track/2vp3HUzMnyaI3hLZKW5d2k) | [ERBES](https://open.spotify.com/artist/4j6LCgKSC3VB5n3hEpDUsk) | [Killing Machine](https://open.spotify.com/album/4STgH4wL9troz6flN3FeE1) | 3:03 | 2021-12-17 | 2022-04-02 |
+| [Kooks Of Hazard](https://open.spotify.com/track/2bIYzDC6FTTmKq8sqPh7q9) | [Dirt Monkey](https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH), [Shank Aaron](https://open.spotify.com/artist/21yw8sbZyhtBAemlhNzOuK) | [Kooks of Hazard](https://open.spotify.com/album/2eyMz0a4EqXyPPhvSbfXkN) | 2:33 | 2023-07-21 |  |
 | [Lake Nyos](https://open.spotify.com/track/2kY8pUpM4QcGWkjflY38tx) | [TYNAN](https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM) | [Give Up The Ghost](https://open.spotify.com/album/7ya7R7sEXTSgU1HuExQQY9) | 3:15 | 2022-02-25 | 2022-07-29 |
 | [Laserbeam](https://open.spotify.com/track/30MdAjBfVTvBCS3vID38At) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [Laserbeam](https://open.spotify.com/album/1I9gPFhrAN6kUeKPpFNU6a) | 3:41 | 2022-06-24 |  |
 | [Laserbeam \- Sullivan King Remix](https://open.spotify.com/track/0VnfaVKFyKNQGm9Sk7RrOX) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Laserbeam \(Sullivan King Remix\)](https://open.spotify.com/album/30P2BMPn9DlUW4XtODJbYP) | 3:46 | 2022-10-21 |  |
@@ -248,7 +249,7 @@
 | [Old School](https://open.spotify.com/track/6ctmKiHf2CcHQLwT7g4jpc) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [Old School](https://open.spotify.com/album/5FPyXKsRMhaRLFNSvLA5jk) | 2:19 | 2023-02-24 |  |
 | [Oldskool](https://open.spotify.com/track/3x34JXZdyZdkfEgkHT3eNC) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Mechanized Mayhem Vol\. 2](https://open.spotify.com/album/5JZXWPiy5bwrkJng3gYJcr) | 3:39 | 2022-01-21 | 2023-01-27 |
 | [Ominous](https://open.spotify.com/track/0bmmFj68HfhxsBoPbuSU1q) | [GUERRO](https://open.spotify.com/artist/6zgXDX1gGCrq6U8RXKGn0h) | [Ominous](https://open.spotify.com/album/4ZyuhMJtWSoh1mc9vTvtSu) | 3:29 | 2022-05-06 | 2022-07-23 |
-| [On A Dime](https://open.spotify.com/track/5Riszk0ZuaA6US8TyZZ9cT) | [Heyz](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh) | [On A Dime](https://open.spotify.com/album/2eVHIVMHeP3AycT6rfr91C) | 4:00 | 2022-07-22 |  |
+| [On A Dime](https://open.spotify.com/track/5Riszk0ZuaA6US8TyZZ9cT) | [Heyz](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh) | [On A Dime](https://open.spotify.com/album/2eVHIVMHeP3AycT6rfr91C) | 4:00 | 2022-07-22 | 2023-07-26 |
 | [Open Up This Pit](https://open.spotify.com/track/6vKOUJvLj02q7zdGrS2vp1) | [Boogie T](https://open.spotify.com/artist/4zlw0jXUzd4dRcqI3Y1OiY) | [The Archives](https://open.spotify.com/album/4zCDRA2KaDa8UdX8GgeOil) | 3:15 | 2023-06-30 |  |
 | [Our Fire](https://open.spotify.com/track/2EgXhbQ9SliIgqWbB4JYHW) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Onyx](https://open.spotify.com/album/7tWLBskvupaWXOWzfmiU97) | 4:19 | 2022-01-14 | 2023-04-01 |
 | [Out Of My Head](https://open.spotify.com/track/2GbInmkrrUOSG0Q57gt2Na) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Thrashout](https://open.spotify.com/artist/06gQPVgdmLJUAo4HdW8oLy) | [Out Of My Head](https://open.spotify.com/album/6FGebBndNrEv5hNPPHqHFJ) | 2:43 | 2022-06-24 |  |

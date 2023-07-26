@@ -2,7 +2,7 @@
 
 ### [Disco Deewane](https://open.spotify.com/playlist/37i9dQZF1DX4PMbm7GPN1x)
 
-> Relive the disco era with these superhits\. Cover \- Bappi Lahiri
+> Relive the disco era with these superhits\. Cover \- Disco Dancer
 
 78 songs - 7 hr 23 min
 

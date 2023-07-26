@@ -4,12 +4,13 @@
 
 > Cumbia pa' volar la chapa ñeri\. Foto: La T y La M
 
-136 songs - 7 hr 25 min
+137 songs - 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1x100to](https://open.spotify.com/track/41JLyB0mqLNxb8nsDubA6v) | [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi) | [1x100to](https://open.spotify.com/album/3nXLIvflpBU1ki7fGYQ6yS) | 3:12 | 2023-06-23 | 2023-07-01 |
 | [38](https://open.spotify.com/track/4My1ij0QUaZrojxzkV0OEx) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L), [Kenzy](https://open.spotify.com/artist/778s7JrnFl5ICM49oimpj4), [May Creizy](https://open.spotify.com/artist/6XyKFAoM3iHJimAHWo7JNQ) | [38](https://open.spotify.com/album/4YtUu37m5y31rp8jrWJ9wk) | 2:41 | 2023-05-26 |  |
+| [6to Sentido \(Una Vuelta\)](https://open.spotify.com/track/0j2p4MTvu6tfrK8UsKLS31) | [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR), [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [DJ Cronox](https://open.spotify.com/artist/3xEW53mjWRObQjw1yu6fvi) | [6to Sentido \(Una Vuelta\)](https://open.spotify.com/album/4u3hJm3bh7L8lcANjjUINr) | 2:08 | 2023-07-25 |  |
 | [Acercate Bandida](https://open.spotify.com/track/5qLueRsolYdRjdxVcclWLb) | [El Retutu](https://open.spotify.com/artist/3WSePpVeFAwNAI4vQc19rG) | [El Retutu](https://open.spotify.com/album/0FH1NDJlj2Vvb4G21rPh3e) | 3:22 | 2023-05-26 |  |
 | [Adentro del Party](https://open.spotify.com/track/14fTqe6T4p9zyikK1RvYti) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Adentro del Party](https://open.spotify.com/album/78zVM36RvzD7VpaaKgQ7E5) | 3:00 | 2023-05-26 |  |
 | [AL RITMO \| E2](https://open.spotify.com/track/1CPH4SeQjS6xIFYdDpPABA) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [AL RITMO \| E2](https://open.spotify.com/album/6LteX3gEtSFKhpiVBuHep7) | 2:56 | 2023-05-26 |  |
@@ -42,7 +43,7 @@
 | [El Mamado del Auto](https://open.spotify.com/track/59a51WlcUh2OiYm3HZQuXk) | [Los Dragones](https://open.spotify.com/artist/0FtOEaKA25lR6G48iP1Jnt) | [Salvaje](https://open.spotify.com/album/1CBTqGy6fo7NzRcHGxe9lP) | 3:31 | 2023-05-26 |  |
 | [El Manual](https://open.spotify.com/track/0qC3X3ffPny4BZCV0rNR6U) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [El Manual](https://open.spotify.com/album/5jso2UmnuNZvTRNAZXMerw) | 2:08 | 2023-05-26 |  |
 | [El Marginal](https://open.spotify.com/track/4SEhmRp9PAp0uS0AlefNWs) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [El Marginal](https://open.spotify.com/album/58EvYnCxnhrid5sUBLCUW3) | 3:09 | 2023-07-17 |  |
-| [El Mas Piola](https://open.spotify.com/track/25782MLWDupkChIl8kGJFZ) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [El Mas Piola](https://open.spotify.com/album/4W6N2aH9z7564n5CVyn3Ml) | 3:37 | 2023-05-26 |  |
+| [El Mas Piola](https://open.spotify.com/track/25782MLWDupkChIl8kGJFZ) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [El Mas Piola](https://open.spotify.com/album/4W6N2aH9z7564n5CVyn3Ml) | 3:37 | 2023-05-26 | 2023-07-26 |
 | [EL NOBA \| DJ TAO Turreo Sessions \#7](https://open.spotify.com/track/2y1ia2Dlf7MeZoOviVWH3n) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [EL NOBA \| DJ TAO Turreo Sessions \#7](https://open.spotify.com/album/38OxiO1MGBXfK8cicptGZH) | 2:09 | 2023-05-26 |  |
 | [EL PRESO](https://open.spotify.com/track/30ifw7I5iQXqhuF87LtcAd) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [EL PRESO](https://open.spotify.com/album/3UiqD2eUHBYfHrRTUlv9JE) | 4:30 | 2023-06-30 | 2023-07-08 |
 | [El Whatsapp](https://open.spotify.com/track/0X1X7twYjUAOv3P0vNnvYf) | [De La Calle](https://open.spotify.com/artist/5YrBL6QmqRYTvr52b0IOT3) | [Más Negro Que la Noche](https://open.spotify.com/album/0BKMSvhWTL8DOoiW0MEpt4) | 2:32 | 2023-05-26 |  |

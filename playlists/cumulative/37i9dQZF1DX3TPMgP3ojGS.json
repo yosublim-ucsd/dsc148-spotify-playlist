@@ -3242,7 +3242,7 @@
       ],
       "date_added": "2022-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 113285,
       "name": "Before We Met",
       "url": "https://open.spotify.com/track/1gB9Hvz050IuA28oxXtydl"
@@ -4203,6 +4203,24 @@
     },
     {
       "album": {
+        "name": "Candles",
+        "url": "https://open.spotify.com/album/1eQlINbY8VmjpT2nmQm6Nn"
+      },
+      "artists": [
+        {
+          "name": "Anthony Jacobus",
+          "url": "https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172399,
+      "name": "Candles",
+      "url": "https://open.spotify.com/track/3c2mI16b5l3zEPNsNdWqSf"
+    },
+    {
+      "album": {
         "name": "Winter Unflorished",
         "url": "https://open.spotify.com/album/1meKAKWKJYjC4TzeGvgxA8"
       },
@@ -4610,7 +4628,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 109000,
       "name": "Chichiro",
       "url": "https://open.spotify.com/track/1RJ5iNyOaBhTHNMVn2HnkH"
@@ -19722,7 +19740,7 @@
       ],
       "date_added": "2023-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-25",
+      "date_removed": null,
       "duration_ms": 140601,
       "name": "Peaceful Thoughts",
       "url": "https://open.spotify.com/track/5xm1Ot6JDIp5r9SFM6XQrW"

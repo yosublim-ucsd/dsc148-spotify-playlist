@@ -1,12 +1,12 @@
 {
   "description": "Dreamy jams from the best bedroom producers. Cover: Joji",
-  "num_followers": 1083898,
+  "num_followers": 1084041,
   "original_name": "Bedroom Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyY2U5NzdiNDhmNjJlN2NhNjhhOTg1YWZkZDk3ODc3NGI1N2FjOTQ4",
+  "snapshot_id": "MCwyNmVhZGI2NTA2NzJmZjljMTBjN2UyMDFlZjViNTYxM2ZkZWY4NGRm",
   "tracks": [
     {
       "added_at": "2023-04-17 19:26:13",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "Was It Something I Said",
-        "url": "https://open.spotify.com/album/6MIBfXSkuo1F9fiNVCBsZH"
-      },
-      "artists": [
-        {
-          "name": "MyKey",
-          "url": "https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9"
-        }
-      ],
-      "duration_ms": 220588,
-      "name": "Was It Something I Said",
-      "url": "https://open.spotify.com/track/65j65yDSE06CNKAPjsHoJt"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "Waltzing Back",
         "url": "https://open.spotify.com/album/5j49mR7hcvrACDJZNVTmpu"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 192000,
       "name": "Waltzing Back",
       "url": "https://open.spotify.com/track/3JcvpTfI64SmXxUl7XUvQI"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "Was It Something I Said",
+        "url": "https://open.spotify.com/album/6MIBfXSkuo1F9fiNVCBsZH"
+      },
+      "artists": [
+        {
+          "name": "MyKey",
+          "url": "https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9"
+        }
+      ],
+      "duration_ms": 220588,
+      "name": "Was It Something I Said",
+      "url": "https://open.spotify.com/track/65j65yDSE06CNKAPjsHoJt"
     },
     {
       "added_at": "2023-06-26 19:19:08",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "Seeds",
-        "url": "https://open.spotify.com/album/16F9QOwv3lMvYiTscoFD4Q"
-      },
-      "artists": [
-        {
-          "name": "Bennett Coast",
-          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
-        }
-      ],
-      "duration_ms": 219286,
-      "name": "Seeds",
-      "url": "https://open.spotify.com/track/4BwGU8l91SQWeVqnWqWClh"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "Mystery",
         "url": "https://open.spotify.com/album/4jtC95aZMIud87vZDa1SA5"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 177600,
       "name": "Mystery",
       "url": "https://open.spotify.com/track/3ZW48z429TwTJlEN9vxs8u"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "Seeds",
+        "url": "https://open.spotify.com/album/16F9QOwv3lMvYiTscoFD4Q"
+      },
+      "artists": [
+        {
+          "name": "Bennett Coast",
+          "url": "https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6"
+        }
+      ],
+      "duration_ms": 219286,
+      "name": "Seeds",
+      "url": "https://open.spotify.com/track/4BwGU8l91SQWeVqnWqWClh"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-04-17 19:26:13",
       "album": {
-        "name": "Sinatra",
-        "url": "https://open.spotify.com/album/42SZ5XHrfhsZXlto73OZQ0"
-      },
-      "artists": [
-        {
-          "name": "Forrest Nolan",
-          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
-        }
-      ],
-      "duration_ms": 156342,
-      "name": "Sinatra",
-      "url": "https://open.spotify.com/track/1USo158Kncaxfyq9q306dn"
-    },
-    {
-      "added_at": "2023-04-17 19:26:13",
-      "album": {
         "name": "1994",
         "url": "https://open.spotify.com/album/2a20lEnbWdct9J2wI0J6lH"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 203533,
       "name": "1994",
       "url": "https://open.spotify.com/track/42kWSGSJu0tXXt3e2Guvsm"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "Sinatra",
+        "url": "https://open.spotify.com/album/42SZ5XHrfhsZXlto73OZQ0"
+      },
+      "artists": [
+        {
+          "name": "Forrest Nolan",
+          "url": "https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv"
+        }
+      ],
+      "duration_ms": 156342,
+      "name": "Sinatra",
+      "url": "https://open.spotify.com/track/1USo158Kncaxfyq9q306dn"
     },
     {
       "added_at": "2023-04-17 19:26:13",
@@ -1381,22 +1381,6 @@
       "url": "https://open.spotify.com/track/4r4uSdJJKV8RIcNKH7pX54"
     },
     {
-      "added_at": "2023-04-28 05:06:47",
-      "album": {
-        "name": "You Tear Me Apart",
-        "url": "https://open.spotify.com/album/3R9q0veyA51VYC6w6VMDQt"
-      },
-      "artists": [
-        {
-          "name": "Dev Lemons",
-          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
-        }
-      ],
-      "duration_ms": 177957,
-      "name": "You Tear Me Apart",
-      "url": "https://open.spotify.com/track/1KbCFCEee8ox0OHFH08nbG"
-    },
-    {
       "added_at": "2023-04-17 19:26:13",
       "album": {
         "name": "HEATWAVE",
@@ -1413,20 +1397,20 @@
       "url": "https://open.spotify.com/track/5SG2BVsZr0W7cFAkjh60TT"
     },
     {
-      "added_at": "2023-04-17 19:26:13",
+      "added_at": "2023-04-28 05:06:47",
       "album": {
-        "name": "Punching Bag",
-        "url": "https://open.spotify.com/album/0g9uNPKwDPldwNl9ZudsBm"
+        "name": "You Tear Me Apart",
+        "url": "https://open.spotify.com/album/3R9q0veyA51VYC6w6VMDQt"
       },
       "artists": [
         {
-          "name": "Wallice",
-          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
+          "name": "Dev Lemons",
+          "url": "https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO"
         }
       ],
-      "duration_ms": 153783,
-      "name": "Punching Bag",
-      "url": "https://open.spotify.com/track/09tYMZ38sfZRZmrN0basVJ"
+      "duration_ms": 177957,
+      "name": "You Tear Me Apart",
+      "url": "https://open.spotify.com/track/1KbCFCEee8ox0OHFH08nbG"
     },
     {
       "added_at": "2023-07-19 16:28:53",
@@ -1443,6 +1427,22 @@
       "duration_ms": 268453,
       "name": "So Tender",
       "url": "https://open.spotify.com/track/1Qhcx4uDQ4RFy9m4mKdzUN"
+    },
+    {
+      "added_at": "2023-04-17 19:26:13",
+      "album": {
+        "name": "Punching Bag",
+        "url": "https://open.spotify.com/album/0g9uNPKwDPldwNl9ZudsBm"
+      },
+      "artists": [
+        {
+          "name": "Wallice",
+          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
+        }
+      ],
+      "duration_ms": 153783,
+      "name": "Punching Bag",
+      "url": "https://open.spotify.com/track/09tYMZ38sfZRZmrN0basVJ"
     },
     {
       "added_at": "2023-04-17 19:26:13",

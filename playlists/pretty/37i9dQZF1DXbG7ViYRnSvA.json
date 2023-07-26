@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/officialcoodieandchike/\">Coodie & Chike</a>",
-  "num_followers": 11868,
+  "num_followers": 11894,
   "original_name": "Coodie & Chike's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZmMzNjA5MmEwNDQ4N2JiZjhjMjY4ZDkwOTE5ODllYzgwM2I5NDVm",
+  "snapshot_id": "MCwyN2UwODE5YmExOTM5OTA0ZDI0NTJjYjRkZjAxODViZTM3N2E0MzRk",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -363,26 +363,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Faithfully",
-        "url": "https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy"
-      },
-      "artists": [
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        },
-        {
-          "name": "Carl Thomas",
-          "url": "https://open.spotify.com/artist/6I6t21SFbxZ7RbQgD5dN7U"
-        }
-      ],
-      "duration_ms": 300160,
-      "name": "Can't Believe (feat. Carl Thomas)",
-      "url": "https://open.spotify.com/track/2423gyT9B3zNqC9ZD8QfSu"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Malibu",
         "url": "https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 174253,
       "name": "The Waters (feat. BJ the Chicago Kid)",
       "url": "https://open.spotify.com/track/23T4gelZgImtFxbHjXnYbm"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Faithfully",
+        "url": "https://open.spotify.com/album/0pP9NBXbbRH2ZJb7fazkZy"
+      },
+      "artists": [
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        },
+        {
+          "name": "Carl Thomas",
+          "url": "https://open.spotify.com/artist/6I6t21SFbxZ7RbQgD5dN7U"
+        }
+      ],
+      "duration_ms": 300160,
+      "name": "Can't Believe (feat. Carl Thomas)",
+      "url": "https://open.spotify.com/track/2423gyT9B3zNqC9ZD8QfSu"
     },
     {
       "added_at": "2022-10-01 16:00:00",

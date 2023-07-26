@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/thealiyajanell/\">Aliya Janell Brinson</a>",
-  "num_followers": 29989,
+  "num_followers": 30054,
   "original_name": "Aliya Janell's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NmY4OThiMzU1MzhmNjRkYTg0NDJjMGIxM2VjM2RmYzZmYWQyNWE2",
+  "snapshot_id": "MCxiNTVjNWZiYzc1NjVmZDI4NTZmNTkyYjIzY2E4YzFkNTg5NzM4ZTIz",
   "tracks": [
     {
       "added_at": "2022-10-01 16:21:24",
@@ -619,18 +619,22 @@
     {
       "added_at": "2022-10-01 16:21:24",
       "album": {
-        "name": "Back of My Mind",
-        "url": "https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP"
+        "name": "Don\u2019t Stop (feat. Young Thug)",
+        "url": "https://open.spotify.com/album/6dm2dXeXB37jhsxKjgKAvw"
       },
       "artists": [
         {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 227560,
-      "name": "Damage",
-      "url": "https://open.spotify.com/track/2azM2WRIpQiB9ALfVmYtlW"
+      "duration_ms": 187940,
+      "name": "Don\u2019t Stop (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/3yv7994DWTEk3ihwy75YBQ"
     },
     {
       "added_at": "2022-10-01 16:21:24",
@@ -651,22 +655,18 @@
     {
       "added_at": "2022-10-01 16:21:24",
       "album": {
-        "name": "Don\u2019t Stop (feat. Young Thug)",
-        "url": "https://open.spotify.com/album/6dm2dXeXB37jhsxKjgKAvw"
+        "name": "Back of My Mind",
+        "url": "https://open.spotify.com/album/4IwODpNZKFYkHWXSeWMGmP"
       },
       "artists": [
         {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 187940,
-      "name": "Don\u2019t Stop (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/3yv7994DWTEk3ihwy75YBQ"
+      "duration_ms": 227560,
+      "name": "Damage",
+      "url": "https://open.spotify.com/track/2azM2WRIpQiB9ALfVmYtlW"
     },
     {
       "added_at": "2022-10-01 16:21:24",

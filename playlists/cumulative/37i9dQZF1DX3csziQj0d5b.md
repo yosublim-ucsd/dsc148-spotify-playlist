@@ -4,7 +4,7 @@
 
 > Some bops to take the pain of homework away.
 
-530 songs - 1 day 5 hr 1 min
+531 songs - 1 day 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Free](https://open.spotify.com/track/0j9hwC26u5KWY8bf8Ajm4o) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Free](https://open.spotify.com/album/2pBsm9BxIYXOfcdeUXlO3L) | 3:37 | 2022-05-13 | 2022-05-15 |
 | [Free Time](https://open.spotify.com/track/0fNLObXT9pvc3VED0oAevd) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Free Time](https://open.spotify.com/album/6b5iXFsc488so2TO4kUHfr) | 3:38 | 2022-04-14 | 2022-06-16 |
 | [Friends, Right?](https://open.spotify.com/track/7Hxdp3Pdo8EgE7Qq1sCsHE) | [AMWIN](https://open.spotify.com/artist/4Lj9IwyjADyWsk9eEtQUbY) | [Friends, Right?](https://open.spotify.com/album/2tsIzbMjexsSAMXpkByB9N) | 2:14 | 2022-04-14 | 2022-04-21 |
+| [Frágil](https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Frágil](https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2) | 2:40 | 2023-07-25 |  |
 | [Get You \(feat\. Kali Uchis\)](https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 4:38 | 2022-04-14 | 2023-07-01 |
 | [Getting Over You](https://open.spotify.com/track/2BNkTvg1kHAAfGvqh56x5a) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Getting Over You](https://open.spotify.com/album/3RZDzcVgDoyt1LB5fhnB6x) | 4:15 | 2022-04-14 | 2022-04-21 |
 | [Ghost](https://open.spotify.com/track/5dPz35akJjPqb17yeqNwqH) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Justice](https://open.spotify.com/album/0w1dwXfG5z6Xjjgj524JkD) | 2:33 | 2022-04-14 |  |
@@ -536,7 +537,7 @@
 | [Your Power](https://open.spotify.com/track/042Sl6Mn83JHyLEqdK7uI0) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 4:05 | 2023-06-30 |  |
 | [Your Power](https://open.spotify.com/track/5qNh5WtzMbfpSj2jLlBkoD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Your Power](https://open.spotify.com/album/7H3vJa2HHgxb7qqclOdfJ3) | 4:05 | 2022-04-14 | 2022-07-29 |
 | [Your Shirt](https://open.spotify.com/track/4ulrQQu8H7ZsW9PVqjYSza) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Snow In October EP](https://open.spotify.com/album/2rfQlUxHwQgeYDpCY0Ytrz) | 3:50 | 2022-04-14 | 2022-07-29 |
-| [YOUTH](https://open.spotify.com/track/1cOyWWUr3oXJIxY0AjJEx9) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Blue Neighbourhood \(Deluxe\)](https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW) | 3:05 | 2023-06-30 |  |
+| [YOUTH](https://open.spotify.com/track/1cOyWWUr3oXJIxY0AjJEx9) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Blue Neighbourhood \(Deluxe\)](https://open.spotify.com/album/5ouTDazE4LF9bVJPx1nlgW) | 3:05 | 2023-06-30 | 2023-07-26 |
 | [YOUTH](https://open.spotify.com/track/3nRmuCfXdEDIPGX7pXBtto) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [YOUTH](https://open.spotify.com/album/0E0FaFHEssddwuwD4MsHiY) | 3:05 | 2022-04-14 | 2022-07-29 |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

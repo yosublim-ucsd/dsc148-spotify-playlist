@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: NewJeans
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,831 likes - 99 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,842 likes - 99 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 43 | [5 Star](https://open.spotify.com/track/2aDbC4CAVEMEVVmEjXOmP4) | [AMARNI](https://open.spotify.com/artist/6HxQEau8zFYzY8fJ7pKEco) | [5 Star](https://open.spotify.com/album/1nrw868ik7UqmqxtnIJLxR) | 2:18 |
 | 44 | [Chez Moi \(Waiting For You\) \- Edit](https://open.spotify.com/track/1VwmC2Sw9b9EztWkRvC07M) | [CC:DISCO!](https://open.spotify.com/artist/37fxVoFAMzet5CiiDg7SL7), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Chez Moi \(Waiting For You\)](https://open.spotify.com/album/5HwZIHl2vkaEGzuvNorz84) | 4:27 |
 | 45 | [Now Forever](https://open.spotify.com/track/0NJ9clbLSFyfxE2xZJxqA9) | [Jackson Owens](https://open.spotify.com/artist/33jhdrAHX9sSFzdKpYd2ke) | [Now Forever](https://open.spotify.com/album/2tbUZmGNUUBvDcOW6nNbCS) | 3:17 |
-| 46 | [She Knows \- With Akon](https://open.spotify.com/track/3zkb0907pOJqU7m3Qh5hB7) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [She Knows \(With Akon\)](https://open.spotify.com/album/0pj4zHdT9FsFOkpA9Qic4F) | 2:15 |
+| 46 | [She Knows \- with Akon](https://open.spotify.com/track/3zkb0907pOJqU7m3Qh5hB7) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [She Knows \(with Akon\)](https://open.spotify.com/album/0pj4zHdT9FsFOkpA9Qic4F) | 2:15 |
 | 47 | [Coordinate](https://open.spotify.com/track/1jtrEdMO5GJy7bP96eoPL6) | [H3rizon](https://open.spotify.com/artist/3ZaZApU5I9vSUHzOoUlp0D) | [Coordinate](https://open.spotify.com/album/3DPaDnyWkKn5HDAkFHor8t) | 2:50 |
 | 48 | [Too Fast \(Pull Over\) \(with Anderson .Paak & Latto\)](https://open.spotify.com/track/6vz3Fyhj6smbuYuaIZHksu) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Too Fast \(Pull Over\) \(with Anderson .Paak & Latto\)](https://open.spotify.com/album/1KNyxPSXQoZJ2KMQySCUUo) | 3:46 |
 | 49 | [I Like Where We're Going](https://open.spotify.com/track/7vPxEFLsxBVxKoqypm2X4P) | [filous](https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9), [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS) | [I Like Where We're Going](https://open.spotify.com/album/1DFWpwIBtYYnJBg6TIFChN) | 3:34 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 98 | [If That's What You Want](https://open.spotify.com/track/0L1Tt5ynX4SpezkmZEV1Vg) | [Andy Bull](https://open.spotify.com/artist/5O83Dn8cY3RNwhQKADA175) | [If That's What You Want](https://open.spotify.com/album/5Da9HWWYJV23IroLzcUOre) | 3:40 |
 | 99 | [Girl's feat\. Michael Kime](https://open.spotify.com/track/0csM0X6f3SXTroeTnQvhCx) | [Nice Girl](https://open.spotify.com/artist/2y5CM4wbWQ9R4JTjB860lB), [Michael Kime](https://open.spotify.com/artist/2Rt6j2PIHTzRbtwD2S69F8) | [Girl's feat\. Michael Kime](https://open.spotify.com/album/2IQOiAgFT4wiboIB29DK6U) | 4:32 |
 
-Snapshot ID: `MCxmMjQxNzkyZWM3NTNhMmIyMDM5MTNkNjRkNjA1ZDVmZDEzN2UxNTAx`
+Snapshot ID: `MCw5YmViOWRjNGY5NGJiMzQ0ZTA5YmY0MTNlZWJlYzI1NTk4MGIyNzM2`

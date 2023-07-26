@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Norway.
 
-1,199 songs - 2 day 14 hr 0 min
+1,200 songs - 2 day 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -618,7 +618,8 @@
 | [Julekveldsvisa \- 1951 Digital Remaster; 1993 Remastered Version](https://open.spotify.com/track/5MLaFMlqnGrHyX2ZzGRilL) | [Alf Prøysen](https://open.spotify.com/artist/0AU8XFChFl8AUPo5jExFlF) | [Alf Prøysen](https://open.spotify.com/album/7ouBxTfRp6hKPzai1fxB2P) | 3:00 | 2022-12-24 | 2022-12-28 |
 | [Juletragedien](https://open.spotify.com/track/4hS14RwcNzMrO9QZ76mVII) | [Erik Follestad](https://open.spotify.com/artist/0bpQng10brqSAJkmTE4M7s), [Linni Meister](https://open.spotify.com/artist/4YaUbZmPC6MY6Rl1rBTDuR) | [Juletragedien](https://open.spotify.com/album/067B65snvZBeZu9KXOsLsk) | 3:08 | 2022-12-23 | 2022-12-27 |
 | [Junya](https://open.spotify.com/track/1aF9TeHZbe6OVo9dtjPuzK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 2:27 | 2021-08-31 | 2021-09-04 |
-| [K\-POP](https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [K\-POP](https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb) | 3:05 | 2023-07-22 |  |
+| [K\-POP](https://open.spotify.com/track/1RlcvK95g0XfRpDvFbGLUO) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [K\-POP \(Chopped & Screwed\)](https://open.spotify.com/album/0jiAYLsE1PumLJncO7vUIl) | 3:05 | 2023-07-25 |  |
+| [K\-POP](https://open.spotify.com/track/5L3ecxQnQ9qTBmnLQiwf0C) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [K\-POP](https://open.spotify.com/album/10eNMeTimUzAKLhCOpIUlb) | 3:05 | 2023-07-22 | 2023-07-26 |
 | [kamera demon](https://open.spotify.com/track/2S4dVxsSZdAjNFuqoVQkLv) | [Dutty Dior](https://open.spotify.com/artist/5ktSHm2pKmqua1MTV1dkrg) | [kamera demon](https://open.spotify.com/album/3kcuw3B5Kvh8QNgkQ0PxX7) | 2:49 | 2022-03-26 | 2022-03-28 |
 | [kan du love å vente \(feat\. Isah\)](https://open.spotify.com/track/7Lc4xMmX0CBvs4lZ4P9QVn) | [Gabrielle](https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL), [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B) | [kan du love å vente \(feat\. Isah\)](https://open.spotify.com/album/3rm5oG1zo2hw8nrUHFGegU) | 2:59 | 2021-05-16 | 2021-05-19 |
 | [Karma](https://open.spotify.com/track/7KokYm8cMIXCsGVmUvKtqf) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:24 | 2022-10-22 | 2022-10-30 |

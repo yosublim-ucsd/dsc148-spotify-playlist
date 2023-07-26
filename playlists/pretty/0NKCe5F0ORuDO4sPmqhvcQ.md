@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,987 likes - 107 songs - 5 hr 59 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,988 likes - 108 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,5 +115,6 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 105 | [ORANGES](https://open.spotify.com/track/3r9Cxh3C8aYaph5D8lT4cW) | [Jaron](https://open.spotify.com/artist/4kerBatvaELCGJDnDqW5oq) | [ORANGES](https://open.spotify.com/album/0TPBV5t6GkkAPYu35zj8aV) | 2:03 |
 | 106 | [Waiting...](https://open.spotify.com/track/2RvaQGoRf0aGCrzzITBqpE) | [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Waiting...](https://open.spotify.com/album/5Tw9rBaxeaAOT5AYisGu9o) | 3:41 |
 | 107 | [The Fall](https://open.spotify.com/track/1tpCENh4JDWpWGFeTz02fP) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [The Fall / For the Last Time](https://open.spotify.com/album/3GzBwa27pIwAnytu1KP0ka) | 3:37 |
+| 108 | [The Vortex](https://open.spotify.com/track/2XhfNg6trek448vkXR1zaW) | [Gromo](https://open.spotify.com/artist/0fZTPSPLC75QesDYUfSPdx) | [The Vortex](https://open.spotify.com/album/0ji8HEJxJ9KnkhvquiP30g) | 3:12 |
 
-Snapshot ID: `MTA0MDUsYzFlMGJiN2Y5YWI3ZGI5Yjg3OTA1NGM0YjQ4ZjNhNzdjYTFjNzE3NQ==`
+Snapshot ID: `MTA0MDYsNzIxYmRjNjZkYThmMmZmNjkyZTU5Y2I3ODg5MzU5MTY0YjBhZDA1YQ==`

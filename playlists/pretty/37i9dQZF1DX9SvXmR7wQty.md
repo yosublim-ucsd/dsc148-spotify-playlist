@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Ronisia
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,285 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,291 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 19 | [Dernière fois](https://open.spotify.com/track/0udfbNVYXI0vJkSPqnHvvY) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Dernière fois](https://open.spotify.com/album/1SYhFcpQJ1CU6s6KraTiCv) | 3:18 |
 | 20 | [Vibes](https://open.spotify.com/track/5Ewrq10sWq0WYTSW6Br57l) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [Vibes](https://open.spotify.com/album/6MHJuglMIWFJBIc9J0MWUG) | 2:14 |
 | 21 | [Love Me](https://open.spotify.com/track/1gno4JrQywuxvuMLNmufoP) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Love Me](https://open.spotify.com/album/1vikym192WUofadPIdXtbl) | 3:15 |
-| 22 | [Les choses qu'on fait](https://open.spotify.com/track/0Phj7ixjnkGM8aahaEgrTC) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Les choses qu'on fait](https://open.spotify.com/album/5O3zWrtW5Gaj9yIvwpq9pc) | 3:16 |
-| 23 | [Dernière danse](https://open.spotify.com/track/3UYc8Rc0hskiAzyvczieGl) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok), [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Dernière danse](https://open.spotify.com/album/59Aeo4d7E0FVfHH5wZVi3Q) | 3:11 |
+| 22 | [Dernière danse](https://open.spotify.com/track/3UYc8Rc0hskiAzyvczieGl) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok), [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Dernière danse](https://open.spotify.com/album/59Aeo4d7E0FVfHH5wZVi3Q) | 3:11 |
+| 23 | [Les choses qu'on fait](https://open.spotify.com/track/0Phj7ixjnkGM8aahaEgrTC) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Les choses qu'on fait](https://open.spotify.com/album/5O3zWrtW5Gaj9yIvwpq9pc) | 3:16 |
 | 24 | [Macabre](https://open.spotify.com/track/2M2YBN8AvH6FQJC0IsLErX) | [Dosseh](https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [Macabre](https://open.spotify.com/album/3ZNPSkZKy9kPESBBrx54us) | 3:28 |
 | 25 | [Salement](https://open.spotify.com/track/5YcUFycFAyWzPs94nnP63O) | [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi) | [Salement](https://open.spotify.com/album/1aYMtmu2bfmxGqggmMjSnk) | 2:43 |
 | 26 | [25 G](https://open.spotify.com/track/7udslQ5whyH3BrDvk0Fj1j) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [25 G](https://open.spotify.com/album/7cFIpmcYcJWnGGPa5Z6ZhP) | 4:10 |
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 36 | [Freestyle LVL UP 3](https://open.spotify.com/track/5WAqZjhyquaFf8zBZ1Stfd) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Freestyle LVL UP 3](https://open.spotify.com/album/2g47iUsGXrIMZTGqMgGFyE) | 3:20 |
 | 37 | [G.O.A.T](https://open.spotify.com/track/35uhSqOfD0qWtKb4GvYFRp) | [Kalash](https://open.spotify.com/artist/3J7r4VsNmuWixU0nXvyPd8) | [G.O.A.T](https://open.spotify.com/album/3V8hEKBXGm4Xb0yFCR9cKc) | 2:56 |
 | 38 | [Alabama](https://open.spotify.com/track/06Z0L1RlAkbcjL0IWKYLNQ) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [Alabama](https://open.spotify.com/album/0Jhq4X18BLRTmVBSLuKM7b) | 3:34 |
-| 39 | [Charlotte](https://open.spotify.com/track/54tEUkmdz2zHxkiT8OtddV) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Charlotte](https://open.spotify.com/album/3hvXxrBdRqUlZEdPylmdh0) | 3:34 |
-| 40 | [VIDA LOCA](https://open.spotify.com/track/3m4e1Cr5hTz4iF2bU9QTz6) | [Dinor rdt](https://open.spotify.com/artist/3RJNCnIkqvVwEicgGo2nqJ), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [VIDA LOCA](https://open.spotify.com/album/19SQT2btnkRb7De5XkfpLM) | 2:49 |
+| 39 | [VIDA LOCA](https://open.spotify.com/track/3m4e1Cr5hTz4iF2bU9QTz6) | [Dinor rdt](https://open.spotify.com/artist/3RJNCnIkqvVwEicgGo2nqJ), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [VIDA LOCA](https://open.spotify.com/album/19SQT2btnkRb7De5XkfpLM) | 2:49 |
+| 40 | [Charlotte](https://open.spotify.com/track/54tEUkmdz2zHxkiT8OtddV) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Charlotte](https://open.spotify.com/album/3hvXxrBdRqUlZEdPylmdh0) | 3:34 |
 | 41 | [Le stade](https://open.spotify.com/track/4zIWUQcXL5olW32MRz5WOq) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Le stade](https://open.spotify.com/album/6SWRSgHDlJtI5RnzTQewpu) | 2:23 |
 | 42 | [Barcelona](https://open.spotify.com/track/1h72CQREsC9fW7VhR7bW0x) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [Barcelona](https://open.spotify.com/album/1PTDr2pnlagzOXRBtkd6KK) | 2:06 |
-| 43 | [Halla](https://open.spotify.com/track/7FQsPOtlNa9iIFasNg6fNv) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Chrome](https://open.spotify.com/album/7bMtSweR1dLda9bbLUq51b) | 3:12 |
+| 43 | [Pour nous](https://open.spotify.com/track/406vkcaidoH3fKPfdytL6Y) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Pour nous](https://open.spotify.com/album/51rumLSZOQswEty93fSey3) | 2:47 |
 | 44 | [Algérien Fâché](https://open.spotify.com/track/131mNF7dZE1z4pGL1cgxOI) | [Kofs](https://open.spotify.com/artist/5RaQ9nmVGoTye2SI76x3yw) | [Algérien Fâché](https://open.spotify.com/album/3O3dTqhhkmORFUULWIvxgb) | 1:52 |
-| 45 | [Colors](https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Colors](https://open.spotify.com/album/2lecuAW041jFGznJIATbhz) | 4:08 |
-| 46 | [Pour nous](https://open.spotify.com/track/406vkcaidoH3fKPfdytL6Y) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Pour nous](https://open.spotify.com/album/51rumLSZOQswEty93fSey3) | 2:47 |
-| 47 | [Méditerranée](https://open.spotify.com/track/1YydAnEuRJGKbFUYEE8HUz) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD) | [Méditerranée](https://open.spotify.com/album/57z5mtYpxfIYVsLWMq6nu4) | 3:03 |
-| 48 | [Ça va !](https://open.spotify.com/track/5YmJ1Ts7Qv2GA2hKi8JxVv) | [DJ Bens](https://open.spotify.com/artist/6eOVzayMT2EKOMAawR01tV), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Ça va !](https://open.spotify.com/album/6XwsjQcPxdmNAS3a9QwaWT) | 2:34 |
-| 49 | [Un Deux Trois](https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Hello Hi / Un Deux Trois](https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA) | 3:30 |
-| 50 | [Et si ?](https://open.spotify.com/track/59Ej6X1MZD00tL8roBI9hx) | [Krisy](https://open.spotify.com/artist/6RwBaA9wZC0BPWZfmGeWMo) | [Et si ?](https://open.spotify.com/album/7cmRDU8mSCgoZKEC8nmr9f) | 3:01 |
+| 45 | [Halla](https://open.spotify.com/track/7FQsPOtlNa9iIFasNg6fNv) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Chrome](https://open.spotify.com/album/7bMtSweR1dLda9bbLUq51b) | 3:12 |
+| 46 | [Colors](https://open.spotify.com/track/7N3wyYCiyIEMsFdaL9BcRF) | [Anaïs Cardot](https://open.spotify.com/artist/4Y8Fqly07jv3GLevDRv4qU) | [Colors](https://open.spotify.com/album/2lecuAW041jFGznJIATbhz) | 4:08 |
+| 47 | [Ça va !](https://open.spotify.com/track/5YmJ1Ts7Qv2GA2hKi8JxVv) | [DJ Bens](https://open.spotify.com/artist/6eOVzayMT2EKOMAawR01tV), [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Ça va !](https://open.spotify.com/album/6XwsjQcPxdmNAS3a9QwaWT) | 2:34 |
+| 48 | [GÉ VOULAIT](https://open.spotify.com/track/0zjj6xLdVtzIzkOHEWqbWH) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [GÉ VOULAIT](https://open.spotify.com/album/4ANS3cQf0SZux2I7zlkAxC) | 2:41 |
+| 49 | [Méditerranée](https://open.spotify.com/track/1YydAnEuRJGKbFUYEE8HUz) | [Bon Entendeur](https://open.spotify.com/artist/2lwjwKfYZCuPEJOo8t32CD) | [Méditerranée](https://open.spotify.com/album/57z5mtYpxfIYVsLWMq6nu4) | 3:03 |
+| 50 | [Un Deux Trois](https://open.spotify.com/track/7J1xMvrQsOqvtiEz6JYQT5) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Hello Hi / Un Deux Trois](https://open.spotify.com/album/6XZKOdl1p6Gq4dC74E2uxA) | 3:30 |
 
-Snapshot ID: `MCw5OGE1NjQ2OTZhYzVkYzA2NmI1ODQ4NTJkN2QxNzk3MGUyNTZmYjcw`
+Snapshot ID: `MCw2ODI3NzExYjBhNWMyZTk4MDEzNjg3OWZmNjA5OWE4MGE4NjVjMmVl`

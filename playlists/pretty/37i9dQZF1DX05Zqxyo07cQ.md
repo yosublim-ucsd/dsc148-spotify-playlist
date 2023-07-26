@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Zqxyo07cQ.md) - [plain]
 
 > A trilha perfeita pra embalar seu sono / Música perfecta para dormir
 
-[Spotify](https://open.spotify.com/user/spotify) - 801,542 likes - 340 songs - 16 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 801,555 likes - 340 songs - 16 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -349,4 +349,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05Zqxyo07cQ.md) - [plain]
 | 339 | [Ruhig](https://open.spotify.com/track/3zElUjNtIsgfRmC0r7ETgB) | [Phillipp Vogler](https://open.spotify.com/artist/2ocNI6hLYU6rqq6TT4YzNY) | [Ruhig](https://open.spotify.com/album/5Qon2Hkc9b73ZkWBfnYXYC) | 2:46 |
 | 340 | [Path to Sleep](https://open.spotify.com/track/4s9W9B4fY7lZ1wriVJy11V) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Wisdom](https://open.spotify.com/album/1Zv1m9DKQhnyQ1ayAzCHXp) | 3:04 |
 
-Snapshot ID: `MCw1MjRiOGY1MWU3N2ExYjQ2NWM1N2IyMWZjNzY0NTY3ODQ1NGZkZWE0`
+Snapshot ID: `MCwwNDMwZGIyNGRlMzQxNWY1YTY0MDI3NmNjODNkNDNkOWIzYTgxYjJm`

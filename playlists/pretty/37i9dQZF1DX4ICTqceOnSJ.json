@@ -1,13 +1,33 @@
 {
   "description": "De lunes a domingo, descubre un tema elegido por tus editores de Spotify.",
-  "num_followers": 422233,
+  "num_followers": 422237,
   "original_name": "Canci\u00f3n del D\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OWNkNTY2MzI1YmQ4YmJkMDJiNmJhYWY2Y2U5ZTc1NzgyYzZiZDRm",
+  "snapshot_id": "MCxmYTViNjU2ODliZDY5MDQ5NTdlNGFmNmRmNjllZGMwMGZkMmYzMWM1",
   "tracks": [
+    {
+      "added_at": "2023-07-25 06:00:00",
+      "album": {
+        "name": "moneda sin valor",
+        "url": "https://open.spotify.com/album/4Qwp5iSfODw3HnJZsLwFM7"
+      },
+      "artists": [
+        {
+          "name": "Caztro",
+          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
+        },
+        {
+          "name": "Ivana",
+          "url": "https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ"
+        }
+      ],
+      "duration_ms": 174612,
+      "name": "moneda sin valor",
+      "url": "https://open.spotify.com/track/1NfGatqpE4QWyLg1VzWRbD"
+    },
     {
       "added_at": "2023-07-24 22:53:16",
       "album": {
@@ -871,22 +891,6 @@
       "duration_ms": 196751,
       "name": "Olas Negras",
       "url": "https://open.spotify.com/track/51JSkV0wKdoFYR8Cn2PBjT"
-    },
-    {
-      "added_at": "2023-07-24 22:53:16",
-      "album": {
-        "name": "Abril",
-        "url": "https://open.spotify.com/album/2uT7GrTnYKL293sssNax85"
-      },
-      "artists": [
-        {
-          "name": "Abril Olivera",
-          "url": "https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg"
-        }
-      ],
-      "duration_ms": 229531,
-      "name": "Toda la Noche",
-      "url": "https://open.spotify.com/track/4JqzimmrHYg2yOXY37SfwV"
     }
   ],
   "unique_name": "Canci\u00f3n del D\u00eda",

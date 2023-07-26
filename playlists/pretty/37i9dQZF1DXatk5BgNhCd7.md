@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Grupo Frontera & KePersonajes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,564 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,625 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 17 | [Despreocupá](https://open.spotify.com/track/1zL8We68JciISLOr2rZGqW) | [CRYS](https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI) | [Despreocupá](https://open.spotify.com/album/7wgitUipAKBjw8AIFG35H2) | 2:36 |
 | 18 | [Volando](https://open.spotify.com/track/6JIbCbVg76NIZQIVaHxnr2) | [Luis Vazquez](https://open.spotify.com/artist/00zeZxu1UPkn8DKqNxgnyw) | [Volando](https://open.spotify.com/album/4XScnOn4HGNKln5l5xi6Tx) | 3:15 |
 | 19 | [Celoso \- En Vivo](https://open.spotify.com/track/2HSyvhakmLukCHfzourR3B) | [Conjunto La Duracion](https://open.spotify.com/artist/047wqZpbKCmKxAcWHdykd5), [Tambora Ritmo Express](https://open.spotify.com/artist/5XmFilREaCbdcCcMgLVme6) | [Celoso \(En Vivo\)](https://open.spotify.com/album/5z9QtjOMew4RWhvZbfwCEe) | 2:47 |
-| 20 | [Venezuela](https://open.spotify.com/track/0I2Uh0q80nrSCfGs3Xsujy) | [Velandia y La Tigra](https://open.spotify.com/artist/2saVhSlCKjNZnW4QZcFHkE) | [Venezuela](https://open.spotify.com/album/1iAmsae29xHGez7zSD1tXC) | 3:50 |
+| 20 | [Venezuela](https://open.spotify.com/track/0I2Uh0q80nrSCfGs3Xsujy) | [Velandia y La Tigra](https://open.spotify.com/artist/2saVhSlCKjNZnW4QZcFHkE), [Edson Velandia](https://open.spotify.com/artist/3ljnYB3ODjEMEJgdHUPMPi) | [Venezuela](https://open.spotify.com/album/1iAmsae29xHGez7zSD1tXC) | 3:50 |
 | 21 | [Fuego](https://open.spotify.com/track/1Vyn9k1jYzQj9CJAwY3wWl) | [Mayra Sánchez](https://open.spotify.com/artist/15G6Ay5IOV6z7Sw2bpCQWv) | [Fuego](https://open.spotify.com/album/7Ib1ipLvdkWJPPbKBXdryk) | 2:51 |
 | 22 | [Amor Vuelve \- \(En Vivo\)](https://open.spotify.com/track/23cpMr5CaZ4JcfYQ6oZ5Lb) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6), [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Amor Vuelve \(En Vivo\)](https://open.spotify.com/album/3ZvVnbkeEfL8N9zzgICFEP) | 3:46 |
 | 23 | [Si Tu La Ves](https://open.spotify.com/track/04v1ifU5ICftn7GKzaFpl9) | [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6), [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Si Tu La Ves](https://open.spotify.com/album/4YViEFHtIfrWhgV6JTDUNN) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 49 | [Quiéreme](https://open.spotify.com/track/7KtpVpoOsyOZ0l1OtvlnPi) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Luana](https://open.spotify.com/artist/6uJKnn4CV4IIop8mg4kCUy) | [Quiéreme](https://open.spotify.com/album/5kCvgrQyPDTFo2twOMwP63) | 2:28 |
 | 50 | [No\_se\_ve.mp3](https://open.spotify.com/track/6MZF2xNdjG24IXAVxFJNg9) | [Tru La La](https://open.spotify.com/artist/1EsaxlwSz9CLqVRjZYnP3H) | [No\_se\_ve.mp3](https://open.spotify.com/album/6i4DjgJTPYPDRPzuirxQPV) | 2:15 |
 
-Snapshot ID: `MCw5YjllOGNlM2NhYmQ4M2QzNTk5Y2VlYzFiYjAzYTg2N2ZkZjgxM2Rm`
+Snapshot ID: `MCw2MWMxNTIwYTA2YWMxYTg3MjkyZDIyNzQ5ZTljYzRhMTUwNDhhMGI2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Rimas argentinas\. Foto: Soui Uno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,218 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,302 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 14 | [Mujer](https://open.spotify.com/track/1pCgmKc1xoCpFnhm3JnmRq) | [Deyco](https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp), [Santy\-P](https://open.spotify.com/artist/2PFhyG1gFk1fU3Ko3pb5QL), [JCKC](https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu) | [Mujer](https://open.spotify.com/album/5r0bfpYeKKhKKDXfGfhuwV) | 3:05 |
 | 15 | [Crazy Love](https://open.spotify.com/track/6xYoGCKn0xphdwOixsrcIW) | [Fazzini](https://open.spotify.com/artist/0UgMoItq2HrVT6sRUF9ouY), [Franky Style](https://open.spotify.com/artist/1cLDC1abeY1jIY5AX2Rtbx) | [Puff Puff Pass Vol\. 4](https://open.spotify.com/album/4RQ2sG5vnqhp1suvtuhNbS) | 3:50 |
 | 16 | [Conscientes](https://open.spotify.com/track/00A1QlPq8KGQbbs1KAP8tu) | [Deyco](https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp) | [Conscientes](https://open.spotify.com/album/39u6g3PwSWHbmkMK0qpW16) | 3:01 |
-| 17 | [Me Gusta Lo Simple](https://open.spotify.com/track/3VJSv1RoYiCY4ECGyDO7ry) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Súper Sangre Joven](https://open.spotify.com/album/1SbMoaKFJWo8u1tb2dAgHt) | 3:16 |
+| 17 | [Me Gusta Lo Simple](https://open.spotify.com/track/3VJSv1RoYiCY4ECGyDO7ry) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Súper Sangre Joven](https://open.spotify.com/album/1SbMoaKFJWo8u1tb2dAgHt) | 3:16 |
 | 18 | [Hasta Siempre](https://open.spotify.com/track/119OqJPLpJGUGJI8Gj8H4t) | [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg) | [Hasta Siempre](https://open.spotify.com/album/4kXelnbRunlmMhbP1jbynJ) | 2:10 |
 | 19 | [Te Quiero para](https://open.spotify.com/track/69nP6g8hzlfQ5kUka943Fk) | [Slim Dee](https://open.spotify.com/artist/7jiMD3vf8pQSfYOqsftWVg), [Anita Sibona](https://open.spotify.com/artist/20yH9OjsIndxVscCeBVwAY) | [Rap & Shine](https://open.spotify.com/album/7yzfOTZ1Ig2I7cCI1jxh8G) | 2:48 |
 | 20 | [Traición](https://open.spotify.com/track/6dInG46eWdpZkjOpD0Na3x) | [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk), [Zica](https://open.spotify.com/artist/46tb2ZXhiEO0R42JLK1Qzr) | [Traición](https://open.spotify.com/album/1Lir5TBeNDAVUq1mDATIOz) | 3:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 | 99 | [Familia](https://open.spotify.com/track/44QmE5ujaF7M96CeJNGenk) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G) | [Familia](https://open.spotify.com/album/6PQv6xBgadgMfa6vx0rphw) | 3:46 |
 | 100 | [Perdón Mamá](https://open.spotify.com/track/3V46IccwqEAOPKdZQTDVZM) | [Lil Troca](https://open.spotify.com/artist/51Q6RZOMEMuZHySsfWLTtk), [Homer El Mero Mero](https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg), [Dellalowla](https://open.spotify.com/artist/2Sg5Om9W4VXXIBC0wzObrH) | [Perdón Mamá](https://open.spotify.com/album/4e7jDqn0YTMNc4gQdVwUgM) | 2:32 |
 
-Snapshot ID: `MCw1Yjg0NGY3OTc0YzNlZDM3ZTk0ZWM0MTBmNzdiMjc1OWJiNTJmMzY2`
+Snapshot ID: `MCwzYTNiZmRlMmJiMTEzYTY3NGU0Nzg4ODBhOWZhMGNiOTYzNTQzMmZi`

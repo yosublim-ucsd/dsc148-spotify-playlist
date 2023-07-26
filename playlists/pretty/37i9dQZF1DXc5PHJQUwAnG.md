@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 
 > Bienvenidx a la trampa mexa\. Flyboiz y Adan Cruz en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,717 likes - 100 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,741 likes - 100 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc5PHJQUwAnG.md) - [plain]
 | 94 | [Snow Tha Product: Bzrp Music Sessions, Vol\. 39](https://open.spotify.com/track/5hpOBmnNc1mahkYGmte4NI) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Snow Tha Product: Bzrp Music Sessions, Vol\. 39](https://open.spotify.com/album/4rEAYu2WaOofCf9KpyFKO7) | 2:57 |
 | 95 | [Pa Mis Loc@S](https://open.spotify.com/track/2xHFsQtP81f7mGfhw8Svjl) | [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk) | [Pa Mis Loc@S](https://open.spotify.com/album/2A7APHdcThRiDd6l5h27Pm) | 3:01 |
 | 96 | [Waze](https://open.spotify.com/track/7DxHxVvZkeW2UUrXYGmn3U) | [Fntxy](https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx) | [Homie Alone](https://open.spotify.com/album/7cftuQ1mezvQCWSHtP7eA9) | 3:01 |
-| 97 | [El Mexicano](https://open.spotify.com/track/24a2AvxZM73Sg1zKtXdM3M) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Huracán](https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi) | 3:13 |
+| 97 | [El Mexicano](https://open.spotify.com/track/24a2AvxZM73Sg1zKtXdM3M) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Huracán](https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi) | 3:13 |
 | 98 | [Icy](https://open.spotify.com/track/0wdWp0BJKTDCiHvV0HivcM) | [Denilson](https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj), [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T) | [CÓDIGOS](https://open.spotify.com/album/5HMWKVH3tJnZAriq0YeeQ8) | 3:13 |
 | 99 | [Excusa](https://open.spotify.com/track/6Iqbx7Fn7Hnw8iJOEhS9OL) | [OPYI](https://open.spotify.com/artist/5hWRNIwMHTJ09SjdOVoEwl) | [Excusa](https://open.spotify.com/album/6rDbHMk2z6qW0nskzy7CAC) | 3:16 |
 | 100 | [FERRAGAMO](https://open.spotify.com/track/2OkMmFo9V7nAXhojd9QUPR) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [FERRAGAMO](https://open.spotify.com/album/5Rz59vfdoaxddW0kMuvV7X) | 3:38 |
 
-Snapshot ID: `MCw0NzRmNmY0MWY3MDMzNDdiMzVhYWE3NmE3ZGEwYTBiNmRkN2RjNTRj`
+Snapshot ID: `MCwxYzM3OTViYzI1ZTY2ZGRmMDA4YmFlOGE1YjU4ZThlZDkzZDg5NmNl`

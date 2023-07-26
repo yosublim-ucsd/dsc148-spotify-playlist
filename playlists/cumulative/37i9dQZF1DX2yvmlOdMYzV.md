@@ -4,12 +4,13 @@
 
 > Indie soul that's highkey fire
 
-424 songs - 23 hr 36 min
+425 songs - 23 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [& That's Alright](https://open.spotify.com/track/1ASixBTwRxUPMVXQ1E4vVC) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Comfortable Enough](https://open.spotify.com/album/0IBdkfqrzHjWi13fudEWyp) | 3:01 | 2023-03-17 | 2023-05-04 |
 | [10,000 Hours](https://open.spotify.com/track/79kniixiy0c4pw3zhsqsEi) | [OSA](https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW) | [10,000 Hours](https://open.spotify.com/album/2pccLnOW0FaYbSmWAkHrxA) | 2:43 | 2023-04-14 |  |
+| [100 Degrees](https://open.spotify.com/track/6qXJEnPg8I9tTPqMiUhjTK) | [Quinn Oulton](https://open.spotify.com/artist/2lqAPLmP9BsHPymfa6UFO7), [Reuben James](https://open.spotify.com/artist/5tA28joO5iZ0eCnvyctqRH), [Linden Jay](https://open.spotify.com/artist/0re1X3yAM2CTtG9nnGhxnC) | [100 Degrees](https://open.spotify.com/album/68x3SZi68AXrSunEhvBnml) | 2:34 | 2023-07-07 |  |
 | [1080p](https://open.spotify.com/track/2Km5bvWLnzHTGZFkcZdXwo) | [Elujay](https://open.spotify.com/artist/1CgbNAF3Stnz1Tpipu3xdO), [HXNS](https://open.spotify.com/artist/3DmNosRs1GoM9BJPJmsul0) | [1080p](https://open.spotify.com/album/65G42qU1o3brVm6GSFpRZu) | 2:33 | 2021-12-15 | 2022-04-08 |
 | [311 \(with Gwen Bunn\)](https://open.spotify.com/track/2K4R3bKsoJV8Rm9I67ddm7) | [Jordan Ward](https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf), [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg) | [FORWARD](https://open.spotify.com/album/3B091Vt3mViGBReaUvMUCc) | 2:31 | 2023-03-03 |  |
 | [69 Camaro](https://open.spotify.com/track/50S52c98UbsIIiG0F1uyat) | [Kyle Dion](https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3) | [SUGA](https://open.spotify.com/album/4ZQjhcYbZl4KhMoBekUzUL) | 2:34 | 2022-09-29 | 2022-10-13 |
@@ -400,7 +401,7 @@
 | [UNDERSTAND \(feat\. Baby Rose\)](https://open.spotify.com/track/1RHob2sw5X81Ukn4BYPbmF) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3), [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [UNDERSTAND](https://open.spotify.com/album/6DQ6LpJlvhoamE6Qg6plAX) | 4:03 | 2023-04-21 | 2023-06-26 |
 | [Unravel](https://open.spotify.com/track/4iaGEMYt33g7XRW0XysG5B) | [Sipprell](https://open.spotify.com/artist/065qyjvmeguYcKpAln7buu) | [Unravel](https://open.spotify.com/album/2Ag4zs6ShtSHPVcgIZoSeq) | 2:40 | 2023-06-09 |  |
 | [Until The End Of Time \- Spotify Singles](https://open.spotify.com/track/0XdwIG7p28SeTam3DVdMX6) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Spotify Singles](https://open.spotify.com/album/6SL03KQzLNrxyO6AfIBe7y) | 4:43 | 2023-02-14 | 2023-07-15 |
-| [Until The Morning](https://open.spotify.com/track/2mI4R8Mafb3y6I1gytvkDe) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Until The Morning](https://open.spotify.com/album/5QGpibxEBGfcPjY4zS4uwf) | 2:58 | 2023-04-21 |  |
+| [Until The Morning](https://open.spotify.com/track/2mI4R8Mafb3y6I1gytvkDe) | [Kwaku Asante](https://open.spotify.com/artist/2aUr9B6iwO3eYiEHJIpB0M) | [Until The Morning](https://open.spotify.com/album/5QGpibxEBGfcPjY4zS4uwf) | 2:58 | 2023-04-21 | 2023-07-26 |
 | [Valentine](https://open.spotify.com/track/4JoDBcODOajOx3ZRQlSa7o) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Starry Ache](https://open.spotify.com/album/1yRRZvO7YIPHzSkvX94YOR) | 3:01 | 2021-12-15 | 2022-04-08 |
 | [Verbs](https://open.spotify.com/track/4yurN9uKsooqpAjMhfPfRh) | [Peyton](https://open.spotify.com/artist/0uIVCKSl2eNhWQ1yXxO5xV), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Verbs](https://open.spotify.com/album/47o1uI5KDCQEHdZjUOMBdT) | 3:33 | 2022-03-04 | 2022-12-24 |
 | [Verbs \(feat\. Steve Lacy\)](https://open.spotify.com/track/53cvnLRalWWOb42dcHL0yZ) | [Peyton](https://open.spotify.com/artist/0uIVCKSl2eNhWQ1yXxO5xV), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Verbs \(feat\. Steve Lacy\)](https://open.spotify.com/album/7oh3RIfZdxMGTNgkN6HBNB) | 3:33 | 2022-11-09 | 2023-07-15 |

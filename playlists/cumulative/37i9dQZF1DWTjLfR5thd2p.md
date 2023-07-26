@@ -4,7 +4,7 @@
 
 > A cool breeze, a clear sky, and calming piano music.
 
-396 songs - 17 hr 22 min
+400 songs - 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Dawn Breaks While Your Perfume Lingers](https://open.spotify.com/track/3Mmjmabj0WsGMNl4Yowf4U) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [Her Heart Blooms Like A Rose Garden](https://open.spotify.com/album/2LivVPseFzgoyhKiT1vJoT) | 2:06 | 2022-05-20 |  |
 | [Dawn Of Day](https://open.spotify.com/track/635M2GuMSoVunGBe7D7vWz) | [Sarah Seing](https://open.spotify.com/artist/4Sw3vhjwiEgEuExPxm3vpl) | [Dawn Of Day](https://open.spotify.com/album/3cLULRxqDxLAtlHe35y3Dx) | 4:04 | 2022-05-20 |  |
 | [Daydream](https://open.spotify.com/track/2ybNkUxBLsr62fkVcqJ8OC) | [Patrica Vazquez](https://open.spotify.com/artist/3WwszcyQ0cJgmBo9YrHN0p) | [Daydream](https://open.spotify.com/album/7dMjCn2hQgcP4Vqll8M4BJ) | 1:52 | 2022-05-20 |  |
+| [Days from Before](https://open.spotify.com/track/5bEOU1GF4yjpSAh3KSPtQD) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Days from Before](https://open.spotify.com/album/1bRj0JsqIjH1qmJLDVyytH) | 2:07 | 2023-07-25 |  |
 | [Days Like These](https://open.spotify.com/track/7pwDWr9QNRAv6N63MY2mRn) | [Renard Francis](https://open.spotify.com/artist/1TQQ7EEYrOne3L7iiCObNX) | [Days Like These](https://open.spotify.com/album/207M0Mwbs6wtPdPmayBTUw) | 4:09 | 2022-05-20 |  |
 | [Dazzling Sun](https://open.spotify.com/track/2Ybs9KNO2dlCp6CGBIGtzo) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Efflorescence](https://open.spotify.com/album/39PUwYEN0AxbFJDAdsrJOO) | 2:19 | 2022-05-20 |  |
 | [De seu](https://open.spotify.com/track/5Bl7fjZwq3u37T51tspPAp) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [De Seu](https://open.spotify.com/album/0a84zl4kQdodn1VhkTl3jl) | 2:35 | 2022-05-20 |  |
@@ -146,6 +147,7 @@
 | [Home For Someone](https://open.spotify.com/track/4dSSFaVIaF3G0yYOkegjYo) | [Zinna Blanc](https://open.spotify.com/artist/0qoowD3vsyfw8qzylIN9nx) | [Home For Someone](https://open.spotify.com/album/7EvULz6e12nqEWNSr3g77I) | 3:40 | 2022-05-20 |  |
 | [Hope](https://open.spotify.com/track/30bZOzN1pRTpZzHiyHqozh) | [Leona Boyd](https://open.spotify.com/artist/7jEJ0zKV57ryzZm5tEVGJe) | [Hope](https://open.spotify.com/album/4MWh9fYmqrW83MjbXg5YSc) | 2:23 | 2022-05-20 |  |
 | [Hour Glass](https://open.spotify.com/track/5OU3bBYoT7TqGOlPrZqq7N) | [Felice Manzi](https://open.spotify.com/artist/4zyg7o4zxpSwns0Le3W14e) | [Hour Glass](https://open.spotify.com/album/7om9KUlSTFqdUeQfO9Rm4P) | 2:51 | 2022-05-20 |  |
+| [Hvile \(Ps.4\)](https://open.spotify.com/track/6VX09RQkEUeCA2f07eF4L0) | [John Vegard Schow](https://open.spotify.com/artist/00bOFN0VJ7IQqtK3TdRcsN) | [Hvile \(Ps.4\)](https://open.spotify.com/album/70ulnAtVVPZApVt5J4WIbm) | 2:25 | 2023-07-25 |  |
 | [Hvorhen du end går](https://open.spotify.com/track/6fwGU5vdnXBUHiEMW7FAnB) | [VIbeke Holst\-Tofte](https://open.spotify.com/artist/2vwQEppB6ZLxvDBMuZjv7h) | [Hvorhen du end går](https://open.spotify.com/album/5GPuiMrxFPHRBES2itNeYp) | 2:28 | 2022-05-20 |  |
 | [Höga Kusten](https://open.spotify.com/track/5zGjShkzj9irv7Bsa14x5l) | [Freya Rääf](https://open.spotify.com/artist/2iQG0lRDnvCIXfN3BDbXIa) | [Höga Kusten](https://open.spotify.com/album/2ScDWFyqMVcL2MCiMYF6Oe) | 1:50 | 2023-06-19 |  |
 | [I Try](https://open.spotify.com/track/2iqN4qtrdyp43YZONn3sgF) | [Helena Gabriel](https://open.spotify.com/artist/5AW3NFlJDX8SX4LoHNTZOO) | [I Try](https://open.spotify.com/album/6EZsJTZbEkW91ZFgpzCchU) | 1:49 | 2022-05-20 |  |
@@ -215,6 +217,7 @@
 | [Moontalk](https://open.spotify.com/track/1a8Vb0yblKsHzkDnyNttxe) | [Raphael Azalea](https://open.spotify.com/artist/2dXSgyqHAuBy36201Q7B7H) | [Moontalk](https://open.spotify.com/album/1eBHDhxNaq47Uh6omiAS0p) | 3:17 | 2022-05-20 |  |
 | [Moving Forward](https://open.spotify.com/track/2QClIsZ4xDAgmVSWQT9RRF) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [Moving Forward](https://open.spotify.com/album/49wTfncMF0lOpFyYZsmkVu) | 2:06 | 2022-05-20 |  |
 | [Moving Slowly](https://open.spotify.com/track/4xYztiOcXXOiC1TwTsXuY3) | [Jacques Blanc](https://open.spotify.com/artist/2pLiht9WILwFOx7VoxQQJJ) | [Moving Slowly](https://open.spotify.com/album/1UQI21LayYIwYNHsZaOjRD) | 1:59 | 2022-05-20 |  |
+| [My Adored](https://open.spotify.com/track/2t14BxhdnmUQXsQ5ls74WR) | [Otis Son](https://open.spotify.com/artist/0ndzscLaWk1qlkOZ0nRPYE) | [My Adored](https://open.spotify.com/album/5AoqpA3d1et0eA51pv95lO) | 4:13 | 2023-07-25 |  |
 | [My Day](https://open.spotify.com/track/2D9iOaCe7y3H8pBmrhQrrA) | [Little Florence](https://open.spotify.com/artist/2GpEugU55XENAxQST64ZPn) | [Soft Mallets](https://open.spotify.com/album/6C3wCA6fepDNa4wfcnP7ro) | 2:39 | 2022-05-20 |  |
 | [My Random Heart](https://open.spotify.com/track/2W2fS1W731q3EomZSZEsnI) | [Dana Meijer](https://open.spotify.com/artist/7B9SANiyRivfQLmWiCzmm1) | [My Random Heart](https://open.spotify.com/album/3jYXkP5n4sRnu1fVdifW9Q) | 2:26 | 2022-05-20 |  |
 | [Mécanique](https://open.spotify.com/track/3qbkko1sBm8hOhRg2T6OBV) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Mécanique](https://open.spotify.com/album/2CIascL7mybuFRkjXVUgBa) | 3:00 | 2022-05-20 |  |
@@ -291,6 +294,7 @@
 | [Sans Toi](https://open.spotify.com/track/04uVxAxx6QvPQzfuLv5A6P) | [Loane Tellier](https://open.spotify.com/artist/6xKXSveUUJyAIZAOCnnSvS) | [Sans Toi](https://open.spotify.com/album/0avKp2QPHyrlKayO32H0Qa) | 2:07 | 2022-05-20 |  |
 | [Sasha](https://open.spotify.com/track/5Cea1kGzMWhmpyZF7G8mxY) | [Camilla Selezneva](https://open.spotify.com/artist/0pbW0nhIY4JDlqMJU5G7eX) | [Sasha](https://open.spotify.com/album/3XAxROyOq3avBUuqs2V2jI) | 2:25 | 2022-05-20 |  |
 | [Schouderklopje](https://open.spotify.com/track/75lSZRCyAUovkaOe3r2cdg) | [Bádji](https://open.spotify.com/artist/45BoSxjlYeE9ApOqoiWkNC) | [Schouderklopje](https://open.spotify.com/album/5FXrD9YWeB5uw3lROmynq0) | 2:26 | 2022-05-20 |  |
+| [Secret Admirer](https://open.spotify.com/track/2lHQrHpOz29hr1HYMuYfO4) | [Carl Easterling](https://open.spotify.com/artist/1BpbMpMfqgyXdsZmUXsoIx) | [Secret Admirer](https://open.spotify.com/album/3Vzz6AtfJGbirjpPCnFnlq) | 2:07 | 2023-07-25 |  |
 | [See How the World Spins](https://open.spotify.com/track/2W3ZGfTWjdAYWLuFdsIalD) | [Ted Wilkinson](https://open.spotify.com/artist/3Sg7YfE4C7jfzmacocosU8) | [See How the World Spins](https://open.spotify.com/album/1pZqnmDY6kXg0z8eKru8iL) | 2:35 | 2022-05-20 |  |
 | [Seichtes Wasser](https://open.spotify.com/track/1F6M5OxEBzMTpcTX64ie9m) | [Claudio Polle](https://open.spotify.com/artist/3rY7PNIAjKRRzRyZvwFLBv) | [Madeira](https://open.spotify.com/album/0CPuRuX14OrSlgv2eYdjvB) | 2:18 | 2022-05-20 |  |
 | [Senza tentazioni, senza onore](https://open.spotify.com/track/0cS3uE3snbema8S5QRRboX) | [Domenico Cattaneo](https://open.spotify.com/artist/0WYfSlkG5eMqZXQ0ePTLg5) | [Senza tentazioni, senza onore](https://open.spotify.com/album/0eHlLV2RtEkYwSahIWHigt) | 2:44 | 2022-05-20 |  |

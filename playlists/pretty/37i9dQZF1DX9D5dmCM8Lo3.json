@@ -1,12 +1,12 @@
 {
   "description": "would you like to save before closing?",
-  "num_followers": 159489,
+  "num_followers": 159719,
   "original_name": "webcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzg0YmFlNTk3MTg4NTUyY2UyODIyY2E1NTBlYzNlYjdjOWNjN2Qw",
+  "snapshot_id": "MCw4ZTZjNDc1YzkyOGQwNjFlNjVkMWI0YjViMmE4MDQzZjhjODczNzNj",
   "tracks": [
     {
       "added_at": "2023-07-18 20:06:10",
@@ -195,18 +195,18 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "Baby My Phone",
-        "url": "https://open.spotify.com/album/3fLglAkAwRiXwFKjGRQxQq"
+        "name": "\u304d\u304f\u304a\u30df\u30af6",
+        "url": "https://open.spotify.com/album/3DcOkGnGL9cZgq9G1R75HE"
       },
       "artists": [
         {
-          "name": "Yameii Online",
-          "url": "https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF"
+          "name": "Kikuo",
+          "url": "https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu"
         }
       ],
-      "duration_ms": 215771,
-      "name": "Baby My Phone",
-      "url": "https://open.spotify.com/track/2SjvBmZYIbQTJ7rrPgdmV8"
+      "duration_ms": 365235,
+      "name": "\u3042\u306a\u3050\u3089\u3050\u3089\u3057",
+      "url": "https://open.spotify.com/track/3FvzeaesPY35bhhj55u4zJ"
     },
     {
       "added_at": "2023-07-18 20:06:10",
@@ -227,18 +227,18 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "\u304d\u304f\u304a\u30df\u30af6",
-        "url": "https://open.spotify.com/album/3DcOkGnGL9cZgq9G1R75HE"
+        "name": "Baby My Phone",
+        "url": "https://open.spotify.com/album/3fLglAkAwRiXwFKjGRQxQq"
       },
       "artists": [
         {
-          "name": "Kikuo",
-          "url": "https://open.spotify.com/artist/5FhcqamaRFfpZb4VHV47fu"
+          "name": "Yameii Online",
+          "url": "https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF"
         }
       ],
-      "duration_ms": 365235,
-      "name": "\u3042\u306a\u3050\u3089\u3050\u3089\u3057",
-      "url": "https://open.spotify.com/track/3FvzeaesPY35bhhj55u4zJ"
+      "duration_ms": 215771,
+      "name": "Baby My Phone",
+      "url": "https://open.spotify.com/track/2SjvBmZYIbQTJ7rrPgdmV8"
     },
     {
       "added_at": "2023-07-18 20:06:10",

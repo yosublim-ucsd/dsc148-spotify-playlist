@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 
 > Take comfort in these sad piano songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,580 likes - 199 songs - 8 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,687 likes - 199 songs - 8 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 | 2 | [Kay's Recovery](https://open.spotify.com/track/6heseVBVY5E1zh6z4FyMDA) | [Joaquin Conor](https://open.spotify.com/artist/09O6u1o77QVzr1RI6zyZv7) | [Kay's Recovery](https://open.spotify.com/album/2Ugt7X6hGDE0C722Tpgot4) | 1:54 |
 | 3 | [Valse Remuer](https://open.spotify.com/track/6uRgwV28hxPxLEr7nclFQs) | [Noemi Lucas](https://open.spotify.com/artist/6MOT3O3Ui3B6ig1ZyxqW9k) | [Valse Remuer](https://open.spotify.com/album/4XrIP9bYg4Pd0RNxIJaTqX) | 2:15 |
 | 4 | [Lentement](https://open.spotify.com/track/5IsR52IBI6AWGxcmx0dj83) | [Odette Pineda](https://open.spotify.com/artist/2Eiqzzb4kGdlWttizRLpaw) | [Lentement](https://open.spotify.com/album/68s563Nh1u4VTolbnEzPm7) | 2:11 |
-| 5 | [XV...with gravitas](https://open.spotify.com/track/2fE6qaDpRnn3dImpGar0g6) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [XV...with gravitas](https://open.spotify.com/album/5SJa52VZuA7tAEBB8KJjtW) | 2:22 |
+| 5 | [XV...with gravitas](https://open.spotify.com/track/4aWS0YU1fWeQMeiGiSVuwv) | [Jef Martens](https://open.spotify.com/artist/7t8PD6GvlbqByM0g7ysSHH) | [THE \(HE\)ART OF US](https://open.spotify.com/album/6NAg8FBuYOMmoKN7orCqcI) | 2:22 |
 | 6 | [The letter](https://open.spotify.com/track/2DTroZVuzZfdKJJg9gG7G6) | [Volker Anderson](https://open.spotify.com/artist/77UwtMovkeXsignTuy1dB1) | [The letter](https://open.spotify.com/album/0TiRvvmrH6z4yAMRICchhY) | 2:25 |
 | 7 | [Words Unspoken](https://open.spotify.com/track/6SDXe5YGDRwYncOl7pAEcu) | [Tomas Wilhelm](https://open.spotify.com/artist/6qibUXoNUClS6TmVSMHQ29) | [Words Unspoken](https://open.spotify.com/album/22IKWQ82aEqdzZWNF4MgD8) | 2:56 |
 | 8 | [Solace](https://open.spotify.com/track/1naBfaNrmE6xauYKrh5HiP) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Solace](https://open.spotify.com/album/1qoA8fDRBhIh3jpMFkNv1N) | 2:36 |
@@ -208,4 +208,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 | 198 | [Mélancolie](https://open.spotify.com/track/5JlrnENzKipdE51pDq8mDT) | [Auguste Léon](https://open.spotify.com/artist/5bGNRY7ynJDYPD22BWT05Q) | [Mélancolie](https://open.spotify.com/album/5Dmdf5KPs7djGXKwaOAO7N) | 3:11 |
 | 199 | [Persistence](https://open.spotify.com/track/0axAOvyLwfINcKe3tw7U2f) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Persistence](https://open.spotify.com/album/7hihzMSbAIsrcRtSGjebl8) | 2:19 |
 
-Snapshot ID: `MCw4MzlkMDlkZGMxMjVkMzAwZjMxOWRiMTkwZGMzYWM5YjU4ZDk5NzAz`
+Snapshot ID: `MCxjNGFmYTExNTVkNGZkZmJkMzEzNjM5MzU2ZjljOGZjNDEyMmM3NmYw`

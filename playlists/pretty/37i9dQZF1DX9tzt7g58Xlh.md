@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tzt7g58Xlh.md) - [plain]
 
 > Rock on with their latest releases from 'Mercury – Act 1 & 2'!
 
-[Spotify](https://open.spotify.com/user/spotify) - 215,202 likes - 72 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,192 likes - 72 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9tzt7g58Xlh.md) - [plain]
 | 71 | [Tiptoe](https://open.spotify.com/track/3dw0A0cbqT6Oy2V8KfGwIT) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions](https://open.spotify.com/album/6htgf3qv7vGcsdxLCDxKp8) | 3:13 |
 | 72 | [I’ll Make It Up To You](https://open.spotify.com/track/0FfX0nofboxZjP0diT1eFv) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 4:22 |
 
-Snapshot ID: `MCxkOTU0NTc1MDEyMjk0MDZkNDE5NjY3Yzc4ZDlkNjYyYTAzOWNjOTYy`
+Snapshot ID: `MCxhNTM2ZmM2YTc0YmVhMmI3ZDUxN2M4NDQ5NGU1MjFlMWFlMDg5ODhk`

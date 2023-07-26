@@ -4,7 +4,7 @@
 
 > vem de dm 🔥  ❤️
 
-83 songs - 3 hr 54 min
+84 songs - 3 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Portugal](https://open.spotify.com/track/1tLBXifMqnSqLZrk1Rsl8n) | [Kawe](https://open.spotify.com/artist/1TYJOhNSxMOODWiDVhuyZb), [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Portugal](https://open.spotify.com/album/5Acna8vDUeXMHpPTjf3J3h) | 3:36 | 2022-04-29 |  |
 | [PPRT](https://open.spotify.com/track/7jRujYuZFzPMMk2PMG7SfZ) | [Murilo França](https://open.spotify.com/artist/0PyoItyf0vbCXpSRuSdbtn) | [SOCORRO](https://open.spotify.com/album/4zpfBMqFzFyDUQA2y6KKKD) | 2:42 | 2022-04-29 |  |
 | [Qual Fita](https://open.spotify.com/track/2jWPvuNX5KKtEY0q6aym4V) | [Ceci Reis](https://open.spotify.com/artist/0dTOkpG8p4ZwjCA28HprBf) | [Que Fase](https://open.spotify.com/album/1XaXt76Sh007N2UPzgNJLU) | 2:19 | 2022-07-22 | 2023-04-29 |
-| [Quer um sorvete?](https://open.spotify.com/track/7FvudQjnqmKHru7whaHVY3) | [K o d a](https://open.spotify.com/artist/0d39uPZOBEBNEai4P6eKoC) | [Quer um sorvete?](https://open.spotify.com/album/0JG3s687wofD6eQpa2FofA) | 2:48 | 2022-04-29 |  |
+| [Quer um sorvete?](https://open.spotify.com/track/5T9Mw2mK6Naw141IyGK93d) | [K o d a](https://open.spotify.com/artist/0d39uPZOBEBNEai4P6eKoC) | [Quer um sorvete?](https://open.spotify.com/album/3Jz8AePyjnd3NbB2Cldaai) | 2:48 | 2023-04-28 |  |
+| [Quer um sorvete?](https://open.spotify.com/track/7FvudQjnqmKHru7whaHVY3) | [K o d a](https://open.spotify.com/artist/0d39uPZOBEBNEai4P6eKoC) | [Quer um sorvete?](https://open.spotify.com/album/0JG3s687wofD6eQpa2FofA) | 2:48 | 2022-04-29 | 2023-07-26 |
 | [Quero Agora](https://open.spotify.com/track/2EaOYBodrkKFceFdbIBRYC) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [DONATTO](https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ) | [Quero Agora](https://open.spotify.com/album/0Wwfj23cw97BCGrOHznMvQ) | 3:25 | 2022-04-29 |  |
 | [Quinto Degrau](https://open.spotify.com/track/3FmdH6c6eh2fQZ0UNwuVMz) | [Nivy](https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh) | [Quinto Degrau](https://open.spotify.com/album/07wckfxRJIRQKwWyqr8VI8) | 2:22 | 2022-04-29 |  |
 | [Recortes](https://open.spotify.com/track/7EtVFjjD8UPvBgihf5YPFy) | [antônio](https://open.spotify.com/artist/0gBzJRqpKs6se8l0coo7ue) | [Recortes](https://open.spotify.com/album/7bzLCXibLD9nzYwE7iBR8y) | 3:03 | 2022-04-29 |  |

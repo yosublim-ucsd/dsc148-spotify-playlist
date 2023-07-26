@@ -207,6 +207,32 @@
     },
     {
       "album": {
+        "name": "Baare Banake",
+        "url": "https://open.spotify.com/album/1PcxPwTbGTjdaBPcsfEYNJ"
+      },
+      "artists": [
+        {
+          "name": "Sunitha Ananthaswamy",
+          "url": "https://open.spotify.com/artist/08gkxhUNRG3oLI20fDL0ON"
+        },
+        {
+          "name": "Kalashree Dr.Jayashree Aravind",
+          "url": "https://open.spotify.com/artist/597E5ncWmDZhEkPzePD5tJ"
+        },
+        {
+          "name": "Anitha Ananthaswamy",
+          "url": "https://open.spotify.com/artist/45DEqOuTvLi5bEXHFwTyEv"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438967,
+      "name": "Baare Banake",
+      "url": "https://open.spotify.com/track/77YIyUafNBzKHEY8Mn5OAT"
+    },
+    {
+      "album": {
         "name": "Baby Girl",
         "url": "https://open.spotify.com/album/0VXE7EcubunGAzkMQVTAQy"
       },

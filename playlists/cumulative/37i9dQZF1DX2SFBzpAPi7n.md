@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: HYNN\(박혜원\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-507 songs - 1 day 7 hr 9 min
+509 songs - 1 day 7 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Lunar phase](https://open.spotify.com/track/1F3pPDZkBpfxcPzcQbXjTt) | [Lucia](https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc) | [Lunar phase : A side](https://open.spotify.com/album/08wRhg5KFGIsE0MTQEfyF4) | 4:49 | 2022-04-21 | 2022-07-03 |
 | [MAGIC](https://open.spotify.com/track/3IwGQoFbpFbSAS8FiTPVH4) | [Ha Hyunsang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Living the moment of love](https://open.spotify.com/album/6bMMVgG0lVRmoGaeJ6J2Vi) | 3:34 | 2022-06-03 | 2022-07-28 |
 | [MAISON](https://open.spotify.com/track/1fdlTXD7obDyqOpx96BEL9) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/1ONjVRtxAqiTivu0EiEBm5) | 3:05 | 2022-04-12 | 2023-07-08 |
+| [MAISON](https://open.spotify.com/track/2fyhv2ThM2PDqlc8HVs32e) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Save us\]](https://open.spotify.com/album/42mMFBIWT599FmtWK5op4a) | 3:05 | 2023-07-25 |  |
 | [Me, the Protagonist \(Feat\. Love X Stereo\)](https://open.spotify.com/track/7EqTBT6pT9Dr76qjji90I3) | [Tearliner](https://open.spotify.com/artist/0pLH4lklRk1JmFIkW5A7Si), [Love X Stereo](https://open.spotify.com/artist/0hesR67JPhgE5JX6q61Ltp) | [Summer Strike, Pt\. 7 \(Original Soundtrack\)](https://open.spotify.com/album/6t9MI2qmx8P65y39TftTcp) | 3:40 | 2022-12-22 | 2023-01-11 |
 | [melon](https://open.spotify.com/track/4anw7njgXqWoNABbWwAbEO) | [cotoba](https://open.spotify.com/artist/5KOhn3Gjbd4DUavli5No5f) | [Since the World is About to End](https://open.spotify.com/album/0ACwMoxFMS9lTsuWcRs4WB) | 5:02 | 2022-04-12 | 2022-07-10 |
 | [Memories](https://open.spotify.com/track/2tjlsodEoYD9xfPDkedn8s) | [WH3N](https://open.spotify.com/artist/4MSCkKz4xskCrvx49wOneF) | [Memories](https://open.spotify.com/album/6g7NACiHwVR0qCYiBVcwqa) | 4:22 | 2022-05-11 | 2022-05-15 |
@@ -335,7 +336,7 @@
 | [ride](https://open.spotify.com/track/43ap1ds3F1o8Fmz6b29NoG) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/2FxzArH5KLx18yasYHuVE4) | 3:48 | 2022-05-11 | 2022-07-26 |
 | [ride](https://open.spotify.com/track/6k0YWt1KOckGRkFoKxElSN) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/4R3ERcDOQP7o1Lkok2uO7E) | 3:48 | 2023-04-05 |  |
 | [Ride In](https://open.spotify.com/track/2UfV11bsS80uaESfesRWH4) | [South Club](https://open.spotify.com/artist/4ZVqQ5bLpSef3QmZP3gGnK) | [Ride In, 젊은 날의 꿈](https://open.spotify.com/album/3FbRUoycTSfRRu4V1USSeJ) | 2:41 | 2022-07-01 | 2022-07-06 |
-| [Right Through Me](https://open.spotify.com/track/2dVAFcKzQAXBbDPkjfNqRa) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [Right Through Me](https://open.spotify.com/album/0RuZ46wBwNUBTAcm3XL7iJ) | 3:37 | 2023-06-29 |  |
+| [Right Through Me](https://open.spotify.com/track/2dVAFcKzQAXBbDPkjfNqRa) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [Right Through Me](https://open.spotify.com/album/0RuZ46wBwNUBTAcm3XL7iJ) | 3:37 | 2023-06-29 | 2023-07-26 |
 | [Right Through Me](https://open.spotify.com/track/4cK8aSO2Ec4gmIjhtHfAKd) | [DAY6 \(Even of Day\)](https://open.spotify.com/artist/6uAlmplr9znkwaYj3ysgLd) | [Right Through Me](https://open.spotify.com/album/7HrZpKCxm1fqem02ALHn2D) | 3:37 | 2022-04-12 | 2023-06-07 |
 | [Ring on my Ears](https://open.spotify.com/track/7JvzA81nojfdhki4JFeerm) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [ONE](https://open.spotify.com/album/2VTgzWVmPQRELLVPu4VLFK) | 3:45 | 2022-04-22 | 2022-07-18 |
 | [Rocker's High \(Feat\. Lee Juseung\)](https://open.spotify.com/track/5qQYI0pBhlvP0CBhfCrLU0) | [DEVSISTERS](https://open.spotify.com/artist/7cf0ByqyHXCghj6gC5axcX), [Lee Juseung](https://open.spotify.com/artist/4VYWvx4JpgPYUbpAKgXH33) | [Cookie Run: Kingdom OST Summer Soda Rock Festa](https://open.spotify.com/album/5YDDSItmnh83Y7bTKHCOpG) | 3:34 | 2023-07-12 |  |
@@ -405,7 +406,7 @@
 | [surf.](https://open.spotify.com/track/6fhtB9Qf8vkJLPL88WMylY) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [surf.](https://open.spotify.com/album/0ZbnD6CJpKcj0m4Zde5XFm) | 3:45 | 2022-04-21 | 2022-07-26 |
 | [SURREAL \- Alternative Rock Mix](https://open.spotify.com/track/7MzEUfY3N6Uw8umnwMkaq0) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SALUTE: A NEW HOPE](https://open.spotify.com/album/0l35zvCONHylF3INQkVCL6) | 3:37 | 2022-05-11 | 2022-05-18 |
 | [Sweet Chaos](https://open.spotify.com/track/499qjESUqiZjlNI7XQhyLp) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Entropy](https://open.spotify.com/album/2vnlVtSs6PP1iKvcTWtX2h) | 3:47 | 2022-04-22 | 2023-06-07 |
-| [Sweet Chaos](https://open.spotify.com/track/52Dx3quiQ9ZmtCg2Y2jqkm) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Entropy](https://open.spotify.com/album/3k0QCw6Cpvq6hIEXUf6qAr) | 3:47 | 2023-07-07 |  |
+| [Sweet Chaos](https://open.spotify.com/track/52Dx3quiQ9ZmtCg2Y2jqkm) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Entropy](https://open.spotify.com/album/3k0QCw6Cpvq6hIEXUf6qAr) | 3:47 | 2023-07-07 | 2023-07-26 |
 | [Sweet Serenade \(Feat\. Park Jiyoon\)](https://open.spotify.com/track/0tQy8qtHKnlCWcHHtGCkar) | [DEVSISTERS](https://open.spotify.com/artist/7cf0ByqyHXCghj6gC5axcX), [Park Ji Yoon](https://open.spotify.com/artist/1iF0bgDBIthP30VjBK3KUO) | [Cookie Run: Kingdom OST Summer Soda Rock Festa](https://open.spotify.com/album/5YDDSItmnh83Y7bTKHCOpG) | 4:02 | 2023-07-12 |  |
 | [Swimming](https://open.spotify.com/track/7hRxZMsZhyz2Azs4A4t2sz) | [Dan](https://open.spotify.com/artist/4BMnAOwN9giwY67owHDYYB) | [Swimming](https://open.spotify.com/album/6MFF00PGZQTQq3Gq4xgHTt) | 4:38 | 2022-04-22 | 2022-05-08 |
 | [SWIMMING](https://open.spotify.com/track/6y8BCw8EyaGOcjGpgqOnMx) | [Lim Hyunsik](https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po) | [Piece of BTOB Vol.4](https://open.spotify.com/album/0maS5rDN2WBQElPQVR9GZW) | 4:20 | 2022-04-22 | 2022-05-01 |
@@ -446,6 +447,7 @@
 | [Unhappiness](https://open.spotify.com/track/3o1Myd7WTxfeK49bRjRmPh) | [Kwon so jeong](https://open.spotify.com/artist/40i3Nvksz5pGDxoGEz4Q7i) | [Unhappiness](https://open.spotify.com/album/3eC4GHAWS2In8EyyNphHus) | 4:12 | 2023-01-26 | 2023-02-11 |
 | [Unspoken](https://open.spotify.com/track/2berS6jFrr5FDB4XvqLgPr) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Unspoken](https://open.spotify.com/album/7za33muujtDaffMAvJq1Ld) | 4:17 | 2022-04-12 | 2022-07-23 |
 | [Upon A Smile](https://open.spotify.com/track/6hNfvDFIX77sXBAF737Vhl) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Upon A Smile](https://open.spotify.com/album/5MLPvQjADRbRSzAOXpIxKA) | 3:22 | 2022-12-01 | 2022-12-22 |
+| [Vampire](https://open.spotify.com/track/0Vid0ssKi58EMLmVtJv13s) | [Park Kang Hyun](https://open.spotify.com/artist/1zbvx9v36agvfy9HbZQAez) | [Heartbeat \(Original Television Soundtrack\), Pt.5](https://open.spotify.com/album/0HNqpYK0eGdYs9Tay0I0zZ) | 3:11 | 2023-07-25 |  |
 | [Vandalism](https://open.spotify.com/track/6WYdikTHOUcmiUzMVWyqwR) | [Shin Hae Gyeong](https://open.spotify.com/artist/5QvjYtqN0mekeCiyhdAjss) | [Neap Paradise](https://open.spotify.com/album/7JSKsWO0xZw7JlQbV8AG9N) | 3:59 | 2022-12-12 | 2022-12-22 |
 | [Violet](https://open.spotify.com/track/3vwtmExA3wwbr4GI5KvLkC) | [Minhye J](https://open.spotify.com/artist/2E2b8xg4MmesEDv6QKZRiy) | [Violet](https://open.spotify.com/album/5sVqYLGmHA96l13kAUEVYv) | 4:20 | 2022-04-22 | 2022-06-08 |
 | [VOID](https://open.spotify.com/track/0keNzrJRUOBzewGHOrtSH7) | [RECORDBELL](https://open.spotify.com/artist/4PW6o9Gy6TZqrxpY6rHo8L) | [VOID](https://open.spotify.com/album/6ZIJNzoZIXjogl8iOinq3g) | 3:38 | 2022-04-22 | 2022-05-10 |

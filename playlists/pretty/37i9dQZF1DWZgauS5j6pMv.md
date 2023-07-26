@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Cory Wong
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,640 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,718 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 99 | [Gigantic Energy](https://open.spotify.com/track/2PRmFMuhCCwa9fNtqRi4M1) | [Michael Thurber](https://open.spotify.com/artist/5zdCcd7nJejwygIgvJzjhf), [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd) | [Gigantic Energy](https://open.spotify.com/album/2bIcCEYZZHRgOHZNEicdXw) | 4:24 |
 | 100 | [Just One Of Those Days](https://open.spotify.com/track/7Cj3KziZ8nuZpM1LD56fgL) | [Sam Greenfield](https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY) | [Just One Of Those Days](https://open.spotify.com/album/1MAYtAvrKCnbnK5GWKQyfb) | 3:22 |
 
-Snapshot ID: `MCxlZjY3NDkwYzM5NGMxMGE3YWZkNjIxMWJiMDY5NzQwYTRkMDFiZTRi`
+Snapshot ID: `MCxmOGI4ZjI0MTlkYzc5MTY4ZmE1NjQzYTJmODEzMDg3YTMxOGZlMGEw`

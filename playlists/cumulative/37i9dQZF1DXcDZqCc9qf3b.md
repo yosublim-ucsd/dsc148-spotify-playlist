@@ -4,7 +4,7 @@
 
 > Groove to music from your Netflix Kids favorites! Cover: The Magician's Elephant
 
-118 songs - 4 hr 54 min
+119 songs - 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Captain Crow \- from "The Sea Beast" Soundtrack](https://open.spotify.com/track/7FPa79wpVMBvcw0p7SoB2V) | [Nell Benjamin](https://open.spotify.com/artist/2zd6EMs4amJNjdq41ArIrJ), [Laurence O'Keefe](https://open.spotify.com/artist/1DX6JkrHY2mbpWK4gntYhO) | [The Sea Beast \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0hkOK7oNx1B7OFwFLQGKfx) | 1:37 | 2022-07-09 |  |
 | [Chicken Bop](https://open.spotify.com/track/2QOMKKlrxxJIiQBilxov0B) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Animals](https://open.spotify.com/album/0GJyeC8pHZiH1dXQlf3ceh) | 1:03 | 2022-04-08 | 2023-02-08 |
 | [Chicken Bop](https://open.spotify.com/track/6kQHXSpfVv6pemkrMmCdXs) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Animals](https://open.spotify.com/album/0OdtbuR79Jy940iJuFCKf7) | 1:03 | 2023-02-03 |  |
+| [Courage In Me](https://open.spotify.com/track/5QcKjwMMdHgarF0A1cMJyj) | [Lou](https://open.spotify.com/artist/1rLjqQu0qus0jEuP9eySii) | [Courage In Me \(From Miraculous: Ladybug & Cat Noir, The Movie Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7FZYfXFTDr3kMm4OTAXsUp) | 3:21 | 2023-07-25 |  |
 | [Danger, Danger](https://open.spotify.com/track/090pfisth9XR8YT4I9XYYM) | [Alan Schmuckler](https://open.spotify.com/artist/4gQjvlYHRKVoeR9rb8iCJ5), [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [My Little Pony: A New Generation \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4wgoVzfqKBkE5ZKlBfs89g) | 2:11 | 2022-04-08 |  |
 | [Everyone Will Think \(That You Stink\)](https://open.spotify.com/track/7BqS29AbWYfC5ldqOtOONE) | [Spirit Rangers](https://open.spotify.com/artist/7ql3ijCi16a0kRngv057ze) | [Spirit Rangers: Season 2 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1lObFcH6qNPWcoASyNwq8N) | 1:01 | 2023-05-05 |  |
 | [Finger Family](https://open.spotify.com/track/679VCjP1C3DBkVBEeB34yU) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 2](https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC) | 2:16 | 2022-04-08 |  |

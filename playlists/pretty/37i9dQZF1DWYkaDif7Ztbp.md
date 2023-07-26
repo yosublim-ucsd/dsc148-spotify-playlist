@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover: <a href="https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4?si=PQchioNxTdGQtDIcgpx5Nw"> Tyler ICU </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,409,399 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,409,951 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 | 49 | [Location](https://open.spotify.com/track/58S9G6ELYmprrmDyb19lAp) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn), [Sarz](https://open.spotify.com/artist/408vMm7y1227ASq7GmWygZ) | [Location](https://open.spotify.com/album/4y1bCnOeMjdVCiBxkVZCx9) | 3:39 |
 | 50 | [Wasted Eyes](https://open.spotify.com/track/7dEXXV4xk5OpEdswCWC3GX) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Fountain Baby](https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh) | 2:28 |
 
-Snapshot ID: `MCwxY2E1MDc4M2RiNTc2OWI3ZTgxYzVkZDRkYTQ4NjhhMzY0YjJhNTAx`
+Snapshot ID: `MCxiNjJmYzczMzJmYzFjYzFlMmQyODNkYTI3ODQ4M2FmNzBmZTBmZDI0`

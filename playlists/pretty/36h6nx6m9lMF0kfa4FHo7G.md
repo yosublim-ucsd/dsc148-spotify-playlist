@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/36h6nx6m9lMF0kfa4FHo7G.md) - [plain]
 
 > 
 
-[John Delf](https://open.spotify.com/user/12157842341) - 7,928 likes - 187 songs - 12 hr 15 min
+[John Delf](https://open.spotify.com/user/12157842341) - 7,931 likes - 188 songs - 12 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -195,5 +195,6 @@ pretty - [cumulative](/playlists/cumulative/36h6nx6m9lMF0kfa4FHo7G.md) - [plain]
 | 185 | [Hold Back the Rain \- 2009 Remaster](https://open.spotify.com/track/25fQaP5GWQXhqHeLkcdPzO) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Rio \(Collector's Edition\)](https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm) | 4:00 |
 | 186 | [Say Yes \- Remastered 2017](https://open.spotify.com/track/15Iczlf2Xl2s4EiLFrkYeg) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or \(Expanded Edition\)](https://open.spotify.com/album/3UVJu0QdTJBfGJBl1AMWEM) | 2:19 |
 | 187 | [Thunderstruck](https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [The Razors Edge](https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy) | 4:52 |
+| 188 | [More Than a Feeling](https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF) | [Boston](https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK) | [Boston](https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC) | 4:45 |
 
-Snapshot ID: `NDc3LDZlNTM2ZWY5YmI4MzJkMmYzNGNlYTI5NWYzYjUwNzk4ODRiZjQyNzU=`
+Snapshot ID: `NDc4LGJkZTk3MWYzMDJkOWEzMGU5MWIxYTlmNGE5OTNhZjJjY2UzNDYwNGY=`

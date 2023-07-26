@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > sobrancelha da nossa piriquita tá em dia esqueça tudo VAI BRASIL
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,111,462 likes - 78 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,112,366 likes - 78 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 77 | [No Ouvidinho](https://open.spotify.com/track/4QWumyD2uwiePBBha9XBHI) | [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U) | [No Ouvidinho](https://open.spotify.com/album/4Ljc7jLwnwltjgugXbGOoq) | 3:03 |
 | 78 | [Balanço da Rede](https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt) | [Matheus Fernandes](https://open.spotify.com/artist/37mqXU98U5GmH5ZDtlHM1c), [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616) | [Balanço da Rede](https://open.spotify.com/album/0ITV6sO1zJtWItTc31i2bP) | 2:46 |
 
-Snapshot ID: `MCwwMjk2ZmViYjdhZmVlOTI3OTljMjRmYmEyYjdmMmYyOTIwYzk1NzZk`
+Snapshot ID: `MCw3NDJiNDVlMzBmNzA4NDE2N2Q2ZGYyZGIxOTBlY2Q3MDU0NjNmMjBi`

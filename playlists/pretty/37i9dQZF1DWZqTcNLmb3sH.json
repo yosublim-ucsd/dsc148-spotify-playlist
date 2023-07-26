@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Raghavendra Stores",
-  "num_followers": 50272,
+  "num_followers": 50291,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZWViODUwMjEwZmM3NWM5NjdjMjE2YWI4ZTFhMDFkMmFhYzc3N2Uz",
+  "snapshot_id": "MCxjMzcxNjkzYTUxZDY5MzcxZTE2NWEyMDlhZTgwNzEyNmEwZTdhNjkw",
   "tracks": [
     {
       "added_at": "2023-07-21 06:52:36",
@@ -187,6 +187,30 @@
       "duration_ms": 273962,
       "name": "Modala Male (From \"Thothapuri 2\")",
       "url": "https://open.spotify.com/track/3tUfAAX3KOWnceR77QRzun"
+    },
+    {
+      "added_at": "2023-07-25 11:15:09",
+      "album": {
+        "name": "Manasu Bereya Dikkali Saagalu (From \"Ramana Avatara\")",
+        "url": "https://open.spotify.com/album/495C2w4sl56F4LGcFSRUq1"
+      },
+      "artists": [
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Judah Sandhy",
+          "url": "https://open.spotify.com/artist/4penrzAbWok4rhnaZuwF9V"
+        },
+        {
+          "name": "Simple Suni",
+          "url": "https://open.spotify.com/artist/2FOfBMh8JQNVyKGc3lJKrJ"
+        }
+      ],
+      "duration_ms": 245400,
+      "name": "Manasu Bereya Dikkali Saagalu (From \"Ramana Avatara\")",
+      "url": "https://open.spotify.com/track/5XLCyX3kqNwDoBOvVhORUD"
     },
     {
       "added_at": "2023-07-21 06:52:36",
@@ -527,30 +551,6 @@
       "duration_ms": 282541,
       "name": "Snehada Kadalali (From \"Paramvah\")",
       "url": "https://open.spotify.com/track/4KJvTL4XjJoKUb5CZIgEtz"
-    },
-    {
-      "added_at": "2023-07-17 11:10:06",
-      "album": {
-        "name": "Yaaru Yaaru (From \"Nimmellara Aashirvada \")",
-        "url": "https://open.spotify.com/album/0x6ECYXtOrc4SQApFROPbm"
-      },
-      "artists": [
-        {
-          "name": "Nihal Tauro",
-          "url": "https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF"
-        },
-        {
-          "name": "Sunaad Gowtham",
-          "url": "https://open.spotify.com/artist/0jvZKMruVEIk8chn4pt0vB"
-        },
-        {
-          "name": "Shrinidhi D S",
-          "url": "https://open.spotify.com/artist/2EjjcWR8bGOcvS55l6Btlv"
-        }
-      ],
-      "duration_ms": 266785,
-      "name": "Yaaru Yaaru - From \"Nimmellara Aashirvada \"",
-      "url": "https://open.spotify.com/track/0U9so7ube4YJdIHgvBRq20"
     },
     {
       "added_at": "2023-06-07 04:40:04",

@@ -1364,7 +1364,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 252293,
       "name": "Cosmic Love (2021 Remix)",
       "url": "https://open.spotify.com/track/0aXtD6yVzjYAdHcHVo16hU"
@@ -2234,7 +2234,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 273866,
       "name": "Fly By Day",
       "url": "https://open.spotify.com/track/3L6NvwR3frgwTZth9z6ZQq"
@@ -2426,7 +2426,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-12",
+      "date_removed": null,
       "duration_ms": 267226,
       "name": "Good Luck,Good Time",
       "url": "https://open.spotify.com/track/21fjaRKHWjM103DohcT0W3"
@@ -3663,6 +3663,32 @@
     },
     {
       "album": {
+        "name": "Magic hour",
+        "url": "https://open.spotify.com/album/5R0VUhPdk9DJkIZgVezqyn"
+      },
+      "artists": [
+        {
+          "name": "miida and The Department",
+          "url": "https://open.spotify.com/artist/6KueHYid6VoKcksdcIKqew"
+        },
+        {
+          "name": "Lafuzin",
+          "url": "https://open.spotify.com/artist/1AHiKEHZA1R7NmOeUMmhoo"
+        },
+        {
+          "name": "BRIAN SHINSEKAI",
+          "url": "https://open.spotify.com/artist/162nZqAL1seshcby7rd2gY"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266598,
+      "name": "Magic hour",
+      "url": "https://open.spotify.com/track/00431JgUFuCZGE9Ucjh4t5"
+    },
+    {
+      "album": {
         "name": "MAGIC WAYS",
         "url": "https://open.spotify.com/album/6ABM2rD5JvdwPGZDQ3bNEw"
       },
@@ -3674,7 +3700,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 269569,
       "name": "MAGIC WAYS",
       "url": "https://open.spotify.com/track/783nZiDSXc4qLTXwx5t04g"
@@ -3786,7 +3812,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 244320,
       "name": "Memorial Story",
       "url": "https://open.spotify.com/track/10ALE55wk7jRuAe7FGiSRF"
@@ -4294,7 +4320,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 225000,
       "name": "My Happy Ending",
       "url": "https://open.spotify.com/track/3FGNqFr54Va8V85YJcsxZ6"
@@ -5495,6 +5521,24 @@
     },
     {
       "album": {
+        "name": "Such is life",
+        "url": "https://open.spotify.com/album/3SppLYDvuBYIn30ISyEZlm"
+      },
+      "artists": [
+        {
+          "name": "sangdei",
+          "url": "https://open.spotify.com/artist/3yxRZPOxlsTtZcDlF0YyVI"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179310,
+      "name": "round and round",
+      "url": "https://open.spotify.com/track/79Glv2oOljXTYJkAKsddNL"
+    },
+    {
+      "album": {
         "name": "Runaway",
         "url": "https://open.spotify.com/album/7AIvcXHWY1IVRNr76Gg1ZF"
       },
@@ -5510,6 +5554,24 @@
       "duration_ms": 270000,
       "name": "Runaway",
       "url": "https://open.spotify.com/track/4htG3gOGHW407No6WuwBqA"
+    },
+    {
+      "album": {
+        "name": "Runner's High",
+        "url": "https://open.spotify.com/album/1tpOYlbVsbkjXRASB6GJia"
+      },
+      "artists": [
+        {
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222818,
+      "name": "Runner's High",
+      "url": "https://open.spotify.com/track/5EJtcLqzhGixak6vG0JstR"
     },
     {
       "album": {
@@ -5782,7 +5844,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 220240,
       "name": "SHIRAFU",
       "url": "https://open.spotify.com/track/69YVv4bBFOBJUT7vNDkyCL"
@@ -6565,6 +6627,24 @@
     },
     {
       "album": {
+        "name": "Summer Breeze",
+        "url": "https://open.spotify.com/album/2NwgTQwgPrk5GKpwInonB3"
+      },
+      "artists": [
+        {
+          "name": "The Gospellers",
+          "url": "https://open.spotify.com/artist/4MRHdjH8xf7OH0utAw4air"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206573,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/2SXtvdfWlt12jA0pWrAr2u"
+    },
+    {
+      "album": {
         "name": "Summer Ghost",
         "url": "https://open.spotify.com/album/3Pv50hUUVfvuN1ajFxYjBF"
       },
@@ -6739,6 +6819,24 @@
     },
     {
       "album": {
+        "name": "BARBER IN THE LIVINGROOM",
+        "url": "https://open.spotify.com/album/51lkAfmkwSCh3ETD4Vsexp"
+      },
+      "artists": [
+        {
+          "name": "BARBER IN THE LIVINGROOM",
+          "url": "https://open.spotify.com/artist/2zWpKIYoZrDUXI5SbbbvVN"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237499,
+      "name": "SUPER LOVER",
+      "url": "https://open.spotify.com/track/2u0Eih7W9yf7dXGGP5WLZG"
+    },
+    {
+      "album": {
         "name": "1997",
         "url": "https://open.spotify.com/album/6yxrNvlYKjfx2yRRiMquCb"
       },
@@ -6794,6 +6892,32 @@
       "duration_ms": 233920,
       "name": "Sweet Escape (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/6Whj4AAx1Y2xSCJhpRvTpt"
+    },
+    {
+      "album": {
+        "name": "Sweet Escape (feat. \u3072\u304b\u308a) [Jafunk Remix]",
+        "url": "https://open.spotify.com/album/48YB5mSWFYupUc0NbKkKie"
+      },
+      "artists": [
+        {
+          "name": "Tokimeki Records",
+          "url": "https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1"
+        },
+        {
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
+        },
+        {
+          "name": "\u3072\u304b\u308a",
+          "url": "https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217625,
+      "name": "Sweet Escape feat. \u3072\u304b\u308a - Jafunk Remix",
+      "url": "https://open.spotify.com/track/0rnE60QykoMiOgtmN0OxlN"
     },
     {
       "album": {
@@ -7544,7 +7668,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 282674,
       "name": "VeroVeroCITY",
       "url": "https://open.spotify.com/track/7f0AExSglTFH1AKjd5rP3s"
@@ -8850,7 +8974,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 198655,
       "name": "\u30b5\u30de\u30fc\u30ec\u30e2\u30cd\u30fc\u30c9",
       "url": "https://open.spotify.com/track/4KcAqMwqFBUOQxNlTuwK7O"
@@ -10880,6 +11004,24 @@
       "duration_ms": 321000,
       "name": "\u6e1a\u306e\u30a2\u30f3\u30e9\u30c3\u30ad\u30fc\u30dc\u30fc\u30a4\u30ba",
       "url": "https://open.spotify.com/track/5bkLoZFiC5ZeGxrxfIS5EM"
+    },
+    {
+      "album": {
+        "name": "\u6e1a\u306e\u30d0\u30cb\u30fc\u30ac\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/3aLmyrDILTuLvOkxVC9ZVk"
+      },
+      "artists": [
+        {
+          "name": "GET BILL MONKEYS",
+          "url": "https://open.spotify.com/artist/1KneYlgLeiDl3ql3ThK1Fl"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219936,
+      "name": "\u6e1a\u306e\u30d0\u30cb\u30fc\u30ac\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/3AV2WIFov6tLhaMkXmMso4"
     },
     {
       "album": {

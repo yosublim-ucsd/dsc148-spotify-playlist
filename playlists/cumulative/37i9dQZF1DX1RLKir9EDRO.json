@@ -232,7 +232,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 162807,
       "name": "Anla",
       "url": "https://open.spotify.com/track/0XPWOCOMVKdF0hqfZRQoN1"
@@ -877,6 +877,24 @@
     },
     {
       "album": {
+        "name": "Benim Ol",
+        "url": "https://open.spotify.com/album/6soTC4kxuh9gQZ4bADo5lt"
+      },
+      "artists": [
+        {
+          "name": "Yaln\u0131z O Tel Kopar",
+          "url": "https://open.spotify.com/artist/4v7lSR6Vv2q01kbOQhyH0H"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220038,
+      "name": "Benim Ol",
+      "url": "https://open.spotify.com/track/70ILQ7w7lRZ5M6Lew09TUH"
+    },
+    {
+      "album": {
         "name": "Benle Kal",
         "url": "https://open.spotify.com/album/7wTuKKv0S2ykqCvhUsowK2"
       },
@@ -1510,7 +1528,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 164129,
       "name": "DEL\u0130RD\u0130M",
       "url": "https://open.spotify.com/track/4yhXRYiezb6XpZONKjH17b"
@@ -2160,7 +2178,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 223304,
       "name": "F*ckboi",
       "url": "https://open.spotify.com/track/4nBHmlbfWlDQcMw4bo5tMn"
@@ -2308,6 +2326,24 @@
       "duration_ms": 228000,
       "name": "Geberiyorum Yaln\u0131zl\u0131ktan",
       "url": "https://open.spotify.com/track/03rdD9GQNBe22xrne1biY7"
+    },
+    {
+      "album": {
+        "name": "Gece",
+        "url": "https://open.spotify.com/album/0rS68flfGG6ZEh0tv5G6BQ"
+      },
+      "artists": [
+        {
+          "name": "Seda Ayd\u0131n",
+          "url": "https://open.spotify.com/artist/4WdrSMYRfaXwghlPGiDimg"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228118,
+      "name": "Gece",
+      "url": "https://open.spotify.com/track/0ADoTP12tUTiDxjccKMg1j"
     },
     {
       "album": {
@@ -2686,6 +2722,24 @@
       "duration_ms": 222753,
       "name": "G\u00f6rsen \u00dcz\u00fcl\u00fcrs\u00fcn",
       "url": "https://open.spotify.com/track/57AwA0aLHeBbbB4WIYhK1R"
+    },
+    {
+      "album": {
+        "name": "G\u00f6zlerinde Bo\u011fuluyorum",
+        "url": "https://open.spotify.com/album/78OoGaAyOGQ6nWo6Giwpm6"
+      },
+      "artists": [
+        {
+          "name": "Mertkan \u00d6zkan",
+          "url": "https://open.spotify.com/artist/6PY0jfDNXGvg6uqSSJ0sZh"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273713,
+      "name": "G\u00f6zlerinde Bo\u011fuluyorum",
+      "url": "https://open.spotify.com/track/3IcX8DcfptC5oMeFeLBEwN"
     },
     {
       "album": {
@@ -3474,6 +3528,24 @@
       "duration_ms": 318500,
       "name": "Kad\u0131k\u00f6y",
       "url": "https://open.spotify.com/track/20r8l4sEtz7tmyA7987ja0"
+    },
+    {
+      "album": {
+        "name": "Kad\u0131k\u00f6y (Original Short Film Soundtrack)",
+        "url": "https://open.spotify.com/album/2jtz4btCiOIq8nzKXrL54q"
+      },
+      "artists": [
+        {
+          "name": "Le Mer",
+          "url": "https://open.spotify.com/artist/6T7VJ0ILj2jD9d2giuRvo3"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163067,
+      "name": "Kad\u0131k\u00f6y",
+      "url": "https://open.spotify.com/track/3cA7yLeHLBHNmw7N7VR0y8"
     },
     {
       "album": {
@@ -4382,7 +4454,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 216000,
       "name": "Mevsimlere Hapsoldum",
       "url": "https://open.spotify.com/track/3EvV2rENLgTRnUUBry1ERO"
@@ -4814,7 +4886,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 138596,
       "name": "Onlar\u0131 Hakl\u0131 \u00c7\u0131kartma",
       "url": "https://open.spotify.com/track/6nnTufBQZe0NusVinHbO1E"
@@ -5877,6 +5949,32 @@
     },
     {
       "album": {
+        "name": "SKRLLX",
+        "url": "https://open.spotify.com/album/04yxcE18C1dZmc98zHAa2m"
+      },
+      "artists": [
+        {
+          "name": "VCD Dijital",
+          "url": "https://open.spotify.com/artist/3u3wreNx8naBXHY6IR8FZ8"
+        },
+        {
+          "name": "Chromaze",
+          "url": "https://open.spotify.com/artist/3gaJm0lDKpykmvllTLNL9W"
+        },
+        {
+          "name": "MaroWhite",
+          "url": "https://open.spotify.com/artist/615xy2DdT2c0pOvT4UhTkA"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157855,
+      "name": "SKRLLX",
+      "url": "https://open.spotify.com/track/5IZJu3Me7uGjruNEk5BbHo"
+    },
+    {
+      "album": {
         "name": "Somewhere",
         "url": "https://open.spotify.com/album/2gFXIU1cgx1Hdiz50EeAeC"
       },
@@ -6818,7 +6916,7 @@
       ],
       "date_added": "2023-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 210653,
       "name": "Yar\u0131 Yolda",
       "url": "https://open.spotify.com/track/5KrypVUfRGEDkcPnHetixV"
@@ -7330,6 +7428,24 @@
       "duration_ms": 277000,
       "name": "Zincir",
       "url": "https://open.spotify.com/track/4kR3uT3SSW5Q746QwjNb0m"
+    },
+    {
+      "album": {
+        "name": "ZORLADI",
+        "url": "https://open.spotify.com/album/3Zeez3Fiz8vsAD4GncAQJr"
+      },
+      "artists": [
+        {
+          "name": "Mert Berkay",
+          "url": "https://open.spotify.com/artist/2HwYO8TsT3lMjPwSy0rPK8"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213818,
+      "name": "ZORLADI",
+      "url": "https://open.spotify.com/track/4JY59fVbBpVNtESd5tLbyl"
     },
     {
       "album": {

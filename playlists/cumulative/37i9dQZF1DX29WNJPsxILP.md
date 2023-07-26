@@ -2,9 +2,9 @@
 
 ### [Dillihood](https://open.spotify.com/playlist/37i9dQZF1DX29WNJPsxILP)
 
-> Rap from the hoods of Dilli\- Yungsta, Calm, Frappe Ash & Sez on the Beat.
+> Rap from the hoods of Dilli featuring DRV
 
-76 songs - 4 hr 8 min
+77 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Sehwag](https://open.spotify.com/track/5jOAVIOdsTusLQaHmGz2bj) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA) | [Sehwag](https://open.spotify.com/album/1zDxYpPhKFUaiaXC1dAWEG) | 3:48 | 2023-03-10 |  |
 | [Sheher](https://open.spotify.com/track/5fbKzbj3GMXvWpyBUAhXnJ) | [Raga](https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO) | [Sheher](https://open.spotify.com/album/7Es8qPSX7mg6l0FpfPXkY8) | 3:30 | 2023-03-10 |  |
 | [Sukoon](https://open.spotify.com/track/7e9eUqJIIKwN95T7Xsx8Jn) | [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC), [GD 47](https://open.spotify.com/artist/6uflkUXhbKhwVwZ3E2opoG), [Encore ABJ](https://open.spotify.com/artist/1GNRmzBPWT8hh6CYxkNiRy) | [Bhram \(Deluxe\)](https://open.spotify.com/album/79E5VDPJEVHjfwVoQw6v9d) | 4:30 | 2023-03-10 |  |
+| [tere saath \(i feel good\)](https://open.spotify.com/track/5EavRVLo1nDNTgLXPgfQYY) | [DRV](https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL) | [tere saath \(i feel good\)](https://open.spotify.com/album/1eZUWcFJQ5gzlE1Q8Ps5T3) | 1:49 | 2023-07-25 |  |
 | [THAPPAD!](https://open.spotify.com/track/044qR6dTjjF8NkVeD1Q55Y) | [Prabh Deep](https://open.spotify.com/artist/7suHsCqUEifucqVyWaljgC) | [THAPPAD!](https://open.spotify.com/album/18ZE60hq43zlGSZkIuF9N0) | 1:54 | 2023-04-21 |  |
 | [Top Off](https://open.spotify.com/track/2xDEnSLBxi2CRq2SlA17g6) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [Kaater](https://open.spotify.com/artist/12bMjwsp9WCkVM3kscRAUE) | [Nishu](https://open.spotify.com/album/0PA5ewwEHCceY61xBeVBV1) | 3:01 | 2023-03-10 |  |
 | [Trap Munde](https://open.spotify.com/track/4WNVwvCmgaCFHHqyeVC6bG) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [Trap Munde](https://open.spotify.com/album/4GoytwqrUeVVLyPbagKJ85) | 4:01 | 2023-03-10 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 
 > The biggest Amapiano singles making waves in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/5F9w142UJBH5ZkFXWUJVsL?si=1x4COpN9TlSrJEPrMHDoKg">Zan'Ten</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 537,508 likes - 50 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 537,920 likes - 50 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5mILnBJLA26.md) - [plain]
 | 49 | [Amasango \(feat\. Sjavasdadeejay & TitoM\)](https://open.spotify.com/track/3IKb9dsBhceDuKzxvJQdpu) | [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [Tman Xpress](https://open.spotify.com/artist/6Wqpl1YTjgy5TiTluzFzjx), [SjavasDaDeejay](https://open.spotify.com/artist/7LkCT07miUMz6JlKRqi3v0), [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k) | [Amasango \(feat\. Sjavasdadeejay & TitoM\)](https://open.spotify.com/album/3e4kcnfW5lh8vLnhVeeyer) | 6:55 |
 | 50 | [Esangweni](https://open.spotify.com/track/1kKltSWkRUTB7LYVFJXS2w) | [Murumba Pitch](https://open.spotify.com/artist/3cd7plsjSmDdQ0oHESYHC4), [Omit ST](https://open.spotify.com/artist/7MxpcTTd4OWKT6cLrsYknl), [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [Sipho Magudulela](https://open.spotify.com/artist/34gZK9MCSnKzdcGbG74cXb) | [Horumar](https://open.spotify.com/album/5DKK3bppRikBo6LJtsoVWU) | 6:15 |
 
-Snapshot ID: `MCxmMjUzMzgzMmQzMDg1ODMzOTZmMGFjMTc4ZTZmMjFiYTBhZjkxMDMx`
+Snapshot ID: `MCw3Y2EzZjFhMDY4MDE1YTE3ZDMzYWZiNTViZDI3MWZiNDc2OTJlNzlm`

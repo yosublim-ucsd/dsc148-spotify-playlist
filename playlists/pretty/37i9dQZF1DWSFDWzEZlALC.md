@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Paula Carolina
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,337 likes - 75 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,587 likes - 75 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Feuer](https://open.spotify.com/track/1bSKKdLrgpRC82W0IwUtnB) | [Pippa](https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x) | [Feuer](https://open.spotify.com/album/03vZXPAc1R2G7dRIyZJukl) | 2:54 |
 | 75 | [Teenage Dirtbag](https://open.spotify.com/track/1qua00ZPrL5IHm6mmqBfRI) | [Flinte](https://open.spotify.com/artist/3ZqXNocGLSBgDcpM2QyQMS), [MOLA](https://open.spotify.com/artist/5Lw7127PMJTsapsC0JZFye) | [Teenage Dirtbag](https://open.spotify.com/album/0gwLX3eAeSh7sADfI2VAXc) | 2:29 |
 
-Snapshot ID: `MCxmZWUwMDllODBlMzFhZTk0NGU0MzM1NDg1M2MyZjFkNWQwM2ZlY2Fk`
+Snapshot ID: `MCw5ZGQ5MjU0OThhYjg3ODY1MTk3ZGQ3OWI2ZDdiOWYwZDhkMWE4NWYy`

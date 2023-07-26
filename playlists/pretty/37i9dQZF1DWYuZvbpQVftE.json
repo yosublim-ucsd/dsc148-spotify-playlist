@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 18041,
+  "num_followers": 18052,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMzIxYjJiMGQyYjRmYWIxYTEzNzlhYjA4MzdhMmQ4ZmRjNmEzYzEx",
+  "snapshot_id": "MCxlZTZlMmQzOGQ1OTI2NWNmZjYzNDA1YjIyNjYxNmRmZWRkMGY3MmQ0",
   "tracks": [
     {
       "added_at": "2023-06-22 07:03:42",
@@ -491,26 +491,6 @@
     {
       "added_at": "2023-06-22 07:03:42",
       "album": {
-        "name": "Jimmy Raney Featuring Bob Brookmeyer",
-        "url": "https://open.spotify.com/album/2M5HUcSTnSBgJt1zB9Xjvp"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Raney",
-          "url": "https://open.spotify.com/artist/42MZam7rropEzPCxlGTmOs"
-        },
-        {
-          "name": "Bob Brookmeyer",
-          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
-        }
-      ],
-      "duration_ms": 246466,
-      "name": "Isn't It Romantic",
-      "url": "https://open.spotify.com/track/7gQmV1v83oPr2BwBaw89Qr"
-    },
-    {
-      "added_at": "2023-06-22 07:03:42",
-      "album": {
         "name": "Gerry Mulligan - Paul Desmond Quartet / Blues In Time",
         "url": "https://open.spotify.com/album/4IUNUxPQYA2AglEfqDYogv"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 210213,
       "name": "Stand Still",
       "url": "https://open.spotify.com/track/07jLNxcwKlAJ8c11gLJuTK"
+    },
+    {
+      "added_at": "2023-06-22 07:03:42",
+      "album": {
+        "name": "Jimmy Raney Featuring Bob Brookmeyer",
+        "url": "https://open.spotify.com/album/2M5HUcSTnSBgJt1zB9Xjvp"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Raney",
+          "url": "https://open.spotify.com/artist/42MZam7rropEzPCxlGTmOs"
+        },
+        {
+          "name": "Bob Brookmeyer",
+          "url": "https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN"
+        }
+      ],
+      "duration_ms": 246466,
+      "name": "Isn't It Romantic",
+      "url": "https://open.spotify.com/track/7gQmV1v83oPr2BwBaw89Qr"
     },
     {
       "added_at": "2023-06-22 07:03:42",

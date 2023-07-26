@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "Ab Ke Jo Baat Hui",
+        "url": "https://open.spotify.com/album/0GQaL3F3EnwP5chmApJMA9"
+      },
+      "artists": [
+        {
+          "name": "Ranjeet Rajwada",
+          "url": "https://open.spotify.com/artist/4vfbZtBkJbwbuCD3GWmgAa"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428330,
+      "name": "Ab Ke Jo Baat Hui",
+      "url": "https://open.spotify.com/track/2X4UCsahzz3JwvBbkBGf0a"
+    },
+    {
+      "album": {
         "name": "Agar Talash Karun",
         "url": "https://open.spotify.com/album/0x5Ikt5Z2cxhA23aEhSch6"
       },
@@ -464,7 +482,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 202666,
       "name": "Dil Lagta Hi Nahi",
       "url": "https://open.spotify.com/track/5TyvTWaL4SPH3jkCnBAIcL"

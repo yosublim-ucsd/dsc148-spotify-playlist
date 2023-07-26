@@ -2684,7 +2684,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 207621,
       "name": "Golden Hour - Lo-Fi Version",
       "url": "https://open.spotify.com/track/4xh1mfJdyqK1RQLQs7WlfP"
@@ -5598,7 +5598,7 @@
       ],
       "date_added": "2023-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 210800,
       "name": "Quiet Place",
       "url": "https://open.spotify.com/track/6k96PVCzURnKNnWDpsZ6xY"
@@ -6916,6 +6916,28 @@
       "duration_ms": 238560,
       "name": "Suzume",
       "url": "https://open.spotify.com/track/1n1y2kFPISpF9WGD3JaFo5"
+    },
+    {
+      "album": {
+        "name": "\u03b1",
+        "url": "https://open.spotify.com/album/1usXqtv8suCg1r3paAz3Wu"
+      },
+      "artists": [
+        {
+          "name": "soejima takuma",
+          "url": "https://open.spotify.com/artist/44CDiqPtSg1pkVHZ7TwfD3"
+        },
+        {
+          "name": "delgir sarin",
+          "url": "https://open.spotify.com/artist/0jL3AV0GdDvC6vtXaE1Uqc"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147027,
+      "name": "T____h_eDw___T,mn_",
+      "url": "https://open.spotify.com/track/6VWbl7ByMrLjYrLWqEZBmB"
     },
     {
       "album": {
@@ -8790,6 +8812,24 @@
       "duration_ms": 299533,
       "name": "\u30d9\u30eb\u30ac\u30de\u30b9\u30af\u7d44\u66f2~\u7b2c3\u66f2: \u6708\u306e\u5149(\u30c1\u30a7\u30ed\u3068\u30cf\u30fc\u30d7\u7de8)",
       "url": "https://open.spotify.com/track/4cjkR3dxVYVSPBZ1YWhu2G"
+    },
+    {
+      "album": {
+        "name": "\u30df\u30e5\u30f2\u30e9",
+        "url": "https://open.spotify.com/album/5gN9T5GEhYUuhnQIS0w4k2"
+      },
+      "artists": [
+        {
+          "name": "\u5e7d\u4f53\u30b3\u30df\u30e5\u30cb\u30b1\u30fc\u30b7\u30e7\u30f3\u30ba",
+          "url": "https://open.spotify.com/artist/3dLMNvMcmgkMxqf2smWYs4"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279000,
+      "name": "\u30df\u30e5\u30f2\u30e9",
+      "url": "https://open.spotify.com/track/2am3PNoddXpK3bZcaLNrlp"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "sorry ik kan niet... moet studeren",
-  "num_followers": 23170,
+  "num_followers": 23166,
   "original_name": "Studeermuziek",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMmNkZDJjZWJjYWM0NGY3NzQ2MDQxMTU0YWVhZWI0ZjcyMWEyYTk3",
+  "snapshot_id": "MCxlYTMwYTU0M2Q0NTQ0YWZiYzgxYzZhMTFkYTQ3MzhkZmE0YzE1ZDA4",
   "tracks": [
     {
       "added_at": "2023-05-12 08:21:15",
@@ -1907,6 +1907,22 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 175344,
+      "name": "Fingers Crossed",
+      "url": "https://open.spotify.com/track/4wH7ZoqgETaACS9BlUkvuY"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
         "name": "Complicated",
         "url": "https://open.spotify.com/album/7FqJvfHEUv3vbv9FZhpsgW"
       },
@@ -1951,22 +1967,6 @@
       "duration_ms": 193667,
       "name": "What If I Told You That I Love You",
       "url": "https://open.spotify.com/track/6USdi8uX5GNAPYziFhisHb"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
-        "name": "Mirror",
-        "url": "https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 175344,
-      "name": "Fingers Crossed",
-      "url": "https://open.spotify.com/track/4wH7ZoqgETaACS9BlUkvuY"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -2363,22 +2363,6 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
-        "name": "Night Trouble",
-        "url": "https://open.spotify.com/album/7u7l9XNKOdM1UXLOL4BJq8"
-      },
-      "artists": [
-        {
-          "name": "Petit Biscuit",
-          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
-        }
-      ],
-      "duration_ms": 391256,
-      "name": "Night Trouble",
-      "url": "https://open.spotify.com/track/5LLtNp8qc3NaCIieZ2W4Dk"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
         "name": "Look Up Child",
         "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
       },
@@ -2391,6 +2375,22 @@
       "duration_ms": 254986,
       "name": "Love Like This",
       "url": "https://open.spotify.com/track/3DBu7OhZ58syQ7PotgqXV2"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
+        "name": "Night Trouble",
+        "url": "https://open.spotify.com/album/7u7l9XNKOdM1UXLOL4BJq8"
+      },
+      "artists": [
+        {
+          "name": "Petit Biscuit",
+          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
+        }
+      ],
+      "duration_ms": 391256,
+      "name": "Night Trouble",
+      "url": "https://open.spotify.com/track/5LLtNp8qc3NaCIieZ2W4Dk"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -2767,18 +2767,18 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
-        "name": "The Love You Left Behind",
-        "url": "https://open.spotify.com/album/0UFUk1X0rVy6ZeySz0RrH6"
+        "name": "No Surrender",
+        "url": "https://open.spotify.com/album/3tL1HdrbBUHinxRBJCor48"
       },
       "artists": [
         {
-          "name": "Michael Schulte",
-          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+          "name": "Kane",
+          "url": "https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6"
         }
       ],
-      "duration_ms": 194546,
-      "name": "The Love You Left Behind",
-      "url": "https://open.spotify.com/track/60wa5J6SkXtBXHySQ3PoNB"
+      "duration_ms": 184768,
+      "name": "No Surrender",
+      "url": "https://open.spotify.com/track/5eOcgSPoAzma8qvtOl5mWt"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -2799,18 +2799,18 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
-        "name": "No Surrender",
-        "url": "https://open.spotify.com/album/3tL1HdrbBUHinxRBJCor48"
+        "name": "The Love You Left Behind",
+        "url": "https://open.spotify.com/album/0UFUk1X0rVy6ZeySz0RrH6"
       },
       "artists": [
         {
-          "name": "Kane",
-          "url": "https://open.spotify.com/artist/7rgKxnnBAsZ7Q04d6jICu6"
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
         }
       ],
-      "duration_ms": 184768,
-      "name": "No Surrender",
-      "url": "https://open.spotify.com/track/5eOcgSPoAzma8qvtOl5mWt"
+      "duration_ms": 194546,
+      "name": "The Love You Left Behind",
+      "url": "https://open.spotify.com/track/60wa5J6SkXtBXHySQ3PoNB"
     },
     {
       "added_at": "2023-05-12 08:21:15",

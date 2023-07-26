@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:  <a href="https://open.spotify.com/artist/3SN6XTw03dI5Cn49oeqz6j?si=HuGPDNdmRRe3F5eM\_Va\-vg">Holy Drill</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,806 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,868 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 99 | [PRAISE YOUR NAME](https://open.spotify.com/track/5YxkWVkxssPVMIgXQp8ahd) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be), [The Love Trybe](https://open.spotify.com/artist/7JUHFG3LARPNiGoFqRuEjJ) | [PRAISE YOUR NAME](https://open.spotify.com/album/7iUgmGiBgXkpECjHYgQ7AL) | 3:17 |
 | 100 | [Don't wanna lose](https://open.spotify.com/track/5oLg1XaKmx17nqZkXFTxur) | [Niyispeak](https://open.spotify.com/artist/1t2cYkpzE36VcFiGpFB0zJ), [Menxee](https://open.spotify.com/artist/2CNqMl9z4LJJhv6YZNsv7x) | [Don't wanna lose](https://open.spotify.com/album/0vEY3IROApAc2AMKkWhKVb) | 3:08 |
 
-Snapshot ID: `MCw3ZDdhMjFhOTkwYTQ5MzVjNTEwNGFhZmFiNzI0Y2UzZWNlOGYwYWI2`
+Snapshot ID: `MCw5NTEwMzgxOWEyZTNjNTQxOWFlNGRiN2FjYTJmNjQ4YzhjNmQ4Y2Ni`

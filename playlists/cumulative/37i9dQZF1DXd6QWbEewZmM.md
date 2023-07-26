@@ -4,7 +4,7 @@
 
 > \#SadCuhHour gems 🥀🥹
 
-360 songs - 20 hr 32 min
+361 songs - 20 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [Quien Soy Yo?](https://open.spotify.com/track/2M6kObWK07igzo7Newr16N) | [Los Disidentes](https://open.spotify.com/artist/6IyKGUc7TMv7KHGHj5KpnA) | [Quien Soy Yo?](https://open.spotify.com/album/7kgxvbU1PDpKOTsD3Zdyya) | 2:27 | 2022-10-14 | 2023-01-06 |
 | [Quiero Estar Contigo](https://open.spotify.com/track/7aaW2FiJ3bGELNtGp6PUo7) | [Ekipo Inicial](https://open.spotify.com/artist/0zykJcUDLHRS0nZEoG5slZ) | [Quiero Estar Contigo](https://open.spotify.com/album/0dMiI3roMGiGxCTlopNjmu) | 4:31 | 2022-06-03 | 2022-06-11 |
 | [Quiero Llorar y No Puedo](https://open.spotify.com/track/1S7FT0rhQ6AaTg0yBbFxYS) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Dinero Fácil](https://open.spotify.com/album/7CRtdR3YSFhXOQ22ZVomgy) | 3:44 | 2022-01-01 | 2023-07-23 |
+| [Quiero Llorar y No Puedo](https://open.spotify.com/track/3ezRmGfcXnuEA4ryylr6Jk) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Dinero Fácil](https://open.spotify.com/album/42WWFPXfmtFFMLmdEeYEFZ) | 3:44 | 2023-06-09 |  |
 | [Quiero sentir](https://open.spotify.com/track/1v7F8IgDQA5szcovXifDHX) | [Gabriel Hidalgo](https://open.spotify.com/artist/4pPRsvfUcKNgiesah2JUFg) | [Quiero Sentir](https://open.spotify.com/album/6Bbz3u20L2QcqOa1NtQydc) | 4:20 | 2023-04-14 | 2023-05-02 |
 | [Quiero Ser](https://open.spotify.com/track/2kVLk4yuZCOZuqxIHfOTaf) | [6 Doble 7](https://open.spotify.com/artist/4uASG4oYMAOJbP30XK4hmW) | [Quiero Ser](https://open.spotify.com/album/3Fb0ImmxdtFNo46B2kQubI) | 3:33 | 2022-09-23 | 2022-10-15 |
 | [Quiero Ser](https://open.spotify.com/track/0iEW2LlHNXVyZhwO96sL3z) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Quiero Ser](https://open.spotify.com/album/3m8CehR62XfplLx70gamwo) | 3:29 | 2022-10-14 | 2022-11-12 |
@@ -317,7 +318,7 @@
 | [Te Vas](https://open.spotify.com/track/3Ma4TCNOyyRdH8LanPHygk) | [Maxima Velocidad ENT](https://open.spotify.com/artist/2ROLPTXE7kcrxRqsjQZIPT), [XODERICK](https://open.spotify.com/artist/6p4uhW3K5NmxiGswulf8PG) | [Vibezzz, Vol\. 2](https://open.spotify.com/album/6Lv98eedMbicF9BTyAQJaB) | 3:17 | 2022-07-22 | 2022-09-24 |
 | [Te Vas A Recordar](https://open.spotify.com/track/7uEruRFEeMn57hrmZhA4w5) | [Erick B](https://open.spotify.com/artist/7vp0b6TMlF5PF9eIeSzadf) | [Te Vas A Recordar](https://open.spotify.com/album/1toqZv5ko57peyVVpYJFvo) | 2:34 | 2022-02-04 |  |
 | [Te Voy a Olvidar](https://open.spotify.com/track/2tsj8yvl0Di3DVyPjLye6S) | [Ariel Camacho](https://open.spotify.com/artist/5s31VTVh96lZBPphv51mIH) | [Las Mas Pedidas](https://open.spotify.com/album/5gV4kuUy0Wv9N4XQ3QzhOA) | 2:53 | 2022-10-14 | 2022-10-19 |
-| [Te Voy a Olvidar \- En Vivo Desde Culican 2013](https://open.spotify.com/track/5fedAEelUOnWUd9URBVhbl) | [Ariel Camacho](https://open.spotify.com/artist/5s31VTVh96lZBPphv51mIH) | [Las Preferidas, Vol\. 1](https://open.spotify.com/album/2BoP3cmbcNHpQnpBgcSgmm) | 2:54 | 2022-10-14 |  |
+| [Te Voy a Olvidar \- En Vivo Desde Culican 2013](https://open.spotify.com/track/5fedAEelUOnWUd9URBVhbl) | [Ariel Camacho](https://open.spotify.com/artist/5s31VTVh96lZBPphv51mIH) | [Las Preferidas, Vol\. 1](https://open.spotify.com/album/2BoP3cmbcNHpQnpBgcSgmm) | 2:54 | 2022-10-14 | 2023-07-26 |
 | [Tengo Que Olvidarla](https://open.spotify.com/track/5tVsT5NHj96fBlJksV7CpE) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Underground](https://open.spotify.com/album/3E55ZUsGx7KneVnbiXyoA4) | 2:46 | 2022-01-01 | 2022-07-19 |
 | [Tiempo](https://open.spotify.com/track/4hupfKQFsQuj55bMNMbk4r) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [Alejandroo](https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ) | [Tiempo](https://open.spotify.com/album/0YK6koGYXva8aceQpman6H) | 2:21 | 2022-01-01 |  |
 | [Tierra de los Olvidados](https://open.spotify.com/track/3njxvE2qVZ1XbsxYD1SMXE) | [Christian Velazquez](https://open.spotify.com/artist/3cvTVJdxaeTGsf32wurofE) | [Tierra de los Olvidados](https://open.spotify.com/album/1ugetVSwBfY4F2QfvUW8ZY) | 3:50 | 2023-05-26 | 2023-06-10 |

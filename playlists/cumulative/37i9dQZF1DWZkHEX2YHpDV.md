@@ -4,7 +4,7 @@
 
 > pop punk, emo, post\-hardcore, alt\. it's what you want it to be\. Cover: Hot Mulligan
 
-998 songs - 2 day 4 hr 48 min
+999 songs - 2 day 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [April 7th](https://open.spotify.com/track/4QPQbk6HkNkszBnHQALb9o) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [April 7th](https://open.spotify.com/album/5g90vd8iTZrA3H8A4eo0mY) | 3:16 | 2021-12-10 | 2022-05-20 |
 | [April In Houston](https://open.spotify.com/track/4sx0VBcGm3TSIwfTcmFOgc) | [SWMRS](https://open.spotify.com/artist/7dLkuQHF2ijbK6jiLFyIWM) | [April In Houston / Berkeley's On Fire](https://open.spotify.com/album/4DVSu8zwhHxqYdJWqdI7Xf) | 3:05 | 2022-03-25 | 2022-04-19 |
 | [Apt\. 438](https://open.spotify.com/track/1NdtS7tLnCPWm84r7tlF7T) | [Go For Gold](https://open.spotify.com/artist/0uTm0qJYe4kohhpRAFbILZ) | [Daydreamer](https://open.spotify.com/album/4rWQEhE0VdEbwniGwhaazp) | 3:28 | 2022-03-25 | 2022-04-17 |
-| [Are You Impressed?](https://open.spotify.com/track/26hI6Cea82njvwJfG6t3Jl) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Are You Impressed?](https://open.spotify.com/album/00n4GIjQ2bZB9IteCDeIGU) | 3:07 | 2023-04-10 |  |
+| [Are You Impressed?](https://open.spotify.com/track/26hI6Cea82njvwJfG6t3Jl) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Are You Impressed?](https://open.spotify.com/album/00n4GIjQ2bZB9IteCDeIGU) | 3:07 | 2023-04-10 | 2023-07-26 |
 | [Arm's Length](https://open.spotify.com/track/2k3SHrWJROuEVFkJwbI94Z) | [Pool Kids](https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f) | [Pool Kids](https://open.spotify.com/album/5WKGQhrvySygwE72Ny9nMb) | 4:18 | 2023-04-10 | 2023-04-12 |
 | [Artorias](https://open.spotify.com/track/2Wtxf69QyhLU9fswgoD6Hd) | [WVNDER](https://open.spotify.com/artist/56LuTyFDFBgcq4hkc4XMu5) | [Nothing Stays](https://open.spotify.com/album/2yP06M3lbojJ7ihnjlSdX5) | 3:11 | 2022-02-04 | 2022-04-27 |
 | [At Home](https://open.spotify.com/track/7Hnyju3PAzodUyRRvNFUY5) | [Go For Gold](https://open.spotify.com/artist/0uTm0qJYe4kohhpRAFbILZ) | [At Home](https://open.spotify.com/album/0w2M9Us4mt0DL6yAG4nj9W) | 2:39 | 2022-01-14 | 2022-06-10 |
@@ -879,6 +879,7 @@
 | [This Place for You](https://open.spotify.com/track/0dmWLKYjDsvOm4qTXUl8mi) | [JUST LIKE US.](https://open.spotify.com/artist/585io4lwuWHLk0MEZCROqc) | [This Place for You](https://open.spotify.com/album/55S5UujiVJZV2exDfTHl0F) | 4:21 | 2022-03-25 | 2022-04-09 |
 | [this song wasn't good enough for the album](https://open.spotify.com/track/7dtA0P7PCmk5PTKdjwM0UZ) | [Story Untold](https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z) | [this song wasn't good enough for the album](https://open.spotify.com/album/2sRrWxFSpi25cno0LwmHYo) | 2:52 | 2021-12-10 | 2022-07-19 |
 | [This Time Last Week](https://open.spotify.com/track/3HPw07nh0KYvJFdkbrMnkW) | [Roe Kapara](https://open.spotify.com/artist/2he5ORo9A5pwwRKEa1u0jw) | [I Hope Hell Isn't Real](https://open.spotify.com/album/3DMrlbRSB4rYDwsL1yNw8H) | 2:14 | 2023-04-23 |  |
+| [This Won't Go Over Well](https://open.spotify.com/track/4WNJmm4Xv8d0ELJgowypjT) | [The Haunt](https://open.spotify.com/artist/45d8YG3R2DApOMnIZuyK8p) | [This Won't Go Over Well](https://open.spotify.com/album/4Nxlb1mo54gPu2bXibj259) | 3:24 | 2023-07-14 |  |
 | [Three Years, Still Counting](https://open.spotify.com/track/1jIkH7ks6XNlK46vfCfG02) | [Dusty Miller](https://open.spotify.com/artist/43iKuF1Cf7G4jp0N9mOnTP) | [Three Years, Still Counting](https://open.spotify.com/album/7ubtt5TsH3phFvK9dqxdKu) | 3:33 | 2022-03-25 | 2022-04-15 |
 | [Throat](https://open.spotify.com/track/39AM4AnMoqolKZab3kgUiu) | [Salem](https://open.spotify.com/artist/71seHBxiwcD6QOoSZ9P8Tf) | [Salem](https://open.spotify.com/album/7oiCbdoGYOiO9KSOplsCej) | 3:27 | 2021-12-10 | 2022-07-26 |
 | [Thunder](https://open.spotify.com/track/3Ox1FeECWvX8BmwXLLEJKY) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Thunder](https://open.spotify.com/album/5jSQOUFKYWTsnAKpLsesib) | 4:23 | 2022-07-08 | 2023-04-12 |

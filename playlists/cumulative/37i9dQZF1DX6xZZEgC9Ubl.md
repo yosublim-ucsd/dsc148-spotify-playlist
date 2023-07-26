@@ -4,7 +4,7 @@
 
 > Emo feels for the misunderstood\. Cover: Lil Peep
 
-824 songs - 1 day 13 hr 23 min
+825 songs - 1 day 13 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Cheater \(feat\. Tom The Mail Man\)](https://open.spotify.com/track/3n0If8GidXp4KziBDoMe99) | [SAIAH](https://open.spotify.com/artist/5ZPYeVqoWNuukwfarvkyJX), [Tom The Mail Man](https://open.spotify.com/artist/1ueFyDvrq8tCjAd6x8AVxD) | [Cheater \(feat\. Tom The Mail Man\)](https://open.spotify.com/album/2de9oXO3uW9iMpVtTknJAy) | 3:04 | 2021-07-31 | 2022-07-28 |
 | [Cherry Blossoms](https://open.spotify.com/track/6Rdp4sAeb38xf8DByVG3Xs) | [Shady Moon](https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4) | [Cherry Blossoms](https://open.spotify.com/album/1F7sDdTBfac69FjehSaCc9) | 2:18 | 2022-05-23 |  |
 | [Cherry Blossoms](https://open.spotify.com/track/4LEt6hyaGn4scwUsimBeXt) | [Shady Moon](https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4) | [Cherry Blossoms](https://open.spotify.com/album/7z0GlCgOrEaME0BYpVPAtI) | 2:18 | 2022-08-30 | 2023-04-16 |
-| [cherry cigarettes](https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [cherry cigarettes](https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti) | 2:18 | 2023-04-12 |  |
+| [cherry cigarettes](https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v) | [44phantom](https://open.spotify.com/artist/1vwwjIPFeYoRfAUCqqO6cZ) | [cherry cigarettes](https://open.spotify.com/album/20tQ55dryYRoJ7M8DmKWti) | 2:18 | 2023-04-12 | 2023-07-26 |
 | [Choose](https://open.spotify.com/track/0WnLpQOHjfVwPw2zbrIsPN) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [HIGH FASHION](https://open.spotify.com/album/5ajnqokZWzTySQgUt2RgLW) | 3:32 | 2021-12-03 | 2022-07-27 |
 | [CHROME HEART](https://open.spotify.com/track/0Fqz94aIhKIfnbnUgDRbLH) | [IVOXYGEN](https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm) | [KALEIDOSCOPE](https://open.spotify.com/album/1ZyR3m6dXdqBHb96BrtlSZ) | 2:39 | 2022-03-18 | 2022-04-16 |
 | [CHXSE](https://open.spotify.com/track/4vZCkAXIcD8A050VeirCwj) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [BEAUTY IN DEATH \(DELUXE EDITION\)](https://open.spotify.com/album/4tb9KRJe8FNjYIRbvtGTG5) | 3:29 | 2022-05-06 | 2022-05-14 |
@@ -404,6 +404,7 @@
 | [Leave It All To Me \(iCarly chill\)](https://open.spotify.com/track/1IV1pNKKPtSeJEA5BPTu1e) | [Torpe](https://open.spotify.com/artist/3cYtYmszNg6rquLVXzKo8C), [Baby Tyson](https://open.spotify.com/artist/04xcAIuMLDs6qBgxEUmtJo), [Seb Tik](https://open.spotify.com/artist/38DBE6I1gyjQc3VBflqh7P) | [Leave It All To Me \(iCarly chill\)](https://open.spotify.com/album/2SiRo1Seu74aQqUMEF7Ufj) | 1:16 | 2022-07-29 | 2022-08-06 |
 | [Leave My Casket Open...](https://open.spotify.com/track/44boFMUCUCPd0R41jk8vE8) | [Arrested Youth](https://open.spotify.com/artist/4UhExRgMW9QR7oNmTI2lPG) | [Leave My Casket Open...](https://open.spotify.com/album/63CtwzHdTmhXpUQS86eQO8) | 2:44 | 2021-04-30 | 2022-04-21 |
 | [Leaving \(feat\. the bootleg boy & Heroe\)](https://open.spotify.com/track/21txIUpB3w1dBeixm5X4DL) | [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [the bootleg boy](https://open.spotify.com/artist/2i17uDAKnwPO7PlDT4nLaz), [Heroe](https://open.spotify.com/artist/4MkrS9W3HKGDoFcg6vhbF1) | [Leaving \(feat\. the bootleg boy & Heroe\)](https://open.spotify.com/album/6CfmJvvl4OCMN2XoWxn3wC) | 2:16 | 2021-12-17 | 2022-07-29 |
+| [Let Me Fall](https://open.spotify.com/track/6BbMaQhu9jKENB1vzQ2ijJ) | [Kado](https://open.spotify.com/artist/3hBvETCf1HBhhZSv9kc1Tb) | [Let Me Fall](https://open.spotify.com/album/6zfFgmqJLOCEjR08whYTqn) | 3:08 | 2023-07-20 |  |
 | [Let Me Know \(I Wonder Why Freestyle\)](https://open.spotify.com/track/3wwo0bJvDSorOpNfzEkfXx) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Let Me Know \(I Wonder Why Freestyle\)](https://open.spotify.com/album/5wi0oKiF99ZVACf6oTTsp2) | 3:35 | 2022-12-09 | 2023-01-28 |
 | [Letter to Jarad](https://open.spotify.com/track/508QhA2SncMbh5CnuxkvUc) | [LRN Slime](https://open.spotify.com/artist/5J66vFlveTqn4j79SueFCA), [CORBAL](https://open.spotify.com/artist/2jjSx5EpZwv9iBAgFkGWPh), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [why am i crying](https://open.spotify.com/album/5vGBmuHZhXCaMhBBWD2ab0) | 3:24 | 2022-07-08 |  |
 | [levitate](https://open.spotify.com/track/69ZPca3gGxjcEOAkTtDp7k) | [shinigami](https://open.spotify.com/artist/0ntNwPE7MYnKrTh59tU2BA) | [levitate](https://open.spotify.com/album/6qnY3bElP0JNoXVQj2VKEu) | 2:24 | 2021-02-27 | 2021-02-28 |

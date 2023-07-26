@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 
 > Os lançamentos e melhores sons do rap e trap nacionais\. Foto: Puro Suco
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,942 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,954 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0jAiO33gxlI.md) - [plain]
 | 74 | [F\* F\* M\*](https://open.spotify.com/track/0cHflpV8SSGbE0NKaasEfT) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Imaterial \(Deluxe\)](https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn) | 2:56 |
 | 75 | [Subiu o Voucher](https://open.spotify.com/track/3xYy4YTh4GC5ayMg5swQx6) | [Tubaína](https://open.spotify.com/artist/5aJbzurT6OT2V55swJzGpf), [Dalsin](https://open.spotify.com/artist/6W2jVpE55n1wT0SrpxoeFk), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Subiu o Voucher](https://open.spotify.com/album/6DaCqBc20PZRMJw8qUbVTb) | 4:02 |
 
-Snapshot ID: `MCw2MzBjYjkyZDFlNzVlM2YyYzgzY2FiMzkzMTEzYzVlYzU0YzRlNzhj`
+Snapshot ID: `MCxjZDQzMGE4YmNkY2U5YzQyMjJlMGNhZmZjMGI2MTZlMmQ3ZDAwYTMw`

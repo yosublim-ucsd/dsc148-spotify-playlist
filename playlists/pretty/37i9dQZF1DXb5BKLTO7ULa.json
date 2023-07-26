@@ -1,12 +1,12 @@
 {
   "description": "De nieuwste releases elke vrijdag op Spotify! Cover: SERA",
-  "num_followers": 257121,
+  "num_followers": 257141,
   "original_name": "New Music Friday NL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhM2Q1YjE4OGQ0NzM4MTZkYjFjYTcyNWM1OGY5ZWZiNmNjYjU3ZDM4",
+  "snapshot_id": "MCw5MDQwYzE0OWYyMDUzNzIxOWEyODg1OGIwYzg4Y2E2NGI5YTc1M2Vk",
   "tracks": [
     {
       "added_at": "2023-07-20 22:00:00",
@@ -27,7 +27,7 @@
     {
       "added_at": "2023-07-20 22:00:00",
       "album": {
-        "name": "She Knows (With Akon)",
+        "name": "She Knows (with Akon)",
         "url": "https://open.spotify.com/album/0pj4zHdT9FsFOkpA9Qic4F"
       },
       "artists": [
@@ -49,7 +49,7 @@
         }
       ],
       "duration_ms": 135706,
-      "name": "She Knows - With Akon",
+      "name": "She Knows - with Akon",
       "url": "https://open.spotify.com/track/3zkb0907pOJqU7m3Qh5hB7"
     },
     {

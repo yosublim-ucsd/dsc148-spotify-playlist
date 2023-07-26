@@ -1,12 +1,12 @@
 {
   "description": "Brighten your day with a mix of folksy mood boosters.",
-  "num_followers": 1968014,
+  "num_followers": 1968113,
   "original_name": "Happy Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NmY3M2ZlYjUzNjJlYWUxMjUwNzRlNDA3NGFkMGI2OWVmODVhNjBh",
+  "snapshot_id": "MCw1M2EyMWVmNjZmMzdjNjBmMzFkZDMxYmQ2YjkzMDQ2MzU1NzE1YTNi",
   "tracks": [
     {
       "added_at": "2023-07-21 04:00:00",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Boys & Girls (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC"
-      },
-      "artists": [
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 226186,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Hozier",
         "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 222813,
       "name": "Someone New",
       "url": "https://open.spotify.com/track/0efT4YKQLQx2YHbp6vgRX8"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Boys & Girls (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ZyG5ztRbkxjZdKQ94N0lC"
+      },
+      "artists": [
+        {
+          "name": "Alabama Shakes",
+          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
+        }
+      ],
+      "duration_ms": 226186,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/436bx0eHJS5DPgIyfsDU31"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "The Love Still Held Me Near",
-        "url": "https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym"
-      },
-      "artists": [
-        {
-          "name": "City and Colour",
-          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
-        }
-      ],
-      "duration_ms": 236840,
-      "name": "Underground",
-      "url": "https://open.spotify.com/track/6bpoSwD4xu2WWIVQH07LMa"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Joy'All",
         "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 191280,
       "name": "Puppy and a Truck",
       "url": "https://open.spotify.com/track/3fBnNVgVVGDWWvVMCH6f0z"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "The Love Still Held Me Near",
+        "url": "https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym"
+      },
+      "artists": [
+        {
+          "name": "City and Colour",
+          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
+        }
+      ],
+      "duration_ms": 236840,
+      "name": "Underground",
+      "url": "https://open.spotify.com/track/6bpoSwD4xu2WWIVQH07LMa"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Silver Lining",
-        "url": "https://open.spotify.com/album/3FxWxJXvkNN3peG2iikNh7"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 199827,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/2fpDrL2Vpee0JnM6AoUFvl"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
         "name": "Skinny Dipping & Mimosas",
         "url": "https://open.spotify.com/album/4yY92T0NRLnppExi4svTOY"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 163717,
       "name": "Skinny Dipping & Mimosas",
       "url": "https://open.spotify.com/track/76AnTndNpHDAuUqjXrqE4c"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/3FxWxJXvkNN3peG2iikNh7"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 199827,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/2fpDrL2Vpee0JnM6AoUFvl"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
+        "name": "Graveclothes",
+        "url": "https://open.spotify.com/album/0WMzoCvodpdM191D8EoAJH"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "duration_ms": 227105,
+      "name": "Graveclothes",
+      "url": "https://open.spotify.com/track/1UM7bluhwWTGfhvWWOshk7"
+    },
+    {
+      "added_at": "2023-07-21 04:00:00",
+      "album": {
         "name": "Strawberry Mansion - Side A",
         "url": "https://open.spotify.com/album/0mbKHuV8g0FQ2WDQgDZgGR"
       },
@@ -1539,18 +1555,18 @@
     {
       "added_at": "2023-07-21 04:00:00",
       "album": {
-        "name": "Graveclothes",
-        "url": "https://open.spotify.com/album/0WMzoCvodpdM191D8EoAJH"
+        "name": "Making Do",
+        "url": "https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC"
       },
       "artists": [
         {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
         }
       ],
-      "duration_ms": 227105,
-      "name": "Graveclothes",
-      "url": "https://open.spotify.com/track/1UM7bluhwWTGfhvWWOshk7"
+      "duration_ms": 214150,
+      "name": "Making Do",
+      "url": "https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -1583,22 +1599,6 @@
       "duration_ms": 245281,
       "name": "Borrow Trouble",
       "url": "https://open.spotify.com/track/461JI71P8eY2zUWAkyKs7b"
-    },
-    {
-      "added_at": "2023-07-21 04:00:00",
-      "album": {
-        "name": "Making Do",
-        "url": "https://open.spotify.com/album/3sI7Qkzzjs4lSleiRvfJlC"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 214150,
-      "name": "Making Do",
-      "url": "https://open.spotify.com/track/46quRQAj7MxBJ38B5EyJOc"
     },
     {
       "added_at": "2023-07-21 04:00:00",

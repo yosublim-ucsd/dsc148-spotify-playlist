@@ -1,12 +1,12 @@
 {
   "description": "A mixtape for the perfect anime fight scene.",
-  "num_followers": 528065,
+  "num_followers": 528851,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMDg2Y2VjODJmMjllMGYwMTcyZWI3OTRmOWY4Zjg0MTVhNTQ1NTk5",
+  "snapshot_id": "MCw5ZGU3MzcyY2YyOTI0YzEyOWY3OWEyYTQzZDQzZGQ5OWJlOGY4YWUx",
   "tracks": [
     {
       "added_at": "2023-07-21 19:05:21",
@@ -455,22 +455,6 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
-        "name": "The Rumbling",
-        "url": "https://open.spotify.com/album/0YK5JsSCN2Z8g1ejHuBqeg"
-      },
-      "artists": [
-        {
-          "name": "SiM",
-          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
-        }
-      ],
-      "duration_ms": 220799,
-      "name": "The Rumbling",
-      "url": "https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
         "name": "masquerade",
         "url": "https://open.spotify.com/album/1hfRW8Q9CbSzVaKCbaFMxB"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 144535,
       "name": "masquerade",
       "url": "https://open.spotify.com/track/0RYHqnmtNRfbYxP6Dn8Vse"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
+        "name": "The Rumbling",
+        "url": "https://open.spotify.com/album/0YK5JsSCN2Z8g1ejHuBqeg"
+      },
+      "artists": [
+        {
+          "name": "SiM",
+          "url": "https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt"
+        }
+      ],
+      "duration_ms": 220799,
+      "name": "The Rumbling",
+      "url": "https://open.spotify.com/track/6k0X05danQOXSBTVek5DU1"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
+        "name": "MUKANJYO",
+        "url": "https://open.spotify.com/album/1FGsYEkFLkIv9ffhgoOgZh"
+      },
+      "artists": [
+        {
+          "name": "Survive Said The Prophet",
+          "url": "https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh"
+        }
+      ],
+      "duration_ms": 192400,
+      "name": "MUKANJYO",
+      "url": "https://open.spotify.com/track/4MTgIH5OZQHAbdBWgbKSAb"
+    },
+    {
+      "added_at": "2023-07-13 15:18:57",
+      "album": {
         "name": "C'est La Vie",
         "url": "https://open.spotify.com/album/4cR3Cgc4klmCeDgFkA3nz7"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 160161,
       "name": "C'est La Vie (with bbno$ & Rich Brian)",
       "url": "https://open.spotify.com/track/0cgy8EueqwMuYzOZrW5vPB"
-    },
-    {
-      "added_at": "2023-07-13 15:18:57",
-      "album": {
-        "name": "MUKANJYO",
-        "url": "https://open.spotify.com/album/1FGsYEkFLkIv9ffhgoOgZh"
-      },
-      "artists": [
-        {
-          "name": "Survive Said The Prophet",
-          "url": "https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh"
-        }
-      ],
-      "duration_ms": 192400,
-      "name": "MUKANJYO",
-      "url": "https://open.spotify.com/track/4MTgIH5OZQHAbdBWgbKSAb"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -915,22 +915,22 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
-        "name": "Blood (Alucard Rap)",
-        "url": "https://open.spotify.com/album/6qeRZqsdSTULbT0g2ihOoZ"
+        "name": "3x3",
+        "url": "https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t"
       },
       "artists": [
         {
-          "name": "Rustage",
-          "url": "https://open.spotify.com/artist/6cd3XfCAc3e596RQW8P94H"
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
         },
         {
-          "name": "TOPHAMHAT-KYO",
-          "url": "https://open.spotify.com/artist/2QGB8HqesnKeA5gcLJ0hiZ"
+          "name": "9lives",
+          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
         }
       ],
-      "duration_ms": 197183,
-      "name": "Blood (Alucard Rap)",
-      "url": "https://open.spotify.com/track/2deb24yUrqgOVwGJjaIaYp"
+      "duration_ms": 126600,
+      "name": "I LOVE YOU HOE (w/ 9lives)",
+      "url": "https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -971,22 +971,22 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
-        "name": "3x3",
-        "url": "https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t"
+        "name": "Blood (Alucard Rap)",
+        "url": "https://open.spotify.com/album/6qeRZqsdSTULbT0g2ihOoZ"
       },
       "artists": [
         {
-          "name": "Odetari",
-          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+          "name": "Rustage",
+          "url": "https://open.spotify.com/artist/6cd3XfCAc3e596RQW8P94H"
         },
         {
-          "name": "9lives",
-          "url": "https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q"
+          "name": "TOPHAMHAT-KYO",
+          "url": "https://open.spotify.com/artist/2QGB8HqesnKeA5gcLJ0hiZ"
         }
       ],
-      "duration_ms": 126600,
-      "name": "I LOVE YOU HOE (w/ 9lives)",
-      "url": "https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU"
+      "duration_ms": 197183,
+      "name": "Blood (Alucard Rap)",
+      "url": "https://open.spotify.com/track/2deb24yUrqgOVwGJjaIaYp"
     },
     {
       "added_at": "2023-07-13 15:18:57",
@@ -1291,22 +1291,26 @@
     {
       "added_at": "2023-07-13 15:18:57",
       "album": {
-        "name": "OLIVIA",
-        "url": "https://open.spotify.com/album/3hNNuCctdqZqKJvPcb5UbV"
+        "name": "ghost in the shell (feat. SXMPRA and KAMAARA)",
+        "url": "https://open.spotify.com/album/5IIfWSzUSqWL2tRAd8jsop"
       },
       "artists": [
         {
-          "name": "Softwilly",
-          "url": "https://open.spotify.com/artist/0fAEWMlRd4yiJBT2usaqqc"
+          "name": "Savage Ga$p",
+          "url": "https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk"
         },
         {
-          "name": "Yung Kage",
-          "url": "https://open.spotify.com/artist/7j8MiVdcaaVpUvhkXWwYDT"
+          "name": "SXMPRA",
+          "url": "https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R"
+        },
+        {
+          "name": "KAMAARA",
+          "url": "https://open.spotify.com/artist/06d6Jun2N1hugnXeN98kQ0"
         }
       ],
-      "duration_ms": 143587,
-      "name": "OLIVIA",
-      "url": "https://open.spotify.com/track/2s14ypvd880AiEfZssEjaY"
+      "duration_ms": 157407,
+      "name": "ghost in the shell (feat. SXMPRA and KAMAARA)",
+      "url": "https://open.spotify.com/track/4q6gU25VGU8d72N0laFme5"
     },
     {
       "added_at": "2023-07-13 15:18:57",

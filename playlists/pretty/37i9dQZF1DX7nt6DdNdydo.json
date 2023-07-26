@@ -1,12 +1,12 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 42238,
+  "num_followers": 42261,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZWMzYzY3MjNhOWNjMjU0N2JkNTRhY2RjY2YxZmExZmNhNWNiMmY4",
+  "snapshot_id": "MCw4YTc0ZmE1ZmVmNjE4NDhkNjdmNDk0MmViMThhZDc2NDk3MDM2MjIx",
   "tracks": [
     {
       "added_at": "2022-03-28 19:44:25",
@@ -563,18 +563,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Sun Records - 60 Years, 60 Singles Box Set",
-        "url": "https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O"
+        "name": "The Complete Imperial Recordings, 1950-1954",
+        "url": "https://open.spotify.com/album/5wu5aLFVDLguiEmgWzraOX"
       },
       "artists": [
         {
-          "name": "Billy \"The Kid\" Emerson",
-          "url": "https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw"
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
         }
       ],
-      "duration_ms": 144166,
-      "name": "Red Hot",
-      "url": "https://open.spotify.com/track/1MXmG9AZuyY1EjHgAeY2kL"
+      "duration_ms": 124266,
+      "name": "Teenage Baby",
+      "url": "https://open.spotify.com/track/05D2bJ4V2uQm39GQX0mzvm"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -595,18 +595,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "The Complete Imperial Recordings, 1950-1954",
-        "url": "https://open.spotify.com/album/5wu5aLFVDLguiEmgWzraOX"
+        "name": "Sun Records - 60 Years, 60 Singles Box Set",
+        "url": "https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O"
       },
       "artists": [
         {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+          "name": "Billy \"The Kid\" Emerson",
+          "url": "https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw"
         }
       ],
-      "duration_ms": 124266,
-      "name": "Teenage Baby",
-      "url": "https://open.spotify.com/track/05D2bJ4V2uQm39GQX0mzvm"
+      "duration_ms": 144166,
+      "name": "Red Hot",
+      "url": "https://open.spotify.com/track/1MXmG9AZuyY1EjHgAeY2kL"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Rock And Roll - The Essential Collection",
-        "url": "https://open.spotify.com/album/2qv8092Q2VE2A838CYfW6q"
-      },
-      "artists": [
-        {
-          "name": "Joe Houston & His Rockets",
-          "url": "https://open.spotify.com/artist/0KE5SlfCEB81MaKTaWP4q6"
-        }
-      ],
-      "duration_ms": 160186,
-      "name": "All Night Long",
-      "url": "https://open.spotify.com/track/6riSu5IH82UYJRZuiUz7yo"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Travelin' Blues",
         "url": "https://open.spotify.com/album/1ebcZ8wxJmT0UvU9aQEXJT"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 117040,
       "name": "Let the Four Winds Blow",
       "url": "https://open.spotify.com/track/42YTOpUqCmVEL6jmOH5G59"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Rock And Roll - The Essential Collection",
+        "url": "https://open.spotify.com/album/2qv8092Q2VE2A838CYfW6q"
+      },
+      "artists": [
+        {
+          "name": "Joe Houston & His Rockets",
+          "url": "https://open.spotify.com/artist/0KE5SlfCEB81MaKTaWP4q6"
+        }
+      ],
+      "duration_ms": 160186,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/6riSu5IH82UYJRZuiUz7yo"
     },
     {
       "added_at": "2022-03-28 19:44:25",

@@ -454,10 +454,32 @@
       ],
       "date_added": "2017-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 203313,
       "name": "Peanut Butter (feat. Big Freedia)",
       "url": "https://open.spotify.com/track/3Y3K9KOHuH3ZXsNNI2AibB"
+    },
+    {
+      "album": {
+        "name": "Essential, Vol. 2",
+        "url": "https://open.spotify.com/album/7dt2x6NDDgt3IePbm5RrMB"
+      },
+      "artists": [
+        {
+          "name": "RuPaul",
+          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
+        },
+        {
+          "name": "Big Freedia",
+          "url": "https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206213,
+      "name": "Peanut Butter (feat. Big Freedia)",
+      "url": "https://open.spotify.com/track/0OCMVtFWfemXv7IyVGM1ri"
     },
     {
       "album": {
@@ -662,6 +684,24 @@
     {
       "album": {
         "name": "Born Naked",
+        "url": "https://open.spotify.com/album/3Kl2udummuO8MuE3cYa3sM"
+      },
+      "artists": [
+        {
+          "name": "RuPaul",
+          "url": "https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe"
+        }
+      ],
+      "date_added": "2023-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212693,
+      "name": "Sissy That Walk",
+      "url": "https://open.spotify.com/track/4KvHJkVdQQrskjVfGoYedT"
+    },
+    {
+      "album": {
+        "name": "Born Naked",
         "url": "https://open.spotify.com/album/3stAjHtCDSCavGtkxzvYE7"
       },
       "artists": [
@@ -672,7 +712,7 @@
       ],
       "date_added": "2017-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 212693,
       "name": "Sissy That Walk",
       "url": "https://open.spotify.com/track/5PHPENfE3RVmHGAA2A7Hfx"

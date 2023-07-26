@@ -4,7 +4,7 @@
 
 > Queens everywhere \- givin' us life\. Cover: Tia Kofi
 
-132 songs - 7 hr 30 min
+135 songs - 7 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,8 @@
 | [Come to Brazil](https://open.spotify.com/track/54XWyyc1drVkWbutLQz0E1) | [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy) | [Come to Brazil](https://open.spotify.com/album/5EgTY77zKOhEBEU5E35oSB) | 3:40 | 2022-09-22 | 2022-11-13 |
 | [Come to Brazil](https://open.spotify.com/track/6G8QdI1lsjJMmkSool0b6f) | [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy) | [Poundcake](https://open.spotify.com/album/4VNYGvaBPvx024om7sg8x2) | 3:40 | 2022-03-10 | 2023-05-26 |
 | [Come Together](https://open.spotify.com/track/7j9IL3tollUsa8Bkm5W32s) | [Sherry Vine](https://open.spotify.com/artist/2YGVrA2cafxh2rsw632N6s) | [Come Together](https://open.spotify.com/album/2a64YiIwjhOm2XrphHlPYc) | 2:41 | 2021-09-03 |  |
-| [Cover Girl](https://open.spotify.com/track/7jman10UPhzhtOOqZLjSsh) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Champion](https://open.spotify.com/album/3ExxyWO7DdCsNlYDuoIP8b) | 2:58 | 2021-06-29 |  |
+| [Cover Girl](https://open.spotify.com/track/7jman10UPhzhtOOqZLjSsh) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Champion](https://open.spotify.com/album/3ExxyWO7DdCsNlYDuoIP8b) | 2:58 | 2021-06-29 | 2023-07-26 |
+| [Cover Girl](https://open.spotify.com/track/38u74wUfcE5N47L2m9qYrZ) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Cover Girl \- The RuMixes](https://open.spotify.com/album/6Ocm1OulB1CVMNCVw5JjqO) | 3:03 | 2023-05-25 |  |
 | [Crème Brûlée](https://open.spotify.com/track/4avu1L6t1rlO6Igm1BmNkG) | [Shea Couleé](https://open.spotify.com/artist/0FrOnmhn1KtQ2n5mHF2SD6) | [Crème Brûlée](https://open.spotify.com/album/24QSeoI9ucXIJUhgJQKJbu) | 2:52 | 2021-06-29 |  |
 | [Diamond Crowned Queen \- Original](https://open.spotify.com/track/3TIvINmJaJ6A2spc2u9f9B) | [Raja](https://open.spotify.com/artist/0kRRHgP7Ng7ZKOKKxeYZkC) | [Diamond Crowned Queen](https://open.spotify.com/album/1Dibup7kDM8h6CfCMds9ud) | 3:51 | 2021-06-29 |  |
 | [Drag Den](https://open.spotify.com/track/3OcG8HWvhRJnX6GxRPNlIL) | [Manila Luzon](https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g) | [Drag Den](https://open.spotify.com/album/7MVcG4rJhelgCOK34fFl8b) | 3:15 | 2023-02-09 |  |
@@ -74,7 +75,8 @@
 | [Kai Kai \(feat\. Ana Matronic & Alaska Thunderfuck\)](https://open.spotify.com/track/4mkL0UiO3kBXMozxVsL2lk) | [Sharon Needles](https://open.spotify.com/artist/7yPRmfUuRcpGwOsHVqQgae), [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy), [Ana Matronic](https://open.spotify.com/artist/2GYVrVNRHhVWpOZoqhlrxB) | [PG\-13](https://open.spotify.com/album/7lvn1fmJhwwfwMsBf7Tbcq) | 3:24 | 2022-03-10 |  |
 | [Kai Kai \(feat\. Ana Matronic & Alaska Thunderfuck\)](https://open.spotify.com/track/6USvKsRGsInSYYvL5hqD2V) | [Sharon Needles](https://open.spotify.com/artist/7yPRmfUuRcpGwOsHVqQgae), [Ana Matronic](https://open.spotify.com/artist/2GYVrVNRHhVWpOZoqhlrxB), [Alaska Thunderfuck](https://open.spotify.com/artist/4k2ggpJpzdQHCBQ84f1jBy) | [PG\-13](https://open.spotify.com/album/2dnWEDBcxOkGsbjEHlJBlQ) | 3:24 | 2021-06-29 | 2022-07-29 |
 | [Know\-It\-All](https://open.spotify.com/track/1gidM0B8bAcMC5BS09YL0h) | [Jinkx Monsoon](https://open.spotify.com/artist/6rYhtNKtoVz8SxSylWyUeR) | [Know\-It\-All](https://open.spotify.com/album/1w4LUHHbXSc6oyn0BnExqW) | 4:28 | 2022-09-22 |  |
-| [London](https://open.spotify.com/track/1XoOdlKTaLhg4RouORhowS) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [You're a Winner, Baby](https://open.spotify.com/album/7MtBOfcnTleOXzDniwiqs3) | 3:20 | 2021-06-29 |  |
+| [London](https://open.spotify.com/track/1XoOdlKTaLhg4RouORhowS) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [You're a Winner, Baby](https://open.spotify.com/album/7MtBOfcnTleOXzDniwiqs3) | 3:20 | 2021-06-29 | 2023-07-26 |
+| [London](https://open.spotify.com/track/3UckjaecFyTplgXULMGpJ6) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [You're a Winner, Baby](https://open.spotify.com/album/3keYbnmOowk2l1xWdo8vVq) | 3:20 | 2023-05-25 |  |
 | [Looks \(feat\. Aquaria\)](https://open.spotify.com/track/6HG9HwiSqzyZjKZj2xy5FX) | [Linux](https://open.spotify.com/artist/2RO8MlM6Jnb5pmPPHFjFO6), [Aquaria](https://open.spotify.com/artist/06Dngxe8FZm8kxKZWiSeNL) | [Everybody Hates Linux](https://open.spotify.com/album/0xUsVc4uD9kO1u6TF0x29X) | 4:14 | 2021-06-29 |  |
 | [Loving Me Like That](https://open.spotify.com/track/03NhvyKomhZpEkvuePLseZ) | [Tia Kofi](https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva) | [Loving Me Like That](https://open.spotify.com/album/6SkAm5294LP04lW1dCUAgY) | 3:06 | 2022-03-10 |  |
 | [Low](https://open.spotify.com/track/0UoAFuSMQthMwieDb51kWK) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH), [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Straight Outta Oz \(Deluxe Edition\)](https://open.spotify.com/album/6vnhjj2LzTM3mZKrOhN4N6) | 3:21 | 2022-09-22 |  |
@@ -106,7 +108,8 @@
 | [Rubber Doll](https://open.spotify.com/track/7M8D29CF8b5ciYCJ8xcv8X) | [Miss Fame](https://open.spotify.com/artist/4wLH0JOgX7xiI0JCHnuf8r) | [Beauty Marked](https://open.spotify.com/album/2Ua71F5wgrNqEIteTXIZjU) | 3:20 | 2022-03-10 |  |
 | [RuPaulogize \(feat\. Sharon Needles\)](https://open.spotify.com/track/3CObFGwVn3fQkHB3laYhaZ) | [Willam](https://open.spotify.com/artist/6l0msaZPAzFDz1UDDv6BV8) | [RuPaulogize \(feat\. Sharon Needles\)](https://open.spotify.com/album/02eDGzZoAEftp8x3E6h7cE) | 3:30 | 2021-06-29 | 2022-09-23 |
 | [Satellite](https://open.spotify.com/track/3KwLphYunPNCGwsCkr9OCq) | [Tia Kofi](https://open.spotify.com/artist/565XoQdazhqf3drCRJRIva) | [Satellite](https://open.spotify.com/album/2lxWhVphx12GD6HEP6KidW) | 2:48 | 2023-05-25 |  |
-| [Sissy That Walk](https://open.spotify.com/track/5PHPENfE3RVmHGAA2A7Hfx) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Born Naked](https://open.spotify.com/album/3stAjHtCDSCavGtkxzvYE7) | 3:32 | 2021-06-29 |  |
+| [Sissy That Walk](https://open.spotify.com/track/4KvHJkVdQQrskjVfGoYedT) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Born Naked](https://open.spotify.com/album/3Kl2udummuO8MuE3cYa3sM) | 3:32 | 2023-05-25 |  |
+| [Sissy That Walk](https://open.spotify.com/track/5PHPENfE3RVmHGAA2A7Hfx) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Born Naked](https://open.spotify.com/album/3stAjHtCDSCavGtkxzvYE7) | 3:32 | 2021-06-29 | 2023-07-26 |
 | [Soak It Up \(Remix\)](https://open.spotify.com/track/3M8oAB4Nof44bWG5qP7gtq) | [Monét X Change](https://open.spotify.com/artist/3XiIfBzhVYaADoU54bFm2w), [Bob the Drag Queen](https://open.spotify.com/artist/71WL5bNm5jPPpwpDcW3Icj) | [Soak It Up](https://open.spotify.com/album/2pJbUeVzXT2f7HGB8H0H2F) | 4:16 | 2021-06-29 |  |
 | [Soldier](https://open.spotify.com/track/2wWxekq0ATUJtpkmDxsSyL) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [One Stone](https://open.spotify.com/album/2fta3Z2ikci4mFYexn3AvO) | 3:05 | 2021-06-29 |  |
 | [Southern Hospitality](https://open.spotify.com/track/0QTnmq1asCixe3dcCuTaGO) | [Trinity the Tuck](https://open.spotify.com/artist/6vsPl580Vp298KzWmzHgQS) | [EGO](https://open.spotify.com/album/4vEpdTEZcXC75BJMli4JVn) | 2:33 | 2023-02-09 |  |

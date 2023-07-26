@@ -4,7 +4,7 @@
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: 落日飛車 Sunset Rollercoaster
 
-890 songs - 2 day 5 hr 22 min
+891 songs - 2 day 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Beachtown Boys](https://open.spotify.com/track/3jPBFCltUQcJt65nLCqDFF) | [Sansette](https://open.spotify.com/artist/2QZgUdDucCesAV9xVpZHyI) | [Beachtown Boys](https://open.spotify.com/album/4qk6kwLEPZctXrC6k2SeMb) | 2:27 | 2022-06-30 | 2022-08-12 |
 | [Behind Your Dream](https://open.spotify.com/track/4TSleT2yijfAt8sf5PNgrg) | [Doorlesshouse](https://open.spotify.com/artist/0SxSWgWdwhijvB7pMMRdKy) | [Behind Your Dream](https://open.spotify.com/album/0WMN5tB3fb7c5BcXvdNOTz) | 4:35 | 2022-03-24 | 2022-04-08 |
 | [Berbunga](https://open.spotify.com/track/7BrDgp5XQ0x97gcepL6ezz) | [tradeto](https://open.spotify.com/artist/6Sp5KtLrCKSA0eLp0sHptK) | [Berbunga](https://open.spotify.com/album/0woF0gDvrOVmVF7oJc7hBT) | 4:30 | 2023-03-16 | 2023-04-21 |
+| [berkelana dalam ruang dan mimpi](https://open.spotify.com/track/1uRvTVCs8SOT3x20MPzgWV) | [The Jansen](https://open.spotify.com/artist/0q3MCOdd2qGlN2TxJdr0SQ) | [berkelana dalam ruang dan mimpi](https://open.spotify.com/album/4cI5XslTmp76Nnx8iEmIV4) | 2:36 | 2023-07-20 |  |
 | [Berlin](https://open.spotify.com/track/0dc11ezRZRB61Oy7yHdvq7) | [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Berlin](https://open.spotify.com/album/74bTShJjsCYUHqSLFSs9h1) | 2:45 | 2022-06-09 | 2022-07-15 |
 | [Best I Ever Had](https://open.spotify.com/track/5juzi6Bpqi7cf3lh9xLSYB) | [Kyoto Protocol](https://open.spotify.com/artist/5XDa1ZWT8oz8VmHjrDwChs) | [Best I Ever Had](https://open.spotify.com/album/2DWUneyBWnuL7Rlxzp5fNQ) | 2:49 | 2022-06-16 | 2022-07-15 |
 | [Best of Me](https://open.spotify.com/track/0UDrCg4m4RFN5ql0KLZifR) | [Youth Brush](https://open.spotify.com/artist/6U3028szvZMKXaRSRoiSbR) | [Best of Me](https://open.spotify.com/album/7dPU8IgZEI5zWYUm9c9dsy) | 3:29 | 2022-04-07 | 2022-04-22 |
@@ -664,7 +665,7 @@
 | [Subway Station Revelation](https://open.spotify.com/track/64QIWtRAivYJpEiikswr7K) | [For Tracy Hyde](https://open.spotify.com/artist/6D4CyQKY5fDsjK5qKNfqDy) | [Subway Station Revelation](https://open.spotify.com/album/3xGvbbfdc5oiEKlzh4co04) | 4:14 | 2022-11-24 | 2023-02-03 |
 | [sulky baby](https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [sulky baby](https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ) | 4:38 | 2023-05-11 |  |
 | [summer](https://open.spotify.com/track/1xgKzczUEtsrLPjGYVUo9B) | [lavndr](https://open.spotify.com/artist/5HsrAgY0Oj9VgkcjVJdUnO) | [summer](https://open.spotify.com/album/6QR5IgAQYtTPKJwFBRlXs9) | 4:03 | 2022-03-24 | 2022-06-10 |
-| [Summer Breeze](https://open.spotify.com/track/4WTUBYVtbDiB4BGqnaXRGe) | [Coldiac](https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA) | [Summer Breeze](https://open.spotify.com/album/6izqoWAn1h2IxXzD6X3IsP) | 4:05 | 2023-07-06 |  |
+| [Summer Breeze](https://open.spotify.com/track/4WTUBYVtbDiB4BGqnaXRGe) | [Coldiac](https://open.spotify.com/artist/42BY4cYu4ZSj37CbSYjDgA) | [Summer Breeze](https://open.spotify.com/album/6izqoWAn1h2IxXzD6X3IsP) | 4:05 | 2023-07-06 | 2023-07-26 |
 | [Summer For You](https://open.spotify.com/track/1i2mGWu5fJCUEW6yFHYokf) | [JACKINGCONG](https://open.spotify.com/artist/3GeNpZ51ZS9nQBnvGsLBcl) | [Summer For You](https://open.spotify.com/album/2CsvQpN3f318sh8IFTD2Jh) | 4:03 | 2022-07-28 | 2022-08-26 |
 | [Summer Love](https://open.spotify.com/track/1uXIv0FXJmCuysG20r79Tb) | [Midnight Fusic](https://open.spotify.com/artist/3qzktAIByIWbxVB5XjxpqL), [Lil Asian Thiccie](https://open.spotify.com/artist/0j2BoCcPBX1B5vF8tp2nL7) | [Summer Love](https://open.spotify.com/album/7eiv3iTChbNJn5u0EEZkVu) | 3:18 | 2022-08-25 | 2022-10-14 |
 | [Summer's Not Arrived](https://open.spotify.com/track/6vhCWtwqEddPTXs58QWZKZ) | [Milledenials](https://open.spotify.com/artist/0Mh5wMruCzJIMbeospsjyB) | [Brighter Days](https://open.spotify.com/album/0WIU7w0fq1XlGt0NaYob4B) | 3:24 | 2022-12-15 | 2023-02-17 |

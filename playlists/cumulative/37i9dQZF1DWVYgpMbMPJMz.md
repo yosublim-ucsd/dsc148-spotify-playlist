@@ -4,7 +4,7 @@
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  <a href="https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s?si=2854b16b9fbb41d4">Planetshakers<a>
 
-401 songs - 1 day 15 hr 3 min
+402 songs - 1 day 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,8 @@
 | [Grateful Response](https://open.spotify.com/track/6Ph5iLERp0hFfZIDG0iZYZ) | [Orphan No More Co](https://open.spotify.com/artist/7EYuj3Lwk6FkWeeIbXs87F) | [Death Died](https://open.spotify.com/album/2Q1yeTh0KLIzBKzpshhLxj) | 4:26 | 2022-02-25 | 2022-03-12 |
 | [Gratitude \- LIVE from Miracle Nights](https://open.spotify.com/track/0SnTTASsZDaKXH7ryveq7C) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Gratitude \- LIVE from Miracle Nights](https://open.spotify.com/album/5lOQm2QnGMxJMchHrn8W0Q) | 6:58 | 2023-04-14 |  |
 | [Greater Still](https://open.spotify.com/track/58Ru3mM7f99AgLIIHWca2Y) | [Ginny Owens](https://open.spotify.com/artist/2mVoAGALkIviYCkBDNDKcn) | [Greater Still](https://open.spotify.com/album/2VxkvyT0wTRjAz4G69X7kV) | 4:42 | 2022-02-25 | 2022-04-02 |
-| [Greater Than It All \- Live](https://open.spotify.com/track/4Vqvuy5Z4Lhn5wdqFDpTjx) | [Spring Harvest](https://open.spotify.com/artist/6okBvpENAfIe6u7n5bdFDK), [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [Greater Than It All \(Live\)](https://open.spotify.com/album/0beZjVg2wi1FiDYA7abeFe) | 4:52 | 2023-03-10 |  |
+| [Greater Than It All \- Live](https://open.spotify.com/track/36v3znbKACA4BkhaUHSjbE) | [Spring Harvest](https://open.spotify.com/artist/6okBvpENAfIe6u7n5bdFDK) | [Gratitude: 10 Live Worship Songs From Spring Harvest 2022](https://open.spotify.com/album/33QIgV6G5UIDN2neiShgyM) | 4:52 | 2023-07-21 |  |
+| [Greater Than It All \- Live](https://open.spotify.com/track/4Vqvuy5Z4Lhn5wdqFDpTjx) | [Spring Harvest](https://open.spotify.com/artist/6okBvpENAfIe6u7n5bdFDK), [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [Greater Than It All \(Live\)](https://open.spotify.com/album/0beZjVg2wi1FiDYA7abeFe) | 4:52 | 2023-03-10 | 2023-07-26 |
 | [Halfway Empty \- Live](https://open.spotify.com/track/17it5wfXOeMzTiid9xMGye) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Halfway Empty \(Live\)](https://open.spotify.com/album/2zM8xyAjwRPBZCE4nkhlOw) | 3:45 | 2023-01-20 | 2023-02-04 |
 | [He Calls Me Friend](https://open.spotify.com/track/5v87gR2P18X12GfElLTPHc) | [CityAlight](https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg) | [He Calls Me Friend](https://open.spotify.com/album/22VvLGmescoVzuxUOj5M1G) | 4:20 | 2023-07-14 |  |
 | [He Is Risen](https://open.spotify.com/track/2Q3jQ4k8e5aBputb91Ns80) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG), [Elyssa Smith](https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF) | [He Is Risen](https://open.spotify.com/album/2wLtbU0Nl8jM0pekaFnwb5) | 8:13 | 2023-04-07 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgcWoYFXZp.md) - [plain]
 
 > Cruise through Japanese “Neo” City Pop from the ’00s./ 渋谷系の系譜から、ボーダーレスに多様化に向かっていった’00年代。ネオ・シティポップ新時代の波はすぐそこに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,990 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,000 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgcWoYFXZp.md) - [plain]
 | 43 | [微笑みのひと](https://open.spotify.com/track/5lcTuZBBsRIzquCxCOoeJg) | [Miki Imai](https://open.spotify.com/artist/64Y8hjY7esLUC8ucjtHYwZ) | [Pearl](https://open.spotify.com/album/39ATuRqjwAb6MJOkqMSAJs) | 4:08 |
 | 44 | [耐え難くも甘い季節](https://open.spotify.com/track/1gGZZbpyDMkWoTvv392e7f) | [Tomita Lab.](https://open.spotify.com/artist/0nmnnGl422TngJtYeEj5vD), [Miyuki Hatakeyama](https://open.spotify.com/artist/1EoUchyiJeXQqhGBANhbiI) | [Shipbuilding](https://open.spotify.com/album/3AaZ0g8PEvAbziKyvhsPai) | 5:03 |
 | 45 | [花びら](https://open.spotify.com/track/7klReoVEFPzazSuWPV3vZX) | [流線形](https://open.spotify.com/artist/1gBNLiQMaCcBdQ9fIP4ltM) | [TOKYO SNIPER](https://open.spotify.com/album/7HuoLofdIeVeDPGfDVHTCP) | 5:39 |
-| 46 | [KINDLY FEAT.MARI MIZUNO FROM PARIS MATCH、ANOTHER SIDE](https://open.spotify.com/track/7KiOfl4nKAlq4wUtfBiLNc) | [FreeTEMPO](https://open.spotify.com/artist/31XOXmRJOp83N2kyVNRDy4), [Mari Mizuno from paris match](https://open.spotify.com/artist/54Yomu8IZ9KQkune9c76LK), [Another Side](https://open.spotify.com/artist/2oO4DrJjObGQHGnQWvm3oi) | [SOUNDS](https://open.spotify.com/album/3G4xM7Pt2SpeDc7HJM6wVJ) | 5:59 |
+| 46 | [KINDLY FEAT．MARI MIZUNO FROM PARIS MATCH、ANOTHER SIDE](https://open.spotify.com/track/7KiOfl4nKAlq4wUtfBiLNc) | [FreeTEMPO](https://open.spotify.com/artist/31XOXmRJOp83N2kyVNRDy4), [Mari Mizuno from paris match](https://open.spotify.com/artist/54Yomu8IZ9KQkune9c76LK), [Another Side](https://open.spotify.com/artist/2oO4DrJjObGQHGnQWvm3oi) | [SOUNDS](https://open.spotify.com/album/3G4xM7Pt2SpeDc7HJM6wVJ) | 5:59 |
 | 47 | [Koi no Suisei](https://open.spotify.com/track/4iKgGE1RFJQdBpgyTe8IaO) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [Odoru Taiyou](https://open.spotify.com/album/4gqEDIGBv6thmDjFaHwxFJ) | 4:33 |
 | 48 | [いつか晴れた日に](https://open.spotify.com/track/22WFRMB0NEKHNTfr0C4y6F) | [Junpei Shiina](https://open.spotify.com/artist/5uf7EvW4352mAFNNN9IOZT) | [discover](https://open.spotify.com/album/6CN51DFfuqjKTV4n5DwduJ) | 5:33 |
 | 49 | [あれから](https://open.spotify.com/track/2p88nkbBzmJLXpUdsp1BgG) | [bird](https://open.spotify.com/artist/5gn3mKyq8QM4TxKNX2nxXi) | [オアシス](https://open.spotify.com/album/1mDa5GUbu5jNDemBUJubux) | 5:47 |
 | 50 | [罌粟](https://open.spotify.com/track/6x1hT5lHXcraem8FQCPykz) | [Miyuki Hatakeyama](https://open.spotify.com/artist/1EoUchyiJeXQqhGBANhbiI) | [WILD AND GENTLE](https://open.spotify.com/album/2pBg1hE7WVqOLri4aQTepx) | 5:37 |
 
-Snapshot ID: `MCw5ZTI3ZDI5N2YwMDNhODJlOGRjNjQxNDUwNmVhZDBhMDFjY2E4M2Uz`
+Snapshot ID: `MCwyZGMxZDNhM2VjYzNjZDUwNzM1ZDE0MTRhMDJiNGI1YWY1Njk4YWQz`

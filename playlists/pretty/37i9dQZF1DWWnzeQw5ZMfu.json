@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there. ",
-  "num_followers": 58449,
+  "num_followers": 58499,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMWM3OGE4MGMwYTdlMjVjYWVkN2M0NGMxN2FmMDE1MDQ0ODRhNjU2",
+  "snapshot_id": "MCw3ZTRjZDgwZTIzNDAwMDRmNDNjZjc4MDYwYmU0ZmJlNTc4NjgyNzI0",
   "tracks": [
     {
       "added_at": "2023-05-14 16:51:28",
@@ -359,22 +359,6 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "Infinite Disco",
-        "url": "https://open.spotify.com/album/7FuqPFZVmhRJ96S5XajcoJ"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 193026,
-      "name": "Slow / Love to Love You Baby - From the Infinite Disco Livestream",
-      "url": "https://open.spotify.com/track/0xZsrT29Goh3L5aGrqdK1H"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
         "name": "AMY (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5Fb59VtYjJNTXPcNGpoDU3"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 221266,
       "name": "Rehab - Live On Jools Holland",
       "url": "https://open.spotify.com/track/7E4dtl5gWROiMKibvedh0i"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
+        "name": "Infinite Disco",
+        "url": "https://open.spotify.com/album/7FuqPFZVmhRJ96S5XajcoJ"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 193026,
+      "name": "Slow / Love to Love You Baby - From the Infinite Disco Livestream",
+      "url": "https://open.spotify.com/track/0xZsrT29Goh3L5aGrqdK1H"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "Whitney Houston Live: Her Greatest Performances",
-        "url": "https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        }
-      ],
-      "duration_ms": 410280,
-      "name": "Greatest Love of All - Live from That's What Friends Are For: Arista Records 15th Anniversary Concert",
-      "url": "https://open.spotify.com/track/1zHSvq6WdZHdG85ugbGsVj"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
         "name": "x (Wembley Edition)",
         "url": "https://open.spotify.com/album/6NoBzYmh5gUusGPCfg0pct"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 195967,
       "name": "Parting Glass - Live at Wembley Stadium",
       "url": "https://open.spotify.com/track/74sKqdbIzz8Q5k1uFGQIW7"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
+        "name": "Whitney Houston Live: Her Greatest Performances",
+        "url": "https://open.spotify.com/album/36ofDpRRmMmSVVmsynRAs0"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 410280,
+      "name": "Greatest Love of All - Live from That's What Friends Are For: Arista Records 15th Anniversary Concert",
+      "url": "https://open.spotify.com/track/1zHSvq6WdZHdG85ugbGsVj"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "Live in Dortmund",
-        "url": "https://open.spotify.com/album/5GWvHCLGVFJQpOVNIqxCsl"
-      },
-      "artists": [
-        {
-          "name": "Chris de Burgh",
-          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
-        }
-      ],
-      "duration_ms": 246146,
-      "name": "The Lady In Red - Live",
-      "url": "https://open.spotify.com/track/6aLlWpYlgn45M37MKJvjbp"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
         "name": "Live and in Session",
         "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 319401,
       "name": "Sing - Live and in Session",
       "url": "https://open.spotify.com/track/5r6UJphd3l3sVEfeZpEZHy"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
+        "name": "Live in Dortmund",
+        "url": "https://open.spotify.com/album/5GWvHCLGVFJQpOVNIqxCsl"
+      },
+      "artists": [
+        {
+          "name": "Chris de Burgh",
+          "url": "https://open.spotify.com/artist/2RpHsROrX075xfIwHn6B2U"
+        }
+      ],
+      "duration_ms": 246146,
+      "name": "The Lady In Red - Live",
+      "url": "https://open.spotify.com/track/6aLlWpYlgn45M37MKJvjbp"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "#3 Deluxe Version",
-        "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
-      },
-      "artists": [
-        {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
-        }
-      ],
-      "duration_ms": 295613,
-      "name": "The Man Who Can't Be Moved - Live At The Aviva Stadium, Dublin",
-      "url": "https://open.spotify.com/track/2xMVakxkbsjd8KI6QmG79Q"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
         "name": "Olivia's Live Hits",
         "url": "https://open.spotify.com/album/3cxKwjKZTtrLHxYnVYNQqV"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 231493,
       "name": "You're The One That I Want - Live",
       "url": "https://open.spotify.com/track/5FWlmanf50i18yCshnNuF9"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
+        "name": "#3 Deluxe Version",
+        "url": "https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 295613,
+      "name": "The Man Who Can't Be Moved - Live At The Aviva Stadium, Dublin",
+      "url": "https://open.spotify.com/track/2xMVakxkbsjd8KI6QmG79Q"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
-        "name": "Live and in Session",
-        "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 248394,
-      "name": "The A Team - Live and in Session",
-      "url": "https://open.spotify.com/track/41Fa4odUQJYZNEccDd0y4q"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
         "name": "Live At Wembley Arena",
         "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
       },
@@ -1527,22 +1511,6 @@
       "duration_ms": 265520,
       "name": "Take A Chance On Me - Live",
       "url": "https://open.spotify.com/track/7mHjo6TCCMmYk5zQ9jlMBX"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
-        "name": "Red Pill Blues (Deluxe)",
-        "url": "https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 270840,
-      "name": "Animals - Live In Manchester",
-      "url": "https://open.spotify.com/track/5wr2eH56im5zU7bgmoiTus"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -1563,6 +1531,38 @@
       "duration_ms": 274200,
       "name": "Magic - Live",
       "url": "https://open.spotify.com/track/0C1okCpaUOIftyYFSyyHZi"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
+        "name": "Live and in Session",
+        "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 248394,
+      "name": "The A Team - Live and in Session",
+      "url": "https://open.spotify.com/track/41Fa4odUQJYZNEccDd0y4q"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
+        "name": "Red Pill Blues (Deluxe)",
+        "url": "https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 270840,
+      "name": "Animals - Live In Manchester",
+      "url": "https://open.spotify.com/track/5wr2eH56im5zU7bgmoiTus"
     },
     {
       "added_at": "2023-05-14 16:51:28",
@@ -1615,6 +1615,26 @@
     {
       "added_at": "2023-05-14 16:51:28",
       "album": {
+        "name": "Olivia's Live Hits",
+        "url": "https://open.spotify.com/album/3cxKwjKZTtrLHxYnVYNQqV"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        },
+        {
+          "name": "The Sydney Orchestra",
+          "url": "https://open.spotify.com/artist/7CCAEuSzV238SuznJvgKju"
+        }
+      ],
+      "duration_ms": 180346,
+      "name": "Hopelessly Devoted To You - Live",
+      "url": "https://open.spotify.com/track/5lLyFcjZbmQoBXJSqVCNtT"
+    },
+    {
+      "added_at": "2023-05-14 16:51:28",
+      "album": {
         "name": "A New Day...Live In Las Vegas",
         "url": "https://open.spotify.com/album/0DCrLB20ycYZlBzTXX2AuM"
       },
@@ -1643,22 +1663,6 @@
       "duration_ms": 304973,
       "name": "For the First Time - Live At The Aviva Stadium, Dublin",
       "url": "https://open.spotify.com/track/4llNwotltjRfm312AvF7vn"
-    },
-    {
-      "added_at": "2023-05-14 16:51:28",
-      "album": {
-        "name": "Live: Sacred & Profane",
-        "url": "https://open.spotify.com/album/6L3Xuxq8UvsJw8dAOry7hU"
-      },
-      "artists": [
-        {
-          "name": "Berlin",
-          "url": "https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM"
-        }
-      ],
-      "duration_ms": 367493,
-      "name": "Take My Breath Away - Live",
-      "url": "https://open.spotify.com/track/1WSMOF5Smc8oD3oX9d4wgh"
     }
   ],
   "unique_name": "Pop Live",

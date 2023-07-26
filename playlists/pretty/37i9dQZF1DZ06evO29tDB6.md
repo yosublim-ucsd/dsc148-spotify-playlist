@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29tDB6.md) - [plain]
 
 > This is El Tri\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,821 likes - 51 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,873 likes - 51 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29tDB6.md) - [plain]
 | 50 | [Sópleme usted primero](https://open.spotify.com/track/1sdKHMIGRYs7FDZvha1wAp) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Simplemente](https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y) | 4:33 |
 | 51 | [Triste Canción de Amor \- Remix](https://open.spotify.com/track/36hBGko1ADEYXuG8hDQt1J) | [Broz Rodriguez](https://open.spotify.com/artist/3yfAt1o2PVrVe3jTe8o5Ln), [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Triste Canción de Amor \(Remix\)](https://open.spotify.com/album/4tfabT7g2WL02c2blHZZLJ) | 3:42 |
 
-Snapshot ID: `MjgxNzAxMDYsMDAwMDAwMDA0YWY5Yjc1MjNjYjM2MmNiYTAwOGQ2NDg5MTdjNDlhYw==`
+Snapshot ID: `MjgxNzE1MTIsMDAwMDAwMDBmMGNjNWRhMjhkOTY3MWNjMzU3YzY3MTY2ZGM3ZDg1NA==`

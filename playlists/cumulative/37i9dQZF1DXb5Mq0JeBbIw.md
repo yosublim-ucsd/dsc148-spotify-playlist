@@ -4,7 +4,7 @@
 
 > Soft songs that gives you a gentle start of the day.
 
-217 songs - 12 hr 31 min
+218 songs - 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [I'll Follow You into the Dark](https://open.spotify.com/track/6dVkbvvcOpQ9tuGo7uSl10) | [King Leer](https://open.spotify.com/artist/73OeR5E9pYJ0zKU597trah) | [I'll Follow You into the Dark](https://open.spotify.com/album/4hwxB6K2T3u8Oh53qjgwgQ) | 2:27 | 2022-05-30 | 2022-07-28 |
 | [I'm Doing Everything I Can](https://open.spotify.com/track/4dnXWvzIOioHBd9X12ffz3) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [I'm Doing Everything I Can](https://open.spotify.com/album/73ZKq5NUiOAYbCUgb4Qqrd) | 3:00 | 2022-05-30 | 2022-07-29 |
 | [I'm Not The Only One \- Acoustic Version](https://open.spotify.com/track/4CtKNyoQqS7Tm2fsftrNy9) | [Hamilton](https://open.spotify.com/artist/0djOiFh4VBdH2zXqJOvEnn) | [I'm Not The Only One \(Acoustic Version\)](https://open.spotify.com/album/6QDUsAAMMBkqX8y2S5N884) | 3:33 | 2022-06-24 |  |
+| [I'm On Fire](https://open.spotify.com/track/3i38IJBfk99KziSacMYO9l) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [I'm On Fire](https://open.spotify.com/album/0PabAcEXD3IktrddWuZf9f) | 2:20 | 2023-02-10 |  |
 | [I'm on Fire](https://open.spotify.com/track/4R6mG0Y3xHrasfjsOx5LE7) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [I'm on Fire](https://open.spotify.com/album/6EQMRKHTgh1ajs7NChXIkg) | 2:20 | 2022-05-30 | 2023-06-11 |
 | [I'm Sure He Loves You](https://open.spotify.com/track/5kvHwA4cQJqyafyW9Zik3p) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [I'm Sure He Loves You](https://open.spotify.com/album/3rokBmy1OT8QQtSq8zfw8w) | 3:03 | 2023-01-06 |  |
 | [IDK You Yet](https://open.spotify.com/track/0j1Ia2lQWrcXrQZI4AdJlk) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [IDK You Yet \(Live on Piano\)](https://open.spotify.com/album/2MV7PrKdCcislKUAPMyEA2) | 3:04 | 2022-08-05 | 2022-12-03 |
@@ -209,7 +210,7 @@
 | [Wait & See](https://open.spotify.com/track/1gMtAgRAmwzA4TVbynaN79) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Wait & See](https://open.spotify.com/album/6bxgeOzdunifvN7foTYXK2) | 2:54 | 2022-05-30 | 2022-07-29 |
 | [Wait & See](https://open.spotify.com/track/3nv8Krxy4YzauAdpSoLt8C) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Wait & See](https://open.spotify.com/album/1JGX9VVxDcCLbJlokLloon) | 2:54 | 2022-06-24 | 2023-03-09 |
 | [Wait & See](https://open.spotify.com/track/5x0tGUVj3sAwpGISvqlqCe) | [Mabes](https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su) | [Wait & See](https://open.spotify.com/album/092lxslMDdtfsPBfQ80vWH) | 2:54 | 2023-02-10 |  |
-| [Walk Away](https://open.spotify.com/track/0KeJcgrv8IsaFchZOFfx7S) | [Daniel Schulz](https://open.spotify.com/artist/3pVuaUisHmRfVy53qWwmql) | [Walk Away](https://open.spotify.com/album/53zBEG9p7iIwBCwhW5pOaa) | 2:40 | 2023-02-10 |  |
+| [Walk Away](https://open.spotify.com/track/0KeJcgrv8IsaFchZOFfx7S) | [Daniel Schulz](https://open.spotify.com/artist/3pVuaUisHmRfVy53qWwmql) | [Walk Away](https://open.spotify.com/album/53zBEG9p7iIwBCwhW5pOaa) | 2:40 | 2023-02-10 | 2023-07-26 |
 | [Walk Me Home](https://open.spotify.com/track/5UvXzxI8LyaHbAw8sncdMZ) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Walk Me Home](https://open.spotify.com/album/5FU9XgMIfRKhBDBXg7Z9o4) | 4:37 | 2022-09-16 | 2022-12-16 |
 | [We Are the Love We Give \- Acoustic](https://open.spotify.com/track/2dNhPqkFFecOTdHM5DDdld) | [Imaginary Future](https://open.spotify.com/artist/470WlqN9HSRDGNaMufeHHF) | [We Are the Love We Give \(Acoustic\)](https://open.spotify.com/album/7AAVYzYm120TfoLDRD8ZxQ) | 3:06 | 2022-05-30 | 2022-07-29 |
 | [When Does a Heart Move On](https://open.spotify.com/track/08ac5SU6HWQLjE0kFY6Dul) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [When Does a Heart Move On](https://open.spotify.com/album/6r7phdXKKMW2L9ZmISALET) | 3:52 | 2022-05-30 | 2022-07-29 |

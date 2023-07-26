@@ -1,13 +1,45 @@
 {
   "description": "Domino present you with their selection of the best independent music around. Enjoy!",
-  "num_followers": 78578,
+  "num_followers": 78575,
   "original_name": "Domino Sound System",
   "owner": {
     "name": "Domino Recording Company",
     "url": "https://open.spotify.com/user/dominorecords"
   },
-  "snapshot_id": "MzcyNSxlYjU0YjMxNWFkNWI1NDZjMzViN2RkYjYzZTA3NTUwNGEyN2RjMDg3",
+  "snapshot_id": "MzcyNiwxNDAyYTQ0NDdjYjY3YjA5ODUzZDUyN2NkYTZjMmU4M2ZjNjU3Y2Nk",
   "tracks": [
+    {
+      "added_at": "2023-07-25 16:02:20",
+      "album": {
+        "name": "New York / LA Hex",
+        "url": "https://open.spotify.com/album/1cDeSZLnliZgQ07a6VvDAK"
+      },
+      "artists": [
+        {
+          "name": "The Kills",
+          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+        }
+      ],
+      "duration_ms": 244444,
+      "name": "New York",
+      "url": "https://open.spotify.com/track/71Ohbh25hv8SzzZCfq8i4B"
+    },
+    {
+      "added_at": "2023-07-25 16:02:20",
+      "album": {
+        "name": "New York / LA Hex",
+        "url": "https://open.spotify.com/album/1cDeSZLnliZgQ07a6VvDAK"
+      },
+      "artists": [
+        {
+          "name": "The Kills",
+          "url": "https://open.spotify.com/artist/5BYuBzqmTXwUDw2rYkwExr"
+        }
+      ],
+      "duration_ms": 194583,
+      "name": "LA Hex",
+      "url": "https://open.spotify.com/track/2J40ajaXq2hP9Z1xxwbad0"
+    },
     {
       "added_at": "2023-07-20 09:03:18",
       "album": {

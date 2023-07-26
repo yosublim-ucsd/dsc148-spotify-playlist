@@ -317,6 +317,24 @@
     },
     {
       "album": {
+        "name": "Everybody's Talking (feat. Greg Blackman)",
+        "url": "https://open.spotify.com/album/0b9Rn4o1UbsyW3rM4qR8tg"
+      },
+      "artists": [
+        {
+          "name": "Dutty Moonshine Big Band",
+          "url": "https://open.spotify.com/artist/2aRD3jAqJXXE6luSkvLp3W"
+        }
+      ],
+      "date_added": "2023-07-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176529,
+      "name": "Everybody's Talking (feat. Greg Blackman)",
+      "url": "https://open.spotify.com/track/40JozCcMFdIbiqwjqu2iCc"
+    },
+    {
+      "album": {
         "name": "Art Pepper + Eleven: Modern Jazz Classics",
         "url": "https://open.spotify.com/album/3eFjOkJT3CopSAGmfFIqaJ"
       },
@@ -478,7 +496,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 297373,
       "name": "I Didn\u00b4t Tell Them Why",
       "url": "https://open.spotify.com/track/16yjO1COFYdqvjg0r6sweq"

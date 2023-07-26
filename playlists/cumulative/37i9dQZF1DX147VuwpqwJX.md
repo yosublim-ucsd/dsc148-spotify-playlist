@@ -4,7 +4,7 @@
 
 > The powerful, expressive sound of Ballroom and Vogue culture \- pioneered by the black LGBTQIA+ community\. Cover: Cakes da Killa
 
-134 songs - 8 hr 45 min
+135 songs - 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [I'M AN ICON](https://open.spotify.com/track/19v2hGGiGoV6HG76q3AoBQ) | [Icon Sinia Alaia](https://open.spotify.com/artist/4lcAwldRw3SfyyEmL80Hpo), [B\. Ames](https://open.spotify.com/artist/4vTr4hPE8WSlvgo9dkSZNW) | [I'M AN ICON](https://open.spotify.com/album/4VtP614QxtGsjlzxfSGBRk) | 3:16 | 2021-11-19 |  |
 | [Into The Light](https://open.spotify.com/track/3qbpb3YepbCVJMLx4jONIy) | [Purple Crush](https://open.spotify.com/artist/7k38mPk8Flx7gjsdVMIhg1) | [Ballroom Baby](https://open.spotify.com/album/5ltQzlLgfYXeP4sKh9aVWU) | 3:58 | 2021-11-19 |  |
 | [Jingle Balls](https://open.spotify.com/track/0OmmIqLH2Y1Ln2ddj7iebU) | [Ocean Kelly](https://open.spotify.com/artist/5Gzk0GbwDyoMuAvo4dhj3S) | [Jingle Balls](https://open.spotify.com/album/25k7tn8mxGfJjFVelyVnpa) | 1:46 | 2021-11-19 |  |
-| [Just What They Want](https://open.spotify.com/track/62s3hLvgAt4gavLSMPGcLT) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Just What They Want](https://open.spotify.com/album/5NKFYyhUTlEh6RmgRJc5AY) | 3:12 | 2021-11-19 |  |
+| [Just What They Want](https://open.spotify.com/track/0jq1oPbJ8seaxmHURGYlde) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Mamaru](https://open.spotify.com/album/2jBDNqjSMY1hUz1BGHsXWB) | 3:12 | 2023-07-14 |  |
+| [Just What They Want](https://open.spotify.com/track/62s3hLvgAt4gavLSMPGcLT) | [RuPaul](https://open.spotify.com/artist/2SdOKxC1sSxEyv8JYERaNe) | [Just What They Want](https://open.spotify.com/album/5NKFYyhUTlEh6RmgRJc5AY) | 3:12 | 2021-11-19 | 2023-07-26 |
 | [Kitten Heel \- Club Eat Remix](https://open.spotify.com/track/4o1wCXbXsEtfhlv3nQcwyz) | [Isabella Lovestory](https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt), [Club Eat](https://open.spotify.com/artist/073L1kDK5ruwVLIRHGQgwc) | [Remix Mixtape](https://open.spotify.com/album/5AeLQW8m7F7SjKKp9hKZX0) | 2:31 | 2021-11-19 |  |
 | [Kitty Bounce](https://open.spotify.com/track/46HY2sXH3sFVwnzfEIgKdg) | [Divoli S'vere](https://open.spotify.com/artist/5auaHQB2vtaJTdrppcTAEw), [B\. Ames](https://open.spotify.com/artist/4vTr4hPE8WSlvgo9dkSZNW) | [The Anti Drug](https://open.spotify.com/album/00mlBuKQCYBWAZa3GPd09C) | 2:50 | 2022-07-01 | 2023-06-10 |
 | [Kitty Bounce \(feat\. B\. Ames\)](https://open.spotify.com/track/5tj7H9bzzF5CNJBnov4nFG) | [Divoli S'vere](https://open.spotify.com/artist/5auaHQB2vtaJTdrppcTAEw), [B\. Ames](https://open.spotify.com/artist/4vTr4hPE8WSlvgo9dkSZNW) | [The Anti Drug](https://open.spotify.com/album/71hSY1JsCshZhrfFAbxaFq) | 2:50 | 2021-11-19 | 2022-07-29 |

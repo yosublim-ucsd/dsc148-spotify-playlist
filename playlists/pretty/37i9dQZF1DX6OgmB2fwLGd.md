@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: 2Rare
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,383,254 likes - 100 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,383,765 likes - 100 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 99 | [Tesla](https://open.spotify.com/track/4y2MBx0WKentE8pHFa52RU) | [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY), [Smokepurpp](https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM) | [Lil Pump 2](https://open.spotify.com/album/1ly2H0S0Ru5gJ2yvZZ18Uv) | 2:13 |
 | 100 | [F&F](https://open.spotify.com/track/2RtPfdY7tlSCH1lObqppYx) | [Coults](https://open.spotify.com/artist/1wssEB4lovC6SFyCOQr2XQ) | [COULTURE](https://open.spotify.com/album/65rfeH5KpPd6DvQgt3v3gi) | 2:01 |
 
-Snapshot ID: `MCw5MDk3ZjA3OTJkMzYxNTBkNmNmZTNiNWFhNmIwZTIyNWZhMzhmZGRj`
+Snapshot ID: `MCw2MmVlODY0YTc1OWE5MmUxMTYzY2JjMzY0YmZjNzNlNTg1OGQwY2Ni`

@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de indie/alternativo durante el 2020. En portada: Ela Minus",
-  "num_followers": 20948,
+  "num_followers": 20957,
   "original_name": "Lo Mejor del Indie/Alternativo 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTdmNzZlZGY2ODY3YTliOGQ1NGI4OTdmZmMxNDMzYzlkMjQ2NzBj",
+  "snapshot_id": "MCxmMDY1OTY1YzY3ODAyOGZkNWUyZjcwNzg3OWE4YTlhOTBkNDM4NGIz",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -815,6 +815,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "Cristales",
+        "url": "https://open.spotify.com/album/6jfAYLekcHR4qF3c39d6xK"
+      },
+      "artists": [
+        {
+          "name": "HOLOGRAMMA",
+          "url": "https://open.spotify.com/artist/7akSnRWtc7SsxdZSq0Evkm"
+        }
+      ],
+      "duration_ms": 225362,
+      "name": "Cristales",
+      "url": "https://open.spotify.com/track/3fl8Pm4eN1q1wbIMScw7em"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "Verte antes de fin de a\u00f1o",
         "url": "https://open.spotify.com/album/4nH0HJOHsqJOldNMvIw8nC"
       },
@@ -831,22 +847,6 @@
       "duration_ms": 216506,
       "name": "Cuando quieres jugar conmigo",
       "url": "https://open.spotify.com/track/6XVE5aiEJtV14YNiGLJiYz"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "Cristales",
-        "url": "https://open.spotify.com/album/6jfAYLekcHR4qF3c39d6xK"
-      },
-      "artists": [
-        {
-          "name": "HOLOGRAMMA",
-          "url": "https://open.spotify.com/artist/7akSnRWtc7SsxdZSq0Evkm"
-        }
-      ],
-      "duration_ms": 225362,
-      "name": "Cristales",
-      "url": "https://open.spotify.com/track/3fl8Pm4eN1q1wbIMScw7em"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Azulmagenta",
-        "url": "https://open.spotify.com/album/4NMpBN4NunLm6hINDVh5Lw"
-      },
-      "artists": [
-        {
-          "name": "Ev",
-          "url": "https://open.spotify.com/artist/21EczEifDKebasemX58Jp8"
-        }
-      ],
-      "duration_ms": 218354,
-      "name": "Azulmagenta",
-      "url": "https://open.spotify.com/track/0BWXCS8fU8Y4Rj2ng4fIsu"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Diciembre",
         "url": "https://open.spotify.com/album/2CaTs90sNVNUxcNhVDfjzt"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 278453,
       "name": "Diciembre",
       "url": "https://open.spotify.com/track/0HWHBcKEk8aT82oHLUJ1IE"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Azulmagenta",
+        "url": "https://open.spotify.com/album/4NMpBN4NunLm6hINDVh5Lw"
+      },
+      "artists": [
+        {
+          "name": "Ev",
+          "url": "https://open.spotify.com/artist/21EczEifDKebasemX58Jp8"
+        }
+      ],
+      "duration_ms": 218354,
+      "name": "Azulmagenta",
+      "url": "https://open.spotify.com/track/0BWXCS8fU8Y4Rj2ng4fIsu"
     },
     {
       "added_at": "2020-12-01 05:03:00",

@@ -1037,6 +1037,24 @@
     },
     {
       "album": {
+        "name": "chemistry",
+        "url": "https://open.spotify.com/album/5c56JYNgc48iDnwHHlOcye"
+      },
+      "artists": [
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196623,
+      "name": "my mistake",
+      "url": "https://open.spotify.com/track/6j7QoUcmUwe1FFEoTiwjjd"
+    },
+    {
+      "album": {
         "name": "Life Death Time Eternal (Deluxe)",
         "url": "https://open.spotify.com/album/2HGUm5iqR9seycVVT6wRnC"
       },

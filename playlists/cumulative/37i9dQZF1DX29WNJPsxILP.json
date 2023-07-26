@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Rap from the hoods of Dilli- Yungsta, Calm, Frappe Ash & Sez on the Beat.",
+  "description": "Rap from the hoods of Dilli featuring DRV",
   "name": "Dillihood",
   "tracks": [
     {
@@ -1414,6 +1414,24 @@
       "duration_ms": 270019,
       "name": "Sukoon",
       "url": "https://open.spotify.com/track/7e9eUqJIIKwN95T7Xsx8Jn"
+    },
+    {
+      "album": {
+        "name": "tere saath (i feel good)",
+        "url": "https://open.spotify.com/album/1eZUWcFJQ5gzlE1Q8Ps5T3"
+      },
+      "artists": [
+        {
+          "name": "DRV",
+          "url": "https://open.spotify.com/artist/0PJdf4ZWQLaf8LwQBDbqUL"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109714,
+      "name": "tere saath (i feel good)",
+      "url": "https://open.spotify.com/track/5EavRVLo1nDNTgLXPgfQYY"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > You bring the ingredients\. We bring the flavor\. Enjoy la cena!
 
-225 songs - 14 hr 15 min
+226 songs - 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Casa en el árbol](https://open.spotify.com/track/1NHZCn5YyOFPdsstGfsOxH) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Casa en el árbol](https://open.spotify.com/album/2Ra7SLmyFSACxeErw2eaYR) | 3:39 | 2023-03-07 |  |
 | [Catin Latin](https://open.spotify.com/track/38dUD8S84uJi5NGmQ3LsRX) | [Dave Pike](https://open.spotify.com/artist/64Qwp26Lb2beXJzBs0qBpl) | [The Very Best Of Dave Pike \(The Latin Jazz Legend\)](https://open.spotify.com/album/68HyYBWjTgPL4liVhD3OX6) | 4:49 | 2021-12-09 | 2022-07-29 |
 | [Cattin' Latin](https://open.spotify.com/track/2U5ceAAb10OELgDJ8YVuxl) | [Dave Pike](https://open.spotify.com/artist/64Qwp26Lb2beXJzBs0qBpl) | [The Carnival Samba](https://open.spotify.com/album/2sK8QxfxxHE6ky4OVuXLsz) | 4:47 | 2023-03-07 | 2023-05-01 |
-| [Cerca de ti \(feat\. Georgina\)](https://open.spotify.com/track/10oji60Sz18msn5AgTQI58) | [Efecto Pasillo](https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3), [Georgina](https://open.spotify.com/artist/71cjWNRukkIF8Ulh006x3b) | [Cerca de ti \(feat\. Georgina\)](https://open.spotify.com/album/2aaxxiwKt6qDtMnw9awlXi) | 3:28 | 2021-12-09 |  |
+| [Cerca de ti \(feat\. Georgina\)](https://open.spotify.com/track/10oji60Sz18msn5AgTQI58) | [Efecto Pasillo](https://open.spotify.com/artist/6CSa1r92LtHHdLG6kRabU3), [Georgina](https://open.spotify.com/artist/71cjWNRukkIF8Ulh006x3b) | [Cerca de ti \(feat\. Georgina\)](https://open.spotify.com/album/2aaxxiwKt6qDtMnw9awlXi) | 3:28 | 2021-12-09 | 2023-07-26 |
 | [Chocolat \(Swing\)](https://open.spotify.com/track/42gaDDxNCrQMkri7sQcqGq) | [Feten Feten](https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8) | [Bailables](https://open.spotify.com/album/2LXPajOlTfGvlm6jm1oFtW) | 3:44 | 2021-12-09 |  |
 | [Ché Ché Colé](https://open.spotify.com/track/5qpaGx8k2HKYzOqfYjTiwM) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Año Nuevo, Vida Nueva](https://open.spotify.com/album/5mUkfaaM8ioUFphoF0ewKE) | 3:27 | 2022-08-31 | 2022-11-14 |
 | [Ché Ché Colé](https://open.spotify.com/track/0yE5Uqw60fj0pGpsvtDnDQ) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Anthology](https://open.spotify.com/album/27RB4wbSSei1uyDJfrsxT2) | 3:29 | 2021-12-09 | 2022-07-29 |
@@ -82,6 +82,7 @@
 | [El Extranjero](https://open.spotify.com/track/795MWYB06Kuc3w1T26ftys) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Película Muda \(Primera Parte\)](https://open.spotify.com/album/5fiR3WAp6vuCLmxoQ88Vcd) | 5:42 | 2021-12-09 | 2023-03-08 |
 | [El hombre que quiso ser canción](https://open.spotify.com/track/30hpm4A4rtS0qNzt1vh5Ct) | [Alessio Arena](https://open.spotify.com/artist/4Am44NfcHNR70bBt9j1Kqc) | [Atacama!](https://open.spotify.com/album/6q0GpmH0bkdDuUvTd8leOf) | 4:11 | 2021-12-09 |  |
 | [El Liso \(feat\. Luis Towers\)](https://open.spotify.com/track/42dfjFDLaDrWIjFZWzQrsm) | [Palenke Soultribe](https://open.spotify.com/artist/4WGdIlBeHU97hLsYbXkkWA), [Louis Towers](https://open.spotify.com/artist/4AXeE39BJVhTXxKMVdF2Lc) | [Versus \(EP\)](https://open.spotify.com/album/6fgxUYxx6bFiXASvLzUBFw) | 4:18 | 2021-12-09 |  |
+| [El Llamado](https://open.spotify.com/track/4OgxEP5h38KjRYYPdA0grX) | [Alfredo Rodriguez](https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O), [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe) | [El Llamado](https://open.spotify.com/album/53JYiQ2PyJRHAl1nKCP4ap) | 3:41 | 2023-07-25 |  |
 | [El Rincón \(Chachachá\)](https://open.spotify.com/track/08jLZncRsF8HB2cgzBUTnN) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Las Olas](https://open.spotify.com/album/4RsOvbDDKueXvQSPHXTMi5) | 3:51 | 2022-01-01 |  |
 | [El rincón \(Chachachá\)](https://open.spotify.com/track/53FTMNsJZWS3rnJzHoaugG) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Las Olas](https://open.spotify.com/album/0QIv2shOFaPcLZpzydG3k0) | 3:51 | 2021-12-09 | 2022-07-29 |
 | [Electric Boogaloo](https://open.spotify.com/track/2uNlYmmvtJB0m3ZXhXsHKW) | [Yerba Buena](https://open.spotify.com/artist/024R83OqqR3AgPjYc3QtyT) | [President Alien](https://open.spotify.com/album/1kF981Cq9HULhdiAxKH5FH) | 4:00 | 2022-01-01 |  |

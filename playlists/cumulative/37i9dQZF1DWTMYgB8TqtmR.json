@@ -64,10 +64,36 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 151000,
       "name": "17",
       "url": "https://open.spotify.com/track/0Apl0ndMj1fWIY6rnD7gnY"
+    },
+    {
+      "album": {
+        "name": "TRAPEN TILL RADION",
+        "url": "https://open.spotify.com/album/7iAffbVeIbgvwwz04XOt5k"
+      },
+      "artists": [
+        {
+          "name": "ADAAM",
+          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
+        },
+        {
+          "name": "Pablo Paz",
+          "url": "https://open.spotify.com/artist/1MPDGl1VzA7muXZSIZ2Zc0"
+        },
+        {
+          "name": "takenoelz",
+          "url": "https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT"
+        }
+      ],
+      "date_added": "2023-07-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "17",
+      "url": "https://open.spotify.com/track/6y4Z3qrOwInrWJhocyiRcA"
     },
     {
       "album": {
@@ -6357,7 +6383,7 @@
     },
     {
       "album": {
-        "name": "POLLEN (feat. BELL)",
+        "name": "POLLEN",
         "url": "https://open.spotify.com/album/21PJSOuXESN1VkaEmNL3ea"
       },
       "artists": [
@@ -6374,7 +6400,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 150243,
-      "name": "POLLEN (feat. BELL)",
+      "name": "POLLEN",
       "url": "https://open.spotify.com/track/7AfpaQEypz50V2r3IlwqVT"
     },
     {

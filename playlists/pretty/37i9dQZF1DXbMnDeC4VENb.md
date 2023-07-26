@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 
 > Una eufórica dosis de urbano romántico en español.
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,589 likes - 103 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,670 likes - 103 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 | 47 | [Stupid Love Story](https://open.spotify.com/track/1VIQPJc3fGfX23S6SD651l) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX), [Apache](https://open.spotify.com/artist/2pvyE8W9RWESQxkyAWZqgY) | [Apa y Can](https://open.spotify.com/album/4Qk0GRWSaErdxCk5jXXtlx) | 4:42 |
 | 48 | [LQRA Session \#5](https://open.spotify.com/track/1YVyKeuVEhIGNTdhNjbREI) | [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [LQRA Session \#5](https://open.spotify.com/album/6fEbvdp7RK0pfoeHiJ2r8a) | 5:08 |
 | 49 | [Tienes el Don](https://open.spotify.com/track/2Jy1ib8MqDe2BoOoHvFxa6) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Inéditos](https://open.spotify.com/album/3i4B0RDk45Aaul2HKQxUPN) | 4:01 |
-| 50 | [Mírame Ma](https://open.spotify.com/track/6F4Q1QRbspGB4MrJHT1H1i) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Huracán](https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi) | 3:01 |
+| 50 | [Mírame Ma](https://open.spotify.com/track/6F4Q1QRbspGB4MrJHT1H1i) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Huracán](https://open.spotify.com/album/1yM29w2suYVpMursUbXQMi) | 3:01 |
 | 51 | [Perfecto \- Remix](https://open.spotify.com/track/680BOO124VxGj9DXEtCttL) | [Flavor Dudes](https://open.spotify.com/artist/1D6VT59kurnCfxoxZot88y), [Morfin BG](https://open.spotify.com/artist/1pTjTbVIKeovr6b96NHxCD), [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR), [JUAN DEVIL](https://open.spotify.com/artist/6eS34n4KlFtRTJSc4jPfuF), [Papi Masta](https://open.spotify.com/artist/2RW2ueniNZZockIyC7zZvX), [Roylets](https://open.spotify.com/artist/2NddLaj0FTrT2DvM0fCppY), [Doobie Free](https://open.spotify.com/artist/0X4qLtC1UiO2g8bBI1Ghcz), [La Crista](https://open.spotify.com/artist/3yDz5xFKNHH0dE309ZN07K), [Lil Kendo](https://open.spotify.com/artist/5imDl6ezPgIApRD09jhF1t), [Ruddi Nizz](https://open.spotify.com/artist/1UDkP5JtJNEytAuWfHlHVD), [Jacky Jacky](https://open.spotify.com/artist/3p1CbP1zehtOdImOl1c7be) | [Perfecto \(Remix\)](https://open.spotify.com/album/02OU9qgJcCQYeMsoq6FOta) | 6:52 |
 | 52 | [Bye Bye](https://open.spotify.com/track/7qJ2Ir5a0Mnv5vYxMCtFQD) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU) | [Bye Bye](https://open.spotify.com/album/5BjCKJq6y9DVugqzdMaJoR) | 4:27 |
 | 53 | [Confianza](https://open.spotify.com/track/4chzKVwJz3Dt0ryO3Vd9ue) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Inefable](https://open.spotify.com/album/5AcfM2EiLTrnFxQjpo7mxp) | 3:27 |
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 | 102 | [No Soy Tu Love](https://open.spotify.com/track/57yB8bNzHZGLtJDabybMux) | [KID FLEX](https://open.spotify.com/artist/3MG0nEhYET2TCkegY1QBP6) | [No Soy Tu Love](https://open.spotify.com/album/3F3e6r4cH03ZzXWA3wTVl6) | 2:02 |
 | 103 | [Nuestro Silencio](https://open.spotify.com/track/1zraV8Jxi9Srk1VN0rcPTn) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [Nuestro Silencio](https://open.spotify.com/album/7zNgzMXxxXMfhMjBkUUnhq) | 3:20 |
 
-Snapshot ID: `MCw5ODI3NTA4ZWNlZjM0YTA2OGFiZjVkMWFkNDA5M2ExMjliYTJiMzMy`
+Snapshot ID: `MCwxZTRlYzIxNmU4ZTNjYTdkNGJiNzBmMmI1YTBkMWQwZjQxMThmY2I3`

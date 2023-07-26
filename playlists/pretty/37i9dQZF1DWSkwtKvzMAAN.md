@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 
 > Funky blips and blops
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,655 likes - 50 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,664 likes - 50 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSkwtKvzMAAN.md) - [plain]
 | 41 | [We are the Jonzun Crew](https://open.spotify.com/track/6VoHnV1kzoW8CX1UTSgH3e) | [Jonzun Crew](https://open.spotify.com/artist/4NtTiFyP2cLkj3xplWBf59) | [Lost in Space](https://open.spotify.com/album/0Fo7UV7LDuq2h9cpSoiOTH) | 6:23 |
 | 42 | [Love So Deep](https://open.spotify.com/track/4j6GH3lNzFjWpszEmJJ1BR) | [Toney Lee](https://open.spotify.com/artist/1bqxl4NUclRsHX98Z3bn2v) | [Star\-Funk, Vol\. 17](https://open.spotify.com/album/3FwORjUHzBX0kWcBgzsw7Z) | 7:01 |
 | 43 | [Mega\-Mix "Prelude \#1" \- Inch By Inch, Music, Go With The Flow, Just Keep On Walking, Beat The Street, Keep Giving Me Love, Youre The One For Me, Must Be The Music, D Train \(Dub\) & Body Music](https://open.spotify.com/track/4lqzp8Llnu34IOAA0pKj31) | [Strikers](https://open.spotify.com/artist/6UZO3p1zvBC1QuPdgKDbzR), [D\-Train](https://open.spotify.com/artist/4gQEXxzqwNmQwjU0Wc0Ioe), [Weeks & Co.](https://open.spotify.com/artist/5RVgCRheVivlGnWebsyzaR), [Rod](https://open.spotify.com/artist/4B9tusBz94bD4jx4ErFjFB), [Sharon Redd & Secret Weapon](https://open.spotify.com/artist/3i2CCa9WEfTdnN2Vw1I0R5) | [Prelude Mastermixes, Vol.3](https://open.spotify.com/album/5WjHKodl6cRGe3prMvjuzr) | 11:26 |
-| 44 | [Search and Destroy \- Arcade Funk A](https://open.spotify.com/track/42sYfRss6mV0RZAUeA0nH7) | [Trouble Funk](https://open.spotify.com/artist/1EGr1AnjVRXYz8j9CTYDlm) | [Drop the Bomb](https://open.spotify.com/album/5C428Bs7onLI3fhgUavMbU) | 6:55 |
-| 45 | [Let's Dance \(Make Your Body Move\)](https://open.spotify.com/track/3BuIjV42Tsc3o3n2jp4S0Y) | [West Street Mob](https://open.spotify.com/artist/1DF9I8WTbKvhEifX7RwXbO) | [The Sugar Hill Records Story](https://open.spotify.com/album/27rUdsqReF9tEWcG2Wv04U) | 6:49 |
+| 44 | [Let's Dance \(Make Your Body Move\)](https://open.spotify.com/track/3BuIjV42Tsc3o3n2jp4S0Y) | [West Street Mob](https://open.spotify.com/artist/1DF9I8WTbKvhEifX7RwXbO) | [The Sugar Hill Records Story](https://open.spotify.com/album/27rUdsqReF9tEWcG2Wv04U) | 6:49 |
+| 45 | [Search and Destroy \- Arcade Funk A](https://open.spotify.com/track/42sYfRss6mV0RZAUeA0nH7) | [Trouble Funk](https://open.spotify.com/artist/1EGr1AnjVRXYz8j9CTYDlm) | [Drop the Bomb](https://open.spotify.com/album/5C428Bs7onLI3fhgUavMbU) | 6:55 |
 | 46 | [Rockin' Radio](https://open.spotify.com/track/3VRhXuwcMg3nzod1mZgtzO) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9) | [Rockin' Radio \(Expanded Edition\)](https://open.spotify.com/album/5Ic14256Mmnh7tJqF6T7kc) | 6:14 |
 | 47 | [Funn](https://open.spotify.com/track/3mCyWicf3WPPYyDQCibWW4) | [The Gunchback Boogie Band](https://open.spotify.com/artist/4oIIY392AXFfmOJH2y8fnC) | [Rare Preludes, Vol\. 3](https://open.spotify.com/album/0PHuEeLvtoLqwhJea7dLLA) | 5:36 |
 | 48 | [Computer Games](https://open.spotify.com/track/1BaRblvDOrRVcix5JMCOzH) | [Frank Cornilius](https://open.spotify.com/artist/1bIUFsfnVKZgYdavMkXEme) | [Soul Jazz Records presents SPACE FUNK \- Afro\-Futurist Electro Funk in Space 1976\-84](https://open.spotify.com/album/7FyxIddviuFxayIXXIl358) | 4:56 |
 | 49 | [Let The Music Play](https://open.spotify.com/track/4d8Bqtm7ODdQLFXxPSuK64) | [Shannon](https://open.spotify.com/artist/2O8QAJmRrwkFXq2aWZnHYB) | [The Best Is Yet To Come](https://open.spotify.com/album/4cj641XM0e3LcGSTWr2oEV) | 3:36 |
 | 50 | [Wildstyle](https://open.spotify.com/track/0N5nQNz1qpi9b9OypLB1rj) | [Time Zone](https://open.spotify.com/artist/1LueZf9jSHrdmMJjZTLowI) | [Change The Beat \- The Celluloid Records Story 1979 \- 1987](https://open.spotify.com/album/25Kag9cU21zj5HtxLfDVyF) | 8:18 |
 
-Snapshot ID: `MCw1M2YzYTBkYTcwZTgxMmQ4NzJiZGNlY2ExNzVlYjMyMjM1NTZkNGE5`
+Snapshot ID: `MCw3YTc5ZTZjNjBlZTMxNjA4MTMzZGNmYWFmMDZmZjhmZGU1NTFlMWM5`

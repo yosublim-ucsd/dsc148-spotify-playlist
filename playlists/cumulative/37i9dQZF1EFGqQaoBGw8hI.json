@@ -5726,7 +5726,7 @@
       ],
       "date_added": "2023-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 229102,
       "name": "Lou\u010den\u00ed",
       "url": "https://open.spotify.com/track/4intsoHfgFi43gtk5OCE7i"
@@ -11204,6 +11204,24 @@
       "duration_ms": 265090,
       "name": "Your Song",
       "url": "https://open.spotify.com/track/4olgfOwijIxciV0RKawvFo"
+    },
+    {
+      "album": {
+        "name": "M\u00e1me Si Co \u0158\u00edct",
+        "url": "https://open.spotify.com/album/60A8iAi3QswNe3I2UsmJB4"
+      },
+      "artists": [
+        {
+          "name": "Jitka Zelenkov\u00e1",
+          "url": "https://open.spotify.com/artist/7JiWNPWFog0sTz1f63HToI"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229474,
+      "name": "\u010c\u00e1st Kn\u00ed\u017eky",
+      "url": "https://open.spotify.com/track/30G8BhKXy9lsm3EVM9bdU9"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1EFGqQaoBGw8hI"

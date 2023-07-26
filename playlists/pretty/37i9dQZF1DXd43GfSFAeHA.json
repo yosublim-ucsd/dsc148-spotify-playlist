@@ -1,12 +1,12 @@
 {
   "description": "A selection of the finest Hip-Hop tracks from the illest Arab Rappers. Cover: Tagne",
-  "num_followers": 121535,
+  "num_followers": 121575,
   "original_name": "Arab Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhY2Y0NzRhMTNjZGYxZmI2MGY2YmFmNjFiODA0NmMyMWQxODg2M2Nk",
+  "snapshot_id": "MCxjMDUxMjU4ZjMxMDBiZDI4MTZmODEwMGVjNDhhZjE2M2E2YjJiOGUw",
   "tracks": [
     {
       "added_at": "2023-07-03 14:12:21",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-07-03 14:12:21",
       "album": {
-        "name": "Helma",
-        "url": "https://open.spotify.com/album/4ffyUt1pfPhGhPytnYaEcx"
-      },
-      "artists": [
-        {
-          "name": "Tagne",
-          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
-        }
-      ],
-      "duration_ms": 163527,
-      "name": "Helma",
-      "url": "https://open.spotify.com/track/0xCOet5hB68wGPL66JrUGZ"
-    },
-    {
-      "added_at": "2023-07-03 14:12:21",
-      "album": {
         "name": "Karta",
         "url": "https://open.spotify.com/album/4rKKoFTja1ZaQK5QnHXeXn"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 127754,
       "name": "MI AMORI",
       "url": "https://open.spotify.com/track/36D0CaOIYeAkdt4AkaZeff"
+    },
+    {
+      "added_at": "2023-07-03 14:12:21",
+      "album": {
+        "name": "Helma",
+        "url": "https://open.spotify.com/album/4ffyUt1pfPhGhPytnYaEcx"
+      },
+      "artists": [
+        {
+          "name": "Tagne",
+          "url": "https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc"
+        }
+      ],
+      "duration_ms": 163527,
+      "name": "Helma",
+      "url": "https://open.spotify.com/track/0xCOet5hB68wGPL66JrUGZ"
     },
     {
       "added_at": "2023-07-03 14:12:21",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-07-03 14:12:21",
       "album": {
-        "name": "KALBI",
-        "url": "https://open.spotify.com/album/52C44WKKnzqgzbnTb5J5pt"
-      },
-      "artists": [
-        {
-          "name": "Shabjdeed",
-          "url": "https://open.spotify.com/artist/0KJ7DiybcwyulZLILX3Z95"
-        }
-      ],
-      "duration_ms": 165899,
-      "name": "KALBI",
-      "url": "https://open.spotify.com/track/5hUJkjeGR4CCyMmMLt9iLx"
-    },
-    {
-      "added_at": "2023-07-03 14:12:21",
-      "album": {
         "name": "LILA",
         "url": "https://open.spotify.com/album/06CGM6DLyWKlbP1YYidQtx"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 164050,
       "name": "LILA",
       "url": "https://open.spotify.com/track/5CkDVJBrBjYduZiPtPmgRW"
+    },
+    {
+      "added_at": "2023-07-03 14:12:21",
+      "album": {
+        "name": "KALBI",
+        "url": "https://open.spotify.com/album/52C44WKKnzqgzbnTb5J5pt"
+      },
+      "artists": [
+        {
+          "name": "Shabjdeed",
+          "url": "https://open.spotify.com/artist/0KJ7DiybcwyulZLILX3Z95"
+        }
+      ],
+      "duration_ms": 165899,
+      "name": "KALBI",
+      "url": "https://open.spotify.com/track/5hUJkjeGR4CCyMmMLt9iLx"
     },
     {
       "added_at": "2023-07-03 14:12:21",
@@ -927,18 +927,26 @@
     {
       "added_at": "2023-07-03 14:12:21",
       "album": {
-        "name": "Niagara",
-        "url": "https://open.spotify.com/album/4Z1D2DGlYtAWZvV0OwodJV"
+        "name": "3al Keif",
+        "url": "https://open.spotify.com/album/51Lof84YvtpZtdNOZonXkJ"
       },
       "artists": [
         {
-          "name": "Syc",
-          "url": "https://open.spotify.com/artist/6IayXElM5gfjgyWj9Ipbiu"
+          "name": "Vortex",
+          "url": "https://open.spotify.com/artist/4ZmsZWoPes1sqS7Mo0a0xP"
+        },
+        {
+          "name": "Slow Moe",
+          "url": "https://open.spotify.com/artist/5ws4gBwkGLUzjVxhvw4Kwd"
+        },
+        {
+          "name": "Wezza Montaser",
+          "url": "https://open.spotify.com/artist/7nMcSzdtvLtrKIXIuLnxmj"
         }
       ],
-      "duration_ms": 125035,
-      "name": "Niagara",
-      "url": "https://open.spotify.com/track/4hPtfUDTbmXedQlQUCpIbg"
+      "duration_ms": 229090,
+      "name": "3al Keif",
+      "url": "https://open.spotify.com/track/4SG09CqoJMKO7EGfJCD0VZ"
     }
   ],
   "unique_name": "Arab Hip-Hop",

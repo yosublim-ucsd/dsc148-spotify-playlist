@@ -712,7 +712,7 @@
       ],
       "date_added": "2022-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 211666,
       "name": "Bhool Bhulaiyaa 2 Title Track (From \"Bhool Bhulaiyaa 2\")",
       "url": "https://open.spotify.com/track/2cbaCL38j8eUXBQjvLawET"
@@ -2390,7 +2390,7 @@
       ],
       "date_added": "2022-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-07-26",
       "duration_ms": 222054,
       "name": "Jehda Nasha (From \"An Action Hero\")",
       "url": "https://open.spotify.com/track/45C7tXCrmp3R5E65XUtLLj"
@@ -3064,6 +3064,24 @@
       "duration_ms": 181176,
       "name": "Liggi",
       "url": "https://open.spotify.com/track/66Nmp3ztIMqX1j8yYtWl1X"
+    },
+    {
+      "album": {
+        "name": "Lo Aayi Barsaat",
+        "url": "https://open.spotify.com/album/4A6JkFOHnUTSlZamQXCD58"
+      },
+      "artists": [
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222600,
+      "name": "Lo Aayi Barsaat",
+      "url": "https://open.spotify.com/track/2VsWBRKYkZH9FdD7AE6hRQ"
     },
     {
       "album": {
@@ -6068,6 +6086,44 @@
       "duration_ms": 187326,
       "name": "Tumhein Mohabbat",
       "url": "https://open.spotify.com/track/2TKBCWeVnjdyzOL4xgYLmo"
+    },
+    {
+      "album": {
+        "name": "Ve Kamleya (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+        "url": "https://open.spotify.com/album/7q4DcFIuSUzOoQs3QMvwNe"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Shadab Faridi",
+          "url": "https://open.spotify.com/artist/6WixbETKEXH0xBf0OB9kRB"
+        },
+        {
+          "name": "Altamash Faridi",
+          "url": "https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2023-07-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246988,
+      "name": "Ve Kamleya (From \"Rocky Aur Rani Kii Prem Kahaani\")",
+      "url": "https://open.spotify.com/track/1AmwIgy0WYLJJ5e24aCFTm"
     },
     {
       "album": {

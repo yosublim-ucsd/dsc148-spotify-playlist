@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: Jazzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,702 likes - 105 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,714 likes - 105 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 9 | [Pose](https://open.spotify.com/track/5LBemsCrsGqsXSGYA8i2z6) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW) | [Salvation](https://open.spotify.com/album/34yu5063EpoaKKir1m0q9e) | 3:11 |
 | 10 | [Rush](https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Rush](https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf) | 2:36 |
 | 11 | [Number 1](https://open.spotify.com/track/5HadIAY3Oray8VKuv3shgQ) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp) | [Number 1](https://open.spotify.com/album/0vkYGGLv8iwyQWdccl46j3) | 2:25 |
-| 12 | [She Knows \- With Akon](https://open.spotify.com/track/3zkb0907pOJqU7m3Qh5hB7) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [She Knows \(With Akon\)](https://open.spotify.com/album/0pj4zHdT9FsFOkpA9Qic4F) | 2:15 |
+| 12 | [She Knows \- with Akon](https://open.spotify.com/track/3zkb0907pOJqU7m3Qh5hB7) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [She Knows \(with Akon\)](https://open.spotify.com/album/0pj4zHdT9FsFOkpA9Qic4F) | 2:15 |
 | 13 | [Blackout \- Sampology Edit](https://open.spotify.com/track/60XFW0xSbNaUmULT7yXGCu) | [Tools & Figs](https://open.spotify.com/artist/2BDYQUNzau4C1e0D23ukkp), [Sampology](https://open.spotify.com/artist/4si18qS80CBDvSo59qthZJ) | [Blackout \(Sampology Edit\)](https://open.spotify.com/album/4uiZ6hWbkpuyLoBkjnDxE4) | 6:19 |
 | 14 | [Disconnect](https://open.spotify.com/track/602d2gJewoiF1FivuOMMwE) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Disconnect](https://open.spotify.com/album/3H9K8wtrhvkSSqnkevhaHA) | 2:44 |
 | 15 | [Million Pieces \- Elektrik Disko Remix](https://open.spotify.com/track/0TCTPV3SlhHBZRnhGjPiJI) | [Jolyon Petch](https://open.spotify.com/artist/00Ja3YjvU4DYCHWt6cPs42), [Elektrik Disko](https://open.spotify.com/artist/4Gi9MmIJNSFVf2TZWnFpeG) | [Million Pieces \(Remixes Pt\. 2\)](https://open.spotify.com/album/70gOrCpQIYZpPrB5P4gDle) | 2:48 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 104 | [Back To You](https://open.spotify.com/track/0TLHzVO3fyM2pTg9XQWutm) | [Duvall](https://open.spotify.com/artist/1h2q9GGssdAOHl86JUZgVc), [Navvy](https://open.spotify.com/artist/59uIMi3xrGO0kwfy7Zea24) | [Back To You](https://open.spotify.com/album/5bluYOQ6ASt8vaB1LSA1TI) | 2:33 |
 | 105 | [Receiver](https://open.spotify.com/track/4HigIvqZB8Wq329TR36uuf) | [mavzy grx](https://open.spotify.com/artist/2V0LlbHf7s77boS37hUkgR), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Eirik Næss](https://open.spotify.com/artist/2lvPwN75VoOSDqQxeoyq7z) | [Receiver](https://open.spotify.com/album/2f2ROVJ040d3fLzj74uF4F) | 2:44 |
 
-Snapshot ID: `MCxiMGFlNDZkMzBiYTI4ZTM4MWZjZDg1NjRhZjA3MDg5YTY3ZjhlODVl`
+Snapshot ID: `MCw0Y2E5NDMyYzY5YzFjYzhlYTdmZTY5Njc3MTFkMjU0ZDQ2YzBjMmI3`

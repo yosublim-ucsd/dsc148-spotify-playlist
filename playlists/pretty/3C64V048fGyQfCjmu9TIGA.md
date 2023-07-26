@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/3C64V048fGyQfCjmu9TIGA.md) - [plain]
 
 ### [90s HITS \| TOP 100 SONGS](https://open.spotify.com/playlist/3C64V048fGyQfCjmu9TIGA)
 
-> The best of the 1990s classics for July 4th, from TLC, Backstreet Boys, Destiny's Child, \*NSYNC, Mariah Carey, Christina Aguilera, Britney Spears, Jennifer Lopez + more\. Fourth of July \| 4th of July \| Independence Day
+> The best of the 1990s classics for July 4th, from TLC, Backstreet Boys, Destiny's Child, \*NSYNC, Mariah Carey, Christina Aguilera, Britney Spears, Jennifer Lopez + more.
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 2,119,866 likes - 129 songs - 8 hr 54 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 2,120,456 likes - 129 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -138,4 +138,4 @@ pretty - [cumulative](/playlists/cumulative/3C64V048fGyQfCjmu9TIGA.md) - [plain]
 | 128 | [The World Is Yours](https://open.spotify.com/track/7G3lxTsMfSx4yarMkfgnTC) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Illmatic](https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1) | 4:50 |
 | 129 | [Neon Moon](https://open.spotify.com/track/2M38X60UJnupGPbFTkVPNQ) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [Brand New Man](https://open.spotify.com/album/4cqxNQQB21g1jEWtnu3jN3) | 4:21 |
 
-Snapshot ID: `MTc2MiwzMjI0MzRlOWE1Y2E0ZTM0N2QxM2Y3ZTQ5NzAwZmNhNGU5ZDU2MGVj`
+Snapshot ID: `MTc2Myw3M2YzMzMwMDY1MTAzMjk5MGY1MTQ2MzAyOWVlMTUyNTA2MzdlZDQ0`
